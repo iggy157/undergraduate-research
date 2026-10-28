@@ -94,3 +94,23 @@ docs/paper_draft.md v4 §4 の評価設計を、パイロット 6 (log/_pilot6�
 - 不応答・誤帰属・翻意は検出できるほど起きていない。本実験では落とすか、起きた場合だけ報告する。
 
 ストーリーへの含意: 族 A は「single は短く (words/turn)、反復せず (Non-repetition、空回り率)、multi は応答し (Responsiveness)、反論する (Rebuttal)」という**族 A 内のトレードオフ**として書くのが実測に合う。「テンポが良く自然なやり取り」は、短さと非冗長性の面で言え、応答性の面では言えない。
+
+## パイロット 7 (2026-10-28、共通ルール文に 1 文追加)
+
+背景: 移植元のお手本 (manyshot-ablation の exemplars_raw、各ドメイン 10 本) は語数 21〜22、他者の名前を呼ぶ発話 47〜51%、Over 6 本/局で、明らかにやり取りになっていた。移植元の単体プロンプトには「4 つの失敗モードを克服せよ (情報を出す・早期収束しない・少数派が粘る・大半の発話は短く)」の明示があり、本基盤では統制のため両方式から削っていた。その結果、single-batch は各自が持ち場を順に報告する並列の独白になっていた (名指し 1%)。
+
+変更 (commit 5b54563): 共通ブロック `## Discussion format` の末尾に 1 文「The talk is a conversation among the participants: they respond to one another, asking, answering, agreeing and objecting, and the decision grows out of that exchange.」を追加 (失敗モードの列挙はせず、量や形式も指定しない。両方式に同文)。パイロット 6 の 9 設定で single-batch / single-online / multi-private を再実行 (log/_pilot7、27 局、4 台の vLLM、バッチ不変モード、15:03〜15:43)。
+
+自動指標 (議論ドメイン、pilot 6 → 7): 発話数/局 single-batch 28 → 39、single-online 48 → 54、multi-private 55 → 60。語数/発話 16.2 → 15.1 / 23.2 → 24.8 / 32.9 → 33.8。他者の名前を呼ぶ発話 1% → 4% / 7% → 14% / 10% → 14%。Over + Skip /局 19 → 11 / 8 → 5 / 3.5 → 1.2。
+
+発話単位の注釈 (100 発話あたり、Opus / Sonnet、全ドメイン、pilot 6 → 7):
+
+| 条件 | Responsiveness | Rebuttal | 空回り |
+|---|---|---|---|
+| single-batch | 42 / 50 → **58 / 66** | 8 / 6 → 13 / 8 | 17 / 16 → 20 / 15 |
+| single-online | 61 / 60 → 67 / 73 | 16 / 11 → 12 / 8 | 24 / 16 → 22 / 19 |
+| multi-private | 62 / 70 → 70 / 79 | 19 / 17 → 19 / 15 | 31 / 23 → 29 / 22 |
+
+判定者間一致 (1,292 発話): Responsiveness κ 0.75、Rebuttal κ 0.74、空回り κ 0.71。不応答・誤帰属・翻意は引き続きほぼ 0。
+
+読み: 1 文で single-batch の応答性は 16 ポイント上がり、multi との差は 20 → 12 に縮んだが、消えてはいない。議論ドメインでは single-batch 48〜59 vs multi 61〜84。空回り率は multi が依然 1.5〜2 倍 (候補者選定 30 vs 44 / 25 vs 33)。single-batch の短さ (15 語) と譲り (Over 11 本/局) は保たれた。お手本の水準 (名指し 5 割) には遠く、お手本の対話性は失敗モードの明示 + 「大半の発話は短く、問い返し」の指示に依っていたと見るのが妥当。
