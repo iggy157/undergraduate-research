@@ -70,6 +70,11 @@ def test_condition_tags():
         condition_tag("multi", information="private", plan="outline")
     with pytest.raises(ValueError):
         parse_condition("single-stepped")
+    assert multi_tag(seat_stepped=True) == "multi-private-stepped" and multi_tag(reveal=True, seat_stepped=True) == "multi-public-stepped"
+    assert parse_condition("multi-private-stepped-process") == {"tag": "multi-private-stepped-process", "method": "multi",
+                                                               "information": "private", "generation": "batch-stepped",
+                                                               "plan": "process", "dir": "multi-private-stepped"}
+    assert condition_tag("multi", information="public", generation="batch-stepped") == "multi-public-stepped"
 
 
 def test_plan_block_is_appended_identically_for_every_condition():
@@ -150,10 +155,11 @@ def test_scenario_validation_rejects_inconsistent_plans():
 
 
 def play(ctx: GameContext, log_dir: Path, *, writer: bool = False, reveal: bool = False, stepped: bool = False,
-         scenario=None, scenario_info=None):
+         scenario=None, scenario_info=None, seat_stepped: bool = False):
     port_ev = threading.Event()
     box: dict = {}
-    condition = multi_tag(reveal=reveal, writer=writer, stepped=stepped, plan=(scenario or {}).get("granularity") if scenario else None)
+    condition = multi_tag(reveal=reveal, writer=writer, stepped=stepped, plan=(scenario or {}).get("granularity") if scenario else None,
+                          seat_stepped=seat_stepped)
 
     def on_listening(port: int) -> None:
         box["port"] = port
@@ -173,7 +179,11 @@ def play(ctx: GameContext, log_dir: Path, *, writer: bool = False, reveal: bool 
     th.start()
     assert port_ev.wait(10) and "error" not in box
     url = f"ws://127.0.0.1:{box['port']}"
-    agents = make_game_agents(ctx, FakeLLM, log_dir, writer=writer, reveal=reveal, stepped=stepped, scenario=scenario)
+    if seat_stepped:
+        from agent.base.registry import make_agent
+        agents = [make_agent(ctx, s, FakeLLM(), log_dir, reveal=reveal, scenario=scenario, seat_stepped=True) for s in range(1, 6)]
+    else:
+        agents = make_game_agents(ctx, FakeLLM, log_dir, writer=writer, reveal=reveal, stepped=stepped, scenario=scenario)
     threads = [threading.Thread(target=run_client, args=(url, a), kwargs={"connect_timeout": 20}, daemon=True)
                for a in agents]
     for t in threads:
@@ -325,3 +335,33 @@ def test_cli_wiring_with_fake_llm(tmp_path):
     recs = list(read_jsonl(sdirs[0] / f"{sdirs[0].name}.jsonl"))
     assert recs[0]["condition"] == "single-batch-turn" and recs[0]["pipeline"] == "batch" and recs[0]["scenario"]["granularity"] == "turn"
     assert "## Plan" in recs[1]["messages"][0]["content"] and "  - Turn 1: " in recs[1]["messages"][0]["content"]
+
+
+@pytest.mark.parametrize("setup_id", ["aiwolf_0001", "candidate_selection_0001"])
+def test_seat_stepped_messages_are_the_participant_prompt_plus_the_batch_request_and_the_own_view(setup_id, tmp_path):
+    """multi-private-stepped: system = the seat's own (private) participant prompt, user = the single-batch writing
+    request, assistant = the seat's own view so far + its label; only the seat's own line reaches the server."""
+    from agent.base.registry import make_agent
+    ctx = GameContext.load(setup_id)
+    game, rows, agents = play(ctx, tmp_path, seat_stepped=True)
+    assert any(r.type == "result" for r in rows)
+    assert "__multi-private-stepped__" in game.game_id and game.game_dir.parent.name == "multi-private-stepped"
+    batch_user = build_messages(ctx)[1]
+    checked = 0
+    for ag in agents:
+        plain = make_agent(ctx, ag.seat, FakeLLM(), tmp_path)  # the multi-private agent of the same seat
+        assert ag.system_prompt == plain.system_prompt and ag.condition == "multi-private-stepped"
+        for rec in ag.records:
+            msgs = rec["messages"]
+            assert msgs[0]["content"] == plain.system_prompt and msgs[1] == batch_user and msgs[2]["role"] == "assistant"
+            assert rec["continuation"] == "fake"
+            if rec["request"] == "TALK":
+                row = next(r for r in rows if r.type in ("talk", "pass") and r.round == rec["round"]
+                           and r.turn == rec["turn"] and r.agent == ag.name)
+                exp = view_from_rows(rows, ctx, ag.seat, upto_seq=row.seq, ensure_turn=(row.round, row.turn)).render() + f"\n- **{ag.name}**:"
+                assert msgs[2]["content"] == exp, (ag.name, rec["round"], rec["turn"])
+                assert rec["stop"] == ag.stop_talk
+            else:
+                assert msgs[2]["content"].endswith("->")
+            checked += 1
+    assert checked >= 25

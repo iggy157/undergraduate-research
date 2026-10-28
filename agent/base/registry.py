@@ -29,10 +29,10 @@ def make_agent(ctx: GameContext, seat: int, llm: LLMClient, log_dir: Path | str,
                max_tokens: dict[str, int] | None = None, stop_talk: list[str] | None = None, *,
                reveal: bool = False, writer: bool = False, stepped: bool = False,
                scenario: dict[str, Any] | None = None, shared_view: SeatTranscript | None = None,
-               lock: threading.RLock | None = None) -> SeatAgent:
+               lock: threading.RLock | None = None, seat_stepped: bool = False) -> SeatAgent:
     return agent_class(ctx.domain)(ctx, seat, llm, log_dir, max_tokens=max_tokens, stop_talk=stop_talk,
                                    reveal=reveal, writer=writer, stepped=stepped, scenario=scenario,
-                                   shared_view=shared_view, lock=lock)
+                                   shared_view=shared_view, lock=lock, seat_stepped=seat_stepped)
 
 
 def make_game_agents(ctx: GameContext, llm_factory, log_dir: Path | str, max_tokens: dict[str, int] | None = None,

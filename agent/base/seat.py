@@ -79,7 +79,8 @@ class SeatAgent:
                  max_tokens: dict[str, int] | None = None, env: Environment | None = None,
                  stop_talk: list[str] | None = None, *, reveal: bool = False, writer: bool = False,
                  stepped: bool = False, scenario: dict[str, Any] | None = None,
-                 shared_view: SeatTranscript | None = None, lock: threading.RLock | None = None):
+                 shared_view: SeatTranscript | None = None, lock: threading.RLock | None = None,
+                 seat_stepped: bool = False):
         self.ctx = ctx
         self.seat = int(seat)
         self.name = ctx.name_of_seat(self.seat)
@@ -89,18 +90,24 @@ class SeatAgent:
         self.rules = rules_of(ctx)
         self.max_tokens = dict(max_tokens or {"multi_talk": 1024, "multi_vote": 64, "multi_action": 64})
         self.stop_talk: list[str] = list(stop_talk) if stop_talk is not None else ["\n- **", "\n####", "\n###", "\n##"]
-        self.stepped = bool(stepped)
+        self.seat_stepped = bool(seat_stepped)       # multi-*-stepped: this seat continues its own view as a writer
+        self.stepped = bool(stepped or seat_stepped)  # continuation calls (/v1/completions) with the batch request
         self.reveal = bool(reveal or writer or stepped)
         self.writer_mode = bool(writer or stepped)   # both write every seat's line from the shared writer view
         self.scenario = scenario
         plan = (scenario or {}).get("granularity") if scenario is not None else None
-        self.condition = multi_tag(reveal=reveal, writer=writer, stepped=stepped, plan=plan)
+        self.condition = multi_tag(reveal=reveal, writer=writer, stepped=stepped, plan=plan, seat_stepped=seat_stepped)
         self.batch_user: str | None = None
-        if self.stepped:  # the single-batch prompt, continued as the assistant's own output
+        if stepped:  # the single-batch prompt, continued as the assistant's own output
             from single.base.prompt import build_messages
             sys_msg, user_msg = build_messages(ctx, scenario=scenario)
             self.system_prompt = sys_msg["content"]
             self.batch_user = user_msg["content"]
+        elif seat_stepped:  # the participant's system prompt + the single-batch writing request; own view continued
+            from single.base.prompt import build_messages
+            self.system_prompt = build_system_prompt(ctx, self.seat, self.env, reveal=self.reveal, writer=False,
+                                                     scenario=scenario)
+            self.batch_user = build_messages(ctx, scenario=scenario)[1]["content"]
         else:
             self.system_prompt = build_system_prompt(ctx, self.seat, self.env, reveal=self.reveal, writer=self.writer_mode,
                                                      scenario=scenario)

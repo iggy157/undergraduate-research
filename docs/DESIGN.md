@@ -500,3 +500,10 @@ v0.1 の他の 6 点は次で確定: 文言は §6.2 案 (パイロット後に�
 - online → multi-public の段には、役割文と文脈の分割に加えて**他席の夜の行動・調査の可視性** (書き手ビューは全席の divine / attack / investigate 行を見る; multi-public の席ビューは自席分だけ) が含まれる。論文では「書き手 1 人の全知の文脈 vs 席ごとの文脈 (他席の動的な秘密は見えない)」として明記する。
 - 2026-10-28 パイロット 6 (修正版、log/_pilot6、72 局 + 筋書き 9 本、`VLLM_BATCH_INVARIANT=1`、2 台): 72/72 終局。**single-batch の反復 2 回は 9/9 setup で全文一致** (バッチ不変モードで決定的)。stepped の占いは 3/3 有効。ビューのバイト一致 45/45 局、prompt_token_ids = usage.prompt_tokens 2730/2730。議論ドメインの採択ラベルは A/B/C/D に分散 (option_perm の効果)。process 条件の先出し違反は multi-private-process 合計 1 件 (第 1 ラウンドは 27 件)。batch と stepped: cs_0002 は全文一致、他 8 setup は 5〜26 行目で分岐。分岐の原因: (i) 同一接頭辞からの近接確率の反転 4 件 (logprob 差 ≤ 0.06、aiwolf_0003 は完全同値) — バッチ不変でも **prefill (stepped は接頭辞を再計算) と decode (batch は 1 トークンずつ) の数値経路が違う**ため。(ii) サーバの正規化 (`Skip.` → `Skip`) 1 件、(iii) 書き手の空行や全員 Over 後の構造をサーバが矯正 3 件。報告の形: 「反復は同一 (決定的)。batch と stepped の差は、近接確率の反転 (実装の数値解像度以下) とサーバの構造矯正に限られる」。
 
+
+## 15. multi-*-stepped: 全文の生成目標を席ごとの生成に移植する条件 (2026-10-29)
+
+- 条件札 `multi-private-stepped` / `multi-public-stepped` (`common.conditions`、`-<plan>` も可)。席ごとの 5 プロセス (`python -m agent --seat N --seat-stepped`、`scripts/run_multi.py --seat-stepped [--reveal]`)。
+- 各席: system = その席の参加者プロンプト (multi-private / multi-public と同一)、user = single-batch の書き手への要求 (`single/prompts/user.jinja` + 出力形式、single-batch-stepped と同一)、assistant = 自席ビューの台本 + 自分の札 (`- **X**:`)。`/tokenize` + `/v1/completions` の続き書き (single-batch-stepped と同じ経路) で、停止列は次の台本要素。モデルは他席の行まで書き続けうるが、サーバが受け取るのは自席の 1 行だけ。票・夜の行動も同じく自席ビューの札 (`- X ->`) の続き書き。
+- 目的: 密度・譲りの差が「全文を 1 回で書く生成目標」によるものか、「1 人が全員分を書く (文脈の非分割)」によるものかを分ける。multi-private との差が目標の効果、single-batch-stepped との差が分割 (+ 情報) の効果。hidden states の gen_point (札トークン) は single-batch-stepped と同じ位置。
+- 記録: llm_call に `continuation`, `prompt_ids`, `prefix_ids` (stepped と同形)。`scripts/extract_hidden.py` は kind = stepped として扱う。

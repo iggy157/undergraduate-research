@@ -29,6 +29,7 @@ from common.setup import SETUPS  # noqa: E402
 PY = str(ROOT / ".venv" / "bin" / "python")
 CORE = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private"]
 PLAN = ["single-batch-process", "multi-private-process"]
+EXTRA = ["multi-private-stepped", "multi-public-stepped"]  # the whole-transcript goal transplanted into the seats
 DOMAINS = ["aiwolf", "candidate_selection", "shared_living"]
 
 
@@ -43,6 +44,8 @@ def command(setup: str, cond: str, model: str, log_dir: str, port: int) -> list[
         "multi-private": multi,
         "single-batch-process": single + ["--scenario", "auto", "--plan-granularity", "process"],
         "multi-private-process": multi + ["--scenario", "auto", "--plan-granularity", "process"],
+        "multi-private-stepped": multi + ["--seat-stepped"],
+        "multi-public-stepped": multi + ["--reveal", "--seat-stepped"],
     }[cond]
 
 
@@ -87,7 +90,8 @@ def main(argv=None) -> int:
     else:
         setups = a.setups.split(",")
     conds = a.conditions.split(",")
-    jobs = [(s, c) for c in conds if c in CORE for s in setups] + [(s, c) for c in conds if c in PLAN for s in setups]
+    jobs = ([(s, c) for c in conds if c in CORE + EXTRA for s in setups]
+            + [(s, c) for c in conds if c in PLAN for s in setups])
     jobs = [(s, c) for s, c in jobs if not done(log_dir, s, c)]
     print(f"{len(jobs)} jobs to run ({len(setups)} setups x {len(conds)} conditions, completed ones skipped)")
     if a.dry_run:

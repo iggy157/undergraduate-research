@@ -54,6 +54,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--writer", action="store_true", help="single-online: one writer, shared writer view (needs --seats all)")
     ap.add_argument("--stepped", action="store_true",
                     help="single-batch-stepped: the batch prompt continued one line per call (needs --seats all)")
+    ap.add_argument("--seat-stepped", action="store_true",
+                    help="multi-*-stepped: this seat gets the single-batch writing request and continues its own view "
+                         "one line per call (needs --seat N)")
     ap.add_argument("--scenario", default=None, help="'auto' = scenarios/<domain>/<setup_id>.json, or a path")
     ap.add_argument("--plan-granularity", choices=list(GRANULARITIES), default=None,
                     help=f"view of the plan to show (default {DEFAULT_GRANULARITY})")
@@ -64,6 +67,8 @@ def main(argv: list[str] | None = None) -> int:
         ap.error("--writer / --stepped need --seats all (the seats share one view)")
     if a.writer and a.stepped:
         ap.error("--writer and --stepped are different conditions")
+    if a.seat_stepped and (a.seats == "all" or a.writer or a.stepped):
+        ap.error("--seat-stepped runs one seat per process (--seat N) and excludes --writer / --stepped")
 
     ctx = GameContext.load(a.setup)
     if a.info_mode:
@@ -104,7 +109,7 @@ def main(argv: list[str] | None = None) -> int:
                 t.join()
             return max(rcs.values()) if rcs else 1
         ag = make_agent(ctx, a.seat, llm_factory(), a.log_dir, max_tokens=max_tokens, stop_talk=stop_talk,
-                        reveal=a.reveal, scenario=scenario)
+                        reveal=a.reveal, scenario=scenario, seat_stepped=a.seat_stepped)
         return run_client(a.url, ag, connect_timeout=a.connect_timeout, verbose=a.verbose)
     except Exception as e:  # noqa: BLE001
         print(f"[agent seat{a.seat}] fatal: {type(e).__name__}: {e}", file=sys.stderr)

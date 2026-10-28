@@ -50,8 +50,10 @@ def served_model_info(cfg: ModelConfig) -> dict | None:
     return None
 
 
-def condition_of(reveal: bool, writer: bool, stepped: bool, scenario: bool, granularity: str = DEFAULT_GRANULARITY) -> str:
-    return multi_tag(reveal=reveal, writer=writer, stepped=stepped, plan=granularity if scenario else None)
+def condition_of(reveal: bool, writer: bool, stepped: bool, scenario: bool, granularity: str = DEFAULT_GRANULARITY,
+                 seat_stepped: bool = False) -> str:
+    return multi_tag(reveal=reveal, writer=writer, stepped=stepped, plan=granularity if scenario else None,
+                     seat_stepped=seat_stepped)
 
 
 def _relay(proc: subprocess.Popen, lines: list[str]) -> None:
@@ -80,6 +82,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--reveal", action="store_true", help="M1: every seat sees all participants + hidden information")
     ap.add_argument("--writer", action="store_true", help="S-online: one writer LLM writes every seat's line")
     ap.add_argument("--stepped", action="store_true", help="single-batch-stepped: the batch prompt continued one line per call")
+    ap.add_argument("--seat-stepped", action="store_true",
+                    help="multi-*-stepped: every seat gets the single-batch writing request and continues its own view; "
+                         "the server keeps only its own line")
     ap.add_argument("--scenario", default=None, help="'auto' or a path: give the plan (all but process imply reveal)")
     ap.add_argument("--plan-granularity", choices=list(GRANULARITIES), default=DEFAULT_GRANULARITY,
                     help="view of the plan: process | outcome | outline | turn")
@@ -88,6 +93,8 @@ def main(argv: list[str] | None = None) -> int:
         ap.error(f"a {a.plan_granularity} plan names the outcome: add --reveal (multi-public) or use --plan-granularity process")
     if a.writer and a.stepped:
         ap.error("--writer and --stepped are different conditions")
+    if a.seat_stepped and (a.writer or a.stepped):
+        ap.error("--seat-stepped is a multi condition: not with --writer / --stepped")
 
     py = sys.executable
     header_extra: dict = {}
@@ -98,7 +105,7 @@ def main(argv: list[str] | None = None) -> int:
         model_tag, model_name = mcfg.model_tag, mcfg.model
         header_extra = {"sampling": mcfg.sampling(), **served_info(mcfg.base_url, mcfg.model, mcfg.api_key),
                         "endpoint": mcfg.base_url, "models_yml_sha1": models_yml_sha1(), "code_tree": code_tree_sha1()}
-    condition = condition_of(a.reveal, a.writer, a.stepped, a.scenario is not None, a.plan_granularity)
+    condition = condition_of(a.reveal, a.writer, a.stepped, a.scenario is not None, a.plan_granularity, a.seat_stepped)
     server_cmd = [py, "-m", "server", "--setup", a.setup, "--port", str(a.port), "--log-dir", a.log_dir,
                   "--model-tag", model_tag, "--model", model_name]
     if header_extra:
@@ -145,6 +152,8 @@ def main(argv: list[str] | None = None) -> int:
             cmd = [py, "-m", "agent", "--seat", str(seat), *common]
             if a.reveal:
                 cmd.append("--reveal")
+            if a.seat_stepped:
+                cmd.append("--seat-stepped")
             agents.append(subprocess.Popen(cmd, cwd=ROOT))
 
     try:

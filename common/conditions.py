@@ -7,9 +7,12 @@ Axes:
                the transcript so far given in the user message)
   information  multi only: private (own secret only) | public (every participant's secrets shown to every seat)
   plan         none | process | outcome | outline | turn   (the ## Plan block and its granularity; all but process imply public)
+  (multi)      ``-stepped``: every seat gets the single-batch writing request and continues its own view as the writer
+               would, one line per call; the server keeps only that line (the whole-transcript goal transplanted into
+               per-seat agents, 2026-10-29)
 
-Tags: ``single-batch``, ``single-batch-stepped``, ``single-online``, ``multi-private``, ``multi-public``, each optionally
-``-<plan>``.
+Tags: ``single-batch``, ``single-batch-stepped``, ``single-online``, ``multi-private``, ``multi-public``,
+``multi-private-stepped``, ``multi-public-stepped``, each optionally ``-<plan>``.
 Logs live in ``log/<domain>/<tag without plan>/<game_id>`` with ``game_id = <setup>__<tag>__<model_tag>__<ts>``.
 The *pipeline* (which code runs the game) is a separate header field: ``batch`` (single/) or ``server`` (server/ + agent/);
 single-online runs on the server pipeline.
@@ -23,7 +26,8 @@ GENERATIONS = ("batch", "batch-stepped", "online")
 INFORMATIONS = ("private", "public")
 PLANS = ("process", "outcome", "outline", "turn")
 PRIVATE_SAFE_PLANS = ("process",)   # no outcomes, no secrets: may be given to multi-private too
-BASE_TAGS = ("single-batch", "single-batch-stepped", "single-online", "multi-private", "multi-public")
+BASE_TAGS = ("single-batch", "single-batch-stepped", "single-online", "multi-private", "multi-public",
+             "multi-private-stepped", "multi-public-stepped")
 LEGACY_DIRS = ("single", "multi")  # log directories of runs before 2026-10-28
 
 
@@ -40,7 +44,10 @@ def condition_tag(method: str, *, generation: str | None = None, information: st
             raise ValueError(f"information {i!r} not in {INFORMATIONS}")
         if plan and i != "public" and plan not in PRIVATE_SAFE_PLANS:
             raise ValueError(f"plan {plan!r} implies public information (it names the outcome)")
-        base = f"multi-{i}"
+        g = generation or "online"
+        if g not in ("online", "batch-stepped"):
+            raise ValueError(f"multi generation {g!r} must be online or batch-stepped")
+        base = f"multi-{i}" + ("-stepped" if g == "batch-stepped" else "")
     else:
         raise ValueError(f"method {method!r} not in {METHODS}")
     if plan:
@@ -73,6 +80,9 @@ def parse_condition(tag: str) -> dict[str, Any]:
         axes["generation"] = "online"   # one line per call
         rest = parts[2:]
         base = f"multi-{parts[1]}"
+        if rest[:1] == ["stepped"]:     # the seats continue their own view with the single-batch request
+            axes["generation"], rest = "batch-stepped", rest[1:]
+            base += "-stepped"
     if len(rest) == 1:
         if rest[0] not in PLANS:
             raise ValueError(f"bad condition tag {tag!r}")
@@ -88,14 +98,16 @@ def condition_dir(tag: str) -> str:
     return parse_condition(tag)["dir"]
 
 
-def multi_tag(*, reveal: bool = False, writer: bool = False, stepped: bool = False, plan: str | None = None) -> str:
+def multi_tag(*, reveal: bool = False, writer: bool = False, stepped: bool = False, plan: str | None = None,
+              seat_stepped: bool = False) -> str:
     """The tag of a server-pipeline run from the agent flags."""
     if stepped:
         return condition_tag("single", generation="batch-stepped", plan=plan)
     if writer:
         return condition_tag("single", generation="online", plan=plan)
     public = reveal or (plan is not None and plan not in PRIVATE_SAFE_PLANS)
-    return condition_tag("multi", information="public" if public else "private", plan=plan)
+    return condition_tag("multi", information="public" if public else "private", plan=plan,
+                         generation="batch-stepped" if seat_stepped else None)
 
 
 __all__ = ["BASE_TAGS", "GENERATIONS", "INFORMATIONS", "LEGACY_DIRS", "METHODS", "PLANS", "PRIVATE_SAFE_PLANS", "condition_dir",
