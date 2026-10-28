@@ -3,8 +3,14 @@ endpoints:
   local_vllm:
     base_url: http://localhost:8000/v1
     api_key_env: VLLM_API_KEY      # unused unless vLLM was started with --api-key
-  local_vllm_b:                    # a second instance of the same model on another GPU (games are split across them)
+  local_vllm_b:                    # further instances of the same model on other GPUs (games are split across them)
     base_url: http://localhost:8010/v1   # 8001/8002 are taken by other services on this host
+    api_key_env: VLLM_API_KEY
+  local_vllm_c:
+    base_url: http://localhost:8020/v1
+    api_key_env: VLLM_API_KEY
+  local_vllm_d:
+    base_url: http://localhost:8030/v1
     api_key_env: VLLM_API_KEY
 models:
   default:                         # main runs: greedy decoding (temperature 0; DESIGN §10 / paper_draft 付録 D)
@@ -24,6 +30,36 @@ models:
     logprobs: true                 # record generated token ids + logprobs (vLLM) in every llm_call (DESIGN §3.2)
   default_b:                       # = default, served by the second instance (local_vllm_b)
     endpoint: local_vllm_b
+    model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  default_c:                       # = default, served by instance c (local_vllm_c)
+    endpoint: local_vllm_c
+    model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  default_d:                       # = default, served by instance d (local_vllm_d)
+    endpoint: local_vllm_d
     model: gemma-4-31b
     temperature: 0
     top_p: null
