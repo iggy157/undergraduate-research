@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a structured system to replace their current informal arrangement. They agree to investigate financial records, usage patterns, and external advice to inform their decision.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "George": "Suggests looking into external examples and the emotional toll of their current system.",
+      "Toshio": "Proposes checking the time spent on administration and the diary of use.",
+      "Victoria": "Wants to know about the car's condition at handover and repeating trips.",
+      "Misaki": "Suggests reviewing fuel receipts and the total cost of tax and insurance.",
+      "Minato": "Wants to see the fuel receipts and the record of every run."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "George": "Agrees with the need for data but warns against over-scrutinizing each other.",
+      "Toshio": "Asks if others agree on the specific lists.",
+      "Victoria": "Confirms she is interested in the practical daily experience.",
+      "Misaki": "Agrees to the proposed list of documents.",
+      "Minato": "Expresses excitement about learning the real numbers."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "George": "Over",
+      "Toshio": "Over",
+      "Victoria": "Over",
+      "Misaki": "Over",
+      "Minato": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the general nature of their findings without revealing specific numbers. They discuss the imbalance in fuel payments, the stress of scheduling, and the friction caused by checking figures.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "George": "Mentions that asking favors and clinging to turns causes resentment.",
+      "Toshio": "Notes that recording every run is surprisingly time-consuming.",
+      "Victoria": "Points out that the car is often left dirty or empty.",
+      "Misaki": "Reveals that fuel contributions are very uneven.",
+      "Minato": "Mentions that the total annual cost is higher than expected."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "George": "Warns that auditing each other's spending leads to apologies and tension.",
+      "Toshio": "Observes that heavy use comes in bursts, complicating schedules.",
+      "Victoria": "Highlights that weekly repeating trips are the most fragile.",
+      "Misaki": "Questions how to handle the disparity in fuel costs.",
+      "Minato": "Asks if they can find a way to be fair without fighting."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "George": "Suggests a system that reduces the need for constant negotiation.",
+      "Toshio": "Agrees that the administrative burden must be lowered.",
+      "Victoria": "Argues for a system that guarantees availability for essential trips.",
+      "Misaki": "Suggests a method that accounts for actual usage costs.",
+      "Minato": "Agrees that honesty about usage is key."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "George": "Over",
+      "Toshio": "Over",
+      "Victoria": "Over",
+      "Misaki": "Over",
+      "Minato": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates three proposed models based on their findings. They weigh the trade-offs between strict accounting, guaranteed access, and simplified management before voting.",
+   "votes": {
+    "George": "B",
+    "Toshio": "B",
+    "Victoria": "B",
+    "Misaki": "A",
+    "Minato": "A"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "George": "Argues that a set schedule prevents the friction of asking favors.",
+      "Toshio": "Notes that a set schedule eliminates the time spent on daily coordination.",
+      "Victoria": "Believes a set schedule protects her weekly repeating trips.",
+      "Misaki": "Argues that distance-based payment is the only truly fair way to split costs.",
+      "Minato": "Agrees that paying for what you use is the most honest approach."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "George": "Questions if distance-tracking will lead back to the tension of checking figures.",
+      "Toshio": "Points out that distance-tracking requires the very administration they want to avoid.",
+      "Victoria": "Wonders if a single keeper would be too much burden on one person.",
+      "Misaki": "Admits that a set schedule might lead to some people subsidizing others.",
+      "Minato": "Asks if the set schedule is easier for everyone to understand."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "George": "Suggests that peace of mind is more valuable than perfect financial precision.",
+      "Toshio": "Agrees that reducing the mental load is the priority.",
+      "Victoria": "Supports the idea of predictability over precision.",
+      "Misaki": "Still leans toward a usage-based cost model for fairness.",
+      "Minato": "Is torn between fairness and the desire for a peaceful atmosphere."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "George": "Calls for the final vote.",
+      "Toshio": "Ready to vote.",
+      "Victoria": "Ready to vote.",
+      "Misaki": "Ready to vote.",
+      "Minato": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Minato": "Cares about financial transparency and honesty. He seeks a balance between mathematical fairness and group harmony.",
+  "Toshio": "Cares about reducing the time and mental energy spent on coordination. He seeks the most efficient administrative solution.",
+  "Victoria": "Cares about reliability and the physical state of the vehicle. She seeks a system that guarantees her access on specific mornings.",
+  "Misaki": "Cares about avoiding unfair subsidies. She argues for a system where costs are tied directly to individual usage.",
+  "George": "Cares about the social health of the group. He seeks a solution that minimizes interpersonal conflict and the need for constant requests."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0019",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:27:46+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197666,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9131f21fc749aed5",
+      "object": "model_permission",
+      "created": 1793197666,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

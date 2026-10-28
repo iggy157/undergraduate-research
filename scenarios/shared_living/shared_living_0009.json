@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a more structured system. They identify a need to understand costs, usage patterns, and the emotional friction caused by the current arrangement.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "Suggests looking at the car's condition and weekly patterns.",
+      "May": "Wants to know about the time spent coordinating and the diary hours.",
+      "Servas": "Proposes checking the tax/insurance papers and the fuel receipts.",
+      "Takumi": "Suggests looking at other households' experiences and the figure-checking spell.",
+      "Kenji": "Wants to see the fuel receipts and the recording trial."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "Agrees with the need for data.",
+      "May": "Asks if others feel the coordination is too much.",
+      "Servas": "Notes that fairness requires a clear baseline.",
+      "Takumi": "Warns against creating a system that causes more fighting.",
+      "Kenji": "Encourages everyone to be honest about their usage."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "Skip",
+      "May": "Skip",
+      "Servas": "Skip",
+      "Takumi": "Skip",
+      "Kenji": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Over",
+      "May": "Over",
+      "Servas": "Over",
+      "Takumi": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the insights they gained from their research. They discuss the disparity in fuel costs, the time burden of tracking, and the recurring conflicts regarding cleanliness and scheduling.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "Reports on the poor state of the car at handover and collapsing weekly trips.",
+      "May": "Mentions the high time cost of recording runs and the uneven diary hours.",
+      "Servas": "Shares the total fixed costs and the lopsided fuel spending.",
+      "Takumi": "Discusses how asking favors sours relationships and the tension of checking figures.",
+      "Kenji": "Confirms the fuel disparity and the time it takes to track every run."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "Expresses frustration over the lack of reliability.",
+      "May": "Argues that meticulous tracking is too exhausting.",
+      "Servas": "Points out that some are subsidizing others.",
+      "Takumi": "Suggests avoiding any system that requires constant policing.",
+      "Kenji": "Asks how to balance fairness with simplicity."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "Asks if a set schedule would help.",
+      "May": "Questions if one person taking charge would be easier.",
+      "Servas": "Wonders if distance-based payment is the only fair way.",
+      "Takumi": "Warns that distance tracking might lead to the figure-checking tension again.",
+      "Kenji": "Agrees that the current guesswork must end."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Over",
+      "May": "Over",
+      "Servas": "Over",
+      "Takumi": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed options against their discovered problems. They weigh the trade-offs between strict fairness, ease of coordination, and emotional harmony before voting.",
+   "votes": {
+    "Misaki": "A",
+    "May": "B",
+    "Servas": "C",
+    "Takumi": "A",
+    "Kenji": "C"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "Argues for a system that guarantees availability on specific days.",
+      "May": "Suggests a primary keeper to eliminate the coordination headache.",
+      "Servas": "Advocates for a calendar and distance-based costs for true equity.",
+      "Takumi": "Questions if a calendar would just lead to more arguing over slots.",
+      "Kenji": "Considers the distance-based approach to solve the fuel issue."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "Points out that fixed days prevent the weekly trip collapses.",
+      "May": "Argues that a primary keeper simplifies the handover state.",
+      "Servas": "Notes that fixed days might be unfair if some use it more.",
+      "Takumi": "Suggests fixed days are the least likely to cause interpersonal friction.",
+      "Kenji": "Asks if fixed days would solve the fuel disparity."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "Believes predictability is the priority.",
+      "May": "Still thinks a single point of contact is most efficient.",
+      "Servas": "Maintains that costs should follow usage.",
+      "Takumi": "Argues for the simplest rule to keep the peace.",
+      "Kenji": "Decides that precise cost recovery is most important."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Ready to vote.",
+      "May": "Ready to vote.",
+      "Servas": "Ready to vote.",
+      "Takumi": "Ready to vote.",
+      "Kenji": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Kenji": "Wants financial transparency and accurate usage data. He moves from seeking raw figures to weighing precision against group harmony.",
+  "May": "Wants to reduce the mental load of coordination. She seeks a solution that minimizes the time spent arranging and untangling debts.",
+  "Misaki": "Wants reliability and a clean car. She focuses on the practical experience of midweek use and the stability of her routine.",
+  "Servas": "Wants to eliminate hidden subsidies. He argues from a perspective of mathematical fairness and equitable distribution of costs.",
+  "Takumi": "Wants to protect the group's emotional bonds. He evaluates options based on whether they will cause resentment or conflict."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0009",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:12:15+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196735,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a70d01b22df505e4",
+      "object": "model_permission",
+      "created": 1793196735,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

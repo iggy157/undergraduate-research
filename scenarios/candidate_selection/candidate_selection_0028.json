@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses which historical records to examine to avoid past mistakes. They focus on financial patterns, operational stability, and human resource constraints.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "I want to see how the yards and calendars handled past changes.",
+      "Mizuki": "I'll look into the board minutes and renewal invoices.",
+      "Asuka": "I need to check support ownership and warehouse rule changes.",
+      "Rin": "I'm curious about the dispatch tool upgrades and the 2018 data lift.",
+      "Servas": "I will examine administrator retirements and the last rollout's impact on supervisors."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Skip",
+      "Mizuki": "Skip",
+      "Asuka": "Skip",
+      "Rin": "Skip",
+      "Servas": "Skip"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Over",
+      "Mizuki": "Over",
+      "Asuka": "Over",
+      "Rin": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They debate the risks of hidden costs, fragmented accountability, and the gap between training and actual practice.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Our yards are a mess and peak season is a nightmare for cutovers.",
+      "Mizuki": "Operating costs are ignored by the board but climb over time.",
+      "Asuka": "We have a history of finger-pointing during outages and scope creep.",
+      "Rin": "Old systems are rotting and external data moves left a mess.",
+      "Servas": "We are losing key people and trainers are being ignored on the floor."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "@Asuka, does that mean we need one single point of contact?",
+      "Mizuki": "@Rin, did the data mess cost extra in the long run?",
+      "Asuka": "Yes, we need clear ownership to avoid the current chaos.",
+      "Rin": "It caused a year of errors, which is its own cost.",
+      "Servas": "Regardless of the tool, the people must be able to use it."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "I'm worried about any system that can't handle a non-stop November.",
+      "Mizuki": "I want to avoid modular pricing that creeps up every year.",
+      "Asuka": "A fixed configuration might be safer than something that shifts constantly.",
+      "Rin": "I'd rather have something that doesn't need constant external repair.",
+      "Servas": "We need a partner who stays on-site to help the crews."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Mizuki": "Over",
+      "Asuka": "Over",
+      "Rin": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The panel evaluates the candidates against their discovered risks. They weigh the benefits of on-site presence and fixed costs against flexibility and modern delivery.",
+   "votes": {
+    "Kenji": "C",
+    "Mizuki": "D",
+    "Asuka": "D",
+    "Rin": "C",
+    "Servas": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Candidate C's on-site team seems best for our yard reality.",
+      "Mizuki": "Candidate D's fixed configuration and hosted suite look more predictable financially.",
+      "Asuka": "I agree with Mizuki; D avoids the ownership gaps I fear.",
+      "Rin": "C's approach to deployment feels more robust than a marketplace.",
+      "Servas": "C is the only one addressing the human element with an engineering team present."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "@Mizuki, but will D's regional team actually visit the depots?",
+      "Mizuki": "Maybe not, but the cost stability is a huge priority.",
+      "Asuka": "Stability is good, but C's on-site presence solves the accountability issue too.",
+      "Rin": "C feels like it won't just age in place if the team is there.",
+      "Servas": "The crews need a hand to hold, which C provides."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "I'm voting for C to ensure the floor doesn't stop moving.",
+      "Mizuki": "I still lean toward D for the budget reasons.",
+      "Asuka": "I'm torn, but D's fixed process is very appealing for scope control.",
+      "Rin": "C is my choice for long-term reliability.",
+      "Servas": "My vote goes to C for the sake of our exhausted staff."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Mizuki": "Over",
+      "Asuka": "Over",
+      "Rin": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mizuki": "Cares about long-term hidden costs and budget predictability. She argues for fixed pricing and avoids modular billing.",
+  "Asuka": "Cares about accountability and scope creep. She looks for clear ownership and rigid configuration processes.",
+  "Rin": "Cares about technical debt and the quality of external work. She seeks a solution that avoids frequent, failed repairs.",
+  "Kenji": "Cares about the physical reality of the depots and peak season. He prioritizes operational continuity over office convenience.",
+  "Servas": "Cares about the burden on staff and the effectiveness of training. He values direct, on-site human assistance during transition."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0028",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:07:33+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196453,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-94b0d91a4f73a524",
+      "object": "model_permission",
+      "created": 1793196453,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

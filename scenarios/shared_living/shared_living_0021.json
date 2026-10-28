@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a balanced destination. They prioritize cost, logistics, and the quality of the experience, dividing the research tasks to cover these bases.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Suggests looking into costs and booking terms first.",
+      "Shion": "Suggests checking the actual conditions of the stay.",
+      "Minato": "Mentions the burden on the organizers.",
+      "Misaki": "Agrees on the need for financial clarity.",
+      "Takumi": "Emphasizes the importance of member interaction."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "Chooses Quoting terms for whole-building lets and Group transport in three years of receipts.",
+      "Shion": "Chooses Accounts from two clubs that went inland and Vacation timetable for the club's own hall.",
+      "Minato": "Chooses Canteen closure and last year's cooking duty and Lottery and application for public group bookings.",
+      "Misaki": "Chooses Prefecture rate sheet for publicly run beds and Attendance sheets for the away camps.",
+      "Takumi": "Chooses What the seniors say about year-groups mixing and Membership list against first-train times."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Over",
+      "Shion": "Over",
+      "Minato": "Over",
+      "Misaki": "Over",
+      "Takumi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They debate the trade-offs between administrative effort, financial risk, and the physical environment of the training.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Reports on the high cost of transport and the risk of non-refundable deposits.",
+      "Shion": "Reports on the poor sleep conditions inland and the crowded campus hall.",
+      "Minato": "Reports on the heavy workload of cooking and the difficulty of public lotteries.",
+      "Misaki": "Reports on the low cost of public beds and the high dropout rate of away camps.",
+      "Takumi": "Reports on the necessity of shared housing for mixing and the commute issues for some."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "@Misaki asks if the low cost of public beds offsets the transport costs.",
+      "Shion": "@Takumi asks if the commute issues make staying on campus impossible.",
+      "Minato": "@Asuka asks about the financial impact of late cancellations.",
+      "Misaki": "Notes that the dropout rate suggests away trips might be wasteful.",
+      "Takumi": "Argues that staying on campus might prevent the social bonding they need."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Points out that a fixed-headcount booking is a financial liability.",
+      "Shion": "Questions if the public facilities' strict rules would hinder training quality.",
+      "Minato": "Expresses concern about the administrative burden of a lottery system.",
+      "Misaki": "Suggests that a local option minimizes financial risk.",
+      "Takumi": "Insists that the social benefit of a shared house is worth the cost."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Shion": "Over",
+      "Minato": "Over",
+      "Misaki": "Over",
+      "Takumi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three final options based on the gathered data. They weigh the social goals against the budget and the workload of the organizers before voting.",
+   "votes": {
+    "Asuka": "B",
+    "Shion": "B",
+    "Minato": "B",
+    "Misaki": "B",
+    "Takumi": "C"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Argues that the local option is the only one with manageable financial risk.",
+      "Shion": "Notes that while the hall is crowded, it avoids the sleep issues of inland dorms.",
+      "Minato": "Points out that the local option avoids the lottery and cooking stress.",
+      "Misaki": "Agrees that the local option is the safest for the club budget.",
+      "Takumi": "Argues that the seaside option is the only one that ensures social mixing."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "@Takumi asks if the social benefit outweighs the risk of paying for dropouts.",
+      "Shion": "Questions if the seaside option's distance makes it too expensive for some.",
+      "Minato": "Asks if the local option's schedule can be managed despite the other clubs.",
+      "Misaki": "Suggests that the local option is the most inclusive for those who can't travel.",
+      "Takumi": "Maintains that the club's unity is the primary goal of the camp."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Concludes that the local option is the most logical choice.",
+      "Shion": "Agrees that the local option is the most practical.",
+      "Minato": "Agrees that the local option is the least stressful for organizers.",
+      "Misaki": "Supports the local option for its financial stability.",
+      "Takumi": "Admits the risks but still prefers the seaside option for the atmosphere."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Calls for the final vote.",
+      "Shion": "Ready to vote.",
+      "Minato": "Ready to vote.",
+      "Misaki": "Ready to vote.",
+      "Takumi": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Misaki": "Cares about budget gaps and financial transparency. She argues for the most cost-effective and low-risk choice.",
+  "Minato": "Cares about the workload of the organizers. He looks for the option that requires the least administrative effort.",
+  "Shion": "Cares about sleep quality and training efficiency. He evaluates options based on the physical environment and schedule.",
+  "Asuka": "Cares about fair cost distribution and liability for cancellations. She uses logic to minimize financial uncertainty.",
+  "Takumi": "Cares about social cohesion and member interaction. He prioritizes the environment that encourages bonding over logistics."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0021",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Asuka's line after Over",
+  "period 1 turn 4: dropped Shion's line after Over",
+  "period 1 turn 4: dropped Minato's line after Over",
+  "period 1 turn 4: dropped Misaki's line after Over",
+  "period 1 turn 4: dropped Takumi's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:26:12+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197572,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9aed30506cbea873",
+      "object": "model_permission",
+      "created": 1793197572,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

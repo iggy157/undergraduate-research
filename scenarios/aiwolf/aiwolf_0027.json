@@ -1,0 +1,189 @@
+{
+ "seats": {
+  "Toshio": "He focuses on logical inconsistencies and observes behavioral patterns. He remains cautious and only commits to a decision when the evidence seems overwhelming.",
+  "George": "He relies on his experience to judge character. He tries to maintain stability and avoid hasty decisions, though he can be stubborn once he forms an opinion.",
+  "Sakura": "She uses a playful and energetic tone to deflect attention. She tries to steer the conversation toward others by asking many questions.",
+  "Victoria": "She analyzes the emotional state of others and looks for contradictions. She carefully chooses when to share her information to maximize its impact.",
+  "Kenji": "He is open and trusting, often following the lead of those he perceives as more experienced. He speaks honestly about his feelings."
+ },
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss their general strategies for the game. They weigh the importance of trust versus skepticism in the early stages.",
+   "divine": "Sakura",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Excited to start and wants everyone to be honest.",
+      "Victoria": "Suggests observing everyone's reactions carefully.",
+      "Toshio": "Notes that silence can be as telling as speech.",
+      "George": "Advises patience and a calm approach.",
+      "Sakura": "Wants to know if anyone has a funny way of lying."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Asks how they will decide who to trust.",
+      "Victoria": "Mentions looking for contradictions in stories.",
+      "Toshio": "Agrees that consistency is key.",
+      "George": "Suggests trusting those who remain steady.",
+      "Sakura": "Giggles and says she will be the most honest."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Skip",
+      "Victoria": "Skip",
+      "Toshio": "Skip",
+      "George": "Skip",
+      "Sakura": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Victoria": "Over",
+      "Toshio": "Over",
+      "George": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available and looks for discrepancies in behavior. They debate the validity of certain assertions and try to identify the most suspicious person.",
+   "votes": {
+    "Kenji": "Sakura",
+    "Victoria": "Sakura",
+    "Toshio": "Sakura",
+    "George": "Kenji",
+    "Sakura": "Victoria"
+   },
+   "executed": "Sakura",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Wonders why some people are being so quiet.",
+      "Victoria": "Shares her findings about a specific person.",
+      "Toshio": "Analyzes the impact of that information.",
+      "George": "Questions the source of the information.",
+      "Sakura": "Tries to make a joke to lighten the mood."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Starts to feel suspicious of the playful behavior.",
+      "Victoria": "Urges the group to act on the evidence.",
+      "Toshio": "Points out a contradiction in a previous statement.",
+      "George": "Defends the person being targeted.",
+      "Sakura": "Acts surprised and denies everything."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Agrees with the logical point made by Toshio.",
+      "Victoria": "Asks George why he is being so defensive.",
+      "Toshio": "Suggests that the evidence is strong enough.",
+      "George": "Admits he might be wrong but remains hesitant.",
+      "Sakura": "Tries to shift the focus to Victoria."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Decides to follow the majority.",
+      "Victoria": "Finalizes her reasoning.",
+      "Toshio": "Confirms his choice.",
+      "George": "Decides to vote based on his own intuition.",
+      "Sakura": "Pouts and accepts the situation."
+     }
+    }
+   ]
+  }
+ ],
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0027",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:41:04+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194864,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b58fcc9e6d92d66e",
+      "object": "model_permission",
+      "created": 1793194864,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "85f6932af8df3343c3492c23e89145d19478d79a",
+   "files": 96
+  }
+ }
+}

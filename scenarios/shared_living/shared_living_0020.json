@@ -1,0 +1,227 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a sustainable system. They identify the need to understand costs, time commitments, usage patterns, and quality standards.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "We need a system that is realistic about time.",
+      "Benjamin": "I agree, and we should look at who actually uses the space.",
+      "Sakura": "I just want it to be clean every time!",
+      "Shizue": "Let's also consider the costs of supplies.",
+      "Servas": "Harmony is the most important goal here."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "I'll check the stopwatch timing and the management office rates.",
+      "Benjamin": "I'll look at the kitchen use watch and the wall calendar.",
+      "Sakura": "I want to see what counts as done and the bathroom grout.",
+      "Shizue": "I will check the spray receipts and the management office billing.",
+      "Servas": "I'll read the previous tenants' note and the house chat rows."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "Skip",
+      "Benjamin": "Skip",
+      "Sakura": "Skip",
+      "Shizue": "Skip",
+      "Servas": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Over",
+      "Benjamin": "Over",
+      "Sakura": "Over",
+      "Shizue": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding the actual time spent cleaning, the financial discrepancies in supplies, the inconsistency of cleanliness standards, and the social risks of certain arrangements.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "The total time is significant and the office rates are high.",
+      "Benjamin": "Usage is uneven; some people barely use the kitchen.",
+      "Sakura": "We all have different ideas of what 'clean' means.",
+      "Shizue": "We are wasting money on duplicate supplies.",
+      "Servas": "Past tenants stopped speaking to each other."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "@Benjamin, if usage is uneven, does that change the time burden?",
+      "Benjamin": "Yes, it makes a rigid split feel unfair.",
+      "Sakura": "@Shizue, maybe that's why the bathroom feels different every time?",
+      "Shizue": "It could be, and the costs are just floating around."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "The management office option is expensive but clear.",
+      "Benjamin": "The calendar shows people are away often, complicating things.",
+      "Sakura": "The grout gets dirty again so fast anyway.",
+      "Shizue": "We need a way to track the money clearly.",
+      "Servas": "We must avoid a system that breeds resentment."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Over",
+      "Benjamin": "Over",
+      "Sakura": "Over",
+      "Shizue": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed methods based on the gathered data. They weigh the trade-offs between financial cost, time expenditure, and the potential for interpersonal conflict.",
+   "votes": {
+    "Minako": "B",
+    "Benjamin": "A",
+    "Sakura": "B",
+    "Shizue": "B",
+    "Servas": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "I prefer the professional option to save my time.",
+      "Benjamin": "I think a rotating system is the most logical for fairness.",
+      "Sakura": "I want the professional one so it's always the same.",
+      "Shizue": "A professional one would solve the supply and billing mess.",
+      "Servas": "The professional one keeps us from fighting over chores."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "@Benjamin, but the calendar shows rotations would be messy.",
+      "Benjamin": "True, but paying a high fee is a steep price.",
+      "Sakura": "But I hate the bathroom!",
+      "Shizue": "It's worth it for the peace of mind.",
+      "Servas": "I agree with Shizue."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "Let's vote.",
+      "Benjamin": "I'll stick to my logic, but I see the consensus.",
+      "Sakura": "Yay!",
+      "Shizue": "Let's be fair about the monthly split.",
+      "Servas": "For the sake of the house."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Over",
+      "Benjamin": "Over",
+      "Sakura": "Over",
+      "Shizue": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shizue": "She focuses on the financial transparency of supplies. She argues for a method that clarifies monthly costs.",
+  "Minako": "She is concerned with the actual hours spent cleaning. She evaluates options based on time efficiency.",
+  "Sakura": "She wants consistency in cleanliness. She argues against methods that lead to varying standards of 'done'.",
+  "Benjamin": "He cares about the correlation between usage and labor. He argues for a logically fair distribution of work.",
+  "Servas": "He prioritizes the long-term social harmony of the house. He argues against methods that historically caused conflict."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0020",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:24:53+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197493,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-82468b05bec69cfb",
+      "object": "model_permission",
+      "created": 1793197493,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

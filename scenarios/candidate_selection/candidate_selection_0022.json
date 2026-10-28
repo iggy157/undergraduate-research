@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The partners discuss the need for due diligence on the fund's current operational health and the risks associated with different business models. They divide the research tasks to cover financial stability, deployment speed, and reporting accuracy.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Suggests checking recruitment and adviser capacity.",
+      "George": "Emphasizes the need to verify customer retention and exit history.",
+      "May": "Focuses on the fund's liquidity and credit options.",
+      "Rin": "Wants to look at audit burdens and data verification.",
+      "Mizuki": "Proposes reviewing deployment timelines and delivery records."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Agrees with the spread of topics.",
+      "George": "Asks if anyone else is looking at the write-offs.",
+      "May": "Confirms she will handle the credit line terms.",
+      "Rin": "Asks about the independent check process.",
+      "Mizuki": "Confirms she will track the security review times."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Over",
+      "George": "Over",
+      "May": "Over",
+      "Rin": "Over",
+      "Mizuki": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing the specific data points. They debate the trade-offs between hardware-heavy operations and software-only models based on the discovered risks.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Warns about the difficulty of hiring specific operational roles.",
+      "George": "Notes that back-office tools have been the most reliable exits.",
+      "May": "Mentions that certain assets are easier to borrow against than others.",
+      "Rin": "Points out that physical assets complicate the audit process.",
+      "Mizuki": "Highlights that security reviews can significantly delay deployment."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Asks if the board has capacity for more software oversight.",
+      "George": "Questions the stability of customers during price hikes.",
+      "May": "Asks about the rate of follow-on capital calls.",
+      "Rin": "Discusses the benefit of verifiable field data.",
+      "Mizuki": "Compares the reliability of software versus hardware delivery."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Notes that some advisers are currently underutilized.",
+      "George": "Observes a pattern in which business types fail.",
+      "May": "Warns that subscription contracts aren't helping the credit line.",
+      "Rin": "Expresses concern over the cost of outside appraisals.",
+      "Mizuki": "Warns about the delay for companies handling sensitive data."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "George": "Over",
+      "May": "Over",
+      "Rin": "Over",
+      "Mizuki": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The partners evaluate the four candidates against the discovered risks. They weigh the ease of reporting and deployment against the stability of the customer base and the fund's financial constraints.",
+   "votes": {
+    "Mio": "C",
+    "George": "C",
+    "May": "C",
+    "Rin": "C",
+    "Mizuki": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Evaluates the staffing needs of the candidates.",
+      "George": "Analyzes the customer retention profiles of the options.",
+      "May": "Considers which model fits the current credit and reserve situation.",
+      "Rin": "Checks which candidate simplifies the quarter-end reporting.",
+      "Mizuki": "Assesses the potential deployment delays for each."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Argues against candidates requiring seasonal field crews.",
+      "George": "Questions the longevity of the retail-facing models.",
+      "May": "Points out the risk of high follow-on calls for hardware.",
+      "Rin": "Rejects candidates that require expensive outside appraisals.",
+      "Mizuki": "Warns against the long security reviews for medical data."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Suggests the software reconciliation tool is the safest bet.",
+      "George": "Agrees that the back-office nature aligns with past wins.",
+      "May": "Notes it avoids the heavy equipment costs she fears.",
+      "Rin": "Likes that it doesn't add to the audit complexity.",
+      "Mizuki": "Agrees it has the fastest path to deployment."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Ready to vote.",
+      "George": "Ready to vote.",
+      "May": "Ready to vote.",
+      "Rin": "Ready to vote.",
+      "Mizuki": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "May": "Concerned about fund liquidity and borrowing power. She analyzes how different asset types affect the credit line and reserve accounts.",
+  "Mizuki": "Concerned about deployment delays. She focuses on security review times and the reliability of delivery records.",
+  "George": "Concerned about the reality of returns and customer churn. He examines exit profiles and account retention during price increases.",
+  "Rin": "Concerned about the burden of quarter-end reporting. She looks into audit appraisals and the ability to independently verify figures.",
+  "Mio": "Concerned about the time spent on recruitment and board management. She investigates placement times and adviser availability."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0022",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Mio's line after Over",
+  "period 1 turn 4: dropped George's line after Over",
+  "period 1 turn 4: dropped May's line after Over",
+  "period 1 turn 4: dropped Rin's line after Over",
+  "period 1 turn 4: dropped Mizuki's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:00:19+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196019,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b22c4f102195b4b8",
+      "object": "model_permission",
+      "created": 1793196019,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

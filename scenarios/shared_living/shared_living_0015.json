@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a fairer system and the current friction regarding payments. They decide to investigate the costs of changes, historical usage, and how other houses manage their bills.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Suggests looking at how other houses handle this to avoid future tension.",
+      "Midori": "Agrees and suggests checking the payment history to see where things went wrong.",
+      "Minato": "Wants to know if some people are actually using more than others.",
+      "May": "Wants to know the actual costs of changing the system and the yearly totals.",
+      "Daisuke": "Worries about who will have to do the actual work of calculating bills."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Proposes looking at winter habits and other houses' settlements.",
+      "Midori": "Suggests the payment log and the last twelve statements.",
+      "Minato": "Suggests plug-in monitors and sunlight/heating needs by room.",
+      "May": "Suggests the electrician's quote and the last twelve statements.",
+      "Daisuke": "Suggests the reconciliation template and the monthly settle at another house."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Over",
+      "Midori": "Over",
+      "Minato": "Over",
+      "May": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They discuss the high variance in monthly costs, the disparity in room usage, and the administrative burden of different methods.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Shares that fixed payments lead to more relaxed energy use.",
+      "Midori": "Points out that payments have been late and disputed frequently.",
+      "Minato": "Reveals that some rooms use significantly more power than others.",
+      "May": "Mentions the high cost of installing new meters.",
+      "Daisuke": "Notes that manual logging is time-consuming and tedious."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Questions if the current system makes people feel restricted in their own home.",
+      "Midori": "Asks if the disparity in usage is the cause of the late payments.",
+      "Minato": "Asks if the room layout affects the heating needs.",
+      "May": "Highlights the extreme difference between winter and summer bills.",
+      "Daisuke": "Expresses concern over the complexity of year-end reconciliations."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Suggests prioritizing peace of mind over perfect precision.",
+      "Midori": "Agrees that reducing conflict is the main goal.",
+      "Minato": "Wonders if a system based on actual use is the only fair way.",
+      "May": "Questions if the upfront cost of meters is worth the monthly saving.",
+      "Daisuke": "Asks if there is a way to keep the math simple for everyone."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Midori": "Over",
+      "Minato": "Over",
+      "May": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed options based on the gathered data. They weigh the trade-offs between administrative ease, financial precision, and household harmony before voting.",
+   "votes": {
+    "Servas": "B",
+    "Midori": "B",
+    "Minato": "A",
+    "May": "B",
+    "Daisuke": "C"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Argues for a system that removes the daily stress of counting pennies.",
+      "Midori": "Considers the option that minimizes monthly arguments.",
+      "Minato": "Argues for the most precise measurement of individual use.",
+      "May": "Evaluates the options based on predictable monthly budgeting.",
+      "Daisuke": "Looks for the option with the least amount of monthly paperwork."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Questions if the precision of meters is worth the installation cost.",
+      "Midori": "Suggests that a seasonal approach might stop the accusations.",
+      "Minato": "Points out that some people are still paying for others' heaters.",
+      "May": "Notes that a flat share doesn't solve the winter price spikes.",
+      "Daisuke": "Worries that individual metering still requires a monthly manager."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Advocates for a balance of stability and simplicity.",
+      "Midori": "Agrees that emotional harmony is more important than exactness.",
+      "Minato": "Asks if the others are okay with the unfairness of pooled heating.",
+      "May": "Suggests that a seasonal average is the most stable for budgeting.",
+      "Daisuke": "Questions if a simple split is the easiest to maintain."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Ready to vote for the most peaceful option.",
+      "Midori": "Ready to vote for the most harmonious option.",
+      "Minato": "Ready to vote for the most accurate option.",
+      "May": "Ready to vote for the most predictable option.",
+      "Daisuke": "Ready to vote for the simplest option."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "May": "Cares about budget predictability and upfront costs. She analyzes the yearly fluctuations and the price of installation to determine the most stable financial path.",
+  "Daisuke": "Cares about the time and effort required for administration. He evaluates the options based on the workload they impose on the person managing the bills.",
+  "Servas": "Cares about the psychological atmosphere and freedom within the home. He weighs the options based on whether they encourage generosity or frugality.",
+  "Minato": "Cares about objective fairness and the distribution of costs. He focuses on the data regarding actual energy consumption per person.",
+  "Midori": "Cares about interpersonal harmony and reducing conflict. She looks for the method that minimizes the need for reminders and disputes."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0015",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Servas's line after Over",
+  "period 1 turn 4: dropped Midori's line after Over",
+  "period 1 turn 4: dropped Minato's line after Over",
+  "period 1 turn 4: dropped May's line after Over",
+  "period 1 turn 4: dropped Daisuke's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:18:44+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197124,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a3b0a8bca3c03d07",
+      "object": "model_permission",
+      "created": 1793197124,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

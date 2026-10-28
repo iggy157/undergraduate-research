@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the current chaos of the room and the need for a defined purpose. They agree to gather data on costs, usage patterns, and the physical environment to make a rational choice.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "We need a systematic way to decide this.",
+      "Jonathan": "I agree, we should consider the human element too.",
+      "May": "Let's look at the actual time we spend on things.",
+      "Shunichi": "I want to see the financial impact of our current habits.",
+      "Servas": "We must consider the peace of those sitting nearby."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "I will check the usage tally and the fridge history.",
+      "Jonathan": "I'll look into the unplanned talks and awkward conversations.",
+      "May": "I'm checking the outside hire invoices and the lunch round trip.",
+      "Shunichi": "I'll take the fit-out quotes and the outside hire invoices.",
+      "Servas": "I will examine the partition wall and the desk crumbs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "Skip",
+      "Jonathan": "Skip",
+      "May": "Skip",
+      "Shunichi": "Skip",
+      "Servas": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Over",
+      "Jonathan": "Over",
+      "May": "Over",
+      "Shunichi": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They weigh the costs of external rentals against the internal noise issues and the lack of private communication areas.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "The usage is uneven and cleaning is a burden.",
+      "Jonathan": "We have no place for private or spontaneous connection.",
+      "May": "We spend too much time walking for food.",
+      "Shunichi": "External rentals are costing us a significant amount.",
+      "Servas": "The walls are thin and the desks are messy."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "The fridge situation proves that shared maintenance fails.",
+      "Jonathan": "The last difficult conversation happened in public.",
+      "May": "The hourly hire costs are a waste of budget.",
+      "Shunichi": "The fit-out costs are relatively low compared to rentals.",
+      "Servas": "Eating at desks is creating a hygiene problem."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "@Shunichi, does the budget allow for a full refit?",
+      "Jonathan": "@Servas, would a quiet area solve the noise?",
+      "May": "@Ryuji, if we have a dedicated area, would cleaning improve?",
+      "Shunichi": "Yes, it's cheaper than the current monthly drain.",
+      "Servas": "Only if the purpose of the room is strictly controlled."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "We need a solution that minimizes conflict.",
+      "Jonathan": "And maximizes our ability to speak honestly.",
+      "May": "And saves us time and money.",
+      "Shunichi": "The data points toward a formalization of the room.",
+      "Servas": "As long as it respects the surrounding workspace."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed options based on the evidence. They debate whether the priority should be utility, silence, or professional collaboration before voting.",
+   "votes": {
+    "Ryuji": "C",
+    "Jonathan": "C",
+    "May": "A",
+    "Shunichi": "C",
+    "Servas": "B"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "Option C provides the structure and booking we lack.",
+      "Jonathan": "Option C allows for the private talks we need.",
+      "May": "Option A solves the lunch and crumb problem.",
+      "Shunichi": "Option C eliminates the external hire costs entirely.",
+      "Servas": "Option B is the only way to ensure actual peace."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "@May, Option A just moves the mess to one room.",
+      "Jonathan": "@Servas, Option B doesn't help us communicate better.",
+      "May": "But Option A saves us twenty-five minutes a day.",
+      "Shunichi": "The financial logic for Option C is strongest.",
+      "Servas": "I still worry about the thin walls."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "A calendar system in Option C prevents the 'first-come' conflict.",
+      "Jonathan": "It's the most balanced approach for the team.",
+      "May": "I see the point, but I still value the time saved.",
+      "Shunichi": "Let's be rational about the budget and the utility.",
+      "Servas": "I cannot agree to more noise, but I see the majority."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "I vote for C.",
+      "Jonathan": "I vote for C.",
+      "May": "I'll stick with A.",
+      "Shunichi": "I vote for C.",
+      "Servas": "I vote for B."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shunichi": "He focuses on the financial drain of current habits. He uses cost-benefit analysis to steer the group toward a professional solution.",
+  "May": "She is concerned with time efficiency and labor. She argues based on the daily physical toll on the staff.",
+  "Servas": "He prioritizes the sensory environment and peace. He advocates for solutions that reduce noise and mess for those nearby.",
+  "Ryuji": "He seeks a system that removes ambiguity and unfairness. He relies on usage data to argue for a structured arrangement.",
+  "Jonathan": "He values the quality of interpersonal connections. He argues for a solution that facilitates necessary but difficult conversations."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0018",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:28:49+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197729,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a29f04ad9ab27504",
+      "object": "model_permission",
+      "created": 1793197729,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

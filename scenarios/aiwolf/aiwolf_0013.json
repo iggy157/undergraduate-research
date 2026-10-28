@@ -1,0 +1,189 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss the general atmosphere. They share their philosophies on trust and observation to establish a baseline for behavior.",
+   "divine": "George",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Encourages everyone to stay positive and open.",
+      "Minako": "Suggests a logical approach to the game.",
+      "George": "Observes the group from a distance.",
+      "Asuka": "Emphasizes the need for objective evidence.",
+      "Sakura": "Expresses excitement and curiosity."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Talks about the value of patience.",
+      "Minako": "Asks others how they intend to identify deception.",
+      "George": "Mentions his preference for independent analysis.",
+      "Asuka": "Agrees with the need for a systematic method.",
+      "Sakura": "Tries to make the mood lighter with a joke."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Offers a philosophical thought on truth.",
+      "Minako": "Notes the different communication styles present.",
+      "George": "Skip",
+      "Asuka": "Questions the reliability of intuition.",
+      "Sakura": "Asks if anyone has a secret strategy."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Minako": "Over",
+      "George": "Over",
+      "Asuka": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the behavior of participants from the previous day. They weigh the value of silence versus active participation and look for inconsistencies in logic.",
+   "votes": {
+    "Servas": "George",
+    "Minako": "Servas",
+    "George": "Servas",
+    "Asuka": "Servas",
+    "Sakura": "Servas"
+   },
+   "executed": "Servas",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Suggests looking for those who are too quiet.",
+      "Minako": "Shares a discovery about a specific person's nature.",
+      "George": "Questions the validity of the shared information.",
+      "Asuka": "Analyzes the timing of the statements.",
+      "Sakura": "Expresses confusion about the logic."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Tries to redirect suspicion toward the skeptics.",
+      "Minako": "Defends the accuracy of her information.",
+      "George": "Argues that the information could be a fabrication.",
+      "Asuka": "Points out a contradiction in a previous statement.",
+      "Sakura": "Follows the logic of the most confident speaker."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Attempts to calm the group with a gentle reminder.",
+      "Minako": "Urges the group to trust the evidence provided.",
+      "George": "Remains stubborn about his doubts.",
+      "Asuka": "Concludes that one person is acting out of character.",
+      "Sakura": "Asks for a final consensus."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Minako": "Over",
+      "George": "Over",
+      "Asuka": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Servas": "Focuses on maintaining a positive image and using wisdom to deflect suspicion.",
+  "Minako": "Relies on factual data and logical deductions to guide the group.",
+  "George": "Prioritizes independence and skepticism, often questioning the motives of others.",
+  "Asuka": "Values objective evidence and looks for logical inconsistencies in speech.",
+  "Sakura": "Follows the lead of others while trying to keep the atmosphere light."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0013",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:15:07+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793193307,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-99cba3b3518aea95",
+      "object": "model_permission",
+      "created": 1793193307,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce their general approach to the game. They discuss how to identify deception and the importance of observing behavior.",
+   "divine": "Midori",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "I will find the enemy no matter what.",
+      "Servas": "Let us maintain a peaceful dialogue.",
+      "Midori": "I hope we can all get along.",
+      "Toshio": "I will observe everyone quietly.",
+      "Ryuji": "Logic is the only way to solve this."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "Being too quiet is suspicious.",
+      "Servas": "Patience is a virtue in these matters.",
+      "Midori": "I agree with the need for patience.",
+      "Toshio": "Observation takes time.",
+      "Ryuji": "We need a system for evaluation."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "I don't have time for slow systems.",
+      "Servas": "Haste often leads to errors.",
+      "Midori": "Let's try to be kind to each other.",
+      "Toshio": "Kindness can be a mask.",
+      "Ryuji": "Exactly, we must look at the facts."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "I'll be the one to lead us.",
+      "Servas": "Guidance is welcome if it is wise.",
+      "Midori": "I will follow the group's feeling.",
+      "Toshio": "I'll keep watching.",
+      "Ryuji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "A specific piece of information is brought forward to narrow down the suspects. The group weighs the reliability of the source against the reactions of others.",
+   "votes": {
+    "Takumi": "Midori",
+    "Servas": "Midori",
+    "Midori": "Takumi",
+    "Toshio": "Midori",
+    "Ryuji": "Midori"
+   },
+   "executed": "Midori",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "I know who the enemy is.",
+      "Servas": "That is a bold statement.",
+      "Midori": "What are you talking about?",
+      "Toshio": "Please explain your reasoning.",
+      "Ryuji": "Evidence is required for such a charge."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "It is Midori.",
+      "Servas": "Are you certain of this?",
+      "Midori": "That is a lie! I am innocent!",
+      "Toshio": "Midori seems very agitated.",
+      "Ryuji": "The reaction is noted, but the source is key."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "I don't lie about this.",
+      "Servas": "If the information is true, we must act.",
+      "Midori": "Please believe me, I'm just a villager!",
+      "Toshio": "The logic seems to point one way.",
+      "Ryuji": "I will trust the information provided."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "Let's vote now.",
+      "Servas": "I agree.",
+      "Midori": "This is a mistake!",
+      "Toshio": "I agree.",
+      "Ryuji": "I agree."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Takumi": "He focuses on direct action and leading the group. He relies on his special knowledge to drive the decision.",
+  "Servas": "He values harmony and wisdom. He follows the most convincing argument while encouraging peace.",
+  "Toshio": "He remains detached and analyzes the emotional responses of others to form a conclusion.",
+  "Ryuji": "He prioritizes rational evidence and logical consistency over intuition.",
+  "Midori": "She attempts to maintain a friendly image and uses emotional appeals when pressured."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0011",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T12:59:36+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793192376,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-81f039e1a3ac5f1a",
+      "object": "model_permission",
+      "created": 1793192376,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

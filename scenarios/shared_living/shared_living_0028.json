@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the current chaos of the room and the need for a formal purpose. They agree to investigate financial costs, physical disturbances, and usage patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shion": "Suggests they need a logical way to decide the room's purpose.",
+      "Daisuke": "Agrees quietly and mentions the need for clear data.",
+      "Rin": "Complains about the current mess and lack of rules.",
+      "Servas": "Encourages them to think about the human connection in the office.",
+      "Toshio": "Proposes they look into specific records before deciding."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shion": "Chooses the partition wall and crumbs and bins.",
+      "Daisuke": "Chooses invoices for outside hire and quotes for fit-outs.",
+      "Rin": "Chooses fortnight's tally and final clear-out of the fridge.",
+      "Servas": "Chooses unplanned talk and where the last awkward conversation happened.",
+      "Toshio": "Chooses facilities callouts and round trip for a hot lunch."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shion": "Over",
+      "Daisuke": "Over",
+      "Rin": "Over",
+      "Servas": "Over",
+      "Toshio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They weigh the cost of external rentals against the cost of internal fit-outs and discuss the impact of noise and hygiene on the main office.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shion": "Reveals that the wall is thin and desks are dirty.",
+      "Daisuke": "Mentions the high cost of outside rentals and the fit-out quotes.",
+      "Rin": "Points out that a few people dominate the room and cleaning is unfair.",
+      "Servas": "Notes the lack of private areas for difficult conversations.",
+      "Toshio": "Discusses the time wasted on lunch trips and the lack of facility issues."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shion": "Argues that eating in the office is a problem.",
+      "Daisuke": "Questions if the fit-out cost is worth the long-term saving.",
+      "Rin": "Asks how they can stop the same people from hogging the room.",
+      "Servas": "Suggests the room should solve the social isolation.",
+      "Toshio": "Observes that the current lunch routine is inefficient."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shion": "Suggests a solution that removes food from the desks.",
+      "Daisuke": "Notes that a professional setup would stop the outside payments.",
+      "Rin": "Wants a system that is fair for everyone.",
+      "Servas": "Emphasizes the need for a place to talk privately.",
+      "Toshio": "Considers the time-saving aspect of a dedicated area."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shion": "Over",
+      "Daisuke": "Over",
+      "Rin": "Over",
+      "Servas": "Over",
+      "Toshio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three options based on the gathered evidence. They debate whether the priority is productivity, social health, or convenience.",
+   "votes": {
+    "Shion": "A",
+    "Daisuke": "B",
+    "Rin": "B",
+    "Servas": "B",
+    "Toshio": "A"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shion": "Argues for the option that handles food and mess.",
+      "Daisuke": "Argues for the option that replaces the expensive outside hire.",
+      "Rin": "Agrees that a bookable system would be the fairest.",
+      "Servas": "Argues for the option that allows for private, meaningful talk.",
+      "Toshio": "Argues for the option that reduces the lunch commute."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shion": "Questions if a bookable system solves the noise issue.",
+      "Daisuke": "Points out that the professional option is a better investment.",
+      "Rin": "Asks if the food option would just lead to more cleaning fights.",
+      "Servas": "Reminds them that the social cost of silence is too high.",
+      "Toshio": "Notes that the food option is cheaper to install."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shion": "Admits the noise might still be an issue with a meeting setup.",
+      "Daisuke": "Agrees that a bookable system is the most professional.",
+      "Rin": "Decides the bookable system is the most organized.",
+      "Servas": "Urges them to prioritize the human element.",
+      "Toshio": "Decides the convenience of food outweighs the cost."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shion": "Ready to vote.",
+      "Daisuke": "Ready to vote.",
+      "Rin": "Ready to vote.",
+      "Servas": "Ready to vote.",
+      "Toshio": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Daisuke": "Cares about the financial burden and official documentation. He moves from hesitation to a preference for a professional solution.",
+  "Toshio": "Cares about time efficiency and hidden labor. He evaluates the options based on how they impact the daily schedule.",
+  "Shion": "Cares about the physical environment and noise pollution. He focuses on the logical removal of disturbances from the main office.",
+  "Rin": "Cares about fairness and the distribution of chores. She looks for a system that prevents monopoly and unfair cleaning.",
+  "Servas": "Cares about interpersonal relationships and emotional health. He advocates for a solution that facilitates communication."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0028",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Shion's line after Over",
+  "period 1 turn 4: dropped Daisuke's line after Over",
+  "period 1 turn 4: dropped Rin's line after Over",
+  "period 1 turn 4: dropped Servas's line after Over",
+  "period 1 turn 4: dropped Toshio's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:42:39+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793198559,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9d13a44131f1b13c",
+      "object": "model_permission",
+      "created": 1793198559,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

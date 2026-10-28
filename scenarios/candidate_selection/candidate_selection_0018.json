@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses which historical data points are most relevant to the current replacement. They focus on financial patterns, operational stability, and human resource constraints.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "I want to see how the staff handled the last rollout and the current hiring situation.",
+      "Kenji": "I'm looking at the yard devices and the peak-season cutover timing.",
+      "Toshio": "I will examine the board minutes and the renewal invoices.",
+      "Yumi": "I'll check the support ownership during the outage and the warehouse rule changes.",
+      "Benjamin": "I'll look into the dispatch tool upgrade history and the 2018 data lift."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "Skip",
+      "Kenji": "Skip",
+      "Toshio": "Skip",
+      "Yumi": "Skip",
+      "Benjamin": "Skip"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "Over",
+      "Kenji": "Over",
+      "Toshio": "Over",
+      "Yumi": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without naming vendors. They debate the risks of fragmented ownership, hidden costs, and the gap between training and actual practice.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "We have a critical shortage of admins and the crews ignore standard training.",
+      "Kenji": "Our hardware is outdated and we can't afford downtime during the winter peak.",
+      "Toshio": "Operating costs are ignored by the board while bundled prices stay flat.",
+      "Yumi": "Last time, no one took responsibility for the outage, and rules changed too fast.",
+      "Benjamin": "We have a habit of skipping upgrades and suffering from poor external data migration."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "@Kenji, does that mean we need someone on-site during the transition?",
+      "Kenji": "Exactly, we can't risk a paper-based fallback during the rush.",
+      "Toshio": "We should avoid any model where costs climb yearly after the initial deal.",
+      "Yumi": "I agree with Toshio; we need a clear owner for when things break.",
+      "Benjamin": "A system that ages in place is a liability we cannot repeat."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "If the trainers just visit and leave, the depot supervisors will just revert to old ways.",
+      "Kenji": "That's why the hardware compatibility is so vital.",
+      "Toshio": "The financial structure is the silent killer here.",
+      "Yumi": "We need a plan that evolves with the business, not one frozen in time.",
+      "Benjamin": "Logic suggests we avoid external partners who leave a mess behind."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Skip",
+      "Kenji": "Skip",
+      "Toshio": "Skip",
+      "Yumi": "Skip",
+      "Benjamin": "Skip"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The panel evaluates the four candidates against the discovered risks. They weigh the pros and cons of modularity, hosting, and on-site engineering before voting.",
+   "votes": {
+    "Misaki": "D",
+    "Kenji": "D",
+    "Toshio": "B",
+    "Yumi": "B",
+    "Benjamin": "D"
+   },
+   "adopted": "D",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "Candidate D's on-site engineering team addresses my concerns about staff and training.",
+      "Kenji": "D also seems safest for our yard hardware and the peak season.",
+      "Toshio": "B's fixed configuration and regional team offer more predictable long-term costs.",
+      "Yumi": "B's hosted suite might solve the ownership issue we had during the outage.",
+      "Benjamin": "D's approach to deployment on our own servers avoids the migration traps of C."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "@Toshio, but can B handle the depot supervisors' resistance?",
+      "Kenji": "I doubt B's regional team is as effective as D's on-site engineers.",
+      "Toshio": "Predictability is key, but I see the operational risk.",
+      "Yumi": "If D is on-site, they can't point fingers at other suppliers.",
+      "Benjamin": "D is the most rational choice to prevent the system from aging in place."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "I'm sticking with D for the human element.",
+      "Kenji": "D is my choice for the depot floor.",
+      "Toshio": "I'll consider D if the cost structure is transparent.",
+      "Yumi": "The lack of finger-pointing makes D attractive.",
+      "Benjamin": "D is the logically superior option for our specific history."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Ready to vote.",
+      "Kenji": "Ready.",
+      "Toshio": "Ready.",
+      "Yumi": "Ready.",
+      "Benjamin": "Ready."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Toshio": "He focuses on long-term financial leakage and board approval patterns. He seeks a predictable cost model.",
+  "Yumi": "She is concerned with accountability and the flexibility of the system to match business changes.",
+  "Benjamin": "He looks for technical longevity and the quality of data transitions to avoid repeated failures.",
+  "Kenji": "He prioritizes the physical reality of the depots and the constraints of the peak season.",
+  "Misaki": "She worries about the burden on overworked staff and the failure of standardized training."
+ },
+ "final": {
+  "adopted": "D"
+ },
+ "setup_id": "candidate_selection_0018",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:53:48+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793195628,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b46edcf6122618c3",
+      "object": "model_permission",
+      "created": 1793195628,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

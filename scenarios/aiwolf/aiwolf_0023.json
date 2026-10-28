@@ -1,0 +1,189 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce their general approach to the game. They discuss how to identify deception and establish a baseline for behavior.",
+   "divine": "Rin",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Excited to start and wants everyone to be honest.",
+      "Victoria": "Observing everyone's reactions carefully.",
+      "Mizuki": "Suggesting a logical approach to the discussion.",
+      "Toshio": "Staying quiet and assessing the group.",
+      "Shion": "Expressing confidence in his ability to read people."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Asking others how they plan to find the hidden enemy.",
+      "Victoria": "Mentioning that silence can be telling.",
+      "Mizuki": "Agreeing that patterns of speech are important.",
+      "Toshio": "Asking for a structured way to vote.",
+      "Shion": "Suggesting they look for contradictions."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Skip",
+      "Victoria": "Skip",
+      "Mizuki": "Skip",
+      "Toshio": "Skip",
+      "Shion": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Victoria": "Over",
+      "Mizuki": "Over",
+      "Toshio": "Over",
+      "Shion": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the information available from the first night. They debate the validity of certain statements and look for inconsistencies in behavior.",
+   "votes": {
+    "Rin": "Toshio",
+    "Victoria": "Rin",
+    "Mizuki": "Rin",
+    "Toshio": "Rin",
+    "Shion": "Rin"
+   },
+   "executed": "Rin",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Wondering why everyone is looking at her.",
+      "Victoria": "Questioning the logic of the current suspicions.",
+      "Mizuki": "Presenting a finding about a specific person.",
+      "Toshio": "Analyzing the weight of the evidence presented.",
+      "Shion": "Pointing out a perceived lie."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Trying to deflect the attention to someone else.",
+      "Victoria": "Asking for clarification on the evidence.",
+      "Mizuki": "Explaining the reasoning behind her conclusion.",
+      "Toshio": "Comparing the current behavior to the previous day.",
+      "Shion": "Urging the group to make a decision quickly."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Protesting her innocence emotionally.",
+      "Victoria": "Remaining neutral but observant.",
+      "Mizuki": "Confirming her stance based on logic.",
+      "Toshio": "Deciding who seems most suspicious.",
+      "Shion": "Agreeing with the most logical conclusion."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Victoria": "Over",
+      "Mizuki": "Over",
+      "Toshio": "Over",
+      "Shion": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mizuki": "Focuses on logical deduction and sharing verified information to guide the group.",
+  "Victoria": "Observes others' emotional states and tries to blend in while protecting an ally.",
+  "Shion": "Uses a calculating approach to isolate the most likely suspect.",
+  "Toshio": "Remains cautious and evaluates the consistency of others' stories.",
+  "Rin": "Uses energy and emotion to distract from her true nature."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0023",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:30:12+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194212,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-aede054789339134",
+      "object": "model_permission",
+      "created": 1793194212,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

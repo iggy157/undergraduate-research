@@ -1,0 +1,189 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss their general strategies for the game. They weigh the importance of intuition versus logic in identifying the hidden enemy.",
+   "divine": "Sakura",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Greetings everyone, let us proceed with wisdom.",
+      "Misaki": "I will observe quietly.",
+      "May": "This should be fun! Who's ready to play?",
+      "Jonathan": "I prefer a calm approach to this mystery.",
+      "Sakura": "I'm going to find the bad guy first!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Patience is a virtue in such games.",
+      "Misaki": "Agreed.",
+      "May": "Oh, don't be so boring, Servas!",
+      "Jonathan": "Silence often reveals more than words.",
+      "Sakura": "I'll be watching everyone's faces!"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Skip",
+      "Misaki": "Skip",
+      "May": "Skip",
+      "Jonathan": "Skip",
+      "Sakura": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Misaki": "Over",
+      "May": "Over",
+      "Jonathan": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available and looks for inconsistencies in behavior. They debate whether to trust a specific piece of information provided by a participant.",
+   "votes": {
+    "Servas": "Sakura",
+    "Misaki": "May",
+    "May": "Sakura",
+    "Jonathan": "Sakura",
+    "Sakura": "May"
+   },
+   "executed": "Sakura",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Something feels off about the energy today.",
+      "Misaki": "I noticed some unusual phrasing earlier.",
+      "May": "I think we should just go with our gut.",
+      "Jonathan": "I have information that points to a specific person.",
+      "Sakura": "What? Why are you looking at me?"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Jonathan, please share your reasoning.",
+      "Misaki": "Wait, let's not rush into a decision.",
+      "May": "I agree with Jonathan's vibe.",
+      "Jonathan": "The evidence is quite clear to me.",
+      "Sakura": "That's not fair! I'm just being me!"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "The logic seems sound enough for now.",
+      "Misaki": "I'm still not entirely convinced.",
+      "May": "I'm voting for the most suspicious one.",
+      "Jonathan": "It is the most logical choice.",
+      "Sakura": "You're all making a big mistake!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Misaki": "Over",
+      "May": "Over",
+      "Jonathan": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "May": "She relies on social cues and intuition. She follows the lead of those she finds charismatic.",
+  "Misaki": "She remains guarded and tries to divert attention away from her allies.",
+  "Servas": "He uses a guiding tone to encourage the group to reach a decision based on logic.",
+  "Sakura": "She uses a playful and defensive demeanor to mask her true nature.",
+  "Jonathan": "He provides factual leads and focuses on eliminating threats systematically."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0017",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:31:32+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194292,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8fb79252b65749f1",
+      "object": "model_permission",
+      "created": 1793194292,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants discuss the current chaos and the need for a fair system. They agree to investigate financial records, physical space usage, and historical precedents to inform their decision.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "We need a logical way to handle the shortage.",
+      "Yumi": "I hope we can find something everyone likes!",
+      "Ryuji": "We should look at the actual usage patterns first.",
+      "Shunichi": "Let's be rational about the data available.",
+      "Toshio": "I agree. We need a sustainable plan."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "I'll check the minutes and the neighboring block's account.",
+      "Yumi": "I want to see the sticker register and the minutes.",
+      "Ryuji": "I'll look at the morning departures and rain exposure.",
+      "Shunichi": "I'll check the ledger and the ward park prices.",
+      "Toshio": "I'll examine the handover file and the display frame trial."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Over",
+      "Yumi": "Over",
+      "Ryuji": "Over",
+      "Shunichi": "Over",
+      "Toshio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding the financial state of the building, the physical difficulty of certain equipment, and the social friction caused by previous arrangements. They weigh the trade-off between administrative effort and fairness.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Past arrangements have caused social withdrawal in other buildings.",
+      "Yumi": "Some residents are actually willing to pay for guaranteed spots.",
+      "Ryuji": "The morning rush is a mess and some spots are wet.",
+      "Shunichi": "The building is broke, but external parking is expensive.",
+      "Toshio": "Managing payments takes significant time and effort."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "@Yumi, if people are willing to pay, does that solve the friction?",
+      "Yumi": "Maybe, but I worry about those who can't pay.",
+      "Ryuji": "Physical congestion is the primary issue we must solve.",
+      "Shunichi": "The current lack of a formal system is the real problem.",
+      "Toshio": "We must avoid creating a burden for the treasurer."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "We should avoid anything that creates long-term resentment.",
+      "Yumi": "I just want it to be fair for everyone.",
+      "Ryuji": "A system that ignores the physical layout will fail.",
+      "Shunichi": "Let's see what the actual proposals are.",
+      "Toshio": "Simplicity in maintenance is key."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Yumi": "Over",
+      "Ryuji": "Over",
+      "Shunichi": "Over",
+      "Toshio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three options based on the gathered evidence. They debate the merits of financial gain versus administrative ease and social harmony before voting.",
+   "votes": {
+    "Asuka": "C",
+    "Yumi": "A",
+    "Ryuji": "C",
+    "Shunichi": "A",
+    "Toshio": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "The first two options seem too rigid or socially risky.",
+      "Yumi": "The first option seems fair if the money helps the building.",
+      "Ryuji": "The third option solves the morning congestion and the rain issue.",
+      "Shunichi": "The first option is the most rational for the budget.",
+      "Toshio": "The third option requires the least amount of paperwork."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "@Shunichi, but the administrative cost is high.",
+      "Yumi": "But wouldn't a lottery be too stressful?",
+      "Ryuji": "The third option removes the 'ownership' conflict entirely.",
+      "Shunichi": "True, but it doesn't generate revenue.",
+      "Toshio": "Revenue isn't worth the treasurer's burnout."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "I prefer the most flexible and least confrontational approach.",
+      "Yumi": "I'm torn, but I like the idea of a fund.",
+      "Ryuji": "The physical evidence points to the third option.",
+      "Shunichi": "I still think the first is the most professional.",
+      "Toshio": "I'm choosing the one with the lowest maintenance."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Let's vote.",
+      "Yumi": "Ready.",
+      "Ryuji": "Ready.",
+      "Shunichi": "Ready.",
+      "Toshio": "Ready."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shunichi": "He focuses on the financial implications and the lack of a formal system. He argues from a perspective of fiscal rationality.",
+  "Toshio": "He is concerned with the long-term administrative burden. He evaluates options based on the effort required to maintain them.",
+  "Ryuji": "He prioritizes the physical reality of the parking area and the daily friction. He argues based on observed usage patterns.",
+  "Yumi": "She cares about fairness and the feelings of the residents. She looks for a balance between equity and community harmony.",
+  "Asuka": "She focuses on the social dynamics and the risk of creating interpersonal conflict. She argues for the most logically stable social outcome."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0027",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:36:21+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793198181,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-99140e6902b878ca",
+      "object": "model_permission",
+      "created": 1793198181,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

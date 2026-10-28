@@ -1,0 +1,189 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss the general strategy for the first few days. They weigh the pros and cons of being open versus cautious with information.",
+   "divine": "Yumi",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "Let's be honest and find the bad guy quickly.",
+      "George": "A cautious approach is usually better.",
+      "Yumi": "I agree with being friendly and helpful!",
+      "Misaki": "I'll just observe for now.",
+      "Rin": "This is like a real adventure! I'm excited!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "We need a plan for the first vote.",
+      "George": "We should look for inconsistencies in speech.",
+      "Yumi": "Let's just trust each other for a bit.",
+      "Misaki": "Trust is dangerous here.",
+      "Rin": "Can we play a game while we think?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "Focus, Rin! We have to win.",
+      "George": "Let's see how everyone acts tomorrow.",
+      "Yumi": "I'll try my best to help everyone.",
+      "Misaki": "Skip",
+      "Rin": "Okay, okay! I'll be serious!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "Over",
+      "George": "Over",
+      "Yumi": "Over",
+      "Misaki": "Over",
+      "Rin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available from the first night. They debate the validity of certain assertions and look for contradictions in behavior.",
+   "votes": {
+    "Takumi": "Yumi",
+    "George": "Yumi",
+    "Yumi": "Takumi",
+    "Misaki": "Yumi",
+    "Rin": "Yumi"
+   },
+   "executed": "Yumi",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "I have information that points to one person.",
+      "George": "Who are you referring to?",
+      "Yumi": "Wait, why are you looking at me?",
+      "Misaki": "Let's hear the evidence first.",
+      "Rin": "Who is it? Tell us!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "It's Yumi. I know she's the enemy.",
+      "George": "That's a very bold statement.",
+      "Yumi": "That's a lie! I'm a good person!",
+      "Misaki": "Yumi seems a bit too panicked.",
+      "Rin": "Yumi, are you really the bad guy?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "I'm certain. We should vote her out.",
+      "George": "If the information is correct, we must act.",
+      "Yumi": "Please believe me! Takumi is lying!",
+      "Misaki": "I'm leaning towards Takumi's side.",
+      "Rin": "I trust Takumi, he's brave!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "Over",
+      "George": "Over",
+      "Yumi": "Over",
+      "Misaki": "Over",
+      "Rin": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "She relies on the confidence of others and follows the lead of those she perceives as strong.",
+  "Misaki": "She tries to blend in and subtly shift suspicion toward others to protect her ally.",
+  "Takumi": "He is decisive and uses his special knowledge to lead the group toward the target.",
+  "George": "He uses logic and observation of behavior to determine who is lying.",
+  "Yumi": "She uses emotional appeals and friendliness to avoid suspicion."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0024",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:35:19+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194519,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-af7ebd043312739e",
+      "object": "model_permission",
+      "created": 1793194519,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

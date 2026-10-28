@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants introduce their priorities for the investigation. They discuss the need to look at historical data, staffing levels, and financial commitments.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Victoria": "Suggests looking at staffing and maintenance.",
+      "Takumi": "Argues for checking old reports and pilots.",
+      "Toshio": "Mentions the need to check committee minutes and site risks.",
+      "Daisuke": "Quietly suggests looking at the ledger and contractor fees.",
+      "Sakura": "Wants to see crowd counts and journey audits."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Victoria": "Agrees with the need for historical context.",
+      "Takumi": "Asks others if they agree on the importance of past failures.",
+      "Toshio": "Confirms his focus on hidden obstacles.",
+      "Daisuke": "Expresses concern about long-term costs.",
+      "Sakura": "Expresses excitement about finding the real bottlenecks."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Victoria": "Finalizes her choices regarding crew and maintenance.",
+      "Takumi": "Finalizes his choices regarding pilots and accessibility records.",
+      "Toshio": "Finalizes his choices regarding committee minutes and pre-war shells.",
+      "Daisuke": "Finalizes his choices regarding the ledger and contractor fees.",
+      "Sakura": "Finalizes her choices regarding timed runs and journey audits."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Victoria": "Over",
+      "Takumi": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing the full text. They debate the feasibility of different types of improvements based on staffing, budget, and historical success.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Victoria": "Warns that some staffing pools are depleted.",
+      "Takumi": "Notes that some past infrastructure attempts failed.",
+      "Toshio": "Points out that some approvals are easier than others.",
+      "Daisuke": "Mentions that some budget lines are trimmed.",
+      "Sakura": "Reports that waiting times are the main issue."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Victoria": "Asks if maintenance capacity exists for specific upgrades.",
+      "Takumi": "Questions the viability of repeating old ideas.",
+      "Toshio": "Discusses the risk of unrecorded voids in old structures.",
+      "Daisuke": "Questions the cost of ticketing contractors.",
+      "Sakura": "Argues against focusing on mid-city crowds."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Victoria": "Notes a specific maintenance contract has spare capacity.",
+      "Takumi": "Mentions a successful past pilot for late hours.",
+      "Toshio": "Highlights the ease of roadway consents.",
+      "Daisuke": "Points out a ring-fenced construction balance.",
+      "Sakura": "Suggests that ticketing queues are not the problem."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Victoria": "Over",
+      "Takumi": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The participants evaluate the candidates against the discovered constraints. They weigh the available budget and staff against the projected impact on passengers before voting.",
+   "votes": {
+    "Victoria": "C",
+    "Takumi": "B",
+    "Toshio": "A",
+    "Daisuke": "C",
+    "Sakura": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Victoria": "Argues for the option aligned with maintenance capacity.",
+      "Takumi": "Argues for the option with a successful pilot history.",
+      "Toshio": "Argues for the option with the easiest consents.",
+      "Daisuke": "Questions the long-term funding of the options.",
+      "Sakura": "Questions which option actually saves passenger time."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Victoria": "Points out the risk of using depleted late-turn pools.",
+      "Takumi": "Defends the late-night extension based on cost-recovery.",
+      "Toshio": "Warns about the costs of working in pre-war shells.",
+      "Daisuke": "Notes that the construction balance fits certain works.",
+      "Sakura": "Suggests that station flow is a key time-saver."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Victoria": "Asks if the construction balance covers accessibility.",
+      "Takumi": "Asks if the late-night staff can be found.",
+      "Toshio": "Compares the risk of shells versus roadworks.",
+      "Daisuke": "Agrees that using the ring-fenced grant is safest.",
+      "Sakura": "Agrees that improving station movement helps most."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Victoria": "Ready to vote.",
+      "Takumi": "Ready to vote.",
+      "Toshio": "Ready to vote.",
+      "Daisuke": "Ready to vote.",
+      "Sakura": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Daisuke": "Cares about long-term financial commitments and budget sources. He looks for options that utilize existing ring-fenced funds to avoid future arguments.",
+  "Toshio": "Cares about hidden physical risks and administrative hurdles. He evaluates options based on the ease of obtaining consents and the predictability of the site.",
+  "Takumi": "Cares about institutional memory and past performance. He looks for evidence from previous pilots and closure reports to avoid repeating mistakes.",
+  "Sakura": "Cares about actual passenger time loss versus perceived crowding. She seeks options that address the real bottlenecks identified in journey audits.",
+  "Victoria": "Cares about the availability of personnel to operate the plan. She examines roster capacity and maintenance contracts to ensure the plan is staffable."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0027",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:05:08+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196308,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8f1cbe921463f822",
+      "object": "model_permission",
+      "created": 1793196308,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

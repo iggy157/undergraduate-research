@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "Participants introduce their priorities for the investigation. They discuss the need to balance financial constraints, technical feasibility, and operational efficiency.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "Suggests looking at staffing and coordination.",
+      "Jonathan": "Suggests checking network coverage and developer availability.",
+      "George": "Suggests checking the budget and license pricing.",
+      "May": "Suggests looking at past rollout outcomes and standardization efforts.",
+      "Midori": "Suggests looking at incident logs and time lost to copying."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "Agrees with Midori on the importance of daily losses.",
+      "Jonathan": "Asks George about the budget specifics.",
+      "George": "Explains the need to know the funding source.",
+      "May": "Questions if past failures are being ignored.",
+      "Midori": "Agrees with May on the need for historical context."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "Asks about vendor query handling.",
+      "Jonathan": "Notes the risk of external dependencies.",
+      "George": "Emphasizes the risk of hidden renewal costs.",
+      "May": "Suggests focusing on what actually survives in the long term.",
+      "Midori": "Wants to see the gap between effort and result."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "Finalizes choices: Staffing of the coordination group, Handling of vendor queries.",
+      "Jonathan": "Finalizes choices: Network coverage at customer plants, In-house developer availability.",
+      "George": "Finalizes choices: Capital budget and software allowance, Vendor licence pricing versus fixed-fee work.",
+      "May": "Finalizes choices: Outcomes of the last three internal rollouts, Record of cross-unit standardization efforts.",
+      "Midori": "Finalizes choices: Misrouted deliveries in the incident logs, Time lost to copying existing records."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing the candidates. They debate the viability of high-maintenance tools versus simple, targeted solutions.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "Reports that coordination is understaffed and manual.",
+      "Jonathan": "Reports poor network coverage and lack of developers.",
+      "George": "Reports a frozen capital budget but available software allowance.",
+      "May": "Reports that broad tools were dropped while narrow ones survived.",
+      "Midori": "Reports significant time lost to redundant copying."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "Expresses concern about adding more work to tired staff.",
+      "Jonathan": "Warns against tools requiring constant connectivity.",
+      "George": "Notes that per-head licensing could be a financial trap.",
+      "May": "Argues against complex cross-unit mandates.",
+      "Midori": "Highlights the cost of repetitive manual entry."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "Asks if any solution reduces the manual burden.",
+      "Jonathan": "Questions if any solution can work offline.",
+      "George": "Asks if the costs are fixed or recurring.",
+      "May": "Points out that standardization often fails without owners.",
+      "Midori": "Suggests focusing on the most frequent daily errors."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "Over",
+      "Jonathan": "Over",
+      "George": "Over",
+      "May": "Over",
+      "Midori": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The candidates are revealed. The group evaluates each option against the discovered constraints of budget, staffing, and technical environment before voting.",
+   "votes": {
+    "Minato": "C",
+    "Jonathan": "C",
+    "George": "C",
+    "May": "C",
+    "Midori": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "Questions if the Workflow Assistant adds too much work.",
+      "Jonathan": "Notes the Field Service App might fail due to network issues.",
+      "George": "Considers the licensing costs of the Supplier Data Hub.",
+      "May": "Observes that the Training Studio is a narrow, sustainable tool.",
+      "Midori": "Sees the Supplier Data Hub as a way to stop redundant copying."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "Agrees that the Hub solves the vendor query problem.",
+      "Jonathan": "Notes the Hub doesn't rely on field network coverage.",
+      "George": "Checks if the Hub fits the software allowance.",
+      "May": "Considers if the Hub is too broad to survive.",
+      "Midori": "Argues the Hub addresses the incident log errors."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "Feels the Hub helps the coordination group.",
+      "Jonathan": "Agrees the Hub is the safest technical bet.",
+      "George": "Accepts the Hub if the cost is manageable.",
+      "May": "Concedes the Hub addresses a clear, documented pain point.",
+      "Midori": "Urges the group to prioritize the Hub for efficiency."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "Votes for C.",
+      "Jonathan": "Votes for C.",
+      "George": "Votes for C.",
+      "May": "Votes for C.",
+      "Midori": "Votes for C."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "George": "Concerned about the source of funding and long-term costs. He evaluates options based on budget alignment and licensing structures.",
+  "Jonathan": "Concerned about technical dependencies and external constraints. He weighs options against infrastructure realities and resource availability.",
+  "May": "Concerned about the sustainability of previous projects. She looks for patterns of success and failure in internal tool adoption.",
+  "Midori": "Concerned about daily operational waste. She advocates for solutions that address frequent, small-scale inefficiencies on the floor.",
+  "Minato": "Concerned about the burden on personnel. He focuses on whether a proposal increases or decreases the manual workload for staff."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0030",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:10:49+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196649,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-874937c7bf8b5750",
+      "object": "model_permission",
+      "created": 1793196649,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

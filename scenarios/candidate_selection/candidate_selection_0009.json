@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses the necessity of reviewing historical data before selecting a proposal. They debate whether to prioritize financial transparency, logistical reliability, visitor satisfaction, or facility constraints.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "Suggests checking the building's physical limits.",
+      "Toshio": "Proposes looking at what visitors actually liked.",
+      "Rin": "Asks about who is available to work.",
+      "Kenji": "Wants to know why previous deliveries failed.",
+      "Benjamin": "Suggests investigating where the budget disappears."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "Agrees with Benjamin on the need for clarity.",
+      "Toshio": "Questions the value of current staffing levels.",
+      "Rin": "Supports Kenji's focus on delivery issues.",
+      "Kenji": "Asks Toshio about the visitor data.",
+      "Benjamin": "Suggests a systematic review of costs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "Confirms his choice of structural and hire data.",
+      "Toshio": "Confirms his choice of head counts and comments.",
+      "Rin": "Confirms her choice of lab staffing and volunteers.",
+      "Kenji": "Confirms his choice of transport costs and paperwork.",
+      "Benjamin": "Confirms his choice of mount charges and powered display logs."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Over",
+      "Toshio": "Over",
+      "Rin": "Over",
+      "Kenji": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing the specific data points. They discuss the risks of high maintenance, staffing shortages, and structural limitations.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "Warns about weight limits and evening events.",
+      "Toshio": "Notes that interactive elements draw more people.",
+      "Rin": "Mentions a critical shortage in the conservation lab.",
+      "Kenji": "Points out that shipping delays are a recurring problem.",
+      "Benjamin": "Highlights the high cost of custom mounts."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "Asks if the lab shortage affects all types of shows.",
+      "Toshio": "Suggests that human presence in the gallery is a draw.",
+      "Rin": "Explains that the volunteer pool is very specialized.",
+      "Kenji": "Questions if local loans would solve the shipping issue.",
+      "Benjamin": "Warns about the failure rate of powered displays."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "Expresses worry about heavy installations.",
+      "Toshio": "Argues for a show with a living component.",
+      "Rin": "Asks Benjamin about the cost of simple displays.",
+      "Kenji": "Agrees that local sourcing is safer.",
+      "Benjamin": "Suggests avoiding complex electronics."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Over",
+      "Toshio": "Over",
+      "Rin": "Over",
+      "Kenji": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The committee evaluates the four candidates against the discovered constraints. They weigh the benefits of visitor engagement against the risks of budget overruns and staffing gaps.",
+   "votes": {
+    "Daisuke": "A",
+    "Toshio": "A",
+    "Rin": "A",
+    "Kenji": "A",
+    "Benjamin": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "Questions the weight of the excavation finds.",
+      "Toshio": "Notes the appeal of the craft demonstrations.",
+      "Rin": "Worries about the lab's ability to handle the excavation.",
+      "Kenji": "Points out the shipping risks of the maritime loans.",
+      "Benjamin": "Questions the power needs of the kinetic art."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "Notes that local textiles are light and safe.",
+      "Toshio": "Argues that the craftspeople provide the human element.",
+      "Rin": "Observes that local craftspeople might help with staffing.",
+      "Kenji": "Agrees that local textiles avoid shipping delays.",
+      "Benjamin": "Notes that textiles require fewer expensive mounts."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "Feels the local option is the most secure.",
+      "Toshio": "Believes the local option meets visitor desires.",
+      "Rin": "Thinks the local option is manageable for the staff.",
+      "Kenji": "Sees the local option as the most reliable.",
+      "Benjamin": "Concludes the local option is the most fiscally sound."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Votes for the local craft exhibition.",
+      "Toshio": "Votes for the local craft exhibition.",
+      "Rin": "Votes for the local craft exhibition.",
+      "Kenji": "Votes for the local craft exhibition.",
+      "Benjamin": "Votes for the local craft exhibition."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Benjamin": "Focuses on hidden costs and maintenance. He uses logic to steer the group away from expensive or fragile installations.",
+  "Kenji": "Concerned with the reliability of logistics. He advocates for options that minimize shipping risks.",
+  "Toshio": "Prioritizes actual visitor experience over theoretical quality. He looks for elements that encourage repeat visits.",
+  "Daisuke": "Worries about the physical capacity and usage of the gallery. He seeks the option with the lowest structural impact.",
+  "Rin": "Focuses on the human resources available. She evaluates candidates based on the current workload of the staff."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0009",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:41:54+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194914,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-80779542723535a8",
+      "object": "model_permission",
+      "created": 1793194914,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "85f6932af8df3343c3492c23e89145d19478d79a",
+   "files": 96
+  }
+ }
+}

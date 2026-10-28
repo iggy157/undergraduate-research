@@ -1,0 +1,189 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss the general strategy for identifying the enemy. They weigh the risks of speaking too early versus the benefits of gathering information.",
+   "divine": "Ryuji",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I'm nervous, but I'll try my best.",
+      "Victoria": "We should be careful about who we trust.",
+      "Shunichi": "I'm sure we can figure this out quickly.",
+      "Takumi": "Let's just be honest and find the bad guy!",
+      "Ryuji": "A cautious approach is the most logical."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "Does anyone have a plan?",
+      "Victoria": "Observation is key for now.",
+      "Shunichi": "I'll be watching everyone's reactions.",
+      "Takumi": "I'm not going to let the enemy win!",
+      "Ryuji": "Agreed, but haste leads to mistakes."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "Skip",
+      "Victoria": "Skip",
+      "Shunichi": "Skip",
+      "Takumi": "Skip",
+      "Ryuji": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Over",
+      "Victoria": "Over",
+      "Shunichi": "Over",
+      "Takumi": "Over",
+      "Ryuji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available and looks for contradictions in behavior. They debate whether to trust a specific piece of information provided by a participant.",
+   "votes": {
+    "Daisuke": "Ryuji",
+    "Victoria": "Ryuji",
+    "Shunichi": "Daisuke",
+    "Takumi": "Ryuji",
+    "Ryuji": "Daisuke"
+   },
+   "executed": "Ryuji",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I know who the enemy is.",
+      "Victoria": "That is a bold statement to make.",
+      "Shunichi": "Are you sure you aren't mistaken?",
+      "Takumi": "Tell us right now!",
+      "Ryuji": "This seems like a reckless accusation."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "It is Ryuji.",
+      "Victoria": "Ryuji, how do you respond to this?",
+      "Shunichi": "Daisuke might be trying to confuse us.",
+      "Takumi": "I believe Daisuke!",
+      "Ryuji": "I am a regular citizen; this is illogical."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "I'm certain about this.",
+      "Victoria": "The evidence seems to lean one way.",
+      "Shunichi": "We should consider other possibilities.",
+      "Takumi": "No way, it's definitely him!",
+      "Ryuji": "You are all making a grave mistake."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Over",
+      "Victoria": "Over",
+      "Shunichi": "Over",
+      "Takumi": "Over",
+      "Ryuji": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Takumi": "He acts on instinct and strong emotions, quickly deciding who to trust based on bravery and directness.",
+  "Ryuji": "He uses logic and a calm demeanor to deflect suspicion and maintain a facade of rationality.",
+  "Shunichi": "He uses sarcasm and analytical arguments to cast doubt on others and protect his hidden ally.",
+  "Victoria": "She observes others' behavior and looks for inconsistencies to reach a logical conclusion.",
+  "Daisuke": "He struggles with confidence but relies on the information he has gathered to guide the group."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0030",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:37:20+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194640,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-ae5d111fe17ae17b",
+      "object": "model_permission",
+      "created": 1793194640,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

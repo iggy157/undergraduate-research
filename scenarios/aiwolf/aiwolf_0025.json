@@ -1,0 +1,231 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss general strategies for identifying deception. They weigh the value of silence versus openness in the early stages.",
+   "divine": "Jonathan",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Greetings to everyone; let us proceed with wisdom.",
+      "Jonathan": "I prefer to listen and observe for now.",
+      "Yumi": "I'm so excited to play with you all!",
+      "Victoria": "I will be watching the patterns of speech carefully.",
+      "May": "Let's make this game interesting and lively!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Observation is key, but communication is the bridge.",
+      "Jonathan": "Skip",
+      "Yumi": "Do you think we should all talk a lot?",
+      "Victoria": "Too much noise can hide the truth.",
+      "May": "I agree with Victoria; the quiet ones are often the most dangerous."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Balance is necessary for a fair judgment.",
+      "Jonathan": "Skip",
+      "Yumi": "I just want everyone to be honest!",
+      "Victoria": "Honesty is a luxury in this game.",
+      "May": "Exactly! Let's see who cracks first."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Jonathan": "Over",
+      "Yumi": "Over",
+      "Victoria": "Over",
+      "May": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the behavior of the most reserved players. They debate whether a lack of information is a sign of guilt or innocence.",
+   "votes": {
+    "Servas": "Jonathan",
+    "Jonathan": "Victoria",
+    "Yumi": "Jonathan",
+    "Victoria": "Jonathan",
+    "May": "Jonathan"
+   },
+   "executed": "Jonathan",
+   "divine": "May",
+   "attack": "Victoria",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "The silence of some is becoming quite conspicuous.",
+      "Jonathan": "I am simply staying true to my nature.",
+      "Yumi": "Is it wrong to be quiet, Jonathan?",
+      "Victoria": "It is not wrong, but it is strategically useful.",
+      "May": "I find the mystery a bit too convenient."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "We must make a choice based on the available evidence.",
+      "Jonathan": "I suspect the one pushing the hardest.",
+      "Yumi": "I don't want to hurt anyone, but we have to.",
+      "Victoria": "I have information that points toward a specific person.",
+      "May": "Oh? Please share your findings with us, Victoria."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "If the evidence is clear, we should act.",
+      "Jonathan": "I believe I am being unfairly targeted.",
+      "Yumi": "I'm starting to feel uneasy about this.",
+      "Victoria": "The logic leads to only one conclusion.",
+      "May": "I'm with Victoria on this one."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Jonathan": "Over",
+      "Yumi": "Over",
+      "Victoria": "Over",
+      "May": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "The remaining players react to the previous losses. They evaluate the remaining participants' reactions to the sudden change in numbers.",
+   "votes": {
+    "Servas": "May",
+    "Yumi": "May",
+    "May": "Servas"
+   },
+   "executed": "May",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "The loss of two people in one night is devastating.",
+      "Yumi": "I can't believe Victoria is gone too!",
+      "May": "It's a tragedy, but the game must continue."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Victoria's last actions were very telling.",
+      "Yumi": "What do you mean, Servas?",
+      "May": "She was just guessing, as anyone would."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Her certainty was not a guess; it was a revelation.",
+      "Yumi": "If she was right about the first, she might be right about the second.",
+      "May": "That is a dangerous leap in logic."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Yumi": "Over",
+      "May": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "May": "She uses charm and aggression to deflect attention. She attempts to frame the quietest members of the group.",
+  "Yumi": "She relies on emotional cues and the guidance of others. Her views shift based on the prevailing mood of the group.",
+  "Servas": "He uses logic and experience to analyze behavior. He looks for inconsistencies in how people react to pressure.",
+  "Jonathan": "He maintains a detached persona. He tries to avoid drawing attention to himself while observing others.",
+  "Victoria": "She focuses on rational deduction and evidence. She prioritizes the sharing of verified information over social harmony."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0025",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:39:50+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194790,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9ca04db1586601bf",
+      "object": "model_permission",
+      "created": 1793194790,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

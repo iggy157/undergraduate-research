@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss the general strategy for identifying the hidden enemy. They weigh the pros and cons of being open versus cautious.",
+   "divine": "Mizuki",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Let's start by observing everyone's behavior.",
+      "Misaki": "I agree, a cautious approach is best.",
+      "Mizuki": "We should be logical and look for contradictions.",
+      "Minato": "I'm a bit nervous, but I'll do my best.",
+      "Jonathan": "Peace and patience will lead us to the truth."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Does anyone have a specific method in mind?",
+      "Misaki": "Maybe we can ask questions about our thought processes.",
+      "Mizuki": "That sounds reasonable to narrow things down.",
+      "Minato": "I want to help everyone get along.",
+      "Jonathan": "Listening is more important than speaking right now."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Skip",
+      "Misaki": "Skip",
+      "Mizuki": "Skip",
+      "Minato": "Skip",
+      "Jonathan": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Misaki": "Over",
+      "Mizuki": "Over",
+      "Minato": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available and looks for inconsistencies in the previous day's statements. They debate who seems most suspicious based on their demeanor.",
+   "votes": {
+    "Toshio": "Mizuki",
+    "Misaki": "Mizuki",
+    "Mizuki": "Toshio",
+    "Minato": "Toshio",
+    "Jonathan": "Mizuki"
+   },
+   "executed": "Mizuki",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "I have information that points to a specific person.",
+      "Misaki": "Who are you referring to?",
+      "Mizuki": "That's a very bold statement to make so early.",
+      "Minato": "I don't want anyone to be wrongly accused.",
+      "Jonathan": "Let's hear the reasoning first."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "The evidence suggests the person I'm thinking of is the enemy.",
+      "Misaki": "If the logic holds, we must act.",
+      "Mizuki": "You are just trying to deflect attention from yourself.",
+      "Minato": "I think we should be careful about trusting one person.",
+      "Jonathan": "The tension is rising quickly."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "I am certain of my findings.",
+      "Misaki": "I'm inclined to believe the logic presented.",
+      "Mizuki": "This is a mistake that will cost the group.",
+      "Minato": "I'll follow the majority to keep peace.",
+      "Jonathan": "I see a pattern that aligns with the accusation."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Misaki": "Over",
+      "Mizuki": "Over",
+      "Minato": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mizuki": "She focuses on maintaining a logical facade and tries to cast doubt on others' assertions.",
+  "Minato": "He prioritizes harmony and tends to align his views with the most dominant voices.",
+  "Toshio": "He relies on gathered data and presents his conclusions with a cold, calculating manner.",
+  "Jonathan": "He observes the emotional state of the group and looks for subtle cues in their speech.",
+  "Misaki": "She analyzes the consistency of arguments and values efficiency in reaching a decision."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0015",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:26:08+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793193968,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-80a753f3fe066a68",
+      "object": "model_permission",
+      "created": 1793193968,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss how to identify the hidden threats. They weigh the value of silence versus openness in the early stage.",
+   "divine": "Mio",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Excited to start the game!",
+      "Misaki": "Let's stay calm and observant.",
+      "Jonathan": "I agree, a quiet approach is best.",
+      "Kenji": "I want to find the bad guys quickly!",
+      "Benjamin": "Logic will be our best tool here."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Who should we trust first?",
+      "Misaki": "It is too early to tell.",
+      "Jonathan": "Skip",
+      "Kenji": "I trust everyone for now!",
+      "Benjamin": "Trust is a luxury we cannot afford."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Let's just talk more.",
+      "Misaki": "Skip",
+      "Jonathan": "Skip",
+      "Kenji": "I'm ready for anything!",
+      "Benjamin": "Observation is key."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "Misaki": "Over",
+      "Jonathan": "Over",
+      "Kenji": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the behavior of participants from the previous day. They debate the validity of certain statements and look for contradictions.",
+   "votes": {
+    "Mio": "Mio",
+    "Misaki": "Mio",
+    "Jonathan": "Mio",
+    "Kenji": "Benjamin",
+    "Benjamin": "Mio"
+   },
+   "executed": "Mio",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "I'm just being my usual self!",
+      "Misaki": "Your energy seems a bit forced today.",
+      "Jonathan": "I have information that points to a specific person.",
+      "Kenji": "Wait, why are we doubting Mio?",
+      "Benjamin": "The patterns are becoming clear."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Jonathan, why are you looking at me?",
+      "Misaki": "He seems confident in his knowledge.",
+      "Jonathan": "I can confirm who is not human.",
+      "Kenji": "That sounds suspicious, maybe Jonathan is lying!",
+      "Benjamin": "Let's evaluate the evidence logically."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Please believe me!",
+      "Misaki": "The evidence is leaning one way.",
+      "Jonathan": "It is Mio.",
+      "Kenji": "I still think we should be careful!",
+      "Benjamin": "I agree with the majority view."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "Misaki": "Over",
+      "Jonathan": "Over",
+      "Kenji": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "He relies on hidden knowledge and speaks only when certain. He remains composed throughout the process.",
+  "Kenji": "He acts on emotion and tries to protect others. He is easily swayed by social bonds.",
+  "Benjamin": "He uses deductive reasoning to find inconsistencies. He values evidence over intuition.",
+  "Misaki": "She observes the group dynamics quietly. She follows the most logical path presented.",
+  "Mio": "She uses high energy to deflect attention. She tries to create doubt about the information shared."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0021",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:29:05+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194145,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b81f28c9eda84560",
+      "object": "model_permission",
+      "created": 1793194145,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

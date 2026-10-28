@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses what information is necessary to make a fair decision. They focus on costs, physical space, time commitments, and the history of complaints.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Suggests looking into the physical space and the complaint history.",
+      "Mizuki": "Suggests looking into the next lane's experience and the station block's bin house.",
+      "Kenji": "Suggests looking into the ledger and the ward subsidy.",
+      "Midori": "Suggests looking into the residents' meeting statements and the station block's minutes.",
+      "Servas": "Suggests looking into the truck arrival times and the filing requirements."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "Agrees with the need for data on the frontages.",
+      "Mizuki": "Agrees that practical examples are key.",
+      "Kenji": "Emphasizes the need for financial clarity.",
+      "Midori": "Hopes to find a way to maintain harmony.",
+      "Servas": "Notes that administrative burdens must be considered."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Over",
+      "Mizuki": "Over",
+      "Kenji": "Over",
+      "Midori": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They debate the trade-offs between financial costs, maintenance time, and the potential for social friction.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Shares that one house has complained far more than others and space is limited.",
+      "Mizuki": "Shares that enclosed structures can smell and supervised mornings take about an hour.",
+      "Kenji": "Shares the high cost of shelters and the annual maintenance fees.",
+      "Midori": "Shares that people are reluctant to police each other and shelters lead to arguments.",
+      "Servas": "Shares the strict filing rules and the early arrival of the trucks."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "@Kenji asks if the subsidy makes the cost manageable.",
+      "Mizuki": "@Midori asks if the social friction is inevitable regardless of the choice.",
+      "Kenji": "Explains that even with subsidies, the remaining cost is significant.",
+      "Midori": "Expresses concern that strict rules might alienate neighbors.",
+      "Servas": "Points out that the time commitment for supervision is relatively low."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Questions if a fixed spot is fair given the complaint log.",
+      "Mizuki": "Questions if a narrow time window is realistic for everyone.",
+      "Kenji": "Questions who will pay for the ongoing maintenance.",
+      "Midori": "Questions if moving the point would cause more arguments.",
+      "Servas": "Questions the administrative effort of frequent changes."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Over",
+      "Mizuki": "Over",
+      "Kenji": "Over",
+      "Midori": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three options against their discovered constraints. They weigh the burden of labor versus the burden of cost and the impact on neighborhood relations.",
+   "votes": {
+    "May": "A",
+    "Mizuki": "B",
+    "Kenji": "B",
+    "Midori": "B",
+    "Servas": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Argues for a system that distributes the physical burden.",
+      "Mizuki": "Argues for a system that minimizes the duration of the nuisance.",
+      "Kenji": "Argues for the most cost-effective approach.",
+      "Midori": "Argues for the option least likely to cause long-term resentment.",
+      "Servas": "Argues for a balance between effort and stability."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "@Mizuki asks if the time window is too restrictive.",
+      "Mizuki": "Responds that it is better than a permanent smell or high cost.",
+      "Kenji": "Agrees that avoiding construction costs is a priority.",
+      "Midori": "Agrees that a shared schedule is fairer than a permanent spot.",
+      "Servas": "Notes that the time commitment is acceptable."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Considers the administrative hassle of moving the point.",
+      "Mizuki": "Suggests the time-window approach as a compromise.",
+      "Kenji": "Agrees with the time-window approach.",
+      "Midori": "Agrees with the time-window approach.",
+      "Servas": "Agrees with the time-window approach."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Over",
+      "Mizuki": "Over",
+      "Kenji": "Over",
+      "Midori": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Kenji": "Focuses on the financial impact on households. He analyzes the costs and subsidies to avoid an unfair monetary burden.",
+  "Servas": "Focuses on the time and administrative effort required. He evaluates the labor hours and filing requirements to prevent burnout.",
+  "Mizuki": "Focuses on the daily living experience and hygiene. She compares the practical outcomes of different setups to avoid recurring nuisances.",
+  "May": "Focuses on the fairness of the physical placement. She uses the complaint log and frontage measurements to ensure no one is unfairly burdened.",
+  "Midori": "Focuses on the social harmony of the lane. She examines meeting minutes and resident statements to avoid options that trigger conflict."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0022",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:25:57+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197557,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-925d65effd15a4be",
+      "object": "model_permission",
+      "created": 1793197557,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

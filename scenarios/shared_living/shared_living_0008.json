@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the current chaos of the room. They agree to investigate financial costs, usage patterns, and the physical environment to make an informed choice.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Suggests they need a formal system for the room.",
+      "Misaki": "Agrees that the current state is inefficient.",
+      "Servas": "Advises looking at the actual time spent on maintenance.",
+      "Sakura": "Wants to know how much money is being wasted.",
+      "Kenji": "Mentions the lack of a place for private talks."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "Proposes checking who actually uses the room.",
+      "Misaki": "Suggests looking at the noise and cleanliness issues.",
+      "Servas": "Wants to see the facilities logs.",
+      "Sakura": "Suggests checking the cost of outside rentals.",
+      "Kenji": "Wants to know where difficult talks happen."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Agrees to look at the usage tally and the fridge history.",
+      "Misaki": "Decides to check the wall and the desk crumbs.",
+      "Servas": "Chooses the facilities callouts and the lunch trip time.",
+      "Sakura": "Picks the outside hire invoices and the fit-out quotes.",
+      "Kenji": "Selects the unplanned talk data and the awkward conversation location."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Over",
+      "Misaki": "Over",
+      "Servas": "Over",
+      "Sakura": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings. They weigh the cost of external rentals against the cost of internal upgrades, and the need for privacy against the desire for a dining area.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Reveals that usage is uneven and cleaning is a burden.",
+      "Misaki": "Points out that the wall is thin and desks are messy.",
+      "Servas": "Notes the long time it takes to get hot food.",
+      "Sakura": "Shares the high cost of hourly rentals.",
+      "Kenji": "Explains that social bonds are weakening due to lack of privacy."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "Questions if a food-based solution would just create more mess.",
+      "Misaki": "Argues that noise is a primary concern for those nearby.",
+      "Servas": "Suggests that a food area would save everyone time.",
+      "Sakura": "Mentions the specific costs for different fit-out types.",
+      "Kenji": "Highlights the risk of public arguments if there is no private area."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Asks @Sakura if the rental costs are a recurring problem.",
+      "Misaki": "Asks @Servas if the food trip is really that disruptive.",
+      "Servas": "Confirms the time loss for the majority of the staff.",
+      "Sakura": "Confirms the rental fees are significant.",
+      "Kenji": "Asks if the group values social cohesion over convenience."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Over",
+      "Misaki": "Over",
+      "Servas": "Over",
+      "Sakura": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three final options. They debate whether the priority should be productivity, wellness, or social utility before voting.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Evaluates the options based on the cleaning burden.",
+      "Misaki": "Evaluates the options based on the noise impact.",
+      "Servas": "Evaluates the options based on time efficiency.",
+      "Sakura": "Evaluates the options based on the budget.",
+      "Kenji": "Evaluates the options based on the need for private dialogue."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "Expresses a preference for a structured, bookable system.",
+      "Misaki": "Expresses a preference for a silent environment.",
+      "Servas": "Expresses a preference for a food-centric utility.",
+      "Sakura": "Expresses a preference for the most cost-effective professional upgrade.",
+      "Kenji": "Expresses a preference for a place for discussions."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Asks @Misaki if a bookable system would solve the noise issue.",
+      "Misaki": "Doubts it, as talking is still talking.",
+      "Servas": "Asks @Sakura if the food fit-out is cheaper.",
+      "Sakura": "Confirms it is cheaper than the professional equipment.",
+      "Kenji": "Argues that a bookable system is the only way to ensure privacy."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Ready to vote.",
+      "Misaki": "Ready to vote.",
+      "Servas": "Ready to vote.",
+      "Sakura": "Ready to vote.",
+      "Kenji": "Ready to vote."
+     }
+    }
+   ],
+   "votes": {
+    "May": "C",
+    "Misaki": "B",
+    "Servas": "A",
+    "Sakura": "C",
+    "Kenji": "C"
+   },
+   "adopted": "C"
+  }
+ ],
+ "seats": {
+  "Sakura": "Cares about the financial impact and budget. She uses hard numbers to guide the group toward a professional solution.",
+  "Servas": "Cares about the time lost to chores and travel. He advocates for efficiency and physical well-being.",
+  "Misaki": "Cares about the sensory environment and noise. She argues from the perspective of those sitting closest to the room.",
+  "May": "Cares about fairness in usage and cleaning. She pushes for a system that removes ambiguity and personal burden.",
+  "Kenji": "Cares about interpersonal relationships and privacy. He emphasizes the emotional and social needs of the office."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0008",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:17:35+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197055,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a1287436900e7995",
+      "object": "model_permission",
+      "created": 1793197055,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

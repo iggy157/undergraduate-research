@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants introduce their priorities for the investigation. They focus on historical data, staffing levels, financial commitments, and operational bottlenecks.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Suggests looking at old pilots and accessibility records to avoid repeating mistakes.",
+      "Benjamin": "Proposes checking roster books and crew establishment to ensure feasibility.",
+      "Midori": "Requests timed runs and journey audits to identify real delays.",
+      "Shizue": "Wants to see joint committee minutes and contingency pricing for old structures.",
+      "Jonathan": "Suggests capital ledger balances and ticketing contractor fees."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "Agrees with the need for operational data.",
+      "Benjamin": "Asks if others agree on the importance of staffing.",
+      "Midori": "Supports the focus on passenger experience.",
+      "Shizue": "Emphasizes the risk of hidden physical obstacles.",
+      "Jonathan": "Notes the importance of long-term financial obligations."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Skip",
+      "Benjamin": "Skip",
+      "Midori": "Skip",
+      "Shizue": "Skip",
+      "Jonathan": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Over",
+      "Benjamin": "Over",
+      "Midori": "Over",
+      "Shizue": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing the specific candidates yet. They discuss the tension between staffing shortages, financial leaks, and infrastructure risks.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Mentions that some past trials were actually successful and some infrastructure projects failed.",
+      "Benjamin": "Warns that the late-turn pool and general crew levels are dangerously low.",
+      "Midori": "Points out that waiting for connections is the main time-sink, not the travel itself.",
+      "Shizue": "Notes that inter-agency agreement is lacking and old shells are risky.",
+      "Jonathan": "Highlights that contractor fees are eating into the paving budget."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "Asks @Benjamin if staffing affects all types of expansion.",
+      "Benjamin": "Confirms that overnight work and late shifts are particularly strained.",
+      "Midori": "Questions if the ticketing system is actually the cause of the delays.",
+      "Shizue": "Expresses concern over the lack of consensus between operators.",
+      "Jonathan": "Mentions a ring-fenced balance that might be usable."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Observes that some technical trials from years ago were sound.",
+      "Benjamin": "Notes that maintenance contracts for certain equipment actually have capacity.",
+      "Midori": "Argues against fixing things that aren't the primary cause of delay.",
+      "Shizue": "Warns against projects requiring heavy coordination with uncooperative partners.",
+      "Jonathan": "Questions the sustainability of current contractor fee structures."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Over",
+      "Benjamin": "Over",
+      "Midori": "Over",
+      "Shizue": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The candidates are revealed. The group evaluates them against the discovered constraints: staffing, inter-agency cooperation, financial sustainability, and actual passenger needs.",
+   "votes": {
+    "May": "A",
+    "Benjamin": "C",
+    "Midori": "C",
+    "Shizue": "C",
+    "Jonathan": "A"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Advocates for the fare system based on the successful old pilot.",
+      "Benjamin": "Supports the station upgrades because the maintenance contract has capacity.",
+      "Midori": "Agrees with the station upgrades to improve passenger flow.",
+      "Shizue": "Favors station upgrades as they avoid the inter-agency deadlock of other plans.",
+      "Jonathan": "Leans toward the fare system to stop the drain of multiple contractor fees."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "Argues that the fare system is a low-risk win based on history.",
+      "Benjamin": "Objects to the night extension due to the depleted late-turn pool.",
+      "Midori": "Questions the utility of the bus corridor if the issue is connections.",
+      "Shizue": "Warns that the bus corridor requires roadway consents that might be tricky.",
+      "Jonathan": "Asks @Benjamin if station upgrades would stress the crew too much."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Tries to convince the others that the fare system is the most efficient.",
+      "Benjamin": "Reassures @Jonathan that the specific maintenance capacity makes station upgrades viable.",
+      "Midori": "Agrees that station upgrades address the movement issues.",
+      "Shizue": "Confirms that station upgrades are the safest bet for delivery.",
+      "Jonathan": "Acknowledges the logic but remains interested in the financial fix."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Accepts the consensus but maintains her preference.",
+      "Benjamin": "Ready to vote for the most feasible option.",
+      "Midori": "Ready to vote for the passenger-centric option.",
+      "Shizue": "Ready to vote for the most deliverable option.",
+      "Jonathan": "Ready to vote for the most fiscally sound option."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "Cares about long-term financial commitments and contractor costs. He argues from a fiscal perspective and remains cautious about future liabilities.",
+  "Shizue": "Cares about delivery risks and bureaucratic hurdles. She argues for the path of least resistance regarding approvals and physical surprises.",
+  "May": "Cares about institutional memory and past failures/successes. She argues based on historical evidence and closure reports.",
+  "Midori": "Cares about actual passenger time-loss versus perceived crowding. She argues for data-driven improvements to the passenger journey.",
+  "Benjamin": "Cares about staffing levels and the burden on crews. He argues based on the practical availability of personnel to execute the plan."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0007",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:34:49+00:00",
+  "attempts": 1,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194489,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a56da842ca757a1c",
+      "object": "model_permission",
+      "created": 1793194489,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

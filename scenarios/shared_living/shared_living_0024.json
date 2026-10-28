@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses what information is most critical for a smooth trip. They focus on costs, travel efficiency, and the balance between group time and privacy.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Suggests looking at total costs.",
+      "Shunichi": "Mentions the need to check travel times.",
+      "Asuka": "Asks about how payments are handled.",
+      "Takumi": "Brings up the importance of bathroom and meal schedules.",
+      "Toshio": "Questions how the group dynamic was affected by previous arrangements."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Wants to know about all-in rates.",
+      "Shunichi": "Suggests checking ferry and train schedules.",
+      "Asuka": "Suggests comparing separate room costs.",
+      "Takumi": "Wants to know about bathing hours.",
+      "Toshio": "Suggests looking at the shared-house year's alone time."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Asks @Shunichi if he can check the house pricing.",
+      "Shunichi": "Agrees and suggests checking local transport too.",
+      "Asuka": "Suggests checking the all-in rates against separate meals.",
+      "Takumi": "Asks about room arrangements and mealtimes.",
+      "Toshio": "Suggests reviewing how last year's days ran."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Confirms her choices for pricing and all-in rates.",
+      "Shunichi": "Confirms his choices for ferry/train and local transport.",
+      "Asuka": "Confirms her choices for separate room costs and all-in rates.",
+      "Takumi": "Confirms his choices for bathing hours and room arrangements.",
+      "Toshio": "Confirms his choices for alone time and last year's days."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings they received. They debate the trade-offs between convenience, cost predictability, and personal space.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Shares the house pricing and all-in rate info.",
+      "Shunichi": "Shares the travel time and local transport info.",
+      "Asuka": "Shares the separate room cost and all-in rate info.",
+      "Takumi": "Shares the bathing and room arrangement info.",
+      "Toshio": "Shares the alone time and last year's schedule info."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Expresses concern over unpredictable costs.",
+      "Shunichi": "Complains about the travel time for certain options.",
+      "Asuka": "Points out the unfairness of separate booking costs.",
+      "Takumi": "Objects to shared rooms and strict mealtimes.",
+      "Toshio": "Discusses the need for a balance of togetherness and solitude."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Asks @Asuka which payment method is fairest.",
+      "Shunichi": "Argues for the fastest transit option.",
+      "Asuka": "Explains why a single bill is better.",
+      "Takumi": "Questions the bathroom situation in the house option.",
+      "Toshio": "Notes that moving as a group prevents isolation."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Considers the all-in rate's simplicity.",
+      "Shunichi": "Dismisses the option with the longest travel time.",
+      "Asuka": "Agrees that a single bill is most logical.",
+      "Takumi": "Rejects the idea of sharing one bathroom for five people.",
+      "Toshio": "Suggests an option that allows for both group and solo time."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group makes a final comparison of the three options based on the gathered data. They weigh the importance of budget, time, and comfort before voting.",
+   "votes": {
+    "Rin": "A",
+    "Shunichi": "B",
+    "Asuka": "A",
+    "Takumi": "C",
+    "Toshio": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Argues for the option with the most predictable total cost.",
+      "Shunichi": "Argues for the option with the shortest travel time.",
+      "Asuka": "Supports the option with the most equitable billing.",
+      "Takumi": "Argues for the option with the most privacy and flexibility.",
+      "Toshio": "Supports the option that ensures the group stays together."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Asks @Takumi if he can tolerate the house.",
+      "Shunichi": "Questions if the city option is too fragmented.",
+      "Asuka": "Points out the cost difference in the city option.",
+      "Takumi": "Insists that a private room is essential for sleep.",
+      "Toshio": "Argues that the house option provides the best group bond."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Decides the single bill is the priority.",
+      "Shunichi": "Decides the travel time is the priority.",
+      "Asuka": "Decides the fair distribution of cost is the priority.",
+      "Takumi": "Decides personal space is the priority.",
+      "Toshio": "Decides the group experience is the priority."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Casts her vote.",
+      "Shunichi": "Casts his vote.",
+      "Asuka": "Casts her vote.",
+      "Takumi": "Casts his vote.",
+      "Toshio": "Casts his vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "Wants a clear total cost upfront. She looks for options where the bill is simple and predictable.",
+  "Shunichi": "Wants to minimize time spent on logistics and transit. He evaluates options based on travel efficiency.",
+  "Takumi": "Wants personal space and flexible schedules to ensure good sleep. He avoids options with shared rooms or strict times.",
+  "Asuka": "Wants a system where costs are divided equally and automatically. She looks for arrangements that prevent individual financial loss.",
+  "Toshio": "Wants a balance between group cohesion and personal breathing room. He analyzes how the setting affects social dynamics."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0024",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:28:19+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197699,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-bb5937357685479c",
+      "object": "model_permission",
+      "created": 1793197699,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

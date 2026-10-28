@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses what information is needed to make a fair and comfortable choice. They focus on costs, travel logistics, and the balance between group time and privacy.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "Suggests looking into how costs are split.",
+      "Victoria": "Agrees and suggests looking at total pricing.",
+      "Midori": "Suggests looking at how the group interacted in previous years.",
+      "Toshio": "Suggests checking travel times and transport.",
+      "Daisuke": "Suggests checking bathroom and meal arrangements."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "Asks if anyone wants to check the house pricing.",
+      "Victoria": "Confirms she will check all-in rates.",
+      "Midori": "Offers to check the shared-house time alone.",
+      "Toshio": "Offers to check ferry and train times.",
+      "Daisuke": "Offers to check bathing hours."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "Decides to check separately booked room costs.",
+      "Victoria": "Decides to check offshore house pricing.",
+      "Midori": "Decides to check last year's daily flow.",
+      "Toshio": "Decides to check train and bus access.",
+      "Daisuke": "Decides to check inn mealtimes."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "Over",
+      "Victoria": "Over",
+      "Midori": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They compare the financial implications, the time spent traveling, and the physical constraints of the accommodations.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "Shares that separate bookings caused price gaps last time.",
+      "Victoria": "Shares the cost of offshore houses and all-in rates.",
+      "Midori": "Shares that last year's separate days led to isolation.",
+      "Toshio": "Shares the long travel time for ferries versus trains.",
+      "Daisuke": "Shares the strict mealtimes and shared room layouts of inns."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "Questions the fairness of all-in rates for light eaters.",
+      "Victoria": "Points out the benefit of a single bill for the whole group.",
+      "Midori": "Mentions the lack of privacy in shared houses.",
+      "Toshio": "Highlights the efficiency of train travel over ferries.",
+      "Daisuke": "Expresses concern about shared bathrooms and cold water."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "Asks about the cost of city beds.",
+      "Victoria": "Notes that city beds are expensive and meals are extra.",
+      "Midori": "Discusses the need for a balance of togetherness and space.",
+      "Toshio": "Mentions the convenience of city transport.",
+      "Daisuke": "Asks about the flexibility of city room doors."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "Over",
+      "Victoria": "Over",
+      "Midori": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group weighs the trade-offs between cost certainty, travel time, and personal comfort. They evaluate which option best addresses the collective needs before voting.",
+   "votes": {
+    "Sakura": "A",
+    "Victoria": "A",
+    "Midori": "C",
+    "Toshio": "C",
+    "Daisuke": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "Argues for the simplicity of a single house bill.",
+      "Victoria": "Agrees that a fixed total cost is most rational.",
+      "Midori": "Argues for a place that ensures the group stays together.",
+      "Toshio": "Argues for the shortest travel time to avoid exhaustion.",
+      "Daisuke": "Argues for the reliability of professional inn facilities."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "Asks if the others mind the ferry travel.",
+      "Victoria": "Questions if the inn's all-in rate is too high.",
+      "Midori": "Suggests that the inn provides a good middle ground for social time.",
+      "Toshio": "Points out that the train is significantly faster.",
+      "Daisuke": "Mentions that a city break might be too fragmented."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "Considers the cost difference again.",
+      "Victoria": "Evaluates the total budget for each option.",
+      "Midori": "Emphasizes the importance of shared meals.",
+      "Toshio": "Reiterates the need to minimize transit time.",
+      "Daisuke": "Expresses a need for a structured environment."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "Casts her vote.",
+      "Victoria": "Casts her vote.",
+      "Midori": "Casts her vote.",
+      "Toshio": "Casts his vote.",
+      "Daisuke": "Casts his vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Victoria": "Focuses on total cost predictability. She analyzes the financial data to avoid unexpected expenses.",
+  "Toshio": "Focuses on minimizing travel overhead. He evaluates the time spent in transit versus time at the destination.",
+  "Daisuke": "Focuses on the quality of the living environment. He examines the specifics of bathrooms and room layouts.",
+  "Sakura": "Focuses on the fairness of payment methods. She looks for arrangements where costs are divided equally.",
+  "Midori": "Focuses on the social dynamics of the group. She analyzes how the location affects their time together and alone."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0004",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:04:48+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793192688,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-87a27d376aa8034e",
+      "object": "model_permission",
+      "created": 1793192688,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

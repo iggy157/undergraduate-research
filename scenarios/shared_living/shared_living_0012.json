@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants discuss what information is necessary to make a fair decision. They focus on costs, labor, physical space, and the experiences of other neighborhoods.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Suggests looking into how other blocks handle their bins to keep peace.",
+      "Shizue": "Agrees and suggests checking the actual daily experience of different setups.",
+      "Asuka": "Points out the need for hard data on time and administrative requirements.",
+      "Rin": "Asks about the fairness of where the bins are placed.",
+      "Servas": "Advises looking into the financial history and current costs."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Wants to know about the station block's experience.",
+      "Shizue": "Wants to see how the next lane manages their mornings.",
+      "Asuka": "Requests the filing requirements and the time spent supervising.",
+      "Rin": "Requests the frontage measurements and the complaint log.",
+      "Servas": "Requests the block ledger and the ward subsidy details."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Suggests checking the station block's meeting minutes too.",
+      "Shizue": "Suggests visiting the station block's bin house.",
+      "Asuka": "Skip",
+      "Rin": "Skip",
+      "Servas": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Shizue": "Over",
+      "Asuka": "Over",
+      "Rin": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They weigh the trade-offs between financial costs, maintenance labor, and the physical impact on the neighborhood.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Shares that the station block had arguments over maintenance and repairs.",
+      "Shizue": "Mentions that supervised mornings take about fifty minutes per turn.",
+      "Asuka": "Explains the long filing process and the need for multiple signatures.",
+      "Rin": "Reveals that one house has filed most of the complaints.",
+      "Servas": "Discusses the high cost of shelters versus the small annual maintenance fee."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Asks if the complaints were about the smell or the placement.",
+      "Shizue": "Shares that the station block's bin house smells worse in summer.",
+      "Asuka": "Notes that the time commitment for supervision is relatively low per person.",
+      "Rin": "Points out that some frontages are too narrow for a bay.",
+      "Servas": "Questions if the subsidy makes a permanent structure affordable for all."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Worries that a complex system might cause more fighting.",
+      "Shizue": "Expresses concern about the smell and the visual impact.",
+      "Asuka": "Analyzes the administrative burden of changing sites frequently.",
+      "Rin": "Argues that the current situation is unfair to one neighbor.",
+      "Servas": "Reminds everyone to consider the different budgets of the households."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Shizue": "Over",
+      "Asuka": "Over",
+      "Rin": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed options based on the gathered evidence. They debate the balance between fairness, cost, and ease of maintenance before voting.",
+   "votes": {
+    "Kenji": "B",
+    "Shizue": "B",
+    "Asuka": "C",
+    "Rin": "B",
+    "Servas": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Questions if the first option is too expensive and causes conflict.",
+      "Shizue": "Expresses doubt about the second option's smell but likes the fairness.",
+      "Asuka": "Argues that the third option is the most efficient in terms of time.",
+      "Rin": "Argues that the second option is the only one that is truly equal.",
+      "Servas": "Notes that the first option's cost might be too high for some."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Agrees that sharing the burden is better for friendship.",
+      "Shizue": "Asks if the third option would lead to neighbors arguing over late bags.",
+      "Asuka": "Admits that the third option requires strict enforcement which is difficult.",
+      "Rin": "Points out that the second option solves the complaint issue.",
+      "Servas": "Suggests that a rotating system avoids a permanent financial burden."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Feels the second option is the most harmonious.",
+      "Shizue": "Agrees that fairness is more important than a perfect structure.",
+      "Asuka": "Considers the administrative cost of the second option but accepts the logic.",
+      "Rin": "Urges the group to choose the most equitable path.",
+      "Servas": "Encourages a decision that respects everyone's budget and space."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Ready to vote.",
+      "Shizue": "Ready to vote.",
+      "Asuka": "Ready to vote.",
+      "Rin": "Ready to vote.",
+      "Servas": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Servas": "Focuses on the financial impact on households with different budgets. He guides the group toward a solution that avoids high upfront costs.",
+  "Asuka": "Analyzes the time and administrative effort required. She evaluates the options based on logical efficiency and labor distribution.",
+  "Shizue": "Cares about the daily living experience and neighborhood harmony. She weighs the sensory impact of the bins against the need for peace.",
+  "Rin": "Focuses on the equitable distribution of the burden. She advocates for a system where no single household is unfairly disadvantaged.",
+  "Kenji": "Prioritizes the social relationships between neighbors. He looks for the arrangement least likely to cause interpersonal conflict."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0012",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:19:18+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197158,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b8c567bb7355dee7",
+      "object": "model_permission",
+      "created": 1793197158,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

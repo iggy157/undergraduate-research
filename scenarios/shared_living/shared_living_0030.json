@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a sustainable system. They identify the need to understand costs, time commitments, usage patterns, and quality standards.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Suggests looking into costs and receipts.",
+      "Ryuji": "Suggests looking into time and effort.",
+      "Benjamin": "Suggests looking into usage and presence.",
+      "May": "Suggests looking into quality and standards.",
+      "Midori": "Suggests looking into past conflicts and tenant history."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Confirms his choices for financial data.",
+      "Ryuji": "Confirms his choices for time data.",
+      "Benjamin": "Confirms his choices for usage data.",
+      "May": "Confirms her choices for cleanliness data.",
+      "Midori": "Confirms her choices for social harmony data."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Skip",
+      "Ryuji": "Skip",
+      "Benjamin": "Skip",
+      "May": "Skip",
+      "Midori": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Ryuji": "Over",
+      "Benjamin": "Over",
+      "May": "Over",
+      "Midori": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings. They discuss the discrepancy in cleaning standards, the actual time required, the uneven usage of the kitchen, and the financial inefficiency of current supplies.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Reports on the waste and cost of supplies.",
+      "Ryuji": "Reports on the actual minutes spent cleaning.",
+      "Benjamin": "Reports on the uneven usage of the kitchen.",
+      "May": "Reports on the rapid return of grime in the bathroom.",
+      "Midori": "Reports on the source of previous house arguments."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Questions how to handle the monthly billing.",
+      "Ryuji": "Expresses concern over the total hours involved.",
+      "Benjamin": "Points out that some people use the space more than others.",
+      "May": "Notes that 'done' means different things to different people.",
+      "Midori": "Warns that reminders often lead to friction."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Agrees that a clear financial split is necessary.",
+      "Ryuji": "Questions if outsourcing actually saves time.",
+      "Benjamin": "Suggests that usage should dictate the burden.",
+      "May": "Argues for a standardized level of clean.",
+      "Midori": "Emphasizes the need for a system that avoids nagging."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Ryuji": "Over",
+      "Benjamin": "Over",
+      "May": "Over",
+      "Midori": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed systems based on the gathered data. They weigh the trade-offs between cost, time, and interpersonal harmony before voting.",
+   "votes": {
+    "Toshio": "B",
+    "Ryuji": "B",
+    "Benjamin": "C",
+    "May": "B",
+    "Midori": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Analyzes the cost of the professional option.",
+      "Ryuji": "Compares the professional time cost to the manual labor.",
+      "Benjamin": "Argues for a system that rotates the burden.",
+      "May": "Discusses the consistency of a professional result.",
+      "Midori": "Considers the social risk of permanent roles."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Asks about the billing process for the professional option.",
+      "Ryuji": "Notes the convenience of a set schedule.",
+      "Benjamin": "Questions the fairness of a fixed rotation.",
+      "May": "Expresses a desire for a guaranteed standard.",
+      "Midori": "Suggests the professional option minimizes house conflict."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Concludes that a clear invoice is the best way to settle up.",
+      "Ryuji": "Decides that removing the labor is worth the cost.",
+      "Benjamin": "Maintains that a rotation is the most logical internal split.",
+      "May": "Agrees that professional cleaning solves the quality issue.",
+      "Midori": "Prioritizes the option that removes the need for reminders."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Casts vote.",
+      "Ryuji": "Casts vote.",
+      "Benjamin": "Casts vote.",
+      "May": "Casts vote.",
+      "Midori": "Casts vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Toshio": "Focuses on financial transparency and the elimination of out-of-pocket confusion. He evaluates options based on how they handle billing.",
+  "Ryuji": "Focuses on the actual time expenditure. He compares the hours of manual labor against the cost of outsourcing.",
+  "Benjamin": "Focuses on the correlation between space usage and work. He looks for a system that balances the burden logically.",
+  "May": "Focuses on the consistency and quality of the cleaning. She seeks a way to eliminate the unpredictability of the rooms' states.",
+  "Midori": "Focuses on the long-term emotional health of the household. She evaluates options based on their potential to cause or prevent arguments."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0030",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:38:00+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793198280,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-bda357905572e940",
+      "object": "model_permission",
+      "created": 1793198280,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

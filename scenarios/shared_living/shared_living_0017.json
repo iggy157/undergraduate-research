@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants discuss what information is necessary to make a fair decision. They focus on current usage patterns, financial implications, and historical precedents.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Suggests looking at morning traffic and rain exposure.",
+      "Ryuji": "Suggests checking the ledger and the station park.",
+      "George": "Suggests checking the minutes and the sticker register.",
+      "Shunichi": "Suggests checking the complaint log and the neighbor's account.",
+      "Mio": "Suggests checking the handover file and the supplier frame."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "Agrees with the need for data on physical space.",
+      "Ryuji": "Emphasizes the need for financial context.",
+      "George": "Notes the importance of historical fairness.",
+      "Shunichi": "Points out the risk of social friction.",
+      "Mio": "Mentions the burden of maintenance."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Over",
+      "Ryuji": "Over",
+      "George": "Over",
+      "Shunichi": "Over",
+      "Mio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding the physical state of the parking area, the administrative effort required for management, and the social consequences of different systems.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Reports on the morning congestion and rain issues.",
+      "Ryuji": "Reports on the building's lack of funds and external costs.",
+      "George": "Reports on the lack of review in the minutes and usage stats.",
+      "Shunichi": "Reports on the neighbor's social breakdown and complaint logs.",
+      "Mio": "Reports on the treasurer's workload and equipment difficulty."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "Questions how to stop the morning shoving matches.",
+      "Ryuji": "Asks if the building can afford new equipment.",
+      "George": "Notes that some people have held spots for years.",
+      "Shunichi": "Warns against systems that create arrears or resentment.",
+      "Mio": "Expresses concern over who will do the monthly paperwork."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Suggests a system that removes fixed ownership.",
+      "Ryuji": "Considers the trade-off between cost and fairness.",
+      "George": "Wonders if a random draw would be more equitable.",
+      "Shunichi": "Argues for a low-friction social solution.",
+      "Mio": "Questions the physical effort of new hardware."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Ryuji": "Over",
+      "George": "Over",
+      "Shunichi": "Over",
+      "Mio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed systems based on the gathered evidence, weighing financial gain against administrative burden and social harmony.",
+   "votes": {
+    "Asuka": "B",
+    "Ryuji": "A",
+    "George": "C",
+    "Shunichi": "C",
+    "Mio": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Argues for the efficiency of shared space.",
+      "Ryuji": "Argues for the financial benefit of a fee.",
+      "George": "Argues for the fairness of a periodic draw.",
+      "Shunichi": "Argues that a draw minimizes long-term resentment.",
+      "Mio": "Argues that a draw requires the least ongoing work."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "Points out the difficulty of the hardware in one option.",
+      "Ryuji": "Questions if the social cost of fees is too high.",
+      "George": "Agrees that a draw is a clean break from the past.",
+      "Shunichi": "Notes that fees might alienate neighbors.",
+      "Mio": "Agrees that a draw is the simplest to manage."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Accepts that a draw is a reasonable compromise.",
+      "Ryuji": "Concedes that social harmony is a priority.",
+      "George": "Supports the draw as the most traditional fair method.",
+      "Shunichi": "Confirms the draw avoids the neighbor's pitfalls.",
+      "Mio": "Confirms the draw avoids the treasurer's burden."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Ryuji": "Over",
+      "George": "Over",
+      "Shunichi": "Over",
+      "Mio": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Ryuji": "Cares about the financial reality of the building. He uses logic to assess costs but shifts his view when social risks are highlighted.",
+  "Mio": "Cares about the sustainability of the workload. She evaluates options based on the time and effort required for maintenance.",
+  "Asuka": "Cares about the physical chaos of the parking area. She seeks a logical way to end the morning congestion.",
+  "George": "Cares about the perception of fairness and historical bias. He looks for a method that treats all residents equally.",
+  "Shunichi": "Cares about maintaining positive social relations. He analyzes the potential for conflict and avoids systems that create tension."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0017",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:24:01+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197441,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-ac1a0f9711782865",
+      "object": "model_permission",
+      "created": 1793197441,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

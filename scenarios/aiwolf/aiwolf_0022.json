@@ -1,0 +1,188 @@
+{
+ "seats": {
+  "Midori": "She focuses on maintaining harmony and avoiding conflict. She tries to steer the conversation toward a gentle tone and follows the lead of others.",
+  "Jonathan": "He relies on private information to guide his logic. He speaks sparingly and tries to lead the group toward a specific conclusion without being overbearing.",
+  "Mizuki": "She uses logical deduction and observation of behavior. She questions inconsistencies and pushes for a decisive conclusion based on evidence.",
+  "Takumi": "He acts defensively and tries to shift attention. He uses a bold tone to mask his uncertainty and challenges those who question him.",
+  "Rin": "She shares her intuitive feelings and observations. She is curious and asks many questions to understand the group's thinking."
+ },
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss how to approach the game. They talk about the importance of trust and the strategy for the first few days.",
+   "divine": "Takumi",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "Let's keep a calm atmosphere.",
+      "Rin": "I'm so excited to play!",
+      "Mizuki": "We should focus on logic.",
+      "Midori": "I hope we can all get along.",
+      "Takumi": "Let's just get started."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Observation will be key.",
+      "Rin": "What should we look for?",
+      "Mizuki": "Contradictions in speech.",
+      "Midori": "That sounds a bit scary.",
+      "Takumi": "I'll be watching everyone."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Skip",
+      "Rin": "I wonder who is who!",
+      "Mizuki": "We will find out soon.",
+      "Midori": "Let's be kind to each other.",
+      "Takumi": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Rin": "Over",
+      "Mizuki": "Over",
+      "Midori": "Over",
+      "Takumi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available and looks for suspicious behavior. One person presents a finding, leading to a debate about the validity of that information.",
+   "votes": {
+    "Jonathan": "Takumi",
+    "Rin": "Takumi",
+    "Mizuki": "Takumi",
+    "Midori": "Jonathan",
+    "Takumi": "Jonathan"
+   },
+   "executed": "Takumi",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I have information that points to one person.",
+      "Rin": "Really? Who is it?",
+      "Mizuki": "Please share your reasoning.",
+      "Midori": "Is it really necessary to be so direct?",
+      "Takumi": "What are you talking about, Jonathan?"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "@Takumi, the evidence is clear.",
+      "Rin": "Wow, Takumi looks nervous!",
+      "Mizuki": "The logic seems sound.",
+      "Midori": "I'm not so sure we should rush.",
+      "Takumi": "You're just making things up!"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "I am certain of my source.",
+      "Rin": "I believe Jonathan.",
+      "Mizuki": "I agree with the evidence.",
+      "Midori": "Maybe Jonathan is the one lying.",
+      "Takumi": "Exactly! Jonathan is the problem!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Rin": "Over",
+      "Mizuki": "Over",
+      "Midori": "Over",
+      "Takumi": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0022",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:53:05+00:00",
+  "attempts": 5,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793195585,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-af4ca89ad9d4caf3",
+      "object": "model_permission",
+      "created": 1793195585,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

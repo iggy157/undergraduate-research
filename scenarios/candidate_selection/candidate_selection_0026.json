@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses the necessity of due diligence before selecting a program. They agree to investigate financial constraints, staffing levels, infrastructure capacity, and historical data.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "We should look at past results before deciding.",
+      "Toshio": "Logistics and capacity are my primary concerns.",
+      "Benjamin": "I want to see why previous collaborations failed.",
+      "Yumi": "We must consider the current staff burden.",
+      "Servas": "Let us ensure the long-term funding is sustainable."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "I will check readmission figures and visit completion.",
+      "Toshio": "I'll look at rooms, parking, and the booking system.",
+      "Benjamin": "I'll examine board minutes and data agreements.",
+      "Yumi": "I'll review nursing vacancies and the therapy/midwifery review.",
+      "Servas": "I will check the ledger and regional fund tariffs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Skip",
+      "Toshio": "Skip",
+      "Benjamin": "Skip",
+      "Yumi": "Skip",
+      "Servas": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Toshio": "Over",
+      "Benjamin": "Over",
+      "Yumi": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding budget cuts, staffing gaps, and infrastructure bottlenecks. They debate the risks of off-site work versus the lack of on-site space.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Past trials showed success but faced operational hurdles.",
+      "Toshio": "Our physical space and booking systems are at capacity.",
+      "Benjamin": "Inter-departmental and external agreements are prone to collapse.",
+      "Yumi": "Some staff are overwhelmed while others have capacity.",
+      "Servas": "The budget is tighter than expected and off-site work earns nothing."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "@Servas, does the lack of off-site funding make home visits impossible?",
+      "Toshio": "@Yumi, can the slack in one area offset the vacancies in another?",
+      "Benjamin": "@Asuka, did the trials fail because of the agreements I found?",
+      "Yumi": "It depends on which department is asked to lead.",
+      "Servas": "It makes the financial viability of off-site programs very precarious."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "We need a program that is both effective and sustainable.",
+      "Toshio": "It must not require more rooms or complex external data links.",
+      "Benjamin": "A single-department lead is safer than a joint venture.",
+      "Yumi": "We should utilize the areas where staffing is currently under-capacity.",
+      "Servas": "The choice must be fiscally responsible for the second year."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Toshio": "Over",
+      "Benjamin": "Over",
+      "Yumi": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The panel evaluates the four candidates against the discovered constraints. They weigh the benefits of patient outcomes against the realities of staffing, space, and funding.",
+   "votes": {
+    "Asuka": "A",
+    "Toshio": "B",
+    "Benjamin": "B",
+    "Yumi": "B",
+    "Servas": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "The home follow-up has proven clinical value.",
+      "Toshio": "The perinatal service fits our current space constraints.",
+      "Benjamin": "The perinatal option avoids the external agreement trap.",
+      "Yumi": "The midwifery staff have the capacity to handle it.",
+      "Servas": "On-site services are the only ones that generate revenue."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "But the home visits reduce readmissions significantly.",
+      "Toshio": "@Asuka, but we cannot afford the loss of tariff.",
+      "Benjamin": "And the data agreements for chronic care are a nightmare.",
+      "Yumi": "The rehab unit would just add to the parking chaos.",
+      "Servas": "The perinatal service is the most stable choice."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "I see the financial point, but the patient need is high.",
+      "Toshio": "Stability is the priority for the hospital's health.",
+      "Benjamin": "I agree with the logic of using existing slack.",
+      "Yumi": "It is the most supportive option for the staff.",
+      "Servas": "Let us move to the vote."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Toshio": "Over",
+      "Benjamin": "Over",
+      "Yumi": "Over",
+      "Servas": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Servas": "Focuses on long-term financial viability and revenue. He argues from a perspective of fiscal sustainability.",
+  "Benjamin": "Concerned with the structural failure of partnerships. He looks for options with minimal external dependencies.",
+  "Asuka": "Prioritizes evidence-based patient outcomes. She evaluates candidates based on historical efficacy data.",
+  "Toshio": "Focuses on the physical and systemic capacity of the hospital. He argues against any program that strains infrastructure.",
+  "Yumi": "Concerned with staff burnout and roster pressure. She seeks options that align with available human resources."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "candidate_selection_0026",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:10:39+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196639,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-af55642eaf695a09",
+      "object": "model_permission",
+      "created": 1793196639,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "seats": {
+  "Rin": "Focuses on energy and intuition, trying to steer the conversation toward others while appearing helpful.",
+  "Shion": "Uses logic and observation to analyze contradictions in speech patterns.",
+  "Sakura": "Maintains a cheerful and innocent demeanor to deflect suspicion and create confusion.",
+  "Midori": "Prioritizes harmony and carefully shares information to guide the group toward the truth.",
+  "Benjamin": "Employs rational deduction and polite skepticism to evaluate the validity of statements."
+ },
+ "periods": [
+  {
+   "period": 0,
+   "public": "The group introduces themselves and discusses general strategies for identifying the hidden enemy. They weigh the importance of early information versus cautious observation.",
+   "divine": "Sakura",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Midori": "Suggests everyone stay calm and honest.",
+      "Rin": "Expresses excitement for the game.",
+      "Sakura": "Wants to know how they should decide who to trust.",
+      "Shion": "Proposes observing behavior patterns.",
+      "Benjamin": "Agrees that logic should prevail over emotion."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Midori": "Asks if anyone has a specific strategy.",
+      "Rin": "Suggests looking for people who are too quiet.",
+      "Sakura": "Thinks it's more fun to guess based on vibes.",
+      "Shion": "Dismisses vibes in favor of evidence.",
+      "Benjamin": "Notes that silence can be a tactic."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Midori": "Encourages everyone to be open.",
+      "Rin": "Wonders if anyone is nervous.",
+      "Sakura": "Says she is just happy to be here.",
+      "Shion": "Observes that some are being overly friendly.",
+      "Benjamin": "Suggests waiting for more data."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Midori": "Over",
+      "Rin": "Over",
+      "Sakura": "Over",
+      "Shion": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available from the first night. They debate the reliability of certain statements and look for inconsistencies in behavior.",
+   "votes": {
+    "Midori": "Sakura",
+    "Rin": "Benjamin",
+    "Sakura": "Benjamin",
+    "Shion": "Sakura",
+    "Benjamin": "Sakura"
+   },
+   "executed": "Sakura",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Midori": "Shares a discovery about one person's nature.",
+      "Rin": "Tries to cast doubt on the information shared.",
+      "Sakura": "Acts surprised and denies any wrongdoing.",
+      "Shion": "Analyzes the reaction to the news.",
+      "Benjamin": "Questions the logic of the denial."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Midori": "Explains why the evidence is reliable.",
+      "Rin": "Suggests the information might be a trick.",
+      "Sakura": "Tries to make a joke to lighten the mood.",
+      "Shion": "Points out that the joke is a deflection.",
+      "Benjamin": "Agrees that the behavior is suspicious."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Midori": "Urges the group to trust the evidence.",
+      "Rin": "Tries to shift the focus to Benjamin.",
+      "Sakura": "Pleads for another chance.",
+      "Shion": "Decides the evidence is too strong to ignore.",
+      "Benjamin": "Concludes that the target is the most likely culprit."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Midori": "Over",
+      "Rin": "Over",
+      "Sakura": "Over",
+      "Shion": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0012",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:08:59+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793192939,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-86bfbf9126f43efa",
+      "object": "model_permission",
+      "created": 1793192939,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

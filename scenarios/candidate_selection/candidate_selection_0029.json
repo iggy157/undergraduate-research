@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses the need for a balanced approach to the next exhibition. They identify key areas of concern including budget, logistics, visitor engagement, facility limits, and staffing.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Suggests looking into staffing and volunteers.",
+      "Shion": "Emphasizes the need to check delivery and paperwork records.",
+      "May": "Proposes reviewing visitor numbers and comments.",
+      "Misaki": "Mentions the importance of structural and booking limits.",
+      "Sakura": "Wants to know where the money goes, specifically transport and mounts."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Agrees with the others and confirms her choices.",
+      "Shion": "Questions if others agree on the priority of logistics.",
+      "May": "Argues that visitor satisfaction is the primary metric.",
+      "Misaki": "Reminds the group about the physical constraints of the room.",
+      "Sakura": "Excitedly supports the idea of a comprehensive check."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Over",
+      "Shion": "Over",
+      "May": "Over",
+      "Misaki": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They discuss the high cost of loans, the risk of shipping delays, the desire for interactive elements, and the strain on the conservation lab.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Reports on the volunteer roster and lab backlog.",
+      "Shion": "Shares data on shipping cut-offs and transport costs.",
+      "May": "Discusses the trend in head counts and comment slips.",
+      "Misaki": "Explains the weight limits and evening hire issues.",
+      "Sakura": "Reveals the high cost of transport and mount-making."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Expresses concern over the lack of lab staff.",
+      "Shion": "Warns against exhibitions with complex international loans.",
+      "May": "Points out that visitors want to see people working.",
+      "Misaki": "Warns against heavy objects or permanent installations.",
+      "Sakura": "Suggests avoiding expensive bespoke mounts."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Asks how these findings will affect the selection.",
+      "Shion": "Suggests a logical elimination process based on risk.",
+      "May": "Encourages a choice that brings people back.",
+      "Misaki": "Stresses the need for a low-impact setup.",
+      "Sakura": "Wants a budget-friendly option."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Over",
+      "Shion": "Over",
+      "May": "Over",
+      "Misaki": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The candidates are revealed. The committee evaluates each option against the discovered constraints, weighing the benefits of local content and live demonstrations against the risks of technical failure and high costs.",
+   "votes": {
+    "Shizue": "A",
+    "Shion": "A",
+    "May": "A",
+    "Misaki": "A",
+    "Sakura": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Evaluates the candidates based on staffing needs.",
+      "Shion": "Analyzes the loan risks of the candidates.",
+      "May": "Compares the candidates' potential for visitor engagement.",
+      "Misaki": "Checks the candidates against the structural survey.",
+      "Sakura": "Looks at the potential costs of each candidate."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Notes that one option aligns well with the volunteer base.",
+      "Shion": "Agrees that local sourcing reduces shipping risks.",
+      "May": "Highlights the appeal of live demonstrations.",
+      "Misaki": "Confirms that a certain option is physically safe for the bay.",
+      "Sakura": "Observes that local items reduce transport costs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Suggests a consensus on the most sustainable option.",
+      "Shion": "Concedes that the local option is the most logical.",
+      "May": "Agrees that the interactive local option is best.",
+      "Misaki": "Supports the option with the lowest structural impact.",
+      "Sakura": "Cheerfully agrees with the group's direction."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Calls for the final vote.",
+      "Shion": "Ready to vote.",
+      "May": "Ready to vote.",
+      "Misaki": "Ready to vote.",
+      "Sakura": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Sakura": "Cares about hidden costs and budget leaks. She argues for financial transparency and shifts toward options with low overhead.",
+  "Shion": "Cares about logistical failures and delivery delays. He uses a logical approach to eliminate high-risk shipping options.",
+  "May": "Cares about actual visitor appeal over theoretical success. She advocates for interactive and human-centric displays.",
+  "Misaki": "Cares about the physical integrity and operational capacity of the gallery. She focuses on weight limits and space usage.",
+  "Shizue": "Cares about the workload and availability of staff. She seeks an option that matches the current human resources."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0029",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Shizue's line after Over",
+  "period 1 turn 4: dropped Shion's line after Over",
+  "period 1 turn 4: dropped May's line after Over",
+  "period 1 turn 4: dropped Misaki's line after Over",
+  "period 1 turn 4: dropped Sakura's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:08:44+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196524,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-84748475f06df335",
+      "object": "model_permission",
+      "created": 1793196524,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

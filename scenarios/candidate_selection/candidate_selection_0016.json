@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses the necessary prerequisites for a sustainable program. They focus on financial viability, staffing capacity, and physical infrastructure.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "Suggests checking the budget and revenue potential.",
+      "Shion": "Proposes looking at the effectiveness of past trials.",
+      "Midori": "Mentions the need to check current staffing levels.",
+      "Kenji": "Raises concerns about physical space and booking.",
+      "Shizue": "Suggests investigating why previous joint efforts failed."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Agrees with the need for operational data.",
+      "Shion": "Questions the reliability of current reporting.",
+      "Midori": "Asks about the impact on specific clinical groups.",
+      "Kenji": "Points out the importance of patient access.",
+      "Shizue": "Emphasizes the importance of formal agreements."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Finalizes his choice of financial documents.",
+      "Shion": "Selects data on past trials and booking records.",
+      "Midori": "Chooses staffing reviews and vacancy data.",
+      "Kenji": "Selects room coverage and booking system records.",
+      "Shizue": "Chooses board minutes and regional tariffs."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Shion": "Over",
+      "Midori": "Over",
+      "Kenji": "Over",
+      "Shizue": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They debate the risks of off-site work, the reality of staffing shortages, and the constraints of the current budget.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "Warns that the budget is smaller than expected.",
+      "Shion": "Notes that some past trials showed real patient benefit.",
+      "Midori": "Reports a critical shortage of ward nurses.",
+      "Kenji": "Highlights that the car park and rooms are full.",
+      "Shizue": "Mentions that off-site contacts don't generate revenue."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Asks if any program can be run without new space.",
+      "Shion": "Points out that unbooked work disappears from reports.",
+      "Midori": "Notes that some specific rotas have unexpected slack.",
+      "Kenji": "Questions how to handle transport for patients.",
+      "Shizue": "Warns about the failure of joint-departmental rotas."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Expresses concern over long-term funding for staff.",
+      "Shion": "Discusses the difficulty of tracking outcomes.",
+      "Midori": "Suggests utilizing the departments with slack capacity.",
+      "Kenji": "Argues against adding more on-site traffic.",
+      "Shizue": "Advises against programs requiring complex external agreements."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Shion": "Over",
+      "Midori": "Over",
+      "Kenji": "Over",
+      "Shizue": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The panel evaluates the candidates against the discovered constraints. They weigh the benefits of patient outcomes against the risks of staffing, space, and funding.",
+   "votes": {
+    "Jonathan": "C",
+    "Shion": "A",
+    "Midori": "C",
+    "Kenji": "C",
+    "Shizue": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "Analyzes which candidate fits the reduced budget.",
+      "Shion": "Argues for the one with proven readmission impact.",
+      "Midori": "Points to the candidate that uses the slack rota.",
+      "Kenji": "Evaluates which one avoids the crowded car park.",
+      "Shizue": "Checks which one avoids risky external dependencies."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Questions the revenue of off-site visits.",
+      "Shion": "Discusses the logistics of home visits.",
+      "Midori": "Suggests the perinatal option is most sustainable.",
+      "Kenji": "Agrees that the perinatal option fits the space.",
+      "Shizue": "Cautions about the joint-run nature of the perinatal option."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Considers the balance of cost and capacity.",
+      "Shion": "Compares the home-visit model with the clinic model.",
+      "Midori": "Emphasizes the staffing availability for the perinatal service.",
+      "Kenji": "Notes the low impact on the booking system for some options.",
+      "Shizue": "Accepts the perinatal option if the rota is clear."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Ready to vote.",
+      "Shion": "Ready to vote.",
+      "Midori": "Ready to vote.",
+      "Kenji": "Ready to vote.",
+      "Shizue": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "Cares about long-term financial sustainability. He argues based on the ledger and revenue, moving toward the most cost-effective option.",
+  "Shizue": "Cares about organizational stability and formal agreements. She warns against fragile partnerships and off-site financial losses.",
+  "Shion": "Cares about evidence of patient impact. He uses historical data to argue for programs with proven results.",
+  "Kenji": "Cares about physical and systemic capacity. He focuses on the booking system and facility congestion.",
+  "Midori": "Cares about staff wellbeing and roster balance. She advocates for programs that align with available human resources."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0016",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:52:24+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793195544,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9201768be2eba2ab",
+      "object": "model_permission",
+      "created": 1793195544,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "85f6932af8df3343c3492c23e89145d19478d79a",
+   "files": 96
+  }
+ }
+}

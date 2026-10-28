@@ -1,0 +1,192 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss how to identify the hidden enemy. They weigh the value of silence versus openness in the first round.",
+   "divine": "Takumi",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shunichi": "Let's start by seeing who is acting nervous.",
+      "George": "I believe we should be patient and observe.",
+      "Yumi": "I want everyone to be honest with each other!",
+      "Takumi": "I'm ready to find the bad guy right now.",
+      "Jonathan": "Quiet observation is often the best path."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shunichi": "Patience is fine, but we need a strategy.",
+      "George": "Agreed, but rushing leads to mistakes.",
+      "Yumi": "Maybe we can share our feelings about the group?",
+      "Takumi": "That's too slow. We need to act.",
+      "Jonathan": "Let us simply listen to one another for now."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shunichi": "Skip",
+      "George": "Skip",
+      "Yumi": "Skip",
+      "Takumi": "Skip",
+      "Jonathan": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shunichi": "Over",
+      "George": "Over",
+      "Yumi": "Over",
+      "Takumi": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "A participant shares specific information about another's identity. The group debates the validity of this information and looks for contradictions in behavior.",
+   "votes": {
+    "Shunichi": "Takumi",
+    "George": "Takumi",
+    "Yumi": "Takumi",
+    "Takumi": "Shunichi",
+    "Jonathan": "Shunichi"
+   },
+   "executed": "Takumi",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shunichi": "Does anyone have any news from last night?",
+      "George": "I am wondering if anyone knows anything for sure.",
+      "Yumi": "I know that Takumi is the enemy!",
+      "Takumi": "What? That's a lie! I'm a good person!",
+      "Jonathan": "That is a very bold statement to make."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shunichi": "Yumi seems very confident. Why is that?",
+      "George": "If she is telling the truth, we have our target.",
+      "Yumi": "I'm telling the truth because I have the power to know!",
+      "Takumi": "She's just trying to trick you all!",
+      "Jonathan": "It is difficult to tell who is lying here."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shunichi": "Takumi's reaction is a bit too aggressive.",
+      "George": "I tend to trust the specific information provided.",
+      "Yumi": "Please, believe me! We have to stop him!",
+      "Takumi": "You're all being fooled by her!",
+      "Jonathan": "I will cast my vote based on the most likely scenario."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shunichi": "I'm voting for the one Yumi pointed out.",
+      "George": "I agree with Shunichi.",
+      "Yumi": "I vote for Takumi!",
+      "Takumi": "I vote for Shunichi for believing her!",
+      "Jonathan": "I'll vote for Shunichi to be safe."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "George": "He values stability and relies on the information provided by others to make a decision.",
+  "Yumi": "She is proactive and uses her knowledge to lead the group toward the target.",
+  "Jonathan": "He remains mysterious and tries to deflect attention by staying neutral.",
+  "Takumi": "He is defensive and reacts emotionally when pressured by others.",
+  "Shunichi": "He uses logic and behavioral analysis to determine who is lying."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0028",
+ "granularity": "turn",
+ "repairs": [
+  "period 0: renumbered turns 0..3 to 1..4",
+  "period 1: renumbered turns 0..3 to 1..4",
+  "period 2: renumbered turns 0..3 to 1..4",
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:39:49+00:00",
+  "attempts": 3,
+  "max_attempts": 6,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793198389,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-932c8666f9ab96ea",
+      "object": "model_permission",
+      "created": 1793198389,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants discuss the need for data to avoid repeating past mistakes and to ensure accessibility. They prioritize understanding funding structures, historical attempts, and logistical barriers.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "Suggests looking at external dependencies and logistics.",
+      "Yumi": "Emphasizes the importance of reaching underserved areas.",
+      "George": "Focuses on the sustainability of the funding model.",
+      "May": "Argues for reviewing previous failed initiatives.",
+      "Daisuke": "Mentions the need to check staff capacity and skills."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "Asks about the reliability of current transport links.",
+      "Yumi": "Agrees and suggests checking outreach history.",
+      "George": "Questions the nature of the grants.",
+      "May": "Proposes looking at old program records.",
+      "Daisuke": "Suggests checking the volunteer register."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "Decides on road closures and delivery windows.",
+      "Yumi": "Decides on bus links and outreach attendance.",
+      "George": "Decides on grant terms and equipment lines.",
+      "May": "Decides on old programs and room bookings.",
+      "Daisuke": "Decides on volunteer register and tool certification."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Over",
+      "Yumi": "Over",
+      "George": "Over",
+      "May": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding budget gaps, transport failures, and the lack of qualified supervisors. They debate whether a service should be centralized or distributed based on the evidence.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "Reports on road closures and supplier delays.",
+      "Yumi": "Shares data on bus link losses and high outreach demand.",
+      "George": "Explains the gap between grant funding and operating budgets.",
+      "May": "Reveals that some old programs failed while others thrived.",
+      "Daisuke": "Points out the lack of certified staff for technical tools."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "Warns against services dependent on unstable roads.",
+      "Yumi": "Argues that the library must go to the people.",
+      "George": "Cautions against programs with high long-term costs.",
+      "May": "Suggests avoiding digitisation based on past failures.",
+      "Daisuke": "Expresses worry about staff being overwhelmed."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "Questions if a fixed schedule is realistic given the weather.",
+      "Yumi": "Counters that the need in outer wards is too high to ignore.",
+      "George": "Asks if the proposed services fit the endowment rules.",
+      "May": "Notes that community-led groups are more sustainable.",
+      "Daisuke": "Asks who will supervise the technical aspects."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Over",
+      "Yumi": "Over",
+      "George": "Over",
+      "May": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the candidates against the discovered constraints. They weigh the trade-off between high demand in remote areas and the risks of staffing and funding.",
+   "votes": {
+    "Ryuji": "A",
+    "Yumi": "D",
+    "George": "A",
+    "May": "A",
+    "Daisuke": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "Analyzes the candidates based on stability and risk.",
+      "Yumi": "Advocates for the option that solves the transport gap.",
+      "George": "Evaluates which option is most fiscally sustainable.",
+      "May": "Compares the options to the successful old programs.",
+      "Daisuke": "Checks which option requires the least specialized supervision."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "Questions the reliability of a vehicle-based service.",
+      "Yumi": "Argues that the high demand justifies the risk.",
+      "George": "Notes that facilitator-led groups fit the budget better.",
+      "May": "Points out that partner-run groups have a track record.",
+      "Daisuke": "Feels more comfortable with a facilitator-led model."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "Concedes that community-led circles are the safest bet.",
+      "Yumi": "Expresses hesitation but acknowledges the budget constraints.",
+      "George": "Agrees that the facilitator model is the most stable.",
+      "May": "Confirms the alignment with historical success.",
+      "Daisuke": "Agrees that this puts less pressure on internal staff."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Ready to vote.",
+      "Yumi": "Ready to vote.",
+      "George": "Ready to vote.",
+      "May": "Ready to vote.",
+      "Daisuke": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "George": "Concerned with long-term financial sustainability. He looks for options that avoid budget cliffs and aligns with endowment rules.",
+  "Ryuji": "Concerned with external dependencies. He evaluates options based on their vulnerability to weather and supplier reliability.",
+  "May": "Concerned with ignoring historical data. She advocates for models that have already proven successful within the system.",
+  "Yumi": "Concerned with geographic equity. She pushes for services that reach people who have lost transport links.",
+  "Daisuke": "Concerned with staff burnout and skill gaps. He looks for options that do not require unavailable certifications or overload the roster."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0015",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:49:56+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793195396,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-88a7940821c04dc6",
+      "object": "model_permission",
+      "created": 1793195396,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "85f6932af8df3343c3492c23e89145d19478d79a",
+   "files": 96
+  }
+ }
+}

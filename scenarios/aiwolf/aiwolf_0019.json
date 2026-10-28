@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss how to identify the hidden enemy. They debate the merits of different communication styles and how to handle contradictions.",
+   "divine": "Mio",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Let's start by establishing a logical way to analyze behavior.",
+      "Takumi": "I'll just say whatever I'm thinking!",
+      "Mio": "This is so exciting! Let's all get along while we figure this out.",
+      "Shion": "I'll be observing everyone's reactions closely.",
+      "Minako": "We should remain calm and focus on the facts."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "Does anyone have a specific strategy for the first day?",
+      "Takumi": "I think we should just trust our gut.",
+      "Mio": "Maybe we can play a game to see who's nervous?",
+      "Shion": "That seems inefficient. Logic is better.",
+      "Minako": "I agree with the need for a structured approach."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "I'll be looking for inconsistencies in speech patterns.",
+      "Takumi": "That sounds boring, but okay.",
+      "Mio": "I'm just going to be myself!",
+      "Shion": "That's exactly what someone hiding something would say.",
+      "Minako": "Let's not jump to conclusions so early."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Takumi": "Over",
+      "Mio": "Over",
+      "Shion": "Over",
+      "Minako": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available from the first night. They weigh the credibility of different assertions and look for contradictions in the participants' stories.",
+   "votes": {
+    "Asuka": "Mio",
+    "Takumi": "Mio",
+    "Mio": "Shion",
+    "Shion": "Mio",
+    "Minako": "Mio"
+   },
+   "executed": "Mio",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "We need to evaluate the information brought forward now.",
+      "Takumi": "Who's the bad guy? Tell us!",
+      "Mio": "Wait, why is everyone looking at me?",
+      "Shion": "I have information that points to a specific person.",
+      "Minako": "Let's hear the evidence before we decide."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "If the information is accurate, the choice is clear.",
+      "Takumi": "I trust the person who has the info!",
+      "Mio": "That's a lie! I'm just a normal person!",
+      "Shion": "Your reaction is far too emotional to be natural.",
+      "Minako": "It is possible, but we should be certain."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "The logic holds up. The evidence is compelling.",
+      "Takumi": "Yeah, it's definitely her!",
+      "Mio": "You're all mean! I'm innocent!",
+      "Shion": "The facts don't lie.",
+      "Minako": "I believe the evidence is sufficient for now."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "Takumi": "Over",
+      "Mio": "Over",
+      "Shion": "Over",
+      "Minako": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mio": "She tries to maintain a cheerful facade to deflect suspicion and uses emotional appeals.",
+  "Shion": "He relies on a cold, analytical approach to lead the group toward his target.",
+  "Takumi": "He is impulsive and tends to follow the strongest lead in the conversation.",
+  "Minako": "She acts as a stabilizing force, weighing evidence carefully before committing to a side.",
+  "Asuka": "She focuses on logical consistency and looks for holes in the arguments of others."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0019",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:15:02+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793193302,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9e67c0c956df3d49",
+      "object": "model_permission",
+      "created": 1793193302,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

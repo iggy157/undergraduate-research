@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss how to approach the game. They weigh the value of logic versus intuition and establish a general communication style.",
+   "divine": "Shion",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Excited to start and wants everyone to be honest.",
+      "Shion": "Suggests a logical approach to finding the hidden enemy.",
+      "Ryuji": "Advises caution and careful observation of speech patterns.",
+      "Servas": "Encourages a spirit of cooperation and patience.",
+      "Yumi": "Hopes everyone can get along despite the game."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Asks how others usually play this game.",
+      "Shion": "States that patterns in behavior are the most reliable clues.",
+      "Ryuji": "Agrees that consistency is key.",
+      "Servas": "Notes that emotions can often cloud judgment.",
+      "Yumi": "Wants to make sure no one feels left out."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Skip",
+      "Shion": "Skip",
+      "Ryuji": "Skip",
+      "Servas": "Skip",
+      "Yumi": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Shion": "Over",
+      "Ryuji": "Over",
+      "Servas": "Over",
+      "Yumi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available from the first night. They debate the validity of certain assertions and look for contradictions in the participants' stories.",
+   "votes": {
+    "Kenji": "Shion",
+    "Shion": "Kenji",
+    "Ryuji": "Shion",
+    "Servas": "Shion",
+    "Yumi": "Kenji"
+   },
+   "executed": "Shion",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Shares a discovery about one person's nature.",
+      "Shion": "Questions the validity of that information and counters it.",
+      "Ryuji": "Analyzes the conflict between the two speakers.",
+      "Servas": "Asks for clarification on the reasoning used.",
+      "Yumi": "Tries to keep the mood light while listening."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Explains why the discovery is reliable.",
+      "Shion": "Accuses the other of lying to mislead the group.",
+      "Ryuji": "Notes a slight hesitation in one person's response.",
+      "Servas": "Suggests looking at who benefits from the confusion.",
+      "Yumi": "Expresses doubt about the accusation."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Urges the group to trust the evidence.",
+      "Shion": "Attempts to shift the focus to another player.",
+      "Ryuji": "Decides that the evidence is more compelling than the counter-argument.",
+      "Servas": "Agrees that the logic points in one direction.",
+      "Yumi": "Questions if they are being too hasty."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Shion": "Over",
+      "Ryuji": "Over",
+      "Servas": "Over",
+      "Yumi": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shion": "Focuses on manipulating the flow of conversation and using cold logic to deflect suspicion.",
+  "Yumi": "Prioritizes maintaining harmony and subtly steering the group away from certain individuals.",
+  "Ryuji": "Relies on objective analysis and looks for logical inconsistencies in statements.",
+  "Servas": "Uses experience to guide the group and encourages a thoughtful deliberation process.",
+  "Kenji": "Acts on curiosity and shares information quickly to help the group."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0014",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:28:19+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793194099,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-94f9da06a89f6854",
+      "object": "model_permission",
+      "created": 1793194099,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "0684980d1963731e6d9d57ee1e07c37e6c4ff84a",
+   "files": 96
+  }
+ }
+}

@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The team discusses the need for a layout change and identifies key areas of uncertainty. They focus on costs, daily efficiency, physical comfort, and social dynamics.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Suggests looking into how seating affects communication.",
+      "Toshio": "Mentions the need to look at fairness in seat distribution.",
+      "Daisuke": "Expresses concern about the budget for the move.",
+      "Mio": "Wants to know how the change affects daily time.",
+      "Shunichi": "Focuses on the physical environment and noise."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Agrees with Mio and suggests checking the joiners' experience.",
+      "Toshio": "Suggests checking the staff survey for complaints.",
+      "Daisuke": "Agrees to check the billing basis.",
+      "Mio": "Suggests checking the pilot floor's routine.",
+      "Shunichi": "Suggests checking the physio's notes."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over",
+      "Mio": "Over",
+      "Shunichi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They weigh the trade-offs between flexibility, cost, physical health, and the benefits of spontaneous communication.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Shares that overhearing conversations helps new joiners learn.",
+      "Toshio": "Shares that daylight is a major complaint in the survey.",
+      "Daisuke": "Shares that empty desks still cost the department money.",
+      "Mio": "Shares that the pilot floor's setup takes significant time.",
+      "Shunichi": "Shares that workstation settings take days to perfect."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Argues that proximity drives efficiency and learning.",
+      "Toshio": "Points out that some people will always be stuck in the dark.",
+      "Daisuke": "Worries about the cost of frequent changes.",
+      "Mio": "Questions the viability of a daily setup routine.",
+      "Shunichi": "Argues against moving seats frequently due to ergonomics."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Asks if there is a way to balance social needs with stability.",
+      "Toshio": "Suggests a system that avoids permanent 'bad' seats.",
+      "Daisuke": "Agrees that stability might be cheaper.",
+      "Mio": "Agrees that stability saves time.",
+      "Shunichi": "Insists on a solution that respects physical settings."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over",
+      "Mio": "Over",
+      "Shunichi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The team evaluates the three proposed options against the gathered data. They debate the merits of total flexibility versus structured stability and fairness.",
+   "votes": {
+    "Shizue": "B",
+    "Toshio": "C",
+    "Daisuke": "B",
+    "Mio": "B",
+    "Shunichi": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Prefers a layout that keeps functional groups together.",
+      "Toshio": "Suggests a rotating system to ensure fairness in lighting.",
+      "Daisuke": "Favors a fixed system to avoid recurring costs.",
+      "Mio": "Rejects the free-for-all due to the time loss.",
+      "Shunichi": "Strongly supports fixed seats for ergonomic reasons."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Agrees that functional grouping helps communication.",
+      "Toshio": "Questions if fixed seats are too unfair regarding the window.",
+      "Daisuke": "Asks if rotating is too expensive for the budget.",
+      "Mio": "Agrees that fixed is the most time-efficient.",
+      "Shunichi": "Argues that rotating is too disruptive for the body."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Supports the fixed functional approach.",
+      "Toshio": "Accepts the majority view but remains skeptical of fairness.",
+      "Daisuke": "Feels more confident in the fixed option.",
+      "Mio": "Confirms her vote for the fixed option.",
+      "Shunichi": "Confirms his vote for the fixed option."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over",
+      "Mio": "Over",
+      "Shunichi": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Daisuke": "Cares about the budget and recurring costs. He is passive but moves toward the most stable and cost-effective option.",
+  "Mio": "Cares about time efficiency and daily routines. She argues against any system that adds friction to the start of the day.",
+  "Shunichi": "Cares about ergonomics and noise. He argues strongly for stability to maintain physical comfort.",
+  "Toshio": "Cares about fairness and the distribution of 'bad' seats. He pushes for a system where no one is permanently disadvantaged.",
+  "Shizue": "Cares about team cohesion and knowledge sharing. She advocates for a layout that encourages interaction."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0013",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Shizue's line after Over",
+  "period 1 turn 4: dropped Toshio's line after Over",
+  "period 1 turn 4: dropped Daisuke's line after Over",
+  "period 1 turn 4: dropped Mio's line after Over",
+  "period 1 turn 4: dropped Shunichi's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:15:12+00:00",
+  "attempts": 1,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196912,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b84f68bc62519e6b",
+      "object": "model_permission",
+      "created": 1793196912,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

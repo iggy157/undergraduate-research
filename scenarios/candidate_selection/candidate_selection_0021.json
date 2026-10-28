@@ -1,0 +1,229 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses the importance of operational viability and historical success. They agree to investigate infrastructure, staffing, and past performance to ensure the grant is realistic.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Suggests looking at the human element and technical staff.",
+      "Sakura": "Wants to know about the actual costs and subsidies.",
+      "Daisuke": "Mentions the need to check if previous projects actually finished.",
+      "Takumi": "Argues for checking where delays usually happen.",
+      "Minako": "Points out the reliance on shared facility capacity."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Agrees with Minako on the importance of facilities.",
+      "Sakura": "Asks if anyone knows about current repository speeds.",
+      "Daisuke": "Suggests reviewing schedule overruns.",
+      "Takumi": "Wants to see the incident logs for equipment.",
+      "Minako": "Suggests checking the national computing agreement."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Proposes looking at secondment records.",
+      "Sakura": "Suggests checking travel and bench-fee lines.",
+      "Daisuke": "Over",
+      "Takumi": "Over",
+      "Minako": "Over"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding facility bottlenecks, staffing shortages, and the reliability of different research methodologies. They debate the risks of biological versus computational dependencies.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Reports a shortage of phenotyping technicians but plenty of coders.",
+      "Sakura": "Notes that glasshouse subsidies are steady but shipping costs rose.",
+      "Daisuke": "Shares that catalogue projects have better long-term utility.",
+      "Takumi": "Mentions that field sites are prone to environmental disasters.",
+      "Minako": "Reports that the spectroscopy suite had significant downtime."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Asks @Minako about the current state of animal facilities.",
+      "Sakura": "Asks @Takumi if the indoor rooms are safer than field sites.",
+      "Daisuke": "Notes that breeding colonies often cause schedule overruns.",
+      "Takumi": "Confirms indoor holding rooms remained uninterrupted.",
+      "Minako": "Confirms animal facilities are accredited but glasshouses are full."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Observes that modelling analysts are currently seconded abroad.",
+      "Sakura": "Points out that the repository turnaround is now very fast.",
+      "Daisuke": "Questions the viability of mechanism-focused studies.",
+      "Takumi": "Warns against projects relying on the spectroscopy suite.",
+      "Minako": "Notes that computing hours are currently free."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Sakura": "Over",
+      "Daisuke": "Over",
+      "Takumi": "Over",
+      "Minako": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The panel evaluates the candidates against the discovered constraints. They weigh the benefits of data-driven projects against the risks of facility congestion and staffing gaps.",
+   "votes": {
+    "Servas": "A",
+    "Sakura": "A",
+    "Daisuke": "A",
+    "Takumi": "A",
+    "Minako": "B"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Evaluates the candidates based on available technical staff.",
+      "Sakura": "Considers the budget and facility availability for each.",
+      "Daisuke": "Compares the candidates to the success of past catalogue awards.",
+      "Takumi": "Analyzes the risk of interruptions for each project.",
+      "Minako": "Checks the candidates against the computing and animal facility data."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Questions if the modelling-heavy projects have enough staff.",
+      "Sakura": "Notes that some projects might be blocked by glasshouse bookings.",
+      "Daisuke": "Argues for the project with the most enduring utility.",
+      "Takumi": "Objects to projects relying on unstable field sites.",
+      "Minako": "Points out the advantage of the free computing agreement."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Suggests the project that aligns with current staffing rolls.",
+      "Sakura": "Agrees that avoiding the glasshouse is a priority.",
+      "Daisuke": "Reiterates the value of a standardized atlas.",
+      "Takumi": "Agrees that a data-centric approach is safer.",
+      "Minako": "Argues for the simulation-based project."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Finalizes his choice based on personnel.",
+      "Sakura": "Finalizes her choice based on costs.",
+      "Daisuke": "Finalizes his choice based on historical delivery.",
+      "Takumi": "Finalizes his choice based on risk avoidance.",
+      "Minako": "Finalizes her choice based on facility capacity."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Sakura": "Cares about hidden costs and subsidies. She uses budget data to filter out projects that would be too expensive or blocked by facility bookings.",
+  "Takumi": "Cares about operational interruptions. He argues against projects with high environmental or equipment-failure risks.",
+  "Daisuke": "Cares about long-term delivery and utility. He looks for project types that have historically provided lasting value over those that stall.",
+  "Minako": "Cares about shared facility capacity. She weighs the availability of computing and animal facilities against the needs of the candidates.",
+  "Servas": "Cares about the availability of skilled technical personnel. He evaluates candidates based on whether the necessary human expertise is currently present."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0021",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Daisuke's line after Over",
+  "period 1 turn 4: dropped Takumi's line after Over",
+  "period 1 turn 4: dropped Minako's line after Over"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:02:11+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196131,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a59ba495895edc7d",
+      "object": "model_permission",
+      "created": 1793196131,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss the general strategy for the first few days. They weigh the benefits of cautious observation versus early action.",
+   "divine": "Shion",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "Let's keep things calm and observe each other.",
+      "Shizue": "I agree, let's be kind to one another.",
+      "Asuka": "Logic should dictate our moves, not emotions.",
+      "Kenji": "I'm excited! Let's find the truth together!",
+      "Shion": "I'll be watching everyone's reactions closely."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Skip",
+      "Shizue": "Skip",
+      "Asuka": "Does anyone have a specific method for judging others?",
+      "Kenji": "Maybe we can look for people who are too quiet?",
+      "Shion": "Or people who are trying too hard to be helpful."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Over",
+      "Shizue": "Over",
+      "Asuka": "Over",
+      "Kenji": "Over",
+      "Shion": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available and looks for inconsistencies in behavior. They debate whether to trust a specific piece of information provided by a participant.",
+   "votes": {
+    "Jonathan": "Shion",
+    "Shizue": "Shion",
+    "Asuka": "Shion",
+    "Kenji": "Shion",
+    "Shion": "Jonathan"
+   },
+   "executed": "Shion",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I feel something is off about the atmosphere today.",
+      "Shizue": "Is everyone doing alright?",
+      "Asuka": "We need to identify the outlier among us.",
+      "Kenji": "I have information that points to someone!",
+      "Shion": "That sounds very convenient, Kenji."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Who are you pointing to, Kenji?",
+      "Shizue": "Please be careful with your words.",
+      "Asuka": "If the information is reliable, we should act.",
+      "Kenji": "It's Shion! I'm sure of it!",
+      "Shion": "You're just guessing to look important."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Shion's reaction is quite defensive.",
+      "Shizue": "I don't like conflict, but we must decide.",
+      "Asuka": "The evidence provided by Kenji is the only lead we have.",
+      "Kenji": "Trust me, everyone!",
+      "Shion": "You're all being fooled by a child."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "I'll go with the lead.",
+      "Shizue": "I suppose I must as well.",
+      "Asuka": "It is the most logical choice.",
+      "Kenji": "Let's vote!",
+      "Shion": "This is a mistake."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Asuka": "She focuses on logical consistency and evidence. She changes her view based on the strength of the arguments presented.",
+  "Shizue": "She prioritizes harmony and the well-being of the group. She follows the general direction of the conversation to avoid conflict.",
+  "Jonathan": "He remains detached and observes the social dynamics. He shifts his stance based on the perceived reliability of others.",
+  "Kenji": "He is proactive and eager to share his findings. He pushes the group toward a quick decision based on his knowledge.",
+  "Shion": "He uses a calculating approach to deflect attention. He attempts to undermine the credibility of those who challenge him."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0009",
+ "granularity": "turn",
+ "repairs": [
+  "period 0: dropped 1 empty turn(s)",
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T12:34:25+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793190865,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b9911ab5d8792649",
+      "object": "model_permission",
+      "created": 1793190865,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

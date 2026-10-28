@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce their general approach to the game. They discuss how to identify deception and the importance of observing behavioral changes.",
+   "divine": "May",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "I will focus on logical inconsistencies.",
+      "May": "I'll keep things lively and watch everyone.",
+      "Rin": "I want to find the bad guys quickly!",
+      "Minako": "I will prioritize factual evidence.",
+      "Shion": "I'll observe from the sidelines for now."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "Consistency in speech is key.",
+      "May": "Maybe we should be more intuitive.",
+      "Rin": "That sounds like a fun way to play!",
+      "Minako": "Intuition can be misleading without facts.",
+      "Shion": "I agree with the need for logic."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Skip",
+      "May": "Skip",
+      "Rin": "I'm excited for tomorrow!",
+      "Minako": "Let's see how the first night goes.",
+      "Shion": "Indeed."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "May": "Over",
+      "Rin": "Over",
+      "Minako": "Over",
+      "Shion": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the information available after the first night. They debate the validity of certain assertions and look for contradictions in the participants' stories.",
+   "votes": {
+    "Asuka": "May",
+    "May": "Asuka",
+    "Rin": "Asuka",
+    "Minako": "May",
+    "Shion": "May"
+   },
+   "executed": "May",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "I have information that points to a specific person.",
+      "May": "That sounds very suspicious and sudden.",
+      "Rin": "Who is it? Tell us!",
+      "Minako": "Please explain your reasoning clearly.",
+      "Shion": "I'm interested in the evidence."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "May is the one I identified as the enemy.",
+      "May": "I am innocent; Asuka is lying to frame me.",
+      "Rin": "Wait, maybe Asuka is the one lying?",
+      "Minako": "May's reaction seems a bit too defensive.",
+      "Shion": "The logic favors Asuka's assertion."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "My information is accurate.",
+      "May": "Don't believe her, she's trying to mislead you.",
+      "Rin": "I think I'll go with May's side.",
+      "Minako": "I trust the logical path more.",
+      "Shion": "I agree with Minako."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Over",
+      "May": "Over",
+      "Rin": "Over",
+      "Minako": "Over",
+      "Shion": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "She values excitement and tends to follow the most charismatic person. Her views shift based on the emotional tone of the conversation.",
+  "Shion": "He relies on cold logic and observation. He changes his mind only when presented with a more rational argument.",
+  "Minako": "She seeks stability and factual consistency. She weighs the reliability of the speakers before forming a conclusion.",
+  "May": "She uses charm and social manipulation to divert attention. She attempts to cast doubt on those who challenge her.",
+  "Asuka": "She focuses on deductive reasoning and verifying identities. She remains firm in her conclusions once the evidence is clear."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0007",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T12:09:38+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793189378,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9c9757f70323c0d9",
+      "object": "model_permission",
+      "created": 1793189378,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

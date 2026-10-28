@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses which data points are most relevant for evaluating facility plans. They weigh the importance of financial accuracy, scheduling reliability, user satisfaction, and staff workload.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Suggests looking at schedules and site diaries to understand delays.",
+      "Yumi": "Proposes checking booking data and timetable records for room usage.",
+      "George": "Recommends reviewing staffing posts and technician routines.",
+      "Mizuki": "Suggests post-occupancy reviews and survey findings in older blocks.",
+      "Benjamin": "Suggests tender records and renewal reserves for financial clarity."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Agrees with the need for usage data.",
+      "Yumi": "Agrees with the need for financial data.",
+      "George": "Skip",
+      "Mizuki": "Skip",
+      "Benjamin": "Skip"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Over",
+      "Yumi": "Over",
+      "George": "Over",
+      "Mizuki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They discuss the gap between budget and market costs, the impact of weather and hazardous materials on timelines, and the disparity between specialist and general space demand.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Mentions that outdoor work and old buildings cause significant delays.",
+      "Yumi": "Notes that general rooms are overbooked while specialist ones are empty.",
+      "George": "Points out that technicians are burdened by manual tasks.",
+      "Mizuki": "Shares that shared booking spaces are rated much higher by users.",
+      "Benjamin": "Highlights that mechanical costs are rising and reserves are missing."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Asks if any plan avoids outdoor exposure.",
+      "Yumi": "Asks if any plan addresses the general room shortage.",
+      "George": "Asks if any plan reduces manual technician labor.",
+      "Mizuki": "Asks if any plan provides broad access rather than niche use.",
+      "Benjamin": "Asks if any plan avoids expensive mechanical plant risks."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Skip",
+      "Yumi": "Skip",
+      "George": "Skip",
+      "Mizuki": "Skip",
+      "Benjamin": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Over",
+      "Yumi": "Over",
+      "George": "Over",
+      "Mizuki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The committee evaluates the candidates against the discovered constraints. They debate the trade-offs between user demand, maintenance burdens, and the risk of budget or schedule overruns.",
+   "votes": {
+    "Shizue": "C",
+    "Yumi": "C",
+    "George": "D",
+    "Mizuki": "C",
+    "Benjamin": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "Expresses concern about the outdoor nature of one option.",
+      "Yumi": "Advocates for the option that solves the general room shortage.",
+      "George": "Argues for the option that helps the technicians.",
+      "Mizuki": "Supports the option that maximizes user accessibility.",
+      "Benjamin": "Questions the cost risks of the mechanical upgrade."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "Considers the indoor conversion as a safer timeline bet.",
+      "Yumi": "Agrees that the conversion meets the highest demand.",
+      "George": "Acknowledges the high demand for general space.",
+      "Mizuki": "Points out the high post-occupancy potential of the conversion.",
+      "Benjamin": "Notes the conversion is less likely to have hidden mechanical costs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "Skip",
+      "Yumi": "Skip",
+      "George": "Skip",
+      "Mizuki": "Skip",
+      "Benjamin": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Over",
+      "Yumi": "Over",
+      "George": "Over",
+      "Mizuki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Benjamin": "Cares about financial transparency and market costs. He uses logic to evaluate the risk of budget overruns.",
+  "Shizue": "Cares about scheduling and unforeseen delays. She looks for options that minimize timeline risks.",
+  "Mizuki": "Cares about user satisfaction and the success of past projects. She advocates for high-utility, accessible spaces.",
+  "Yumi": "Cares about room utilization and timetable pressures. She focuses on the gap between supply and demand for space.",
+  "George": "Cares about the burden on maintenance staff. He seeks improvements that reduce manual labor for technicians."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0013",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:51:56+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793195516,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9b38bae90d36e355",
+      "object": "model_permission",
+      "created": 1793195516,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "85f6932af8df3343c3492c23e89145d19478d79a",
+   "files": 96
+  }
+ }
+}

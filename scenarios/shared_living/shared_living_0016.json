@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses what data is needed to set the fee. They focus on financial stability, administrative burden, and member attendance patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "Suggests looking at the treasurer's workload.",
+      "Ryuji": "Suggests checking the actual outgoings.",
+      "Minako": "Suggests looking at how newcomers join.",
+      "May": "Suggests checking recent turnout trends.",
+      "Shunichi": "Suggests checking the attendance records."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "Asks about the bank statements.",
+      "Ryuji": "Agrees and asks about the sign-in sheets.",
+      "Minako": "Suggests the minute books for historical context.",
+      "May": "Suggests the taster evening forms.",
+      "Shunichi": "Suggests the rota against attendance."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "Confirms his two choices.",
+      "Ryuji": "Confirms his two choices.",
+      "Minako": "Confirms her two choices.",
+      "May": "Confirms her two choices.",
+      "Shunichi": "Confirms his two choices."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "Over",
+      "Ryuji": "Over",
+      "Minako": "Over",
+      "May": "Over",
+      "Shunichi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings. They debate the trade-off between ease of administration and the psychological barrier to entry for members.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "Reports on the treasurer's high workload for session-by-session collection.",
+      "Ryuji": "Reports that most costs are fixed regardless of attendance.",
+      "Minako": "Reports that mid-year joiners struggle with complex calculations.",
+      "May": "Reports that door charges reduced weekday attendance.",
+      "Shunichi": "Reports a small group does most of the attending and work."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "Expresses concern for the next treasurer's time.",
+      "Ryuji": "Points out that fixed costs must be covered first.",
+      "Minako": "Notes that simplicity helps newcomers.",
+      "May": "Argues that high upfront costs deter people.",
+      "Shunichi": "Questions the fairness of equal pay for unequal use."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "Asks if there is a way to reduce the paperwork.",
+      "Ryuji": "Argues against guesswork in the budget.",
+      "Minako": "Warns against creating visible social hierarchies.",
+      "May": "Suggests making it easier to just show up.",
+      "Shunichi": "Suggests rewarding the most active members."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "Over",
+      "Ryuji": "Over",
+      "Minako": "Over",
+      "May": "Over",
+      "Shunichi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The committee evaluates the three proposed structures against the gathered evidence. They weigh administrative ease against member accessibility and fairness.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "Evaluates the options based on the treasurer's effort.",
+      "Ryuji": "Evaluates the options based on financial predictability.",
+      "Minako": "Evaluates the options based on inclusivity for newcomers.",
+      "May": "Evaluates the options based on the psychological barrier to attend.",
+      "Shunichi": "Evaluates the options based on the usage gap."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "Questions if a complex system is sustainable.",
+      "Ryuji": "Argues for a system that ensures fixed costs are met.",
+      "Minako": "Objects to systems that categorize members.",
+      "May": "Argues for lower initial commitment.",
+      "Shunichi": "Argues for a system that reflects actual usage."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "Leans toward the simplest administrative path.",
+      "Ryuji": "Leans toward the most stable financial path.",
+      "Minako": "Leans toward the most discreet path.",
+      "May": "Leans toward the most flexible path.",
+      "Shunichi": "Leans toward the most equitable path."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "Casts vote.",
+      "Ryuji": "Casts vote.",
+      "Minako": "Casts vote.",
+      "May": "Casts vote.",
+      "Shunichi": "Casts vote."
+     }
+    }
+   ],
+   "votes": {
+    "Minato": "A",
+    "Ryuji": "A",
+    "Minako": "A",
+    "May": "B",
+    "Shunichi": "B"
+   },
+   "adopted": "A"
+  }
+ ],
+ "seats": {
+  "Ryuji": "Wants financial certainty and a way to cover fixed costs without guessing. He prioritizes stability and reason over flexibility.",
+  "Minato": "Wants to minimize the administrative burden on the treasurer. He values peace and simplicity in the club's operations.",
+  "May": "Wants to remove barriers that make members hesitate to attend. She prioritizes the social atmosphere and ease of access.",
+  "Shunichi": "Wants to address the imbalance between heavy users and inactive members. He values rational fairness and transparency of effort.",
+  "Minako": "Wants to maintain a low-pressure environment for newcomers. She avoids structures that create visible distinctions between members."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0016",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:20:40+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197240,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-91ada8f0c802471d",
+      "object": "model_permission",
+      "created": 1793197240,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

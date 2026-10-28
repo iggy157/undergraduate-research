@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss how to approach the game. They talk about the importance of trust and the difficulty of identifying the hidden enemy.",
+   "divine": "Asuka",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "Let's all try our best and be honest!",
+      "Daisuke": "I'm not sure what to say...",
+      "Asuka": "We should focus on logical inconsistencies.",
+      "Shizue": "Let's be kind to one another during this.",
+      "Midori": "I agree, harmony is important."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "Does anyone have a strategy?",
+      "Daisuke": "Skip",
+      "Asuka": "Observation is the only way.",
+      "Shizue": "I will listen carefully to everyone.",
+      "Midori": "I'll try to help where I can."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "I'm a bit nervous but excited!",
+      "Daisuke": "Me too...",
+      "Asuka": "Nerves can lead to mistakes.",
+      "Shizue": "It's okay to be nervous, dear.",
+      "Midori": "We can get through this together."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "Over",
+      "Daisuke": "Over",
+      "Asuka": "Over",
+      "Shizue": "Over",
+      "Midori": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available from the first night. They weigh the reliability of different statements and look for contradictions in behavior.",
+   "votes": {
+    "Yumi": "Asuka",
+    "Daisuke": "Asuka",
+    "Asuka": "Yumi",
+    "Shizue": "Asuka",
+    "Midori": "Asuka"
+   },
+   "executed": "Asuka",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "I have information that someone is the enemy!",
+      "Daisuke": "Wait, really?",
+      "Asuka": "That is a bold statement to make so early.",
+      "Shizue": "Oh my, what did you find?",
+      "Midori": "Please tell us more."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "Asuka is the werewolf!",
+      "Daisuke": "Is that certain?",
+      "Asuka": "I am a villager; this is a lie to frame me.",
+      "Shizue": "It's hard to know who to believe.",
+      "Midori": "Asuka, why would they say that?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "I'm telling the truth, I saw it!",
+      "Daisuke": "I think I believe Yumi.",
+      "Asuka": "Logic dictates that the accuser could be the liar.",
+      "Shizue": "Yumi seems very sincere.",
+      "Midori": "I'm leaning toward Yumi's side."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "Over",
+      "Daisuke": "Over",
+      "Asuka": "Over",
+      "Shizue": "Over",
+      "Midori": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shizue": "She values peace and looks for sincerity in the voices of others. She follows the emotional cues of the group.",
+  "Midori": "She seeks balance and listens to all sides before deciding. She prioritizes the harmony of the group.",
+  "Yumi": "She is proactive in sharing her findings and tries to lead the group toward the truth with energy.",
+  "Daisuke": "He is hesitant and looks to others for guidance. He struggles with making his own decisions.",
+  "Asuka": "She relies on logic and attempts to deflect suspicion by questioning the validity of the evidence."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0005",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T11:59:35+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793188775,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-98a8bbfa7c58a31c",
+      "object": "model_permission",
+      "created": 1793188775,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "c295184c8fd2897b99badcbbe6dae52bafa1d23c",
+   "files": 96
+  }
+ }
+}

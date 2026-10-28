@@ -1,0 +1,218 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses the need for a data-driven approach to the new fee structure. They agree to divide the research to cover financial stability, administrative burden, and member attendance patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Suggests they look at the numbers first to avoid guessing.",
+      "Jonathan": "Agrees and suggests looking at attendance trends.",
+      "Takumi": "Wants to know who is actually doing the work.",
+      "Toshio": "Suggests checking the administrative load on the treasurer.",
+      "Kenji": "Wants to see why some people don't join."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Chooses Last year's ledger of outgoings and Bank statements on last year's renewals.",
+      "Jonathan": "Chooses Weekday turnout since the summer outings and Quieter members at the winter social.",
+      "Takumi": "Chooses Tally of the sign-in sheets and The rota against the attendance record.",
+      "Toshio": "Chooses Outgoing treasurer's logged hours and Sign-up records for mid-year joiners.",
+      "Kenji": "Chooses Taster evening forms from non-joiners and Minute books from the named-grade years."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Over",
+      "Jonathan": "Over",
+      "Takumi": "Over",
+      "Toshio": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings. They debate the tension between reducing the treasurer's workload, maintaining accessibility for newcomers, and addressing the unfairness of high-usage members paying the same as inactive ones.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Reveals that most costs are fixed and some members struggle with lump sums.",
+      "Jonathan": "Notes that charging per event discouraged weekday attendance.",
+      "Takumi": "Points out that a small group does all the attending and the work.",
+      "Toshio": "Highlights the massive time sink of chasing small payments.",
+      "Kenji": "Mentions that tiered systems caused friction and high entry costs deter newcomers."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Asks @Toshio if a simple system would save time.",
+      "Jonathan": "Warns @Takumi that punishing low attendance might alienate people.",
+      "Takumi": "Argues that the current system is unfair to the regulars.",
+      "Toshio": "Confirms that chasing individual fees is the biggest burden.",
+      "Kenji": "Expresses concern about making membership feel like a hierarchy."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Suggests they need a balance between simplicity and fairness.",
+      "Jonathan": "Questions if a flat fee is too high for some.",
+      "Takumi": "Asks if there is a way to reward the regulars.",
+      "Toshio": "Argues for the most administratively efficient method.",
+      "Kenji": "Wants to ensure the club remains welcoming to all."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "Jonathan": "Over",
+      "Takumi": "Over",
+      "Toshio": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The committee evaluates the three proposed options against the discovered data. They weigh the administrative ease of a single payment against the flexibility of per-event costs and the perceived fairness of tiers.",
+   "votes": {
+    "Mio": "A",
+    "Jonathan": "A",
+    "Takumi": "B",
+    "Toshio": "A",
+    "Kenji": "C"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Argues that a single fee covers fixed costs reliably.",
+      "Jonathan": "Supports a system that doesn't make people hesitate to attend.",
+      "Takumi": "Prefers a system that distinguishes levels of use.",
+      "Toshio": "Strongly advocates for the option with the least paperwork.",
+      "Kenji": "Suggests a low base fee to keep it open to newcomers."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Points out that tiered systems might be too complex to manage.",
+      "Jonathan": "Agrees with Mio, citing the risk of alienating quiet members.",
+      "Takumi": "Questions why the regulars should subsidize the inactive.",
+      "Toshio": "Reminds Takumi that managing tiers or events is a treasurer's nightmare.",
+      "Kenji": "Worries that a high flat fee will scare off taster-evening guests."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Suggests a flat fee is the safest bet for the budget.",
+      "Jonathan": "Agrees that simplicity fosters a better atmosphere.",
+      "Takumi": "Reluctantly admits that administrative collapse helps no one.",
+      "Toshio": "Urges a vote for the most efficient option.",
+      "Kenji": "Still hopes for a more flexible approach but sees the logic."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Calls for the final vote.",
+      "Jonathan": "Ready to vote.",
+      "Takumi": "Ready to vote.",
+      "Toshio": "Ready to vote.",
+      "Kenji": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mio": "Wants financial predictability and stability. She pushes for a system that ensures fixed costs are covered without guesswork.",
+  "Toshio": "Focused on minimizing the administrative burden. He argues against any system that requires constant chasing of small sums.",
+  "Jonathan": "Cares about the psychological barrier to attendance. He opposes any structure that makes members weigh the cost of coming out.",
+  "Takumi": "Concerned with fairness and the imbalance of contribution. He initially seeks a way to differentiate between heavy and light users.",
+  "Kenji": "Values inclusivity and low barriers to entry. He worries about social hierarchies and the deterrent effect of high upfront costs."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0026",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:29:43+00:00",
+  "attempts": 1,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197783,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a05f867a572e1a92",
+      "object": "model_permission",
+      "created": 1793197783,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

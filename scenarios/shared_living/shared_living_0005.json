@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a more sustainable system. They prioritize understanding historical costs, the effort required for administration, and the fairness of current usage.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Benjamin": "Suggests looking at usage patterns and costs.",
+      "Mio": "Wants to know about the workload of managing bills.",
+      "Jonathan": "Questions if current contributions are equitable.",
+      "Victoria": "Wants to see the actual yearly cost fluctuations.",
+      "Minato": "Wants to see how payment disputes have happened."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Benjamin": "Proposes checking room-specific energy needs.",
+      "Mio": "Suggests looking at how other houses handle it.",
+      "Jonathan": "Suggests checking the payment history.",
+      "Victoria": "Suggests looking at the cost of technical changes.",
+      "Minato": "Suggests checking the payment log."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Benjamin": "Agrees to look at plug-in monitors and sunlight.",
+      "Mio": "Decides on the other house's settle and the template.",
+      "Jonathan": "Chooses the payment log and the last twelve statements.",
+      "Victoria": "Chooses the electrician's quote and the last twelve statements.",
+      "Minato": "Chooses the payment log and the cooler notice."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Benjamin": "Over",
+      "Mio": "Over",
+      "Jonathan": "Over",
+      "Victoria": "Over",
+      "Minato": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings. They discuss the high variance in monthly costs, the disparity in room energy use, and the social friction caused by late payments and manual calculations.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Benjamin": "Reveals that some rooms use far more energy than others.",
+      "Mio": "Mentions that manual reconciliation is time-consuming.",
+      "Jonathan": "Notes that payments are often late and disputed.",
+      "Victoria": "Points out the massive difference between winter and summer bills.",
+      "Minato": "Shares that people avoid each other over bill reminders."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Benjamin": "Argues that room location affects heating needs.",
+      "Mio": "Expresses concern over the administrative burden.",
+      "Jonathan": "Questions if the current split is fair given the usage data.",
+      "Victoria": "Mentions the high cost of installing new equipment.",
+      "Minato": "Emphasizes the need to reduce interpersonal tension."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Benjamin": "Suggests a system that removes the fear of using heat.",
+      "Mio": "Asks if there is a way to simplify the monthly math.",
+      "Jonathan": "Wants a system that reflects actual individual usage.",
+      "Victoria": "Warns against high upfront costs.",
+      "Minato": "Wants a method that stops the blaming cycle."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Benjamin": "Over",
+      "Mio": "Over",
+      "Jonathan": "Over",
+      "Victoria": "Over",
+      "Minato": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed methods. They weigh the trade-offs between administrative ease, financial predictability, and individual fairness before voting.",
+   "votes": {
+    "Benjamin": "B",
+    "Mio": "B",
+    "Jonathan": "C",
+    "Victoria": "B",
+    "Minato": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Benjamin": "Argues for predictability to ensure comfort in winter.",
+      "Mio": "Prefers the option with the least monthly paperwork.",
+      "Jonathan": "Argues for the most precise division of costs.",
+      "Victoria": "Rejects the expensive installation option.",
+      "Minato": "Favors the option that minimizes monthly conflict."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Benjamin": "Questions if the most precise option is too complex.",
+      "Mio": "Agrees that simplicity is key for the house harmony.",
+      "Jonathan": "Counters that precision is the only way to be fair.",
+      "Victoria": "Notes that a predictable monthly cost helps budgeting.",
+      "Minato": "Agrees that avoiding monthly arguments is priority."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Benjamin": "Suggests the predictable option as a middle ground.",
+      "Mio": "Agrees with the predictable option.",
+      "Jonathan": "Remains skeptical but acknowledges the cost of installation.",
+      "Victoria": "Finds the predictable option acceptable.",
+      "Minato": "Agrees with the predictable option."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Benjamin": "Ready to vote.",
+      "Mio": "Ready to vote.",
+      "Jonathan": "Ready to vote.",
+      "Victoria": "Ready to vote.",
+      "Minato": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Victoria": "Cares about budget stability and avoiding high initial fees. She analyzes the financial data to ensure the choice is sustainable.",
+  "Mio": "Cares about the time spent on administration. She pushes for a solution that reduces the monthly workload.",
+  "Benjamin": "Cares about the psychological freedom to use utilities without guilt. He advocates for a system that ensures winter comfort.",
+  "Jonathan": "Cares about objective fairness and eliminating resentment. He seeks a way to tie payment directly to usage.",
+  "Minato": "Cares about the emotional atmosphere of the house. He looks for a way to stop money from causing social friction."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0005",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:12:17+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793193137,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a0dfee6b0a3ed58b",
+      "object": "model_permission",
+      "created": 1793193137,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

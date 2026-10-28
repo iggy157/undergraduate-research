@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a new system and what data is required to make a fair choice. They focus on cost, administrative effort, and historical usage patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Suggests they need a system that doesn't make people feel guilty for using heat.",
+      "Ryuji": "Argues for looking at the actual costs over a full year first.",
+      "Rin": "Wonders who will actually do the math every month.",
+      "Shunichi": "Points out that the current split is outdated since more people moved in.",
+      "Misaki": "Mentions that the way they handle payments has caused tension."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Asks if they can see how much each room actually uses.",
+      "Ryuji": "Suggests checking the cost of installing new equipment.",
+      "Rin": "Wants to know how other houses handle the paperwork.",
+      "Shunichi": "Suggests reviewing the payment history to see if it's unfair.",
+      "Misaki": "Agrees that looking at past payment logs is a good idea."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Skip",
+      "Ryuji": "Skip",
+      "Rin": "Skip",
+      "Shunichi": "Skip",
+      "Misaki": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "Ryuji": "Over",
+      "Rin": "Over",
+      "Shunichi": "Over",
+      "Misaki": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They debate the trade-off between precision in billing and the emotional or administrative cost of achieving that precision.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Shares that some rooms are naturally colder and usage varies wildly.",
+      "Ryuji": "Reveals the high cost of installation and the volatility of monthly bills.",
+      "Rin": "Reports that detailed tracking takes a lot of time and effort.",
+      "Shunichi": "Notes that some people are indeed paying more than others based on usage.",
+      "Misaki": "Points out that payment delays are linked to confusion over the amounts."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Expresses concern that strict tracking makes people afraid to use utilities.",
+      "Ryuji": "Questions if the upfront cost of meters is worth the monthly saving.",
+      "Rin": "Argues against any system that adds hours of work to someone's evening.",
+      "Shunichi": "Suggests that a simple split might be too unfair given the usage gaps.",
+      "Misaki": "Suggests they prioritize a method that reduces arguments."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Asks if there is a way to have stability without constant counting.",
+      "Ryuji": "Considers the impact of seasonal spikes on their budgets.",
+      "Rin": "Asks if a template could make the work faster.",
+      "Shunichi": "Questions if the residents are willing to pay for the hardware.",
+      "Misaki": "Wants to avoid any system that requires constant reminders."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "Ryuji": "Over",
+      "Rin": "Over",
+      "Shunichi": "Over",
+      "Misaki": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed options against their discovered constraints. They weigh the benefits of predictability, fairness, and simplicity before voting.",
+   "votes": {
+    "Mio": "A",
+    "Ryuji": "A",
+    "Rin": "C",
+    "Shunichi": "B",
+    "Misaki": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Argues for the option that removes the fear of using the heater.",
+      "Ryuji": "Evaluates the option that smooths out the seasonal costs.",
+      "Rin": "Prefers the simplest division to minimize administrative work.",
+      "Shunichi": "Argues for the most precise method to ensure absolute fairness.",
+      "Misaki": "Favors the option that reduces monthly friction and disputes."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Questions if the precise method would make her feel restricted.",
+      "Ryuji": "Points out the high installation cost of the precise method.",
+      "Rin": "Notes that the simple split is the easiest to manage.",
+      "Shunichi": "Counters that the simple split ignores the usage disparity.",
+      "Misaki": "Suggests that predictability is better for the house atmosphere."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Agrees that a predictable amount helps her relax.",
+      "Ryuji": "Notes that a seasonal average prevents budget shocks.",
+      "Rin": "Wonders if the year-end settlement for the average is too much work.",
+      "Shunichi": "Admits the installation cost is a significant barrier.",
+      "Misaki": "Argues that a fixed seasonal rate stops the monthly arguments."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Ready to vote.",
+      "Ryuji": "Ready to vote.",
+      "Rin": "Ready to vote.",
+      "Shunichi": "Ready to vote.",
+      "Misaki": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Ryuji": "Focuses on long-term financial predictability and avoiding high upfront costs. He analyzes the data to find a balance between stability and expense.",
+  "Rin": "Prioritizes the reduction of administrative labor. She evaluates options based on how much time they take to maintain.",
+  "Mio": "Cares about the psychological comfort of the living environment. She looks for a way to use utilities without anxiety.",
+  "Shunichi": "Seeks a rational and mathematically fair distribution. He examines whether usage disparities justify a more complex system.",
+  "Misaki": "Aims to eliminate interpersonal conflict and social tension. She weighs options based on their potential to reduce friction between housemates."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0025",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:34:14+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793198054,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-af935fc418efcf7c",
+      "object": "model_permission",
+      "created": 1793198054,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

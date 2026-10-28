@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses the necessary data to evaluate the plans. They focus on construction risks, long-term maintenance costs, historical quality of work, and current usage patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Suggests looking into construction firms and site hoarding.",
+      "Benjamin": "Suggests checking crossing counts and drainage data.",
+      "Minato": "Suggests looking at the groundskeeping roll and volunteers.",
+      "Minako": "Suggests reviewing earlier works and the eastern avenue planting.",
+      "Jonathan": "Suggests checking the upkeep ledger and habitat fund terms."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Agrees with the need for site data.",
+      "Benjamin": "Agrees with the focus on maintenance.",
+      "Minato": "Expresses curiosity about the staff.",
+      "Minako": "Emphasizes the importance of durability.",
+      "Jonathan": "Notes the importance of financial sustainability."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Skip",
+      "Benjamin": "Skip",
+      "Minato": "Skip",
+      "Minako": "Skip",
+      "Jonathan": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Benjamin": "Over",
+      "Minato": "Over",
+      "Minako": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They discuss the gap between planting costs and hard-surfacing, the risk of soil slippage, and the lack of available staff for specialized care.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Warns about clay subsoil and slippage risks for heavy work.",
+      "Benjamin": "Mentions that people prefer firm ground and drainage is failing.",
+      "Minato": "Notes the decline in staff and reliance on volunteers.",
+      "Minako": "Points out that previous planting failed due to poor aftercare.",
+      "Jonathan": "Highlights that planted areas are much more expensive to maintain."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Asks if the plans involve deep digging.",
+      "Benjamin": "Questions if the plans account for the heat and drainage issues.",
+      "Minato": "Asks if the plans require a lot of gardening.",
+      "Minako": "Questions the longevity of the proposed materials.",
+      "Jonathan": "Asks about the funding sources for the plans."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Notes that small-plant work is safer.",
+      "Benjamin": "Suggests that hard surfaces might be more practical.",
+      "Minato": "Mentions that sports volunteers are available.",
+      "Minako": "Notes that water basins have lasted longer than pavement.",
+      "Jonathan": "Mentions that the habitat fund only covers specific items."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Over",
+      "Benjamin": "Over",
+      "Minato": "Over",
+      "Minako": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The panel evaluates the four candidates against the gathered evidence. They weigh the funding restrictions, the maintenance budget, the soil risks, and the available manpower.",
+   "votes": {
+    "Kenji": "A",
+    "Benjamin": "B",
+    "Minato": "D",
+    "Minako": "A",
+    "Jonathan": "B"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Discusses the earth-moving risks associated with the options.",
+      "Benjamin": "Argues for the practicality of hard-surfaced areas.",
+      "Minato": "Points out the alignment with existing volunteer groups.",
+      "Minako": "Compares the durability of water-based works versus paving.",
+      "Jonathan": "Analyzes the long-term cost of greenery versus plazas."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Considers the funding available for water management.",
+      "Benjamin": "Questions the maintenance of complex water systems.",
+      "Minato": "Wonders about the staffing for sports facilities.",
+      "Minako": "Argues that nature-based solutions have shown better longevity here.",
+      "Jonathan": "Notes the financial burden of high-maintenance planting."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Suggests a balance between cost and risk.",
+      "Benjamin": "Argues that user behavior dictates the need for firm ground.",
+      "Minato": "Expresses a desire for a community-led space.",
+      "Minako": "Advocates for a plan that matches the site's natural strengths.",
+      "Jonathan": "Looks for the most fiscally sustainable option."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Casts vote.",
+      "Benjamin": "Casts vote.",
+      "Minato": "Casts vote.",
+      "Minako": "Casts vote.",
+      "Jonathan": "Casts vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "Concerned with long-term municipal costs. He uses financial data to evaluate the sustainability of the options.",
+  "Kenji": "Concerned with construction timelines and soil stability. He focuses on the feasibility of the physical works.",
+  "Minako": "Concerned with the actual lifespan of city projects. She uses historical performance to judge the proposed designs.",
+  "Benjamin": "Concerned with how the site is actually used and its environmental stressors. He prioritizes logic and user behavior.",
+  "Minato": "Concerned with the human resources available for upkeep. He looks for options that align with current staffing and volunteers."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0004",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T12:59:57+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793192397,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-ae6846a6d0978458",
+      "object": "model_permission",
+      "created": 1793192397,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

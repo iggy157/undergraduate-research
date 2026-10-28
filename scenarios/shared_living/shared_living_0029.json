@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a structured system to replace their current informal arrangement. They identify the need for financial clarity, scheduling efficiency, and maintenance standards.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "Suggests they start by identifying what data they need to make a fair decision.",
+      "Benjamin": "Agrees and suggests looking into external examples of shared ownership.",
+      "Asuka": "Emphasizes the need to look at the actual condition of the vehicle during handovers.",
+      "Shion": "Proposes looking at the financial records to stop the guesswork.",
+      "Daisuke": "Mentions the stress of coordinating schedules and suggests checking the diary."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "Wants to see the tax and insurance papers to understand the base costs.",
+      "Benjamin": "Suggests checking the interpersonal dynamics of other households.",
+      "Asuka": "Wants to know about the recurring weekly trips that often conflict.",
+      "Shion": "Wants to see the fuel receipts to see who is actually paying.",
+      "Daisuke": "Wants to see the hours of use recorded in the diary."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "Skip",
+      "Benjamin": "Skip",
+      "Asuka": "Skip",
+      "Shion": "Skip",
+      "Daisuke": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Over",
+      "Benjamin": "Over",
+      "Asuka": "Over",
+      "Shion": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They discuss the disparity in fuel contributions, the time cost of tracking, and the friction caused by auditing each other.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "Reveals the high annual fixed costs for tax and insurance.",
+      "Benjamin": "Shares that asking for favors is a common point of failure in other groups.",
+      "Asuka": "Points out that the car is often returned dirty or empty.",
+      "Shion": "Notes the significant imbalance in who has been paying for fuel.",
+      "Daisuke": "Observes that weekend usage far outweighs weekday usage."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "Questions how to split the fixed costs fairly given the usage gaps.",
+      "Benjamin": "Warns against systems that require constant checking of figures.",
+      "Asuka": "Argues that the current lack of accountability for the car's state is unacceptable.",
+      "Shion": "Suggests that the person driving the most should pay the most.",
+      "Daisuke": "Expresses concern over the time spent coordinating during peak weeks."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "Suggests they need a system that minimizes interpersonal conflict.",
+      "Benjamin": "Agrees that reducing the need for constant negotiation is key.",
+      "Asuka": "Insists that the system must guarantee the car's availability for essential trips.",
+      "Shion": "Argues for a logical link between usage and payment.",
+      "Daisuke": "Wonders if a simpler allocation would reduce the mental load."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Over",
+      "Benjamin": "Over",
+      "Asuka": "Over",
+      "Shion": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed options against their discovered pain points. They weigh the trade-off between precise payment and the emotional cost of administration.",
+   "votes": {
+    "Minako": "A",
+    "Benjamin": "A",
+    "Asuka": "B",
+    "Shion": "B",
+    "Daisuke": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "Analyzes how the options handle the fixed costs she discovered.",
+      "Benjamin": "Evaluates which option reduces the 'favor-asking' dynamic.",
+      "Asuka": "Considers which option best protects her midweek needs.",
+      "Shion": "Compares the precision of cost-splitting across the options.",
+      "Daisuke": "Looks for the option that requires the least amount of daily coordination."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "Argues for a system with predictable costs and clear boundaries.",
+      "Benjamin": "Warns that tracking every kilometer might lead to the friction they want to avoid.",
+      "Asuka": "Expresses a preference for a system that allows for flexible but recorded bookings.",
+      "Shion": "Argues that distance-based payment is the only fair way to handle fuel.",
+      "Daisuke": "Suggests that having set days would eliminate the need for constant chatting."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "Questions if the distance-based approach is too administratively heavy.",
+      "Benjamin": "Agrees that a fixed schedule might be the most harmonious path.",
+      "Asuka": "Counters that fixed days might be too rigid for her specific needs.",
+      "Shion": "Maintains that fairness in payment outweighs the convenience of a schedule.",
+      "Daisuke": "Admits he values peace of mind over perfect financial precision."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Calls for the final vote.",
+      "Benjamin": "Ready to vote.",
+      "Asuka": "Ready to vote.",
+      "Shion": "Ready to vote.",
+      "Daisuke": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shion": "Wants financial transparency and logical payment. He argues for precision and resists simplicity if it means unfair costs.",
+  "Daisuke": "Wants to reduce the mental effort of coordination. He moves toward the option that minimizes social friction and scheduling stress.",
+  "Asuka": "Wants reliability and cleanliness. She focuses on the practical experience of using the car and the security of her schedule.",
+  "Minako": "Wants a fair distribution of the total cost. She balances the need for equity with the need for a sustainable, low-conflict system.",
+  "Benjamin": "Wants to preserve group harmony. He argues against any system that introduces auditing or constant negotiation."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0029",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:41:48+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793198508,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-830281da3f6865f0",
+      "object": "model_permission",
+      "created": 1793198508,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

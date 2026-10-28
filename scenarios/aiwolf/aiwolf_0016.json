@@ -1,0 +1,190 @@
+{
+ "seats": {
+  "Mizuki": "Focuses on logical inconsistencies and steers the conversation. Maintains a composed demeanor while subtly influencing others.",
+  "Servas": "Provides a calming presence and encourages open dialogue. Uses experience to guide the group's thinking process.",
+  "Ryuji": "Analyzes information cautiously and relies on verified data. Remains detached and speaks only when certain.",
+  "Sakura": "Asks intuitive questions and brings energy to the talk. Reacts emotionally to the atmosphere of the group.",
+  "Midori": "Prioritizes harmony and listens to everyone's perspective. Seeks a balanced view before forming an opinion."
+ },
+ "periods": [
+  {
+   "period": 0,
+   "public": "The group introduces themselves and discusses general strategies for identifying deception. They establish how they will evaluate behavior and speech patterns.",
+   "divine": "Servas",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Suggests a peaceful start to the discussion.",
+      "Mizuki": "Proposes focusing on logical contradictions.",
+      "Sakura": "Expresses excitement and curiosity about the game.",
+      "Midori": "Hopes everyone can get along while playing.",
+      "Ryuji": "States he will observe everyone carefully."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Agrees with the need for logic.",
+      "Mizuki": "Asks others how they plan to spot lies.",
+      "Sakura": "Says she will trust her gut feeling.",
+      "Midori": "Suggests listening to the quietest members.",
+      "Ryuji": "Notes that intuition can be misleading."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Encourages a balance of intuition and reason.",
+      "Mizuki": "Points out that patterns are more reliable than feelings.",
+      "Sakura": "Asks if anyone has a specific strategy.",
+      "Midori": "Suggests staying patient.",
+      "Ryuji": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Mizuki": "Over",
+      "Sakura": "Over",
+      "Midori": "Over",
+      "Ryuji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group evaluates the information available after the first night. They debate the validity of certain assertions and look for contradictions in behavior.",
+   "votes": {
+    "Servas": "Mizuki",
+    "Mizuki": "Ryuji",
+    "Sakura": "Mizuki",
+    "Midori": "Mizuki",
+    "Ryuji": "Mizuki"
+   },
+   "executed": "Mizuki",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Asks if anyone has new information.",
+      "Mizuki": "Suggests that the most silent person might be hiding something.",
+      "Sakura": "Wonders why the atmosphere feels tense.",
+      "Midori": "Asks for a clear explanation of the current situation.",
+      "Ryuji": "Shares a specific finding about a player's identity."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Questions the validity of the shared finding.",
+      "Mizuki": "Tries to cast doubt on the source of the information.",
+      "Sakura": "Is surprised by the directness of the statement.",
+      "Midori": "Tries to understand the reasoning behind the finding.",
+      "Ryuji": "Explains the logic behind his conclusion."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Decides the information is credible.",
+      "Mizuki": "Attempts to deflect attention toward others.",
+      "Sakura": "Agrees that the evidence seems strong.",
+      "Midori": "Feels the logic is sound.",
+      "Ryuji": "Asks the group for their final thoughts."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Confirms his choice for the vote.",
+      "Mizuki": "Argues that the group is making a mistake.",
+      "Sakura": "Decides to follow the logic.",
+      "Midori": "Agrees to vote based on the evidence.",
+      "Ryuji": "Maintains his position."
+     }
+    }
+   ]
+  }
+ ],
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0016",
+ "granularity": "turn",
+ "repairs": [
+  "period 0: renumbered turns 0..3 to 1..4",
+  "period 1: renumbered turns 0..3 to 1..4",
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:24:57+00:00",
+  "attempts": 3,
+  "max_attempts": 6,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197497,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8022312c25709553",
+      "object": "model_permission",
+      "created": 1793197497,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

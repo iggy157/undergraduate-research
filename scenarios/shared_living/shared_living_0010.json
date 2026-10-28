@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for a sustainable system. They identify the need to understand time commitment, financial costs, and the fairness of current usage patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "We need a logical approach to this.",
+      "Mio": "I want to know if it's actually fair.",
+      "Victoria": "We should avoid future conflict.",
+      "Rin": "I want to know about the money!",
+      "Daisuke": "I just want it to be clean."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "I'll check the timing and the outside firm's terms.",
+      "Mio": "I'll look at the calendar and kitchen use.",
+      "Victoria": "I'll check the house chat and the previous tenants' note.",
+      "Rin": "I'm taking the spray receipts and the office rates.",
+      "Daisuke": "I'll look at the grout and what 'done' means."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "Over",
+      "Mio": "Over",
+      "Victoria": "Over",
+      "Rin": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings. They discuss the discrepancy in cleaning standards, the actual time required, the frequency of absences, and the financial implications of supplies and professional help.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "It takes over an hour total, and firms have windows.",
+      "Mio": "Some people are barely here, but others cook everything.",
+      "Victoria": "Past tenants fought over this, and we already have chat rows.",
+      "Rin": "We are wasting money on spray and the office is pricey.",
+      "Daisuke": "The bathroom gets dirty fast and we all clean differently."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "@Daisuke, so the effort isn't consistent?",
+      "Mio": "@Victoria, is that why the mood is tense?",
+      "Victoria": "Exactly, reminders cause the most friction.",
+      "Rin": "@Ryuji, would a professional be too expensive?",
+      "Daisuke": "I don't like the guessing game."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "It depends on if we value time over money.",
+      "Mio": "A strict schedule might be unfair to those away.",
+      "Victoria": "We need a way to stop the nagging.",
+      "Rin": "We need a clear monthly cost.",
+      "Daisuke": "I just want a standard of clean."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Over",
+      "Mio": "Over",
+      "Victoria": "Over",
+      "Rin": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed methods based on the gathered data. They weigh the trade-offs between cost, time, and interpersonal harmony before voting.",
+   "votes": {
+    "Ryuji": "C",
+    "Mio": "C",
+    "Victoria": "C",
+    "Rin": "C",
+    "Daisuke": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "The time cost is too high for us to manage.",
+      "Mio": "The usage is too uneven for a simple list.",
+      "Victoria": "Removing the chore removes the source of our fights.",
+      "Rin": "If we split the cost, it's fairer than random wallets.",
+      "Daisuke": "A professional would ensure it's actually clean."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "I agree with the professional route.",
+      "Mio": "I think that's the most equitable way.",
+      "Victoria": "It preserves our relationships.",
+      "Rin": "I'm in, as long as the billing is clear.",
+      "Daisuke": "I feel most comfortable with that."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "Let's vote.",
+      "Mio": "Ready.",
+      "Victoria": "Agreed.",
+      "Rin": "Let's do it!",
+      "Daisuke": "Okay."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Over",
+      "Mio": "Over",
+      "Victoria": "Over",
+      "Rin": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "Cares about financial transparency and reimbursement. She argues for a system with a predictable monthly cost.",
+  "Ryuji": "Cares about the actual time investment. He analyzes the hours spent and whether outsourcing is a logical trade-off.",
+  "Daisuke": "Cares about consistency and cleanliness standards. He seeks a solution that eliminates the unpredictability of the room states.",
+  "Mio": "Cares about the balance between usage and labor. She examines the fairness of the workload relative to presence in the house.",
+  "Victoria": "Cares about maintaining social harmony. She focuses on which method minimizes interpersonal conflict and nagging."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0010",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Ryuji's line after Over",
+  "period 1 turn 4: dropped Mio's line after Over",
+  "period 1 turn 4: dropped Victoria's line after Over",
+  "period 1 turn 4: dropped Rin's line after Over",
+  "period 1 turn 4: dropped Daisuke's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:19:36+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197176,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a36c7c014ff662b2",
+      "object": "model_permission",
+      "created": 1793197176,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

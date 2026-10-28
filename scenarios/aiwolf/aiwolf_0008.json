@@ -1,0 +1,189 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce themselves and discuss how to identify the hidden enemy. They weigh the value of different communication styles and establish a baseline for behavior.",
+   "divine": "Misaki",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "Excited to start the game!",
+      "Minako": "Let's stay calm and logical.",
+      "Victoria": "I will observe everyone carefully.",
+      "Takumi": "I'm ready to find the bad guy.",
+      "Misaki": "I'll just listen for now."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "Who do you think is acting weird?",
+      "Minako": "It is too early to tell.",
+      "Victoria": "Silence can be telling.",
+      "Takumi": "I don't like the silence.",
+      "Misaki": "We should just be patient."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "Maybe we should play a game!",
+      "Minako": "Focus on the task at hand.",
+      "Victoria": "I agree with the need for focus.",
+      "Takumi": "I'm watching everyone.",
+      "Misaki": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "Over",
+      "Minako": "Over",
+      "Victoria": "Over",
+      "Takumi": "Over",
+      "Misaki": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the information available after the first night. They debate the validity of certain assertions and look for contradictions in speech patterns.",
+   "votes": {
+    "Sakura": "Takumi",
+    "Minako": "Sakura",
+    "Victoria": "Sakura",
+    "Takumi": "Sakura",
+    "Misaki": "Sakura"
+   },
+   "executed": "Sakura",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "I have a secret to tell!",
+      "Minako": "I have information about someone.",
+      "Victoria": "Please share your findings.",
+      "Takumi": "Who is it?",
+      "Misaki": "Let's hear it."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "I'm just a helpful girl!",
+      "Minako": "Sakura is the enemy.",
+      "Victoria": "That is a bold statement.",
+      "Takumi": "Why her?",
+      "Misaki": "It seems plausible."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "That's not fair!",
+      "Minako": "The evidence is clear to me.",
+      "Victoria": "I trust the logic provided.",
+      "Takumi": "If you're sure, I'm in.",
+      "Misaki": "I agree with the majority."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "You're all meanies!",
+      "Minako": "Over",
+      "Victoria": "Over",
+      "Takumi": "Over",
+      "Misaki": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Sakura": "Tries to deflect attention using a playful persona and creates confusion.",
+  "Takumi": "Relies on instinct and follows the lead of those who seem most certain.",
+  "Victoria": "Uses a rational approach to analyze contradictions in others' stories.",
+  "Misaki": "Attempts to blend in and steer suspicion toward others while remaining inconspicuous.",
+  "Minako": "Uses gathered information to lead the group toward a specific target."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0008",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T12:21:54+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793190114,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b7bce43ebe56cf6f",
+      "object": "model_permission",
+      "created": 1793190114,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

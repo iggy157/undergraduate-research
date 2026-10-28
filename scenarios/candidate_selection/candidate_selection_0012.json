@@ -1,0 +1,215 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The partners discuss the need for due diligence on the final candidates. They select specific data points to investigate regarding financial stability, operational delays, customer retention, and human resources.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Suggests looking into audit and reporting processes.",
+      "Jonathan": "Proposes checking recruitment and adviser capacity.",
+      "Shizue": "Suggests reviewing retention and past exit profiles.",
+      "Misaki": "Proposes checking reserve accounts and credit terms.",
+      "Shion": "Suggests reviewing security timelines and delivery records."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Agrees with the spread of topics.",
+      "Jonathan": "Confirms his choices.",
+      "Shizue": "Confirms her choices.",
+      "Misaki": "Confirms her choices.",
+      "Shion": "Confirms his choices."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Over",
+      "Jonathan": "Over",
+      "Shizue": "Over",
+      "Misaki": "Over",
+      "Shion": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing the raw data. They debate the risks associated with hardware versus software and the impact of specific operational overheads.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Mentions that certain asset types complicate the audit process.",
+      "Jonathan": "Notes a discrepancy between available advisers and recruiter success rates.",
+      "Shizue": "Discusses the correlation between business models and customer loyalty.",
+      "Misaki": "Warns about the high cost of follow-on calls and credit limitations.",
+      "Shion": "Points out that specific sectors face significant deployment delays."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Asks @Jonathan if the recruitment issues affect all roles.",
+      "Jonathan": "Clarifies that field staff are harder to place than office staff.",
+      "Shizue": "Asks @Misaki about the nature of the credit line security.",
+      "Misaki": "Explains that subscription contracts are not viewed as security."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Observes that software might be easier to report but harder to secure.",
+      "Jonathan": "Agrees that the human element is a bottleneck.",
+      "Shizue": "Notes that some models show better resilience to price changes.",
+      "Misaki": "Expresses concern over the speed of capital depletion."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "Suggests weighing the audit burden against the reporting ease.",
+      "Jonathan": "Suggests avoiding roles that require seasonal crews.",
+      "Shizue": "Suggests looking for stability in customer bases.",
+      "Misaki": "Suggests prioritizing assets that can be borrowed against.",
+      "Shion": "Warns against sectors with long security review cycles."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The candidates are revealed. The partners apply their findings to the specific business models of the candidates to determine which one minimizes their respective concerns.",
+   "votes": {
+    "Mizuki": "B",
+    "Jonathan": "B",
+    "Shizue": "D",
+    "Misaki": "B",
+    "Shion": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Analyzes the reporting and audit impact of the four options.",
+      "Jonathan": "Evaluates the staffing needs of each candidate.",
+      "Shizue": "Compares the retention potential of the different models.",
+      "Misaki": "Considers the follow-on funding and credit viability of each.",
+      "Shion": "Assesses the potential for deployment delays for each."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Argues that a specific software tool simplifies the quarter-end.",
+      "Jonathan": "Agrees that a certain option avoids the recruiter bottleneck.",
+      "Shizue": "Points out the strength of the sensor-based model's retention.",
+      "Misaki": "Notes that a specific financial tool aligns with credit needs.",
+      "Shion": "Warns that medical or hardware options may face delays."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Asks @Shizue if the retention of the sensor model outweighs the audit cost.",
+      "Jonathan": "Notes that the financial tool requires the least human overhead.",
+      "Shizue": "Admits the audit cost is a significant drawback for hardware.",
+      "Misaki": "Suggests the financial tool is the safest for the fund's liquidity."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "Finalizes her preference based on reporting ease.",
+      "Jonathan": "Finalizes his preference based on staffing.",
+      "Shizue": "Decides based on customer loyalty metrics.",
+      "Misaki": "Finalizes her preference based on capital efficiency.",
+      "Shion": "Finalizes his preference based on deployment speed."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Misaki": "Concerned with capital depletion and credit availability. She argues for options that minimize follow-on risk and maximize borrowing potential.",
+  "Shion": "Concerned with deployment delays. He analyzes the candidates based on the likelihood of security reviews or supply chain obstacles.",
+  "Shizue": "Concerned with the reality of customer retention. She evaluates candidates by comparing their business models to historical retention data.",
+  "Mizuki": "Concerned with the burden of quarter-end reporting and audits. She weighs the ease of independent verification against audit fees.",
+  "Jonathan": "Concerned with the time spent on recruitment. He looks for candidates whose staffing needs align with the current recruiter capacity."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "candidate_selection_0012",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:48:02+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793195282,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-be6879c71f590705",
+      "object": "model_permission",
+      "created": 1793195282,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "85f6932af8df3343c3492c23e89145d19478d79a",
+   "files": 96
+  }
+ }
+}

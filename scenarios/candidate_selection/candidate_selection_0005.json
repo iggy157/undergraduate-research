@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "Participants discuss the need for data on accessibility, funding stability, and historical precedents. They divide the available research topics to cover logistical, financial, and personnel constraints.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "Suggests looking at how people reach the library.",
+      "Benjamin": "Suggests checking past attempts at similar services.",
+      "Shion": "Suggests checking staff skills and certifications.",
+      "Minako": "Suggests reviewing the funding structure.",
+      "Daisuke": "Agrees with Yumi regarding accessibility."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "Chooses bus links and winter road closures.",
+      "Benjamin": "Chooses two programmes begun six years ago and attendance sheets.",
+      "Shion": "Chooses volunteer register and neighbourhood associations.",
+      "Minako": "Chooses county grant terms and running and equipment lines.",
+      "Daisuke": "Chooses bus links and attendance sheets."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "Over",
+      "Benjamin": "Over",
+      "Shion": "Over",
+      "Minako": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding budget gaps, transport failures, and the lack of qualified supervisors. They debate whether to prioritize reach or sustainability.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "Reports on the loss of bus links and road closures.",
+      "Benjamin": "Reports on the failure of past digitisation and success of groups.",
+      "Shion": "Reports on the lack of certified supervisors for tools.",
+      "Minako": "Reports on the short-term nature of grants.",
+      "Daisuke": "Reports on high demand in outer wards."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "Expresses worry about external dependencies.",
+      "Benjamin": "Warns against repeating unindexed failures.",
+      "Shion": "Questions who will manage technical equipment.",
+      "Minako": "Points out the risk of funding cliffs.",
+      "Daisuke": "Highlights the isolation of certain residents."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "Asks if any option avoids road dependencies.",
+      "Benjamin": "Asks if any option has a proven long-term model.",
+      "Shion": "Asks if any option uses existing volunteers.",
+      "Minako": "Asks about the cost of vehicle maintenance.",
+      "Daisuke": "Asks if we can bring services to the people."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "Over",
+      "Benjamin": "Over",
+      "Shion": "Over",
+      "Minako": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the candidates against the discovered constraints. They weigh the trade-off between high demand in remote areas and the risks of vehicle costs and staffing.",
+   "votes": {
+    "Yumi": "D",
+    "Benjamin": "C",
+    "Shion": "C",
+    "Minako": "C",
+    "Daisuke": "D"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "Argues for the option that reaches the outer wards.",
+      "Benjamin": "Argues for the option that mirrors the successful six-year-old groups.",
+      "Shion": "Argues for the option that doesn't require certified tool supervisors.",
+      "Minako": "Argues for the option with the most stable funding path.",
+      "Daisuke": "Argues for the option that solves the transport gap."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "Questions the cost of the vehicle option.",
+      "Benjamin": "Questions the feasibility of the digital portal given past failures.",
+      "Shion": "Questions the safety of the workshop without a technician.",
+      "Minako": "Notes that the vehicle line already overran last year.",
+      "Daisuke": "Notes that the outer wards have the highest need."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "Considers the budget warning from Minako.",
+      "Benjamin": "Suggests the community-led model is the safest bet.",
+      "Shion": "Agrees that the community-led model avoids staffing gaps.",
+      "Minako": "Agrees that the community-led model is fiscally sustainable.",
+      "Daisuke": "Wonders if the community-led model can reach the outer wards."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "Decides based on the balance of reach and risk.",
+      "Benjamin": "Casts vote based on historical evidence.",
+      "Shion": "Casts vote based on personnel availability.",
+      "Minako": "Casts vote based on budget longevity.",
+      "Daisuke": "Casts vote based on geographic equity."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Minako": "Focuses on the long-term shape of funding. She uses financial data to steer the group away from high-maintenance options.",
+  "Yumi": "Focuses on external factors like transport. She seeks a solution that remains functional despite environmental changes.",
+  "Benjamin": "Focuses on historical records. He uses past failures and successes to evaluate the viability of the proposals.",
+  "Daisuke": "Focuses on geographic accessibility. He advocates for those who cannot physically reach the main branch.",
+  "Shion": "Focuses on the internal skill set of the staff. He evaluates options based on whether the necessary expertise exists on the roster."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0005",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Yumi's line after Over",
+  "period 1 turn 4: dropped Benjamin's line after Over",
+  "period 1 turn 4: dropped Shion's line after Over",
+  "period 1 turn 4: dropped Minako's line after Over",
+  "period 1 turn 4: dropped Daisuke's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:09:14+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793192954,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b177a0067b7586ca",
+      "object": "model_permission",
+      "created": 1793192954,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

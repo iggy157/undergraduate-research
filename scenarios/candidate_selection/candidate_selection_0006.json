@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses the necessity of verifying financial, operational, and staffing constraints. They agree to divide the available data sources to ensure a comprehensive overview of the hospital's current capacity.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Midori": "Suggests looking into why previous programs failed.",
+      "Jonathan": "Proposes checking the actual impact of past trials on patients.",
+      "Misaki": "Mentions the importance of current staffing levels.",
+      "Shion": "Questions the long-term financial viability of the budget.",
+      "Shizue": "Raises concerns about physical infrastructure and booking capacity."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Midori": "Agrees to check board minutes and nursing rounds.",
+      "Jonathan": "Decides to look at readmission figures and booking records.",
+      "Misaki": "Chooses ward vacancies and the therapy/midwifery review.",
+      "Shion": "Selects the ledger and regional fund tariffs.",
+      "Shizue": "Opts for rooms/parking and the booking system."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Midori": "Over",
+      "Jonathan": "Over",
+      "Misaki": "Over",
+      "Shion": "Over",
+      "Shizue": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding budget cuts, staffing gaps, and infrastructure bottlenecks. They debate the risks of off-site work versus the lack of available on-site space.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Midori": "Reports on the failure of joint-department clinics.",
+      "Jonathan": "Shares that previous call-back trials reduced readmissions.",
+      "Misaki": "Notes the shortage of ward nurses but slack in midwifery.",
+      "Shion": "Points out the budget decrease and tariff issues for off-site work.",
+      "Shizue": "Highlights the lack of parking and room availability."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Midori": "Warns about the difficulty of shared nursing rounds.",
+      "Jonathan": "Mentions that unbooked work disappears from reports.",
+      "Misaki": "Asks how staffing slack can be utilized.",
+      "Shion": "Argues that on-site programs are more financially sustainable.",
+      "Shizue": "Questions how any new program fits into the full booking system."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Midori": "Suggests avoiding programs that rely on outside bodies.",
+      "Jonathan": "Discusses the value of evidence-based patient outcomes.",
+      "Misaki": "Points out the risk of adding pressure to ward nurses.",
+      "Shion": "Emphasizes the need for a program that generates revenue.",
+      "Shizue": "Notes the limited shuttle coverage for remote villages."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Midori": "Over",
+      "Jonathan": "Over",
+      "Misaki": "Over",
+      "Shion": "Over",
+      "Shizue": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The panel evaluates the candidates against the discovered constraints. They weigh the benefits of patient outcomes against staffing availability and financial risk before voting.",
+   "votes": {
+    "Midori": "D",
+    "Jonathan": "A",
+    "Misaki": "D",
+    "Shion": "B",
+    "Shizue": "D"
+   },
+   "adopted": "D",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Midori": "Evaluates the candidates based on departmental cooperation.",
+      "Jonathan": "Compares the candidates based on patient impact data.",
+      "Misaki": "Analyzes which candidate fits the current staffing slack.",
+      "Shion": "Assesses the candidates based on the ledger and tariffs.",
+      "Shizue": "Checks which candidate requires the least amount of new space."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Midori": "Discusses the viability of a joint midwifery-pediatric effort.",
+      "Jonathan": "Argues for the merits of home follow-up based on trial data.",
+      "Misaki": "Points out that midwifery has the capacity for new tasks.",
+      "Shion": "Suggests a dedicated unit to maximize on-site billing.",
+      "Shizue": "Questions the logistics of home visits versus on-site classes."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Midori": "Considers the stability of the proposed staffing models.",
+      "Jonathan": "Discusses the recording of activity in the booking system.",
+      "Misaki": "Argues against programs that burden ward nursing.",
+      "Shion": "Questions the long-term funding of off-site visits.",
+      "Shizue": "Considers the impact on the car park and shuttle."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Midori": "Finalizes her choice based on staffing harmony.",
+      "Jonathan": "Finalizes his choice based on patient readmission data.",
+      "Misaki": "Finalizes her choice based on the staffing review.",
+      "Shion": "Finalizes his choice based on financial logic.",
+      "Shizue": "Finalizes her choice based on infrastructure capacity."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shion": "Focuses on the long-term financial sustainability and revenue. He uses logical arguments to highlight budget deficits and tariff losses.",
+  "Midori": "Concerned with the stability of inter-departmental agreements. She looks for programs that avoid the pitfalls of previous failed collaborations.",
+  "Jonathan": "Values empirical evidence of patient benefit. He analyzes past trial data to determine which approach actually improves health outcomes.",
+  "Shizue": "Worries about the physical and systemic capacity of the hospital. She evaluates proposals based on their impact on parking, rooms, and scheduling.",
+  "Misaki": "Focuses on the distribution of labor and staff burnout. She seeks a program that aligns with existing staffing surpluses rather than deficits."
+ },
+ "final": {
+  "adopted": "D"
+ },
+ "setup_id": "candidate_selection_0006",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Midori's line after Over",
+  "period 1 turn 4: dropped Jonathan's line after Over",
+  "period 1 turn 4: dropped Misaki's line after Over",
+  "period 1 turn 4: dropped Shion's line after Over",
+  "period 1 turn 4: dropped Shizue's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T13:18:41+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793193521,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8d2f6f6ed6c93ab1",
+      "object": "model_permission",
+      "created": 1793193521,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "5e4f725c02cf0e85bff1dde174bb0278ab3a8c45",
+   "files": 96
+  }
+ }
+}

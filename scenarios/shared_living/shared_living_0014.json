@@ -1,0 +1,225 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses what information is necessary to make a fair and comfortable choice. They focus on costs, travel logistics, and the daily living arrangements.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Suggests looking into how the group interacted in previous years.",
+      "Shizue": "Mentions the importance of clear payment structures.",
+      "Minato": "Asks about bathroom and meal schedules.",
+      "Jonathan": "Brings up the time spent on travel.",
+      "Midori": "Suggests checking total costs versus separate payments."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Agrees to check the shared-house experience and last year's flow.",
+      "Shizue": "Decides to look at all-in rates and separate room costs.",
+      "Minato": "Chooses bathing hours and inn mealtimes.",
+      "Jonathan": "Selects ferry/train times and train/bus transport.",
+      "Midori": "Picks offshore house pricing and valley versus urban rates."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Over",
+      "Shizue": "Over",
+      "Minato": "Over",
+      "Jonathan": "Over",
+      "Midori": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the findings from their research. They compare the trade-offs between structured group environments and independent arrangements.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Shares that shared houses can feel crowded and separate plans can feel lonely.",
+      "Shizue": "Explains the difference between a single bill and varying individual costs.",
+      "Minato": "Reports on the strictness of inn schedules and bathroom availability.",
+      "Jonathan": "Discusses the travel time for ferries versus trains.",
+      "Midori": "Compares the pricing of houses, inns, and city hotels."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Asks @Minato if a strict schedule is better than total independence.",
+      "Shizue": "Asks @Midori about the most predictable payment method.",
+      "Minato": "Expresses concern about shared bathrooms and futons.",
+      "Jonathan": "Notes the efficiency of train travel over ferries.",
+      "Midori": "Answers @Shizue regarding the stability of all-in rates."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Observes that a balance of togetherness and space is needed.",
+      "Shizue": "Comments on the fairness of a single divided bill.",
+      "Minato": "Wonders if city hotels provide more personal space.",
+      "Jonathan": "Points out the time lost to ferry schedules.",
+      "Midori": "Notes that city costs are the most variable."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "Over",
+      "Shizue": "Over",
+      "Minato": "Over",
+      "Jonathan": "Over",
+      "Midori": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three options based on the gathered data. They weigh the value of time, budget predictability, and personal comfort before voting.",
+   "votes": {
+    "Mizuki": "A",
+    "Shizue": "A",
+    "Minato": "A",
+    "Jonathan": "A",
+    "Midori": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Argues for a balance of group activity and accessibility.",
+      "Shizue": "Discusses the ease of a fixed cost per person.",
+      "Minato": "Considers the trade-off between schedules and privacy.",
+      "Jonathan": "Emphasizes the need for minimal transit time.",
+      "Midori": "Looks for the option with the most transparent total cost."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Suggests that a town setting allows for both group and solo time.",
+      "Shizue": "Agrees that a bundled rate prevents financial friction.",
+      "Minato": "Accepts a schedule if it means a reliable environment.",
+      "Jonathan": "Notes that a short train ride is the most restful.",
+      "Midori": "Finds the all-inclusive nature of an inn appealing."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Asks if everyone is satisfied with a town-based stay.",
+      "Shizue": "Confirms it meets the need for financial clarity.",
+      "Minato": "Agrees it is a safe middle ground.",
+      "Jonathan": "Confirms it minimizes travel fatigue.",
+      "Midori": "Confirms it provides a clear budget."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "Calls for the final vote.",
+      "Shizue": "Casts vote.",
+      "Minato": "Casts vote.",
+      "Jonathan": "Casts vote.",
+      "Midori": "Casts vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Midori": "Cares about budget predictability. She seeks a total cost upfront to avoid surprises.",
+  "Jonathan": "Cares about minimizing transit and waiting time. He evaluates options based on travel efficiency.",
+  "Minato": "Cares about the physical environment and daily routines. He weighs the impact of shared facilities and schedules.",
+  "Shizue": "Cares about equitable and transparent payment. She looks for arrangements that avoid individual out-of-pocket discrepancies.",
+  "Mizuki": "Cares about the social dynamic. She analyzes how the setting affects the balance between group cohesion and personal space."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0014",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Mizuki's line after Over",
+  "period 1 turn 4: dropped Shizue's line after Over",
+  "period 1 turn 4: dropped Minato's line after Over",
+  "period 1 turn 4: dropped Jonathan's line after Over",
+  "period 1 turn 4: dropped Midori's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:19:43+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793197183,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b3cef666289c805e",
+      "object": "model_permission",
+      "created": 1793197183,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}

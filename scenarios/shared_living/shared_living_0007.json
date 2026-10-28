@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants discuss the current state of the parking area and the need for a fair system. They identify a need to understand financial impacts, physical maintenance, and historical usage patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "Suggests looking into past conflicts and neighboring examples.",
+      "Shizue": "Mentions the physical chaos of the morning rush.",
+      "May": "Questions the financial side of things.",
+      "George": "Focuses on the long-term management effort.",
+      "Mio": "Wonders if the current distribution is actually fair."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "Proposes specific documents to check for social friction.",
+      "Shizue": "Suggests observing the physical layout and morning flow.",
+      "May": "Suggests checking the ledger and external costs.",
+      "George": "Suggests checking the treasurer's files and equipment trials.",
+      "Mio": "Suggests checking the minutes and the sticker register."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "Confirms her two choices.",
+      "Shizue": "Confirms her two choices.",
+      "May": "Confirms her two choices.",
+      "George": "Confirms his two choices.",
+      "Mio": "Confirms her two choices."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Over",
+      "Shizue": "Over",
+      "May": "Over",
+      "George": "Over",
+      "Mio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings regarding the physical difficulties of the space, the administrative burden of collections, and the history of stagnant allocations. They weigh the trade-off between fairness and social harmony.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "Shares findings about neighboring disputes and complaint logs.",
+      "Shizue": "Describes the rain exposure and morning congestion.",
+      "May": "Reports on the building ledger and station parking costs.",
+      "George": "Discusses the treasurer's workload and equipment maintenance.",
+      "Mio": "Reveals the lack of review in minutes and rider preferences."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "Warns against systems that create financial resentment.",
+      "Shizue": "Highlights the need to solve the physical shoving matches.",
+      "May": "Points out that some residents are willing to pay for stability.",
+      "George": "Expresses concern over the ongoing labor required for management.",
+      "Mio": "Notes that the current system is outdated and stagnant."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "Questions how to balance fairness without causing hostility.",
+      "Shizue": "Asks if a more flexible physical arrangement would help.",
+      "May": "Suggests that a fee might simplify the selection process.",
+      "George": "Argues for a system with minimal monthly paperwork.",
+      "Mio": "Suggests a way to rotate the spots to ensure equality."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Over",
+      "Shizue": "Over",
+      "May": "Over",
+      "George": "Over",
+      "Mio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed options based on the gathered data. They debate the merits of financial incentives versus random chance and open access, considering the impact on community relations.",
+   "votes": {
+    "Misaki": "C",
+    "Shizue": "B",
+    "May": "A",
+    "George": "C",
+    "Mio": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "Analyzes the options through the lens of social stability.",
+      "Shizue": "Considers which option reduces physical conflict.",
+      "May": "Evaluates the options based on financial viability.",
+      "George": "Evaluates the options based on administrative ease.",
+      "Mio": "Evaluates the options based on perceived fairness."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "Argues against a system that creates permanent winners and losers.",
+      "Shizue": "Questions the practicality of the open-access approach.",
+      "May": "Advocates for a system that generates revenue for the building.",
+      "George": "Questions the maintenance and labor of the open-access system.",
+      "Mio": "Suggests that a periodic reset is the most equitable."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "Agrees that a periodic reset avoids long-term grudges.",
+      "Shizue": "Wonders if a reset solves the morning congestion.",
+      "May": "Points out that a reset doesn't provide the funds she sought.",
+      "George": "Notes that a reset requires very little monthly effort.",
+      "Mio": "Argues that a reset is the only way to clear the historical bias."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Ready to vote.",
+      "Shizue": "Ready to vote.",
+      "May": "Ready to vote.",
+      "George": "Ready to vote.",
+      "Mio": "Ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "May": "Cares about the financial transparency and potential income for the building. She uses her charisma to push for a pragmatic, money-based solution.",
+  "George": "Cares about the sustainability of the workload and avoiding burnout. He evaluates options based on the amount of recurring administrative effort.",
+  "Shizue": "Cares about the daily physical harmony and the comfort of the residents. She focuses on the practical experience of using the parking area.",
+  "Mio": "Cares about fairness and breaking the cycle of perceived favoritism. She advocates for a system that ensures equal opportunity for all.",
+  "Misaki": "Cares about maintaining a peaceful social atmosphere and avoiding interpersonal conflict. She analyzes how rules might affect the residents' relationships."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0007",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-28T14:10:54+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793196654,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8705c1114ef5dc62",
+      "object": "model_permission",
+      "created": 1793196654,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "50a8f27661cf3a16395fb048bbc5db9588310ba7",
+   "files": 96
+  }
+ }
+}
