@@ -48,7 +48,15 @@ def command(setup: str, cond: str, model: str, log_dir: str, port: int) -> list[
 
 def done(log_dir: Path, setup: str, cond: str) -> bool:
     domain = setup.rsplit("_", 1)[0]
-    return any((log_dir / domain).glob(f"*/{setup}__{cond}__*/*.log"))  # plan runs sit under the base condition's dir
+    for gd in (log_dir / domain).glob(f"*/{setup}__{cond}__*"):  # plan runs sit under the base condition's dir
+        try:  # NFS: a directory listing can lag behind; creating and removing a file refreshes it
+            (gd / ".refresh").touch()
+            (gd / ".refresh").unlink()
+        except OSError:
+            pass
+        if any(gd.glob("*.log")):
+            return True
+    return False
 
 
 def scenario_ready(setup: str) -> bool:
