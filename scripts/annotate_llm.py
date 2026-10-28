@@ -62,6 +62,9 @@ def main(argv=None) -> int:
         extra["chat_template_kwargs"] = json.loads(a.chat_template_kwargs)
     n_ok = 0
     for g in games:
+        if not a.reparse and (d / "out" / f"{a.rater}_{index[g]}.json").exists():
+            n_ok += 1
+            continue  # already annotated (the runs over a growing set of games are restarted as games complete)
         text = (d / "games" / g).read_text(encoding="utf-8")
         seqs = [int(m.group(1)) for m in re.finditer(r"^- \[(\d+)\] \*\*", text, re.M)]
         user = (f"Annotate every utterance of the transcript below ({len(seqs)} utterances, ids "

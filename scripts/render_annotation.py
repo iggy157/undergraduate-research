@@ -58,6 +58,7 @@ def main(argv=None) -> int:
     ap.add_argument("--log-dir", default="log/_pilot6")
     ap.add_argument("--out-dir", required=True)
     ap.add_argument("--replicates", action="store_true")
+    ap.add_argument("--only-complete", action="store_true", help="skip games whose log has no result row yet")
     ap.add_argument("--stable-names", action="store_true",
                     help="name files <setup>__<condition>.md (not game_NNN.md), keep existing files and games.json entries")
     a = ap.parse_args(argv)
@@ -77,6 +78,9 @@ def main(argv=None) -> int:
         seen.add((sid, cond))
         ctx = GameContext.load(sid)
         rows = list(read_log(gd / f"{gd.name}.log"))
+        if a.only_complete and not any(r.type == "result" for r in rows):
+            seen.discard((sid, cond))
+            continue
         k += 1
         name = f"{sid}__{cond}.md" if a.stable_names else f"game_{k:03d}.md"
         if a.stable_names and name in games:
