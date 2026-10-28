@@ -7,7 +7,7 @@ usage: .venv/bin/python scripts/run_queue.py --log-dir log/main_gemma31b --model
 Jobs are (setup, condition) pairs; a job is skipped when <log-dir>/<domain>/*/<setup>__<condition>__*/*.log
 already exists (completed or partial: remove the directory to rerun). Core conditions are queued first, plan
 conditions (single-batch-process, multi-private-process) last; a plan job whose scenario file is missing is put back
-at the end of the queue (scripts/gen_scenarios.py can run in parallel). Each model (= vLLM instance, config/models.yml)
+at the end of the queue (scripts/gen_scenarios.py can run in parallel), or dropped when <out-dir>/no_more_scenarios exists. Each model (= vLLM instance, config/models.yml)
 gets --per-model worker threads; every worker uses its own game-server port. Progress goes to <out-dir>/progress.txt.
 """
 from __future__ import annotations
@@ -113,6 +113,11 @@ def main(argv=None) -> int:
             except queue.Empty:
                 return
             if cond in PLAN and not scenario_ready(setup):
+                if (out_dir / "no_more_scenarios").exists():  # the scenario generator gave up on this setup
+                    with lock:
+                        remaining[0] -= 1
+                    log(f"{cond} {setup} dropped: no scenario")
+                    continue
                 q.put((setup, cond))
                 if q.qsize() <= 1:
                     time.sleep(60)  # nothing else to do: wait for the scenario generator
