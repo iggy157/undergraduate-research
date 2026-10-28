@@ -137,8 +137,8 @@ def main(argv: list[str] | None = None) -> int:
     a = ap.parse_args(argv)
 
     import os
-os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")  # long sequences: avoid fragmentation OOM
-import torch
+    os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")  # long sequences: avoid fragmentation OOM
+    import torch
     from transformers import AutoTokenizer
     tok = AutoTokenizer.from_pretrained(a.model_path)
     model = None
