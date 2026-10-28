@@ -20,7 +20,8 @@ from pathlib import Path
 
 from openai import OpenAI
 
-FLAGS = ["resp", "rebut", "empty", "ignore", "misattr", "reversal"]
+FLAGS = ["resp", "rebut", "empty", "ignore", "misattr", "reversal", "padded"]  # 0/1 fields (v1 and v2)
+V2_EXTRA = ["content", "resp_to", "resp_type"]  # v2 fields kept as given
 
 
 def parse_reply(text: str) -> list[dict]:
@@ -46,13 +47,16 @@ def main(argv=None) -> int:
     ap.add_argument("--max-tokens", type=int, default=8192)
     ap.add_argument("--chat-template-kwargs", default=None, help="JSON passed as extra_body.chat_template_kwargs")
     ap.add_argument("--api-key", default="EMPTY")
+    ap.add_argument("--reparse", action="store_true", help="re-parse the saved raw/ replies instead of calling the model")
     a = ap.parse_args(argv)
     d = Path(a.annot_dir)
     instructions = (d / "ANNOTATION_INSTRUCTIONS.md").read_text(encoding="utf-8")
-    games = a.games.split(",") if a.games else sorted(p.name for p in (d / "games").glob("game_*.md"))
+    all_games = sorted(p.name for p in (d / "games").glob("*.md"))
+    games = a.games.split(",") if a.games else all_games
+    index = {g: f"{i:03d}" for i, g in enumerate(all_games)}  # output number = position in the sorted game list
     (d / "out").mkdir(exist_ok=True)
     (d / "raw").mkdir(exist_ok=True)
-    client = OpenAI(base_url=a.base_url, api_key=a.api_key, timeout=1800, max_retries=1)
+    client = None if a.reparse else OpenAI(base_url=a.base_url, api_key=a.api_key, timeout=1800, max_retries=1)
     extra = {}
     if a.chat_template_kwargs:
         extra["chat_template_kwargs"] = json.loads(a.chat_template_kwargs)
@@ -63,17 +67,24 @@ def main(argv=None) -> int:
         user = (f"Annotate every utterance of the transcript below ({len(seqs)} utterances, ids "
                 f"{seqs[0]}..{seqs[-1]}). Output only the JSON list, one object per utterance in order.\n\n" + text)
         t0 = time.time()
-        try:
+        raw_fp = d / "raw" / f"{a.rater}_{index[g]}.txt"
+        if a.reparse:
+            if not raw_fp.exists():
+                print(f"{g}: no raw reply", file=sys.stderr)
+                continue
+            reply, finish = raw_fp.read_text(encoding="utf-8"), "reparse"
+        else:
+          try:
             r = client.chat.completions.create(model=a.model, temperature=a.temperature, max_tokens=a.max_tokens,
                                                messages=[{"role": "system", "content": instructions},
                                                          {"role": "user", "content": user}],
                                                extra_body=extra or None)
             reply = r.choices[0].message.content or ""
             finish = r.choices[0].finish_reason
-        except Exception as e:  # noqa: BLE001
+          except Exception as e:  # noqa: BLE001
             print(f"{g}: request failed: {e}", file=sys.stderr)
             continue
-        (d / "raw" / f"{a.rater}_{g[5:8]}.txt").write_text(reply, encoding="utf-8")
+          raw_fp.write_text(reply, encoding="utf-8")
         try:
             items = parse_reply(reply)
         except (ValueError, json.JSONDecodeError) as e:
@@ -85,11 +96,13 @@ def main(argv=None) -> int:
                 s = int(it["seq"])
             except (KeyError, ValueError, TypeError):
                 continue
-            by_seq[s] = {"seq": s, "speaker": it.get("speaker", ""), **{f: int(bool(it.get(f, 0))) for f in FLAGS},
+            by_seq[s] = {"seq": s, "speaker": it.get("speaker", ""),
+                         **{f: int(bool(it.get(f, 0))) for f in FLAGS if f in it},
+                         **{f: it.get(f) for f in V2_EXTRA if f in it},
                          "note": str(it.get("note", ""))[:200]}
         out = [by_seq[s] for s in seqs if s in by_seq]
         missing = [s for s in seqs if s not in by_seq]
-        (d / "out" / f"{a.rater}_{g[5:8]}.json").write_text(json.dumps({g: out}, ensure_ascii=False, indent=1) + "\n",
+        (d / "out" / f"{a.rater}_{index[g]}.json").write_text(json.dumps({g: out}, ensure_ascii=False, indent=1) + "\n",
                                                                encoding="utf-8")
         n_ok += 1
         print(f"{g}: {len(out)}/{len(seqs)} utterances, missing {missing[:5]}{'...' if len(missing) > 5 else ''}, "

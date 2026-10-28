@@ -58,11 +58,15 @@ def main(argv=None) -> int:
     ap.add_argument("--log-dir", default="log/_pilot6")
     ap.add_argument("--out-dir", required=True)
     ap.add_argument("--replicates", action="store_true")
+    ap.add_argument("--stable-names", action="store_true",
+                    help="name files <setup>__<condition>.md (not game_NNN.md), keep existing files and games.json entries")
     a = ap.parse_args(argv)
     out = Path(a.out_dir)
     out.mkdir(parents=True, exist_ok=True)
     seen = set()
     games = {}
+    if a.stable_names and (out.parent / "games.json").exists():
+        games = json.loads((out.parent / "games.json").read_text())
     k = 0
     for gd in sorted(Path(a.log_dir).glob("*/*/*")):
         if not gd.is_dir() or not (gd / f"{gd.name}.log").exists():
@@ -74,10 +78,14 @@ def main(argv=None) -> int:
         ctx = GameContext.load(sid)
         rows = list(read_log(gd / f"{gd.name}.log"))
         k += 1
-        name = f"game_{k:03d}.md"
+        name = f"{sid}__{cond}.md" if a.stable_names else f"game_{k:03d}.md"
+        if a.stable_names and name in games:
+            continue
         (out / name).write_text(f"# {name[:-3]} ({ctx.domain})\n\n" + render(rows, ctx), encoding="utf-8")
         games[name] = {"game_id": gd.name, "setup_id": sid, "condition": cond, "domain": ctx.domain,
-                       "n_talk": sum(1 for r in rows if r.type == "talk")}
+                       "n_talk": sum(1 for r in rows if r.type == "talk"),
+                       "words": {str(r.seq): int(r.extra.get("words") or 0) for r in rows if r.type == "talk"},
+                       "turn": {str(r.seq): [r.round, r.turn] for r in rows if r.type == "talk"}}
     (out.parent / "games.json").write_text(json.dumps(games, indent=1) + "\n", encoding="utf-8")
     print(f"{len(games)} games -> {out}")
     return 0
