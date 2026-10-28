@@ -1,0 +1,73 @@
+# shared_living_0028__single-online (shared_living)
+
+## Round 1
+- [5] **Shion**: Since we can't keep using the room for everything, we should be logical. I'll look into the partition wall to the office and crumbs and bins at the desks.
+- [6] **Daisuke**: I... I think we should be careful about the costs. I'll check the invoices for outside hire by the hour and the quotes for the two fit-outs.
+- [7] **Rin**: I want to know who actually uses the room! I'll check the fortnight's tally of use by person and the final clear-out of the old fridge.
+- [8] **Servas**: It is important to consider the human element of our workspace. I shall look into the unplanned talk since the refit and where the last awkward conversation happened.
+- [9] **Toshio**: I will look into the facilities callouts on this floor and the round trip for a hot lunch.
+- [10] **Shion**: Does anyone else feel that the current lack of a clear rule is the main problem, or are we focusing too much on the physical space?
+- [11] **Daisuke**: I think both matter... but if we don't know the budget, we might pick something we can't actually afford.
+- [12] **Rin**: But the budget isn't the only thing! If we just pick something expensive that nobody likes, it's a waste of money anyway, right?
+- [13] **Servas**: Rin makes a fair point. A room is more than its price tag; it is the heart of how we interact. We must ensure it serves our spirits as well as our needs.
+- [14] **Toshio**: Efficiency is the only way to ensure the room doesn't become a burden. If the upkeep is too high, the spirit of the room will suffer regardless of its purpose.
+- [15] **Shion**: @Toshio, efficiency is fine, but if the room is just "efficient" and doesn't solve the noise and mess issues, it's still a failure. We need a purpose that actually fits the environment.
+- [16] **Daisuke**: I agree with Shion... I just don't want us to make a decision and then find out later that we can't actually pay for it.
+- [17] **Rin**: I just want it to be fair! If we find out that only a few people are using it, maybe we should change how we share it.
+- [18] **Servas**: Fairness is a noble goal, Rin. However, we must also ask if the room can provide a sanctuary for the difficult conversations that currently have no home.
+- [19] **Toshio**: @Servas, a sanctuary is useless if it requires constant maintenance that falls on one person. We need to see the data on how the space is actually managed before we dream of sanctuaries.
+- [20] **Shion**: Let's just see what the data says first. I'm satisfied with my choices, so I'll pass for now.
+- [22] **Daisuke**: I'll wait for the results too.
+- [24] **Rin**: I'm excited to see what I find!
+- [26] **Servas**: I look forward to our shared discovery.
+- [28] **Toshio**: I believe the facts will speak for themselves.
+## Round 2
+- [40] **Shion**: It's clear that the room's current state is a nuisance. The walls are far too thin for privacy, and eating at our desks is creating a mess that needs daily attention.
+- [41] **Daisuke**: The outside hire costs are actually quite high, and the fit-out quotes show a significant difference in price between a kitchen and a meeting space.
+- [42] **Rin**: It's not fair at all! Only two people are using the room almost all the time, and someone keeps having to clean up a fridge full of stuff that doesn't even belong to anyone!
+- [43] **Servas**: It is disheartening to see that our connections have withered; we have no space for unplanned talk, and our most difficult moments are played out in front of everyone.
+- [44] **Toshio**: The time spent walking for lunch is excessive, and the lack of facilities callouts for the store room suggests that simplicity is the only way to avoid a maintenance burden.
+- [45] **Shion**: @Daisuke, since you saw the quotes, is the meeting space significantly more expensive than the kitchen? If the walls are this thin, a meeting room might just be a noise chamber.
+- [46] **Daisuke**: It is... yes, the meeting space is more expensive. About 141,000 yen compared to 96,000 for the kitchen. But we are already spending a lot on outside rentals.
+- [47] **Rin**: Wait, if we're spending so much on rentals, why not just make the room a place where everyone can actually use it, instead of just two people?
+- [48] **Servas**: If we prioritize only the numbers, we risk ignoring the loneliness of our office. We need a space that encourages us to speak and heal, not just a place to save yen.
+- [49] **Toshio**: @Servas, healing is a luxury we cannot afford if we are wasting twenty-five minutes on a lunch trip. A kitchen would solve a practical inefficiency that affects everyone daily.
+- [50] **Shion**: @Toshio, a kitchen might solve the lunch trip, but it doesn't solve the privacy issue. If we can hear everything through the walls, a kitchen just adds smells to the noise.
+- [51] **Daisuke**: I... I suppose that's true. But if we keep renting outside rooms for small groups, we're just paying for a problem we could solve here, even if it's expensive.
+- [52] **Rin**: But if we make it a meeting room, will the two people who use it all the time just keep hogging it? We need a rule so everyone gets a turn!
+- [53] **Servas**: A rule is a start, Rin, but a Quiet Room could offer the peace we lack. It would be a sanctuary for reflection and a place to step away from the noise of the office.
+- [54] **Toshio**: A Quiet Room doesn't address the lunch waste or the rental costs. We should prioritize a solution that removes a daily burden from everyone's schedule.
+- [55] **Shion**: If we want to stop the mess at the desks, a kitchen is the most logical choice, provided we can actually manage the cleaning this time.
+- [56] **Daisuke**: I'm still worried about the cost, but if it stops the daily rental payments, it might actually save us money in the long run.
+- [57] **Rin**: I just don't want the same person to end up doing all the cleaning again! If we have a kitchen, we need a real plan for the fridge!
+- [58] **Servas**: A kitchen may feed the body, but it does not feed the soul. We must consider if a space for quiet reflection or private conversation is more vital for our harmony.
+- [59] **Toshio**: Harmony is a byproduct of a well-functioning environment. If we eliminate the daily stress of the lunch commute and the clutter at our desks, the harmony will follow naturally.
+## Round 3
+- [65] **Shion**: Given the evidence, a kitchen solves the desk mess and the lunch commute, but a meeting space addresses the rental costs and the lack of privacy. I'm leaning toward the kitchen.
+- [66] **Daisuke**: I'm torn, but the rental costs are a constant drain. However, the kitchen is cheaper to install and seems to help more people daily. I think I'll vote for the kitchen.
+- [67] **Rin**: I'll vote for the kitchen too, but only if we make a strict rule about the fridge so it's fair for everyone!
+- [68] **Servas**: I fear we are neglecting the need for a sanctuary. A Quiet Room would provide the peace and privacy we so desperately lack for our mental well-being.
+- [69] **Toshio**: The data is clear: the lunch commute is a waste of time and the desk clutter is an inefficiency. I vote for the Open Kitchen.
+- [70] **Shion**: @Servas, I respect your view, but a Quiet Room doesn't solve the practical problems we've identified. We need a functional solution first.
+- [71] **Daisuke**: I... I agree. While a sanctuary sounds nice, the financial drain of the rentals and the daily mess are more urgent problems to solve.
+- [72] **Rin**: Yeah! Plus, if we have a kitchen, maybe we can all eat together and be less lonely, which helps Servas too!
+- [73] **Servas**: That is a heartwarming thought, Rin. Perhaps a shared meal is its own form of sanctuary, though I still worry about where we shall go when we need true silence.
+- [74] **Toshio**: Silence can be found in the gaps between our tasks, but hunger and clutter are constant. The kitchen is the only choice that optimizes our time and space.
+- [75] **Shion**: It seems we have a strong consensus. Unless anyone has a sudden change of heart, the kitchen is the most logical path forward for the office.
+- [76] **Daisuke**: I'll stick with the kitchen. It's the most affordable fit-out and it addresses the most immediate issues we've discussed.
+- [77] **Rin**: Kitchen it is! As long as we all help clean up, it'll be the best room ever!
+- [78] **Servas**: I shall yield to the majority. If a shared meal can bring us closer and ease the burdens of the day, then I will support the Open Kitchen.
+- [79] **Toshio**: I agree. The decision is based on practical data and collective benefit. I vote for the Open Kitchen.
+- [80] **Shion**: Then it is settled. I vote for the Open Kitchen.
+- [81] **Daisuke**: I vote for the Open Kitchen.
+- [82] **Rin**: I vote for the Open Kitchen!
+- [83] **Servas**: I vote for the Open Kitchen.
+- [84] **Toshio**: I vote for the Open Kitchen.
+### Vote
+- Shion -> A
+- Daisuke -> A
+- Rin -> A
+- Servas -> A
+- Toshio -> A
+## Result
+- adopted: A

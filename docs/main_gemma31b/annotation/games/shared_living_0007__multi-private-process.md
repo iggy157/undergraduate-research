@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Misaki**: We need a fair way to allocate the spaces, but we should be careful not to create unnecessary tension among the residents. Let's look into the facts before deciding on a system.
+- [6] **Shizue**: I agree, Misaki-san. It is so important that we all remain friends and neighbors. Let's find a way that makes everyone feel cared for and keeps the peace in our lovely building.
+- [7] **May**: Peace is lovely, but let's be real—fairness usually comes down to the numbers. I want to know exactly how this affects our pockets and the building's budget. Let's get some hard data first.
+- [8] **George**: I agree that we need a balanced approach. However, we must also consider who will actually manage the system once it's decided. We shouldn't create a burden that is impossible to maintain long-term.
+- [9] **Mio**: I totally agree! But I've heard some people grumbling that the same people always get the best spots. I want to know if that's actually true or just a misunderstanding! Let's find out the truth!
+- [10] **Misaki**: To understand the current atmosphere and avoid future conflict, I'll look into the last year's complaint log entries and the five years of association minutes. I want to see how previous disputes were handled.
+- [11] **Shizue**: I think it would be helpful to see how people are actually using the space. I will look into the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [12] **May**: I'm going for the building account's two-year ledger and the treasurer's handover file on cash collections. If we're talking about fairness, we need to see where the money is actually going.
+- [13] **George**: I will look into the treasurer's handover file on cash collections and the sticker register and the daily riders. I want to understand the actual administrative effort required to manage the spaces.
+- [14] **Mio**: I'll check the sticker register and the daily riders to see who's actually using the spots! Also, I want to see the five years of association minutes to see if the same people always win!
+- [15] **Misaki**: It seems we have a good spread of information. By looking at the history and the complaints, I hope to find a way to implement a rule that doesn't damage our community spirit.
+- [16] **Shizue**: It is wonderful that we are all looking at this from different angles. I hope that by understanding the daily struggles of our neighbors, we can find a solution that brings a smile to everyone's face.
+- [17] **May**: Let's just hope the "daily struggles" aren't just people being lazy. I'm expecting some interesting surprises in those financial files. Let's see if the money actually adds up to something useful for us.
+- [18] **George**: I believe we have covered the necessary bases. My main concern remains the sustainability of the workload. I look forward to seeing if the records reveal a manageable process or a recipe for burnout.
+- [19] **Mio**: I'm so excited to see what we find! If we can prove whether there's actually a pattern of favoritism, we can finally make a system that's fair for everyone. Let's do this!
+- [20] **Misaki**: I think we are all set. Let's proceed with our research and meet again to share what we've discovered. I hope we can find a solution that keeps our daily interactions pleasant.
+- [21] **Shizue**: I look forward to it. Let us all be kind to one another as we search for the truth. I will be praying that we find a gentle solution that makes everyone's morning a little brighter.
+- [22] **May**: I'm ready. Let's stop the dreaming and start the digging. I'll see you all in the next round—I can't wait to see if the numbers back up the drama!
+- [23] **George**: I agree. Let us review the findings carefully when we return. I hope the data provides a clear picture of the effort involved so we can make a practical decision.
+- [24] **Mio**: Me too! I'll be digging through those records with everything I've got! See you all soon—I can't wait to see if my hunch about the favoritism is right! Let's make this fair!
+## Round 2
+- [35] **Misaki**: The records show that the same people have held the covered spots for years without review. Also, complaints about bikes leaning on each other were ignored because no one was held accountable. This lack of clarity creates hidden tension.
+- [36] **Shizue**: It is a bit sad to hear that, Misaki-san. I noticed that some of our neighbors have to move other bikes just to leave in the morning, and some poor bicycles are left out in the rain.
+- [37] **May**: The money side is even more boring than I thought. The ledger is basically empty, and the treasurer is spending hours on tiny cash collections. We're wasting time on pennies while the building gets no upgrades.
+- [38] **George**: The administrative burden is already significant. The treasurer spends three hours a month on minor collections; adding per-space billing would only increase that workload. We must avoid creating a system that exhausts whoever is in charge.
+- [39] **Mio**: I knew it! The minutes prove the same flats have kept the covered spots for five years without any review! That's totally unfair! Plus, some daily riders are even willing to pay just to secure a spot!
+- [40] **Misaki**: @Mio, while the lack of review is unfair, we must be careful. If we suddenly strip people of spots they've had for years, it could create a cold atmosphere in the lobby. We need a transition that doesn't feel like a punishment.
+- [41] **Shizue**: @Misaki-san, you are so thoughtful. I worry that the morning rush is already a bit stressful for some. If we can make it easier to get out without shifting other bikes, everyone will feel much more relaxed.
+- [42] **May**: @Misaki, "cold atmospheres" don't pay for building repairs. If people are willing to pay for spots, as @Mio mentioned, why are we letting that money vanish? We should turn this into a revenue stream for the building.
+- [43] **George**: @May, revenue is fine, but not at the cost of the treasurer's sanity. If we implement a complex payment system, we are just adding more hours of tedious paperwork to an already burdened role. We need a low-maintenance solution.
+- [44] **Mio**: @George, I get that, but we can't just keep things the same because it's "easy"! It's not fair to the people who've been left out for five years. We need a fresh start for everyone!
+- [45] **Misaki**: @Mio, a fresh start is ideal, but we must avoid a situation where neighbors start avoiding each other. If we prioritize fairness too aggressively, we risk turning our lobby into a place of silence and resentment.
+- [46] **Shizue**: @Mio-san, I understand your heart, but perhaps we can find a way to be fair without being harsh. A gentle change might be easier for everyone to accept with a smile.
+- [47] **May**: @Shizue, smiles don't fix the budget. @George, if we set a flat, meaningful fee, it's not "tedious paperwork"—it's an investment. Let's stop worrying about feelings and start thinking about the building's value.
+- [48] **George**: @May, a flat fee still requires tracking, collecting, and reconciling. If the current system already takes three hours a month for "pennies," adding more layers of billing will only lead to the same burnout we've seen before.
+- [49] **Mio**: @May, I'm with you on the money part! If people are willing to pay, let's use it! But @George, maybe we can find a way to make it easy? We can't just let the same people win forever!
+- [50] **Misaki**: We have a conflict between fairness, budget, and administrative ease. However, we must not forget that we live here together. Let's look for an option that balances these needs without destroying our neighborly bonds.
+- [51] **Shizue**: I agree, Misaki-san. Let us remember that a bicycle is just a thing, but our kindness to one another is a treasure. I hope we can find a way that eases the morning rush for everyone.
+- [52] **May**: Kindness is a treasure, sure, but a well-funded building is a luxury. Let's be pragmatic: we have a demand for spots and a budget that's practically nonexistent. It's time we stop being shy about charging for value.
+- [53] **George**: I must insist that we prioritize a system that is sustainable. If we choose a complex payment model, it will eventually collapse when the manager burns out. We need a solution that is simple to oversee and maintain.
+- [54] **Mio**: I'm tired of the "it's too hard" excuse! We can't just ignore the fact that some people have been lucky for five years while others suffer. Let's find a way to be fair and practical at the same time!
+## Round 3
+- [60] **Misaki**: Option B seems the safest for our relationships. By removing "ownership" of spots, we eliminate the resentment of favoritism and the tension of taking someone's place. It promotes a spirit of cooperation rather than competition.
+- [61] **Shizue**: Option B sounds very peaceful, Misaki-san. If we all share the space, we can help each other. However, I worry if the morning rush will still be a struggle with everyone crowding together.
+- [62] **May**: Option B is just a recipe for chaos and more complaints. Why settle for "cooperation" when we can have actual funds? Option A is the only one that makes sense—it's fair, it's pragmatic, and it finally puts money in the account.
+- [63] **George**: @May, Option A is exactly what I fear. Adding monthly charges to the existing workload will only lead to the treasurer quitting. Option B is far more sustainable as it requires almost no ongoing administration.
+- [64] **Mio**: @Misaki, @George, Option B sounds okay, but it doesn't really solve the "best spot" problem—people will still fight over the easy ones! Option C is the most fair! Everyone gets a real chance every single year!
+- [65] **Misaki**: @Mio, a lottery might seem fair on paper, but it creates a "winner" and a "loser" every year. That cycle of disappointment can lead to the very resentment and coldness I want us to avoid.
+- [66] **Shizue**: @Mio-san, a lottery is exciting, but I worry about those who lose. It would be so sad to see a neighbor's face fall when they find out they have no spot for a whole year.
+- [67] **May**: @Misaki, @Shizue, you're both too worried about faces falling. Let's be honest: people are already unhappy. Option A solves the fairness issue by letting those who value the spot most pay for it, and it actually helps the building.
+- [68] **George**: @May, you call it pragmatic, but it is a burden. Option A requires constant tracking and collection. Option B is the only choice that removes the administrative weight entirely, ensuring the system doesn't just collapse in a few months.
+- [69] **Mio**: @George, but Option B is just a free-for-all! It doesn't stop the same people from hogging the best spots every day. Option C is a clean slate! It's a fresh start for everyone, and that's the only way to be truly fair!
+- [70] **Misaki**: @Mio, a "clean slate" every year just resets the conflict. If we want to stop the cycle of complaints and hidden tension, we should move away from the idea of "owning" a spot entirely. Option B is the most harmonious.
+- [71] **Shizue**: @Misaki-san, you make a very good point. If we stop thinking about "owning" a spot, we can focus on being kind to one another. I hope the new racks make it easier to leave in the morning.
+- [72] **May**: @Misaki, @Shizue, you're prioritizing "harmony" over actual progress. Option B is just a fancy way of saying "let's hope everyone behaves." Option A is the only adult solution—it values the space and funds our building. Let's be bold!
+- [73] **George**: @May, being "bold" is useless if the system is abandoned because it's too tedious. Option A is a management nightmare. Option B is the only practical choice that doesn't rely on someone's unpaid labor to function.
+- [74] **Mio**: @May, I like the money part, but @George is right about the work! But @Misaki, Option B is just a gamble every morning! Option C is the only way to guarantee a fair turn for everyone! I'm voting C!
+- [75] **Misaki**: I still believe Option B is the best path. It removes the hierarchy of "winners" and "losers" and prevents the long-term resentment that comes with fixed spots. Let's choose harmony and simplicity over competition. I vote for B.
+- [76] **Shizue**: I agree with Misaki-san. While I worry about the morning rush, I believe that by sharing the space, we can learn to be more considerate of one another. Let us choose kindness. I vote for B.
+- [77] **May**: You're all choosing the path of least resistance. We have a building that needs money and a system that needs a real value. I'm sticking to my guns. Let's be professional. I vote for A.
+- [78] **George**: I cannot support Option A due to the administrative burden, and Option C still requires annual management. Option B is the only sustainable choice that ensures the system won't collapse from burnout. I vote for B.
+- [79] **Mio**: I'm the only one left! I really wanted a lottery to break the cycle of favoritism, but if everyone else is so sure about Option B, I'll go with the flow! I vote for B!
+### Vote
+- Misaki -> B
+- Shizue -> B
+- May -> A
+- George -> B
+- Mio -> B
+## Result
+- adopted: B

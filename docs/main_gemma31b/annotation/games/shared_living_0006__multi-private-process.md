@@ -1,0 +1,73 @@
+# shared_living_0006__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a structure that ensures financial stability without creating barriers for new members. I suggest we examine the last year's ledger of outgoings and the sign-up records for mid-year joiners to understand our costs and growth.
+- [6] **Benjamin**: Those are sensible starting points, Asuka. However, we should also consider the human cost of our administration. I'm curious about the outgoing treasurer's logged hours and the tally of the sign-in sheets to gauge the actual workload.
+- [7] **Jonathan**: I agree with Benjamin. To ensure fairness, I think we should also look at the rota against the attendance record and the weekday turnout since the summer outings to see how members actually utilize the club.
+- [8] **Shunichi**: Financials and hours are all well and good, but let's not forget the people. I'll look into the weekday turnout since the summer outings and the quieter members at the winter social. We need to see who's actually engaged.
+- [9] **Takumi**: We can't just guess the numbers like we did last time. We need to know exactly what's coming in. I'll check the bank statements on last year's renewals and the last year's ledger of outgoings.
+- [10] **Asuka**: It seems we are all in agreement that financial data and attendance are key. However, we must be careful not to over-analyze individual behavior. I still believe the mid-year joiner records are essential for maintaining accessibility.
+- [11] **Benjamin**: Accessibility is a noble goal, Asuka, but let's not forget that a system that is too "accessible" often becomes a nightmare for the person managing the ledger. Simplicity is a kindness to our future treasurer.
+- [12] **Jonathan**: Simplicity is important, but so is equity. If a small group is doing all the work while others rarely attend, a simple flat fee might feel unfair to those most invested in the club.
+- [13] **Shunichi**: @Jonathan, "equity" is a heavy word for a social club. If people are hesitating to show up, a complex "fair" fee might just be another excuse for them to stay home. Let's keep it rational.
+- [14] **Takumi**: @Shunichi, being rational means having real numbers, not just feelings. If we don't know the actual balance and the cost of running things, any fee we set is just a gamble. We need stability first.
+- [15] **Asuka**: Stability is necessary, but not at the cost of inclusivity. If we make the fee too rigid or the process too transparent, we risk alienating those who prefer to blend in. We must balance the books without scrutinizing members.
+- [16] **Benjamin**: @Asuka, while I appreciate the desire for discretion, we must avoid creating a system that is so opaque it becomes an administrative labyrinth. A bit of transparency usually saves the treasurer from endless queries.
+- [17] **Jonathan**: Perhaps we can find a middle ground. Transparency doesn't have to mean scrutiny; it can simply mean a structure that reflects the reality of our usage. I still believe understanding the attendance patterns is vital for a fair decision.
+- [18] **Shunichi**: @Jonathan, you're still obsessed with "fairness." The real issue is whether people feel like they belong enough to just show up. Let's see if the data actually shows a decline in commitment.
+- [19] **Takumi**: @Shunichi, commitment doesn't pay the bills. If we don't have a predictable income, the club fails regardless of how people "feel." We need a structure based on hard facts, not hopes.
+- [20] **Asuka**: We have a clear divide between financial pragmatism and member experience. To move forward, I will look into the last year's ledger of outgoings and the sign-up records for mid-year joiners.
+- [21] **Benjamin**: I shall stick with my original suggestions. I will examine the outgoing treasurer's logged hours and the tally of the sign-in sheets. Let us see if the administrative burden is as heavy as I suspect.
+- [22] **Jonathan**: I will look into the rota against the attendance record and the weekday turnout since the summer outings. I want to see if the burden of effort is shared equally among us.
+- [23] **Shunichi**: I'll stick to my plan. I'm looking into the weekday turnout since the summer outings and the quieter members at the winter social. Let's see if the "commitment" is actually slipping.
+- [24] **Takumi**: I'm sticking to my guns. I'll check the bank statements on last year's renewals and the last year's ledger of outgoings. I won't let us walk into next year blindly.
+## Round 2
+- [35] **Asuka**: The ledger shows that seventy percent of our costs are fixed overheads like hall hire and insurance. Additionally, mid-year joiners require manual calculations, which suggests our current process for newcomers is inefficient and potentially discouraging.
+- [36] **Benjamin**: It appears my suspicions were correct. The treasurer's logs reveal that chasing session-by-session payments is a grueling task, consuming six times the effort of a yearly collection. We are essentially paying for "flexibility" with someone's sanity.
+- [37] **Jonathan**: My findings are concerning. The same nine people are handling almost all the setup and locking up, and they are also our most frequent attendees. It seems a small core is carrying the entire club.
+- [38] **Shunichi**: It's exactly as I suspected. The moment we introduced door charges for the outings, the weekday turnout dropped by a third. People stopped feeling like the club was theirs; they started weighing the cost.
+- [39] **Takumi**: @Benjamin, that's exactly why we can't guess. The bank statements show people struggle to pay upfront, yet 70% of our costs are fixed. We're bleeding money on overheads while chasing payments. We need a guaranteed floor.
+- [40] **Asuka**: @Takumi, a guaranteed floor is necessary, but we must be careful. @Shunichi's point about the turnout drop proves that when costs become too visible or transactional, people withdraw. We need a system that covers overheads without feeling like a barrier.
+- [41] **Benjamin**: @Asuka, while I agree that psychological barriers matter, we cannot ignore the administrative toll. If we opt for a "low-barrier" transactional system, we are simply volunteering the next treasurer for a part-time job they didn't sign up for.
+- [42] **Jonathan**: @Benjamin, I understand the burden, but we must also address the imbalance of effort. If the same few people are doing all the work and attending most often, a flat fee feels like a subsidy for the inactive.
+- [43] **Shunichi**: @Jonathan, you're still treating this like a business transaction. If we penalize the inactive or reward the "core," we just solidify the divide. We need to make coming here a habit again, not a calculation.
+- [44] **Takumi**: @Jonathan, it's not about subsidies, it's about survival. If we don't cover those fixed costs, there is no club for anyone to attend. We need a structure that secures the money first.
+- [45] **Asuka**: @Takumi, survival is the goal, but not at the cost of the club's soul. If we make the fee too rigid, we lose the newcomers who keep us fresh. We need a way to cover overheads discreetly.
+- [46] **Benjamin**: @Asuka, "discreetly" is often a synonym for "administratively complex." If we try to hide the costs through a convoluted system, we are merely shifting the burden from the member's wallet to the treasurer's evening. Logic dictates we prioritize simplicity.
+- [47] **Jonathan**: @Benjamin, simplicity is a virtue, but not if it ignores the resentment building among those who do the heavy lifting. If we don't acknowledge the disparity in contribution, we risk losing the very core that keeps us running.
+- [48] **Shunichi**: @Jonathan, resentment is a choice. If you focus on who's "carrying" the club, you're just building a wall. We need to stop making members calculate the value of their attendance before they even leave the house.
+- [49] **Takumi**: @Shunichi, you're talking about walls, but the biggest wall is a bankrupt account. If we don't have a predictable income to cover that 70% fixed cost, the club closes. That's the only calculation that actually matters.
+- [50] **Asuka**: We are circling the same points. We need a solution that covers the fixed costs and reduces the treasurer's workload, but does so without making membership feel like a transaction or a surveillance exercise. Let's see the options.
+- [51] **Benjamin**: I concur. We have established that we need a balance between financial viability and administrative sanity. I look forward to seeing which of the options manages to be both fiscally responsible and merciful to the treasurer.
+- [52] **Jonathan**: I hope the options provide a way to recognize the commitment of our core members without creating the transactional barriers @Shunichi is worried about. Fairness and sustainability must go hand in hand.
+- [53] **Shunichi**: Let's just hope the options aren't as rigid as Takumi's mindset. If we treat this like a corporate audit, we'll have a perfectly balanced ledger and a completely empty room. Let's see the proposals.
+- [54] **Takumi**: @Shunichi, call it what you want, but a "corporate audit" is better than a bankrupt club. I'm not being rigid; I'm being realistic. Let's see the options and pick the one that actually secures our future.
+## Round 3
+- [60] **Asuka**: Option A is the most logical choice. It covers our fixed overheads immediately and removes the transactional friction that @Shunichi noted causes people to withdraw. Most importantly, it avoids the scrutiny of who is attending what.
+- [61] **Benjamin**: I must wholeheartedly agree with Asuka. Option A is the only choice that respects the treasurer's time. As the logs showed, chasing individual payments is a nightmare; a single annual collection is a mercy.
+- [62] **Jonathan**: While Option A is simple, it ignores the imbalance I found. A flat fee means those who do all the work and attend every meeting effectively subsidize those who barely appear. That isn't fair.
+- [63] **Shunichi**: @Jonathan, your obsession with "fairness" is becoming a liability. Option A removes the mental hurdle of "is this worth the cost?" every single week. If we want people back, we make attendance automatic, not a calculation.
+- [64] **Takumi**: @Jonathan, fairness doesn't matter if the bank account is empty. Option A is the only one that guarantees we cover those 70% fixed costs upfront. We can't gamble on activity-based fees when the rent is due.
+- [65] **Asuka**: @Jonathan, the "subsidy" you mention is actually the price of a welcoming environment. If we move to Option B or C, we create a hierarchy of membership that makes newcomers feel like outsiders until they "level up."
+- [66] **Benjamin**: @Jonathan, your pursuit of equity is creating a logistical labyrinth. Option B requires tracking tiers, and Option C is the very nightmare the previous treasurer spent six hours a month fighting. Logic suggests we choose the path of least resistance.
+- [67] **Jonathan**: @Benjamin, the path of least resistance often leads to resentment. If the core members feel exploited, they will eventually stop volunteering. We need a system that acknowledges their commitment, perhaps through the tiers in Option B.
+- [68] **Shunichi**: @Jonathan, you're imagining a rebellion that isn't happening. The real risk is a club of ghosts. Option B just adds more labels and more decisions. Let's stop overthinking and just make it easy to show up.
+- [69] **Takumi**: @Jonathan, the "core" members will be even more resentful if the club folds because we tried to be "fair" with a complex system. Option A is the only way to ensure the bills are paid.
+- [70] **Asuka**: @Jonathan, a system that labels members by their "level" of commitment is a system that monitors them. We must protect the privacy of our members' contributions and attendance to keep this place a sanctuary, not a ledger.
+- [71] **Benjamin**: @Jonathan, you are prioritizing a theoretical resentment over a documented burnout. We have evidence that session-based chasing is a grueling task. Why would we intentionally choose a system that guarantees the next treasurer's misery for the sake of "equity"?
+- [72] **Jonathan**: I am not prioritizing theory, but the reality of our rota. If the core nine people burn out because they feel taken for granted, the club fails regardless of the bank balance. Option B could offer a sustainable compromise.
+- [73] **Shunichi**: @Jonathan, you're treating a social club like a labor union. The "core" stays because they enjoy it, not because they're auditing their ROI. Option A is the only way to stop the hesitation and bring the atmosphere back.
+- [74] **Takumi**: @Jonathan, the core members are the ones who will suffer most if we can't pay the rent. Option A is the only way to stop the guesswork and secure the money we actually need. I'm voting for A.
+- [75] **Asuka**: Option A is the only choice that preserves the club's inclusive spirit while ensuring financial survival. It removes the barriers for newcomers and the burden on the treasurer. I vote for Option A.
+- [76] **Benjamin**: The evidence is overwhelming. Option C is a recipe for burnout, and Option B is an unnecessary complication. For the sake of the treasurer's sanity and the club's stability, I vote for Option A.
+- [77] **Jonathan**: I cannot ignore the imbalance of effort and attendance. While I value simplicity, a system that ignores the core members' contributions is unsustainable. For the sake of long-term fairness, I vote for Option B.
+- [78] **Shunichi**: @Jonathan, your "fairness" is just a fancy word for a barrier. We need to stop the calculations and start the habit of attending. For the sake of the atmosphere, I vote for Option A.
+- [79] **Takumi**: I've said it all. We can't run a club on "fairness" or "atmosphere" if we can't pay the bills. Option A is the only realistic way to secure our fixed costs. I vote for Option A.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> B
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

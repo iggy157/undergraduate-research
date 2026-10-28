@@ -1,0 +1,72 @@
+# shared_living_0014__multi-private (shared_living)
+
+## Round 1
+- [5] **Mizuki**: Since we need to decide on our destination, let's be thorough. I want to make sure we balance our budget and our comfort. What are everyone's priorities for this year's trip?
+- [6] **Shizue**: I agree, Mizuki. It is always lovely when we are all together. I think it would be wonderful to find a place where we can all relax comfortably without any stress.
+- [7] **Minato**: I want everyone to be happy! I'm curious about where we can go. Maybe we should check how we'll get there and where we will sleep?
+- [8] **Jonathan**: I agree with Minato. I think it would be helpful to understand the logistics of the journey and how the daily schedule might look. Let's make sure we don't overcomplicate the travel.
+- [9] **Midori**: I agree with everyone. I want us all to have a wonderful time together! To help us decide, I think it would be useful to look into the total costs and how we'll be staying.
+- [10] **Mizuki**: Since we're all on the same page about comfort and logistics, let's divide the research. I'll start by looking into "Time alone in the shared-house year" and "How last year's days ran" to help us plan better.
+- [11] **Shizue**: That sounds like a wonderful start, Mizuki. To help us keep things fair and clear for everyone, I would like to look into "All-in rates against meals bought separately" and "Pricing of offshore houses let whole."
+- [12] **Minato**: I want to know about the bathrooms and the meals! I'll look into "Bathing hours and bathroom provision" and "Inn mealtimes and room arrangements." I hope they are nice!
+- [13] **Jonathan**: I will look into "Ferry sailings and train time" and "Getting around by train and bus." I want to see if we can make the transit as seamless as possible this year.
+- [14] **Midori**: That sounds like a great plan! To make sure we have a clear picture of the budget, I'll look into "Valley inn rates versus urban beds" and "What separately booked rooms cost last time."
+- [15] **Mizuki**: It seems we have a comprehensive plan. By covering logistics, costs, and the layout of our stay, we should be able to make a logical choice that suits everyone. Does anyone feel we've missed anything crucial?
+- [16] **Shizue**: I believe we have covered everything quite well, dear. It is a relief to know we are looking into so many details together. I am looking forward to seeing what we find.
+- [17] **Minato**: I'm excited to see what we find! I hope the places we look at are cozy and that everyone will feel relaxed. I'll do my best to find out about the bathrooms and meals!
+- [18] **Jonathan**: I believe we have a solid approach. By understanding the travel times and the local transport, we can ensure the journey doesn't overshadow the destination itself. I'm content with this division of tasks.
+- [19] **Midori**: I'm happy with this division too. It feels like we're covering all the bases. I'll get started on my research so we can compare the costs and find the best balance for everyone!
+- [20] **Mizuki**: Then it's settled. Let's each gather our information and reconvene. I'm looking forward to seeing how our findings can help us create the most balanced and enjoyable experience for everyone this year.
+- [21] **Shizue**: I shall do the same. I hope the information I find helps us create a peaceful trip where everyone feels looked after. I will see you all soon, my dear friends.
+- [22] **Minato**: I'll go look into my things now! I hope the rooms are comfy and the mealtimes are nice for everyone. See you all soon!
+- [23] **Jonathan**: I will begin my research as well. I look forward to seeing how we can make this year's journey a peaceful one for all of us. See you soon.
+- [24] **Midori**: I'll get to work right away! I'm looking forward to seeing what we all discover. See you all soon, and I hope we find a wonderful place that works for everyone!
+## Round 2
+- [35] **Mizuki**: Based on my research, it seems our previous arrangements had extremes. Last year we were too fragmented, while the shared house left no room for personal space. We need a balance that keeps us together without feeling crowded.
+- [36] **Shizue**: That is a very thoughtful observation, Mizuki. It is so important that we all feel we have a little space to breathe while still enjoying each other's company. Balance truly is the key to a peaceful trip.
+- [37] **Minato**: I found out some things! The inns have set times for meals and we'd all sleep in one room on futons. But the island houses only have one bathroom and the water might get cold. Which one sounds better?
+- [38] **Jonathan**: @Minato, thank you for sharing. Sleeping in one room sounds quite cozy, though the bathroom situation on the island seems a bit precarious. I wonder if the convenience of the facilities outweighs the charm of the location.
+- [39] **Midori**: @Minato, thank you for the info! It sounds like a trade-off. I found that valley inns include meals in the price, whereas city beds are separate and can vary a lot. A single bill for a whole house might be simpler.
+- [40] **Mizuki**: @Midori, a single bill is efficient, but we must consider the environment. If we choose a town with a public bath and shops, we solve the bathroom issue @Minato mentioned and ensure everyone has a place to step away.
+- [41] **Shizue**: @Midori, a single bill for a house does sound very simple. However, I wonder if paying for meals separately might be kinder to those of us with smaller appetites, so no one feels they are paying for more than they need.
+- [42] **Minato**: I think a city room sounds nice because it has a door. But I'm worried about the island house if the water gets cold. I don't like it when the water is cold.
+- [43] **Jonathan**: @Minato, I understand your concern. Regarding the travel, the island requires a ferry that takes up two full days of our trip. In contrast, the city is very accessible by train. I believe a shorter journey would be more relaxing.
+- [44] **Midori**: @Jonathan, that's a very important point about the travel time. @Shizue, I understand your point about meals, but I'm worried that separate costs can become unpredictable. A fixed, all-in rate would let us know exactly what to expect.
+- [45] **Mizuki**: @Jonathan, the time saved on travel is a strong argument for the city. If we combine that with a location that offers both shared spaces and the ability to step away, we avoid the extremes of previous years.
+- [46] **Shizue**: @Midori, I understand your worry about unpredictability. However, if we choose a house let as a whole, the cost is fixed and fair for everyone, while we can still handle our meals individually to be mindful of each other.
+- [47] **Minato**: I like the idea of a city room because it has a door and no strict timetable. It sounds more relaxing than having to be at the table at a certain time. Does everyone else like that too?
+- [48] **Jonathan**: @Minato, I agree. A lack of a strict timetable and a shorter journey would allow us to truly unwind. The city seems to offer the most peace and the least amount of stress regarding our schedule.
+- [49] **Midori**: @Minato, @Jonathan, the city does sound very relaxing and flexible. @Shizue, if a whole house in the city is an option with a fixed price, that would be perfect. It gives us the predictability I'm hoping for!
+- [50] **Mizuki**: It seems we have reached a consensus. The city option provides the logistical ease Jonathan wants, the flexibility Minato prefers, and the budget predictability Midori seeks, all while ensuring the personal space I believe is necessary for our group's harmony.
+- [51] **Shizue**: It sounds as though we have found a wonderful solution that makes everyone happy. A city stay will be gentle on our time and our spirits. I am glad we could all be so considerate of one another.
+- [52] **Minato**: I'm so happy we all agree! A city room with a door and no strict times sounds very cozy and peaceful. I can't wait to go on this trip with everyone!
+- [53] **Jonathan**: I am glad we have found a path that prioritizes ease and tranquility. Minimizing the time spent in transit will allow us to return home feeling truly refreshed. I look forward to it.
+- [54] **Midori**: I'm so glad we've found a way to balance everything! A city stay sounds like a wonderful choice that respects everyone's needs. I'm really looking forward to a relaxing trip with all of you!
+## Round 3
+- [60] **Mizuki**: Looking at the options, Option C aligns best with our discussion. It provides the flexibility and personal space we need to avoid feeling crowded, while the city's accessibility ensures we don't waste time on travel.
+- [61] **Shizue**: I agree, Mizuki. Option C seems the most considerate of everyone's needs. It allows us to be together while giving each person the quiet space they might need to feel truly at peace.
+- [62] **Minato**: I think Option C is the best! It has the rooms with doors and no strict mealtimes that I like. It sounds like the most relaxing way for us to spend our time together.
+- [63] **Jonathan**: I agree. Option C is the most efficient choice. By avoiding the long ferry journeys and complex transit, we can maximize our actual holiday time and return home without feeling exhausted.
+- [64] **Midori**: I agree with everyone. While I was hoping for a single bill, the flexibility and ease of Option C seem to be what we all want most. I'm happy to go with the city break!
+- [65] **Mizuki**: Since we are all in agreement, it seems the decision is clear. Option C provides the ideal balance of togetherness and independence, ensuring that no one feels overwhelmed or isolated this year.
+- [66] **Shizue**: It is a joy to see us all in such harmony. Option C will allow us to care for one another while respecting our individual needs. I am very happy to cast my vote for the city.
+- [67] **Minato**: I'm really happy we all agree! I'll vote for Option C because it sounds the most peaceful and I won't have to worry about the cold water or strict times.
+- [68] **Jonathan**: I will also vote for Option C. It is the most sensible choice to ensure our time is spent enjoying the destination rather than the journey. It promises the tranquility I am seeking.
+- [69] **Midori**: I'll vote for Option C as well! Even though I prefer a fixed cost, the harmony of the group is more important. I'm looking forward to a wonderful city break with all of you!
+- [70] **Mizuki**: I'll cast my vote for Option C. It is the most logical choice to ensure we maintain a healthy balance of shared experiences and personal space, which is essential for our group's harmony.
+- [71] **Shizue**: I shall also cast my vote for Option C. It is a wonderful choice that ensures everyone feels comfortable and respected. I am looking forward to our time together in the city.
+- [72] **Minato**: I vote for Option C! I'm so glad we picked the one that's the most relaxing for everyone. I can't wait to go!
+- [73] **Jonathan**: I vote for Option C. It is the most considerate choice for our time and energy, ensuring we return home feeling rested rather than worn out by the travel.
+- [74] **Midori**: I vote for Option C! I'm so happy we've found a destination that makes everyone feel comfortable. I can't wait to explore the city and relax with all of you!
+- [75] **Mizuki**: It is rare that we reach such a unanimous decision so quickly. Option C is the most balanced choice for us all. I am confident this will be our most harmonious trip yet.
+- [76] **Shizue**: It truly is a blessing when we can all agree so kindly. I am certain that our city break will be filled with warmth and wonderful memories. I shall look forward to it with a happy heart.
+- [77] **Minato**: I'm just so happy we all get along! I'm going to dream about our city trip tonight. I can't wait to see you all there!
+- [80] **Midori**: I'm just so glad we could all find something that works for everyone. I'll start thinking of some lovely city cafes we can visit together!
+### Vote
+- Mizuki -> C
+- Shizue -> C
+- Minato -> C
+- Jonathan -> C
+- Midori -> C
+## Result
+- adopted: C

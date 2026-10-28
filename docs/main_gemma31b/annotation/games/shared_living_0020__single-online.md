@@ -1,0 +1,73 @@
+# shared_living_0020__single-online (shared_living)
+
+## Round 1
+- [5] **Minako**: Since our current habit isn't working, we need a sustainable plan. I'll look into the stopwatch timing of a full pass and what each housemate counts as done to get some clear facts.
+- [6] **Benjamin**: I think it's wise to start with data. I'll examine the absences on the wall calendar and a fortnight's watch on kitchen use to see how the actual burden is distributed.
+- [7] **Sakura**: I want to know why the rooms get messy! I'll check the bathroom grout after the July scrub and the rows recorded in the house chat to see what's happening.
+- [8] **Shizue**: I'll look into the bathroom spray stock and the tin's receipts, as well as the management office rate sheet and billing, just to see how we're managing our supplies.
+- [9] **Servas**: I believe the human element is most important here. I will look into the note left by the previous tenants and the standard terms of the outside firm.
+- [10] **Minako**: Does anyone else feel we should look into the house chat? Sakura is doing it, but I wonder if we need more perspectives on those disagreements to understand the friction.
+- [11] **Benjamin**: @Minako, I believe Sakura's findings will suffice for now. I'm more interested in whether the usage patterns align with our current efforts, which is why I'm focusing on the kitchen and calendar.
+- [12] **Sakura**: I can share everything I find! I'm just curious if the fights are always about the same things, or if it's just because the bathroom is scary.
+- [13] **Shizue**: It is very kind of you to offer, Sakura. I think it is important that we all remain gentle with one another while we figure this out.
+- [14] **Servas**: Indeed, Shizue. Harmony is the foundation of a home. I hope the previous tenants' notes provide a cautionary tale that helps us avoid similar pitfalls in our own journey.
+- [15] **Minako**: I agree. Since we have our lists, let's proceed to the research phase so we can make a decision based on evidence rather than assumptions.
+- [16] **Benjamin**: Precisely. I shall begin my observations immediately to ensure we have a concrete basis for our discussion in the next round.
+- [17] **Sakura**: Me too! I'm going to be a detective and find out all the secrets of the grout and the chat!
+- [18] **Shizue**: I will do my part as well. I hope the information I find helps us create a system that is fair and easy for everyone to follow.
+- [19] **Servas**: I shall do the same. Let us all approach this with an open heart and a patient mind, for the process is as important as the result.
+- [20] **Minako**: I think we have a solid plan. Let's all gather our findings and reconvene to discuss the options for the coming year.
+- [21] **Benjamin**: I concur. I look forward to seeing how our individual findings intersect to reveal the true nature of our domestic challenges.
+- [22] **Sakura**: I'm ready! I'll be the best detective ever and find all the clues!
+- [23] **Shizue**: I will be waiting for you all with a smile. Let us hope our findings lead us to a peaceful arrangement.
+- [24] **Servas**: Until then, let us maintain our kindness. I shall see you all soon with the wisdom I have gathered.
+## Round 2
+- [35] **Minako**: I've discovered that a full pass takes over an hour and a half in total, and our definitions of "done" vary wildly, which explains why the quality of cleaning is so inconsistent.
+- [36] **Benjamin**: My findings confirm a disparity; the calendar shows frequent absences, and the kitchen usage is heavily concentrated among only a few of us, yet the work is currently shared equally.
+- [37] **Sakura**: The bathroom grout gets black again in just eleven days, and the house chat shows that almost all our fights are just people reminding others to do their chores!
+- [38] **Shizue**: I found that we are spending about 2,300 yen a month on supplies, often buying duplicates, and the management office charges 4,200 yen an hour for a cleaner.
+- [39] **Servas**: I've learned that the previous tenants' permanent division led to them barely speaking, and an outside firm requires us to tidy up before they even arrive.
+- [40] **Minako**: @Benjamin, your point about usage is critical. If a few people cause most of the mess while others are away, a simple equal split feels unfair and inefficient.
+- [41] **Benjamin**: Exactly. It seems we are applying a symmetrical solution to an asymmetrical problem, which naturally breeds the resentment Sakura found in the chat logs.
+- [42] **Sakura**: Wait, so if the grout gets dirty so fast, does that mean we're cleaning for nothing? That sounds super frustrating!
+- [43] **Shizue**: It does seem a bit discouraging, Sakura, but perhaps we just need a more consistent way to handle it so no one feels they are working in vain.
+- [44] **Servas**: I worry that if we focus only on the efficiency of the work, we might forget the spirit of the home. We must choose a path that preserves our friendship.
+- [45] **Minako**: @Servas, I agree, but friendship is often strained by the very unfairness Benjamin mentioned. We need a system that acknowledges the actual time and effort required.
+- [46] **Benjamin**: Indeed. If we ignore the reality of who is using the space and who is actually present, we are merely scheduling future conflicts rather than solving them.
+- [47] **Sakura**: I just want to stop guessing if the kitchen is going to be gross! Can we pick something that makes it stay clean and stops the fighting?
+- [48] **Shizue**: I agree, Sakura. Perhaps if we have a clear way to handle the costs and the tasks, we can avoid those reminders that lead to disagreements.
+- [49] **Servas**: It is a delicate balance. We must ensure that the structure we choose does not become a wall between us, as it did for those who lived here before.
+- [50] **Minako**: We have a clear picture now: inconsistent standards, unfair usage, and a risk of social friction. Let's move to the options and see which one addresses these facts most effectively.
+- [51] **Benjamin**: I agree. We have the data; now we must apply logic to select the option that minimizes resentment and maximizes fairness for everyone involved.
+- [52] **Sakura**: I'm ready to see the options! I hope there's one that makes the bathroom stay sparkly and keeps everyone happy!
+- [53] **Shizue**: I am looking forward to it as well. Let us choose the path that allows us to continue supporting one another with kindness and a light heart.
+- [54] **Servas**: Let us proceed then, keeping in mind that the most efficient system is not always the most harmonious one. I am ready to consider our choices.
+## Round 3
+- [60] **Minako**: The options are a Fixed Weekly Rota, a Paid Cleaning Service, or Standing Assignments. Given the time commitment and inconsistent standards, a professional service seems the most objective.
+- [61] **Benjamin**: I must disagree; a paid service still requires us to tidy beforehand, and it doesn't address the imbalance of usage. A Fixed Weekly Rota would at least be logically transparent.
+- [62] **Sakura**: I don't like the Standing Assignments if it makes people stop talking to each other like the old tenants! I think a professional cleaner sounds like magic!
+- [63] **Shizue**: A professional service sounds lovely, but I worry about the cost and how we would handle the billing so that no one is left out of pocket.
+- [64] **Servas**: I share Shizue's concern for the financial harmony, but I fear Standing Assignments most of all. Let us avoid the path that led the previous tenants to silence.
+- [65] **Minako**: @Shizue, we could set up a shared fund or a strict monthly deadline for the invoice to ensure the billing is fair and transparent for everyone.
+- [66] **Benjamin**: @Minako, while a fund solves the payment, it doesn't solve the usage. A Fixed Weekly Rota is the only option that ensures everyone, regardless of their habits, contributes an equal amount of labor.
+- [67] **Sakura**: But a rota is just more reminding! If we have a professional cleaner, we won't have to fight about who forgot the bathroom or why the grout is black again!
+- [68] **Shizue**: That is a very good point, Sakura. If a professional handles the difficult parts, we can spend our time being kind to one another instead of worrying about the scrubbing.
+- [69] **Servas**: I agree with Sakura and Shizue. If we remove the source of the friction, we protect our bonds. A professional service seems the most likely to keep our hearts light and our home peaceful.
+- [70] **Minako**: @Benjamin, while a rota is transparent, it doesn't solve the problem of varying standards of "done." A professional service guarantees a consistent result, which removes the primary cause of our arguments.
+- [71] **Benjamin**: I see your point, but we must consider the cost. If we pay for a service, we are simply trading labor for money, which may create a different kind of financial resentment.
+- [72] **Sakura**: But money is easier than fighting! I'd rather pay a little bit than have to look at the scary bathroom or argue in the chat!
+- [73] **Shizue**: I agree with Sakura. If we are clear about the monthly cost from the start, I believe we can manage the payments without any trouble or hard feelings.
+- [74] **Servas**: It seems we have found a common ground. By investing a small amount of our resources, we are investing in the longevity of our friendship and the peace of our shared sanctuary.
+- [75] **Minako**: I believe the evidence points toward the Paid Cleaning Service as the most sustainable choice for our household's harmony and standards. I vote for Option B.
+- [76] **Benjamin**: While I still have reservations about the usage imbalance, the consensus on social harmony is compelling. I will prioritize the peace of the house. I vote for Option B.
+- [77] **Sakura**: I want the magic cleaner! I vote for Option B!
+- [78] **Shizue**: I agree that peace and kindness are the most important things. I vote for Option B.
+- [79] **Servas**: For the sake of our friendship and the tranquility of our home, I join you all. I vote for Option B.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Sakura -> B
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

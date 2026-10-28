@@ -1,0 +1,72 @@
+# candidate_selection_0005__single-online (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I'm so excited to get started! I think we should look at the bus links in the two outer wards and the winter road closures north of the river to see how people get to us.
+- [6] **Benjamin**: I agree that accessibility is key, though I'm curious about our history. I'll look into the two programmes begun six years ago and the attendance sheets from former outreach stops.
+- [7] **Shion**: I'll focus on the human element. I want to see the volunteer register and supervision training, as well as the neighbourhood associations and tool certification.
+- [8] **Minako**: I will examine the county grant terms and the endowment, along with the running and equipment lines from last year, to understand our financial sustainability.
+- [9] **Daisuke**: I... I think I'll look at the evening room bookings and remote catalogue use, and also the bus links in the two outer wards, if that's okay.
+- [10] **Yumi**: That sounds great, Daisuke! It'll be helpful to have two of us looking at the bus links to make sure we don't miss anything.
+- [11] **Benjamin**: It seems we have a comprehensive spread of interests. I'm quite satisfied with this distribution of research.
+- [13] **Minako**: I agree. We have covered the financial, historical, logistical, and personnel aspects. Let us proceed with these selections.
+- [14] **Daisuke**: Okay. I'll do my best to find something useful.
+- [15] **Yumi**: Is there anything else anyone wants to check before we finalize the list? I just want to make sure we're all happy!
+- [16] **Benjamin**: I believe we have a balanced approach. There is no need to overcomplicate the initial research phase.
+- [17] **Shion**: I'm satisfied. Let's just get to the data so we can stop talking in circles.
+- [18] **Minako**: I agree. We have a clear plan and a diverse set of priorities. Let us finalize these choices and move to the investigation.
+- [19] **Daisuke**: I agree. I'm ready to look into those things now.
+- [20] **Yumi**: Then it's settled! I can't wait to see what we find out. Let's go!
+- [21] **Benjamin**: Indeed. I look forward to seeing how the evidence aligns with our current assumptions.
+- [22] **Shion**: Let's just hope the records are actually organized for once.
+- [23] **Minako**: We shall see. Let us conclude this round and begin our research.
+- [24] **Daisuke**: I'll start looking into the records right away.
+## Round 2
+- [35] **Yumi**: It's worrying! I found out that two outer wards lost their bus links, so people there have to travel an hour just to reach us. And the road closures north of the river happened eleven days last winter.
+- [36] **Benjamin**: That is quite a revelation, Yumi. Interestingly, my research shows that former outreach stops in those outer wards actually drew more visitors per session than the main building does midweek.
+- [37] **Shion**: I found that we have retired tradespeople volunteering for repairs, but no one on the payroll is actually trained to supervise outside facilitators. Also, our power tool certification technician retired in spring.
+- [38] **Minako**: My findings show that the county grant only covers session fees for the first year, after which the operating budget takes over. Also, last year's vehicle running costs overran by a third.
+- [39] **Daisuke**: I also saw that the bus links are gone, like Yumi said. And... the evening room bookings are full, but people are using the catalogue from home long after we've locked up.
+- [40] **Yumi**: That's so sad that people are stuck at home! If the bus links are gone and the roads close, we really need to find a way to bring the library to them, don't you think?
+- [41] **Benjamin**: While the sentiment is noble, Yumi, we must consider the historical data. My research indicates that outreach was successful, but we should be cautious about repeating past failures.
+- [42] **Shion**: Exactly. If we don't have the staff to supervise specialized equipment or facilitators, some of these "noble" ideas will just be liabilities. We can't ignore the skill gap.
+- [43] **Minako**: We must also consider the financial structure. If the grant only covers the first year, we risk a budget shortfall in the second year, especially if vehicle costs continue to overrun.
+- [44] **Daisuke**: I... I agree with Minako. If we start something that costs too much to keep running, we might have to stop it just when people finally start relying on it.
+- [45] **Yumi**: But we can't just do nothing while people are cut off! @Benjamin, you said outreach worked before, so maybe we can find a way to make it sustainable this time?
+- [46] **Benjamin**: I am open to the possibility, Yumi, provided we analyze why the previous funding lapsed. We must ensure the model is logically sound before we commit.
+- [47] **Shion**: Regardless of the model, if we lack the certified staff to manage the service, it's a non-starter. We can't just wish expertise into existence.
+- [48] **Minako**: We must be pragmatic. If we choose a service that requires specialized certification or high vehicle maintenance, we need a funding plan that extends beyond the first year's grant.
+- [49] **Daisuke**: I wonder if something that doesn't require a vehicle or special certification would be safer, since people are already using the catalogue from home so much.
+- [50] **Yumi**: That's a good point, Daisuke! But if people are already using the catalogue from home, maybe we can give them even more tools to learn and grow without needing to travel?
+- [51] **Benjamin**: That is a logical pivot. If we can provide value remotely or through existing community structures, we avoid the logistical pitfalls Yumi and Daisuke highlighted.
+- [52] **Shion**: As long as it doesn't require us to hire a whole new team of specialists we can't afford or supervise, I'm on board with a more streamlined approach.
+- [53] **Minako**: I agree. We must prioritize a proposal that balances community need with our actual capacity for long-term financial and operational maintenance.
+- [54] **Daisuke**: I just hope we pick something that doesn't leave anyone behind, even if it's not the most ambitious plan.
+## Round 3
+- [60] **Yumi**: Now that we see the candidates, I really feel the Mobile Branch Service is the best way to help those people who lost their bus links!
+- [61] **Benjamin**: I must disagree, Yumi. Given the vehicle cost overruns Minako found and the road closures you mentioned, a mobile service seems logically precarious and financially risky.
+- [62] **Shion**: I agree with Benjamin. Between the lack of certified staff for specialized tools and the budget issues, the Maker Workshop is also out. The Digital Archive Portal seems the most stable.
+- [63] **Minako**: The Digital Archive Portal is a strong contender, but we must consider the Language Learning Circles. They utilize partner organizations, which might mitigate the supervision and budget risks Shion and I identified.
+- [64] **Daisuke**: I... I think the Language Learning Circles sound nice, but the Digital Archive Portal helps the people who are already using the catalogue from home, like I saw in the records.
+- [65] **Yumi**: But the Digital Archive is just for researchers! The Language Learning Circles could bring people together in their own neighborhoods, which is much more friendly and helpful for everyone.
+- [66] **Benjamin**: Actually, Yumi, my research into the programs from six years ago showed that partner-run evening groups were the only ones that survived unaided. That makes the Language Learning Circles a very compelling option.
+- [67] **Shion**: If they are run by partners, it solves my concern about the lack of internal supervision training. It's a far more realistic use of our current staff capacity than the other options.
+- [68] **Minako**: It also aligns with the grant structure. Since the partners handle the facilitation, the long-term operating budget is less likely to be strained than it would be by a vehicle or a workshop.
+- [69] **Daisuke**: I think I agree. If the partners help run them, it might be a way to reach people without worrying about the bus links or the budget failing later.
+- [70] **Yumi**: I'm so glad we're finding a way to help people! If the Language Learning Circles can happen in the neighborhoods, it's almost as good as a mobile library, right?
+- [71] **Benjamin**: Precisely. It leverages existing community infrastructure rather than attempting to build a fragile logistical chain of our own. It is the most rational choice given the evidence.
+- [72] **Shion**: It's the only option that doesn't create a new administrative nightmare for the staff. I'm convinced; the Language Learning Circles are the most viable path forward.
+- [73] **Minako**: I agree. It addresses the community's needs while remaining financially sustainable and operationally feasible. It is the most balanced choice for the long term.
+- [74] **Daisuke**: I'll vote for the Language Learning Circles too. It seems like the safest way to make sure we can actually keep the service going for everyone.
+- [75] **Yumi**: I'm so happy we all agree! I'll definitely vote for the Language Learning Circles to help our community grow together!
+- [76] **Benjamin**: It is a rare pleasure when logic and sentiment align so perfectly. I shall cast my vote for the Language Learning Circles.
+- [77] **Shion**: I'll vote for the Language Learning Circles as well. It's the only choice that doesn't ignore the reality of our staffing situation.
+- [78] **Minako**: I will also vote for the Language Learning Circles. It is the most sustainable and responsible choice for our system.
+- [79] **Daisuke**: I'll vote for the Language Learning Circles too. It's the best way to help people without risking the service.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

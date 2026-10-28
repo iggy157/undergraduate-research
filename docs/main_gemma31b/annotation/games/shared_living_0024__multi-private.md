@@ -1,0 +1,73 @@
+# shared_living_0024__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I'm so excited for our trip! I want to go somewhere really adventurous this year. Where should we go? Let's figure out the best place quickly!
+- [6] **Shunichi**: Slow down, Rin. Excitement is fine, but we need a plan that actually works. Let's look at the logistics first so we don't waste the whole trip just getting there.
+- [7] **Asuka**: I agree with Shunichi. We need a logical approach to avoid unnecessary stress. Before we decide on a destination, we should examine the costs and logistics to ensure the plan is sustainable for everyone.
+- [8] **Takumi**: Stop worrying so much about the "logistics" and just pick something cool! But fine, if we have to be boring, let's just get the facts and decide. I'm ready whenever you guys are.
+- [9] **Toshio**: It is better to be thorough now than to regret it later. Let's use the list to gather the necessary data before we commit to a specific location.
+- [10] **Rin**: I want to know exactly how much everything costs from the start! I'll look into "All-in rates against meals bought separately" and "Pricing of offshore houses let whole." That way, there are no surprises!
+- [11] **Shunichi**: Since we're already talking about efficiency, I'll handle the travel side. I'm looking into "Ferry sailings and train time" and "Getting around by train and bus." Let's see if we can actually minimize the transit waste.
+- [12] **Asuka**: To ensure we have a fair and transparent financial structure, I will look into "What separately booked rooms cost last time" and "All-in rates against meals bought separately." We need a clear baseline for expenses.
+- [13] **Takumi**: I'm not into the money stuff. I want to know how we're actually living. I'll check "Bathing hours and bathroom provision" and "Inn mealtimes and room arrangements." Let's make sure it's not a nightmare.
+- [14] **Toshio**: I will look into "Time alone in the shared-house year" and "How last year's days ran." I believe understanding our past patterns is essential for a successful trip this year.
+- [15] **Rin**: @Shunichi, @Asuka, @Takumi, @Toshio, we've all picked our things! I can't wait to see what we find. I hope we find a place that's super fun and doesn't cost a million dollars!
+- [16] **Shunichi**: @Rin, your optimism is exhausting. Let's just wait for the data. Once we see the travel times and costs, the "fun" part will be much easier to manage without it becoming a disaster.
+- [17] **Asuka**: @Shunichi, I agree. Data is the only way to avoid ambiguity. Once we have the figures, we can establish a clear payment structure so that no one is unfairly burdened by the costs.
+- [18] **Takumi**: @Asuka, you're talking like a textbook again. Who cares about "payment structures"? I just want to make sure we aren't crammed into some tiny room with a weird schedule. Let's just get this over with.
+- [19] **Toshio**: @Takumi, comfort is important, but the atmosphere is what truly defines the experience. Let us see what the data reveals and then we can decide on a destination that suits everyone.
+- [20] **Rin**: I'm just so ready! Let's get the answers and pick the coolest place ever! I'll be waiting for the results with my fingers crossed for something amazing!
+- [22] **Shunichi**: I'm already over the anticipation. Let's just get the information and move to the decision phase. I'll be waiting to see if the travel options are actually reasonable this year.
+- [24] **Asuka**: I am also ready to move forward. Once the information is available, we can analyze it objectively to ensure the final choice is both practical and equitable for everyone.
+- [26] **Takumi**: Whatever. Just make sure the place isn't some dump with a strict curfew. I'm done talking for now.
+- [28] **Toshio**: I agree. Let us wait for the results. I will analyze the patterns from our previous trips to ensure we find a balance that works for all of us this time.
+## Round 2
+- [40] **Rin**: Wow! I found out that renting a whole house on an island is about 5,400 yen per person per night! But the all-in meal rates might be unfair since everyone pays the same regardless of how much they eat.
+- [41] **Shunichi**: @Rin, typical. You're already worrying about the food. I'm more concerned that the ferry options are a nightmare; we'd waste two full days just traveling. That's exactly the kind of inefficiency I wanted to avoid.
+- [42] **Asuka**: @Rin, you're right about the meals. My research shows that all-in rates can be inequitable. Furthermore, renting a whole building is far more transparent, as it avoids the price discrepancies we saw with separate room bookings last time.
+- [43] **Takumi**: @Shunichi, if the ferry is that bad, forget the island. And @Rin, the houses sound like a dump—one bathroom for everyone and cold water? No way. I'm not dealing with that.
+- [44] **Toshio**: It seems we are facing a conflict between cost and convenience. However, we should also consider the social dynamic. A secluded house might seem ideal, but it can lead to feeling trapped or, conversely, too disconnected.
+- [45] **Rin**: @Takumi, you're so grumpy! Who said they were dumps? I think an island house sounds like a huge adventure! Plus, if we pay for the house and food separately, we'll know exactly what we're spending!
+- [46] **Shunichi**: @Rin, "adventure" is just a fancy word for wasting time. If we lose two days to a ferry, we're not on a holiday; we're on a commute. Let's look at the city or the valley instead.
+- [47] **Asuka**: @Shunichi, I agree that efficiency is key. However, we must prioritize a payment method that is fair. A whole-house rental is the most logical choice to avoid the price gaps we experienced last time.
+- [48] **Takumi**: @Asuka, I don't care about the "logical choice" if it means we're all sleeping on futons in one room. That's a nightmare. I want a place with actual doors and no strict schedules for when we have to eat.
+- [49] **Toshio**: @Takumi, your desire for privacy is valid. Based on past patterns, being confined to a single space without an escape can be suffocating. A town setting would allow us to be together while providing necessary breathing room.
+- [50] **Rin**: @Toshio, @Shunichi, but a town is boring! Let's find a way to make the island work! If we just plan the ferry better, we can still have our adventure and a clear price!
+- [51] **Shunichi**: @Rin, planning the ferry "better" doesn't change the schedule. The last boat leaves at 16:20; we'd be prisoners to a clock. I'm not spending my limited time off waiting in a terminal. Let's be rational and pick the city.
+- [52] **Asuka**: @Shunichi, if the city offers better transit and separate room options that are priced consistently, it is a viable alternative. However, we must ensure the booking method doesn't lead to the same financial discrepancies as last year.
+- [53] **Takumi**: @Asuka, just stop with the money talk! @Shunichi is right about the ferry, and I'm not sharing one bathroom with all of you. The city is the only way we get actual rooms and our own space.
+- [54] **Toshio**: @Rin, adventure is valuable, but not at the cost of our well-being. If we are too isolated, we risk the same disconnect we felt last year. A city or town provides the balance we need.
+- [55] **Rin**: @Shunichi, @Takumi, you're both being so mean to the island! But if you're really that worried about the boat and the bathrooms, I guess the city is okay. As long as we know the total cost first!
+- [56] **Shunichi**: @Rin, finally, a moment of reason. The city is the only option that doesn't treat our time like a disposable resource. Let's stop debating and just lock it in before someone changes their mind.
+- [57] **Asuka**: If we choose the city, we must agree on a fixed booking method. I will not accept a repeat of last year's price gaps. We should use a single booking or a strict price cap.
+- [58] **Takumi**: @Asuka, just book it however you want as long as I get a room with a door. I'm done with this. City it is. Let's just vote and finish this.
+- [59] **Toshio**: It seems we have reached a consensus. The city provides the necessary infrastructure to avoid the isolation of a house and the inefficiency of the ferry. I agree that the city is the most balanced choice for us.
+## Round 3
+- [65] **Rin**: I still think the island would be the most exciting, but I don't want everyone to be grumpy! If the city means we can figure out the total cost clearly, I'm okay with that!
+- [66] **Shunichi**: @Rin, your willingness to compromise is a miracle. The city is the only rational choice here; it saves us from the ferry nightmare and gives us actual freedom. I'm voting for the city.
+- [67] **Asuka**: @Shunichi, I agree. While the island house offered a single bill, the city break is the most practical given the group's constraints. As long as we standardize the room costs, I vote for the city.
+- [68] **Takumi**: @Asuka, just stop talking about the bills! I'm voting for the city because I'm not sharing a room with everyone or dealing with a strict dinner schedule. It's the only way this trip won't be a disaster.
+- [69] **Toshio**: The city break offers the most flexibility. It prevents the suffocating feeling of a shared house while avoiding the total fragmentation we experienced last year. For the sake of our group's balance, I vote for the city.
+- [70] **Rin**: Wait, if we go to the city, does that mean we each pay for our own things? I just want to make sure I know the total price before we go! I'll vote for the city!
+- [71] **Shunichi**: @Rin, yes, that's the point of a city break. You manage your own budget, and we avoid the "all-in" traps. It's the most efficient way to handle this. My vote remains the city.
+- [72] **Asuka**: @Rin, that is exactly why it is the most equitable option. By managing our own expenses, we eliminate the risk of anyone subsidizing another's costs. I vote for the city.
+- [73] **Takumi**: @Rin, just let Asuka handle the math if you're that worried. I'm just glad we're not stuck in some inn with a 6 PM dinner bell. I'm voting for the city.
+- [74] **Toshio**: @Takumi, @Asuka, the city's structure allows us to be together by choice rather than by obligation. It provides the necessary space to prevent friction. My vote is firmly for the city.
+- [75] **Rin**: @Takumi, I can't just let Asuka do the math, I want to know myself! But since everyone else is so sure, I'm happy to go with the group. City it is! I'm voting for the city!
+- [76] **Shunichi**: @Rin, your obsession with the math is almost as tiring as your love for "adventure." But since we've finally reached a consensus without a total meltdown, I'm satisfied. City it is. My vote is C.
+- [77] **Asuka**: The consensus is clear and the logic is sound. By choosing the city, we prioritize both efficiency and financial fairness. I vote for Option C.
+- [78] **Takumi**: I'm just glad we're finally done arguing. No shared bathrooms, no strict schedules, and no futons. I'm voting for Option C. Let's just get this booked.
+- [79] **Toshio**: @Rin, @Shunichi, @Asuka, @Takumi, it is rare that we agree so quickly. The city provides the ideal balance of togetherness and independence. I vote for Option C.
+- [80] **Rin**: Yay! We all agree! I'm voting for Option C! I can't wait to see the city and find some cool shops, as long as we keep a list of the costs!
+- [81] **Shunichi**: @Rin, just keep your list and leave us in peace. I'm voting for Option C. Let's just make sure the booking is handled quickly so we can actually relax.
+- [82] **Asuka**: I agree. To ensure the financial transparency I've emphasized, we should finalize the booking details immediately. I vote for Option C.
+- [83] **Takumi**: Whatever. I'm voting for Option C. Just make sure we actually get those separate rooms and I'm happy. Let's just finish this already.
+- [84] **Toshio**: The decision is unanimous. Option C provides the necessary space to ensure we remain a cohesive group without feeling crowded. I vote for Option C.
+### Vote
+- Rin -> C
+- Shunichi -> C
+- Asuka -> C
+- Takumi -> C
+- Toshio -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. It is a pleasure to be here with you all. I believe we should look for a proposal that is stable and reliable for everyone, regardless of the circumstances. What do you all think?
+- [6] **Jonathan**: I agree, Shizue. Stability is key, but we must also ensure that the expansion doesn't inadvertently create new barriers. We should consider how physical location and timing affect who can actually access these services.
+- [7] **Rin**: I think we should check if we've tried these ideas before! Why guess if we can just look at what happened last time? We shouldn't just pick what sounds cool right now.
+- [8] **Benjamin**: I quite agree with Rin. It would be a pity to repeat past mistakes with such enthusiasm. I am also curious about the structural nature of our funding to ensure this expansion doesn't wither by year two.
+- [9] **Minako**: I agree with all of you. However, we must also ensure that the staff have the actual skills and capacity to manage these new services without becoming overwhelmed. We need a realistic assessment of our human resources.
+- [10] **Shizue**: Those are all very thoughtful points. To make sure we don't rely too heavily on things we cannot control, perhaps we should look into the winter road closures north of the river and the bus links in the outer wards?
+- [11] **Jonathan**: Those are excellent suggestions, Shizue. To build on that, I would like to examine the bus links in the two outer wards and the evening room bookings and remote catalogue use to understand current access patterns.
+- [12] **Rin**: I want to see the attendance sheets from former outreach stops and those two programmes begun six years ago! Let's see what actually worked before we decide on something new.
+- [13] **Benjamin**: A prudent approach, Rin. To complement that, I shall examine the county grant terms and the endowment, as well as the running and equipment lines from last year. Let us see where the money actually goes.
+- [14] **Minako**: I will look into the volunteer register and supervision training, as well as the neighbourhood associations and tool certification. We must verify if the necessary expertise exists before committing staff to new tasks.
+- [15] **Shizue**: It seems we have a very comprehensive plan. I am glad we are all considering the practical side of things. I feel much more comfortable knowing we are looking at the details together.
+- [16] **Jonathan**: It is a relief to see such a balanced approach. By examining both the financial constraints and the physical accessibility, we can ensure the chosen service truly serves the whole community.
+- [17] **Rin**: I'm just excited to see what's hidden in the old files! It's like a treasure hunt for ideas. I bet we'll find something awesome that everyone just forgot about!
+- [18] **Benjamin**: Indeed, Rin. Though I suspect the "treasure" may be more of a cautionary tale than a hidden gem. Still, a bit of archival detective work is far better than blind optimism.
+- [19] **Minako**: I believe we have covered the essential bases. By combining our findings on funding, accessibility, and personnel, we can make a decision based on evidence rather than assumptions. I look forward to seeing the results.
+- [20] **Shizue**: I agree. Let us proceed with these choices. I hope the information we find helps us create something that will bring joy and stability to our community for many years to come.
+- [21] **Jonathan**: I concur. I look forward to seeing how these different pieces of information fit together to help us reach a fair and inclusive decision for everyone.
+- [22] **Rin**: Me too! I'm going to find the best clues ever! Let's get started so we can see what the records say!
+- [23] **Benjamin**: Very well. I shall dive into the ledgers and grant terms. I look forward to discovering whether our financial foundations are as solid as we hope, or merely a clever illusion.
+- [24] **Minako**: I will begin my research into the volunteer and certification records. It is vital that we do not overextend our team without a clear plan for who will actually execute the work.
+## Round 2
+- [35] **Shizue**: It seems we have some challenges. I found that bus links in the outer wards were lost, and winter road closures happened eleven times. We must be careful not to rely on transport we cannot control.
+- [36] **Jonathan**: That is a worrying discovery, Shizue. I also found that those outer wards lost their bus links, leaving residents with an hour's trip. It seems our physical reach is more limited than we assumed.
+- [37] **Rin**: Look! The old records are super useful! Outreach stops in the outer wards were actually way more popular than the main building midweek. We should definitely do something that goes to the people!
+- [38] **Benjamin**: It is a fascinating paradox, Rin. While the demand is high, the logistics are precarious. My findings suggest a financial trap: grants cover initial fees, but the long-term burden falls on a flat budget that often struggles.
+- [39] **Minako**: My findings are equally concerning. We have skilled volunteers, but no staff members trained to supervise them. Furthermore, we have lost our internal capacity for tool certification. We cannot launch a technical service if no one is qualified to oversee it.
+- [40] **Shizue**: It is a bit sad to think of our neighbors feeling isolated. If the buses are gone and roads close, we should avoid any plan that requires people to travel to us or depends on county transport.
+- [41] **Jonathan**: I agree, Shizue. Furthermore, the high remote catalogue use late at night suggests a strong demand for services that doesn't align with our current operating hours. We need a solution that transcends these physical and temporal barriers.
+- [42] **Rin**: But if we go to them, the roads don't matter as much! Also, I found that some partner-run groups from six years ago are still going strong without any help. We should use models that already work!
+- [43] **Benjamin**: @Rin, while partner-run models are charming, we must be wary of "hidden" costs. My review of last year's ledger shows vehicle expenses overran by a third. Mobile services may be popular, but they are fiscally volatile.
+- [44] **Minako**: @Benjamin, that volatility is exactly why we must be cautious. If we rely on external partners or volunteers to avoid costs, we still need qualified staff to manage the risk and compliance. We cannot simply outsource responsibility.
+- [45] **Shizue**: I understand your concerns, Minako. It sounds like we need a path that is gentle on our staff and doesn't leave our neighbors stranded when the weather turns or the buses stop. Stability is so important.
+- [46] **Jonathan**: @Shizue, exactly. If we can find a way to provide services that doesn't depend on a physical commute or a strict nine-to-five schedule, we can bridge the gap for those in the outer wards and the night owls.
+- [47] **Rin**: But we can't just ignore the records! The partner groups are still meeting because they're self-sufficient. Why not find a proposal that lets the community lead, like those old groups did? It saves money and staff!
+- [48] **Benjamin**: @Rin, self-sufficiency is a lovely ideal, but the library's role is to provide a reliable standard. If we rely on luck and goodwill, we risk a service that is inconsistent and financially unpredictable.
+- [49] **Minako**: @Rin, self-sufficiency is not a strategy. If the library sponsors a service, we are responsible for its safety and quality. Without trained supervisors on our roster, a community-led model is a liability, not a saving.
+- [50] **Shizue**: It seems we are all very worried about different things, but we all want the best for our neighbors. Perhaps we can find a middle ground that is both safe for our staff and reliable for the people.
+- [51] **Jonathan**: I believe the middle ground lies in a service that minimizes the need for travel and strict staffing hours. We must prioritize a proposal that reaches the isolated and the underserved without overextending our resources.
+- [52] **Rin**: I just want us to remember that the records show people *want* the services! If we only worry about the risks, we'll never try anything. Let's find a way to make the successful old ideas work again!
+- [53] **Benjamin**: @Rin, passion is a wonderful catalyst, but it is a poor accountant. We must ensure that our desire to serve does not lead us into a financial cul-de-sac by the second year. Logic must temper our enthusiasm.
+- [54] **Minako**: Logic is indeed necessary. We must be honest about our current limitations. If we choose a proposal that requires technical oversight or specialized supervision we cannot provide, we are setting our staff up for failure.
+## Round 3
+- [60] **Shizue**: Looking at our options, I worry that the Mobile Branch might be too fragile given the road closures and bus issues. I feel the Digital Archive Portal would be a lovely, stable way to reach everyone.
+- [61] **Jonathan**: I agree with Shizue. The Digital Archive Portal removes the barriers of transport and operating hours entirely. It serves those in the outer wards and the late-night users without requiring a physical commute or additional staffing.
+- [62] **Rin**: Wait! The records showed that a digitisation project failed six years ago because half the images weren't indexed! If we do the Digital Archive Portal, we'll just make the same mistake again. Let's try the Language Learning Circles!
+- [63] **Benjamin**: @Rin, your archival instincts are quite timely. If the portal is prone to failure, it is hardly a stable investment. However, the Language Learning Circles rely on partner organizations, which brings us back to the issue of long-term funding.
+- [64] **Minako**: @Rin, the Language Learning Circles also present a risk. If we rely on partners, we still need staff to coordinate and supervise them. Given our lack of supervision training, this could easily overwhelm our current team.
+- [65] **Shizue**: It is a bit worrying to hear that the portal had troubles before. I want us to choose something that won't let people down. Perhaps the Language Circles could be a gentle way to connect?
+- [66] **Jonathan**: @Shizue, while the circles are gentle, they still require people to travel to a physical location. Given the lost bus links, many in the outer wards would still be excluded from participating.
+- [67] **Rin**: But the records showed that partner-run groups are the ones that actually last! If we set up the Language Learning Circles like those old groups, they can meet wherever people already are!
+- [68] **Benjamin**: @Rin, while the spirit of those groups is admirable, the financial structure is the concern. If the county grant only covers the first year, we are merely delaying an inevitable budget crisis. We need a sustainable model.
+- [69] **Minako**: @Benjamin, I agree. Furthermore, the Maker Workshop is out of the question; we have no one to certify the tools or supervise the technical risks. We must avoid any option that creates an unmanageable burden on our staff.
+- [70] **Shizue**: I see. If the workshop is too risky and the portal is unreliable, we are left with a difficult choice. I still worry that the mobile service is too dependent on the weather and roads.
+- [71] **Jonathan**: @Shizue, you are right about the roads. However, if we reject the portal and the mobile service, we risk ignoring those who cannot travel. Perhaps the Digital Archive is still viable if we improve the indexing process?
+- [72] **Rin**: No way! We can't just "hope" the indexing is better this time. The records show it's a trap! Let's go with the Language Learning Circles; they're like the groups that are still meeting!
+- [73] **Benjamin**: @Rin, your faith in the past is touching, but we must be pragmatic. The Language Circles risk a funding cliff in year two and a supervision crisis for Minako's staff. The Digital Archive, despite its history, is a capital investment.
+- [74] **Minako**: @Benjamin, a capital investment is only sustainable if the staff can maintain it. If the portal failed due to poor indexing, it means the workload was mismanaged. We must not choose a project that simply adds more unmanaged labor to our roster.
+- [75] **Shizue**: It seems we are all very concerned. Since the mobile service and workshop are too risky, and the circles are unstable, perhaps the Digital Archive is best if we are careful. I will vote for that.
+- [76] **Jonathan**: I agree with Shizue. Despite the past failures Rin mentioned, it is the only option that truly solves the accessibility crisis for the outer wards and night users without creating a logistical or staffing nightmare. I vote for the Digital Archive Portal.
+- [77] **Rin**: I can't believe you're ignoring the warning! The records are there for a reason! I'm voting for the Language Learning Circles because they're the only ones that actually work in the real world. I vote for Option C!
+- [78] **Benjamin**: The Language Circles are a fiscal mirage, and the Mobile Branch is a logistical gamble. The Digital Archive, while historically flawed, utilizes the endowment for capital costs, avoiding the year-two budget cliff. I vote for Option D.
+- [79] **Minako**: The Digital Archive Portal is the most realistic choice. While the previous failure is a warning, it is far less risky than a workshop we cannot certify or circles we cannot supervise. I vote for Option D.
+### Vote
+- Shizue -> D
+- Jonathan -> D
+- Rin -> C
+- Benjamin -> D
+- Minako -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# shared_living_0019__multi-private (shared_living)
+
+## Round 1
+- [5] **George**: Hello everyone. I think it's time we sorted this out calmly. To start, I'd like to look into what two other car-sharing households said and the hours of use recorded in the diary.
+- [6] **Toshio**: I agree we need a calm approach. I would like to look into the hours of use recorded in the diary and the month's trial of recording every run.
+- [7] **Victoria**: I think it's important to understand the actual condition of the vehicle. I'll look into the state of the car at handover and the mechanic's remarks at the last service.
+- [8] **Misaki**: I want to understand the actual costs involved. I'll look into last year's tax, insurance and parking papers, as well as last year's fuel receipts.
+- [9] **Minato**: I want to know how we've been paying for things. I'll look into last year's fuel receipts and the spell of checking each other's figures, please.
+- [10] **George**: It seems we have a good spread of information being gathered. I'm interested to see if the experiences of other households can help us avoid the common pitfalls of these arrangements.
+- [11] **Toshio**: Indeed. I believe focusing on the actual time spent and the frequency of runs will reveal the hidden costs of our current system. It is better to have hard data before we decide.
+- [12] **Victoria**: I agree that data is useful, but numbers don't always reflect the daily reality of using the car. I'm hoping the mechanic's notes will reveal if the vehicle's condition is being neglected.
+- [13] **Misaki**: Numbers are the only way to ensure fairness. If we want to avoid one person subsidizing another, we need to see exactly where the money has gone.
+- [14] **Minato**: I agree with Misaki. I just want us all to be honest and clear about the money so nobody feels sad or treated unfairly. I think that would make everyone feel much better.
+- [15] **George**: I agree that fairness is key, but let's not forget the human element. While the figures are important, the way we interact while sharing this resource is just as vital for our long-term harmony.
+- [16] **Toshio**: Harmony is a fine goal, George, but it is often the result of a system that works efficiently. If the process is cumbersome, friction is inevitable regardless of our intentions.
+- [17] **Victoria**: Efficiency is important, Toshio, but a system that works on paper can still fail in practice. If the car isn't ready when needed, the most efficient payment plan won't solve the frustration.
+- [18] **Misaki**: Regardless of the system's efficiency or the car's condition, the financial burden must be balanced. If we ignore the actual costs, we are just guessing who is paying for whom.
+- [19] **Minato**: I think everyone is saying something important. I just hope that by looking at the papers, we can find a way to be fair and keep everyone smiling.
+- [20] **George**: I believe we have covered the main points for now. Let us proceed with looking into these items and see what the findings reveal. I look forward to hearing your thoughts in the next round.
+- [21] **Toshio**: I agree. Let us gather the facts first. I will wait to see how the data aligns with our current experiences before suggesting a path forward.
+- [22] **Victoria**: I agree. Let's see what the records show. I hope we can find a solution that addresses both the financial side and the practical, daily experience of using the car.
+- [23] **Misaki**: I agree. Let's see the results. I hope the financial records provide the clarity we need to establish a truly equitable split.
+- [24] **Minato**: I agree too. I'm a little nervous, but I'm excited to learn how it all works. I hope we can all be happy with what we find!
+## Round 2
+- [35] **George**: It appears that usage is quite uneven, especially on weekends and holidays. More interestingly, other households found that constant favor-asking and clinging to turns caused the most friction. We must avoid creating a system that breeds resentment.
+- [36] **Toshio**: The data confirms my suspicions. Recording every run took nearly an hour a week, and the diary shows extreme usage gaps between weekdays and weekends. The administrative burden is becoming a cost in itself.
+- [37] **Victoria**: The mechanic noted that short, cold runs are damaging the brakes and battery. More concerningly, the car has been left with the fuel light on and rubbish inside. The physical state of the car is being neglected.
+- [38] **Misaki**: The financial records are equally concerning. Fixed costs are over 280,000 yen, and fuel payments are completely lopsided. Two people are paying for most of the fuel, while another barely contributes at all.
+- [39] **Minato**: I saw the fuel receipts too, and it's true that some people paid much more than others. But when we tried checking the figures before, everyone got upset. I don't want anyone to feel accused or sad.
+- [40] **George**: @Minato, I understand your concern, but ignoring the imbalance only creates a different kind of sadness. We must address the fuel and the usage gaps without making it a personal attack on anyone.
+- [41] **Toshio**: @George, I agree. However, we must also address the time cost. If we implement a strict financial system to fix the imbalance, we risk increasing the administrative burden that already consumes hours of our time.
+- [42] **Victoria**: @Toshio, I understand the time cost, but we cannot ignore the physical cost. If we only focus on money and time, we overlook the fact that the car is being mistreated and left unprepared for the next person.
+- [43] **Misaki**: @Victoria, the physical neglect is a symptom of the same problem. When people don't feel a shared financial responsibility, they stop caring for the asset. We need a system where costs and care are equally distributed.
+- [44] **Minato**: I think Misaki is right that we should all care for the car together. But I'm still worried about the fighting. Can we find a way to be fair without making anyone feel like they did something wrong?
+- [45] **George**: Perhaps we can focus on the future rather than the past. Instead of blaming individuals for previous fuel costs or neglect, let's design a system that makes the right behavior the easiest path for everyone.
+- [46] **Toshio**: @George, that is a logical approach. However, the "easiest path" must not be a complex tracking system. We cannot afford to spend an hour a week on administration just to achieve a sense of fairness.
+- [47] **Victoria**: @Toshio, I agree that complexity is a burden, but the "easiest path" must include a basic standard of care. A simple rule about fuel levels and cleanliness would cost no time but save us all significant stress.
+- [48] **Misaki**: @Victoria, I agree. But a rule is only effective if there is a financial incentive to follow it. We must decide if we split costs equally or based on usage to ensure no one is subsidizing others.
+- [49] **Minato**: I think it would be nice if we could all just agree to help each other. Maybe we can find a way to share the costs that feels like a team effort instead of a test?
+- [50] **George**: @Minato, a team effort requires a clear framework to prevent the very friction we've seen in other households. Let's aim for a balance: a simple cost-sharing rule and a basic standard of care, without over-complicating the administration.
+- [51] **Toshio**: I agree. The goal should be a system that minimizes both financial imbalance and administrative waste. If we can automate or simplify the tracking, we can avoid the exhaustion of constant recalculation and coordination.
+- [52] **Victoria**: I agree. However, let's ensure that "simplification" doesn't mean ignoring the car's condition. A system that only tracks money but ignores a dead battery or an empty tank is not a system that actually works.
+- [53] **Misaki**: I agree. However, we must be honest about the numbers. A simple system is only fair if it accounts for the 280,000 yen in fixed costs and the fuel imbalance we've discovered. We cannot ignore the math.
+- [54] **Minato**: I understand the math is important, but I hope we can be gentle with each other. Let's pick a way to pay that makes everyone feel happy and keeps us all as friends.
+## Round 3
+- [60] **George**: Looking at our findings, Option B seems the most stable. It removes the need for constant favor-asking and complex tracking, which we know can sour relationships, while providing a predictable structure for everyone.
+- [61] **Toshio**: I agree with George. Option B is the only choice that eliminates the administrative burden. By removing the need to record every run and calculate distances, we reclaim the time we've been wasting on coordination.
+- [62] **Victoria**: Option B provides predictability, but it doesn't guarantee the car's condition. If we have fixed days, we must strictly agree that the car is returned clean and fueled for the next person's day.
+- [63] **Misaki**: Option B is too simplistic. A fixed monthly share ignores the actual usage gaps and fuel imbalances we found. It risks continuing the same subsidies we are trying to eliminate. I prefer Option A.
+- [64] **Minato**: Option A sounds like it's very fair because it uses the real numbers, but I'm scared it might make us fight again like when we checked the figures. Maybe Option B is kinder?
+- [65] **George**: @Misaki, while Option A is mathematically precise, the "precision" often leads to the very friction we want to avoid. Option B replaces constant negotiation with a clear, independent boundary, which is far healthier for our group's harmony.
+- [66] **Toshio**: @Misaki, precision is useless if the cost of achieving it is an hour of our lives every week. Option A is simply a return to the administrative exhaustion we just identified as a problem. Option B is the only efficient choice.
+- [67] **Victoria**: @Toshio, efficiency is a priority, but predictability is only useful if the car is actually usable. If we choose Option B, we must establish a mandatory handover checklist to ensure the car isn't left empty or dirty.
+- [68] **Misaki**: @George, @Toshio, harmony and efficiency are not excuses to ignore financial unfairness. Option B just hides the subsidy. If we want a truly equitable split, we must track usage. I still believe Option A is the only fair way.
+- [69] **Minato**: @Misaki, I understand you want it to be fair. But if we track everything, will we start arguing about small things again? I think Option B is simpler and might keep us all smiling more.
+- [70] **George**: @Misaki, the most "fair" system on paper is often the most stressful in practice. If we prioritize the math over our relationships, we risk the same breakdown other households experienced. Option B offers the peace of mind we need.
+- [71] **Toshio**: @Misaki, you are prioritizing a mathematical ideal over our actual time and mental energy. Option A is a recipe for burnout and resentment. Option B is the only logical way to stop the endless cycle of calculation and coordination.
+- [72] **Victoria**: @Misaki, I understand your desire for equity, but a system that causes constant friction is not sustainable. If we can pair Option B with a strict standard of care, it solves both the administrative and the physical issues.
+- [73] **Misaki**: @Victoria, a standard of care is necessary, but it doesn't solve the financial gap. If we choose Option B, those who use the car less will simply continue to subsidize those who use it more. That isn't harmony; it's just silence.
+- [74] **Minato**: @Misaki, I don't want anyone to feel like they are paying too much. But I'm really worried that if we keep counting every little thing, we'll stop being happy together. Maybe Option B is a good compromise?
+- [75] **George**: @Misaki, silence is not the goal, but stability is. Option B gives us independence and removes the friction of constant requests. I believe it is the best way to preserve our friendship. I vote for Option B.
+- [76] **Toshio**: @Misaki, the cost of your "fairness" is our collective time and peace of mind. I cannot support a system that demands an hour of administration every week. For the sake of efficiency, I vote for Option B.
+- [77] **Victoria**: @Misaki, I value fairness, but a system that creates constant tension is not a solution. If we commit to a standard of care, Option B provides the stability I need. I vote for Option B.
+- [78] **Misaki**: I cannot agree to a system that ignores the actual costs. True harmony comes from transparency and equity, not from ignoring the imbalance. To avoid unfair subsidies, I vote for Option A.
+- [79] **Minato**: I want everyone to be happy and for us to stay friends. Since almost everyone likes Option B and it seems much more peaceful, I will vote for Option B too.
+### Vote
+- George -> B
+- Toshio -> B
+- Victoria -> B
+- Misaki -> A
+- Minato -> B
+## Result
+- adopted: B

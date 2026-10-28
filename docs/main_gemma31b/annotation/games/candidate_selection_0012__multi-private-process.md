@@ -1,0 +1,73 @@
+# candidate_selection_0012__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: Since we're at the final stage, we need to be rigorous. I'm particularly concerned about our reporting overhead. I want to ensure any new addition doesn't complicate our quarter-end closing or audit process.
+- [6] **Jonathan**: I agree that rigor is necessary. To ensure we aren't overextending our internal resources, I believe we should also examine the current state of talent acquisition and the availability of our recruitment network.
+- [7] **Shizue**: It is always wonderful to see such diligence. I believe it would be wise to see how well the customers are truly staying with the companies we've supported. Shall we look into that?
+- [8] **Misaki**: I agree. However, we must also consider our long-term capital commitments. I want to understand our future obligations and our ability to secure credit if the burn rate exceeds our projections.
+- [9] **Shion**: It seems we are all focusing on the internal side of things. I'm more interested in the friction between funding and actual deployment. I want to know what truly slows down the first customer's activation.
+- [10] **Mizuki**: @Shion, that's a fair point. However, operational friction often translates into reporting headaches. To get a clear picture, I'll look into the appraisal needs at the last audit and independent checks on holdings' reported figures.
+- [11] **Jonathan**: I will focus on the human element. I'll look into the retained recruiters' placement times and the adviser bench and partner board seats to see where our capacity actually stands.
+- [12] **Shizue**: I shall follow my heart and look into account retention through price rises and the delivery records of two holdings. It would be lovely to see if the customers are truly happy.
+- [13] **Misaki**: I will look into the reserve accounts and follow-on calls, as well as the terms of last winter's credit line. We need to be certain about our liquidity and borrowing capacity.
+- [14] **Shion**: I'll take the lead on the operational bottlenecks. I'm choosing the security review time before first deployment and the delivery records of two holdings to see where the real delays occur.
+- [15] **Mizuki**: I think we have a comprehensive spread. We're covering liquidity, talent, customer loyalty, and operational speed. I'm satisfied with these choices as they will highlight any hidden burdens on our reporting.
+- [16] **Jonathan**: It seems we have a balanced approach. By examining both the financial and human infrastructure, we can ensure that our next investment doesn't inadvertently disrupt the peace of our current operations.
+- [17] **Shizue**: I agree. It is so comforting to know we are looking after both the numbers and the people. I look forward to seeing what we discover together.
+- [18] **Misaki**: As long as we are clear on the financial risks, I am satisfied. We cannot afford any surprises regarding our capital reserves or our ability to leverage credit in the coming quarters.
+- [19] **Shion**: Efficiency is the only metric that truly matters here. While you all worry about the paperwork and the people, I'll be looking for the ghosts in the machine that stall our progress. I'm satisfied.
+- [20] **Mizuki**: Since we have all committed to our respective areas of investigation, let's proceed. I look forward to seeing how these findings align when we evaluate the candidates.
+- [22] **Jonathan**: I agree. Let us move forward and see what the data reveals. I look forward to our next discussion.
+- [24] **Shizue**: It has been a lovely start to our process. I shall wait patiently for the results, hoping they bring us clarity and peace of mind.
+- [26] **Misaki**: I agree. Let's move to the investigation phase. I hope the results provide the financial certainty we need before we commit further capital.
+- [28] **Shion**: Let's see if the reality matches the plans. I'll be waiting to see which of these candidates is actually capable of moving at a professional pace.
+## Round 2
+- [40] **Mizuki**: My findings suggest a clear trade-off. Hardware-based holdings require expensive, time-consuming outside appraisals at quarter-end, but they offer verifiable data. Software holdings are easier to audit initially but rely entirely on their own reported figures.
+- [41] **Jonathan**: My findings indicate a significant imbalance in our human resources. While we have capacity for software-related guidance, our ability to quickly fill specialized operational or field roles is quite limited, which could create a bottleneck.
+- [42] **Shizue**: It seems some of our friends are more loyal than others. I found that while some services are held dear even when prices rise, others are let go quite easily. It is a gentle reminder of true value.
+- [43] **Misaki**: The financial reality is concerning. Our reserves are being depleted by follow-on calls at twice the projected rate, and our credit line is only useful for physical stock, not software contracts. We must prioritize stability.
+- [44] **Shion**: The data is quite telling. We have a systemic risk where specific sectors—particularly those handling sensitive data or physical hardware—face massive, unpredictable delays. It's not about the team's effort, but the environment they operate in.
+- [45] **Mizuki**: @Misaki, if our credit line is limited to physical stock, that complicates things. However, we must weigh that against the audit burden. Hardware adds significant costs and six weeks of delay to our closing process.
+- [46] **Jonathan**: @Mizuki, the audit burden is a concern, but we must also consider the human cost. If we choose a hardware-heavy path, we may find ourselves unable to staff the necessary field roles in a timely manner.
+- [47] **Shizue**: It is so important to listen to these concerns. I noticed that some of our holdings struggle with delivery delays, while others are loved enough that their customers stay even when costs increase. Perhaps we should seek that kind of lasting bond.
+- [48] **Misaki**: @Mizuki, the audit burden is a secondary concern compared to our liquidity. If we invest in software, we gain no borrowing power from our credit line, and our reserves are already draining faster than planned.
+- [49] **Shion**: @Misaki, you're prioritizing liquidity, but liquidity is useless if the product is stuck in a security review for nine months. We need to avoid sectors where the "first customer" is a myth for three quarters.
+- [50] **Mizuki**: @Misaki, I understand the liquidity pressure, but we cannot ignore the reporting chaos. If we add more hardware, our quarter-end becomes an expensive nightmare. However, software's lack of independent verification is a risk I can't ignore.
+- [51] **Jonathan**: @Shion, your point about deployment delays is valid. However, if we choose a path that requires specialized field crews or supervisors, we risk a different kind of stall—one where we simply cannot find the people to execute.
+- [52] **Shizue**: It is a bit sad to see so much worry. Perhaps we can find a path that offers both the stability Misaki seeks and the genuine customer love that ensures a company's long-term health.
+- [53] **Misaki**: @Shizue, love is not a hedge against insolvency. If we continue to ignore the burn rate and the limitations of our credit line, we won't have a fund left to support anyone. We need assets we can borrow against.
+- [54] **Shion**: @Misaki, borrowing against assets is a fine strategy, provided those assets actually reach the market. I'm not interested in a "stable" investment that spends a year in a security review before it even starts.
+- [55] **Mizuki**: It seems we are at an impasse between liquidity, speed, and reporting. I'll be weighing the cost of those six-week audit delays against the risk of trusting unverified software dashboards when the candidates are revealed.
+- [56] **Jonathan**: I will be looking for a candidate whose staffing needs align with our current capacity. We have the expertise for software, but we lack the speed to fill operational field roles. Let us hope for a balanced path.
+- [57] **Shizue**: I shall keep a gentle heart and a watchful eye. I hope we can find a candidate whose value is so genuine that their customers will stay by their side, regardless of the challenges we face.
+- [58] **Misaki**: I will be looking for a candidate with tangible assets. Given our current reserve depletion, we cannot afford another investment that offers no collateral for our credit line. Financial survival must come first.
+- [59] **Shion**: I'll be looking for the path of least resistance. I want a candidate that avoids both the hardware supply chain traps and the regulatory purgatory of sensitive data. Speed to market is the only real security.
+## Round 3
+- [65] **Mizuki**: Looking at the options, Harvest Sensor and Fabric Loop are hardware-heavy, which means expensive appraisals and reporting delays. However, Clinic Scheduler and Ledger Bridge rely on dashboards we can't independently verify. I'm leaning toward the software options.
+- [66] **Jonathan**: @Mizuki, I agree. Fabric Loop and Harvest Sensor would require field crews and supervisors, which our recruiters struggle to place. Clinic Scheduler and Ledger Bridge align much better with our current human resource capacity.
+- [67] **Shizue**: It is lovely to see such agreement. I feel a warmth toward Clinic Scheduler; it reminds me of the independent practices that showed such wonderful loyalty to their tools even when prices rose.
+- [68] **Misaki**: @Mizuki, @Jonathan, I cannot agree. Software offers no collateral. Fabric Loop and Harvest Sensor provide physical assets we can actually borrow against. Given our reserve depletion, we must choose a candidate with tangible value.
+- [69] **Shion**: @Misaki, your obsession with collateral is blinding you to the risk of stagnation. Clinic Scheduler handles medical records—that's a nine-month security review. Harvest Sensor is hardware—that's a supply chain nightmare. Ledger Bridge is the only logical choice.
+- [70] **Mizuki**: @Shion, I agree. Ledger Bridge avoids the audit nightmare of hardware and the regulatory purgatory of medical data. While the dashboard is unverified, it's a far smaller risk than a six-week reporting delay.
+- [71] **Jonathan**: @Shion, I concur. Ledger Bridge requires software expertise we already have in abundance on our board, and it avoids the specialized field staffing that would currently exhaust our recruitment network. It is the most sustainable choice.
+- [72] **Shizue**: @Shion, @Mizuki, I understand your reasons. While my heart is with the clinics, I see that Ledger Bridge also serves small merchants. I hope they will find the same lasting bond with their customers.
+- [73] **Misaki**: @Shion, @Mizuki, you are ignoring the fund's solvency. Ledger Bridge is just more software we cannot borrow against. Fabric Loop has sorting facilities and inventory—tangible assets that secure our credit line. We need a safety net, not just a dashboard.
+- [74] **Shion**: @Misaki, a safety net is useless if the company is dead before it launches. Fabric Loop's facilities are just more points of failure for delays. Ledger Bridge is the only option that actually moves.
+- [75] **Mizuki**: @Misaki, I understand the need for a safety net, but we cannot sacrifice our operational sanity. Ledger Bridge is the only candidate that balances our reporting needs, staffing capacity, and speed to market. I'm voting for B.
+- [76] **Jonathan**: @Misaki, I appreciate your concern for solvency, but we must also protect our time and peace. Ledger Bridge fits our current capacity perfectly without creating a recruitment crisis. I am voting for B.
+- [77] **Shizue**: @Misaki, I truly feel for your worries about our safety. However, I believe the genuine value of a service is what keeps a company alive. I shall vote for B, hoping for a lasting bond.
+- [78] **Misaki**: @Mizuki, @Jonathan, @Shizue, you are prioritizing convenience over survival. Without collateral, we are one bad quarter away from insolvency. I cannot in good conscience vote for software. I am voting for C.
+- [79] **Shion**: @Misaki, your fear of insolvency is a poor excuse for investing in a slow-motion train wreck. I'm not gambling on supply chains or regulatory red tape. Logic dictates the path of least resistance. I vote for B.
+- [80] **Mizuki**: The consensus is clear. While I respect Misaki's focus on solvency, the operational and reporting risks of the other options are simply too high. Ledger Bridge is the most logical and sustainable choice for us.
+- [82] **Jonathan**: I agree. It is a choice that preserves our internal peace and respects our current limits. I am content with this decision.
+- [84] **Shizue**: It is a bit sad that we could not all agree, but I believe we have made a choice that respects our collective well-being. I wish Ledger Bridge much success and happiness.
+- [86] **Misaki**: I cannot support a decision that ignores our liquidity crisis. We are choosing a dashboard over our own solvency. I stand by my vote for Fabric Loop.
+- [88] **Shion**: Sentimentality and fear are poor guides for investment. We've chosen the only candidate that doesn't come with a built-in delay. The result is logical, efficient, and final.
+### Vote
+- Mizuki -> B
+- Jonathan -> B
+- Shizue -> B
+- Misaki -> C
+- Shion -> B
+## Result
+- adopted: B

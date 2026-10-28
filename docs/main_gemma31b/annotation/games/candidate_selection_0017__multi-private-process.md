@@ -1,0 +1,73 @@
+# candidate_selection_0017__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to ensure the proposed plans are actually executable. I am concerned about whether we have the personnel to support these changes without overstretching our current crews. I'll start by looking into the roster books.
+- [6] **Takumi**: I don't care about the paperwork as much as the actual passengers. We need to know where time is actually being wasted. I'll look into the journey audits and the timed runs and crowd counts.
+- [7] **Benjamin**: It is all well and good to focus on the present, but we must ensure we aren't mortgaging our future. I shall examine the balances in the capital ledger and the ticketing contractor fees and paving rates.
+- [8] **Servas**: It is wise to look forward and present, but we must not forget where we have been. To avoid repeating old mistakes, I shall examine the two pilots from eight years ago and the earlier accessibility programme records.
+- [9] **Jonathan**: I agree that we must be cautious. I am interested in the administrative hurdles and hidden physical risks. I will look into the joint operators' committee minutes and the contingency pricing inside the pre-war shells.
+- [10] **Asuka**: @Benjamin, financial transparency is important, but funds are useless if there is no one to do the work. I will also examine the crew establishment and maintenance contract to see if our staffing levels are sustainable.
+- [11] **Takumi**: @Asuka, staffing is just a tool. If we're putting people in the wrong places, it doesn't matter how many we have. We need to fix the parts of the trip that actually cost passengers time.
+- [12] **Benjamin**: @Takumi, your passion for the passenger is admirable, though efficiency is rarely a matter of simple placement. It is usually a matter of whether the budget allows for the necessary infrastructure to support such efficiency.
+- [13] **Servas**: Patience, my friends. While we debate the tools and the funds, let us remember that experience is the greatest teacher. By understanding our past failures, we can find the most sustainable path forward for everyone.
+- [14] **Jonathan**: It is true that experience teaches us much, but sometimes the most dangerous obstacles are the ones that remain invisible until the work begins. I hope the committee minutes reveal who truly holds the power of approval.
+- [15] **Asuka**: @Jonathan, identifying the decision-makers is useful, but the physical reality of labor is what determines success. If the rosters are already depleted, no amount of administrative approval will make a plan viable.
+- [16] **Takumi**: @Asuka, you're still talking about the workers. I'm talking about the people paying for the tickets! If we don't find out where the real delays are, we're just guessing. We need hard data on journey times.
+- [17] **Benjamin**: @Takumi, hard data is indeed the gold standard, provided the data isn't being used to mask a deficit. I suspect the "real delays" are often just symptoms of underfunded maintenance cycles.
+- [18] **Servas**: It is natural for us to disagree when we look at different pieces of the puzzle. However, let us remember that the present is merely the result of the past. Harmony comes from integration.
+- [19] **Jonathan**: Integration is a lovely goal, @Servas. However, I worry that we often mistake a clean drawing for a clean reality. I want to see if the hidden costs of our old infrastructure match the official projections.
+- [20] **Asuka**: It seems we have a comprehensive spread of priorities. I will stick with the roster books and the crew establishment and maintenance contract. We cannot afford to approve a plan that exists only on paper.
+- [21] **Takumi**: I'm sticking with the journey audits and the timed runs. We can't let loud complaints distract us from where the actual time is being lost. Let's get the real data and stop guessing.
+- [22] **Benjamin**: I shall remain focused on the capital ledger and the contractor fees. It would be a tragedy to select a plan that looks splendid today but leaves us bankrupt tomorrow. I look forward to the findings.
+- [23] **Servas**: I shall proceed with the two pilots from eight years ago and the completion records of the earlier accessibility programme. Let us see what wisdom the past has left for us to find.
+- [24] **Jonathan**: I will proceed with the joint operators' committee minutes and the contingency pricing inside the pre-war shells. I hope to uncover the administrative and structural risks that often remain hidden until it is too late.
+## Round 2
+- [35] **Asuka**: The situation is critical. Our late-turn pool is depleted, and we are relying on overtime to maintain basic operations. Any plan requiring additional roadway or signal work is currently unfeasible without new recruitment.
+- [36] **Takumi**: @Asuka, we can't just stop because we're short-staffed. My data shows the real problem is connection times, not the crowds people complain about. We need a plan that fixes the gaps between trips, not just more workers.
+- [37] **Benjamin**: @Takumi, fixing gaps is a noble goal, but we must be realistic. I've found that our operating subsidies are being trimmed while contractor fees are ballooning. We cannot simply "fix" things if the money is tied up in lapsed grants.
+- [38] **Servas**: It is heartening to see the patterns emerge. My research shows that our past attempts at contactless payments and timetable adjustments were actually successful. We have the capacity for innovation if we build on what worked.
+- [39] **Jonathan**: I fear we are overlooking the invisible. Bidders are pricing in heavy contingencies for pre-war shells due to unrecorded voids, and the ferry and rail offices are in total disagreement over passenger data. The risks are structural and administrative.
+- [40] **Asuka**: @Jonathan, structural risks are secondary to the fact that we lack the hands to manage them. @Takumi, fixing connection times still requires signal adjustments and maintenance, which my findings show we cannot currently support.
+- [41] **Takumi**: @Asuka, you're just making excuses. If we keep focusing on the workers' schedules instead of the passengers' time, we'll never improve. We need to prioritize the connections, regardless of how hard the maintenance is.
+- [42] **Benjamin**: @Takumi, your enthusiasm is quite refreshing, though perhaps a bit blind to the ledger. We are paying more to ticketing contractors than we are to actually pave our roads. We cannot simply ignore the cost of implementation.
+- [43] **Servas**: @Benjamin, @Takumi, let us not let frustration cloud our vision. We have seen before that technical trials can succeed and targets can be met. The path forward lies in choosing a plan that mirrors those past victories.
+- [44] **Jonathan**: @Servas, past victories are comforting, but they don't account for the voids we can't see. If a plan relies on work within the old shells, we should expect delays and costs to spiral beyond the projections.
+- [45] **Asuka**: @Takumi, it is not an excuse; it is a mathematical reality. We cannot implement signal changes with a crew that is a third below establishment. We must prioritize plans that utilize our existing spare capacity, such as lift and escalator maintenance.
+- [46] **Takumi**: @Asuka, you're just trying to take the easy way out. Fixing elevators is great, but it doesn't stop people from wasting their lives waiting for connections. We need a plan that actually cuts journey time.
+- [47] **Benjamin**: @Takumi, while I appreciate your zeal for the passenger's clock, we must avoid the trap of "efficiency" that creates a financial void. A plan that cuts minutes but bankrupts the authority is merely a faster route to failure.
+- [48] **Servas**: @Benjamin, @Takumi, remember that the most enduring solutions are often the simplest ones we have already tested. If we focus on proven successes, we can achieve efficiency without risking our stability or our spirits.
+- [49] **Jonathan**: @Asuka, I agree that we must be realistic about capacity. However, we must also be realistic about the "hidden" delays. Any plan involving the pre-war shells is a gamble with our timeline and budget.
+- [50] **Asuka**: @Jonathan, we are in agreement. Between the depleted rosters and the structural risks you've identified, any plan requiring heavy signal work or pre-war shell intervention is a fantasy. We must select a plan that is operationally sustainable.
+- [51] **Takumi**: @Asuka, you're just playing it safe. If we only do what's "sustainable," we're just managing a failing system. We have to be brave enough to fix the connection gaps, or the passengers will keep suffering.
+- [52] **Benjamin**: @Takumi, bravery is a virtue, but in finance, it is often indistinguishable from recklessness. We have ring-fenced funds from lapsed grants that we must utilize wisely, rather than chasing ghosts of efficiency we cannot afford.
+- [53] **Servas**: My friends, let us find the middle path. We need not choose between recklessness and stagnation. By selecting a plan that aligns with our proven successes, we can honor the passengers' time without breaking our workers or our budget.
+- [54] **Jonathan**: I believe the middle path must be paved with caution. We should avoid any plan that requires inter-agency data agreements or work in the pre-war shells, as those are the most likely points of failure.
+## Round 3
+- [60] **Asuka**: Plan A is impossible; our late-turn pool is already depleted and relying on overtime. Plan B requires roadway work we cannot staff. Plan C is the only viable option, as we have spare capacity for lift and escalator maintenance.
+- [61] **Takumi**: @Asuka, Plan C is just moving people faster inside a station! That doesn't fix the connection gaps. Plan B actually addresses the mid-city delays and cuts total journey time. We have to prioritize the passengers' time over your rosters.
+- [62] **Benjamin**: @Takumi, Plan B involves rebuilding boarding islands and dedicated lanes, which means paving. Given that paving rates are climbing and our subsidies are shrinking, the long-term cost of Plan B is a liability we cannot afford.
+- [63] **Servas**: @Benjamin, @Takumi, let us look at Plan D. My research showed that our previous contactless payment trial was a success. It offers a modern solution without the physical risks of construction or the strain of new rosters.
+- [64] **Jonathan**: @Servas, Plan D seems appealing, but my findings show the ferry and rail offices cannot even agree on data terms. Forcing an integrated platform now would likely lead to an administrative stalemate and endless delays.
+- [65] **Asuka**: @Jonathan, your point confirms my stance. Plan D is a bureaucratic nightmare and Plan A and B are operational impossibilities. Plan C is the only choice that aligns with our actual staffing capacity and avoids structural risks.
+- [66] **Takumi**: @Asuka, you're just obsessed with what's easy! Plan C is a waste of time if the buses and trains aren't connecting. Plan B is the only one that actually attacks the journey time problem. We have to be brave and make it work.
+- [67] **Benjamin**: @Takumi, bravery is a poor substitute for a balanced ledger. Plan B's reliance on paving in a market of rising rates is a fiscal trap. Plan C, however, may align with those ring-fenced construction grants I discovered.
+- [68] **Servas**: @Benjamin, it is heartening to see the financial alignment. While Plan D had the spirit of past success, we must not ignore the current friction @Jonathan mentioned. Plan C mirrors our previous accessibility victories; it is a proven path.
+- [69] **Jonathan**: @Asuka, @Benjamin, I agree. Plan C is the most prudent. It avoids the inter-agency deadlock of Plan D and the unpredictable voids of the pre-war shells that would plague Plan B. It is the safest path to completion.
+- [70] **Asuka**: @Takumi, it is not about being "easy," it is about being possible. We cannot build a corridor with no crews or a fare system with no agreement. Plan C is the only logical choice that we can actually deliver.
+- [71] **Takumi**: @Asuka, you're just giving up! If we only do what's "possible," we're ignoring the people waiting for connections. Plan B is the only one that actually helps passengers get across the city faster. We can't just settle for elevators!
+- [72] **Benjamin**: @Takumi, your dedication is touching, but a plan that cannot be funded or staffed is not a plan—it is a wish. Plan C is fiscally responsible and utilizes the grants we actually possess.
+- [73] **Servas**: @Takumi, your heart is in the right place, but a seed cannot grow without soil. Plan C provides the stability we need now, allowing us to build the trust and capacity for your visions later.
+- [74] **Jonathan**: @Takumi, I understand your frustration, but a plan that stalls indefinitely helps no one. Plan C avoids the administrative and structural traps that would inevitably derail the others. It is the only choice that ensures actual delivery.
+- [75] **Asuka**: The consensus is clear. Plan C is the only option that respects our staffing limits, budget constraints, and structural risks. It is the only plan we can realistically execute. I vote for Plan C.
+- [76] **Takumi**: I'm not going to just agree because you're all playing it safe. Plan C is a band-aid. If we don't fix the connection gaps, we're failing the passengers. I'm sticking to my guns. I vote for Plan B.
+- [77] **Benjamin**: It is a pleasure to see such passion, @Takumi, but I prefer a plan that exists in reality rather than in a dream. Plan C is the only fiscally sound choice. I vote for Plan C.
+- [78] **Servas**: It is often the quietest path that leads us home. By choosing a plan that aligns with our past successes and current means, we ensure a victory for all. I vote for Plan C.
+- [79] **Jonathan**: I must prioritize a plan that can actually be completed. Plan C avoids the administrative deadlock and the hidden structural voids that would inevitably stall the others. For the sake of stability, I vote for Plan C.
+### Vote
+- Asuka -> C
+- Takumi -> B
+- Benjamin -> C
+- Servas -> C
+- Jonathan -> C
+## Result
+- adopted: C

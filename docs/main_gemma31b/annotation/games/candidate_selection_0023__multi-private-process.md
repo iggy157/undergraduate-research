@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: To make a logical choice, we need to understand how previous projects actually performed. I suggest we prioritize user satisfaction and actual utility over mere budget figures. What do you all think?
+- [6] **Victoria**: I agree with Mizuki. We should examine how these spaces are actually utilized and the impact of construction on daily operations. I'm particularly interested in the post-occupancy reviews and the timetable records for rooms out of service.
+- [7] **Benjamin**: While user satisfaction is a charming metric, I am more concerned with the ghosts of projects past—specifically, why they always seem to finish late. I'll look into the weather days in the site diaries and the delivery schedules.
+- [8] **Kenji**: I think we need to be honest about the money! Paper budgets often lie. I want to see the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [9] **Shunichi**: You're all focusing on the surface. What about the people actually keeping this place running? I'll look into the staffing posts since the hiring freeze and the bench technicians' weekly manual routines. Let's see who's actually doing the work.
+- [10] **Mizuki**: @Victoria, I appreciate your support. Since we are all looking at different angles, I will focus on the Post-occupancy review ratings and the Booking data for specialist and general rooms to gauge actual demand.
+- [11] **Victoria**: @Mizuki, that sounds like a comprehensive approach. I will stick with my plan to examine the Timetable records on rooms out of service and the Post-occupancy review ratings to see how disruptions affect us.
+- [12] **Benjamin**: It seems we have a delightful division of labor. To ensure our chosen project doesn't become a permanent fixture of the landscape, I shall proceed with the weather days in the site diaries and the delivery schedules.
+- [13] **Kenji**: @Benjamin, you're right about the delays, but the costs usually jump too! I'm sticking with the tender records and the renewal reserve. I want to know if the prices we're seeing are actually realistic.
+- [14] **Shunichi**: It's almost touching how you all assume the buildings maintain themselves. I'll stick to my choices. Let's hope the data reveals the exhaustion that your spreadsheets conveniently ignore.
+- [15] **Mizuki**: It seems we have a balanced set of priorities. By combining user feedback, operational costs, scheduling risks, and staffing constraints, we can avoid the mistakes of the past. Does anyone feel we've missed a critical data source?
+- [16] **Victoria**: I believe we have covered the primary bases. However, I hope we remain mindful of how the physical changes we decide upon will integrate with the actual academic schedule once the work begins.
+- [17] **Benjamin**: Indeed, @Victoria. The gap between a theoretical timeline and the reality of a construction site is often where the real tragedy occurs. I suspect our findings will reveal some rather illuminating discrepancies.
+- [18] **Kenji**: I'm just excited to see what we find! If the tender records show a big gap from the budgets, we'll have to be really careful. Let's make sure we don't ignore the hidden costs!
+- [19] **Shunichi**: Hidden costs are one thing, Kenji, but the human cost is what usually breaks the system. I'm sure the data will be quite illuminating for all of us. I'm satisfied with my selections.
+- [20] **Mizuki**: Then it is settled. We have a comprehensive plan that covers financial, operational, and human factors. I look forward to seeing how these different perspectives align when we reconvene with the data.
+- [21] **Victoria**: I agree. Let us proceed with these selections. I hope the data provides a clear picture of how we can improve our facilities without compromising the stability of our daily academic operations.
+- [22] **Benjamin**: A most agreeable conclusion. I shall now venture into the archives to see exactly how many "unforeseen" rainstorms have historically conspired against our deadlines. I look forward to our next encounter.
+- [24] **Kenji**: I'm ready too! I'll dig into those records and see if the numbers actually add up. Let's find a plan that's honest and realistic for everyone. See you all in the next round!
+- [25] **Shunichi**: I'll be waiting. Try not to get too lost in your numbers and diaries; some of us are interested in the reality of the workload, not just the paperwork. See you in the next round.
+## Round 2
+- [36] **Mizuki**: The data is quite revealing. It seems we have a surplus of specialist rooms that sit idle, while general-purpose spaces are in constant demand. Furthermore, projects that benefit the wider campus are rated far higher than isolated improvements.
+- [37] **Victoria**: @Mizuki, that aligns with my findings. Post-occupancy ratings are highest for shared spaces. More concerningly, my data shows that taking rooms out of service requires expensive, off-site hired space, which creates a significant operational and financial burden.
+- [38] **Benjamin**: It appears we are all discovering that reality is far less cooperative than the proposals. My findings suggest that any project exposed to the elements is a gamble, with six weeks lost recently to weather alone.
+- [39] **Kenji**: @Benjamin, you're not the only one seeing gaps! I found that mechanical and plant costs have jumped by 20% over the last few cycles. The budgets we're seeing are likely way too low for the current market.
+- [40] **Shunichi**: While you all fret over rain and budgets, I've found something far more tedious. Our bench technicians are wasting hours on manual routines because our equipment is outdated. We're paying people to open windows manually. It's pathetic.
+- [41] **Mizuki**: @Shunichi, that sounds incredibly inefficient. If we can solve those manual burdens while creating flexible, general-purpose spaces that serve everyone, we would address both the human cost and the actual demand. We must avoid another isolated project.
+- [42] **Victoria**: @Mizuki, I agree. However, we must consider the transition. If the project requires taking rooms out of service, the cost of off-site hiring and the disruption to the timetable could outweigh the long-term benefits of flexibility.
+- [43] **Benjamin**: @Victoria, your caution is well-placed. Furthermore, my research into delivery schedules suggests that projects driven by "comfort" or "appeal" are prone to slipping by a year or more. We should prioritize projects with a clear, mandatory rationale.
+- [44] **Kenji**: @Benjamin, I agree on the rationale, but we can't ignore the money! I also found that we have no renewal reserve for old AV kit. If we pick a plan that needs new tech, where is the money coming from?
+- [45] **Shunichi**: @Kenji, the money is already being wasted on manual labor. We're paying technicians to be window-openers. Investing in equipment that actually works isn't a luxury; it's a way to stop bleeding resources through sheer inefficiency.
+- [46] **Mizuki**: @Shunichi, you're right that inefficiency is a cost. However, we must balance that with @Mizuki's point about utility. A project that fixes a technician's routine but serves only one wing may be a poor investment compared to a shared space.
+- [47] **Victoria**: @Mizuki, I agree. We need a solution that maximizes utility for the whole campus while minimizing the need for off-site space. If a project is too localized, the disruption to the timetable is simply not worth it.
+- [48] **Benjamin**: @Victoria, precisely. If we combine your concerns with my findings, the ideal candidate is one that is indoors—to avoid the weather's whims—and driven by a mandatory requirement rather than a mere desire for "appeal." Logic dictates we avoid the gamble.
+- [49] **Kenji**: @Benjamin, I'm with you on avoiding gambles! But we have to be careful. If the project involves mechanical plant work, the costs will be 20% higher than the paper says. We can't pick a plan that'll go bankrupt halfway through!
+- [50] **Shunichi**: @Kenji, your obsession with the budget is almost as tedious as the manual window-opening. If we keep avoiding "gambles," we'll just keep paying for inefficiency. We need a project that actually reduces the operational burden.
+- [51] **Mizuki**: @Shunichi, I hear you. We need a project that reduces operational burdens but serves the wider community. Let's look for a candidate that provides general-purpose utility and improves efficiency without risking massive budget overruns or weather delays.
+- [52] **Victoria**: @Mizuki, exactly. We must prioritize a plan that offers broad utility and operational efficiency, provided it doesn't force us into expensive off-site rentals or cause an unsustainable disruption to the academic timetable.
+- [53] **Benjamin**: It seems we have reached a consensus on the criteria. We seek a project that is indoors, mandatory in nature, and broad in utility, all while avoiding the siren song of "aesthetic appeal" and its accompanying delays.
+- [54] **Kenji**: @Benjamin, I'm on board with that! Just please, let's make sure we double-check the actual market prices for any equipment or plant work. I don't want us to be surprised by a huge bill later!
+- [55] **Shunichi**: @Kenji, your anxiety is noted. But let's be clear: the most expensive option is the one that keeps our staff trapped in the dark ages of manual labor. I'm ready to see the candidates.
+## Round 3
+- [61] **Mizuki**: Looking at the options, Candidate A aligns perfectly with the demand for general-purpose space and broad utility. It's indoors, avoiding weather risks, and serves the entire campus community rather than a single department.
+- [62] **Victoria**: @Mizuki, Candidate A is appealing, but we must check if the conversion requires taking the hall out of service. If it does, the off-site hiring costs and timetable disruptions could be significant.
+- [63] **Benjamin**: @Victoria, a fair point. However, Candidate C is an absolute non-starter; it is entirely exposed to the elements, and my data suggests that would be a recipe for a scheduling disaster.
+- [64] **Kenji**: @Benjamin, I totally agree about C! But look at D—it's all mechanical and ventilation plant. My data shows those costs are jumping by 20%! Candidate D could easily blow the budget and leave us stranded.
+- [65] **Shunichi**: @Kenji, your fear of a 20% increase is trivial compared to the absurdity of our current situation. Candidate D is the only one that actually addresses the manual labor crisis I uncovered. It's a necessity, not a luxury.
+- [66] **Mizuki**: @Shunichi, I understand the urgency, but Candidate D is highly localized. My data shows that projects benefiting only one area are rated lowest by users. Candidate A provides the broad utility the campus actually lacks.
+- [67] **Victoria**: @Mizuki, I agree. Candidate B also offers broad utility, but Candidate A's conversion of an underused hall likely minimizes the need for off-site rentals compared to the extensive work required for D.
+- [68] **Benjamin**: @Victoria, precisely. Candidate B, while indoors, feels like a project of "appeal" rather than necessity. My data warns that such projects are the most likely to slip. Candidate A is a safer, more logical bet.
+- [69] **Kenji**: @Benjamin, I agree that A is safer! Candidate B needs AV kit, and I found we have no renewal reserve for that. We'd be starting with a financial hole. A seems the most honest and realistic choice.
+- [70] **Shunichi**: @Kenji, your "honest" choice is just the path of least resistance. Candidate A is a fancy lounge. Candidate D stops our technicians from acting like manual laborers. We can't prioritize study pods over basic operational sanity.
+- [71] **Mizuki**: @Shunichi, it is not about the path of least resistance, but about the greatest good. Candidate A addresses a systemic shortage of space that affects everyone, whereas D is a localized fix. We must prioritize the community.
+- [72] **Victoria**: @Shunichi, I sympathize with the staff, but we cannot ignore the operational cost of Candidate D. Replacing ventilation throughout shared labs would likely take multiple rooms out of service, forcing expensive off-site rentals and disrupting the entire timetable.
+- [73] **Benjamin**: @Victoria, you've hit the nail on the head. Candidate D is a logistical nightmare waiting to happen. Between the budget volatility and the scheduling risks, it is a gamble I simply cannot support. Candidate A remains the most rational choice.
+- [74] **Kenji**: @Benjamin, exactly! Candidate A is the only one that doesn't feel like a financial trap. No huge plant costs, no missing AV reserves, and no weather risks. It's the most realistic plan we've got!
+- [75] **Shunichi**: @Kenji, your definition of "realistic" is just a fancy word for "ignoring the problem." You're all so enamored with your "broad utility" that you're happy to let the staff drown in manual labor. I'm voting for D.
+- [76] **Mizuki**: @Shunichi, I truly care about the staff's burden, but we must be logical. Candidate A solves a campus-wide crisis and carries the lowest risk. For the stability and benefit of all, I vote for Candidate A.
+- [77] **Victoria**: @Shunichi, I understand your frustration, but the risk of severe timetable disruption and the cost of off-site rentals for Candidate D are too high. For operational stability and broad utility, I vote for Candidate A.
+- [78] **Benjamin**: @Shunichi, while I admire your passion for the staff, I cannot endorse a project that invites such chaos. Candidate A is indoors, low-risk, and logically sound. To avoid another scheduling tragedy, I vote for Candidate A.
+- [79] **Kenji**: @Shunichi, I really wish we could help the staff, but we can't pick a plan that's going to crash the budget. Candidate A is the only one that's actually realistic. I vote for Candidate A!
+- [80] **Shunichi**: It's a fascinating display of collective avoidance. You've all agreed to build a lounge while the engine room is falling apart. I'll stand by the people actually doing the work. I vote for Candidate D.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> D
+## Result
+- adopted: A

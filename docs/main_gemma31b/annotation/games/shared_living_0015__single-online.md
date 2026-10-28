@@ -1,0 +1,73 @@
+# shared_living_0015__single-online (shared_living)
+
+## Round 1
+- [5] **Servas**: Since we are all here, let us find a fair way to handle our bills. I suggest we look into the sunlight and heating need by room and winter habits at a house paying ahead.
+- [6] **Midori**: I agree we need a fair system. I'd like to look into the payment log for the last twelve months and the kitchen notice about the cooler to see how we've been getting along.
+- [7] **Minato**: I want to know if some people are paying more than others, so I will check the plug-in monitor readings room by room and the settling up when the last rooms filled.
+- [8] **May**: I think we need to be practical about the costs. I'll look into the electrician's quote for the rooms and the last twelve utility statements to see what we're actually dealing with.
+- [9] **Daisuke**: I... I want to know how much work it is to manage. I'll look into the monthly settle observed at another house and the trial run of a reconciliation template.
+- [10] **Servas**: It seems we have a comprehensive plan. Does anyone feel we are missing a perspective, or are we satisfied with these choices for now?
+- [11] **Midori**: I think we've covered the main points. I'm just hoping we can find a way to make this process feel less stressful for everyone involved.
+- [12] **Minato**: I agree with Midori. I just want us to be honest with each other so that nobody feels like they are being treated unfairly.
+- [13] **May**: Honesty is great, Minato, but let's not forget the bottom line. I'm curious to see if our current habits are just expensive or if the system itself is the problem.
+- [14] **Daisuke**: I just hope we can find a way that doesn't make anyone feel overwhelmed by the paperwork.
+- [15] **Servas**: That is a valid concern, Daisuke. Balance is key to a peaceful home. Shall we proceed with our research and then share our findings?
+- [16] **Midori**: Yes, let's do that. I think it's best if we each take some time to look into our chosen topics and then come back together to discuss.
+- [17] **Minato**: I'll do that. I'm looking forward to seeing what we find out so we can all feel better about how things are split.
+- [18] **May**: Sounds like a plan. I'll get to it right away; I'm eager to see if those monthly spikes are as bad as I suspect.
+- [19] **Daisuke**: I'll do my best to look into the templates and the other house's process. I'll see you all soon.
+- [20] **Servas**: Let us conclude this first stage then. I shall step away to reflect on the heating needs and the habits of others. We shall meet again shortly.
+- [21] **Midori**: I will go and check the logs and the kitchen notice now. I hope we can find a solution that brings us all closer together.
+- [22] **Minato**: I'll go check the monitor readings and the records from when the house filled up. See you all later!
+- [23] **May**: I'm off to crunch some numbers and see what the electrician says. Let's hope the results aren't too shocking!
+- [24] **Daisuke**: I'll go look into the settle process and the template now. I'll see you all in a bit.
+## Round 2
+- [35] **Servas**: I have learned that some rooms are naturally colder than others, and that a fixed seasonal rate can lead to a very relaxed atmosphere regarding energy use.
+- [36] **Midori**: I found that our payment logs show several late payments after disputes, and some people even avoided using the cooler in summer to avoid arguments.
+- [37] **Minato**: My research showed that energy use varies wildly between rooms, and it took us a long time to agree on what the new residents owed when they first moved in.
+- [38] **May**: The bills fluctuate wildly every month, and fitting individual meters would be quite an investment—about 34,000 yen per room plus annual maintenance.
+- [39] **Daisuke**: I found that managing individual readings takes a lot of time, and using a reconciliation template for the whole year is quite a tedious process.
+- [40] **Servas**: It seems we are all facing different burdens. @Midori, it is saddening to hear that the fear of conflict has led some to suffer in the heat.
+- [41] **Midori**: It really is. It shows that our current way of splitting things is affecting our happiness and how we treat each other, not just our wallets.
+- [42] **Minato**: If the energy use is so different between rooms, like I found, then it's no wonder people are arguing. It doesn't feel fair to split it equally.
+- [43] **May**: Exactly. But if we go for individual meters to solve that fairness issue, we're looking at a huge upfront cost and ongoing fees. Is that really worth it?
+- [44] **Daisuke**: I'm worried that if we choose a system that requires a lot of manual work, it will just create more stress for whoever has to manage it.
+- [45] **Servas**: We must consider if the peace of mind is worth the price. If we avoid the cost of meters, can we find a way to ensure no one sits in the cold?
+- [46] **Midori**: I think we need a system that removes the feeling of accusation. If we can stop the monthly disputes, the atmosphere in the house will improve significantly.
+- [47] **Minato**: I agree. If we can find a way to make it fair without it being a fight every month, then everyone will be much happier living here.
+- [48] **May**: I'm all for happiness, but we can't ignore that the bills are unpredictable. We need something that stops those massive monthly spikes from hitting us like a ton of bricks.
+- [49] **Daisuke**: I agree with May. If the bills change so much every month, it makes the paperwork even harder and more stressful to handle.
+- [50] **Servas**: It seems we are in agreement that the current system is unsustainable. We need a solution that balances fairness, financial predictability, and ease of management.
+- [51] **Midori**: I hope we can choose something that prioritizes our harmony. It would be wonderful to stop worrying about who owes what and just enjoy each other's company.
+- [52] **Minato**: I just want a system where we don't have to guess if someone is being unfair. If we can find a way to be honest about the costs, I'll be happy.
+- [53] **May**: I'm ready to see the options. Let's hope there's a way to smooth out those costs without spending a fortune on equipment or spending our lives doing math.
+- [54] **Daisuke**: I just want something simple. I'm ready to see the options and hope we can find a way that doesn't take up all our free time.
+## Round 3
+- [60] **Servas**: Now that we have the options—Per-Room Metering, a Seasonal Fixed Rate, or a Flat Household Share—I believe the Seasonal Fixed Rate would best preserve our peace and warmth.
+- [61] **Midori**: I agree with Servas. A Seasonal Fixed Rate would stop the monthly arguments and the feeling of accusation, allowing us to focus on our harmony instead of the bills.
+- [62] **Minato**: I'm torn. Per-Room Metering seems the most fair since usage varies so much, but the cost May mentioned is high. Maybe a Flat Household Share is simpler?
+- [63] **May**: A Flat Household Share is too risky; it doesn't solve the monthly spikes. I prefer the Seasonal Fixed Rate because it makes the costs predictable for all of us.
+- [64] **Daisuke**: I agree with the Seasonal Fixed Rate. It sounds much simpler to manage than the other options, and it would save us from the tedious monthly calculations.
+- [65] **Servas**: It is heartening to see such a consensus. By agreeing on a seasonal rate, we ensure that no one feels the need to suffer in silence to save a few yen.
+- [66] **Midori**: Exactly. It removes the tension from our daily interactions. If we know the cost in advance, we can stop treating each other like debtors and start acting like a family again.
+- [67] **Minato**: If everyone else is so sure about the Seasonal Fixed Rate, I'll go with that too. I just want us to stop arguing and feel good about living together.
+- [68] **May**: It's a relief we're on the same page. Predictability is exactly what I need to stop those winter bills from feeling like a second rent.
+- [69] **Daisuke**: I'm glad we're all in agreement. It sounds like the most sustainable choice for everyone's mental health and my own free time.
+- [70] **Servas**: Since we have found a path that satisfies our need for warmth, harmony, and simplicity, I believe we are ready to make it official.
+- [71] **Midori**: I am happy to support this. Let's move forward with the Seasonal Fixed Rate so we can put these tensions behind us.
+- [72] **Minato**: I'll vote for the Seasonal Fixed Rate too. I'm glad we found a way to make everyone feel comfortable and fair.
+- [73] **May**: I'm in. Seasonal Fixed Rate it is; it's the only way to keep my budget from crashing every winter.
+- [74] **Daisuke**: I'll vote for the Seasonal Fixed Rate as well. It's definitely the best way to keep things simple and stress-free for everyone.
+- [75] **Servas**: Then let us cast our votes. I vote for the Seasonal Fixed Rate.
+- [76] **Midori**: I vote for the Seasonal Fixed Rate.
+- [77] **Minato**: I vote for the Seasonal Fixed Rate.
+- [78] **May**: I vote for the Seasonal Fixed Rate.
+- [79] **Daisuke**: I vote for the Seasonal Fixed Rate.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# shared_living_0028__multi-private (shared_living)
+
+## Round 1
+- [5] **Shion**: Since the room is currently failing to serve all its purposes, we should be logical about this. I suggest we analyze the actual usage and the physical environment first.
+- [6] **Daisuke**: I... I agree. It's probably best to see how we've actually been using the space before we decide. Maybe that would help us find a fair solution for everyone.
+- [7] **Rin**: I agree! Let's be like detectives and find out what's really happening in there. I want to know who is actually using it and if it's even clean!
+- [8] **Servas**: It is wise to seek the truth of the matter first. Let us look beyond the surface to see how this space truly affects our spirits and our connections. I am ready to explore.
+- [9] **Toshio**: I agree with the need for data. To ensure we don't create a system that wastes our time or resources, we should look at the practical costs and the actual frequency of use.
+- [10] **Shion**: Since we are in agreement, let's be specific. I'll take the partition wall to the office and the crumbs and bins at the desks. I want to see exactly how the environment is leaking into our workspace.
+- [11] **Daisuke**: Um... if we're looking at costs, maybe I should check the invoices for outside hire by the hour? And... maybe the quotes for the two fit-outs too? I just want to be sure about the numbers.
+- [12] **Rin**: I'll take the fortnight's tally of use by person! And I want to see the final clear-out of the old fridge. I bet there's something super gross in there!
+- [13] **Servas**: I shall look into where the last awkward conversation happened and the unplanned talk since the refit. It is often in the quiet, unplanned moments that the true heart of a community is revealed.
+- [14] **Toshio**: I will look into the facilities callouts on this floor and the round trip for a hot lunch. I want to see how much effort is actually spent on maintenance and logistics.
+- [15] **Shion**: It seems we have a comprehensive list covered. @Daisuke, @Rin, @Servas, @Toshio—since we've all claimed our two items, I believe we have everything we need to proceed to the investigation phase.
+- [16] **Daisuke**: I... I think so too. I hope the information I find is actually useful for everyone. I'll do my best to be thorough with the figures.
+- [17] **Rin**: Yay! I'm so excited to see what's in that fridge! I'll be the best detective ever and find all the clues! Let's go, let's go!
+- [18] **Servas**: Patience is a virtue, Rin. Let us approach this with open hearts. I believe the answers we find will guide us toward a space that nourishes not just our work, but our souls.
+- [19] **Toshio**: Let's proceed then. I look forward to seeing how the data aligns with our current perceptions of the room's utility.
+- [20] **Shion**: Since we have our assignments, there is no need for further chatter. Let us move to the investigation. I expect a logical synthesis of these findings when we return.
+- [21] **Daisuke**: Okay... I'll go check those documents now. I hope the costs aren't too high... I'll see you all soon.
+- [22] **Rin**: I'm on it! I'm going to find all the secrets! See you guys in a bit! Bye-bye!
+- [23] **Servas**: Go in peace, my friends. May your discoveries bring us closer to a harmony that serves us all. I shall await your return with a hopeful heart.
+- [24] **Toshio**: Understood. I will gather the information and return.
+## Round 2
+- [35] **Shion**: It is exactly as I suspected. The partition is practically transparent to sound, and the lack of a dedicated eating area is bleeding into our workspace. We are compromising our professional environment for convenience.
+- [36] **Daisuke**: I... I saw the invoices. We've spent 68,000 yen on outside rentals last year because the room isn't working for us. It's... it's a lot of money to keep paying every month.
+- [37] **Rin**: Wow, you guys! I found out that only the people sitting by the door use the room all the time! And the fridge was a disaster—someone had to clean up everyone's mystery leftovers twice! That's not fair!
+- [38] **Servas**: It seems we are suffering from more than just a lack of space. We have lost the sanctuary for our hearts; our difficult moments are public, and our new friends remain strangers. We must heal this.
+- [39] **Toshio**: The facilities data shows that maintenance is concentrated on equipment rooms, not the storage area. Combined with the outside hire costs @Daisuke mentioned, it's clear we are paying for space we don't have here.
+- [40] **Shion**: @Rin, your observation about the door is key. Since the wall is so thin, those of us sitting nearby are forced to hear everything. We need a solution that prioritizes soundproofing and hygiene.
+- [41] **Daisuke**: I... I also looked at the fit-out quotes. One is 141,000 yen for a screen and table, and the other is 96,000 for a kitchen setup. I'm worried about who will have to sign for these costs.
+- [42] **Rin**: @Daisuke, don't be worried! If we make the room awesome, it'll be worth it! But we have to make sure everyone helps clean up, or the fridge will just get gross again!
+- [43] **Servas**: Money is but a tool, @Daisuke. What truly matters is the investment we make in each other. A space that allows us to speak honestly and bond deeply is priceless for our collective well-being.
+- [44] **Toshio**: @Daisuke, the fit-out costs are a one-time expense, but we must consider the hidden costs of upkeep. If we install a kitchen, who manages the cleaning? We cannot afford to waste more hours on unpaid maintenance.
+- [45] **Shion**: @Toshio, your concern about maintenance is valid, but the current "unpaid maintenance" is already happening at our desks. We are literally working amidst crumbs. A dedicated space is the only logical way to stop the bleed.
+- [46] **Daisuke**: I... I guess you're right, Shion. But 141,000 yen is still a lot... and the kitchen one is 96,000. I just don't want us to agree to something and then realize we can't actually afford it.
+- [47] **Rin**: But we're already spending money on those outside rentals! @Daisuke, if we use that money to fix our own room, it's like a magic trick! We just have to make a real rule about cleaning!
+- [48] **Servas**: @Rin, your spirit is as bright as a morning sun. Indeed, let us not fear the cost, but rather the cost of remaining strangers. We need a place where we can truly see one another.
+- [49] **Toshio**: @Rin, a rule is only as good as its enforcement. If we rely on goodwill for cleaning, we are simply shifting the burden. We need a solution that minimizes the time spent on upkeep.
+- [50] **Shion**: Let's be realistic. We are currently paying for outside space while our office becomes a cafeteria. Whether we choose a professional screen or a kitchen, the priority must be separating the room's noise and mess from our desks.
+- [51] **Daisuke**: I... I understand. If we keep paying for outside rooms, it just keeps adding up. Maybe a one-time cost is better than paying every month... I just hope we can all agree on which one is more important.
+- [52] **Rin**: I think we should pick the one that makes us the happiest! But we have to promise—no more mystery leftovers! Let's make a super-duper cleaning chart so it's fair for everyone!
+- [53] **Servas**: Happiness is a beautiful goal, Rin, but let us remember that true joy comes from peace and understanding. We need a space that invites us to speak our truths and welcome our new colleagues.
+- [54] **Toshio**: We must avoid a solution that creates a permanent chore for one person. If we prioritize a professional setup over a kitchen, we reduce the maintenance burden and the risk of hygiene issues. Efficiency should be our primary metric.
+## Round 3
+- [60] **Shion**: Given the evidence, Option B is the most logical. It addresses the noise leakage and the outside hire costs, while avoiding the hygiene nightmare that Option A would inevitably create. Efficiency and professionalism must come first.
+- [61] **Daisuke**: I... I think Option B makes sense too. If we have a proper meeting space, we can stop spending that 68,000 yen on outside rentals. It seems like the safest choice for our budget.
+- [62] **Rin**: I want Option B too! If we have a calendar, then everyone gets a turn and it's not just the people by the door. Plus, no one has to clean up gross fridge stuff!
+- [63] **Servas**: While Option B provides a structure for our work, let us ensure it is not merely a place for agendas, but a sanctuary for our hearts to speak and our bonds to grow.
+- [64] **Toshio**: Option B is the only sustainable choice. It eliminates the recurring cost of outside rentals and, unlike Option A, does not introduce a permanent maintenance burden that will inevitably fall on a few.
+- [65] **Shion**: It seems we have reached a rare moment of total consensus. @Servas, as long as the room is used for meaningful connection, the structure of Option B does not hinder that. It is the only choice that solves all our problems.
+- [66] **Daisuke**: I... I feel much better now that we're all agreeing. If we go with Option B, we can finally stop those monthly payments and have a clear budget. I'll vote for the meeting space.
+- [67] **Rin**: Me too! A calendar is like a game where everyone gets a fair turn! I'm voting for Option B because it's the most fair and the cleanest! Yay!
+- [68] **Servas**: I shall join you all in voting for Option B. Let us promise that this room will be used not only for business, but as a bridge to turn our strangers into friends.
+- [69] **Toshio**: I agree. Option B minimizes the risk of hidden labor costs and solves the financial leak of outside rentals. It is the most efficient and sustainable path forward. I vote for Option B.
+- [70] **Shion**: Since the logic is sound and the consensus is absolute, there is no reason to prolong this. I vote for Option B. It is the only solution that restores the professional integrity of our workspace.
+- [71] **Daisuke**: I'll vote for Option B as well. It's a relief that we've found a way to stop the outside costs and keep things organized. I'm glad we could all agree on this.
+- [72] **Rin**: I'm voting for Option B too! It's the best way to make sure everyone gets to use the room and nobody has to be the "cleaning hero" all by themselves!
+- [73] **Servas**: I cast my vote for Option B. May this space become a garden where our relationships bloom and where we may speak our truths with kindness and courage.
+- [74] **Toshio**: I vote for Option B. It is the only choice that ensures we are not trading one financial cost for a hidden cost of labor and upkeep.
+- [75] **Shion**: The decision is unanimous. Option B is the only choice that logically addresses the noise, the cost, and the hygiene issues. I believe we have reached the most efficient conclusion possible.
+- [77] **Daisuke**: I'm just glad we could settle this without any arguments. I'll help with the paperwork for the fit-out if that helps. I vote for Option B.
+- [79] **Rin**: I'm so happy we all agree! No more mystery leftovers and no more fighting over who gets the room first! I vote for Option B!
+- [81] **Servas**: I vote for Option B. Let us enter this new chapter with a commitment to listen to one another, ensuring that no one remains a stranger in our shared journey.
+- [83] **Toshio**: I vote for Option B. It is the most pragmatic solution, ensuring that our time and resources are spent on our work rather than on unnecessary maintenance or travel.
+### Vote
+- Shion -> B
+- Daisuke -> B
+- Rin -> B
+- Servas -> B
+- Toshio -> B
+## Result
+- adopted: B

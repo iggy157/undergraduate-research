@@ -1,0 +1,73 @@
+# candidate_selection_0010__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: Um... I think we should look at the things that happen every day. I'd like to check the time lost to copying existing records and the misrouted deliveries in the incident logs.
+- [6] **May**: I agree with Daisuke that we need a reality check. I'll look into the staffing of the coordination group and in-house developer availability to see who is actually going to do the work.
+- [7] **Shunichi**: It's all well and good to look at the "floor," but we shouldn't ignore the technical hurdles. I'll check network coverage at customer plants and the outcomes of the last three internal rollouts.
+- [8] **Ryuji**: I believe we need to be clear about the financial implications before we commit. I will look into the capital budget and software allowance, as well as vendor licence pricing versus fixed-fee work.
+- [9] **Kenji**: That sounds like a great plan, everyone! I want to see what we can learn from the past, so I'll check the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts!
+- [10] **Daisuke**: I... I'm glad everyone is on board. I just hope that by looking at those logs, we can find a project that actually helps the people struggling with the small things.
+- [11] **May**: Exactly. It's easy to get swept up in a fancy pitch, but if the people on the ground are already drowning in work, a new tool might just be another burden.
+- [12] **Shunichi**: @May, your concern is noted, but a "burden" is usually just a lack of planning. I'm more interested in whether the infrastructure even supports these ideas before we start worrying about the rota.
+- [13] **Ryuji**: @Shunichi, planning is only as good as the budget that supports it. If we miscalculate the funding source or the long-term costs, the most well-planned project will still fail.
+- [14] **Kenji**: I think you're all making really important points! I just want to make sure we don't make the same mistakes twice. Let's see what the data tells us!
+- [15] **Daisuke**: I... I agree with Kenji. I just hope we don't overlook the small, repetitive problems that the data might not show as "failures," but still make the work hard for everyone.
+- [16] **May**: That's why I'm checking the staffing, Daisuke. If the coordination group is already stretched thin, they can't just "absorb" a new project. We need to know who is actually available to manage this.
+- [17] **Shunichi**: @May, checking staffing is a start, but it's useless if the project requires a network that doesn't exist. I'm more concerned with the physical and technical constraints that usually get ignored until it's too late.
+- [18] **Ryuji**: @Shunichi, technical constraints are critical, but they are often tied to how we pay for the solution. A fixed-fee build is a different risk than a per-user license. We must understand the cost structure first.
+- [19] **Kenji**: I'm just so excited to see what we find! I think if we combine all these different views—the money, the people, and the history—we'll definitely pick the best project for everyone!
+- [20] **Daisuke**: I... I hope so, Kenji. I'll just wait for the results now. I really want us to find something that makes the daily work a little easier for everyone.
+- [21] **May**: I'm with you, Daisuke. Let's just make sure we don't let the "impressive" options blind us to the actual capacity of our team. I'm looking forward to seeing the numbers.
+- [22] **Shunichi**: Numbers are fine, but they don't tell the whole story. I'm looking for the gaps between the promise and the reality. Let's see if the data actually supports the ambitions of these proposals.
+- [23] **Ryuji**: I agree. Data provides the necessary boundaries for our decision. Once we have the facts regarding the budget and the technical constraints, we can evaluate the proposals with a rational perspective. I am ready to proceed.
+- [24] **Kenji**: Me too! I can't wait to see what the records show. Let's get the information and figure this out together! I'm ready!
+## Round 2
+- [35] **Daisuke**: I... I found that people in the depot and planning office lose nearly an hour every day just copying records. Also, eleven deliveries were misrouted because different units have different addresses for the same firm.
+- [36] **May**: That's exactly what I feared, Daisuke. My findings are just as grim: the coordination group is understaffed and still doing logs by hand, and our in-house developers are completely unavailable until Q3. We have no one to build or manage this.
+- [37] **Shunichi**: It seems we're facing a reality check. I found that half of the customer plants have terrible network coverage and device approval is a nightmare. Also, broad tools requiring daily entry from everyone usually fail.
+- [38] **Ryuji**: The financial situation is equally restrictive. The capital budget is frozen, meaning we can only use the recurring software allowance. Furthermore, per-head licenses will increase costs as we scale, whereas fixed-fee work remains stable.
+- [39] **Kenji**: Wow, that's a lot of information! I also saw that broad tools requiring daily entry from everyone usually get dropped, and most cross-unit standardization efforts failed because they had no owner. We really need something focused!
+- [40] **Daisuke**: I... I feel like the data shows we really need to fix those daily losses. The copying and the misrouted deliveries are happening right now, and they seem like things we could actually solve.
+- [41] **May**: @Daisuke, I agree, but we have to be careful. With no developers available and the coordination group already drowning in manual logs, we can't pick anything that adds more administrative work to their plates.
+- [42] **Shunichi**: @May, you're finally seeing the point. If we pick a project that requires broad adoption or complex setup, it'll be dead in a year. We need something narrow and technically feasible.
+- [43] **Ryuji**: @Shunichi, I agree. Given the frozen capital budget, we must avoid any project requiring a large upfront investment. We should prioritize solutions that fit within the recurring software allowance and avoid per-head licensing to prevent future budget spikes.
+- [44] **Kenji**: @Ryuji, that's a great point about the budget! And @Shunichi, since we know broad tools fail, maybe we should look for something that helps a specific group without needing everyone to use it every day?
+- [45] **Daisuke**: I... I think that makes sense. If we can find a way to stop the copying and the address errors without making more work for the coordination group, it would really help the people on the floor.
+- [46] **May**: @Daisuke, exactly. But remember, we can't rely on our in-house developers. Whatever we choose must be something we can implement without them, or something that doesn't require a massive technical build-out from scratch.
+- [47] **Shunichi**: @May, precisely. And we must avoid anything relying on customer-site connectivity, given the signal issues I found. A "fancy" app is useless if it can't connect. We need a focused, low-maintenance tool.
+- [48] **Ryuji**: @Shunichi, your point about connectivity is vital. Combined with the budget freeze, we must avoid high-risk technical dependencies. A solution with a fixed-fee structure and low operational overhead is the only rational choice.
+- [49] **Kenji**: I'm starting to see a pattern! We need something that doesn't need everyone's daily input, doesn't rely on bad networks, and doesn't cost a fortune to scale. I wonder if any of the candidates fit all those rules?
+- [50] **Daisuke**: I... I just hope the candidates have something that addresses the address errors and the copying. It would be so sad if we had the data but couldn't find a way to actually help the staff.
+- [51] **May**: @Daisuke, don't lose heart. We have a very clear set of constraints now. As long as we don't pick a project that pretends our staff have infinite free time, we'll be making the right choice.
+- [52] **Shunichi**: Let's be realistic. We need a project that is narrow in scope, avoids the nightmare of customer-site connectivity, and doesn't require a small army of developers or users to maintain it. Anything else is just a fantasy.
+- [53] **Ryuji**: I agree. We must be disciplined. We need a solution that fits the recurring software allowance, avoids per-head licensing, and requires minimal internal staffing. Let us see which candidate survives these rational constraints.
+- [54] **Kenji**: I'm ready too! It feels like we've built a great checklist together. I can't wait to see the candidates and help everyone pick the one that actually works and lasts!
+## Round 3
+- [60] **Daisuke**: I... I think Candidate C, the Supplier Data Hub, is the best. It could stop the misrouted deliveries and the copying of records that I found, and it seems more focused than the others.
+- [61] **May**: @Daisuke, I agree. Candidate C solves the actual problems you found without requiring the coordination group to do more manual logs. A and D sound like they'd just add more daily data-entry burdens to an exhausted staff.
+- [62] **Shunichi**: @May, exactly. Candidate A is a non-starter; my data on network coverage and device approval makes a mobile app a fantasy. Candidate D is just another "broad tool" that will be quietly dropped. C is the only rational choice.
+- [63] **Ryuji**: @Shunichi, I agree. Candidate A is too risky technically, and D likely involves per-head licensing for a broad user base. Candidate B is a production unit, which may require capital. Candidate C is the most fiscally sound.
+- [64] **Kenji**: I agree with everyone! Candidate C solves the problems Daisuke found, avoids the "broad tool" trap I saw in the records, and fits all our constraints. It's the perfect choice to actually help the company!
+- [65] **Daisuke**: I... I'm really relieved that we all agree. I was worried we might pick something that sounded impressive but didn't actually help the people struggling with the records. Candidate C seems like it will truly make a difference.
+- [66] **May**: It's a relief, too. We're choosing a solution that addresses a real pain point without pretending our staff have magic spare time. Candidate C is the only one that doesn't feel like a burden in disguise.
+- [67] **Shunichi**: It's rare we reach a consensus this quickly, but the logic is airtight. A is a technical disaster, B is a resource sink, and D is a ghost project in the making. C is the only one that isn't a fantasy.
+- [68] **Ryuji**: @Shunichi, the logic is indeed sound. Candidate C addresses the operational inefficiencies while remaining compatible with our recurring software allowance and avoiding the risks of per-head licensing. It is the only choice that satisfies all our constraints.
+- [69] **Kenji**: I'm so happy we could all agree! It feels great to pick something that actually solves a problem and has a real chance of surviving its first year. I'm voting for Candidate C!
+- [70] **Daisuke**: I... I'll vote for Candidate C as well. I'm just really happy that we're choosing something that will actually stop those daily mistakes and help the people in the depot.
+- [71] **May**: I'm voting for Candidate C. It's the only option that respects our current staffing limits while actually fixing the mess Daisuke found. Let's give the team a tool that helps rather than another chore.
+- [72] **Shunichi**: I'll vote for Candidate C. It's the only proposal that survives a basic reality check regarding our infrastructure and history. The others are simply delusions of grandeur.
+- [73] **Ryuji**: I will also vote for Candidate C. It is the only proposal that aligns with our financial constraints and operational reality. It is the most rational and sustainable choice for the company.
+- [74] **Kenji**: I'm voting for Candidate C too! It's awesome that we all agree on something that's actually helpful and realistic. Let's make it happen!
+- [75] **Daisuke**: I... I'm just glad we could do this together. I'll cast my final vote for Candidate C. Thank you for listening to me and for caring about the people on the floor.
+- [76] **May**: I'll cast my final vote for Candidate C as well. It's a win for the staff and a win for the company. I'm glad we stayed focused on the human cost of these projects.
+- [77] **Shunichi**: My final vote is for Candidate C. It is the only option that isn't a technical or operational fantasy. I'm glad we managed to avoid a predictable disaster this year.
+- [78] **Ryuji**: My final vote is for Candidate C. It is the only proposal that is fiscally responsible and operationally viable. I am satisfied that we have reached a decision based on reason and evidence.
+- [79] **Kenji**: My final vote is for Candidate C! I'm so glad we looked at the history and the data to make this choice. Let's hope this one is a huge success for everyone!
+### Vote
+- Daisuke -> C
+- May -> C
+- Shunichi -> C
+- Ryuji -> C
+- Kenji -> C
+## Result
+- adopted: C

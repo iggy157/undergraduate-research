@@ -1,0 +1,73 @@
+# shared_living_0004__multi-private (shared_living)
+
+## Round 1
+- [5] **Sakura**: I'm so excited for our trip! I wonder where we'll go this year? Let's figure out the best place! @Victoria, @Midori, @Toshio, @Daisuke, what do you all think we should check first?
+- [6] **Victoria**: It is good to be thorough from the start. I think we should look into the overall costs to avoid any surprises later. What do you all think about comparing the different pricing structures?
+- [7] **Midori**: I agree with Victoria. It's important that everyone feels comfortable with the budget. I'm also curious about how we spent our time last year, so maybe we should look into that too?
+- [8] **Toshio**: I agree that budget and past experiences are important. However, I believe the logistics of the journey are equally critical to ensure we actually enjoy our time there. Let's consider the travel efficiency.
+- [9] **Daisuke**: I... I agree with everyone. Maybe we should also check the details of where we'll stay? Like the room arrangements or the bathrooms... just to make sure everything is okay for everyone.
+- [10] **Sakura**: That sounds like a great plan! I want to know if we can get a big house together! I'll check "Pricing of offshore houses let whole" and "All-in rates against meals bought separately"!
+- [11] **Victoria**: I will look into "All-in rates against meals bought separately" and "What separately booked rooms cost last time." I want to have a clear picture of the total expenditure before we make a final decision.
+- [12] **Midori**: I'll look into "How last year's days ran" and "Time alone in the shared-house year." I think reflecting on our previous dynamics will help us choose the best environment for everyone this time.
+- [13] **Toshio**: I will look into "Ferry sailings and train time" and "Getting around by train and bus." I want to see how much time we actually spend in transit before we commit to a destination.
+- [14] **Daisuke**: I'll... I'll look into "Bathing hours and bathroom provision" and "Inn mealtimes and room arrangements." I just want to make sure the schedule and the space work for everyone.
+- [15] **Sakura**: Wait, I just realized! If we get a big house, will we have to cook? I'm super curious if the all-in rates are way cheaper than buying snacks and meals separately! This is going to be so much fun!
+- [16] **Victoria**: That is a valid point, Sakura. Knowing whether a package deal is more economical than paying as we go will help us avoid any unexpected costs during the trip.
+- [17] **Midori**: Cooking together can be a lovely way to bond, but it's also important to make sure we don't overwork anyone. I'm looking forward to seeing how our time was balanced last year.
+- [18] **Toshio**: Efficiency is key. If we spend too much time on logistics or cooking, we lose the purpose of the holiday. I'll focus on the transit data to see if we can minimize the dead time.
+- [19] **Daisuke**: I... I hope the room arrangements are flexible. I just don't want anyone to feel uncomfortable or crowded. I'll let you know what I find out about the bathrooms and mealtimes.
+- [20] **Sakura**: Yay! We've all picked our things! I can't wait to see what we find out. It's like a treasure hunt for our vacation! Let's hope for something super exciting!
+- [21] **Victoria**: I agree. Let us wait for the results of our research. Having a clear set of data will allow us to make a rational and fair decision for everyone.
+- [22] **Midori**: I'm looking forward to it too. I hope the information helps us find a place where we can all relax and enjoy each other's company perfectly. See you all in the next round!
+- [23] **Toshio**: I agree. Let's review the findings in the next round and determine which destination offers the most efficient use of our time. Until then.
+- [24] **Daisuke**: I... I'll do my best to find the information. I hope we can find a place where everyone feels comfortable. See you all soon.
+## Round 2
+- [35] **Sakura**: Wow, I found some stuff! The island houses are about 5,400 yen per person per night, but food is extra. Also, all-in rates mean everyone pays the same, even if some people eat way more than others!
+- [36] **Victoria**: That is an important detail, Sakura. I also found that renting a whole building results in a single, evenly divided bill, whereas separate rooms can lead to significant price differences between us, as we saw last time.
+- [37] **Midori**: That's interesting. I've been thinking about our group dynamic. It seems that when we stay in a shared house, it's harder to find a moment of quiet, whereas a town setting allows for more natural balance.
+- [38] **Toshio**: The transit data is concerning. The island option consumes two full days just for travel, and the spa valley has limited bus service. A city destination seems far more efficient, as the frequent trains eliminate the need for rigid planning.
+- [39] **Daisuke**: I... I found out that the island houses only have one bathroom for everyone, and the water might get cold. Also, the inns have very strict mealtimes and we'd all be in one room on futons.
+- [40] **Sakura**: One bathroom for everyone?! That sounds like a giant puzzle to solve every morning! But wait, if we pay for the house as one big bill, does that mean we won't have to argue about who owes what?
+- [41] **Victoria**: Exactly. A single bill for the whole building ensures a predictable cost for everyone from the start. It eliminates the risk of some of us paying significantly more than others due to room differences.
+- [42] **Midori**: That's true, Victoria. But thinking about Daisuke's point, one bathroom for five people might feel a bit crowded. I wonder if a town setting would give us more breathing room while still keeping us together?
+- [43] **Toshio**: I agree with Midori. Beyond the bathroom issue, the island's travel time is a waste. Two days spent moving is unacceptable. A city destination is the only logical choice if we want to actually relax.
+- [44] **Daisuke**: I... I think the city might be better. The idea of everyone in one room on futons... and the strict mealtimes... it sounds a bit overwhelming. A room with a door would be much easier.
+- [45] **Sakura**: A room with a door sounds boring! But if the city is faster to get to, we have more time for adventures! @Victoria, if we go to the city, can we still find a place with one big bill?
+- [46] **Victoria**: @Sakura, that depends on the accommodation. While hotels usually bill per room, we could look for a city apartment or a rental house. That would give us the predictable total cost I prefer.
+- [47] **Midori**: That sounds like a wonderful compromise. A city apartment would give us that shared space for bonding, but the surrounding town would allow us to step away for a bit if we need a moment of peace.
+- [48] **Toshio**: Exactly. A city apartment minimizes transit time and avoids the rigid schedules of an inn. It is the most rational choice to ensure we return home rested rather than exhausted by the journey itself.
+- [49] **Daisuke**: I... I agree. A city apartment sounds much better. I think I would feel more relaxed if we didn't have to follow a strict timetable for everything. It seems like the best choice for everyone.
+- [50] **Sakura**: I'm totally on board with the city apartment! It's fast, we can have a big shared space, and it sounds like it solves everyone's worries. Let's do it! This is going to be the best trip ever!
+- [51] **Victoria**: I agree. A city apartment provides the balance of efficiency and cost predictability we need. As long as we can secure a single rental bill, it is the most rational choice for the group.
+- [52] **Midori**: I'm very happy we've found a solution that considers everyone's needs. A city apartment will let us enjoy our time together while giving us the flexibility to breathe. I'm looking forward to it!
+- [53] **Toshio**: It is settled then. The city option is the only one that respects our time and avoids unnecessary stress. I am satisfied with this decision. Let us proceed to the final vote.
+- [54] **Daisuke**: I... I'm glad we all agree. I think I'll be able to sleep much better in a city apartment. I'm looking forward to going with everyone.
+## Round 3
+- [60] **Sakura**: Wait, "separate accommodation" for the city break? @Victoria, does that mean we won't have that one big bill we talked about? I really want us to have a simple way to pay!
+- [61] **Victoria**: @Sakura, it seems the option is phrased as separate accommodation. If that means individual hotel rooms, we risk the price discrepancies I mentioned. I would prefer we clarify if a shared rental is possible.
+- [62] **Midori**: Even if the accommodation is separate, the city's layout allows us to meet and part naturally. It prevents us from feeling too crowded or too isolated, which I think is the most important balance for us.
+- [63] **Toshio**: The phrasing of the city break is less ideal than we discussed, but the transit efficiency remains the priority. Compared to the island or the inn, the city still minimizes wasted time and rigid schedules.
+- [64] **Daisuke**: I... I still think the city is best. Even if the rooms are separate, having a door and no strict timetable is really important. I think it's the only way I'll feel truly relaxed.
+- [65] **Sakura**: But if we have separate rooms, we'll have to do a bunch of math to figure out who pays what! That's no fun! @Victoria, can we just agree to find a big place together instead?
+- [66] **Victoria**: @Sakura, I agree. To ensure the total cost is transparent and fair for everyone, we should commit to a shared rental. If we choose the city, let's make it a condition that we book a single property.
+- [67] **Midori**: I think that's a fair condition. As long as we have a shared space to gather in, we can maintain our bond while still having the freedom to explore the city individually when we need a break.
+- [68] **Toshio**: Whether the rooms are separate or shared, the city break is the only option that doesn't waste our limited time on tedious travel. I will vote for the city to ensure we maximize our actual holiday.
+- [69] **Daisuke**: I... I agree with Toshio. The city is the only place where I won't feel trapped by a schedule. I'll vote for the city break, as long as we can find a place that's comfortable.
+- [70] **Sakura**: I'm still a little worried about the "separate" part, but if everyone says the city is the best, I'll go with it! Let's just promise to make the paying part super easy! I vote for the City Break!
+- [71] **Victoria**: I will also vote for the City Break. While the phrasing is concerning, the efficiency and the potential for a shared rental make it the most logical choice. Let us ensure the billing is handled simply.
+- [72] **Midori**: I'll vote for the City Break as well. It offers the perfect balance of togetherness and personal space, ensuring no one feels crowded or lonely. I'm sure we can make the arrangements work for everyone!
+- [73] **Toshio**: I vote for the City Break. It is the only option that avoids the inefficiency of long travel times and rigid schedules, allowing us to return home without needing another holiday to recover.
+- [74] **Daisuke**: I... I'll vote for the City Break too. I'm really relieved we're choosing this. I think it's the best way for all of us to have a good time. I vote for the City Break.
+- [75] **Sakura**: Yay! We all agree! It's a City Break! Now let's just make sure we find a giant, awesome place to stay so we can all be together and keep the money stuff super simple!
+- [76] **Victoria**: I agree. Let us prioritize a single rental property to ensure the costs are transparent and divided equally. I am glad we reached a rational consensus that satisfies everyone's needs.
+- [77] **Midori**: I'm so glad we've all found a way to be happy with the choice. I'll help look for a place that has a cozy common area for us to gather in! It's going to be wonderful.
+- [78] **Toshio**: The decision is final. Now that we have chosen the most efficient destination, we can focus on the details. I look forward to a trip that allows us to actually relax.
+- [79] **Daisuke**: I... I'm really happy we decided this. Thank you for listening to me. I'm looking forward to the trip and spending time with all of you.
+### Vote
+- Sakura -> B
+- Victoria -> B
+- Midori -> B
+- Toshio -> B
+- Daisuke -> B
+## Result
+- adopted: B

@@ -1,0 +1,301 @@
+{
+ "aiwolf_0003__single-batch-stepped.md": [
+  {
+   "seq": 5,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "greeting adds no substantive content"
+  },
+  {
+   "seq": 6,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 5,
+   "resp_type": "agree",
+   "note": ""
+  },
+  {
+   "seq": 7,
+   "speaker": "Rin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "excitement sentence adds no substantive info"
+  },
+  {
+   "seq": 8,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 9,
+   "speaker": "Benjamin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 0,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "pleasantries, no new information"
+  },
+  {
+   "seq": 10,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 11,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 10,
+   "resp_type": "answer",
+   "note": ""
+  },
+  {
+   "seq": 12,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 11,
+   "resp_type": "object",
+   "note": "objects to Mizuki's seriousness"
+  },
+  {
+   "seq": 14,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 12,
+   "resp_type": "object",
+   "note": "opposes Rin's premature deduction"
+  },
+  {
+   "seq": 17,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 14,
+   "resp_type": "object",
+   "note": "defends against claim of being premature"
+  },
+  {
+   "seq": 18,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 19,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 18,
+   "resp_type": "agree",
+   "note": ""
+  },
+  {
+   "seq": 31,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "opening sentence 'I have information' adds no new info"
+  },
+  {
+   "seq": 32,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 31,
+   "resp_type": "object",
+   "note": "objects to accusation and questions framing"
+  },
+  {
+   "seq": 33,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": "exclamation 'Whoa!' is extra"
+  },
+  {
+   "seq": 34,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": "sentiment 'That was fast' adds no substantive info"
+  },
+  {
+   "seq": 35,
+   "speaker": "Benjamin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "dramatic opening is extra sentiment"
+  },
+  {
+   "seq": 36,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 34,
+   "resp_type": "answer",
+   "note": ""
+  },
+  {
+   "seq": 37,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 36,
+   "resp_type": "object",
+   "note": "claims Jonathan is lying"
+  },
+  {
+   "seq": 38,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 36,
+   "resp_type": "agree",
+   "note": ""
+  },
+  {
+   "seq": 39,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 36,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 40,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 39,
+   "resp_type": "agree",
+   "note": ""
+  },
+  {
+   "seq": 41,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 42,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 41,
+   "resp_type": "object",
+   "note": "opposes execution and accuses Jonathan"
+  },
+  {
+   "seq": 43,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": 41,
+   "resp_type": "agree",
+   "note": "extra sentiment about disliking fights"
+  },
+  {
+   "seq": 44,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": 41,
+   "resp_type": "add",
+   "note": "introductory 'I'm torn' adds no substantive info"
+  },
+  {
+   "seq": 45,
+   "speaker": "Benjamin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "opening sentiment about shame adds no substantive info"
+  }
+ ]
+}

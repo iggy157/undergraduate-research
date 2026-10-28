@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Toshio**: Since our current habit isn't working, we need a sustainable system for the year. I believe we should first clarify the actual costs and the time required to keep the place clean.
+- [6] **Ryuji**: I agree. We can't build a fair system without objective data. I'm particularly concerned about the actual time commitment involved in these tasks; we need to know exactly how many hours we're spending.
+- [7] **Benjamin**: I concur. However, time and cost are only part of the equation. To be truly equitable, we should also examine the correlation between how much we actually use the spaces and the work we contribute.
+- [8] **May**: Exactly! But let's not forget the most important part: the quality. It's a gamble every time I walk into the bathroom. We need a standard so we aren't just guessing if a room is actually clean.
+- [9] **Midori**: I agree with everyone. While the data is important, I really hope we find a system that keeps us all happy and friendly. Let's make sure we choose something that prevents any future misunderstandings or tension.
+- [10] **Toshio**: To ensure transparency, I'll look into the management office rate sheet and billing, as well as the bathroom spray stock and the tin's receipts. We need to see where the money is actually going.
+- [11] **Ryuji**: I'll take the stopwatch timing of a full pass and the standard terms of the outside firm. I want to compare the actual labor hours against the cost of professional help.
+- [12] **Benjamin**: I shall investigate a fortnight's watch on kitchen use and the absences on the wall calendar. It would be most illuminating to see who is actually present to create the mess we are discussing.
+- [13] **May**: I'll check what each housemate counts as done and the bathroom grout after the July scrub. If we can't agree on what "clean" actually looks like, no amount of timing or billing will help us.
+- [14] **Midori**: I'll look into the rows recorded in the house chat and the note left by the previous tenants. I want to see where we've struggled before so we can avoid the same arguments this year.
+- [15] **Toshio**: That covers the essential data points. Once we have these facts, we can determine if a self-managed rotation or a paid service is more viable for our budget and schedules.
+- [16] **Ryuji**: It is a logical approach. By comparing the time we spend manually cleaning with the cost of a professional service, we can determine if the trade-off is worth the financial expense.
+- [17] **Benjamin**: Indeed. While the financial trade-off is a compelling metric, I suspect we may find that the perceived burden is not distributed as evenly as our current assumptions suggest. Data will be our best mediator.
+- [18] **May**: I just hope we stop playing "cleaning roulette." If the data shows we're all imagining different versions of "clean," we'll have to get very specific about the rules this time. No more guessing!
+- [19] **Midori**: I agree. Being specific might seem strict, but it's actually kinder in the long run. If we're all on the same page, we can avoid those little frustrations that build up and hurt our friendships.
+- [20] **Toshio**: Let's proceed then. We have our assignments. I expect we can all be thorough in our research so that we can make a decision based on facts rather than feelings in the next round.
+- [21] **Ryuji**: I will ensure my timing is precise. Having a clear baseline of the actual hours required is the only way to determine if our current arrangement is truly sustainable or simply an invisible drain on our time.
+- [22] **Benjamin**: I shall apply the same rigor to my observations. It would be a pity to design a sophisticated system only to discover it is based on the fiction that we all occupy these rooms with equal frequency.
+- [23] **May**: I'm on it! I'll get to the bottom of these "standards" of ours. I can't wait to see if we're all actually talking about the same thing when we say a room is clean. See you all soon!
+- [24] **Midori**: I'll do my best to find some helpful insights. I'm looking forward to seeing what we all discover so we can find a peaceful solution that works for everyone. See you all in the next round!
+## Round 2
+- [35] **Toshio**: My findings show a lack of coordination. We're wasting money by buying duplicate supplies, and the current billing system relies on one person collecting funds, which is inefficient and prone to oversight.
+- [36] **Ryuji**: The time commitment is higher than I suspected. A full pass takes over an hour and a half. When these tasks pile up, it's a significant drain on our personal time that we can't ignore.
+- [37] **Benjamin**: My findings confirm my suspicions. There is a stark disparity in usage; a few of us dominate the kitchen, while others are barely present, with some away for entire months. Our current "equal" split is a mathematical fiction.
+- [38] **May**: It's exactly as I feared! Our "clean" is totally different for everyone, which is why the rooms are a gamble. Plus, that bathroom grout is a nightmare; it's back to black in eleven days because of the ventilation.
+- [39] **Midori**: It sounds like we're all seeing different problems. I found that our past arguments started with reminders, and the previous tenants actually stopped speaking because of this. I'm really worried we might head down that same path.
+- [40] **Toshio**: @Midori, that is precisely why we need a system that removes the need for reminders. If we automate the billing and the schedule, we eliminate the personal friction that leads to those arguments.
+- [41] **Ryuji**: @Toshio, automation helps, but it doesn't reduce the labor. If a full pass takes over 100 minutes, we are losing hours every month. We must consider if paying a professional is more efficient than this drain.
+- [42] **Benjamin**: @Ryuji, while outsourcing solves the labor issue, it doesn't address the equity of the cost. Why should someone who is absent for a month pay the same as someone who lives in the kitchen?
+- [43] **May**: @Benjamin, equity is great, but consistency is better. If we just split costs by usage, we're still guessing if the place is actually clean. We need a professional standard so I don't have to brace myself before entering the bathroom.
+- [44] **Midori**: @May, I understand wanting a professional standard. But if we focus too much on who pays what or who did what, we might end up arguing more. I just want us to stay friends.
+- [45] **Toshio**: @Midori, friendship is maintained through fairness, not by ignoring the problem. If we continue with this haphazard spending and uneven burden, resentment will grow regardless of how polite we are. We need a clear financial structure.
+- [46] **Ryuji**: @Toshio, I agree. However, we must also account for the "hidden" cost of our time. If we outsource, we must accept the firm's terms, meaning we still have to tidy surfaces beforehand. It doesn't eliminate all effort, but it reduces the heavy lifting.
+- [47] **Benjamin**: @Ryuji, precisely. Even with a firm, the "tidying" phase remains. If we combine that with my data on usage, it becomes clear that a flat split—whether of labor or cost—is logically flawed and inherently unfair to the light users.
+- [48] **May**: @Benjamin, you're overthinking the math! Whether you're here for a day or a month, the grime doesn't care. I just want to stop the "cleaning roulette." A professional service gives us a guaranteed baseline so we can actually relax.
+- [49] **Midori**: @Benjamin, @May, I hear you both. But if we make the rules too complex or focus only on the grime, we might forget to be kind to each other. Let's find a balance that feels fair but simple.
+- [50] **Toshio**: Regardless of the method, we must stop the current practice of haphazard out-of-pocket spending. Any system we choose must include a transparent, centralized way to handle supplies and billing so no one is left footing the bill.
+- [51] **Ryuji**: I agree. To summarize, we are balancing three things: the high time cost of manual labor, the unfairness of usage disparities, and the need for a consistent standard. We need a solution that minimizes our time drain while remaining financially transparent.
+- [52] **Benjamin**: And let us not forget the psychological cost of perceived unfairness. A system that ignores the reality of our presence in the house is merely a recipe for future resentment, regardless of how "simple" it may seem.
+- [53] **May**: Let's just be real: we're all stressed because the house is unpredictable. Whether it's the money or the time, the biggest win is a guaranteed clean. I'm voting for whatever gets us a professional standard and ends the guessing game!
+- [54] **Midori**: I hope we can all agree on something that feels right for everyone. Let's look at the options and choose the one that keeps our home a happy place and our friendships strong for the whole year.
+## Round 3
+- [60] **Toshio**: Option B is the most logical. It provides the professional standard May wants and eliminates the labor drain Ryuji noted. Most importantly, a monthly invoice allows for a transparent, centralized billing process to end the out-of-pocket confusion.
+- [61] **Ryuji**: I agree. Option B is the only choice that meaningfully addresses the time expenditure. Spending over 100 minutes per pass is an unsustainable drain on our productivity and mental energy that a professional service effectively removes.
+- [62] **Benjamin**: While Option B is efficient, it still leaves the question of cost distribution open. However, compared to the rigid unfairness of a rota or the chaos of standing assignments, it is the most rational foundation for a fair agreement.
+- [63] **May**: Option B is the only one that actually solves my problem! A professional service means a professional result. No more guessing, no more "cleaning roulette," and no more staring at black grout. I'm all in!
+- [64] **Midori**: I'm leaning toward Option B too. While it costs money, it removes the need for us to remind or nag each other about chores, which is where our past arguments started. It seems like the safest way to keep us all friends.
+- [65] **Toshio**: @Benjamin, we can simply agree to a flat monthly fee for the service and a shared fund for supplies. This removes the ambiguity of who paid for what and ensures no one is left out of pocket.
+- [66] **Ryuji**: @Toshio, a flat fee is acceptable. While it doesn't perfectly solve the usage disparity Benjamin mentioned, the time saved is a universal benefit. The cost is a fair trade for reclaiming those hours of labor every month.
+- [67] **Benjamin**: @Toshio, @Ryuji, a flat fee is a pragmatic compromise. While it lacks mathematical precision regarding usage, it is far more elegant than the interpersonal friction a rota would inevitably generate. I can accept this for the sake of harmony.
+- [68] **May**: See? We're finally agreeing! Let's stop over-analyzing the math and just commit to the professional service. I'm tired of the unpredictability; I just want to walk into a clean room without holding my breath.
+- [69] **Midori**: I'm so glad we're all on the same page. Option B feels like the kindest choice because it takes the pressure off us and lets us focus on being housemates instead of managers. I'm happy to vote for it!
+- [70] **Toshio**: Since we have reached a consensus on the benefits of Option B, I see no reason to delay. It solves the financial ambiguity and the labor issue simultaneously. I am ready to vote.
+- [71] **Ryuji**: I am also ready. The data on time expenditure makes the choice clear; the cost of the service is a reasonable price to pay for the recovery of our time and peace of mind.
+- [72] **Benjamin**: I shall join the consensus. While I still find the usage disparity a curious oversight, the avoidance of a rigid rota is a victory for logic and peace. I am ready to vote for Option B.
+- [73] **May**: Finally! I'm so relieved we're doing this. No more guessing, no more grout nightmares, and no more stress. I'm voting for Option B in a heartbeat!
+- [74] **Midori**: I'm really happy we've found a solution that everyone likes. It feels like a weight has been lifted, and I'm sure this will keep our home peaceful. I'm ready to vote for Option B too!
+- [75] **Toshio**: It is settled. Option B provides the financial transparency and professional consistency we require. I will vote for the Paid Cleaning Service to ensure we have a clear, centralized system for the coming year.
+- [76] **Ryuji**: I will also vote for Option B. Eliminating the significant time drain of manual cleaning is the most rational decision for our long-term productivity and well-being. It is the only sustainable path forward.
+- [77] **Benjamin**: I shall cast my vote for Option B. While a usage-based fee would be the pinnacle of fairness, a professional service is a far more sophisticated solution than any rota we could devise. Logic dictates we prioritize peace.
+- [78] **May**: I'm voting for Option B! I can't wait to finally stop playing cleaning roulette and actually enjoy our shared spaces. Let's get this professional service started and put the grout nightmares behind us!
+- [79] **Midori**: I'm voting for Option B as well. I'm so relieved we've found a way to keep the house clean without risking our friendships. Let's make this year a happy and peaceful one for all of us!
+### Vote
+- Toshio -> B
+- Ryuji -> B
+- Benjamin -> B
+- May -> B
+- Midori -> B
+## Result
+- adopted: B

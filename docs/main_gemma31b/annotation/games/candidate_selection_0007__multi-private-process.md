@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **May**: Hello everyone! I'm looking forward to this. To make sure we aren't just repeating old mistakes, I want to dive into the two pilots from eight years ago and the completion records of the earlier accessibility programme.
+- [6] **Benjamin**: It is a pleasure to be here. To ensure our ambitions don't outpace our actual capacity, I shall examine the roster books for the late-turn pool and the crew establishment and maintenance contract. Logic suggests we check our resources first.
+- [7] **Midori**: Hello. I think it's important to understand where passengers are actually losing time. I'd like to look into the timed runs and crowd counts mid-city, as well as the journey audits on where minutes go.
+- [8] **Shizue**: Hello everyone. It is a pleasure to meet you all. I worry about the things we cannot see on a map, so I will look into the joint operators' committee minutes and the contingency pricing inside the pre-war shells.
+- [9] **Jonathan**: Hello. I believe we should be mindful of our long-term obligations. I will look into the balances in the capital ledger and the ticketing contractor fees and paving rates to understand our true financial commitments.
+- [10] **May**: It seems we've all got our niches covered! @Benjamin, your focus on resources is sensible, but I hope we don't ignore the lessons of the past. Let's see if history has any warnings for us.
+- [11] **Benjamin**: @May, history is a wonderful teacher, provided the students are paying attention. I simply wish to ensure that the "lessons" we learn are actually executable by the people on the ground. Logic dictates we cannot build castles in the air.
+- [12] **Midori**: I agree with both of you. While history and resources are vital, I hope we can also focus on the actual passenger experience. It's easy to overlook the small delays that really add up for people.
+- [13] **Shizue**: You are all so thoughtful. @Midori, you are quite right to think of the passengers. I only hope we can find a path that is smooth for everyone, without any hidden surprises along the way.
+- [14] **Jonathan**: I appreciate the sentiment. I only hope that by clarifying our current financial obligations, we can avoid the usual disputes over funding and focus on what the network truly requires for the future.
+- [15] **May**: I'm feeling quite optimistic! It's a lovely mix of perspectives. @Jonathan, I'm curious if your ledger search will reveal any ghosts of projects past that we're still paying for. History has a way of lingering in the budget.
+- [16] **Benjamin**: @May, your fascination with ghosts is charming, though I prefer the living. I suspect the real ghosts are the exhausted crews we've forgotten to account for in these grand designs. Let us hope the numbers are honest.
+- [17] **Midori**: I hope the numbers are honest too. @Benjamin, I'm interested to see if the crew schedules align with where the passengers are struggling most. It would be wonderful if we could balance efficiency with a better experience.
+- [18] **Shizue**: It is so lovely to see you all collaborating like this. I hope we can find a way to make the work easier for the staff and the journey kinder for the passengers.
+- [19] **Jonathan**: It is a pleasure to see such harmony. I believe that once we understand the actual costs of our contracts, we can make decisions based on reality rather than optimistic projections.
+- [20] **May**: I'll keep a keen eye on those old reports. It would be such a shame to fall in love with a "new" idea that already failed once. Let's see what the archives have to tell us!
+- [21] **Benjamin**: Indeed. I shall await the revelations of the archives and the ledgers with a measured curiosity. Until then, I remain hopeful that our final choice will be one that our staff can actually deliver.
+- [23] **Midori**: I'm looking forward to seeing what we all discover. I hope we can find a solution that truly respects the passengers' time and makes their daily journeys a bit more pleasant.
+- [25] **Shizue**: I wish you all the best of luck with your research. I shall be waiting patiently to see what we find, hoping for a plan that brings peace of mind to everyone involved.
+- [27] **Jonathan**: I wish you all a productive search. I will be here, quietly reviewing the figures, to ensure we don't commit ourselves to a future we cannot actually afford.
+## Round 2
+- [39] **May**: Well, the archives were quite revealing! It turns out some of our "innovations" actually worked—like the contactless ferry trial and late-evening timetables. However, we did fail to maintain some lane-priority stretches. We must be careful not to repeat that.
+- [40] **Benjamin**: My findings are rather sobering. It appears we are operating on a skeleton crew; the late-turn pool is depleted, and our roadway and signals teams are significantly understaffed. We are essentially running on overtime and hope.
+- [41] **Midori**: That is worrying, @Benjamin. My findings show that passengers are losing most of their time waiting for connections, not in queues. Interestingly, mid-city trips take longer now, even though the crowds aren't actually larger.
+- [42] **Shizue**: It is a bit concerning, isn't it? I found that work in the old station shells is very risky due to hidden voids, and getting ferry and rail offices to agree is quite difficult. We must be very careful.
+- [43] **Jonathan**: My findings are equally concerning. We are paying excessive fees to multiple ticketing contractors, and paving costs are rising. Meanwhile, our operating subsidies are being trimmed, leaving us with a precarious financial foundation.
+- [44] **May**: @Benjamin, it sounds like we're in a bit of a crisis! If we're running on "hope," we definitely can't afford a flashy new project that ignores the staffing reality or fails like those lane-priority stretches did.
+- [45] **Benjamin**: @May, "crisis" is a strong word, though perhaps an accurate one. Logic suggests that any plan requiring additional operational intensity will simply collapse under its own weight if we don't address the staffing void first.
+- [46] **Midori**: @Benjamin, I agree. If we focus on the wrong areas, we might waste those few resources we have. We should prioritize fixing the connection delays, as that's where the real time-loss is happening for passengers.
+- [47] **Shizue**: @Midori, you are so right. But we must also be mindful that some paths are harder to walk than others. If a plan requires too many approvals or risks hidden surprises, it may never truly begin.
+- [48] **Jonathan**: I agree with @Shizue. We must be cautious. If we commit to a plan with high upfront costs or complex contracts, we risk further draining our subsidies while our fixed fees to contractors continue to climb.
+- [49] **May**: It's almost funny how we always forget the basics! We have proven successes in contactless payments and evening schedules, yet we're staring at a staffing void and budget leaks. Why reinvent the wheel when we have blueprints that actually worked?
+- [50] **Benjamin**: @May, your optimism is refreshing, but blueprints are useless if there is no one to hold the hammer. We cannot simply "reuse" a success if the crews required to maintain it have vanished into a recruitment freeze.
+- [51] **Midori**: I understand, @Benjamin. But if we only focus on the staff, we might miss the chance to simplify the journey. If we can reduce connection delays, we might actually ease some of the pressure on the system.
+- [52] **Shizue**: I understand your point, @Midori. But we must be gentle with our expectations. If we choose a plan that looks lovely on paper but requires agreements from offices that cannot agree, we will only cause more frustration for everyone.
+- [53] **Jonathan**: I agree. We must avoid any plan that creates new, long-term financial liabilities. With our subsidies shrinking and contractor fees rising, we cannot afford a strategy that relies on optimistic funding or expensive, rigid contracts.
+- [54] **May**: Exactly! We need a plan that is lean, realistic, and based on what we know works. Let's avoid the "grand vision" trap and look for something that respects our budget and our exhausted staff.
+- [55] **Benjamin**: Precisely. A plan that ignores the human cost is not a strategy; it is a fantasy. I shall support any option that prioritizes stability and operational feasibility over mere aesthetic or theoretical improvement.
+- [56] **Midori**: I hope we can find a balance. Let's look for a plan that targets those connection delays to help the passengers, but does so in a way that doesn't overwhelm our remaining staff or budget.
+- [57] **Shizue**: I agree. Let us look for the path of least resistance. A plan that avoids the old station shells and doesn't require impossible agreements will be the kindest choice for everyone.
+- [58] **Jonathan**: I concur. We must prioritize a plan that is fiscally sustainable and avoids adding to our contractor burdens. Let us seek a solution that provides genuine value without compromising our long-term financial stability.
+## Round 3
+- [64] **May**: Looking at the options, Plan A is a dream! We already know contactless ferry trials worked, so an integrated platform is a proven win. Plan D also looks promising given the success of previous evening pilots.
+- [65] **Benjamin**: @May, while Plan D sounds promising in theory, it is a logistical nightmare in practice. Extending hours when the late-turn pool is already depleted is not a plan; it is a recipe for total burnout.
+- [66] **Midori**: @Benjamin, I see your point. If we can't staff it, it won't work. However, Plan B's dedicated lanes could address the mid-city delays I found, provided it doesn't add too much pressure to the crews.
+- [67] **Shizue**: @Midori, Plan B sounds helpful, but rebuilding boarding islands might involve those old station shells and hidden voids. Plan A also seems risky if the ferry and rail offices still cannot agree on data.
+- [68] **Jonathan**: Plan A is the most fiscally responsible choice. By replacing multiple ticketing contractors with a single system, we can finally curb those excessive fees and stabilize our long-term financial commitments.
+- [69] **May**: @Jonathan, I'm glad we agree on Plan A! It's a win-win: it cuts the budget leaks you found and builds on the success of the ferry trials I uncovered. It's the most logical, evidence-based choice.
+- [70] **Benjamin**: @May, @Jonathan, your alignment is efficient, but let us not forget the human element. Plan A is a digital solution; it requires minimal physical labor from our exhausted crews. Logic suggests it is the safest path.
+- [71] **Midori**: @Benjamin, I agree that it's the safest for the staff. While I'd love to fix the mid-city delays, Plan A doesn't risk burnout and avoids the construction dangers @Shizue mentioned. It seems like the most harmonious choice.
+- [72] **Shizue**: @Midori, you are so thoughtful. If Plan A can be achieved without digging into the old shells or causing too much stress for the staff, it truly seems like the gentlest path for everyone.
+- [73] **Jonathan**: I agree. Plan A addresses the systemic financial leaks I discovered while avoiding the operational risks others have highlighted. It is the only option that secures our fiscal future without placing an impossible burden on our staff.
+- [74] **May**: It's almost poetic! We've found a solution that satisfies the budget, the staff, and the history books. Plan A is the only one that doesn't feel like we're just gambling with the network's future.
+- [75] **Benjamin**: @May, poetry is a luxury, but efficiency is a necessity. Since Plan A avoids the operational void of Plan D and the physical risks of Plan B and C, it is the only rational choice.
+- [76] **Midori**: I agree. While it doesn't directly solve the connection delays, it's the most balanced option. It supports the budget and staff, ensuring the system remains stable for the passengers in the long run.
+- [77] **Shizue**: I agree with you all. While I still worry about the ferry and rail offices agreeing, it is far kinder than risking the safety of workers in those old shells. Plan A is the most peaceful choice.
+- [78] **Jonathan**: I agree. Plan A is the only candidate that actively reduces our long-term liabilities. By consolidating our ticketing contracts, we stop the financial bleed and create a sustainable foundation for any future improvements.
+- [79] **May**: I'm so glad we're all on the same page! Let's go with Plan A—it's smart, it's sustainable, and most importantly, it's a success story waiting to happen. I'm voting for Plan A!
+- [80] **Benjamin**: I concur. Given the precarious state of our staffing, any plan requiring more sweat from a depleted pool is an exercise in futility. Plan A is the only logical choice. I vote for Plan A.
+- [81] **Midori**: I agree. While I wanted to address the time-loss for passengers, Plan A is the most balanced and sustainable choice for everyone involved. I vote for Plan A.
+- [82] **Shizue**: It has been such a pleasure discussing this with you all. I believe Plan A is the most considerate choice for our workers and our future. I vote for Plan A.
+- [83] **Jonathan**: I agree. Plan A is the only option that addresses our contractor costs and protects our shrinking subsidies. It is the most fiscally sound path forward. I vote for Plan A.
+### Vote
+- May -> A
+- Benjamin -> A
+- Midori -> A
+- Shizue -> A
+- Jonathan -> A
+## Result
+- adopted: A

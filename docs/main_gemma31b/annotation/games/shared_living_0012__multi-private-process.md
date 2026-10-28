@@ -1,0 +1,73 @@
+# shared_living_0012__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I want us to find a way to fix the bins that makes everyone happy so we can all get along again. What information do we need to make this fair for everyone?
+- [6] **Shizue**: It is so lovely to see everyone. I think it would be wonderful to know how other neighborhoods manage their bins, so we can ensure our own corner remains a pleasant place for all of us.
+- [7] **Asuka**: We need to be practical. I want to know the actual labor involved in maintenance and the specific requirements from the ward office so we don't create an unsustainable burden for a few people.
+- [8] **Rin**: I agree with Asuka! We have to make sure it's actually fair. If one person has to do all the hard work or let the bins stay at their gate, that's not a fair deal!
+- [9] **Servas**: It is a pleasure to be here. To ensure a truly harmonious result, we must consider the financial burden. Let us look into the costs to ensure the arrangement is sustainable for every household's budget.
+- [10] **Kenji**: That makes sense! If we know what others do and what the rules are, we can pick something that doesn't make anyone grumpy. Maybe we should check out how the next lane does it?
+- [11] **Shizue**: That sounds like a wonderful idea, Kenji. Seeing how our neighbors handle things might give us some gentle inspiration. I would also love to know what the residents' meeting had to say about these matters.
+- [12] **Asuka**: @Shizue, meeting minutes are fine, but we need hard data. I suggest we look at the ward complaint log to see exactly what's failing and the truck arrival times to understand the daily operational flow.
+- [13] **Rin**: @Asuka, that's smart! But we also need to know how big everyone's front area is. If we just pick a spot without measuring, someone might get a tiny space while others have lots of room!
+- [14] **Servas**: Indeed, space and time are precious. However, we must not forget the ledger. Let us examine the block ledger of refuse-point expenses and the ward subsidy to see what funds we truly have.
+- [15] **Kenji**: I think we're getting a good list! I want to make sure we don't just follow rules, but actually feel good about the result. Maybe we should also see how the station block's bin house works?
+- [16] **Shizue**: That sounds like a lovely suggestion, Kenji. Visiting the station block's bin house would let us see a real example of how things can be kept tidy and peaceful for everyone.
+- [17] **Asuka**: @Kenji, a visit is fine for aesthetics, but it doesn't tell us about the workload. I'll focus on the ward filing requirements and the complaint log to identify the root causes of the current friction.
+- [18] **Rin**: @Asuka, you're always so serious! But I'm still worried about the space. I want to see the measurements of the five frontages and the ward complaint log too, so we know who's been suffering!
+- [19] **Servas**: Wisdom comes from understanding both the heart and the purse. I shall look into the block ledger of refuse-point expenses and the ward subsidy and last year's shelter costs to ensure fairness for all.
+- [20] **Kenji**: I'll look into the supervised mornings on the next lane and the visit to the station block's bin house! I want to see what actually works in real life so we can all be friends again.
+- [21] **Shizue**: I shall look into the supervised mornings on the next lane and the statements at the residents' meeting. I hope to learn how we can keep our hearts and our street happy.
+- [22] **Asuka**: I will look into the ward filing requirements per the installations clerk and the ward complaint log for this point. We need to understand the administrative burden and the specific failures of the current system.
+- [23] **Rin**: I'll check the measurements of the five frontages and the ward complaint log! I want to make sure we don't just push the bins onto someone who doesn't have any room!
+- [24] **Servas**: I shall examine the block ledger of refuse-point expenses and the ward subsidy and last year's shelter costs. Let us seek a path that is gentle on everyone's wallet and sustainable for the future.
+## Round 2
+- [35] **Kenji**: Wow, I learned some interesting things! The next lane's supervised mornings aren't too long, but that bin house at the station block smells really bad in summer! We definitely don't want that happening here, right?
+- [36] **Shizue**: Oh dear, that sounds quite unpleasant. Thank you for warning us, Kenji. It reminds us that a tidy appearance isn't everything; we must ensure our solution doesn't bring any unwanted scents to our lovely street.
+- [37] **Asuka**: The complaint log shows a clear pattern: one household is bearing the brunt of the frustration. Furthermore, the ward's filing requirements for permanent structures are surprisingly rigid and time-consuming. We must avoid a solution that creates a bureaucratic nightmare.
+- [38] **Rin**: @Asuka, you're right! I saw that too. One house complained eleven times! It's not fair that they've had to deal with it all alone. Also, some of our frontages are way smaller than others!
+- [39] **Servas**: It is clear that the current state is a burden on both the spirit and the pocket. We are spending thirty-four thousand yen annually on mere maintenance, yet the costs for new shelters are quite steep.
+- [40] **Kenji**: @Rin, eleven times is a lot! No wonder people are upset. If we pick something that's easy for everyone and doesn't smell, maybe we can all start talking to each other again?
+- [41] **Shizue**: It is heartbreaking to think one of our neighbors has been so unhappy. We must be very gentle and thoughtful in our choice so that everyone feels truly cared for and heard.
+- [42] **Asuka**: @Shizue, empathy is helpful, but we need a system that prevents this from happening again. If the administrative process for a permanent build takes four months and requires constant filings, it's an inefficient use of our time.
+- [43] **Rin**: @Asuka, but if we just pick the "easy" way, will it just stay at the same house? We can't just be efficient; we have to be fair! Some of us have almost no room at our gates!
+- [44] **Servas**: Fairness is not merely about where the bins sit, but how the cost is shared. A high upfront expense for a shelter could be a heavy burden for some of our neighbors.
+- [45] **Kenji**: I agree with @Rin! We can't just be efficient; we have to be kind. If we find a way to share the work and the space, maybe everyone will feel better and we can be a team again!
+- [46] **Shizue**: @Kenji, you have such a kind heart. I worry that if we simply rotate the bins, we might just be moving the trouble from one door to another. We should find a way that feels peaceful for everyone.
+- [47] **Asuka**: @Shizue, rotating the bins is exactly what I want to avoid. It creates a cycle of temporary fixes and constant renegotiation. We need a stable system with a clear, minimal time commitment for everyone involved.
+- [48] **Rin**: @Asuka, but a "stable system" that just leaves the bins where they are is just unfair! We can't ignore that some people have tiny frontages and others have huge ones. We need a plan that actually shares the burden!
+- [49] **Servas**: Let us remember that stability is only possible when it is built on a foundation of equity. A solution that is administratively simple but financially taxing may create a different kind of resentment.
+- [50] **Kenji**: I think we should look for something that doesn't cost too much or take too much time, but most importantly, something that doesn't make anyone feel left out or picked on. Let's find a way to be fair!
+- [51] **Shizue**: I agree completely, Kenji. Let us choose a path that brings us closer together rather than pulling us apart. I hope we can find a balance that is gentle on our spirits and our surroundings.
+- [52] **Asuka**: We must prioritize a solution that minimizes ongoing labor. If we choose a complex system, the responsibility will inevitably fall on one person. We need a low-maintenance arrangement that doesn't require constant administrative updates or manual rotation.
+- [53] **Rin**: @Asuka, you keep saying "low-maintenance," but that usually means the person at the gate just has to deal with it! We can't call it a solution if it's only "easy" for four out of five people!
+- [54] **Servas**: Peace is a garden that requires tending. While we seek a low-maintenance path, we must ensure the cost—both financial and emotional—is not placed upon the shoulders of the few. Let us choose a way that is light for all.
+## Round 3
+- [60] **Kenji**: I think Option C sounds the best! It's not a smelly building, and it lets us work together as a team. If we take turns, nobody feels picked on and we can all be friends!
+- [61] **Shizue**: @Kenji, your enthusiasm is lovely. However, I worry that asking neighbors to police one another might create tension. I wonder if we can find a way that feels more natural and less like a chore.
+- [62] **Asuka**: @Kenji, Option C is the worst choice. It creates a recurring labor burden and requires constant coordination. As I've warned, this "teamwork" usually ends up falling on one person who answers the phone first.
+- [63] **Rin**: @Asuka, you're right about the work, but Option A is even worse! It just leaves the bins at the same house forever. That's not a solution, it's just ignoring the person who's been suffering!
+- [64] **Servas**: Option A presents a significant financial risk. With shelters averaging over two hundred thousand yen, the cost could be a heavy burden for some. We must be careful not to trade one hardship for another.
+- [65] **Kenji**: @Asuka, but Option B might be even more stressful! Moving the bins all the time could lead to more arguments about where they go. Option C is just a little bit of work to keep things tidy!
+- [66] **Shizue**: @Kenji, I agree that moving the bins might be unsettling. However, I worry that Option C might make our mornings feel like a duty rather than a peaceful start to the day. We must be very careful.
+- [67] **Asuka**: @Kenji, Option B is logically superior to C because it distributes the physical burden without requiring daily supervision. Option C is a recipe for burnout and resentment. We need a system that runs itself, not a new part-time job.
+- [68] **Rin**: @Asuka, but Option B is only "logical" if everyone has the same amount of space! I saw that some frontages are tiny. If we force the bins onto a narrow path, it's not fair to them either!
+- [69] **Servas**: @Rin, your concern for space is valid. However, we must also consider that Option B avoids the steep construction costs of Option A. A solution that is free of charge is often the kindest to all budgets.
+- [70] **Kenji**: @Rin, you're right about the space! But if we use Option C, we can just help each other out. If someone's turn is hard, we can step in! That's how friends work, right?
+- [71] **Shizue**: @Kenji, your kindness is a treasure, but I fear we cannot rely on goodwill alone. I worry that Option C might lead to quiet resentment if some feel they are doing more than others.
+- [72] **Asuka**: @Kenji, relying on "helping each other" is exactly how the burden becomes uneven. Option B is the only choice that provides a predictable, scheduled distribution of the burden without the administrative nightmare of Option A or the daily labor of Option C.
+- [73] **Rin**: @Asuka, you're just thinking about the schedule! If the bins block a tiny path, it's a problem every single day they're there. We need to talk about how to make Option B work for the small spaces too!
+- [74] **Servas**: @Rin, your heart is in the right place. Perhaps we can adjust the rotation to be fairer to smaller spaces. It is better to refine a free system than to impose a cost that some cannot bear.
+- [75] **Kenji**: I still think Option C is the friendliest because we'll actually talk to each other! But if everyone is worried, maybe Option B is okay as long as we promise to help the people with small spaces!
+- [76] **Shizue**: It is a relief to see us finding a middle ground. If we choose Option B, let us do so with a promise to be gentle and supportive of one another. I vote for Option B.
+- [77] **Asuka**: Option B is the only logical choice. It avoids the high costs of A and the unsustainable labor of C. It is a predictable system that prevents any single person from being permanently burdened. I vote for Option B.
+- [78] **Rin**: I don't like that Option B might squeeze someone's tiny path, but it's way better than Option A's "forever" plan! If we promise to help with the small spaces, I vote for Option B!
+- [79] **Servas**: A high cost is a wall that divides us, and a heavy chore is a chain that binds us. Option B is the most compassionate path for our wallets and our spirits. I vote for Option B.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> B
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

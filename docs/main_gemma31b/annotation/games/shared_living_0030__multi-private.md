@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private (shared_living)
+
+## Round 1
+- [5] **Toshio**: Since our current habit isn't working, we need a sustainable system. I think we should start by gathering some data to see where the gaps are. Let's decide what we need to investigate.
+- [6] **Ryuji**: I agree. We need a rational basis for the new arrangement. I'm interested in the actual time required for cleaning and how the previous tenants handled it.
+- [7] **Benjamin**: A rational basis is indeed essential. To ensure the burden is distributed fairly, I believe we should examine the actual usage of the space and how we currently define a "clean" room.
+- [8] **May**: I'm with you all on the data part. I just want to stop the guessing game of whether the rooms are actually clean or not. Let's figure out what "done" really means for everyone.
+- [9] **Midori**: I agree that harmony is the most important thing here. To make sure we're all on the same page and feeling fair, I'd like to see what the previous tenants did and the house chat records.
+- [10] **Toshio**: It seems we have a general consensus on the need for data. To ensure the financial side is transparent, I will look into the management office rate sheet and billing, as well as the bathroom spray stock and receipts.
+- [11] **Ryuji**: I will look into the stopwatch timing of a full pass and the note left by the previous tenants. I want to be certain about the actual time commitment involved.
+- [12] **Benjamin**: To complement the time and cost data, I shall examine a fortnight's watch on kitchen use and what each housemate counts as done. It would be prudent to align our expectations with actual usage.
+- [13] **May**: I'll take a look at the bathroom grout after the July scrub and the rows recorded in the house chat. I want to see exactly where things are falling apart.
+- [14] **Midori**: I think those are all very helpful choices. To help us find a balanced solution, I'll look into the note left by the previous tenants and the absences on the wall calendar.
+- [15] **Toshio**: Since we have all selected our areas of investigation, I believe we have a comprehensive list. Let's proceed with the research so we can discuss the findings in the next round.
+- [16] **Ryuji**: That seems efficient. I will focus on the timing and the previous tenants' notes to see if there is a discrepancy between perceived and actual effort. I look forward to the results.
+- [17] **Benjamin**: Indeed. A little empirical evidence should save us from the tedious cycle of assumptions. I shall see if our habits align with our expectations. I look forward to our subsequent analysis.
+- [18] **May**: I'm just as excited as you guys. Let's hope the data actually gives us some answers so I can stop holding my breath every time I open the bathroom door!
+- [19] **Midori**: I hope so too, May! Let's all try to keep an open mind when we share what we find. I'm looking forward to finding a way that makes everyone feel comfortable and happy.
+- [20] **Toshio**: I agree. Let's maintain a neutral perspective when reviewing the data. I will begin my investigation into the costs and supplies immediately. I'll see you all in the next round.
+- [21] **Ryuji**: I will do the same. I'll ensure the timing is precise so we have a reliable baseline for the workload. See you all soon.
+- [22] **Benjamin**: I shall commence my observations as well. Precision in our data will certainly make the eventual negotiation far more elegant. Until then, I wish you all a productive search.
+- [23] **May**: I'm on it! I'll dive into those chat logs and the grout situation. Let's see if we can finally turn this place into a sanctuary instead of a gamble. See you all later!
+- [24] **Midori**: I'll get started on my part too. I really hope we can find a solution that keeps us all smiling. Good luck everyone, see you in the next round!
+## Round 2
+- [35] **Toshio**: My findings show that we are spending about 2,300 yen monthly on bathroom spray, often buying duplicates. Also, the management office charges 4,200 yen per hour for professional cleaning.
+- [36] **Ryuji**: The timing data shows a full pass takes over an hour. Combined with the previous tenants' note about permanent division leading to conflict, it seems a rigid, long-term split might be counterproductive and underestimated.
+- [37] **Benjamin**: It appears we have a fascinating discrepancy. My observations reveal that kitchen usage is heavily skewed toward a few individuals, while our definitions of "done" vary wildly, leading to an inconsistent standard of cleanliness.
+- [38] **May**: The bathroom is a disaster waiting to happen; the grout was black again in eleven days! Also, our chat logs prove that most of our fights start with someone nagging another about missed chores. This is exactly why we need a system.
+- [39] **Midori**: It sounds like we're all seeing different pieces of the same puzzle. I also noticed the previous tenants struggled with conflict, and the calendar shows we're often away, which makes a rigid schedule feel quite risky.
+- [40] **Toshio**: The duplicate purchases suggest a lack of communication regarding supplies. If we opt for professional cleaning, we must ensure the billing process is transparent to avoid any one person being out of pocket.
+- [41] **Ryuji**: @Toshio, professional cleaning would solve the time issue, but at 4,200 yen per hour, it's a significant cost. We must weigh the financial burden against the risk of burnout and interpersonal conflict.
+- [42] **Benjamin**: @Ryuji, a financial cost is far easier to manage than a social one. However, if we simply pay for a service without addressing the skewed usage I observed, we are merely subsidizing the habits of a few.
+- [43] **May**: @Benjamin, you're being a bit too clinical! Whether one person cooks more or not, we all have to live with the grime. If the bathroom resets to "gross" in eleven days, we need a real solution.
+- [44] **Midori**: @May, I understand your frustration. But @Benjamin is right that we should be fair. Maybe we can find a middle ground that handles the grime without making anyone feel resentful or burdened?
+- [45] **Toshio**: Regardless of who uses the space more, the current supply spending is inefficient. We need a system that tracks both the cleaning tasks and the shared expenses to ensure no one is unfairly burdened financially.
+- [46] **Ryuji**: @Toshio, tracking expenses is logical, but we cannot ignore the time. A full pass takes over an hour; if we rotate, that's a significant block of time. We need a system that minimizes this individual burden.
+- [47] **Benjamin**: @Ryuji, while I appreciate the concern for time, we must acknowledge that "burden" is subjective. If one person spends an hour cleaning a mess they didn't create, the burden is not just temporal, but psychological.
+- [48] **May**: @Benjamin, stop overthinking the psychology! The psychological burden is me wondering if I'll find mold in the shower today. We need a standard that's actually achievable, or we'll just keep nagging each other.
+- [49] **Midori**: @May, I totally get that. It's stressful when you can't relax in your own home. But if we're too strict, we might end up like the previous tenants who stopped speaking. Let's find a gentle way.
+- [50] **Toshio**: It is clear that we are struggling with both financial inefficiency and inconsistent standards. To avoid the conflicts Midori mentioned, we need a system that is transparent about costs and clear on expectations.
+- [51] **Ryuji**: I agree. However, we must ensure the system doesn't create a hidden time tax. If we choose a rotation, we need to be honest about the hour-plus commitment to avoid the resentment the previous tenants faced.
+- [52] **Benjamin**: Precisely. If we ignore the disparity in usage and the ambiguity of our standards, any system we implement will be a house of cards. We need a solution that balances actual contribution with a unified definition of "clean."
+- [53] **May**: Look, we can debate the philosophy of fairness all day, but the facts are the facts: the bathroom is a mold trap and we're already fighting. Let's just pick a system that actually works!
+- [54] **Midori**: I agree, May. Let's focus on a practical solution. Since we're often away and have different standards, maybe a flexible system or a professional service would keep us all happy and on speaking terms?
+## Round 3
+- [60] **Toshio**: Given the inefficiency of our current spending and the risk of interpersonal conflict, Option B is the most logical. It removes the burden of labor and provides a clear, professional standard of cleanliness.
+- [61] **Ryuji**: Option B is the most rational choice. It eliminates the hour-plus time burden and avoids the permanent divisions that ruined the previous tenants' relationships. The financial cost is a fair trade for guaranteed time and peace.
+- [62] **Benjamin**: While Option B is certainly the most elegant in terms of conflict avoidance, it does not address the underlying imbalance of usage. However, compared to the rigidity of A or C, it is the most sustainable.
+- [63] **May**: I'm voting for Option B! I can't deal with the mold lottery anymore, and I'm definitely over the nagging. Let's just pay the pros to make it sparkle so we can actually enjoy living here.
+- [64] **Midori**: I'm also voting for Option B. It seems like the best way to avoid the fighting and resentment we're worried about. Let's prioritize our friendship and peace of mind over the cost!
+- [65] **Toshio**: Since we are all leaning toward Option B, we must establish a strict protocol for the invoice. We need a shared ledger to track the monthly payments and supply costs to ensure no one is left out of pocket.
+- [66] **Ryuji**: @Toshio, that is a necessary addition. If we are to commit to this for a year, a transparent ledger prevents financial disputes from replacing the cleaning disputes. I am fully in favor of Option B.
+- [67] **Benjamin**: I concur. While I still find the disparity in usage a curious detail, the pragmatic benefit of a professional standard outweighs the desire for a perfectly proportional labor split. I vote for Option B.
+- [68] **May**: @Benjamin, finally! I'm glad you've come around to the practical side of things. I'm 100% on board with Option B. Let's just get this sorted so I can stop stressing about the bathroom!
+- [69] **Midori**: I'm so glad we've all found something we can agree on! It feels like a weight has been lifted. I'll happily support the ledger idea too, as long as it keeps things friendly. I vote for Option B!
+- [70] **Toshio**: It is settled then. I will take the lead in setting up the ledger for the cleaning service and supplies. This will ensure that all payments are tracked and settled promptly every month.
+- [71] **Ryuji**: I appreciate you taking that on, Toshio. Having a reliable system for the finances is the only way to make Option B sustainable. I vote for Option B.
+- [72] **Benjamin**: Since we have reached a consensus, I shall cast my vote for Option B. It is a sophisticated solution that replaces domestic friction with a predictable expense. I look forward to the newfound tranquility.
+- [73] **May**: I'm voting for Option B too! I'm just so relieved we're actually doing this. Now, can we please call the cleaners before the bathroom decides to grow its own ecosystem?
+- [74] **Midori**: I'm voting for Option B as well! I'm just so happy we're all agreeing and staying friends. Let's make this work and enjoy our home together!
+- [75] **Toshio**: I vote for Option B. With the ledger in place, we can finally eliminate both the cleaning disputes and the financial ambiguity. I will ensure the billing is handled with complete transparency.
+- [76] **Ryuji**: I vote for Option B. It is the only choice that realistically protects our time and prevents the social decay we saw in the previous tenants. I am satisfied with this decision.
+- [77] **Benjamin**: I vote for Option B. It is a pragmatic compromise that preserves our harmony, even if it leaves the mystery of our kitchen habits unsolved. I look forward to the silence of a clean house.
+- [78] **May**: I vote for Option B! Finally, a decision that actually solves the problem. I'm looking forward to a bathroom that doesn't make me want to run away. Let's get this started!
+- [79] **Midori**: I vote for Option B! I'm so relieved we've found a way to keep our home clean and our friendships strong. Thank you everyone for being so open and understanding!
+### Vote
+- Toshio -> B
+- Ryuji -> B
+- Benjamin -> B
+- May -> B
+- Midori -> B
+## Result
+- adopted: B

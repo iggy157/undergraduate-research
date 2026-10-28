@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Rin**: Hi everyone! I'm so excited to help! We need a layout that's super comfy but also fast, right? I don't want us wasting any time when we start our day!
+- [6] **Toshio**: Efficiency is important, but we should also consider the long-term sustainability of the layout. We need to ensure that any changes we make are practical and don't create unnecessary burdens.
+- [7] **Mizuki**: I agree with both of you. However, we should also be mindful of fairness. Not every spot in the room is equal, so we need a layout that distributes comfort and convenience equitably among us.
+- [8] **Shion**: Fairness is a vague metric, Mizuki. If we want a layout that actually works, we need to prioritize the physical and acoustic reality of the space. Comfort isn't just a feeling; it's a requirement for productivity.
+- [9] **Yumi**: I totally agree! But let's not forget the heart of the team! I want a layout where we can all chat and help each other out easily. Let's make sure we stay connected while we work!
+- [10] **Rin**: @Yumi, chatting is great, but we have to be careful! If we spend too much time moving things or getting settled, we'll lose our focus. I want to know exactly what slows us down every morning!
+- [11] **Toshio**: @Rin, focusing on the morning is one thing, but we must look at the broader picture. I am concerned about the financial implications of these changes. We should verify the actual costs associated with our current floor space.
+- [12] **Mizuki**: @Toshio, costs are a valid point, but we must also consider the human cost. If some of us are stuck in noisy or uncomfortable spots, productivity drops regardless of the budget. We need data on the environment.
+- [13] **Shion**: @Mizuki, for once we agree. Most people ignore the physical toll of a bad desk until it's too late. If we don't account for ergonomics and noise, this whole exercise is just moving furniture for the sake of it.
+- [14] **Yumi**: @Shion, you're right about the physical side! But I also worry that if we're too far apart, we'll stop sharing ideas. I want to know how our seating affects who we actually talk to!
+- [15] **Rin**: @Yumi, that's a good point! But I'm still worried about those little gaps in our day. If the layout makes it hard to get started, it'll be a disaster! We need to see what's actually happening.
+- [16] **Toshio**: @Rin, we can't ignore the budget. If we rearrange everything without knowing the cost of power and network updates, we might face unexpected expenses that the department won't cover. We need a fiscally responsible plan.
+- [17] **Mizuki**: @Toshio, while budget is key, we shouldn't let it dictate a layout that creates a hierarchy of comfort. We need to identify which spots are actually undesirable so we can decide how to handle them fairly.
+- [18] **Shion**: @Mizuki, identifying "undesirable" spots is a start, but we need objective data. Subjective complaints are useless. We should look at actual sound levels and professional ergonomic assessments to determine what a "good" spot even is.
+- [19] **Yumi**: @Shion, objective data is great! But I also think we should look at how we've worked in the past. I want to see if our current setup is actually stopping us from collaborating and learning from each other!
+- [20] **Rin**: I've got it! I'll check the morning routine on the pilot floor and the badge records to see how we actually start our days. Let's make sure we don't waste a single second!
+- [21] **Toshio**: I will look into the basis of the department's floor billing and the facilities quote for re-running power and network. We must understand our financial constraints before committing to a specific layout.
+- [22] **Mizuki**: I'll look into the sound meter readings across the room and the physio's note from the workstation check. I want to pinpoint exactly which areas are problematic so we can distribute them fairly.
+- [23] **Shion**: I'll take the physio's note from the workstation check and the sound meter readings. Since Mizuki is also looking at those, we can compare notes to ensure the data is interpreted logically.
+- [24] **Yumi**: I'll look into the drawn plan against the staff survey and what this year's two joiners reported! I want to see how we can best support each other and keep our team spirit high!
+## Round 2
+- [35] **Rin**: Wow, I found something! On the pilot floor, it takes four to nine minutes just to get set up! If we do that every day, it eats up so much of our time! We need a layout that's way faster!
+- [36] **Toshio**: @Rin, time is a resource, but money is a hard limit. I've discovered that we are billed by area, not headcount, meaning empty space is a constant drain on our budget. We cannot afford inefficiency.
+- [37] **Mizuki**: @Toshio, efficiency is important, but we can't ignore the physical toll. I found that the printer area is significantly noisier than the window side. If we aren't careful, some of us will be stuck in a high-stress zone.
+- [38] **Shion**: @Mizuki, the noise is only half the problem. The physio's notes reveal that ergonomic settings take days of fine-tuning to perfect. If we prioritize "flexibility" or frequent moves, we're essentially sacrificing our physical health for a whim.
+- [39] **Yumi**: @Shion, I understand! But look at this—our new joiners said they learned so much just by overhearing us! If we isolate ourselves too much for silence, we might lose that magic organic learning!
+- [40] **Rin**: @Yumi, that magic is great, but not if it takes ten minutes to start! And @Shion, if we have to fine-tune desks for days, that's even more time gone! We need a plan that's fast and stable!
+- [41] **Toshio**: @Rin, stability is exactly what we need. I found that every single change to the power and network layout costs us 6,200 yen per desk. Frequent shuffles are not just a time sink; they are a financial liability.
+- [42] **Mizuki**: @Toshio, if stability is the goal, we must be honest about the cost of that stability. If we pick one fixed layout, someone is permanently stuck in that noisy printer zone. We can't just ignore that inequality.
+- [43] **Shion**: @Mizuki, the solution isn't to rotate people into the noise, but to optimize the layout to minimize it. If we prioritize stability, we can finally settle our ergonomic settings without constant disruption. That is the only logical way to maintain productivity.
+- [44] **Yumi**: @Shion, I see your point! But if we're too stable, we might get stuck in bubbles. I found that people really value daylight, and I want us to find a way to share that brightness and our knowledge together!
+- [45] **Rin**: @Yumi, daylight is nice, but we can't let it make us slow! If we spend all morning deciding who gets the window, we're losing time. We need a layout where we just sit and start!
+- [46] **Toshio**: @Rin, I agree that we need a layout where we can simply start. However, we must avoid any plan that encourages frequent changes. With the cost of re-running power, a "flexible" approach is a waste of budget.
+- [47] **Mizuki**: @Toshio, if we commit to a fixed layout to save money, we are essentially deciding who gets the "bad" seat for the long term. We need a system to rotate these spots or a fair way to assign them.
+- [48] **Shion**: @Mizuki, rotation is a flawed solution. If it takes days to settle into a workstation's ergonomics, rotating seats means we are in a permanent state of physical discomfort. We should assign seats based on needs and leave them alone.
+- [49] **Yumi**: @Shion, I understand the physical side, but we can't forget the social side! If we just assign seats and never change, we might miss out on learning from each other. Let's find a balance that keeps us healthy and connected!
+- [50] **Rin**: @Yumi, @Shion, I'm listening! But please, let's pick something that doesn't make us waste time every morning. If we have fixed seats, we can just sit down and go! That's the fastest way!
+- [51] **Toshio**: @Rin, I agree. A fixed layout is the most fiscally responsible choice. It eliminates recurring installation fees and prevents the waste of paying for unused area. We should prioritize a stable, cost-effective arrangement over any flexible alternative.
+- [52] **Mizuki**: @Toshio, a fixed layout is efficient, but only if we address the inequality it creates. If we don't decide now how to handle the noisy spots, we're just letting the least influential people suffer. We need a fair assignment process.
+- [53] **Shion**: @Mizuki, "fairness" shouldn't mean everyone suffers equally through rotation. The most logical approach is a fixed layout where seats are assigned by specific needs, ensuring we don't waste days resetting ergonomics or endure unnecessary noise.
+- [54] **Yumi**: @Shion, @Mizuki, I hear you! But let's remember that our new teammates grew by listening to us. If we're too rigid, we lose that! Let's pick a layout that's stable but keeps us close enough to help each other!
+## Round 3
+- [60] **Rin**: Option A is a nightmare! Imagine spending nine minutes every single morning just to get your screens working! We'd lose so much time. I think Option C is the best because we can just sit and start!
+- [61] **Toshio**: @Rin, I completely agree. Option A is a financial and operational disaster. The recurring costs of power adjustments and the waste of time make it untenable. Option C is the only choice that ensures long-term fiscal stability.
+- [62] **Mizuki**: @Toshio, while Option C is stable, it creates a permanent hierarchy. Someone will be stuck by the noisy printer and away from the light indefinitely. If we choose C, we must explicitly agree on how to assign those undesirable spots.
+- [63] **Shion**: @Mizuki, the "hierarchy" is a social construct; the noise and ergonomic strain are physical realities. Option A and B are illogical because they force us into a cycle of physical discomfort and constant readjustment. Option C is the only viable choice.
+- [64] **Yumi**: @Shion, @Mizuki, I see why you both like Option C! But if we group by function, will we stop talking to people in other roles? I want us to stay a close-knit team where everyone learns from everyone!
+- [65] **Rin**: @Yumi, we can still talk! We just don't have to spend our morning fighting for a desk. If we have our own spots, we can use those saved minutes to chat and help each other instead!
+- [66] **Toshio**: @Yumi, social connection doesn't require physical instability. Option C allows us to optimize the space once and stop wasting the budget on repeated installation fees. It is the only option that respects our financial constraints.
+- [67] **Mizuki**: @Toshio, I don't disagree with the budget, but we can't let "efficiency" be a mask for unfairness. If we go with Option C, we must decide now who takes the noisy spots, rather than letting it happen by default.
+- [68] **Shion**: @Mizuki, the solution is simple: assign seats based on who can tolerate the noise or who needs the quiet most. Forcing everyone to rotate through discomfort is not fairness; it is inefficiency. Option C is the only logical choice.
+- [69] **Yumi**: @Shion, that makes sense! If we can be thoughtful about who sits where, we can keep everyone happy. I'll support Option C as long as we make sure we're still close enough to share ideas!
+- [70] **Rin**: @Yumi, exactly! We can be close and fast! Option C means no more guessing where to sit or wasting time plugging things in. It's the only way to keep our mornings smooth and our gaps free!
+- [71] **Toshio**: @Rin, precisely. Any other option introduces recurring costs and operational friction. By choosing Option C, we lock in our expenses and eliminate the risk of budget overruns. It is the only responsible decision for the team's future.
+- [72] **Mizuki**: @Toshio, @Shion, you both prioritize logic and budget, but the most logical way to maintain a healthy team is to prevent resentment. If we choose Option C, we must commit to a transparent assignment process for the worst seats.
+- [73] **Shion**: @Mizuki, transparency is a given. However, the priority must remain the physical environment. A transparent process that still forces ergonomic instability is a failure. Option C allows us to solve the noise and comfort issues permanently. It is the only rational path.
+- [74] **Yumi**: @Mizuki, I totally agree that transparency is key! If we're all honest about what we need, we can make Option C work for everyone. Let's make sure we're arranged to keep our team spirit glowing!
+- [75] **Rin**: I'm so glad we all agree! Option C is the winner for me because it's the fastest and most stable. No more wasting time every morning! I vote for Option C!
+- [76] **Toshio**: Option C is the only choice that aligns with our financial reality and ensures operational stability. It prevents recurring costs and budget waste. I vote for Option C.
+- [77] **Mizuki**: I've pushed for fairness, and since everyone else is aligned on stability, I will accept it. However, we must formally agree to a transparent assignment of the noisy spots. I vote for Option C.
+- [78] **Shion**: Option C is the only choice that respects the physical requirements of the body and the acoustic reality of the room. It eliminates the absurdity of constant readjustment. I vote for Option C.
+- [79] **Yumi**: I'm so happy we found a way to make everyone feel heard! Let's use Option C to stay stable and healthy, while keeping our hearts close for all that great learning! I vote for Option C!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited to pick our next company! I want to make sure we can actually support them with the right people, so I'm curious about the hiring side of things. Let's do this!
+- [6] **George**: It is a pleasure to be here. I believe we should be cautious and look closely at the actual stability of the businesses. I will start by examining the account retention through price rises.
+- [7] **May**: I'm ready to bring some energy to this! Since we're playing for keeps, I want to see the big picture of how we handle the long game. Let's get this party started!
+- [8] **Rin**: I'm so excited too! I want to know how things actually work behind the scenes. I'll check the independent checks on holdings' reported figures and the appraisal needs at the last audit!
+- [9] **Mizuki**: I agree that we need a balanced view. To ensure we understand the actual timeline from investment to operation, I'll look into the security review time before first deployment and the delivery records of two holdings.
+- [10] **Mio**: Since I'm really worried about the hiring load, I'll choose "Retained recruiters' placement times" and "Adviser bench and partner board seats." I want to see who's actually available to help!
+- [11] **George**: I agree with the need for a balanced approach. To complement my first choice, I will also look into the profile of the exits and the write-off to understand our historical performance.
+- [12] **May**: I'll go with "Reserve accounts and follow-on calls" and "Terms of last winter's credit line." I want to see exactly how much fuel we have left in the tank for these babies!
+- [13] **Rin**: I've already picked my two! I'm super curious about those numbers and the audit stuff. I'll stick with those and wait to see what everyone else finds!
+- [14] **Mizuki**: I have already selected my two items. I believe understanding the gap between funding and deployment is critical for a realistic projection. I will wait for the results.
+- [15] **Mio**: I think we've all got a great spread of things to check! I'm really looking forward to seeing what we find. Does anyone else feel like they missed something important, or are we good to go?
+- [16] **George**: I believe we have covered the essential bases. We have a mix of operational, financial, and historical data. I am satisfied with my selections and ready to proceed to the findings.
+- [17] **May**: I'm totally satisfied! We've got the dream team covering all the bases. Now, let's see who's actually hiding something and who's a real star. I can't wait to see the tea!
+- [18] **Rin**: I'm all set too! It's like a big treasure hunt for the best company! I can't wait to see if the numbers match up. Let's get the results!
+- [19] **Mizuki**: I agree. We have a comprehensive set of data points. I am ready to move forward and analyze how these findings impact our final selection.
+- [20] **Mio**: Yay! I'm so pumped! Let's dive into the data and see which of these companies is the perfect fit for us. I'll be waiting for my reports!
+- [22] **George**: I agree. Let us move forward and see what the data reveals. I look forward to hearing your perspectives once we have the results.
+- [24] **May**: I'm over too! Let's see if the numbers are as pretty as the pitches. Bring on the reports!
+- [26] **Rin**: Me too! I'm over! I hope the treasure hunt gives us some really cool clues. See you all in the next round!
+- [28] **Mizuki**: I am also over. Let us proceed to the findings and see if the operational realities align with the projections.
+## Round 2
+- [39] **Mio**: Wow, the results are in! It looks like we have some great experts on the bench who aren't doing anything, but finding field crews is going to be a total nightmare! This is exactly what I was worried about!
+- [40] **George**: My findings suggest that our successes have come from quiet, stable back-office tools. Conversely, the write-off involved physical premises and hourly labor. It seems we should prioritize stability and customer retention over operational complexity.
+- [41] **May**: Hmm, sounds like we're all seeing some red flags! My data shows our reserves are being drained way faster than planned, and our credit line is surprisingly picky about what it actually covers. We need to be careful!
+- [42] **Rin**: I found something super important! Some companies just tell us their numbers, but others have things we can actually check ourselves. Also, some audits take way longer and cost more because of hardware! That sounds like a headache!
+- [43] **Mizuki**: My findings confirm that operational delays are often external. Security reviews for sensitive data can take three quarters, and hardware dependencies can cause significant setbacks. We must prioritize companies with low deployment friction.
+- [44] **Mio**: @George @Mizuki, you both mentioned physical premises and hardware. That's a huge red flag for me! If we can't find field crews quickly, those "operational complexities" will just become our problem to solve!
+- [45] **George**: @Mio, your concern is valid. My data confirms that the only write-off we've had involved hourly crews and physical sites. It appears that avoiding operational complexity is the safest path to a return.
+- [46] **May**: @George, you're playing it safe, but we can't just hide in the back office. Still, if the money is leaking and the credit line is this strict, we can't afford any "surprises" with our cash flow.
+- [47] **Rin**: @May, exactly! Surprises are scary! If we pick a company with hardware, our quarter-end will be a total mess with those long audits and expensive fees. We need something easy to report!
+- [48] **Mizuki**: @Mio @George, it is clear we are seeing a pattern. Whether it is security reviews or supply chains, external dependencies create unpredictable delays. We should favor a candidate with a streamlined, software-only deployment process.
+- [49] **Mio**: I totally agree with @Mizuki! If we go for something software-only, we won't have to stress about those four-month hiring delays for field crews. Let's pick a company that doesn't need a whole army to run!
+- [50] **George**: I concur. The data suggests that our most reliable returns come from lean, software-driven models. Avoiding the volatility of physical operations and labor-intensive scaling is the most prudent course of action for this investment.
+- [51] **May**: I'm starting to see where this is going! If we're all terrified of hardware and crews, we're basically looking for a lean, mean, software machine. Just make sure it doesn't eat our cash for breakfast!
+- [52] **Rin**: I agree! Let's find a company that doesn't make our reporting a nightmare. If we can check the numbers ourselves and avoid those long, expensive audits, everyone will be much happier at the end of the quarter!
+- [53] **Mizuki**: It seems we have reached a consensus. To minimize risk and avoid the external bottlenecks I've identified, we should prioritize a candidate with a pure software model and a simple deployment cycle.
+- [54] **Mio**: I'm so glad we're all on the same page! Let's look for that lean software star. I can't wait to see the candidates and pick the one that won't keep us up at night!
+- [56] **George**: I agree. Let us maintain this focus on stability and simplicity. I am ready to review the candidates and select the one that best aligns with these findings.
+- [58] **May**: I'm over too! Let's see who fits the bill. Just remember, "lean" needs to mean "profitable," not just "small." I'm ready to see the candidates!
+- [60] **Rin**: I'm over too! Let's find a company that's easy-peasy to report and doesn't cost a fortune to audit. I'm ready to see the candidates!
+- [62] **Mizuki**: I am also over. We have a clear set of criteria: low operational friction, minimal external dependencies, and a lean software model. I look forward to seeing which candidate fits this profile.
+## Round 3
+- [68] **Mio**: Okay, let's look at these! Fabric Loop and Harvest Sensor both sound like they need field crews and hardware, which is a big no-no for me. Ledger Bridge and Clinic Scheduler look way better!
+- [69] **George**: I agree with @Mio. Fabric Loop and Harvest Sensor involve the very operational complexities and physical dependencies we decided to avoid. Ledger Bridge and Clinic Scheduler are the only viable options.
+- [70] **May**: I'm with you guys on that! Fabric Loop and Harvest Sensor are way too messy for our current budget. Now, between the two software options, which one is actually going to be a cash cow?
+- [71] **Rin**: I think Ledger Bridge is the best! It's just a dashboard for numbers, so it should be super easy to report and won't need those scary, expensive hardware audits!
+- [72] **Mizuki**: While Ledger Bridge is lean, we must consider Clinic Scheduler. @Mizuki's findings showed that medical records trigger long security reviews. Ledger Bridge avoids both hardware and sensitive data bottlenecks, making it the most efficient choice.
+- [73] **Mio**: @Mizuki, you're totally right! Clinic Scheduler sounds like it would be a nightmare for security reviews and probably needs a lot of support staff. Ledger Bridge is definitely the leanest and easiest choice!
+- [74] **George**: I agree. Ledger Bridge aligns perfectly with our findings. It is a pure software tool for financial operations, mirroring the profile of our most successful exits while avoiding the risks of physical labor and complex security reviews.
+- [75] **May**: Ledger Bridge it is! It's clean, it's software, and it doesn't look like it'll bleed us dry with hidden operational costs. Let's go with the one that keeps our wallets happy!
+- [76] **Rin**: Yay! Everyone agrees! Ledger Bridge is the winner because it's just software and numbers. No hardware, no scary audits, and no headaches for us at the end of the quarter! I'm voting for Ledger Bridge!
+- [77] **Mizuki**: I concur. Ledger Bridge is the only candidate that avoids both the hardware dependencies and the prolonged security reviews associated with sensitive data. It is the most logical choice to ensure a timely and stable deployment. I vote for Ledger Bridge.
+- [78] **Mio**: I'm totally on board! Ledger Bridge is the perfect fit—no field crews to hunt for and no hardware headaches. It's a win-win for everyone! I vote for Ledger Bridge!
+- [79] **George**: I agree. Ledger Bridge is the most prudent choice, as it mirrors the stability of our previous wins and avoids the volatility of physical operations. I vote for Ledger Bridge.
+- [80] **May**: I'm in! It's the safest bet for our cash flow and the least likely to surprise us with a massive bill. Let's keep it simple and profitable. I vote for Ledger Bridge!
+- [81] **Rin**: I already said it, but I'll say it again! Ledger Bridge is the way to go! It's the easiest one to report and won't make our quarter-end a disaster. I vote for Ledger Bridge!
+- [82] **Mizuki**: I have already cast my vote for Ledger Bridge. It is the only option that satisfies all our criteria for operational efficiency and risk mitigation. I am satisfied with this decision.
+- [83] **Mio**: This was such a great team effort! I'm so happy we found a company that won't make us scramble for recruiters. Ledger Bridge is definitely the one!
+- [85] **George**: It was a productive discussion. We have chosen a path that prioritizes stability and avoids the pitfalls of our past failures. I am content with this decision.
+- [87] **May**: I'm over too! We played it smart and kept the drama to a minimum. Let's hope Ledger Bridge is the golden ticket we need!
+- [89] **Rin**: I'm over too! We found the perfect treasure! Now we can have a happy quarter-end without any scary surprises. Yay for Ledger Bridge!
+- [91] **Mizuki**: I am also over. We have logically eliminated the candidates with high external friction, ensuring our investment is not stalled by the same obstacles we have faced previously. I believe this is the correct decision.
+### Vote
+- Mio -> C
+- George -> C
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

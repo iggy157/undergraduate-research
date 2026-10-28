@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. It is a pleasure to be here with you all. I want to make sure our new service is truly reliable for everyone, regardless of the season or location. Shall we begin?
+- [6] **Jonathan**: It is a pleasure to meet you all as well. I agree with Shizue; accessibility is key. I look forward to seeing which data points will help us ensure the service reaches those who need it most.
+- [7] **Rin**: Hi! I'm so excited to help! I think we should look at things we've already tried before so we don't just guess. Let's find out what actually happened in the past!
+- [8] **Benjamin**: Indeed, a bit of historical context would be most illuminating. I believe we should be equally mindful of the structural sustainability of whatever we choose to implement. I look forward to your suggestions.
+- [9] **Minako**: I agree. To ensure sustainability, we must verify that we have the necessary capacity and expertise to manage these services without overextending our current staff. Let us consider which data points will reveal our actual operational limits.
+- [10] **Shizue**: I think it would be wise to check the winter road closures north of the river and the bus links in the two outer wards. We must ensure our services remain steady even when the weather turns.
+- [11] **Jonathan**: I believe we should examine the bus links in the two outer wards and the evening room bookings and remote catalogue use. Understanding how people currently access us is essential for any expansion.
+- [12] **Rin**: I want to see the attendance sheets from former outreach stops and those two programmes begun six years ago! If we did them before, we should know if they were actually fun and worked!
+- [13] **Benjamin**: I shall examine the county grant terms and the endowment, as well as the running and equipment lines from last year. It would be a pity to build a house on a foundation of sand.
+- [14] **Minako**: I will look into the volunteer register and supervision training, as well as the neighbourhood associations and tool certification. We need to know if the required skills and oversight are actually available to us.
+- [15] **Shizue**: It seems we have a very thorough plan. I am glad to see we are considering everything from the budget to the volunteers. I feel quite comfortable with the choices we have made.
+- [16] **Jonathan**: I agree. By covering both the physical access and the digital usage patterns, we can see the full picture of our reach. I believe this balanced approach will serve us well.
+- [17] **Rin**: I hope the old records tell us something cool! It's like a treasure hunt for ideas. I can't wait to see if the people liked the old programmes or if they were boring!
+- [18] **Benjamin**: A treasure hunt indeed, Rin. Though I suspect the "treasure" may be more in the form of spreadsheets than gold. Still, a bit of curiosity is a wonderful catalyst for a productive meeting.
+- [19] **Minako**: It is important that we remain focused on the practicalities. While curiosity is helpful, our priority must be the feasibility of implementation. I look forward to seeing if our current resources match our ambitions.
+- [20] **Shizue**: I agree with Minako. Practicality is a kindness to those who will eventually run the service. I look forward to hearing what you all discover. Let us proceed with our research.
+- [21] **Jonathan**: I concur. Let us take this time to reflect on the data and return with a clearer understanding of how we can best serve our community. I look forward to our next discussion.
+- [22] **Rin**: Me too! I'm going to go find those old papers right now! See you all soon with the secrets from the past! Bye-bye!
+- [23] **Benjamin**: Until then. I shall endeavor to find some clarity within the financial archives. I wish you all a most fruitful investigation. See you in the next round.
+- [24] **Minako**: I agree. Let us gather the facts and return. I will focus on whether we have the actual human capacity to support these expansions. See you all soon.
+## Round 2
+- [35] **Shizue**: It seems we have some challenges. I found that some residents in the outer wards now face a long journey to reach us, and winter road closures can be quite troublesome for travel.
+- [36] **Jonathan**: That is concerning, Shizue. I also found that the outer wards have lost their bus links, making the journey quite long. Additionally, our remote catalogue use peaks long after our buildings are locked for the night.
+- [37] **Rin**: Guess what! The old outreach stops were super popular—even more than the main library! Also, some groups from six years ago are still going strong all by themselves, even though the photo project was a bit of a mess!
+- [38] **Benjamin**: It seems we have a fascinating dichotomy. While Rin's findings suggest a hearty appetite for outreach, the financial records reveal a certain... lack of coordination. Our vehicle costs are soaring, yet we return equipment funds.
+- [39] **Minako**: My findings are concerning. We have skilled volunteers, but no staff member is currently trained to supervise outside facilitators. Furthermore, the technician responsible for power tool certification retired this spring, leaving a critical gap in our oversight.
+- [40] **Shizue**: It is a bit worrying that our neighbors in the outer wards are so isolated now. @Jonathan, since you also saw the bus link issue, perhaps we should prioritize a service that brings the library to them?
+- [41] **Jonathan**: I agree, Shizue. Given the loss of bus links and the fact that people are accessing our catalogue late into the night, we must consider how to bridge that gap without requiring them to travel.
+- [42] **Rin**: But if we just guess how to do it, we might make the same mistakes as the photo project! We should do something like those evening groups that are still working, because they actually lasted!
+- [43] **Benjamin**: @Rin, your enthusiasm for longevity is well-placed. However, we must be cautious. If we launch a mobile service to solve the transport issue, we risk further inflating those already problematic vehicle expenses.
+- [44] **Minako**: @Benjamin, you are correct about the costs. Furthermore, we must consider the human cost. If we launch a new service, who will supervise it? We currently lack the staff training to manage outside facilitators.
+- [45] **Shizue**: I understand your concerns, Minako. We must be gentle with our staff. Perhaps a service that empowers the community to help themselves, like those lasting groups Rin mentioned, would be a sustainable way to reach the outer wards?
+- [46] **Jonathan**: That sounds like a thoughtful compromise, Shizue. If we can create a model that supports self-sufficiency, we can address the isolation of the outer wards without placing an undue burden on our staff or budget.
+- [47] **Rin**: Exactly! That's what I mean! If we find things that already worked, like those groups, we don't have to worry as much. Let's do something that people can run themselves!
+- [48] **Benjamin**: A charming sentiment, Rin. However, we must be wary of the "funding cliff." If we rely on grants that only cover the first year, we may find ourselves with a popular service and an empty purse by year two.
+- [49] **Minako**: @Benjamin, financial stability is vital, but we must also address the skill gap. Even self-sufficient groups require some level of institutional oversight. Without a certified technician or trained supervisors, we cannot safely or legally support tool-based services.
+- [50] **Shizue**: I see. It sounds like we must be very careful not to rely on things that can easily disappear or break. Let us look for a path that is steady and kind to everyone involved.
+- [51] **Jonathan**: I agree. We need a solution that respects the physical barriers our patrons face while remaining sustainable. A service that is flexible in timing and location, yet low-impact on our staff, seems most prudent.
+- [52] **Rin**: I agree! Let's pick something that's already proven to work, like those groups! If we just look at the old records, we can find a way to help people without making a big mess!
+- [53] **Benjamin**: It seems we are in agreement on the need for stability. I shall be curious to see which candidates align with these constraints—specifically those that avoid heavy vehicle use and precarious grant structures.
+- [54] **Minako**: We must be vigilant. Regardless of the candidate, we cannot simply assume the staff can absorb more work. We must prioritize a proposal that requires minimal specialized supervision or includes a plan for training.
+## Round 3
+- [60] **Shizue**: Looking at our options, I feel the Language Learning Circles are a lovely choice. They bring people together in their own neighborhoods, avoiding the travel troubles and road closures we discussed.
+- [61] **Jonathan**: I agree with Shizue. The Language Learning Circles address the isolation in the outer wards and the lack of transport without the high vehicle costs Benjamin mentioned. It is a gentle way to expand our reach.
+- [62] **Rin**: I like the Language Learning Circles too! They are just like those evening groups that are still going strong! It's a way to help people that we already know can actually work!
+- [63] **Benjamin**: While the Language Learning Circles are certainly appealing, I must wonder about the funding. If these facilitators are contracted via grants, we may simply be delaying a financial crisis until the second year.
+- [64] **Minako**: @Benjamin, your concern is valid, but we must also consider the operational risk. The Maker Workshop is impossible without a certified technician, and the Mobile Branch would overextend our staff and budget. Language Learning Circles are the most feasible.
+- [65] **Shizue**: @Benjamin, I understand your worry about the money. But if we partner with community organizations, the burden is shared. It is more stable than relying on a single bus or a single road.
+- [66] **Jonathan**: @Benjamin, a partnership model could distribute the financial risk. Moreover, it respects the patrons' time and location, ensuring that those without transport are not left behind by our current building hours and locations.
+- [67] **Rin**: @Benjamin, don't be so worried! If we do it like the groups from six years ago, they can just keep going on their own! It's way better than the photo project, which was a total disaster!
+- [68] **Benjamin**: Your optimism is refreshing, Rin, though I suspect the "disaster" of the photo project was likely a failure of planning. If we can ensure the funding structure is not a mere mirage, I may be swayed.
+- [69] **Minako**: @Benjamin, the key is that this model relies on partner organizations. This reduces the direct supervisory burden on our staff and distributes the operational risk, making it the most sustainable choice for our current roster.
+- [70] **Shizue**: It is heartening to see us finding common ground. By leaning on the strength of the community, we create a service that can weather any storm and remain a steady light for our neighbors.
+- [71] **Jonathan**: I believe we have found a solution that balances all our concerns. It bridges the physical gap for the outer wards while remaining mindful of our staff's capacity and the budget's limits.
+- [72] **Rin**: Yay! I'm so happy we're all agreeing! Let's pick the Language Learning Circles because they're the smartest choice and we know that kind of thing actually lasts! It's the best way to help everyone!
+- [73] **Benjamin**: I must admit, the logic is sound. By leveraging community partnerships, we mitigate both the supervisory gap and the risk of a sudden funding collapse. It is a far more elegant solution than a mobile van.
+- [74] **Minako**: I agree. The Language Learning Circles minimize the risk of staff burnout and avoid the technical gaps we currently face. It is the only proposal that is truly sustainable given our current resources.
+- [75] **Shizue**: I am so glad we have reached this understanding together. Let us choose the Language Learning Circles, for the sake of our community and the peace of mind of our staff.
+- [76] **Jonathan**: I concur. It is a choice that honors the needs of our most isolated residents while maintaining the serenity and stability of our operations. I cast my vote for the Language Learning Circles.
+- [77] **Rin**: I vote for the Language Learning Circles too! It's the best one because it's like a treasure we already found in the old records! I'm so glad we're doing this!
+- [78] **Benjamin**: I shall join the consensus. While I remain a skeptic of short-term grants, the partnership model provides a rational safeguard against the funding cliff. I vote for the Language Learning Circles.
+- [79] **Minako**: I agree. This option is the only one that respects our current staffing limitations and avoids creating an unsustainable burden. I vote for the Language Learning Circles.
+### Vote
+- Shizue -> C
+- Jonathan -> C
+- Rin -> C
+- Benjamin -> C
+- Minako -> C
+## Result
+- adopted: C

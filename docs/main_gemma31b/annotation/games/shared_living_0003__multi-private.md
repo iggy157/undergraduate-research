@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: Hi everyone! I'm so excited to help move the desks! I want to make sure we don't waste any time once we start. Let's make this the best layout ever!
+- [6] **Toshio**: Let's keep a level head. Before we get too excited, we should examine the data to ensure the new layout is actually sustainable and efficient for everyone.
+- [7] **Mizuki**: I agree with Toshio. We need a logical basis for the new arrangement to avoid any future complaints. Let's be thorough about what we investigate before we start sketching plans.
+- [8] **Shion**: Efficiency is fine, but let's not forget the human element. A plan that looks good on paper is useless if it's physically draining. I'm interested in the actual environment we'll be inhabiting.
+- [9] **Yumi**: I'm so happy we're all doing this together! I want us to feel close and connected in our new space. Let's make sure we pick things that help us all get along and work happily!
+- [10] **Rin**: I agree! But we should check how we actually start our days. I'll look into the morning routine on the pilot floor upstairs and the arrival times in the badge records!
+- [11] **Toshio**: I'll look into the basis of the department's floor billing and the facilities quote for re-running power and network. We need to understand the financial and technical constraints first.
+- [12] **Mizuki**: I'll check the drawn plan against the staff survey and the unplanned seat shuffles in the past year. I want to see if there are recurring patterns or grievances we should address this time.
+- [13] **Shion**: I'll take the sound meter readings across the room and the physio's note from the workstation check. If we're being thorough, we should prioritize the actual physical impact of the environment.
+- [14] **Yumi**: I'll check the two project strands within earshot last spring and what this year's two joiners reported! I want to see how we've been interacting so we can stay close and friendly!
+- [15] **Rin**: That sounds like a great plan! Everyone is looking into different things. I can't wait to see what we find out so we can start moving the desks!
+- [16] **Toshio**: It is a comprehensive spread. By dividing the research this way, we avoid redundancy and cover the financial, physical, and social aspects of the office. Let's wait for the results before drawing any conclusions.
+- [17] **Mizuki**: Exactly. Once we have the data, we can discuss the trade-offs. It's important that we're transparent about who gets which spot so that the final decision is fair and accepted by everyone.
+- [18] **Shion**: Fairness is a convenient word, Mizuki, but it's often used to mask a mediocre compromise. I'm more interested in whether the results actually reflect our needs or just a set of averages.
+- [19] **Yumi**: @Shion, don't be so gloomy! I'm sure if we all share what we find, we can make a choice that makes everyone smile. I'm really looking forward to seeing how we can all be closer!
+- [20] **Rin**: I'll be the one to keep the energy up! Let's all do our best with the research. I'm ready to see the results whenever they're in!
+- [22] **Toshio**: I agree. Let's proceed with the research and reconvene once the data is available. I'll be interested to see if the costs align with our current budget.
+- [24] **Mizuki**: I'll be waiting for the results. Let's make sure we don't just look at the numbers, but also at the implications for each person's daily experience. I'm looking forward to a fair discussion.
+- [26] **Shion**: I'll be waiting. Let's see if the data actually reveals anything useful, or if we're just rearranging the deck chairs. I'm curious to see if anyone else values actual comfort over mere "fairness."
+- [28] **Yumi**: I'm so excited to see what we all discover! Let's use this to make our new home the happiest place to work. I'll be cheering for everyone!
+## Round 2
+- [40] **Rin**: Wow, I found some interesting things! It takes a few minutes just to get set up every morning, and we all arrive at such different times. We should definitely think about that!
+- [41] **Toshio**: The costs are more rigid than I anticipated. We are paying for empty space, and every single desk move carries a specific price tag. We cannot afford a trial-and-error approach to this layout.
+- [42] **Mizuki**: The data shows a clear conflict: the current plan leaves three people without window light, which was the top complaint in the survey. Also, past unplanned shuffles have been incredibly disruptive to our productivity.
+- [43] **Shion**: It seems we're all discovering that the "ideal" plan is a myth. I've found that noise levels vary significantly across the room, and our equipment requires tedious, precise adjustment to avoid physical strain. Comfort isn't a luxury; it's a requirement.
+- [44] **Yumi**: I found something so wonderful! It turns out that sitting close and overhearing each other actually helps us work better and helps new people learn faster. Being near each other is like a secret superpower for our team!
+- [45] **Rin**: @Toshio, if every move costs money, we have to get it right the first time! But @Yumi, if we sit close, will it take longer to set up our screens every morning? I don't want us wasting our time!
+- [46] **Toshio**: @Rin, the cost is the primary concern. If we prioritize "closeness" without a precise plan, we risk wasting budget on revisions. We must balance Yumi's social goals with the financial reality of the floor billing.
+- [47] **Mizuki**: @Toshio, budget is important, but ignoring the daylight issue will only lead to the same dissatisfaction we saw in the survey. We need to decide how to distribute the window seats fairly before we finalize the cost.
+- [48] **Shion**: @Mizuki, "fairly" usually means everyone is equally uncomfortable. If we ignore the noise variance and the time it takes to calibrate a workstation, we're just choosing which type of misery we prefer. Physical stability should come first.
+- [49] **Yumi**: @Toshio, I understand the budget is tight, but isn't it more expensive to lose that "superpower" of helping each other? If we're close, we save time and stress, which is worth every penny!
+- [50] **Rin**: @Shion, you're making it sound so scary! But if we pick a layout where we don't have to change things all the time, we save money and time! Let's find a way to be close and comfortable!
+- [51] **Toshio**: @Yumi, "superpowers" don't pay the bills. We are paying for space we aren't even using. Any layout we choose must maximize the utility of our billed area while minimizing the need for costly re-runs.
+- [52] **Mizuki**: @Toshio, maximizing utility is logical, but we must acknowledge that some seats are objectively worse than others. If we ignore the window disparity and noise levels now, we're just inviting another disruptive shuffle later.
+- [53] **Shion**: @Mizuki, you're finally seeing it. If we ignore the noise and the physical toll of poorly set stations, we're just delaying the inevitable. A "fair" distribution of window seats is irrelevant if the spot is a sonic nightmare.
+- [54] **Yumi**: @Shion, @Mizuki, let's not focus on the nightmares! If we put the people who need quiet in the quiet spots and keep the rest of us close enough to chat and help, everyone wins! We can be happy and productive!
+- [55] **Rin**: That's a great idea, @Yumi! If we match the spots to what we need, we won't have to move again, and we'll save all that setup time every morning! Let's make a plan that's fast and happy!
+- [56] **Toshio**: While matching needs to spots is a logical way to prevent future costs, we must be precise. We cannot let "happiness" override the budget. Let's ensure the final option minimizes total expenditure and maximizes space utility.
+- [57] **Mizuki**: I agree with the need for precision, but we must be honest: some of us will end up in the less desirable spots. Let's decide now how to handle that, rather than letting it happen by accident.
+- [58] **Shion**: Let's stop pretending that "handling it" is a strategy. The only way to avoid a disaster is to prioritize the physical reality of the space. If we ignore the noise and ergonomics, no amount of "fairness" will save us.
+- [59] **Yumi**: I believe we can do all of those things! If we use the data to put everyone where they'll be most comfortable and helpful, we'll save money and be the happiest team ever! I'm so excited!
+## Round 3
+- [65] **Rin**: Wait, Option A sounds like a nightmare! If we have to plug in and set up screens every single morning, we'll waste so much time! Plus, the early birds would get all the best spots!
+- [66] **Toshio**: Option A is financially reckless. The constant movement would likely increase wear and tear, and it doesn't solve our issue of paying for empty space. It is an unstable solution for a team with a tight budget.
+- [67] **Mizuki**: Option A is a recipe for conflict. If the best seats are first-come, first-served, we're just rewarding arrival times rather than making a fair decision. It ignores the daylight and noise issues entirely.
+- [68] **Shion**: Option A is an absurdity. Given that it takes days of fine-tuning to make a workstation physically viable, forcing us to reset our ergonomics daily is a recipe for chronic pain. It's a total disregard for the body.
+- [69] **Yumi**: I agree with everyone! Option A sounds so lonely and stressful. We wouldn't have a "home" together, and it would be so hard to stay connected and help each other if we're always moving!
+- [70] **Rin**: @Toshio, @Mizuki, @Shion, @Yumi, since we all hate Option A, what about B or C? Option B sounds like we'd have to move everything again and again, which sounds like a lot of wasted time!
+- [71] **Toshio**: Option B is a financial disaster. Every shift would incur the facilities charge for re-running power and network. We cannot justify repeated expenditures for a rotating system when our budget is already strained.
+- [72] **Mizuki**: Option B is a superficial fix for fairness. While it rotates the "bad" seats, it guarantees the same disruptive shuffles I found in the records. It's an inefficient way to handle the window and noise disparity.
+- [73] **Shion**: Option B is just a slow-motion version of Option A. It forces us to abandon a perfectly calibrated workstation just as it becomes comfortable. It's a logical failure that prioritizes a facade of fairness over actual physical stability.
+- [74] **Yumi**: @Rin, I agree! Moving all the time sounds so tiring. Plus, if we keep shifting, we can't really build a cozy little community in our space. I think we should look at Option C instead!
+- [75] **Rin**: I agree with @Yumi! Option C sounds the best because we only set up once and then we're done! No more wasting time every morning or moving around. It's the fastest and happiest way!
+- [76] **Toshio**: Option C is the only fiscally responsible choice. It minimizes the facilities charges to a single initial cost and allows us to optimize the billed area without the risk of repeated, unplanned expenditures.
+- [77] **Mizuki**: Option C is the most logical, but we must be explicit about the assignments. Since some seats are objectively worse, we should decide now who takes them so there's no resentment later. I vote for Option C.
+- [78] **Shion**: Option C is the only choice that doesn't treat our bodies as disposable. It allows for the precise, long-term calibration required for actual comfort. I vote for Option C, provided the assignments are based on physical needs.
+- [79] **Yumi**: I'm so happy we all agree! Option C lets us stay close, help each other, and feel like a real team in our own little home. I vote for Option C!
+- [80] **Rin**: I vote for Option C too! It's the best way to save our time and keep everyone smiling. Let's make our new spots super cozy! Option C it is!
+- [81] **Toshio**: I vote for Option C. It is the only choice that ensures financial stability and prevents wasteful spending. Let us finalize this and move forward with a precise, cost-effective plan.
+- [82] **Mizuki**: I've already cast my vote for Option C. Now that we've agreed, let's be honest about the seat quality and decide the assignments together so that no one feels overlooked or unfairly treated.
+- [83] **Shion**: I vote for Option C. Let's just ensure that "fairness" doesn't mean ignoring the noise and ergonomics. I'll be expecting a layout that respects the physical reality of the room.
+- [84] **Yumi**: I vote for Option C! I'm so glad we're all on the same page. Let's make sure we sit in a way that keeps us all connected and happy!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

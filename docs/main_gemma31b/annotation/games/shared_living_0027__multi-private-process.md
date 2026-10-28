@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a fair system for the bicycle spaces, but we must be careful. A poorly designed rule can easily create unnecessary tension among neighbors. Let's look into the facts before deciding.
+- [6] **Yumi**: I totally agree, Asuka! We want everyone to be happy and smiling. I'm worried some people feel it's unfair right now, so let's find a way to make it feel equal for everyone!
+- [7] **Ryuji**: Fairness is important, but we should focus on the actual physical conditions of the parking area. If the layout is the problem, a simple rule won't fix the daily friction. We need objective data on how the space is used.
+- [8] **Shunichi**: While you all focus on feelings and layouts, we're ignoring the most basic question: the money. We always talk about costs but never actually check the books. Let's be rational for once and look at the finances.
+- [9] **Toshio**: I agree that we need a rational approach. However, we must also consider the long-term management of whatever system we implement. A fair rule is useless if it is too burdensome to maintain.
+- [10] **Asuka**: @Shunichi, finances are one part, but the human element is just as critical. If we prioritize money over harmony, we risk damaging the atmosphere of the building. We need to understand the history of our conflicts.
+- [11] **Yumi**: @Asuka, you're so right! I really want to know if people are actually upset or if it's just a misunderstanding. Let's look into the history and the current usage so we can help everyone get along!
+- [12] **Ryuji**: @Yumi, understanding feelings is fine, but we need to see the physical reality. If bikes are being damaged or blocked, no amount of goodwill will solve it. We need to observe the actual movement in the parking area.
+- [13] **Shunichi**: @Ryuji, observing bikes move is a hobby, not a strategy. If we don't know the budget or what people are paying, we're just guessing. Let's stop the sentimentality and look at the actual records.
+- [14] **Toshio**: @Shunichi, records are essential, but they only tell us what happened, not how much effort it took to record them. We should investigate the administrative side to ensure the new system doesn't collapse from neglect.
+- [15] **Asuka**: @Toshio, I agree that sustainability is key. To avoid future friction, we should examine past failures. I'll look into the five years of association minutes and last year's complaint log entries to see where things went wrong.
+- [16] **Yumi**: @Asuka, that sounds like a great plan! I want to see who is actually using the spaces and if the complaints are real. I'll check the sticker register and the daily riders, and the complaint log entries too!
+- [17] **Ryuji**: @Yumi, checking the register is a start, but it doesn't show the chaos of the morning rush. I'll look into the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [18] **Shunichi**: @Ryuji, while you're playing traffic warden, I'll handle the actual numbers. I'll examine the building account's two-year ledger and the treasurer's handover file on cash collections. Let's see if there's any money actually involved here.
+- [19] **Toshio**: I will look into the treasurer's handover file on cash collections and the account from the neighbouring block's secretary. I want to see the actual workload involved in managing these payments and how others handle it.
+- [20] **Asuka**: It seems we have a comprehensive plan. By combining the financial data, physical observations, and historical records, we can avoid a superficial solution that might inadvertently cause more conflict among the residents. I look forward to the findings.
+- [21] **Yumi**: I'm so excited to see what we find! I really hope we can find a way to make everyone feel included and happy. Let's work together to make our building a wonderful place for everyone!
+- [22] **Ryuji**: Data is the only way to avoid subjective arguments. I will focus on the physical constraints and the actual flow of traffic. Let's see if the reality on the ground matches the records.
+- [23] **Shunichi**: Let's just hope the "reality on the ground" doesn't distract us from the bottom line. I'll find out if we're actually managing a budget or just pretending to. See you all in the next round.
+- [24] **Toshio**: I believe we have covered all the necessary angles. I will focus on the administrative burden to ensure our final decision is sustainable. I look forward to reviewing the results with you all.
+## Round 2
+- [35] **Asuka**: The records show a worrying pattern. The same people have held the best spots for years without review, and complaints about bikes leaning on each other are ignored because no one is held accountable. This creates a breeding ground for resentment.
+- [36] **Yumi**: @Asuka, that's so sad! I found out that daily riders are actually willing to pay to keep their spots. Maybe if we find a way to use that, we can make things fair and happy for everyone!
+- [37] **Ryuji**: The physical reality is worse than the records suggest. I observed that people are forced to shift other bikes just to leave in the morning. Furthermore, some spots are completely exposed to rain, making them practically useless in winter.
+- [38] **Shunichi**: @Yumi, "willing to pay" is a vague sentiment. The ledger shows our shared account is practically empty, covering only basics. If we want a real system, we can't rely on goodwill; we need a structured financial plan.
+- [39] **Toshio**: @Shunichi, a structured plan is only as good as the person managing it. I found that current cash reconciliation already takes three hours a month. Adding more complex billing could easily overwhelm whoever is in charge.
+- [40] **Asuka**: @Toshio, if the administrative burden is already that high, we must avoid a complex system. However, @Ryuji's findings on the morning chaos and my discovery of stagnant allocations suggest that doing nothing is no longer an option. We are risking a total breakdown in neighborly relations.
+- [41] **Yumi**: @Asuka, you're right! We can't just leave it like this. But @Toshio, if it's too much work, maybe we can find a simple way to let the daily riders help out? I just want everyone to feel it's fair!
+- [42] **Ryuji**: @Yumi, simplicity isn't enough if the physical layout remains a mess. If we just rotate spots without addressing the rain exposure and the morning congestion, we're just rotating who gets their bike soaked or blocked. We need a solution that accounts for these disparities.
+- [43] **Shunichi**: @Ryuji, you're obsessing over raindrops while the building is fiscally dormant. If we want to fix the layout or the "chaos," we need funds. Since the ledger is empty, any real improvement requires a payment system. Let's stop dreaming and talk money.
+- [44] **Toshio**: @Shunichi, money is a tool, but it comes with a cost in labor. I've seen that in the neighboring block, charging for spaces led to arrears and social withdrawal. We must be careful not to trade physical chaos for social isolation.
+- [45] **Asuka**: @Toshio, that is exactly my concern. If we implement a rigid payment system that leads to arrears and isolation, we destroy the community. We need a solution that is logically stable and doesn't turn neighbors into strangers.
+- [46] **Yumi**: @Toshio, I don't want anyone to feel lonely or left out! But if the daily riders are happy to pay, maybe it's not a burden? Let's find a way that's simple and keeps everyone smiling!
+- [47] **Ryuji**: @Yumi, smiles don't stop bikes from being scratched during a morning rush. We have a physical conflict here. If we don't designate specific, accessible zones, any payment system is just charging people for the privilege of fighting over space.
+- [48] **Shunichi**: @Ryuji, your "zones" won't build themselves. Since the ledger is a ghost town, we can't afford fancy renovations. Either we implement a payment system to generate funds, or we admit we're too lazy to manage the building properly.
+- [49] **Toshio**: @Shunichi, it is not a matter of laziness, but of capacity. If we create a system that requires constant chasing of arrears and hours of bookkeeping, it will eventually be abandoned, leaving us in a worse state than we are now.
+- [50] **Asuka**: @Shunichi, forcing a payment system onto an empty account and an overworked treasurer is a recipe for failure. We must prioritize a solution that balances physical accessibility with minimal administrative friction to preserve our social harmony.
+- [51] **Yumi**: I agree with Asuka! Let's find a middle ground. If we can make a system that's easy to manage but still feels fair to the daily riders, everyone can stay friends and be happy!
+- [52] **Ryuji**: @Yumi, "feeling fair" is subjective. The objective fact is that some spots are wet and some are blocked. Any system we choose must first address the physical disparity of the spaces, or we are just rearranging the problem.
+- [53] **Shunichi**: @Ryuji, you're treating a budget crisis like a puzzle. We can't "address disparities" with magic. Either we charge for the premium spots to fund improvements, or we accept a mediocre, free-for-all system. Let's be honest about the cost.
+- [54] **Toshio**: @Shunichi, the cost is not just monetary. The real cost is the time and mental energy of the person managing it. We must choose the option that requires the least amount of ongoing maintenance to ensure it actually lasts.
+## Round 3
+- [60] **Asuka**: Option A is too risky; as @Toshio noted, chasing payments creates social isolation. Option B is a temporary fix that ignores the physical disparities @Ryuji found. Option C is the most logically stable for our community.
+- [61] **Yumi**: @Asuka, I like Option C because it's so friendly! No one has to fight over a "best" spot, and everyone is equal. But will it be easy for everyone to use the racks?
+- [62] **Ryuji**: @Yumi, that is the critical question. Double-tier racks can be difficult for some, but they solve the "shoving match" by organizing the space. It removes the resentment of someone hoarding a dry spot for years.
+- [63] **Shunichi**: @Ryuji, you're finally thinking logically. Option C is the only one that doesn't require a treasurer to spend their life chasing pennies. It's fiscally neutral and eliminates the administrative nightmare @Toshio is so worried about.
+- [64] **Toshio**: @Shunichi, I agree. Option C is the only sustainable choice. It eliminates the need for monthly billing and the risk of arrears, ensuring the system doesn't collapse due to administrative burnout. It is the most efficient path.
+- [65] **Asuka**: @Yumi, while the racks might be a physical adjustment, it is a small price to pay to avoid the social friction of a lottery or the coldness of a payment system. It preserves our neighborly bonds.
+- [66] **Yumi**: @Asuka, you're right! If it keeps us all friends and stops the grumbling, then it's worth it. I just hope we can help anyone who finds the racks a bit tricky to use!
+- [67] **Ryuji**: @Yumi, we can help them, but the priority is ending the daily chaos. Option C removes the "ownership" of spots, which is the root of the friction. It's the only way to stop the morning shoving matches.
+- [68] **Shunichi**: @Ryuji, exactly. Ownership is the problem. Option A is a bookkeeping disaster and Option B is just a gamble that doesn't solve the layout. Option C is the only rational choice that doesn't waste our time.
+- [69] **Toshio**: @Shunichi, precisely. By removing the need for a register and a payment schedule, we eliminate the human error and fatigue that killed previous initiatives. Option C is the only one that is truly maintenance-free.
+- [70] **Asuka**: @Yumi, @Ryuji, @Shunichi, @Toshio, it seems we have reached a rare consensus. Option C solves the physical congestion, removes the administrative burden, and, most importantly, prevents the social resentment that would stem from the other options.
+- [71] **Yumi**: I'm so happy we all agree! Option C is the kindest choice because it treats everyone equally and keeps our community spirit strong. Let's make sure we help each other with the racks!
+- [72] **Ryuji**: @Yumi, kindness is a byproduct of a system that actually works. By removing the fixed spots, we eliminate the source of the conflict. Option C is the only choice based on the physical reality of the space.
+- [73] **Shunichi**: @Ryuji, for once, we're on the same page. Since we have no money to waste and no desire to spend our weekends doing accounting, Option C is the only one that makes sense. Let's just get it over with.
+- [74] **Toshio**: I concur. Option C is the only choice that ensures the system will not lapse due to administrative fatigue. It is the most pragmatic solution for the long-term stability of our building.
+- [75] **Asuka**: Since we all agree that Option C is the most sustainable and least likely to cause interpersonal conflict, I am satisfied. Let us proceed with the vote to finalize this decision for the building.
+- [76] **Yumi**: I'm so glad we could all find a solution that makes everyone feel equal! I'll definitely be there to help anyone who needs a hand with the new racks. I vote for Option C!
+- [77] **Ryuji**: Option C is the only choice that addresses the physical congestion and removes the root cause of the daily friction. It is the most rational solution. I vote for Option C.
+- [78] **Shunichi**: Since we've established that Option A is a clerical nightmare and Option B is a pointless lottery, Option C is the only choice that doesn't insult my intelligence or waste our time. I vote for Option C.
+- [79] **Toshio**: Option C is the only choice that minimizes the administrative burden and ensures long-term viability without relying on a single person's endurance. It is the most sustainable path. I vote for Option C.
+### Vote
+- Asuka -> C
+- Yumi -> C
+- Ryuji -> C
+- Shunichi -> C
+- Toshio -> C
+## Result
+- adopted: C

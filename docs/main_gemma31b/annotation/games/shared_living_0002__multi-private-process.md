@@ -1,0 +1,73 @@
+# shared_living_0002__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Rin**: Hi everyone! I don't like how smelly and icky the corner gets in August. Can we find out what it's actually like to live next to the bins in other places?
+- [6] **Midori**: I agree, Rin. It's important to see how others handle it. I'm also worried about the costs. We should check the block ledger of refuse-point expenses and the ward subsidy to see what we can afford.
+- [7] **Shunichi**: Let's not forget that the smell isn't the only thing rotting here. We should check the ward complaint log for this point to see exactly who is upset and why. It's better to face the facts.
+- [8] **May**: I'm with you all, but let's be real—who's actually doing the work? I want to see the supervised mornings on the next lane and the station block's meeting minutes to see how much time this takes.
+- [9] **Asuka**: We need objective data to ensure fairness. I suggest we look into the measurements of the five frontages and the ward filing requirements per the installations clerk to understand the physical and legal constraints.
+- [10] **Rin**: @May, that's a great idea! If we see how other people do it, maybe we can find a way to make it not icky. I want to see the bin house at the station block too!
+- [11] **Midori**: @Rin, that sounds like a wonderful way to get inspiration. I still feel we need a clear picture of our finances first, so I'll stick with the ledger and the subsidy information to keep us grounded.
+- [12] **Shunichi**: @Midori, grounding us in numbers is fine, but numbers don't fix grudges. I'll also look into the statements at the residents' meeting. I want to know the actual tone of the arguments we're trying to resolve.
+- [13] **May**: @Shunichi, you're so dramatic! But you're right, the "vibe" matters. Still, I'm more worried about the actual labor. I'll stick with my plan to check the minutes and those supervised mornings. No one wants a second job for free.
+- [14] **Asuka**: @May, labor is important, but spatial burden is a constant. If the site remains in one spot, the burden isn't shared. I will proceed with the frontage measurements and the filing requirements to ensure any new plan is equitable.
+- [15] **Rin**: I wonder if the truck drivers have any secrets! Maybe they know a better spot? I'll check the truck arrival time from the crew leader and the visit to the station block's bin house!
+- [16] **Midori**: @Rin, that's a very creative idea! I hope the crew leader has some helpful tips. I'll stay focused on the block ledger and the ward subsidy so we can make sure the costs are fair for everyone.
+- [17] **Shunichi**: @Rin, chasing the truck drivers is a bit optimistic, isn't it? I'll stick with the complaint log and the residents' meeting statements. Let's see if we can find the root of the bitterness before we move the bins.
+- [18] **May**: @Rin, you're adorable, but let's not get distracted by truck driver secrets! I'm staying focused on the labor. I'll stick with the supervised mornings and the meeting minutes. I'm not letting any of us become an unpaid servant.
+- [19] **Asuka**: @May, it is not about being a servant, but about the physical reality of the space. I will stick with the measurements of the five frontages and the ward filing requirements. We cannot ignore the spatial impact.
+- [20] **Rin**: I'm excited! I'll find out about the truck times and the bin house. I hope we can make our corner a happy place to walk past again! See you all after the research!
+- [21] **Midori**: I'm looking forward to seeing what we all find. I really hope we can find a solution that is both effective and affordable for every household. See you all soon!
+- [22] **Shunichi**: Let's hope the data is more cooperative than we've been. I'll see if the records reveal any patterns we can actually work with. Until then, try not to start any new wars over the bins.
+- [23] **May**: Good luck with your little treasure hunts, everyone! I'll be the one making sure we don't accidentally sign our lives away to the bin gods. See you all in a bit!
+- [24] **Asuka**: I will focus on the facts. I hope the measurements and requirements provide a clear basis for a truly equitable distribution of the burden. I will see you all once the information is gathered.
+## Round 2
+- [35] **Rin**: Oh no! I went to the station block's bin house, but it's actually super smelly in the summer because you can't hose it out! I think a bin house might just make the icky smell worse!
+- [36] **Midori**: @Rin, that's a very important discovery. We should definitely avoid anything that traps smells. I've found that our current maintenance costs 34,000 yen yearly, and new shelters are quite expensive, even with the ward's 40% subsidy.
+- [37] **Shunichi**: @Midori, expensive shelters are the last thing we need if we can't even agree on who puts the bags out. The complaint log shows one household is doing almost all the complaining. We're dealing with a grudge, not just a budget.
+- [38] **May**: @Shunichi, a grudge is just a symptom of burnout! I found out that "supervised mornings" take about fifty minutes each. If we rotate, it's not much, but the station block minutes show they're already fighting over sweeping and broken latches.
+- [39] **Asuka**: @Midori, costs are secondary to the physical reality. My measurements show that some frontages are far too narrow to host a bay, while others are spacious. We cannot simply rotate the site if the space doesn't exist.
+- [40] **Rin**: @Asuka, but if we can't move it, we have to make it not smelly! @Midori, if shelters are too expensive and smelly, maybe we just need a better way to clean it? I don't want a stinky bin house!
+- [41] **Midori**: @Rin, I agree. Since we're already spending 34,000 yen a year on basics, adding a huge installation cost would be a heavy burden. We should look for a low-cost solution that doesn't break our budgets.
+- [42] **Shunichi**: @Asuka, your measurements are useful, but forcing a bin onto a narrow frontage is a great way to ensure a lifelong enemy. We need a solution that doesn't feel like a punishment for whoever has the widest yard.
+- [43] **May**: @Shunichi, exactly! But let's not forget the "invisible" cost. If we go for a fancy setup, we're just creating more things to fight over, like those broken latches. I'm more worried about who ends up doing the actual scrubbing.
+- [44] **Asuka**: @Shunichi, I am not suggesting we punish anyone. I am stating that a "fair" rotation is impossible if the pavement is only ninety centimetres wide. We must base our plan on what is physically viable, not just on feelings.
+- [45] **Rin**: @May, scrubbing is the worst part! But the truck comes really early, between 7:40 and 8:15. If we can't have a bin house, maybe we can just make it easier for the truck to take everything away quickly?
+- [46] **Midori**: @Rin, that's a helpful detail. If we can streamline the pickup, we might reduce the time waste and the smell. I'm still worried that any expensive equipment would be too much for some of us to afford.
+- [47] **Shunichi**: @Rin, efficiency is great, but it doesn't solve the social friction. @Asuka, if we only follow "physical viability," we're just ignoring the human element. We need a plan that doesn't make anyone feel like a martyr or a villain.
+- [48] **May**: @Shunichi, you're talking about martyrs, but I'm talking about the person who actually holds the broom! If we pick a "viable" spot but don't define the labor, the most polite person here will just end up doing everything. That's the real villain.
+- [49] **Asuka**: @May, that is precisely why we need a formal agreement. If we rely on politeness, the burden remains uneven. We must combine physical viability with a documented, mandatory rotation of labor to prevent any one person from being exploited.
+- [50] **Rin**: @Asuka, a formal agreement sounds like a lot of boring paperwork! But if it means no one has to be the "scrubbing martyr" and we don't get a stinky bin house, I'm for it! Let's make it a happy plan!
+- [51] **Midori**: @Rin, I agree! A simple, clear agreement is better than expensive equipment. Let's prioritize a low-cost approach that respects everyone's budget and time, ensuring no one feels an unfair financial or physical burden.
+- [52] **Shunichi**: @Midori, a "simple agreement" is a fantasy if we don't address the fact that one person is currently carrying all the resentment. Let's ensure the final plan actually heals the rift instead of just documenting it.
+- [53] **May**: @Shunichi, healing rifts starts with fair work, not just talking! If we have a clear, timed rotation for the labor, there's nothing to resent. Let's just make sure the "work" doesn't become a full-time job for one of us.
+- [54] **Asuka**: @Shunichi, resentment is often the result of an imbalance of burden. By using the frontage measurements to determine viable sites and a strict schedule for labor, we replace ambiguity with objectivity. That is the only way to ensure true fairness.
+## Round 3
+- [60] **Rin**: I don't like Option C! I saw that the bin house at the station block gets super smelly in August because you can't wash it. We shouldn't build a stinky box that makes the corner icky!
+- [61] **Midori**: @Rin, I completely agree. Beyond the smell, the costs for an enclosure are far too high. Even with the subsidy, it would be a huge financial strain on some of our households. I think Option A is much safer.
+- [62] **Shunichi**: @Midori, Option A is a recipe for disaster. We already know nobody wants to be the "bin police" who turns away late bags. Forcing a rotation of supervisors will just create new arguments over who's being too strict.
+- [63] **May**: @Shunichi, you're just scared of a little structure! I actually like Option A because it defines the labor. Fifty minutes a few times a year is a fair trade to avoid the "bin house" drama and the cost.
+- [64] **Asuka**: @Shunichi, structure prevents conflict. However, Option B is physically impossible; my measurements show some frontages are too narrow for a bay. We cannot rotate the site if it blocks the pavement. Option A is the only logical choice.
+- [65] **Rin**: @Asuka, if Option B is impossible and Option C is stinky, then Option A is the only one left! As long as the "bin police" aren't mean, I think it's the best way to keep the corner clean!
+- [66] **Midori**: @Rin, I agree. Option A is the most considerate choice. It avoids the high installation costs of Option C and the spatial issues of Option B, ensuring that no one is unfairly burdened financially or physically.
+- [67] **Shunichi**: @Midori, "considerate" isn't the word I'd use for a plan that forces us to police each other. We're just trading a smell for a surveillance state. If we can't even agree on late bags, this will be a nightmare.
+- [68] **May**: @Shunichi, you're making it sound like a prison! It's just a few minutes of your time. I'd rather have a clear schedule than a vague "someone will do it" plan that always ends up being the same person.
+- [69] **Asuka**: @Shunichi, your concern is emotional, not practical. Option A does not create a surveillance state; it creates accountability. Since Option B is physically unfeasible and Option C is too costly and unsanitary, Option A is the only viable path.
+- [70] **Rin**: @Shunichi, don't be so grumpy! If we just make it a game or be nice about it, it won't be a nightmare. I just want the icky smell gone so I can walk there happily!
+- [71] **Midori**: @Rin, your positivity is so refreshing! @Shunichi, I understand your worry, but Option A is the only one that doesn't risk bankrupting anyone or blocking the street. Let's just be kind to each other while we supervise.
+- [72] **Shunichi**: @Midori, kindness is a lovely sentiment, but it doesn't survive a rainy Tuesday when someone's trash is late. Still, if you're all determined to play police, I suppose it's better than a stinky box.
+- [73] **May**: @Shunichi, see? You're finally coming around! A little bit of "policing" is a small price to pay to make sure no one is secretly suffering. Let's just lock in the schedule and be done with it!
+- [74] **Asuka**: @May, exactly. We have eliminated the other options based on physical constraints and financial impracticality. Option A provides the necessary structure to ensure the burden of labor is shared equally, regardless of where the bins are located.
+- [75] **Rin**: I'm so happy we all agree! No stinky boxes and no blocking the road. Let's go with Option A and make our corner the cleanest and happiest one in the whole neighborhood! I vote for Option A!
+- [76] **Midori**: I agree with everyone. Option A is the most balanced and fair choice, as it protects our budgets and respects our space. I'm glad we found a way to be considerate of everyone. I vote for Option A!
+- [77] **Shunichi**: I'll go along with the majority, though I suspect we're just scheduling our future arguments. If we're doing this, let's keep the "policing" light so we can still speak to each other. I vote for Option A.
+- [78] **May**: I'm totally on board! A clear, timed rotation is exactly what we need so no one gets stuck doing all the heavy lifting. Let's keep it efficient and fair. I vote for Option A!
+- [79] **Asuka**: I agree. While the site remains in one location, the mandatory rotation of supervision ensures that the labor is distributed equitably. It is the only option that respects both physical and financial constraints. I vote for Option A.
+### Vote
+- Rin -> A
+- Midori -> A
+- Shunichi -> A
+- May -> A
+- Asuka -> A
+## Result
+- adopted: A

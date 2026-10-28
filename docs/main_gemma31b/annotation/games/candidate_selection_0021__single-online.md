@@ -1,0 +1,71 @@
+# candidate_selection_0021__single-online (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I believe we should start by understanding the human element. I will look into the staffing rolls for technical posts and the minutes on secondments and crew strength.
+- [6] **Sakura**: I want to see where the money actually goes! I'll check the travel and bench-fee lines in the ledgers and the national repository deposit turnaround.
+- [7] **Daisuke**: I... I think it would be wise to see what actually happened before. I will look into the closeout files of finished awards and the portfolio review of schedule overruns.
+- [8] **Takumi**: I'm not letting this be a guessing game. I'll check the incident logs on shared instrumentation and the station records from partner field sites.
+- [9] **Minako**: To ensure the infrastructure can support the research, I will examine the national computing agreement and facility day rates, as well as the accreditation and bookings at shared facilities.
+- [10] **Servas**: Those are all very sensible choices. It seems we have covered the human, financial, historical, physical, and digital aspects of our infrastructure quite thoroughly.
+- [11] **Sakura**: @Servas, you're so fancy with your words! I just want to make sure we aren't missing any hidden surprises in the budget. Does anyone else think we should check the day rates too?
+- [12] **Daisuke**: I think Minako has that covered... but maybe it's a good idea to be sure. I'm just worried we might overlook something important if we don't.
+- [13] **Takumi**: We've already split the list up. Let's just stick to our choices for now and see what we find. No point in doubling up if we can cover more ground.
+- [14] **Minako**: I agree with Takumi. We have a comprehensive plan, and duplicating efforts now would be inefficient. Let us proceed with our selected investigations.
+- [15] **Servas**: Indeed, efficiency is a virtue. I shall remain curious to see how our individual findings weave together to form a complete picture of our current capabilities.
+- [16] **Sakura**: I'm already excited! I bet I'll find something super interesting in those ledgers. I hope the money is actually going where it's supposed to!
+- [17] **Daisuke**: I just hope the past results give us a clear direction... it's always so stressful when the outcome is uncertain.
+- [18] **Takumi**: Stop worrying, Daisuke. We're doing the legwork now so we don't have to guess later. Let's just get the data and get it over with.
+- [19] **Minako**: I concur. Let us move forward and gather the facts. I am ready to begin my review of the computing agreements and facility bookings.
+- [20] **Servas**: Then it is settled. May our findings bring us the clarity we need to make a decision that serves both the science and the scientists.
+- [21] **Sakura**: Yay! Let's go find some secrets! I'll be the fastest one to finish, just you wait and see!
+- [22] **Daisuke**: I'll try my best to be thorough... I don't want to miss anything that might be important for the others.
+- [23] **Takumi**: Enough talking. Let's just get to the records and see what's actually happening on the ground.
+- [24] **Minako**: I agree. Let us conclude this round and proceed to the investigation phase.
+## Round 2
+- [35] **Servas**: It appears the landscape of expertise is shifting; while we have an abundance of interest in modelling and code, our experienced phenotyping technicians have largely departed for industry.
+- [36] **Sakura**: And I found out that shipping costs are going up, but the ministry is still helping with glasshouse fees! Also, the national repository is way faster now.
+- [37] **Daisuke**: I found that catalogue-style projects tend to be more useful in the long run, while some mechanism-focused ones just... didn't really solve their main questions. Also, breeding colonies often cause delays.
+- [38] **Takumi**: It's a mess. The spectroscopy suite was down for eleven weeks because of a lapsed contract, and three out of five field sites were hit by floods or fires. Total chaos.
+- [39] **Minako**: The computing agreement now covers simulation and modelling at no charge, but animal-unit day rates have risen sharply. Also, the animal facility is accredited, but the glasshouses are fully booked.
+- [40] **Servas**: It seems we are facing a paradox; we have the digital tools and the desire for modelling, yet we lack the technical hands for physical phenotyping.
+- [41] **Sakura**: @Minako, wait! You said the glasshouses are fully booked, but I saw the ministry is still paying for them! Does that mean we can't use them even if they're subsidized?
+- [42] **Daisuke**: I... I suppose that's a problem. If the glasshouses are full, it doesn't matter if they are subsidized, right? It's like having a coupon for a store that's closed.
+- [43] **Takumi**: Exactly. And don't forget the field sites are a disaster zone and the spectroscopy gear is unreliable. We can't fund something that relies on broken equipment or flooded fields.
+- [44] **Minako**: That is a correct assessment, Takumi. The subsidies are irrelevant if there is no physical capacity. We must prioritize projects that avoid these bottlenecks.
+- [45] **Servas**: We must also consider the human cost; if we fund a project requiring phenotyping technicians, we may find ourselves with a plan but no one to execute it.
+- [46] **Sakura**: That's a really good point, Servas! So we need someone who can do the work themselves or maybe someone who uses those cool computer models instead?
+- [47] **Daisuke**: I think the catalogue-style projects might be safer... since they seem to last longer and provide more value, even if the process is slow.
+- [48] **Takumi**: I'm with Daisuke on that. If the field sites are underwater and the labs are broken, a project that just catalogs data is way less likely to crash and burn.
+- [49] **Minako**: I agree. Given the current state of the shared facilities and the staffing shortages, a project with a focus on data synthesis or simulation would be the most stable choice.
+- [50] **Servas**: It is heartening to see us reaching a consensus. We must seek a path that aligns the ambition of the research with the reality of our available resources.
+- [51] **Sakura**: I'm totally on board! Let's find a project that doesn't need a million fancy machines or a hundred people to help out. That sounds like the smartest way to go!
+- [52] **Daisuke**: I just hope the candidates we see next actually fit this... I'd hate for us to have to choose between two projects that both seem risky.
+- [53] **Takumi**: We'll just have to be honest about the risks. If a project looks like it'll get bogged down in a flooded field or a broken lab, we vote against it. Simple.
+- [54] **Minako**: Precisely. We shall apply these factual constraints to the candidates with objectivity. Let us move to the final round and review the proposals.
+## Round 3
+- [60] **Servas**: We have four candidates: the Microbiome Atlas, Protein Folding Dynamics, Regeneration in Amphibians, and Plant Drought Signaling. Each presents a different relationship with our current constraints.
+- [61] **Sakura**: Ooh, the Microbiome Atlas sounds like a catalogue project! Daisuke said those are the most useful, and it uses a repository, which I found out is super fast now!
+- [62] **Daisuke**: I... I agree. The Microbiome Atlas seems to fit the catalogue style I saw in the closeout files, and it might be more stable than the others.
+- [63] **Takumi**: Wait, the Atlas needs soil samples from different climate zones. @Takumi, remember those field sites? If they're still flooded or on fire, that project is in trouble.
+- [64] **Minako**: Actually, @Takumi, the Atlas collects samples across several zones; it is less dependent on a single site than a focused trial. However, the Protein Folding Dynamics project aligns perfectly with our free computing and modelling capacity.
+- [65] **Servas**: The Protein Folding project is indeed attractive, but we must remember the spectroscopy suite's instability. If the laboratory spectroscopy is essential, we risk the same delays Takumi warned us about.
+- [66] **Sakura**: Wait, you're right! If the spectroscopy machine is broken, the Protein Folding project will just be stuck waiting. That's not a good way to start!
+- [67] **Daisuke**: I... I think the Amphibian project might be risky too. It uses breeding colonies, and I read that those often cause the most schedule overruns.
+- [68] **Takumi**: Exactly. And the animal facility day rates are through the roof, according to Minako. That project is a money pit and a scheduling nightmare. I'm out on that one.
+- [69] **Minako**: I agree. The Plant Drought Signaling project is also problematic, as it requires greenhouse trials, and we know the glasshouses are currently booked solid.
+- [70] **Servas**: It seems we have systematically eliminated the others. The Plant project lacks space, the Amphibian project lacks budget and time, and the Protein project lacks reliable equipment.
+- [71] **Sakura**: So that leaves the Microbiome Atlas! It's a catalogue, the repository is fast, and it doesn't need a glasshouse or a broken spectroscopy machine. It's the perfect pick!
+- [72] **Daisuke**: I... I feel much more confident about the Atlas now. It seems like the safest and most beneficial choice for everyone involved.
+- [73] **Takumi**: I'm sold. Even with the field site risks, it's a better bet than a project that's dead on arrival because of a full greenhouse or a broken machine. I vote for the Microbiome Atlas.
+- [74] **Minako**: I concur. The Microbiome Atlas is the only proposal that avoids our primary infrastructure bottlenecks while leveraging the improved repository turnaround. I vote for the Microbiome Atlas.
+- [75] **Servas**: It is a rare pleasure when a panel finds such harmony. I shall add my vote to the Microbiome Atlas, for it is the most prudent path forward.
+- [76] **Sakura**: I vote for the Microbiome Atlas too! It's the winner! Yay!
+- [77] **Daisuke**: I vote for the Microbiome Atlas.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

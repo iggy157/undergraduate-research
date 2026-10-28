@@ -1,0 +1,73 @@
+# candidate_selection_0006__single-online (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I think we should be careful about how these programs are sustained. I'd like to look into the board minutes on a jointly run clinic and the visit completion on the shared nursing round.
+- [6] **Jonathan**: I agree that sustainability is key. I'll look into the readmission figures during the call-back trial and what the booking system records to see what actually works.
+- [7] **Misaki**: I'll focus on the human element. I want to see the ward nursing vacancies and agency cover, as well as the therapy and midwifery staffing review.
+- [8] **Shion**: I'll be looking at this year's development allocation in the ledger and the regional fund tariffs by contact location. We need to be realistic about the actual finances.
+- [9] **Shizue**: I worry about the physical constraints of our facility. I will look into rooms, parking and shuttle coverage, and the data agreements with outside surgeries.
+- [10] **Midori**: It seems we have a comprehensive plan for our research. Does anyone feel we are missing a critical perspective before we proceed with these selections?
+- [11] **Jonathan**: I believe we have covered the essential bases. By looking at both the financial and operational data, we should be able to avoid repeating past mistakes.
+- [12] **Misaki**: I agree. As long as we consider the current staffing levels alongside the budget, we can make a decision that doesn't overburden the teams.
+- [13] **Shion**: Exactly. Logic dictates that a program is only as viable as its funding and its staff. I'm curious to see if the numbers actually support the ambitions of the proposals.
+- [14] **Shizue**: I feel much more at ease knowing we are considering the practicalities. I look forward to seeing if our infrastructure can truly support a new initiative.
+- [15] **Midori**: Since we are all in agreement, I think we can move forward. I'm hopeful that these insights will help us choose a program that truly benefits the community long-term.
+- [16] **Jonathan**: I'm also hopeful. It's better to be thorough now than to realize we've failed our patients a year from now.
+- [17] **Misaki**: I'll be waiting to see the results. It's important that we don't just look at the numbers, but at the people who will actually be doing the work.
+- [18] **Shion**: I agree, though the "people" are often just numbers in a budget. Let's see if the data reveals any inconvenient truths about our capacity.
+- [19] **Shizue**: I believe kindness and patience are just as important as data. I hope we can find a solution that is gentle on everyone involved.
+- [20] **Midori**: I think we have said all we need to for now. I'll mark these as my final choices and wait for the findings.
+- [22] **Jonathan**: I will do the same. I'm ready to see what the records tell us.
+- [24] **Misaki**: I'll finalize my selections as well. I'm ready to see the staffing reality.
+- [25] **Shion**: I'll finalize mine too. Let's see if the ledger is as optimistic as the proposals.
+- [27] **Shizue**: I will finalize my choices as well. I hope the results guide us toward a peaceful and sustainable decision.
+## Round 2
+- [39] **Midori**: It seems my concerns were justified. I found that a previous joint clinic failed because neither department would take responsibility for the budget or the rota, and shared nursing rounds suffered significant visit losses.
+- [40] **Jonathan**: My findings are equally sobering. A previous call-back trial significantly reduced readmissions for elderly patients, but the effect vanished once it stopped. Also, the booking system ignores any work without a fixed appointment.
+- [41] **Misaki**: The staffing situation is precarious. Ward nursing vacancies are high and agency costs are rising, but interestingly, the midwifery rota has unusual slack due to falling birth numbers.
+- [42] **Shion**: The financial outlook is grim. The development allocation is down by nearly a quarter, and we're now paying for floor space out of that same budget. Furthermore, off-site contacts bring in no regional fund tariffs.
+- [43] **Shizue**: I've discovered that our outpatient rooms and parking are nearly full by mid-morning, and our shuttle only reaches a few villages. Also, getting data agreements with outside surgeries is a very slow process.
+- [44] **Midori**: @Shion, if off-site contacts bring in no tariffs and the budget is shrinking, we must be very careful about any program that relies on home visits or external coordination.
+- [45] **Jonathan**: I agree with Midori. If the booking system doesn't even record non-appointment work, any program relying on informal coordination will be invisible and likely unfunded in the long run.
+- [46] **Misaki**: That makes me worry about the nursing staff. If we add a program that requires a lot of unrecorded work, the already strained ward nurses will be the ones feeling the pressure.
+- [47] **Shion**: Precisely. If we choose a program that generates no revenue and consumes a shrinking budget, we are simply setting it up for failure. We need something that fits the current financial reality.
+- [48] **Shizue**: I am also concerned. If the parking and rooms are already full, any program that brings more people onto the site will only add to the congestion and stress for our patients.
+- [49] **Midori**: @Misaki, you mentioned the midwifery rota has some slack. Perhaps we should look for a program that utilizes that specific capacity rather than adding to the ward nurses' burden.
+- [50] **Jonathan**: That is a logical pivot. If we can find a program that leverages existing slack rather than creating new gaps, we might actually sustain it.
+- [51] **Misaki**: I agree. Using the midwifery capacity would be much more sustainable than trying to squeeze more out of the ward nurses who are already relying on agency cover.
+- [52] **Shion**: It's a rare opportunity to find a resource that isn't already overstretched. If we can align that slack with a program that doesn't drain the development budget or require expensive new floor space, we might have a viable option.
+- [53] **Shizue**: I agree. If we can find a program that doesn't require more rooms or complex data agreements with outside surgeries, it would be much easier for the hospital to absorb.
+- [54] **Midori**: I think we have a clear set of criteria now: we need a program that utilizes the midwifery slack, avoids adding to the ward nursing burden, and doesn't overstretch our physical space or budget.
+- [55] **Jonathan**: I agree. We should prioritize a program that is administratively simple and doesn't rely on the invisible work that our booking system fails to capture.
+- [56] **Misaki**: I'll support any option that protects the ward staff. If we can shift the focus to the midwifery team, we avoid the risk of further burnout and agency reliance.
+- [57] **Shion**: I'll agree for now. As long as the program doesn't require a massive upfront investment in floor space or rely on non-existent tariffs, it might actually survive its first year.
+- [58] **Shizue**: I agree. Let us hope the candidates include something that fits these constraints without causing more stress for our staff or patients.
+## Round 3
+- [64] **Midori**: Now that we see the candidates, the Perinatal Support Service seems ideal. It uses the midwifery slack Misaki found and avoids the funding and space issues Shion and Shizue highlighted.
+- [65] **Jonathan**: I agree. The Perinatal Support Service is the most sustainable choice, as it avoids the pitfalls of unrecorded coordination and the instability of external funding that plagued previous trials.
+- [66] **Misaki**: I strongly support the Perinatal Support Service. It's the only option that leverages the available midwifery capacity without putting more pressure on the already exhausted ward nursing staff.
+- [67] **Shion**: It is the only logical choice. It avoids the tariff issues of home visits and the space constraints of a new unit, while utilizing existing staff slack. I vote for the Perinatal Support Service.
+- [68] **Shizue**: I agree completely. It seems the most gentle approach for our staff and the most practical for our facilities. I also vote for the Perinatal Support Service.
+- [69] **Midori**: Since we are all in agreement, I will also cast my vote for the Perinatal Support Service. It feels like the most harmonious choice for everyone.
+- [70] **Jonathan**: I will cast my vote for the Perinatal Support Service as well. It is the only proposal that aligns with the evidence we have gathered.
+- [71] **Misaki**: I'll cast my vote for the Perinatal Support Service too. It's the only one that makes sense for our current staffing levels.
+- [72] **Shion**: I have already cast my vote, but for the sake of the record, I reiterate my support for the Perinatal Support Service. It is the only fiscally responsible option.
+- [73] **Shizue**: I have also cast my vote for the Perinatal Support Service. It is the most sensible way to help our community without overwhelming our hospital.
+- [74] **Midori**: It seems we have reached a unanimous decision. I am glad we were able to look at the data and find a path that supports both our staff and our patients.
+- [75] **Jonathan**: It is a rare satisfaction to see a decision based on evidence rather than optimism. I believe we have successfully avoided the cycle of failed initiatives.
+- [76] **Misaki**: I'm just relieved that we've found a way to provide a new service without sacrificing the well-being of the nursing teams.
+- [77] **Shion**: It was a simple matter of elimination. By identifying the constraints first, the only viable answer became obvious. I'm satisfied with this result.
+- [78] **Shizue**: I am happy that we could all agree so kindly. It is a comfort to know that our decision will bring help to new parents without causing stress to our dear staff.
+- [79] **Midori**: I believe we can now conclude this meeting with confidence. I'll ensure the final decision is recorded and communicated to the departments.
+- [80] **Jonathan**: I will assist in documenting the rationale behind this choice to ensure the program's longevity. I'm satisfied with our process.
+- [81] **Misaki**: I'll make sure the midwifery team is informed and supportive of the transition. I'm glad we took the time to look at the rosters first.
+- [82] **Shion**: I'll keep an eye on the ledger to ensure the funding is actually allocated as promised. Let's hope this one doesn't vanish after twelve months.
+- [83] **Shizue**: I will keep everyone in my thoughts and hope this new service brings much joy to the families it helps. I am glad we worked together so peacefully.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

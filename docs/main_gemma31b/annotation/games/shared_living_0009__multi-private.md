@@ -1,0 +1,73 @@
+# shared_living_0009__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: Since we're settling this, we need a clear picture of how the car is actually being used. I think we should start by looking at the facts.
+- [6] **May**: I couldn't agree more, Misaki! Let's keep it breezy but thorough. I'm curious about the actual time spent on this, so I'll start there.
+- [7] **Servas**: It is wise to seek clarity. To understand the true balance of our sharing, I believe we should examine last year's tax, insurance and parking papers, as well as the hours of use recorded in the diary.
+- [8] **Takumi**: I want to know why things are getting tense between us. I'll look into what two other car-sharing households said and the spell of checking each other's figures to see where others messed up.
+- [9] **Kenji**: I want to know exactly how much we're spending! I'll check last year's fuel receipts and the month's trial of recording every run to see who's driving the most.
+- [10] **Misaki**: I agree with the others. To get a better sense of the daily reality, I'll look into the trips that repeat weekly and the state of the car at handover.
+- [11] **May**: Since everyone is picking their favorites, I'll jump in! I want to see the hours of use recorded in the diary and the spell of checking each other's figures. Let's see where the time really goes!
+- [12] **Servas**: I am content with my choices. Let us allow the facts to guide us toward a fair and harmonious resolution for everyone.
+- [13] **Takumi**: @Servas, facts are fine, but they don't tell us why we're arguing. I'm sticking with my choices. I want to make sure we don't just fix the money and keep fighting.
+- [14] **Kenji**: @Takumi, I get that, but knowing the money part helps stop the fighting! I'm excited to see what the receipts actually show. Let's just get all the info first!
+- [15] **Misaki**: It seems we have a good variety of data points covered. I'm interested to see if the handover state reveals why the car isn't always ready when needed. Let's proceed with these selections.
+- [16] **May**: I'm all set! I've got my eyes on the diary and those figure-checks. I have a feeling we'll find some very interesting patterns in how we spend our time. Let's get to it!
+- [17] **Servas**: Patience is a virtue, and so is preparation. I believe we have cast a wide enough net to capture the truth. I look forward to seeing how these pieces fit together for our collective good.
+- [18] **Takumi**: I'm ready. Just don't expect me to just nod along if the "facts" ignore the way we're treating each other. Let's see what we find.
+- [19] **Kenji**: I'm ready too! I think we've covered everything from the money to the feelings. I can't wait to see the real numbers and figure this out together!
+- [20] **Misaki**: Since we've all made our choices, let's move forward. I hope the information we gather helps us create a system that actually works for everyone's daily routine.
+- [21] **May**: I'm totally ready for the reveal! Let's see if the numbers are as dramatic as our arguments. I'll be waiting with bated breath to see what we've actually been doing with our time!
+- [22] **Servas**: May, your enthusiasm is a gift. Let us now step forward with open minds and gentle hearts, ready to accept whatever the records reveal so that we may find a path of true equity.
+- [23] **Takumi**: Whatever. Just make sure we actually talk about the tension and not just the paperwork. I'm done for this round.
+- [25] **Kenji**: I'm done too! Let's get those papers and receipts and see what's really going on. I'm sure we can fix this once we have the real numbers!
+## Round 2
+- [37] **Misaki**: It seems my suspicions were correct. The car is often left in a poor state, and the most consistent weekly trips are the ones being disrupted. We need to address the basic etiquette of handovers.
+- [38] **May**: Oh, the drama! It turns out that trying to be "precise" with our figures actually made us all hate each other. Who knew that checking the math could be so toxic? We're spending way too much energy on this.
+- [39] **Servas**: It is a reminder that numbers alone cannot capture the spirit of sharing. While the fixed costs are substantial, the diary shows our needs fluctuate greatly. We must balance the cold math with a warm heart.
+- [40] **Takumi**: @May, exactly. Checking figures just makes us feel accused. Other groups said the same thing—asking for favors or clinging to turns is what actually ruins things. We're focusing on the wrong stuff.
+- [41] **Kenji**: @May, @Takumi, I see your point, but look! The fuel receipts show it's really lopsided. Some of us are paying way more than others. We can't just ignore that if we want to be fair!
+- [42] **Misaki**: @Kenji, money is important, but it doesn't matter who pays if the car is empty or dirty when you need it. We can't just balance the books; we need a standard for how the car is returned.
+- [43] **May**: @Misaki, you're so right! But @Kenji, if we spend all our time arguing over pennies and scrubbing seats, we're just wasting our lives. Maybe the "fair" way is the one that takes the least effort?
+- [44] **Servas**: @May, simplicity is indeed a form of wisdom. However, we must ensure that "least effort" does not become a burden for one person while others enjoy the ease. True peace comes from a balance that satisfies the soul and the wallet.
+- [45] **Takumi**: @Servas, that's why we can't just use a spreadsheet to solve this. If we keep treating each other like accountants, we're just going to keep fighting. We need a system where we don't have to beg for favors.
+- [46] **Kenji**: @Takumi, I'm not trying to be an accountant, but it's not just "pennies"! Some people are paying for almost everything while others pay almost nothing. That's not fair to our friends, right? We need a real plan for the money!
+- [47] **Misaki**: @Kenji, fairness isn't just about the money. It's also about the reliability of the car. If the weekly trips keep collapsing, the system is failing regardless of who paid for the fuel. We need a rule for handovers.
+- [48] **May**: @Misaki, I'm with you on the reliability, but let's be real: the "rules" are exactly what's killing us. We're spending more time managing the car than actually driving it! Why not just simplify everything?
+- [49] **Servas**: @May, simplicity is a beacon, but we must not let it blind us to the truth. If we ignore the costs, we risk a quiet resentment that will erode our friendship more surely than any rulebook.
+- [50] **Takumi**: @Servas, resentment comes from feeling controlled or accused, not just from money. If we make a rigid rulebook to "save" the friendship, we'll just find something new to fight about. We need to stop the policing.
+- [51] **Kenji**: @Takumi, I'm not talking about policing! I'm talking about helping each other. If some of us are paying way more, the others should help out. That's what friends do, right? We just need a simple way to share the cost!
+- [52] **Misaki**: @Kenji, helping each other means ensuring the car is ready for the next person. If we only fix the payments but ignore the rubbish and empty tanks, we're still failing each other. We need a basic standard of care.
+- [53] **May**: @Misaki, I love the spirit, but let's not create a chore list that feels like a second job! If we make it too rigid, we'll just be back to arguing over who missed a spot. Let's find a way to be chill about it!
+- [54] **Servas**: @May, @Misaki, you both speak a truth. We must care for the vehicle and our peace of mind. Let us seek a path where responsibility is a gesture of kindness, not a heavy chain of obligation.
+- [55] **Takumi**: @Servas, that sounds nice, but "gestures of kindness" don't stop the fighting when someone's being selfish. We need a system that stops us from having to ask for favors or police each other. Let's just keep it simple.
+- [56] **Kenji**: @Takumi, I agree we should keep it simple! But simple doesn't mean ignoring the facts. If we just "be chill" while some people pay for everything, that's not simple, it's just unfair. Let's find a way to be fair without being boring!
+## Round 3
+- [62] **Misaki**: Option A seems the most reliable. If we have fixed days, the weekly trips won't collapse, and it's clear who is responsible for the car's state at the end of their turn.
+- [63] **May**: Option A is a dream! No more endless coordinating or "who owes what" drama every single night. We just know it's our day and we're done with the paperwork. It's so much more chill!
+- [64] **Servas**: While Option A offers a serene simplicity, we must consider if a fixed share truly reflects the uneven usage we discovered. Is it fair to pay the same for a Tuesday as for a Saturday?
+- [65] **Takumi**: @Servas, that's exactly the kind of thinking that leads to the "checking figures" disaster. If we obsess over who uses it more, we'll just start policing each other again. Option A stops the favors and the fighting.
+- [66] **Kenji**: @Takumi, I see why you like A, but @Servas is right! If some people barely use the car but pay the same as those who drive it every day, that's not fair. Option C lets us pay for what we actually use!
+- [67] **Misaki**: @Kenji, Option C requires the very recording and policing that @Takumi and @May are worried about. If we want to stop the fighting, we need a system that doesn't require constant auditing of every single kilometer.
+- [68] **May**: @Misaki, exactly! Option C is just a fancy way of saying "let's go back to being accountants." I can't imagine spending my evenings calculating distances. Let's just pick A and reclaim our free time!
+- [69] **Servas**: @May, your desire for freedom is understandable. Yet, we must ask: does a fixed share create a hidden burden? If one person quietly subsidizes another, the peace we find today may be but a mask for tomorrow's resentment.
+- [70] **Takumi**: @Servas, you're doing it again. You're worrying about a "hidden burden" that hasn't happened yet, while the actual fighting is happening right now. Option A is the only one that stops us from acting like enemies.
+- [71] **Kenji**: @Takumi, but the fighting is happening because the money is a mess! If we just ignore it with Option A, the people paying more will still feel it. Option B might be a better middle ground? One person manages it, and we just pay per trip!
+- [72] **Misaki**: @Kenji, Option B puts too much pressure on one person and doesn't solve the reliability issue. If the Primary Keeper is busy, we're back to begging for favors. Option A ensures the car is available.
+- [73] **May**: @Misaki, you've hit the nail on the head! Option B just creates a "boss" of the car, and that sounds like a recipe for more tension. Let's just go with A and stop overthinking it!
+- [74] **Servas**: It is true that we must avoid the trap of overthinking. However, let us remember that true harmony is not the absence of conflict, but the presence of justice. I shall vote for the path of most balance.
+- [75] **Takumi**: @Servas, "justice" is just another word for the policing that's killing our friendship. We need to stop treating this like a court case. Option A is the only way to stop the favors and the fighting. I'm voting A.
+- [76] **Kenji**: @Takumi, I'm not trying to make this a court case! I just want us to be honest. But if everyone hates the paperwork of Option C, maybe A is the only way we'll actually stop fighting. I'll think about it!
+- [77] **Misaki**: Option A is the only choice that guarantees the car is where it should be on a midweek morning. It replaces constant negotiation with a simple, reliable routine. I vote for Option A.
+- [78] **May**: I'm voting for Option A too! Let's stop the endless chatting and the math headaches. I'm choosing my sanity and my free evenings over a spreadsheet any day. Option A is the winner in my book!
+- [79] **Servas**: I have listened to you all with an open heart. While I worry about the hidden costs of a fixed share, the peace of our friendship is the greatest treasure. I vote for Option A.
+- [80] **Takumi**: I've said it already. We need to stop the policing and the begging for favors before we completely fall apart. I'm voting for Option A. Let's just be friends again.
+- [81] **Kenji**: I really wanted the money to be perfect, but I don't want to be the only one fighting for it while everyone else is miserable. If it keeps us friends, I'm in! I vote for Option A!
+### Vote
+- Misaki -> A
+- May -> A
+- Servas -> A
+- Takumi -> A
+- Kenji -> A
+## Result
+- adopted: A

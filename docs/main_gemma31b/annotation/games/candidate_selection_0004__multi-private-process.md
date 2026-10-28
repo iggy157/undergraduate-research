@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I'm excited to help. I think we should really check if the construction plans are realistic. I'm worried about delays once digging starts, so we need to know who can actually do the work.
+- [6] **Benjamin**: A prudent start, Kenji. While the "who" is important, I believe we must also consider the "how" the park actually functions. A beautiful blueprint is useless if it ignores the reality of the terrain and the people.
+- [7] **Minato**: I agree with Benjamin. I wonder who will take care of the park after it is finished? I want to know if there are enough people to keep it beautiful every day.
+- [8] **Minako**: I agree with the need for realism. However, we should look at the actual longevity of previous projects. Blueprints often hide future decay, so I want to see how past works are holding up today.
+- [9] **Jonathan**: I agree with all of you. To ensure the park remains a sanctuary without draining the city's coffers, I believe we must look closely at the actual long-term costs of upkeep and maintenance.
+- [10] **Kenji**: That makes sense! To figure out the construction side, I'll look into the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site. That should show us if the timeline is realistic.
+- [11] **Benjamin**: I shall complement your focus on logistics with a look at the ground truth. I'll examine the timed counts of weekday crossings and the drainage callouts and August heat readings to see how the site actually behaves.
+- [12] **Minato**: I want to see who is helping now. I will look into the groundskeeping roll and bought-in services, and also the volunteer groups working with the division. I hope we find many kind people.
+- [13] **Minako**: To assess the actual quality of the city's commissions, I will look into the condition of works from the earlier programme and the record of the eastern avenue planting. I want to see the results.
+- [14] **Jonathan**: I will examine the upkeep ledger spend per hectare and the terms of the regional habitat fund. It is vital to know if the funding is sustainable and what the actual costs are.
+- [15] **Kenji**: I think we've covered all the bases! We have the construction, the usage, the staffing, the quality, and the money. I'm really curious to see what the earth-moving firms say about the site.
+- [16] **Benjamin**: Indeed, we have cast a wide net. I suspect the data on drainage and foot traffic will provide a sobering contrast to the optimism of the architectural renderings. I look forward to the revelations.
+- [17] **Minato**: I hope the people who work there are happy. It would be nice if the new plan makes it easier for everyone to help each other and keep the park a peaceful place.
+- [18] **Minako**: It is important that we remain objective. Once we have the data, we can determine which plan is truly sustainable rather than just visually appealing. I look forward to seeing the actual state of previous works.
+- [19] **Jonathan**: I agree. Let us hope the data provides a clear path forward. I believe a realistic understanding of the financial burden will help us choose a plan that is truly sustainable for the city.
+- [20] **Kenji**: I'm ready! Let's see what we find out. I'll be cheering for a plan that actually gets finished on time! See you all in the next round!
+- [21] **Benjamin**: Patience is a virtue, Kenji, though I share your anticipation. Let us hope the evidence speaks clearly so we aren't merely guessing at the park's future. I shall see you all in the next round.
+- [22] **Minato**: I'm a little nervous, but I'm excited to learn more about the people who love the park. I hope we can find a plan that is kind to everyone. See you soon!
+- [23] **Minako**: I am ready as well. Let us proceed to the findings. I will be looking for the truth in the results, not the promises in the plans. See you in the next round.
+- [24] **Jonathan**: I am also ready. I will reflect on the figures quietly and wait for our next meeting. I wish you all a peaceful interval before we reconvene. See you in the next round.
+## Round 2
+- [35] **Kenji**: Wow, I found some worrying stuff! Only two firms are willing to do the earth-moving, and they both warned about clay subsoil and slippage risks. That could really mess up our timeline if we aren't careful!
+- [36] **Benjamin**: It seems the earth is as stubborn as the bureaucracy. My findings are equally sobering: the site is a heat trap, and the drainage is failing. Moreover, people are carving their own paths to the tram.
+- [37] **Minato**: I found out that there are only seven people on the groundskeeping roll now, which is much fewer than before. But I was happy to see that some kind volunteers are already helping out on weekends!
+- [38] **Minako**: My findings confirm a pattern of poor longevity. While some structural work holds, the surface finishes are failing, and half the eastern avenue trees died due to negligent aftercare contracts. We cannot trust the drawings alone.
+- [39] **Jonathan**: The financial data is concerning. Planted areas cost triple to maintain compared to hard surfaces, yet two-thirds of our funding only covers planting. We risk creating a beautiful space that the city cannot afford to keep.
+- [40] **Kenji**: @Benjamin, that's scary! If the drainage is failing and there's clay slippage, the digging will be even harder. We need a plan that doesn't require too much deep digging or complex earth-moving.
+- [41] **Benjamin**: Precisely, Kenji. We must avoid any design that treats the park as a static painting. If we ignore the existing drainage failures and the natural desire of pedestrians to take the shortest route, we are merely designing a future ruin.
+- [42] **Minato**: @Jonathan, it sounds like the plants are very expensive to look after. Since there are so few groundskeepers left, I worry that the plants might get sad and die like the trees Minako mentioned.
+- [43] **Minako**: @Minato, you are correct. The eastern avenue failure proves that planting without a guaranteed maintenance contract is a waste of resources. We must prioritize a plan with durable materials and realistic care requirements.
+- [44] **Jonathan**: @Minato, your concern is well-founded. If we prioritize planting to secure the habitat fund, we may inadvertently create a financial burden that the current staffing levels simply cannot sustain. We must balance ecological goals with fiscal reality.
+- [45] **Kenji**: I agree! We should look for a plan that uses those durable materials Minako mentioned. If we keep the earth-moving simple, we can avoid those slippage risks and actually finish the project on time!
+- [46] **Benjamin**: Logic dictates that we prioritize a design that accommodates the tram commuters' shortcuts rather than fighting them. A plan that ignores these "desire lines" will simply result in trampled greenery and wasted funds.
+- [47] **Minato**: I think we should also look for a plan that the volunteers can help with. Since there are so few staff, maybe the kind people who already help can take care of the park together.
+- [48] **Minako**: That is a helpful suggestion, Minato. However, we must be careful not to rely solely on volunteers for critical care. We need a design that is fundamentally robust and easy to maintain.
+- [49] **Jonathan**: I agree with Minako. While volunteers are a blessing, the city's budget must be the foundation. We should be wary of any plan that maximizes planting just to capture the habitat fund if it creates an unsustainable long-term deficit.
+- [50] **Kenji**: I'm on board! Let's find a plan that's simple to build, doesn't fight the soil, and is easy to keep up. I can't wait to see the candidates and pick the best one!
+- [51] **Benjamin**: Indeed. Let us hope the candidates offer a pragmatic approach. A design that respects the heat, the water, and the pedestrians will be the only one that truly survives the first year. I am ready.
+- [52] **Minato**: I hope the plans have a way to make the workers and volunteers feel happy and not too tired. I'm looking forward to seeing which one is the most gentle and sustainable for everyone.
+- [53] **Minako**: I am also ready. We have a clear set of criteria now: structural durability, realistic maintenance, and a design that respects the site's physical constraints. I will vote for the plan that proves most resilient.
+- [54] **Jonathan**: I am also ready. I will be looking for a balance that secures necessary funding without compromising the city's future financial stability. Let us evaluate the candidates with a clear eye for sustainability.
+## Round 3
+- [60] **Kenji**: Looking at these, Plan B seems safest! A paved plaza means less deep digging and no worrying about clay slippage. It's way more realistic to finish on time than digging ponds or planting a whole forest!
+- [61] **Benjamin**: While Plan B is structurally safe, it may exacerbate the heat trap I discovered. However, Plan A's ponds could be a disaster given the current drainage failures and clay slippage. We need a balance of utility and resilience.
+- [62] **Minato**: I think Plan B or D might be better because they have more hard surfaces. Since there are only seven groundskeepers, they won't have to work so hard to keep it beautiful.
+- [63] **Minako**: Plan A and C are too risky. Given the history of dead trees and failing surfaces, dense planting and complex water features will likely become ruins. Plan B or D are more realistic for our capacity.
+- [64] **Jonathan**: Plan B is the most fiscally responsible. It avoids the high maintenance costs of planted areas and doesn't rely on the habitat fund to mask a future deficit. It is a sustainable choice for the city's budget.
+- [65] **Kenji**: @Benjamin, you're right about the heat, but Plan D's terraces might need a lot of digging into that clay! Plan B is just a flat plaza, which is much easier to build and finish quickly.
+- [66] **Benjamin**: @Kenji, a flat plaza is indeed simpler, but we must not forget the tram commuters. Plan B's open layout likely accommodates those desire lines far better than the structured courts of Plan D.
+- [67] **Minato**: @Benjamin, that's a good point. If the plaza is open, people can walk where they need to without hurting any plants. I think Plan B is the kindest choice for the few workers we have.
+- [68] **Minako**: @Minato, I agree. Plan B minimizes the risk of negligent aftercare causing a visible failure. It is far better to have a durable plaza than a woodland that dies in two years due to poor contracts.
+- [69] **Jonathan**: @Minako, I completely agree. Plan B avoids the trap of using the habitat fund to build something that will eventually bankrupt the maintenance budget. It is the only option that ensures long-term financial peace for the city.
+- [70] **Kenji**: I'm totally sold on Plan B! It's the only one that doesn't sound like a nightmare for the construction crews. No deep ponds or terraces means we can actually get it done without the clay causing a disaster!
+- [71] **Benjamin**: It is rare that I find myself in such complete agreement with Kenji's enthusiasm. Plan B is the only logical choice; it respects the pedestrians' paths and avoids the clay's volatility. I shall vote for B.
+- [72] **Minato**: I will vote for Plan B too. It seems like the best way to make sure the few groundskeepers and the kind volunteers don't get too tired. It's a gentle plan for everyone.
+- [73] **Minako**: I will also vote for Plan B. It is the only option that prioritizes durability over aesthetics, ensuring the park remains functional and intact long after the initial opening. It is the most resilient choice.
+- [74] **Jonathan**: I concur. Plan B is the only option that aligns with the city's long-term financial health by minimizing high-cost maintenance. It is the most sustainable path forward. I shall also vote for Plan B.
+- [75] **Kenji**: It's awesome that we all agree! Plan B is definitely the way to go. It's simple, safe, and we can actually finish it! I'm voting for Plan B!
+- [76] **Benjamin**: A rare moment of total consensus. It appears logic and pragmatism have triumphed over architectural fantasy. I cast my vote for Plan B, trusting it will survive both the elements and the people.
+- [77] **Minato**: I'm happy we all agree. I'll vote for Plan B too, so the people taking care of the park can stay happy and healthy. I hope everyone enjoys the new plaza!
+- [78] **Minako**: My vote is for Plan B. It is the only choice that avoids the cycle of grand openings followed by rapid decay. By choosing durability, we ensure a lasting legacy for the city.
+- [79] **Jonathan**: My vote is for Plan B. It is the only choice that ensures the city's financial stability by avoiding unsustainable maintenance costs. I am glad we have found a path to long-term peace.
+### Vote
+- Kenji -> B
+- Benjamin -> B
+- Minato -> B
+- Minako -> B
+- Jonathan -> B
+## Result
+- adopted: B

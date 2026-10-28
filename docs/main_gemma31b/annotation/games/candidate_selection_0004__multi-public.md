@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I'm excited to help pick the best plan. I want to make sure we can actually finish the work on time, so I'll look into regional firms tendering for earth-moving and depot phasing notes.
+- [6] **Benjamin**: It is a pleasure to be here. To ensure our choice aligns with the actual usage and environmental realities of the site, I shall examine the timed counts of weekday crossings and the drainage callouts.
+- [7] **Minato**: I want to know who will take care of the park every day. I will look into the groundskeeping roll and bought-in services, and also the volunteer groups working with the division.
+- [8] **Minako**: I believe we must evaluate the longevity of our previous projects to avoid repeating past mistakes. I will look into the condition of works from the earlier programme and the record of the eastern avenue planting.
+- [9] **Jonathan**: It is a pleasure to meet you all. To understand the long-term financial sustainability of the park, I will look into the upkeep ledger spend per hectare and the terms of the regional habitat fund.
+- [10] **Kenji**: Does anyone else think we should check the soil or the weather? I'm a bit worried about the ground, but I think my choices cover the construction side well!
+- [11] **Benjamin**: @Kenji, your focus on the construction phase is prudent. I suspect the drainage callouts I've selected may provide the environmental context you seek regarding the ground's behavior during peak weather events.
+- [12] **Minato**: I think it's a good idea to check the weather. I hope the people who work there are happy and have enough help to keep the park beautiful for everyone.
+- [13] **Minako**: @Minato, your concern for the staff is valid. However, we must also ensure the physical assets are durable. I will focus on the historical data to see what actually lasts in this city.
+- [14] **Jonathan**: I agree with Minako. While the initial vision is often inspiring, the true test is how the costs evolve over time. I hope the ledger reveals a sustainable path for the city's budget.
+- [15] **Kenji**: I'm glad we all agree on being careful! I'll stick with my choices for now, but I'm really looking forward to hearing what you all find out. This is going to be interesting!
+- [16] **Benjamin**: Indeed, the anticipation is the best part of any investigation. I shall remain with my selections, as understanding the intersection of human traffic and water management seems essential for a rational decision.
+- [17] **Minato**: I will stay with my choices too. I want to see if there are enough kind people and workers to help the park stay healthy and happy for a long time.
+- [18] **Minako**: I will also maintain my selections. Understanding the gap between the original design and the current state of previous works is the only way to ensure we choose a truly sustainable plan.
+- [19] **Jonathan**: I shall also remain with my choices. It is better to be certain of the financial implications now than to be surprised by the accounts in a few years.
+- [20] **Kenji**: I'm all set! Let's get the information we need so we can pick the best plan for the city. I can't wait to see what we discover!
+- [22] **Benjamin**: I am also prepared. I look forward to synthesizing our findings into a logical conclusion.
+- [24] **Minato**: I am ready too. I hope the information helps us find a plan that is gentle on the people who will look after it.
+- [26] **Minako**: I am ready. Let us see if the facts support the visions presented in the plans. I look forward to the results.
+- [28] **Jonathan**: I am ready as well. I look forward to seeing if the financial data aligns with the ambitions of the proposed plans. Let us proceed.
+## Round 2
+- [40] **Kenji**: Wow, I found some important things! The earth-moving firms are worried about clay subsoil and slippage risks, but shallow work is fine. Also, only the southern ground can be hoarded in stages.
+- [41] **Benjamin**: That is a fascinating detail, @Kenji. It seems the ground is quite temperamental. My findings align with this; drainage callouts have doubled, and the site suffers from significant heat compared to shaded areas.
+- [42] **Minato**: I found out that there are very few groundskeepers left, only seven. But there are kind volunteers who help with habitat tasks and youth sports on the weekends. I hope we pick a plan they can help with.
+- [43] **Minako**: My findings are concerning. While the overflow basin from eight years ago is still in good condition, the resurfaced apron has already been patched three times. Furthermore, half the trees on eastern avenue died due to poor aftercare contracts.
+- [44] **Jonathan**: My findings add a financial layer to these concerns. The upkeep for planted and water-managed areas is triple that of hard surfaces, and a major part of our funding only covers planting and water management.
+- [45] **Kenji**: @Jonathan, that's a big difference in cost! But if the ground is slippery and clay-like, maybe we should avoid big digging in the center since we can't hoard it off easily. What do you think?
+- [46] **Benjamin**: @Kenji, your observation is astute. Given the drainage issues and the tendency of pedestrians to stick to firm ground, a plan that fights the natural flow of water or traffic would be illogical. We need something resilient.
+- [47] **Minato**: I think we should be careful about plans that need a lot of special care. Since there are so few workers, maybe we can pick something the volunteers already know how to help with?
+- [48] **Minako**: @Minato, I agree. My data shows that planting fails when aftercare is neglected. If we lack staff, we cannot risk a plan that requires intensive maintenance or relies on contracts that might be cut.
+- [49] **Jonathan**: @Minako, exactly. The financial data confirms that planted areas are not only more expensive to maintain but are becoming increasingly so. We must be wary of any plan that creates a long-term budget drain.
+- [50] **Kenji**: So, if we avoid big digging in the middle and want something that doesn't cost too much to keep up, maybe a plan that uses the southern area or stays shallow is best?
+- [51] **Benjamin**: Precisely, @Kenji. We must also consider that the public prefers firm ground for their commutes and the site is prone to overheating. A design that ignores these behavioral and thermal realities would be a failure of logic.
+- [52] **Minato**: I wonder if the volunteers who like habitat tasks or sports could help us. If we pick something they already enjoy, maybe the park will stay happy even with fewer workers.
+- [53] **Minako**: @Minato, that is a practical point. However, we must prioritize durability. My findings suggest that water-based infrastructure, like the overflow basin, has proven far more resilient than surface paving or unmaintained greenery.
+- [54] **Jonathan**: It is a delicate balance. While the habitat fund provides the initial capital, the triple upkeep cost for such areas is a significant risk. We must ensure the funding doesn't vanish once the ribbon is cut.
+- [55] **Kenji**: I'm starting to see a pattern! We need something that doesn't require deep digging in the center, is easy to maintain, and maybe uses the southern area. I'm ready to see the plans!
+- [56] **Benjamin**: I concur. We require a solution that respects the site's thermal stress, the pedestrians' habits, and the precarious nature of the soil. Let us see which candidate survives this scrutiny.
+- [57] **Minato**: I hope the plans have something that the volunteers can help with, so the few workers aren't too tired. I'm looking forward to seeing the options now!
+- [58] **Minako**: I am also ready. We have a clear set of constraints: durability over aesthetics, a need for low-maintenance or well-supported greenery, and a cautious approach to construction. Let us evaluate the candidates.
+- [59] **Jonathan**: I agree. We must be cautious not to let the allure of initial funding blind us to the long-term financial burden. I am ready to review the candidates with a critical eye.
+## Round 3
+- [65] **Kenji**: Looking at the options, Plan D seems great! It's on the southern side where we can hoard in stages, and it doesn't sound like it needs deep digging in the center. What do you all think?
+- [66] **Benjamin**: @Kenji, your logic regarding the southern location is sound. However, we must consider the heat readings; a large expanse of courts could exacerbate the thermal stress. Plan A, conversely, addresses the drainage issues directly.
+- [67] **Minato**: I like Plan A because the volunteers already enjoy habitat tasks! But I'm worried about the few workers. Would Plan D be easier for them since there are already volunteers for youth sports?
+- [68] **Minako**: @Benjamin, Plan A is appealing, but my data shows that planting fails without strict aftercare. With only seven staff, the risk is too high. Plan D is more durable and aligns with the existing sports volunteers.
+- [69] **Jonathan**: @Minako, I share your concern. Plan A's upkeep would be triple that of hard surfaces, creating a massive budget drain. Plan D's focus on courts and seating is far more financially sustainable for the city.
+- [70] **Kenji**: @Benjamin, I see your point about the heat, but Plan B is in the center where we can't hoard the site easily. Plan D keeps the park open and avoids the clay risks in the middle!
+- [71] **Benjamin**: @Kenji, you make a compelling point regarding the logistics. While Plan A is logically sound for drainage, the combination of high maintenance costs and staffing shortages makes it a precarious choice. Plan D appears the most pragmatic.
+- [72] **Minato**: I think Plan D is a good choice. It lets the sports volunteers help, and it seems like it won't be too hard for the seven workers to look after. It feels like a happy plan.
+- [73] **Minako**: @Minato, I agree. Plan D avoids the high-risk planting of Plan C and the maintenance burden of Plan A. It is the most durable option and respects the physical constraints of the site.
+- [74] **Jonathan**: I concur. Plan D avoids the financial trap of high-maintenance greenery and leverages the southern site's accessibility. It is the only option that ensures the city isn't burdened by unsustainable costs in three years.
+- [75] **Kenji**: It sounds like we all agree! Plan D is the safest for the ground, the easiest to build, and won't be too expensive to keep up. I'm voting for Plan D!
+- [76] **Benjamin**: The logic is consistent. Plan D respects the construction constraints, avoids the financial pitfalls of high-maintenance greenery, and aligns with existing volunteer support. I shall also cast my vote for Plan D.
+- [77] **Minato**: I agree with everyone. Plan D is a kind choice because it uses the sports volunteers and won't make the few workers too tired. I vote for Plan D!
+- [78] **Minako**: The evidence is clear. Plan D is the most durable and practical choice, avoiding the failures of past planting schemes and the risks of central construction. I vote for Plan D.
+- [79] **Jonathan**: I agree. Plan D is the only choice that avoids the long-term financial burden of expensive upkeep while remaining practical to build. I vote for Plan D.
+- [80] **Kenji**: I'm so happy we all found a plan we like! Plan D is definitely the way to go. Let's make this park awesome for everyone!
+- [82] **Benjamin**: It has been a most productive discussion. By synthesizing our diverse concerns, we have arrived at a rational and sustainable conclusion. I am satisfied with our consensus.
+- [84] **Minato**: I am happy that we could all agree. I hope the people who use the sports terraces and the volunteers who help them have a wonderful time in the park.
+- [86] **Minako**: I am satisfied that we have prioritized durability and practicality over mere aesthetics. Plan D is the only logical choice given the constraints. I am finished.
+- [88] **Jonathan**: It has been a pleasure working with you all. I am glad we have chosen a path that ensures the city's financial peace of mind for years to come. I am finished.
+### Vote
+- Kenji -> D
+- Benjamin -> D
+- Minato -> D
+- Minako -> D
+- Jonathan -> D
+## Result
+- adopted: D

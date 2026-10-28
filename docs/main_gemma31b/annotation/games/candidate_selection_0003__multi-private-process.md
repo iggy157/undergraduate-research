@@ -1,0 +1,73 @@
+# candidate_selection_0003__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: To ensure we make an objective choice, we should examine the actual utility of past projects. I suggest we look into the post-occupancy review ratings and the survey findings in the older blocks.
+- [6] **Victoria**: I agree with Toshio. To complement that, I believe we need to understand the operational impact on our scheduling. I suggest looking into the timetable records on rooms out of service and the booking data.
+- [7] **George**: I believe we must also consider the human element. I would like to examine the staffing posts since the hiring freeze and the bench technicians' weekly manual routines to see where the real pressure lies.
+- [8] **Mizuki**: I agree that we need a comprehensive view. To address potential financial and timing risks, I want to look into the tender records over three budget cycles and the decade of delivery schedules by project rationale.
+- [9] **Benjamin**: It seems we are all eager for data. To ensure our budget isn't merely a work of fiction, I shall examine the tender records over three budget cycles and the renewal reserve for equipment.
+- [10] **Toshio**: It seems we have a broad range of data points. @Victoria, your focus on room availability will be a useful counterpoint to the user satisfaction ratings I am seeking. I believe this approach covers our bases.
+- [11] **Victoria**: Thank you, Toshio. I believe that by comparing the booking data with the rooms out of service, we can identify whether our current space allocation truly meets the actual demand or if we are facing systemic shortages.
+- [12] **George**: While space allocation is important, we must not forget the people maintaining those spaces. If we ignore the operational burden on our staff, any new facility will only add to their existing strain.
+- [13] **Mizuki**: @George, your point is valid. However, we must also ensure that the projects we approve are actually deliverable within the timeframe. I am concerned that unrealistic schedules often lead to rushed, poor-quality results.
+- [14] **Benjamin**: A fair point, Mizuki. However, a schedule is only as reliable as the budget supporting it. I suspect we may find a charming discrepancy between what was promised on paper and what the market actually demanded.
+- [15] **Toshio**: The tension between budget and delivery is clear. However, if we ignore whether previous projects actually served their purpose, we risk repeating the same mistakes regardless of the budget. We must prioritize actual utility.
+- [16] **Victoria**: Utility is essential, but we must also consider the cost of the transition. If we don't account for the loss of usable space during construction, the immediate operational cost might outweigh the long-term utility.
+- [17] **George**: I understand the concern for transition costs, but we must be careful not to prioritize the building over the people. If the staff are already at their limit, any transition will be a struggle.
+- [18] **Mizuki**: @George, I agree that staff wellbeing is crucial. However, if we ignore the pattern of scheduling slips, we risk creating a chaotic environment that stresses the staff even more during the construction phase. We need realistic timelines.
+- [19] **Benjamin**: It is truly heartwarming to see such passion for the theoretical. However, let us not forget that a project's "utility" is often a luxury afforded only to those who can actually afford to finish the building.
+- [20] **Toshio**: Regardless of the financial constraints Benjamin mentions, we cannot afford to build something that fails its users. Let us proceed with these data points to ensure our final choice is grounded in reality.
+- [21] **Victoria**: I agree. By analyzing both the long-term utility and the immediate operational disruptions, we can make a decision that is sustainable for the university's daily functions. I look forward to seeing what the data reveals.
+- [22] **George**: I agree. Let us see if the data reflects the reality of those working on the ground. I hope we can find a solution that provides genuine relief to our exhausted staff.
+- [23] **Mizuki**: I agree. By combining the operational data with a critical look at our delivery history, we can avoid the pitfalls of over-optimism and select a plan that is truly feasible. I look forward to the results.
+- [24] **Benjamin**: Indeed. Let us hope the data provides a refreshing dose of reality to our aspirations. I shall be most interested to see if our financial projections have been living in a fantasy world.
+## Round 2
+- [35] **Toshio**: The data is revealing. Post-occupancy reviews show that projects benefiting a single wing performed poorly, while open-access spaces were highly rated. We must prioritize plans that serve the widest possible user base to ensure utility.
+- [36] **Victoria**: My findings are concerning. Booking data shows specialist rooms are often idle, while general-purpose room requests are constantly denied. Furthermore, every room taken out of service requires expensive off-site hired space for two terms.
+- [37] **George**: My findings confirm a worrying trend. While some new hires have capacity, our experienced bench technicians are bogged down by tedious manual routines and checks that should be automated. We are wasting human potential on basic upkeep.
+- [38] **Mizuki**: The data confirms my fears. Projects driven by "comfort" or "appeal" consistently slip by a year or more, while only essential inspection-led works stay on track. We must be wary of any plan based on aspirations rather than necessity.
+- [39] **Benjamin**: My findings suggest our financial planning is a bit of a fairy tale. Mechanical and plant costs have surged by twenty percent, yet we've failed to even set aside reserves for replacing aging AV equipment. We are underestimating costs.
+- [40] **Toshio**: @Victoria, your data on general-purpose room shortages aligns perfectly with my findings. If we invest in a project that only benefits a small group, we are ignoring a systemic demand and risking another low-rated outcome.
+- [41] **Victoria**: @Toshio, exactly. But we must also consider the hidden costs. If we choose a project that takes several general-purpose rooms out of service, the expense of hiring off-site replacements will be significant and disruptive.
+- [42] **George**: @Victoria, I understand the cost of off-site space, but we must also consider the cost of burnout. If we don't automate these manual routines, we are essentially paying skilled technicians to be janitors.
+- [43] **Mizuki**: @George, I sympathize with the staff, but we must be realistic. If we choose a complex project that slips by a year, as the data suggests "appeal" projects do, the burnout will only intensify due to prolonged chaos.
+- [44] **Benjamin**: It is fascinating how we discuss "hidden costs" while ignoring the most obvious one: the market. If we approve a plan based on outdated figures, we aren't just risking a delay; we are inviting a budget collapse.
+- [45] **Toshio**: @Benjamin, budget is a constraint, but not the only metric of success. If we build something cheap that nobody can use effectively, we have wasted the budget entirely. We need a project with broad, cross-departmental utility.
+- [46] **Victoria**: @Toshio, I agree. However, we must be cautious. If we prioritize a high-utility project that requires extensive room closures, the immediate financial and operational strain of off-site hiring could jeopardize the project's overall viability.
+- [47] **George**: @Victoria, the strain is already here. We cannot keep delaying relief for our staff because we fear temporary disruption. A project that automates manual burdens will provide permanent relief and long-term operational efficiency.
+- [48] **Mizuki**: @George, permanent relief is only possible if the project is actually completed. If we choose a plan based on "appeal" or "comfort" that slips by a year, we prolong the instability and the staff's burden.
+- [49] **Benjamin**: @Mizuki, your caution is prudent, but let us be honest: a project that "slips" often does so because the budget was a polite suggestion rather than a reality. We cannot afford another financial fantasy.
+- [50] **Toshio**: We must find a balance. A project that provides broad utility and addresses systemic shortages, while remaining grounded in realistic costs and timelines, is our only viable path. Let us evaluate the candidates with these specific risks in mind.
+- [51] **Victoria**: I agree. We must specifically scrutinize how many general-purpose rooms each candidate removes from the timetable and whether the projected costs include the inevitable expense of off-site replacements during the construction phase.
+- [52] **George**: I agree. However, we must also scrutinize which candidates actually reduce the manual workload for our technicians. A project that improves the facility but ignores the staff's daily burden is not a sustainable improvement.
+- [53] **Mizuki**: I agree. We must prioritize candidates that are based on necessity rather than aspiration. If a plan is framed as a "luxury" or "improvement for appeal," we must assume it will slip and avoid it to protect our staff and budget.
+- [54] **Benjamin**: I concur. Let us be particularly vigilant regarding any plan involving heavy mechanical upgrades or high-end equipment. Given the market surge and our lack of reserves, such "aspirations" are merely invitations for a budget deficit.
+## Round 3
+- [60] **Toshio**: Based on the data, Option B and D offer the broad utility we need. However, Option B is in a ground-floor hall, which my findings suggest may contain hazardous materials that could cause significant delays.
+- [61] **Victoria**: @Toshio, Option B addresses the general-purpose room shortage, but if it causes delays, the operational cost rises. Option A is concerning because it likely takes multiple teaching labs out of service, necessitating expensive off-site hiring.
+- [62] **George**: Option A is the only choice that directly addresses the manual burdens I discovered. Replacing the extraction equipment would automate those tedious routines, providing much-needed relief to our exhausted bench technicians.
+- [63] **Mizuki**: @George, while I understand the benefit, Option A involves heavy mechanical and plant work, which Benjamin noted is seeing huge cost surges. Furthermore, it's a complex upgrade that risks the scheduling slips I'm concerned about.
+- [64] **Benjamin**: @Mizuki is quite right. Option A is a financial minefield given the twenty percent surge in plant costs. Option D, meanwhile, relies on AV kit for which we have no renewal reserves. It is a recipe for a deficit.
+- [65] **Toshio**: @Benjamin, if Option D is a financial risk, then Option B is the most logical choice for utility. It serves the widest user base and avoids the mechanical cost surges of Option A.
+- [66] **Victoria**: @Toshio, Option B is appealing for utility, but we must confirm it doesn't displace existing general-purpose rooms. If it does, the cost of off-site replacements could be substantial. Is the hall truly underused?
+- [67] **George**: @Victoria, the hall's usage is secondary to the crisis in our labs. If we choose Option B, we are simply moving students around while our technicians continue to struggle with outdated, manual systems. We cannot ignore the staff.
+- [68] **Mizuki**: @George, I cannot ignore the staff, but I also cannot ignore the data. Option A is a high-risk project. Between the plant cost surges and the complexity, it is the most likely to slip and fail.
+- [69] **Benjamin**: @George, your empathy is admirable, but we cannot build a sanctuary for technicians on a foundation of debt. Option A is a fiscal disaster waiting to happen. Option C, however, is remarkably stable.
+- [70] **Toshio**: @Benjamin, Option C provides minimal utility compared to the others. It is a surface-level improvement. We must prioritize a project that actually solves a systemic problem, like the shortage of general-purpose space in Option B.
+- [71] **Victoria**: @Toshio, I agree that Option C is insufficient. Between the remaining choices, Option B seems the most sustainable, provided the hall is truly underused and doesn't trigger the expensive off-site hiring costs I'm worried about.
+- [72] **George**: @Victoria, the "systemic problem" isn't just room counts; it's the operational collapse of our lab support. If we prioritize a study hall over the people keeping our science facilities running, we are failing our most essential staff.
+- [73] **Mizuki**: @George, I understand the urgency, but Option A is a gamble we cannot afford. It's a complex mechanical project—the exact type that risks massive cost overruns and scheduling slips. Option B is a far more stable and feasible choice.
+- [74] **Benjamin**: @George, while I appreciate the sentiment, a "systemic problem" is not solved by a project that bankrupts the department. Option B is far more fiscally predictable than A or D. Let us be pragmatic.
+- [75] **Toshio**: We have a consensus on the risks of A and D. While B has the potential for delays due to hazardous materials, its broad utility and fiscal predictability make it the most responsible choice. I vote for Option B.
+- [76] **Victoria**: I agree. Option B addresses the critical shortage of general-purpose rooms without the extreme financial risks of A or D. As long as the hall is underused, it minimizes operational disruption. I vote for Option B.
+- [77] **George**: I cannot in good conscience vote for a project that ignores the people who keep this university running. Our technicians are at a breaking point. I vote for Option A.
+- [78] **Mizuki**: I must prioritize feasibility. Option A is too risky given the cost surges and the high probability of scheduling slips. Option B provides broad utility while remaining a manageable project. I vote for Option B.
+- [79] **Benjamin**: It is a pity we cannot automate the budget, but we must choose the path of least financial volatility. Option B is the only rational choice that avoids a fiscal catastrophe. I vote for Option B.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> A
+- Mizuki -> B
+- Benjamin -> B
+## Result
+- adopted: B

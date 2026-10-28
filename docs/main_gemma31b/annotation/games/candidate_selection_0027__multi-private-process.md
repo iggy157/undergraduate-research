@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: I believe we must ensure any plan is actually staffable. I intend to look into the roster books for the late-turn pool and the crew establishment and maintenance contract to assess our human resource capacity.
+- [6] **Takumi**: I'm not interested in just the current staff. We always repeat the same mistakes because we forget the past. I'll check the two pilots from eight years ago and the completion records of the earlier accessibility programme.
+- [7] **Toshio**: I agree that the past is instructive, but the present risks are often hidden. I will examine the joint operators' committee minutes and the contingency pricing inside the pre-war shells to identify administrative and physical hurdles.
+- [8] **Daisuke**: Um... I think we should be careful about the long-term costs. I'll look into the balances in the capital ledger and the ticketing contractor fees and paving rates... if that's okay.
+- [9] **Sakura**: I want to know where the time actually goes! I'll check the journey audits on where minutes go and the timed runs and crowd counts mid-city. Let's find the real mysteries!
+- [10] **Victoria**: @Sakura, your focus on efficiency is valuable, but efficiency means nothing if there is no one available to drive the trains. I hope the others agree that personnel capacity is a primary constraint.
+- [11] **Takumi**: @Victoria, personnel are just numbers if you don't know why the previous systems failed. If we ignore the history of those pilots, we're just hiring people to manage a disaster we've already had.
+- [12] **Toshio**: @Victoria, @Takumi, both points are valid. However, we must also consider the external approvals and structural surprises that often derail these projects. Without knowing who holds the veto, staffing and history are secondary.
+- [13] **Daisuke**: I... I agree with everyone. But I'm just worried that if we don't know where the money is coming from, we'll just end up arguing about the budget again later. I hope the ledger helps.
+- [14] **Sakura**: @Daisuke, don't be so worried! Money is important, but imagine the look on people's faces when we fix the parts they didn't even know were slow! That's the best kind of surprise, right?
+- [15] **Victoria**: @Toshio, I acknowledge the administrative hurdles, but a veto is easier to manage than a total lack of manpower. If the rosters are empty, no amount of approval will make the trains move.
+- [16] **Takumi**: @Victoria, you're too focused on the now. If the pilots from eight years ago failed because of staffing, we'll see it in the records. Why guess about the future when the answers are already written down?
+- [17] **Toshio**: @Takumi, records show what happened, but not always why. The "why" is often buried in committee minutes or hidden in the physical state of the shells. I prefer to know the actual obstacles before we commit.
+- [18] **Daisuke**: I... I just don't want us to commit to something we can't actually afford in the long run. I'm worried that the headline totals might be misleading if the contractor fees are too high.
+- [19] **Sakura**: @Toshio, @Takumi, you're both like detectives! But I bet the real secret is in the journey audits. If we find the hidden time-wasters, maybe we won't need as many people or as much money!
+- [20] **Victoria**: @Sakura, reducing waste is a noble goal, but it cannot replace a baseline of available staff. I will stick to my investigation of the rosters and contracts to ensure we have a realistic foundation.
+- [21] **Takumi**: @Victoria, you can keep your baseline. I'll keep the records. If we ignore the closure reports and past failures, we're just walking blindly into a wall we've hit before. I'm not letting that happen.
+- [22] **Toshio**: It seems we have a comprehensive spread of investigations. I will proceed with the committee minutes and contingency pricing. Knowing the hidden costs and the decision-makers will provide the necessary context for your findings.
+- [23] **Daisuke**: I'll... I'll stick with the capital ledger and the contractor fees then. I just want to make sure we find a way to pay for this without causing more arguments later. I hope it helps.
+- [24] **Sakura**: Yay! Everyone has their mission! I'm going to dive into those audits and counts to find the real bottlenecks. I'll see you all soon with the secrets I find! Let's make this the best plan ever!
+## Round 2
+- [35] **Victoria**: My findings are concerning. The late-turn pool is severely depleted, relying heavily on overtime. Furthermore, roadway and signals crews are a third below establishment. We cannot support any plan requiring additional operational intensity.
+- [36] **Takumi**: @Victoria, that's exactly why we need the records. The late-evening pilot from eight years ago actually hit its cost-recovery targets. If we can replicate that success, maybe we can find a way to fund the staff you're missing.
+- [37] **Toshio**: @Victoria, @Takumi, we must be cautious. I found that work inside pre-war shells is now plagued by unrecorded voids, causing massive delays. Any plan relying on those structures is a high-risk gamble regardless of staffing.
+- [38] **Daisuke**: Um... I found that the operating subsidy was trimmed again. But there is a ring-fenced construction balance from a lapsed grant. Maybe we can use that? I'm just worried about the ticketing fees... they're way too high.
+- [39] **Sakura**: Guess what! The crowds aren't the real problem! The audits show people spend way more time waiting for connections than in lines. Also, mid-city trips are taking much longer now, even though the platforms aren't any more crowded!
+- [40] **Victoria**: @Sakura, if mid-city trips are slowing down despite stable crowds, it likely points to the staffing shortages I found. We simply don't have the crew to maintain the pace or the infrastructure.
+- [41] **Takumi**: @Victoria, don't just blame the staff. The accessibility records show we lost lane-priority stretches to mixed traffic. If the mid-city is slowing down, it's probably because we gave up the road, not because people aren't working.
+- [42] **Toshio**: @Takumi, @Victoria, both are possible, but consider the administrative side. I found that roadway consents are already delegated to us, making road-based fixes easier. However, any plan involving rail-ferry integration will stall due to data disagreements.
+- [43] **Daisuke**: @Toshio, if road-based fixes are easier, maybe we can use that ring-fenced construction money for them? I'm just... really worried that if we touch the operating budget, we'll just fight about it again.
+- [44] **Sakura**: @Daisuke, that's a great idea! If we use the special money for road fixes, we can speed up those mid-city trips! Let's fix the parts that actually waste time, not just where people complain!
+- [45] **Victoria**: @Sakura, @Daisuke, road fixes may be easier, but they still require maintenance. With roadway crews a third below establishment, we risk creating new infrastructure that we cannot actually keep operational. We must prioritize stability over expansion.
+- [46] **Takumi**: @Victoria, stability is just another word for stagnation. We already know from the accessibility records that we lose ground when we don't fight for it. We can't just stop because we're short-staffed; we have to be smarter.
+- [47] **Toshio**: @Victoria, stability is a luxury we cannot afford if the infrastructure is failing. However, @Takumi, being "smarter" means avoiding the pre-war shells. The risk of unrecorded voids makes any deep structural work unpredictable and likely to stall.
+- [48] **Daisuke**: I... I think @Toshio is right about the risks. If we avoid the shells and use the ring-fenced construction funds for road-based fixes, maybe we can avoid the budget fights and the structural delays? I just want something sustainable.
+- [49] **Sakura**: @Daisuke, exactly! And @Victoria, if we make the trips faster, maybe the staff won't have to work so much overtime? Let's find a plan that fixes the real time-wasters without digging holes in the ground!
+- [50] **Victoria**: @Sakura, efficiency does not automatically reduce the need for a baseline of personnel. If we implement a plan that increases frequency or complexity, we will only further exhaust the remaining crews. We must choose a plan that is sustainable.
+- [51] **Takumi**: @Victoria, sustainability isn't just about current staff; it's about not repeating failures. We know the late-evening pilot worked. If we use the ring-fenced funds for road fixes, we can improve the system without breaking the staff.
+- [52] **Toshio**: @Takumi, @Victoria, we must align our goals. A plan that avoids the pre-war shells and rail-ferry integration will bypass the most volatile risks. If we focus on road-based improvements, we utilize delegated consents and available funds.
+- [53] **Daisuke**: I... I agree. If we can find a plan that uses the ring-fenced construction money for road-based fixes, it avoids the operating budget cuts and the risks @Toshio mentioned. I just hope it's enough to be sustainable.
+- [54] **Sakura**: @Victoria, @Takumi, @Toshio, @Daisuke, we're all agreeing! Let's pick a plan that speeds up the mid-city trips and fixes those connection waits, but stays away from the scary holes in the ground. That's the real secret to success!
+## Round 3
+- [60] **Victoria**: Plan B is impossible; my findings show the late-turn pool is already depleted and relying on overtime. We cannot extend hours when we are already struggling to cover the current final departures. We must avoid increasing operational intensity.
+- [61] **Takumi**: @Victoria, you're ignoring the evidence. The late-evening pilot from eight years ago was a success and hit its cost-recovery targets. We can't just give up because you're scared of the roster. We need to be bold.
+- [62] **Toshio**: @Takumi, boldness without predictability is recklessness. Plan C is out; the pre-war shells are too volatile. Plan D will stall due to the data disagreements between rail and ferry. Plan A is the only logical choice.
+- [63] **Daisuke**: I... I think @Toshio is right. Plan A uses road-based fixes, so we can use the ring-fenced construction balance. It avoids the operating budget cuts and the ticketing fee problems of Plan D. It seems the safest for everyone.
+- [64] **Sakura**: @Toshio, @Daisuke, you're totally right! Plan A is the winner! It fixes those slow mid-city trips I found and doesn't involve scary holes or budget fights. It's the perfect way to save everyone's time!
+- [65] **Victoria**: @Takumi, a successful pilot from eight years ago does not magically refill today's depleted rosters. Plan B would break our remaining staff. Plan A is more sustainable, provided the maintenance load is manageable.
+- [66] **Takumi**: @Victoria, you're still just looking at the numbers. If we don't take the risk, we'll just keep losing ground like we did with the lane-priority stretches. But if everyone is terrified, Plan A is better than doing nothing.
+- [67] **Toshio**: @Takumi, it is not terror, but a calculation of risk. Plan A utilizes delegated roadway consents, avoiding the administrative gridlock of Plan D and the physical instability of Plan C. It is the most predictable path to delivery.
+- [68] **Daisuke**: I... I agree with @Toshio. Plan A is the only one that doesn't seem to rely on the operating budget, which is already being trimmed. Using the ring-fenced funds for the corridor is the only way to avoid another argument.
+- [69] **Sakura**: @Victoria, see? Even you think Plan A is more sustainable! It's like a magic trick—we fix the slow parts of the trip and make people happy without making the workers too tired. Let's go with Plan A!
+- [70] **Victoria**: @Sakura, it is not a magic trick, but a necessity. While I remain concerned about the roadway crew shortage, Plan A is the only viable option that does not actively collapse our remaining personnel capacity. I will vote for Plan A.
+- [71] **Takumi**: @Victoria, fine. If you're that stubborn about the rosters, I'll concede. But let's not forget that we're only choosing Plan A because we're too afraid to be bold. I'll vote for A to avoid total stagnation.
+- [72] **Toshio**: The consensus is clear. Plan A avoids the structural volatility of the shells and the administrative deadlock of the fare integration. It is the only option that offers a predictable delivery timeline. I vote for Plan A.
+- [73] **Daisuke**: I... I'm glad we can all agree. Plan A lets us use the ring-fenced construction money and avoids the operating budget cuts. It's the only way to ensure we don't fight over the money later. I vote for Plan A.
+- [74] **Sakura**: I'm so happy we all agree! Plan A is the best because it solves the real time-wasting mysteries and keeps everyone smiling. I vote for Plan A too! Yay!
+- [75] **Victoria**: Since we have reached a unanimous consensus based on the constraints of staffing, budget, and structural risk, I see no reason to prolong the discussion. I maintain my vote for Plan A.
+- [77] **Takumi**: I'm voting for Plan A. It's not the boldest move, but it's better than repeating the mistake of letting our priority lanes disappear. Let's just make sure we actually keep them this time.
+- [79] **Toshio**: I vote for Plan A. It is the only candidate that minimizes administrative friction and physical risk, ensuring the project actually reaches completion.
+- [81] **Daisuke**: I vote for Plan A. It's the only option that uses the ring-fenced funds and avoids the operating budget, so we can finally stop arguing about the money.
+- [83] **Sakura**: I vote for Plan A! It's the perfect answer to the mid-city mystery and it makes the whole trip faster for everyone. We did it!
+### Vote
+- Victoria -> A
+- Takumi -> A
+- Toshio -> A
+- Daisuke -> A
+- Sakura -> A
+## Result
+- adopted: A

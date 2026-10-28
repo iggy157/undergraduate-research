@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Benjamin**: Hello everyone. Since our household has grown, it seems only logical to update our billing system. I believe we should aim for a method that is sustainable and avoids any future friction. What do you all think?
+- [6] **Mio**: I totally agree, Benjamin! It's getting a bit chaotic, isn't it? I want something that's easy for everyone and doesn't take forever to figure out every single month. Let's make it simple!
+- [7] **Jonathan**: I agree. It would be wise to ensure the system is fair for everyone. I think we should look into the actual usage to avoid any misunderstandings or feelings of imbalance among us.
+- [8] **Victoria**: I agree that we need a sustainable system. However, I believe it is crucial to understand our actual spending patterns over a full year before we commit to a new arrangement. We should be cautious about any upfront costs.
+- [9] **Minato**: I agree with everyone. I just hope we can find a way to talk about money without it making us feel sad or angry with each other. I want us all to stay happy friends.
+- [10] **Benjamin**: It is heartening to see we are all in agreement. To ensure our logic is sound, perhaps we should examine our historical costs and the actual effort required to manage the administration. Shall we decide what to investigate?
+- [11] **Mio**: That sounds like a great plan! I'm really curious about how much work the paperwork actually is. If we can find a way to make it super quick, that would be amazing for everyone!
+- [12] **Jonathan**: I think it would be beneficial to see the plug-in monitor readings room by room. It would provide objective data on who is using what, which helps prevent any lingering resentment.
+- [13] **Victoria**: I agree with Jonathan's point on objectivity. To ensure we have a complete picture, I would like to see the last twelve utility statements and the electrician's quote for the rooms.
+- [14] **Minato**: I want to know why people get upset. Can I see the payment log for the last twelve months and the settling up when the last rooms filled? Maybe that will help us understand.
+- [15] **Benjamin**: A prudent approach. I shall look into the last twelve utility statements to understand our spending patterns, and the sunlight and heating need by room to ensure we don't overlook winter comfort.
+- [16] **Mio**: I'll check out the trial run of a reconciliation template to see if it saves time! I also want to see the monthly settle observed at another house for some fresh ideas!
+- [17] **Jonathan**: I will look into the plug-in monitor readings room by room and the payment log for the last twelve months. I believe these will help us establish a fair and transparent baseline.
+- [18] **Victoria**: I will stick with my previous suggestions. I'll look into the last twelve utility statements to analyze our annual costs and the electrician's quote for the rooms to check for any potential upfront expenses.
+- [19] **Minato**: I'll look into the payment log for the last twelve months and the settling up when the last rooms filled. I want to see if there are patterns that make people feel bad.
+- [20] **Benjamin**: It seems we have a comprehensive list of investigations. By combining our findings on historical costs, administrative effort, and individual usage, we should be able to construct a system that is both fair and effortless.
+- [21] **Mio**: I'm so excited to see what we find! I really hope we can find a way to make the monthly chores a breeze so we have more time to hang out together!
+- [22] **Jonathan**: I look forward to seeing the results. Having clear, objective data will allow us to move forward with a system that everyone can trust and feel comfortable with.
+- [23] **Victoria**: I agree. Once we have the data, we can evaluate the options based on financial stability and feasibility. I look forward to seeing if the costs are as volatile as they feel.
+- [24] **Minato**: I hope the things I find can help us be kinder to each other. I'm looking forward to hearing what everyone else discovers too. Let's make this a happy change for all of us!
+## Round 2
+- [35] **Benjamin**: It appears our costs are quite volatile; February was nearly triple August. Furthermore, some rooms are naturally colder than others. We must ensure our system doesn't penalize those who simply have a draftier room.
+- [36] **Mio**: Oh wow, I looked into those templates and other houses, and it sounds like a nightmare! Even with a template, it's so much manual work. I'm worried that if we go too detailed, someone will spend their whole evening on it!
+- [37] **Jonathan**: The data from the monitors shows a significant disparity in energy use, with some rooms drawing four times more than others. This confirms that a flat split may be causing the imbalances some of us suspect.
+- [38] **Victoria**: The volatility is indeed concerning; the statements show no two consecutive months are even within 4,000 yen of each other. Additionally, installing sub-meters would be quite expensive, costing 34,000 yen per room plus annual maintenance fees.
+- [39] **Minato**: I saw that some payments were very late, and people got confused about the amounts. It took a long time to agree on what the new people owed too. I think this is why we've been feeling tense.
+- [40] **Benjamin**: It seems we are facing a classic dilemma: the desire for mathematical precision versus the need for social harmony. If we track every watt, we risk turning our home into an accounting firm, which sounds dreadfully tedious.
+- [41] **Mio**: Exactly! @Benjamin, you hit the nail on the head. If we spend hours every month calculating tiny differences, we'll just end up stressed. We need a system that's fast and doesn't feel like a second job!
+- [42] **Jonathan**: While I value simplicity, we cannot ignore that some are paying for others' heavy usage. If we prioritize speed over fairness, the resentment Minato noticed in the payment logs will only continue to grow.
+- [43] **Victoria**: @Jonathan, I understand the need for fairness, but we must be realistic. Spending over 130,000 yen on sub-meters is a significant upfront cost that could create its own financial strain. We need a solution that balances equity without being prohibitively expensive.
+- [44] **Minato**: @Jonathan, I agree that fairness is important. But if we focus too much on who used what, will we just find more things to be angry about? I want us to stop feeling tense.
+- [45] **Benjamin**: Perhaps we should consider a system that provides a predictable baseline. If we avoid the "accounting firm" approach but acknowledge the room disparities, we can ensure no one feels forced to shiver in a coat to save money.
+- [46] **Mio**: I love the idea of a predictable baseline! If we can just set a fixed amount or a simple rule, we won't have to spend hours on spreadsheets. Let's pick the easiest way to manage it!
+- [47] **Jonathan**: A predictable baseline is a start, but it must be grounded in the reality of our usage. If we ignore the four-fold difference in energy draw, we are simply choosing a different way to be unfair.
+- [48] **Victoria**: @Jonathan, we cannot ignore the data, but we also cannot ignore the budget. A system that is perfectly fair on paper but costs us a fortune to implement or hours to manage is not sustainable. We need a middle ground.
+- [49] **Minato**: Maybe we can find a way that doesn't require us to check every little thing? If the rules are clear and simple from the start, maybe we won't have to argue or feel bad about asking for money.
+- [50] **Benjamin**: Indeed. We must be honest: a system that is too rigid may lead to a cold house and cold hearts. Let us hope the proposed options offer a balance between fairness and comfort.
+- [51] **Mio**: I'm with you, Benjamin! Let's hope the options are super simple. I really don't want any of us spending our free time doing boring math. Let's find the one that's the least amount of work!
+- [52] **Jonathan**: I hope the options allow us to address the usage gap without creating an administrative burden. If we can find a way to tie payments to actual consumption simply, we can finally put these rumors of imbalance to rest.
+- [53] **Victoria**: I hope the options provide a way to smooth out those monthly spikes. A system that offers financial predictability without requiring a massive initial investment would be the most rational choice for all of us.
+- [54] **Minato**: I just want us to be happy again. If we pick a way that is clear and doesn't make anyone feel accused, maybe we can stop being sad and just enjoy living together.
+## Round 3
+- [60] **Benjamin**: Option A is far too simplistic given our volatility, and Option C, while precise, is an expensive administrative nightmare. Option B seems the most elegant; it provides predictability and prevents winter anxiety.
+- [61] **Mio**: I totally agree with Benjamin! Option C sounds like way too much work, and Option A still means calculating new totals every month. Option B is the winner for me—it's the fastest and easiest!
+- [62] **Jonathan**: Option B is a compromise, but it doesn't solve the core issue of usage disparity. Option C is the only one that ensures objective fairness, though I acknowledge the cost concerns Victoria mentioned.
+- [63] **Victoria**: Option C is financially unfeasible given the high installation costs. Option A leaves us vulnerable to those extreme monthly spikes. Option B is the most rational choice, as it provides the budget stability we need.
+- [64] **Minato**: Option C sounds like it might make us argue about the numbers even more. Option B seems nice because we know what to expect, so we won't have to feel surprised or upset every month.
+- [65] **Benjamin**: It is quite telling that we are almost in unison. Option B allows us to maintain a comfortable home without the psychological burden of calculating every single yen in real-time. It preserves both our warmth and our friendship.
+- [66] **Mio**: Exactly! @Jonathan, I know you want it to be perfectly fair, but is it really worth spending our whole evening on it? Option B is just so much more relaxed. Let's go with the one that keeps us happy!
+- [67] **Jonathan**: @Mio, I value our harmony, but true peace comes from knowing things are right. If we ignore the disparity, the resentment will simply hide until it boils over. However, I see the consensus.
+- [68] **Victoria**: @Jonathan, while I respect your commitment to fairness, the financial risk of Option C is too high. Option B allows us to plan our budgets and avoids the stress of those unpredictable spikes. It is the most sustainable path.
+- [69] **Minato**: I think @Jonathan is right that fairness matters, but I'm more worried about us fighting. If we pick Option B, we can just trust each other and be friends. I vote for Option B!
+- [70] **Benjamin**: Since we have reached a near-consensus, I believe it is time to finalize this. Option B offers the perfect blend of financial predictability and social grace. I shall cast my vote for it.
+- [71] **Mio**: I'm voting for Option B too! It's definitely the best way to keep things simple and save us all from a mountain of paperwork. Let's pick the easy way and get back to having fun!
+- [72] **Jonathan**: I still believe that ignoring the usage gap is a risk, but I value the peace of this house. To avoid further conflict and maintain our harmony, I will vote for Option B.
+- [73] **Victoria**: I agree. Option B is the only choice that ensures budget stability and avoids an unreasonable upfront cost. It is the most practical and sustainable solution for all of us. I vote for Option B.
+- [74] **Minato**: I'm so glad we all agree! I want us to be kind to each other and stop worrying about the money. I vote for Option B too!
+- [75] **Benjamin**: It is a rare and pleasant thing to find such swift unanimity. By choosing Option B, we ensure that our home remains a sanctuary of comfort rather than a ledger of grievances. I vote for Option B.
+- [76] **Mio**: I'm so happy we all agree! No more boring math and no more stressful evenings. I vote for Option B! Let's celebrate by doing something fun together!
+- [77] **Jonathan**: I hope that by agreeing on this, we can truly move past any lingering doubts. For the sake of our collective peace and friendship, I vote for Option B.
+- [78] **Victoria**: I vote for Option B. It is the most rational way to manage our volatility and protect our individual budgets without incurring unnecessary debt. I am glad we found a sustainable solution.
+- [79] **Minato**: I vote for Option B too! I'm really happy that we all decided together. Now we can just be happy friends and not feel sad about the bills anymore!
+### Vote
+- Benjamin -> B
+- Mio -> B
+- Jonathan -> B
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

@@ -1,0 +1,72 @@
+# candidate_selection_0003__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: I believe we should prioritize understanding how previous projects have actually performed for the users. I will look into the post-occupancy review ratings and the booking data for specialist and general rooms.
+- [6] **Victoria**: I agree that usage patterns are key. To complement that, I would like to examine the timetable records on rooms out of service and the post-occupancy review ratings as well.
+- [7] **George**: I am concerned about the burden on our personnel. I will look into the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [8] **Mizuki**: I want to ensure our timelines are realistic. I will look into the survey findings in the older blocks and the decade of delivery schedules by project rationale to see where delays typically occur.
+- [9] **Benjamin**: It seems we are all covering the human and temporal elements quite thoroughly. To add a financial perspective, I shall examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [10] **Toshio**: It seems we have a comprehensive spread of data. @Victoria, since we both chose the post-occupancy reviews, I am interested to see if our interpretations of the user satisfaction align.
+- [11] **Victoria**: @Toshio, I believe they will. It is important to see if the perceived success of a project matches the actual frequency of its use.
+- [12] **George**: I agree. It is one thing to have a facility that looks good on paper, but quite another to ensure it doesn't create more work for the staff maintaining it.
+- [13] **Mizuki**: @George, that is a valid point. I believe that understanding the gap between planned schedules and actual delivery will help us avoid placing undue stress on both the staff and the budget.
+- [14] **Benjamin**: Indeed. It would be a tragedy to select a project based on an optimistic brochure, only to find the market has moved on or the funds have vanished into a void of unforeseen costs.
+- [15] **Toshio**: I think we have a solid plan. I will stick with my choices and wait for the results to see which direction we should take for the improvement plan.
+- [16] **Victoria**: I concur. I will proceed with the timetable records and post-occupancy reviews to see how construction disruptions and final utility truly impact our campus operations.
+- [17] **George**: I shall remain with my selection. Understanding the daily grind of our technicians and the current staffing levels is essential for a sustainable decision.
+- [18] **Mizuki**: I will also stick with my choices. Identifying the root causes of past delays is the only way to ensure our next project doesn't slip into the following year.
+- [19] **Benjamin**: I shall maintain my selections as well. Let us hope the data provides a refreshing dose of reality to our deliberations. I look forward to seeing what the records reveal.
+- [20] **Toshio**: Since we have all confirmed our selections and the scope of our investigation is clear, I believe we have exhausted the need for further discussion in this round. I am ready to review the findings.
+- [21] **Victoria**: I agree. We have a balanced approach covering usage, staffing, timing, and finance. I am ready to see the results of our research.
+- [22] **George**: I agree. Let us move forward and see what the evidence tells us about the actual state of our facilities and the people who run them.
+- [23] **Mizuki**: I agree. We have a comprehensive set of data points to analyze. I look forward to seeing how these findings will shape our final decision for the coming fiscal year.
+- [24] **Benjamin**: Indeed. It is a rare pleasure to begin a committee meeting with such a methodical approach. I shall await the findings with a mixture of curiosity and a healthy dose of skepticism.
+## Round 2
+- [35] **Toshio**: The data is quite revealing. It seems our specialist rooms are largely idle, while general-purpose spaces are in desperate demand. Furthermore, projects that allow cross-departmental booking are rated far more successful by users.
+- [36] **Victoria**: That is a critical point, @Toshio. My findings add a layer of cost to that; every room we take out of service requires expensive off-site hired space, which significantly drains our budget during construction.
+- [37] **George**: My findings suggest a mismatch in our workforce. While some areas are understaffed, our bench technicians are wasting hours on manual tasks because our current extraction equipment is outdated and insufficient.
+- [38] **Mizuki**: My findings are concerning. Projects based on comfort or appeal often slip by a year or more, and ground-floor work in older blocks is frequently delayed by hazardous materials. We must be cautious about where we build.
+- [39] **Benjamin**: To add to the gloom, the market for mechanical and ducted plant has surged by twenty percent. Additionally, we have a looming financial void regarding our audiovisual equipment, for which no renewal reserve was ever established.
+- [40] **Toshio**: @George, your point about the technicians is interesting. If we upgrade the extraction equipment, we could solve a staffing inefficiency while potentially improving a facility that is currently a burden.
+- [41] **Victoria**: @Toshio, that is true, but we must weigh that against the cost of off-site space. If a ventilation upgrade takes rooms out of service, the hidden costs could be substantial.
+- [42] **George**: @Victoria, I understand the cost of hired space, but we cannot ignore the human cost. Our technicians are performing manual routines that modern equipment would handle automatically. It is a waste of their expertise.
+- [43] **Mizuki**: @George, I agree that efficiency is key, but we must be realistic. If the ventilation upgrade involves ground-floor work in older blocks, we risk hazardous material delays and a project that slips by a year.
+- [44] **Benjamin**: It seems we are caught between a rock and a hard place. If we pursue mechanical upgrades, we face a twenty percent price hike and potential delays, yet ignoring them leaves our staff in a state of manual drudgery.
+- [45] **Toshio**: @Benjamin, the price hike is a factor, but we must consider the user experience. If we create a general-purpose space that any department can book, we address the high demand and likely ensure a high satisfaction rating.
+- [46] **Victoria**: @Toshio, I agree. A general-purpose space would be highly valued, but we must ensure the conversion doesn't trigger the same off-site hiring costs or hazardous material delays Mizuki mentioned.
+- [47] **George**: @Toshio, while a general space is appealing, we have staff currently struggling with outdated equipment. If we can find a way to modernize the labs without excessive delays, it solves a real, daily problem for our people.
+- [48] **Mizuki**: @George, the risk is too high. My data shows that "comfort" projects slip, but "inspection" ones don't. If the ventilation is a safety or compliance issue, it's viable; otherwise, we risk another year of delays.
+- [49] **Benjamin**: @Mizuki, your distinction between "comfort" and "inspection" is astute. However, we must also consider that our audiovisual assets are essentially ghosts on the balance sheet, with no funds for their inevitable demise. We are playing a dangerous game with our reserves.
+- [50] **Toshio**: It seems we have a conflict between immediate staff relief and long-term user demand. We must decide if we prioritize the technicians' burden or the desperate need for bookable, general-purpose spaces.
+- [51] **Victoria**: @Toshio, we must also consider the financial drain of off-site hiring. Any project that displaces current room usage will be costly. We need a solution that balances user demand with operational and budgetary reality.
+- [52] **George**: I believe we must prioritize the technicians. They are the backbone of our operations, and forcing them to perform manual routines that modern equipment would handle is simply unsustainable. We cannot ignore the human cost.
+- [53] **Mizuki**: @George, I sympathize with the staff, but we cannot ignore the pattern of failure. If we choose a project that slips by a year, we fail everyone. We need a plan with a high probability of timely delivery.
+- [54] **Benjamin**: It is a fascinating puzzle. We have a choice between a costly, risky mechanical upgrade that saves our staff's sanity, or a general-purpose space that satisfies the masses but risks our budget and timeline. Truly, a delightful dilemma.
+## Round 3
+- [60] **Toshio**: Looking at the candidates, Option B addresses the high demand for general-purpose rooms and the preference for bookable spaces. However, Option A directly solves the manual burden on technicians George mentioned. Which do we prioritize?
+- [61] **Victoria**: @Toshio, Option B is tempting for users, but it's a ground-floor conversion. @Mizuki's findings on hazardous materials and the cost of off-site space make me wary of the hidden expenses and delays associated with that choice.
+- [62] **George**: @Victoria, exactly. Option A is a necessity for our staff. The current extraction equipment is failing them daily. We cannot let our technicians continue this manual drudgery while we chase "appeal" projects that often slip.
+- [63] **Mizuki**: @George, I agree that the staff need relief, but Option A involves mechanical and ducted plant, which Benjamin noted has seen a twenty percent price hike. We must ensure the budget can actually cover it.
+- [64] **Benjamin**: @Mizuki, you've hit the nail on the head. Option A is a financial gamble given the market surge. However, Option D would likely require the very audiovisual equipment for which we have no renewal reserve. It's a choice between different types of insolvency.
+- [65] **Toshio**: @Benjamin, if Option D is a financial risk, and Option B is a timeline risk, Option A seems the most urgent despite the cost. It solves a tangible operational failure for our staff.
+- [66] **Victoria**: @Toshio, I am still concerned about the off-site hiring costs if labs are closed. However, compared to the risks of Option B, Option A addresses a critical operational failure. It seems the most justifiable necessity.
+- [67] **George**: I am glad we are seeing the necessity of Option A. It is not about "appeal," but about basic operational functionality and the well-being of our staff. We must act now.
+- [68] **Mizuki**: @George, I can support Option A if we treat it as an essential infrastructure update rather than a comfort project. That should help keep the delivery on schedule and justify the cost.
+- [69] **Benjamin**: It is heartening to see such a swift consensus. While the price hike is a nuisance, it is far more palatable than the spectral void of an unfunded AV suite or a ground-floor project that lingers for years. I vote for Option A.
+- [70] **Toshio**: I agree. Option A addresses the operational failures and staff burdens while avoiding the specific risks associated with the other candidates. I vote for Option A.
+- [71] **Victoria**: I agree. While the off-site costs are a concern, the operational necessity for our staff and the risks associated with the other options make this the most rational choice. I vote for Option A.
+- [72] **George**: I am fully committed to this. It is the only choice that respects the hard work of our technicians and ensures our labs are fit for purpose. I vote for Option A.
+- [73] **Mizuki**: I agree. By framing this as a necessary infrastructure upgrade, we mitigate the risk of schedule slippage and provide essential relief to our staff. I vote for Option A.
+- [75] **Toshio**: Since we have reached a unanimous consensus on Option A, I believe our decision is clear. We prioritize operational necessity and staff well-being over the risks associated with the other plans.
+- [77] **Victoria**: I agree. We have balanced the needs of the staff with the risks of the budget and timeline. Option A is the most responsible path forward.
+- [79] **George**: I am satisfied that we have reached this conclusion. It is a victory for the people who keep this university running every day. I am glad we chose the path of necessity.
+- [81] **Mizuki**: I agree. We have carefully weighed the risks and the needs of our personnel. Option A is the most logical and sustainable choice for the university. I am satisfied with this outcome.
+- [83] **Benjamin**: A most efficient conclusion. We have successfully navigated the treacherous waters of budget surges and spectral reserves to land on a decision of necessity. I concur with the group.
+### Vote
+- Toshio -> A
+- Victoria -> A
+- George -> A
+- Mizuki -> A
+- Benjamin -> A
+## Result
+- adopted: A

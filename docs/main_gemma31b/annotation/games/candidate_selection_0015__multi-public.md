@@ -1,0 +1,71 @@
+# candidate_selection_0015__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: I believe we should prioritize stability and external dependencies. I will look into the winter road closures north of the river and the quoted delivery windows from suppliers.
+- [6] **Yumi**: I want to make sure everyone can actually get to us! I'll look into the bus links in the two outer wards and the attendance sheets from former outreach stops.
+- [7] **George**: I'm concerned about the long-term sustainability of our funding. I will look into the county grant terms and the endowment, as well as the running and equipment lines from last year.
+- [8] **May**: I think we often ignore our own history. I'll look into the two programmes begun six years ago and the evening room bookings and remote catalogue use to see what actually works.
+- [9] **Daisuke**: I... I want to make sure we have the right people to help. I'll look into the volunteer register and supervision training, and the neighbourhood associations and tool certification.
+- [10] **Ryuji**: It seems we have a comprehensive spread of data. @Yumi, @George, @May, @Daisuke, do you feel these selections cover the primary risks, or is there an overlap we should adjust before we proceed?
+- [11] **Yumi**: I think it's a great start! Everyone is looking at something different, and it feels like we're covering all the bases. I'm really excited to see what we find out!
+- [12] **George**: I agree. We have a balanced approach. I see no reason to change our selections; let us proceed and see what the records reveal.
+- [13] **May**: I'm perfectly happy with this. It's much better to actually check the records than to just guess based on who speaks the loudest in the room. Let's get to it.
+- [14] **Daisuke**: I... I agree. I think we've covered a lot of important things. I'm okay with this.
+- [15] **Ryuji**: Since we are all in agreement, I see no further need for deliberation in this turn. I am ready to review the data.
+- [16] **Yumi**: Me too! I can't wait to see if we can find a way to help more people. Let's go!
+- [18] **May**: I'm ready as well. Let's see if the past has any lessons for us that we've been ignoring.
+- [20] **Daisuke**: I'm ready too. I hope the information helps us make the right choice for everyone.
+- [21] **Ryuji**: I will pass my turn as well. We have established our research goals and there is no further need for discussion until we have the results.
+- [23] **Yumi**: I'm all set too! I'll be waiting to see what the reports say.
+- [25] **George**: I am also finished for this round. I look forward to reviewing the financial details and seeing how they align with our goals.
+- [27] **Daisuke**: I'm finished too. I'll wait for the results.
+## Round 2
+- [39] **Ryuji**: The data suggests that external logistics are unreliable. Scanning contractors have unstable delivery windows, and road closures affect our access, though not the community halls themselves. We must avoid services that rely on fragile schedules.
+- [40] **Yumi**: Oh wow, it's even worse than I thought! People in the outer wards have to travel an hour now, but they used to come in huge numbers to the outreach stops. We really need to reach them!
+- [41] **George**: The financial records are concerning. Our vehicle costs are overrunning, and the county grants only cover session fees for a year. We must be careful not to commit to something that drains our operating budget.
+- [42] **May**: It's exactly as I feared. We tried digitisation years ago and it was a mess, yet the partner-run groups are still thriving. We should look for models that are self-sustaining rather than top-down projects.
+- [43] **Daisuke**: I... I found out that we have some skilled volunteers, but we don't have any staff trained to supervise outside facilitators. Also, the person who certified our power tools has retired. I'm worried about who will manage things.
+- [44] **Ryuji**: @George, if vehicle costs are already overrunning, a mobile service might be a liability. @May, your finding about the partner-run groups suggests that community-led models are the most stable. We need a low-dependency option.
+- [45] **Yumi**: But we can't just ignore the people who can't reach us! If the outer wards are struggling and they loved the outreach stops, we have to find a way to bring the library to them.
+- [46] **George**: @Yumi, I understand your passion, but we cannot ignore the ledger. If the vehicle line is already overrunning by a third, adding more mileage is a recipe for a budget crisis by the second year.
+- [47] **May**: @George, you're right about the money, but @Yumi is right about the need. If we want stability, we should look at those partner-run groups I found. They've lasted six years without us hovering.
+- [48] **Daisuke**: I... I'm worried that if we start something new, we won't have anyone to supervise it. We have volunteers, but no staff trained for facilitators, and our tool certification has lapsed. We shouldn't start something we can't safely manage.
+- [49] **Ryuji**: @Daisuke, your point about supervision is critical. If we lack the internal capacity to manage facilitators or certify tools, we risk failure. We need a proposal that leverages existing community strengths without creating new staff burdens.
+- [50] **Yumi**: But if we don't do something, those people are just left behind! Is there any way to use those partner groups @May mentioned to help the outer wards without needing a big budget or new staff?
+- [51] **George**: @Yumi, that is a sensible direction. If we can utilize community partners, we might avoid the funding trap where the grant expires and the operating budget collapses. We must find a balance between access and fiscal reality.
+- [52] **May**: Exactly. We need to stop pretending every new idea is a fresh start. If we lean into the partner-led model that's already proven to survive, we solve the budget and supervision issues simultaneously.
+- [53] **Daisuke**: I... I think that sounds safer. If the community already knows how to run things, maybe our staff won't be so overwhelmed. I just don't want us to promise something we can't actually support.
+- [54] **Ryuji**: We have established that high-cost vehicle operations, unreliable contractors, and lack of internal supervision are our primary risks. A model based on community partnerships seems the most resilient and sustainable path forward. I am ready for the candidates.
+- [55] **Yumi**: I agree! As long as we can still help the people in the outer wards who are cut off, I'm on board with a community-led approach. I can't wait to see the options!
+- [56] **George**: I agree. We must prioritize a service that is fiscally sustainable and does not rely on a temporary grant to survive its second year. Let us see which candidates fit these criteria.
+- [57] **May**: I'm glad we're finally on the same page. Let's see if any of these candidates actually reflect the lessons of the past, or if we're just about to repeat the same mistakes.
+- [58] **Daisuke**: I... I hope the candidates have a plan for who will actually do the work. I'll support whatever is safest for the staff and the community. I'm ready to see them.
+## Round 3
+- [64] **Ryuji**: Based on our findings, Candidate A is the most viable. It utilizes partner organizations, avoiding the unreliable contractors of B, the tool certification issues of C, and the budget and road risks of D.
+- [65] **Yumi**: Candidate A sounds perfect! It uses partners to reach people across the district, which means we can finally help those in the outer wards who lost their bus links without needing a risky vehicle.
+- [66] **George**: Candidate A aligns with our financial constraints. By coordinating with partner organizations, we avoid the heavy operating costs of a vehicle and the risk of a budget collapse once the initial grants expire.
+- [67] **May**: Candidate A is the only one that doesn't ignore history. We've already seen that partner-run groups survive while digitisation fails. It's a proven model that doesn't rely on us micromanaging everything.
+- [68] **Daisuke**: I... I think Candidate A is the best choice. Since it uses partner organizations and facilitators, it won't put too much pressure on our staff, and we won't have to worry about the tool certifications.
+- [69] **Ryuji**: It is rare that we reach such a consensus so quickly. Every other option presents a risk we have already identified as critical. Candidate A is the only logical choice for long-term stability.
+- [70] **Yumi**: I'm just so happy we found a way to help everyone! Candidate A lets us be there for the people who need us most while keeping things sustainable. I'm definitely voting for it!
+- [71] **George**: I concur. Candidate A avoids the pitfalls of the other options and ensures we do not overextend our operating budget. It is the most responsible choice for the library's future.
+- [72] **May**: It's refreshing when the evidence is this clear. We're choosing a model that actually works in the real world rather than a fancy-sounding project that will just gather dust. I'm voting for A.
+- [73] **Daisuke**: I... I feel much better now that we've talked it through. Candidate A seems like the only one that won't overwhelm the staff or create safety risks. I'll vote for A too.
+- [74] **Ryuji**: Since we have all identified the same risks and found a single solution that mitigates them all, there is no reason to deviate. I will cast my vote for Candidate A.
+- [75] **Yumi**: I'm with you! I'm so glad we're doing this. I'm voting for Candidate A!
+- [76] **George**: I agree. Candidate A is the only proposal that ensures fiscal stability and avoids the recurring budget shortfalls I have observed. I cast my vote for Candidate A.
+- [77] **May**: I'm in complete agreement. It's the only option that respects the data and our history. I cast my vote for Candidate A.
+- [78] **Daisuke**: I... I agree with everyone. It's the safest and most supportive option for the staff. I cast my vote for Candidate A.
+- [79] **Ryuji**: The consensus is absolute. We have weighed the logistical, financial, and human risks and found Candidate A to be the only sustainable path. I am satisfied with this decision.
+- [81] **Yumi**: I'm so happy we could all agree on this! It's going to make such a difference for the people in the outer wards. I'm so glad we're doing this!
+- [83] **George**: I am satisfied as well. We have made a prudent decision that balances community needs with financial reality. I believe this will serve the library well for years to come.
+- [85] **May**: It's a rare win for common sense. We're actually learning from the past instead of just repeating it. I'm glad we stuck to the facts.
+- [87] **Daisuke**: I'm glad we could find a solution that everyone likes and that won't be too hard on the staff. I'm happy to support Candidate A.
+### Vote
+- Ryuji -> A
+- Yumi -> A
+- George -> A
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

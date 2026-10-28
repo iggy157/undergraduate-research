@@ -1,0 +1,73 @@
+# shared_living_0016__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I want to make sure the new fee structure is fair, but also that it isn't too hard for the person who has to manage the money. What should we look at first?
+- [6] **Ryuji**: We need a concrete basis for our calculations. I suggest we start by reviewing the last year's ledger of outgoings and the bank statements on last year's renewals to see the actual cash flow.
+- [7] **Minako**: I agree with Ryuji on the financial data. However, we should also consider how members actually use the club. I suggest looking at the tally of the sign-in sheets and the sign-up records for mid-year joiners.
+- [8] **May**: Numbers are all well and good, but let's not forget the human element. I'm curious about the vibe lately. I'd like to see the weekday turnout since the summer outings and the rota against the attendance record.
+- [9] **Shunichi**: It seems we're all eager to dive into the data. While the finances are obvious, I'm more interested in the actual distribution of effort and presence. Let's see who's actually showing up and who's just a name on a list.
+- [10] **Minato**: I see. Everyone has different ideas. I'm worried about the person doing the paperwork, so maybe we should check the outgoing treasurer's logged hours too? It would be good to know how much work it is.
+- [11] **Ryuji**: That is a valid point, Minato. Administrative overhead is a cost in itself. However, we cannot ignore the risk of underfunding. I still believe the bank statements are the most critical piece of evidence for our stability.
+- [12] **Minako**: It is important to balance the workload with the member experience. If we make the process too rigid or complex to save time, we might discourage people from joining. Let's keep that in mind while we select our data.
+- [13] **May**: Exactly, Minako! If we make it feel like a chore or a strict contract, people will hesitate. We want them excited to come, not calculating the cost-benefit ratio every single time they think about joining us.
+- [14] **Shunichi**: @May, calculating the cost-benefit ratio is exactly what people do when they feel they're paying for a service they aren't using—or when they're subsidizing others. Let's be rational about the actual usage patterns.
+- [15] **Minato**: I understand. I just want everyone to be happy and not too stressed. If the work is too much, the treasurer might get sad. Should we also look at the minute books from the named-grade years?
+- [16] **Ryuji**: The minute books might provide historical context, but they won't give us the current financial certainty we need. We must prioritize data that reflects our actual current standing to avoid guesswork.
+- [17] **Minako**: Historical context is useful, but current trends are more pressing. I believe we should focus on the data that shows how newcomers integrate and how often the space is actually used.
+- [18] **May**: @Minato, let's not worry about the treasurer's sadness just yet! I'm more concerned about the members' hesitation. I still think the attendance records are key to seeing if people are actually enjoying themselves.
+- [19] **Shunichi**: @Minato, let's stick to the present. History is fine for a museum, but we're running a club. I'm more interested in the gap between those who do the work and those who just enjoy the perks.
+- [20] **Minato**: I think I understand now. I will look into the outgoing treasurer's logged hours and the minute books from the named-grade years. I hope this helps us find a way that is easy for everyone.
+- [21] **Ryuji**: I will look into the last year's ledger of outgoings and the bank statements on last year's renewals. We must have a clear understanding of our actual balance before we commit to any specific figures.
+- [22] **Minako**: I will look into the sign-up records for mid-year joiners and the tally of the sign-in sheets. I want to see how newcomers are integrating and how the club is being used.
+- [23] **May**: I'll stick with my gut. I'm going to look into the weekday turnout since the summer outings and the rota against the attendance record. Let's see if people are actually showing up or just hesitating!
+- [24] **Shunichi**: I'll take the rota against the attendance record and the tally of the sign-in sheets. I want a clear picture of who's actually carrying the load and who's just a ghost.
+## Round 2
+- [35] **Minato**: I found out that chasing money for individual sessions takes a lot of time—six hours a month! That seems like a lot of work. I think we should avoid any system that makes the treasurer do that.
+- [36] **Ryuji**: The ledger shows that seventy percent of our costs are fixed, regardless of attendance. We cannot afford a system that risks these basics. Furthermore, many members struggle with lump-sum payments, requiring multiple reminders.
+- [37] **Minako**: The sign-in sheets show a significant gap in attendance, with some members not visiting at all. However, mid-year joiners are hesitant unless we provide custom calculations, which suggests a need for a welcoming, flexible entry process.
+- [38] **May**: It's exactly as I feared! Turnout dropped after we started charging for outings. People have stopped feeling like these evenings belong to them; they're overthinking it. We've created a psychological barrier that's killing the vibe.
+- [39] **Shunichi**: @Minato, six hours is a nuisance, but the real issue is the imbalance. A quarter of us are doing two-thirds of the attending, and eighteen people are essentially ghosts. We're subsidizing a lot of empty seats.
+- [40] **Minato**: @Shunichi, I understand, but if the treasurer is too tired from chasing ghosts, they might quit again. Maybe a simple yearly fee is better? It only takes one hour instead of six. That would be much more peaceful.
+- [41] **Ryuji**: @Minato, a simple yearly fee is efficient, but we must be careful. My findings show that a third of members struggle to pay a lump sum. If we insist on one payment, we risk losing members or increasing the chase.
+- [42] **Minako**: @Ryuji, if we make the payment structure too rigid, we risk alienating those who can't pay upfront. We need a system that is financially stable but doesn't make members feel scrutinized or excluded.
+- [43] **May**: @Minato, a yearly fee sounds peaceful for the treasurer, but it's a huge wall for the members! If we make it a big, scary lump sum, people will hesitate even more before joining. We need to keep it light.
+- [44] **Shunichi**: @May, "keeping it light" is just another way of saying we're ignoring the facts. We have a core group doing all the work and attending everything, while others pay nothing or very little. That's not a vibe; it's an injustice.
+- [45] **Minato**: @Shunichi, I don't want anyone to feel it's unfair. But if we make the rules too complicated to be "just," the treasurer has to do all that hard work. Can't we find a way that is both fair and simple?
+- [46] **Ryuji**: @Minato, simplicity is a goal, but not at the cost of accuracy. We must ensure the fixed costs are covered first. A hybrid approach might be the only rational way to balance stability with accessibility.
+- [47] **Minako**: @Ryuji, a hybrid approach could work, provided it doesn't create visible tiers of membership. We must ensure that the process for joining remains low-pressure so newcomers don't feel like they are being audited before they even enter.
+- [48] **May**: @Minako, exactly! If we start auditing people or creating "tiers," it just adds to that hesitation. We need to make it feel natural to just show up, not like a financial transaction every time.
+- [49] **Shunichi**: @May, making it "natural" to show up while a handful of people do all the heavy lifting is exactly how you breed resentment. We can't ignore that eighteen people are ghosts. Rationality requires that those who use the club actually support it.
+- [50] **Minato**: I hope we can all agree soon. I'm just worried that if we make it too complex to be fair, the treasurer will be too stressed. Let's try to find the simplest way that helps everyone.
+- [51] **Ryuji**: We must avoid guesswork. Since seventy percent of our costs are fixed, we need a guaranteed base income, but we must also provide a way to spread payments to avoid the chase. Stability is our priority.
+- [52] **Minako**: Stability is necessary, but not at the expense of our culture. If we implement a system that highlights who is a "ghost" or who is struggling to pay, we destroy the welcoming atmosphere that makes this club special.
+- [53] **May**: @Minako, you've hit the nail on the head. If we start treating membership like a subscription service or a debt collection agency, the magic is gone. We need a structure that feels like an invitation, not a bill.
+- [54] **Shunichi**: @May, "magic" doesn't pay the bills or lock the doors. We have nine people doing all the actual work while others treat this place like a free hotel. Let's stop romanticizing the "vibe" and start valuing the effort.
+## Round 3
+- [60] **Minato**: I think Option A is the best. It only takes one hour of work for the treasurer, which is much better than six. It's the simplest way and keeps everything peaceful for everyone.
+- [61] **Ryuji**: @Minato, while Option A is simple, it ignores the fact that a third of our members struggle with lump sums. Forcing a single payment would likely increase the treasurer's workload through constant chasing.
+- [62] **Minako**: Option B seems too administrative and creates a barrier for every event. Option C is even worse, as it creates visible tiers that would make newcomers feel judged or restricted. I prefer Option A.
+- [63] **May**: @Minato, I agree that A is the simplest, but @Ryuji is right about the lump sum. Still, B is a disaster! Charging per event is exactly what killed our weekday turnout. It makes people hesitate.
+- [64] **Shunichi**: @May, you're prioritizing a "feeling" over the fact that a few people are subsidizing the ghosts. Option A is a joke; it rewards the inactive and burdens the loyal. Option C is the only rational way to acknowledge different levels of commitment.
+- [65] **Minato**: @Shunichi, but Option C sounds complicated. If people have to choose levels, the treasurer has to keep track of who can do what. That sounds like it would take a lot of time and effort.
+- [66] **Ryuji**: @Minato, you are correct about the complexity. However, Option A is a gamble. If we set a flat fee and people cannot pay it, we lack the funds for our fixed costs. We need a guaranteed baseline.
+- [67] **Minako**: @Ryuji, we can ensure a baseline with Option A by setting the fee reasonably. Option C would force members to label themselves, which creates a social divide and makes the club feel like a business rather than a community.
+- [68] **May**: @Minako, exactly! Labeling people is the worst. If you're a "Bronze" member or whatever, you'll feel like a second-class citizen. We need to remove the barriers, not build new ones that make people overthink their value.
+- [69] **Shunichi**: @May, calling it a "social divide" is a stretch. It's called accountability. Why should the nine people doing all the work be in the same category as the eighteen ghosts? Option C is the only one that's actually fair.
+- [70] **Minato**: @Shunichi, I don't want anyone to feel it's unfair, but I'm scared that Option C will make the treasurer too tired. If the work is too hard, they might leave, and then we'll have no one to help.
+- [71] **Ryuji**: @Minato, the treasurer's fatigue is a concern, but financial instability is a greater risk. Option A is too blunt, and Option B is too volatile. Option C provides the most predictable income for our fixed costs.
+- [72] **Minako**: @Ryuji, predictability shouldn't come at the cost of our culture. Option C makes membership a transaction and a label. Option A maintains the anonymity and equality that allows people to drift in and find their feet.
+- [73] **May**: @Minako, exactly! We can't let "predictability" kill the spirit of the club. If we go with C, people will spend more time worrying about their "tier" than actually showing up. Let's just keep it simple and inclusive.
+- [74] **Shunichi**: @May, "inclusive" shouldn't mean "exploitative." You're so worried about people overthinking their value that you're ignoring the value provided by the few who actually show up. Option C is the only rational choice for a sustainable club.
+- [75] **Minato**: I still think Option A is the best. It's the most peaceful for everyone and the easiest for the treasurer. I hope we can choose the simplest way so no one gets too stressed.
+- [76] **Ryuji**: @Minato, simplicity is not a substitute for stability. Option A risks our fixed costs if payments fail. Option C is the only rational way to secure our baseline while acknowledging actual usage. I vote for Option C.
+- [77] **Minako**: I cannot support Option C. It creates a visible hierarchy that would alienate newcomers and destroy the low-pressure environment we need. For the sake of our community's spirit and equality, I vote for Option A.
+- [78] **May**: I'm with Minako. Option B is a vibe-killer and C is just a fancy way of labeling people. Let's stop overcomplicating things and just make it easy to belong. I vote for Option A.
+- [79] **Shunichi**: @May, your "spirit of the club" is currently being carried on the backs of nine exhausted people. I refuse to support a system that rewards ghosts and penalizes the active. I vote for Option C.
+### Vote
+- Minato -> A
+- Ryuji -> C
+- Minako -> A
+- May -> A
+- Shunichi -> C
+## Result
+- adopted: A

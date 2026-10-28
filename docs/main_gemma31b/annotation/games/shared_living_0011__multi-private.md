@@ -1,0 +1,73 @@
+# shared_living_0011__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: Since we need to commit to a destination before bookings open, we should prioritize cost and logistics. I want to ensure we have a realistic budget this time.
+- [6] **Toshio**: I agree. Efficiency is key. To get a clear picture of the costs, I suggest we look into the actual spending from previous years and the current rates for public facilities.
+- [7] **Minako**: I agree that budget is important, but we also need to consider the social dynamics of the group. I want to ensure the destination encourages better integration among the different year-groups this time.
+- [8] **Jonathan**: I agree that budget and social harmony are important. However, I am also concerned about the quality of our rest and the daily schedule. I believe we should look into the actual conditions of the stay.
+- [9] **Asuka**: I agree with the need for a realistic budget. However, we must also be precise about how those costs are distributed and managed to avoid any discrepancies. Let's gather the necessary data first.
+- [10] **Ryuji**: I'll look into the "Prefecture rate sheet for publicly run beds" and "Quoting terms for whole-building lets." I need a precise understanding of the fixed costs before we propose any figures.
+- [11] **Toshio**: I will look into the "Canteen closure and last year's cooking duty" and "Attendance sheets for the away camps." It is important to understand the actual workload involved in managing the camp.
+- [12] **Minako**: I will look into "What the seniors say about year-groups mixing" and the "Membership list against first-train times." We need to ensure the location is accessible and promotes better interaction among members.
+- [13] **Jonathan**: I will look into the "Accounts from two clubs that went inland" and the "Lottery and application for public group bookings" to see how other groups managed their stays and the availability of facilities.
+- [14] **Asuka**: I will look into "Group transport in three years of receipts" and "Vacation timetable for the club's own hall." I want to compare the actual historical spending against our internal options to ensure financial fairness.
+- [15] **Ryuji**: Since we have all selected our research topics, I believe we have a comprehensive plan. Let's proceed with gathering the data so we can analyze the costs and logistics objectively.
+- [16] **Toshio**: Indeed. Once we have the data, we can determine which destination minimizes unnecessary burdens on the organizers while remaining within our budget. I look forward to the results.
+- [17] **Minako**: I agree. While the logistics are essential, I hope the data on member accessibility and senior feedback will help us choose a place that truly brings the club together.
+- [18] **Jonathan**: I hope the information from the other clubs provides some insight into the actual environment of the inland sites. A peaceful atmosphere is essential for everyone to perform their best.
+- [19] **Asuka**: I agree. Once we have the data, we can identify any hidden costs or inconsistencies in how we've handled expenses in the past. Let's ensure the final decision is based on transparent and accurate figures.
+- [20] **Ryuji**: I agree. Transparency is the only way to avoid mistakes. Let's wait for the findings and then evaluate the options based on the hard data we've gathered.
+- [22] **Toshio**: I agree. Let us wait for the information to be compiled. I believe the data will reveal the most sustainable path forward for all of us.
+- [24] **Minako**: I agree. Let's see what the data tells us. I'm particularly interested in whether we can find a balance between convenience and a setting that encourages genuine interaction.
+- [26] **Jonathan**: I agree. Let us wait for the results. I hope we can find a destination that allows everyone to rest deeply and maintain their composure throughout the training.
+- [28] **Asuka**: I agree. Let's proceed to the data collection phase. I expect the receipts to clarify whether our previous flat-fee system was actually equitable for all participants.
+## Round 2
+- [40] **Ryuji**: The public beds are a flat 1,100 yen, which is predictable. However, whole-building lets are risky because non-refundable deposits mean any last-minute cancellations will increase the cost for everyone else. We must be careful.
+- [41] **Toshio**: The workload is a significant factor. Last year, the cooking duty took two hours daily from the organizers. Choosing a place with professional kitchen staff would prevent such an unfair burden on a few individuals.
+- [42] **Minako**: My research shows that mixing year-groups happens primarily during shared evenings in the same accommodation. Also, a third of our members struggle with early arrivals, meaning overnight stays are a necessity for many.
+- [43] **Jonathan**: I found that inland centers often have very crowded rooms, with up to eight people per room and strict lights-out policies. This could be quite disruptive to those who need a quiet environment to truly rest.
+- [44] **Asuka**: The transport costs vary wildly depending on the distance, which suggests that a flat fee might be unfair if we choose a far destination. Also, our own hall is too crowded to be viable.
+- [45] **Ryuji**: @Toshio, if we want to avoid the cooking burden and the financial risk of whole-building lets, public beds seem the most rational choice. They offer a predictable cost and likely professional management.
+- [46] **Toshio**: @Ryuji, public beds are a start, but we must confirm they include meal services. If we still have to cook, the burden remains. We need a destination that minimizes the organizers' labor.
+- [47] **Minako**: @Toshio, if we prioritize professional meal services and shared sleeping quarters, we can solve both the labor issue and the social fragmentation. We need a place where everyone stays together to ensure the year-groups actually interact.
+- [48] **Jonathan**: @Minako, while shared quarters encourage interaction, we must be careful. If the rooms are too crowded, as I suspect they are at some centers, the lack of quality sleep could negatively impact our training performance.
+- [49] **Asuka**: @Ryuji @Toshio, if we opt for public beds, we must clarify how the flat fee covers transport. Since costs fluctuate so much by distance, a fixed price could unfairly penalize some members.
+- [50] **Ryuji**: @Asuka, I agree. To avoid another deficit, we should calculate transport costs separately or use a tiered system. We cannot afford to guess the budget and hope for the best this time.
+- [51] **Toshio**: @Ryuji, @Asuka, a tiered system is acceptable. However, my priority remains the labor. If we choose a location that requires the organizers to handle meals, we are simply repeating last year's mistake. We must prioritize facilities with staff.
+- [52] **Minako**: @Toshio, I agree that staff-managed meals are essential. However, we must also ensure the layout doesn't isolate people. A facility with a common area and shared rooms is the only way to break the year-group barriers.
+- [53] **Jonathan**: @Minako, I understand the desire for interaction, but we must balance it with the need for recovery. If we are forced into overcrowded rooms, the resulting exhaustion may hinder the very social bonds you wish to build.
+- [54] **Asuka**: @Jonathan, your point about recovery is valid. However, we must also address the financial risk. If we choose a distant facility to avoid crowding, the transport costs will spike, further complicating the fairness of the flat fee.
+- [55] **Ryuji**: We must prioritize the public beds for their cost predictability. To address @Asuka's concern, we will calculate transport separately. This removes the financial risk and ensures we don't end up with another deficit in the club account.
+- [56] **Toshio**: @Ryuji, that solves the budget, but we must ensure the public beds we select provide full meal services. I will not support any option that forces the organizers back into the kitchen for two hours a day.
+- [57] **Minako**: I agree with @Toshio on the meals. However, we must prioritize a facility where everyone stays together. If we split the group across different buildings or hotels, we will fail to integrate the year-groups again.
+- [58] **Jonathan**: I agree that we need a unified space, but we must ensure it is not overcrowded. If we prioritize a facility with professional staff and reasonable room capacities, we can achieve both social harmony and proper rest.
+- [59] **Asuka**: I agree with the need for professional staff and reasonable capacity. However, we must formally decide how to handle last-minute cancellations. If we commit to a booking, we need a clear rule on who covers the shortfall.
+## Round 3
+- [65] **Ryuji**: Option C is the most rational choice. The public beds offer a predictable flat rate of 1,100 yen, avoiding the financial risks associated with the non-refundable deposits of a private lodge like Option A.
+- [66] **Toshio**: Option C is problematic. Public sports facilities often lack full meal services, which would force the organizers back into the kitchen. Option A, with meals arranged by the owner, is the only way to ensure a fair workload.
+- [67] **Minako**: Option B is out because separate accommodation will only reinforce the year-group divide. Option A is better for integration and labor, but we must ensure the building layout encourages shared evenings.
+- [68] **Jonathan**: Option C is concerning. Based on my research, inland public centers often have overcrowded rooms and strict rules, which could lead to poor sleep and exhaustion. Option A seems more promising for a peaceful environment.
+- [69] **Asuka**: Option B is impossible given the hall's timetable. Option A is far, which will cause the transport costs to spike and exacerbate the unfairness of a flat fee. Option C is the most financially stable.
+- [70] **Ryuji**: @Toshio, @Jonathan, the risks of Option A are too high. A private lodge two prefectures away with a non-refundable deposit is a financial gamble we cannot afford. Option C is the only stable choice.
+- [71] **Toshio**: @Ryuji, financial stability is meaningless if the organizers are burnt out. Option C's dorms and lack of catering will repeat last year's failure. Option A's owner-provided meals are the only way to protect our time and health.
+- [72] **Minako**: @Ryuji, @Asuka, financial stability is important, but the camp's purpose is growth. Option C's dorms might be crowded, but Option A's private building ensures everyone stays together, which is the only way to fix our social fragmentation.
+- [73] **Jonathan**: @Ryuji, @Asuka, while I understand the financial concerns, we must not ignore the human cost. If we choose Option C and the rooms are overcrowded, the lack of sleep will ruin the training. Option A offers a more serene environment.
+- [74] **Asuka**: @Toshio @Minako, you are prioritizing convenience over fairness. Option A's distance makes the transport cost a massive variable. If we use a flat fee, those who don't travel far effectively subsidize others, which is logically unsound.
+- [75] **Ryuji**: @Asuka is correct. Option A is a financial liability. @Toshio, we can solve the meal issue by hiring a caterer or adjusting the budget, but we cannot recover a lost deposit. Option C is the only responsible choice.
+- [76] **Toshio**: @Ryuji, hiring a caterer for a public facility is often logistically impossible or prohibitively expensive. We cannot gamble on "adjusting the budget" while ignoring the reality of the labor. Option A is the only sustainable choice for the organizers.
+- [77] **Minako**: @Ryuji @Asuka, we cannot let financial caution override the club's health. Option C's dorms risk overcrowding and poor sleep, while Option B fails our members. Option A ensures we stay together and are well-fed, which is essential for integration.
+- [78] **Jonathan**: @Ryuji @Asuka, I understand the budget risks, but we must prioritize the members' well-being. Option C's dormitories are likely too crowded for proper recovery. Option A provides the peace and rest necessary for a successful training camp.
+- [79] **Asuka**: @Toshio @Minako @Jonathan, you are ignoring the risk of last-minute cancellations. With Option A's non-refundable deposit, a single dropout creates a financial hole. Option C's public bed system is the only way to ensure no one is unfairly burdened.
+- [80] **Ryuji**: The financial risk of Option A is unacceptable. We cannot jeopardize the club account with non-refundable deposits and unpredictable transport costs. Option C is the only choice that ensures stability and fairness. I vote for Option C.
+- [81] **Toshio**: @Ryuji, stability is a facade if the organizers are sacrificed. I will not support a return to the kitchen. For the sake of sustainability and health, I vote for Option A.
+- [82] **Minako**: @Ryuji @Asuka, financial risk is manageable, but social fragmentation is a systemic failure. Option A provides the unified environment we need to actually integrate the year-groups. For the club's long-term health, I vote for Option A.
+- [83] **Jonathan**: I cannot support Option C, as the risk of overcrowding and sleep deprivation is too high for a productive camp. For the well-being and recovery of all members, I vote for Option A.
+- [84] **Asuka**: The lack of a clear policy for cancellations and the volatility of transport costs make Option A a logical failure. I cannot support a plan that risks financial inequity. I vote for Option C.
+### Vote
+- Ryuji -> C
+- Toshio -> A
+- Minako -> A
+- Jonathan -> A
+- Asuka -> C
+## Result
+- adopted: A

@@ -1,0 +1,29 @@
+```
+[
+  {"seq": 5, "speaker": "Minako", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 6, "speaker": "Benjamin", "content": 2, "resp": 1, "resp_to": 5, "resp_type": "add", "rebut": 0, "padded": 0},
+  {"seq": 7, "speaker": "Sakura", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 8, "speaker": "Shizue", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 9, "speaker": "Servas", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 25, "speaker": "Minako", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 26, "speaker": "Benjamin", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 27, "speaker": "Sakura", "content": 2, "resp": 1, "resp_to": 25, "resp_type": "agree", "rebut": 0, "padded": 0},
+  {"seq": 28, "speaker": "Shizue", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 29, "speaker": "Servas", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 30, "speaker": "Minako", "content": 1, "resp": 1, "resp_to": 26, "resp_type": "add", "rebut": 0, "padded": 0},
+  {"seq": 31, "speaker": "Benjamin", "content": 1, "resp": 1, "resp_to": 30, "resp_type": "agree", "rebut": 0, "padded": 0},
+  {"seq": 32, "speaker": "Sakura", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 33, "speaker": "Shizue", "content": 2, "resp": 1, "resp_to": 29, "resp_type": "add", "rebut": 0, "padded": 0},
+  {"seq": 34, "speaker": "Servas", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 35, "speaker": "Minako", "content": 2, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 36, "speaker": "Benjamin", "content": 1, "resp": 1, "resp_to": 35, "resp_type": "agree", "rebut": 0, "padded": 0},
+  {"seq": 37, "speaker": "Sakura", "content": 1, "resp": 1, "resp_to": 35, "resp_type": "add", "rebut": 0, "padded": 0},
+  {"seq": 38, "speaker": "Shizue", "content": 2, "resp": 1, "resp_to": 37, "resp_type": "add", "rebut": 0, "padded": 0},
+  {"seq": 39, "speaker": "Servas", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 50, "speaker": "Minako", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 51, "speaker": "Benjamin", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 52, "speaker": "Sakura", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 53, "speaker": "Shizue", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0},
+  {"seq": 54, "speaker": "Servas", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0}
+]
+```

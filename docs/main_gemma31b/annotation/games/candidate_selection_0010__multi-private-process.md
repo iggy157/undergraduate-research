@@ -1,0 +1,73 @@
+# candidate_selection_0010__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: Um... hello. I think we should look at what's actually happening on the floor. Maybe we could check the misrouted deliveries in the incident logs and the time lost to copying existing records?
+- [6] **May**: Those sound like a good start, Daisuke! But we can't forget the people doing the work. I want to check the in-house developer availability and the staffing of the coordination group. We can't just assume everyone is free!
+- [7] **Shunichi**: Practical points, as always. However, we're ignoring the external variables. I'll look into network coverage at customer plants and vendor licence pricing versus fixed-fee work. We can't let "unforeseen" site issues ruin the timeline again.
+- [8] **Ryuji**: I agree with the need for practicality, but we must be cautious about the financial source. I will look into the capital budget and software allowance, as well as the outcomes of the last three internal rollouts.
+- [9] **Kenji**: I think we're on the right track! To make sure we don't repeat old mistakes, I'll look into the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts. Let's find something that lasts!
+- [10] **Daisuke**: I... I agree with everyone. It's important to be careful. I just hope we don't overlook the small, daily struggles of the staff while focusing on the bigger budget and technical issues.
+- [11] **May**: Exactly, Daisuke! That's why I'm so focused on the staffing. It's easy to get dazzled by a fancy proposal, but if it breaks the people running it, it's a failure in my book. Right, everyone?
+- [12] **Shunichi**: Emotional appeals are touching, May, but they don't fix a broken network or a budget shortfall. Let's keep our eyes on the actual constraints if we want a project that actually launches.
+- [13] **Ryuji**: @Shunichi, you are correct about constraints. However, we must specifically identify which budget line is being used. If we miscalculate the source now, we will face a crisis during next year's renewal. We need a sustainable financial plan.
+- [14] **Kenji**: @Ryuji, I totally get that! But besides the money, I'm really curious about why some projects just disappear after a year. If we see a pattern in the rollouts, we can pick a winner that actually sticks!
+- [15] **Daisuke**: Um... if we could, maybe we should also consider how vendor queries are handled? I'm worried that if the process is too complicated, the people on the floor will just give up on the new system.
+- [16] **May**: @Daisuke, you're speaking my language! If the support system is a mess, the staff just ends up absorbing all that stress. We really need to be careful about who is actually doing the heavy lifting here.
+- [17] **Shunichi**: @Daisuke, @May, you're both obsessing over the "feelings" of the staff. While support is fine, it's irrelevant if the technical groundwork is a disaster. I'm sticking to the external risks; that's where the real failures happen.
+- [18] **Ryuji**: @Shunichi, technical risks are significant, but financial instability is a certainty if we ignore the budget source. I believe we must prioritize the long-term cost structure over immediate operational preferences to ensure the project's survival.
+- [19] **Kenji**: @Ryuji, @Shunichi, you both make great points! But let's not forget that a project can be funded and technical, yet still fail because it doesn't fit our culture. I really want to see those past outcomes!
+- [20] **Daisuke**: I... I understand. I'll stick with the misrouted deliveries and the time lost to copying records. I just want to make sure we help the people who are struggling with the small things every day.
+- [21] **May**: I'm staying firm on my choices! I'll look into in-house developer availability and the staffing of the coordination group. Let's make sure we aren't just dreaming up projects that our exhausted staff can't actually support.
+- [22] **Shunichi**: I'll stick with network coverage at customer plants and vendor licence pricing. It's far more productive to identify the walls we're about to hit than to hope the staff feels better while the project stalls.
+- [23] **Ryuji**: I will proceed with the capital budget and software allowance, and the outcomes of the last three internal rollouts. We must ensure the funding source is secure to avoid any surprises during next year's renewal.
+- [24] **Kenji**: I'm all set! I'll look into the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts. I can't wait to see what we find out! Let's do our best, everyone!
+## Round 2
+- [35] **Daisuke**: Um... I found that we're losing nearly an hour every day just copying records that already exist. Also, there were eleven misrouted deliveries because different units have different addresses for the same firm. It seems like... small errors are causing real waste.
+- [36] **May**: That's exactly what I feared, Daisuke! My findings are even worse. Our developers are totally tied up until Q3, and the coordination group is a ghost town—two people are doing everything by hand. We're running on fumes!
+- [37] **Shunichi**: It seems we're in for a disaster. Half the customer plants have dead zones in the afternoons, and getting device approval takes six weeks. If a proposal relies on real-time site access, it's dead on arrival.
+- [38] **Ryuji**: The financial situation is precarious. The capital budget is frozen, meaning we can only afford projects funded by the recurring software allowance. Additionally, past rollouts show that broad, company-wide tools fail; only narrow, trade-specific tools survive.
+- [39] **Kenji**: @Ryuji, you're spot on! I found the same thing—projects that require everyone to enter data daily just disappear. Also, big standardization efforts usually fail unless they're for a specific area, like the tool room. We need something focused!
+- [40] **Daisuke**: @Ryuji, @Kenji... if broad tools fail, maybe we should focus on those specific, daily wastes I found? If we can fix the address errors and the copying, it would help the staff so much without needing a huge rollout.
+- [41] **May**: @Daisuke, I'm with you, but only if it doesn't add more work to those two poor souls in coordination! If the "fix" just means more manual data entry, we're just moving the pain around.
+- [42] **Shunichi**: @May, your concern for the "poor souls" is noted, but let's be rational. If we pick a project that requires constant site connectivity or per-head licensing, we're not just moving pain—we're inviting a total collapse. We need a narrow scope.
+- [43] **Ryuji**: @Shunichi, I agree on the narrow scope. However, we must be strictly mindful that any project we choose must fit within the recurring software allowance. Since the capital budget is frozen, any proposal requiring upfront capital investment is impossible.
+- [44] **Kenji**: @Ryuji, @Shunichi, you're both right! If we want this to actually survive, we need a project that's narrow, fits the software budget, and doesn't force everyone to change their daily habits. Let's look for a "small win"!
+- [45] **Daisuke**: I... I think a "small win" is exactly what we need. If we can just stop the misrouted deliveries and the copying, it would be a huge relief for the people on the floor. Does that sound... feasible?
+- [46] **May**: @Daisuke, it sounds wonderful in theory, but "feasible" is the keyword. If the solution requires our missing developers or more manual logs from the coordination group, it's a fantasy. We need a win that doesn't cost us our sanity!
+- [47] **Shunichi**: @May, sanity is a luxury; feasibility is a requirement. If the solution involves per-head licensing, the costs will spiral as we scale. We need a fixed-fee approach and zero reliance on customer-site networks. Anything else is just a gamble.
+- [48] **Ryuji**: @Shunichi, I agree. A fixed-fee model is the only way to ensure we don't exceed the recurring software allowance. We must avoid any proposal that creates a hidden debt for next year's renewal.
+- [49] **Kenji**: @Ryuji, @Shunichi, I'm totally with you! Let's avoid those traps. If we find a proposal that's narrow in scope and doesn't need a huge team to maintain, it'll actually survive. I'm excited to see the candidates!
+- [50] **Daisuke**: I... I hope the candidates have something that fits. I just want to make sure we don't pick something that sounds impressive but ignores the people who are actually struggling with these daily errors.
+- [51] **May**: Exactly! Let's be honest: we've all seen "impressive" projects that just end up as more work for the same exhausted people. If a candidate doesn't account for our staffing void, it's just a fancy way to burn out our team.
+- [52] **Shunichi**: @May, your passion for the staff is admirable, but let's not let it cloud the logic. We need a project that is technically viable and financially stable. If it doesn't fit the constraints, it's useless.
+- [53] **Ryuji**: @Shunichi, logic is exactly why I am concerned. We cannot afford to be optimistic. If a proposal relies on the frozen capital budget or creates recurring costs we cannot sustain, it is a failure before it begins. We must be rigorous.
+- [54] **Kenji**: I agree! Let's be rigorous but positive. If we find a project that's small, focused, and fits the budget, it'll be a huge win for everyone. I'm ready to see the candidates!
+## Round 3
+- [60] **Daisuke**: Um... looking at these, I think Candidate C, the Supplier Data Hub, is the best. It directly addresses the misrouted deliveries and the time wasted copying records that I found. It solves the actual problems on the floor.
+- [61] **May**: @Daisuke, I love that it solves the problem, but look at the "shared update and review procedures." Who is actually doing that updating? If it's the coordination group, they'll collapse. We need to be very careful here.
+- [62] **Shunichi**: @May, for once, your pessimism is useful. Candidate A is a non-starter; six-week device approvals and dead zones make a "mobile app" a joke. Candidate C is the only one that's actually rational, provided it's a fixed-fee build.
+- [63] **Ryuji**: @Shunichi, I agree that A is too risky. However, Candidate C is a broad, cross-unit tool. My research shows these usually fail. We must ensure it fits the software allowance and doesn't require capital for new servers.
+- [64] **Kenji**: @Ryuji, you're right! Candidate C looks like those big standardization efforts that usually end up without an owner. If it requires everyone to update records daily, it'll just disappear like the others. Maybe Candidate B or D is safer?
+- [65] **Daisuke**: @Ryuji, @Kenji... I understand your worries, but the misrouted deliveries are happening because of different addresses. If we don't fix that, the waste continues. Could we make Candidate C very narrow, just for addresses, to make it survive?
+- [66] **May**: @Daisuke, narrowing it helps, but "shared procedures" still sounds like a trap for the staff. What about Candidate D? It automates summaries and notes—that actually takes work *off* the plate of people like the coordination group!
+- [67] **Shunichi**: @May, Candidate D is a toy. It's a convenience, not a solution to a structural failure. If we're being rational, Candidate C is the only one addressing a real cost, provided we avoid per-head licensing.
+- [68] **Ryuji**: @Shunichi, while C addresses a cost, it risks the "broad tool" failure pattern. However, D is a general utility that might not fit a specific budget line. We must prioritize a project that is financially sustainable and narrow.
+- [69] **Kenji**: @Ryuji, @Shunichi, if we want a "small win," maybe Candidate B is the way? It's a specific tool for skill transfer, not a broad system everyone must use daily. It feels more like the tool room success!
+- [70] **Daisuke**: @Kenji, @Ryuji... I'm sorry, but Candidate B doesn't help the people struggling with the delivery errors or the copying. If we pick something just because it's "safe," we're ignoring the real pain on the floor. Please, can we consider C?
+- [71] **May**: @Daisuke, I hear you, but we can't ignore the staffing void! Candidate C's "shared procedures" are a recipe for burnout. Candidate D actually reduces the manual burden on our exhausted staff. Isn't that the real win?
+- [72] **Shunichi**: @May, reducing a few meeting notes is a trivial gain compared to the systemic waste Daisuke identified. Candidate C is the only one with a real ROI, provided we implement it as a fixed-fee project.
+- [73] **Ryuji**: @Shunichi, ROI is irrelevant if the funding source is wrong. Candidate C's cross-unit nature suggests a capital expense for infrastructure, which is frozen. Candidate D is a software-based utility that likely fits the recurring allowance.
+- [74] **Kenji**: @Ryuji, that's a great point! If C is too big and expensive, it'll just fail like the other standardization projects. D is small and helpful, but B is also very focused. Which one is more sustainable?
+- [75] **Daisuke**: I... I really believe we should choose Candidate C. Even if it's risky, the daily waste is too much to ignore. Please, let's help the people who are struggling with these errors every single day.
+- [76] **May**: @Daisuke, I want to help them, but not by giving them a new burden! Candidate D is the only one that actually gives time back to the staff. Let's pick D and stop the burnout!
+- [77] **Shunichi**: @May, your obsession with "burnout" is blinding you to the fact that Candidate D is a luxury, not a necessity. Candidate C solves a structural failure. If we are rational, we pick C and manage the scope.
+- [78] **Ryuji**: @Shunichi, managing scope does not change the budget source. Candidate C's cross-unit nature is a red flag for both financial and operational failure. Candidate D is the only sustainable, low-risk option that fits our current constraints. I vote for D.
+- [79] **Kenji**: @Ryuji, you've convinced me! Candidate C is too risky and fits the pattern of projects that just disappear. Candidate D is a small, sustainable win that won't burn anyone out. I vote for D!
+### Vote
+- Daisuke -> C
+- May -> D
+- Shunichi -> C
+- Ryuji -> D
+- Kenji -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# candidate_selection_0026__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to be careful not to simply add another initiative to the pile. Before we select a program, we must verify if previous attempts actually improved patient outcomes. Let's prioritize evidence and historical data.
+- [6] **Toshio**: I agree with Asuka. However, we must also consider if our current infrastructure can actually support a new program. It is pointless to select a high-merit plan if the hospital's physical capacity is already at its limit.
+- [7] **Benjamin**: A very pragmatic start. While data and space are vital, I suggest we also examine the stability of our partnerships. A program is only as strong as the commitment of the parties involved, wouldn't you agree?
+- [8] **Yumi**: I totally agree with everyone! But can we also make sure our hardworking staff can actually handle more? I'd hate for a great program to cause burnout. We should check how the teams are doing!
+- [9] **Servas**: It is wise to look at the present, but we must also gaze toward the horizon. Let us ensure that whatever we build today does not become a financial burden for our successors tomorrow. Sustainability is key.
+- [10] **Asuka**: @Servas, sustainability requires a foundation of facts. If we don't know what failed in the past, we are just guessing about the future. We should look into the specific results of previous trials and current staffing levels.
+- [11] **Toshio**: @Asuka, I agree. But beyond staffing, we need to know if the physical flow of the hospital can handle more. If the booking systems or the parking are already saturated, the program will fail regardless of the staff.
+- [12] **Benjamin**: Indeed, the physical shell is important. However, I am more concerned with the invisible threads—the agreements and minutes that bind us to others. If the paperwork is vague, the program will collapse once the initial enthusiasm fades.
+- [13] **Yumi**: That makes a lot of sense, Benjamin! I just want to make sure we're being kind to the people doing the work. If the rosters are already full, adding more might be too much for them!
+- [14] **Servas**: Kindness to our staff is a noble pursuit, Yumi. However, true kindness is providing a stable environment. We must verify the actual funds available and the potential for these programs to sustain themselves financially.
+- [15] **Asuka**: It seems we are in agreement on the categories. To ensure we aren't repeating past mistakes, I will focus on the readmission figures from the call-back trial and the shared nursing round completion data.
+- [16] **Toshio**: I will look into rooms, parking and shuttle coverage, as well as what the booking system records. We must determine if there is any actual room for growth in our physical and digital infrastructure.
+- [17] **Benjamin**: I shall investigate the board minutes on the jointly run clinic and the data agreements with outside surgeries. It would be a tragedy to build a house on sand, or in this case, on a handshake.
+- [18] **Yumi**: I'll check the ward nursing vacancies and agency cover, and the therapy and midwifery staffing review! I want to see exactly how much pressure our wonderful teams are under before we decide!
+- [19] **Servas**: I shall examine this year's development allocation in the ledger and the regional fund tariffs. We must be certain that our dreams are matched by our means and that the revenue streams are secure.
+- [20] **Asuka**: The plan is set. By examining these specific data points, we can avoid the habit of launching initiatives without a clear understanding of their impact. I look forward to reviewing the findings in the next round.
+- [21] **Toshio**: Efficiency is the only way to ensure success. I will report back on whether our current capacity can absorb a new program without seizing up. I believe these findings will be the deciding factor.
+- [22] **Benjamin**: I shall be equally diligent. It is always fascinating to see where the official record diverges from the actual practice. I suspect we may find some enlightening gaps in our institutional memory.
+- [23] **Yumi**: I'm so excited to see what we find! I'll do my absolute best to get the full picture of our staffing situation. Let's make sure we pick a program that makes everyone happy and healthy!
+- [24] **Servas**: Patience and diligence are the hallmarks of a lasting legacy. I shall return with a clear view of our financial landscape, ensuring that our choice is not only beneficial today but viable for years to come.
+## Round 2
+- [35] **Asuka**: The call-back trial showed a significant 20% drop in readmissions for elderly patients, which reversed once the trial ended. This proves that targeted follow-up works. However, the shared nursing round had a 33% failure rate due to logistics.
+- [36] **Toshio**: My findings are concerning. Outpatient rooms and parking are saturated by mid-morning, and the shuttle coverage is woefully inadequate. Furthermore, the booking system is blind to any activity without a fixed slot, meaning our actual workload is likely higher than reported.
+- [37] **Benjamin**: My findings confirm a certain... fragility in our collaborations. A previous joint clinic collapsed simply because no one wanted to hold the budget line, and our data agreements with outside partners are a bureaucratic nightmare, taking over a year to finalize.
+- [38] **Yumi**: Oh boy, it's a bit worrying! We have nine unfilled nursing posts and we're spending way more on agency cover. But on the bright side, the midwifery rota actually has some slack because birth numbers are down!
+- [39] **Servas**: My friends, we must tread carefully. Our development budget has shrunk by a quarter, and we are now paying for floor space from it. Furthermore, off-site work brings no regional funding, while on-site sessions do. We must prioritize financial viability.
+- [40] **Asuka**: @Servas, if on-site work is the only way to secure funding, we must be careful. @Toshio already noted that our physical space is saturated. We cannot simply push more patients on-site if there is nowhere for them to go.
+- [41] **Toshio**: Exactly. If we prioritize on-site programs for the funding, we risk a total systemic seizure. We are already at capacity by eleven; adding more volume to a saturated environment is a recipe for failure.
+- [42] **Benjamin**: It seems we are caught in a delightful paradox: we need on-site activity for funding, yet we have no room to breathe. Perhaps we should avoid any program that relies on external partners to solve this.
+- [43] **Yumi**: @Benjamin, that's a good point! But we also have to think about the people. With so many nursing vacancies, we can't just push the staff harder. Maybe we can use that slack in midwifery to help out?
+- [44] **Servas**: It is a delicate balance, indeed. We must not let the desire for funding blind us to the reality of our walls, nor let our constraints stifle our growth. We need a path that generates revenue without breaking our spirit.
+- [45] **Asuka**: @Yumi, shifting midwifery staff may be a temporary fix, but it doesn't solve the core issue. We need a program with proven efficacy that doesn't exacerbate our space or staffing crises. Evidence must guide us, not just convenience.
+- [46] **Toshio**: @Asuka, I agree. We cannot rely on temporary staffing shifts. Any program that increases on-site traffic will only worsen the parking and room shortages. We must prioritize a model that minimizes physical footprint and systemic strain.
+- [47] **Benjamin**: @Toshio, I concur. Given that our external agreements are glacial and joint ventures tend to dissolve over budget disputes, we should avoid any program that depends on outside signatures or shared departmental ownership. Simplicity is our only safeguard.
+- [48] **Yumi**: I understand, but I'm still worried about the nurses! If we pick something that adds more work to the wards, they might just burn out. We really need a program that fits our current staffing levels!
+- [49] **Servas**: @Yumi, your heart is in the right place. However, we must remember that a program without funding is a program that eventually fails its staff. We must seek a solution that is fiscally self-sustaining and mindful of our space.
+- [50] **Asuka**: We have a clear conflict between funding requirements and physical capacity. We must avoid programs that rely on external partners or increase on-site congestion, while prioritizing those with a proven track record of improving patient outcomes.
+- [51] **Toshio**: The data is clear: we are operating on a knife-edge. Any program that increases on-site volume or relies on a flawed booking system will collapse. We must select the option that places the least strain on our infrastructure.
+- [52] **Benjamin**: And let us not forget the human element of bureaucracy. A program that looks elegant on paper but requires a dozen signatures from reluctant partners is merely a future failure in waiting. We must choose the path of least resistance.
+- [53] **Yumi**: I'll keep cheering everyone on! But please, let's remember that our nurses are already struggling. We must pick a program that doesn't add more pressure to the wards, or we'll lose even more wonderful people!
+- [54] **Servas**: We have seen the shadows of potential pitfalls. Let us now look upon the candidates with clear eyes, ensuring we choose a path that is financially sound, spatially feasible, and kind to our people.
+## Round 3
+- [60] **Asuka**: Option A is the most logical choice. The call-back trial proved that targeted follow-up significantly reduces readmissions. It avoids our on-site space crisis and doesn't rely on the fragile external agreements Benjamin mentioned.
+- [61] **Toshio**: @Asuka, I agree. Option A is the only one that doesn't exacerbate our physical congestion. Options B and C would further saturate our rooms and parking, while D relies on the external coordination that Benjamin warned us about.
+- [62] **Benjamin**: @Asuka, @Toshio, your logic is impeccable. Option A avoids the bureaucratic quagmire of external signatures and the territorial disputes of joint departmental ownership. It is a clean, self-contained solution that bypasses our physical constraints entirely.
+- [63] **Yumi**: Wait, but Option A uses nurses! We already have nine vacancies and are relying on agency staff. If we take more nurses for home visits, will the ward staff be even more stressed? Maybe Option B is better since midwifery has slack?
+- [64] **Servas**: @Yumi, your concern for the nurses is a light in this room. However, Option A's off-site nature brings no regional funding. With our budget shrinking, we cannot afford a program that drains resources without earning them back.
+- [65] **Asuka**: @Servas, while funding is critical, the cost of readmissions is higher. The call-back trial proved that follow-up works. If we prioritize funding over efficacy, we are simply paying for a system that fails the patients.
+- [66] **Toshio**: @Servas, funding is irrelevant if the system seizes. Options B and C will crash our parking and room capacity by mid-morning. Option A is the only choice that doesn't risk a total operational collapse of our physical infrastructure.
+- [67] **Benjamin**: @Servas, while I appreciate your fiscal prudence, a program that earns funding but cannot function due to space or bureaucratic friction is a waste of money. Option A is the only one that avoids these structural traps.
+- [68] **Yumi**: @Servas, I understand the money part, but we can't ignore the people! If we pick Option B, we use the midwifery slack and help parents without breaking the nurses. Isn't it better to use the staff we actually have?
+- [69] **Servas**: @Yumi, using existing slack is wise, but Option B is a joint venture. As Benjamin noted, such partnerships often dissolve over budget disputes. We must not build a house on shifting sands, regardless of the staffing.
+- [70] **Asuka**: @Yumi, Option B's joint structure is a risk, but Option A's efficacy is a fact. Reducing readmissions by 20% is a tangible patient benefit. We must prioritize a proven outcome over the convenience of existing slack.
+- [71] **Toshio**: @Yumi, using slack is a short-term gain, but Option B still requires on-site rooms and parking. We cannot ignore the physical reality. Option A is the only viable path that doesn't risk a systemic seizure of our facilities.
+- [72] **Benjamin**: @Yumi, while your empathy is commendable, Option B is a textbook example of the "joint venture" trap. When the budget line becomes a burden, the partnership will fracture. Option A is the only choice that is structurally sound.
+- [73] **Yumi**: I hear you all, but I can't stop worrying about the nurses! If we choose Option A, the ward staff might be the ones filling the gaps. Is there any way to ensure it doesn't add more pressure to them?
+- [74] **Servas**: @Yumi, we can ensure stability by allocating the budget specifically for dedicated staff, rather than relying on the wards. However, we must still face the truth: Option A earns no regional funding. We risk a deficit within a year.
+- [75] **Asuka**: @Servas, a deficit is preferable to a systemic collapse or a program that fails patients. Option A is the only choice backed by evidence and physical feasibility. I vote for Option A.
+- [76] **Toshio**: @Servas, a budget deficit is a manageable problem; a total infrastructure seizure is not. We cannot ignore the saturated parking and rooms. Option A is the only choice that fits our physical reality. I vote for Option A.
+- [77] **Benjamin**: @Servas, the risk of a deficit is far more palatable than the certainty of a bureaucratic collapse. Option A avoids the pitfalls of joint ownership and external dependencies. It is the only rational choice. I vote for Option A.
+- [78] **Yumi**: I'm still really worried about the nurses, but I can't ignore that everyone else is so sure about Option A. If we can promise to protect the ward staff, I'll trust you all! I vote for Option A!
+- [79] **Servas**: My heart is heavy, for I see a future where this program becomes a ghost in our ledger, unfunded and forgotten. Yet, harmony and consensus are also virtues. I vote for Option A.
+### Vote
+- Asuka -> A
+- Toshio -> A
+- Benjamin -> A
+- Yumi -> A
+- Servas -> A
+## Result
+- adopted: A

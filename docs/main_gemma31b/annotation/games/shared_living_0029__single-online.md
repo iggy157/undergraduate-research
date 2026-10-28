@@ -1,0 +1,73 @@
+# shared_living_0029__single-online (shared_living)
+
+## Round 1
+- [5] **Minako**: Since our current arrangement is breaking down, we need a factual basis for a new system. I'll look into last year's tax, insurance and parking papers, and the hours of use recorded in the diary.
+- [6] **Benjamin**: To ensure we don't repeat past mistakes, I'll examine what two other car-sharing households said and the spell of checking each other's figures.
+- [7] **Asuka**: I want to know why the car is often unreliable for my morning needs. I'll check the state of the car at handover and the trips that repeat weekly.
+- [8] **Shion**: I'll look into last year's fuel receipts and a month's trial of recording every run. We need to know the actual costs and who is really driving.
+- [9] **Daisuke**: I... I think I'll look into the weeks of heavy use over the year and the mechanic's remarks at the last service. I want to see how the car is actually being handled.
+- [10] **Minako**: Does anyone have any objections to these choices, or do you feel we've missed any critical data points before we proceed?
+- [11] **Benjamin**: The distribution seems comprehensive. We have covered the financial, behavioral, and mechanical aspects. I believe this will provide a balanced perspective for our decision.
+- [12] **Asuka**: I agree. As long as we are honest about what we find, this should give us enough information to stop the current chaos.
+- [13] **Shion**: I'm not concerned with honesty as much as accuracy. Let's just make sure we don't gloss over the numbers when we report back.
+- [14] **Daisuke**: I'll do my best to be accurate. I just hope we can find a way to make this work without too much arguing.
+- [15] **Minako**: Since we are all in agreement, I suggest we move forward with our research. Let's each take the time to gather the information we've selected.
+- [16] **Benjamin**: A sensible plan. I shall begin my inquiries immediately so we can return to the table with a clearer understanding of the social dynamics at play.
+- [17] **Asuka**: I'll start my search as well. I'm particularly interested in seeing if the handover issues are as frequent as they feel.
+- [18] **Shion**: I'll get to the receipts. It's better to have the hard data in front of us than to rely on anyone's memory of who paid for what.
+- [19] **Daisuke**: I'll go check the mechanic's notes and the heavy use periods. I hope it helps us find a smoother way to share.
+- [20] **Minako**: I believe we have a solid plan. Let's conclude this round and proceed to gather our respective data. I look forward to seeing what we discover.
+- [21] **Benjamin**: Indeed. Let us disperse and return once we have the facts. I suspect the results will be quite illuminating for all of us.
+- [22] **Asuka**: I'm ready. Let's just make sure we all stick to the list we agreed upon so we don't miss anything.
+- [23] **Shion**: Don't worry, Asuka. I have no intention of deviating from the list. The data will speak for itself.
+- [24] **Daisuke**: Me too. I'll go now and see what I can find.
+## Round 2
+- [35] **Minako**: The fixed costs are higher than I expected, totaling over 280,000 yen. Also, the diary shows a huge disparity in usage, with Saturdays being far busier than Tuesdays.
+- [36] **Benjamin**: My research suggests that the social friction often stems from the burden of asking favors or clinging to unnecessary turns, and that auditing each other's figures can create a climate of accusation.
+- [37] **Asuka**: It's exactly as I feared. The car is often handed over with the fuel light on or full of rubbish, and our weekly repeating trips are the ones most likely to collapse.
+- [38] **Shion**: The fuel receipts are completely lopsided; two of us paid for over half the fuel while one barely contributed. Also, recording every run for a month took nearly an hour a week.
+- [39] **Daisuke**: I found that heavy use comes in bursts, like house moves, which takes up whole evenings of planning. Also, the mechanic said short cold runs are wearing out the brakes and battery faster.
+- [40] **Minako**: It seems we are all subsidizing different things—some in money, some in time, and some in patience. We cannot simply split everything equally if the usage is this uneven.
+- [41] **Benjamin**: @Minako, you've hit the nail on the head. If we focus solely on the financial split, we risk exacerbating the social tension I discovered; the feeling of being "accused" is a dangerous catalyst.
+- [42] **Asuka**: I'm less concerned with the social tension and more with the practical failure. If the car is dirty and empty, the system is broken regardless of who is paying for what.
+- [43] **Shion**: Exactly. The "broken system" is a result of the guesswork. If we don't have a strict way to track usage and payments, we'll just keep having these lopsided fuel contributions.
+- [44] **Daisuke**: I just... I don't want us to spend an hour a week recording every single run like Shion mentioned. That sounds like it would just add more stress to the evenings we're already spending planning.
+- [45] **Minako**: We need a system that balances fairness with simplicity. If detailed tracking is too burdensome, we must find a middle ground that doesn't leave some of us paying for everyone else.
+- [46] **Benjamin**: Perhaps a system that reduces the need for constant negotiation and "favors" would be best. We should avoid anything that feels like a police state of auditing each other's every move.
+- [47] **Asuka**: I agree with Benjamin. We need a system where the car is simply available when it's supposed to be, without me having to hope the previous driver was considerate.
+- [48] **Shion**: If we avoid tracking, we're just choosing to stay in the dark. We can't fix the fuel imbalance or the usage gaps without some form of accountability.
+- [49] **Daisuke**: I just think we should avoid anything that makes us feel like we're fighting over every single kilometer. Maybe there's a way to be fair without it being so... intense.
+- [50] **Minako**: We have a clear picture now: high fixed costs, uneven usage, social friction, and poor maintenance. We must choose a system that addresses these without creating more conflict.
+- [51] **Benjamin**: I agree. We must weigh the need for accountability against the risk of resentment. Let us see which of the proposed options can resolve these contradictions most elegantly.
+- [52] **Asuka**: I just want a solution that guarantees the car is ready for me on my specific days, regardless of who used it last. Reliability is my priority.
+- [53] **Shion**: Reliability is fine, but it doesn't pay the bills. We need a system that ensures the financial burden is distributed based on actual use, not just hope and good intentions.
+- [54] **Daisuke**: I just want something that doesn't require us to spend our whole evening arguing or planning. If we can find a way to make it simple and quiet, I'd be happy.
+## Round 3
+- [60] **Minako**: We have three options: A, a fixed day allocation with a monthly share; B, a booking calendar with costs divided by distance; or C, a primary keeper who manages the car.
+- [61] **Benjamin**: Option A seems the most elegant for reducing social friction, as it eliminates the need for constant favors and the resentment of auditing each other's figures.
+- [62] **Asuka**: Option A is the only one that guarantees the car is available for my weekly trips without the risk of them collapsing at short notice. I vote for A.
+- [63] **Shion**: Option A is too vague on costs. Option B is the only one that ensures the fuel imbalance is corrected by charging based on actual distance. I vote for B.
+- [64] **Daisuke**: I'm worried Option B would just lead to more of that recording and calculating we all hate. Option A sounds much quieter. I vote for A.
+- [65] **Minako**: Option A provides a stable structure, but Option C could relieve the planning burden Daisuke mentioned. However, for overall stability and fairness, I also vote for A.
+- [66] **Benjamin**: @Shion, while B is precise, the data shows that auditing figures creates a climate of accusation. A provides a clean break from that cycle. I vote for A.
+- [67] **Asuka**: I've already cast my vote for A. It solves the reliability issue and the handover chaos by giving us clear ownership of specific days.
+- [68] **Shion**: You're all prioritizing peace over precision. If we go with A, we're just guessing again and hoping the monthly share is "fair" enough. I'll stick with B.
+- [69] **Daisuke**: I agree with Benjamin. I can't handle the stress of tracking every kilometer. I'm staying with my vote for A.
+- [70] **Minako**: It seems the consensus is leaning heavily toward Option A. While Shion's desire for precision is logical, the social and mental cost of Option B appears too high for the rest of us.
+- [71] **Benjamin**: Precisely. The goal is a sustainable living arrangement, not a perfect accounting ledger. A system that preserves our relationships is far more valuable than one that saves a few yen.
+- [72] **Asuka**: I agree. If we can avoid the constant stress of negotiating and the disappointment of a missing car, the fixed share is a small price to pay.
+- [73] **Shion**: Fine. If the majority prefers a comfortable illusion of fairness over actual accuracy, I can't stop you. I'll accept the result, but don't complain when the costs feel uneven.
+- [74] **Daisuke**: I'm just glad we can agree on something that doesn't make us fight. I'm okay with Option A.
+- [75] **Minako**: The vote is clear. With four votes for Option A and one for Option B, we will adopt the Fixed Day Allocation. Let's now decide which days each of us will take.
+- [76] **Benjamin**: A most satisfactory conclusion. I look forward to a future where our conversations are about our lives, rather than the logistics of a combustion engine.
+- [77] **Asuka**: I'm just relieved. I'll make sure my assigned days are locked in so my morning routine finally becomes predictable.
+- [78] **Shion**: I'll go along with it. Just make sure the "fixed monthly share" is calculated using the actual fixed costs Minako found, not another guess.
+- [79] **Daisuke**: I'll do that. I'm just happy we can finally stop the arguing and have some peace.
+### Vote
+- Minako -> A
+- Benjamin -> A
+- Asuka -> A
+- Shion -> B
+- Daisuke -> A
+## Result
+- adopted: A

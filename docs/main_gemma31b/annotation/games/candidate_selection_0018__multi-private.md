@@ -1,0 +1,72 @@
+# candidate_selection_0018__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Misaki**: I believe we need to understand the human element of this transition. I'll look into administrator retirements and hiring times, as well as depot supervisors and the last rollout.
+- [6] **Kenji**: I want to make sure the new system actually works on the floor! I'll check the depot calendar and the peak-season cutover, plus the yard devices and the 2021 scheduling trial.
+- [7] **Toshio**: I will examine the board minutes on capital and operating requests and the five years of renewal invoices. I want to understand the long-term financial commitments.
+- [8] **Yumi**: I want to make sure we have a clear plan and strong support! I'll look into support ownership during last winter's outage and warehouse rule changes after new accounts. Let's find the best fit together!
+- [9] **Benjamin**: It seems we have the basics covered. To ensure we aren't inheriting a legacy of neglect or patchwork fixes, I shall examine the upgrade history of the dispatch tool and the data lift in the 2018 pay move.
+- [11] **Kenji**: @Toshio @Benjamin, you guys are looking at the money and the old data, but don't forget the actual gear in the yard! I'm really hoping we find a vendor who can handle our old equipment.
+- [12] **Toshio**: @Kenji, I am aware of the hardware concerns. However, the most advanced gear is useless if the hidden costs of maintaining it bankrupt the project over time. I prefer to see the actual spending patterns first.
+- [13] **Yumi**: @Kenji, @Toshio, you both have such great points! It's like a puzzle, right? We just need to make sure that whoever we pick can actually support us when things get tough. I'm rooting for us!
+- [14] **Benjamin**: @Kenji, your passion for the hardware is admirable. However, a shiny new tool often masks a crumbling foundation. I simply wish to ensure we aren't paying for a polished facade over a structural disaster.
+- [15] **Misaki**: I agree that the foundation is important, but the people operating it are the real foundation. If the staff is overwhelmed, even a perfect system will fail during implementation.
+- [16] **Kenji**: @Misaki, you're right! If the people are stressed, it's a mess. But if the tablets freeze in the rain or the scanners don't connect, the staff will be even more stressed! We need both!
+- [17] **Toshio**: @Misaki @Kenji, your points are valid. However, human stress and hardware failure are often symptoms of underfunded support contracts. I intend to see if our previous failures were due to poor tools or poor budgeting.
+- [18] **Yumi**: @Toshio, that's a really smart way to look at it! I just hope we can find a way to make sure someone is always there to help us when things go wrong. We've got this!
+- [19] **Benjamin**: It is fascinating how we all view the "foundation" through such different lenses. While we debate the symptoms, I shall remain focused on the history of the cure—or lack thereof. Logic suggests the past is our best map.
+- [20] **Misaki**: Regardless of the map, we must ensure the people walking the path aren't already exhausted. I look forward to seeing if our staffing levels can actually sustain a transition of this scale.
+- [21] **Kenji**: I'm excited to see what we find! Let's just make sure we don't pick something that looks great in a presentation but crashes the moment it hits the actual depot floor. See you all in the next round!
+- [22] **Toshio**: I agree. A presentation is merely a promise; the financial records and renewal history will provide the truth. I look forward to reviewing the data.
+- [23] **Yumi**: I'm so excited to see what we all discover! I'll be cheering for everyone while I look into my parts. Let's work together to make this the best transition ever! See you soon!
+- [24] **Benjamin**: Indeed. Let us hope the data is as illuminating as our discussion has been spirited. I shall await the revelations of our respective investigations with a measured sense of anticipation. Until then.
+## Round 2
+- [35] **Misaki**: My findings are concerning. We are losing half of our internal system knowledge this year, and hiring replacements is proving nearly impossible. Furthermore, past rollouts show that standard training is often ignored in favor of old habits.
+- [36] **Kenji**: Oh man, it's even worse than I thought! Our yard gear is a total mix of old stuff, and that 2021 trial was a disaster—people just went back to spreadsheets! Plus, we have zero downtime in winter.
+- [37] **Toshio**: My findings confirm my suspicions. Capital requests are being trimmed, while recurring operating costs pass without scrutiny. Furthermore, bundled agreements stay stable, but separate add-ons have climbed yearly. We are bleeding money through hidden, recurring costs.
+- [38] **Yumi**: Oh no, that's really worrying! I found out that during last winter's outage, nobody took charge for two whole days because the support was split up. Plus, our warehouse rules changed twice in one year! We really need a clear owner.
+- [39] **Benjamin**: It seems we are all uncovering a rather consistent theme of systemic fragility. My findings reveal a dispatch tool that has aged in place since 2012 and a 2018 data migration that left a trail of errors.
+- [40] **Misaki**: @Yumi @Kenji, your findings reinforce my fears. If we have no clear support ownership and a history of ignoring training, the burden will fall entirely on a skeleton crew that is already disappearing. This is a recipe for burnout.
+- [41] **Kenji**: @Misaki, exactly! And if the new system is too fancy for our old scanners, the crew will just go back to spreadsheets again. We can't afford another 2021 disaster or two days of paper dispatch!
+- [42] **Toshio**: @Kenji @Misaki, the risk is not just technical or human, but financial. If we choose a vendor with fragmented licensing, those "hidden" costs will drain the budget meant for the very staffing and hardware you are worried about.
+- [43] **Yumi**: @Toshio, you're so right! If the money disappears into hidden fees, we can't fix the support problems. We need a partner who takes full responsibility and can keep up with our changes without everything falling apart!
+- [44] **Benjamin**: @Toshio, your point on financial leakage is well-taken. It appears we are trapped in a cycle where we pay for "solutions" that are either left to rot or returned to us as broken puzzles. We must avoid another 2018.
+- [45] **Misaki**: @Benjamin, the "broken puzzles" are being solved by people who are no longer here or are too tired to care. We cannot prioritize a technical fix if the people implementing it are already at a breaking point.
+- [46] **Kenji**: @Misaki, I totally get it! But if we get a system that's actually easy to use and works with our old gear, maybe the crew won't be so tired? We need something that just works!
+- [47] **Toshio**: @Kenji, simplicity is a luxury that often comes with a high subscription price. If we prioritize "ease of use" without a fixed-cost structure, we will simply be trading technical frustration for a financial crisis in three years.
+- [48] **Yumi**: @Toshio, @Kenji, you're both right! But can we find a vendor who offers both? I'm just so worried that if we don't have one clear person in charge, we'll be stuck in that two-day silence again!
+- [49] **Benjamin**: @Yumi, optimism is a virtue, but we must be realistic. We are looking for a partner, not a miracle worker. The pattern is clear: we outsource the effort and inherit the errors. We need a vendor who guarantees stability, not just a friendly face.
+- [50] **Misaki**: Stability is meaningless if the internal team cannot maintain it. We must prioritize a vendor that provides extensive, hands-on implementation support to bridge our knowledge gap and prevent our remaining staff from collapsing.
+- [51] **Kenji**: I agree! We need a vendor who doesn't just drop a manual and leave. They have to understand that our yards are messy and our winter is crazy. If they can't handle that, they're not the right fit!
+- [52] **Toshio**: I agree that support is necessary, but it must be bundled. We cannot afford a vendor who charges separately for implementation and maintenance, as those costs will inevitably spiral and be ignored by the board.
+- [53] **Yumi**: I totally agree! Let's find someone who takes full responsibility for everything—the costs, the support, and the changes. If we can get a partner who truly has our backs, I know we can make this work!
+- [54] **Benjamin**: It appears we have reached a rare consensus. We require a vendor that offers a comprehensive, bundled cost structure and a commitment to long-term stability over superficial features. Let us see which candidates actually meet these criteria.
+## Round 3
+- [60] **Misaki**: Given our staffing crisis and the tendency for training to be ignored, we need the most hands-on support possible. Anchor Industrial Software's commitment to having an engineering team present through rollout is the only viable option.
+- [61] **Kenji**: @Misaki, I'm with you! Anchor sounds great because they'll actually be there on the floor. If they're present during the rollout, they can see our old gear and the winter chaos for themselves!
+- [62] **Toshio**: @Misaki @Kenji, while on-site presence is helpful, Anchor's on-premise deployment often leads to unpredictable maintenance costs. Meridian Systems offers a hosted suite with a fixed configuration, which aligns better with the need for cost stability.
+- [63] **Yumi**: @Toshio, I see your point about costs! But @Misaki and @Kenji are right about the support. Meridian's regional team sounds a bit distant. I'm worried we'll end up with that "nobody in charge" feeling again!
+- [64] **Benjamin**: @Toshio, while I appreciate your fiscal caution, Anchor's on-premise model risks repeating the 2012 dispatch disaster of aging in place. However, Tessera's reliance on a partner firm for migration is a recipe for another 2018.
+- [65] **Misaki**: @Benjamin, a partner firm is exactly what we can't afford; it creates the same fragmented ownership Yumi feared. Anchor's presence on-site is the only way to ensure the system actually sticks with our crews.
+- [66] **Kenji**: @Toshio, I hear you on the costs, but if the system doesn't work in the yard, the money is wasted anyway! Anchor's engineers being right there means they can't ignore our old scanners or the winter rush.
+- [67] **Toshio**: @Kenji, the cost is not "wasted" if the system works; it is wasted when the budget is drained by unmonitored add-ons. Corvus is out. Tessera is too fragmented. Meridian's fixed configuration is the safest financial bet.
+- [68] **Yumi**: @Toshio, I understand the budget part, but a "fixed configuration" sounds like it might not change when our business does! Remember how our rules changed twice last year? I'm leaning toward Anchor because they'll be right here with us!
+- [69] **Benjamin**: @Yumi, your concern is valid. A rigid system is merely a slow-motion disaster. However, Anchor's on-premise model is a siren song; it promises immediate help but leaves us with a legacy we must maintain alone.
+- [70] **Misaki**: @Benjamin, we are already alone. Our internal experts are retiring and we cannot hire replacements. We cannot afford a "legacy" we maintain ourselves if there is no one left to do the maintaining. Anchor's presence is essential.
+- [71] **Kenji**: @Benjamin, but if they're here for the rollout, they can help us set it up so it doesn't break! I'd rather have engineers on the floor than a "fixed" system that doesn't fit our yards.
+- [72] **Toshio**: @Misaki @Kenji, you are prioritizing the start of the project over its survival. On-premise systems require internal experts to maintain. If your experts are retiring, Anchor's departure will leave us with a costly, unmanageable void. Meridian is the only sustainable choice.
+- [73] **Yumi**: @Toshio, that's a scary thought! But if we pick Meridian and the "fixed" plan doesn't match our business, we're just stuck again. I think Anchor's hands-on help is the best way to make sure we're not alone!
+- [74] **Benjamin**: @Toshio, your logic is impeccable. If we lack the staff to maintain the servers, Anchor is merely gifting us a ticking time bomb. Meridian's hosted model removes the burden of aging hardware and provides the stability we desperately need.
+- [75] **Misaki**: @Toshio @Benjamin, you argue that on-premise is a burden, but a hosted system we can't actually use is a greater failure. I cannot risk our remaining staff collapsing. I vote for Anchor Industrial Software.
+- [76] **Kenji**: @Toshio @Benjamin, I get the server worry, but we can't let the yard fail! We need people who see the mess and fix it. I'm voting for Anchor Industrial Software!
+- [77] **Toshio**: The risk of hidden costs and internal maintenance failure is too high with Anchor. We need a predictable, bundled cost structure and a hosted model to survive. I vote for Meridian Systems.
+- [78] **Yumi**: I'm so torn because I care about everyone's concerns! But I can't risk another two-day silence or a plan that doesn't fit our needs. I'll trust the hands-on support. I vote for Anchor Industrial Software!
+- [79] **Benjamin**: While the allure of on-site engineers is strong, we must not let short-term comfort blind us to long-term decay. To avoid another legacy of neglect, we need a hosted solution. I vote for Meridian Systems.
+### Vote
+- Misaki -> D
+- Kenji -> D
+- Toshio -> B
+- Yumi -> D
+- Benjamin -> B
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited to get started! I feel like we should really keep an eye on where our budget actually goes this time. Let's make sure we don't have any scary surprises when the bills arrive!
+- [6] **Victoria**: Budget is certainly a priority, Mio. However, I believe we must also consider the human cost. We should examine if our current staffing levels can actually support the demands of a major exhibition without causing burnout.
+- [7] **Shion**: Budget and staffing are basic necessities, but they aren't the goal. If we ignore why people actually visit, we're just managing a void. We need to look at the actual visitor data first.
+- [8] **Asuka**: While those points are valid, we cannot overlook the physical constraints of the gallery. A successful exhibition is impossible if the building itself cannot support the installation. We must prioritize the structural integrity of the space.
+- [9] **Shizue**: It is lovely to see such passion from everyone. While those are all important, I worry about the promises we make to our guests. We must ensure the pieces actually arrive on time and safely.
+- [10] **Mio**: I totally get that, Shizue! But if we spend too much on shipping or fancy mounts, we might run out of money for the rest of the show. I really want to see where the money disappears!
+- [11] **Victoria**: @Mio, financial transparency is useful, but money cannot replace missing personnel. If we are understaffed, even a generous budget won't prevent operational failure. We need to know who is actually available to execute the plan.
+- [12] **Shion**: @Victoria, personnel are just tools. The real failure is a gallery that no one wants to enter. If we don't understand the audience's desires, we're just efficiently organizing a failure. Let's prioritize the visitor records.
+- [13] **Asuka**: @Shion, audience desire is irrelevant if the floor collapses or the bay fails. We are discussing a physical space, not a theoretical one. We must verify the structural limits before committing to any specific proposal.
+- [14] **Shizue**: @Asuka, you are quite right to be cautious. However, I often think of the disappointment in a visitor's eyes when a promised masterpiece is missing. Let us look into the logistics to avoid such sadness.
+- [15] **Mio**: I see your points! But if we don't know the hidden costs, we might pick a "safe" show that's actually a money pit. I'm determined to find out where the budget leaks!
+- [16] **Victoria**: @Mio, I understand your determination. However, I am equally determined to ensure our team isn't pushed to a breaking point. We must verify the current capacity of our lab and volunteers before we commit to any ambitious project.
+- [17] **Shion**: @Victoria, your concern for the team is touching, but sentiment doesn't fill a room. I'm more interested in the cold reality of the numbers. Let's see what the visitors actually think and how many actually show up.
+- [18] **Asuka**: @Shion, numbers are only useful if they are grounded in reality. I am not interested in sentiment, but in the physical capacity of our facility. We must ensure the building can handle the load.
+- [19] **Shizue**: It seems we all have such different, yet vital, perspectives. To make sure we don't let our guests down, I shall look into the lender paperwork and the transport costs. Let us find a path that is kind to everyone.
+- [20] **Mio**: You've all convinced me that we need a full picture! I'll dig into the mount-making charges and the loan transport costs. I'm going to find those hidden budget leaks for us!
+- [21] **Victoria**: I will look into the conservation lab staffing and backlog, as well as the composition of the volunteer roster. We must be honest about who is actually available to do the work.
+- [22] **Shion**: I'll take the weekend head counts across ten seasons and the five years of visitor comment slips. Let's see if the public's actual behavior matches the curators' optimistic projections.
+- [23] **Asuka**: I will examine the structural survey of the suspended bay and the evening hire bookings in the gallery. We must ensure the building's physical limits are respected and that the space remains functional.
+- [24] **Shizue**: I agree with everyone's choices. To complement your findings, I will look into the lender paperwork against shipping cut-offs and the loan transport costs. I hope this helps us avoid any disappointments.
+## Round 2
+- [35] **Mio**: Wow, you guys! I found something huge! It turns out we're spending a massive chunk of our installation budget just on moving things and insurance. And those custom mounts? They're getting way more expensive!
+- [36] **Victoria**: @Mio, those costs are concerning, but the internal situation is more critical. Our conservation lab is severely understaffed with a massive backlog. We are operating with a skeleton crew that cannot possibly handle a high-maintenance exhibition.
+- [37] **Shion**: @Victoria, a skeleton crew is a problem only if the exhibition is boring. My data shows that static displays are failing. People return for movement and human interaction, not just objects in cases.
+- [38] **Asuka**: @Shion, movement and interaction are liabilities if the infrastructure cannot support them. The suspended bay has a strict weight limit, and previous heavy installations already required emergency shoring. We cannot ignore these physical constraints.
+- [39] **Shizue**: It is a bit worrying, isn't it? I've found that we often struggle with paperwork from distant lenders, causing delays. Between that and the high transport costs, perhaps we should consider a more local approach this time.
+- [40] **Mio**: @Shizue, I totally agree! If we go local, we can save a ton on those scary transport costs. Plus, if the pieces come with their own supports, we can avoid those expensive custom mounts entirely!
+- [41] **Victoria**: @Mio, saving money is helpful, but a local exhibition still requires labor. With the lab's backlog and a volunteer roster largely tied to external walks, we lack the actual manpower to manage a complex setup.
+- [42] **Shion**: @Victoria, you're focusing on the effort of the setup, but I'm focusing on the result. If we prioritize a "low-maintenance" show to save your staff, we'll just end up with another empty room that no one visits.
+- [43] **Asuka**: @Shion, an empty room is preferable to a damaged one. Beyond weight, the gallery is frequently used for evening hires. We cannot risk an installation that is too fragile or sprawling to accommodate the movement of caterers and furniture.
+- [44] **Shizue**: @Asuka, you make a very sensible point. We must be mindful of the space. If we choose a local exhibition with simpler logistics, it might be easier on the staff and the building too.
+- [45] **Mio**: @Shizue, exactly! A local show sounds like a win-win. We save money, reduce the stress on the lab, and keep the gallery safe. Let's look for something that doesn't need fancy, expensive mounts!
+- [46] **Victoria**: @Mio, a local show is a step in the right direction, but we must be careful. Even local pieces require stabilization. With only one person in the lab, any high-volume project is a risk.
+- [47] **Shion**: @Victoria, you're still thinking like a technician. The data is clear: visitors crave life and activity. A "safe" local show is a waste of the main gallery if it's just more static objects. We need something dynamic.
+- [48] **Asuka**: @Shion, "dynamic" often translates to heavy machinery or sprawling layouts. Given the weight limits of the suspended bay and the frequent evening hire traffic, we cannot afford an installation that compromises the building's integrity or functionality.
+- [49] **Shizue**: @Shion, I understand your desire for excitement, but we must be gentle with our staff and our building. A dynamic show that arrives late or breaks the floor would be a tragedy for everyone.
+- [50] **Mio**: @Shion, I want it to be exciting too! But we can't have a party if the floor breaks or we're broke! Let's find a way to be dynamic without those hidden costs and heavy weights.
+- [51] **Victoria**: @Mio, @Shion, we must be realistic. Excitement cannot be built on the backs of an exhausted, single-person lab. We need a proposal that is manageable, low-maintenance, and respects our actual human capacity.
+- [52] **Shion**: @Victoria, your realism is just a mask for stagnation. If we only choose what is "manageable," we are admitting defeat. The public wants a living gallery, not a warehouse. Let's find a dynamic solution that doesn't rely on your lab.
+- [53] **Asuka**: @Shion, a "living gallery" is a fantasy if the physical space is compromised. We must prioritize a proposal that is lightweight, compact, and durable enough to survive the gallery's dual role as an event space.
+- [54] **Shizue**: It seems we are all searching for a delicate balance. Let us look for a proposal that is dynamic enough for our guests, yet local and lightweight enough to be kind to our staff and our lovely building.
+## Round 3
+- [60] **Mio**: Option A looks perfect! It's local, so we save on transport, and the craftspeople can bring their own tools, which means no expensive custom mounts for us! It's a total budget win!
+- [61] **Victoria**: @Mio, I agree that Option A is the most sustainable. It utilizes external craftspeople for demonstrations, which reduces the burden on our exhausted lab and doesn't rely on our limited volunteer capacity.
+- [62] **Shion**: @Victoria, @Mio, Option A is acceptable, but Option D is superior. A working conservation bench provides the human activity and movement the data proves visitors crave, without requiring complex rigging or heavy installations.
+- [63] **Asuka**: @Shion, Option D is problematic. A working conservation bench in the gallery increases the risk of damage during evening hires and adds unnecessary clutter to a space already struggling with physical constraints. Option A is far more compact.
+- [64] **Shizue**: @Shion, while a working bench is a lovely idea, I worry about the logistics of moving delicate finds. Option A is so gentle; it supports our local artists and avoids the shipping delays that have caused us such heartache.
+- [65] **Mio**: @Shion, Option D sounds cool, but a working bench means more equipment and potential costs! Option A is just so much safer for our wallet. It's exciting and budget-friendly!
+- [66] **Victoria**: @Shion, Option D is actually the most dangerous choice for our staff. Putting a working bench in the gallery doesn't solve the lab's backlog; it simply puts the exhausted staff on public display. Option A is the only responsible choice.
+- [67] **Shion**: @Victoria, you're missing the point. The public doesn't want to see a stressed employee; they want to see the process of creation. Option A is just a craft fair. Option D is a living museum.
+- [68] **Asuka**: @Shion, a "living museum" is a liability if it obstructs the gallery's functionality. Option B's rigging is too risky for the bay, and Option D is too cluttered. Option A is the only logical, low-impact choice.
+- [69] **Shizue**: @Shion, I understand your passion for a living museum, but we must be mindful of our friends in the lab. Option A brings life through the craftspeople themselves, which is a wonderful, stress-free way to engage.
+- [70] **Mio**: @Shion, but Option A has demonstration sessions! That's the "living" part you want, but without the scary costs or the stress on the lab. It's the best of both worlds!
+- [71] **Victoria**: @Shion, the "process of creation" in Option A is handled by external experts, not our overwhelmed staff. We cannot sacrifice the well-being of our last remaining lab post for a visual gimmick. Option A is the only ethical choice.
+- [72] **Shion**: @Victoria, calling it a "gimmick" is a lazy dismissal of what the public actually values. However, if you're all so terrified of a little effort, Option A is the only compromise that avoids a static, dead room.
+- [73] **Asuka**: @Shion, it is not fear, but a calculation of risk. Option A is lightweight, durable, and respects the building's dual purpose. It is the only proposal that ensures the gallery remains functional and safe.
+- [74] **Shizue**: @Shion, it is a pleasure to see us finding common ground. Option A allows our guests to experience the warmth of human skill without risking the delays or burdens that weigh on our hearts and our staff.
+- [75] **Mio**: I'm so glad we all agree! Option A is exciting, kind to our staff, safe for the building, and most importantly, it won't leave us with any scary bills! I'm voting for A!
+- [76] **Victoria**: I cannot support any option that exploits our remaining staff. Option A provides the engagement the public wants while protecting our team from further burnout. It is the only sustainable path forward. I vote for A.
+- [77] **Shion**: @Victoria, your obsession with "sustainability" is just a fancy word for playing it safe. Still, Option A provides the human presence the data demands without relying on your fragile staff. I'll concede. I vote for A.
+- [78] **Asuka**: The logic is clear. Option A avoids the weight risks of the suspended bay and the clutter that would interfere with evening hires. It is the only choice that respects the building's physical limits. I vote for A.
+- [79] **Shizue**: It has been such a pleasure to reach this agreement together. Option A is a wonderful choice that honors our community and ensures a peaceful experience for everyone involved. I happily vote for A.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

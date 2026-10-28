@@ -1,0 +1,71 @@
+# shared_living_0006__single-online (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a structure that is fair but doesn't alienate newcomers. I'll look into the taster evening forms from non-joiners and the sign-up records for mid-year joiners.
+- [6] **Benjamin**: I'm interested in the administrative burden. I'll check the outgoing treasurer's logged hours and the bank statements on last year's renewals.
+- [7] **Jonathan**: I want to see how attendance is distributed. I'll look at the tally of the sign-in sheets and the rota against the attendance record.
+- [8] **Shunichi**: I'll see why people are hesitant. I'll check the weekday turnout since the summer outings and the quieter members at the winter social.
+- [9] **Takumi**: I want to know exactly what we're dealing with financially. I'll look into last year's ledger of outgoings and the minute books from the named-grade years.
+- [10] **Asuka**: Does anyone else feel we should be looking at the bank statements? I'm curious if the payment timing affects how people join.
+- [11] **Benjamin**: @Asuka, I have that covered. I suspect the timing is less about the joiners and more about the stress it puts on the person managing the books.
+- [12] **Jonathan**: I agree with Benjamin. The administrative side is crucial, but I'm more concerned with whether the current system unfairly burdens our most active members.
+- [13] **Shunichi**: @Jonathan, fairness is one thing, but we can't ignore the atmosphere. If people are weighing up every visit, the structure might be the problem.
+- [14] **Takumi**: I'm not interested in "atmosphere" if we don't even know if the money is there. We need hard numbers before we start guessing about feelings.
+- [15] **Asuka**: @Takumi, hard numbers are important, but the numbers are driven by people's behavior. If we ignore why they aren't joining or attending, the ledger will only get thinner.
+- [16] **Benjamin**: @Asuka, you make a fair point. However, we must balance the desire for growth with a sustainable workload for the committee. We cannot afford to burn out our volunteers.
+- [17] **Jonathan**: Exactly. If we create a system that is "fair" on paper but creates a mountain of paperwork or resentment among the regulars, we've failed. We need a sustainable balance.
+- [18] **Shunichi**: @Jonathan, I agree. But remember that "sustainable" also means people actually wanting to walk through the door without hesitation. If the fee feels like a barrier, the balance is already gone.
+- [19] **Takumi**: @Shunichi, you're talking in circles. I'm looking at the ledger and the old minute books to see what actually worked and what we actually spent. Let's just get the data first.
+- [20] **Asuka**: I agree. Let's proceed with our chosen research and see what the data tells us before we try to design the new structure.
+- [21] **Benjamin**: That seems the most logical path forward. I look forward to seeing how our findings intersect.
+- [22] **Jonathan**: I'll be interested to see if the attendance patterns match the financial realities Takumi is looking for.
+- [23] **Shunichi**: Let's hope the data is clear enough to stop the guessing. I'll see what the members are actually thinking.
+- [24] **Takumi**: Fine. Let's just get on with it and see who's actually paying for what.
+## Round 2
+- [35] **Asuka**: It seems that the barrier to entry is higher than we thought; many potential members are deterred by the commitment of a full year's fee upfront.
+- [36] **Benjamin**: The administrative side is even more strained than I feared; chasing individual payments is a massive time sink compared to a single annual collection.
+- [37] **Jonathan**: My findings confirm a significant imbalance; a small group of regulars handles most of the attendance and the workload, while many others barely appear.
+- [38] **Shunichi**: It's clear that charging per event has a negative effect; turnout for weekday meetings dropped and never recovered after we introduced door charges.
+- [39] **Takumi**: The ledger shows that seventy percent of our costs are fixed, regardless of attendance, and the old named-grade system only caused friction and discouraged people.
+- [40] **Asuka**: @Benjamin, if chasing individual payments is such a burden, we have to be careful about any system that increases the number of transactions per person.
+- [41] **Benjamin**: @Asuka, precisely. Any move toward activity-based charging would likely be a nightmare for the treasurer, given the hours already spent chasing small sums.
+- [42] **Jonathan**: @Benjamin, I understand the workload, but we can't ignore that a few people are essentially subsidizing the rest. It's creating a visible divide in the club.
+- [43] **Shunichi**: @Jonathan, but if we make it too "fair" by charging per event, we risk killing the atmosphere entirely. People stop coming if they have to weigh the cost every single time.
+- [44] **Takumi**: @Jonathan, the "subsidy" is a myth if seventy percent of our costs are fixed. Whether one person or twenty show up, the hall hire and insurance stay the same. We can't charge per visit for fixed costs.
+- [45] **Asuka**: @Takumi, that's a critical point. If the majority of our costs are fixed, a purely activity-based system wouldn't even cover the basics unless the base fee is high, which brings us back to the barrier for newcomers.
+- [46] **Benjamin**: @Asuka, exactly. And if we set a high base fee to cover those fixed costs, we're right back to the problem of people being deterred by a large upfront payment.
+- [47] **Jonathan**: @Benjamin, then we are stuck between a rock and a hard place. If we keep a flat fee, the regulars feel cheated; if we charge per event, we kill the vibe and bury the treasurer in paperwork.
+- [48] **Shunichi**: @Jonathan, maybe the answer isn't about "cheating" but about belonging. If we make it too transactional, we lose the community. We need a way to keep it simple and welcoming.
+- [49] **Takumi**: @Shunichi, "belonging" doesn't pay the insurance. We need a system that covers the fixed costs without creating the friction the old named-grade system did. Simplicity is key, but it has to be financially viable.
+- [50] **Asuka**: We need to find a middle ground that doesn't scare off newcomers or burn out the treasurer, while still acknowledging the fixed costs Takumi mentioned.
+- [51] **Benjamin**: @Asuka, I agree. We must avoid any structure that multiplies the treasurer's workload or creates a financial wall that prevents people from joining in the first place.
+- [52] **Jonathan**: I still worry about the regulars, but if the alternative is a dead club or a bankrupt treasurer, we have to prioritize stability over perfect equity.
+- [53] **Shunichi**: I agree. If we prioritize the feeling of belonging and keep the process seamless, the regulars might be more willing to accept the current imbalance for the sake of the club's health.
+- [54] **Takumi**: Let's just make sure whatever we pick doesn't rely on guesswork. We need a structure that covers those fixed costs reliably without making people fight over their "grade" again.
+## Round 3
+- [60] **Asuka**: Looking at the options, a Flat Annual Fee seems the safest for the treasurer and the atmosphere, though it doesn't solve the newcomer barrier.
+- [61] **Benjamin**: @Asuka, I agree. A Flat Annual Fee is the only option that doesn't exponentially increase the administrative burden or risk the treasurer's sanity.
+- [62] **Jonathan**: I'm still torn, but Tiered Membership might address the imbalance I found without the chaos of activity-based charging, provided it doesn't create the friction Takumi mentioned.
+- [63] **Shunichi**: @Jonathan, the named-grade history Takumi found suggests tiers create a social divide. Activity-Based Charging is out because it kills turnout. I'm leaning toward the Flat Annual Fee for the sake of the atmosphere.
+- [64] **Takumi**: @Jonathan, the minute books were clear: tiers cause friction and make people withdraw. A Flat Annual Fee is the only way to ensure our fixed costs are covered without creating a social hierarchy or a bookkeeping nightmare.
+- [65] **Asuka**: @Takumi, you're right about the friction, but we still have the issue of people refusing to join because of the upfront cost. Is there any way to make the Flat Annual Fee more flexible?
+- [66] **Benjamin**: @Asuka, we could potentially allow monthly installments, but that brings us back to the treasurer's workload. However, it's still far better than chasing a dozen small fees every single week.
+- [67] **Jonathan**: @Benjamin, if we can manage installments without burning out the treasurer, then the Flat Annual Fee becomes much more palatable. It maintains the community feel while easing the entry barrier.
+- [68] **Shunichi**: @Jonathan, exactly. If we keep the fee flat, we avoid the "pay-to-play" mentality that kills the weekday vibe. It's the only way to ensure people just show up without overthinking it.
+- [69] **Takumi**: @Shunichi, as long as we set the figure based on the actual fixed costs and not a guess, I'm on board. It's the most stable way to keep the lights on without causing a fight.
+- [70] **Asuka**: I'm satisfied that the Flat Annual Fee is the most balanced choice. It protects the atmosphere and the treasurer, and we can handle the newcomer issue through a few simple payment arrangements.
+- [71] **Benjamin**: @Asuka, I concur. The logic is sound: it minimizes administrative chaos and avoids the social friction of tiers. It is the most rational choice for the long-term health of the club.
+- [72] **Jonathan**: I'll concede. While it doesn't perfectly solve the imbalance of use, it's clearly the only option that doesn't risk breaking the club's social fabric or its administration. I vote for the Flat Annual Fee.
+- [73] **Shunichi**: I'm with you all. It preserves the sense of belonging and keeps the door open for everyone without the hesitation of a per-event charge. I vote for the Flat Annual Fee.
+- [74] **Takumi**: It's the only option that guarantees our fixed costs are covered without bringing back the drama of the grade system. I vote for the Flat Annual Fee.
+- [75] **Asuka**: I vote for the Flat Annual Fee. It is the most sustainable path for our community.
+- [76] **Benjamin**: I vote for the Flat Annual Fee. It is the most logical solution to our administrative and financial constraints.
+- [79] **Takumi**: I vote for the Flat Annual Fee. Let's just make sure we calculate the amount properly this time.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> A
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A
