@@ -18,6 +18,9 @@ endpoints:
   local_vllm_f:
     base_url: http://localhost:8050/v1
     api_key_env: VLLM_API_KEY
+  local_vllm_q:                    # smoke tests of a second model (port 8070)
+    base_url: http://localhost:8070/v1
+    api_key_env: VLLM_API_KEY
 models:
   default:                         # main runs: greedy decoding (temperature 0; DESIGN §10 / paper_draft 付録 D)
     endpoint: local_vllm
@@ -97,6 +100,111 @@ models:
   default_f:                       # = default, served by instance f (local_vllm_f)
     endpoint: local_vllm_f
     model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen:                       # = default, served by instance d (local_vllm)
+    endpoint: local_vllm
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen_b:                       # = default, served by instance d (local_vllm_b)
+    endpoint: local_vllm_b
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen_c:                       # = default, served by instance d (local_vllm_c)
+    endpoint: local_vllm_c
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen_d:                       # = qwen, instance d
+    endpoint: local_vllm_d
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen_e:                       # = default, served by instance d (local_vllm_e)
+    endpoint: local_vllm_e
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen_f:                       # = default, served by instance d (local_vllm_f)
+    endpoint: local_vllm_f
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen_smoke:                       # = default, served by instance d (local_vllm_q)
+    endpoint: local_vllm_q
+    model: qwen3.8-27b
     temperature: 0
     top_p: null
     top_k: null
