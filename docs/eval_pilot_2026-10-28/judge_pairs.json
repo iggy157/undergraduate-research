@@ -1,0 +1,767 @@
+{
+ "aiwolf_0001__C1": {
+  "setup_id": "aiwolf_0001",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0001__single-batch__gemma-4-31b__20261028T055745",
+   "multi-private": "aiwolf_0001__multi-private__gemma-4-31b__20261028T063350"
+  },
+  "set": 0
+ },
+ "aiwolf_0001__C2": {
+  "setup_id": "aiwolf_0001",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0001__single-batch__gemma-4-31b__20261028T055745",
+   "single-online": "aiwolf_0001__single-online__gemma-4-31b__20261028T061117"
+  },
+  "set": 1
+ },
+ "aiwolf_0001__C3": {
+  "setup_id": "aiwolf_0001",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "aiwolf_0001__single-online__gemma-4-31b__20261028T061117",
+   "multi-public": "aiwolf_0001__multi-public__gemma-4-31b__20261028T055747"
+  },
+  "set": 2
+ },
+ "aiwolf_0001__C4": {
+  "setup_id": "aiwolf_0001",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "aiwolf_0001__multi-public__gemma-4-31b__20261028T055747",
+   "multi-private": "aiwolf_0001__multi-private__gemma-4-31b__20261028T063350"
+  },
+  "set": 3
+ },
+ "aiwolf_0001__C5": {
+  "setup_id": "aiwolf_0001",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0001__single-batch__gemma-4-31b__20261028T055745",
+   "single-batch-process": "aiwolf_0001__single-batch-process__gemma-4-31b__20261028T075440"
+  },
+  "set": 4
+ },
+ "aiwolf_0002__C1": {
+  "setup_id": "aiwolf_0002",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0002__single-batch__gemma-4-31b__20261028T055932",
+   "multi-private": "aiwolf_0002__multi-private__gemma-4-31b__20261028T063836"
+  },
+  "set": 1
+ },
+ "aiwolf_0002__C2": {
+  "setup_id": "aiwolf_0002",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0002__single-batch__gemma-4-31b__20261028T055932",
+   "single-online": "aiwolf_0002__single-online__gemma-4-31b__20261028T061409"
+  },
+  "set": 2
+ },
+ "aiwolf_0002__C3": {
+  "setup_id": "aiwolf_0002",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "aiwolf_0002__single-online__gemma-4-31b__20261028T061409",
+   "multi-public": "aiwolf_0002__multi-public__gemma-4-31b__20261028T060120"
+  },
+  "set": 3
+ },
+ "aiwolf_0002__C4": {
+  "setup_id": "aiwolf_0002",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "aiwolf_0002__multi-public__gemma-4-31b__20261028T060120",
+   "multi-private": "aiwolf_0002__multi-private__gemma-4-31b__20261028T063836"
+  },
+  "set": 4
+ },
+ "aiwolf_0002__C5": {
+  "setup_id": "aiwolf_0002",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0002__single-batch__gemma-4-31b__20261028T055932",
+   "single-batch-process": "aiwolf_0002__single-batch-process__gemma-4-31b__20261028T075645"
+  },
+  "set": 5
+ },
+ "aiwolf_0003__C1": {
+  "setup_id": "aiwolf_0003",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0003__single-batch__gemma-4-31b__20261028T060122",
+   "multi-private": "aiwolf_0003__multi-private__gemma-4-31b__20261028T064315"
+  },
+  "set": 2
+ },
+ "aiwolf_0003__C2": {
+  "setup_id": "aiwolf_0003",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0003__single-batch__gemma-4-31b__20261028T060122",
+   "single-online": "aiwolf_0003__single-online__gemma-4-31b__20261028T061652"
+  },
+  "set": 3
+ },
+ "aiwolf_0003__C3": {
+  "setup_id": "aiwolf_0003",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "aiwolf_0003__single-online__gemma-4-31b__20261028T061652",
+   "multi-public": "aiwolf_0003__multi-public__gemma-4-31b__20261028T060457"
+  },
+  "set": 4
+ },
+ "aiwolf_0003__C4": {
+  "setup_id": "aiwolf_0003",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "aiwolf_0003__multi-public__gemma-4-31b__20261028T060457",
+   "multi-private": "aiwolf_0003__multi-private__gemma-4-31b__20261028T064315"
+  },
+  "set": 5
+ },
+ "aiwolf_0003__C5": {
+  "setup_id": "aiwolf_0003",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "aiwolf_0003__single-batch__gemma-4-31b__20261028T060122",
+   "single-batch-process": "aiwolf_0003__single-batch-process__gemma-4-31b__20261028T075901"
+  },
+  "set": 6
+ },
+ "candidate_selection_0001__C1": {
+  "setup_id": "candidate_selection_0001",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0001__single-batch__gemma-4-31b__20261028T060249",
+   "multi-private": "candidate_selection_0001__multi-private__gemma-4-31b__20261028T064743"
+  },
+  "set": 3
+ },
+ "candidate_selection_0001__C2": {
+  "setup_id": "candidate_selection_0001",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0001__single-batch__gemma-4-31b__20261028T060249",
+   "single-online": "candidate_selection_0001__single-online__gemma-4-31b__20261028T061938"
+  },
+  "set": 4
+ },
+ "candidate_selection_0001__C3": {
+  "setup_id": "candidate_selection_0001",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "candidate_selection_0001__single-online__gemma-4-31b__20261028T061938",
+   "multi-public": "candidate_selection_0001__multi-public__gemma-4-31b__20261028T060819"
+  },
+  "set": 5
+ },
+ "candidate_selection_0001__C4": {
+  "setup_id": "candidate_selection_0001",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "candidate_selection_0001__multi-public__gemma-4-31b__20261028T060819",
+   "multi-private": "candidate_selection_0001__multi-private__gemma-4-31b__20261028T064743"
+  },
+  "set": 6
+ },
+ "candidate_selection_0001__C5": {
+  "setup_id": "candidate_selection_0001",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0001__single-batch__gemma-4-31b__20261028T060249",
+   "single-batch-process": "candidate_selection_0001__single-batch-process__gemma-4-31b__20261028T080112"
+  },
+  "set": 7
+ },
+ "candidate_selection_0002__C1": {
+  "setup_id": "candidate_selection_0002",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0002__single-batch__gemma-4-31b__20261028T060514",
+   "multi-private": "candidate_selection_0002__multi-private__gemma-4-31b__20261028T065204"
+  },
+  "set": 4
+ },
+ "candidate_selection_0002__C2": {
+  "setup_id": "candidate_selection_0002",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0002__single-batch__gemma-4-31b__20261028T060514",
+   "single-online": "candidate_selection_0002__single-online__gemma-4-31b__20261028T062211"
+  },
+  "set": 5
+ },
+ "candidate_selection_0002__C3": {
+  "setup_id": "candidate_selection_0002",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "candidate_selection_0002__single-online__gemma-4-31b__20261028T062211",
+   "multi-public": "candidate_selection_0002__multi-public__gemma-4-31b__20261028T061211"
+  },
+  "set": 6
+ },
+ "candidate_selection_0002__C4": {
+  "setup_id": "candidate_selection_0002",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "candidate_selection_0002__multi-public__gemma-4-31b__20261028T061211",
+   "multi-private": "candidate_selection_0002__multi-private__gemma-4-31b__20261028T065204"
+  },
+  "set": 7
+ },
+ "candidate_selection_0002__C5": {
+  "setup_id": "candidate_selection_0002",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0002__single-batch__gemma-4-31b__20261028T060514",
+   "single-batch-process": "candidate_selection_0002__single-batch-process__gemma-4-31b__20261028T080322"
+  },
+  "set": 8
+ },
+ "candidate_selection_0003__C1": {
+  "setup_id": "candidate_selection_0003",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0003__single-batch__gemma-4-31b__20261028T060708",
+   "multi-private": "candidate_selection_0003__multi-private__gemma-4-31b__20261028T065610"
+  },
+  "set": 5
+ },
+ "candidate_selection_0003__C2": {
+  "setup_id": "candidate_selection_0003",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0003__single-batch__gemma-4-31b__20261028T060708",
+   "single-online": "candidate_selection_0003__single-online__gemma-4-31b__20261028T062426"
+  },
+  "set": 6
+ },
+ "candidate_selection_0003__C3": {
+  "setup_id": "candidate_selection_0003",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "candidate_selection_0003__single-online__gemma-4-31b__20261028T062426",
+   "multi-public": "candidate_selection_0003__multi-public__gemma-4-31b__20261028T061538"
+  },
+  "set": 7
+ },
+ "candidate_selection_0003__C4": {
+  "setup_id": "candidate_selection_0003",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "candidate_selection_0003__multi-public__gemma-4-31b__20261028T061538",
+   "multi-private": "candidate_selection_0003__multi-private__gemma-4-31b__20261028T065610"
+  },
+  "set": 8
+ },
+ "candidate_selection_0003__C5": {
+  "setup_id": "candidate_selection_0003",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "candidate_selection_0003__single-batch__gemma-4-31b__20261028T060708",
+   "single-batch-process": "candidate_selection_0003__single-batch-process__gemma-4-31b__20261028T080527"
+  },
+  "set": 0
+ },
+ "shared_living_0001__C1": {
+  "setup_id": "shared_living_0001",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0001__single-batch__gemma-4-31b__20261028T060927",
+   "multi-private": "shared_living_0001__multi-private__gemma-4-31b__20261028T070012"
+  },
+  "set": 6
+ },
+ "shared_living_0001__C2": {
+  "setup_id": "shared_living_0001",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0001__single-batch__gemma-4-31b__20261028T060927",
+   "single-online": "shared_living_0001__single-online__gemma-4-31b__20261028T062716"
+  },
+  "set": 7
+ },
+ "shared_living_0001__C3": {
+  "setup_id": "shared_living_0001",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "shared_living_0001__single-online__gemma-4-31b__20261028T062716",
+   "multi-public": "shared_living_0001__multi-public__gemma-4-31b__20261028T061939"
+  },
+  "set": 8
+ },
+ "shared_living_0001__C4": {
+  "setup_id": "shared_living_0001",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "shared_living_0001__multi-public__gemma-4-31b__20261028T061939",
+   "multi-private": "shared_living_0001__multi-private__gemma-4-31b__20261028T070012"
+  },
+  "set": 0
+ },
+ "shared_living_0001__C5": {
+  "setup_id": "shared_living_0001",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0001__single-batch__gemma-4-31b__20261028T060927",
+   "single-batch-process": "shared_living_0001__single-batch-process__gemma-4-31b__20261028T080750"
+  },
+  "set": 1
+ },
+ "shared_living_0002__C1": {
+  "setup_id": "shared_living_0002",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0002__single-batch__gemma-4-31b__20261028T061129",
+   "multi-private": "shared_living_0002__multi-private__gemma-4-31b__20261028T070539"
+  },
+  "set": 7
+ },
+ "shared_living_0002__C2": {
+  "setup_id": "shared_living_0002",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0002__single-batch__gemma-4-31b__20261028T061129",
+   "single-online": "shared_living_0002__single-online__gemma-4-31b__20261028T063035"
+  },
+  "set": 8
+ },
+ "shared_living_0002__C3": {
+  "setup_id": "shared_living_0002",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "shared_living_0002__single-online__gemma-4-31b__20261028T063035",
+   "multi-public": "shared_living_0002__multi-public__gemma-4-31b__20261028T062427"
+  },
+  "set": 0
+ },
+ "shared_living_0002__C4": {
+  "setup_id": "shared_living_0002",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "shared_living_0002__multi-public__gemma-4-31b__20261028T062427",
+   "multi-private": "shared_living_0002__multi-private__gemma-4-31b__20261028T070539"
+  },
+  "set": 1
+ },
+ "shared_living_0002__C5": {
+  "setup_id": "shared_living_0002",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0002__single-batch__gemma-4-31b__20261028T061129",
+   "single-batch-process": "shared_living_0002__single-batch-process__gemma-4-31b__20261028T081033"
+  },
+  "set": 2
+ },
+ "shared_living_0003__C1": {
+  "setup_id": "shared_living_0003",
+  "comparison": "C1",
+  "o1": {
+   "A": "single-batch",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0003__single-batch__gemma-4-31b__20261028T061349",
+   "multi-private": "shared_living_0003__multi-private__gemma-4-31b__20261028T071115"
+  },
+  "set": 8
+ },
+ "shared_living_0003__C2": {
+  "setup_id": "shared_living_0003",
+  "comparison": "C2",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-online"
+  },
+  "o2": {
+   "A": "single-online",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0003__single-batch__gemma-4-31b__20261028T061349",
+   "single-online": "shared_living_0003__single-online__gemma-4-31b__20261028T063411"
+  },
+  "set": 0
+ },
+ "shared_living_0003__C3": {
+  "setup_id": "shared_living_0003",
+  "comparison": "C3",
+  "o1": {
+   "A": "single-online",
+   "B": "multi-public"
+  },
+  "o2": {
+   "A": "multi-public",
+   "B": "single-online"
+  },
+  "games": {
+   "single-online": "shared_living_0003__single-online__gemma-4-31b__20261028T063411",
+   "multi-public": "shared_living_0003__multi-public__gemma-4-31b__20261028T062912"
+  },
+  "set": 1
+ },
+ "shared_living_0003__C4": {
+  "setup_id": "shared_living_0003",
+  "comparison": "C4",
+  "o1": {
+   "A": "multi-public",
+   "B": "multi-private"
+  },
+  "o2": {
+   "A": "multi-private",
+   "B": "multi-public"
+  },
+  "games": {
+   "multi-public": "shared_living_0003__multi-public__gemma-4-31b__20261028T062912",
+   "multi-private": "shared_living_0003__multi-private__gemma-4-31b__20261028T071115"
+  },
+  "set": 2
+ },
+ "shared_living_0003__C5": {
+  "setup_id": "shared_living_0003",
+  "comparison": "C5",
+  "o1": {
+   "A": "single-batch",
+   "B": "single-batch-process"
+  },
+  "o2": {
+   "A": "single-batch-process",
+   "B": "single-batch"
+  },
+  "games": {
+   "single-batch": "shared_living_0003__single-batch__gemma-4-31b__20261028T061349",
+   "single-batch-process": "shared_living_0003__single-batch-process__gemma-4-31b__20261028T081305"
+  },
+  "set": 3
+ }
+}
