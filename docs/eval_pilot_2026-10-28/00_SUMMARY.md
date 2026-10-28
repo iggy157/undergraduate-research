@@ -67,3 +67,30 @@ docs/paper_draft.md v4 §4 の評価設計を、パイロット 6 (log/_pilot6�
 読み: 基準を具体化すると判定は安定し (一致 0.90、反転 1 割未満)、Sonnet でも single を選ぶ。ただし勝者は 87% で短い方であり、判定は実質「語数・水増し・反復」の検出器になっている。つまり自動指標 (語数、張りつき率、Non-repetition) と同じものを測っており、独立した「質」の判定ではない。筋書き条件 (process) は発話数が増える (29 → 35) ぶん負ける。この形で人手評価を行うなら、論文では「読者が自動指標の差を知覚できることの確認」と位置づけ、「優劣」や「人間らしさ」の判定とは呼ばない。
 
 ユーザの懸念 (生成側に口頭の会話らしさを指示していないのに評価で測るのは恣意的では): 両方式に同じルールを与えて何も指示していないので、差は方式の性質 (傾向) として記述できるが、優劣の主張にはならない。優劣や「人間らしさ」を言うには外部の基準 (人間の議論コーパスの発話長・反復・定型句の統計との距離) に接続する必要がある。
+
+## 発話単位の計数 (2026-10-28、先行研究の指標セットの試運転)
+
+方針: 好みを問う対比較をやめ、先行研究の指標セットをそのまま適用する。自動 (Bo et al. の Non-repetition / Evidence usage / Stance、PLACES の Distinct-N / words per turn / turns per conversation) は `scripts/eval_metrics.py` に追加 (metrics_summary.md)。判定が要るものは発話ごとの 0/1 を Claude 系 2 モデル (Opus / Sonnet) に付けさせた: Bo et al. の Responsiveness (自分の前の発話以降に言われたことに応えているか) と Rebuttal (それに明示的に反対しているか)、Becker et al. の誤り型から 4 つ (Lack of progress = 空回り、Ignorance = 不応答、Hallucinated facts = 誤帰属、Self-contradictory = 無断の翻意)。63 局 (反復を除く)、2,492 発話を両者が注釈 (annotation/)。
+
+| 条件 | Responsiveness (Opus / Sonnet) | Rebuttal | 空回り (Lack of progress) | 不応答・誤帰属・翻意 |
+|---|---|---|---|---|
+| single-batch | 42 / 50 | 8 / 6 | 17 / 16 | ほぼ 0 |
+| single-batch-stepped | 47 / 54 | 6 / 8 | 17 / 14 | ほぼ 0 |
+| single-online | 61 / 60 | 16 / 11 | 24 / 16 | ほぼ 0 |
+| multi-public | 52 / 74 | 14 / 10 | 37 / 32 | ほぼ 0 |
+| multi-private | 62 / 70 | 19 / 17 | 31 / 23 | ほぼ 0 |
+| single-batch-process | 50 / 60 | 16 / 12 | 13 / 13 | ほぼ 0 |
+| multi-private-process | 57 / 78 | 19 / 15 | 33 / 27 | ほぼ 0 |
+
+(100 発話あたり。局平均 → 条件平均。)
+
+判定者間一致 (2,492 発話): Responsiveness 85% (κ 0.68)、Rebuttal 96% (κ 0.81)、空回り 90% (κ 0.72)。不応答・誤帰属・翻意は両者ともほぼ 0 で κ は定義できない (信号なし)。Sonnet は Responsiveness を系統的に高く付ける (67 vs 53)。Sonnet の 1 組 (set 16) は「規則と手で選んだリストで付けた」と自己申告しており、本実験では出力の検証 (件数・無作為抽出の人手確認) を手順に入れる。
+
+読み:
+- **空回り率は multi が single の約 2 倍** (議論ドメインで 36〜47 vs 11〜17)。判定者間で一致しており (κ 0.72)、「multi は言い直しと定型句でターンを埋める」は計数で支持される。
+- **Responsiveness は multi のほうが高い** (Bo et al. の定義: 自分の前の発話以降に言われたことに応えているか)。人狼では全条件 75〜85 で差がないが、議論ドメインでは single-batch が 10〜50、multi が 55〜79。single-batch の Round 1〜2 は各自が調べる物と結果を並べて述べる「並列の独白」になっており、応答していない。**「single はテンポが良く応答的」の後半は、この定義では支持されない。**
+- Rebuttal は multi-private と筋書きありの single で高い。
+- 筋書き (process) は single-batch の Responsiveness を上げ (42 → 50 / 50 → 60)、空回りを下げる (17 → 13)。
+- 不応答・誤帰属・翻意は検出できるほど起きていない。本実験では落とすか、起きた場合だけ報告する。
+
+ストーリーへの含意: 族 A は「single は短く (words/turn)、反復せず (Non-repetition、空回り率)、multi は応答し (Responsiveness)、反論する (Rebuttal)」という**族 A 内のトレードオフ**として書くのが実測に合う。「テンポが良く自然なやり取り」は、短さと非冗長性の面で言え、応答性の面では言えない。

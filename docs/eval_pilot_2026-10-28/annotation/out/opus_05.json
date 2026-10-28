@@ -1,0 +1,920 @@
+{
+ "game_016.md": [
+  {
+   "seq": 5,
+   "speaker": "Minako",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 6,
+   "speaker": "Shizue",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "greeting only"
+  },
+  {
+   "seq": 7,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 8,
+   "speaker": "Benjamin",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 9,
+   "speaker": "Kenji",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ritual enthusiasm"
+  },
+  {
+   "seq": 10,
+   "speaker": "Minako",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 11,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 12,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "opposes [11]"
+  },
+  {
+   "seq": 13,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 14,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 31,
+   "speaker": "Minako",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 32,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 33,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "criticizes [32]"
+  },
+  {
+   "seq": 34,
+   "speaker": "Benjamin",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 35,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "disputes [34]"
+  },
+  {
+   "seq": 36,
+   "speaker": "Minako",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 37,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "denies [34]"
+  },
+  {
+   "seq": 38,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 39,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 40,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "disputes [38]"
+  },
+  {
+   "seq": 41,
+   "speaker": "Minako",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 42,
+   "speaker": "Shizue",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "repeats denial"
+  },
+  {
+   "seq": 43,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 44,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 45,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "restates [35]"
+  },
+  {
+   "seq": 46,
+   "speaker": "Minako",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 47,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ritual resignation"
+  },
+  {
+   "seq": 48,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "repeats agreement"
+  },
+  {
+   "seq": 49,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "restates claim"
+  },
+  {
+   "seq": 50,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  }
+ ],
+ "game_017.md": [
+  {
+   "seq": 5,
+   "speaker": "Mizuki",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 6,
+   "speaker": "Sakura",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ritual enthusiasm"
+  },
+  {
+   "seq": 7,
+   "speaker": "Toshio",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 8,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 9,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 10,
+   "speaker": "Mizuki",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 11,
+   "speaker": "Sakura",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 12,
+   "speaker": "Toshio",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "opposes [11]"
+  },
+  {
+   "seq": 13,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 14,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 15,
+   "speaker": "Mizuki",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 16,
+   "speaker": "Sakura",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 31,
+   "speaker": "Mizuki",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 32,
+   "speaker": "Sakura",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "no content"
+  },
+  {
+   "seq": 33,
+   "speaker": "Toshio",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 34,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 35,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 36,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 37,
+   "speaker": "Sakura",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "reaction only"
+  },
+  {
+   "seq": 38,
+   "speaker": "Toshio",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 39,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 40,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "denies [38]"
+  },
+  {
+   "seq": 41,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 42,
+   "speaker": "Sakura",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 43,
+   "speaker": "Toshio",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "rejects [40]"
+  },
+  {
+   "seq": 44,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 45,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "repeats denial"
+  },
+  {
+   "seq": 46,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 47,
+   "speaker": "Sakura",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 48,
+   "speaker": "Toshio",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "restates claim"
+  },
+  {
+   "seq": 49,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "restates [44]"
+  },
+  {
+   "seq": 50,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "repeats denial"
+  }
+ ],
+ "game_018.md": [
+  {
+   "seq": 5,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ritual opening"
+  },
+  {
+   "seq": 6,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 7,
+   "speaker": "Rin",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ritual enthusiasm"
+  },
+  {
+   "seq": 8,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ritual phrase"
+  },
+  {
+   "seq": 9,
+   "speaker": "Benjamin",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ritual phrase"
+  },
+  {
+   "seq": 11,
+   "speaker": "Mizuki",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 12,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 13,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "objects to [12]"
+  },
+  {
+   "seq": 14,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 16,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 17,
+   "speaker": "Rin",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 1,
+   "ignore": 1,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "ignores [13]"
+  },
+  {
+   "seq": 31,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 32,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "denies [31]"
+  },
+  {
+   "seq": 33,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 34,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 35,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 36,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 37,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 38,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "opposes [35]/[37]"
+  },
+  {
+   "seq": 39,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "opposes [38]"
+  },
+  {
+   "seq": 40,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 41,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 1,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0,
+   "note": "counters [40]"
+  },
+  {
+   "seq": 42,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 43,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 44,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  },
+  {
+   "seq": 45,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "empty": 0,
+   "ignore": 0,
+   "misattr": 0,
+   "reversal": 0
+  }
+ ]
+}

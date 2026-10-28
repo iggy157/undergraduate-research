@@ -1,0 +1,443 @@
+{
+ "game_001.md": {
+  "game_id": "aiwolf_0001__multi-private-process__gemma-4-31b__20261028T081553",
+  "setup_id": "aiwolf_0001",
+  "condition": "multi-private-process",
+  "domain": "aiwolf",
+  "n_talk": 52
+ },
+ "game_002.md": {
+  "game_id": "aiwolf_0001__multi-private__gemma-4-31b__20261028T063350",
+  "setup_id": "aiwolf_0001",
+  "condition": "multi-private",
+  "domain": "aiwolf",
+  "n_talk": 52
+ },
+ "game_003.md": {
+  "game_id": "aiwolf_0002__multi-private-process__gemma-4-31b__20261028T082026",
+  "setup_id": "aiwolf_0002",
+  "condition": "multi-private-process",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_004.md": {
+  "game_id": "aiwolf_0002__multi-private__gemma-4-31b__20261028T063836",
+  "setup_id": "aiwolf_0002",
+  "condition": "multi-private",
+  "domain": "aiwolf",
+  "n_talk": 52
+ },
+ "game_005.md": {
+  "game_id": "aiwolf_0003__multi-private-process__gemma-4-31b__20261028T082400",
+  "setup_id": "aiwolf_0003",
+  "condition": "multi-private-process",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_006.md": {
+  "game_id": "aiwolf_0003__multi-private__gemma-4-31b__20261028T064315",
+  "setup_id": "aiwolf_0003",
+  "condition": "multi-private",
+  "domain": "aiwolf",
+  "n_talk": 52
+ },
+ "game_007.md": {
+  "game_id": "aiwolf_0001__multi-public__gemma-4-31b__20261028T055747",
+  "setup_id": "aiwolf_0001",
+  "condition": "multi-public",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_008.md": {
+  "game_id": "aiwolf_0002__multi-public__gemma-4-31b__20261028T060120",
+  "setup_id": "aiwolf_0002",
+  "condition": "multi-public",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_009.md": {
+  "game_id": "aiwolf_0003__multi-public__gemma-4-31b__20261028T060457",
+  "setup_id": "aiwolf_0003",
+  "condition": "multi-public",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_010.md": {
+  "game_id": "aiwolf_0001__single-batch-process__gemma-4-31b__20261028T075440",
+  "setup_id": "aiwolf_0001",
+  "condition": "single-batch-process",
+  "domain": "aiwolf",
+  "n_talk": 35
+ },
+ "game_011.md": {
+  "game_id": "aiwolf_0001__single-batch__gemma-4-31b__20261028T055745",
+  "setup_id": "aiwolf_0001",
+  "condition": "single-batch",
+  "domain": "aiwolf",
+  "n_talk": 30
+ },
+ "game_012.md": {
+  "game_id": "aiwolf_0002__single-batch-process__gemma-4-31b__20261028T075645",
+  "setup_id": "aiwolf_0002",
+  "condition": "single-batch-process",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_013.md": {
+  "game_id": "aiwolf_0002__single-batch__gemma-4-31b__20261028T055932",
+  "setup_id": "aiwolf_0002",
+  "condition": "single-batch",
+  "domain": "aiwolf",
+  "n_talk": 32
+ },
+ "game_014.md": {
+  "game_id": "aiwolf_0003__single-batch-process__gemma-4-31b__20261028T075901",
+  "setup_id": "aiwolf_0003",
+  "condition": "single-batch-process",
+  "domain": "aiwolf",
+  "n_talk": 35
+ },
+ "game_015.md": {
+  "game_id": "aiwolf_0003__single-batch__gemma-4-31b__20261028T060122",
+  "setup_id": "aiwolf_0003",
+  "condition": "single-batch",
+  "domain": "aiwolf",
+  "n_talk": 27
+ },
+ "game_016.md": {
+  "game_id": "aiwolf_0001__single-batch-stepped__gemma-4-31b__20261028T055747",
+  "setup_id": "aiwolf_0001",
+  "condition": "single-batch-stepped",
+  "domain": "aiwolf",
+  "n_talk": 30
+ },
+ "game_017.md": {
+  "game_id": "aiwolf_0002__single-batch-stepped__gemma-4-31b__20261028T055913",
+  "setup_id": "aiwolf_0002",
+  "condition": "single-batch-stepped",
+  "domain": "aiwolf",
+  "n_talk": 32
+ },
+ "game_018.md": {
+  "game_id": "aiwolf_0003__single-batch-stepped__gemma-4-31b__20261028T060031",
+  "setup_id": "aiwolf_0003",
+  "condition": "single-batch-stepped",
+  "domain": "aiwolf",
+  "n_talk": 26
+ },
+ "game_019.md": {
+  "game_id": "aiwolf_0001__single-online__gemma-4-31b__20261028T061117",
+  "setup_id": "aiwolf_0001",
+  "condition": "single-online",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_020.md": {
+  "game_id": "aiwolf_0002__single-online__gemma-4-31b__20261028T061409",
+  "setup_id": "aiwolf_0002",
+  "condition": "single-online",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_021.md": {
+  "game_id": "aiwolf_0003__single-online__gemma-4-31b__20261028T061652",
+  "setup_id": "aiwolf_0003",
+  "condition": "single-online",
+  "domain": "aiwolf",
+  "n_talk": 40
+ },
+ "game_022.md": {
+  "game_id": "candidate_selection_0001__multi-private-process__gemma-4-31b__20261028T082716",
+  "setup_id": "candidate_selection_0001",
+  "condition": "multi-private-process",
+  "domain": "candidate_selection",
+  "n_talk": 59
+ },
+ "game_023.md": {
+  "game_id": "candidate_selection_0001__multi-private__gemma-4-31b__20261028T064743",
+  "setup_id": "candidate_selection_0001",
+  "condition": "multi-private",
+  "domain": "candidate_selection",
+  "n_talk": 54
+ },
+ "game_024.md": {
+  "game_id": "candidate_selection_0002__multi-private-process__gemma-4-31b__20261028T083200",
+  "setup_id": "candidate_selection_0002",
+  "condition": "multi-private-process",
+  "domain": "candidate_selection",
+  "n_talk": 54
+ },
+ "game_025.md": {
+  "game_id": "candidate_selection_0002__multi-private__gemma-4-31b__20261028T065204",
+  "setup_id": "candidate_selection_0002",
+  "condition": "multi-private",
+  "domain": "candidate_selection",
+  "n_talk": 49
+ },
+ "game_026.md": {
+  "game_id": "candidate_selection_0003__multi-private-process__gemma-4-31b__20261028T083603",
+  "setup_id": "candidate_selection_0003",
+  "condition": "multi-private-process",
+  "domain": "candidate_selection",
+  "n_talk": 56
+ },
+ "game_027.md": {
+  "game_id": "candidate_selection_0003__multi-private__gemma-4-31b__20261028T065610",
+  "setup_id": "candidate_selection_0003",
+  "condition": "multi-private",
+  "domain": "candidate_selection",
+  "n_talk": 50
+ },
+ "game_028.md": {
+  "game_id": "candidate_selection_0001__multi-public__gemma-4-31b__20261028T060819",
+  "setup_id": "candidate_selection_0001",
+  "condition": "multi-public",
+  "domain": "candidate_selection",
+  "n_talk": 51
+ },
+ "game_029.md": {
+  "game_id": "candidate_selection_0002__multi-public__gemma-4-31b__20261028T061211",
+  "setup_id": "candidate_selection_0002",
+  "condition": "multi-public",
+  "domain": "candidate_selection",
+  "n_talk": 45
+ },
+ "game_030.md": {
+  "game_id": "candidate_selection_0003__multi-public__gemma-4-31b__20261028T061538",
+  "setup_id": "candidate_selection_0003",
+  "condition": "multi-public",
+  "domain": "candidate_selection",
+  "n_talk": 48
+ },
+ "game_031.md": {
+  "game_id": "candidate_selection_0001__single-batch-process__gemma-4-31b__20261028T080112",
+  "setup_id": "candidate_selection_0001",
+  "condition": "single-batch-process",
+  "domain": "candidate_selection",
+  "n_talk": 30
+ },
+ "game_032.md": {
+  "game_id": "candidate_selection_0001__single-batch__gemma-4-31b__20261028T060249",
+  "setup_id": "candidate_selection_0001",
+  "condition": "single-batch",
+  "domain": "candidate_selection",
+  "n_talk": 30
+ },
+ "game_033.md": {
+  "game_id": "candidate_selection_0002__single-batch-process__gemma-4-31b__20261028T080322",
+  "setup_id": "candidate_selection_0002",
+  "condition": "single-batch-process",
+  "domain": "candidate_selection",
+  "n_talk": 25
+ },
+ "game_034.md": {
+  "game_id": "candidate_selection_0002__single-batch__gemma-4-31b__20261028T060514",
+  "setup_id": "candidate_selection_0002",
+  "condition": "single-batch",
+  "domain": "candidate_selection",
+  "n_talk": 25
+ },
+ "game_035.md": {
+  "game_id": "candidate_selection_0003__single-batch-process__gemma-4-31b__20261028T080527",
+  "setup_id": "candidate_selection_0003",
+  "condition": "single-batch-process",
+  "domain": "candidate_selection",
+  "n_talk": 35
+ },
+ "game_036.md": {
+  "game_id": "candidate_selection_0003__single-batch__gemma-4-31b__20261028T060708",
+  "setup_id": "candidate_selection_0003",
+  "condition": "single-batch",
+  "domain": "candidate_selection",
+  "n_talk": 30
+ },
+ "game_037.md": {
+  "game_id": "candidate_selection_0001__single-batch-stepped__gemma-4-31b__20261028T060134",
+  "setup_id": "candidate_selection_0001",
+  "condition": "single-batch-stepped",
+  "domain": "candidate_selection",
+  "n_talk": 35
+ },
+ "game_038.md": {
+  "game_id": "candidate_selection_0002__single-batch-stepped__gemma-4-31b__20261028T060320",
+  "setup_id": "candidate_selection_0002",
+  "condition": "single-batch-stepped",
+  "domain": "candidate_selection",
+  "n_talk": 25
+ },
+ "game_039.md": {
+  "game_id": "candidate_selection_0003__single-batch-stepped__gemma-4-31b__20261028T060450",
+  "setup_id": "candidate_selection_0003",
+  "condition": "single-batch-stepped",
+  "domain": "candidate_selection",
+  "n_talk": 30
+ },
+ "game_040.md": {
+  "game_id": "candidate_selection_0001__single-online__gemma-4-31b__20261028T061938",
+  "setup_id": "candidate_selection_0001",
+  "condition": "single-online",
+  "domain": "candidate_selection",
+  "n_talk": 44
+ },
+ "game_041.md": {
+  "game_id": "candidate_selection_0002__single-online__gemma-4-31b__20261028T062211",
+  "setup_id": "candidate_selection_0002",
+  "condition": "single-online",
+  "domain": "candidate_selection",
+  "n_talk": 43
+ },
+ "game_042.md": {
+  "game_id": "candidate_selection_0003__single-online__gemma-4-31b__20261028T062426",
+  "setup_id": "candidate_selection_0003",
+  "condition": "single-online",
+  "domain": "candidate_selection",
+  "n_talk": 45
+ },
+ "game_043.md": {
+  "game_id": "shared_living_0001__multi-private-process__gemma-4-31b__20261028T084025",
+  "setup_id": "shared_living_0001",
+  "condition": "multi-private-process",
+  "domain": "shared_living",
+  "n_talk": 60
+ },
+ "game_044.md": {
+  "game_id": "shared_living_0001__multi-private__gemma-4-31b__20261028T070012",
+  "setup_id": "shared_living_0001",
+  "condition": "multi-private",
+  "domain": "shared_living",
+  "n_talk": 60
+ },
+ "game_045.md": {
+  "game_id": "shared_living_0002__multi-private-process__gemma-4-31b__20261028T084529",
+  "setup_id": "shared_living_0002",
+  "condition": "multi-private-process",
+  "domain": "shared_living",
+  "n_talk": 60
+ },
+ "game_046.md": {
+  "game_id": "shared_living_0002__multi-private__gemma-4-31b__20261028T070539",
+  "setup_id": "shared_living_0002",
+  "condition": "multi-private",
+  "domain": "shared_living",
+  "n_talk": 60
+ },
+ "game_047.md": {
+  "game_id": "shared_living_0003__multi-private-process__gemma-4-31b__20261028T085044",
+  "setup_id": "shared_living_0003",
+  "condition": "multi-private-process",
+  "domain": "shared_living",
+  "n_talk": 60
+ },
+ "game_048.md": {
+  "game_id": "shared_living_0003__multi-private__gemma-4-31b__20261028T071115",
+  "setup_id": "shared_living_0003",
+  "condition": "multi-private",
+  "domain": "shared_living",
+  "n_talk": 58
+ },
+ "game_049.md": {
+  "game_id": "shared_living_0001__multi-public__gemma-4-31b__20261028T061939",
+  "setup_id": "shared_living_0001",
+  "condition": "multi-public",
+  "domain": "shared_living",
+  "n_talk": 59
+ },
+ "game_050.md": {
+  "game_id": "shared_living_0002__multi-public__gemma-4-31b__20261028T062427",
+  "setup_id": "shared_living_0002",
+  "condition": "multi-public",
+  "domain": "shared_living",
+  "n_talk": 59
+ },
+ "game_051.md": {
+  "game_id": "shared_living_0003__multi-public__gemma-4-31b__20261028T062912",
+  "setup_id": "shared_living_0003",
+  "condition": "multi-public",
+  "domain": "shared_living",
+  "n_talk": 57
+ },
+ "game_052.md": {
+  "game_id": "shared_living_0001__single-batch-process__gemma-4-31b__20261028T080750",
+  "setup_id": "shared_living_0001",
+  "condition": "single-batch-process",
+  "domain": "shared_living",
+  "n_talk": 41
+ },
+ "game_053.md": {
+  "game_id": "shared_living_0001__single-batch__gemma-4-31b__20261028T060927",
+  "setup_id": "shared_living_0001",
+  "condition": "single-batch",
+  "domain": "shared_living",
+  "n_talk": 26
+ },
+ "game_054.md": {
+  "game_id": "shared_living_0002__single-batch-process__gemma-4-31b__20261028T081033",
+  "setup_id": "shared_living_0002",
+  "condition": "single-batch-process",
+  "domain": "shared_living",
+  "n_talk": 30
+ },
+ "game_055.md": {
+  "game_id": "shared_living_0002__single-batch__gemma-4-31b__20261028T061129",
+  "setup_id": "shared_living_0002",
+  "condition": "single-batch",
+  "domain": "shared_living",
+  "n_talk": 25
+ },
+ "game_056.md": {
+  "game_id": "shared_living_0003__single-batch-process__gemma-4-31b__20261028T081305",
+  "setup_id": "shared_living_0003",
+  "condition": "single-batch-process",
+  "domain": "shared_living",
+  "n_talk": 40
+ },
+ "game_057.md": {
+  "game_id": "shared_living_0003__single-batch__gemma-4-31b__20261028T061349",
+  "setup_id": "shared_living_0003",
+  "condition": "single-batch",
+  "domain": "shared_living",
+  "n_talk": 35
+ },
+ "game_058.md": {
+  "game_id": "shared_living_0001__single-batch-stepped__gemma-4-31b__20261028T060627",
+  "setup_id": "shared_living_0001",
+  "condition": "single-batch-stepped",
+  "domain": "shared_living",
+  "n_talk": 30
+ },
+ "game_059.md": {
+  "game_id": "shared_living_0002__single-batch-stepped__gemma-4-31b__20261028T060816",
+  "setup_id": "shared_living_0002",
+  "condition": "single-batch-stepped",
+  "domain": "shared_living",
+  "n_talk": 25
+ },
+ "game_060.md": {
+  "game_id": "shared_living_0003__single-batch-stepped__gemma-4-31b__20261028T060946",
+  "setup_id": "shared_living_0003",
+  "condition": "single-batch-stepped",
+  "domain": "shared_living",
+  "n_talk": 29
+ },
+ "game_061.md": {
+  "game_id": "shared_living_0001__single-online__gemma-4-31b__20261028T062716",
+  "setup_id": "shared_living_0001",
+  "condition": "single-online",
+  "domain": "shared_living",
+  "n_talk": 60
+ },
+ "game_062.md": {
+  "game_id": "shared_living_0002__single-online__gemma-4-31b__20261028T063035",
+  "setup_id": "shared_living_0002",
+  "condition": "single-online",
+  "domain": "shared_living",
+  "n_talk": 56
+ },
+ "game_063.md": {
+  "game_id": "shared_living_0003__single-online__gemma-4-31b__20261028T063411",
+  "setup_id": "shared_living_0003",
+  "condition": "single-online",
+  "domain": "shared_living",
+  "n_talk": 40
+ }
+}

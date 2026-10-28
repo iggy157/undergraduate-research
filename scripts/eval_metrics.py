@@ -9,6 +9,10 @@ Family A (conversation; higher = less verbose / less repetitive):
   nonrep          Bo et al. 2026 Non-repetition: per speaker, over consecutive own utterances,
                   1 - max(Jaccard(words), cos(MiniLM)); mean over speakers. --no-embed drops the cos term.
   skip, over, empty_turns   descriptive: pass tokens and turns in which every living speaker passed
+  distinct2/3/4   PLACES Distinct-N over all talk tokens of the game (corpus level)
+  evidence        Bo et al. Evidence usage: share of a speaker's utterances (rounds >= 2) that contain a word bigram of
+                  one of the speaker's own cards (discussion domains); speaker mean, game mean
+  stance          Bo et al. Stance: mean cos(MiniLM(utterance), MiniLM(persona + concern)); descriptive
 Family B (information; lower = fewer leaks):
   early_option    talk rows before the reveal round that contain a full option name (discussion domains)
   private_use     talk rows (round >= 2) that carry >= 2 distinctive words (or 1 number word) of a card the
@@ -128,6 +132,19 @@ def game_metrics(game_dir: Path, embed: Embedder | None) -> tuple[dict, list[dic
         if vals:
             per_speaker.append(st.mean(vals))
     m["nonrep"] = st.mean(per_speaker) if per_speaker else float("nan")
+    toks = [w for r in talks for w in words(r.text)]
+    for n in (2, 3, 4):
+        grams = [tuple(toks[i:i + n]) for i in range(len(toks) - n + 1)]
+        m[f"distinct{n}"] = len(set(grams)) / len(grams) if grams else float("nan")
+    if embed is not None:
+        ptext = {}
+        for n in ctx.names:
+            seat = ctx.seat_of_name(n)
+            prob = ctx.problem_of_seat(seat) if not aiwolf else None
+            ptext[n] = ctx.persona_of_name(n).personality + (" " + prob if prob else "")
+        P = {n: e for n, e in zip(ctx.names, embed([ptext[n] for n in ctx.names]))}
+        vals = [float(E[r.text] @ P[r.agent]) for r in talks if r.agent in P]
+        m["stance"] = st.mean(vals) if vals else float("nan")
     m["skip"] = sum(1 for r in passes if r.text == str(ctx.rules["pass_skip"]))
     m["over"] = sum(1 for r in passes if r.text == str(ctx.rules["pass_over"]))
     turns: dict[tuple, list[str]] = defaultdict(list)
@@ -166,6 +183,15 @@ def game_metrics(game_dir: Path, embed: Embedder | None) -> tuple[dict, list[dic
                 own_cards[n].add(cid)
         # distinctive words of a card: >= 5 letters (or a number word), not public, and in no other card's text
         raw = {cid: content_words(c["text"]) - public for cid, c in cards.items()}
+        def bigrams(text):
+            ws = words(text)
+            return {tuple(ws[i:i + 2]) for i in range(len(ws) - 1)}
+        ev_by = defaultdict(list)
+        for r in talks:
+            if r.round >= 2 and own_cards[r.agent]:
+                kb = set().union(*[bigrams(cards[c]["text"]) for c in own_cards[r.agent]])
+                ev_by[r.agent].append(1.0 if bigrams(r.text) & kb else 0.0)
+        m["evidence"] = st.mean([st.mean(v) for v in ev_by.values()]) if ev_by else float("nan")
         distinctive = {cid: {w for w in ws if (len(w) >= 5 or w in NUMBER_WORDS)
                              and not any(w in raw[o] for o in raw if o != cid)} for cid, ws in raw.items()}
         said_by_investigator: dict[str, set[str]] = defaultdict(set)
@@ -243,7 +269,7 @@ def main(argv=None) -> int:
         for c in cands:
             f.write(json.dumps(c, ensure_ascii=False) + "\n")
     # per-condition summary (mean over games; one replicate per setup is assumed, replicates are averaged first)
-    cols_a = ["n_talk", "words_per_utt", "cap_pin", "nonrep", "skip", "over", "empty_turns"]
+    cols_a = ["n_talk", "words_per_utt", "cap_pin", "nonrep", "distinct2", "evidence", "stance", "skip", "over", "empty_turns"]
     cols_b = ["early_option", "private_use", "seer_first_wolf", "unfounded_wolf", "wolf_executed_day1"]
     lines = [f"# Automatic metrics: {a.log_dir} ({len(rows)} games; embed={'off' if a.no_embed else 'MiniLM'})", ""]
     for dom in sorted({r["domain"] for r in rows}):
