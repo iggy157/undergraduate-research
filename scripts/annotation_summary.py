@@ -199,36 +199,28 @@ def main(argv=None) -> int:
                 out.append(f"| {cond} | {p} | {t} | {n} | {100 * e / n:.0f} | {100 * rr / n:.0f} |")
         out.append("")
     if len(raters) >= 2:
-        out.append("## Agreement between raters (utterances annotated by both)\n")
-        out.append("| flag | n | percent agreement | Cohen's kappa | rate " + raters[0] + " | rate " + raters[1] + " |")
-        out.append("|---|---|---|---|---|---|")
-        r0, r1 = raters[0], raters[1]
-        for f in flags:
-            A, B = [], []
-            for g in games:
-                x, y = ann[r0].get(g), ann[r1].get(g)
-                if not x or not y:
+        from itertools import combinations
+        out.append("## Agreement between raters (utterances annotated by both; every pair)\n")
+        out.append("| pair | flag | n | percent agreement | Cohen's kappa | rate A | rate B |")
+        out.append("|---|---|---|---|---|---|---|")
+        for r0, r1 in combinations(raters, 2):
+            for f in flags + (["content"] if v2 else []):
+                A, B = [], []
+                for g in games:
+                    x, y = ann[r0].get(g), ann[r1].get(g)
+                    if not x or not y:
+                        continue
+                    for seq in x:
+                        if seq in y:
+                            A.append(x[seq][f])
+                            B.append(y[seq][f])
+                if not A:
                     continue
-                for seq in x:
-                    if seq in y:
-                        A.append(x[seq][f])
-                        B.append(y[seq][f])
-            if A:
-                po = sum(1 for p, q in zip(A, B) if p == q) / len(A)
-                out.append(f"| {f} | {len(A)} | {po:.2f} | {kappa(A, B):.2f} | {100 * sum(A) / len(A):.1f} | {100 * sum(B) / len(B):.1f} |")
-        if v2:
-            A, B = [], []
-            for g in games:
-                x, y = ann[r0].get(g), ann[r1].get(g)
-                if not x or not y:
-                    continue
-                for seq in x:
-                    if seq in y:
-                        A.append(x[seq]["content"])
-                        B.append(y[seq]["content"])
-            if A:
-                exact = sum(1 for p, q in zip(A, B) if p == q) / len(A)
-                out.append(f"| content (0/1/2) | {len(A)} | {exact:.2f} | - | mean {st.mean(A):.2f} | mean {st.mean(B):.2f} |")
+                po = sum(1 for a_, b_ in zip(A, B) if a_ == b_) / len(A)
+                if f == "content":
+                    out.append(f"| {r0} vs {r1} | content (0/1/2) | {len(A)} | {po:.2f} | - | mean {st.mean(A):.2f} | mean {st.mean(B):.2f} |")
+                else:
+                    out.append(f"| {r0} vs {r1} | {f} | {len(A)} | {po:.2f} | {kappa(A, B):.2f} | {100 * sum(A) / len(A):.1f} | {100 * sum(B) / len(B):.1f} |")
         out.append("")
     text = "\n".join(out) + "\n"
     (d / "summary.md").write_text(text, encoding="utf-8")
