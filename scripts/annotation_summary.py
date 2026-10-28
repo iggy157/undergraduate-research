@@ -69,7 +69,7 @@ def main(argv=None) -> int:
     ann: dict[str, dict[str, dict[int, dict]]] = defaultdict(dict)
     problems = []
     for fp in sorted((d / "out").glob("*.json")):
-        m = re.match(r"(\w+?)_(\d+)\.json$", fp.name)
+        m = re.match(r"([A-Za-z0-9]+)_(?:_[^/]+|\d+)\.json$", fp.name)
         if not m:
             continue
         rater = m.group(1)

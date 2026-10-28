@@ -38,7 +38,7 @@ def main(argv=None) -> int:
         utts[g] = rows
     ann = defaultdict(dict)
     for fp in sorted((d / "out").glob("*.json")):
-        m = re.match(r"(\w+?)_(\d+)\.json$", fp.name)
+        m = re.match(r"([A-Za-z0-9]+)_(?:_[^/]+|\d+)\.json$", fp.name)
         if not m:
             continue
         for g, items in json.loads(fp.read_text()).items():

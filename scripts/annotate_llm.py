@@ -6,8 +6,9 @@ usage: .venv/bin/python scripts/annotate_llm.py --annot-dir <dir with games/ and
 
 One request per game: system = the instruction file, user = the transcript + a reminder of the output format.
 The reply is parsed as a JSON list (code fences tolerated); utterances missing from the reply are reported and
-left out. Output: out/<rater>_<NNN>.json per game (NNN = the game number) (same shape as the subagent outputs: {game: [items]}) plus
-raw/<rater>_<NNN>.txt with the model's full reply, so that scripts/annotation_summary.py can aggregate.
+left out. Output: out/<rater>__<game stem>.json per game ({game: [items]}) plus raw/<rater>__<game stem>.txt with the model's
+full reply, so that scripts/annotation_summary.py can aggregate. (Earlier versions numbered the files by the position in
+the game list, which shifts when games are added; names are now stable.)
 """
 from __future__ import annotations
 
@@ -53,7 +54,7 @@ def main(argv=None) -> int:
     instructions = (d / "ANNOTATION_INSTRUCTIONS.md").read_text(encoding="utf-8")
     all_games = sorted(p.name for p in (d / "games").glob("*.md"))
     games = a.games.split(",") if a.games else all_games
-    index = {g: f"{i:03d}" for i, g in enumerate(all_games)}  # output number = position in the sorted game list
+    index = {g: g[:-3] if g.endswith(".md") else g for g in all_games}  # output name = <rater>__<game file stem>.json (stable across runs)
     (d / "out").mkdir(exist_ok=True)
     (d / "raw").mkdir(exist_ok=True)
     client = None if a.reparse else OpenAI(base_url=a.base_url, api_key=a.api_key, timeout=1800, max_retries=1)
@@ -62,7 +63,7 @@ def main(argv=None) -> int:
         extra["chat_template_kwargs"] = json.loads(a.chat_template_kwargs)
     n_ok = 0
     for g in games:
-        if not a.reparse and (d / "out" / f"{a.rater}_{index[g]}.json").exists():
+        if not a.reparse and (d / "out" / f"{a.rater}__{index[g]}.json").exists():
             n_ok += 1
             continue  # already annotated (the runs over a growing set of games are restarted as games complete)
         text = (d / "games" / g).read_text(encoding="utf-8")
@@ -70,7 +71,7 @@ def main(argv=None) -> int:
         user = (f"Annotate every utterance of the transcript below ({len(seqs)} utterances, ids "
                 f"{seqs[0]}..{seqs[-1]}). Output only the JSON list, one object per utterance in order.\n\n" + text)
         t0 = time.time()
-        raw_fp = d / "raw" / f"{a.rater}_{index[g]}.txt"
+        raw_fp = d / "raw" / f"{a.rater}__{index[g]}.txt"
         if a.reparse:
             if not raw_fp.exists():
                 print(f"{g}: no raw reply", file=sys.stderr)
@@ -105,7 +106,7 @@ def main(argv=None) -> int:
                          "note": str(it.get("note", ""))[:200]}
         out = [by_seq[s] for s in seqs if s in by_seq]
         missing = [s for s in seqs if s not in by_seq]
-        (d / "out" / f"{a.rater}_{index[g]}.json").write_text(json.dumps({g: out}, ensure_ascii=False, indent=1) + "\n",
+        (d / "out" / f"{a.rater}__{index[g]}.json").write_text(json.dumps({g: out}, ensure_ascii=False, indent=1) + "\n",
                                                                encoding="utf-8")
         n_ok += 1
         print(f"{g}: {len(out)}/{len(seqs)} utterances, missing {missing[:5]}{'...' if len(missing) > 5 else ''}, "
