@@ -1,0 +1,65 @@
+{
+ "0": [
+  "aiwolf_0001__C1",
+  "candidate_selection_0003__C5",
+  "shared_living_0001__C4",
+  "shared_living_0002__C3",
+  "shared_living_0003__C2"
+ ],
+ "1": [
+  "aiwolf_0001__C2",
+  "aiwolf_0002__C1",
+  "shared_living_0001__C5",
+  "shared_living_0002__C4",
+  "shared_living_0003__C3"
+ ],
+ "2": [
+  "aiwolf_0001__C3",
+  "aiwolf_0002__C2",
+  "aiwolf_0003__C1",
+  "shared_living_0002__C5",
+  "shared_living_0003__C4"
+ ],
+ "3": [
+  "aiwolf_0001__C4",
+  "aiwolf_0002__C3",
+  "aiwolf_0003__C2",
+  "candidate_selection_0001__C1",
+  "shared_living_0003__C5"
+ ],
+ "4": [
+  "aiwolf_0001__C5",
+  "aiwolf_0002__C4",
+  "aiwolf_0003__C3",
+  "candidate_selection_0001__C2",
+  "candidate_selection_0002__C1"
+ ],
+ "5": [
+  "aiwolf_0002__C5",
+  "aiwolf_0003__C4",
+  "candidate_selection_0001__C3",
+  "candidate_selection_0002__C2",
+  "candidate_selection_0003__C1"
+ ],
+ "6": [
+  "aiwolf_0003__C5",
+  "candidate_selection_0001__C4",
+  "candidate_selection_0002__C3",
+  "candidate_selection_0003__C2",
+  "shared_living_0001__C1"
+ ],
+ "7": [
+  "candidate_selection_0001__C5",
+  "candidate_selection_0002__C4",
+  "candidate_selection_0003__C3",
+  "shared_living_0001__C2",
+  "shared_living_0002__C1"
+ ],
+ "8": [
+  "candidate_selection_0002__C5",
+  "candidate_selection_0003__C4",
+  "shared_living_0001__C3",
+  "shared_living_0002__C2",
+  "shared_living_0003__C1"
+ ]
+}

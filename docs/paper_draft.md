@@ -140,8 +140,8 @@ single-batch と multi-public と single-online の system は役割段落だけ
 
 ### 4.2 人手評価
 
-- **材料**: 同じ設定で生成した 2 条件の台本を、書き手ビュー (票・処刑・夜の行動・調査の記録を含む全記録) の共通文法で並べ、条件名を伏せて `Transcript A` / `Transcript B` とする。1 対の長さは 2,500〜4,500 語。
-- **問い**: 「どちらが実際の人間の議論に見えるか」を A / B / 同等で答え、理由を 3〜6 文で書く (具体的な箇所を指す)。指示文に「長さや量で評価しない」「決定の良し悪し、礼儀正しさ、ゲームの巧拙で評価しない」「発話が直前の発言に応えているか、話すことがあるときに話し無いときに譲っているか、テンポが人の会話か、人物が区別できるか、を見る」を明記する (付録 C の指示文を人手にもそのまま使う)。
+- **材料**: 同じ設定で生成した 2 条件の台本を、条件名を伏せて `Transcript A` / `Transcript B` として並べる。見せるのは期間の見出し、発話 (順序どおり)、票、結果だけ。ターン見出し、Skip / Over (人間の議論に存在しない手続きの記号。ルールで数えるだけにする)、夜の行動と調査の行 (議論の読者が見ない秘密情報) は落とす。発言しなかった人の行は無い。1 対の長さは 2,000〜4,000 語。
+- **問い**: 「この件について実際の人間が議論し、下すべき決定に向かっているように見えるのはどちらか」を A / B / 同等で答え、理由を 3〜6 文で書く (具体的な箇所を指す)。指示文に「長さや量で評価しない」「決定の良し悪し、礼儀正しさ、ゲームの巧拙で評価しない」を明記し、それ以上の観点 (雑談の扱いなど) は書かない (付録 C の指示文を人手にもそのまま使う)。表示と問いは本実験前にこの形に固定し、別の版は載せない (§5.3 の感度を踏まえる)。
 - **対 (主要比較、本実験前に固定)**: C1 single-batch vs multi-private (主張の本体)、C2 single-batch vs single-online、C3 single-online vs multi-public、C4 multi-public vs multi-private (梯子の 3 段)、C5 single-batch vs single-batch-process (筋書きの効果)。single-batch vs single-batch-stepped は台本がほぼ同一なので人手には回さず、自動指標と表現の恒等性 (§6) で示す。
 - **規模**: 各比較 45 対 (3 ドメイン × 15 設定) = 225 対。各対を 2 名が独立に判定し、順序は対ごとに無作為化する (450 判定)。符号検定の検出力は、真の勝率 0.70 で 0.77、0.80 で 0.98 (n = 45、両側 5%)。パイロットの LLM 判定では C1 0.69、C3 0.83、C4 0.85 (multi-private 側) だった。C5 は差が小さいと予想されるので同等性の判定 (勝率の 95% 信頼区間が 0.40〜0.60 に収まるか) とし、45 対では幅が広いことを限界に書く。
 - **評価者**: 研究室のメンバー 4 名 (著者を除く)。1 対 5〜7 分として 1 人あたり約 10 時間を 2 週間に分けて行う。台本は英語のまま読み、ドメインごとの用語集を渡す。一致率は Cohen's κ (対ごとの 2 名) と、理由の分類の一致で報告する。
@@ -209,21 +209,24 @@ single-batch と multi-public と single-online の system は役割段落だけ
 
 ### 5.3 人間らしさの対比較 (LLM 判定、人手の代用)
 
-45 対 (9 設定 × 5 比較) を付録 C の指示文で、Claude 系 2 モデル (Opus、Sonnet) に順序を入れ替えて 2 回ずつ判定させた (180 判定)。人手評価は未実施で、ここでの判定は設計の確認 (問いが意図した性質を拾うか、長さに引きずられないか) のためである。
+45 対 (9 設定 × 5 比較) を Claude 系 2 モデル (Opus、Sonnet) に順序を入れ替えて 2 回ずつ判定させた (180 判定 × 2 ラウンド)。人手評価は未実施で、ここでの判定は設計の確認 (問いと表示が意図した性質を拾うか、長さに引きずられないか) のためである。2 つの表示と問いで行った。
 
-**表 5-3: 第 1 条件の勝率 (両順序、同等 = 0.5)**
+- **ラウンド 1**: 全記録 (ターン見出し、Skip / Over、夜の行動、調査の行を含む) を見せ、問いは「実際の人間の議論に見えるのはどちらか」。指示に「話すことがあれば話し、無ければ譲っているか」の観点を含めた。
+- **ラウンド 2** (本設計、付録 C): 発話と票と結果だけを見せ (Skip / Over は人間の議論に存在しない記号なので判定者に見せず、ルールで数えるだけにする)、問いは「この件について実際の人間が議論し、下すべき決定に向かっているように見えるのはどちらか」。具体的な観点は書かない。
 
-| 比較 | 第 1 vs 第 2 | Opus | Sonnet | 全体 | 人狼 | 候補者選定 | 共同生活 |
-|---|---|---|---|---|---|---|---|
-| C1 | single-batch vs multi-private | 0.56 | 0.83 | **0.69** | 0.92 | 0.67 | 0.50 |
-| C2 | single-batch vs single-online | 0.61 | 0.94 | 0.78 | 1.00 | 0.75 | 0.58 |
-| C3 | single-online vs multi-public | 0.94 | 0.72 | 0.83 | 0.92 | 0.83 | 0.75 |
-| C4 | multi-public vs multi-private | 0.19 | 0.11 | 0.15 | 0.25 | 0.12 | 0.08 |
-| C5 | single-batch vs single-batch-process | 0.39 | 0.50 | 0.44 | 0.83 | 0.50 | 0.00 |
+**表 5-3: 第 1 条件の勝率 (両順序、2 判定者、同等 = 0.5)**
 
-検証: 2 判定者の一致 62/90 (0.69)。順序を入れ替えて勝者が反転した対は各判定者 8/45 (0.18)。先に示した方が勝った率 0.47 / 0.41 (位置バイアスなし)。**長い方が勝った率 0.42** (長さバイアスは予備評価と逆向きに消えた)。
+| 比較 | 第 1 vs 第 2 | ラウンド 1 | ラウンド 2 | ラウンド 2 Opus / Sonnet | ラウンド 2 人狼 / 候補者 / 共同生活 |
+|---|---|---|---|---|---|
+| C1 | single-batch vs multi-private | 0.69 | **0.39** | 0.61 / 0.17 | 0.50 / 0.33 / 0.33 |
+| C2 | single-batch vs single-online | 0.78 | **0.44** | 0.44 / 0.44 | 0.50 / 0.58 / 0.25 |
+| C3 | single-online vs multi-public | 0.83 | 0.89 | 0.94 / 0.83 | 0.83 / 1.00 / 0.83 |
+| C4 | multi-public vs multi-private | 0.15 | 0.25 | 0.28 / 0.22 | 0.50 / 0.08 / 0.17 |
+| C5 | single-batch vs single-batch-process | 0.44 | **0.19** | 0.11 / 0.28 | 0.25 / 0.25 / 0.08 |
 
-読み: 「人間の議論に見えるか」を問うと、single-batch は multi-private に 0.69 で勝ち、梯子の各段 (C2, C3) でも書き手側が勝つ。multi-private は multi-public に 0.85 で勝つ (全員の秘密を知る席は「知らないふり」で発話が形式的になる)。ドメイン差が大きく、人狼では single が圧倒し、共同生活では五分である。共同生活では multi の雑談 (からかい、名前での呼びかけ) が「人間らしい」と読まれ、single の一斉 Skip / Over が「機械的」と読まれた。筋書き (process) は single-batch を共同生活でむしろ人間らしくした (C5 の共同生活 0.00 = process 側が 12/12 で勝ち) が、人狼では逆 (0.83)。判定者の理由の分類 (タグ上位): single が勝つとき「直前の発言に応える」「ターンを埋めている (相手の欠点)」「話すことがなければ譲る」「定型の締め (相手の欠点)」「人物の区別」; multi が勝つとき「直前の発言に応える」「本当の意見対立」「間違いと訂正」。一斉の Skip / Over は両方向で「機械的」と指摘され、single の弱点として本文に書く。
+検証値 (ラウンド 1 → 2): 判定者間一致 0.69 → 0.78。順序を入れ替えて勝者が反転した対 8/45 → 11/45 (Opus)、17/45 (Sonnet)。先に示した方が勝った率 0.47 / 0.41 → 0.40 / 0.31 (ラウンド 2 では後に示した方が勝ちやすい)。長い方が勝った率 0.42 → 0.56。
+
+読み: 安定しているのは C3 (全知の 1 つの書き手 > 全員の秘密を知る席ごとの生成) と C4 (multi-private > multi-public) で、「知っていて知らないふりをする」席の発話は両ラウンドで形式的と読まれた。**C1 と C2 は表示と問いで向きが変わった**。ラウンド 1 では single の短さと譲りが「人の会話の速さ」と読まれ、ラウンド 2 では同じ短さが「薄い」「数行で決まる」と読まれ、multi の段階的な積み上げ・摩擦・譲歩が「本当に議論している」と読まれた (Sonnet で顕著)。筋書き (process) はラウンド 2 で明確に有利になった (発言者の関心事が最初に述べられ、Round 3 の立場がそこから続く、と理由に書かれている)。パイロットの範囲では、「single のほうが人間らしい」は判定の枠に依存する主張であり、本実験では (1) 表示と問いをラウンド 2 の形に固定して人手で測り、(2) 族 A の主張を自動指標 (語数・張りつき・反復・Skip / Over) と人手の両方で支え、人手の向きが割れた場合はそのまま報告する。
 
 ### 5.4 コスト
 
@@ -237,7 +240,7 @@ single-batch と multi-public と single-online の system は役割段落だけ
 
 ### 5.5 仮の結論
 
-パイロットの範囲では、(a) 会話としての質 (人間らしさの対比較、語数、張りつき、反復) は single-batch が multi-private より良く、差の最大の段は「プロンプトの目標と履歴の置き場所」(stepped → online) にある。(b) 情報の整合性は multi-private だけが保っており、全役職を知る条件では占い師が必ず当てる。(c) 分割自体は効かない (batch = stepped)。(d) 筋書きの効果はドメインで向きが変わる。(e) single の弱点は一斉の Skip / Over の機械らしさと、全知の漏洩である。主張の向きは本実験で確定する。
+パイロットの範囲では、(a) 会話としての質のうち自動指標 (語数、張りつき、反復、Skip / Over) は single-batch が multi-private より良く、差の最大の段は「プロンプトの目標と履歴の置き場所」(stepped → online) にある。人間らしさの対比較は表示と問いで向きが変わり (0.69 と 0.39)、人手で確定させる。(b) 情報の整合性は multi-private だけが保っており、全役職を知る条件では占い師が必ず当てる。(c) 分割自体は効かない (batch = stepped)。(d) 筋書きの効果はドメインで向きが変わる。(e) single の弱点は一斉の Skip / Over の機械らしさと、全知の漏洩である。主張の向きは本実験で確定する。
 
 ## 6. 補助分析: 発話前表現の恒等性と将来属性の復号可能性
 
@@ -262,7 +265,7 @@ single-batch と multi-public と single-online の system は役割段落だけ
 
 - **分割と表現**: 差はプロンプトの目標・履歴の置き場所・結末の決め手・文脈の分割・情報量に帰属させる設計にしたが、stepped と online の差は「目標」と「置き場所」をまとめて含む (さらに分けるには online の役割文を batch の履歴置き場で使う条件が要る。将来課題)。
 - **目的関数の違い**: single-batch は「整合的な架空の議論を書く」課題、multi-private は「与えられた情報で意思決定する」課題であり、文面を揃えても解消しない。本研究は会話としての質と情報の整合性を別々に記述し、意思決定の質は主張しない。
-- **人間らしさの判定の限界**: 「人間の議論に見えるか」は評価者の読みに依存し、ドメイン差が大きい (共同生活では五分)。一斉の Skip / Over は single の機械らしさとして判定を下げる。人手評価は 225 対 × 2 名で、評価者 4 名の一致率を報告する。
+- **人間らしさの判定の限界**: 「人間の議論に見えるか」は評価者の読みと、表示・問いの立て方に依存する (パイロットでは C1 が 0.69 と 0.39)。本実験では表示と問いを 1 つに固定して事前に明記し、ドメイン別に報告する。人手評価は 225 対 × 2 名で、評価者 4 名の一致率と順序効果を報告する。
 - **漏洩検出の再現率**: 語の照合は言い換えを拾えない (パイロットで本物 2 件のうち 1 件を見逃し)。本実験では LLM による候補生成を加え、全候補を人手で確認して精度を報告する。人狼の全知指標 (占い師の初回命中) は再現率の問題がなく、主指標にする。
 - **multi-public**: 診断用条件。人狼ではゲームの前提が変わる。
 - **筋書き**: 生成モデル自身が設定から書く。効果の向きがドメインで変わる (パイロット) ので、本実験ではドメイン別に報告する。
@@ -546,48 +549,43 @@ Candidates: A, B, C, D
 
 
 
-## 付録 C: 対比較の判定指示文 (人手と LLM 判定に共通)
+## 付録 C: 対比較の判定指示文 (人手と LLM 判定に共通、ラウンド 2 = 本設計)
 
 ````
-# Pairwise judgement: which transcript reads more like a discussion among real humans?
+# Pairwise judgement: which transcript reads more like real people discussing the matter?
 
-You will read pairs of transcripts. The two transcripts of a pair come from the same five-person discussion setting
-(same topic, same participants and personalities, same hidden roles or private findings) but were produced in
-different ways. Transcript grammar: `## Day n` / `## Round n` periods, `### Talk` with `#### Turn t of 4`,
-one line per speaker `- **Name**: utterance`; `Skip` = the speaker passes this turn, `Over` = the speaker leaves
-the round; `### Vote`, `### Action` (night actions or things looked into) and `## Result` are the record of the
-session. Utterances are limited to 40 words by the rules of the session in both transcripts.
+You will read pairs of transcripts. The two transcripts of a pair are records of the same five-person discussion
+setting (same matter to decide, same participants and personalities, same hidden roles or private findings), produced
+in different ways. Each record shows the discussion period by period (`## Day n` / `## Round n`), one line per
+utterance in the order spoken (`- **Name**: utterance`), the votes at the end of a period (`### Vote`) and the
+outcome (`## Result`). Participants have several chances to speak in each period; a participant who did not speak at
+a given chance has no line there. Utterances are limited to 40 words by the rules of the session in both transcripts.
 
-Question (answer it for each pair): **Which of the two reads more like a discussion among real humans?**
+Question (answer it for each pair): **Which of the two reads more like real people discussing this matter and
+working their way to the decision they have to make?**
 
-Judge the discussion as a conversation:
-- do utterances respond to what was just said, or talk past it;
-- do people speak when they have something to say and yield (Skip / Over) when they do not, or keep talking
-  because turns remain;
-- does the pace feel like people talking, or like filling a form;
-- do the participants sound like distinct people who stay themselves.
+Judge the record as a conversation among people with a task: whether what is said responds to what was said before
+and carries the discussion towards the decision, whether the pace reads like people talking, whether the participants
+come across as distinct people who stay themselves.
 
-Do **not** judge by length or by how much is said: a longer or more detailed transcript is not more human for
-that reason, and a shorter one is not less human for that reason. Do not judge by the quality or correctness of
-the final decision, by politeness, or by how well the game was played.
+Do **not** judge by length or by how much is said: a longer or more detailed transcript is not more human for that
+reason, and a shorter one is not less human for that reason. Do not judge by the quality or correctness of the final
+decision, by politeness, or by how well the game was played.
 
 For each pair, answer with exactly one of `A`, `B`, `Tie`, then explain the judgement in 3–6 sentences pointing to
-concrete places in the transcripts (period / turn / speaker). Write the explanation before you settle on the
-answer if that helps, but report only the final answer.
+concrete places in the transcripts (period / speaker). Write the explanation before you settle on the answer if that
+helps, but report only the final answer.
 
 Output: one JSON object per pair, written together as a JSON list to the output file given in your task:
 ```
-[{"pair": "<file name without _o1/_o2.md>", "verdict": "A" | "B" | "Tie",
+[{"pair": "<file name without _o1/_o2.md, e.g. aiwolf_0001__C1>", "verdict": "A" | "B" | "Tie",
   "reasons": "<3-6 sentences>",
-  "cues": ["<short tag>", ...]   // the kinds of evidence you used, e.g. "responds to previous speaker",
-                                  // "yields when nothing to say", "formulaic closings", "repeats own point",
-                                  // "distinct voices", "talks past others", "fills turns"
+  "cues": ["<short tag>", ...]   // the kinds of evidence you used, in your own words
  }, ...]
 ```
 Read only the files named in your task. Do not look for other files in the directory or elsewhere; do not modify
 any file other than your output file.
 ````
-
 
 ## 付録 D: 筋書き生成の要求文 (system は single-batch と同一、user が以下)
 

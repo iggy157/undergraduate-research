@@ -29,3 +29,23 @@ docs/paper_draft.md v4 §4 の評価設計を、パイロット 6 (log/_pilot6�
 
 - 人手評価 (225 対 × 2 名) は本実験の台本で行う。指示文は JUDGE_INSTRUCTIONS.md をそのまま使う。
 - 本実験では非公開情報の候補生成に LLM の問い (カードの所有表つき) を加え、全候補を人手確認して精度を報告する。
+
+## 第 2 ラウンド (2026-10-28、表示と問いを変更)
+
+ユーザの指摘: Skip / Over は人間の議論には存在しない記号で、判定者の読解に委ねるべきでない。ジャッジには発話だけを見せ、Skip / Over はルールで数えるだけにする。問いは「タスクの解決に向かって人間らしく議論できている方」にする (雑談などの具体的な観点は書かない)。
+
+変更: `scripts/render_judge_pairs.py --view judge` (既定)。Day / Round 見出し + 発話 + 票 + 結果のみ。ターン見出し、Skip / Over、夜の行動、調査の行を落とす。指示文 round2/JUDGE_INSTRUCTIONS.md (Skip / Over の説明なし、問いは「real people discussing this matter and working their way to the decision they have to make」)。同じ 45 対、同じ 2 判定者 × 2 順序。
+
+| 比較 | 第 1 条件 | round 1 (全記録 + 譲りの観点) | round 2 (発話のみ + 決定に向かう議論) | round 2 Opus / Sonnet |
+|---|---|---|---|---|
+| C1 | single-batch vs multi-private | 0.69 | **0.39** | 0.61 / 0.17 |
+| C2 | single-batch vs single-online | 0.78 | **0.44** | 0.44 / 0.44 |
+| C3 | single-online vs multi-public | 0.83 | 0.89 | 0.94 / 0.83 |
+| C4 | multi-public vs multi-private | 0.15 | 0.25 | 0.28 / 0.22 |
+| C5 | single-batch vs single-batch-process | 0.44 | **0.19** | 0.11 / 0.28 |
+
+検証値: 判定者間一致 0.69 → 0.78。順序で反転 8/45 → 11/45 (Opus)、17/45 (Sonnet)。先に示した方の勝率 0.47 / 0.41 → 0.40 / 0.31 (後に示した方が勝ちやすい位置バイアスが出た)。長い方が勝った率 0.42 → 0.56 (Sonnet 0.61)。
+
+読み: single を支えていた手がかり (譲る、ターンを埋めない) が表示から消え、問いが「決定に向かう議論」になったことで、判定者は multi の「段階的な積み上げ」「摩擦と譲歩」「人物の一貫性」を人間らしいと読み、single の短さを「薄い」「数行で決まる」と読んだ (理由の抜粋は round2/judge_judgements.jsonl)。これは round 1 の長さバイアスと同じ方向の読みが問いの枠で戻ってきたことを意味し、人間らしさの判定は**表示と問いの立て方に強く依存する**。C3 (online > public) と C4 (private > public) は両ラウンドで安定。筋書き (process) は round 2 で明確に有利 (0.81)。
+
+設計への含意: (1) 人手評価の表示と問いは本実験前に 1 つに固定し、両方の版を論文に載せない (事後選択に見える)。(2) 族 A の主張は人手の対比較だけに頼らず、自動指標 (語数、張りつき、反復、Skip / Over) を同じ重みで置く。(3) 位置バイアスが出たので、人手でも順序の無作為化と順序効果の報告が必須。
