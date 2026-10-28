@@ -114,3 +114,28 @@ docs/paper_draft.md v4 §4 の評価設計を、パイロット 6 (log/_pilot6�
 判定者間一致 (1,292 発話): Responsiveness κ 0.75、Rebuttal κ 0.74、空回り κ 0.71。不応答・誤帰属・翻意は引き続きほぼ 0。
 
 読み: 1 文で single-batch の応答性は 16 ポイント上がり、multi との差は 20 → 12 に縮んだが、消えてはいない。議論ドメインでは single-batch 48〜59 vs multi 61〜84。空回り率は multi が依然 1.5〜2 倍 (候補者選定 30 vs 44 / 25 vs 33)。single-batch の短さ (15 語) と譲り (Over 11 本/局) は保たれた。お手本の水準 (名指し 5 割) には遠く、お手本の対話性は失敗モードの明示 + 「大半の発話は短く、問い返し」の指示に依っていたと見るのが妥当。
+
+## パイロット 8 (2026-10-28、@Name の 1 文を追加; single-batch と multi-private)
+
+変更 (commit e89aa57): Discussion format の Skip / Over の説明の直後に「A participant can address another directly with @Name, to ask them a question, answer theirs, agree with them, or object to what they said.」。両方式に同文。9 設定 × single-batch / multi-private (log/_pilot8、18 局)。
+
+自動指標 (議論ドメイン): 他者の名前を呼ぶ発話 single-batch 4% → 19% (@ 使用 14%)、multi-private 14% → 36% (@ 28%)。語数/発話 14.8 vs 33.3、発話数/局 38 vs 59、Over + Skip /局 12.8 vs 3.2 (いずれも single / multi)。
+
+発話単位の注釈 (100 発話あたり、Opus / Sonnet):
+
+| ドメイン | 条件 | Responsiveness | Rebuttal | 空回り |
+|---|---|---|---|---|
+| 全体 | single-batch | 62 / 59 | 13 / 7 | 19 / 18 |
+| 全体 | multi-private | 71 / 76 | 17 / 16 | 28 / 25 |
+| 人狼 | single-batch | 82 / 80 | 29 / 14 | 25 / 22 |
+| 人狼 | multi-private | 85 / 88 | 25 / 21 | 11 / 14 |
+| 候補者選定 | single-batch | 61 / 66 | 2 / 2 | 18 / 15 |
+| 候補者選定 | multi-private | 59 / 61 | 10 / 10 | 48 / 30 |
+| 共同生活 | single-batch | 43 / 32 | 10 / 6 | 15 / 16 |
+| 共同生活 | multi-private | 68 / 78 | 17 / 17 | 23 / 29 |
+
+一致 (840 発話): Responsiveness κ 0.78、Rebuttal κ 0.81、空回り κ 0.70。
+
+3 段の推移 (single-batch、全体、Opus / Sonnet): Responsiveness 42/50 → 58/66 → 62/59。multi-private: 62/70 → 70/79 → 71/76。差は 20 → 12 → 9〜17 (判定者により異なる)。ドメイン別では、人狼と候補者選定で single-batch は multi と同等 (候補者選定では空回り率が 1/2〜1/3 で単純に優位)、共同生活だけ応答性の差が残る (43/32 vs 68/78)。
+
+読み: @ の道具は両方式に使われ、single-batch の名指しは 1% → 19% になった。「マルチに勝っているか」は、簡潔さ (語数 1/2)、非冗長性 (空回り率 2/3〜1/3)、譲り (Over 4 倍) では一貫して single、応答性では 2 ドメインで同等・1 ドメインで劣る、反論は multi が多い、という状態。共同生活では single-batch の Round 1〜2 の第 1 ターンと Round 3 の票宣言が並列のままで、応答は @ を使う第 2 ターンに集中している。
