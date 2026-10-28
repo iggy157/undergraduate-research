@@ -139,3 +139,18 @@ docs/paper_draft.md v4 §4 の評価設計を、パイロット 6 (log/_pilot6�
 3 段の推移 (single-batch、全体、Opus / Sonnet): Responsiveness 42/50 → 58/66 → 62/59。multi-private: 62/70 → 70/79 → 71/76。差は 20 → 12 → 9〜17 (判定者により異なる)。ドメイン別では、人狼と候補者選定で single-batch は multi と同等 (候補者選定では空回り率が 1/2〜1/3 で単純に優位)、共同生活だけ応答性の差が残る (43/32 vs 68/78)。
 
 読み: @ の道具は両方式に使われ、single-batch の名指しは 1% → 19% になった。「マルチに勝っているか」は、簡潔さ (語数 1/2)、非冗長性 (空回り率 2/3〜1/3)、譲り (Over 4 倍) では一貫して single、応答性では 2 ドメインで同等・1 ドメインで劣る、反論は multi が多い、という状態。共同生活では single-batch の Round 1〜2 の第 1 ターンと Round 3 の票宣言が並列のままで、応答は @ を使う第 2 ターンに集中している。
+
+## パイロット 8 全体 (2026-10-28 夜、7 条件 × 9 設定 = 63 局、注釈 v2)
+
+材料: log/_pilot8 (現行プロンプト、2 文入り)。注釈 v2 (`scripts/prompts/ANNOTATION_INSTRUCTIONS_v2.md`): content (新しい内容の数 0/1/2)、resp + resp_to、resp_type、rebut、padded。注釈者: Claude Opus / Sonnet (サブエージェント、組 0〜21)、Llama 3.3 70B (bf16, TP=2, バッチ不変)、gpt-oss-120b (MXFP4、GPU 1 枚、バッチ不変なし: MoE カーネルがこの GPU で非対応 (Marlin も不可)。ユーザ判断で判定は temperature 0 のみとした)。結果は pilot8/metrics_all63.md、pilot8/annotation_v2_claude/、pilot8/leak_candidates_manual_check.md。
+
+主結果 (Opus / Sonnet、3 ドメイン):
+- 1 内容あたりの語数: single-batch 14.0 / 15.2、multi-private 40.1 / 47.1 (9 設定すべてで single が低い、比 2.2〜3.9)。内容の総量/局: 35 / 32 vs 49 / 41。語数/局: 492 vs 1937。
+- 位置を揃えた発話あたりの内容: 同じ位置で single と multi はほぼ同じ (差 ±0.3 以内)。single が発話を減らすのはターン 3〜4 で、そこは multi でも内容が 0.1〜0.5 に落ちる位置。
+- 水増し (padded): single 1〜4%、multi 23〜34%。進展なし発話の語の割合: single 15%、multi 30〜34%。
+- 応答性 63/59 vs 72/76 (人狼・候補者選定で同等、共同生活で multi)。反論 10/7 vs 15/12。応答の種類: multi は同意だけが多い。
+- 質問への返答 (resp_to から導出): multi は質問を 2.5 倍出すが名指しされた本人が答える割合 0.07〜0.15、single は 0.53〜0.65。v1 の読み「single は呼びかけても答えない」は逆だった。
+- 族 B: 占い師初回命中 single 1.00 / multi-private 0.00。開示の本物 3 件 (single のみ)、語照合の精度 0.25。
+- 一致 (Opus vs Sonnet、2,917 発話): resp κ 0.78、rebut 0.77、content 0 か否か 0.74、padded 0.57、content 0/1/2 の完全一致 0.80。
+
+運用の記録: Llama の判定サーバを最初 VLLM_BATCH_INVARIANT なしで立てて 25 局まで注釈してしまい、フラグ付きで立て直して全局やり直した (非不変の出力は scratchpad の llama_noinvariant/ に退避、使わない)。
