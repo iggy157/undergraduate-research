@@ -347,7 +347,8 @@ def repair_plan(sc: dict[str, Any], ctx: GameContext) -> list[str]:
     """Deterministic fixes of errors a model keeps making, applied before validation (recorded by the generator):
     - turn lines of a participant who already said Over in that period are dropped;
     - night actions (divine / attack) in the period whose execution already ends the game are dropped, and so are
-      any later periods (aiwolf).
+      any later periods (aiwolf);
+    - turns numbered 0, 1, 2, ... (the model counting turns from 0 as it counts Day 0) are renumbered 1, 2, 3, ...
     Returns the list of repairs made."""
     done: list[str] = []
     over_tok = str(ctx.rules["pass_over"])
@@ -355,6 +356,11 @@ def repair_plan(sc: dict[str, Any], ctx: GameContext) -> list[str]:
         n = p.get("period")
         over: set[str] = set()
         turns = p.get("turns") or []
+        nums = [t.get("turn") for t in turns]
+        if turns and all(isinstance(x, int) for x in nums) and nums == list(range(len(turns))):
+            for t in turns:
+                t["turn"] = int(t["turn"]) + 1
+            done.append(f"period {n}: renumbered turns 0..{len(turns) - 1} to 1..{len(turns)}")
         for t in turns:
             lines = t.get("lines") or {}
             for name in list(lines):
