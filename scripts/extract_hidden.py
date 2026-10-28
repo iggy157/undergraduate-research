@@ -136,7 +136,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--check-only", action="store_true", help="rebuild the sequences and run the checks, no model")
     a = ap.parse_args(argv)
 
-    import torch
+    import os
+os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")  # long sequences: avoid fragmentation OOM
+import torch
     from transformers import AutoTokenizer
     tok = AutoTokenizer.from_pretrained(a.model_path)
     model = None
@@ -176,8 +178,19 @@ def main(argv: list[str] | None = None) -> int:
             if not all(ok.values()):
                 rc = 1
             if model is not None and len(ids) <= a.max_len:
-                with torch.no_grad():
-                    outp = model(torch.tensor([ids], device=a.device), output_hidden_states=True)
+                outp = None
+                for attempt in range(2):
+                    try:
+                        with torch.no_grad():
+                            outp = model(torch.tensor([ids], device=a.device), output_hidden_states=True)
+                        break
+                    except torch.OutOfMemoryError:
+                        outp = None
+                        torch.cuda.empty_cache()
+                if outp is None:  # skipped: recorded, no positions of this call go into h / positions
+                    index.setdefault("skipped_calls", []).append({"seq": call.get("seq"), "n_tokens": len(ids), "reason": "oom"})
+                    print(f"{gd.name}: call seq {call.get('seq')} skipped (OOM, {len(ids)} tokens)", file=sys.stderr)
+                    continue
                 hs = outp.hidden_states  # tuple(n_layers+1) of [1, T, H]
                 if index["layers"] is None:
                     n = len(hs)
@@ -191,6 +204,9 @@ def main(argv: list[str] | None = None) -> int:
                 for p in positions:
                     vec = torch.stack([hs[l][0, p["pos"]] for l in index["layers"]]).to(torch.float16).cpu().numpy()
                     feats.append(vec)
+                del outp, hs
+                if len(ids) > 12000:
+                    torch.cuda.empty_cache()
             for p in positions:
                 # the generation point = the position from which the first token of the line is predicted: the label
                 # token in batch / stepped, the prompt end (after the generation prompt) in the request conditions
