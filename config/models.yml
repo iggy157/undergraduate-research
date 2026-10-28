@@ -12,6 +12,12 @@ endpoints:
   local_vllm_d:
     base_url: http://localhost:8030/v1
     api_key_env: VLLM_API_KEY
+  local_vllm_e:
+    base_url: http://localhost:8040/v1
+    api_key_env: VLLM_API_KEY
+  local_vllm_f:
+    base_url: http://localhost:8050/v1
+    api_key_env: VLLM_API_KEY
 models:
   default:                         # main runs: greedy decoding (temperature 0; DESIGN §10 / paper_draft 付録 D)
     endpoint: local_vllm
@@ -60,6 +66,36 @@ models:
     logprobs: true
   default_d:                       # = default, served by instance d (local_vllm_d)
     endpoint: local_vllm_d
+    model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  default_e:                       # = default, served by instance e (local_vllm_e)
+    endpoint: local_vllm_e
+    model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  default_f:                       # = default, served by instance f (local_vllm_f)
+    endpoint: local_vllm_f
     model: gemma-4-31b
     temperature: 0
     top_p: null
