@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to be with you all. To ensure the project we choose has the human support it needs, I will look into staffing rolls for technical posts and minutes on secondments and crew strength.
+- [6] **Midori**: I'm happy to be here too. To understand how the funding is actually being utilized these days, I'll look into the travel and bench-fee lines in the ledgers and the national computing agreement and facility day rates.
+- [7] **Kenji**: I want to see how the shared services are doing! I'll check the incident logs on shared instrumentation and the accreditation and bookings at shared facilities.
+- [8] **Benjamin**: I believe it is prudent to identify where the actual bottlenecks lie. I shall examine the portfolio review of schedule overruns and the station records from partner field sites.
+- [9] **Toshio**: I will examine the closeout files of finished awards and the national repository deposit turnaround to see what has actually been delivered in the past.
+- [10] **Servas**: It seems we have a comprehensive plan. By covering the human, financial, logistical, and historical aspects, we shall have a very clear picture of the landscape before we meet the candidates.
+- [11] **Midori**: I agree, Servas. It feels like we are all looking at different but equally important pieces of the puzzle. I look forward to hearing what everyone discovers.
+- [12] **Kenji**: I'm excited too! I hope the things I find will help us pick the best project. Let's see what happens!
+- [13] **Benjamin**: Indeed. A diverse set of inquiries should prevent us from falling into the trap of collective blind spots. I suspect the data will be quite illuminating.
+- [14] **Toshio**: I agree. A broad data set is the only way to ensure our decision is based on evidence rather than intuition. I will wait for the results.
+- [15] **Servas**: Since we have all committed to our chosen records, I believe we have exhausted the need for further planning in this turn. I am content to proceed to the investigation.
+- [16] **Midori**: I agree with Servas. We have a balanced approach, and I'm eager to see how these different perspectives come together. I'm ready to move forward.
+- [17] **Kenji**: Me too! I'm all set and ready to go. Let's find out what's going on with the facilities!
+- [18] **Benjamin**: I concur. There is little utility in further deliberation until the facts are before us. I am ready to proceed.
+- [19] **Toshio**: I concur. There is nothing more to be gained from discussion until the data is retrieved. I am ready.
+- [20] **Servas**: Then let us move forward in harmony. I wish you all a productive search for the truths hidden within these records. I shall see you in the next round.
+- [21] **Midori**: Thank you, Servas. I wish you all the best with your research as well. I'll see you all soon!
+- [22] **Kenji**: Bye everyone! I'll see you in the next round! I can't wait to see what we find!
+- [23] **Benjamin**: Until then. I shall await the findings with interest. Farewell for now.
+- [24] **Toshio**: Farewell. I will see you all in the next round.
+## Round 2
+- [35] **Servas**: My findings suggest a shift in our human resources. While we have a strong glasshouse crew, we are lacking phenotyping technicians, and our senior modelling analysts are currently abroad. We must consider this.
+- [36] **Midori**: That is very helpful, Servas. I found that while computing hours are now free, animal-unit day rates have risen sharply. Also, shipping costs are up, though there is a subsidy for glasshouse space.
+- [37] **Kenji**: I found some worrying things! The spectroscopy suite was broken for eleven weeks because of a contract issue, and there's only one engineer for three institutes. But the animal facility is doing great now!
+- [38] **Benjamin**: It appears the environment is quite volatile. Field sites are suffering from natural disasters, and projects relying on live breeding colonies are significantly more prone to schedule overruns than computational ones.
+- [39] **Toshio**: I found that catalogue-style projects have provided long-term value, whereas mechanism-focused ones often remain unresolved. Additionally, the national repository's turnaround time has improved significantly, making data deposits much faster.
+- [40] **Servas**: @Midori, @Kenji, it seems the glasshouse is our strongest asset right now, both in staffing and subsidies. However, the lack of phenotyping technicians and the spectroscopy issues are concerning for certain types of research.
+- [41] **Midori**: @Servas, you're right. Between the subsidies and the crew strength, the glasshouse seems very stable. It's a relief to have some certainty, though the animal costs and staffing gaps are worrying.
+- [42] **Kenji**: Yeah, the animal facility is doing great with the new vet cover, but that spectroscopy problem is scary! If a project needs that, they might be stuck for a long time.
+- [43] **Benjamin**: It is a fascinating intersection of risks. We have a fragile field environment and a precarious spectroscopy suite, contrasted with a robust glasshouse and a highly efficient national repository. Stability seems to reside indoors.
+- [44] **Toshio**: The data suggests a clear pattern. We should prioritize projects that produce long-term utility, such as catalogues, and avoid those reliant on fragile instrumentation or high-risk biological colonies that often fail to resolve their central questions.
+- [45] **Servas**: @Toshio, your point about long-term utility is wise. If we combine that with the current stability of the glasshouse and the repository, we can find a project that is both sustainable and impactful.
+- [46] **Midori**: I agree. It seems we should look for a project that avoids the rising costs of animal units and the risks of field sites, while taking advantage of the glasshouse and free computing.
+- [47] **Kenji**: I agree! We should definitely pick something that doesn't need that broken spectroscopy machine or the field sites that keep getting flooded. Let's find a project that can actually get its work done!
+- [48] **Benjamin**: Precisely. We are looking for a proposal that minimizes exposure to environmental volatility and biological unpredictability, while maximizing the use of our currently stable infrastructure and efficient data pipelines. Logic dictates we avoid the "high-risk" categories.
+- [49] **Toshio**: I agree. We should favor a proposal that aligns with the current strengths of our infrastructure and has a historical track record of delivering tangible, lasting results rather than theoretical promises.
+- [50] **Servas**: We have reached a consensus on our criteria. We seek a project with long-term utility that leverages our stable glasshouse and repository, while avoiding animal costs, field risks, and fragile instrumentation. I am ready for the candidates.
+- [51] **Midori**: I agree completely. It feels like we have a very clear set of guidelines now. I'm looking forward to seeing which of the candidates fits these criteria best. I am ready as well.
+- [52] **Kenji**: I'm ready too! Let's see who the candidates are and find the one that fits our plan perfectly!
+- [53] **Benjamin**: The stage is set. We have a coherent framework for evaluation; now we simply need to apply it to the proposals. I am ready to see the candidates.
+- [54] **Toshio**: I agree. We have established a rational set of constraints. I am ready to evaluate the candidates against these findings.
+## Round 3
+- [60] **Servas**: Looking at our criteria, Candidate B, Plant Drought Signaling, is ideal. It utilizes the stable glasshouse crew and subsidies, avoiding the risks of field sites, animal costs, and the fragile spectroscopy suite.
+- [61] **Midori**: I agree with Servas. Candidate B fits perfectly; it leverages the glasshouse stability and subsidies we discussed, while avoiding the high animal costs and the risks associated with field sites or broken instrumentation.
+- [62] **Kenji**: I agree! Candidate B is the best choice. It uses the glasshouse, which we know is doing great, and it doesn't need the spectroscopy machine or the field sites that are in trouble!
+- [63] **Benjamin**: Candidate B is the only logical choice. A relies on volatile field sites, C depends on the failing spectroscopy suite, and D involves high-risk breeding colonies and animal costs. B aligns perfectly with our stable infrastructure.
+- [64] **Toshio**: Candidate B is the most prudent choice. It avoids the risks of mechanism-focused failure and fragile infrastructure, while aligning with the stability of the glasshouse and the efficiency of the repository. I vote for B.
+- [65] **Servas**: I concur with everyone. The alignment between the project's needs and our current institutional strengths is undeniable. I cast my vote for Candidate B.
+- [66] **Midori**: I also cast my vote for Candidate B. It is the most sustainable option and ensures the funding will be used effectively given the current subsidies and staffing.
+- [67] **Kenji**: I'm voting for Candidate B too! It's the safest and smartest pick because it uses the things that are actually working right now. Candidate B it is!
+- [68] **Benjamin**: The evidence is overwhelming. To choose any other candidate would be to willfully ignore the systemic risks we have identified. I cast my vote for Candidate B.
+- [69] **Toshio**: I have already cast my vote for Candidate B. The data leaves no room for a different conclusion.
+- [70] **Servas**: Since we are in complete agreement, there is no further need for debate. I am pleased that we have found a path that ensures both scientific progress and institutional stability. My vote remains with Candidate B.
+- [71] **Midori**: I agree. It's wonderful that we could all find such a clear and harmonious consensus. I am happy to maintain my vote for Candidate B.
+- [72] **Kenji**: I'm still voting for Candidate B! It's the best one for everyone and the facilities can handle it. I'm all set!
+- [73] **Benjamin**: Indeed. When the variables are so clearly aligned, further deliberation is merely a formality. My vote for Candidate B remains unchanged.
+- [74] **Toshio**: I agree. The evidence is conclusive and the consensus is absolute. My vote for Candidate B remains unchanged.
+- [75] **Servas**: It has been a privilege to deliberate with you all. With our shared understanding and unanimous agreement, we conclude this process. I cast my final vote for Candidate B.
+- [76] **Midori**: I also cast my final vote for Candidate B. It was a pleasure working with you all to find such a balanced and reliable choice. Farewell!
+- [77] **Kenji**: I'm casting my final vote for Candidate B too! It was so much fun working with you all. Bye-bye!
+- [78] **Benjamin**: My final vote is for Candidate B. It was a most efficient exercise in rational selection. Farewell.
+- [79] **Toshio**: My final vote is for Candidate B. The decision is logically sound and supported by the evidence. Farewell.
+### Vote
+- Servas -> B
+- Midori -> B
+- Kenji -> B
+- Benjamin -> B
+- Toshio -> B
+## Result
+- adopted: B

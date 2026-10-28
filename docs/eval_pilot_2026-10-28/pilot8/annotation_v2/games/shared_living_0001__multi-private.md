@@ -1,0 +1,73 @@
+# shared_living_0001__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited for the training camp! To get us started, I want to make sure we're being fair with the budget. Let's figure out where we should go!
+- [6] **Shizue**: It is wonderful to see your enthusiasm, Mio. I agree, we should choose a place where everyone feels welcome and can truly bond. I look forward to hearing everyone's ideas.
+- [7] **Ryuji**: We should be practical. Before we get carried away with ideas, we need to understand the logistical constraints and the workload involved in organizing this. Let's look at the data first.
+- [8] **Rin**: I agree with Ryuji! Let's find some cool clues first! I want to know if we can do something adventurous this year. What do you guys think we should check first?
+- [9] **Misaki**: I agree with Ryuji. We need a clear picture of the costs and logistics before we decide on a destination. Let's start by examining the available data to avoid any surprises.
+- [10] **Mio**: I'm with you, Ryuji! Let's be practical. I want to see the "Group transport in three years of receipts" and "Quoting terms for whole-building lets" to see how the money actually works!
+- [11] **Shizue**: I think it would be lovely to see "What the seniors say about year-groups mixing" and the "Attendance sheets for the away camps." It is important that everyone feels included and happy to join us.
+- [12] **Ryuji**: I'll look into the "Canteen closure and last year's cooking duty" and the "Lottery and application for public group bookings." We need to ensure the administrative burden is manageable for whoever organizes this.
+- [13] **Rin**: I want to know about the "Accounts from two clubs that went inland" and the "Prefecture rate sheet for publicly run beds"! I bet inland places have the best adventures!
+- [14] **Misaki**: I'll check the "Group transport in three years of receipts" and the "Quoting terms for whole-building lets." I want to be absolutely certain about the actual expenses before we commit to any specific budget.
+- [15] **Mio**: Since Misaki is checking the same things as me, maybe we can compare notes later! I'm really curious if the costs have been consistent over the years. Does anyone else have a specific place in mind?
+- [16] **Shizue**: I don't have a specific place in mind yet, dear. I simply hope we choose a destination that encourages the younger members to mingle and make wonderful memories together.
+- [17] **Ryuji**: It's too early to suggest a destination. We first need to see if the public bookings are even feasible and how much labor the cooking duties require. We can't ignore the human cost of the planning.
+- [18] **Rin**: @Ryuji, you're always so serious! But I want to know if the beds are comfy and if the inland clubs had fun. If we're going to be there for days, we need to feel great!
+- [19] **Misaki**: @Mio, yes, comparing notes will be useful. I want to ensure we aren't overlooking any hidden costs that could lead to a deficit. Let's wait for the data before we start suggesting locations.
+- [20] **Mio**: Sounds like a plan! I'll stick with my choices then. I can't wait to see what we find out! Let's all do our research and meet back here to share the results!
+- [21] **Shizue**: I agree. Let us all take a moment to look into these things carefully. I hope the information we find helps us create a warm and inclusive atmosphere for everyone. See you all soon.
+- [22] **Ryuji**: I agree. Let's proceed with the research. I will focus on the administrative and labor aspects to ensure the workload is distributed fairly and doesn't overwhelm any single person. I'll see you all in the next round.
+- [23] **Rin**: I'm ready! I'll go hunt for those clues right now! I hope the inland places have something super exciting for us to do! See you all soon, bye-bye!
+- [24] **Misaki**: I'll begin my research now. I want to make sure we have a precise understanding of the financial history and the terms of the lets. I'll see you all in the next round.
+## Round 2
+- [35] **Mio**: Wow, I found some really important stuff! It looks like transport costs vary a lot depending on distance, and those whole-building lets have non-refundable deposits. That means if someone cancels late, the rest of us pay!
+- [36] **Shizue**: That sounds like a bit of a worry, Mio. I've learned that many of our members didn't attend past camps, and some even left the club shortly after. It makes me quite sad to think of them.
+- [37] **Ryuji**: The administrative side is more problematic than I feared. Public bookings require a tedious lottery and a rigid application process. Furthermore, self-catering takes up significant time. We must prioritize a venue with professional catering and simple booking.
+- [38] **Rin**: I found out that inland places can be super crowded! Some clubs had eight people in one room and had to turn the lights off at eleven. That sounds a bit too strict, doesn't it?
+- [39] **Misaki**: @Mio, you're right. The non-refundable deposits are a significant risk. Combined with the fact that transport costs spike drastically with distance, we need to be extremely cautious about how we calculate the per-person fee this year.
+- [40] **Mio**: @Misaki, exactly! It's scary to think we might have to cover someone else's cost. Maybe we should look for a place with more flexible cancellation policies or keep the destination closer to save on transport?
+- [41] **Shizue**: @Mio, that is a very sensible suggestion. If we choose a place that is easier to reach, perhaps those who felt hesitant to join us in the past will feel more comfortable coming along this time.
+- [42] **Ryuji**: @Shizue, I agree. However, we must also consider the organizer's burden. If we choose a public facility, the application process is a nightmare. We should avoid any place that requires a lottery or self-catering to prevent burnout.
+- [43] **Rin**: @Ryuji, but if we just pick the easiest place, it might be boring! Still, eight people in one room sounds like a recipe for no sleep. We need a place where we can actually rest and have energy for the fun stuff!
+- [44] **Misaki**: @Ryuji, I agree that we should avoid excessive labor, but we cannot ignore the financial risk. If we choose a distant location or a rigid booking system, any change in attendance will directly impact the club's budget.
+- [45] **Mio**: @Misaki, @Ryuji, it sounds like we're all worried about different things, but they all point to the same problem: risk! Whether it's money or stress, we need a plan that doesn't punish us if things change.
+- [46] **Shizue**: @Mio, you have a wonderful way of bringing us together. I believe the greatest risk is losing our members' hearts. We must find a place where everyone can sleep together and bond, yet feel relaxed.
+- [47] **Ryuji**: @Shizue, bonding is important, but it's impossible if the organizers are exhausted. We need a private facility with a catering service. It eliminates the cooking duty and the lottery, ensuring the camp is sustainable for everyone involved.
+- [48] **Rin**: @Ryuji, I get that, but if we're all squeezed in like sardines, we'll be grumpy! We need a place with enough space so we don't wake each other up. That way, we'll have tons of energy for adventures!
+- [49] **Misaki**: @Ryuji, a private facility with catering would solve the labor issue, but we must ensure the cost is transparent. We cannot afford another year where the actual expenses exceed the collected fees.
+- [50] **Mio**: @Misaki, I totally agree! Let's find a place that's not too far away to keep transport costs low and has a fair way to handle cancellations. That way, nobody gets stuck paying extra!
+- [51] **Shizue**: It seems we are all in agreement that we must be thoughtful. Let us look for a place that is accessible and cozy, where we can all stay together and truly get to know one another.
+- [52] **Ryuji**: To summarize, we need a private venue with professional catering to avoid the administrative nightmare of public lotteries and the physical exhaustion of cooking duties. This is the only way to ensure the organizers can actually train.
+- [53] **Rin**: And we need a place with plenty of room! No sardine-style sleeping! If we're tired and grumpy, the whole camp is ruined. Let's make sure we pick somewhere we can actually get a good night's sleep!
+- [54] **Misaki**: @Mio, @Ryuji, we have a clear set of requirements: low transport costs, professional catering, and a flexible booking system. We must prioritize a local, private facility to minimize financial risk and labor.
+## Round 3
+- [60] **Mio**: Looking at the options, Option A seems the safest! It keeps transport costs low and avoids those scary non-refundable deposits for a whole building. Plus, it's the most fair for everyone's wallet!
+- [61] **Shizue**: While Option A is very safe, I worry it might not encourage the bonding we need. If people go home or stay separately, we miss those precious evening conversations that bring different year-groups together.
+- [62] **Ryuji**: Option B is out of the question. The municipal reservation system means a lottery and a rigid application process, and the shared dorms sound like a logistical and comfort nightmare. We cannot risk that burden.
+- [63] **Rin**: I agree with Ryuji! Option B sounds like that sardine-place I read about. If we're all squeezed in and can't sleep, we'll be too tired for any adventures! I don't like it at all!
+- [64] **Misaki**: @Mio, I agree. Option A is the only choice that eliminates the risk of a budget deficit. Option C is too dangerous; the distance and the whole-building let would make the costs unpredictable and the deposits too risky.
+- [65] **Mio**: @Shizue, I understand wanting to bond, but we can still make it special on campus! If we choose Option C, and someone cancels, we'd all be stressed about the money. That's not a great way to make memories!
+- [66] **Shizue**: @Mio, you are right that stress is a burden. However, I fear that if we stay on campus, the members will simply retreat to their usual circles. A change of scenery is often the best way to open one's heart.
+- [67] **Ryuji**: @Shizue, a change of scenery isn't worth the cost of burnout. Option C's distance increases transport costs and the risk of deposits. Option A is the only choice that guarantees the organizers aren't overwhelmed by labor or logistics.
+- [68] **Rin**: @Shizue, I want a change of scenery too! But @Ryuji is right about the stress. If we go to Option C and it's too far, we'll be exhausted before we even start! Maybe Option A is best?
+- [69] **Misaki**: @Shizue, while I understand your desire for bonding, we cannot prioritize atmosphere over financial stability. Option C's distance and rigid booking terms are a recipe for another deficit. Option A is the only responsible choice.
+- [70] **Mio**: @Shizue, I really want us to bond too! But if we're worried about money or someone paying for another's spot, it'll create bad vibes. Option A is the fairest way to make sure everyone is happy!
+- [71] **Shizue**: @Mio, your kindness is touching. I see that you all value stability and fairness. If we choose Option A, perhaps we can plan some special evening activities to ensure no one feels left out?
+- [72] **Ryuji**: @Shizue, that is a reasonable compromise. As long as the logistics are handled by the campus facilities, the organizers can actually focus on those activities and their own training. Option A is the only logical choice.
+- [73] **Rin**: @Shizue, that sounds like a great idea! If we do fun activities on campus, it'll be like a big party! Plus, we'll definitely get better sleep than in a sardine-room. I vote for Option A!
+- [74] **Misaki**: @Shizue, I appreciate your willingness to compromise. By choosing Option A, we eliminate the financial risks and administrative burdens that would otherwise jeopardize the camp. It is the only option that ensures a sustainable budget. I vote for Option A.
+- [75] **Mio**: I'm so glad we all agree! Let's make Option A the most fun camp ever with some awesome activities! I'm voting for Option A too!
+- [76] **Shizue**: It is a relief to see us all in harmony. For the sake of our members' peace of mind and the club's stability, I will also vote for Option A. Let us make it a warm experience.
+- [77] **Ryuji**: I agree. Option A is the only choice that ensures the organizers aren't crushed by administrative work or cooking duties. It is the most rational and sustainable decision for the club. I vote for Option A.
+- [78] **Rin**: Yay! We all agree! No sardines, no grumpy faces, and plenty of energy for fun! I'm super excited for our campus party camp! I vote for Option A!
+- [79] **Misaki**: I agree. Option A is the only choice that guarantees we won't face another financial shortfall. It is the most responsible decision for the club's future. I vote for Option A.
+### Vote
+- Mio -> A
+- Shizue -> A
+- Ryuji -> A
+- Rin -> A
+- Misaki -> A
+## Result
+- adopted: A

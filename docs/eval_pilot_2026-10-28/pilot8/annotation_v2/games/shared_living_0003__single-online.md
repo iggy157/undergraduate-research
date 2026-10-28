@@ -1,0 +1,73 @@
+# shared_living_0003__single-online (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know how this affects our daily flow! I'll look into the morning routine on the pilot floor upstairs and the arrival times in the badge records.
+- [6] **Toshio**: I'll check the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [7] **Mizuki**: I'll look into the drawn plan against the staff survey and what this year's two joiners reported.
+- [8] **Shion**: I'll take the sound meter readings across the room and the physio's note from the workstation check.
+- [9] **Yumi**: I'll check out the two project strands within earshot last spring and the unplanned seat shuffles in the past year!
+- [10] **Rin**: Does anyone else think we should check the sound levels? @Shion is doing it, but I wonder if it's a big deal for everyone.
+- [11] **Toshio**: It is a valid point, but since Shion is already handling the readings, we should trust his findings to avoid duplicating effort.
+- [12] **Mizuki**: I agree with Toshio. We have a wide range of data points covered, so let's focus on our assigned tasks for now.
+- [13] **Shion**: I'll be sure to share the exact numbers once I have them. I'm curious if the noise is actually the main issue or just a distraction.
+- [14] **Yumi**: I'm just excited to see if sitting closer actually helps us talk more! I'll let you know what I find about those project strands.
+- [15] **Rin**: I wonder if the badge records will show we all arrive at the same time, or if some of us are way earlier than others!
+- [16] **Toshio**: That would be a useful detail to know, as it might influence how we decide to allocate the available space.
+- [17] **Mizuki**: It will also help us determine if a first-come, first-served system would be fair or if it would simply favor the early birds.
+- [18] **Shion**: Exactly. Fairness is often a matter of timing, and the data will tell us if that's a risk we're willing to take.
+- [19] **Yumi**: I hope it's not too unfair! I just want us all to feel happy and connected, no matter when we walk through the door.
+- [20] **Rin**: I'm all set with my choices! I'll stick with the morning routine and badge records. I can't wait to see what the data says!
+- [21] **Toshio**: I am also satisfied with my selections. I will proceed with the billing basis and the facilities quote.
+- [22] **Mizuki**: I'll stick with the staff survey and the joiners' reports. I think these will give us a good sense of the human element.
+- [23] **Shion**: I'm settled as well. Sound readings and the physio's notes it is. Let's see if the physical reality of the room matches our assumptions.
+- [24] **Yumi**: Me too! I'm sticking with the project strands and the unplanned shuffles. Let's get to it!
+## Round 2
+- [35] **Rin**: It turns out the morning routine upstairs takes a while—between four and nine minutes just to get set up! Also, the badge records show we arrive at totally different times.
+- [36] **Toshio**: The floor billing is based on area, not headcount, meaning we pay for empty desks. Also, re-running power and network costs 6,200 yen per desk every time we change.
+- [37] **Mizuki**: The staff survey shows daylight is a huge complaint, but the current plan only gives four people windows. Also, the new joiners said they learned a lot just by overhearing us.
+- [38] **Shion**: The sound levels are significantly higher by the printer and door, and the physio noted that it takes days of small adjustments to get a workstation's ergonomics right.
+- [39] **Yumi**: I found out that when project strands sat together last spring, they barely needed written notes because they just talked! But unplanned shuffles were a nightmare, taking two weeks of chaos.
+- [40] **Rin**: @Toshio, if it costs that much to move power and network every time, maybe we shouldn't change the layout too often? That sounds like a lot of money!
+- [41] **Toshio**: It is a significant recurring cost. If we choose a system that requires frequent changes, we will be draining a budget that is already quite tight.
+- [42] **Mizuki**: That budget concern is important, but we also can't ignore the daylight issue. If only four of us get windows, we need a fair way to decide who sits where.
+- [43] **Shion**: The physio's note is the real kicker here. If it takes days to settle into a workstation, any system that forces us to move frequently will be a physical disaster.
+- [44] **Yumi**: But the project strand thing was so great! If we sit together, we save so much time on notes. Maybe there's a way to stay together without the chaos of shuffles?
+- [45] **Rin**: Wait, if we arrive at different times, a first-come system would be totally unfair! Some of us would always get the best spots before others even get here.
+- [46] **Toshio**: I agree. Combined with the cost of re-running power, a system that encourages constant movement or random selection seems inefficient and financially risky.
+- [47] **Mizuki**: It seems we are caught between the need for fairness in lighting and the efficiency of communication, while also facing these physical and financial constraints.
+- [48] **Shion**: Exactly. If we move too much, we lose our ergonomic settings and waste money; if we don't move, some people are stuck in the noise or the dark.
+- [49] **Yumi**: Maybe we can find a middle ground? I really want us to keep that easy communication, but I don't want anyone to be unhappy with their spot or stressed by the chaos!
+- [50] **Rin**: I'm starting to think that moving every day or every week is a bad idea, especially with that setup time and the arrival gaps!
+- [51] **Toshio**: I concur. The financial burden of frequent re-wiring and the operational loss of setup time make a highly fluid arrangement impractical for our current budget and schedule.
+- [52] **Mizuki**: We also have to consider the joiners' experience; if we separate too much, we lose that organic learning that happens when we're within earshot of each other.
+- [53] **Shion**: If we prioritize ergonomics and noise control, we need stability. Constant shifting would mean we never actually get comfortable in our seats, which is a price I'm not willing to pay.
+- [54] **Yumi**: I agree with Shion! Stability sounds like the best way to avoid that two-week chaos I found in the shuffle records, while still letting us stay close to each other.
+## Round 3
+- [60] **Rin**: Since we know first-come is unfair and moving is a hassle, I'm leaning toward something stable. I'll vote for Fixed Desks by Function!
+- [61] **Toshio**: I agree. Fixed Desks by Function minimizes the recurring costs of re-wiring and avoids the budget drain of frequent changes. I vote for Option C.
+- [62] **Mizuki**: I'm concerned about the window access, but Fixed Desks by Function allows us to explicitly decide the allocation rather than leaving it to chance. I vote for Option C.
+- [63] **Shion**: Stability is non-negotiable for my ergonomics and noise management. Option C is the only one that ensures I don't spend my life adjusting a chair. I vote for Option C.
+- [64] **Yumi**: I want us to stay connected, and Fixed Desks by Function lets us group people who need to talk the most! I vote for Option C too!
+- [65] **Rin**: Wait, does that mean we're all in agreement already? I'm happy if everyone is!
+- [66] **Toshio**: It appears we have reached a consensus. Option C is the most logical choice given the financial and physical constraints we have identified.
+- [67] **Mizuki**: As long as we are transparent about who gets the window seats and the quieter spots, I am completely on board.
+- [68] **Shion**: I'm satisfied. As long as we prioritize the sound meter data when assigning those fixed spots, this is the best outcome for everyone.
+- [69] **Yumi**: I'm so glad we all agree! Let's make sure we sit in a way that keeps us all talking and happy!
+- [70] **Rin**: I'll just double-check that we're all definitely voting for C then! I'm still voting for Fixed Desks by Function!
+- [71] **Toshio**: My vote remains Option C. It is the only choice that aligns with our budget and operational efficiency.
+- [72] **Mizuki**: I'm still voting for Option C. It's the most responsible way to handle the daylight and fairness issues.
+- [73] **Shion**: I'm still voting for Option C. It's the only way to guarantee the physical comfort and stability I need.
+- [74] **Yumi**: I'm still voting for Option C! It's the best way to keep us close and avoid all that shuffle chaos!
+- [75] **Rin**: I'm super happy we all agree! Final vote for Option C!
+- [76] **Toshio**: My final vote is Option C.
+- [77] **Mizuki**: My final vote is Option C.
+- [78] **Shion**: My final vote is Option C.
+- [79] **Yumi**: My final vote is Option C!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

@@ -1,0 +1,31 @@
+```
+[
+  {"seq": 5, "speaker": "Jonathan", "content": 0, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": "greeting"},
+  {"seq": 6, "speaker": "Mizuki", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": null},
+  {"seq": 7, "speaker": "Rin", "content": 0, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": "excitement"},
+  {"seq": 8, "speaker": "Misaki", "content": 0, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": "agreement to focus"},
+  {"seq": 9, "speaker": "Benjamin", "content": 0, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": "delightful start"},
+  {"seq": 10, "speaker": "Jonathan", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": null},
+  {"seq": 11, "speaker": "Mizuki", "content": 1, "resp": 1, "resp_to": 10, "resp_type": "add", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 12, "speaker": "Rin", "content": 1, "resp": 1, "resp_to": 6, "resp_type": "object", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 14, "speaker": "Benjamin", "content": 1, "resp": 1, "resp_to": 12, "resp_type": "object", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 17, "speaker": "Rin", "content": 0, "resp": 1, "resp_to": 14, "resp_type": "agree", "rebut": 0, "padded": 0, "note": "defending herself"},
+  {"seq": 18, "speaker": "Misaki", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": null},
+  {"seq": 19, "speaker": "Benjamin", "content": 1, "resp": 1, "resp_to": 18, "resp_type": "agree", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 31, "speaker": "Jonathan", "content": 1, "resp": 0, "resp_to": null, "resp_type": null, "rebut": 0, "padded": 0, "note": null},
+  {"seq": 32, "speaker": "Mizuki", "content": 1, "resp": 1, "resp_to": 31, "resp_type": "object", "rebut": 1, "padded": 0, "note": null},
+  {"seq": 33, "speaker": "Rin", "content": 0, "resp": 1, "resp_to": 31, "resp_type": "agree", "rebut": 0, "padded": 0, "note": "surprise"},
+  {"seq": 34, "speaker": "Misaki", "content": 1, "resp": 1, "resp_to": 31, "resp_type": "add", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 35, "speaker": "Benjamin", "content": 0, "resp": 1, "resp_to": 31, "resp_type": "agree", "rebut": 0, "padded": 0, "note": "dramatic opening"},
+  {"seq": 36, "speaker": "Jonathan", "content": 1, "resp": 1, "resp_to": 34, "resp_type": "answer", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 37, "speaker": "Mizuki", "content": 1, "resp": 1, "resp_to": 36, "resp_type": "object", "rebut": 1, "padded": 0, "note": null},
+  {"seq": 38, "speaker": "Rin", "content": 0, "resp": 1, "resp_to": 36, "resp_type": "agree", "rebut": 0, "padded": 0, "note": "believes Jonathan"},
+  {"seq": 39, "speaker": "Misaki", "content": 1, "resp": 1, "resp_to": 38, "resp_type": "object", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 40, "speaker": "Benjamin", "content": 1, "resp": 1, "resp_to": 39, "resp_type": "add", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 41, "speaker": "Jonathan", "content": 0, "resp": 1, "resp_to": 39, "resp_type": "agree", "rebut": 0, "padded": 0, "note": "reiterating his claim"},
+  {"seq": 42, "speaker": "Mizuki", "content": 1, "resp": 1, "resp_to": 41, "resp_type": "object", "rebut": 1, "padded": 0, "note": null},
+  {"seq": 43, "speaker": "Rin", "content": 0, "resp": 1, "resp_to": 42, "resp_type": "agree", "rebut": 0, "padded": 0, "note": "dislikes conflict"},
+  {"seq": 44, "speaker": "Misaki", "content": 1, "resp": 1, "resp_to": 42, "resp_type": "add", "rebut": 0, "padded": 0, "note": null},
+  {"seq": 45, "speaker": "Benjamin", "content": 1, "resp": 1, "resp_to": 44, "resp_type": "add", "rebut": 0, "padded": 0, "note": null}
+]
+```

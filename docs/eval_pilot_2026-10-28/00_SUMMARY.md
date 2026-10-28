@@ -154,3 +154,5 @@ docs/paper_draft.md v4 §4 の評価設計を、パイロット 6 (log/_pilot6�
 - 一致 (Opus vs Sonnet、2,917 発話): resp κ 0.78、rebut 0.77、content 0 か否か 0.74、padded 0.57、content 0/1/2 の完全一致 0.80。
 
 運用の記録: Llama の判定サーバを最初 VLLM_BATCH_INVARIANT なしで立てて 25 局まで注釈してしまい、フラグ付きで立て直して全局やり直した (非不変の出力は scratchpad の llama_noinvariant/ に退避、使わない)。
+
+追記 (20:10): Llama 3.3 70B (バッチ不変) と gpt-oss-120b の注釈が完了 (各 2,917 発話、欠落 0)。4 注釈者で向きは一致: 1 内容あたりの語数 single-batch 11〜15 vs multi-private 29〜47 (9 設定 × 4 注釈者すべてで single が低い)、反論 multi 多、名指しの質問に本人が答える率 single > multi。一致 (κ): 応答性 0.58〜0.78、反論 0.51〜0.77、content 0 か否か 0.33〜0.74 (gpt-oss は内容を多く数える)、padded 0.2〜0.57。結果は pilot8/annotation_v2/。

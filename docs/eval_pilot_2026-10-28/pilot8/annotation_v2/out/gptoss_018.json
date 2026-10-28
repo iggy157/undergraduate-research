@@ -1,0 +1,301 @@
+{
+ "aiwolf_0003__single-batch-stepped.md": [
+  {
+   "seq": 5,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "greeting adds nothing"
+  },
+  {
+   "seq": 6,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 5,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 7,
+   "speaker": "Rin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 8,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 9,
+   "speaker": "Benjamin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 0,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "pleasantry only"
+  },
+  {
+   "seq": 10,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 11,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 10,
+   "resp_type": "answer",
+   "note": ""
+  },
+  {
+   "seq": 12,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 11,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 14,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 12,
+   "resp_type": "object",
+   "note": "objects to Rin's speculation"
+  },
+  {
+   "seq": 17,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 14,
+   "resp_type": "object",
+   "note": "opposes Benjamin's objection"
+  },
+  {
+   "seq": 18,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 19,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 18,
+   "resp_type": "agree",
+   "note": ""
+  },
+  {
+   "seq": 31,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 32,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 31,
+   "resp_type": "object",
+   "note": "objects to Jonathan's accusation"
+  },
+  {
+   "seq": 33,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 34,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 35,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 36,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 34,
+   "resp_type": "answer",
+   "note": ""
+  },
+  {
+   "seq": 37,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 36,
+   "resp_type": "object",
+   "note": "objects to Jonathan's claim"
+  },
+  {
+   "seq": 38,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 36,
+   "resp_type": "agree",
+   "note": ""
+  },
+  {
+   "seq": 39,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 36,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 40,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 39,
+   "resp_type": "agree",
+   "note": ""
+  },
+  {
+   "seq": 41,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 40,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 42,
+   "speaker": "Mizuki",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 41,
+   "resp_type": "object",
+   "note": "objects to Jonathan's suggestion"
+  },
+  {
+   "seq": 43,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 42,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 44,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 42,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 45,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 44,
+   "resp_type": "add",
+   "note": ""
+  }
+ ]
+}
