@@ -4,7 +4,7 @@ usage: .venv/bin/python scripts/run_queue.py --log-dir log/main_gemma31b --model
            [--per-model 4] [--setups all | aiwolf | aiwolf_0004,...] [--conditions single-batch,...]
            [--port-base 20000] [--out-dir <dir for per-job stdout>] [--dry-run]
 
-Jobs are (setup, condition) pairs; a job is skipped when <log-dir>/<domain>/<condition>/<setup>__<condition>__*/*.log
+Jobs are (setup, condition) pairs; a job is skipped when <log-dir>/<domain>/*/<setup>__<condition>__*/*.log
 already exists (completed or partial: remove the directory to rerun). Core conditions are queued first, plan
 conditions (single-batch-process, multi-private-process) last; a plan job whose scenario file is missing is put back
 at the end of the queue (scripts/gen_scenarios.py can run in parallel). Each model (= vLLM instance, config/models.yml)
@@ -48,7 +48,7 @@ def command(setup: str, cond: str, model: str, log_dir: str, port: int) -> list[
 
 def done(log_dir: Path, setup: str, cond: str) -> bool:
     domain = setup.rsplit("_", 1)[0]
-    return any((log_dir / domain / cond).glob(f"{setup}__{cond}__*/*.log"))
+    return any((log_dir / domain).glob(f"*/{setup}__{cond}__*/*.log"))  # plan runs sit under the base condition's dir
 
 
 def scenario_ready(setup: str) -> bool:
