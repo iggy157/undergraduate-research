@@ -182,7 +182,11 @@ def main(argv: list[str] | None = None) -> int:
                 for attempt in range(2):
                     try:
                         with torch.no_grad():
-                            outp = model(torch.tensor([ids], device=a.device), output_hidden_states=True)
+                            x = torch.tensor([ids], device=a.device)
+                            try:  # logits for the last position only: the full [T, vocab] logits of a 20k-token
+                                outp = model(x, output_hidden_states=True, logits_to_keep=1)  # sequence are >10 GB
+                            except TypeError:
+                                outp = model(x, output_hidden_states=True)
                         break
                     except torch.OutOfMemoryError:
                         outp = None
