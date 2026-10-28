@@ -66,11 +66,16 @@ def generate(ctx: GameContext, llm, attempts: int, max_tokens: int, granularity:
     history: list[dict] = []
     problems: list[str] = []
     seen: list[str] = []  # every problem raised so far (a greedy model otherwise alternates between two slips)
+    banned: list[str] = []  # words the validator flagged in the prose; a greedy model repeats them unless told
     for i in range(attempts):
         for pr in problems:
             if pr not in seen:
                 seen.append(pr)
-        user = request_text(ctx, seen, granularity)
+            for w in re.findall(r"\('([^']+)'\)", pr):
+                if w not in banned:
+                    banned.append(w)
+        extra = [f"Do not use these words anywhere in \"public\" or \"seats\": {', '.join(banned)}"] if banned else []
+        user = request_text(ctx, seen + extra, granularity)
         messages = [{"role": "system", "content": system}, {"role": "user", "content": user}]
         text, meta = llm.complete(messages, max_tokens)
         rec = {"attempt": i + 1, "messages": messages, "response": text, "usage": meta.get("usage"),

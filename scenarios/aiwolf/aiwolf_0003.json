@@ -2,27 +2,27 @@
  "periods": [
   {
    "period": 0,
-   "public": "The participants introduce their general approach to the game. They discuss the importance of observation and the roles of the Seer and Werewolf.",
+   "public": "The participants introduce themselves and discuss general strategies for identifying the hidden enemy. They weigh the value of early information versus cautious observation.",
    "divine": "Mizuki",
    "turns": [
     {
      "turn": 1,
      "lines": {
-      "Jonathan": "I hope we can find the truth through calm observation.",
-      "Mizuki": "Logic and evidence will be the keys to winning this.",
-      "Rin": "I'm going to find the werewolf! This is so exciting!",
-      "Misaki": "I will listen carefully to everyone's words.",
-      "Benjamin": "A little bit of wit and a lot of patience should suffice."
+      "Jonathan": "Suggests a calm approach to the first day.",
+      "Mizuki": "Proposes looking for inconsistencies in speech.",
+      "Rin": "Expresses excitement and asks how to start.",
+      "Misaki": "Agrees with a cautious approach.",
+      "Benjamin": "Adds a witty remark about the tension."
      }
     },
     {
      "turn": 2,
      "lines": {
-      "Jonathan": "Does anyone have a specific strategy for the first day?",
-      "Mizuki": "We should look for contradictions in how people speak.",
-      "Rin": "Maybe the werewolf is acting too quiet!",
-      "Misaki": "That is a possibility, but we have no data yet.",
-      "Benjamin": "Indeed, jumping to conclusions is a dangerous game."
+      "Jonathan": "Asks others about their typical logic patterns.",
+      "Mizuki": "States she will observe everyone closely.",
+      "Rin": "Wants to know if anyone has a hunch.",
+      "Misaki": "Says it is too early for hunches.",
+      "Benjamin": "Suggests they all stay polite."
      }
     },
     {
@@ -30,9 +30,9 @@
      "lines": {
       "Jonathan": "Skip",
       "Mizuki": "Skip",
-      "Rin": "I wonder who the Seer is!",
-      "Misaki": "Skip",
-      "Benjamin": "The mystery is the best part, isn't it?"
+      "Rin": "Asks if they should share secrets.",
+      "Misaki": "Advises against it for now.",
+      "Benjamin": "Agrees with the need for discretion."
      }
     },
     {
@@ -49,7 +49,7 @@
   },
   {
    "period": 1,
-   "public": "The Seer shares a result. The group weighs the reliability of the claim against the possibility of a bluff. They analyze the reactions of the accused.",
+   "public": "The group discusses the information gathered overnight. They debate the validity of certain assertions and look for contradictions in behavior.",
    "votes": {
     "Jonathan": "Mizuki",
     "Mizuki": "Jonathan",
@@ -64,31 +64,31 @@
     {
      "turn": 1,
      "lines": {
-      "Jonathan": "I have found the werewolf through my divination.",
-      "Mizuki": "That is a bold lie to protect yourself.",
-      "Rin": "Wait, really? Who is it?",
-      "Misaki": "This is a sudden development.",
-      "Benjamin": "A very direct approach. How intriguing."
+      "Jonathan": "Shares a specific finding about a player.",
+      "Mizuki": "Questions the source of that information.",
+      "Rin": "Reacts with surprise to the news.",
+      "Misaki": "Analyzes the logic of the statement.",
+      "Benjamin": "Politely suggests the information might be a mistake."
      }
     },
     {
      "turn": 2,
      "lines": {
-      "Jonathan": "Mizuki is the werewolf.",
-      "Mizuki": "I am a villager; the Seer is lying to frame me.",
-      "Rin": "I believe the Seer! Let's catch them!",
-      "Misaki": "The logic of the claim is straightforward.",
-      "Benjamin": "But could the werewolf be pretending to be the Seer?"
+      "Jonathan": "Defends the accuracy of the finding.",
+      "Mizuki": "Argues that the speaker is trying to mislead.",
+      "Rin": "Asks for clarification on the evidence.",
+      "Misaki": "Notes a contradiction in the defense.",
+      "Benjamin": "Tries to steer the conversation toward a different person."
      }
     },
     {
      "turn": 3,
      "lines": {
-      "Jonathan": "I am telling the truth for the village.",
-      "Mizuki": "If you execute me, you lose a valuable human.",
-      "Rin": "You're just saying that because you're the wolf!",
-      "Misaki": "The evidence provided by the role is strong.",
-      "Benjamin": "It is a gamble, but a calculated one."
+      "Jonathan": "Urges the group to trust the evidence.",
+      "Mizuki": "Attempts to cast doubt on the speaker's motives.",
+      "Rin": "Decides to trust the evidence.",
+      "Misaki": "Agrees that the evidence is compelling.",
+      "Benjamin": "Maintains a neutral but skeptical stance."
      }
     },
     {
@@ -105,11 +105,11 @@
   }
  ],
  "seats": {
-  "Benjamin": "He focuses on sowing doubt and protecting the werewolf's interests. He uses sarcasm and logic to deflect suspicion.",
-  "Rin": "She relies on intuition and excitement. She tends to follow the most assertive claims.",
-  "Jonathan": "He uses his role to provide direct information. He remains calm and focused on the goal of elimination.",
-  "Misaki": "She analyzes the consistency of statements. She weighs the provided information against the behavior of others.",
-  "Mizuki": "She uses confidence and logical counter-arguments to defend herself. She attempts to flip the suspicion onto the accuser."
+  "Benjamin": "Focuses on maintaining harmony while subtly protecting a specific ally. He uses logic to create doubt about the evidence presented.",
+  "Rin": "Relies on the guidance of others and is easily swayed by strong evidence or confident speaking.",
+  "Jonathan": "Prioritizes the sharing of verified facts to eliminate the threat quickly.",
+  "Misaki": "Observes the interaction between speakers to find logical flaws and inconsistencies.",
+  "Mizuki": "Uses confidence and counter-arguments to deflect suspicion and shift focus."
  },
  "final": {
   "winner": "VILLAGE"
@@ -123,8 +123,11 @@
  "source": {
   "generated_by": "scripts/gen_scenarios.py",
   "model": "gemma-4-31b",
-  "generated_at": "2026-10-27T21:59:54+00:00",
-  "attempts": 5,
+  "generated_at": "2026-10-28T09:29:14+00:00",
+  "attempts": 3,
+  "max_attempts": 10,
+  "max_tokens": 4096,
+  "granularity": "turn",
   "sampling": {
    "temperature": 0.0,
    "top_p": null,
@@ -138,31 +141,48 @@
    "timeout_s": 1800.0,
    "logprobs": true
   },
-  "model_info": {
-   "id": "gemma-4-31b",
-   "created": 1793138394,
-   "object": "model",
-   "owned_by": "vllm",
-   "shutdown_date": null,
-   "root": "google/gemma-4-31B-it",
-   "parent": null,
-   "max_model_len": 20480,
-   "permission": [
-    {
-     "id": "modelperm-ab172ce8bfae49e0",
-     "object": "model_permission",
-     "created": 1793138394,
-     "allow_create_engine": false,
-     "allow_sampling": true,
-     "allow_logprobs": true,
-     "allow_search_indices": false,
-     "allow_view": true,
-     "allow_fine_tuning": false,
-     "organization": "*",
-     "group": null,
-     "is_blocking": false
-    }
-   ]
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793179754,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-998cf00a2ca77b9f",
+      "object": "model_permission",
+      "created": 1793179754,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "30a9a89ee804a7127b59cc873114dd116d6726d9",
+   "files": 94
   }
  }
 }

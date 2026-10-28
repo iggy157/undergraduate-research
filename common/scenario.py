@@ -346,7 +346,8 @@ def _validate_discussion(periods: list[dict[str, Any]], final: dict[str, Any], c
 def repair_plan(sc: dict[str, Any], ctx: GameContext) -> list[str]:
     """Deterministic fixes of errors a model keeps making, applied before validation (recorded by the generator):
     - turn lines of a participant who already said Over in that period are dropped;
-    - night actions (divine / attack) in the period whose execution already ends the game are dropped (aiwolf).
+    - night actions (divine / attack) in the period whose execution already ends the game are dropped, and so are
+      any later periods (aiwolf).
     Returns the list of repairs made."""
     done: list[str] = []
     over_tok = str(ctx.rules["pass_over"])
@@ -385,6 +386,11 @@ def repair_plan(sc: dict[str, Any], ctx: GameContext) -> list[str]:
                     if p.get(k) not in (None, ""):
                         p[k] = None
                         done.append(f"period {n}: dropped {k} after the deciding execution")
+                periods = sc.get("periods") or []
+                idx = periods.index(p)
+                if len(periods) > idx + 1:
+                    sc["periods"] = periods[:idx + 1]
+                    done.append(f"period {n}: dropped {len(periods) - idx - 1} period(s) after the deciding execution")
                 break
             a = p.get("attack")
             if a in alive:

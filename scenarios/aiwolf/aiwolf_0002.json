@@ -2,37 +2,37 @@
  "periods": [
   {
    "period": 0,
-   "public": "The players introduce themselves and discuss general strategies for identifying the werewolf. They weigh the importance of observing behavioral changes and the timing of claims.",
+   "public": "The participants introduce themselves and discuss how to identify the hidden enemy. They talk about behavioral patterns and the importance of observation.",
    "divine": "Kenji",
    "turns": [
     {
      "turn": 1,
      "lines": {
       "Mizuki": "Let's start by observing everyone's reactions.",
-      "Sakura": "This is so exciting! I'll find the wolf!",
-      "Toshio": "I will keep a close eye on the logic of the arguments.",
-      "Jonathan": "I prefer to listen and read the room first.",
-      "Kenji": "I'm ready! Let's make this a fun game!"
+      "Sakura": "This is so exciting! I'll find the bad guy!",
+      "Toshio": "We should be cautious and logical.",
+      "Jonathan": "I agree with a quiet approach.",
+      "Kenji": "I'll help everyone find the truth!"
      }
     },
     {
      "turn": 2,
      "lines": {
-      "Mizuki": "We should be careful about who claims the Seer role too early.",
-      "Sakura": "Maybe the wolf will try to act too friendly!",
-      "Toshio": "Consistency in speech is the key to finding the liar.",
-      "Jonathan": "Quiet observation is often more revealing than questioning.",
-      "Kenji": "I agree, let's see who gets nervous first."
+      "Mizuki": "Does anyone have a strategy for the first vote?",
+      "Sakura": "Maybe we can play a game to see who's nervous!",
+      "Toshio": "That would be inefficient.",
+      "Jonathan": "Let's just listen to each other.",
+      "Kenji": "I'm with Mizuki on being organized."
      }
     },
     {
      "turn": 3,
      "lines": {
-      "Mizuki": "Does anyone have a specific strategy they want to propose?",
-      "Sakura": "I'll just follow my intuition!",
-      "Toshio": "I'll be analyzing the voting patterns tomorrow.",
-      "Jonathan": "I will simply try to stay out of the spotlight.",
-      "Kenji": "I'll try to help the village as much as I can!"
+      "Mizuki": "I'll be watching for inconsistencies.",
+      "Sakura": "I'm watching too! Hehe.",
+      "Toshio": "Observation is key.",
+      "Jonathan": "Skip",
+      "Kenji": "I'm just happy to be here."
      }
     },
     {
@@ -49,7 +49,7 @@
   },
   {
    "period": 1,
-   "public": "The Seer reveals a result, leading to a debate about the validity of the claim. The group discusses whether the claim is a bluff by the werewolf or the truth.",
+   "public": "The group discusses the information available and looks for contradictions in speech. They weigh the reliability of different participants' statements.",
    "votes": {
     "Mizuki": "Kenji",
     "Sakura": "Jonathan",
@@ -64,52 +64,52 @@
     {
      "turn": 1,
      "lines": {
-      "Mizuki": "Now that we have a first day, let's see if anyone has info.",
-      "Sakura": "I wonder if anyone saw something spooky last night!",
-      "Toshio": "I am the Seer, and I found the werewolf.",
-      "Jonathan": "That was a very direct revelation.",
-      "Kenji": "What?! That's a lie! I'm just a villager!"
+      "Mizuki": "I've noticed some odd behavior from one person.",
+      "Sakura": "Who? Tell us!",
+      "Toshio": "I have information that points to a specific person.",
+      "Jonathan": "I'm listening carefully.",
+      "Kenji": "Wait, why is everyone looking at me?"
      }
     },
     {
      "turn": 2,
      "lines": {
-      "Mizuki": "Toshio, are you certain about your result?",
-      "Sakura": "Maybe Toshio is the wolf trying to trick us!",
-      "Toshio": "I am certain. Kenji is the werewolf.",
-      "Jonathan": "The confidence in the claim is quite high.",
-      "Kenji": "He's lying to get me out! Please believe me!"
+      "Mizuki": "The logic suggests a certain pattern.",
+      "Sakura": "I think Jonathan is being too quiet!",
+      "Toshio": "My findings are quite clear about the threat.",
+      "Jonathan": "I'm just being my usual self.",
+      "Kenji": "I'm totally innocent!"
      }
     },
     {
      "turn": 3,
      "lines": {
-      "Mizuki": "Kenji's reaction seems a bit too panicked.",
-      "Sakura": "But we can't just trust one person's word!",
-      "Toshio": "The logic holds; the werewolf must counter-claim.",
-      "Jonathan": "I find the Seer's claim more plausible than the denial.",
-      "Kenji": "I'm not panicking, I'm just shocked!"
+      "Mizuki": "I trust the evidence presented by Toshio.",
+      "Sakura": "But what if it's a trick?",
+      "Toshio": "It is not a trick.",
+      "Jonathan": "The evidence seems compelling.",
+      "Kenji": "You're all making a mistake!"
      }
     },
     {
      "turn": 4,
      "lines": {
-      "Mizuki": "I'm leaning towards the Seer's information.",
-      "Sakura": "I'll vote for someone else just to be safe.",
-      "Toshio": "We must act now to secure the village.",
-      "Jonathan": "I agree with the majority's direction.",
-      "Kenji": "This is a mistake!"
+      "Mizuki": "Over",
+      "Sakura": "Over",
+      "Toshio": "Over",
+      "Jonathan": "Over",
+      "Kenji": "Over"
      }
     }
    ]
   }
  ],
  "seats": {
-  "Sakura": "She focuses on creating doubt and protecting her ally by questioning the validity of claims.",
-  "Jonathan": "He values stability and tends to follow the most logical or calm argument presented.",
-  "Mizuki": "She analyzes the emotional reactions of others and seeks a logical basis for the vote.",
-  "Toshio": "He uses direct information to lead the group and focuses on efficiency in eliminating threats.",
-  "Kenji": "He attempts to deflect suspicion through emotional appeals and accusations of lying."
+  "Sakura": "She tries to divert attention and create confusion through playfulness.",
+  "Jonathan": "He remains passive and follows the strongest logical argument.",
+  "Mizuki": "She focuses on logical consistency and evidence provided by others.",
+  "Toshio": "He uses his hidden knowledge to guide the group toward the target.",
+  "Kenji": "He tries to maintain a friendly image while defending himself."
  },
  "final": {
   "winner": "VILLAGE"
@@ -123,8 +123,11 @@
  "source": {
   "generated_by": "scripts/gen_scenarios.py",
   "model": "gemma-4-31b",
-  "generated_at": "2026-10-27T21:48:42+00:00",
+  "generated_at": "2026-10-28T09:22:10+00:00",
   "attempts": 3,
+  "max_attempts": 10,
+  "max_tokens": 4096,
+  "granularity": "turn",
   "sampling": {
    "temperature": 0.0,
    "top_p": null,
@@ -138,31 +141,48 @@
    "timeout_s": 1800.0,
    "logprobs": true
   },
-  "model_info": {
-   "id": "gemma-4-31b",
-   "created": 1793137722,
-   "object": "model",
-   "owned_by": "vllm",
-   "shutdown_date": null,
-   "root": "google/gemma-4-31B-it",
-   "parent": null,
-   "max_model_len": 20480,
-   "permission": [
-    {
-     "id": "modelperm-b60cd049ce7289ca",
-     "object": "model_permission",
-     "created": 1793137722,
-     "allow_create_engine": false,
-     "allow_sampling": true,
-     "allow_logprobs": true,
-     "allow_search_indices": false,
-     "allow_view": true,
-     "allow_fine_tuning": false,
-     "organization": "*",
-     "group": null,
-     "is_blocking": false
-    }
-   ]
+  "served": {
+   "model_info": {
+    "id": "gemma-4-31b",
+    "object": "model",
+    "created": 1793179330,
+    "owned_by": "vllm",
+    "root": "google/gemma-4-31B-it",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a29ed49e270c41f6",
+      "object": "model_permission",
+      "created": 1793179330,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--google--gemma-4-31B-it/snapshots/842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "hf_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+   "chat_template_sha1": "ad0bceafd1fe856608a4405af63edd4959fac774",
+   "config_sha1": "103242d856637293ec3ecf066a801fa7e6c20cd6",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "12e76563b8fa4a89a6778815028be2425b611a50",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "30a9a89ee804a7127b59cc873114dd116d6726d9",
+   "files": 94
   }
  }
 }
