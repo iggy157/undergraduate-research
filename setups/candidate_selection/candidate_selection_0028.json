@@ -1,0 +1,48 @@
+{
+ "setup_id": "candidate_selection_0028",
+ "domain": "candidate_selection",
+ "k": 28,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Mizuki",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Asuka",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Rin",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Kenji",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Servas",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  4,
+  1,
+  2,
+  3,
+  5
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "candidate_selection_009",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "D",
+  "B",
+  "C",
+  "A"
+ ]
+}

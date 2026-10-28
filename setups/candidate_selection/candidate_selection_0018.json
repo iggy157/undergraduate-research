@@ -1,0 +1,48 @@
+{
+ "setup_id": "candidate_selection_0018",
+ "domain": "candidate_selection",
+ "k": 18,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Toshio",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Yumi",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Benjamin",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Kenji",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Misaki",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  5,
+  4,
+  1,
+  2,
+  3
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "candidate_selection_009",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "B",
+  "A",
+  "D",
+  "C"
+ ]
+}

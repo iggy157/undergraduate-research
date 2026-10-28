@@ -1,0 +1,48 @@
+{
+ "setup_id": "candidate_selection_0025",
+ "domain": "candidate_selection",
+ "k": 25,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Benjamin",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Shizue",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Rin",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Jonathan",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Minako",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  2,
+  4,
+  3,
+  1,
+  5
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "candidate_selection_006",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "A",
+  "C",
+  "D",
+  "B"
+ ]
+}

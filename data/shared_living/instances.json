@@ -1,0 +1,2576 @@
+{
+ "domain": "shared_living",
+ "source": {
+  "repo": "naacl/2027/manyshot-ablation",
+  "domain": "living",
+  "files": [
+   "topics.yml",
+   "instances_live.json",
+   "paircards_live.json"
+  ],
+  "card_generator": "claude-opus-5"
+ },
+ "note": "card_pool[].title and text come from the §9-9 rewrite (third-person wording, titles); text_source keeps the original text. Required for info_mode=dynamic.",
+ "instances": [
+  {
+   "instance_id": "shared_living_001",
+   "source_instance_id": "living_001",
+   "source_topic_id": "living_001",
+   "topic": {
+    "title": "Setting the cleaning arrangement for the shared areas",
+    "context": "Five housemates share a kitchen, a bathroom, and a living room, and the informal habit they started with has stopped working. They are settling on one arrangement for the coming year.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Fixed Weekly Rota",
+      "summary": "Each area is assigned to one person for a named week, rotating through the household in a published order that repeats until someone asks for it to be revised."
+     },
+     {
+      "label": "B",
+      "name": "Paid Cleaning Service",
+      "summary": "An outside cleaner comes on a set schedule for the shared areas, with the household handling the arrangements and settling the invoice among themselves each month."
+     },
+     {
+      "label": "C",
+      "name": "Standing Assignments",
+      "summary": "Each person takes permanent ownership of particular areas for as long as they live there, choosing their own timing rather than following a shared calendar."
+     }
+    ]
+   },
+   "problems": {
+    "1": "The bleach, the bin bags and the sponges keep coming out of whoever's wallet is nearest, and nobody has settled up since spring. Whatever we agree to, I want to know what it costs us month to month and who ends up out of pocket in the meantime.",
+    "2": "Every one of these rooms takes longer than anyone admits, and the stretches when it all lands at once are the stretches I get nothing else done. Before we commit for a year I want to know what the hours really look like, and whether handing them off actually removes them.",
+    "3": "The bathroom is the room I brace myself before walking into, and the kitchen is fine one day and grim the next with no pattern I can see. I would like to stop having to guess what state a room will be in.",
+    "4": "It has stopped feeling even — the same rooms seem to land on the same people, and someone who is hardly ever here counts the same as someone who never leaves. I want to see where the using and the work actually sit before we fix anything for a year.",
+    "5": "Nobody here wants to be the one who brings the kitchen up again, so it goes unsaid until it comes out sideways at someone. Whatever we settle on, I care more about which version leaves us on speaking terms a year from now than about the rooms themselves."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Bathroom spray stock and the tin's receipts",
+     "text": "There are three part-used bottles of the same bathroom spray in the cupboard, and the tin's receipts come to about 2,300 yen a month, much of it bought twice.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "There are three part-used bottles of the same bathroom spray in the cupboard, and the tin's receipts come to about 2,300 yen a month, much of it bought twice."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Management office rate sheet and billing",
+     "text": "The management office's rate sheet posts a contracted cleaner at 4,200 yen an hour, and the bill goes to one named tenant who then collects from everyone else.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "The management office's rate sheet posts a contracted cleaner at 4,200 yen an hour, and the bill goes to one named tenant who then collects from everyone else."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Stopwatch timing of a full pass",
+     "text": "A housemate ran a stopwatch on a proper pass last Sunday: the hob and kitchen floor came to forty-seven minutes, the bathroom thirty-five, the living room twenty.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1
+     },
+     "text_source": "I ran a stopwatch on a proper pass last Sunday: the hob and kitchen floor came to forty-seven minutes, the bathroom thirty-five, the living room twenty."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Standard terms of the outside firm",
+     "text": "The cleaning firm's standard terms give a two-hour arrival window and say anything left on a surface is worked around, so someone must be in and tidy beforehand.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "The cleaning firm's standard terms give a two-hour arrival window and say anything left on a surface is worked around, so someone must be in and tidy beforehand."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Bathroom grout after the July scrub",
+     "text": "A housemate marked the bathroom grout after scrubbing it in July and the black spotting was back inside eleven days; that small window is the only ventilation the bathroom has.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "I marked the bathroom grout after scrubbing it in July and the black spotting was back inside eleven days; that small window is the only ventilation we have."
+    },
+    {
+     "card_id": "card_06",
+     "title": "What each housemate counts as done",
+     "text": "Some of the housemates count a room done once the basin is wiped, others only after the floor and the drain, so its state swings with whoever last had it.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "Some of us count a room done once the basin is wiped, others only after the floor and the drain, so its state swings with whoever last had it."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Absences on the wall calendar",
+     "text": "The wall calendar shows two of the five away for a week or more in most months, and one housemate was gone for the whole of August.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "The wall calendar shows two of the five away for a week or more in most months, and one of us was gone for the whole of August."
+    },
+    {
+     "card_id": "card_08",
+     "title": "A fortnight's watch on kitchen use",
+     "text": "A fortnight of watching the kitchen found that nearly everything that piles up in there comes from two or three housemates cooking, while the rest only make coffee.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "Watching the kitchen for a fortnight, nearly everything that piles up in there comes from two or three of us cooking, while the rest only make coffee."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Rows recorded in the house chat",
+     "text": "Scrolling back through the house chat, both of the rows the household has had started with one person reminding another about something that had not been done.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "Scrolling back through the house chat, both of the rows we have had started with one person reminding another about something that had not been done."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Note left by the previous tenants",
+     "text": "The previous tenants left a note inside the cupboard door saying they divided the rooms permanently, and that by the second year two of them barely spoke.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "The tenants before us left a note inside the cupboard door saying they divided the rooms permanently, and that by the second year two of them barely spoke."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 3,
+      "time_burden": 5,
+      "comfort": 4,
+      "fairness": 2,
+      "relationship": 5
+     },
+     "B": {
+      "cost_burden": 5,
+      "time_burden": 2,
+      "comfort": 2,
+      "fairness": 4,
+      "relationship": 5
+     },
+     "C": {
+      "cost_burden": 3,
+      "time_burden": 4,
+      "comfort": 5,
+      "fairness": 3,
+      "relationship": 1
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 3
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 2,
+       "B": 4,
+       "C": 3
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 5,
+       "B": 5,
+       "C": 1
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 4,
+       "B": 2,
+       "C": 5
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 5,
+       "B": 2,
+       "C": 4
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_002",
+   "source_instance_id": "living_002",
+   "source_topic_id": "living_002",
+   "topic": {
+    "title": "Choosing the destination for the club's training camp",
+    "context": "A university club runs one training camp a year, and the five members organizing it must commit to a destination before bookings open. The whole membership will travel together.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Coastal Lodge",
+      "summary": "A seaside guesthouse two prefectures away that the club has never used, offering the group its own building and meals arranged through the owner."
+     },
+     {
+      "label": "B",
+      "name": "Mountain Training Centre",
+      "summary": "A public sports facility inland with shared dormitories and equipment on site, booked through the municipal reservation system."
+     },
+     {
+      "label": "C",
+      "name": "Campus Intensive",
+      "summary": "A block of consecutive days in the club's own facilities on campus, with accommodation arranged separately for members who live too far to commute."
+     }
+    ]
+   },
+   "problems": {
+    "1": "The fee we announced for last year's camp came up short of what the trip actually cost, and the club account has been carrying the gap ever since. I am not putting a number in front of the membership again until I know where the money really goes.",
+    "2": "Whoever ran last year's camp lost most of a month of evenings to the arrangements and then spent the camp itself on duty instead of training. Two of those people have already said they will not take it on a second time.",
+    "3": "Half the group came back from the last camp having slept badly for four nights running, and the final day's sessions were visibly worse for it. Before anything is booked I want to know what the nights and the days would actually be like.",
+    "4": "The camp goes out at one flat fee, and I suspect it lands very unevenly once what people spend on the side is counted. When someone pulls out at the last minute, we have also never worked out whose money covers it.",
+    "5": "The club has drifted into year-groups that barely speak outside practice, and the last camp did nothing to change that. Where we go decides who spends their evenings with whom — and who turns up at all."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Prefecture rate sheet for publicly run beds",
+     "text": "The prefecture's published rate sheet for publicly run lodging lists 1,100 yen a night per student bed, with hall and equipment use folded into the same charge.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "I pulled the prefecture's published rate sheet for publicly run lodging: 1,100 yen a night per student bed, with hall and equipment use folded into the same charge."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Group transport in three years of receipts",
+     "text": "Three years of receipts show group transport as the largest single line every time — 38% of the total the year the club went furthest, against 9% the year it stayed local.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "Three years of receipts show group transport as the largest single line every time — 38% of the total the year we went furthest, against 9% the year we stayed local."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Canteen closure and last year's cooking duty",
+     "text": "The campus canteen closes for the vacation block, and the club cooking for itself cost the duty pair two hours a day last year — somewhere with kitchen staff removes that.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "The campus canteen closes for the vacation block, and cooking for ourselves cost the duty pair two hours a day last year — somewhere with kitchen staff removes that."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Lottery and application for public group bookings",
+     "text": "Group bookings at publicly run centres go through a lottery six months ahead, and the nine-page application has to be resubmitted whole if a single date shifts.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "Group bookings at publicly run centres go through a lottery six months ahead, and the nine-page application has to be resubmitted whole if a single date shifts."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Accounts from two clubs that went inland",
+     "text": "Two clubs who used the inland centres last summer reported that they got their booked hall slots but slept eight to a room, lights out enforced at eleven.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "Two clubs who used the inland centres last summer told me they got their booked hall slots but slept eight to a room, lights out enforced at eleven."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Vacation timetable for the club's own hall",
+     "text": "The vacation timetable for the club's own hall already has three other clubs in it, so a continuous block would mean training split between early mornings and late evenings.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "The vacation timetable for our own hall already has three other clubs in it, so a continuous block would mean training split between early mornings and late evenings."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Membership list against first-train times",
+     "text": "Mapping the membership list against first-train times, a third of the club cannot be on campus by nine in the morning without paying for a bed the night before.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "Mapping the membership list against first-train times, a third of the club cannot be on campus by nine in the morning without paying for a bed the night before."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Quoting terms for whole-building lets",
+     "text": "Whole-building lets at small inns are quoted on a headcount fixed weeks ahead with the deposit non-refundable, so anyone who drops out late is paid for by the rest.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "Whole-building lets at small inns are quoted on a headcount fixed weeks ahead with the deposit non-refundable, so anyone who drops out late is paid for by the rest."
+    },
+    {
+     "card_id": "card_09",
+     "title": "What the seniors say about year-groups mixing",
+     "text": "The seniors who were asked all trace the year-groups actually mixing to the evenings after sessions, which only happen when everyone is sleeping in the same place.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "The seniors I asked all trace the year-groups actually mixing to the evenings after sessions, which only happen when everyone is sleeping in the same place."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Attendance sheets for the away camps",
+     "text": "The attendance sheets for the away camps show a fifth of the membership never came at all, and most of those names had gone from the register by winter.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "The attendance sheets for the away camps show a fifth of the membership never came at all, and most of those names had gone from the register by winter."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 1,
+      "time_burden": 5,
+      "comfort": 4,
+      "fairness": 3,
+      "relationship": 2
+     },
+     "B": {
+      "cost_burden": 3,
+      "time_burden": 3,
+      "comfort": 2,
+      "fairness": 5,
+      "relationship": 5
+     },
+     "C": {
+      "cost_burden": 5,
+      "time_burden": 2,
+      "comfort": 4,
+      "fairness": 4,
+      "relationship": 1
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 4,
+       "B": 2,
+       "C": 4
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 2
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 1,
+       "B": 3,
+       "C": 5
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 4
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 2,
+       "B": 5,
+       "C": 1
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_003",
+   "source_instance_id": "living_003",
+   "source_topic_id": "living_003",
+   "topic": {
+    "title": "Reorganizing the neighbourhood refuse point",
+    "context": "The collection point that five neighbouring households share has become a recurring source of complaints. The five representatives are settling on one arrangement with the ward office.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Enclosed Structure",
+      "summary": "A permanent enclosure is built at the existing location, with the households handling the ward application and the construction arrangements themselves."
+     },
+     {
+      "label": "B",
+      "name": "Rotating Location",
+      "summary": "The point moves between the frontages of the participating households on a published rotation, changing at fixed intervals through the year."
+     },
+     {
+      "label": "C",
+      "name": "Managed Collection Hours",
+      "summary": "The point stays where it is, but refuse may only be put out inside a narrow window before collection, with the households taking turns to oversee it."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Whatever we settle on, the bill lands on five households with very different room in their budgets, and so far nobody has added up either what it would take to set up or what this corner already costs us every year.",
+    "2": "Every arrangement this lane has agreed to has ended up resting on whoever answers the phone first, and I have watched that quietly wear people down. Before we commit I want to know, in hours, what this one takes out of us — the setting up and the keeping it going.",
+    "3": "The corner has stopped being somewhere anyone wants to walk past in August, and I suspect the obvious fix would only swap one daily annoyance for another. I wanted to know what each of these arrangements is really like to live beside, morning by morning.",
+    "4": "One household has had this at their gate for years while the rest of us only walk past it, and I do not want us to sign something that quietly leaves it that way. Any plan that calls itself equal deserves a hard look at what each of us would actually be taking on.",
+    "5": "Two of these households have barely spoken since the last row about the bins, and whatever we choose, we still have to live on this lane together. What worries me is less which arrangement wins than which one leaves us able to knock on each other's doors afterwards."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Ward subsidy and last year's shelter costs",
+     "text": "The ward's improvement subsidy refunds forty percent capped at ninety thousand yen, and its works record puts last year's five bin shelters at an average of two hundred forty-eight thousand.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "The ward's improvement subsidy refunds forty percent capped at ninety thousand yen, and its works record puts last year's five bin shelters at an average of two hundred forty-eight thousand."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Block ledger of refuse-point expenses",
+     "text": "The block ledger shows thirty-four thousand yen a year on replacement nets, deodorant and extra call-out fees, all of it from bags standing open at the kerb.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "Our block ledger shows thirty-four thousand yen a year on replacement nets, deodorant and extra call-out fees, all of it from bags standing open at the kerb."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Ward filing requirements per the installations clerk",
+     "text": "The installations clerk went through the file: a permanent build needs a measured site plan, five signatures and four months, and each change of site needs its own notice.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "The installations clerk walked me through the file: a permanent build needs a measured site plan, five signatures and four months, and each change of site needs its own notice."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Supervised mornings on the next lane",
+     "text": "Three supervised mornings on the next lane were timed at fifty minutes each on average, and a five-household turn order would hand every house about twenty of them a year.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "I timed three supervised mornings on the next lane: fifty minutes each on average, and a five-household turn order would hand every house about twenty of them a year."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Visit to the station block's bin house",
+     "text": "A visit to the bin house the station block built found that its base cannot be hosed out, and by midsummer the sour smell inside carries further than the old open pile.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "I visited the bin house the station block built: its base cannot be hosed out, and by midsummer the sour smell inside carries further than the old open pile."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Truck arrival time from the crew leader",
+     "text": "The crew leader says the truck reaches this lane between seven forty and eight fifteen, so a window tight enough to clear the pavement starts before some of the residents wake.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "The crew leader says the truck reaches this lane between seven forty and eight fifteen, so a window tight enough to clear the pavement starts before some of us wake."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Ward complaint log for this point",
+     "text": "The ward's complaint log lists this point fourteen times in three years, and eleven of those entries were filed by the household whose gate it stands beside.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "The ward's complaint log lists this point fourteen times in three years, and eleven of those entries were filed by the household whose gate it stands beside."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Measurements of the five frontages",
+     "text": "Measuring the five frontages found that two take a marked bay comfortably, one is crossed by a driveway for most of its width, and the narrowest leaves ninety centimetres of pavement.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "I measured the five frontages: two take a marked bay comfortably, one is crossed by a driveway for most of its width, and the narrowest leaves ninety centimetres of pavement."
+    },
+    {
+     "card_id": "card_09",
+     "title": "The station block's meeting minutes",
+     "text": "The station block's minutes show that within two years of building theirs they were arguing over who pays for the broken latch and whose turn it is to sweep inside.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0
+     },
+     "text_source": "The station block's minutes show that within two years of building theirs they were arguing over who pays for the broken latch and whose turn it is to sweep inside."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Statements at the residents' meeting",
+     "text": "At the residents' meeting three people said outright they would not turn a neighbour's late bag away, and nobody volunteered to be the one who does.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "At the residents' meeting three people said outright they would not turn a neighbour's late bag away, and nobody volunteered to be the one who does."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 4,
+      "time_burden": 4,
+      "comfort": 1,
+      "fairness": 2,
+      "relationship": 2
+     },
+     "B": {
+      "cost_burden": 1,
+      "time_burden": 1,
+      "comfort": 3,
+      "fairness": 3,
+      "relationship": 5
+     },
+     "C": {
+      "cost_burden": 2,
+      "time_burden": 2,
+      "comfort": 2,
+      "fairness": 4,
+      "relationship": 5
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 1,
+       "B": 3,
+       "C": 2
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 2,
+       "B": 5,
+       "C": 5
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 2
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 2,
+       "B": 3,
+       "C": 4
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 2
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_004",
+   "source_instance_id": "living_004",
+   "source_topic_id": "living_004",
+   "topic": {
+    "title": "Rearranging the office seating",
+    "context": "A team of five has outgrown the way its desks were originally placed, and the layout is being settled before the floor is reorganized. All five will sit in whatever is decided.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Fixed Desks by Function",
+      "summary": "Desks are grouped by the kind of work each person does, with each seat permanently assigned and named on the floor plan."
+     },
+     {
+      "label": "B",
+      "name": "Free Address",
+      "summary": "No seat belongs to anyone; people take whatever desk is open when they arrive and clear it before leaving at the end of the day."
+     },
+     {
+      "label": "C",
+      "name": "Rotating Blocks",
+      "summary": "Seats are assigned but the whole team shifts to a different block of desks at fixed intervals through the year."
+     }
+    ]
+   },
+   "problems": {
+    "1": "The reorganization comes out of the same budget line that has not been raised since the team was half this size. I would rather know what this floor actually costs us, one way and every month, before we commit to a shape for it.",
+    "2": "My week is already cut into short gaps between meetings, and anything that eats those gaps costs far more than it looks like on paper. Before a layout is fixed I want to know what it takes out of our days, both while we are changing over and on every ordinary morning after.",
+    "3": "I sit still at one desk for most of eight hours, and by mid-afternoon how that spot sounds and how well it fits my body matter more to me than anything on the floor plan. Comfort is the part of this decision nobody ever writes down, and I would like it written down this time.",
+    "4": "Whatever we agree will hand some people a better place to sit than others, and as things stand that has never once been said out loud. I would rather we decided who carries the worse end of it than let it fall out of habit.",
+    "5": "Who I end up sitting beside decides how much of this team I actually talk to in a week, and right now that is being settled by furniture rather than by us. I would rather we worked out what that costs and what it buys now, not a year after the fact."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Facilities quote for re-running power and network",
+     "text": "Facilities quoted 6,200 yen per desk to re-run power and network to a new position, and the same charge lands again for every later change to the plan.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "Facilities quoted 6,200 yen per desk to re-run power and network to a new position, and the same charge lands again for every later change to the plan."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Basis of the department's floor billing",
+     "text": "The department is billed for floor area rather than headcount; the two desks that stood empty all last quarter still cost it about 41,000 yen a month.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "We are billed for floor area rather than headcount; the two desks that stood empty all last quarter still cost the department about 41,000 yen a month."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Morning routine on the pilot floor upstairs",
+     "text": "The morning routine on the pilot floor upstairs was timed: choosing a desk, plugging in, and getting two screens working ran between four and nine minutes per person.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "I timed the morning routine on the pilot floor upstairs: choosing a desk, plugging in, and getting two screens working ran between four and nine minutes per person."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Unplanned seat shuffles in the past year",
+     "text": "Twice in the past year a change in someone's work forced an unplanned desk shuffle; each round dragged on for a fortnight of interruptions and half-packed boxes.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "Twice in the past year a change in someone's work forced an unplanned desk shuffle; each round dragged on for a fortnight of interruptions and half-packed boxes."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Sound meter readings across the room",
+     "text": "A sound meter borrowed from the lab read about nine decibels higher along the row by the printer and corridor door than at the window side, all afternoon.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "A sound meter borrowed from the lab read about nine decibels higher along the row by the printer and corridor door than at the window side, all afternoon."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Physio's note from the workstation check",
+     "text": "The team's chairs, monitor arms and footrests are all hand-adjusted; the physio who ran last year's workstation check said a good setting takes days of small corrections to settle.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "Our chairs, monitor arms and footrests are all hand-adjusted; the physio who ran last year's workstation check said a good setting takes days of small corrections to settle."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Drawn plan against the staff survey",
+     "text": "The drawn plan gives four desks a window and leaves three set against the interior wall; daylight was the single most repeated complaint in the last staff survey.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "The drawn plan gives four desks a window and leaves three set against the interior wall; daylight was the single most repeated complaint in the last staff survey."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Arrival times in the badge records",
+     "text": "Badge records show some of the team arrive before eight and others after ten, so anything handed out on a first-come basis is settled before half the team is in.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "Badge records show some of us arrive before eight and others after ten, so anything handed out on a first-come basis is settled before half the team is in."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Two project strands within earshot last spring",
+     "text": "When the two project strands sat within earshot last spring, questions got answered across the aisle in seconds and the written handover notes the team relied on quietly stopped.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "When the two project strands sat within earshot last spring, questions got answered across the aisle in seconds and the written handover notes we relied on quietly stopped."
+    },
+    {
+     "card_id": "card_10",
+     "title": "What this year's two joiners reported",
+     "text": "Both people who joined this year said they picked up the unwritten side of the work by overhearing conversations that had nothing to do with what they were hired for.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "Both people who joined this year told me they picked up the unwritten side of the work by overhearing conversations that had nothing to do with what they were hired for."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 3,
+      "time_burden": 5,
+      "comfort": 5,
+      "fairness": 4,
+      "relationship": 3
+     },
+     "B": {
+      "cost_burden": 5,
+      "time_burden": 3,
+      "comfort": 2,
+      "fairness": 3,
+      "relationship": 5
+     },
+     "C": {
+      "cost_burden": 3,
+      "time_burden": 4,
+      "comfort": 5,
+      "fairness": 1,
+      "relationship": 5
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 3
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 4
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 5,
+       "B": 2,
+       "C": 5
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 5
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 4,
+       "B": 3,
+       "C": 1
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_005",
+   "source_instance_id": "living_005",
+   "source_topic_id": "living_005",
+   "topic": {
+    "title": "Choosing where the group travels",
+    "context": "Five friends take one trip together each year and have reached the point where the destination must be fixed. Everyone is going regardless of which is chosen.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Hot Spring Town",
+      "summary": "A stay at an inn in a spa town reachable by train, with meals taken at the inn and the days left unplanned."
+     },
+     {
+      "label": "B",
+      "name": "City Break",
+      "summary": "Several nights in a large city with separate accommodation and a loose plan, leaving each person to arrange their own daytime routes."
+     },
+     {
+      "label": "C",
+      "name": "Island Trip",
+      "summary": "A stay on an offshore island reached by ferry, with the group in one rented house and transport on the island arranged as a group."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Whatever we settle on, the bill always lands differently from what I pictured when I agreed to it, and by then there is nothing to be done. I would rather know what the whole week costs before we commit than find it out in instalments.",
+    "2": "Every year the getting there swallows a day at each end, and I come home needing a rest from the holiday. What I mind is not the distance so much as how much of the week goes on arranging, moving and waiting.",
+    "3": "I sleep badly away from home, and it is the small things that decide how a week goes: where I wash, when I have to be at the table, whether there is anywhere to sit that is not a bed. By the middle of last year's trip I was counting the days.",
+    "4": "We have never had a rule for who pays for what, so it holds until it doesn't and somebody quietly ends up out of pocket. I would rather the money fell out of the arrangement itself than out of who happened to be organised that month.",
+    "5": "The point of these weeks is the five of us together, yet the last few have left me feeling either crowded or oddly alone, and never for a reason I could name at the time. Before we book anything I would like to understand what actually produces that."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Pricing of offshore houses let whole",
+     "text": "Houses out on the islands let by the building rather than the head: the ones that were priced come to about 5,400 yen a head a night, with food on top.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "Houses out on the islands let by the building rather than the head: the ones I priced come to about 5,400 yen a head a night, with food on top."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Valley inn rates versus urban beds",
+     "text": "Inn rates in that valley sit near 17,000 yen a head with dinner and breakfast folded in; a city bed alone runs 12,000 to 20,000, and meals come after that.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "Inn rates in that valley sit near 17,000 yen a head with dinner and breakfast folded in; a city bed alone runs 12,000 to 20,000, and meals come after that."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Ferry sailings and train time",
+     "text": "The ferry sails three times a day and the last one back leaves at 16:20, so two days go to travelling; the train up to the spa valley takes ninety minutes.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "The ferry sails three times a day and the last one back leaves at 16:20, so two days go to travelling; the train up to the spa valley takes ninety minutes."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Getting around by train and bus",
+     "text": "A city runs on trains every few minutes, so nobody has to plan ahead to move; the bus out of the spa valley goes hourly and stops before seven in the evening.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "A city runs on trains every few minutes, so nobody has to plan ahead to move; the bus out of the spa valley goes hourly and stops before seven in the evening."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Bathing hours and bathroom provision",
+     "text": "Inn baths open from before six in the morning until midnight; the island houses examined list one bathroom for the whole building, and reviews mention the water running cold.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "Inn baths open from before six in the morning until midnight; the island houses I looked at list one bathroom for the whole building, and reviews mention the water running cold."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Inn mealtimes and room arrangements",
+     "text": "Dinner at those inns is served at six and breakfast at half seven, with everyone on futons in one room; a city room has a door and no timetable.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "Dinner at those inns is served at six and breakfast at half seven, with everyone on futons in one room; a city room has a door and no timetable."
+    },
+    {
+     "card_id": "card_07",
+     "title": "All-in rates against meals bought separately",
+     "text": "An all-in per-head rate charges the light eater exactly what the biggest appetite pays, whereas meals bought on the day are settled at whatever each person actually orders.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "An all-in per-head rate charges the light eater exactly what the biggest appetite pays, whereas meals bought on the day are settled at whatever each person actually orders."
+    },
+    {
+     "card_id": "card_08",
+     "title": "What separately booked rooms cost last time",
+     "text": "Rooms booked one at a time for the same nights differed by nearly 8,000 yen across the group last trip, while a building rented whole arrives as one bill that divides evenly.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "Rooms booked one at a time for the same nights differed by nearly 8,000 yen between us last trip, while a building rented whole arrives as one bill that divides evenly."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Time alone in the shared-house year",
+     "text": "The year the group took a house together, whoever wanted an hour by themselves had nowhere to take it; a town with streets, shops and a public bath absorbs that easily.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "The year we took a house together, whoever wanted an hour by themselves had nowhere to take it; a town with streets, shops and a public bath absorbs that easily."
+    },
+    {
+     "card_id": "card_10",
+     "title": "How last year's days ran",
+     "text": "Last year the days ran separately and two of the group went from breakfast to dinner without meeting; a party that moves together shares the day whether it plans to or not.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "Last year the days ran separately and two of us went from breakfast to dinner without meeting; a party that moves together shares the day whether it plans to or not."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 2,
+      "time_burden": 2,
+      "comfort": 3,
+      "fairness": 5,
+      "relationship": 1
+     },
+     "B": {
+      "cost_burden": 4,
+      "time_burden": 4,
+      "comfort": 1,
+      "fairness": 2,
+      "relationship": 4
+     },
+     "C": {
+      "cost_burden": 3,
+      "time_burden": 2,
+      "comfort": 3,
+      "fairness": 1,
+      "relationship": 3
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 2,
+       "B": 4,
+       "C": 2
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 5,
+       "B": 2,
+       "C": 1
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 2,
+       "B": 4,
+       "C": 3
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 3,
+       "B": 1,
+       "C": 3
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 3
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_006",
+   "source_instance_id": "living_006",
+   "source_topic_id": "living_006",
+   "topic": {
+    "title": "Dividing the utility bills",
+    "context": "The five people in a shared house have been splitting gas, water, and electricity in a way that was agreed when only three of them lived there. They are deciding how the bills will be divided from now on.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Per-Room Metering",
+      "summary": "Individual meters are fitted to the private rooms, and each person settles their own reading while the shared-area consumption is billed to the household as a whole."
+     },
+     {
+      "label": "B",
+      "name": "Flat Household Share",
+      "summary": "The total is divided by the number of residents each month, with the amount recalculated whenever someone moves in or out of the house."
+     },
+     {
+      "label": "C",
+      "name": "Seasonal Fixed Rate",
+      "summary": "A set monthly figure is agreed in advance for each season, and the difference against the actual bills is settled once at the end of the year."
+     }
+    ]
+   },
+   "problems": {
+    "1": "The utilities envelope has stopped bearing any relation to what I put aside for it, and in the cold months my share lands like a second rent. I do not want to commit to anything before I know what the money actually does across a year, and what changing the setup would cost us up front.",
+    "2": "Working out what everyone owes has quietly become a monthly job that lands on whoever is least able to say no, and it takes longer every time someone queries it. Whatever we settle on, somebody has to keep it running, and I want to know how much of their evenings it will really swallow.",
+    "3": "I have started doing arithmetic in my head before switching anything on, and last winter I sat here in a coat rather than be the one who turned the heating up. What we choose will quietly decide how this place feels to live in, and I would rather that were said aloud than discovered in February.",
+    "4": "The way we divide this was worked out when the house was two-thirds full, and it now asks exactly the same of people whose days here look nothing alike. I keep hearing that somebody is carrying somebody else, and I would rather establish whether that is true than let it fester as a rumour.",
+    "5": "Money has started to sour how we speak to each other here: a reminder gets read as an accusation, and whoever sends it is avoided for a week afterwards. I would rather look squarely at where the bills have already damaged things between us than keep smoothing it over."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Electrician's quote for the rooms",
+     "text": "An electrician came to look and quoted 34,000 yen a room to fit sub-meters, plus a 3,000 yen check on each every year and two days of wiring.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0
+     },
+     "text_source": "An electrician came to look and quoted 34,000 yen a room to fit sub-meters, plus a 3,000 yen check on each every year and two days of wiring."
+    },
+    {
+     "card_id": "card_02",
+     "title": "The last twelve utility statements",
+     "text": "The last twelve statements, laid out side by side, show February at 29,400 yen and August at 9,100, with no two consecutive months landing within 4,000 yen of each other.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "I laid out the last twelve statements: February came to 29,400 yen and August to 9,100, and no two consecutive months landed within 4,000 yen of each other."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Monthly settle observed at another house",
+     "text": "Sitting in on the monthly settle at a share house that meters its rooms showed forty minutes of logging readings, issuing five demands, and splitting the corridor and kitchen total by hand.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0
+     },
+     "text_source": "I sat in on the monthly settle at a share house that meters its rooms: forty minutes of logging readings, issuing five demands, and splitting the corridor and kitchen total by hand."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Trial run of a reconciliation template",
+     "text": "A year-end reconciliation template trialled on the house's own figures meant keying in every invoice from the year one by one, then computing five refunds or top-ups separately.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "I trialled a year-end reconciliation template on our own figures: every invoice from the year keyed in one by one, then five refunds or top-ups computed separately."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Kitchen notice about the cooler",
+     "text": "A notice about the cooler went up in the house's kitchen in July and stayed all summer; two people said they sweated it out rather than have a pooled bill argued over.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "A notice about the cooler went up in the kitchen here in July and stayed all summer; two people said they sweated it out rather than have a pooled bill argued over."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Winter habits at a house paying ahead",
+     "text": "In a household paying a figure fixed ahead for each season, nobody prices a switch before flicking it; they said the hall heater simply stayed on through January.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "In a household paying a figure fixed ahead for each season, nobody prices a switch before flicking it; they said the hall heater simply stayed on through January."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Plug-in monitor readings room by room",
+     "text": "A plug-in monitor moved between the rooms, a week in each, found the heaviest drawing roughly four times the lightest, most of that a heater and a desktop left running.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "I moved a plug-in monitor between the rooms, a week in each: the heaviest drew roughly four times the lightest, most of that a heater and a desktop left running."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Sunlight and heating need by room",
+     "text": "Two of the five rooms take no direct sun and need heat from November, while the south pair stay warm into December; the rooms were originally handed out by lot.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "Two of the five rooms take no direct sun and need heat from November, while the south pair stay warm into December; the rooms were originally handed out by lot."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Payment log for the last twelve months",
+     "text": "The house's payment log shows three of the last twelve months settled more than a fortnight late, each time after somebody queried why the amount asked of them had moved again.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "Our payment log shows three of the last twelve months settled more than a fortnight late, each time after somebody queried why the amount asked of them had moved again."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Settling up when the last rooms filled",
+     "text": "When the last two rooms filled up mid-month, it took three weeks to agree what the newcomers owed for the days before they arrived, and part was written off.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "When the last two rooms filled up mid-month, it took three weeks to agree what the newcomers owed for the days before they arrived, and part was written off."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 5,
+      "time_burden": 1,
+      "comfort": 2,
+      "fairness": 3,
+      "relationship": 2
+     },
+     "B": {
+      "cost_burden": 3,
+      "time_burden": 4,
+      "comfort": 4,
+      "fairness": 1,
+      "relationship": 2
+     },
+     "C": {
+      "cost_burden": 2,
+      "time_burden": 4,
+      "comfort": 3,
+      "fairness": 2,
+      "relationship": 5
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 3,
+       "B": 1,
+       "C": 2
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 2,
+       "B": 2,
+       "C": 5
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 4
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 2
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 2,
+       "B": 4,
+       "C": 3
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_007",
+   "source_instance_id": "living_007",
+   "source_topic_id": "living_007",
+   "topic": {
+    "title": "Setting the membership fee structure",
+    "context": "A club's running costs have shifted since the fee was last set, and the five people on the committee must fix the structure for the coming year. Every member will pay under whichever structure is chosen.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Flat Annual Fee",
+      "summary": "One figure charged to every member at the start of the year, covering all activities, with no separate charges collected during the year."
+     },
+     {
+      "label": "B",
+      "name": "Activity-Based Charging",
+      "summary": "A small base fee plus a charge attached to each event, collected from the members who take part in that particular event."
+     },
+     {
+      "label": "C",
+      "name": "Tiered Membership",
+      "summary": "Members choose between named levels of participation at the point of joining, each level carrying its own fee and its own scope of activities."
+     }
+    ]
+   },
+   "problems": {
+    "1": "The account is thinner than it looks, and I keep being asked what next year will actually cost people, yet nobody on the committee can say what we can count on coming in. I would rather not set a figure by guesswork the way we did last time.",
+    "2": "Keeping the books has swallowed whole evenings for whoever holds the job, and two people have handed the role back in three years. Before we commit to a way of collecting, I want to know what we are really asking of the next person who takes it on.",
+    "3": "The evenings have a hesitancy about them that was not there before, and several regulars now leave it until the last moment to decide whether to come out. Turning up to something you belong to should not need that much weighing up.",
+    "4": "The same dozen faces are at everything while others pay the same and appear twice a year, and it is being said openly now rather than muttered. I would rather find out how uneven it actually is, and who is carrying the work, before we argue about it.",
+    "5": "What has held this place together is that nobody knows or minds what anyone else puts in, and newcomers have always been able to drift in and find their feet. Both of those feel like they are slipping, and whatever we settle on will be visible to every member."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Last year's ledger of outgoings",
+     "text": "Last year's ledger shows hall hire, insurance and storage coming to about seventy percent of the club's outgoings, all of it billed whether anyone turns up.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "I went back through last year's ledger: hall hire, insurance and storage came to about seventy percent of our outgoings, and all of it is billed whether anyone turns up."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Bank statements on last year's renewals",
+     "text": "The bank statements show a third of last year's renewals only cleared after two rounds of reminders, and several people asked to spread the payment across months.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "The bank statements show a third of last year's renewals only cleared after two rounds of reminders, and several people asked to spread the payment across months."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Outgoing treasurer's logged hours",
+     "text": "At the handover last spring the outgoing treasurer had logged their hours: chasing money taken at individual sessions ran to six hours a month, against barely one for a yearly collection.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "At the handover last spring the outgoing treasurer had logged their hours: chasing money taken at individual sessions ran to six hours a month, against barely one for a yearly collection."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Sign-up records for mid-year joiners",
+     "text": "The club's sign-up records list eleven people who joined partway through the year, and each one needed a hand-worked part-year calculation before they would put their name down.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "Our sign-up records list eleven people who joined partway through the year, and each one needed a hand-worked part-year calculation before they would put their name down."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Weekday turnout since the summer outings",
+     "text": "When a door charge was put on the summer outings, turnout at the quieter weekday meetings fell by roughly a third and never recovered; people stopped treating those evenings as already theirs.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "When we put a door charge on the summer outings, turnout at the quieter weekday meetings fell by roughly a third and never recovered; people stopped treating those evenings as already theirs."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Quieter members at the winter social",
+     "text": "Three of the quieter members said at the winter social that they turn out for two things a year and feel uneasy about what that works out to each time.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1
+     },
+     "text_source": "Three of the quieter members said at the winter social that they turn out for two things a year and feel uneasy about what that works out to each time."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Tally of the sign-in sheets",
+     "text": "A tally of the sign-in sheets shows a quarter of the membership accounting for two-thirds of all attendances, with eighteen names appearing on no sheet at all.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1
+     },
+     "text_source": "I tallied the sign-in sheets: a quarter of the membership accounted for two-thirds of all attendances, and eighteen names appeared on no sheet at all."
+    },
+    {
+     "card_id": "card_08",
+     "title": "The rota against the attendance record",
+     "text": "Set beside the attendance record, the rota shows that the nine people who do the setting up and locking up are the same nine at the top of the turnout list.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "I set the rota beside the attendance record, and the nine people who do the setting up and locking up are the same nine at the top of the turnout list."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Minute books from the named-grade years",
+     "text": "The minute books from the years when the club last ran named grades record steady friction, and the two people who remember it say the lower grade stopped putting themselves forward.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "The minute books from the years when the club last ran named grades record steady friction, and the two people who remember it say the lower grade stopped putting themselves forward."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Taster evening forms from non-joiners",
+     "text": "Nine of the fourteen who came to a taster evening and never joined gave the same reason on the form: they would not take on a whole year at once.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1
+     },
+     "text_source": "Nine of the fourteen who came to a taster evening and never joined gave the same reason on the form: they would not take on a whole year at once."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 4,
+      "time_burden": 3,
+      "comfort": 5,
+      "fairness": 5,
+      "relationship": 1
+     },
+     "B": {
+      "cost_burden": 2,
+      "time_burden": 2,
+      "comfort": 3,
+      "fairness": 4,
+      "relationship": 5
+     },
+     "C": {
+      "cost_burden": 2,
+      "time_burden": 4,
+      "comfort": 5,
+      "fairness": 3,
+      "relationship": 2
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 3,
+       "B": 2,
+       "C": 4
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 4,
+       "B": 2,
+       "C": 2
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 5,
+       "B": 4,
+       "C": 3
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 1,
+       "B": 5,
+       "C": 2
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 5
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_008",
+   "source_instance_id": "living_008",
+   "source_topic_id": "living_008",
+   "topic": {
+    "title": "Allocating the bicycle parking spaces",
+    "context": "A small apartment building has fewer bicycle spaces than residents who want them, and the five members of the residents' association must decide how they are allocated.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Annual Lottery",
+      "summary": "All spaces are drawn by lot once a year among the households that apply, with the result standing until the next draw regardless of circumstances."
+     },
+     {
+      "label": "B",
+      "name": "Paid Allocation",
+      "summary": "Spaces are attached to a monthly charge and held by whoever takes them up, with the income going to the building's shared account."
+     },
+     {
+      "label": "C",
+      "name": "Shared Racks",
+      "summary": "The fixed allocation is dropped in favour of open double-tier racks that anyone may use on arrival, with no space belonging to a particular household."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Every proposal that comes up at our meetings ends with someone asking what it will cost the building, and nobody has ever gone and looked. I also have no idea what a household actually pays when it ends up with nowhere to keep a bike.",
+    "2": "Whatever we settle on, somebody has to keep it running month after month, and the last two jobs we invented landed on one person and then quietly lapsed. I wanted to know what handling it would actually take, in paperwork and in physical effort.",
+    "3": "Getting a bike out in the morning has turned into a shoving match down there, and where yours happens to end up standing seems to decide what state it is in by the evening. Neither of those is anyone's fault exactly, which is why I went and looked properly.",
+    "4": "People have started grumbling that the same places always seem to go to the same doors, and I cannot tell whether that is how it actually happened or just resentment. Nor can I say whether the places we have now sit anywhere near where the bikes actually are.",
+    "5": "The last thing I want is a rule that turns people who currently nod at each other in the lobby into people who time their exits to avoid it. Things down in the bike area have gone sour once or twice already, and I wanted to know what happens to a building when an arrangement like this starts to bite."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "The building account's two-year ledger",
+     "text": "The shared account's ledger for the past two years covers cleaning and lighting and little else, and any capital work would need a levy on households.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "I went through the shared account's ledger for the past two years: it covers cleaning and lighting and little else, and any capital work would need a levy on households."
+    },
+    {
+     "card_id": "card_02",
+     "title": "The ward cycle park by the station",
+     "text": "The ward cycle park by the station charges 2,600 yen a month, and the notice on its gate listed fourteen households waiting for a place.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "The ward cycle park by the station charges 2,600 yen a month, and the notice on its gate listed fourteen households waiting for a place."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Treasurer's handover file on cash collections",
+     "text": "The outgoing treasurer's handover file logs about three hours a month reconciling the small cash collections already run flat by flat, and per-place billing would sit on top of that.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "The outgoing treasurer's handover file logs about three hours a month reconciling the small cash collections we already run flat by flat, and per-place billing would sit on top of that."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Trial of the supplier's display frame",
+     "text": "On the supplier's display frame, hoisting a loaded bike onto the upper rail took both hands and twenty seconds, and the lift spring needs greasing twice a year.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "I tried the supplier's display frame: hoisting a loaded bike onto the upper rail took both hands and twenty seconds, and the lift spring needs greasing twice a year."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Morning departures watched from the entrance",
+     "text": "Over two weekday mornings watched from the entrance, eleven bikes left between seven and nine, and on four of those someone had to shift another machine first.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "I stood by the entrance two weekday mornings: eleven bikes left between seven and nine, and on four of those someone had to shift another machine first."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Rain exposure along the parking rows",
+     "text": "The row under the eaves stays dry, but the places past the downpipe take rain across them, and a saddle left there in winter is still wet the next morning.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "The row under the eaves stays dry, but the places past the downpipe take rain across them, and a saddle left there in winter is still wet the next morning."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Five years of association minutes",
+     "text": "Five years of association minutes show the covered places held by the same flats throughout, with no review of the arrangement recorded at any general meeting.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "Five years of association minutes show the covered places held by the same flats throughout, with no review of the arrangement recorded at any general meeting."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Sticker register and the daily riders",
+     "text": "The building's bicycle sticker register runs from no bikes to three per flat, and the households riding daily, when asked, said they would sooner pay something than be counted as one equal claim.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "Our bicycle sticker register runs from no bikes to three per flat, and the households riding daily told me they would sooner pay something than be counted as one equal claim."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Account from the neighbouring block's secretary",
+     "text": "At the block behind the building, a monthly charge on places left three households in arrears, and their association secretary said two of them stopped coming to meetings altogether.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "At the block behind us a monthly charge on places left three households in arrears, and their association secretary told me two of them stopped coming to meetings altogether."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Last year's complaint log entries",
+     "text": "The building's complaint log has nine notes from last year about machines leaning on each other, and every one of them died out because there was no one in particular to ask.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "Our complaint log has nine notes from last year about machines leaning on each other, and every one of them died out because there was no one in particular to ask."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 5,
+      "time_burden": 1,
+      "comfort": 2,
+      "fairness": 3,
+      "relationship": 5
+     },
+     "B": {
+      "cost_burden": 4,
+      "time_burden": 4,
+      "comfort": 1,
+      "fairness": 5,
+      "relationship": 3
+     },
+     "C": {
+      "cost_burden": 3,
+      "time_burden": 2,
+      "comfort": 3,
+      "fairness": 3,
+      "relationship": 5
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 5,
+       "B": 4,
+       "C": 3
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 5
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 3
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 2
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 2,
+       "B": 1,
+       "C": 3
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_009",
+   "source_instance_id": "living_009",
+   "source_topic_id": "living_009",
+   "topic": {
+    "title": "Deciding what the break room is for",
+    "context": "A shared room next to a small office has been used for several purposes at once, and it can no longer serve all of them. The five people who use it are settling its use.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Quiet Room",
+      "summary": "The room is kept for individual rest with conversation and calls taken elsewhere, and the furniture is arranged for people sitting alone."
+     },
+     {
+      "label": "B",
+      "name": "Meeting Space",
+      "summary": "The room becomes bookable for small discussions, with a table and a screen installed and a shared calendar governing its use."
+     },
+     {
+      "label": "C",
+      "name": "Open Kitchen",
+      "summary": "The room is fitted out for preparing and eating food, with the appliances and storage maintained by whoever uses them."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Whatever we settle on, somebody has to sign for it, and we are already paying out month by month because that room will not do the one thing we keep needing it for. I would rather see the figures on paper before we agree to anything.",
+    "2": "Every arrangement this building has tried ends up eating somebody's hours, either in upkeep that nobody actually volunteered for or in the walking about it leaves the rest of us doing. Before we commit to anything I want to know where those hours really go.",
+    "3": "I sit two metres from that door all day, and so does everyone else, and what happens in there does not stay in there. The complaints I hear are never about principle; they are about sound and mess, so I went and looked at both.",
+    "4": "Nobody ever decided how that room gets used; it simply goes to whoever gets there first, and the clearing up afterwards lands on whoever minds the most. I did not want to argue about any of that from impressions alone.",
+    "5": "We work a few metres apart and have somehow ended up strangers to one another, and when something difficult does need saying there is nowhere to say it. Whatever we choose has to be judged on that as much as on the fittings."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Invoices for outside hire by the hour",
+     "text": "Last year's invoices show 68,000 yen paid to the hourly room-hire place on the main road, across nine bookings, none of which was for more than four people.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "Last year's invoices show 68,000 yen paid to the hourly room-hire place on the main road, across nine bookings, none of which was for more than four people."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Quotes for the two fit-outs",
+     "text": "The quotes came back at 141,000 yen for a screen, bracket, cabling and a table to match, and 96,000 for a hob, fridge and the extra circuit an electrician must run.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "The quotes came back at 141,000 yen for a screen, bracket, cabling and a table to match, and 96,000 for a hob, fridge and the extra circuit an electrician must run."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Facilities callouts on this floor",
+     "text": "Facilities logged eleven callouts last year across the two rooms on this floor that hold equipment, and none for the store room that was emptied, which has only chairs in it.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "Facilities logged eleven callouts last year across the two rooms on this floor that hold equipment, and none for the store room we emptied, which has only chairs in it."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Round trip for a hot lunch",
+     "text": "The round trip to the nearest counter selling a hot lunch takes twenty-five minutes once the queue is counted, and most of the office makes it three or four days a week.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "The round trip to the nearest counter selling a hot lunch takes twenty-five minutes once the queue is counted, and most of us make it three or four days a week."
+    },
+    {
+     "card_id": "card_05",
+     "title": "The partition wall to the office",
+     "text": "The wall to the office is a single sheet of plasterboard; from the desk nearest it, a listener could follow both halves of a phone call held inside with the door shut.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "The wall to the office is a single sheet of plasterboard; from the desk nearest it I could follow both halves of a phone call held inside with the door shut."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Crumbs and bins at the desks",
+     "text": "Three of the five keyboards in the office have crumbs under the keys, and the desk bins have been going out daily since people started eating where they sit.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "Three of the five keyboards out there have crumbs under the keys, and the desk bins have been going out daily since people started eating where they sit."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Fortnight's tally of use by person",
+     "text": "A fortnight's tally shows the two people sitting nearest the door had the room eleven times between them, and everyone else four times in total.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "I kept a tally for a fortnight: the two people sitting nearest the door had the room eleven times between them, and everyone else four times in total."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Final clear-out of the old fridge",
+     "text": "When the fridge in the old back room was emptied out for good, half of what came out belonged to nobody, and the same person had done the clearing twice before.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": -1
+     },
+     "text_source": "When the fridge in the old back room was emptied out for good, half of what came out belonged to nobody, and the same person had done the clearing twice before."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Unplanned talk since the refit",
+     "text": "Since the corridor sofa went in the refit, the only unplanned talk left happens by the printer, and the two who started in spring still barely know the rest of the office.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1
+     },
+     "text_source": "Since the corridor sofa went in the refit, the only unplanned talk left happens by the printer, and the two who started in spring still barely know the rest of us."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Where the last awkward conversation happened",
+     "text": "The last awkward thing that had to be said between two colleagues was said across the desks in front of everyone, and the pair went quiet for a fortnight.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "The last awkward thing that had to be said between two of us was said across the desks in front of everyone, and the pair went quiet for a fortnight."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 4,
+      "time_burden": 1,
+      "comfort": 1,
+      "fairness": 4,
+      "relationship": 2
+     },
+     "B": {
+      "cost_burden": 1,
+      "time_burden": 4,
+      "comfort": 1,
+      "fairness": 1,
+      "relationship": 4
+     },
+     "C": {
+      "cost_burden": 1,
+      "time_burden": 5,
+      "comfort": 3,
+      "fairness": 4,
+      "relationship": 1
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 4
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 1
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 5
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 1,
+       "B": 1,
+       "C": 3
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 2,
+       "B": 4,
+       "C": 1
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "shared_living_010",
+   "source_instance_id": "living_010",
+   "source_topic_id": "living_010",
+   "topic": {
+    "title": "Deciding how the shared car is used",
+    "context": "Five people share one vehicle that was bought jointly, and the informal arrangement has started to break down. They are settling how it is used and paid for.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Booking Calendar",
+      "summary": "Use is reserved in advance through a shared calendar, with running costs divided according to the distance recorded for each booking."
+     },
+     {
+      "label": "B",
+      "name": "Fixed Day Allocation",
+      "summary": "Each person is allotted particular days of the week, holds the vehicle on those days whether or not they use it, and pays a fixed monthly share."
+     },
+     {
+      "label": "C",
+      "name": "Primary Keeper",
+      "summary": "One person keeps the vehicle and covers its running costs, and the others arrange use with that person and contribute per trip."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Money for this car has been running on guesswork: someone shoves fuel in, a bill lands and whoever opens the envelope pays it, and none of us could say what a year of it comes to. Before we tie ourselves to any way of paying, I want the real figures and an honest picture of who has been doing the driving.",
+    "2": "Every use of this car costs an evening of arranging before it costs any fuel, and then someone has to untangle afterwards who owes what, usually whoever runs out of patience first. I wanted to see where those hours actually go before we sign up to another year of it.",
+    "3": "On an ordinary day this car is either not where I expected it or not in a state I would want to drive off in, and the things I count on it for are the first to fall over. What matters to me is how it feels to use on a plain midweek morning, not who is nominally in charge of it.",
+    "4": "Whatever we settle on will decide who quietly subsidises whom, and everything we have improvised so far leaned on the comfortable idea that a share is a share. I would rather know what an even split here would actually have to take into account.",
+    "5": "The car has started showing up in how we speak to each other, clipped replies, a favour asked once too often, and a fortnight where nobody mentioned it at all. Before we settle anything I want to know what actually sours groups like ours, our own past attempts included, so that we do not just move the sore point somewhere else."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Last year's tax, insurance and parking papers",
+     "text": "Last year's paperwork, pulled together, shows road tax, the insurance renewal, the parking contract and the two-yearly inspection coming to just over 280,000 yen before a drop of fuel.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0
+     },
+     "text_source": "I pulled last year's paperwork together: road tax, the insurance renewal, the parking contract and the two-yearly inspection came to just over 280,000 yen before a drop of fuel."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Last year's fuel receipts",
+     "text": "The fuel receipts tell a lopsided story: two of the group bought well over half the litres between them last year, and one of them barely shows up at all.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "The fuel receipts tell a lopsided story: two of us bought well over half the litres between us last year, and one of us barely shows up at all."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Month's trial of recording every run",
+     "text": "A month's trial of keeping the numbers properly, photographing the dial at each end of every run and squaring it against receipts, took nearly an hour a week.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1
+     },
+     "text_source": "I tried keeping the numbers properly for a month: photographing the dial at each end of every run and squaring it against receipts took nearly an hour a week."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Weeks of heavy use over the year",
+     "text": "A lot of the group's driving arrives in bursts: a house move, two weekends away, a run of hospital appointments, and those weeks cost whole evenings of working around each other.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "A lot of our driving arrives in bursts: a house move, two weekends away, a run of hospital appointments, and those weeks cost us whole evenings of working around each other."
+    },
+    {
+     "card_id": "card_05",
+     "title": "State of the car at handover",
+     "text": "Whatever state it comes back in is what the next person finds: twice this year it has been taken over with the fuel light on and the previous run's rubbish still inside.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 1
+     },
+     "text_source": "Whatever state it comes back in is what the next person finds: twice this year I have taken it over with the fuel light on and the previous run's rubbish still inside."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Trips that repeat weekly",
+     "text": "Three of the group have something that repeats at the same hour every week, a class, a clinic slot, a market run, and those are the trips that keep collapsing at short notice.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "Three of us have something that repeats at the same hour every week, a class, a clinic slot, a market run, and those are the trips that keep collapsing at short notice."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Hours of use recorded in the diary",
+     "text": "The group's own diary makes the days unequal: a Saturday gets used roughly three times the hours a Tuesday does, and the gap widens again over the school holidays.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0
+     },
+     "text_source": "Our own diary makes the days unequal: a Saturday gets used roughly three times the hours a Tuesday does, and the gap widens again over the school holidays."
+    },
+    {
+     "card_id": "card_08",
+     "title": "The mechanic's remarks at the last service",
+     "text": "The mechanic at the last service was blunt: short cold runs across town eat brakes and battery far faster than the same distance covered on a motorway.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1
+     },
+     "text_source": "The mechanic at the last service was blunt with me: short cold runs across town eat brakes and battery far faster than the same distance covered on a motorway."
+    },
+    {
+     "card_id": "card_09",
+     "title": "What two other car-sharing households said",
+     "text": "Both of the car-sharing households that were asked said the same thing: what soured it was having to ask a favour each time, or someone clinging to a turn nobody needed.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1
+     },
+     "text_source": "Both households I asked who share a car said the same thing: what soured it was having to ask a favour each time, or someone clinging to a turn nobody needed."
+    },
+    {
+     "card_id": "card_10",
+     "title": "The spell of checking each other's figures",
+     "text": "The spell when the group started checking each other's figures was the worst of the year: people felt accused, and whoever did the checking ended up apologising for it.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1
+     },
+     "text_source": "The spell when we started checking each other's figures was the worst of the year: people felt accused, and whoever did the checking ended up apologising for it."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "cost_burden",
+     "time_burden",
+     "comfort",
+     "fairness",
+     "relationship"
+    ],
+    "scores": {
+     "A": {
+      "cost_burden": 3,
+      "time_burden": 4,
+      "comfort": 2,
+      "fairness": 3,
+      "relationship": 4
+     },
+     "B": {
+      "cost_burden": 3,
+      "time_burden": 2,
+      "comfort": 4,
+      "fairness": 3,
+      "relationship": 2
+     },
+     "C": {
+      "cost_burden": 1,
+      "time_burden": 4,
+      "comfort": 5,
+      "fairness": 1,
+      "relationship": 3
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "comfort",
+      "private_scores": {
+       "A": 2,
+       "B": 4,
+       "C": 5
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "time_burden",
+      "private_scores": {
+       "A": 4,
+       "B": 2,
+       "C": 4
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "fairness",
+      "private_scores": {
+       "A": 3,
+       "B": 3,
+       "C": 1
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "relationship",
+      "private_scores": {
+       "A": 4,
+       "B": 2,
+       "C": 3
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "cost_burden",
+      "private_scores": {
+       "A": 3,
+       "B": 3,
+       "C": 1
+      }
+     }
+    ]
+   }
+  }
+ ]
+}

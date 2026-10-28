@@ -1,0 +1,47 @@
+{
+ "setup_id": "shared_living_0021",
+ "domain": "shared_living",
+ "k": 21,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Misaki",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Minato",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Shion",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Asuka",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Takumi",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  4,
+  3,
+  2,
+  1,
+  5
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "shared_living_002",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "B",
+  "C",
+  "A"
+ ]
+}

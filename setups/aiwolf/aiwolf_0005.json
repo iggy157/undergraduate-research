@@ -1,0 +1,42 @@
+{
+ "setup_id": "aiwolf_0005",
+ "domain": "aiwolf",
+ "k": 5,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Shizue",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 2,
+   "persona": "Midori",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 3,
+   "persona": "Yumi",
+   "role_slot": "SEER"
+  },
+  {
+   "seat": 4,
+   "persona": "Daisuke",
+   "role_slot": "POSSESSED"
+  },
+  {
+   "seat": 5,
+   "persona": "Asuka",
+   "role_slot": "WEREWOLF"
+  }
+ ],
+ "speaking_order": [
+  3,
+  4,
+  5,
+  1,
+  2
+ ],
+ "info_mode": "dynamic",
+ "instance_id": null,
+ "experiment_seed": 20261027
+}

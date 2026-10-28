@@ -1,0 +1,7 @@
+# Role slots (identical for candidate_selection and shared_living). private_seed: problem = the seat's concern (instances.json problems[seat]).
+slots:
+  PARTICIPANT:
+    count: 5
+    public_label: participant
+    private_seed: problem
+    action: {name: investigate, request: INVESTIGATE, when: after_round_1, choose: 2, from: card_pool_titles, result: card_text, on_parse_fail: none}

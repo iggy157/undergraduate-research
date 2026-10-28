@@ -1,0 +1,47 @@
+{
+ "setup_id": "shared_living_0028",
+ "domain": "shared_living",
+ "k": 28,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Daisuke",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Toshio",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Shion",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Rin",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Servas",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  3,
+  1,
+  4,
+  5,
+  2
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "shared_living_009",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "C",
+  "B",
+  "A"
+ ]
+}

@@ -1,0 +1,18 @@
+## Plan
+The discussion follows this plan.
+{% for p in plan_periods %}
+- {{ Period }} {{ p.period }}: {{ p.text }}
+{% for t in p.turns %}
+  - Turn {{ t.turn }}: {{ t.text }}
+{% endfor %}
+{% endfor %}
+{% if plan_final %}
+- Outcome: {{ plan_final }}
+{% endif %}
+{% if plan_seats %}
+
+Each participant's part:
+{% for s in plan_seats %}
+- {{ s.name }}: {{ s.text }}
+{% endfor %}
+{% endif %}

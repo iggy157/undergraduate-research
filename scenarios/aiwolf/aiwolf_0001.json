@@ -1,0 +1,168 @@
+{
+ "seats": {
+  "Kenji": "He tries to blend in by being overly positive and supportive of others, while subtly steering suspicion away from his allies.",
+  "Mizuki": "She uses logical deduction and observes behavioral inconsistencies to identify the werewolf, remaining cautious of emotional appeals.",
+  "Benjamin": "He relies on his divination results to guide the village, though he carefully times his reveals to avoid being targeted early.",
+  "Shizue": "She maintains a gentle and innocent facade, using her age and kindness to deflect suspicion and sow doubt about others.",
+  "Minako": "She focuses on factual consistency and leadership, attempting to organize the voting process based on the most reliable evidence."
+ },
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce their general approach to the game. They discuss the importance of trust and the difficulty of identifying the hidden roles without information.",
+   "divine": "Shizue",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "Let's stay calm and look for contradictions.",
+      "Shizue": "I hope we can all get along while we solve this.",
+      "Mizuki": "Logic will be our best tool here.",
+      "Benjamin": "I agree, a rational approach is essential.",
+      "Kenji": "I'm excited! Let's do our best together!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "Does anyone have a strategy for the first vote?",
+      "Shizue": "Perhaps we should just listen to each other first.",
+      "Mizuki": "We need to watch for who is too eager to accuse.",
+      "Benjamin": "Observation is key in these early stages.",
+      "Kenji": "I trust everyone until they give me a reason not to!"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "Skip",
+      "Shizue": "Skip",
+      "Mizuki": "Skip",
+      "Benjamin": "Skip",
+      "Kenji": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Over",
+      "Shizue": "Over",
+      "Mizuki": "Over",
+      "Benjamin": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The Seer shares a discovery. The group weighs the reliability of the Seer's claim against the reactions of the accused and those defending them.",
+   "votes": {
+    "Minako": "Shizue",
+    "Shizue": "Benjamin",
+    "Mizuki": "Shizue",
+    "Benjamin": "Shizue",
+    "Kenji": "Benjamin"
+   },
+   "executed": "Shizue",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "We need a lead to start our deductions.",
+      "Shizue": "I'm sure we can find the truth peacefully.",
+      "Mizuki": "I'm looking for any slips in speech.",
+      "Benjamin": "I have information that one person is the werewolf.",
+      "Kenji": "Wait, really? Who is it?"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "Benjamin, if you are the Seer, please tell us.",
+      "Shizue": "That seems very sudden, are you sure?",
+      "Mizuki": "If Benjamin is the Seer, his information is vital.",
+      "Benjamin": "I divined Shizue, and she is the werewolf.",
+      "Kenji": "That's a huge accusation! Are we sure?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "Shizue, how do you respond to this?",
+      "Shizue": "I am just a grandmother, I couldn't possibly be it.",
+      "Mizuki": "Emotional appeals aren't evidence; the Seer's word is more concrete.",
+      "Benjamin": "The result was clear.",
+      "Kenji": "I feel like we might be making a mistake."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "The evidence points to Shizue.",
+      "Shizue": "I am very sad that you don't trust me.",
+      "Mizuki": "We must prioritize the village's safety.",
+      "Benjamin": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0001",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T21:42:04+00:00",
+  "attempts": 3,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793137324,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-83a88a54958c2884",
+     "object": "model_permission",
+     "created": 1793137324,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

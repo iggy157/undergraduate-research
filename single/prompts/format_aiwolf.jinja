@@ -1,0 +1,26 @@
+## Output format
+Markdown, exactly this structure; nothing before or after it:
+
+# {{ setup_id }}
+## Day 0
+### Talk
+#### Turn 1 of {{ turns_per_round }}
+- **<Name>**: <utterance, or exactly {{ pass_skip }}, or exactly {{ pass_over }}>
+(one line per living participant, in the fixed speaking order; repeat for Turn 2, 3 and 4; a participant who said {{ pass_over }} has no line in the later turns of that day)
+### Action
+- divine: <Seer's name> -> <target name> (human|werewolf)
+## Day 1
+### Talk
+(4 turns as above)
+### Vote
+- <voter name> -> <target name>
+(one line per living participant)
+- execution: <name of the player with the most votes>
+### Action
+- divine: <Seer's name> -> <target name> (human|werewolf)
+- attack: <Werewolf's name> -> <target name>
+(continue with ## Day 2 and so on in the same way until the game ends)
+## Result
+- winner: village|werewolves
+
+Constraints on the content: dead players have no further lines. The divine result must match the target's true role. Write ## Result right after the deciding Vote or Action and nothing else.

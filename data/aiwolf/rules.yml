@@ -1,0 +1,51 @@
+# Rule variables for aiwolf. Every rule sentence shown to either method comes from here (DESIGN §6).
+period_name: day
+n_participants: 5
+turns_per_round: 4
+word_cap: 40
+pass_skip: Skip
+pass_over: Over
+first_round: 0
+rounds_total: 3            # technical safety cap of the server / converter only (a 5-player game ends by day 2 unless a vote or attack fails); not shown to the model
+vote_rounds: from_round_1  # every day from day 1
+allow_self_vote: true
+option_noun: player
+private_seed_label: Role
+setting_sentence: "This is a game of Werewolf with 5 players: 1 Seer, 1 Werewolf, 1 Possessed, and 2 Villagers."
+private_sentence: "Each player's role is secret."
+role_sentences:   # shown as a list under ## Setting (both methods)
+  - "Seer: a human who divines one player each night and learns whether that player is human or a werewolf."
+  - "Werewolf: attacks one player each night from day 1 on."
+  - "Possessed: a human who sides with the werewolf and wins when the werewolf wins; divination shows the Possessed as human."
+  - "Villager: a human with no special ability."
+# schedule block = this table + notes + vote_rule_sentence + end_sentence (common/prompts/schedule.jinja)
+schedule_table:
+  columns: ["Day", "Start of the day", "Talk", "End of the day", "Night"]
+  rows:
+    - ["0", "nothing", "4 turns", "no vote", "the Seer divines one other living player; no attack"]
+    - ["1", "the Seer is told the result of the night-0 divination (the Seer only)", "4 turns", "every living player votes; the player with the most votes is executed", "the Seer divines one other living player; the Werewolf attacks one other living player"]
+    - ["2 and after", "everyone is told who was executed, who was attacked and all the votes of the previous day; the Seer is told the result of the previous night's divination (the Seer only)", "4 turns", "vote and execution as on day 1", "divination and attack as on day 1"]
+schedule_notes:
+  - "A divination tells whether the chosen player is human or a werewolf. If the Seer is dead, there is no divination."
+  - "Executed and attacked players are dead from the next day on."
+vote_rule_sentence: "A player may vote for themselves. If votes are tied, one of the tied players is chosen by a fixed rule."
+end_sentence: "The village wins when the werewolf is executed. The werewolf wins when the number of werewolves is at least the number of living humans. The game ends as soon as one side has won."
+action_heading: Night actions
+action_rule_sentence: "At night, the Seer chooses one other living player to divine. From day 1 on, the werewolf chooses one other living player to attack."
+notice_sentences:   # multi notices (agent/prompts/notice.jinja, agent/*); rendered with Jinja per notice
+  begin: "The discussion is about to begin."
+  end: "The discussion has ended."
+  round_start: "{{ Period }} {{ round_no }} has started."
+  round_end: "{{ Period }} {{ round_no }} has ended."
+  ack: 'This is a notice. Do not generate in-character dialogue. Reply only with "Acknowledged.".'
+  executed: "{{ name }} was executed."
+  no_execution: "No one was executed."
+  attacked: "{{ name }} was attacked."
+  no_attack: "No one was attacked last night."
+  votes: "Votes: {{ votes }}"
+  divine: "Divine result: {{ target }} is {{ result }}."
+  no_divine: "No divination result last night."
+vote_request_sentence: "Vote request. Output only the name of one player."
+action_request_sentences:
+  DIVINE: "Divine request. Output only the name of one player."
+  ATTACK: "Attack request. Output only the name of one player."

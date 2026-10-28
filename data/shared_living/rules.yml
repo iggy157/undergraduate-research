@@ -1,0 +1,51 @@
+# Rule variables for shared_living (source domain: living). Same structure as the other discussion domain; only option_noun and a few words differ.
+period_name: round
+n_participants: 5
+turns_per_round: 4
+word_cap: 40
+pass_skip: Skip
+pass_over: Over
+first_round: 1
+rounds_total: 3
+vote_rounds: last_round_only
+allow_self_vote: null
+option_noun: option
+private_seed_label: Concern
+setting_sentence: "{{ topic.title }}. {{ topic.context }}"
+private_sentence: "Each participant has a concern of their own, which the others do not know."
+role_sentences: []
+# schedule block = this table + notes + vote_rule_sentence + end_sentence (common/prompts/schedule.jinja)
+schedule_table:
+  columns: ["Round", "Start of the round", "Talk", "End of the round"]
+  rows:
+    - ["1", "nothing new (the things that can be looked into are listed above, titles only)", "4 turns", "each participant chooses 2 of the listed things to look into"]
+    - ["2", "each participant is told what they found out (that participant only)", "4 turns", "nothing"]
+    - ["3", "everyone is told the {{ option_noun }}s", "4 turns", "every participant votes; the {{ option_noun }} with the most votes is adopted"]
+schedule_notes:
+  - "Several participants may choose the same thing; what is found out is told only to the participant who looked into it."
+vote_rule_sentence: "If votes are tied, one of the tied {{ option_noun }}s is chosen by a fixed rule."
+end_sentence: "The discussion ends after the vote."
+action_heading: Looking into things
+action_rule_sentence: "After round 1, each participant chooses 2 of the listed things to look into. What they find out is told only to that participant."
+notice_sentences:   # multi notices (agent/prompts/notice.jinja, agent/*); rendered with Jinja per notice
+  begin: "The discussion is about to begin."
+  end: "The discussion has ended."
+  round_start: "{{ Period }} {{ round_no }} has started."
+  round_end: "{{ Period }} {{ round_no }} has ended."
+  ack: 'This is a notice. Do not generate in-character dialogue. Reply only with "Acknowledged.".'
+  findings: "What you looked into:"
+  no_findings: "Nothing was looked into; there are no findings."
+  options: "The {{ option_noun }}s are:"
+vote_request_sentence: "Vote request. Output only the label of one {{ option_noun }}."
+action_request_sentences:
+  INVESTIGATE: "Investigation request. Choose 2 things to look into from the list below. Output only their titles, separated by \"; \"."
+# info_mode = fixed (source v4 assignment, two cards per seat chosen beforehand). Same timing, no choice.
+schedule_table_fixed:
+  columns: ["Round", "Start of the round", "Talk", "End of the round"]
+  rows:
+    - ["1", "nothing", "4 turns", "each participant is given 2 things to look into, chosen for them"]
+    - ["2", "each participant is told what they found out (that participant only)", "4 turns", "nothing"]
+    - ["3", "everyone is told the {{ option_noun }}s", "4 turns", "every participant votes; the {{ option_noun }} with the most votes is adopted"]
+schedule_notes_fixed:
+  - "Several participants may be given the same thing; what is found out is told only to the participant it was given to."
+action_rule_sentence_fixed: "After round 1, each participant is given 2 things to look into. What they find out is told only to that participant."

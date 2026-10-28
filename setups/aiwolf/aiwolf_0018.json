@@ -1,0 +1,42 @@
+{
+ "setup_id": "aiwolf_0018",
+ "domain": "aiwolf",
+ "k": 18,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Benjamin",
+   "role_slot": "SEER"
+  },
+  {
+   "seat": 2,
+   "persona": "Takumi",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 3,
+   "persona": "May",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 4,
+   "persona": "Minato",
+   "role_slot": "WEREWOLF"
+  },
+  {
+   "seat": 5,
+   "persona": "Servas",
+   "role_slot": "POSSESSED"
+  }
+ ],
+ "speaking_order": [
+  4,
+  1,
+  5,
+  3,
+  2
+ ],
+ "info_mode": "dynamic",
+ "instance_id": null,
+ "experiment_seed": 20261027
+}

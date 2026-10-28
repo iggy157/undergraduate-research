@@ -1,0 +1,11 @@
+## Schedule
+| {{ schedule_table.columns | join(' | ') }} |
+|{% for c in schedule_table.columns %}---|{% endfor %}
+
+{% for row in schedule_table.rows %}
+| {{ row | join(' | ') }} |
+{% endfor %}
+{% for n in schedule_notes %}
+- {{ n }}
+{% endfor %}
+{{ vote_rule_sentence }} {{ end_sentence }}

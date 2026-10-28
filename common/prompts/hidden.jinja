@@ -1,0 +1,22 @@
+## Hidden information
+The {{ option_noun }}s and the full text of every card are listed here. The participants do not know them before the schedule above says so, and nothing from them may appear in the talk before the round in which it is revealed.
+
+{{ option_noun | capitalize }}s (see the schedule above):
+{% for o in options %}
+- {{ o.label }}: {{ o.name }}. {{ o.summary }}
+{% endfor %}
+
+{% if info_mode == 'dynamic' %}
+Cards (see the schedule above; title: text):
+{% for c in cards %}
+- {{ c.title }}: {{ c.text }}
+{% endfor %}
+{% else %}
+Cards given to each participant (see the schedule above):
+{% for name, cs in fixed_cards %}
+- {{ name }}:
+{% for c in cs %}
+  - {{ c.text }}
+{% endfor %}
+{% endfor %}
+{% endif %}

@@ -1,0 +1,205 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The team discusses the need for a data-driven approach to the layout. They divide the available research topics to cover financial, physical, and social aspects of the office environment.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Suggests looking into daily time loss and routines.",
+      "Toshio": "Proposes checking the budget and billing details.",
+      "Mizuki": "Suggests reviewing staff surveys and past shuffles.",
+      "Shion": "Wants to check sound levels and ergonomic notes.",
+      "Yumi": "Suggests looking at project proximity and new hire experiences."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Confirms her two choices regarding time and routines.",
+      "Toshio": "Confirms his two choices regarding costs and billing.",
+      "Mizuki": "Confirms her two choices regarding surveys and shuffles.",
+      "Shion": "Confirms his two choices regarding sound and physio notes.",
+      "Yumi": "Confirms her two choices regarding project strands and joiners."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Over",
+      "Toshio": "Over",
+      "Mizuki": "Over",
+      "Shion": "Over",
+      "Yumi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing the exact data. They debate the trade-offs between flexibility, stability, and the hidden costs of changing setups.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Mentions that daily setup takes more time than expected.",
+      "Toshio": "Notes that the floor cost is fixed regardless of usage.",
+      "Mizuki": "Points out that unplanned changes cause long-term disruption.",
+      "Shion": "Highlights that physical comfort takes time to calibrate.",
+      "Yumi": "Shares that proximity significantly boosts knowledge transfer."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Questions if a flexible system is too taxing on the morning.",
+      "Toshio": "Argues that we should avoid costs associated with frequent moves.",
+      "Mizuki": "Mentions the unfairness of window access in current plans.",
+      "Shion": "Argues that noise levels vary wildly across the room.",
+      "Yumi": "Emphasizes the value of organic communication for new members."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Wonders if a middle ground exists between fixed and free.",
+      "Toshio": "Suggests a layout that minimizes future facility charges.",
+      "Mizuki": "Suggests a system that prevents a permanent 'bad seat'.",
+      "Shion": "Insists that a stable spot is necessary for focus.",
+      "Yumi": "Argues for grouping people to maintain team cohesion."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Toshio": "Over",
+      "Mizuki": "Over",
+      "Shion": "Over",
+      "Yumi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The team evaluates the three proposed options against the gathered evidence. They weigh the benefits of social synergy and stability against the risks of inefficiency and unfairness before voting.",
+   "votes": {
+    "Rin": "C",
+    "Toshio": "C",
+    "Mizuki": "B",
+    "Shion": "C",
+    "Yumi": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Rejects the most flexible option due to time loss.",
+      "Toshio": "Favors the most stable option to save on facility costs.",
+      "Mizuki": "Considers the rotating option to ensure fairness.",
+      "Shion": "Rejects any option that requires frequent desk recalibration.",
+      "Yumi": "Supports the option that keeps functional groups together."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Agrees that stability helps the morning flow.",
+      "Toshio": "Points out that fixed assignments are the most budget-friendly.",
+      "Mizuki": "Questions if fixed seats create a permanent hierarchy.",
+      "Shion": "Argues that a permanent spot is the only way to manage noise.",
+      "Yumi": "Argues that functional grouping is best for training."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Decides to prioritize her time over variety.",
+      "Toshio": "Sticks to the most cost-effective and stable choice.",
+      "Mizuki": "Admits the rotating option might be too disruptive.",
+      "Shion": "Firmly chooses the option with the least movement.",
+      "Yumi": "Votes for the option that maximizes communication."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Toshio": "Over",
+      "Mizuki": "Over",
+      "Shion": "Over",
+      "Yumi": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Toshio": "Cares about the budget and facility costs. He argues for stability to avoid recurring expenses and remains consistent in his preference for the least expensive change.",
+  "Rin": "Cares about the time spent on daily routines. She initially considers flexibility but moves toward stability once she realizes the time cost of setup.",
+  "Shion": "Cares about ergonomics and noise. He argues strongly against any system that requires moving desks frequently, as it ruins his physical setup.",
+  "Mizuki": "Cares about fairness and the distribution of 'bad' seats. She pushes for a system that rotates privileges but eventually yields to the team's need for stability.",
+  "Yumi": "Cares about social interaction and onboarding. She argues for a layout that keeps related roles together to facilitate learning and communication."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0003",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Rin's line after Over",
+  "period 1 turn 4: dropped Toshio's line after Over",
+  "period 1 turn 4: dropped Mizuki's line after Over",
+  "period 1 turn 4: dropped Shion's line after Over",
+  "period 1 turn 4: dropped Yumi's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T22:54:39+00:00",
+  "attempts": 1,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793141679,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-abb4c6a221ca1cf4",
+     "object": "model_permission",
+     "created": 1793141679,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

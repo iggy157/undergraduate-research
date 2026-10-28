@@ -1,0 +1,42 @@
+{
+ "setup_id": "aiwolf_0022",
+ "domain": "aiwolf",
+ "k": 22,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Midori",
+   "role_slot": "POSSESSED"
+  },
+  {
+   "seat": 2,
+   "persona": "Jonathan",
+   "role_slot": "SEER"
+  },
+  {
+   "seat": 3,
+   "persona": "Mizuki",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 4,
+   "persona": "Takumi",
+   "role_slot": "WEREWOLF"
+  },
+  {
+   "seat": 5,
+   "persona": "Rin",
+   "role_slot": "VILLAGER"
+  }
+ ],
+ "speaking_order": [
+  2,
+  5,
+  3,
+  1,
+  4
+ ],
+ "info_mode": "dynamic",
+ "instance_id": null,
+ "experiment_seed": 20261027
+}

@@ -1,0 +1,5 @@
+experiment_seed: 20261027
+n_setups: 30                       # multiple of 10 so each instance appears equally often
+domains: [aiwolf, candidate_selection, shared_living]
+methods: [single, multi]
+info_mode: dynamic                 # dynamic | fixed (fixed = source v4 assignment, needs no card titles)

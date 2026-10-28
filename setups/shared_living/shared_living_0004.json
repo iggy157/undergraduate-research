@@ -1,0 +1,47 @@
+{
+ "setup_id": "shared_living_0004",
+ "domain": "shared_living",
+ "k": 4,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Victoria",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Toshio",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Daisuke",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Sakura",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Midori",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  4,
+  1,
+  5,
+  2,
+  3
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "shared_living_005",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "C",
+  "B",
+  "A"
+ ]
+}

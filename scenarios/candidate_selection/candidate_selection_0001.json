@@ -1,0 +1,208 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses the necessity of verifying the practical feasibility of the proposals. They agree to investigate infrastructure, staffing, and historical performance to ensure the grant is used effectively.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Suggests looking at the human element and staffing.",
+      "Midori": "Expresses concern about the actual purchasing power of the funds.",
+      "Kenji": "Wants to check the state of shared facilities.",
+      "Benjamin": "Proposes looking for systemic causes of project delays.",
+      "Toshio": "Suggests reviewing the actual outcomes of past grants."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Agrees with the need for a comprehensive check.",
+      "Midori": "Supports the idea of checking facility costs.",
+      "Kenji": "Agrees that historical data is useful.",
+      "Benjamin": "Notes that technical bottlenecks are often hidden.",
+      "Toshio": "Remains focused on the reliability of the results."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Finalizes his choice of staffing and secondment records.",
+      "Midori": "Chooses travel/bench-fees and facility day rates.",
+      "Kenji": "Chooses instrumentation logs and facility bookings.",
+      "Benjamin": "Chooses schedule overruns and field site records.",
+      "Toshio": "Chooses closeout files and repository turnaround."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Midori": "Over",
+      "Kenji": "Over",
+      "Benjamin": "Over",
+      "Toshio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the general nature of their findings without revealing specific candidate details. They discuss the risks associated with different research environments, such as field sites versus simulations.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Mentions a shortage of specific technical staff.",
+      "Midori": "Notes that some subsidies are holding while others are not.",
+      "Kenji": "Reports issues with equipment maintenance and bookings.",
+      "Benjamin": "Highlights the volatility of field-based work.",
+      "Toshio": "Observes that certain project types have better long-term utility."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Questions if the projects have the necessary hands.",
+      "Midori": "Wonders how the budget will cover rising costs.",
+      "Kenji": "Warns about the risk of shared facility downtime.",
+      "Benjamin": "Suggests avoiding projects prone to external interruptions.",
+      "Toshio": "Argues for prioritizing projects with proven delivery models."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Reflects on the fragility of expertise.",
+      "Midori": "Tries to balance the budget concerns with scientific merit.",
+      "Kenji": "Emphasizes the need for available infrastructure.",
+      "Benjamin": "Points out the difference between computational and biological risks.",
+      "Toshio": "Stresses the importance of tangible deliverables."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Over",
+      "Midori": "Over",
+      "Kenji": "Over",
+      "Benjamin": "Over",
+      "Toshio": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The candidates are revealed. The panel evaluates each proposal against the discovered constraints regarding staffing, facility availability, and historical success rates before voting.",
+   "votes": {
+    "Servas": "A",
+    "Midori": "A",
+    "Kenji": "A",
+    "Benjamin": "C",
+    "Toshio": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Evaluates the staffing needs of the candidates.",
+      "Midori": "Considers the cost implications for each project.",
+      "Kenji": "Checks which projects rely on the most stable facilities.",
+      "Benjamin": "Analyzes the risk of schedule overruns for each.",
+      "Toshio": "Compares the candidates to the successful past models."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Notes that some projects lack the necessary technicians.",
+      "Midori": "Finds one project particularly well-supported by current subsidies.",
+      "Kenji": "Warns against projects requiring overbooked facilities.",
+      "Benjamin": "Argues for the stability of simulation-heavy work.",
+      "Toshio": "Sees high long-term value in a cataloging approach."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Leans toward the project with the most available support.",
+      "Midori": "Agrees that the budget fits one project best.",
+      "Kenji": "Supports the project that avoids the most congested facilities.",
+      "Benjamin": "Maintains that the lowest risk is in the computational project.",
+      "Toshio": "Advocates for the project most likely to provide lasting data."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Casts vote.",
+      "Midori": "Casts vote.",
+      "Kenji": "Casts vote.",
+      "Benjamin": "Casts vote.",
+      "Toshio": "Casts vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Midori": "Concerned with the real-world value of the grant money. She looks for the project whose costs are most likely to be absorbed or subsidized.",
+  "Benjamin": "Concerned with external interruptions and delays. He evaluates projects based on their susceptibility to environmental or biological setbacks.",
+  "Toshio": "Concerned with the actual delivery of results. He prioritizes project types that have historically shown the most enduring utility.",
+  "Kenji": "Concerned with the capacity of shared infrastructure. He weighs the candidates based on the current availability and health of required facilities.",
+  "Servas": "Concerned with the availability of skilled technical personnel. He focuses on whether the necessary human expertise exists to execute the work."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0001",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T22:06:02+00:00",
+  "attempts": 2,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793138762,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-b7ac5d9ce332e5a1",
+     "object": "model_permission",
+     "created": 1793138762,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

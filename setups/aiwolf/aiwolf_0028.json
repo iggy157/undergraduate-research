@@ -1,0 +1,42 @@
+{
+ "setup_id": "aiwolf_0028",
+ "domain": "aiwolf",
+ "k": 28,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "George",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 2,
+   "persona": "Yumi",
+   "role_slot": "SEER"
+  },
+  {
+   "seat": 3,
+   "persona": "Jonathan",
+   "role_slot": "POSSESSED"
+  },
+  {
+   "seat": 4,
+   "persona": "Takumi",
+   "role_slot": "WEREWOLF"
+  },
+  {
+   "seat": 5,
+   "persona": "Shunichi",
+   "role_slot": "VILLAGER"
+  }
+ ],
+ "speaking_order": [
+  5,
+  1,
+  2,
+  4,
+  3
+ ],
+ "info_mode": "dynamic",
+ "instance_id": null,
+ "experiment_seed": 20261027
+}

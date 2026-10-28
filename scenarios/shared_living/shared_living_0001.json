@@ -1,0 +1,205 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need to balance cost, logistics, and member well-being. They divide the research tasks to cover financial history, facility rules, and social dynamics.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Let's make sure we look at the money and the rules.",
+      "Shizue": "I hope we can find a way to bring everyone closer together.",
+      "Ryuji": "We need to be careful about the workload for the organizers.",
+      "Rin": "I want to know if we'll actually get enough sleep!",
+      "Misaki": "We should check the actual costs from previous years."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "I'll check the transport receipts and the whole-building let terms.",
+      "Shizue": "I will look into the seniors' views on mixing and the attendance sheets.",
+      "Ryuji": "I'll take the public booking lottery and the cooking duty records.",
+      "Rin": "I'll check the inland club accounts and the public bed rates.",
+      "Misaki": "I'll look at the club hall timetable and the first-train times."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Over",
+      "Shizue": "Over",
+      "Ryuji": "Over",
+      "Rin": "Over",
+      "Misaki": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings without revealing every detail. They debate the trade-offs between convenience, cost stability, and the quality of the stay.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Transport is a huge cost, and some bookings are risky if people cancel.",
+      "Shizue": "Shared living seems key for bonding, but some people just don't show up.",
+      "Ryuji": "Public bookings are a bureaucratic nightmare and cooking is a burden.",
+      "Rin": "Public beds are cheap, but the sleeping conditions sound terrible.",
+      "Misaki": "Our own hall is crowded, and commuting is hard for many."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "If we stay local, we save a lot on travel.",
+      "Shizue": "But will staying local actually help us bond?",
+      "Ryuji": "Avoiding the lottery and cooking would save the staff's sanity.",
+      "Rin": "I can't support anywhere that forces us into crowded rooms.",
+      "Misaki": "The budget is tight; we can't afford more hidden gaps."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Maybe a private lodge is better for the budget stability?",
+      "Shizue": "As long as it encourages the different years to talk.",
+      "Ryuji": "A private lodge avoids the public booking stress.",
+      "Rin": "As long as the beds are actually comfortable.",
+      "Misaki": "But the non-refundable deposits are a financial risk."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "Shizue": "Over",
+      "Ryuji": "Over",
+      "Rin": "Over",
+      "Misaki": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three final options against their specific concerns. They weigh the risk of financial loss against the risk of poor sleep and social fragmentation before voting.",
+   "votes": {
+    "Mio": "C",
+    "Shizue": "C",
+    "Ryuji": "C",
+    "Rin": "C",
+    "Misaki": "A"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "The lodge seems the most exciting and straightforward for fees.",
+      "Shizue": "The lodge would definitely force the year-groups to mingle.",
+      "Ryuji": "The lodge removes the cooking and lottery stress entirely.",
+      "Rin": "The lodge sounds much more restful than a public dorm.",
+      "Misaki": "I'm worried about the deposit risk at the lodge."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "But the campus option is too disjointed for a camp.",
+      "Shizue": "I agree, the campus option won't fix our social gaps.",
+      "Ryuji": "The public centre is too much work for the organizers.",
+      "Rin": "The public centre sounds like a nightmare for sleep.",
+      "Misaki": "The campus option is the only one that's financially safe."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Let's just take the risk on the lodge for the quality.",
+      "Shizue": "I think the social benefit outweighs the risk.",
+      "Ryuji": "I'm with them; the administrative ease is worth it.",
+      "Rin": "I vote for the lodge for the sake of our health!",
+      "Misaki": "I can't support the financial risk, but I see the consensus."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Over",
+      "Shizue": "Over",
+      "Ryuji": "Over",
+      "Rin": "Over",
+      "Misaki": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Misaki": "She focuses on budget accuracy and financial risk. She argues from a position of fiscal caution and resists options with unpredictable costs.",
+  "Ryuji": "He prioritizes the workload of the organizers. He argues against options that require heavy administration or unpaid labor.",
+  "Rin": "She is concerned with the physical quality of the stay and sleep. She argues against facilities with poor sleeping conditions.",
+  "Mio": "She looks at the fairness of the fee distribution and transport costs. She seeks a balance between cost and convenience.",
+  "Shizue": "She cares about social cohesion and member attendance. She argues for environments that encourage interaction between different age groups."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0001",
+ "granularity": "turn",
+ "repairs": [
+  "period 1 turn 4: dropped Mio's line after Over",
+  "period 1 turn 4: dropped Shizue's line after Over",
+  "period 1 turn 4: dropped Ryuji's line after Over",
+  "period 1 turn 4: dropped Rin's line after Over",
+  "period 1 turn 4: dropped Misaki's line after Over",
+  "period 1: dropped 1 empty turn(s)"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T22:31:46+00:00",
+  "attempts": 3,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793140306,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-b51fef2338bba489",
+     "object": "model_permission",
+     "created": 1793140306,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

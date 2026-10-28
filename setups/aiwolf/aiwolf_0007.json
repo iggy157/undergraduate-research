@@ -1,0 +1,42 @@
+{
+ "setup_id": "aiwolf_0007",
+ "domain": "aiwolf",
+ "k": 7,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Rin",
+   "role_slot": "POSSESSED"
+  },
+  {
+   "seat": 2,
+   "persona": "Shion",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 3,
+   "persona": "Minako",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 4,
+   "persona": "May",
+   "role_slot": "WEREWOLF"
+  },
+  {
+   "seat": 5,
+   "persona": "Asuka",
+   "role_slot": "SEER"
+  }
+ ],
+ "speaking_order": [
+  5,
+  4,
+  1,
+  3,
+  2
+ ],
+ "info_mode": "dynamic",
+ "instance_id": null,
+ "experiment_seed": 20261027
+}

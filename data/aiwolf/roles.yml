@@ -1,0 +1,22 @@
+# Role slots for aiwolf (5-player village). private_seed: role (never public).
+slots:
+  SEER:
+    count: 1
+    public_label: participant
+    private_seed: role
+    action: {name: divine, request: DIVINE, when: every_night, choose: 1, from: alive_others, result: species, on_parse_fail: none}
+  WEREWOLF:
+    count: 1
+    public_label: participant
+    private_seed: role
+    action: {name: attack, request: ATTACK, when: night_from_round_1, choose: 1, from: alive_others, result: death, on_parse_fail: none}
+  POSSESSED:
+    count: 1
+    public_label: participant
+    private_seed: role
+    action: null
+  VILLAGER:
+    count: 2
+    public_label: participant
+    private_seed: role
+    action: null

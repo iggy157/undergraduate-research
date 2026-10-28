@@ -1,0 +1,47 @@
+{
+ "setup_id": "shared_living_0019",
+ "domain": "shared_living",
+ "k": 19,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Minato",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Toshio",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Victoria",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Misaki",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "George",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  5,
+  2,
+  3,
+  4,
+  1
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "shared_living_010",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "A",
+  "B",
+  "C"
+ ]
+}

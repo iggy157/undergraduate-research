@@ -1,0 +1,2846 @@
+{
+ "domain": "candidate_selection",
+ "source": {
+  "repo": "naacl/2027/manyshot-ablation",
+  "domain": "panel",
+  "files": [
+   "topics.yml",
+   "instances_live.json",
+   "paircards_live.json"
+  ],
+  "card_generator": "claude-opus-5"
+ },
+ "note": "card_pool[].title and text come from the §9-9 rewrite (third-person wording, titles); text_source keeps the original text. Required for info_mode=dynamic.",
+ "instances": [
+  {
+   "instance_id": "candidate_selection_001",
+   "source_instance_id": "panel_001",
+   "source_topic_id": "panel_001",
+   "topic": {
+    "title": "Selection of internal project proposals for the annual innovation fund",
+    "context": "Five reviewers from different divisions of a mid-sized manufacturing company meet to allocate this year's internal innovation fund. Exactly one employee-submitted proposal will be carried forward.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Workflow Assistant",
+      "summary": "A shared internal tool that reads team task boards and drafts status summaries, meeting agendas, and handover notes for circulation across the participating departments."
+     },
+     {
+      "label": "B",
+      "name": "Supplier Data Hub",
+      "summary": "A central repository that consolidates supplier records now kept separately by each business unit into one searchable catalog with shared update and review procedures."
+     },
+     {
+      "label": "C",
+      "name": "Field Service App",
+      "summary": "A mobile application for technicians visiting customer sites, covering job checklists, parts lookup, photo capture, and synchronization of records collected away from the network."
+     },
+     {
+      "label": "D",
+      "name": "Training Studio",
+      "summary": "An in-house production unit that develops short video and simulation modules for onboarding, refresher training, and the transfer of specialist skills between departments."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Each year the fund gets committed before anyone asks which pocket the money will actually come out of, and that answer changes what is affordable. What worries me more is that the real bill often arrives with next year's renewal notice.",
+    "2": "It bothers me how confidently we promise delivery dates for work resting on conditions nobody here controls, from access at other companies' premises to whose hands are free when building starts. Twice now the technical groundwork turned out to be the part no one had checked beforehand.",
+    "3": "We have funded enough of these by now that a pattern ought to be visible, yet nobody opens the file on what became of earlier winners. What concerns me is that we keep rediscovering the same lesson about which kinds of work survive their first year.",
+    "4": "The thing I keep running into is that we judge these things by how impressive they sound rather than by what actually goes wrong on the floor each week. Nobody has put the everyday losses beside the everyday effort and looked at both.",
+    "5": "Nobody in this room has to name the people who will absorb the extra work, so we only find out when a rota breaks. It seems to me we treat staff time as if it were free and unlimited."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Capital budget and software allowance",
+     "text": "The capital line has been frozen since the press refit, while the recurring software allowance still has room after two cancelled subscriptions were written off in spring.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1,
+      "D": -1
+     },
+     "text_source": "The capital line has been frozen since the press refit, while the recurring software allowance still has room after two cancelled subscriptions were written off in spring."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Vendor licence pricing versus fixed-fee work",
+     "text": "Both vendors quoting in this sector price per-head licences that climb with every department added, while fixed-fee build and production work has held its rate three years.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Both vendors quoting in this sector price per-head licences that climb with every department added, while fixed-fee build and production work has held its rate three years."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Network coverage at customer plants",
+     "text": "Signal checks across a month found half of the customer plants that technicians visit losing coverage for whole afternoons, and visitor device approval at those sites took six weeks last time.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "Signal checks across a month found half the customer plants we visit losing coverage for whole afternoons, and visitor device approval there took six weeks last time."
+    },
+    {
+     "card_id": "card_04",
+     "title": "In-house developer availability",
+     "text": "The company's two in-house developers are committed to the accounting upgrade until the third quarter, and the outside integrator hired before them left the interfaces undocumented.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Our two in-house developers are committed to the accounting upgrade until the third quarter, and the outside integrator hired before them left the interfaces undocumented."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Outcomes of the last three internal rollouts",
+     "text": "Post-project reviews of the last three internal rollouts show those needing daily entry from everyone were quietly dropped, while the narrow tools built for one trade still run.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Post-project reviews of the last three internal rollouts show those needing daily entry from everyone were quietly dropped, while the narrow tools built for one trade still run."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Record of cross-unit standardization efforts",
+     "text": "Of six cross-unit standardization efforts logged since the merger, four ended without an owner, while the recorded walkthroughs made for the tool room are still requested.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Of six cross-unit standardization efforts logged since the merger, four ended without an owner, while the recorded walkthroughs made for the tool room are still requested."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Misrouted deliveries in the incident logs",
+     "text": "Incident logs record eleven misrouted deliveries this year, each traced to two units holding different addresses for the same firm; none was attributed to inexperience.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Incident logs record eleven misrouted deliveries this year, each traced to two units holding different addresses for the same firm; none was attributed to inexperience."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Time lost to copying existing records",
+     "text": "Timing the depot mornings and the planning office found each losing close to an hour daily to copying details that already sat written down somewhere else.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Timing the depot mornings and the planning office found each losing close to an hour daily to copying details that already sat written down somewhere else."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Staffing of the coordination group",
+     "text": "No post in the coordination group has been refilled since the freeze, yet the same two people still write every weekly progress note and shift log by hand.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "No post in the coordination group has been refilled since the freeze, yet the same two people still write every weekly progress note and shift log by hand."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Handling of vendor queries",
+     "text": "Two clerks answer vendor queries for all three units, and both report the same certificate being requested from the same firm several times each year.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Two clerks answer vendor queries for all three units, and both report the same certificate being requested from the same firm several times each year."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 4,
+      "feasibility": 5,
+      "budget": 1,
+      "impact": 4,
+      "risk": 5
+     },
+     "B": {
+      "technical": 5,
+      "feasibility": 2,
+      "budget": 4,
+      "impact": 2,
+      "risk": 4
+     },
+     "C": {
+      "technical": 3,
+      "feasibility": 1,
+      "budget": 3,
+      "impact": 5,
+      "risk": 4
+     },
+     "D": {
+      "technical": 3,
+      "feasibility": 4,
+      "budget": 5,
+      "impact": 3,
+      "risk": 3
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 3,
+       "D": 5
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 5,
+       "B": 4,
+       "C": 4,
+       "D": 3
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 4,
+       "B": 5,
+       "C": 3,
+       "D": 3
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 4,
+       "B": 2,
+       "C": 5,
+       "D": 3
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 5,
+       "B": 2,
+       "C": 1,
+       "D": 4
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_002",
+   "source_instance_id": "panel_002",
+   "source_topic_id": "panel_002",
+   "topic": {
+    "title": "Award of a national grant for basic research in the life sciences",
+    "context": "A five-member review panel convened by a national funding agency deliberates over the proposals that reached the final round. One multi-year grant is awarded in this cycle.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Microbiome Atlas",
+      "summary": "A project cataloging microbial communities in soil samples collected across several climate zones and publishing the resulting sequences together with standardized site metadata."
+     },
+     {
+      "label": "B",
+      "name": "Protein Folding Dynamics",
+      "summary": "A study of how selected membrane proteins change shape over time, combining laboratory spectroscopy with simulation in order to describe intermediate structural states."
+     },
+     {
+      "label": "C",
+      "name": "Regeneration in Amphibians",
+      "summary": "An investigation of limb regrowth in salamander species, tracking cell populations and signaling activity through the successive stages of tissue restoration."
+     },
+     {
+      "label": "D",
+      "name": "Plant Drought Signaling",
+      "summary": "Research into the molecular signals that crops use to detect water shortage, conducted through controlled greenhouse trials across several cultivars and soil conditions."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Every cycle the headline award looks the same size, yet what it actually buys keeps shrinking in some places and holding steady in others. Before ranking anything, I want to know which kinds of spending the agency still absorbs centrally and which now land on the awardee.",
+    "2": "Too many recent awards lost time to things that had nothing to do with the science itself, and the panel usually hears about it only after the money is committed. It seemed worth asking in advance where work in this field actually gets interrupted.",
+    "3": "Our judgements about promise have not aged well, and some of us have watched confident picks quietly stall while plainer ones kept earning their keep. Rather than trust that instinct once more, I went back through what finished awards here actually delivered and when.",
+    "4": "Nothing funded here runs in isolation, since it lands on shared facilities and services that no single award pays to expand. Given how often that spare capacity has been the thing that gives way, I looked at what state those services are in right now.",
+    "5": "Money can be voted through in an afternoon, while the trained hands a project needs take years to gather and can disappear in a season. That worry sent me to the question of who is genuinely available around here now, and who has already gone."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Travel and bench-fee lines in the ledgers",
+     "text": "Ledgers show the vehicle-hire and per-diem lines frozen for three seasons while shipping charges climbed, though the ministry extended its bench-fee subsidy for glasshouse space.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Ledgers show the vehicle-hire and per-diem lines frozen for three seasons while shipping charges climbed, though the ministry extended its bench-fee subsidy for glasshouse space."
+    },
+    {
+     "card_id": "card_02",
+     "title": "National computing agreement and facility day rates",
+     "text": "The renewed national computing agreement covers simulation and modelling hours at no charge, while animal-unit day rates rose sharply after last year's vivarium rebuild.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "The renewed national computing agreement covers simulation and modelling hours at no charge, while animal-unit day rates rose sharply after last year's vivarium rebuild."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Incident logs on shared instrumentation",
+     "text": "Incident logs record the shared spectroscopy suite standing idle eleven weeks last year after its service contract lapsed; one engineer now covers three institutes.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Incident logs record the shared spectroscopy suite standing idle eleven weeks last year after its service contract lapsed; one engineer now covers three institutes."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Station records from partner field sites",
+     "text": "Station records show three of the five partner field sites losing a whole season to flooding or fire, while indoor holding rooms ran through uninterrupted.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Station records show three of the five partner field sites losing a whole season to flooding or fire, while indoor holding rooms ran through uninterrupted."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Closeout files of finished awards",
+     "text": "Closeout files show catalogue-style awards here still drawing outside users a decade on, while several mechanism-focused ones ended with their central question unresolved.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Closeout files show catalogue-style awards here still drawing outside users a decade on, while several mechanism-focused ones ended with their central question unresolved."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Portfolio review of schedule overruns",
+     "text": "A portfolio review found awards built on live breeding colonies overran schedule twice as often as those whose main risk sat in computation rather than biology.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "A portfolio review found awards built on live breeding colonies overran schedule twice as often as those whose main risk sat in computation rather than biology."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Accreditation and bookings at shared facilities",
+     "text": "The animal facility cleared its accreditation renewal in spring and gained resident veterinary cover, while glasshouse blocks are booked solid through two more growing cycles.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "The animal facility cleared its accreditation renewal in spring and gained resident veterinary cover, while glasshouse blocks are booked solid through two more growing cycles."
+    },
+    {
+     "card_id": "card_08",
+     "title": "National repository deposit turnaround",
+     "text": "The national repository finished its long migration, so deposits that once waited most of a year now clear review inside a few weeks.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "The national repository finished its long migration, so deposits that once waited most of a year now clear review inside a few weeks."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Staffing rolls for technical posts",
+     "text": "Staffing rolls show most trained phenotyping technicians left for industry over two years, while applicants for modelling and code posts now arrive in numbers.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Staffing rolls show most trained phenotyping technicians left for industry over two years, while applicants for modelling and code posts now arrive in numbers."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Minutes on secondments and crew strength",
+     "text": "Minutes note both senior modelling analysts are seconded abroad until next autumn, while the glasshouse crew came through the restructuring at full strength.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Minutes note both senior modelling analysts are seconded abroad until next autumn, while the glasshouse crew came through the restructuring at full strength."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 2,
+      "feasibility": 1,
+      "budget": 3,
+      "impact": 5,
+      "risk": 4
+     },
+     "B": {
+      "technical": 3,
+      "feasibility": 4,
+      "budget": 5,
+      "impact": 3,
+      "risk": 3
+     },
+     "C": {
+      "technical": 5,
+      "feasibility": 4,
+      "budget": 3,
+      "impact": 2,
+      "risk": 2
+     },
+     "D": {
+      "technical": 3,
+      "feasibility": 3,
+      "budget": 3,
+      "impact": 2,
+      "risk": 4
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 3,
+       "D": 3
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 2,
+       "B": 3,
+       "C": 5,
+       "D": 3
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 4,
+       "D": 3
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 4,
+       "B": 3,
+       "C": 2,
+       "D": 4
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 2,
+       "D": 2
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_003",
+   "source_instance_id": "panel_003",
+   "source_topic_id": "panel_003",
+   "topic": {
+    "title": "Selection of a seed-stage company for a venture fund's next investment",
+    "context": "Five partners at an early-stage venture fund review the companies that cleared the final screening round. One company will receive this quarter's seed investment.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Ledger Bridge",
+      "summary": "A company building software that reconciles payment records between small merchants and their banks, presenting matched and unmatched transactions together in a single dashboard."
+     },
+     {
+      "label": "B",
+      "name": "Harvest Sensor",
+      "summary": "A company developing in-field sensors and an accompanying service that reports soil and canopy conditions to growers on a seasonal subscription basis."
+     },
+     {
+      "label": "C",
+      "name": "Clinic Scheduler",
+      "summary": "A company offering appointment and staffing software for independent medical clinics, including reminders, waiting-list handling, and operational reporting for practice owners."
+     },
+     {
+      "label": "D",
+      "name": "Fabric Loop",
+      "summary": "A company operating a collection and resale channel for used apparel, running sorting facilities and an online storefront on behalf of participating clothing brands."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Money has been leaving this partnership faster than any plan allowed for, and each quarter seems to end with less room than it began with. Before this cheque goes out I want to know what the years after a first round demand of us, and what we can borrow against when they do.",
+    "2": "Nearly everything in the last two cohorts arrived late, and never for the reason written in the plan — something outside the team's own hands always sat between the money going in and a first customer switching anything on. I would rather know now which kind of obstacle we are signing ourselves up for.",
+    "3": "The stories we tell about our wins have drifted a long way from what the returns actually came from. I keep wanting to walk back through everything already funded and see which of it kept its customers and which quietly did not.",
+    "4": "Our own quarter-end has become the worst fortnight of every three months, and much of it goes on numbers nobody here can check independently. Before adding to the book I want a clear view of what a new holding does to the way we close and report.",
+    "5": "Every company we back ends up asking us for people, and lately the asking takes more of the week than the deciding does. I want a straight look at who can actually be found right now and whose time here is left to give."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Reserve accounts and follow-on calls",
+     "text": "The fund's reserve accounts show the holdings carrying equipment or stock called follow-on money at twice the modelled rate, and two called it a year early.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Our reserve accounts show the holdings carrying equipment or stock called follow-on money at twice the modelled rate, and two called it a year early."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Terms of last winter's credit line",
+     "text": "The credit line arranged last winter lends cheaply against stock held for sale, while treating subscription contracts and unbilled invoices as security worth nothing.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "The credit line arranged last winter lends cheaply against stock held for sale, while treating subscription contracts and unbilled invoices as security worth nothing."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Security review time before first deployment",
+     "text": "Deals whose customers hold other people's money or medical records averaged three quarters in security review before a first paid deployment; the rest averaged one.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Deals whose customers hold other people's money or medical records averaged three quarters in security review before a first paid deployment; the rest averaged one."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Delivery records of two holdings",
+     "text": "One holding that assembled its own devices lost five months to a controller shortage, while the tool running inside a partner bank's nightly cycle never missed a release.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "One holding that assembled its own devices lost five months to a controller shortage, while the tool running inside a partner bank's nightly cycle never missed a release."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Profile of the exits and the write-off",
+     "text": "Both profitable exits sold quiet back-office tooling for financial operations, bought by an incumbent; the single write-off ran its own premises and paid hourly crews.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Both profitable exits sold quiet back-office tooling for financial operations, bought by an incumbent; the single write-off ran its own premises and paid hourly crews."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Account retention through price rises",
+     "text": "The holding serving independent practices kept nine of ten accounts through a price rise, as did the one with instruments in customers' fields; the shopkeeper tool lost a third.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "The holding serving independent practices kept nine of ten accounts through a price rise, as did the one with instruments in customers' fields; the shopkeeper tool lost a third."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Appraisal needs at the last audit",
+     "text": "Quarter-end marks on anything with a depot or installed hardware need an outside appraisal, which added six weeks and a five-figure fee to the last audit.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Quarter-end marks on anything with a depot or installed hardware need an outside appraisal, which added six weeks and a five-figure fee to the last audit."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Independent checks on holdings' reported figures",
+     "text": "Holdings with instruments in the field, or goods moving across a floor, send readings the partners can verify themselves; the software ones report only their own dashboard figures.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Holdings with instruments in the field, or goods moving across a floor, send readings we can verify ourselves; the software ones report only their own dashboard figures."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Retained recruiters' placement times",
+     "text": "Recruiters on retainer fill support and rollout roles within weeks, but have never placed a shift supervisor or a seasonal field crew in under four months.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Recruiters on retainer fill support and rollout roles within weeks, but have never placed a shift supervisor or a seasonal field crew in under four months."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Adviser bench and partner board seats",
+     "text": "Three advisers who ran distribution yards and peak-season logistics joined the bench this year and have taken nothing on, while the partners covering software already hold eleven board seats.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Three advisers who ran distribution yards and peak-season logistics joined the bench this year and have taken nothing on, while the partners covering software already hold eleven board seats."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 2,
+      "feasibility": 1,
+      "budget": 5,
+      "impact": 5,
+      "risk": 4
+     },
+     "B": {
+      "technical": 2,
+      "feasibility": 4,
+      "budget": 2,
+      "impact": 4,
+      "risk": 5
+     },
+     "C": {
+      "technical": 4,
+      "feasibility": 5,
+      "budget": 3,
+      "impact": 1,
+      "risk": 5
+     },
+     "D": {
+      "technical": 2,
+      "feasibility": 5,
+      "budget": 4,
+      "impact": 4,
+      "risk": 1
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 5,
+       "B": 4,
+       "C": 1,
+       "D": 4
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 5,
+       "D": 5
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 2,
+       "B": 2,
+       "C": 4,
+       "D": 2
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 5,
+       "B": 2,
+       "C": 3,
+       "D": 4
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 4,
+       "B": 5,
+       "C": 5,
+       "D": 1
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_004",
+   "source_instance_id": "panel_004",
+   "source_topic_id": "panel_004",
+   "topic": {
+    "title": "Choice of a campus facility improvement plan for the coming fiscal year",
+    "context": "A five-member university committee of faculty and administrative staff reviews the facility plans submitted by departments. One plan will be carried out with next year's capital budget.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Central Study Commons",
+      "summary": "A conversion of an underused ground-floor hall into open study space, with bookable group rooms, distributed power outlets, and a service desk near the entrance."
+     },
+     {
+      "label": "B",
+      "name": "Laboratory Ventilation Upgrade",
+      "summary": "A replacement of ventilation and fume extraction equipment throughout the shared teaching laboratories, together with revised layouts for the bench, storage, and preparation areas."
+     },
+     {
+      "label": "C",
+      "name": "Campus Path Network",
+      "summary": "A reworking of the walkways between the main buildings, covering lighting, surface renewal, sheltered sections, and wayfinding signage for visitors and new students."
+     },
+     {
+      "label": "D",
+      "name": "Media Production Center",
+      "summary": "A fitted-out suite of recording and editing rooms for course video, student projects, and public lectures, managed through a booking system open to campus users."
+     }
+    ]
+   },
+   "problems": {
+    "1": "The figures approved on paper no longer survive contact with the market, and what a building costs after it opens never reaches the committee at all.",
+    "2": "Every recent job seems to meet something nobody priced for, and the calendar keeps slipping until a year of building is squeezed into whatever weeks are left.",
+    "3": "Looking back at what has actually been built here, nobody has asked in the open which of those projects landed well and which quietly disappointed the people using them.",
+    "4": "Some of us keep noticing that space decisions are settled without asking what the timetable absorbs while the work runs, or how heavily the finished rooms get used afterwards.",
+    "5": "Each decision here lands on the same shrinking set of staff, and those already carrying the routine upkeep have had no relief for years."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Tender records over three budget cycles",
+     "text": "Tender records over three budget cycles show mechanical and ducted plant lots rising by about a fifth, while surfacing and lamp-column lots held near the index.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Tender records over three budget cycles show mechanical and ducted plant lots rising by about a fifth, while surfacing and lamp-column lots held near the index."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Renewal reserve for equipment bought earlier",
+     "text": "Audiovisual kit bought in an earlier capital round is written down over five years, yet no renewal reserve was ever opened to pay for replacing it.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Audiovisual kit bought in an earlier capital round is written down over five years, yet no renewal reserve was ever opened to pay for replacing it."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Survey findings in the older blocks",
+     "text": "Surveys in the older blocks keep finding hazardous material behind ground-floor partitions, and the last two openings there added months before any contractor could begin.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Surveys in the older blocks keep finding hazardous material behind ground-floor partitions, and the last two openings there added months before any contractor could begin."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Weather days in the site diaries",
+     "text": "Site diaries from the last two capital jobs record six working weeks lost to rain and frost, all of it on work exposed to the weather.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Site diaries from the last two capital jobs record six working weeks lost to rain and frost, all of it on work exposed to the weather."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Decade of delivery schedules by project rationale",
+     "text": "Over the last decade, works answering an inspection finding were delivered on schedule, while those argued for on comfort or enrolment appeal slipped a year or more.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Over the last decade, works answering an inspection finding were delivered on schedule, while those argued for on comfort or enrolment appeal slipped a year or more."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Post-occupancy review ratings",
+     "text": "Post-occupancy reviews rated finished work highest where any department could book the space afterwards, and lowest where the benefit stayed inside a single wing.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Post-occupancy reviews rated finished work highest where any department could book the space afterwards, and lowest where the benefit stayed inside a single wing."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Timetable records on rooms out of service",
+     "text": "Timetable records show every room taken out of service for works has to be replaced by hired space off site, which the division paid for over two terms.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Timetable records show every room taken out of service for works has to be replaced by hired space off site, which the division paid for over two terms."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Booking data for specialist and general rooms",
+     "text": "Booking data from the specialist rooms shows them idle outside a few weeks each term, while requests for general-purpose rooms are turned away all year.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Booking data from the specialist rooms shows them idle outside a few weeks each term, while requests for general-purpose rooms are turned away all year."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Staffing posts since the hiring freeze",
+     "text": "Since the hiring freeze, front-of-house and grounds posts have stayed unfilled, while the technicians taken on during the online teaching push still have hours to spare.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Since the hiring freeze, front-of-house and grounds posts have stayed unfilled, while the technicians taken on during the online teaching push still have hours to spare."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Bench technicians' weekly manual routines",
+     "text": "Bench technicians log several hours each week on manual checks and window-opening routines that the current extraction equipment cannot carry out by itself.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Bench technicians log several hours each week on manual checks and window-opening routines that the current extraction equipment cannot carry out by itself."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 2,
+      "feasibility": 4,
+      "budget": 2,
+      "impact": 4,
+      "risk": 4
+     },
+     "B": {
+      "technical": 5,
+      "feasibility": 1,
+      "budget": 4,
+      "impact": 1,
+      "risk": 5
+     },
+     "C": {
+      "technical": 1,
+      "feasibility": 3,
+      "budget": 4,
+      "impact": 3,
+      "risk": 3
+     },
+     "D": {
+      "technical": 3,
+      "feasibility": 2,
+      "budget": 5,
+      "impact": 4,
+      "risk": 3
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 4,
+       "B": 5,
+       "C": 3,
+       "D": 3
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 3,
+       "D": 2
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 2,
+       "B": 4,
+       "C": 4,
+       "D": 5
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 3,
+       "D": 4
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 2,
+       "B": 5,
+       "C": 1,
+       "D": 3
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_005",
+   "source_instance_id": "panel_005",
+   "source_topic_id": "panel_005",
+   "topic": {
+    "title": "Selection of a redevelopment plan for a central municipal park",
+    "context": "A five-person review panel appointed by a city government examines the redevelopment plans prepared for a central park. One plan will be recommended to the council.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Wetland Restoration",
+      "summary": "A plan that reshapes the park's drainage into a series of ponds and reed beds, with boardwalks and observation points arranged along the water's edge."
+     },
+     {
+      "label": "B",
+      "name": "Sports Terraces",
+      "summary": "A plan that replaces the open lawn with multi-use courts, a marked running loop, changing facilities, and stepped seating along the southern side of the site."
+     },
+     {
+      "label": "C",
+      "name": "Market Plaza",
+      "summary": "A plan that creates a paved central square with stall infrastructure, shade structures, and utility connections intended for weekend markets and seasonal events."
+     },
+     {
+      "label": "D",
+      "name": "Woodland Walk",
+      "summary": "A plan that plants dense tree cover across the northern half of the site, threaded with gravel paths, small clearings, and a visitor shelter near the main gate."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Every scheme signed off here has looked affordable on the day and heavy on the accounts three years later. Sitting with the finance papers, I keep asking what this place will cost the city to keep once the ribbon is cut.",
+    "2": "Delivery dates in this city have a way of drifting once the diggers arrive, and the ground here has surprised us before. Before anyone commits, I want to know what this site and the handful of firms willing to work here will really let us finish.",
+    "3": "Something in how this city commissions work keeps producing handsome openings and short lives. I would rather judge by what the last decade of our schemes looks like now than by drawings.",
+    "4": "This park is not an empty stage; it is crossed, drained, mown and rained on every week of the year. What worries me is that we pick something which reads well on paper and then fights the way the ground and the people here actually behave.",
+    "5": "Every new thing the city opens lands on the same rota, and that rota is shorter each year. I am trying to work out who would really run and look after this place, week in and week out."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Terms of the regional habitat fund",
+     "text": "Two thirds of the capital envelope comes from a regional habitat fund whose terms pay only for planting and water management, never for surfacing or buildings.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Two thirds of the capital envelope comes from a regional habitat fund whose terms pay only for planting and water management, never for surfacing or buildings."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Upkeep ledger spend per hectare",
+     "text": "The upkeep ledger puts annual spend per hectare on planted and water-managed ground at roughly triple that of hard-surfaced areas, and the gap has widened yearly.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "The upkeep ledger puts annual spend per hectare on planted and water-managed ground at roughly triple that of hard-surfaced areas, and the gap has widened yearly."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Regional firms tendering for earth-moving",
+     "text": "Only two regional firms still tender for bulk earth-moving; both flagged clay subsoil and slippage risk, though they quote shallow, small-plant work at ordinary rates.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Only two regional firms still tender for bulk earth-moving; both flagged clay subsoil and slippage risk, though they quote shallow, small-plant work at ordinary rates."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Depot phasing notes on hoarding the site",
+     "text": "Phasing notes from the depot say the southern ground can be hoarded off in stages while the park stays open; the centre and the main gate cannot.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1,
+      "D": -1
+     },
+     "text_source": "Phasing notes from the depot say the southern ground can be hoarded off in stages while the park stays open; the centre and the main gate cannot."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Record of the eastern avenue planting",
+     "text": "Half the young trees put in along the eastern avenue five years ago were dead by the second summer; aftercare watering had been left out of the contract.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Half the young trees put in along the eastern avenue five years ago were dead by the second summer; aftercare watering had been left out of the contract."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Condition of works from the earlier programme",
+     "text": "The overflow basin cut upstream eight years back still needs no rebuild, while the apron resurfaced outside the civic hall in the same programme has been patched three times.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "The overflow basin cut upstream eight years back still needs no rebuild, while the apron resurfaced outside the civic hall in the same programme has been patched three times."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Timed counts of weekday crossings",
+     "text": "Timed counts on three weekday mornings found most people crossing the site to reach the tram stop, keeping to firm, open ground rather than the softer margins.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Timed counts on three weekday mornings found most people crossing the site to reach the tram stop, keeping to firm, open ground rather than the softer margins."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Drainage callouts and August heat readings",
+     "text": "Drainage callouts after storms have doubled since the culvert was capped, and heat readings taken last August ran several degrees above the shaded streets nearby.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Drainage callouts after storms have doubled since the culvert was capped, and heat readings taken last August ran several degrees above the shaded streets nearby."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Groundskeeping roll and bought-in services",
+     "text": "The groundskeeping roll has fallen from eighteen posts to seven; specialist water and turf care is bought in, while weekend stewarding is already covered by a casual pool.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "The groundskeeping roll has fallen from eighteen posts to seven; specialist water and turf care is bought in, while weekend stewarding is already covered by a casual pool."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Volunteer groups working with the division",
+     "text": "Two standing volunteer groups already work with the division most weekends, one on habitat tasks upriver and one lining and refereeing the youth league grounds.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Two standing volunteer groups already work with the division most weekends, one on habitat tasks upriver and one lining and refereeing the youth league grounds."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 3,
+      "feasibility": 3,
+      "budget": 3,
+      "impact": 5,
+      "risk": 2
+     },
+     "B": {
+      "technical": 3,
+      "feasibility": 1,
+      "budget": 4,
+      "impact": 3,
+      "risk": 3
+     },
+     "C": {
+      "technical": 3,
+      "feasibility": 4,
+      "budget": 5,
+      "impact": 2,
+      "risk": 1
+     },
+     "D": {
+      "technical": 5,
+      "feasibility": 2,
+      "budget": 3,
+      "impact": 1,
+      "risk": 2
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 3,
+       "B": 1,
+       "C": 4,
+       "D": 2
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 2,
+       "D": 1
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 2,
+       "B": 3,
+       "C": 1,
+       "D": 2
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 3,
+       "B": 4,
+       "C": 5,
+       "D": 3
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 3,
+       "B": 3,
+       "C": 3,
+       "D": 5
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_006",
+   "source_instance_id": "panel_006",
+   "source_topic_id": "panel_006",
+   "topic": {
+    "title": "Selection of a service expansion proposal for a public library system",
+    "context": "Five reviewers drawn from library staff and the community board deliberate over proposals for expanding services. One proposal will be implemented across the branch network.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Mobile Branch Service",
+      "summary": "A vehicle-based lending service that visits outlying neighborhoods on a fixed weekly schedule, carrying a rotating collection and a staffed help desk at each stop."
+     },
+     {
+      "label": "B",
+      "name": "Digital Archive Portal",
+      "summary": "A program to scan local newspapers, photographs, and municipal records and publish them through a searchable portal with browsing and citation tools for researchers."
+     },
+     {
+      "label": "C",
+      "name": "Maker Workshop",
+      "summary": "A dedicated room in the main branch offering tools, materials, and scheduled instruction sessions for residents working on craft, repair, and electronics projects."
+     },
+     {
+      "label": "D",
+      "name": "Language Learning Circles",
+      "summary": "A recurring program of conversation groups and tutoring sessions in several languages, coordinated with trained facilitators and partner community organizations across the district."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Every budget cycle looks sufficient on the day of the vote and thin by the second year, and the trouble seems to lie in how the funding is shaped rather than in its size.",
+    "2": "Too much of what we have started here depended on conditions we do not control, and the last few timetables came apart in the months when those conditions turned against us.",
+    "3": "It bothers me that we keep judging new ideas by how they sound in the room, when shapes very like them have already been tried in this system and left records nobody reopens.",
+    "4": "What keeps nagging at me is the knock-on: where our buildings sit and when they open already decides who can reach us, and every new commitment quietly reshuffles that.",
+    "5": "Staff absorb every new commitment on top of what they already do, and nobody checks beforehand whether the skills it needs are actually sitting on the roster."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Running and equipment lines last year",
+     "text": "Last year's ledger shows the vehicle running line overran by a third, while the one-off equipment allocation closed under budget and was handed back to reserves.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Last year's ledger shows the vehicle running line overran by a third, while the one-off equipment allocation closed under budget and was handed back to reserves."
+    },
+    {
+     "card_id": "card_02",
+     "title": "County grant terms and the endowment",
+     "text": "The county grant pays contracted session fees for twelve months only, after which the flat operating budget carries them; capital items draw on the endowment instead.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "The county grant pays contracted session fees for twelve months only, after which the flat operating budget carries them; capital items draw on the endowment instead."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Quoted delivery windows from suppliers",
+     "text": "Both regional scanning contractors quoted last spring attach delivery windows that slip whenever a larger municipal client books first; bench tooling ships from stock within weeks.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Both regional scanning contractors quoted last spring attach delivery windows that slip whenever a larger municipal client books first; bench tooling ships from stock within weeks."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Winter road closures north of the river",
+     "text": "Access roads north of the river were shut on eleven days last winter, yet the community halls in those wards kept their own evening timetables without interruption.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Access roads north of the river were shut on eleven days last winter, yet the community halls in those wards kept their own evening timetables without interruption."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Attendance sheets from former outreach stops",
+     "text": "Attendance sheets from the outreach stops run until that funding lapsed averaged forty visitors a session in the outer wards, above anything the main building drew midweek.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "Attendance sheets from the outreach stops run until that funding lapsed averaged forty visitors a session in the outer wards, above anything the main building drew midweek."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Two programmes begun six years ago",
+     "text": "A photographic digitisation batch attempted six years ago left half its images unindexed, while the partner-run evening groups begun that same season still meet unaided.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "A photographic digitisation batch attempted six years ago left half its images unindexed, while the partner-run evening groups begun that same season still meet unaided."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Bus links in the two outer wards",
+     "text": "Two outer wards lost their bus link when the county rerouted services, and residents there now face an hour's round trip to reach any staffed counter.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "Two outer wards lost their bus link when the county rerouted services, and residents there now face an hour's round trip to reach any staffed counter."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Evening room bookings and remote catalogue use",
+     "text": "Evening room bookings are full through the term and caretakers lock up at nine, though remote catalogue use from home peaks well after that hour.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Evening room bookings are full through the term and caretakers lock up at nine, though remote catalogue use from home peaks well after that hour."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Volunteer register and supervision training",
+     "text": "The volunteer register lists a dozen retired tradespeople already running the Saturday repair clinic, but no one on the payroll is trained to supervise outside facilitators.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "The volunteer register lists a dozen retired tradespeople already running the Saturday repair clinic, but no one on the payroll is trained to supervise outside facilitators."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Neighbourhood associations and tool certification",
+     "text": "Two neighbourhood associations staff their own weekly sessions with people they prepared themselves, while the technician who kept the power tools certified retired in spring.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Two neighbourhood associations staff their own weekly sessions with people they prepared themselves, while the technician who kept the power tools certified retired in spring."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 1,
+      "feasibility": 4,
+      "budget": 3,
+      "impact": 3,
+      "risk": 3
+     },
+     "B": {
+      "technical": 2,
+      "feasibility": 4,
+      "budget": 4,
+      "impact": 5,
+      "risk": 2
+     },
+     "C": {
+      "technical": 4,
+      "feasibility": 4,
+      "budget": 3,
+      "impact": 3,
+      "risk": 2
+     },
+     "D": {
+      "technical": 2,
+      "feasibility": 1,
+      "budget": 5,
+      "impact": 5,
+      "risk": 1
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 4,
+       "B": 4,
+       "C": 4,
+       "D": 1
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 3,
+       "B": 2,
+       "C": 2,
+       "D": 1
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 1,
+       "B": 2,
+       "C": 4,
+       "D": 2
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 3,
+       "D": 5
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 3,
+       "B": 4,
+       "C": 3,
+       "D": 5
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_007",
+   "source_instance_id": "panel_007",
+   "source_topic_id": "panel_007",
+   "topic": {
+    "title": "Selection of a care program for a regional hospital's development budget",
+    "context": "A five-member review panel of clinicians and hospital administrators considers the program proposals submitted by departments. One program will be established with this year's development budget.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Home Follow-Up Team",
+      "summary": "A program in which nurses visit discharged patients at home for a defined period, recording recovery progress and coordinating each case with the treating department."
+     },
+     {
+      "label": "B",
+      "name": "Day Rehabilitation Unit",
+      "summary": "A program providing scheduled outpatient physical therapy in a dedicated space, equipped and staffed for both group sessions and individual treatment plans."
+     },
+     {
+      "label": "C",
+      "name": "Chronic Care Coordination",
+      "summary": "A program assigning coordinators to patients living with several long-term conditions, consolidating appointments, medication reviews, and communication with providers outside the hospital."
+     },
+     {
+      "label": "D",
+      "name": "Perinatal Support Service",
+      "summary": "A program offering scheduled consultations, classes, and follow-up contact for expectant and new parents, delivered jointly by the midwifery and pediatric departments."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Every year the development money is voted through as though it were the whole cost, and the running side turns up unfunded twelve months later. Before anything is committed I would like to know what this budget can actually build and what any of it would earn back.",
+    "2": "Approval has never been the hard part here; things break in the second year, once the arrangement turns out to rest on a department or an outside body that never really signed up to it. I went looking for where our recent starts came apart.",
+    "3": "We have started and quietly buried enough initiatives that nobody can now say which of them ever changed anything for a patient. It seemed worth reading what the earlier attempts actually produced before we add another to the pile.",
+    "4": "Anything new has to fit into a day that is already full — the rooms, the approach roads, the booking screens everything must pass through. What worries me is less the merit of the idea than whether this place could absorb it without seizing up.",
+    "5": "Rosters are where every new program eventually lands, and the teams it lands on are rarely the ones that asked for it. Pressure sits so differently between one clinical group and the next that I wanted the staffing records in front of me."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "This year's development allocation in the ledger",
+     "text": "The finance ledger shows this year's development allocation down by nearly a quarter, with any fitting out of floor space now charged against it instead of the estates budget.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "The finance ledger shows this year's development allocation down by nearly a quarter, with any fitting out of floor space now charged against it instead of the estates budget."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Regional fund tariffs by contact location",
+     "text": "Contacts made away from hospital premises draw no tariff from the regional health fund, while every session recorded on site bills at the standard outpatient rate.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Contacts made away from hospital premises draw no tariff from the regional health fund, while every session recorded on site bills at the standard outpatient rate."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Board minutes on a jointly run clinic",
+     "text": "Board minutes record a clinic run jointly by two departments closing inside a year, after neither would carry the rota or hold the budget line.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Board minutes record a clinic run jointly by two departments closing inside a year, after neither would carry the rota or hold the budget line."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Data agreements with outside surgeries",
+     "text": "Linking the records system to an outside surgery needs a signed data agreement for each one, and the last completed agreement took fourteen months to reach signature.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "Linking the records system to an outside surgery needs a signed data agreement for each one, and the last completed agreement took fourteen months to reach signature."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Readmission figures during the call-back trial",
+     "text": "Readmissions among patients over seventy fell by a fifth through the eighteen months a discharge call-back trial ran here, and drifted back once it stopped.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Readmissions among patients over seventy fell by a fifth through the eighteen months a discharge call-back trial ran here, and drifted back once it stopped."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Visit completion on the shared nursing round",
+     "text": "A district nursing round the hospital shared with the council two winters ago lost one planned visit in three to weather, locked gates and unanswered doors.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "A district nursing round the hospital shared with the council two winters ago lost one planned visit in three to weather, locked gates and unanswered doors."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Rooms, parking and shuttle coverage",
+     "text": "Outpatient rooms book out from mid-morning, the car park fills before eleven, and the hospital shuttle serves four of the district's nineteen villages.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Outpatient rooms book out from mid-morning, the car park fills before eleven, and the hospital shuttle serves four of the district's nineteen villages."
+    },
+    {
+     "card_id": "card_08",
+     "title": "What the booking system records",
+     "text": "The booking system holds only named clinic slots; work that has no fixed appointment ends up logged nowhere and disappears from every activity report.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "The booking system holds only named clinic slots; work that has no fixed appointment ends up logged nowhere and disappears from every activity report."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Ward nursing vacancies and agency cover",
+     "text": "Nine ward nursing posts stand unfilled, and agency cover has taken a larger share of the pay bill in each of the last three quarters.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Nine ward nursing posts stand unfilled, and agency cover has taken a larger share of the pay bill in each of the last three quarters."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Therapy and midwifery staffing review",
+     "text": "The therapy staffing review counts four years of physiotherapists leaving for city posts, while falling birth numbers have left the midwifery rota with unusual slack.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "The therapy staffing review counts four years of physiotherapists leaving for city posts, while falling birth numbers have left the midwifery rota with unusual slack."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 1,
+      "feasibility": 3,
+      "budget": 1,
+      "impact": 5,
+      "risk": 2
+     },
+     "B": {
+      "technical": 1,
+      "feasibility": 1,
+      "budget": 4,
+      "impact": 3,
+      "risk": 5
+     },
+     "C": {
+      "technical": 1,
+      "feasibility": 2,
+      "budget": 4,
+      "impact": 5,
+      "risk": 3
+     },
+     "D": {
+      "technical": 5,
+      "feasibility": 2,
+      "budget": 1,
+      "impact": 5,
+      "risk": 1
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 4,
+       "D": 1
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 1,
+       "B": 1,
+       "C": 1,
+       "D": 5
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 5,
+       "D": 5
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 3,
+       "B": 1,
+       "C": 2,
+       "D": 2
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 2,
+       "B": 5,
+       "C": 3,
+       "D": 1
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_008",
+   "source_instance_id": "panel_008",
+   "source_topic_id": "panel_008",
+   "topic": {
+    "title": "Selection of a transit improvement plan for a metropolitan authority",
+    "context": "Five reviewers appointed by a metropolitan transit authority deliberate over the improvement plans prepared for the network. One plan will be forwarded to the board.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Crosstown Bus Corridor",
+      "summary": "A plan introducing a limited-stop bus route across the city's midsection, with dedicated lanes on selected segments and rebuilt boarding islands at the busiest stops."
+     },
+     {
+      "label": "B",
+      "name": "Station Access Upgrades",
+      "summary": "A plan reworking entrances, stairs, elevators, and passageways at a set of older stations to change how passengers move between the platforms and street level."
+     },
+     {
+      "label": "C",
+      "name": "Integrated Fare Platform",
+      "summary": "A plan replacing the current ticketing arrangements with a single account-based fare system covering the bus, rail, and regional ferry services together."
+     },
+     {
+      "label": "D",
+      "name": "Night Service Extension",
+      "summary": "A plan extending operating hours on the core routes into the late night, with adjusted staffing rosters, revised maintenance windows, and rewritten timetables."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Every budget round lately turns into an argument over which pot the money may come from rather than what the network needs. Headline totals stopped meaning much to me once I saw what they commit us to paying in the years afterwards.",
+    "2": "Ever since the reorganisation, the schemes that stall are never the ones we expected to stall, and the cause is never anything written in the drawings. Before believing any delivery date now, I want to know who else has to say yes and what the ground might hide.",
+    "3": "Institutional memory here is short: the same ideas come back every decade and nobody looks up what happened last time. What I have started doing is reading the closure reports before the enthusiasm sets in.",
+    "4": "Complaints arrive about crowding, but when someone actually stands with a stopwatch the story often turns out different. What worries me is that we keep fixing whichever part of the trip gets talked about most rather than the part that costs passengers time.",
+    "5": "Plans here are written as if the people to run them will simply appear, and the same handful of crews end up carrying whatever we decide. Before anything is promised, I would rather know which rosters already have nothing left in them."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Balances in the capital ledger",
+     "text": "The capital ledger still carries a ring-fenced construction balance from a lapsed grant, while the operating subsidy and the technology line were both trimmed again this year.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1,
+      "D": -1
+     },
+     "text_source": "The capital ledger still carries a ring-fenced construction balance from a lapsed grant, while the operating subsidy and the technology line were both trimmed again this year."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Ticketing contractor fees and paving rates",
+     "text": "Annual fees to the three separate ticketing contractors now exceed what the authority set aside for resurfacing, and paving unit rates climbed again in the latest roadworks tender.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1,
+      "D": 0
+     },
+     "text_source": "Annual fees to the three separate ticketing contractors now exceed what we set aside for resurfacing, and paving unit rates climbed again in the latest roadworks tender."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Contingency pricing inside the pre-war shells",
+     "text": "Bidders now price heavy contingency into work inside the pre-war station shells, after three jobs in the past two years met unrecorded voids and stopped for weeks.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1,
+      "D": 1
+     },
+     "text_source": "Bidders now price heavy contingency into work inside the pre-war station shells, after three jobs in the past two years met unrecorded voids and stopped for weeks."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Joint operators' committee minutes",
+     "text": "Minutes of the joint operators' committee show the ferry and rail back offices never agreed common passenger data terms; roadway consents, by contrast, are already delegated to the authority.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "Minutes of the joint operators' committee show the ferry and rail back offices never agreed common passenger data terms; roadway consents, by contrast, are already delegated to us."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Completion records of the earlier accessibility programme",
+     "text": "Completion records from the accessibility programme of the previous decade show four lift and entrance rebuilds finished within their windows, while two lane-priority stretches were returned to mixed traffic.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Completion records from the accessibility programme of the previous decade show four lift and entrance rebuilds finished within their windows, while two lane-priority stretches were returned to mixed traffic."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Two pilots from eight years ago",
+     "text": "The contactless payment trial on the ferry link eight years ago closed without technical faults, and the late-evening timetable pilot from that period met its cost-recovery target.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 1,
+      "D": 1
+     },
+     "text_source": "The contactless payment trial on the ferry link eight years ago closed without technical faults, and the late-evening timetable pilot from that period met its cost-recovery target."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Timed runs and crowd counts mid-city",
+     "text": "Timed runs along the mid-city surface route take a third longer than a decade ago, yet the same platform counts show crowds clearing at roughly the old rate.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Timed runs along the mid-city surface route take a third longer than a decade ago, yet the same platform counts show crowds clearing at roughly the old rate."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Journey audits on where minutes go",
+     "text": "Journey audits across the network attribute most added minutes to waiting for connections rather than to paying; queues at the machines rarely last beyond a minute.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "Journey audits across the network attribute most added minutes to waiting for connections rather than to paying; queues at the machines rarely last beyond a minute."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Roster books for the late-turn pool",
+     "text": "Roster books show the late-turn pool has thinned each year since the recruitment freeze, with overtime now covering both the final departures and the overnight works gangs.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Roster books show the late-turn pool has thinned each year since the recruitment freeze, with overtime now covering both the final departures and the overnight works gangs."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Crew establishment and maintenance contract",
+     "text": "The roadway and signals crews are a third below establishment after the freeze, while the lift and escalator maintenance contract was renewed this spring with spare crew capacity.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "The roadway and signals crews are a third below establishment after the freeze, while the lift and escalator maintenance contract was renewed this spring with spare crew capacity."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 3,
+      "feasibility": 4,
+      "budget": 1,
+      "impact": 1,
+      "risk": 4
+     },
+     "B": {
+      "technical": 5,
+      "feasibility": 1,
+      "budget": 5,
+      "impact": 2,
+      "risk": 1
+     },
+     "C": {
+      "technical": 4,
+      "feasibility": 5,
+      "budget": 1,
+      "impact": 2,
+      "risk": 2
+     },
+     "D": {
+      "technical": 2,
+      "feasibility": 3,
+      "budget": 1,
+      "impact": 4,
+      "risk": 5
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 2,
+       "D": 5
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 1,
+       "B": 2,
+       "C": 2,
+       "D": 4
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 1,
+       "B": 5,
+       "C": 1,
+       "D": 1
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 3,
+       "B": 5,
+       "C": 4,
+       "D": 2
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 4,
+       "B": 1,
+       "C": 5,
+       "D": 3
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_009",
+   "source_instance_id": "panel_009",
+   "source_topic_id": "panel_009",
+   "topic": {
+    "title": "Selection of a vendor for an enterprise resource planning replacement",
+    "context": "A five-person procurement review panel at a logistics company evaluates the shortlisted vendors for replacing its enterprise resource planning system. One vendor will be contracted.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Meridian Systems",
+      "summary": "A vendor offering a hosted suite covering finance, inventory, and transport planning, delivered through a fixed configuration process and supported by a regional service team."
+     },
+     {
+      "label": "B",
+      "name": "Corvus Platform",
+      "summary": "A vendor providing a modular system assembled from separate finance, warehouse, and fleet components, each licensed and configured independently of the others."
+     },
+     {
+      "label": "C",
+      "name": "Anchor Industrial Software",
+      "summary": "A vendor supplying a system built specifically for transport operators, deployed on the company's own servers with an engineering team present through rollout."
+     },
+     {
+      "label": "D",
+      "name": "Tessera Cloud Suite",
+      "summary": "A vendor offering a subscription platform with configurable workflows and an application marketplace, with a partner firm handling data migration and staff training."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Money here gets approved in one shape and refused in another, and a headline price has stopped telling me what a system will really cost us over its life. What worries me is the part of the bill that keeps arriving after everyone has stopped watching.",
+    "2": "Every project we run seems to founder on the same two things: nobody is quite in charge when something breaks, and the plan agreed at the start stops matching the business within months. I would rather know now which of those we are walking into again.",
+    "3": "Looking back at what this company has already lived through, two patterns bother me: systems that quietly age in place, and work handed outside that comes back needing repair.",
+    "4": "The part that keeps me awake is the depot floor: freight moves whether or not the office is mid-project, and the equipment out there is nobody's idea of modern. Anything we bring in has to survive our calendar and our yards as they actually are.",
+    "5": "We are thinner on people than the plan admits, and the ones who hold everything together are either leaving or already stretched across two roles. How a change lands on them, and on the crews who have to be retaught, weighs more with me than any feature list."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Board minutes on capital and operating requests",
+     "text": "Capital requests have been trimmed three years running in the board minutes, while recurring operating lines passed the same meetings with barely a question.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Capital requests have been trimmed three years running in the board minutes, while recurring operating lines passed the same meetings with barely a question."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Five years of renewal invoices",
+     "text": "Finance lined up five years of renewal invoices: bundled agreements held their price, separately licensed pieces and add-ons climbed yearly, and the company's one outright purchase cost only maintenance.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 0,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Finance lined up five years of renewal invoices: bundled agreements held their price, separately licensed pieces and add-ons climbed yearly, and our one outright purchase cost only maintenance."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Support ownership during last winter's outage",
+     "text": "The current contracts scatter support across four suppliers, and last winter's outage sat unowned for two days while each of them pointed at another.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Our current contracts scatter support across four suppliers, and last winter's outage sat unowned for two days while each of them pointed at another."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Warehouse rule changes after new accounts",
+     "text": "Two new distribution accounts arrived mid-year and forced the warehouse rules to be rewritten twice; the scope frozen at project start never survived a full year.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Two new distribution accounts arrived mid-year and forced the warehouse rules to be rewritten twice; the scope we froze at project start never survived a full year."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Upgrade history of the dispatch tool",
+     "text": "The dispatch system has run on the company's own racks since 2012; three upgrade windows were skipped because testing the whole thing at once needed weeks nobody had.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "The dispatch system has run on our own racks since 2012; three upgrade windows were skipped because testing the whole thing at once needed weeks nobody had."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Data lift in the 2018 pay move",
+     "text": "When driver pay moved to a new system in 2018, an external team did the data lift; mismatched route codes kept surfacing for a year afterwards.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "When driver pay moved to a new system in 2018, an external team did the data lift; mismatched route codes kept surfacing for a year afterwards."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Depot calendar and the peak-season cutover",
+     "text": "Depots run around the clock from November through January with no freeze window; the one cutover attempted in that stretch cost two days of paper dispatch.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Depots run around the clock from November through January with no freeze window; the one cutover attempted in that stretch cost two days of paper dispatch."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Yard devices and the 2021 scheduling trial",
+     "text": "Yard scanners and driver handhelds are a mix of older models, and the general scheduling tool trialled in 2021 was ringed with spreadsheets within a month.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Yard scanners and driver handhelds are a mix of older models, and the general scheduling tool trialled in 2021 was ringed with spreadsheets within a month."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Administrator retirements and hiring times",
+     "text": "Two of the four administrators who know the company's systems from the inside retire this year, and the last posting for those skills stayed open eleven months.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Two of the four administrators who know our systems from the inside retire this year, and the last posting for those skills stayed open eleven months."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Depot supervisors and the last rollout",
+     "text": "Depot supervisors have shaped their own routines over years; standard steps taught by visiting trainers in the last rollout were quietly dropped in two depots within weeks.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": -1,
+      "B": 0,
+      "C": 0,
+      "D": -1
+     },
+     "text_source": "Depot supervisors have shaped their own routines over years; standard steps taught by visiting trainers in the last rollout were quietly dropped in two depots within weeks."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 1,
+      "feasibility": 5,
+      "budget": 5,
+      "impact": 4,
+      "risk": 2
+     },
+     "B": {
+      "technical": 4,
+      "feasibility": 2,
+      "budget": 5,
+      "impact": 4,
+      "risk": 1
+     },
+     "C": {
+      "technical": 5,
+      "feasibility": 5,
+      "budget": 3,
+      "impact": 1,
+      "risk": 2
+     },
+     "D": {
+      "technical": 5,
+      "feasibility": 2,
+      "budget": 1,
+      "impact": 3,
+      "risk": 4
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 1,
+       "B": 4,
+       "C": 5,
+       "D": 5
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 5,
+       "B": 5,
+       "C": 3,
+       "D": 1
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 2,
+       "B": 1,
+       "C": 2,
+       "D": 4
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 5,
+       "B": 2,
+       "C": 5,
+       "D": 2
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 4,
+       "B": 4,
+       "C": 1,
+       "D": 3
+      }
+     }
+    ]
+   }
+  },
+  {
+   "instance_id": "candidate_selection_010",
+   "source_instance_id": "panel_010",
+   "source_topic_id": "panel_010",
+   "topic": {
+    "title": "Selection of a special exhibition for a museum's main gallery",
+    "context": "Five members of a museum's exhibition committee review the proposals submitted by curators and partner institutions. One exhibition will occupy the main gallery next season.",
+    "options": [
+     {
+      "label": "A",
+      "name": "Maritime Trade Routes",
+      "summary": "An exhibition tracing historical shipping routes through charts, cargo objects, and ship models, drawing on the museum's holdings alongside loans from partner maritime collections."
+     },
+     {
+      "label": "B",
+      "name": "Textiles of the Region",
+      "summary": "An exhibition of locally produced weaving and dyeing, presenting garments and tools alongside recorded interviews and demonstration sessions with practicing craftspeople."
+     },
+     {
+      "label": "C",
+      "name": "Light and Motion",
+      "summary": "An exhibition of kinetic and light-based artworks installed across the gallery, arranged in darkened zones with overhead rigging and works supplied by artist studios."
+     },
+     {
+      "label": "D",
+      "name": "City Under Excavation",
+      "summary": "An exhibition of finds from recent municipal digs, shown with reconstructions, site photography, and a working conservation bench visible to visitors from the walkway."
+     }
+    ]
+   },
+   "problems": {
+    "1": "Every season the money seems to end up somewhere other than the walls, and we only find out once the invoices land. Before another budget is set I would rather know which parts of a season quietly swallow it.",
+    "2": "Delivery is where this committee keeps getting caught out, approving something in good faith and then spending the season apologising at the door. I want to know where past seasons actually came unstuck, not where they were meant to.",
+    "3": "Looking back over the seasons I have sat through, the shows we were proudest of on paper are not the ones people came back for. Before the main room is committed again, the record should get a hearing first.",
+    "4": "The main room has to go on working as a building and not only as a display, and every season something arrives that the floor or the diary cannot absorb. I would rather learn that before the space is promised to anyone.",
+    "5": "We keep planning seasons as though the staff list were still what it was five years ago, when those left are carrying two roles each. What I want settled is who would actually do the work and who would be standing in the room."
+   },
+   "card_pool": [
+    {
+     "card_id": "card_01",
+     "title": "Loan transport costs over three seasons",
+     "text": "Across the last three seasons, courier transport, crating and insurance on incoming loans came to nearly a third of what the museum spent on installation.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Across the last three seasons, courier transport, crating and insurance on incoming loans came to nearly a third of what we spent on installation."
+    },
+    {
+     "card_id": "card_02",
+     "title": "Mount-making charges and joiner's rate",
+     "text": "Bespoke mount-making is charged by the object, and the joiner's day rate has risen by half; anything arriving on its own supports costs the museum nothing there.",
+     "origin_seat": 1,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Bespoke mount-making is charged by the object, and the joiner's day rate has risen by half; anything arriving on its own supports costs us nothing there."
+    },
+    {
+     "card_id": "card_03",
+     "title": "Lender paperwork against shipping cut-offs",
+     "text": "Two of the last four openings slipped when agreements and condition reports came back from distant lending institutions after the shipping agent's cut-off date.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 0,
+      "D": 0
+     },
+     "text_source": "Two of the last four openings slipped when agreements and condition reports came back from distant lending institutions after the shipping agent's cut-off date."
+    },
+    {
+     "card_id": "card_04",
+     "title": "Maintenance log for powered displays",
+     "text": "The maintenance log records seventeen call-outs last season for powered and moving displays, four of them in opening hours with that bay roped off.",
+     "origin_seat": 2,
+     "bearing": {
+      "A": 1,
+      "B": 0,
+      "C": -1,
+      "D": 0
+     },
+     "text_source": "The maintenance log records seventeen call-outs last season for powered and moving displays, four of them in opening hours with that bay roped off."
+    },
+    {
+     "card_id": "card_05",
+     "title": "Weekend head counts across ten seasons",
+     "text": "Weekend head counts across ten seasons climb in rooms where a mechanism runs or a display changes, and drop where the room holds only cased objects.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": -1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "Weekend head counts across ten seasons climb in rooms where a mechanism runs or a display changes, and drop where the room holds only cased objects."
+    },
+    {
+     "card_id": "card_06",
+     "title": "Five years of visitor comment slips",
+     "text": "Five years of visitor comment slips keep naming one reason for a second trip, that somebody was present, working or talking, rather than an empty gallery.",
+     "origin_seat": 3,
+     "bearing": {
+      "A": 0,
+      "B": 1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Five years of visitor comment slips keep naming one reason for a second trip, that somebody was present, working or talking, rather than an empty gallery."
+    },
+    {
+     "card_id": "card_07",
+     "title": "Structural survey of the suspended bay",
+     "text": "A structural survey caps the suspended bay at four hundred kilos a square metre; the last crated stonework needed shoring and a rerouted delivery through the yard.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": -1,
+      "B": 1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "A structural survey caps the suspended bay at four hundred kilos a square metre; the last crated stonework needed shoring and a rerouted delivery through the yard."
+    },
+    {
+     "card_id": "card_08",
+     "title": "Evening hire bookings in the gallery",
+     "text": "Hire bookings take the gallery for six evenings a season; caterers and stacked chairs pass through, and open arrangements that cannot be shut up have come back damaged.",
+     "origin_seat": 4,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": -1,
+      "D": 1
+     },
+     "text_source": "Hire bookings take the gallery for six evenings a season; caterers and stacked chairs pass through, and open arrangements that cannot be shut up have come back damaged."
+    },
+    {
+     "card_id": "card_09",
+     "title": "Conservation lab staffing and backlog",
+     "text": "The conservation lab has been down to one filled post since spring, and material waiting for cleaning and stabilising has built up to roughly two hundred pieces.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 1,
+      "B": -1,
+      "C": 1,
+      "D": -1
+     },
+     "text_source": "The conservation lab has been down to one filled post since spring, and material waiting for cleaning and stabilising has built up to roughly two hundred pieces."
+    },
+    {
+     "card_id": "card_10",
+     "title": "Composition of the volunteer roster",
+     "text": "Of the sixty names on the volunteer roster, much the largest group is the town history circle, who already guide the monthly walks around the old quarter.",
+     "origin_seat": 5,
+     "bearing": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 1
+     },
+     "text_source": "Of the sixty names on the volunteer roster, much the largest group is the town history circle, who already guide the monthly walks around the old quarter."
+    }
+   ],
+   "fixed_assignment": {
+    "1": [
+     "card_01",
+     "card_02"
+    ],
+    "2": [
+     "card_03",
+     "card_04"
+    ],
+    "3": [
+     "card_05",
+     "card_06"
+    ],
+    "4": [
+     "card_07",
+     "card_08"
+    ],
+    "5": [
+     "card_09",
+     "card_10"
+    ]
+   },
+   "meta": {
+    "dimensions": [
+     "technical",
+     "feasibility",
+     "budget",
+     "impact",
+     "risk"
+    ],
+    "scores": {
+     "A": {
+      "technical": 5,
+      "feasibility": 3,
+      "budget": 2,
+      "impact": 3,
+      "risk": 4
+     },
+     "B": {
+      "technical": 3,
+      "feasibility": 4,
+      "budget": 2,
+      "impact": 4,
+      "risk": 5
+     },
+     "C": {
+      "technical": 1,
+      "feasibility": 5,
+      "budget": 3,
+      "impact": 5,
+      "risk": 1
+     },
+     "D": {
+      "technical": 2,
+      "feasibility": 2,
+      "budget": 4,
+      "impact": 4,
+      "risk": 3
+     }
+    },
+    "information_split": [
+     {
+      "seat": 1,
+      "dimension": "feasibility",
+      "private_scores": {
+       "A": 3,
+       "B": 4,
+       "C": 5,
+       "D": 2
+      }
+     },
+     {
+      "seat": 2,
+      "dimension": "budget",
+      "private_scores": {
+       "A": 2,
+       "B": 2,
+       "C": 3,
+       "D": 4
+      }
+     },
+     {
+      "seat": 3,
+      "dimension": "impact",
+      "private_scores": {
+       "A": 3,
+       "B": 4,
+       "C": 5,
+       "D": 4
+      }
+     },
+     {
+      "seat": 4,
+      "dimension": "risk",
+      "private_scores": {
+       "A": 4,
+       "B": 5,
+       "C": 1,
+       "D": 3
+      }
+     },
+     {
+      "seat": 5,
+      "dimension": "technical",
+      "private_scores": {
+       "A": 5,
+       "B": 3,
+       "C": 1,
+       "D": 2
+      }
+     }
+    ]
+   }
+  }
+ ]
+}

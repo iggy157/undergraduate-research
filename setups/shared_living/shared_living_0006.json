@@ -1,0 +1,47 @@
+{
+ "setup_id": "shared_living_0006",
+ "domain": "shared_living",
+ "k": 6,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Takumi",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Benjamin",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Shunichi",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Jonathan",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Asuka",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  5,
+  2,
+  4,
+  3,
+  1
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "shared_living_007",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "A",
+  "C",
+  "B"
+ ]
+}

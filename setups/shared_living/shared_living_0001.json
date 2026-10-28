@@ -1,0 +1,47 @@
+{
+ "setup_id": "shared_living_0001",
+ "domain": "shared_living",
+ "k": 1,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Misaki",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 2,
+   "persona": "Ryuji",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 3,
+   "persona": "Rin",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 4,
+   "persona": "Mio",
+   "role_slot": "PARTICIPANT"
+  },
+  {
+   "seat": 5,
+   "persona": "Shizue",
+   "role_slot": "PARTICIPANT"
+  }
+ ],
+ "speaking_order": [
+  4,
+  5,
+  2,
+  3,
+  1
+ ],
+ "info_mode": "dynamic",
+ "instance_id": "shared_living_002",
+ "experiment_seed": 20261027,
+ "option_perm": [
+  "C",
+  "B",
+  "A"
+ ]
+}

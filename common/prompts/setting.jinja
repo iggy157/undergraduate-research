@@ -1,0 +1,11 @@
+## Setting
+{{ setting_sentence }} Participants: {{ roster }}. {{ private_sentence }}
+{% for r in role_sentences %}
+- {{ r }}
+{% endfor %}
+{% if domain != 'aiwolf' and info_mode == 'dynamic' %}
+Things that can be looked into (titles only):
+{% for t in card_titles %}
+- {{ t }}
+{% endfor %}
+{% endif %}

@@ -1,0 +1,208 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses the need for evidence-based selection. They focus on identifying gaps in previous project delivery, financial accuracy, and user satisfaction.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Suggests looking at user satisfaction and post-project reviews.",
+      "Victoria": "Proposes checking room usage and timetable impacts.",
+      "George": "Mentions the need to check staffing and maintenance burdens.",
+      "Mizuki": "Suggests reviewing delivery schedules and site diaries.",
+      "Benjamin": "Proposes examining tender records and equipment reserves."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Agrees with the need for objective data.",
+      "Victoria": "Emphasizes the importance of operational continuity.",
+      "George": "Notes that human resources are often overlooked.",
+      "Mizuki": "Points out that timing often slips in these projects.",
+      "Benjamin": "Questions if the budget figures reflect market reality."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Skip",
+      "Victoria": "Skip",
+      "George": "Skip",
+      "Mizuki": "Skip",
+      "Benjamin": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Victoria": "Over",
+      "George": "Over",
+      "Mizuki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They discuss cost inflation, staffing gaps, scheduling risks, and the disparity between specialist and general space demand.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Shares that bookable spaces are rated higher by users.",
+      "Victoria": "Reports that off-site hiring costs are a hidden burden.",
+      "George": "Notes that grounds staff are missing while technicians have capacity.",
+      "Mizuki": "Mentions that comfort-based projects often suffer delays.",
+      "Benjamin": "Points out that mechanical costs are rising faster than others."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Questions if the current proposals prioritize the right users.",
+      "Victoria": "Warns against projects that disrupt the timetable too heavily.",
+      "George": "Suggests a project that utilizes existing technician skills.",
+      "Mizuki": "Warns about hazardous materials causing delays in old blocks.",
+      "Benjamin": "Notes the lack of reserves for replacing old AV kit."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Skip",
+      "Victoria": "Skip",
+      "George": "Skip",
+      "Mizuki": "Skip",
+      "Benjamin": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Victoria": "Over",
+      "George": "Over",
+      "Mizuki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The committee evaluates the candidates against the discovered data. They weigh the benefits of general-use space and technician relief against the risks of cost overruns and scheduling delays.",
+   "votes": {
+    "Toshio": "B",
+    "Victoria": "B",
+    "George": "A",
+    "Mizuki": "B",
+    "Benjamin": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Argues for the option that maximizes bookable, general-use space.",
+      "Victoria": "Considers the impact of room closures on the timetable.",
+      "George": "Advocates for the option that reduces manual technician routines.",
+      "Mizuki": "Evaluates which option is least likely to suffer weather delays.",
+      "Benjamin": "Analyzes which option avoids the most volatile cost categories."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Points out the high demand for general-purpose rooms.",
+      "Victoria": "Agrees that a central hub minimizes fragmented disruptions.",
+      "George": "Admits the value of a high-demand student space.",
+      "Mizuki": "Notes that indoor conversions are safer for the schedule.",
+      "Benjamin": "Observes that a conversion is more budget-predictable than new plant."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Calls for a final consensus based on user data.",
+      "Victoria": "Supports the most versatile space option.",
+      "George": "Accepts the logic of the majority.",
+      "Mizuki": "Confirms the scheduling feasibility of the preferred option.",
+      "Benjamin": "Concludes that the conversion is the most rational choice."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Victoria": "Over",
+      "George": "Over",
+      "Mizuki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Benjamin": "Concerned with market cost accuracy and hidden expenses. He uses financial data to steer the group away from volatile budget items.",
+  "Mizuki": "Concerned with scheduling slips and unforeseen site conditions. She evaluates candidates based on their risk of delay.",
+  "Toshio": "Concerned with the actual utility and user satisfaction of finished projects. He pushes for options that serve the widest user base.",
+  "Victoria": "Concerned with the operational impact on timetables and room availability. She weighs the cost of temporary space replacements.",
+  "George": "Concerned with the burden on staff and the lack of personnel. He looks for projects that alleviate manual labor for technicians."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "candidate_selection_0003",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T22:23:00+00:00",
+  "attempts": 4,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793139780,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-938aa55be4431791",
+     "object": "model_permission",
+     "created": 1793139780,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

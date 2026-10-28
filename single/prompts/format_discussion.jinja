@@ -1,0 +1,26 @@
+## Output format
+Markdown, exactly this structure; nothing before or after it:
+
+# {{ setup_id }}
+## Round 1
+### Talk
+#### Turn 1 of {{ turns_per_round }}
+- **<Name>**: <utterance, or exactly {{ pass_skip }}, or exactly {{ pass_over }}>
+(one line per participant, in the fixed speaking order; repeat for Turn 2, 3 and 4; a participant who said {{ pass_over }} has no line in the later turns of that round)
+{% if info_mode == 'dynamic' %}
+### Action
+- investigate: <Name> -> <card title>; <card title>
+(one line per participant; titles exactly as listed)
+{% endif %}
+## Round 2
+### Talk
+(4 turns as above)
+## Round 3
+### Talk
+(4 turns as above)
+### Vote
+- <voter name> -> <{{ option_noun }} label>
+(one line per participant)
+- adopted: <label of the {{ option_noun }} with the most votes>
+## Result
+- adopted: <label>

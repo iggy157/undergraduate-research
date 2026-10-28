@@ -1,0 +1,207 @@
+condition                     n talks  words maxw skip over viol norm  dev ptok trunc
+multi-private                 9   487   33.0   43    2   28    7   28    0 582/582     0
+multi-private-process         9   481   33.2   43    2   38    6   34    1 570/570     0
+multi-public                  9   439   30.4   43   12   33   16   27    0 536/536     0
+single-batch                 18   520   14.7   28   82  210    4   90    0  18/18      0
+single-batch-process          9   311   16.4   28   35  104    7   50    0   9/9       0
+single-batch-stepped          9   262   13.6   28   39  104    1    3    0 483/483     0
+single-online                 9   408   24.4   41   18   28   11    1    0 532/532     0
+
+per game:
+  aiwolf_0001__multi-private__gemma-4-31b__20261028T063350     result=WEREWOLF  rounds=3 viol={}
+  aiwolf_0002__multi-private__gemma-4-31b__20261028T063836     result=WEREWOLF  rounds=3 viol={'speak_for_others': 1}
+  aiwolf_0003__multi-private__gemma-4-31b__20261028T064315     result=WEREWOLF  rounds=3 viol={'over_cap': 2}
+  candidate_selection_0001__multi-private__gemma-4-31b__202610 result=A         rounds=4 viol={}
+  candidate_selection_0002__multi-private__gemma-4-31b__202610 result=D         rounds=4 viol={}
+  candidate_selection_0003__multi-private__gemma-4-31b__202610 result=B         rounds=4 viol={}
+  shared_living_0001__multi-private__gemma-4-31b__20261028T070 result=C         rounds=4 viol={}
+  shared_living_0002__multi-private__gemma-4-31b__20261028T070 result=B         rounds=4 viol={'over_cap': 1, 'early_reveal_partial': 1}
+  shared_living_0003__multi-private__gemma-4-31b__20261028T071 result=C         rounds=4 viol={'early_reveal_partial': 2}
+  aiwolf_0001__multi-private-process__gemma-4-31b__20261028T08 result=VILLAGE   rounds=3 viol={'over_cap': 2, 'scenario_deviation': 1}
+  aiwolf_0002__multi-private-process__gemma-4-31b__20261028T08 result=VILLAGE   rounds=2 viol={}
+  aiwolf_0003__multi-private-process__gemma-4-31b__20261028T08 result=VILLAGE   rounds=2 viol={'over_cap': 3}
+  candidate_selection_0001__multi-private-process__gemma-4-31b result=A         rounds=4 viol={}
+  candidate_selection_0002__multi-private-process__gemma-4-31b result=D         rounds=4 viol={}
+  candidate_selection_0003__multi-private-process__gemma-4-31b result=B         rounds=4 viol={}
+  shared_living_0001__multi-private-process__gemma-4-31b__2026 result=C         rounds=4 viol={}
+  shared_living_0002__multi-private-process__gemma-4-31b__2026 result=A         rounds=4 viol={}
+  shared_living_0003__multi-private-process__gemma-4-31b__2026 result=C         rounds=4 viol={'early_reveal_partial': 1}
+  aiwolf_0001__multi-public__gemma-4-31b__20261028T055747      result=VILLAGE   rounds=2 viol={}
+  aiwolf_0002__multi-public__gemma-4-31b__20261028T060120      result=VILLAGE   rounds=2 viol={'over_cap': 2}
+  aiwolf_0003__multi-public__gemma-4-31b__20261028T060457      result=VILLAGE   rounds=2 viol={}
+  candidate_selection_0001__multi-public__gemma-4-31b__2026102 result=A         rounds=4 viol={}
+  candidate_selection_0002__multi-public__gemma-4-31b__2026102 result=D         rounds=4 viol={}
+  candidate_selection_0003__multi-public__gemma-4-31b__2026102 result=A         rounds=4 viol={}
+  shared_living_0001__multi-public__gemma-4-31b__20261028T0619 result=C         rounds=4 viol={'early_reveal_partial': 6}
+  shared_living_0002__multi-public__gemma-4-31b__20261028T0624 result=B         rounds=4 viol={'early_reveal_partial': 7}
+  shared_living_0003__multi-public__gemma-4-31b__20261028T0629 result=C         rounds=4 viol={'early_reveal_partial': 1}
+  aiwolf_0001__single-batch__gemma-4-31b__20261028T055745      result=VILLAGE   rounds=2 viol={}
+  aiwolf_0001__single-batch__gemma-4-31b__20261028T061612      result=VILLAGE   rounds=2 viol={}
+  aiwolf_0002__single-batch__gemma-4-31b__20261028T055932      result=VILLAGE   rounds=2 viol={}
+  aiwolf_0002__single-batch__gemma-4-31b__20261028T061756      result=VILLAGE   rounds=2 viol={}
+  aiwolf_0003__single-batch__gemma-4-31b__20261028T060122      result=VILLAGE   rounds=2 viol={}
+  aiwolf_0003__single-batch__gemma-4-31b__20261028T061953      result=VILLAGE   rounds=2 viol={}
+  candidate_selection_0001__single-batch__gemma-4-31b__2026102 result=A         rounds=4 viol={}
+  candidate_selection_0001__single-batch__gemma-4-31b__2026102 result=A         rounds=4 viol={}
+  candidate_selection_0002__single-batch__gemma-4-31b__2026102 result=D         rounds=4 viol={}
+  candidate_selection_0002__single-batch__gemma-4-31b__2026102 result=D         rounds=4 viol={}
+  candidate_selection_0003__single-batch__gemma-4-31b__2026102 result=B         rounds=4 viol={'early_reveal_partial': 1}
+  candidate_selection_0003__single-batch__gemma-4-31b__2026102 result=B         rounds=4 viol={'early_reveal_partial': 1}
+  shared_living_0001__single-batch__gemma-4-31b__20261028T0609 result=A         rounds=4 viol={'early_reveal_partial': 1}
+  shared_living_0001__single-batch__gemma-4-31b__20261028T0628 result=A         rounds=4 viol={'early_reveal_partial': 1}
+  shared_living_0002__single-batch__gemma-4-31b__20261028T0611 result=B         rounds=4 viol={}
+  shared_living_0002__single-batch__gemma-4-31b__20261028T0630 result=B         rounds=4 viol={}
+  shared_living_0003__single-batch__gemma-4-31b__20261028T0613 result=C         rounds=4 viol={}
+  shared_living_0003__single-batch__gemma-4-31b__20261028T0632 result=C         rounds=4 viol={}
+  aiwolf_0001__single-batch-process__gemma-4-31b__20261028T075 result=VILLAGE   rounds=2 viol={}
+  aiwolf_0002__single-batch-process__gemma-4-31b__20261028T075 result=VILLAGE   rounds=2 viol={}
+  aiwolf_0003__single-batch-process__gemma-4-31b__20261028T075 result=VILLAGE   rounds=2 viol={}
+  candidate_selection_0001__single-batch-process__gemma-4-31b_ result=C         rounds=4 viol={'early_reveal_partial': 1}
+  candidate_selection_0002__single-batch-process__gemma-4-31b_ result=D         rounds=4 viol={}
+  candidate_selection_0003__single-batch-process__gemma-4-31b_ result=B         rounds=4 viol={}
+  shared_living_0001__single-batch-process__gemma-4-31b__20261 result=C         rounds=4 viol={'early_reveal_partial': 3}
+  shared_living_0002__single-batch-process__gemma-4-31b__20261 result=B         rounds=4 viol={'early_reveal_partial': 2}
+  shared_living_0003__single-batch-process__gemma-4-31b__20261 result=C         rounds=4 viol={'early_reveal_partial': 1}
+  aiwolf_0001__single-batch-stepped__gemma-4-31b__20261028T055 result=VILLAGE   rounds=2 viol={}
+  aiwolf_0002__single-batch-stepped__gemma-4-31b__20261028T055 result=VILLAGE   rounds=2 viol={}
+  aiwolf_0003__single-batch-stepped__gemma-4-31b__20261028T060 result=VILLAGE   rounds=2 viol={}
+  candidate_selection_0001__single-batch-stepped__gemma-4-31b_ result=A         rounds=4 viol={}
+  candidate_selection_0002__single-batch-stepped__gemma-4-31b_ result=D         rounds=4 viol={}
+  candidate_selection_0003__single-batch-stepped__gemma-4-31b_ result=B         rounds=4 viol={}
+  shared_living_0001__single-batch-stepped__gemma-4-31b__20261 result=C         rounds=4 viol={}
+  shared_living_0002__single-batch-stepped__gemma-4-31b__20261 result=B         rounds=4 viol={'early_reveal_partial': 1}
+  shared_living_0003__single-batch-stepped__gemma-4-31b__20261 result=C         rounds=4 viol={}
+  aiwolf_0001__single-online__gemma-4-31b__20261028T061117     result=VILLAGE   rounds=2 viol={}
+  aiwolf_0002__single-online__gemma-4-31b__20261028T061409     result=VILLAGE   rounds=2 viol={}
+  aiwolf_0003__single-online__gemma-4-31b__20261028T061652     result=VILLAGE   rounds=2 viol={'over_cap': 1}
+  candidate_selection_0001__single-online__gemma-4-31b__202610 result=C         rounds=4 viol={}
+  candidate_selection_0002__single-online__gemma-4-31b__202610 result=D         rounds=4 viol={}
+  candidate_selection_0003__single-online__gemma-4-31b__202610 result=D         rounds=4 viol={}
+  shared_living_0001__single-online__gemma-4-31b__20261028T062 result=C         rounds=4 viol={'early_reveal_partial': 8}
+  shared_living_0002__single-online__gemma-4-31b__20261028T063 result=B         rounds=4 viol={'early_reveal_partial': 1, 'early_reveal': 1}
+  shared_living_0003__single-online__gemma-4-31b__20261028T063 result=C         rounds=4 viol={}
+
+prompt_token_ids == usage.prompt_tokens: 2730/2730
+  view check multi-private-process      aiwolf_0001                TALK users equal the log-derived view: 52/52
+  view check multi-private              aiwolf_0001                TALK users equal the log-derived view: 52/52
+  view check multi-private-process      aiwolf_0002                TALK users equal the log-derived view: 40/40
+  view check multi-private              aiwolf_0002                TALK users equal the log-derived view: 52/52
+  view check multi-private-process      aiwolf_0003                TALK users equal the log-derived view: 40/40
+  view check multi-private              aiwolf_0003                TALK users equal the log-derived view: 52/52
+  view check multi-public               aiwolf_0001                TALK users equal the log-derived view: 40/40
+  view check multi-public               aiwolf_0002                TALK users equal the log-derived view: 40/40
+  view check multi-public               aiwolf_0003                TALK users equal the log-derived view: 40/40
+  view check single-batch-stepped       aiwolf_0001                TALK users equal the log-derived view: 40/40
+  view check single-batch-stepped       aiwolf_0002                TALK users equal the log-derived view: 40/40
+  view check single-batch-stepped       aiwolf_0003                TALK users equal the log-derived view: 40/40
+  view check single-online              aiwolf_0001                TALK users equal the log-derived view: 40/40
+  view check single-online              aiwolf_0002                TALK users equal the log-derived view: 40/40
+  view check single-online              aiwolf_0003                TALK users equal the log-derived view: 40/40
+  view check multi-private-process      candidate_selection_0001   TALK users equal the log-derived view: 60/60
+  view check multi-private              candidate_selection_0001   TALK users equal the log-derived view: 55/55
+  view check multi-private-process      candidate_selection_0002   TALK users equal the log-derived view: 55/55
+  view check multi-private              candidate_selection_0002   TALK users equal the log-derived view: 50/50
+  view check multi-private-process      candidate_selection_0003   TALK users equal the log-derived view: 60/60
+  view check multi-private              candidate_selection_0003   TALK users equal the log-derived view: 50/50
+  view check multi-public               candidate_selection_0001   TALK users equal the log-derived view: 57/57
+  view check multi-public               candidate_selection_0002   TALK users equal the log-derived view: 45/45
+  view check multi-public               candidate_selection_0003   TALK users equal the log-derived view: 59/59
+  view check single-batch-stepped       candidate_selection_0001   TALK users equal the log-derived view: 50/50
+  view check single-batch-stepped       candidate_selection_0002   TALK users equal the log-derived view: 45/45
+  view check single-batch-stepped       candidate_selection_0003   TALK users equal the log-derived view: 50/50
+  view check single-online              candidate_selection_0001   TALK users equal the log-derived view: 50/50
+  view check single-online              candidate_selection_0002   TALK users equal the log-derived view: 54/54
+  view check single-online              candidate_selection_0003   TALK users equal the log-derived view: 55/55
+  view check multi-private-process      shared_living_0001         TALK users equal the log-derived view: 60/60
+  view check multi-private              shared_living_0001         TALK users equal the log-derived view: 60/60
+  view check multi-private-process      shared_living_0002         TALK users equal the log-derived view: 60/60
+  view check multi-private              shared_living_0002         TALK users equal the log-derived view: 60/60
+  view check multi-private-process      shared_living_0003         TALK users equal the log-derived view: 60/60
+  view check multi-private              shared_living_0003         TALK users equal the log-derived view: 60/60
+  view check multi-public               shared_living_0001         TALK users equal the log-derived view: 60/60
+  view check multi-public               shared_living_0002         TALK users equal the log-derived view: 60/60
+  view check multi-public               shared_living_0003         TALK users equal the log-derived view: 57/57
+  view check single-batch-stepped       shared_living_0001         TALK users equal the log-derived view: 50/50
+  view check single-batch-stepped       shared_living_0002         TALK users equal the log-derived view: 45/45
+  view check single-batch-stepped       shared_living_0003         TALK users equal the log-derived view: 45/45
+  view check single-online              shared_living_0001         TALK users equal the log-derived view: 60/60
+  view check single-online              shared_living_0002         TALK users equal the log-derived view: 60/60
+  view check single-online              shared_living_0003         TALK users equal the log-derived view: 55/55
+  batch vs stepped aiwolf_0001               : identical for 16 lines (stepped 64, batch 64)
+  batch vs stepped aiwolf_0002               : identical for 5 lines (stepped 64, batch 64)
+  batch vs stepped aiwolf_0003               : identical for 8 lines (stepped 64, batch 64)
+  batch vs stepped candidate_selection_0001  : identical for 21 lines (stepped 82, batch 85)
+  batch vs stepped candidate_selection_0002  : identical for 76 lines (stepped 76, batch 76)
+  batch vs stepped candidate_selection_0003  : identical for 7 lines (stepped 82, batch 82)
+  batch vs stepped shared_living_0001        : identical for 26 lines (stepped 82, batch 82)
+  batch vs stepped shared_living_0002        : identical for 15 lines (stepped 76, batch 94)
+  batch vs stepped shared_living_0003        : identical for 21 lines (stepped 76, batch 85)
+
+== single-batch replicates (noise floor under VLLM_BATCH_INVARIANT):
+  aiwolf_0001               : IDENTICAL (64 / 64 lines)
+  aiwolf_0002               : IDENTICAL (64 / 64 lines)
+  aiwolf_0003               : IDENTICAL (64 / 64 lines)
+  candidate_selection_0001  : IDENTICAL (85 / 85 lines)
+  candidate_selection_0002  : IDENTICAL (76 / 76 lines)
+  candidate_selection_0003  : IDENTICAL (82 / 82 lines)
+  shared_living_0001        : IDENTICAL (82 / 82 lines)
+  shared_living_0002        : IDENTICAL (94 / 94 lines)
+  shared_living_0003        : IDENTICAL (85 / 85 lines)
+
+== stepped divinations (valid / total):
+  aiwolf_0001: 1/1
+  aiwolf_0002: 1/1
+  aiwolf_0003: 1/1
+
+== adopted labels (discussion) and option_perm:
+  multi-private-process      candidate_selection_0001   adopted=A perm=['A', 'D', 'B', 'C']
+  multi-private              candidate_selection_0001   adopted=A perm=['A', 'D', 'B', 'C']
+  multi-private-process      candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  multi-private              candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  multi-private-process      candidate_selection_0003   adopted=B perm=['B', 'A', 'C', 'D']
+  multi-private              candidate_selection_0003   adopted=B perm=['B', 'A', 'C', 'D']
+  multi-public               candidate_selection_0001   adopted=A perm=['A', 'D', 'B', 'C']
+  multi-public               candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  multi-public               candidate_selection_0003   adopted=A perm=['B', 'A', 'C', 'D']
+  single-batch-stepped       candidate_selection_0001   adopted=A perm=['A', 'D', 'B', 'C']
+  single-batch-stepped       candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  single-batch-stepped       candidate_selection_0003   adopted=B perm=['B', 'A', 'C', 'D']
+  single-batch-process       candidate_selection_0001   adopted=C perm=['A', 'D', 'B', 'C']
+  single-batch               candidate_selection_0001   adopted=A perm=['A', 'D', 'B', 'C']
+  single-batch               candidate_selection_0001   adopted=A perm=['A', 'D', 'B', 'C']
+  single-batch-process       candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  single-batch               candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  single-batch               candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  single-batch-process       candidate_selection_0003   adopted=B perm=['B', 'A', 'C', 'D']
+  single-batch               candidate_selection_0003   adopted=B perm=['B', 'A', 'C', 'D']
+  single-batch               candidate_selection_0003   adopted=B perm=['B', 'A', 'C', 'D']
+  single-online              candidate_selection_0001   adopted=C perm=['A', 'D', 'B', 'C']
+  single-online              candidate_selection_0002   adopted=D perm=['C', 'B', 'D', 'A']
+  single-online              candidate_selection_0003   adopted=D perm=['B', 'A', 'C', 'D']
+  multi-private-process      shared_living_0001         adopted=C perm=['C', 'B', 'A']
+  multi-private              shared_living_0001         adopted=C perm=['C', 'B', 'A']
+  multi-private-process      shared_living_0002         adopted=A perm=['C', 'B', 'A']
+  multi-private              shared_living_0002         adopted=B perm=['C', 'B', 'A']
+  multi-private-process      shared_living_0003         adopted=C perm=['B', 'C', 'A']
+  multi-private              shared_living_0003         adopted=C perm=['B', 'C', 'A']
+  multi-public               shared_living_0001         adopted=C perm=['C', 'B', 'A']
+  multi-public               shared_living_0002         adopted=B perm=['C', 'B', 'A']
+  multi-public               shared_living_0003         adopted=C perm=['B', 'C', 'A']
+  single-batch-stepped       shared_living_0001         adopted=C perm=['C', 'B', 'A']
+  single-batch-stepped       shared_living_0002         adopted=B perm=['C', 'B', 'A']
+  single-batch-stepped       shared_living_0003         adopted=C perm=['B', 'C', 'A']
+  single-batch-process       shared_living_0001         adopted=C perm=['C', 'B', 'A']
+  single-batch               shared_living_0001         adopted=A perm=['C', 'B', 'A']
+  single-batch               shared_living_0001         adopted=A perm=['C', 'B', 'A']
+  single-batch-process       shared_living_0002         adopted=B perm=['C', 'B', 'A']
+  single-batch               shared_living_0002         adopted=B perm=['C', 'B', 'A']
+  single-batch               shared_living_0002         adopted=B perm=['C', 'B', 'A']
+  single-batch-process       shared_living_0003         adopted=C perm=['B', 'C', 'A']
+  single-batch               shared_living_0003         adopted=C perm=['B', 'C', 'A']
+  single-batch               shared_living_0003         adopted=C perm=['B', 'C', 'A']
+  single-online              shared_living_0001         adopted=C perm=['C', 'B', 'A']
+  single-online              shared_living_0002         adopted=B perm=['C', 'B', 'A']
+  single-online              shared_living_0003         adopted=C perm=['B', 'C', 'A']
+
+== header inference fields:
+   {'vllm_version': '0.21.1rc1.dev125+g73dd2f33b', 'hf_revision': None, 'chat_template_sha1': None, 'config_sha1': None}

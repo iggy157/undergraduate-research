@@ -1,0 +1,168 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The participants introduce their general approach to the game. They discuss the importance of observation and the roles of the Seer and Werewolf.",
+   "divine": "Mizuki",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I hope we can find the truth through calm observation.",
+      "Mizuki": "Logic and evidence will be the keys to winning this.",
+      "Rin": "I'm going to find the werewolf! This is so exciting!",
+      "Misaki": "I will listen carefully to everyone's words.",
+      "Benjamin": "A little bit of wit and a lot of patience should suffice."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Does anyone have a specific strategy for the first day?",
+      "Mizuki": "We should look for contradictions in how people speak.",
+      "Rin": "Maybe the werewolf is acting too quiet!",
+      "Misaki": "That is a possibility, but we have no data yet.",
+      "Benjamin": "Indeed, jumping to conclusions is a dangerous game."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Skip",
+      "Mizuki": "Skip",
+      "Rin": "I wonder who the Seer is!",
+      "Misaki": "Skip",
+      "Benjamin": "The mystery is the best part, isn't it?"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Mizuki": "Over",
+      "Rin": "Over",
+      "Misaki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The Seer shares a result. The group weighs the reliability of the claim against the possibility of a bluff. They analyze the reactions of the accused.",
+   "votes": {
+    "Jonathan": "Mizuki",
+    "Mizuki": "Jonathan",
+    "Rin": "Mizuki",
+    "Misaki": "Mizuki",
+    "Benjamin": "Jonathan"
+   },
+   "executed": "Mizuki",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I have found the werewolf through my divination.",
+      "Mizuki": "That is a bold lie to protect yourself.",
+      "Rin": "Wait, really? Who is it?",
+      "Misaki": "This is a sudden development.",
+      "Benjamin": "A very direct approach. How intriguing."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Mizuki is the werewolf.",
+      "Mizuki": "I am a villager; the Seer is lying to frame me.",
+      "Rin": "I believe the Seer! Let's catch them!",
+      "Misaki": "The logic of the claim is straightforward.",
+      "Benjamin": "But could the werewolf be pretending to be the Seer?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "I am telling the truth for the village.",
+      "Mizuki": "If you execute me, you lose a valuable human.",
+      "Rin": "You're just saying that because you're the wolf!",
+      "Misaki": "The evidence provided by the role is strong.",
+      "Benjamin": "It is a gamble, but a calculated one."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Mizuki": "Over",
+      "Rin": "Over",
+      "Misaki": "Over",
+      "Benjamin": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Benjamin": "He focuses on sowing doubt and protecting the werewolf's interests. He uses sarcasm and logic to deflect suspicion.",
+  "Rin": "She relies on intuition and excitement. She tends to follow the most assertive claims.",
+  "Jonathan": "He uses his role to provide direct information. He remains calm and focused on the goal of elimination.",
+  "Misaki": "She analyzes the consistency of statements. She weighs the provided information against the behavior of others.",
+  "Mizuki": "She uses confidence and logical counter-arguments to defend herself. She attempts to flip the suspicion onto the accuser."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0003",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T21:59:54+00:00",
+  "attempts": 5,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793138394,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-ab172ce8bfae49e0",
+     "object": "model_permission",
+     "created": 1793138394,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

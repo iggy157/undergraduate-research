@@ -1,0 +1,87 @@
+0,status,1,VILLAGER,ALIVE,yharada4,Midori
+0,status,2,SEER,ALIVE,yharada2,Toshio
+0,status,3,POSSESSED,ALIVE,yharada1,Mio
+0,status,4,VILLAGER,ALIVE,yharada5,Mizuki
+0,status,5,WEREWOLF,ALIVE,yharada3,Misaki
+0,talk,0,0,4,I'm Mizuki. Let's organize what we know first.
+0,talk,1,0,3,Hi hi! I'm Mio!  @Mizuki , you're so organized!
+0,talk,2,0,1,Hello, I'm Midori. Let's all be kind to each other.
+0,talk,3,0,5,Misaki. Hi.
+0,talk,4,0,2,Toshio.
+0,talk,5,1,4,Thank you, Mio. Now, shall we establish a plan?
+0,talk,6,1,3,Ooh, a plan! I'm totally in! What's the move,  @Mizuki ?
+0,talk,7,1,1,Now then,  @Mizuki , I'm curious to hear your plan.
+0,talk,8,1,5,Hm. I'll listen.
+0,talk,9,1,2,Hn. Plan. Go on.
+0,talk,10,2,4,Let's prioritize the Seer's findings tomorrow.
+0,talk,11,2,3,Right right! That makes total sense! Super smart!
+0,talk,12,2,1,Yes, I think that's quite a sensible start, dear.
+0,talk,13,2,5,Yeah. Agreed.
+0,talk,14,2,2,Yeah. That works.
+0,talk,15,3,4,Since we agree, I have nothing further. Over.
+0,talk,16,3,3,Yay! Can't wait for tomorrow! Good luck everyone!
+0,talk,17,3,1,Sleep well, everyone. Bless. Over.
+0,talk,18,3,5,Over
+0,talk,19,3,2,Over
+0,divine,2,4,HUMAN
+1,status,1,VILLAGER,ALIVE,yharada4,Midori
+1,status,2,SEER,ALIVE,yharada2,Toshio
+1,status,3,POSSESSED,ALIVE,yharada1,Mio
+1,status,4,VILLAGER,ALIVE,yharada5,Mizuki
+1,status,5,WEREWOLF,ALIVE,yharada3,Misaki
+1,talk,0,0,2,Seer. Result. Now.
+1,talk,1,0,4,Toshio is blunt, but the premise is correct. Seer?
+1,talk,2,0,5,Seer. Please share first.
+1,talk,3,0,1,Seer, dear, would you share what you saw?
+1,talk,4,0,3,Seer, Seer, what'd you see?! Tell us, tell us!
+1,talk,5,1,2,I am the Seer.  @Mizuki  is human.
+1,talk,6,1,4,I appreciate the confirmation, Toshio. Anyone else?
+1,talk,7,1,5,Okay. I'll trust it for now.
+1,talk,8,1,1,Thank you for helping us, Toshio. That's lovely.
+1,talk,9,1,3,Whoa,  @Mizuki  is safe! That's such a relief, right?!
+1,talk,10,2,2,Hn. Still watching.
+1,talk,11,2,4,No clear suspect yet. I'll abstain or follow Toshio.
+1,talk,12,2,5,Hm. No one stands out yet.
+1,talk,13,2,1,I agree. I'll abstain today, as it feels too soon.
+1,talk,14,2,3,I'll abstain too! No one's acting sus yet, right?
+1,talk,15,3,2,Abstain. Over.
+1,talk,16,3,4,Consistent with the group, I abstain. Over.
+1,talk,17,3,5,I abstain. Over.
+1,talk,18,3,1,I'll abstain, dear. Let's stay safe. Over.
+1,talk,19,3,3,I'm abstaining too! I vote for @none! Over.
+1,divine,2,5,WEREWOLF
+1,attackVote,5,2
+1,attack,2,true
+2,status,1,VILLAGER,ALIVE,yharada4,Midori
+2,status,2,SEER,DEAD,yharada2,Toshio
+2,status,3,POSSESSED,ALIVE,yharada1,Mio
+2,status,4,VILLAGER,ALIVE,yharada5,Mizuki
+2,status,5,WEREWOLF,ALIVE,yharada3,Misaki
+2,talk,0,0,5,Toshio is gone. Hm.
+2,talk,1,0,1,Oh dear, poor Toshio. This is quite upsetting.
+2,talk,2,0,4,Toshio was our only lead. This is a setback.
+2,talk,3,0,3,What?! No way! Toshio's gone?! This is so scary!
+2,talk,4,1,5,Yeah. It is.
+2,talk,5,1,1,Now, now,  @Mio , sweetheart, please don't cry.
+2,talk,6,1,4,Let's be clear: the Werewolf targeted the Seer.
+2,talk,7,1,3,Thanks  @Midori ! But @Mizuki's right, that's so mean!
+2,talk,8,2,5,So. Who's the suspect.
+2,talk,9,2,1,Hmm, I wonder if anyone is acting out of place?
+2,talk,10,2,4,The evidence is thin. I'm leaning toward  @Mio .
+2,talk,11,2,3,What?! No way! Why me?!  @Mizuki , I'm legit human!
+2,talk,12,3,5,I vote for  @Mio . Over.
+2,talk,13,3,1,Oh dear, it's hard, but I'll vote  @Mio , sweetheart.
+2,talk,14,3,4,The consensus is clear. I vote for  @Mio . Over.
+2,talk,15,3,3,Nooo! This is totally unfair! I vote for @none! Over.
+2,vote,1,3
+2,vote,4,3
+2,vote,5,3
+2,execute,3,POSSESSED
+2,attackVote,5,4
+2,attack,4,true
+3,status,1,VILLAGER,ALIVE,yharada4,Midori
+3,status,2,SEER,DEAD,yharada2,Toshio
+3,status,3,POSSESSED,DEAD,yharada1,Mio
+3,status,4,VILLAGER,DEAD,yharada5,Mizuki
+3,status,5,WEREWOLF,ALIVE,yharada3,Misaki
+3,result,1,1,WEREWOLF

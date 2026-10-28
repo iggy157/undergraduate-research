@@ -1,0 +1,58 @@
+# 監査 D (第 2 ラウンド): パイロット 6 の結果と hidden states — 2026-10-28
+
+対象: log/_pilot6 (72 局)、pilot6_inspect.txt、pilot6_hidden.txt、scratchpad hidden6/out (aiwolf_0001 / cs_0001 × 8 局の npz)、DESIGN.md 末尾、run_pilot6.sh / start_vllm_pair.sh、vllm-server/logs/ugr_gemma4_31b_20261028_0555_gpu{6,7}.log、log/_pilot5 (比較用)。
+自分で再計算したもの (scratchpad d2/: diverge6.py, struct6.py, cos6.py, acct6.py、読み取りのみ): batch 反復の token id / logprob の一致、batch vs stepped の token 単位の分岐と同一 token 上の |Δlogprob| 分布、構造分岐 4 件の行、hidden states の cos と**基準線** (別の行・別の setup・平均除去)、条件別の Skip/Over/埋め草ターン/所要時間、先出し違反の発話本文、pilot5 と pilot6 の同一プロンプトの出力比較。A/B/C/E の第 2 ラウンド報告は読んだ (B#5 の数値は独立に再現した)。
+
+## 結論 (3 行)
+
+1. 第 1 ラウンド Major 3 は**実ログで解消**: single-batch 反復は 9/9 で token id・logprob・prompt id まで完全一致 (max|Δlp| = 0)、batch vs stepped の分岐 8 件は近接確率 4 件 (Δlp 0.038 / 0.000 / 0.060 / 0.057、同一 token 上の |Δlp| 床 p99 = 0.061 の内側) と サーバの構造矯正 4 件 (`Skip.`、`## Round 2` 前の空行 ×2、全員 Over 後の埋め草ターン) に過不足なく分かれ、cs_0002 は 711 token 全一致。ただし **batch (:8000, GPU6) と stepped (:8010, GPU7) は別サーバで走った**ので、DESIGN の「prefill と decode の数値経路差」は別 GPU の差と分離できず、しかも prefix caching が ON (接頭辞は再計算されない)。機構の名指しは弱め、同一サーバの一致確認 (E#3) を本実験前に行う。
+2. Major 4 は gen_point で**位置の定義としては解消**したが、raw cos は条件比較に使えない: batch vs online の gen_point cos (最終層 0.19–0.42、中間層 0.96) は**別の行・別の setup を当てても同じ値** (0.19 / 0.96) で、平均方向を除くと中間層 0.10–0.14。最終層 (L60) は post-norm と確認。論文では条件間の生 cos を出さず、「位置の対応」と「条件内の復号可能性 + 同一履歴の再生」だけを書く。
+3. 本実験には**進んでよい**。進む前の (a) は小さく 3 つ (同一 setup は同一サーバ + サーバ跨ぎ一致 3 setup、header にサーバ構成 (batch-invariant / prefix caching / GPU / endpoint)、top-2 logprob) と B の stepped 夜 ≥ 1 の修正。反復は「決定性検査」として single-batch 全 N + server 条件 3 setup/ドメインに縮小する。
+
+## 発見した問題 (深刻度順; (a) 修正必須 / (b) 報告で扱う / (c) 採らない)
+
+| # | 深刻度 | 分類 | 項目 | 証拠 (確認済み) | 影響 | 修正案 |
+|---|---|---|---|---|---|---|
+| 1 | Major | (a) | **batch と stepped が別サーバ・別 GPU** で、「数値経路差」の帰属が未検証 | run_pilot6.sh: chain A (single-batch ×2, -process) は :8000 = GPU6、chain B (stepped, online) は `--model default_b` = :8010 = GPU7。両サーバは同一構成 (RTX PRO 6000 Blackwell、vLLM 0.21.1rc1.dev125+g73dd2f33b、snapshot 842da37、bf16、batch_invariant カーネル登録、`enable_prefix_caching=True`、`enable_chunked_prefill=True`、`max_num_batched_tokens=8192`; サーバログ)。同一 token 上の \|Δlp\| (2040 token): median 2e-7、p90 0.010、p99 0.061、max 0.178、完全一致 878/2040。call 先頭 token (prefill 直後、n=135) は p90 0.020 vs 後続 0.009 で差は小さい | 「prefill vs decode」(DESIGN 末尾) は別プロセス・別 GPU の差と区別できない。prefix caching が ON なので「stepped は接頭辞を再計算」も不正確 (16 token ブロック単位で再利用)。本実験で条件をサーバに固定すると条件と交絡 (E#3 と同じ) | 本実験は**同一 setup の全条件を同一サーバ**で回す。3 setup の single-batch を両サーバで回し token id / logprob の一致を確認 (6 分)。DESIGN の文を「同じ列の KV が decode / prefill (+ prefix cache) で別経路で計算され、pilot では別 GPU でもあった」に直す |
+| 2 | Major | (b) | **greedy の再現性はサーバ構成に条件付き**: pilot5 (非不変モード・並走) と pilot6 (不変モード) の single-batch は aiwolf で system / user / prompt id が完全に同じなのに、出力 token 171 / 320 / 102 (行 11 / 19 / 9) で分岐。同一接頭辞上の \|Δlp\| max 0.13–0.14、完全一致 35% | 本報告 (pilot5 vs pilot6 比較)。aiwolf_0003 では pilot5 batch の分岐先 (`A delightful challenge. I look forward to seeing how we all reason`) が pilot6 **stepped** と同文、分岐 token は pilot6 で batch / stepped の logprob が完全同値 (−0.7746) | 「greedy = 決定的」は固定構成の中でだけ成り立ち、構成が変わると同じ脆い位置で反転する。aiwolf multi-private の結末が pilot5 1/3 → pilot6 3/3 WEREWOLF に変わったのも (プロンプト不変) この範疇で、N=3 の結末は構成に依存する | 論文 §4.3 / §8: 「再現性は batch-invariant カーネル・同一サーバ・同一版の条件付き。構成を変えると近接確率の位置で別の台本になる」と書き、header にサーバ構成を残す (#3) |
+| 3 | Minor | (a) | header に **サーバ構成が無い**: `VLLM_BATCH_INVARIANT`、prefix caching、chunked prefill、GPU 名、endpoint。pilot6 の header は vllm_version のみ (hf_revision 等は None; コードは修正済み: B) | header キー一覧、start_vllm_pair.sh (環境変数で起動)、サーバログにしか構成が無い | #1 #2 の条件付き主張を第三者が検証できない | header に `server_config` (環境変数と `/v1/models` 以外の起動引数、GPU 名は `nvidia-smi -L` か vLLM ログの該当行) を記録。最低限 start.sh が受けた env をサイドカー JSON に落として sha1 を header に |
+| 4 | Minor | (a) | **top-2 logprob 未記録** (B#5, E#5 と同じ) | 近接 4 件の Δ は「batch と stepped が各自選んだ token の logprob 差」で、同一分布内の 1–2 位差ではない | 「反転」が直接示せない。後から足せない | `top_logprobs=2` (chat) / `logprobs=2` (completions)。1 行 |
+| 5 | Major | (b) | **hidden states の条件間 raw cos は無情報**: batch vs online の gen_point cos = 別の行 (i≠j) や別 setup (aiwolf vs cs) の cos と一致 (最終層 0.19 / 0.19 / 0.16、中間層 L32 0.957 / 0.956 / 0.959)。平均除去後 (条件内の gen_point 平均を引く) は batch vs online 最終層 0.29–0.38、中間層 0.10–0.14 | cos6.py。request 系の内側 (同じ token 役割) では行の情報が残る: online vs public 最終層 0.78–0.99、public vs private 0.89–0.995、基準線 (online の別の行) 0.85–0.88、平均除去後 0.55–0.83 | pilot6_hidden.txt の「中間層 0.96」も類似の根拠にならない (異方性の平均方向)。batch vs stepped の 1.000 は同一 token 列の teacher forcing なので配管の検査であって「分割は効かない」の証拠ではない | 論文は条件間の生 cos を**出さない**。§5 は (i) gen_point の定義 (batch/stepped `**:` → 先頭 token は空白付き ` Let`; request 系 `<channel|>` → 空白なし `Let`: 予測対象のトークン化も違う)、(ii) 条件内の復号可能性、(iii) 同一履歴の再生、だけ。類似度を出すなら平均除去 + 無対応行の基準線を併記 |
+| 6 | Minor | (b) | 最終層 (index 60) は **post-norm**、他は残差流 | transformers 5.8.1 `capture_outputs(tie_last_hidden_states=True)` が `hidden_states[-1]` を `last_hidden_state` (= `self.norm` 後、modeling_gemma4.py L1702) に置換。層プロファイル batch vs online: L0 0.06、L4 0.50、L8–L52 0.89–0.98、L56 0.85、L60 0.27 | 第 1 ラウンドの「最終層だけ落ちる」は norm の有無も混ざる | プローブは L56 以前 (pre-norm) を主に、L60 を使うなら post-norm と明記。DESIGN §14 に 1 行 |
+| 7 | Minor | (b) | 先出し検出 (partial) の偽陽性と偽陽性の床 | multi-private の 3 件は全部一般語 (`the smell and the location`、`address` ×2)、batch の `Ventilation` はカード本文 (`manual ventilation checks`)、stepped の `Location` (`moving the location`) も一般語。真の先出しは `Lodge` (Coastal Lodge; R2 で選択肢提示 R3 より前): online 8、multi-public 6、batch-process 3、batch 1、online の完全一致 `Rotating Location` 1 | 向きは pilot5 と同じ (online ≥ public > batch)。「一括生成に固有」の撤回は維持。multi-private の 0.33 件/局が偽陽性の床 | 本実験は `early_reveal` (完全一致) を主、partial は多 setup 語彙 (location / structure / address / function / hours) を除外して人手検証。multi-private の率を床として併記 |
+| 8 | Minor | (b) | 結末ラベルの条件間分散が小さい | 採択 (表示ラベル) は setup 内で条件が収束: cs_0002 D 7/7、sl_0003 C 7/7、cs_0001 A 5/7、sl_0001 C 5/7 (batch のみ A)、sl_0002 B 6/7。aiwolf は全知条件 VILLAGE 15/15、multi-private WEREWOLF 3/3 | E#1 (内容の優位) と同根。プローブの「最終投票先」は条件間で動かない | プローブのラベルは発話単位 (語数・Skip/Over・呼びかけ先・立場) を主に (第 1 ラウンド #10 のまま) |
+
+## 依頼された確認点への回答
+
+**1. Major 3 (非決定性の床、同時投入)。** 独立に再計算した結果は依頼文の分類と一致する。反復: 9/9 setup で token id・logprob・prompt id が完全一致 (max|Δlp| 0)。batch vs stepped (分岐前の call 数 / 一致 token 数): aiwolf_0002 call 1 tok 14 ` Maybe` −1.114 vs ` I` −1.152 (1 call / 44 token)、aiwolf_0003 call 4 tok 3 ` for` −0.7746 vs `.` −0.7746 (4 / 61)、cs_0003 call 3 tok 5 ` decade` −0.636 vs ` weather` −0.696 (3 / 84)、sl_0001 call 17 tok 14 ` takes` −0.801 vs ` on` −0.858 (17 / 298)。構造: aiwolf_0001 は call 11 (r0t3) の接頭辞で batch `Skip` + `.` vs サーバ `Skip` + `\n` (11 call / 210 token 一致、batch の pass_punct 10 件)、cs_0001 / sl_0003 は Round 2 直前の空行 (batch `\n\n## Round 2` vs `\n## Round 2`; 15 call / 228・221 token)、sl_0002 は全員 Over 後に batch が `#### Turn 3 of 4` + Skip ×10 (pass_after_over で落ちる) を書き、サーバは `### Action` へ (10 call / 183 token)。cs_0002 は 55 call 711 token 全一致。
+留保 2 つ (#1, #2): 別 GPU の交絡と prefix caching、構成依存。**論文での報告の形**: 「greedy + batch-invariant カーネル + 同一サーバでは single-batch は bit 単位で再現する (反復 N/N)。stepped は batch の台本を 5–26 行 (1/9 は全文) 再現し、分岐は (i) 記録 logprob の差 ≤ 0.06 nats の 2 token 間の反転 — これは同一接頭辞上で両パイプラインの logprob が示す差の床 (p99 0.06、max 0.18、2,040 token) の内側 — か、(ii) サーバの構造編集 (Skip. の正規化、ラウンド見出し前の空行、全員 Over での期間終了) に限られる。床は雑音ではなく決定的な数値経路差 (KV の計算経路、pilot では GPU も別) で、構成を変えると同じ脆い位置で反転する (pilot5 vs pilot6)」。分岐表 (setup、行、token、Δlp、種別) は付録。本実験では top-2 で実際の 1–2 位差を出す。
+
+**2. Major 4 (札位置)。** 位置の定義は解消: gen_point は両系とも「その行の先頭 token を予測する位置」(index の `gen_point`、batch/stepped は `**:`、request 系は `<channel|>`; prompt 末尾 11 token を復号して確認)。しかし予測対象は batch ` Let` (空白付き) vs request `Let` (空白なし) で、位置の token も違う。cos の解釈 (#5): 0.2–0.4 / 0.96 は**行の対応に依らない定数**なので「条件の効果」でも「中間層は似ている」でもない。書き方: 「request 系と writer 系は生成点の token 役割が違うため表現の直接比較はしない。比較は条件内 (同じ token 役割) の復号可能性と、同一履歴の再生で行う」。request 系の内側 (online / public / private) の比較は可能だが、無対応行の基準線 (0.85–0.88) と平均除去後の値を必ず併記する。
+
+**3. 条件別集計の変化 (pilot5 → pilot6)。** 語数/発話: batch 13.2→14.7、stepped 12.6→13.6、online 24.6→24.4、public 31.8→30.4、private 32.5→33.0 (順位不変: writer 系 14 < online 24 < multi 31–33)。Skip/局: batch 1.1→4.6、stepped 4.4→4.3、online 1.6→2.0、public 1.8→1.3、private 0.2→0.2。Over/局: batch 11.8→11.7、stepped 11.2→11.6、online 2.2→3.1、public 4.8→3.7、private 2.2→3.1。全員 pass のターン/局 (pilot6): batch 3.1、stepped 3.0、online 0.9、public 0.1、private 0.0。process の先出し 27→1。先出し: multi-public 14 (sl_0001 `Lodge` ×6 R2T3–4、sl_0002 `Location` ×5 / `Structure` ×2、sl_0003 `Address` 1)、single-online 10 (sl_0001 `Lodge` ×8 R2T2–4、sl_0002 `Structure` 1 + 完全一致 1)。**public 条件の漏洩として期待どおり** (system の `## Hidden information` に選択肢がある) で、shared_living に集中するのは選択肢名が普通名詞 (lodge / location / structure) で所見から自然に出るため。ただし #7 のとおり partial には偽陽性が混ざる。option_perm: 採択の表示ラベルは A/B/C/D に分散し、setup 内の条件間一致は高い (#8) ので、位置の偏りは消え内容の優位が残る (E#1 と一致)。
+
+**4. 反復の設計。** 反復は分散推定にならない (T=0 + 不変モードで同一) ので「決定性検査」に限定する。(i) single-batch は**全 N を 2 回** (90 局 × 123 s ≈ 3 h / サーバ; 2 回目は本実験の最後に回して期間中のサーバ安定性も兼ねる)、(ii) single-batch-stepped と multi-private を各ドメイン 3 setup × 2 回 (9 局 × 87 s、9 局 × 276 s) で server 経路 (5 席逐次、他局と並走) の決定性を示す、(iii) 3 setup の single-batch を両サーバで (#1)。報告: パイプライン別の「完全一致率 (token id + logprob)」、不一致があれば最初の分岐行と Δlp。検定単位は setup のまま、反復は統計に入れない。温度付き反復は §4.1 の頑健性走行で別 (c)。
+
+**5. Major 6 (Skip/Over の会計)。** (b) に異論なし、根拠を足す: 変換後は両系とも「席 (期間) の Over より前の Skip」だけを数える (batch は pass_after_over 28 件を落とす; サーバは Over 後に問い合わせない) ので会計は対称。pilot6 で batch 4.6 ≈ stepped 4.3 Skip/局、埋め草ターン 3.1 ≈ 3.0 となり、pilot5 の非対称 (1.1 vs 4.4) は書き手の習慣 (Over 後に Skip を書くか前に書くか) だった。論文の定義: Over = 席×期間の 0/1、Skip = Over 前のターンの件数、「埋め草ターン」(全席 pass) を別指標、multi の `… Over.` は talk 1 + Over 1 (trailing_over 26/26/34/10) と明記。残る**条件効果** (会計差ではない): writer 系は期間を全員 Over で明示的に閉じる (Over 11.7/局) が、server 系の参加者はターン上限まで話す (3.1–4.2) — これは報告する差。
+
+**6. 本実験に進んでよいか。** 進んでよい。進む前の (a): #1 (同一 setup 同一サーバ + 跨ぎ一致 3 setup)、#3 (header のサーバ構成)、#4 (top-2 logprob)、B#1/#2 (占いの raw、stepped 夜 ≥ 1 の接頭辞; N=30 では Day 2 に進む stepped 局が出る)。いずれも半日以内。E の git 導入・筋書き凍結は別報告の (a) として同意。(b) は #2 #5 #6 #7 #8。(c): 追加条件、top-k > 2、温度付き反復。
+
+## 第 1 ラウンド指摘の追跡
+
+| 第 1 R # | 状態 | 根拠 |
+|---|---|---|
+| 1 process 漏洩 | 解消 (A/C) | 先出し 27→1、結末追従なし |
+| 2 stepped 占い無効 | 解消 | 3/3 有効 (pilot6_inspect) |
+| 3 非決定性・同時投入 | 解消、留保 2 (#1 #2) | 反復 9/9 bit 一致; 分岐の分類一致; 別 GPU と構成依存 |
+| 4 札位置 | 位置は解消、解釈は (b) #5 #6 | gen_point; 基準線と平均除去; post-norm |
+| 5 先出しの逆転 | 向き同じ、検出は (b) #7 | online 10 / public 14 / batch 2 |
+| 6 Skip/Over 会計 | (b) 維持、対称と確認 | 上記 5 |
+| 7 header 環境 | 一部 (a) #3 | vllm_version のみ; サーバ構成なし |
+| 8 筋書き sha1 | 解消 (A) | 18/18 一致 |
+| 9 検証器の事後変更 | E#2 (a) | sl_0003 は現行 validator で不合格 |
+| 10 結末の分散なし | (b) #8 | aiwolf 15/15 VILLAGE (全知)、議論は setup 内で収束 |
+
+## 確認した範囲と確認していない範囲
+
+確認済み (実ログ・実コードで機械的に): single-batch 反復 9 対の token id / logprob / prompt id; stepped 全 call の接頭辞 = batch の列 (分岐前) と最初の分岐 token・logprob; 同一 token 上の |Δlp| 2040 件の分布 (call 先頭 / 後続、接頭辞長別); 構造分岐 4 件の行と batch の normalized 記録; pilot5 vs pilot6 の aiwolf 3 setup (prompt 同一、分岐位置、|Δlp|); run_pilot6.sh のサーバ割当; 両サーバのログ (版、snapshot、dtype、batch_invariant、prefix caching、chunked prefill、GPU 名); hidden6/out の 16 局 (gen_point の数と kind、batch vs batch2 / stepped / online / public / private の cos、無対応行・別 setup・平均除去の基準線、層プロファイル); transformers 5.8.1 の hidden_states[-1] の post-norm 置換; 条件別 Skip / Over / 埋め草ターン / normalized / 所要時間; 先出し違反 40 件の発話本文と round/turn; 採択ラベルの setup 内一致。
+未確認 (推測を含む): #1 の「別 GPU の差」は懸念であり、同一サーバで batch と stepped を回した対はない (pilot6 に存在しない); prefix caching が batch-invariant モードで実際に有効だったかは起動時の config 行による (実行時の hit は未確認); #2 の「同じ脆い位置で反転」は aiwolf_0003 の 1 例; 平均除去の基準は 10 行の条件内平均で、本実験の規模では再計算が要る; server 条件 (online / multi) の決定性は未測定; 評価者がこの台本で 6 軸を付けられるかは本報告の範囲外。

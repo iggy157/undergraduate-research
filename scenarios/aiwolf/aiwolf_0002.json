@@ -1,0 +1,168 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The players introduce themselves and discuss general strategies for identifying the werewolf. They weigh the importance of observing behavioral changes and the timing of claims.",
+   "divine": "Kenji",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Let's start by observing everyone's reactions.",
+      "Sakura": "This is so exciting! I'll find the wolf!",
+      "Toshio": "I will keep a close eye on the logic of the arguments.",
+      "Jonathan": "I prefer to listen and read the room first.",
+      "Kenji": "I'm ready! Let's make this a fun game!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "We should be careful about who claims the Seer role too early.",
+      "Sakura": "Maybe the wolf will try to act too friendly!",
+      "Toshio": "Consistency in speech is the key to finding the liar.",
+      "Jonathan": "Quiet observation is often more revealing than questioning.",
+      "Kenji": "I agree, let's see who gets nervous first."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Does anyone have a specific strategy they want to propose?",
+      "Sakura": "I'll just follow my intuition!",
+      "Toshio": "I'll be analyzing the voting patterns tomorrow.",
+      "Jonathan": "I will simply try to stay out of the spotlight.",
+      "Kenji": "I'll try to help the village as much as I can!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "Over",
+      "Sakura": "Over",
+      "Toshio": "Over",
+      "Jonathan": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The Seer reveals a result, leading to a debate about the validity of the claim. The group discusses whether the claim is a bluff by the werewolf or the truth.",
+   "votes": {
+    "Mizuki": "Kenji",
+    "Sakura": "Jonathan",
+    "Toshio": "Kenji",
+    "Jonathan": "Kenji",
+    "Kenji": "Toshio"
+   },
+   "executed": "Kenji",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Now that we have a first day, let's see if anyone has info.",
+      "Sakura": "I wonder if anyone saw something spooky last night!",
+      "Toshio": "I am the Seer, and I found the werewolf.",
+      "Jonathan": "That was a very direct revelation.",
+      "Kenji": "What?! That's a lie! I'm just a villager!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Toshio, are you certain about your result?",
+      "Sakura": "Maybe Toshio is the wolf trying to trick us!",
+      "Toshio": "I am certain. Kenji is the werewolf.",
+      "Jonathan": "The confidence in the claim is quite high.",
+      "Kenji": "He's lying to get me out! Please believe me!"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Kenji's reaction seems a bit too panicked.",
+      "Sakura": "But we can't just trust one person's word!",
+      "Toshio": "The logic holds; the werewolf must counter-claim.",
+      "Jonathan": "I find the Seer's claim more plausible than the denial.",
+      "Kenji": "I'm not panicking, I'm just shocked!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "I'm leaning towards the Seer's information.",
+      "Sakura": "I'll vote for someone else just to be safe.",
+      "Toshio": "We must act now to secure the village.",
+      "Jonathan": "I agree with the majority's direction.",
+      "Kenji": "This is a mistake!"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Sakura": "She focuses on creating doubt and protecting her ally by questioning the validity of claims.",
+  "Jonathan": "He values stability and tends to follow the most logical or calm argument presented.",
+  "Mizuki": "She analyzes the emotional reactions of others and seeks a logical basis for the vote.",
+  "Toshio": "He uses direct information to lead the group and focuses on efficiency in eliminating threats.",
+  "Kenji": "He attempts to deflect suspicion through emotional appeals and accusations of lying."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0002",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T21:48:42+00:00",
+  "attempts": 3,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793137722,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-b60cd049ce7289ca",
+     "object": "model_permission",
+     "created": 1793137722,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

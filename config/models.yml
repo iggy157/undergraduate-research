@@ -1,0 +1,54 @@
+# LLM endpoints and per-method technical ceilings (DESIGN §10: ceilings are safety limits, not instructions).
+endpoints:
+  local_vllm:
+    base_url: http://localhost:8000/v1
+    api_key_env: VLLM_API_KEY      # unused unless vLLM was started with --api-key
+  local_vllm_b:                    # a second instance of the same model on another GPU (games are split across them)
+    base_url: http://localhost:8010/v1   # 8001/8002 are taken by other services on this host
+    api_key_env: VLLM_API_KEY
+models:
+  default:                         # main runs: greedy decoding (temperature 0; DESIGN §10 / paper_draft 付録 D)
+    endpoint: local_vllm
+    model: gemma-4-31b             # served-model-name of vLLM (google/gemma-4-31B-it); must be the same for single and multi
+    temperature: 0
+    top_p: null                    # null = the server's default
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:                     # per method (audit C4): the single call writes the whole transcript
+      multi: 600
+      single: 1800
+    logprobs: true                 # record generated token ids + logprobs (vLLM) in every llm_call (DESIGN §3.2)
+  default_b:                       # = default, served by the second instance (local_vllm_b)
+    endpoint: local_vllm_b
+    model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  gemma_default:                   # robustness runs: the model's own generation_config (Gemma 4: 1.0 / 0.95 / 64)
+    endpoint: local_vllm
+    model: gemma-4-31b
+    temperature: 1.0
+    top_p: 0.95
+    top_k: 64
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true

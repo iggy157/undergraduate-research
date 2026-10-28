@@ -1,0 +1,42 @@
+{
+ "setup_id": "aiwolf_0008",
+ "domain": "aiwolf",
+ "k": 8,
+ "seats": [
+  {
+   "seat": 1,
+   "persona": "Sakura",
+   "role_slot": "WEREWOLF"
+  },
+  {
+   "seat": 2,
+   "persona": "Takumi",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 3,
+   "persona": "Victoria",
+   "role_slot": "VILLAGER"
+  },
+  {
+   "seat": 4,
+   "persona": "Misaki",
+   "role_slot": "POSSESSED"
+  },
+  {
+   "seat": 5,
+   "persona": "Minako",
+   "role_slot": "SEER"
+  }
+ ],
+ "speaking_order": [
+  1,
+  5,
+  3,
+  2,
+  4
+ ],
+ "info_mode": "dynamic",
+ "instance_id": null,
+ "experiment_seed": 20261027
+}

@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The participants discuss what information is necessary to make a fair decision. They focus on costs, labor, physical space, and the experiences of other neighborhoods.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Suggests looking at other lanes and the station block.",
+      "Midori": "Suggests checking the ledger and subsidies.",
+      "Shunichi": "Suggests checking the complaint log and meeting minutes.",
+      "May": "Suggests checking supervised mornings and truck times.",
+      "Asuka": "Suggests checking frontage measurements and filing requirements."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Over",
+      "Midori": "Over",
+      "Shunichi": "Over",
+      "May": "Over",
+      "Asuka": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the implications of their findings. They debate the trade-offs between financial costs, time commitments, and the potential for future interpersonal conflict.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Mentions the smell and maintenance issues at the station block.",
+      "Midori": "Discusses the high cost of shelters and annual maintenance fees.",
+      "Shunichi": "Points out the high number of complaints from one house.",
+      "May": "Shares the time required for supervision and the early truck arrival.",
+      "Asuka": "Notes the narrowness of some frontages and the paperwork involved."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Expresses worry about the smell in summer.",
+      "Midori": "Questions who can afford the initial setup costs.",
+      "Shunichi": "Suggests that the current situation is unsustainable for the host.",
+      "May": "Questions if people are actually willing to police each other.",
+      "Asuka": "Argues that some spots are physically unsuitable."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Skip",
+      "Midori": "Skip",
+      "Shunichi": "Skip",
+      "May": "Skip",
+      "Asuka": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Midori": "Over",
+      "Shunichi": "Over",
+      "May": "Over",
+      "Asuka": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The group evaluates the three proposed plans against their discovered constraints. They weigh the burden of labor versus the burden of space and cost before voting.",
+   "votes": {
+    "Rin": "B",
+    "Midori": "B",
+    "Shunichi": "B",
+    "May": "B",
+    "Asuka": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Argues against a permanent structure due to the smell.",
+      "Midori": "Expresses concern over the cost of a build.",
+      "Shunichi": "Suggests a way to distribute the burden fairly.",
+      "May": "Doubts the effectiveness of strict time windows.",
+      "Asuka": "Considers the fairness of shifting the burden."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "Agrees that moving the point seems simplest.",
+      "Midori": "Agrees if it avoids a large shared bill.",
+      "Shunichi": "Believes this prevents one person from feeling targeted.",
+      "May": "Accepts it as the least labor-intensive option.",
+      "Asuka": "Accepts it as the most equitable distribution of space."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Ready to vote.",
+      "Midori": "Ready to vote.",
+      "Shunichi": "Ready to vote.",
+      "May": "Ready to vote.",
+      "Asuka": "Ready to vote."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Votes for B.",
+      "Midori": "Votes for B.",
+      "Shunichi": "Votes for B.",
+      "May": "Votes for B.",
+      "Asuka": "Votes for B."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Midori": "Cares about financial equity. She argues based on budget constraints and seeks a low-cost solution.",
+  "May": "Cares about the time burden. She analyzes the labor hours involved and seeks to avoid unpaid management roles.",
+  "Rin": "Cares about the sensory environment. She focuses on the daily experience of living near the bins.",
+  "Asuka": "Cares about spatial fairness. She uses measurements and rules to ensure no one is unfairly burdened by the site.",
+  "Shunichi": "Cares about social harmony. He focuses on the emotional state of the neighbors and the history of complaints."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0002",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "gemma-4-31b",
+  "generated_at": "2026-10-27T23:03:57+00:00",
+  "attempts": 3,
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "model_info": {
+   "id": "gemma-4-31b",
+   "created": 1793142237,
+   "object": "model",
+   "owned_by": "vllm",
+   "shutdown_date": null,
+   "root": "google/gemma-4-31B-it",
+   "parent": null,
+   "max_model_len": 20480,
+   "permission": [
+    {
+     "id": "modelperm-9fc139ea460a14aa",
+     "object": "model_permission",
+     "created": 1793142237,
+     "allow_create_engine": false,
+     "allow_sampling": true,
+     "allow_logprobs": true,
+     "allow_search_indices": false,
+     "allow_view": true,
+     "allow_fine_tuning": false,
+     "organization": "*",
+     "group": null,
+     "is_blocking": false
+    }
+   ]
+  }
+ }
+}

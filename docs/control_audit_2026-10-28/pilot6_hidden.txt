@@ -1,0 +1,22 @@
+Pilot 6 hidden states (scripts/extract_hidden.py, gemma-4-31B-it bf16 on GPU#7, layers every 4 + last, two setups x all conditions).
+Checks: prompt_token_ids == usage.prompt_tokens for every call (checks failed: 0 in all 16 games).
+Positions: gen_point = the position from which the line's first token is predicted (label token "**:" in single-batch /
+single-batch-stepped; prompt end "<channel|>" in single-online / multi-*).
+
+cos at the first 10 talk gen-points (last layer | mid layer mean):
+  aiwolf_0001:
+    batch vs stepped        1.000 x10 | 1.000      (identical token sequence, batch-invariant kernels; transcripts coincide for 16 lines)
+    batch vs single-online  0.19-0.34 | 0.957
+    batch vs multi-public   0.18-0.33 | 0.964
+    batch vs multi-private  0.17-0.32 | 0.964
+  candidate_selection_0001:
+    batch vs stepped        0.999-1.000 | 1.000
+    batch vs single-online  0.20-0.42 | 0.964
+    batch vs multi-public   0.16-0.28 | 0.968
+    batch vs multi-private  0.09-0.28 | 0.971
+Reading: the batch/stepped identity holds exactly (pilot 5: 0.9998; now 1.000 with VLLM_BATCH_INVARIANT). The gen-point
+representations of the request conditions sit on a different token ("<channel|>" after the generation prompt) than the
+writer conditions ("**:"), so their raw similarity to batch (0.1-0.4 at the last layer) mixes token role with condition
+and is not interpretable as a condition effect; the probe analysis compares decodability within each condition and
+uses the same-history replay as the control (paper_draft v3 §5), not raw cosines across conditions.
+Files: scratchpad hidden6/out (<game_id>.npz + .index.json); not kept in the repository.
