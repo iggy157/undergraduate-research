@@ -217,6 +217,96 @@ models:
       multi: 600
       single: 1800
     logprobs: true
+  g12:                       # = default, served by instance d (local_vllm)
+    endpoint: local_vllm
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  g12_b:                       # = default, served by instance d (local_vllm_b)
+    endpoint: local_vllm_b
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  g12_c:                       # = default, served by instance d (local_vllm_c)
+    endpoint: local_vllm_c
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  g12_d:                       # gemma-4-12B-it (size variant), instance d
+    endpoint: local_vllm_d
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  g12_e:                       # = default, served by instance d (local_vllm_e)
+    endpoint: local_vllm_e
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  g12_f:                       # = default, served by instance d (local_vllm_f)
+    endpoint: local_vllm_f
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
   gemma_default:                   # robustness runs: the model's own generation_config (Gemma 4: 1.0 / 0.95 / 64)
     endpoint: local_vllm
     model: gemma-4-31b
