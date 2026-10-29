@@ -145,7 +145,11 @@ def main(argv: list[str] | None = None) -> int:
     if not a.check_only:
         from transformers import AutoModelForCausalLM
         dtype = getattr(torch, a.dtype)
-        model = AutoModelForCausalLM.from_pretrained(a.model_path, dtype=dtype)  # no accelerate: plain .to(device)
+        try:
+            model = AutoModelForCausalLM.from_pretrained(a.model_path, dtype=dtype)  # no accelerate: plain .to(device)
+        except ValueError:  # a vision-language checkpoint (e.g. Mistral3): the text-only forward of the full model
+            from transformers import AutoModelForImageTextToText
+            model = AutoModelForImageTextToText.from_pretrained(a.model_path, dtype=dtype)
         model.to(a.device)
         model.eval()
     out_dir = Path(a.out_dir)

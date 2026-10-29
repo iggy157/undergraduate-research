@@ -373,6 +373,96 @@ models:
       multi: 600
       single: 1800
     logprobs: true
+  mis:                       # Mistral-Small-3.2-24B (third model line), instance x
+    endpoint: local_vllm
+    model: mistral-small-3.2-24b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  mis_b:                       # Mistral-Small-3.2-24B (third model line), instance b
+    endpoint: local_vllm_b
+    model: mistral-small-3.2-24b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  mis_c:                       # Mistral-Small-3.2-24B (third model line), instance c
+    endpoint: local_vllm_c
+    model: mistral-small-3.2-24b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  mis_d:                       # Mistral-Small-3.2-24B (third model line), instance d
+    endpoint: local_vllm_d
+    model: mistral-small-3.2-24b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  mis_e:                       # Mistral-Small-3.2-24B (third model line), instance e
+    endpoint: local_vllm_e
+    model: mistral-small-3.2-24b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  mis_f:                       # Mistral-Small-3.2-24B (third model line), instance f
+    endpoint: local_vllm_f
+    model: mistral-small-3.2-24b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
   gemma_default:                   # robustness runs: the model's own generation_config (Gemma 4: 1.0 / 0.95 / 64)
     endpoint: local_vllm
     model: gemma-4-31b

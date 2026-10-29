@@ -77,7 +77,45 @@ def match_positions(index: dict, lines: list[dict], cond: str):
     return pairs
 
 
-def ridge_cv(X, y, groups, folds, lam=1.0, binary=False):
+LAMS = [1.0, 10.0, 100.0, 1e3, 1e4, 1e5]
+
+
+_DEV = None
+
+
+def _torch():
+    global _DEV
+    import torch
+    if _DEV is None:
+        _DEV = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    return torch
+
+
+def _fit_predict(Xtr, ytr, Xte, lams):
+    """Standardise on the training rows; ridge for every lambda from one eigendecomposition of the n x n Gram matrix
+    (dual form). Runs on the GPU when one is visible. Returns one prediction vector per lambda."""
+    torch = _torch()
+    Xtr_t = torch.as_tensor(Xtr, dtype=torch.float64, device=_DEV)
+    Xte_t = torch.as_tensor(Xte, dtype=torch.float64, device=_DEV)
+    y_t = torch.as_tensor(ytr, dtype=torch.float64, device=_DEV)
+    mu, sd = Xtr_t.mean(0), Xtr_t.std(0, unbiased=False) + 1e-6
+    Xtr_t, Xte_t = (Xtr_t - mu) / sd, (Xte_t - mu) / sd
+    ym = y_t.mean()
+    yc = y_t - ym
+    K = Xtr_t @ Xtr_t.T
+    evals, evecs = torch.linalg.eigh(K)
+    proj = evecs.T @ yc
+    Kte = Xte_t @ Xtr_t.T
+    out = []
+    for lam in lams:
+        a = evecs @ (proj / (evals + lam))
+        out.append((Kte @ a + ym).cpu().numpy())
+    return out
+
+
+def ridge_cv(X, y, groups, folds, lam=None, binary=False):
+    """Grouped K-fold; the ridge penalty is chosen inside each training fold by an inner grouped 3-fold split
+    (nested CV) from LAMS, unless ``lam`` is given."""
     uniq = sorted(set(groups))
     rng = np.random.RandomState(0)
     rng.shuffle(uniq)
@@ -86,12 +124,19 @@ def ridge_cv(X, y, groups, folds, lam=1.0, binary=False):
     pred = np.zeros_like(y, dtype=np.float64)
     for k in range(folds):
         tr, te = f != k, f == k
-        mu, sd = X[tr].mean(0), X[tr].std(0) + 1e-6
-        Xtr, Xte = (X[tr] - mu) / sd, (X[te] - mu) / sd
-        ym = y[tr].mean()
-        A = Xtr.T @ Xtr + lam * np.eye(X.shape[1])
-        w = np.linalg.solve(A, Xtr.T @ (y[tr] - ym))
-        pred[te] = Xte @ w + ym
+        if lam is not None:
+            pred[te] = _fit_predict(X[tr], y[tr], X[te], [lam])[0]
+            continue
+        gtr = groups[tr]
+        inner = {g: i % 3 for i, g in enumerate(sorted(set(gtr)))}
+        fi = np.array([inner[g] for g in gtr])
+        err = np.zeros(len(LAMS))
+        Xk, yk = X[tr], y[tr]
+        for j in range(3):
+            a, b = fi != j, fi == j
+            for li, p in enumerate(_fit_predict(Xk[a], yk[a], Xk[b], LAMS)):
+                err[li] += ((yk[b] - p) ** 2).sum()
+        pred[te] = _fit_predict(X[tr], y[tr], X[te], [LAMS[int(err.argmin())]])[0]
     if binary:
         return float(((pred > 0.5) == (y > 0.5)).mean())
     ss = ((y - y.mean()) ** 2).sum()
@@ -114,7 +159,7 @@ def main(argv=None) -> int:
         layers = sorted({stored[round(i * (len(stored) - 1) / 4)] for i in range(5)})
     else:
         layers = [int(x) for x in a.layers.split(",")]
-    out = [f"# Linear probes on pre-utterance hidden states ({a.hidden_dir}; ridge lam={a.lam}, {a.folds}-fold by setup)\n"]
+    out = [f"# Linear probes on pre-utterance hidden states ({a.hidden_dir}; ridge, penalty chosen by nested grouped CV from {LAMS}, {a.folds}-fold by setup)\n"]
     names = ["words", "yield", "left_self", "left_game", "winner"]
     for cond in a.conditions.split(","):
         feats = {l: [] for l in layers}
@@ -160,11 +205,11 @@ def main(argv=None) -> int:
             if m.sum() < 50 or np.nanstd(y[m]) == 0:
                 continue
             binary = t in ("yield", "winner")
-            b = ridge_cv(B[m], y[m], groups[m], a.folds, lam=1.0, binary=binary)
+            b = ridge_cv(B[m], y[m], groups[m], a.folds, binary=binary)
             row = [f"{b:.3f}"]
             for l in layers:
                 X = np.stack(feats[l])[m]
-                row.append(f"{ridge_cv(X, y[m], groups[m], a.folds, lam=a.lam, binary=binary):.3f}")
+                row.append(f"{ridge_cv(X, y[m], groups[m], a.folds, binary=binary):.3f}")
             out.append(f"| {t}{' (acc)' if binary else ' (R2)'} | " + " | ".join(row) + " |")
         out.append("")
     text = "\n".join(out) + "\n"
