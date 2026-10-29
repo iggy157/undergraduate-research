@@ -18,6 +18,12 @@ endpoints:
   local_vllm_f:
     base_url: http://localhost:8050/v1
     api_key_env: VLLM_API_KEY
+  local_vllm_g:                    # 7th / 8th instances (GPUs 6, 7)
+    base_url: http://localhost:8070/v1
+    api_key_env: VLLM_API_KEY
+  local_vllm_h:
+    base_url: http://localhost:8075/v1
+    api_key_env: VLLM_API_KEY
   local_vllm_q:                    # smoke tests of a second model (port 8070)
     base_url: http://localhost:8070/v1
     api_key_env: VLLM_API_KEY
@@ -294,6 +300,66 @@ models:
     logprobs: true
   g12_f:                       # = default, served by instance d (local_vllm_f)
     endpoint: local_vllm_f
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  default_g:                       # = default, served by instance d (local_vllm_g)
+    endpoint: local_vllm_g
+    model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  default_h:                       # = default, served by instance d (local_vllm_h)
+    endpoint: local_vllm_h
+    model: gemma-4-31b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  g12_g:                       # gemma-4-12B-it (size variant), instance g
+    endpoint: local_vllm_g
+    model: gemma-4-12b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  g12_h:                       # gemma-4-12B-it (size variant), instance h
+    endpoint: local_vllm_h
     model: gemma-4-12b
     temperature: 0
     top_p: null
