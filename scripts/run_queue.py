@@ -29,7 +29,7 @@ from common.setup import SETUPS  # noqa: E402
 PY = str(ROOT / ".venv" / "bin" / "python")
 CORE = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private"]
 PLAN = ["single-batch-process", "multi-private-process"]
-EXTRA = ["multi-private-stepped", "multi-public-stepped"]  # the whole-transcript goal transplanted into the seats
+EXTRA = ["multi-private-stepped", "multi-public-stepped", "multi-private-stepped-process"]  # the whole-transcript goal transplanted into the seats (+ plan)
 DOMAINS = ["aiwolf", "candidate_selection", "shared_living"]
 
 
@@ -46,6 +46,7 @@ def command(setup: str, cond: str, model: str, log_dir: str, port: int) -> list[
         "multi-private-process": multi + ["--scenario", "auto", "--plan-granularity", "process"],
         "multi-private-stepped": multi + ["--seat-stepped"],
         "multi-public-stepped": multi + ["--reveal", "--seat-stepped"],
+        "multi-private-stepped-process": multi + ["--seat-stepped", "--scenario", "auto", "--plan-granularity", "process"],
     }[cond]
 
 
@@ -127,7 +128,7 @@ def main(argv=None) -> int:
                 setup, cond = q.get_nowait()
             except queue.Empty:
                 return
-            if cond in PLAN and not scenario_ready(setup):
+            if (cond in PLAN or cond.endswith("-process")) and not scenario_ready(setup):
                 if (out_dir / "no_more_scenarios").exists():  # the scenario generator gave up on this setup
                     with lock:
                         remaining[0] -= 1

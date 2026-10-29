@@ -17,7 +17,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ORDER = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private",
-         "single-batch-process", "multi-private-process", "multi-private-stepped", "multi-public-stepped"]
+         "single-batch-process", "multi-private-process", "multi-private-stepped", "multi-public-stepped", "multi-private-stepped-process"]
 
 
 def main(argv=None) -> int:

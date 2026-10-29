@@ -22,7 +22,7 @@ from pathlib import Path
 V1_FLAGS = ["resp", "rebut", "empty", "ignore", "misattr", "reversal"]
 V2_FLAGS = ["resp", "rebut", "empty", "padded"]
 ORDER = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private",
-         "single-batch-process", "multi-private-process", "multi-private-stepped", "multi-public-stepped"]
+         "single-batch-process", "multi-private-process", "multi-private-stepped", "multi-public-stepped", "multi-private-stepped-process"]
 TYPES = ["answer", "add", "object", "agree"]
 
 
