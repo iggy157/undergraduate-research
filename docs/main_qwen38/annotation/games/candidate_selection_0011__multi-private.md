@@ -1,0 +1,73 @@
+# candidate_selection_0011__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. I hope we can find a fair path forward today.
+- [6] **Ryuji**: I agree. We must prioritize the long-term viability of the research over immediate costs.
+- [7] **Victoria**: I agree. We must ensure the shared infrastructure can actually support the proposed workload before committing funds.
+- [8] **Benjamin**: I’d like to understand the current cost structure before we judge viability. Who else is tracking the central versus local expense split?
+- [9] **Midori**: I’m a bit shy, but I’d like to know where projects usually get interrupted. Has anyone checked the incident logs on shared instrumentation?
+- [10] **Shizue**: Midori, that is a wise place to start. I wonder if the closeout files might also reveal where projects quietly stall.
+- [11] **Ryuji**: Midori, incident logs show immediate failures. I need to verify if the technical staff actually remain available to fix them.
+- [12] **Victoria**: @Ryuji, staffing rolls are critical. If technical posts are vacant, shared facilities fail regardless of funding. I’ll check those.
+- [13] **Benjamin**: I’ll examine the national computing agreement and facility day rates. If those costs shift to awardees, the grant’s real value changes significantly.
+- [14] **Midori**: I’ll look into the incident logs on shared instrumentation and the portfolio review of schedule overruns.
+- [15] **Shizue**: I will review the closeout files of finished awards and the portfolio review of schedule overruns.
+- [16] **Ryuji**: I will examine the staffing rolls for technical posts and the minutes on secondments and crew strength.
+- [17] **Victoria**: I will examine the accreditation and bookings at shared facilities, and the national repository deposit turnaround.
+- [18] **Benjamin**: I’ll review the travel and bench-fee lines in the ledgers, and the national computing agreement and facility day rates.
+- [19] **Midori**: I’ll look into the incident logs on shared instrumentation and the portfolio review of schedule overruns.
+- [20] **Shizue**: Thank you all. I am glad we are aligned. I will now review the closeout files and schedule overruns.
+- [21] **Ryuji**: I will review the staffing rolls and secondment minutes. Understanding who is actually present is essential before we commit resources.
+- [22] **Victoria**: I will review the accreditation and bookings at shared facilities, and the national repository deposit turnaround.
+- [23] **Benjamin**: I’ll review the travel and bench-fee lines in the ledgers, and the national computing agreement and facility day rates.
+- [24] **Midori**: Thank you. I’ll check the incident logs and schedule overruns to see where work actually gets interrupted.
+## Round 2
+- [35] **Shizue**: The closeout files are quite revealing. Catalogue-style awards still draw users a decade later, while mechanism-focused ones often end with questions unresolved.
+- [36] **Ryuji**: The phenotyping technicians are gone, but the glasshouse crew remains. We must fund projects that utilize the hands we actually have, not the ones we lost.
+- [37] **Victoria**: The repository turnaround is now weeks, not years. That removes a major bottleneck for data-heavy proposals.
+- [38] **Benjamin**: The computing agreement is generous, but animal-unit rates spiked. I need to know if the agency absorbs that cost or passes it to the awardee.
+- [39] **Midori**: I found the spectroscopy suite idle for eleven weeks due to a lapsed contract. Also, breeding colony projects overrun schedules twice as often as computational ones.
+- [40] **Shizue**: Midori, that aligns with my findings. We should favor proposals where the work can actually be completed, rather than those that simply stall.
+- [41] **Ryuji**: Midori, your data confirms my concern. We must prioritize proposals relying on the stable glasshouse crew, avoiding those needing the departed phenotyping staff.
+- [42] **Victoria**: @Ryuji, the glasshouse is booked solid for two cycles. We cannot assume spare capacity there. We must verify actual availability before committing.
+- [43] **Benjamin**: @Victoria, if the glasshouse is full, the subsidy is moot. I need to know if the agency covers the animal-unit rate hike or if the awardee eats it.
+- [44] **Midori**: @Ryuji, I worry about over-relying on the glasshouse. @Benjamin, please clarify if the agency covers those animal-unit costs.
+- [45] **Shizue**: @Benjamin, I worry about hidden costs. @Midori, your schedule data is very helpful. We must ensure the work can actually finish.
+- [46] **Ryuji**: @Victoria, if the glasshouse is full, we must look elsewhere. @Benjamin, please clarify the animal-unit cost burden.
+- [47] **Victoria**: @Benjamin, the animal facility gained veterinary cover, so capacity exists. @Midori, the repository speedup favors data-heavy work.
+- [48] **Benjamin**: @Ryuji, @Midori, the agreement covers computing, not vivariums. The agency absorbs bench fees, but animal-unit hikes land squarely on the awardee.
+- [49] **Midori**: @Benjamin, that is a heavy burden. @Ryuji, perhaps we should favor computational proposals to avoid these unexpected costs and schedule delays?
+- [50] **Shizue**: I agree with Midori. The closeout files show computational work finishes reliably, while biological projects often stall. Let us favor the stable path.
+- [51] **Ryuji**: I hesitate. The modelling analysts are seconded abroad until autumn. Computational work lacks the senior expertise to execute now. We must wait for their return.
+- [52] **Victoria**: The repository speedup is a genuine advantage. I support computational proposals, provided the data infrastructure is robust.
+- [53] **Benjamin**: I concur. The cost structure favors computational work. We should prioritize proposals that avoid the animal-unit financial trap and schedule risks.
+- [54] **Midori**: I agree. Computational work seems safer and more reliable. Let’s ensure we pick a proposal that fits our current resources and avoids these pitfalls.
+## Round 3
+- [60] **Shizue**: I find the Microbiome Atlas most promising. It aligns with our findings on reliable completion and avoids the costly biological pitfalls we discussed.
+- [61] **Ryuji**: @Shizue, I object. The Microbiome Atlas requires field collection, but our glasshouse crew is fully booked. We lack the available hands to execute this reliably.
+- [62] **Victoria**: @Ryuji, field sites are distinct from the glasshouse. The repository speedup also favors D’s data output. I support the Microbiome Atlas.
+- [63] **Benjamin**: @Ryuji, field sites are distinct from the glasshouse. @Shizue, D’s cataloging nature matches the reliable completion patterns we identified. I support the Microbiome Atlas.
+- [64] **Midori**: @Ryuji, I agree with Victoria. Field sites are separate from the glasshouse. @Shizue, D’s cataloging nature fits our need for reliable completion. I support the Microbiome Atlas.
+- [65] **Shizue**: Thank you for clarifying the field site distinction, Ryuji. I am reassured. The Microbiome Atlas seems the most stable and reliable choice for us.
+- [66] **Ryuji**: @Victoria, I must verify the station records. If field sites lack local support, the Atlas fails. I cannot vote without confirming who is actually there.
+- [67] **Victoria**: @Ryuji, I understand your caution. However, the repository speedup and cataloging nature of D make it the most robust choice. I support the Microbiome Atlas.
+- [68] **Benjamin**: @Ryuji, your caution is valid, but the cost structure strongly favors D. The others carry hidden financial or staffing risks we cannot absorb. I support the Microbiome Atlas.
+- [69] **Midori**: @Ryuji, your caution is wise. I hope the station records confirm adequate support. I remain confident in the Microbiome Atlas for its reliability.
+- [70] **Shizue**: @Ryuji, your caution is wise. I trust the station records will confirm the support we need. The Atlas remains my gentle choice.
+- [71] **Ryuji**: @Shizue, I cannot confirm the field support. Without verified local hands, the Atlas is too risky. I will not vote for it.
+- [72] **Victoria**: @Ryuji, I understand your hesitation. However, the repository speedup and cataloging nature of D make it the most robust choice. I support the Microbiome Atlas.
+- [73] **Benjamin**: @Ryuji, I respect your caution, but the financial logic is irrefutable. D avoids the animal-unit trap and leverages the repository speedup. I vote for the Microbiome Atlas.
+- [74] **Midori**: @Ryuji, I understand your concern. However, the data strongly supports D’s reliability. I will vote for the Microbiome Atlas to ensure our grant succeeds.
+- [75] **Shizue**: I understand your caution, Ryuji. I trust the station records will confirm the support. I vote for the Microbiome Atlas, as it offers the most reliable path forward.
+- [76] **Ryuji**: I cannot vote for D without verified field support. I will abstain, as the risk of failure due to missing local hands is too high.
+- [77] **Victoria**: I respect your caution, Ryuji, but the data infrastructure is robust. The repository speedup makes D the most reliable choice. I vote for the Microbiome Atlas.
+- [78] **Benjamin**: I vote for the Microbiome Atlas. The financial logic is sound, and the repository speedup makes it the most viable option for us.
+- [79] **Midori**: I vote for the Microbiome Atlas. Its cataloging nature and data focus align perfectly with our need for a reliable, well-supported outcome.
+### Vote
+- Shizue -> D
+- Ryuji -> C
+- Victoria -> D
+- Benjamin -> D
+- Midori -> D
+## Result
+- adopted: D

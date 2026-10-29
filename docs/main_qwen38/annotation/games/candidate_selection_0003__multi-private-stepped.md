@@ -1,0 +1,73 @@
+# candidate_selection_0003__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: We need to verify if past projects actually met user expectations before approving new ones.
+- [6] **Victoria**: I am concerned about how much disruption the construction causes to daily academic schedules.
+- [7] **George**: The current staff are already stretched thin; any new plan must account for their existing workload.
+- [8] **Mizuki**: I have noticed that recent projects consistently exceed their initial timelines and budgets.
+- [9] **Benjamin**: Let us ensure the numbers we approve today do not evaporate the moment we sign the check.
+- [10] **Toshio**: @Mizuki, do you have specific data on which projects overran the most?
+- [11] **Victoria**: @George, if staffing is tight, how do we handle the temporary loss of rooms during renovation?
+- [12] **George**: We cannot assume extra work will be absorbed silently; it will just pile up on the same people.
+- [13] **Mizuki**: @Toshio, yes, the slippage is consistent across the last three cycles, not just isolated incidents.
+- [14] **Benjamin**: @Victoria, the hidden costs of maintenance often appear years later, not during the construction phase.
+- [15] **Toshio**: I propose we look at the actual usage data rather than just the initial proposals.
+- [16] **Victoria**: I agree. We need to see how the rooms are actually used after the work is done.
+- [17] **George**: I will check the staffing records to see if we have any slack in the current team.
+- [18] **Mizuki**: I will investigate the delivery schedules to understand where the time is actually being lost.
+- [19] **Benjamin**: I will review the tender records to see if the initial bids were realistic or optimistic.
+- [20] **Toshio**: Let us focus on the post-occupancy reviews to see what the users actually think.
+- [21] **Victoria**: I will look into the timetable records to quantify the disruption during the work period.
+- [22] **George**: I will also check the renewal reserve to see if we have funds for unexpected repairs.
+- [23] **Mizuki**: I will also look at the weather days to see if external factors are delaying the work.
+- [24] **Benjamin**: I will also check the post-occupancy ratings to see if the quality matches the cost.
+## Round 2
+- [35] **Toshio**: The reviews show that shared spaces are rated much higher than isolated ones.
+- [36] **Victoria**: @Toshio, that aligns with my findings. The disruption is real, but the usage is key.
+- [37] **George**: I found that we have spare technician hours, but the front-of-house posts are still empty.
+- [38] **Mizuki**: @Toshio, my data shows that projects justified by inspection findings are delivered on time.
+- [39] **Benjamin**: @Toshio, the ratings confirm that the value is in the shared use, not the specific department.
+- [40] **Toshio**: @Mizuki, that is interesting. So the rationale for the project matters more than the location?
+- [41] **Victoria**: @George, if the front-of-house is empty, how do we manage the booking system for the new rooms?
+- [42] **George**: @Victoria, the technicians can handle the technical side, but the administrative gap is a real problem.
+- [43] **Mizuki**: @Toshio, yes, and the weather delays only affect the external work, not the internal fit-out.
+- [44] **Benjamin**: @George, the administrative gap is exactly where the hidden costs hide. Who is managing the bookings?
+- [45] **Toshio**: We need a plan that addresses the administrative gap while focusing on shared spaces.
+- [46] **Victoria**: I agree. The timetable disruption is manageable if we have a clear booking system in place.
+- [47] **George**: I will look into the booking data to see how the current system is being used.
+- [48] **Mizuki**: I will look into the survey findings to see what the users in the older blocks actually need.
+- [49] **Benjamin**: I will look into the staffing posts to see if we can fill the administrative gap with existing staff.
+- [50] **Toshio**: Let us focus on the shared spaces and the administrative gap.
+- [51] **Victoria**: I will look into the booking data to see how the current system is being used.
+- [52] **George**: I will look into the staffing posts to see if we can fill the administrative gap with existing staff.
+- [53] **Mizuki**: I will look into the survey findings to see what the users in the older blocks actually need.
+- [54] **Benjamin**: I will look into the staffing posts to see if we can fill the administrative gap with existing staff.
+## Round 3
+- [60] **Toshio**: Option B, the Central Study Commons, aligns with the high ratings for shared spaces.
+- [61] **Victoria**: @Toshio, I agree. The booking system is crucial, and Option B includes a service desk.
+- [62] **George**: @Victoria, the service desk is a good start, but we still need to address the staffing gap.
+- [63] **Mizuki**: @Toshio, Option B is a shared space, which matches the rationale for on-time delivery.
+- [64] **Benjamin**: @George, the service desk is a good start, but we need to ensure the staffing is in place.
+- [65] **Toshio**: Option D, the Media Production Center, is also a shared space, but it is more specialized.
+- [66] **Victoria**: @Toshio, Option D is specialized, which might limit its usage compared to Option B.
+- [67] **George**: @Toshio, Option D is specialized, which might limit its usage compared to Option B.
+- [68] **Mizuki**: @Toshio, Option D is specialized, which might limit its usage compared to Option B.
+- [69] **Benjamin**: @Toshio, Option D is specialized, which might limit its usage compared to Option B.
+- [70] **Toshio**: Option A, the Laboratory Ventilation Upgrade, is necessary, but it is not a shared space.
+- [71] **Victoria**: @Toshio, Option A is necessary, but it is not a shared space, which might limit its usage.
+- [72] **George**: @Toshio, Option A is necessary, but it is not a shared space, which might limit its usage.
+- [73] **Mizuki**: @Toshio, Option A is necessary, but it is not a shared space, which might limit its usage.
+- [74] **Benjamin**: @Toshio, Option A is necessary, but it is not a shared space, which might limit its usage.
+- [75] **Toshio**: Option C, the Campus Path Network, is a shared space, but it is not a room.
+- [76] **Victoria**: @Toshio, Option C is a shared space, but it is not a room, which might limit its usage.
+- [77] **George**: @Toshio, Option C is a shared space, but it is not a room, which might limit its usage.
+- [78] **Mizuki**: @Toshio, Option C is a shared space, but it is not a room, which might limit its usage.
+- [79] **Benjamin**: @Toshio, Option C is a shared space, but it is not a room, which might limit its usage.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> B
+- Mizuki -> B
+- Benjamin -> B
+## Result
+- adopted: B

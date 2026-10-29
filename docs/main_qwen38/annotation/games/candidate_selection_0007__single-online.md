@@ -1,0 +1,73 @@
+# candidate_selection_0007__single-online (candidate_selection)
+
+## Round 1
+- [5] **May**: Let’s start by picking what we actually need to see before we guess.
+- [6] **Benjamin**: @May, agreed. I’m curious about the roster books for the late-turn pool.
+- [7] **Midori**: #### Turn 1 of 4
+- [8] **Shizue**: #### Turn 1 of 4
+- [9] **Jonathan**: #### Turn 1 of 4
+- [10] **May**: #### Turn 2 of 4
+- [11] **Benjamin**: #### Turn 2 of 4
+- [12] **Midori**: - **Midori**: I’d like to check the journey audits on where minutes go.
+- [13] **Shizue**: - **Shizue**: I’d like to look into the contingency pricing inside the pre-war shells.
+- [14] **Jonathan**: - **Jonathan**: I’d like to check the balances in the capital ledger.
+- [15] **May**: - **May**: I’ll look into the two pilots from eight years ago.
+- [16] **Benjamin**: - **Benjamin**: I’ll also check the crew establishment and maintenance contract.
+- [17] **Midori**: - **Midori**: I’ll also look into the timed runs and crowd counts mid-city.
+- [18] **Shizue**: - **Shizue**: I’ll also look into the joint operators' committee minutes.
+- [19] **Jonathan**: - **Jonathan**: I’ll also look into the completion records of the earlier accessibility programme.
+- [20] **May**: - **May**: That’s my two. Let’s see what the dust actually says.
+- [21] **Benjamin**: - **Benjamin**: Agreed. Let’s see if the paper matches the reality on the ground.
+- [22] **Midori**: - **Midori**: Agreed. Let’s see what the numbers actually tell us.
+- [23] **Shizue**: - **Shizue**: Agreed. I trust the ground will tell us the truth.
+- [24] **Jonathan**: - **Jonathan**: Agreed. The ledger will tell us what we can truly afford.
+## Round 2
+- [35] **May**: #### Turn 1 of 4
+- [36] **Benjamin**: #### Turn 1 of 4
+- [37] **Midori**: - **Midori**: The journey audits are striking. Most added minutes come from waiting for connections, not paying.
+- [38] **Shizue**: - **Shizue**: The pre-war shells are a minefield. Bidders are pricing in heavy contingency after recent voids.
+- [39] **Jonathan**: - **Jonathan**: The ledger is thin. The operating subsidy was trimmed again, and the technology line is nearly empty.
+- [40] **May**: - **May**: The ferry trial closed cleanly, but the rail and ferry back offices never agreed on data terms.
+- [41] **Benjamin**: - **Benjamin**: The late-turn pool is nearly empty. Overtime is covering both final departures and overnight works.
+- [42] **Midori**: #### Turn 2 of 4
+- [43] **Shizue**: - **Shizue**: The committee minutes confirm the data terms were never settled. That explains the delays.
+- [44] **Jonathan**: - **Jonathan**: The accessibility records show lift rebuilds finished on time, unlike the lane work.
+- [45] **May**: - **May**: So the ferry pilot worked, but the data terms are still missing. That’s a gap, not a failure.
+- [46] **Benjamin**: - **Benjamin**: And the maintenance contract has spare capacity. We have the hands, just not the hours.
+- [47] **Midori**: - **Midori**: That fits. The mid-city runs are slower, but the platforms clear at the old rate.
+- [48] **Shizue**: - **Shizue**: The data gap is real, but the ground beneath the old stations is the true unknown.
+- [49] **Jonathan**: - **Jonathan**: The lift work held its dates. The lane work didn’t. That tells me where the risk actually sits.
+- [50] **May**: - **May**: So we have a proven pilot and a data gap. I’m ready to see the candidates.
+- [51] **Benjamin**: - **Benjamin**: Agreed. The staffing picture is clear. Let’s see what options we’re actually choosing between.
+- [52] **Midori**: - **Midori**: Agreed. The data points to connections, not crowding. I’m ready to see the candidates.
+- [53] **Shizue**: - **Shizue**: Agreed. The ground and the data both speak. I am ready to see the candidates.
+- [54] **Jonathan**: - **Jonathan**: Agreed. The records show where the risk truly lies. I am ready to see the candidates.
+## Round 3
+- [60] **May**: - **May**: Candidates are here. Let’s see which one actually fits what we just uncovered.
+- [61] **Benjamin**: - **Benjamin**: Candidate D is tempting, but the roster books say we simply don’t have the bodies to run it.
+- [62] **Midori**: - **Midori**: Candidate B targets the mid-city, but my audits show the real loss is waiting for connections, not surface speed.
+- [63] **Shizue**: - **Shizue**: Candidate C worries me. The pre-war shells hide voids, and the contingency pricing is frighteningly high.
+- [64] **Jonathan**: Candidate A’s data gap is real, but the ledger shows the technology line is already empty.
+- [65] **May**: - **May**: @Benjamin, the ferry pilot proved the tech works. The data gap is administrative, not technical.
+- [66] **Benjamin**: @May, administrative gaps are still gaps. And I have no spare crews to fill the hours D demands.
+- [67] **Midori**: - **Midori**: @May, the data gap is real, but Candidate C’s lift work actually finished on time. That’s a proven track record.
+- [68] **Shizue**: @Midori, the lift work was on time, but the ground beneath is the true unknown. I fear the delays.
+- [69] **Jonathan**: @Shizue, the records show the lift work held its dates. The risk is in the lane work, not the stations.
+- [70] **May**: - **May**: @Jonathan, the ferry pilot closed cleanly. The data gap is a paperwork fix, not a technical wall.
+- [71] **Benjamin**: @May, I hear you, but the roster books are empty. I cannot promise hours that do not exist.
+- [72] **Midori**: - **Midori**: @Benjamin, I understand the staffing worry, but Candidate C uses the maintenance crew that actually has spare capacity.
+- [73] **Shizue**: @Midori, the spare capacity is for maintenance, not construction. The voids in the shells will swallow any schedule we set.
+- [74] **Jonathan**: @Shizue, the records show the lift work held its dates. The risk is in the lane work, not the stations.
+- [75] **May**: - **May**: @Midori, you’re right. C uses the spare capacity. I’ll vote for C, trusting the proven lift records.
+- [76] **Benjamin**: @Midori, the spare capacity is for maintenance, not construction. I cannot promise hours that do not exist.
+- [77] **Midori**: - **Midori**: @Benjamin, the maintenance contract explicitly covers these upgrades. The spare capacity is exactly what we need. I vote C.
+- [78] **Shizue**: @Benjamin, I hear your caution, but the records show the lift work held its dates. I vote C.
+- [79] **Jonathan**: @Benjamin, the records confirm the station work held its dates. The risk lies elsewhere. I vote C.
+### Vote
+- May -> C
+- Benjamin -> C
+- Midori -> C
+- Shizue -> C
+- Jonathan -> C
+## Result
+- adopted: C

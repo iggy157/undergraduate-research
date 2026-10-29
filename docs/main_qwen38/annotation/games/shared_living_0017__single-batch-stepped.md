@@ -1,0 +1,73 @@
+# shared_living_0017__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: The morning rush is becoming a physical hazard. We need to address the congestion immediately.
+- [6] **Ryuji**: Before we discuss solutions, we must understand the financial implications for the building.
+- [7] **George**: I have noticed the same flats seem to claim the best spots every time.
+- [8] **Shunichi**: We need a system that prevents social friction from escalating into conflict.
+- [9] **Mio**: Who is actually going to maintain whatever system we choose? I worry about the workload.
+- [10] **Asuka**: @Ryuji, cost is important, but safety is more urgent. We are blocking each other.
+- [11] **Ryuji**: @Asuka, if we cannot afford the fix, the problem remains. I need to check the accounts.
+- [12] **George**: I will look into the history of how these spots were assigned.
+- [13] **Shunichi**: I want to see if other buildings have faced similar issues and how they resolved them.
+- [14] **Mio**: I will check the physical effort required to manage any new setup.
+- [15] **Asuka**: The rain also damages bikes in the exposed rows. That is a maintenance issue too.
+- [16] **Ryuji**: I will review the ledger to see if we have funds for capital work.
+- [17] **George**: I will also check the minutes to see if this has been discussed before.
+- [18] **Shunichi**: I will look at the complaint log to gauge the severity of recent incidents.
+- [19] **Mio**: I will check the supplier's frame to see if it is practical for daily use.
+- [20] **Asuka**: Let us gather the facts before we vote. I will check the rain exposure.
+- [21] **Ryuji**: Agreed. I will also look at the ward cycle park as a benchmark.
+- [22] **George**: I will check the sticker register to see who actually rides daily.
+- [23] **Shunichi**: I will check the neighbouring block's account for lessons learned.
+- [24] **Mio**: I will check the treasurer's file to understand the administrative burden.
+## Round 2
+- [35] **Asuka**: I watched the mornings. Eleven bikes leave between seven and nine, and four times someone had to shift another.
+- [36] **Ryuji**: The ledger shows little capital reserve. The ward park charges 2,600 yen, and fourteen households are waiting there.
+- [37] **George**: The minutes show the same flats held covered spots for years with no review. The sticker register shows varied usage.
+- [38] **Shunichi**: The complaint log has nine entries about leaning bikes, all unresolved. The neighbouring block had arrears and absenteeism.
+- [39] **Mio**: The display frame takes twenty seconds to load and needs greasing. The treasurer spends three hours a month on cash.
+- [40] **Asuka**: @Ryuji, if the ward park is full, we cannot just tell people to go there. We need internal order.
+- [41] **Ryuji**: @Asuka, exactly. And if we charge, we need to know if it covers the cost. The ledger is thin.
+- [42] **George**: @Mio, three hours a month is significant. If we add billing, that time increases.
+- [43] **Shunichi**: @George, the neighbouring block's failure was due to arrears. We must avoid that trap.
+- [44] **Mio**: @Shunichi, I agree. The physical effort of the racks is also a concern. It is not trivial.
+- [45] **Asuka**: The rain exposure is bad. Bikes under the eaves are dry, but others get wet. This affects value.
+- [46] **Ryuji**: If we implement a paid system, the income could go to the shared account for maintenance.
+- [47] **George**: The sticker register shows some households ride daily, others rarely. A flat rule might be unfair.
+- [48] **Shunichi**: A lottery might seem fair, but it ignores the daily riders who need reliability.
+- [49] **Mio**: Shared racks might work, but who cleans them? The treasurer's time is already stretched.
+- [50] **Asuka**: We need a solution that addresses both the morning rush and the rain damage.
+- [51] **Ryuji**: A paid allocation could fund the maintenance and ensure those who use it most pay for it.
+- [52] **George**: I am concerned about the social impact. We need to be careful not to alienate residents.
+- [53] **Shunichi**: I think a paid system is the most sustainable. It aligns cost with usage.
+- [54] **Mio**: I am hesitant about the administrative burden, but if it solves the problem, it might be worth it.
+## Round 3
+- [60] **Asuka**: Option A, Paid Allocation, seems to address the financial and usage issues directly.
+- [61] **Ryuji**: I support Option A. It creates a revenue stream and prioritizes those who use the spaces.
+- [62] **George**: I have concerns about Option A, but I see the logic. Option B might be too chaotic.
+- [63] **Shunichi**: Option A is the most rational choice. It prevents the social friction I was worried about.
+- [64] **Mio**: I am still worried about the workload, but Option A seems the most structured.
+- [65] **Asuka**: @George, what are your specific concerns with Option A?
+- [66] **Ryuji**: @Mio, the treasurer's time is a concern, but the income could help offset that.
+- [67] **George**: I worry about households who cannot afford the charge. But the ward park is also expensive.
+- [68] **Shunichi**: @George, we can set a reasonable rate. The neighbouring block's issue was arrears, not the rate itself.
+- [69] **Mio**: @Ryuji, that is a good point. The income could fund the maintenance and reduce the treasurer's burden.
+- [70] **Asuka**: Option C, the lottery, seems arbitrary. It does not account for daily usage.
+- [71] **Ryuji**: Agreed. Option C is too random. Option A is more equitable for those who rely on the spaces.
+- [72] **George**: Option B, shared racks, might work if we have enough space, but we do not.
+- [73] **Shunichi**: Option B is too risky. It could lead to more conflicts over space.
+- [74] **Mio**: I agree. Option A is the best balance of fairness and practicality.
+- [75] **Asuka**: I will vote for Option A.
+- [76] **Ryuji**: I will vote for Option A.
+- [77] **George**: I will vote for Option A, with the caveat that we monitor the impact.
+- [78] **Shunichi**: I will vote for Option A.
+- [79] **Mio**: I will vote for Option A, but we need to plan for the administrative workload.
+### Vote
+- Asuka -> A
+- Ryuji -> A
+- George -> A
+- Shunichi -> A
+- Mio -> A
+## Result
+- adopted: A

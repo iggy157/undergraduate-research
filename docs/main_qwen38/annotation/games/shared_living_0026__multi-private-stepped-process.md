@@ -1,0 +1,73 @@
+# shared_living_0026__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried we’re guessing again. We need to know exactly what our fixed costs are before setting any fee.
+- [6] **Jonathan**: Agreed. But we must also look at how members feel about showing up. Hesitancy is a real cost.
+- [7] **Takumi**: I want to see who is actually doing the work. The same faces are everywhere, and it’s not fair.
+- [8] **Toshio**: The treasurer’s role is burning people out. We need to understand the administrative weight before we choose a method.
+- [9] **Kenji**: I worry that if the entry fee looks too high, new people will just stay away. We need to keep it open.
+- [10] **Mio**: @Toshio, if the admin work is too heavy, the whole system collapses. We need a stable baseline first.
+- [11] **Jonathan**: @Mio, stability is good, but if members feel they are paying for a privilege they hesitate to use, they will leave.
+- [12] **Takumi**: @Jonathan, it’s not just about leaving. It’s about the people who stay and do everything. That’s the real problem.
+- [13] **Toshio**: @Takumi, exactly. If the collection process is a nightmare, the treasurer quits. We need to minimize that friction.
+- [14] **Kenji**: @Toshio, I hear you. But if we make it too complex to join, we lose the casual members who keep the vibe friendly.
+- [15] **Mio**: So we need data on both the money and the people. Let’s split the research tasks to cover all bases.
+- [16] **Jonathan**: I will look at the attendance patterns. I want to see when the hesitation starts and how it affects turnout.
+- [17] **Takumi**: I’m going to check the sign-in sheets and the rota. I need to see the imbalance in who is actually present.
+- [18] **Toshio**: I will examine the treasurer’s logged hours and the bank statements. I need to see the true cost of the current system.
+- [19] **Kenji**: I’ll look at the taster evening forms and the mid-year joiners. I want to see what stops people from committing.
+- [20] **Mio**: That sounds like a solid plan. We’ll have a clear picture of the financials, the workload, and the member sentiment.
+- [21] **Jonathan**: Yes. Understanding the hesitation is key. If we can remove the friction of deciding to come, the club will breathe easier.
+- [22] **Takumi**: I’m not just looking for numbers. I’m looking for the truth about who is carrying the load. We can’t ignore that.
+- [23] **Toshio**: I will keep my focus on the mechanics. If the system is too hard to run, it doesn’t matter how fair it looks.
+- [24] **Kenji**: I’m hopeful. If we understand why people hesitate, we can design a fee that feels like an invitation, not a barrier.
+## Round 2
+- [35] **Mio**: I looked at the ledger and the bank statements. Seventy percent of our costs are fixed, like hall hire. We can't cut those.
+- [36] **Jonathan**: I checked the sign-in sheets and the weekday turnout. A quarter of members do two-thirds of the work. And when we charged for summer outings, weekday attendance dropped by a third.
+- [37] **Takumi**: I compared the rota to the attendance. The same nine people set up and lock up. They are the ones who show up every single time. The others are just paying a fee to be absent.
+- [38] **Toshio**: I reviewed the treasurer's hours and the bank statements. Chasing individual payments took six hours a month. A yearly collection took one. The current system is unsustainable.
+- [39] **Kenji**: I read the taster forms and the mid-year joiner records. Nine people said they wouldn't commit to a whole year. And every mid-year joiner needed a hand-worked calculation. That friction is why they hesitate.
+- [40] **Mio**: @Toshio, that six hours a month is huge. If we switch to a single yearly payment, we save that time and the money is in the bank before the year starts.
+- [41] **Jonathan**: @Mio, but @Takumi, if the heavy users pay the same as the ghosts, the heavy users will feel it’s unfair. They are doing the work.
+- [42] **Takumi**: @Jonathan, exactly. It’s not just about the money. It’s about the effort. The nine people who do everything are subsidizing the eighteen who never show up. That’s not right.
+- [43] **Toshio**: @Takumi, I agree it’s unfair, but a tiered system means more calculations, more chasing, more hours for the treasurer. We can’t afford that complexity.
+- [44] **Kenji**: @Toshio, I get the admin worry. But if the fee is a big lump sum, the tasters won’t come back. They need a low, simple way in.
+- [45] **Mio**: So we have a tension. We need the money upfront for stability, but we need to keep the door open for new people. And we need to address the fairness issue.
+- [46] **Jonathan**: The hesitation is real. When people have to weigh the cost of coming out, they don’t. We need a structure that makes belonging feel automatic, not transactional.
+- [47] **Takumi**: I’m not asking for a punishment for the ghosts. I’m asking for a system that doesn’t reward them. If they pay the same, they are free-riding on the work of the active members.
+- [48] **Toshio**: The only way to keep the admin load low is to have one payment. If we have tiers, we have to track who is in which tier, and that’s more hours.
+- [49] **Kenji**: What if the base fee is low, and the active members just... do more? The fee is for belonging, not for labor. The labor is a gift.
+- [50] **Mio**: I’m leaning towards a single, predictable fee. It covers the fixed costs, it’s easy to administer, and it’s stable. The fairness issue is real, but it’s a social problem, not a financial one.
+- [51] **Jonathan**: I’m worried that a single fee, if it’s high, will create that hesitation again. But if it’s low, it might not cover the costs. We need to find the middle.
+- [52] **Takumi**: I’m still not convinced. But I see the admin problem. If we can’t track the tiers, we can’t enforce them. So maybe the fee has to be simple, and we deal with the fairness through other means.
+- [53] **Toshio**: I’m with @Mio. The single payment is the only one that keeps the treasurer’s hours manageable. Anything else is a slow burn.
+- [54] **Kenji**: I’m with @Mio too, but only if the fee is low enough that a taster can say yes without thinking. The barrier has to be almost invisible.
+## Round 3
+- [60] **Mio**: Option A is the only one that gives us the stability we need. One payment, one time, and the money is there. No chasing, no guessing.
+- [61] **Jonathan**: Option C is the one that creates the hesitation. If I have to pay to come to the winter social, I have to weigh it. That’s the barrier we’re trying to remove.
+- [62] **Takumi**: Option B is the only one that addresses the fairness. If the heavy users pay more, they are not subsidizing the ghosts. It’s the only one that feels right.
+- [63] **Toshio**: Option B is a trap. It means the treasurer has to track who is in which tier, and that’s more hours. Option A is the only one that keeps the admin load low.
+- [64] **Kenji**: Option A is the one that keeps the door open. If the fee is low, a taster can say yes. Option C is the one that makes them think.
+- [65] **Mio**: @Toshio, I agree. The admin load is the killer. Option B is too complex. Option C is too fragmented. Option A is the only one that works.
+- [66] **Jonathan**: @Mio, but what about the hesitation? If the fee is high, people will hesitate. We need to make sure the fee is low enough that it doesn’t create a barrier.
+- [67] **Takumi**: @Mio, I’m not happy with Option A. It’s the one that rewards the ghosts. But I see the admin problem. Maybe we can deal with the fairness through other means.
+- [68] **Toshio**: @Takumi, the fairness is a social problem. The admin is a financial one. We can’t solve the social problem with a financial tool. Option A is the only one that keeps the system running.
+- [69] **Kenji**: @Toshio, I agree. The fee is for belonging, not for labor. The labor is a gift. Option A is the one that keeps the belonging simple.
+- [70] **Mio**: I’m voting for Option A. It’s the only one that gives us the stability we need. The fairness issue is real, but it’s not a financial problem.
+- [71] **Jonathan**: I’m voting for Option A, but only if the fee is low. If it’s high, it will create the hesitation we’re trying to remove.
+- [72] **Takumi**: I’m voting for Option B. It’s the only one that addresses the fairness. I know it’s more complex, but it’s the right thing to do.
+- [73] **Toshio**: I’m voting for Option A. It’s the only one that keeps the admin load low. Anything else is a slow burn.
+- [74] **Kenji**: I’m voting for Option A. It’s the one that keeps the door open. The fee has to be low, but it has to be simple.
+- [75] **Mio**: I’m glad we’re on the same page. Option A is the one that works. Let’s make sure the fee is low enough that it doesn’t create a barrier.
+- [76] **Jonathan**: I’m with you. The fee has to be an invitation, not a barrier. If it’s low, people will come. If it’s high, they will hesitate.
+- [77] **Takumi**: I’m not happy, but I see the admin problem. I’ll vote for Option A, but I want us to talk about the fairness issue later.
+- [78] **Toshio**: I’m glad we’re moving forward. Option A is the only one that keeps the system running. Let’s get on with it.
+- [79] **Kenji**: I’m happy. Option A is the one that keeps the belonging simple. Let’s make sure the fee is low enough that a taster can say yes.
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> B
+- Toshio -> A
+- Kenji -> A
+## Result
+- adopted: A

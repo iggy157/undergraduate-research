@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: The morning bottleneck is the core issue. We need data on actual usage patterns before deciding allocation.
+- [6] **Ryuji**: I agree on the bottleneck. But we must also quantify the financial impact of any solution. Cost is the missing variable in every past debate.
+- [7] **George**: I worry about fairness. Do the current spots match where bikes actually park? We need to check the sticker register.
+- [8] **Shunichi**: Fairness is easy to claim, hard to enforce. I’m more worried about the social friction. Let’s see what the complaint log says about past conflicts.
+- [9] **Mio**: I’m worried about who actually maintains the system! The last two roles just vanished. I need to know the real workload involved.
+- [10] **Asuka**: @Mio, maintenance is secondary to access. If bikes are blocked, no one can leave. We need to prioritize flow over upkeep.
+- [11] **Ryuji**: @Mio, maintenance is a recurring cost. We must calculate the long-term financial burden before assigning duties.
+- [12] **George**: @Asuka, flow matters, but resentment kills cooperation. If the same doors always get the best spots, trust erodes. We must verify the sticker register.
+- [13] **Shunichi**: @George, resentment is inevitable. I’m just checking if the complaint log shows it’s already happening. We need to know the baseline before we make it worse.
+- [14] **Mio**: @Asuka, if the system collapses, flow stops anyway! I’m checking the ledger to see if we can afford a helper, not just guess.
+- [15] **Asuka**: @George, resentment is a symptom, not the cause. If the physical layout forces collisions, no amount of goodwill fixes it. We need to observe the actual morning departures.
+- [16] **Ryuji**: @Asuka, physical layout is a capital expense. We must verify if the building account can absorb that cost before committing to structural changes.
+- [17] **George**: @Ryuji, I understand the cost concern. But I need to see the sticker register and the morning departures to verify if the current allocation is actually fair.
+- [18] **Shunichi**: @Ryuji, money doesn’t buy back broken neighborly trust. I’m checking the complaint log to see if we’re already on the edge of a social collapse.
+- [19] **Mio**: @Ryuji, I’m checking the ledger to see if we can afford a helper, not just guess.
+- [20] **Asuka**: I will examine the morning departures and the rain exposure. These factors directly determine the physical viability of the current layout.
+- [21] **Ryuji**: I will examine the building account's two-year ledger and the treasurer's handover file. I need to establish the actual financial baseline before we discuss any new expenses.
+- [22] **George**: I will examine the sticker register and the morning departures. I need to verify if the current allocation is actually fair.
+- [23] **Shunichi**: I’ll check the complaint log and the five years of minutes. I need to see if our social fabric is already fraying before we tighten the screws.
+- [24] **Mio**: I’ll check the building account's two-year ledger and the five years of association minutes. I need to see if we can afford a helper and why past roles failed.
+## Round 2
+- [35] **Asuka**: The data confirms the bottleneck. Four out of eleven departures required shifting bikes. The rain exposure also damages frames. We need a solution.
+- [36] **Ryuji**: The ledger shows capital work requires a levy. The handover file reveals billing adds three hours monthly to the treasurer’s already flat workload.
+- [37] **George**: The register shows riders prefer paying over equal claims. The morning watch confirms four shifts. I need to know if we can charge for priority spots.
+- [38] **Shunichi**: Nine complaints, zero accountability. The minutes show the same flats hoarding covered spots for five years. We’re not fixing a system; we’re just formalizing the rot.
+- [39] **Mio**: The minutes show no reviews in five years! The ledger confirms capital work needs a levy. We need a sustainable plan, not just a quick fix.
+- [40] **Asuka**: @Shunichi, hoarding is a symptom of scarcity, not malice. The rain data proves the covered spots are objectively superior. We must address the physical disparity, not just blame the residents.
+- [41] **Ryuji**: @Shunichi, hoarding is rational when scarcity is high. But @Mio, the ledger confirms capital work requires a levy. We must quantify that cost before proposing structural changes.
+- [42] **George**: @Shunichi, five years of hoarding is unacceptable. But @Asuka, rain damage is real. We need a fair, paid system to stop the shifting.
+- [43] **Shunichi**: @Asuka, calling it "scarcity" is a polite way to say we’re letting the same people win every time. I’m not blaming malice; I’m warning that this setup guarantees the next fight.
+- [44] **Mio**: @Shunichi, I agree! The minutes prove nobody checks on us. I’m worried about the physical effort of managing this. Who actually does the work?
+- [45] **Asuka**: @Mio, the rain data shows the eaves are the only viable option. We must prioritize those spots to prevent damage, regardless of who manages it.
+- [46] **Ryuji**: @Mio, the handover file shows billing adds three hours monthly. We must calculate if the levy covers that labor cost before assigning duties.
+- [47] **George**: @Mio, the register shows riders will pay. If we charge for priority, the income covers the helper. We stop the shifting and the resentment.
+- [48] **Shunichi**: @Mio, the work is just watching. The real cost is the silence. If we don’t rotate the spots, the next complaint won’t die out; it’ll explode.
+- [49] **Mio**: @George, charging riders is brilliant! But @Ryuji, three hours monthly is still a lot. Can we split that duty so it doesn’t vanish again?
+- [50] **Asuka**: @Mio, splitting duties is inefficient. The rain data proves the eaves are critical. We need a rotation system to ensure fair access to dry spots, not just more labor.
+- [51] **Ryuji**: @Mio, splitting duties increases administrative overhead. The ledger shows no surplus for extra labor. We must rely on the existing three-hour baseline to keep costs manageable.
+- [52] **George**: @Mio, I agree. The register proves riders will pay. Let’s use that income to fund the rotation and the helper. It solves the money and the fairness issues.
+- [53] **Shunichi**: @George, paid priority just buys resentment. I want rotation to keep the peace. Let’s see if the minutes support a fair, rotating schedule.
+- [54] **Mio**: @George, I love the idea! But @Ryuji, if we split the three hours, does the ledger show we can afford the extra paperwork?
+## Round 3
+- [60] **Asuka**: Option B. Open racks eliminate the morning shifting bottleneck and the rain damage disparity. It’s the only logical fix for the physical constraints.
+- [61] **Ryuji**: Option A. The ledger shows no surplus for capital work. Paid allocation generates the necessary income to cover the three-hour administrative burden without levying new costs on the building.
+- [62] **George**: Option A. The register proves riders will pay. This funds the helper and stops the shifting. It is the only fair, sustainable path.
+- [63] **Shunichi**: Option C. A lottery is blind and impartial. It prevents the wealthy from buying peace and stops the same flats from hoarding spots. It’s the only way to keep the lobby civil.
+- [64] **Mio**: Option A! It funds the helper so the work doesn’t vanish. @Ryuji, does the income cover the extra paperwork if we split the duty?
+- [65] **Asuka**: @Ryuji, income doesn’t fix physics. Option B removes the shifting bottleneck entirely. Paid spots just monetize the rain damage.
+- [66] **Ryuji**: @Asuka, Option B requires capital expenditure the ledger cannot support. Option A generates the necessary revenue to cover the three-hour administrative burden without levying new costs on the building.
+- [67] **George**: @Asuka, physics is real, but so is resentment. Option A funds the rotation and the helper. It solves the money and the fairness issues simultaneously.
+- [68] **Shunichi**: @Asuka, open racks just move the conflict to the first available slot. I’m voting C. A blind lottery prevents the wealthy from buying peace and keeps the lobby civil.
+- [69] **Mio**: @Shunichi, I hear you, but Option A actually pays for the helper! That’s the only way the work doesn’t vanish. I’m sticking with A.
+- [70] **Asuka**: @Shunichi, open racks don’t move conflict; they eliminate the bottleneck. Your lottery ignores the rain data. I stand by Option B.
+- [71] **Ryuji**: @Shunichi, a lottery ignores the financial reality. Option A generates the revenue needed to sustain the system without levying new costs on the building.
+- [72] **George**: @Shunichi, a lottery is blind, but it ignores the riders’ willingness to pay. Option A funds the helper and the rotation. It is the only sustainable, fair choice.
+- [73] **Shunichi**: @George, blind isn’t stupid. It’s the only way to stop the rich from buying the dry spots. I’m voting C to keep the peace.
+- [74] **Mio**: @Shunichi, I get the fairness worry! But without the helper, the system collapses. Option A pays for the work, so it actually lasts. I’m voting A!
+- [75] **Asuka**: @Ryuji, capital costs are irrelevant if the system fails. Option B solves the physical bottleneck. I am voting B.
+- [76] **Ryuji**: @Asuka, the ledger confirms capital work requires a levy. Option A generates the necessary income to cover the three-hour administrative burden without levying new costs on the building. I am voting A.
+- [77] **George**: @Asuka, I understand the physical argument, but the register proves riders will pay. Option A funds the helper and the rotation. I am voting A.
+- [78] **Shunichi**: @Mio, the helper is a band-aid. I’m voting C. A blind lottery is the only way to stop the rich from buying the dry spots and keep the lobby civil.
+- [79] **Mio**: @Shunichi, I hear you, but a system without a helper just dies! Option A pays for the work, so it actually lasts. I’m voting A!
+### Vote
+- Asuka -> B
+- Ryuji -> A
+- George -> A
+- Shunichi -> C
+- Mio -> A
+## Result
+- adopted: A

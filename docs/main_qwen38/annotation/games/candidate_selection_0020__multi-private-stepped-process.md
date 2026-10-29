@@ -1,0 +1,73 @@
+# candidate_selection_0020__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look at the past. What became of the last three internal rollouts?
+- [6] **Daisuke**: I worry about the source. Let us check the capital budget and software allowance.
+- [7] **Sakura**: I am curious about the ground. Who is free to build? In-house developer availability.
+- [8] **Ryuji**: I need to see the damage. Misrouted deliveries in the incident logs.
+- [9] **Asuka**: I need to know who works. Staffing of the coordination group.
+- [10] **Servas**: @Daisuke, money is important, but history teaches us more about survival.
+- [11] **Daisuke**: @Servas, history is nice, but if the pocket is empty, nothing happens.
+- [12] **Sakura**: @Ryuji, if the deliveries are wrong, the whole plan falls apart, right?
+- [13] **Ryuji**: @Sakura, exactly. The floor suffers when the data is wrong.
+- [14] **Asuka**: @Sakura, if no one is available, the plan is just a dream.
+- [15] **Servas**: We should also see the record of cross-unit standardization efforts.
+- [16] **Daisuke**: I will stick to the budget. It is the only thing I can control.
+- [17] **Sakura**: I will look at the network coverage at customer plants. It feels risky.
+- [18] **Ryuji**: I will also check the time lost to copying existing records.
+- [19] **Asuka**: I will also look at the handling of vendor queries. It eats up hours.
+- [20] **Servas**: Let us see what the past tells us before we spend the future.
+- [21] **Daisuke**: I am quiet, but the numbers do not lie. I will check the allowance.
+- [22] **Sakura**: I hope the network is ready. I do not like surprises.
+- [23] **Ryuji**: I will count the seconds lost. That is where the truth is.
+- [24] **Asuka**: I will count the people. That is where the pain is.
+## Round 2
+- [35] **Servas**: The file is open. The last three rollouts show a clear pattern of survival.
+- [36] **Daisuke**: I found the pocket. The capital line is frozen, but the software allowance has room.
+- [37] **Sakura**: I found the ground. The developers are busy, and the network is weak.
+- [38] **Ryuji**: I found the waste. Eleven misrouted deliveries, and an hour a day lost to copying.
+- [39] **Asuka**: I found the people. Two clerks do the work of five, and they are tired.
+- [40] **Servas**: @Daisuke, the allowance is good, but the pattern says narrow tools survive.
+- [41] **Daisuke**: @Servas, the licence pricing climbs with every head. The fixed-fee work is flat.
+- [42] **Sakura**: @Ryuji, if the network drops, the copying gets worse, doesn't it?
+- [43] **Ryuji**: @Sakura, yes. The copying is manual because the network is not trusted.
+- [44] **Asuka**: @Sakura, if the developers are busy, who writes the new code?
+- [45] **Servas**: The standardization efforts failed because they had no owner. We must pick one.
+- [46] **Daisuke**: I am worried. The real bill often arrives with next year's renewal notice.
+- [47] **Sakura**: I am worried. The customer plants are not our home. We cannot control them.
+- [48] **Ryuji**: I am not worried. I am counting. The copying is the biggest leak.
+- [49] **Asuka**: I am not worried. I am counting. The clerks are the biggest risk.
+- [50] **Servas**: We have the facts. Let us look at the candidates with clear eyes.
+- [51] **Daisuke**: I will look for the one that does not grow. The one that stays small.
+- [52] **Sakura**: I will look for the one that does not depend on the network.
+- [53] **Ryuji**: I will look for the one that stops the copying. That is the real win.
+- [54] **Asuka**: I will look for the one that does not add work to the clerks.
+## Round 3
+- [60] **Servas**: Candidate A is a hub. Hubs need owners. We have no owner.
+- [61] **Daisuke**: Candidate B is a tool. Tools need licences. Licences climb with every head.
+- [62] **Sakura**: Candidate D is an app. Apps need networks. The networks are weak.
+- [63] **Ryuji**: Candidate A stops the copying. The copying is the biggest leak.
+- [64] **Asuka**: Candidate B adds work. The clerks are already tired.
+- [65] **Servas**: @Ryuji, A stops the copying, but it is too wide. It will fail.
+- [66] **Daisuke**: @Servas, B is narrow. It is a fixed-fee build. The cost is flat.
+- [67] **Sakura**: @Daisuke, B is narrow, but it needs the developers. The developers are busy.
+- [68] **Ryuji**: @Sakura, A is wide, but it is the only one that touches the floor.
+- [69] **Asuka**: @Ryuji, A is wide, but it is the only one that does not add work.
+- [70] **Servas**: The pattern says narrow tools survive. B is narrow. A is wide.
+- [71] **Daisuke**: The pocket says B is affordable. The capital is frozen, but the allowance has room.
+- [72] **Sakura**: The ground says D is risky. The network is weak. The developers are busy.
+- [73] **Ryuji**: The floor says A is the answer. The copying is the waste. The waste is the loss.
+- [74] **Asuka**: The people say B is the risk. The clerks are the risk. The risk is the failure.
+- [75] **Servas**: We must choose the one that survives. The one that is narrow.
+- [76] **Daisuke**: I choose the one that does not grow. The one that stays small.
+- [77] **Sakura**: I choose the one that does not depend on the network. The one that is safe.
+- [78] **Ryuji**: I choose the one that stops the copying. The one that is real.
+- [79] **Asuka**: I choose the one that does not add work. The one that is kind.
+### Vote
+- Servas -> B
+- Daisuke -> B
+- Sakura -> B
+- Ryuji -> A
+- Asuka -> B
+## Result
+- adopted: B

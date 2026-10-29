@@ -1,0 +1,73 @@
+# shared_living_0019__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **George**: We need to stop guessing. The silence lately is worse than the noise.
+- [6] **Toshio**: Agreed. The current method consumes more time than the driving itself.
+- [7] **Victoria**: I worry about the car’s condition when I arrive. It feels neglected.
+- [8] **Misaki**: We need data. Guessing leads to resentment. Let’s look at the facts.
+- [9] **Minato**: I just want to know the real cost. It feels unfair to guess.
+- [10] **George**: I want to understand why we drift apart. Let’s check our past attempts.
+- [11] **Toshio**: I will examine the hours recorded. I need to see the administrative burden.
+- [12] **Victoria**: I need to know the car’s state at handover. That is my main fear.
+- [13] **Misaki**: I will look at the fuel receipts. I need to see the actual spend.
+- [14] **Minato**: I will check the tax and insurance papers. I need the fixed costs.
+- [15] **George**: @Misaki, do you think the numbers will fix the mood?
+- [16] **Toshio**: @George, numbers clarify. They do not fix mood, but they stop arguments.
+- [17] **Victoria**: @Toshio, if the car is dirty, the numbers don't matter to me.
+- [18] **Misaki**: @George, clarity reduces stress. I believe in the process.
+- [19] **Minato**: @Victoria, I understand. But we need the baseline first.
+- [20] **George**: Let’s proceed. I will look into what other households did.
+- [21] **Toshio**: I will also check the mechanic's remarks. Maintenance affects usage.
+- [22] **Victoria**: I will check the state of the car at handover.
+- [23] **Misaki**: I will also check the fuel receipts.
+- [24] **Minato**: I will also check the fuel receipts.
+## Round 2
+- [35] **George**: I found that asking favours sours groups. We must avoid that trap.
+- [36] **Toshio**: My diary shows usage is wildly uneven. Weekends are triple the weekday load.
+- [37] **Victoria**: I found the car is often dirty or low on fuel. It feels disrespectful.
+- [38] **Misaki**: The fuel receipts show a huge imbalance. Two people drive far more than the rest.
+- [39] **Minato**: The fixed costs are high, but the fuel split is very uneven. It hurts to see.
+- [40] **George**: @Misaki, that imbalance explains the tension. We need a fairer system.
+- [41] **Toshio**: @George, yes. The coordination cost is high because usage is so variable.
+- [42] **Victoria**: @Toshio, the variable usage makes the car unreliable for my specific needs.
+- [43] **Misaki**: @George, I agree. A flat split subsidises the heavy users. That is unfair.
+- [44] **Minato**: @Misaki, I feel the same. The heavy users should pay more for the fuel.
+- [45] **George**: We need a model that doesn't require constant asking. That is the key.
+- [46] **Toshio**: I need a system that minimizes the time spent calculating who owes what.
+- [47] **Victoria**: I need a guarantee. I need to know the car is ready for me.
+- [48] **Misaki**: I need a system where cost follows usage. No hidden subsidies.
+- [49] **Minato**: I need a system that feels honest. I don't want to feel like a burden.
+- [50] **George**: Let’s look at the options. I want to protect our friendship.
+- [51] **Toshio**: I will support the option that reduces administrative friction the most.
+- [52] **Victoria**: I will support the option that guarantees my access and the car's state.
+- [53] **Misaki**: I will support the option that ties cost directly to individual usage.
+- [54] **Minato**: I will support the option that feels most fair and transparent to everyone.
+## Round 3
+- [60] **George**: Option A seems best. It removes the need to ask favours.
+- [61] **Toshio**: Option A is efficient. The calendar handles the scheduling, and the distance handles the cost.
+- [62] **Victoria**: Option B is risky. If I am allotted a day, I still don't know the car's state.
+- [63] **Misaki**: Option A is the only one that ties cost to usage. It is the fairest.
+- [64] **Minato**: Option A feels honest. I like that we pay for what we use.
+- [65] **George**: @Victoria, Option A requires us to log the car's state. Can we trust that?
+- [66] **Toshio**: @George, we can add a simple checklist to the booking. It takes seconds.
+- [67] **Victoria**: @Toshio, a checklist is a start. But I need a guarantee of fuel.
+- [68] **Misaki**: @Victoria, the cost follows the fuel used. If you use it, you pay for it.
+- [69] **Minato**: @Misaki, that makes sense. It feels very fair to me.
+- [70] **George**: I am concerned about the friction of logging. But it is better than asking.
+- [71] **Toshio**: The friction is minimal. It is far less than the current arguments.
+- [72] **Victoria**: I am still hesitant. But if the state is logged, I can plan better.
+- [73] **Misaki**: I am confident in Option A. It solves the subsidy problem.
+- [74] **Minato**: I feel safe with Option A. It is transparent and clear.
+- [75] **George**: I will vote for A. It protects our social dynamic.
+- [76] **Toshio**: I will vote for A. It minimizes the administrative burden.
+- [77] **Victoria**: I will vote for A. It offers the most structure for my needs.
+- [78] **Misaki**: I will vote for A. It ensures costs are tied to usage.
+- [79] **Minato**: I will vote for A. It feels the most honest and fair.
+### Vote
+- George -> A
+- Toshio -> A
+- Victoria -> A
+- Misaki -> A
+- Minato -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0020__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: The informal system failed because we never measured the actual time cost. I want to know the real hours before we commit.
+- [6] **Benjamin**: Minako, measuring time is sensible, but it ignores who is actually present. I’d like to check the absences on the wall calendar first.
+- [7] **Sakura**: I’m picking the bathroom grout after the July scrub and what each housemate counts as done!
+- [8] **Shizue**: I’d like to check the bathroom spray stock and the tin's receipts. I worry about who is paying for these supplies lately.
+- [9] **Servas**: I choose the note left by the previous tenants and the rows recorded in the house chat.
+- [10] **Minako**: @Benjamin, presence matters, but I need the baseline hours first. I’ll time a full pass and watch kitchen use for a fortnight.
+- [11] **Benjamin**: Fair point. I’ll stick with the calendar and the house chat logs to see if the workload actually matches who’s home.
+- [12] **Sakura**: I’m curious if the grout is secretly glowing! I’ll check the grout and the "done" definitions.
+- [13] **Shizue**: I’ll also look into the management office rate sheet and billing. I want to see if we can bundle these costs properly.
+- [14] **Servas**: I’ll also review the standard terms of the outside firm. Understanding their expectations helps us set realistic, fair boundaries for everyone.
+- [15] **Minako**: @Sakura, your definitions are key. If "done" is vague, my timing data is useless. We need clear standards to make the hours meaningful.
+- [16] **Benjamin**: @Minako, agreed. Without clear standards, your stopwatch is just measuring chaos. I’ll keep watching the calendar to see if absence correlates with effort.
+- [17] **Sakura**: @Minako, exactly! If we agree on what "done" means, my stopwatch won't just be a fancy toy. I’ll make sure the rules are super clear!
+- [18] **Shizue**: @Sakura, I agree. Clear standards help everyone. I’ll keep checking the receipts to see who is actually paying for the supplies.
+- [19] **Servas**: @Sakura, clarity is the foundation of peace. When we define "done" together, we honor each other’s effort and prevent resentment from quietly taking root.
+- [20] **Minako**: I’ll finalize my choices: stopwatch timing and a fortnight’s watch on kitchen use. These will give us the concrete data we need.
+- [21] **Benjamin**: I’ll finalize my choices: the absences on the wall calendar and the rows recorded in the house chat.
+- [22] **Sakura**: I’m locking in the bathroom grout and the "done" definitions! I want to know exactly what "finished" means so I don’t have to guess anymore.
+- [23] **Shizue**: I’ll finalize my choices: the bathroom spray stock and the tin's receipts, plus the management office rate sheet and billing.
+- [24] **Servas**: I finalize my choices: the note left by the previous tenants and the rows recorded in the house chat.
+## Round 2
+- [35] **Minako**: The data is clear. A full pass takes one hour and two minutes. The kitchen load is heavily skewed. We need to address this imbalance.
+- [36] **Benjamin**: @Minako, your hour is useful, but my calendar shows two people vanish for weeks. We can’t bill ghosts for the work.
+- [37] **Sakura**: @Minako, one hour is long! @Benjamin, ghosts are scary. I found the grout spots return in eleven days because the bathroom is stuffy!
+- [38] **Shizue**: @Minako, one hour is a long time. @Benjamin, I found the receipts show we spend 2,300 yen monthly, often buying duplicates.
+- [39] **Servas**: @Minako, @Benjamin, your data shows the strain. I found the previous tenants stopped speaking after rigid rules. Let’s avoid that silence.
+- [40] **Minako**: @Benjamin, absence is a variable, not an excuse. @Sakura, eleven days is a cycle. @Shizue, duplicates waste money. We need a system that accounts for all three.
+- [41] **Benjamin**: @Minako, absence is a variable, but the chat logs show resentment starts when reminders replace rotation. We need a system that accounts for presence, not just time.
+- [42] **Sakura**: @Benjamin, I found "done" means different things! Some just wipe the basin, others scrub the floor. That’s why it feels random to me!
+- [43] **Shizue**: @Sakura, that explains the mess. @Minako, the office charges 4,200 yen an hour. We must stop wasting money on duplicates.
+- [44] **Servas**: @Benjamin, @Sakura, you’ve identified the root. Resentment grows in the gap between expectation and reality. Let’s build a system that protects our friendships, not just our floors.
+- [45] **Minako**: @Sakura, your definitions are the missing piece. @Shizue, 4,200 yen is steep. We need a plan that respects the 62-minute reality and the skewed kitchen load.
+- [46] **Benjamin**: @Minako, presence is the denominator. If two people vanish, the remaining three carry double the load. We must weight the rotation by actual availability, not just calendar dates.
+- [47] **Sakura**: @Benjamin, weighting by presence sounds smart! But if "done" is vague, even a fair rotation fails. We need clear rules first!
+- [48] **Shizue**: @Benjamin, weighting by presence is wise. @Minako, 4,200 yen is steep. I want to know exactly who pays for supplies monthly, so no one is left out of pocket.
+- [49] **Servas**: @Benjamin, @Sakura, presence and clarity are vital. But remember the previous tenants’ silence. Let’s ensure our rules protect our ability to speak kindly, not just clean efficiently.
+- [50] **Minako**: @Benjamin, weighting by presence is logical. @Sakura, clear definitions are non-negotiable. We need a system that respects the 62-minute reality and the skewed kitchen load.
+- [51] **Benjamin**: @Minako, agreed. @Sakura, clarity is essential. @Servas, let’s ensure the system remains flexible enough to prevent the silence you warned about.
+- [52] **Sakura**: @Benjamin, I agree! @Servas, kindness is key. I want a checklist so I know exactly what to do, no more guessing!
+- [53] **Shizue**: @Minako, @Benjamin, I agree. @Sakura, a checklist is lovely. I just need to know who pays for the 2,300 yen in supplies each month.
+- [54] **Servas**: @Benjamin, flexibility is wisdom. @Shizue, shared costs prevent hidden resentment. Let us design a system that keeps our voices open and our friendships warm.
+## Round 3
+- [60] **Minako**: @Benjamin, Option A fails because it ignores your absence data. Option C fails because it ignores the skewed kitchen load. Option B is the only one that removes the hours entirely.
+- [61] **Benjamin**: @Minako, Option B ignores the 2,300 yen waste and the 4,200 yen cost. Option A is rigid. Option C respects presence, but needs clear definitions to work.
+- [62] **Sakura**: @Minako, Option B is expensive! @Benjamin, Option C is scary. I want Option A with a checklist so I know exactly what "done" means!
+- [63] **Shizue**: @Minako, Option B is too costly. @Benjamin, Option C feels unfair. I prefer Option A, but we must agree on who pays for the supplies monthly.
+- [64] **Servas**: @Minako, @Benjamin, @Sakura, @Shizue, Option A offers structure, but let us add a monthly check-in to ensure our voices remain open and our friendships stay warm.
+- [65] **Minako**: @Benjamin, cost is a variable, not a barrier. @Sakura, a checklist is essential. @Shizue, shared costs are fair. Option A, with clear definitions, is the only logical choice.
+- [66] **Benjamin**: @Minako, cost is a variable, but 4,200 yen is steep. Option A is rigid, but Option C respects presence. We need clear definitions to make either work.
+- [67] **Sakura**: @Minako, I love the checklist idea! @Benjamin, Option A feels safest. I just want to know exactly what to scrub so I don’t have to guess anymore!
+- [68] **Shizue**: @Minako, I agree. Option A is best. @Benjamin, please ensure the 2,300 yen supply cost is split fairly so no one is left out of pocket.
+- [69] **Servas**: @Minako, @Benjamin, @Sakura, @Shizue, Option A, with a monthly check-in, protects our friendships. Let us vote for structure that keeps our voices open and our bonds strong.
+- [70] **Minako**: @Benjamin, your presence data is valid, but Option C leaves the skewed kitchen load unaddressed. Option A, with clear definitions, is the only logical choice.
+- [71] **Benjamin**: @Minako, Option C’s flexibility handles absence better than A’s rigidity. But I concede A is safer if we add clear definitions. I’ll vote A.
+- [72] **Sakura**: @Benjamin, yay! Option A with a checklist is perfect! I can finally stop guessing what "done" means. I’m voting A!
+- [73] **Shizue**: @Benjamin, I am glad you agree. I will vote for Option A, provided we settle the supply costs fairly each month.
+- [74] **Servas**: @Benjamin, I agree. Option A, with our monthly check-in, preserves our bonds. I vote A, trusting we will keep speaking kindly to one another.
+- [75] **Minako**: @Benjamin, I accept the compromise. Option A with clear definitions and presence weighting is the only logical path. I vote A.
+- [76] **Benjamin**: @Minako, agreed. Option A, weighted by presence and defined by clear standards, is the logical choice. I vote A.
+- [77] **Sakura**: @Minako, yay! Option A is perfect! I’m so happy we have a checklist now. No more guessing! I vote A!
+- [78] **Shizue**: @Minako, I am so happy we found a gentle path. I vote for Option A, trusting we will share the costs kindly.
+- [79] **Servas**: @Minako, I vote A. May this structure serve us well, keeping our doors open and our hearts connected for the year ahead.
+### Vote
+- Minako -> A
+- Benjamin -> A
+- Sakura -> A
+- Shizue -> A
+- Servas -> A
+## Result
+- adopted: A

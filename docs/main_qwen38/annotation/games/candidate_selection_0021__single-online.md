@@ -1,0 +1,73 @@
+# candidate_selection_0021__single-online (candidate_selection)
+
+## Round 1
+- [5] **Servas**: Before we rank the science, we must ask who is actually here to do the work.
+- [6] **Sakura**: I agree! But I also wonder if the money we get actually buys the same things it used to.
+- [7] **Daisuke**: I’m not sure. I just want to know if our past guesses about what works have actually held up.
+- [8] **Takumi**: I’m worried about all the delays that happen before the science even starts.
+- [9] **Minako**: I am concerned about the shared facilities and services that support all these projects.
+- [10] **Servas**: @Sakura, your point about shrinking value is sharp. Let us look at the ledgers and the staffing rolls to see the truth.
+- [11] **Sakura**: I’ll check the travel and bench-fee lines in the ledgers, and the national computing agreement and facility day rates!
+- [12] **Daisuke**: I’ll look into the closeout files of finished awards and the portfolio review of schedule overruns.
+- [13] **Takumi**: I’ll check the incident logs on shared instrumentation and the portfolio review of schedule overruns.
+- [14] **Minako**: I’ll check the accreditation and bookings at shared facilities, and the minutes on secondments and crew strength.
+- [15] **Servas**: I will examine the staffing rolls for technical posts and the minutes on secondments and crew strength.
+- [16] **Sakura**: I’m all set! I’ll stick with my two choices. Let’s see what the numbers say!
+- [17] **Daisuke**: I’ll stick with my choices. I hope the records are clear enough to answer my questions.
+- [18] **Takumi**: I’ll stick with my choices. I need to know exactly where the bottlenecks are before we commit.
+- [19] **Minako**: I’ll stick with my choices. The current state of those services is the foundation we’re building on.
+- [20] **Servas**: I will examine the staffing rolls for technical posts and the minutes on secondments and crew strength.
+- [21] **Sakura**: I’m ready! Let’s see what the numbers say!
+- [22] **Daisuke**: I’ll stick with my choices. I hope the records are clear enough to answer my questions.
+- [23] **Takumi**: I’ll stick with my choices. I need to know exactly where the bottlenecks are before we commit.
+- [24] **Minako**: I’ll stick with my choices. The current state of those services is the foundation we’re building on.
+## Round 2
+- [35] **Servas**: #### Turn 1 of 4
+- [36] **Sakura**: - **Sakura**: Wow, the computing hours are free now! But the animal day rates jumped way up after the rebuild.
+- [37] **Daisuke**: #### Turn 1 of 4
+- [38] **Takumi**: #### Turn 1 of 4
+- [39] **Minako**: - **Minako**: The animal facility is accredited with vet cover, but the glasshouses are fully booked for two more cycles.
+- [40] **Servas**: The modelling analysts are gone until autumn, but the glasshouse crew stayed. That is a strange mix of loss and stability.
+- [41] **Sakura**: @Takumi, did you find out why the spectroscopy suite was idle? That sounds like a huge waste of time!
+- [42] **Daisuke**: I found that breeding-based projects overran twice as often as computational ones. It confirms my worry about live colonies.
+- [43] **Takumi**: @Sakura, the service contract lapsed, so it sat idle for eleven weeks. One engineer now covers three institutes.
+- [44] **Minako**: @Daisuke, that overrun pattern is critical. It suggests we should avoid projects dependent on live breeding colonies entirely.
+- [45] **Servas**: @Minako, the glasshouse crew’s stability is a blessing. We must weigh that against the modelling analysts’ absence carefully.
+- [46] **Sakura**: @Daisuke, that’s scary! But wait, the repository is fast now, so cataloging projects won’t get stuck waiting for deposits anymore!
+- [47] **Daisuke**: @Sakura, the repository speed helps, but the closeout files show catalogue awards still drawing users a decade later. That longevity is what I value.
+- [48] **Takumi**: @Minako, the glasshouse being booked solid is a red flag. If we pick a plant project, we might be waiting years for space.
+- [49] **Minako**: @Takumi, the booking pressure is real, but the crew is stable. We must weigh that against the spectroscopy risk you found.
+- [50] **Servas**: The hands are the foundation. We must ensure the science matches the people who remain, not the ones who left.
+- [51] **Sakura**: - **Sakura**: @Servas, exactly! We need to match the science to the people who are actually here, not the ones who left.
+- [52] **Daisuke**: - **Daisuke**: I agree. The data shows computational projects are safer, but I worry about the long-term value of the results.
+- [53] **Takumi**: @Minako, the spectroscopy risk is real, but the glasshouse bottleneck is immediate. We cannot fund a project that cannot start.
+- [54] **Minako**: @Takumi, I hear you. But the animal facility is ready. We must balance the immediate glasshouse blockage against the long-term spectroscopy fragility.
+## Round 3
+- [60] **Servas**: The candidates are before us. Let us weigh their needs against the hands and hours we actually possess.
+- [61] **Sakura**: - **Sakura**: @Daisuke, the Microbiome Atlas fits perfectly! The repository is fast, and it’s a catalogue project that lasts forever!
+- [62] **Daisuke**: #### Turn 1 of 4
+- [63] **Takumi**: - **Takumi**: @Sakura, the Microbiome Atlas avoids the spectroscopy trap, but does it need the glasshouse space that is already full?
+- [64] **Minako**: - **Minako**: @Takumi, it relies on field sites, not glasshouses. The records show those sites lost seasons to weather, though.
+- [65] **Servas**: - **Servas**: @Minako, field loss is a risk, but the Microbiome Atlas needs no scarce animal units or idle spectroscopy. It fits our current stability.
+- [66] **Sakura**: - **Sakura**: @Servas, yes! And the free computing hours help with the sequence analysis. It’s the safest bet for us!
+- [67] **Daisuke**: - **Daisuke**: I hesitate. The closeout files show catalogue awards endure, but I fear we are ignoring the deeper mechanistic questions.
+- [68] **Takumi**: -Takumi: @Daisuke, the mechanism projects stalled in the past. The Microbiome Atlas avoids those delays and uses the fast repository.
+- [69] **Minako**: - **Minako**: @Daisuke, the field site losses are a concern, but the indoor holding rooms remained stable. The risk is manageable.
+- [70] **Servas**: - **Servas**: @Daisuke, your caution is wise, but the hands we have now favor the catalogue. We must fund what can actually be completed.
+- [71] **Sakura**: - **Sakura**: @Daisuke, but the data says the plain ones kept earning their keep! Let’s trust the records, not just the fancy ideas!
+- [72] **Daisuke**: I understand your points. The records do show the catalogue endures, but I worry we are settling for safety over genuine discovery.
+- [73] **Takumi**: @Daisuke, I hear you, but the spectroscopy suite is broken and the glasshouses are full. We can't fund a dream we can't execute.
+- [74] **Minako**: @Daisuke, I respect your caution. But the infrastructure simply cannot support the other options right now. We must fund what is executable.
+- [75] **Servas**: - **Servas**: The vote is clear. We fund the Microbiome Atlas, matching our stable hands and fast repository to a lasting catalogue.
+- [76] **Sakura**: - **Sakura**: Yes! The Microbiome Atlas it is! I’m so happy we picked the one that actually works!
+- [77] **Daisuke**: - **Daisuke**: I accept the decision. The records support the choice, even if I miss the deeper questions.
+- [78] **Takumi**: - **Takumi**: Agreed. The Microbiome Atlas is the only one we can actually finish without hitting a wall.
+- [79] **Minako**: - **Minako**: Agreed. The Microbiome Atlas is the only candidate that aligns with our current infrastructure and staffing reality.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

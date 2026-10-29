@@ -1,0 +1,73 @@
+# shared_living_0026__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried we’re guessing again. Last year’s numbers felt shaky, and I don’t want to set fees blind.
+- [6] **Jonathan**: The evenings feel heavier lately. People hesitate before coming out. I’d like to understand why that changed.
+- [7] **Takumi**: It’s always the same dozen faces doing everything. I want to see who’s actually carrying the load.
+- [8] **Toshio**: I need to know what the bookkeeping job really costs in time before we pick a collection method.
+- [9] **Kenji**: I worry about how visible the new rules will be. Newcomers need to feel they can drift in easily.
+- [10] **Mio**: @Toshio, if the job is too heavy, maybe the fee structure should make it easier?
+- [11] **Jonathan**: @Takumi, if the same people do everything, does that mean others feel less ownership?
+- [12] **Takumi**: @Jonathan, exactly. If they don’t show up, why should they pay the same?
+- [13] **Toshio**: @Mio, I’m looking at the hours. If chasing money takes six hours a month, that’s a problem.
+- [14] **Kenji**: I just want to make sure we don’t scare people off with complicated tiers or charges.
+- [15] **Mio**: I think we need to look at the actual costs first. No point arguing about fees if we don’t know the baseline.
+- [16] **Jonathan**: I agree. But I also want to see if the hesitation is about the money or the social pressure.
+- [17] **Takumi**: I’m going to check the sign-in sheets. I bet the numbers are worse than we think.
+- [18] **Toshio**: I’ll look at the treasurer’s logs and the bank statements. I need to see the effort involved.
+- [19] **Kenji**: I’ll look at the taster forms and the mid-year joiners. I want to see why people hesitate to commit.
+- [20] **Mio**: Okay, let’s go look at the data. I’ll check the ledger and the bank statements to see where the money goes.
+- [21] **Jonathan**: I’ll look at the weekday turnout and the winter social feedback. I want to see the social side.
+- [22] **Takumi**: I’ll check the sign-in sheets and the rota. I need to see the imbalance clearly.
+- [23] **Toshio**: I’ll look at the treasurer’s hours and the mid-year joiner records. I need to see the administrative burden.
+- [24] **Kenji**: I’ll look at the taster forms and the winter social feedback. I want to understand the newcomer experience.
+## Round 2
+- [35] **Mio**: Whoa, seventy percent of our costs are fixed! Hall hire and insurance don’t care if we show up. That’s a lot of dead weight.
+- [36] **Jonathan**: I found something interesting. When we charged for summer outings, weekday turnout dropped by a third. People stopped feeling those evenings were theirs.
+- [37] **Takumi**: I checked the sheets. A quarter of us do two-thirds of the work. And the same nine people set up and lock up. It’s not fair.
+- [38] **Toshio**: The treasurer’s logs are brutal. Chasing individual payments takes six hours a month. A yearly collection takes one. That’s a huge difference.
+- [39] **Kenji**: The taster forms are clear. People don’t want to commit to a whole year at once. And the quiet members feel uneasy about the cost per visit.
+- [40] **Mio**: @Toshio, so if we charge per event, the admin nightmare gets worse?
+- [41] **Jonathan**: @Mio, yes. And it kills the community feel. The weekday drop proves it.
+- [42] **Takumi**: @Toshio, so a flat fee is the only way to keep the admin low? But then the non-attendees are subsidizing the regulars.
+- [43] **Toshio**: @Takumi, it’s a trade-off. Low admin vs. fairness. But six hours a month is unsustainable for the next treasurer.
+- [44] **Kenji**: @Mio, what if we have a base fee, but keep it low? And maybe a small charge for big events?
+- [45] **Mio**: A base fee covers the fixed costs. That makes sense. But if we charge for events, we’re back to the admin problem.
+- [46] **Jonathan**: I’m worried about the social cost. If people have to weigh up every evening, they’ll stop coming.
+- [47] **Takumi**: I hate that the same nine people are doing everything. But if we charge per event, they’ll just stop doing the setup.
+- [48] **Toshio**: The mid-year joiners needed hand-worked calculations. That’s a pain. A flat fee avoids that.
+- [49] **Kenji**: The taster forms say people don’t want a whole year commitment. But a flat fee is a whole year commitment.
+- [50] **Mio**: I think we need to balance the fixed costs with the social feel. A flat fee is simplest, but maybe too rigid.
+- [51] **Jonathan**: I lean towards a flat fee. It preserves the sense of belonging. The hesitation is about the social pressure, not the money.
+- [52] **Takumi**: I’m still angry about the imbalance. But I see the admin point. Maybe we can address the work distribution separately?
+- [53] **Toshio**: I agree with Jonathan. The admin burden of activity-based charging is too high. A flat fee is the only sustainable option.
+- [54] **Kenji**: I’m torn. The taster forms are a warning. But if we don’t have a clear structure, people will drift away.
+## Round 3
+- [60] **Mio**: Option A seems the most stable. It covers the fixed costs without the admin headache.
+- [61] **Jonathan**: I support A. It keeps the evenings feeling like they belong to everyone. No hesitation.
+- [62] **Takumi**: I’m not happy with A. It ignores the imbalance. But C is worse for the admin. B might be a compromise?
+- [63] **Toshio**: B is complicated. The minute books show friction with named grades. I think A is the safest bet.
+- [64] **Kenji**: B might help the newcomers. They can choose a lower level. But it makes the structure very visible.
+- [65] **Mio**: @Takumi, B might create the same friction as the old grades. I don’t want to go back to that.
+- [66] **Jonathan**: @Kenji, B makes the differences in participation very clear. That might hurt the sense of community.
+- [67] **Takumi**: @Mio, I hear you. But A feels like a cop-out. We’re just hiding the problem.
+- [68] **Toshio**: @Takumi, the problem is the work distribution, not the fee. We can fix the rota separately.
+- [69] **Kenji**: I think A is the best for keeping the door open. It’s simple and invisible.
+- [70] **Mio**: I’m voting A. It’s the only one that doesn’t break the admin or the social feel.
+- [71] **Jonathan**: I’m voting A. It preserves the quiet kindness of the club.
+- [72] **Takumi**: I’m voting B. I want to see if we can make the participation levels fairer.
+- [73] **Toshio**: I’m voting A. The admin burden of C is too high, and B is too risky.
+- [74] **Kenji**: I’m voting A. It’s the least disruptive. We can address the other issues later.
+- [75] **Mio**: Okay, let’s vote. I hope we can move forward with A.
+- [76] **Jonathan**: Agreed. Let’s keep it simple.
+- [77] **Takumi**: I’m still not convinced, but I’ll go with the majority.
+- [78] **Toshio**: A is the pragmatic choice. Let’s go with it.
+- [79] **Kenji**: A it is. Let’s hope it works.
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> B
+- Toshio -> A
+- Kenji -> A
+## Result
+- adopted: A

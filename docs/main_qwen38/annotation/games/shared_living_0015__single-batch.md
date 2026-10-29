@@ -1,0 +1,73 @@
+# shared_living_0015__single-batch (shared_living)
+
+## Round 1
+- [5] **Servas**: The old split feels heavy. I want to know what the air actually costs us.
+- [6] **Midori**: We need to stop guessing. Let’s look at the real numbers from last year.
+- [7] **Minato**: I am curious why the bill changes so much. Who uses the most?
+- [8] **May**: I need to see the full year before I agree to anything new.
+- [9] **Daisuke**: I worry about who has to do the math every month.
+- [10] **Servas**: @May, yes, the winter months are the real test for us.
+- [11] **Midori**: @Daisuke, that is a fair point. The process matters as much as the price.
+- [12] **Minato**: I think we should check the rooms. Maybe some use more heat.
+- [13] **May**: I will look at the statements. I need to see the spikes.
+- [14] **Daisuke**: I will check the logs. I want to see how long it takes.
+- [15] **Servas**: Let us not let fear of the cold dictate our choices.
+- [16] **Midori**: Agreed. We should look at the kitchen notice too. It tells a story.
+- [17] **Minato**: I will look at the sunlight. It seems important for heating.
+- [18] **May**: I will also check the electrician quote. I need to know the upfront cost.
+- [19] **Daisuke**: I will look at the trial run. I want to see the workload.
+- [20] **Servas**: Thank you. Let us see what the data says.
+- [21] **Midori**: I hope this brings us closer, not further apart.
+- [22] **Minato**: I am ready to learn. Let us see the facts.
+- [23] **May**: Let’s get this sorted out properly.
+- [24] **Daisuke**: Okay. I will do my part.
+## Round 2
+- [35] **Servas**: The winter habits show people stop counting when the rate is fixed.
+- [36] **Midori**: The payment log shows delays when people question the amounts.
+- [37] **Minato**: The rooms are very different. Some need heat much earlier.
+- [38] **May**: The electrician quote is high. 34,000 yen per room is a lot.
+- [39] **Daisuke**: The trial run took forever. Keying in every invoice is too much work.
+- [40] **Servas**: @May, that quote is steep. But the fixed rate might save us stress.
+- [41] **Midori**: @Daisuke, if the template is too hard, we need a simpler way.
+- [42] **Minato**: @Servas, if we fix the rate, will we waste energy?
+- [43] **May**: I am worried about the upfront cost. Can we afford that now?
+- [44] **Daisuke**: I don’t want to be the one doing the math for hours.
+- [45] **Servas**: The statements show huge swings. February is nearly three times August.
+- [46] **Midori**: The kitchen notice shows people avoiding the cooler to avoid arguments.
+- [47] **Minato**: The monitor shows one room uses four times more than another.
+- [48] **May**: The swings are real. A flat share would be unfair in winter.
+- [49] **Daisuke**: The other house took forty minutes just to log readings.
+- [50] **Servas**: We need a system that doesn’t punish the careful.
+- [51] **Midori**: We need a system that doesn’t create resentment.
+- [52] **Minato**: I think fairness is important. But so is peace.
+- [53] **May**: I prefer knowing exactly what I pay, but the cost is high.
+- [54] **Daisuke**: I just want it to be simple and quick.
+## Round 3
+- [60] **Servas**: Option B, Seasonal Fixed Rate, seems to reduce the daily anxiety.
+- [61] **Midori**: Option C, Flat Share, is simplest, but it ignores the big swings.
+- [62] **Minato**: Option A, Per-Room Metering, is fair but expensive and complex.
+- [63] **May**: Option B looks good if we can agree on the seasonal figures.
+- [64] **Daisuke**: Option B seems to have the least ongoing work for anyone.
+- [65] **Servas**: @May, yes, the fixed rate lets us relax in winter.
+- [66] **Midori**: @Daisuke, I agree. Less work means less friction.
+- [67] **Minato**: I am a little worried about the year-end settlement.
+- [68] **May**: The year-end settlement is a one-time task. I can handle that.
+- [69] **Daisuke**: As long as it’s not every month, I am fine.
+- [70] **Servas**: The winter habits card showed people don’t worry about small switches.
+- [71] **Midori**: That is a good sign. It means we can trust each other.
+- [72] **Minato**: I hope the year-end settlement goes smoothly.
+- [73] **May**: We can use a simple template for the year-end.
+- [74] **Daisuke**: I will help with the year-end if needed.
+- [75] **Servas**: Let us vote for the option that brings the most peace.
+- [76] **Midori**: I am ready to vote.
+- [77] **Minato**: I am ready too.
+- [78] **May**: Let’s do this.
+- [79] **Daisuke**: Okay.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

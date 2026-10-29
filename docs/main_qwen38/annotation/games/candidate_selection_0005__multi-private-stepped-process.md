@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I worry about how easily our plans break when weather or roads change unexpectedly.
+- [6] **Benjamin**: We always debate the novelty, but ignore the archives of what actually failed before.
+- [7] **Shion**: Before we pick a service, we must verify if the staff actually possess the required skills.
+- [8] **Minako**: The initial budget looks fine, but I suspect the recurring costs will crush us later.
+- [9] **Daisuke**: I am concerned that new schedules might make it harder for people to reach us.
+- [10] **Yumi**: @Benjamin, do you think looking at past failures will help us avoid repeating them?
+- [11] **Benjamin**: @Yumi, absolutely. If we don't read the post-mortems, we are just guessing in the dark.
+- [12] **Shion**: @Minako, financial stability is key, but a budget without the right people is just a liability.
+- [13] **Minako**: @Shion, agreed. I need to see how the funding is structured, not just the total amount.
+- [14] **Daisuke**: I think we should check where the buildings are relative to the people who need them.
+- [15] **Yumi**: I want to see how the roads behave in winter, especially north of the river.
+- [16] **Benjamin**: I will pull the records from the two programmes we started six years ago.
+- [17] **Shion**: I need to check the volunteer register and the supervision training logs.
+- [18] **Minako**: I will examine the county grant terms and the endowment details.
+- [19] **Daisuke**: I will look at the bus links in the two outer wards.
+- [20] **Yumi**: It feels safer to know the ground conditions before we promise to show up.
+- [21] **Benjamin**: History is the only honest witness in this room, so I will let it speak.
+- [22] **Shion**: If the skills aren't there, the service is a fantasy. I will check the roster.
+- [23] **Minako**: I need to know if the money is a gift or a trap with strings attached.
+- [24] **Daisuke**: If the bus doesn't run, the library door is closed for half the neighborhood.
+## Round 2
+- [35] **Yumi**: The roads closed eleven days, but the community halls kept their evening timetables running without interruption.
+- [36] **Benjamin**: The digitisation batch from six years ago is still unindexed, yet the evening groups remain self-sustaining.
+- [37] **Shion**: The volunteers run the repair clinic, but no staff member is trained to supervise outside facilitators.
+- [38] **Minako**: The grant covers contracted session fees for twelve months, then the flat operating budget carries them.
+- [39] **Daisuke**: The bus link in the outer wards was cut, so residents now face an hour's round trip.
+- [40] **Yumi**: @Benjamin, if the evening groups are self-sustaining, maybe we should lean on that instead of new staff.
+- [41] **Benjamin**: @Yumi, exactly. The records show the staff-heavy model bled resources, while the community-led one held.
+- [42] **Shion**: @Minako, if the grant ends, we are stuck with a service we cannot supervise.
+- [43] **Minako**: @Shion, the equipment line was under budget, but the running costs overran by a third.
+- [44] **Daisuke**: I am worried that the new schedule will make it even harder for people in the outer wards to reach us.
+- [45] **Yumi**: The delivery windows are risky, but the community halls seem to have their own reliable evening infrastructure.
+- [46] **Benjamin**: The data is clear: the staff-heavy model failed, but the community-led evening groups succeeded.
+- [47] **Shion**: The volunteers are ready, but the supervision gap is a serious risk we cannot ignore.
+- [48] **Minako**: The funding shape is the problem. The grant is a one-year bridge, not a permanent foundation.
+- [49] **Daisuke**: If we rely on the community halls, we might actually reach the people the bus cut off.
+- [50] **Yumi**: I feel much better knowing the community halls can keep their timetables even when the roads close.
+- [51] **Benjamin**: The archives confirm that the community-led model is the only one that has survived the test of time.
+- [52] **Shion**: I am confident the volunteers can handle the work, but we need a clear supervision plan.
+- [53] **Minako**: I am convinced that the community-led model is the only one that fits our long-term funding shape.
+- [54] **Daisuke**: I am relieved that the community halls can keep their evening timetables, even when the roads close.
+## Round 3
+- [60] **Yumi**: Option D is risky because the roads close, but the community halls can keep their evening timetables running.
+- [61] **Benjamin**: Option B is a repeat of the failed digitisation batch, which is still unindexed and a waste of resources.
+- [62] **Shion**: Option A is the only one where the volunteers are already trained and ready to run the sessions.
+- [63] **Minako**: Option A is the only one that fits our long-term funding shape, as the equipment line was under budget.
+- [64] **Daisuke**: Option D is the only one that reaches the people in the outer wards who lost their bus link.
+- [65] **Yumi**: @Daisuke, I understand the need to reach the outer wards, but the road closures make Option D too fragile.
+- [66] **Benjamin**: @Shion, the records show that the community-led model is the only one that has survived the test of time.
+- [67] **Shion**: @Minako, the volunteers are ready, but we need a clear supervision plan to mitigate the risk.
+- [68] **Minako**: @Yumi, the community halls can keep their evening timetables, so Option A is the safest bet.
+- [69] **Daisuke**: I am worried that Option A will not reach the people in the outer wards who are most in need.
+- [70] **Yumi**: I am convinced that Option A is the only one that fits our long-term funding shape and is resilient to road closures.
+- [71] **Benjamin**: The archives confirm that Option A is the only one that has survived the test of time and is self-sustaining.
+- [72] **Shion**: I am confident that Option A is the only one where the volunteers are already trained and ready to run the sessions.
+- [73] **Minako**: I am convinced that Option A is the only one that fits our long-term funding shape and is resilient to road closures.
+- [74] **Daisuke**: I am worried that Option A will not reach the people in the outer wards who are most in need, but I will support it.
+- [75] **Yumi**: I am ready to vote for Option A, as it is the most resilient and sustainable choice.
+- [76] **Benjamin**: I am ready to vote for Option A, as it is the only one that has survived the test of time.
+- [77] **Shion**: I am ready to vote for Option A, as it is the only one where the volunteers are already trained.
+- [78] **Minako**: I am ready to vote for Option A, as it is the only one that fits our long-term funding shape.
+- [79] **Daisuke**: I am ready to vote for Option A, as it is the most resilient and sustainable choice, even if it doesn't reach everyone.
+### Vote
+- Yumi -> A
+- Benjamin -> A
+- Shion -> A
+- Minako -> A
+- Daisuke -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I worry about the long-term viability of any new program we select today.
+- [6] **Shion**: We need to know if previous initiatives actually worked before spending more.
+- [7] **Midori**: I am concerned about how the workload will be distributed among our staff.
+- [8] **Kenji**: I am worried if the new program will fit into our current daily schedule.
+- [9] **Shizue**: I have seen many good ideas fail in the second year, so I am cautious.
+- [10] **Jonathan**: Agreed. We must look at the financial reality, not just the promise.
+- [11] **Shion**: @Midori, do you think the current staffing levels can support another major change?
+- [12] **Midori**: @Shion, that is exactly my fear. The rosters are already stretched thin.
+- [13] **Kenji**: @Shizue, I agree. If the booking system crashes, we are in trouble.
+- [14] **Shizue**: @Kenji, yes. I want to see what the records actually say about past failures.
+- [15] **Jonathan**: I will look into the ledger to see what is truly available.
+- [16] **Shion**: I will check the readmission figures to see if the trial helped anyone.
+- [17] **Midori**: I will review the staffing records to see where the pressure is highest.
+- [18] **Kenji**: I will check the booking system and the physical room availability.
+- [19] **Shizue**: I will look at the board minutes and the data agreements with outside surgeries.
+- [20] **Jonathan**: Let us see what the numbers say before we commit to anything.
+- [21] **Shion**: Silence is often the loudest indicator of a failed project.
+- [22] **Midori**: I hope we can find a balance that does not burn out the team.
+- [23] **Kenji**: I just want to make sure the doors don't jam when we open them.
+- [24] **Shizue**: I will keep a gentle eye on the details that others might overlook.
+## Round 2
+- [35] **Jonathan**: The ledger shows our development allocation is down by nearly a quarter this year.
+- [36] **Shion**: The call-back trial cut readmissions by a fifth, but only while it was running.
+- [37] **Midori**: The therapy review shows four years of physiotherapists leaving, but midwifery has slack.
+- [38] **Kenji**: The booking system has no slot for walk-ins, and the car park is full by eleven.
+- [39] **Shizue**: The board minutes show a joint clinic closed in a year because no one owned the rota.
+- [40] **Jonathan**: @Shion, that readmission drop is good, but it stopped when the trial ended.
+- [41] **Shion**: @Jonathan, yes. It proves the model works, but it also proves it needs a permanent home.
+- [42] **Midori**: @Shizue, that joint clinic failure is exactly what I fear. Who will own the new rota?
+- [43] **Kenji**: @Midori, if the car park is full, the new patients cannot even get to the door.
+- [44] **Shizue**: @Midori, I agree. The data agreements with outside surgeries took fourteen months to sign.
+- [45] **Jonathan**: The tariffs are the key. On-site sessions bill at the standard outpatient rate.
+- [46] **Shion**: The booking system records only named slots. Unrecorded work vanishes from the reports.
+- [47] **Midori**: The midwifery slack is real. We could absorb the new program without agency cover.
+- [48] **Kenji**: The shuttle misses fifteen villages. If the program is for them, it will not reach them.
+- [49] **Shizue**: The outside surgery agreement is the bottleneck. It will take fourteen months to sign.
+- [50] **Jonathan**: So the on-site model is the only one that earns back its cost.
+- [51] **Shion**: The unrecorded work is the real problem. We need a system that captures it.
+- [52] **Midori**: The midwifery slack is the only staffing pool that can absorb the new program.
+- [53] **Kenji**: The car park and shuttle are the real barriers. We need to fix the access first.
+- [54] **Shizue**: The outside surgery agreement is the real bottleneck. We need to sign it before we start.
+## Round 3
+- [60] **Jonathan**: Option B is the only one that bills at the standard outpatient rate.
+- [61] **Shion**: Option A is the only one that addresses the readmission problem we just saw.
+- [62] **Midori**: Option C is the only one that uses the midwifery slack I found in the review.
+- [63] **Kenji**: Option D is the only one that fits into the existing booking system without new slots.
+- [64] **Shizue**: Option C is the only one that does not depend on an outside body to sign a contract.
+- [65] **Jonathan**: @Shion, the readmission drop is real, but the home visits do not bill anything.
+- [66] **Shion**: @Jonathan, the billing is a problem, but the patient outcome is the point.
+- [67] **Midori**: @Shizue, I agree. The midwifery slack is the only staffing pool that can absorb the new program.
+- [68] **Kenji**: @Midori, but the car park is full by eleven. How will the parents get there?
+- [69] **Shizue**: @Kenji, the shuttle misses fifteen villages. But the midwifery slack is the only real option.
+- [70] **Jonathan**: The ledger shows the development allocation is down by a quarter. Option B is the only one that earns back its cost.
+- [71] **Shion**: The booking system records only named slots. Option A is the only one that addresses the readmission problem.
+- [72] **Midori**: The midwifery slack is real. Option C is the only one that uses the midwifery slack I found in the review.
+- [73] **Kenji**: The car park is full by eleven. Option D is the only one that fits into the existing booking system.
+- [74] **Shizue**: The outside surgery agreement is the bottleneck. Option C is the only one that does not depend on an outside body.
+- [75] **Jonathan**: I will vote for Option B. It is the only one that is financially viable.
+- [76] **Shion**: I will vote for Option A. It is the only one that addresses the readmission problem.
+- [77] **Midori**: I will vote for Option C. It is the only one that uses the midwifery slack.
+- [78] **Kenji**: I will vote for Option D. It is the only one that fits into the existing booking system.
+- [79] **Shizue**: I will vote for Option C. It is the only one that does not depend on an outside body.
+### Vote
+- Jonathan -> B
+- Shion -> A
+- Midori -> C
+- Kenji -> D
+- Shizue -> C
+## Result
+- adopted: C

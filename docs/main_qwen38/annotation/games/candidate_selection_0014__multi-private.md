@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: I’d rather look at the scars than the promises. Let’s start by checking the condition of works from the earlier programme.
+- [6] **Misaki**: I agree with Benjamin. The ground here is unpredictable. I’ll check the regional firms tendering for earth-moving to see who can actually deliver.
+- [7] **Mio**: I’m worried about the long-term bills! I’ll check the upkeep ledger spend per hectare and the groundskeeping roll to see the real costs.
+- [8] **Asuka**: I need to know who actually maintains this. I’ll check the groundskeeping roll and bought-in services to see the staffing reality.
+- [9] **Minako**: I’ll check the drainage callouts and August heat readings. The ground’s behavior dictates what survives, not the brochure.
+- [10] **Benjamin**: Misaki, checking who bids is fine, but I’d rather see who actually finished the last job. Did you find any red flags in those tenders?
+- [11] **Misaki**: Not yet. I’m just starting. I need to see if their past delivery dates match their promises before I trust them.
+- [12] **Mio**: @Benjamin, I’m not done digging yet! But I’m already seeing some scary numbers in the upkeep ledger. Let’s keep going!
+- [13] **Asuka**: I’m not finished yet. I need to see if the bought-in services are actually staffed or just paper promises.
+- [14] **Minako**: I’m still reviewing the drainage logs. The heat data is crucial for plant survival. Let’s wait for the facts before we speculate.
+- [15] **Benjamin**: Mio, those ledger numbers are exactly the kind of evidence I value. If the bills are climbing, the drawings are just expensive fiction.
+- [16] **Misaki**: I’m still reviewing the tender documents. I need to verify if their past delivery dates match their promises before I trust them.
+- [17] **Mio**: @Benjamin, thank you! I’m so glad you agree. I really need to know if these plans are just expensive traps for the city’s future budget!
+- [18] **Asuka**: I’m still verifying the service contracts. I need to confirm if the staff actually show up, not just if they’re listed on paper.
+- [19] **Minako**: I’m still cross-referencing the heat spikes with drainage failures. The ground’s behavior dictates what survives, not the brochure.
+- [20] **Benjamin**: I’ll examine the condition of works from the earlier programme and the terms of the regional habitat fund.
+- [21] **Misaki**: I’ll examine the depot phasing notes on hoarding the site and the record of the eastern avenue planting.
+- [22] **Mio**: I’ll examine the volunteer groups working with the division and the timed counts of weekday crossings.
+- [23] **Asuka**: I’ll examine the groundskeeping roll and bought-in services. I need to know who actually shows up to maintain this place, week in and week out.
+- [24] **Minako**: I’ll examine the drainage callouts and August heat readings. I need to know if the ground can actually support the proposed layout before we commit.
+## Round 2
+- [35] **Benjamin**: The basin survived; the apron didn’t. And the fund won’t pay for paving. We’re building a garden, not a plaza.
+- [36] **Misaki**: The hoarding limits are clear. The southern ground can be staged, but the centre and gate cannot. This dictates our phasing.
+- [37] **Mio**: Wow, triple the cost! And only seven staff left? That’s terrifying. @Asuka, how are you managing with so few people?
+- [38] **Asuka**: Seven staff cannot cover this. The bought-in services are a stopgap, not a solution. We need a plan that doesn’t rely on ghosts.
+- [39] **Minako**: The data is clear. Drainage failures doubled, and heat spikes are severe. People stick to firm ground. We must design for that reality, not against it.
+- [40] **Benjamin**: Misaki, your phasing constraints align with my findings. If the fund excludes hard surfaces, we must prioritize planting. Let’s not waste money on pavement that will crack.
+- [41] **Misaki**: Benjamin, the planting record is grim. Half died from neglect. We need a contractor who guarantees aftercare, not just digging.
+- [42] **Mio**: @Misaki, that’s so sad! But wait, if planting costs triple, maybe we should focus on hard surfaces? I’m worried about the budget!
+- [43] **Asuka**: Mio, hard surfaces are cheaper now, but they fail later. With seven staff, we cannot maintain complex planting. We need a design that survives neglect, not one that demands constant care.
+- [44] **Minako**: Asuka is right. The heat and drainage data prove complex planting will fail. We need robust, low-maintenance species that tolerate the actual ground conditions, not idealized designs.
+- [45] **Benjamin**: Mio, hard surfaces are exactly what the fund forbids. We can’t pave what we can’t afford. Focus on the planting that actually survives.
+- [46] **Misaki**: Mio, the fund excludes hard surfaces. We must plant, but only with guaranteed aftercare. The eastern avenue proves neglect kills trees.
+- [47] **Mio**: @Benjamin, I’m so confused! If planting is expensive and hard surfaces are banned, what is left? I’m scared the city can’t afford this!
+- [48] **Asuka**: Mio, the answer is simplicity. We choose low-maintenance species that survive neglect. We cannot afford complex care with seven staff.
+- [49] **Minako**: Mio, the ground dictates the design. We need species that handle the heat and drainage failures. Simplicity is not a compromise; it is the only viable path forward.
+- [50] **Benjamin**: Mio, breathe. The fund pays for water and plants. We choose species that ignore neglect. No pavement, no panic. Just resilient green.
+- [51] **Misaki**: Mio, the phasing allows the south to work while the park stays open. We just need a firm that won’t vanish.
+- [52] **Mio**: @Benjamin, resilient green sounds lovely! But with only seven staff, who actually waters it? I’m still worried about those triple costs!
+- [53] **Asuka**: Mio, the casual pool handles weekends. We need a design that requires minimal intervention. If it needs daily attention, it will die.
+- [54] **Minako**: Mio, the drainage data confirms it. We need plants that thrive in wet, hot conditions. Simplicity is survival, not a budget cut.
+## Round 3
+- [60] **Benjamin**: Option A is a fantasy; the fund bans paving. Option D ignores the heat. We need resilience, not concrete.
+- [61] **Misaki**: Option C ignores the drainage reality. Option B’s dense planting risks the eastern avenue’s fate. We need a firm that guarantees aftercare, not just digging.
+- [62] **Mio**: @Benjamin, I’m terrified! Option C’s water sounds expensive to maintain with only seven staff. Is it really affordable long-term?
+- [63] **Asuka**: Option C is a maintenance nightmare. Seven staff cannot manage complex water systems. Option B is viable if we choose hardy species that survive neglect.
+- [64] **Minako**: Option C fights the doubled drainage failures. Option B’s dense trees will die from heat. We need robust, low-maintenance species that match the ground’s actual behavior.
+- [65] **Benjamin**: Misaki, dense planting is a gamble. The fund pays for water, not just trees. Option C aligns with the basin’s success. Let’s not repeat the apron’s failure.
+- [66] **Misaki**: Benjamin, the fund pays for water, but the ground rejects it. Option C fights the drainage data. Option B is safer if we guarantee aftercare.
+- [67] **Mio**: @Benjamin, wait! If the fund pays for water, maybe Option C is actually cheaper than I thought? I’m still scared of the upkeep bills!
+- [68] **Asuka**: Mio, the fund covers initial costs, not the endless labor. With seven staff, Option C is a trap. Option B is the only one we can actually sustain.
+- [69] **Minako**: Mio, the heat data kills dense trees. Option C fights the drainage reality. We need a design that survives the ground’s actual behavior, not a brochure.
+- [70] **Benjamin**: Minako, you’re right. The basin survived because it worked with the water, not against it. Option C is the only one that respects the fund and the ground.
+- [71] **Misaki**: Minako, the drainage data is undeniable. Option C fights the ground. Option B is viable if we secure a contractor who guarantees aftercare, unlike the eastern avenue.
+- [72] **Mio**: @Benjamin, but if the fund pays for water, isn’t Option C actually cheaper than I feared? I’m still worried about those triple upkeep bills!
+- [73] **Asuka**: Mio, the fund covers construction, not the daily labor. With seven staff, Option C is an unmanageable burden. Option B is the only realistic choice.
+- [74] **Minako**: Benjamin, the basin survived because it drained, not because it held water. Option C traps the very failures I documented. We must respect the ground’s actual behavior, not the brochure.
+- [75] **Benjamin**: Minako, you’re right. The basin drained; it didn’t hold. Option C traps the failures. Option B, with hardy species, respects the ground and the fund. I vote B.
+- [76] **Misaki**: Benjamin, I agree. Option B is the only viable path. We must secure a contractor who guarantees aftercare, unlike the eastern avenue. I vote B.
+- [77] **Mio**: @Benjamin, I’m still scared of the bills! But if it’s the only option that won’t bankrupt us later, I’ll trust you. I vote B!
+- [78] **Asuka**: Option B is the only plan seven staff can sustain. Hardy species require minimal intervention, unlike water systems. I vote B.
+- [79] **Minako**: The data confirms it. Option B respects the heat and drainage reality. It is the only plan that survives the ground’s actual behavior. I vote B.
+### Vote
+- Benjamin -> B
+- Misaki -> B
+- Mio -> B
+- Asuka -> B
+- Minako -> B
+## Result
+- adopted: B

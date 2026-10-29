@@ -1,0 +1,73 @@
+# shared_living_0025__single-batch (shared_living)
+
+## Round 1
+- [5] **Mio**: I hate doing math before turning on the lights. Let's fix this so we can just live.
+- [6] **Ryuji**: I need to see the actual numbers before we agree to anything. I am not guessing.
+- [7] **Rin**: Who is going to do the paperwork? I don't want it to be me every month.
+- [8] **Shunichi**: The old split is broken. We need to know who is actually using what.
+- [9] **Misaki**: I just want us to stop avoiding each other over money. It’s getting weird.
+- [10] **Mio**: @Ryuji, if we don't look at the data, how do we know what's fair?
+- [11] **Ryuji**: @Mio, exactly. I want to see the history. I am checking the statements.
+- [12] **Rin**: @Shunichi, if we meter rooms, who reads the meters? That is a job.
+- [13] **Shunichi**: @Rin, someone has to. I want to see the plug-in monitor data.
+- [14] **Misaki**: I will look at the payment log. I want to see where the friction is.
+- [15] **Mio**: I will check the sunlight and heating needs. It feels unfair right now.
+- [16] **Ryuji**: I will also look at the electrician's quote. I need to know the cost.
+- [17] **Rin**: I will look at the trial run of the reconciliation template.
+- [18] **Shunichi**: I will look at the settling up when the last rooms filled.
+- [19] **Misaki**: I will look at the kitchen notice about the cooler. It shows the tension.
+- [20] **Mio**: Okay. Let's see what we find. I hope it’s simple.
+- [21] **Ryuji**: It rarely is. But we will know.
+- [22] **Rin**: I hope it doesn't take all my evenings.
+- [23] **Shunichi**: We will see.
+- [24] **Misaki**: Let's just get it done.
+## Round 2
+- [35] **Mio**: The rooms are so different. Two need heat from November, the others don't.
+- [36] **Ryuji**: The bills swing wildly. February was 29,000, August was 9,000. A flat rate is risky.
+- [37] **Rin**: The template is a nightmare. Keying in every invoice takes hours.
+- [38] **Shunichi**: One room uses four times the energy of another. The old split is definitely wrong.
+- [39] **Misaki**: The payment log shows late payments after arguments. The cooler notice shows people sweating to save money.
+- [40] **Mio**: @Ryuji, if the bills swing that much, a fixed rate might hurt us in winter.
+- [41] **Ryuji**: @Mio, yes. But the electrician quote is 34,000 yen per room. That is a lot upfront.
+- [42] **Rin**: @Shunichi, if one room uses so much, shouldn't they pay more? But who tracks it?
+- [43] **Shunichi**: @Rin, the monitor data is clear. But fitting meters is expensive.
+- [44] **Misaki**: @Mio, I saw the cooler notice. People are afraid to use things. That is bad.
+- [45] **Mio**: I don't want to sit in a coat. But I don't want to pay for someone else's heater.
+- [46] **Ryuji**: The upfront cost for meters is high. Maybe we can't afford that right now.
+- [47] **Rin**: The monthly settle at the other house took forty minutes. I don't want that.
+- [48] **Shunichi**: The settling up when rooms filled took three weeks. That is a mess.
+- [49] **Misaki**: We need something that doesn't cause fights. But also doesn't let people waste.
+- [50] **Mio**: What are the options?
+- [51] **Ryuji**: I am still weighing the cost of meters against the risk of fixed rates.
+- [52] **Rin**: I am leaning away from anything that requires constant manual tracking.
+- [53] **Shunichi**: I want fairness, but not at the cost of constant conflict.
+- [54] **Misaki**: I just want us to be able to talk again.
+## Round 3
+- [60] **Mio**: Option A is seasonal fixed. Option B is meters. Option C is flat share.
+- [61] **Ryuji**: Option B is fair but expensive. Option A is risky given the bill swings.
+- [62] **Rin**: Option C is simple but unfair if usage varies. Option B is too much work.
+- [63] **Shunichi**: Option B is the only one that reflects reality. But the cost is high.
+- [64] **Misaki**: Option C might be the least conflict, even if it's not perfectly fair.
+- [65] **Mio**: I like the idea of meters, but the cost scares me.
+- [66] **Ryuji**: I am worried about the 34,000 yen per room. That is 170,000 yen total.
+- [67] **Rin**: I can't do the monthly logging. It's too much work.
+- [68] **Shunichi**: If we don't meter, we are just guessing. But if we do, we need to pay.
+- [69] **Misaki**: I think we should avoid the option that causes the most administrative burden.
+- [70] **Mio**: What if we do a seasonal fixed rate? It's predictable.
+- [71] **Ryuji**: The difference is settled at the end of the year. That could be a big bill.
+- [72] **Rin**: At least it's not monthly work. But the year-end bill could be huge.
+- [73] **Shunichi**: It's a compromise. But it doesn't solve the usage disparity.
+- [74] **Misaki**: It might be the best we can do without spending a fortune.
+- [75] **Mio**: I am leaning towards A. It's predictable and doesn't require meters.
+- [76] **Ryuji**: I am hesitant, but B is too expensive. A is the next best thing.
+- [77] **Rin**: I will vote for A. I can't do the work for B.
+- [78] **Shunichi**: I would prefer B, but I can't justify the cost. I will vote A.
+- [79] **Misaki**: I will vote A. It reduces the friction.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> A
+- Misaki -> A
+## Result
+- adopted: A

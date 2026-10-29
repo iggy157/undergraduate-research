@@ -1,0 +1,73 @@
+# shared_living_0024__single-online (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost before we commit. Let's look at the offshore house pricing and the all-in rates.
+- [6] **Shunichi**: I’m done with the logistics. I want to see how last year’s days actually ran and what the ferry schedule looks like.
+- [7] **Asuka**: I need to understand the payment structure. I’ll look into what separately booked rooms cost last time and the all-in rates.
+- [8] **Takumi**: I need to know the bathing hours and how the inn rooms are arranged.
+- [9] **Toshio**: I want to understand the group dynamic. I’ll look into time alone in the shared-house year and how last year’s days ran.
+- [10] **Rin**: @Shunichi, if the ferry eats two days, that’s a huge chunk of our week gone before we even start.
+- [11] **Shunichi**: @Rin, I know. That’s exactly why I’m checking it. I need to see if the train option saves us that time.
+- [12] **Asuka**: @Takumi, knowing the room layout helps, but I need to know if the money is fixed or variable.
+- [13] **Takumi**: @Asuka, I’m not worried about the yen. I’m worried about where I wash and when I have to sit down.
+- [14] **Toshio**: @Takumi, the layout matters, but I’m trying to understand why we felt disconnected. Did the shared house actually isolate us?
+- [15] **Rin**: @Toshio, if we’re all in one house, we can’t just vanish. I need to know if that’s a good thing or a trap.
+- [16] **Shunichi**: @Rin, it’s not a trap, it’s a constraint. I’m checking if the train option gives us back those lost days.
+- [17] **Asuka**: @Rin, a single bill prevents the quiet imbalances we’ve had. I’m checking the all-in rates to see if that solves it.
+- [18] **Takumi**: @Rin, I’m not vanishing, I’m sleeping. I need to know if I can wash without waiting for the whole house.
+- [19] **Toshio**: @Takumi, I’m not asking you to vanish. I’m asking if the structure itself caused the distance.
+- [20] **Rin**: @Toshio, I’m just saying, if I can’t get a moment to myself, I’ll be grumpy. I need to know if that’s possible before I agree.
+- [21] **Shunichi**: @Rin, I’m not promising you solitude, just a shorter transit. I’m checking the train times to see if we keep more of the week.
+- [22] **Asuka**: @Rin, a single bill prevents the quiet imbalances we’ve had. I’m checking the all-in rates to see if that solves it.
+- [23] **Takumi**: @Rin, I’m not asking for a private suite. I just need to know if I can wash without waiting for the whole house.
+- [24] **Toshio**: @Rin, I’m checking if the structure itself caused the distance. If the house isolates us, I need to know that before we book.
+## Round 2
+- [35] **Rin**: #### Turn 1 of 4
+- [36] **Shunichi**: #### Turn 1 of 4
+- [37] **Asuka**: - **Asuka**: The separate bookings varied by eight thousand yen. The all-in rate is flat. I prefer the flat rate.
+- [38] **Takumi**: #### Turn 1 of 4
+- [39] **Toshio**: - **Toshio**: Last year we barely met. The shared house gave us nowhere to be alone. I need to understand that gap.
+- [40] **Rin**: #### Turn 2 of 4
+- [41] **Shunichi**: - **Shunichi**: The ferry eats two days. The train takes ninety minutes. I’m done losing a third of the week to transit.
+- [42] **Asuka**: - **Asuka**: @Shunichi, the train saves time, but the flat rate saves money. I need both to work.
+- [43] **Takumi**: -Takumi: Baths open until midnight, but the island house has one bathroom for everyone. I can’t sleep if I’m waiting for hot water.
+- [44] **Toshio**: @Takumi, the shared house had no private space. The town has streets. I need to know if the structure caused the distance.
+- [45] **Rin**: - **Rin**: @Asuka, the flat rate is perfect. I hate surprises. But @Takumi, one bathroom for five people sounds like a nightmare.
+- [46] **Shunichi**: @Rin, the train is ninety minutes. The ferry is two days. I’m not spending a third of the holiday on a boat.
+- [47] **Asuka**: @Rin, the flat rate is logical, but I need to know if the inn’s fixed mealtimes will clash with our schedule.
+- [48] **Takumi**: @Asuka, dinner at six is fine. I just need to know if I can wash without waiting for the whole house.
+- [49] **Toshio**: @Takumi, the town has public baths and streets. You can wash and walk alone without the house feeling like a cage.
+- [50] **Rin**: @Takumi, one bathroom for five people is a disaster. I need my own space to breathe, not a queue for hot water.
+- [51] **Shunichi**: @Rin, the train is ninety minutes. The ferry is two days. I’m not spending a third of the holiday on a boat.
+- [52] **Asuka**: @Rin, the flat rate covers the cost, but the inn’s fixed mealtimes might clash with our schedule. I need to know if that flexibility exists.
+- [53] **Takumi**: @Rin, the inn has private baths. I don’t have to queue. I just need to know if I can sit somewhere that isn’t a bed.
+- [54] **Toshio**: @Rin, the town offers streets and public baths. You can step out for air without leaving the group entirely.
+## Round 3
+- [60] **Rin**: The options are out. I’m leaning toward the hot spring town. The flat rate means no surprises, and I won’t be stuck in a one-bathroom house.
+- [61] **Shunichi**: The train takes ninety minutes. The ferry takes two days. I’m not losing a third of the week to transit.
+- [62] **Asuka**: The flat rate eliminates the payment ambiguity. I support the hot spring town for its predictable costs and structure.
+- [63] **Takumi**: Dinner at six, breakfast at half seven. I can wash until midnight. I’m voting for the hot spring town.
+- [64] **Toshio**: The town has streets and public baths. We can be together without being trapped. I’m voting for the hot spring town.
+- [65] **Rin**: @Shunichi, ninety minutes is nothing compared to two days. I’m glad we’re not stuck on a boat.
+- [66] **Shunichi**: @Rin, agreed. Ninety minutes is a commute, not a vacation. I’m done with the ferry.
+- [67] **Asuka**: - **Asuka**: @Rin, exactly. Predictability is the only way to avoid the quiet imbalances we’ve had before.
+- [68] **Takumi**: -Takumi: @Rin, I’m glad too. No ferry, no queue. Just a bath and a quiet corner.
+- [69] **Toshio**: @Rin, the streets let us breathe without breaking the group. That balance is what I needed.
+- [70] **Rin**: - **Rin**: @Toshio, I’m glad we’re not trapped in one house. I can still get my moment to myself.
+- [71] **Shunichi**: @Rin, the train is ninety minutes. The ferry is two days. I’m not spending a third of the holiday on a boat.
+- [72] **Asuka**: - **Asuka**: @Rin, precisely. The structure handles the money, so we don’t have to manage it.
+- [73] **Takumi**: -Takumi: @Rin, exactly. I can wash whenever I want and sit in a corner. No waiting, no crowding.
+- [74] **Toshio**: @Rin, the streets let us step out without breaking the group. That balance is what I needed.
+- [75] **Rin**: @Toshio, I’m voting for the hot spring town. No surprises, no queues, and I can still get some air.
+- [76] **Shunichi**: @Rin, agreed. The train is ninety minutes. The ferry is two days. I’m not spending a third of the holiday on a boat.
+- [77] **Asuka**: @Rin, the flat rate settles the money. I’m voting for the hot spring town.
+- [78] **Takumi**: @Rin, I’m voting for the hot spring town. I can wash and sleep without waiting.
+- [79] **Toshio**: @Rin, I’m voting for the hot spring town. The streets give us space without breaking the group.
+### Vote
+- Rin -> B
+- Shunichi -> B
+- Asuka -> B
+- Takumi -> B
+- Toshio -> B
+## Result
+- adopted: B

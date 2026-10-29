@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I’m a bit worried the ground might be tricky. Has anyone checked if the soil is stable enough for digging?
+- [6] **May**: Minato, that’s a fair worry. But honestly, I’m more curious about the long-term price tag. Who’s paying for the upkeep once the ribbon is cut?
+- [7] **Shizue**: I’ve seen many beautiful plans fade away. I’d like to see what our older projects look like now, rather than just the drawings.
+- [8] **Victoria**: I’m concerned about who will actually maintain this place daily. The staffing rota seems thin. Who is responsible for the weekly upkeep?
+- [9] **Shunichi**: Shizue, checking the past is wise, but I’m more worried about the ground itself. If the soil fights us, no amount of history helps.
+- [10] **Minato**: @Shunichi, I agree. The ground is tricky. I want to check the firms tendering for earth-moving and the depot phasing notes.
+- [11] **May**: @Minato, the ground is a headache, but the budget is a trap. I’m checking the upkeep ledger and the groundskeeping roll to see who’s left to pay.
+- [12] **Shizue**: I’ll look into the condition of our earlier works and the eastern avenue planting. Seeing what survived will tell us more than any new sketch.
+- [13] **Victoria**: I’ll check the groundskeeping roll and the volunteer groups. I need to know exactly who is left to do the work, and who might help.
+- [14] **Shunichi**: I’m checking the drainage callouts and the timed counts of weekday crossings. I need to know how the ground and the people actually behave here.
+- [15] **Minato**: @May, I hope the budget is okay. I’m just trying to make sure the digging doesn’t take forever.
+- [16] **May**: @Minato, don’t worry, I’ll keep the numbers tight. I’m just making sure we don’t buy a beautiful problem that bankrupts us later.
+- [17] **Shizue**: @Minato, you are right to be careful. I will look at the old works and the avenue trees to see what truly lasts.
+- [18] **Victoria**: @Shizue, your caution is wise. I’m checking the groundskeeping roll and volunteer groups to see who actually shows up to work here.
+- [19] **Shunichi**: @Minato, the firms are a detail. I’m focused on the daily reality. If the ground floods or the paths are ignored, the plan fails.
+- [20] **Minato**: @Shunichi, I understand. I just want to be safe. I’ll check the earth-moving firms and the depot notes to see if we can finish on time.
+- [21] **May**: @Shunichi, the ground is just the start. I’m checking the upkeep ledger and the groundskeeping roll to see who’s left to pay the bills.
+- [22] **Shizue**: @Shunichi, the ground matters, but so does the past. I’ll check the old works and the avenue trees to see what truly lasts.
+- [23] **Victoria**: @Shunichi, the daily reality is exactly my worry. I’m checking the groundskeeping roll and volunteer groups to see who actually shows up to work here.
+- [24] **Shunichi**: @Minato, the firms are a detail. I’m focused on the daily reality. If the ground floods or the paths are ignored, the plan fails.
+## Round 2
+- [35] **Minato**: I found only two firms can dig here, and the clay is risky. But the south can be closed in stages. Is that enough to keep us on schedule?
+- [36] **May**: @Minato, two firms is tight, but my ledger says planted ground costs triple to maintain. With only seven staff left, who pays that bill?
+- [37] **Shizue**: @May, the ledger is frightening, but the past is clearer. The old basin still stands, yet the avenue trees died from neglect. We must plan for care, not just planting.
+- [38] **Victoria**: @May, the ledger confirms my fear. With only seven staff, we cannot absorb triple costs. I need to know if the volunteer groups can bridge that gap.
+- [39] **Shunichi**: @Minato, the clay is a nuisance, not a wall. My data shows people ignore soft margins and drainage is failing. We need firm ground, not just a schedule.
+- [40] **Minato**: @Shunichi, I see. But with only two firms, even shallow work is risky. Can we really trust the ground to hold?
+- [41] **May**: @Shunichi, firm ground is cheap to keep. My ledger shows planted areas cost triple. We can’t afford a nature reserve with seven staff.
+- [42] **Shizue**: @May, you are right. The basin survived because it was simple. The trees died because we forgot to water them. We must not repeat that mistake.
+- [43] **Victoria**: @Shizue, the trees died from neglect, not nature. My findings show two volunteer groups are active, but they are casual. Can we rely on them for daily, heavy maintenance?
+- [44] **Shunichi**: @Victoria, casual help won’t fix broken drainage. The data shows people need firm paths to reach the tram. We must design for their actual movement, not just aesthetics.
+- [45] **Minato**: @Shunichi, I hear you. But with only two firms and risky clay, I worry the digging will take much longer than planned.
+- [46] **May**: @Minato, delays are annoying, but they don’t bankrupt us. Triple upkeep costs do. We need a plan that doesn’t bleed money every single year.
+- [47] **Shizue**: @May, you are right. The basin survived because it was simple. The trees died because we forgot to water them. We must not repeat that mistake.
+- [48] **Victoria**: @Shunichi, you’re right, casual help isn’t enough. But with only seven staff, we can’t afford heavy maintenance. We need a plan that fits our actual capacity, not just our dreams.
+- [49] **Shunichi**: @Victoria, capacity is a constraint, not a reason to ignore physics. The ground floods and people walk straight lines. We must design for that reality, not just our staffing limits.
+- [50] **Minato**: @Shunichi, I understand the ground is tricky. But with only two firms, I worry the digging will take much longer than planned.
+- [51] **May**: @Minato, delays are just a line item. The triple upkeep cost is a hemorrhage. We need a plan that doesn’t bleed the city dry every single year.
+- [52] **Shizue**: @May, you are right. The basin survived because it was simple. The trees died because we forgot to water them. We must not repeat that mistake.
+- [53] **Victoria**: @Shunichi, I hear the physics, but I cannot ignore the payroll. We have seven staff, not eighteen. We need a plan that survives on casual help, not just a blueprint.
+- [54] **Shunichi**: @Victoria, physics doesn't care about your payroll. If we ignore the drainage and foot traffic, the plan fails regardless of who mows it.
+## Round 3
+- [60] **Minato**: I’m worried about the clay. Plan D digs deep, but only two firms can do it. Will the ground hold, or will it slip?
+- [61] **May**: @Minato, deep digging is a trap. Plan D is a money pit. I’m backing B, the paved plaza. Hard surfaces cost a fraction to maintain.
+- [62] **Shizue**: @May, I understand the cost worry. But remember the avenue trees? They died from neglect. Plan A needs that same care. I fear it will fade.
+- [63] **Victoria**: @May, hard surfaces are cheap, but they ignore the drainage crisis. @Shizue, A is a repeat of the avenue’s failure. I need a plan that fits our seven staff.
+- [64] **Shunichi**: @Victoria, you’re ignoring the data. People walk straight lines to the tram, not through reeds. Plan C offers firm ground and clear paths. It respects the actual movement.
+- [65] **Minato**: @Shunichi, I agree that firm ground is safer. But Plan C needs deep foundations for the courts. With only two firms and risky clay, will the digging take too long?
+- [66] **May**: @Minato, delays are just a line item. The triple upkeep cost is a hemorrhage. We need a plan that doesn’t bleed the city dry every single year.
+- [67] **Shizue**: @Shunichi, firm ground is wise, but the basin survived because it was simple. Plan C’s courts will crack like the civic hall apron. I fear we are repeating that mistake.
+- [68] **Victoria**: @Shunichi, C’s courts and changing rooms are heavy infrastructure. With seven staff, we can’t maintain them. @May, B’s plaza is cheaper, but ignores the drainage failure.
+- [69] **Shunichi**: @Shizue, the apron cracked because it was a patch, not a system. Plan C is simple, firm, and matches how people actually move. It’s the only one that respects the data.
+- [70] **Minato**: @Shunichi, I worry the clay will make the courts take too long. But I like that it is firm. Will the digging be safe?
+- [71] **May**: @Shunichi, firm ground is fine, but courts crack. I’m sticking with B. Paved squares are cheap to keep, unlike your expensive, crumbling terraces.
+- [72] **Shizue**: @Shunichi, the apron cracked because it was a patch, not a system. Plan C’s courts will crack like the civic hall apron. I fear we are repeating that mistake.
+- [73] **Victoria**: @Shunichi, C ignores the drainage crisis. @May, B ignores the heat. I cannot support either. I need a plan that respects our limited staff and the ground’s reality.
+- [74] **Shunichi**: @Victoria, you’re ignoring the data. People walk straight lines to the tram, not through reeds. Plan C offers firm ground and clear paths. It respects the actual movement.
+- [75] **Minato**: @Shunichi, I am still worried about the clay. But I like that Plan C is firm. I will vote for C, hoping the digging goes smoothly.
+- [76] **May**: @Shunichi, I hear you, but the ledger doesn’t lie. Plan C is a money pit. I’m voting B. Hard surfaces are the only way to stop the bleeding.
+- [77] **Shizue**: @Shunichi, I hear your logic, but I fear the courts will crack like the old apron. I am voting for B, hoping the simple paving lasts longer than our previous mistakes.
+- [78] **Victoria**: @Shunichi, I cannot ignore the payroll. Plan C is too heavy for seven staff. I am voting B, accepting the heat risk to save the budget.
+- [79] **Shunichi**: @Victoria, the data is clear. People need firm ground, not reeds. Plan C respects the actual movement. I am voting C.
+### Vote
+- Minato -> C
+- May -> B
+- Shizue -> B
+- Victoria -> B
+- Shunichi -> C
+## Result
+- adopted: B

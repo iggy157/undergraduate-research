@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I’m worried about the depot floor. Freight doesn’t pause for office projects. We need a system that survives our actual yards and calendar.
+- [6] **Mizuki**: Kenji, the floor is critical, but I’m watching the long-term bill. We need to know what this system truly costs us after the initial approval.
+- [7] **Asuka**: @Kenji, the floor matters, but I’m watching for the same old failure: unclear ownership when things break, and plans that drift from reality.
+- [8] **Rin**: I keep seeing two bad patterns: systems that just get old, and outside help that leaves a mess. We have to avoid both!
+- [9] **Servas**: I hear your worries. But remember, the people who run these systems are our true foundation. We must ensure the change supports them, not burdens them.
+- [10] **Kenji**: @Mizuki, that long-term bill worries me too. If the yard equipment can’t talk to the new system, we’ll pay for fixes forever.
+- [11] **Mizuki**: @Kenji, exactly. If the yard devices can’t integrate, we’ll pay for endless workarounds. I need to see the renewal invoices to track that hidden cost.
+- [12] **Asuka**: @Mizuki, I agree on the hidden costs. But I need to know who owns support when it breaks. I’ll check the winter outage records.
+- [13] **Rin**: @Asuka, I’ll check the dispatch tool’s upgrade history! If we keep skipping updates, it just gets older and older.
+- [14] **Servas**: @Rin, your instinct is sound. I will look into the administrator retirements. We must know if the people holding this together are leaving before we build.
+- [15] **Kenji**: @Rin, checking the dispatch history is smart. I’m looking at the yard devices and the 2021 trial to see if our equipment can actually handle the new system.
+- [16] **Mizuki**: @Asuka, your focus on ownership is vital. I’ll examine the board minutes to see how capital versus operating requests are actually approved.
+- [17] **Asuka**: @Mizuki, the board minutes show how money flows, but I need to see if the plan survives contact with reality. I’ll check the warehouse rule changes.
+- [18] **Rin**: @Kenji, checking the yard devices is super important! I’ll look into the 2018 pay move data lift to see if outside help really leaves a mess behind.
+- [19] **Servas**: @Kenji, your focus on the yard is wise. I will examine the depot supervisors and the last rollout to see how our people truly adapt to change.
+- [20] **Kenji**: @Servas, I hope the supervisors are ready for this. I’m checking the yard devices and the 2021 trial to see if our equipment can actually handle the new system.
+- [21] **Mizuki**: @Kenji, your focus on the yard is wise. I will examine the board minutes to see how capital versus operating requests are actually approved.
+- [22] **Asuka**: @Mizuki, I’ll check the warehouse rule changes to see if the plan survives contact with reality.
+- [23] **Rin**: @Kenji, I’m checking the 2018 pay move data lift! I want to see if outside help really leaves a mess behind.
+- [24] **Servas**: @Kenji, the yard is the heartbeat. I will look into the administrator retirements and the depot supervisors to see how our people will carry this change.
+## Round 2
+- [35] **Kenji**: @Mizuki, the yard is a mess. Old scanners, spreadsheets everywhere. And we can’t stop work in winter. We need a system that fits this chaos.
+- [36] **Mizuki**: @Kenji, the invoices confirm my fear. Bundled prices stay flat, but separate add-ons climb yearly. We are buying a trap, not a system.
+- [37] **Asuka**: @Mizuki, your invoice data is critical. But my findings confirm the ownership gap. Last winter, four suppliers pointed fingers for two days. We need a single throat to choke.
+- [38] **Rin**: @Asuka, that sounds scary! But I found the dispatch tool skipped three upgrades because testing took too long. And the 2018 pay move had bad data for a whole year!
+- [39] **Servas**: @Rin, your findings are sobering. I see two key administrators retiring, and supervisors quietly abandoning new routines. We must choose a path that respects their deep, hard-won knowledge.
+- [40] **Kenji**: @Asuka, a single owner is vital. But with no winter freeze, how do we deploy without stopping freight? We need a plan that works around our calendar.
+- [41] **Mizuki**: @Asuka, the board minutes show capital gets cut, but operating costs pass easily. We are setting ourselves up for a perpetual, unchecked drain.
+- [42] **Asuka**: @Kenji, a single owner is vital. But my findings show the plan dies within months. Warehouse rules were rewritten twice. We need a system that absorbs change, not one that breaks it.
+- [43] **Rin**: @Kenji, that’s why we can’t just buy a box! If the data is messy, the system fails. We need someone who stays to fix the mess, not just install it!
+- [44] **Servas**: @Kenji, the calendar is a wall, but the people are the bridge. We must choose a vendor who stays to teach, not one who leaves us stranded.
+- [45] **Kenji**: @Servas, you’re right. We need someone who stays. But @Asuka, if the plan drifts, how do we keep it honest?
+- [46] **Mizuki**: @Kenji, the board minutes prove capital gets cut, but operating costs pass easily. We are setting ourselves up for a perpetual, unchecked drain.
+- [47] **Asuka**: @Kenji, we keep the plan honest by choosing a vendor who stays. If the scope drifts, we need a partner who adapts with us, not one who blames the business.
+- [48] **Rin**: @Asuka, exactly! If the data is messy, the system fails. We need someone who stays to fix the mess, not just install it!
+- [49] **Servas**: @Asuka, you are right. A partner who stays is essential. But we must also honor the supervisors' routines. We cannot force change; we must guide it gently.
+- [50] **Kenji**: @Servas, I agree. We need a team that stays to help us through the winter freeze. Can they work around our 24/7 schedule?
+- [51] **Mizuki**: @Kenji, staying is good, but I need to know if the price stays flat. I will check the renewal invoices to see if we are trapped in rising costs.
+- [52] **Asuka**: @Mizuki, staying is necessary, but I need to know if the scope holds. My findings show the plan dies within months. We need a partner who adapts, not one who blames the business.
+- [53] **Rin**: @Mizuki, rising costs are bad, but messy data is worse! I saw the 2018 lift fail for a year. We need a vendor who stays to fix the mess, not just install it!
+- [54] **Servas**: @Mizuki, the cost is real, but the people are the true measure. We must choose a vendor who stays to teach, not one who leaves us stranded.
+## Round 3
+- [60] **Kenji**: - **Kenji**: @Servas, Anchor’s team staying on-site fits our 24/7 yards. Can they handle the winter cutover without stopping freight?
+- [61] **Mizuki**: @Kenji, on-site presence helps, but I need to know if the price stays flat. I will check the renewal invoices to see if we are trapped in rising costs.
+- [62] **Asuka**: @Kenji, Anchor’s on-site team solves the ownership gap. But @Mizuki, if their scope is rigid, we’ll face the same drift. We need flexibility.
+- [63] **Rin**: @Asuka, Anchor’s team stays to fix the mess! That’s exactly what we need after the 2018 disaster.
+- [64] **Servas**: @Kenji, their presence is a blessing. But with two administrators leaving, can they truly teach our people, or just manage the machines?
+- [65] **Kenji**: @Servas, that’s the real test. If they just manage machines, we’re stuck. I need to know if they can actually teach our crews to use it.
+- [66] **Mizuki**: @Kenji, on-site presence is good, but I need to know if the price stays flat. I will check the renewal invoices to see if we are trapped in rising costs.
+- [67] **Asuka**: @Mizuki, on-site presence doesn't guarantee scope stability. My findings show plans drift regardless of vendor type. We need a partner who adapts to our changing rules, not just one who sits in the building.
+- [68] **Rin**: @Mizuki, flat prices are nice, but I saw the 2018 data mess last! Anchor’s team stays to fix it. That’s what matters most!
+- [69] **Servas**: @Asuka, you are right. Presence is not enough. We need a partner who respects the supervisors' deep routines, not one who forces a rigid template upon them.
+- [70] **Kenji**: @Asuka, I worry about the old scanners. If Anchor’s team can’t make them talk to the new system, we’re stuck. Can they handle our mixed equipment?
+- [71] **Mizuki**: @Kenji, the on-site team is a capital expense, which the board will likely trim. I need to see if their maintenance costs become an unchecked operating drain.
+- [72] **Asuka**: @Kenji, mixed equipment is a risk, but my data shows scope drift is the killer. Anchor’s on-site team must adapt to our changing rules, not just manage hardware.
+- [73] **Rin**: @Kenji, the scanners are tricky! But if the team stays, they can fix the mess. I don't trust outside help to clean up after themselves!
+- [74] **Servas**: @Kenji, the scanners are a test of patience. But the true measure is whether their presence helps our people grow, or merely manages the machines.
+- [75] **Kenji**: @Mizuki, if the board cuts the capital for their team, we’re stuck with broken scanners and no help. I need to know if they can work around our winter freeze.
+- [76] **Mizuki**: @Kenji, the board trims capital, but operating lines pass easily. If Anchor’s team becomes a recurring line, we are locked into a perpetual, unchecked drain.
+- [77] **Asuka**: @Mizuki, a recurring line is safer than a broken system. But I need to know if their on-site team can adapt to our changing rules, or if they will just enforce a rigid template.
+- [78] **Rin**: @Mizuki, I get the money worry! But remember the 2018 mess? If they leave, we’re stuck with bad data forever. Anchor stays to fix it!
+- [79] **Servas**: @Mizuki, the cost is real, but the people are the true measure. We must choose a vendor who stays to teach, not one who leaves us stranded.
+### Vote
+- Kenji -> C
+- Mizuki -> C
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

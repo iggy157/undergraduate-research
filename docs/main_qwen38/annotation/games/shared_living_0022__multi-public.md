@@ -1,0 +1,73 @@
+# shared_living_0022__multi-public (shared_living)
+
+## Round 1
+- [5] **May**: I’m here to make sure we don’t just shuffle the mess to someone else’s doorstep.
+- [6] **Mizuki**: I agree. We need to understand the daily reality of each option before we commit.
+- [7] **Kenji**: I’m worried about the costs. We haven’t added up what this corner already costs us every year, or what a fix would take.
+- [8] **Midori**: I’m mostly worried about how we’ll get along after this. We still have to live here together, so let’s keep that in mind.
+- [9] **Servas**: I have watched arrangements here rest on whoever answers the phone first. I want to know, in hours, what this one takes from us.
+- [10] **May**: @Kenji, let’s dig into the block ledger and the ward subsidy. We need to see exactly what this mess costs us before we agree to anything.
+- [11] **Mizuki**: @May, I’d rather see the station block’s bin house and the supervised mornings. I need to know what living beside these options actually feels like.
+- [12] **Kenji**: @May, good call on the ledger. I’ll check the ward subsidy too. We need to know if the money covers the setup or just the mess.
+- [13] **Midori**: I’d like to check the ward complaint log and the residents’ meeting statements. I need to understand where the friction really comes from before we pick a fix.
+- [14] **Servas**: I will look into the ward filing requirements and the truck arrival time. I need to know the true time burden before we commit.
+- [15] **May**: @Mizuki, I’m curious about the frontage measurements. I want to see if the "equal" rotation is actually physically possible for everyone.
+- [16] **Mizuki**: @May, that’s a fair point. I’ll check the frontage measurements to see if a rotation is even physically viable for all five of us.
+- [17] **Kenji**: @May, that’s smart. I’ll check the frontage measurements too. If the space is uneven, a simple rotation might just create new problems for some of us.
+- [18] **Midori**: @May, I’ll look into the station block’s meeting minutes. I want to see how their arrangement actually held up over time.
+- [19] **Servas**: @May, I will check the station block’s minutes. I want to see how their arrangement held up over time, and what it cost them in patience.
+- [20] **May**: I’ll check the ward complaint log and the frontage measurements. I need to see who’s been complaining and if the space is actually fair.
+- [21] **Mizuki**: I’ll check the truck arrival time and the ward complaint log. I need to know the daily rhythm and who is actually suffering.
+- [22] **Kenji**: I’ll check the block ledger and the ward complaint log. I need to see the real yearly costs and who is actually suffering the most.
+- [23] **Midori**: I’ll check the ward complaint log and the residents’ meeting statements. I need to understand the friction and who is willing to help.
+- [24] **Servas**: I will check the ward filing requirements and the truck arrival time. I need to know the true time burden before we commit.
+## Round 2
+- [35] **May**: @Kenji, the complaint log is damning. Eleven of fourteen complaints came from the gate household. We need to fix that imbalance.
+- [36] **Mizuki**: @May, that imbalance is real. But the truck arrives at seven forty. A strict window means waking before dawn. That is a heavy daily burden.
+- [37] **Kenji**: @May, the ledger shows thirty-four thousand yen yearly just for open bags. Plus, eleven of fourteen complaints came from the gate household. We need to fix that imbalance.
+- [38] **Midori**: @May, the log confirms the gate household’s pain. But the meeting showed nobody wants to enforce rules. We need a plan that doesn’t rely on us policing each other.
+- [39] **Servas**: @Mizuki, the truck arrives at seven forty. A strict window means waking before dawn. That is a heavy daily burden.
+- [40] **May**: @Mizuki, the frontage measurements are brutal. One house has a driveway, another only ninety centimetres. A rotation is physically impossible for some.
+- [41] **Mizuki**: @May, the measurements confirm the rotation is physically impossible. We cannot force a bay into ninety centimetres.
+- [42] **Kenji**: @May, that’s a huge problem. If the space is uneven, a rotation just moves the burden. We need a solution that fits the actual frontages, not just a fair idea.
+- [43] **Midori**: @May, the uneven frontages make a simple rotation impossible. We need a solution that respects the physical reality of our homes, not just a theoretical ideal.
+- [44] **Servas**: @May, the filing clerk says a permanent build takes four months and five signatures. That is a long road before we even begin.
+- [45] **May**: @Midori, the ninety-centimetre frontage kills the rotation idea. We can’t move the point there. We need a fix that stays put but shares the burden fairly.
+- [46] **Mizuki**: @May, I agree. The rotation is physically impossible. We need a solution that respects the actual frontages, not just a fair idea.
+- [47] **Kenji**: @May, exactly. A rotation just moves the pain. We need a fix that fits our actual spaces and budgets, not just a theoretical ideal.
+- [48] **Midori**: @May, I agree. The rotation is physically impossible. We need a solution that respects the actual frontages, not just a theoretical ideal.
+- [49] **Servas**: @May, I agree. The rotation is physically impossible. We need a solution that respects the actual frontages, not just a fair idea.
+- [50] **May**: @Midori, I agree. The rotation is physically impossible. We need a solution that respects the actual frontages, not just a theoretical ideal.
+- [51] **Mizuki**: @May, I agree. The rotation is physically impossible. We need a solution that respects the actual frontages, not just a fair idea.
+- [52] **Kenji**: @May, agreed. Rotation is out. But thirty-four thousand yen yearly is a lot. We need a fix that actually stops the mess, not just moves it.
+- [53] **Midori**: @May, I agree. The rotation is physically impossible. We need a solution that respects the actual frontages, not just a theoretical ideal.
+- [54] **Servas**: @Kenji, thirty-four thousand yen yearly is a real burden. But the filing clerk says a permanent build takes four months. That is a long road before we even begin.
+## Round 3
+- [60] **May**: @Mizuki, the truck arrives at seven forty. A strict window means waking before dawn. That is a heavy daily burden.
+- [61] **Mizuki**: @May, the truck arrives at seven forty. A strict window means waking before dawn. That is a heavy daily burden.
+- [62] **Kenji**: @May, I hear you on the early wake-up. But thirty-four thousand yen yearly is a real burden. A permanent fix might stop the mess and save us money long-term.
+- [63] **Midori**: @Kenji, I worry about the cost, but I fear the daily friction of B more. We need a solution that lets us keep our peace.
+- [64] **Servas**: @Kenji, a permanent build takes four months and five signatures. That is a long road before we even begin.
+- [65] **May**: @Kenji, I hear you on the cost. But a permanent build takes four months and five signatures. That is a long road before we even begin.
+- [66] **Mizuki**: @Kenji, I agree. The station block’s enclosure smelled worse by midsummer. A permanent build risks swapping one annoyance for a stronger, enclosed one.
+- [67] **Kenji**: @Mizuki, that’s a fair point. But the ward subsidy covers forty percent, capped at ninety thousand. That helps offset the setup cost.
+- [68] **Midori**: @Mizuki, that smell is a real worry. But the meeting showed nobody wants to police bags. C might be the only way we stop fighting.
+- [69] **Servas**: @Mizuki, the station block’s minutes show they argued over sweeping within two years. A permanent structure often just creates new duties for whoever answers the phone first.
+- [70] **May**: @Midori, I hear your worry about friction. But if C just creates new duties for whoever answers the phone, I’m not signing up for that.
+- [71] **Mizuki**: @May, I agree. The station block’s minutes show they argued over sweeping within two years. A permanent structure often just creates new duties for whoever answers the phone first.
+- [72] **Kenji**: @May, I hear you. But the subsidy covers forty percent, capped at ninety thousand. That helps offset the setup cost.
+- [73] **Midori**: @May, I hear you. But if C just creates new duties for whoever answers the phone, I’m not signing up for that.
+- [74] **Servas**: @May, I hear you. But the station block’s minutes show they argued over sweeping within two years. A permanent structure often just creates new duties for whoever answers the phone first.
+- [75] **May**: @Kenji, the subsidy helps, but I refuse to sign a plan that just shifts the burden to one gate. I’m voting B.
+- [76] **Mizuki**: @May, I understand your frustration. But the station block’s enclosure smelled worse by midsummer. A permanent build risks swapping one annoyance for a stronger, enclosed one.
+- [77] **Kenji**: @May, I get it. But C stops the thirty-four thousand yen yearly leak. The subsidy helps too. I’m voting C.
+- [78] **Midori**: @May, I hear you. But if C just creates new duties for whoever answers the phone, I’m not signing up for that.
+- [79] **Servas**: @May, I hear your frustration. But the station block’s minutes show they argued over sweeping within two years. A permanent structure often just creates new duties for whoever answers the phone first.
+### Vote
+- May -> B
+- Mizuki -> B
+- Kenji -> C
+- Midori -> B
+- Servas -> B
+## Result
+- adopted: B

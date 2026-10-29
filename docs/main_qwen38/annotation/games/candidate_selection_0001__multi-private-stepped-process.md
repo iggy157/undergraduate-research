@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must ensure the hands to do the work are actually here.
+- [6] **Midori**: I worry about the real value of the money we are awarding.
+- [7] **Kenji**: Shared facilities are the bottleneck. We need to check if they can handle the load.
+- [8] **Benjamin**: I am curious about where the actual science gets interrupted by bureaucracy.
+- [9] **Toshio**: I want to see what the finished projects actually delivered, not just the promises.
+- [10] **Servas**: @Midori, money is easy to spend. People are hard to find.
+- [11] **Midori**: @Servas, true, but if the grant buys less each year, people suffer more.
+- [12] **Kenji**: @Toshio, past performance is good, but current capacity is what breaks first.
+- [13] **Benjamin**: @Kenji, capacity is one thing. Delays from outside the lab are another.
+- [14] **Toshio**: @Kenji, capacity matters, but I have seen high-capacity teams stall for years.
+- [15] **Servas**: I will look at who is actually on the payroll and who is gone.
+- [16] **Midori**: I need to know what the agency pays for and what the lab pays.
+- [17] **Kenji**: I will check the state of the shared tools and the national computing rates.
+- [18] **Benjamin**: I want to see the logs of what went wrong in the past.
+- [19] **Toshio**: I will review the closeout files and the schedule overruns in the portfolio.
+- [20] **Servas**: Let us look at the staffing rolls and the incident logs.
+- [21] **Midori**: I will check the travel lines and the national computing agreement.
+- [22] **Kenji**: I will look at the incident logs and the accreditation at shared facilities.
+- [23] **Benjamin**: I will investigate the incident logs and the portfolio review of schedule overruns.
+- [24] **Toshio**: I will investigate the closeout files of finished awards and the portfolio review of schedule overruns.
+## Round 2
+- [35] **Servas**: The hands are gone. The technicians left, but the coders are arriving.
+- [36] **Midori**: The money for the computer is free now, but the animals cost more.
+- [37] **Kenji**: The spectroscopy suite is broken and empty. The animal house is full and healthy.
+- [38] **Benjamin**: The logs show the machines wait for people, not the other way around.
+- [39] **Toshio**: The finished files show the catalogue work still pays rent. The mechanism work stalled.
+- [40] **Servas**: @Kenji, if the machine is empty, the proposal relying on it is a ghost.
+- [41] **Midori**: @Toshio, so the money for the catalogue is still real, but the mechanism is not.
+- [42] **Kenji**: @Servas, yes. The animal house is ready, but the spectroscopy is a trap.
+- [43] **Benjamin**: @Midori, the biological risk is real. The computational risk is just a waiting room.
+- [44] **Toshio**: @Benjamin, exactly. The biological risk is a wall. The computational risk is a door.
+- [45] **Servas**: We must choose the path where the people are still standing.
+- [46] **Midori**: I will support the one where the agency still pays the heavy costs.
+- [47] **Kenji**: I will support the one where the shared tools are actually working.
+- [48] **Benjamin**: I will support the one where the science is not held hostage by a broken machine.
+- [49] **Toshio**: I will support the one where the results have already proven they can last.
+- [50] **Servas**: The coders are here. The technicians are not.
+- [51] **Midori**: The computer is free. The animals are expensive.
+- [52] **Kenji**: The animal house is ready. The spectroscopy is dead.
+- [53] **Benjamin**: The biological risk is a wall. The computational risk is a door.
+- [54] **Toshio**: The catalogue work still pays rent. The mechanism work stalled.
+## Round 3
+- [60] **Servas**: Option A needs the coders we have. Option C needs the technicians we lost.
+- [61] **Midori**: Option B needs the animals we can afford. Option C needs the machines we cannot.
+- [62] **Kenji**: Option B uses the healthy animal house. Option C uses the broken spectroscopy suite.
+- [63] **Benjamin**: Option B has a wall of biological risk. Option C has a door of computational risk.
+- [64] **Toshio**: Option A is the catalogue that still pays rent. Option C is the mechanism that stalled.
+- [65] **Servas**: @Midori, Option A is safe for the people. Option B is safe for the money.
+- [66] **Midori**: @Servas, Option B is safe for the money, but Option A is safe for the future.
+- [67] **Kenji**: @Toshio, Option B is the only one where the shared tools are actually working.
+- [68] **Benjamin**: @Kenji, Option B is the only one where the science is not held hostage by a broken machine.
+- [69] **Toshio**: @Benjamin, Option A is the only one where the results have already proven they can last.
+- [70] **Servas**: I vote for Option A. The coders are here. The technicians are not.
+- [71] **Midori**: I vote for Option B. The agency still pays the heavy costs.
+- [72] **Kenji**: I vote for Option B. The animal house is ready. The spectroscopy is dead.
+- [73] **Benjamin**: I vote for Option B. The biological risk is a wall. The computational risk is a door.
+- [74] **Toshio**: I vote for Option A. The catalogue work still pays rent. The mechanism work stalled.
+- [75] **Servas**: The hands are gone. The coders are arriving.
+- [76] **Midori**: The money for the computer is free now, but the animals cost more.
+- [77] **Kenji**: The spectroscopy suite is broken and empty. The animal house is full and healthy.
+- [78] **Benjamin**: The logs show the machines wait for people, not the other way around.
+- [79] **Toshio**: The finished files show the catalogue work still pays rent. The mechanism work stalled.
+### Vote
+- Servas -> A
+- Midori -> B
+- Kenji -> B
+- Benjamin -> B
+- Toshio -> A
+## Result
+- adopted: B

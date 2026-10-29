@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: The morning congestion is unacceptable. We need data on actual usage patterns to allocate spaces fairly.
+- [6] **Ryuji**: Before discussing usage, we must understand the financial implications. What is the true cost of these spaces?
+- [7] **George**: I am concerned about historical bias. Have the same residents always secured the prime spots?
+- [8] **Shunichi**: We should avoid creating a system that turns neighbors into rivals. Let’s look at past conflicts.
+- [9] **Mio**: I worry about who maintains this. The last two roles quietly lapsed. We need to know the workload.
+- [10] **Asuka**: @Ryuji, financials are secondary. The physical layout dictates the chaos. We need to see the rain exposure.
+- [11] **Ryuji**: @Asuka, ignoring costs leads to debt. I will check the ledger. We need to know what we can afford.
+- [12] **George**: I will review the five years of minutes. If bias exists, it will be recorded there.
+- [13] **Shunichi**: I will check the complaint log. If people are already angry, a new rule will break the building.
+- [14] **Mio**: I will look at the supplier’s frame trial. If it’s hard to install, it’s hard to keep running.
+- [15] **Asuka**: The sticker register shows who actually rides. We need to match spaces to real users, not just residents.
+- [16] **Ryuji**: Agreed. But if the sticker system costs money, we need to know if the building can pay for it.
+- [17] **George**: The minutes will show if the current allocation was ever formally voted on or just assumed.
+- [18] **Shunichi**: If the complaints are about noise or theft, a rigid rule might make it worse. I need to see the tone.
+- [19] **Mio**: If the frame requires monthly tightening, who does it? I don’t want to be the one with the wrench.
+- [20] **Asuka**: We need to see the morning departures. Watching the flow will reveal where the bottleneck actually is.
+- [21] **Ryuji**: I will also check the treasurer’s file. Cash collections often hide the real operational costs of maintenance.
+- [22] **George**: I will also look at the neighboring block’s account. They solved this problem three years ago.
+- [23] **Shunichi**: I will check the ward cycle park. If we can’t fit everyone here, maybe we shouldn’t try.
+- [24] **Mio**: I will check the building account ledger. If we spend money on frames, we need to know if we have the budget.
+## Round 2
+- [35] **Asuka**: I watched the mornings. Four times, someone had to move a bike to get theirs out. The row under the eaves is the only dry spot.
+- [36] **Ryuji**: The ledger shows no capital reserve. Adding a billing system means a new levy. I need to know if households can absorb that.
+- [37] **George**: The minutes confirm my fear. The same flats held the covered spots for five years. No one ever voted to change it.
+- [38] **Shunichi**: The complaints were all about bikes leaning on each other. No one asked for a fix. The ward park has a waitlist.
+- [39] **Mio**: The frame trial was rough. Greasing it twice a year is a chore. If we buy it, someone has to remember to do it.
+- [40] **Asuka**: @George, if the covered spots were never voted on, we can reset them. The rain data proves the eaves are the only logical priority.
+- [41] **Ryuji**: @Asuka, resetting them is free, but adding a management system is not. The treasurer’s file shows the admin time is already high.
+- [42] **George**: The neighboring block tried charging. Two households stopped paying and stopped attending meetings. It fractured their community.
+- [43] **Shunichi**: The ward park is full. We can’t just tell people to go there. We have to solve this internally without breaking the peace.
+- [44] **Mio**: If we choose the frame, the greasing is the killer. It’s not just money, it’s the recurring physical effort that no one wants.
+- [45] **Asuka**: The bottleneck is the eaves. If we assign those by rotation, the morning shoving stops. It’s a simple logical fix.
+- [46] **Ryuji**: Rotation is free. But if we add a sticker system to track it, we add cost. I am leaning toward the free option.
+- [47] **George**: The neighbor’s failure was about money, not fairness. A simple rotation avoids the financial friction that caused their conflict.
+- [48] **Shunichi**: The complaints died because no one owned the problem. A rotation rule is passive. It doesn’t require a manager to enforce it.
+- [49] **Mio**: Passive is good. If the rule is just "first come, first served" for the eaves, there is no greasing, no billing, no work.
+- [50] **Asuka**: I propose a strict rotation for the dry spots. No money, no frames. Just a schedule. It solves the rain and the shoving.
+- [51] **Ryuji**: I agree. The financial risk is zero. The administrative risk is low. It is the only option that doesn’t drain the account.
+- [52] **George**: It is fair. It removes the historical bias I found in the minutes. It treats every resident equally, regardless of who lived here first.
+- [53] **Shunichi**: It keeps the lobby quiet. No one has to argue about who owns a spot. It preserves the nodding we do in the hallway.
+- [54] **Mio**: And it means no one has to grease a spring or chase a bill. It is the only option that doesn’t create a new job for one person.
+## Round 3
+- [60] **Asuka**: Option A is out. The ledger shows no reserve for the admin work. It creates a financial burden we cannot sustain.
+- [61] **Ryuji**: I concur. Option A requires a billing system. The treasurer’s file shows the current admin load is already at capacity.
+- [62] **George**: Option A is the neighbor’s mistake. It turns a shared resource into a commodity. It invites the resentment I saw in the minutes.
+- [63] **Shunichi**: Option A creates a class of "owners" and "renters." That is exactly the kind of division that turns neighbors into rivals.
+- [64] **Mio**: Option A means someone has to chase the non-payers. That is a job. I do not want to be the one with the phone.
+- [65] **Asuka**: Option B is chaotic. The morning departures show that without assigned spots, the shoving match continues. It fails to solve the rain issue.
+- [66] **Ryuji**: Option B is free, but it fails the usage test. The rain exposure data shows that without priority, the dry spots are contested daily.
+- [67] **George**: Option B is fair in theory, but in practice, it rewards the early riser. It does not address the historical bias of who gets the best spot.
+- [68] **Shunichi**: Option B is a free-for-all. The complaints log shows that when no one owns the space, everyone blames the space. It creates friction.
+- [69] **Mio**: Option B means no one is responsible for the racks. If a rack breaks, no one fixes it. It is a passive failure.
+- [70] **Asuka**: Option C is the logical choice. It is free, it is fair, and it removes the morning shoving. The rotation is the key.
+- [71] **Ryuji**: Option C has zero financial cost. It requires no new admin. It is the only option that aligns with the building’s current financial reality.
+- [72] **George**: Option C is the only one that treats all residents equally. It removes the historical bias. It is a clean, fair reset.
+- [73] **Shunichi**: Option C is passive. It does not require a manager. It does not create a new job. It preserves the social peace of the lobby.
+- [74] **Mio**: Option C is the only one that doesn’t create a recurring physical task. No greasing, no billing, no chasing. It is sustainable.
+- [75] **Asuka**: I vote for C. It solves the rain, the shoving, and the fairness. It is the only logical solution.
+- [76] **Ryuji**: I vote for C. The financial risk is zero. The administrative risk is minimal. It is the responsible choice.
+- [77] **George**: I vote for C. It is fair. It is equal. It removes the bias. It is the right thing to do.
+- [78] **Shunichi**: I vote for C. It keeps the peace. It avoids the conflict. It is the calm choice.
+- [79] **Mio**: I vote for C. It is the only one that doesn’t leave me with a wrench. It is the sustainable choice.
+### Vote
+- Asuka -> C
+- Ryuji -> C
+- George -> C
+- Shunichi -> C
+- Mio -> C
+## Result
+- adopted: C

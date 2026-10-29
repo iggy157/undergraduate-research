@@ -1,0 +1,73 @@
+# shared_living_0019__single-batch (shared_living)
+
+## Round 1
+- [5] **George**: I worry we are just moving the sore point elsewhere.
+- [6] **Toshio**: The arrangement costs more in evenings than in fuel.
+- [7] **Victoria**: I need to know if it is ready on a plain morning.
+- [8] **Misaki**: A share is not always a share. We need to see the split.
+- [9] **Minato**: I just want to know the real numbers for the year.
+- [10] **George**: @Minato, yes, the numbers are the start.
+- [11] **Toshio**: @George, I agree. The friction is the real cost.
+- [12] **Victoria**: I care about the state of the car when I get in.
+- [13] **Misaki**: @Victoria, that is part of the cost too.
+- [14] **Minato**: I am curious about the fuel receipts specifically.
+- [15] **George**: Let us look at what other households did.
+- [16] **Toshio**: I want to see the hours recorded in the diary.
+- [17] **Victoria**: I will check the state of the car at handover.
+- [18] **Misaki**: I need the tax and insurance papers to see the base.
+- [19] **Minato**: I will look at the fuel receipts and the diary.
+- [20] **George**: I will check the other households and the checking spell.
+- [21] **Toshio**: I will look at the diary and the heavy use weeks.
+- [22] **Victoria**: I will check the handover state and the weekly trips.
+- [23] **Misaki**: I will look at the tax papers and the fuel receipts.
+- [24] **Minato**: I will look at the fuel receipts and the diary.
+## Round 2
+- [35] **George**: The other households said asking favours was the problem.
+- [36] **Toshio**: The diary shows Saturdays are triple the hours of Tuesdays.
+- [37] **Victoria**: The car was empty of fuel twice this year.
+- [38] **Misaki**: The fixed costs are 280,000 yen before fuel.
+- [39] **Minato**: The fuel receipts show two people bought most of it.
+- [40] **George**: @Misaki, that is a lot of fixed cost.
+- [41] **Toshio**: @Minato, so the driving is very uneven.
+- [42] **Victoria**: @Toshio, that explains why I can never find it.
+- [43] **Misaki**: @George, the checking spell made people feel accused.
+- [44] **Minato**: I feel like we need a system that doesn't feel like accusing.
+- [45] **George**: We must avoid the favour-asking trap.
+- [46] **Toshio**: The heavy use weeks cost whole evenings of arranging.
+- [47] **Victoria**: The weekly trips keep collapsing at short notice.
+- [48] **Misaki**: If we split evenly, the heavy users subsidise the light ones.
+- [49] **Minato**: That sounds unfair to the heavy users.
+- [50] **George**: I think we need a clear rule to stop the friction.
+- [51] **Toshio**: A fixed day might work, but it wastes the car.
+- [52] **Victoria**: A booking system might ensure it is ready for me.
+- [53] **Misaki**: A primary keeper might handle the state of the car.
+- [54] **Minato**: I am not sure which is best, but I want it to be fair.
+## Round 3
+- [60] **George**: Option A uses a calendar and splits by distance.
+- [61] **Toshio**: Option B gives fixed days and a fixed monthly share.
+- [62] **Victoria**: Option C has one person keep the car and others pay per trip.
+- [63] **Misaki**: Option A seems to address the uneven driving.
+- [64] **Minato**: Option C might be too much work for one person.
+- [65] **George**: @Misaki, yes, A seems fairer for the fuel.
+- [66] **Toshio**: @Victoria, B might solve the morning state issue.
+- [67] **Victoria**: @Toshio, but B wastes the car on days I don't use it.
+- [68] **Misaki**: @George, A requires recording every run, which is tedious.
+- [69] **Minato**: I worry about the recording time for A.
+- [70] **George**: The recording time is a cost, but so is the friction.
+- [71] **Toshio**: I prefer B for the simplicity, despite the waste.
+- [72] **Victoria**: I prefer A because it ensures the car is ready for my trips.
+- [73] **Misaki**: I lean towards A, but I am concerned about the effort.
+- [74] **Minato**: I think A is the most honest, even if it is work.
+- [75] **George**: I will vote for A to avoid the favour-asking.
+- [76] **Toshio**: I will vote for B to reduce the arranging time.
+- [77] **Victoria**: I will vote for A to ensure reliability.
+- [78] **Misaki**: I will vote for A to ensure fairness in cost.
+- [79] **Minato**: I will vote for A to see the real figures.
+### Vote
+- George -> A
+- Toshio -> B
+- Victoria -> A
+- Misaki -> A
+- Minato -> A
+## Result
+- adopted: A

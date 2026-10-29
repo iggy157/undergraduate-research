@@ -1,0 +1,72 @@
+# candidate_selection_0008__single-online (candidate_selection)
+
+## Round 1
+- [5] **Midori**: We need to agree on what "success" actually looks like before we pick a vendor.
+- [6] **Ryuji**: Success means the yard keeps moving when the office is in chaos.
+- [7] **May**: I’d rather not pick a vendor that just ages quietly in place like our last one did.
+- [8] **Misaki**: I’m worried about the people who actually run the depots.
+- [9] **Benjamin**: I’m less interested in the sticker price and more in the bill that arrives after the contract is signed.
+- [10] **Midori**: @Benjamin, that post-contract bill is exactly the kind of drift I’m worried about.
+- [11] **Ryuji**: @May, quiet aging is a symptom. The root cause is usually a system that can’t survive our actual yard conditions.
+- [12] **May**: @Ryuji, fair point, but a system that can’t survive the yard is just a more expensive way to age.
+- [13] **Misaki**: @Ryuji, the yard is only half the story. If the people running it are already stretched thin, no system survives the rollout.
+- [14] **Benjamin**: @Misaki, agreed. But if the system is too complex, we’ll just hire more people to manage the mess, which costs more.
+- [15] **Midori**: @Benjamin, complexity is a cost, but so is a system that breaks the moment the business changes.
+- [16] **Ryuji**: @Midori, true, but a system that breaks on change is one we can’t afford to fix mid-peak.
+- [17] **May**: @Ryuji, exactly. We can’t afford downtime, but we also can’t afford a system that needs constant patching.
+- [18] **Misaki**: @May, constant patching is a symptom of poor design, not a solution. We need stability, not just activity.
+- [19] **Benjamin**: @Misaki, stability is nice, but if the design is rigid, we pay for it in endless workarounds.
+- [20] **Midori**: @Benjamin, you’re right. Rigid systems create hidden costs. Let’s look into the upgrade history and the support ownership to see where we’ve been hurt before.
+- [21] **Ryuji**: @Midori, I’ll check the depot calendar and the yard devices. We need to know if the hardware can even handle the new software.
+- [22] **May**: @Midori, I’ll pull the 2018 pay move data and the warehouse rule changes. I want to see how badly external help and shifting rules have burned us before.
+- [23] **Misaki**: @Midori, I’ll look into the administrator retirements and the depot supervisors. I need to know who is left to carry this, and how the last rollout actually landed on the floor.
+- [24] **Benjamin**: @Midori, I’ll review the board minutes and the renewal invoices. I need to see how we’ve been tricked by the pricing structure before.
+## Round 2
+- [35] **Midori**: #### Turn 1 of 4
+- [36] **Ryuji**: #### Turn 1 of 4
+- [37] **May**: - **May**: The 2018 data lift was a disaster. Mismatched codes haunted us for a year.
+- [38] **Misaki**: #### Turn 1 of 4
+- [39] **Benjamin**: - **Benjamin**: The invoices confirm my fear: bundled deals held steady, but separate add-ons climbed yearly.
+- [40] **Midori**: #### Turn 2 of 4
+- [41] **Ryuji**: - **Ryuji**: The November through January freeze is absolute. Any cutover then means two days of paper dispatch.
+- [42] **May**: - **May**: @Ryuji, that freeze window is a hard constraint. We can’t schedule a migration during peak season.
+- [43] **Misaki**: - **Misaki**: @Ryuji, that timing is critical. But my findings show two key admins retiring this year, leaving us dangerously thin.
+- [44] **Benjamin**: @Benjamin, that confirms it. We are bleeding money on add-ons while the core system rots. We need a fixed scope.
+- [45] **Midori**: - **Midori**: @Benjamin, that pricing trap is real. But my support review shows we had no owner for two days last winter.
+- [46] **Ryuji**: @Midori, unowned support is a disaster waiting to happen. We need a single throat to choke when the yard freezes.
+- [47] **May**: - **May**: @Ryuji, agreed. But remember the warehouse rules changed twice last year. A rigid system will break under that pressure.
+- [48] **Misaki**: - **Misaki**: @May, rigid systems fail, but so do people. My supervisor data shows they quietly dropped the last rollout’s steps within weeks.
+- [49] **Benjamin**: @Misaki, that’s the human cost I can’t ignore. If the team abandons the new process, we’re just paying for a more expensive failure.
+- [50] **Midori**: - **Midori**: @Benjamin, exactly. We need a vendor who owns the whole lifecycle, not just the initial sale.
+- [51] **Ryuji**: @Midori, agreed. But ownership means nothing if the hardware can’t talk to the new software. My yard trial failed because the devices were too old.
+- [52] **May**: - **May**: @Ryuji, old hardware is a trap. If the new system needs modern devices, that’s a hidden capital cost we haven’t budgeted for.
+- [53] **Misaki**: @May, hardware costs are real, but if the supervisors ignore the new steps, the devices are just expensive paperweights.
+- [54] **Benjamin**: @Misaki, true, but if the hardware fails, the supervisors have nothing to ignore. We need a vendor who handles both the code and the metal.
+## Round 3
+- [60] **Midori**: - **Midori**: Candidates are here. Meridian’s fixed configuration and regional team seem to address our support ownership gap directly.
+- [61] **Ryuji**: - **Ryuji**: Meridian’s fixed config sounds rigid. If our yard devices are already a mess, a locked-down system might just break faster.
+- [62] **May**: - **May**: @Ryuji, fixed config sounds safe, but remember our rules changed twice last year. Rigid means we’re stuck with the old way.
+- [63] **Misaki**: - **Misaki**: @May, rigidity is dangerous, but so is a partner firm handling training. My supervisors already ignored the last rollout’s steps.
+- [64] **Benjamin**: @Midori, Meridian’s regional team is a start, but I need to see if their fixed configuration locks out the add-ons that quietly inflate our bills.
+- [65] **Midori**: - **Midori**: @Benjamin, valid point. But Tessera’s partner firm handles migration and training, which might solve our data lift and staffing gaps.
+- [66] **Ryuji**: @Midori, a partner firm is a liability. If the data lift fails, who owns the yard? I need direct control, not a subcontractor.
+- [67] **May**: - **May**: @Ryuji, you’re right to be wary. But if the partner firm is the one who botched the 2018 lift, we’re just buying the same mistake again.
+- [68] **Misaki**: - **Misaki**: @Ryuji, I agree. But if we hire in-house, we’re stretching our remaining admins thinner. The partner firm is a risk, but so is our current staffing.
+- [69] **Benjamin**: @Ryuji, direct control is expensive. If we self-manage, we pay for the hardware, the staff, and the downtime. I need to see if that bill is sustainable.
+- [70] **Midori**: - **Midori**: @Benjamin, sustainable is relative. Corvus’s modular approach lets us pay only for what we use, avoiding the bundled bloat.
+- [71] **Ryuji**: @Midori, modular means four separate contracts. Last winter, four suppliers meant two days of silence. I won’t gamble the yard on that fragmentation.
+- [72] **May**: @Ryuji, fragmentation is a nightmare, but Corvus lets us swap just the broken piece. We don’t have to rebuild the whole house to fix a leaky roof.
+- [73] **Misaki**: @May, swapping pieces sounds efficient, but if the modules don’t talk, we’re back to unowned outages. I need a single point of accountability.
+- [74] **Benjamin**: @Misaki, accountability is a luxury. Modular licensing is a trap; those separate pieces climbed yearly in our invoices. I won’t pay for fragmentation.
+- [75] **Midori**: - **Midori**: @Benjamin, you’re right about the cost. But Anchor’s on-site engineering team might finally give us the single owner we’ve been missing.
+- [76] **Ryuji**: @Midori, on-site engineering is the only option that respects our yard reality. If they are here, they fix the hardware and the code together.
+- [77] **May**: - **May**: @Ryuji, on-site is good, but if they deploy on our own servers, we own the upgrade risk. Remember the dispatch tool? We skipped three windows.
+- [78] **Misaki**: @May, that upgrade risk is real, but with two admins retiring, we can’t afford to be the ones fixing it. Their presence is our safety net.
+- [79] **Benjamin**: @May, you’re right about the upgrade risk. But on our servers, we control the scope. No surprise add-ons, no subscription creep. Just a fixed, auditable bill.
+### Vote
+- Midori -> A
+- Ryuji -> D
+- May -> D
+- Benjamin -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Benjamin**: The old three-person split is mathematically obsolete. We need data, not nostalgia.
+- [6] **Mio**: I’m worried about who actually does the math. It’s always the same person.
+- [7] **Jonathan**: I agree. We should verify if the current load matches the current usage.
+- [8] **Victoria**: I need to see the full year’s data before committing to any new structure.
+- [9] **Minato**: I just want us to be nice to each other while we figure this out.
+- [10] **Benjamin**: Nostalgia is a poor auditor. Let’s look at the actual consumption patterns.
+- [11] **Mio**: @Benjamin, fair point. But who tracks the plug-in monitors? That’s tedious work.
+- [12] **Jonathan**: I can review the statements. I prefer quiet analysis over loud arguments.
+- [13] **Victoria**: I am concerned about the upfront costs of changing the metering setup.
+- [14] **Minato**: I think we should check how the other house handled their recent changes.
+- [15] **Benjamin**: The heating habits are the biggest variable. We need to know who uses what.
+- [16] **Mio**: I’ll look at the reconciliation template. I want to see how much time it takes.
+- [17] **Jonathan**: I will examine the last twelve utility statements to find the baseline.
+- [18] **Victoria**: I need to understand the winter habits to predict my future liability.
+- [19] **Minato**: I’m going to look at the kitchen notice. It might explain the cooler usage.
+- [20] **Benjamin**: Let’s proceed with the investigation. Logic will guide us to a fair outcome.
+- [21] **Mio**: I hope the template isn’t too complicated. I don’t want to lose my evenings.
+- [22] **Jonathan**: I will focus on the raw numbers. They do not lie, unlike rumors.
+- [23] **Victoria**: I will review the payment log to see where the money actually went.
+- [24] **Minato**: I will look at the sunlight and heating needs. It feels like a good start.
+## Round 2
+- [35] **Benjamin**: The data is stark. One room consumes four times more than the others.
+- [36] **Mio**: I tried the template. It’s a nightmare. It takes hours to key in every invoice.
+- [37] **Jonathan**: I see the variance. February was nearly triple August. The old split ignores this.
+- [38] **Victoria**: The log shows late payments when amounts shifted. I need stability, not surprises.
+- [39] **Minato**: The cooler notice says people avoided arguing. I don’t want that here.
+- [40] **Benjamin**: @Mio, if the template is too hard, we need a simpler metric.
+- [41] **Mio**: Exactly. I can’t spend my whole weekend doing this. It’s not sustainable.
+- [42] **Jonathan**: The monitor readings confirm the heater is the culprit. We must account for that.
+- [43] **Victoria**: I am afraid of a system that changes every month. I need a fixed baseline.
+- [44] **Minato**: I think we should just split it evenly. It’s the kindest way to start.
+- [45] **Benjamin**: Even splits are unfair when usage varies by four. We need a tiered approach.
+- [46] **Mio**: I agree with Benjamin. But who calculates the tiers? I refuse to be the accountant.
+- [47] **Jonathan**: I can calculate the tiers. I enjoy the quiet work of balancing the books.
+- [48] **Victoria**: If Jonathan does the math, I can accept a tiered system. I need predictability.
+- [49] **Minato**: I’m a little scared of tiers. What if I get the highest one?
+- [50] **Benjamin**: The tiers will be based on room characteristics, not personal habits.
+- [51] **Mio**: That sounds fair. I just need to know it won’t eat my life.
+- [52] **Jonathan**: I will draft the tiers based on the monitor data. It will be objective.
+- [53] **Victoria**: I will review the draft. I need to see the numbers before I agree.
+- [54] **Minato**: Okay. I trust you all to be fair. I just want us to stay friends.
+## Round 3
+- [60] **Benjamin**: Option C is the only one that reflects reality. The data demands it.
+- [61] **Mio**: Option B sounds manageable. I don’t want to track meters every month.
+- [62] **Jonathan**: Option C is precise. It removes the guesswork and the rumors of unfairness.
+- [63] **Victoria**: Option B offers the stability I need. I can budget for a fixed rate.
+- [64] **Minato**: Option A feels the most peaceful. No one has to do extra work.
+- [65] **Benjamin**: @Minato, peace built on unfairness is just delayed conflict. Choose C.
+- [66] **Mio**: I’m leaning B. It’s a fixed rate, so I know what to expect.
+- [67] **Jonathan**: I support C. It is the most honest way to divide the burden.
+- [68] **Victoria**: I am voting B. The annual settlement is a small price for monthly certainty.
+- [69] **Minato**: I’m still worried about C. It feels like a lot of pressure on everyone.
+- [70] **Benjamin**: The pressure of C is the pressure of truth. It is worth it.
+- [71] **Mio**: I can’t do C. The template trial showed me how much work it is.
+- [72] **Jonathan**: I will handle the reconciliation for C. It will be quiet and efficient.
+- [73] **Victoria**: I need to know the upfront cost of C. If it’s high, I cannot commit.
+- [74] **Minato**: I think B is a good middle ground. It’s not too much work.
+- [75] **Benjamin**: I will vote C. It is the logical choice for a shared house.
+- [76] **Mio**: I am voting B. I need my evenings back.
+- [77] **Jonathan**: I am voting C. It ensures fairness for everyone, regardless of habit.
+- [78] **Victoria**: I am voting B. I need the financial predictability it provides.
+- [79] **Minato**: I am voting A. I want us to keep it simple and kind.
+### Vote
+- Benjamin -> C
+- Mio -> B
+- Jonathan -> C
+- Victoria -> B
+- Minato -> A
+## Result
+- adopted: B

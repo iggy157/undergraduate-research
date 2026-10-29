@@ -1,0 +1,73 @@
+# shared_living_0019__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **George**: I worry we are just moving the sore point elsewhere.
+- [6] **Toshio**: The arrangement costs more in evenings than in fuel.
+- [7] **Victoria**: I need to know if it is ready when I need it.
+- [8] **Misaki**: We need to see who is actually subsidising whom.
+- [9] **Minato**: I just want to know the real numbers for the year.
+- [10] **George**: @Minato, yes, the numbers are a good start.
+- [11] **Toshio**: @George, I agree, but I need to see the time cost.
+- [12] **Victoria**: @Toshio, time is fine, but I care about the car's state.
+- [13] **Misaki**: @Victoria, state matters, but so does the fairness of the split.
+- [14] **Minato**: @Misaki, fairness is hard without the actual receipts.
+- [15] **George**: Let us look at what other households did to avoid this.
+- [16] **Toshio**: I will check the diary to see where the hours go.
+- [17] **Victoria**: I want to see the state of the car at handover.
+- [18] **Misaki**: I will look at the fuel receipts to see the usage.
+- [19] **Minato**: I will check the tax and insurance papers for the base cost.
+- [20] **George**: I will also look at the mechanic's remarks.
+- [21] **Toshio**: I will also check the weeks of heavy use.
+- [22] **Victoria**: I will also look at the trips that repeat weekly.
+- [23] **Misaki**: I will also check the hours of use in the diary.
+- [24] **Minato**: I will also look at the fuel receipts.
+## Round 2
+- [35] **George**: The other households said asking favours is what sours things.
+- [36] **Toshio**: The diary shows Saturday is used three times more than Tuesday.
+- [37] **Victoria**: The car was handed over with the fuel light on twice.
+- [38] **Misaki**: The fuel receipts show two of us bought over half the litres.
+- [39] **Minato**: The base costs are over 280,000 yen before fuel.
+- [40] **George**: @Misaki, that lopsided fuel use explains a lot of the tension.
+- [41] **Toshio**: @Minato, 280,000 yen is a lot to guess at.
+- [42] **Victoria**: @Toshio, the heavy use weeks are when it all falls apart.
+- [43] **Misaki**: @George, so we need a system that doesn't rely on asking.
+- [44] **Minato**: @Victoria, the repeated trips are the ones that keep collapsing.
+- [45] **George**: The mechanic said short runs eat the brakes and battery.
+- [46] **Toshio**: The heavy use weeks cost whole evenings of working around each other.
+- [47] **Victoria**: The weekly trips are the ones that keep collapsing at short notice.
+- [48] **Misaki**: The diary confirms the days are very unequal in usage.
+- [49] **Minato**: The fuel receipts match what Misaki said about the lopsided use.
+- [50] **George**: We need to stop the favour-asking cycle.
+- [51] **Toshio**: We need to account for the time spent arranging.
+- [52] **Victoria**: We need to ensure the car is ready for the weekly trips.
+- [53] **Misaki**: We need a fair split that accounts for the unequal usage.
+- [54] **Minato**: We need a clear record of who drives and what it costs.
+## Round 3
+- [60] **George**: Option A seems to address the favour-asking issue directly.
+- [61] **Toshio**: Option B might be simpler, but it ignores the unequal usage.
+- [62] **Victoria**: Option C puts too much burden on one person.
+- [63] **Misaki**: Option A allows for a fair split based on actual distance.
+- [64] **Minato**: Option A gives us the clear record we need.
+- [65] **George**: @Toshio, Option A also records the time, which helps with the arrangement.
+- [66] **Toshio**: @George, true, but it requires more effort to record.
+- [67] **Victoria**: @Misaki, Option A ensures the car is reserved for the weekly trips.
+- [68] **Misaki**: @Victoria, yes, and it prevents the handover issues.
+- [69] **Minato**: @Toshio, the effort is worth it for the clarity.
+- [70] **George**: I think Option A is the best way to prevent future sours.
+- [71] **Toshio**: I am leaning towards Option A, despite the effort.
+- [72] **Victoria**: I prefer Option A for the reliability of the weekly trips.
+- [73] **Misaki**: I vote for Option A for the fairness.
+- [74] **Minato**: I vote for Option A for the clear figures.
+- [75] **George**: Let us go with Option A.
+- [76] **Toshio**: Agreed.
+- [77] **Victoria**: Agreed.
+- [78] **Misaki**: Agreed.
+- [79] **Minato**: Agreed.
+### Vote
+- George -> A
+- Toshio -> A
+- Victoria -> A
+- Misaki -> A
+- Minato -> A
+## Result
+- adopted: A

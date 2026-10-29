@@ -1,0 +1,73 @@
+# shared_living_0001__single-batch (shared_living)
+
+## Round 1
+- [5] **Mio**: I need to check how the flat fee lands on different members.
+- [6] **Shizue**: I worry about the year-groups staying separate again this time.
+- [7] **Ryuji**: We need to ensure the organizers don't burn out like last year.
+- [8] **Rin**: I want to know if the sleeping arrangements will be comfortable.
+- [9] **Misaki**: I must verify where the money actually goes before we commit.
+- [10] **Mio**: @Ryuji, do you think the current setup is sustainable for the staff?
+- [11] **Shizue**: @Mio, I agree, fairness is key, but so is community.
+- [12] **Ryuji**: @Mio, yes, the workload was too heavy for the previous team.
+- [13] **Rin**: @Shizue, I hope we can find a place where everyone sleeps well.
+- [14] **Misaki**: @Ryuji, I am looking into the financial records to be sure.
+- [15] **Mio**: I will look at the transport receipts to see the costs.
+- [16] **Shizue**: I will check what the seniors say about mixing year-groups.
+- [17] **Ryuji**: I will review the canteen closure and cooking duty logs.
+- [18] **Rin**: I will look at the accounts from clubs that went inland.
+- [19] **Misaki**: I will check the prefecture rate sheet for public beds.
+- [20] **Mio**: Also, I will check the quoting terms for whole-building lets.
+- [21] **Shizue**: And I will look at the attendance sheets for away camps.
+- [22] **Ryuji**: I will also check the lottery and application for public bookings.
+- [23] **Rin**: I will also check the membership list against first-train times.
+- [24] **Misaki**: I will also check the vacation timetable for the club's own hall.
+## Round 2
+- [35] **Mio**: Transport is huge, 38% of costs if we go far.
+- [36] **Shizue**: Seniors say mixing only happens when we sleep together.
+- [37] **Ryuji**: Cooking duty took two hours a day last year.
+- [38] **Rin**: Inland clubs slept eight to a room with lights out at eleven.
+- [39] **Misaki**: Public beds are 1,100 yen a night, all-inclusive.
+- [40] **Mio**: @Rin, eight to a room sounds terrible for sleep.
+- [41] **Shizue**: @Ryuji, that explains why the organizers were so tired.
+- [42] **Ryuji**: @Mio, yes, and the application for public centers is a nightmare.
+- [43] **Rin**: @Misaki, is the campus option better for sleep?
+- [44] **Misaki**: @Rin, the campus hall is already booked by three other clubs.
+- [45] **Mio**: @Shizue, if we stay local, do we still mix?
+- [46] **Shizue**: @Mio, probably not, unless we force it, which is hard.
+- [47] **Ryuji**: @Misaki, so the campus option is split into early and late slots?
+- [48] **Rin**: @Ryuji, that sounds exhausting. I prefer the coastal lodge.
+- [49] **Misaki**: @Rin, the coastal lodge has non-refundable deposits for dropouts.
+- [50] **Mio**: @Misaki, that's a risk, but the transport cost is lower.
+- [51] **Shizue**: @Mio, I worry about the dropouts, but I want us to bond.
+- [52] **Ryuji**: @Shizue, the public center is too rigid with the lottery.
+- [53] **Rin**: @Ryuji, I agree, the coastal lodge feels more open.
+- [54] **Misaki**: @Rin, I need to see the final numbers before I agree.
+## Round 3
+- [60] **Mio**: Option A is cheap but split shifts. Option B is rigid. Option C is risky but fun.
+- [61] **Shizue**: Option C seems best for mixing, despite the deposit risk.
+- [62] **Ryuji**: Option B is too much paperwork. Option A is too fragmented.
+- [63] **Rin**: Option C is the only one where I can sleep well and have fun.
+- [64] **Misaki**: Option C has the highest per-head cost, but the transport is lower.
+- [65] **Mio**: @Misaki, if we go with C, we need a strict headcount.
+- [66] **Shizue**: @Mio, I agree, we must be careful with the numbers.
+- [67] **Ryuji**: @Shizue, I am worried about the non-refundable deposit.
+- [68] **Rin**: @Ryuji, we can manage it if everyone commits early.
+- [69] **Misaki**: @Rin, I will check the exact quote for the coastal lodge.
+- [70] **Mio**: @Rin, I think C is the best balance of cost and experience.
+- [71] **Shizue**: @Mio, I agree, the social aspect is crucial for the club.
+- [72] **Ryuji**: @Shizue, I am still hesitant, but I see the logic.
+- [73] **Rin**: @Ryuji, please, I really want to go to the coast!
+- [74] **Misaki**: @Ryuji, the financial gap is manageable if we are precise.
+- [75] **Mio**: I am voting for C.
+- [76] **Shizue**: I am voting for C.
+- [77] **Ryuji**: I am voting for C, reluctantly.
+- [78] **Rin**: I am voting for C!
+- [79] **Misaki**: I am voting for C.
+### Vote
+- Mio -> C
+- Shizue -> C
+- Ryuji -> C
+- Rin -> C
+- Misaki -> C
+## Result
+- adopted: C

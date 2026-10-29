@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: We must judge by the last decade’s failures, not just pretty drawings.
+- [6] **Misaki**: Agreed. I need to know if the ground will hold the new structures.
+- [7] **Mio**: I’m worried about the bills after the ribbon is cut. Who pays for the upkeep?
+- [8] **Asuka**: The city’s maintenance rota is shrinking. I need to know who actually works here.
+- [9] **Minako**: Paper plans ignore the rain. I need to see how the water actually moves.
+- [10] **Benjamin**: @Mio, exactly. If the concrete cracks in year two, the budget vanishes.
+- [11] **Misaki**: @Benjamin, true. But if the soil shifts, the concrete never even gets poured.
+- [12] **Mio**: I’ll check the fund terms. If it’s a one-off grant, we’re doomed.
+- [13] **Asuka**: I’ll look at the groundskeeping roll. If the staff is gone, the park is dead.
+- [14] **Minako**: I’ll check the drainage callouts. If the ground stays wet, nothing grows.
+- [15] **Benjamin**: I’ll review the condition of works from the earlier programme.
+- [16] **Misaki**: I’ll check the regional firms tendering for earth-moving.
+- [17] **Mio**: I’ll also look at the upkeep ledger spend per hectare.
+- [18] **Asuka**: I’ll also check the volunteer groups working with the division.
+- [19] **Minako**: I’ll also check the timed counts of weekday crossings.
+- [20] **Benjamin**: Let’s see what the data says before we pick a winner.
+- [21] **Misaki**: I want to know if the contractors can actually finish on time.
+- [22] **Mio**: I want to know if the city can afford to keep the lights on.
+- [23] **Asuka**: I want to know if there are enough hands to sweep the leaves.
+- [24] **Minako**: I want to know if the paths stay dry when the August heat hits.
+## Round 2
+- [35] **Benjamin**: The apron outside the hall was patched three times. That is not a design flaw; it is a commissioning failure.
+- [36] **Misaki**: @Benjamin, the firms confirm the clay is the real enemy. They will only quote shallow work.
+- [37] **Mio**: @Misaki, that matches my ledger. Planted ground costs triple to keep. The fund won’t cover the paths.
+- [38] **Asuka**: @Mio, the roll is down to seven. The volunteers are already stretched thin on weekends.
+- [39] **Minako**: @Asuka, the counts show people want hard ground. The drainage data confirms the soft ground fails.
+- [40] **Benjamin**: So we have a choice: expensive, fragile greenery, or cheap, durable stone. The data is clear.
+- [41] **Misaki**: The contractors say deep foundations are a no-go. We must design for shallow, small-plant work.
+- [42] **Mio**: The fund terms are a trap. If we spend it on trees, we have no money for the paths.
+- [43] **Asuka**: The volunteers can’t mow a new meadow. They can sweep a paved plaza. That is the only realistic option.
+- [44] **Minako**: The heat readings show the paved areas are the only ones people actually use. The rest is just mud.
+- [45] **Benjamin**: I am leaning toward the plan that minimizes the surface area requiring active maintenance.
+- [46] **Misaki**: I agree. The plan with the shallow, hard-surface core is the only one the firms can deliver.
+- [47] **Mio**: I support the plan that keeps the planted area small enough to fit the fund’s strict terms.
+- [48] **Asuka**: I support the plan that relies on the existing volunteer groups for simple, low-skill tasks.
+- [49] **Minako**: I support the plan that respects the drainage data and the actual foot traffic patterns.
+- [50] **Benjamin**: It seems we are converging on the same conclusion. The data does not lie.
+- [51] **Misaki**: The construction risk is too high for anything else. We must be realistic.
+- [52] **Mio**: The financial risk is too high for anything else. We must be sustainable.
+- [53] **Asuka**: The staffing risk is too high for anything else. We must be manageable.
+- [54] **Minako**: The environmental risk is too high for anything else. We must be practical.
+## Round 3
+- [60] **Benjamin**: Option A is the only one that matches the durability of the overflow basin. The others are just expensive art.
+- [61] **Misaki**: @Benjamin, Option A is the only one the firms can build without hitting the clay. The others require deep work.
+- [62] **Mio**: @Misaki, Option A is the only one that fits the fund terms. The others require money we do not have.
+- [63] **Asuka**: @Mio, Option A is the only one the volunteers can manage. The others require staff we do not have.
+- [64] **Minako**: @Asuka, Option A is the only one that matches the foot traffic. The others are just mud.
+- [65] **Benjamin**: I am voting for A. It is the only plan that will still look good in ten years.
+- [66] **Misaki**: I am voting for A. It is the only plan that can be built on this ground.
+- [67] **Mio**: I am voting for A. It is the only plan that will not bankrupt the city in three years.
+- [68] **Asuka**: I am voting for A. It is the only plan that the existing staff and volunteers can actually run.
+- [69] **Minako**: I am voting for A. It is the only plan that respects the way people actually use the park.
+- [70] **Benjamin**: The data is unanimous. We have no choice but to pick the pragmatic option.
+- [71] **Misaki**: The construction constraints are absolute. We cannot ignore the soil.
+- [72] **Mio**: The financial constraints are absolute. We cannot ignore the ledger.
+- [73] **Asuka**: The staffing constraints are absolute. We cannot ignore the roll.
+- [74] **Minako**: The environmental constraints are absolute. We cannot ignore the drainage.
+- [75] **Benjamin**: Let us record the vote. The decision is made by the evidence, not by sentiment.
+- [76] **Misaki**: I am ready to vote. The risk is too high for anything else.
+- [77] **Mio**: I am ready to vote. The cost is too high for anything else.
+- [78] **Asuka**: I am ready to vote. The workload is too high for anything else.
+- [79] **Minako**: I am ready to vote. The practicality is too high for anything else.
+### Vote
+- Benjamin -> A
+- Misaki -> A
+- Mio -> A
+- Asuka -> A
+- Minako -> A
+## Result
+- adopted: A

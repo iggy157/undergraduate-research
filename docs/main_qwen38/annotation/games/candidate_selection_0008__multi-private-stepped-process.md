@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about who owns the system when it breaks. Let’s check support ownership during last winter's outage.
+- [6] **Ryuji**: The yard devices are old. I need to see the 2021 scheduling trial to understand hardware limits.
+- [7] **May**: I’m concerned about systems that quietly age. I’ll look at the upgrade history of the dispatch tool.
+- [8] **Misaki**: I need to know who is left to carry the load. I’ll check administrator retirements and hiring times.
+- [9] **Benjamin**: I care about the bill that keeps arriving. I’ll look at five years of renewal invoices.
+- [10] **Midori**: @Ryuji, if the hardware fails, does the vendor fix it? That’s part of ownership too.
+- [11] **Ryuji**: @Midori, yes. If the vendor can’t touch our old terminals, the system is useless on the floor.
+- [12] **May**: @Benjamin, do the invoices show a pattern of emergency fixes? That tells me about decay.
+- [13] **Misaki**: @May, decay hits the people who have to patch it. I’m watching the staffing gaps.
+- [14] **Benjamin**: @May, exactly. I’m looking for the line items that appear only after the contract is signed.
+- [15] **Midori**: I also want to see the depot calendar. Peak season cutover is where plans usually break.
+- [16] **Ryuji**: Agreed. The calendar dictates when we can actually test. I’ll check the depot calendar and the peak-season cutover.
+- [17] **May**: I’ll also look at the data lift in the 2018 pay move. Bad migrations start there.
+- [18] **Misaki**: I’ll also check the depot supervisors and the last rollout. They know the real pain points.
+- [19] **Benjamin**: I’ll also look at the board minutes on capital and operating requests. That’s where the real budget lives.
+- [20] **Midori**: Let’s see what these records reveal. I hope we find a clear owner.
+- [21] **Ryuji**: I hope we find a system that doesn’t crash when the forklifts start moving.
+- [22] **May**: I hope we find a system that doesn’t rot in the first year.
+- [23] **Misaki**: I hope we find a system that doesn’t break the people who run it.
+- [24] **Benjamin**: I hope we find a system that doesn’t break the bank after the handshake.
+## Round 2
+- [35] **Midori**: The support records are worrying. Last winter, the outage sat unowned for two days. We need a single throat to choke.
+- [36] **Ryuji**: My findings confirm the hardware is a patchwork. The 2021 trial failed because the devices couldn’t sync. We need a system that works on old terminals.
+- [37] **May**: I found that the dispatch tool skipped three upgrades because testing was too heavy. And the 2018 pay move had a bad data lift. We need a system that is easy to upgrade and migrate.
+- [38] **Misaki**: I found that two key administrators are leaving, and the last rollout’s training was ignored by supervisors. We need a system that is easy to learn and doesn’t rely on a few experts.
+- [39] **Benjamin**: I found that bundled agreements held their price, while separately licensed pieces climbed yearly. And the board trims capital but passes operating lines easily. We need a system with a fixed, bundled price that doesn’t rely on capital approval.
+- [40] **Midori**: @Ryuji, if the hardware is a patchwork, a hosted system might be safer. It doesn’t depend on our old terminals.
+- [41] **Ryuji**: @Midori, hosted systems still need the terminals to connect. If the terminals can’t sync, the cloud is useless. We need a system that works with our existing hardware.
+- [42] **May**: @Ryuji, I agree. But a system that is easy to upgrade is also important. If we can’t test it, we can’t fix it.
+- [43] **Misaki**: @May, and if the training is ignored, the system is useless. We need a system that is intuitive, so the supervisors don’t have to be retaught.
+- [44] **Benjamin**: @Midori, a hosted system might have a fixed price, but it often comes with hidden data transfer fees. I need to see the total cost of ownership.
+- [45] **Midori**: @Benjamin, I understand. But a single vendor with a fixed price is better than four suppliers pointing at each other.
+- [46] **Ryuji**: @Midori, I agree. But the vendor must be able to work with our old hardware. If they can’t, we’re stuck.
+- [47] **May**: @Ryuji, and the vendor must be able to upgrade the system easily. If they can’t, we’re stuck with a system that rots.
+- [48] **Misaki**: @May, and the vendor must be able to train the staff easily. If they can’t, we’re stuck with a system that the staff ignores.
+- [49] **Benjamin**: @Midori, I agree. A single vendor with a fixed price is the only way to avoid the hidden costs. But we need to make sure the price is truly fixed.
+- [50] **Midori**: Let’s see the candidates. I hope one of them offers a single owner and a flexible plan.
+- [51] **Ryuji**: I hope one of them works with our old hardware and fits our tight calendar.
+- [52] **May**: I hope one of them is easy to upgrade and migrate, so it doesn’t rot.
+- [53] **Misaki**: I hope one of them is easy to learn and doesn’t rely on a few experts, so the staff can actually use it.
+- [54] **Benjamin**: I hope one of them has a fixed, bundled price that doesn’t rely on capital approval, so the bill doesn’t keep arriving.
+## Round 3
+- [60] **Midori**: I’m leaning toward D. The on-site engineering team means someone is actually there when things break. That solves the ownership problem.
+- [61] **Ryuji**: I agree with @Midori. D is built for transport and runs on our own servers. It will work with our old hardware and fit our calendar.
+- [62] **May**: I’m also leaning toward D. The on-site team can handle upgrades and migrations properly. It won’t rot in place.
+- [63] **Misaki**: I’m leaning toward D. The on-site team can train the staff directly. It won’t rely on a few experts who are leaving.
+- [64] **Benjamin**: I’m leaning toward D. The on-site team and fixed deployment mean a predictable cost. It won’t have hidden fees or fragmented billing.
+- [65] **Midori**: @Ryuji, yes. The on-site team is the key. They can’t point at each other like the last winter’s suppliers.
+- [66] **Ryuji**: @Midori, exactly. And the system is built for our industry. It will work with our yard devices and our peak-season calendar.
+- [67] **May**: @Ryuji, and the on-site team can handle the data migration properly. No more mismatched route codes for a year.
+- [68] **Misaki**: @May, and the on-site team can train the supervisors directly. No more ignored training materials.
+- [69] **Benjamin**: @Midori, and the fixed deployment means the cost is locked in. No more surprise invoices for add-ons or data transfers.
+- [70] **Midori**: I’m confident in D. It gives us a clear owner and a system that fits our reality.
+- [71] **Ryuji**: I’m confident in D. It works with our hardware and our schedule. It’s the only option that survives the depot floor.
+- [72] **May**: I’m confident in D. It’s easy to upgrade and migrate. It won’t decay quietly.
+- [73] **Misaki**: I’m confident in D. It’s easy to learn and doesn’t rely on a few experts. The staff can actually use it.
+- [74] **Benjamin**: I’m confident in D. It has a fixed, bundled price. The bill won’t keep arriving after the handshake.
+- [75] **Midori**: Let’s vote. I think D is the right choice for all of us.
+- [76] **Ryuji**: I agree. D is the only option that works with our physical reality.
+- [77] **May**: I agree. D is the only option that won’t rot in the first year.
+- [78] **Misaki**: I agree. D is the only option that won’t break the people who run it.
+- [79] **Benjamin**: I agree. D is the only option that won’t break the bank after the handshake.
+### Vote
+- Midori -> D
+- Ryuji -> D
+- May -> D
+- Misaki -> D
+- Benjamin -> D
+## Result
+- adopted: D

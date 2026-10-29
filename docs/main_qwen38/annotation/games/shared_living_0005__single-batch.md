@@ -1,0 +1,73 @@
+# shared_living_0005__single-batch (shared_living)
+
+## Round 1
+- [5] **Benjamin**: The current split feels arbitrary. I want to know if our usage actually matches our share.
+- [6] **Mio**: I’m tired of doing the math every month. Who is actually responsible for tracking this?
+- [7] **Jonathan**: We need to verify if the old three-person agreement still holds up for five people.
+- [8] **Victoria**: I need to see the actual numbers before I agree to any new structure.
+- [9] **Minato**: I just want us to stop arguing about money. It’s making the house feel cold.
+- [10] **Benjamin**: @Mio, if we automate it, does the burden disappear? Or just shift?
+- [11] **Mio**: @Benjamin, it shifts to whoever sets it up. I don’t want that to be me.
+- [12] **Jonathan**: @Victoria, what specific data are you looking for? I can help pull it.
+- [13] **Victoria**: @Jonathan, I need the historical variance. I’m worried about winter spikes.
+- [14] **Minato**: I think looking at the last year’s bills would help everyone feel safer.
+- [15] **Benjamin**: I’m concerned about the heating costs specifically. It’s a big chunk of the bill.
+- [16] **Mio**: I’ll look into how other houses handle this. Maybe there’s a template.
+- [17] **Jonathan**: I want to check the payment logs. I suspect there’s friction we’re ignoring.
+- [18] **Victoria**: I’ll look at the utility statements. I need to see the seasonal swing.
+- [19] **Minato**: I’ll check the kitchen notice. I remember people complaining about the cooler.
+- [20] **Benjamin**: Let’s see what the data says. I’m done guessing.
+- [21] **Mio**: Agreed. I’ll look at the reconciliation template too.
+- [22] **Jonathan**: I’ll also look at the settling up process when rooms filled.
+- [23] **Victoria**: I’ll check the electrician’s quote. I need to know the upfront cost.
+- [24] **Minato**: I’ll look at the winter habits at another house. I want to know if it’s worth it.
+## Round 2
+- [35] **Benjamin**: The monitor readings are shocking. One room uses four times more than another.
+- [36] **Mio**: The template trial was a nightmare. Keying in every invoice took hours.
+- [37] **Jonathan**: The payment log shows three late payments. People are anxious about the amounts.
+- [38] **Victoria**: The electrician quote is 34,000 yen per room. That’s a huge upfront cost.
+- [39] **Minato**: The winter habits show people just leave heaters on. It’s not about control, it’s about comfort.
+- [40] **Benjamin**: @Victoria, 34,000 yen is steep. Is it worth it for the accuracy?
+- [41] **Mio**: @Benjamin, if the template is this hard, manual metering will be worse.
+- [42] **Jonathan**: @Mio, the late payments suggest people don’t trust the current system.
+- [43] **Victoria**: @Benjamin, I’m hesitant. The upfront cost is high, but the winter bills are too.
+- [44] **Minato**: I think the cooler notice shows people are already avoiding shared costs.
+- [45] **Benjamin**: The usage gap is too big to ignore. We need a way to account for it.
+- [46] **Mio**: I don’t want to be the one logging readings for forty minutes every month.
+- [47] **Jonathan**: The settling up process took three weeks last time. We need something simpler.
+- [48] **Victoria**: I need to see if the seasonal fixed rate covers the winter spike.
+- [49] **Minato**: I’m worried that any new system will just create new arguments.
+- [50] **Benjamin**: Let’s look at the options. I think per-room metering is the only fair way.
+- [51] **Mio**: I’m leaning towards a seasonal fixed rate. It’s less work for everyone.
+- [52] **Jonathan**: I agree with Mio. A fixed rate reduces the monthly friction.
+- [53] **Victoria**: I’m still on the fence. The upfront cost of metering is a barrier.
+- [54] **Minato**: I just want us to get along. Whatever we choose, let’s stick to it.
+## Round 3
+- [60] **Benjamin**: Option C, per-room metering, is the most accurate. It ends the guessing.
+- [61] **Mio**: Option B, seasonal fixed rate, is the most practical. It saves us time.
+- [62] **Jonathan**: Option B is better. It avoids the monthly disputes we’ve been having.
+- [63] **Victoria**: Option A, flat share, is the simplest, but it ignores the usage gap.
+- [64] **Minato**: I think Option B is the kindest. It doesn’t make anyone feel judged.
+- [65] **Benjamin**: @Mio, but what if the winter bill is double the summer bill? Who pays the difference?
+- [66] **Mio**: @Benjamin, the difference is settled once a year. It’s a one-time thing.
+- [67] **Jonathan**: @Benjamin, the annual settlement is manageable. The monthly stress is not.
+- [68] **Victoria**: @Mio, I need to know if the fixed rate covers the February spike.
+- [69] **Minato**: I think the annual settlement is fine. It’s better than monthly arguments.
+- [70] **Benjamin**: I’m still worried about the fairness. But I’ll vote for B to keep the peace.
+- [71] **Mio**: I’m voting for B. I don’t want to be the bookkeeper.
+- [72] **Jonathan**: I’m voting for B. It’s the most stable option.
+- [73] **Victoria**: I’m voting for B. The upfront cost of C is too high for me.
+- [74] **Minato**: I’m voting for B. I want us to stop fighting.
+- [75] **Benjamin**: Let’s go with B. It’s the best compromise.
+- [76] **Mio**: Agreed. Let’s set the rates and move on.
+- [77] **Jonathan**: I’ll help draft the seasonal rates.
+- [78] **Victoria**: I’ll review the numbers to make sure they’re fair.
+- [79] **Minato**: Thank you. I’m glad we’re all on the same page.
+### Vote
+- Benjamin -> B
+- Mio -> B
+- Jonathan -> B
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# shared_living_0019__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **George**: I worry we are just moving the sore point. Let us look at what sours groups like ours.
+- [6] **Toshio**: I need to see where the arranging hours actually go before we commit to another year.
+- [7] **Victoria**: I care about the state of the car when I pick it up on a plain morning.
+- [8] **Misaki**: I want to know what an even split actually accounts for, not just the idea of it.
+- [9] **Minato**: I am curious about the real figures. I want to see who has been driving.
+- [10] **George**: @Toshio, your hours concern is valid. But we must also check the social friction.
+- [11] **Toshio**: @George, agreed. I will look at the diary hours and the mechanic's remarks.
+- [12] **Victoria**: I will check the state of the car at handover and the weekly trips.
+- [13] **Misaki**: I will look at the fuel receipts and the tax papers to see the true cost.
+- [14] **Minato**: I will look at the fuel receipts and the diary hours to understand the usage.
+- [15] **George**: I will investigate the other households and the spell of checking figures.
+- [16] **Toshio**: That sounds reasonable. Let us see what the data says before we argue.
+- [17] **Victoria**: I hope the handover state shows if we are being careless or just unlucky.
+- [18] **Misaki**: The fuel receipts might show who is really using it. I am a bit absent-minded about this.
+- [19] **Minato**: I hope the numbers are clear. I do not like guessing with money.
+- [20] **George**: Let us proceed with these investigations. I want to avoid repeating past mistakes.
+- [21] **Toshio**: I will be brief. I just want the facts on the time cost.
+- [22] **Victoria**: I will keep my observations private until I have the full picture.
+- [23] **Misaki**: I will try to be precise with the financial documents.
+- [24] **Minato**: Okay. I will look at the receipts and the diary. Thank you all.
+## Round 2
+- [35] **George**: I found that asking favours sours relationships. Checking figures made people feel accused.
+- [36] **Toshio**: The diary shows Saturdays are triple Tuesdays. The mechanic says short runs damage the car more.
+- [37] **Victoria**: The car was handed over with low fuel and rubbish twice. The weekly trips keep collapsing.
+- [38] **Misaki**: The fuel receipts show two people bought over half the litres. The fixed costs are 280,000 yen.
+- [39] **Minato**: The receipts show two people bought most fuel. The diary shows Saturdays are much busier.
+- [40] **George**: @Misaki, if two people use it most, does that mean the others are subsidising them?
+- [41] **Toshio**: @George, the damage from short runs means the car costs more to maintain than distance suggests.
+- [42] **Victoria**: The collapsing weekly trips are the real problem. I need reliability for my clinic slot.
+- [43] **Misaki**: The 280,000 yen is a fixed cost. The fuel is variable. We need to separate these.
+- [44] **Minato**: It feels unfair if some people drive a lot and others don't. But the fixed costs are shared.
+- [45] **George**: We must avoid the "checking figures" trap. It creates resentment. We need a system that feels fair without constant auditing.
+- [46] **Toshio**: The time cost of arranging is high. A system that reduces coordination time is valuable.
+- [47] **Victoria**: If the weekly trips collapse, I cannot rely on the car. I need a guarantee for those hours.
+- [48] **Misaki**: If we split fixed costs equally, but fuel by usage, is that fair? Or should fuel be split equally too?
+- [49] **Minato**: I think splitting fuel by usage makes sense. But I worry about how we track it without arguing.
+- [50] **George**: The other households said asking favours is the killer. We need a system that doesn't require asking.
+- [51] **Toshio**: A booking system might reduce the arranging time. But it adds administrative burden.
+- [52] **Victoria**: A booking system could protect my weekly trips. But who enforces it?
+- [53] **Misaki**: I am leaning towards a system that accounts for the lopsided fuel use.
+- [54] **Minato**: I agree. We need to see the options now. I hope one of them is simple.
+## Round 3
+- [60] **George**: Option A seems to address the "asking favours" problem. But will the distance tracking cause the "checking figures" resentment?
+- [61] **Toshio**: Option A reduces arranging time if the calendar is respected. But recording distance is an hour a week, as the trial showed.
+- [62] **Victoria**: Option A protects my weekly trips if I book them. But I worry about the state of the car at handover.
+- [63] **Misaki**: Option A divides costs by distance. This accounts for the lopsided fuel use. But the fixed costs?
+- [64] **Minato**: Option A sounds fair. But I am worried about the effort of recording every run.
+- [65] **George**: @Toshio, the hour a week is a lot. But is it less than the current arranging time?
+- [66] **Toshio**: @George, it is comparable. But it is predictable. The current arranging is unpredictable and stressful.
+- [67] **Victoria**: Option B gives me fixed days. But if I don't use it, I still pay. And the state of the car?
+- [68] **Misaki**: Option B is simple. But it ignores the lopsided usage. If I drive more, I pay the same.
+- [69] **Minato**: Option B is easy. But it feels unfair if some people drive a lot and others don't.
+- [70] **George**: Option C puts the burden on one person. That person might resent the others.
+- [71] **Toshio**: Option C reduces coordination for the others. But the keeper bears the risk and the arranging.
+- [72] **Victoria**: Option C means I have to ask the keeper. That is the "asking favours" problem George mentioned.
+- [73] **Misaki**: Option C is the most complex. The keeper has to manage everything. I do not want to be the keeper.
+- [74] **Minato**: Option C seems hard for the keeper. I do not think it is fair to put all the work on one person.
+- [75] **George**: I think Option A is the best. It addresses the favour-asking and the cost fairness. The tracking effort is manageable.
+- [76] **Toshio**: I agree. Option A reduces the unpredictable arranging time. The distance tracking is a small price.
+- [77] **Victoria**: I will vote for Option A. It protects my weekly trips and accounts for the handover state if we agree on standards.
+- [78] **Misaki**: I vote for Option A. It accounts for the lopsided fuel use and the fixed costs.
+- [79] **Minato**: I vote for Option A. It seems the most fair and honest. I hope we can track the distance without arguing.
+### Vote
+- George -> A
+- Toshio -> A
+- Victoria -> A
+- Misaki -> A
+- Minato -> A
+## Result
+- adopted: A

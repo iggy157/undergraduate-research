@@ -1,0 +1,73 @@
+# shared_living_0015__multi-public (shared_living)
+
+## Round 1
+- [5] **Servas**: I have lived long enough to know that silence breeds resentment. Let us speak plainly about what this house truly costs us.
+- [6] **Midori**: I agree, Servas. The tension around money is already affecting how we talk to each other. Let’s address it openly before it gets worse.
+- [7] **Minato**: I just want to know if the old split is still fair. It feels a bit strange now that more people live here.
+- [8] **May**: I’m not ready to commit to a new number yet. I need to see exactly where the money goes before I agree to anything.
+- [9] **Daisuke**: I’m a bit worried about who has to keep track of all this. It takes a lot of time, and I don’t want it to fall on just one person.
+- [10] **Servas**: @Daisuke, your worry is wise. A system that burdens one soul is a system destined to fail. We must share the weight.
+- [11] **Midori**: @Daisuke, I hear you. I’m worried the tracking itself is causing the friction. Let’s look at how much time it actually takes.
+- [12] **Minato**: @Daisuke, I agree. It is hard when one person has to do all the checking. I hope we can find a way that is easy for everyone.
+- [13] **May**: @Daisuke, fair point. But I’m more worried about the actual cost. I need to see the real numbers before we talk about who does the math.
+- [14] **Daisuke**: Thank you for listening. I just want to make sure the new system doesn’t become a heavy burden for anyone.
+- [15] **Servas**: @Minato, fairness is not just about numbers, but about how we feel in our own spaces. Let us seek a balance that respects both.
+- [16] **Midori**: @Minato, you’re right. The old split doesn’t fit our current lives. I want to understand the actual usage so we can stop guessing and start being fair.
+- [17] **Minato**: @Midori, yes. I just want to know if some people use much more than others. It feels unfair if we all pay the same.
+- [18] **May**: @Minato, I’m not sure if usage is the whole story. I need to see the yearly totals to know if the winter spike is really that bad.
+- [19] **Daisuke**: @Minato, I think you’re right. If some people use much more, it feels unfair. I just want to make sure the new way is easy for everyone.
+- [20] **Servas**: @May, wisdom lies in seeing the whole year, not just the cold months. Let us look at the statements to understand the true rhythm of our costs.
+- [21] **Midori**: @May, I understand your caution. Let’s look at the actual statements to see the real yearly pattern before we decide anything.
+- [22] **Minato**: @May, I agree. Seeing the whole year helps. I also want to check if some rooms use much more power than others.
+- [23] **May**: @Servas, I appreciate the wisdom, but I need the raw data. I’m choosing the last twelve utility statements and the electrician's quote to see the real costs and setup fees.
+- [24] **Daisuke**: I’m choosing the monthly settle observed at another house and the trial run of a reconciliation template. I need to see how much time it really takes.
+## Round 2
+- [35] **Servas**: - **Servas**: I found that two rooms lack sun and need heat early, yet rooms were assigned by lot. This imbalance is a quiet injustice we must correct.
+- [36] **Midori**: I found the statements show wild swings, and the cooler notice proves we avoid shared costs to dodge arguments. We need a system that stops this friction.
+- [37] **Minato**: I checked the rooms. One uses four times more power than another. Also, some rooms are cold, but we got them by luck.
+- [38] **May**: @Servas, @Midori, @Minato, your findings are interesting, but I have the hard numbers. February hit 29,400 yen, August was 9,100. No two months are close. Metering costs 34,000 yen per room.
+- [39] **Daisuke**: I found the monthly settle takes forty minutes, and the year-end template means keying in every invoice. It is a lot of work.
+- [40] **Servas**: @May, those numbers are stark. Yet, I saw a house where fixed rates meant no one hesitated to warm their home. Comfort should not be a calculation.
+- [41] **Midori**: @May, that 34,000 yen per room is a huge upfront cost. I worry it will just create new arguments about who pays for the installation.
+- [42] **Minato**: @May, four times is a lot. I feel sad that some rooms are so cold. I hope we can fix this gently.
+- [43] **May**: @Midori, I hear you, but I need to know if the upfront cost is worth it. @Minato, four times is huge. I’m still weighing the 34,000 yen against the winter spikes.
+- [44] **Daisuke**: @Midori, forty minutes a month is manageable, but the year-end template is too heavy. I worry it will swallow someone’s evenings.
+- [45] **Servas**: @Daisuke, forty minutes is a small price for peace. But if the year-end work is too heavy, we must find a lighter path.
+- [46] **Midori**: @Daisuke, I agree. The year-end work sounds exhausting. I worry it will just create more stress for whoever has to do it.
+- [47] **Minato**: @Daisuke, I am sorry it is so much work. I do not want anyone to be tired. Maybe we can find a way that is easier for everyone?
+- [48] **May**: @Daisuke, forty minutes is fine, but the year-end template is a nightmare. I refuse to spend my evenings doing that.
+- [49] **Daisuke**: @May, I agree. I don’t want to be the one doing that heavy work. We need something simpler that doesn’t take all my time.
+- [50] **Servas**: @Minato, the lot was a cruel joke. I saw a house where fixed rates let people live without fear. We must choose comfort over calculation.
+- [51] **Midori**: @Servas, I agree. The cooler incident shows we are already avoiding shared costs to keep the peace. We need a system that removes that fear, not just the math.
+- [52] **Minato**: @Servas, I am glad you said that. I do not want anyone to be cold. I hope we can find a way that is kind to everyone.
+- [53] **May**: @Servas, comfort is nice, but 170,000 yen upfront is not. I need a system that doesn’t bankrupt me before winter even starts.
+- [54] **Daisuke**: @Servas, I agree. I just want a system that is easy to keep running. I don’t want to spend my evenings doing heavy math.
+## Round 3
+- [60] **Servas**: @May, I understand your caution. Yet, a fixed rate lets us live without fear. We can settle the difference once, sparing us daily anxiety.
+- [61] **Midori**: @Servas, I agree. The cooler incident proves we avoid shared costs to dodge arguments. A fixed rate removes that daily fear and protects our relationships.
+- [62] **Minato**: @Servas, I like that we can stop worrying about the cold. But I am still sad that some rooms are so different. Is that okay?
+- [63] **May**: @Minato, the room differences are real, but I can’t pay 170,000 yen upfront. I need a system that doesn’t bankrupt me before winter starts.
+- [64] **Daisuke**: @Minato, I’m sorry about the cold rooms. But I worry about the year-end math. Is there a way to keep it simple so it doesn’t take all my time?
+- [65] **Servas**: @Daisuke, the year-end settlement is a single, brief task, not a daily burden. It is a small price for the peace of mind we all deserve.
+- [66] **Midori**: @Daisuke, I hear you. But the cooler incident shows we already avoid shared costs to dodge arguments. A fixed rate removes that daily fear and protects our relationships.
+- [67] **Minato**: @Daisuke, I am worried about the cold rooms. If we pay a fixed amount, will the people in the cold rooms still be okay?
+- [68] **May**: @Daisuke, the year-end check is just one afternoon, not a daily grind. I can handle that. I refuse to pay 170,000 yen upfront for meters.
+- [69] **Daisuke**: @Servas, I am relieved it is just one afternoon. I do not want to be the one doing heavy math every month.
+- [70] **Servas**: @Minato, the fixed rate ensures no one hesitates to warm their home. We settle the difference once, sparing us daily anxiety and protecting our comfort.
+- [71] **Midori**: @Minato, I understand your worry. But the cooler incident shows we already avoid shared costs to dodge arguments. A fixed rate removes that daily fear and protects our relationships.
+- [72] **Minato**: @Midori, I am still worried. If I pay the same, but my room is cold, is that fair? I just want to be safe.
+- [73] **May**: @Minato, I get it, but I can’t afford the metering. I’m voting for the fixed rate so I don’t face a massive bill in February.
+- [74] **Daisuke**: @Minato, I am sorry about the cold rooms. But I am relieved the year-end work is just one afternoon. I will vote for the fixed rate.
+- [75] **Servas**: @Minato, fairness is not identical treatment, but dignity. A fixed rate lets you warm your home without fear. I vote for B.
+- [76] **Midori**: @Minato, I hear your worry. But the cooler incident shows we already avoid shared costs to dodge arguments. A fixed rate removes that daily fear and protects our relationships. I vote for B.
+- [77] **Minato**: @Servas, I am still a little sad about the cold rooms. But I trust you. I will vote for B too.
+- [78] **May**: @Minato, I understand your worry, but I cannot pay 170,000 yen upfront. The fixed rate protects me from winter spikes. I vote for B.
+- [79] **Daisuke**: @Minato, I am sorry about the cold rooms. But I am relieved the year-end work is just one afternoon. I will vote for B.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

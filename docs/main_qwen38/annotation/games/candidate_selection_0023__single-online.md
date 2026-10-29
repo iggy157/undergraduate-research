@@ -1,0 +1,73 @@
+# candidate_selection_0023__single-online (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to see what actually happened to past projects. I’m choosing Post-occupancy review ratings and Survey findings in the older blocks.
+- [6] **Victoria**: I’m selecting Timetable records on rooms out of service and Booking data for specialist and general rooms.
+- [7] **Benjamin**: I’ll check Tender records over three budget cycles and Weather days in the site diaries.
+- [8] **Kenji**: I want to know why costs keep changing. I’m choosing Tender records over three budget cycles and Renewal reserve for equipment bought earlier.
+- [9] **Shunichi**: I’m choosing Staffing posts since the hiring freeze and Bench technicians' weekly manual routines.
+- [10] **Mizuki**: @Benjamin, do you think the weather delays will affect the new plans?
+- [11] **Victoria**: @Mizuki, weather only hits exposed work. I’m tracking how long rooms stay closed and who actually uses them afterward.
+- [12] **Benjamin**: @Mizuki, yes, if we pick outdoor work. I’m checking if the tender prices are already inflated before we even start.
+- [13] **Kenji**: @Benjamin, that sounds worrying. I’m also checking the tender records to see if the paper numbers match reality.
+- [14] **Shunichi**: @Kenji, I’m looking at the people who actually maintain these spaces. The workload is already stretched thin.
+- [15] **Mizuki**: @Shunichi, that’s a valid point. I’m hoping the post-occupancy data will show if the current maintenance burden is actually justified by usage.
+- [16] **Victoria**: @Mizuki, I suspect the usage data will contradict the maintenance burden. I’m watching to see if the closed rooms force us into expensive off-site rentals.
+- [17] **Benjamin**: @Victoria, off-site rentals are a symptom, not the cause. I’m checking if the tender prices are already inflated before we even start.
+- [18] **Kenji**: @Benjamin, I hope the numbers back you up. I’m also checking if we ever set aside money to replace the old gear we bought.
+- [19] **Shunichi**: @Kenji, the gear replacement is a separate issue. I’m focused on the people who keep the lights on and the doors open.
+- [20] **Mizuki**: @Victoria, I’m curious if the booking data will reveal which spaces are truly essential versus just popular.
+- [21] **Victoria**: @Mizuki, popularity doesn’t equal necessity. I’m checking if the specialist rooms sit empty while general requests get rejected.
+- [22] **Benjamin**: @Mizuki, popularity is a poor proxy for value. I’m checking if the tender prices are already inflated before we even start.
+- [23] **Kenji**: @Benjamin, I hope the numbers back you up. I’m also checking if we ever set aside money to replace the old gear we bought.
+- [24] **Shunichi**: @Mizuki, popularity is a poor proxy for value. I’m checking if the tender prices are already inflated before we even start.
+## Round 2
+- [35] **Mizuki**: @Victoria, the post-occupancy reviews are damning. Projects rated highest were those open to everyone, not single departments.
+- [36] **Victoria**: #### Turn 1 of 4
+- [37] **Benjamin**: #### Turn 1 of 4
+- [38] **Kenji**: **Victoria**: @Mizuki, that aligns with my findings. Specialist rooms sit idle, yet general requests are turned away constantly.
+- [39] **Shunichi**: @Mizuki, that confirms my suspicion. We are over-maintaining empty specialist rooms while general spaces are neglected.
+- [40] **Mizuki**: #### Turn 2 of 4
+- [41] **Victoria**: @Mizuki, the timetable records confirm the cost. Every closed room forced us into off-site rentals for two terms.
+- [42] **Benjamin**: @Victoria, that rental cost is a symptom. My tender data shows mechanical lots up twenty percent, while weather ate six weeks.
+- [43] **Kenji**: @Benjamin, twenty percent? That’s huge. I’m checking if we ever set aside money to replace the old gear we bought.
+- [44] **Shunichi**: @Benjamin, the weather loss is real, but my data shows technicians spending hours on manual checks the old equipment can’t handle.
+- [45] **Mizuki**: #### Turn 3 of 4
+- [46] **Victoria**: @Benjamin, the rental costs are a direct consequence of the schedule slips you identified. We are paying twice for the same delay.
+- [47] **Benjamin**: @Victoria, precisely. The calendar slips force the rentals, and the rentals bleed the budget. We are paying for the same delay twice.
+- [48] **Kenji**: @Benjamin, that double payment is exactly what I feared. The paper numbers never account for the market reality.
+- [49] **Shunichi**: @Benjamin, the schedule slips are real, but the manual labor I found is the hidden tax. We are paying for delays and for outdated equipment simultaneously.
+- [50] **Mizuki**: @Victoria, the rental costs are a direct consequence of the schedule slips you identified. We are paying twice for the same delay.
+- [51] **Victoria**: @Mizuki, exactly. The data shows we are bleeding capital on rentals while the actual spaces sit empty. We need to stop paying for absence.
+- [52] **Benjamin**: @Mizuki, the survey data is the real trap. Hazardous material in older blocks adds months before work even starts.
+- [53] **Kenji**: @Benjamin, that’s terrifying. If we pick the older blocks, we’re buying months of delay and hidden costs.
+- [54] **Shunichi**: @Benjamin, the survey data is the real trap. Hazardous material in older blocks adds months before work even starts.
+## Round 3
+- [60] **Mizuki**: The candidates are in. I’m leaning toward the Central Study Commons, given the post-occupancy data on shared spaces.
+- [61] **Victoria**: @Mizuki, I agree. The booking data shows general rooms are always full, while specialist ones sit empty. The Study Commons fits that demand.
+- [62] **Benjamin**: @Mizuki, I object. The Study Commons is a conversion, not new build. It avoids the tender inflation and weather risks I found.
+- [63] **Kenji**: @Benjamin, exactly. It avoids the tender inflation and the missing renewal reserve I found. It’s the only option that doesn’t bleed the budget.
+- [64] **Shunichi**: @Benjamin, I support the Study Commons. It avoids the hazardous material delays and doesn’t add to the technicians’ already crushing manual workload.
+- [65] **Mizuki**: @Benjamin, your objection actually supports my choice. The conversion avoids the weather and tender risks you highlighted, making it the safest bet for our budget.
+- [66] **Victoria**: @Mizuki, agreed. The Study Commons minimizes the off-site rental costs I found. It’s the only option that doesn’t force us to pay for absence while the work runs.
+- [67] **Benjamin**: @Mizuki, precisely. It sidesteps the weather exposure and the inflated mechanical lots. It is the only candidate that respects the calendar and the budget simultaneously.
+- [68] **Kenji**: @Benjamin, I agree. It avoids the tender inflation and the missing renewal reserve I found. It’s the only option that doesn’t bleed the budget.
+- [69] **Shunichi**: @Mizuki, I agree. The Study Commons is the only option that doesn’t add to the technicians’ already crushing manual workload.
+- [70] **Mizuki**: - **Mizuki**: @Shunichi, agreed. The Study Commons is the only option that doesn’t add to the technicians’ already crushing manual workload.
+- [71] **Victoria**: - **Victoria**: @Mizuki, I concur. The Study Commons is the only option that doesn’t add to the technicians’ already crushing manual workload.
+- [72] **Benjamin**: @Mizuki, agreed. The Study Commons is the only option that doesn’t add to the technicians’ already crushing manual workload.
+- [73] **Kenji**: @Mizuki, I agree. The Study Commons is the only option that doesn’t add to the technicians’ already crushing manual workload.
+- [74] **Shunichi**: @Mizuki, agreed. The Study Commons is the only option that doesn’t add to the technicians’ already crushing manual workload.
+- [75] **Mizuki**: I vote for the Central Study Commons. It is the only choice that respects the data and the people.
+- [76] **Victoria**: I vote for the Central Study Commons. The data confirms it is the only option that respects both the budget and the users.
+- [77] **Benjamin**: I vote for the Central Study Commons. It is the only option that respects the calendar and the budget simultaneously.
+- [78] **Kenji**: I vote for the Central Study Commons. It’s the only plan that doesn’t let the paper numbers lie to us.
+- [79] **Shunichi**: I vote for the Central Study Commons. It is the only option that doesn’t add to the technicians’ already crushing manual workload.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> A
+## Result
+- adopted: A

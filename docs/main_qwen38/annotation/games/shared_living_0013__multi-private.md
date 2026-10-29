@@ -1,0 +1,73 @@
+# shared_living_0013__multi-private (shared_living)
+
+## Round 1
+- [5] **Shizue**: I wonder if we should look at the staff survey first. It feels important to hear what everyone actually wants before moving anything.
+- [6] **Toshio**: The survey shows preference, not consequence. We need to know who absorbs the noise and glare before we decide where desks go.
+- [7] **Daisuke**: I’m a bit worried about the budget. Maybe we should check the floor billing basis first?
+- [8] **Mio**: I’m worried about losing my short gaps between meetings! Let’s check the morning routine upstairs to see how much time the changeover actually eats.
+- [9] **Shunichi**: Comfort is the only metric that actually matters for eight-hour stints. I’ll check the sound meter readings and the physio’s note.
+- [10] **Shizue**: @Toshio, you make a fair point about the noise. I’d like to see the sound meter readings to understand that better.
+- [11] **Toshio**: Agreed. I’ll examine the facilities quote and the unplanned seat shuffles. We need to understand the cost and the history of our failures.
+- [12] **Daisuke**: I’ll look into the floor billing basis and the facilities quote. I need to understand the actual costs before we commit.
+- [13] **Mio**: I’ll check the badge records and what the new joiners reported. I need to see exactly how arrival times and habits shift during the move!
+- [14] **Shunichi**: I’m already on it. Sound and posture are non-negotiable. I’ll stick to those two.
+- [15] **Shizue**: @Mio, your concern about the gaps is very valid. I hope the morning routine check helps us find a rhythm that works for everyone.
+- [16] **Toshio**: @Mio, your gaps are a luxury. I’m focused on the structural flaws. We must address the root causes, not just the symptoms.
+- [17] **Daisuke**: I... I agree with Toshio. The structure matters. I’m just trying to make sure we don’t overspend.
+- [18] **Mio**: @Toshio, they’re not a luxury! They’re my survival. I’m checking the badge records and the new joiners’ reports to see the real daily impact.
+- [19] **Shunichi**: Toshio, calling comfort a symptom is a bold move. I’m just ensuring the furniture doesn’t destroy us.
+- [20] **Shizue**: @Toshio, I hear your frustration, but let’s not be too harsh. I’ll look into the drawn plan and the staff survey to see if we can find a middle ground.
+- [21] **Toshio**: I am not harsh. I am precise. The survey will reveal the imbalance. I will look into the drawn plan and the staff survey.
+- [22] **Daisuke**: I’ll check the floor billing basis and the facilities quote. I need to know the real costs before we decide.
+- [23] **Mio**: I’m locking in the badge records and the new joiners’ reports! I need to see exactly how our mornings get disrupted.
+- [24] **Shunichi**: Finalizing my choices. Sound meter readings and the physio’s note. Comfort is the only metric that actually matters for eight-hour stints.
+## Round 2
+- [35] **Shizue**: The survey shows daylight was the top complaint, yet the plan ignores it. I worry we are repeating past mistakes.
+- [36] **Toshio**: The plan is flawed. It ignores the survey’s top complaint. We must not repeat the chaos of the past year’s shuffles.
+- [37] **Daisuke**: I found the billing is based on area, not people. We pay for empty desks. Plus, moving costs 6,200 yen each time.
+- [38] **Mio**: @Daisuke, six thousand yen per move? That’s steep! But my badge data shows we arrive at wildly different times. We can’t just assume everyone’s there at eight!
+- [39] **Shunichi**: Nine decibels louder by the printer. That’s a constant headache. Plus, chairs take days to settle. We need a quiet, stable spot.
+- [40] **Shizue**: @Mio, your timing data is helpful. I hope we can arrange desks so neighbors are present when we need them, not just by chance.
+- [41] **Toshio**: The shuffles prove instability is costly. We must assign the inferior spots deliberately, not by accident. Who accepts the wall?
+- [42] **Daisuke**: I... I’m sorry. I didn’t mean to alarm anyone. But if we move desks, we pay again. I just want to be careful with the money.
+- [43] **Mio**: @Toshio, assigning “inferior” spots sounds harsh! But my data shows late arrivals miss out. We need a layout that works for all arrival times, not just the early birds!
+- [44] **Shunichi**: @Toshio, “inferior” is a strong word. I just want a spot where my chair doesn’t fight me. Stability beats novelty every time.
+- [45] **Shizue**: @Toshio, I understand the need for stability. But let’s be gentle. Perhaps we can rotate the wall seats fairly, so no one feels stuck with the worst spot.
+- [46] **Toshio**: Rotation is a slow poison. It guarantees no one is comfortable for long. I prefer a fixed, deliberate assignment.
+- [47] **Daisuke**: I agree with Toshio. Changing seats costs money every time. A fixed layout saves us from paying that fee repeatedly.
+- [48] **Mio**: @Toshio, fixed seats mean I’m stuck with the bad spot forever! My gaps are already tiny. I need a layout that respects my schedule, not just saves money!
+- [49] **Shunichi**: Rotation is just delayed discomfort. I need a fixed spot where the noise is low and the chair settles. Stability is the only real comfort.
+- [50] **Shizue**: @Mio, I hear you. Let’s find a fixed spot that respects your rhythm. @Toshio, perhaps we can balance the wall seats fairly?
+- [51] **Toshio**: Fairness is not the goal. Clarity is. We must name who takes the wall, so the burden is explicit, not hidden.
+- [52] **Daisuke**: I... I think Toshio is right. If we fix the layout, we avoid the 6,200 yen fee. It’s safer for the budget.
+- [53] **Mio**: @Toshio, clarity is great, but my gaps are tiny! I need a spot that protects my schedule, not just saves money.
+- [54] **Shunichi**: I’m not volunteering for the wall. I need the window side for the quiet. My chair needs time to settle, not a lottery.
+## Round 3
+- [60] **Shizue**: I worry about the chaos of free seating. A fixed, gentle arrangement feels safer for our daily rhythm and peace.
+- [61] **Toshio**: Option B. Fixed desks by function. We must name the burden explicitly. No more hidden imbalances or accidental shuffles.
+- [62] **Daisuke**: I... I think Option B is best. It avoids the 6,200 yen fee for moving desks. It’s safer for the budget.
+- [63] **Mio**: @Toshio, Option B sounds rigid! But if it protects my tiny gaps, I’m in! I just need a spot that respects my schedule!
+- [64] **Shunichi**: Option B. Fixed desks. My chair needs days to settle, not a daily lottery. I’m taking the window side. No arguments.
+- [65] **Shizue**: @Shunichi, I hope you can be flexible. I worry that claiming the window side leaves others in the dark. Let’s find a fair balance.
+- [66] **Toshio**: @Shunichi, claiming the window is a privilege, not a right. We must decide who takes the wall deliberately, not by default.
+- [67] **Daisuke**: I... I agree with Toshio. We need to be deliberate. I just want to make sure we don’t pay extra for changes later.
+- [68] **Mio**: @Shunichi, please don’t hog the window! My gaps are tiny, so I need a spot where I can work fast without interruptions.
+- [69] **Shunichi**: @Mio, the window isn’t a toy. It’s the only quiet zone. If you need speed, sit by the printer and shout. I need silence.
+- [70] **Shizue**: @Shunichi, please be kind. We all need our own quiet corners. Let’s find a way to share the light and the peace fairly.
+- [71] **Toshio**: @Shunichi, silence is a resource, not a birthright. We must allocate the wall seats explicitly. Who accepts the burden?
+- [72] **Daisuke**: I... I think I can take the wall. It’s quieter, and it saves us the moving fee. I’m okay with it.
+- [73] **Mio**: @Daisuke, you’re so sweet! But I need a spot that protects my tiny gaps. I can’t risk interruptions!
+- [74] **Shunichi**: @Daisuke, the wall isn’t quieter, it’s just different. I’m taking the window. My chair needs stability, not your sacrifice.
+- [75] **Shizue**: @Daisuke, your kindness is a gift. I will take the wall seat to share the burden. Let us choose Option B, so we can finally settle and breathe together.
+- [76] **Toshio**: I accept Daisuke’s offer. The burden is now named, not hidden. I vote for Option B.
+- [77] **Daisuke**: I... I’m sorry. I can’t take the wall. I’m too quiet. Please, let’s just vote for Option B.
+- [78] **Mio**: I vote for Option B! Fixed desks mean my gaps stay safe. No more chaotic morning scrambles eating my precious time!
+- [79] **Shunichi**: Option B. Fixed desks. My chair needs days to settle, not a daily lottery. I’m taking the window side. No arguments.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

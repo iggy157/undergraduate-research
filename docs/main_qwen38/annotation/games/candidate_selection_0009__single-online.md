@@ -1,0 +1,73 @@
+# candidate_selection_0009__single-online (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I’m still deciding which two items to look into.
+- [6] **Toshio**: I’m leaning toward the structural survey and the maintenance log.
+- [7] **Rin**: I want to check the conservation lab staffing and the volunteer roster.
+- [8] **Kenji**: I’m thinking about the lender paperwork and the weekend head counts.
+- [9] **Benjamin**: I’ll examine the loan transport costs and the mount-making charges.
+- [10] **Daisuke**: I’ll go with the structural survey and the maintenance log.
+- [11] **Toshio**: I’ll stick with the structural survey and the maintenance log.
+- [12] **Rin**: I’ll confirm the conservation lab staffing and the volunteer roster.
+- [13] **Kenji**: I’ll confirm the lender paperwork and the weekend head counts.
+- [14] **Benjamin**: I’ll confirm the loan transport costs and the mount-making charges.
+- [15] **Daisuke**: I’m glad we’re aligned on the structural survey. It’s the only way to know if the bay can actually hold what we promise.
+- [16] **Toshio**: The maintenance log will show if the bay’s load is already straining the system.
+- [17] **Rin**: I hope the staffing numbers show we aren’t just guessing who will actually be there to help.
+- [18] **Kenji**: I want to see if the paperwork delays are why we keep apologising at the door.
+- [19] **Benjamin**: I suspect the invoices will reveal where the budget quietly vanishes before the walls are even hung.
+- [20] **Daisuke**: I’ll wait for the survey results before we promise the bay to anything heavy.
+- [21] **Toshio**: I’ll review the maintenance log to see if the bay’s load is already straining the system.
+- [22] **Rin**: I’ll check the staffing and volunteer lists to see who is actually left to do the work.
+- [23] **Kenji**: I’ll check the paperwork delays and the weekend numbers to see where we actually stumble.
+- [24] **Benjamin**: I’ll trace the transport and mount invoices to see exactly where the money goes before the season starts.
+## Round 2
+- [35] **Daisuke**: The survey caps the bay at four hundred kilos per square metre. That’s a hard limit we can’t ignore.
+- [36] **Toshio**: The maintenance log confirms seventeen call-outs, four during opening hours. The bay is already under strain.
+- [37] **Rin**: The lab is down to one person with two hundred pieces waiting. We simply cannot process new loans.
+- [38] **Kenji**: Two openings slipped because paperwork arrived after the shipping cut-off. We keep promising what we can’t deliver on time.
+- [39] **Benjamin**: Transport and crating ate a third of the installation budget. The joiner’s rate has also doubled, so bespoke mounts are now a luxury we can’t afford.
+- [40] **Daisuke**: @Toshio, with the bay already strained and capped, we must avoid any proposal requiring heavy overhead rigging.
+- [41] **Toshio**: @Daisuke, agreed. The log proves the bay is already failing under current loads.
+- [42] **Rin**: @Benjamin, if bespoke mounts are too expensive, we must choose objects that arrive ready to display, or we’ll be stuck.
+- [43] **Kenji**: @Benjamin, that third of the budget on transport is exactly why the paperwork delays hurt so much.
+- [44] **Benjamin**: @Kenji, precisely. The delays force expensive emergency crating, which is why the transport line item swallows the rest.
+- [45] **Daisuke**: @Rin, the lab backlog means we cannot rely on on-site conservation. We need a proposal that doesn’t require stabilizing fragile finds.
+- [46] **Toshio**: @Daisuke, correct. We must avoid anything requiring active conservation work. The lab is simply not equipped to handle it.
+- [47] **Rin**: @Daisuke, agreed. The volunteer roster is mostly the town history circle, so we need a show they can actually guide without extra training.
+- [48] **Kenji**: @Rin, the town history circle fits perfectly with local weaving and regional crafts. They already know that material.
+- [49] **Benjamin**: @Kenji, that’s a good point, but I need to see if the transport costs for local items are actually lower than the loans.
+- [50] **Daisuke**: @Kenji, local items avoid the shipping cut-offs entirely. That solves the delivery problem before it starts.
+- [51] **Toshio**: @Kenji, the head counts will confirm if that local appeal actually draws the crowds we need.
+- [52] **Rin**: @Kenji, exactly. The town history circle knows the old quarter, so they can guide the local crafts without extra training.
+- [53] **Kenji**: @Toshio, the head counts show crowds climb where mechanisms run, but drop in static rooms. Local crafts need live demos to hold them.
+- [54] **Benjamin**: @Kenji, live demonstrations solve the crowd problem, but I need to confirm the local sourcing keeps the transport line item from swallowing the budget.
+## Round 3
+- [60] **Daisuke**: The candidates are here. Given the bay’s weight limit and the lab’s backlog, I’m worried about anything heavy or fragile.
+- [61] **Toshio**: @Daisuke, agreed. The structural and conservation constraints rule out heavy stonework or fragile finds immediately.
+- [62] **Rin**: @Kenji, the town history circle fits perfectly with local weaving. They already know that material, so we avoid extra training.
+- [63] **Kenji**: @Rin, exactly. Local weaving means no distant lenders, so no shipping cut-offs to trip us up.
+- [64] **Benjamin**: @Kenji, local sourcing eliminates the transport and crating costs that have been eating our budget. It’s the only option that fits the finances.
+- [65] **Daisuke**: @Toshio, the structural survey confirms the bay cannot support the overhead rigging required for the light and motion proposal.
+- [66] **Toshio**: @Daisuke, correct. The rigging exceeds the cap. We must reject that option to protect the building.
+- [67] **Rin**: @Benjamin, the local weaving fits the finances, but I need to ensure the volunteer roster can actually handle the demonstration sessions without burning out.
+- [68] **Kenji**: @Rin, the town history circle already guides the old quarter, so they know the local context. They can handle the demos without extra training.
+- [69] **Benjamin**: @Rin, the local sourcing keeps the budget safe, but I need to confirm the demonstration sessions don’t require expensive specialist equipment.
+- [70] **Daisuke**: @Toshio, the maintenance log shows powered displays cause failures. Textiles are static, so they won’t strain the bay or trigger call-outs.
+- [71] **Toshio**: @Daisuke, precisely. Static textiles eliminate the maintenance risk entirely. The record shows crowds return for presence, not mechanisms, so this fits the data.
+- [72] **Rin**: @Kenji, the town history circle knows the local context, so they can handle the demos without extra training.
+- [73] **Kenji**: @Rin, agreed. The circle’s familiarity with the region means they can lead the interviews and demonstrations without the training costs we can’t afford.
+- [74] **Benjamin**: @Rin, the demonstrations use existing tools, so no new equipment costs. The budget stays intact, and the local sourcing keeps transport near zero.
+- [75] **Daisuke**: @Toshio, I’m ready to vote. Textiles of the Region is the only candidate that respects the bay’s limits and our staffing reality.
+- [76] **Toshio**: @Daisuke, agreed. The record confirms presence drives return visits, and textiles provide that without the structural or conservation risks. I vote for Textiles of the Region.
+- [77] **Rin**: @Kenji, I’m ready. The circle can handle the demos, and the lab stays clear. I vote for Textiles of the Region.
+- [78] **Kenji**: @Benjamin, the local sourcing means no distant lenders, so no shipping cut-offs to trip us up. I vote for Textiles of the Region.
+- [79] **Benjamin**: @Kenji, the numbers confirm it. No transport, no bespoke mounts, no emergency crating. The budget finally stays where it belongs. I vote for Textiles of the Region.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

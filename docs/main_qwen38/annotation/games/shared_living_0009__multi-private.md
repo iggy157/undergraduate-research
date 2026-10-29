@@ -1,0 +1,72 @@
+# shared_living_0009__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: The car’s condition on a random Tuesday morning is what actually matters. Who is "in charge" is irrelevant if it’s dirty or missing.
+- [6] **May**: Misaki, that’s a bit dramatic. I care more about the hidden time cost. Who’s tracking the actual hours spent untangling messes?
+- [7] **Servas**: May, you are right. Time is a silent thief. We must measure the invisible labor, not just the visible miles.
+- [8] **Takumi**: I’m done with the drama. We need facts, not feelings. Who’s actually driving this car every single day?
+- [9] **Kenji**: Takumi, you’re right. I want the real fuel receipts and the diary hours. Let’s see who’s actually driving and what it costs.
+- [10] **Misaki**: I’ll check the state of the car at handover and the mechanic’s remarks.
+- [11] **May**: I’m picking the hours of use recorded in the diary and the spell of checking each other's figures.
+- [12] **Servas**: I will examine last year’s fuel receipts and the mechanic’s remarks. Facts ground our fairness.
+- [13] **Takumi**: I’m checking what two other car-sharing households said and the spell of checking each other's figures. I need to know what actually sours groups like ours.
+- [14] **Kenji**: I’ll look into last year’s fuel receipts and the hours of use recorded in the diary. I need the real numbers to stop guessing.
+- [15] **Misaki**: I’m checking the state of the car at handover and the mechanic’s remarks.
+- [16] **May**: I’m picking the hours of use recorded in the diary and the spell of checking each other's figures.
+- [17] **Servas**: I will examine last year’s fuel receipts and the mechanic’s remarks. Facts ground our fairness.
+- [18] **Takumi**: I already said my picks. Stop repeating yourself. I’m waiting for the real answers, not more noise.
+- [19] **Kenji**: I’m done repeating. I’m just waiting for the numbers. Let’s move on.
+- [20] **Misaki**: I’ll check the state of the car at handover and the mechanic’s remarks.
+- [21] **May**: I’m done repeating myself. I’m just waiting for the numbers. Let’s move on.
+- [22] **Servas**: I am content to wait. Patience is a virtue. Let us see what the facts reveal.
+- [23] **Takumi**: Fine. I’m done talking. Let’s see what the other households found out.
+## Round 2
+- [35] **Misaki**: The mechanic confirmed short cold runs destroy the battery. That explains why I keep finding it dead on Tuesday mornings.
+- [36] **May**: Misaki, that’s just your excuse. My diary shows weekends are triple the hours. We need a system, not blame.
+- [37] **Servas**: The mechanic’s warning about cold starts is vital. It means short trips cost more than distance suggests. We must value that hidden wear.
+- [38] **Takumi**: @May, stop deflecting. I found the real problem: asking favours sours groups. We need a rule so nobody has to beg for a ride.
+- [39] **Kenji**: @May, the receipts show two of us bought over half the fuel. That’s not a system, that’s a subsidy.
+- [40] **Misaki**: @Kenji, the fuel split is irrelevant if the car is dead. I need a rule: no short cold runs without a full charge.
+- [41] **May**: @Kenji, that’s just the fuel. I’m talking about the hours I spend untangling who owes what. That’s the real cost.
+- [42] **Servas**: @May, you are right. The administrative burden is a real cost. We must account for the mental energy spent on tracking, not just the fuel.
+- [43] **Takumi**: @May, you’re right. The checking spell made everyone feel accused. We need a rule that stops the begging and the blame.
+- [44] **Kenji**: @May, I hear you, but the receipts prove the money is lopsided. We need a fair split based on actual usage, not just feelings.
+- [45] **Misaki**: @Servas, you’re right. The wear is real. I need a rule that protects the car’s state, not just the money.
+- [46] **May**: @Takumi, exactly. The checking spell was a disaster. We need a system that handles the admin automatically, so nobody has to play accountant.
+- [47] **Servas**: @Misaki, agreed. Protecting the vehicle is protecting our shared future. Let us build a system that honors both the metal and the mind.
+- [48] **Takumi**: @May, agreed. No more checking figures. We need a simple rule: no asking, no blaming. Just clear, automatic turns.
+- [49] **Kenji**: @Takumi, I agree on stopping the blame. But we still need the real numbers to set the price. Let’s see the options.
+- [50] **Misaki**: I’m done. The car’s state is the priority. Let’s see the options.
+- [51] **May**: I’m done. The admin burden is real. Let’s see the options and pick a system that actually works.
+- [52] **Servas**: I am ready. Let us see what paths lie before us.
+- [53] **Takumi**: I’m done. The other households proved asking favours kills trust. Let’s see the options and pick one that stops the begging.
+- [54] **Kenji**: I’m ready. Let’s see the options and pick the one that uses the real numbers.
+## Round 3
+- [60] **Misaki**: @May, Option A guarantees the car is ready on my days. No more dead batteries or mess. I vote A.
+- [61] **May**: @Misaki, Option A ignores the weekend chaos. I’m voting C. The calendar handles the admin automatically, so I don’t have to untangle who owes what.
+- [62] **Servas**: @May, I agree. Option C honors the actual distance and wear. It is fair and transparent. I vote C.
+- [63] **Takumi**: @May, Option C is the only one that stops the begging. No more asking favours. I vote C.
+- [64] **Kenji**: @May, Option C uses the real numbers I found. It’s fair and stops the guessing. I vote C.
+- [65] **Misaki**: @May, I understand the admin burden, but I cannot risk the car’s state. I stand by my vote for A.
+- [66] **May**: @Misaki, I get the battery worry, but C’s distance tracking covers the wear. I’m sticking with C.
+- [67] **Servas**: @Misaki, your care for the vehicle is noble. Yet C’s transparency ensures we all share the burden of its upkeep. I remain with C.
+- [68] **Takumi**: @Misaki, I get the battery worry. But C stops the begging that kills trust. I’m sticking with C.
+- [69] **Kenji**: @Misaki, I get the battery worry. But C uses the real numbers I found. It’s fair and stops the guessing. I’m sticking with C.
+- [70] **Misaki**: @May, C doesn’t guarantee the car is ready. I need the certainty of A. I stand by my vote.
+- [71] **May**: @Misaki, C’s distance tracking covers the wear. I’m sticking with C.
+- [72] **Servas**: @Misaki, certainty is a comfort, but fairness is a duty. C ensures we all bear the true weight. I stand with C.
+- [73] **Takumi**: @Misaki, I hear you. But C stops the begging that kills trust. I’m sticking with C.
+- [74] **Kenji**: @Misaki, I hear you. But C uses the real numbers I found. It’s fair and stops the guessing. I’m sticking with C.
+- [75] **Misaki**: I stand by A. The car’s state is non-negotiable. I cannot accept a system that risks it.
+- [76] **May**: I’m sticking with C. The calendar kills the admin nightmare. Let’s vote.
+- [77] **Servas**: I stand with C. Transparency is the foundation of trust. Let us choose the path of shared truth.
+- [78] **Takumi**: I stand with C. No more begging, no more blame. The calendar is the only way to keep us from falling apart.
+- [79] **Kenji**: I stand with C. The real numbers make it fair. Let’s vote.
+### Vote
+- Misaki -> A
+- May -> C
+- Servas -> C
+- Takumi -> C
+- Kenji -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0022__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I need to know who we can actually hire right now. The recruiting bottleneck is killing us.
+- [6] **George**: I want to verify our past wins. Did those companies actually keep their customers?
+- [7] **May**: We are bleeding cash. I need to see our reserve accounts and credit terms.
+- [8] **Rin**: Quarter-end is a mess. I need to check the appraisal needs for our last audit.
+- [9] **Mizuki**: Everything is late. I want to see the delivery records of our two holdings.
+- [10] **Mio**: @George, if we can't verify the wins, how do we justify the next one?
+- [11] **George**: @Mio, I am looking at the retention data. It tells the real story.
+- [12] **May**: @Mizuki, if delivery is late, our cash flow is worse. I am checking the credit line.
+- [13] **Rin**: @May, if the audit takes six weeks, we miss the quarter. That is my fear.
+- [14] **Mizuki**: @Rin, I am checking the hardware delays. It explains the slippage.
+- [15] **Mio**: I will look at the recruiter placement times. We need speed.
+- [16] **George**: I will check the profile of our exits and the write-off.
+- [17] **May**: I will look at the reserve accounts and the credit line terms.
+- [18] **Rin**: I will check the appraisal needs and the independent checks on figures.
+- [19] **Mizuki**: I will look at the delivery records and the security review time.
+- [20] **Mio**: Let's see what the data says. I am done talking for now.
+- [21] **George**: Agreed. The numbers will speak.
+- [22] **May**: I am ready to see the financials.
+- [23] **Rin**: I want clarity on the reporting burden.
+- [24] **Mizuki**: I want to know the true cause of the delays.
+## Round 2
+- [35] **Mio**: The recruiters can't place field crews in under four months. That is a dealbreaker for some.
+- [36] **George**: The write-off ran its own premises. The exits were quiet software. That is a pattern.
+- [37] **May**: Our credit line treats subscription contracts as worthless. We can't borrow against them.
+- [38] **Rin**: Hardware needs outside appraisals. That adds six weeks to our audit. Unacceptable.
+- [39] **Mizuki**: Hardware lost five months to a controller shortage. Software never missed a release.
+- [40] **Mio**: @Mizuki, that hardware delay is exactly why I am worried about the sensor company.
+- [41] **George**: @May, if we can't borrow against subscriptions, we are stuck with cash-heavy models.
+- [42] **May**: @George, the software exits sold to incumbents. That is a clean exit path.
+- [43] **Rin**: @Mio, if we pick a company with hardware, our quarter-end will be a nightmare.
+- [44] **Mizuki**: @Rin, the security review for medical records takes three quarters. That is too long.
+- [45] **Mio**: The adviser bench has logistics experts, but they haven't taken anything on yet.
+- [46] **George**: The shopkeeper tool lost a third of accounts. The practice software kept nine of ten.
+- [47] **May**: The reserve accounts show follow-on money called at twice the modelled rate.
+- [48] **Rin**: The software holdings report only their own dashboard figures. No independent checks.
+- [49] **Mizuki**: The software tool running in the bank's cycle never missed a release.
+- [50] **Mio**: I am leaning towards software, but I need to know if we can staff it.
+- [51] **George**: I am leaning towards the clinic scheduler. High retention, clean exit profile.
+- [52] **May**: I am worried about the cash burn. The credit line is restrictive.
+- [53] **Rin**: I am worried about the audit burden. Hardware is out.
+- [54] **Mizuki**: I am worried about the security review time. Medical records are a risk.
+## Round 3
+- [60] **Mio**: Candidates are A: Fabric Loop, B: Harvest Sensor, C: Ledger Bridge, D: Clinic Scheduler.
+- [61] **George**: D looks strong. High retention, software model, clean exit path.
+- [62] **May**: C is software, but can we borrow against it? The credit line is tight.
+- [63] **Rin**: D has medical records. That means a three-quarter security review. That is a problem.
+- [64] **Mizuki**: B has hardware. That means delivery delays and audit nightmares.
+- [65] **Mio**: @Rin, is the security review a dealbreaker for D?
+- [66] **George**: @Mizuki, B is out. The hardware delays are too risky.
+- [67] **May**: @George, C is a good option. It is software, but it is for merchants.
+- [68] **Rin**: @Mio, it is a major risk. But the retention is high.
+- [69] **Mizuki**: @May, C is for merchants. The security review might be shorter.
+- [70] **Mio**: I am voting for C. It is software, and the security review might be manageable.
+- [71] **George**: I am voting for D. The retention and exit profile are too good to ignore.
+- [72] **May**: I am voting for C. I need to avoid the cash-heavy models.
+- [73] **Rin**: I am voting for C. I want to avoid the audit burden of hardware.
+- [74] **Mizuki**: I am voting for C. I want to avoid the delivery delays of hardware.
+- [75] **Mio**: C seems to be the consensus.
+- [76] **George**: D is a close second, but C is safer.
+- [77] **May**: C is the best fit for our current financial constraints.
+- [78] **Rin**: C is the best fit for our reporting needs.
+- [79] **Mizuki**: C is the best fit for our delivery timeline.
+### Vote
+- Mio -> C
+- George -> D
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

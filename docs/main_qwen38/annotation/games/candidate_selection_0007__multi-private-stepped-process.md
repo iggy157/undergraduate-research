@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **May**: I’m tired of reinventing the wheel. We need to check the closure reports from the last decade.
+- [6] **Benjamin**: Agreed. But first, I need to know if we actually have the bodies to run these new routes.
+- [7] **Midori**: I worry we fix what’s loud, not what’s slow. I want to see the journey audits.
+- [8] **Shizue**: I’ve seen plans die in committee rooms, not on tracks. I need to see the joint operators' minutes.
+- [9] **Jonathan**: I’m concerned about the long tail of costs. I want to look at the ticketing contractor fees.
+- [10] **May**: @Benjamin, if the roster books are empty, the best plan is just a brochure.
+- [11] **Benjamin**: Precisely. I’ll check the roster books for the late-turn pool to see who’s actually available.
+- [12] **Midori**: @Shizue, if the committee is stuck, the plan is stuck. I hope the minutes are clear.
+- [13] **Shizue**: @Midori, I hope so too. I’ll also look at the completion records of the earlier accessibility programme.
+- [14] **Jonathan**: I’ll also examine the balances in the capital ledger to see what’s already committed.
+- [15] **May**: I’m going to look into the two pilots from eight years ago. They’re the closest thing to a test case.
+- [16] **Benjamin**: I’ll also check the crew establishment and maintenance contract. It defines the hard limits of our capacity.
+- [17] **Midori**: I’ll also look at the timed runs and crowd counts mid-city. I need to verify the crowding complaints.
+- [18] **Shizue**: I’m content with my choices. The past is the best predictor of the future’s delays.
+- [19] **Jonathan**: I’m content as well. Knowing the debt is knowing the risk.
+- [20] **May**: Let’s see what the ghosts have to say before we invite new ones in.
+- [21] **Benjamin**: I prefer to know the weight of the load before we ask the mules to pull it.
+- [22] **Midori**: I just want to know where the minutes actually go, not where people think they go.
+- [23] **Shizue**: I just want to know who has to nod before we can move a single stone.
+- [24] **Jonathan**: I just want to know what we owe before we promise to pay more.
+## Round 2
+- [35] **May**: The pilots from eight years ago actually worked. The ferry contactless trial closed clean, and the late-evening timetable hit its cost target.
+- [36] **Benjamin**: @May, that’s good news, but my rosters are bleeding. The late-turn pool is down to a skeleton crew, and overtime is eating the budget.
+- [37] **Midori**: @Benjamin, that explains the waiting. My audits show the minutes are lost in the gaps, not the queues. The platforms aren’t the problem.
+- [38] **Shizue**: @Midori, I see the pattern. The accessibility lifts finished on time, but the lane-priority stretches were pulled back. The ground hides the delays.
+- [39] **Jonathan**: I found the real leak. The ticketing contractor fees are now higher than our paving budget, and the capital ledger is still tied up in a lapsed grant.
+- [40] **May**: @Jonathan, if the ledger is tied up, we can’t fund the pilots again. We need to know what’s actually free.
+- [41] **Benjamin**: @May, the maintenance contract has spare capacity for the lifts, but the roadway crews are a third below establishment. We can’t run more trains without more hands.
+- [42] **Midori**: @Benjamin, then the fix isn’t more platforms. It’s tighter connections. My timed runs show the surface route is the bottleneck, not the stations.
+- [43] **Shizue**: @Midori, I agree. The committee minutes show the ferry and rail offices never agreed on data terms. That’s the real stall.
+- [44] **Jonathan**: @Shizue, that’s the trap. If we don’t fix the data terms, the next plan is just another promise we can’t keep.
+- [45] **May**: So the pilots prove the tech works, but the staffing and data terms are the real walls. We need a plan that respects both.
+- [46] **Benjamin**: Exactly. A plan that asks for more crews is a plan that will fail. We need to work with what we have, or find the spare capacity.
+- [47] **Midori**: A plan that fixes the connections, not the crowds. The data is clear. The waiting is the cost, not the standing.
+- [48] **Shizue**: A plan that gets the ferry and rail offices to sign the same paper. That’s the only way to stop the stalls.
+- [49] **Jonathan**: A plan that doesn’t add a single new liability. The ledger is full. The fees are high. We have to be careful.
+- [50] **May**: I’m leaning toward the plan that uses the existing pilots. It’s proven, and it doesn’t ask for more money.
+- [51] **Benjamin**: I’m leaning toward the plan that uses the spare maintenance capacity. It’s the only one that doesn’t break the rosters.
+- [52] **Midori**: I’m leaning toward the plan that fixes the connections. It’s the only one that matches the data.
+- [53] **Shizue**: I’m leaning toward the plan that gets the data terms signed. It’s the only one that will actually deliver.
+- [54] **Jonathan**: I’m leaning toward the plan that doesn’t add new fees. It’s the only one that won’t break the ledger.
+## Round 3
+- [60] **May**: @Jonathan, Option A is the one that matches the pilots. The contactless trial worked. We just need to fix the data terms.
+- [61] **Benjamin**: @May, but Option A doesn’t fix the rosters. It just moves the problem. The crews are still thin. The maintenance is still tight.
+- [62] **Midori**: @Benjamin, Option B is the one that matches the data. The surface route is the bottleneck. The dedicated lanes will cut the travel time.
+- [63] **Shizue**: @Midori, but Option B is the one that will stall. The roadway consents are delegated, but the lane-priority stretches were pulled back before. The ground will hide the delays.
+- [64] **Jonathan**: @Shizue, Option A is the one that doesn’t add new liabilities. The fees are already high, but the platform will consolidate them. It’s the only one that respects the ledger.
+- [65] **May**: @Jonathan, I agree. Option A is the only one that uses the proven tech. The pilots showed it works. We just need to get the offices to sign.
+- [66] **Benjamin**: @May, I’m still worried about the staffing. Option A doesn’t ask for more crews, but it does ask for more data. The maintenance contract has spare capacity, but the roadway crews are still thin.
+- [67] **Midori**: @Benjamin, Option B is the one that fixes the waiting. The timed runs show the surface route is the problem. The dedicated lanes will cut the travel time by a third.
+- [68] **Shizue**: @Midori, I understand the appeal, but the completion records are clear. The lane-priority stretches were returned to mixed traffic. The ground will hide the delays again.
+- [69] **Jonathan**: @Shizue, I agree. Option A is the only one that doesn’t add new fees. The ticketing contractor fees are already high, but the platform will consolidate them. It’s the only one that respects the ledger.
+- [70] **May**: So we’re back to Option A. It’s the only one that uses the proven tech, doesn’t add new liabilities, and respects the staffing limits.
+- [71] **Benjamin**: I’m still hesitant, but I’ll go with Option A. It’s the only one that doesn’t break the rosters. The maintenance contract has spare capacity, and the data terms are the real fix.
+- [72] **Midori**: I’m going with Option A. It’s the only one that matches the data. The waiting is the cost, not the standing. The platform will fix the connections.
+- [73] **Shizue**: I’m going with Option A. It’s the only one that gets the data terms signed. The committee minutes show the ferry and rail offices never agreed on data terms. That’s the real stall.
+- [74] **Jonathan**: I’m going with Option A. It’s the only one that doesn’t add new fees. The ledger is full. The fees are high. We have to be careful.
+- [75] **May**: Option A is the one. It’s the only one that uses the proven tech, doesn’t add new liabilities, and respects the staffing limits.
+- [76] **Benjamin**: Option A is the one. It’s the only one that doesn’t break the rosters. The maintenance contract has spare capacity, and the data terms are the real fix.
+- [77] **Midori**: Option A is the one. It’s the only one that matches the data. The waiting is the cost, not the standing. The platform will fix the connections.
+- [78] **Shizue**: Option A is the one. It’s the only one that gets the data terms signed. The committee minutes show the ferry and rail offices never agreed on data terms. That’s the real stall.
+- [79] **Jonathan**: Option A is the one. It’s the only one that doesn’t add new fees. The ledger is full. The fees are high. We have to be careful.
+### Vote
+- May -> A
+- Benjamin -> A
+- Midori -> A
+- Shizue -> A
+- Jonathan -> A
+## Result
+- adopted: A

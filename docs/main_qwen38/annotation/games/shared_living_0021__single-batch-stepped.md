@@ -1,0 +1,73 @@
+# shared_living_0021__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to fix the fee structure before choosing a location.
+- [6] **Shion**: I want to know the actual sleep conditions at any potential site.
+- [7] **Minato**: I am worried about how much work the organizers will have.
+- [8] **Misaki**: The budget from last year is still a problem for us.
+- [9] **Takumi**: We need to ensure all year groups actually interact.
+- [10] **Asuka**: @Misaki, what specifically is wrong with the current budget?
+- [11] **Shion**: @Minato, which specific tasks were too heavy last time?
+- [12] **Minato**: The evening arrangements took too long, and duty was hard.
+- [13] **Misaki**: The announced fee did not cover the actual costs.
+- [14] **Takumi**: @Shion, do you think the location affects who shows up?
+- [15] **Asuka**: I will look into the transport costs from the receipts.
+- [16] **Shion**: I will check the accounts from clubs that went inland.
+- [17] **Minato**: I will look at the canteen closure and cooking duty.
+- [18] **Misaki**: I will check the prefecture rate sheet for public beds.
+- [19] **Takumi**: I will look at what the seniors say about mixing.
+- [20] **Asuka**: I will also check the membership list against train times.
+- [21] **Shion**: I will also check the attendance sheets for away camps.
+- [22] **Minato**: I will also check the lottery for public group bookings.
+- [23] **Misaki**: I will also check the group transport receipts.
+- [24] **Takumi**: I will also check the vacation timetable for our hall.
+## Round 2
+- [35] **Asuka**: Transport is 38% of costs if we go far. That is huge.
+- [36] **Shion**: Inland clubs slept eight to a room. Lights out at eleven.
+- [37] **Minato**: Public bookings are a lottery. The application is nine pages.
+- [38] **Misaki**: Public beds are 1,100 yen a night. That is cheaper than I thought.
+- [39] **Takumi**: Seniors say mixing only happens if we sleep in the same place.
+- [40] **Asuka**: @Misaki, does the 1,100 yen include equipment?
+- [41] **Shion**: @Minato, is the lottery really that difficult?
+- [42] **Minato**: Yes, if dates shift, you resubmit everything. It is risky.
+- [43] **Misaki**: Yes, hall and equipment are folded into the charge.
+- [44] **Takumi**: @Shion, did the inland clubs have good training sessions?
+- [45] **Asuka**: If we stay local, transport is only 9% of the cost.
+- [46] **Shion**: The attendance sheets show a fifth never came to away camps.
+- [47] **Minato**: Cooking duty took two hours a day last year. That is a lot.
+- [48] **Misaki**: We need to be careful with the budget gap from last year.
+- [49] **Takumi**: Our own hall is booked by three other clubs during vacation.
+- [50] **Asuka**: So staying local saves money but might not mix groups well.
+- [51] **Shion**: Sleeping badly ruins the final day's performance. We need quality.
+- [52] **Minato**: I do not want to spend the camp on duty again.
+- [53] **Misaki**: I agree. We need a place with kitchen staff if possible.
+- [54] **Takumi**: If we use our own hall, we train in early mornings and late evenings.
+## Round 3
+- [60] **Asuka**: Option A is the Mountain Centre. Option B is Campus. Option C is Coastal.
+- [61] **Shion**: Option A has shared dorms. Option C has a whole building.
+- [62] **Minato**: Option C has meals arranged. That solves the cooking duty.
+- [63] **Misaki**: Option A is public. Option C is a private guesthouse.
+- [64] **Takumi**: Option C is two prefectures away. Option A is inland.
+- [65] **Asuka**: @Misaki, what are the quoting terms for Option C?
+- [66] **Shion**: @Minato, is the lottery for Option A too risky?
+- [67] **Minato**: Yes, the lottery is risky. Option C has fixed headcount.
+- [68] **Misaki**: Option C has non-refundable deposits. That is a financial risk.
+- [69] **Takumi**: Option C is new for us. Option A is a public facility.
+- [70] **Asuka**: If someone drops out of Option C, the rest pay for them.
+- [71] **Shion**: Option A has enforced lights out. That might help sleep quality.
+- [72] **Minato**: Option B means commuting for some. That is hard for early trains.
+- [73] **Misaki**: Option A is the cheapest per night. 1,100 yen.
+- [74] **Takumi**: Option C allows whole-building lets. That might help mixing.
+- [75] **Asuka**: I am leaning towards Option A for the budget.
+- [76] **Shion**: I am worried about the sleep quality in Option A.
+- [77] **Minato**: I prefer Option C to avoid cooking duty.
+- [78] **Misaki**: I need to see the full cost of Option C before deciding.
+- [79] **Takumi**: I think Option C is best for year-group mixing.
+### Vote
+- Asuka -> A
+- Shion -> A
+- Minato -> C
+- Misaki -> A
+- Takumi -> C
+## Result
+- adopted: A

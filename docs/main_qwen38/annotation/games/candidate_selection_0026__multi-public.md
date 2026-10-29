@@ -1,0 +1,73 @@
+# candidate_selection_0026__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to verify if previous initiatives actually improved patient outcomes before committing more resources. I will review the readmission figures and visit completion data.
+- [6] **Toshio**: I’m less concerned with past outcomes than current capacity. I’ll check the booking system and room availability to see if we can absorb anything new.
+- [7] **Benjamin**: I suspect our recent failures stem from structural rot, not bad ideas. I’ll check the board minutes and the data agreements to see where the joints cracked.
+- [8] **Yumi**: I’m worried about who actually carries the new workload. I’ll check the ward nursing vacancies and the therapy staffing review to see where the pressure lands.
+- [9] **Servas**: I worry about the long-term cost. I will examine the development allocation and regional fund tariffs to understand what we can truly afford.
+- [10] **Asuka**: I want to ensure we don't repeat past mistakes. @Toshio, if the booking system is rigid, how do we track informal care?
+- [11] **Toshio**: @Asuka, if it isn’t a named slot, it vanishes from the records. That invisibility is exactly what clogs the system.
+- [12] **Benjamin**: @Toshio, that invisibility is a symptom. I’m hunting the cause. @Servas, does the ledger show if we’re funding the rot or just the new paint?
+- [13] **Yumi**: @Benjamin, the rot is real, but the people holding the line are exhausted. I need to know if the staffing gaps will swallow any new program whole.
+- [14] **Servas**: @Benjamin, I am checking if the ledger covers the running costs, not just the initial build. We must know what this budget can actually sustain.
+- [15] **Asuka**: @Yumi, exhaustion is a data point, not just a feeling. If the staffing review shows chronic gaps, no new program survives the first winter.
+- [16] **Toshio**: @Asuka, exhaustion is a capacity limit. If the booking screens are already full, adding another layer just creates a queue, not a solution.
+- [17] **Benjamin**: @Asuka, I agree. But data without context is just noise. I need to know if the structure itself is rotten before we measure the damage.
+- [18] **Yumi**: @Asuka, I hear you. But data can’t fix tired hands. I need to see if the teams can actually absorb the extra load without breaking.
+- [19] **Servas**: @Yumi, I hear your concern. But a program that breaks the staff is a failure. We must ensure the budget supports the people, not just the idea.
+- [20] **Asuka**: @Servas, I agree. We must know if the budget covers the running costs, not just the initial build.
+- [21] **Toshio**: @Servas, I agree. If the budget cannot sustain the daily friction, the program will seize up before it even starts.
+- [22] **Benjamin**: @Servas, precisely. If the foundation is cracked, no amount of paint saves the house. I’ll see what the minutes reveal about those old joints.
+- [23] **Yumi**: @Servas, I agree. If the budget can’t keep the lights on, the program fails. I’m checking the staffing gaps to see who breaks first.
+- [24] **Servas**: @All, thank you. We have chosen our paths. Let us see what the truth reveals before we commit.
+## Round 2
+- [35] **Asuka**: @Toshio, the call-back trial cut readmissions by a fifth, but the shared round lost a third of visits. We need robust infrastructure, not just good intentions.
+- [36] **Toshio**: @Asuka, the infrastructure is already saturated. Rooms book out by mid-morning, and the shuttle misses most villages. We cannot absorb more without seizing up.
+- [37] **Benjamin**: @Asuka, the minutes confirm my fear: the joint clinic collapsed because neither department owned the rota. We are building on sand again.
+- [38] **Yumi**: @Benjamin, the joint clinic failure is a warning. But look at the staffing: physios are leaving, yet midwives have slack. We must match the program to who is actually available.
+- [39] **Servas**: @All, the ledger is down a quarter, and off-site care earns nothing. We must choose a program that bills on-site to sustain itself.
+- [40] **Asuka**: @Servas, on-site billing is vital, but the trial proved home visits work. We need a model that captures that value without losing the patients.
+- [41] **Toshio**: @Servas, on-site billing is a trap. The booking system only records named slots. If we can’t log the work, we can’t bill it, regardless of location.
+- [42] **Benjamin**: @Toshio, the data agreements took fourteen months. Any program relying on outside surgeries is dead on arrival. We need self-contained structures.
+- [43] **Yumi**: @Benjamin, fourteen months is too long. But @Servas, the midwifery slack is real. We have capacity there, unlike the therapy team.
+- [44] **Servas**: @Yumi, the midwifery slack is a gift. We must use it wisely. A program that fits our current strength is the only one that will truly endure.
+- [45] **Asuka**: @Yumi, midwifery slack is a resource, not a guarantee. @Servas, if the budget is down, we must prioritize programs with proven, measurable outcomes to justify the spend.
+- [46] **Toshio**: @Asuka, measurable outcomes are useless if the system cannot process them. If the booking screens are full, the data simply vanishes.
+- [47] **Benjamin**: @Yumi, fourteen months is a death sentence. Any program needing outside data is structurally doomed. We need self-contained units, not fragile partnerships.
+- [48] **Yumi**: @Benjamin, I agree. But @Servas, the midwifery slack is our only real capacity. We must build on what we have, not what we wish we had.
+- [49] **Servas**: @Yumi, I agree. We must build on solid ground. A program using existing midwifery strength avoids the structural rot Benjamin fears.
+- [50] **Asuka**: @Servas, I agree. The trial proved home visits work, but the shared round failed. We need a self-contained model that bills on-site to survive the budget cut.
+- [51] **Toshio**: @Asuka, self-contained is necessary, but not sufficient. If the booking system cannot log the work, it vanishes from the records. We need a model that fits the existing slots.
+- [52] **Benjamin**: @Toshio, exactly. If it isn’t a named slot, it doesn’t exist. We need a program that fits the current architecture, not one that demands a rebuild.
+- [53] **Yumi**: @Toshio, I agree. If it isn’t logged, it doesn’t exist. But @Servas, the midwifery slack is our only real capacity. We must build on what we have, not what we wish we had.
+- [54] **Servas**: @All, the evidence points to one path. We must choose the program that fits our current strength and bills on-site. Let us vote.
+## Round 3
+- [60] **Asuka**: @All, the data is clear. Option A failed due to logistics. Option D is dead from data delays. Option C lacks staff. Option B fits our midwifery slack and bills on-site.
+- [61] **Toshio**: @Asuka, Option B fits the named slots. The others require off-site work or new infrastructure we simply do not have.
+- [62] **Benjamin**: @Asuka, Option B is the only one that doesn’t rely on a department that never signed up. The joint clinic died from that exact rot.
+- [63] **Yumi**: @Asuka, I agree. Option B is the only one that doesn't break our exhausted teams. The midwifery slack is our safety net. Let's choose B.
+- [64] **Servas**: @All, Option B is the only path that respects our reduced budget and existing staff. It bills on-site and uses our midwifery strength. I vote for B.
+- [65] **Asuka**: @All, Option B is the only choice with proven capacity and on-site billing. It avoids the structural failures of the others. I vote for B.
+- [66] **Toshio**: @Asuka, Option B fits the named slots. The others require off-site work or new infrastructure we simply do not have. I vote for B.
+- [67] **Benjamin**: @Asuka, precisely. Option B is self-contained. It avoids the fourteen-month data trap and the joint-ownership rot that killed the clinic. I vote for B.
+- [68] **Yumi**: @All, Option B is the only one that doesn't break our exhausted teams. The midwifery slack is our safety net. I vote for B.
+- [69] **Servas**: @All, I concur. Option B honors our constraints and our people. It is the only choice that will endure. I vote for B.
+- [70] **Asuka**: @All, the evidence is unanimous. Option B is the only viable path. I confirm my vote for B.
+- [71] **Toshio**: @Asuka, the logic holds. Option B fits the existing architecture without straining the saturated booking screens. I vote for B.
+- [72] **Benjamin**: @Asuka, agreed. Option B is the only structure that won't rot in year two. It fits the slots and the staff. I vote for B.
+- [73] **Yumi**: @All, I am so happy we found a path that protects our team. The midwifery slack is a blessing. I vote for B.
+- [74] **Servas**: @All, the choice is clear. Option B respects our limits and our people. It is the only path that will truly endure. I vote for B.
+- [75] **Asuka**: @All, the consensus is complete. Option B is selected. We have chosen the path that sustains our people and our budget.
+- [76] **Toshio**: @Asuka, the logic holds. Option B fits the existing architecture without straining the saturated booking screens. I vote for B.
+- [77] **Benjamin**: @Asuka, agreed. Option B is the only structure that won't rot in year two. It fits the slots and the staff. I vote for B.
+- [78] **Yumi**: I am so happy we found a path that protects our team. The midwifery slack is a blessing. I vote for B.
+- [79] **Servas**: @All, the decision is made. Option B is selected. May it bring steady health to our patients and peace to our staff.
+### Vote
+- Asuka -> B
+- Toshio -> B
+- Benjamin -> B
+- Yumi -> B
+- Servas -> B
+## Result
+- adopted: B

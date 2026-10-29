@@ -1,0 +1,73 @@
+# shared_living_0014__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Mizuki**: We need to balance group time with personal space. What did last year's schedule look like?
+- [6] **Shizue**: I worry about hidden costs. Let's check all-in rates against separate meals.
+- [7] **Minato**: I find it hard to sleep in new places. Bathing hours matter a lot to me.
+- [8] **Jonathan**: I value quiet. How much time was lost to travel last year?
+- [9] **Midori**: I need to know the total cost upfront. Let's look at pricing for whole houses.
+- [10] **Mizuki**: @Midori, whole houses might isolate us. I want to understand the social flow.
+- [11] **Shizue**: @Minato, that is a valid concern. I will look into bathroom provisions too.
+- [12] **Minato**: Thank you. I also wonder about where I can sit that is not a bed.
+- [13] **Jonathan**: I agree with Shizue. I will investigate how last year's days actually ran.
+- [14] **Midori**: I will check what separately booked rooms cost last time to compare.
+- [15] **Mizuki**: I need to see the ferry and train times to plan our arrival.
+- [16] **Shizue**: I will look into inn mealtimes to ensure we eat together comfortably.
+- [17] **Minato**: I am curious about getting around by train and bus for small trips.
+- [18] **Jonathan**: I will check ferry sailings and train time to minimize waiting.
+- [19] **Midori**: I will also look at valley inn rates versus urban beds for budgeting.
+- [20] **Mizuki**: I will investigate time alone in the shared-house year to see the pattern.
+- [21] **Shizue**: I will look into all-in rates against meals bought separately for clarity.
+- [22] **Minato**: I will check bathing hours and bathroom provision specifically for my comfort.
+- [23] **Jonathan**: I will investigate how last year's days ran to see the transit impact.
+- [24] **Midori**: I will check pricing of offshore houses let whole to see the total bill.
+## Round 2
+- [35] **Mizuki**: The data shows we need a place that allows solo time without isolation.
+- [36] **Shizue**: I found that all-in rates mean the light eater pays for the big appetite.
+- [37] **Minato**: The island houses have one bathroom for everyone. That sounds very difficult for me.
+- [38] **Jonathan**: The ferry schedule is tight. We lose two full days to travel and waiting.
+- [39] **Midori**: The offshore houses are 5,400 yen a head a night, but food is extra. That is a surprise.
+- [40] **Mizuki**: @Minato, that is a serious issue. We need a place with more privacy.
+- [41] **Shizue**: @Midori, that means we need to budget for food separately. It is not all-in.
+- [42] **Minato**: I am worried about the cold water and the shared space. I need a private bath.
+- [43] **Jonathan**: I agree. The travel time is too high. We need a closer option.
+- [44] **Midori**: I see. The valley inns are 17,000 yen with meals. That is much higher.
+- [45] **Mizuki**: The city option allows us to split up and come back. That solves the crowding.
+- [46] **Shizue**: The city option has separate rooms. That is better for privacy and quiet.
+- [47] **Minato**: If we have a private room, I can sleep better. I do not like sharing a bath.
+- [48] **Jonathan**: The city is closer. We can arrive in the morning and leave in the evening.
+- [49] **Midori**: The city option is 12,000 to 20,000 yen for the bed. Meals are extra.
+- [50] **Mizuki**: I think the city option is the best balance. It allows group time and solo time.
+- [51] **Shizue**: I agree. The city option is more flexible and private. I prefer it.
+- [52] **Minato**: I am relieved. A private room and a private bath would help me sleep.
+- [53] **Jonathan**: I support the city option. It minimizes travel time and allows quiet.
+- [54] **Midori**: I am concerned about the total cost. The city option is more expensive.
+## Round 3
+- [60] **Mizuki**: Option C allows us to be together in the evenings but alone during the day.
+- [61] **Shizue**: Option C has separate rooms. That means we can settle our own bills clearly.
+- [62] **Minato**: Option C has separate rooms. I can have my own bath and sleep well.
+- [63] **Jonathan**: Option C is closest. We can arrive in the morning and leave in the evening.
+- [64] **Midori**: Option C is 12,000 to 20,000 yen for the bed. Meals are extra.
+- [65] **Mizuki**: @Midori, the cost is higher, but the flexibility is worth it.
+- [66] **Shizue**: @Minato, I am glad you are comfortable. That is important for everyone.
+- [67] **Minato**: I am very happy. I can wash when I want and sit in a chair.
+- [68] **Jonathan**: I agree. The travel time is minimal. We can enjoy the city without rushing.
+- [69] **Midori**: I am still worried about the total cost. I need to know the exact amount.
+- [70] **Mizuki**: The city option is the best balance. It allows group time and solo time.
+- [71] **Shizue**: I agree. The city option is more flexible and private. I prefer it.
+- [72] **Minato**: I support Option C. It is the most comfortable for me.
+- [73] **Jonathan**: I support Option C. It minimizes travel time and allows quiet.
+- [74] **Midori**: I will vote for Option C, but I need to know the total cost.
+- [75] **Mizuki**: I vote for Option C. It is the best balance for our group.
+- [76] **Shizue**: I vote for Option C. It is fair and comfortable for everyone.
+- [77] **Minato**: I vote for Option C. I can sleep well and have my own space.
+- [78] **Jonathan**: I vote for Option C. It is efficient and quiet.
+- [79] **Midori**: I vote for Option C. I hope the total cost is manageable.
+### Vote
+- Mizuki -> C
+- Shizue -> C
+- Minato -> C
+- Jonathan -> C
+- Midori -> C
+## Result
+- adopted: C

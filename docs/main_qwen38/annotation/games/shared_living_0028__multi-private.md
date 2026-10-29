@@ -1,0 +1,73 @@
+# shared_living_0028__multi-private (shared_living)
+
+## Round 1
+- [5] **Shion**: The room is a mess. We need to decide its purpose. I’ll check the partition wall and the bins.
+- [6] **Daisuke**: I’m sorry. I just want to see the invoices and the fridge clear-out first.
+- [7] **Rin**: I want to check the tally of use and where awkward talks happened! First-come-first-served is unfair.
+- [8] **Servas**: I will examine the facilities callouts and the round trip for a hot lunch.
+- [9] **Toshio**: I’ll look into the fortnight's tally and the invoices. I need to see where the hours actually go before we commit.
+- [10] **Shion**: @Rin, your tally request is redundant. I’m already checking the bins. @Toshio, invoices are boring. Let’s focus on the physical space.
+- [11] **Daisuke**: I... I agree with Toshio. The numbers matter. I’m just nervous about signing anything without seeing the costs first.
+- [12] **Rin**: @Shion, it’s not redundant! I need to know who actually uses it. @Daisuke, don’t worry, we’ll figure it out together!
+- [13] **Servas**: @Daisuke, courage is not the absence of fear, but the judgment that something else is more important. Let us listen to the room’s needs.
+- [14] **Toshio**: @Servas, poetic, but hours are concrete. I need the data to prove the current setup is unsustainable.
+- [15] **Shion**: @Toshio, data is just noise without context. I’m checking the partition wall and the bins. The physical reality is what matters.
+- [16] **Daisuke**: I... I just need the invoices and the fridge clear-out. Please, let’s see the actual costs before we decide anything.
+- [17] **Rin**: @Toshio, I’m checking the tally too! I want to see who’s actually there. @Shion, please don’t be mean about it!
+- [18] **Servas**: @Rin, the tally reveals presence, but not connection. We must ask: are we truly together, or merely adjacent?
+- [19] **Toshio**: @Rin, we both need the tally. I’ll cross-reference it with the invoices to map the true cost of our time.
+- [20] **Shion**: @Rin, I am not mean, I am efficient. The wall and the bins will tell the truth. @Toshio, your data is irrelevant.
+- [21] **Daisuke**: I... I’m sorry. I just need the invoices and the fridge clear-out. Please, let’s see the actual costs before we decide anything.
+- [22] **Rin**: @Shion, you’re being grumpy! I’m checking the tally and the awkward talk spots. I want to know why people avoid the room!
+- [23] **Servas**: @Rin, you seek the map, but I seek the territory. Let us see if the room can hold our words, not just our bodies.
+- [24] **Toshio**: @Shion, data is the only honest witness. I’ll map the hours against the invoices. We’ll see who is truly paying the price.
+## Round 2
+- [35] **Shion**: The wall is paper-thin. Conversations leak out. The bins are overflowing with crumbs. We are a mess.
+- [36] **Daisuke**: I found the invoices. Sixty-eight thousand yen for nine bookings, but never more than four people. It’s a waste.
+- [37] **Rin**: @Toshio, the tally says two people hogged it eleven times! And the awkward talk happened right here. We need rules!
+- [38] **Servas**: @Daisuke, twenty-five minutes for a hot meal is a long journey. We must ask if this room can shorten that distance for us.
+- [39] **Toshio**: @Daisuke, the invoices confirm the waste. @Rin, the tally shows the imbalance. We are paying for space we barely use.
+- [40] **Shion**: @Daisuke, sixty-eight thousand for four people is absurd. @Rin, if the wall leaks sound, your "awkward talks" are public. We need silence.
+- [41] **Daisuke**: I... I also checked the old fridge. Half the food was from nobody. We keep paying for things we don’t even use.
+- [42] **Rin**: @Shion, that’s why people hide! If the room feels scary, nobody wants to use it. We need a safe spot, not just a quiet one!
+- [43] **Servas**: @Rin, a safe spot is where we can be honest. The room must hold our words, not just our bodies.
+- [44] **Toshio**: @Rin, safety is a luxury. The data shows we pay for empty chairs. We must stop subsidizing the few who actually sit down.
+- [45] **Shion**: @Toshio, you ignore the acoustics. The wall is a sieve. We need soundproofing, not just cost-cutting.
+- [46] **Daisuke**: I... I’m sorry. The fridge was cleared twice, yet half was still nobody’s. We keep paying for ghosts.
+- [47] **Rin**: @Toshio, it’s not just empty chairs! It’s that nobody feels safe to talk. We need a place where awkwardness doesn’t ruin the whole fortnight!
+- [48] **Servas**: @Toshio, empty chairs are not the only cost. The silence between us is a debt we pay daily. We must value connection.
+- [49] **Toshio**: @Servas, connection is not free. The invoices prove we pay for presence, not intimacy. We must stop funding the silence.
+- [50] **Shion**: @Rin, safety is a myth. The wall is the problem. We need to fix the acoustics, not the feelings.
+- [51] **Daisuke**: I... I just need the numbers to stop the bleeding. Please, let’s look at the quotes before we sign anything.
+- [52] **Rin**: @Shion, feelings are real! If the wall leaks, we can’t be honest. We need a room where we can actually talk without fear!
+- [53] **Servas**: @Shion, a wall that leaks sound also leaks trust. We need a space where honesty can breathe, not just a room that is quiet.
+- [54] **Toshio**: @Daisuke, the quotes will show the fit-out cost. I need to know if the hours saved justify the price.
+## Round 3
+- [60] **Shion**: @Toshio, your data is irrelevant. The wall is a sieve. Option C is the only logical choice. Silence is the only solution.
+- [61] **Daisuke**: I... I’m sorry. I need to see the quotes for the fit-outs before I can agree to anything.
+- [62] **Rin**: @Shion, silence is scary! I want Option B so we can talk together and fix the awkwardness!
+- [63] **Servas**: @Rin, Option B invites the very conversations we have been avoiding. Let us choose the space where we can finally speak.
+- [64] **Toshio**: @Shion, silence costs nothing, but the invoices prove we pay for presence. Option B is the only one that justifies the hourly rate.
+- [65] **Shion**: @Rin, you want noise? The wall is paper. Option C is the only one that respects the physics. I vote C.
+- [66] **Daisuke**: I... I can’t vote yet. I need the quotes to see if the cost is worth it.
+- [67] **Rin**: @Daisuke, please vote! We can’t wait forever! I choose Option B because talking is better than hiding!
+- [68] **Servas**: @Daisuke, the quotes measure wood, not trust. I vote B, for the room must hold our words, not just our bodies.
+- [69] **Toshio**: @Daisuke, the invoices already show the waste. Option B justifies the cost. I vote B.
+- [70] **Shion**: @Daisuke, the quotes are irrelevant. The wall is the problem. Option C is the only logical choice. I vote C.
+- [71] **Daisuke**: I... I’m sorry. I still need the quotes. I can’t sign for this without seeing the actual costs.
+- [72] **Rin**: @Daisuke, please! We can’t keep waiting! I vote for Option B because talking is better than hiding!
+- [73] **Servas**: @Daisuke, the cost of silence is higher than any invoice. I stand by my vote for B.
+- [74] **Toshio**: @Daisuke, the invoices are the quote. We are already paying for empty chairs. Option B is the only logical use. I vote B.
+- [75] **Shion**: @Daisuke, your hesitation is a waste of time. The wall is the truth. I vote C.
+- [76] **Daisuke**: I... I’m sorry. I can’t sign without the quotes. I vote B, but only if the costs are clear.
+- [77] **Rin**: I vote B! We need to talk, not hide! Please, let’s fix this together!
+- [78] **Servas**: I vote B. Let us build a place where we are no longer strangers, but neighbors who finally speak.
+- [79] **Toshio**: I vote B. The data confirms it. We stop paying for ghosts and start paying for actual use.
+### Vote
+- Shion -> C
+- Daisuke -> B
+- Rin -> B
+- Servas -> B
+- Toshio -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# candidate_selection_0028__single-online (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: We need to pick a vendor that survives our actual yards, not just the office. Who else is worried about the floor?
+- [6] **Mizuki**: @Kenji I worry about the bill that keeps arriving after the contract is signed. Who else is tracking the long-term cost?
+- [7] **Asuka**: @Mizuki I worry about who is actually in charge when things break. Who else is tracking the support gaps?
+- [8] **Rin**: #### Turn 1 of 4
+- [9] **Servas**: #### Turn 1 of 4
+- [10] **Kenji**: #### Turn 2 of 4
+- [11] **Mizuki**: #### Turn 2 of 4
+- [12] **Asuka**: #### Turn 2 of 4
+- [13] **Rin**: #### Turn 2 of 4
+- [14] **Servas**: #### Turn 1 of 4
+- [15] **Kenji**: #### Turn 3 of 4
+- [16] **Mizuki**: - **Mizuki**: @Rin @Servas I hear you both. Let's see what the records actually say before we guess.
+- [17] **Asuka**: - **Asuka**: Agreed. We need facts, not assumptions. Let's review the available records to ground our concerns.
+- [18] **Rin**: - **Rin**: I agree! Let's dig into the history. I want to see if we keep buying things that just age in place.
+- [19] **Servas**: #### Turn 3 of 4
+- [20] **Kenji**: - **Kenji**: @Mizuki @Asuka @Rin @Servas I'll check the yard devices and the depot calendar. Who else is ready to pick their two?
+- [21] **Mizuki**: - **Mizuki**: I’ll pull the five years of renewal invoices and the board minutes on capital requests.
+- [22] **Asuka**: - **Asuka**: I’ll look into support ownership during last winter's outage and the warehouse rule changes after new accounts.
+- [23] **Rin**: - **Rin**: I want to check the dispatch tool's upgrade history and the data lift from the 2018 pay move.
+- [24] **Servas**: I’ll examine the administrator retirements and the depot supervisors from the last rollout.
+## Round 2
+- [35] **Kenji**: - **Kenji**: @Mizuki @Asuka @Rin @Servas I found the yard scanners are a mess of old models, and the 2021 trial failed fast.
+- [36] **Mizuki**: - **Mizuki**: @Kenji That explains the friction. My invoices show separately licensed pieces climbing yearly, while bundled deals held steady.
+- [37] **Asuka**: - **Asuka**: @Mizuki That confirms my fear. Support was unowned for two days last winter, and our frozen scope broke within a year.
+- [38] **Rin**: - **Rin**: @Asuka That sounds scary! I found the 2018 pay move had mismatched codes for a whole year. We need to avoid that mess.
+- [39] **Servas**: - **Servas**: @Rin A year of errors is a long time to suffer. I found two key administrators retire this year, and the last hiring took eleven months.
+- [40] **Kenji**: - **Kenji**: @Servas That staffing gap is terrifying. My depot calendar shows no freeze window in winter, so a bad cutover means total chaos.
+- [41] **Mizuki**: - **Mizuki**: @Kenji That winter chaos is exactly why I’m watching the recurring costs. We can’t afford a failed cutover that triggers emergency spending.
+- [42] **Asuka**: - **Asuka**: @Mizuki Agreed. The unowned support and shifting scope mean we need a vendor who stays accountable, not just a cheap license.
+- [43] **Rin**: - **Rin**: @Asuka Exactly! If the data is messy, the whole thing falls apart. We need someone who fixes the mess, not just adds to it.
+- [44] **Servas**: - **Servas**: @Rin The data is only half the story. I found supervisors quietly dropped the new steps within weeks. We must respect their routines.
+- [45] **Kenji**: - **Kenji**: @Servas That’s a real risk. If the yard crew ignores the new system, we’re back to paper. We need something they’ll actually use.
+- [46] **Mizuki**: - **Mizuki**: @Kenji Precisely. If the yard rejects it, we pay for a system we can’t use. That’s the hidden cost I’m tracking.
+- [47] **Asuka**: - **Asuka**: @Kenji @Servas This confirms my fear. We need a single point of accountability, not scattered support that fails when it matters most.
+- [48] **Rin**: - **Rin**: @Asuka I agree! We need one person to blame if it breaks, not four companies pointing fingers.
+- [49] **Servas**: -Servas: @Rin You are right. But accountability means people, not just contracts. I worry the new system will crush the few who know how to keep it running.
+- [50] **Kenji**: - **Kenji**: @Servas That’s the real danger. If the yard rejects it, we’re back to paper. We need something they’ll actually use.
+- [51] **Mizuki**: - **Mizuki**: @Kenji Exactly. A rejected system is a sunk cost. We must price in the risk of failure, not just the license fee.
+- [52] **Asuka**: - **Asuka**: @Kenji @Servas We need a vendor who owns the whole rollout, not just the software. Who stays when the problems start?
+- [53] **Rin**: - **Rin**: @Asuka Yes! Someone who stays to fix the mess, not just hands over the keys and leaves.
+- [54] **Servas**: -Servas: @Asuka You are right. The vendor must stay to teach, not just to sell. We cannot afford to lose our people to a system they do not understand.
+## Round 3
+- [60] **Kenji**: - **Kenji**: @All The candidates are here. Which one actually survives our yards and winter?
+- [61] **Mizuki**: - **Mizuki**: @Kenji I’m watching the subscription model. If it’s bundled, the long-term cost stays predictable, unlike those climbing add-ons.
+- [62] **Asuka**: - **Asuka**: @Mizuki Bundled is good, but I need one throat to choke. Who owns the whole system when it breaks?
+- [63] **Rin**: - **Rin**: @Asuka I want someone who fixes the data mess! I don't want another year of mismatched codes. Who stays to clean it up?
+- [64] **Servas**: -Servas: @Rin A partner firm is a stranger. I need an engineering team present, to teach our people and respect their routines.
+- [65] **Kenji**: - **Kenji**: @Servas Present engineers sound right. If they are on-site, they can fix the yard scanners before winter hits.
+- [66] **Mizuki**: - **Mizuki**: @Kenji On-site presence is expensive. I need to know if that cost is fixed or if it balloons like those yearly add-ons.
+- [67] **Asuka**: - **Asuka**: @Mizuki If they are present, they own the failure. That solves the accountability gap I found in the winter outage.
+- [68] **Rin**: - **Rin**: @Asuka Yes! If they are there, they can’t just point fingers. They have to fix the mess right in front of us!
+- [69] **Servas**: -Servas: @Asuka Presence is vital, but I worry about the cost Mizuki fears. We must balance their expertise with our thin budget.
+- [70] **Kenji**: - **Kenji**: @Mizuki If they are on-site, they fix the yard scanners before winter hits. That saves us the emergency spending you fear.
+- [71] **Mizuki**: - **Mizuki**: @Kenji On-site presence is a premium. I need to know if that cost is fixed or if it balloons like those yearly add-ons.
+- [72] **Asuka**: - **Asuka**: @Mizuki If the engineering team is present, they own the failure. That solves the accountability gap I found in the winter outage.
+- [73] **Rin**: - **Rin**: @Asuka Exactly! If they are there, they can’t just point fingers. They have to fix the mess right in front of us!
+- [74] **Servas**: -Servas: @Mizuki A fixed team is a fixed cost. It is safer than unpredictable add-ons, and it protects our people from being left alone.
+- [75] **Kenji**: - **Kenji**: @All I’m voting for Anchor. Their on-site team is the only one who can handle our yards and winter.
+- [76] **Mizuki**: - **Mizuki**: @Kenji I vote for Tessera. The bundled subscription is the only model that stops the yearly cost creep I found.
+- [77] **Asuka**: - **Asuka**: @Kenji I vote for Anchor. Their on-site team provides the single point of accountability I need.
+- [78] **Rin**: - **Rin**: @Kenji I vote for Anchor! If they are there, they can fix the data mess and stop the aging systems!
+- [79] **Servas**: -Servas: @Kenji I vote for Anchor. Their presence protects our retiring staff and teaches the crews, which no remote partner can do.
+### Vote
+- Kenji -> C
+- Mizuki -> A
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

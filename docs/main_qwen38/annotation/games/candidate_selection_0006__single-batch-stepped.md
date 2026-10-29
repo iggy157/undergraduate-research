@@ -1,0 +1,73 @@
+# candidate_selection_0006__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about sustainability. Where do we usually fail after the first year?
+- [6] **Jonathan**: I want to know what our past initiatives actually achieved for patients.
+- [7] **Misaki**: Staffing is the bottleneck. I need to see the current roster pressures.
+- [8] **Shion**: The budget is shrinking. I need to know the real financial constraints.
+- [9] **Shizue**: The hospital is already full. I need to check physical capacity limits.
+- [10] **Midori**: @Shion, if the money is tight, we must pick something durable.
+- [11] **Jonathan**: Agreed. We shouldn't add to the pile of forgotten projects.
+- [12] **Misaki**: @Midori, durability depends on who is left to do the work.
+- [13] **Shion**: Exactly. I will look at the ledger and the booking system.
+- [14] **Shizue**: I will check the rooms and the shuttle coverage.
+- [15] **Midori**: I will look at the board minutes and the nursing round data.
+- [16] **Jonathan**: I will review the readmission figures and the therapy staffing.
+- [17] **Misaki**: I will check the ward vacancies and the therapy staffing review.
+- [18] **Shion**: I will also look at the regional fund tariffs.
+- [19] **Shizue**: I will also look at the booking system records.
+- [20] **Midori**: Let's see what the data says before we decide.
+- [21] **Jonathan**: Quietly, I hope the numbers are honest.
+- [22] **Misaki**: The rosters will tell the truth.
+- [23] **Shion**: The ledger never lies.
+- [24] **Shizue**: The doors and screens will show us the limit.
+## Round 2
+- [35] **Midori**: The board minutes show a joint clinic failed because neither side held the budget.
+- [36] **Jonathan**: The readmission trial worked, but only while it was actively funded.
+- [37] **Misaki**: Ward vacancies are critical. Agency costs are eating the pay bill.
+- [38] **Shion**: The development budget is down a quarter. Off-site visits earn no tariff.
+- [39] **Shizue**: The car park fills by eleven. The shuttle misses most villages.
+- [40] **Midori**: @Shion, if off-site visits earn nothing, how do we justify them?
+- [41] **Jonathan**: @Misaki, if therapy staff are leaving, can we even staff a unit?
+- [42] **Misaki**: @Jonathan, the midwifery rota has slack, but therapy is empty.
+- [43] **Shion**: @Midori, on-site sessions bill at standard rates. That is the only revenue.
+- [44] **Shizue**: @Shion, but the rooms are already booked out from mid-morning.
+- [45] **Midori**: The shared nursing round lost a third of visits. That is a risk.
+- [46] **Jonathan**: The call-back trial reduced readmissions by a fifth. That is real value.
+- [47] **Misaki**: We cannot add pressure to the wards. We need a different model.
+- [48] **Shion**: We need something that bills on-site and doesn't rely on fragile external links.
+- [49] **Shizue**: We need something that fits in the existing rooms without new infrastructure.
+- [50] **Midori**: A home visit program seems risky given the tariff and visit completion data.
+- [51] **Jonathan**: A day unit needs therapy staff we don't have.
+- [52] **Misaki**: Chronic care coordination might work if it uses existing coordinators.
+- [53] **Shion**: Perinatal support uses midwifery slack and bills on-site.
+- [54] **Shizue**: Perinatal support fits in existing rooms and doesn't need new shuttles.
+## Round 3
+- [60] **Midori**: I am leaning toward Perinatal Support. It uses the midwifery slack.
+- [61] **Jonathan**: I agree. It avoids the therapy staffing crisis.
+- [62] **Misaki**: It also avoids the ward nursing vacancies.
+- [63] **Shion**: It generates revenue through on-site billing.
+- [64] **Shizue**: It fits within the current room and parking capacity.
+- [65] **Midori**: @Shion, does the budget cover the initial setup?
+- [66] **Jonathan**: @Misaki, is the midwifery team willing to take this on?
+- [67] **Misaki**: The review shows unusual slack. They should be open to it.
+- [68] **Shion**: The ledger shows a cut, but this is low-cost.
+- [69] **Shizue**: The booking system can handle named slots for this.
+- [70] **Midori**: I think we have a consensus forming around D.
+- [71] **Jonathan**: It is the most sustainable option given the data.
+- [72] **Misaki**: It places the least strain on the most critical staff.
+- [73] **Shion**: It is the only one that makes financial sense.
+- [74] **Shizue**: It is the only one that won't break the daily flow.
+- [75] **Midori**: Let's vote for D.
+- [76] **Jonathan**: I will vote for D.
+- [77] **Misaki**: I will vote for D.
+- [78] **Shion**: I will vote for D.
+- [79] **Shizue**: I will vote for D.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# candidate_selection_0016__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I need to understand the true cost before we commit.
+- [6] **Shion**: We should check what previous initiatives actually achieved.
+- [7] **Midori**: Staffing is the bottleneck. I need to see the rosters.
+- [8] **Kenji**: Can our physical space handle another program?
+- [9] **Shizue**: I worry about long-term sustainability and hidden dependencies.
+- [10] **Jonathan**: @Shizue, yes, the second-year failures are a real risk.
+- [11] **Shion**: @Kenji, capacity is a valid concern, but so is impact.
+- [12] **Midori**: @Jonathan, the budget figures will clarify the scope.
+- [13] **Kenji**: @Midori, if the staff is stretched, the program fails.
+- [14] **Shizue**: @Shion, let us look at the data before deciding.
+- [15] **Jonathan**: I will review the ledger and the booking system.
+- [16] **Shion**: I will check the readmission figures and board minutes.
+- [17] **Midori**: I will look at ward vacancies and therapy staffing.
+- [18] **Kenji**: I will check room coverage and parking availability.
+- [19] **Shizue**: I will review the data agreements and visit completion rates.
+- [20] **Jonathan**: Agreed. Let us see what the records say.
+- [21] **Shion**: The data will tell the truth.
+- [22] **Midori**: I hope the staffing picture is clear.
+- [23] **Kenji**: I am worried about the logistics.
+- [24] **Shizue**: We must be careful with our choices.
+## Round 2
+- [35] **Jonathan**: The budget is down a quarter. That limits our options significantly.
+- [36] **Shion**: The call-back trial worked, but the joint clinic failed.
+- [37] **Midori**: Ward nursing is critical. Therapy staff are leaving.
+- [38] **Kenji**: Rooms are full by mid-morning. Parking is a nightmare.
+- [39] **Shizue**: Data agreements take fourteen months. Visits often fail.
+- [40] **Jonathan**: @Shion, the joint clinic failure is a warning.
+- [41] **Shion**: @Jonathan, yes, but the readmission data is promising.
+- [42] **Midori**: @Kenji, if we can't fit it in, we can't do it.
+- [43] **Kenji**: @Midori, the staffing gaps are huge.
+- [44] **Shizue**: @Shion, the joint clinic collapsed because of shared responsibility.
+- [45] **Jonathan**: We need a program that fits the reduced budget.
+- [46] **Shion**: We need a program with proven results.
+- [47] **Midori**: We need a program that doesn't break the staff.
+- [48] **Kenji**: We need a program that fits the space.
+- [49] **Shizue**: We need a program that doesn't rely on fragile partnerships.
+- [50] **Jonathan**: Let us wait for the candidates.
+- [51] **Shion**: The data suggests caution.
+- [52] **Midori**: I am concerned about the nursing load.
+- [53] **Kenji**: The logistics are tight.
+- [54] **Shizue**: We must avoid repeating past mistakes.
+## Round 3
+- [60] **Jonathan**: Candidate A, Home Follow-Up, seems feasible with current staff.
+- [61] **Shion**: Candidate A has proven results from the call-back trial.
+- [62] **Midori**: Candidate A adds to the nursing load, but it is manageable.
+- [63] **Kenji**: Candidate A requires no new rooms or parking.
+- [64] **Shizue**: Candidate A relies on home visits, which can be unreliable.
+- [65] **Jonathan**: @Shizue, the reliability issue is real, but the budget fits.
+- [66] **Shion**: @Midori, the nursing load is a concern, but the impact is high.
+- [67] **Midori**: @Kenji, yes, it fits the space, which is a plus.
+- [68] **Kenji**: @Jonathan, the budget constraint is the deciding factor.
+- [69] **Shizue**: @Shion, the proven results are compelling, despite the risks.
+- [70] **Jonathan**: I vote for A.
+- [71] **Shion**: I vote for A.
+- [72] **Midori**: I vote for A.
+- [73] **Kenji**: I vote for A.
+- [74] **Shizue**: I vote for A.
+- [75] **Jonathan**: It seems we are in agreement.
+- [76] **Shion**: The data supports this choice.
+- [77] **Midori**: I hope the staff can handle it.
+- [78] **Kenji**: It fits the logistics.
+- [79] **Shizue**: Let us hope it lasts.
+### Vote
+- Jonathan -> A
+- Shion -> A
+- Midori -> A
+- Kenji -> A
+- Shizue -> A
+## Result
+- adopted: A

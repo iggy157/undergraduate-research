@@ -1,0 +1,73 @@
+# shared_living_0019__multi-private (shared_living)
+
+## Round 1
+- [5] **George**: I worry we are just moving the sore point. Let us look at what actually sours groups like ours before deciding anything.
+- [6] **Toshio**: Agreed. The friction is in the coordination, not the driving. I want to see where those hours actually go before we commit.
+- [7] **Victoria**: I need to know the car’s condition at handover. If it’s unreliable, no schedule fixes the daily frustration I face.
+- [8] **Misaki**: I’m concerned about the hidden costs. We need to see the tax and insurance papers to understand the true baseline before splitting anything.
+- [9] **Minato**: I just want to know the real numbers. Who drives how much? I don’t want to guess anymore.
+- [10] **George**: @Toshio, your point about coordination is valid. But we must also check the mechanic’s remarks to see if the car itself is causing the strain.
+- [11] **Toshio**: @George, fair point. But I suspect the car is fine; the process is broken. I’ll check the diary hours and the trial recording.
+- [12] **Victoria**: @Toshio, the diary won’t show the state of the car. I need the handover condition and the mechanic’s notes to verify reliability.
+- [13] **Misaki**: @Victoria, the mechanic’s notes might explain wear, but the tax and insurance papers show the fixed costs we all ignore.
+- [14] **Minato**: @Misaki, I agree. The tax papers are important. I want to see the fuel receipts too, to know the real cost.
+- [15] **George**: @Minato, fuel receipts show spending, not the pattern. I need the weekly trips and the spell of checking figures to see the social strain.
+- [16] **Toshio**: @George, the social strain is real, but I need the data first. I’ll stick to the diary and the trial recording to map the hours.
+- [17] **Victoria**: I stand by my choice. I will examine the handover state and the mechanic’s remarks to ensure the vehicle is actually usable for me.
+- [18] **Misaki**: I’ll review the tax and insurance papers, plus the fuel receipts. We need the fixed costs and actual usage to see who’s really subsidizing whom.
+- [19] **Minato**: I will look into the fuel receipts and the diary hours. I want to see the real costs and who drives.
+- [20] **George**: I will examine the spell of checking figures and the two other households' experiences. We need to understand the social dynamics before finalizing anything.
+- [21] **Toshio**: I will examine the hours of use recorded in the diary and the month's trial of recording every run.
+- [22] **Victoria**: I will examine the state of the car at handover and the mechanic’s remarks at the last service.
+- [23] **Misaki**: I will examine last year's tax, insurance and parking papers, and last year's fuel receipts.
+- [24] **Minato**: I will look into last year's fuel receipts and the hours of use recorded in the diary.
+## Round 2
+- [35] **George**: @Toshio, the other households said asking favours sours things. We must avoid that trap.
+- [36] **Toshio**: @George, the trial data confirms the coordination cost is high. Nearly an hour weekly just to track it. We need a system that minimizes that overhead.
+- [37] **Victoria**: @Toshio, that overhead is real, but the mechanic’s warning about cold runs is critical. We must address the vehicle’s physical state before optimizing schedules.
+- [38] **Misaki**: @Toshio, the fuel data is stark. Two people bought over half the litres. We need to see if the fixed costs match that usage.
+- [39] **Minato**: @Misaki, the diary shows Saturdays are much busier than Tuesdays. I think the costs should match that difference.
+- [40] **George**: @Misaki, the checking spell made us feel accused. We must avoid that dynamic. How do we verify costs without creating resentment?
+- [41] **Toshio**: @George, resentment comes from ambiguity. If the rules are clear and the data is automatic, there is nothing to accuse. We just need to remove the manual labor.
+- [42] **Victoria**: @Toshio, automatic data won’t fix a car left with low fuel. I need a standard for handover, not just tracking.
+- [43] **Misaki**: @Victoria, the fixed costs are 280,000 yen. That’s a baseline. We can’t ignore it when splitting the variable fuel costs.
+- [44] **Minato**: @Misaki, twenty-eight thousand yen? That is a lot. I am a little scared. How do we share that fairly?
+- [45] **George**: @Minato, do not panic. The fear comes from the unknown. Let us look at the options before we decide how to share it.
+- [46] **Toshio**: @Minato, fear is natural. But the data shows the problem is tracking, not the car. We need a system that removes the manual burden.
+- [47] **Victoria**: @Minato, fear is understandable, but the car’s physical neglect is the immediate threat. We need a handover standard to ensure it is actually drivable for me.
+- [48] **Misaki**: @Minato, it is 280,000 yen, not twenty-eight thousand. That is the fixed baseline. We must account for it before splitting the fuel costs.
+- [49] **Minato**: @Misaki, I am sorry. I misread the numbers. That is a very large amount. I feel a bit dizzy.
+- [50] **George**: @Minato, breathe. The number is fixed, but the solution is flexible. We will find a way that does not burden you.
+- [51] **Toshio**: @Minato, the fixed cost is unavoidable. The variable cost is where we can be fair. Let us focus on the system, not the panic.
+- [52] **Victoria**: @Minato, the fixed cost is a fact, but the car’s condition is a choice. We must ensure it is safe and ready before we split bills.
+- [53] **Misaki**: @Minato, it is manageable if we split it evenly. The fuel imbalance is the real issue. Let us wait for the options.
+- [54] **Minato**: @George, thank you. I am trying to breathe. I just want the numbers to be clear so I do not feel lost.
+## Round 3
+- [60] **George**: @Toshio, Option C risks the favour-asking trap we identified. We must avoid making one person the sole gatekeeper.
+- [61] **Toshio**: @George, valid. But Option A’s distance tracking recreates the manual burden I measured. Option B’s fixed days ignore the Saturday/Tuesday disparity.
+- [62] **Victoria**: @Toshio, Option B’s fixed days ignore the handover neglect I face. I need a standard ensuring the car is ready, not just assigned.
+- [63] **Misaki**: @Toshio, Option A’s distance tracking is precise. It directly addresses the fuel imbalance I found, ensuring the split reflects actual usage rather than assumptions.
+- [64] **Minato**: @Misaki, I like that it is fair. But I am worried about writing down every single trip. Is it too much work for me?
+- [65] **George**: @Minato, the other households found that asking favours sours relationships. Option C forces that. We must avoid it.
+- [66] **Toshio**: @Minato, the trial proved manual tracking is too heavy. Option B removes that burden entirely. You simply pay your share and use your days.
+- [67] **Victoria**: @Toshio, fixed days do not guarantee the car is fueled or clean. I need a handover standard, not just a calendar slot.
+- [68] **Misaki**: @Minato, the tracking is minimal. It just records distance. This ensures the 280,000 yen baseline and fuel costs are split by actual use, not guesswork.
+- [69] **Minato**: @Toshio, I am still a little scared of the big number. But I like that Option A uses the real diary hours. It feels honest.
+- [70] **George**: @Minato, Option A is honest, but the checking spell showed us that verifying figures creates resentment. We need a system that doesn’t require constant scrutiny.
+- [71] **Toshio**: @George, the trial proved manual verification is the bottleneck. Option B eliminates that labor entirely. We pay fixed shares, use our days, and stop the constant accounting.
+- [72] **Victoria**: @Toshio, fixed days ignore the physical neglect. I need a standard ensuring the car is fueled and clean, not just a calendar slot.
+- [73] **Misaki**: @George, the resentment came from ambiguity, not the data itself. Option A removes the guesswork. If the split reflects actual usage, there is nothing to argue about.
+- [74] **Minato**: @Misaki, I agree. If the numbers are true, I feel safe. I will vote for Option A.
+- [75] **George**: @Minato, your honesty is appreciated. I will vote for Option A, trusting that clear rules prevent the resentment we saw before.
+- [76] **Toshio**: @Minato, I understand the fear. But Option B removes the manual tracking burden I measured. I will vote for Option B.
+- [77] **Victoria**: @Toshio, Option B fails me. I need a handover standard ensuring the car is fueled and clean, not just a calendar slot. I vote for Option A.
+- [78] **Misaki**: @Minato, your vote is noted. Option A aligns with the data I reviewed. I will vote for Option A as well.
+- [79] **Minato**: @George, thank you for being kind. I am glad we are choosing the honest way. I vote for Option A.
+### Vote
+- George -> A
+- Toshio -> B
+- Victoria -> A
+- Misaki -> A
+- Minato -> A
+## Result
+- adopted: A

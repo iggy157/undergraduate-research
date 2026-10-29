@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about who is actually in charge when things break.
+- [6] **Ryuji**: The yard equipment is old. We need a system that fits reality.
+- [7] **May**: I’ve seen too many systems rot quietly. I want to know why.
+- [8] **Misaki**: I’m concerned about the people who will have to learn this.
+- [9] **Benjamin**: I’m less worried about the sticker price and more about the invoice that arrives in year four.
+- [10] **Midori**: @Benjamin, that’s a fair point. But who answers the phone?
+- [11] **Ryuji**: @Midori, if the phone rings, the trucks are still moving.
+- [12] **May**: I’m looking for the pattern of neglect, not just the cost.
+- [13] **Misaki**: I’m looking for the pattern of burnout, not just the cost.
+- [14] **Benjamin**: I’m looking for the pattern of surprise, not just the cost.
+- [15] **Midori**: I’d like to see the support ownership during the last winter.
+- [16] **Ryuji**: I need to see the yard devices and the 2021 trial.
+- [17] **May**: I want to see the upgrade history of the dispatch tool.
+- [18] **Misaki**: I want to see the administrator retirements and the depot supervisors.
+- [19] **Benjamin**: I want to see the five years of renewal invoices and the board minutes.
+- [20] **Midori**: Let’s see if the paper trail matches the pain.
+- [21] **Ryuji**: Let’s see if the hardware matches the software.
+- [22] **May**: Let’s see if the decay was planned or accidental.
+- [23] **Misaki**: Let’s see if the people were planned for or forgotten.
+- [24] **Benjamin**: Let’s see if the money was planned for or forgotten.
+## Round 2
+- [35] **Midori**: I found that last winter’s outage sat unowned for two days.
+- [36] **Ryuji**: I found the yard devices are a patchwork, and the 2021 trial failed.
+- [37] **May**: I found the dispatch tool skipped three upgrades because testing it all at once was too big.
+- [38] **Misaki**: I found two admins are leaving, and the last rollout was quietly dropped in two depots.
+- [39] **Benjamin**: I found the bundled price held, but the add-ons climbed every year, and the board trimmed capital while passing operating lines.
+- [40] **Midori**: @Benjamin, that explains the surprise. But who owns the fix?
+- [41] **Ryuji**: @Midori, if the yard is a patchwork, the fix has to be a patchwork too.
+- [42] **May**: @Ryuji, a patchwork is just a system that quietly ages in place.
+- [43] **Misaki**: @May, a system that quietly ages in place is a system that quietly ages the people in it.
+- [44] **Benjamin**: @Misaki, a system that quietly ages the people in it is a system that quietly ages the budget in it.
+- [45] **Midori**: I’d rather know now which of those we are walking into again.
+- [46] **Ryuji**: I’d rather know now which of those we are walking into again.
+- [47] **May**: I’d rather know now which of those we are walking into again.
+- [48] **Misaki**: I’d rather know now which of those we are walking into again.
+- [49] **Benjamin**: I’d rather know now which of those we are walking into again.
+- [50] **Midori**: Let’s see if the candidates can answer for the unowned days.
+- [51] **Ryuji**: Let’s see if the candidates can answer for the patchwork yards.
+- [52] **May**: Let’s see if the candidates can answer for the skipped upgrades.
+- [53] **Misaki**: Let’s see if the candidates can answer for the dropped routines.
+- [54] **Benjamin**: Let’s see if the candidates can answer for the climbing add-ons.
+## Round 3
+- [60] **Midori**: I’d like to know who answers the phone when the trucks are still moving.
+- [61] **Ryuji**: I’d like to know which of these can survive the yard as it actually is.
+- [62] **May**: I’d like to know which of these won’t quietly age in place.
+- [63] **Misaki**: I’d like to know which of these won’t quietly age the people in it.
+- [64] **Benjamin**: I’d like to know which of these won’t quietly age the budget in it.
+- [65] **Midori**: @Benjamin, the unowned days are the real cost.
+- [66] **Ryuji**: @Midori, the unowned days are the real cost, and the yard is where they show up.
+- [67] **May**: @Ryuji, the yard is where they show up, and the skipped upgrades are why.
+- [68] **Misaki**: @May, the skipped upgrades are why, and the dropped routines are how.
+- [69] **Benjamin**: @Misaki, the dropped routines are how, and the climbing add-ons are what.
+- [70] **Midori**: I’d rather know now which of those we are walking into again.
+- [71] **Ryuji**: I’d rather know now which of those we are walking into again.
+- [72] **May**: I’d rather know now which of those we are walking into again.
+- [73] **Misaki**: I’d rather know now which of those we are walking into again.
+- [74] **Benjamin**: I’d rather know now which of those we are walking into again.
+- [75] **Midori**: Let’s see if the candidates can answer for the unowned days.
+- [76] **Ryuji**: Let’s see if the candidates can answer for the patchwork yards.
+- [77] **May**: Let’s see if the candidates can answer for the skipped upgrades.
+- [78] **Misaki**: Let’s see if the candidates can answer for the dropped routines.
+- [79] **Benjamin**: Let’s see if the candidates can answer for the climbing add-ons.
+### Vote
+- Midori -> D
+- Ryuji -> D
+- May -> D
+- Misaki -> D
+- Benjamin -> D
+## Result
+- adopted: D

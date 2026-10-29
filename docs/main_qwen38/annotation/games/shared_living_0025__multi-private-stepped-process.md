@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Mio**: I feel anxious about the old split. Can we look at actual usage data?
+- [6] **Ryuji**: Agreed. I need to see the full year to understand the variance.
+- [7] **Rin**: I worry about who does the math. It takes so long every month.
+- [8] **Shunichi**: Rumors are worse than bad math. We need objective numbers to settle this.
+- [9] **Misaki**: Silence breeds resentment. Let’s find a method that keeps the peace.
+- [10] **Mio**: @Rin, I can help with the calculations if we pick a clear system.
+- [11] **Ryuji**: @Mio, that helps. I will focus on the historical statements to check trends.
+- [12] **Rin**: @Mio, thank you. I want to see how much time a template saves.
+- [13] **Shunichi**: @Ryuji, good. I will check the plug-in monitors to see real-time load.
+- [14] **Misaki**: I will look at the payment log to see where friction already exists.
+- [15] **Mio**: I also want to see the sunlight data. Heating costs depend on the room.
+- [16] **Ryuji**: I will also check the electrician's quote. Upfront costs matter for my budget.
+- [17] **Rin**: I will also look at the winter habits. Predictability is key for me.
+- [18] **Shunichi**: I will also check the last twelve statements. I need the baseline.
+- [19] **Misaki**: I will also check the kitchen notice. Small things cause big fights.
+- [20] **Mio**: Let’s see what we find. I hope it’s simple enough to not stress me.
+- [21] **Ryuji**: I will wait for the data. I won’t commit to a plan without seeing the numbers.
+- [22] **Rin**: I’m ready to look. I just want to stop being the unpaid accountant.
+- [23] **Shunichi**: I will analyze the disparity. If it’s small, we keep it simple.
+- [24] **Misaki**: I will look for signs of tension. We need to protect our friendship.
+## Round 2
+- [35] **Mio**: The sunlight data is scary. Two rooms are cold traps. We need to account for that.
+- [36] **Ryuji**: The statements show wild swings. February is triple August. I cannot predict my share.
+- [37] **Rin**: The template took hours. I don't want to do that. I need a simpler way.
+- [38] **Shunichi**: The monitors show one room uses four times more. The old split is mathematically wrong.
+- [39] **Misaki**: The payment log shows late payments after disputes. The cooler notice shows people avoiding conflict.
+- [40] **Mio**: @Shunichi, if one room uses so much, should they pay more? It feels unfair to me.
+- [41] **Ryuji**: @Mio, yes, but the electrician quote is 34,000 yen per room. That is a huge upfront cost.
+- [42] **Rin**: @Ryuji, I can't afford that. I need a system that doesn't require new hardware.
+- [43] **Shunichi**: @Rin, the monitors are cheap. The real cost is the argument. Let's price the argument.
+- [44] **Misaki**: @Shunichi, the argument is the real cost. The cooler notice proves people will suffer to avoid it.
+- [45] **Mio**: I hate the idea of paying for cold. I want to know my share before I turn the heat on.
+- [46] **Ryuji**: I need to know the worst case. If I pay 30,000 in winter, I am broke. I need a cap.
+- [47] **Rin**: The winter habits show people just leave things on. If we don't measure, we will waste.
+- [48] **Shunichi**: The disparity is real. A flat split subsidizes the heavy users. That is the problem.
+- [49] **Misaki**: The tension is real. If the bill is a surprise, we fight. If it is predictable, we breathe.
+- [50] **Mio**: I want a system where I don't have to do mental math in the dark.
+- [51] **Ryuji**: I will not sign anything with a 34,000 yen entry fee. I need a low-cost, high-visibility option.
+- [52] **Rin**: I will not be the one chasing invoices. I need a system that runs itself.
+- [53] **Shunichi**: The data is clear. We need to move away from the old three-person split.
+- [54] **Misaki**: We need to choose the option that makes the next bill a non-event.
+## Round 3
+- [60] **Mio**: Option A feels safe. I know what I owe in winter. No surprises.
+- [61] **Ryuji**: Option A has no upfront cost. The annual settle is a risk, but I can budget for it.
+- [62] **Rin**: Option A means one big calculation a year. That is manageable. I can do that.
+- [63] **Shunichi**: Option A ignores the four-to-one disparity. It is a compromise, not a solution.
+- [64] **Misaki**: Option A removes the monthly trigger. No monthly bill means no monthly fight.
+- [65] **Mio**: @Shunichi, but the disparity is in the shared heating. If I pay a fixed rate, I am covered.
+- [66] **Ryuji**: @Mio, exactly. The fixed rate covers the variance. I don't need to know the exact kilowatt-hour.
+- [67] **Rin**: @Ryuji, I agree. The template trial showed that exactness is a trap. I want simplicity.
+- [68] **Shunichi**: @Rin, simplicity is good, but it hides the waste. The monitors show we are burning money.
+- [69] **Misaki**: @Shunichi, the waste is a habit, not a billing error. The cooler notice shows we avoid the bill, not the heat.
+- [70] **Mio**: Option B is too expensive. 34,000 yen per room is impossible for me.
+- [71] **Ryuji**: Option B is out. The upfront cost is a barrier I cannot cross. I need to stay liquid.
+- [72] **Rin**: Option B requires new hardware. I don't want to install meters. I want to stop doing math.
+- [73] **Shunichi**: Option B is the only mathematically fair one. But if you can't afford it, it is useless.
+- [74] **Misaki**: Option B creates a new point of contention. Who reads the meters? Who disputes the reading?
+- [75] **Mio**: Option C is too volatile. February would be a nightmare. I need stability.
+- [76] **Ryuji**: Option C is a gamble. I cannot plan my year if the bill swings 20,000 yen.
+- [77] **Rin**: Option C means I am the accountant again. I refuse. I need a system that doesn't need me.
+- [78] **Shunichi**: Option C is the status quo. It is the problem. We are here to change it.
+- [79] **Misaki**: Option C is the path to the cooler notice. We will avoid the bill and suffer in the cold.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> A
+- Misaki -> A
+## Result
+- adopted: A

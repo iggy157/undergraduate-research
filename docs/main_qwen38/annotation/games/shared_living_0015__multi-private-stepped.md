@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Servas**: The old three-person split ignores our current reality. We must look at actual usage, not just headcount.
+- [6] **Midori**: I agree. But let’s also check how these bills have affected our mood. Money stress is real.
+- [7] **Minato**: I just want to know if the current split is fair. I feel like I’m paying for things I don’t use.
+- [8] **May**: I’m worried about the sudden spikes. I need to see the data before I commit to any new plan.
+- [9] **Daisuke**: I’m concerned about who will actually do the math. I don’t want to be the one stuck with it.
+- [10] **Servas**: @Daisuke, I can help with the calculations. Let’s look at the last twelve statements first.
+- [11] **Midori**: @Minato, your concern is valid. Let’s see if the plug-in monitors show any clear patterns.
+- [12] **Minato**: @Midori, thank you. I’m curious about the sunlight and heating needs too. It feels important.
+- [13] **May**: @Servas, I’d like to see the payment log. I need to understand the trend, not just the average.
+- [14] **Daisuke**: @Servas, that’s kind. I’ll look into the reconciliation template to see how much time it takes.
+- [15] **Servas**: @May, the payment log will show us the history. Let’s also check the electrician’s quote for context.
+- [16] **Midori**: @Daisuke, the template might help us stay organized. I’ll look into the kitchen notice about the cooler.
+- [17] **Minato**: @Servas, I’m interested in the winter habits. I want to understand how seasons change our usage.
+- [18] **May**: @Midori, the cooler notice might explain some of the spikes. I’ll look into the monthly settle at another house.
+- [19] **Daisuke**: @Minato, I’ll check the trial run of the reconciliation template. I need to know the time commitment.
+- [20] **Servas**: Let’s gather these facts. We can decide together once we have the full picture.
+- [21] **Midori**: I hope this brings us closer, not further apart. Let’s be gentle with each other.
+- [22] **Minato**: I’m a little nervous, but I trust you all. I just want to be fair.
+- [23] **May**: I’ll keep an eye on the numbers. I don’t want to be surprised again.
+- [24] **Daisuke**: I’ll try to stay quiet but present. I just want to make sure no one is overwhelmed.
+## Round 2
+- [35] **Servas**: The statements show February at 29,400 yen and August at 9,100. The electrician quotes 34,000 yen per room for sub-meters.
+- [36] **Midori**: The cooler notice says two people avoided arguing over pooled bills. The statements show no two months within 4,000 yen.
+- [37] **Minato**: The monitors show one room drawing four times another, mostly a heater and a desktop left running.
+- [38] **May**: The statements show February at 29,400 yen and August at 9,100. The payment log shows three late settlements after amount queries.
+- [39] **Daisuke**: The template trial took me four hours to key in and compute. The statements show February at 29,400 yen and August at 9,100.
+- [40] **Servas**: @Daisuke, four hours is a lot. We need a simpler method. The sub-meter cost is high too.
+- [41] **Midori**: @Minato, that’s a big difference. We should look at who uses what, not just split evenly.
+- [42] **Minato**: @Midori, I’m glad you see it. I just want to pay for what I actually use.
+- [43] **May**: @Servas, the late payments worry me. I need to know the cost of changing the setup before I agree.
+- [44] **Daisuke**: @Servas, I’m worried about the time. I don’t want to be the one doing it every month.
+- [45] **Servas**: @May, the sub-meter cost is 34,000 yen per room. That’s 170,000 yen total. We could split that over time.
+- [46] **Midori**: @Daisuke, I understand. Let’s see if the template can be simplified. I’ll look into the winter habits.
+- [47] **Minato**: @Servas, I’m curious about the winter habits. I want to understand how seasons change our usage.
+- [48] **May**: @Midori, the winter habits might explain the spikes. I’ll look into the monthly settle at another house.
+- [49] **Daisuke**: @Minato, I’ll check the trial run of the reconciliation template. I need to know the time commitment.
+- [50] **Servas**: Let’s consider a hybrid approach. Use the template for now, and plan for sub-meters later.
+- [51] **Midori**: I hope this brings us closer, not further apart. Let’s be gentle with each other.
+- [52] **Minato**: I’m a little nervous, but I trust you all. I just want to be fair.
+- [53] **May**: I’ll keep an eye on the numbers. I don’t want to be surprised again.
+- [54] **Daisuke**: I’ll try to stay quiet but present. I just want to make sure no one is overwhelmed.
+## Round 3
+- [60] **Servas**: Option A is precise but costly. Option B is simple but risky. Option C is fair but ignores usage.
+- [61] **Midori**: Option B feels the most balanced. It avoids constant arguments and keeps things predictable.
+- [62] **Minato**: I like Option A. It feels the most fair. I want to pay for what I actually use.
+- [63] **May**: I’m leaning towards Option B. It gives me a predictable amount, and I can plan my budget.
+- [64] **Daisuke**: I’m worried about the time commitment. Option B seems the least work for everyone.
+- [65] **Servas**: @Minato, Option A is ideal, but the cost is high. We could start with Option B and plan for A later.
+- [66] **Midori**: @Servas, that sounds reasonable. Let’s try Option B for a year and see how it goes.
+- [67] **Minato**: @Servas, I understand. I’m a little disappointed, but I trust your judgment.
+- [68] **May**: @Midori, I agree. Option B gives me the predictability I need. I’m comfortable with that.
+- [69] **Daisuke**: @Servas, I’m relieved. I don’t want to be the one doing the math every month.
+- [70] **Servas**: Let’s go with Option B. It’s a good compromise. We can revisit it in a year.
+- [71] **Midori**: I’m happy with that. It feels fair and manageable. Let’s make sure we all agree.
+- [72] **Minato**: I’m okay with it. I just hope it works out well for everyone.
+- [73] **May**: I’m on board. I appreciate the predictability. Let’s move forward.
+- [74] **Daisuke**: I’m relieved. I just want to make sure no one is overwhelmed.
+- [75] **Servas**: Thank you all. Let’s proceed with Option B. I’ll help with the calculations.
+- [76] **Midori**: Thank you, Servas. I’m glad we’re all on the same page.
+- [77] **Minato**: Thank you all. I’m a little nervous, but I trust you.
+- [78] **May**: Thank you. I’m looking forward to a smoother year.
+- [79] **Daisuke**: Thank you. I’m relieved. I just want to make sure no one is overwhelmed.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> A
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

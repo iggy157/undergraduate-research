@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: I worry about the human cost. We need to verify if our current crews have any capacity left before promising new routes.
+- [6] **Takumi**: I refuse to guess. We need the roster books for the late-turn pool to see if we're already stretched thin.
+- [7] **Toshio**: I suspect the delays stem from hidden approvals, not just staffing. I will examine the joint operators' committee minutes to map the true bottlenecks.
+- [8] **Daisuke**: I worry about the long-term costs. I will look into the ticketing contractor fees and paving rates to see the real burden.
+- [9] **Sakura**: I bet the stopwatch tells the truth! I’ll check the journey audits to find where minutes actually vanish.
+- [10] **Victoria**: @Takumi, your focus on late-turn rosters aligns with my concern. We must ensure we aren't overburdening exhausted staff.
+- [11] **Takumi**: @Victoria, agreed. But I’m also pulling the two pilots from eight years ago. We keep repeating mistakes because nobody reads the old reports.
+- [12] **Toshio**: @Takumi, those pilots likely failed due to unrecorded vetoes. I will also review the completion records of the earlier accessibility programme to find the pattern.
+- [13] **Daisuke**: I’ll also check the balances in the capital ledger. I need to see if the headline numbers hide the future debt.
+- [14] **Sakura**: I’ll also peek at the timed runs and crowd counts! I want to see if the stopwatch matches the grumbling.
+- [15] **Victoria**: @Toshio, your suspicion of hidden vetoes is sharp. I will examine the crew establishment and maintenance contract to see if staffing is legally capped.
+- [16] **Takumi**: @Toshio, you’re right. I’m pulling the two pilots from eight years ago. We keep repeating mistakes because nobody reads the old reports.
+- [17] **Toshio**: @Victoria, the contract may cap numbers, but it won’t show who quietly blocks the work. I’ll stick to the records that reveal the silent vetoes.
+- [18] **Daisuke**: I’m still quiet. I just need to see if the ledger hides the debt we’re already carrying.
+- [19] **Sakura**: I’m done picking! I’ll wait for the stopwatch results. @Daisuke, don’t be shy, we need your money talk!
+- [20] **Victoria**: I will review the roster books for the late-turn pool and the crew establishment contract. We must know our limits before promising more.
+- [21] **Takumi**: I’m locking in the two pilots from eight years ago and the completion records of the earlier accessibility programme. We need to see what actually failed last time.
+- [22] **Toshio**: I will examine the joint operators' committee minutes and the completion records of the earlier accessibility programme. I need to map the silent vetoes and the pattern of stalled schemes.
+- [23] **Daisuke**: I’ll check the ticketing contractor fees and the capital ledger balances. I need to see the real long-term debt.
+- [24] **Sakura**: I’m locking in the journey audits and the timed runs! I need to catch the real time thieves. @Victoria, see you with the stopwatch!
+## Round 2
+- [35] **Victoria**: The late-turn pool is exhausted, but lift maintenance has spare capacity. We can shift resources there without breaking the crew.
+- [36] **Takumi**: @Victoria, the old pilots actually succeeded! The ferry payment and late timetable worked. We aren’t repeating failures, we’re repeating successes.
+- [37] **Toshio**: The data terms are the bottleneck, not the drawings. Roadway consents are delegated, but ferry and rail data remain unresolved.
+- [38] **Daisuke**: The ledger shows a ring-fenced grant balance, but operating subsidies were trimmed. We have hidden cash, but the long-term debt is real.
+- [39] **Sakura**: @Victoria, the stopwatch says connections steal the minutes, not the crowds! We must fix the waiting, not the platforms.
+- [40] **Victoria**: @Sakura, fixing connections is vital, but we lack the late-turn staff to execute it. @Takumi, how do we staff the successful pilots without burning out the remaining crews?
+- [41] **Takumi**: @Victoria, the late-evening pilot hit its cost target! We don’t need new staff, just the right schedule. The old reports prove it works.
+- [42] **Toshio**: @Takumi, the pilots succeeded because they bypassed the data deadlock. The accessibility records show lane-priority failed due to mixed traffic, not design.
+- [43] **Daisuke**: @Toshio, the data deadlock explains the delays, but the ledger shows the money is already gone. We can’t fix what we can’t afford.
+- [44] **Sakura**: @Daisuke, money is tight, but time is tighter! The stopwatch proves connections are the real thief. We must fix the waiting, not just the budget!
+- [45] **Victoria**: @Takumi, shifting schedules won’t fix a third-below establishment. We need to know if the maintenance contract’s spare capacity can legally cover the late-turn gap.
+- [46] **Takumi**: @Victoria, the old reports prove the schedule works without extra bodies. We just need to stop ignoring what already succeeded.
+- [47] **Toshio**: @Victoria, the contract caps headcount, but the data deadlock caps progress. We must resolve the ferry-rail terms before any schedule change is viable.
+- [48] **Daisuke**: @Sakura, I hear you. But the ledger shows the operating subsidy is already trimmed. We can’t promise fixes we can’t pay for.
+- [49] **Sakura**: @Daisuke, but the stopwatch says waiting is the thief! If we fix connections, we save time without spending new money.
+- [50] **Victoria**: @Toshio, the data deadlock is real, but I cannot promise schedules if the legal cap prevents us from covering the late-turn gap.
+- [51] **Takumi**: @Victoria, the old pilots prove we don’t need more bodies, just better schedules. Stop fearing the past, it’s our proof.
+- [52] **Toshio**: @Victoria, the cap is a symptom, not the cause. Resolve the data terms first, or the schedule is just a promise we cannot keep.
+- [53] **Daisuke**: I’m sorry. The ledger is empty. We can’t promise what we can’t pay.
+- [54] **Sakura**: @Daisuke, don’t be so gloomy! The stopwatch proves waiting is the thief. Fixing connections saves time without spending new money!
+## Round 3
+- [60] **Victoria**: @Takumi, Plan B ignores the legal cap. We cannot extend hours with crews already exhausted. I need a plan that respects our actual limits.
+- [61] **Takumi**: @Victoria, the old pilot proved B works without extra staff! We just need the right schedule. Stop fearing the past, it’s our proof.
+- [62] **Toshio**: @Takumi, the pilots bypassed the data deadlock. Plan D resolves the ferry-rail terms. Without that, B is just a promise we cannot keep.
+- [63] **Daisuke**: @Toshio, Plan D replaces the contractors. My findings show their fees exceed paving rates. This cuts the long-term debt I fear.
+- [64] **Sakura**: @Daisuke, wait! The stopwatch says connections steal the minutes, not the ticket machines! Plan A fixes the waiting, not the fees!
+- [65] **Victoria**: @Sakura, Plan A’s dedicated lanes require roadway crews we lack. @Daisuke, if D saves money, can it fund the staffing gap B creates?
+- [66] **Takumi**: @Sakura, you’re right, connections are the thief. But @Toshio, the data deadlock kills B. We need D to unlock the ferry-rail terms first.
+- [67] **Toshio**: @Takumi, D is the only plan that resolves the silent vetoes. A and C will stall in the same dead zones. We must clear the data terms first.
+- [68] **Daisuke**: @Victoria, I’m not sure D funds B. The ledger is tight. But D stops the fee bleed. I just need to know if it’s safe.
+- [69] **Sakura**: @Takumi, you’re right! The stopwatch proves connections are the thief. Plan A fixes the waiting, not the fees!
+- [70] **Victoria**: @Toshio, if D clears the data deadlock, does it also free the maintenance contract’s spare capacity? I need to know if we can legally cover the late-turn gap.
+- [71] **Takumi**: @Victoria, D clears the data deadlock, but B is the proven fix. The old pilot worked! We need the night service, not just the platform.
+- [72] **Toshio**: @Victoria, D clears the data deadlock, but it does not rewrite the legal cap. The contract remains the barrier, not the data.
+- [73] **Daisuke**: @Victoria, I don’t know if it frees the contract. But D stops the fee bleed. I’m afraid to promise more without seeing the ledger clear.
+- [74] **Sakura**: @Victoria, the stopwatch says connections are the thief! Plan A fixes the waiting, not the fees!
+- [75] **Victoria**: @Toshio, if D doesn’t free the cap, I cannot support B. I vote for D to stop the bleed and clear the path.
+- [76] **Takumi**: @Victoria, I refuse to let fear of the past kill a proven solution. The pilot worked! I vote for B.
+- [77] **Toshio**: @Victoria, D is the only path that clears the silent vetoes. A and C will stall in the same dead zones. I vote for D.
+- [78] **Daisuke**: I vote for D. It stops the fee bleed. I can’t promise more while the debt grows.
+- [79] **Sakura**: @Victoria, I vote for A! The stopwatch proves connections are the thief. Fixing the waiting saves time without spending new money!
+### Vote
+- Victoria -> D
+- Takumi -> B
+- Toshio -> D
+- Daisuke -> D
+- Sakura -> A
+## Result
+- adopted: D

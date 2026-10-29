@@ -1,0 +1,73 @@
+# candidate_selection_0017__single-online (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to verify staffing capacity before discussing any new routes. Who is checking the roster books?
+- [6] **Takumi**: I’m checking the timed runs and crowd counts. The stopwatch tells the truth, not the complaints.
+- [7] **Benjamin**: I’m reviewing the capital ledger balances. Headline totals are meaningless if we ignore the long-term commitments they lock in.
+- [8] **Servas**: I am reading the joint operators' committee minutes. We must understand who holds the final say before we promise anything.
+- [9] **Jonathan**: I am checking the contingency pricing inside the pre-war shells. The ground often hides what the drawings miss.
+- [10] **Asuka**: @Benjamin, does the ledger show if the operating subsidy can actually absorb the overtime costs we are already seeing?
+- [11] **Takumi**: @Asuka, the stopwatch shows the mid-city route is slower, but the platforms clear at the old rate. The bottleneck isn't the crowd, it's the wait.
+- [12] **Benjamin**: @Asuka, the ledger shows the operating subsidy was trimmed again. It cannot absorb new overtime without cutting maintenance.
+- [13] **Servas**: @Jonathan, the minutes show the ferry and rail back offices never agreed on common data terms. That silence will stall any integrated plan.
+- [14] **Jonathan**: @Servas, that silence is exactly why I’m checking the shells. If the data won’t flow, the ground better not surprise us either.
+- [15] **Asuka**: @Takumi, if the platforms clear at the old rate, then the delay is in the connections. We need to audit where the minutes actually go.
+- [16] **Takumi**: @Asuka, exactly. The stopwatch proves the surface route is the problem, not the platforms. We need to stop guessing and measure the actual wait times.
+- [17] **Benjamin**: @Asuka, the ledger confirms the technology line was also trimmed. We cannot fund new systems without cutting existing maintenance.
+- [18] **Servas**: @Benjamin, the ledger is a map of what we have, not what we need. We must look at the crew establishment to see if we have the hands to do the work.
+- [19] **Jonathan**: @Servas, the hands are thin, but the ground is the real trap. I’m checking the pre-war shells to see what voids are waiting for us.
+- [20] **Asuka**: @Benjamin, if the technology line is cut, we cannot promise a new fare system. We must prioritize what the existing crews can actually maintain.
+- [21] **Takumi**: @Asuka, agreed. But we must also check the late-turn rosters. If the pool is empty, extending hours is just a fantasy.
+- [22] **Benjamin**: @Takumi, the late-turn pool is indeed thinning. But @Asuka, remember, the capital ledger still holds a ring-fenced construction balance from a lapsed grant.
+- [23] **Servas**: @Benjamin, that ring-fenced balance is a ghost. It belongs to a lapsed grant, not our current needs. We must not build on phantom money.
+- [24] **Jonathan**: @Servas, phantoms or not, the voids in the shells are real. I am checking the contingency pricing to see how much that silence costs us.
+## Round 2
+- [35] **Asuka**: @Benjamin, the roster books confirm the late-turn pool is critically thin. Overtime is already covering overnight works. We cannot extend hours without breaking the existing schedule.
+- [36] **Takumi**: #### Turn 2 of 4
+- [37] **Benjamin**: #### Turn 2 of 4
+- [38] **Servas**: #### Turn 2 of 4
+- [39] **Jonathan**: #### Turn 2 of 4
+- [40] **Asuka**: #### Turn 2 of 4
+- [41] **Takumi**: @Asuka, the journey audits confirm your suspicion. Most added minutes are spent waiting for connections, not paying. The machines are fine; the schedule is broken.
+- [42] **Benjamin**: @Takumi, the audit confirms the wait is the cost. But @Asuka, the crew establishment shows roadway crews are a third below target. We lack the hands to fix the schedule.
+- [43] **Servas**: #### Turn 2 of 4
+- [44] **Jonathan**: @Benjamin, the completion records show the accessibility rebuilds finished on time, but the lane-priority stretches failed. We have the hands for lifts, not for roads.
+- [45] **Asuka**: @Benjamin, if the roadway crews are depleted, we cannot build the dedicated lanes. We must focus on what the existing maintenance contract can actually support.
+- [46] **Takumi**: @Benjamin, the crews are thin, but the audit proves the wait is the killer. We need to fix the connections, not just the pavement.
+- [47] **Benjamin**: @Takumi, fixing connections requires data integration, which the technology line cannot fund. @Servas, did the old pilots prove we can do this cheaply?
+- [48] **Servas**: @Benjamin, the late-evening pilot met its cost target, but the ferry trial failed on data terms. We cannot assume old success applies to new integration.
+- [49] **Jonathan**: @Benjamin, the data failure is a warning, not a verdict. The accessibility records prove we can deliver physical upgrades on time. Let us build what we can actually maintain.
+- [50] **Asuka**: @Jonathan, physical upgrades are viable, but @Benjamin, the maintenance contract has spare capacity for lifts. We should prioritize station access over anything requiring new roadway crews.
+- [51] **Takumi**: @Asuka, if the lifts work, the platforms clear faster. But the audit says the wait is the killer. We need to fix the connections, not just the stairs.
+- [52] **Benjamin**: @Takumi, the audit blames the wait, but the ledger says we can’t afford the data integration to fix it. @Asuka, the lift capacity is the only viable path.
+- [53] **Servas**: @Benjamin, the ledger is a cage, but the pilots show the door. We must choose the path that respects both the money and the memory.
+- [54] **Jonathan**: @Benjamin, the cage is real, but the lift contract has room. Let us build the access, not the fantasy.
+## Round 3
+- [60] **Asuka**: #### Turn 1 of 4
+- [61] **Takumi**: #### Turn 1 of 4
+- [62] **Benjamin**: #### Turn 1 of 4
+- [63] **Servas**: - **Servas**: The candidates are before us. Let us weigh them against the evidence we have gathered, not against our hopes.
+- [64] **Jonathan**: - **Jonathan**: @Servas, agreed. The evidence points to physical access. Let us not let the data ghosts scare us from the solid ground.
+- [65] **Asuka**: - **Asuka**: @Jonathan, the evidence supports Station Access Upgrades. The lift contract has capacity, and the crews can deliver it without breaking the budget.
+- [66] **Takumi**: - **Takumi**: @Asuka, I object. The audit proves the wait is the killer. Station access doesn't fix broken connections. I vote for the Crosstown Corridor.
+- [67] **Benjamin**: @Takumi, the corridor requires roadway crews we do not have. The ledger forbids it. I vote for Station Access Upgrades.
+- [68] **Servas**: @Takumi, the corridor is a fantasy the crews cannot build. I vote for Station Access Upgrades, where the hands and the money actually meet.
+- [69] **Jonathan**: @Takumi, the records show lane-priority failed before. We cannot repeat that error. I vote for Station Access Upgrades.
+- [70] **Asuka**: - **Asuka**: @Takumi, the corridor is a fantasy the crews cannot build. I vote for Station Access Upgrades, where the hands and the money actually meet.
+- [71] **Takumi**: - **Takumi**: @Asuka, I stand by the audit. The wait is the cost. I vote for the Crosstown Corridor, despite the risks.
+- [72] **Benjamin**: @Takumi, the audit is valid, but the ledger is absolute. We cannot fund a corridor we cannot staff. I stand by Station Access Upgrades.
+- [73] **Servas**: @Takumi, the stopwatch is honest, but the ledger is stricter. We cannot build what we cannot staff. I vote for Station Access Upgrades.
+- [74] **Jonathan**: @Takumi, the ground is solid, the crews are ready, and the budget holds. I vote for Station Access Upgrades.
+- [75] **Asuka**: - **Asuka**: @Takumi, the evidence is clear. The crews can deliver access, not corridors. I vote for Station Access Upgrades.
+- [76] **Takumi**: - **Takumi**: @Asuka, I respect the logic, but I cannot ignore the stopwatch. I vote for the Crosstown Corridor.
+- [77] **Benjamin**: @Takumi, the ledger is absolute. We cannot fund a corridor we cannot staff. I stand by Station Access Upgrades.
+- [78] **Servas**: @Takumi, the stopwatch is honest, but the ledger is stricter. We cannot build what we cannot staff. I vote for Station Access Upgrades.
+- [79] **Jonathan**: @Takumi, the ground is solid, the crews are ready, and the budget holds. I vote for Station Access Upgrades.
+### Vote
+- Asuka -> C
+- Takumi -> B
+- Benjamin -> C
+- Servas -> C
+- Jonathan -> C
+## Result
+- adopted: C

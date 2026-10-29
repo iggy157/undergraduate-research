@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Victoria**: Before we move desks, I need to know the recurring cost of this floor.
+- [6] **Minato**: I worry about how the new spots will feel for my back and ears.
+- [7] **May**: My schedule is tight. I need to know how much time we lose daily.
+- [8] **Shunichi**: We should check who actually sits where now versus what the survey said.
+- [9] **Daisuke**: I think we should look at how people interacted last year to see what works.
+- [10] **Victoria**: Minato, comfort is valid, but if the budget is tight, we can't afford fancy setups.
+- [11] **Minato**: I just want a place where I can sit still without pain or loud noise.
+- [12] **May**: Victoria, if the billing is high, we need to justify the time cost to management.
+- [13] **Shunichi**: May, time is one thing, but fairness in seat quality is another.
+- [14] **Daisuke**: I agree with Shunichi. If we ignore how we talk, we just repeat old mistakes.
+- [15] **Victoria**: I will look into the floor billing and the facilities quote for power.
+- [16] **Minato**: I want to check the sound meter readings and the physio's note.
+- [17] **May**: I need the morning routine data and the arrival times from badge records.
+- [18] **Shunichi**: I will review the drawn plan against the staff survey and the unplanned shuffles.
+- [19] **Daisuke**: I will look into the two project strands and what the new joiners reported.
+- [20] **Victoria**: Let's see what the numbers say before we commit to a shape.
+- [21] **Minato**: Please keep the quiet zones in mind when you look at the plans.
+- [22] **May**: If the morning routine is chaotic, I will fight for a fixed spot.
+- [23] **Shunichi**: I will make sure the "bad" seats aren't just assigned to the same people.
+- [24] **Daisuke**: I hope we find a way to sit together without forcing it.
+## Round 2
+- [35] **Victoria**: The billing is by area, not heads. Empty desks still cost us 41,000 yen monthly.
+- [36] **Minato**: The window side is nine decibels quieter. My physio note says my chair needs days to settle.
+- [37] **May**: The pilot floor took up to nine minutes to set up. That is too long for my gaps.
+- [38] **Shunichi**: The survey wanted windows, but the plan hides three desks in the dark.
+- [39] **Daisuke**: The new joiners said they learned the most by overhearing the old projects.
+- [40] **Victoria**: Facilities charge 6,200 yen per desk to move power. Every change costs us again.
+- [41] **Minato**: If I move, I lose my settled chair. Can we keep the window row fixed?
+- [42] **May**: If we rotate, I lose my setup time. I need a permanent spot to save those minutes.
+- [43] **Shunichi**: The shuffles last year were chaos. We need a rule, not just a new map.
+- [44] **Daisuke**: If we sit in pairs, the new people can hear the context they need.
+- [45] **Victoria**: Moving desks is expensive. We should minimize changes to avoid the 6,200 yen fee.
+- [46] **Minato**: I am worried. If I move, my body will hurt for days. Please keep me near the window.
+- [47] **May**: I am against any rotation. The setup time is a tax on my day. I need stability.
+- [48] **Shunichi**: If we keep the window row fixed, the same three people suffer the dark.
+- [49] **Daisuke**: I think a mix is best. Some fixed, some shared, so we can talk.
+- [50] **Victoria**: I propose we keep the current layout mostly, but swap the two empty desks for a shared zone.
+- [51] **Minato**: That sounds okay, as long as the shared zone is not by the printer.
+- [52] **May**: If the shared zone is near my desk, I can still save time. I am in.
+- [53] **Shunichi**: We need to decide who takes the dark seats. I will push for a rotation there.
+- [54] **Daisuke**: I like the shared zone. It helps the new people without forcing everyone to move.
+## Round 3
+- [60] **Victoria**: Option A keeps the power lines where they are. No 6,200 yen fees. It is the cheapest.
+- [61] **Minato**: Option A means I can keep my window seat. My chair will finally settle. I prefer A.
+- [62] **May**: Option C is a nightmare. I would lose my setup time every single day. I hate C.
+- [63] **Shunichi**: Option A locks the dark seats to the same people. That is unfair. I object.
+- [64] **Daisuke**: Option B might help the new people hear more, but it is a lot of moving.
+- [65] **Victoria**: Shunichi, if we rotate the dark seats within Option A, we keep the cost low and fix the fairness.
+- [66] **Minato**: I am not sure I want to rotate. I just want my quiet spot. But I will listen.
+- [67] **May**: If Option A includes a small rotation for the bad seats, I can live with it. It saves my morning.
+- [68] **Shunichi**: A rotation of the dark seats within A is a compromise. It keeps the cost down and shares the pain.
+- [69] **Daisuke**: I think a small rotation in A is good. It lets us talk without moving everything.
+- [70] **Victoria**: So we are looking at Option A, but with a quarterly swap for the three dark desks.
+- [71] **Minato**: I hope the swap does not put me in the dark. But I trust the group.
+- [72] **May**: I am in. As long as my main desk is fixed, I am happy. The swap is minor.
+- [73] **Shunichi**: I will vote for A with the swap. It is the only way to be fair without breaking the budget.
+- [74] **Daisuke**: I agree. It balances the cost, the comfort, and the need to talk.
+- [75] **Victoria**: Let's vote. I am for A with the swap. It is the rational choice.
+- [76] **Minato**: I am for A. I need the stability for my body. Please keep the window quiet.
+- [77] **May**: I am for A. It protects my time. I will accept the small swap for the dark seats.
+- [78] **Shunichi**: I am for A. It is the only option that treats everyone equally over time.
+- [79] **Daisuke**: I am for A. It helps the new people learn without forcing a full shuffle.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

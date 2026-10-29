@@ -1,0 +1,73 @@
+# shared_living_0013__single-batch (shared_living)
+
+## Round 1
+- [5] **Shizue**: I worry about who sits beside whom. It shapes our whole week.
+- [6] **Toshio**: We should decide who gets the worse spots, not let it happen by accident.
+- [7] **Daisuke**: I am worried about the cost. The budget has not changed in years.
+- [8] **Mio**: My mornings are already tight. I need to know how long setup takes.
+- [9] **Shunichi**: Comfort matters. I sit here all day. The chair and noise level are key.
+- [10] **Shizue**: @Toshio, yes. We need to be fair about the bad seats.
+- [11] **Toshio**: @Shizue, agreed. We must name the trade-offs clearly.
+- [12] **Daisuke**: @Mio, the setup time might affect our daily flow too.
+- [13] **Mio**: @Daisuke, exactly. Every minute counts when meetings are back-to-back.
+- [14] **Shunichi**: I will look into the physical comfort aspects.
+- [15] **Shizue**: I want to see the plan against what people actually want.
+- [16] **Toshio**: I will check the history of past changes.
+- [17] **Daisuke**: I need to see the billing basis for the floor.
+- [18] **Mio**: I will check the morning routine on the pilot floor.
+- [19] **Shunichi**: I will look at the sound readings and the physio note.
+- [20] **Shizue**: Let us see what the data says before we move anything.
+- [21] **Toshio**: Agreed. Facts first.
+- [22] **Daisuke**: Please. I do not want to guess.
+- [23] **Mio**: I am ready to look.
+- [24] **Shunichi**: I will find out what is comfortable.
+## Round 2
+- [35] **Shizue**: The survey says daylight is the biggest complaint. The new joiners learned by overhearing.
+- [36] **Toshio**: Badge times are all over the place. Past shuffles took two weeks each time.
+- [37] **Daisuke**: We pay for empty desks. Moving a desk costs 6,200 yen.
+- [38] **Mio**: Setup takes up to nine minutes. Shuffles cause two weeks of chaos.
+- [39] **Shunichi**: The printer side is nine decibels louder. Chairs take days to adjust.
+- [40] **Shizue**: @Daisuke, paying for empty space is painful. We need to use the room well.
+- [41] **Toshio**: @Mio, nine minutes is a lot if we do it every day.
+- [42] **Daisuke**: @Shunichi, if the chairs take days to settle, moving is expensive.
+- [43] **Mio**: @Toshio, yes. The interruptions from shuffles are the real cost.
+- [44] **Shunichi**: @Daisuke, the noise difference is significant. I need the quiet side.
+- [45] **Shizue**: If we rotate, the joiners might not learn as well.
+- [46] **Toshio**: If we fix desks, the early birds get the good spots.
+- [47] **Daisuke**: Fixed desks mean we pay for the layout once, but it is rigid.
+- [48] **Mio**: Free address means I might get a bad desk every morning.
+- [49] **Shunichi**: Rotating blocks might mean I sit by the printer half the year.
+- [50] **Shizue**: I think we need a balance.
+- [51] **Toshio**: We must be explicit about who gets what.
+- [52] **Daisuke**: I prefer stability for the budget.
+- [53] **Mio**: I prefer predictability for my time.
+- [54] **Shunichi**: I prefer comfort.
+## Round 3
+- [60] **Shizue**: Option A is free. Option B is fixed by function. Option C is rotating blocks.
+- [61] **Toshio**: Option B seems fair if we assign by need, not arrival.
+- [62] **Daisuke**: Option B minimizes the 6,200 yen re-run costs.
+- [63] **Mio**: Option A is risky for my morning gaps.
+- [64] **Shunichi**: Option C is bad for my back if I rotate to loud spots.
+- [65] **Shizue**: @Toshio, Option B lets us assign the quiet desks to those who need them.
+- [66] **Toshio**: @Shizue, yes. We can name the seats.
+- [67] **Daisuke**: @Mio, Option B gives you a known setup time.
+- [68] **Mio**: @Daisuke, that helps. I can plan my morning.
+- [69] **Shunichi**: @Toshio, can I get the window side in Option B?
+- [70] **Shizue**: I vote for B. It feels stable and fair.
+- [71] **Toshio**: I vote for B. It makes the trade-offs visible.
+- [72] **Daisuke**: I vote for B. It is the most cost-effective.
+- [73] **Mio**: I vote for B. It protects my time.
+- [74] **Shunichi**: I vote for B. If I get the quiet desk, it is best.
+- [75] **Shizue**: It seems we are all leaning toward B.
+- [76] **Toshio**: Let us confirm.
+- [77] **Daisuke**: Yes.
+- [78] **Mio**: Yes.
+- [79] **Shunichi**: Yes.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

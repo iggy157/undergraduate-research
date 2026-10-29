@@ -1,0 +1,73 @@
+# shared_living_0030__multi-public (shared_living)
+
+## Round 1
+- [5] **Toshio**: I want to know the monthly cost and who is out of pocket.
+- [6] **Ryuji**: I need to know the actual hours involved. If we outsource, does that truly remove the time burden from my schedule?
+- [7] **Benjamin**: I need to see where the usage and the labor actually sit. It feels uneven right now, and I want data before we commit to a year.
+- [8] **May**: I’m tired of guessing what state the rooms are in. I want a system where I know exactly what to expect when I walk in.
+- [9] **Midori**: I care most about keeping us on speaking terms. I want a system that prevents the silent resentment from building up again.
+- [10] **Toshio**: @Ryuji, if we hire help, the hours vanish, but the cost remains. I need to track that.
+- [11] **Ryuji**: @Toshio, cost is a number, but time is a resource. I need to verify if outsourcing actually frees up my schedule or just shifts the burden to managing the service.
+- [12] **Benjamin**: @Ryuji, time is only half the story. I need to see who is actually using the spaces versus who is doing the work.
+- [13] **May**: @Benjamin, usage data is great, but I need consistency. I want to stop bracing myself before opening the bathroom door.
+- [14] **Midori**: @May, consistency is vital, but so is kindness. I want a system that stops us from snapping at each other over small things.
+- [15] **Toshio**: @Benjamin, usage data helps, but I need the receipts. Who is actually paying for the supplies right now?
+- [16] **Ryuji**: @Toshio, receipts are just paper. I need to know if the time spent cleaning is actually gone, or if I’m just managing a service instead.
+- [17] **Benjamin**: @Toshio, receipts show the leak, but I need the pattern. Who is actually using the space versus who is scrubbing it?
+- [18] **May**: @Toshio, receipts are fine, but I need the standard. I want to know exactly what "done" means so I stop guessing.
+- [19] **Midori**: @May, I hear you. But if we don’t address the underlying tension, the standard won’t matter. I want to know what breaks our harmony.
+- [20] **Toshio**: @Midori, harmony is good, but I need the numbers. I’ll check the receipts and the management rate sheet.
+- [21] **Ryuji**: @Toshio, I’ll time a full pass and check the firm’s terms. I need to know if outsourcing actually removes the hours or just shifts the management burden.
+- [22] **Benjamin**: @Toshio, I’ll check the kitchen usage and the wall calendar. I need to see who is actually here versus who is doing the work.
+- [23] **May**: @Midori, I’ll check what “done” means to everyone and the grout situation. I need to know if the problem is the standard or the room itself.
+- [24] **Midori**: @May, I’ll look into the house chat rows and the previous tenants’ note. I need to see what actually broke the last arrangement.
+## Round 2
+- [35] **Toshio**: The tin holds 2,300 yen monthly, mostly duplicates. The office rates cleaners at 4,200 yen per hour, billed to one tenant.
+- [36] **Ryuji**: The timing shows one hundred and two minutes total. The firm requires someone present to tidy beforehand. Outsourcing doesn’t remove the hours; it just shifts them to supervision.
+- [37] **Benjamin**: The data is damning. Two or three people create the mess, yet the calendar shows two are gone for weeks. The labor doesn't match the usage.
+- [38] **May**: So the grout fails in eleven days, and "done" means whatever the last person decided. That explains the chaos.
+- [39] **Midori**: @May, the previous tenants’ note confirms permanent splits breed silence. The chat shows reminders spark our rows. We must avoid that trap.
+- [40] **Toshio**: @Ryuji, your timing confirms the cost. At 4,200 yen an hour, a full pass costs over 70,000 yen. That is unsustainable for us.
+- [41] **Ryuji**: @Toshio, the math is wrong. One hundred and two minutes is under two hours. The real cost is the two-hour window and the prep work.
+- [42] **Benjamin**: @Ryuji, the math is irrelevant if the labor is misallocated. The heavy users are rarely here, yet the absent ones count equally. That is the core failure.
+- [43] **May**: @Benjamin, the grout data proves the room is a trap. No matter who cleans, it fails in eleven days. We need a standard that accounts for that reality.
+- [44] **Midori**: @Benjamin, the previous tenants’ silence proves permanent splits fail. We need a system that prevents reminders from becoming rows, keeping us on speaking terms.
+- [45] **Toshio**: @Ryuji, the 4,200 yen rate is the floor. Add the 2,300 yen supplies and the one-tenant billing risk, and the monthly out-of-pocket is significant.
+- [46] **Ryuji**: @Toshio, the cost is secondary. The firm’s terms mean I must still be present to tidy. I am not outsourcing my time; I am adding a management layer to it.
+- [47] **Benjamin**: @Ryuji, you’re right about the prep. But my data shows the mess is concentrated. If we fix the allocation, the hours drop. I need to see the usage pattern.
+- [48] **May**: @Benjamin, fixing allocation doesn't fix the grout. It fails in eleven days regardless of who scrubs. I need a standard that accepts that reality.
+- [49] **Midori**: @May, I agree. The previous tenants’ silence shows permanent splits fail. We need a system that prevents reminders from becoming rows, keeping us on speaking terms.
+- [50] **Toshio**: @Ryuji, the 4,200 yen rate is the floor. Add the 2,300 yen supplies and the one-tenant billing risk, and the monthly out-of-pocket is significant.
+- [51] **Ryuji**: @Toshio, the cost is secondary. The firm’s terms mean I must still be present to tidy. I am not outsourcing my time; I am adding a management layer to it.
+- [52] **Benjamin**: @Ryuji, the prep is the trap. But my data shows the mess is concentrated. If we fix the allocation, the hours drop. I need to see the usage pattern.
+- [53] **May**: @Benjamin, allocation is secondary. The grout fails in eleven days regardless. I need a standard that accepts that reality, not just who does the scrubbing.
+- [54] **Midori**: @May, I hear you. But the previous tenants’ silence proves permanent splits fail. We need a system that prevents reminders from becoming rows, keeping us on speaking terms.
+## Round 3
+- [60] **Toshio**: @Ryuji, the 4,200 yen rate is the floor. Add the 2,300 yen supplies and the one-tenant billing risk, and the monthly out-of-pocket is significant.
+- [61] **Ryuji**: @Toshio, the cost is secondary. The firm’s terms mean I must still be present to tidy. I am not outsourcing my time; I am adding a management layer to it.
+- [62] **Benjamin**: @Ryuji, the prep is the trap. But my data shows the mess is concentrated. If we fix the allocation, the hours drop. I need to see the usage pattern.
+- [63] **May**: @Benjamin, the grout fails in eleven days regardless. I need a standard that accepts that reality, not just who does the scrubbing.
+- [64] **Midori**: @May, I hear you. But the previous tenants’ silence proves permanent splits fail. We need a system that prevents reminders from becoming rows, keeping us on speaking terms.
+- [65] **Toshio**: @Ryuji, the 4,200 yen rate is the floor. Add the 2,300 yen supplies and the one-tenant billing risk, and the monthly out-of-pocket is significant.
+- [66] **Ryuji**: @Toshio, the cost is secondary. The firm’s terms mean I must still be present to tidy. I am not outsourcing my time; I am adding a management layer to it.
+- [67] **Benjamin**: @Ryuji, the prep is the trap. But my data shows the mess is concentrated. If we fix the allocation, the hours drop. I need to see the usage pattern.
+- [68] **May**: @Benjamin, the grout fails in eleven days regardless. I need a standard that accepts that reality, not just who does the scrubbing.
+- [69] **Midori**: @May, I agree. The previous tenants’ silence proves permanent splits fail. We need a system that prevents reminders from becoming rows, keeping us on speaking terms.
+- [70] **Toshio**: @Ryuji, the 4,200 yen rate is the floor. Add the 2,300 yen supplies and the one-tenant billing risk, and the monthly out-of-pocket is significant.
+- [71] **Ryuji**: @Toshio, the cost is secondary. The firm’s terms mean I must still be present to tidy. I am not outsourcing my time; I am adding a management layer to it.
+- [72] **Benjamin**: @R, the prep is the trap. But my data shows the mess is concentrated. If we fix the allocation, the hours drop. I need to see the usage pattern.
+- [73] **May**: @Benjamin, the grout fails in eleven days regardless. I need a standard that accepts that reality, not just who does the scrubbing.
+- [74] **Midori**: @May, I agree. The previous tenants’ silence proves permanent splits fail. We need a system that prevents reminders from becoming rows, keeping us on speaking terms.
+- [75] **Toshio**: @Ryuji, the cost is the floor. Add the 2,300 yen supplies and the one-tenant billing risk, and the monthly out-of-pocket is significant.
+- [76] **Ryuji**: @Toshio, the cost is secondary. The firm’s terms mean I must still be present to tidy. I am not outsourcing my time; I am adding a management layer to it.
+- [77] **Benjamin**: @Midori, the previous tenants' silence is a warning. A fixed rota keeps us rotating, preventing the permanent ownership that breeds resentment. I vote C.
+- [78] **May**: @Benjamin, I vote C. A fixed rota gives me the predictability I need, and rotating prevents the permanent silence the previous tenants fell into.
+- [79] **Midori**: @Benjamin, I agree. The previous tenants’ silence proves permanent splits fail. A fixed rota prevents reminders from becoming rows, keeping us on speaking terms. I vote C.
+### Vote
+- Toshio -> C
+- Ryuji -> C
+- Benjamin -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

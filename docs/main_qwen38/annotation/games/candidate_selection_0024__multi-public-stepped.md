@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I am worried the ground might be tricky. Who else thinks we should check the soil first?
+- [6] **May**: I just want to know what this will cost us to keep running. Who is looking at the budget?
+- [7] **Shizue**: I have seen many pretty plans fail. I would like to see what happened to our last projects.
+- [8] **Victoria**: I am curious who will actually maintain this place. The staff numbers seem low.
+- [9] **Shunichi**: The park is used daily. We need to know how people actually move through it.
+- [10] **Minato**: @May, the budget is important, but if the ground fails, the cost goes up.
+- [11] **May**: @Minato, true, but I need to see the long-term upkeep figures to be sure.
+- [12] **Shizue**: I agree with Minato. The condition of past works tells us a lot about durability.
+- [13] **Victoria**: I will look into the staffing. If we have no one to care for it, it fails.
+- [14] **Shunichi**: I will check the drainage and heat data. The environment dictates the design.
+- [15] **Minato**: I will look into the firms tendering for earth-moving. I want to know their capacity.
+- [16] **May**: I will check the upkeep ledger. I need to see the real annual costs per hectare.
+- [17] **Shizue**: I will review the condition of works from the earlier programme. History repeats itself.
+- [18] **Victoria**: I will examine the groundskeeping roll. I need to know who is on the roster.
+- [19] **Shunichi**: I will look at the drainage callouts and heat readings. The data will speak.
+- [20] **Minato**: I also want to see the depot phasing notes. How can we keep the park open?
+- [21] **May**: I will also check the terms of the regional habitat fund. Funding sources matter.
+- [22] **Shizue**: I will also look at the record of the eastern avenue planting. It is a good example.
+- [23] **Victoria**: I will also check the volunteer groups. They might help fill the gaps.
+- [24] **Shunichi**: I will also check the timed counts of weekday crossings. Usage patterns are key.
+## Round 2
+- [35] **Minato**: The firms say the clay is risky. We can only do shallow work easily.
+- [36] **May**: @Minato, that is worrying. My findings show planted ground costs triple to maintain.
+- [37] **Shizue**: I found that the old basin is fine, but the paved apron is failing. Planting is better if cared for.
+- [38] **Victoria**: I found the staff is down to seven. But volunteers are active on weekends.
+- [39] **Shunichi**: The data shows people want firm ground. Also, heat is a real problem here.
+- [40] **Minato**: @Shunichi, if we do shallow work, we avoid the clay risk. That is good.
+- [41] **May**: @Shizue, if planting is cheaper to build but expensive to keep, we need a plan.
+- [42] **Shizue**: @May, the eastern trees died because no one watered them. We must include aftercare.
+- [43] **Victoria**: @Shizue, the volunteers do habitat work. Maybe they can help with the planting?
+- [44] **Shunichi**: The heat readings are high. We need shade. But people walk on hard ground.
+- [45] **Minato**: I think we should avoid deep digging. Shallow planting is safer for the ground.
+- [46] **May**: I am concerned about the long-term cost. Hard surfaces are cheaper to maintain.
+- [47] **Shizue**: I believe we can make planting work if we commit to the aftercare. It is worth it.
+- [48] **Victoria**: The volunteer groups are a resource. We should use them for the maintenance.
+- [49] **Shunichi**: We need a balance. Shade for heat, but firm paths for the commuters.
+- [50] **Minato**: I am leaning towards a plan that respects the ground limits.
+- [51] **May**: I need to see how the funding covers the maintenance. It is a big gap.
+- [52] **Shizue**: I am hopeful. If we learn from the past, we can do this right.
+- [53] **Victoria**: I am confident the volunteers can help, but we need a clear structure.
+- [54] **Shunichi**: The data supports a mixed approach. We cannot ignore the heat or the foot traffic.
+## Round 3
+- [60] **Minato**: Option A seems best. It uses shallow planting and avoids the clay risk.
+- [61] **May**: @Minato, but the upkeep for dense trees is high. The fund doesn't cover maintenance.
+- [62] **Shizue**: @May, the fund covers planting. We just need to ensure the aftercare is budgeted.
+- [63] **Victoria**: Option A fits with the volunteer habitat group. They can help with the trees.
+- [64] **Shunichi**: Option A provides shade for the heat. But the gravel paths might not be firm enough for commuters.
+- [65] **Minato**: @Shunichi, the gravel paths are for the northern half. The main gate area stays open.
+- [66] **May**: I am still worried about the cost. But if the volunteers help, it might be manageable.
+- [67] **Shizue**: I like Option A. It is a natural solution. We just need to be careful with the contract.
+- [68] **Victoria**: I agree. The volunteers are already doing habitat work. This is a natural fit.
+- [69] **Shunichi**: The heat is a major issue. Option A addresses that. I can accept the gravel paths.
+- [70] **Minato**: I think Option A is the safest for the ground and the budget.
+- [71] **May**: I will support Option A if we can secure the aftercare funding.
+- [72] **Shizue**: I am voting for Option A. It is a step in the right direction.
+- [73] **Victoria**: I am voting for Option A. The volunteer support is a strong plus.
+- [74] **Shunichi**: I am voting for Option A. It balances the environmental and practical needs.
+- [75] **Minato**: I am glad we are all in agreement. Option A seems like the best choice.
+- [76] **May**: Let's hope the funding works out. I will keep an eye on the accounts.
+- [77] **Shizue**: I am looking forward to seeing the trees grow. It will be a beautiful place.
+- [78] **Victoria**: I will coordinate with the volunteers to ensure they are ready.
+- [79] **Shunichi**: The data supports this choice. Let's proceed with Option A.
+### Vote
+- Minato -> A
+- May -> A
+- Shizue -> A
+- Victoria -> A
+- Shunichi -> A
+## Result
+- adopted: A

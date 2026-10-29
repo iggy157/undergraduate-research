@@ -1,0 +1,73 @@
+# shared_living_0029__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Minako**: We need to stop guessing. Who is actually paying for what?
+- [6] **Benjamin**: Clarity is good, but let's ensure it doesn't turn into surveillance.
+- [7] **Asuka**: I need the car to be ready when I need it. No surprises.
+- [8] **Shion**: Guesswork is inefficient. We need hard data to allocate costs fairly.
+- [9] **Daisuke**: I worry about the time spent untangling who owes what.
+- [10] **Minako**: @Shion, data helps, but we must define what 'fair' means first.
+- [11] **Benjamin**: @Daisuke, time is a cost too. We should minimize administrative burden.
+- [12] **Asuka**: @Minako, fairness is useless if the car is dirty or missing.
+- [13] **Shion**: @Benjamin, precision prevents resentment. I will look into the receipts.
+- [14] **Daisuke**: @Benjamin, yes. I want to see where the coordination hours go.
+- [15] **Minako**: I will check the tax and insurance papers to see the baseline.
+- [16] **Benjamin**: I want to understand what sours groups like ours. I will check the audit history.
+- [17] **Asuka**: I will check the handover state and the mechanic's remarks.
+- [18] **Shion**: I will check the fuel receipts and the recorded hours.
+- [19] **Daisuke**: I will check the hours of use and the weekly trips.
+- [20] **Minako**: Let's see what the numbers say before we argue.
+- [21] **Benjamin**: Agreed. Let's find the root cause, not just the symptom.
+- [22] **Asuka**: I just want a car that works. Let's get to the facts.
+- [23] **Shion**: The data will speak for itself. I trust the logic.
+- [24] **Daisuke**: I hope it simplifies things. I am tired of the mental load.
+## Round 2
+- [35] **Minako**: The fixed costs are 280k. But fuel is wildly uneven.
+- [36] **Benjamin**: I found that auditing each other caused the most friction.
+- [37] **Asuka**: The car is often dirty and low on fuel when I get it.
+- [38] **Shion**: The fuel receipts show two people bought over half the fuel.
+- [39] **Daisuke**: The diary shows weekends are triple the usage of weekdays.
+- [40] **Minako**: @Shion, that confirms my suspicion. A flat split is unfair.
+- [41] **Benjamin**: @Minako, but if we track fuel, we start checking each other again.
+- [42] **Asuka**: @Benjamin, I don't care about the math. I care about the mess.
+- [43] **Shion**: @Benjamin, friction is the price of accuracy. I prefer accuracy.
+- [44] **Daisuke**: @Shion, accuracy costs me evenings of arranging. I can't do that.
+- [45] **Minako**: We need a system that accounts for usage without constant policing.
+- [46] **Benjamin**: The other households said the problem was asking for favours.
+- [47] **Asuka**: The mechanic said short trips ruin the car. We need longer, planned runs.
+- [48] **Shion**: If we know the hours, we can price the time.
+- [49] **Daisuke**: The weekly trips are the problem. They are rigid and unpredictable.
+- [50] **Minako**: So, we need to balance the fixed cost with the variable usage.
+- [51] **Benjamin**: And we must avoid the 'checking' trap. It poisons the well.
+- [52] **Asuka**: I need a guarantee of condition. Not just a price.
+- [53] **Shion**: A price per hour, plus a base fee. It is logical.
+- [54] **Daisuke**: I just want to stop calculating who owes me money.
+## Round 3
+- [60] **Minako**: Option B seems most equitable, but it requires constant logging.
+- [61] **Benjamin**: Option C risks the 'favour' dynamic I saw in the other households.
+- [62] **Asuka**: Option A guarantees I have the car on my days. No surprises.
+- [63] **Shion**: Option B is the only one that reflects actual consumption.
+- [64] **Daisuke**: Option A feels the least stressful. I just know my days.
+- [65] **Minako**: @Shion, but if we log every trip, we are back to auditing.
+- [66] **Benjamin**: @Minako, exactly. The audit is the sore point. We must avoid it.
+- [67] **Asuka**: @Benjamin, Option A avoids the audit. I pay my share, I use my days.
+- [68] **Shion**: @Asuka, but what if I need the car on your day?
+- [69] **Daisuke**: @Shion, you ask. If I can't, you wait. It is simple.
+- [70] **Minako**: Option B is fair, but the administrative cost is high.
+- [71] **Benjamin**: Option C is dangerous. It creates a hierarchy and resentment.
+- [72] **Asuka**: Option A is reliable. I know the car is there on my days.
+- [73] **Shion**: Option B is precise. I can accept the logging if it is automated.
+- [74] **Daisuke**: Option A minimizes the mental effort. I don't have to track anything.
+- [75] **Minako**: I am leaning towards A for stability, but B for fairness.
+- [76] **Benjamin**: I vote for A. It preserves the peace. The audit is the enemy.
+- [77] **Asuka**: I vote for A. Reliability is more important than perfect accounting.
+- [78] **Shion**: I vote for B. Fairness is non-negotiable. I will handle the data.
+- [79] **Daisuke**: I vote for A. I need the quiet. I can't manage the tracking.
+### Vote
+- Minako -> A
+- Benjamin -> A
+- Asuka -> A
+- Shion -> B
+- Daisuke -> A
+## Result
+- adopted: A

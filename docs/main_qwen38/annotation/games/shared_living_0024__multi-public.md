@@ -1,0 +1,73 @@
+# shared_living_0024__multi-public (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost before we agree! Let's check the offshore house prices and the all-in rates.
+- [6] **Shunichi**: I’m checking ferry times and how last year’s days actually ran. I refuse to lose another week to transit and waiting.
+- [7] **Asuka**: I need to know how money was split last time and what separate rooms cost. I will check those two.
+- [8] **Takumi**: I’m checking bathing hours and bathroom provision, plus inn mealtimes and room arrangements. I need to know where I wash and when I eat.
+- [9] **Toshio**: I will look into time alone in the shared-house year and how last year's days ran.
+- [10] **Rin**: @Shunichi, if the ferry takes two days, that’s terrible! I want to know the exact total cost so I’m not surprised later.
+- [11] **Shunichi**: @Rin, I’m not surprised by the cost, I’m tired of the commute. If the ferry eats two days, I’m out.
+- [12] **Asuka**: @Shunichi, the commute is a logistical problem. I am focused on the financial ambiguity. We need clear rules before we commit.
+- [13] **Takumi**: @Shunichi, if the ferry eats two days, I’m out too. I need to know the bath and meal times before I agree to anything.
+- [14] **Toshio**: @Shunichi, I am also watching the transit. But I am more concerned about how the group dynamic shifts when we are forced together versus apart.
+- [15] **Rin**: @Toshio, I get that! But if the bill is a mystery, I can’t enjoy the adventure. I need the numbers first!
+- [16] **Shunichi**: @Rin, the numbers are secondary. If the travel time is excessive, the destination is irrelevant. I am prioritizing the logistics.
+- [17] **Asuka**: @Rin, the numbers are only useful if the structure is sound. I am checking the cost variance to ensure the division is fair, not just the total.
+- [18] **Takumi**: @Asuka, fair division is fine, but I need a bathroom that works and a chair that isn’t a bed. I’m checking the inn details now.
+- [19] **Toshio**: @Takumi, the physical comfort is valid. But I am trying to understand why the group feels disconnected despite being together.
+- [20] **Rin**: @Toshio, I get it! But I need the total price before I can worry about feelings. Let’s just pick a place and stop guessing!
+- [21] **Shunichi**: @Rin, feelings are the only thing that makes the trip worth the cost. I am done.
+- [22] **Asuka**: @Rin, feelings are not the only thing. I am done.
+- [23] **Takumi**: @Rin, I’m done. I just need to know if I can sleep without counting the days.
+- [24] **Toshio**: I am done. The structure of the week determines the quality of our time together.
+## Round 2
+- [35] **Rin**: I found the island house is 5,400 yen a head a night, but food is extra! That’s not a total cost. I hate surprises!
+- [36] **Shunichi**: Ninety minutes by train. That is acceptable. The ferry is a two-day waste. I am done.
+- [37] **Asuka**: The separate rooms varied by eight thousand yen. A whole house is one bill. That is the only fair structure.
+- [38] **Takumi**: One bathroom for the whole island house, and the water runs cold. That is a dealbreaker. I need a private door and a working bath.
+- [39] **Toshio**: The house year left me with nowhere to go. Last year, we barely met. I need a place where we can be together, but also apart.
+- [40] **Rin**: @Asuka, one bill is great! But if food is extra, I still don’t know the total. I need to know exactly what I’m paying before I say yes!
+- [41] **Shunichi**: @Rin, the train is ninety minutes. The ferry is two days. I am not wasting my holiday on a boat.
+- [42] **Asuka**: @Rin, the all-in rate is a fixed cost. You pay the same as the biggest eater, but the total is known. That is the certainty you want.
+- [43] **Takumi**: @Asuka, the all-in rate means I pay for food I don’t eat. I need a door and a chair, not a fixed bill.
+- [44] **Toshio**: @Takumi, a town with streets and a public bath solves the isolation. We can be together, yet apart.
+- [45] **Rin**: @Asuka, but I eat less than the others! Paying the same is unfair. I want to know the exact total, not just a flat rate!
+- [46] **Shunichi**: @Rin, the train is ninety minutes. The ferry is two days. I am not wasting my holiday on a boat.
+- [47] **Asuka**: @Rin, fairness is not identical payment. It is a transparent structure. The all-in rate eliminates the eight thousand yen variance I found.
+- [48] **Takumi**: @Toshio, a public bath is fine, but I need a private room with a door. I refuse to sleep on a futon in a shared space.
+- [49] **Toshio**: @Takumi, a private door is a boundary, not a wall. The town allows us to drift apart and return without resentment.
+- [50] **Rin**: @Asuka, I still don't know the food cost! I need the exact total before I commit. No more guessing!
+- [51] **Shunichi**: @Rin, the train is ninety minutes. The ferry is two days. I am not wasting my holiday on a boat.
+- [52] **Asuka**: @Rin, the variance is the problem. A single bill divides evenly. That is the structural fairness I am proposing.
+- [53] **Takumi**: @Rin, I don't care about the food cost if I can't sleep. I need a private room with a door.
+- [54] **Toshio**: @Rin, the structure is the certainty. A town lets us share the day without forcing it. I am done.
+## Round 3
+- [60] **Rin**: @Shunichi, the train is only ninety minutes! That’s way better than the ferry. I can check the inn prices now!
+- [61] **Shunichi**: Ninety minutes is acceptable. The ferry is a two-day waste. I am not wasting my holiday on a boat.
+- [62] **Asuka**: The all-in rate at the inn eliminates the eight thousand yen variance I found. That is the only fair structure.
+- [63] **Takumi**: The inn has a door and no timetable. That is what I need. I am voting for the Hot Spring Town.
+- [64] **Toshio**: The town allows us to drift apart and return. The inn structure solves the isolation I felt. I am voting for the Hot Spring Town.
+- [65] **Rin**: @Asuka, but the island house is one bill! I still don't know the food cost for the inn. I need the exact total before I vote!
+- [66] **Shunichi**: @Rin, the train is ninety minutes. The ferry is two days. I am not wasting my holiday on a boat.
+- [67] **Asuka**: @Rin, the all-in rate is the total. It includes meals. You pay a fixed sum, no surprises. That is the certainty you demand.
+- [68] **Takumi**: @Rin, the inn has a door and no timetable. That is what I need. I am voting for the Hot Spring Town.
+- [69] **Toshio**: @Rin, the all-in rate is the total. It includes meals. You pay a fixed sum, no surprises. That is the certainty you demand.
+- [70] **Rin**: @Asuka, if the rate includes dinner and breakfast, that is the total! No more guessing. I am voting for the Hot Spring Town!
+- [71] **Shunichi**: Ninety minutes by train. The ferry is a two-day waste. I am voting for the Hot Spring Town.
+- [72] **Asuka**: The all-in rate is the only structure that eliminates the variance I found. I am voting for the Hot Spring Town.
+- [73] **Takumi**: The inn has a door and no timetable. That is what I need. I am voting for the Hot Spring Town.
+- [74] **Toshio**: The town lets us share the day without forcing it. The structure resolves the isolation. I am voting for the Hot Spring Town.
+- [75] **Rin**: Hot Spring Town it is! I finally know the total cost. No more surprises! Let's go!
+- [76] **Shunichi**: Ninety minutes. No ferry. No lost days. The Hot Spring Town is adopted. I am done.
+- [77] **Asuka**: The all-in rate provides the structural certainty I required. The variance is eliminated. I am voting for the Hot Spring Town.
+- [78] **Takumi**: The inn has a door and no timetable. That is what I need. I am voting for the Hot Spring Town.
+- [79] **Toshio**: The structure resolves the isolation. We can be together, yet apart. I am voting for the Hot Spring Town.
+### Vote
+- Rin -> B
+- Shunichi -> B
+- Asuka -> B
+- Takumi -> B
+- Toshio -> B
+## Result
+- adopted: B

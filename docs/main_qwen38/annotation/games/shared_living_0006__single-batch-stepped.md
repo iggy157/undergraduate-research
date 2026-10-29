@@ -1,0 +1,73 @@
+# shared_living_0006__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a structure that keeps the door open for newcomers without exposing everyone's private costs.
+- [6] **Benjamin**: Before we pick a fee, we must ensure the next treasurer isn't buried in administrative work.
+- [7] **Jonathan**: The current system hides how uneven the actual participation is among our members.
+- [8] **Shunichi**: People are hesitating to commit to evenings; the fee structure is making them overthink it.
+- [9] **Takumi**: I refuse to guess next year's costs. We need hard data on what we can actually count on.
+- [10] **Asuka**: @Benjamin, if the admin load is too high, does that push us toward a simpler flat fee?
+- [11] **Benjamin**: @Asuka, not necessarily. A flat fee simplifies collection, but activity tracking still requires effort.
+- [12] **Jonathan**: @Shunichi, is the hesitation about the money, or about feeling obligated to show up?
+- [13] **Shunichi**: @Jonathan, it is the obligation. If it feels like a transaction, they stop coming.
+- [14] **Takumi**: @Benjamin, what specific records would tell us if the current collection method is failing?
+- [15] **Asuka**: I worry that tiered options might make the quieter members feel excluded or judged.
+- [16] **Benjamin**: I agree. We need to look at the hours logged by the last treasurer to see the real cost.
+- [17] **Jonathan**: I want to see the sign-in sheets. Who is actually here, and who is just paying?
+- [18] **Shunichi**: The winter social feedback is key. Why are the regulars pulling back now?
+- [19] **Takumi**: I need the bank statements. If people are asking to spread payments, our cash flow is weak.
+- [20] **Asuka**: Let's look at the taster forms too. Why do people stop after the first night?
+- [21] **Benjamin**: Agreed. The ledger will show our fixed costs, which don't change with attendance.
+- [22] **Jonathan**: I will check the rota against attendance. It seems the same few people do everything.
+- [23] **Shunichi**: I will look at the mid-year joiners. How hard is it to add them to the system?
+- [24] **Takumi**: I will check the ledger and the bank statements. We need to know the baseline.
+## Round 2
+- [35] **Asuka**: The taster forms are worrying. Nine out of fourteen said they wouldn't commit to a whole year at once.
+- [36] **Benjamin**: The ledger confirms our fixed costs are high. But the treasurer's logs show chasing individual payments is a nightmare.
+- [37] **Jonathan**: The sign-in tally is stark. A quarter of members do two-thirds of the work. Eighteen people never show up.
+- [38] **Shunichi**: The mid-year joiners needed hand-worked calculations. That is why they hesitate. It feels like a hassle.
+- [39] **Takumi**: The bank statements show a third of renewals needed reminders. We are bleeding cash flow.
+- [40] **Asuka**: @Benjamin, if chasing payments takes six hours a month, a flat fee might be the only way to save the treasurer.
+- [41] **Benjamin**: @Asuka, yes. But if we go flat, the non-attendees feel they are subsidizing the active ones.
+- [42] **Jonathan**: @Shunichi, the rota shows the same nine people set up and lock up. They are carrying the club.
+- [43] **Shunichi**: @Jonathan, exactly. And the quieter members feel uneasy about what their fee covers if they only come twice.
+- [44] **Takumi**: @Benjamin, if we switch to activity-based charging, does that reduce the chasing time?
+- [45] **Asuka**: Activity-based charging might scare off the newcomers who are already hesitant about commitment.
+- [46] **Benjamin**: It might. But a flat fee ignores the reality that some people use the club heavily and others barely do.
+- [47] **Jonathan**: A tiered system could work, but the minute books from the last time we tried it show friction.
+- [48] **Shunichi**: The winter social feedback says people want to belong, not just pay for a ticket.
+- [49] **Takumi**: We need a balance. We can't afford the admin load of tracking every event, but we can't ignore the inequity.
+- [50] **Asuka**: I think a small base fee plus event charges is the most honest, but it risks the turnout drop we saw in summer.
+- [51] **Benjamin**: The summer drop was real. Turnout fell by a third when we tried door charges. We cannot repeat that.
+- [52] **Jonathan**: So we are back to flat or tiered. Tiered feels risky given the past friction.
+- [53] **Shunichi**: Flat is safer for the culture, but it feels unfair to the nine who do the work.
+- [54] **Takumi**: Let's vote. I lean toward flat, but I want to hear the final arguments.
+## Round 3
+- [60] **Asuka**: Option A, the flat fee, protects the newcomers and keeps the social fabric intact.
+- [61] **Benjamin**: Option A is the only one that keeps the treasurer's workload manageable. I support it.
+- [62] **Jonathan**: Option B, tiered, might address the inequity, but the history of friction makes me wary.
+- [63] **Shunichi**: Option C, activity-based, is too transactional. It kills the sense of belonging.
+- [64] **Takumi**: Option A is the most stable for our cash flow. I will vote for it.
+- [65] **Asuka**: @Jonathan, if we choose A, we accept that the active members are subsidizing the quiet ones.
+- [66] **Benjamin**: @Asuka, yes, but that is the price of keeping the club open and accessible to everyone.
+- [67] **Jonathan**: @Shunichi, do you think the quiet members would prefer a lower tier if it existed?
+- [68] **Shunichi**: @Jonathan, they prefer not to be categorized. They just want to come in without feeling judged.
+- [69] **Takumi**: @Benjamin, the bank data supports A. Fewer reminders, cleaner books.
+- [70] **Asuka**: I am convinced. The social cost of C is too high, and B is too risky.
+- [71] **Benjamin**: Agreed. The administrative burden of C is unsustainable for the next treasurer.
+- [72] **Jonathan**: I will vote for A, but I hope we find a way to recognize the active members' effort.
+- [73] **Shunichi**: A is the only option that preserves the culture we have built.
+- [74] **Takumi**: Final vote. I am confident in A.
+- [75] **Asuka**: Let's proceed to the vote.
+- [76] **Benjamin**: Yes.
+- [77] **Jonathan**: Yes.
+- [78] **Shunichi**: Yes.
+- [79] **Takumi**: Yes.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> A
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

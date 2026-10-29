@@ -1,0 +1,73 @@
+# candidate_selection_0006__single-online (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Let's start by understanding what we are actually trying to solve before we look at the options.
+- [6] **Jonathan**: I agree. We should review what previous initiatives actually achieved before committing to another.
+- [7] **Misaki**: #### Turn 1 of 4
+- [8] **Shion**: #### Turn 1 of 4
+- [9] **Shizue**: #### Turn 1 of 4
+- [10] **Midori**: #### Turn 2 of 4
+- [11] **Jonathan**: #### Turn 2 of 4
+- [12] **Misaki**: - **Misaki**: I need to see the staffing records to understand where the pressure actually lands.
+- [13] **Shion**: - **Shion**: I need to know the actual cost and return before we commit anything.
+- [14] **Shizue**: #### Turn 2 of 4
+- [15] **Midori**: #### Turn 3 of 4
+- [16] **Jonathan**: #### Turn 3 of 4
+- [17] **Misaki**: - **Misaki**: I need to see the staffing records to understand where the pressure actually lands.
+- [18] **Shion**: - **Shion**: And what the running costs will be once the development money is spent.
+- [19] **Shizue**: #### Turn 3 of 4
+- [20] **Midori**: - **Midori**: I will look into the board minutes on the jointly run clinic and the visit completion on the shared nursing round.
+- [21] **Jonathan**: - **Jonathan**: I will look into the readmission figures during the call-back trial and what the booking system records.
+- [22] **Misaki**: - **Misaki**: I will look into the ward nursing vacancies and agency cover, and the therapy and midwifery staffing review.
+- [23] **Shion**: - **Shion**: I will look into this year's development allocation in the ledger and regional fund tariffs by contact location.
+- [24] **Shizue**: - **Shizue**: I will look into rooms, parking and shuttle coverage, and what the booking system records.
+## Round 2
+- [35] **Midori**: - **Midori**: The board minutes show the joint clinic collapsed because neither department would hold the budget line.
+- [36] **Jonathan**: #### Turn 1 of 4
+- [37] **Misaki**: #### Turn 1 of 4
+- [38] **Shion**: - **Shion**: The ledger shows our development allocation is down by nearly a quarter.
+- [39] **Shizue**: - **Shizue**: The car park fills before eleven, and the shuttle only reaches four of our nineteen villages.
+- [40] **Midori**: - **Midori**: That confirms my fear. If the arrangement rests on a department that never signed up, it will break in year two.
+- [41] **Jonathan**: #### Turn 2 of 4
+- [42] **Misaki**: #### Turn 2 of 4
+- [43] **Shion**: - **Shion**: And home visits draw no tariff. We build it, we fund it, we earn nothing back.
+- [44] **Shizue**: - **Shizue**: That means any new service must fit into the existing flow, or we will simply clog the system.
+- [45] **Midori**: - **Midori**: So we must ensure every new program has a clear, single owner who is fully committed from day one.
+- [46] **Jonathan**: - **Jonathan**: The booking system only logs named slots. If a program lacks fixed appointments, it vanishes from our records entirely.
+- [47] **Misaki**: - **Misaki**: The therapy review shows four years of physiotherapists leaving, but midwifery has unusual slack.
+- [48] **Shion**: - **Shion**: So on-site sessions bill at the standard rate. Home visits earn nothing. The math is already against us.
+- [49] **Shizue**: - **Shizue**: I see. If the car park is full by eleven, a new outpatient unit will just add to the congestion.
+- [50] **Midori**: - **Midori**: Agreed. We need a program that fits our current capacity and has a clear, committed owner.
+- [51] **Jonathan**: - **Jonathan**: Precisely. If it isn't booked, it didn't happen. We need a model that leaves a trace in the system.
+- [52] **Misaki**: - **Misaki**: Midwifery slack is the only staffing surplus I see. We cannot build on a foundation of agency cover.
+- [53] **Shion**: So we need on-site billing and a single, committed owner. Anything else is a leak.
+- [54] **Shizue**: - **Shizue**: Then we must choose something that fits the current rooms and parking, without adding to the morning rush.
+## Round 3
+- [60] **Midori**: - **Midori**: The candidates are here. Which one can we trust to stay whole in year two?
+- [61] **Jonathan**: - **Jonathan**: The booking system only records named slots. We need a program that fits that structure.
+- [62] **Misaki**: - **Misaki**: Midwifery has the slack. Perinatal support is the only one I can staff without agency cover.
+- [63] **Shion**: - **Shion**: Perinatal support is on-site, so it bills at the standard rate. The others are financial black holes.
+- [64] **Shizue**: - **Shizue**: Perinatal support fits. It uses existing rooms and doesn't add to the morning parking rush.
+- [65] **Midori**: - **Midori**: Perinatal support has a clear owner in the midwifery department, so it won't collapse like the joint clinic did.
+- [66] **Jonathan**: - **Jonathan**: It uses fixed appointment slots, so it will actually appear in our activity reports.
+- [67] **Misaki**: - **Misaki**: The midwifery slack is real. We can staff this without touching the therapy rota or agency cover.
+- [68] **Shion**: - **Shion**: On-site billing means it pays for itself. The others are just expensive hobbies.
+- [69] **Shizue**: - **Shizue**: It fits the existing flow. No new parking, no extra shuttle strain. It simply works within what we have.
+- [70] **Midori**: - **Midori**: I am convinced. It has a committed owner, fits our capacity, and will actually survive the second year.
+- [71] **Jonathan**: - **Jonathan**: It leaves a trace in the booking system. That is the only way we know it actually happened.
+- [72] **Misaki**: - **Misaki**: The staffing math is the only one that holds. I am ready to vote for Perinatal Support.
+- [73] **Shion**: - **Shion**: The tariff math is the only one that balances. I am ready to vote for Perinatal Support.
+- [74] **Shizue**: - **Shizue**: It fits the day without seizing up. I am ready to vote for Perinatal Support.
+- [75] **Midori**: - **Midori**: Then we are unanimous. I vote for Perinatal Support Service.
+- [76] **Jonathan**: - **Jonathan**: I vote for Perinatal Support Service.
+- [77] **Misaki**: - **Misaki**: I vote for Perinatal Support Service.
+- [78] **Shion**: - **Shion**: I vote for Perinatal Support Service.
+- [79] **Shizue**: - **Shizue**: I vote for Perinatal Support Service.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

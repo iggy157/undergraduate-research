@@ -1,0 +1,73 @@
+# shared_living_0014__multi-public (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I want to understand why last year felt so disconnected. I’ll look into how the days actually ran and the time alone we had.
+- [6] **Shizue**: I worry about who pays for what. I’ll check the all-in rates and what separate rooms cost last time.
+- [7] **Minato**: I’m a bit worried about sleeping and washing. I’ll look into bathing hours and how last year’s days ran.
+- [8] **Jonathan**: I’d like to see how much time we lose travelling. I’ll check the ferry and train times, and how last year’s days ran.
+- [9] **Midori**: I want to know the total cost before we commit. I’ll check the offshore house pricing and the all-in rates.
+- [10] **Mizuki**: @Minato, you’re checking bathing hours too? I’m curious if the layout affects how we feel.
+- [11] **Shizue**: @Mizuki, that is a lovely thought. I am glad we are looking at the practical details together.
+- [12] **Minato**: @Mizuki, yes, I am. I just want to know if the water is warm and when I can wash.
+- [13] **Jonathan**: @Minato, I am also checking how the days ran. I worry the travel eats too much of our time.
+- [14] **Midori**: @Mizuki, I understand your worry. I am checking the costs so we know exactly what we are paying before we book.
+- [15] **Mizuki**: @Jonathan, if travel eats the week, that explains the disconnect. I hope the data shows us where the time actually went.
+- [16] **Shizue**: @Jonathan, I hope the train is kinder than the ferry. I am checking the costs so we are not surprised later.
+- [17] **Minato**: @Jonathan, I hope the train is faster. I just want to know if I can sleep well and wash without rushing.
+- [18] **Jonathan**: @Minato, I hope the train is kinder. I worry the ferry takes too long, leaving us tired before we even start.
+- [19] **Midori**: @Minato, I hope the water is warm for you. I am checking the costs so we are not surprised later.
+- [20] **Mizuki**: @Shizue, knowing the costs helps, but I need to understand the rhythm. I will look into how last year’s days ran and the time alone we had.
+- [21] **Shizue**: @Mizuki, I understand. I will look into the all-in rates and what separate rooms cost last time.
+- [22] **Minato**: @Mizuki, I hope the rhythm is gentle. I just want to know if I can wash and sleep well.
+- [23] **Jonathan**: @Mizuki, I agree. I will check the ferry and train times, and how last year’s days ran.
+- [24] **Midori**: @Mizuki, I understand. I will check the offshore house pricing and the all-in rates so we know the total cost.
+## Round 2
+- [35] **Mizuki**: The data is clear. Last year’s separation caused the disconnect, but shared houses trap us. We need a town with public spaces.
+- [36] **Shizue**: @Mizuki, a single bill divides evenly, unlike last year’s uneven rooms. That settles the money question for me.
+- [37] **Minato**: @Mizuki, I am glad we are moving together. But the island house has only one bathroom, and the water runs cold. I worry about washing.
+- [38] **Jonathan**: The ferry takes two full days. The train is ninety minutes. I cannot lose another week to waiting.
+- [39] **Midori**: The island house is 5,400 yen a head a night, but food is extra. I need the total before we commit.
+- [40] **Mizuki**: @Minato, the island’s single bathroom is a problem. @Midori, the extra food costs are worrying. We need a place with clear, all-in pricing and public spaces.
+- [41] **Shizue**: @Midori, the all-in rate means I pay the same as the biggest eater. I would rather settle meals as we order them, so no one is shortchanged.
+- [42] **Minato**: @Mizuki, I am glad we are moving together. But the island house has only one bathroom, and the water runs cold. I worry about washing.
+- [43] **Jonathan**: @Shizue, I hear you. But the train is ninety minutes, not two days. I need to know if the inn’s fixed mealtimes will feel like a cage.
+- [44] **Midori**: @Shizue, I understand. But I need the total cost before we commit. The island’s extra food makes the bill unpredictable, which worries me.
+- [45] **Mizuki**: @Jonathan, the inn’s fixed mealtimes might feel rigid, but moving together solves the isolation. I need to know if the town offers enough space for us to breathe.
+- [46] **Shizue**: @Jonathan, I worry about the fixed times too. But a single bill is fairer than last year’s uneven rooms.
+- [47] **Minato**: @Jonathan, I am worried about the fixed times. I just want to know if I can wash and sleep well without rushing.
+- [48] **Jonathan**: @Minato, the baths open until midnight, so you can wash whenever you are ready. I just need the week to feel like ours, not a schedule.
+- [49] **Midori**: @Jonathan, the baths are open late, which helps. But I still need the total cost. The island’s extra food makes the bill unpredictable, which worries me.
+- [50] **Mizuki**: @Midori, the valley inn folds meals in, so the total is fixed. That solves your worry and keeps us together.
+- [51] **Shizue**: @Midori, the valley rate includes dinner and breakfast, so the total is fixed. That solves your worry and keeps us together.
+- [52] **Minato**: @Mizuki, I am glad the baths are open late. I can wash whenever I am ready. I hope the fixed meals are not too strict.
+- [53] **Jonathan**: @Mizuki, the ninety-minute train is acceptable. I just need the days to feel unhurried, not dictated by a rigid timetable.
+- [54] **Midori**: @Mizuki, that is wonderful. Knowing the total cost upfront brings me great peace. I am ready to choose the valley inn.
+## Round 3
+- [60] **Mizuki**: @Midori, the valley inn keeps us together and the cost is fixed. I am ready to vote for A.
+- [61] **Shizue**: @Mizuki, I agree. The single bill divides evenly, so no one is quietly out of pocket. I am ready to vote for A.
+- [62] **Minato**: @Mizuki, I am glad the baths are open late. I can wash whenever I am ready. I hope the fixed meals are not too strict.
+- [63] **Jonathan**: @Mizuki, the ninety-minute train is acceptable. I just need the days to feel unhurried, not dictated by a rigid timetable.
+- [64] **Midori**: @Mizuki, I am ready to vote for A. The fixed cost and the late baths give me the peace of mind I need.
+- [65] **Mizuki**: @Minato, the days are left unplanned, so you are not bound to a rigid timetable. I am voting for A.
+- [66] **Shizue**: @Minato, the days are left unplanned, so you are not bound to a rigid timetable. I am voting for A.
+- [67] **Minato**: @Mizuki, thank you. I am glad the days are free. I can wash whenever I want. I am voting for A.
+- [68] **Jonathan**: @Mizuki, the unplanned days are exactly what I need. The short train ride is manageable. I am voting for A.
+- [69] **Midori**: @Mizuki, I am voting for A. The fixed cost and the late baths give me the peace of mind I need.
+- [70] **Mizuki**: @Midori, I am voting for A. The fixed cost and the late baths give me the peace of mind I need.
+- [71] **Shizue**: @Midori, I am voting for A. The single bill divides evenly, so no one is quietly out of pocket.
+- [72] **Minato**: @Mizuki, I am voting for A. The baths are open late and the days are free. I can wash whenever I am ready.
+- [73] **Jonathan**: @Mizuki, I am voting for A. The short train ride and the unplanned days give me the quiet I need.
+- [74] **Midori**: @Mizuki, I am voting for A. The fixed cost and the late baths give me the peace of mind I need.
+- [75] **Mizuki**: @Midori, I am voting for A. The fixed cost and the late baths give me the peace of mind I need.
+- [76] **Shizue**: @Midori, I am voting for A. The single bill divides evenly, so no one is quietly out of pocket.
+- [77] **Minato**: @Mizuki, I am voting for A. The baths are open late and the days are free. I can wash whenever I am ready.
+- [78] **Jonathan**: @Mizuki, I am voting for A. The short train ride and the unplanned days give me the quiet I need.
+- [79] **Midori**: @Mizuki, I am voting for A. The fixed cost and the late baths give me the peace of mind I need.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> A
+- Jonathan -> A
+- Midori -> A
+## Result
+- adopted: A

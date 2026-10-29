@@ -1,0 +1,73 @@
+# shared_living_0023__single-batch (shared_living)
+
+## Round 1
+- [5] **Victoria**: Before we move furniture, I need to understand the financial baseline.
+- [6] **Minato**: I just want a spot that doesn't hurt my back by four o'clock.
+- [7] **May**: My calendar is already tight. I need to know the time cost of moving.
+- [8] **Shunichi**: Let's be honest about who gets the bad seats. It's never said out loud.
+- [9] **Daisuke**: I worry about who I'll sit next to. It changes how I talk to people.
+- [10] **Victoria**: @Shunichi, fairness is good, but we can't afford to guess the costs.
+- [11] **Minato**: @May, if the move takes all day, I can't work.
+- [12] **May**: Exactly. I need to see how long the transition actually takes.
+- [13] **Shunichi**: @Victoria, cost is one thing, but social cost is real too.
+- [14] **Daisuke**: I think we should look at how people actually arrive and sit.
+- [15] **Victoria**: I will check the billing basis and the facilities quote.
+- [16] **Minato**: I want to see the sound readings and the physio note.
+- [17] **May**: I'll look at the morning routine upstairs and the badge records.
+- [18] **Shunichi**: I'll check the unplanned shuffles and the drawn plan against the survey.
+- [19] **Daisuke**: I'll look at the project strands and what the new joiners reported.
+- [20] **Victoria**: Agreed. Let's see what the data says before we decide.
+- [21] **Minato**: Okay. I hope the sound isn't too bad near the door.
+- [22] **May**: I'm worried the morning routine will be a nightmare.
+- [23] **Shunichi**: We'll see. I suspect the survey data will be blunt.
+- [24] **Daisuke**: I just want to know if we can talk to each other easily.
+## Round 2
+- [35] **Victoria**: The billing is by area, not heads. Empty desks still cost us 41,000 yen monthly.
+- [36] **Minato**: The printer row is nine decibels louder. My chair needs days to adjust.
+- [37] **May**: Upstairs, setting up took four to nine minutes. Badge times are all over the place.
+- [38] **Shunichi**: Last year's shuffles took two weeks each. The survey says daylight is key.
+- [39] **Daisuke**: When we were close last spring, we stopped writing notes. New hires learn by listening.
+- [40] **Victoria**: @May, if setup takes nine minutes, that's significant for our gaps.
+- [41] **Minato**: @Shunichi, if daylight is the top complaint, the window seats are critical.
+- [42] **May**: @Victoria, the cost of empty desks is high. We need to use space well.
+- [43] **Shunichi**: @Daisuke, so proximity helps collaboration? That's useful to know.
+- [44] **Daisuke**: Yes. But if arrival times vary, first-come-first-served might be unfair.
+- [45] **Victoria**: The facilities quote is 6,200 yen per desk for power and network.
+- [46] **Minato**: So moving is expensive and noisy. I prefer stability.
+- [47] **May**: If we rotate, we pay that fee every time. That's a lot of money.
+- [48] **Shunichi**: Fixed desks avoid the fee, but we have to assign them carefully.
+- [49] **Daisuke**: If we fix desks, we fix who sits next to whom. Is that good?
+- [50] **Victoria**: We need to balance cost, comfort, and collaboration.
+- [51] **Minato**: I vote for stability. I can't keep adjusting my chair.
+- [52] **May**: I'm worried about the time loss if we rotate often.
+- [53] **Shunichi**: Let's look at the options. We need a clear rule for assignment.
+- [54] **Daisuke**: I hope we can still talk to each other.
+## Round 3
+- [60] **Victoria**: Option A is fixed desks. Option B is rotating blocks. Option C is free address.
+- [61] **Minato**: Option A sounds best for my back. I can set it up once.
+- [62] **May**: Option C is risky. If I arrive late, I get a bad desk.
+- [63] **Shunichi**: Option B is expensive. We pay the facilities fee every rotation.
+- [64] **Daisuke**: Option A might isolate us if we're not careful with grouping.
+- [65] **Victoria**: @Shunichi, you're right about the cost of B. 6,200 yen per desk per move.
+- [66] **Minato**: @May, with C, you might get the loud printer row. That's bad.
+- [67] **May**: @Minato, true. But with A, I need to know I get a good spot.
+- [68] **Shunichi**: @Daisuke, if we group by function in A, we might lose cross-talk.
+- [69] **Daisuke**: I think A is safest, but we need to ensure we can still collaborate.
+- [70] **Victoria**: The billing data suggests we should minimize empty space. A does that.
+- [71] **Minato**: I agree. A is the most comfortable for me.
+- [72] **May**: I'm leaning towards A, but I want to make sure the morning isn't chaotic.
+- [73] **Shunichi**: A allows us to assign the window seats deliberately. That addresses the survey.
+- [74] **Daisuke**: If we assign seats by function, we might sit with similar people. Is that okay?
+- [75] **Victoria**: We can mitigate that by mixing functions slightly in the grouping.
+- [76] **Minato**: That sounds good. I just want a quiet, comfortable spot.
+- [77] **May**: I'll accept A if the setup is quick. The badge data shows varied arrivals.
+- [78] **Shunichi**: A is the most rational choice. It minimizes cost and maximizes comfort.
+- [79] **Daisuke**: I'll go with A. I trust we can manage the social side.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0028__single-online (shared_living)
+
+## Round 1
+- [5] **Shion**: I checked the wall. It’s thin plasterboard. Sound travels easily.
+- [6] **Daisuke**: I’d like to see the actual costs before we decide. Can we look at the invoices?
+- [7] **Rin**: I want to know who actually uses the room most. Can we check the tally?
+- [8] **Servas**: I wonder where our last difficult conversation took place. It matters where we can speak freely.
+- [9] **Toshio**: I need to trace where the hidden hours go. Let’s check the facilities callouts.
+- [10] **Shion**: @Daisuke, the invoices show what we paid, not what the room costs us daily. I need the partition details.
+- [11] **Daisuke**: @Shion, I understand, but I need the financial figures to justify the decision. I’ll look into the invoices.
+- [12] **Rin**: @Toshio, if the room is messy, people avoid it. I’ll check the crumbs and bins to see how bad it is.
+- [13] **Servas**: @Rin, the crumbs are a symptom, not the cause. I will look into where our last awkward conversation happened.
+- [14] **Toshio**: @Rin, the crumbs are a symptom, not the cause. I will look into where our last awkward conversation happened.
+- [15] **Shion**: @Toshio, you cannot look into the conversation; I already claimed that. You must choose a different item.
+- [16] **Daisuke**: @Toshio, please pick something else. I’ll take the invoices.
+- [17] **Rin**: @Toshio, you can’t take that. I’ll check the round trip for a hot lunch instead.
+- [18] **Servas**: @Toshio, you must choose a different item. I will look into the unplanned talk since the refit.
+- [19] **Toshio**: @Shion, you are right. I will look into the quotes for the two fit-outs instead.
+- [20] **Shion**: I will look into the partition wall to the office and the fortnight's tally of use by person.
+- [21] **Daisuke**: I will look into the invoices for outside hire by the hour and the quotes for the two fit-outs.
+- [22] **Rin**: I will look into the round trip for a hot lunch and the crumbs and bins at the desks.
+- [23] **Servas**: I will look into the unplanned talk since the refit and where the last awkward conversation happened.
+- [24] **Toshio**: I will look into the facilities callouts on this floor and the final clear-out of the old fridge.
+## Round 2
+- [35] **Shion**: @Daisuke, the wall is single plasterboard. A phone call inside is audible from the nearest desk.
+- [36] **Daisuke**: @Shion, that confirms the sound issue. I found the invoices: 68,000 yen for nine small bookings last year.
+- [37] **Rin**: - **Rin**: I checked the desks. Three keyboards have crumbs, and bins go out daily. It’s messy.
+- [38] **Servas**: - **Servas**: The last difficult talk happened across the open desks, in front of everyone. They went silent for two weeks.
+- [39] **Toshio**: @Servas, that silence is costly. I found eleven callouts for equipment rooms, none for the empty store.
+- [40] **Shion**: @Daisuke, 68,000 yen for nine bookings is a waste. We need a space that actually works for us, not just a place to hide.
+- [41] **Daisuke**: @Shion, exactly. We are paying for space we cannot use properly. I also have the fit-out quotes: 141,000 for a meeting setup, 96,000 for a kitchen.
+- [42] **Rin**: - **Rin**: @Daisuke, those quotes are huge. But I found the lunch trip takes twenty-five minutes. Most of us go three or four days a week.
+- [43] **Servas**: @Rin, twenty-five minutes is a long walk for a simple meal. It shows how much we value that break.
+- [44] **Toshio**: @Daisuke, the kitchen quote is cheaper, but the meeting space costs more. I need to know which one saves us the most hidden hours.
+- [45] **Shion**: @Toshio, the meeting space costs more, but the kitchen saves us the daily twenty-five minute walk. Which one do you think saves more time overall?
+- [46] **Daisuke**: @Toshio, the kitchen saves daily time, but the meeting space stops us paying 68,000 yen externally. I need to see which total is lower.
+- [47] **Rin**: @Daisuke, the crumbs prove we already eat here. A kitchen just makes it official and stops the mess spreading to our desks.
+- [48] **Servas**: @Rin, the mess is a symptom. The real loss is that we have no private place to speak, so we avoid difficult conversations entirely.
+- [49] **Toshio**: @Servas, the silence costs us more than the yen. I found the old fridge was cleared twice by one person. We need a space that doesn’t demand unpaid labor.
+- [50] **Shion**: @Servas, you are right. The silence is the real cost. I will support whatever option gives us that privacy.
+- [51] **Daisuke**: @Servas, I agree on the privacy, but I still need the numbers to balance the books. I will support the option that stops the monthly drain.
+- [52] **Rin**: @Servas, I agree. But if we eat here, the mess stays here. I want a kitchen so the crumbs stop landing on my keyboard.
+- [53] **Servas**: @Rin, a kitchen solves the crumbs, but it does not solve the silence. We need a place where words can be spoken without fear of being overheard.
+- [54] **Toshio**: @Servas, the fridge clearing shows unpaid labor. A meeting space with a shared calendar distributes the burden fairly, unlike a kitchen.
+## Round 3
+- [60] **Shion**: @Toshio, a calendar does not stop sound. The wall is thin. We need a room where we can actually speak without being overheard.
+- [61] **Daisuke**: @Shion, the wall is thin, but the invoices show we pay 68,000 yen for space we can’t use. I need to stop that drain.
+- [62] **Rin**: - **Rin**: @Daisuke, but the kitchen quote is cheaper than the meeting one. Plus, I hate crumbs on my keyboard.
+- [63] **Servas**: @Shion, the wall is thin, but the silence is thicker. We need a place where difficult words can be spoken without fear of being overheard.
+- [64] **Toshio**: @Shion, the wall is thin, but the calendar stops the unpaid labor. I support the meeting space to distribute the burden fairly.
+- [65] **Shion**: @Servas, you are right. The wall is thin, but the silence is thicker. We need a place where difficult words can be spoken without fear of being overheard.
+- [66] **Daisuke**: @Servas, I hear you, but the numbers are cold. The meeting space stops the external drain. I cannot ignore the invoices.
+- [67] **Rin**: @Servas, I agree the silence is bad, but a quiet room doesn't fix the crumbs. I still want the kitchen to keep my desk clean.
+- [68] **Servas**: @Rin, a quiet room keeps the mess out, but it also keeps the people out. We need a place where we can actually talk, not just hide.
+- [69] **Toshio**: @Servas, a quiet room isolates us further. The meeting space forces interaction and fair scheduling, preventing the unpaid labor I saw in the fridge logs.
+- [70] **Shion**: @Toshio, a calendar is just a list. It doesn't stop the sound leaking through that thin wall. We need actual privacy, not just a booking slot.
+- [71] **Daisuke**: @Toshio, the calendar is a tool, not a solution. I need the financial certainty. I will vote for the option that stops the 68,000 yen drain.
+- [72] **Rin**: @Toshio, a calendar doesn't stop the noise. I want the kitchen so the crumbs stay in the room, not on my keyboard.
+- [73] **Servas**: @Toshio, a calendar manages time, not trust. We need a space where we can finally speak without fear of being overheard.
+- [74] **Toshio**: @Shion, the wall is thin, but the calendar stops the unpaid labor. I support the meeting space to distribute the burden fairly.
+- [75] **Shion**: @Toshio, I vote for the Quiet Room. It is the only option that respects the thin wall and gives us the privacy to speak freely.
+- [76] **Daisuke**: @Toshio, I vote for the Meeting Space. It stops the 68,000 yen drain and the quotes show it is the only viable financial path.
+- [77] **Rin**: @Toshio, I vote for the Open Kitchen. It keeps the crumbs off my keyboard and saves us the long lunch walk.
+- [78] **Servas**: @Toshio, I vote for the Quiet Room. It is the only place where the silence can finally be broken without fear.
+- [79] **Toshio**: @Shion, I vote for the Meeting Space. The shared calendar ensures fair use and stops the hidden labor I found in the logs.
+### Vote
+- Shion -> C
+- Daisuke -> B
+- Rin -> A
+- Servas -> C
+- Toshio -> B
+## Result
+- adopted: C

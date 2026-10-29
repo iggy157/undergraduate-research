@@ -1,0 +1,73 @@
+# shared_living_0004__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to know how the money works so nobody gets stuck with extra costs.
+- [6] **Victoria**: I need to see the total cost before we agree to anything, to avoid surprises.
+- [7] **Midori**: I am curious about how the space affects our time together versus alone.
+- [8] **Toshio**: I am worried about how much time we lose just getting to the place.
+- [9] **Daisuke**: I need to know about the bathroom and where I can sit without being on a bed.
+- [10] **Sakura**: @Victoria, if we look at the rates, will that show who pays what?
+- [11] **Victoria**: It should help. I want to see if the bill is one lump sum or separate.
+- [12] **Midori**: I think looking at the room arrangements might explain the crowding I felt.
+- [13] **Toshio**: The travel time is the main issue for me. I want to check the schedules.
+- [14] **Daisuke**: I agree with @Midori. The layout matters a lot for my sleep.
+- [15] **Sakura**: I will look into the pricing of the houses and the last year's room costs.
+- [16] **Victoria**: I will check the all-in rates and the pricing of the offshore houses.
+- [17] **Midori**: I will look at the time alone in the shared house and the room arrangements.
+- [18] **Toshio**: I will check the ferry sailings and the train time to see the travel load.
+- [19] **Daisuke**: I will look at the bathing hours and the inn mealtimes to plan my day.
+- [20] **Sakura**: Okay, let's see what we find. I hope it is clear.
+- [21] **Victoria**: I will keep my notes ready for the next round.
+- [22] **Midori**: I am looking forward to understanding the balance better.
+- [23] **Toshio**: I will calculate the effective days available for us.
+- [24] **Daisuke**: I just want a place where I can wash and rest easily.
+## Round 2
+- [35] **Sakura**: I found that renting a house whole is about 5,400 yen a head a night.
+- [36] **Victoria**: I saw that all-in rates charge the same for everyone, which feels unfair.
+- [37] **Midori**: I learned that in the shared house year, there was nowhere to be alone.
+- [38] **Toshio**: The ferry takes two days total, but the train to the spa is only ninety minutes.
+- [39] **Daisuke**: I found that the island houses have one bathroom for everyone and cold water.
+- [40] **Sakura**: @Victoria, does the all-in rate mean we don't have to split meals?
+- [41] **Victoria**: Yes, but it means I pay for your big appetite. I prefer separate bills.
+- [42] **Midori**: That explains why I felt crowded. We need a place with some separation.
+- [43] **Toshio**: The train option saves us a full day compared to the ferry.
+- [44] **Daisuke**: One bathroom is too stressful for me. I need more privacy there.
+- [45] **Sakura**: Last year, separate rooms cost nearly 8,000 yen more for some of us.
+- [46] **Victoria**: That is a big difference. A single bill for a house would be fairer.
+- [47] **Midori**: But the inn has fixed mealtimes. Dinner at six, breakfast at half seven.
+- [48] **Toshio**: The city has trains every few minutes, so we can move freely there.
+- [49] **Daisuke**: The inn baths open early, which is good, but the room is just futons.
+- [50] **Sakura**: I think the city might be best for fairness, but the house is cheaper.
+- [51] **Victoria**: I am leaning towards the house if the total cost is clear and fixed.
+- [52] **Midori**: I worry the house will feel too crowded again, like last time.
+- [53] **Toshio**: The spa town seems efficient. Short travel, and we can move together.
+- [54] **Daisuke**: I am afraid of the shared bathroom on the island. The inn might be safer.
+## Round 3
+- [60] **Sakura**: So we have the Island, the City, and the Hot Spring Town.
+- [61] **Victoria**: The Island has a fixed price per head, which I like for budgeting.
+- [62] **Midori**: The Hot Spring Town has fixed meals, which might reduce our time together.
+- [63] **Toshio**: The City allows us to split up, which might be good for those who need space.
+- [64] **Daisuke**: The Island has only one bathroom. That is a dealbreaker for me.
+- [65] **Sakura**: @Daisuke, that is a strong point. I don't want you to be miserable.
+- [66] **Victoria**: I can accept the City if the costs are transparent, but it is expensive.
+- [67] **Midori**: The Hot Spring Town has a public bath, so we don't have to share the room bath.
+- [68] **Toshio**: The train to the spa is quick. We lose less time travelling than on the ferry.
+- [69] **Daisuke**: The public bath in the spa town sounds much better than the island house.
+- [70] **Sakura**: I think the Hot Spring Town balances cost and comfort well.
+- [71] **Victoria**: I am still worried about the all-in meal cost, but the travel time is good.
+- [72] **Midori**: I prefer the Hot Spring Town. It feels like a proper holiday for us.
+- [73] **Toshio**: I agree. The efficiency of the train and the bath access work for me.
+- [74] **Daisuke**: I will vote for the Hot Spring Town. The bathroom situation is better.
+- [75] **Sakura**: I am happy to go with the group. The Hot Spring Town seems right.
+- [76] **Victoria**: I will accept the Hot Spring Town, provided we clarify the meal costs.
+- [77] **Midori**: I am glad we are choosing a place that allows for both togetherness and space.
+- [78] **Toshio**: Let's lock it in. The logistics are the most manageable.
+- [79] **Daisuke**: Thank you. I feel much better about this choice.
+### Vote
+- Sakura -> C
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

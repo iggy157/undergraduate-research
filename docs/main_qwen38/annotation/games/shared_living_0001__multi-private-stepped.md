@@ -1,0 +1,73 @@
+# shared_living_0001__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I'm worried about hidden costs. Let's check the receipts and rate sheets.
+- [6] **Shizue**: I want to see how the seniors feel about mixing years.
+- [7] **Ryuji**: I need to know who is actually available to run this camp.
+- [8] **Rin**: I want to see the attendance sheets to check how tired everyone was.
+- [9] **Misaki**: I need to verify the actual expenses from last year's trip.
+- [10] **Mio**: @Ryuji, do you have the membership list handy for train times?
+- [11] **Shizue**: @Mio, I think the seniors' opinions are crucial for our harmony.
+- [12] **Ryuji**: @Mio, yes, I will cross-reference the list with the duty roster.
+- [13] **Rin**: @Shizue, I hope the seniors didn't complain about the noise levels.
+- [14] **Misaki**: @Mio, I will look into the accounts from the inland clubs.
+- [15] **Mio**: I'll check the public bed rates and the transport receipts.
+- [16] **Shizue**: I will look into the seniors' comments and the hall timetable.
+- [17] **Ryuji**: I will check the membership list and the last year's cooking duty.
+- [18] **Rin**: I will check the attendance sheets and the public bed rates.
+- [19] **Misaki**: I will check the inland club accounts and the transport receipts.
+- [20] **Mio**: Okay, let's see what we find out.
+- [21] **Shizue**: I hope we can find a place where everyone feels welcome.
+- [22] **Ryuji**: I will focus on the labor distribution to avoid burnout.
+- [23] **Rin**: I really want a place with good beds and quiet rooms.
+- [24] **Misaki**: I need to ensure we don't overspend again.
+## Round 2
+- [35] **Mio**: The transport costs are huge! 38% of the budget just for trains.
+- [36] **Shizue**: The seniors say mixing only happens when we sleep together.
+- [37] **Ryuji**: The canteen is closed. We must find a place with staff.
+- [38] **Rin**: The attendance sheets show many people were too tired to show up.
+- [39] **Misaki**: The inland clubs slept eight to a room. That explains the complaints.
+- [40] **Mio**: @Misaki, eight to a room? That sounds terrible for privacy.
+- [41] **Shizue**: @Mio, I agree. But if we don't sleep together, we won't talk.
+- [42] **Ryuji**: @Shizue, if we have staff, we can sleep separately and still talk.
+- [43] **Rin**: @Ryuji, I found the public beds are 1,100 yen a night.
+- [44] **Misaki**: @Rin, that is cheap, but the transport eats the savings.
+- [45] **Mio**: We need a place close to the station to save on transport.
+- [46] **Shizue**: I think a place with a common room is essential for bonding.
+- [47] **Ryuji**: A place with kitchen staff is non-negotiable for me.
+- [48] **Rin**: I want a place where I can actually sleep well.
+- [49] **Misaki**: I want a place where the total cost is predictable and low.
+- [50] **Mio**: Let's look for a public facility near the station.
+- [51] **Shizue**: A public facility with a large common room would be perfect.
+- [52] **Ryuji**: A public facility with staffed kitchens is the only option.
+- [53] **Rin**: A public facility with quiet, separate rooms is what I need.
+- [54] **Misaki**: A public facility with a fixed rate is the only way to control costs.
+## Round 3
+- [60] **Mio**: Option B seems best. It's public, so the rates are fixed and fair.
+- [61] **Shizue**: Option B has shared dormitories. That is where the seniors said we mix.
+- [62] **Ryuji**: Option B has staff. That solves the cooking duty problem completely.
+- [63] **Rin**: Option B has public beds. I hope they are comfortable enough for me.
+- [64] **Misaki**: Option B has a fixed rate. I can calculate the total cost exactly.
+- [65] **Mio**: @Misaki, yes, the fixed rate is the biggest win for me.
+- [66] **Shizue**: @Mio, I am glad we agree. The shared space is key for us.
+- [67] **Ryuji**: @Shizue, I am glad we agree. The staff is key for me.
+- [68] **Rin**: @Ryuji, I am glad we agree. The beds are key for me.
+- [69] **Misaki**: @Rin, I am glad we agree. The budget is key for me.
+- [70] **Mio**: I think we should go with Option B. It balances everyone's needs.
+- [71] **Shizue**: I agree. Option B is the best choice for our club's harmony.
+- [72] **Ryuji**: I agree. Option B is the only choice that protects the organizers.
+- [73] **Rin**: I agree. Option B is the only choice that lets me sleep.
+- [74] **Misaki**: I agree. Option B is the only choice that protects the account.
+- [75] **Mio**: Let's vote for Option B.
+- [76] **Shizue**: I vote for Option B.
+- [77] **Ryuji**: I vote for Option B.
+- [78] **Rin**: I vote for Option B.
+- [79] **Misaki**: I vote for Option B.
+### Vote
+- Mio -> B
+- Shizue -> B
+- Ryuji -> B
+- Rin -> B
+- Misaki -> B
+## Result
+- adopted: B

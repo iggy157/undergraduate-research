@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I worry about our quarter-end reporting. Who can verify the new holding's numbers?
+- [6] **Asuka**: I need to see if our past wins actually retained customers.
+- [7] **Minako**: I am concerned about our cash flow. We need to know our borrowing capacity.
+- [8] **Mio**: I am worried about hiring. Who can we actually find right now?
+- [9] **Toshio**: I need to understand why previous projects stalled. What blocked them?
+- [10] **Servas**: @Minako, if we borrow more, does that change our audit scope?
+- [11] **Asuka**: @Toshio, stalled projects often mean poor product-market fit.
+- [12] **Minako**: @Servas, yes, it likely does. I need to check the credit terms.
+- [13] **Mio**: @Asuka, retention is key, but I need to know if we can staff up.
+- [14] **Toshio**: @Asuka, not always. Sometimes it is external friction.
+- [15] **Servas**: I will look into the audit needs and the credit line terms.
+- [16] **Asuka**: I will check account retention and the delivery records of holdings.
+- [17] **Minako**: I will investigate the credit line terms and the reserve accounts.
+- [18] **Mio**: I will look into the retained recruiters and the security review time.
+- [19] **Toshio**: I will investigate the delivery records and the security review time.
+- [20] **Servas**: Let us see what the data says before we decide.
+- [21] **Asuka**: Agreed. Data over narrative.
+- [22] **Minako**: I will ensure we have the financial clarity we need.
+- [23] **Mio**: I hope we find someone who can actually hire fast.
+- [24] **Toshio**: I will focus on the external blockers.
+## Round 2
+- [35] **Servas**: The audit findings are troubling. New hardware means six weeks of extra appraisal.
+- [36] **Asuka**: The retention data is clear. The bank-cycle tool held its customers.
+- [37] **Minako**: The credit line is useless for our current holdings. We cannot borrow against them.
+- [38] **Mio**: The recruiters can't find the field staff we need. That is a dealbreaker.
+- [39] **Toshio**: The controller shortage cost five months. The bank tool never missed a release.
+- [40] **Servas**: @Minako, that confirms my fear. We cannot close the books on time.
+- [41] **Asuka**: @Toshio, the bank tool is the only one with consistent delivery.
+- [42] **Minako**: @Servas, we need to find a different source of liquidity.
+- [43] **Mio**: @Asuka, but if we can't hire the people to run it, it fails.
+- [44] **Toshio**: @Mio, the bank tool runs in a partner's cycle. It needs no new field staff.
+- [45] **Servas**: The bank tool avoids the appraisal trap. It is pure software.
+- [46] **Asuka**: It also has the best retention. It is the logical choice.
+- [47] **Minako**: It does not require the follow-on calls that are draining our reserves.
+- [48] **Mio**: It is the only one that doesn't need a new field crew.
+- [49] **Toshio**: It bypasses the external hardware friction. It is the safest path.
+- [50] **Servas**: I am convinced. The bank tool is the only one that fits our constraints.
+- [51] **Asuka**: Agreed. The data supports it.
+- [52] **Minako**: It protects our cash flow. I support it.
+- [53] **Mio**: It solves my hiring problem. I am in.
+- [54] **Toshio**: It avoids the delay I was worried about. I agree.
+## Round 3
+- [60] **Servas**: Ledger Bridge is pure software. It avoids the appraisal delay I feared.
+- [61] **Asuka**: Ledger Bridge has the best retention. It is the logical choice.
+- [62] **Minako**: Ledger Bridge does not require the follow-on calls that are draining our reserves.
+- [63] **Mio**: Ledger Bridge is the only one that doesn't need a new field crew.
+- [64] **Toshio**: Ledger Bridge bypasses the external hardware friction. It is the safest path.
+- [65] **Servas**: @Minako, yes, it keeps our quarter-end clean.
+- [66] **Asuka**: @Toshio, the delivery records confirm it.
+- [67] **Minako**: @Servas, exactly. We need that stability.
+- [68] **Mio**: @Asuka, and it solves my hiring problem.
+- [69] **Toshio**: @Mio, it avoids the delay I was worried about.
+- [70] **Servas**: I am convinced. Ledger Bridge is the only one that fits our constraints.
+- [71] **Asuka**: Agreed. The data supports it.
+- [72] **Minako**: It protects our cash flow. I support it.
+- [73] **Mio**: It solves my hiring problem. I am in.
+- [74] **Toshio**: It avoids the delay I was worried about. I agree.
+- [75] **Servas**: Let us vote. I am confident in this choice.
+- [76] **Asuka**: I will vote for Ledger Bridge.
+- [77] **Minako**: I will vote for Ledger Bridge.
+- [78] **Mio**: I will vote for Ledger Bridge.
+- [79] **Toshio**: I will vote for Ledger Bridge.
+### Vote
+- Servas -> D
+- Asuka -> D
+- Minako -> D
+- Mio -> D
+- Toshio -> D
+## Result
+- adopted: D

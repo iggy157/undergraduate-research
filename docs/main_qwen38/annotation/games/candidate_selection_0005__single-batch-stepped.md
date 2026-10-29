@@ -1,0 +1,73 @@
+# candidate_selection_0005__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I worry about timetables slipping when external conditions change.
+- [6] **Benjamin**: We should check if similar ideas failed before.
+- [7] **Shion**: Staff capacity is the real bottleneck here.
+- [8] **Minako**: Funding structures often hide long-term costs.
+- [9] **Daisuke**: Location and opening hours decide who can actually reach us.
+- [10] **Yumi**: @Benjamin, do you have specific examples in mind?
+- [11] **Benjamin**: Just a hunch, but records exist.
+- [12] **Shion**: @Minako, how do you usually spot those traps?
+- [13] **Minako**: I look at the grant terms and endowment rules.
+- [14] **Daisuke**: I need to see the bus links and road closures.
+- [15] **Yumi**: I’ll check the winter road closures and delivery windows.
+- [16] **Benjamin**: I want to see the two programmes from six years ago.
+- [17] **Shion**: I’ll look at the volunteer register and tool certification.
+- [18] **Minako**: I’ll review the county grant terms and running lines.
+- [19] **Daisuke**: I’ll check the bus links and evening room bookings.
+- [20] **Yumi**: Let’s see what the data says.
+- [21] **Benjamin**: Agreed. Facts over feelings.
+- [22] **Shion**: I’ll be ready with my findings.
+- [23] **Minako**: I will analyze the financial shape.
+- [24] **Daisuke**: I hope the access data is clear.
+## Round 2
+- [35] **Yumi**: The road closures were bad, but delivery windows slip too.
+- [36] **Benjamin**: The old digitisation project left half the images unindexed.
+- [37] **Shion**: No one on payroll is trained to supervise outside facilitators.
+- [38] **Minako**: The grant only covers fees for twelve months, then it’s flat budget.
+- [39] **Daisuke**: Two outer wards lost their bus link; an hour’s round trip now.
+- [40] **Yumi**: @Minako, that twelve-month limit sounds risky for long-term plans.
+- [41] **Benjamin**: @Shion, so we can’t rely on external staff without training?
+- [42] **Shion**: Correct. The skills aren’t on the roster.
+- [43] **Minako**: Exactly. The endowment covers capital, not ongoing operations.
+- [44] **Daisuke**: @Yumi, did the community halls keep their timetables despite closures?
+- [45] **Yumi**: Yes, they did. That’s a good sign for local resilience.
+- [46] **Benjamin**: But the equipment line overran by a third last year.
+- [47] **Shion**: The retired tradespeople are running the repair clinic, though.
+- [48] **Minako**: So we have volunteer energy but no supervisory structure.
+- [49] **Daisuke**: The evening rooms are full, but remote use peaks later.
+- [50] **Yumi**: We need a plan that doesn’t depend on perfect weather or delivery.
+- [51] **Benjamin**: And one that doesn’t repeat the indexing failure.
+- [52] **Shion**: We must ensure staff can actually manage the new load.
+- [53] **Minako**: The funding must be sustainable beyond the first year.
+- [54] **Daisuke**: And it must reach people who can’t easily come to us.
+## Round 3
+- [60] **Yumi**: Candidate D, the Mobile Branch, seems to address the access issue.
+- [61] **Benjamin**: But the vehicle running costs overran last year.
+- [62] **Shion**: @Benjamin, the mobile service needs staff, which we lack.
+- [63] **Minako**: The grant covers session fees, but vehicle maintenance is capital?
+- [64] **Daisuke**: It solves the bus link problem for the outer wards.
+- [65] **Yumi**: @Minako, if the vehicle is capital, the endowment might cover it.
+- [66] **Benjamin**: But the running costs are the problem, not the purchase.
+- [67] **Shion**: We have no trained supervisors for the mobile staff either.
+- [68] **Minako**: The flat budget after year one will struggle with fuel and repairs.
+- [69] **Daisuke**: The attendance at former outreach stops was high, though.
+- [70] **Yumi**: High attendance suggests demand, but can we sustain it?
+- [71] **Benjamin**: The old digitisation project failed due to lack of follow-through.
+- [72] **Shion**: Candidate B, the Digital Archive, might be safer for staff.
+- [73] **Minako**: But the scanning contractors slip their delivery windows.
+- [74] **Daisuke**: Remote catalogue use peaks late, so a portal helps.
+- [75] **Yumi**: I’m leaning towards D, but the costs worry me.
+- [76] **Benjamin**: I’m concerned about repeating past failures with B.
+- [77] **Shion**: I prefer C, Language Circles, if we can find facilitators.
+- [78] **Minako**: C relies on partner organizations, which might be unstable.
+- [79] **Daisuke**: D is the only one that directly fixes the access gap.
+### Vote
+- Yumi -> D
+- Benjamin -> B
+- Shion -> C
+- Minako -> D
+- Daisuke -> D
+## Result
+- adopted: D

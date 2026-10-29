@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **May**: This room is a mess. Whoever grabs it first wins, and I always end up cleaning.
+- [6] **Misaki**: The noise from the door is constant. It makes focusing on my work nearly impossible.
+- [7] **Servas**: We must ask where our hours go. Is it the walking, or the cleaning?
+- [8] **Sakura**: I need to see the money. We are paying for space we cannot use properly.
+- [9] **Kenji**: We are right next to each other, yet we barely speak. That feels wrong.
+- [10] **May**: @Servas, exactly. I want to know who is actually using this space and how often.
+- [11] **Misaki**: @Sakura, the invoices might show if we are overpaying for this chaos.
+- [12] **Servas**: I will look at the usage tally. We need data, not just feelings.
+- [13] **Sakura**: I will check the invoices and the fridge clear-out. Old costs need clearing.
+- [14] **Kenji**: I want to see where the last awkward conversation happened. It matters.
+- [15] **May**: @Kenji, that sounds personal, but maybe it explains the tension. I will check the bins.
+- [16] **Misaki**: I will look at the partition wall. Sound travels through thin walls.
+- [17] **Servas**: I will also check the facilities callouts. Broken things waste time.
+- [18] **Sakura**: @May, crumbs are a symptom. I will look at the lunch round trip too.
+- [19] **Kenji**: I will check the unspoken talk since the refit. We need to hear it.
+- [20] **May**: Let’s get the facts. I am done guessing who is responsible for what.
+- [21] **Misaki**: Agreed. Silence is better than shouting, but only if the room allows it.
+- [22] **Servas**: Wisdom comes from knowing the truth. Let us find it before we decide.
+- [23] **Sakura**: Numbers don’t lie. I hope the quotes for fit-outs are reasonable.
+- [24] **Kenji**: I hope we find a way to be friends again, not just neighbors.
+## Round 2
+- [35] **May**: The tally is brutal. Two people used it eleven times, the rest four. It’s not shared.
+- [36] **Misaki**: The wall is thin. I can hear every word spoken inside. It’s not a private space.
+- [37] **Servas**: Eleven callouts for equipment, none for the empty room. We pay for what we don’t use.
+- [38] **Sakura**: I found the invoices. We paid 68,000 yen for outside hire. That is a lot for four people.
+- [39] **Kenji**: I found where the last awkward conversation happened. It was right here, in the open.
+- [40] **May**: @Sakura, 68,000 yen? That’s why I’m tired. We are paying for a mess.
+- [41] **Misaki**: @May, the crumbs are everywhere. It’s not just noise, it’s the physical mess too.
+- [42] **Servas**: The walking is the real cost. We walk to the fridge, to the bins, to the door.
+- [43] **Sakura**: The fridge clear-out showed half the food was nobody’s. We waste money on waste.
+- [44] **Kenji**: The unplanned talk since the refit is gone. We only talk by the printer now.
+- [45] **May**: So we have a room that is too loud, too messy, and too expensive.
+- [46] **Misaki**: It is a sensory nightmare. I need to hear my own thoughts, not the room.
+- [47] **Servas**: We must stop the leakage of time. Every step is a step away from work.
+- [48] **Sakura**: If we fix the wall and the bins, maybe the cost drops. I need the quotes.
+- [49] **Kenji**: If we fix the space, maybe we can talk again. I need a place to say hard things.
+- [50] **May**: I want a system. No more first-come, first-served. No more me cleaning up.
+- [51] **Misaki**: I want quiet. If we can’t have that, I will work from home.
+- [52] **Servas**: Let us look at the options. We have the data now. Let us choose wisely.
+- [53] **Sakura**: I will wait for the options. I want to see the total cost of each path.
+- [54] **Kenji**: I will wait too. I want a room where we can be honest with each other.
+## Round 3
+- [60] **May**: Option C. A shared calendar means no more guessing. No more me cleaning up after strangers.
+- [61] **Misaki**: Option B. I need silence. If we are all sitting alone, the noise stops.
+- [62] **Servas**: Option A. If we eat together, we stop walking to the fridge. It saves time and builds community.
+- [63] **Sakura**: Option C. The quotes for the meeting space are lower than the kitchen. It is the smart financial choice.
+- [64] **Kenji**: Option C. A table means we can sit together. It gives us a reason to talk.
+- [65] **May**: @Sakura, the cost is good, but the calendar is the real win. It’s fair.
+- [66] **Misaki**: @Kenji, a table doesn’t stop the noise. I need to hear my own thoughts.
+- [67] **Servas**: @Misaki, the kitchen is about connection. We are not just workers, we are people.
+- [68] **Sakura**: @Servas, connection is nice, but the budget is tight. We can’t afford the kitchen.
+- [69] **Kenji**: @Misaki, I hear you. But if we never talk, we stay strangers. I need to say things.
+- [70] **May**: I am voting for C. It removes the ambiguity. It removes the burden from me.
+- [71] **Misaki**: I am voting for B. It removes the intrusion. It gives me back my focus.
+- [72] **Servas**: I am voting for A. It removes the walking. It gives us back our hours.
+- [73] **Sakura**: I am voting for C. It removes the waste. It gives us back our money.
+- [74] **Kenji**: I am voting for C. It removes the distance. It gives us back our friendship.
+- [75] **May**: Let’s do this. I want a room that works for everyone, not just the loudest.
+- [76] **Misaki**: I hope the quiet holds. I need to be able to think without interruption.
+- [77] **Servas**: I hope the food is good. I hope we find time to sit and talk.
+- [78] **Sakura**: I hope the numbers work out. I hope we don’t regret this in a month.
+- [79] **Kenji**: I hope we find the words. I hope we can be friends again, not just neighbors.
+### Vote
+- May -> C
+- Misaki -> B
+- Servas -> A
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0012__multi-private (shared_living)
+
+## Round 1
+- [5] **Kenji**: Hey everyone. I’m worried we’re picking a bin plan that makes us hate each other. Can we focus on keeping the lane friendly?
+- [6] **Shizue**: Oh, Kenji, you’re right. We must keep our lane pleasant. I worry about the daily smell, too. Let’s find a gentle solution.
+- [7] **Asuka**: I need to quantify the time cost. We cannot agree to a burden we haven’t measured. What are the specific hours involved?
+- [8] **Rin**: I want to check if one house is stuck with the bin forever! That feels super unfair. We need to look at the frontages to see who gets what.
+- [9] **Servas**: @Rin, fairness is vital. But before we divide the burden, we must understand the total cost. Let us look at the ledger and the subsidy.
+- [10] **Kenji**: @Servas, I agree on the ledger. But @Rin, checking frontages might help us share the work fairly. Let’s look at those too?
+- [11] **Shizue**: @Rin, measuring the frontages sounds wise for fairness. I’d also like to see the ward complaint log to understand what has upset people before.
+- [12] **Asuka**: @Servas, the ledger shows money, not hours. I need the truck arrival time and the ward filing requirements to calculate the actual time commitment.
+- [13] **Rin**: @Asuka, time is important, but I really need to see the frontages! I want to make sure nobody is stuck with the bin forever.
+- [14] **Servas**: @Asuka, time is real, but money is the root. I will examine the ledger and the ward subsidy to see our true financial standing.
+- [15] **Kenji**: @Shizue, the complaint log sounds good for understanding past issues. I’ll check that and the frontages to see how we can share things fairly.
+- [16] **Shizue**: @Kenji, thank you. I will look into the ward complaint log and the station block’s meeting minutes to learn from their experience.
+- [17] **Asuka**: I will examine the truck arrival time and the ward filing requirements. These determine the precise operational hours and administrative burden we must accept.
+- [18] **Rin**: I will check the measurements of the five frontages and the statements at the residents' meeting. I need proof that nobody is stuck with the bin forever!
+- [19] **Servas**: I will examine the block ledger and the ward subsidy. We must know our true financial standing before deciding.
+- [20] **Kenji**: @Everyone, I’m glad we’re all looking into different things. I’ll check the complaint log and frontages. Let’s hope this helps us stay friends!
+- [21] **Shizue**: @Kenji, I am glad we are working together. I will look into the ward complaint log and the station block’s meeting minutes to learn from their experience.
+- [22] **Asuka**: I will examine the truck arrival time and the ward filing requirements. These determine the precise operational hours and administrative burden we must accept.
+- [23] **Rin**: I’m checking the frontages and meeting statements! I need to prove nobody is stuck with the bin forever. Let’s make this fair for everyone!
+- [24] **Servas**: I will examine the block ledger and the ward subsidy. We must know our true financial standing before deciding.
+## Round 2
+- [35] **Kenji**: @Shizue, the complaint log shows one house filed most complaints. @Rin, the frontages vary wildly. How do we share fairly without blaming anyone?
+- [36] **Shizue**: @Kenji, that is a heavy burden for one family. I hope the station block’s minutes help us avoid similar arguments about small chores.
+- [37] **Asuka**: @Kenji, the truck arrives before most wake. Filing requires four months and five signatures. This is a significant, recurring time cost.
+- [38] **Rin**: @Kenji, the frontages are totally different! One house is tiny. @Asuka, four months is forever! We can’t just let one family carry this forever.
+- [39] **Servas**: @Asuka, four months is a long wait. @Rin, the ledger shows thirty-four thousand yen yearly in waste. We must balance time and money.
+- [40] **Kenji**: @Rin, I hear you. But @Servas, thirty-four thousand yen is a lot. How do we split that fairly without starting another fight?
+- [41] **Shizue**: @Kenji, I worry about the daily reality. The station block argued over sweeping. We must choose a plan that keeps our mornings peaceful, not just fair on paper.
+- [42] **Asuka**: @Shizue, peace is not a metric. I need to know the exact recurring hours for maintenance. Can we calculate the weekly time cost per household?
+- [43] **Rin**: @Asuka, math is cool, but people matter more! @Kenji, if one house is tiny, they can’t carry the big bin. We need a rotating schedule!
+- [44] **Servas**: @Rin, rotation is wise. @Kenji, the subsidy covers forty percent, capped at ninety thousand. We must calculate the true share before dividing.
+- [45] **Kenji**: @Rin, rotation sounds good! @Servas, if the subsidy helps, maybe we split the rest by frontage? I just want us to still talk after this.
+- [46] **Shizue**: @Kenji, a rotating schedule sounds kind. I hope it prevents the small daily arguments the station block had. Let us keep our mornings gentle.
+- [47] **Asuka**: @Rin, rotation is a variable, not a solution. I need the specific weekly hours for setup and maintenance to calculate the true burden.
+- [48] **Rin**: @Asuka, I know you like numbers, but the meeting showed nobody wants to be the "police"! We need a plan where everyone shares the work, not just the money!
+- [49] **Servas**: @Asuka, time is precious, but money is the root. With the subsidy, our true cost drops. Let us agree on a fair split before calculating hours.
+- [50] **Kenji**: @Everyone, I’m glad we’re finding common ground. Let’s pick a plan that keeps our doors open, not just our ledgers balanced. Ready for options?
+- [51] **Shizue**: @Kenji, I am ready. I hope the options show us a way to keep our mornings quiet and our neighbours smiling.
+- [52] **Asuka**: I am ready. I will evaluate the options strictly by their recurring time cost. We must not ignore the operational burden.
+- [53] **Rin**: I’m ready! I just need to make sure the tiny house isn’t stuck with the bin forever. Let’s see the options!
+- [54] **Servas**: I am ready. Let us see which path balances our wallets and our friendships.
+## Round 3
+- [60] **Kenji**: @Everyone, I love Option B! Moving the bin means everyone shares the hassle. It keeps us talking and prevents one house from feeling stuck.
+- [61] **Shizue**: @Kenji, Option B sounds kind, but I worry about the daily disruption. I hope we can keep our mornings peaceful without constant moving.
+- [62] **Asuka**: Option A requires four months and five signatures. Option B demands repeated site notices. Option C minimizes administrative overhead. I reject A and B for their recurring time costs.
+- [63] **Rin**: @Asuka, Option B is perfect! The bin moves, so nobody is stuck forever! @Kenji, right? We need to share the work, not just the money!
+- [64] **Servas**: @Asuka, time is real, but so is the thirty-four thousand yen waste. Option A stops the leak. Let us weigh the long-term peace against the initial effort.
+- [65] **Kenji**: @Asuka, I hear your worry about time. But @Rin, Option B feels right for our friendship. Can we find a way to make the moving easier?
+- [66] **Shizue**: @Asuka, I understand your caution. But @Kenji, I fear the moving will disturb our quiet mornings. Option C might offer the gentlest daily rhythm for us all.
+- [67] **Asuka**: @Shizue, Option C’s narrow window conflicts with the seven-forty truck arrival. It forces pre-dawn labor. I reject it. Option A’s four-month delay is the only viable path.
+- [68] **Rin**: @Asuka, pre-dawn is impossible! Option B is the only fair choice. Nobody gets stuck with the bin forever. Let’s vote for B!
+- [69] **Servas**: @Asuka, the subsidy makes Option A affordable. @Rin, rotation is fair, but the ledger shows waste. Let us choose the path that stops the leak.
+- [70] **Kenji**: @Rin, I agree! Option B keeps us connected. @Asuka, I know time is tight, but moving the bin together builds trust. Let’s choose B!
+- [71] **Shizue**: @Kenji, I understand your hope. But I worry the moving will disturb our quiet mornings. Option C feels gentlest for daily peace.
+- [72] **Asuka**: @Rin, Option B requires a new site notice for every change. That is recurring administrative labor. I reject it. Option A is the only stable, low-maintenance solution.
+- [73] **Rin**: @Asuka, you’re being so rigid! Option B is the only fair one. Nobody gets stuck forever. I’m voting for B!
+- [74] **Servas**: @Asuka, the subsidy covers forty percent. Option A stops the thirty-four thousand yen waste. Let us choose the path that heals our wallets and our peace.
+- [75] **Kenji**: @Asuka, I hear your worry about paperwork. But @Rin, Option B keeps our doors open. Let’s choose the plan that keeps us friends, not just efficient.
+- [76] **Shizue**: @Kenji, I understand your warmth. But I fear the moving will disturb our quiet mornings. Option C feels gentlest for daily peace.
+- [77] **Asuka**: @Kenji, friendship is not a metric. Option A is the only choice that minimizes recurring administrative burden. I vote for A.
+- [78] **Rin**: @Asuka, you’re ignoring the tiny house! Option B is the only fair choice. I’m voting for B!
+- [79] **Servas**: @Asuka, the subsidy makes Option A affordable. It stops the waste and heals our wallets. I vote for A.
+### Vote
+- Kenji -> B
+- Shizue -> C
+- Asuka -> A
+- Rin -> B
+- Servas -> A
+## Result
+- adopted: A

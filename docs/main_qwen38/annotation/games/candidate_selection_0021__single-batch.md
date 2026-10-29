@@ -1,0 +1,73 @@
+# candidate_selection_0021__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the science to the hands that hold it.
+- [6] **Sakura**: I wonder if the money actually buys what it used to.
+- [7] **Daisuke**: I am worried our past guesses about promise were wrong.
+- [8] **Takumi**: I want to know where projects usually get stuck.
+- [9] **Minako**: The shared infrastructure is the real bottleneck here.
+- [10] **Servas**: @Sakura, that is a sharp observation about the value.
+- [11] **Sakura**: @Minako, yes, the facilities are always the weak link.
+- [12] **Daisuke**: I will check the records of what actually finished.
+- [13] **Takumi**: I need to see the logs on interruptions.
+- [14] **Minako**: I will review the current state of the shared services.
+- [15] **Servas**: I will look at who is actually available to work.
+- [16] **Sakura**: I want to see the ledgers and the computing rates.
+- [17] **Daisuke**: I will check the closeout files and the schedule overruns.
+- [18] **Takumi**: I will look at the incident logs and field station records.
+- [19] **Minako**: I will check the accreditation and the repository turnaround.
+- [20] **Servas**: Let us see what the data says before we decide.
+- [21] **Sakura**: I hope the numbers are clear.
+- [22] **Daisuke**: I am nervous about what I might find.
+- [23] **Takumi**: We need to be ready for surprises.
+- [24] **Minako**: We will proceed with the investigation now.
+## Round 2
+- [35] **Servas**: The staffing rolls are concerning; many technicians have left.
+- [36] **Sakura**: The computing is free, but animal day rates are high.
+- [37] **Daisuke**: The closeout files show catalogue awards last longer.
+- [38] **Takumi**: The spectroscopy suite was idle for eleven weeks.
+- [39] **Minako**: The repository is fast now, but glasshouses are full.
+- [40] **Servas**: @Takumi, that idle time is a major risk.
+- [41] **Sakura**: @Minako, the glasshouse booking is a problem for D.
+- [42] **Daisuke**: I am glad the catalogue approach seems more stable.
+- [43] **Takumi**: The field sites lost a season to flooding.
+- [44] **Minako**: The animal facility is accredited and has vets now.
+- [45] **Servas**: The modelling analysts are seconded abroad until autumn.
+- [46] **Sakura**: The bench-fee subsidy for glasshouses is still active.
+- [47] **Daisuke**: Breeding colonies overrun schedules twice as often.
+- [48] **Takumi**: The indoor holding rooms ran uninterrupted.
+- [49] **Minako**: The repository migration is complete and efficient.
+- [50] **Servas**: We must consider the human resources carefully.
+- [51] **Sakura**: The financial picture is mixed but manageable.
+- [52] **Daisuke**: I feel more confident about the data now.
+- [53] **Takumi**: The interruptions are significant but predictable.
+- [54] **Minako**: The infrastructure is ready for the right project.
+## Round 3
+- [60] **Servas**: Candidate A relies on field sites, which are risky.
+- [61] **Sakura**: Candidate B uses free computing, which is a plus.
+- [62] **Daisuke**: Candidate A is a catalogue project, which is stable.
+- [63] **Takumi**: Candidate B had the spectroscopy issue, but it is fixed.
+- [64] **Minako**: Candidate D needs glasshouses, which are fully booked.
+- [65] **Servas**: @Daisuke, the stability of A is appealing.
+- [66] **Sakura**: @Minako, the glasshouse issue makes D difficult.
+- [67] **Daisuke**: I am leaning towards A for its long-term value.
+- [68] **Takumi**: B is strong, but the past idle time worries me.
+- [69] **Minako**: C is risky due to breeding colony overruns.
+- [70] **Servas**: The staffing for B is weak due to secondments.
+- [71] **Sakura**: The financials for A are straightforward.
+- [72] **Daisuke**: A has a track record of lasting impact.
+- [73] **Takumi**: A avoids the major technical interruptions.
+- [74] **Minako**: A fits well with the current infrastructure state.
+- [75] **Servas**: I believe A is the most robust choice.
+- [76] **Sakura**: I agree, A seems the safest bet.
+- [77] **Daisuke**: I will vote for A.
+- [78] **Takumi**: I am convinced by the stability of A.
+- [79] **Minako**: I support A for its alignment with resources.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

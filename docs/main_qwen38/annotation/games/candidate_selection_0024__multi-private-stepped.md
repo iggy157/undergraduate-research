@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I worry the ground might surprise us again.
+- [6] **May**: Pretty plans are cheap; maintenance is where the money goes.
+- [7] **Shizue**: I’d like to see how the last projects are holding up.
+- [8] **Victoria**: Who actually shows up to water the plants on a Tuesday?
+- [9] **Shunichi**: Let’s not pick a design that fights the rain.
+- [10] **Minato**: @Shizue, do you think the old works are still okay?
+- [11] **May**: @Victoria, if the staff is thin, the budget balloons.
+- [12] **Shizue**: Yes, the drawings look fine, but the reality is different.
+- [13] **Victoria**: I need to know the staffing levels before I commit.
+- [14] **Shunichi**: Agreed. The ground doesn’t care about our aesthetic preferences.
+- [15] **Minato**: I want to check who is digging and when.
+- [16] **May**: I’ll look at the upkeep costs per hectare.
+- [17] **Shizue**: I will review the condition of the earlier programme.
+- [18] **Victoria**: I need the groundskeeping roll and the volunteer groups.
+- [19] **Shunichi**: I’ll check the drainage records and the heat readings.
+- [20] **Minato**: It feels important to know the timeline risks.
+- [21] **May**: Exactly. The ribbon cutting is the easy part.
+- [22] **Shizue**: I hope we find something that lasts, not just looks good.
+- [23] **Victoria**: I am anxious about the long-term care burden.
+- [24] **Shunichi**: We need data, not just vibes. Let’s see what the ground says.
+## Round 2
+- [35] **Minato**: The firms say the clay is tricky, but they can dig.
+- [36] **May**: @Victoria, the roll is down to seven. That’s a problem.
+- [37] **Shizue**: The old basin is fine, but the apron is failing.
+- [38] **Victoria**: @May, I found two volunteer groups already working weekends.
+- [39] **Shunichi**: The drainage data is ugly. The culvert is clogged.
+- [40] **Minato**: @Shunichi, does the clog mean we can’t build?
+- [41] **May**: @Victoria, volunteers help, but they don’t mow the turf.
+- [42] **Shizue**: The apron failure suggests the soil prep was rushed.
+- [43] **Victoria**: The volunteers handle habitat and youth sports, not daily upkeep.
+- [44] **Shunichi**: It means we need a bigger pipe, not a smaller pond.
+- [45] **Minato**: I’m glad the basin is still holding.
+- [46] **May**: The bought-in services are expensive. We need to cut the green.
+- [47] **Shizue**: I agree with May. Less lawn, more hard surface.
+- [48] **Victoria**: If we cut the lawn, the volunteers have less to do.
+- [49] **Shunichi**: The crossing counts show people want a path, not a meadow.
+- [50] **Minato**: A path seems safer for the kids.
+- [51] **May**: A path is cheaper to keep than a meadow.
+- [52] **Shizue**: A path is honest. It doesn’t pretend to be a forest.
+- [53] **Victoria**: A path is what the volunteers can actually maintain.
+- [54] **Shunichi**: A path is what the ground can actually support.
+## Round 3
+- [60] **Minato**: The clay worries me for the wetland.
+- [61] **May**: The wetland will cost a fortune to maintain.
+- [62] **Shizue**: The wetland is the only one that respects the ground.
+- [63] **Victoria**: The wetland needs constant monitoring. Who does that?
+- [64] **Shunichi**: The wetland is the only one that fixes the drainage.
+- [65] **Minato**: @Shunichi, but the firms said the clay is risky.
+- [66] **May**: @Shizue, respect is nice, but the budget is not.
+- [67] **Shizue**: The budget is a choice. The ground is a fact.
+- [68] **Victoria**: The volunteers can help with the reeds, not the pumps.
+- [69] **Shunichi**: The pumps are the point. The reeds are the bonus.
+- [70] **Minato**: I like the boardwalks. They feel safe.
+- [71] **May**: I hate the cost. But I hate the lawn more.
+- [72] **Shizue**: The boardwalks are honest. They admit the ground is wet.
+- [73] **Victoria**: The boardwalks are manageable. The pumps are not.
+- [74] **Shunichi**: The pumps are necessary. The boardwalks are the interface.
+- [75] **Minato**: I think the wetland is the right choice.
+- [76] **May**: I think the wetland is the only choice that lasts.
+- [77] **Shizue**: I think the wetland is the only choice that is true.
+- [78] **Victoria**: I think the wetland is the only choice we can staff.
+- [79] **Shunichi**: I think the wetland is the only choice the ground allows.
+### Vote
+- Minato -> D
+- May -> D
+- Shizue -> D
+- Victoria -> D
+- Shunichi -> D
+## Result
+- adopted: D

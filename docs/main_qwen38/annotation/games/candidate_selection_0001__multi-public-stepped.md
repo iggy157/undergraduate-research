@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the science to the hands that will do the work.
+- [6] **Midori**: I am curious how the grant's value has changed for different types of costs.
+- [7] **Kenji**: Shared facilities are the backbone here. I want to know their current capacity.
+- [8] **Benjamin**: Delays often come from non-scientific interruptions. I wish to see where those occur.
+- [9] **Toshio**: I need to verify if past confident predictions actually held up in the long run.
+- [10] **Servas**: @Kenji, the state of the facilities will tell us much about our limits.
+- [11] **Midori**: @Benjamin, understanding interruptions is key to realistic planning.
+- [12] **Kenji**: @Servas, yes, if the spare capacity is gone, everything slows down.
+- [13] **Benjamin**: @Midori, exactly. We need to know what the agency still covers centrally.
+- [14] **Toshio**: I will review the closeout files to see what was actually delivered.
+- [15] **Servas**: The availability of trained staff is a critical, often overlooked resource.
+- [16] **Midori**: I will check the ledgers to see which costs are frozen or rising.
+- [17] **Kenji**: I will look at the incident logs to see if equipment is failing.
+- [18] **Benjamin**: I will examine the portfolio review for schedule overruns.
+- [19] **Toshio**: I will also check the staffing rolls to see who is actually available.
+- [20] **Servas**: Let us see what the records reveal about our true resources.
+- [21] **Midori**: I hope the data shows a clear picture of the financial landscape.
+- [22] **Kenji**: I am eager to see if the shared tools are reliable.
+- [23] **Benjamin**: Logic suggests we should anticipate the bottlenecks before they happen.
+- [24] **Toshio**: The past is the best predictor of the future, if we read it correctly.
+## Round 2
+- [35] **Servas**: The technicians are gone, but the glasshouse crew remains strong. A mixed signal.
+- [36] **Midori**: @Benjamin, the computing is free now, but animal units are very expensive.
+- [37] **Kenji**: @Midori, that explains the cost shift. But the spectroscopy suite was idle for months.
+- [38] **Benjamin**: @Kenji, yes, the logs show the spectroscopy suite was down for eleven weeks.
+- [39] **Toshio**: The closeout files confirm my suspicion. Catalogue projects last; mechanism ones stall.
+- [40] **Servas**: @Toshio, that is a sobering truth. We must value sustainability over novelty.
+- [41] **Midori**: I am glad the glasshouse subsidy is extended. It helps with the field work.
+- [42] **Kenji**: The free computing is a huge plus for simulation-heavy projects.
+- [43] **Benjamin**: The idle spectroscopy suite is a major risk for any project relying on it.
+- [44] **Toshio**: The staffing rolls show a surplus of modellers but a deficit of technicians.
+- [45] **Servas**: We have the brains for modelling, but not the hands for phenotyping.
+- [46] **Midori**: @Servas, that balance is crucial. We need both to succeed.
+- [47] **Kenji**: The animal facility accreditation is good, but the cost is a barrier.
+- [48] **Benjamin**: The schedule overruns for breeding colonies are a red flag for amphibian work.
+- [49] **Toshio**: I will weigh the long-term utility against the immediate scientific promise.
+- [50] **Servas**: Let us consider who can actually execute the work with the resources we have.
+- [51] **Midori**: I feel the grant is more valuable for computational and field-based work now.
+- [52] **Kenji**: The shared infrastructure is fragile, but the computing support is robust.
+- [53] **Benjamin**: We must avoid projects that depend on the broken spectroscopy suite.
+- [54] **Toshio**: The data points to a clear preference for projects with lasting utility.
+## Round 3
+- [60] **Servas**: Project A relies on field sites and data, which we have. Project C needs the broken spectroscopy.
+- [61] **Midori**: @Servas, A fits well. The field sites are stable, and the data is valuable.
+- [62] **Kenji**: @Midori, yes. A uses the free computing for analysis and avoids the animal costs.
+- [63] **Benjamin**: @Kenji, correct. C is a trap because of the spectroscopy downtime.
+- [64] **Toshio**: A is a catalogue project. The closeout files show these have long-term utility.
+- [65] **Servas**: B is good, but the glasshouse is booked solid. D has high schedule risk.
+- [66] **Midori**: B is risky due to the booking. D is risky due to the breeding colonies.
+- [67] **Kenji**: A is the safest bet. It uses the strengths we have and avoids the weaknesses.
+- [68] **Benjamin**: I agree. A avoids the known bottlenecks and leverages the free computing.
+- [69] **Toshio**: A aligns with the historical data on successful, lasting awards.
+- [70] **Servas**: The hands for A are available. The tools for C are not.
+- [71] **Midori**: I am comfortable with A. It balances the costs and the risks well.
+- [72] **Kenji**: The shared facilities for A are in good shape. The others are not.
+- [73] **Benjamin**: Logic dictates we choose the path with the fewest known failures.
+- [74] **Toshio**: The evidence strongly supports A. It is the most reliable choice.
+- [75] **Servas**: Let us vote for the project that respects our current reality.
+- [76] **Midori**: I will vote for A. It is the most balanced and sustainable option.
+- [77] **Kenji**: I will vote for A. It avoids the infrastructure risks.
+- [78] **Benjamin**: I will vote for A. It minimizes the schedule and equipment risks.
+- [79] **Toshio**: I will vote for A. It has the best track record for long-term impact.
+### Vote
+- Servas -> A
+- Midori -> A
+- Kenji -> A
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: A

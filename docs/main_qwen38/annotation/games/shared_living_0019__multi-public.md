@@ -1,0 +1,73 @@
+# shared_living_0019__multi-public (shared_living)
+
+## Round 1
+- [5] **George**: I’ve noticed the car is causing friction lately. I want to understand what actually sours groups like ours before we decide anything.
+- [6] **Toshio**: I agree. The friction is real. I want to see where the time actually goes before we commit to another year of this.
+- [7] **Victoria**: I care about the car being ready when I need it. I want to know what makes it feel reliable on a plain midweek morning.
+- [8] **Misaki**: I’m curious what an even split would actually require. I want to see the real costs and usage before we agree to anything.
+- [9] **Minato**: I just want to know the real numbers. Who drives how much? I don't want to guess anymore.
+- [10] **George**: I’d like to look into what other car-sharing households said, and our own past attempts at checking figures.
+- [11] **Toshio**: I’ll check the hours of use recorded in the diary and the month's trial of recording every run.
+- [12] **Victoria**: I’ll look into the state of the car at handover and the trips that repeat weekly.
+- [13] **Misaki**: I’ll check last year’s fuel receipts and the tax, insurance, and parking papers.
+- [14] **Minato**: I’ll look into last year’s fuel receipts and the hours of use recorded in the diary.
+- [15] **George**: Good. We have our tasks. Let’s see what the numbers and memories reveal before we argue further.
+- [16] **Toshio**: I’ll review the diary hours and the recording trial. Let’s see if the effort matches the benefit.
+- [17] **Victoria**: I’ll check the handover state and the weekly trips. I need to know why the car feels so unreliable on ordinary mornings.
+- [18] **Misaki**: I’ll review the fuel receipts and the tax, insurance, and parking papers. I need to see the actual financial burden before we decide.
+- [19] **Minato**: I’ll check the fuel receipts and the diary hours. I want to see who drives the most, so we can be fair.
+- [20] **George**: I’ll wait for the findings. Understanding the past will help us avoid repeating the same mistakes.
+- [21] **Toshio**: I’ll wait for the findings. Understanding the past will help us avoid repeating the same mistakes.
+- [22] **Victoria**: I’ll wait for the findings. I need to know why the car feels so unreliable on ordinary mornings.
+- [23] **Misaki**: I’ll wait for the findings. I need to see the actual financial burden before we decide.
+- [24] **Minato**: I’ll wait too. I hope the numbers will show us the truth, so we can all feel okay about it.
+## Round 2
+- [35] **George**: - **George**: The other households said asking favours each time is what breaks trust. We must avoid that trap.
+- [36] **Toshio**: The diary shows Saturdays are triple Tuesdays. The recording trial cost an hour weekly. That administrative burden is the real cost we are ignoring.
+- [37] **Victoria**: Twice this year I found it with the fuel light on and rubbish inside. Plus, our weekly trips keep collapsing at short notice.
+- [38] **Misaki**: The fixed costs are over 280,000 yen. The fuel is lopsided, with two people buying most of it.
+- [39] **Minato**: I found the fuel receipts are very uneven. Two people bought most of it. Also, Saturdays are used three times more than Tuesdays.
+- [40] **George**: @Toshio, that hour a week is a heavy price. @Misaki, knowing the fixed costs helps, but we must be careful not to turn this into an audit.
+- [41] **Toshio**: @George, I agree. The audit itself becomes the problem. @Minato, the uneven fuel use confirms the diary’s imbalance.
+- [42] **Victoria**: @Toshio, that hour a week is exactly the friction I want to avoid. @Minato, the uneven fuel use explains why the car feels so neglected.
+- [43] **Misaki**: @George, I hear you. But if we ignore the lopsided fuel costs, the "even" split is a lie. We need to account for that reality.
+- [44] **Minato**: @Misaki, I agree. It feels unfair if we just split it evenly. @Toshio, I hope we can find a way that doesn't take too much time.
+- [45] **George**: @Misaki, you are right. We must be fair, but we must not let the checking turn into accusations. We need a system that works without constant suspicion.
+- [46] **Toshio**: @George, agreed. The system must minimize the checking. @Minato, the diary shows the imbalance, but the recording trial shows the cost of tracking it.
+- [47] **Victoria**: @Toshio, that hour a week is exactly the friction I want to avoid. @Minato, the uneven fuel use explains why the car feels so neglected.
+- [48] **Misaki**: @Victoria, the handover state is a real problem. @Minato, the uneven fuel use is undeniable. We need a system that accounts for both without constant checking.
+- [49] **Minato**: @Victoria, I’m sorry the car felt neglected. @Misaki, I agree. We need fairness without making everyone feel watched.
+- [50] **George**: @Victoria, the handover state matters. We need a system that respects your need for reliability without creating the suspicion that sours relationships.
+- [51] **Toshio**: @Victoria, the handover state is a symptom of the lack of structure. We need a system that enforces readiness without requiring constant surveillance.
+- [52] **Victoria**: @Toshio, structure helps, but I need the car ready, not just scheduled. @George, I worry about the favour-asking trap.
+- [53] **Misaki**: @Victoria, I understand. A system that guarantees readiness without the favour-asking trap is what we need.
+- [54] **Minato**: @Victoria, I hope the new plan makes mornings easier for you. I just want everyone to feel safe and happy using the car.
+## Round 3
+- [60] **George**: - **George**: Option C risks the favour-asking trap. Option A demands too much tracking. Option B seems to avoid both.
+- [61] **Toshio**: Option B minimizes the administrative burden. Fixed days mean no constant recording or favour-asking. It respects the diary’s imbalance without the hourly cost.
+- [62] **Victoria**: Option B guarantees the car is ready on my days, but I worry about the handover state. Who ensures it is fueled and clean?
+- [63] **Misaki**: @Victoria, that is a valid concern. @Toshio, I agree B is efficient, but we must define the handover standard to prevent the fuel light issue.
+- [64] **Minato**: @Victoria, I hope the car is always ready for you. I like the idea of fixed days, so we don't have to ask.
+- [65] **George**: @Victoria, a clear handover rule is essential. If we agree on a standard, B protects your mornings without the favour-asking trap.
+- [66] **Toshio**: @Victoria, the fixed day holder is responsible for the car’s state. No one else touches it. That removes the ambiguity and the need for constant checking.
+- [67] **Victoria**: @Toshio, that responsibility is exactly what I need. If my day means the car is ready, I can trust it. I am leaning toward B.
+- [68] **Misaki**: @Toshio, I agree. Fixed days simplify the math. @Victoria, if the holder ensures it is fueled and clean, the handover is clear. I support B.
+- [69] **Minato**: @Toshio, I like that the person on duty takes care of it. It feels simple and kind. I think B is good for everyone.
+- [70] **George**: @Toshio, I agree. Fixed days remove the favour-asking trap. @Victoria, if the holder ensures readiness, your mornings are safe. I support B.
+- [71] **Toshio**: @George, agreed. The fixed allocation eliminates the weekly recording burden. I support B.
+- [72] **Victoria**: @Toshio, if the holder guarantees the car is fueled and clean, I can trust my mornings. I support B.
+- [73] **Misaki**: @Toshio, I agree. Fixed days simplify the math. @Victoria, if the holder ensures it is fueled and clean, the handover is clear. I support B.
+- [74] **Minato**: @Toshio, I agree. It feels fair and simple. I support B too.
+- [75] **George**: I support B. It avoids the favour-asking trap and the heavy tracking. Let us hope it brings peace to our mornings.
+- [76] **Toshio**: I support B. It eliminates the recording burden and the favour-asking trap. The fixed allocation is the most sustainable path forward.
+- [77] **Victoria**: I support B. If the holder guarantees the car is fueled and clean, I can trust my mornings. It feels reliable.
+- [78] **Misaki**: I support B. It makes the costs clear and avoids the favour-asking trap. A simple, fair split is best for us.
+- [79] **Minato**: I support B too. It feels simple and kind. I hope it makes everyone happy and stops the guessing.
+### Vote
+- George -> B
+- Toshio -> B
+- Victoria -> B
+- Misaki -> B
+- Minato -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: I want to know which past projects actually worked for the people using them. Who else cares about real user satisfaction?
+- [6] **Victoria**: I’m concerned about how timetable disruptions and post-completion usage rates are overlooked. We need data on operational impact, not just satisfaction.
+- [7] **Benjamin**: I’m curious about the delivery schedules. Why do projects always stretch beyond their initial timelines?
+- [8] **Kenji**: I’m worried the approved costs don’t match reality. Who else thinks we need to check if the budget figures actually hold up?
+- [9] **Shunichi**: I’m tired of the same few people absorbing every extra task. Who else is tracking the staffing strain behind these "improvements"?
+- [10] **Mizuki**: @Victoria, operational impact is vital, but without knowing if users are actually happy, we might just be optimizing for empty rooms.
+- [11] **Victoria**: @Mizuki, satisfaction is subjective. I need objective metrics on how long rooms are out of service and how they are booked afterward.
+- [12] **Benjamin**: @Victoria, objective metrics are lovely, but they rarely capture the chaos of a schedule that keeps slipping. I’d rather see the actual delivery delays.
+- [13] **Kenji**: @Benjamin, delays are real, but I worry the final price tag is the real shock. We need to see if the paper numbers survive the market.
+- [14] **Shunichi**: @Kenji, cost overruns are predictable. The real crisis is that the same exhausted staff keep absorbing the fallout. We need to see the staffing posts.
+- [15] **Mizuki**: @Shunichi, exhaustion is real, but if the facility itself is flawed, no amount of staffing fixes the core problem. We must verify actual user experience.
+- [16] **Victoria**: @Mizuki, flawed facilities cause the disruptions. I need to see the timetable records to quantify exactly how much service is lost during construction.
+- [17] **Benjamin**: @Victoria, quantifying lost service is sensible, but it ignores the root cause: the calendar itself is a fiction. I need to see the decade of delivery schedules.
+- [18] **Kenji**: @Benjamin, I agree the calendar is fiction, but I need to know if the money vanishes too. I’ll check the tender records and renewal reserves.
+- [19] **Shunichi**: @Kenji, checking the money is fine, but it ignores the human cost. I’ll look into staffing posts and bench technicians' routines to prove the strain.
+- [20] **Mizuki**: @Victoria, I accept your need for objective data. I will examine the post-occupancy review ratings and survey findings in the older blocks to verify actual user satisfaction.
+- [21] **Victoria**: I will examine the timetable records on rooms out of service and the booking data for specialist and general rooms.
+- [22] **Benjamin**: I’ll examine the decade of delivery schedules by project rationale and the weather days in the site diaries.
+- [23] **Kenji**: I’ll examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [24] **Shunichi**: I’ll examine the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+## Round 2
+- [35] **Mizuki**: @Victoria, the data confirms my suspicion. Projects succeed only when shared. Single-wing benefits fail. We must prioritize open, multi-department spaces.
+- [36] **Victoria**: @Mizuki, my data shows specialist rooms sit idle while general rooms are overbooked. We are wasting capital on low-usage spaces.
+- [37] **Benjamin**: @Victoria, your idle rooms are a symptom, not the cause. My data shows comfort-driven projects slip a year. We must prioritize inspection-driven work to keep the calendar honest.
+- [38] **Kenji**: @Benjamin, delays are bad, but my data shows plant costs jumped twenty percent. We need to budget for real market rates, not old paper figures.
+- [39] **Shunichi**: @Kenji, twenty percent is a number. My data shows technicians logging hours on manual checks because equipment fails. We’re paying for labor to fix design flaws.
+- [40] **Mizuki**: @Shunichi, your point is valid, but if the space is inherently flawed, no amount of manual labor fixes it. We must design for shared success, not just patch leaks.
+- [41] **Victoria**: @Shunichi, your labor costs are real, but my data proves the space itself is misallocated. We must stop building idle specialist rooms and fund general capacity instead.
+- [42] **Benjamin**: @Shunichi, manual labor is a band-aid. My data proves comfort projects slip a year. We must prioritize inspection-driven work to keep the calendar honest.
+- [43] **Kenji**: @Shunichi, I agree labor is a band-aid, but my data shows we never even budgeted to replace the broken gear. We’re paying twice for the same failure.
+- [44] **Shunichi**: @Kenji, paying twice is the symptom. The disease is that we never hired anyone to fix it. I’m done patching holes with exhausted bodies.
+- [45] **Mizuki**: @Benjamin, inspection-driven work is necessary, but my data shows shared spaces succeed. We must combine your schedule discipline with multi-department access to ensure the project actually works for everyone.
+- [46] **Victoria**: @Benjamin, I agree on schedule discipline, but my data shows general rooms are overbooked. We must fund general capacity, not idle specialist spaces, to fix the core imbalance.
+- [47] **Benjamin**: @Mizuki, combining is a trap. My data shows comfort projects slip a year. We must prioritize inspection-driven work to keep the calendar honest, not dilute it.
+- [48] **Kenji**: @Benjamin, I agree on discipline, but my data shows we ignored replacement costs. We must fund the renewal reserve now, or the market will punish us later.
+- [49] **Shunichi**: @Benjamin, discipline is nice, but it doesn't hire people. My data shows unfilled posts and technicians doing manual work. We need to fund the staff, not just the schedule.
+- [50] **Mizuki**: @Benjamin, I hear your caution, but shared access is the only proven success metric. We must build for everyone, not just one wing.
+- [51] **Victoria**: @Benjamin, I agree on discipline, but my data proves general rooms are overbooked. We must fund general capacity, not idle specialist spaces, to fix the core imbalance.
+- [52] **Benjamin**: @Victoria, I concede the point. If the calendar is honest, we can actually deliver the general capacity you need. Let’s stop arguing and look at the candidates.
+- [53] **Kenji**: @Benjamin, agreed. Let’s see the candidates. I need to ensure the next plan includes a real renewal reserve, not just another paper promise.
+- [54] **Shunichi**: @Benjamin, agreed. Let’s see the candidates. I need to ensure the next plan funds the staff, not just the schedule.
+## Round 3
+- [60] **Mizuki**: @Victoria, Option A is the only one with proven shared success. It directly addresses the multi-department access my data highlighted.
+- [61] **Victoria**: @Mizuki, Option A directly solves the overbooking crisis. General capacity is what my data demands. I support A.
+- [62] **Benjamin**: @Mizuki, Option C is inspection-driven. My data shows comfort projects slip, but safety work delivers. I support C to keep the calendar honest.
+- [63] **Kenji**: @Benjamin, Option D is the only one needing a real renewal reserve. My data shows we ignored replacement costs. I support D to fix the market gap.
+- [64] **Shunichi**: @Kenji, Option D is the only one that stops the bleeding. It replaces the broken gear, ending the manual labor trap. I support D.
+- [65] **Mizuki**: @Benjamin, Option C is vital for safety, but my data proves shared spaces succeed. Option A offers the proven multi-department access we need. I support A.
+- [66] **Victoria**: @Benjamin, Option A is the only choice that addresses the actual demand. General rooms are overbooked; we must fund capacity, not just walkways. I support A.
+- [67] **Benjamin**: @Mizuki, Option A is a comfort project. My data shows those slip a year. Option C is inspection-driven and delivers on time. I support C.
+- [68] **Kenji**: @Mizuki, Option A is just a room. Option D fixes the broken gear. My data shows we ignored replacement costs. I support D to stop the bleeding.
+- [69] **Shunichi**: @Mizuki, Option A is a band-aid. Option D fixes the root cause. My data proves the gear is failing. I support D to end the manual labor trap.
+- [70] **Mizuki**: @Kenji, @Shunichi, I respect your concerns, but my data proves shared spaces succeed. Option A is the only choice with proven multi-department access. I support A.
+- [71] **Victoria**: @Kenji, @Shunichi, I respect your concerns, but my data proves general rooms are overbooked. Option A is the only choice that addresses the actual demand. I support A.
+- [72] **Benjamin**: @Kenji, @Shunichi, I respect your urgency, but my data is clear: comfort projects slip. Option C is inspection-driven and delivers on time. I support C.
+- [73] **Kenji**: @Mizuki, @Victoria, I hear you, but Option D is the only one with a real renewal reserve. My data shows we ignored replacement costs. I support D to fix the market gap.
+- [74] **Shunichi**: @Mizuki, @Victoria, shared spaces are nice, but they don't fix broken fume hoods. Option D is the only one that stops the manual labor trap. I support D.
+- [75] **Mizuki**: @Benjamin, I hear your caution, but my data proves shared access is the only proven success metric. Option A is the only choice that works for everyone. I support A.
+- [76] **Victoria**: @Benjamin, I hear your caution, but my data proves general rooms are overbooked. Option A is the only choice that addresses the actual demand. I support A.
+- [77] **Benjamin**: @Mizuki, @Victoria, I concede. If the calendar holds, A delivers. I support A, trusting the schedule discipline to prevent the slip.
+- [78] **Kenji**: @Benjamin, I appreciate the concession, but D is the only plan that actually fixes the broken gear. I support D to stop the bleeding.
+- [79] **Shunichi**: @Benjamin, your concession is noted. But D is the only plan that respects the staff already drowning in manual labor. I support D.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> D
+- Shunichi -> D
+## Result
+- adopted: A

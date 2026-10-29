@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about who will actually stand in the room when the season begins.
+- [6] **Shion**: We need to see where past deliveries failed, not just where they were planned.
+- [7] **May**: The record of what people actually enjoyed should be heard before we commit.
+- [8] **Misaki**: The building itself must be able to hold whatever we promise to show.
+- [9] **Sakura**: I want to know where the money quietly disappears before the invoices arrive.
+- [10] **Shizue**: @Shion, do you think the paperwork is the main bottleneck?
+- [11] **Shion**: @Shizue, I suspect the physical logistics are where we lose control.
+- [12] **May**: @Sakura, have you seen the comment slips from previous years?
+- [13] **Misaki**: @Shion, the floor load limits are a hard constraint we cannot ignore.
+- [14] **Sakura**: @May, I think the visitor feedback is a great place to start looking.
+- [15] **Shizue**: I will look into the volunteer roster and the conservation lab staffing.
+- [16] **Shion**: I will check the lender paperwork and the loan transport costs.
+- [17] **May**: I will review the visitor comment slips and the weekend head counts.
+- [18] **Misaki**: I will examine the structural survey and the maintenance log for powered displays.
+- [19] **Sakura**: I will look at the mount-making charges and the evening hire bookings.
+- [20] **Shizue**: It is good to have clear paths forward for each of us.
+- [21] **Shion**: Let us see what the data says before we make promises.
+- [22] **May**: I am curious to see if the numbers match my memory of the crowds.
+- [23] **Misaki**: I will ensure the physical space is safe for whatever we choose.
+- [24] **Sakura**: I hope the budget mystery solves itself with these reports.
+## Round 2
+- [35] **Shizue**: The lab is down to one person, and the volunteers are mostly history guides.
+- [36] **Shion**: Two openings slipped because paperwork arrived late. Transport costs ate a third of the budget.
+- [37] **May**: People come back because someone is there, not because of the objects.
+- [38] **Misaki**: The bay can only hold four hundred kilos per square metre. Powered displays caused four closures.
+- [39] **Sakura**: Mounts cost double now, and evening hires damage open displays.
+- [40] **Shizue**: @Misaki, if the bay is limited, we must avoid heavy or powered items.
+- [41] **Shion**: @Sakura, the transport costs are high, so we should favor local or lightweight loans.
+- [42] **May**: @Shizue, if we need people present, we need a show with live elements.
+- [43] **Misaki**: @Shion, the maintenance log confirms that moving parts are a liability for us.
+- [44] **Sakura**: @May, live elements might mean more staff, which Shizue is worried about.
+- [45] **Shizue**: We need a show that doesn't require heavy conservation or complex rigging.
+- [46] **Shion**: We should avoid distant loans to save on transport and avoid paperwork delays.
+- [47] **May**: A show with demonstrations or talks would satisfy the visitor desire for presence.
+- [48] **Misaki**: I agree. We need something static or lightly interactive, not heavy or powered.
+- [49] **Sakura**: So, no big stone works, no complex light rigs, and no distant heavy loans.
+- [50] **Shizue**: This narrows it down significantly. We need local, light, and human-centric.
+- [51] **Shion**: Agreed. The data points to a specific type of exhibition.
+- [52] **May**: I am ready to see the candidates with this in mind.
+- [53] **Misaki**: I will keep the structural limits in mind during the vote.
+- [54] **Sakura**: I hope the budget works out for the right choice.
+## Round 3
+- [60] **Shizue**: Option A has local craftspeople, which fits our need for presence and low conservation load.
+- [61] **Shion**: Option D involves distant loans, which we know causes delays and high transport costs.
+- [62] **May**: Option A has demonstrations, which matches the visitor comment slips perfectly.
+- [63] **Misaki**: Option C requires overhead rigging and powered displays, which the bay cannot safely support.
+- [64] **Sakura**: Option A uses local items, so no expensive mount-making or transport fees.
+- [65] **Shizue**: @Shion, Option B has a conservation bench, but our lab is already overwhelmed.
+- [66] **Shion**: @Shizue, true. Option B might add to the backlog. Option A is safer.
+- [67] **May**: @Misaki, Option C is definitely out due to the structural and maintenance issues.
+- [68] **Misaki**: @May, agreed. Option C is a risk we cannot take.
+- [69] **Sakura**: @Shion, Option D is also risky due to the transport and paperwork issues you found.
+- [70] **Shizue**: Option A seems to satisfy everyone's concerns. Local, light, and engaging.
+- [71] **Shion**: I concur. It avoids the logistical pitfalls we identified.
+- [72] **May**: I am voting for A. It brings the people back to the gallery.
+- [73] **Misaki**: I am voting for A. It respects the building's limits.
+- [74] **Sakura**: I am voting for A. It keeps the budget under control.
+- [75] **Shizue**: It feels like the right choice for our current situation.
+- [76] **Shion**: The data supports this decision clearly.
+- [77] **May**: I am glad we listened to the visitors' voices.
+- [78] **Misaki**: The building will be safe, and the staff will be manageable.
+- [79] **Sakura**: I hope the craftspeople enjoy their time with us.
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

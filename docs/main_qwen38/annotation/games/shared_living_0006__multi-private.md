@@ -1,0 +1,73 @@
+# shared_living_0006__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: The fee structure must reflect actual costs, not guesswork. I need to see the ledger and the treasurer’s hours to understand the baseline.
+- [6] **Benjamin**: Asuka, logic dictates we verify the workload before the wallet. I’ll check the treasurer’s hours and the ledger to see if the job is sustainable.
+- [7] **Jonathan**: I’d like to understand the attendance patterns first. I’ll look into the sign-in sheets and the rota against the attendance record.
+- [8] **Shunichi**: I’ll examine the weekday turnout and the winter social. We need to know why people hesitate before we decide what they pay.
+- [9] **Takumi**: I refuse to guess. I’ll check the bank statements and the sign-up records to see exactly what money is actually coming in.
+- [10] **Asuka**: @Benjamin, your focus on sustainability is valid, but we must also consider the social fabric. I will review the taster forms and the winter social to understand newcomer integration.
+- [11] **Benjamin**: @Asuka, I appreciate the sentiment, but I’m already committed to the ledger and hours. Let’s stick to our initial plans to avoid redundancy.
+- [12] **Jonathan**: @Shunichi, your focus on hesitation is wise. I’ll stick to the sign-in sheets and rota to see who actually shows up.
+- [13] **Shunichi**: @Jonathan, attendance data is just the symptom. I’m sticking to my plan. We need to understand the hesitation, not just count heads.
+- [14] **Takumi**: @Benjamin, don’t just count hours. I’m checking the bank statements and sign-up records to see the real cash flow.
+- [15] **Asuka**: @Shunichi, your hesitation angle is key. I’ll review the taster forms and winter social to see how newcomers integrate.
+- [16] **Benjamin**: @Takumi, cash flow is vital, but I’m focused on the human cost. I’ll stick to the ledger and hours to ensure the role remains viable.
+- [17] **Jonathan**: I’ll stick to my plan. The sign-in sheets and rota will show who carries the work, not just who pays.
+- [18] **Shunichi**: @Asuka, newcomers are a separate issue. I’m sticking to my plan. We need to understand the hesitation, not just count heads.
+- [19] **Takumi**: @Benjamin, I’m not done. I need the bank statements and sign-up records to prove the income is real, not just assumed.
+- [20] **Asuka**: I will review the taster forms and winter social. Understanding how newcomers integrate is essential to preserving our club's open, low-pressure culture.
+- [21] **Benjamin**: I’ll finalize my choice: the ledger and the treasurer’s hours. We must ensure the next person isn’t crushed by the workload.
+- [22] **Jonathan**: I’ll finalize my choice: the sign-in sheets and the rota. I need to see who actually carries the work, not just who pays.
+- [23] **Shunichi**: I’ll finalize my choice: weekday turnout and the winter social. We need to understand the hesitation, not just count heads.
+- [24] **Takumi**: I’m done. Bank statements and sign-up records. I need to know exactly what money is actually coming in, not what we hope for.
+## Round 2
+- [35] **Asuka**: The data confirms my fear. Nine non-joiners refused a full-year commitment. Three quiet members feel uneasy about per-event costs. We need flexibility.
+- [36] **Benjamin**: The ledger shows fixed costs dominate. But the hours reveal the real killer: chasing individual payments takes six hours monthly. We must avoid that administrative nightmare.
+- [37] **Jonathan**: The sign-in sheets show a quarter of members account for two-thirds of attendances. Eighteen names appear nowhere. The work is carried by the same nine.
+- [38] **Shunichi**: The hesitation is real. People stopped treating evenings as theirs once costs became visible. We need a structure that feels like belonging, not a transaction.
+- [39] **Takumi**: @Benjamin, six hours chasing payments? That’s why the account looks thin. I found a third of renewals needed reminders. We need a system that doesn’t rely on begging people for money.
+- [40] **Asuka**: @Benjamin, chasing payments destroys the low-pressure culture. We need a flat fee that removes the anxiety of individual accounting, allowing newcomers to drift in without scrutiny.
+- [41] **Benjamin**: @Asuka, I agree. A flat fee eliminates the six-hour monthly chase. It protects the next treasurer from burnout and keeps the books simple.
+- [42] **Jonathan**: @Benjamin, I agree. A flat fee simplifies things, but it ignores that nine people carry the physical load. We must address that imbalance.
+- [43] **Shunichi**: @Jonathan, the imbalance is real, but a flat fee removes the friction that makes people hesitate. If paying feels like a chore, they won’t show up.
+- [44] **Takumi**: @Shunichi, you’re right. But I found eleven mid-year joiners needed hand-worked calculations. That’s why the account is thin. We need a simple, predictable system, not more manual work.
+- [45] **Asuka**: @Jonathan, the imbalance is real, but a flat fee removes the friction that makes people hesitate. If paying feels like a chore, they won’t show up.
+- [46] **Benjamin**: @Jonathan, the imbalance is real, but a flat fee is the only way to stop the administrative bleed. We can’t fix workload with complex billing.
+- [47] **Jonathan**: I hear you. But if the fee is flat, the nine who carry the load pay the same as the eighteen who never appear. That feels unjust.
+- [48] **Shunichi**: @Jonathan, fairness isn’t about punishing absence. It’s about removing the friction that makes people hesitate. A flat fee lets them belong without the anxiety of calculation.
+- [49] **Takumi**: @Jonathan, I get it. But I found eleven mid-year joiners needed hand-worked calculations. That’s why the account is thin. We need a simple, predictable system, not more manual work.
+- [50] **Asuka**: A flat fee preserves the open culture. It lets newcomers drift in without the pressure of individual accounting, which is exactly what we are losing.
+- [51] **Benjamin**: A flat fee is the only logical choice. It eliminates the six-hour monthly chase and protects the next treasurer from burnout.
+- [52] **Jonathan**: I understand the need for simplicity. Yet, a flat fee ignores that nine people carry the physical load. We must address that imbalance before finalizing.
+- [53] **Shunichi**: @Jonathan, the hesitation is the real cost. If paying feels like a transaction, they won’t show up. A flat fee restores the sense of belonging.
+- [54] **Takumi**: @Jonathan, I hear you. But I found eleven mid-year joiners needed hand-worked calculations. That’s why the account is thin. We need a simple, predictable system, not more manual work.
+## Round 3
+- [60] **Asuka**: @Jonathan, your concern about the nine is valid, but Option A is the only one that preserves the open culture. It removes the anxiety of individual accounting, allowing newcomers to drift in without scrutiny.
+- [61] **Benjamin**: @Jonathan, I hear you, but Option A is the only one that stops the administrative bleed. We can’t fix workload with complex billing.
+- [62] **Jonathan**: @Asuka, I understand the need for simplicity. Yet, a flat fee ignores that nine people carry the physical load. We must address that imbalance before finalizing.
+- [63] **Shunichi**: @Jonathan, the hesitation is the real cost. If paying feels like a transaction, they won’t show up. Option A restores the sense of belonging.
+- [64] **Takumi**: @Jonathan, I hear you. But I found eleven mid-year joiners needed hand-worked calculations. That’s why the account is thin. We need a simple, predictable system, not more manual work.
+- [65] **Asuka**: @Benjamin, agreed. Option A is the only choice that protects the quiet members from the anxiety of per-event costs. It preserves the low-pressure environment we are losing.
+- [66] **Benjamin**: @Asuka, precisely. Option A is the only one that doesn’t require a full-time accountant. It’s the only choice that keeps the books sane.
+- [67] **Jonathan**: @Benjamin, I understand the administrative burden. But if the fee is flat, the nine who carry the load pay the same as the eighteen who never appear. That feels unjust.
+- [68] **Shunichi**: @Jonathan, fairness isn't about punishing absence. It's about removing the friction that makes people hesitate. Option A lets them belong without the anxiety of calculation.
+- [69] **Takumi**: @Jonathan, I get it. But I found eleven mid-year joiners needed hand-worked calculations. That’s why the account is thin. We need a simple, predictable system, not more manual work.
+- [70] **Asuka**: @Jonathan, the imbalance is real, but Option A is the only one that preserves the open culture. It removes the anxiety of individual accounting, allowing newcomers to drift in without scrutiny.
+- [71] **Benjamin**: @Jonathan, I hear the frustration, but Option B or C would multiply the administrative chaos. We cannot afford the burnout. Option A is the only sustainable path.
+- [72] **Jonathan**: @Benjamin, I hear the administrative risk. But Option B might let the nine carry less, while the eighteen pay less. Is that a fairer trade-off than a flat fee?
+- [73] **Shunichi**: @Jonathan, Option B just adds labels to the same hesitation. It doesn’t remove the friction. Option A is the only way to stop people weighing up every single evening.
+- [74] **Takumi**: @Jonathan, Option B creates more tiers to manage. I saw the manual work for mid-year joiners. We need one simple number, not a maze.
+- [75] **Asuka**: Option A is the only choice that lets newcomers drift in without the pressure of individual accounting. It preserves the open, low-pressure culture that is currently slipping away.
+- [76] **Benjamin**: Option A is the only logical conclusion. It eliminates the six-hour monthly chase and protects the next treasurer from burnout. I vote A.
+- [77] **Jonathan**: I see the administrative weight. Yet, the imbalance remains. I will vote for Option B, hoping it offers a fairer path for those who carry the load.
+- [78] **Shunichi**: Option A. The hesitation is the real cost. If paying feels like a transaction, they won’t show up. I vote A.
+- [79] **Takumi**: I vote A. One simple number. No more hand-worked calculations or chasing payments. We need predictability, not a maze.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> B
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

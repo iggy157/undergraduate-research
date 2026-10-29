@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the numbers. Who truly has the hands to do this work? Let us begin.
+- [6] **Sakura**: Ooh, hands! I bet the ledgers hide the real cost. Let’s peek at travel fees and closeout files to see what’s missing!
+- [7] **Daisuke**: I... I think we should check the closeout files. Past results matter more than promises.
+- [8] **Takumi**: I’m done waiting for surprises. We need to know where work actually stalls before we commit. Let’s check the incident logs and schedule overruns.
+- [9] **Minako**: I agree with Takumi. We must verify if shared infrastructure can handle the load. I will review facility accreditation and staffing rolls.
+- [10] **Servas**: @Sakura, your instinct is sharp. @Daisuke, history is a teacher. Let us trust the process and see what emerges.
+- [11] **Sakura**: @Servas, thanks! I’m picking travel fees and closeout files. I want to see if the money actually reaches the lab or vanishes in transit!
+- [12] **Daisuke**: I’ll look into closeout files and portfolio review. I need to see what actually happened before.
+- [13] **Takumi**: I’m locking in incident logs and schedule overruns. I refuse to fund projects that bleed time on bureaucracy. Let’s see the real bottlenecks.
+- [14] **Minako**: I will examine accreditation and bookings at shared facilities, plus staffing rolls for technical posts.
+- [15] **Servas**: @Minako, your focus on staffing is wise. I will examine the staffing rolls and minutes on secondments to understand who remains.
+- [16] **Sakura**: @Minako, that’s smart! I’m sticking with travel fees and closeout files. I want to know if the grant money actually buys the same stuff every year!
+- [17] **Daisuke**: I’m sticking with closeout files and portfolio review. I need to see what actually happened before.
+- [18] **Takumi**: I’m holding firm. Incident logs and schedule overruns. I won’t let administrative drag kill good science. Let’s see the data.
+- [19] **Minako**: I confirm my choices: accreditation and bookings at shared facilities, plus staffing rolls for technical posts.
+- [20] **Servas**: The ledger is cold, but people are warm. I will review the staffing rolls and secondment minutes to see who truly remains.
+- [21] **Sakura**: I’m locked in! Travel fees and closeout files. I really want to know if the grant money actually buys the same stuff every year!
+- [22] **Daisuke**: I’m locked in. Closeout files and portfolio review. I need to see what actually happened before.
+- [23] **Takumi**: Locked in. Incident logs and schedule overruns. I’m not backing down. We need to see exactly where the science gets strangled by red tape.
+- [24] **Minako**: Locked in. I will review accreditation and bookings at shared facilities, plus staffing rolls for technical posts.
+## Round 2
+- [35] **Servas**: @Minako, the rolls reveal a quiet exodus. Trained hands are gone, yet the glasshouse crew remains. We must value stability over novelty.
+- [36] **Sakura**: @Servas, wow! So the glasshouse is still free? But shipping costs are up! Does that mean the grant buys less stuff now?
+- [37] **Daisuke**: I found that catalogue awards still draw users, but mechanism ones stalled. Also, breeding colonies overrun schedules twice as often.
+- [38] **Takumi**: @Daisuke, that confirms it. Breeding colonies are a time trap. I refuse to fund projects that bleed out on biological delays.
+- [39] **Minako**: The animal facility is accredited, but phenotyping technicians have left. We must fund projects that don’t rely on missing staff.
+- [40] **Servas**: @Minako, you and I see the same truth. The technicians are gone, but the glasshouse crew stands firm. We must fund what the remaining hands can actually sustain.
+- [41] **Sakura**: @Minako, that’s scary! If technicians left, who runs the machines? I’m worried the grant won’t cover the extra help needed now!
+- [42] **Daisuke**: @Takumi, I agree. The data shows biological delays are real. We should prioritize projects with lower schedule risk.
+- [43] **Takumi**: @Minako, your missing technicians explain the idle equipment. We need a candidate who doesn’t depend on ghost staff. Who is ready?
+- [44] **Minako**: @Takumi, exactly. We need a candidate whose methods fit the current staffing reality. Let us see who remains viable.
+- [45] **Servas**: @Sakura, the glasshouse crew is our anchor. Their stability is rare. Let us trust their enduring presence over fleeting digital promises.
+- [46] **Sakura**: @Servas, I get it! But my ledgers show shipping costs are eating the budget. Does the agency still pay for that, or is it on us?
+- [47] **Daisuke**: @Sakura, I don’t know the exact policy, but the closeout files show costs did rise. We should check if the budget covers that.
+- [48] **Takumi**: @Sakura, stop worrying about shipping. The real killer is idle equipment. We need a candidate who can actually use the machines we have.
+- [49] **Minako**: @Sakura, the agency covers standard rates. The risk is capacity, not cost. We must match the science to the available staff.
+- [50] **Servas**: @Sakura, the budget is a vessel, but people are the water. Let us wait for the candidates to see who fits the current reality.
+- [51] **Sakura**: @Minako, really? So shipping is on me? That’s unfair! I just want to know if the grant still buys the same things.
+- [52] **Daisuke**: I... I just want to make sure we pick someone who can actually finish. The past results are worrying.
+- [53] **Takumi**: I’m not letting this drag on. We have the data. We know the risks. Let’s see the candidates and pick the one who won’t stall.
+- [54] **Minako**: I agree. The infrastructure is ready, but the people are not. We must choose a candidate who fits the current staffing reality.
+## Round 3
+- [60] **Servas**: @Minako, the glasshouse crew is our anchor. Candidate D fits their enduring presence. Let us fund what the remaining hands can actually sustain.
+- [61] **Sakura**: @Servas, wait! D needs shipping for soil samples! My ledgers show those costs are up. Does the grant cover that, or do I pay?
+- [62] **Daisuke**: I... I worry about C. The closeout files showed mechanism studies stalling. D seems safer, but I’m unsure.
+- [63] **Takumi**: @Daisuke, C is a breeding colony trap. It stalls twice as often. D uses the stable glasshouse crew. We pick D to avoid biological delays.
+- [64] **Minako**: @Takumi, agreed. D aligns with the stable glasshouse crew. C risks stalling due to missing phenotyping staff. We should prioritize D for its operational feasibility.
+- [65] **Servas**: @Sakura, the agency covers standard rates. The glasshouse crew is ready. Let us trust their stability and choose D.
+- [66] **Sakura**: @Servas, but what about the extra shipping? If the agency only covers standard rates, D’s budget might shrink! I need to know if the grant still buys the same stuff!
+- [67] **Daisuke**: @Sakura, I don’t know the exact policy, but the closeout files show costs did rise. We should check if the budget covers that.
+- [68] **Takumi**: @Sakura, stop obsessing over shipping. D is the only viable option. C is a time sink. We pick D to ensure the science actually happens.
+- [69] **Minako**: @Sakura, standard rates cover it. The real constraint is staffing, not shipping. D fits our current capacity. Let us proceed to vote.
+- [70] **Servas**: @Sakura, the vessel holds. The crew is ready. Let us not let anxiety drown the work. I vote for D.
+- [71] **Sakura**: @Minako, you’re sure? I’m scared the extra shipping will eat my budget! But D sounds safe. I’ll vote for D!
+- [72] **Daisuke**: I... I agree. D seems the most stable choice. I will vote for D.
+- [73] **Takumi**: I vote for D. It’s the only one that won’t stall. Let’s finish this and get back to work.
+- [74] **Minako**: I vote for D. It aligns with our staffing reality and the stable glasshouse crew. Let us finalize this decision.
+- [75] **Servas**: The decision is made. D stands with the glasshouse crew. May their work flourish in the soil of stability.
+- [76] **Sakura**: Yay! D wins! I hope the shipping costs don’t bite me later. Thanks for listening to my worries, everyone!
+- [77] **Daisuke**: I’m glad we reached a decision. I hope D delivers what it promises, unlike the stalled ones in the past.
+- [78] **Takumi**: D is locked in. No more delays, no more excuses. The science will actually happen this time. Let’s get out of here.
+- [79] **Minako**: D is confirmed. The infrastructure supports it, and the staffing matches. We have made a sound, feasible choice.
+### Vote
+- Servas -> D
+- Sakura -> D
+- Daisuke -> D
+- Takumi -> D
+- Minako -> D
+## Result
+- adopted: D

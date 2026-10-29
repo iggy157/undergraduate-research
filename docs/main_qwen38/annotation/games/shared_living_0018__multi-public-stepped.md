@@ -1,0 +1,73 @@
+# shared_living_0018__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I need to know who actually uses the room before we decide anything.
+- [6] **Jonathan**: We are strangers despite working close. I need a space for difficult talks.
+- [7] **May**: I want to track where our hours go. Upkeep eats into our time.
+- [8] **Shunichi**: I need the financial figures on paper before we agree to anything.
+- [9] **Servas**: I sit near the door. I need to check the sound and mess issues.
+- [10] **Ryuji**: @Shunichi, figures are good, but usage data tells us who needs it.
+- [11] **Jonathan**: @Ryuji, usage data helps, but the quality of interaction matters more.
+- [12] **May**: @Servas, sound and mess are part of the upkeep hours I am tracking.
+- [13] **Shunichi**: @May, upkeep costs are real money. I will look at the invoices.
+- [14] **Servas**: @May, I will check the partition wall and the crumbs.
+- [15] **Ryuji**: I will look at the tally of use and the fridge clear-out.
+- [16] **Jonathan**: I will look at the unplanned talk and the last awkward conversation.
+- [17] **May**: I will look at the lunch round trip and the facilities callouts.
+- [18] **Shunichi**: I will look at the invoices and the quotes for fit-outs.
+- [19] **Servas**: I will look at the partition wall and the crumbs at desks.
+- [20] **Ryuji**: Agreed. Let us see what the data says.
+- [21] **Jonathan**: Quietly, I hope this brings us closer.
+- [22] **May**: Let us stop guessing and start measuring.
+- [23] **Shunichi**: Paper doesn't lie. Let's see the numbers.
+- [24] **Servas**: Wisdom comes from looking closely. I will do that.
+## Round 2
+- [35] **Ryuji**: The tally shows two people use it eleven times, others only four.
+- [36] **Jonathan**: The last awkward talk happened in front of everyone. We need privacy.
+- [37] **May**: Lunch takes twenty-five minutes. Facilities had eleven callouts for equipment.
+- [38] **Shunichi**: We paid 68,000 yen for outside hire. Fit-outs cost 141,000 or 96,000.
+- [39] **Servas**: The wall is thin plasterboard. I can hear everything. Crumbs are everywhere.
+- [40] **Ryuji**: @Shunichi, if we pay for outside hire, why not fix this room?
+- [41] **Jonathan**: @Servas, if the wall is thin, a quiet room is impossible without soundproofing.
+- [42] **May**: @Ryuji, if we eat here, we save twenty-five minutes a day.
+- [43] **Shunichi**: @May, 96,000 yen for a kitchen is cheaper than the meeting setup.
+- [44] **Servas**: @Jonathan, soundproofing is expensive. Maybe we accept the noise?
+- [45] **Ryuji**: The fridge clear-out was a mess. Who cleans up after a kitchen?
+- [46] **Jonathan**: A meeting space needs a screen. That costs 141,000 yen.
+- [47] **May**: If we make it a kitchen, we need to agree on cleaning duties.
+- [48] **Shunichi**: The meeting space is more expensive. The kitchen is cheaper.
+- [49] **Servas**: A kitchen brings crumbs. A meeting room brings silence. Which do we want?
+- [50] **Ryuji**: I am leaning towards the kitchen. It saves time and money.
+- [51] **Jonathan**: I prefer a meeting space. We need a place to talk properly.
+- [52] **May**: I support the kitchen. The time saved is significant.
+- [53] **Shunichi**: The numbers favor the kitchen. 96,000 yen is a better investment.
+- [54] **Servas**: I will go with the kitchen. It is practical, even if messy.
+## Round 3
+- [60] **Ryuji**: Option A saves us the 68,000 yen we paid outside.
+- [61] **Jonathan**: Option C gives us the privacy we lack.
+- [62] **May**: Option A saves twenty-five minutes of walking daily.
+- [63] **Shunichi**: Option A is 96,000 yen. Option C is 141,000 yen. A is cheaper.
+- [64] **Servas**: Option A is practical. We can eat and talk.
+- [65] **Ryuji**: @Jonathan, privacy is nice, but time is money.
+- [66] **Jonathan**: @Ryuji, time is also spent on awkward silences.
+- [67] **May**: @Shunichi, the cost difference is clear.
+- [68] **Shunichi**: @May, exactly. The figures do not lie.
+- [69] **Servas**: @Ryuji, I agree. Let us eat together.
+- [70] **Ryuji**: I vote for A.
+- [71] **Jonathan**: I vote for C.
+- [72] **May**: I vote for A.
+- [73] **Shunichi**: I vote for A.
+- [74] **Servas**: I vote for A.
+- [75] **Ryuji**: It seems A is winning.
+- [76] **Jonathan**: I am disappointed, but I accept the majority.
+- [77] **May**: Great. Let us start planning the kitchen.
+- [78] **Shunichi**: I will sign the paperwork for the 96,000 yen.
+- [79] **Servas**: A warm meal brings people together.
+### Vote
+- Ryuji -> A
+- Jonathan -> C
+- May -> A
+- Shunichi -> A
+- Servas -> A
+## Result
+- adopted: A

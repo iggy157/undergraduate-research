@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m worried we spend more time finding people than picking companies. Who can actually be hired right now?
+- [6] **George**: I’ve seen too many success stories that don’t match the bank statements. We need to verify the real returns.
+- [7] **May**: Before we write another check, I need to know if we can actually afford the follow-on calls.
+- [8] **Rin**: My quarter-end is a nightmare. I need to know if this new company will make our reporting even worse.
+- [9] **Mizuki**: I’ve noticed our last two deals stalled for months. I want to know why the money never reached the customer.
+- [10] **Mio**: @George, if the numbers are fake, the talent pool is definitely fake too. We need to check the recruiters.
+- [11] **George**: Agreed. I’ll look at the exits and the write-offs to see what actually stuck.
+- [12] **May**: I’m focusing on the credit line terms. If we can’t borrow, we can’t invest.
+- [13] **Rin**: I’m going to check the audit appraisals. I need to know if we can trust the numbers we report.
+- [14] **Mizuki**: I’ll look into the security review times. If the tech is too complex, it will delay everything again.
+- [15] **Mio**: @May, if the credit line is tight, we can’t afford to hire expensive consultants to fix the mess.
+- [16] **George**: I’m also looking at account retention. If they raise prices and lose customers, the story is over.
+- [17] **May**: I’ll check the reserve accounts. I need to see how much cash is actually sitting there.
+- [18] **Rin**: I’m also checking independent checks on the holdings. I need to see if anyone else has verified their claims.
+- [19] **Mizuki**: I’ll also look at the delivery records. I need to see if they actually shipped what they promised.
+- [20] **Mio**: I’m going to look into the retained recruiters’ placement times. I need to know if we can actually fill the seats.
+- [21] **George**: I’m also looking at the profile of the exits. I need to see which ones actually made money.
+- [22] **May**: I’m also looking at the terms of last winter's credit line. I need to know our borrowing power.
+- [23] **Rin**: I’m also looking at the appraisal needs at the last audit. I need to know what the auditors are asking for.
+- [24] **Mizuki**: I’m also looking at the security review time before first deployment. I need to know how long the tech takes to go live.
+## Round 2
+- [35] **Mio**: I found that our advisers are sitting on the bench. We have the people, but we’re not using them.
+- [36] **George**: I looked at the exits. The ones that made money were boring back-office tools. The one that failed was a physical shop.
+- [37] **May**: I checked the reserves. We are bleeding cash on follow-ons. And the credit line only likes physical stock, not software.
+- [38] **Rin**: I found that hardware needs outside appraisals. That adds six weeks to our quarter-end. I can’t do that again.
+- [39] **Mizuki**: I found that security reviews take three quarters for regulated customers. And the hardware deal lost five months to a chip shortage.
+- [40] **Mio**: @George, so the boring tools are the winners? That means we don’t need to build a factory, just a team.
+- [41] **George**: Exactly. The back-office tools kept their customers even when they raised prices. The physical one lost a third.
+- [42] **May**: @Mizuki, if the hardware takes three quarters to deploy, we can’t borrow against it. It’s dead money for us.
+- [43] **Rin**: @May, that’s why I’m worried. If we can’t verify the numbers, we can’t report them. I need a company that reports itself.
+- [44] **Mizuki**: @Rin, I agree. The software tool never missed a release. It’s predictable. The hardware is a black hole.
+- [45] **Mio**: So we need a software company that doesn’t need a factory. That way, I can use my advisers to find the team.
+- [46] **George**: And it needs to be a tool that people can’t live without. If they raise prices, the customers stay.
+- [47] **May**: And it needs to be something we can borrow against. If it’s just code, we can’t. But if it’s a service, maybe.
+- [48] **Rin**: And it needs to be something I can verify. If it’s a dashboard, I can check the numbers myself. No outside appraisals.
+- [49] **Mizuki**: And it needs to be something that deploys fast. If it’s a plugin, it’s in the system in a week. Not a quarter.
+- [50] **Mio**: I think we’re all pointing to the same thing. A software tool that is essential, predictable, and easy to verify.
+- [51] **George**: I’m with you. I’ve seen enough of the physical mess. I want the boring, reliable software.
+- [52] **May**: I’m with you. I need to know if we can afford the next round. If it’s a service, we can model the cash flow.
+- [53] **Rin**: I’m with you. I need to close the books in two weeks, not six. I need a company that reports itself.
+- [54] **Mizuki**: I’m with you. I need to know that the money reaches the customer. If it’s a plugin, it’s live in a week.
+## Round 3
+- [60] **Mio**: I’m looking at Ledger Bridge. It’s a dashboard. I can verify the numbers myself. And I can use my advisers to find the team.
+- [61] **George**: I’m looking at Clinic Scheduler. It’s a tool that people can’t live without. If they raise prices, the customers stay.
+- [62] **May**: I’m looking at Ledger Bridge. It’s a service. We can model the cash flow. And it’s not physical stock, so we can borrow against it.
+- [63] **Rin**: I’m looking at Ledger Bridge. It’s a dashboard. I can verify the numbers myself. No outside appraisals. I can close the books in two weeks.
+- [64] **Mizuki**: I’m looking at Ledger Bridge. It’s a plugin. It’s in the system in a week. Not a quarter. The money reaches the customer.
+- [65] **Mio**: @George, Clinic Scheduler is good, but it’s a service. We can’t borrow against it. And it’s not a dashboard. I can’t verify the numbers myself.
+- [66] **George**: @Mio, I know. But it’s a tool that people can’t live without. If they raise prices, the customers stay. That’s what I care about.
+- [67] **May**: @George, I care about the cash flow. If it’s a service, we can model it. But if it’s not a dashboard, I can’t verify it.
+- [68] **Rin**: @May, I care about the reporting. If it’s not a dashboard, I can’t verify it. I need a company that reports itself.
+- [69] **Mizuki**: @Rin, I care about the deployment. If it’s not a plugin, it’s not in the system in a week. I need a company that deploys fast.
+- [70] **Mio**: I think we’re all pointing to Ledger Bridge. It’s a dashboard. I can verify the numbers myself. And I can use my advisers to find the team.
+- [71] **George**: I’m with you. I’ve seen enough of the physical mess. I want the boring, reliable software. Ledger Bridge is boring and reliable.
+- [72] **May**: I’m with you. I need to know if we can afford the next round. If it’s a service, we can model the cash flow. Ledger Bridge is a service.
+- [73] **Rin**: I’m with you. I need to close the books in two weeks, not six. I need a company that reports itself. Ledger Bridge reports itself.
+- [74] **Mizuki**: I’m with you. I need to know that the money reaches the customer. If it’s a plugin, it’s live in a week. Ledger Bridge is a plugin.
+- [75] **Mio**: I’m voting for Ledger Bridge. It’s the only one that fits all our needs.
+- [76] **George**: I’m voting for Ledger Bridge. It’s the only one that fits all our needs.
+- [77] **May**: I’m voting for Ledger Bridge. It’s the only one that fits all our needs.
+- [78] **Rin**: I’m voting for Ledger Bridge. It’s the only one that fits all our needs.
+- [79] **Mizuki**: I’m voting for Ledger Bridge. It’s the only one that fits all our needs.
+### Vote
+- Mio -> C
+- George -> C
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

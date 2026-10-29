@@ -1,0 +1,73 @@
+# candidate_selection_0010__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I think we should look at the everyday losses first. Maybe check the incident logs and the time lost to copying records?
+- [6] **May**: I’m curious about the staffing of the coordination group. Also, let’s check the outcomes of the last three internal rollouts.
+- [7] **Shunichi**: I’m checking in-house developer availability and network coverage at customer plants. We keep promising dates based on assumptions that don’t hold up.
+- [8] **Ryuji**: I will examine the capital budget and software allowance. I also want to review vendor licence pricing versus fixed-fee work.
+- [9] **Kenji**: I want to see the outcomes of the last three internal rollouts. Also, the record of cross-unit standardization efforts.
+- [10] **Daisuke**: I’m a bit nervous about speaking up, but I hope the incident logs will show the real weekly problems.
+- [11] **May**: @Daisuke, I hope those logs are as revealing as you think. I’m still waiting to see if anyone actually owns the extra workload.
+- [12] **Shunichi**: @May, ownership is a symptom. The real issue is that we build on sand. I need to know if the ground is solid before we promise anything.
+- [13] **Ryuji**: @Shunichi, solid ground is irrelevant if the budget is frozen. I need to know where the money actually comes from before we discuss feasibility.
+- [14] **Kenji**: @Ryuji, I hear you, but money doesn’t fix bad habits. I need to know if we’re just repeating past mistakes.
+- [15] **Daisuke**: I agree with Kenji. We need to see if the same mistakes keep happening. It feels safer to look at the past.
+- [16] **May**: @Kenji, patterns are nice, but I care about who actually does the work. If the rota breaks, the project dies.
+- [17] **Shunichi**: @May, rotas break because we ignore the technical reality. If the network fails, no amount of staffing saves the delivery date.
+- [18] **Ryuji**: @Shunichi, technical reality is secondary to financial reality. If the capital line is frozen, your solid ground is just expensive dirt.
+- [19] **Kenji**: @Ryuji, I agree the budget matters, but I need to know if we are just repeating past mistakes. Patterns matter more than money.
+- [20] **Daisuke**: I’m still a bit quiet, but I hope the logs show the real weekly problems. I just want to see what actually goes wrong.
+- [21] **May**: @Daisuke, I hope the logs are honest. But I’m still waiting to see who actually absorbs the extra work when the rota breaks.
+- [22] **Shunichi**: @May, rotas break because we ignore the technical reality. If the network fails, no amount of staffing saves the delivery date.
+- [23] **Ryuji**: @May, I understand the staffing risk. However, without a clear funding source, we are just planning for a project that cannot be paid for.
+- [24] **Kenji**: @May, I agree staffing is vital. But I need to know if we are just repeating past mistakes. Patterns matter more than money.
+## Round 2
+- [35] **Daisuke**: I found eleven misrouted deliveries, all from duplicate addresses. Plus, we lose an hour daily copying records. It’s a real, daily loss.
+- [36] **May**: @Daisuke, those daily losses are real, but my findings are worse. The coordination group is gutted, and past tools needing daily input were quietly abandoned.
+- [37] **Shunichi**: @May, your staffing concerns are valid, but my findings are worse. Half the customer sites lose network coverage for whole afternoons. We cannot build on sand.
+- [38] **Ryuji**: @Shunichi, network issues are real, but my findings show the capital line is frozen. Only the recurring software allowance has room. We must fund this from that specific pocket.
+- [39] **Kenji**: @May, I found the pattern. Tools needing daily entry from everyone were quietly dropped. Narrow tools for one trade still run. We keep repeating this mistake.
+- [40] **Daisuke**: @May, I hear you. But these daily losses are constant. If we don’t fix the data, the workload just keeps growing.
+- [41] **May**: @Daisuke, constant losses are exactly why we need a tool that doesn’t demand daily entry from everyone. My findings prove those get abandoned.
+- [42] **Shunichi**: @May, abandoning tools is a choice. My data shows the physical infrastructure is broken. You cannot sync records if the signal vanishes for half the day.
+- [43] **Ryuji**: @Shunichi, infrastructure is a constraint, not a budget. If the capital line is frozen, we cannot afford the expensive fixes you imply. We must work within the recurring allowance.
+- [44] **Kenji**: @Shunichi, infrastructure matters, but my data shows tools needing daily entry from everyone get abandoned. Narrow tools for one trade survive. We must avoid the broad trap.
+- [45] **Daisuke**: @Kenji, I agree. The narrow tools survive. My data shows the daily copying is the real drain. We need to stop the bleeding first.
+- [46] **May**: @Kenji, I agree. If the coordination group is already drowning, adding a tool that demands daily input from everyone is a death sentence. We need something that runs quietly in the background.
+- [47] **Shunichi**: @May, background tools still need a signal. If the network drops, your "quiet" tool is just a dead weight. I need to know if the ground is solid.
+- [48] **Ryuji**: @Shunichi, I understand the signal risk. But the capital freeze is absolute. We must select a solution that fits the recurring software allowance, not a capital project.
+- [49] **Kenji**: @Ryuji, I agree the budget is tight. But my data shows broad tools fail. We need a narrow, low-maintenance solution that fits the recurring allowance.
+- [50] **Daisuke**: @Ryuji, I agree. The recurring allowance is our only path. We must pick something that stops the daily copying without needing new capital.
+- [51] **May**: @Ryuji, I agree. A recurring cost is safer than a capital gamble. But remember, if it demands daily input, it dies. We need something that runs quietly.
+- [52] **Shunichi**: @Ryuji, the recurring allowance is irrelevant if the signal is dead. Half the sites lose coverage for afternoons. You cannot sync data on a dead network.
+- [53] **Ryuji**: @Shunichi, the signal is a constraint, not a budget. The capital freeze is absolute. We must select a solution that fits the recurring software allowance, not a capital project.
+- [54] **Kenji**: @Shunichi, I hear the signal risk. But my data shows broad tools fail. We need a narrow, low-maintenance solution that fits the recurring allowance.
+## Round 3
+- [60] **Daisuke**: The data shows we lose an hour daily copying records. A central repository would stop that bleeding. Does anyone see a flaw in that?
+- [61] **May**: @Daisuke, a central hub sounds efficient, but it demands constant updates from everyone. My data shows those tools get abandoned. Who maintains it?
+- [62] **Shunichi**: @May, you’re right about maintenance. But look at A. It syncs offline. That solves the network gap I found, without needing daily manual entry from everyone.
+- [63] **Ryuji**: @Shunichi, offline sync is a capital project. The capital line is frozen. We cannot afford the infrastructure to support A. We must stay within the recurring software allowance.
+- [64] **Kenji**: @Shunichi, offline sync is clever, but my data shows broad tools fail. A demands daily entry from everyone. It will be quietly dropped.
+- [65] **Daisuke**: @May, I worry about the maintenance burden. But the daily copying is a constant drain. If we don’t fix the data, the workload just keeps growing.
+- [66] **May**: @Daisuke, you’re ignoring the staffing reality. The coordination group is already drowning. Adding a hub that requires constant updates from everyone is a death sentence. It will be abandoned.
+- [67] **Shunichi**: @May, you’re conflating a mobile app with a central hub. A syncs locally; it doesn’t demand constant manual updates from the coordination group. It’s a narrow tool for technicians, not a broad administrative burden.
+- [68] **Ryuji**: @Shunichi, A is a mobile application, not a capital project. It fits the recurring software allowance. The capital freeze only blocks infrastructure, not software licenses.
+- [69] **Kenji**: @Ryuji, I agree A fits the budget. But my data shows broad tools fail. A demands daily entry from everyone. It will be quietly dropped.
+- [70] **Daisuke**: @Kenji, I understand your worry. But A is for technicians, not everyone. It targets the specific daily loss I found. It’s narrow, not broad.
+- [71] **May**: @Kenji, A is narrow, targeting only technicians. It doesn’t demand daily entry from the whole company. It solves the specific problem without breaking the rota.
+- [72] **Shunichi**: @Kenji, you are misreading the data. A is a narrow tool for one trade, exactly what survives. It does not demand daily entry from everyone.
+- [73] **Ryuji**: @Kenji, A is a narrow tool for technicians, not a broad administrative burden. It fits the recurring allowance and avoids the capital freeze.
+- [74] **Kenji**: @Shunichi, you are right. A is narrow, for one trade. My data says those survive. I was wrong to call it broad. I support A.
+- [75] **Daisuke**: I am relieved. A targets the specific daily loss I found. It is narrow, fitting the budget. I support A.
+- [76] **May**: @Kenji, I’m glad you see it now. A is narrow, so it won’t break the rota. It fits the budget and solves the real problem. I support A.
+- [77] **Shunichi**: @Kenji, I stand corrected. A is the narrow tool for one trade. It handles the offline reality I found. I support A.
+- [78] **Ryuji**: @Kenji, I agree. A is a narrow tool for technicians, not a broad administrative burden. It fits the recurring allowance and avoids the capital freeze. I support A.
+- [79] **Kenji**: @Everyone, I am glad we aligned. A is the narrow tool for one trade, exactly what my data says survives. I support A.
+### Vote
+- Daisuke -> A
+- May -> A
+- Shunichi -> A
+- Ryuji -> A
+- Kenji -> A
+## Result
+- adopted: A

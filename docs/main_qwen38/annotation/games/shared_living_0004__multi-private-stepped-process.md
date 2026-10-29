@@ -1,0 +1,73 @@
+# shared_living_0004__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to know exactly who pays for what so nobody gets stuck with extra bills.
+- [6] **Victoria**: I need the total weekly cost upfront. Surprise charges are unacceptable for me.
+- [7] **Midori**: I am curious how the room layout affects our time together versus alone.
+- [8] **Toshio**: I need to see how many hours are lost to travel and setup.
+- [9] **Daisuke**: I am worried about where I can wash and sit without using the bed.
+- [10] **Sakura**: @Victoria, if we split the bill evenly, does that cover all the little extras?
+- [11] **Victoria**: Only if the quote is all-inclusive. I refuse to guess at hidden fees.
+- [12] **Midori**: @Toshio, do you think a longer trip means less time for us to talk?
+- [13] **Toshio**: Yes. Every hour on a train is an hour we cannot use for rest.
+- [14] **Daisuke**: I just need to know if there is a proper bathroom and a chair.
+- [15] **Sakura**: I will look into the all-in rates to see if the math works out.
+- [16] **Victoria**: I will check the pricing of offshore houses to see the full scope.
+- [17] **Midori**: I will look into the time alone in the shared-house year to understand the balance.
+- [18] **Toshio**: I will check the ferry sailings and train time to calculate the transit loss.
+- [19] **Daisuke**: I will look into bathing hours and bathroom provision to ensure I can rest.
+- [20] **Sakura**: I will also check what separately booked rooms cost last time to compare.
+- [21] **Victoria**: I will also check the all-in rates against meals bought separately.
+- [22] **Midori**: I will also check how last year's days ran to see the actual rhythm.
+- [23] **Toshio**: I will also check getting around by train and bus to see the daily friction.
+- [24] **Daisuke**: I will also check inn mealtimes and room arrangements to see if I can eat alone.
+## Round 2
+- [35] **Sakura**: I found that buying meals separately means the light eater pays less, but the whole-house bill splits evenly.
+- [36] **Victoria**: The offshore houses are 5,400 yen a head a night, but food is extra. That is a variable I cannot ignore.
+- [37] **Midori**: I found that last year we barely spoke because we drifted apart. I want a place that keeps us together.
+- [38] **Toshio**: The ferry takes two days to cross. That is a third of the week gone before we even start.
+- [39] **Daisuke**: I found the island houses have one bathroom for everyone. I cannot sleep if I have to wait for a bath.
+- [40] **Sakura**: @Victoria, if we rent the whole house, the food cost is just a shared pot, right?
+- [41] **Victoria**: Yes, but I need to know the total before we book. I will not pay for someone else's appetite.
+- [42] **Midori**: @Toshio, two days of travel is too much. I want us to be together, not on a boat.
+- [43] **Toshio**: I agree. The train to the valley is ninety minutes. That is manageable. The ferry is not.
+- [44] **Daisuke**: The inn has a door. I can close it. That is what I need.
+- [45] **Sakura**: I think the valley inn is better. The travel is short, and the bill is clear.
+- [46] **Victoria**: I agree. The offshore option has too many unknowns. The valley inn has a fixed rate.
+- [47] **Midori**: I like the valley. It is close enough that we can walk to the bath together, but far enough to rest.
+- [48] **Toshio**: The train is reliable. I can sleep on it. The ferry is not. I will not waste my rest.
+- [49] **Daisuke**: The inn has a chair. I can sit. I can wash. I can sleep.
+- [50] **Sakura**: I am happy with the valley inn. The money is clear, and the travel is short.
+- [51] **Victoria**: I am satisfied. The cost is predictable, and the logistics are simple. I will not be surprised.
+- [52] **Midori**: I feel this is the right balance. We will be together, but we will have space to breathe.
+- [53] **Toshio**: I accept this. The overhead is low. I can arrive and rest. That is all I need.
+- [54] **Daisuke**: I am relieved. I can close the door. I can wash. I can sit. I can sleep.
+## Round 3
+- [60] **Sakura**: I think C is the best. The train is short, and the inn bill is one number we can split.
+- [61] **Victoria**: I agree. C has a fixed rate. A has hidden food costs. B is too scattered for me.
+- [62] **Midori**: C feels right. We can walk to the bath together, but we can also rest in our rooms.
+- [63] **Toshio**: C is the only one where the travel does not eat the week. The train is ninety minutes.
+- [64] **Daisuke**: C has a door. I can close it. I can wash. I can sit. I can sleep.
+- [65] **Sakura**: @Victoria, does the fixed rate in C cover the meals? I want to be sure.
+- [66] **Victoria**: Yes. The inn rate includes the meals. There are no surprises. That is what I need.
+- [67] **Midori**: @Toshio, do you think the train is comfortable enough for you to rest?
+- [68] **Toshio**: Yes. I can sleep on the train. The ferry is not. I will not waste my rest.
+- [69] **Daisuke**: I am happy with C. I can close the door. I can wash. I can sit. I can sleep.
+- [70] **Sakura**: I am ready to vote. C is the fairest and the most comfortable.
+- [71] **Victoria**: I am ready. C is the only option where I know the cost before I commit.
+- [72] **Midori**: I am ready. C gives us the balance we need. Together, but not crowded.
+- [73] **Toshio**: I am ready. C minimizes the overhead. I can arrive and rest. That is all I need.
+- [74] **Daisuke**: I am ready. C gives me the space I need. I can close the door. I can sleep.
+- [75] **Sakura**: I vote C. The money is clear, and the travel is short.
+- [76] **Victoria**: I vote C. The cost is predictable, and the logistics are simple.
+- [77] **Midori**: I vote C. It is the right balance for us.
+- [78] **Toshio**: I vote C. The overhead is low. I can rest.
+- [79] **Daisuke**: I vote C. I can close the door. I can sleep.
+### Vote
+- Sakura -> C
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

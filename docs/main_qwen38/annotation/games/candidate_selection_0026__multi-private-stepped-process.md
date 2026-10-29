@@ -1,0 +1,73 @@
+# candidate_selection_0026__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to verify if previous initiatives actually improved patient outcomes before spending more.
+- [6] **Toshio**: I am concerned about whether our current physical infrastructure can absorb any new program without seizing up.
+- [7] **Benjamin**: History suggests that programs relying on external partners often collapse in year two. We must check dependency risks.
+- [8] **Yumi**: I worry that new programs just add invisible pressure to existing rosters. We need to see the staffing reality.
+- [9] **Servas**: We must ask what this budget can truly build and what it will earn back before committing.
+- [10] **Asuka**: @Toshio, if the space is already saturated, adding a program is just moving the bottleneck.
+- [11] **Toshio**: Exactly. The booking screens and approach roads are already at capacity. We need to check the physical limits.
+- [12] **Benjamin**: @Yumi, if the nursing staff is already stretched thin, a new program is just a promise we cannot keep.
+- [13] **Yumi**: Yes. I want to see the vacancy numbers and how much agency cover we are already using.
+- [14] **Servas**: I agree. We must look at the ledger to see what is actually available, not just what is promised.
+- [15] **Asuka**: I will look at the readmission figures from the last trial to see if it worked.
+- [16] **Toshio**: I will check the rooms and parking coverage to see if we have physical space left.
+- [17] **Benjamin**: I will review the board minutes on the jointly run clinic to see where it failed.
+- [18] **Yumi**: I will look at the ward nursing vacancies and the therapy staffing review to see the load.
+- [19] **Servas**: I will check the development allocation in the ledger and the regional fund tariffs to understand the money.
+- [20] **Asuka**: We should not repeat mistakes. Evidence first.
+- [21] **Toshio**: If it does not fit, it does not go.
+- [22] **Benjamin**: Let us find out who is actually holding the rope before we pull.
+- [23] **Yumi**: I hope the numbers show we have room to breathe.
+- [24] **Servas**: Let the numbers speak. They are the only honest witnesses in this room.
+## Round 2
+- [35] **Asuka**: The call-back trial cut readmissions by a fifth. It worked, but only while it was actively staffed.
+- [36] **Toshio**: The car park is full by eleven. The shuttle misses most villages. There is no physical room for more.
+- [37] **Benjamin**: The joint clinic died because neither side would own the rota. The data agreements take fourteen months to sign.
+- [38] **Yumi**: The therapy team is hollowed out. Midwifery has slack, but the wards are running on agency cover.
+- [39] **Servas**: The ledger is thinner than we thought. And the fund pays nothing for work done off site.
+- [40] **Asuka**: @Servas, if the fund pays nothing for off-site work, the call-back trial is a dead end.
+- [41] **Toshio**: @Asuka, even if it paid, the booking system has no slot for it. It would vanish from the records.
+- [42] **Benjamin**: @Yumi, if the wards are on agency cover, any new program is just a promise we cannot keep.
+- [43] **Yumi**: @Benjamin, the therapy team is gone. Midwifery has slack, but the wards are drowning.
+- [44] **Servas**: The money is gone. The space is gone. The staff is gone. What is left?
+- [45] **Asuka**: The call-back trial worked, but it needs a home. The booking system has no slot for it.
+- [46] **Toshio**: The shared nursing round has no fixed appointment. It would be invisible to the system.
+- [47] **Benjamin**: The midwifery program has slack. It is on-site. It does not need a data agreement.
+- [48] **Yumi**: The midwifery program fits the slack. The wards are drowning, but midwifery has room.
+- [49] **Servas**: The midwifery program is on-site. It bills at the standard rate. It does not need a data agreement.
+- [50] **Asuka**: The midwifery program has evidence. It fits the slack. It is on-site.
+- [51] **Toshio**: The midwifery program uses existing rooms. It does not strain the car park. It fits.
+- [52] **Benjamin**: The midwifery program has no external dependency. It is owned by one department. It will not break.
+- [53] **Yumi**: The midwifery program gives the therapy team a break. It uses the slack. It is kind.
+- [54] **Servas**: The midwifery program is the only one that pays for itself. It is the only one that will still be here in a year.
+## Round 3
+- [60] **Asuka**: Option B has the strongest evidence. It fits the slack. It is on-site.
+- [61] **Toshio**: Option B uses existing rooms. It does not strain the car park. It fits the physical limits.
+- [62] **Benjamin**: Option B has no external dependency. It is owned by one department. It will not break in year two.
+- [63] **Yumi**: Option B gives the therapy team a break. It uses the midwifery slack. It is kind to the staff.
+- [64] **Servas**: Option B is on-site. It bills at the standard rate. It does not need a data agreement. It pays for itself.
+- [65] **Asuka**: @Toshio, does Option B need any new rooms?
+- [66] **Toshio**: No. It uses the existing midwifery rooms. The car park is already full, but it does not add more cars.
+- [67] **Benjamin**: @Yumi, does Option B add to the therapy team's load?
+- [68] **Yumi**: No. It uses the midwifery slack. The therapy team is already hollowed out. This gives them a break.
+- [69] **Servas**: @Asuka, does Option B have any off-site component?
+- [70] **Asuka**: No. It is entirely on-site. The booking system has slots for it. It will not vanish from the records.
+- [71] **Toshio**: The booking system has slots for scheduled consultations. Option B fits. It is visible. It is trackable.
+- [72] **Benjamin**: The data agreements are not needed. It is internal. It is owned. It is safe.
+- [73] **Yumi**: The midwifery team has slack. The pediatric team has room. It is a good fit. It is kind.
+- [74] **Servas**: The ledger can cover it. The fund pays for it. It is the only one that will still be here in a year.
+- [75] **Asuka**: Option B is the only one with evidence, slack, and space. It is the only one that will work.
+- [76] **Toshio**: Option B fits the physical limits. It does not strain the system. It is the only one that will not seize up.
+- [77] **Benjamin**: Option B has no external dependency. It is owned by one department. It will not break. It is the only one that will last.
+- [78] **Yumi**: Option B uses the slack. It gives the therapy team a break. It is kind. It is the only one that will not burn out the staff.
+- [79] **Servas**: Option B is on-site. It bills at the standard rate. It does not need a data agreement. It pays for itself. It is the only one that will still be here in a year.
+### Vote
+- Asuka -> B
+- Toshio -> B
+- Benjamin -> B
+- Yumi -> B
+- Servas -> B
+## Result
+- adopted: B

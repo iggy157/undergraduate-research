@@ -1,0 +1,73 @@
+# candidate_selection_0008__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Midori**: We need to know who is accountable when things break.
+- [6] **Ryuji**: The depot floor cannot stop for a software project.
+- [7] **May**: I am worried about systems that age quietly in place.
+- [8] **Misaki**: Our team is thin; we cannot afford a chaotic rollout.
+- [9] **Benjamin**: The headline price is a lie. I care about the long tail.
+- [10] **Midori**: @Ryuji, exactly. If the plan drifts, who fixes it?
+- [11] **Ryuji**: @Midori, the equipment is old. It must survive our calendar.
+- [12] **May**: @Benjamin, I agree. Hidden costs are a trap.
+- [13] **Misaki**: @May, and the people who have to learn it.
+- [14] **Benjamin**: @Misaki, yes. The bill arrives after the applause.
+- [15] **Midori**: Let's look at the support history and the scope changes.
+- [16] **Ryuji**: I will check the yard devices and the depot calendar.
+- [17] **May**: I want to see the upgrade history and the data lift.
+- [18] **Misaki**: I will look at the retirements and the last rollout.
+- [19] **Benjamin**: I need the board minutes and the renewal invoices.
+- [20] **Midori**: Agreed. Let's see what the paper says.
+- [21] **Ryuji**: The floor is waiting. Let's be efficient.
+- [22] **May**: I hope the data is clean.
+- [23] **Misaki**: I will keep an eye on the staffing gaps.
+- [24] **Benjamin**: The numbers will tell the truth, eventually.
+## Round 2
+- [35] **Midori**: The support was unowned for two days last winter.
+- [36] **Ryuji**: The yard scanners are a mess of old models.
+- [37] **May**: The dispatch tool skipped three upgrades. It is ancient.
+- [38] **Misaki**: Two admins retire this year. The last hire took eleven months.
+- [39] **Benjamin**: Capital requests are cut, but operating lines pass easily.
+- [40] **Midori**: @Benjamin, that explains the budget trap.
+- [41] **Ryuji**: @May, if it skipped upgrades, it will break.
+- [42] **May**: @Ryuji, and the data lift took a year to fix.
+- [43] **Misaki**: @Midori, if support is scattered, we are doomed.
+- [44] **Benjamin**: @Misaki, the hiring time is a red flag.
+- [45] **Midori**: We need a single point of contact for support.
+- [46] **Ryuji**: We need something that works with our old hardware.
+- [47] **May**: We need a system that doesn't need constant patching.
+- [48] **Misaki**: We need a vendor who trains us properly.
+- [49] **Benjamin**: We need a contract that doesn't hide costs.
+- [50] **Midori**: Let's wait for the candidates.
+- [51] **Ryuji**: The floor is still running.
+- [52] **May**: I am ready to decide.
+- [53] **Misaki**: I hope we pick wisely.
+- [54] **Benjamin**: The money is already spent on the past.
+## Round 3
+- [60] **Midori**: Meridian offers a regional service team. That helps.
+- [61] **Ryuji**: Anchor is built for transport. That sounds right for us.
+- [62] **May**: Tessera has a marketplace. That might be too complex.
+- [63] **Misaki**: Corvus is modular. That might be hard to manage.
+- [64] **Benjamin**: Meridian is hosted. That might hide the operating costs.
+- [65] **Midori**: @Benjamin, but the service team is a single point.
+- [66] **Ryuji**: @May, Anchor is on our servers. We control it.
+- [67] **May**: @Ryuji, but who maintains it?
+- [68] **Misaki**: @Midori, the training is handled by a partner for Tessera.
+- [69] **Benjamin**: @Misaki, partners can be expensive.
+- [70] **Midori**: I prefer the clarity of Meridian's support.
+- [71] **Ryuji**: I trust Anchor's specific design for our yards.
+- [72] **May**: I worry about Tessera's complexity.
+- [73] **Misaki**: I am concerned about Corvus's fragmentation.
+- [74] **Benjamin**: I am wary of Meridian's hidden operating lines.
+- [75] **Midori**: Let's vote.
+- [76] **Ryuji**: Agreed.
+- [77] **May**: Let's see who wins.
+- [78] **Misaki**: I will vote for the most stable option.
+- [79] **Benjamin**: I will vote for the most transparent one.
+### Vote
+- Midori -> A
+- Ryuji -> D
+- May -> D
+- Misaki -> A
+- Benjamin -> D
+## Result
+- adopted: D

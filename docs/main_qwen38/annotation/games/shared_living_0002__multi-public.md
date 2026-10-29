@@ -1,0 +1,73 @@
+# shared_living_0002__multi-public (shared_living)
+
+## Round 1
+- [5] **Rin**: I think we should look at the station block's bin house and the ward complaint log.
+- [6] **Midori**: I’d like to check the block ledger and the ward subsidy. We really need to know our actual costs before deciding anything.
+- [7] **Shunichi**: I’ll check the statements at the residents' meeting and the truck arrival time. We need to know what people actually said and when the truck really shows up.
+- [8] **May**: I’m picking the ward filing requirements and the supervised mornings. I need to know the paperwork burden and the actual time commitment before we commit.
+- [9] **Asuka**: I will examine the measurements of the five frontages and the ward complaint log. I need to verify the physical constraints and the history of grievances.
+- [10] **Rin**: @Midori, do you think the money will fix the smell? I just want to know if we can actually live with it.
+- [11] **Midori**: @Rin, money won’t fix the smell, but it helps us choose a solution that actually works. I’m hoping the numbers will show us what’s truly affordable for everyone.
+- [12] **Shunichi**: @Rin, the smell is a symptom. I’m checking the truck time to see if the real problem is just bad timing.
+- [13] **May**: @Rin, I’m checking the time cost. If it eats our mornings, no amount of charm fixes that.
+- [14] **Asuka**: @Rin, the smell is a symptom of unequal burden. I am checking the frontages to see who physically suffers most.
+- [15] **Rin**: @Shunichi, if the truck comes before I wake up, how do I even know if it’s there? I’m scared of the dark!
+- [16] **Midori**: @Rin, don’t worry, the truck comes early, but we can set up a simple system so you don’t have to be out there in the dark.
+- [17] **Shunichi**: @Rin, the truck arrives between seven forty and eight fifteen. You won’t be out there in the dark, but the window is tight.
+- [18] **May**: @Rin, the window is tight, but I’m checking the supervised mornings to see if we can actually manage it without burning out.
+- [19] **Asuka**: @Rin, the truck time is irrelevant to the structural inequality. I am measuring the frontages to prove who bears the physical burden.
+- [20] **Rin**: @Asuka, but if the truck comes before I wake up, how do I even know if it’s there? I’m scared of the dark!
+- [21] **Midori**: @Rin, I understand your worry. We will make sure the system is safe and simple, so you never have to be out there alone in the dark.
+- [22] **Shunichi**: @Rin, you’re nine. You’re not the one hauling bags at dawn. I’m checking the statements to see who actually wants to do that.
+- [23] **May**: @Rin, you’re safe inside. I’m checking the hours to see if the adults can handle the early starts without falling apart.
+- [24] **Asuka**: @Rin, the truck time is irrelevant to the structural inequality. I am measuring the frontages to prove who bears the physical burden.
+## Round 2
+- [35] **Rin**: @Asuka, the log says eleven complaints came from the gate house! That’s not fair. I’m scared the bin house smells even worse.
+- [36] **Midori**: @Rin, I found the ledger. We spend thirty-four thousand yen yearly just on deodorant and nets. That’s a lot for five of us.
+- [37] **Shunichi**: @Midori, thirty-four thousand on deodorant? That’s a band-aid. I checked the meeting: nobody volunteered to enforce rules. We’re stuck.
+- [38] **May**: @Shunichi, I found the time cost. Twenty mornings a year, fifty minutes each. That’s ten hours of my life gone.
+- [39] **Asuka**: @Rin, the log confirms the imbalance. Eleven complaints from one gate. The frontages show the narrowest is only ninety centimetres. This is structural, not accidental.
+- [40] **Rin**: @Asuka, if the bin house smells worse, why build one? I don’t want to live next to a stinky box!
+- [41] **Midori**: @Asuka, the subsidy covers forty percent, capped at ninety thousand. Last year’s shelters averaged two hundred forty-eight thousand. We need to see if that math works for us.
+- [42] **Shunichi**: @May, ten hours is nothing compared to the silence. I checked the statements: three people refuse to turn bags away, and nobody volunteered to enforce it. We’re stuck with a system that relies on goodwill we don’t have.
+- [43] **May**: @Shunichi, ten hours is nothing? That’s a whole day of my life. I’m not signing up to be the neighborhood police officer.
+- [44] **Asuka**: @Shunichi, goodwill is not a structural solution. The data proves one household bears the burden. We need a plan that distributes the load, not just manages the symptoms.
+- [45] **Rin**: @Midori, if the bin house smells worse, why build one? I don’t want to live next to a stinky box!
+- [46] **Midori**: @Rin, I hear you. But the ledger shows we’re already paying for the smell. Let’s see if a proper structure actually stops the cost, not just moves it.
+- [47] **Shunichi**: @Asuka, you’re right about the burden. But I checked the statements: nobody wants to be the enforcer. If we pick a plan that needs a police officer, we’re just trading one problem for a worse one.
+- [48] **May**: @Shunichi, I’m not the police, I’m just counting hours. Twenty mornings is a lot. I need to know if the paperwork is worth that drain.
+- [49] **Asuka**: @May, the paperwork is irrelevant if the burden remains unequal. The ninety-centimetre frontage proves the current location is physically impossible for fair use.
+- [50] **Rin**: @Asuka, if the bin house smells worse, why build one? I don’t want to live next to a stinky box!
+- [51] **Midori**: @Asuka, I hear your frustration. But let’s look at the numbers. The subsidy helps, but we need a plan that actually works for everyone’s daily life, not just the structure.
+- [52] **Shunichi**: @May, ten hours is trivial. The real cost is the silence. I checked the statements: nobody wants to enforce rules. We need a plan that doesn’t require us to become each other’s police.
+- [53] **May**: @Shunichi, ten hours is trivial? That’s a whole day. I’m not signing up to be the neighborhood police officer.
+- [54] **Asuka**: @Shunichi, silence is a symptom of resentment, not peace. The data shows one household is crushed. We need a plan that forces equal burden, not just polite silence.
+## Round 3
+- [60] **Rin**: @Asuka, I don’t want a stinky box! But if the bin moves, I won’t have to smell it every day. Is that fair?
+- [61] **Midori**: @Rin, moving it might help the smell, but the ledger shows we’re already paying for it. I’m worried about the cost of building a new one.
+- [62] **Shunichi**: @Asuka, rotating it just moves the resentment. I checked the statements: nobody wants to enforce rules. We need a plan that doesn’t require us to become each other’s police.
+- [63] **May**: @Shunichi, I’m not the police, I’m just counting hours. Twenty mornings is a lot. I need to know if the paperwork is worth that drain.
+- [64] **Asuka**: @Shunichi, rotation is the only option that physically distributes the burden. The ninety-centimetre frontage proves the current location is structurally unfair.
+- [65] **Rin**: @May, if the bin moves, do I still have to wake up early? I hate the dark!
+- [66] **Midori**: @May, I understand the worry about time. But if we rotate, the burden is shared, so no single person carries the whole weight.
+- [67] **Shunichi**: @May, twenty mornings is trivial. The real cost is the silence. I checked the statements: nobody wants to enforce rules. We need a plan that doesn’t require us to become each other’s police.
+- [68] **May**: @Shunichi, trivial? That’s ten hours of my life. I’m not doing it. I need a plan that doesn’t drain me dry.
+- [69] **Asuka**: @May, the rotation eliminates the enforcement burden. No one polices the window; the location simply moves. It is the only logical solution to the structural inequality.
+- [70] **Rin**: @Asuka, if it moves, does the smell move too? I don't want to wake up to a stinky box at my gate!
+- [71] **Midori**: @Rin, I understand your worry. But if we build a proper enclosure, it should contain the smell better than an open pile.
+- [72] **Shunichi**: @Rin, the smell moves with the pile. But I checked the statements: nobody wants to be the enforcer. If we pick a plan that needs a police officer, we’re just trading one problem for a worse one.
+- [73] **May**: @Asuka, rotation means four separate ward notices. That’s four months of paperwork per move. I’m not signing up to be the ward’s filing clerk.
+- [74] **Asuka**: @May, the filing burden is a logistical detail, not a structural flaw. The rotation is the only option that physically distributes the burden. I vote B.
+- [75] **Rin**: @Asuka, but the station block’s bin house smelled worse! If we build a box, it’s just a stinky closet. I vote B so it moves away from me!
+- [76] **Midori**: @Asuka, I hear your point about fairness. But the ledger shows we’re already bleeding money on deodorant. I’m worried a permanent structure might just lock in that cost.
+- [77] **Shunichi**: @Asuka, you’re right about the burden. But I checked the statements: nobody wants to enforce rules. If we pick a plan that needs a police officer, we’re just trading one problem for a worse one.
+- [78] **May**: @Asuka, four months of paperwork per move? That’s not a logistical detail, that’s a full-time job. I’m not doing that. I vote A.
+- [79] **Asuka**: @May, the filing burden is a logistical detail, not a structural flaw. The rotation is the only option that physically distributes the burden. I vote B.
+### Vote
+- Rin -> B
+- Midori -> B
+- Shunichi -> B
+- May -> A
+- Asuka -> B
+## Result
+- adopted: B

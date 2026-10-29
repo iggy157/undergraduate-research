@@ -1,0 +1,73 @@
+# candidate_selection_0018__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Misaki**: I’m worried about the people holding this together. Who’s actually left to manage the transition?
+- [6] **Kenji**: I’m thinking about the yard equipment. If the new system can’t handle our old devices, the trucks just stop. That’s a nightmare.
+- [7] **Toshio**: I’m concerned about the long-term financial exposure. The initial quote is misleading; I need to see the recurring costs that appear after the contract is signed.
+- [8] **Yumi**: I’m worried about who’s actually in charge when things break! We can’t repeat last time’s chaos. Who’s leading the support team?
+- [9] **Benjamin**: I appreciate the urgency, but let’s not panic. I’m curious about the upgrade history of the dispatch tool. It might explain why we’re in this mess.
+- [10] **Misaki**: @Kenji, the equipment is critical, but if the people running it are overwhelmed, the system fails anyway. We need to check the staffing levels.
+- [11] **Kenji**: @Misaki, you’re right about the people. But if the software crashes on the old yard scanners, no amount of staffing helps. We need both.
+- [12] **Toshio**: @Benjamin, the dispatch tool’s history is a symptom, not the cause. I need to trace the actual money flow to see where the budget leaks.
+- [13] **Yumi**: @Toshio, money is vital, but without clear ownership, costs spiral! I’m picking support ownership and depot supervisors to see who’s actually leading.
+- [14] **Benjamin**: @Toshio, symptoms often reveal the disease. I’ll examine the dispatch tool’s upgrade history and the 2018 pay move data to understand our operational drift.
+- [15] **Misaki**: @Yumi, I agree. I’ll look into administrator retirements and the last rollout to see how much strain the team is already under.
+- [16] **Kenji**: @Yumi, I’ll check the yard devices and the depot calendar. I need to know if the new system fits our actual peak-season chaos.
+- [17] **Toshio**: I will examine the five years of renewal invoices and the board minutes on capital requests. I need to see where the money actually goes.
+- [18] **Yumi**: I’m so glad we’re all on the same page! I’ll look into support ownership and depot supervisors to find our real leaders.
+- [19] **Benjamin**: I’ll review the dispatch tool’s upgrade history and the 2018 pay move data. Patterns matter more than panic.
+- [20] **Misaki**: I’ll review administrator retirements and the last rollout. I need to see how much strain the team is already under.
+- [21] **Kenji**: I’ll check the yard devices and the depot calendar. I need to know if the new system fits our actual peak-season chaos.
+- [22] **Toshio**: I’ll examine the five years of renewal invoices and the board minutes on capital requests. I need to see where the money actually goes.
+- [23] **Yumi**: I’m picking support ownership and depot supervisors! I really want to see who’s actually leading the team and handling the chaos.
+- [24] **Benjamin**: Confirmed. I’ll review the dispatch tool’s upgrade history and the 2018 pay move data. Patterns matter more than panic.
+## Round 2
+- [35] **Misaki**: Two admins retiring, one role open for eleven months. The last rollout’s training was ignored within weeks. We are already stretched thin.
+- [36] **Kenji**: @Misaki, that’s scary. My findings show the 2021 trial failed fast, and peak season has zero downtime. We need a system that survives our actual chaos.
+- [37] **Toshio**: The invoices show bundled prices held, but add-ons climbed yearly. Board minutes reveal capital requests trimmed, while operating lines passed unchallenged. The real cost is the recurring, unwatched line items.
+- [38] **Yumi**: @Misaki, that’s terrifying! My findings show support was unowned for two days, and supervisors ignored the new steps. We need clear leadership, not scattered blame!
+- [39] **Benjamin**: The dispatch tool skipped upgrades for years, and the 2018 data lift took a year to fix. We are buying a problem, not a solution.
+- [40] **Misaki**: @Yumi, the supervisors dropping the steps confirms my fear. If they ignore training now, they will ignore the new system. We need a vendor who trains the people, not just the software.
+- [41] **Kenji**: @Yumi, exactly! If supervisors ignore steps, the yard scanners will too. We need a vendor who respects our messy, 24/7 reality, not just clean office demos.
+- [42] **Toshio**: @Benjamin, your skipped upgrades mirror my invoice findings. We ignore maintenance until it breaks. I need a vendor whose recurring costs are capped, not open-ended.
+- [43] **Yumi**: @Toshio, I agree! We need a vendor who actually owns the mess, not just sells it. Clear accountability is our only way out!
+- [44] **Benjamin**: @Toshio, precisely. We’ve outsourced the pain before, and it returned with interest. I need a vendor who accepts liability for the repair, not just the installation.
+- [45] **Misaki**: @Benjamin, I agree. We cannot afford another year of broken data. The people are already exhausted; we need a vendor who understands that human error is inevitable, not a bug to be fixed.
+- [46] **Kenji**: @Benjamin, agreed. But remember, our yard devices are ancient. If the vendor can’t handle that mix, the whole plan collapses before it starts.
+- [47] **Toshio**: @Kenji, the device mix is a fixed cost. My concern is the variable cost that grows every year. We must cap the recurring fees before we sign.
+- [48] **Yumi**: @Kenji, you’re right! But if the vendor doesn’t own the support, the devices won’t matter. We need someone who stays when things break!
+- [49] **Benjamin**: @Kenji, valid point. But if the vendor ignores our aging infrastructure, we’re just renting a new headache. I need proof they handle legacy systems, not just shiny new ones.
+- [50] **Misaki**: @Toshio, capping fees is smart, but it doesn’t fix the empty chairs. We need a vendor who invests in our people, not just our software.
+- [51] **Kenji**: @Toshio, capping fees is smart, but if the yard scanners crash, the trucks stop. I need a vendor who respects our 24/7 reality, not just clean office demos.
+- [52] **Toshio**: @Misaki, @Kenji, I hear you. But without a hard cap on those recurring fees, the system becomes a permanent drain. We must secure the financial ceiling first.
+- [53] **Yumi**: @Toshio, I hear you! But a cap means nothing if nobody answers the phone. We need a vendor who actually shows up when things break!
+- [54] **Benjamin**: @Toshio, @Yumi, I agree. We need a vendor who accepts the full lifecycle, not just the initial sale. Let’s see who actually owns the mess.
+## Round 3
+- [60] **Misaki**: @Yumi, the partner firm in option C worries me. We need someone who stays, not a temporary fix.
+- [61] **Kenji**: @Misaki, I worry about C’s partner too. But D’s on-site engineers sound perfect for our ancient yard devices. They can actually fix the scanners!
+- [62] **Toshio**: @Kenji, on-site engineers are a capital expense. My invoices show capital gets trimmed, while operating lines pass unchallenged. I need a fixed, predictable operating cost, not a variable one.
+- [63] **Yumi**: @Kenji, D’s on-site team is great, but will they stay after rollout? I need someone who owns the mess long-term, not just during setup!
+- [64] **Benjamin**: @Toshio, @Yumi, D’s on-site team addresses the immediate chaos, but I worry about the long-term drift. Who maintains it after they leave?
+- [65] **Misaki**: @Benjamin, that’s the real risk. If they leave, we’re back to square one. I need a vendor who builds our people’s skills, not just installs code.
+- [66] **Kenji**: @Benjamin, good point. But D’s engineers know our specific yard chaos. C’s partner is a stranger. I need someone who understands our 24/7 reality, not just a generic fix.
+- [67] **Toshio**: @Benjamin, D’s on-site team is a capital expense, which the board trims. I need a fixed operating cost. B’s hosted suite offers that predictability, avoiding the variable trap.
+- [68] **Yumi**: @Toshio, B’s regional team sounds promising! But will they actually own the support when things break? I need clear accountability, not just a fixed price!
+- [69] **Benjamin**: @Toshio, B’s fixed cost is appealing, but “regional” often means distant. I need to know if they accept liability for the repair, not just the subscription.
+- [70] **Misaki**: @Toshio, B’s fixed cost helps, but does their regional team actually train our exhausted supervisors? I need them to build our people’s skills, not just sell a subscription.
+- [71] **Kenji**: @Misaki, training is vital, but D’s engineers know our specific yard chaos. C’s partner is a stranger. I need someone who understands our 24/7 reality, not just a generic fix.
+- [72] **Toshio**: @Misaki, training is a line item, not a guarantee. B’s fixed configuration prevents the add-on creep I found in the invoices. I need that financial ceiling secured.
+- [73] **Yumi**: @Toshio, I hear you! But fixed costs don’t fix broken trust. I need a vendor who stays accountable when things break, not just a predictable invoice!
+- [74] **Benjamin**: @Toshio, predictability is a shield, not a foundation. If B’s regional team can’t handle our legacy mess, we’re just paying rent on a broken system.
+- [75] **Misaki**: @Toshio, I hear you. But if the team is too thin to learn, the system fails. I need a vendor who respects our people’s limits, not just the budget.
+- [76] **Kenji**: @Toshio, I hear you, but if the yard scanners crash, trucks stop. D’s engineers know our specific chaos. I need someone who respects our 24/7 reality, not just a predictable invoice.
+- [77] **Toshio**: @Kenji, D’s on-site presence is a capital request the board will likely trim. B’s fixed operating line is the only path that survives our current financial reality.
+- [78] **Yumi**: @Toshio, I hear you! But a fixed invoice means nothing if nobody answers the phone. I need a vendor who actually shows up when things break!
+- [79] **Benjamin**: @Toshio, @Yumi, I agree. We need a vendor who owns the full lifecycle, not just the initial sale. Let’s see who actually accepts the repair liability.
+### Vote
+- Misaki -> D
+- Kenji -> D
+- Toshio -> B
+- Yumi -> B
+- Benjamin -> B
+## Result
+- adopted: B

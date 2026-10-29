@@ -1,0 +1,73 @@
+# shared_living_0011__single-online (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need to verify the actual costs before committing to any destination.
+- [6] **Toshio**: Agreed. We also need to ensure the logistics don't consume the entire training period.
+- [7] **Minako**: The destination determines who interacts with whom. We must pick a location that forces year-groups to mix, not just train in parallel.
+- [8] **Jonathan**: I need to confirm the sleep arrangements and daily schedule before we decide.
+- [9] **Asuka**: The flat fee hides uneven personal costs. We need to know how late cancellations are handled before booking.
+- [10] **Ryuji**: @Ryuji, I will check the prefecture rate sheet and the accounts from two clubs that went inland.
+- [11] **Toshio**: I will check the canteen closure and last year's cooking duty, and the group transport in three years of receipts.
+- [12] **Minako**: I will check what the seniors say about year-groups mixing and the attendance sheets for the away camps.
+- [13] **Jonathan**: I will check the accounts from two clubs that went inland and the prefecture rate sheet for publicly run beds.
+- [14] **Asuka**: I will check the quoting terms for whole-building lets and the membership list against first-train times.
+- [15] **Ryuji**: @Toshio, your transport receipts will show if distance drives the budget. I need that data to close the gap.
+- [16] **Toshio**: @Ryuji, the receipts will show the scale, but I need to know if the duty load is sustainable before we even look at the map.
+- [17] **Minako**: @Minako, the attendance sheets will show who actually shows up. I need to know if the current structure is even working before we change the location.
+- [18] **Jonathan**: @Ryuji, the inland accounts will reveal the actual sleeping conditions. I need to know if the nights are viable before we consider the days.
+- [19] **Asuka**: @Ryuji, the whole-building terms will show if late dropouts break the budget. I need that before we promise a flat fee.
+- [20] **Ryuji**: @Toshio, if the duty load is unsustainable, we cannot justify the trip. Confirm the hours before we proceed.
+- [21] **Toshio**: @Ryuji, I will confirm the hours. If the duty is too heavy, we must find a place with staff, or we lose the training time entirely.
+- [22] **Minako**: @Minako, the attendance data will confirm if the current isolation is driving members away. I need that proof before we commit to a new structure.
+- [23] **Jonathan**: @Ryuji, the inland accounts will show the sleeping conditions. I need to know if the nights are viable before we consider the days.
+- [24] **Asuka**: @Ryuji, the quoting terms will show if late dropouts break the budget. I need that before we promise a flat fee.
+## Round 2
+- [35] **Ryuji**: @Toshio, the inland accounts show eight to a room with lights out at eleven. That explains the poor performance.
+- [36] **Toshio**: @Ryuji, that confirms the sleep issue. My receipts show transport was 38% of the budget last year. We need to balance cost and rest.
+- [37] **Minako**: @Ryuji, the seniors confirm mixing only happens when we sleep together. The attendance sheets show a fifth never came. We need shared quarters.
+- [38] **Jonathan**: @Ryuji, the inland accounts confirm eight to a room with lights out at eleven. That explains the poor performance.
+- [39] **Asuka**: @Ryuji, the whole-building terms are rigid; deposits are non-refundable. If members drop out, the rest pay. We need a flexible option.
+- [40] **Ryuji**: @Toshio, 38% transport is unsustainable. @Asuka, non-refundable deposits are a risk. We need a destination that minimizes both travel and financial exposure.
+- [41] **Toshio**: @Ryuji, the canteen closes, so self-cooking cost two hours daily. We need staffed meals to protect training time.
+- [42] **Minako**: @Toshio, if staffed meals protect training time, that supports a public facility. But the seniors say mixing only happens in shared quarters.
+- [43] **Jonathan**: @Minako, shared quarters are essential for mixing, but the inland accounts show eight to a room. We need a balance between social interaction and actual rest.
+- [44] **Asuka**: @Jonathan, shared quarters are necessary, but the rigid deposit terms mean we cannot afford a whole-building let. We need a public facility with flexible booking.
+- [45] **Ryuji**: @Toshio, the 1,100 yen rate includes equipment. That is the only figure that keeps the budget honest. We must anchor the cost there.
+- [46] **Toshio**: @Ryuji, anchoring at 1,100 yen is wise. But remember, the canteen closure means we lose two hours daily to cooking unless we have staff.
+- [47] **Minako**: @Minako, the seniors confirm mixing only happens in shared quarters. The attendance sheets show a fifth never came. We need shared quarters.
+- [48] **Jonathan**: @Ryuji, the 1,100 yen rate is affordable, but the eight-to-a-room condition is unacceptable. We need a public facility that offers better sleeping arrangements.
+- [49] **Asuka**: @Ryuji, the 1,100 yen rate is affordable, but the rigid deposit terms mean we cannot afford a whole-building let. We need a public facility with flexible booking.
+- [50] **Ryuji**: @Toshio, the 1,100 yen rate is the only stable baseline. If we choose a public facility, we avoid the non-refundable deposit risk and keep the budget predictable.
+- [51] **Toshio**: @Ryuji, agreed. The 1,100 yen rate covers equipment, and staffed meals save two hours daily. A public facility solves both cost and duty issues.
+- [52] **Minako**: @Ryuji, the public rate is stable, but the seniors insist mixing requires shared quarters. We must ensure the facility provides that, or the social goal fails.
+- [53] **Jonathan**: @Ryuji, the 1,100 yen rate is stable, but the eight-to-a-room condition is unacceptable. We need a public facility that offers better sleeping arrangements.
+- [54] **Asuka**: @Ryuji, the 1,100 yen rate is stable, but the rigid deposit terms mean we cannot afford a whole-building let. We need a public facility with flexible booking.
+## Round 3
+- [60] **Ryuji**: @All, the options are A: Coastal Lodge, B: Campus Intensive, C: Mountain Training Centre. I need to see which fits our constraints.
+- [61] **Toshio**: @Ryuji, Option C fits the 1,100 yen rate and staffed meals. Option A risks the non-refundable deposit. Option B splits training due to the hall timetable.
+- [62] **Minako**: @Toshio, Option C provides the shared quarters the seniors require for mixing. Option B fails because the hall timetable prevents continuous training.
+- [63] **Jonathan**: @Toshio, Option C risks the eight-to-a-room condition I found. Option A offers better rest but higher cost. We need a balance.
+- [64] **Asuka**: @Toshio, Option C avoids the non-refundable deposit risk of A. Option B fails because a third of members cannot commute early. C is the only viable choice.
+- [65] **Ryuji**: @Toshio, Option C anchors the budget at 1,100 yen per night. It avoids the deposit risk of A and the split schedule of B. This is the only financially sound choice.
+- [66] **Toshio**: @Ryuji, Option C is the only one that protects our training hours. The staffed meals and stable rate make it the logical choice.
+- [67] **Minako**: @Toshio, Option C is the only one that guarantees the shared quarters necessary for year-group mixing. Without that, the social goal fails.
+- [68] **Jonathan**: @Toshio, Option C is the only one that guarantees the shared quarters necessary for year-group mixing. Without that, the social goal fails.
+- [69] **Asuka**: @Toshio, Option C is the only one that avoids the non-refundable deposit risk. It also solves the early commute issue for a third of the membership.
+- [70] **Ryuji**: @Toshio, Option C is the only choice that keeps the budget predictable and the training intact. I am ready to vote.
+- [71] **Toshio**: @Ryuji, agreed. The duty load is manageable with staffed meals, and the rate is fixed. I am ready to vote for Option C.
+- [72] **Minako**: @Ryuji, Option C is the only choice that guarantees the shared quarters necessary for year-group mixing. Without that, the social goal fails. I am ready to vote.
+- [73] **Jonathan**: @Ryuji, Option C is the only choice that guarantees the shared quarters necessary for year-group mixing. Without that, the social goal fails. I am ready to vote.
+- [74] **Asuka**: @Ryuji, Option C is the only choice that avoids the non-refundable deposit risk. It also solves the early commute issue for a third of the membership. I am ready to vote.
+- [75] **Ryuji**: I vote for Option C. The fixed rate and shared quarters satisfy our financial and social constraints.
+- [76] **Toshio**: I vote for Option C. The staffed meals and fixed rate protect our training time and budget.
+- [77] **Minako**: I vote for Option C. The shared quarters are essential for the year-group mixing the seniors confirmed, and the attendance data proves we need this structure.
+- [78] **Jonathan**: I vote for Option C. The shared quarters are essential for the year-group mixing the seniors confirmed, and the attendance data proves we need this structure.
+- [79] **Asuka**: I vote for Option C. It avoids the non-refundable deposit risk and solves the early commute issue for a third of the membership.
+### Vote
+- Ryuji -> C
+- Toshio -> C
+- Minako -> C
+- Jonathan -> C
+- Asuka -> C
+## Result
+- adopted: C

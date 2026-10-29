@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Toshio**: The current ad-hoc method is failing. We need a structured approach for the year.
+- [6] **Ryuji**: I need to verify the actual time cost before committing to any schedule.
+- [7] **Benjamin**: We must correlate usage patterns with labor distribution to ensure fairness.
+- [8] **May**: I am tired of guessing the state of the rooms. Consistency is my priority.
+- [9] **Midori**: I worry about the friction this causes. Let’s find a system that preserves our peace.
+- [10] **Toshio**: I will examine the financial records to understand our current out-of-pocket exposure.
+- [11] **Ryuji**: I plan to time a full cleaning pass to get objective data on duration.
+- [12] **Benjamin**: I will analyze the wall calendar and kitchen usage logs to map presence.
+- [13] **May**: I need to define what 'done' actually means. I will review the previous tenants' note.
+- [14] **Midori**: I will look into the house chat history and the bathroom grout condition.
+- [15] **Toshio**: Without clear billing, resentment builds. I need to see the receipts.
+- [16] **Ryuji**: If we outsource, we need to know the standard terms to compare costs.
+- [17] **Benjamin**: If someone is rarely here, they shouldn't carry the same load. I need the data.
+- [18] **May**: The kitchen is unpredictable. I need to see what the previous tenants considered acceptable.
+- [19] **Midori**: The grout tells a story of neglect. I want to see the chat logs for context.
+- [20] **Toshio**: I will look into the bathroom spray stock and the management office rate sheet.
+- [21] **Ryuji**: I will investigate the stopwatch timing of a full pass and the standard terms of the outside firm.
+- [22] **Benjamin**: I will investigate the absences on the wall calendar and a fortnight's watch on kitchen use.
+- [23] **May**: I will investigate what each housemate counts as done and the note left by the previous tenants.
+- [24] **Midori**: I will investigate the rows recorded in the house chat and the bathroom grout after the July scrub.
+## Round 2
+- [35] **Toshio**: The receipts show we are buying the same spray twice. The management rate is 4,200 yen an hour.
+- [36] **Ryuji**: A full pass takes two hours and twenty minutes. The firm charges 4,200 yen an hour.
+- [37] **Benjamin**: The calendar shows two of us away for a week or more in most months. The kitchen log shows three of us do almost all the cooking.
+- [38] **May**: The note says they split the rooms permanently and stopped speaking by year two. The definition of done is a mess.
+- [39] **Midori**: The chat shows the arguments start with small reminders. The grout is back to black in eleven days.
+- [40] **Toshio**: If we hire the firm, the bill goes to one person. That is a liability I do not want.
+- [41] **Ryuji**: Two hours and twenty minutes is a lot. If we outsource, we still need to be present for the two-hour window.
+- [42] **Benjamin**: If three of us cook, the kitchen work should fall on those three. The two who are away should not be on the kitchen rotation.
+- [43] **May**: I do not want a permanent split. I want a standard that does not depend on who is in the room.
+- [44] **Midori**: The grout issue is a symptom. If we do not agree on what done means, the reminders will keep coming.
+- [45] **Toshio**: I need a system where the cost is split evenly and no one is the collector.
+- [46] **Ryuji**: The time cost is the real issue. If we outsource, we save the two hours but pay 8,400 yen a month.
+- [47] **Benjamin**: The data is clear. The kitchen work should be proportional to usage. The bathroom and living room should be split by presence.
+- [48] **May**: I need a standard that is objective. If the grout is black, it is not done. If the floor is wet, it is not done.
+- [49] **Midori**: The chat history shows that the arguments are about the reminders, not the cleaning. We need a system that does not require reminders.
+- [50] **Toshio**: I am leaning toward a system that handles the billing automatically.
+- [51] **Ryuji**: I am leaning toward a system that removes the time cost entirely.
+- [52] **Benjamin**: I am leaning toward a system that matches the work to the usage.
+- [53] **May**: I am leaning toward a system that has a clear, objective standard.
+- [54] **Midori**: I am leaning toward a system that does not require anyone to be the one who brings it up.
+## Round 3
+- [60] **Toshio**: Option B puts the billing on one person. That is a problem. Option A has no billing issue, but it is unfair.
+- [61] **Ryuji**: Option B removes the two hours and twenty minutes. That is the main thing I care about. The billing issue is secondary.
+- [62] **Benjamin**: Option A is the only one that matches the work to the usage. The kitchen work falls on the three who cook. The bathroom and living room fall on the three who are present.
+- [63] **May**: Option A has no standard. Option B has a standard, but it is the firm's standard. Option C has a standard, but it is the same for everyone.
+- [64] **Midori**: Option A is the one that does not require reminders. If you own the kitchen, you clean the kitchen. If you own the bathroom, you clean the bathroom.
+- [65] **Toshio**: I can live with Option A if we agree that the cost of supplies is split evenly. The billing issue is solved.
+- [66] **Ryuji**: I can live with Option B if we agree that the billing is split evenly. The time issue is solved.
+- [67] **Benjamin**: I can live with Option A if we agree that the kitchen work is proportional to usage. The fairness issue is solved.
+- [68] **May**: I can live with Option C if we agree that the standard is objective. The consistency issue is solved.
+- [69] **Midori**: I can live with Option A if we agree that the standard is clear. The reminder issue is solved.
+- [70] **Toshio**: I am voting for Option A. It solves the billing issue and the fairness issue.
+- [71] **Ryuji**: I am voting for Option B. It solves the time issue.
+- [72] **Benjamin**: I am voting for Option A. It solves the fairness issue.
+- [73] **May**: I am voting for Option C. It solves the consistency issue.
+- [74] **Midori**: I am voting for Option A. It solves the reminder issue.
+- [75] **Toshio**: Option A is the most sustainable. It does not require anyone to be the collector.
+- [76] **Ryuji**: Option B is the most efficient. It removes the time cost entirely.
+- [77] **Benjamin**: Option A is the most fair. It matches the work to the usage.
+- [78] **May**: Option C is the most consistent. It has a clear, objective standard.
+- [79] **Midori**: Option A is the most harmonious. It does not require anyone to be the one who brings it up.
+### Vote
+- Toshio -> A
+- Ryuji -> B
+- Benjamin -> A
+- May -> C
+- Midori -> A
+## Result
+- adopted: A

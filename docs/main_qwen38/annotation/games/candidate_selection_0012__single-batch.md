@@ -1,0 +1,73 @@
+# candidate_selection_0012__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to verify the numbers before we commit. Who is checking the audit trail?
+- [6] **Jonathan**: I am worried about the talent drain. We are spending too much time hiring.
+- [7] **Shizue**: I want to see if our past stories match the actual returns.
+- [8] **Misaki**: The cash flow is tight. I need to know our borrowing capacity.
+- [9] **Shion**: The delays are always external. I want to know the specific obstacles.
+- [10] **Mizuki**: @Jonathan, hiring is a symptom. The root is often poor data visibility.
+- [11] **Jonathan**: Fair point. But without people, the data doesn't matter.
+- [12] **Shizue**: I agree with Mizuki. We need to look at retention, not just hiring.
+- [13] **Misaki**: I will look at the credit terms. We need flexibility.
+- [14] **Shion**: I will check the delivery records. I want to see the bottlenecks.
+- [15] **Mizuki**: I will investigate the independent checks on reported figures.
+- [16] **Jonathan**: I will look at the retained recruiters' placement times.
+- [17] **Shizue**: I will review the account retention through price rises.
+- [18] **Misaki**: I will also look at the terms of last winter's credit line.
+- [19] **Shion**: I will also check the security review time before first deployment.
+- [20] **Mizuki**: Let's see what we find.
+- [21] **Jonathan**: Agreed.
+- [22] **Shizue**: I hope the data is clear.
+- [23] **Misaki**: It must be.
+- [24] **Shion**: It will be.
+## Round 2
+- [35] **Mizuki**: The software companies only report their own dashboard figures. That is a red flag.
+- [36] **Jonathan**: Recruiters can't place field crews in under four months. That is a problem.
+- [37] **Shizue**: The shopkeeper tool lost a third of its accounts. The others held steady.
+- [38] **Misaki**: The credit line treats subscription contracts as worthless. That limits our leverage.
+- [39] **Shion**: Medical and financial deals took three quarters in security review. That is too long.
+- [40] **Mizuki**: @Shion, if the security review is that long, we miss the window.
+- [41] **Jonathan**: The advisers on the bench have taken nothing on. We are underutilizing them.
+- [42] **Shizue**: The exits were quiet back-office tools. The write-off ran its own premises.
+- [43] **Misaki**: The reserve accounts show follow-on money at twice the modelled rate.
+- [44] **Shion**: Exactly. And the hardware holding lost five months to a controller shortage.
+- [45] **Mizuki**: I need to know if the new holding will complicate our audit.
+- [46] **Jonathan**: We need to find people who can handle the rollout, not just the code.
+- [47] **Shizue**: The retention data suggests software is safer than physical goods.
+- [48] **Misaki**: If we can't borrow against subscriptions, we need a different model.
+- [49] **Shion**: The tool inside the bank's cycle never missed a release. That is promising.
+- [50] **Mizuki**: The audit needs for hardware are expensive and slow.
+- [51] **Jonathan**: I am concerned about the team availability.
+- [52] **Shizue**: I am leaning towards the software options.
+- [53] **Misaki**: I am concerned about the cash flow implications.
+- [54] **Shion**: I am concerned about the deployment timeline.
+## Round 3
+- [60] **Mizuki**: Candidate B, Ledger Bridge, fits the software profile. No hardware audit needed.
+- [61] **Jonathan**: Candidate A, Clinic Scheduler, requires medical staff. Recruiters are slow there.
+- [62] **Shizue**: Candidate B had high retention. Candidate C lost a third of accounts.
+- [63] **Misaki**: Candidate B is subscription-based. Our credit line doesn't value that.
+- [64] **Shion**: Candidate B is inside a bank cycle. No security review delay.
+- [65] **Mizuki**: @Misaki, the credit line issue is real, but the audit cost is worse.
+- [66] **Jonathan**: Candidate B needs support roles. Recruiters can fill those in weeks.
+- [67] **Shizue**: Candidate B is a back-office tool. That matches our successful exits.
+- [68] **Misaki**: I agree. The audit cost for hardware is a six-week delay.
+- [69] **Shion**: Candidate B has no external delivery obstacles. It is pure software.
+- [70] **Mizuki**: I am voting for B. The data is verifiable and the audit is simple.
+- [71] **Jonathan**: I am voting for B. The hiring needs are manageable.
+- [72] **Shizue**: I am voting for B. The retention is strong and the model is proven.
+- [73] **Misaki**: I am voting for B. It avoids the hardware audit trap.
+- [74] **Shion**: I am voting for B. It avoids the security review and delivery delays.
+- [75] **Mizuki**: It seems unanimous.
+- [76] **Jonathan**: Agreed.
+- [77] **Shizue**: Yes, B is the clear choice.
+- [78] **Misaki**: Agreed.
+- [79] **Shion**: Agreed.
+### Vote
+- Mizuki -> B
+- Jonathan -> B
+- Shizue -> B
+- Misaki -> B
+- Shion -> B
+## Result
+- adopted: B

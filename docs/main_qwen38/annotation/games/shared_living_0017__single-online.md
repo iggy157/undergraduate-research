@@ -1,0 +1,73 @@
+# shared_living_0017__single-online (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to stop guessing. I want to know exactly how many bikes leave between seven and nine, and where the rain hits.
+- [6] **Ryuji**: I want to verify the actual costs. I’ll check the building ledger and the station park fees to see what we’re really paying.
+- [7] **George**: I suspect the current arrangement is just habit, not fairness. I’ll review the five years of minutes and the sticker register to see who actually holds the spaces.
+- [8] **Shunichi**: I’m checking the complaint log and the neighbouring block’s account. I want to see how this arrangement actually breaks down before we make it worse.
+- [9] **Mio**: I’m looking at the treasurer’s handover file and the supplier’s display frame. I need to know the real workload and physical effort before we commit to anything.
+- [10] **Asuka**: @Ryuji, if the station park is cheaper than our internal costs, why not just send everyone there?
+- [11] **Ryuji**: @Asuka, I’m checking the ledger to see if we can even afford that. I need the numbers before we discuss alternatives.
+- [12] **George**: @Mio, the physical effort matters, but I need to know if the current holders are even using the spaces daily.
+- [13] **Shunichi**: @George, the complaint log shows the friction is already there. I’m checking the neighbor’s account to see if that friction turns into actual conflict.
+- [14] **Mio**: @George, I’m checking the frame to see if the physical strain is manageable. If it’s too hard, the system fails before it starts.
+- [15] **Asuka**: @Shunichi, if the neighbor’s block collapsed, what specific mechanism caused it? I need to know if it was the money or the social pressure.
+- [16] **Ryuji**: @Asuka, I’m checking the ledger to see if we can even afford that. I need the numbers before we discuss alternatives.
+- [17] **George**: @Asuka, I’m checking the minutes to see if the current holders are even using the spaces daily.
+- [18] **Shunichi**: @Asuka, I’m checking the neighbor’s account to see if that friction turns into actual conflict.
+- [19] **Mio**: @Asuka, I’m checking the frame to see if the physical strain is manageable. If it’s too hard, the system fails before it starts.
+- [20] **Asuka**: @Ryuji, I need the rain data to know if the covered spots are actually worth fighting over.
+- [21] **Ryuji**: @Asuka, I’m checking the ledger to see if we can even afford that. I need the numbers before we discuss alternatives.
+- [22] **George**: @Asuka, the minutes will show if the covered spots were ever formally assigned or just claimed by habit.
+- [23] **Shunichi**: @Asuka, the neighbor’s account will show if the friction turns into actual conflict.
+- [24] **Mio**: @Asuka, the frame trial will show if the physical strain is manageable. If it’s too hard, the system fails before it starts.
+## Round 2
+- [35] **Asuka**: #### Turn 1 of 4
+- [36] **Ryuji**: - **Ryuji**: The ledger shows capital work needs a levy. The station park costs 2,600 yen monthly, with fourteen households already waiting.
+- [37] **George**: - **George**: The minutes confirm the same flats held covered spots for five years without review. The sticker register shows daily riders prefer paying over equal claims.
+- [38] **Shunichi**: - **Shunichi**: The complaint log has nine unresolved notes. The neighbor’s block saw two households stop attending meetings after a monthly charge.
+- [39] **Mio**: - **Mio**: The treasurer spends three hours monthly on cash. The frame takes twenty seconds to load and needs greasing twice a year.
+- [40] **Asuka**: - **Asuka**: Eleven bikes leave between seven and nine, and four mornings required shifting another machine. The row under the eaves stays dry, but past the downpipe, saddles remain wet.
+- [41] **Ryuji**: - **Ryuji**: @Asuka, the shifting confirms the bottleneck. But the ledger shows no capital funds, so any new structure requires a levy.
+- [42] **George**: - **George**: @Ryuji, the ledger is one thing, but the minutes prove the current holders never faced a review. We need to address that inertia.
+- [43] **Shunichi**: @George, the neighbor’s block shows that charges create arrears and silence. We risk the same social fracture here if we push too hard.
+- [44] **Mio**: -Mio: @Shunichi, the neighbor’s silence is a warning, but the frame’s twenty-second load is manageable. I can handle the greasing if we split the duty.
+- [45] **Asuka**: - **Asuka**: @Mio, splitting the greasing duty is fine, but the morning bottleneck is the real crisis. We need a system that stops the shoving.
+- [46] **Ryuji**: @Asuka, the bottleneck is real, but the ledger shows no capital funds. Any new structure requires a levy, which the station park comparison makes difficult.
+- [47] **George**: @Ryuji, the ledger is empty, but the sticker register shows daily riders would pay. We can fund the levy without a capital project.
+- [48] **Shunichi**: @George, willingness to pay isn’t the same as ability to pay. The neighbor’s block proves that charges create arrears and silence, not just revenue.
+- [49] **Mio**: @Shunichi, I hear the warning, but the frame trial proved the physical load is light. I can manage the greasing if we rotate it fairly.
+- [50] **Asuka**: - **Asuka**: @Ryuji, the rain data proves the covered spots are the only viable option. We must protect them, not just count the bikes.
+- [51] **Ryuji**: @Asuka, the rain data is valid, but the ledger is empty. We cannot fund new structures without a levy, which the station park comparison makes difficult.
+- [52] **George**: @Ryuji, the ledger is empty, but the sticker register shows daily riders would pay. We can fund the levy without a capital project.
+- [53] **Shunichi**: @George, willingness to pay isn’t the same as ability to pay. The neighbor’s block proves that charges create arrears and silence, not just revenue.
+- [54] **Mio**: @Shunichi, I hear the warning, but the frame trial proved the physical load is light. I can manage the greasing if we rotate it fairly.
+## Round 3
+- [60] **Asuka**: #### Turn 1 of 4
+- [61] **Ryuji**: - **Ryuji**: The options are clear. I need to see which one avoids a levy, given our empty ledger.
+- [62] **George**: - **George**: @Ryuji, the lottery avoids the levy entirely. It also finally breaks the five-year habit I found in the minutes.
+- [63] **Shunichi**: - **Shunichi**: @George, a lottery is a coin flip. It ignores the rain data and the morning bottleneck. It just delays the conflict.
+- [64] **Mio**: @Shunichi, the lottery is simple, but the frame trial shows the physical work is light. I can handle the greasing if we rotate it fairly.
+- [65] **Asuka**: - **Asuka**: @Shunichi, the lottery ignores the rain data. The covered spots are the only viable option. We must protect them, not just count the bikes.
+- [66] **Ryuji**: - **Ryuji**: @Asuka, the lottery avoids the levy, but the station park’s fourteen waiters show demand exceeds supply. We need a sustainable model.
+- [67] **George**: - **George**: @Ryuji, the lottery is free, but it ignores the rain. The covered spots are the only viable option. We must protect them, not just count the bikes.
+- [68] **Shunichi**: @George, the lottery is a coin flip. It ignores the rain data and the morning bottleneck. It just delays the conflict.
+- [69] **Mio**: @George, the lottery is simple, but the frame trial shows the physical work is light. I can handle the greasing if we rotate it fairly.
+- [70] **Asuka**: - **Asuka**: @Mio, the frame trial is irrelevant if we choose the lottery. I need to know if you support the paid option to secure the covered spots.
+- [71] **Ryuji**: @Asuka, the paid option requires a levy. The ledger is empty, and the station park’s fourteen waiters prove external demand is high. I cannot support a cost we cannot verify.
+- [72] **George**: - **George**: @Ryuji, the sticker register shows daily riders prefer paying. That revenue covers the levy, so the ledger’s emptiness is not a barrier.
+- [73] **Shunichi**: @George, willingness to pay isn’t ability. The neighbor’s block proves charges create arrears and silence. I won’t risk that social fracture for a coin flip.
+- [74] **Mio**: @Shunichi, the neighbor’s block failed because the charge was opaque. If we rotate the greasing duty and keep the fee low, we avoid that trap.
+- [75] **Asuka**: - **Asuka**: @Mio, I support the paid option. It secures the covered spots and funds the maintenance, solving the rain and bottleneck issues.
+- [76] **Ryuji**: @Asuka, I cannot support a levy with an empty ledger. The station park’s fourteen waiters prove external demand is high. I cannot verify the cost.
+- [77] **George**: @Ryuji, the sticker register proves daily riders will pay. That revenue covers the levy, so the ledger’s emptiness is not a barrier.
+- [78] **Shunichi**: @George, the neighbor’s block proves charges create arrears and silence. I won’t risk that social fracture for a coin flip.
+- [79] **Mio**: @Shunichi, I hear your fear, but the frame trial proved the work is light. I’ll rotate the greasing duty so no one carries it alone.
+### Vote
+- Asuka -> A
+- Ryuji -> C
+- George -> A
+- Shunichi -> C
+- Mio -> A
+## Result
+- adopted: A

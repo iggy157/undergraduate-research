@@ -1,0 +1,73 @@
+# candidate_selection_0008__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Midori**: We need to know who is accountable when things break.
+- [6] **Ryuji**: The depot floor cannot stop for a software project.
+- [7] **May**: I am worried about systems that age quietly in place.
+- [8] **Misaki**: Our team is thin; we cannot afford a chaotic rollout.
+- [9] **Benjamin**: The headline price is a lie. I care about the long tail.
+- [10] **Midori**: @Ryuji, exactly. If the plan drifts, who fixes it?
+- [11] **Ryuji**: @Midori, the equipment is old. It must survive our calendar.
+- [12] **May**: @Benjamin, I agree. Hidden costs are a trap.
+- [13] **Misaki**: @May, and the people who have to learn it.
+- [14] **Benjamin**: @Misaki, yes. The bill arrives after the applause.
+- [15] **Midori**: Let's look at the support history and the scope changes.
+- [16] **Ryuji**: I will check the depot calendar and the yard devices.
+- [17] **May**: I want to see the upgrade history and the data lift.
+- [18] **Misaki**: I need to know about the retirements and the supervisors.
+- [19] **Benjamin**: I will pull the board minutes and the renewal invoices.
+- [20] **Midori**: Agreed. Let's see what the paper says.
+- [21] **Ryuji**: The floor is the truth.
+- [22] **May**: Let's find out what we've already survived.
+- [23] **Misaki**: The people are the bottleneck.
+- [24] **Benjamin**: The money is the reality.
+## Round 2
+- [35] **Midori**: The last outage was unowned for two days. That is unacceptable.
+- [36] **Ryuji**: We tried a cutover in peak season and lost two days.
+- [37] **May**: The dispatch tool skipped three upgrades. It is rotting.
+- [38] **Misaki**: Two admins retire this year. The last hire took eleven months.
+- [39] **Benjamin**: Capital is cut, but operating costs pass easily. The trap is set.
+- [40] **Midori**: @Benjamin, that explains why we keep buying add-ons.
+- [41] **Ryuji**: @May, the yard scanners are a mess. We need stability.
+- [42] **May**: @Misaki, if the trainers leave, the knowledge leaves too.
+- [43] **Misaki**: @Ryuji, the supervisors already ignored the last rollout.
+- [44] **Benjamin**: @Midori, the scope never survives a year. We need flexibility.
+- [45] **Midori**: We need a vendor who owns the whole thing.
+- [46] **Ryuji**: It must work with our old hardware and tight calendar.
+- [47] **May**: No more external teams fumbling with our data.
+- [48] **Misaki**: We need a partner who stays and trains us properly.
+- [49] **Benjamin**: I want a fixed cost structure. No surprise renewals.
+- [50] **Midori**: A single point of contact is essential.
+- [51] **Ryuji**: And it must be robust enough for the yard.
+- [52] **May**: And it must not age out of date in two years.
+- [53] **Misaki**: And it must respect the people we have.
+- [54] **Benjamin**: And it must be affordable over ten years, not just one.
+## Round 3
+- [60] **Midori**: Meridian offers a regional team. That solves the ownership gap.
+- [61] **Ryuji**: Anchor is built for transport. It fits our specific needs.
+- [62] **May**: Tessera has a marketplace. It might avoid the aging problem.
+- [63] **Misaki**: Corvus is modular. We can replace parts without a full overhaul.
+- [64] **Benjamin**: Meridian's fixed configuration might keep costs predictable.
+- [65] **Midori**: @Benjamin, but is it flexible enough for our rule changes?
+- [66] **Ryuji**: @May, a marketplace sounds nice, but who maintains it?
+- [67] **May**: @Ryuji, Anchor is on-premise. We have the skills for that.
+- [68] **Misaki**: @Midori, Meridian's regional team might be too far away.
+- [69] **Benjamin**: @Misaki, Corvus's separate licenses will climb yearly. I saw the invoices.
+- [70] **Midori**: I am leaning towards Meridian. The support model is clear.
+- [71] **Ryuji**: I prefer Anchor. It is built for us, not adapted to us.
+- [72] **May**: I am wary of Tessera. The data lift in 2018 was a disaster.
+- [73] **Misaki**: I am concerned about Corvus. Too many moving parts for our team.
+- [74] **Benjamin**: I am voting for Meridian. The cost structure is the most stable.
+- [75] **Midori**: Let's go with Meridian. It addresses the accountability issue.
+- [76] **Ryuji**: I can live with Meridian if the hardware is compatible.
+- [77] **May**: Meridian seems the safest bet against hidden costs.
+- [78] **Misaki**: I hope the regional team is responsive.
+- [79] **Benjamin**: It is the only one that doesn't look like a money pit.
+### Vote
+- Midori -> A
+- Ryuji -> D
+- May -> A
+- Misaki -> A
+- Benjamin -> A
+## Result
+- adopted: A

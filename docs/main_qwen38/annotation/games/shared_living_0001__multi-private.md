@@ -1,0 +1,71 @@
+# shared_living_0001__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried about the flat fee! It feels unfair if some people spend way more on extras. Who covers last-minute cancellations?
+- [6] **Shizue**: Mio, that’s a fair point. But let’s not forget the people. If we pick a place where everyone feels comfortable, the costs will matter less.
+- [7] **Ryuji**: The real issue is workload. Last year’s organizers were buried in duties. We need a destination that minimizes administrative burden for the committee.
+- [8] **Rin**: I want to know if the beds are comfy! Last time, half of us were so tired we couldn't focus. Let's check the sleeping arrangements first!
+- [9] **Misaki**: I need to verify the actual expenses from last year before we commit to any new costs.
+- [10] **Mio**: @Misaki, checking last year’s expenses is smart! I’ll look into the group transport receipts to see where the money actually went.
+- [11] **Shizue**: @Rin, I agree. Comfort is key. I’ll check the attendance sheets to see who actually showed up last time.
+- [12] **Ryuji**: I will examine the canteen closure and last year's cooking duty. If we can avoid meal preparation, we save significant time and reduce the risk of burnout for the committee.
+- [13] **Rin**: I’ll check the prefecture rate sheet for publicly run beds and the vacation timetable for the club's own hall!
+- [14] **Misaki**: I’ll check the accounts from two clubs that went inland and the quoting terms for whole-building lets.
+- [15] **Mio**: @Ryuji, avoiding cooking sounds great! I’ll check the membership list against first-train times to see who can actually travel early.
+- [16] **Shizue**: @Mio, that’s wise. I’ll look into what the seniors say about year-groups mixing, to help us bridge those gaps.
+- [17] **Ryuji**: I will review the lottery and application for public group bookings. Securing a venue without administrative hassle is critical to preventing the previous burnout.
+- [18] **Rin**: I’m done! I picked the rate sheet and the hall timetable. Let’s see what we find!
+- [19] **Misaki**: I’ll check the accounts from two clubs that went inland and the quoting terms for whole-building lets.
+- [20] **Mio**: I’m all set! I’ll check the transport receipts and the membership list against first-train times. Let’s see what we find!
+- [21] **Shizue**: I’ll check the attendance sheets and what the seniors say about year-groups mixing. Let’s see who we can bring closer together.
+- [22] **Ryuji**: I will review the canteen closure and the lottery application. Minimizing meal prep and securing the venue without hassle is essential to prevent committee burnout.
+## Round 2
+- [35] **Mio**: @Rin, the transport receipts are huge! Plus, a third of us can’t make the 9 AM train without paying for a bed. That’s a big hidden cost!
+- [36] **Shizue**: @Mio, that’s a real worry. But the seniors say mixing only happens when we sleep together. Let’s prioritize that connection over the train times.
+- [37] **Ryuji**: The canteen is closed, so we must find staffed kitchens. Also, the public booking lottery is a nine-page nightmare. We need a private venue to avoid that administrative burden.
+- [38] **Rin**: @Mio, 1,100 yen is cheap! But our own hall is booked, so we’d have to train at weird hours. Let’s pick a comfy public place!
+- [39] **Misaki**: The inland clubs slept eight to a room. Whole-building lets charge for everyone, even if they cancel. We need to know the true cost.
+- [40] **Mio**: @Misaki, whole-building lets charging for cancellations is exactly my worry! We need a clear rule for who pays if someone drops out.
+- [41] **Shizue**: @Misaki, I understand the worry. But if we sleep together, the seniors say the year-groups finally mix. That connection is worth the risk.
+- [42] **Ryuji**: @Misaki, that cancellation risk is unacceptable. We need a venue with staffed kitchens and flexible terms to protect the committee from burnout.
+- [43] **Rin**: @Ryuji, nine pages is too much! I want comfy beds, not paperwork. Let’s pick the public place with the cheap rate!
+- [44] **Misaki**: @Ryuji, I agree. We cannot absorb those costs. We need a venue with flexible terms to protect the account.
+- [45] **Mio**: @Rin, comfy beds are great, but if a third of us need extra nights, that’s a huge hidden cost! We need to budget for that!
+- [46] **Shizue**: @Mio, I hear you. But the sheets show a fifth never came. If we don’t sleep together, we lose them entirely.
+- [47] **Ryuji**: @Shizue, attendance is secondary to sustainability. If the committee burns out, the camp fails. We must prioritize venues that eliminate administrative and cooking burdens.
+- [48] **Rin**: @Shizue, I get it! But comfy beds help everyone mix better. If we’re tired, we’re grumpy! Let’s pick the cheap public place!
+- [49] **Misaki**: @Rin, cheap rates often hide the real burden. We must avoid fixed headcounts that punish us for late cancellations.
+- [50] **Mio**: @Misaki, exactly! We need flexible terms so one person’s exit doesn’t bankrupt the rest. Let’s vote for the option with the best cancellation policy!
+- [51] **Shizue**: @Mio, I understand the worry. But the seniors say mixing only happens when we sleep together. Let’s prioritize that connection over the train times.
+- [52] **Ryuji**: @Mio, I agree. Flexible terms are non-negotiable. We must avoid the rigid public lottery and the fixed costs of whole-building lets.
+- [53] **Rin**: @Mio, I agree! But comfy beds are my top priority. If we’re tired, we’re grumpy! Let’s pick the cheap public place!
+- [54] **Misaki**: @Mio, agreed. We must avoid fixed headcounts. I will vote for the option with the most flexible cancellation terms to protect the account.
+## Round 3
+- [60] **Mio**: @Misaki, Option C’s whole-building let sounds risky for cancellations! But Option A’s separate accommodation might hide costs. Which one has the safest exit policy?
+- [61] **Shizue**: @Mio, Option B keeps us together in shared dorms. The seniors say that’s where the real mixing happens. Let’s choose the mountain.
+- [62] **Ryuji**: Option B’s municipal system is the nine-page lottery I warned about. Option C’s owner handles meals, eliminating cooking duty. I reject B’s administrative burden.
+- [63] **Rin**: @Ryuji, the mountain place has comfy beds! I want to sleep well so I can play hard. Let's pick the mountain!
+- [64] **Misaki**: @Mio, Option C’s fixed headcount is dangerous. Option A’s separate costs are opaque. I need to see the actual numbers before voting.
+- [65] **Mio**: @Misaki, I can’t wait for numbers! Option A’s separate beds are a hidden cost trap. I’m voting for C to avoid the lottery!
+- [66] **Shizue**: @Mio, I understand the worry. But the seniors say mixing only happens when we sleep together. Let’s prioritize that connection over the train times.
+- [67] **Ryuji**: @Mio, Option C’s owner handles meals, eliminating the cooking burden that destroyed last year’s committee. I vote for C to ensure sustainability.
+- [68] **Rin**: @Mio, I vote for the mountain! Comfy beds mean happy, energetic days. No more grumpy tiredness!
+- [69] **Misaki**: @Mio, I cannot vote yet. I need to verify the true costs of Option A’s separate accommodation before committing.
+- [70] **Mio**: @Misaki, I get it, but we need to move! Option C’s owner handles meals, saving us from cooking burnout. I’m voting for C!
+- [71] **Shizue**: @Misaki, I understand your caution. But the seniors say mixing only happens when we sleep together. Let’s prioritize that connection over the train times.
+- [72] **Ryuji**: @Misaki, we must decide now. Option C eliminates the cooking burden and avoids the rigid public lottery. I vote for C to protect the committee.
+- [73] **Rin**: @Misaki, please hurry! I really want the mountain beds. If we sleep well, we’ll have so much fun!
+- [74] **Misaki**: @Mio, I understand the urgency. However, I cannot commit to C’s fixed headcount. I vote for A to avoid the non-refundable deposit risk.
+- [75] **Mio**: @Misaki, I hear you! But Option A’s separate beds are a hidden cost trap. I’m voting for C to avoid the lottery!
+- [76] **Shizue**: @Misaki, I understand your caution. But the seniors say mixing only happens when we sleep together. Let’s prioritize that connection over the train times.
+- [77] **Ryuji**: I stand by my vote for C. It is the only option that removes the administrative and cooking burdens that caused last year’s failure.
+- [78] **Rin**: I vote for the mountain! Comfy beds mean happy, energetic days. No more grumpy tiredness!
+- [79] **Misaki**: I stand by my vote for A. We cannot risk the account with C's non-refundable deposit.
+### Vote
+- Mio -> C
+- Shizue -> B
+- Ryuji -> C
+- Rin -> B
+- Misaki -> A
+## Result
+- adopted: B

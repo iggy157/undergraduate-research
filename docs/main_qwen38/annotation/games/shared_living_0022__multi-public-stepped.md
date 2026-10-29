@@ -1,0 +1,73 @@
+# shared_living_0022__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **May**: I refuse to sign anything that leaves the burden on one gate forever.
+- [6] **Mizuki**: We need to know what living beside this actually feels like daily.
+- [7] **Kenji**: Nobody has added up the costs yet. That worries me the most.
+- [8] **Midori**: We still have to live here together. Let's keep the peace.
+- [9] **Servas**: I want to know the hours this takes out of us all.
+- [10] **May**: @Kenji, exactly. The budget gap is real.
+- [11] **Mizuki**: @Servas, the daily grind is the real enemy here.
+- [12] **Kenji**: I agree. We need hard numbers before we guess.
+- [13] **Midori**: I worry about the silence between two houses right now.
+- [14] **Servas**: Experience says the quiet ones wear people down the fastest.
+- [15] **May**: Let's look at the complaint log and the frontage measurements.
+- [16] **Mizuki**: I will check the station block's bin house and the minutes.
+- [17] **Kenji**: I'll pull the block ledger and the ward subsidy details.
+- [18] **Midori**: I want to see the residents' meeting statements and the truck time.
+- [19] **Servas**: I will look into the supervised mornings and the filing requirements.
+- [20] **May**: Fair enough. Let's see what the data says.
+- [21] **Mizuki**: Agreed. Facts will guide us better than feelings.
+- [22] **Kenji**: Sounds like a plan. I'll get to work.
+- [23] **Midori**: Thank you all. Let's hope it helps us talk again.
+- [24] **Servas**: A wise step. Let us see what the truth reveals.
+## Round 2
+- [35] **May**: Eleven complaints from one house. The imbalance is glaring.
+- [36] **Mizuki**: The bin house smells worse than the open pile. That's a trap.
+- [37] **Kenji**: The ledger shows thirty-four thousand yen a year in extra fees.
+- [38] **Midori**: The truck comes at seven forty. That's before most of us wake.
+- [39] **Servas**: A permanent build takes four months and five signatures. That is heavy.
+- [40] **May**: @Kenji, those fees are just for open bags. We need structure.
+- [41] **Mizuki**: @Servas, four months is a long time to wait for a fix.
+- [42] **Kenji**: The subsidy covers forty percent, capped at ninety thousand.
+- [43] **Midori**: If the window starts too early, people will just ignore it.
+- [44] **Servas**: The supervised mornings are only fifty minutes each. Manageable.
+- [45] **May**: The narrowest frontage is only ninety centimetres. We can't build there.
+- [46] **Mizuki**: The station block argued over sweeping within two years. We will too.
+- [47] **Kenji**: So a permanent structure is expensive and slow.
+- [48] **Midori**: Rotating the location might spread the pain, but also the responsibility.
+- [49] **Servas**: Rotating means new notices every time. That is administrative fatigue.
+- [50] **May**: I think we need to look at the options now.
+- [51] **Mizuki**: Agreed. The data suggests the easy fixes are traps.
+- [52] **Kenji**: Let's see what the ward offers as actual choices.
+- [53] **Midori**: I hope one of them keeps us talking.
+- [54] **Servas**: Let us see what remains on the table.
+## Round 3
+- [60] **May**: Option A spreads the burden. No one house suffers alone.
+- [61] **Mizuki**: Option C is a trap. The smell and the arguments are proven.
+- [62] **Kenji**: Option B is cheap, but the early window is a problem.
+- [63] **Midori**: Option A feels fair. It forces us to share the inconvenience.
+- [64] **Servas**: Option A requires new notices each time. That is a lot of paper.
+- [65] **May**: @Servas, the paper is worth it to stop the resentment.
+- [66] **Mizuki**: @Kenji, the early window means people will just leave bags out.
+- [67] **Kenji**: The subsidy helps with C, but the cost is still high.
+- [68] **Midori**: I worry B will make us the police. I don't want that.
+- [69] **Servas**: B relies on willpower. A relies on rules. Rules are safer.
+- [70] **May**: I am leaning towards A. It's the only one that feels equal.
+- [71] **Mizuki**: I agree. C is a disaster waiting to happen.
+- [72] **Kenji**: A is expensive in admin, but fair. B is cheap but unfair.
+- [73] **Midori**: A keeps the peace. We can handle the notices together.
+- [74] **Servas**: A is the most sustainable. It prevents the quiet erosion of trust.
+- [75] **May**: Let's vote. I think A is the clear winner.
+- [76] **Mizuki**: Agreed. Let's not build a prison.
+- [77] **Kenji**: I'll vote A. Fairness matters more than saving a few yen.
+- [78] **Midori**: I vote A. I want us to be neighbours again.
+- [79] **Servas**: I vote A. It is the path of least resentment.
+### Vote
+- May -> A
+- Mizuki -> A
+- Kenji -> A
+- Midori -> A
+- Servas -> A
+## Result
+- adopted: A

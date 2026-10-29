@@ -1,0 +1,73 @@
+# shared_living_0007__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Misaki**: I worry about how this allocation will affect our daily interactions in the lobby.
+- [6] **Shizue**: The morning rush is becoming quite difficult for everyone, especially the elderly.
+- [7] **May**: We need to know the actual costs involved before we agree to anything.
+- [8] **George**: Who will be responsible for maintaining whatever system we choose?
+- [9] **Mio**: I’ve heard complaints that the same spots always go to the same people.
+- [10] **Misaki**: @Shizue, have you noticed specific times when the congestion is worst?
+- [11] **Shizue**: Yes, mostly between seven and nine in the morning.
+- [12] **May**: @George, do you have any data on past maintenance efforts?
+- [13] **George**: I’ve seen the minutes, but the details are sparse.
+- [14] **Mio**: I want to check if the current spots match where bikes actually are.
+- [15] **Misaki**: We should look into the complaint log to see what issues have arisen.
+- [16] **Shizue**: I’ll check the morning departures to understand the flow better.
+- [17] **May**: I need to look at the building’s ledger to see our financial standing.
+- [18] **George**: I’ll review the treasurer’s file to understand the workload involved.
+- [19] **Mio**: I’ll check the sticker register to see who is actually using the spaces.
+- [20] **Misaki**: Let’s gather this information before we decide on a final option.
+- [21] **Shizue**: Agreed. Understanding the problem is the first step to solving it.
+- [22] **May**: I’ll also look into the ward cycle park as a potential alternative.
+- [23] **George**: I’ll check the supplier’s display frame to see if it’s practical.
+- [24] **Mio**: I’ll also look at the five years of association minutes for context.
+## Round 2
+- [35] **Misaki**: The complaint log shows issues die out because no one is responsible.
+- [36] **Shizue**: I found that shifting bikes is a common problem in the morning rush.
+- [37] **May**: The ledger shows we have little money for capital work, and the station park is expensive.
+- [38] **George**: The treasurer spends three hours a month on cash, and the rack is hard to use.
+- [39] **Mio**: The minutes show the same flats have held the covered spots for years without review.
+- [40] **Misaki**: @Mio, does the sticker register show who is actually riding daily?
+- [41] **Shizue**: The rain exposure is a real issue for those in the back row.
+- [42] **May**: If we pay for the station park, it’s 2,600 yen a month, which is a lot.
+- [43] **George**: The physical effort of the rack is significant, especially for older residents.
+- [44] **Mio**: Yes, the daily riders said they’d rather pay than be treated as equal claims.
+- [45] **Misaki**: We need a system that doesn’t create resentment or require constant policing.
+- [46] **Shizue**: Perhaps a shared rack could solve the rain and shifting issues?
+- [47] **May**: But who pays for the rack? The ledger is empty.
+- [48] **George**: The maintenance of the rack would be a burden on one person.
+- [49] **Mio**: The lottery might be fair, but it ignores the daily riders’ preferences.
+- [50] **Misaki**: I’m leaning towards a paid allocation to cover costs and reduce conflict.
+- [51] **Shizue**: I worry about the physical difficulty of the racks for some residents.
+- [52] **May**: Paid allocation seems the most financially viable, despite the cost.
+- [53] **George**: I agree, but we must ensure the maintenance is shared or automated.
+- [54] **Mio**: If the daily riders are willing to pay, a paid system might work best.
+## Round 3
+- [60] **Misaki**: Option A seems to address the financial and conflict issues directly.
+- [61] **Shizue**: Option B might be too physically demanding for some, but it’s fair.
+- [62] **May**: Option A is the only one that brings in money to cover costs.
+- [63] **George**: Option A requires management, but it’s the most sustainable.
+- [64] **Mio**: Option A aligns with what the daily riders said they prefer.
+- [65] **Misaki**: @George, how would we handle the maintenance for Option A?
+- [66] **Shizue**: We could rotate the responsibility or hire a service.
+- [67] **May**: The income from Option A could pay for a maintenance service.
+- [68] **George**: That sounds reasonable. The ledger is empty, so we need income.
+- [69] **Mio**: I think Option A is the best choice for everyone.
+- [70] **Misaki**: I’m voting for Option A.
+- [71] **Shizue**: I’m also voting for Option A, despite my concerns.
+- [72] **May**: Definitely Option A.
+- [73] **George**: I’ll vote for Option A, provided we set up a maintenance plan.
+- [74] **Mio**: Option A it is.
+- [75] **Misaki**: Let’s proceed with Option A.
+- [76] **Shizue**: Thank you all for your input.
+- [77] **May**: I’ll start looking into maintenance service quotes.
+- [78] **George**: I’ll draft the maintenance rotation plan.
+- [79] **Mio**: I’ll help with the communication to the residents.
+### Vote
+- Misaki -> A
+- Shizue -> A
+- May -> A
+- George -> A
+- Mio -> A
+## Result
+- adopted: A

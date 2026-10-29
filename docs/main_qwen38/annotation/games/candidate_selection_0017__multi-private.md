@@ -1,0 +1,73 @@
+# candidate_selection_0017__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: The plans ignore staffing reality. I need to verify if crews have capacity before we commit to new routes.
+- [6] **Takumi**: Stop guessing! We need actual crowd counts, not just complaints. I’m checking the timed runs to see where the real delays are.
+- [7] **Benjamin**: I appreciate the enthusiasm, but let’s not confuse noise with data. I’m focusing on the capital ledger to see what we can actually afford.
+- [8] **Servas**: I’ve seen these proposals before. I’ll review the earlier accessibility programme records to see what actually stuck, rather than repeating old mistakes.
+- [9] **Jonathan**: I’m drawn to the joint operators' committee minutes. I suspect the delays hide in the approvals, not the drawings.
+- [10] **Asuka**: @Takumi, crowd counts don’t show crew availability. I’m checking the roster books for the late-turn pool to see who is actually left.
+- [11] **Takumi**: @Asuka, rosters are just paper. I’m checking the journey audits to find where minutes actually vanish.
+- [12] **Benjamin**: @Asuka, rosters are just paper. I’m checking the journey audits to find where minutes actually vanish.
+- [13] **Servas**: @Benjamin, I agree. Data beats noise. I’ll examine the two pilots from eight years ago to see what failed then.
+- [14] **Jonathan**: I’ll also look into the crew establishment and maintenance contract. I need to know who else must sign off before we can trust any timeline.
+- [15] **Asuka**: @Benjamin, you copied Takumi. That’s lazy. I’m checking the ticketing contractor fees to see if hidden costs are eating our budget.
+- [16] **Takumi**: @Asuka, I didn’t copy him! I’m checking the ticketing fees too. If contractors are skimming, that’s where the real money goes.
+- [17] **Benjamin**: @Asuka, I stand corrected. I am reviewing the ticketing contractor fees and paving rates to ensure our headline numbers aren’t a mirage.
+- [18] **Servas**: @Asuka, patience is a virtue. I’ll examine the contingency pricing inside the pre-war shells to understand our true financial exposure.
+- [19] **Jonathan**: I’ll also review the completion records of the earlier accessibility programme. I need to see what actually stalled, not just what was promised.
+- [20] **Asuka**: I am reviewing the roster books for the late-turn pool. I need to know exactly which crews are exhausted before we promise anything new.
+- [21] **Takumi**: I’m checking the ticketing contractor fees and paving rates. If they’re skimming, that’s where the real money goes.
+- [22] **Benjamin**: I am reviewing the ticketing contractor fees and paving rates. If they’re skimming, that’s where the real money goes.
+- [23] **Servas**: I will review the two pilots from eight years ago and the earlier accessibility programme records. History is a teacher, and I intend to listen carefully.
+- [24] **Jonathan**: I’ll review the joint operators' committee minutes and the crew establishment contract. I need to map the hidden approval chains before trusting any dates.
+## Round 2
+- [35] **Asuka**: The late-turn pool is exhausted. Overtime covers final departures and overnight works. We cannot add routes without breaking the existing schedule.
+- [36] **Takumi**: @Asuka, your crews are tired, but the data says the real killer is waiting for connections, not the platform. We must fix the transfers, not just add buses.
+- [37] **Benjamin**: @Asuka, your exhaustion is real, but my ledger shows the operating subsidy is already gutted. We cannot fund new routes without breaking the bank.
+- [38] **Servas**: @Asuka, your concern is valid. Yet history shows some changes endure. Let us learn from what succeeded before we dismiss the new.
+- [39] **Jonathan**: The minutes reveal a data gap between ferry and rail. Roadway consents are delegated, though. That simplifies our approval path significantly.
+- [40] **Asuka**: @Benjamin, your ledger confirms my fear. Ticketing fees exceed resurfacing budgets. We are bleeding money on contractors while crews burn out.
+- [41] **Takumi**: @Benjamin, stop hiding in the ledger! The audits prove connection waits are the bottleneck. We need to fix the timing, not just count the coins.
+- [42] **Benjamin**: @Takumi, I am not hiding; I am counting. Your timing fixes are expensive. The ledger shows we lack the capital to pay for them without borrowing.
+- [43] **Servas**: @Benjamin, @Takumi, you both hold half the truth. The pilots succeeded because they were modest. Let us choose the path that respects both our limits and our history.
+- [44] **Jonathan**: The maintenance contract shows spare lift capacity. That suggests the stalled schemes were never about physical limits, but about who held the pen.
+- [45] **Asuka**: @Servas, modesty is not a strategy. The rosters prove we have zero slack. Any plan requiring new crew is mathematically impossible. We must choose the option that uses existing staff.
+- [46] **Takumi**: @Asuka, you’re wrong! The data proves the problem is timing, not bodies. We fix the connections, and the crowds clear faster. No new staff needed.
+- [47] **Benjamin**: @Takumi, timing fixes are capital intensive. The ledger shows no room for that. We must prioritize operational efficiency over expensive infrastructure changes.
+- [48] **Servas**: @Asuka, @Takumi, @Benjamin, listen. The pilots succeeded because they were modest. Let us choose the path that respects both our limits and our history.
+- [49] **Jonathan**: @Servas, I agree. The spare capacity confirms the bottleneck is administrative, not physical. We must pick the plan with the fewest external sign-offs.
+- [50] **Asuka**: @Jonathan, administrative bottlenecks are irrelevant if the crews are already maxed out. We need a plan that requires zero additional staffing.
+- [51] **Takumi**: @Asuka, you’re ignoring the stopwatch! The data proves connection waits are the killer. Fix the timing, not the bodies.
+- [52] **Benjamin**: @Asuka, @Takumi, you both miss the point. The ledger is empty. We cannot afford your timing fixes or your staffing demands. We must choose the cheapest option.
+- [53] **Servas**: @Benjamin, the ledger is a map, not a wall. The pilots proved modest changes work. Let us choose the path that respects our limits and our history.
+- [54] **Jonathan**: @Asuka, the spare lift crew means we can absorb the work without new hires. The administrative path is clear, and the physical capacity exists.
+## Round 3
+- [60] **Asuka**: @Jonathan, spare lift capacity is irrelevant. Option A requires new night rosters. My data shows zero slack. We cannot staff this.
+- [61] **Takumi**: @Asuka, you’re wrong again! Option B fixes the mid-city delays I measured. It uses existing crews and targets the real bottleneck. Vote B!
+- [62] **Benjamin**: @Takumi, Option B requires paving. My findings show paving rates have climbed, and ticketing fees already exceed resurfacing budgets. We cannot afford the infrastructure.
+- [63] **Servas**: @Benjamin, @Takumi, history favors modesty. Option C’s accessibility upgrades succeeded before. It respects our limits and avoids new staffing burdens.
+- [64] **Jonathan**: @Servas, I agree. Option C uses the spare lift crew and avoids the ferry data gap. It is the only path with clear administrative consent.
+- [65] **Asuka**: @Servas, Option C is the only viable choice. It requires no new rosters, unlike A, and avoids the paving costs of B. I vote C.
+- [66] **Takumi**: @Asuka, you’re ignoring the stopwatch! Option B fixes the mid-city delays I measured. It uses existing crews and targets the real bottleneck. Vote B!
+- [67] **Benjamin**: @Asuka, I concur. Option C avoids the capital trap. My ledger confirms we cannot fund B’s paving or A’s overtime. I vote C.
+- [68] **Servas**: @Asuka, @Benjamin, I agree. Option C honors our history and limits. The pilots proved modesty endures. I vote C.
+- [69] **Jonathan**: @Asuka, @Benjamin, I concur. Option C aligns with the spare capacity and clear consents. It is the only path that respects our administrative reality. I vote C.
+- [70] **Asuka**: The vote is unanimous. Option C is selected. No further discussion is needed.
+- [71] **Takumi**: @Asuka, you’re wrong! The data proves connection waits are the killer. Option B fixes the mid-city delays I measured. Vote B!
+- [72] **Benjamin**: @Takumi, the ledger does not bend to your stopwatch. Option C is the only fiscally responsible choice. I stand by my vote.
+- [73] **Servas**: @Takumi, your passion is admirable, but the ledger and history align. Option C is our path. I stand by my vote.
+- [74] **Jonathan**: @Takumi, the data gap you cite is real, but the approval chain for B is tangled. C is the only path we can actually deliver.
+- [75] **Asuka**: The vote is cast. Option C is selected. I am satisfied that we are not promising what our exhausted crews cannot deliver.
+- [76] **Takumi**: @Asuka, I hate losing, but I won’t let you ignore the data. Option C is a band-aid. The real fix is B. I stand by my vote.
+- [77] **Benjamin**: @Takumi, the ledger is the final authority. Option C is selected. Please prepare the documentation for the board.
+- [78] **Servas**: @Takumi, your vigilance is a gift. We choose C, but we must remember B’s promise. Let us build this foundation with care and wisdom.
+- [79] **Jonathan**: @Takumi, your vigilance is noted. We choose C, but we must remember B’s promise. Let us build this foundation with care and wisdom.
+### Vote
+- Asuka -> C
+- Takumi -> B
+- Benjamin -> C
+- Servas -> C
+- Jonathan -> C
+## Result
+- adopted: C

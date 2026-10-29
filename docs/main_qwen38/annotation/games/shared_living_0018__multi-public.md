@@ -1,0 +1,73 @@
+# shared_living_0018__multi-public (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I want to look at the fortnight's tally of use by person and the final clear-out of the old fridge.
+- [6] **Jonathan**: I’d like to check where the last awkward conversation happened and the unplanned talk since the refit.
+- [7] **May**: I’m picking the invoices for outside hire and the round trip for a hot lunch. I need to see where our time and money actually go before we commit.
+- [8] **Shunichi**: I’m taking the quotes for the two fit-outs and the partition wall. I need the hard numbers and the acoustic reality before we sign anything.
+- [9] **Servas**: I will look into the crumbs and bins at the desks, and the facilities callouts on this floor.
+- [10] **Ryuji**: I’m curious why Jonathan is focusing on the awkward conversation. Is that relevant to the room’s function, or just personal history?
+- [11] **Jonathan**: It’s relevant. If we can’t speak freely here, the room fails its purpose. I’m checking if the layout prevents that.
+- [12] **May**: @Ryuji, it’s not just history. If the room forces awkwardness, it’s a failure. I’m checking the time cost of the current chaos.
+- [13] **Shunichi**: @Ryuji, it’s relevant. If the room can’t hold a difficult conversation, it’s useless. I’m checking the physical barriers that make that impossible.
+- [14] **Servas**: @Ryuji, it is relevant. A room that breeds silence is a room that fails. I am checking the physical evidence of how we actually use this space.
+- [15] **Ryuji**: I appreciate the consensus. I am simply verifying if the current usage patterns justify a dedicated function, or if we are just perpetuating the status quo.
+- [16] **Jonathan**: I agree. We need to know if the current chaos is a symptom of the room’s design or just our habits.
+- [17] **May**: @Ryuji, exactly. I’m checking if the current mess is a design flaw or just our bad habits. I need to see the real cost of that chaos.
+- [18] **Shunichi**: @Ryuji, I’m not interested in habits. I’m interested in liability. If the wall is thin, we’re paying for a room that leaks sound. That’s a financial failure, not a social one.
+- [19] **Servas**: @Shunichi, you are right to look at the wall. But I am looking at the crumbs. They tell me where the mess actually lives, not just where the sound goes.
+- [20] **Ryuji**: I will wait for the findings. The data will show if the current arrangement is sustainable or if we are simply ignoring the problem.
+- [21] **Jonathan**: I’ll wait for the findings too. The data will show if the room’s design is the root cause of our isolation, or if it’s simply a matter of habit.
+- [22] **May**: I’ll wait for the findings. I need to see if the time we’re losing is a design flaw or just our bad habits.
+- [23] **Shunichi**: I’ll wait for the numbers. I’m not voting on feelings; I’m voting on whether this room is a financial leak or a functional asset.
+- [24] **Servas**: I will wait for the findings. The evidence will show if the room is a source of friction or a place of peace.
+## Round 2
+- [35] **Ryuji**: The tally shows two people used it eleven times; the rest, four. The fridge clearing fell to one person twice. The burden is uneven.
+- [36] **Jonathan**: The awkward talk happened across open desks, leaving silence for weeks. Unplanned chat now only happens by the printer. We are isolated.
+- [37] **May**: 68,000 yen for nine tiny bookings, and a twenty-five minute lunch walk three days a week. We are bleeding time and money.
+- [38] **Shunichi**: 141,000 yen for a screen, 96,000 for a hob. And the wall is single plasterboard. We can hear everything. That is a financial and acoustic disaster.
+- [39] **Servas**: Eleven callouts for equipment, zero for the empty store. The crumbs are under three keyboards. The mess is at our desks, not in the room.
+- [40] **Ryuji**: @Shunichi, the plasterboard confirms the acoustic failure. @Servas, the crumbs suggest the mess is already at our desks, not in the room.
+- [41] **Jonathan**: @Ryuji, the printer is a poor substitute for real connection. @May, that twenty-five minute walk is a daily tax on our energy.
+- [42] **May**: @Jonathan, that daily tax is exactly what I mean. We are paying for a room that doesn’t solve the problem, while we waste hours walking.
+- [43] **Shunichi**: @May, the 68,000 yen is a leak. @Ryuji, the plasterboard confirms the room is acoustically useless. We are paying for a hole in the wall.
+- [44] **Servas**: @Shunichi, the plasterboard is a barrier, but the crumbs are a habit. We must decide if we want a room for silence, or a room for life.
+- [45] **Ryuji**: @Servas, the data shows the burden falls on whoever minds most. We need a system that prevents that, not just a room.
+- [46] **Jonathan**: @Servas, I hear you. But the data shows we lack a safe place for difficult truths. We need a room that protects privacy, not just one that holds crumbs.
+- [47] **May**: @Servas, I’m not interested in philosophy. I’m interested in the 68,000 yen leak. If we don’t fix the time cost, we’re just moving the problem.
+- [48] **Shunichi**: @May, the 68,000 yen is a symptom, not the cause. The cause is the plasterboard. We are paying for a room that cannot hold a secret.
+- [49] **Servas**: @May, the money is a symptom. The real cost is the silence. We must choose a room that lets us speak, not just one that holds our crumbs.
+- [50] **Ryuji**: @Ryuji, the tally proves the current system is broken. We need a rule that stops the burden from falling on the same two people.
+- [51] **Jonathan**: @Ryuji, the tally shows the burden is uneven, but the real failure is the silence. We need a space that protects difficult conversations, not just one that holds crumbs.
+- [52] **May**: @Shunichi, the plasterboard is a leak, but the twenty-five minute walk is a daily tax. We are bleeding time and money. I need to see if a kitchen fixes that, or if we are just moving the problem.
+- [53] **Shunichi**: @May, the walk is a symptom. The plasterboard is the disease. We are paying for a room that cannot hold a secret.
+- [54] **Servas**: @May, the walk is a symptom. The silence is the disease. We need a room that lets us speak, not just one that holds our crumbs.
+## Round 3
+- [60] **Ryuji**: The tally proves the current system is broken. We need a rule that stops the burden from falling on the same two people.
+- [61] **Jonathan**: The shared calendar in option C creates the structure we lack. It prevents the first-come, first-served chaos that left us isolated.
+- [62] **May**: @Jonathan, a calendar doesn’t fix the twenty-five minute lunch walk. I need to know if the kitchen actually saves us time, or just moves the mess.
+- [63] **Shunichi**: @May, the kitchen quote is 96,000 yen. The meeting space is 141,000. I am not paying for a hob to fix a social problem.
+- [64] **Servas**: @May, the walk is a symptom. The silence is the disease. We need a room that lets us speak, not just one that holds our crumbs.
+- [65] **Ryuji**: @Shunichi, the calendar in option C is the rule I need. It stops the burden from falling on whoever minds most, unlike the kitchen’s “whoever uses it” clause.
+- [66] **Jonathan**: @Ryuji, the calendar is a start, but the plasterboard wall is the real barrier. We need a space where difficult truths can be spoken without being overheard.
+- [67] **May**: @Shunichi, the 96,000 yen is cheaper, but it doesn’t fix the twenty-five minute walk. I need to know if the kitchen actually saves us time, or just moves the mess.
+- [68] **Shunichi**: @May, the walk is a symptom. The plasterboard is the disease. We are paying for a room that cannot hold a secret.
+- [69] **Servas**: @Jonathan, the plasterboard is a flaw, but a quiet room offers no place to speak. I choose the meeting space, where we can finally be heard.
+- [70] **Ryuji**: @Jonathan, the calendar is the mechanism. It replaces the arbitrary first-come rule with a fair, transparent system. That is the only way to end the uneven burden.
+- [71] **Jonathan**: @Ryuji, the calendar is a start, but the plasterboard wall is the real barrier. We need a space where difficult truths can be spoken without being overheard.
+- [72] **May**: @Shunichi, the plasterboard is a flaw, but the twenty-five minute walk is a daily tax. I need to know if the kitchen actually saves us time, or just moves the mess.
+- [73] **Shunichi**: @May, the walk is a symptom. The plasterboard is the disease. We are paying for a room that cannot hold a secret.
+- [74] **Servas**: @Shunichi, the plasterboard is a flaw, but a quiet room offers no place to speak. I choose the meeting space, where we can finally be heard.
+- [75] **Ryuji**: @Shunichi, the plasterboard is a flaw, but the calendar is the fix. I vote C. It ends the arbitrary burden and gives us a fair, transparent system.
+- [76] **Jonathan**: @Ryuji, the calendar is a start, but the plasterboard wall is the real barrier. We need a space where difficult truths can be spoken without being overheard.
+- [77] **May**: @Shunichi, the plasterboard is a flaw, but the twenty-five minute walk is a daily tax. I vote A. It saves us time and stops the mess from spreading to our desks.
+- [78] **Shunichi**: @May, the plasterboard is the disease. I vote C. The 141,000 yen is cheaper than the 68,000 yen annual leak. It is the only rational choice.
+- [79] **Servas**: @Shunichi, the plasterboard is a flaw, but a quiet room offers no place to speak. I choose the meeting space, where we can finally be heard.
+### Vote
+- Ryuji -> C
+- Jonathan -> C
+- May -> A
+- Shunichi -> C
+- Servas -> C
+## Result
+- adopted: C

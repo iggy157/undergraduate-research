@@ -1,0 +1,73 @@
+# shared_living_0028__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Shion**: The noise from the fridge is constant. It disrupts focus.
+- [6] **Daisuke**: I worry about the monthly costs. We need clarity.
+- [7] **Rin**: Why does the cleaning always fall on me? It’s unfair.
+- [8] **Servas**: We are close yet distant. We need a space to connect.
+- [9] **Toshio**: I track the time lost to these interruptions. It adds up.
+- [10] **Shion**: @Toshio Your data might prove the noise is a productivity killer.
+- [11] **Daisuke**: @Shion If we can quantify the loss, we can justify a fix.
+- [12] **Rin**: I want to see who actually uses the room. Who is hogging it?
+- [13] **Servas**: @Rin Usage patterns reveal habits. Habits shape our community.
+- [14] **Toshio**: I will look at the invoices and the usage tally.
+- [15] **Shion**: I will check the facilities callouts and the partition wall.
+- [16] **Daisuke**: I need to see the quotes for the fit-outs.
+- [17] **Rin**: I will check the fortnight's tally and the crumbs at desks.
+- [18] **Servas**: I will look into the last awkward conversation and the hot lunch.
+- [19] **Toshio**: I will investigate the invoices and the usage tally.
+- [20] **Shion**: The partition is a barrier. It needs to be addressed.
+- [21] **Daisuke**: Paper trails are essential. I will review the financial quotes.
+- [22] **Rin**: Fairness starts with knowing who does what. I will check the logs.
+- [23] **Servas**: A shared meal can bridge gaps. I will explore that possibility.
+- [24] **Toshio**: Efficiency is the only metric that matters here. I will proceed.
+## Round 2
+- [35] **Shion**: The wall is thin. Sound travels. It is a privacy failure.
+- [36] **Daisuke**: The fit-out quotes are high. 141,000 for the screen alone.
+- [37] **Rin**: The tally shows two people use it eleven times. I use it four.
+- [38] **Servas**: The awkward talk happened here. We need a place to speak freely.
+- [39] **Toshio**: The invoices show 68,000 yen for outside hire. We are paying for space we already have.
+- [40] **Shion**: @Daisuke 141,000 is steep. But the wall is useless.
+- [41] **Daisuke**: @Toshio We are paying 68,000 for outside space. That is a waste.
+- [42] **Rin**: @Shion If we fix the wall, the noise stops. But who cleans?
+- [43] **Servas**: @Rin The lunch trip is long. A shared table here saves time and builds bonds.
+- [44] **Toshio**: The tally confirms the imbalance. Two people dominate. We need a rule.
+- [45] **Shion**: The partition is the core issue. It fails its purpose.
+- [46] **Daisuke**: The financial burden is real. We must choose a sustainable path.
+- [47] **Rin**: I propose a rotation. No one should be stuck with the crumbs.
+- [48] **Servas**: A room for conversation is a room for healing. Let us prioritize that.
+- [49] **Toshio**: If we keep the room for work, we save the walking time.
+- [50] **Shion**: I vote for the acoustic fix. It is logical.
+- [51] **Daisuke**: I prefer the professional fit-out. It solves the root problem.
+- [52] **Rin**: I want a fair system. A shared social space with rules.
+- [53] **Servas**: I choose the social space. It addresses our isolation.
+- [54] **Toshio**: I choose the work-focused option. It minimizes hidden labor.
+## Round 3
+- [60] **Shion**: Option C is the only one that respects the noise issue.
+- [61] **Daisuke**: Option B has the highest cost, but it formalizes the use.
+- [62] **Rin**: Option A means I am always cleaning up after others. I object.
+- [63] **Servas**: Option B allows us to talk. It is where we can be honest.
+- [64] **Toshio**: Option C eliminates the walking time for breaks. It is efficient.
+- [65] **Shion**: @Rin If it is a quiet room, there is no mess to clean.
+- [66] **Daisuke**: @Servas A meeting space requires strict booking. It prevents chaos.
+- [67] **Rin**: @Shion A quiet room is fair. No one is forced to host.
+- [68] **Servas**: @Daisuke A meeting space is a place for difficult conversations.
+- [69] **Toshio**: Option C is the most time-efficient. It reduces friction.
+- [70] **Shion**: The wall is thin. A quiet room is the only logical choice.
+- [71] **Daisuke**: The financials are tight. A quiet room is the cheapest to maintain.
+- [72] **Rin**: I agree with the quiet room. It is the fairest distribution of effort.
+- [73] **Servas**: I worry a quiet room deepens our silence. But it is a start.
+- [74] **Toshio**: I support the quiet room. It protects our working hours.
+- [75] **Shion**: I am confident in this choice. It is the right one.
+- [76] **Daisuke**: I accept the quiet room. It is a practical compromise.
+- [77] **Rin**: I am happy. No more unfair cleaning duties for me.
+- [78] **Servas**: I will try to make the quiet room a place of peace.
+- [79] **Toshio**: The decision is made. We move forward with efficiency.
+### Vote
+- Shion -> C
+- Daisuke -> C
+- Rin -> C
+- Servas -> B
+- Toshio -> C
+## Result
+- adopted: C

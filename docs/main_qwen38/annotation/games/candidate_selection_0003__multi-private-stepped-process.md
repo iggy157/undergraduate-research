@@ -1,0 +1,73 @@
+# candidate_selection_0003__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: We need to verify if past projects actually served their intended users well.
+- [6] **Victoria**: I am concerned about how much disruption the construction causes to daily timetables.
+- [7] **George**: We must ensure the new plan does not just shift the workload to existing staff.
+- [8] **Mizuki**: I want to see if the delivery schedules have been consistently slipping in recent years.
+- [9] **Benjamin**: Let us look at the actual costs versus the approved budgets from the last three cycles.
+- [10] **Toshio**: @Benjamin, cost accuracy is vital, but user satisfaction is the true measure of success.
+- [11] **Victoria**: @Toshio, satisfaction is hard to measure if the rooms are unusable during the build.
+- [12] **George**: I agree with Victoria. We need to know how long rooms are out of service.
+- [13] **Mizuki**: @George, yes, the duration of outages is critical for our academic calendar.
+- [14] **Benjamin**: I will check the tender records to see if inflation is eating our margins.
+- [15] **Toshio**: We should also look at the post-occupancy reviews to see what users actually think.
+- [16] **Victoria**: That makes sense. If the space is not used, the investment was wasted.
+- [17] **George**: I am worried about the technicians who maintain these systems. They are stretched thin.
+- [18] **Mizuki**: @George, their workload is a major risk factor for any new installation.
+- [19] **Benjamin**: I will also review the renewal reserve for equipment bought earlier to check for hidden costs.
+- [20] **Toshio**: Let us finalize our data requests. I will look at post-occupancy ratings and survey findings.
+- [21] **Victoria**: I will examine the timetable records and booking data to understand usage patterns.
+- [22] **George**: I will check the staffing posts and the bench technicians' weekly manual routines.
+- [23] **Mizuki**: I will investigate the decade of delivery schedules and the weather days in site diaries.
+- [24] **Benjamin**: I will review the tender records and the renewal reserve for equipment bought earlier.
+## Round 2
+- [35] **Toshio**: The post-occupancy data is clear. Projects that serve the whole campus are rated far higher than those for one wing.
+- [36] **Victoria**: My data confirms the pain. We paid for off-site space for two terms because the timetable could not absorb the loss.
+- [37] **George**: I found that the technicians are doing hours of manual work that the equipment should be doing.
+- [38] **Mizuki**: My schedule data shows a pattern. Projects justified by inspection findings are on time, but comfort projects slip.
+- [39] **Benjamin**: The tender data is grim. Mechanical and ducted plant lots are up by about a fifth, while surfacing held near the index.
+- [40] **Toshio**: @Mizuki, that explains the disappointment. We keep funding comfort projects that fail to deliver on time.
+- [41] **Victoria**: @Toshio, and the cost of that delay is not just money, it is the disruption to teaching.
+- [42] **George**: @Benjamin, if the plant is so expensive, we must be very careful about what we specify.
+- [43] **Mizuki**: @George, exactly. The weather data shows we lose six weeks to rain on exposed work.
+- [44] **Benjamin**: I also found that the audiovisual kit is written down, but no reserve was opened to replace it.
+- [45] **Toshio**: So we have a choice. We can fund a project that is cheap to build but serves few, or one that is expensive but serves many.
+- [46] **Victoria**: The booking data is decisive. General rooms are full, specialist rooms are empty. We must fund the general space.
+- [47] **George**: I agree. And if we automate the manual routines, we free up the technicians for the work that actually needs them.
+- [48] **Mizuki**: The risk is the schedule. If we choose a project with exposed work, we will lose six weeks to weather.
+- [49] **Benjamin**: The cost risk is real. The plant is up a fifth. We need a plan that avoids the most volatile items.
+- [50] **Toshio**: I am leaning toward the general-use space. It serves the most people and the data supports it.
+- [51] **Victoria**: I am with you. The timetable impact is manageable if we plan the phasing carefully.
+- [52] **George**: I support it. The automation of the manual routines is a key part of the value.
+- [53] **Mizuki**: I am concerned about the delay risk, but the benefit is too large to ignore.
+- [54] **Benjamin**: I will support it, provided we lock the plant prices now. The market is not going to wait for us.
+## Round 3
+- [60] **Toshio**: Option B, the Central Study Commons, aligns perfectly with the post-occupancy data. It serves the widest user base.
+- [61] **Victoria**: @Toshio, yes. The booking data shows general rooms are in high demand. This directly addresses that gap.
+- [62] **George**: I support B. It includes the automation of manual routines that I identified as a critical burden on our staff.
+- [63] **Mizuki**: @George, I am still wary of the schedule. But the other options have higher risk profiles.
+- [64] **Benjamin**: Option B is the only one that avoids the volatile plant costs. The others are exposed to the market inflation I found.
+- [65] **Toshio**: Option A is a trap. It serves a narrow group and the post-occupancy ratings for single-wing projects are poor.
+- [66] **Victoria**: @Toshio, agreed. The timetable impact of A would be severe, and the demand is not there.
+- [67] **George**: Option A does not address the staffing issue. It just adds more equipment for the same tired technicians to maintain.
+- [68] **Mizuki**: Option A has a high risk of delay. The exposed work is significant, and the weather data is not in our favor.
+- [69] **Benjamin**: Option A is the most expensive. The plant costs are up a fifth, and there is no reserve for the equipment replacement.
+- [70] **Toshio**: Option C is a nice-to-have, but it does not solve the core problem of underutilized space.
+- [71] **Victoria**: @Toshio, correct. The booking data shows no demand for more paths. The demand is for rooms.
+- [72] **George**: Option C does not help the technicians. It is a cosmetic improvement that does not address the workload.
+- [73] **Mizuki**: Option C has a moderate delay risk, but the benefit is low. It is not a good use of the capital budget.
+- [74] **Benjamin**: Option C is the cheapest, but the value is low. We are better off investing in space that is actually used.
+- [75] **Toshio**: Option D is a specialist project. The post-occupancy data shows these are rated lowest.
+- [76] **Victoria**: @Toshio, yes. The booking data shows specialist rooms are idle. We do not need more of them.
+- [77] **George**: Option D adds to the burden. It requires more technicians for a service that is not in demand.
+- [78] **Mizuki**: Option D has a high delay risk. The fit-out is complex, and the market for the equipment is volatile.
+- [79] **Benjamin**: Option D is a financial risk. The equipment is expensive, and the demand is not there to justify the cost.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> B
+- Mizuki -> B
+- Benjamin -> B
+## Result
+- adopted: B

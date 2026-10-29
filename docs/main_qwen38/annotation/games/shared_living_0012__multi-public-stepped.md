@@ -1,0 +1,73 @@
+# shared_living_0012__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Kenji**: I worry less about the bins and more about if we can still talk to each other after this.
+- [6] **Shizue**: It is lovely to see everyone. I just hope we find a way that keeps our mornings peaceful.
+- [7] **Asuka**: I need to know the exact time cost. I refuse to let this rest on whoever answers the phone first.
+- [8] **Rin**: Why does one house always get the smell? I want a plan that is actually fair for all of us.
+- [9] **Servas**: We must look at the numbers. Who pays for the setup, and what does this corner cost us yearly?
+- [10] **Kenji**: @Rin, you are right. If it feels unfair, we will stop knocking on doors. Let's check the logs.
+- [11] **Shizue**: @Kenji, I agree. Peace is important. I will look into what the neighbours actually said at the meeting.
+- [12] **Asuka**: @Servas, the budget is part of the time cost. I will check the ward subsidy and the shelter costs.
+- [13] **Rin**: @Asuka, I will check the complaint log. I want to see who is complaining the most.
+- [14] **Servas**: @Asuka, good. I will check the block ledger. We need to know the real yearly expense.
+- [15] **Kenji**: I will check the residents' meeting statements. I want to know who is willing to help.
+- [16] **Shizue**: I will check the station block's minutes. I want to see how their arrangement turned out.
+- [17] **Asuka**: I will check the truck arrival time. I need to know when the window actually starts.
+- [18] **Rin**: I will check the measurements of the frontages. I want to see if the space is even equal.
+- [19] **Servas**: I will check the ward filing requirements. I need to know how long a permanent build takes.
+- [20] **Kenji**: Let's see what we find. I hope it helps us stay friends.
+- [21] **Shizue**: I am sure we will find a gentle solution. Thank you all for listening.
+- [22] **Asuka**: Logic will guide us. Let's proceed with the investigation.
+- [23] **Rin**: I can't wait to see the data. Let's make it fair!
+- [24] **Servas**: Wisdom comes from knowing the facts. Let us begin.
+## Round 2
+- [35] **Kenji**: @Rin, the log shows one house filed eleven complaints. That explains the tension.
+- [36] **Shizue**: @Kenji, I see. The station block argued over sweeping within two years. We must be careful.
+- [37] **Asuka**: The truck comes at seven forty. A strict window means waking up before dawn. That is a heavy burden.
+- [38] **Rin**: @Kenji, yes. And the frontages are uneven. One house has a driveway, another is tiny. Rotation is hard.
+- [39] **Servas**: The ledger shows thirty-four thousand yen a year in extra costs. And a permanent build takes four months.
+- [40] **Kenji**: @Asuka, if the window is too tight, people will hate each other. I fear Option C.
+- [41] **Shizue**: @Servas, four months is a long time to wait. And the station block's experience worries me.
+- [42] **Asuka**: @Kenji, I agree. The time cost is too high for a narrow window. It wears people down.
+- [43] **Rin**: @Shizue, the station block's minutes show they fought over the latch. I don't want that here.
+- [44] **Servas**: @Asuka, the subsidy covers forty percent, but the setup is still significant. We must weigh the cost.
+- [45] **Kenji**: @Rin, if we rotate, the house with the driveway might struggle. Is it fair?
+- [46] **Shizue**: @Kenji, perhaps. But an enclosed structure might smell worse in summer, as the station block found.
+- [47] **Asuka**: @Shizue, the station block's bin house smelled worse by midsummer. An enclosure is a bad idea.
+- [48] **Rin**: @Asuka, I agree. The smell is a daily annoyance. I prefer a solution that doesn't trap it.
+- [49] **Servas**: @Rin, the ledger shows the costs come from open bags. Supervision might reduce that, but who supervises?
+- [50] **Kenji**: @Servas, nobody volunteered to supervise. That is the problem. We need a system that works without heroes.
+- [51] **Shizue**: @Kenji, I think we need to look at the options carefully. Let's wait for the list.
+- [52] **Asuka**: I will wait for the options. I need to see the full picture before deciding.
+- [53] **Rin**: I am ready. Let's see what the ward offers.
+- [54] **Servas**: Let us see the options. We will choose wisely.
+## Round 3
+- [60] **Kenji**: @Asuka, Option C requires supervision. But nobody wants to do it. It will cause fights.
+- [61] **Shizue**: @Kenji, I agree. The station block's experience with the latch shows how quickly things go wrong.
+- [62] **Asuka**: Option A is expensive and takes four months. Option C is a time trap. Option B is the only logical choice.
+- [63] **Rin**: @Asuka, but Option B is hard with uneven frontages. One house has a driveway. Is it fair?
+- [64] **Servas**: @Rin, fairness is relative. But Option A's cost and time are prohibitive. Option C's burden is too heavy.
+- [65] **Kenji**: @Rin, if we rotate, we can adjust the intervals. Maybe the house with the driveway gets a shorter turn.
+- [66] **Shizue**: @Kenji, that sounds reasonable. We can be flexible. I hope we can keep the peace.
+- [67] **Asuka**: @Kenji, flexibility is good. But we need a clear rule. I will support Option B if we can manage the rotation.
+- [68] **Rin**: @Asuka, I will support Option B too. It is better than trapping the smell or waking up early.
+- [69] **Servas**: @Asuka, I agree. Option B is the most balanced. It shares the burden, even if imperfectly.
+- [70] **Kenji**: @Servas, I am glad we agree. I hope this keeps us talking.
+- [71] **Shizue**: @Kenji, I am sure it will. Let's vote for Option B.
+- [72] **Asuka**: I vote for Option B. It is the most logical and sustainable.
+- [73] **Rin**: I vote for Option B. It is fairer than the others.
+- [74] **Servas**: I vote for Option B. It is the wisest choice for our community.
+- [75] **Kenji**: Let's hope it works. I will knock on your doors, I promise.
+- [76] **Shizue**: I will smile and wave. Let's make this work together.
+- [77] **Asuka**: I will monitor the time cost. Let's see how it goes.
+- [78] **Rin**: I will check the rotation. Let's make it fair!
+- [79] **Servas**: Let us proceed with wisdom and care.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> B
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

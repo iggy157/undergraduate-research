@@ -1,0 +1,73 @@
+# candidate_selection_0018__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Misaki**: I worry about the people holding this together. Who is actually stretched thin right now?
+- [6] **Kenji**: The yard equipment is old. If the system crashes during peak season, freight stops.
+- [7] **Toshio**: I need to see where the money actually goes after the initial contract is signed.
+- [8] **Yumi**: I keep seeing the same failure: nobody owns the fix when things break.
+- [9] **Benjamin**: We need to check if the data moves cleanly. Bad migrations cause years of pain.
+- [10] **Misaki**: @Kenji, if the yard devices fail, who is on call? Is it the same two people?
+- [11] **Kenji**: Exactly. I want to know if the support team can handle a winter outage without freezing.
+- [12] **Toshio**: @Yumi, ownership gaps usually mean hidden costs. I want to track those invoices.
+- [13] **Yumi**: Agreed. I want to see who was blamed last time the dispatch tool failed.
+- [14] **Benjamin**: I’m looking at the 2018 pay move. If that data lift was messy, the next one will be worse.
+- [15] **Misaki**: I need to know who is retiring. If the admins leave, we lose the institutional memory.
+- [16] **Kenji**: I’m checking the depot calendar. We can’t cutover during peak season. That’s a disaster waiting to happen.
+- [17] **Toshio**: I’ll look at the board minutes. They approve capital but refuse operating costs. That’s a trap.
+- [18] **Yumi**: I want to see the warehouse rule changes. If the system can’t adapt, we’re stuck.
+- [19] **Benjamin**: I’m also checking the upgrade history. If they patch instead of upgrade, the system rots.
+- [20] **Misaki**: I’m done for now. Let’s see what the data says about the people.
+- [21] **Kenji**: I’m done. The physical reality of the depot is my main concern.
+- [22] **Toshio**: I’m done. I need to see the full lifecycle cost, not just the sticker price.
+- [23] **Yumi**: I’m done. I need to know if we are walking into the same accountability hole again.
+- [24] **Benjamin**: I’m done. I need to verify if the data architecture is sound or just a band-aid.
+## Round 2
+- [35] **Misaki**: The admins are leaving. The last rollout failed because supervisors ignored the training. We are thin.
+- [36] **Kenji**: I found the peak season has no freeze window. The yard devices are old and the trial failed.
+- [37] **Toshio**: The board approves capital but ignores operating costs. Renewals are bundled, but add-ons keep climbing.
+- [38] **Yumi**: I found the support is scattered. Last winter, nobody owned the outage for two days.
+- [39] **Benjamin**: The 2018 pay move was a mess. External team, mismatched codes for a year. The dispatch tool is aging in place.
+- [40] **Misaki**: @Yumi, if support is scattered, who teaches the new system? The supervisors already ignored the last one.
+- [41] **Kenji**: @Benjamin, if the dispatch tool is aging, the new system has to talk to those old yard scanners.
+- [42] **Toshio**: @Misaki, if the supervisors ignore training, the operating costs will spike. The board won't cover that.
+- [43] **Yumi**: @Kenji, if the yard devices are old, the new system needs to be flexible enough to handle them without a full rewrite.
+- [44] **Benjamin**: @Toshio, if the data lift was messy, the new vendor needs to prove they can handle complex migrations without external help.
+- [45] **Misaki**: I’m worried about the people. If we pick a system that requires constant retraining, we’ll burn out the few who know how to run it.
+- [46] **Kenji**: I’m worried about the floor. If the system can’t handle the peak season without a freeze, we lose freight.
+- [47] **Toshio**: I’m worried about the bill. If the vendor hides costs in add-ons, the board will refuse to pay them later.
+- [48] **Yumi**: I’m worried about the plan. If the system can’t adapt to new accounts, we’ll be rewriting rules every six months.
+- [49] **Benjamin**: I’m worried about the data. If the vendor can’t prove a clean migration path, we’re just buying a new way to fail.
+- [50] **Misaki**: I’m done. The human cost is the biggest risk.
+- [51] **Kenji**: I’m done. The physical constraints are non-negotiable.
+- [52] **Toshio**: I’m done. The financial leakage is the biggest risk.
+- [53] **Yumi**: I’m done. The lack of accountability is the biggest risk.
+- [54] **Benjamin**: I’m done. The technical debt is the biggest risk.
+## Round 3
+- [60] **Misaki**: Anchor has engineers on site. That means someone is there when the supervisors get confused. The others rely on remote support.
+- [61] **Kenji**: Anchor is on our servers. If the yard devices fail, the engineers can fix the integration locally. Corvus is too modular; it will break.
+- [62] **Toshio**: Corvus is modular. That means separate licenses. That means separate add-ons. That means the board will refuse to pay for the next one.
+- [63] **Yumi**: Meridian is fixed. If we add a new account, we can’t change the rules. Anchor is built for transport, so it should handle our specific needs.
+- [64] **Benjamin**: Tessera uses a partner for migration. That’s exactly what failed in 2018. Anchor has their own engineers. That’s a direct line.
+- [65] **Misaki**: @Benjamin, I agree. The partner model is risky. Anchor’s on-site team can actually teach the supervisors, not just send a manual.
+- [66] **Kenji**: @Toshio, I know the cost is higher, but if Corvus breaks during peak season, the cost of lost freight is higher.
+- [67] **Toshio**: @Kenji, I hear you. But if Anchor’s on-site team leaves after rollout, who is there? The board won't approve a permanent retainer.
+- [68] **Yumi**: @Misaki, I like that Anchor is specific. But if the system is too rigid, we’ll hit the same wall when the business changes.
+- [69] **Benjamin**: @Yumi, Anchor is built for transport. It’s not a generic suite. It should handle the specific data structures we have.
+- [70] **Misaki**: I’m leaning toward Anchor. The on-site support is the only thing that will keep the supervisors engaged.
+- [71] **Kenji**: I’m voting for Anchor. It’s the only one that can handle the physical reality of our depots and the peak season.
+- [72] **Toshio**: I’m voting for Anchor. It’s the only one with a clear, single-vendor cost structure. No hidden add-ons.
+- [73] **Yumi**: I’m voting for Anchor. It’s the only one where someone is physically present to take ownership when things break.
+- [74] **Benjamin**: I’m voting for Anchor. It’s the only one with a direct engineering team for the data migration. No external partners.
+- [75] **Misaki**: I’m done. The human factor is the deciding one.
+- [76] **Kenji**: I’m done. The physical factor is the deciding one.
+- [77] **Toshio**: I’m done. The financial factor is the deciding one.
+- [78] **Yumi**: I’m done. The accountability factor is the deciding one.
+- [79] **Benjamin**: I’m done. The technical factor is the deciding one.
+### Vote
+- Misaki -> D
+- Kenji -> D
+- Toshio -> D
+- Yumi -> D
+- Benjamin -> D
+## Result
+- adopted: D

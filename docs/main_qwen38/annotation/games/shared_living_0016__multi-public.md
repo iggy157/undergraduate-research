@@ -1,0 +1,73 @@
+# shared_living_0016__multi-public (shared_living)
+
+## Round 1
+- [5] **Minato**: I’m a bit worried about the person who has to keep the books. It takes so much time.
+- [6] **Ryuji**: Minato, that is a valid concern. However, we must first establish the actual costs before discussing collection methods.
+- [7] **Minako**: Agreed. We need the baseline figures before we can structure anything. @Ryuji, what specific data do you need to see first?
+- [8] **May**: I’m more curious about the vibe lately. Why do people hesitate to show up?
+- [9] **Shunichi**: The hesitation is just the symptom. The real issue is that a few people are doing all the work while others pay the same.
+- [10] **Minato**: @Shunichi, that sounds really unfair. I just want to make sure the next person isn’t overwhelmed by the paperwork.
+- [11] **Ryuji**: @Shunichi, that is a structural issue. But without knowing the actual outgoings, we are guessing. I need the ledger to see where the money goes.
+- [12] **Minako**: @May, that hesitation is real. But we must understand the financial baseline first. @Ryuji, I support looking at the ledger.
+- [13] **May**: @Minako, the vibe is the real problem. If people feel like guests, they won’t stay. I want to see the sign-in sheets to understand who’s actually here.
+- [14] **Shunichi**: @May, the sign-in sheets will show the imbalance. I’ll take those. @Ryuji, the ledger is essential for the baseline.
+- [15] **Minato**: I’m still thinking about the hours. @Ryuji, if we look at the ledger, can we also check how long the treasurer spent?
+- [16] **Ryuji**: @Minato, the ledger shows the money, not the time. I will check the treasurer’s logged hours to see the true administrative burden.
+- [17] **Minako**: @Minato, the ledger and the treasurer’s hours are the right starting points. @Shunichi, the sign-in sheets will confirm the attendance gap.
+- [18] **May**: @Minako, I agree the ledger is vital. But I need to see the taster forms to understand why people hesitate to commit.
+- [19] **Shunichi**: @May, the taster forms are interesting, but the sign-in sheets prove the imbalance. I’ll take those. @Minato, the treasurer’s hours will show the true burden.
+- [20] **Minato**: @Ryuji, thank you for checking the hours. I will look at the ledger and the treasurer’s logs to understand the workload.
+- [21] **Ryuji**: @Minato, I will check the ledger and the treasurer’s hours. We need to know the fixed costs and the administrative burden before deciding on a structure.
+- [22] **Minako**: @Minato, I will review the sign-in sheets and the taster forms. We need to understand both the current imbalance and why newcomers hesitate before we finalize the structure.
+- [23] **May**: @Minako, I’ll take the taster forms and the weekday turnout. I need to see why people hesitate and how the vibe has shifted.
+- [24] **Shunichi**: @Minako, you’re taking the sign-in sheets? I need those to prove the imbalance. I’ll take the rota and the winter social notes instead.
+## Round 2
+- [35] **Minato**: I found the treasurer spent six hours a month chasing individual payments, but only one for yearly collections. That is a huge difference.
+- [36] **Ryuji**: The ledger confirms seventy percent of costs are fixed, regardless of attendance. The treasurer’s logs show yearly collection is far more efficient. We must avoid per-event chasing.
+- [37] **Minako**: @Ryuji, the fixed costs confirm your point. But the sign-in sheets show a quarter of members do two-thirds of the work, while eighteen never appear.
+- [38] **May**: @Minako, that imbalance is real, but my data shows the hesitation is about commitment. People won’t sign up for a whole year at once.
+- [39] **Shunichi**: @Minako, the data is undeniable. The same nine people do the setup and locking up. @May, the quiet members are anxious about the per-event cost.
+- [40] **Minato**: @Ryuji, that makes sense. If yearly collection is easier, maybe we should just do that? I don’t want the next person to be so tired.
+- [41] **Ryuji**: @Minato, efficiency is necessary, but not sufficient. We must ensure the fee covers the fixed costs without overburdening those who attend less.
+- [42] **Minako**: @Ryuji, efficiency is vital, but the taster forms show people fear a full-year commitment. We need a structure that respects that hesitation while covering the fixed costs.
+- [43] **May**: @Minako, exactly. The data proves it. People freeze when asked to commit to a whole year upfront. We need a way in that feels lighter.
+- [44] **Shunichi**: @Minako, the fear of commitment is real, but the data shows the heavy users are already carrying the load. We need a structure that acknowledges that reality, not just the hesitation.
+- [45] **Minato**: @Ryuji, I agree. But if we charge everyone the same, the quiet members might feel it is unfair. How do we balance that?
+- [46] **Ryuji**: @Minato, a flat fee ignores the attendance gap. We need a structure that reflects actual usage, not just fixed costs.
+- [47] **Minako**: @Ryuji, a flat fee ignores the hesitation. @Shunichi, tiers risk the friction we saw before. We need a middle path that respects both the fixed costs and the newcomers’ fear of commitment.
+- [48] **May**: @Minako, tiers are a trap. The minute books show they just create friction. We need a simple, low-barrier entry point that doesn’t scare people off.
+- [49] **Shunichi**: @May, the minute books are history, not prophecy. @Minako, the data proves the current system is broken. We need a structure that reflects actual contribution, not just attendance.
+- [50] **Minato**: @Ryuji, I worry that if the fee is too high, people will stop coming. But I also want the books to be easy to keep.
+- [51] **Ryuji**: @Minato, the data is clear. Per-event chasing is unsustainable. We need a single, predictable annual figure to cover the fixed costs efficiently.
+- [52] **Minako**: @Ryuji, a single figure ignores the fear of commitment. @May, the taster forms prove people need a lighter entry point. We must balance efficiency with accessibility.
+- [53] **May**: @Minako, I hear you, but the data is clear. Per-event charges killed our weekday turnout. We need a simple, predictable annual fee to keep the vibe alive.
+- [54] **Shunichi**: @Ryuji, efficiency is nice, but fairness matters more. The same nine people carry the weight. A flat fee ignores that reality. We need to acknowledge the imbalance.
+## Round 3
+- [60] **Minato**: I am looking at the three choices. Option A seems the easiest for the books, but I worry about the quiet members.
+- [61] **Ryuji**: @Minato, Option A is the only one that covers the seventy percent fixed costs without the administrative burden. The data supports a single, predictable annual figure.
+- [62] **Minako**: @Ryuji, efficiency is not the only metric. The taster forms show people fear a full-year commitment. Option A forces that exact fear. We need a lighter entry point.
+- [63] **May**: @Minako, you’re right that the fear is real. But Option B already killed our weekday turnout. We can’t repeat that mistake.
+- [64] **Shunichi**: @Ryuji, efficiency is a luxury. The data proves the same nine people carry the weight. Option A ignores that reality. We need to acknowledge the imbalance.
+- [65] **Minato**: @Ryuji, I agree the books are easier with Option A. But @Shunichi, if the quiet members feel it is unfair, will they stay?
+- [66] **Ryuji**: @Shunichi, the imbalance is real, but Option B’s administrative cost is unsustainable. We must prioritize financial viability over perceived equity.
+- [67] **Minako**: @Ryuji, efficiency is not the only metric. The taster forms show people fear a full-year commitment. Option A forces that exact fear. We need a lighter entry point.
+- [68] **May**: @Minako, I hear the fear, but Option B is a trap. The data shows per-event charges killed our weekday turnout. We cannot repeat that mistake.
+- [69] **Shunichi**: @Minako, the taster forms are anecdotal. The rota is factual. Option C lets the heavy users opt out of the burden, while keeping the books simple.
+- [70] **Minato**: @Shunichi, I am worried about the quiet members. If they feel the lower tier is unfair, will they still come?
+- [71] **Ryuji**: @Shunichi, Option C is administratively complex and risks the friction we saw in the minute books. We need a simple, predictable structure to ensure financial stability.
+- [72] **Minako**: @Shunichi, the minute books prove tiers create friction. @Ryuji, Option A ignores the fear of commitment. We need a middle path that respects both.
+- [73] **May**: @Minako, the minute books are history, not prophecy. Option C lets the heavy users opt out of the burden, while keeping the books simple.
+- [74] **Shunichi**: @May, you are misreading the data. The friction was about status, not structure. Option C is the only way to stop the same nine from carrying the weight.
+- [75] **Minato**: @Shunichi, I am still worried. If the lower tier feels like being less, the quiet members might stop coming. I just want everyone to feel welcome.
+- [76] **Ryuji**: @Minako, the minute books confirm Option C creates friction. Option A is the only structure that ensures financial stability without administrative chaos. I vote A.
+- [77] **Minako**: @Ryuji, the minute books show friction, but the taster forms show fear. Option A forces that fear. I vote C to offer a lighter entry point.
+- [78] **May**: @Shunichi, you’re right that the friction was about status, not structure. Option C lets the heavy users opt out of the burden, while keeping the books simple. I vote C.
+- [79] **Shunichi**: @Ryuji, the minute books are history, not prophecy. The data proves the imbalance. Option C is the only way to stop the same nine from carrying the weight. I vote C.
+### Vote
+- Minato -> C
+- Ryuji -> A
+- Minako -> C
+- May -> C
+- Shunichi -> C
+## Result
+- adopted: C

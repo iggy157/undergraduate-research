@@ -1,0 +1,73 @@
+# shared_living_0027__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: I worry about social friction. We need to know how current arrangements affect neighborly relations.
+- [6] **Yumi**: I’m curious if the current spots match where people actually park. It feels unfair to some.
+- [7] **Ryuji**: The morning rush is chaotic. I want to understand the physical layout and usage patterns better.
+- [8] **Shunichi**: Nobody checks the costs. I need to see the actual financial burden on the building and residents.
+- [9] **Toshio**: Who maintains this? I want to know the ongoing administrative and physical effort required.
+- [10] **Asuka**: @Shunichi, if we charge, will people stop coming to meetings? I’ve heard that happen elsewhere.
+- [11] **Yumi**: @Ryuji, do you think the rain is a big factor? Some spots get soaked.
+- [12] **Ryuji**: @Yumi, yes, wet saddles are a daily annoyance. I’ll look into the exposure.
+- [13] **Shunichi**: @Asuka, that’s a valid concern. I’ll check the ledger and the station park costs.
+- [14] **Toshio**: I’ll look at the treasurer’s file and the complaint log to gauge the workload.
+- [15] **Asuka**: I’ll check the minutes and the neighboring block’s account to see historical patterns.
+- [16] **Yumi**: I’ll look at the sticker register and the morning departures to see who rides when.
+- [17] **Ryuji**: I’ll examine the rain exposure and the morning departures to map the chaos.
+- [18] **Shunichi**: I’ll review the two-year ledger and the ward cycle park fees for comparison.
+- [19] **Toshio**: I’ll check the treasurer’s handover file and the supplier’s display frame trial.
+- [20] **Asuka**: Let’s see what the data says before we argue.
+- [21] **Yumi**: Agreed. Facts first, feelings later.
+- [22] **Ryuji**: I’ll be back with observations on the physical flow.
+- [23] **Shunichi**: I’ll bring the numbers.
+- [24] **Toshio**: I’ll bring the maintenance reality.
+## Round 2
+- [35] **Asuka**: The minutes show no review in five years. The neighbor’s block had arrears and absenteeism from charges.
+- [36] **Yumi**: The sticker register shows daily riders prefer paying over equal claims. Morning shifts are frequent.
+- [37] **Ryuji**: Four out of eleven morning departures required shifting bikes. The rain row is useless in winter.
+- [38] **Shunichi**: The ledger is empty for capital. The station park is 2,600 yen with a waitlist.
+- [39] **Toshio**: Billing takes three hours monthly. The double-tier rack needs greasing twice a year and is slow to use.
+- [40] **Asuka**: @Shunichi, if we charge, we risk the neighbor’s problem. But the station park is expensive.
+- [41] **Yumi**: @Ryuji, the shifting is a real issue. But do people want to pay?
+- [42] **Ryuji**: @Yumi, the rain makes half the spots bad. The shifting is a daily friction.
+- [43] **Shunichi**: @Asuka, the station park is a benchmark. 2,600 yen is high, but the waitlist shows demand.
+- [44] **Toshio**: @Shunichi, the maintenance burden is real. Three hours a month is significant for one person.
+- [45] **Asuka**: A lottery might avoid the payment friction. But it ignores the rain and shifting issues.
+- [46] **Yumi**: Shared racks might solve the shifting, but the greasing and slow loading are problems.
+- [47] **Ryuji**: The rain and shifting suggest we need better placement or a system that accounts for it.
+- [48] **Shunichi**: The financials suggest a small charge is feasible, but the maintenance cost is high.
+- [49] **Toshio**: The maintenance is the killer. Who does the greasing? Who reconciles the cash?
+- [50] **Asuka**: I lean towards a lottery to avoid payment disputes, but we need to address the rain.
+- [51] **Yumi**: I think a small charge is fair, given the daily riders’ preference.
+- [52] **Ryuji**: I support a system that reduces morning friction. Maybe a lottery with priority for dry spots?
+- [53] **Shunichi**: I support a paid allocation, but we need to automate the billing to reduce the three-hour burden.
+- [54] **Toshio**: I am concerned about the maintenance. If we choose paid, we need a clear plan for the greasing and reconciliation.
+## Round 3
+- [60] **Asuka**: Option B avoids the payment friction I saw in the neighbor’s block. It’s the safest for social harmony.
+- [61] **Yumi**: Option A aligns with the daily riders’ preference to pay. It’s fairer than a pure lottery.
+- [62] **Ryuji**: Option C solves the shifting, but the greasing and slow loading are deal-breakers for me.
+- [63] **Shunichi**: Option A is the only one that generates income to cover the maintenance. We need the money.
+- [64] **Toshio**: Option A is risky due to the maintenance burden. Option B is low effort but ignores the rain.
+- [65] **Asuka**: @Shunichi, the income is good, but the social cost is high. I vote B.
+- [66] **Yumi**: @Asuka, the social cost is manageable if we communicate well. I vote A.
+- [67] **Ryuji**: @Yumi, the rain is a major issue. A lottery doesn’t fix that. I vote A, hoping for better placement.
+- [68] **Shunichi**: @Ryuji, the rain is a placement issue, not a system issue. I vote A.
+- [69] **Toshio**: @Shunichi, the maintenance is the problem. I vote B to minimize the burden.
+- [70] **Asuka**: I stand by B. It’s the least likely to cause conflict.
+- [71] **Yumi**: I stand by A. It’s the most fair for those who use it most.
+- [72] **Ryuji**: I stand by A. It’s the most practical for the morning rush.
+- [73] **Shunichi**: I stand by A. It’s the only sustainable financial model.
+- [74] **Toshio**: I stand by B. It’s the most sustainable operationally.
+- [75] **Asuka**: Let’s vote.
+- [76] **Yumi**: Yes, let’s decide.
+- [77] **Ryuji**: Agreed.
+- [78] **Shunichi**: Agreed.
+- [79] **Toshio**: Agreed.
+### Vote
+- Asuka -> B
+- Yumi -> A
+- Ryuji -> A
+- Shunichi -> A
+- Toshio -> B
+## Result
+- adopted: A

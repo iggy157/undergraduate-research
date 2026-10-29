@@ -1,0 +1,73 @@
+# shared_living_0011__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We must stop the bleeding. Last year’s deficit is still on our books.
+- [6] **Toshio**: I agree. But we also need to ensure no one burns out again.
+- [7] **Minako**: Budget is vital, but so is who actually shows up. Attendance is key.
+- [8] **Jonathan**: I am concerned about the physical toll. Sleep quality affects performance.
+- [9] **Asuka**: The flat fee hides individual costs. We need to audit the side spending.
+- [10] **Ryuji**: @Minako, attendance data will show if the location drives people away.
+- [11] **Toshio**: @Ryuji, correct. But we must also check the duty roster burden.
+- [12] **Minako**: I will look at the attendance sheets and the seniors' comments.
+- [13] **Jonathan**: I need to know the actual sleeping conditions. I will check the hall timetable.
+- [14] **Asuka**: I will review the group transport receipts and the prefecture rate sheet.
+- [15] **Ryuji**: I will examine the accounts from the two clubs that went inland.
+- [16] **Toshio**: I will check the canteen closure and the last year's cooking duty.
+- [17] **Minako**: @Toshio, that sounds heavy. I hope the data is clear.
+- [18] **Jonathan**: @Asuka, the rate sheet might reveal hidden costs for public beds.
+- [19] **Asuka**: Yes. I will also look into the lottery for public group bookings.
+- [20] **Ryuji**: We need hard numbers before we commit to any destination.
+- [21] **Toshio**: Agreed. Let us see what the records say about the workload.
+- [22] **Minako**: I will focus on the social dynamics. Who talks to whom?
+- [23] **Jonathan**: I will focus on the quiet hours. Peace is essential for recovery.
+- [24] **Asuka**: I will focus on the financial leakage. Every yen must be accounted for.
+## Round 2
+- [35] **Ryuji**: The inland accounts show eight to a room. That is a cost saver, but is it viable?
+- [36] **Toshio**: @Ryuji, eight to a room is a nightmare for sleep. I found the canteen closes.
+- [37] **Minako**: I found that attendance drops when we stay in separate blocks. Cohesion dies.
+- [38] **Jonathan**: I found the hall is booked by others. We cannot get a quiet, continuous block.
+- [39] **Asuka**: The public beds are cheap, but the application is a bureaucratic trap.
+- [40] **Ryuji**: @Asuka, if the application fails, we are stuck with expensive private rooms.
+- [41] **Toshio**: @Minako, cohesion is good, but if the kitchen is closed, we cook. That kills cohesion.
+- [42] **Minako**: @Toshio, cooking together is part of the bonding. But only if we are together.
+- [43] **Jonathan**: If we are split, the sleep suffers. I need a place where we can rest.
+- [44] **Asuka**: The flat fee for public beds is low, but the risk of losing the lottery is high.
+- [45] **Ryuji**: The inland option is cheap but crowded. The public option is cheap but risky.
+- [46] **Toshio**: The private option is expensive but controlled. I prefer control over chaos.
+- [47] **Minako**: I prefer the option that forces us to be together. Separation is the enemy.
+- [48] **Jonathan**: I prefer the option that guarantees quiet. Noise is the enemy of recovery.
+- [49] **Asuka**: I prefer the option with the lowest financial risk. Uncertainty is the enemy of fairness.
+- [50] **Ryuji**: We need to weigh the cost against the risk of failure.
+- [51] **Toshio**: We need to weigh the cost against the risk of burnout.
+- [52] **Minako**: We need to weigh the cost against the risk of disintegration.
+- [53] **Jonathan**: We need to weigh the cost against the risk of exhaustion.
+- [54] **Asuka**: We need to weigh the cost against the risk of inequity.
+## Round 3
+- [60] **Ryuji**: Option C is the cheapest per head, but the eight-to-a-room density is a liability.
+- [61] **Toshio**: Option A removes the cooking duty entirely. That is a significant reduction in organizer workload.
+- [62] **Minako**: Option A is the only one where we are all in one building. That is essential for mixing.
+- [63] **Jonathan**: Option A offers a private building. That means we control the noise levels.
+- [64] **Asuka**: Option A has a fixed fee. No hidden costs, no lottery risk. It is the safest.
+- [65] **Ryuji**: @Asuka, the fixed fee for A is higher than C, but it avoids the deficit risk.
+- [66] **Toshio**: @Ryuji, yes. The cost of A is the cost of not having to cook or clean.
+- [67] **Minako**: @Toshio, and the cost of A is the cost of actually talking to each other.
+- [68] **Jonathan**: @Minako, and the cost of A is the cost of sleeping well. I have seen the hall schedule.
+- [69] **Asuka**: @Jonathan, the flat fee for A means no one pays more for their own comfort.
+- [70] **Ryuji**: Option B is free for the hall, but the accommodation costs for commuters are unpredictable.
+- [71] **Toshio**: Option B means we are on campus. That means we are on duty. I reject it.
+- [72] **Minako**: Option B means we are scattered. That means we do not mix. I reject it.
+- [73] **Jonathan**: Option B means we are in the hall. That means we are in the noise. I reject it.
+- [74] **Asuka**: Option B means the costs are variable. That means the burden is uneven. I reject it.
+- [75] **Ryuji**: Option C is risky. Option B is chaotic. Option A is stable.
+- [76] **Toshio**: Option A is the only one that protects the organizers from burnout.
+- [77] **Minako**: Option A is the only one that protects the club from disintegration.
+- [78] **Jonathan**: Option A is the only one that protects the members from exhaustion.
+- [79] **Asuka**: Option A is the only one that protects the members from inequity.
+### Vote
+- Ryuji -> A
+- Toshio -> A
+- Minako -> A
+- Jonathan -> A
+- Asuka -> A
+## Result
+- adopted: A

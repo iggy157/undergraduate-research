@@ -1,0 +1,73 @@
+# candidate_selection_0020__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must learn from past mistakes. I will examine the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts.
+- [6] **Daisuke**: I’m worried about where the money actually comes from. I’ll look into the capital budget and software allowance.
+- [7] **Sakura**: Ooh, I bet the network at customer plants is tricky! I’ll check that and in-house developer availability.
+- [8] **Ryuji**: I will examine the time lost to copying existing records and the misrouted deliveries in the incident logs.
+- [9] **Asuka**: I will examine the staffing of the coordination group and the handling of vendor queries.
+- [10] **Servas**: A pattern should be visible by now. I am curious to see if the narrow tools truly survived their first year, as the reviews suggest.
+- [11] **Daisuke**: I just want to make sure the recurring costs are actually covered. It’s hard to plan if the budget is frozen.
+- [12] **Sakura**: I hope the developers aren’t too busy! If they’re stuck on the accounting upgrade, that’s a huge red flag for our timeline.
+- [13] **Ryuji**: I need to see if the daily friction is real. If we lose an hour copying data, that effort must be weighed against the proposal’s promise.
+- [14] **Asuka**: I need to verify if the coordination group is actually understaffed. If two people handle all logs, that workload is unsustainable and will break under any new proposal.
+- [15] **Servas**: @Daisuke, a frozen capital line is a hard boundary. Yet, if the recurring allowance remains open, we might still find a path forward.
+- [16] **Daisuke**: @Servas, yes, that’s right. If the capital line is frozen, we have to rely on the software allowance. I just need to confirm it’s enough.
+- [17] **Sakura**: @Ryuji, if copying records eats an hour daily, that’s a huge waste! I’m hoping my network checks reveal why the groundwork always fails.
+- [18] **Ryuji**: @Sakura, the network issue is a constraint, but the daily copying is a constant drain. I need to quantify that loss to see if any proposal actually offsets it.
+- [19] **Asuka**: @Ryuji, quantifying the loss is useful, but it ignores who absorbs the extra work. I need to know if the coordination group can even handle the baseline load before adding anything new.
+- [20] **Servas**: @Asuka, you are right. We must respect the human cost. I will see if the past tools truly lightened that burden or merely shifted it.
+- [21] **Daisuke**: I just need to know if the recurring allowance covers the real bill. It’s hard to commit if the money isn’t there.
+- [22] **Sakura**: @Asuka, I totally agree! If the team is already drowning, adding more work is a disaster. I’m hoping my checks show why the groundwork always fails!
+- [23] **Ryuji**: @Asuka, the daily drain is the baseline. If the proposal doesn’t offset that specific loss, it’s just adding noise to an already broken system.
+- [24] **Asuka**: @Ryuji, the drain is real, but it is not the only cost. I need to confirm if the coordination group has the capacity to absorb any new workload before we even discuss efficiency.
+## Round 2
+- [35] **Servas**: The pattern is clear. Broad tools requiring daily entry from everyone were quietly dropped. Narrow tools for one trade still run. We must avoid the former.
+- [36] **Daisuke**: @Servas, that matches my findings. The capital line is frozen, but the recurring software allowance has room. We must stay within that limit.
+- [37] **Sakura**: @Ryuji, oh no! Half the plants lose signal all afternoon, and device approval took six weeks! Plus, our devs are stuck until Q3. This is a huge problem!
+- [38] **Ryuji**: @Sakura, those constraints are severe. But my data shows eleven misrouted deliveries from duplicate addresses, plus an hour daily lost to copying. That is the real, measurable friction we must solve.
+- [39] **Asuka**: @Ryuji, the misrouted deliveries confirm the data fragmentation. But my findings show the coordination group is critically understaffed. We cannot add workload to two people already drowning.
+- [40] **Servas**: @Asuka, your concern is valid. Yet, the narrow tools that survived did not demand daily entry from everyone. We must find a solution that respects this hard limit.
+- [41] **Daisuke**: @Servas, I agree. The recurring allowance is our only option. We must pick something that fits within that, without hidden renewal costs.
+- [42] **Sakura**: @Asuka, that’s scary! If the team is already drowning, adding more work is a disaster. I’m hoping my checks show why the groundwork always fails!
+- [43] **Ryuji**: @Asuka, the data fragmentation is the root cause. If we fix the source, the copying stops. I need to see if the proposal addresses that specific bottleneck.
+- [44] **Asuka**: @Ryuji, fixing the source is ideal, but the coordination group is already at capacity. Any new tool requiring manual updates will simply break their rota.
+- [45] **Servas**: @Ryuji, the root cause is clear, but the human capacity is the limit. We must choose a tool that does not demand daily entry from the exhausted coordination group.
+- [46] **Daisuke**: @Servas, exactly. If it needs daily updates, the coordination group will break. I need to ensure the recurring cost stays within the allowance.
+- [47] **Sakura**: @Ryuji, fixing the source is great, but if the groundwork is broken, the tool fails! I’m worried about the timeline.
+- [48] **Ryuji**: @Sakura, the groundwork failure is a risk, but the data duplication is the daily cost. I need to see if the candidate eliminates that specific friction without adding manual load.
+- [49] **Asuka**: @Ryuji, eliminating friction is irrelevant if the coordination group cannot maintain it. I need to know who specifically absorbs the new workload before we proceed.
+- [50] **Servas**: @Asuka, you are right. We must not add weight to a broken back. I will watch for any proposal demanding constant manual upkeep from your exhausted team.
+- [51] **Daisuke**: @Asuka, I worry the renewal bill will surprise us. We must ensure the recurring cost fits the allowance without hidden fees.
+- [52] **Sakura**: @Asuka, I totally agree! If the groundwork is broken, the tool fails! I’m worried about the timeline.
+- [53] **Ryuji**: @Asuka, I hear you. But if the tool automates the copying, it removes the load rather than adding to it. I need to see if it actually does that.
+- [54] **Asuka**: @Ryuji, automation only helps if someone maintains it. With no refills, the two remaining staff cannot absorb new duties. I need to see who owns the upkeep.
+## Round 3
+- [60] **Servas**: - **Servas**: The pattern is clear. Broad tools demanding daily entry from everyone were quietly dropped. Narrow tools for one trade still run. We must avoid the former.
+- [61] **Daisuke**: @Servas, I agree. We must avoid broad tools. I need to ensure the recurring cost fits the allowance without hidden renewal fees.
+- [62] **Sakura**: @Ryuji, Option D is a trap! Half the plants have no signal, and our devs are stuck until Q3. It will fail before it starts!
+- [63] **Ryuji**: @Sakura, the signal loss is a hard constraint. But my data shows the duplication is the daily cost. I need to see if any option eliminates that specific friction without adding manual load.
+- [64] **Asuka**: @Ryuji, Option A demands shared update procedures. That is manual work. With no refills, the coordination group cannot absorb that. Who maintains the catalog?
+- [65] **Servas**: @Asuka, you are right. Option A demands shared updates, which the exhausted group cannot sustain. It risks becoming another abandoned standardization effort.
+- [66] **Daisuke**: @Asuka, I worry about the hidden renewal costs. If the capital line is frozen, we must ensure the recurring fee fits the allowance without surprises.
+- [67] **Sakura**: @Asuka, I agree! Option A sounds like a nightmare for the team. But what about Option B? If it just reads the boards, does it actually save us from copying records?
+- [68] **Ryuji**: @Sakura, Option B reads boards, it does not consolidate supplier records. It ignores the root cause of the misrouted deliveries and the daily copying. It is not the solution.
+- [69] **Asuka**: @Ryuji, Option B drafts notes, but someone must still review and circulate them. That is new manual work for the coordination group. They have no capacity for it.
+- [70] **Servas**: @Ryuji, you are correct. Option B adds review burden without solving the data fragmentation. We must avoid tools that shift work rather than eliminating it.
+- [71] **Daisuke**: @Ryuji, I agree. Option B adds review work. I just need to confirm the recurring fee fits the allowance without hidden renewal surprises.
+- [72] **Sakura**: @Ryuji, I hear you, but Option C is a narrow tool! It’s just making videos, not daily data entry. It fits the pattern of what survived!
+- [73] **Ryuji**: @Sakura, Option C is narrow, but it does not stop the copying or fix the duplicate addresses. It ignores the measurable daily loss I identified.
+- [74] **Asuka**: @Sakura, Option C is a production unit, not a tool. It requires dedicated staff to create content. We have no spare capacity for that. It adds cost without solving the data fragmentation.
+- [75] **Servas**: @Sakura, Option C is narrow, yet it does not address the data fragmentation. We must solve the root cause, not just create content.
+- [76] **Daisuke**: @Asuka, I worry about the hidden renewal costs. If the capital line is frozen, we must ensure the recurring fee fits the allowance without surprises.
+- [77] **Sakura**: @Ryuji, I know C doesn't fix the data, but D is impossible! No signal, no devs. C is the only one that won't break the team or the budget!
+- [78] **Ryuji**: @Sakura, Option C ignores the measurable daily loss. It does not stop the copying or fix the duplicate addresses. It is not the solution.
+- [79] **Asuka**: @Sakura, Option C ignores the data fragmentation. It adds production costs without solving the root cause. I cannot support it.
+### Vote
+- Servas -> A
+- Daisuke -> A
+- Sakura -> A
+- Ryuji -> A
+- Asuka -> A
+## Result
+- adopted: A

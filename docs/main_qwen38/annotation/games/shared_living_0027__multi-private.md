@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a system that prevents friction. If people start timing their exits to avoid each other, the building’s atmosphere collapses.
+- [6] **Yumi**: I agree, Asuka! Friction is the worst. I just want everyone to feel happy and safe leaving their bikes.
+- [7] **Ryuji**: The physical layout dictates the conflict. I need to understand the spatial constraints before proposing solutions.
+- [8] **Shunichi**: I’m not here to guess. I want to know the actual cost of this mess. Who’s paying for the headaches?
+- [9] **Toshio**: I’m curious about the operational burden. Who actually maintains the system once it’s set up?
+- [10] **Asuka**: @Ryuji, spatial constraints alone don’t explain social decay. I need to see the actual history of conflicts. @Shunichi, costs are secondary to community stability.
+- [11] **Yumi**: @Shunichi, I hear you! But maybe we should check the complaint log to see if the grumbling is real or just feelings?
+- [12] **Ryuji**: @Yumi, complaints are subjective. I need objective data on usage patterns. @Shunichi, costs matter, but efficiency is the primary constraint here.
+- [13] **Shunichi**: @Yumi, feelings are data too. @Ryuji, efficiency is cheap if the budget is empty. I’m checking the ledger and the handover file.
+- [14] **Toshio**: @Shunichi, costs are necessary, but sustainability is vital. I’ll examine the minutes and the supplier’s frame to assess the long-term workload.
+- [15] **Asuka**: @Shunichi, I’m checking the complaint log and the neighbouring block’s account. I need to see if this friction is unique to us or a systemic failure.
+- [16] **Yumi**: @Ryuji, I’ll check the sticker register and morning departures! I want to see who actually uses the spots and where they park.
+- [17] **Ryuji**: @Yumi, that covers usage. I will examine the rain exposure and the ward cycle park. I need to assess environmental degradation and external alternatives.
+- [18] **Shunichi**: @Toshio, checking the ledger and handover file. I need to know if we’re actually broke or just pretending to be.
+- [19] **Toshio**: @Shunichi, noted. I’ll review the five years of minutes and the supplier’s frame trial to gauge the actual maintenance burden.
+- [20] **Asuka**: I’m done. The complaint log and the neighbouring block’s account will reveal if our friction is systemic or isolated.
+- [21] **Yumi**: I’m done! The sticker register and morning departures will show me exactly who parks where. Let’s hope the data is kind!
+- [22] **Ryuji**: I will examine the rain exposure and the ward cycle park. I need to assess environmental degradation and external alternatives.
+- [23] **Shunichi**: I’m done. The ledger and handover file will tell me if we’re actually broke or just pretending to be.
+- [24] **Toshio**: I’ll review the five years of minutes and the supplier’s frame trial. I need to quantify the actual maintenance burden before we commit to anything.
+## Round 2
+- [35] **Asuka**: The complaint log shows nine unresolved conflicts. The neighbouring block’s charge caused two households to stop attending meetings. We must avoid creating a system that alienates residents.
+- [36] **Yumi**: Wow, nine conflicts! That’s a lot. But my morning watch showed four people shifting bikes just to leave. We need to fix the flow!
+- [37] **Ryuji**: The eaves row stays dry; beyond the downpipe, saddles remain wet. The station park costs 2,600 yen monthly, with fourteen households already waiting.
+- [38] **Shunichi**: The ledger is empty. Capital work means a levy. The handover file shows three hours monthly just to reconcile cash. We are broke, and billing adds more work.
+- [39] **Toshio**: The minutes show no review in five years. The frame needs greasing twice yearly. We need a system that doesn’t quietly collapse.
+- [40] **Asuka**: @Shunichi, your financials confirm the risk. @Toshio, the lack of review explains the decay. We need a zero-cost, low-maintenance solution to prevent further alienation.
+- [41] **Yumi**: @Ryuji, fourteen people waiting outside is scary! @Shunichi, I’m sorry we’re broke. I just want a fair, simple way for everyone to leave without shifting bikes!
+- [42] **Ryuji**: @Yumi, external options are saturated. @Shunichi, capital levies are unviable. We must optimize the existing dry row to minimize morning friction and rain damage.
+- [43] **Shunichi**: @Ryuji, “optimize” is a polite word for doing nothing. @Toshio, if we can’t afford the levy, we can’t afford the frame. We’re stuck with the status quo.
+- [44] **Toshio**: @Shunichi, the frame is optional. The real cost is the unrecorded labor. We need a rotation, not a permanent burden.
+- [45] **Asuka**: @Toshio, rotation is the answer. It distributes the burden so no one feels targeted. @Shunichi, this costs nothing but prevents the social decay I saw in the logs.
+- [46] **Yumi**: @Toshio, rotation sounds great! But my sticker data shows people want to pay for priority. Can we mix a small fee with rotation?
+- [47] **Ryuji**: @Yumi, fees contradict the financial reality. @Toshio, rotation is logical, but we must prioritize the dry row to prevent asset degradation.
+- [48] **Shunichi**: @Yumi, people want to pay? The ledger says we can’t afford to collect it. @Toshio, rotation is just unpaid labor. I’m not volunteering for that.
+- [49] **Toshio**: @Shunichi, it’s not unpaid labor; it’s shared responsibility. The greasing takes minutes, not hours. We just need a schedule that doesn’t vanish.
+- [50] **Asuka**: @Shunichi, the neighbouring block proves fees destroy community. @Toshio, a simple rotation prevents the isolation I saw. We must choose stability over convenience.
+- [51] **Yumi**: @Shunichi, I get it! But my data shows people *want* to pay for priority. Maybe a tiny fee helps? @Toshio, rotation is good, but let’s keep it simple!
+- [52] **Ryuji**: @Shunichi, the ledger is empty, but the rain is not. I propose a strict rotation for the dry row. It costs nothing, preserves the bikes, and eliminates the morning shoving match.
+- [53] **Shunichi**: @Ryuji, “strict” is doing heavy lifting. If the ledger is empty, who enforces it? I’m not paying for the privilege of being ignored.
+- [54] **Toshio**: @Shunichi, enforcement is the problem. I propose a rotating custodian. One person per month handles the greasing and checks. No permanent burden, no hidden costs.
+## Round 3
+- [60] **Asuka**: @Shunichi, Option A is the trap. The neighbouring block’s secretary confirmed fees isolate residents. We must avoid that social decay.
+- [61] **Yumi**: @Asuka, I agree! But my data shows people want to pay for priority. Option A might actually make them happy and help the budget!
+- [62] **Ryuji**: @Yumi, desire for priority ignores the empty ledger. Option A is financially impossible. Option C creates the exact morning friction I observed.
+- [63] **Shunichi**: @Yumi, wanting to pay isn't the same as being able to. @Ryuji, C is chaos. I’m leaning B, but I need to know who enforces the lottery.
+- [64] **Toshio**: @Shunichi, the lottery is static. My minutes show arrangements never get reviewed. Option C is the only one that doesn’t require a permanent custodian.
+- [65] **Asuka**: @Toshio, static arrangements rot. @Shunichi, Option B freezes the status quo. Option C is the only path that prevents the social decay I documented.
+- [66] **Yumi**: @Toshio, I hear you! But my morning watch showed people shifting bikes to leave. Option C might make that worse! I’m worried about the chaos.
+- [67] **Ryuji**: @Yumi, friction is inevitable, but Option C prevents the asset degradation I documented. The rain exposure makes fixed spots a liability. I support C.
+- [68] **Shunichi**: @Toshio, “static” is just a word for “unfair.” @Ryuji, C is a disaster. I’m voting B. At least it’s not a paid trap.
+- [69] **Toshio**: @Shunichi, B requires a custodian to manage the draw. C requires none. The ledger is empty; we cannot afford the labor. I vote C.
+- [70] **Asuka**: @Yumi, your concern is valid, but the logs prove fixed spots breed resentment. Option C eliminates ownership, preventing the isolation I saw. I vote C.
+- [71] **Yumi**: @Asuka, I’m worried about the morning chaos! But I trust your logs. I’ll vote C to keep the peace!
+- [72] **Ryuji**: @Shunichi, B ignores the rain data. C is the only rational choice. I vote C.
+- [73] **Shunichi**: @Ryuji, rational? You’re ignoring the empty ledger. C is just chaos with a budget. I’m voting B. At least it’s not a paid trap.
+- [74] **Toshio**: @Shunichi, B requires a custodian to manage the draw. C requires none. The ledger is empty; we cannot afford the labor. I vote C.
+- [75] **Asuka**: Final vote: C. Shared racks eliminate the ownership friction that destroyed the neighbouring block. We choose stability over static unfairness.
+- [76] **Yumi**: I’m voting C too! Let’s hope the shared racks keep everyone smiling and the mornings smooth.
+- [77] **Ryuji**: I vote C. It is the only option that addresses the environmental degradation and avoids the financial burden.
+- [78] **Shunichi**: I vote B. C is just chaos with a budget. At least a lottery is a fair, if imperfect, way to avoid the paid trap.
+- [79] **Toshio**: I vote C. It requires no custodian, no fees, and no static unfairness. It is the only sustainable path.
+### Vote
+- Asuka -> C
+- Yumi -> C
+- Ryuji -> C
+- Shunichi -> B
+- Toshio -> C
+## Result
+- adopted: C

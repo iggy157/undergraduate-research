@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to know if past projects actually served users well.
+- [6] **Victoria**: I am worried about how construction disrupts the daily class timetable.
+- [7] **Benjamin**: Schedules slip constantly. I need to see where the delays actually come from.
+- [8] **Kenji**: Paper costs are fiction. I need to see what things actually cost.
+- [9] **Shunichi**: Who is left to fix the mess? I need to see the staffing reality.
+- [10] **Mizuki**: @Kenji, cost is vital, but if users hate the result, it is wasted.
+- [11] **Victoria**: @Mizuki, agreed. But if the room is closed for months, usage drops to zero.
+- [12] **Benjamin**: @Victoria, exactly. Weather and logistics eat the calendar. I will check the diaries.
+- [13] **Kenji**: @Benjamin, true. But if the budget blows up, the project dies anyway.
+- [14] **Shunichi**: @Kenji, budget is fine. If no one is left to maintain it, it fails.
+- [15] **Mizuki**: I will look at post-occupancy reviews to see what actually worked.
+- [16] **Victoria**: I will check the timetable records to see how long rooms stay out of service.
+- [17] **Benjamin**: I will review the weather days and the delivery schedules to predict slippage.
+- [18] **Kenji**: I will check the tender records and the renewal reserve for hidden costs.
+- [19] **Shunichi**: I will look at the staffing posts and the technicians' weekly routines.
+- [20] **Mizuki**: Let us see the data before we guess.
+- [21] **Victoria**: The silence in the timetable is the loudest warning.
+- [22] **Benjamin**: A year of building squeezed into weeks is a disaster waiting to happen.
+- [23] **Kenji**: If the numbers do not match the market, we are flying blind.
+- [24] **Shunichi**: If the staff are already drowning, adding more work is not an option.
+## Round 2
+- [35] **Mizuki**: The reviews show that shared spaces are loved, while isolated ones are ignored.
+- [36] **Victoria**: The timetable data is brutal. Every closure forces us to rent off-site space.
+- [37] **Benjamin**: The diaries confirm it. Weather eats six weeks. Delivery data shows comfort projects always slip.
+- [38] **Kenji**: The tenders show plant costs jumped twenty percent. The reserve for old AV gear is empty.
+- [39] **Shunichi**: The freeze left us short on hands, but the technicians have spare hours.
+- [40] **Mizuki**: @Benjamin, if comfort projects slip, we should avoid anything that needs long outdoor work.
+- [41] **Victoria**: @Mizuki, exactly. And the booking data shows general rooms are always full.
+- [42] **Benjamin**: @Victoria, yes. But if we pick a project that relies on weather, we lose the year.
+- [43] **Kenji**: @Benjamin, and if we pick plant work, the budget is already wrong. The reserve is a trap.
+- [44] **Shunichi**: @Kenji, the reserve is empty, but the technicians are bored. We can use them.
+- [45] **Mizuki**: The older blocks are a minefield. Hazardous material means months of delay.
+- [46] **Victoria**: The specialist rooms are empty. Why are we spending money on them?
+- [47] **Benjamin**: The delivery data is clear. Only inspection-driven work finishes on time.
+- [48] **Kenji**: The market has moved. Our paper figures are dead. We need a plan that is cheap and fast.
+- [49] **Shunichi**: The manual routines are the key. We can automate the boring parts and free up the staff.
+- [50] **Mizuki**: We need a project that is useful to everyone and does not depend on the weather.
+- [51] **Victoria**: The general rooms are the only ones with real demand. The data is clear.
+- [52] **Benjamin**: If we pick a project that is already delayed, we are just adding to the pile.
+- [53] **Kenji**: The budget is the only thing that is real. If the numbers do not work, the project is dead.
+- [54] **Shunichi**: The staff are the only resource we have. If we do not use them, we are wasting them.
+## Round 3
+- [60] **Mizuki**: Option A fits the review data perfectly. Shared space is what people actually use.
+- [61] **Victoria**: Option A is the only one that does not require closing a room for months.
+- [62] **Benjamin**: Option A is indoor work. No weather risk. The delivery data says it will finish on time.
+- [63] **Kenji**: Option A is cheap. No plant, no reserve trap. The budget is realistic.
+- [64] **Shunichi**: Option A is the only one that does not add to the technicians' workload.
+- [65] **Mizuki**: @Victoria, exactly. The booking data shows general rooms are always full. This is the answer.
+- [66] **Victoria**: @Mizuki, yes. The specialist rooms are empty. Why are we spending money on them?
+- [67] **Benjamin**: @Kenji, the budget is the only thing that is real. Option A is the only one that works.
+- [68] **Kenji**: @Benjamin, agreed. The market has moved. Our paper figures are dead. Option A is the only one that is cheap and fast.
+- [69] **Shunichi**: @Mizuki, the staff are the only resource we have. Option A is the only one that does not waste them.
+- [70] **Mizuki**: Option B is a trap. The reviews show that isolated spaces are ignored.
+- [71] **Victoria**: Option B is a waste of money. The specialist rooms are already empty.
+- [72] **Benjamin**: Option B is a risk. The delivery data says comfort projects always slip.
+- [73] **Kenji**: Option B is a budget disaster. The plant costs are already wrong.
+- [74] **Shunichi**: Option B is a workload disaster. The technicians will be buried in maintenance.
+- [75] **Mizuki**: Option C is a minefield. The older blocks are full of hazardous material.
+- [76] **Victoria**: Option C is a waste of time. The walkways are not the problem.
+- [77] **Benjamin**: Option C is a risk. The weather will eat the schedule.
+- [78] **Kenji**: Option C is a budget disaster. The surfacing costs are already wrong.
+- [79] **Shunichi**: Option C is a workload disaster. The technicians will be buried in repairs.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> A
+## Result
+- adopted: A

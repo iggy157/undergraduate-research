@@ -1,0 +1,73 @@
+# candidate_selection_0012__single-online (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to understand the reporting burden before committing. I will look into the appraisal needs at the last audit and independent checks on holdings' reported figures.
+- [6] **Jonathan**: I will examine the retained recruiters' placement times and the adviser bench and partner board seats.
+- [7] **Shizue**: I want to see which of our past wins actually kept their customers. I will look into account retention through price rises and the profile of the exits and the write-off.
+- [8] **Misaki**: I need to know what the years after a first round demand of us. I will look into reserve accounts and follow-on calls, and the terms of last winter's credit line.
+- [9] **Shion**: I will look into security review time before first deployment and delivery records of two holdings.
+- [10] **Mizuki**: @Shion, your focus on deployment delays is sharp. I’m concerned about the verification gap. Do you think security reviews will be the main bottleneck for our candidates?
+- [11] **Jonathan**: @Mizuki, I’m focused on the people side. If we pick a company needing field crews, our recruiters can’t fill those roles quickly enough.
+- [12] **Shizue**: @Jonathan, that is a valid worry. I am looking at which past companies actually kept their customers, to see if the product itself holds value.
+- [13] **Misaki**: @Mizuki, I am checking our borrowing capacity. If follow-on calls spike, we need to know if our credit line covers the gap.
+- [14] **Shion**: @Misaki, borrowing capacity is vital, but I am tracking external obstacles. If security reviews stall deployment, no amount of credit helps.
+- [15] **Mizuki**: @Shion, I agree security is a hurdle, but I need to know if we can verify the numbers ourselves. Can you confirm if any candidate avoids that blind spot?
+- [16] **Jonathan**: @Mizuki, I can’t confirm that yet. I’m checking if we have the people to support whatever we pick, not the audit trail.
+- [17] **Shizue**: @Mizuki, I am looking at retention. If the product holds value, the numbers should be easier to trust.
+- [18] **Misaki**: @Mizuki, I am checking if our credit line covers the gap. If follow-on calls spike, we need to know if our borrowing capacity is sufficient.
+- [19] **Shion**: @Mizuki, I cannot confirm that yet. I am tracking external obstacles. If security reviews stall deployment, no amount of credit helps.
+- [20] **Mizuki**: @Shion, I will wait for your findings on deployment. For now, I am focused on ensuring our reporting remains verifiable and independent.
+- [21] **Jonathan**: @Mizuki, noted. I am focused on whether we have the people to support the choice, not the audit trail.
+- [22] **Shizue**: @Mizuki, I am looking at retention. If the product holds value, the numbers should be easier to trust.
+- [23] **Misaki**: @Mizuki, I am checking if our credit line covers the gap. If follow-on calls spike, we need to know if our borrowing capacity is sufficient.
+- [24] **Shion**: @Mizuki, I will share my findings on deployment obstacles. For now, I am focused on identifying which external hurdles we are signing up for.
+## Round 2
+- [35] **Mizuki**: #### Turn 1 of 4
+- [36] **Jonathan**: #### Turn 1 of 4
+- [37] **Shizue**: #### Turn 1 of 4
+- [38] **Misaki**: The credit line treats subscription contracts as worthless. If we pick a software company, we cannot borrow against it.
+- [39] **Shion**: #### Turn 1 of 4
+- [40] **Mizuki**: #### Turn 2 of 4
+- [41] **Jonathan**: @Misaki, that is a critical constraint. If we cannot borrow against software, we must ensure the company generates cash flow immediately to cover follow-on calls.
+- [42] **Shizue**: @Misaki, that is a serious constraint. I am checking which past companies actually kept their customers, to see if the product itself holds value.
+- [43] **Misaki**: @Jonathan, exactly. That is why I am here. We need a company that generates cash flow immediately, or we are stuck.
+- [44] **Shion**: @Misaki, that is a critical constraint. If we cannot borrow against software, we must ensure the company generates cash flow immediately to cover follow-on calls.
+- [45] **Mizuki**: @Misaki, that confirms my worry. If we pick a software company, we cannot borrow against it. We need immediate cash flow.
+- [46] **Jonathan**: @Misaki, agreed. But I am checking if we have the people to support the choice, not the audit trail.
+- [47] **Shizue**: @Misaki, I am looking at retention. If the product holds value, the numbers should be easier to trust.
+- [48] **Misaki**: @Shion, if the credit line ignores subscriptions, we need a company with tangible assets or immediate cash flow. What did you find?
+- [49] **Shion**: @Misaki, I found that hardware devices lost five months to shortages, while bank software never missed a release. External delays are real, but manageable.
+- [50] **Mizuki**: @Shion, that hardware delay is a warning. I need to know if our new holding’s numbers can be verified independently, or if we are flying blind again.
+- [51] **Jonathan**: @Mizuki, I am checking if we have the people to support the choice, not the audit trail.
+- [52] **Shizue**: @Mizuki, I am looking at retention. If the product holds value, the numbers should be easier to trust.
+- [53] **Misaki**: @Mizuki, I found our reserves are thin. If we pick a company needing heavy follow-on, we are borrowing against air.
+- [54] **Shion**: @Misaki, thin reserves mean we cannot absorb a hardware delay. I am prioritizing candidates with proven, uninterrupted delivery records.
+## Round 3
+- [60] **Mizuki**: #### Turn 1 of 4
+- [61] **Jonathan**: #### Turn 1 of 4
+- [62] **Shizue**: #### Turn 1 of 4
+- [63] **Misaki**: #### Turn 1 of 4
+- [64] **Shion**: #### Turn 1 of 4
+- [65] **Mizuki**: #### Turn 2 of 4
+- [66] **Jonathan**: #### Turn 2 of 4
+- [67] **Shizue**: @Mizuki, I found that the practice software kept nine of ten accounts through price rises. That retention suggests strong, verifiable value.
+- [68] **Misaki**: @Shizue, that retention is encouraging, but remember our credit line ignores subscription contracts. We need tangible assets to secure borrowing.
+- [69] **Shion**: @Shizue, retention is good, but I am tracking external obstacles. If security reviews stall deployment, no amount of credit helps.
+- [70] **Mizuki**: @Shizue, that retention is strong, but I need to know if we can verify their numbers independently. Can we check their figures without relying on their dashboard?
+- [71] **Jonathan**: @Mizuki, I found our recruiters can’t place field crews quickly. If we pick a hardware company, we lack the people to support it.
+- [72] **Shizue**: @Jonathan, that is a difficult constraint. I am looking at which past companies actually kept their customers, to see if the product itself holds value.
+- [73] **Misaki**: @Jonathan, that confirms my fear. If we pick a hardware company, we lack the people to support it, and our credit line won't cover the gap.
+- [74] **Shion**: @Jonathan, that confirms my worry. Hardware means field crews we cannot hire fast enough. I am prioritizing candidates with proven, uninterrupted delivery records.
+- [75] **Mizuki**: @Shion, your delivery findings align with my verification concerns. Software avoids hardware delays, but I need to confirm we can audit their figures independently before voting.
+- [76] **Jonathan**: @Mizuki, I agree. We need verifiable numbers. But remember, our recruiters fill software roles in weeks, not months. That is the people advantage.
+- [77] **Shizue**: @Mizuki, I agree. Verifiable numbers are essential. I am looking at retention. If the product holds value, the numbers should be easier to trust.
+- [78] **Misaki**: @Mizuki, I agree. But remember, our credit line ignores subscription contracts. We need a company with tangible assets or immediate cash flow to secure borrowing.
+- [79] **Shion**: @Mizuki, I agree. Software avoids hardware delays, but I need to confirm we can audit their figures independently before voting.
+### Vote
+- Mizuki -> B
+- Jonathan -> B
+- Shizue -> A
+- Misaki -> B
+- Shion -> B
+## Result
+- adopted: B

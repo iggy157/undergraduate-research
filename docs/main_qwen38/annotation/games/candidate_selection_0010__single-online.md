@@ -1,0 +1,73 @@
+# candidate_selection_0010__single-online (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I think we should look at the incident logs and the time lost to copying records.
+- [6] **May**: I’d like to check the staffing of the coordination group and in-house developer availability.
+- [7] **Shunichi**: I want to verify network coverage at customer plants and in-house developer availability.
+- [8] **Ryuji**: I’ll examine the capital budget and software allowance, plus the vendor licence pricing versus fixed-fee work.
+- [9] **Kenji**: I want to see the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts.
+- [10] **Daisuke**: @May, do you think the coordination group’s current load will actually absorb any new project work?
+- [11] **May**: @Daisuke, that’s exactly why I’m checking. If the same two people are already drowning, adding more work is just asking for a breakdown.
+- [12] **Shunichi**: @Ryuji, if the capital line is frozen, how do we justify any proposal that isn’t purely recurring software?
+- [13] **Ryuji**: @Shunichi, I’m checking the allowance. If the capital line is frozen, we must rely on the recurring software budget, which still has room.
+- [14] **Kenji**: @Shunichi, I’m looking at past rollouts to see which projects actually survived their first year.
+- [15] **Daisuke**: @Kenji, do you think the past failures were due to the tools themselves, or just how we tried to force them onto the floor?
+- [16] **May**: @Daisuke, I suspect it’s the people. If the tool demands daily effort from exhausted staff, it dies. I’m checking who’s left to carry it.
+- [17] **Shunichi**: @May, I’m verifying if the technical groundwork is even feasible. If the network fails, your staffing concerns are moot.
+- [18] **Ryuji**: @Shunichi, feasibility is only half the battle. If the recurring allowance is the only open door, we must ensure the proposal fits that specific financial constraint.
+- [19] **Kenji**: @Daisuke, I suspect the failures came from forcing broad tools on tired staff. The narrow ones for specific trades survived.
+- [20] **Daisuke**: @Kenji, that matches what I see in the logs. The narrow tools survived because they didn’t demand extra effort from tired people.
+- [21] **May**: @Shunichi, if the network is down half the time, your app is just a fancy paper form. I’m checking if we even have the people to maintain it.
+- [22] **Shunichi**: @May, I’m checking the signal. If half the sites lose coverage, a mobile app is useless. I need to know if the groundwork is even possible.
+- [23] **Ryuji**: @May, the financial path is clear. We must fit within the recurring software allowance, as the capital line is frozen.
+- [24] **Kenji**: @Ryuji, agreed. But if the capital line is frozen, we must ensure the recurring cost doesn’t balloon with every new user added.
+## Round 2
+- [35] **Daisuke**: @May, the logs show eleven misrouted deliveries this year, all from duplicate addresses. It’s a simple fix, not a grand gesture.
+- [36] **May**: @Daisuke, that’s a data problem, not a staffing one. But my check shows the coordination group is empty, and our developers are stuck until Q3.
+- [37] **Shunichi**: @May, the signal is worse than I feared. Half the sites lose coverage for whole afternoons. A mobile app is technically impossible without major infrastructure changes.
+- [38] **Ryuji**: @Shunichi, that confirms the capital freeze. We cannot fund infrastructure. We must stick to the recurring software allowance, which is the only viable path forward.
+- [39] **Kenji**: @Shunichi, that’s a hard constraint. But my review shows the narrow, single-trade tools survived, while the broad ones died. We need a proposal that fits that pattern.
+- [40] **Daisuke**: @May, if the developers are stuck until Q3, who builds the fix for those duplicate addresses? I’m worried we’re stuck.
+- [41] **May**: @Daisuke, nobody. The developers are locked in until Q3, and the coordination group is empty. We can’t build anything new right now.
+- [42] **Shunichi**: @May, that’s the reality. No developers, no network. We can’t build. We can only select what already works or requires zero new code.
+- [43] **Ryuji**: @Shunichi, precisely. If we cannot build, we must select a tool that fits the recurring allowance without demanding new capital or developer time.
+- [44] **Kenji**: @Ryuji, agreed. But if we can’t build, we must pick a tool that doesn’t need new code. My data shows narrow, single-trade tools survive; broad ones die.
+- [45] **Daisuke**: @May, if we can’t build, how do we fix the duplicate addresses? The logs show that’s where the real daily pain is.
+- [46] **May**: @Daisuke, we don’t fix it with code. We fix it with process. The hub is a repository, not an app. It’s about organizing what we already have, not building new tech.
+- [47] **Shunichi**: @May, a repository still needs someone to maintain it. With no developers and an empty coordination group, who updates the records?
+- [48] **Ryuji**: @Shunichi, maintenance is a recurring cost, not capital. If the allowance covers it, we proceed. The question is whether the process is sustainable without new hires.
+- [49] **Kenji**: @Shunichi, that’s the risk. But my data shows standardization efforts fail without an owner. We need a proposal that doesn’t rely on a dedicated team to survive.
+- [50] **Daisuke**: @May, if it’s just organizing existing records, does that actually stop the daily copying I see in the logs? I need to know if it solves the real problem.
+- [51] **May**: @Daisuke, yes. One searchable catalog means you stop copying details that already exist. It directly attacks the hour of daily waste you found.
+- [52] **Shunichi**: @May, a repository is just a database. Without developers to build the interface or staff to maintain it, it’s just a digital filing cabinet. Who actually does the work?
+- [53] **Ryuji**: @Shunichi, the allowance covers the software, not the labor. If the clerks can maintain it within their current duties, it fits. We cannot hire new staff.
+- [54] **Kenji**: @Shunichi, valid point. But my data shows narrow tools survive because they fit existing workflows. If the hub is just a catalog, it might work. If it’s a new system, it dies.
+## Round 3
+- [60] **Daisuke**: @May, if the hub stops the copying, does it also fix the misrouted deliveries? I need to know if it solves both daily pains.
+- [61] **May**: @Daisuke, yes. One shared address means no more duplicate records causing misroutes. It solves both the copying waste and the delivery errors.
+- [62] **Shunichi**: @May, a repository is still a system. If it requires daily entry from everyone, my data says it will be quietly dropped. Who forces the updates?
+- [63] **Ryuji**: @Shunichi, that is the critical distinction. If it demands daily entry from everyone, it fails. It must be a passive catalog, updated only when records change, not a daily task.
+- [64] **Kenji**: @Ryuji, exactly. My data shows tools needing daily entry from everyone were quietly dropped. The hub must be passive, updated only when records change, not a daily chore.
+- [65] **Daisuke**: @May, if it’s passive, who actually updates it? I’m worried it just becomes another neglected file.
+- [66] **May**: @Daisuke, the clerks already handle vendor queries. They update the catalog when a new certificate or address comes in. It’s part of their existing routine, not extra work.
+- [67] **Shunichi**: @May, that’s a stretch. Two clerks handling three units’ queries are already stretched thin. Adding catalog maintenance is just more invisible labor.
+- [68] **Ryuji**: @Shunichi, you are right. If it adds invisible labor, it fails. We must ensure the update process is so simple it requires no extra time, or we abandon it.
+- [69] **Kenji**: @Shunichi, valid concern. But my data shows standardization fails without an owner. If the clerks own it, it survives. If it’s an orphan, it dies.
+- [70] **Daisuke**: @May, if the clerks are already stretched thin, how does this not just become another neglected file? I need to see the actual effort involved.
+- [71] **May**: @Daisuke, it’s not extra work. They already chase the same certificates repeatedly. Consolidating that into one catalog replaces the chasing, it doesn’t add to it.
+- [72] **Shunichi**: @May, replacing chasing with cataloging is still work. If the clerks are already drowning, adding a maintenance duty is just a slower leak.
+- [73] **Ryuji**: @Shunichi, the allowance covers the software, not the labor. If the clerks can maintain it within their current duties, it fits. We cannot hire new staff.
+- [74] **Kenji**: @Shunichi, I agree. But my data shows the narrow tools survived because they fit existing workflows. If the hub replaces the chasing, it fits. If it adds a new chore, it dies.
+- [75] **Daisuke**: @May, if it replaces the chasing, I can accept it. It solves the daily copying and the misroutes without demanding new effort. I’m leaning toward the hub.
+- [76] **May**: @Daisuke, I’m in. It fits the recurring budget, uses existing staff, and solves the daily waste. I’m voting for the Supplier Data Hub.
+- [77] **Shunichi**: @May, I concede the point. If it replaces the chasing rather than adding to it, it fits the constraints. I am voting for the Supplier Data Hub.
+- [78] **Ryuji**: @May, the financial and operational constraints align. The recurring allowance covers the software, and the clerks absorb the maintenance. I am voting for the Supplier Data Hub.
+- [79] **Kenji**: @May, my data confirms it. The narrow, workflow-fitting tools survive. The hub replaces the chasing, so it fits. I am voting for the Supplier Data Hub.
+### Vote
+- Daisuke -> C
+- May -> C
+- Shunichi -> C
+- Ryuji -> C
+- Kenji -> C
+## Result
+- adopted: C

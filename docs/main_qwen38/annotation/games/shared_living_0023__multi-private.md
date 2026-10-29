@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private (shared_living)
+
+## Round 1
+- [5] **Victoria**: I want to understand the financial reality before we move anything. Who else is concerned about the budget?
+- [6] **Minato**: I mostly care about how the desks feel. Does anyone else think comfort is important for the new layout?
+- [7] **May**: Comfort is nice, but my calendar is a minefield. I need to know exactly how much time this reorganization will steal from my day.
+- [8] **Shunichi**: Let’s stop pretending this is just about desks. We’re deciding who gets the worst spot. Who’s actually willing to take that hit?
+- [9] **Daisuke**: I’m worried about who sits next to whom. It changes how much we actually talk. Can we look at that?
+- [10] **Victoria**: @Shunichi, that’s a blunt way to put it, but I agree. We need to know the true cost before assigning anyone to a "bad" spot.
+- [11] **Minato**: @Shunichi, I don’t think anyone wants the worst spot. I just want a place where my back doesn’t hurt by four o’clock.
+- [12] **May**: @Minato, back pain is real, but my time is money. I’m checking the morning routine upstairs to see how much delay we’ll face.
+- [13] **Shunichi**: @May, checking upstairs won’t fix our floor’s noise. I’m looking at the sound meter readings to see who’s actually suffering.
+- [14] **Daisuke**: I’m looking at the staff survey and the plan. I want to see if the layout matches what people actually need.
+- [15] **Victoria**: @Daisuke, the survey shows preferences, not costs. I need the floor billing basis to see if this reorganization is even financially viable for us.
+- [16] **Minato**: @Victoria, I understand the money matters. I’m looking at the physio’s note and the sound readings to find a quiet, comfortable spot.
+- [17] **May**: @Victoria, money is boring. I’m checking the badge records to see exactly how late we arrive after the shuffle.
+- [18] **Shunichi**: @Minato, your back is a luxury. I’m checking the unplanned shuffles to see how often we’ve already ignored the pain.
+- [19] **Daisuke**: @Shunichi, I’m sorry. I’m looking at the two new joiners’ reports to see how they settled in.
+- [20] **Victoria**: @May, badge records show arrival, not cost. I’m checking the floor billing basis and the facilities quote to understand our actual financial constraints.
+- [21] **Minato**: @May, I hope the badge records help. I’m checking the physio’s note and the sound meter readings to find a gentle spot.
+- [22] **May**: @Victoria, costs are boring, but my time isn’t. I’m checking the badge records and the morning routine upstairs to see the real daily hit.
+- [23] **Shunichi**: @Victoria, money doesn’t fix bad acoustics. I’m checking the unplanned shuffles and sound meter readings to see who’s been quietly suffering.
+- [24] **Daisuke**: @Victoria, I understand the budget matters. I’m checking the staff survey and the new joiners’ reports to see how seating affects connection.
+## Round 2
+- [35] **Victoria**: The billing is area-based, not headcount. Empty desks cost us 41,000 yen monthly. Facilities charge 6,200 yen per move. We must minimize changes.
+- [36] **Minato**: @Victoria, I see. The window side is nine decibels quieter, and my chair needs time to settle. Can we keep my spot near the window?
+- [37] **May**: @Minato, quiet is nice, but my mornings are chaos. Upstairs setup takes up to nine minutes, and badge data proves early birds grab the good spots.
+- [38] **Shunichi**: @Minato, the window side is nine decibels quieter. That’s not a preference, it’s a necessity. I’m checking the shuffles to see who’s been stuck in the noise.
+- [39] **Daisuke**: @Minato, the window side is quieter, but the survey says daylight matters most. I worry the interior wall isolates people.
+- [40] **Victoria**: @May, nine minutes is a daily leak. With 6,200 yen per move, we cannot afford frequent adjustments. We need a stable, efficient layout.
+- [41] **Minato**: @May, I understand your mornings are hard. But my back really needs the quiet window side to settle. Can we find a way for both of us?
+- [42] **May**: @Minato, I get the back pain, but I can’t lose nine minutes daily. I need a spot that’s ready before I even arrive.
+- [43] **Shunichi**: @May, nine minutes is a leak, but noise is a constant tax. I’m looking at the shuffles to see who’s been stuck in the noise.
+- [44] **Daisuke**: @May, I hear you. But the new joiners learned by overhearing. If we isolate people, we lose that.
+- [45] **Victoria**: @Shunichi, noise is a tax, but so is instability. We must lock the layout to avoid repeated 6,200 yen charges.
+- [46] **Minato**: @Victoria, I understand the cost. But the physio said my chair needs days to settle. Moving me again would hurt my back.
+- [47] **May**: @Victoria, stability is great, but I refuse to pay a nine-minute daily tax. I need a pre-set desk, not a scramble.
+- [48] **Shunichi**: @Victoria, stability is just a polite word for letting the same people suffer. I’m checking the shuffles to see who’s been stuck in the noise.
+- [49] **Daisuke**: @Shunichi, I agree. The joiners learned by overhearing. If we isolate people, we lose that.
+- [50] **Victoria**: @Shunichi, stability prevents the 61,000 yen monthly loss from empty desks. We must prioritize financial viability over individual comfort preferences.
+- [51] **Minato**: @Victoria, I understand the money. But my back needs the quiet window side to settle. Can we please keep me there?
+- [52] **May**: @Victoria, I’m not asking for luxury, just efficiency. A pre-set desk saves me nine minutes daily. That’s real money, not just comfort.
+- [53] **Shunichi**: @Victoria, you’re hiding the pain behind a spreadsheet. The shuffles prove we’ve ignored the noise for a year. Who’s actually paying that tax?
+- [54] **Daisuke**: @Shunichi, I’m sorry. The joiners learned by overhearing. If we isolate people, we lose that.
+## Round 3
+- [60] **Victoria**: Option A. Fixed desks prevent the 6,200 yen re-run costs and stop the 41,000 yen monthly leak from empty spaces. Stability is financial necessity.
+- [61] **Minato**: @Victoria, I understand the costs. But my chair needs days to settle. Option A keeps me at the quiet window. Can we choose A?
+- [62] **May**: @Victoria, Option A is the only one that saves my nine minutes. I refuse to scramble for a desk every morning.
+- [63] **Shunichi**: @Victoria, Option A just locks the noise row in place. We’re not fixing the problem, we’re just billing it.
+- [64] **Daisuke**: @Shunichi, I worry Option A isolates people. The joiners learned by overhearing. Can we keep them close?
+- [65] **Victoria**: @Shunichi, noise is a tax, but instability is a hemorrhage. We cannot afford the 6,200 yen per move. Option A is the only financially viable choice.
+- [66] **Minato**: @Shunichi, I know the noise is hard. But if I move, my back hurts for days. Option A lets me stay quiet.
+- [67] **May**: @Shunichi, noise is a tax, but scrambling is a robbery. Option A guarantees my desk is ready. I’m voting A.
+- [68] **Shunichi**: @May, you’re voting for the status quo. Option A just formalizes who gets the quiet and who gets the noise. I’m not buying it.
+- [69] **Daisuke**: @Shunichi, I understand. But the joiners learned by overhearing. Option A might isolate them. Can we group them near the center?
+- [70] **Victoria**: @Daisuke, grouping by function keeps the new joiners near the center. This balances your connection needs with my financial constraints. I am voting A.
+- [71] **Minato**: @Victoria, thank you. Option A lets my chair settle near the window. I am voting A, please.
+- [72] **May**: @Victoria, I’m voting A. My time is too valuable to gamble on a scramble. Let’s lock this in.
+- [73] **Shunichi**: @Victoria, you’re voting for the status quo. Option A just formalizes who gets the quiet and who gets the noise. I’m not buying it.
+- [74] **Daisuke**: @Victoria, I agree. Grouping by function helps the joiners overhear. I am voting A.
+- [75] **Victoria**: I am voting A. The financial data is clear. We must stop the monthly leak and avoid repeated re-run costs. Stability is the only rational path forward.
+- [76] **Minato**: I am voting A. My back finally gets to rest near the quiet window. Thank you all for listening to me.
+- [77] **May**: I am voting A. My mornings are finally safe. Let’s get this done before I lose another minute.
+- [78] **Shunichi**: I’m voting A. But let’s be clear: the noise row is a penalty, not a perk. We’re just finally admitting who pays for it.
+- [79] **Daisuke**: I am voting A. Grouping by function helps the joiners overhear. I hope this layout lets us actually talk to each other.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

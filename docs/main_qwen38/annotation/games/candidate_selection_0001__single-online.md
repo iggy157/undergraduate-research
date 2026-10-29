@@ -1,0 +1,73 @@
+# candidate_selection_0001__single-online (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must weigh not just the science, but the human capacity to sustain it. Who among us has looked at the staffing rolls?
+- [6] **Midori**: I haven’t checked the staffing rolls yet, but I’m curious about how the central costs have shifted. Who else is looking into the ledgers?
+- [7] **Kenji**: I’m checking the shared facility bookings. I worry the spare capacity is already gone.
+- [8] **Benjamin**: I’m reviewing the incident logs. I want to know where the actual bottlenecks are before we commit funds.
+- [9] **Toshio**: I am reviewing the closeout files. I want to see what actually delivered results, not just what sounded promising.
+- [10] **Servas**: @Midori, the ledgers will show the money, but the staffing rolls show the hands. I am checking the secondment minutes to see who is truly here.
+- [11] **Midori**: @Servas, that’s wise. I’ll check the ledgers and the national computing agreement to see what costs are actually absorbed centrally now.
+- [12] **Kenji**: @Benjamin, if the spectroscopy suite is down, that’s a huge risk. I’m also checking the accreditation status to see if the animal facility is actually ready.
+- [13] **Benjamin**: @Kenji, the accreditation is good, but the logs show the spectroscopy suite was idle for eleven weeks. I’m also checking the portfolio review for schedule overruns.
+- [14] **Toshio**: @Benjamin, overruns are symptoms. I am checking the national repository turnaround to see if data delivery is finally reliable.
+- [15] **Servas**: @Toshio, reliable data is vital, but I am more concerned about the people. I am checking the staffing rolls to see who is actually available.
+- [16] **Midori**: @Servas, I understand. I’ll stick with the ledgers and the computing agreement to map out exactly where the financial burden lies.
+- [17] **Kenji**: @Benjamin, glad you’re looking at the overruns. I’m checking the station records to see if the field sites are even stable enough to rely on.
+- [18] **Benjamin**: @Kenji, field stability is critical. I’m sticking with the incident logs and the portfolio review to map where delays actually originate.
+- [19] **Toshio**: @Kenji, field sites are risky, but I am sticking with the closeout files and repository turnaround to verify actual delivery.
+- [20] **Servas**: I am confirming my choice: the staffing rolls and the secondment minutes. Let us see who remains.
+- [21] **Midori**: I am confirming my choice: the ledgers and the national computing agreement. I need to know exactly what the agency still absorbs centrally.
+- [22] **Kenji**: I am confirming my choice: the accreditation and bookings at shared facilities, and the station records from partner field sites.
+- [23] **Benjamin**: I am confirming my choice: the incident logs on shared instrumentation and the portfolio review of schedule overruns.
+- [24] **Toshio**: I am confirming my choice: the closeout files of finished awards and the national repository deposit turnaround.
+## Round 2
+- [35] **Servas**: #### Turn 1 of 4
+- [36] **Midori**: #### Turn 1 of 4
+- [37] **Kenji**: #### Turn 1 of 4
+- [38] **Benjamin**: - **Benjamin**: The portfolio review is damning. Live breeding colonies overrun schedules twice as often as computational work.
+- [39] **Toshio**: The repository migration is complete. Deposits now clear in weeks, not years. Data delivery is finally reliable.
+- [40] **Servas**: #### Turn 2 of 4
+- [41] **Midori**: The computing agreement covers simulation hours free, but animal day rates spiked. The ledgers show per-diem frozen while shipping costs climbed.
+- [42] **Kenji**: #### Turn 2 of 4
+- [43] **Benjamin**: @Toshio, reliable data helps, but if the biology stalls, the data is just empty.
+- [44] **Toshio**: @Benjamin, precisely. The data is ready, but the biology must be robust enough to fill it.
+- [45] **Servas**: #### Turn 3 of 4
+- [46] **Midori**: @Benjamin, that aligns with my findings. Simulation is free, but animal care is expensive. We must price that risk.
+- [47] **Kenji**: #### Turn 3 of 4
+- [48] **Benjamin**: @Midori, exactly. The free compute is a trap if the wet-lab costs eat the budget.
+- [49] **Toshio**: @Midori, the free compute is a trap if the wet-lab costs eat the budget.
+- [50] **Servas**: @Midori, the animal costs are real, but the staffing rolls show the technicians are gone. Who will actually run the trials?
+- [51] **Midori**: @Servas, that is a critical point. The money is there, but if the hands are gone, the grant fails.
+- [52] **Kenji**: @Servas, the glasshouse crew is intact, but the animal facility is booked solid. We have the people, but no room.
+- [53] **Benjamin**: @Kenji, the glasshouse is full, but the spectroscopy suite sat idle for eleven weeks. We have capacity, but it’s broken.
+- [54] **Toshio**: @Benjamin, broken capacity is a delay, not a failure. I am still waiting to hear what the closeout files actually delivered.
+## Round 3
+- [60] **Servas**: The candidates are here. We must choose who truly has the hands and the time to deliver.
+- [61] **Midori**: - **Midori**: @Servas, I agree. We must match the science to the available hands and the stable infrastructure.
+- [62] **Kenji**: - **Kenji**: @Servas, I agree. We must pick the project that fits the glasshouse crew and avoids the broken spectroscopy suite.
+- [63] **Benjamin**: - **Benjamin**: @Kenji, avoiding the broken suite is smart. But we must also avoid the breeding colonies that overrun schedules.
+- [64] **Toshio**: @Benjamin, agreed. But I need to know which of these four actually delivered results in the past, not just which avoids current bottlenecks.
+- [65] **Servas**: @Toshio, the closeout files show catalogue-style work endures, while mechanism-focused projects often stall. Which candidate fits that enduring pattern?
+- [66] **Midori**: @Toshio, I agree. The Microbiome Atlas fits that enduring catalogue pattern, and the free compute helps with the sequence analysis.
+- [67] **Kenji**: @Midori, the Atlas relies on field sites. My records show three lost a season to flooding. Is that risk worth the catalogue prize?
+- [68] **Benjamin**: @Kenji, field loss is a setback, not a stop. The Atlas can still publish from the two stable sites.
+- [69] **Toshio**: @Benjamin, partial delivery is not delivery. The closeout files show mechanism-focused work often ends unresolved. I need certainty, not hope.
+- [70] **Servas**: @Toshio, certainty is a luxury. The Atlas delivers data now, while the others risk stalling. I vote for the Atlas.
+- [71] **Midori**: @Servas, I agree. The Atlas fits the stable infrastructure and the enduring catalogue pattern. I vote for the Atlas.
+- [72] **Kenji**: - **Kenji**: @Toshio, the field risk is real, but the greenhouse is full. The Atlas is the only one that fits the available space. I vote for the Atlas.
+- [73] **Benjamin**: @Toshio, the Atlas is the only one that avoids the breeding overruns and the broken spectroscopy. I vote for the Atlas.
+- [74] **Toshio**: @Servas, the closeout files confirm catalogue work endures. The Atlas is the only candidate with a proven track record of delivery. I vote for the Atlas.
+- [75] **Servas**: The vote is unanimous. The Microbiome Atlas is selected. We have chosen the path of reliable delivery over uncertain promise.
+- [76] **Midori**: @Servas, I am glad we found common ground. The Atlas balances the science with the reality of our current resources.
+- [77] **Kenji**: - **Kenji**: @Servas, I’m happy we picked the one that actually fits our current capacity. Good call, everyone.
+- [78] **Benjamin**: - **Benjamin**: @Servas, a unanimous vote is rare. I hope the Atlas delivers as reliably as the closeout files suggest.
+- [79] **Toshio**: @Benjamin, the files do not lie. The Atlas is the only choice that respects the evidence.
+### Vote
+- Servas -> A
+- Midori -> A
+- Kenji -> A
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: A

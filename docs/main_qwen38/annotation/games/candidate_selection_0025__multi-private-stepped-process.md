@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about relying on external schedules. We need stability.
+- [6] **Jonathan**: Where we sit dictates who can reach us. Geography is key.
+- [7] **Rin**: Why do we ignore what already worked here? Old records matter.
+- [8] **Benjamin**: I suspect our current funding model is structurally fragile.
+- [9] **Minako**: We must verify if our staff actually possess the required skills.
+- [10] **Shizue**: @Benjamin, do you think the grant terms are too rigid?
+- [11] **Jonathan**: @Rin, which specific programmes from six years ago?
+- [12] **Rin**: The ones that stopped. We never checked why they failed.
+- [13] **Benjamin**: @Shizue, yes. The endowment structure looks suspiciously thin.
+- [14] **Minako**: @Jonathan, I agree. But skills are the real bottleneck.
+- [15] **Shizue**: I will look at the winter road closures.
+- [16] **Jonathan**: I need to check the bus links in outer wards.
+- [17] **Rin**: I will review the attendance sheets from former outreach stops.
+- [18] **Benjamin**: I will examine the county grant terms and the endowment.
+- [19] **Minako**: I will check the volunteer register and supervision training.
+- [20] **Shizue**: @Minako, please be careful with the volunteer data.
+- [21] **Jonathan**: @Benjamin, hope the numbers are clear.
+- [22] **Rin**: I will also look at the two programmes begun six years ago.
+- [23] **Benjamin**: I will also look at the running and equipment lines last year.
+- [24] **Minako**: I will also look at the evening room bookings and remote catalogue use.
+## Round 2
+- [35] **Shizue**: The roads closed, but the halls stayed open. That is resilience.
+- [36] **Jonathan**: The bus cuts mean an hour's trip for outer ward residents.
+- [37] **Rin**: The old outreach sheets show forty visitors a session. That was real.
+- [38] **Benjamin**: The grant covers sessions, not the vehicles. The equipment money vanished.
+- [39] **Minako**: The volunteers are skilled, but no staff member is trained to supervise them.
+- [40] **Shizue**: @Benjamin, so the money is there, but the logistics are not?
+- [41] **Jonathan**: @Shizue, yes. The physical barrier is the real cost.
+- [42] **Rin**: @Minako, if we use the old outreach model, we need supervision.
+- [43] **Benjamin**: @Rin, the equipment line was a one-off. The running line is recurring.
+- [44] **Minako**: @Rin, exactly. We have the people, but not the management structure.
+- [45] **Shizue**: We need a plan that does not depend on the roads.
+- [46] **Jonathan**: A remote option might bypass the bus cuts entirely.
+- [47] **Rin**: The digitisation project failed because nobody indexed the images. We must avoid that.
+- [48] **Benjamin**: If we choose a service with high recurring costs, we will be broke in year two.
+- [49] **Minako**: We must pick a service where the skills are already on the roster.
+- [50] **Shizue**: I am leaning towards something that can be done from home.
+- [51] **Jonathan**: I agree. Distance is the enemy.
+- [52] **Rin**: I want to see if the old outreach can be revived properly.
+- [53] **Benjamin**: I will vote for the option with the lowest recurring cost.
+- [54] **Minako**: I will vote for the option that matches our current staff skills.
+## Round 3
+- [60] **Shizue**: Option A depends on the roads. I cannot support that.
+- [61] **Jonathan**: Option A is the only one that reaches the outer wards.
+- [62] **Rin**: Option D is what failed six years ago. We cannot repeat that.
+- [63] **Benjamin**: Option A has the highest recurring cost. The vehicle line will bleed us dry.
+- [64] **Minako**: Option B requires supervision skills we do not have. Option C needs facilitators we lack.
+- [65] **Shizue**: @Rin, Option D is digital. It does not need roads.
+- [66] **Jonathan**: @Shizue, but it does not help the people who cannot get to the branch.
+- [67] **Rin**: @Shizue, the old digitisation project left half the images unindexed. That is a warning.
+- [68] **Benjamin**: @Minako, Option C has the lowest recurring cost. It is just people talking.
+- [69] **Minako**: @Benjamin, but who is trained to facilitate? The register shows no one.
+- [70] **Shizue**: Option C can be run remotely. It does not depend on weather or vehicles.
+- [71] **Jonathan**: Option C is the only one that works for the outer wards without a vehicle.
+- [72] **Rin**: Option C is new. But the old outreach sheets show people want to meet.
+- [73] **Benjamin**: Option C is the only one that does not require a new equipment line.
+- [74] **Minako**: Option C is the only one that does not require a new supervision structure.
+- [75] **Shizue**: I will vote for Option C. It is stable and independent.
+- [76] **Jonathan**: I will vote for Option C. It reaches the excluded without a vehicle.
+- [77] **Rin**: I will vote for Option C. It is a new idea, but it is grounded in the need to meet.
+- [78] **Benjamin**: I will vote for Option C. It is the only one that will not bankrupt us in year two.
+- [79] **Minako**: I will vote for Option C. It is the only one that does not require a new supervision structure.
+### Vote
+- Shizue -> C
+- Jonathan -> C
+- Rin -> C
+- Benjamin -> C
+- Minako -> C
+## Result
+- adopted: C

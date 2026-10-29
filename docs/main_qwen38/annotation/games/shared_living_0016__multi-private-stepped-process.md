@@ -1,0 +1,72 @@
+# shared_living_0016__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Minato**: I worry about the time the treasurer spends. Can we keep it simple?
+- [6] **Ryuji**: We need to know the actual costs first. Guessing is not an option.
+- [7] **Minako**: Agreed. But we must ensure the fee does not scare off new members.
+- [8] **May**: I feel the hesitation in the room. We need to make joining effortless.
+- [9] **Shunichi**: Let’s look at who actually shows up. The data will tell the truth.
+- [10] **Minato**: @Shunichi, yes. If fewer people come, the burden on the books grows heavier.
+- [11] **Ryuji**: @Minato, exactly. We must cover the fixed costs regardless of attendance.
+- [12] **Minako**: We should check the ledger to see where the money actually went.
+- [13] **May**: I want to see why people are hesitating. The social vibe is fading.
+- [14] **Shunichi**: I will check the attendance records. I suspect the core group is doing all the work.
+- [15] **Minato**: The ledger seems essential. I hope it shows a manageable workload.
+- [16] **Ryuji**: I will review the ledger and the bank statements. I need hard numbers.
+- [17] **Minako**: I will look at the sign-up records. I need to see how newcomers integrate.
+- [18] **May**: I will check the winter social notes and the sign-in sheets. I need to feel the mood.
+- [19] **Shunichi**: I will examine the rota and the attendance record. I need to see the imbalance.
+- [20] **Minato**: I will look at the ledger and the treasurer’s hours. I want to understand the pain.
+- [21] **Ryuji**: I will look at the ledger and the bank statements. I need to verify the income.
+- [22] **Minako**: I will look at the sign-up records and the taster forms. I need to see the barrier.
+- [23] **May**: I will look at the winter social notes and the sign-in sheets. I need to see the hesitation.
+- [24] **Shunichi**: I will look at the rota and the attendance record. I need to see who is carrying the load.
+## Round 2
+- [35] **Minato**: The ledger shows fixed costs are high. The treasurer spent six hours a month chasing money.
+- [36] **Ryuji**: The bank statements confirm it. A third of members needed reminders. We cannot rely on timely payment.
+- [37] **Minako**: The sign-up records show eleven mid-year joiners. Each needed a hand-worked calculation. That is a barrier.
+- [38] **May**: The winter social notes are telling. Three quiet members said they feel uneasy about the cost per visit.
+- [39] **Shunichi**: The data is clear. Nine people do the work, eighteen pay for nothing. The current model is broken.
+- [40] **Minato**: @Shunichi, yes. If we charge per visit, the treasurer spends all night calculating. We need a flat rate.
+- [41] **Ryuji**: @Minato, a flat rate is risky. If attendance drops, we lose money. We need a base fee.
+- [42] **Minako**: A base fee plus a small per-visit charge might work. It keeps the entry low but covers costs.
+- [43] **May**: @Minako, that sounds fair. But if the per-visit charge is visible, it creates that hesitation I see.
+- [44] **Shunichi**: A base fee covers the core. The per-visit charge must be negligible to avoid the psychological barrier.
+- [45] **Minato**: I prefer the base fee. It simplifies the books. The treasurer can just collect the same amount every month.
+- [46] **Ryuji**: I agree. The base fee must be high enough to cover the seventy percent fixed costs. No more guessing.
+- [47] **Minako**: I am concerned about the visibility. If the per-visit charge is on the receipt, it feels like a penalty.
+- [48] **May**: Exactly. The hesitation comes from the feeling of being charged for belonging. We must hide the variable part.
+- [49] **Shunichi**: Let’s make the base fee the main thing. The variable part should be a small, almost invisible adjustment.
+- [50] **Minato**: I think we have a path. A solid base fee, and a very small, simple variable part.
+- [51] **Ryuji**: I will support a structure that guarantees the fixed costs are covered. Stability is key.
+- [52] **Minako**: I will support a structure that keeps the entry point low and the process simple for newcomers.
+- [53] **May**: I will support a structure that removes the sting of the per-visit charge. We need to feel like we belong.
+- [54] **Shunichi**: I will support a structure that reflects the actual usage. The heavy users should carry a slightly larger share.
+## Round 3
+- [60] **Minato**: Option A is the simplest. The treasurer only collects once. It is peaceful and clear.
+- [61] **Ryuji**: Option A is risky. If attendance drops, the fee is too low. We need to know the cost per head.
+- [62] **Minako**: Option A is good for newcomers. No one sees a variable charge. It feels like a single, simple commitment.
+- [63] **May**: Option A removes the hesitation. You pay once, and you belong. There is no weighing up each evening.
+- [64] **Shunichi**: Option A is unfair. The eighteen who never come pay the same as the nine who do everything.
+- [65] **Minato**: @Shunichi, but the treasurer’s hours are the real cost. Option B means six hours a month of chasing.
+- [66] **Ryuji**: @Minato, I understand. But if the base fee in Option B is too low, we are back to guessing.
+- [67] **Minako**: Option B creates that visible distinction. The receipt shows the extra charge. It feels like a penalty for coming.
+- [68] **May**: @Minako, yes. The hesitation is exactly that. The feeling of being charged for the privilege of being there.
+- [69] **Shunichi**: Option C is the only one that acknowledges the difference. The heavy users choose the higher tier.
+- [70] **Minato**: Option C is complicated. The treasurer has to track who is in which tier. It adds to the burden.
+- [71] **Ryuji**: Option C is reasonable. The higher tier covers the fixed costs. The lower tier is for the occasional visitor.
+- [72] **Minako**: Option C creates a visible hierarchy. The named levels make the difference obvious. That is what I fear.
+- [73] **May**: Option C is too cold. It labels people. I want everyone to feel they belong, not that they are in a class.
+- [74] **Shunichi**: Option C is rational. It matches the fee to the usage. The data shows the usage is not equal.
+- [75] **Minato**: I am leaning towards Option A. The simplicity is worth the risk. The treasurer needs rest.
+- [76] **Ryuji**: I am leaning towards Option C. It provides the financial certainty I need. The higher tier covers the base.
+- [77] **Minako**: I am leaning towards Option A. It keeps the environment low-pressure. No one is singled out by a tier.
+- [78] **May**: I am leaning towards Option A. It removes the hesitation. You pay, and you are part of the club.
+- [79] **Shunichi**: I am leaning towards Option C. It is the only one that is fair to the people who do the work.
+### Vote
+- Minato -> A
+- Ryuji -> C
+- Minako -> A
+- May -> A
+## Result
+- adopted: A

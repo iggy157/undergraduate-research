@@ -1,0 +1,73 @@
+# shared_living_0009__single-online (shared_living)
+
+## Round 1
+- [5] **Misaki**: I need to know what the car looks like when I actually pick it up.
+- [6] **May**: And I need to know how many hours I waste just figuring out who’s driving.
+- [7] **Servas**: I am curious about what an even split truly requires, beyond the simple idea of sharing equally.
+- [8] **Takumi**: I want to understand what actually breaks the trust between us before we make any more promises.
+- [9] **Kenji**: I need the real numbers. Who actually drives, and what does a year really cost?
+- [10] **Misaki**: @May, your hours are important, but I also need to see the car’s condition at handover.
+- [11] **May**: @Misaki, fair point. But without knowing the time cost, I can’t even judge if the condition is worth the hassle.
+- [12] **Servas**: @Kenji, your figures are vital, but I wonder if the paperwork reveals who truly bears the burden.
+- [13] **Takumi**: @Kenji, the numbers are good, but I’m worried about the tension. Let’s look at what other households said about why they failed.
+- [14] **Kenji**: @Takumi, I hear you, but I can’t fix the tension without knowing the actual costs. I’m choosing the fuel receipts and the tax papers.
+- [15] **Misaki**: @Kenji, noted. I will look into the state of the car at handover and the trips that repeat weekly.
+- [16] **May**: @Kenji, I’m choosing the hours of use recorded in the diary and the month's trial of recording every run.
+- [17] **Servas**: @Kenji, I will examine the last year's tax, insurance and parking papers, and the mechanic's remarks at the last service.
+- [18] **Takumi**: @Kenji, I’m choosing what two other car-sharing households said and the spell of checking each other's figures.
+- [19] **Kenji**: @Servas, I’m glad you’re checking the tax papers too. I’ll stick with the fuel receipts and the tax, insurance and parking papers.
+- [20] **Misaki**: - **Misaki**: Agreed. Let’s see what we find before we argue about it.
+- [21] **May**: - **May**: Agreed. Let’s see what we find before we argue about it.
+- [22] **Servas**: Agreed. Let’s see what we find before we argue about it.
+- [23] **Takumi**: Agreed. Let’s see what we find before we argue about it.
+- [24] **Kenji**: Agreed. Let’s see what we find before we argue about it.
+## Round 2
+- [35] **Misaki**: - **Misaki**: The car is often empty and messy when I arrive.
+- [36] **May**: - **May**: My diary shows Saturdays are triple the hours of Tuesdays, and tracking it took an hour weekly.
+- [37] **Servas**: - **Servas**: The paperwork shows over 280,000 yen in fixed costs, and the mechanic warns short runs damage the car.
+- [38] **Takumi**: - **Takumi**: Both other groups said asking for favors every time is what actually breaks the trust.
+- [39] **Kenji**: - **Kenji**: The fuel receipts are shocking. Two of us bought over half the litres, and one barely shows up.
+- [40] **Misaki**: - **Misaki**: @May, your diary proves the chaos. I need a system that guarantees the car is ready, not just booked.
+- [41] **May**: @Misaki, I agree. But my data shows the real cost is the time spent untangling it, not just the mess.
+- [42] **Servas**: @Kenji, your fuel data is crucial. It proves the "equal share" is a myth. We must account for who actually drives.
+- [43] **Takumi**: @Servas, the fixed costs are high, but the mechanic’s warning about short runs explains why the car feels tired.
+- [44] **Kenji**: @Servas, exactly. The fixed costs are just the start. The fuel receipts show the driving is wildly unequal, so a simple split is unfair.
+- [45] **Misaki**: - **Misaki**: @May, the weekly trips keep collapsing. I need a system that guarantees the car is ready, not just booked.
+- [46] **May**: @Misaki, I hear you, but my data shows the real cost is the time spent untangling it, not just the mess.
+- [47] **Servas**: @Kenji, the mechanic’s warning confirms it. Short, frequent runs destroy the car. We must factor this wear into any fair split.
+- [48] **Takumi**: @Kenji, the fuel receipts show the imbalance, but my research shows the real poison is the constant asking. We need to stop the favour cycle.
+- [49] **Kenji**: @Takumi, I agree the favour cycle is toxic, but we can’t fix it without knowing the true cost. The numbers show who’s really driving.
+- [50] **Misaki**: - **Misaki**: @May, I need the car ready, not just booked. A system that guarantees the state, not just the time.
+- [51] **May**: @Misaki, I get it, but my data shows the real cost is the time spent untangling it, not just the mess.
+- [52] **Servas**: @Kenji, the wear is real, but the favour cycle is the poison. We must stop asking before we split the bill.
+- [53] **Takumi**: @Servas, I agree. The favour cycle is the poison. We need a system that removes the need to ask, not just split the bill.
+- [54] **Kenji**: @Servas, agreed. But we need the numbers to prove the split is fair. Let’s see the options.
+## Round 3
+- [60] **Misaki**: - **Misaki**: @May, I need the car ready, not just booked. A system that guarantees the state, not just the time.
+- [61] **May**: @Misaki, I hear you, but my data shows the real cost is the time spent untangling it, not just the mess.
+- [62] **Servas**: @Kenji, the numbers are clear. Now we must choose a structure that respects both the wear and the need for order.
+- [63] **Takumi**: @Kenji, the numbers prove the split is unfair, but the favour cycle is what breaks us. We need a system that stops the asking.
+- [64] **Kenji**: @Servas, agreed. The options are here. Let’s pick the one that fixes the money and the mess.
+- [65] **Misaki**: - **Misaki**: Option A guarantees I hold the car on my days, so I can ensure it’s ready before I leave.
+- [66] **May**: @Misaki, Option A ignores my data. Saturdays are triple Tuesdays, so fixed days are unfair. I need C to pay by actual distance.
+- [67] **Servas**: @May, Option C’s distance tracking is exactly the hour-a-week burden you documented. It would recreate the very chaos you wish to escape.
+- [68] **Takumi**: @May, Option C forces us to check figures constantly. My research says that spell of checking is what destroys trust. We need to stop the asking, not start auditing.
+- [69] **Kenji**: @Takumi, you’re right about the checking. But Option B means one person pays all upfront, which is unfair given the 280,000 yen fixed costs. I need a fair split.
+- [70] **Misaki**: @May, Option A guarantees the car is ready on my days. I can’t drive a mess, so I need that control.
+- [71] **May**: @Misaki, I respect your need for control, but fixed days ignore the reality that Saturdays are triple Tuesdays. I need C to pay by actual distance.
+- [72] **Servas**: @May, you are right that C is burdensome. But A’s fixed days ignore the heavy weekend use. We need a balance.
+- [73] **Takumi**: @May, Option A stops the asking. You get your days, I get mine. No favors, no checking. It’s the only way to keep the peace.
+- [74] **Kenji**: @Takumi, I agree A stops the asking, but it ignores the fuel imbalance. I need C to pay by distance, or B to let the keeper handle the mess.
+- [75] **Misaki**: @May, I understand your frustration, but A is the only way to guarantee the car is clean and ready for me. I cannot risk another messy handover.
+- [76] **May**: @Misaki, I can’t accept A. My data proves fixed days are a lie. I’m voting C, despite the tracking cost, because it’s the only fair split.
+- [77] **Servas**: @May, I understand your need for fairness, but C’s tracking burden is unsustainable. I vote A to ensure stability and prevent the favour cycle.
+- [78] **Takumi**: @May, I know C feels fair, but my research shows the constant checking destroys trust. I vote A to stop the favour cycle and keep the peace.
+- [79] **Kenji**: @May, I respect your need for fairness, but the tracking burden is too high. I vote A to stop the favour cycle and keep the peace.
+### Vote
+- Misaki -> A
+- May -> C
+- Servas -> A
+- Takumi -> A
+- Kenji -> A
+## Result
+- adopted: A

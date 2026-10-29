@@ -1,0 +1,73 @@
+# shared_living_0011__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need to verify the actual costs before committing to any destination.
+- [6] **Toshio**: The administrative burden of last year was unsustainable for the organizers.
+- [7] **Minako**: The social isolation between year groups is a critical issue we must address.
+- [8] **Jonathan**: I am concerned about the quality of sleep and daily sessions.
+- [9] **Asuka**: The flat fee structure hides the true financial impact on individual members.
+- [10] **Ryuji**: I will look into the transport receipts and the public bed rates.
+- [11] **Toshio**: I need to check the canteen closure and the public booking lottery.
+- [12] **Minako**: I will review the seniors' comments and the attendance sheets from past camps.
+- [13] **Jonathan**: I want to see the accounts from inland clubs and the vacation timetable.
+- [14] **Asuka**: I will check the whole-building let terms and the membership train times.
+- [15] **Ryuji**: Transport costs have historically been the largest variable in our budget.
+- [16] **Toshio**: If the canteen is closed, cooking duty becomes a major time sink.
+- [17] **Minako**: Attendance data will show us who actually benefits from the camp.
+- [18] **Jonathan**: Knowing the room conditions is essential for assessing training quality.
+- [19] **Asuka**: If people drop out, the non-refundable deposit is a problem for the rest.
+- [20] **Ryuji**: Let us gather these facts before we make any promises to the membership.
+- [21] **Toshio**: I will focus on the logistical hurdles that caused last year's failure.
+- [22] **Minako**: I am confident that the data will support a more integrated approach.
+- [23] **Jonathan**: I will ensure we understand the physical environment before booking.
+- [24] **Asuka**: I will clarify the financial risks associated with different booking types.
+## Round 2
+- [35] **Ryuji**: The transport costs are the biggest variable, but public beds are surprisingly cheap.
+- [36] **Toshio**: The canteen closure means we need a place with staff, or we lose two hours daily.
+- [37] **Minako**: The seniors confirm that mixing only happens when we sleep together.
+- [38] **Jonathan**: The inland centres have eight to a room and strict lights out.
+- [39] **Asuka**: The whole-building let is risky if people drop out, but the train times are a problem for campus.
+- [40] **Ryuji**: @Toshio, does the public rate include equipment? That changes the budget significantly.
+- [41] **Toshio**: @Ryuji, yes, the rate sheet includes hall and equipment use in the 1,100 yen charge.
+- [42] **Minako**: @Jonathan, if the rooms are that crowded, will the training quality suffer?
+- [43] **Jonathan**: @Minako, yes, the sleep deprivation from last year already hurt the final sessions.
+- [44] **Asuka**: @Ryuji, the non-refundable deposit means we need a firm headcount before booking.
+- [45] **Ryuji**: The public option is cheaper, but the transport cost for a distant location is high.
+- [46] **Toshio**: The lottery application is a nightmare if dates shift, but the cost is low.
+- [47] **Minako**: The attendance sheets show a fifth never came, likely due to the commute or cost.
+- [48] **Jonathan**: The campus hall is split between early mornings and late evenings, which is inefficient.
+- [49] **Asuka**: A third of the club can't make the 9 AM start without a bed, so campus is out.
+- [50] **Ryuji**: We need a balance between cost, logistics, and social integration.
+- [51] **Toshio**: The public centre offers the best value if we can manage the booking risk.
+- [52] **Minako**: Sleeping together is the only way to fix the year-group divide.
+- [53] **Jonathan**: I prefer a place with better sleep conditions, but the public option is viable.
+- [54] **Asuka**: The financial risk of the lodge is high, but the public option is safer for the budget.
+## Round 3
+- [60] **Ryuji**: Option C is the most financially sound, given the low per-head cost.
+- [61] **Toshio**: Option C avoids the cooking duty, which was a major burden last year.
+- [62] **Minako**: Option C ensures everyone sleeps together, which is key for social mixing.
+- [63] **Jonathan**: Option C has strict lights out, but the equipment is on site, which is good.
+- [64] **Asuka**: Option C has a lower financial risk than the lodge, which is preferable.
+- [65] **Ryuji**: The transport cost for C is higher than B, but the bed cost is much lower.
+- [66] **Toshio**: The lottery for C is a risk, but we can apply early to mitigate it.
+- [67] **Minako**: Option B fails to address the social isolation, as people commute separately.
+- [68] **Jonathan**: Option A is appealing for the meals, but the distance is a concern for sleep.
+- [69] **Asuka**: Option A's non-refundable deposit is a significant liability for the club account.
+- [70] **Ryuji**: I am leaning towards C for the budget stability and social benefits.
+- [71] **Toshio**: I agree with C, as it solves the logistical issues we faced last year.
+- [72] **Minako**: I strongly support C, as it is the only option that fosters real interaction.
+- [73] **Jonathan**: I can accept C, provided we manage the sleep schedule carefully.
+- [74] **Asuka**: I support C, as it minimizes the financial risk for the club and members.
+- [75] **Ryuji**: Let us vote for C, as it balances cost, logistics, and social needs.
+- [76] **Toshio**: I will vote for C, as it is the most reliable option for the organizers.
+- [77] **Minako**: I will vote for C, as it is the best choice for the club's long-term health.
+- [78] **Jonathan**: I will vote for C, as it offers a good compromise on all fronts.
+- [79] **Asuka**: I will vote for C, as it is the most financially responsible choice.
+### Vote
+- Ryuji -> C
+- Toshio -> C
+- Minako -> C
+- Jonathan -> C
+- Asuka -> C
+## Result
+- adopted: C

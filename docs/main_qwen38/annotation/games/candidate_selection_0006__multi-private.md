@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Hello everyone. I’m a bit nervous, but I’m glad we’re here. I’d like to understand why past programs struggled after the first year.
+- [6] **Jonathan**: I agree with Midori. We should examine the readmission figures from the call-back trial to see if those earlier efforts actually helped patients.
+- [7] **Misaki**: I’m less concerned with patient outcomes right now. I need to see where the workload actually lands. Who else is looking at staffing?
+- [8] **Shion**: Midori, past failures are irrelevant. I need to know the actual cost versus the projected return. Who else is checking the ledger?
+- [9] **Shizue**: I worry about the physical space. Can we check the rooms, parking, and shuttle coverage? I want to ensure we don’t overcrowd the hallways.
+- [10] **Midori**: @Shion, I understand the budget pressure, but I worry about long-term sustainability. @Misaki, are you checking the ward nursing vacancies?
+- [11] **Jonathan**: @Misaki, I’m not checking staffing, but I’d appreciate your perspective on how workload affects patient continuity.
+- [12] **Misaki**: @Jonathan, I’m checking the therapy and midwifery staffing review. I need to know if the teams can absorb the new duties without burning out.
+- [13] **Shion**: @Misaki, staffing is a variable, not a constraint. I’m checking the ledger and regional tariffs. I need hard numbers, not anecdotes.
+- [14] **Shizue**: @Misaki, I’m checking the booking system records. I need to see if the current schedule has any breathing room before we add more.
+- [15] **Midori**: @Shizue, that’s wise. I’m checking the board minutes on the jointly run clinic and the data agreements with outside surgeries.
+- [16] **Jonathan**: @Midori, those documents might reveal why previous collaborations stalled. I’ll check the readmission figures and the booking system records to see if patient flow actually improved.
+- [17] **Misaki**: @Shion, I disagree. Staffing is the primary constraint. I’m checking the ward nursing vacancies and agency cover to see the real capacity limits.
+- [18] **Shion**: @Misaki, constraints are just numbers waiting to be optimized. I’m checking the ledger and regional tariffs. I need to know the true cost, not your excuses.
+- [19] **Shizue**: @Shion, please be gentle. We all want this to work. I’m checking the booking system and the rooms, parking, and shuttle coverage.
+- [20] **Midori**: @Shion, I hope we can find a balance. I’m checking the board minutes and data agreements to see if those partnerships were truly sustainable.
+- [21] **Jonathan**: I’ll review the readmission figures and booking records. We must ensure this program delivers tangible, lasting benefits to patients.
+- [22] **Misaki**: I’ll review the therapy and midwifery staffing, plus the ward nursing vacancies. I need to know if the teams can actually handle the new load.
+- [23] **Shion**: I’ll review the ledger and regional tariffs. I need to know the true cost, not your excuses.
+- [24] **Shizue**: I’ll review the booking system and the rooms, parking, and shuttle coverage. I hope we can all find a way to fit this in gently.
+## Round 2
+- [35] **Midori**: @Jonathan, the board minutes show a joint clinic closed because neither department would hold the budget. We must avoid that trap.
+- [36] **Jonathan**: @Midori, that explains the silence. My data shows readmissions dropped, then crept back up. We need a program that doesn’t vanish from the records.
+- [37] **Misaki**: @Shion, the agency costs are rising sharply. We can’t ignore the staffing reality.
+- [38] **Shion**: @Misaki, agency costs are a variable, not a constraint. My ledger shows the allocation is down a quarter. We need on-site billing to survive.
+- [39] **Shizue**: @Shion, the car park fills before eleven. If we add more, the hallways will choke. We must leave space for people to breathe.
+- [40] **Midori**: @Shion, the data agreements took fourteen months to sign. We cannot rely on outside partners for this. We need internal stability.
+- [41] **Jonathan**: @Midori, I agree. My booking records show unlogged work vanishes. We need a program that stays visible and accountable, not one that quietly disappears.
+- [42] **Misaki**: @Midori, I agree. The midwifery slack is temporary. We cannot build a program on a foundation that is already shifting.
+- [43] **Shion**: @Midori, fourteen months is a loss. My tariffs confirm off-site work earns nothing. We must bill on-site to cover the reduced allocation.
+- [44] **Shizue**: @Jonathan, I worry about the unlogged work. If it vanishes, how do we know the hallways aren’t already full?
+- [45] **Midori**: @Shizue, I agree. If the space is already tight, adding more will just cause chaos. We need a program that fits gently into our current rhythm.
+- [46] **Jonathan**: @Shizue, exactly. If it isn’t booked, it doesn’t exist. We must choose a program that leaves a clear, measurable trace in the system.
+- [47] **Misaki**: @Shizue, I agree. The nine unfilled posts mean we have no buffer. Adding load now risks total collapse.
+- [48] **Shion**: @Shizue, space is a cost, not a virtue. With the allocation down, we cannot afford empty rooms. We must maximize on-site billing to survive.
+- [49] **Shizue**: @Shion, I hear your urgency, but a full house is not a healthy one. We must leave room for the unexpected, or we will break.
+- [50] **Midori**: @Shion, I hear your urgency, but we cannot build on sand. We need a program that stays visible and doesn’t rely on fragile outside partnerships.
+- [51] **Jonathan**: @Shion, I hear you. But if the work isn’t booked, it’s invisible. We need a program that leaves a clear, measurable trace in the system.
+- [52] **Misaki**: @Shion, the staffing data is clear. We are already stretched thin. Adding more load without support will break the teams.
+- [53] **Shion**: @Misaki, your burnout is a variable. My tariffs prove off-site work earns zero. We must bill on-site to survive the cut.
+- [54] **Shizue**: @Shion, please be gentle. The shuttle misses fifteen villages. We must ensure no one is left behind in the rush to fill every slot.
+## Round 3
+- [60] **Midori**: @Shion, I worry about C. It relies on outside providers, which we know are slow to sign. We need something internal and stable.
+- [61] **Jonathan**: @Midori, I agree. C relies on external partners. A fits our need for visible, booked records. It directly addresses the readmission drift I found.
+- [62] **Misaki**: @Jonathan, A is dangerous. Nine unfilled posts mean we have no buffer. Sending nurses home adds load to already broken teams.
+- [63] **Shion**: @Misaki, home visits earn zero tariff. A is financial suicide. B bills on-site, covering the cut. Choose B.
+- [64] **Shizue**: @Shion, B needs a dedicated space, but our rooms are already full. @Misaki, A adds travel to tired nurses. We must be gentle.
+- [65] **Midori**: @Misaki, I hear your fear. But A is internal, unlike C. It keeps us stable without relying on fragile outside agreements.
+- [66] **Jonathan**: @Misaki, I hear your concern. But A’s visits are booked, creating the trace we need. It directly counters the readmission drift I found.
+- [67] **Misaki**: @Midori, I understand the stability argument. But A ignores the nine vacancies. We cannot send nurses home when the wards are already empty.
+- [68] **Shion**: @Misaki, your staffing fears are irrelevant. A earns zero tariff. B bills on-site, covering the cut. Choose B.
+- [69] **Shizue**: @Shion, please be gentle. B needs a dedicated room, but our hallways are already tight. We must not squeeze the space until it breaks.
+- [70] **Midori**: @Shizue, I agree. B needs space we don’t have. A is internal and stable, unlike C. It fits our rhythm without breaking the teams.
+- [71] **Jonathan**: @Shizue, I understand the space worry. But A’s visits are booked, creating the trace we need. It directly counters the readmission drift I found.
+- [72] **Misaki**: @Shion, B is impossible. Therapy staff are leaving, and midwifery slack is temporary. We cannot staff a new unit. A is the only viable option.
+- [73] **Shion**: @Misaki, staffing is a variable. B bills on-site, covering the cut. A earns zero. Choose B.
+- [74] **Shizue**: @Shion, I hear your need for revenue, but B will choke our hallways. @Misaki, A is gentler on the space, even if it strains the nurses.
+- [75] **Midori**: @Shion, I understand the budget pressure, but we cannot ignore the human cost. A is internal, stable, and avoids the fragile outside partnerships that failed us before.
+- [76] **Jonathan**: @Shion, I hear your urgency. But A’s booked visits create the trace we need. It directly counters the readmission drift I found.
+- [77] **Misaki**: @Shion, I concede B is unstaffable. A is the only option that doesn’t break the wards, despite the tariff loss.
+- [78] **Shion**: @Misaki, you concede? Then B is dead. A is financial suicide. I vote B, despite the staffing.
+- [79] **Shizue**: @Shion, I understand your worry. But A is gentle on our tight space. I vote A, hoping we can manage the travel kindly.
+### Vote
+- Midori -> A
+- Jonathan -> A
+- Misaki -> A
+- Shion -> B
+- Shizue -> A
+## Result
+- adopted: A

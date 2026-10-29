@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Toshio**: The current system is failing. We need a fixed structure for the year.
+- [6] **Ryuji**: I need to understand the actual time cost before we commit to anything.
+- [7] **Benjamin**: I suspect the workload distribution is skewed. We need data on usage patterns.
+- [8] **May**: I’m tired of guessing if the bathroom is safe to enter. Let’s fix that.
+- [9] **Midori**: I want us to stay friends. Let’s find a way that doesn’t cause fights.
+- [10] **Toshio**: Agreed. We should look at the receipts and the timing logs.
+- [11] **Ryuji**: @Toshio, timing is key. I’ll check the stopwatch data and the grout condition.
+- [12] **Benjamin**: I’ll examine the kitchen usage watch and the house chat rows.
+- [13] **May**: I need to know what 'done' means. I’ll check the definitions and the calendar.
+- [14] **Midori**: I’ll look at the previous tenants' note and the outside firm terms.
+- [15] **Toshio**: @Benjamin, the chat rows might show who is actually complaining.
+- [16] **Ryuji**: @May, if we define 'done', we can measure it. I’ll time a full pass.
+- [17] **Benjamin**: @Ryuji, timing is good, but we need to see who is using the space.
+- [18] **May**: @Midori, the previous note might have a template we can adapt.
+- [19] **Midori**: @May, yes, a template could help. I’ll also check the management rate sheet.
+- [20] **Toshio**: I will investigate the bathroom spray stock and the management rate sheet.
+- [21] **Ryuji**: I will investigate the stopwatch timing and the bathroom grout after the July scrub.
+- [22] **Benjamin**: I will investigate a fortnight's watch on kitchen use and rows recorded in the house chat.
+- [23] **May**: I will investigate what each housemate counts as done and absences on the wall calendar.
+- [24] **Midori**: I will investigate the note left by the previous tenants and standard terms of the outside firm.
+## Round 2
+- [35] **Toshio**: The receipts show we are buying the same spray twice. That is waste.
+- [36] **Ryuji**: @Toshio, the timing data is worse. A full pass takes over an hour.
+- [37] **Benjamin**: @Ryuji, that confirms my suspicion. The work is concentrated, but the blame is shared.
+- [38] **May**: @Benjamin, I found the real issue. We have no shared definition of 'done'.
+- [39] **Midori**: @May, that explains the tension. I found a note from the previous tenants.
+- [40] **Toshio**: @Midori, what did the previous tenants do? I need to know the cost structure.
+- [41] **Ryuji**: @Toshio, the grout fails in eleven days. We need a schedule that accounts for that.
+- [42] **Benjamin**: @Ryuji, if the grout fails that fast, a weekly rotation is impossible.
+- [43] **May**: @Benjamin, exactly. And the calendar shows we are often short-staffed.
+- [44] **Midori**: @Toshio, the note says they split rooms permanently. It ended in silence.
+- [45] **Toshio**: @Midori, silence is not a solution. I need a clear cost breakdown.
+- [46] **Ryuji**: @Toshio, the cost is time. I need to know if outsourcing removes the hours.
+- [47] **Benjamin**: @Ryuji, outsourcing might remove the hours, but does it remove the resentment?
+- [48] **May**: @Benjamin, resentment comes from the unknown. If we define 'done', we can trust it.
+- [49] **Midori**: @May, I agree. I also checked the firm's terms. They need a tidy space.
+- [50] **Toshio**: @Midori, if the firm needs a tidy space, we still have to clean.
+- [51] **Ryuji**: @Toshio, that is the trap. We need to know the true hourly cost.
+- [52] **Benjamin**: @Ryuji, let’s look at the options. We need a system that matches effort to usage.
+- [53] **May**: @Benjamin, I want a system where I don’t have to guess.
+- [54] **Midori**: @May, I want a system where we still talk. Let’s see the options.
+## Round 3
+- [60] **Toshio**: Option B is the only one that removes the variable cost from my pocket.
+- [61] **Ryuji**: @Toshio, but does it remove the time? I need to know if the hours are gone.
+- [62] **Benjamin**: @Ryuji, if the hours are gone, the resentment might be too. But the cost is high.
+- [63] **May**: @Benjamin, I don’t care about the cost if I don’t have to guess. Option A feels risky.
+- [64] **Midori**: @May, Option A is what the previous tenants did. It led to silence. I want to avoid that.
+- [65] **Toshio**: @Midori, silence is better than arguments over bleach. I prefer the predictability of B.
+- [66] **Ryuji**: @Toshio, predictability is good, but I need to verify the time savings.
+- [67] **Benjamin**: @Ryuji, the data suggests the work is uneven. Option C might not fix the usage mismatch.
+- [68] **May**: @Benjamin, Option C is just the old system with a calendar. I want a definition of done.
+- [69] **Midori**: @May, Option B requires us to be tidy before they come. That’s a shared task.
+- [70] **Toshio**: @Midori, a shared task is manageable if the cost is fixed. I am leaning toward B.
+- [71] **Ryuji**: @Toshio, I am cautious. I need to know if the firm’s terms allow for our specific mess.
+- [72] **Benjamin**: @Ryuji, the terms say they need a tidy space. That means we still do the heavy lifting.
+- [73] **May**: @Benjamin, that’s the problem. I want to stop the heavy lifting. Option A gives me control.
+- [74] **Midori**: @May, control is good, but isolation is bad. I want us to stay connected.
+- [75] **Toshio**: @Midori, connection is important, but so is financial clarity. I will vote for B.
+- [76] **Ryuji**: @Toshio, I am still assessing. The time data is concerning. I will vote for C.
+- [77] **Benjamin**: @Ryuji, C is the status quo. I will vote for A to see if ownership changes behavior.
+- [78] **May**: @Benjamin, A gives me the control I need. I will vote for A.
+- [79] **Midori**: @May, I am worried about A. I will vote for B to keep the peace.
+### Vote
+- Toshio -> B
+- Ryuji -> C
+- Benjamin -> A
+- May -> A
+- Midori -> B
+## Result
+- adopted: A

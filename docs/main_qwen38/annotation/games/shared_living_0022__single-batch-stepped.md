@@ -1,0 +1,73 @@
+# shared_living_0022__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **May**: We need to check who actually carries the load here.
+- [6] **Mizuki**: I want to know what living next to this is like daily.
+- [7] **Kenji**: Nobody has added up the costs yet. That worries me.
+- [8] **Midori**: We still have to live together. Let's keep it friendly.
+- [9] **Servas**: I need to know the time cost in hours, not just money.
+- [10] **May**: @Kenji, do you have any numbers on the budget?
+- [11] **Mizuki**: @Servas, time is money too. Let's look at the logs.
+- [12] **Kenji**: I'll check the ledger and the subsidy info.
+- [13] **Midori**: I'll look at the complaint log and the frontage measurements.
+- [14] **Servas**: I'll check the supervised mornings and the truck times.
+- [15] **May**: I'll look at the ward filing requirements and the frontages.
+- [16] **Mizuki**: I'll visit the station block's bin house and check the minutes.
+- [17] **Kenji**: Agreed. Let's get the facts before we argue.
+- [18] **Midori**: I hope the measurements show we can fit something fair.
+- [19] **Servas**: The truck time will tell us if a window is even possible.
+- [20] **May**: Let's see what the clerk says about the paperwork.
+- [21] **Mizuki**: The station block's experience might save us trouble.
+- [22] **Kenji**: I'll bring the cost breakdown to the next talk.
+- [23] **Midori**: I'll see if the complaints are from one specific house.
+- [24] **Servas**: I'll time the supervision duties if we can find the data.
+## Round 2
+- [35] **May**: The clerk says a permanent build needs four months and five signatures.
+- [36] **Mizuki**: The station block's bin house smells worse than the open pile.
+- [37] **Kenji**: The subsidy only covers forty percent, capped at ninety thousand yen.
+- [38] **Midori**: The complaint log shows eleven entries from the gate household.
+- [39] **Servas**: The truck arrives between seven forty and eight fifteen.
+- [40] **May**: @Kenji, that subsidy is barely a drop in the bucket.
+- [41] **Mizuki**: @Servas, that window starts before most of us wake up.
+- [42] **Kenji**: The ledger shows thirty-four thousand yen a year in extra fees.
+- [43] **Midori**: @May, the frontages are very uneven. One is only ninety centimetres.
+- [44] **Servas**: Supervised mornings average fifty minutes each. That's a lot of time.
+- [45] **May**: So a permanent structure is slow and expensive.
+- [46] **Mizuki**: And the enclosed option seems to make the smell worse.
+- [47] **Kenji**: We are paying for bags left open. We need discipline.
+- [48] **Midori**: The gate household is clearly the most affected.
+- [49] **Servas**: If we do managed hours, who gets up at six?
+- [50] **May**: I don't want to sign something that ignores the gate house.
+- [51] **Mizuki**: Rotating might be fairer, but the frontages are tricky.
+- [52] **Kenji**: We need to stop the extra fees first.
+- [53] **Midori**: Let's not pick a fight over who pays for the latch.
+- [54] **Servas**: I prefer a solution that doesn't require early mornings.
+## Round 3
+- [60] **May**: Option A moves the burden. Option B is hard. Option C is bad.
+- [61] **Mizuki**: Option C is out. The smell is worse. Option A is fair.
+- [62] **Kenji**: Option B stops the fees. But the time cost is high.
+- [63] **Midori**: Option A keeps us talking. Option B creates tension.
+- [64] **Servas**: Option A is the only one that doesn't break my sleep.
+- [65] **May**: @Mizuki, do you think the rotation will work with the driveway?
+- [66] **Mizuki**: @May, the narrow frontage is a problem, but we can manage.
+- [67] **Kenji**: @Servas, are you willing to take a turn on the narrow one?
+- [68] **Midori**: I think we can work it out if we communicate.
+- [69] **Servas**: I am willing, if the others are too.
+- [70] **May**: I vote for A. It's the most equitable.
+- [71] **Mizuki**: I vote for A. It avoids the smell and the early wake-up.
+- [72] **Kenji**: I vote for A. It spreads the cost and the hassle.
+- [73] **Midori**: I vote for A. It keeps the peace.
+- [74] **Servas**: I vote for A. It is the least disruptive.
+- [75] **May**: Looks like we have a consensus.
+- [76] **Mizuki**: Let's get the ward to approve the rotation schedule.
+- [77] **Kenji**: I'll draft the cost-sharing agreement.
+- [78] **Midori**: I'll make sure the gate household feels heard.
+- [79] **Servas**: A good start. Let's keep it that way.
+### Vote
+- May -> A
+- Mizuki -> A
+- Kenji -> A
+- Midori -> A
+- Servas -> A
+## Result
+- adopted: A

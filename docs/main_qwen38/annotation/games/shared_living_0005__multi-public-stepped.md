@@ -1,0 +1,73 @@
+# shared_living_0005__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Benjamin**: I worry we are freezing ourselves to save money. The current split feels arbitrary and cold.
+- [6] **Mio**: Honestly, the math is getting messy. Who is actually doing the calculations every month? It feels like a burden.
+- [7] **Jonathan**: The old agreement was for three people. We are five now. I want to know if the current split is fair.
+- [8] **Victoria**: I need to see the actual numbers before I agree to anything. The bills have changed significantly.
+- [9] **Minato**: I just want us to get along. The money talk is making everyone quiet and sad.
+- [10] **Benjamin**: @Mio, it is not just math. It is about comfort. I don't want to wear a coat indoors.
+- [11] **Mio**: @Benjamin, I hear you. But if the system is broken, comfort doesn't matter. We need a sustainable process.
+- [12] **Jonathan**: @Victoria, what specific numbers are you looking for? I am open to looking at the data.
+- [13] **Victoria**: @Jonathan, I need the full year. I need to see the seasonal spikes and the total cost.
+- [14] **Minato**: Can we look at how other houses do it? Maybe there is a simpler way.
+- [15] **Benjamin**: @Minato, other houses might have different needs. Our rooms are different. Some get sun, some don't.
+- [16] **Mio**: @Benjamin, that is a good point. But we also need to know the cost of changing the system.
+- [17] **Jonathan**: I agree. We need to check the actual usage in each room. It might not be equal.
+- [18] **Victoria**: I will look at the statements. I also want to see if there is a template for reconciliation.
+- [19] **Minato**: I will look at the payment log. I want to see if late payments are causing the tension.
+- [20] **Benjamin**: I will check the plug-in monitors. I want to see who is using the most power.
+- [21] **Mio**: I will look at the monthly settle at another house. I want to see how much time it takes.
+- [22] **Jonathan**: I will look at the sunlight and heating needs. I want to understand the physical differences.
+- [23] **Victoria**: I will look at the last twelve utility statements. I need the raw data.
+- [24] **Minato**: I will look at the kitchen notice. I want to see if people are avoiding the cooler.
+## Round 2
+- [35] **Benjamin**: The monitors show a huge gap. One room uses four times more than another. It is mostly heaters.
+- [36] **Mio**: I saw how long the other house takes. Forty minutes a month just to log it. Plus the arguments.
+- [37] **Jonathan**: The sunlight data confirms it. Two rooms are cold in winter. The others are warm. The lot was unfair.
+- [38] **Victoria**: The statements show wild swings. February is nearly three times August. A flat rate is impossible.
+- [39] **Minato**: The kitchen notice is still up. People are sweating to avoid the bill. It is affecting our health.
+- [40] **Benjamin**: @Jonathan, so the physical setup is the problem. We need to account for the cold rooms.
+- [41] **Mio**: @Victoria, if the swings are that big, a seasonal fixed rate might be the only way to stop the shock.
+- [42] **Jonathan**: @Benjamin, yes. But we also need to know the cost of installing meters. It might be too high.
+- [43] **Victoria**: @Mio, I agree. But the reconciliation template is a nightmare. Keying in every invoice is too much work.
+- [44] **Minato**: @Mio, if it takes forty minutes, that is a lot of time. Can we automate it?
+- [45] **Benjamin**: The electrician quote is 34,000 yen per room. That is 170,000 yen total. Plus annual checks.
+- [46] **Mio**: @Benjamin, that is a lot of money. But if it stops the arguments, maybe it is worth it.
+- [47] **Jonathan**: @Mio, I am not sure. The trial run of the template was painful. I don't want to do that every year.
+- [48] **Victoria**: @Jonathan, the template is for a flat share. If we use meters, we don't need the complex reconciliation.
+- [49] **Minato**: I think we should try the meters. It feels fairer. I don't want to feel guilty about the heater.
+- [50] **Benjamin**: I am leaning towards meters. It solves the comfort issue and the fairness issue.
+- [51] **Mio**: I am worried about the time. But if we use a simple app, maybe it is manageable.
+- [52] **Jonathan**: I agree with Benjamin. The data is clear. The current system is broken.
+- [53] **Victoria**: I am still concerned about the upfront cost. But the seasonal swings are too big for a flat rate.
+- [54] **Minato**: I will support the meters. I want us to be happy here.
+## Round 3
+- [60] **Benjamin**: Option C seems best. It addresses the usage gap directly. The cost is high, but the fairness is worth it.
+- [61] **Mio**: I am hesitant about C because of the time. But A is too simple. B is risky. C is the most accurate.
+- [62] **Jonathan**: I support C. The data shows the disparity is real. We need to measure it.
+- [63] **Victoria**: I am still worried about the 170,000 yen. But B requires a complex year-end settle. C is cleaner.
+- [64] **Minato**: I like C. It feels like everyone pays for what they use. No more guessing.
+- [65] **Benjamin**: @Victoria, the annual check is only 3,000 yen. It is manageable. The wiring takes two days.
+- [66] **Mio**: @Benjamin, that is true. But who does the logging? I don't want it to be me every month.
+- [67] **Jonathan**: @Mio, we can rotate it. Or use an app. The other house took forty minutes, but that was manual.
+- [68] **Victoria**: @Jonathan, the app might help. But I still think the upfront cost is a barrier.
+- [69] **Minato**: We can split the upfront cost. It is an investment in our peace.
+- [70] **Benjamin**: I agree with Minato. It is an investment. I am voting for C.
+- [71] **Mio**: I am voting for C. I will try to find a way to make the logging easier.
+- [72] **Jonathan**: I am voting for C. The data supports it.
+- [73] **Victoria**: I am voting for C. The seasonal swings are too big for B, and A is unfair.
+- [74] **Minato**: I am voting for C. I want us to get along.
+- [75] **Benjamin**: It seems we are all in agreement. C is the way to go.
+- [76] **Mio**: Yes. Let's do it. I will look into apps for the logging.
+- [77] **Jonathan**: Good. I will help with the setup.
+- [78] **Victoria**: I will handle the financial planning for the upfront cost.
+- [79] **Minato**: Thank you. I am glad we are doing this.
+### Vote
+- Benjamin -> C
+- Mio -> C
+- Jonathan -> C
+- Victoria -> C
+- Minato -> C
+## Result
+- adopted: C

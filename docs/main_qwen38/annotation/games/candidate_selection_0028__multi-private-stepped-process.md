@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I worry about the yard devices. If the system crashes during peak season, freight stops.
+- [6] **Mizuki**: I need to see the renewal invoices. I want to know if costs creep up after the contract is signed.
+- [7] **Asuka**: I am looking at support ownership. When things break, who is actually responsible?
+- [8] **Rin**: I want to check the upgrade history. I hate when old tools just get patched until they break.
+- [9] **Servas**: I am concerned about the people. Who holds the knowledge, and who is leaving?
+- [10] **Kenji**: @Mizuki, if costs creep up, we can't afford downtime. The yard needs stability.
+- [11] **Mizuki**: @Kenji, stability is expensive. I need to see the real price tag, not the brochure.
+- [12] **Asuka**: @Servas, if the people leave, the system becomes a black box. That is a risk.
+- [13] **Rin**: @Asuka, exactly. If no one knows how it works, we are stuck with bad repairs.
+- [14] **Servas**: @Rin, yes. The system is only as good as the hands that maintain it.
+- [15] **Kenji**: I will look at the yard devices and the depot calendar. Those are my priorities.
+- [16] **Mizuki**: I will examine the renewal invoices and the board minutes. I need the financial truth.
+- [17] **Asuka**: I will check support ownership and the administrator retirements. I need to know who is in charge.
+- [18] **Rin**: I will look at the upgrade history and the data lift. I want to see the technical debt.
+- [19] **Servas**: I will investigate the administrator retirements and the depot supervisors. I need to understand the human cost.
+- [20] **Kenji**: Let's see what the records say. I hope the yard can handle the new system.
+- [21] **Mizuki**: I hope the invoices tell the truth. I am tired of surprise bills.
+- [22] **Asuka**: I hope we find a clear owner. Ambiguity is the enemy of progress.
+- [23] **Rin**: I hope the upgrades were done right. I don't want to inherit a mess.
+- [24] **Servas**: I hope we respect the people who keep this place running. They are the heart of it.
+## Round 2
+- [35] **Kenji**: The yard devices are a mess. The 2021 trial failed because we relied on spreadsheets.
+- [36] **Mizuki**: I found the invoices. Bundled prices stayed flat, but add-ons climbed every year. That is the trap.
+- [37] **Asuka**: I found the support ownership. Last winter, nobody was in charge. The system was unowned for two days.
+- [38] **Rin**: I found the upgrade history. We skipped three upgrades because testing took too long. That is technical debt.
+- [39] **Servas**: I found the truth about our people. Two key administrators are leaving, and the last rollout was ignored by supervisors.
+- [40] **Kenji**: @Asuka, if nobody is in charge, the yard stops. I need a system that works even if the office is quiet.
+- [41] **Mizuki**: @Kenji, a system that works is a system we can afford. I will not sign a contract that grows like a weed.
+- [42] **Asuka**: @Mizuki, cost is one thing. Accountability is another. I need a vendor who owns the outcome, not just the code.
+- [43] **Rin**: @Asuka, I agree. But I also need a system that is easy to fix. If it is too complex, we will skip upgrades again.
+- [44] **Servas**: @Rin, complexity is a burden on the people. If the system is hard to learn, the supervisors will ignore it.
+- [45] **Kenji**: The peak season is coming. We cannot afford a cutover that costs two days of paper dispatch.
+- [46] **Mizuki**: I will push for a fixed price. If the vendor wants to charge for every little thing, we will lose money.
+- [47] **Asuka**: I will push for a single point of contact. If the vendor has four teams, we will have four excuses.
+- [48] **Rin**: I will push for a system that is easy to test. If we can't test it in a week, we will skip the upgrade.
+- [49] **Servas**: I will push for on-site training. If the trainers leave, the knowledge leaves. We need people who stay.
+- [50] **Kenji**: I am ready to vote. I want a system that survives the yard.
+- [51] **Mizuki**: I am ready to vote. I want a system that survives the budget.
+- [52] **Asuka**: I am ready to vote. I want a system that survives the people.
+- [53] **Rin**: I am ready to vote. I want a system that survives the time.
+- [54] **Servas**: I am ready to vote. I want a system that survives the hands that hold it.
+## Round 3
+- [60] **Kenji**: Anchor Industrial Software is built for transport. They will understand the yard. I want them on site.
+- [61] **Mizuki**: I looked at the invoices. Modular billing is a trap. I want a fixed price. Meridian offers a fixed configuration.
+- [62] **Asuka**: I looked at the support ownership. A single point of contact is essential. Meridian has a regional service team.
+- [63] **Rin**: I looked at the upgrade history. If we can't test it, we will skip it. Anchor's on-site team can help with testing.
+- [64] **Servas**: I looked at the people. If the trainers leave, the knowledge leaves. Anchor's engineering team stays through rollout.
+- [65] **Kenji**: @Mizuki, I understand the cost concern. But if the system fails in the yard, the cost is higher.
+- [66] **Mizuki**: @Kenji, I agree. But a system that fails is a system we can't afford. I will vote for Meridian.
+- [67] **Asuka**: @Mizuki, I agree. A single point of contact is better than four excuses. I will vote for Meridian.
+- [68] **Rin**: @Asuka, I agree. But I also need a system that is easy to fix. Anchor's on-site team can help with that.
+- [69] **Servas**: @Rin, I agree. The people are the key. If the trainers stay, the knowledge stays. I will vote for Anchor.
+- [70] **Kenji**: I will vote for Anchor. They understand the yard. They will be there when we need them.
+- [71] **Mizuki**: I will vote for Meridian. They offer a fixed price. I will not sign a contract that grows like a weed.
+- [72] **Asuka**: I will vote for Meridian. They have a single point of contact. I will not sign a contract that has four excuses.
+- [73] **Rin**: I will vote for Anchor. They will be there to help with testing. I will not sign a contract that is too complex.
+- [74] **Servas**: I will vote for Anchor. They will be there to help with training. I will not sign a contract that leaves the people behind.
+- [75] **Kenji**: I hope we make the right choice. The yard is waiting.
+- [76] **Mizuki**: I hope we make the right choice. The budget is waiting.
+- [77] **Asuka**: I hope we make the right choice. The people are waiting.
+- [78] **Rin**: I hope we make the right choice. The time is waiting.
+- [79] **Servas**: I hope we make the right choice. The hands are waiting.
+### Vote
+- Kenji -> C
+- Mizuki -> D
+- Asuka -> D
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

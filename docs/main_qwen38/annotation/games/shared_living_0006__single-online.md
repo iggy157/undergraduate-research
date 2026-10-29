@@ -1,0 +1,73 @@
+# shared_living_0006__single-online (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to fix the fee structure before costs spiral. Who wants to review the ledger first?
+- [6] **Benjamin**: I’d rather understand the administrative burden before we touch the numbers. Who else is concerned about the workload?
+- [7] **Jonathan**: I want to see how uneven the actual usage is. Who else feels the current setup is unfair to regulars?
+- [8] **Shunichi**: I’m worried about the hesitation in our evenings. Who else has noticed people second-guessing whether to show up?
+- [9] **Takumi**: I refuse to guess next year’s costs. We need to know exactly what we can count on coming in before we set a single figure.
+- [10] **Asuka**: @Benjamin, the workload is real, but we can’t fix the fee without knowing the actual costs. @Takumi, I agree, we need solid numbers.
+- [11] **Benjamin**: @Asuka, I hear you, but if the collection method is broken, the numbers are useless. @Takumi, let’s look at the treasurer’s hours to see the real cost.
+- [12] **Jonathan**: @Benjamin, the hours are just one part. I need to see the sign-in sheets to prove who is actually carrying the load.
+- [13] **Shunichi**: @Jonathan, the sign-in sheets show attendance, not the hesitation I’m seeing. I need to understand why people are pulling back from the winter social.
+- [14] **Takumi**: @Benjamin, the hours are useful, but I need the bank statements to see what we can actually rely on. @Asuka, let’s get the real cash flow.
+- [15] **Asuka**: @Shunichi, the winter social is a symptom, not the cause. @Jonathan, the sign-in sheets will show us the imbalance. Let’s look at those.
+- [16] **Benjamin**: @Jonathan, the sign-in sheets are good, but I need the treasurer’s logged hours to see the true administrative cost. @Takumi, the bank statements will show us the cash flow reality.
+- [17] **Jonathan**: @Benjamin, the hours are just one part. I need to see the sign-in sheets to prove who is actually carrying the load.
+- [18] **Shunichi**: @Asuka, the social is where the hesitation shows. I need the winter social feedback to understand why people are pulling back.
+- [19] **Takumi**: @Benjamin, the hours are useful, but I need the bank statements to see what we can actually rely on. @Asuka, let’s get the real cash flow.
+- [20] **Asuka**: @Benjamin, the hours are vital, but I need the taster forms to see why newcomers hesitate. @Shunichi, the winter social feedback will show the hesitation.
+- [21] **Benjamin**: @Asuka, the taster forms are interesting, but I need the treasurer’s logged hours to quantify the administrative burden. @Takumi, the bank statements will show the cash flow reality.
+- [22] **Jonathan**: @Benjamin, the hours are just one part. I need to see the sign-in sheets to prove who is actually carrying the load.
+- [23] **Shunichi**: @Asuka, the taster forms are for newcomers. I need the winter social feedback to understand why our regulars are hesitating.
+- [24] **Takumi**: @Benjamin, the hours are useful, but I need the bank statements to see what we can actually rely on. @Asuka, let’s get the real cash flow.
+## Round 2
+- [35] **Asuka**: #### Turn 1 of 4
+- [36] **Benjamin**: - **Asuka**: The ledger shows seventy percent of costs are fixed, regardless of attendance. The taster forms reveal newcomers fear a full-year commitment.
+- [37] **Jonathan**: #### Turn 1 of 4
+- [38] **Shunichi**: #### Turn 1 of 4
+- [39] **Takumi**: - **Takumi**: The bank statements show a third of renewals needed chasing. We cannot set a fee on money that isn't reliably there.
+- [40] **Asuka**: - **Asuka**: @Takumi, that confirms my fear. If a third of renewals need chasing, the current system is already failing. We need a structure that doesn't rely on constant reminders.
+- [41] **Benjamin**: - **Benjamin**: @Takumi, the chasing is the problem. My hours show six months of work for event charges versus one for annual. We must stop the bleeding.
+- [42] **Jonathan**: - **Jonathan**: @Benjamin, the hours are one thing, but the sign-in sheets show a quarter of us doing two-thirds of the work. That imbalance is the real issue.
+- [43] **Shunichi**: - **Shunichi**: @Jonathan, the imbalance is real, but the hesitation is the symptom. My data shows turnout dropped a third after we tried charging per event.
+- [44] **Takumi**: @Benjamin, six hours a month is unacceptable. @Shunichi, that drop proves activity-based charging kills participation. We need a flat fee to stop the chasing.
+- [45] **Asuka**: - **Asuka**: @Takumi, a flat fee ignores the newcomers who fear a full-year commitment. @Shunichi, your data proves per-event charges scare people away.
+- [46] **Benjamin**: @Asuka, the taster forms show they fear the commitment, not the fee. @Takumi, the flat fee is the only way to stop the six-hour monthly grind.
+- [47] **Jonathan**: - **Jonathan**: @Benjamin, the hours are just one part. I need to see the sign-in sheets to prove who is actually carrying the load.
+- [48] **Shunichi**: @Jonathan, the sign-in sheets show who attends, not why they hesitate. My data proves the hesitation is about the cost structure, not the people.
+- [49] **Takumi**: @Jonathan, the sign-in sheets prove the imbalance, but they don't fix the cash flow. @Benjamin, if the flat fee stops the chasing, we can finally budget properly.
+- [50] **Asuka**: @Benjamin, the commitment fear is real. @Shunichi, the hesitation is about visibility. We need a structure that protects the quiet ones while keeping the books simple.
+- [51] **Benjamin**: @Asuka, simplicity is the only way to save the treasurer. @Takumi, the flat fee is the only option that fits the data.
+- [52] **Jonathan**: @Benjamin, simplicity helps the books, but it ignores the eighteen people who never show up. Why should they pay the same as the nine who do everything?
+- [53] **Shunichi**: @Jonathan, the eighteen who never show up are the ones who need the door open. If we make them pay for what they don’t use, they’ll vanish entirely.
+- [54] **Takumi**: @Jonathan, the eighteen are the risk. If we charge per event, they vanish and we lose the base. A flat fee keeps them in, even if they don’t use it.
+## Round 3
+- [60] **Asuka**: - **Asuka**: The options are A: Flat Annual Fee, B: Tiered Membership, and C: Activity-Based Charging. @Benjamin, which one saves the treasurer?
+- [61] **Benjamin**: - **Benjamin**: @Asuka, Option A. The data is clear: annual collection takes one hour, event chasing takes six. We cannot afford the alternative.
+- [62] **Jonathan**: - **Jonathan**: @Benjamin, Option A ignores the eighteen who never show up. Why should they pay the same as the nine who do everything?
+- [63] **Shunichi**: -Shunichi: @Jonathan, the eighteen are the ones who need the door open. If we make them pay for what they don’t use, they’ll vanish entirely.
+- [64] **Takumi**: @Jonathan, the eighteen are the risk. If we charge per event, they vanish and we lose the base. A flat fee keeps them in, even if they don’t use it.
+- [65] **Asuka**: - **Asuka**: @Benjamin, Option A is the only one that keeps the books simple and the door open. @Jonathan, the imbalance is a separate problem we must solve later.
+- [66] **Benjamin**: @Asuka, agreed. The administrative burden is the deciding factor. @Jonathan, the imbalance is real, but a tiered system creates the friction we cannot afford.
+- [67] **Jonathan**: - **Jonathan**: @Benjamin, a tiered system just formalizes the exclusion I’m seeing. @Asuka, if we choose A, we must accept that the quiet members are subsidizing the active ones.
+- [68] **Shunichi**: -Shunichi: @Jonathan, the quiet members aren't subsidizing; they're keeping the club alive. @Asuka, Option A is the only choice that respects their hesitation.
+- [69] **Takumi**: @Jonathan, the quiet members are the foundation. If we push them out with tiers, we lose the club. Option A is the only way to keep everyone in.
+- [70] **Asuka**: - **Asuka**: @Jonathan, the quiet members are the foundation. If we push them out with tiers, we lose the club. Option A is the only way to keep everyone in.
+- [71] **Benjamin**: @Asuka, agreed. The data supports A. @Jonathan, the imbalance is a social issue, not a financial one. We cannot fix it with fees.
+- [72] **Jonathan**: @Benjamin, calling it a social issue is a cop-out. The ledger shows fixed costs, but the sign-in sheets show who actually benefits. I cannot vote for A while the imbalance remains unaddressed.
+- [73] **Shunichi**: -Shunichi: @Jonathan, you are confusing fairness with survival. The hesitation is real. Option A is the only structure that keeps the door open for those who are unsure.
+- [74] **Takumi**: @Jonathan, I hear your frustration, but we cannot starve the club to fix a social problem. Option A is the only choice that keeps us solvent.
+- [75] **Asuka**: - **Asuka**: @Jonathan, the imbalance is painful, but Option A is the only structure that keeps the club solvent and the door open. I am voting A.
+- [76] **Benjamin**: @Asuka, agreed. The administrative data is irrefutable. @Jonathan, the imbalance is a social issue, not a financial one. We cannot fix it with fees.
+- [77] **Jonathan**: @Benjamin, I am not voting for A. I am voting for B. If we cannot fix the imbalance, we must at least acknowledge it exists.
+- [78] **Shunichi**: -Shunichi: @Jonathan, acknowledging it with tiers will just create the friction that kills the club. I am voting A.
+- [79] **Takumi**: @Jonathan, I respect your stance, but the data is clear. We cannot afford the friction of tiers. I am voting A to keep the club alive.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> B
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

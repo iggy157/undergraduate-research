@@ -1,0 +1,73 @@
+# shared_living_0022__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: I’m here to make sure this isn’t just another quiet favor for one household. Let’s keep the math honest.
+- [6] **Mizuki**: Agreed. We need to understand the daily reality, not just the costs. What specific issues are driving the current complaints?
+- [7] **Kenji**: @Mizuki Good point. But I’m worried about the money side. Nobody has added up what this actually costs us all every year yet.
+- [8] **Midori**: I worry less about the ledger than the silence. We still share this lane, so let’s pick an option that keeps our doors open to each other.
+- [9] **Servas**: @Midori Silence is heavy. I want to know the true time cost for each of us, so no one burns out quietly.
+- [10] **May**: @Servas Exactly. If one person is doing the heavy lifting, that’s not fair. Let’s dig into the actual workload.
+- [11] **Mizuki**: @Kenji The ledger is vital, but I need to see the physical layout. Let’s measure the frontages to understand the actual space constraints.
+- [12] **Kenji**: @Mizuki I agree on the measurements. But I really need to see the block ledger too, so we know exactly what we’re paying for right now.
+- [13] **Midori**: @Kenji I hear you on the costs. But I’d also like to check the ward complaint log to see what’s actually bothering people.
+- [14] **Servas**: @May I agree. To measure that burden, I will check the truck arrival time and the ward filing requirements.
+- [15] **May**: @Kenji I’m in for the ledger. I also want the ward complaint log to see who’s actually suffering.
+- [16] **Mizuki**: @May I’ll take the ward complaint log. I also need the station block’s meeting minutes to see how they handled similar issues.
+- [17] **Kenji**: @May I’ll check the block ledger and the ward subsidy costs. I need to know our real yearly burden before we decide anything.
+- [18] **Midori**: @Mizuki I’ll look into the ward complaint log and the station block’s meeting minutes. I want to see how they kept the peace.
+- [19] **Servas**: I will examine the truck arrival time and the ward filing requirements. Knowing the schedule and rules will reveal the true daily burden on us.
+- [20] **May**: @Kenji @Mizuki @Midori @Servas I’ll check the block ledger and the ward complaint log. Let’s see who’s really paying the price.
+- [21] **Mizuki**: I’ll review the ward complaint log and the station block’s meeting minutes. I need to see how they handled similar issues.
+- [22] **Kenji**: @May I’m locked in on the block ledger and ward subsidy costs. I need to know our real yearly burden before we decide anything.
+- [23] **Midori**: I’ll check the ward complaint log and the station block’s meeting minutes. I want to see how they kept the peace.
+- [24] **Servas**: I will examine the truck arrival time and the ward filing requirements. Knowing the schedule and rules will reveal the true daily burden on us.
+## Round 2
+- [35] **May**: @Kenji @Mizuki @Midori @Servas The ledger shows thirty-four thousand yen in fees, and the complaint log reveals one household filed eleven of fourteen entries.
+- [36] **Mizuki**: @May That concentration is telling. The station block’s minutes show they fractured over minor duties within two years. We must avoid that trap.
+- [37] **Kenji**: @May Thirty-four thousand yen is a lot! But the subsidy covers forty percent, capped at ninety thousand. We could save a lot if we fix the shelters properly.
+- [38] **Midori**: @Mizuki That fracture is exactly what I fear. We need an arrangement that keeps us talking, not just sorting waste.
+- [39] **Servas**: @May One household carrying most complaints is a warning. I found the truck arrives before dawn, and permanent changes take four months.
+- [40] **May**: @Servas Four months is a long wait. @Kenji If the subsidy covers forty percent, why are we still bleeding money on open bags?
+- [41] **Mizuki**: @May The subsidy helps, but the real cost is social friction. We need a layout that prevents the daily resentment the station block experienced.
+- [42] **Kenji**: @May The open bags cause the fees! If we get proper shelters, we stop the leaks. The subsidy helps, but we need to fix the source first.
+- [43] **Midori**: @Kenji I agree. But let’s ensure the new setup doesn’t just shift the burden. We need a rhythm that lets us still share a smile over the fence.
+- [44] **Servas**: @Midori A shared smile is precious. But with the truck arriving before dawn, we must design a rhythm that respects our sleep and dignity.
+- [45] **May**: @Kenji If the subsidy covers forty percent, why are we still bleeding money on open bags?
+- [46] **Mizuki**: @May Because the subsidy covers the structure, not the daily neglect. We need a design that makes proper use effortless, not just cheaper.
+- [47] **Kenji**: @May Exactly! The shelters cost two hundred forty-eight thousand, but the subsidy covers forty percent. We just need to stop the open bags to save the rest.
+- [48] **Midori**: @Mizuki Effortless is key. If the design feels like a chore, resentment builds. Let’s aim for something simple that invites cooperation, not just compliance.
+- [49] **Servas**: @Mizuki Effortless is wise. I worry about the four-month wait for permanent changes. We need a flexible start that respects our daily lives.
+- [50] **May**: @Kenji So we’re paying for neglect? I want a plan where no one’s gate becomes the default dumping ground.
+- [51] **Mizuki**: @May Agreed. The gate is a flashpoint. We need a layout that physically separates the waste from the private entrance to prevent that resentment.
+- [52] **Kenji**: @May I agree. We need to stop the bleeding. If we fix the shelters, we save money and keep the peace.
+- [53] **Midori**: @Mizuki I agree. Let’s keep the point neutral, away from any single gate, so no one feels targeted.
+- [54] **Servas**: @Midori Neutral ground is wise. But remember, every change takes four months. We must choose a rhythm that sustains us through that long wait.
+## Round 3
+- [60] **May**: @Kenji Option C keeps it at that one gate. I refuse to sign a plan that quietly burdens one household again.
+- [61] **Mizuki**: @May I understand your concern. However, Option C’s enclosure physically separates waste from the gate, preventing the resentment we saw in the station block’s minutes.
+- [62] **Kenji**: @May I get it, but Option C saves us thirty-four thousand yen yearly! The subsidy covers forty percent, so we stop the bleeding and keep the peace.
+- [63] **Midori**: @May I hear your worry. But a shared structure might actually bring us together, rather than letting resentment fester in silence.
+- [64] **Servas**: @May I hear your fear. Yet a permanent structure, once built, ends the daily uncertainty. It offers stability, not just a moving burden.
+- [65] **May**: @Mizuki An enclosure doesn’t erase the history. That gate has carried the weight for years. I need a plan that actively redistributes that burden, not just hides it.
+- [66] **Mizuki**: @May History matters, but the station block’s minutes show proximity breeds friction. Option A physically redistributes the burden, preventing that single point of resentment.
+- [67] **Kenji**: @May I hear you, but Option C saves thirty-four thousand yen yearly! The subsidy covers forty percent, so we stop the bleeding and keep the peace.
+- [68] **Midori**: @May I hear your pain. But Option A’s constant moving might keep us on edge. Let’s find a way to stay close, not just rotate.
+- [69] **Servas**: @May History is a teacher, not a prison. Option C offers the stability we need, sparing us the exhaustion of constant change.
+- [70] **May**: @Mizuki You’re right, Option A redistributes the burden. I’m voting for it. @Kenji I can’t ignore the history of that gate.
+- [71] **Mizuki**: @May I respect your stance. However, Option C’s enclosure physically separates waste from the gate, preventing the resentment we saw in the station block’s minutes.
+- [72] **Kenji**: @May I hear you, but the math is undeniable! Option C saves us thirty-four thousand yen yearly. We need to stop the bleeding and keep the peace.
+- [73] **Midori**: @May I understand your need for fairness. But Option C’s shared build could heal our silence. Let’s choose the structure that keeps our doors open.
+- [74] **Servas**: @May I respect your history. Yet Option C’s stability spares us the exhaustion of constant change. I vote for the enclosure.
+- [75] **May**: @Kenji The math ignores the human cost. I’m voting for Option A. We need to move the burden, not just hide it behind a wall.
+- [76] **Mizuki**: @May I respect your stance. However, Option C’s enclosure physically separates waste from the gate, preventing the resentment we saw in the station block’s minutes.
+- [77] **Kenji**: @May I hear you, but the math is undeniable! Option C saves us thirty-four thousand yen yearly. We need to stop the bleeding and keep the peace.
+- [78] **Midori**: @May I hear your need for fairness. But Option C’s shared build could heal our silence. Let’s choose the structure that keeps our doors open.
+- [79] **Servas**: @May I respect your history. Yet Option C’s stability spares us the exhaustion of constant change. I vote for the enclosure.
+### Vote
+- May -> A
+- Mizuki -> C
+- Kenji -> C
+- Midori -> C
+- Servas -> C
+## Result
+- adopted: C

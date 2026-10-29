@@ -1,0 +1,73 @@
+# candidate_selection_0025__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about relying on conditions we cannot control, like weather or transport.
+- [6] **Jonathan**: The location of our branches already dictates who can reach us.
+- [7] **Rin**: Why do we keep judging new ideas by how they sound?
+- [8] **Benjamin**: Budgets often look fine on day one but thin out later.
+- [9] **Minako**: We need to check if staff actually have the skills for new tasks.
+- [10] **Shizue**: @Jonathan, yes, access is a major barrier for many residents.
+- [11] **Jonathan**: @Shizue, exactly. Every new commitment reshuffles who can participate.
+- [12] **Rin**: I want to look at what we tried before.
+- [13] **Benjamin**: I should check the funding structure to see where it breaks.
+- [14] **Minako**: I need to verify the volunteer and staff training records.
+- [15] **Shizue**: I will look into winter road closures and bus links.
+- [16] **Jonathan**: I will check bus links and evening room bookings.
+- [17] **Rin**: I will look at the two programmes begun six years ago.
+- [18] **Benjamin**: I will check the county grant terms and running lines.
+- [19] **Minako**: I will check the volunteer register and tool certification.
+- [20] **Shizue**: Let us see what the data says about reliability.
+- [21] **Jonathan**: Agreed. The physical constraints are real.
+- [22] **Rin**: I hope we find some useful records.
+- [23] **Benjamin**: Logic over optimism, please.
+- [24] **Minako**: Facts first, then decisions.
+## Round 2
+- [35] **Shizue**: The roads north were shut for eleven days, but halls kept their timetables.
+- [36] **Jonathan**: The outer wards lost their bus link; residents face an hour's round trip.
+- [37] **Rin**: The old digitisation project left half the images unindexed.
+- [38] **Benjamin**: The vehicle running line overran by a third last year.
+- [39] **Minako**: We have retired tradespeople, but no one trained to supervise outside facilitators.
+- [40] **Shizue**: @Jonathan, that bus loss is severe. It isolates those wards completely.
+- [41] **Jonathan**: @Shizue, yes. And evening bookings are full, but remote use peaks later.
+- [42] **Rin**: @Benjamin, if vehicles are expensive, maybe a mobile service is risky.
+- [43] **Benjamin**: @Rin, the grant only covers fees for twelve months, then it's on us.
+- [44] **Minako**: @Rin, the partner-run groups still meet unaided, which is promising.
+- [45] **Shizue**: The community halls seem more resilient than our fixed branches.
+- [46] **Jonathan**: We need to consider how to reach those without transport.
+- [47] **Rin**: The attendance at former outreach stops was actually higher than midweek main branch.
+- [48] **Benjamin**: The endowment covers capital, but operating costs are a flat budget.
+- [49] **Minako**: The tool certification technician retired, which is a gap for workshops.
+- [50] **Shizue**: We must ensure whatever we choose doesn't depend on fragile conditions.
+- [51] **Jonathan**: A mobile service might solve the transport issue, but is it sustainable?
+- [52] **Rin**: The records show outreach works, but we need to check the costs.
+- [53] **Benjamin**: If the running costs are high, a vehicle might be a financial trap.
+- [54] **Minako**: We lack the supervision skills for complex new programs like language circles.
+## Round 3
+- [60] **Shizue**: The candidates are Mobile Branch, Maker Workshop, Language Circles, and Digital Archive.
+- [61] **Jonathan**: The Mobile Branch addresses the bus link loss directly.
+- [62] **Rin**: The Digital Archive failed before; the Mobile Branch has good attendance data.
+- [63] **Benjamin**: The Mobile Branch has high running costs, but the grant helps initially.
+- [64] **Minako**: Language Circles need facilitators we don't have; Mobile Branch uses existing staff.
+- [65] **Shizue**: @Jonathan, the Mobile Branch seems to fit the need for access.
+- [66] **Jonathan**: @Shizue, yes, but @Benjamin, what about the long-term costs?
+- [67] **Rin**: @Minako, the Mobile Branch doesn't need new supervision skills, just drivers.
+- [68] **Benjamin**: @Jonathan, the running line overran, but it's less than building a new branch.
+- [69] **Minako**: @Rin, correct. The staff can handle the help desk with current training.
+- [70] **Shizue**: The winter closures didn't stop the halls, so a vehicle might be flexible.
+- [71] **Jonathan**: It brings the service to the people who can't come to us.
+- [72] **Rin**: The attendance sheets prove people want this service.
+- [73] **Benjamin**: It's the most logical use of the current budget structure.
+- [74] **Minako**: It avoids the skill gaps of the other proposals.
+- [75] **Shizue**: I am convinced the Mobile Branch is the most resilient option.
+- [76] **Jonathan**: I agree. It solves the access problem without new infrastructure.
+- [77] **Rin**: The data supports it. Let's go with the Mobile Branch.
+- [78] **Benjamin**: The financial risk is manageable compared to the others.
+- [79] **Minako**: It is the only one we can staff with current capabilities.
+### Vote
+- Shizue -> A
+- Jonathan -> A
+- Rin -> A
+- Benjamin -> A
+- Minako -> A
+## Result
+- adopted: A

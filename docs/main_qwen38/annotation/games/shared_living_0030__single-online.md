@@ -1,0 +1,73 @@
+# shared_living_0030__single-online (shared_living)
+
+## Round 1
+- [5] **Toshio**: The old habit has clearly broken down. Before we pick a new system, we need to know the actual costs and time involved.
+- [6] **Ryuji**: I agree. We need to quantify the time commitment before committing to a year.
+- [7] **Benjamin**: I’d like to see how the workload actually distributes against who’s here. Fairness matters before we lock anything in.
+- [8] **May**: I just want to stop guessing what state the rooms will be in. Predictability is my main worry here.
+- [9] **Midori**: I care most about keeping us on speaking terms. Let’s find a system that doesn’t turn us against each other.
+- [10] **Toshio**: I’ll check the bathroom spray receipts and the management office rate sheet to pin down the monthly costs.
+- [11] **Ryuji**: I’ll time a full pass with a stopwatch and check the bathroom grout to see how quickly it degrades.
+- [12] **Benjamin**: I’ll check the absences on the wall calendar and watch kitchen use for a fortnight to see who’s actually here and cooking.
+- [13] **May**: I’ll look into what each housemate counts as done and the bathroom grout after the July scrub.
+- [14] **Midori**: I’ll read the note left by the previous tenants and scroll through the house chat rows to see what actually caused the friction.
+- [15] **Toshio**: I’ll also review the standard terms of the outside firm to understand their arrival windows and requirements.
+- [16] **Ryuji**: I’ll also check the standard terms of the outside firm to see if their arrival windows actually remove the time burden.
+- [17] **Benjamin**: I’ll also check the rows recorded in the house chat to see if the friction follows a specific pattern.
+- [18] **May**: I’ll also check the rows recorded in the house chat to see if the friction follows a specific pattern.
+- [19] **Midori**: I’ll also check the bathroom spray stock and the tin's receipts to see if we’re wasting money on duplicates.
+- [20] **Toshio**: I’ll also check the absences on the wall calendar to see how our schedules affect who is actually present to clean.
+- [21] **Ryuji**: I’ll also check the absences on the wall calendar to see how our schedules affect who is actually present to clean.
+- [22] **Benjamin**: I’ll also check the standard terms of the outside firm to see if their arrival windows actually remove the time burden.
+- [23] **May**: I’ll also check the rows recorded in the house chat to see if the friction follows a specific pattern.
+- [24] **Midori**: I’ll also check the standard terms of the outside firm to see if their requirements might create new friction points for us.
+## Round 2
+- [35] **Toshio**: The receipts show we spend 2,300 yen monthly on duplicates. The management office charges 4,200 yen per hour for contracted help.
+- [36] **Ryuji**: The stopwatch run totaled one hundred and two minutes. The firm’s terms require someone present to tidy beforehand, so the time burden isn’t fully removed.
+- [37] **Benjamin**: The calendar shows two of us away weekly, and one was gone all August. Yet the kitchen watch shows only two or three of us actually cooking.
+- [38] **May**: My findings show we define "done" differently, causing the state to swing. The chat logs reveal our rows start with reminders about undone tasks.
+- [39] **Midori**: The previous tenants divided rooms permanently, but by year two, two of them barely spoke. The chat logs confirm our rows start with reminders.
+- [40] **Toshio**: @Ryuji, if the firm needs us present, does that just shift the burden rather than remove it?
+- [41] **Ryuji**: It shifts it. We still need to tidy beforehand, so the prep time remains. It doesn’t remove the burden, just changes who does the heavy lifting.
+- [42] **Benjamin**: @Toshio, the 4,200 yen rate is steep. If we hire them, we need to know exactly who settles that invoice monthly.
+- [43] **May**: @Benjamin, that’s a fair point. But the real issue is that we don’t agree on what “done” even means, so the invoice is the least of our worries.
+- [44] **Midori**: @May, I agree. The previous tenants’ silence proves that rigid division breeds resentment. We need a system that prevents those reminders from becoming arguments.
+- [45] **Toshio**: @Benjamin, the office bill goes to one named tenant who collects from the rest. I need to know if that collection process is reliable or if it creates debt.
+- [46] **Ryuji**: @Toshio, that collection risk is real. But my stopwatch data shows the prep work alone is significant. We can’t outsource the time we don’t have.
+- [47] **Benjamin**: @Toshio, that collection risk is real. But my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+- [48] **May**: @Midori, the reminders are the trigger. If we define "done" clearly, we stop the cycle before it starts.
+- [49] **Midori**: @May, exactly. If we agree on the standard, the reminders disappear. I’d rather we define "done" together than let it drift into resentment again.
+- [50] **Toshio**: @Toshio, the collection risk is real. But my stopwatch data shows the prep work alone is significant. We can’t outsource the time we don’t have.
+- [51] **Ryuji**: @Toshio, that was a slip. I stand by my point: the prep work remains. We cannot outsource the time we do not have.
+- [52] **Benjamin**: @Toshio, the collection risk is real. But my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+- [53] **May**: @Toshio, the collection risk is real. But my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+- [54] **Midori**: @Toshio, the collection risk is real. But my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+## Round 3
+- [60] **Toshio**: The options are on the table. I need to see which one settles the monthly cost and who pays upfront.
+- [61] **Ryuji**: #### Turn 1 of 4
+- [62] **Benjamin**: #### Turn 1 of 4
+- [63] **May**: - **May**: Predictability is key. I need a system where the state of the rooms is consistent, not dependent on who is home.
+- [64] **Midori**: I worry that permanent assignments, like the previous tenants’ note, will isolate us. I want a system that keeps us talking.
+- [65] **Toshio**: @Ryuji, the 4,200 yen rate is steep. If we hire them, we need to know exactly who settles that invoice monthly.
+- [66] **Ryuji**: @Toshio, the cost is high, but the 102-minute time cost is higher. I need to know if the prep work is truly minimal before I support this.
+- [67] **Benjamin**: @Toshio, the invoice risk is real, but my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+- [68] **May**: @Benjamin, I agree. But if we hire, the "done" standard still matters for the prep. We need to define that first.
+- [69] **Midori**: @May, agreed. But I worry that even a paid service requires us to coordinate the arrival, which could become a new source of friction.
+- [70] **Toshio**: @Benjamin, the invoice risk is real. But my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+- [71] **Ryuji**: @Toshio, the invoice risk is real. But my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+- [72] **Benjamin**: @Toshio, I agree. But my data shows the work is uneven. If we hire, we must ensure the bill doesn’t just land on whoever is home that day.
+- [73] **May**: @Midori, I agree. But if we hire, the "done" standard still matters for the prep. We need to define that first.
+- [74] **Midori**: @May, exactly. If we hire, the "done" standard still matters for the prep. We need to define that first.
+- [75] **Toshio**: I vote for the paid service. It fixes the monthly cost and removes the time burden, provided we settle the invoice fairly.
+- [76] **Ryuji**: I vote for the fixed weekly rota. It guarantees the time is spent, and the published order prevents the ambiguity that caused our previous rows.
+- [77] **Benjamin**: I vote for the fixed weekly rota. It forces the work to rotate, preventing the permanent resentment the previous tenants fell into.
+- [78] **May**: I vote for the fixed weekly rota. A published order gives me the predictability I need, and rotating prevents the resentment that isolated the previous tenants.
+- [79] **Midori**: I vote for the fixed weekly rota. It keeps us interacting and prevents the isolation that silenced the previous tenants.
+### Vote
+- Toshio -> B
+- Ryuji -> C
+- Benjamin -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0029__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Minako**: We need to stop guessing. I want to know what an even split actually costs.
+- [6] **Benjamin**: Agreed. I’m curious about what actually sours groups like ours.
+- [7] **Asuka**: I care about the car’s state when I pick it up.
+- [8] **Shion**: I need the real figures. No more guesswork on fuel or bills.
+- [9] **Daisuke**: I just want to see where the arranging time goes.
+- [10] **Minako**: @Shion, your figures will help me see the subsidy issue.
+- [11] **Benjamin**: @Minako, I’ll look into past conflicts to avoid repeating them.
+- [12] **Asuka**: @Daisuke, if we track hours, we might see the handover issues.
+- [13] **Shion**: @Benjamin, knowing what sours us helps me judge the logic.
+- [14] **Daisuke**: @Asuka, I’ll try to find the time cost of coordination.
+- [15] **Minako**: Let’s pick two things each. I’ll take the fuel receipts and the diary.
+- [16] **Benjamin**: I’ll check the other households and our own checking spell.
+- [17] **Asuka**: I’ll look at the handover state and the weekly trips.
+- [18] **Shion**: I’ll take the tax papers and the fuel receipts.
+- [19] **Daisuke**: I’ll look at the trial recording and the heavy use weeks.
+- [20] **Minako**: Sounds fair. Let’s see what the data says.
+- [21] **Benjamin**: I hope it’s not just more blame.
+- [22] **Asuka**: I just want a reliable car on a Tuesday morning.
+- [23] **Shion**: The numbers will tell the truth.
+- [24] **Daisuke**: I’m a bit nervous, but let’s try.
+## Round 2
+- [35] **Minako**: The fuel is lopsided. Two people bought most of it.
+- [36] **Benjamin**: I found that asking favours sours groups. Checking figures made us feel accused.
+- [37] **Asuka**: The car is often dirty or empty when I need it. Weekly trips keep failing.
+- [38] **Shion**: Fixed costs are 280k yen. Fuel is uneven. We need a system that reflects use.
+- [39] **Daisuke**: Tracking takes an hour a week. Heavy weeks cost whole evenings. It’s exhausting.
+- [40] **Minako**: @Shion, if fuel is uneven, a fixed share is unfair.
+- [41] **Benjamin**: @Minako, so we need a system that doesn’t feel like asking favours.
+- [42] **Asuka**: @Benjamin, a booking system might stop the weekly trips from collapsing.
+- [43] **Shion**: @Asuka, a booking system with distance-based costs seems logical.
+- [44] **Daisuke**: @Shion, but if it takes an hour a week to track, is it worth it?
+- [45] **Minako**: I think a booking calendar with distance costs is fair.
+- [46] **Benjamin**: I agree. It avoids the favour-asking dynamic.
+- [47] **Asuka**: I prefer it too. It ensures the car is ready for my weekly trips.
+- [48] **Shion**: I support it. It uses real figures, not guesses.
+- [49] **Daisuke**: I’m worried about the time cost, but it seems the fairest.
+- [50] **Minako**: Let’s vote on the options.
+- [51] **Benjamin**: I’ll vote for the booking calendar.
+- [52] **Asuka**: Same here.
+- [53] **Shion**: I’ll vote for the booking calendar.
+- [54] **Daisuke**: I’ll vote for the booking calendar, hoping it’s manageable.
+## Round 3
+- [60] **Minako**: Option B seems to address the fuel imbalance.
+- [61] **Benjamin**: Option B avoids the favour-asking trap.
+- [62] **Asuka**: Option B protects my weekly trips.
+- [63] **Shion**: Option B is the most logical based on the data.
+- [64] **Daisuke**: Option B is the fairest, even if it takes time.
+- [65] **Minako**: I’m confident in Option B.
+- [66] **Benjamin**: I agree. It’s the best fit.
+- [67] **Asuka**: I’ll go with B.
+- [68] **Shion**: B is the clear choice.
+- [69] **Daisuke**: I’ll vote B.
+- [70] **Minako**: Let’s finalize the vote.
+- [71] **Benjamin**: I’m ready.
+- [72] **Asuka**: Ready.
+- [73] **Shion**: Ready.
+- [74] **Daisuke**: Ready.
+- [75] **Minako**: Voting now.
+- [76] **Benjamin**: Vote B.
+- [77] **Asuka**: Vote B.
+- [78] **Shion**: Vote B.
+- [79] **Daisuke**: Vote B.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Asuka -> B
+- Shion -> B
+- Daisuke -> B
+## Result
+- adopted: B

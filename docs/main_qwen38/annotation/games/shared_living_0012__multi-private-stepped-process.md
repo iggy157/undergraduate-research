@@ -1,0 +1,73 @@
+# shared_living_0012__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Kenji**: I worry about us staying friends. Which option keeps the peace?
+- [6] **Shizue**: I want to know what mornings feel like. What does the air smell like?
+- [7] **Asuka**: I need to quantify the labor. Who does the setup and the daily upkeep?
+- [8] **Rin**: I want to see the measurements. I refuse to sign if one gate takes the hit.
+- [9] **Servas**: We must look at the ledger. Who pays for the shelter and the bins?
+- [10] **Kenji**: @Servas, if we split costs, does that make us feel like partners?
+- [11] **Shizue**: @Rin, I agree. Fairness is key. But I also care about the quiet.
+- [12] **Asuka**: @Kenji, feelings don't fix a broken schedule. I need the time estimates.
+- [13] **Rin**: @Shizue, exactly. I will check the frontages. I want the truth, not a guess.
+- [14] **Servas**: @Asuka, labor is money. I will check the expenses. We need the real numbers.
+- [15] **Kenji**: I will look at the station block. Maybe they solved this without fighting.
+- [16] **Shizue**: I will check the complaint log. I want to know what went wrong before.
+- [17] **Asuka**: I will check the ward filing requirements. I need to know the administrative burden.
+- [18] **Rin**: I will check the measurements. I will also check the station block's minutes.
+- [19] **Servas**: I will check the block ledger. I will also check the ward subsidy.
+- [20] **Kenji**: Let's see what we find. I hope it helps us talk again.
+- [21] **Shizue**: I hope we find a way to live gently together.
+- [22] **Asuka**: I will calculate the hours. I will not let us drown in paperwork.
+- [23] **Rin**: I will make sure no one is left holding the bag. Literally.
+- [24] **Servas**: Wisdom comes from knowing the cost. Let us find the truth.
+## Round 2
+- [35] **Kenji**: I saw the station block's bin house. It smells bad and they fight over sweeping.
+- [36] **Shizue**: I read the complaints. The gate next to the bins is the one that suffers.
+- [37] **Asuka**: The filing takes four months. The ledger shows thirty-four thousand yen in waste.
+- [38] **Rin**: I measured the frontages. One gate is ninety centimetres wide. That is not fair.
+- [39] **Servas**: The ledger shows thirty-four thousand yen in waste. The subsidy covers forty percent.
+- [40] **Kenji**: @Rin, if one gate is narrow, does that mean we share the burden?
+- [41] **Shizue**: @Kenji, yes. But I worry the smell will make the narrow gate worse.
+- [42] **Asuka**: @Servas, forty percent subsidy is good. But the labor is still on us.
+- [43] **Rin**: @Shizue, I agree. The narrow gate cannot take the smell. We must move it.
+- [44] **Servas**: @Asuka, the subsidy helps, but the labor is the real cost. We must plan.
+- [45] **Kenji**: I think we should choose the option that lets us talk. Not just the cheapest.
+- [46] **Shizue**: I agree. I want a place where I can walk past without holding my breath.
+- [47] **Asuka**: I will calculate the hours for each option. I will present the data.
+- [48] **Rin**: I will make sure the narrow gate is not the one that suffers. I will check the options.
+- [49] **Servas**: Let us look at the options. I will guide us to the one that is fair.
+- [50] **Kenji**: I am ready to vote. I hope we choose the one that keeps us friends.
+- [51] **Shizue**: I am ready. I want peace. I want to smile when I walk past.
+- [52] **Asuka**: I am ready. I have the numbers. I will vote for the most efficient.
+- [53] **Rin**: I am ready. I will vote for the one that is fair. I will not let the narrow gate suffer.
+- [54] **Servas**: I am ready. I will vote for the one that is fair and kind. Let us begin.
+## Round 3
+- [60] **Kenji**: Option B moves the burden. It feels fair. But will it cause more friction?
+- [61] **Shizue**: Option C keeps the smell in one place. I worry about the narrow gate.
+- [62] **Asuka**: Option A takes four months. Option B requires constant moving. Option C is the least labor.
+- [63] **Rin**: Option B is the only one that moves the burden. I will vote for B.
+- [64] **Servas**: Option C is the least labor. But the smell stays. Option B is fair.
+- [65] **Kenji**: @Rin, I agree. Moving it means no one is stuck. It keeps the peace.
+- [66] **Shizue**: @Kenji, I worry about the smell moving. But I agree it is fair.
+- [67] **Asuka**: @Servas, Option C is efficient, but the labor is uneven. Option B is balanced.
+- [68] **Rin**: @Shizue, the smell moves, but so does the burden. That is what matters.
+- [69] **Servas**: @Asuka, Option B is balanced. It avoids the high upfront cost of A.
+- [70] **Kenji**: I will vote for B. It lets us share the work. It keeps us talking.
+- [71] **Shizue**: I will vote for B. It is fair. I hope the smell is manageable.
+- [72] **Asuka**: I will vote for B. It distributes the labor evenly. It is logical.
+- [73] **Rin**: I will vote for B. It protects the narrow gate. It is just.
+- [74] **Servas**: I will vote for B. It is fair and kind. It avoids the high cost.
+- [75] **Kenji**: I am glad we agree. I hope we can knock on each other's doors again.
+- [76] **Shizue**: I am glad. I want to walk past with a smile. I want peace.
+- [77] **Asuka**: I am glad. The numbers support it. The labor is fair.
+- [78] **Rin**: I am glad. The narrow gate is safe. I am happy.
+- [79] **Servas**: I am glad. We have chosen wisely. We have chosen fairly.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> B
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

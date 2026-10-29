@@ -1,0 +1,73 @@
+# shared_living_0015__single-online (shared_living)
+
+## Round 1
+- [5] **Servas**: The old split feels wrong now that we are five.
+- [6] **Midori**: - **Midori**: I agree, and I worry the old way is already straining how we talk to each other.
+- [7] **Minato**: #### Turn 1 of 4
+- [8] **May**: #### Turn 1 of 4
+- [9] **Daisuke**: #### Turn 1 of 4
+- [10] **Servas**: #### Turn 2 of 4
+- [11] **Midori**: - **Midori**: I’d like to see the actual numbers before we guess.
+- [12] **Minato**: #### Turn 1 of 4
+- [13] **May**: #### Turn 2 of 4
+- [14] **Daisuke**: #### Turn 2 of 4
+- [15] **Servas**: #### Turn 3 of 4
+- [16] **Midori**: - **Midori**: I’d like to see the actual numbers before we guess.
+- [17] **Minato**: - **Minato**: I just want to know if the old split is really fair for everyone now.
+- [18] **May**: - **May**: I’m not signing anything until I see what a full year actually costs.
+- [19] **Daisuke**: #### Turn 3 of 4
+- [20] **Servas**: - **Servas**: We should look at the winter habits and the sunlight in each room.
+- [21] **Midori**: - **Midori**: I’d like to see the actual numbers before we guess.
+- [22] **Minato**: - **Minato**: I think checking the sunlight and heating needs would help us understand the differences.
+- [23] **May**: - **May**: I need the last twelve statements and the electrician’s quote to see the real yearly cost.
+- [24] **Daisuke**: - **Daisuke**: I want to see the trial run of the template and the other house’s settle to know the time cost.
+## Round 2
+- [35] **Servas**: - **Servas**: The hall heater stayed on all January there. No one hesitated to switch it.
+- [36] **Midori**: - **Midori**: The statements show February at 29,400 yen, but August was only 9,100. That swing is huge.
+- [37] **Minato**: - **Minato**: The rooms without sun need heat much earlier, so the old split really doesn’t fit us now.
+- [38] **May**: - **May**: The electrician quoted 34,000 yen per room, plus annual checks. That’s a massive upfront cost for us.
+- [39] **Daisuke**: #### Turn 1 of 4
+- [40] **Servas**: - **Servas**: That fixed rate removed the fear of the bill, so people used the heat freely.
+- [41] **Midori**: - **Midori**: The payment log shows three months were settled late, always after someone questioned the amount.
+- [42] **Minato**: - **Minato**: The statements show the bills change a lot every month, so a fixed split feels unfair.
+- [43] **May**: - **May**: @Daisuke, did you find out how much time the other house spends on their monthly settle?
+- [44] **Daisuke**: #### Turn 2 of 4
+- [45] **Servas**: - **Servas**: That freedom is what I miss. We should not let fear of the bill make us cold.
+- [46] **Midori**: - **Midori**: Those late payments happened right after the arguments. The money stress is definitely poisoning our relationships.
+- [47] **Minato**: - **Minato**: The sunlight data confirms it. Two rooms are cold much longer, so equal shares are unfair.
+- [48] **May**: - **May**: @Daisuke, please tell us. I need to know if the paperwork is worth the 34,000 yen per room.
+- [49] **Daisuke**: - **Daisuke**: It took forty minutes to log readings and split the shared costs by hand.
+- [50] **Servas**: - **Servas**: Forty minutes is nothing. The warmth and peace of mind are worth far more than that small effort.
+- [51] **Midori**: - **Midori**: Forty minutes a month is manageable, but the late payments show the real cost is the tension it creates.
+- [52] **Minato**: - **Minato**: So the effort is small, but the fairness is what really matters to me.
+- [53] **May**: - **May**: Forty minutes is fine, but I still need to know if the upfront cost is worth it before I commit.
+- [54] **Daisuke**: - **Daisuke**: It’s manageable, but I worry about who keeps doing it when it gets complicated.
+## Round 3
+- [60] **Servas**: - **Servas**: The options are here. I hope one of them lets us stop counting every switch we flip.
+- [61] **Midori**: - **Midori**: I hope we pick something that stops the arguments before they start.
+- [62] **Minato**: - **Minato**: I just want the option that feels fair for everyone, so we stop worrying about who pays more.
+- [63] **May**: - **May**: I need to see which option protects me from that winter spike without a huge upfront fee.
+- [64] **Daisuke**: - **Daisuke**: I just want to know which one stops the monthly work from falling on me.
+- [65] **Servas**: - **Servas**: Option B seems to offer that peace of mind without the heavy upfront cost of meters.
+- [66] **Midori**: - **Midori**: Option B feels right. A fixed number means no sudden surprises to argue about, which protects our peace.
+- [67] **Minato**: - **Minato**: Option B sounds good, but I worry the cold rooms will still feel shortchanged in winter.
+- [68] **May**: - **May**: Option B protects me from the winter spike without the 34,000 yen upfront cost. I can live with that.
+- [69] **Daisuke**: - **Daisuke**: Option B means one big settle at year-end, not monthly work. That sounds much lighter for me.
+- [70] **Servas**: - **Servas**: I agree. A fixed rate lets us live without the constant anxiety of the meter.
+- [71] **Midori**: - **Midori**: I agree. Predictable numbers mean no more awkward reminders or accusations flying around the kitchen.
+- [72] **Minato**: - **Minato**: But if the winter bill is much higher, won’t the year-end settle still feel unfair to the cold rooms?
+- [73] **May**: - **May**: The year-end settle is just a small adjustment, not a penalty. I’d rather have that than a massive upfront fee.
+- [74] **Daisuke**: - **Daisuke**: The year-end work is just one template run, not a monthly burden. I can handle that.
+- [75] **Servas**: - **Servas**: I vote for Option B. Let us choose the warmth and the peace, and trust that the small year-end settle will be fair.
+- [76] **Midori**: - **Midori**: I vote for Option B. Predictability is the only way to keep our friendships intact here.
+- [77] **Minato**: - **Minato**: I vote for Option B. It feels the most balanced, and I hope it stops the unfairness I’ve been feeling.
+- [78] **May**: - **May**: I vote for Option B. It keeps my winter costs predictable without the heavy upfront fee.
+- [79] **Daisuke**: - **Daisuke**: I vote for Option B. One yearly check is far better than monthly work falling on me.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

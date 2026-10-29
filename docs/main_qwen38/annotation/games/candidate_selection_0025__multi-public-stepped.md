@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about relying on conditions we cannot control, like weather or transport.
+- [6] **Jonathan**: The location of our buildings dictates who can actually reach us, a quiet but heavy constraint.
+- [7] **Rin**: Why do we judge new ideas by how they sound, ignoring records of similar past attempts?
+- [8] **Benjamin**: Budgets often look fine on vote day but thin out by year two; the shape matters.
+- [9] **Minako**: We must check if staff actually have the skills for new commitments before promising them.
+- [10] **Shizue**: @Benjamin, yes, the timing of funding often breaks when external factors shift unexpectedly.
+- [11] **Jonathan**: @Rin, those old records are important, but the physical access barriers remain the primary hurdle.
+- [12] **Rin**: @Jonathan, access is key, but we need to see what worked before to avoid repeating mistakes.
+- [13] **Benjamin**: @Minako, skill gaps are real, but the funding structure is what usually collapses first.
+- [14] **Minako**: @Benjamin, I agree, but without the right people, even good funding fails to deliver.
+- [15] **Shizue**: I will look into winter road closures and attendance from former outreach stops.
+- [16] **Jonathan**: I need to check bus links in outer wards and evening room bookings.
+- [17] **Rin**: I want to see the two programmes begun six years ago and attendance sheets.
+- [18] **Benjamin**: I will investigate the county grant terms and the running and equipment lines.
+- [19] **Minako**: I will check the volunteer register and the neighbourhood associations and tool certification.
+- [20] **Shizue**: Thank you all. Let us see what the data says about our reliability.
+- [21] **Jonathan**: Quietly, I hope the access data clarifies the reach of any new service.
+- [22] **Rin**: I am excited to see if the old records match the new proposals.
+- [23] **Benjamin**: Let us hope the ledger tells the truth about the sustainability of these ideas.
+- [24] **Minako**: I will ensure we do not overpromise what our current team can handle.
+## Round 2
+- [35] **Shizue**: The roads closed for eleven days, but the halls kept their timetables. That is a strong signal.
+- [36] **Jonathan**: The bus links are gone in the outer wards. An hour's trip is a barrier no one should face.
+- [37] **Rin**: The old digitisation project failed, but the evening groups still meet. Outreach works if supported.
+- [38] **Benjamin**: The grant only covers sessions for a year. After that, the flat budget takes the hit.
+- [39] **Minako**: We have volunteers, but no one on payroll is trained to supervise them. That is a gap.
+- [40] **Shizue**: @Jonathan, if the bus is gone, a mobile service might be the only way to reach them.
+- [41] **Jonathan**: @Shizue, exactly. The fixed schedule of a mobile unit could bridge that hour-long gap.
+- [42] **Rin**: @Benjamin, the grant terms are tight, but the attendance numbers show real demand in the outer wards.
+- [43] **Benjamin**: @Rin, demand is good, but the vehicle running costs overran by a third last year. That is a risk.
+- [44] **Minako**: @Benjamin, the running costs are a concern, but the volunteer base for a workshop is already there.
+- [45] **Shizue**: The mobile service seems to address the access issue directly, despite the road closures.
+- [46] **Jonathan**: I agree. The evening bookings are full, but the mobile unit can operate outside those hours.
+- [47] **Rin**: The maker workshop has tools, but the technician who certified them retired. That is a problem.
+- [48] **Benjamin**: The language circles rely on the grant, which ends in a year. That is a cliff edge.
+- [49] **Minako**: The digital archive is a one-off cost, but the scanning contractors slip when big clients book.
+- [50] **Shizue**: I am leaning towards the mobile service. It meets people where they are, safely.
+- [51] **Jonathan**: The mobile service fits the access data best. It is a logical next step.
+- [52] **Rin**: I support the mobile service. The attendance sheets prove the need is real and high.
+- [53] **Benjamin**: I have concerns about the running costs, but the grant covers the first year. It is viable.
+- [54] **Minako**: The mobile service uses existing staff skills. No new supervision training is needed immediately.
+## Round 3
+- [60] **Shizue**: Option A, the Mobile Branch, seems to solve the access problem we discussed.
+- [61] **Jonathan**: Yes, Option A directly addresses the bus link loss in the outer wards.
+- [62] **Rin**: Option A is backed by the high attendance numbers from the old outreach stops.
+- [63] **Benjamin**: Option A has the highest running cost risk, but the grant mitigates the first year.
+- [64] **Minako**: Option A requires no new supervision training, unlike the workshop or language circles.
+- [65] **Shizue**: @Benjamin, the running cost overrun is worrying, but the community halls proved resilience.
+- [66] **Jonathan**: @Shizue, the mobile unit can adjust its route if roads close, unlike a fixed building.
+- [67] **Rin**: @Minako, the volunteer register shows we have the people, but the mobile unit uses staff.
+- [68] **Benjamin**: @Rin, the staff are already trained for lending. The mobile unit is a logistical shift, not a skill gap.
+- [69] **Minako**: @Benjamin, that is true. The mobile unit leverages existing skills without new training burdens.
+- [70] **Shizue**: I am confident in Option A. It is practical and meets the community where they are.
+- [71] **Jonathan**: I agree. The access data strongly supports a mobile solution over a fixed one.
+- [72] **Rin**: I vote for Option A. The records show it works when properly supported.
+- [73] **Benjamin**: I will vote for Option A, despite the cost concerns, because the grant covers the initial risk.
+- [74] **Minako**: I vote for Option A. It is the most sustainable option for our current staff capabilities.
+- [75] **Shizue**: It seems we are all aligned on Option A.
+- [76] **Jonathan**: The data supports it. Let us proceed.
+- [77] **Rin**: I am happy to see the old records finally guiding a good decision.
+- [78] **Benjamin**: A rational choice, given the constraints. Let us hope the budget holds.
+- [79] **Minako**: A solid decision. We are ready to implement.
+### Vote
+- Shizue -> A
+- Jonathan -> A
+- Rin -> A
+- Benjamin -> A
+- Minako -> A
+## Result
+- adopted: A

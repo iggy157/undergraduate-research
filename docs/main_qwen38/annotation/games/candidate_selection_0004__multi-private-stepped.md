@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I worry about the ground shifting. We need to know if the firms can actually finish on time.
+- [6] **Benjamin**: Agreed. A pretty plan that ignores the drainage is just expensive art. Let’s look at the data.
+- [7] **Minato**: I just want to know who will water the flowers every single day. It feels lonely without a team.
+- [8] **Minako**: Drawings lie. I want to see what the last decade of our schemes looks like now.
+- [9] **Jonathan**: I am quiet, but I hear the silence in the budget. I need to see the upkeep ledger.
+- [10] **Kenji**: @Benjamin, do you think the heat readings will tell us if the soil holds?
+- [11] **Benjamin**: @Kenji, heat tells us about stress. I’ll check the drainage callouts to see where it fails.
+- [12] **Minato**: I am curious about the volunteer groups. Do they like the quiet corners of the park?
+- [13] **Minako**: I will look at the condition of works from the earlier programme. Facts over feelings.
+- [14] **Jonathan**: I will also check the terms of the regional habitat fund. It might cover the long-term costs.
+- [15] **Kenji**: I want to see the regional firms tendering for earth-moving. Who is actually capable here?
+- [16] **Benjamin**: I will also look at the timed counts of weekday crossings. People are the weather here.
+- [17] **Minato**: I will look at the groundskeeping roll. I need to know the names of the people who care.
+- [18] **Minako**: I will also check the record of the eastern avenue planting. It is a good test of longevity.
+- [19] **Jonathan**: I will stick to the ledger and the fund. The numbers do not lie, unlike the promises.
+- [20] **Kenji**: Let’s see what the ground says. I am ready to dig into the details.
+- [21] **Benjamin**: I am ready. Logic first, then beauty. Let’s find out what is real.
+- [22] **Minato**: I hope the people are kind. I will look for the gentle hands in the records.
+- [23] **Minako**: I am calm. I will let the evidence speak. No need for drama, just truth.
+- [24] **Jonathan**: I will sit with the papers. The quiet is where the truth lives. Let us begin.
+## Round 2
+- [35] **Kenji**: The firms say the clay is tricky. But the depot notes say we can keep the park open.
+- [36] **Benjamin**: The data is clear. The ground is thirsty and the people are rushing. We must design for flow.
+- [37] **Minato**: I found the names. The volunteers are already there, but the paid staff is very small. It feels fragile.
+- [38] **Minako**: The eastern avenue trees died because no one watered them. The drawings promised life, but the contract promised nothing.
+- [39] **Jonathan**: The ledger is heavy. Planting costs three times more to keep than paving. The fund only pays for the plants, not the paths.
+- [40] **Kenji**: @Minako, if the trees died, does that mean the new plan will fail too?
+- [41] **Benjamin**: @Kenji, not if we stop fighting the water. The heat readings show the soil is already stressed.
+- [42] **Minato**: I am worried. If the volunteers leave, who is left? The casual pool is not enough for the whole year.
+- [43] **Minako**: It means we judge by the scars, not the sketches. The last decade shows us what happens when we ignore the upkeep.
+- [44] **Jonathan**: I agree with Minako. The fund covers the green, but the city pays for the grey. That is a trap.
+- [45] **Kenji**: I think we can work with the clay if we phase it right. The depot notes are our friend.
+- [46] **Benjamin**: The crossings show people want speed. We need hard paths, not soft lawns, in the main corridors.
+- [47] **Minato**: I like the idea of the volunteers helping. But I need to know if they are tired. Are they happy?
+- [48] **Minako**: I am stubborn. I will not accept a plan that looks good on paper but rots in the ground.
+- [49] **Jonathan**: I am listening. The numbers say we must be careful. We cannot afford to be beautiful and broke.
+- [50] **Kenji**: I feel hopeful. We can do this if we listen to the ground and the people.
+- [51] **Benjamin**: I am calm. The logic is sound. We design for the rain and the rush. That is the way.
+- [52] **Minato**: I am a little sad, but also curious. I hope the new plan brings more friends to the park.
+- [53] **Minako**: I am ready. Let us see the candidates. I will look for the one that survives the second summer.
+- [54] **Jonathan**: I am ready. The silence is comfortable. Let us see what remains when the noise stops.
+## Round 3
+- [60] **Kenji**: Option A looks like it works with the clay. The water stays where it belongs.
+- [61] **Benjamin**: @Kenji, yes. The drainage data supports A. The heat readings show the water will cool the air.
+- [62] **Minato**: I like the quiet of the Woodland Walk. But who will clear the leaves? The volunteers are already busy.
+- [63] **Minako**: Option A is the only one that respects the ground. The others are just concrete waiting to crack.
+- [64] **Jonathan**: The fund pays for the planting in A. The city pays for the boardwalks. It is the most honest split.
+- [65] **Kenji**: I am worried about the boardwalks. Will they hold up? The firms said the ground is soft.
+- [66] **Benjamin**: @Kenji, the boardwalks are raised. They do not fight the ground. They float above it. It is logical.
+- [67] **Minato**: I am thinking about the volunteers. They like the habitat tasks. Option A gives them something to do.
+- [68] **Minako**: I have seen the eastern avenue fail. Option A has a maintenance plan that includes watering. It is different.
+- [69] **Jonathan**: I am quiet, but I see the value. The long-term cost is lower because the fund covers the green.
+- [70] **Kenji**: I think Option A is the best. It works with the site, not against it.
+- [71] **Benjamin**: I agree. The data points to A. The people cross the site, but the water stays. It is balanced.
+- [72] **Minato**: I am a little nervous, but I like the idea of the ponds. It feels peaceful. I hope the volunteers are happy.
+- [73] **Minako**: I am confident. Option A is the one that will still be standing in ten years. The others are just drawings.
+- [74] **Jonathan**: I am at peace. The numbers make sense. The fund covers the plants, and the city covers the paths. It is fair.
+- [75] **Kenji**: I am ready to vote. I believe in the water.
+- [76] **Benjamin**: I am ready. Logic and nature align here. Let us choose the path that flows.
+- [77] **Minato**: I am ready. I hope the new park is kind to the people who care for it.
+- [78] **Minako**: I am ready. I have seen the scars. I choose the plan that heals.
+- [79] **Jonathan**: I am ready. The silence is full of promise. Let us choose the quiet strength.
+### Vote
+- Kenji -> A
+- Benjamin -> A
+- Minato -> A
+- Minako -> A
+- Jonathan -> A
+## Result
+- adopted: A

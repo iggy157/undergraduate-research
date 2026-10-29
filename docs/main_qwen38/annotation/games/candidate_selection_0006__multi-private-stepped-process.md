@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about programs failing in year two due to unstable agreements. We must check our history.
+- [6] **Jonathan**: Agreed. I want to see what previous trials actually achieved before we commit more resources.
+- [7] **Misaki**: I need to know where the pressure is. Rosters decide if a program survives or collapses.
+- [8] **Shion**: I am concerned about the hidden costs. I need to see the actual ledger and tariff structures.
+- [9] **Shizue**: I am worried about the physical space. Can our rooms and parking handle another influx of patients?
+- [10] **Midori**: @Shion, please look into the board minutes. I suspect the joint clinic agreement was never fully signed.
+- [11] **Jonathan**: I will review the readmission figures. If patients return, the program failed its core purpose.
+- [12] **Misaki**: I will check the ward nursing vacancies. If we are already short-staffed, adding a program is dangerous.
+- [13] **Shion**: I will examine the development allocation and the regional fund tariffs. I need to know the real numbers.
+- [14] **Shizue**: I will look at the rooms and parking coverage. I also want to see what the booking system records.
+- [15] **Midori**: @Misaki, if the staffing is thin, we cannot rely on external bodies to fill the gaps.
+- [16] **Jonathan**: I agree. We need hard data on patient outcomes, not just promises of future care.
+- [17] **Misaki**: I will also look at the therapy and midwifery staffing review. I need to see the surplus areas.
+- [18] **Shion**: I will also check the data agreements with outside surgeries. I want to see where the money leaks.
+- [19] **Shizue**: I will also check the visit completion on the shared nursing round. I need to see the daily flow.
+- [20] **Midori**: Let us gather these facts. I want to ensure we do not repeat the mistakes of the last cycle.
+- [21] **Jonathan**: I will focus on the readmission data. It is the clearest measure of whether a program works.
+- [22] **Misaki**: I will focus on the staffing records. I need to see where the teams are already stretched.
+- [23] **Shion**: I will focus on the financial records. I need to see the true cost of running these programs.
+- [24] **Shizue**: I will focus on the physical capacity. I need to see if the building can breathe under the new load.
+## Round 2
+- [35] **Midori**: The minutes show the joint clinic failed because neither department owned the rota. We must avoid that trap.
+- [36] **Jonathan**: The readmission data is clear. The call-back trial cut returns by a fifth. It works, but only while staffed.
+- [37] **Misaki**: The midwifery rota has slack. The therapy team is bleeding staff. I see a clear imbalance in capacity.
+- [38] **Shion**: The ledger is thin. Off-site work earns nothing. We must build on-site to keep the tariffs.
+- [39] **Shizue**: The car park is full by eleven. The shuttle misses most villages. The booking system only holds named slots.
+- [40] **Midori**: @Jonathan, the call-back trial proves the model works. But who holds the budget line this time?
+- [41] **Jonathan**: The data shows the benefit is real. The risk is the staffing gap. We need a dedicated line.
+- [42] **Misaki**: The midwifery slack is a resource. The therapy deficit is a warning. We should not add to the deficit.
+- [43] **Shion**: The tariff loss is the killer. If we go off-site, we lose the revenue. We must stay on-site.
+- [44] **Shizue**: The booking system cannot hold unstructured work. If the program needs flexible visits, it will vanish from the records.
+- [45] **Midori**: I am worried about the agreement. If the midwifery team is the only one with slack, they will burn out.
+- [46] **Jonathan**: I agree. The readmission drop is significant. But it requires consistent, dedicated staff. Not a shared, fragile rota.
+- [47] **Misaki**: The midwifery slack is real, but it is temporary. The therapy deficit is structural. We must not ignore the structural gap.
+- [48] **Shion**: The financial gap is structural. The tariff loss is immediate. We must choose a program that generates revenue on-site.
+- [49] **Shizue**: The physical gap is immediate. The car park is full. The shuttle is missing. The booking system is rigid.
+- [50] **Midori**: We need a program that is self-contained. Not one that relies on a fragile, shared agreement.
+- [51] **Jonathan**: The call-back trial is self-contained. It has a clear start and end. It has a clear measure of success.
+- [52] **Misaki**: The midwifery slack is a temporary resource. The therapy deficit is a structural problem. We must not add to the structural problem.
+- [53] **Shion**: The on-site requirement is non-negotiable. The tariff loss is too high. We must build on-site to keep the revenue.
+- [54] **Shizue**: The physical capacity is the limit. The car park is full. The shuttle is missing. The booking system is rigid.
+## Round 3
+- [60] **Midori**: Option D relies on a joint agreement. The minutes show that is where things break. I cannot support it.
+- [61] **Jonathan**: Option A matches the readmission data. It is a defined period. It is a clear measure. It is self-contained.
+- [62] **Misaki**: Option D uses the midwifery slack. But it is a temporary resource. The therapy deficit in Option B is a structural problem.
+- [63] **Shion**: Option A is off-site. It earns no tariff. Option B is on-site. It earns the standard rate. Option B is the only financial choice.
+- [64] **Shizue**: Option A visits homes. It does not use the car park. It does not use the rooms. It does not use the booking system.
+- [65] **Midori**: @Shion, the tariff is important. But the stability of the agreement is more important. Option A is stable.
+- [66] **Jonathan**: The readmission data supports Option A. It is the only program with a clear, measured benefit. It is the only program that works.
+- [67] **Misaki**: The midwifery slack is a temporary resource. The therapy deficit is a structural problem. Option D is a temporary fix. Option B is a structural problem.
+- [68] **Shion**: The tariff loss is the killer. Option A loses the revenue. Option B keeps the revenue. Option B is the only financial choice.
+- [69] **Shizue**: Option A does not use the car park. It does not use the rooms. It does not use the booking system. It is the only program that fits.
+- [70] **Midori**: I am worried about the agreement. Option D is a joint agreement. It is a fragile agreement. It is a broken agreement.
+- [71] **Jonathan**: The readmission data is clear. Option A is the only program with a clear, measured benefit. It is the only program that works.
+- [72] **Misaki**: The midwifery slack is a temporary resource. The therapy deficit is a structural problem. Option D is a temporary fix. Option B is a structural problem.
+- [73] **Shion**: The tariff loss is the killer. Option A loses the revenue. Option B keeps the revenue. Option B is the only financial choice.
+- [74] **Shizue**: Option A does not use the car park. It does not use the rooms. It does not use the booking system. It is the only program that fits.
+- [75] **Midori**: I will vote for Option A. It is stable. It is self-contained. It is the only program that avoids the pitfalls of the past.
+- [76] **Jonathan**: I will vote for Option A. The readmission data supports it. It is the only program with a clear, measured benefit.
+- [77] **Misaki**: I will vote for Option D. It uses the midwifery slack. It is a temporary fix, but it is a fix. It is the only program that does not add to the structural problem.
+- [78] **Shion**: I will vote for Option B. It is on-site. It earns the tariff. It is the only financial choice. It is the only program that keeps the revenue.
+- [79] **Shizue**: I will vote for Option A. It does not use the car park. It does not use the rooms. It does not use the booking system. It is the only program that fits.
+### Vote
+- Midori -> A
+- Jonathan -> A
+- Misaki -> D
+- Shion -> B
+- Shizue -> A
+## Result
+- adopted: A

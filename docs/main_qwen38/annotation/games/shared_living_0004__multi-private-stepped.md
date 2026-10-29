@@ -1,0 +1,73 @@
+# shared_living_0004__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to know if the money sorts itself out. Who pays for what?
+- [6] **Victoria**: I need the total cost before we book. No surprises later.
+- [7] **Midori**: I am worried about how we spend time together. Let us check the layout.
+- [8] **Toshio**: I need to know how much time is lost in transit.
+- [9] **Daisuke**: I just need to know where I can sit and wash.
+- [10] **Sakura**: @Victoria, if we know the all-in rate, the paying is clear, right?
+- [11] **Victoria**: Yes. If the rate includes everything, the bill is fixed. I prefer that.
+- [12] **Midori**: I agree. But I also want to see how the rooms are arranged.
+- [13] **Toshio**: @Sakura, the ferry schedule matters. If it is slow, we lose a day.
+- [14] **Daisuke**: I will look at the bathing hours. I need to know when the water is hot.
+- [15] **Sakura**: I will check the all-in rates. And what separately booked rooms cost last time.
+- [16] **Victoria**: I will look into pricing of offshore houses let whole. And all-in rates against meals bought separately.
+- [17] **Midori**: I will investigate time alone in the shared-house year. And how last year's days ran.
+- [18] **Toshio**: I will check ferry sailings and train time. And getting around by train and bus.
+- [19] **Daisuke**: I will look at bathing hours and bathroom provision. And inn mealtimes and room arrangements.
+- [20] **Sakura**: Okay! Let us see what we find. I hope the money is simple.
+- [21] **Victoria**: I hope the numbers are clear. I do not like guessing.
+- [22] **Midori**: I hope we find a balance. I want us to feel close, not crowded.
+- [23] **Toshio**: I hope the travel is efficient. I want to arrive and rest.
+- [24] **Daisuke**: I hope the water is warm. And the table is quiet.
+## Round 2
+- [35] **Sakura**: I found that all-in rates make everyone pay the same, even if they eat little.
+- [36] **Victoria**: I found that whole houses cost about 5,400 yen a head a night, plus food.
+- [37] **Midori**: I found that last year we drifted apart. We need a place that pulls us together.
+- [38] **Toshio**: The ferry leaves at 16:20. That means two days are gone before we even start.
+- [39] **Daisuke**: The island baths are shared and the water runs cold. I do not like that.
+- [40] **Sakura**: @Victoria, if we rent a whole house, the bill is one number. That is fair.
+- [41] **Victoria**: Yes. But the food is extra. I need to know what that adds.
+- [42] **Midori**: @Toshio, if the ferry is slow, we lose time together. That is bad.
+- [43] **Toshio**: @Midori, the train is faster. But the island is far. I need to see the options.
+- [44] **Daisuke**: @Sakura, if the baths are shared, I will be uncomfortable. I need a door.
+- [45] **Sakura**: I think the all-in rate is the fairest. No one is left out.
+- [46] **Victoria**: I agree. But I need to see the total. I will not guess.
+- [47] **Midori**: I think we need a place where we are together. Not a house where we hide.
+- [48] **Toshio**: I think the train is better. But I need to see the options.
+- [49] **Daisuke**: I think I need a room with a door. And a bath that is mine.
+- [50] **Sakura**: Let us vote. I want the money to be clear.
+- [51] **Victoria**: I want the total to be clear. I will vote for the option that shows the full cost.
+- [52] **Midori**: I want us to be together. I will vote for the option that keeps us close.
+- [53] **Toshio**: I want to arrive and rest. I will vote for the option that saves time.
+- [54] **Daisuke**: I want to sleep. I will vote for the option that gives me a door.
+## Round 3
+- [60] **Sakura**: Option A is one house. The bill is one number. I like that.
+- [61] **Victoria**: Option A is one house. But the food is extra. I need to know the total.
+- [62] **Midori**: Option A is one house. But last year we drifted apart. I need us to be together.
+- [63] **Toshio**: Option A is a ferry. Two days are gone. I do not like that.
+- [64] **Daisuke**: Option A is one house. But the baths are shared. I do not like that.
+- [65] **Sakura**: @Victoria, if we choose A, the food is extra. But the house is one bill.
+- [66] **Victoria**: @Sakura, I need to know the food cost. I will not guess.
+- [67] **Midori**: @Toshio, if we choose C, the train is faster. But the days are unplanned.
+- [68] **Toshio**: @Midori, if we choose C, the train is faster. But the days are unplanned.
+- [69] **Daisuke**: @Sakura, if we choose B, I have a door. But I am alone.
+- [70] **Sakura**: I think A is the fairest. The money is clear.
+- [71] **Victoria**: I think A is the fairest. But I need the total.
+- [72] **Midori**: I think C is better. The train is faster. And the days are together.
+- [73] **Toshio**: I think C is better. The train is faster. And I can rest.
+- [74] **Daisuke**: I think B is better. I have a door. And I can sleep.
+- [75] **Sakura**: I will vote A. The money is clear.
+- [76] **Victoria**: I will vote A. The house is one bill.
+- [77] **Midori**: I will vote C. The days are together.
+- [78] **Toshio**: I will vote C. The train is faster.
+- [79] **Daisuke**: I will vote B. I have a door.
+### Vote
+- Sakura -> A
+- Victoria -> A
+- Midori -> C
+- Toshio -> C
+- Daisuke -> B
+## Result
+- adopted: C

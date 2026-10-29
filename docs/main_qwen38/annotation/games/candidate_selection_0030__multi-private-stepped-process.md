@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I worry about who does the extra work. We need to check staffing levels.
+- [6] **Jonathan**: I am concerned about external dependencies. We must verify network coverage at customer plants.
+- [7] **George**: I need to know where the money comes from. I will look into capital budget and software allowance.
+- [8] **May**: We keep repeating mistakes. I want to see the outcomes of the last three internal rollouts.
+- [9] **Midori**: I see small daily losses. I will check time lost to copying existing records.
+- [10] **Minato**: @Jonathan, does network coverage affect how much manual work we have to do?
+- [11] **Jonathan**: Yes, if the link is weak, we cannot rely on automated sync.
+- [12] **George**: @May, do the past rollouts show if we overspent on maintenance?
+- [13] **May**: I hope so. I suspect we ignored the long-term cost of support.
+- [14] **Midori**: I agree. We need to see if the effort matches the actual gain.
+- [15] **Minato**: I am still unsure. I will look into in-house developer availability to see if we have people.
+- [16] **Jonathan**: That is wise. I will also check in-house developer availability to confirm capacity.
+- [17] **George**: I will also check vendor licence pricing versus fixed-fee work to understand the bill.
+- [18] **May**: I will also check record of cross-unit standardization efforts to see if we are consistent.
+- [19] **Midori**: I will also check misrouted deliveries in the incident logs to see the real errors.
+- [20] **Minato**: I hope we find a way that does not burn out the team.
+- [21] **Jonathan**: I hope we find a way that does not break on day one.
+- [22] **George**: I hope we find a way that does not bankrupt us next year.
+- [23] **May**: I hope we find a way that actually sticks around.
+- [24] **Midori**: I hope we find a way that saves us time every single day.
+## Round 2
+- [35] **Minato**: I found that our developers are busy with the accounting upgrade. We have no one to build this.
+- [36] **Jonathan**: I found that half the customer plants lose network coverage for whole afternoons. We cannot rely on live sync.
+- [37] **George**: I found that the capital line is frozen, but the software allowance still has room. We must buy, not build.
+- [38] **May**: I found that the last three rollouts failed because they needed daily entry from everyone. The narrow tools built for one trade still run.
+- [39] **Midori**: I found that we lose an hour a day copying records, and eleven deliveries went wrong because two units held different addresses.
+- [40] **Minato**: @George, if we buy, does it still need someone to type the data in?
+- [41] **Jonathan**: @Minato, if the network drops, the tool must work offline and sync later.
+- [42] **George**: @Jonathan, a fixed-fee build is cheaper than a licence that climbs with every department added.
+- [43] **May**: @George, the pattern is clear. We need a tool that one person can run, not one that needs everyone.
+- [44] **Midori**: @May, that matches what I saw. The loss is in the copying, not in the thinking.
+- [45] **Minato**: I am worried. If we buy a big tool, who types the data when the network is down?
+- [46] **Jonathan**: I agree. The tool must hold the data on the device and push it when the link returns.
+- [47] **George**: I agree. A fixed-fee build that one person runs fits the allowance and avoids the per-head climb.
+- [48] **May**: I agree. The last three failed because they asked everyone to type. The one that survived asked only one person.
+- [49] **Midori**: I agree. If one person types the address once, the eleven misroutes stop and the hour of copying stops too.
+- [50] **Minato**: I think we should pick the one that asks the least of the people.
+- [51] **Jonathan**: I think we should pick the one that works when the link is down.
+- [52] **George**: I think we should pick the one that fits the allowance and does not climb with headcount.
+- [53] **May**: I think we should pick the one that one person can run, because that is the one that survived.
+- [54] **Midori**: I think we should pick the one that stops the copying and the misroutes, because that is where the day is lost.
+## Round 3
+- [60] **Minato**: I am looking at the Field Service App. It lets the technician type once on the phone, and the note goes to the office.
+- [61] **Jonathan**: I am looking at the Field Service App. It stores the job on the phone and pushes it when the link returns, so the afternoon drop does not lose the record.
+- [62] **George**: I am looking at the Field Service App. It is a fixed-fee build, so the bill does not climb with every department added, and it fits the software allowance.
+- [63] **May**: I am looking at the Field Service App. It asks one person to type the job, not everyone to type the status, so it follows the pattern of the tool that survived.
+- [64] **Midori**: I am looking at the Field Service App. It stops the copying of the address and the job note, and it stops the misroute because the address is typed once and shared.
+- [65] **Minato**: @Jonathan, does the app still work if the phone has no signal for a whole day?
+- [66] **Jonathan**: Yes. The job, the photo, and the note stay on the phone and sync when the link returns.
+- [67] **George**: @Minato, the fixed-fee build means the bill is set at signing, not at every renewal.
+- [68] **May**: @George, that is the pattern. The tool that survived was the one that did not need a new owner every quarter.
+- [69] **Midori**: @May, that is the pattern I saw. The loss was in the copying, not in the thinking, and this stops the copying.
+- [70] **Minato**: I am still worried about the two people who write the weekly note. Will the app take that from them?
+- [71] **Jonathan**: It drafts the note from the job record, so they check it instead of writing it.
+- [72] **George**: I am satisfied. The bill is fixed, the allowance covers it, and the per-head climb is gone.
+- [73] **May**: I am satisfied. It asks one person to type the job, not everyone to type the status, so it follows the pattern of the tool that survived.
+- [74] **Midori**: I am satisfied. It stops the hour of copying and the eleven misroutes, because the address is typed once and shared.
+- [75] **Minato**: I will vote for the Field Service App, because it asks the least of the people and the note is drafted, not written.
+- [76] **Jonathan**: I will vote for the Field Service App, because it works when the link is down and the record is not lost.
+- [77] **George**: I will vote for the Field Service App, because the bill is fixed, the allowance covers it, and the per-head climb is gone.
+- [78] **May**: I will vote for the Field Service App, because it asks one person to type the job, not everyone to type the status, so it follows the pattern of the tool that survived.
+- [79] **Midori**: I will vote for the Field Service App, because it stops the copying and the misroutes, and that is where the day is lost.
+### Vote
+- Minato -> D
+- Jonathan -> D
+- George -> D
+- May -> D
+- Midori -> D
+## Result
+- adopted: D

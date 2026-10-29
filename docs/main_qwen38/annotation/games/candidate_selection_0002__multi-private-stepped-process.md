@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I worry about our quarter-end reporting. We need to know if new holdings complicate our audits.
+- [6] **Asuka**: I want to verify if our past wins actually retained customers or just churned quietly.
+- [7] **Minako**: I need to understand our borrowing capacity. What can we leverage if follow-on calls hit hard?
+- [8] **Mio**: I am tired of chasing recruiters. I need to see who is actually available to hire right now.
+- [9] **Toshio**: I am concerned about external blockers. I want to see what stopped previous deployments from going live.
+- [10] **Servas**: @Minako, if we take on complex assets, does our credit line hold up?
+- [11] **Asuka**: @Toshio, if deployments were delayed, did we even know why? Transparency is key.
+- [12] **Minako**: @Servas, yes, but only if the underlying assets are liquid. I need to check the terms.
+- [13] **Mio**: @Asuka, retention is good, but if we can't staff the team, it doesn't matter.
+- [14] **Toshio**: @Asuka, I suspect the delays were not internal. I need to see the external factors.
+- [15] **Servas**: I will look into the audit needs and the independent checks on our figures.
+- [16] **Asuka**: I will check account retention and the profile of our exits to see the truth.
+- [17] **Minako**: I will investigate the credit line terms and the reserve accounts for follow-on calls.
+- [18] **Mio**: I will look at the retained recruiters' times and the adviser bench to see our capacity.
+- [19] **Toshio**: I will examine the security review time and the delivery records of our two holdings.
+- [20] **Servas**: Let us see what the data says. I trust the numbers, but only if they are clean.
+- [21] **Asuka**: Agreed. I am done with the stories. I want the raw data on who stayed.
+- [22] **Minako**: I am ready. I need to know exactly how much air we have before the next call.
+- [23] **Mio**: I am excited to see if we can actually find people. I am tired of the empty promises.
+- [24] **Toshio**: I am waiting. I need to know if the road is blocked before we drive onto it.
+## Round 2
+- [35] **Servas**: The audit findings are clear. Physical assets need outside appraisals, which slows us down and costs money.
+- [36] **Asuka**: My data confirms it. The tooling that stayed was boring. The one that failed was physical.
+- [37] **Minako**: This is bad. Our credit line ignores our contracts. We are borrowing against stock, not our work.
+- [38] **Mio**: I found the gap. We can hire support fast, but we cannot find the people who run the yard.
+- [39] **Toshio**: The pattern is clear. The delay was not our code. It was the hardware and the bank's rules.
+- [40] **Servas**: @Minako, if we take on more physical assets, our quarter-end will be a nightmare.
+- [41] **Asuka**: @Toshio, so the risk is not the software. It is the stuff that sits in a warehouse.
+- [42] **Minako**: @Servas, exactly. We need to avoid anything that requires a physical appraisal to secure a loan.
+- [43] **Mio**: @Asuka, that matches my finding. We have the bench for software, but not for the field.
+- [44] **Toshio**: @Asuka, yes. The bank's cycle was safe. The hardware was the trap. I want to avoid the trap.
+- [45] **Servas**: I am leaning toward a pure software model. It is verifiable and does not need an outside appraiser.
+- [46] **Asuka**: I agree. The retention data shows that the boring, back-office tools are the ones that actually pay.
+- [47] **Minako**: I am convinced. We need a model that does not tie up our cash in physical inventory.
+- [48] **Mio**: I am on board. If we pick a software company, I can actually find the people to run it.
+- [49] **Toshio**: I am aligned. I want a model where the first customer can switch on without waiting for a truck.
+- [50] **Servas**: Let us wait for the candidates. I am ready to vote for the one that keeps our books clean.
+- [51] **Asuka**: I am ready. I want to see which one looks like the quiet tooling that survived.
+- [52] **Minako**: I am ready. I need to see which one lets us keep our borrowing power intact.
+- [53] **Mio**: I am ready. I want to see which one I can actually staff without losing my mind.
+- [54] **Toshio**: I am ready. I want to see which one has no external blockers between the money and the first switch.
+## Round 3
+- [60] **Servas**: Ledger Bridge is pure software. No appraisals, no physical inventory. It fits my need for a clean quarter-end.
+- [61] **Asuka**: Ledger Bridge is the back-office tooling. It is the quiet kind that kept its customers. I am voting for it.
+- [62] **Minako**: Ledger Bridge does not tie up cash in stock. It is a service. My credit line will treat it as a viable asset.
+- [63] **Mio**: Ledger Bridge is software. I can find the engineers and support staff. I do not need to hunt for field crews.
+- [64] **Toshio**: Ledger Bridge runs inside the bank's cycle. No hardware, no supply chain. The first customer can switch on immediately.
+- [65] **Servas**: @Asuka, yes, and it is verifiable. The data comes from the banks, not just their own dashboard.
+- [66] **Asuka**: @Servas, exactly. The retention was high because it solved a real, boring problem. It is not a fad.
+- [67] **Minako**: @Toshio, I agree. It is the safest path for our liquidity. We can borrow against the subscription contracts if we need to.
+- [68] **Mio**: @Minako, and I can actually staff it. The recruiters have placed software teams before. I am not stuck.
+- [69] **Toshio**: @Mio, yes. The only risk is the bank's own security review, but that is a known, manageable delay.
+- [70] **Servas**: I am voting for Ledger Bridge. It is the only one that does not add complexity to our reporting.
+- [71] **Asuka**: I am voting for Ledger Bridge. It is the model that actually kept its customers and paid the returns.
+- [72] **Minako**: I am voting for Ledger Bridge. It protects our borrowing power and keeps our reserves intact for the future.
+- [73] **Mio**: I am voting for Ledger Bridge. It is the only one I can actually staff without losing a week to recruitment.
+- [74] **Toshio**: I am voting for Ledger Bridge. It has no external blockers. The money goes in, and the first customer switches on.
+- [75] **Servas**: It is unanimous. We are choosing the clean, verifiable, and staffable model.
+- [76] **Asuka**: I am satisfied. We are choosing the truth over the story.
+- [77] **Minako**: I am confident. We are choosing the model that keeps our fund healthy.
+- [78] **Mio**: I am happy. We are choosing the model that I can actually help build.
+- [79] **Toshio**: I am at peace. We are choosing the model where the road is clear.
+### Vote
+- Servas -> D
+- Asuka -> D
+- Minako -> D
+- Mio -> D
+- Toshio -> D
+## Result
+- adopted: D

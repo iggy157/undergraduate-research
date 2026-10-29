@@ -1,0 +1,73 @@
+# candidate_selection_0015__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: I worry about relying on external factors. We need to assess what we can actually control before committing to any expansion.
+- [6] **Yumi**: I agree, Ryuji! We should focus on what we can manage. Let’s keep the community’s needs front and center as we decide.
+- [7] **George**: I’ve seen budgets look fine on paper, then crumble by year two. We must check the funding structure before anything else.
+- [8] **May**: You’re all so serious. I’m just here to make sure we don’t repeat history. Who’s checking the old records?
+- [9] **Daisuke**: I’m a bit nervous to speak up, but... does anyone know if the staff actually have the time or skills for this?
+- [10] **Ryuji**: @Daisuke, that is a valid concern. We must verify if our current capacity can absorb new duties without straining existing staff.
+- [11] **Yumi**: @Daisuke, that’s so important! We must ensure our team isn’t overwhelmed. Let’s check the volunteer register and supervision training to see if we have enough support.
+- [12] **George**: @Yumi, checking volunteers is wise, but I need to see the county grant terms and endowment to understand the long-term financial shape.
+- [13] **May**: @George, checking the money is fine, but I’m looking at the two programmes begun six years ago. We need to see what actually happened to them.
+- [14] **Daisuke**: @Yumi, thank you. I’m glad you see it. I’ll look into the volunteer register and supervision training to see if we have the skills.
+- [15] **Ryuji**: @George, I concur. Financial stability is critical. I will examine the county grant terms and the endowment to ensure our foundation is secure.
+- [16] **Yumi**: @George, I’ll check the bus links in the outer wards and evening room bookings to see who can actually reach us!
+- [17] **George**: @Ryuji, I appreciate the diligence. I will examine the running and equipment lines from last year to see where the real costs hide.
+- [18] **May**: @Ryuji, I’ll check the two programmes begun six years ago and the attendance sheets from former outreach stops. We need to see what actually happened.
+- [19] **Daisuke**: I’m still a bit unsure, but I’ll look into the volunteer register and supervision training. I need to know if we have the skills.
+- [20] **Ryuji**: I will examine the winter road closures north of the river. Unpredictable access conditions have disrupted our plans before, and I need to quantify that risk.
+- [21] **Yumi**: I’ll check the bus links in the outer wards and evening room bookings to see who can actually reach us!
+- [22] **George**: I will examine the running and equipment lines from last year. I need to see where the real costs hide before we commit.
+- [23] **May**: I’m locking in the two programmes from six years ago and the attendance sheets. We need to see what actually happened, not just what sounds good.
+- [24] **Daisuke**: I’ll check the volunteer register and supervision training. I need to know if the skills are actually there before we add more work.
+## Round 2
+- [35] **Ryuji**: The grant covers only twelve months, then we absorb the cost. However, the northern halls maintained schedules despite road closures. This suggests local resilience, but the financial cliff remains a significant risk.
+- [36] **Yumi**: @Ryuji, that’s tough! But I found the outer wards lost their bus links, making an hour’s trip. We must rethink access before adding more!
+- [37] **George**: @Ryuji, that twelve-month cliff confirms my fear. The vehicle line also overran by a third. We are structurally underfunded from day one.
+- [38] **May**: @George, the money is tight, but look at the data. Those old outreach spots drew forty people, beating the main building. We’re ignoring proven demand.
+- [39] **Daisuke**: @Yumi, I found no one is trained to supervise outside facilitators. We have volunteers, but no one to manage them.
+- [40] **Ryuji**: @Daisuke, that is a critical gap. Without supervision, we cannot rely on volunteers. We must address this structural weakness before expanding.
+- [41] **Yumi**: @Daisuke, that’s worrying! But I found evening rooms are full, yet remote use peaks after nine. We need to rethink when and how we serve people!
+- [42] **George**: @Yumi, remote use peaking late suggests people need access when staff are gone. That’s a structural gap, not just a scheduling issue.
+- [43] **May**: @George, that’s exactly the trap. We judge new ideas by how they sound, ignoring that similar ones already failed here. I have the receipts.
+- [44] **Daisuke**: @May, I’m sorry, but I’m worried. If we add this, who actually checks if the staff can handle it?
+- [45] **Ryuji**: @May, I acknowledge the historical data. However, I must verify if those past conditions still hold. We cannot assume stability where we previously saw failure.
+- [46] **Yumi**: @May, I hear you! But the bus loss and late-night digital needs are real. We can’t ignore who’s actually stuck right now.
+- [47] **George**: @May, I hear you. But the grant structure is the real trap. It forces us to absorb costs we cannot sustain.
+- [48] **May**: @George, the grant is a trap, but so is ignoring the forty people who showed up. We can’t just pretend that demand vanished.
+- [49] **Daisuke**: @Ryuji, I agree. We can’t just assume the skills are there. We need to verify the roster before adding more pressure.
+- [50] **Ryuji**: @Daisuke, agreed. We must confirm the supervision gap is real before proceeding. I will not risk repeating past failures due to unverified assumptions.
+- [51] **Yumi**: @Daisuke, I agree! We must fix the access gaps first. Let’s ensure everyone can actually reach us before adding more pressure!
+- [52] **George**: @May, I concede the demand is real. But without fixing the funding shape, we just create a new hole. We must secure the structure first.
+- [53] **May**: @George, I hear you. But the digitisation project failed because we ignored the records. We can’t let that happen again.
+- [54] **Daisuke**: I’m sorry, I’m just... I need to make sure we don’t break the team. Please, let’s check the skills first.
+## Round 3
+- [60] **Ryuji**: @George, the grant cliff makes D impossible. A and C rely on external partners. B is internal. I vote B.
+- [61] **Yumi**: @Ryuji, I can’t vote B! The outer wards lost their bus links, so D is the only way to reach them. I vote D!
+- [62] **George**: @Yumi, D ignores the vehicle overrun. The grant cliff kills it. B is internal and sustainable. I vote B.
+- [63] **May**: @Ryuji, B is just the digitisation project that failed. We have the receipts. I vote D to fix the access gap.
+- [64] **Daisuke**: @Ryuji, I’m sorry, but A needs trained facilitators. We don’t have them. I can’t support A. I vote B, please.
+- [65] **Ryuji**: @May, I acknowledge the past failure, but B is the only option fully within our control. I vote B.
+- [66] **Yumi**: @May, I hear you! But D is the only way to reach those stuck in the outer wards. I vote D!
+- [67] **George**: @May, I understand the history. But D’s vehicle costs are a structural trap. B is the only option that doesn’t break the budget. I vote B.
+- [68] **May**: @George, you’re ignoring the forty people who showed up. D fixes the access gap. I vote D.
+- [69] **Daisuke**: @May, I know the demand is real. But B keeps the team safe. I vote B.
+- [70] **Ryuji**: @Yumi, I understand the access need, but D relies on external logistics we cannot control. B remains the only stable choice. I vote B.
+- [71] **Yumi**: @Ryuji, I hear you, but D is the only way to reach those stuck in the outer wards. I vote D!
+- [72] **George**: @Yumi, I hear the need, but the vehicle overrun is a structural trap. B is the only option that doesn’t break the budget. I vote B.
+- [73] **May**: @Yumi, I hear you. But D is the only option that actually reaches those forty people. I vote D.
+- [74] **Daisuke**: @Yumi, I know you care about them. But B is safer for the staff. I vote B.
+- [75] **Ryuji**: @Yumi, I respect your urgency, but D depends on external logistics we cannot control. B is the only option that remains stable. I vote B.
+- [76] **Yumi**: @Ryuji, I hear you, but D is the only way to reach those stuck in the outer wards. I vote D!
+- [77] **George**: @Yumi, I hear your urgency. But the vehicle costs are a structural trap. B is the only option that doesn’t break the budget. I vote B.
+- [78] **May**: @Yumi, I stand with you. D is the only choice that respects the proven demand. I vote D.
+- [79] **Daisuke**: I’m sorry, but I can’t ignore the risk to the team. B is the only safe choice. I vote B.
+### Vote
+- Ryuji -> B
+- Yumi -> D
+- George -> B
+- May -> D
+- Daisuke -> B
+## Result
+- adopted: B

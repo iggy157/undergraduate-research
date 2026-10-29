@@ -1,0 +1,73 @@
+# candidate_selection_0007__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **May**: We need to check if we are repeating past mistakes before we commit.
+- [6] **Benjamin**: Who is actually going to run this? The crews are stretched thin.
+- [7] **Midori**: I worry we are fixing the wrong part of the journey again.
+- [8] **Shizue**: I want to know who else has to say yes before we start.
+- [9] **Jonathan**: Let us look at the numbers that actually bind us, not the headlines.
+- [10] **May**: @Benjamin, the roster books might show if we have any slack left.
+- [11] **Benjamin**: Agreed. If the late-turn pool is empty, nothing works.
+- [12] **Midori**: @May, maybe the journey audits will show where the time really goes.
+- [13] **Shizue**: I will look at the committee minutes to see who holds the pen.
+- [14] **Jonathan**: I will check the capital ledger balances to see what is truly available.
+- [15] **May**: I will also look at the two pilots from eight years ago.
+- [16] **Benjamin**: I will check the crew establishment and maintenance contract details.
+- [17] **Midori**: I will look at the timed runs and crowd counts mid-city.
+- [18] **Shizue**: I will also look at the contingency pricing inside the pre-war shells.
+- [19] **Jonathan**: I will also look at the ticketing contractor fees and paving rates.
+- [20] **May**: Let us see what the data says before we argue.
+- [21] **Benjamin**: Logic over enthusiasm, please.
+- [22] **Midori**: I hope the stopwatch tells the truth this time.
+- [23] **Shizue**: Peace of mind comes from knowing the ground is solid.
+- [24] **Jonathan**: Quietly, I hope the ledger is honest.
+## Round 2
+- [35] **May**: The ferry trial worked fine, but the late-evening pilot hit its cost target.
+- [36] **Benjamin**: The late-turn pool is nearly empty. Overtime is covering everything.
+- [37] **Midori**: Timed runs are slower, but crowds clear at the old rate.
+- [38] **Shizue**: The ferry and rail back offices never agreed on data terms.
+- [39] **Jonathan**: The capital ledger has a ring-fenced balance, but operating funds are trimmed.
+- [40] **May**: @Benjamin, if the pool is empty, how do we extend night service?
+- [41] **Benjamin**: We can't. The crews are a third below establishment.
+- [42] **Midori**: @May, the audits say waiting for connections is the real time sink.
+- [43] **Shizue**: @Jonathan, if the data terms aren't agreed, how do we integrate fares?
+- [44] **Jonathan**: The ticketing fees exceed the paving budget. That is a problem.
+- [45] **May**: So the pilots suggest night service is viable, but staffing is the blocker.
+- [46] **Benjamin**: Exactly. The maintenance contract has spare capacity, but the people don't.
+- [47] **Midori**: The mid-city route is slow, but the stations aren't the bottleneck.
+- [48] **Shizue**: The pre-war shells have heavy contingency pricing. That delays station work.
+- [49] **Jonathan**: The ring-fenced money is for construction, not operations.
+- [50] **May**: We need a plan that doesn't rely on new crews.
+- [51] **Benjamin**: Or a plan that accepts the current limits.
+- [52] **Midori**: Let us focus on where the minutes actually go.
+- [53] **Shizue**: Let us avoid the traps in the old shells.
+- [54] **Jonathan**: Let us stay within the real budget.
+## Round 3
+- [60] **May**: Candidate A needs data agreement we don't have.
+- [61] **Benjamin**: Candidate D needs crews we don't have.
+- [62] **Midori**: Candidate B addresses the mid-city slowness directly.
+- [63] **Shizue**: Candidate C risks the pre-war shell delays.
+- [64] **Jonathan**: Candidate B uses the ring-fenced construction balance.
+- [65] **May**: @Jonathan, does the ledger cover the bus corridor?
+- [66] **Benjamin**: @Midori, will the dedicated lanes actually speed things up?
+- [67] **Midori**: The timed runs suggest yes, if we have the lanes.
+- [68] **Shizue**: @Benjamin, is the staffing issue worse for B or D?
+- [69] **Jonathan**: B is a capital project. D is an operating one.
+- [70] **May**: The pilots show late service works, but we can't staff it.
+- [71] **Benjamin**: So D is out. A is out due to data.
+- [72] **Midori**: C is risky due to the shells.
+- [73] **Shizue**: I agree. B seems the most grounded.
+- [74] **Jonathan**: The budget supports B. The others do not.
+- [75] **May**: I am leaning towards B.
+- [76] **Benjamin**: B is the only one that fits the roster reality.
+- [77] **Midori**: B fixes the actual time loss.
+- [78] **Shizue**: B avoids the hidden delays.
+- [79] **Jonathan**: B is the fiscally responsible choice.
+### Vote
+- May -> B
+- Benjamin -> B
+- Midori -> B
+- Shizue -> B
+- Jonathan -> B
+## Result
+- adopted: B

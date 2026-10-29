@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: We must verify if the development budget covers recurring operational costs.
+- [6] **Shion**: I am curious about the readmission figures from the previous call-back trial.
+- [7] **Midori**: I worry about how new programs impact existing nursing rosters and staff burnout.
+- [8] **Kenji**: I need to know if our booking system can handle extra daily traffic.
+- [9] **Shizue**: I am concerned about long-term stability and whether partners truly commit to us.
+- [10] **Jonathan**: If we ignore running costs, the project fails within a year.
+- [11] **Shion**: @Jonathan, data beats speculation. I want to see what actually worked before.
+- [12] **Midori**: @Shion, I agree, but we must also check who is left to do the work.
+- [13] **Kenji**: @Midori, exactly. If the screens crash, the whole day seizes up.
+- [14] **Shizue**: I have seen many good ideas crumble because the paperwork was weak.
+- [15] **Jonathan**: I will look at the ledger to see what is truly available.
+- [16] **Shion**: I will check the readmission data and the therapy staffing review.
+- [17] **Midori**: I will examine ward nursing vacancies and the therapy staffing review.
+- [18] **Kenji**: I will check the booking system records and room coverage.
+- [19] **Shizue**: I will review the board minutes and the data agreements with outside surgeries.
+- [20] **Jonathan**: Let us proceed with these checks to ground our decision in fact.
+- [21] **Shion**: I will wait for the numbers to speak for themselves.
+- [22] **Midori**: I hope we find a balance that protects our team.
+- [23] **Kenji**: I just want to make sure the doors don't jam.
+- [24] **Shizue**: I will look for the cracks before they become chasms.
+## Round 2
+- [35] **Jonathan**: The ledger shows our development allocation is down by nearly a quarter.
+- [36] **Shion**: The readmission data proves the call-back trial actually saved lives.
+- [37] **Midori**: The staffing review shows therapy is bleeding staff, but midwifery has slack.
+- [38] **Kenji**: The booking system only holds named slots; anything else vanishes from reports.
+- [39] **Shizue**: The board minutes show a joint clinic collapsed because no one owned the rota.
+- [40] **Jonathan**: @Shion, saving lives is good, but if it costs us money we do not have, it is a liability.
+- [41] **Shion**: @Jonathan, a program that works is worth more than a budget that looks pretty.
+- [42] **Midori**: @Shion, I worry that adding therapy work will push the remaining staff over the edge.
+- [43] **Kenji**: @Midori, if the work is not in the system, it is not real to the managers.
+- [44] **Shizue**: @Jonathan, I agree. I also found that outside data agreements take fourteen months to sign.
+- [45] **Jonathan**: I found that off-site contacts draw no tariff from the regional fund.
+- [46] **Shion**: The midwifery slack is a rare window. We should use it before it closes.
+- [47] **Midori**: I agree. A midwifery program fits the current roster without breaking the team.
+- [48] **Kenji**: But if it is not a named slot, the booking screens will not show it.
+- [49] **Shizue**: @Kenji, that is a technical fix. The real risk is relying on an outside body that never signed up.
+- [50] **Jonathan**: So we need a program that stays on site and uses existing staff.
+- [51] **Shion**: The midwifery option fits that. The data supports it.
+- [52] **Midori**: It also protects the therapy team from further strain. I am comfortable with that.
+- [53] **Kenji**: I can live with it if we create a specific named slot for it.
+- [54] **Shizue**: I am relieved. A clear, internal structure is the only way to keep it alive.
+## Round 3
+- [60] **Jonathan**: Option A visits homes, which means no tariff. That is a direct loss.
+- [61] **Shion**: Option C uses the midwifery slack we found. It is the only one with proven data.
+- [62] **Midori**: Option C is the only one that does not add pressure to the therapy team.
+- [63] **Kenji**: Option C can be a named slot. Option A is invisible to the booking system.
+- [64] **Shizue**: Option D relies on outside providers. The data agreements take fourteen months. It is too fragile.
+- [65] **Jonathan**: @Shion, I agree. Option C stays on site, so it earns the standard tariff.
+- [66] **Shion**: @Jonathan, exactly. It is financially sound and clinically proven.
+- [67] **Midori**: @Shion, I am glad we are protecting the staff. Option C is the humane choice.
+- [68] **Kenji**: @Midori, I can set up the named slots for Option C without changing the system.
+- [69] **Shizue**: @Kenji, thank you. A clear, internal structure is what keeps a program from breaking.
+- [70] **Jonathan**: Option B needs new space and equipment. The ledger cannot cover that.
+- [71] **Shion**: Option B also relies on therapy staff who are leaving. It is a dead end.
+- [72] **Midori**: Option B would break the roster. I cannot support it.
+- [73] **Kenji**: Option B would jam the booking screens. I oppose it.
+- [74] **Shizue**: Option B is a house built on sand. I will not vote for it.
+- [75] **Jonathan**: Option C is the only one that fits the budget, the staff, and the system.
+- [76] **Shion**: The data supports Option C. It is the logical choice.
+- [77] **Midori**: Option C balances the team and the patients. I am ready to vote.
+- [78] **Kenji**: Option C fits the day. I am ready to vote.
+- [79] **Shizue**: Option C is stable. I am ready to vote.
+### Vote
+- Jonathan -> C
+- Shion -> C
+- Midori -> C
+- Kenji -> C
+- Shizue -> C
+## Result
+- adopted: C

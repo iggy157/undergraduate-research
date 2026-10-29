@@ -1,0 +1,73 @@
+# shared_living_0002__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Rin**: I hate the smell in August. We need to know what the daily life feels like, not just the cost.
+- [6] **Midori**: I agree, but I worry about the money. Who pays for the new shelter? We need to check the ledger.
+- [7] **Shunichi**: Money is easy to fix. Trust is hard. Let’s look at the complaint log to see where we broke.
+- [8] **May**: I’m tired of being the default manager. I need to know the actual hours this will eat from my week.
+- [9] **Asuka**: I need to know the physical footprint. If one house bears the bulk of the space, it’s not fair.
+- [10] **Rin**: @Midori, if we spend more, does the smell go away? I want to know the sensory impact of each option.
+- [11] **Midori**: @Rin, not necessarily. But if we don’t know the baseline cost, we can’t judge if a premium is worth it.
+- [12] **Shunichi**: @Asuka, space is a proxy for power. If one house dominates the layout, the others feel subservient. That’s the real issue.
+- [13] **May**: @Shunichi, power is fine if it’s paid for. I just want to avoid the unpaid labor trap. I need to see the time commitment.
+- [14] **Asuka**: @Shunichi, I agree. But I need the measurements to prove it. I will look into the frontages and the station block’s minutes.
+- [15] **Rin**: I’m going to check the station block’s bin house. I want to see how they handle the heat and the flies.
+- [16] **Midori**: I’ll look at the block ledger and the ward subsidy. I need to know exactly what we are paying and what we are owed.
+- [17] **Shunichi**: I will check the ward complaint log and the statements from the last residents' meeting. I need to know the emotional temperature.
+- [18] **May**: I’m looking into the truck arrival time and the supervised mornings. I need to know when the work actually happens.
+- [19] **Asuka**: I will check the measurements of the five frontages and the ward filing requirements. I need to know the legal and physical constraints.
+- [20] **Rin**: I hope the station block has a solution that doesn’t involve me smelling garbage at 7 AM.
+- [21] **Midori**: I hope the ledger shows we have some breathing room. I don’t want to start a fight over a few hundred yen.
+- [22] **Shunichi**: I hope the complaint log shows we can still talk to each other. I don’t want to become strangers on this lane.
+- [23] **May**: I hope the schedule shows I can still have a life. I don’t want to be the one answering the phone at midnight.
+- [24] **Asuka**: I hope the measurements show a clear, defensible line. I don’t want to sign a document that is technically legal but morally bankrupt.
+## Round 2
+- [35] **Rin**: I saw the station block’s bin house. It’s a trap. The smell is worse because it’s sealed in. We can’t just copy them.
+- [36] **Midori**: I checked the ledger. We spend thirty-four thousand yen a year on deodorant and call-outs. That’s a lot for five houses.
+- [37] **Shunichi**: I read the complaint log. Eleven out of fourteen complaints came from the house next to the gate. That’s not a bin problem, that’s a boundary problem.
+- [38] **May**: I timed the truck. It’s here at seven forty. If I have to be up at seven to clear the pavement, I’m losing an hour of sleep. That’s not a hobby.
+- [39] **Asuka**: I measured the frontages. Two houses have wide bays, one is crossed by a driveway, and the narrowest leaves ninety centimetres of pavement. The current site sits on the narrowest frontage.
+- [40] **Rin**: @Midori, thirty-four thousand yen is a lot, but is it more than the cost of my sanity? I need to know if a different layout changes the smell.
+- [41] **Midori**: @Rin, the ledger shows the money goes to fixing the mess, not preventing it. If we stop the mess, the money stops. That’s the point.
+- [42] **Shunichi**: @Asuka, ninety centimetres is the problem. The current site is on the narrowest frontage, and the complaints come from the house next to the gate. We are asking the most squeezed house to host the most traffic.
+- [43] **May**: @Shunichi, that’s the labor trap. If the narrowest house hosts the traffic, they become the de facto manager. I don’t want to be that person. I need a system that doesn’t rely on one person’s goodwill.
+- [44] **Asuka**: @Shunichi, I agree. The measurements show the current site is on the narrowest frontage. The filing requirements say a permanent build needs five signatures and four months. We can’t just move it without a formal process.
+- [45] **Rin**: I’m leaning toward the supervised mornings. If we all take turns, no one is the manager. But I need to know if the smell is still there.
+- [46] **Midori**: I’m leaning toward the low-cost option. The ledger shows we can save thirty-four thousand yen a year if we stop the mess. I don’t want to spend more to fix a problem we created.
+- [47] **Shunichi**: I’m leaning toward the option that moves the site to the widest frontage. It’s not about the money, it’s about the boundary. If the widest house hosts the traffic, the narrowest house gets its peace.
+- [48] **May**: I’m leaning toward the option that has a clear, written schedule. I don’t want to be the one answering the phone. I want a system that runs itself.
+- [49] **Asuka**: I’m leaning toward the option that moves the site to the widest frontage. The measurements show it’s the only fair option. The filing requirements say we need five signatures, so we have to agree on it.
+- [50] **Rin**: I hope the supervised mornings work. I don’t want to smell garbage at 7 AM, but I don’t want to be the one who has to clean it up either.
+- [51] **Midori**: I hope the low-cost option works. I don’t want to start a fight over a few hundred yen, but I don’t want to pay for a problem we created.
+- [52] **Shunichi**: I hope the move to the widest frontage works. I don’t want to become strangers on this lane, but I don’t want to be the one who has to host the traffic.
+- [53] **May**: I hope the written schedule works. I don’t want to be the one answering the phone, but I don’t want to be the one who has to clean it up either.
+- [54] **Asuka**: I hope the move to the widest frontage works. I don’t want to sign a document that is technically legal but morally bankrupt, but I don’t want to be the one who has to host the traffic.
+## Round 3
+- [60] **Rin**: Option A keeps the smell in one place. I hate that. Option B moves the problem, but at least it’s not always on me. Option C is a trap, I saw the station block’s bin house.
+- [61] **Midori**: Option A costs nothing new. The ledger shows we can save thirty-four thousand yen a year if we stop the mess. Option B is free too, but it’s a hassle. Option C costs two hundred forty-eight thousand yen.
+- [62] **Shunichi**: Option A is a labor trap. The narrowest house becomes the de facto manager. Option B is fair, but it’s a hassle. Option C is a boundary problem. The narrowest house hosts the traffic.
+- [63] **May**: Option A is a labor trap. I don’t want to be the one answering the phone. Option B is fair, but it’s a hassle. Option C is a trap, I saw the station block’s bin house.
+- [64] **Asuka**: Option A is a labor trap. The narrowest house becomes the de facto manager. Option B is fair, but it’s a hassle. Option C is a boundary problem. The narrowest house hosts the traffic.
+- [65] **Rin**: @Midori, thirty-four thousand yen is a lot, but is it more than the cost of my sanity? I need to know if a different layout changes the smell.
+- [66] **Midori**: @Rin, the ledger shows the money goes to fixing the mess, not preventing it. If we stop the mess, the money stops. That’s the point.
+- [67] **Shunichi**: @Asuka, ninety centimetres is the problem. The current site is on the narrowest frontage, and the complaints come from the house next to the gate. We are asking the most squeezed house to host the most traffic.
+- [68] **May**: @Shunichi, that’s the labor trap. If the narrowest house hosts the traffic, they become the de facto manager. I don’t want to be that person. I need a system that doesn’t rely on one person’s goodwill.
+- [69] **Asuka**: @Shunichi, I agree. The measurements show the current site is on the narrowest frontage. The filing requirements say a permanent build needs five signatures and four months. We can’t just move it without a formal process.
+- [70] **Rin**: I’m leaning toward Option B. It moves the problem, but at least it’s not always on me. I don’t want to smell garbage at 7 AM, but I don’t want to be the one who has to clean it up either.
+- [71] **Midori**: I’m leaning toward Option A. It costs nothing new. The ledger shows we can save thirty-four thousand yen a year if we stop the mess. I don’t want to start a fight over a few hundred yen.
+- [72] **Shunichi**: I’m leaning toward Option B. It’s fair, but it’s a hassle. I don’t want to become strangers on this lane, but I don’t want to be the one who has to host the traffic.
+- [73] **May**: I’m leaning toward Option B. It’s fair, but it’s a hassle. I don’t want to be the one answering the phone, but I don’t want to be the one who has to clean it up either.
+- [74] **Asuka**: I’m leaning toward Option B. It’s fair, but it’s a hassle. I don’t want to sign a document that is technically legal but morally bankrupt, but I don’t want to be the one who has to host the traffic.
+- [75] **Rin**: I hope Option B works. I don’t want to smell garbage at 7 AM, but I don’t want to be the one who has to clean it up either.
+- [76] **Midori**: I hope Option A works. I don’t want to start a fight over a few hundred yen, but I don’t want to pay for a problem we created.
+- [77] **Shunichi**: I hope Option B works. I don’t want to become strangers on this lane, but I don’t want to be the one who has to host the traffic.
+- [78] **May**: I hope Option B works. I don’t want to be the one answering the phone, but I don’t want to be the one who has to clean it up either.
+- [79] **Asuka**: I hope Option B works. I don’t want to sign a document that is technically legal but morally bankrupt, but I don’t want to be the one who has to host the traffic.
+### Vote
+- Rin -> B
+- Midori -> A
+- Shunichi -> B
+- May -> B
+- Asuka -> B
+## Result
+- adopted: B

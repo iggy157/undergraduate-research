@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I worry about the ground here. It has surprised us before.
+- [6] **Benjamin**: Agreed. We must ensure the plan fits the actual site conditions.
+- [7] **Minato**: Who will look after this place every single week?
+- [8] **Minako**: I want to see what our past projects look like now.
+- [9] **Jonathan**: I am concerned about the long-term upkeep costs for the city.
+- [10] **Kenji**: @Benjamin, do you think the soil will hold up under pressure?
+- [11] **Benjamin**: @Kenji, likely, but only if we respect the drainage patterns.
+- [12] **Minato**: I am curious about the people who will maintain it.
+- [13] **Minako**: @Minato, that is a valid point. Maintenance is key.
+- [14] **Jonathan**: I will look into the financial ledgers to see the true cost.
+- [15] **Kenji**: I need to know which firms are willing to work here.
+- [16] **Benjamin**: I will check the drainage records and heat readings.
+- [17] **Minato**: I want to see the groundskeeping roll and volunteer groups.
+- [18] **Minako**: I will review the condition of works from the earlier programme.
+- [19] **Jonathan**: I will examine the upkeep ledger spend per hectare.
+- [20] **Kenji**: Let's see what the ground really allows us to do.
+- [21] **Benjamin**: The data will tell us if the paper plan survives reality.
+- [22] **Minato**: I hope we find someone reliable to care for it.
+- [23] **Minako**: Facts over feelings. Let's look at the evidence.
+- [24] **Jonathan**: The ribbon cutting is easy; the accounts are the hard part.
+## Round 2
+- [35] **Kenji**: Only two firms are bidding. They warn of clay and slippage.
+- [36] **Benjamin**: @Kenji, that aligns with my findings. The ground is tricky.
+- [37] **Minato**: The staff roll is down to seven. But volunteers help on weekends.
+- [38] **Minako**: The old basin is fine, but the civic hall apron is failing.
+- [39] **Jonathan**: Planted ground costs triple to maintain. The fund won't cover surfacing.
+- [40] **Kenji**: The south can be hoarded, but the centre cannot.
+- [41] **Benjamin**: @Minako, so hard surfaces fail faster than water features?
+- [42] **Minato**: The volunteers do habitat work and youth sports. That is helpful.
+- [43] **Minako**: @Benjamin, yes. The planting died because aftercare was ignored.
+- [44] **Jonathan**: If we choose water, the fund pays for it, but upkeep is high.
+- [45] **Kenji**: We must be careful with the earth-moving. It is risky.
+- [46] **Benjamin**: The heat is rising. We need shade and water management.
+- [47] **Minato**: I feel the volunteers are a good support, but not enough alone.
+- [48] **Minako**: We cannot repeat the mistake of ignoring aftercare for the trees.
+- [49] **Jonathan**: The financial gap is widening. We must be realistic about costs.
+- [50] **Kenji**: I think we need a plan that works with the clay, not against it.
+- [51] **Benjamin**: Agreed. The drainage issues are critical.
+- [52] **Minato**: I am still worried about who does the daily work.
+- [53] **Minako**: We must judge by what survives, not what looks good on day one.
+- [54] **Jonathan**: I will support the option that balances cost and durability.
+## Round 3
+- [60] **Kenji**: Option A uses water, which the fund covers. But the clay is risky.
+- [61] **Benjamin**: @Kenji, the drainage callouts support A. It manages the water we have.
+- [62] **Minato**: Option D uses the south, which can be hoarded. But who maintains the courts?
+- [63] **Minako**: Option C failed before due to lack of aftercare. I am wary.
+- [64] **Jonathan**: Option A is expensive to maintain, but the fund covers the capital.
+- [65] **Kenji**: Option B is hard surface. The fund won't pay for it.
+- [66] **Benjamin**: @Minako, C is risky if we don't have the staff for aftercare.
+- [67] **Minato**: The volunteers do habitat work. That fits Option A better.
+- [68] **Minako**: @Minato, yes. The habitat volunteers are already there.
+- [69] **Jonathan**: Option B and D have lower upkeep, but no fund support.
+- [70] **Kenji**: I lean towards A. It addresses the drainage and uses the fund.
+- [71] **Benjamin**: I agree. The heat and drainage data point to A.
+- [72] **Minato**: I am hesitant, but the volunteer support for habitat is strong.
+- [73] **Minako**: I support A. It is durable if we manage the water correctly.
+- [74] **Jonathan**: I support A. The capital is covered, and the long-term cost is manageable.
+- [75] **Kenji**: Let's go with A. It fits the site and the funding.
+- [76] **Benjamin**: Agreed. It is the most logical choice based on the data.
+- [77] **Minato**: I will vote for A, trusting the volunteers and the fund.
+- [78] **Minako**: A is the best option for long-term sustainability.
+- [79] **Jonathan**: A is the only one that balances the financial and environmental needs.
+### Vote
+- Kenji -> A
+- Benjamin -> A
+- Minato -> A
+- Minako -> A
+- Jonathan -> A
+## Result
+- adopted: A

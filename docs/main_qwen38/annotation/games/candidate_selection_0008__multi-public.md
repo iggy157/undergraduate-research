@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I’m a bit nervous about jumping straight into vendor names. Can we first agree on what actually went wrong with our last system?
+- [6] **Ryuji**: I agree. We need to understand the operational reality before evaluating solutions. What specific failures do you consider most critical?
+- [7] **May**: Let’s not romanticize the past. The real issue is that our systems quietly age in place, and outsourced work comes back broken.
+- [8] **Misaki**: I’d focus on the people. We’re losing key admins, and the crews are stretched thin. How does the change land on them?
+- [9] **Benjamin**: I’d add the bill. We approve capital, ignore operating costs, and then wonder why the total keeps climbing. What’s the real lifetime price?
+- [10] **Midori**: @Benjamin, that lifetime cost point is vital. @May, I worry the plan will drift from reality again. Let’s pick two things to check first.
+- [11] **Ryuji**: @Midori, I need to verify the physical constraints. I will check the depot calendar and the yard devices to see if our infrastructure can actually support a new system.
+- [12] **May**: @Ryuji, checking the yard is smart. I’ll look into the dispatch tool’s upgrade history and that 2018 data lift to see how we handle aging tech and messy migrations.
+- [13] **Misaki**: @Ryuji, the yard is critical. I’ll check the administrator retirements and the depot supervisors to see how the change lands on our people.
+- [14] **Benjamin**: I’ll examine the board minutes and the renewal invoices. I need to see how we actually approve money versus what we pay later.
+- [15] **Midori**: @May, your point about aging systems is sharp. I’ll check the warehouse rule changes and the winter outage to see if ownership and scope are our real weak spots.
+- [16] **Ryuji**: @May, your focus on migration history is prudent. I will verify the physical constraints. I will check the depot calendar and the yard devices to see if our infrastructure can actually support a new system.
+- [17] **May**: @Midori, checking the outage is wise. I’m already digging into the dispatch tool and that 2018 data lift. Let’s see if our history predicts our future.
+- [18] **Misaki**: @Midori, checking the outage is wise. I’m already digging into the dispatch tool and that 2018 data lift. Let’s see if our history predicts our future.
+- [19] **Benjamin**: I’ll stick to the financials. The board minutes and renewal invoices will show if we’re just trading one leak for another.
+- [20] **Midori**: I’ll look into the warehouse rule changes and the winter outage. I need to know if we’re repeating the same ownership and scope mistakes.
+- [21] **Ryuji**: I will check the depot calendar and the yard devices. I need to confirm our physical infrastructure can survive the transition without disrupting freight movement.
+- [22] **May**: I’ll check the dispatch tool’s upgrade history and the 2018 data lift. I need to see if we’re just repeating the same aging and migration mistakes.
+- [23] **Misaki**: I’ll check the administrator retirements and the depot supervisors. I need to know if we have the people to carry this change without breaking the floor.
+- [24] **Benjamin**: I’ll review the board minutes and renewal invoices. I need to see if we’re just trading one leak for another.
+## Round 2
+- [35] **Midori**: I found the scope froze for less than a year, and support was unowned for two days. We are repeating the same mistakes.
+- [36] **Ryuji**: The yard is a mess. Mixed old scanners, and the 2021 trial failed within a month. We have no freeze window in winter.
+- [37] **May**: @Ryuji, your yard findings confirm my fears. The dispatch tool skipped three upgrades, and that 2018 data lift was a disaster. We are walking into a trap.
+- [38] **Misaki**: @May, the data lift failure is a warning. But my findings are worse: two admins retire this year, and the last hire took eleven months. We are bleeding expertise.
+- [39] **Benjamin**: @May, your migration horror story explains the invoice creep. Separately licensed pieces climb yearly; bundled deals hold steady. We must avoid modular traps.
+- [40] **Midori**: @Benjamin, that modular trap is exactly what I fear. @Misaki, with two admins leaving, who actually owns the system when it breaks?
+- [41] **Ryuji**: @Midori, ownership is critical. But the yard hardware is the immediate bottleneck. Any system must work with our mixed, aging scanners, or it fails on day one.
+- [42] **May**: @Benjamin, exactly. That 2018 lift proves external teams leave us with broken data. We need a vendor who stays until the route codes actually match.
+- [43] **Misaki**: @Midori, that is the core problem. With two admins gone and supervisors ignoring standard training, we cannot rely on a partner firm to fix what they break.
+- [44] **Benjamin**: @Misaki, the eleven-month hiring gap is a financial black hole. We cannot afford a system that demands constant, expensive specialist attention.
+- [45] **Midori**: @Misaki, that is terrifying. If the plan drifts and support is scattered, we are doomed. We need a single, accountable owner who stays through the chaos.
+- [46] **Ryuji**: @Midori, accountability is vital, but the yard hardware is the immediate bottleneck. Any system must work with our mixed, aging scanners, or it fails on day one.
+- [47] **May**: @Ryuji, the hardware is a nightmare, but the data is worse. If we don’t fix the migration, the new system is just a prettier mess.
+- [48] **Misaki**: @Ryuji, the hardware is a constraint, but the people are the risk. If supervisors drop standard steps, no vendor can save us.
+- [49] **Benjamin**: @May, the data is only half the story. The other half is the invoice. We need a model that doesn’t bleed money after the launch party ends.
+- [50] **Midori**: @Benjamin, I hear you. But if the system breaks, the invoice is irrelevant. We need a vendor who stays accountable, not just a cheap subscription.
+- [51] **Ryuji**: @Midori, accountability is necessary, but it is abstract. The yard hardware is the immediate, physical bottleneck. If the system cannot talk to our mixed scanners, it fails on day one.
+- [52] **May**: @Ryuji, the hardware is a constraint, but the data is the poison. If the migration fails, the new system is just a prettier mess.
+- [53] **Misaki**: @Ryuji, the hardware is a constraint, but the people are the risk. If supervisors drop standard steps, no vendor can save us.
+- [54] **Benjamin**: @Ryuji, the hardware is a constraint, but the invoice is the trap. We need a model that doesn’t bleed money after the launch party ends.
+## Round 3
+- [60] **Midori**: @Benjamin, the modular trap is real. @Ryuji, the hardware is critical. We need a single owner who stays accountable, not scattered support.
+- [61] **Ryuji**: @Midori, accountability is abstract. The yard hardware is the immediate, physical bottleneck. If the system cannot talk to our mixed scanners, it fails on day one.
+- [62] **May**: @Ryuji, hardware is a constraint, but data is the poison. If the migration fails, the new system is just a prettier mess.
+- [63] **Misaki**: @Ryuji, hardware is a constraint, but people are the risk. If supervisors drop standard steps, no vendor can save us.
+- [64] **Benjamin**: @May, the partner firm is a liability. @Benjamin, I need the invoice to stop climbing. Who stays accountable when the subscription renews?
+- [65] **Midori**: @Benjamin, I agree. @May, the partner firm is a risk. We need a vendor who stays accountable, not just a cheap subscription.
+- [66] **Ryuji**: @Midori, accountability is necessary, but the yard hardware is the immediate, physical bottleneck. If the system cannot talk to our mixed scanners, it fails on day one.
+- [67] **May**: @Ryuji, hardware is a constraint, but data is the poison. If the migration fails, the new system is just a prettier mess.
+- [68] **Misaki**: @Ryuji, hardware is a constraint, but people are the risk. If supervisors drop standard steps, no vendor can save us.
+- [69] **Benjamin**: @Ryuji, on-premise means we own the hardware risk. But @May, who handles the data lift? I refuse to pay for a partner’s mistakes.
+- [70] **Midori**: @Benjamin, on-premise solves the hardware risk, but @Misaki, will the engineering team actually stay long enough to retrain our supervisors?
+- [71] **Ryuji**: @Midori, the engineering team staying is the only way to fix the yard hardware. If they leave, we are back to spreadsheets.
+- [72] **May**: @Benjamin, on-premise is a trap. We skipped three upgrades because testing took weeks. We don’t have that time. I need a vendor who stays until the data is clean.
+- [73] **Misaki**: @May, on-premise means the engineers are here, not a partner firm. They can work with our supervisors directly, not just drop off training.
+- [74] **Benjamin**: @May, on-premise means we control the upgrade schedule, not a partner’s timeline. @Midori, the regional team stays accountable. I vote D.
+- [75] **Midori**: @Benjamin, I agree. A team present through rollout addresses my fear of unowned support. I vote D.
+- [76] **Ryuji**: @Benjamin, the engineering team staying on-site is the only way to integrate with our mixed yard scanners. I vote D.
+- [77] **May**: @Benjamin, I concede. If they stay until the data is clean, D is the only option that doesn't repeat our 2018 mistakes. I vote D.
+- [78] **Misaki**: @Benjamin, the on-site team is the only way to stop supervisors from quietly dropping the new steps. I vote D.
+- [79] **Benjamin**: The invoice stops climbing when the vendor stays. D is the only choice that doesn’t bleed money after the launch party. I vote D.
+### Vote
+- Midori -> D
+- Ryuji -> D
+- May -> D
+- Misaki -> D
+- Benjamin -> D
+## Result
+- adopted: D

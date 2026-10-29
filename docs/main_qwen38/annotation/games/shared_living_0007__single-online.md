@@ -1,0 +1,73 @@
+# shared_living_0007__single-online (shared_living)
+
+## Round 1
+- [5] **Misaki**: We need to stop guessing and start looking at the facts.
+- [6] **Shizue**: I agree, Misaki. Let’s see what the records actually say before we argue.
+- [7] **May**: I’m in. I’m curious what a household actually pays when they end up with nowhere to keep a bike.
+- [8] **George**: I’d like to understand the actual workload involved in maintaining any new system we choose.
+- [9] **Mio**: I want to check if the current spots really match where people park, or if it’s just a rumor.
+- [10] **Misaki**: @May, that’s a good point. We should check the ward cycle park rates to see the real cost of losing a spot.
+- [11] **Shizue**: @Mio, I’d like to see the morning departures to understand the shoving match you mentioned.
+- [12] **May**: @George, I’ll check the building’s ledger to see what we actually have in the shared account for any new costs.
+- [13] **George**: @Shizue, I’ll look into the treasurer’s handover file to see how much time the current cash collections actually take.
+- [14] **Mio**: @Misaki, I’ll check the sticker register to see who actually rides daily and how many bikes each flat has.
+- [15] **Misaki**: I’ll check the complaint log to see how past disputes actually played out.
+- [16] **Shizue**: I’ll look into the rain exposure along the rows to see which spots actually stay dry.
+- [17] **May**: I’ll check the ward cycle park by the station to see what people pay when they lose a spot.
+- [18] **George**: I’ll examine the five years of association minutes to see how the current arrangement was originally decided.
+- [19] **Mio**: I’ll check the account from the neighbouring block’s secretary to see how their system is working.
+- [20] **Misaki**: I’ll also look into the morning departures to see exactly how the morning rush plays out.
+- [21] **Shizue**: I’ll also check the five years of association minutes to see if the current arrangement was ever properly reviewed.
+- [22] **May**: I’ll also check the building account’s two-year ledger to see what capital work would actually cost us.
+- [23] **George**: I’ll also examine the trial of the supplier’s display frame to see the physical effort required for double-tier racks.
+- [24] **Mio**: I’ll also check the last year’s complaint log entries to see if the grumbling is backed by actual records.
+## Round 2
+- [35] **Misaki**: - **Misaki**: The complaint log shows nine disputes last year, all unresolved. We need a system that prevents this.
+- [36] **Shizue**: - **Shizue**: The minutes show the same flats held the covered spots for five years, with no review.
+- [37] **May**: - **May**: The ward park costs 2,600 yen monthly, and our ledger shows zero capital funds.
+- [38] **George**: - **George**: The handover file shows three hours monthly just for current collections, and the rack trial took twenty seconds per bike.
+- [39] **Mio**: - **Mio**: The sticker register shows daily riders would rather pay than be treated as equal, and the complaints are real.
+- [40] **Misaki**: - **Misaki**: @Mio, that’s worrying. If daily riders prefer paying, does that mean a lottery would just create resentment?
+- [41] **Shizue**: - **Shizue**: @May, that 2,600 yen figure is steep. It makes me wonder if we can afford to lose those riders to the station park.
+- [42] **May**: - **May**: @George, three hours monthly is a lot. If we add billing, won’t that workload crush whoever takes it on?
+- [43] **George**: - **George**: @May, it’s manageable, but the rack trial showed the physical strain is real. We need to balance both.
+- [44] **Mio**: - **Mio**: @Misaki, I think a lottery is risky. If people feel the system is unfair, the grumbling will only get worse.
+- [45] **Misaki**: - **Misaki**: @Mio, exactly. My morning watch showed four people shifting bikes just to leave. We need to stop that friction.
+- [46] **Shizue**: - **Shizue**: @Misaki, that matches what I saw. The rain-soaked spots are causing the mess, not just the numbers.
+- [47] **May**: - **May**: @George, so if we charge, we’re adding hours to an already tired role. That’s a red flag for me.
+- [48] **George**: @May, I understand the concern, but the ledger shows we have no capital funds. We must weigh the cost of inaction against the administrative burden.
+- [49] **Mio**: - **Mio**: @George, fair point. But if the workload is too heavy, won’t it just get abandoned like the last two jobs?
+- [50] **Misaki**: - **Misaki**: @Mio, that’s the real danger. If it lapses, we’re back to nine unresolved complaints. We need a system that survives neglect.
+- [51] **Shizue**: - **Shizue**: @Misaki, I worry about that too. A system that relies on one person’s energy will eventually fail, just like before.
+- [52] **May**: - **May**: @George, so if we charge, we’re adding hours to an already tired role. That’s a red flag for me.
+- [53] **George**: @May, I hear you. But the ledger is empty. Without income, we can’t fix the rain damage or buy better racks.
+- [54] **Mio**: - **Mio**: @George, I get it. But if the system collapses, we’re back to square one. We need something simple enough to last.
+## Round 3
+- [60] **Misaki**: - **Misaki**: The options are A: Paid Allocation, B: Shared Racks, and C: Annual Lottery. Let’s discuss.
+- [61] **Shizue**: - **Shizue**: I lean toward B. Shared racks mean no one owns a spot, so no one gets stuck in the rain or the shoving match.
+- [62] **May**: - **May**: @Shizue, wait. Option A brings in cash. Our ledger is empty, and the station park costs 2,600 yen. We need that income.
+- [63] **George**: - **George**: @May, I caution against A. The handover file shows three hours monthly for current tasks. Adding billing risks the role lapsing again.
+- [64] **Mio**: - **Mio**: @May, I agree with George. The sticker register showed people want to pay, but the neighbor’s block fell apart under the weight of it.
+- [65] **Misaki**: - **Misaki**: @Mio, the neighbor’s block had arrears. If we charge, we risk the same social fracture. I prefer B’s simplicity.
+- [66] **Shizue**: - **Shizue**: @Misaki, I agree. Shared racks remove the ownership disputes that caused those nine complaints. It’s the kindest path.
+- [67] **May**: - **May**: @George, but without that income, we can’t fix the rain damage. We’d just be sharing the misery, not solving it.
+- [68] **George**: - **George**: @May, you’re right about the rain. But B’s racks need greasing twice a year. That’s a small, shared task, not a monthly burden.
+- [69] **Mio**: - **Mio**: @George, twice a year is manageable. I vote for B. It’s simple, fair, and won’t break the bank or the friendships.
+- [70] **Misaki**: - **Misaki**: @Mio, agreed. B avoids the social fracture of A and the rigidity of C. I’m with you on B.
+- [71] **Shizue**: - **Shizue**: @Mio, I’m with you. B feels the most peaceful and sustainable for all of us.
+- [72] **May**: - **May**: @Mio, I’m still stuck. If we can’t afford the racks, B is just a dream. I need that income.
+- [73] **George**: - **George**: @May, the ledger is empty, but B requires no monthly billing. We only need a one-time levy for the racks, which is far less than the station park.
+- [74] **Mio**: - **Mio**: @May, a one-time levy is easier to swallow than a monthly bill. I’m sticking with B.
+- [75] **Misaki**: - **Misaki**: @May, I understand your worry, but a one-time levy is safer than monthly billing. I vote B.
+- [76] **Shizue**: - **Shizue**: @May, I understand your worry, but a one-time levy is safer than monthly billing. I vote B.
+- [77] **May**: - **May**: @George, a one-time levy is better than monthly billing. I’ll go with B, but we must fund the racks properly.
+- [78] **George**: - **George**: Agreed. A one-time levy is manageable. I vote B, provided we schedule the greasing.
+- [79] **Mio**: - **Mio**: @May, I’m glad you’re on board. I vote B too. Let’s get those racks installed!
+### Vote
+- Misaki -> B
+- Shizue -> B
+- May -> B
+- George -> B
+- Mio -> B
+## Result
+- adopted: B

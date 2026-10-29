@@ -1,0 +1,73 @@
+# shared_living_0013__multi-public (shared_living)
+
+## Round 1
+- [5] **Shizue**: I’d like to understand how our seating affects our daily conversations. Who else cares about that?
+- [6] **Toshio**: I care about who ends up with the worse seats. We should decide that fairly, not by accident.
+- [7] **Daisuke**: I’m worried about the cost. The budget hasn’t changed, but we’re adding desks. I want to know what this floor actually costs us monthly.
+- [8] **Mio**: I’m worried about how the layout eats into my short gaps between meetings. I want to know what it costs us in time, both during the move and every morning after.
+- [9] **Shunichi**: Comfort is the part nobody writes down. I want to know how the spot sounds and fits my body after eight hours.
+- [10] **Shizue**: @Toshio, that is a wise point. @Daisuke, I hear your worry about the budget. Let us all look into what matters most to us.
+- [11] **Toshio**: @Shizue, agreed. @Daisuke, your point is valid. We should verify the financial impact before committing to any specific arrangement.
+- [12] **Daisuke**: @Toshio, thank you. I’m glad you agree. I’ll look into the billing basis and the facilities quote to see the real numbers.
+- [13] **Mio**: @Daisuke, I’ll check the morning routine upstairs and the unplanned shuffles to see how much time we actually lose.
+- [14] **Shunichi**: I’ll check the sound meter readings and the physio’s note. Comfort is data, not a whim.
+- [15] **Shizue**: @Mio, your focus on time is very practical. I will look into the staff survey and what our new joiners reported to understand the human side.
+- [16] **Toshio**: @Shizue, I will examine the badge records and the drawn plan. I need to see how arrival times and physical placement interact.
+- [17] **Daisuke**: @Shizue, thank you. I will look into the facilities quote and the floor billing basis to understand the true monthly cost.
+- [18] **Mio**: @Shizue, I’m glad you’re looking at the human side. I’ll stick to the morning routine and the unplanned shuffles to see exactly how much time we lose.
+- [19] **Shunichi**: @Shizue, the human side matters, but so does the physical one. I’ll stick to the sound readings and the physio’s note.
+- [20] **Shizue**: @Daisuke, @Mio, @Shunichi, @Toshio, thank you all. I will look into the staff survey and what our new joiners reported.
+- [21] **Toshio**: @Shizue, thank you. I will examine the badge records and the drawn plan to see how arrival times and physical placement interact.
+- [22] **Daisuke**: @Shizue, thank you. I will look into the facilities quote and the floor billing basis to understand the true monthly cost.
+- [23] **Mio**: @Shizue, thank you. I’ll check the morning routine and the unplanned shuffles to see exactly how much time we lose.
+- [24] **Shunichi**: @Shizue, thank you. I’ll check the sound meter readings and the physio’s note. Comfort is data, not a whim.
+## Round 2
+- [35] **Shizue**: The survey shows daylight was the top complaint, yet the plan gives only four desks windows. That feels unfair to the three on the wall.
+- [36] **Toshio**: The badge data confirms first-come, first-served is broken. Half the team arrives after ten. We cannot rely on arrival time to assign seats.
+- [37] **Daisuke**: @Toshio, that confirms my worry. We are billed for area, not people. Two empty desks cost us 41,000 yen monthly.
+- [38] **Mio**: @Daisuke, that’s a lot of money for empty space. But my findings show mornings take four to nine minutes, and shuffles last two weeks.
+- [39] **Shunichi**: Nine decibels louder by the printer, and my chair takes days to settle. That’s not comfort, that’s a daily tax.
+- [40] **Shizue**: @Mio, those two weeks of shuffles sound exhausting. @Shunichi, I understand the noise is a real burden.
+- [41] **Toshio**: @Shizue, the plan is lopsided. Four get windows, three get walls. We must decide who takes the worse end deliberately, not by habit.
+- [42] **Daisuke**: @Mio, the 6,200 yen per desk fee for re-running power and network is also a recurring cost. Every change adds up.
+- [43] **Mio**: @Toshio, two weeks of chaos is unacceptable. @Daisuke, that recurring fee makes me nervous. We need a layout that stops the constant moving.
+- [44] **Shunichi**: @Toshio, deliberate is better than habit. But if I pick the quiet window, I lose my settled chair. That’s a trade-off, not a free lunch.
+- [45] **Shizue**: @Toshio, you are right. We must be fair. @Shunichi, your comfort matters too. Let us find a balance that respects everyone’s needs.
+- [46] **Toshio**: @Shunichi, the trade-off is real. But the badge data proves first-come is broken. We need a system that ignores arrival time entirely.
+- [47] **Daisuke**: @Toshio, I agree. If we change seats often, the 6,200 yen fee hits us every time. We need a stable plan to save money.
+- [48] **Mio**: @Toshio, I agree. Stability saves time and money. @Daisuke, those fees are scary. We need a layout that stays put.
+- [49] **Shunichi**: @Toshio, ignoring arrival time is smart. But stability means my chair settles. I need a fixed spot to avoid that daily tax.
+- [50] **Shizue**: @Toshio, I agree. We must be deliberate. @Shunichi, your comfort is valid. Let us find a balance that respects everyone’s needs.
+- [51] **Toshio**: @Shunichi, stability is the only way to avoid the recurring fees. We must choose a system that assigns seats deliberately, not by chance.
+- [52] **Daisuke**: @Toshio, I agree. Stability saves the 61,000 yen monthly. We must avoid the recurring 6,200 yen fees.
+- [53] **Mio**: @Toshio, I agree. Stability is key. If we keep moving, I lose those precious gaps. Let’s pick a layout that stays put.
+- [54] **Shunichi**: @Toshio, agreed. A fixed spot lets my chair settle and keeps me away from the noise. Stability is the only rational choice here.
+## Round 3
+- [60] **Shizue**: @Toshio, I worry that moving desks will break the quiet conversations our new joiners rely on. We need a place where people can truly settle and talk.
+- [61] **Toshio**: @Shizue, rotating blocks would force constant re-adjustment, defeating the purpose of stability. We need a permanent, deliberate assignment.
+- [62] **Daisuke**: @Toshio, I agree. Rotating blocks mean repeated 6,200 yen fees. Fixed desks save money and stop the constant moving.
+- [63] **Mio**: @Toshio, I agree. Rotating blocks mean more shuffles and lost time. Fixed desks protect my precious gaps.
+- [64] **Shunichi**: @Toshio, agreed. Rotating blocks reset my chair and noise exposure every shift. Fixed desks let my body settle. That is the only rational choice.
+- [65] **Shizue**: @Toshio, I agree. A fixed place lets us build those quiet, meaningful connections. Let us choose the layout that helps us truly settle together.
+- [66] **Toshio**: @Shizue, agreed. Option B is the only one that respects the data. We must assign the window seats deliberately, not by luck.
+- [67] **Daisuke**: @Toshio, I agree. Option B avoids the recurring 6,200 yen fees. Stability is essential for our budget.
+- [68] **Mio**: @Toshio, I agree. Option B is the only one that protects my gaps. Rotating blocks would just reset my morning routine constantly.
+- [69] **Shunichi**: @Toshio, agreed. Option B is the only rational choice. It lets my chair settle and keeps me away from the noise. Stability is essential.
+- [70] **Shizue**: @Toshio, I agree. A fixed place lets us build those quiet, meaningful connections. Let us choose the layout that helps us truly settle together.
+- [71] **Toshio**: @Shizue, agreed. Option B is the only one that respects the data. We must assign the window seats deliberately, not by luck.
+- [72] **Daisuke**: @Toshio, I agree. Option B is the only choice that stops the recurring fees. Stability is essential for our budget.
+- [73] **Mio**: @Toshio, I agree. Option B is the only choice that protects my gaps. Rotating blocks would just reset my morning routine constantly.
+- [74] **Shunichi**: @Toshio, agreed. Option B is the only rational choice. It lets my chair settle and keeps me away from the noise. Stability is essential.
+- [75] **Shizue**: @Toshio, I agree. Option B lets us settle and talk. I vote for B.
+- [76] **Toshio**: @Shizue, agreed. Option B is the only choice that respects the data. We must assign the window seats deliberately, not by luck. I vote for B.
+- [77] **Daisuke**: @Toshio, I agree. Option B stops the recurring fees. Stability is essential for our budget. I vote for B.
+- [78] **Mio**: @Toshio, I agree. Option B protects my gaps and stops the chaos. I vote for B.
+- [79] **Shunichi**: @Toshio, agreed. Option B is the only rational choice. It lets my chair settle and keeps me away from the noise. I vote for B.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

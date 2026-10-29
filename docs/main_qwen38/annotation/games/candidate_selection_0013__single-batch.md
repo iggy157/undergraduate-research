@@ -1,0 +1,73 @@
+# candidate_selection_0013__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about the timeline. We need to see what actually delays our projects.
+- [6] **Yumi**: Agreed. I want to know how much space we lose while work is happening.
+- [7] **George**: The staff are stretched thin. I need to check the staffing posts since the freeze.
+- [8] **Mizuki**: We should look at the post-occupancy reviews to see what actually worked.
+- [9] **Benjamin**: The budget figures seem optimistic. I will check the tender records over three cycles.
+- [10] **Shizue**: @George, do you think the staffing issue affects the schedule?
+- [11] **Yumi**: @Mizuki, I hope the reviews show us which spaces people actually use.
+- [12] **George**: @Shizue, yes, fewer hands mean slower work. I will look into the staffing posts.
+- [13] **Mizuki**: @Yumi, I will check the post-occupancy ratings. It is a good idea.
+- [14] **Benjamin**: @Shizue, I will also look at the weather days in the site diaries.
+- [15] **Shizue**: I will look into the weather days and the survey findings in older blocks.
+- [16] **Yumi**: I will check the timetable records on rooms out of service and booking data.
+- [17] **George**: I will look at the staffing posts and the bench technicians' weekly routines.
+- [18] **Mizuki**: I will check the post-occupancy review ratings and the decade of delivery schedules.
+- [19] **Benjamin**: I will look at the tender records and the renewal reserve for equipment.
+- [20] **Shizue**: Thank you all. Let us see what we find.
+- [21] **Yumi**: I am excited to see the data.
+- [22] **George**: Let us be thorough.
+- [23] **Mizuki**: Logic will guide us.
+- [24] **Benjamin**: Let the numbers speak.
+## Round 2
+- [35] **Shizue**: The weather lost us six weeks. And the older blocks have hazardous materials.
+- [36] **Yumi**: The rooms out of service cost us two terms in hired space. Specialist rooms are idle.
+- [37] **George**: The hiring freeze left posts empty. Technicians are doing manual checks because the equipment fails.
+- [38] **Mizuki**: Projects for comfort slip a year. Those for inspection are on time. Reviews are low for single-wing benefits.
+- [39] **Benjamin**: Mechanical costs rose by a fifth. No reserve was opened for the old audiovisual kit.
+- [40] **Shizue**: @Benjamin, that cost rise is worrying.
+- [41] **Yumi**: @Mizuki, so we should avoid projects that only help one wing?
+- [42] **George**: @Shizue, the hazardous materials in older blocks are a big risk.
+- [43] **Mizuki**: @Yumi, yes, shared spaces seem to be rated higher.
+- [44] **Benjamin**: @George, the lack of a reserve for equipment is a hidden cost.
+- [45] **Shizue**: We must avoid the older blocks if possible.
+- [46] **Yumi**: General-purpose rooms are in high demand. Specialist ones are not.
+- [47] **George**: The technicians are overworked. We need a solution that doesn't add to their burden.
+- [48] **Mizuki**: The data suggests we should choose a project with broad appeal and clear necessity.
+- [49] **Benjamin**: The budget for mechanical work is inflated. We need to be careful.
+- [50] **Shizue**: I think we should avoid anything in the older blocks.
+- [51] **Yumi**: I agree. Let us focus on spaces that are actually used.
+- [52] **George**: I support avoiding extra work for the technicians.
+- [53] **Mizuki**: Let us look at the candidates with this in mind.
+- [54] **Benjamin**: Let us be realistic about the costs.
+## Round 3
+- [60] **Shizue**: Candidate A is outside. Weather is a risk, but no hazardous materials.
+- [61] **Yumi**: Candidate B is a specialist room. The data says they are idle.
+- [62] **George**: Candidate D adds work for the technicians. I am against it.
+- [63] **Mizuki**: Candidate C is a general space. It should be well-rated.
+- [64] **Benjamin**: Candidate A has low cost risk. Candidate D has high cost risk.
+- [65] **Shizue**: @Mizuki, I agree with you on Candidate C.
+- [66] **Yumi**: @George, I agree. Candidate D is a bad idea.
+- [67] **George**: @Benjamin, yes, the costs for D are too high.
+- [68] **Mizuki**: @Shizue, Candidate C seems the safest bet.
+- [69] **Benjamin**: @Yumi, Candidate B is a waste of money.
+- [70] **Shizue**: I will vote for C.
+- [71] **Yumi**: I will vote for C.
+- [72] **George**: I will vote for C.
+- [73] **Mizuki**: I will vote for C.
+- [74] **Benjamin**: I will vote for A.
+- [75] **Shizue**: Let us hope C works out.
+- [76] **Yumi**: I am happy with this choice.
+- [77] **George**: It is a reasonable decision.
+- [78] **Mizuki**: The data supports it.
+- [79] **Benjamin**: It is a logical choice, even if I prefer A.
+### Vote
+- Shizue -> C
+- Yumi -> C
+- George -> C
+- Mizuki -> C
+- Benjamin -> A
+## Result
+- adopted: C

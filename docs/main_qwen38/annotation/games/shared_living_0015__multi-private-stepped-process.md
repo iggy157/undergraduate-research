@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Servas**: The old three-person split feels heavy now. We must find a rhythm that honors everyone's presence.
+- [6] **Midori**: I worry the current method creates silent tension. Let’s look for a way that preserves our peace.
+- [7] **Minato**: I am curious if the numbers actually match our daily lives. I want to see the truth.
+- [8] **May**: I need to know the real cost before I commit. I cannot guess my share anymore.
+- [9] **Daisuke**: I am worried about who has to do the math. It takes so much time.
+- [10] **Servas**: @Minato, your curiosity is good. Let us look at the statements to see the pattern.
+- [11] **Midori**: @Daisuke, I hear your concern. Maybe a template could help? I will check that.
+- [12] **Minato**: I will look at the plug-in monitors. I want to see who uses what.
+- [13] **May**: I will check the electrician's quote. I need to know the upfront cost of changes.
+- [14] **Daisuke**: I will look at the payment log. I need to see how long this has taken.
+- [15] **Servas**: @May, the quote is wise. But let us also see how others handle this.
+- [16] **Midori**: I agree. I will look at the monthly settle at another house for inspiration.
+- [17] **Minato**: I will also look at the last twelve utility statements. I want the full picture.
+- [18] **May**: I will also look at the winter habits. I need to know the seasonal spike.
+- [19] **Daisuke**: I will also look at the trial run of a reconciliation template.
+- [20] **Servas**: We have chosen our paths. Let us see what the data whispers to us.
+- [21] **Midori**: I hope we find a balance that keeps us smiling. I will wait for the results.
+- [22] **Minato**: I am ready to learn. I trust the numbers will guide us gently.
+- [23] **May**: I am ready to see the truth. I need stability, not surprises.
+- [24] **Daisuke**: I am ready. I just hope it does not become my full-time job.
+## Round 2
+- [35] **Servas**: The numbers show a wild swing. February is nearly three times August. We must plan for the cold.
+- [36] **Midori**: I saw how long the other house takes. Forty minutes of arguing over meters. I do not want that here.
+- [37] **Minato**: The monitors show one room uses four times more. It is not just about people, but habits.
+- [38] **May**: The quote is 34,000 yen per room. That is a lot of upfront cash. I need to see if it saves me later.
+- [39] **Daisuke**: The template took me three hours to fill out. I cannot do that every month. It is too much.
+- [40] **Servas**: @Minato, the disparity is real. But does it mean we should punish the warm rooms?
+- [41] **Midori**: @Daisuke, I understand the burden. I think we need a method that is almost invisible.
+- [42] **Minato**: I do not want to punish anyone. I just want the share to match the use.
+- [43] **May**: The winter habits show people ignore the cost. If we do not see the number, we waste it.
+- [44] **Daisuke**: If I have to chase people for money, I will break. I need a system that runs itself.
+- [45] **Servas**: The sunlight data is clear. Two rooms need heat early. We must acknowledge that difference.
+- [46] **Midori**: I think the other house's method is too rigid. It creates friction. We need something softer.
+- [47] **Minato**: The statements show the total changes so much. A fixed split is definitely wrong.
+- [48] **May**: I am leaning towards the meters. The upfront cost is high, but the predictability is worth it.
+- [49] **Daisuke**: The payment log shows the delays come from confusion. If the math is clear, the delays stop.
+- [50] **Servas**: We have the data. Now we must choose a path that keeps our hearts open.
+- [51] **Midori**: I am ready to vote. I want the option that keeps us talking, not fighting.
+- [52] **Minato**: I am ready. I trust the data will lead us to the fairest place.
+- [53] **May**: I am ready. I need to know my number is stable before I sign anything.
+- [54] **Daisuke**: I am ready. I just need to know I will not be the one doing the math.
+## Round 3
+- [60] **Servas**: Option A feels precise, but does it make us strangers? I worry about the coldness of meters.
+- [61] **Midori**: Option C is the simplest. It requires no math, no meters, and no arguments. It keeps the peace.
+- [62] **Minato**: Option A matches the data I saw. The usage is so different that a flat share feels unfair.
+- [63] **May**: Option A has a high upfront cost, but it gives me the stability I need. I can budget exactly.
+- [64] **Daisuke**: Option C means I have to recalculate the share every time someone moves. That is a lot of work.
+- [65] **Servas**: @Midori, simplicity is good. But does it hide the truth of our different needs?
+- [66] **Midori**: @Servas, I think hiding the truth is better than exposing it. I want harmony, not accuracy.
+- [67] **Minato**: I think accuracy is a form of respect. If I use more, I should pay more. That is fair.
+- [68] **May**: The winter habits show that without a meter, people waste. Option A stops that waste.
+- [69] **Daisuke**: Option B means I have to do a big calculation once a year. That is a lot of stress at once.
+- [70] **Servas**: Option B is a middle path. It smooths out the spikes. It feels like a gentle rhythm.
+- [71] **Midori**: Option B still requires a year-end settlement. That is a moment of potential conflict. I prefer C.
+- [72] **Minato**: Option B hides the monthly variance. I want to see the real cost as it happens.
+- [73] **May**: Option B is risky. If the winter is colder than expected, my share could double. I need A.
+- [74] **Daisuke**: Option A means I just read a number. I do not have to calculate anything. That is the best for me.
+- [75] **Servas**: I will vote for the option that keeps our home feeling like a home, not a business.
+- [76] **Midori**: I will vote for the option that keeps us smiling. I choose C.
+- [77] **Minato**: I will vote for the option that is true. I choose A.
+- [78] **May**: I will vote for the option that is stable. I choose A.
+- [79] **Daisuke**: I will vote for the option that is easy. I choose A.
+### Vote
+- Servas -> C
+- Midori -> C
+- Minato -> A
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0011__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry our instincts about promise have not aged well. I want to see what finished awards actually delivered.
+- [6] **Ryuji**: Money is easy to vote. Trained hands are not. I need to know who is genuinely available here now.
+- [7] **Victoria**: Nothing runs in isolation. I am concerned about the state of the shared services we all rely on.
+- [8] **Benjamin**: The headline grant size is static, but what it buys is shrinking. I need to know which costs are now on us.
+- [9] **Midori**: Too many awards lost time to non-scientific interruptions. I want to know where work in this field actually gets interrupted.
+- [10] **Shizue**: @Benjamin, that is a fair point. The value of the money matters as much as the amount.
+- [11] **Ryuji**: @Victoria, shared services failing is a silent killer. I agree we must check the infrastructure.
+- [12] **Victoria**: @Ryuji, exactly. If the facilities are strained, the science suffers regardless of the proposal quality.
+- [13] **Benjamin**: I will look at the ledgers and the computing agreement to see where the pressure is.
+- [14] **Midori**: I will check the incident logs and the repository turnaround to see where the bottlenecks are.
+- [15] **Shizue**: I will review the closeout files and the portfolio review of schedule overruns.
+- [16] **Ryuji**: I will look at the staffing rolls and the minutes on secondments to gauge crew strength.
+- [17] **Victoria**: I will examine the accreditation records and the incident logs on shared instrumentation.
+- [18] **Benjamin**: I will also check the national computing agreement to see if simulation costs are covered.
+- [19] **Midori**: I will also look at the station records from partner field sites to see if external factors are a risk.
+- [20] **Shizue**: Let us see what the data says before we judge the candidates.
+- [21] **Ryuji**: Agreed. We need to know if we have the people to do the work.
+- [22] **Victoria**: The state of the facilities will determine if the proposed timelines are realistic.
+- [23] **Benjamin**: Understanding the cost structure is essential for a fair comparison.
+- [24] **Midori**: I hope we can identify the friction points before they derail the project.
+## Round 2
+- [35] **Shizue**: The closeout files are sobering. Catalogue-style work lasts, but mechanism-focused projects often stall with questions unresolved.
+- [36] **Ryuji**: The staffing data is alarming. Most phenotyping technicians are gone, and our senior modelling analysts are seconded abroad.
+- [37] **Victoria**: The spectroscopy suite was idle for eleven weeks. One engineer covers three institutes. This is a critical bottleneck.
+- [38] **Benjamin**: Simulation hours are free now, but animal-unit day rates have spiked. This changes the calculus for wet-lab heavy proposals.
+- [39] **Midori**: The field sites are a disaster. Three of five lost a season to weather. But the indoor holding rooms were fine.
+- [40] **Shizue**: @Ryuji, that explains why the mechanism-focused projects failed. We lack the technical hands to sustain them.
+- [41] **Ryuji**: @Shizue, yes. The glasshouse crew is full strength, but the modelling side is hollowed out.
+- [42] **Victoria**: @Benjamin, the free simulation hours help, but if the spectroscopy is down, the data is useless.
+- [43] **Benjamin**: @Victoria, the glasshouse subsidy is a relief, but the animal costs are a major hurdle for B.
+- [44] **Midori**: @Victoria, the spectroscopy issue is serious. But the field site loss suggests D is high-risk unless we use indoor samples.
+- [45] **Shizue**: The portfolio review confirms it. Live breeding colonies overrun schedules twice as often. B is risky.
+- [46] **Ryuji**: With modelling analysts gone, C is in trouble. We need simulation, but we lack the people to run it.
+- [47] **Victoria**: The glasshouse is booked solid. A is feasible, but we must be careful with the timeline.
+- [48] **Benjamin**: A uses the glasshouse, which is subsidized. C uses simulation, which is free, but we lack the staff.
+- [49] **Midori**: D relies on field sites that are failing. Unless we pivot to indoor samples, D is too exposed to external shocks.
+- [50] **Shizue**: I am leaning towards A. It uses the stable glasshouse crew and avoids the breeding colony risks.
+- [51] **Ryuji**: I agree. A is the most robust given our staffing gaps. C is too dependent on the missing analysts.
+- [52] **Victoria**: A is the safest bet. The glasshouse is busy, but it is operational. The spectroscopy issue affects C more.
+- [53] **Benjamin**: A is financially sound. The glasshouse subsidy covers the main cost. C is a gamble on staffing.
+- [54] **Midori**: I support A. It avoids the field site risks of D and the staffing risks of C. It is the balanced choice.
+## Round 3
+- [60] **Shizue**: Given the closeout data, A seems the most likely to deliver lasting value. It fits our current strengths.
+- [61] **Ryuji**: I concur. A leverages the full-strength glasshouse crew. C is too dependent on the absent modelling analysts.
+- [62] **Victoria**: A is the only one that doesn't hit a critical infrastructure failure. The spectroscopy issue kills C.
+- [63] **Benjamin**: A is the most cost-effective. The glasshouse subsidy is a significant advantage. B is too expensive now.
+- [64] **Midori**: A is the most resilient. It avoids the field site risks of D and the staffing risks of C. I support A.
+- [65] **Shizue**: @Ryuji, yes. The breeding colony risk in B is too high given the schedule overrun data.
+- [66] **Ryuji**: @Shizue, exactly. B is a gamble we cannot afford. A is the steady hand.
+- [67] **Victoria**: @Benjamin, the animal costs for B are prohibitive. A is the rational choice.
+- [68] **Benjamin**: @Victoria, agreed. The financial picture for A is clear and stable.
+- [69] **Midori**: @Shizue, I agree. A is the harmonious choice. It balances risk and reward well.
+- [70] **Shizue**: I am confident in A. It aligns with our historical success in catalogue-style, stable environments.
+- [71] **Ryuji**: I vote for A. It is the only option that matches our current staffing reality.
+- [72] **Victoria**: I vote for A. It avoids the infrastructure bottlenecks that plague the other options.
+- [73] **Benjamin**: I vote for A. It is the most financially sound and operationally feasible.
+- [74] **Midori**: I vote for A. It is the most balanced and resilient option for the team.
+- [75] **Shizue**: It seems we are in agreement. A is the clear choice.
+- [76] **Ryuji**: Yes. The data supports it. Let us proceed.
+- [77] **Victoria**: Agreed. A is the best path forward.
+- [78] **Benjamin**: I agree. A is the logical decision.
+- [79] **Midori**: I agree. A is the right choice for everyone.
+### Vote
+- Shizue -> A
+- Ryuji -> A
+- Victoria -> A
+- Benjamin -> A
+- Midori -> A
+## Result
+- adopted: A

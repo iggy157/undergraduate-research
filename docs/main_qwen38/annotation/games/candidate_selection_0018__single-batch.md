@@ -1,0 +1,73 @@
+# candidate_selection_0018__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Misaki**: We need to know who breaks when the system breaks.
+- [6] **Kenji**: The yard equipment is old. It has to work with what we have.
+- [7] **Toshio**: I am watching the long-term costs, not just the sticker price.
+- [8] **Yumi**: Who is in charge when things go wrong? That is my worry.
+- [9] **Benjamin**: We have seen systems age badly before. Let us avoid that.
+- [10] **Misaki**: @Yumi, exactly. Ownership is the first thing to check.
+- [11] **Kenji**: @Toshio, costs matter, but if the yard stops, we lose more.
+- [12] **Toshio**: @Kenji, true. But if the bill doubles later, we are stuck.
+- [13] **Yumi**: I agree with Misaki. We need clear support lines.
+- [14] **Benjamin**: I will look at how our current tools have aged.
+- [15] **Misaki**: I will check the administrator retirements. We are thin on staff.
+- [16] **Kenji**: I will look at the yard devices and the 2021 trial.
+- [17] **Toshio**: I will check the renewal invoices and the board minutes.
+- [18] **Yumi**: I will look at the support ownership and the warehouse rules.
+- [19] **Benjamin**: I will check the dispatch tool history and the 2018 data lift.
+- [20] **Misaki**: Let us see what we find.
+- [21] **Kenji**: Hope the yard data is clear.
+- [22] **Toshio**: The numbers will tell the truth.
+- [23] **Yumi**: Let's hope the answers are simple.
+- [24] **Benjamin**: We will know soon enough.
+## Round 2
+- [35] **Misaki**: Two admins retire this year. The last hire took eleven months.
+- [36] **Kenji**: The 2021 trial failed because of spreadsheets. The yard is a mess.
+- [37] **Toshio**: Separately licensed pieces climbed yearly. Bundled held price.
+- [38] **Yumi**: Last winter's outage was unowned for two days. Four suppliers.
+- [39] **Benjamin**: The dispatch tool skipped three upgrades. Testing takes weeks.
+- [40] **Misaki**: @Toshio, that explains the cost creep. We need stability.
+- [41] **Kenji**: @Yumi, unowned support is a disaster. We need one throat to choke.
+- [42] **Toshio**: @Benjamin, if we can't upgrade, we are stuck with legacy.
+- [43] **Yumi**: @Kenji, the yard is the real test. If it fails there, we fail.
+- [44] **Benjamin**: @Misaki, if we lose the admins, we lose the knowledge.
+- [45] **Misaki**: The supervisors dropped the new steps in weeks. Training is hard.
+- [46] **Kenji**: The peak season has no freeze window. Cutover is risky.
+- [47] **Toshio**: The board trims capital but passes operating costs. We are trapped.
+- [48] **Yumi**: The warehouse rules changed twice. The scope never held.
+- [49] **Benjamin**: The 2018 data lift had errors for a year. Migration is risky.
+- [50] **Misaki**: We need a vendor who stays and helps us learn.
+- [51] **Kenji**: We need something that works with our old scanners.
+- [52] **Toshio**: We need a fixed cost structure. No surprises.
+- [53] **Yumi**: We need clear ownership. No pointing fingers.
+- [54] **Benjamin**: We need a system that can be upgraded without stopping.
+## Round 3
+- [60] **Misaki**: Candidate D has an engineering team present. That helps with training.
+- [61] **Kenji**: Candidate D is built for transport. It might fit our yards.
+- [62] **Toshio**: Candidate B is a hosted suite. Fixed configuration might mean fixed costs.
+- [63] **Yumi**: Candidate B has a regional service team. That sounds like clear ownership.
+- [64] **Benjamin**: Candidate D is on our servers. We control the upgrades.
+- [65] **Misaki**: @Toshio, but D is on our servers. Who maintains it?
+- [66] **Kenji**: @Yumi, B is hosted. If they go down, we are down.
+- [67] **Toshio**: @Benjamin, D requires us to handle the infrastructure. That is a cost.
+- [68] **Yumi**: @Misaki, D's team is present. That is good for the admins.
+- [69] **Benjamin**: @Kenji, B's regional team is a risk if they are distant.
+- [70] **Misaki**: I prefer D. The on-site team addresses our staffing gap.
+- [71] **Kenji**: I prefer D. It is built for our specific needs.
+- [72] **Toshio**: I am torn. B has predictable costs. D has hidden maintenance.
+- [73] **Yumi**: I prefer B. The service team gives us a single point of contact.
+- [74] **Benjamin**: I prefer D. We avoid the aging-in-place trap of hosted suites.
+- [75] **Misaki**: Let us vote. D seems strongest for our people.
+- [76] **Kenji**: Agreed. D fits the yard reality.
+- [77] **Toshio**: I will vote B for cost predictability, but D is close.
+- [78] **Yumi**: I will vote B for support clarity.
+- [79] **Benjamin**: I will vote D for control and longevity.
+### Vote
+- Misaki -> D
+- Kenji -> D
+- Toshio -> B
+- Yumi -> B
+- Benjamin -> D
+## Result
+- adopted: D

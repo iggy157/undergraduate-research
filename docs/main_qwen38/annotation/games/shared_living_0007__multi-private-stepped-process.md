@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Misaki**: I worry about how strict rules might strain our daily interactions in the lobby.
+- [6] **Shizue**: The morning rush feels chaotic lately; I just want everyone to leave safely and calmly.
+- [7] **May**: We always debate space, but who actually checks if the building can afford new racks?
+- [8] **George**: I am concerned about the long-term maintenance burden falling on just one person.
+- [9] **Mio**: It feels like the same doors always get the best spots, and I want to fix that.
+- [10] **Misaki**: @May, checking the finances is wise, but we must also look at how people actually use the space.
+- [11] **Shizue**: I agree with Misaki. Watching the morning departures would show us where the real bottlenecks are.
+- [12] **May**: I will look into the ledger. If we can’t pay for repairs, fancy rules are useless.
+- [13] **George**: I need to see the minutes to understand why previous systems quietly stopped working.
+- [14] **Mio**: I want to check the sticker register to see if the complaints about favoritism are actually true.
+- [15] **Misaki**: The rain exposure is also a factor; wet bikes cause more friction between neighbors.
+- [16] **Shizue**: Yes, the rain makes the shoving match worse. I will look into the rain exposure along the rows.
+- [17] **May**: I will also check the ward cycle park to see if off-site options are viable for us.
+- [18] **George**: I will review the treasurer’s file to see if cash collection is a hidden time sink.
+- [19] **Mio**: I will also look at the last year’s complaint log to see the pattern of grievances.
+- [20] **Misaki**: Let’s gather these facts before we decide. I will look into the five years of minutes.
+- [21] **Shizue**: I will also check the morning departures to see the physical flow of people.
+- [22] **May**: Agreed. I will stick to the ledger and the ward park for now.
+- [23] **George**: I will focus on the minutes and the treasurer’s file to assess the workload.
+- [24] **Mio**: I will check the sticker register and the complaint log to verify the fairness issue.
+## Round 2
+- [35] **Misaki**: The minutes show the same flats kept the covered spots for five years without any review.
+- [36] **Shizue**: I saw the shoving match clearly. The rain makes the wet bikes harder to move, causing the delays.
+- [37] **May**: The ledger is empty for repairs. The ward park costs 2,600 yen, and fourteen people are already waiting there.
+- [38] **George**: The treasurer’s file shows three hours a month just for cash. Adding per-place billing would double that load.
+- [39] **Mio**: The sticker register shows three bikes per flat, but the complaint log proves no one is actually managing the spots.
+- [40] **Misaki**: @Mio, if the rules are too strict, we risk turning neighbors into rivals. I want to avoid that.
+- [41] **Shizue**: I understand, Misaki. But the physical struggle is real. We need a system that reduces the morning friction.
+- [42] **May**: If we charge 2,600 yen, we cover the ward park cost and the building gets a surplus. It’s simple math.
+- [43] **George**: But who does the billing? The last two jobs we invented landed on one person and then quietly lapsed.
+- [44] **Mio**: The complaints died because there was no owner. We need a system that doesn’t rely on one person’s goodwill.
+- [45] **Misaki**: A lottery might feel random, but it prevents the quiet resentment of permanent favorites.
+- [46] **Shizue**: A lottery could work if it’s simple. I just want the morning to be peaceful and orderly for everyone.
+- [47] **May**: A lottery is free, but it doesn’t solve the money problem. The building needs income to fix the broken lights.
+- [48] **George**: A lottery requires someone to draw the names and post the results. That is still a recurring task.
+- [49] **Mio**: If we use a lottery, we can rotate the duty. No one person gets stuck with the administrative burden forever.
+- [50] **Misaki**: I think a simple lottery with rotating duties balances fairness and social peace.
+- [51] **Shizue**: I agree. It removes the daily struggle and the hidden resentment. It feels kind to everyone.
+- [52] **May**: I still prefer the paid option. It brings in money and filters out those who don’t really need a spot.
+- [53] **George**: The paid option is too heavy for the treasurer. The lottery is lighter, but we must ensure the rotation works.
+- [54] **Mio**: Let’s go with the lottery. It breaks the cycle of favoritism and shares the small burden fairly among us.
+## Round 3
+- [60] **Misaki**: Option C, the annual lottery, seems best for keeping our relationships calm and avoiding daily conflict.
+- [61] **Shizue**: I agree with Misaki. The lottery removes the morning shoving match and the rain-related stress.
+- [62] **May**: Option A is the only one that actually pays for the building’s needs. The others are just free rides.
+- [63] **George**: Option A is too much work for the treasurer. Option C is manageable if we rotate the drawing duty.
+- [64] **Mio**: Option C is fair. It ensures everyone has an equal chance and stops the same doors from always winning.
+- [65] **Misaki**: @May, I understand the need for funds, but Option A might create more friction than it solves.
+- [66] **Shizue**: The physical comfort of the residents is more important to me than the surplus. Option C brings peace.
+- [67] **May**: If we don’t charge, the building account stays empty. We can’t fix the lights or the racks without money.
+- [68] **George**: The treasurer’s file is clear. Adding billing to the existing three hours a month is a recipe for burnout.
+- [69] **Mio**: The complaint log shows that unpaid, unmanaged spaces just rot. A lottery with rotating duties is the only sustainable path.
+- [70] **Misaki**: I am concerned that Option B, open racks, might lead to hoarding or blocking, which causes new conflicts.
+- [71] **Shizue**: Option B is too chaotic. I want a clear, predictable system. The lottery gives us that stability.
+- [72] **May**: Option B is a disaster. People will just take up more space than they need. It’s a free-for-all.
+- [73] **George**: Option B requires constant monitoring to prevent hoarding. That is a full-time job for someone.
+- [74] **Mio**: Option B is too vague. We need clear rules. The lottery provides a clear, fair, and manageable set of rules.
+- [75] **Misaki**: I will vote for Option C. It balances fairness, social harmony, and manageable administrative effort.
+- [76] **Shizue**: I will also vote for Option C. It brings peace to the mornings and respects everyone’s comfort.
+- [77] **May**: I will vote for Option A. We need the money to maintain the building, and this is the only way to get it.
+- [78] **George**: I will vote for Option C. It is the least burdensome for the association and avoids the pitfalls of the other options.
+- [79] **Mio**: I will vote for Option C. It breaks the cycle of favoritism and ensures equal opportunity for all residents.
+### Vote
+- Misaki -> C
+- Shizue -> C
+- May -> A
+- George -> C
+- Mio -> C
+## Result
+- adopted: C

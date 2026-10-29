@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m so excited to pick our next seed! I really want to know who we can actually hire right now. Who else cares about talent?
+- [6] **George**: I care about the reality behind our past wins. Which companies actually kept their customers?
+- [7] **May**: I’m curious about the cash flow. Who else wants to see how much we can actually borrow against our current holdings?
+- [8] **Rin**: I want to see how our quarter-end reporting works! If we add a new company, will it make closing books harder?
+- [9] **Mizuki**: I’m focused on why past deals stalled. I want to know what external obstacles actually blocked our previous investments from launching.
+- [10] **Mio**: @George, that’s smart! I’m picking “Retained recruiters’ placement times” and “Adviser bench and partner board seats” to see who’s actually available.
+- [11] **George**: I’ll check “Account retention through price rises” and “Delivery records of two holdings.” I need to see if our past successes were real or just luck.
+- [12] **May**: I’m picking “Reserve accounts and follow-on calls” and “Terms of last winter's credit line.” I need to know exactly what’s left in the tank before we write this check.
+- [13] **Rin**: I’ll check “Independent checks on holdings' reported figures” and “Appraisal needs at the last audit.” I need to know if our numbers are real before adding more!
+- [14] **Mizuki**: I’ll check “Security review time before first deployment” and “Profile of the exits and the write-off.” I need to see if external delays are structural or just bad luck.
+- [15] **Mio**: @May, borrowing against holdings sounds risky! I hope we don’t run out of cash before we even start.
+- [16] **George**: @May, I hear your caution. But I worry we’re borrowing against a foundation that might be crumbling. Let’s verify the ground first.
+- [17] **May**: @George, I’m not ignoring the risk, I’m managing it. If the ground crumbles, I need to know exactly how much air we have left to breathe.
+- [18] **Rin**: @May, exactly! If the ground is shaky, I need to know if our numbers are real. I’m checking the audit needs to see if we can trust the books!
+- [19] **Mizuki**: @May, I agree. Knowing our buffer is vital. But I’m focused on the external friction that delayed past deals. I need to see if that’s a structural problem we’re repeating.
+- [20] **Mio**: @Mizuki, structural delays are scary! I hope our new hire isn’t stuck in security limbo. Let’s see what you find!
+- [21] **George**: @Mizuki, I hope those delays are just noise. I’m watching the retention data closely to see if our past stories hold up under scrutiny.
+- [22] **May**: @Mio, I’ll find out if we can actually borrow against these assets. If the numbers are shaky, I need to know our exact runway before we commit.
+- [23] **Rin**: @Mio, I hope the new company doesn’t break our reporting! I’m checking the audit needs to see if we can trust the books!
+- [24] **Mizuki**: @Mio, I’ll confirm if security reviews are the bottleneck. If they are, we need a candidate with a clear path to deployment, not just a good pitch.
+## Round 2
+- [35] **Mio**: Wow, recruiters take four months for field crews! But three logistics advisers are sitting idle. That’s a huge mismatch!
+- [36] **George**: The shopkeeper tool lost a third of its accounts after raising prices. That’s a red flag. I need to know if our other holdings are holding steady.
+- [37] **May**: @Mio, four months is brutal. But my credit line ignores unbilled invoices. We’re borrowing against dead weight, not real cash.
+- [38] **Rin**: @George, that’s scary! My audit check showed hardware needs outside appraisals, adding six weeks! If we pick a tech company, we avoid that nightmare!
+- [39] **Mizuki**: @Rin, that hardware appraisal delay is exactly the external friction I feared. My data shows security reviews take three quarters for regulated clients. We must avoid that bottleneck.
+- [40] **Mio**: @Mizuki, three quarters is forever! But those idle logistics advisers are perfect for field roles. We just need a company that doesn’t need software partners!
+- [41] **George**: The bank tool never missed a release. That consistency matters. I’m glad we’re not chasing the hardware delays again.
+- [42] **May**: @George, consistency is nice, but my reserves are bleeding twice as fast as planned. We need a company that doesn’t force us to call follow-on money early.
+- [43] **Rin**: @May, that’s terrifying! If reserves bleed fast, I can’t trust the numbers. I need to know if our software holdings are hiding bad data!
+- [44] **Mizuki**: @May, that bleeding is critical. My exit data shows back-office tooling sells well, but physical operations fail. We need a software play to avoid that structural risk.
+- [45] **Mio**: @Mizuki, software is safer! But I’m worried about those eleven board seats. Are we over-extended? I need to know if we have bandwidth for new hires!
+- [46] **George**: @Mio, bandwidth is secondary to substance. If the product doesn’t retain users, more board seats won’t save it. I’m watching the data closely.
+- [47] **May**: @Mio, bandwidth is a luxury we can’t afford. My credit line is tight, so I need a candidate that doesn’t demand immediate, heavy capital injections.
+- [48] **Rin**: @Mio, board seats are fine if the numbers are real! My checks show software reports are self-reported, so I can’t verify them. That’s my biggest worry!
+- [49] **Mizuki**: @Rin, self-reported data is a risk, but my exit profile proves software tooling is the only viable path. We must prioritize structural safety over verification anxiety.
+- [50] **Mio**: @Rin, I hear you! But those idle logistics advisers are a goldmine. We need a company where we can actually place people fast, not just verify numbers!
+- [51] **George**: @Mio, placement speed is nice, but retention is truth. If customers leave, no recruiter saves us. I need substance, not just activity.
+- [52] **May**: @Mio, I can’t afford idle assets. I need a candidate that generates cash immediately, not one that drains my reserves while you hunt for hires.
+- [53] **Rin**: @Mio, I can’t place people if the books are a mess! I need clean, verifiable numbers before we add another company.
+- [54] **Mizuki**: @Mio, placement speed is irrelevant if the product stalls in security review. We need a software tool with a clear, fast deployment path to avoid that three-quarter trap.
+## Round 3
+- [60] **Mio**: @Mizuki, I’m leaning toward Ledger Bridge! It’s software, so no security delays. Plus, our idle logistics advisers can help with the physical side of Fabric Loop!
+- [61] **George**: @Mio, Fabric Loop is physical. My data shows hardware and physical operations fail. I need software with proven retention, not a resale channel.
+- [62] **May**: @Mio, Fabric Loop drains cash. I need Ledger Bridge’s software model to avoid follow-on calls. My reserves can’t handle physical ops.
+- [63] **Rin**: @Mio, I’m worried! Ledger Bridge is software, so I can’t verify its numbers. Fabric Loop has physical goods I can check. I need real data!
+- [64] **Mizuki**: @Rin, verification anxiety is secondary to structural risk. Fabric Loop is physical, which my data shows fails. Ledger Bridge is software, avoiding the security bottleneck.
+- [65] **Mio**: @Rin, I get it! But Ledger Bridge is pure software, so no hardware appraisals! Plus, our idle advisers can’t help there, but we don’t need them!
+- [66] **George**: @Rin, I understand your worry. But my data shows physical operations fail. Ledger Bridge is software, avoiding the hardware appraisal nightmare you mentioned.
+- [67] **May**: @Rin, I hear you, but my reserves are bleeding. Ledger Bridge’s software model avoids the heavy capital drain of physical ops. I can’t afford the risk of Fabric Loop.
+- [68] **Rin**: @Mio, wait! Fabric Loop has physical goods I can actually check! Ledger Bridge is just self-reported dashboards. I can’t trust numbers I can’t verify!
+- [69] **Mizuki**: @Rin, I understand your need for verification. But my data shows physical operations fail structurally. Ledger Bridge is software, avoiding the security bottleneck and physical risks.
+- [70] **Mio**: @Rin, I hear you! But Ledger Bridge is pure software, so no hardware appraisals! Plus, our idle advisers can’t help there, but we don’t need them!
+- [71] **George**: @Rin, I respect your caution. But my retention data shows software holds customers better than physical goods. Ledger Bridge fits that pattern.
+- [72] **May**: @Rin, I can’t afford the risk of physical inventory. Ledger Bridge’s software model protects my reserves from the heavy capital drain you’re worried about.
+- [73] **Rin**: @Mizuki, I know software is safer, but I can't verify it! Fabric Loop has physical goods I can check. I need real data, not just dashboards!
+- [74] **Mizuki**: @Rin, I hear your need for tangible proof. But my data shows physical operations fail structurally. Ledger Bridge is software, avoiding the security bottleneck and physical risks.
+- [75] **Mio**: @Rin, I get it! But Ledger Bridge is pure software, so no hardware appraisals! Plus, our idle advisers can’t help there, but we don’t need them!
+- [76] **George**: @Rin, I understand your need for tangible proof. But my data shows physical operations fail structurally. Ledger Bridge is software, avoiding the security bottleneck and physical risks.
+- [77] **May**: @Rin, I hear you, but my reserves are bleeding. Ledger Bridge’s software model protects my reserves from the heavy capital drain you’re worried about.
+- [78] **Rin**: @Mio, I know software is safer, but I can't verify it! Fabric Loop has physical goods I can check. I need real data, not just dashboards!
+- [79] **Mizuki**: @Rin, I understand your need for tangible proof. But my data shows physical operations fail structurally. Ledger Bridge is software, avoiding the security bottleneck and physical risks.
+### Vote
+- Mio -> C
+- George -> C
+- May -> C
+- Rin -> A
+- Mizuki -> C
+## Result
+- adopted: C

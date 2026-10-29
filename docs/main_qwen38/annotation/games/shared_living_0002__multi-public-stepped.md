@@ -1,0 +1,73 @@
+# shared_living_0002__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I hate walking past the corner in August. It smells terrible.
+- [6] **Midori**: I agree, Rin. But we need to know the costs first.
+- [7] **Shunichi**: We still have to live here. Let's not make it worse.
+- [8] **May**: I want to know the time commitment. Who is doing the work?
+- [9] **Asuka**: One house has suffered for years. We need fairness.
+- [10] **Rin**: What if we just move it? Or build a box?
+- [11] **Midori**: Building sounds expensive. I worry about the budget.
+- [12] **Shunichi**: Moving it might just move the problem.
+- [13] **May**: If I have to supervise, I need to know how long.
+- [14] **Asuka**: If we build, who pays? It can't be just one.
+- [15] **Rin**: I want to see what the neighbors did.
+- [16] **Midori**: I will check the ledger and the subsidy.
+- [17] **Shunichi**: I'll look at the complaint log and the frontages.
+- [18] **May**: I need the truck time and the supervised morning data.
+- [19] **Asuka**: I will check the filing requirements and the station minutes.
+- [20] **Rin**: Okay. Let's see what we find.
+- [21] **Midori**: Yes. Let's be fair to everyone's wallets.
+- [22] **Shunichi**: And to our nerves.
+- [23] **May**: And to our mornings.
+- [24] **Asuka**: And to our gates.
+## Round 2
+- [35] **Rin**: I checked the station block. Their bin house smells worse in summer.
+- [36] **Midori**: The ledger shows thirty-four thousand yen a year in extra fees.
+- [37] **Shunichi**: Eleven complaints came from one house. The frontages are uneven.
+- [38] **May**: The truck comes at seven forty. Supervision is fifty minutes a turn.
+- [39] **Asuka**: Building takes four months and five signatures. The station block fought over sweeping.
+- [40] **Rin**: So a box is a trap? The smell gets trapped inside.
+- [41] **Midori**: And the subsidy only covers forty percent. That is a lot of money.
+- [42] **Shunichi**: If we move it, the narrow house gets stuck.
+- [43] **May**: Fifty minutes is fine, but waking up early is not.
+- [44] **Asuka**: If we build, we just create new arguments about cleaning.
+- [45] **Rin**: I don't want a box. I don't want to smell it.
+- [46] **Midori**: I can't afford a big share of a new build.
+- [47] **Shunichi**: Rotating seems fairer, but the narrow frontage is a problem.
+- [48] **May**: I can do the turns, but the early start is tough.
+- [49] **Asuka**: Rotating avoids the permanent burden on one gate.
+- [50] **Rin**: Let's try rotating. But we need a clear schedule.
+- [51] **Midori**: If we rotate, the costs are shared. That helps my budget.
+- [52] **Shunichi**: It keeps us talking. We have to manage the narrow spot.
+- [53] **May**: I can handle the early mornings if we rotate fairly.
+- [54] **Asuka**: It is the only option that doesn't trap the burden.
+## Round 3
+- [60] **Rin**: Option B moves the problem. Option C traps the smell.
+- [61] **Midori**: Option C is too expensive. Option A is too much work.
+- [62] **Shunichi**: Option B is messy, but it shares the pain.
+- [63] **May**: Option A means I wake up early. Option B is better.
+- [64] **Asuka**: Option B is the only fair one. Option C is a trap.
+- [65] **Rin**: I vote for B. I don't want a box.
+- [66] **Midori**: I vote for B. I can't pay for C.
+- [67] **Shunichi**: I vote for B. It keeps us honest.
+- [68] **May**: I vote for B. I can manage the turns.
+- [69] **Asuka**: I vote for B. It is the only equal choice.
+- [70] **Rin**: Everyone agrees on B?
+- [71] **Midori**: Yes. It is the most balanced.
+- [72] **Shunichi**: We will need a strict schedule.
+- [73] **May**: I will draft the rotation.
+- [74] **Asuka**: Ensure the narrow frontage is handled carefully.
+- [75] **Rin**: Great. Let's do it.
+- [76] **Midori**: Thank you all.
+- [77] **Shunichi**: Let's keep the peace.
+- [78] **May**: I'll send the draft.
+- [79] **Asuka**: Agreed.
+### Vote
+- Rin -> B
+- Midori -> B
+- Shunichi -> B
+- May -> B
+- Asuka -> B
+## Result
+- adopted: B

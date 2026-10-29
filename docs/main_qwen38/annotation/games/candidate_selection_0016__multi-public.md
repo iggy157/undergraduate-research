@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I’d like to understand the actual financial scope before we commit. What does the ledger say about this year’s development allocation?
+- [6] **Shion**: I’m less interested in the money than the results. Did any of our previous initiatives actually change patient outcomes, or just add paperwork?
+- [7] **Midori**: I’m curious how new programs affect our daily rosters. Which teams would realistically absorb the extra workload without burning out?
+- [8] **Kenji**: I’m worried about the physical space. Can we actually fit another program into the rooms and parking without everything seizing up?
+- [9] **Shizue**: I worry about what happens after the ribbon is cut. Where do these new arrangements usually break down in the second year?
+- [10] **Jonathan**: I appreciate the focus on outcomes, Shion. But without knowing the financial ceiling, we can't even define what is realistically buildable.
+- [11] **Shion**: @Jonathan, the ceiling is irrelevant if the floor is broken. We need to know if the previous attempts actually worked before we spend a single coin.
+- [12] **Midori**: @Shion, I hear you, but rosters are where the real strain shows. I’d like to see the staffing records to understand the pressure points.
+- [13] **Kenji**: @Midori, that makes sense. But I’m also worried about the booking screens. If the system can’t handle the new flow, we’ll just create more chaos for everyone.
+- [14] **Shizue**: @Kenji, the screens are only part of it. I’ve seen good plans fail because the people running them quietly stopped.
+- [15] **Jonathan**: @Shizue, that is a fair point. I will look into the ledger and the regional fund tariffs to see what we can actually afford.
+- [16] **Shion**: @Jonathan, the ledger is just a number. I need to know if the work actually stuck. I’ll check the readmission figures and the booking system records.
+- [17] **Midori**: @Kenji, the booking system is vital, but I need to see the staffing review to understand where the pressure actually sits.
+- [18] **Kenji**: @Midori, I agree. I’ll check the rooms and parking coverage, plus what the booking system actually records.
+- [19] **Shizue**: @Midori, I will look into the board minutes on the jointly run clinic and the visit completion on the shared nursing round.
+- [20] **Jonathan**: I’ll review the ledger and regional tariffs to see what we can truly afford.
+- [21] **Shion**: I’ll check the readmission figures and the booking system records.
+- [22] **Midori**: I’ll review the therapy and midwifery staffing, plus the ward nursing vacancies.
+- [23] **Kenji**: I’ll check the rooms, parking and shuttle coverage, plus what the booking system records.
+- [24] **Shizue**: I’ll review the board minutes on the jointly run clinic and the visit completion on the shared nursing round.
+## Round 2
+- [35] **Jonathan**: The ledger shows our allocation is down a quarter, and home visits earn no tariff. We must prioritize on-site care to stay solvent.
+- [36] **Shion**: @Jonathan, the data proves the call-back trial worked, but the system erases it. We need a program that leaves a visible, permanent record.
+- [37] **Midori**: @Shion, the staffing data is alarming. Nine nursing posts are vacant, and agency costs are rising. We cannot add burden to already stretched teams.
+- [38] **Kenji**: @Midori, that’s terrifying. My findings show rooms are full by mid-morning and the car park is packed. Adding more on-site patients will just clog the system.
+- [39] **Shizue**: @Kenji, the space is tight, but I found the real danger. Our shared clinic closed because no one owned the rota. We must ensure clear responsibility.
+- [40] **Jonathan**: @Shizue, that ownership gap is exactly why the running costs vanish. We need a model where the budget line is explicitly held by one department, not shared.
+- [41] **Shion**: @Jonathan, a single owner is a trap. The trial proved the work, but the system erased it. We need a program that forces visibility, not just accountability.
+- [42] **Midori**: @Shion, I agree on visibility, but we must respect the staffing reality. Therapy is hemorrhaging staff, while midwifery has unexpected slack. We should leverage that specific surplus rather than straining the wards.
+- [43] **Kenji**: @Midori, that slack is a lifeline! But my data shows the booking system only tracks fixed slots. If we don’t schedule these sessions, they vanish from the records entirely.
+- [44] **Shizue**: @Midori, that slack is precious. But remember, our shared round lost a third of visits to simple logistics. We must plan for the messiness of real life, not just the ideal schedule.
+- [45] **Jonathan**: @Midori, that slack is key. But remember, home visits earn nothing. We must use that midwifery capacity for on-site sessions to generate the revenue we desperately need.
+- [46] **Shion**: @Jonathan, you’re chasing revenue while ignoring the data. The trial worked, but the system erased it. We need a program that forces visibility, not just accountability.
+- [47] **Midori**: @Jonathan, I hear the financial urgency, but we cannot ignore the human cost. If we force midwifery into on-site revenue generation, we risk burning out the only team with capacity.
+- [48] **Kenji**: @Midori, I agree. But if we don’t use fixed slots, the work disappears from the records. We need a structure that fits the current chaos.
+- [49] **Shizue**: @Kenji, you are right. The shared round failed because we ignored the messiness of real life. We must build in slack for the unexpected.
+- [50] **Jonathan**: @Shion, I hear your frustration, but the ledger is unforgiving. We must choose a program that generates on-site revenue to cover the running costs, or it will fail.
+- [51] **Shion**: @Jonathan, revenue is a byproduct, not the goal. If the work isn’t recorded, it didn’t happen. We need a program that fits the system’s rigid logic, or it will vanish like the trial.
+- [52] **Midori**: @Shion, I agree. We must use the midwifery slack for scheduled, on-site sessions. This respects the staffing reality while ensuring the work is visible and sustainable.
+- [53] **Kenji**: @Midori, exactly! Scheduled slots are the only way to keep it visible. But with rooms full by mid-morning, can we actually fit these sessions without causing a bottleneck?
+- [54] **Shizue**: @Kenji, the rooms are tight, but the midwifery slack is real. We must schedule these sessions carefully to avoid the bottlenecks that broke our previous shared efforts.
+## Round 3
+- [60] **Jonathan**: @Midori, the Perinatal Service fits our needs. It uses the midwifery slack, stays on-site for tariffs, and avoids the unfunded home visit trap.
+- [61] **Shion**: @Jonathan, you’re ignoring the data. The trial proved home visits work, but the system erased them. Option A is the only one that actually changes patient outcomes, regardless of your revenue obsession.
+- [62] **Midori**: @Shion, I understand the trial’s success, but we cannot ignore the nine vacant nursing posts. Option C uses the midwifery slack, avoiding the burnout risk that Option A would impose on our depleted ward teams.
+- [63] **Kenji**: @Shion, I get the outcome point, but Option A visits homes, which means no tariff and no fixed slot. It would vanish from our records and clog the already full parking.
+- [64] **Shizue**: @Shion, the trial’s success is precious, but our shared clinic died because no one owned the rota. Option C has clear departments, unlike the fragile home visits.
+- [65] **Jonathan**: @Shion, the trial’s success is undeniable, but it vanished because it lacked a sustainable financial model. Option C generates on-site revenue, ensuring the program survives beyond the initial enthusiasm.
+- [66] **Shion**: @Jonathan, you mistake visibility for value. The trial proved the work, but the system erased it. Option A is the only one that actually changes patient outcomes, regardless of your revenue obsession.
+- [67] **Midori**: @Shion, I hear your passion, but we cannot ignore the staffing reality. Option C leverages the midwifery slack, whereas Option A would crush our already depleted ward teams.
+- [68] **Kenji**: @Shion, Option A visits homes, so no tariff and no fixed slot. It vanishes from records and clogs the already full parking.
+- [69] **Shizue**: @Shion, I understand your passion, but the shared clinic failed because ownership was unclear. Option C assigns clear duties to midwifery and pediatrics, preventing the second-year collapse I fear.
+- [70] **Jonathan**: @Shion, I respect the trial’s legacy, but it failed financially. Option C is the only choice that secures on-site tariffs and utilizes the midwifery slack, ensuring long-term viability.
+- [71] **Shion**: @Jonathan, you mistake visibility for value. The trial proved the work, but the system erased it. Option A is the only one that actually changes patient outcomes, regardless of your revenue obsession.
+- [72] **Midori**: @Shion, I hear your passion, but we cannot ignore the staffing reality. Option C leverages the midwifery slack, whereas Option A would crush our already depleted ward teams.
+- [73] **Kenji**: @Shion, Option A has no fixed slots, so it vanishes from the booking system. Option C uses scheduled classes, keeping the work visible and fitting our tight space.
+- [74] **Shizue**: @Shion, I hear your heart, but the shared clinic died from unclear ownership. Option C gives midwifery and pediatrics clear, separate duties, preventing the second-year collapse I fear.
+- [75] **Jonathan**: @Shion, the ledger is unforgiving. Option C is the only path that secures on-site tariffs and utilizes the midwifery slack, ensuring long-term viability. I vote for C.
+- [76] **Shion**: @Jonathan, you mistake visibility for value. The trial proved the work, but the system erased it. Option A is the only one that actually changes patient outcomes, regardless of your revenue obsession. I vote for A.
+- [77] **Midori**: @Shion, I hear your passion, but the staffing data is clear. Option C uses the midwifery slack, while Option A would crush our depleted ward teams. I vote for C.
+- [78] **Kenji**: @Shion, I get the outcome point, but Option A visits homes, which means no tariff and no fixed slot. It would vanish from our records and clog the already full parking. I vote for C.
+- [79] **Shizue**: @Shion, I hear your heart, but the shared clinic died from unclear ownership. Option C gives midwifery and pediatrics clear, separate duties, preventing the second-year collapse I fear. I vote for C.
+### Vote
+- Jonathan -> C
+- Shion -> A
+- Midori -> C
+- Kenji -> C
+- Shizue -> C
+## Result
+- adopted: C

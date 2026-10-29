@@ -1,0 +1,73 @@
+# shared_living_0025__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I hate doing math before turning on the lights. Let's fix this so we don't freeze.
+- [6] **Ryuji**: I need to see the actual yearly cost before agreeing to anything new.
+- [7] **Rin**: Who is doing the paperwork? I don't want to be the one chasing everyone.
+- [8] **Shunichi**: The old split is unfair now. We need to check if people are actually paying their fair share.
+- [9] **Misaki**: Money fights are ruining our vibe. Let's look at the data to stop the tension.
+- [10] **Mio**: @Ryuji, if we don't act now, winter will be miserable again.
+- [11] **Ryuji**: @Mio, I hear you, but I need the numbers to justify the change.
+- [12] **Rin**: @Shunichi, if we meter rooms, does that mean I have to log everything?
+- [13] **Shunichi**: @Rin, it depends on the method. I want to know who uses what.
+- [14] **Misaki**: @Ryuji, please check the history. It might explain the recent arguments.
+- [15] **Mio**: I just want to feel safe turning the heat on without guilt.
+- [16] **Ryuji**: I will look into the costs and the past bills.
+- [17] **Rin**: I need to know how much time this takes. I have school.
+- [18] **Shunichi**: I will check the usage patterns. It’s the only way to be fair.
+- [19] **Misaki**: I will look at how the money issues have affected us recently.
+- [20] **Mio**: Okay, let's see what we find.
+- [21] **Ryuji**: Agreed. Data first.
+- [22] **Rin**: Please don't make it complicated.
+- [23] **Shunichi**: Fairness requires effort.
+- [24] **Misaki**: Let's keep it simple and clear.
+## Round 2
+- [35] **Mio**: The cooler notice stayed up all summer. People were sweating to save money.
+- [36] **Ryuji**: The bills swing wildly. February was 29k, August 9k. Meters cost 34k per room.
+- [37] **Rin**: At another house, settling takes forty minutes. The template trial was a nightmare.
+- [38] **Shunichi**: One room uses four times more than another. The last move-in took three weeks to settle.
+- [39] **Misaki**: Three months were paid late because people questioned the amounts. It’s causing stress.
+- [40] **Mio**: @Ryuji, 34k per room is a lot. Can we afford that upfront?
+- [41] **Ryuji**: @Mio, it’s expensive, but the variance is huge. We need to see if it’s worth it.
+- [42] **Rin**: @Shunichi, if one room uses so much, shouldn't they pay more?
+- [43] **Shunichi**: @Rin, exactly. But how do we measure it without constant arguing?
+- [44] **Misaki**: @Ryuji, the late payments show the current system is broken.
+- [45] **Mio**: I don't want to pay for someone else's heater.
+- [46] **Ryuji**: A fixed seasonal rate might smooth out the peaks and troughs.
+- [47] **Rin**: If we do meters, I need a simple way to track it.
+- [48] **Shunichi**: Meters are accurate but expensive. Fixed rates are simpler but maybe unfair.
+- [49] **Misaki**: Simplicity might be better for our relationships.
+- [50] **Mio**: I lean towards something that doesn't require daily math.
+- [51] **Ryuji**: I need to weigh the upfront cost against the yearly savings.
+- [52] **Rin**: I vote for whatever takes the least time to manage.
+- [53] **Shunichi**: I want accuracy, but I also want peace.
+- [54] **Misaki**: Let's choose the option that stops the arguments.
+## Round 3
+- [60] **Mio**: Option A, Seasonal Fixed Rate, sounds good. No daily stress.
+- [61] **Ryuji**: Option B, Per-Room Metering, is fair but costly. Option A is cheaper.
+- [62] **Rin**: Option C, Flat Share, is easiest but ignores usage. Option A is a middle ground.
+- [63] **Shunichi**: Option B is the only truly fair one. But the cost is high.
+- [64] **Misaki**: Option A seems to reduce the friction. I prefer it.
+- [65] **Mio**: @Ryuji, is the upfront cost of B really worth it?
+- [66] **Ryuji**: @Mio, it depends on how much we save. But A has no upfront cost.
+- [67] **Rin**: @Shunichi, if B is too hard to manage, it will fail.
+- [68] **Shunichi**: @Rin, it’s not hard, just expensive. But A might hide the real usage.
+- [69] **Misaki**: @Mio, I agree. A feels safer for our dynamic.
+- [70] **Mio**: I’m voting for A. It’s predictable.
+- [71] **Ryuji**: I’m voting for A. The variance is high, but B is too expensive.
+- [72] **Rin**: I’m voting for A. It’s less work than B.
+- [73] **Shunichi**: I’m voting for B. It’s the only fair way.
+- [74] **Misaki**: I’m voting for A. It reduces conflict.
+- [75] **Mio**: Let’s go with A.
+- [76] **Ryuji**: Agreed.
+- [77] **Rin**: Okay.
+- [78] **Shunichi**: Fine.
+- [79] **Misaki**: Good.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> B
+- Misaki -> A
+## Result
+- adopted: A

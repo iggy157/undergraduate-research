@@ -1,0 +1,73 @@
+# shared_living_0018__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The current first-come-first-served model is inefficient. We need data to define the room's primary function.
+- [6] **Jonathan**: I agree. We are working close together yet remain strangers. We need a space for difficult talks.
+- [7] **May**: I am worried about the hidden labor. Who cleans the crumbs? Who moves the bins?
+- [8] **Shunichi**: We are bleeding money on a room that fails its core purpose. I need the invoices.
+- [9] **Servas**: The noise leaks into my workspace. I need to understand the physical source of the disturbance.
+- [10] **Ryuji**: @May, your concern about cleanup is valid. We should track who uses the space and for how long.
+- [11] **Jonathan**: @Ryuji, tracking usage helps, but we also need to know where awkward conversations currently happen.
+- [12] **May**: I will look into the tally of use. I want to see who is actually here.
+- [13] **Shunichi**: I will pull the invoices for outside hire. We need to see the real cost of this mess.
+- [14] **Servas**: I will check the facilities callouts. The sound and mess are physical problems, not just social ones.
+- [15] **Ryuji**: @Shunichi, cost is important, but usage patterns will tell us if the room is even needed.
+- [16] **Jonathan**: @Servas, the physical environment matters, but the lack of privacy is the bigger issue.
+- [17] **May**: I will also look at the crumbs and bins. It’s a small thing, but it eats my time.
+- [18] **Shunichi**: I will also check the quotes for the two fit-outs. We need to know the price of fixing it.
+- [19] **Servas**: I will also look at the partition wall. It is the barrier between us and the chaos.
+- [20] **Ryuji**: Let’s gather these facts. We cannot decide based on feelings alone.
+- [21] **Jonathan**: Agreed. Facts will help us find a place where we can actually speak.
+- [22] **May**: I just want to stop doing the work that isn’t mine. Let’s see the numbers.
+- [23] **Shunichi**: The numbers will show us we are overpaying for underperformance. Let’s see the data.
+- [24] **Servas**: The data will show us where the peace is breaking down. Let’s look at the walls.
+## Round 2
+- [35] **Ryuji**: The tally shows two people dominate the room. The unplanned talk has moved to the printer.
+- [36] **Jonathan**: I found the last awkward conversation happened in front of everyone. We have no private space.
+- [37] **May**: The crumbs are everywhere. I am spending twenty minutes a day cleaning up after others.
+- [38] **Shunichi**: We paid 68,000 yen for outside hire. The fit-out quotes are 141,000 and 96,000.
+- [39] **Servas**: The wall is thin. I hear everything. The callouts show the equipment is the real noise source.
+- [40] **Ryuji**: @Shunichi, those costs are high. But the usage data shows the room is underutilized by most.
+- [41] **Jonathan**: @Ryuji, underutilized for work, but overutilized for silence. We need a place to talk.
+- [42] **May**: @Shunichi, if we pay for a fit-out, who cleans it? I am not doing it.
+- [43] **Shunichi**: @May, the 96,000 yen option includes a fridge. That solves the food waste issue.
+- [44] **Servas**: @Shunichi, the fridge is a source of noise. The wall is the bigger problem.
+- [45] **Ryuji**: We have three options. A dedicated meeting room, a quiet zone, or a shared lounge.
+- [46] **Jonathan**: The shared lounge is where we are now. It fails. We need a dedicated space for talk.
+- [47] **May**: The quiet zone saves my time. No one is there to clean up after.
+- [48] **Shunichi**: The dedicated meeting room costs 141,000. The quiet zone is cheaper. The lounge is free but broken.
+- [49] **Servas**: The quiet zone respects the wall. It stops the sound from leaking into my desk.
+- [50] **Ryuji**: Let’s vote. The data supports a structured approach. We need to pick one.
+- [51] **Jonathan**: I vote for the space that allows us to be human. The dedicated room.
+- [52] **May**: I vote for the quiet zone. It stops the labor. It stops the crumbs.
+- [53] **Shunichi**: I vote for the dedicated room. It is the only one that justifies the cost.
+- [54] **Servas**: I vote for the quiet zone. It protects the peace. It respects the thin wall.
+## Round 3
+- [60] **Ryuji**: Option C removes the ambiguity. A shared calendar means no one is left to guess who is using the room.
+- [61] **Jonathan**: Option C gives us a place to say the hard things. It turns the room into a tool for connection.
+- [62] **May**: Option B is the only one that doesn’t add to my workload. No one is cooking, no one is cleaning.
+- [63] **Shunichi**: Option C is the only one that justifies the 141,000 yen. It creates a professional asset.
+- [64] **Servas**: Option B is the only one that respects the wall. It stops the sound from reaching my desk.
+- [65] **Ryuji**: @May, Option B is efficient, but it ignores the need for collaboration. We are a team.
+- [66] **Jonathan**: @Ryuji, I agree. We are strangers because we have no place to talk. Option C fixes that.
+- [67] **May**: @Ryuji, I am not a team player if the team makes me clean up. Option B is my only choice.
+- [68] **Shunichi**: @May, the cost of Option C is high, but the cost of the status quo is higher.
+- [69] **Servas**: @Shunichi, the cost of noise is higher than the cost of a wall. Option B is the only peace.
+- [70] **Ryuji**: The data shows the room is used by two people. Option C makes that usage accountable.
+- [71] **Jonathan**: The data shows the awkward conversations happen in public. Option C makes them private.
+- [72] **May**: The data shows I am cleaning up after everyone. Option B stops that.
+- [73] **Shunichi**: The data shows we are paying for outside hire. Option C stops that.
+- [74] **Servas**: The data shows the wall is thin. Option B stops the sound.
+- [75] **Ryuji**: I am voting for Option C. It is the most rational choice.
+- [76] **Jonathan**: I am voting for Option C. It is the most human choice.
+- [77] **May**: I am voting for Option B. It is the only choice that respects my time.
+- [78] **Shunichi**: I am voting for Option C. It is the only choice that respects the money.
+- [79] **Servas**: I am voting for Option B. It is the only choice that respects the peace.
+### Vote
+- Ryuji -> C
+- Jonathan -> C
+- May -> B
+- Shunichi -> C
+- Servas -> B
+## Result
+- adopted: C

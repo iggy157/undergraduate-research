@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: I need to verify if we have the crew capacity to actually run these plans.
+- [6] **Takumi**: We keep proposing new things without checking if the old ones failed. I want the pilots.
+- [7] **Toshio**: I am concerned about the administrative hurdles. Who else has to say yes to these changes?
+- [8] **Daisuke**: I worry about where the money comes from. I want to see the capital ledger balances.
+- [9] **Sakura**: I want to know where passengers actually lose time, not just where they complain about crowds.
+- [10] **Victoria**: @Daisuke, if the ledger is tight, we cannot afford to hire new staff for these roles.
+- [11] **Takumi**: @Toshio, the committee minutes might show why previous proposals were rejected. That is useful context.
+- [12] **Toshio**: @Takumi, yes. I will look at the joint operators' committee minutes to see the approval chain.
+- [13] **Daisuke**: @Victoria, I agree. I will also check the ticketing contractor fees to see if we can save there.
+- [14] **Sakura**: I will look at the journey audits and the timed runs to find the real bottlenecks.
+- [15] **Victoria**: I will check the roster books for the late-turn pool to see who is actually available.
+- [16] **Takumi**: I will look into the two pilots from eight years ago and the completion records of the accessibility programme.
+- [17] **Toshio**: I will also look into the contingency pricing inside the pre-war shells to understand the ground risks.
+- [18] **Daisuke**: I am still thinking about the long-term costs. I will stick to the ledger and the contractor fees.
+- [19] **Sakura**: I am excited to see if the stopwatch data matches the complaints. Let's see what the audits say.
+- [20] **Victoria**: It is better to know the limits now than to promise what we cannot deliver later.
+- [21] **Takumi**: I refuse to let us repeat the same mistakes. The history is right there if we look.
+- [22] **Toshio**: I prefer to know the hidden costs before we commit. It is safer that way.
+- [23] **Daisuke**: I just want to avoid another argument about which department pays for this.
+- [24] **Sakura**: I hope the data shows us the truth. I am ready to look into the numbers.
+## Round 2
+- [35] **Victoria**: The late-turn pool is empty. We are using overtime to cover the final departures and the overnight works.
+- [36] **Takumi**: The pilots from eight years ago actually worked. The ferry payment trial closed without technical faults.
+- [37] **Toshio**: The committee minutes show the ferry and rail back offices never agreed common passenger data terms.
+- [38] **Daisuke**: The capital ledger still carries a ring-fenced construction balance from a lapsed grant.
+- [39] **Sakura**: The audits show passengers lose most minutes waiting for connections, not paying. The timed runs confirm the surface route is slow.
+- [40] **Victoria**: @Takumi, if the pilots worked, why did we not scale them? I suspect the crew shortage stopped us.
+- [41] **Takumi**: @Victoria, the accessibility records show two lane-priority stretches were returned to mixed traffic. We gave up on them.
+- [42] **Toshio**: @Takumi, the pre-war shells are a trap. Bidders price heavy contingency because of unrecorded voids.
+- [43] **Daisuke**: @Toshio, that explains the contingency. But the ticketing fees are eating the paving budget.
+- [44] **Sakura**: @Daisuke, if the fees are high, we should fix the connection waits first. That is where the time goes.
+- [45] **Victoria**: I cannot promise new services if the maintenance contract is already stretched. The lift crew has spare capacity, though.
+- [46] **Takumi**: The ferry pilot proves the tech works. We just need to stop ignoring the closure reports.
+- [47] **Toshio**: The roadway consents are already delegated to the authority. That is a clear path.
+- [48] **Daisuke**: The ring-fenced balance is for construction. We can use it for the ferry without touching the operating subsidy.
+- [49] **Sakura**: The surface route is the real problem. The timed runs show it is a third slower. We need to fix that.
+- [50] **Victoria**: I am worried about the crew. If we add more services, the late-turn pool will collapse.
+- [51] **Takumi**: I am confident the ferry pilot is the right move. It is proven and the money is there.
+- [52] **Toshio**: I am cautious about the pre-war shells. The ground risks are too high. The roadway is safer.
+- [53] **Daisuke**: I am relieved the ring-fenced funds are available. It avoids the subsidy argument.
+- [54] **Sakura**: I am excited about the ferry. It addresses the real bottleneck and uses the available funds.
+## Round 3
+- [60] **Victoria**: Option B is impossible. The late-turn pool is empty. We cannot extend hours without more staff.
+- [61] **Takumi**: Option D is the one. The ferry pilot proved the tech works. The ring-fenced funds cover it.
+- [62] **Toshio**: Option C is risky. The pre-war shells have unrecorded voids. The contingency pricing is too high.
+- [63] **Daisuke**: Option D uses the ring-fenced construction balance. It avoids the operating subsidy argument.
+- [64] **Sakura**: Option A addresses the surface route bottleneck. The timed runs show it is a third slower.
+- [65] **Victoria**: @Takumi, the ferry pilot worked, but the committee minutes show the data terms were never agreed.
+- [66] **Takumi**: @Victoria, the closure reports say the tech worked. The data terms are a separate issue we can fix.
+- [67] **Toshio**: @Takumi, the data terms are a hidden hurdle. The committee minutes show they were never agreed.
+- [68] **Daisuke**: @Toshio, the ring-fenced funds are for construction. The fare platform is a construction project.
+- [69] **Sakura**: @Daisuke, the fare platform fixes the payment queues, but the audits show the real time loss is in connections.
+- [70] **Victoria**: Option A is staffable. The lift and escalator maintenance contract has spare capacity. The bus corridor uses existing crews.
+- [71] **Takumi**: Option D is the only one with proven tech and available funds. I am voting for it.
+- [72] **Toshio**: Option A is the safest. The roadway consents are already delegated. The ground risks are low.
+- [73] **Daisuke**: Option D is the only one that uses the ring-fenced funds without touching the subsidy. I am voting for it.
+- [74] **Sakura**: Option A is the only one that addresses the real bottleneck. The timed runs show the surface route is slow.
+- [75] **Victoria**: I am voting for Option A. It is staffable and addresses the surface route bottleneck.
+- [76] **Takumi**: I am voting for Option D. It is proven and the money is there.
+- [77] **Toshio**: I am voting for Option A. It is the safest path. The consents are clear.
+- [78] **Daisuke**: I am voting for Option D. It avoids the subsidy argument.
+- [79] **Sakura**: I am voting for Option A. It fixes the real time loss. The audits show the connections are the problem.
+### Vote
+- Victoria -> A
+- Takumi -> D
+- Toshio -> A
+- Daisuke -> D
+- Sakura -> A
+## Result
+- adopted: A

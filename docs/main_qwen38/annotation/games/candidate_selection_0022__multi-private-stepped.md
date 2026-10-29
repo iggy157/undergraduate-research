@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m worried about how long it takes to find the right people for these teams.
+- [6] **George**: We need to verify if our past successes actually held onto their customers.
+- [7] **May**: Honestly, I’m just counting the cash. Where is the money going every quarter?
+- [8] **Rin**: I’m scared our books are a mess. I want to see how we close them.
+- [9] **Mizuki**: I’m concerned about why our previous deals took so long to launch.
+- [10] **Mio**: @George, do you think customer loyalty is the real bottleneck here?
+- [11] **George**: @Mio, it’s often the quiet killer. I want to check the retention data.
+- [12] **May**: @Rin, if the books are messy, I’m not signing off on anything.
+- [13] **Rin**: @May, I agree. I need to know if we can trust our own numbers.
+- [14] **Mizuki**: @Mio, I’m looking at the timeline gaps. It’s not just hiring, it’s execution.
+- [15] **Mio**: @Mizuki, execution is key, but you can’t execute without the right staff.
+- [16] **George**: I’ll look into the delivery records. We need to see what actually shipped.
+- [17] **May**: I’m going to check the reserve accounts. I need to know our safety net.
+- [18] **Rin**: I’m checking the independent checks. I need to verify the reported figures.
+- [19] **Mizuki**: I’m looking into the security review time. That’s usually the hidden delay.
+- [20] **Mio**: I’m going to look at the retained recruiters. I need to know who is actually available.
+- [21] **George**: I’ll also check the account retention. I want to see who stayed.
+- [22] **May**: I’m also checking the terms of the credit line. I need to know what we can borrow.
+- [23] **Rin**: I’m also checking the appraisal needs. I need to know what the auditors want.
+- [24] **Mizuki**: I’m also checking the delivery records. I need to see the actual timeline.
+## Round 2
+- [35] **Mio**: I found that our recruiters can’t find field crews fast enough. That’s a huge risk.
+- [36] **George**: I checked the delivery records. One missed by five months, one never missed.
+- [37] **May**: I looked at the reserves. We’re bleeding cash faster than expected. The credit line is useless for subscriptions.
+- [38] **Rin**: I found that software companies report only their own dashboard figures. No independent checks. That’s terrifying.
+- [39] **Mizuki**: I found that security reviews take three quarters for regulated customers. That’s the real delay.
+- [40] **Mio**: @George, if one missed by five months, that’s a red flag for execution.
+- [41] **George**: @Mio, exactly. But the other one never missed. That’s the difference.
+- [42] **May**: @Rin, if we can’t trust the numbers, how do we value the company?
+- [43] **Rin**: @May, we can’t. I need to see if the auditors can verify anything.
+- [44] **Mizuki**: @George, the security review is the bottleneck. We need to know if the candidate has that.
+- [45] **Mio**: @Mizuki, if security is the bottleneck, we need a team that can handle it.
+- [46] **George**: I’m looking at the account retention. I want to see who stayed.
+- [47] **May**: I’m looking at the terms of the credit line. I need to know what we can borrow.
+- [48] **Rin**: I’m looking at the appraisal needs. I need to know what the auditors want.
+- [49] **Mizuki**: I’m looking at the delivery records. I need to see the actual timeline.
+- [50] **Mio**: I’m going to look at the retained recruiters. I need to know who is actually available.
+- [51] **George**: I’ll also check the account retention. I want to see who stayed.
+- [52] **May**: I’m also checking the terms of the credit line. I need to know what we can borrow.
+- [53] **Rin**: I’m also checking the appraisal needs. I need to know what the auditors want.
+- [54] **Mizuki**: I’m also checking the delivery records. I need to see the actual timeline.
+## Round 3
+- [60] **Mio**: I’m leaning toward D. They need staffing software, which is exactly what our recruiters can handle.
+- [61] **George**: I’m looking at B. The sensors are in the field, so retention should be high.
+- [62] **May**: I’m worried about A. Resale is cash-heavy, and our credit line doesn’t cover that.
+- [63] **Rin**: I’m scared of C. It’s pure software. No independent checks. I can’t trust the numbers.
+- [64] **Mizuki**: I’m looking at D. Medical clinics have strict security reviews. That’s the delay I’m worried about.
+- [65] **Mio**: @Mizuki, if D has strict security, that’s a problem. But the staffing is key.
+- [66] **George**: @Mio, B is better. The sensors are physical. They can’t just cancel.
+- [67] **May**: @George, B is subscription-based. Our credit line treats that as worthless. That’s a problem.
+- [68] **Rin**: @May, I agree. C is the worst. No physical assets. No independent checks.
+- [69] **Mizuki**: @George, B’s sensors are in the field. That’s a good sign for retention.
+- [70] **Mio**: @Rin, if C is the worst, we should avoid it. D is the next best.
+- [71] **George**: I’m sticking with B. The physical assets are the key.
+- [72] **May**: I’m leaning toward A. It’s cash-heavy, but we can manage it.
+- [73] **Rin**: I’m leaning toward D. It’s software, but it’s for clinics. That’s a stable market.
+- [74] **Mizuki**: I’m leaning toward D. The security review is a risk, but the market is stable.
+- [75] **Mio**: I’m voting for D. The staffing is the key.
+- [76] **George**: I’m voting for B. The physical assets are the key.
+- [77] **May**: I’m voting for A. The cash flow is the key.
+- [78] **Rin**: I’m voting for D. The stability is the key.
+- [79] **Mizuki**: I’m voting for D. The market is the key.
+### Vote
+- Mio -> D
+- George -> B
+- May -> A
+- Rin -> D
+- Mizuki -> D
+## Result
+- adopted: D

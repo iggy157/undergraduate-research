@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: We must ensure the exhibition fits our current team's capacity, not just our dreams.
+- [6] **Shion**: I am watching the logistics. Past failures were rarely about the art, but the arrival.
+- [7] **May**: Honestly, I want to know what actually made people smile last year, not just the press.
+- [8] **Misaki**: The floor has limits. I need to know what the structure can actually bear before we promise space.
+- [9] **Sakura**: I am curious where the money goes. It feels like it vanishes before the season ends.
+- [10] **Shizue**: @Misaki, if the structure is weak, we cannot ask the volunteers to do more.
+- [11] **Shion**: @Sakura, money is easy to track. Delays are where the reputation dies.
+- [12] **May**: @Shizue, I agree. If the team is tired, the show feels tired too.
+- [13] **Misaki**: @Shion, delays are bad, but a cracked floor is worse. I will check the survey.
+- [14] **Sakura**: @Shion, I will look at the invoices. I want to see the quiet leaks.
+- [15] **Shizue**: I will look at the volunteer roster. I need to know who is actually there.
+- [16] **Shion**: I will check the lender paperwork. I want to see where the clock stopped.
+- [17] **May**: I will read the visitor comment slips. I want to hear the real voices.
+- [18] **Misaki**: I will check the structural survey. I need to know the weight limits of the bay.
+- [19] **Sakura**: I will check the loan transport costs. I want to see the hidden fees.
+- [20] **Shizue**: Let us see what the numbers say about our people.
+- [21] **Shion**: The paperwork will tell us if we are being lied to by the calendar.
+- [22] **May**: The slips will tell us if we are talking to ourselves.
+- [23] **Misaki**: The survey will tell me if the building is ready to hold the weight.
+- [24] **Sakura**: The costs will tell me if we are paying for air.
+## Round 2
+- [35] **Shizue**: The lab is drowning. Two hundred pieces wait, and we have only one person to save them.
+- [36] **Shion**: @Shizue, that is a staffing problem. I found the real killer is the paperwork.
+- [37] **May**: @Shion, I found something else. People don't come back for the objects. They come back for the people.
+- [38] **Misaki**: @Shion, the paperwork is a symptom. The building is the body. It is tired.
+- [39] **Sakura**: @Shion, I found the money. It is not in the art. It is in the boxes.
+- [40] **Shizue**: @Sakura, if the boxes cost more than the art, we are buying a headache.
+- [41] **Shion**: @Sakura, exactly. The boxes are where the season dies. I saw the dates slip.
+- [42] **May**: @Shizue, the lab is full, but the people are empty. We need to fill the room with life.
+- [43] **Misaki**: @Shizue, the lab is full because the displays break. I saw the logs.
+- [44] **Sakura**: @Shion, the boxes are the tax. I want to pay less tax.
+- [45] **Shizue**: We cannot ask one person to save two hundred pieces. We need a show that needs less saving.
+- [46] **Shion**: @Shizue, I agree. A show that arrives on time is a show that needs less saving.
+- [47] **May**: @Shizue, a show that needs less saving is a show that needs more talking.
+- [48] **Misaki**: @Shizue, a show that needs less saving is a show that does not break the floor.
+- [49] **Sakura**: @Shizue, a show that needs less saving is a show that does not eat the budget.
+- [50] **Shizue**: Let us choose a show that fits the hands we have, not the hands we wish we had.
+- [51] **Shion**: Let us choose a show that arrives when it says it will.
+- [52] **May**: Let us choose a show that makes people want to stay and talk.
+- [53] **Misaki**: Let us choose a show that the floor can hold without a shoring crew.
+- [54] **Sakura**: Let us choose a show that does not hide its costs in the crates.
+## Round 3
+- [60] **Shizue**: Option A uses our own people. The craftspeople are here. The lab stays quiet.
+- [61] **Shion**: @Shizue, Option A has no shipping. No shipping means no delays. It is the only safe choice.
+- [62] **May**: @Shizue, Option A is the only one where the room is full of voices. I want that.
+- [63] **Misaki**: @Shizue, Option A is light. The floor will not care. The bay will not break.
+- [64] **Sakura**: @Shizue, Option A is the only one where the money stays in the room. No boxes.
+- [65] **Shizue**: @Misaki, Option B puts the lab in the room. That is asking the one person to do two jobs.
+- [66] **Shion**: @Misaki, Option B is a trap. The conservation bench is a promise we cannot keep.
+- [67] **May**: @Misaki, Option B is a museum about the museum. It is clever, but it is not warm.
+- [68] **Misaki**: @Shizue, Option B is heavy. The reconstructions are stone. The floor will groan.
+- [69] **Sakura**: @Shizue, Option B is a money pit. The bench is a cost we cannot see until the invoice.
+- [70] **Shizue**: @Sakura, Option C is a nightmare. The rigging will break. The lab will be full of repairs.
+- [71] **Shion**: @Sakura, Option C is a risk. The rigging is a promise we cannot keep.
+- [72] **May**: @Sakura, Option C is a dark room. People will not talk in the dark. They will look at the light.
+- [73] **Misaki**: @Sakura, Option C is a weight. The rigging is a load. The floor will not hold it.
+- [74] **Sakura**: @Shizue, Option C is a tax. The rigging is a cost we cannot see until the invoice.
+- [75] **Shizue**: Option A is the only one that fits the hands we have. Let us choose the people.
+- [76] **Shion**: Option A is the only one that arrives on time. Let us choose the safety.
+- [77] **May**: Option A is the only one that makes people want to stay. Let us choose the warmth.
+- [78] **Misaki**: Option A is the only one the floor can hold. Let us choose the weight.
+- [79] **Sakura**: Option A is the only one that does not hide its costs. Let us choose the money.
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

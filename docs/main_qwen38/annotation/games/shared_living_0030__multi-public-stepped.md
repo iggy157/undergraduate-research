@@ -1,0 +1,73 @@
+# shared_living_0030__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Toshio**: The current system is failing. We need a structure that accounts for actual costs and labor.
+- [6] **Ryuji**: I am concerned about the time commitment. We need to know the true hours involved before agreeing.
+- [7] **Benjamin**: The current distribution feels uneven. I want to see where the usage and the work actually sit.
+- [8] **May**: I am tired of guessing the state of the rooms. I want predictability and consistency.
+- [9] **Midori**: I care most about keeping our relationships intact. We need a solution that prevents conflict.
+- [10] **Toshio**: @Ryuji, time is a cost. We should look at the receipts to see the financial burden too.
+- [11] **Ryuji**: @Toshio, financials are important, but I need to verify the time. I will check the timing.
+- [12] **Benjamin**: I will look at the calendar to see who is actually here to do the work.
+- [13] **May**: I will check the chat logs to see what triggers our arguments.
+- [14] **Midori**: I will read the note from the previous tenants to see what went wrong for them.
+- [15] **Toshio**: I will also check the management office rates to see if outsourcing is viable.
+- [16] **Ryuji**: I will also check what each person considers "done" to understand the standard.
+- [17] **Benjamin**: I will also watch the kitchen for a fortnight to see who uses it most.
+- [18] **May**: I will also check the bathroom grout status to see how fast it degrades.
+- [19] **Midori**: I will also check the standard terms of the outside firm to see their requirements.
+- [20] **Toshio**: Agreed. Let's gather this data before we decide.
+- [21] **Ryuji**: Yes. Data first, then decisions.
+- [22] **Benjamin**: Sounds reasonable. I will start the kitchen watch immediately.
+- [23] **May**: Okay. I hope this clarifies things.
+- [24] **Midori**: I hope we can find a balance that works for everyone.
+## Round 2
+- [35] **Toshio**: The receipts show 2,300 yen monthly, often duplicated. The management office charges 4,200 yen per hour.
+- [36] **Ryuji**: A full pass takes 102 minutes. Standards vary wildly; some stop at the basin, others clean the drain.
+- [37] **Benjamin**: The kitchen mess comes from three people. Two of us are away most months. The work doesn't match the presence.
+- [38] **May**: The grout is black again in eleven days. The chat shows our fights start with reminders about undone tasks.
+- [39] **Midori**: The previous tenants split rooms permanently and stopped speaking. The outside firm requires us to tidy first.
+- [40] **Toshio**: @Ryuji, 102 minutes is significant. If we hire out, the cost is high, but the time is saved.
+- [41] **Ryuji**: @Toshio, yes. But if we do it ourselves, the inconsistency in "done" is the real problem.
+- [42] **Benjamin**: @May, the grout issue suggests the bathroom is a losing battle for us. The kitchen is where the real load is.
+- [43] **May**: @Benjamin, exactly. I can't keep bracing for the bathroom. I need a system that handles the decay.
+- [44] **Midori**: @Toshio, the previous tenants' silence is a warning. Permanent assignments might isolate us.
+- [45] **Toshio**: The financials are clear. 2,300 yen is manageable. 4,200 yen per hour is steep but predictable.
+- [46] **Ryuji**: The time is the killer. 102 minutes is a large chunk of my week. I need to know if I can delegate it.
+- [47] **Benjamin**: The usage data is damning. Three people cook, two are away. A fixed rota ignores this reality.
+- [48] **May**: The chat logs prove that ambiguity causes conflict. We need clear, non-negotiable standards or external help.
+- [49] **Midori**: The firm's terms mean we still have to tidy. It's not a full hand-off. But it removes the "who did it" argument.
+- [50] **Toshio**: I am leaning towards the paid service. It removes the financial ambiguity and the time burden.
+- [51] **Ryuji**: I agree. The time savings are worth the cost. The inconsistency in standards makes DIY risky.
+- [52] **Benjamin**: I am hesitant. The firm requires us to tidy. But the usage imbalance makes a rota unfair.
+- [53] **May**: I prefer the paid service. It solves the bathroom decay and the kitchen unpredictability.
+- [54] **Midori**: I am worried about the "tidy beforehand" clause. But it might be better than the previous tenants' silence.
+## Round 3
+- [60] **Toshio**: Option B seems the most logical. It addresses the cost and time concerns directly.
+- [61] **Ryuji**: Option B is the only one that removes the 102 minutes from my schedule. I support it.
+- [62] **Benjamin**: Option C is unfair given the usage data. Option A risks isolation. Option B is the compromise.
+- [63] **May**: Option B solves the bathroom and kitchen issues. I am in favor.
+- [64] **Midori**: Option B requires us to tidy first. But it prevents the "who did it" fights. I will support it.
+- [65] **Toshio**: @Benjamin, the usage data supports B. The rota would be unbalanced.
+- [66] **Ryuji**: @Toshio, agreed. The time savings are crucial for me.
+- [67] **Benjamin**: @May, the bathroom decay is a strong argument for B. We can't keep up with it.
+- [68] **May**: @Midori, the "tidy first" clause is a minor inconvenience compared to the current chaos.
+- [69] **Midori**: @Ryuji, I agree. The time savings are worth it. Let's go with B.
+- [70] **Toshio**: I am confident in Option B. It is the most sustainable.
+- [71] **Ryuji**: I am confident in Option B. It is the most efficient.
+- [72] **Benjamin**: I am confident in Option B. It is the most fair.
+- [73] **May**: I am confident in Option B. It is the most predictable.
+- [74] **Midori**: I am confident in Option B. It is the most harmonious.
+- [75] **Toshio**: Let's vote.
+- [76] **Ryuji**: Yes.
+- [77] **Benjamin**: Agreed.
+- [78] **May**: Let's do it.
+- [79] **Midori**: Let's do it.
+### Vote
+- Toshio -> B
+- Ryuji -> B
+- Benjamin -> B
+- May -> B
+- Midori -> B
+## Result
+- adopted: B

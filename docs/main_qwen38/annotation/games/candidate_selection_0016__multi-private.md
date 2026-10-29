@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I’d like to understand the true financial scope before we commit. What does the ledger actually show for this year’s allocation?
+- [6] **Shion**: Jonathan, checking the ledger is standard. But without knowing if previous programs actually worked, we’re just buying more silence. I’ll look at the readmission figures.
+- [7] **Midori**: I’m a bit shy, but I worry about who actually carries the new workload. I’d like to check the ward nursing vacancies and agency cover.
+- [8] **Kenji**: I’m worried about whether our current setup can handle anything new. I’ll check the booking system records and the rooms, parking, and shuttle coverage.
+- [9] **Shizue**: I worry about long-term stability. I’ll check the board minutes on the jointly run clinic and the data agreements with outside surgeries.
+- [10] **Jonathan**: I appreciate your focus on outcomes, Shion. I’m still concerned about the recurring cost gap. I’ll review the ledger and the regional fund tariffs.
+- [11] **Shion**: Midori, your concern is valid, but staffing is a symptom, not the cause. I need to know if the data actually supports the intervention.
+- [12] **Midori**: Thank you, Shion. I understand your point, but I need to see the staffing reality to ensure the program is sustainable for our teams.
+- [13] **Kenji**: @Shion, I hear you, but if the booking screens crash, no data helps. I’m checking the system logs and parking capacity now.
+- [14] **Shizue**: Kenji, I understand your worry about the infrastructure. I’m focusing on the agreements to ensure we don’t repeat past mistakes.
+- [15] **Jonathan**: I’ll look into the ledger and regional fund tariffs. I need to know the real cost before we vote.
+- [16] **Shion**: I’ll examine the readmission figures and the shared nursing round completion rates. We need to verify if the data actually supports the intervention before we proceed.
+- [17] **Midori**: I’ll review the therapy and midwifery staffing review, plus the ward nursing vacancies. I need to see where the pressure actually lands on our teams.
+- [18] **Kenji**: I’ll check the booking system records and the rooms, parking, and shuttle coverage. I need to see if the physical space can absorb the new program without seizing up.
+- [19] **Shizue**: I’ll review the board minutes on the jointly run clinic and the data agreements with outside surgeries. I need to see where past partnerships quietly fell apart.
+- [20] **Jonathan**: I’ll review the ledger and regional fund tariffs. I need to know the real cost before we vote.
+- [21] **Shion**: I’ll examine the readmission figures and the shared nursing round completion rates. We need to verify if the data actually supports the intervention before we proceed.
+- [22] **Midori**: I’ll review the therapy and midwifery staffing review, plus the ward nursing vacancies. I need to see where the pressure actually lands on our teams.
+- [23] **Kenji**: I’ll check the booking system records and the rooms, parking, and shuttle coverage. I need to see if the physical space can absorb the new program without seizing up.
+- [24] **Shizue**: I’ll review the board minutes on the jointly run clinic and the data agreements with outside surgeries. I need to see where past partnerships quietly fell apart.
+## Round 2
+- [35] **Jonathan**: The allocation is down a quarter, and off-site contacts earn nothing. We must build on-site to recoup costs.
+- [36] **Shion**: The call-back trial cut readmissions by a fifth, then reversed. The shared round failed due to logistics. We need a program that actually sticks, not just another experiment.
+- [37] **Midori**: The therapy review shows four years of physiotherapists leaving, while midwifery has unusual slack. We must balance this pressure before adding new duties.
+- [38] **Kenji**: The booking system hides unbooked work, and parking fills by eleven. We physically cannot absorb more patients without a major overhaul.
+- [39] **Shizue**: Those minutes show the clinic collapsed when neither side owned the rota. The data agreements took fourteen months. We must avoid relying on outside bodies that never truly committed.
+- [40] **Jonathan**: @Shion, your reversal data is critical. With the budget cut, we cannot afford failed experiments. We need a model that sustains itself financially and operationally.
+- [41] **Shion**: Jonathan, the reversal proves fragility. We need structural change, not just funding. Midori, your staffing data confirms the operational bottleneck.
+- [42] **Midori**: Thank you, Shion. I agree. With nine vacant posts and rising agency costs, we can’t just add tasks. We need a program that respects our current capacity.
+- [43] **Kenji**: @Midori, exactly. If parking is full and rooms are booked, adding more patients just creates chaos. We need a program that fits our current physical limits, not one that breaks them.
+- [44] **Shizue**: I agree with Kenji. We must choose a program that fits our current limits, not one that breaks them.
+- [45] **Jonathan**: @Shizue, your caution is wise. With the budget cut, we need a self-contained model. Does the midwifery slack offer a viable, low-cost starting point?
+- [46] **Shion**: Midori, that midwifery slack is a distraction. We need to fix the broken discharge loop, not fill empty chairs. The data demands structural repair.
+- [47] **Midori**: @Shion, I hear your urgency, but ignoring the midwifery slack wastes a rare opportunity. We must use that capacity to support the discharge loop, not ignore it.
+- [48] **Kenji**: @Shion, I agree with Midori. Using existing midwifery slack avoids adding new physical strain. It fits our current limits without breaking the booking system or parking.
+- [49] **Shizue**: @Midori, I agree. Using existing capacity is wise. We must ensure the midwifery team is truly willing to take this on, so it doesn’t crumble later.
+- [50] **Jonathan**: I agree. Leveraging existing midwifery capacity minimizes new costs. We must ensure this model remains financially viable within our reduced allocation.
+- [51] **Shion**: Midori, your point is valid. The slack is real, but it’s a resource, not a solution. We must integrate it into the discharge loop to prevent the reversal I saw.
+- [52] **Midori**: I appreciate the compromise, Shion. Integrating midwifery into the discharge loop respects our staffing reality while addressing your data concerns. It feels like a balanced, sustainable path forward for everyone.
+- [53] **Kenji**: I’m glad we’re aligning. Using midwifery slack keeps the booking system calm and parking manageable. It fits our physical limits perfectly without causing a bottleneck.
+- [54] **Shizue**: I’m glad we’re finding common ground. I just want to gently ensure the midwifery team feels truly supported, so this doesn’t quietly unravel later.
+## Round 3
+- [60] **Jonathan**: @Shion, the home visits earn no tariff. With our reduced budget, we must choose an on-site model to ensure financial viability.
+- [61] **Shion**: @Jonathan, tariffs are a distraction. The data shows home visits work, then fail. We need structural repair, not just revenue.
+- [62] **Midori**: @Shion, I hear your concern about sustainability. However, Option C uses our existing midwifery slack, avoiding new staffing pressure. It feels like the most balanced choice for our teams.
+- [63] **Kenji**: @Midori, Option C fits perfectly. Scheduled slots mean no parking chaos or booking crashes. It uses existing space without breaking our physical limits.
+- [64] **Shizue**: @Midori, I agree. Option C uses existing capacity, which feels safer. I just hope the pediatric team is truly ready to share the load, so it doesn’t crumble later.
+- [65] **Jonathan**: @Shion, the ledger is clear: off-site visits earn zero. We cannot fund a program that generates no revenue. Option C is the only viable path.
+- [66] **Shion**: @Jonathan, you mistake revenue for value. The data proves home visits work, then fail. Option A fixes the discharge loop. I vote A.
+- [67] **Midori**: @Shion, I understand your data concerns, but Option C respects our staffing reality. It uses existing midwifery slack without adding pressure. I vote C.
+- [68] **Kenji**: @Shion, I respect your data, but Option A means more traffic and booking chaos. Option C fits our physical limits. I vote C.
+- [69] **Shizue**: @Shion, I understand your passion for the data. But Option C feels safer for our teams. I vote C, trusting the midwifery team to carry this gently.
+- [70] **Jonathan**: @Shion, I respect your data, but the ledger is unforgiving. Off-site visits earn nothing. We must choose Option C to stay financially viable. I vote C.
+- [71] **Shion**: @Jonathan, you mistake revenue for value. The data proves home visits work, then fail. Option A fixes the discharge loop. I vote A.
+- [72] **Midori**: I stand by my vote for Option C. It balances our staffing reality with the need for sustainable care, ensuring our teams aren’t overwhelmed.
+- [73] **Kenji**: I stand by my vote for Option C. It keeps our parking and booking systems calm, respecting our physical limits without causing a bottleneck.
+- [74] **Shizue**: I stand by my vote for Option C. It feels the most stable and gentle for our teams, avoiding the pitfalls of past partnerships.
+- [75] **Jonathan**: I stand by my vote for Option C. It is the only model that respects our reduced budget while leveraging existing capacity.
+- [76] **Shion**: I stand by my vote for Option A. The data is clear: we must fix the broken discharge loop, not ignore it for convenience.
+- [77] **Midori**: I stand by my vote for Option C. It honors our staffing reality and ensures our teams remain supported and balanced.
+- [78] **Kenji**: I stand by my vote for Option C. It keeps our parking and booking systems calm, respecting our physical limits without causing a bottleneck.
+- [79] **Shizue**: I stand by my vote for Option C. It feels the most stable and gentle for our teams, avoiding the pitfalls of past partnerships.
+### Vote
+- Jonathan -> C
+- Shion -> A
+- Midori -> C
+- Kenji -> C
+- Shizue -> C
+## Result
+- adopted: C

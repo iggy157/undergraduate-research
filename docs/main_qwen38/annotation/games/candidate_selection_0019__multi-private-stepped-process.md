@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I keep seeing invoices for things we didn't budget for. Let's check the hidden costs first.
+- [6] **Victoria**: We need to know who is actually available to work before we promise anything to the public.
+- [7] **Shion**: The room is empty if no one walks in. I want to see the head counts.
+- [8] **Asuka**: The floor has limits. I need to know what the structure can actually hold.
+- [9] **Shizue**: I worry about the door. Let's see where past deliveries actually failed, not just the plan.
+- [10] **Mio**: @Victoria Staffing is vital, but if the money vanishes into repairs, we can't pay them.
+- [11] **Victoria**: @Mio If the money is there but no one is left to do the job, it is wasted.
+- [12] **Shion**: @Mio Money is a number. People are the proof. I stand by the head counts.
+- [13] **Asuka**: @Shion People break things. I need to know the weight limits before we invite them.
+- [14] **Shizue**: @Asuka If the crate never arrives, the weight limit is irrelevant. I choose the paperwork.
+- [15] **Mio**: I will look at the mount-making charges. That is where the budget usually bleeds out.
+- [16] **Victoria**: I will check the conservation lab staffing. I need to see the real capacity, not the ideal.
+- [17] **Shion**: I will pull the weekend head counts. I want to see the trend, not the average.
+- [18] **Asuka**: I will review the structural survey. I need the numbers on the suspended bay.
+- [19] **Shizue**: I will look at the lender paperwork. I want to see the cut-offs that bite us.
+- [20] **Mio**: Let's see what the numbers say. I hope they are kind to us.
+- [21] **Victoria**: I hope the staff list is not a ghost. I need to know who is standing in the room.
+- [22] **Shion**: I am ready. Let's see if the crowd is still there, or if they have moved on.
+- [23] **Asuka**: I am ready. The building does not lie. It just waits for us to listen.
+- [24] **Shizue**: I am ready. I just want to know if the box will fit through the door.
+## Round 2
+- [35] **Mio**: The joiner's rate is up, and bespoke mounts are expensive. I want to avoid paying for things we can't move.
+- [36] **Victoria**: The lab is one person. Two hundred pieces are waiting. We cannot promise a full season of care.
+- [37] **Shion**: The numbers are clear. The crowd follows the motion. If the room is still, they leave.
+- [38] **Asuka**: The bay is capped at four hundred kilos. The last stone needed shoring. We cannot promise heavy things.
+- [39] **Shizue**: The paperwork is the trap. Two seasons we lost because the forms arrived late. I want to avoid that.
+- [40] **Mio**: @Victoria If the lab is one person, we cannot promise a full season of care. I agree.
+- [41] **Victoria**: @Mio Exactly. We are planning for a team that no longer exists. I need to know who is standing in the room.
+- [42] **Shion**: @Asuka Heavy things are dead things. The crowd wants to see something move, or someone talk.
+- [43] **Asuka**: @Shion Motion is fine, but if the floor cracks, the motion stops. I need to know the weight.
+- [44] **Shizue**: @Mio I agree. If the crate is late, the mount is useless. I want to avoid the shipping risk.
+- [45] **Mio**: I am leaning toward something that does not need a new mount. I want to save the joiner's money.
+- [46] **Victoria**: I am leaning toward something that does not need the lab. I want to save the one person we have.
+- [47] **Shion**: I am leaning toward something that has a person in it. I want to see the crowd come back.
+- [48] **Asuka**: I am leaning toward something that is light. I want to keep the bay safe.
+- [49] **Shizue**: I am leaning toward something that is local. I want to keep the door open.
+- [50] **Mio**: Let's see what is on the table. I hope it is light and cheap.
+- [51] **Victoria**: Let's see what is on the table. I hope it is quiet and small.
+- [52] **Shion**: Let's see what is on the table. I hope it is alive.
+- [53] **Asuka**: Let's see what is on the table. I hope it is safe.
+- [54] **Shizue**: Let's see what is on the table. I hope it is here.
+## Round 3
+- [60] **Mio**: Option A is local. No shipping, no new mounts. The craftspeople bring their own tools. This saves the joiner's money.
+- [61] **Victoria**: Option A needs no lab. The textiles are stable. The craftspeople are the staff. This saves the one person we have.
+- [62] **Shion**: Option A has people. The craftspeople are in the room. The crowd will come back to see them work.
+- [63] **Asuka**: Option A is light. The garments and tools are small. The bay is safe. The floor is safe.
+- [64] **Shizue**: Option A is local. No paperwork. No cut-offs. The door is open. The box is here.
+- [65] **Mio**: @Victoria I agree. Option A is the only one that does not bleed the budget.
+- [66] **Victoria**: @Mio I agree. Option A is the only one that does not break the staff.
+- [67] **Shion**: @Asuka Option B is heavy. The rigging is dangerous. The crowd wants people, not lights.
+- [68] **Asuka**: @Shion Option B is a risk. The overhead rigging is a weight. The bay is capped.
+- [69] **Shizue**: @Mio Option C is a trap. The loans are distant. The paperwork is late. The door is closed.
+- [70] **Mio**: Option D is a risk. The conservation bench is a lab. The one person is not enough.
+- [71] **Victoria**: Option D is a risk. The finds need cleaning. The backlog is two hundred pieces. We cannot promise care.
+- [72] **Shion**: Option D is quiet. The finds are dead. The crowd wants to see someone talk.
+- [73] **Asuka**: Option D is heavy. The reconstructions are stone. The bay is capped. The floor is safe.
+- [74] **Shizue**: Option D is a risk. The finds are local, but the bench is a lab. The door is open, but the staff is not.
+- [75] **Mio**: I vote for A. It is light, cheap, and alive.
+- [76] **Victoria**: I vote for A. It is quiet, small, and staffed.
+- [77] **Shion**: I vote for A. It is alive. The crowd will come.
+- [78] **Asuka**: I vote for A. It is safe. The bay is safe.
+- [79] **Shizue**: I vote for A. It is here. The door is open.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

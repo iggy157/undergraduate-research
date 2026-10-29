@@ -1,0 +1,73 @@
+# candidate_selection_0013__single-online (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I’d like to start by asking: which of the listed records might show us where our timelines have quietly slipped in recent years?
+- [6] **Yumi**: @Shizue, the weather days in the site diaries seem like the best place to start for that.
+- [7] **George**: @Yumi, that’s a fair point, but I’d also look at the decade of delivery schedules to see if the slippage is consistent across different project types.
+- [8] **Mizuki**: @George, I agree. I’d also check the post-occupancy review ratings to see if the delays actually affected how well the spaces are used.
+- [9] **Benjamin**: @Mizuki, I’d add the tender records. If costs are rising while timelines slip, we need to know if the budget is the real bottleneck.
+- [10] **Shizue**: @Benjamin, that’s a sharp observation. I’ll look into the tender records and the weather days to see if the delays are truly weather-driven or just poor planning.
+- [11] **Yumi**: @Shizue, I’ll check the booking data and the timetable records to see how much space we actually lose while the work is happening.
+- [12] **George**: @Yumi, I’ll examine the staffing posts and the bench technicians' routines to see if our current capacity is the real constraint.
+- [13] **Mizuki**: @George, I’ll review the post-occupancy ratings and the decade of delivery schedules to see if our past choices actually delivered value.
+- [14] **Benjamin**: @Mizuki, I’ll examine the tender records and the renewal reserve to see if our paper figures are surviving contact with the actual market.
+- [15] **Shizue**: @Benjamin, I hope the tender records reveal why our approved figures never match the final invoices.
+- [16] **Yumi**: @Shizue, I’m hoping the booking data will show if we’re actually using the spaces we build, or just paying for them.
+- [17] **George**: @Yumi, I suspect the staffing records will show that our people are the real bottleneck, not the bricks.
+- [18] **Mizuki**: @George, I suspect the post-occupancy ratings will show that we often build things nobody actually wants to use.
+- [19] **Benjamin**: @Mizuki, I suspect the renewal reserve will show we’ve been quietly funding new projects with money meant for old ones.
+- [20] **Shizue**: I’ll take the tender records and the weather days. Let’s see if the rain is truly to blame, or if we’ve simply been underestimating the work.
+- [21] **Yumi**: I’ll take the booking data and the timetable records. I need to know exactly how much space we lose while the work runs.
+- [22] **George**: I’ll take the staffing posts and the bench technicians' routines. I need to see if our people are the real bottleneck, not the bricks.
+- [23] **Mizuki**: I’ll take the post-occupancy review ratings and the decade of delivery schedules. I need to know if our past choices actually delivered value.
+- [24] **Benjamin**: I’ll take the tender records and the renewal reserve. I need to see if our paper figures are surviving contact with the actual market.
+## Round 2
+- [35] **Shizue**: #### Turn 1 of 4
+- [36] **Yumi**: #### Turn 1 of 4
+- [37] **George**: - **George**: The staffing logs are grim. Front-of-house posts remain empty, yet our technicians still have hours to spare.
+- [38] **Mizuki**: @George, that’s a stark contrast. My delivery data shows inspection-driven projects finish on time, while comfort-based ones slip a year.
+- [39] **Benjamin**: @Mizuki, that aligns with my findings. Tender prices for mechanical plant have risen twenty percent, while our renewal reserves remain empty.
+- [40] **Shizue**: #### Turn 2 of 4
+- [41] **Yumi**: - **Yumi**: @George, that’s a relief. If technicians have spare hours, maybe we can cover the gaps without new hires.
+- [42] **George**: @Yumi, don’t be too quick. Those spare hours are spent on manual checks the broken equipment forces us to do.
+- [43] **Mizuki**: @George, that explains the discrepancy. My post-occupancy data shows high ratings only where booking is open, not where benefits stay internal.
+- [44] **Benjamin**: @Mizuki, open booking drives usage, but my reserve data shows we never budgeted to replace the kit. We’re borrowing from the future.
+- [45] **Shizue**: - **Shizue**: @Benjamin, that is a heavy burden. My weather diaries confirm six weeks lost to rain, yet the tender records show plant costs rising sharply.
+- [46] **Yumi**: @Benjamin, that’s a sobering thought. My booking data shows specialist rooms sitting idle, while general spaces are always full. We’re paying for the wrong things.
+- [47] **George**: @Yumi, that confirms my fear. We are paying for empty specialist rooms while general spaces overflow, and our staff are stuck doing manual work.
+- [48] **Mizuki**: @Yumi, exactly. My delivery data confirms it: comfort-based projects slip, yet we keep choosing them. We need to prioritize what actually gets used.
+- [49] **Benjamin**: @Mizuki, precisely. We keep chasing comfort while the market inflates and our reserves stay empty. The math simply doesn’t work.
+- [50] **Shizue**: I’m glad we’re seeing the same picture. The rain is real, but the rising costs are the true thief. Let’s hope the candidates reflect this reality.
+- [51] **Yumi**: I’m relieved the data backs up my gut feeling. We need to stop building empty boxes and start fixing what’s actually broken.
+- [52] **George**: - **George**: Agreed. We must stop ignoring the human cost. If we pick a project that demands more manual labor, we are setting ourselves up for failure.
+- [53] **Mizuki**: Agreed. The data is clear: we must choose a project that delivers immediate, measurable value to the whole campus, not just a single department.
+- [54] **Benjamin**: Agreed. We must stop funding vanity projects with borrowed money. Let’s see which candidate actually respects the market and our empty reserves.
+## Round 3
+- [60] **Shizue**: The candidates are here. I’m looking for one that won’t get stuck in the rain or the budget.
+- [61] **Yumi**: - **Yumi**: @Shizue, I’m hoping one of these actually fixes the overcrowding in our general rooms instead of adding more empty specialist spaces.
+- [62] **George**: @Yumi, I’m watching for any plan that forces my exhausted staff into more manual routines. We simply cannot absorb another burden.
+- [63] **Mizuki**: @George, I’m looking for a project with broad, open access. My data shows that’s the only way to guarantee high usage and avoid disappointment.
+- [64] **Benjamin**: @Mizuki, broad access is fine, but I’m watching for hidden maintenance costs. I refuse to fund a project that quietly drains our empty reserves.
+- [65] **Shizue**: - **Shizue**: @Benjamin, I worry about A. Outdoor work invites the rain, and my diaries show how many weeks that steals from us.
+- [66] **Yumi**: @Shizue, I worry about D. My data shows general rooms are always full, so C fixes the real problem without adding empty specialist spaces.
+- [67] **George**: @Yumi, C is safer for my staff, but D’s ventilation failure is forcing my technicians into dangerous manual labor. We must fix that.
+- [68] **Mizuki**: @George, I understand the urgency, but my data shows single-wing benefits get the lowest ratings. C offers open access to everyone, which guarantees the usage we need.
+- [69] **Benjamin**: @George, D is a trap. My reserve data proves we cannot afford the ongoing maintenance of complex plant. C is the only fiscally responsible choice.
+- [70] **Shizue**: @Benjamin, I agree. C is indoors, so the rain cannot steal our weeks. It is the only plan that respects both the weather and our empty pockets.
+- [71] **Yumi**: @Shizue, exactly. C solves the overcrowding I see in the booking data. It’s the only option that actually serves the people who need space most.
+- [72] **George**: - **George**: @Benjamin, I concede C is safer for my staff, but D’s ventilation failure is forcing my technicians into dangerous manual labor. We must fix that.
+- [73] **Mizuki**: @George, I hear your urgency, but my data shows single-wing projects disappoint. C serves the whole campus, which is where the real value lies.
+- [74] **Benjamin**: @George, I hear you, but the market has priced D out of reach. We cannot afford the maintenance trap. C is the only choice that respects our empty reserves.
+- [75] **Shizue**: I vote for C. It is indoors, so the rain cannot steal our weeks, and it serves everyone without draining our empty reserves.
+- [76] **Yumi**: I vote for C. It directly solves the overcrowding I see in the booking data, giving everyone the space they actually need.
+- [77] **George**: I vote for D. The ventilation failure is forcing my technicians into dangerous manual labor. We must fix that, regardless of the cost.
+- [78] **Mizuki**: I vote for C. My data confirms that open access drives the highest satisfaction, and this serves the entire campus, not just one wing.
+- [79] **Benjamin**: I vote for C. It is the only option that does not require a renewal reserve we do not have.
+### Vote
+- Shizue -> C
+- Yumi -> C
+- George -> D
+- Mizuki -> C
+- Benjamin -> C
+## Result
+- adopted: C

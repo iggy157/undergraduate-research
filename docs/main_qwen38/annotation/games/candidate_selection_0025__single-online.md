@@ -1,0 +1,73 @@
+# candidate_selection_0025__single-online (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: We should start by checking which of these options relies on conditions we cannot control.
+- [6] **Jonathan**: @Shizue, that is a wise starting point. I am also curious about how our current building locations affect who can actually reach us.
+- [7] **Rin**: I hate when we pretend we haven't tried things before! We should look at the old records to see what actually worked.
+- [8] **Benjamin**: I suspect the funding structure is the real trap here, not the size of the budget.
+- [9] **Minako**: I need to verify if the required skills for any new program actually exist on our current staff roster before we commit.
+- [10] **Shizue**: @Benjamin, you are right to be cautious. I would like to look into the county grant terms and the endowment to see how long the money actually lasts.
+- [11] **Jonathan**: @Shizue, I agree. I will examine the bus links in the two outer wards to see who is currently cut off.
+- [12] **Rin**: I want to check the attendance sheets from former outreach stops to see if people actually showed up before!
+- [13] **Benjamin**: I will review the running and equipment lines last year to see where the money actually went.
+- [14] **Minako**: I will check the volunteer register and supervision training to see if we have the necessary skills in-house.
+- [15] **Shizue**: @Rin, your instinct is sound. I will also look into the two programmes begun six years ago to see what records remain.
+- [16] **Jonathan**: @Rin, I will also examine the winter road closures north of the river to understand the physical barriers we face.
+- [17] **Rin**: I’ll check the evening room bookings and remote catalogue use to see when people actually want to come in!
+- [18] **Benjamin**: I will also review the county grant terms and the endowment to see how the funding is actually structured.
+- [19] **Minako**: I will also review the neighbourhood associations and tool certification to see who is actually qualified to run these sessions.
+- [20] **Shizue**: I am glad we are all looking at the same facts. Let us see what the records tell us before we decide.
+- [21] **Jonathan**: I will also check the evening room bookings and remote catalogue use to see when people actually want to come in.
+- [22] **Rin**: I’m done picking! I hope the old records show we were right all along.
+- [23] **Benjamin**: I am content with my selections. The ledger and the grant terms should reveal the structural weaknesses we keep ignoring.
+- [24] **Minako**: I am satisfied with my choices. The register and the certification records will tell us exactly who is qualified to lead these new initiatives.
+## Round 2
+- [35] **Shizue**: #### Turn 1 of 4
+- [36] **Jonathan**: - **Jonathan**: The bus rerouting has left the outer wards facing an hour's round trip to reach any staffed counter.
+- [37] **Rin**: - **Rin**: The old outreach sheets show forty people showed up every time! That is way more than the main building gets.
+- [38] **Benjamin**: The vehicle line overran by a third, yet the equipment allocation closed under budget. The money was there, just misallocated.
+- [39] **Minako**: The register lists retired tradespeople running the repair clinic, but no one on payroll is trained to supervise outside facilitators.
+- [40] **Shizue**: - **Shizue**: The grant only covers twelve months, then the flat budget takes over. That is a very short leash for a new commitment.
+- [41] **Jonathan**: @Benjamin, that overrun is worrying. If the vehicle line is already strained, adding a mobile service might just break it further.
+- [42] **Rin**: - **Rin**: @Benjamin, wait! If the vehicle broke the budget, maybe we shouldn't use a van at all. What about the other ideas?
+- [43] **Benjamin**: @Rin, precisely. The vehicle is a liability. I need to see if the grant structure allows us to avoid that recurring cost entirely.
+- [44] **Minako**: @Benjamin, the vehicle issue is real, but my records show a different gap. We have the tradespeople, but no one trained to supervise them.
+- [45] **Shizue**: - **Shizue**: @Minako, that supervision gap is exactly the kind of hidden cost that sinks good intentions.
+- [46] **Jonathan**: - **Jonathan**: @Minako, that is a critical oversight. We cannot assume supervision exists just because the tools do.
+- [47] **Rin**: - **Rin**: @Minako, but the evening bookings are full and people use the catalogue late! Why do we lock up when they are still there?
+- [48] **Benjamin**: @Rin, the late demand is real, but it doesn't solve the supervision gap Minako identified. We need a solution that fits our current staffing reality.
+- [49] **Minako**: @Rin, the late demand is real, but it doesn't solve the supervision gap I identified. We need a solution that fits our current staffing reality.
+- [50] **Shizue**: - **Shizue**: @Benjamin, I agree. We must choose a path that does not depend on conditions we cannot control, like weather or grant renewals.
+- [51] **Jonathan**: - **Jonathan**: @Shizue, the road closures prove physical barriers are real, but the bus loss is the deeper wound. We must reach those cut off.
+- [52] **Rin**: - **Rin**: @Jonathan, but the halls kept their evening timetapes even when the roads were shut! So people still want to come, right?
+- [53] **Benjamin**: @Rin, the halls kept their timetables, yes, but that proves local resilience, not that our central budget can sustain it.
+- [54] **Minako**: @Jonathan, the bus loss is severe, but we cannot fix infrastructure. We must pick a service that fits our current, limited supervisory capacity.
+## Round 3
+- [60] **Shizue**: - **Shizue**: The candidates are here. I am worried that the mobile branch depends on roads and vehicles we cannot control.
+- [61] **Jonathan**: - **Jonathan**: @Shizue, the mobile branch directly addresses the bus gap, but I worry about the winter closures you mentioned.
+- [62] **Rin**: - **Rin**: @Shizue, but the mobile branch goes to the outer wards where forty people showed up! That is exactly what we need!
+- [63] **Benjamin**: @Rin, the attendance is promising, but the vehicle line already overran by a third. I cannot support a proposal that guarantees a recurring budget breach.
+- [64] **Minako**: @Benjamin, the vehicle cost is a concern, but the mobile branch doesn't require new supervision skills. We already have the staff to run it.
+- [65] **Shizue**: - **Shizue**: @Minako, I am not convinced. The vehicle depends on roads and weather, which are conditions we cannot control.
+- [66] **Jonathan**: @Minako, that is a fair point on staffing, but the winter closures prove the vehicle cannot reach everyone reliably.
+- [67] **Rin**: @Jonathan, but the halls kept their timetables when the roads were shut! So people still want to come, right?
+- [68] **Benjamin**: @Rin, the halls are stationary. A van is not. If the roads close, the van stops, and the service fails.
+- [69] **Minako**: @Jonathan, the closures were brief. The bus loss is permanent. We must prioritize reaching those cut off, despite the weather risks.
+- [70] **Shizue**: - **Shizue**: @Minako, the bus loss is permanent, yes, but a vehicle is fragile. I fear we are trading one dependency for another.
+- [71] **Jonathan**: @Shizue, I understand the fragility, but the alternative is leaving those wards isolated. The mobile branch is the only option that bridges that specific gap.
+- [72] **Rin**: - **Rin**: @Jonathan, but the old outreach worked! If the van is too risky, can we just use the community halls like before?
+- [73] **Benjamin**: @Rin, the halls are not ours to command. We cannot simply rent space without a budget line, and the grant ends in twelve months.
+- [74] **Minako**: @Benjamin, the grant covers session fees, not vehicle maintenance. We must separate the funding streams to see if the mobile branch is truly unaffordable.
+- [75] **Shizue**: - **Shizue**: @Minako, you are right to separate the streams. I will vote for the mobile branch, hoping the flat budget can sustain it after the grant ends.
+- [76] **Jonathan**: @Shizue, I share your hope, but the winter closures are a hard fact. I cannot ignore the risk of a stranded vehicle.
+- [77] **Rin**: - **Rin**: @Jonathan, but the halls proved people show up! If the van is too risky, why not just use the community halls like before?
+- [78] **Benjamin**: @Rin, the halls are not ours to command. We cannot simply rent space without a budget line, and the grant ends in twelve months.
+- [79] **Minako**: @Benjamin, the grant covers session fees, not vehicle maintenance. We must separate the funding streams to see if the mobile branch is truly unaffordable.
+### Vote
+- Shizue -> A
+- Jonathan -> A
+- Rin -> A
+- Benjamin -> A
+- Minako -> A
+## Result
+- adopted: A

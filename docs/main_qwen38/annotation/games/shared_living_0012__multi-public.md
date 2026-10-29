@@ -1,0 +1,73 @@
+# shared_living_0012__multi-public (shared_living)
+
+## Round 1
+- [5] **Kenji**: I’m worried we’ll pick a plan that makes us stop talking to each other. What matters most to you all right now?
+- [6] **Shizue**: I worry about the daily smell and mess. I want a solution that lets us all live peacefully without constant complaints.
+- [7] **Asuka**: I need to know the exact time cost. Every past arrangement failed because someone was left doing the work. I want hours, not guesses.
+- [8] **Rin**: I’m nine, but I see it! One house has the bins at their gate forever. That’s not fair. We need a plan where everyone shares the burden equally, not just one family!
+- [9] **Servas**: I hear your worries. Before we choose, we must know the true cost. Who will pay for the setup and the yearly upkeep?
+- [10] **Kenji**: @Rin, that’s a great point about fairness. @Servas, you’re right about the money. We need to check the actual costs and how the burden is shared before we decide.
+- [11] **Shizue**: @Kenji, you are right. We must look at the costs and the daily reality. @Rin, your fairness point is very important.
+- [12] **Asuka**: @Rin, fairness is logical. @Servas, costs are data. We need to verify the ledger and the ward’s subsidy rules to see what is actually affordable for all five households.
+- [13] **Rin**: @Asuka, I agree! But money isn’t everything. I want to see the measurements of our frontages too. If one house is tiny, how can they hold the bins?
+- [14] **Servas**: @Rin, your instinct for fairness is wise. @Asuka, let us verify the ledger and subsidy. We must understand the financial reality before we can share the burden equally.
+- [15] **Kenji**: @Shizue, I agree. We need to know what living next to these options actually feels like. @Asuka, let’s check the time costs too.
+- [16] **Shizue**: @Kenji, yes, the daily reality matters most. @Asuka, I will look into the supervised mornings to see how much time it truly takes.
+- [17] **Asuka**: @Shizue, supervised mornings give us the data I need. I will check the ward filing requirements to see if the timeline is even feasible for us.
+- [18] **Rin**: @Asuka, filing rules sound boring! I want to see the station block’s bin house. Did they actually like it? I bet it’s messy!
+- [19] **Servas**: @Rin, curiosity is a fine guide. I will examine the block ledger and the ward subsidy to understand our financial footing.
+- [20] **Kenji**: @Rin, I’ll check the complaint log to see who is actually unhappy. @Servas, I’ll look at the residents’ meeting statements to understand our social standing.
+- [21] **Shizue**: @Kenji, that sounds wise. I will look into the station block’s bin house to see if their solution truly works, and the ward complaint log to understand our history.
+- [22] **Asuka**: I will examine the supervised mornings to quantify the time burden, and the truck arrival time to define the operational window.
+- [23] **Rin**: I’ll check the frontage measurements to see who has space! And I’ll visit the station block’s bin house to see if it’s really as messy as I think!
+- [24] **Servas**: I will review the ward filing requirements and the block ledger. Knowing the rules and our past spending is the foundation for any wise decision.
+## Round 2
+- [35] **Kenji**: @Shizue, the complaint log shows one house filed eleven of fourteen complaints. @Asuka, at the meeting, nobody volunteered to turn away late bags. We need a plan that doesn’t force us to be the bad guys.
+- [36] **Shizue**: @Kenji, that is a heavy burden for one family. @Rin, the bin house smells worse than the open pile. We must find a gentler way.
+- [37] **Asuka**: @Kenji, the data is clear. Supervised mornings average fifty minutes, totaling twenty per household yearly. The truck arrives between seven forty and eight fifteen. Any window must start before residents wake.
+- [38] **Rin**: @Shizue, I saw it! The bin house base can’t be hosed out, and it smells terrible in summer! Plus, one house only has ninety centimetres of pavement. How can they hold bins?
+- [39] **Servas**: @Asuka, your timing data is vital. @Rin, the narrow frontage confirms your fairness concern. I found our ledger shows thirty-four thousand yen yearly in avoidable costs, and a permanent build requires four months and five signatures.
+- [40] **Kenji**: @Asuka, if the window starts before we wake, that’s impossible. @Rin, your frontage worry is real. We need a plan that doesn’t punish the smallest house or the early risers.
+- [41] **Shizue**: @Kenji, I understand your worry. @Rin, the smell is indeed a problem. We must find a way that is kind to everyone, not just convenient.
+- [42] **Asuka**: @Kenji, the window is infeasible. @Servas, forty percent subsidy caps at ninety thousand yen. We need a plan that fits these hard constraints.
+- [43] **Rin**: @Asuka, that’s so early! I can’t do that. @Servas, forty percent is nice, but who pays the rest? We need a fair split!
+- [44] **Servas**: @Rin, the ledger shows thirty-four thousand yen yearly in avoidable costs. @Asuka, the subsidy caps at ninety thousand. We must balance these figures with the four-month build time.
+- [45] **Kenji**: @Asuka, if the window is impossible, we can’t force it. @Rin, let’s find a way that doesn’t make anyone the bad guy.
+- [46] **Shizue**: @Kenji, I agree. We must be gentle. @Rin, the smell is real, but so is the burden. Let us find a way that respects everyone’s home and health.
+- [47] **Asuka**: @Kenji, the window is infeasible. @Servas, the subsidy caps at ninety thousand yen. We need a plan that fits these hard constraints.
+- [48] **Rin**: @Asuka, if the window is impossible, that option is out! @Kenji, I agree, we need a plan where nobody gets stuck with the stink or the early alarm!
+- [49] **Servas**: @Asuka, the window is indeed too tight. @Rin, the ledger shows thirty-four thousand yen yearly in avoidable costs. We must find a solution that respects both our time and our wallets.
+- [50] **Kenji**: @Rin, I agree. We need a plan that keeps our friendship. @Servas, let’s hope the next options respect our time and wallets.
+- [51] **Shizue**: @Kenji, I agree. We must choose wisely. @Rin, let us hope the new options are kind to our mornings and our noses.
+- [52] **Asuka**: @Kenji, I agree. We need a plan that is sustainable. @Servas, the financial data is clear. We must choose an option that fits our budget and time constraints.
+- [53] **Rin**: @Kenji, I agree! We need a plan that is fair and doesn’t stink! @Servas, please tell us the options now!
+- [54] **Servas**: @Rin, patience is a virtue. The options will arrive shortly. Let us listen with open hearts and clear minds.
+## Round 3
+- [60] **Kenji**: @Asuka, since the window is impossible, C is out. @Rin, B might be unfair to the small house. @Servas, A costs a lot. What do you think?
+- [61] **Shizue**: @Kenji, I agree C is too harsh. @Rin, B feels heavy for the small home. @Servas, A seems best, if we can share the cost kindly.
+- [62] **Asuka**: @Kenji, C is infeasible. @Rin, B ignores the ninety-centimetre frontage. @Servas, A’s four-month timeline and cost burden are the only remaining variables to weigh.
+- [63] **Rin**: @Kenji, C is out! @Shizue, A is nice, but it stays at one gate! @Asuka, B is fair, but the tiny house can’t fit it!
+- [64] **Servas**: @Rin, you are right; A leaves the burden at one gate. @Kenji, C is impossible. @Shizue, B is the only path to true equality, despite the small frontage.
+- [65] **Kenji**: @Servas, wait! If B moves the bins, the tiny house doesn’t have to hold them forever. That fixes the fairness issue. @Rin, does that sound better?
+- [66] **Shizue**: @Kenji, yes, moving it shares the burden. But @Rin, can the tiny house even fit it? We must be kind to their space.
+- [67] **Asuka**: @Kenji, B is logical. The rotation distributes the burden, avoiding the single-point failure of A. @Rin, the ninety-centimetre frontage is a constraint, but not a disqualifier if the rotation is strict.
+- [68] **Rin**: @Kenji, yes! If it moves, nobody is stuck forever! But @Shizue, what if the tiny house can’t fit it? We need a rule for that!
+- [69] **Servas**: @Rin, a strict rotation is just. @Shizue, kindness means sharing the load, not avoiding it. @Kenji, B preserves our peace.
+- [70] **Kenji**: @Rin, I agree! If it moves, nobody is stuck forever. @Servas, B keeps us talking. @Asuka, the rotation is fair. I vote B.
+- [71] **Shizue**: @Kenji, I agree. B shares the burden gently. @Rin, let us trust the rotation to be fair. I vote B.
+- [72] **Asuka**: @Kenji, B is the only option that distributes the burden logically. A fails on cost and fairness; C is infeasible. I vote B.
+- [73] **Rin**: @Kenji, I agree! Moving it means nobody is stuck forever. It’s fair and fun! I vote B!
+- [74] **Servas**: @Kenji, B honors our shared lane and our differing needs. It is the path to lasting peace. I vote B.
+- [75] **Kenji**: B wins! We can still be friends. @Rin, high five! @Servas, thank you for guiding us. Let’s keep the lane peaceful.
+- [76] **Shizue**: @Kenji, I am so glad we found a way to share this gently. @Rin, your bright eyes helped us see the truth. Let us keep our smiles and our peace.
+- [77] **Asuka**: @Kenji, B is adopted. The rotation eliminates the single-point failure. We must now define the strict intervals to ensure the burden is distributed equally.
+- [78] **Rin**: @Kenji, high five! Yay! @Asuka, I hope the tiny house gets a break. Let’s keep our lane happy and clean!
+- [79] **Servas**: @Kenji, a high five is well earned. @Asuka, let us draft those intervals with care. May this rotation bring lasting harmony to our lane.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> B
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

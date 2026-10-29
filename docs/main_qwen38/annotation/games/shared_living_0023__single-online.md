@@ -1,0 +1,73 @@
+# shared_living_0023__single-online (shared_living)
+
+## Round 1
+- [5] **Victoria**: Before we move a single desk, I need to understand the actual cost of this floor.
+- [6] **Minato**: I just want to know which spot is quietest and most comfortable for my back.
+- [7] **May**: My gaps between meetings are already tiny. I need to know exactly how much time this reorganization steals from my day.
+- [8] **Shunichi**: I’m not interested in who gets the window. I want to know who gets the worst seat, and why.
+- [9] **Daisuke**: I worry about who I’ll sit next to. It changes how much I talk to everyone.
+- [10] **Victoria**: @Shunichi, your point about the "worst seat" is valid, but we need the financial basis first.
+- [11] **Minato**: I agree with Victoria. The cost matters, but I’m still hoping someone will check the sound levels for me.
+- [12] **May**: @Victoria, the cost is real, but my time is too. I need to know how long the transition actually takes.
+- [13] **Shunichi**: @May, time is a symptom. I want the cause. Who decides the hierarchy of comfort?
+- [14] **Daisuke**: @Shunichi, I think the hierarchy is already there, just hidden. I want to see the arrival times to understand who actually gets to choose.
+- [15] **Victoria**: @Daisuke, arrival times are useful, but I need the billing basis to see if we can even afford the changes we want.
+- [16] **Minato**: @Victoria, I understand the budget is tight. But please, let me look at the sound readings and the physio’s note.
+- [17] **May**: @Minato, I hear you, but I need the morning routine timings and the unplanned shuffles to see the real daily cost.
+- [18] **Shunichi**: @Daisuke, arrival times are a symptom, not the cause. I need the drawn plan against the survey to see the actual hierarchy.
+- [19] **Daisuke**: @Shunichi, the plan shows the seats, but the badge records show who actually gets to pick them. I need both.
+- [20] **Victoria**: I’ll check the floor billing basis and the facilities quote. We need to know the true cost before committing to any layout.
+- [21] **Minato**: I’ll look into the sound meter readings and the physio’s note. I need to know what comfort actually feels like before we decide.
+- [22] **May**: I’ll check the morning routine timings and the unplanned shuffles. I need to see exactly how much time this transition steals from my already fragmented days.
+- [23] **Shunichi**: I’ll check the drawn plan against the staff survey and the two project strands within earshot last spring.
+- [24] **Daisuke**: I’ll check the arrival times in the badge records and what this year’s two joiners reported. I need to see how seating actually shapes our connections.
+## Round 2
+- [35] **Victoria**: @Minato, I found the billing basis. We pay for area, not heads. Those two empty desks cost us 41,000 yen monthly.
+- [36] **Minato**: #### Turn 1 of 4
+- [37] **May**: #### Turn 1 of 4
+- [38] **Shunichi**: - **Minato**: That’s a lot of money for empty space. I hope it means we can afford better chairs for me.
+- [39] **Daisuke**: - **Minato**: That’s a lot of money for empty space. I hope it means we can afford better chairs for me.
+- [40] **Victoria**: @May, the billing data is clear. Now, what did you find regarding the time cost of the transition?
+- [41] **Minato**: - **Minato**: @Victoria, I found the physio’s note. It says a good setting takes days of small corrections to settle.
+- [42] **May**: - **May**: @Victoria, I found the unplanned shuffles. Each one dragged on for a fortnight of interruptions. That is the real cost.
+- [43] **Shunichi**: @May, a fortnight of chaos is a symptom. I need to know if the layout itself kills collaboration.
+- [44] **Daisuke**: - **Daisuke**: @Shunichi, I found what the new joiners reported. They learned the unwritten work by overhearing conversations. Seating decides who hears what.
+- [45] **Victoria**: @Daisuke, that confirms the social cost. But the facilities quote is 6,200 yen per desk to re-run power. Every change is expensive.
+- [46] **Minato**: - **Minato**: @Victoria, that quote is scary. But the physio note says my chair needs days to settle. Moving desks resets that comfort.
+- [47] **May**: - **May**: @Minato, that’s exactly my fear. If every move resets your comfort, the transition cost is permanent, not just a one-time fee.
+- [48] **Shunichi**: @May, you’re right. The cost isn’t just the move; it’s the permanent loss of settled comfort. That’s a hidden tax on everyone.
+- [49] **Daisuke**: @Shunichi, exactly. The joiners learned by overhearing. If we scatter them, we lose that free training.
+- [50] **Victoria**: I’ll check the facilities quote and the floor billing. We need the true cost before committing to any layout.
+- [51] **Minato**: I’ll look into the sound meter readings and the physio’s note. I need to know what comfort actually feels like before we decide.
+- [52] **May**: - **May**: I’ll check the morning routine timings and the unplanned shuffles. I need to see exactly how much time this transition steals from my already fragmented days.
+- [53] **Shunichi**: I’ll check the drawn plan against the staff survey and the two project strands within earshot last spring.
+- [54] **Daisuke**: I’ll check the arrival times and what the new joiners reported. I need to see how seating shapes our connections.
+## Round 3
+- [60] **Victoria**: The options are on the table. Given the 6,200 yen per desk re-run cost, I strongly favor Fixed Desks by Function to stop the bleeding.
+- [61] **Minato**: #### Turn 1 of 4
+- [62] **May**: - **Minato**: @Victoria, fixed desks mean my chair finally settles. I agree with you.
+- [63] **Shunichi**: - **Shunichi**: @Victoria, fixed desks lock in the hierarchy. I want to know who gets the window before I vote.
+- [64] **Daisuke**: - **Daisuke**: @Shunichi, fixed desks also lock in who I sit beside. I need to know if that helps or hurts my connections.
+- [65] **Victoria**: @Shunichi, the survey shows daylight was the top complaint. Fixed desks let us assign the window seats deliberately, not by habit.
+- [66] **Minato**: - **Minato**: @Victoria, if I keep one desk, my chair can finally settle. I agree with you.
+- [67] **May**: - **May**: @Victoria, fixed desks mean no morning scramble. That saves me four to nine minutes every single day.
+- [68] **Shunichi**: @Victoria, deliberate assignment is better than habit, but I still need to see the specific seat map before I commit.
+- [69] **Daisuke**: @Shunichi, the joiners learned by overhearing. Fixed desks let us place them near the right people on purpose, not by accident.
+- [70] **Victoria**: @Daisuke, exactly. We place the joiners near experienced staff deliberately. That turns accidental overhearing into structured mentorship, which is far more efficient.
+- [71] **Minato**: - **Minato**: @Victoria, if I keep one desk, my chair can finally settle. I agree with you.
+- [72] **May**: - **May**: @Victoria, I agree. No more unplanned shuffles means no more fortnights of chaos eating my gaps.
+- [73] **Shunichi**: @Victoria, I accept the logic. If we assign the window seats deliberately, we stop letting habit decide who suffers. I vote for Fixed Desks.
+- [74] **Daisuke**: @Victoria, I agree. If we place the joiners near the right people on purpose, we stop leaving their learning to chance. I vote for Fixed Desks.
+- [75] **Victoria**: I vote for Fixed Desks by Function. It stops the financial bleeding and lets us assign the window seats deliberately, rather than by habit.
+- [76] **Minato**: I vote for Fixed Desks by Function. My chair needs days to settle, and this is the only option that lets me keep one spot.
+- [77] **May**: I vote for Fixed Desks by Function. No more morning scramble means I keep my gaps between meetings intact.
+- [78] **Shunichi**: I vote for Fixed Desks by Function. Deliberate assignment is the only way to stop the hierarchy from being decided by habit.
+- [79] **Daisuke**: I vote for Fixed Desks by Function. Placing the joiners near experienced staff on purpose turns accidental overhearing into real learning.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

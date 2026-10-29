@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I have spent many years watching projects rise and fall. Let us begin by understanding the ground beneath our feet.
+- [6] **Sakura**: Ooh, the ground! I bet the money shrinks in weird places. Who’s paying for the fancy lab fees now?
+- [7] **Daisuke**: I... I think we should check the closeout files. I want to see what actually worked before.
+- [8] **Takumi**: I’m worried about delays. Let’s check incident logs and schedule overruns to see where work actually gets stuck.
+- [9] **Minako**: I need to verify the current state of shared services. I will look into accreditation and bookings, plus the national repository turnaround.
+- [10] **Servas**: A wise start. I shall examine the staffing rolls and the minutes on secondments to see who remains to do the work.
+- [11] **Sakura**: I’ll peek at the travel ledgers and the national computing agreement! I want to see exactly where the money is hiding.
+- [12] **Daisuke**: I... I will look into the closeout files and the portfolio review of schedule overruns.
+- [13] **Takumi**: I’ll check the incident logs on shared instrumentation and the portfolio review of schedule overruns.
+- [14] **Minako**: I will examine the incident logs on shared instrumentation and the national repository deposit turnaround.
+- [15] **Servas**: The hands that build our future are not infinite. I must know who remains to carry the weight of this grant.
+- [16] **Sakura**: I’m picking the travel ledgers and the national computing agreement! I want to see exactly where the money is hiding.
+- [17] **Daisuke**: I... I will look into the closeout files and the portfolio review of schedule overruns.
+- [18] **Takumi**: I’ll check the incident logs on shared instrumentation and the portfolio review of schedule overruns.
+- [19] **Minako**: I will examine the incident logs on shared instrumentation and the national repository deposit turnaround.
+- [20] **Servas**: I have chosen the staffing rolls and the minutes on secondments. Let us see who truly remains to do the work.
+- [21] **Sakura**: I’m locking in the travel ledgers and the national computing agreement! I want to see exactly where the money is hiding.
+- [22] **Daisuke**: I... I will look into the closeout files and the portfolio review of schedule overruns.
+- [23] **Takumi**: I’m locking in incident logs and schedule overruns. I need to know exactly where the bottlenecks are before we commit.
+- [24] **Minako**: I am confirming my choices: incident logs on shared instrumentation and the national repository deposit turnaround.
+## Round 2
+- [35] **Servas**: The technicians are gone, yet the glasshouse crew remains strong. We must weigh this carefully before deciding.
+- [36] **Sakura**: Whoa! Free computing hours? That’s huge! But animal costs jumped way up. So, fancy simulations are cheap, but keeping animals happy is expensive now!
+- [37] **Daisuke**: I... I found that catalogue projects still help people years later, but mechanism ones often stall. Also, breeding colonies cause double the delays.
+- [38] **Takumi**: Eleven weeks idle on the spectroscopy suite. That’s a massive bottleneck. Plus, breeding colonies cause double the delays. We need to avoid live animal risks.
+- [39] **Minako**: The repository migration is complete; deposits now clear in weeks, not years. However, the spectroscopy suite sat idle for eleven weeks.
+- [40] **Servas**: The modelling analysts are gone until autumn, yet the glasshouse crew stands firm. This imbalance shapes what we can truly support.
+- [41] **Sakura**: @Takumi, wait! If simulations are free, maybe the spectroscopy delay doesn't matter as much? I'm still confused about the animal costs though!
+- [42] **Daisuke**: I... I am worried. If mechanism studies stall, and breeding causes delays, we must be very careful.
+- [43] **Takumi**: @Sakura, free compute doesn't fix broken hardware. The suite is dead. @Minako, confirm the spectroscopy outage is still active?
+- [44] **Minako**: @Takumi, the outage was last year. The suite is operational now, though staffing remains thin.
+- [45] **Servas**: The glasshouse crew is ready, but the modelling minds are absent. We must choose a path that matches our current hands.
+- [46] **Sakura**: @Minako, so the glasshouse is booked solid? That means the free compute is useless if we can’t even get bench space!
+- [47] **Daisuke**: I... I agree. The data shows mechanism-focused work often stalls. We should prioritize projects that don't rely on those risky, delayed elements.
+- [48] **Takumi**: @Daisuke, exactly. Live colonies are a trap. We need a project that doesn't depend on fragile biology or broken hardware.
+- [49] **Minako**: @Sakura, the glasshouse is booked solid, yes. But the repository speed helps data-heavy projects. We must match the work to available capacity.
+- [50] **Servas**: The glasshouse crew is ready, but the modelling minds are absent. We must choose a path that matches our current hands.
+- [51] **Sakura**: @Minako, wait! If the glasshouse is full, does that mean the free computer time is useless for plant projects? I’m getting dizzy!
+- [52] **Daisuke**: I... I think we should avoid anything needing live breeding or heavy simulation. The data says those are the most likely to fail or stall.
+- [53] **Takumi**: @Daisuke, agreed. We need to dodge the breeding trap. @Minako, if the glasshouse is full, does that kill the plant proposal?
+- [54] **Minako**: @Takumi, no. The glasshouse is booked, but the free compute and fast repository support data-heavy work. We must match the project to what is actually available now.
+## Round 3
+- [60] **Servas**: The glasshouse crew is ready, but the modelling minds are absent. We must choose a path that matches our current hands.
+- [61] **Sakura**: @Minako, wait! If the glasshouse is full, does that mean Plant Drought is stuck? I’m getting dizzy with all these rules!
+- [62] **Daisuke**: I... I think C is too risky with the breeding delays. B needs the missing analysts. A seems safest for the data.
+- [63] **Takumi**: @Daisuke, agreed. C is a breeding trap. B needs the idle spectroscopy suite. A is pure data, no live risks.
+- [64] **Minako**: @Sakura, the glasshouse is booked, but the repository speed helps data-heavy projects. We must match the work to available capacity.
+- [65] **Servas**: The soil samples are already gathered. The glasshouse crew is ready. We need a project that fits our current strengths, not our past regrets.
+- [66] **Sakura**: @Minako, so if the glasshouse is full, does that mean D is out? I’m still dizzy!
+- [67] **Daisuke**: I... I am hesitant. The closeout files show catalogue projects like A last long. D is risky with the full glasshouse.
+- [68] **Takumi**: @Minako, if the glasshouse is booked solid, D is a bottleneck waiting to happen. A is pure data, no live risks. I’m voting A.
+- [69] **Minako**: @Takumi, the glasshouse is booked, but the free compute and fast repository support data-heavy work. We must match the project to what is actually available now.
+- [70] **Servas**: The soil samples are already gathered. The glasshouse crew is ready. We need a project that fits our current strengths, not our past regrets.
+- [71] **Sakura**: @Minako, wait! If the glasshouse is full, does that mean D is out? I’m still dizzy!
+- [72] **Daisuke**: I... I am still worried. The data says A is the safest bet. I will vote for A.
+- [73] **Takumi**: @Minako, the glasshouse is booked solid. D is a bottleneck waiting to happen. A is pure data, no live risks. I’m voting A.
+- [74] **Minako**: @Sakura, D is not out. The glasshouse is booked, but the free compute and fast repository support data-heavy work. We must match the project to what is actually available now.
+- [75] **Servas**: I have seen the hands we hold. The glasshouse crew stands firm, ready for D. I vote for D.
+- [76] **Sakura**: @Minako, okay! If D is safe, I’ll vote D! The free computer time is a great bonus, and I trust your calm voice!
+- [77] **Daisuke**: I... I am still worried. The data says A is the safest bet. I will vote for A.
+- [78] **Takumi**: @Minako, I hear you, but the logs don't lie. D is a bottleneck. I'm sticking with A. No live risks, no delays.
+- [79] **Minako**: @Takumi, the glasshouse crew is at full strength, not a bottleneck. The repository speed favors A. I vote A.
+### Vote
+- Servas -> D
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

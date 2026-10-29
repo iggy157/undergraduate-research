@@ -1,0 +1,73 @@
+# candidate_selection_0015__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: We must verify external dependencies before committing to any new service lines.
+- [6] **Yumi**: I worry about who gets left behind when our opening hours shift.
+- [7] **George**: Funding structures often hide long-term liabilities that surface only after the vote.
+- [8] **May**: Why do we treat every proposal as novel when similar ones failed here?
+- [9] **Daisuke**: I am concerned about adding tasks to staff who are already stretched thin.
+- [10] **Ryuji**: @George, do the grant terms allow for contingency if suppliers fail?
+- [11] **Yumi**: @May, I agree. We need to know which stops actually worked before.
+- [12] **George**: @Ryuji, Yes, but only if we structure the endowment correctly from day one.
+- [13] **May**: @Yumi, Exactly. The attendance sheets from former outreach stops are the key.
+- [14] **Daisuke**: @George, I worry the endowment might not cover the training costs for new skills.
+- [15] **Ryuji**: @Daisuke, Training is internal, but delivery windows are external and volatile.
+- [16] **Yumi**: @Ryuji, True. And winter road closures north of the river make delivery impossible.
+- [17] **George**: @Yumi, That is a logistical barrier, but the financial barrier is more insidious.
+- [18] **May**: @George, Let’s look at the two programmes begun six years ago for comparison.
+- [19] **Daisuke**: @May, I hope those programmes didn’t rely on volunteers without proper supervision.
+- [20] **Ryuji**: I will check the supplier delivery windows and the winter road closures.
+- [21] **Yumi**: I will look at the bus links and the former outreach attendance sheets.
+- [22] **George**: I will examine the county grant terms and the running lines from last year.
+- [23] **May**: I will review the two old programmes and the volunteer register.
+- [24] **Daisuke**: I will check the volunteer supervision training and the evening room bookings.
+## Round 2
+- [35] **Ryuji**: The supplier quotes show delivery windows slip when larger clients book first.
+- [36] **Yumi**: The bus links are gone in the outer wards, so we must go to them.
+- [37] **George**: The grant pays session fees for twelve months, then the flat budget takes over.
+- [38] **May**: The old digitisation project failed because no one owned the indexing, but the evening groups survived.
+- [39] **Daisuke**: I found that volunteers run the repair clinic, but no staff member is trained to supervise them.
+- [40] **Ryuji**: @Yumi, If the roads close, how do we get the equipment to the halls?
+- [41] **Yumi**: @Ryuji, We can’t. That is why the outreach model worked; we brought the service to them.
+- [42] **George**: @Ryuji, The vehicle line overran by a third last year. We cannot afford the fuel.
+- [43] **May**: @Daisuke, That is the gap. The evening groups worked because the volunteers were self-managing.
+- [44] **Daisuke**: @May, Yes, but if we add a new service, who checks that the volunteers are actually qualified?
+- [45] **Ryuji**: @George, If the vehicle line is over, we cannot rely on central dispatch for remote areas.
+- [46] **Yumi**: @Ryuji, Exactly. The data shows the outer wards are the only ones with real demand.
+- [47] **George**: @Yumi, But the endowment covers capital, not the recurring costs of running those vehicles.
+- [48] **May**: @George, The old programmes show that low-cost, volunteer-led models are the only ones that stick.
+- [49] **Daisuke**: @May, I agree. A model that relies on existing volunteers without new staff training is safer.
+- [50] **Ryuji**: I am leaning toward a model that does not depend on our vehicles or suppliers.
+- [51] **Yumi**: I am pushing for the outreach option. It is the only one that reaches the people who lost the bus.
+- [52] **George**: I am concerned about the recurring costs. The grant ends, and the flat budget is already thin.
+- [53] **May**: I am voting for the option that uses the existing volunteer infrastructure. It has a track record.
+- [54] **Daisuke**: I am worried about the supervision gap. We need a candidate that does not require new certifications.
+## Round 3
+- [60] **Ryuji**: Option D relies on vehicles and suppliers. The data shows those are the most fragile links.
+- [61] **Yumi**: Option D is the only one that reaches the outer wards where the bus links are gone.
+- [62] **George**: Option A has recurring facilitator costs. The grant ends, and the flat budget cannot absorb that.
+- [63] **May**: Option C uses the existing volunteer infrastructure. The repair clinic already runs without staff supervision.
+- [64] **Daisuke**: Option C is the only one that does not require new staff certifications or overload the roster.
+- [65] **Ryuji**: @Yumi, I understand the demand, but the winter road closures make D impossible to guarantee.
+- [66] **Yumi**: @Ryuji, The attendance sheets show forty visitors a session. We cannot ignore that many people.
+- [67] **George**: @Yumi, The vehicle line overran by a third. We cannot fund the fuel for D.
+- [68] **May**: @George, Option C has a track record. The old programmes show that volunteer-led models survive.
+- [69] **Daisuke**: @May, I agree. Option C uses the volunteers who are already there. No new training needed.
+- [70] **Ryuji**: @George, If we choose C, we avoid the supplier and vehicle risks entirely.
+- [71] **Yumi**: @Ryuji, But C only serves the main branch. The outer wards are left behind again.
+- [72] **George**: @Yumi, The endowment covers the room setup for C, but not the recurring costs of D.
+- [73] **May**: @Yumi, The old evening groups in the outer wards were volunteer-led. We can replicate that model.
+- [74] **Daisuke**: @May, That is the key. We can use the existing volunteers without adding to the staff burden.
+- [75] **Ryuji**: I am voting for C. It is the only option that does not depend on external logistics.
+- [76] **Yumi**: I am voting for D. It is the only option that reaches the people who have lost their transport.
+- [77] **George**: I am voting for C. It aligns with the endowment rules and avoids the recurring cost trap.
+- [78] **May**: I am voting for C. It has a proven track record and uses the existing volunteer infrastructure.
+- [79] **Daisuke**: I am voting for C. It does not require new certifications or overload the staff roster.
+### Vote
+- Ryuji -> C
+- Yumi -> D
+- George -> C
+- May -> C
+- Daisuke -> C
+## Result
+- adopted: C

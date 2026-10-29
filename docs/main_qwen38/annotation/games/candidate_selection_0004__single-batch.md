@@ -1,0 +1,73 @@
+# candidate_selection_0004__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I worry about the ground shifting under the diggers. We need to know what the soil can actually handle.
+- [6] **Benjamin**: The park is a living system. I want to see how people actually move through it on a normal day.
+- [7] **Minato**: Who is going to mow the grass and fix the fences? I am worried about the daily work.
+- [8] **Minako**: Pretty drawings lie. I want to see what the last projects look like after five years of rain.
+- [9] **Jonathan**: I am quiet, but I count the coins. I need to know the long-term cost of keeping this place alive.
+- [10] **Kenji**: @Benjamin, do you think the paths will hold up if the ground is soft?
+- [11] **Benjamin**: @Kenji, only if we respect the drainage. I am checking the crossing patterns to see where the pressure is.
+- [12] **Minato**: I am looking at the staff list. It feels like there are fewer people to do the work now.
+- [13] **Minako**: I am reviewing the condition of the old works. If the apron cracked, the new one might too.
+- [14] **Jonathan**: I am reading the upkeep ledgers. The numbers from three years ago look very different from today.
+- [15] **Kenji**: I am checking which firms are still willing to dig here. It seems like a risky job.
+- [16] **Benjamin**: I am looking at the heat readings and drainage calls. The ground gets hot and wet, and that matters.
+- [17] **Minato**: I am asking about the volunteer groups. Maybe they can help with the small tasks?
+- [18] **Minako**: I am looking at the planting records. If the trees died before, we need to know why.
+- [19] **Jonathan**: I am checking the terms of the funding. It seems the money has strict rules about what it can buy.
+- [20] **Kenji**: Let us see what the ground tells us.
+- [21] **Benjamin**: Logic over aesthetics. Let us look at the data.
+- [22] **Minato**: I hope we find a plan that is easy to care for.
+- [23] **Minako**: Facts will guide us. Let us proceed.
+- [24] **Jonathan**: I will keep the ledger open.
+## Round 2
+- [35] **Kenji**: Only two firms are bidding, and they both warned about clay slippage. The south can be hoarded, but the center cannot.
+- [36] **Benjamin**: The counts show people stick to hard ground. The heat readings are high, and drainage calls have doubled. The site is stressed.
+- [37] **Minato**: The staff roll is down to seven. But there are two volunteer groups already helping with habitat and youth sports.
+- [38] **Minako**: The old basin is fine, but the civic hall apron has been patched three times. Half the avenue trees died from lack of water.
+- [39] **Jonathan**: The habitat fund only pays for planting and water, not buildings. And upkeep for planted ground is triple the cost of hard surfaces.
+- [40] **Kenji**: @Minako, if the trees died from neglect, does that mean we can't trust the planting plans?
+- [41] **Benjamin**: @Kenji, the slippage risk is real. We need a plan that doesn't fight the ground.
+- [42] **Minato**: @Jonathan, if upkeep is triple, that is a lot of money. But the volunteers might help with the basic care.
+- [43] **Minako**: @Benjamin, the drainage issue is serious. We need something that handles water well, not just looks good.
+- [44] **Jonathan**: @Minato, volunteers are great, but they don't pay for specialist water care. The ledger is the truth.
+- [45] **Kenji**: The phasing notes say we can keep the park open if we work in stages. That is good for the community.
+- [46] **Benjamin**: The heat and drainage data suggest we need more green space to cool the area and absorb rain.
+- [47] **Minato**: The volunteer groups are already there. It feels like a natural fit for a plan that uses them.
+- [48] **Minako**: The condition of the old works shows that hard surfaces fail. The basin survived because it was designed for water.
+- [49] **Jonathan**: The funding terms are strict. We can only build what the fund allows. That limits our options significantly.
+- [50] **Kenji**: I am leaning towards a plan that works with the ground, not against it.
+- [51] **Benjamin**: The data points to a need for better drainage and cooling.
+- [52] **Minato**: I like the idea of using the volunteers. It feels right.
+- [53] **Minako**: I am convinced that water management is key.
+- [54] **Jonathan**: I am concerned about the long-term cost, but the funding terms are clear.
+## Round 3
+- [60] **Kenji**: Candidate A, Wetland Restoration, fits the drainage needs and the funding terms. It uses the water, not fights it.
+- [61] **Benjamin**: A addresses the heat and drainage issues directly. It is the logical choice based on the data.
+- [62] **Minato**: A involves habitat tasks, which the volunteer group already does. It seems like a good match for the people here.
+- [63] **Minako**: A is the only plan that aligns with the successful basin design. It is robust and long-lasting.
+- [64] **Jonathan**: A is funded by the habitat fund. While upkeep is higher, the capital cost is covered. It is the only viable option financially.
+- [65] **Kenji**: @Minako, do you agree that A is the most durable option?
+- [66] **Benjamin**: @Kenji, yes. The data supports it. B and D would fail the drainage test.
+- [67] **Minato**: @Jonathan, is the upkeep cost really that high? I hope the volunteers can help.
+- [68] **Minako**: @Minato, the volunteers help, but the specialist care is bought in. It is a cost, but a necessary one.
+- [69] **Jonathan**: @Minato, it is high, but the fund covers the capital. We must accept the ongoing cost for a working system.
+- [70] **Kenji**: I am voting for A. It respects the ground and the community.
+- [71] **Benjamin**: I am voting for A. It is the only plan that makes sense with the data.
+- [72] **Minato**: I am voting for A. It feels like the right choice for the people and the place.
+- [73] **Minako**: I am voting for A. It is the most resilient and well-designed option.
+- [74] **Jonathan**: I am voting for A. It is the only plan that fits the funding and the long-term reality.
+- [75] **Kenji**: Let us move forward with A.
+- [76] **Benjamin**: Agreed.
+- [77] **Minato**: I am happy with this choice.
+- [78] **Minako**: A is the clear winner.
+- [79] **Jonathan**: I will monitor the ledger, but A is the right path.
+### Vote
+- Kenji -> A
+- Benjamin -> A
+- Minato -> A
+- Minako -> A
+- Jonathan -> A
+## Result
+- adopted: A

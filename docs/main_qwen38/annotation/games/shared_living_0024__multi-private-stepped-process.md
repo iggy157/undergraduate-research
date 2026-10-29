@@ -1,0 +1,73 @@
+# shared_living_0024__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost before we book. No surprises!
+- [6] **Shunichi**: I care about how much time we waste just getting there.
+- [7] **Asuka**: We need a clear rule on who pays for what. No ambiguity.
+- [8] **Takumi**: I need to know if I can sleep without being woken up.
+- [9] **Toshio**: I am looking for a balance between togetherness and quiet.
+- [10] **Rin**: @Shunichi, if the travel is cheap but long, is it worth it?
+- [11] **Shunichi**: Only if the transit is efficient. I hate waiting around.
+- [12] **Asuka**: @Rin, cost is only part of it. The payment structure matters more.
+- [13] **Takumi**: @Toshio, quiet is not a luxury. It is a necessity for me.
+- [14] **Toshio**: @Takumi, I agree. But we also need shared moments.
+- [15] **Rin**: I will check the all-in rates. That seems safest for me.
+- [16] **Shunichi**: I will look at ferry times and train schedules.
+- [17] **Asuka**: I will investigate the all-in rates and last year's room costs.
+- [18] **Takumi**: I will check bathing hours and how last year's days ran.
+- [19] **Toshio**: I will look into time alone and how last year's days ran.
+- [20] **Rin**: Okay, let's see what we find. I hope it is clear.
+- [21] **Shunichi**: I will focus on minimizing the transit time.
+- [22] **Asuka**: I need to ensure the financial split is automatic and fair.
+- [23] **Takumi**: I will verify if the schedule allows for late nights.
+- [24] **Toshio**: I will analyze the social flow of the previous trip.
+## Round 2
+- [35] **Rin**: I found that all-in rates charge everyone the same, even if they eat less.
+- [36] **Shunichi**: The ferry schedule is tight. We lose two full days just moving.
+- [37] **Asuka**: I found that separate room bookings caused uneven costs last year.
+- [38] **Takumi**: I found the baths close at midnight and the water runs cold.
+- [39] **Toshio**: I found that last year we drifted apart because we moved separately.
+- [40] **Rin**: @Asuka, that confirms my fear. Separate bookings are a mess.
+- [41] **Shunichi**: @Rin, if we take the train, we save a day. But it is crowded.
+- [42] **Asuka**: @Rin, exactly. An all-in rate or a whole-house bill fixes that.
+- [43] **Takumi**: @Toshio, drifting apart is bad, but I need my own space to sleep.
+- [44] **Toshio**: @Takumi, a shared house with a public bath nearby solves both.
+- [45] **Rin**: I prefer the whole-house option. One bill, no surprises.
+- [46] **Shunichi**: The train option is faster. I can handle the crowd.
+- [47] **Asuka**: The whole-house bill divides evenly. That is the only fair way.
+- [48] **Takumi**: If the house has a private bath, I can sleep. I will check.
+- [49] **Toshio**: A house with a public bath nearby gives us both group time and privacy.
+- [50] **Rin**: I am leaning towards the whole-house option. It is predictable.
+- [51] **Shunichi**: I will vote for the train option if it saves time.
+- [52] **Asuka**: I will vote for the whole-house option. The cost structure is sound.
+- [53] **Takumi**: I need to know if the house has a private bath.
+- [54] **Toshio**: I will support the option that keeps us together but allows quiet.
+## Round 3
+- [60] **Rin**: Option A is a whole house. That means one bill. I like that.
+- [61] **Shunichi**: Option A takes two days by ferry. That is too much lost time.
+- [62] **Asuka**: Option A is the only one where the cost is a single, divisible bill.
+- [63] **Takumi**: Option A is a house. I need to know if it has a private bath.
+- [64] **Toshio**: Option A keeps us together. Option C lets us drift apart.
+- [65] **Rin**: @Takumi, if the house has a private bath, I am happy.
+- [66] **Shunichi**: @Rin, the ferry is the problem. I cannot lose two days to it.
+- [67] **Asuka**: @Shunichi, time is less important than a fair financial structure.
+- [68] **Takumi**: @Rin, I will accept Option A if the bath is private.
+- [69] **Toshio**: @Shunichi, the ferry is part of the experience. It is not just transit.
+- [70] **Rin**: I am voting for Option A. The cost is clear and simple.
+- [71] **Shunichi**: I am voting for Option B. The train is faster and the inn is efficient.
+- [72] **Asuka**: I am voting for Option A. The single bill prevents individual loss.
+- [73] **Takumi**: I am voting for Option A. I will trust that the house has a bath.
+- [74] **Toshio**: I am voting for Option A. It balances group time and personal space.
+- [75] **Rin**: I hope the bath is good. I am ready to go.
+- [76] **Shunichi**: I will try to enjoy the ferry, but I am not optimistic.
+- [77] **Asuka**: The financial risk is minimized. That is what matters.
+- [78] **Takumi**: I will sleep well if the bath is private. I am ready.
+- [79] **Toshio**: I am ready. I think this is the right balance for us.
+### Vote
+- Rin -> A
+- Shunichi -> B
+- Asuka -> A
+- Takumi -> A
+- Toshio -> A
+## Result
+- adopted: A

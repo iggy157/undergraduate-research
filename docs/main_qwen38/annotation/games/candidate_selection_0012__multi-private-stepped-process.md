@@ -1,0 +1,73 @@
+# candidate_selection_0012__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: Our quarter-end reporting is a nightmare. I need to know if this new holding will break our audit trail.
+- [6] **Jonathan**: I am worried about the time we spend sourcing talent. Who can actually be hired right now?
+- [7] **Shizue**: I worry our success stories are just noise. I want to see who actually kept their customers.
+- [8] **Misaki**: I am watching our cash burn. I need to know what we can borrow against if this fails.
+- [9] **Shion**: I am tired of delays. I want to know exactly what stops the product from launching.
+- [10] **Mizuki**: @Misaki, if the numbers are opaque, our audit fees will skyrocket. I need independent checks.
+- [11] **Jonathan**: @Shion, if the product is delayed, we waste months recruiting people who have nothing to do.
+- [12] **Shizue**: @Mizuki, I agree. If the customers leave, the revenue is a ghost. I will look at retention.
+- [13] **Misaki**: @Shion, I need to see the credit terms. If we cannot borrow, we are stuck.
+- [14] **Shion**: @Jonathan, I will look at the security review. That is usually the bottleneck.
+- [15] **Mizuki**: I will check the independent figures and the audit needs. I cannot trust the rest.
+- [16] **Jonathan**: I will look at the recruiter times and the adviser bench. I need to know who is available.
+- [17] **Shizue**: I will check account retention and the delivery records. I need to see the truth.
+- [18] **Misaki**: I will look at the reserve accounts and the credit line terms. That is my priority.
+- [19] **Shion**: I will look at the security review time and the delivery records. I need to see the delays.
+- [20] **Mizuki**: Let us proceed. I will not sign off on anything I cannot verify.
+- [21] **Jonathan**: Agreed. I will focus on the human capital side.
+- [22] **Shizue**: I will focus on the customer side.
+- [23] **Misaki**: I will focus on the capital side.
+- [24] **Shion**: I will focus on the operational side.
+## Round 2
+- [35] **Mizuki**: The hardware holdings need outside appraisals. That adds six weeks and a five-figure fee to our audit.
+- [36] **Jonathan**: My recruiters can fill support roles fast, but they cannot find shift supervisors or seasonal crews. That is a four-month gap.
+- [37] **Shizue**: The tool that ran inside the bank's cycle never missed a release. The one that built its own devices lost five months.
+- [38] **Misaki**: The credit line only values stock we can sell. It ignores subscriptions. We cannot borrow against this model.
+- [39] **Shion**: The security review for regulated customers took three quarters. That is the real delay, not the code.
+- [40] **Mizuki**: @Misaki, if the credit line ignores subscriptions, we are exposed. I need to know if the numbers are real.
+- [41] **Jonathan**: @Shion, if the security review takes three quarters, we are hiring people who sit idle. That is a waste.
+- [42] **Shizue**: @Mizuki, the bank tool kept its customers. The device one lost them. That is the difference.
+- [43] **Misaki**: @Shion, the security review is a cost. I need to know if we can borrow against the stock to cover it.
+- [44] **Shion**: @Jonathan, the security review is not a cost. It is a barrier. We need to know if we can cross it.
+- [45] **Mizuki**: The software holdings are easier to verify. The hardware ones are a black box. I prefer the software.
+- [46] **Jonathan**: The software roles are easier to fill. The hardware roles are a nightmare. I prefer the software.
+- [47] **Shizue**: The software tool kept its customers. The hardware one did not. I prefer the software.
+- [48] **Misaki**: The software model has no stock. The credit line ignores it. I prefer the hardware, if we can borrow.
+- [49] **Shion**: The software tool had no security review. The hardware one did. I prefer the software.
+- [50] **Mizuki**: I am leaning toward the software. It is easier to audit.
+- [51] **Jonathan**: I am leaning toward the software. It is easier to staff.
+- [52] **Shizue**: I am leaning toward the software. It kept its customers.
+- [53] **Misaki**: I am leaning toward the hardware. It has stock. I can borrow against it.
+- [54] **Shion**: I am leaning toward the software. It has no security review.
+## Round 3
+- [60] **Mizuki**: Ledger Bridge is pure software. No appraisals, no hardware. My audit will be clean.
+- [61] **Jonathan**: Clinic Scheduler needs support staff. My recruiters can fill those in weeks. Fabric Loop needs field crews. I cannot find them.
+- [62] **Shizue**: Ledger Bridge runs inside the bank's cycle. It never missed a release. It kept its customers.
+- [63] **Misaki**: Fabric Loop has stock. I can borrow against it. Ledger Bridge has none. I cannot borrow against it.
+- [64] **Shion**: Ledger Bridge has no security review. It is already deployed. No delays.
+- [65] **Mizuki**: @Misaki, I know you want the stock. But the audit burden on Fabric Loop is too high. I cannot sign off.
+- [66] **Jonathan**: @Shion, I agree. Ledger Bridge is the only one where my recruiters can actually help. The others are a dead end.
+- [67] **Shizue**: @Mizuki, I am with you. Ledger Bridge is the only one that kept its customers. The others are a risk.
+- [68] **Misaki**: @Shion, I am stuck. I need the stock to borrow. But I cannot ignore the audit risk.
+- [69] **Shion**: @Misaki, the security review is the real risk. Ledger Bridge has none. It is the only safe choice.
+- [70] **Mizuki**: I am voting for Ledger Bridge. It is the only one I can audit.
+- [71] **Jonathan**: I am voting for Ledger Bridge. It is the only one I can staff.
+- [72] **Shizue**: I am voting for Ledger Bridge. It is the only one that kept its customers.
+- [73] **Misaki**: I am voting for Fabric Loop. It is the only one I can borrow against.
+- [74] **Shion**: I am voting for Ledger Bridge. It is the only one with no security review.
+- [75] **Mizuki**: Ledger Bridge is the clear winner. It minimizes my audit risk.
+- [76] **Jonathan**: Ledger Bridge is the clear winner. It minimizes my staffing risk.
+- [77] **Shizue**: Ledger Bridge is the clear winner. It minimizes my customer risk.
+- [78] **Misaki**: I am unhappy, but I accept the decision. The audit risk is too high for Fabric Loop.
+- [79] **Shion**: Ledger Bridge is the clear winner. It minimizes my delay risk.
+### Vote
+- Mizuki -> B
+- Jonathan -> B
+- Shizue -> B
+- Misaki -> C
+- Shion -> B
+## Result
+- adopted: B

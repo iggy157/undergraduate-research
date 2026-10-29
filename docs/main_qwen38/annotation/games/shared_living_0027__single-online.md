@@ -1,0 +1,73 @@
+# shared_living_0027__single-online (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a fair system for the bike spaces.
+- [6] **Yumi**: I agree, Asuka. But "fair" is tricky when we don't even know who's actually using the spots right now.
+- [7] **Ryuji**: The morning rush is already a bottleneck. We need to know exactly how many bikes are actually leaving the building each day.
+- [8] **Shunichi**: And before anyone asks, what does this cost? I’m tired of proposals that ignore the budget.
+- [9] **Toshio**: And who maintains it? The last two roles we created just vanished because nobody wanted the paperwork.
+- [10] **Asuka**: @Shunichi, @Toshio, valid points. But we can't just guess. We need data to back up any decision.
+- [11] **Yumi**: @Ryuji, that sounds intense. I hope it’s not as bad as it sounds.
+- [12] **Ryuji**: It’s not about drama, it’s about logistics. If we don’t know the volume, we can’t size the solution.
+- [13] **Shunichi**: @Yumi, it’s not about drama, it’s about reality. If we don’t know the numbers, we’re just guessing.
+- [14] **Toshio**: @Asuka, agreed. I’ll look into the maintenance burden. @Shunichi, I’ll check the ledger for costs.
+- [15] **Asuka**: @Toshio, checking the ledger is a start, but I need to know if this arrangement is actually causing friction. I’ll look into the complaint log.
+- [16] **Yumi**: I’ll check the sticker register to see who actually rides daily, and the minutes to see how the current spots were assigned.
+- [17] **Ryuji**: I’ll watch the morning departures to count the actual volume, and check the rain exposure to see which spots are actually usable.
+- [18] **Shunichi**: I’ll check the ward cycle park rates and the treasurer’s handover file. We need to know the market price and the actual administrative load.
+- [19] **Toshio**: I’ll review the treasurer’s handover file for the workload, and the neighbouring block’s account to see how their system failed.
+- [20] **Asuka**: I’ll also review the five years of association minutes to see if the current arrangement has ever been formally challenged.
+- [21] **Yumi**: I’ll also check the supplier’s display frame trial to see if shared racks are even practical for us.
+- [22] **Ryuji**: I’ll also check the sticker register to see if daily riders would actually pay for a guaranteed spot.
+- [23] **Shunichi**: I’ll also check the building’s two-year ledger to see if we have any capital funds left for this.
+- [24] **Toshio**: I’ll also review the last year’s complaint log to see if the current setup is already causing friction.
+## Round 2
+- [35] **Asuka**: #### Turn 1 of 4
+- [36] **Yumi**: - **Asuka**: The complaint log shows nine notes about bikes leaning on each other, but every single one died out because there was no one in particular to ask.
+- [37] **Ryuji**: - **Ryuji**: Nine dead complaints. That’s not a system, that’s a vacuum.
+- [38] **Shunichi**: Nine dead complaints. That’s not a system, that’s a vacuum.
+- [39] **Toshio**: The neighbouring block’s monthly charge left three households in arrears, and two stopped attending meetings entirely.
+- [40] **Asuka**: - **Asuka**: @Toshio, that’s a warning. If we charge, we risk losing people from the room entirely.
+- [41] **Yumi**: - **Yumi**: @Asuka, that’s scary. I hope we don’t end up with empty meetings.
+- [42] **Ryuji**: - **Ryuji**: @Toshio, so a fee creates a class of people who just stop showing up?
+- [43] **Shunichi**: @Toshio, that’s a cautionary tale. But I need to know if we can even afford the alternative.
+- [44] **Toshio**: @Shunichi, the ledger shows we have no capital funds. Any new infrastructure requires a levy on every household.
+- [45] **Asuka**: @Toshio, so we are forced to choose between a fee that drives people away and a levy that costs everyone?
+- [46] **Yumi**: - **Yumi**: @Asuka, that sounds like a lose-lose. I just want us to keep getting along, not start a war over money.
+- [47] **Ryuji**: @Asuka, not necessarily. The ledger shows the shared account is flat, but the ward park charges 2,600 yen monthly. If we price it right, we might cover costs without a levy.
+- [48] **Shunichi**: @Ryuji, the ward park has fourteen households waiting. We are not the only option, but we are the only one right here.
+- [49] **Toshio**: @Shunichi, exactly. The ledger is empty, so any capital work hits everyone. But the ward park’s waitlist proves demand is real, not just our problem.
+- [50] **Asuka**: @Ryuji, pricing it right is easy to say. The real risk is that the fee creates the exact social fracture I’m trying to avoid.
+- [51] **Yumi**: - **Yumi**: @Asuka, I get that. But my sticker register shows daily riders would rather pay than be treated as equal claimants.
+- [52] **Ryuji**: - **Ryuji**: @Yumi, that’s useful. But my morning watch showed four people shifting bikes just to leave. A fee doesn’t fix the physical bottleneck.
+- [53] **Shunichi**: @Ryuji, the bottleneck is real, but the ledger is empty. We can’t fix physics with money we don’t have.
+- [54] **Toshio**: @Shunichi, the handover file shows three hours monthly just for current collections. Adding per-place billing would double that burden on whoever takes it.
+## Round 3
+- [60] **Asuka**: #### Turn 1 of 4
+- [61] **Yumi**: - **Asuka**: Options are on the table. A is paid, B is lottery, C is shared racks.
+- [62] **Ryuji**: - **Ryuji**: Option C. My rain data shows the open racks are useless in winter. We need guaranteed, covered spots.
+- [63] **Shunichi**: @Ryuji, covered spots are already taken. Option A. The ward park proves people will pay to avoid the hassle.
+- [64] **Toshio**: @Shunichi, the neighbouring block’s fee drove two households out of meetings. I won’t risk that social fracture. Option B.
+- [65] **Asuka**: - **Asuka**: @Toshio, a lottery ignores the daily riders who need certainty. @Shunichi, a fee risks the exact isolation I fear. I need a middle ground.
+- [66] **Yumi**: - **Yumi**: @Asuka, I hear you. But my sticker register shows daily riders would rather pay than be counted as one equal claim.
+- [67] **Ryuji**: @Yumi, that’s a preference, not a solution. My morning watch proved the physical bottleneck remains regardless of who holds the spot.
+- [68] **Shunichi**: @Ryuji, the bottleneck is a maintenance issue, not a pricing one. Option A funds the fix.
+- [69] **Toshio**: @Shunichi, funding the fix doesn’t fix the social rot. The ledger is empty, so A just shifts the burden. B is the only neutral ground.
+- [70] **Asuka**: - **Asuka**: @Toshio, neutrality is just another word for indifference. I will vote for Option A, but only if we guarantee no one is excluded.
+- [71] **Yumi**: - **Yumi**: @Asuka, I’m voting for Option A. The riders want certainty, and I’d rather pay than fight over spots.
+- [72] **Ryuji**: - **Ryuji**: @Asuka, your guarantee is empty without enforcement. I vote B. At least the lottery is blind to who you are.
+- [73] **Shunichi**: @Ryuji, the lottery is blind, but the morning rush isn’t. I vote A. The ward park proves people pay for certainty.
+- [74] **Toshio**: @Shunichi, the ward park is a business, we are neighbors. I vote B. It is the only option that doesn’t create debtors.
+- [75] **Asuka**: - **Asuka**: Final vote. A: 3, B: 2. Option A is adopted.
+- [76] **Yumi**: - **Yumi**: Yay! Option A it is. I’m glad we found a way that works for everyone.
+- [77] **Ryuji**: - **Ryuji**: Fine. But if the morning rush doesn't clear, I'm taking my bike to the ward park.
+- [78] **Shunichi**: @Ryuji, the ward park has a fourteen-household waitlist. You’d be lucky to get a spot there.
+- [79] **Toshio**: @Ryuji, noted. I’ll draft the billing schedule. Just don’t expect me to do the reconciling.
+### Vote
+- Asuka -> A
+- Yumi -> A
+- Ryuji -> B
+- Shunichi -> A
+- Toshio -> B
+## Result
+- adopted: A

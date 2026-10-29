@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I worry about relying on external conditions. Let's check what actually happened before.
+- [6] **Benjamin**: We should look at past records. Repeating mistakes is inefficient.
+- [7] **Shion**: Staff capacity is the real bottleneck. I need to see who is actually available.
+- [8] **Minako**: The budget structure matters more than the total. I will examine the funding terms.
+- [9] **Daisuke**: I am concerned about access. Where we are located changes who can come.
+- [10] **Yumi**: @Benjamin, do you think looking at old data will help us avoid new pitfalls?
+- [11] **Benjamin**: @Yumi, absolutely. History is the best predictor of failure.
+- [12] **Shion**: I will check the volunteer register. We need to know our actual skills.
+- [13] **Minako**: I will look at the county grant terms. The shape of the money is key.
+- [14] **Daisuke**: I will check the bus links. If they are gone, we are isolated.
+- [15] **Yumi**: I will look at the winter road closures. Weather always disrupts plans.
+- [16] **Benjamin**: I will check the two programmes from six years ago. We need to see what failed.
+- [17] **Shion**: I will also check the neighbourhood associations. They might have the skills we lack.
+- [18] **Minako**: I will also check the running and equipment lines. I need to see the overruns.
+- [19] **Daisuke**: I will also check the evening room bookings. I need to see when people actually come.
+- [20] **Yumi**: Thanks, everyone. Let's see what the data says.
+- [21] **Benjamin**: Agreed. Facts over feelings.
+- [22] **Shion**: Let's proceed.
+- [23] **Minako**: Understood.
+- [24] **Daisuke**: Okay.
+## Round 2
+- [35] **Yumi**: The roads closed, but the halls stayed open. That’s a good sign for local resilience.
+- [36] **Benjamin**: The digitisation project failed. Half the images are unindexed. We shouldn't repeat that.
+- [37] **Shion**: We have volunteers, but no one to supervise them. That’s a critical gap.
+- [38] **Minako**: The grant only covers sessions for a year. Then we pay from the flat budget. That’s a trap.
+- [39] **Daisuke**: The bus links are gone. People can’t get to us easily. That’s a huge problem.
+- [40] **Yumi**: @Minako, if the grant ends, do we have to stop the service?
+- [41] **Benjamin**: @Yumi, likely. Unless we find a sustainable model. The old one didn't work.
+- [42] **Shion**: @Benjamin, the neighbourhood groups are self-sustaining. Maybe we should partner with them?
+- [43] **Minako**: @Shion, that’s possible. But we need to check if they have the right skills.
+- [44] **Daisuke**: @Minako, the remote use peaks after we close. We need to extend hours or go mobile.
+- [45] **Yumi**: The tooling ships fast. That’s good for a workshop.
+- [46] **Benjamin**: The vehicle costs are high. A mobile service might be too expensive to run.
+- [47] **Shion**: The retired technician is gone. We can’t certify tools without him.
+- [48] **Minako**: The equipment budget was under. We have some slack there.
+- [49] **Daisuke**: The mobile service could reach the outer wards. That solves the access issue.
+- [50] **Yumi**: I think the mobile service is the most resilient. It doesn't depend on one building.
+- [51] **Benjamin**: I agree. It avoids the digitisation trap.
+- [52] **Shion**: I am concerned about the staff. Who will drive the van?
+- [53] **Minako**: We can use the equipment slack to buy the van. The grant covers the sessions.
+- [54] **Daisuke**: Yes. It reaches the people who can't come to us.
+## Round 3
+- [60] **Yumi**: Option D seems best. It handles the road closures and reaches the outer wards.
+- [61] **Benjamin**: Option B is a repeat of the failed digitisation project. I oppose it.
+- [62] **Shion**: Option A needs tool certification. We don't have the technician. Option D is safer.
+- [63] **Minako**: Option D uses the equipment slack. The grant covers the staff. It’s financially sound.
+- [64] **Daisuke**: Option D solves the access problem. The bus links are gone, so we must go to them.
+- [65] **Yumi**: @Shion, can we find a new technician for Option A?
+- [66] **Benjamin**: @Yumi, it’s risky. The old project failed because of lack of follow-through.
+- [67] **Shion**: @Benjamin, Option D doesn't need a technician. It needs a driver. We have that.
+- [68] **Minako**: @Shion, correct. The running costs are high, but we have the equipment budget.
+- [69] **Daisuke**: @Minako, the remote use peaks at night. Option D can’t do that, but it’s better than nothing.
+- [70] **Yumi**: I’m voting for D. It’s the most resilient and accessible.
+- [71] **Benjamin**: I’m voting for D. It avoids the pitfalls of B and A.
+- [72] **Shion**: I’m voting for D. It’s the most logical choice given our constraints.
+- [73] **Minako**: I’m voting for D. The funding structure supports it.
+- [74] **Daisuke**: I’m voting for D. It reaches the people who need us most.
+- [75] **Yumi**: It seems we are all in agreement.
+- [76] **Benjamin**: Indeed. The data supports it.
+- [77] **Shion**: Let’s proceed.
+- [78] **Minako**: Agreed.
+- [79] **Daisuke**: Okay.
+### Vote
+- Yumi -> D
+- Benjamin -> D
+- Shion -> D
+- Minako -> D
+- Daisuke -> D
+## Result
+- adopted: D

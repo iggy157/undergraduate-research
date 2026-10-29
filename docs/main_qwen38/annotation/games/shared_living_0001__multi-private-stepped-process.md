@@ -1,0 +1,71 @@
+# shared_living_0001__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Mio**: I worry about hidden costs. Let's check the transport receipts and the prefecture rate sheet.
+- [6] **Shizue**: I want to see if we can mix year-groups better. I'll look at the seniors' comments.
+- [7] **Ryuji**: Last year's duty schedule was a disaster. I need to check the canteen closure and cooking duty logs.
+- [8] **Rin**: I need to know if we can actually sleep. I'll check the attendance sheets and the hall timetable.
+- [9] **Misaki**: We cannot afford another deficit. I will review the accounts from the inland clubs and the public beds rate sheet.
+- [10] **Mio**: @Misaki, if the inland accounts show high transport costs, we might need to rethink the location entirely.
+- [11] **Shizue**: @Ryuji, if the canteen is closed, how do we encourage people to talk over dinner?
+- [12] **Ryuji**: @Shizue, if the canteen is closed, we have to cook. That is the problem. I want to avoid that.
+- [13] **Rin**: @Mio, if we stay in the hall, the beds are old. I want to check the quality of the sleep.
+- [14] **Misaki**: @Rin, sleep is important, but so is the budget. We need to know the exact cost per person first.
+- [15] **Mio**: I think we should look at the group transport receipts to see where the money actually goes.
+- [16] **Shizue**: I will look into what the seniors say about mixing year-groups. It might give us ideas for activities.
+- [17] **Ryuji**: I will check the canteen closure details and the last year's cooking duty. I need to know the workload.
+- [18] **Rin**: I will look at the attendance sheets for away camps and the vacation timetable for our own hall.
+- [19] **Misaki**: I will examine the accounts from the two clubs that went inland and the prefecture rate sheet for public beds.
+- [20] **Mio**: Okay, let's divide the work. I will focus on the financial fairness and transport costs.
+- [21] **Shizue**: I will focus on the social aspect. I want to ensure everyone feels included, not just the seniors.
+- [22] **Ryuji**: I will focus on the operational burden. I refuse to repeat last year's exhaustion.
+- [23] **Rin**: I will focus on the physical comfort. If we are tired, we cannot train properly.
+- [24] **Misaki**: I will focus on the financial accuracy. I need to know the true cost before we commit to anything.
+## Round 2
+- [35] **Mio**: The transport receipts are shocking. It was 38% of the total last time we went far. That is way too high.
+- [36] **Shizue**: I found something worrying. The seniors say mixing only happens when we sleep together. And the attendance sheets show a fifth of us never came.
+- [37] **Ryuji**: I checked the canteen. It is closed. Last year, the duty pair lost two hours a day cooking. I will not do that again.
+- [38] **Rin**: I looked at the hall timetable. It is split into early mornings and late evenings. That is terrible for sleep.
+- [39] **Misaki**: I found the accounts. The inland clubs slept eight to a room. The prefecture rate is 1,100 yen per bed. That is a fixed, low cost.
+- [40] **Mio**: @Misaki, if the rate is fixed at 1,100 yen, that solves my worry about uneven side spending. Everyone pays the same for the bed.
+- [41] **Shizue**: @Mio, if we sleep in the same place, the seniors say the year-groups actually mix. That is exactly what we need.
+- [42] **Ryuji**: @Shizue, if we sleep together, we still need to eat. If the canteen is closed, we are back to cooking duty.
+- [43] **Rin**: @Ryuji, if we are in the hall, the split schedule means we are awake at 5 AM. I cannot train on that.
+- [44] **Misaki**: @Rin, the 1,100 yen rate includes the hall. If we choose the public beds, we avoid the variable costs of a private hotel.
+- [45] **Mio**: I think the public beds are the only way to keep the fee flat. The transport cost is the only variable left.
+- [46] **Shizue**: I agree. The social benefit of sleeping together is worth the effort. We need to make sure the evenings are structured.
+- [47] **Ryuji**: I am still worried about the cooking. If we choose the public beds, we need to confirm if they provide meals.
+- [48] **Rin**: I am worried about the sleep quality. If the beds are old, the split schedule will make it worse.
+- [49] **Misaki**: The accounts show the inland clubs had no hidden fees. The 1,100 yen is the total. That is the safest financial option.
+- [50] **Mio**: Let's go with the public beds. It is fair, it is cheap, and it encourages mixing.
+- [51] **Shizue**: I support that. It is the best way to bring the club back together.
+- [52] **Ryuji**: I will support it if we can confirm the meal situation. I will not take on cooking duty again.
+- [53] **Rin**: I will support it if the beds are decent. I need to know we can actually sleep.
+- [54] **Misaki**: I support it. The financial risk is minimal. The cost is fixed and transparent.
+## Round 3
+- [60] **Mio**: Option B, the Mountain Centre, seems best. It is a public facility, so the cost should be fixed and fair.
+- [61] **Shizue**: I agree with @Mio. Option B has shared dormitories. That is where the seniors say the year-groups actually mix.
+- [62] **Ryuji**: I am concerned about Option B. If it is a public facility, does it have a canteen? I need to know if we have to cook.
+- [63] **Rin**: I am worried about Option B. If it is a public facility, the beds might be old. I need to know if we can sleep well.
+- [64] **Misaki**: Option B is the only one with a fixed, transparent cost. The 1,100 yen rate is the total. That is the safest financial option.
+- [65] **Mio**: @Ryuji, if the Mountain Centre has a canteen, we avoid the cooking duty. That is a huge plus.
+- [66] **Shizue**: @Rin, if the beds are old, we can bring our own sleeping bags. The social benefit is worth the effort.
+- [67] **Ryuji**: @Mio, I need to confirm the canteen. If we have to cook, I will not support Option B.
+- [68] **Rin**: @Shizue, I will not bring a sleeping bag. I need to know the beds are decent. I cannot train on bad sleep.
+- [69] **Misaki**: @Ryuji, the accounts from the inland clubs show they had no hidden fees. The 1,100 yen is the total. That includes the hall and equipment.
+- [70] **Mio**: I think Option B is the best balance. It is fair, it is cheap, and it encourages mixing.
+- [71] **Shizue**: I agree. Option B is the best way to bring the club back together. The shared dormitories are key.
+- [72] **Ryuji**: I will support Option B if we can confirm the meal situation. I will not take on cooking duty again.
+- [73] **Rin**: I will support Option B if the beds are decent. I need to know we can actually sleep.
+- [74] **Misaki**: I support Option B. The financial risk is minimal. The cost is fixed and transparent. It is the only option that meets my criteria.
+- [75] **Mio**: Let's vote for Option B. It is the best choice for the club.
+- [76] **Shizue**: I vote for Option B. It is the best way to ensure social cohesion and member attendance.
+- [77] **Ryuji**: I vote for Option B, conditional on the meal confirmation. I will not accept a repeat of last year's workload.
+- [78] **Rin**: I vote for Option B, conditional on the bed quality. I will not accept a repeat of last year's sleep deprivation.
+- [79] **Misaki**: I vote for Option B. It is the only option that ensures financial accuracy and prevents another deficit.
+### Vote
+- Mio -> B
+- Rin -> B
+- Misaki -> B
+## Result
+- adopted: B

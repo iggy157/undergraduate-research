@@ -1,0 +1,73 @@
+# shared_living_0016__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Minato**: I am worried about the time burden on the next treasurer.
+- [6] **Ryuji**: We need to know the actual costs before setting any fee.
+- [7] **Minako**: The current structure feels rigid and excludes new members.
+- [8] **May**: People are hesitating to commit to full-year events.
+- [9] **Shunichi**: The workload is unevenly distributed among a few regulars.
+- [10] **Minato**: @Ryuji, do you have data on the treasurer's hours?
+- [11] **Ryuji**: I do not yet, but I suspect the ledger is key.
+- [12] **Minako**: I think we should look at how new members join.
+- [13] **May**: The sign-in sheets might show who is actually coming.
+- [14] **Shunichi**: I want to see the attendance records to verify the imbalance.
+- [15] **Minato**: I will check the treasurer's logs and the bank statements.
+- [16] **Ryuji**: I will review the ledger and the bank statements.
+- [17] **Minako**: I will look at the taster forms and the sign-up records.
+- [18] **May**: I will check the weekday turnout and the sign-in sheets.
+- [19] **Shunichi**: I will examine the sign-in sheets and the rota.
+- [20] **Minato**: It is important to understand the administrative load.
+- [21] **Ryuji**: Guesswork is not acceptable for financial planning.
+- [22] **Minako**: We must ensure the process is welcoming for newcomers.
+- [23] **May**: We need to reduce the friction for regular attendees.
+- [24] **Shunichi**: Facts will help us avoid arguing about perceptions.
+## Round 2
+- [35] **Minato**: The treasurer spent six hours a month chasing individual payments.
+- [36] **Ryuji**: The ledger shows seventy percent of costs are fixed, regardless of attendance.
+- [37] **Minako**: Nine non-joiners said they would not commit to a whole year.
+- [38] **May**: Turnout dropped by a third after we tried door charges.
+- [39] **Shunichi**: A quarter of members account for two-thirds of all attendances.
+- [40] **Minato**: @Ryuji, that fixed cost figure is concerning for a flat fee.
+- [41] **Ryuji**: Yes, but the bank statements show many need payment plans.
+- [42] **Minako**: The sign-up records show eleven mid-year joiners needed manual calculation.
+- [43] **May**: The sign-in sheets confirm the same few people are always there.
+- [44] **Shunichi**: The rota shows the same nine people do all the setup.
+- [45] **Minato**: Activity-based charging seems to have hurt the community feel.
+- [46] **Ryuji**: A flat fee might be simplest, but it ignores the fixed costs.
+- [47] **Minako**: Tiered membership could address the hesitation about full-year commitment.
+- [48] **May**: We need a structure that doesn't make people feel like guests.
+- [49] **Shunichi**: If we keep the flat fee, we must address the workload imbalance.
+- [50] **Minato**: I am leaning towards a base fee to reduce administrative chaos.
+- [51] **Ryuji**: I agree, but we must ensure it covers the fixed costs.
+- [52] **Minako**: A tiered system might allow for flexibility without total chaos.
+- [53] **May**: I worry that tiers will create visible divisions among members.
+- [54] **Shunichi**: Let us vote on what is most sustainable for the club.
+## Round 3
+- [60] **Minato**: Option B caused a drop in turnout, so I oppose it.
+- [61] **Ryuji**: Option A is the most predictable for the fixed costs.
+- [62] **Minako**: Option C offers the flexibility that new members want.
+- [63] **May**: Option A feels the most inclusive for regulars.
+- [64] **Shunichi**: Option A is the only one that doesn't require constant chasing.
+- [65] **Minato**: @Ryuji, does Option A solve the payment reminder issue?
+- [66] **Ryuji**: It simplifies collection, but the amount must be accurate.
+- [67] **Minako**: Option C might still require manual calculations for mid-year joiners.
+- [68] **May**: I prefer the simplicity of Option A for the community.
+- [69] **Shunichi**: The data supports Option A for administrative efficiency.
+- [70] **Minato**: I will vote for Option A to reduce the treasurer's burden.
+- [71] **Ryuji**: I vote for Option A to ensure financial stability.
+- [72] **Minako**: I vote for Option C to accommodate different participation levels.
+- [73] **May**: I vote for Option A to maintain the sense of belonging.
+- [74] **Shunichi**: I vote for Option A to address the workload imbalance.
+- [75] **Minato**: It seems Option A has the most support.
+- [76] **Ryuji**: Agreed, it is the most rational choice.
+- [77] **Minako**: I hope we can manage the mid-year joiners smoothly.
+- [78] **May**: I am glad we are moving towards a stable structure.
+- [79] **Shunichi**: Let us finalize the vote and move on.
+### Vote
+- Minato -> A
+- Ryuji -> A
+- Minako -> C
+- May -> A
+- Shunichi -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0011__single-online (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. Before we rank these proposals, I’d like to understand what actually happened to our past awards.
+- [6] **Ryuji**: I agree. We should verify if the technical staff required for these projects are actually still available before committing funds.
+- [7] **Victoria**: I’m concerned about the shared infrastructure. We need to know if the facilities can actually support the workload before we commit.
+- [8] **Benjamin**: I’m curious about the shifting cost structure. Which expenses does the agency still absorb centrally, and which now land on the awardee?
+- [9] **Midori**: I worry about delays that have nothing to do with the science. Where do projects in this field usually get interrupted?
+- [10] **Shizue**: @Benjamin, that cost question is vital. I’d like to check the closeout files of finished awards to see what actually delivered.
+- [11] **Ryuji**: @Ryuji, I’ll check the staffing rolls for technical posts to see who is genuinely available now.
+- [12] **Victoria**: @Victoria, I’ll look into the accreditation and bookings at shared facilities to see if the spare capacity is real.
+- [13] **Benjamin**: @Benjamin, I’ll check the travel and bench-fee lines in the ledgers to see where the costs have shifted.
+- [14] **Midori**: @Midori, I’ll check the portfolio review of schedule overruns to see where work in this field actually gets interrupted.
+- [15] **Shizue**: @Ryuji, I’ll also look into the closeout files of finished awards to see what actually delivered.
+- [16] **Ryuji**: @Ryuji, I’ll also check the minutes on secondments and crew strength to see who is genuinely available now.
+- [17] **Victoria**: @Victoria, I’ll also check the incident logs on shared instrumentation to see where the spare capacity actually gives way.
+- [18] **Benjamin**: @Benjamin, I’ll also check the national computing agreement and facility day rates to see which costs the agency still absorbs.
+- [19] **Midori**: @Midori, I’ll also check the station records from partner field sites to see where work in this field actually gets interrupted.
+- [20] **Shizue**: I’ll also check the portfolio review of schedule overruns to see where the delays actually came from.
+- [21] **Ryuji**: I’ll also check the staffing rolls for technical posts to see who is genuinely available now.
+- [22] **Victoria**: I’ll also check the national repository deposit turnaround to see if data release delays are still a bottleneck.
+- [23] **Benjamin**: I’ll also check the closeout files of finished awards to see which spending categories actually held steady.
+- [24] **Midori**: I’ll also check the incident logs on shared instrumentation to see where the interruptions actually occurred.
+## Round 2
+- [35] **Shizue**: #### Turn 1 of 4
+- [36] **Ryuji**: #### Turn 1 of 4
+- [37] **Victoria**: - **Victoria**: The accreditation renewal passed, but the glasshouse blocks are booked solid for two more cycles.
+- [38] **Benjamin**: The ledgers show vehicle costs frozen, but the computing agreement now covers simulation hours at no charge.
+- [39] **Midori**: The portfolio review shows breeding-based projects overrun twice as often as computation-focused ones.
+- [40] **Shizue**: #### Turn 2 of 4
+- [41] **Ryuji**: #### Turn 2 of 4
+- [42] **Victoria**: @Benjamin, that free computing access is a significant shift. It changes the cost calculus for simulation-heavy work entirely.
+- [43] **Benjamin**: @Victoria, precisely. Simulation costs vanish, but animal-unit day rates spiked after the vivarium rebuild. The financial risk has simply migrated.
+- [44] **Midori**: @Ryuji, the staffing rolls show phenotyping technicians leaving for industry, but modelling applicants are arriving in numbers.
+- [45] **Shizue**: #### Turn 3 of 4
+- [46] **Ryuji**: @Midori, that confirms my concern. The hands are gone, but the minds are arriving. We must match the project to the available skill set.
+- [47] **Victoria**: @Ryuji, exactly. The glasshouse crew is intact, but the spectroscopy suite sat idle for eleven weeks. We must match the science to the reliable infrastructure.
+- [48] **Benjamin**: @Victoria, the idle spectroscopy suite is a critical bottleneck. If that equipment remains unreliable, simulation-heavy proposals become the only viable path forward.
+- [49] **Midori**: @Shizue, the station records show field sites lost whole seasons to weather, while indoor holding rooms ran uninterrupted.
+- [50] **Shizue**: @Midori, that aligns with my closeout findings. Catalogue-style awards kept drawing users for a decade, while mechanism-focused ones often stalled. We should favor the durable.
+- [51] **Ryuji**: @Shizue, I agree. The modelling analysts are seconded abroad, but the glasshouse crew is full strength. We must pick a project that fits the people actually here.
+- [52] **Victoria**: @Benjamin, the free computing hours make simulation-heavy work financially attractive, but the idle spectroscopy suite remains a physical bottleneck we cannot ignore.
+- [53] **Benjamin**: @Victoria, agreed. The financial risk has shifted, but the physical bottleneck remains. We must prioritize proposals that don't depend on that idle spectroscopy suite.
+- [54] **Midori**: @Shizue, that confirms my worry. Field sites are too volatile. We should prioritize indoor, controlled environments to avoid those weather-related interruptions.
+## Round 3
+- [60] **Shizue**: #### Turn 1 of 4
+- [61] **Ryuji**: #### Turn 1 of 4
+- [62] **Victoria**: #### Turn 1 of 4
+- [63] **Benjamin**: #### Turn 1 of 4
+- [64] **Midori**: #### Turn 1 of 4
+- [65] **Shizue**: #### Turn 2 of 4
+- [66] **Ryuji**: #### Turn 2 of 4
+- [67] **Victoria**: - **Victoria**: Given the candidates, C relies on that idle spectroscopy suite. I cannot support it.
+- [68] **Benjamin**: @Victoria, agreed. C is a financial and logistical trap. I cannot support it either.
+- [69] **Midori**: @Victoria, I agree. C depends on the broken suite. I also worry about B’s breeding delays. A and D seem safer.
+- [70] **Shizue**: #### Turn 3 of 4
+- [71] **Ryuji**: #### Turn 3 of 4
+- [72] **Victoria**: - **Victoria**: @Midori, B’s breeding risks are real, but D’s field volatility is equally dangerous. I remain with A.
+- [73] **Benjamin**: @Victoria, I see your caution, but D’s data release is now swift. A’s greenhouse capacity is the only one fully secured. I favor A.
+- [74] **Midori**: @Benjamin, I agree. A’s greenhouse capacity is secured, and D’s data release is now swift. I favor A.
+- [75] **Shizue**: @Benjamin, I concur. A fits the intact glasshouse crew and avoids the volatile field sites. I vote for A.
+- [76] **Ryuji**: @Benjamin, I agree. A utilizes the full-strength glasshouse crew and avoids the staffing gaps. I vote for A.
+- [77] **Victoria**: @Benjamin, I agree. A is the only candidate that fits the secured infrastructure and available staff. I vote for A.
+- [78] **Benjamin**: @Midori, precisely. A secures the greenhouse capacity and avoids the volatile field sites. I vote for A.
+- [79] **Midori**: @Benjamin, I agree. A is the only choice that respects our infrastructure limits and avoids the breeding delays. I vote for A.
+### Vote
+- Shizue -> A
+- Ryuji -> A
+- Victoria -> A
+- Benjamin -> A
+- Midori -> A
+## Result
+- adopted: A

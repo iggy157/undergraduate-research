@@ -1,0 +1,73 @@
+# shared_living_0002__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I think we should check the truck arrival time and the ward complaint log. Knowing when the truck comes and what people already hate will help us pick the best spot!
+- [6] **Midori**: I agree with Rin. I’d like to look into the ward subsidy and the block ledger to understand our actual costs.
+- [7] **Shunichi**: Honestly, I’m less interested in money. I want to see the station block’s minutes and the residents’ meeting statements. Let’s see how they handled their mess.
+- [8] **May**: @Rin, checking the truck time is smart. I’m curious about the ward filing requirements and the frontage measurements. Let’s see what the rules actually say.
+- [9] **Asuka**: I will examine the ward complaint log and the block ledger. We need to verify if the current arrangement is truly equitable before agreeing to anything.
+- [10] **Rin**: @Shunichi, that sounds like a great adventure! I hope their bin house is cool. I’m still thinking about the truck time, though.
+- [11] **Midori**: @Shunichi, I hope their experience helps us avoid similar pitfalls. I’m still focused on the financial side, though.
+- [12] **Shunichi**: @Rin, their bin house is a disaster, not a cool spot. I’m just checking how they survived the fallout.
+- [13] **May**: @Shunichi, a disaster? Bold. I’m just checking the rules and measurements. Let’s see if the paperwork matches the reality.
+- [14] **Asuka**: @Shunichi, their failure is data. I need to know if our ledger reflects the actual burden each household bears, not just the total.
+- [15] **Rin**: @Asuka, checking the ledger is important! But I really want to know if the new spot will smell bad in summer.
+- [16] **Midori**: @Rin, I understand the smell concern. I’m hoping the ledger shows if we’re already overpaying for current maintenance.
+- [17] **Shunichi**: @Midori, money doesn’t fix broken relationships. I’m checking how they kept talking after the fight. That’s the part that actually matters here.
+- [18] **May**: @Shunichi, relationships matter, but I need to know the hours. I’m checking the filing rules and frontage measurements to see the actual workload.
+- [19] **Asuka**: @May, workload is key. I need to confirm if the ledger hides unequal burdens. I will examine the ward complaint log and the block ledger.
+- [20] **Rin**: @Asuka, I’m picking the truck arrival time and the ward complaint log! I want to know exactly when the truck comes and what people already hate.
+- [21] **Midori**: I’ll check the ward subsidy and the block ledger. We need to know our real costs before deciding anything.
+- [22] **Shunichi**: I’m checking the station block’s meeting minutes and the residents’ meeting statements. I need to see how they kept talking after the fight.
+- [23] **May**: I’m checking the ward filing requirements and the measurements of the five frontages. I need to know the actual hours this takes out of us.
+- [24] **Asuka**: I will examine the ward complaint log and the block ledger. I need to verify if the current arrangement is truly equitable before agreeing to anything.
+## Round 2
+- [35] **Rin**: #### Turn 1 of 4
+- [36] **Midori**: I found the subsidy covers forty percent, capped at ninety thousand yen. Last year’s shelters averaged two hundred forty-eight thousand. Plus, we spend thirty-four thousand yearly on nets and deodorant.
+- [37] **Shunichi**: @Midori, that’s a lot of money. But my findings are worse. The station block is still fighting over a broken latch. We need a plan that keeps us talking, not just paying.
+- [38] **May**: @Midori, forty percent? That’s a lifeline. But the clerk says permanent builds need four months and five signatures. That’s a lot of hours just in paperwork.
+- [39] **Asuka**: @Midori, the ledger confirms the waste. @Rin, the complaint log shows one household filed eleven of fourteen complaints. That imbalance is unacceptable.
+- [40] **Rin**: @Asuka, eleven complaints? That’s huge! But the truck comes at seven forty. If we move it, will the smell just follow us?
+- [41] **Midori**: @Rin, the truck time is fixed, but the smell comes from open bags. We can fix that with better nets, which the ledger shows we already pay for.
+- [42] **Shunichi**: @Rin, the smell is a symptom. The real problem is nobody wants to be the enforcer. We need a system that doesn’t require us to police each other.
+- [43] **May**: @Shunichi, exactly. I found the narrowest frontage is only ninety centimetres. That’s a nightmare to maintain. We need a plan that doesn’t burn us out.
+- [44] **Asuka**: @May, ninety centimetres is a trap. The ledger proves the current setup fails. We must ensure the new location doesn’t replicate that unequal burden.
+- [45] **Rin**: @Shunichi, I agree! But I found the truck comes at seven forty. If we move it, will the smell just follow us?
+- [46] **Midori**: @Shunichi, I agree. A system that relies on goodwill fails. We need clear, fair rules so nobody feels burdened or policed.
+- [47] **Shunichi**: @Midori, clear rules are good, but they don’t stop people from resenting each other. We need a structure that makes cooperation easy, not just mandatory.
+- [48] **May**: @Shunichi, easy cooperation is the goal. But I need to know the hours. Does the new spot save us time, or just shift the burden?
+- [49] **Asuka**: @May, the ledger shows the burden is already unequal. We must verify the new plan distributes the actual workload fairly, not just the cost.
+- [50] **Rin**: @Midori, I found the truck comes at seven forty! That’s before I wake up. If we move it, will the smell just follow us to the new spot?
+- [51] **Midori**: @Rin, the smell follows open bags, not the location. We can fix that with better nets, which the ledger shows we already pay for.
+- [52] **Shunichi**: @Rin, the smell follows the bags, not the spot. But if we can’t talk without fighting, the new location is just a new place to resent each other.
+- [53] **May**: @Rin, the truck time is fixed, but the hours we spend maintaining it are not. I need to know if this new spot actually saves us time, or just shifts the burden.
+- [54] **Asuka**: @Rin, the smell follows negligence, not location. The ledger proves the current setup fails. We must ensure the new plan distributes the actual workload fairly, not just the cost.
+## Round 3
+- [60] **Rin**: @Midori, I found the truck comes at seven forty! That’s before I wake up. If we move it, will the smell just follow us to the new spot?
+- [61] **Midori**: @Rin, the smell follows open bags, not the location. We can fix that with better nets, which the ledger shows we already pay for.
+- [62] **Shunichi**: @Rin, the smell follows the bags, not the spot. But if we can’t talk without fighting, the new location is just a new place to resent each other.
+- [63] **May**: @Shunichi, resentment is real, but I need to know the hours. Option C means four months of paperwork. Can we survive that?
+- [64] **Asuka**: @May, Option C is a trap. It locks the burden on one household permanently. I reject it. We need a system that actually rotates the responsibility.
+- [65] **Rin**: @Asuka, I like Option B! Moving it around means nobody gets stuck with the smell forever. It’s like a big adventure for the bins!
+- [66] **Midori**: @Rin, Option B sounds fair, but moving it constantly is exhausting. Option A keeps things simple and predictable for everyone.
+- [67] **Shunichi**: @Asuka, Option B is a disaster. It forces us to interact constantly, which is exactly what we can’t afford. Option A keeps us apart, which is safer.
+- [68] **May**: @Shunichi, Option A is a trap. It relies on whoever answers the phone first. I’ve seen that burn people out. I need a system that doesn’t depend on luck.
+- [69] **Asuka**: @Shunichi, Option A is a trap. It keeps the burden on one household. Option B rotates the load fairly. I support B.
+- [70] **Rin**: @Shunichi, but if the bins move, the smell moves too! I don’t want to wake up to a stinky surprise every month. Option A feels safer for my nose!
+- [71] **Midori**: @Rin, I understand the worry. But Option A’s fixed window means bags are out briefly, not sitting all day. It’s the most predictable and least exhausting for our budgets.
+- [72] **Shunichi**: @Rin, Option A is the only one that lets us keep our distance. We don’t need to be friends, just functional. I’m voting A.
+- [73] **May**: @Shunichi, distance isn’t the answer. Option B spreads the hours fairly, so nobody burns out. I’m voting B.
+- [74] **Asuka**: @Shunichi, distance is not fairness. Option A leaves the burden static. Option B distributes the load. I am voting B.
+- [75] **Rin**: @Shunichi, I’m voting A! The truck comes at seven forty, so a short window means less smell. I don’t want to move the bins every month!
+- [76] **Midori**: @Rin, I understand the smell worry. But Option A is the most predictable and least exhausting for our budgets. I’m voting A.
+- [77] **Shunichi**: @Rin, I’m voting A. We need a system that doesn’t force us to interact. Distance is the only way to keep the peace.
+- [78] **May**: @Shunichi, distance just hides the rot. Option B spreads the hours fairly, so nobody burns out. I’m voting B.
+- [79] **Asuka**: @Shunichi, distance is not fairness. Option A leaves the burden static. Option B distributes the load. I am voting B.
+### Vote
+- Rin -> A
+- Midori -> A
+- Shunichi -> A
+- May -> B
+- Asuka -> B
+## Result
+- adopted: A

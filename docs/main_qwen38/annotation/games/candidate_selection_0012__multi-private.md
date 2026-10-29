@@ -1,0 +1,73 @@
+# candidate_selection_0012__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: Our quarter-end reporting is a mess. I need to know how a new holding impacts our audit process before we commit.
+- [6] **Jonathan**: I’m curious about the retained recruiters’ placement times. It feels like we’re spending more time sourcing than deciding lately.
+- [7] **Shizue**: I’d love to see the account retention through price rises. It helps us understand if our past stories truly match the reality of customer loyalty.
+- [8] **Misaki**: I need to understand our borrowing capacity. Let’s look into the terms of last winter's credit line.
+- [9] **Shion**: I want to see the security review time before first deployment. Speed to market is the only metric that matters here.
+- [10] **Mizuki**: @Shion, speed is vital, but if our reporting is opaque, we can’t even verify the metrics. I’m prioritizing audit clarity.
+- [11] **Jonathan**: @Mizuki, I agree. Clear reporting is the foundation. Without it, we’re just guessing at the numbers.
+- [12] **Shizue**: @Mizuki, you’re right. Clarity is kindness to ourselves. I’m glad we’re aligning on this before we move forward.
+- [13] **Misaki**: @Mizuki, agreed. I’m also checking reserve accounts and follow-on calls to see what we can actually borrow against later.
+- [14] **Shion**: @Mizuki, opacity is a choice, not a fact. I’m checking security review times to see if we can actually deploy before the market moves.
+- [15] **Mizuki**: @Shion, I respect your urgency, but I won’t ignore the risk. I’m checking appraisal needs and independent checks to ensure our numbers hold up.
+- [16] **Jonathan**: I’ll look into the adviser bench and partner board seats. Knowing who is actually available to help matters more than just the title.
+- [17] **Shizue**: I’ll check delivery records of two holdings. Seeing what actually reached customers helps me trust the stories we tell about our wins.
+- [18] **Misaki**: I’ll also review the profile of the exits and the write-off. I need to see exactly where our capital went before we risk more.
+- [19] **Shion**: I’m checking delivery records of two holdings. I need to see if their delays were external or just poor planning.
+- [20] **Mizuki**: I’m locking in appraisal needs and independent checks. We need verifiable data, not just promises. @Shion, your speed is noted, but accuracy comes first.
+- [21] **Jonathan**: I’ll check the retained recruiters’ placement times and the adviser bench. I need to know who is actually available to help, not just who holds a title.
+- [22] **Shizue**: I’ll review account retention through price rises and delivery records. I want to see if our past stories truly match the reality of customer loyalty.
+- [23] **Misaki**: I’m locking in the credit line terms and the exit profile. I need to know exactly what we can borrow against before we commit more capital.
+- [24] **Shion**: I’m locking in security review times and delivery records. I need to know if the obstacles are external or just their incompetence.
+## Round 2
+- [35] **Mizuki**: @Shion, your speed is irrelevant if the numbers are unverifiable. Software holdings report only their own dashboards. We need independent checks to avoid blind spots.
+- [36] **Jonathan**: @Mizuki, I see your point. But my findings show our recruiters can’t fill key operational roles quickly. We need to know if the candidates have the people to actually execute.
+- [37] **Shizue**: @Mizuki, I found the shopkeeper tool lost a third of accounts after raising prices. That gap between our stories and reality worries me deeply.
+- [38] **Misaki**: @Shion, the credit line ignores subscription contracts. We can’t borrow against this model. The write-off confirms we avoid heavy assets.
+- [39] **Shion**: @Misaki, that’s why I checked. One holding lost five months to a controller shortage. External supply chains are the real bottleneck, not their code.
+- [40] **Mizuki**: @Shion, external bottlenecks don’t excuse opaque reporting. If we can’t verify their numbers, we’re flying blind. I need independent checks to ensure our audit isn’t compromised by their self-reported data.
+- [41] **Jonathan**: @Shion, that shortage mirrors my recruiter data. We lack the bench to fill those gaps quickly. We must prioritize candidates with existing operational depth.
+- [42] **Shizue**: @Shion, that shortage is painful, but the bank tool never missed a release. That consistency is what I value most.
+- [43] **Misaki**: @Shion, external delays don’t change our liquidity. The credit line ignores subscriptions, so we can’t borrow against this model. We must stick to asset-light profiles.
+- [44] **Shion**: @Shizue, consistency is just luck until the supply chain breaks. I’m checking if the next candidate faces similar external walls.
+- [45] **Mizuki**: @Misaki, your liquidity point is critical. If we can’t verify the software numbers, our quarter-end audit becomes a nightmare. We need hard data, not just promises.
+- [46] **Jonathan**: @Misaki, I agree. But our real bottleneck is people. The advisers are idle, yet we lack the operational depth to fill critical roles quickly.
+- [47] **Shizue**: @Jonathan, I hear your worry. But the bank tool’s steady rhythm shows that good planning beats luck. Let’s trust that consistency.
+- [48] **Misaki**: @Jonathan, people are expensive. My data shows we can’t borrow against subscriptions. We need asset-light profiles to keep our liquidity intact.
+- [49] **Shion**: @Shizue, luck is a poor strategy. I’m looking for candidates whose obstacles are purely external, not internal incompetence.
+- [50] **Mizuki**: @Shion, I respect your focus, but I won’t ignore the risk. I’m checking appraisal needs and independent checks to ensure our numbers hold up.
+- [51] **Jonathan**: @Shion, I agree. But without the right people, speed is just noise. We need candidates who can actually staff their teams.
+- [52] **Shizue**: @Shion, I understand your caution. But the bank tool’s steady rhythm shows that good planning beats luck. Let’s trust that consistency.
+- [53] **Misaki**: @Shion, I hear you. But liquidity is non-negotiable. We cannot fund heavy assets. Stick to the asset-light profiles we know work.
+- [54] **Shion**: @Mizuki, I’m not ignoring risk, I’m identifying it. If the obstacle is external, we can mitigate it. If it’s internal, we’re dead.
+## Round 3
+- [60] **Mizuki**: @Shion, D’s sensors provide verifiable field data, unlike A or B’s self-reported dashboards. This directly solves my audit verification concern.
+- [61] **Jonathan**: @Mizuki, D’s seasonal model clashes with our staffing gaps. We can’t fill field roles fast enough. A’s clinic software is asset-light and easier to staff.
+- [62] **Shizue**: @Mizuki, D’s field data is lovely, but A’s clinics kept nine of ten accounts. That loyalty is the story I trust most.
+- [63] **Misaki**: @Mizuki, D’s hardware is a liability. Our credit line ignores subscriptions, so we can’t borrow against it. A is asset-light and matches our profitable exits.
+- [64] **Shion**: @Mizuki, D’s sensors face supply chain risks. A’s software faces medical security reviews. I prefer A’s predictable, internal obstacles over D’s external chaos.
+- [65] **Mizuki**: @Shion, predictable obstacles are still obstacles. D’s hardware triggers mandatory appraisals, adding six weeks to our audit. A’s self-reported data is a blind spot I cannot accept.
+- [66] **Jonathan**: @Mizuki, I understand the audit risk. But A’s staffing needs are standard, which our recruiters handle well. D’s field roles are the bottleneck I can’t solve.
+- [67] **Shizue**: @Mizuki, I understand your worry. But A’s clinics kept nine of ten accounts. That loyalty is the story I trust most.
+- [68] **Misaki**: @Mizuki, D’s hardware is a trap. We can’t borrow against it. A is asset-light, matching our profitable exits. Stick to what we can actually fund.
+- [69] **Shion**: @Shizue, nine of ten is a sample, not a guarantee. A’s medical data triggers the three-quarter review I flagged. I’m voting A, accepting the delay.
+- [70] **Mizuki**: @Shion, you’re ignoring the audit cost. D’s hardware triggers mandatory appraisals, adding six weeks to our quarter-end. I cannot accept that delay. I’m voting A.
+- [71] **Jonathan**: @Mizuki, I agree. A’s standard roles fit our recruiters’ strengths. D’s field gaps are too deep for us to fill quickly. I’m voting A.
+- [72] **Shizue**: @Mizuki, I understand your audit concerns. But A’s clinics kept nine of ten accounts. That loyalty is the story I trust most. I’m voting A.
+- [73] **Misaki**: @Mizuki, I agree. A is asset-light and matches our profitable exits. We can’t fund D’s hardware. I’m voting A.
+- [74] **Shion**: @Mizuki, I accept the delay. A’s obstacles are internal and manageable. D’s are external and chaotic. I’m voting A.
+- [75] **Mizuki**: A is our choice. It’s asset-light, avoiding the appraisal nightmare. We accept the reporting risk for now, but I’m watching closely.
+- [76] **Jonathan**: A is the right call. The staffing fit is clear, and the loyalty data supports it. I’m glad we found common ground.
+- [77] **Shizue**: A is our choice. The loyalty data brings me peace. I’m glad we found common ground.
+- [78] **Misaki**: A is the only option that protects our liquidity. We can actually fund it. I’m voting A.
+- [79] **Shion**: A is selected. The delay is a known cost, not a surprise. I accept the trade-off.
+### Vote
+- Mizuki -> A
+- Jonathan -> A
+- Shizue -> A
+- Misaki -> A
+- Shion -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m a bit nervous about changing things. I just want us to be fair and comfortable. What does everyone think we should look at first?
+- [6] **Ryuji**: I need to see the actual costs before agreeing to anything. Let’s examine the last twelve utility statements and the payment log first.
+- [7] **Rin**: I want to see the trial run of the reconciliation template! I bet it’s super fast and easy to use.
+- [8] **Shunichi**: Ryuji, checking the past is just nostalgia. We need current data. I’ll look at the plug-in monitor readings and the electrician’s quote.
+- [9] **Misaki**: I’ll check the kitchen notice about the cooler and the winter habits at a house paying ahead.
+- [10] **Mio**: @Ryuji, I agree with you! The numbers are super important. I’ll look at the last twelve utility statements and the payment log too.
+- [11] **Ryuji**: @Mio, that works. We need the full picture. @Shunichi, current data is good, but we need the baseline to compare it against.
+- [12] **Rin**: @Shunichi, current data is cool, but I need to know who does the math! I’ll check the trial run template and the monthly settle at another house.
+- [13] **Shunichi**: @Rin, the template is just a calculator. The real question is whether the current split actually matches the current usage. I’ll stick to my plan.
+- [14] **Misaki**: @Rin, the template is just a tool. The real issue is how we handle the awkwardness of asking for money. I’ll stick to my choices.
+- [15] **Mio**: @Misaki, that’s a really good point! I worry about the awkwardness too. Let’s make sure the new system feels friendly, not just mathematically correct.
+- [16] **Ryuji**: @Mio, fairness requires precision, not just comfort. I will review the last twelve utility statements and the payment log to establish the baseline.
+- [17] **Rin**: @Mio, I agree! But who actually does the work? I’m checking the trial run template and the monthly settle at another house to see the real time cost.
+- [18] **Shunichi**: @Mio, comfort is a luxury. I’m checking the plug-in monitor readings and the electrician’s quote to see where the actual load sits.
+- [19] **Misaki**: @Mio, I agree. We need a system that doesn’t make us feel like debtors. I’ll look into the winter habits and the cooler notice.
+- [20] **Mio**: I’m picking the last twelve utility statements and the payment log. I want to see exactly how much we’ve been paying so far!
+- [21] **Ryuji**: I will review the last twelve utility statements and the payment log. I need to understand the historical variance before committing to any new structure.
+- [22] **Rin**: I’m checking the trial run template and the monthly settle at another house. I need to know exactly how many hours this job steals from my evenings!
+- [23] **Shunichi**: I’m checking the plug-in monitor readings and the electrician’s quote. I need to see where the actual load sits.
+- [24] **Misaki**: I’ll look into the kitchen notice about the cooler and the winter habits at a house paying ahead.
+## Round 2
+- [35] **Mio**: Wow, February was almost thirty thousand yen! And people were late paying because the numbers kept changing. That feels really stressful.
+- [36] **Ryuji**: The variance is extreme. February’s cost is triple August’s. This confirms the current flat split is fundamentally broken.
+- [37] **Rin**: Forty minutes of logging and hand-splitting? That’s way too long! I can’t give up my evenings just to do math.
+- [38] **Shunichi**: @Ryuji, the variance is obvious. But sub-meters cost thirty-four thousand yen per room. That’s a massive upfront cost for a problem we can solve with basic math.
+- [39] **Misaki**: @Mio, the cooler notice shows people avoiding shared costs to dodge conflict. That silence is exactly what I’m worried about.
+- [40] **Mio**: @Misaki, that silence is scary! I don’t want us to avoid talking about money. Let’s make sure the new plan is clear so nobody feels awkward.
+- [41] **Ryuji**: @Shunichi, thirty-four thousand yen per room is a significant barrier. I need to know if that cost is justified by the data before we commit.
+- [42] **Rin**: @Shunichi, forty minutes is still too much! I want a system that takes five minutes, not an hour.
+- [43] **Shunichi**: @Rin, five minutes is a fantasy. The data shows a four-to-one usage gap. We need a method that reflects that reality, not just your convenience.
+- [44] **Misaki**: @Shunichi, the winter habits show that fixed costs remove the anxiety of calculating every switch. We need that same peace of mind here.
+- [45] **Mio**: @Misaki, I totally agree! I sat in a coat last winter just to save money. I want a system where we don’t have to think about every switch.
+- [46] **Ryuji**: @Misaki, fixed costs hide the variance I just documented. I need to see the sunlight and heating data to justify any such structure.
+- [47] **Rin**: @Ryuji, I get it, but I can’t do forty minutes of math! I need a plan that’s quick and easy for everyone.
+- [48] **Shunichi**: @Ryuji, sunlight is irrelevant to the heater. The data proves the gap. We need a split that reflects actual consumption, not just comfort.
+- [49] **Misaki**: @Ryuji, I understand the need for data. But if the system causes us to avoid each other, the math is useless. We need a balance.
+- [50] **Mio**: I’m done looking into things. I just want us to feel safe and warm here, not stressed by bills. Let’s find a kind solution!
+- [51] **Ryuji**: I will not commit to a structure until I understand the seasonal variance. The data shows the current method is unsustainable.
+- [52] **Rin**: I’m done! I need a system that takes five minutes, not an hour. Let’s find a quick, easy way to split the bills!
+- [53] **Shunichi**: The data is clear. Four-to-one usage gap. Sub-meters are overkill. We need a simple, consumption-based split. I’m ready to vote.
+- [54] **Misaki**: I’m ready. We need a method that respects the data but protects our relationships from the stress of constant calculation.
+## Round 3
+- [60] **Mio**: I really like Option A! It feels safe and predictable, so I won’t have to stress about every switch. What do you all think?
+- [61] **Ryuji**: @Mio, Option A’s year-end settlement ignores the immediate cash flow crisis I documented. I need to see the winter habits data to assess its viability.
+- [62] **Rin**: @Mio, Option A sounds easy, but who does the year-end math? I can’t spend my whole evening on that!
+- [63] **Shunichi**: @Ryuji, you’re chasing ghosts. The data is right here. Option B is the only one that actually matches reality. I’m voting B.
+- [64] **Misaki**: @Shunichi, Option B creates the exact friction I fear. I support Option A. Predictability prevents the silence that follows every bill.
+- [65] **Mio**: @Rin, I can help with the year-end math! It’s just one time. @Shunichi, I worry Option B makes us feel like strangers.
+- [66] **Ryuji**: @Shunichi, Option B’s thirty-four thousand yen upfront cost is a barrier I cannot justify without further data. I remain undecided.
+- [67] **Rin**: @Mio, helping is nice, but I need a system that takes five minutes, not an hour! Option A’s year-end math sounds like a nightmare for my evenings.
+- [68] **Shunichi**: @Rin, five minutes is a fantasy. The data proves a four-to-one gap. Option B is the only honest solution. I’m voting B.
+- [69] **Misaki**: @Rin, the year-end math is a single, contained task. It prevents the daily friction that erodes our trust. I am voting A.
+- [70] **Mio**: @Rin, I promise it’s just one quick check! @Shunichi, I really hope we can keep things warm and friendly, not cold and metered.
+- [71] **Ryuji**: @Ryuji, I am voting A. The predictable monthly figure protects my cash flow, and the single year-end settlement is manageable.
+- [72] **Rin**: @Mio, one hour a year is fine! But who does the monthly checks? I can’t lose my evenings to endless math.
+- [73] **Shunichi**: @Ryuji, you voted A? That’s cowardice. The data screams B. I’m voting B.
+- [74] **Misaki**: @Shunichi, calling it cowardice is exactly the kind of hostility I’m trying to prevent. I stand by my vote for A.
+- [75] **Mio**: I’m voting A! It keeps us warm and friendly, not cold and metered. Let’s choose the option that protects our peace of mind!
+- [76] **Ryuji**: I stand by my vote for A. Predictable monthly figures protect my cash flow, and the single year-end settlement is manageable.
+- [77] **Rin**: I’m voting A! One hour a year is totally doable. I just need to know who handles the monthly checks so I can keep my evenings free!
+- [78] **Shunichi**: I’m voting B. The data is undeniable. Option A is a polite lie that ignores the four-to-one gap. I refuse to subsidize waste.
+- [79] **Misaki**: I am voting A. Predictability preserves our relationships. Let us choose the option that keeps us speaking to each other, not avoiding each other.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> B
+- Misaki -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I worry the ground might shift. Can we trust the local firms to finish on time?
+- [6] **May**: Pretty facades rot fast. I need to know what the city pays annually to keep this alive.
+- [7] **Shizue**: I am curious about the volunteer groups. Do they help maintain the green spaces we love?
+- [8] **Victoria**: Who actually walks these paths every day? I need to know the staffing reality behind the plan.
+- [9] **Shunichi**: Paper plans ignore rain. I need to see how the drainage and foot traffic actually behave.
+- [10] **Minato**: @May, if the budget is tight, delays cost more. I want to check the soil history.
+- [11] **May**: @Minato, delays are cheap compared to a broken fountain. I will look at the upkeep ledger.
+- [12] **Shizue**: I will look into the volunteer groups and the earlier works. Experience matters more than promises.
+- [13] **Victoria**: I will check the groundskeeping roll and the volunteer groups. I need to see who is actually there.
+- [14] **Shunichi**: I will look into the drainage callouts and the timed counts of weekday crossings.
+- [15] **Minato**: I hope the earth-moving firms are honest. I will check their tenders and the earlier works.
+- [16] **May**: I will also check the regional habitat fund. Maybe there is money hidden in the fine print.
+- [17] **Shizue**: I am glad we are looking at the past. It tells the truth better than any brochure.
+- [18] **Victoria**: I am anxious. If the rota is too short, the park dies. I will verify the bought-in services.
+- [19] **Shunichi**: Agreed. The ground does not care about our feelings. It only cares about water and weight.
+- [20] **Minato**: Let us see what the ground really says. I am ready to look into the soil and the firms.
+- [21] **May**: I am ready to count the coins. Let us see if this park can survive its own beauty.
+- [22] **Shizue**: I will smile and wait for the truth. The past is a kind teacher, even when it is stern.
+- [23] **Victoria**: I will keep my eyes open. I need to know if we have the hands to hold this place.
+- [24] **Shunichi**: I will check the water and the people. If the design fights the site, it loses.
+## Round 2
+- [35] **Minato**: The clay is tricky. The firms say small plants are safer. We must avoid deep cuts.
+- [36] **May**: @Minato, the ledger says greenery costs three times more to keep. The fund only pays for plants, not paths.
+- [37] **Shizue**: The volunteers are wonderful, but the old basin is still strong. The apron, however, is tired.
+- [38] **Victoria**: @May, the roll is tiny. We have seven staff. If we add complex features, who fixes them?
+- [39] **Shunichi**: The water backs up when it rains. The people walk straight across the middle. The design must match that.
+- [40] **Minato**: I am relieved the basin is fine. But the apron needs care. We should keep the earthwork simple.
+- [41] **May**: @Victoria, if the fund covers plants, we must minimize hard surfaces. Every path is a future debt.
+- [42] **Shizue**: I agree with @May. The volunteers can tend the plants, but they cannot fix concrete. Let us trust the green.
+- [43] **Victoria**: I am worried. The casual pool is small. If we choose a plan needing daily attention, it will fail.
+- [44] **Shunichi**: The heat is brutal in the open. The people avoid the edges. We need shade and a clear, durable route.
+- [45] **Minato**: @Shunichi, if the route is simple, the local firms can handle it. I prefer the plan with less digging.
+- [46] **May**: @Minato, less digging means less money. The habitat fund is a lifeline, but only for the green parts.
+- [47] **Shizue**: I am pleased. The volunteers are ready to help with the planting. It feels right to let the land breathe.
+- [48] **Victoria**: I see the risk. If the plan relies on the casual pool for heavy work, we are in trouble.
+- [49] **Shunichi**: The data is clear. The site wants a simple, shaded, and well-drained path. Anything else is a gamble.
+- [50] **Minato**: I feel safer now. The ground is stable if we are gentle. I will support the realistic plan.
+- [51] **May**: I am satisfied. The numbers finally make sense. We must choose the plan that costs the least to keep.
+- [52] **Shizue**: I am at peace. The past has spoken. The green spaces have endured. Let us follow their lead.
+- [53] **Victoria**: I am still cautious, but I see a path. We must match the plan to the people we actually have.
+- [54] **Shunichi**: The evidence points one way. The site dictates the design. We should not fight the water or the walkers.
+## Round 3
+- [60] **Minato**: Plan A uses gravel and trees. The firms can handle that. Plan B needs deep foundations for the stalls.
+- [61] **May**: @Minato, Plan A is the only one the habitat fund fully covers. Plan B is a money pit.
+- [62] **Shizue**: Plan A matches the volunteers' skills. They can tend the trees. The old basin shows water works if we let it.
+- [63] **Victoria**: @May, Plan A needs less daily staff. The casual pool can manage the gravel paths. Plan C is too complex.
+- [64] **Shunichi**: Plan A provides shade and a clear route. The drainage works with the trees. It matches the people's flow.
+- [65] **Minato**: I am worried about Plan D. The reshaping is too risky for the clay. Plan A is safer for the ground.
+- [66] **May**: @Shunichi, Plan A minimizes hard surfaces. The upkeep cost is the lowest. It is the only financially sound choice.
+- [67] **Shizue**: I agree. Plan A respects the past. The green spaces have survived. The paved areas have not. Let us choose the green.
+- [68] **Victoria**: I am concerned about Plan C. The courts need constant maintenance. We do not have the staff. Plan A is manageable.
+- [69] **Shunichi**: Plan D fights the heat. Plan B ignores the foot traffic. Plan A works with the site. It is the rational choice.
+- [70] **Minato**: @Victoria, Plan A is realistic. The local firms can finish it on time. I feel confident in this choice.
+- [71] **May**: @Minato, the numbers back you up. Plan A is affordable now and in three years. It is the only option that survives.
+- [72] **Shizue**: I am smiling. The volunteers are ready. The land is ready. Plan A is the gentle, enduring choice.
+- [73] **Victoria**: I am relieved. Plan A matches our capacity. The casual pool can handle it. It is the only plan that will last.
+- [74] **Shunichi**: The data is unanimous. The site wants shade, drainage, and a clear path. Plan A delivers exactly that.
+- [75] **Minato**: I am ready to vote. Plan A is safe for the ground and the budget. I trust the local firms with it.
+- [76] **May**: I am ready to vote. Plan A is the only plan that does not bankrupt the city. It is the responsible choice.
+- [77] **Shizue**: I am ready to vote. Plan A honors the past and the people. It is the kind, lasting choice.
+- [78] **Victoria**: I am ready to vote. Plan A matches the staff and the volunteers. It is the only plan that will be maintained.
+- [79] **Shunichi**: I am ready to vote. Plan A works with the water and the walkers. It is the only plan that makes sense.
+### Vote
+- Minato -> A
+- May -> A
+- Shizue -> A
+- Victoria -> A
+- Shunichi -> A
+## Result
+- adopted: A

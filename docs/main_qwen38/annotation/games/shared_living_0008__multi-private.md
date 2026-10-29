@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: Honestly, I’m tired of guessing who’s using the room. Let’s just pick two things to check so we stop winging it.
+- [6] **Misaki**: I agree. We need data, not guesses. I’ll check the fortnight's tally of use and the facilities callouts.
+- [7] **Servas**: I value clarity. I will examine the invoices for outside hire and the final clear-out of the old fridge.
+- [8] **Sakura**: I want to see the quotes for the two fit-outs and the partition wall! Numbers first, please!
+- [9] **Kenji**: I’m worried we’re becoming strangers. I’ll check where the last awkward conversation happened and the unplanned talk since the refit.
+- [10] **May**: @Kenji, that’s a bold choice. I’m taking the round trip for a hot lunch and the crumbs and bins at the desks.
+- [11] **Misaki**: @May, the crumbs and bins are a fair point. I’ll stick with my original choices for now.
+- [12] **Servas**: @May, your choices are practical. I stand by my selections. Let us see what the numbers reveal about our hidden costs.
+- [13] **Sakura**: @May, lunch sounds fun! I’m sticking with my quotes and the wall. I really need to see those numbers before we sign anything!
+- [14] **Kenji**: @May, thanks! I really hope the data shows we need a space to actually talk, not just eat.
+- [15] **May**: @Kenji, I hope you find some good conversations. I’m just trying to keep the room from becoming a disaster zone.
+- [16] **Misaki**: @May, I understand the mess concern. I’ll focus on the usage data and callouts to see if the room is actually overburdened.
+- [17] **Servas**: @Misaki, wisdom lies in understanding the weight of our choices. Let us see if the data reveals the true burden we carry.
+- [18] **Sakura**: @Misaki, I hope the callouts aren’t too scary! I’m just counting on those fit-out quotes to be reasonable.
+- [19] **Kenji**: @Misaki, that makes sense. If the room is overburdened, maybe we need a dedicated spot for difficult talks, not just more storage.
+- [20] **May**: @Sakura, good luck with the wall. I’m just hoping the lunch route is actually viable before we commit to anything.
+- [21] **Misaki**: @Sakura, the wall might be the key. If it’s thin, sound travels. I’ll see if the callouts mention noise.
+- [22] **Servas**: @Sakura, the wall is a boundary. I hope your quotes reveal not just cost, but the true value of separation.
+- [23] **Sakura**: @May, thanks! I’ll peek at the wall and quotes. If the numbers look silly, I’ll tell everyone!
+- [24] **Kenji**: @Sakura, if the wall is thin, maybe we need a different kind of barrier. I’ll see what the conversations reveal!
+## Round 2
+- [35] **May**: @Misaki, twenty-five minutes for lunch is brutal. Plus, three keyboards are basically composting. We need a real kitchen, not just a break room.
+- [36] **Misaki**: @May, the data shows the two nearest the door used it eleven times. The rest only four. It’s not overburdened, just concentrated.
+- [37] **Servas**: @Misaki, concentration is a form of neglect. I found 68,000 yen paid for small groups, and a fridge cleared by one person twice.
+- [38] **Sakura**: @May, the wall is basically paper! I can hear everything. Plus, the kitchen quote is ninety-six thousand yen. That’s a lot!
+- [39] **Kenji**: @Sakura, paper walls explain the awkwardness! The last hard talk happened in front of everyone. We need privacy, not just a kitchen.
+- [40] **May**: @Kenji, privacy is great, but I’m starving. If we can’t eat here, I’m walking twenty-five minutes every day.
+- [41] **Misaki**: @May, the callouts show no noise issues, just equipment faults. The room isn’t broken, just underused by most.
+- [42] **Servas**: @May, the hours vanish into invisible labor. I saw one person clear the fridge twice. We must stop paying for what we should share.
+- [43] **Sakura**: @Servas, sixty-eight thousand yen? Ouch! And the screen setup is one hundred forty-one thousand. We really need to look at these numbers carefully before signing anything!
+- [44] **Kenji**: @Servas, that’s a lot of money for invisible work. But if we’re strangers, maybe we need a quiet corner to actually talk, not just clear fridges.
+- [45] **May**: @Misaki, so it’s just two people hogging it? That explains the mess. I’m not walking twenty-five minutes daily, I refuse.
+- [46] **Misaki**: @May, it’s not about hogging. It’s about proximity. The two nearest the door use it most because they are closest.
+- [47] **Servas**: @Misaki, proximity is a silent thief. It steals time from those who must walk further. We must account for that hidden cost.
+- [48] **Sakura**: @Misaki, that makes sense! But with paper walls, we can’t just talk freely. I really need to see the final costs before we agree to anything!
+- [49] **Kenji**: @Misaki, proximity explains the mess, but not the silence. We need a spot where we can actually speak without an audience.
+- [50] **May**: @Kenji, I hear you, but I’m not paying for a therapy session. I just want to eat without crumbs. Let’s vote on the kitchen.
+- [51] **Misaki**: @May, the data supports a shared space, not a private one. Let’s vote on the options.
+- [52] **Servas**: @May, a kitchen is a start, but we must ask who maintains it. Let us vote on the options that truly serve us all.
+- [53] **Sakura**: @May, I hear you! But I really need to see the final costs before we agree to anything. Let’s vote!
+- [54] **Kenji**: @May, I’m not asking for therapy, just a place to talk without an audience. Let’s vote on the options that help us connect.
+## Round 3
+- [60] **May**: @Sakura, ninety-six thousand yen for a kitchen? That’s steep, but I’m not walking twenty-five minutes daily. I’m voting A.
+- [61] **Misaki**: @May, the data shows concentrated use, not a need for a kitchen. I’m voting C for structured, bookable discussions.
+- [62] **Servas**: @May, I vote C. A shared calendar distributes the burden fairly, preventing one person from carrying the invisible weight of upkeep alone.
+- [63] **Sakura**: @May, I’m voting C! The screen quote is high, but the paper walls make A impossible. We need structure!
+- [64] **Kenji**: @May, I get the hunger, but we’re strangers. I’m voting C. A bookable space gives us privacy to actually talk without an audience.
+- [65] **May**: @Kenji, I’m not voting for a therapy session. I’m voting for food. I refuse to walk twenty-five minutes daily. I stand by A.
+- [66] **Misaki**: @May, I understand the frustration, but the data shows the room isn’t broken. C offers structure without the high cost. I stand by C.
+- [67] **Servas**: @May, I stand by C. A calendar ensures no single soul bears the invisible burden of upkeep. Fairness requires structure, not just sustenance.
+- [68] **Sakura**: @May, I get it! But paper walls mean no privacy for cooking. I’m sticking with C. Structure is safer for everyone!
+- [69] **Kenji**: @May, I hear you, but we’re strangers. C gives us a private spot to talk. I stand by C.
+- [70] **May**: @Misaki, structure is nice, but I’m starving. I’m not walking twenty-five minutes daily. I stand by A.
+- [71] **Misaki**: @May, I hear you. But the data shows the room isn’t broken. C offers structure without the high cost. I stand by C.
+- [72] **Servas**: @May, I understand your hunger. Yet, a calendar ensures no single soul bears the invisible burden of upkeep. Fairness requires structure, not just sustenance. I stand by C.
+- [73] **Sakura**: @May, I get it! But paper walls mean no privacy for cooking. I’m sticking with C. Structure is safer for everyone!
+- [74] **Kenji**: @May, I really want you to eat well. But we’re strangers. C gives us the privacy to actually talk. I stand by C.
+- [75] **May**: @Kenji, fine, you win. I’m voting C, but I’m keeping my lunch money. I refuse to walk twenty-five minutes daily.
+- [76] **Misaki**: @May, I appreciate your concession. The data supports C. I stand by my vote for the meeting space.
+- [77] **Servas**: @May, your concession is a gift. We choose C, but let us remember that fairness is not just about the room, but about the hours we save.
+- [78] **Sakura**: @May, yay! C wins! I’m so happy we picked the smart option. I’ll make sure the numbers are all signed properly!
+- [79] **Kenji**: @May, thanks for listening! I’m so glad we’re choosing connection. I’ll help set up the calendar so we actually use it.
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

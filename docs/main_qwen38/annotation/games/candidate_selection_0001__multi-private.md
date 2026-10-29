@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the numbers. Who actually holds the skills to execute this work?
+- [6] **Midori**: I agree, Servas. But I’m worried the grant’s real value is shrinking. We need to see what costs the agency still covers centrally.
+- [7] **Kenji**: I’m curious about the shared facilities! If they’re stretched thin, the whole project could wobble. Let’s check their current capacity and status.
+- [8] **Benjamin**: I’d like to understand where projects actually stall. Let’s examine the portfolio review of schedule overruns to see the real bottlenecks.
+- [9] **Toshio**: I’d like to verify past performance. Let’s review the closeout files of finished awards to see what actually delivered.
+- [10] **Servas**: Midori, your caution is wise. Yet without skilled hands, even perfect funding is just paper. Let us ensure the people are truly there.
+- [11] **Midori**: Thank you, Servas. I’ll look into the national computing agreement and the travel ledgers to see where the real costs are shifting.
+- [12] **Kenji**: I’ll check the accreditation and bookings at shared facilities, plus the incident logs on shared instrumentation.
+- [13] **Benjamin**: I’ll examine the portfolio review of schedule overruns and the incident logs on shared instrumentation.
+- [14] **Toshio**: I will review the closeout files of finished awards and the national repository deposit turnaround.
+- [15] **Servas**: I will examine the staffing rolls for technical posts and the minutes on secondments to see who remains.
+- [16] **Midori**: I’m glad we’re all looking at different angles. I’ll stick with my two choices to understand the cost shifts better.
+- [17] **Kenji**: I’m excited to see what we find! Let’s hope the shared facilities are ready for this big challenge.
+- [18] **Benjamin**: I’ll stick with my two choices. Understanding where time actually goes is the only way to predict if this grant will survive its first year.
+- [19] **Toshio**: I’ll stick with my two choices. The data will speak for itself, without the noise of current optimism.
+- [20] **Servas**: Let us trust the process. The data will reveal the truth of our capacity. I look forward to our findings.
+- [21] **Midori**: I’m glad we’re all looking at different angles. I’ll stick with my two choices to understand the cost shifts better.
+- [22] **Kenji**: I’m ready to see what’s really going on. Let’s hope everything checks out!
+- [23] **Benjamin**: Agreed. Let’s see if the data matches the optimism. I’ll review my findings before we vote.
+- [24] **Toshio**: Agreed. The past is the only honest witness. I will review my findings before we vote.
+## Round 2
+- [35] **Servas**: The technicians are gone, but the glasshouse crew remains. We have the hands, yet the minds are abroad.
+- [36] **Midori**: Thank you, Servas. My findings show computing is free, but animal-unit day rates spiked. Travel costs are frozen, yet shipping climbed.
+- [37] **Kenji**: Wow, the spectroscopy suite was idle for eleven weeks! That’s scary. One engineer for three institutes? We really need to check if that’s fixed.
+- [38] **Benjamin**: Kenji, that idle suite is a red flag. My data shows biology-heavy projects stall twice as often. We must prioritize candidates with robust, non-biological workflows.
+- [39] **Toshio**: The closeout files confirm my suspicion. Catalogue awards persist; mechanism-focused ones stall. We should value sustained utility over initial promise.
+- [40] **Servas**: Toshio, your insight is profound. We must value the hands that remain. The glasshouse crew is our true foundation, not the absent minds.
+- [41] **Midori**: I hear you, Servas. But if animal costs spike, even the best hands struggle. We must balance the budget with the staffing reality.
+- [42] **Kenji**: @Benjamin, I agree! If the spectroscopy suite is broken, biology projects are at risk. We should pick candidates who don’t rely on that specific equipment.
+- [43] **Benjamin**: @Kenji, precisely. We cannot gamble on a single engineer’s availability. Let’s favor proposals with computational depth over those dependent on fragile, shared biological infrastructure.
+- [44] **Toshio**: I note the repository turnaround improved. That removes a logistical bottleneck. We can now focus purely on the scientific merit and long-term utility of the candidates.
+- [45] **Servas**: Midori, your caution is vital. We must ensure the budget supports the crew that actually remains, not the ghosts of departed technicians.
+- [46] **Midori**: Thank you, Servas. I agree. We must ensure the budget supports the crew that actually remains, not the ghosts of departed technicians.
+- [47] **Kenji**: I’m glad the animal facility is safe! But that idle spectroscopy suite worries me. Let’s hope the new engineer can keep up with the demand.
+- [48] **Benjamin**: Kenji, hope is not a strategy. We need candidates whose timelines survive the current staffing reality, not just good intentions.
+- [49] **Toshio**: Benjamin, hope is indeed not a strategy. But I ask: does your timeline data account for the long-term utility we just confirmed?
+- [50] **Servas**: Toshio, you are right. We must honor the long view. Let us choose the work that endures, supported by the hands we truly possess.
+- [51] **Midori**: I agree, Servas. We must balance the enduring value with the immediate cost shifts I found. Let us choose wisely.
+- [52] **Kenji**: I agree! We need a project that works with what we have now, not what we hope for. Let’s pick the safest bet!
+- [53] **Benjamin**: Toshio, utility is vital, but only if the work actually finishes. I’ll weigh long-term value against the specific schedule risks I’ve identified.
+- [54] **Toshio**: Agreed. A stalled project has no utility. I will weigh the candidates against the closeout evidence to ensure we fund what actually endures.
+## Round 3
+- [60] **Servas**: @Midori, the soil work needs the glasshouse crew we have. The spectroscopy suite is broken, so C is impossible. Let us choose the enduring foundation.
+- [61] **Midori**: @Servas, I agree C is risky. But B’s animal costs spiked, while A’s shipping is manageable. A seems the most balanced choice for us.
+- [62] **Kenji**: @Midori, I agree! A uses the soil sites we have. C needs the broken spectroscopy suite, so it’s too risky. Let’s pick A!
+- [63] **Benjamin**: @Kenji, A is the only option that avoids the broken spectroscopy suite and the stalled biological timelines. It is the logical choice.
+- [64] **Toshio**: @Benjamin, A aligns with the closeout data. Catalogue work persists; mechanism studies stall. The evidence favors A.
+- [65] **Servas**: @Toshio, your wisdom guides us. A is the enduring path. Let us vote for the work that remains, not the work that fades.
+- [66] **Midori**: @Toshio, I agree. A’s shipping costs are stable, unlike the spikes I found. It feels like the safest, most balanced choice for our budget.
+- [67] **Kenji**: @Toshio, I agree! A is the safest bet. It uses the stable sites and avoids the broken equipment. Let’s vote for A!
+- [68] **Benjamin**: @Toshio, precisely. A’s computational nature bypasses the biological bottlenecks I identified. It is the only candidate with a realistic timeline.
+- [69] **Toshio**: @Servas, I concur. The closeout files show catalogue work endures. A is the only choice supported by the evidence of sustained utility.
+- [70] **Servas**: @Benjamin, your caution is well-placed. A is the only path that respects our current reality. Let us commit to the enduring work.
+- [71] **Midori**: @Benjamin, I agree. A respects our budget constraints and staffing reality. It is the most balanced and sustainable choice for us.
+- [72] **Kenji**: @Benjamin, I agree! A is the safest choice. It uses the stable sites and avoids the broken equipment. Let’s vote for A!
+- [73] **Benjamin**: @Servas, agreed. A is the only proposal that respects the data. I vote for A.
+- [74] **Toshio**: @Kenji, agreed. The evidence is clear. I vote for A.
+- [75] **Servas**: @Midori, your prudence is sound. A honors the hands we possess and the evidence we hold. I vote for A.
+- [76] **Midori**: @Servas, I agree. A is the most balanced choice, respecting our budget and staffing. I vote for A.
+- [77] **Kenji**: @Toshio, I’m so happy we all agree! A is the best choice. I vote for A!
+- [78] **Benjamin**: @Toshio, the data is unanimous. A is the only rational choice. I vote for A.
+- [79] **Toshio**: @Benjamin, the data is unanimous. A is the only rational choice. I vote for A.
+### Vote
+- Servas -> A
+- Midori -> A
+- Kenji -> A
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: A

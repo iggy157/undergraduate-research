@@ -1,0 +1,73 @@
+# shared_living_0010__single-online (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need a system that actually works. The current setup is failing.
+- [6] **Mio**: #### Turn 1 of 4
+- [7] **Victoria**: #### Turn 1 of 4
+- [8] **Rin**: #### Turn 1 of 4
+- [9] **Daisuke**: #### Turn 1 of 4
+- [10] **Ryuji**: #### Turn 1 of 4
+- [11] **Mio**: #### Turn 2 of 4
+- [12] **Victoria**: #### Turn 2 of 4
+- [13] **Rin**: #### Turn 2 of 4
+- [14] **Daisuke**: #### Turn 2 of 4
+- [15] **Ryuji**: #### Turn 3 of 4
+- [16] **Mio**: - **Mio**: I agree. We need to see who is actually using the rooms before we decide.
+- [17] **Victoria**: - **Victoria**: I agree. We need to see who is actually using the rooms before we decide.
+- [18] **Rin**: - **Rin**: And I want to know what the supplies cost us every month, so nobody is quietly paying extra.
+- [19] **Daisuke**: #### Turn 3 of 4
+- [20] **Ryuji**: - **Ryuji**: I'll time a full pass to see the real hours, and check the outside firm's terms.
+- [21] **Mio**: - **Mio**: I'll check the kitchen use for a fortnight and look at the absences on the wall calendar.
+- [22] **Victoria**: - **Victoria**: I'll review the rows in the house chat and the note left by the previous tenants.
+- [23] **Rin**: - **Rin**: I'll check the bathroom spray receipts and what everyone counts as done.
+- [24] **Daisuke**: - **Daisuke**: I'll look at the bathroom grout after the July scrub and the management office rate sheet.
+## Round 2
+- [35] **Ryuji**: #### Turn 1 of 4
+- [36] **Mio**: #### Turn 1 of 4
+- [37] **Victoria**: - **Victoria**: The previous tenants' note is a warning. They split rooms permanently, and by year two, two of them barely spoke.
+- [38] **Rin**: - **Rin**: That sounds scary! I found the spray receipts, though. It's about 2,300 yen a month, and we bought it twice
+- [39] **Daisuke**: #### Turn 1 of 4
+- [40] **Ryuji**: #### Turn 2 of 4
+- [41] **Mio**: #### Turn 2 of 4
+- [42] **Victoria**: - **Victoria**: That confirms my fear. Permanent ownership breeds resentment. We need a system that keeps us talking, not just cleaning.
+- [43] **Rin**: - **Rin**: So if we hire help, does that 2,300 yen disappear? I want to know if we save money or just pay more
+- [44] **Daisuke**: #### Turn 2 of 4
+- [45] **Ryuji**: - **Ryuji**: The timing is brutal. Forty-seven minutes for the kitchen alone. I can't absorb that weekly.
+- [46] **Mio**: - **Mio**: I checked the calendar. Two of us are gone for weeks at a time. How can we rotate fairly if we're not even here?
+- [47] **Victoria**: - **Victoria**: @Mio, that absence data is critical. It proves a fixed rota will just create resentment for those who are present.
+- [48] **Rin**: - **Rin**: @Victoria, but if we pay someone, the money still has to come from our pockets. Who covers the gap when we're away?
+- [49] **Daisuke**: -Daisuke: The grout was dirty again in eleven days. I can't keep guessing if it's safe to use.
+- [50] **Ryuji**: - **Ryuji**: The firm's terms require someone home for two hours. That defeats the purpose of removing the work from my schedule.
+- [51] **Mio**: - **Mio**: That's a huge problem. If we're all gone, who stays? I don't want to be the one trapped here.
+- [52] **Victoria**: - **Victoria**: @Ryuji, exactly. The firm's terms mean we still have to manage the mess. That's the friction I want to avoid.
+- [53] **Rin**: - **Rin**: @Ryuji, that's a lot of time! But if we pay, I still need to know the exact monthly cost so I can budget.
+- [54] **Daisuke**: -Daisuke: The office charges 4,200 yen an hour. That is far more than our supplies. I am worried about the cost.
+## Round 3
+- [60] **Ryuji**: - **Ryuji**: The options are A, B, and C. I need to know which one actually removes the hours from my week.
+- [61] **Mio**: - **Mio**: Option B feels unfair with our absences. I'm leaning towards C, but only if the cost is clear.
+- [62] **Victoria**: - **Victoria**: Option A is a trap. The previous tenants proved it destroys relationships. I am ruling it out immediately.
+- [63] **Rin**: - **Rin**: I like C! But @Daisuke, 4,200 yen an hour is expensive. Can we really afford that every month?
+- [64] **Daisuke**: -Daisuke: I am worried. If we pay, who handles the invoice? I do not want to be the one chasing money.
+- [65] **Ryuji**: - **Ryuji**: Option C fails because the firm needs someone home. Option A is too rigid. I am leaning toward B, despite the hours.
+- [66] **Mio**: - **Mio**: @Ryuji, but the calendar shows we are often away. How can a fixed rota work if half of us are missing?
+- [67] **Victoria**: - **Victoria**: @Mio, a rota can be adjusted for absences. Option C leaves us managing the firm, which is the friction I fear.
+- [68] **Rin**: - **Rin**: @Victoria, but if we pay, I still need to know the exact monthly cost so I can budget.
+- [69] **Daisuke**: -Daisuke: I am leaning toward B. It is predictable, and I do not have to guess the state of the rooms.
+- [70] **Ryuji**: - **Ryuji**: @Mio, the rota can skip absent weeks. It is the only option that doesn't require me to be home for two hours.
+- [71] **Mio**: - **Mio**: @Ryuji, skipping weeks just piles the work onto the people who are actually here. That feels unfair to me.
+- [72] **Victoria**: - **Victoria**: @Mio, you are right. Piling work onto the present creates the exact resentment I want to avoid.
+- [73] **Rin**: - **Rin**: @Mio, that is true! But if we pay, the cost is fixed. I just need to know the total so I am not surprised.
+- [74] **Daisuke**: -Daisuke: I am still leaning toward B. Predictability helps me, even if the cost is high.
+- [75] **Ryuji**: - **Ryuji**: I vote B. It is the only option that does not require me to be home for two hours.
+- [76] **Mio**: - **Mio**: I vote C. I refuse to be the one stuck here while the cleaner waits.
+- [77] **Victoria**: - **Victoria**: I vote B. It keeps us on speaking terms, unlike the permanent split that destroyed the previous tenants.
+- [78] **Rin**: I vote C! I want the cost to be clear and fixed, so I am not paying extra from my pocket.
+- [79] **Daisuke**: I vote B. Predictability is what I need to stop guessing about the rooms.
+### Vote
+- Ryuji -> B
+- Mio -> C
+- Victoria -> B
+- Rin -> C
+- Daisuke -> B
+## Result
+- adopted: B

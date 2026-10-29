@@ -1,0 +1,73 @@
+# shared_living_0014__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I need to understand why last year felt so disjointed before we book.
+- [6] **Shizue**: I worry about the quiet costs. Let’s see how the money actually moved.
+- [7] **Minato**: I just want to know where I can sit without feeling crowded.
+- [8] **Jonathan**: I am concerned about how much time is lost just getting there.
+- [9] **Midori**: I need to see the full cost before we say yes to anything.
+- [10] **Mizuki**: @Minato, your comfort is key, but we must look at the structure first.
+- [11] **Shizue**: @Jonathan, travel time is real, but so is the bill at the end.
+- [12] **Minato**: I think the bathroom and the table times matter most to me.
+- [13] **Jonathan**: I agree. The waiting is the hardest part for me.
+- [14] **Midori**: I will look at the total price and the room costs from last year.
+- [15] **Mizuki**: I will check how the days actually ran and the time alone.
+- [16] **Shizue**: I will look at the all-in rates and the separate room costs.
+- [17] **Minato**: I will check the bathing hours and the inn mealtimes.
+- [18] **Jonathan**: I will look at the ferry times and the train schedules.
+- [19] **Midori**: I will check the all-in rates and the separate room costs.
+- [20] **Mizuki**: Let’s see what the data says before we argue about feelings.
+- [21] **Shizue**: A clear structure helps everyone feel safe, I think.
+- [22] **Minato**: I hope the small details make the week feel softer.
+- [23] **Jonathan**: I hope we can find a place that does not demand so much.
+- [24] **Midori**: I hope the numbers match the promise we made to each other.
+## Round 2
+- [35] **Mizuki**: The data shows we drifted apart last year. We need a place that forces us together.
+- [36] **Shizue**: I found that separate rooms cost very different amounts last time. It felt unfair.
+- [37] **Minato**: I found the baths are shared and the food times are very early. That worries me.
+- [38] **Jonathan**: I found the ferry takes two days each way. That is too much waiting for me.
+- [39] **Midori**: I found the all-in rate is the same for everyone, but separate rooms cost wildly different amounts.
+- [40] **Mizuki**: @Jonathan, two days is a lot, but the drift is worse.
+- [41] **Shizue**: @Midori, yes, the separate costs were a source of quiet stress for me.
+- [42] **Minato**: I think the shared bath and the early dinner might make me feel very small.
+- [43] **Jonathan**: I think the train is better, but the city feels too loud for me.
+- [44] **Midori**: I think the all-in rate is the only way to keep the bill fair and predictable.
+- [45] **Mizuki**: I am leaning toward the valley inn. It forces us to be in the same room.
+- [46] **Shizue**: I agree. The all-in rate means no one is left paying for the others’ choices.
+- [47] **Minato**: I am afraid of the shared bath, but I do not want to be alone in a city room.
+- [48] **Jonathan**: I am afraid of the noise, but I am more afraid of the two days on the ferry.
+- [49] **Midori**: I am leaning toward the valley inn. The all-in rate means I know the total before we go.
+- [50] **Mizuki**: The valley inn seems to solve the drift and the fairness problem at once.
+- [51] **Shizue**: I am comfortable with that. The money falls out of the arrangement, not the person.
+- [52] **Minato**: I will try to sleep through the early dinner. I hope the bath is warm.
+- [53] **Jonathan**: I will try to read in the quiet corners. I hope the noise is not too much.
+- [54] **Midori**: I am comfortable with that. The total is known, and the bill is shared evenly.
+## Round 3
+- [60] **Mizuki**: Option A keeps us in the same room and the same meal. That is what we need.
+- [61] **Shizue**: Option A has the all-in rate. That means the money is settled before we arrive.
+- [62] **Minato**: Option A has the shared bath and the early dinner. I am a little afraid, but I think I can manage.
+- [63] **Jonathan**: Option A is reached by train, not ferry. That saves me two days of waiting.
+- [64] **Midori**: Option A has the all-in rate. I know the total cost before we commit. That is what I need.
+- [65] **Mizuki**: @Minato, the bath is a small price for the week we will actually share.
+- [66] **Shizue**: @Jonathan, the train is a kindness to your time, and the all-in rate is a kindness to the group.
+- [67] **Minato**: I think the early dinner will be hard, but I do not want to be alone in a city room.
+- [68] **Jonathan**: I think the noise will be a test, but I do not want to lose two days to the ferry.
+- [69] **Midori**: I think the all-in rate is the only way to keep the bill fair and predictable for everyone.
+- [70] **Mizuki**: I am voting for Option A. It solves the drift and the fairness problem at once.
+- [71] **Shizue**: I am voting for Option A. The money falls out of the arrangement, not the person.
+- [72] **Minato**: I am voting for Option A. I will try to sleep through the early dinner.
+- [73] **Jonathan**: I am voting for Option A. I will try to read in the quiet corners.
+- [74] **Midori**: I am voting for Option A. The total is known, and the bill is shared evenly.
+- [75] **Mizuki**: I think we have found the place that lets us be together without losing ourselves.
+- [76] **Shizue**: I think we have found the place that lets the money be settled before the feelings are tested.
+- [77] **Minato**: I think we have found the place that lets me be small without being alone.
+- [78] **Jonathan**: I think we have found the place that lets me be quiet without being lost.
+- [79] **Midori**: I think we have found the place that lets the bill be known before the week begins.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> A
+- Jonathan -> A
+- Midori -> A
+## Result
+- adopted: A

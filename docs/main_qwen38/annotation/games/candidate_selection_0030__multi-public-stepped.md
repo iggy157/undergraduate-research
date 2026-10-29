@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I worry about who does the extra work when the rota breaks.
+- [6] **Jonathan**: We promise dates based on conditions we do not control.
+- [7] **George**: The fund is committed before we know the actual cost source.
+- [8] **May**: We keep rediscovering the same lessons from past winners.
+- [9] **Midori**: We judge by sound, not by what goes wrong on the floor.
+- [10] **Minato**: @May, do we have data on which tools actually survived?
+- [11] **Jonathan**: @George, does the budget line cover external dependencies?
+- [12] **George**: @Jonathan, external dependencies often hide in renewal notices.
+- [13] **May**: @Minato, yes, but nobody opens the file to check.
+- [14] **Midori**: @All, let us look at the daily losses versus the effort.
+- [15] **Minato**: I think we should check the staffing of the coordination group.
+- [16] **Jonathan**: I want to see the network coverage at customer plants.
+- [17] **George**: I will look into the capital budget and software allowance.
+- [18] **May**: I need to see the outcomes of the last three rollouts.
+- [19] **Midori**: I will check the time lost to copying existing records.
+- [20] **Minato**: Also, I will look at the in-house developer availability.
+- [21] **Jonathan**: And the record of cross-unit standardization efforts.
+- [22] **George**: I will also check the vendor licence pricing versus fixed-fee work.
+- [23] **May**: I will also look at the misrouted deliveries in the incident logs.
+- [24] **Midori**: I will also check the handling of vendor queries.
+## Round 2
+- [35] **Minato**: The coordination group is just two people writing everything by hand.
+- [36] **Jonathan**: Half the customer plants lose signal for whole afternoons.
+- [37] **George**: The capital line is frozen, but the software allowance has room.
+- [38] **May**: Tools needing daily entry from everyone were quietly dropped.
+- [39] **Midori**: We lose an hour daily just copying details that already exist.
+- [40] **Minato**: @George, so we can't build new things in-house right now?
+- [41] **Jonathan**: @Minato, the developers are stuck on the accounting upgrade.
+- [42] **George**: @Jonathan, exactly. But we can buy fixed-fee work.
+- [43] **May**: @Midori, the misrouted deliveries are because units have different addresses.
+- [44] **Midori**: @May, yes, and the clerks keep asking for the same certificates.
+- [45] **Minato**: If we can't build, maybe we should buy a tool that helps the two people?
+- [46] **Jonathan**: The standardization efforts failed because they had no owner.
+- [47] **George**: Fixed-fee work is stable. Per-head licences get expensive fast.
+- [48] **May**: The narrow tools for one trade still run. The broad ones died.
+- [49] **Midori**: A tool that stops the copying would save that hour daily.
+- [50] **Minato**: I think a tool for the coordination group makes sense.
+- [51] **Jonathan**: But who owns it? The last four standardization efforts failed.
+- [52] **George**: If it is a fixed-fee build, the cost is predictable.
+- [53] **May**: It needs to be narrow. Not for everyone. Just for the coordination.
+- [54] **Midori**: It addresses the daily loss directly. I support that.
+## Round 3
+- [60] **Minato**: Option A seems to help the two people in the coordination group.
+- [61] **Jonathan**: Option D is risky. Half the sites have no signal.
+- [62] **George**: Option A can be a fixed-fee build. The cost is known.
+- [63] **May**: Option A is narrow enough. It doesn't require daily entry from everyone.
+- [64] **Midori**: Option A stops the copying of status notes. That saves the hour.
+- [65] **Minato**: @Jonathan, are you sure D is too risky?
+- [66] **Jonathan**: @Minato, yes. The signal loss is too frequent.
+- [67] **George**: @May, I agree. A is safer than C or B.
+- [68] **May**: @George, C failed before because it had no owner.
+- [69] **Midori**: @All, A addresses the specific pain point we found.
+- [70] **Minato**: I think A is the best choice for the staff.
+- [71] **Jonathan**: I agree. D is not viable. B is too broad.
+- [72] **George**: A fits the budget. Fixed-fee, no per-head climb.
+- [73] **May**: A is the only one that survived the "narrow tool" test.
+- [74] **Midori**: A reduces the daily loss. I vote for A.
+- [75] **Minato**: I will vote for A.
+- [76] **Jonathan**: I will vote for A.
+- [77] **George**: I will vote for A.
+- [78] **May**: I will vote for A.
+- [79] **Midori**: I will vote for A.
+### Vote
+- Minato -> A
+- Jonathan -> A
+- George -> A
+- May -> A
+- Midori -> A
+## Result
+- adopted: A

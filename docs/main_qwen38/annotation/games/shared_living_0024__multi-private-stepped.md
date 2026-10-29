@@ -1,0 +1,73 @@
+# shared_living_0024__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost before we book anything.
+- [6] **Shunichi**: I’m tired of wasting days on travel logistics.
+- [7] **Asuka**: We need a clear breakdown of who pays for what.
+- [8] **Takumi**: I need to know where I can wash and sit.
+- [9] **Toshio**: I need to understand the group dynamic from last year.
+- [10] **Rin**: @Shunichi, travel time is part of the cost, isn't it?
+- [11] **Shunichi**: Yes, but I mean the mental load of planning it.
+- [12] **Asuka**: @Rin, if we don't split it, someone pays more.
+- [13] **Takumi**: @Asuka, I don't care about money, I care about comfort.
+- [14] **Toshio**: @Takumi, comfort is subjective. I need data on the space.
+- [15] **Rin**: I will look into the all-in rates and last year's costs.
+- [16] **Shunichi**: I will check the ferry times and how we get around.
+- [17] **Asuka**: I will look into the all-in rates and last year's costs.
+- [18] **Takumi**: I will check bathing hours and how last year's days ran.
+- [19] **Toshio**: I will look into time alone and how last year's days ran.
+- [20] **Rin**: Okay, let's see what we find out.
+- [21] **Shunichi**: I hope this saves us some headache.
+- [22] **Asuka**: Precision is better than guessing.
+- [23] **Takumi**: I just want a place to rest my head.
+- [24] **Toshio**: I will observe the patterns in the data.
+## Round 2
+- [35] **Rin**: The all-in rate is unfair to light eaters like me.
+- [36] **Shunichi**: The ferry schedule is tight; we lose two days to travel.
+- [37] **Asuka**: Last year, separate rooms cost 8,000 yen more for some of us.
+- [38] **Takumi**: The shared house has one bathroom for everyone.
+- [39] **Toshio**: Last year, we barely saw each other. That was the problem.
+- [40] **Rin**: @Asuka, so the whole-house bill is actually cheaper for me?
+- [41] **Shunichi**: @Rin, yes, but the travel time is the real killer.
+- [42] **Asuka**: @Rin, it is cheaper and fairer. The bill divides evenly.
+- [43] **Takumi**: @Toshio, if we stay together, we are together.
+- [44] **Toshio**: @Takumi, being together is not the same as being present.
+- [45] **Rin**: I prefer the whole-house option. The cost is clear.
+- [46] **Shunichi**: I prefer the urban option. The train is frequent and fast.
+- [47] **Asuka**: I prefer the whole-house option. The cost is clear.
+- [48] **Takumi**: I prefer the whole-house option. I can control my own time.
+- [49] **Toshio**: I prefer the whole-house option. It forces us to share the day.
+- [50] **Rin**: It seems the whole-house option is winning.
+- [51] **Shunichi**: I will accept it, but I want the train option.
+- [52] **Asuka**: The math supports the whole-house option.
+- [53] **Takumi**: I am ready to vote.
+- [54] **Toshio**: I am ready to vote.
+## Round 3
+- [60] **Rin**: Option A has a single bill. I like that.
+- [61] **Shunichi**: Option C has the best transport. I hate the ferry.
+- [62] **Asuka**: Option A is the only one where the cost is fixed.
+- [63] **Takumi**: Option A has one bathroom. I can manage that.
+- [64] **Toshio**: Option A forces us to be in the same space.
+- [65] **Rin**: @Shunichi, the ferry is only one way. We can relax after.
+- [66] **Shunichi**: @Rin, the return trip is the problem. I want the train.
+- [67] **Asuka**: @Shunichi, the cost of the train is not the issue. The fairness is.
+- [68] **Takumi**: @Toshio, I need to know if I can sleep in.
+- [69] **Toshio**: @Takumi, in a shared house, you can. But you will hear us.
+- [70] **Rin**: I am voting for A. The cost is clear.
+- [71] **Shunichi**: I am voting for C. The transport is efficient.
+- [72] **Asuka**: I am voting for A. The cost is clear.
+- [73] **Takumi**: I am voting for A. I can control my own time.
+- [74] **Toshio**: I am voting for A. It forces us to share the day.
+- [75] **Rin**: A is winning. I am happy.
+- [76] **Shunichi**: I will accept A, but I want the train option.
+- [77] **Asuka**: The math supports A.
+- [78] **Takumi**: I am ready to vote.
+- [79] **Toshio**: I am ready to vote.
+### Vote
+- Rin -> A
+- Shunichi -> C
+- Asuka -> A
+- Takumi -> A
+- Toshio -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0020__multi-public (shared_living)
+
+## Round 1
+- [5] **Minako**: The informal habit has failed. We need a system that accounts for actual time spent. I want to know the real hours involved before we commit.
+- [6] **Benjamin**: Agreed. But time is only half the story. I suspect the workload isn't distributed evenly based on who actually uses the spaces.
+- [7] **Sakura**: I just want to stop guessing! The bathroom scares me, and the kitchen is a mystery. Can we make it predictable?
+- [8] **Shizue**: I worry about the small costs, like bleach and sponges, that slip through the cracks. Who pays for those?
+- [9] **Servas**: I care less about the rooms than about our peace. Let us choose a path that keeps us speaking kindly to one another a year from now.
+- [10] **Minako**: @Benjamin, your point about usage is valid. I will look into the stopwatch timing and the house chat rows to see where the friction actually lies.
+- [11] **Benjamin**: @Minako, I’ll check the kitchen usage logs and the wall calendar. I need to see if the work matches who is actually here.
+- [12] **Sakura**: I’ll check the bathroom grout and what everyone counts as done! I need to know why it gets gross so fast and what "clean" really means.
+- [13] **Shizue**: I’ll check the bathroom spray receipts and the management office rate sheet. I need to see exactly what we spend and who pays.
+- [14] **Servas**: I will examine the previous tenants' note and the house chat rows. I want to understand how their arrangement affected their relationships and where our current friction begins.
+- [15] **Minako**: @Servas, your focus on our peace is wise. I will look into the stopwatch timing and the house chat rows to understand the real hours and friction.
+- [16] **Benjamin**: I stand by my choice. The calendar and kitchen watch will reveal the imbalance. Let us proceed.
+- [17] **Sakura**: I’m so excited to solve this mystery! I’ll check the bathroom grout and what everyone counts as done. Let’s make it predictable!
+- [18] **Shizue**: I’ll check the bathroom spray receipts and the management office rate sheet. I need to see exactly what we spend and who pays.
+- [19] **Servas**: I will examine the previous tenants' note and the house chat rows. I want to understand how their arrangement affected their relationships and where our current friction begins.
+- [20] **Minako**: I confirm my choices: stopwatch timing and house chat rows. Let us see the facts before we decide.
+- [21] **Benjamin**: I confirm my choices: the wall calendar and the fortnight's watch on kitchen use. The data will speak for itself.
+- [22] **Sakura**: I confirm my choices: the bathroom grout and what everyone counts as done. I want to solve this mystery!
+- [23] **Shizue**: I confirm my choices: the bathroom spray receipts and the management office rate sheet. I need to see exactly what we spend and who pays.
+- [24] **Servas**: I confirm my choices: the previous tenants' note and the house chat rows. I wish to understand how their arrangement affected their relationships and where our current friction begins.
+## Round 2
+- [35] **Minako**: The timing shows one hundred and two minutes per pass. The chat rows show friction starts with reminders. We need a system that prevents the need for reminders.
+- [36] **Benjamin**: The calendar shows two of us away for weeks. The kitchen watch reveals the mess comes from just a few cooks. The current system ignores who is actually here.
+- [37] **Sakura**: Eleven days! The grout gets black again so fast because the window is tiny. And "done" means different things to everyone, which is why it feels random!
+- [38] **Shizue**: I found the spray costs about 2,300 yen monthly, often bought twice. The office cleaner is 4,200 yen an hour, billed to one person.
+- [39] **Servas**: The previous tenants divided rooms permanently, yet two barely spoke by year two. Our rows began with reminders. We must avoid that silence.
+- [40] **Minako**: @Benjamin, your data confirms the imbalance. If two are absent, the remaining three absorb the full hundred and two minutes. We must account for that absence in any fair system.
+- [41] **Benjamin**: @Minako, precisely. The calendar proves presence is variable, while the kitchen watch proves usage is concentrated. We cannot charge absent members equally for work they never trigger.
+- [42] **Sakura**: @Minako, @Benjamin, that explains the mystery! If "done" means different things, the room feels random. I want a clear rule so I stop guessing!
+- [43] **Shizue**: @Minako, @Benjamin, the 4,200 yen hourly rate is steep. If we hire help, that bill lands on one person first. Who collects the rest?
+- [44] **Servas**: @Shizue, the collection burden is real, but the previous tenants’ silence warns us that rigid division breeds distance. We must choose a path that keeps our voices open, not just our ledgers balanced.
+- [45] **Minako**: @Servas, the previous tenants’ silence is a warning. But the data shows the work is real. We need a structure that prevents the reminders that started our rows.
+- [46] **Benjamin**: @Minako, agreed. The data is clear. We need a system that adjusts for absence and usage, not just a static list.
+- [47] **Sakura**: @Minako, @Benjamin, I agree! A clear rule means no more guessing. I just want to know exactly what "clean" looks like so I stop bracing myself!
+- [48] **Shizue**: @Servas, I hear your worry about silence. But I need to know the monthly cost clearly. If we hire help, who pays the 4,200 yen first?
+- [49] **Servas**: @Shizue, the cost is real, but so is the risk of silence. Let us weigh the money against the peace we wish to keep.
+- [50] **Minako**: @Shizue, the 4,200 yen rate is high, but the 102 minutes of labor is the true cost. We must weigh the money against the time we reclaim.
+- [51] **Benjamin**: @Minako, I agree. But the 4,200 yen rate is steep. If we hire help, that bill lands on one person first. Who collects the rest?
+- [52] **Sakura**: @Minako, @Benjamin, I agree! A clear rule means no more guessing. I just want to know exactly what "clean" looks like so I stop bracing myself!
+- [53] **Shizue**: @Minako, @Benjamin, I hear you. But I worry about the 2,300 yen in supplies and the 4,200 yen rate. Who settles up?
+- [54] **Servas**: @Shizue, the money matters, but the silence matters more. Let us choose the path that keeps our voices open, not just our ledgers balanced.
+## Round 3
+- [60] **Minako**: @Benjamin, the 4,200 yen rate is steep, but the 102 minutes of labor is the true cost. We must weigh the money against the time we reclaim.
+- [61] **Benjamin**: @Minako, the data shows usage is concentrated. A fixed rota ignores who is actually here. I need a system that adjusts for absence and usage, not just a static list.
+- [62] **Sakura**: @Minako, @Benjamin, I just want to stop guessing! A clear rule means I know exactly what "clean" looks like. Which option makes the bathroom predictable?
+- [63] **Shizue**: @Minako, @Benjamin, I hear your points. But I worry about the 2,300 yen in supplies and the 4,200 yen rate. Who settles up?
+- [64] **Servas**: @Sakura, a clear rule helps, but the previous tenants’ silence warns us. We must choose the path that keeps our voices open, not just our ledgers balanced.
+- [65] **Minako**: @Benjamin, a static list fails when two are absent. Option B removes the labor entirely, solving the time and absence problems. I support B.
+- [66] **Benjamin**: @Minako, B ignores the usage data. If I’m absent, I shouldn’t pay for a cleaner I didn’t trigger. A fixed rota is rigid, but it’s transparent. I prefer A.
+- [67] **Sakura**: @Minako, @Benjamin, I pick A! A fixed week means I know exactly who is in charge. No more guessing if the bathroom is safe!
+- [68] **Shizue**: @Minako, @Benjamin, I worry about the 2,300 yen in supplies and the 4,200 yen rate. Who settles up?
+- [69] **Servas**: @Benjamin, a static list can breed the silence we fear. @Minako, B removes the labor, but the collection burden remains. I lean toward B to protect our peace.
+- [70] **Minako**: @Benjamin, your usage argument is valid, but the 102 minutes is a fixed cost. Option B removes that burden entirely. I stand by B.
+- [71] **Benjamin**: @Minako, the 4,200 yen rate is steep, but the 102 minutes of labor is the true cost. We must weigh the money against the time we reclaim.
+- [72] **Sakura**: @Minako, @Benjamin, I still pick A! A fixed week means I know exactly who is in charge. No more guessing if the bathroom is safe!
+- [73] **Shizue**: @Minako, @Benjamin, I worry about the 2,300 yen in supplies and the 4,200 yen rate. Who settles up?
+- [74] **Servas**: @Shizue, the invoice is shared, so no one carries it alone. @Minako, B removes the labor that breeds silence. I vote B to keep our peace.
+- [75] **Minako**: I stand by B. The data shows the labor is fixed and the friction is real. Removing the work removes the reminders. I vote B.
+- [76] **Benjamin**: I vote A. Transparency and a published order are the only way to verify fairness. B hides the labor; C invites the silence we fear.
+- [77] **Sakura**: I vote A! A fixed week means I know exactly who is in charge. No more guessing if the bathroom is safe!
+- [78] **Shizue**: I vote B. A shared invoice means we all pay our fair share monthly, and no one is left chasing unpaid debts.
+- [79] **Servas**: I vote B. The previous tenants' silence warns us that rigid division breeds distance. A shared invoice keeps our voices open and our peace intact.
+### Vote
+- Minako -> B
+- Benjamin -> A
+- Sakura -> A
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

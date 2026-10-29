@@ -1,0 +1,73 @@
+# shared_living_0026__multi-public (shared_living)
+
+## Round 1
+- [5] **Mio**: Okay, so we need to fix the fees! I’m a bit worried we’re just guessing again. What should we look at first?
+- [6] **Jonathan**: I think we should check the sign-in sheets. It might show who actually uses the club, which helps us decide fairly.
+- [7] **Takumi**: I want to see the rota against the attendance record. I bet the same few people are doing all the heavy lifting while others just show up.
+- [8] **Toshio**: I’d like to review the outgoing treasurer’s logged hours. We need to understand the actual workload before committing to a collection method.
+- [9] **Kenji**: I’m curious about the taster evening forms. I want to know why people didn’t join, so we can make sure the new fee doesn’t scare them off.
+- [10] **Mio**: @Jonathan, good point! I’m also curious about the bank statements. I want to see how people actually paid last year.
+- [11] **Jonathan**: @Mio, that sounds useful. I’ll look into the sign-in sheets and the ledger of outgoings to see where the money actually goes.
+- [12] **Takumi**: @Toshio, that’s smart. I’ll check the sign-in sheets too. I need to see exactly who’s showing up and who’s just paying.
+- [13] **Toshio**: I’ll also check the bank statements on renewals. I need to see how many reminders were actually needed to clear last year’s accounts.
+- [14] **Kenji**: @Mio, I’ll check the taster forms and the sign-up records for mid-year joiners. I want to see how people actually get in and why they hesitate.
+- [15] **Mio**: @Toshio, I hope the hours aren’t too scary! I’m going to look at the ledger and the bank statements. I really want to know where the money goes and how people paid.
+- [16] **Jonathan**: @Mio, I hope the numbers are kind. I’ll stick with the sign-in sheets and the ledger. I need to see the quiet reality of who is actually here.
+- [17] **Takumi**: @Mio, I’m not just guessing. I’m checking the sign-in sheets and the rota. I need to see who’s actually doing the work versus who’s just paying.
+- [18] **Toshio**: I’ll confirm the treasurer’s hours and the bank statements. I need to know the true cost of chasing individual payments before we decide.
+- [19] **Kenji**: @Mio, I’m glad we’re looking at this together. I’ll check the taster forms and the mid-year sign-ups. I want to see how people actually join and why they hesitate.
+- [20] **Mio**: Alright, I’m locked in! I’ll check the ledger and the bank statements. I really need to know where the money goes and how people actually paid last year.
+- [21] **Jonathan**: I’ll review the sign-in sheets and the ledger. I need to see the quiet reality of who is actually here and where the money goes.
+- [22] **Takumi**: I’m locked in. I’ll check the sign-in sheets and the rota. I need to see exactly who’s doing the work versus who’s just paying.
+- [23] **Toshio**: I’ll confirm the treasurer’s hours and the bank statements. I need to know the true cost of chasing individual payments before we decide.
+- [24] **Kenji**: Locked in! I’ll check the taster forms and the mid-year sign-ups. I really want to understand why people hesitate and how they actually join.
+## Round 2
+- [35] **Mio**: Whoa, the ledger is wild! Seventy percent of costs are fixed, like hall hire, even if nobody shows up. That’s a lot of money just sitting there!
+- [36] **Jonathan**: The sign-in sheets are quiet. A quarter of us do two-thirds of the work, and eighteen names are missing entirely.
+- [37] **Takumi**: @Jonathan, that’s exactly what I suspected. The same nine people do the setup and locking up. They’re carrying the whole club while others just pay.
+- [38] **Toshio**: The treasurer’s logs are stark. Chasing individual payments took six hours monthly, versus one for yearly. We cannot afford that drain.
+- [39] **Kenji**: @Mio, that fixed cost is huge. But my forms show people fear committing to a whole year. How do we balance that?
+- [40] **Mio**: @Kenji, that’s tough! But @Toshio, if chasing money takes six hours, maybe we need a simpler way? I’m worried about the reminders too.
+- [41] **Jonathan**: @Mio, the fixed costs are the real anchor. If we charge per event, we still pay the hall. We need a base that covers that, regardless of who shows.
+- [42] **Takumi**: @Toshio, six hours chasing money is insane. But look at the rota: the same nine people do everything. If we charge per event, they get nothing extra for the work.
+- [43] **Toshio**: @Jonathan, the base covers the hall, but the collection method determines the labor. Six hours monthly is unsustainable. We need a structure that minimizes chasing.
+- [44] **Kenji**: @Jonathan, that base idea makes sense. But my sign-up records show eleven mid-year joiners needed hand-worked calculations. That’s messy. How do we keep it simple for them?
+- [45] **Mio**: @Kenji, hand-worked math sounds exhausting! I really want to avoid that mess. @Toshio, does a flat fee actually stop the chasing?
+- [46] **Jonathan**: @Mio, a flat fee covers the hall, but the sign-in sheets show eighteen people never come. Is it fair to charge them the same as the regulars?
+- [47] **Takumi**: @Jonathan, fairness isn't just about showing up. It's about who keeps the lights on. If we charge per event, those nine heroes get penalized for doing the work.
+- [48] **Toshio**: @Mio, yes. A single annual collection eliminates the monthly chasing. The bank statements confirm reminders are a burden. We need that simplicity.
+- [49] **Kenji**: @Mio, I agree, the math is a nightmare. But @Jonathan, if we charge per event, the taster forms show people won’t commit to a whole year. We need a simple entry point.
+- [50] **Mio**: @Toshio, I’m with you! One simple payment means no more chasing or messy math. It feels so much fairer and less stressful for everyone.
+- [51] **Jonathan**: @Mio, I hear you. But the sheets show eighteen people never come. A flat fee feels heavy for them. We need a way to respect that quiet absence.
+- [52] **Takumi**: @Jonathan, eighteen ghosts don’t pay the rent. The nine who show up do. A flat fee protects them from being punished for working.
+- [53] **Toshio**: @Jonathan, the eighteen absentees are a loss, not a burden. The labor data is decisive. We must minimize the collection overhead.
+- [54] **Kenji**: @Jonathan, I get it. But the taster forms show people fear a whole year. A flat fee is simple, but maybe we need a gentle way in?
+## Round 3
+- [60] **Mio**: @Toshio, I’m leaning toward Option A! One simple payment means no more chasing or messy math. It feels so much fairer and less stressful for everyone.
+- [61] **Jonathan**: @Mio, I understand the simplicity. But the sign-in sheets show eighteen people never come. A flat fee feels heavy for them. We need a way to respect that quiet absence.
+- [62] **Takumi**: @Jonathan, those eighteen ghosts don’t pay the rent. The nine who show up do. A flat fee protects them from being punished for working.
+- [63] **Toshio**: @Jonathan, the labor data is decisive. Six hours monthly chasing is unsustainable. A flat fee eliminates that drain. We must prioritize the treasurer's capacity.
+- [64] **Kenji**: @Jonathan, I hear you. But the taster forms show people fear a whole year. A flat fee is simple, but maybe we need a gentle way in?
+- [65] **Mio**: @Kenji, I get the worry! But Option A is just one payment, not a whole year of events. It’s actually the simplest way to start, don’t you think?
+- [66] **Jonathan**: @Kenji, I understand the hesitation. But the ledger shows the hall costs are fixed. A base fee is necessary to keep the doors open, regardless of who walks through them.
+- [67] **Takumi**: @Kenji, a gentle way in? Option B creates tiers. The minute books show that caused friction. Keep it simple. Option A protects the workers.
+- [68] **Toshio**: @Kenji, the taster hesitation is real, but the labor data is decisive. Option A minimizes the collection overhead that broke the last treasurer. We must prioritize sustainability.
+- [69] **Kenji**: @Mio, I agree! One payment is so much easier for newcomers than a whole year of events. It feels like a gentle start. I’m voting for Option A.
+- [70] **Mio**: @Kenji, yay! I’m so happy we’re on the same page! One simple payment is just the best. I’m definitely voting for Option A!
+- [71] **Jonathan**: @Mio, I see the simplicity. But the sheets show eighteen people never come. A flat fee feels heavy for them. We need a way to respect that quiet absence.
+- [72] **Takumi**: @Jonathan, I get it, but Option B caused friction before. Option A is the only way to stop the chasing and protect the nine who actually do the work. I’m voting A.
+- [73] **Toshio**: @Jonathan, the labor data is decisive. Six hours monthly chasing is unsustainable. Option A eliminates that drain. We must prioritize the treasurer's capacity. I am voting A.
+- [74] **Kenji**: @Jonathan, I hear you, but the taster forms show people fear a whole year. Option A is just one simple payment, not a commitment to events. I’m voting A.
+- [75] **Mio**: @Jonathan, I hear you, but the numbers are clear! One simple payment is the kindest way to keep us all afloat. I’m voting for Option A!
+- [76] **Jonathan**: @Mio, I see the simplicity. But the sheets show eighteen people never come. A flat fee feels heavy for them. I am voting for Option A.
+- [77] **Takumi**: @Jonathan, I get it, but the data is clear. Option A stops the chasing and protects the nine who actually do the work. I’m voting A.
+- [78] **Toshio**: @Jonathan, the labor data is decisive. Six hours monthly chasing is unsustainable. Option A eliminates that drain. We must prioritize the treasurer's capacity. I am voting A.
+- [79] **Kenji**: @Jonathan, I understand your worry about the quiet members. But one simple payment is the gentlest start for everyone. I’m voting for Option A!
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> A
+- Toshio -> A
+- Kenji -> A
+## Result
+- adopted: A

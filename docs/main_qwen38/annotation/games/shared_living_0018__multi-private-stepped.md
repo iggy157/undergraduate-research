@@ -1,0 +1,73 @@
+# shared_living_0018__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need a clear rule for usage. First-come-first-served is inefficient.
+- [6] **Jonathan**: I agree. We should prioritize quiet work over casual chat.
+- [7] **May**: Before we decide, I want to know where the hidden costs are.
+- [8] **Shunichi**: Exactly. I need the financial data before we commit to anything.
+- [9] **Servas**: Wisdom lies in understanding the root cause. Let us examine the facts.
+- [10] **Ryuji**: I will check the usage logs to see who occupies it most.
+- [11] **Jonathan**: I will look into the partition wall to see if it can be improved.
+- [12] **May**: I will investigate the invoices for outside hire to see the real cost.
+- [13] **Shunichi**: I will review the fortnight's tally of use by person.
+- [14] **Servas**: I will look at the crumbs and bins at the desks.
+- [15] **Ryuji**: The data will show us the pattern. We must be objective.
+- [16] **Jonathan**: A better wall might help with sound, but not with silence.
+- [17] **May**: If we pay for cleaning, we need to know the rate.
+- [18] **Shunichi**: I will also check the final clear-out of the old fridge.
+- [19] **Servas**: I will also check the unplanned talk since the refit.
+- [20] **Ryuji**: Let us proceed with these investigations.
+- [21] **Jonathan**: I hope this brings some clarity to our shared space.
+- [22] **May**: I am curious to see what the numbers say.
+- [23] **Shunichi**: Paper doesn't lie. Let's see what the paper says.
+- [24] **Servas**: May the truth guide our next steps.
+## Round 2
+- [35] **Ryuji**: The data shows two people dominate the room. The crumbs are everywhere.
+- [36] **Jonathan**: The wall is thin. We hear everything. The talk is only by the printer.
+- [37] **May**: The invoices show we paid 68,000 yen for nine bookings. The tally shows two people used it eleven times.
+- [38] **Shunichi**: The tally confirms the imbalance. The fridge clear-out shows the same person did it twice.
+- [39] **Servas**: The crumbs are under the keys. The talk is only by the printer.
+- [40] **Ryuji**: We need a system that accounts for the heavy users.
+- [41] **Jonathan**: If we hear everything, we need a place to speak without being overheard.
+- [42] **May**: We are paying for a service we barely use, while two people take it all.
+- [43] **Shunichi**: We are paying for a room that doesn't do the one thing we need.
+- [44] **Servas**: The mess is not the problem. The lack of a place to be is.
+- [45] **Ryuji**: I propose we designate it for focused work only.
+- [46] **Jonathan**: I propose we make it a place for difficult conversations.
+- [47] **May**: I propose we stop paying for the outside hire and use this room properly.
+- [48] **Shunichi**: I propose we look at the quotes for the two fit-outs.
+- [49] **Servas**: I propose we make it a place where people can be, without being seen.
+- [50] **Ryuji**: Let us vote on the options.
+- [51] **Jonathan**: I hope we choose the one that helps us connect.
+- [52] **May**: I hope we choose the one that saves us money.
+- [53] **Shunichi**: I hope we choose the one that makes sense on paper.
+- [54] **Servas**: I hope we choose the one that lets us breathe.
+## Round 3
+- [60] **Ryuji**: Option B fits the data. The heavy users need quiet, not a kitchen.
+- [61] **Jonathan**: Option C is the only one that lets us talk. The wall is thin, but a table helps.
+- [62] **May**: Option A is a waste of money. We don't cook here. Option B is the only one that saves us the invoices.
+- [63] **Shunichi**: Option C is the only one that has a clear sign-off. The others are vague.
+- [64] **Servas**: Option B is the only one that lets us be. The others are about doing.
+- [65] **Ryuji**: I am voting for B.
+- [66] **Jonathan**: I am voting for C.
+- [67] **May**: I am voting for B.
+- [68] **Shunichi**: I am voting for C.
+- [69] **Servas**: I am voting for B.
+- [70] **Ryuji**: The vote is clear.
+- [71] **Jonathan**: I hope we can still find a way to talk.
+- [72] **May**: Good. We save the money.
+- [73] **Shunichi**: Good. We have a clear rule.
+- [74] **Servas**: Good. We have a place to be.
+- [75] **Ryuji**: Let us finalize the decision.
+- [76] **Jonathan**: I will keep a book on the shelf for anyone who wants to read.
+- [77] **May**: I will make sure the invoices stop.
+- [78] **Shunichi**: I will sign the paper.
+- [79] **Servas**: I will sit in the quiet.
+### Vote
+- Ryuji -> B
+- Jonathan -> C
+- May -> B
+- Shunichi -> C
+- Servas -> B
+## Result
+- adopted: B

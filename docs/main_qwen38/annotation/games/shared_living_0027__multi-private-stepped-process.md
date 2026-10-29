@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: The current chaos is unsustainable. We need a system that prevents social friction.
+- [6] **Yumi**: I worry about fairness. Do the same spots always go to the same doors?
+- [7] **Ryuji**: The morning shoving match is the real problem. Location determines bike condition.
+- [8] **Shunichi**: Before we argue about spots, let's ask what this mess actually costs us.
+- [9] **Toshio**: Agreed. But more than cost, I need to know who maintains the system.
+- [10] **Asuka**: @Shunichi, financial data helps, but I need to see the human impact of past rules.
+- [11] **Yumi**: I want to check the complaint log to see if resentment is justified.
+- [12] **Ryuji**: I will observe the morning departures to map the actual physical bottlenecks.
+- [13] **Shunichi**: I’ll pull the ledger and the treasurer’s file to verify the cash flow.
+- [14] **Toshio**: I will review the minutes and the sticker register to track administrative lapses.
+- [15] **Asuka**: @Ryuji, if the physical layout forces conflict, no rule can fix it.
+- [16] **Yumi**: @Asuka, true. But if the rules are opaque, people feel cheated regardless of layout.
+- [17] **Ryuji**: The rain exposure also matters. Wet bikes are a daily reality for some.
+- [18] **Shunichi**: If the building is bleeding money, we can’t afford fancy solutions.
+- [19] **Toshio**: If the paperwork is too heavy, the system dies in six months.
+- [20] **Asuka**: We need to balance fairness with social stability. Let’s look at the data.
+- [21] **Yumi**: I hope we find a way to make everyone feel heard and treated equally.
+- [22] **Ryuji**: I will focus on the physical reality. The ground truth is in the morning rush.
+- [23] **Shunichi**: I will focus on the numbers. The truth is in the bank account.
+- [24] **Toshio**: I will focus on the process. The truth is in who does the work.
+## Round 2
+- [35] **Asuka**: The logs show complaints die because no one owns the problem. We need clear accountability.
+- [36] **Yumi**: The sticker register shows people value their specific spots. They’d rather pay than be equal.
+- [37] **Ryuji**: I watched the morning rush. Four times, someone had to move a bike to get theirs out.
+- [38] **Shunichi**: The ledger is empty. We have no reserve. Any new system must be free to run.
+- [39] **Toshio**: The minutes show the last two roles lapsed because no one wanted the paperwork.
+- [40] **Asuka**: @Ryuji, if moving bikes is the norm, a rigid allocation will just create new enemies.
+- [41] **Yumi**: @Asuka, but if we let them keep their spots, the new residents feel like outsiders.
+- [42] **Ryuji**: The rain makes the back row miserable. People fight for the dry spots for a reason.
+- [43] **Shunichi**: If we charge for spots, we need a treasurer. We don't have one.
+- [44] **Toshio**: If we assign a manager, they will quit. The burden must be shared or minimal.
+- [45] **Asuka**: A system that requires constant policing will fail. We need something self-enforcing.
+- [46] **Yumi**: I want a system that feels fair, even if it’s not perfectly equal.
+- [47] **Ryuji**: The physical friction is real. We can’t ignore the rain or the shoving.
+- [48] **Shunichi**: The financial friction is also real. We can’t afford to hire anyone to manage this.
+- [49] **Toshio**: The administrative friction is the killer. If it’s too hard, it stops.
+- [50] **Asuka**: We need a solution that minimizes the need for human intervention.
+- [51] **Yumi**: And one that minimizes the feeling of being treated unfairly.
+- [52] **Ryuji**: And one that accounts for the physical reality of the space.
+- [53] **Shunichi**: And one that costs nothing to maintain.
+- [54] **Toshio**: And one that doesn’t require a dedicated person to keep it alive.
+## Round 3
+- [60] **Asuka**: Option C removes the concept of ownership. It eliminates the "my spot" resentment entirely.
+- [61] **Yumi**: Option B feels the most fair on paper. Everyone gets a chance, no one is favored.
+- [62] **Ryuji**: Option C is the only one that solves the morning shoving. No one is guarding a spot.
+- [63] **Shunichi**: Option A is the only one that generates money. But who collects it?
+- [64] **Toshio**: Option A requires a collector. Option B requires a clerk. Option C requires nothing.
+- [65] **Asuka**: @Toshio, exactly. Option C is self-enforcing. If you don't use it, someone else does.
+- [66] **Yumi**: But @Ryuji, what about the rain? If everyone uses the same racks, the dry spots are still contested.
+- [67] **Ryuji**: The racks are double-tier. The rain is a fact, but the shoving is a choice.
+- [68] **Shunichi**: Option A is a trap. We have no treasurer. We will just have debt.
+- [69] **Toshio**: Option B is a trap. The clerk will quit after the first dispute.
+- [70] **Asuka**: Option C creates a shared space. It forces cooperation rather than competition.
+- [71] **Yumi**: I worry that the people who ride daily will feel their rights are being ignored.
+- [72] **Ryuji**: The daily riders are the ones causing the shoving. Option C stops that.
+- [73] **Shunichi**: Option C costs zero. It is the only rational choice for a broke building.
+- [74] **Toshio**: Option C requires zero maintenance. It is the only sustainable choice.
+- [75] **Asuka**: I vote for C. It is the only option that preserves social harmony.
+- [76] **Yumi**: I vote for B. It is the only option that feels truly fair to everyone.
+- [77] **Ryuji**: I vote for C. It is the only option that respects the physical reality.
+- [78] **Shunichi**: I vote for C. It is the only option that respects the financial reality.
+- [79] **Toshio**: I vote for C. It is the only option that respects the administrative reality.
+### Vote
+- Asuka -> C
+- Yumi -> B
+- Ryuji -> C
+- Shunichi -> C
+- Toshio -> C
+## Result
+- adopted: C

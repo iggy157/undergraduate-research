@@ -1,0 +1,73 @@
+# candidate_selection_0013__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about timelines slipping. Let us look at delivery schedules and weather diaries.
+- [6] **Yumi**: I care about how rooms are actually used. I want booking data and timetable records.
+- [7] **George**: The staff are stretched thin. I need to see staffing posts and manual routines.
+- [8] **Mizuki**: We must know if past projects satisfied users. I will check post-occupancy ratings and survey findings.
+- [9] **Benjamin**: Paper budgets lie. I need tender records and renewal reserves to see real costs.
+- [10] **Shizue**: @Benjamin, do you think the reserves cover the unexpected delays we always face?
+- [11] **Yumi**: @Mizuki, if the ratings are low, does that mean the space was poorly designed?
+- [12] **George**: @Shizue, weather delays hurt the technicians most. They have to rush to catch up.
+- [13] **Mizuki**: @Yumi, not always. Sometimes the design is fine, but the maintenance was neglected.
+- [14] **Benjamin**: @Shizue, reserves are static. Market inflation is not. We need to see the tender history.
+- [15] **Shizue**: I agree. Inflation makes every week of delay cost more. I will check the delivery schedules.
+- [16] **Yumi**: That makes sense. I will look at the booking data to see which rooms are overbooked.
+- [17] **George**: I will examine the staffing posts. If we are underfunded, no plan will work.
+- [18] **Mizuki**: I will review the post-occupancy ratings. We cannot repeat past mistakes blindly.
+- [19] **Benjamin**: I will analyze the tender records. The gap between bid and final cost is the key.
+- [20] **Shizue**: Thank you all. Let us see what the data says before we decide.
+- [21] **Yumi**: I hope the numbers show us where the real pressure points are.
+- [22] **George**: I just hope we find a way to lighten the load on the crew.
+- [23] **Mizuki**: I trust the data will guide us to a choice that truly serves the campus.
+- [24] **Benjamin**: Logic over hope. Let us see the figures.
+## Round 2
+- [35] **Shizue**: The diaries show six weeks lost to weather. That is a huge chunk of the year.
+- [36] **Yumi**: My data is shocking. Specialist rooms sit empty, but general rooms are always full.
+- [37] **George**: I found the technicians have spare hours. We can use them to fix the manual routines.
+- [38] **Mizuki**: The ratings confirm my fear. Projects that only helped one wing were rated poorly.
+- [39] **Benjamin**: The tenders show a twenty percent jump in plant costs. The reserves are empty.
+- [40] **Shizue**: @Benjamin, if the reserves are empty, how do we pay for the weather delays?
+- [41] **Yumi**: @Mizuki, that matches what I see. The general rooms are the ones people actually need.
+- [42] **George**: @Shizue, we can use the spare technician hours to handle the manual checks faster.
+- [43] **Mizuki**: @Yumi, exactly. We need spaces that everyone can use, not just a few.
+- [44] **Benjamin**: @Shizue, we don't. We just get hit with the full market price every time.
+- [45] **Shizue**: That is terrifying. We need a plan that is quick to finish and low risk.
+- [46] **Yumi**: I agree. We should focus on the general rooms. They are the bottleneck.
+- [47] **George**: I support that. If we automate the manual checks, the technicians can handle the general rooms better.
+- [48] **Mizuki**: I am with you. High utility and accessibility are the only way to get good ratings.
+- [49] **Benjamin**: I concur. A simple, general-purpose upgrade avoids the expensive, volatile plant costs.
+- [50] **Shizue**: It seems we are all leaning toward the general room upgrade. It is safer for the timeline.
+- [51] **Yumi**: It is also the kindest choice for the students and staff who are always waiting.
+- [52] **George**: It is the only choice that respects the staff we actually have.
+- [53] **Mizuki**: It is the choice that will actually be used and appreciated. I am confident in this.
+- [54] **Benjamin**: It is the only choice that does not bleed money into the void. I am in.
+## Round 3
+- [60] **Shizue**: Option C, the Study Commons, seems the most contained. It is indoors, so weather won't delay it.
+- [61] **Yumi**: I strongly support C. It directly solves the general room shortage I found in the data.
+- [62] **George**: I agree with C. It uses the existing staff effectively without adding new manual burdens.
+- [63] **Mizuki**: C is the clear winner. It is accessible to everyone, which guarantees high post-occupancy ratings.
+- [64] **Benjamin**: C is the only option that avoids the volatile plant costs I saw in the tenders.
+- [65] **Shizue**: @Benjamin, does C really avoid the plant costs? It needs power outlets and lighting.
+- [66] **Yumi**: @Shizue, it is much simpler than the lab ventilation. The costs are predictable and lower.
+- [67] **George**: @Shizue, the technicians can handle the simple electrical work. It is not a heavy lift.
+- [68] **Mizuki**: @Shizue, the ratings for simple, accessible spaces are consistently high. This is a safe bet.
+- [69] **Benjamin**: @Shizue, the plant costs are for complex systems. C is just basic electrical and furniture. It is stable.
+- [70] **Shizue**: I am convinced. C minimizes the risk of delays and keeps the budget tight.
+- [71] **Yumi**: I am happy. This will finally give people the space they need every day.
+- [72] **George**: I am relieved. The staff can manage this without burning out. It is a fair plan.
+- [73] **Mizuki**: I am confident. This is the choice that will be loved by the campus community.
+- [74] **Benjamin**: I am satisfied. The numbers work, the risk is low, and the value is clear.
+- [75] **Shizue**: Let us vote for C. It is the gentlest and most reliable path forward.
+- [76] **Yumi**: I vote for C. It is the right thing for the people who use the campus.
+- [77] **George**: I vote for C. It respects the limits of our staff and our budget.
+- [78] **Mizuki**: I vote for C. It is the choice that will actually succeed and be appreciated.
+- [79] **Benjamin**: I vote for C. It is the only choice that survives contact with reality.
+### Vote
+- Shizue -> C
+- Yumi -> C
+- George -> C
+- Mizuki -> C
+- Benjamin -> C
+## Result
+- adopted: C

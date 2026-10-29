@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must ensure the human capital exists to execute these plans, not just the money.
+- [6] **Sakura**: I’m worried the grant looks big but buys less. Who pays for the extra lab fees?
+- [7] **Daisuke**: I think we should check if past projects actually finished on time before we pick.
+- [8] **Takumi**: I’ve seen too many awards stall because of broken equipment. We need to know where work gets interrupted.
+- [9] **Minako**: Shared infrastructure is the real bottleneck. If the facilities are full, the science stops.
+- [10] **Servas**: @Takumi, yes. But even if the machines work, who operates them? I worry about the hands.
+- [11] **Sakura**: @Minako, exactly. If the facility is booked, the money sits idle. I want to see the booking logs.
+- [12] **Daisuke**: I agree with checking the past. I want to see what the finished awards actually delivered.
+- [13] **Takumi**: I will look at the incident logs. If the shared instruments fail, the whole project dies.
+- [14] **Minako**: I will check the computing agreement. If the servers are slow, the data analysis stalls.
+- [15] **Servas**: I will look at the staffing rolls. I need to know who is actually here to do the work.
+- [16] **Sakura**: I will check the travel and bench-fee lines. I need to see where the hidden costs are.
+- [17] **Daisuke**: I will look at the closeout files. I want to see the final reports of finished awards.
+- [18] **Takumi**: I will also check the incident logs on shared instrumentation. I need to see the failure rates.
+- [19] **Minako**: I will also check the accreditation and bookings at shared facilities. I need to see the current load.
+- [20] **Servas**: Let’s see what the records say. The truth is in the details, not the promises.
+- [21] **Sakura**: I hope the numbers don’t lie. I’m ready to see where the money really goes.
+- [22] **Daisuke**: I’m a bit nervous, but I think this is the right way to be careful.
+- [23] **Takumi**: I’m not backing down. If the equipment is unreliable, we shouldn’t fund it.
+- [24] **Minako**: I’m confident. We need to know the capacity before we commit. Let’s proceed.
+## Round 2
+- [35] **Servas**: The rolls show our technicians are gone, but the modelling analysts are seconded away. The hands are missing.
+- [36] **Sakura**: The bench fees are covered, but the animal day rates jumped. That’s a huge hidden cost for wet-lab work.
+- [37] **Daisuke**: I looked at the closeouts. The projects that relied on live animals stalled the most. The data ones finished.
+- [38] **Takumi**: I found the spectroscopy suite was idle for eleven weeks. One engineer covers three institutes. That’s a disaster.
+- [39] **Minako**: The computing agreement covers simulation hours for free. But the animal facility is booked solid through two cycles.
+- [40] **Servas**: @Minako, that confirms it. The animals are a bottleneck. The data work has the capacity.
+- [41] **Sakura**: @Daisuke, that matches my numbers. The animal costs are eating the budget. The data work is cheaper.
+- [42] **Daisuke**: I’m glad we agree. The data projects seem more reliable. I don’t want to fund something that stalls.
+- [43] **Takumi**: I’m furious. Eleven weeks of downtime is unacceptable. We cannot fund a project that depends on that suite.
+- [44] **Minako**: I’m calm. The facts are clear. The animal facility is full. The computing is free. The choice is obvious.
+- [45] **Servas**: I’m not angry, just clear. The technicians are gone. The analysts are away. The data work is the only path.
+- [46] **Sakura**: I’m smiling. I found the hidden cost. It’s the animals. The data work is the safe bet.
+- [47] **Daisuke**: I feel better now. We are making a careful choice. I trust the data projects more.
+- [48] **Takumi**: I’m still angry, but I’m listening. The data work doesn’t need the broken suite. It’s the only option.
+- [49] **Minako**: I’m steady. We have the facts. The animal facility is full. The computing is free. We should pick the data work.
+- [50] **Servas**: Let’s move to the candidates. We know the constraints. We know the risks. Let’s choose wisely.
+- [51] **Sakura**: I’m ready. I want to see which projects fit the budget and the capacity. Let’s look at the list.
+- [52] **Daisuke**: I’m ready too. I want to pick the one that will actually finish. I don’t want to waste the grant.
+- [53] **Takumi**: I’m ready. I want to pick the one that won’t stall. I want to protect the science from the infrastructure.
+- [54] **Minako**: I’m ready. I want to pick the one that fits the capacity. I want to ensure the grant is realistic.
+## Round 3
+- [60] **Servas**: Option A needs field crews. Option B needs the broken suite. Option C needs the full animal facility. Option D needs the greenhouse.
+- [61] **Sakura**: Option A is cheap. Option B is expensive. Option C is blocked. Option D is covered by the bench-fee subsidy.
+- [62] **Daisuke**: Option A has a track record. Option B is risky. Option C will stall. Option D is a bit uncertain, but manageable.
+- [63] **Takumi**: Option B is a trap. It needs the spectroscopy suite that was idle for eleven weeks. I will not fund that.
+- [64] **Minako**: Option C is impossible. The animal facility is booked solid. Option B is risky. Option A and D are the only real choices.
+- [65] **Servas**: @Minako, yes. Option C is out. Option B is out. We are left with A and D. Which one has the hands?
+- [66] **Sakura**: @Servas, Option A needs field crews. Option D needs greenhouse staff. The rolls show the technicians are gone, but the analysts are away.
+- [67] **Daisuke**: I think Option A is safer. It’s a cataloging project. It doesn’t need live animals. It’s just data collection and analysis.
+- [68] **Takumi**: I agree. Option A is data-driven. It doesn’t need the broken suite. It doesn’t need the full animal facility. It’s the safest bet.
+- [69] **Minako**: I agree. Option A uses the free computing hours. It doesn’t need the animal facility. It’s the most realistic choice.
+- [70] **Servas**: I’m leaning toward A. It’s data-driven. It doesn’t need the missing technicians. It fits the capacity. It’s the wise choice.
+- [71] **Sakura**: I’m smiling. Option A is the safe bet. It’s cheap. It’s covered. It’s realistic. I’m happy to pick the one that works.
+- [72] **Daisuke**: I’m feeling better. Option A is the one that will finish. I don’t want to fund something that stalls. I’m ready to vote.
+- [73] **Takumi**: I’m still angry about the suite, but I’m listening. Option A is the only one that won’t stall. I’m ready to vote.
+- [74] **Minako**: I’m steady. Option A is the one that fits the capacity. It uses the free computing. It avoids the bottlenecks. I’m ready to vote.
+- [75] **Servas**: Let’s vote. We have the facts. We have the constraints. We have the candidates. Let’s choose the one that will succeed.
+- [76] **Sakura**: I’m ready. I want to pick the one that fits the budget and the capacity. Let’s vote for the safe bet.
+- [77] **Daisuke**: I’m ready. I want to pick the one that will actually finish. I don’t want to waste the grant. Let’s vote for A.
+- [78] **Takumi**: I’m ready. I want to pick the one that won’t stall. I want to protect the science from the infrastructure. Let’s vote for A.
+- [79] **Minako**: I’m ready. I want to pick the one that fits the capacity. I want to ensure the grant is realistic. Let’s vote for A.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

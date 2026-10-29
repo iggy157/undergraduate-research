@@ -1,0 +1,73 @@
+# shared_living_0022__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **May**: We need to check the frontage measurements first.
+- [6] **Mizuki**: Agreed. Space dictates how we manage the daily flow.
+- [7] **Kenji**: But who pays for the new shelter? I worry about the cost.
+- [8] **Midori**: Let’s look at the complaint log to see what actually hurts.
+- [9] **Servas**: I want to know the hours this arrangement will demand of us.
+- [10] **May**: @Kenji, costs matter, but fairness in placement matters more to me.
+- [11] **Mizuki**: @Midori, the log shows patterns. I want to see the station block minutes too.
+- [12] **Kenji**: @Servas, time is money. I need to see the block ledger for expenses.
+- [13] **Midori**: @Mizuki, I agree. I’ll check the residents' meeting statements for tone.
+- [14] **Servas**: @Kenji, I will look into the ward filing requirements to understand the admin load.
+- [15] **May**: I’m also checking the ward complaint log for this specific point.
+- [16] **Mizuki**: I’ll review the station block's meeting minutes to see their precedent.
+- [17] **Kenji**: I’m looking into the ward subsidy and last year's shelter costs.
+- [18] **Midori**: I’ll read the statements at the residents' meeting to gauge the mood.
+- [19] **Servas**: I’m checking the ward filing requirements per the installations clerk.
+- [20] **May**: Let’s see what the data says before we commit to anything.
+- [21] **Mizuki**: The daily experience is key. I want to avoid swapping one nuisance for another.
+- [22] **Kenji**: If the subsidy covers it, the burden is lighter for everyone.
+- [23] **Midori**: We need an option that lets us keep talking to each other.
+- [24] **Servas**: A clear process prevents the quiet exhaustion I’ve seen before.
+## Round 2
+- [35] **May**: The measurements show one driveway blocks most of its width.
+- [36] **Mizuki**: @May, that explains the friction. The logs show the gate-side house files most complaints.
+- [37] **Kenji**: @May, the subsidy covers forty percent, but the ledger shows thirty-four thousand yen a year in extra fees.
+- [38] **Midori**: @Kenji, the minutes show the station block argued over the latch within two years.
+- [39] **Servas**: @Kenji, the filing rules say a permanent build needs five signatures and four months.
+- [40] **May**: @Mizuki, so the gate-side house is already carrying the noise and the smell.
+- [41] **Mizuki**: @May, exactly. If we just move the bins, we just move the resentment.
+- [42] **Kenji**: @Servas, four months is a long time. The ledger fees keep piling up meanwhile.
+- [43] **Midori**: @Mizuki, the statements say nobody wants to be the one to say no to a neighbour.
+- [44] **Servas**: @Kenji, the admin load is real. I want to know the truck arrival time to plan the mornings.
+- [45] **May**: I want a plan that doesn't leave one person with the gate and the grime.
+- [46] **Mizuki**: @Servas, the truck comes at seven. If we stagger the mornings, we avoid the pile-up.
+- [47] **Kenji**: @Mizuki, staggering means someone is always first. The ledger shows the first one pays for the mess.
+- [48] **Midori**: @Kenji, the minutes show they argued over the latch. We need a shared rule, not a shared burden.
+- [49] **Servas**: @Mizuki, if we rotate the mornings, the hours are spread. I can handle the filing if we agree on the site.
+- [50] **May**: I’m not signing anything that quietly leaves the gate-side house with the worst of it.
+- [51] **Mizuki**: @May, I agree. The daily walk past the bins is the real test.
+- [52] **Kenji**: @Servas, if the subsidy covers the build, the ledger fees drop. That’s the win.
+- [53] **Midori**: @Kenji, the statements show people want to keep talking. A shared rule keeps the door open.
+- [54] **Servas**: @Kenji, the filing is a one-time cost. The hours are the daily cost. I’ll take the filing.
+## Round 3
+- [60] **May**: Option A moves the burden. No one is stuck with the gate and the grime forever.
+- [61] **Mizuki**: @May, but the logs show the gate-side house files most complaints. Moving it might just move the anger.
+- [62] **Kenji**: @Mizuki, Option C has the subsidy. The ledger fees drop if we build it right.
+- [63] **Midori**: @Kenji, the minutes show they argued over the latch. A permanent structure can become a permanent argument.
+- [64] **Servas**: @Kenji, Option C needs four months of filing. The hours are high, but the daily load is low.
+- [65] **May**: @Mizuki, if we rotate, the gate-side house gets a break. That’s the fairness I need.
+- [66] **Mizuki**: @May, the daily walk is the test. If the bins are always there, the smell is always there.
+- [67] **Kenji**: @Servas, the filing is a one-time cost. The ledger shows the fees are the real drain.
+- [68] **Midori**: @Mizuki, the statements say nobody wants to be the one to say no. Option B keeps the point, but the hours are tight.
+- [69] **Servas**: @Midori, Option B means someone is always first. The hours are spread, but the tension is not.
+- [70] **May**: I’m leaning toward A. It’s the only one that doesn’t leave one person with the worst of it.
+- [71] **Mizuki**: @May, I’m with you. The daily experience is the key. A rotation changes the daily walk.
+- [72] **Kenji**: @May, the subsidy helps with C, but the ledger fees are the real problem. A rotation might reduce the mess.
+- [73] **Midori**: @Kenji, the minutes show they argued over the latch. A rotation keeps the door open. We can still talk.
+- [74] **Servas**: @Midori, the filing for C is heavy. A rotation is lighter on the hours. I can handle the admin for A.
+- [75] **May**: Let’s vote. I want a plan that doesn’t quietly leave the gate-side house with the grime.
+- [76] **Mizuki**: @May, agreed. The daily walk is the real test. A rotation changes the daily walk.
+- [77] **Kenji**: @Mizuki, the ledger fees are the real drain. A rotation might reduce the mess. I’m voting A.
+- [78] **Midori**: @Kenji, the statements show people want to keep talking. A rotation keeps the door open. I’m voting A.
+- [79] **Servas**: @Midori, the hours are the daily cost. A rotation spreads the hours. I’m voting A.
+### Vote
+- May -> A
+- Mizuki -> A
+- Kenji -> A
+- Midori -> A
+- Servas -> A
+## Result
+- adopted: A

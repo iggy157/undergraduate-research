@@ -1,0 +1,73 @@
+# shared_living_0013__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Shizue**: I worry about who sits beside whom. It shapes our daily connection.
+- [6] **Toshio**: The current layout feels arbitrary. We should define the criteria first.
+- [7] **Daisuke**: I am unsure. I just want a quiet place to work.
+- [8] **Mio**: My schedule is tight. I need to know how much time moving takes.
+- [9] **Shunichi**: Comfort is invisible but critical. We must measure it, not guess.
+- [10] **Shizue**: @Toshio, yes. Let us look at the survey and the sound levels.
+- [11] **Toshio**: Agreed. I will check the billing basis and the past shuffles.
+- [12] **Daisuke**: I will look at the floor billing and the facilities quote.
+- [13] **Mio**: I need the arrival times and the physio note. Time is money.
+- [14] **Shunichi**: I will check the sound meter readings and the physio note.
+- [15] **Shizue**: @Mio, your time is valuable. I hope the data helps you.
+- [16] **Toshio**: @Shunichi, sound is a fair metric. Let us see what the numbers say.
+- [17] **Daisuke**: I hope the costs are clear. It is hard to ask for more.
+- [18] **Mio**: I am worried about the transition period. It feels chaotic already.
+- [19] **Shunichi**: Data removes emotion. Let us trust the measurements over opinions.
+- [20] **Shizue**: I will look into the staff survey and the morning routine.
+- [21] **Toshio**: I will look into the floor billing and the past shuffles.
+- [22] **Daisuke**: I will look into the floor billing and the facilities quote.
+- [23] **Mio**: I will look into the arrival times and the physio note.
+- [24] **Shunichi**: I will look into the sound meter readings and the physio note.
+## Round 2
+- [35] **Shizue**: The survey shows daylight matters. The pilot floor takes up to nine minutes to settle.
+- [36] **Toshio**: The billing is by area, not heads. We pay for empty desks.
+- [37] **Daisuke**: The quote is 6,200 yen per desk. Every change costs again.
+- [38] **Mio**: The badge log shows a nine-minute gap before the room is full.
+- [39] **Shunichi**: The window side is nine decibels quieter. The physio says chairs take days to settle.
+- [40] **Shizue**: @Shunichi, nine decibels is a lot. I feel that in my bones.
+- [41] **Toshio**: @Daisuke, so we should not move desks lightly. The cost is real.
+- [42] **Daisuke**: Yes. I was afraid of that. It is a lot of money.
+- [43] **Mio**: @Shunichi, days to settle? That eats my gaps. I cannot wait.
+- [44] **Shunichi**: @Mio, the quiet side is worth the wait. Your gaps are short, but so is the noise.
+- [45] **Shizue**: I think we should keep the window desks for those who need quiet.
+- [46] **Toshio**: I agree. But we must say who gets them. Not by habit.
+- [47] **Daisuke**: I would take the quiet side. I am sorry. I am just tired.
+- [48] **Mio**: I need a desk that is ready on day one. No settling.
+- [49] **Shunichi**: Then we assign by need, not by arrival. The data supports it.
+- [50] **Shizue**: @Toshio, let us propose a rule. Quiet for those who need it.
+- [51] **Toshio**: I will draft it. We name the trade-off out loud.
+- [52] **Daisuke**: Thank you. I do not know how to ask for this.
+- [53] **Mio**: I will accept the rule if it protects my mornings.
+- [54] **Shunichi**: Good. The plan is clear. Let us vote.
+## Round 3
+- [60] **Shizue**: Option B feels right. It gives us a place to belong.
+- [61] **Toshio**: Option B is stable. But we must say who gets the quiet seats.
+- [62] **Daisuke**: I am sorry. I think B is best. I need a fixed place.
+- [63] **Mio**: B is fine if my desk is ready on day one. No settling.
+- [64] **Shunichi**: B is the only one that lets us assign the quiet side by need.
+- [65] **Shizue**: @Mio, I will make sure your desk is set up before you arrive.
+- [66] **Toshio**: @Daisuke, you will have the window seat. I am saying it out loud.
+- [67] **Daisuke**: Thank you. I do not know what to say. I am just glad.
+- [68] **Mio**: @Shizue, that is kind. I will trust you on the setup.
+- [69] **Shunichi**: The quiet side goes to those who need it. That is the rule.
+- [70] **Shizue**: I am happy with B. It feels like a home.
+- [71] **Toshio**: I am happy with B. The trade-off is named.
+- [72] **Daisuke**: I am happy with B. I can breathe now.
+- [73] **Mio**: I am happy with B. My mornings are safe.
+- [74] **Shunichi**: I am happy with B. The comfort is written down.
+- [75] **Shizue**: Let us vote. I think we are ready.
+- [76] **Toshio**: I agree. Let us vote.
+- [77] **Daisuke**: I agree. Let us vote.
+- [78] **Mio**: I agree. Let us vote.
+- [79] **Shunichi**: I agree. Let us vote.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

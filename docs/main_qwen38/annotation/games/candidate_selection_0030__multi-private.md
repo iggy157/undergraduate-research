@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I wonder if we should check how much time people actually lose copying records? It feels like a quiet problem.
+- [6] **Jonathan**: That’s a valid point. I’m more worried about the technical groundwork. Let’s look at the last three rollouts to see what failed.
+- [7] **George**: I’d like to examine the capital budget and software allowance. We need to know exactly where the money comes from before committing.
+- [8] **May**: I’m curious about the outcomes of the last three internal rollouts. We need to know what actually survived the first year, not just what was promised.
+- [9] **Midori**: I agree with Jonathan. Let’s look at the last three rollouts and the time lost to copying records.
+- [10] **Minato**: I think the staffing of the coordination group matters too. Who actually does the work when things get busy?
+- [11] **Jonathan**: I’d like to check in-house developer availability. We can’t promise dates if we don’t know who is actually free to build.
+- [12] **George**: I’ll also look into vendor licence pricing versus fixed-fee work. Hidden costs in renewals are where budgets usually bleed out.
+- [13] **May**: I’m locking in the last three rollouts and the record of cross-unit standardization. We need to see if we’re just repeating the same mistakes.
+- [14] **Midori**: I’ll stick with the last three rollouts and the time lost to copying records. I want to see the real daily friction.
+- [15] **Minato**: I’m still thinking about the coordination group. It feels important to know who is really there to help.
+- [16] **Jonathan**: I’ll confirm my choices: in-house developer availability and the last three rollouts. Knowing who is free is just as critical as knowing what failed before.
+- [17] **George**: I’ll confirm my choices: capital budget and software allowance, plus vendor licence pricing versus fixed-fee work. I need to see the true cost structure.
+- [18] **May**: I’m confirming my picks: the last three rollouts and the cross-unit standardization record. I need to see if we’re just repeating the same mistakes.
+- [19] **Midori**: I’m confirming my choices: the last three rollouts and the time lost to copying records. I want to see the real daily friction.
+- [20] **Minato**: I’ll confirm my choices: the staffing of the coordination group and the time lost to copying records. I want to see who is really carrying the load.
+- [21] **Jonathan**: I’m content with my selections. The quiet reality of who is available matters more than the noise of the pitch.
+- [22] **George**: I am satisfied with my selections. The financial reality must be clear before we proceed.
+- [23] **May**: I’m set. Let’s see if the data finally proves we’re stuck in a loop.
+- [24] **Midori**: I’m ready to see the numbers. Let’s find out what actually hurts us every single day.
+## Round 2
+- [35] **Minato**: I found that two people write all notes by hand, and we lose an hour daily copying records. It feels very heavy for them.
+- [36] **Jonathan**: The developers are tied up until Q3, and the integrator left no documentation. We cannot promise dates without that groundwork.
+- [37] **George**: The capital line is frozen, but the software allowance has room. Per-head licences climb with every department added, unlike fixed-fee work.
+- [38] **May**: So, broad tools die, but niche ones survive. We’re just recycling the same failure. @Midori, does your data match this pattern?
+- [39] **Midori**: Yes, May. The daily hour lost to copying confirms the friction. We need to address the real, quiet losses, not just the big promises.
+- [40] **Minato**: @May, I agree. The quiet losses are real. @George, does the frozen budget mean we can’t hire help for those two people?
+- [41] **Jonathan**: @George, if the capital line is frozen, we cannot hire external help. We are stuck with the current, unavailable team.
+- [42] **George**: @Jonathan, not entirely. The software allowance has room. We can fund a fixed-fee solution without touching the frozen capital line.
+- [43] **May**: @George, that’s a lifeline. But if the niche tools survive, why do we keep betting on broad ones? We’re ignoring the data.
+- [44] **Midori**: @May, exactly. We keep chasing the impressive pitch while ignoring the daily grind. Let’s focus on solving that specific, quiet friction instead.
+- [45] **Minato**: @George, if we use the software allowance, will that actually free up those two people? I worry they will just get more work.
+- [46] **Jonathan**: @Minato, a fixed-fee tool might reduce the copying burden, but it doesn’t solve the access or availability issues. We still lack the groundwork.
+- [47] **George**: @Minato, it reduces the manual load, but the real risk is the renewal notice. I need to see if the fixed fee stays flat next year.
+- [48] **May**: @Minato, the data says broad tools die. If we pick a niche fix, it survives. Let’s stop gambling on the impossible.
+- [49] **Midori**: @Minato, I worry too. A tool won’t fix the culture. We must ensure the daily effort actually drops, not just shifts.
+- [50] **Minato**: @Midori, I agree. I just want to make sure the extra work doesn’t quietly land on someone else. Can we promise that?
+- [51] **Jonathan**: @Minato, I cannot promise that. The groundwork is missing, and the developers are unavailable. We must accept that uncertainty rather than hide it.
+- [52] **George**: @Minato, I cannot promise that either. The fixed fee holds for now, but the renewal notice is where the real bill arrives.
+- [53] **May**: @Minato, I can’t promise the work vanishes, but I can promise we stop repeating the same mistake. Let’s pick the niche fix.
+- [54] **Midori**: @Minato, I can’t promise perfection, but I can promise we’ll measure the daily time saved. Let’s ensure the effort truly drops, not just moves.
+## Round 3
+- [60] **Minato**: I keep thinking about the two people writing notes by hand. Option A seems to help them directly. Does it really reduce their daily copying?
+- [61] **Jonathan**: @Minato, Option A drafts summaries, but it doesn’t solve the access or availability issues. We still lack the groundwork.
+- [62] **George**: @Minato, Option A fits the software allowance. But I worry about the renewal cost. Does it lock in a fixed fee for next year?
+- [63] **May**: @Minato, Option A is a broad tool. My data says those die. We need a niche fix, not another shared burden.
+- [64] **Midori**: @May, I hear your caution. But Option A targets the specific copying friction we measured. It’s a focused fix for the daily grind, not a broad promise.
+- [65] **Minato**: @May, I worry too. If A is broad, will it just add more work for those two people? I want to be sure it helps, not hurts.
+- [66] **Jonathan**: @Minato, I agree with May. A shared tool requires daily entry from everyone, which our data shows gets quietly dropped. It’s a broad promise we cannot keep.
+- [67] **George**: @May, I stand by the fixed-fee structure. It avoids the per-head trap. If the renewal holds, A is the only affordable path forward.
+- [68] **May**: @George, the fixed fee is nice, but the data is clear: broad tools die. We need a niche fix, not another shared burden.
+- [69] **Midori**: @May, I understand the risk. But A targets the specific copying friction we measured. It’s a focused fix for the daily grind, not a broad promise.
+- [70] **Minato**: @Midori, I am still worried. If A helps, will the two people finally get a break, or will they just manage the new tool?
+- [71] **Jonathan**: @Minato, I cannot guarantee a break. The developers are unavailable, and the groundwork is missing. We risk repeating the same failure.
+- [72] **George**: @Minato, I cannot guarantee a break. The fixed fee holds, but the renewal notice is where the real bill arrives.
+- [73] **May**: @Minato, I can’t promise a break, but I can promise we stop repeating the same mistake. Let’s pick the niche fix.
+- [74] **Midori**: @Minato, I can’t promise a break, but I can promise we’ll measure the daily time saved. Let’s ensure the effort truly drops, not just moves.
+- [75] **Minato**: @Midori, I trust your promise to measure the time saved. I just want to be sure the work truly drops, not just moves to someone else.
+- [76] **Jonathan**: @Minato, I cannot promise the work vanishes. The groundwork is missing, and the developers are unavailable. We must accept that uncertainty rather than hide it.
+- [77] **George**: @Minato, I cannot promise the work vanishes. The fixed fee holds, but the renewal notice is where the real bill arrives.
+- [78] **May**: @Minato, I can’t promise magic, but I can promise we stop gambling on broad tools. The data says niche wins. Let’s vote for the specific fix.
+- [79] **Midori**: @Minato, I agree. We must measure the actual time saved to ensure the burden truly drops, not just shifts. Let’s vote for the specific fix.
+### Vote
+- Minato -> A
+- Jonathan -> C
+- George -> A
+- May -> D
+- Midori -> C
+## Result
+- adopted: C

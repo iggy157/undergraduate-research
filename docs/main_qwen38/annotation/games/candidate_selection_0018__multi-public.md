@@ -1,0 +1,73 @@
+# candidate_selection_0018__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Misaki**: I’m worried about the people holding this together. Who actually knows the current system inside out, and who’s leaving?
+- [6] **Kenji**: @Misaki That’s a huge risk. But I’m also worried about the yard. Our scanners are old, and freight doesn’t stop for IT projects.
+- [7] **Toshio**: I’m tracking the costs that hide after the contract is signed. Renewals and add-ons often climb quietly. Who else is watching the long-term bill?
+- [8] **Yumi**: @Toshio I hear you! But I’m also scared about who’s in charge when things break. And how fast the plan changes?
+- [9] **Benjamin**: I’m watching for systems that quietly age in place, and work handed outside that comes back needing repair. Both have cost us before.
+- [10] **Misaki**: @Kenji The yard is critical, but if the admins leave, who maintains it? I need to know who’s actually staying.
+- [11] **Kenji**: @Misaki Good point. If the admins leave, the yard techs are stuck. I need to know if the new system works with our old scanners.
+- [12] **Toshio**: @Kenji The scanners are a symptom. I’m tracking the invoices that keep arriving after the initial approval. Who else is checking the recurring lines?
+- [13] **Yumi**: @Toshio I’m checking who owns the mess when it happens! @Kenji I hope the yard survives the switch.
+- [14] **Benjamin**: @Toshio The recurring lines are the trap. @Yumi Ownership gaps are just the symptom of that same neglect.
+- [15] **Misaki**: @Benjamin I agree. But I need to know who is actually leaving. I’m looking into the administrator retirements and the depot supervisors.
+- [16] **Kenji**: @Misaki I’m checking the yard devices and the depot calendar. We need to know if the new system fits our actual peak season.
+- [17] **Toshio**: @Misaki I’m pulling the board minutes and the renewal invoices. I need to see where the money actually goes after the initial approval.
+- [18] **Yumi**: @Misaki I’m checking the winter outage and the warehouse rule changes. I need to see if ownership is clear and if the plan actually sticks!
+- [19] **Benjamin**: @Misaki I’m pulling the dispatch upgrade history and the 2018 pay move data. I need to see how we handle aging systems and external handoffs.
+- [20] **Misaki**: @Toshio The recurring costs are real, but they won’t matter if the people who know the system are gone. I’m sticking with the staffing gaps.
+- [21] **Kenji**: @Toshio The money matters, but if the yard freezes, we lose freight. I’m sticking with the calendar and devices.
+- [22] **Toshio**: @Kenji The yard freezes if the budget dries up. I’m sticking with the invoices and board minutes.
+- [23] **Yumi**: @Toshio I’m sticking with the outage and rule changes. I need to see if the plan actually survives contact with reality!
+- [24] **Benjamin**: @Toshio The budget dries up because we ignore the decay. I’m sticking with the upgrade history and the data lift.
+## Round 2
+- [35] **Misaki**: @Kenji The last rollout’s training was ignored within weeks. If we bring in a new system, who actually enforces the new steps on the floor?
+- [36] **Kenji**: @Misaki That’s the nightmare. The 2021 tool died in a month. If we can’t keep the yard running during peak, we’re done.
+- [37] **Toshio**: @Benjamin The data confirms my fear. Bundled prices held, but separate add-ons climbed yearly. We are funding decay, not stability.
+- [38] **Yumi**: @Misaki I found it! Support was unowned for two days last winter. And the plan changed twice in a year. We need one clear owner!
+- [39] **Benjamin**: @Toshio The skipped upgrades confirm the decay. @Yumi The unowned outage proves the neglect. We are repeating the same mistakes.
+- [40] **Misaki**: @Yumi Two days unowned is terrifying. But my data shows the real danger: supervisors quietly dropped the new steps within weeks. Who enforces this time?
+- [41] **Kenji**: @Misaki That’s the nightmare. The 2021 tool died in a month. If we can’t keep the yard running during peak, we’re done.
+- [42] **Toshio**: @Yumi The unowned outage is a symptom. The invoices show the real trap: separate pieces climb yearly. We are funding decay, not stability.
+- [43] **Yumi**: @Toshio I get it, but who fixes it when it breaks? @Misaki If supervisors ignore the plan, we’re doomed!
+- [44] **Benjamin**: @Misaki Enforcement is a people problem, not a software one. @Kenji The yard’s fragility is exactly why we can’t afford another failed rollout.
+- [45] **Misaki**: @Benjamin You’re right. It’s a people problem. I need to know if the vendor stays to enforce the change, or if we’re left alone again.
+- [46] **Kenji**: @Misaki Exactly. If they leave, we’re stuck. I need a vendor who stays on-site during the November-January freeze.
+- [47] **Toshio**: @Kenji On-site presence is a line item. My invoices show separate pieces climb yearly. We need a bundled agreement to stop the bleeding.
+- [48] **Yumi**: @Toshio Bundled is great, but if the plan shifts, who owns the fix? @Misaki I need a single throat to choke!
+- [49] **Benjamin**: @Toshio Bundled agreements hide the decay. @Yumi A single throat is a contract, not a culture. We need to stop the bleeding at the source.
+- [50] **Misaki**: @Benjamin I agree. I need a vendor who stays to enforce the change, not just install it. Who else is worried about the staffing gap?
+- [51] **Kenji**: @Misaki I need them on-site during peak. If they vanish, the yard freezes. @Toshio Bundled is fine, but only if it covers the yard hardware.
+- [52] **Toshio**: @Benjamin Bundled agreements held price; separate pieces climbed. @Kenji If the bundle covers the yard, the cost stays flat. That is the only safe path.
+- [53] **Yumi**: @Benjamin A single throat is a contract, not a culture. @Misaki I need to know who stays to enforce the change!
+- [54] **Benjamin**: @Toshio Bundled prices held, but the 2018 data lift failed for a year. We need a vendor who stays to fix the mess, not just sign the check.
+## Round 3
+- [60] **Misaki**: @Kenji Anchor’s team stays through rollout. That directly addresses the staffing gap and the risk of supervisors ignoring the new steps.
+- [61] **Kenji**: @Misaki Exactly! They stay on-site. That’s the only way we survive the November-January freeze without losing freight.
+- [62] **Toshio**: @Misaki Anchor’s on-site team is a premium line item. My invoices show separate pieces climb yearly. Is that cost bundled, or will it bleed?
+- [63] **Yumi**: @Toshio I worry about the cost, but I need one clear owner! @Misaki Does Anchor’s team actually enforce the rules, or just install them?
+- [64] **Benjamin**: @Toshio On-site presence is a premium, but the 2018 data lift failed for a year. We need a vendor who stays to fix the mess, not just sign the check.
+- [65] **Misaki**: @Yumi They stay to enforce, not just install. That’s the difference. @Toshio I need to know if that premium is fixed or if it climbs like the add-ons.
+- [66] **Kenji**: @Toshio If they stay, the cost is worth it. But @Benjamin, will they fix the old scanners, or just ignore them?
+- [67] **Toshio**: @Kenji The scanners are legacy. @Benjamin The real risk is the on-site team becoming a permanent, climbing operating line. I need that price locked.
+- [68] **Yumi**: @Toshio If the price climbs, we’re stuck! @Misaki Does Anchor’s team actually enforce the rules, or just install them?
+- [69] **Benjamin**: @Kenji They won’t fix the scanners; they’ll work around them. @Toshio The premium is fixed for rollout, but the real risk is the data lift. Who handles that?
+- [70] **Misaki**: @Benjamin The data lift is the danger. If they leave after rollout, we repeat the 2018 failure. I need them to stay until the data is clean.
+- [71] **Kenji**: @Benjamin The scanners are a mess, but if they stay, they’ll make it work. I just need them on the floor during peak season!
+- [72] **Toshio**: @Benjamin The data lift is the trap. If it’s a separate line, it climbs. I need it bundled into the fixed price, or we’re funding decay again.
+- [73] **Yumi**: @Benjamin If the data lift is separate, it’s a trap! @Toshio We need one owner for the whole mess, not just the install.
+- [74] **Benjamin**: @Toshio Bundled is a trap. @Yumi One owner is a myth. @Misaki Anchor’s presence is the only real safeguard against our history.
+- [75] **Misaki**: @Benjamin I agree. Their presence is the only safeguard. I’m voting for Anchor. @Toshio I hope the price stays fixed.
+- [76] **Kenji**: @Misaki I’m voting for Anchor too. If they stay on-site, the yard survives. @Toshio I hope the price doesn’t bleed.
+- [77] **Toshio**: @Benjamin I accept the risk. The bundled history proves separate pieces bleed. Anchor’s fixed presence is the only way to stop the climb. I vote Anchor.
+- [78] **Yumi**: @Misaki I’m voting Anchor! One team, one owner, no pointing fingers. @Toshio I hope the price stays locked!
+- [79] **Benjamin**: @Toshio The 2018 failure proves external handoffs rot. Anchor’s presence is the only fix. I vote Anchor.
+### Vote
+- Misaki -> D
+- Kenji -> D
+- Toshio -> D
+- Yumi -> D
+- Benjamin -> D
+## Result
+- adopted: D

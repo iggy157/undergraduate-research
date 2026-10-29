@@ -1,0 +1,73 @@
+# candidate_selection_0015__single-online (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: We need to verify if the proposed schedules can survive external disruptions before committing.
+- [6] **Yumi**: I’m worried about how the new service will reach people in the outer wards, especially with current transport gaps.
+- [7] **George**: I want to see how the funding is structured, not just the total amount.
+- [8] **May**: I’m curious why we keep debating new ideas without checking if similar ones already failed here.
+- [9] **Daisuke**: I’m just wondering if we actually have the right people on staff to handle whatever we choose.
+- [10] **Ryuji**: @Ryuji, I agree. We must check if our timelines depend on factors outside our control, like supplier delays or weather.
+- [11] **Yumi**: @Yumi, exactly. The location and opening hours decide who can actually reach us, so we must check the transport gaps first.
+- [12] **George**: @George, precisely. I need to see how the money is structured, not just the headline figure, to ensure it lasts beyond the first year.
+- [13] **May**: @May, I agree. We need to review the records of past initiatives to see if we are repeating mistakes.
+- [14] **Daisuke**: @Daisuke, I agree. We need to confirm the staff actually have the skills before adding more work.
+- [15] **Ryuji**: @George, the grant terms might reveal if our funding is just a temporary patch.
+- [16] **Yumi**: @George, the grant terms might reveal if our funding is just a temporary patch.
+- [17] **George**: @Ryuji, @Yumi, you’re right. I’ll look into the county grant terms and the endowment to see how the money is actually shaped.
+- [18] **May**: @May, I’ll check the two programmes begun six years ago to see what records they left behind.
+- [19] **Daisuke**: @Daisuke, I’ll check the volunteer register and supervision training to see if we have the skills needed.
+- [20] **Ryuji**: @Ryuji, I’ll check the quoted delivery windows from suppliers and the winter road closures north of the river.
+- [21] **Yumi**: @Yumi, I’ll check the bus links in the two outer wards and the attendance sheets from former outreach stops.
+- [22] **George**: @George, I’ll check the running and equipment lines last year to see where the money actually went.
+- [23] **May**: @May, I’ll check the two programmes begun six years ago and the evening room bookings and remote catalogue use.
+- [24] **Daisuke**: @Daisuke, I’ll check the volunteer register and supervision training to see if we have the skills needed.
+## Round 2
+- [35] **Ryuji**: @George, the grant only covers session fees for twelve months, then the flat budget takes over.
+- [36] **Yumi**: @George, that twelve-month limit is worrying. If the flat budget absorbs it, does that mean we’re just shifting the strain to year two?
+- [37] **George**: @Yumi, exactly. The capital items draw on the endowment, but the operating costs hit the flat budget immediately after the grant expires.
+- [38] **May**: @George, that confirms my fear. We’re just borrowing from the future to make the present look stable.
+- [39] **Daisuke**: @George, that twelve-month limit is worrying. If the flat budget absorbs it, does that mean we’re just shifting the strain to year two?
+- [40] **Ryuji**: @Ryuji, the scanning contractors slip whenever a larger client books first. That’s a risk we can’t control.
+- [41] **Yumi**: - **Yumi**: @Ryuji, that’s a problem, but my data shows the outer wards lost their bus link. People can’t reach us at all now.
+- [42] **George**: @Yumi, the transport gap is real, but the ledger shows our vehicle line already overran by a third. We can’t afford to fix it with more mileage.
+- [43] **May**: @George, the vehicle overrun is a warning, but the evening bookings are full while remote use peaks after nine. We’re missing the people who can’t come in.
+- [44] **Daisuke**: @May, the evening gap is real, but my register shows no one on payroll is trained to supervise outside facilitators.
+- [45] **Ryuji**: @Daisuke, that supervision gap is critical. If we can’t manage external partners, any proposal relying on them is doomed from the start.
+- [46] **Yumi**: - **Yumi**: @Daisuke, that’s a serious gap, but the attendance sheets show forty visitors per session in the outer wards. We can’t ignore that demand.
+- [47] **George**: @Yumi, forty visitors is real, but the vehicle line overran by a third. We cannot fund a mobile service with a broken budget.
+- [48] **May**: @George, the vehicle overrun is a warning, but the evening bookings are full while remote use peaks after nine. We’re missing the people who can’t come in.
+- [49] **Daisuke**: @George, I understand the budget risk, but if we can’t supervise the facilitators, the program fails regardless of the vehicle costs.
+- [50] **Ryuji**: @George, the vehicle overrun is a warning, but the winter roads only closed eleven days. We can plan around that, unlike the supplier delays.
+- [51] **Yumi**: @Ryuji, eleven days is manageable, but the bus link is gone permanently. We need a solution that reaches them without relying on our broken vehicle budget.
+- [52] **George**: @Yumi, the roads closing eleven days is manageable, but the vehicle line overran by a third. We cannot fund a mobile service with a broken budget.
+- [53] **May**: @George, the vehicle overrun is a warning, but the evening bookings are full while remote use peaks after nine. We’re missing the people who can’t come in.
+- [54] **Daisuke**: @George, I hear you on the budget, but without trained supervisors, even a well-funded program will collapse under the weight of unmanaged staff.
+## Round 3
+- [60] **Ryuji**: @George, the vehicle overrun is a warning, but the winter roads only closed eleven days. We can plan around that, unlike the supplier delays.
+- [61] **Yumi**: @George, the vehicle overrun is a warning, but the bus link is gone permanently. We need a solution that reaches them without relying on our broken vehicle budget.
+- [62] **George**: @Yumi, I hear the transport gap, but the ledger is clear. We cannot fund a mobile service with a broken budget.
+- [63] **May**: @George, the vehicle line is broken, but the evening rooms are full and remote use peaks after nine. We’re missing the people who can’t come in.
+- [64] **Daisuke**: @George, I understand the budget risk, but without trained supervisors, even a well-funded program will collapse under the weight of unmanaged staff.
+- [65] **Ryuji**: @May, the evening gap is real, but the scanning contractors slip whenever a larger client books first. We cannot control that delay.
+- [66] **Yumi**: @Ryuji, the scanning delays are a risk, but the outer wards have no bus link. We need a solution that reaches them without relying on our broken vehicle budget.
+- [67] **George**: @Ryuji, the scanning delays are a risk, but the ledger is clear. We cannot fund a mobile service with a broken budget.
+- [68] **May**: @Riyu, the scanning delays are a risk, but the evening rooms are full and remote use peaks after nine. We’re missing the people who can’t come in.
+- [69] **Daisuke**: @George, I understand the budget risk, but without trained supervisors, even a well-funded program will collapse under the weight of unmanaged staff.
+- [70] **Ryuji**: @George, the vehicle overrun is a warning, but the winter roads only closed eleven days. We can plan around that, unlike the supplier delays.
+- [71] **Yumi**: @George, the vehicle overrun is a warning, but the bus link is gone permanently. We need a solution that reaches them without relying on our broken vehicle budget.
+- [72] **George**: @Yumi, I hear the transport gap, but the ledger is clear. We cannot fund a mobile service with a broken budget.
+- [73] **May**: @George, the vehicle line is broken, but the evening rooms are full and remote use peaks after nine. We’re missing the people who can’t come in.
+- [74] **Daisuke**: @George, I understand the budget risk, but without trained supervisors, even a well-funded program will collapse under the weight of unmanaged staff.
+- [75] **Ryuji**: @George, the vehicle overrun is a warning, but the winter roads only closed eleven days. We can plan around that, unlike the supplier delays.
+- [76] **Yumi**: @George, the vehicle line is broken, but the bus link is gone permanently. We need a solution that reaches them without relying on our broken vehicle budget.
+- [77] **George**: @Yumi, I hear the transport gap, but the ledger is clear. We cannot fund a mobile service with a broken budget.
+- [78] **May**: @George, the vehicle line is broken, but the evening rooms are full and remote use peaks after nine. We’re missing the people who can’t come in.
+- [79] **Daisuke**: @George, I hear the budget concern, but without trained supervisors, even a well-funded program will collapse under the weight of unmanaged staff.
+### Vote
+- Ryuji -> B
+- Yumi -> D
+- George -> C
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

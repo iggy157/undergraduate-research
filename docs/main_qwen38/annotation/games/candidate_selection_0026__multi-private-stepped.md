@@ -1,0 +1,73 @@
+# candidate_selection_0026__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to verify if previous initiatives actually improved patient outcomes before spending more.
+- [6] **Toshio**: I am concerned about the physical capacity of our current infrastructure to handle new demands.
+- [7] **Benjamin**: History suggests that without clear ownership, these programs often collapse within eighteen months.
+- [8] **Yumi**: I just want to make sure the teams actually get the support they need to succeed.
+- [9] **Servas**: We must ask what this money truly builds, and what it earns back for the community.
+- [10] **Asuka**: @Benjamin, do you have specific data on the failure rates of past projects?
+- [11] **Toshio**: @Asuka, I am looking at the logistics. Can we even fit the new workflow?
+- [12] **Benjamin**: @Asuka, I am reviewing the structural dependencies. It is rarely about intent, but about maintenance.
+- [13] **Yumi**: @Toshio, that sounds stressful. I hope the staff aren't already stretched too thin.
+- [14] **Servas**: @Benjamin, I agree. The ledger often hides the true cost of keeping things running.
+- [15] **Asuka**: I will check the readmission figures to see if the call-back trial worked.
+- [16] **Toshio**: I need to see the booking system records and the room coverage details.
+- [17] **Benjamin**: I will look into the board minutes and the data agreements with outside surgeries.
+- [18] **Yumi**: I want to see the ward nursing vacancies and the therapy staffing review.
+- [19] **Servas**: I will examine the development allocation in the ledger and the regional fund tariffs.
+- [20] **Asuka**: Let us see what the numbers say before we commit to anything new.
+- [21] **Toshio**: If the screens are full, nothing else matters. I will check the capacity.
+- [22] **Benjamin**: I am curious to see who actually signed off on the last joint venture.
+- [23] **Yumi**: I really hope the rosters show some breathing room for the new program.
+- [24] **Servas**: I will trace the money to see where it actually goes, not just where it is promised.
+## Round 2
+- [35] **Asuka**: The call-back trial cut readmissions by a fifth, but only while it was actively running.
+- [36] **Toshio**: The booking system only tracks named slots. Anything unbooked vanishes from the records entirely.
+- [37] **Benjamin**: The last joint clinic died because neither department would own the rota or the budget.
+- [38] **Yumi**: The therapy review shows four years of physiotherapists leaving for city posts, but midwifery has slack.
+- [39] **Servas**: The ledger shows the development fund is down a quarter, and off-site contacts earn nothing from the fund.
+- [40] **Asuka**: @Toshio, if unbooked work vanishes, how do we measure the value of a new program?
+- [41] **Toshio**: @Asuka, we can't. The system is blind to anything that doesn't fit a fixed slot.
+- [42] **Benjamin**: @Servas, a quarter down means we can't afford a program that needs a second department to keep it alive.
+- [43] **Yumi**: @Benjamin, that makes sense. I saw the midwifery rota has slack, so maybe we can use that.
+- [44] **Servas**: @Benjamin, I agree. We need something that stands on its own, not something that needs a partner to survive.
+- [45] **Asuka**: The call-back trial worked, but it required active management. We need a program that sustains itself.
+- [46] **Toshio**: The car park fills before eleven, and the shuttle misses most villages. A new program needs to fit the existing flow.
+- [47] **Benjamin**: The data agreements take fourteen months to sign. Any program relying on outside data is a year behind before it starts.
+- [48] **Yumi**: The agency cover is eating the pay bill, so any new program has to work with the staff we already have.
+- [49] **Servas**: The off-site contacts earn nothing, so a program that goes out to the community will not pay for itself.
+- [50] **Asuka**: We need a program that works within the existing booking system and does not rely on outside partners.
+- [51] **Toshio**: It has to fit the rooms and the parking. If it needs more space, it will seize up the whole day.
+- [52] **Benjamin**: It has to be owned by one department, with no shared rota and no outside data dependency.
+- [53] **Yumi**: It has to use the midwifery slack and not add to the agency cover. That is the only way it will last.
+- [54] **Servas**: It has to be on-site, self-funding, and owned by one team. That is the only way it will not vanish in a year.
+## Round 3
+- [60] **Asuka**: Option A fits the booking system if we log visits as named slots. It also matches the call-back trial's success.
+- [61] **Toshio**: Option A uses the existing rooms and parking. It does not need new space, so it will not seize up the day.
+- [62] **Benjamin**: Option A is owned by one department. No shared rota, no outside data dependency. It will not vanish in a year.
+- [63] **Yumi**: Option A uses the midwifery slack and does not add to the agency cover. It will last because it works with the staff we have.
+- [64] **Servas**: Option A is on-site, self-funding, and owned by one team. It will not vanish in a year, and it will not need a partner to survive.
+- [65] **Asuka**: @Toshio, if we log the visits as named slots, the booking system will track them. That solves the measurement problem.
+- [66] **Toshio**: @Asuka, yes. The car park and rooms are already full, but Option A uses the existing flow. It does not add new demand.
+- [67] **Benjamin**: @Servas, I agree. Option A is the only one that does not rely on a second department or an outside body. It will stand on its own.
+- [68] **Yumi**: @Benjamin, that is exactly what I hoped for. The midwifery slack can cover the follow-up visits, and the agency cover will not grow.
+- [69] **Servas**: @Benjamin, I agree. The ledger shows the development fund is down, so we need something that pays for itself. Option A does that.
+- [70] **Asuka**: Option A is the only one that matches the call-back trial's success and fits the existing booking system. It is the logical choice.
+- [71] **Toshio**: Option A is the only one that does not add new demand to the rooms or the parking. It will not seize up the day.
+- [72] **Benjamin**: Option A is the only one that is owned by one department, with no shared rota and no outside data dependency. It will not vanish in a year.
+- [73] **Yumi**: Option A is the only one that uses the midwifery slack and does not add to the agency cover. It will last because it works with the staff we have.
+- [74] **Servas**: Option A is the only one that is on-site, self-funding, and owned by one team. It will not vanish in a year, and it will not need a partner to survive.
+- [75] **Asuka**: I am voting for Option A. It is the only one that will actually change something for a patient, and it will not vanish in a year.
+- [76] **Toshio**: I am voting for Option A. It fits the existing flow, and it will not seize up the day. That is all I need to see.
+- [77] **Benjamin**: I am voting for Option A. It is the only one that will not break in the second year. That is the only thing that matters.
+- [78] **Yumi**: I am voting for Option A. It uses the midwifery slack, and it will not add to the agency cover. That is the only way it will last.
+- [79] **Servas**: I am voting for Option A. It is on-site, self-funding, and owned by one team. It will not vanish in a year, and it will not need a partner to survive.
+### Vote
+- Asuka -> A
+- Toshio -> A
+- Benjamin -> A
+- Yumi -> A
+- Servas -> A
+## Result
+- adopted: A

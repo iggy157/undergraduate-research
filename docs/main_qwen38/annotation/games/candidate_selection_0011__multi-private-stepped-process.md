@@ -1,0 +1,73 @@
+# candidate_selection_0011__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: We must ensure our choices reflect steady, reliable delivery rather than fleeting excitement.
+- [6] **Ryuji**: I agree. We need to verify if the technical staff actually exist for these projects.
+- [7] **Victoria**: Shared infrastructure is the silent killer. We must check current facility load before committing.
+- [8] **Benjamin**: Before we rank, I need to know what the agency still pays for centrally.
+- [9] **Midori**: I worry about hidden administrative delays. Can we look at past closeout files for clues?
+- [10] **Shizue**: Midori, that is wise. I will check the closeout files to see what actually finished.
+- [11] **Ryuji**: I will examine the staffing rolls. If the hands are gone, the grant is dead.
+- [12] **Victoria**: I will look at accreditation and bookings. If the machines are full, we cannot proceed.
+- [13] **Benjamin**: I will check the travel and bench-fee lines. I need to see the real cost.
+- [14] **Midori**: I will look at the portfolio review of schedule overruns. I want to see the delays.
+- [15] **Shizue**: Thank you all. Let us see what the records truly say about our capacity.
+- [16] **Ryuji**: The labor market is tight. I hope the rolls show enough senior technicians.
+- [17] **Victoria**: I am anxious about the shared labs. If they are overbooked, we fail.
+- [18] **Benjamin**: The headline number is a lie. I need to see where the money actually goes.
+- [19] **Midori**: I hope the overruns are minor. I want to protect the researchers from bureaucracy.
+- [20] **Shizue**: We will meet again with these findings. Let us be gentle but rigorous in our review.
+- [21] **Ryuji**: I will be back with the staffing data. It is the most critical variable for me.
+- [22] **Victoria**: I will report on the facility availability. This is where the real risk lies.
+- [23] **Benjamin**: I will calculate the true purchasing power. The rest is just noise.
+- [24] **Midori**: I will analyze the timeline slippage. I want to ensure we do not repeat past mistakes.
+## Round 2
+- [35] **Shizue**: The closeout files show steady, catalogue-style work outlasts flashy mechanism studies. I value that durability.
+- [36] **Ryuji**: The rolls are empty. The technicians are gone. I cannot support a proposal needing hands we do not have.
+- [37] **Victoria**: The animal facility is accredited and staffed, but the glasshouses are full. Computing is free, though.
+- [38] **Benjamin**: The grant buys less. The agency still covers computing, but the animal day rates have spiked.
+- [39] **Midori**: The overruns hit the breeding colonies hardest. I am worried about the biological timelines.
+- [40] **Shizue**: Ryuji, that is a serious constraint. We must respect the staffing reality, even if it hurts.
+- [41] **Ryuji**: It is not just a constraint. It is a wall. I will not vote for a project that cannot be staffed.
+- [42] **Victoria**: I agree with Ryuji. If the glasshouses are full, we cannot run the plant-based proposals.
+- [43] **Benjamin**: The financial data confirms it. The animal work is now the most expensive line item.
+- [44] **Midori**: This aligns with my findings. The biological delays are the biggest risk to the timeline.
+- [45] **Shizue**: So we are looking for projects that are computationally heavy but biologically light? That seems prudent.
+- [46] **Ryuji**: Exactly. The modelling posts are full of applicants. We have the brains, but not the hands.
+- [47] **Victoria**: The computing agreement is a lifeline. We should prioritize the proposals that use it heavily.
+- [48] **Benjamin**: The purchasing power is skewed. We must choose the project that maximizes output per dollar.
+- [49] **Midori**: I am concerned about the long-term impact. If the biology fails, the whole project stalls.
+- [50] **Shizue**: Let us keep this in mind. We want a project that will still be useful in ten years.
+- [51] **Ryuji**: I will vote for the proposal that matches our current staffing reality. No more, no less.
+- [52] **Victoria**: I will filter by facility availability. If the machines are free, the project is viable.
+- [53] **Benjamin**: I will calculate the cost-effectiveness. The numbers will tell us the truth.
+- [54] **Midori**: I will look for the project with the least vulnerability to external biological delays.
+## Round 3
+- [60] **Shizue**: Option D mirrors the steady, catalogue-style work I saw in the closeout files. It feels durable and useful.
+- [61] **Ryuji**: Option C is the only one that fits. The modelling posts are full, and we have no technicians for the others.
+- [62] **Victoria**: Option C uses the free computing. The others need the full glasshouses or the expensive animal units.
+- [63] **Benjamin**: Option C is the most economically viable. The agency covers the computing, so the cost is minimal.
+- [64] **Midori**: Option C avoids the biological delays I saw in the overruns. It is the safest choice for the timeline.
+- [65] **Shizue**: I am inclined to agree with Ryuji. The staffing reality is undeniable. We must be realistic.
+- [66] **Ryuji**: I am not just being realistic. I am being responsible. We cannot hire the hands we need in time.
+- [67] **Victoria**: I concur. The facility availability is the deciding factor. Option C is the only one that fits.
+- [68] **Benjamin**: The numbers back it up. Option C has the highest output per dollar. It is the rational choice.
+- [69] **Midori**: I am relieved. I was worried about the biological risks. Option C feels much more stable.
+- [70] **Shizue**: Does anyone see a reason to choose the others? I want to be sure we are not missing something.
+- [71] **Ryuji**: No. The staffing gap is too wide. The other options are simply not feasible with our current team.
+- [72] **Victoria**: I agree. The infrastructure constraints are too severe. Option C is the only viable path forward.
+- [73] **Benjamin**: I agree. The financial analysis is clear. Option C is the most efficient use of the grant.
+- [74] **Midori**: I agree. The timeline risk is lowest for Option C. It is the best choice for the researchers.
+- [75] **Shizue**: Then we are in agreement. Let us vote for Option C. It is the steady, reliable choice.
+- [76] **Ryuji**: I will vote for Option C. It matches our staffing reality and our long-term needs.
+- [77] **Victoria**: I will vote for Option C. It fits the facility availability and the computing agreement.
+- [78] **Benjamin**: I will vote for Option C. It is the most economically viable option.
+- [79] **Midori**: I will vote for Option C. It minimizes the risk of external delays and protects the timeline.
+### Vote
+- Shizue -> C
+- Ryuji -> C
+- Victoria -> C
+- Benjamin -> C
+- Midori -> C
+## Result
+- adopted: C

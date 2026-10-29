@@ -1,0 +1,73 @@
+# shared_living_0026__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried we’re guessing again. We need real numbers, not vibes.
+- [6] **Jonathan**: Agreed. The hesitation I feel suggests we need clarity on value.
+- [7] **Takumi**: Stop guessing. I want to see who actually shows up.
+- [8] **Toshio**: I need to understand the burden on the treasurer before we decide.
+- [9] **Kenji**: I worry about how this looks to new members. Let’s be fair.
+- [10] **Mio**: @Toshio, if the hours are high, maybe we need a higher fee?
+- [11] **Jonathan**: @Takumi, attendance data might explain the current mood.
+- [12] **Takumi**: @Mio, I’m not arguing yet. I’m checking the facts first.
+- [13] **Toshio**: @Mio, exactly. The cost of the role must be visible.
+- [14] **Kenji**: @Jonathan, I hope the data shows we can keep it simple.
+- [15] **Mio**: I’ll look at the ledger and the bank statements.
+- [16] **Jonathan**: I’ll check the sign-in sheets and the winter social notes.
+- [17] **Takumi**: I’m taking the turnout records and the rota.
+- [18] **Toshio**: I’ll review the treasurer’s hours and the mid-year joiners.
+- [19] **Kenji**: I’ll look at the taster forms and the sign-in sheets.
+- [20] **Mio**: Okay, let’s see what the numbers say. No more guessing.
+- [21] **Jonathan**: Quietly, I hope the data reveals why people hesitate.
+- [22] **Takumi**: I’ll find out who is carrying the weight.
+- [23] **Toshio**: I’ll find out what the job really costs in time.
+- [24] **Kenji**: I’ll find out if newcomers feel welcome or confused.
+## Round 2
+- [35] **Mio**: The ledger shows fixed costs are huge. Bank statements show payment delays.
+- [36] **Jonathan**: The sign-in sheets show a quarter of members do two-thirds of the work.
+- [37] **Takumi**: The rota proves it. The same nine people do everything.
+- [38] **Toshio**: The treasurer logged six hours a month chasing individual payments.
+- [39] **Kenji**: The taster forms say people want to try before they commit.
+- [40] **Mio**: @Toshio, six hours a month is a lot. That’s real work.
+- [41] **Jonathan**: @Takumi, that imbalance explains the hesitation. It feels unfair.
+- [42] **Takumi**: @Mio, if the same nine do it all, the fee should reflect that.
+- [43] **Toshio**: @Mio, yes. The administrative burden is the hidden cost.
+- [44] **Kenji**: @Jonathan, so we need a way for people to join without a full year.
+- [45] **Mio**: We can’t just raise the fee. We need to fix the payment flow.
+- [46] **Jonathan**: Maybe a tiered system? Lower base fee, higher for heavy users.
+- [47] **Takumi**: No. If you do the work, you pay less. That’s fair.
+- [48] **Toshio**: A flat fee with a small admin surcharge covers the hours.
+- [49] **Kenji**: What about a trial month? It would help the newcomers.
+- [50] **Mio**: I like the trial month idea. It reduces the upfront fear.
+- [51] **Jonathan**: A trial month could ease the hesitation I’ve noticed.
+- [52] **Takumi**: I agree. But the core fee must cover the real costs.
+- [53] **Toshio**: A flat fee with a surcharge is simplest. It covers the hours.
+- [54] **Kenji**: Let’s go with the trial month. It keeps the door open.
+## Round 3
+- [60] **Mio**: Option C feels too complicated. I don’t want to chase payments.
+- [61] **Jonathan**: Option B might work, but it could create new divisions.
+- [62] **Takumi**: Option A is too blunt. It ignores who actually does the work.
+- [63] **Toshio**: Option A is the only one that doesn’t add more hours to the books.
+- [64] **Kenji**: Option B lets people choose their level. That feels right.
+- [65] **Mio**: @Toshio, I agree. Simplicity is key. I can’t manage complex billing.
+- [66] **Jonathan**: @Kenji, I worry that tiers might make the quiet members feel excluded.
+- [67] **Takumi**: @Mio, if we go with A, we must ensure the fee is fair.
+- [68] **Toshio**: @Mio, exactly. The treasurer’s time is the bottleneck.
+- [69] **Kenji**: @Jonathan, the tiers can be simple. Just basic and active.
+- [70] **Mio**: I’m leaning toward A. It’s the most sustainable for the committee.
+- [71] **Jonathan**: I’m still hesitant. But A is the least disruptive.
+- [72] **Takumi**: I’ll accept A if we promise to review the workload next year.
+- [73] **Toshio**: I vote for A. It protects the next treasurer.
+- [74] **Kenji**: I’ll vote for B. It respects the different ways people join.
+- [75] **Mio**: Okay. I’ll go with A. We need stability.
+- [76] **Jonathan**: I’ll go with A. It’s the calmest path forward.
+- [77] **Takumi**: I’ll go with A. But we must watch the rota.
+- [78] **Toshio**: I vote for A. The books must stay simple.
+- [79] **Kenji**: I vote for B. It keeps the community open and flexible.
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> A
+- Toshio -> A
+- Kenji -> B
+## Result
+- adopted: A

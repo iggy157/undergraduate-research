@@ -1,0 +1,73 @@
+# candidate_selection_0009__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I worry about the floor. We need to know what the building can actually hold.
+- [6] **Toshio**: Agreed. Structural integrity is non-negotiable. I will look into the suspended bay.
+- [7] **Rin**: But who is doing the work? The staff list is old. I need to check the roster.
+- [8] **Kenji**: I keep hearing about late deliveries. I want to see the lender paperwork against shipping cut-offs.
+- [9] **Benjamin**: And where does the money go? I will check the loan transport costs over three seasons.
+- [10] **Daisuke**: @Toshio, if the bay fails, everything stops. Please confirm that is your priority.
+- [11] **Toshio**: It is. A collapse is worse than a delay. I will verify the survey.
+- [12] **Rin**: @Benjamin, costs are important, but if no one is there to open the doors, it fails.
+- [13] **Kenji**: @Rin, if the art isn't here, the doors don't matter. I need to see the delays.
+- [14] **Benjamin**: @Kenji, if the art is here but we are bankrupt, the doors close anyway.
+- [15] **Daisuke**: I will look at the maintenance log for powered displays. They stress the floor.
+- [16] **Toshio**: I will also check the weekend head counts across ten seasons. Data over opinion.
+- [17] **Rin**: I will check the composition of the volunteer roster. They are the ones standing in the room.
+- [18] **Kenji**: I will also look at the five years of visitor comment slips. They tell the truth.
+- [19] **Benjamin**: I will also check the mount-making charges and joiner's rate. Hidden costs are everywhere.
+- [20] **Daisuke**: I am done for now. I need to think about what I found.
+- [21] **Toshio**: I will wait for the data. Silence is often the best answer.
+- [22] **Rin**: I am excited to see who is actually working. Let's find out.
+- [23] **Kenji**: I hope the comments are kind. But I need to know the truth.
+- [24] **Benjamin**: I hope the invoices are honest. We will see.
+## Round 2
+- [35] **Daisuke**: The bay is capped at four hundred kilos. We cannot promise heavy stone without shoring.
+- [36] **Toshio**: The data confirms it. Head counts rise only where things move or change.
+- [37] **Rin**: The volunteers are mostly history circle members. They know the old quarter, not the new tech.
+- [38] **Kenji**: The paperwork shows two late arrivals last year. The comments say people came back because someone was there.
+- [39] **Benjamin**: The transport costs are a third of the budget. And the joiner's rate is up. We need to be careful.
+- [40] **Daisuke**: @Toshio, if we choose a heavy exhibit, we need to budget for shoring. It is not optional.
+- [41] **Toshio**: @Daisuke, I see. The numbers do not lie. We must plan for the weight.
+- [42] **Rin**: @Kenji, if the volunteers are history people, can they run the new displays? I am worried.
+- [43] **Kenji**: @Rin, the comments say they want to talk to someone. We need to train them or hire help.
+- [44] **Benjamin**: @Daisuke, shoring is expensive. If we choose a heavy exhibit, the budget will be tight.
+- [45] **Daisuke**: I am worried. The floor is the limit. We have to respect it.
+- [46] **Toshio**: I am calculating the risk. The head counts suggest we need movement, not just weight.
+- [47] **Rin**: I am thinking about the people. If the volunteers are not ready, the room will feel empty.
+- [48] **Kenji**: I am thinking about the delays. If the art is late, the room is empty anyway.
+- [49] **Benjamin**: I am thinking about the money. If the transport is expensive, the room is empty of funds.
+- [50] **Daisuke**: I will wait for the candidates. I need to see what fits the floor.
+- [51] **Toshio**: I will wait for the candidates. I need to see what fits the data.
+- [52] **Rin**: I will wait for the candidates. I need to see what fits the people.
+- [53] **Kenji**: I will wait for the candidates. I need to see what fits the schedule.
+- [54] **Benjamin**: I will wait for the candidates. I need to see what fits the budget.
+## Round 3
+- [60] **Daisuke**: Option D is too heavy for the bay. The rigging will exceed the four hundred kilo limit.
+- [61] **Toshio**: Option A has the movement. The interviews and demonstrations will drive the head counts up.
+- [62] **Rin**: Option A is perfect. The history circle volunteers can lead the demonstrations. They know the crafts.
+- [63] **Kenji**: Option A is local. No shipping delays. The paperwork is simple. The comments will be happy.
+- [64] **Benjamin**: Option A is local. No transport costs. No joiner's rate. The budget stays intact.
+- [65] **Daisuke**: @Toshio, I agree. Option A is safe for the floor. The weight is manageable.
+- [66] **Toshio**: @Daisuke, The data supports it. The movement is the key. The head counts will rise.
+- [67] **Rin**: @Kenji, Yes. No delays. The volunteers are ready. The room will be full of people.
+- [68] **Kenji**: @Rin, Exactly. No shipping cut-offs. No apologies at the door. The art is already here.
+- [69] **Benjamin**: @Daisuke, And no hidden costs. The invoices will be small. The budget will survive.
+- [70] **Daisuke**: I am relieved. The floor is safe. The building works. I can breathe.
+- [71] **Toshio**: I am satisfied. The numbers align. The choice is clear. The data speaks.
+- [72] **Rin**: I am happy. The volunteers are ready. The room will be alive. I can see it.
+- [73] **Kenji**: I am glad. No delays. No apologies. The season will be smooth. I can sleep.
+- [74] **Benjamin**: I am content. No surprises. No hidden costs. The money stays. I can plan.
+- [75] **Daisuke**: I vote for Option A. It respects the building. It is the right choice.
+- [76] **Toshio**: I vote for Option A. It respects the data. It is the logical choice.
+- [77] **Rin**: I vote for Option A. It respects the people. It is the human choice.
+- [78] **Kenji**: I vote for Option A. It respects the schedule. It is the safe choice.
+- [79] **Benjamin**: I vote for Option A. It respects the budget. It is the wise choice.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

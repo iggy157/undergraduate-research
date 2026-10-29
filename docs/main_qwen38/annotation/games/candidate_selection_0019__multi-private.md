@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m so excited to pick our next big show! I really want to make sure we don’t get blindsided by hidden costs later.
+- [6] **Victoria**: Mio, hidden costs are real, but so is our capacity. We need to know who is actually available to execute this, not just the budget.
+- [7] **Shion**: Mio, excitement is cheap. Victoria, capacity is a constraint, not a strategy. We need data on what actually works, not just what fits.
+- [8] **Asuka**: The floor’s load limits are non-negotiable. We must verify structural integrity before promising the space to any curator.
+- [9] **Shizue**: I worry about the quiet moments when things go wrong. Let’s see where past deliveries actually stumbled, not just where they were planned.
+- [10] **Mio**: @Shizue, I totally agree! Let’s check the loan transport costs and the maintenance logs for powered displays to catch those sneaky expenses early.
+- [11] **Victoria**: @Shion, capacity is the strategy. I will review the conservation lab staffing and the volunteer roster to see who is actually left to do the work.
+- [12] **Shion**: @Mio, your focus is narrow. I will examine the weekend head counts and visitor comment slips to see what audiences actually value.
+- [13] **Asuka**: I will review the structural survey of the suspended bay and the maintenance log for powered displays.
+- [14] **Shizue**: I’ll look into the lender paperwork against shipping cut-offs and the loan transport costs over three seasons.
+- [15] **Mio**: @Asuka, thanks for covering the maintenance logs! I’ll double-check the transport costs myself to be safe.
+- [16] **Victoria**: @Mio, your diligence is noted. I will focus on the human element. We cannot mount a show if no one is left to stand in the room.
+- [17] **Shion**: @Victoria, staffing is a variable, not a destiny. I’ll stick to the numbers. The audience’s return rate is the only metric that matters.
+- [18] **Asuka**: @Mio, I am not covering anything for you. I am verifying the bay’s integrity. Your transport costs are irrelevant if the floor fails.
+- [19] **Shizue**: @Asuka, you are right to be firm. I will gently check the paperwork and transport costs to ensure our deliveries arrive safely.
+- [20] **Mio**: @Asuka, fair point! I’ll stick to the transport costs and the mount-making charges. Let’s see where the money actually goes before we commit!
+- [21] **Victoria**: I will review the conservation lab staffing and the volunteer roster. We must know who is actually left to do the work.
+- [22] **Shion**: @Mio, you are chasing pennies. I am chasing the truth. I will review the weekend head counts and the visitor comment slips.
+- [23] **Asuka**: I will review the structural survey of the suspended bay and the maintenance log for powered displays.
+- [24] **Shizue**: I will review the lender paperwork against shipping cut-offs and the loan transport costs over three seasons.
+## Round 2
+- [35] **Mio**: @Shizue, did you find similar transport spikes? I’m shocked that shipping ate a third of our installation budget!
+- [36] **Victoria**: @Mio, the numbers are stark. One conservator, two hundred pieces. The volunteers are already committed elsewhere. We are understaffed before we even begin.
+- [37] **Shion**: @Victoria, your staffing crisis is a symptom, not the cause. The data is clear: people return for presence, not objects.
+- [38] **Asuka**: @Mio, your budget concerns are secondary. The bay is capped at four hundred kilos per square metre. Any proposal exceeding that is structurally impossible.
+- [39] **Shizue**: @Mio, yes, the paperwork delays were painful. Two recent shows slipped because documents arrived late. We must plan for those quiet, frustrating gaps.
+- [40] **Mio**: @Shizue, that confirms it! Shipping is a budget killer. I’m also worried about mount-making costs, which have doubled. We need to avoid expensive custom work.
+- [41] **Victoria**: @Shion, presence requires people. With one conservator and volunteers tied up, who physically stands in the room? We cannot mount what we cannot staff.
+- [42] **Shion**: @Victoria, you confuse logistics with value. The data proves audiences return for interaction, not just objects. We must prioritize presence, regardless of your staffing fears.
+- [43] **Asuka**: @Victoria, staffing is a variable. The bay’s load limit is a constant. If the floor fails, no one stands in the room.
+- [44] **Shizue**: @Asuka, you are right to be firm. I will gently check the paperwork and transport costs to ensure our deliveries arrive safely.
+- [45] **Mio**: @Shion, presence is great, but if the joiner’s rate doubles, we can’t afford the custom mounts! We need self-supporting pieces to save money.
+- [46] **Victoria**: @Shion, presence is a luxury we cannot afford. With one conservator and volunteers tied up, who physically stands in the room? We cannot mount what we cannot staff.
+- [47] **Shion**: @Victoria, you mistake scarcity for strategy. The data is undeniable: presence drives return visits. We must prioritize the experience, not your staffing anxieties.
+- [48] **Asuka**: @Shion, presence is irrelevant if the bay collapses. Fourteen call-outs last season prove powered displays are liabilities. We need static, lightweight objects.
+- [49] **Shizue**: @Asuka, I hear your worry. Let’s ensure our paperwork is perfect so the floor never has to bear the weight of our mistakes.
+- [50] **Mio**: @Asuka, static and lightweight is perfect! It saves on mounts and keeps the bay safe. Let’s prioritize those self-supporting pieces!
+- [51] **Victoria**: @Asuka, static pieces still require conservation. With one conservator and two hundred pieces waiting, we cannot guarantee their safety. We must respect the physical limits of our staff.
+- [52] **Shion**: @Asuka, static objects are dead weight. The data shows movement drives return visits. We need dynamic displays, not your fragile, lifeless relics.
+- [53] **Asuka**: @Shion, your data ignores physics. The bay cannot support dynamic weight. We choose static, lightweight pieces to ensure the building survives the season.
+- [54] **Shizue**: @Shion, I understand your passion. But let us not forget the quiet cost of delays. We must ensure our paperwork is flawless to avoid those painful gaps.
+## Round 3
+- [60] **Mio**: @Shion, kinetic art means heavy rigging and powered displays! That’s a budget and safety nightmare. I’m voting for C, Maritime Trade Routes, to keep costs down.
+- [61] **Victoria**: @Shion, your kinetic art demands powered displays and heavy rigging. With one conservator and a two-hundred-piece backlog, we cannot safely maintain that. I vote for D.
+- [62] **Shion**: @Mio, you fear costs; I see opportunity. @Victoria, you fear labor; I see engagement. Option D offers visible presence and dynamic activity. I vote D.
+- [63] **Asuka**: @Mio, C is acceptable. Static objects, no powered displays. The bay’s load limit is respected. I vote C.
+- [64] **Shizue**: @Mio, C sounds lovely, but those partner loans worry me. I fear the paperwork delays again. I vote for A, to keep our deliveries simple and safe.
+- [65] **Mio**: @Shizue, I hear you, but C’s loans are manageable. A’s live demos need staff we don’t have! I’m sticking with C to save money.
+- [66] **Victoria**: @Mio, A’s live demonstrations require staff we do not have. D’s visible conservation bench utilizes our existing backlog, turning a liability into a feature. I stand by D.
+- [67] **Shion**: @Victoria, you mistake a problem for a solution. D’s visible bench is the only option that guarantees the presence my data demands. I stand by D.
+- [68] **Asuka**: @Victoria, D’s visible bench implies active work and potential debris. The bay’s load limit is absolute. I cannot support D. I stand by C.
+- [69] **Shizue**: @Victoria, I understand your concern about staffing. But A’s local focus means fewer distant loans and less paperwork stress. I will stick with A for peace of mind.
+- [70] **Mio**: @Victoria, D’s bench is brilliant! It uses our backlog and saves on new mounts. I’m switching my vote to D to support that!
+- [71] **Victoria**: @Mio, your switch is pragmatic, but D’s visible bench is the only option that honestly reflects our current reality. We must show the work, not hide it. I stand by D.
+- [72] **Shion**: @Mio, your pragmatism is welcome. D aligns with the data: visible activity drives return visits. I stand by D.
+- [73] **Asuka**: @Mio, switching to D is reckless. The conservation bench risks exceeding the bay’s load limit. I remain with C.
+- [74] **Shizue**: @Mio, I see your kindness in switching. But I must stand by A. Local pieces mean no distant shipping, no late paperwork, and no quiet apologies at the door.
+- [75] **Mio**: @Asuka, I’m sorry! I’ll stick with C. It’s static, safe, and keeps our budget sane. Let’s not risk the bay!
+- [76] **Victoria**: @Asuka, the bench is a fixed fixture, not a load. It respects the bay’s limits while acknowledging our reality. I stand by D.
+- [77] **Shion**: @Asuka, physics is a constraint, not a verdict. D’s visible activity is the only metric that matters. I stand by D.
+- [78] **Asuka**: @Victoria, a bench is not a load, but the debris and vibration are. I cannot ignore physics. I stand by C.
+- [79] **Shizue**: @Asuka, I understand your caution. But A keeps our deliveries simple and safe. No distant shipping, no late paperwork. I stand by A.
+### Vote
+- Mio -> C
+- Victoria -> D
+- Shion -> D
+- Asuka -> C
+- Shizue -> A
+## Result
+- adopted: D

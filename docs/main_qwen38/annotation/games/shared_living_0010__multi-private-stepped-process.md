@@ -1,0 +1,73 @@
+# shared_living_0010__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The current rotation is failing. We need data on actual time spent before committing to a year.
+- [6] **Mio**: I agree. It feels unfair when the same people do the work. Let's check usage patterns.
+- [7] **Victoria**: I worry about conflict. We need a system that keeps us on speaking terms, not just clean rooms.
+- [8] **Rin**: I want to know the costs. Who is paying for the bleach and bags right now?
+- [9] **Daisuke**: I just want to know what "clean" means. The bathroom feels different every single day.
+- [10] **Ryuji**: @Rin, costs matter, but time is the bottleneck. I need to measure the duration of a full pass.
+- [11] **Mio**: @Daisuke, that's a valid point. I want to see the calendar to check who is actually home.
+- [12] **Victoria**: I will look at the chat logs. I need to see where the friction is happening.
+- [13] **Rin**: I will check the receipts. I need to see exactly what we are spending on supplies.
+- [14] **Daisuke**: I will look at the grout. I need to see if the scrubbing is actually working or just surface level.
+- [15] **Ryuji**: @Mio, absences are critical. If people are away, the load shifts. I will time the cleaning myself.
+- [16] **Mio**: @Ryuji, yes. I will also check the kitchen usage. I need to see who is making the mess.
+- [17] **Victoria**: I will also look at the previous tenants' note. Maybe they had a system that worked.
+- [18] **Rin**: I will also check the management office rate sheet. I need to know the cost of professional help.
+- [19] **Daisuke**: I will also check the chat logs. I need to see how we react when things are dirty.
+- [20] **Ryuji**: I will time the full pass and check the kitchen usage. I need the raw numbers.
+- [21] **Mio**: I will check the wall calendar and the kitchen usage. I need to see the balance.
+- [22] **Victoria**: I will check the chat logs and the previous tenants' note. I need to understand the social dynamic.
+- [23] **Rin**: I will check the receipts and the management rate sheet. I need the financial picture.
+- [24] **Daisuke**: I will check the grout and the chat logs. I need to see the standard and the reaction.
+## Round 2
+- [35] **Ryuji**: The data is clear. A full pass takes over an hour. That is a significant block of time.
+- [36] **Mio**: @Ryuji, that matches what I saw. Two people are away often, but three people make almost all the kitchen mess.
+- [37] **Victoria**: The chat logs show that conflict starts with reminders. The previous tenants' note says permanent division led to silence.
+- [38] **Rin**: @Victoria, that is worrying. The receipts show we spend 2,300 yen monthly on supplies, often buying duplicates.
+- [39] **Daisuke**: The grout is back to black in eleven days. The chat shows we only talk when things are already wrong.
+- [40] **Ryuji**: @Rin, 2,300 yen is low. The real cost is the hour I lose. I need to know if outsourcing saves that hour.
+- [41] **Mio**: @Ryuji, if we outsource, the time cost disappears. But the usage data shows the mess is concentrated.
+- [42] **Victoria**: @Mio, if the mess is concentrated, a shared rotation might feel unfair to the clean people.
+- [43] **Rin**: @Victoria, the management rate is 4,200 yen an hour. That is nearly double our supply cost.
+- [44] **Daisuke**: @Rin, that is expensive. But the grout data says our scrubbing is not lasting. I need consistency.
+- [45] **Ryuji**: @Daisuke, consistency is the issue. If we hire a firm, the time is removed from us entirely.
+- [46] **Mio**: @Ryuji, but the cost is high. I want to see if a usage-based system works before paying that.
+- [47] **Victoria**: @Mio, a usage-based system requires tracking. The chat logs show we hate tracking. It creates friction.
+- [48] **Rin**: @Victoria, I agree. But I need to know who pays. The rate sheet says one person collects. That is risky.
+- [49] **Daisuke**: @Rin, I just want the room to be the same every day. I don't care who pays, as long as it works.
+- [50] **Ryuji**: I am leaning toward outsourcing. The time cost is too high for a year. I need to know the firm's terms.
+- [51] **Mio**: I am leaning toward a usage-based rotation. I need to see if the firm's terms allow for partial service.
+- [52] **Victoria**: I am leaning toward a fixed rotation with a social check-in. I need to avoid the silence the previous tenants had.
+- [53] **Rin**: I am leaning toward outsourcing. I need to know the exact monthly cost and who is liable for the bill.
+- [54] **Daisuke**: I am leaning toward outsourcing. I need the grout to stay clean. I need the state to be predictable.
+## Round 3
+- [60] **Ryuji**: Option C removes the time cost entirely. The 4,200 yen is high, but my hour is worth more than that.
+- [61] **Mio**: @Ryuji, but the usage data shows the mess is concentrated. Option B might be fairer if we adjust for presence.
+- [62] **Victoria**: @Mio, Option B requires constant monitoring. The chat logs show we hate that. Option A is too rigid.
+- [63] **Rin**: @Victoria, Option C is the only one with a predictable cost. I need to know who pays the invoice.
+- [64] **Daisuke**: @Rin, Option C is the only one that guarantees the grout stays clean. I need that consistency.
+- [65] **Ryuji**: @Daisuke, yes. The time cost is the main issue. Option C solves that. I am voting for C.
+- [66] **Mio**: @Ryuji, I understand. But I want to see if Option B can work with the usage data. I am voting for B.
+- [67] **Victoria**: @Mio, I am worried about the friction. Option C removes the need for reminders. I am voting for C.
+- [68] **Rin**: @Victoria, I agree. The cost is predictable. I need to know who is liable. I am voting for C.
+- [69] **Daisuke**: @Rin, I agree. The consistency is what I need. I am voting for C.
+- [70] **Ryuji**: The data supports C. The time cost is too high for a year. I am confident in this choice.
+- [71] **Mio**: I am still concerned about the cost. But the usage data shows the mess is concentrated. I will vote for B.
+- [72] **Victoria**: The social dynamic is the key. Option C removes the friction. I am voting for C.
+- [73] **Rin**: The financial transparency is the key. Option C has a clear invoice. I am voting for C.
+- [74] **Daisuke**: The consistency is the key. Option C guarantees the state. I am voting for C.
+- [75] **Ryuji**: I am ready to vote. The time cost is the deciding factor.
+- [76] **Mio**: I am ready to vote. The usage data is the deciding factor.
+- [77] **Victoria**: I am ready to vote. The social harmony is the deciding factor.
+- [78] **Rin**: I am ready to vote. The financial clarity is the deciding factor.
+- [79] **Daisuke**: I am ready to vote. The consistency is the deciding factor.
+### Vote
+- Ryuji -> C
+- Mio -> B
+- Victoria -> C
+- Rin -> C
+- Daisuke -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0026__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I am worried we are guessing at next year's costs again. We need real numbers.
+- [6] **Jonathan**: The evenings feel hesitant lately. People are waiting until the last minute to decide.
+- [7] **Takumi**: It is always the same dozen faces doing everything. I want to see the actual workload.
+- [8] **Toshio**: The treasurer role is draining people. We need to know what we are asking of them.
+- [9] **Kenji**: Newcomers are struggling to fit in. We need to keep the door open for them.
+- [10] **Mio**: @Toshio, if the books are a mess, how can we set a fair fee?
+- [11] **Jonathan**: I agree with @Mio. Clarity helps people feel safe enough to show up.
+- [12] **Takumi**: @Kenji, if the work is uneven, the fee structure should reflect that reality.
+- [13] **Toshio**: I will look into the time spent on collections. It is a hidden cost.
+- [14] **Kenji**: I want to see who is actually coming and who is just paying.
+- [15] **Mio**: Let us check the ledger. We need to know what is fixed and what is variable.
+- [16] **Jonathan**: I am curious about the mid-year joiners. How do we handle their fees?
+- [17] **Takumi**: I will check the sign-in sheets. I suspect the numbers are skewed.
+- [18] **Toshio**: I will also look at the bank statements. I want to see the payment patterns.
+- [19] **Kenji**: I will look at the taster forms. Why do people not join?
+- [20] **Mio**: I will check the ledger and the bank statements.
+- [21] **Jonathan**: I will check the mid-year joiners and the taster forms.
+- [22] **Takumi**: I will check the sign-in sheets and the rota.
+- [23] **Toshio**: I will check the treasurer's hours and the bank statements.
+- [24] **Kenji**: I will check the taster forms and the winter social notes.
+## Round 2
+- [35] **Mio**: The ledger shows seventy percent of costs are fixed, like hall hire. That is a lot.
+- [36] **Jonathan**: The taster forms say people are afraid of committing to a whole year at once.
+- [37] **Takumi**: The sign-in sheets show a quarter of members do two-thirds of the work.
+- [38] **Toshio**: The treasurer spent six hours a month chasing individual payments. That is unsustainable.
+- [39] **Kenji**: The quieter members are uneasy about what their attendance actually costs them.
+- [40] **Mio**: @Toshio, if chasing payments takes so long, a flat fee might be better.
+- [41] **Jonathan**: @Mio, but if people are afraid of commitment, a flat fee might scare them off.
+- [42] **Takumi**: @Kenji, if the quiet members are uneasy, maybe they should only pay for what they use.
+- [43] **Toshio**: @Jonathan, the mid-year joiners needed hand-worked calculations. That is a lot of admin.
+- [44] **Kenji**: @Takumi, if we charge per event, the quiet members might feel even more excluded.
+- [45] **Mio**: The bank statements show a third of renewals needed reminders. That is a lot of chasing.
+- [46] **Jonathan**: The mid-year joiners are a pain to process. We need a simpler way.
+- [47] **Takumi**: The rota shows the same nine people do the setup. They are carrying the club.
+- [48] **Toshio**: A yearly collection takes barely one hour. That is a huge difference.
+- [49] **Kenji**: The taster forms are clear. People want flexibility, not a big upfront bill.
+- [50] **Mio**: I think a flat fee is the only way to stop the chasing.
+- [51] **Jonathan**: I am leaning towards activity-based. It respects the hesitation people feel.
+- [52] **Takumi**: I want to reward the people who actually show up. Activity-based seems fair.
+- [53] **Toshio**: I agree with @Mio. The admin burden of activity-based is too high.
+- [54] **Kenji**: I am worried about the quiet members. But I also want to keep the door open.
+## Round 3
+- [60] **Mio**: Option A is flat. Option B is tiered. Option C is activity-based.
+- [61] **Jonathan**: Option C allows people to pay only for what they do. It feels right.
+- [62] **Takumi**: Option C is fair. The people who do the work should not subsidize the absentees.
+- [63] **Toshio**: Option A is the only one that doesn't break the treasurer. Option C is a nightmare.
+- [64] **Kenji**: Option B might work for newcomers. They can start small.
+- [65] **Mio**: @Toshio, but the admin for Option C is six hours a month. That is too much.
+- [66] **Jonathan**: @Mio, we can automate it. Or we can accept the cost for fairness.
+- [67] **Takumi**: @Jonathan, automation is not enough. The work is still uneven.
+- [68] **Toshio**: @Takumi, the work is uneven, but the admin is the killer. I cannot support C.
+- [69] **Kenji**: @Toshio, but if we choose A, the quiet members might leave.
+- [70] **Mio**: I am voting for A. We need stability.
+- [71] **Jonathan**: I am voting for C. We need fairness.
+- [72] **Takumi**: I am voting for C. The heavy users should pay more.
+- [73] **Toshio**: I am voting for A. The admin burden is too high for C.
+- [74] **Kenji**: I am voting for B. It gives newcomers a way in.
+- [75] **Mio**: I hope we can make A work.
+- [76] **Jonathan**: I hope we can make C work.
+- [77] **Takumi**: I hope we can make C work.
+- [78] **Toshio**: I hope we can make A work.
+- [79] **Kenji**: I hope we can make B work.
+### Vote
+- Mio -> A
+- Jonathan -> C
+- Takumi -> C
+- Toshio -> A
+- Kenji -> B
+## Result
+- adopted: A

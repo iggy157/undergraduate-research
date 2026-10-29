@@ -1,0 +1,73 @@
+# shared_living_0023__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Victoria**: Before we move furniture, I need to understand the recurring cost of this floor.
+- [6] **Minato**: I worry about how my body feels after sitting in one spot for eight hours.
+- [7] **May**: My schedule is fragmented. I need to know how much time the transition will steal.
+- [8] **Shunichi**: We should decide who gets the worse seats deliberately, not by accident.
+- [9] **Daisuke**: I’m worried about who I’ll sit next to. It changes how much I talk to people.
+- [10] **Victoria**: @May, your time concern is valid, but the budget line hasn't changed since we were smaller.
+- [11] **Minato**: @Shunichi, I agree. If we know the noise levels, we can pick spots that are kinder.
+- [12] **May**: @Victoria, the budget is important, but if I lose an hour a day, that’s a huge cost.
+- [13] **Shunichi**: @Daisuke, proximity matters. Let’s look at how the current layout affects interaction.
+- [14] **Daisuke**: @Shunichi, yes. I want to see if we can plan for better connections, not just desks.
+- [15] **Victoria**: I will look into the billing basis and the facilities quote for moving power.
+- [16] **Minato**: I want to check the sound readings and the physio’s note on chair adjustments.
+- [17] **May**: I’ll look at the morning routine timing and the unplanned shuffles from last year.
+- [18] **Shunichi**: I’ll check the drawn plan against the survey and the arrival times in badge records.
+- [19] **Daisuke**: I want to see what the new joiners reported and the project strands from last spring.
+- [20] **Victoria**: That covers the financial and physical constraints. Let’s see what the data says.
+- [21] **Minato**: I hope the sound data helps us find a quiet corner for deep work.
+- [22] **May**: If the morning routine is too long, we need a layout that minimizes that friction.
+- [23] **Shunichi**: Knowing who arrives early will help us assign the "good" spots fairly.
+- [24] **Daisuke**: I’m a bit nervous, but I think looking at the past interactions will help us decide.
+## Round 2
+- [35] **Victoria**: The billing is by area, not headcount. Empty desks still cost us 41,000 yen monthly.
+- [36] **Minato**: The row by the printer is nine decibels louder. Also, chairs take days to adjust properly.
+- [37] **May**: The pilot floor took four to nine minutes to set up. Last year’s shuffles took two weeks each.
+- [38] **Shunichi**: The plan gives four window seats. Badge records show arrival times vary wildly, from 8 to 10.
+- [39] **Daisuke**: Last spring, sitting close meant we stopped writing notes. The new joiners learned by listening.
+- [40] **Victoria**: @May, if we move desks, it’s 6,200 yen each. Frequent changes will drain the budget.
+- [41] **Minato**: @Victoria, if we move often, I can’t settle my chair. I need a stable spot.
+- [42] **May**: @Minato, I agree. If we rotate, I lose those setup minutes every time. That’s painful.
+- [43] **Shunichi**: @Daisuke, the listening thing is interesting. But if we don’t assign seats, the early birds get the windows.
+- [44] **Daisuke**: @Shunichi, that’s the risk. If it’s first-come, first-served, the latecomers get the noisy spots.
+- [45] **Victoria**: We need a layout that minimizes moves. The cost of re-running power is significant.
+- [46] **Minato**: A fixed desk would let me adjust my chair once and keep it. That’s important for my back.
+- [47] **May**: If we fix the desks, I save the setup time. But I need to know I’m not stuck in a bad spot.
+- [48] **Shunichi**: If we fix the desks, we can assign the window seats to those who need them, or rotate fairly.
+- [49] **Daisuke**: If we fix the desks, we can choose who sits next to whom. That feels safer for the team.
+- [50] **Victoria**: I’m leaning towards stability. The financial penalty for change is too high.
+- [51] **Minato**: I feel the same. Comfort and stability are key for me.
+- [52] **May**: I can live with fixed desks if the assignment is fair. I hate the uncertainty of shuffles.
+- [53] **Shunichi**: Let’s propose fixed desks, but with a clear, fair assignment method.
+- [54] **Daisuke**: I agree. I’d rather have a known neighbor than a random one.
+## Round 3
+- [60] **Victoria**: Option A seems best. It avoids the 6,200 yen re-run cost and the billing waste.
+- [61] **Minato**: Option A lets me keep my chair settings. Option B would reset them every rotation.
+- [62] **May**: Option A saves me the 4-9 minute setup time. Option C is too chaotic for my schedule.
+- [63] **Shunichi**: Option A allows us to assign the window seats deliberately. Option C lets the early birds win.
+- [64] **Daisuke**: Option A lets us choose neighbors. Option C feels too random and stressful for me.
+- [65] **Victoria**: @Shunichi, how do we ensure the assignment is fair in Option A?
+- [66] **Minato**: @Victoria, maybe we group by function, but let people pick within their group?
+- [67] **May**: @Minato, that sounds reasonable. I just want to avoid the noisy printer row if possible.
+- [68] **Shunichi**: @May, we can assign the quiet window seats to those who need focus, and the noisy ones to those who don’t.
+- [69] **Daisuke**: @Shunichi, I’d like to sit near someone I talk to often. Can we factor that in?
+- [70] **Victoria**: We can use the survey data to assign seats based on preference and need.
+- [71] **Minato**: That sounds good. I’d prefer the window side, away from the printer.
+- [72] **May**: I’d take a spot near the center, easy to access, but not in the noise.
+- [73] **Shunichi**: I’ll take the corner. It’s quiet, and I can see the room.
+- [74] **Daisuke**: I’d like to sit next to May or Shunichi. I feel more comfortable talking to them.
+- [75] **Victoria**: Let’s vote. I think Option A is the most rational and cost-effective.
+- [76] **Minato**: I agree. Option A is the most comfortable for me.
+- [77] **May**: I agree. Option A saves time and reduces stress.
+- [78] **Shunichi**: I agree. Option A allows for deliberate, fair assignment.
+- [79] **Daisuke**: I agree. Option A feels the safest and most supportive.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

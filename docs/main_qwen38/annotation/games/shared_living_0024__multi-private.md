@@ -1,0 +1,73 @@
+# shared_living_0024__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost upfront! Let's check "All-in rates against meals bought separately" and "Pricing of offshore houses let whole."
+- [6] **Shunichi**: I’m done with the travel logistics. I’ll check "Ferry sailings and train time" and "Getting around by train and bus."
+- [7] **Asuka**: I need clarity on financial boundaries. I’ll check "All-in rates against meals bought separately" and "What separately booked rooms cost last time."
+- [8] **Takumi**: I’m checking "Bathing hours and bathroom provision" and "Inn mealtimes and room arrangements."
+- [9] **Toshio**: I’ll check "Time alone in the shared-house year" and "How last year's days ran."
+- [10] **Rin**: @Shunichi, do you think the ferry is cheaper than the train? I want to save money for snacks!
+- [11] **Shunichi**: Cheaper? No. Faster? Maybe. I care about not wasting a day in transit. @Rin, stop thinking about snacks.
+- [12] **Asuka**: @Rin, your snack budget is irrelevant to the structural cost analysis. I am focusing on the data to prevent future disputes.
+- [13] **Takumi**: @Asuka, stop being so stiff. @Rin, snacks are good, but I need to know if I can actually sleep here.
+- [14] **Toshio**: @Takumi, sleep is vital. I’m observing the rhythm of our past days to understand why we felt disconnected.
+- [15] **Rin**: @Toshio, disconnected? I just want to know the price! @Takumi, if I can’t sleep, I’ll be grumpy and eat all the snacks!
+- [16] **Shunichi**: @Rin, grumpiness is a tax on everyone. @Toshio, if the rhythm was broken, we fix the schedule, not the destination.
+- [17] **Asuka**: @Shunichi, fixing the schedule is a logistical fix. I am addressing the financial ambiguity that causes resentment. We need clear cost allocation.
+- [18] **Takumi**: @Shunichi, you’re right. A broken rhythm ruins everything. I need to know if the rooms let me rest without fighting for space.
+- [19] **Toshio**: @Shunichi, the destination shapes the rhythm. I need to see if the space itself forces that disconnect, or if it’s just us.
+- [20] **Rin**: @Asuka, I agree! Knowing the exact total prevents surprises. I’m checking "All-in rates against meals bought separately" and "Pricing of offshore houses let whole."
+- [21] **Shunichi**: I’m done. The data will tell us if we can actually enjoy the trip without losing our minds to transit.
+- [22] **Asuka**: I am confirming my selections. "All-in rates against meals bought separately" and "What separately booked rooms cost last time." This ensures the financial structure is transparent and equitable for all.
+- [23] **Takumi**: I’m checking "Bathing hours and bathroom provision" and "Inn mealtimes and room arrangements." I need to know if I can actually sleep here.
+- [24] **Toshio**: Confirmed. I will examine "Time alone in the shared-house year" and "How last year's days ran" to identify the source of our disconnect.
+## Round 2
+- [35] **Rin**: @Asuka, I found it! Offshore houses are 5,400 yen a head a night, plus food. That’s the exact number I needed to stop the surprises!
+- [36] **Shunichi**: Two days lost to the ferry. Unacceptable. The train is ninety minutes. We take the train. @Rin, stop counting yen, start counting hours.
+- [37] **Asuka**: @Rin, your offshore figure is useful, but the 8,000 yen variance in separate bookings proves individual payment is flawed. We need a single, divisible bill to ensure equity.
+- [38] **Takumi**: @Shunichi, the train is fine. But one bathroom for everyone? Cold water? I can’t sleep if I’m freezing. I need a door.
+- [39] **Toshio**: @Shunichi, the train keeps us together. Last year’s separation was the problem. I need to see if the space allows for necessary solitude without breaking that unity.
+- [40] **Rin**: @Shunichi, hours are boring! I need the total price. @Asuka, if we pay separately, I can’t see the whole bill. I want one big number!
+- [41] **Shunichi**: @Rin, hours are the only currency that matters. @Asuka, your equity argument is valid, but only if we don’t waste the trip commuting.
+- [42] **Asuka**: @Shunichi, transit time is a fixed cost. My concern is variable financial exposure. A single bill eliminates the 8,000 yen discrepancy and prevents individual liability.
+- [43] **Takumi**: @Asuka, money is fine, but I can’t eat at six if I’m still awake. I need a room with a door, not a shared futon.
+- [44] **Toshio**: @Takumi, a door is a boundary, not a wall. I need to know if the space allows us to be together without suffocating each other.
+- [45] **Rin**: @Takumi, a door is great! But if the food is extra, the total changes! I need to know the exact meal cost to finish my big number!
+- [46] **Shunichi**: @Rin, the train saves us two days. That is the only number that matters. @Takumi, if the bus stops early, we stay put. No wandering.
+- [47] **Asuka**: @Rin, the all-in rate forces the light eater to subsidize the heavy one. That is inequitable. I require a structure where costs reflect actual consumption, not a flat average.
+- [48] **Takumi**: @Asuka, I don’t care about your math. I care about sleeping. If I have to share a room and eat at six, I’m done. I need a door.
+- [49] **Toshio**: @Asuka, equity is abstract. I need concrete space. A town with streets and a public bath lets us be alone without leaving the group.
+- [50] **Rin**: @Asuka, I don’t care about equity! I care about the total! If food is extra, my big number is wrong. I need the exact meal cost to finish it!
+- [51] **Shunichi**: @Rin, your obsession with the total is a distraction. We are losing two days to the ferry. The train is the only logical choice. Stop counting yen.
+- [52] **Asuka**: @Rin, the total is irrelevant if the allocation is unjust. I am prioritizing structural fairness over your arbitrary sum.
+- [53] **Takumi**: @Rin, your number is useless if I’m freezing. I need a private room with a door. No shared baths, no six o’clock dinners. I can’t sleep otherwise.
+- [54] **Toshio**: @Rin, the total is a number. The rhythm is the experience. I need a place where we can be together, yet have room to breathe.
+## Round 3
+- [60] **Rin**: @Shunichi, the train is fast! But I need the total price. Option B has meals included, so I can calculate the exact cost!
+- [61] **Shunichi**: @Rin, the train is ninety minutes. Option A wastes two days. Option B is the only one that respects our time. Vote B.
+- [62] **Asuka**: Option A. One bill, divided evenly. It eliminates the 8,000 yen variance and ensures no one is quietly out of pocket.
+- [63] **Takumi**: @Asuka, one bathroom for five people? Cold water? I can’t sleep. @Shunichi, the train is fine, but I need a door. Option C is the only way I rest.
+- [64] **Toshio**: @Takumi, a door is a boundary, not a wall. Option B offers the town’s streets for solitude, while the inn keeps us together. Vote B.
+- [65] **Rin**: @Asuka, one bill is perfect! But I need the exact total. @Shunichi, the train is fast, but I need the price. Vote B!
+- [66] **Shunichi**: @Asuka, your equity argument is irrelevant if we waste two days on a ferry. Option B is the only logical choice. Vote B.
+- [67] **Asuka**: @Rin, your total is meaningless without fair allocation. Option A’s single bill is the only structure that prevents individual liability. Vote A.
+- [68] **Takumi**: @Toshio, the inn has no door. I can’t sleep in a shared room. Option C is the only place I get rest. Vote C.
+- [69] **Toshio**: @Takumi, the town’s public bath and streets offer the solitude you need without the isolation of separate rooms. Option B balances our unity with necessary space. Vote B.
+- [70] **Rin**: @Takumi, if you sleep, you won't be grumpy! Option B has the train and the total price I need. Vote B!
+- [71] **Shunichi**: @Takumi, a door is a luxury, not a necessity. Option B is the only one that doesn't waste our week. Vote B.
+- [72] **Asuka**: @Takumi, your comfort is secondary to financial integrity. Option A’s single bill is the only equitable structure. Vote A.
+- [73] **Takumi**: @Asuka, I don’t care about your math. I need a door to sleep. Option C is the only way I rest. Vote C.
+- [74] **Toshio**: @Asuka, your structure ignores the human cost. Option B preserves the group while allowing individual breathing room. I vote B.
+- [75] **Rin**: @Asuka, I don't care about your math! I need the total price! Option B has meals included, so I can calculate the exact cost! Vote B!
+- [76] **Shunichi**: @Asuka, your math is a distraction. We lose two days on the ferry. Option B is the only rational choice. Vote B.
+- [77] **Asuka**: @Rin, your total is irrelevant if the allocation is unjust. Option A’s single bill is the only equitable structure. Vote A.
+- [78] **Takumi**: @Asuka, your math is cold. I need a door to sleep. Option C is the only way I rest. Vote C.
+- [79] **Toshio**: @Asuka, structure is not the same as connection. Option B lets us share the day while keeping our own space. Vote B.
+### Vote
+- Rin -> B
+- Shunichi -> B
+- Asuka -> A
+- Takumi -> C
+- Toshio -> B
+## Result
+- adopted: B

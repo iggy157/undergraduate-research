@@ -1,0 +1,73 @@
+# shared_living_0013__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Shizue**: I worry that desks decide who we talk to. Let us look at how we sit now.
+- [6] **Toshio**: The current layout hides who gets the worst spots. We need to name that imbalance.
+- [7] **Daisuke**: I am quiet, but I worry about the money. Can we check the floor billing basis?
+- [8] **Mio**: My mornings are tight. I need to know what the change costs in time, not just yen.
+- [9] **Shunichi**: I sit still for eight hours. If the chair and desk do not fit, I am done.
+- [10] **Shizue**: @Toshio, yes. If we do not choose, the furniture chooses for us.
+- [11] **Toshio**: Exactly. I want a rule that rotates the burden, not a permanent hierarchy of comfort.
+- [12] **Daisuke**: I agree with Shizue. But if we move desks, do we pay for new power lines?
+- [13] **Mio**: @Daisuke, that is my fear. If we need electricians, my first coffee is gone.
+- [14] **Shunichi**: I do not care about coffee. I care about my lower back. Let us check the physio note.
+- [15] **Shizue**: @Shunichi, your back matters. But if we sit in a row, we never speak.
+- [16] **Toshio**: A row is efficient, but it is unfair. The end of the row always suffers.
+- [17] **Daisuke**: I think we should look at the facilities quote. I want to know the real cost.
+- [18] **Mio**: I will look at the badge records. I need to see when we actually arrive.
+- [19] **Shunichi**: I will check the sound meter readings. Silence is a feature, not a bug.
+- [20] **Shizue**: I will look at the staff survey. I want to know what people actually want.
+- [21] **Toshio**: I will look at the unplanned seat shuffles. I want to see how often we break the rules.
+- [22] **Daisuke**: I will look at the facilities quote and the floor billing. I need the numbers.
+- [23] **Mio**: I will look at the badge records and the morning routine upstairs. I need the time data.
+- [24] **Shunichi**: I will look at the sound meter readings and the physio note. I need the comfort data.
+## Round 2
+- [35] **Shizue**: The survey says the wall desks are the problem. The new joiners say the noise is the gift.
+- [36] **Toshio**: The shuffles prove we cannot trust the layout to stay fair. It breaks every time life changes.
+- [37] **Daisuke**: I found the quote. Moving a desk costs 6,200 yen. And we pay for empty space.
+- [38] **Mio**: I found the badge times. We arrive at different times. If we pick desks first, the latecomers lose.
+- [39] **Shunichi**: I found the sound data. The printer row is nine decibels louder. And the physio says my chair needs days to settle.
+- [40] **Shizue**: @Mio, that is why I want a rule. If we pick by arrival, the early birds always get the window.
+- [41] **Toshio**: @Shizue, yes. And the shuffles show that even a good rule gets broken by accident.
+- [42] **Daisuke**: @Toshio, the quote is the same for every move. So if we change the plan, we pay again.
+- [43] **Mio**: @Daisuke, that is the trap. If we change the plan, we pay, and we lose the morning.
+- [44] **Shunichi**: @Mio, I do not care about the morning. I care about the chair. If I move, I lose the setting.
+- [45] **Shizue**: @Shunichi, I hear you. But if we sit in a row, we never talk. And the new joiners need to talk.
+- [46] **Toshio**: @Shizue, a row is a hierarchy. The end of the row is the punishment. I want to avoid that.
+- [47] **Daisuke**: I think we should keep the desks where they are. The quote says moving is expensive.
+- [48] **Mio**: I think we should keep the desks where they are. The badge times say we arrive at different times.
+- [49] **Shunichi**: I think we should keep the desks where they are. The sound data says the window side is quiet.
+- [50] **Shizue**: I am not sure. The survey says the wall desks are the problem. But the new joiners say the noise is the gift.
+- [51] **Toshio**: I am not sure. The shuffles show we cannot trust the layout. But the quote says moving is expensive.
+- [52] **Daisuke**: I am leaning toward keeping the desks. The numbers say moving is expensive.
+- [53] **Mio**: I am leaning toward keeping the desks. The time data says moving is expensive.
+- [54] **Shunichi**: I am leaning toward keeping the desks. The comfort data says moving is expensive.
+## Round 3
+- [60] **Shizue**: Option A is the most honest. It lets the work decide who sits where, not the furniture.
+- [61] **Toshio**: Option A is the most fair. It means no one is stuck with the bad seat. But it is also the most chaotic.
+- [62] **Daisuke**: Option A is the most expensive. Every time someone moves, we pay the 6,200 yen quote.
+- [63] **Mio**: Option A is the most dangerous for my mornings. If I arrive late, I get the worst desk.
+- [64] **Shunichi**: Option A is the worst for my back. If I move, I lose the chair setting. I need stability.
+- [65] **Shizue**: @Daisuke, the quote is for the electricians. If we just move the desks, it is free.
+- [66] **Toshio**: @Shizue, the shuffles show that even a free move is a pain. It takes a fortnight.
+- [67] **Daisuke**: @Shizue, the quote is for the power and network. If we move the desks, we need to re-run the lines.
+- [68] **Mio**: @Daisuke, that is the trap. If we move the desks, we pay, and we lose the morning.
+- [69] **Shunichi**: @Mio, I do not care about the morning. I care about the chair. If I move, I lose the setting.
+- [70] **Shizue**: Option C is the middle path. It gives us stability, but it also gives us a chance to talk to new people.
+- [71] **Toshio**: Option C is the most fair. It means no one is stuck with the bad seat. But it is also the most complex.
+- [72] **Daisuke**: Option C is the most expensive. Every time we rotate, we pay the 6,200 yen quote.
+- [73] **Mio**: Option C is the most dangerous for my mornings. If we rotate, we lose the morning.
+- [74] **Shunichi**: Option C is the worst for my back. If I rotate, I lose the chair setting. I need stability.
+- [75] **Shizue**: I am leaning toward Option C. It gives us stability, but it also gives us a chance to talk to new people.
+- [76] **Toshio**: I am leaning toward Option C. It is the most fair. It means no one is stuck with the bad seat.
+- [77] **Daisuke**: I am leaning toward Option B. The numbers say moving is expensive.
+- [78] **Mio**: I am leaning toward Option B. The time data says moving is expensive.
+- [79] **Shunichi**: I am leaning toward Option B. The comfort data says moving is expensive.
+### Vote
+- Shizue -> C
+- Toshio -> C
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

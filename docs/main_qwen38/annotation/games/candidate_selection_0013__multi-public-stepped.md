@@ -1,0 +1,73 @@
+# candidate_selection_0013__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about the calendar slipping again. We need to see where the time actually goes.
+- [6] **Yumi**: I’m curious how much the timetable absorbs while work is running. It feels overlooked.
+- [7] **George**: The staff carrying the routine upkeep have had no relief for years. That needs checking.
+- [8] **Mizuki**: I want to know which past projects actually landed well for the people using them.
+- [9] **Benjamin**: The paper figures rarely survive contact with the market. I’d like to see the tender records.
+- [10] **Shizue**: @Benjamin, yes, the costs are a mystery. But the schedule is where we lose the most.
+- [11] **Yumi**: @George, I agree. If the staff are stretched, the rooms won’t be usable anyway.
+- [12] **George**: @Yumi, exactly. The technicians are logging hours on manual checks that shouldn’t be needed.
+- [13] **Mizuki**: @Shizue, the schedule is important, but we need to know if the result was worth it.
+- [14] **Benjamin**: @Mizuki, fair point. But if the budget is wrong, the project fails before it starts.
+- [15] **Shizue**: I think we should look at the weather days and the staffing posts.
+- [16] **Yumi**: I’ll check the timetable records and the booking data for the rooms.
+- [17] **George**: I’ll look into the staffing posts and the bench technicians' routines.
+- [18] **Mizuki**: I’ll investigate the post-occupancy reviews and the survey findings in the older blocks.
+- [19] **Benjamin**: I’ll look at the tender records and the renewal reserve for equipment.
+- [20] **Shizue**: Thank you all. Let’s see what the data says.
+- [21] **Yumi**: I’m excited to see if the rooms are actually being used.
+- [22] **George**: I hope we can find a way to ease the load on the staff.
+- [23] **Mizuki**: I want to ensure we don’t repeat past mistakes.
+- [24] **Benjamin**: Let’s hope the numbers tell the truth this time.
+## Round 2
+- [35] **Shizue**: I found that six weeks were lost to weather. That’s a huge chunk of the year.
+- [36] **Yumi**: @Shizue, that’s terrible. I found that specialist rooms are idle, but general rooms are always full.
+- [37] **George**: @Yumi, I see. I found that technicians are doing manual checks because the equipment is failing.
+- [38] **Mizuki**: @George, that’s concerning. I found that projects with broad access were rated highest.
+- [39] **Benjamin**: @Mizuki, interesting. I found that mechanical costs rose by a fifth, but surfacing costs stayed flat.
+- [40] **Shizue**: @Benjamin, so the weather affects the outdoor work most. We need to plan for that.
+- [41] **Yumi**: @Shizue, yes. And if we build specialist rooms, they might just sit empty.
+- [42] **George**: @Yumi, if we upgrade the ventilation, the technicians won’t have to do those manual checks.
+- [43] **Mizuki**: @George, that makes sense. But we need to make sure the space is accessible to everyone.
+- [44] **Benjamin**: @Mizuki, the cost of mechanical work is rising. We need to be careful with that.
+- [45] **Shizue**: I think the Laboratory Ventilation Upgrade is a good idea. It solves a real problem.
+- [46] **Yumi**: I agree. The booking data shows we need general space, not more specialist rooms.
+- [47] **George**: I support the ventilation upgrade. It will help the staff and the students.
+- [48] **Mizuki**: I’m leaning towards the Central Study Commons. It fits the post-occupancy findings.
+- [49] **Benjamin**: The ventilation upgrade is costly, but the cost of inaction is higher. I’ll support it.
+- [50] **Shizue**: Let’s vote for the Laboratory Ventilation Upgrade.
+- [51] **Yumi**: I’ll vote for the Central Study Commons.
+- [52] **George**: I’ll vote for the Laboratory Ventilation Upgrade.
+- [53] **Mizuki**: I’ll vote for the Central Study Commons.
+- [54] **Benjamin**: I’ll vote for the Laboratory Ventilation Upgrade.
+## Round 3
+- [60] **Shizue**: The ventilation upgrade addresses the weather and staffing issues we found.
+- [61] **Yumi**: The study commons addresses the booking data. It’s a tough choice.
+- [62] **George**: The ventilation upgrade is critical for safety and staff relief.
+- [63] **Mizuki**: The study commons has broad access, which the reviews liked.
+- [64] **Benjamin**: The ventilation upgrade has higher costs, but the risk is greater if we don’t do it.
+- [65] **Shizue**: @George, I agree. The manual checks are a safety hazard.
+- [66] **Yumi**: @Mizuki, the study commons is good, but the labs are in worse shape.
+- [67] **George**: @Yumi, the labs are a priority. The technicians are overworked.
+- [68] **Mizuki**: @George, I understand. But the study commons would benefit more people.
+- [69] **Benjamin**: @Mizuki, the cost of the ventilation upgrade is justified by the safety and efficiency gains.
+- [70] **Shizue**: I’m voting for D.
+- [71] **Yumi**: I’m voting for C.
+- [72] **George**: I’m voting for D.
+- [73] **Mizuki**: I’m voting for C.
+- [74] **Benjamin**: I’m voting for D.
+- [75] **Shizue**: Let’s hope the decision is the right one.
+- [76] **Yumi**: I hope the study commons gets built soon.
+- [77] **George**: I’m glad we’re addressing the lab issues.
+- [78] **Mizuki**: I’ll keep an eye on the post-occupancy reviews.
+- [79] **Benjamin**: Let’s hope the budget holds up this time.
+### Vote
+- Shizue -> D
+- Yumi -> C
+- George -> D
+- Mizuki -> C
+- Benjamin -> D
+## Result
+- adopted: D
