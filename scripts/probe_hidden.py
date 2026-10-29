@@ -32,7 +32,9 @@ sys.path.insert(0, str(ROOT))
 from common.logwriter import read_log  # noqa: E402
 
 CONDS = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private",
-         "multi-private-stepped", "multi-private-stepped-process", "multi-public-stepped"]
+         "multi-private-stepped", "multi-private-stepped-process", "multi-public-stepped",
+         "single-batch-process", "multi-private-process", "single-batch-stepped-process", "single-online-process",
+         "multi-public-process", "multi-public-stepped-process"]
 
 
 def lines_of(rows):

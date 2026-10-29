@@ -29,7 +29,8 @@ from common.setup import SETUPS  # noqa: E402
 PY = str(ROOT / ".venv" / "bin" / "python")
 CORE = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private"]
 PLAN = ["single-batch-process", "multi-private-process"]
-EXTRA = ["multi-private-stepped", "multi-public-stepped", "multi-private-stepped-process"]  # the whole-transcript goal transplanted into the seats (+ plan)
+EXTRA = ["multi-private-stepped", "multi-public-stepped", "multi-private-stepped-process",
+         "single-batch-stepped-process", "single-online-process", "multi-public-process", "multi-public-stepped-process"]  # the whole-transcript goal transplanted into the seats (+ plan)
 DOMAINS = ["aiwolf", "candidate_selection", "shared_living"]
 
 
@@ -57,6 +58,10 @@ def command(setup: str, cond: str, model: str, log_dir: str, port: int) -> list[
         "multi-private-stepped": multi + ["--seat-stepped"],
         "multi-public-stepped": multi + ["--reveal", "--seat-stepped"],
         "multi-private-stepped-process": multi + ["--seat-stepped", "--scenario", plan_arg(setup), "--plan-granularity", "process"],
+        "single-batch-stepped-process": multi + ["--stepped", "--scenario", plan_arg(setup), "--plan-granularity", "process"],
+        "single-online-process": multi + ["--writer", "--scenario", plan_arg(setup), "--plan-granularity", "process"],
+        "multi-public-process": multi + ["--reveal", "--scenario", plan_arg(setup), "--plan-granularity", "process"],
+        "multi-public-stepped-process": multi + ["--reveal", "--seat-stepped", "--scenario", plan_arg(setup), "--plan-granularity", "process"],
     }[cond]
 
 
