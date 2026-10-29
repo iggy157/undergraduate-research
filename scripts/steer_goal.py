@@ -59,6 +59,8 @@ def main(argv=None) -> int:
     ap.add_argument("--max-new-tokens", type=int, default=128)
     ap.add_argument("--shard", default="0/1", help="i/n: this process runs test states i, i+n, ...")
     ap.add_argument("--vector", default=None, help="load v from this .npy (else compute and save next to --out)")
+    ap.add_argument("--rand-scale", type=float, default=0.25,
+                    help="norm of the random control direction as a fraction of |v| (a random direction at the full norm breaks generation)")
     a = ap.parse_args(argv)
     os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")
     import numpy as np
@@ -76,17 +78,19 @@ def main(argv=None) -> int:
     qwen = "qwen" in a.model_path.lower()
     tmpl_kw = {"enable_thinking": False} if qwen else {}
 
+    def prompt_ids(system, user):
+        text = tok.apply_chat_template([{"role": "system", "content": system}, {"role": "user", "content": user}],
+                                       tokenize=False, add_generation_prompt=True, **tmpl_kw)
+        return tok.encode(text, add_special_tokens=False)
+
     def ids_online(system, user):
-        return tok.apply_chat_template([{"role": "system", "content": system}, {"role": "user", "content": user}],
-                                       tokenize=True, add_generation_prompt=True, **tmpl_kw)
+        return prompt_ids(system, user)
 
     def ids_batch(system, breq, transcript):
-        p = tok.apply_chat_template([{"role": "system", "content": system}, {"role": "user", "content": breq}],
-                                    tokenize=True, add_generation_prompt=True, **tmpl_kw)
-        return list(p) + tok.encode(transcript, add_special_tokens=False)
+        return prompt_ids(system, breq) + tok.encode(transcript, add_special_tokens=False)
 
     def as_list(x):
-        return list(x["input_ids"]) if isinstance(x, dict) or hasattr(x, "keys") else list(x)
+        return list(x)
 
     log_dir = Path(a.log_dir)
     breq = batch_requests(log_dir)
@@ -103,8 +107,12 @@ def main(argv=None) -> int:
             continue
         calls = [r for r in talk_calls(g / "raw")]
         rng2 = random.Random(zlib.crc32(g.name.encode()))
-        k = a.states_per_setup if s in train else a.test_states_per_setup
-        states[s] = [(g.name, r) for r in rng2.sample(calls, min(k, len(calls)))]
+        if s in train:
+            states[s] = [(g.name, r) for r in rng2.sample(calls, min(a.states_per_setup, len(calls)))]
+        else:  # test: every period's first turn (all seats) + up to k random later turns
+            first = [r for r in calls if r.get("turn") == 1]
+            rest = [r for r in calls if r.get("turn") != 1]
+            states[s] = [(g.name, r) for r in first + rng2.sample(rest, min(a.test_states_per_setup, len(rest)))]
 
     def resid_at_last(ids, L):
         with torch.no_grad():
@@ -131,7 +139,7 @@ def main(argv=None) -> int:
         print(f"direction from {len(diffs)} paired states, |v| = {v.norm():.1f}", flush=True)
     g = torch.Generator(device="cpu").manual_seed(1)
     rnd = torch.randn(v.shape, generator=g).to("cuda")
-    rnd = rnd / rnd.norm() * v.norm()
+    rnd = rnd / rnd.norm() * v.norm() * a.rand_scale
 
     state = {"vec": None, "start": None}
 
@@ -150,7 +158,8 @@ def main(argv=None) -> int:
     def generate(ids, vec):
         state["vec"], state["start"] = vec, len(ids) - 1
         with torch.no_grad():
-            out = model.generate(torch.tensor([ids], device="cuda"), max_new_tokens=a.max_new_tokens, do_sample=False,
+            x = torch.tensor([ids], device="cuda")
+            out = model.generate(x, attention_mask=torch.ones_like(x), max_new_tokens=a.max_new_tokens, do_sample=False,
                                  stop_strings=STOP, tokenizer=tok, pad_token_id=tok.pad_token_id or tok.eos_token_id)
         state["vec"] = None
         text = tok.decode(out[0, len(ids):], skip_special_tokens=True)
@@ -173,7 +182,7 @@ def main(argv=None) -> int:
         system, user = r["messages"][0]["content"], r["messages"][1]["content"]
         on = as_list(ids_online(system, user))
         variants = [(f"online+{al:g}v", on, (al * v) if al else None) for al in alphas]
-        variants += [("online+rand", on, rnd), ("batch", as_list(ids_batch(system, breq[s], user)), None)]
+        variants += [(f"online+rand{a.rand_scale:g}", on, rnd), ("batch", as_list(ids_batch(system, breq[s], user)), None)]
         for name, ids, vec in variants:
             if (gid, r["seq"], name) in done:
                 continue

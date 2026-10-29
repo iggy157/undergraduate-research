@@ -28,7 +28,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from agent.base.llm import OpenAILLM as LLMClient, load_model_config  # noqa: E402
 
 STOP = ["\n- **", "\n####", "\n###", "\n##"]
 PASS = {"skip", "over", "[skip]", "[over]"}
@@ -77,7 +76,8 @@ def main(argv=None) -> int:
     a = ap.parse_args(argv)
     log_dir = Path(a.log_dir)
     breq = batch_requests(log_dir)
-    clients = [LLMClient(load_model_config(m)) for m in a.models.split(",")]
+    from agent.base.llm import OpenAILLM, load_model_config  # imported here: the steering script reuses the helpers
+    clients = [OpenAILLM(load_model_config(m)) for m in a.models.split(",")]
     setups = sorted({p.name.split("__")[0] for p in log_dir.glob(f"*/{a.source}/*/")})
     pin = {s: i % len(clients) for i, s in enumerate(setups)}
     done = set()
