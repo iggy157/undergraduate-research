@@ -47,11 +47,13 @@ def main(argv=None) -> int:
                 ann[m.group(1)][g] = {int(i["seq"]): i for i in items if str(i.get("seq", "")).isdigit()}
     raters = sorted(ann)
     out = ["# Question -> answer rate (derived from resp_to / resp_type)\n",
-           "| condition | rater | questions/game | addressed (@) share | answered (any) | answered by addressee |",
-           "|---|---|---|---|---|---|"]
+           "`answered` columns require resp_type = answer; `addressee's next line responds` only requires that the addressee's "
+           "next utterance in the period has resp_to = the question (any response type: the type-independent definition).\n",
+           "| condition | rater | questions/game | addressed (@) share | answered (any) | answered by addressee | addressee's next line responds |",
+           "|---|---|---|---|---|---|---|"]
     for cond in ORDER:
         for r in raters:
-            nq, nad, ans_any, ans_addr, ng = [], 0, 0, 0, 0
+            nq, nad, ans_any, ans_addr, ng, nxt = [], 0, 0, 0, 0, 0
             for g, info in games.items():
                 if info["condition"] != cond or g not in ann[r]:
                     continue
@@ -66,7 +68,11 @@ def main(argv=None) -> int:
                     addressee = m.group(1) if m else None
                     if addressee:
                         nad += 1
-                    later = [(s2, rows[s2]) for s2 in rows if s2 > seq and rows[s2][2] == period]
+                    later = [(s2, rows[s2]) for s2 in sorted(rows) if s2 > seq and rows[s2][2] == period]
+                    if addressee:
+                        nxt_line = next((s2 for s2, (spk2, _, _) in later if spk2 == addressee), None)
+                        if nxt_line is not None and (an.get(nxt_line) or {}).get("resp_to") == seq:
+                            nxt += 1
                     hit_any = hit_addr = False
                     for s2, (spk2, _, _) in later:
                         it = an.get(s2)
@@ -80,7 +86,7 @@ def main(argv=None) -> int:
             tot = sum(nq)
             if ng and tot:
                 out.append(f"| {cond} | {r} | {st.mean(nq):.1f} | {nad / tot:.2f} | {ans_any / tot:.2f} | "
-                           f"{(ans_addr / nad) if nad else float('nan'):.2f} |")
+                           f"{(ans_addr / nad) if nad else float('nan'):.2f} | {(nxt / nad) if nad else float('nan'):.2f} |")
     out.append("\n# Position-aligned content (mean content per utterance, raters pooled; rows = period, turn)\n")
     out.append("| period | turn | " + " | ".join(ORDER) + " |")
     out.append("|---|---|" + "---|" * len(ORDER))
