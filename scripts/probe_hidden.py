@@ -31,7 +31,8 @@ sys.path.insert(0, str(ROOT))
 
 from common.logwriter import read_log  # noqa: E402
 
-CONDS = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private"]
+CONDS = ["single-batch", "single-batch-stepped", "single-online", "multi-public", "multi-private",
+         "multi-private-stepped", "multi-private-stepped-process", "multi-public-stepped"]
 
 
 def lines_of(rows):
@@ -107,8 +108,12 @@ def main(argv=None) -> int:
     ap.add_argument("--lam", type=float, default=10.0)
     ap.add_argument("--out", default=None)
     a = ap.parse_args(argv)
-    layers = [int(x) for x in a.layers.split(",")]
     hdir = Path(a.hidden_dir)
+    if a.layers == "auto":  # 5 evenly spaced layers among those stored
+        stored = json.loads(next(hdir.glob("*.index.json")).read_text())["layers"]
+        layers = sorted({stored[round(i * (len(stored) - 1) / 4)] for i in range(5)})
+    else:
+        layers = [int(x) for x in a.layers.split(",")]
     out = [f"# Linear probes on pre-utterance hidden states ({a.hidden_dir}; ridge lam={a.lam}, {a.folds}-fold by setup)\n"]
     names = ["words", "yield", "left_self", "left_game", "winner"]
     for cond in a.conditions.split(","):
