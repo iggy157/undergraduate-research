@@ -352,7 +352,7 @@ Qwen3.8-27B は線形注意のハイブリッドで vLLM のバッチ不変モ�
 - **全知 + 全文の目標** (multi-public-stepped) は密度で single と区別がつかず (14 / 9)、占い師の命中は 0.83 と全知の水準。single-batch-stepped との差が「1 人が書くか席ごとに書くか」の効果で、どの指標でも小さい。
 - 判定者間一致 (38,067 発話): Responsiveness-W κ 0.78、Rebuttal 0.51、content 0 か否か 0.44、padded 0.19。
 
-gemma-31B の stepped 系 3 条件と gemma-4-12B (8 条件 × 90 設定) は実行中。結果が出たらここに追記する。
+gemma-31B の stepped 系 3 条件 (各 90 設定) は生成・注釈・hidden states まで完了 (集計は次の版で追記)。別サイズの gemma-4-12B-it は、チェックポイントが gemma4_unified (音声・画像の統合版) の構造で、使用中の vLLM 0.21 / transformers 5.8 が読み込めないため今回は見送り、対応した推論環境を用意してから行う。
 
 ## 6. 補助分析: 発話前表現からの将来属性の復号可能性 (密度仮説の機構)
 
@@ -380,7 +380,7 @@ gemma-31B の stepped 系 3 条件と gemma-4-12B (8 条件 × 90 設定) は実
 |---|---|---|
 | 生成・主系 (全条件、筋書き、プローブ) | gemma-4-31B-it (dense) | パイロット済み |
 | 生成・別系統 (中核 5 条件) | Qwen3.8-27B (dense, Apache 2.0) | 同規模の最新の別系統 |
-| 生成・別サイズ (中核 5 条件) | gemma-4-12B-it | 同系列の別サイズ |
+| 生成・別サイズ (保留) | gemma-4-12B-it | 同系列の別サイズ。gemma4_unified 構造が現行の vLLM で読めず、後日 |
 | 注釈者 (主) | Llama 3.3 70B Instruct (bf16, tensor parallel 2) | 生成モデルと別系統、手元で配信。temperature 0、バッチ不変なし (パイロットの注釈のみバッチ不変で実行) |
 | 注釈者 (副) | gpt-oss-120b (MoE 117B、MXFP4 が公式の唯一の形式) | 生成モデルとも主注釈者とも別系統。temperature 0、バッチ不変なし。反復の自己一致を報告する |
 

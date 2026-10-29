@@ -45,3 +45,9 @@
 - 判定者間一致 (29,016 発話): Responsiveness-W κ 0.62、Rebuttal 0.60、content 0 か否か 0.33、padded 0.23、content 0/1/2 の完全一致 0.50。gpt-oss は内容を多く数える (発話あたり 1.35 vs 0.88)。
 - gpt-oss の 2 局 (shared_living_0014 single-batch、shared_living_0018 multi-private-process) で数発話の注釈が欠けている (再実行は未)。
 - 確証的な検定 (27 設定のみ) と、content の上限の感度分析、人手検証、開示候補 212 件の確認は未実施。
+
+## stepped 系 3 条件の追加 (2026-10-29 19:22〜22:25)
+
+- multi-private-stepped / multi-private-stepped-process / multi-public-stepped × 90 設定 = 270 局を 8 台 (GPU 0〜7) で生成、失敗 0 (log/main_gemma31b 内、計 900 局)。注釈 Llama / gpt-oss とも 900 局、hidden states 900 局。
+- 事故: 8 台用の起動スクリプトの引数の扱いの誤りで最初はサーバが 1 台しか立たず、停止の過程で待機側が次段に進んだため、40 分ほどやり直した (生成物への影響なし)。判定サーバ (GPU 1,2) が 1 度起動に失敗し、再起動した。判定の終了後に空いた GPU を抽出に回した。
+- gemma-4-12B-it は gemma4_unified 構造で vLLM 0.21 / transformers 5.8 が読めず、見送り (生成は 0 局)。GPU 6, 7 の予約は早期返却。
