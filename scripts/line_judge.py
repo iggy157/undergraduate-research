@@ -135,6 +135,11 @@ def main(argv=None) -> int:
             oth_frame = "batch" if src_frame == "online" else "online"
             base = {"kind": "swap", "game_id": r["game_id"], "seat": r["seat"], "call_seq": r["call_seq"],
                     "round": r["round"], "turn": r["turn"], "source": r["source"]}
+            if r.get("target"):  # a targeted re-generation (possibly with examples): only the new line
+                ex = r.get("examples")
+                lab = r["target"] + (f"+ex-{ex['cond']}" if ex else "") + " (regenerated)"
+                items.append(({**base, "variant": lab, "words": r["words_swap"]}, transcript, r["swap"] or "", 0 if samp else 1))
+                continue
             items.append(({**base, "variant": src_frame + " (recorded)", "words": r["words_orig"]}, transcript, r["orig"] or "", 0 if samp else 1))
             items.append(({**base, "variant": oth_frame + " (swapped)", "words": r["words_swap"]}, transcript, r["swap"] or "", 0 if samp else 1))
     for fp in a.steer:

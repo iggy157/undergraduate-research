@@ -71,10 +71,16 @@ def main(argv=None) -> int:
     ap.add_argument("--threads-per-model", type=int, default=8)
     ap.add_argument("--limit-games", type=int, default=0)
     ap.add_argument("--max-tokens", type=int, default=1024)
+    ap.add_argument("--target", choices=["other", "online", "batch"], default="other",
+                    help="framing to re-generate in (other = the framing the source did not use)")
+    ap.add_argument("--examples", default=None,
+                    help='JSON like {"src": "log/main_gemma31b", "cond": "single-batch", "n": 3}: discussion examples '
+                         '(common/examples.py) put before the system prompt of the re-generated call')
     ap.add_argument("--per-game", type=int, default=0,
                     help="sample: the first talk call of every period (turn 1, every seat) + this many other calls at random")
     a = ap.parse_args(argv)
     log_dir = Path(a.log_dir)
+    ex_cfg = json.loads(a.examples) if a.examples else None
     breq = batch_requests(log_dir)
     from agent.base.llm import OpenAILLM, load_model_config  # imported here: the steering script reuses the helpers
     clients = [OpenAILLM(load_model_config(m)) for m in a.models.split(",")]
@@ -91,7 +97,7 @@ def main(argv=None) -> int:
         if a.limit_games and n >= a.limit_games:
             break
         setup = gd.name.split("__")[0]
-        if setup not in breq:
+        if setup not in breq or gd.name.split("__")[1] != a.source:  # plan conditions share the folder: skip them
             continue
         calls = list(talk_calls(gd / "raw"))
         if a.per_game:
@@ -111,16 +117,19 @@ def main(argv=None) -> int:
         gid, setup, r = job
         system, user = r["messages"][0]["content"], r["messages"][1]["content"]
         cl = clients[ci]
-        if a.source == "multi-private":       # recorded online; swap to batch
-            transcript = user
+        transcript = user if a.source == "multi-private" else r["messages"][2]["content"]
+        target = a.target if a.target != "other" else ("batch" if a.source == "multi-private" else "online")
+        if ex_cfg is not None:
+            from common.examples import examples_block
+            system = examples_block(setup.rsplit("_", 1)[0], setup, ex_cfg) + "\n\n---\n\n" + system
+        if target == "batch":
             text, meta = cl.complete_continuation([{"role": "system", "content": system}, {"role": "user", "content": breq[setup]}],
                                                   transcript, a.max_tokens, stop=STOP)
-        else:                                  # recorded batch; swap to online
-            transcript = r["messages"][2]["content"]
+        else:
             text, meta = cl.complete([{"role": "system", "content": system}, {"role": "user", "content": transcript}],
                                      a.max_tokens, stop=STOP)
         rec = {"game_id": gid, "setup": setup, "seat": r["seat"], "call_seq": r["seq"], "round": r["round"], "turn": r["turn"],
-               "source": a.source, "orig": r.get("response"), "swap": text, "words_orig": words(r.get("response")),
+               "source": a.source, "target": target, "examples": ex_cfg, "orig": r.get("response"), "swap": text, "words_orig": words(r.get("response")),
                "words_swap": words(text), "finish_swap": meta.get("finish_reason"),
                "prompt_tokens_swap": (meta.get("usage") or {}).get("prompt_tokens")}
         with lock:

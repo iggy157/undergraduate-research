@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT))  # noqa: E402 (common.examples is imported lazily for the targeted rows)
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from goal_swap import batch_requests, talk_calls  # noqa: E402
@@ -91,8 +91,16 @@ def main(argv=None) -> int:
         else:
             transcript = c["messages"][2]["content"]
             w_online, w_batch = r["words_swap"], r["words_orig"]
+        if r.get("target"):  # targeted re-generation: the one framing it used, with its examples
+            if r.get("examples"):
+                from common.examples import examples_block
+                system = examples_block(r["setup"].rsplit("_", 1)[0], r["setup"], r["examples"]) + "\n\n---\n\n" + system
+            frames = [online(system, transcript)] if r["target"] == "online" else [batch(system, breq[r["setup"]], transcript)]
+            w_online = w_batch = r["words_swap"]
+        else:
+            frames = [online(system, transcript), batch(system, breq[r["setup"]], transcript)]
         per_frame = []
-        for ids, gen, lab in (online(system, transcript), batch(system, breq[r["setup"]], transcript)):
+        for ids, gen, lab in frames:
             with torch.no_grad():
                 out = model(torch.tensor([ids], device="cuda"), output_hidden_states=True, logits_to_keep=1)
             hs = out.hidden_states
@@ -100,7 +108,8 @@ def main(argv=None) -> int:
         H.append(torch.stack(per_frame).to(torch.float16).cpu().numpy())
         meta.append({"game_id": r["game_id"], "setup": r["setup"], "seat": r["seat"], "call_seq": r["call_seq"],
                      "round": r["round"], "turn": r["turn"], "source": r["source"],
-                     "words_online": w_online, "words_batch": w_batch})
+                     "words_online": w_online, "words_batch": w_batch, "target": r.get("target"),
+                     "examples": r.get("examples"), "words": r["words_swap"] if r.get("target") else None})
         if (k + 1) % 200 == 0:
             print(f"{k + 1}/{len(rows)}", flush=True)
     np.savez(out_dir / f"shard{i}.npz", h=np.stack(H))

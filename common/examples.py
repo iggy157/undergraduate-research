@@ -58,8 +58,8 @@ def chosen(domain: str, setup_id: str, cfg: dict) -> list[str]:
     return [s for s, _ in games[: int(cfg.get("n", 3))]]
 
 
-def examples_block(domain: str, setup_id: str) -> str | None:
-    cfg = config()
+def examples_block(domain: str, setup_id: str, cfg: dict | None = None) -> str | None:
+    cfg = cfg if cfg is not None else config()
     if not cfg:
         return None
     games = [(s, p) for s, p in _games(cfg["src"], domain, cfg["cond"]) if s != setup_id][: int(cfg.get("n", 3))]
