@@ -151,11 +151,11 @@ def main(argv=None) -> int:
             continue
         for line in fp.read_text().splitlines():
             d = json.loads(line)
-            done.add((d["kind"], d["game_id"], d["call_seq"], d["variant"], d.get("layer")))
+            done.add((d["kind"], d["game_id"], d["seat"], d["call_seq"], d["variant"], d.get("layer")))
     pi, pn = (int(x) for x in a.part.split("/"))
     if pn > 1:
-        items = [it for it in items if zlib.crc32(f"{it[0]['kind']}:{it[0]['game_id']}:{it[0]['call_seq']}:{it[0]['variant']}:{it[0].get('layer')}".encode()) % pn == pi]
-    items = [it for it in items if (it[0]["kind"], it[0]["game_id"], it[0]["call_seq"], it[0]["variant"], it[0].get("layer")) not in done]
+        items = [it for it in items if zlib.crc32(f"{it[0]['kind']}:{it[0]['game_id']}:{it[0]['seat']}:{it[0]['call_seq']}:{it[0]['variant']}:{it[0].get('layer')}".encode()) % pn == pi]
+    items = [it for it in items if (it[0]["kind"], it[0]["game_id"], it[0]["seat"], it[0]["call_seq"], it[0]["variant"], it[0].get("layer")) not in done]
     random.Random(0).shuffle(items)                 # blind order: framings and sources interleaved
     items.sort(key=lambda it: it[3])                # the sample first
     print(f"{len(items)} lines to judge ({len(done)} done)", flush=True)
