@@ -154,7 +154,10 @@ def system_prompt(env: Environment, ctx: GameContext, method: str, seat: int | N
         parts.append(PROFILE_HEADING + "\n" + identity_block(env, ctx, seat))
     if scenario is not None:
         parts.append(scenario_block(env, ctx, scenario, None if reveal else [int(seat)]))
-    return "\n\n".join(parts)
+    from .examples import examples_block  # the few-shot conditions (UGR_EXAMPLES; common/examples.py)
+    ex = examples_block(ctx.domain, ctx.setup.setup_id)
+    text = "\n\n".join(parts)
+    return text if ex is None else ex + "\n\n---\n\n" + text
 
 
 def identity_block(env: Environment, ctx: GameContext, seat: int) -> str:

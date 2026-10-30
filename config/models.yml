@@ -208,6 +208,36 @@ models:
       multi: 600
       single: 1800
     logprobs: true
+  qwen_g:                       # = default, served by instance d (local_vllm_g)
+    endpoint: local_vllm_g
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
+  qwen_h:                       # = default, served by instance d (local_vllm_h)
+    endpoint: local_vllm_h
+    model: qwen3.8-27b
+    temperature: 0
+    top_p: null
+    top_k: null
+    max_tokens:
+      multi_talk: 1024
+      multi_vote: 64
+      multi_action: 64
+      single_full: 16384
+    timeout_s:
+      multi: 600
+      single: 1800
+    logprobs: true
   qwen_smoke:                       # = default, served by instance d (local_vllm_q)
     endpoint: local_vllm_q
     model: qwen3.8-27b

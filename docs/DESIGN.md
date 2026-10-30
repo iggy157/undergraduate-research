@@ -507,3 +507,11 @@ v0.1 の他の 6 点は次で確定: 文言は §6.2 案 (パイロット後に�
 - 各席: system = その席の参加者プロンプト (multi-private / multi-public と同一)、user = single-batch の書き手への要求 (`single/prompts/user.jinja` + 出力形式、single-batch-stepped と同一)、assistant = 自席ビューの台本 + 自分の札 (`- **X**:`)。`/tokenize` + `/v1/completions` の続き書き (single-batch-stepped と同じ経路) で、停止列は次の台本要素。モデルは他席の行まで書き続けうるが、サーバが受け取るのは自席の 1 行だけ。票・夜の行動も同じく自席ビューの札 (`- X ->`) の続き書き。
 - 目的: 密度・譲りの差が「全文を 1 回で書く生成目標」によるものか、「1 人が全員分を書く (文脈の非分割)」によるものかを分ける。multi-private との差が目標の効果、single-batch-stepped との差が分割 (+ 情報) の効果。hidden states の gen_point (札トークン) は single-batch-stepped と同じ位置。
 - 記録: llm_call に `continuation`, `prompt_ids`, `prefix_ids` (stepped と同形)。`scripts/extract_hidden.py` は kind = stepped として扱う。
+
+## 16. 議論例 (few-shot) の条件 (2026-10-30)
+
+- 目的: 会話の前に議論例を与えると、生成目標を変えずに発話の長さ・密度・頭の中の長さの読み出しが変わるか。今日の結果 (履歴の文体が長さを決める) との対応を見る。
+- 条件: single-batch と multi-online (multi-private) に、例を 3 本与える。短い例 = 同じモデルの single-batch の局、長い例 = 同じモデルの multi-online の局。どちらも同じドメインの別の設定から、設定名の順で最初の 3 本 (対象の設定自身は除く)。例なしは既存の本実行の局を使う。
+- 入れ方 (common/examples.py、環境変数 UGR_EXAMPLES で有効化): manyshot-ablation の前置き文 (書式の注意の一文は除く) + 発話行だけの台本 3 本を、指示文の先頭に置く。single の書き手にも multi の各席にも同じ文面。manyshot-ablation の決まった返答と毎ターンの一言は入れない (案 A: 違いは例の有無だけ)。
+- サーバ: 例で入力が伸びるので max-model-len を 32768 にした (本実行は 20480)。出力の上限は変えていない (single_full 16384)。温度 0 では上限に届かない限り出力は変わらない。
+- ログ: log/fewshot/<model>__ex-<short|long>/ (局名の条件部分は single-batch / multi-private のまま、フォルダで区別)。例の文面は各通話の記録に指示文として残る。
