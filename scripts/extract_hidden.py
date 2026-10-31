@@ -124,11 +124,32 @@ def build_sequence(tok, call: dict, header: dict) -> tuple[list[int], list[dict]
     return ids, positions, {"n_prompt": n_prompt, "kind": "request"}
 
 
+
+def chunked_hidden(model, ids, want, device, torch, chunk=1024):
+    """The residual stream at the positions ``want`` of one long sequence, computed in chunks of ``chunk`` tokens with
+    the KV cache carried over (the same causal forward as one pass, up to floating-point order). Returns
+    {pos: [n_layers+1, H] tensor}. Used when one pass does not fit in memory (attention of a ~12k-token sequence)."""
+    want = sorted(set(want))
+    out_vecs, past = {}, None
+    with torch.no_grad():
+        for s0 in range(0, len(ids), chunk):
+            x = torch.tensor([ids[s0:s0 + chunk]], device=device)
+            o = model(x, past_key_values=past, use_cache=True, output_hidden_states=True, logits_to_keep=1)
+            past = o.past_key_values
+            for pos in want:
+                if s0 <= pos < s0 + x.shape[1]:
+                    out_vecs[pos] = torch.stack([h[0, pos - s0] for h in o.hidden_states])
+            del o
+    del past
+    return out_vecs
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--game-dir", nargs="+", required=True)
     ap.add_argument("--model-path", required=True, help="HF snapshot directory of the generation model")
     ap.add_argument("--out-dir", default="hidden")
+    ap.add_argument("--chunk-from", type=int, default=8000,
+                    help="sequences longer than this go straight to the chunked forward (one pass needs too much memory)")
     ap.add_argument("--layers", default="every4", help="'all', 'every4', or a comma list of layer indices (0 = embeddings)")
     ap.add_argument("--dtype", default="bfloat16")
     ap.add_argument("--device", default="cuda")
@@ -183,7 +204,7 @@ def main(argv: list[str] | None = None) -> int:
                 rc = 1
             if model is not None and len(ids) <= a.max_len:
                 outp = None
-                for attempt in range(2):
+                for attempt in range(2 if len(ids) <= a.chunk_from else 0):  # long sequences: chunked directly
                     try:
                         with torch.no_grad():
                             x = torch.tensor([ids], device=a.device)
@@ -195,26 +216,48 @@ def main(argv: list[str] | None = None) -> int:
                     except torch.OutOfMemoryError:
                         outp = None
                         torch.cuda.empty_cache()
-                if outp is None:  # skipped: recorded, no positions of this call go into h / positions
-                    index.setdefault("skipped_calls", []).append({"seq": call.get("seq"), "n_tokens": len(ids), "reason": "oom"})
-                    print(f"{gd.name}: call seq {call.get('seq')} skipped (OOM, {len(ids)} tokens)", file=sys.stderr)
-                    continue
-                hs = outp.hidden_states  # tuple(n_layers+1) of [1, T, H]
-                if index["layers"] is None:
-                    n = len(hs)
-                    if a.layers == "all":
-                        sel = list(range(n))
-                    elif a.layers == "every4":
-                        sel = sorted(set(list(range(0, n, 4)) + [n - 1]))
-                    else:
-                        sel = [int(x) for x in a.layers.split(",")]
-                    index["layers"] = sel
-                for p in positions:
-                    vec = torch.stack([hs[l][0, p["pos"]] for l in index["layers"]]).to(torch.float16).cpu().numpy()
-                    feats.append(vec)
-                del outp, hs
-                if len(ids) > 12000:
+                chunk_vecs = None
+                if outp is None:  # too long for one pass: the same forward in chunks with the KV cache carried over
+                    try:
+                        chunk_vecs = chunked_hidden(model, ids, [p["pos"] for p in positions], a.device, torch)
+                    except torch.OutOfMemoryError:
+                        chunk_vecs = None
+                        torch.cuda.empty_cache()
+                    if chunk_vecs is None:  # skipped: recorded, no positions of this call go into h / positions
+                        index.setdefault("skipped_calls", []).append({"seq": call.get("seq"), "n_tokens": len(ids), "reason": "oom"})
+                        print(f"{gd.name}: call seq {call.get('seq')} skipped (OOM, {len(ids)} tokens)", file=sys.stderr)
+                        continue
+                    index.setdefault("chunked_calls", []).append({"seq": call.get("seq"), "n_tokens": len(ids)})
+                    n = len(next(iter(chunk_vecs.values())))
+                    if index["layers"] is None:
+                        if a.layers == "all":
+                            sel = list(range(n))
+                        elif a.layers == "every4":
+                            sel = sorted(set(list(range(0, n, 4)) + [n - 1]))
+                        else:
+                            sel = [int(x) for x in a.layers.split(",")]
+                        index["layers"] = sel
+                    for p in positions:
+                        feats.append(torch.stack([chunk_vecs[p["pos"]][l] for l in index["layers"]]).to(torch.float16).cpu().numpy())
+                    del chunk_vecs
                     torch.cuda.empty_cache()
+                if outp is not None:  # one full pass
+                    hs = outp.hidden_states  # tuple(n_layers+1) of [1, T, H]
+                    if index["layers"] is None:
+                        n = len(hs)
+                        if a.layers == "all":
+                            sel = list(range(n))
+                        elif a.layers == "every4":
+                            sel = sorted(set(list(range(0, n, 4)) + [n - 1]))
+                        else:
+                            sel = [int(x) for x in a.layers.split(",")]
+                        index["layers"] = sel
+                    for p in positions:
+                        vec = torch.stack([hs[l][0, p["pos"]] for l in index["layers"]]).to(torch.float16).cpu().numpy()
+                        feats.append(vec)
+                    del outp, hs
+                    if len(ids) > 12000:
+                        torch.cuda.empty_cache()
             for p in positions:
                 # the generation point = the position from which the first token of the line is predicted: the label
                 # token in batch / stepped, the prompt end (after the generation prompt) in the request conditions

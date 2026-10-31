@@ -26,6 +26,7 @@ sys.path.insert(0, str(ROOT))  # noqa: E402 (common.examples is imported lazily 
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from goal_swap import batch_requests, talk_calls  # noqa: E402
+from extract_hidden import chunked_hidden  # noqa: E402
 
 
 def main(argv=None) -> int:
@@ -36,6 +37,7 @@ def main(argv=None) -> int:
     ap.add_argument("--layers", required=True)
     ap.add_argument("--out-dir", required=True)
     ap.add_argument("--shard", default="0/1")
+    ap.add_argument("--chunk-from", type=int, default=7000, help="longer prompts go through the chunked forward")
     a = ap.parse_args(argv)
     os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")
     import numpy as np
@@ -82,6 +84,7 @@ def main(argv=None) -> int:
     out_dir = Path(a.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     H, meta = [], []
+    n_chunked = 0
     for k, r in enumerate(rows):
         c = calls[r["game_id"]][(r["seat"], r["call_seq"])]
         system = c["messages"][0]["content"]
@@ -101,10 +104,18 @@ def main(argv=None) -> int:
             frames = [online(system, transcript), batch(system, breq[r["setup"]], transcript)]
         per_frame = []
         for ids, gen, lab in frames:
+            if len(ids) > a.chunk_from:  # one pass does not fit (attention of a long prompt): chunked, KV cache carried over
+                vecs = chunked_hidden(model, ids, [gen, lab], "cuda", torch)
+                per_frame.append(torch.stack([torch.stack([vecs[p][l] for l in layers]) for p in (gen, lab)]))
+                del vecs
+                torch.cuda.empty_cache()
+                n_chunked += 1
+                continue
             with torch.no_grad():
                 out = model(torch.tensor([ids], device="cuda"), output_hidden_states=True, logits_to_keep=1)
             hs = out.hidden_states
             per_frame.append(torch.stack([torch.stack([hs[l][0, p] for l in layers]) for p in (gen, lab)]))
+            del out, hs
         H.append(torch.stack(per_frame).to(torch.float16).cpu().numpy())
         meta.append({"game_id": r["game_id"], "setup": r["setup"], "seat": r["seat"], "call_seq": r["call_seq"],
                      "round": r["round"], "turn": r["turn"], "source": r["source"],
@@ -114,7 +125,7 @@ def main(argv=None) -> int:
             print(f"{k + 1}/{len(rows)}", flush=True)
     np.savez(out_dir / f"shard{i}.npz", h=np.stack(H))
     (out_dir / f"shard{i}.json").write_text(json.dumps({"layers": layers, "framings": ["online", "batch"],
-                                                        "positions": ["gen", "label"], "rows": meta}))
+                                                        "positions": ["gen", "label"], "rows": meta, "chunked": n_chunked}))
     print("done", len(meta), flush=True)
     return 0
 

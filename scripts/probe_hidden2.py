@@ -182,11 +182,20 @@ def main(argv=None) -> int:
     ap.add_argument("--rater", default="llama")
     ap.add_argument("--conditions", default=",".join(CORE))
     ap.add_argument("--out", default=None)
+    ap.add_argument("--talk-only", action="store_true", help="drop Skip / Over lines (words = 0) from every target")
+    ap.add_argument("--targets", default=",".join(TARGETS))
+    ap.add_argument("--no-transfer", action="store_true")
     a = ap.parse_args(argv)
     log_dir, hdir = Path(a.log_dir), Path(a.hidden_dir)
     ann = load_annotations(Path(a.annot_dir), a.rater)
     conds = a.conditions.split(",")
     data = {c: load_condition(log_dir, hdir, c, ann) for c in conds}
+    if a.talk_only:  # keep only the rows of talk lines
+        for c, d in data.items():
+            keep = d["t"]["words"] > 0
+            d["X"] = {li: x[keep] for li, x in d["X"].items()}
+            d["B"], d["g"] = d["B"][keep], d["g"][keep]
+            d["t"] = {k: v[keep] for k, v in d["t"].items()}
     out = [f"# Probes v3 ({a.hidden_dir}; annotations {a.annot_dir}, rater {a.rater})\n",
            "Ridge, grouped 5-fold by setup, nested penalty choice. R^2 (r) for words / content, AUC for has_content / answers. "
            "`base` = input features only. Names: multi-batch = multi-private-stepped, multi-online = multi-private.\n"]
@@ -198,7 +207,7 @@ def main(argv=None) -> int:
     for c in conds:
         d = data[c]
         fo = folds_of(d["g"])
-        for t in TARGETS:
+        for t in a.targets.split(","):
             y = d["t"][t]
             m = ~np.isnan(y)
             if m.sum() < 100 or np.nanstd(y[m]) == 0:
@@ -224,10 +233,14 @@ def main(argv=None) -> int:
         if c in curves:
             out.append(f"| {SHORT[c]} | " + " | ".join(f"{s[0]:.2f}" for s in curves[c]) + " |")
     # ---- C: transfer of the words probe (at each condition's best words layer of the source)
+    if a.no_transfer:
+        conds_tr = []
+    else:
+        conds_tr = conds
     out.append("\n## C. Transfer of the words probe (Pearson r on held-out setups; rows = fitted on, columns = applied to)\n")
     out.append("| fitted on \\ applied to | " + " | ".join(SHORT[c] for c in conds) + " |")
     out.append("|---|" + "---|" * len(conds))
-    for src in conds:
+    for src in conds_tr:
         if src not in curves:
             continue
         li = int(np.nanargmax([s[0] for s in curves[src]]))
