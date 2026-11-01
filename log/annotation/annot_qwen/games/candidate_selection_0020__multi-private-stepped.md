@@ -1,0 +1,73 @@
+# candidate_selection_0020__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must learn from the past. I propose we examine the outcomes of the last three internal rollouts.
+- [6] **Daisuke**: I am worried about the budget. I will look into the capital budget and software allowance.
+- [7] **Sakura**: I keep tripping over missing details! I want to check network coverage at customer plants.
+- [8] **Ryuji**: I need to see the actual friction. I will investigate time lost to copying existing records.
+- [9] **Asuka**: We ignore the human cost. I will look into in-house developer availability and staffing of the coordination group.
+- [10] **Servas**: Daisuke, your caution is wise, but history is a better teacher than fear.
+- [11] **Daisuke**: I... I just want to make sure we don't overspend. It feels safer to check the numbers first.
+- [12] **Sakura**: Ooh, Servas is being so serious! I hope I don't get lost in the data maze.
+- [13] **Ryuji**: I agree with Servas. We need to quantify the daily inefficiencies before we commit resources.
+- [14] **Asuka**: If we don't check who is actually working, the project fails before it starts.
+- [15] **Servas**: Asuka, you speak truth. The people are the engine, not the fuel.
+- [16] **Daisuke**: I am listening. I will try to be more direct about my concerns regarding the funding source.
+- [17] **Sakura**: I feel like a detective! I will peek at the vendor licence pricing versus fixed-fee work too.
+- [18] **Ryuji**: I will also look into misrouted deliveries in the incident logs to see the real impact.
+- [19] **Asuka**: I will stick to my two choices. The staffing issue is the critical bottleneck.
+- [20] **Servas**: Let us proceed with these investigations. May the truth guide our hands.
+- [21] **Daisuke**: Okay. I will do my best to find the answers we need.
+- [22] **Sakura**: Yippee! Let's see what secrets are hiding in the files.
+- [23] **Ryuji**: I will remain objective. The data will speak for itself.
+- [24] **Asuka**: Agreed. Let us see the facts.
+## Round 2
+- [35] **Servas**: The pattern is clear. Broad mandates fail; narrow, owned tools survive. We must choose the latter.
+- [36] **Daisuke**: I found the capital line is frozen, but the software allowance has room. We can fund a small tool without new capital.
+- [37] **Sakura**: Whoa! Half the plants have no signal! And licences cost more than fixed fees? That is a trap!
+- [38] **Ryuji**: The logs show eleven misroutes from duplicate addresses. Copying records wastes an hour daily. This is a data hygiene issue.
+- [39] **Asuka**: The developers are gone until Q3. The coordination group is two people doing everything by hand. We cannot add more work.
+- [40] **Servas**: Daisuke, your finding aligns with my own. The software allowance is the path.
+- [41] **Daisuke**: I am relieved. It means we do not need to ask for new money. That feels much less risky.
+- [42] **Sakura**: If the signal is bad, how do we even test the app? I am worried about the field work.
+- [43] **Ryuji**: The misroutes are not about signal. They are about conflicting data. A single source of truth would fix it.
+- [44] **Asuka**: If we build a tool, who maintains it? The two people in the coordination group are already drowning.
+- [45] **Servas**: Asuka, the maintenance burden is real. But a narrow tool for one trade, as my research shows, is easier to sustain.
+- [46] **Daisuke**: I agree. A small tool for one specific problem is easier to manage. I feel better about this direction.
+- [47] **Sakura**: I like the idea of a small tool! But we need to make sure the field techs can actually use it.
+- [48] **Ryuji**: The data loss is the core problem. A tool that standardizes the address entry would stop the misroutes.
+- [49] **Asuka**: If the tool is simple enough, the two people can handle it. But it must be simple.
+- [50] **Servas**: We have the budget, the need, and the evidence. Let us move to the candidates.
+- [51] **Daisuke**: I am ready. I hope we choose the one that is most sustainable.
+- [52] **Sakura**: I am excited! Let's see what the candidates are.
+- [53] **Ryuji**: I will evaluate them based on their ability to reduce the daily friction.
+- [54] **Asuka**: I will evaluate them based on whether they add to the existing workload or reduce it.
+## Round 3
+- [60] **Servas**: Option A addresses the root cause. It creates the single source of truth that prevents the misroutes Ryuji identified.
+- [61] **Daisuke**: Option A seems to fit the software allowance. It is a data tool, not a new capital project. I feel it is the safest choice.
+- [62] **Sakura**: Option D sounds fun, but if the signal is bad, it might not work. Option A feels more solid.
+- [63] **Ryuji**: Option A directly targets the duplicate address problem. It reduces the copying time and the misroutes. It is the logical choice.
+- [64] **Asuka**: Option A requires someone to maintain the catalog. If the coordination group is already overwhelmed, this adds to their burden.
+- [65] **Servas**: Asuka, the maintenance of a data catalog is less demanding than building a new app. It is a stewardship role, not a development one.
+- [66] **Daisuke**: I agree with Servas. It is just managing data, not writing code. That should be manageable for the current staff.
+- [67] **Sakura**: I hope it is easy to use! I don't want the techs to get confused by a new system.
+- [68] **Ryuji**: The data entry is the bottleneck. A shared catalog with review procedures ensures accuracy. It is a process improvement, not just a tool.
+- [69] **Asuka**: If the review procedures are clear, the workload is distributed. It is not just on the coordination group.
+- [70] **Servas**: The pattern from the past shows that narrow, owned tools survive. Option A is a narrow tool for a specific problem.
+- [71] **Daisuke**: I am convinced. It fits the budget, it solves the problem, and it is sustainable. I will vote for A.
+- [72] **Sakura**: I like the idea of everyone having the same information! It feels fair. I will vote for A too.
+- [73] **Ryuji**: The evidence supports A. It addresses the daily losses directly. I will vote for A.
+- [74] **Asuka**: It is the only option that does not require new developers. It is the only one that fits the current staffing reality. I will vote for A.
+- [75] **Servas**: We are in agreement. The past has taught us to choose the sustainable path.
+- [76] **Daisuke**: I feel much better now. We made a careful choice.
+- [77] **Sakura**: Yay! We did it together! I hope it works well.
+- [78] **Ryuji**: The decision is based on reason and evidence. It is the correct one.
+- [79] **Asuka**: It is the only choice that respects the limits of our people.
+### Vote
+- Servas -> A
+- Daisuke -> A
+- Sakura -> A
+- Ryuji -> A
+- Asuka -> A
+## Result
+- adopted: A

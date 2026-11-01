@@ -1,0 +1,73 @@
+# candidate_selection_0011__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry our instincts have failed us before. I want to see what actually finished.
+- [6] **Ryuji**: The people doing the work are the real constraint. I need to know who is left.
+- [7] **Victoria**: Shared facilities are the backbone. I am curious about their current capacity.
+- [8] **Benjamin**: Delays kill projects. I need to see where the bottlenecks are.
+- [9] **Midori**: I am curious about the balance of costs. Who pays for what now?
+- [10] **Shizue**: @Ryuji, that is a fair point. The human element is often overlooked.
+- [11] **Ryuji**: @Shizue, exactly. I want to see the rolls to understand the shift.
+- [12] **Victoria**: @Benjamin, bottlenecks are real. I am checking the facility bookings too.
+- [13] **Benjamin**: @Victoria, yes. I am looking at the incident logs for shared instruments.
+- [14] **Midori**: I am reviewing the closeout files. Data beats intuition.
+- [15] **Shizue**: I will check the staffing rolls. We need to know who is available.
+- [16] **Ryuji**: I will also look at the national computing agreement. It affects costs.
+- [17] **Victoria**: I will check the accreditation status. It tells us about reliability.
+- [18] **Benjamin**: I will look at the portfolio review for schedule overruns.
+- [19] **Midori**: I will also check the station records. Field work is risky.
+- [20] **Shizue**: Let us see what the records say.
+- [21] **Ryuji**: Agreed. The numbers will guide us.
+- [22] **Victoria**: I hope the facilities are holding up.
+- [23] **Benjamin**: We need to avoid the usual traps.
+- [24] **Midori**: We will see.
+## Round 2
+- [35] **Shizue**: The closeout files show catalogue awards last longer. Mechanism ones stall.
+- [36] **Ryuji**: The ledgers show frozen travel costs, but shipping is up. Computing is free now.
+- [37] **Victoria**: The spectroscopy suite was idle for eleven weeks. That is a major risk.
+- [38] **Benjamin**: The portfolio review confirms it. Breeding colonies cause double the overruns.
+- [39] **Midori**: The station records show three sites lost a season. Indoor work is safer.
+- [40] **Shizue**: @Victoria, that idle time is critical. Who covers the gap?
+- [41] **Ryuji**: @Benjamin, so live biology is the main source of delay?
+- [42] **Victoria**: @Shizue, one engineer covers three institutes. It is stretched thin.
+- [43] **Benjamin**: @Ryuji, yes. Computation is safer. The computing agreement helps there.
+- [44] **Midori**: @Ryuji, the field sites lost seasons to weather. Indoor work is safer.
+- [45] **Shizue**: The minutes say the glasshouse crew is full strength. That is good.
+- [46] **Ryuji**: But the animal facility day rates rose sharply. That hurts budget.
+- [47] **Victoria**: The glasshouse is booked solid. We need to be careful with timing.
+- [48] **Benjamin**: If we pick a project needing the spectroscopy suite, we are in trouble.
+- [49] **Midori**: The station records confirm the field risk. Indoor holding rooms were fine.
+- [50] **Shizue**: We must weigh the human resources against the facility risks.
+- [51] **Ryuji**: The cost structure favors computation over animal work.
+- [52] **Victoria**: The shared instrumentation is a weak point.
+- [53] **Benjamin**: Avoid the projects that depend on the broken equipment.
+- [54] **Midori**: The data points to stability over novelty.
+## Round 3
+- [60] **Shizue**: Candidate A is a catalogue. It fits the long-term utility we saw.
+- [61] **Ryuji**: Candidate C uses simulation. The computing agreement makes it cheap.
+- [62] **Victoria**: Candidate C needs the spectroscopy suite. That is the broken one.
+- [63] **Benjamin**: Candidate B is greenhouse work. The crew is strong, but it is booked.
+- [64] **Midori**: Candidate A is field-based. The station records show high risk.
+- [65] **Shizue**: @Midori, if A is field-based, the weather risk is real.
+- [66] **Ryuji**: @Victoria, if C needs the idle suite, it is a no-go.
+- [67] **Victoria**: @Ryuji, correct. The service contract lapsed. It is unreliable.
+- [68] **Benjamin**: @Ryuji, C is safe from schedule overruns, but the equipment is a problem.
+- [69] **Midori**: @Shizue, yes. Three sites lost a season. It is too risky.
+- [70] **Shizue**: Candidate D is amphibian regeneration. That is live breeding.
+- [71] **Ryuji**: @Benjamin, that aligns with the portfolio review. D is risky.
+- [72] **Victoria**: @Ryuji, so we are left with B? The glasshouse is booked, though.
+- [73] **Benjamin**: @Shizue, live breeding causes double the overruns. I would avoid D.
+- [74] **Midori**: @Victoria, B is indoor. The holding rooms were uninterrupted. It is safer.
+- [75] **Shizue**: B seems the most stable. The crew is full strength.
+- [76] **Ryuji**: The costs are manageable. The bench-fee subsidy helps.
+- [77] **Victoria**: The accreditation is renewed. It is a reliable facility.
+- [78] **Benjamin**: It avoids the broken spectroscopy and the breeding delays.
+- [79] **Midori**: It is a mechanism study, but the infrastructure supports it.
+### Vote
+- Shizue -> B
+- Ryuji -> B
+- Victoria -> B
+- Benjamin -> B
+- Midori -> B
+## Result
+- adopted: B

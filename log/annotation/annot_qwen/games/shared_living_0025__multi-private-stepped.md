@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I feel like we’re freezing in here. Can we talk about heating costs?
+- [6] **Ryuji**: I need to see the actual numbers before we agree to anything new.
+- [7] **Rin**: I worry about who has to do the math every single month.
+- [8] **Shunichi**: The old split was for three people. It’s outdated. Let’s fix it.
+- [9] **Misaki**: I want to address how these bills are affecting our communication lately.
+- [10] **Mio**: @Shunichi I agree. But I also want to make sure no one is left shivering.
+- [11] **Ryuji**: @Mio Comfort is important, but I need to know the baseline first.
+- [12] **Rin**: @Ryuji I can help with the math, but I don’t want it to be my job.
+- [13] **Shunichi**: @Rin I’ll handle the analysis. I just need the right data points.
+- [14] **Misaki**: @Rin I appreciate your offer. Let’s keep the tone gentle, though.
+- [15] **Mio**: I’m worried about the winter months specifically. It gets so cold.
+- [16] **Ryuji**: I’ve been setting aside money, but the bills keep changing. It’s unpredictable.
+- [17] **Rin**: If we use a template, maybe it will be faster and less stressful for everyone.
+- [18] **Shunichi**: Predictability is key. I want to see where the money actually goes.
+- [19] **Misaki**: Stress is real. I’ve noticed people avoiding each other after bill reminders.
+- [20] **Mio**: Let’s look into the heating needs and the recent statements.
+- [21] **Ryuji**: I will check the payment log and the electrician’s quote.
+- [22] **Rin**: I want to see the trial run of the reconciliation template.
+- [23] **Shunichi**: I’ll look at the plug-in monitor readings and the last twelve statements.
+- [24] **Misaki**: I want to see the kitchen notice and the winter habits at another house.
+## Round 2
+- [35] **Mio**: The north rooms are freezing. We need a way to cover that extra heat.
+- [36] **Ryuji**: The sub-metering quote is high. I need to see if it’s worth the upfront cost.
+- [37] **Rin**: The template I tried took hours. I don’t want to be the one doing that.
+- [38] **Shunichi**: The monitors show one room uses four times the energy of another. That’s the issue.
+- [39] **Misaki**: I saw a house that pays a fixed seasonal amount. No one argues about the switch.
+- [40] **Mio**: @Shunichi If one room uses so much, should they pay more? It feels unfair.
+- [41] **Ryuji**: @Mio It’s not about fairness, it’s about accuracy. But the quote is steep.
+- [42] **Rin**: @Shunichi I don’t want to be the one calculating that four times difference.
+- [43] **Shunichi**: @Rin I’ll do the math. I just need a method that reflects actual use.
+- [44] **Misaki**: @Mio A fixed amount might stop the arguments. No one has to track the switch.
+- [45] **Mio**: I hate the idea of someone paying for my comfort. But I also hate the cold.
+- [46] **Ryuji**: The payment log shows late payments when amounts changed. That’s a problem.
+- [47] **Rin**: If we use a template, I can do it, but it has to be simple. No hours of work.
+- [48] **Shunichi**: The statements show huge swings. A flat split is definitely wrong. We need data.
+- [49] **Misaki**: The kitchen notice showed people avoiding the cooler to avoid the bill. That’s bad.
+- [50] **Mio**: I think we need a base fee plus a usage fee. That way, no one is punished.
+- [51] **Ryuji**: I agree. But I need to know the exact cost of the meters before I commit.
+- [52] **Rin**: A base fee sounds good. But who calculates the usage part? I don’t want that job.
+- [53] **Shunichi**: I can calculate it. I have the monitor data. Let’s propose a hybrid model.
+- [54] **Misaki**: A hybrid model could work. It reduces the friction. I support looking into that.
+## Round 3
+- [60] **Mio**: Option A sounds the most peaceful. I don’t want to think about bills every month.
+- [61] **Ryuji**: Option B is the most accurate, but the upfront cost is a barrier. I need to weigh that.
+- [62] **Rin**: Option A means I don’t have to do the math. I like that. But is it fair?
+- [63] **Shunichi**: Option B is the only one that reflects the data I have. The others are guesses.
+- [64] **Misaki**: Option A stops the arguments. I’ve seen it work elsewhere. I think it’s the kindest.
+- [65] **Mio**: @Shunichi I know B is accurate, but I’m tired of the stress. A feels safer.
+- [66] **Ryuji**: @Mio I understand. But if the winter bill spikes, A could leave us short. I need to see the numbers.
+- [67] **Rin**: @Ryuji If A is short, we just split the difference. It’s not a big deal.
+- [68] **Shunichi**: @Rin It is a big deal if one person is using four times the energy. A hides that.
+- [69] **Misaki**: @Shunichi It hides the friction. I’d rather hide the friction than the cost.
+- [70] **Mio**: I’m leaning toward A. It makes the house feel like a home, not a business.
+- [71] **Ryuji**: I’m still on the fence. The quote for B is high, but the payment log shows A could cause late payments.
+- [72] **Rin**: I’m voting for A. I don’t want to be the one doing the reconciliation.
+- [73] **Shunichi**: I’m voting for B. It’s the only honest way. I’ll handle the calculations.
+- [74] **Misaki**: I’m voting for A. It protects our relationships. That’s what matters most.
+- [75] **Mio**: I hope we can all agree on A. It feels right for us.
+- [76] **Ryuji**: I’ll think about it. But I’m worried about the winter spike. I might vote B.
+- [77] **Rin**: I’m definitely A. I want my evenings back.
+- [78] **Shunichi**: I’ll stick with B. Accuracy matters. I can’t ignore the data.
+- [79] **Misaki**: I’ll stick with A. Kindness matters more than precision here.
+### Vote
+- Mio -> A
+- Ryuji -> B
+- Rin -> A
+- Shunichi -> B
+- Misaki -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: Hi everyone! I'm so excited to help pick a new service! I want to make sure we choose something that really lasts and stays reliable for everyone. I'll look into winter road closures and bus links!
+- [6] **Benjamin**: It is a pleasure to be here. To ensure we aren't merely reinventing the wheel, I shall examine the two programmes begun six years ago and the attendance sheets from former outreach stops.
+- [7] **Shion**: I'll be looking into the volunteer register and supervision training, as well as the neighbourhood associations and tool certification. It's important to know if we actually have the expertise to manage these proposals.
+- [8] **Minako**: I agree that we need a sustainable plan. To understand our financial stability and how we can maintain a service long-term, I will look into the county grant terms and the endowment, and the running and equipment lines.
+- [9] **Daisuke**: I... I want to make sure we don't leave anyone behind. I'll look into the evening room bookings and remote catalogue use, and also the quoted delivery windows from suppliers.
+- [10] **Yumi**: Does anyone else think we should check the delivery windows? I'm a bit worried about things getting delayed. @Daisuke, do you think that's the most important thing to check for the people who can't reach us?
+- [11] **Benjamin**: @Yumi, while delays are tedious, I suspect the historical data on our previous attempts will be far more illuminating. @Daisuke, I believe your focus on access and timing is a prudent complement to my research.
+- [12] **Shion**: @Yumi, worrying about delivery windows is a bit narrow. I'm more concerned with whether we have the actual skills on staff to run these services once they arrive. Logic suggests that's the real bottleneck.
+- [13] **Minako**: @Shion, you make a fair point about skills, but we must also ensure the funding structure doesn't collapse after the first year. I believe my focus on the grants and budget lines will address that.
+- [14] **Daisuke**: I... I think the delivery windows are just one part. I'm more worried about who can actually get to the library and when. I hope the room bookings will show if we're missing people.
+- [15] **Yumi**: That makes sense, @Daisuke! I just want everything to go smoothly. I'm still really curious about those bus links and the roads, because if people can't get to us, the best service in the world won't help!
+- [16] **Benjamin**: Indeed, @Yumi. Accessibility is the cornerstone of public service. I merely hope that by looking at the outreach records, we can see if bringing the service to the people is more viable than bringing the people to us.
+- [17] **Shion**: @Benjamin, that's a reasonable hypothesis. However, if the outreach failed because of a lack of qualified supervision, the location was irrelevant. I'll see if our current roster can actually support such an expansion.
+- [18] **Minako**: It seems we are all looking at different pieces of the same puzzle. I will focus on the financial framework to ensure that whatever we decide is not just a temporary success, but a permanent asset.
+- [19] **Daisuke**: I... I agree. I just hope that by looking at the catalogue use and the bookings, we can find a way to reach the people who can't make it in during the day.
+- [20] **Yumi**: I think we've got a great plan! We're covering money, skills, history, and access. I can't wait to see what we find out so we can pick the best possible service for everyone!
+- [22] **Benjamin**: I concur. We have cast a wide net. I look forward to seeing if the ghosts of our past initiatives provide a map for our future success.
+- [24] **Shion**: I'm satisfied with the distribution. Let's see if the data supports a logical choice or if we're just guessing. I'll be waiting for the results.
+- [26] **Minako**: I am also satisfied. We have a comprehensive approach that balances logistics, finance, and human resources. I look forward to reviewing the findings with you all.
+- [28] **Daisuke**: I... I hope the information helps us make the right choice. I'll do my best to share what I find.
+## Round 2
+- [40] **Yumi**: Oh no, I found some really worrying news! Two of our outer wards lost their bus links, so it takes people an hour just to get to a counter. We really need to help them!
+- [41] **Benjamin**: That is quite distressing, @Yumi. Interestingly, my research shows that former outreach stops in those outer wards were remarkably popular, drawing more visitors than the main building does midweek. It seems the demand is certainly there.
+- [42] **Shion**: The demand is irrelevant if we can't manage it. I've found that while we have some skilled volunteers, we have absolutely no one on the payroll trained to supervise outside facilitators. We are missing a critical layer of management.
+- [43] **Minako**: I have found that our funding structure is precarious. County grants only cover session fees for the first year, meaning the operating budget must absorb those costs thereafter. Additionally, vehicle running costs overran significantly last year.
+- [44] **Daisuke**: I... I found that our evening rooms are always full, but people are using the catalogue from home very late at night. Also, the scanning contractors have unreliable delivery windows.
+- [45] **Yumi**: @Minako, if the vehicle costs are already too high, does that mean a mobile service would be too expensive? But @Benjamin, if the outer wards really want the service, we have to find a way!
+- [46] **Benjamin**: @Yumi, it is a delicate balance. However, my findings also reveal that partner-run evening groups from six years ago still meet unaided. This suggests that community-led models are far more resilient than our own managed attempts.
+- [47] **Shion**: @Benjamin, that's a convenient observation, but it proves my point. We lack the internal capacity to supervise. If we choose a service requiring professional certification or oversight, we're setting ourselves up for failure.
+- [48] **Minako**: @Shion, you are correct that internal supervision is a risk. However, we must also consider that any service relying on the county grant will become a financial burden on our flat budget after one year. We need a model that is both manageable and fiscally sustainable.
+- [49] **Daisuke**: I... I'm worried about the scanning contractors. If their delivery windows keep slipping, a digital project might get delayed. But the late-night catalogue use shows people really want access when the building is closed.
+- [50] **Yumi**: @Daisuke, that's so true! People are trying to use the library even when it's closed. But @Minako, if the bus links are gone, maybe we can't just rely on the building at all? We have to reach them!
+- [51] **Benjamin**: @Yumi, your passion is well-placed. Given that outreach was historically successful and community-led groups are enduring, we should prioritize a model that empowers the residents rather than one that relies on our own fragile infrastructure.
+- [52] **Shion**: @Benjamin, empowering residents is a fine sentiment, but it's a gamble. If we lack the staff to supervise, we can't just hope for the best. We need a service that doesn't require specialized certification we can't maintain.
+- [53] **Minako**: @Shion, I agree that we cannot gamble with safety or certification. However, we must also avoid a service that creates a permanent deficit in our operating budget. A model with low overhead and minimal staff supervision seems most logical.
+- [54] **Daisuke**: I... I think we should be careful. If the rooms are full and the buses are gone, maybe something that doesn't require people to travel or wait for a building to open is best.
+- [55] **Yumi**: I agree with @Daisuke! If people can't get here and the rooms are full, we need to be flexible. I really want to help those in the outer wards who are stranded!
+- [56] **Benjamin**: It seems we are converging on a need for accessibility and sustainability. If we avoid high-maintenance infrastructure and instead leverage community resilience, we can serve those outer wards without risking a financial or managerial collapse.
+- [57] **Shion**: @Benjamin, your "community resilience" is just a euphemism for lack of oversight. If we can't certify tools or supervise facilitators, we must avoid any proposal that requires technical certification or professional management. Logic dictates we choose the path of least risk.
+- [58] **Minako**: I agree with @Shion that we must minimize risk. Given the budget's tendency to thin and the lack of supervisory staff, we should avoid high-overhead options like vehicles or specialized technical workshops. A low-maintenance, community-supported model is the most stable path.
+- [59] **Daisuke**: I... I think we should look for something that doesn't depend on the buses or the building's hours. If we can reach people where they are, or online, it might be the safest way to help everyone.
+## Round 3
+- [65] **Yumi**: Looking at the options, I think Language Learning Circles are wonderful! They use partner organizations, which helps with the supervision @Shion mentioned, and they can happen across the district to help people without buses!
+- [66] **Benjamin**: I find myself in agreement with @Yumi. The Language Learning Circles align perfectly with the success of the partner-run groups I discovered. It leverages community resilience while bypassing our internal supervisory deficits and the bus crisis.
+- [67] **Shion**: @Benjamin, @Yumi, you've actually made a logical case. Since the circles are coordinated with partner organizations, the supervisory burden doesn't fall on our unqualified staff. It avoids the certification issues of the workshop and the costs of the mobile service.
+- [68] **Minako**: I agree. The Language Learning Circles are the most sustainable choice. They avoid the high vehicle costs of the mobile service and the certification risks of the workshop, while the partner coordination protects our operating budget.
+- [69] **Daisuke**: I... I agree. The circles can happen across the district, so people without buses can still join. It seems like the best way to reach everyone without relying on the building's hours.
+- [70] **Yumi**: I'm so happy we all agree! It feels like the Language Learning Circles really solve all the problems we talked about. It's the kindest and most helpful choice for everyone in our community!
+- [71] **Benjamin**: It is a rare pleasure when logic and empathy align so perfectly. By choosing a model that empowers partners, we avoid the pitfalls of our own administrative history and the current logistical failures.
+- [72] **Shion**: It is the only option that doesn't create a new liability. We avoid the vehicle budget drain, the contractor delays, and the lack of certified staff. It is the most rational decision.
+- [73] **Minako**: Indeed. It is the only proposal that addresses the accessibility issues without creating a long-term financial drain or a management crisis. It is a stable, scalable solution that fits our current constraints.
+- [74] **Daisuke**: I... I feel much better now that we've found a solution. It's a relief to know we can help the people in the outer wards without worrying about the buses or the building's limits. I'll vote for the circles.
+- [75] **Yumi**: I'll definitely vote for the Language Learning Circles! It's just so wonderful that we found a way to bring people together and help everyone, no matter where they live!
+- [76] **Benjamin**: My vote is also for the Language Learning Circles. It is the only proposal that respects both the historical evidence of community success and our current institutional limitations.
+- [77] **Shion**: I will also vote for the Language Learning Circles. It is the only choice that logically bypasses our lack of supervisory staff and avoids unnecessary financial risk.
+- [78] **Minako**: I will also vote for the Language Learning Circles. It is the most fiscally responsible and manageable option, ensuring we provide a service that remains viable long after the initial grant expires.
+- [79] **Daisuke**: I'll vote for the Language Learning Circles too. It's the best way to make sure everyone is included.
+- [80] **Yumi**: Yay! I'm so glad we could all work together to find the best answer. I'm voting for the Language Learning Circles!
+- [82] **Benjamin**: My vote is cast for the Language Learning Circles. It has been a most productive deliberation, and I am pleased that we have arrived at a conclusion based on evidence rather than mere intuition.
+- [84] **Shion**: My vote is for the Language Learning Circles. It is the only option that satisfies the constraints of our budget, staff skills, and accessibility.
+- [86] **Minako**: My vote is for the Language Learning Circles. It is the only proposal that ensures long-term financial stability and operational viability.
+- [88] **Daisuke**: My vote is for the Language Learning Circles. I'm glad we could find a way to help everyone.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

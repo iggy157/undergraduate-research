@@ -1,0 +1,73 @@
+# shared_living_0013__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Shizue**: I worry about who we sit beside. It shapes our week more than the walls do.
+- [6] **Toshio**: We should decide who gets the worse seats on purpose, not by accident.
+- [7] **Daisuke**: I... I think we should check the costs first. The budget hasn't changed.
+- [8] **Mio**: My mornings are already tight. I need to know what the change will take from us.
+- [9] **Shunichi**: Comfort is invisible on a map. I want it written down before we move.
+- [10] **Shizue**: @Toshio, yes. If we don't talk about it, it just happens to us.
+- [11] **Toshio**: @Shizue, exactly. Habit is a poor manager.
+- [12] **Daisuke**: @Mio, I agree. Knowing the time cost helps me feel less anxious about it.
+- [13] **Mio**: @Daisuke, thanks. It’s not just time, it’s the energy to start the day.
+- [14] **Shunichi**: @Shunichi, I’ll look into the physical setup. The rest is just noise.
+- [15] **Shizue**: I’d like to see what the new people have said about how they learned here.
+- [16] **Toshio**: I’ll check the past shuffles. They show what happens when we don’t plan.
+- [17] **Daisuke**: I’ll look at the billing basis. I need to know the real monthly cost.
+- [18] **Mio**: I’ll check the morning routine upstairs. It’s the closest thing to our situation.
+- [19] **Shunichi**: I’ll get the sound readings and the physio note. Those are the real issues.
+- [20] **Shizue**: Let’s see what we find. I hope it helps us talk more openly.
+- [21] **Toshio**: We will. I’ll be watching for the quiet costs.
+- [22] **Daisuke**: Okay. I’ll try to stay calm while we look into this.
+- [23] **Mio**: I’m excited to see the data. It might make this less scary.
+- [24] **Shunichi**: Good. Let’s get the facts so we can stop guessing.
+## Round 2
+- [35] **Shizue**: The new joiners learned by listening. If we scatter them, they lose that.
+- [36] **Toshio**: The last two shuffles took two weeks each. We can’t afford that again.
+- [37] **Daisuke**: The billing is by area, not people. Empty desks still cost us 41,000 yen a month.
+- [38] **Mio**: Upstairs, just setting up took up to nine minutes. That’s a lot of my morning gone.
+- [39] **Shunichi**: The printer side is nine decibels louder. And my chair takes days to adjust properly.
+- [40] **Shizue**: @Daisuke, that’s a lot of money for empty space. We need to be efficient.
+- [41] **Toshio**: @Shunichi, if the noise is that bad, we have to assign the quiet spots deliberately.
+- [42] **Daisuke**: @Shizue, yes. And moving desks costs 6,200 yen each time. We should be careful.
+- [43] **Mio**: @Toshio, I agree. If we rotate, we lose the setup time every time.
+- [44] **Shunichi**: @Mio, exactly. If we move often, I never get my chair right.
+- [45] **Shizue**: The survey says daylight is the biggest complaint. The plan gives it to only four.
+- [46] **Toshio**: So the window seats are the prize. We need to decide who gets them.
+- [47] **Daisuke**: If we fix the desks, we pay once. If we rotate, we pay every time.
+- [48] **Mio**: But if we fix them, the people without windows are stuck there forever.
+- [49] **Shunichi**: Unless we rotate blocks. But then I lose my chair settings every time.
+- [50] **Shizue**: Maybe we can rotate blocks, but keep the window seats for those who need them?
+- [51] **Toshio**: That’s a start. We need a rule for who gets the good spots.
+- [52] **Daisuke**: I think fixed desks by function might be best. It’s cheaper and stable.
+- [53] **Mio**: But what about the morning setup time? That’s still a problem.
+- [54] **Shunichi**: If we fix the desks, I can finally get my chair right. I’m for that.
+## Round 3
+- [60] **Shizue**: Option B seems to respect the need for stability and daylight.
+- [61] **Toshio**: Option B lets us assign the window seats deliberately. I prefer that.
+- [62] **Daisuke**: Option B is the cheapest. We only pay the facilities fee once.
+- [63] **Mio**: Option B means I have to set up every morning, but it’s predictable.
+- [64] **Shunichi**: Option B is the only one where I can keep my chair settings.
+- [65] **Shizue**: @Mio, is the setup time really that bad? I worry about your mornings.
+- [66] **Toshio**: @Shizue, it’s four to nine minutes. It’s manageable if we plan it.
+- [67] **Daisuke**: @Shunichi, I’m glad you’re happy. It’s good to have one thing settled.
+- [68] **Mio**: @Toshio, I think I can handle it. I just need to know it’s not going to change.
+- [69] **Shunichi**: @Daisuke, thanks. It’s a small thing, but it matters to me.
+- [70] **Shizue**: What about the new joiners? Will they still be able to overhear things?
+- [71] **Toshio**: If we group by function, they’ll be near people doing similar work.
+- [72] **Daisuke**: That might help them learn faster. I think it’s a good idea.
+- [73] **Mio**: I hope so. I want them to feel welcome, not isolated.
+- [74] **Shunichi**: As long as they’re not in the noisy row, it should be fine.
+- [75] **Shizue**: I think we’re all leaning toward B. It feels fair and practical.
+- [76] **Toshio**: I agree. It’s the most deliberate choice.
+- [77] **Daisuke**: I’m comfortable with it. It’s the most stable option.
+- [78] **Mio**: I’ll vote for B. I can live with the setup time.
+- [79] **Shunichi**: I’m voting for B. My back will thank me.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

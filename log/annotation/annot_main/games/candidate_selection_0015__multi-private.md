@@ -1,0 +1,73 @@
+# candidate_selection_0015__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: I believe we should prioritize stability and reliability. I would like to look into the winter road closures north of the river and the bus links in the two outer wards.
+- [6] **Yumi**: That sounds like a great start, Ryuji! I'm really interested in how people actually get to us. I'll look into the bus links in the two outer wards and the attendance sheets from former outreach stops!
+- [7] **George**: I agree that accessibility is key. However, I am concerned about the long-term financial structure. I will look into the county grant terms and the endowment, as well as the running and equipment lines last year.
+- [8] **May**: Everyone is so focused on the future! I think we should see what actually happened in the past. I'll look into the two programmes begun six years ago and the attendance sheets from former outreach stops.
+- [9] **Daisuke**: Um... I think it's important to know if we have enough help. I'll look into the volunteer register and supervision training, and... the neighbourhood associations and tool certification.
+- [10] **Ryuji**: It seems we have a broad range of interests. I am curious if anyone else feels that our current operations are too vulnerable to external factors beyond our immediate control.
+- [11] **Yumi**: I totally get that! It's scary to think that something as simple as a road closure or a bus schedule could stop someone from visiting. We should definitely make sure everyone can reach us easily!
+- [12] **George**: While accessibility is important, we must ensure the funding is sustainable. If the financial foundation is unstable, even the best transport links won't save a program in the long run.
+- [13] **May**: @George, you're so serious! But really, why guess about sustainability when we have records? I bet we've already tried "sustainable" ideas that flopped. Let's see if history has any lessons for us first.
+- [14] **Daisuke**: I... I agree that history is useful. But I'm just worried that if we start something new, the staff might be too overwhelmed. I hope we can find a way to support them.
+- [15] **Ryuji**: @Daisuke, your concern about staff capacity is valid. However, if we ignore the external variables that disrupt our schedules, we risk overloading the staff with failed initiatives. We must ensure the plan is resilient.
+- [16] **Yumi**: @Ryuji, you're so right! If we can figure out the best ways for people to get here, it'll make everything run smoother for the staff too. Let's make sure no one gets left behind!
+- [17] **George**: I appreciate the enthusiasm, but we must not overlook the structural side of things. A resilient plan requires a financial framework that doesn't crumble after a year. Let us see what the data reveals first.
+- [18] **May**: @George, you're treating this like a math problem! Data is great, but only if you're looking at the right data. I'm more interested in the ghosts of projects past than a spreadsheet of grants.
+- [19] **Daisuke**: I... I just don't want anyone to get burned out. I hope the volunteer register shows we have enough people to help, so the staff don't have to do everything themselves.
+- [20] **Ryuji**: It seems we have a consensus on the need for a comprehensive view. I will stick with my choices to assess external risks, as stability is the prerequisite for any successful expansion.
+- [21] **Yumi**: I'm with you, Ryuji! I'll stick with my choices too. I really want to see who we've been reaching and how we can make it even easier for everyone to join in! Let's do this!
+- [22] **George**: I shall also remain with my selections. Understanding the nature of our funding is the only way to ensure we don't overextend ourselves. I look forward to seeing the results.
+- [23] **May**: I'll stick with mine too. I'm dying to see what those old programs were and why they're gathering dust. Let's hope the past gives us a little more excitement than a budget report!
+- [24] **Daisuke**: I... I'll stick with my choices too. I just hope we can find a way to make sure the people working here are okay. I'll see what I can find out.
+## Round 2
+- [35] **Ryuji**: The data confirms my fears. The loss of bus links has created a significant barrier for residents, and while community halls managed, our reliance on external transport makes our services fragile. We need a solution that doesn't depend on these variables.
+- [36] **Yumi**: Oh no, that's terrible! People in the outer wards have to travel an hour just to reach us? And they used to come in such big numbers! We absolutely have to find a way to get back to them!
+- [37] **George**: My findings confirm a structural flaw. The grant only covers the first year, leaving the operating budget to struggle later. Furthermore, we are mismanaging funds, letting equipment budgets lapse while running costs spiral. We must address this.
+- [38] **May**: It's just as I thought! We have these "ghosts" in the system. One project was a total mess, but another is still running perfectly without any help. Why are we ignoring what actually works?
+- [39] **Daisuke**: I... I found something worrying. We have volunteers, but no staff are trained to supervise them. Also, the person who certified our power tools retired. I'm afraid we don't have the actual skills on staff to manage new things.
+- [40] **Ryuji**: @Daisuke, that is a critical point. Between the lack of supervision training and the transport failures, we are operating on a foundation of luck. We cannot propose an expansion that relies on unstable transport or untrained staff.
+- [41] **Yumi**: @Ryuji, I agree that we can't rely on luck, but we can't just give up on those people! If they can't get to us, we have to bring the library to them. It's not fair!
+- [42] **George**: @Yumi, bringing the library to them sounds noble, but look at the ledger. Our vehicle running costs already overran by a third last year. We cannot expand outreach if we cannot afford the fuel.
+- [43] **May**: @George, you're still staring at the pennies! We have a partner-run group that's been thriving for six years without a dime of our budget. Why not just copy that model instead of fighting over fuel costs?
+- [44] **Daisuke**: I... I think May might be right. If we use a model where others help lead, maybe the staff won't be so overwhelmed. But we still need someone who can actually supervise them...
+- [45] **Ryuji**: @May, a partner-run model could reduce our dependence on county transport and budgets. However, @Daisuke's point remains: without supervision training, we are simply shifting the risk. We need a plan that is both autonomous and properly managed.
+- [46] **Yumi**: @Ryuji, @Daisuke, you're both right! But we can't forget those people in the outer wards. If we find a way to train supervisors and use May's partner model, we can reach them without breaking the bank!
+- [47] **George**: @Yumi, your optimism is noted, but we must be realistic. If the grant only covers the first year, any new "partner model" will eventually drain our operating budget. We need a plan with a sustainable funding structure.
+- [48] **May**: @George, you're such a killjoy! If a group has survived six years unaided, it's already proven it doesn't need your precious budget. Why keep inventing "sustainable" plans when we have a living example of one?
+- [49] **Daisuke**: I... I just worry that even a partner model puts pressure on the staff to coordinate everything. If we don't have the training to supervise, it might just create more stress for them in the end.
+- [50] **Ryuji**: We must prioritize a model that minimizes external dependencies. If we can implement a partner-led system that operates independently of our transport and budget, while simultaneously addressing the supervision gap, we achieve true stability.
+- [51] **Yumi**: I totally agree! Let's find a way to bring the library back to the outer wards using that partner model. If we can fix the supervision part, we can help everyone without worrying about the buses!
+- [52] **George**: I will concede that a partner-led model is promising, provided it does not create a hidden financial burden. However, we must ensure the proposal includes a clear plan for supervision training to avoid the risks @Daisuke mentioned.
+- [53] **May**: Finally! It only took a few rounds of arguing for you all to see the light. Let's just stop overthinking and pick the one that actually works in the real world. I'm ready to vote!
+- [54] **Daisuke**: I... I'm glad we're thinking about the staff. If the proposal we choose includes training and doesn't just add more work to their plates, then I think I can support it. I'll do my best.
+## Round 3
+- [60] **Ryuji**: Option A is the most resilient choice. It utilizes partner organizations to bypass our transport failures and budget constraints, and it includes trained facilitators, which addresses the supervision gap @Daisuke highlighted.
+- [61] **Yumi**: I love Option A too! It's the perfect way to reach the people in the outer wards who lost their buses, and since it's coordinated with partners, it's much fairer for everyone!
+- [62] **George**: Option A is the most fiscally responsible choice. By utilizing partner organizations and trained facilitators, it avoids the recurring vehicle costs and the funding cliff that would plague Option D. It is a sustainable model.
+- [63] **May**: Option A is the only one that isn't just a fancy guess. It's basically the partner-run model I found that's already survived six years. Why gamble on the others when we have a winner?
+- [64] **Daisuke**: I... I think Option A is the safest. Since it uses trained facilitators and partners, it doesn't just dump everything on the staff. It seems like the only one that won't make them too overwhelmed.
+- [65] **Ryuji**: It is rare that we reach such a swift consensus. Option A minimizes our reliance on external transport and funding while ensuring professional oversight. I see no reason to consider the other options.
+- [66] **Yumi**: I agree! It's just so wonderful that we found a way to help the people in the outer wards without making things harder for the staff. I'm so happy we're all on the same page!
+- [67] **George**: Indeed. Option A avoids the pitfalls of the other candidates. It does not rely on a vehicle we cannot afford to run, nor does it create a sudden budget deficit after the first year. It is a sound decision.
+- [68] **May**: @George, look at you, finally agreeing with me! It's almost cute. Since we've all realized that the "tried and true" path is the best one, let's just wrap this up before you find something else to worry about.
+- [69] **Daisuke**: I... I feel much better now that we've all agreed. If Option A really does provide the training and support needed, then I'm happy to vote for it. Thank you for listening to me.
+- [70] **Ryuji**: I believe we have thoroughly analyzed the risks. Option A is the only proposal that ensures stability by removing our dependence on volatile external conditions. I am satisfied with this choice.
+- [71] **Yumi**: Me too! It's just so exciting to know we can bring people together again. I can't wait to see the smiles on the faces of the people in the outer wards!
+- [72] **George**: I am also satisfied. It is a rare occasion where the most practical solution also happens to be the most sustainable one. I believe this is the most prudent path forward for the library.
+- [73] **May**: I'm just glad we stopped pretending that "new" means "better." Let's just vote for A and get this over with before someone decides to check the budget for the tenth time!
+- [74] **Daisuke**: I... I agree. It feels like the right choice for everyone, including the staff. I'm ready to vote for Option A.
+- [75] **Ryuji**: Since we have all reached a consensus based on the evidence and our shared concerns, I will cast my vote for Option A. It is the most stable and reliable path forward.
+- [76] **Yumi**: I'm voting for Option A too! It's the best way to make sure everyone can reach us and feel included. I'm so glad we could find a solution that helps everyone!
+- [77] **George**: I shall also cast my vote for Option A. It is the only proposal that addresses the structural funding issues and avoids unsustainable operational costs. It is the most responsible choice.
+- [78] **May**: I'm voting for Option A. It's the only one that actually respects the lessons of the past instead of just dreaming up new ways to fail. Let's get this done!
+- [79] **Daisuke**: I... I'll vote for Option A as well. I'm really glad we're choosing a plan that supports the staff and doesn't leave them struggling. Thank you everyone.
+### Vote
+- Ryuji -> A
+- Yumi -> A
+- George -> A
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

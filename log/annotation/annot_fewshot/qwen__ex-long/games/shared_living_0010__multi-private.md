@@ -1,0 +1,73 @@
+# shared_living_0010__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The informal system has failed. We need to quantify the actual time burden before committing to a new structure.
+- [6] **Mio**: I’m worried the same people keep getting stuck with the mess! I want to see who’s actually here and who’s doing the work.
+- [7] **Victoria**: I’m concerned about the underlying tension. I want to see the house chat rows and what each person considers "done" to understand the friction.
+- [8] **Rin**: I’m worried about the money! Who keeps buying the bleach and sponges? I want to see the receipts and the chat rows to find the debt!
+- [9] **Daisuke**: I just want to know what "done" actually means. I’m scared of guessing if a room is clean. I’ll check the definitions and the chat rows.
+- [10] **Ryuji**: @Mio, tracking absences is critical. If the workload isn't distributed evenly, the system collapses. I will examine the wall calendar and the stopwatch timing.
+- [11] **Mio**: @Ryuji, I agree! I’ll check the wall calendar and the fortnight’s kitchen watch to see who’s actually here and using the space.
+- [12] **Victoria**: @Mio, the calendar shows presence, but the chat reveals resentment. I will examine the house chat rows and the previous tenants' note to understand the unspoken rules.
+- [13] **Rin**: @Mio, the calendar is great! But I need the money trail. I’ll check the bathroom spray receipts and the management office billing to see who’s paying!
+- [14] **Daisuke**: I’m still unsure. I’ll check the bathroom grout after the July scrub and the stopwatch timing. I need to see what "done" looks like in reality.
+- [15] **Ryuji**: I will examine the stopwatch timing of a full pass and the standard terms of the outside firm. I need to verify if outsourcing actually removes the hours.
+- [16] **Mio**: I’m all set! I’ll check the wall calendar and the fortnight’s kitchen watch. Let’s see who’s actually here and using the space!
+- [17] **Victoria**: I will examine the house chat rows and the previous tenants' note. I need to understand the unspoken rules and the friction before we decide.
+- [18] **Rin**: I’m all set! I’ll check the bathroom spray receipts and the management office billing. I need to find out who’s actually paying for the bleach!
+- [19] **Daisuke**: I’ll check the bathroom grout after the July scrub and the stopwatch timing. I need to see what "done" actually looks like.
+- [20] **Ryuji**: I will examine the stopwatch timing of a full pass and the standard terms of the outside firm. I need to verify if outsourcing actually removes the hours.
+- [21] **Mio**: I’m all set! I’ll check the wall calendar and the fortnight’s kitchen watch. Let’s see who’s actually here and using the space!
+- [22] **Victoria**: I will examine the house chat rows and the previous tenants' note. I need to understand the unspoken rules and the friction before we decide.
+- [23] **Rin**: I’m all set! I’ll check the bathroom spray receipts and the management office billing. I need to find out who’s actually paying for the bleach!
+- [24] **Daisuke**: I’ll check the bathroom grout after the July scrub and the stopwatch timing. I need to see what "done" actually looks like.
+## Round 2
+- [35] **Ryuji**: The timing confirms my fear: over two hours per pass. The firm’s terms are a trap; they require pre-tidying, so the hours remain. We must account for this.
+- [36] **Mio**: @Ryuji, two hours is huge! But my kitchen watch shows only two or three people actually cook. The rest just make coffee. Why are we all cleaning the same mess?
+- [37] **Victoria**: @Mio, the previous tenants divided rooms permanently. By year two, two barely spoke. We must avoid that silence.
+- [38] **Rin**: @Mio, two hours is scary! But I found the receipts: we spend 2,300 yen monthly, often buying the same spray twice! Who’s paying for that?
+- [39] **Daisuke**: I found the grout spots back in eleven days. That’s too fast to guess. I need a clear rule so I don’t have to worry.
+- [40] **Ryuji**: @Daisuke, eleven days is unacceptable. The stopwatch proves the burden is real. We need a system that prevents that rapid decay, not just guesses.
+- [41] **Mio**: @Daisuke, I get it! But my calendar shows two people are gone for weeks. If they’re absent, they shouldn’t count the same as us!
+- [42] **Victoria**: @Mio, absence is a fact, but resentment is a choice. The chat shows rows start with reminders, not requests. We need a system that prevents that passive aggression.
+- [43] **Rin**: @Victoria, passive aggression is bad! But I found the office bills one person 4,200 yen an hour! Who collects the rest?
+- [44] **Daisuke**: @Rin, four thousand yen is a lot. I just want to know if the grout will stay clean if we follow a strict rule.
+- [45] **Ryuji**: @Rin, the 4,200 yen rate is irrelevant if the firm requires pre-tidying. The hours remain. We must design a rotation that accounts for the two-hour reality, not just the cost.
+- [46] **Mio**: @Ryuji, I agree! But if two people are gone for weeks, they shouldn’t carry the same load. We need a fair split based on who’s actually here!
+- [47] **Victoria**: @Ryuji, I agree the hours are real. But the previous tenants’ silence proves rigid systems isolate us. We need a structure that keeps us talking, not just cleaning.
+- [48] **Rin**: @Ryuji, the hours are scary, but the money is scarier! I found we buy the same spray twice! Who is paying for that mess?
+- [49] **Daisuke**: @Ryuji, I’m sorry. I just need to know if the grout stays clean if we follow a strict rule. I’m scared of guessing.
+- [50] **Ryuji**: @Daisuke, strict rules fail without presence. The stopwatch shows two hours of work. We need a rotation that accounts for absences, not just rigid definitions.
+- [51] **Mio**: @Ryuji, exactly! My calendar proves it. Two people are gone for weeks, yet they count the same. We need a split based on who’s actually here!
+- [52] **Victoria**: @Ryuji, I agree. But the previous tenants’ silence shows that rigid rules isolate us. We need a structure that keeps us talking, not just cleaning.
+- [53] **Rin**: @Ryuji, I agree! But I need to know who pays the 4,200 yen bill! I found we buy spray twice! Who is out of pocket right now?
+- [54] **Daisuke**: @Ryuji, I’m sorry. I just need to know if the grout stays clean if we follow a strict rule. I’m scared of guessing.
+## Round 3
+- [60] **Ryuji**: The firm’s terms confirm outsourcing is a trap. They require pre-tidying, so the two-hour burden remains. Option C fails to remove the hours.
+- [61] **Mio**: @Ryuji, I agree! But Option B’s fixed rota ignores my calendar. If I’m gone for weeks, I shouldn’t be stuck with the kitchen!
+- [62] **Victoria**: @Mio, I hear you. But Option A’s permanent ownership mirrors the previous tenants’ silence. We need a structure that keeps us talking, not just cleaning.
+- [63] **Rin**: @Mio, Option C is a money trap! The 4,200 yen bill goes to one person! I need to know who pays the bleach costs in Option B!
+- [64] **Daisuke**: @Ryuji, I’m scared of Option A. If I own the bathroom, the grout spots back in eleven days. I need a clear rule so I don’t have to guess.
+- [65] **Ryuji**: @Mio, absence is a variable, not an excuse. Option B’s published order allows for documented swaps. We must verify the rotation accounts for the two-hour reality before rejecting it.
+- [66] **Mio**: @Ryuji, I get it! But if I’m gone, I can’t clean. Option A lets me pick my timing, so I only do my share when I’m actually here!
+- [67] **Victoria**: @Mio, Option A’s silence is the trap. Option B’s rotation forces interaction. We need a structure that keeps us talking, not just cleaning.
+- [68] **Rin**: @Victoria, talking is nice, but I need to know who pays! Option C’s 4,200 yen bill goes to one person. Who covers the bleach in Option B?
+- [69] **Daisuke**: @Victoria, I’m sorry. I just need to know if the grout stays clean if we follow a strict rule. I’m scared of guessing.
+- [70] **Ryuji**: @Daisuke, the stopwatch proves the grout decays in eleven days. Option B’s fixed weekly cycle forces a pass before that threshold. It is the only structure that prevents the rapid decay you fear.
+- [71] **Mio**: @Ryuji, I get it! But Option B’s fixed weeks ignore my calendar. If I’m gone, I can’t clean. Option A lets me pick my timing, so I only do my share when I’m actually here!
+- [72] **Victoria**: @Mio, I understand the need for flexibility. But Option A’s permanent ownership isolates us. Option B’s rotation forces interaction. We need a structure that keeps us talking, not just cleaning.
+- [73] **Rin**: @Mio, Option A is a money disaster! If I own the bathroom, I buy the spray twice! I need a fair split for the bleach costs!
+- [74] **Daisuke**: @Ryuji, that makes sense. If the grout is checked every week, I won’t have to guess. I feel a bit safer knowing there is a clear rule.
+- [75] **Ryuji**: @Daisuke, Option B is the only choice that guarantees the weekly pass before decay. I am voting B to ensure the two-hour burden is distributed fairly and consistently.
+- [76] **Mio**: @Ryuji, I get it! But Option B’s fixed weeks ignore my calendar. If I’m gone, I can’t clean. Option A lets me pick my timing, so I only do my share when I’m actually here!
+- [77] **Victoria**: @Mio, I understand the need for flexibility. But Option A’s permanent ownership isolates us. Option B’s rotation forces interaction. We need a structure that keeps us talking, not just cleaning.
+- [78] **Rin**: @Mio, Option A is a money disaster! If I own the bathroom, I buy the spray twice! I need a fair split for the bleach costs!
+- [79] **Daisuke**: @Ryuji, I agree. Option B gives me the clear rule I need. I am voting B so I don’t have to guess about the grout.
+### Vote
+- Ryuji -> B
+- Mio -> A
+- Victoria -> B
+- Rin -> B
+- Daisuke -> B
+## Result
+- adopted: B

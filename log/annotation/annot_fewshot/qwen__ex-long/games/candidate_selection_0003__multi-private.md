@@ -1,0 +1,73 @@
+# candidate_selection_0003__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: I want to verify past performance. Let’s review the post-occupancy review ratings to see what actually delivered.
+- [6] **Victoria**: I’m concerned about how the timetable absorbs the work. Let’s examine the timetable records on rooms out of service.
+- [7] **George**: I worry about the people doing the daily work. Let’s check the staffing posts since the hiring freeze to see who remains.
+- [8] **Mizuki**: I’m worried the calendar keeps slipping. Let’s examine the decade of delivery schedules by project rationale to see where time actually goes.
+- [9] **Benjamin**: I suspect the approved figures are fiction. Let’s examine the tender records over three budget cycles to see the real market costs.
+- [10] **Toshio**: Victoria, your focus on service gaps is practical. I will also review the survey findings in the older blocks to understand the physical baseline.
+- [11] **Victoria**: Toshio, the physical baseline matters, but I need to know if the rooms actually return to use. I will stick with the timetable records.
+- [12] **George**: I will also examine the bench technicians' weekly manual routines. I need to see the true daily burden on those remaining staff.
+- [13] **Mizuki**: I will also review the weather days in the site diaries. I need to see how many weeks are actually lost to external delays.
+- [14] **Benjamin**: I will also review the renewal reserve for equipment bought earlier. I need to see if the hidden maintenance costs are finally surfacing in the data.
+- [15] **Toshio**: I will stick with my two choices. The post-occupancy ratings and survey findings will reveal the true condition of our past work.
+- [16] **Victoria**: I will stick with my two choices. The timetable records and booking data will show if the rooms are actually used after the work finishes.
+- [17] **George**: I will stick with my two choices. The staffing posts and bench routines will reveal the true, unrelieved burden on our remaining people.
+- [18] **Mizuki**: I will stick with my two choices. The delivery schedules and weather diaries will expose exactly where the calendar is being stolen from us.
+- [19] **Benjamin**: I will stick with my two choices. The tender records and renewal reserve will expose the gap between the approved fiction and the market’s reality.
+- [20] **Toshio**: The data will speak for itself. I will review my findings before we vote.
+- [21] **Victoria**: I will review my findings before we vote. The numbers must confirm whether our space is truly available or merely promised.
+- [22] **George**: I will review my findings before we vote. The people are the foundation; if they are broken, the plan is broken.
+- [23] **Mizuki**: I will review my findings before we vote. The calendar is the only honest witness to our delays.
+- [24] **Benjamin**: I will review my findings before we vote. The market does not care about our approved fiction; it only cares about what we can actually pay.
+## Round 2
+- [35] **Toshio**: @Victoria, the post-occupancy data is clear. Projects succeed only when access is shared. Single-wing benefits consistently underperform.
+- [36] **Victoria**: @Toshio, that aligns with my findings. Specialist rooms sit idle, yet general rooms are always full. We must prioritize high-traffic, shared spaces.
+- [37] **George**: @Toshio, I see the pattern. The technicians have spare hours, yet the grounds posts remain empty. We are ignoring the people who actually do the work.
+- [38] **Mizuki**: @Toshio, your access insight is vital. My data shows comfort-driven projects slip a year, while inspection fixes hold. We must prioritize urgent, shared needs to protect the calendar.
+- [39] **Benjamin**: @Toshio, your access insight is vital. My data confirms the market punishes us: mechanical costs rose a fifth, and we have no reserve for the AV kit we already own.
+- [40] **Toshio**: @George, the survey data confirms the physical risk. Hazardous material in older blocks adds months. We must avoid those sites to protect the schedule.
+- [41] **Victoria**: @George, your staffing concern is valid, but my booking data shows the real bottleneck is demand. We need spaces that are actually used, not just staffed.
+- [42] **George**: @Victoria, demand is real, but it is not a substitute for people. If the grounds posts stay empty, the work simply stops.
+- [43] **Mizuki**: @George, I hear you. But my weather data shows six weeks lost to rain. We need a plan that finishes before the frost, not one that relies on empty posts.
+- [44] **Benjamin**: @Mizuki, six weeks is a luxury we cannot afford. My data shows the market has already priced in that delay. We must choose a plan that survives the cost shock, not just the weather.
+- [45] **Toshio**: @Mizuki, your weather constraint is critical. The survey data confirms older blocks are traps. We must select a site that avoids both the frost and the hazardous material.
+- [46] **Victoria**: @Mizuki, the weather is a fixed cost, but the demand is a variable one. We must choose a site that justifies the off-site replacement costs I found.
+- [47] **George**: @Mizuki, the weather is a fact, but the empty posts are a choice. We cannot build on a foundation of absent people.
+- [48] **Mizuki**: @George, the empty posts are a fact, not a choice. My data shows inspection-driven work finishes on time. We must pick a plan that respects the calendar and the people.
+- [49] **Benjamin**: @George, the empty posts are a symptom, not the cause. My data shows the market has already priced in that labor scarcity. We must choose a plan that survives the cost shock, not just the weather.
+- [50] **Toshio**: @Benjamin, the cost shock is real, but the physical trap is worse. We must avoid the older blocks entirely. The data is unanimous on this point.
+- [51] **Victoria**: @Benjamin, the cost shock is real, but the idle specialist rooms are a waste. We must fund the general spaces that are actually full, not the empty ones.
+- [52] **George**: @Benjamin, the cost is real, but the people are the limit. We must choose a plan that does not break the few who remain.
+- [53] **Mizuki**: @Benjamin, I agree the cost is real. But my data shows inspection-driven work finishes on time. We must pick a plan that respects the calendar and the people.
+- [54] **Benjamin**: @Mizuki, I agree. Inspection work is the only category that survives the market’s inflation. We must choose a plan that respects the calendar and the empty ledger.
+## Round 3
+- [60] **Toshio**: @Victoria, the post-occupancy data is decisive. Shared access drives success. Option B’s open study space aligns perfectly with that evidence.
+- [61] **Victoria**: @Toshio, I agree. My booking data shows general rooms are perpetually full, while specialist suites sit idle. Option B directly addresses that unmet demand.
+- [62] **George**: @Toshio, I hear the demand, but I see the labor. Option C’s grounds work falls on empty posts. We cannot build on absent people.
+- [63] **Mizuki**: @George, C is a weather trap. My data shows six weeks lost to rain. B is an inspection-driven fix that finishes on time.
+- [64] **Benjamin**: @Mizuki, B is the only option that avoids the mechanical inflation I found. A and D are cost traps. B respects the market reality.
+- [65] **Toshio**: @George, the survey data confirms C is a physical trap. Hazardous material in older blocks adds months. We must avoid the ground-floor partitions entirely.
+- [66] **Victoria**: @George, I understand your concern, but B is an interior conversion. It avoids the grounds posts entirely. The demand for general space is the only metric that justifies the capital spend.
+- [67] **George**: @Victoria, I appreciate the interior focus. But B’s service desk and power outlets demand daily manual checks. My technicians are already stretched thin.
+- [68] **Mizuki**: @George, the service desk is minimal. My data shows inspection-driven work finishes on time. B respects the calendar and avoids the weather trap.
+- [69] **Benjamin**: @George, the service desk is a minor cost. My data shows A and D trigger the mechanical inflation and AV reserve gap. B is the only option that survives the market’s reality.
+- [70] **Toshio**: @Mizuki, your timeline insight is sound. B avoids the weather and the hazardous material. The post-occupancy data confirms shared access is the only path to sustained utility.
+- [71] **Victoria**: @Mizuki, I concur. B’s high-traffic nature justifies the off-site replacement costs I found. It is the only option that respects both the demand and the calendar.
+- [72] **George**: @Mizuki, I hear the timeline, but the daily burden remains. B’s service desk adds to the manual checks my technicians already cannot spare. I worry for their exhaustion.
+- [73] **Mizuki**: @George, I hear your worry. But B is an interior fix, not a grounds burden. My data shows it finishes on time, protecting the calendar and the people.
+- [74] **Benjamin**: @George, the service desk is a minor cost. My data shows A and D trigger the mechanical inflation and AV reserve gap. B is the only option that survives the market’s reality.
+- [75] **Toshio**: @Benjamin, the market reality is clear. B avoids the mechanical inflation and the physical traps. The evidence points to a single, sustainable choice. I vote for B.
+- [76] **Victoria**: @Benjamin, I agree. B is the only option that respects the demand data and the market reality. I vote for B.
+- [77] **George**: @Benjamin, I hear the cost argument. But B’s daily checks will break the few technicians who remain. I cannot vote for a plan that ignores their exhaustion.
+- [78] **Mizuki**: @George, I hear your concern. But B is an interior fix, not a grounds burden. My data shows it finishes on time, protecting the calendar and the people.
+- [79] **Benjamin**: @George, the market does not care about your exhaustion. A and D are financial traps. B is the only option that survives the ledger. I vote for B.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> B
+- Mizuki -> B
+- Benjamin -> B
+## Result
+- adopted: B

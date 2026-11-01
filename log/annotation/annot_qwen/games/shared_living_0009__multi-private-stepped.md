@@ -1,0 +1,73 @@
+# shared_living_0009__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Misaki**: The car is rarely ready when I need it. I need to know why.
+- [6] **May**: Honestly, the coordination takes longer than the drive. I want to see the hours.
+- [7] **Servas**: We must understand the true cost of our shared burden before we judge.
+- [8] **Takumi**: I am tired of the silence. I want to see what actually sours us.
+- [9] **Kenji**: I need the real numbers. Guesswork is not a plan for our money.
+- [10] **Misaki**: @May, hours alone do not show the condition of the car.
+- [11] **May**: @Misaki, condition is secondary to the chaos of scheduling. I need the diary.
+- [12] **Servas**: @Kenji, numbers are cold, but they reveal the hidden imbalances we ignore.
+- [13] **Takumi**: @Kenji, I agree. But I also need to see the past failures.
+- [14] **Kenji**: @Servas, I will look at the fuel receipts and the tax papers.
+- [15] **Misaki**: I will check the mechanic's remarks and the state at handover.
+- [16] **May**: I will look at the hours of use and the weekly trips.
+- [17] **Servas**: I will examine the fuel receipts and the tax, insurance, and parking papers.
+- [18] **Takumi**: I will look into the spell of checking figures and the two other households.
+- [19] **Kenji**: I will investigate the fuel receipts and the tax, insurance, and parking papers.
+- [20] **Misaki**: Let us see what the data says before we argue further.
+- [21] **May**: Agreed. Facts will save us from another year of headaches.
+- [22] **Servas**: Wisdom comes from looking closely at the details we usually overlook.
+- [23] **Takumi**: I hope this fixes the vibe, not just the car.
+- [24] **Kenji**: I am ready to see the truth. Let's get to work.
+## Round 2
+- [35] **Misaki**: The mechanic says short runs kill the car. That explains the wear.
+- [36] **May**: My diary shows weekends are triple the load. We need a weekend rule.
+- [37] **Servas**: The fuel data is stark. Two of us carry the load, one carries none.
+- [38] **Takumi**: I found out that asking favours every time is what breaks groups. We need a system.
+- [39] **Kenji**: The fixed costs are 280,000 yen. That is a lot to split blindly.
+- [40] **Misaki**: @Kenji, if we split fixed costs, we must fix the usage pattern.
+- [41] **May**: @Misaki, exactly. The weekend chaos is the real problem, not the fuel.
+- [42] **Servas**: @Kenji, a blind split ignores the reality of who actually drives.
+- [43] **Takumi**: @May, I agree. But we also need to stop the constant asking.
+- [44] **Kenji**: @Servas, I see. So we need a way to track who drives how much.
+- [45] **Misaki**: A trial of recording every run for a month seems fair.
+- [46] **May**: I support that. It will show us where the hours actually go.
+- [47] **Servas**: A month of recording will reveal the truth of our habits.
+- [48] **Takumi**: I am in. It stops the favour-asking cycle.
+- [49] **Kenji**: I am in. It gives us the honest picture I need.
+- [50] **Misaki**: Let us try the recording trial. It is the most neutral path.
+- [51] **May**: Agreed. Let's see the data before we commit to anything else.
+- [52] **Servas**: Let us observe before we judge. The trial will guide us.
+- [53] **Takumi**: I hope it helps us talk better, too.
+- [54] **Kenji**: I am ready. Let's start the trial and see the real numbers.
+## Round 3
+- [60] **Misaki**: Option C seems best. It tracks actual use and keeps the car ready.
+- [61] **May**: I agree with C. It solves the weekend chaos and the favour-asking.
+- [62] **Servas**: Option C aligns with the truth of our habits. It is fair and clear.
+- [63] **Takumi**: I like C. It stops the constant asking and makes it a system.
+- [64] **Kenji**: I support C. It gives us the honest figures I need to pay fairly.
+- [65] **Misaki**: @May, yes, the calendar will show exactly who uses it when.
+- [66] **May**: @Misaki, exactly. No more guessing, no more arguments.
+- [67] **Servas**: @Kenji, the recorded distance will ensure no one subsidises another.
+- [68] **Takumi**: @Servas, I agree. It makes the cost match the use.
+- [69] **Kenji**: @Servas, that is exactly what I want. Fairness based on facts.
+- [70] **Misaki**: I am confident in Option C. It respects the car and the people.
+- [71] **May**: I am in. Let's stop the chaos and start the calendar.
+- [72] **Servas**: I choose C. It brings order to our shared life.
+- [73] **Takumi**: I choose C. It fixes the vibe and the car.
+- [74] **Kenji**: I choose C. It gives us the real picture and a fair split.
+- [75] **Misaki**: Let us adopt the Booking Calendar. It is the most balanced choice.
+- [76] **May**: Agreed. Let's make it work and stop the headaches.
+- [77] **Servas**: Let us move forward with clarity and fairness.
+- [78] **Takumi**: I hope this brings us back together.
+- [79] **Kenji**: I am ready. Let's see the real numbers and pay what is fair.
+### Vote
+- Misaki -> C
+- May -> C
+- Servas -> C
+- Takumi -> C
+- Kenji -> C
+## Result
+- adopted: C

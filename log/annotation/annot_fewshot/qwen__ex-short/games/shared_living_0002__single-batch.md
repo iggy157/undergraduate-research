@@ -1,0 +1,73 @@
+# shared_living_0002__single-batch (shared_living)
+
+## Round 1
+- [5] **Rin**: I hate walking past the corner in August. It smells terrible.
+- [6] **Midori**: I worry about the cost. Who pays for the new setup?
+- [7] **Shunichi**: We need to keep talking to each other. The last row was awful.
+- [8] **May**: I want to know how many hours this will take us.
+- [9] **Asuka**: One house has this at their gate. That feels unfair.
+- [10] **Rin**: @May, if it takes too long, I will be annoyed.
+- [11] **Midori**: @Asuka, I agree. Fairness is important for the budget too.
+- [12] **Shunichi**: @Rin, the smell is bad, but the silence is worse.
+- [13] **May**: @Midori, I need to see the time commitment before I agree.
+- [14] **Asuka**: @Shunichi, I want a plan that doesn't burden one person.
+- [15] **Rin**: I will check the station block's bin house.
+- [16] **Midori**: I will look at the ward subsidy and shelter costs.
+- [17] **Shunichi**: I will read the station block's meeting minutes.
+- [18] **May**: I will check the supervised mornings on the next lane.
+- [19] **Asuka**: I will look at the ward complaint log for this point.
+- [20] **Rin**: Also, I will check the truck arrival time from the crew leader.
+- [21] **Midori**: And I will check the block ledger of refuse-point expenses.
+- [22] **Shunichi**: I will also check the statements at the residents' meeting.
+- [23] **May**: I will also check the ward filing requirements per the installations clerk.
+- [24] **Asuka**: I will also check the measurements of the five frontages.
+## Round 2
+- [35] **Rin**: The bin house smells worse than the open pile.
+- [36] **Midori**: The subsidy is only forty percent. We pay the rest.
+- [37] **Shunichi**: The minutes show they argued about sweeping within two years.
+- [38] **May**: Supervised mornings take fifty minutes. That is a lot.
+- [39] **Asuka**: Eleven complaints came from the gate household. That is heavy.
+- [40] **Rin**: @May, fifty minutes is too long for me to stand there.
+- [41] **Midori**: @Asuka, that explains why they are so frustrated.
+- [42] **Shunichi**: @Rin, the enclosed option might be worse for smell.
+- [43] **May**: @Midori, the ledger shows thirty-four thousand yen in extra fees.
+- [44] **Asuka**: @Shunichi, I worry about the social friction of a permanent build.
+- [45] **Rin**: The truck comes at seven forty. That is very early.
+- [46] **Midori**: The average shelter cost was two hundred forty-eight thousand yen.
+- [47] **Shunichi**: Three people said they wouldn't turn away late bags.
+- [48] **May**: A permanent build needs four months and five signatures.
+- [49] **Asuka**: One frontage is crossed by a driveway. That is a problem.
+- [50] **Rin**: @Shunichi, if we can't turn bags away, the window fails.
+- [51] **Midori**: @May, four months is a long time to wait for a fix.
+- [52] **Shunichi**: @Asuka, the driveway issue makes rotating locations tricky.
+- [53] **May**: @Rin, the early truck time makes the window impossible.
+- [54] **Asuka**: @Midori, the cost is high, but the complaint log is worse.
+## Round 3
+- [60] **Rin**: Option A is too early. Option B is messy. Option C is smelly.
+- [61] **Midori**: Option C is expensive. Option A is hard to enforce.
+- [62] **Shunichi**: Option B keeps us moving. Option C creates new arguments.
+- [63] **May**: Option A takes too much time. Option C takes too long to build.
+- [64] **Asuka**: Option B is the fairest. Option C burdens the gate house.
+- [65] **Rin**: @Asuka, I agree. Moving it around feels more equal.
+- [66] **Midori**: @Shunichi, I worry about the cost of moving it every time.
+- [67] **Shunichi**: @May, the filing requirements for moving are simpler than building.
+- [68] **May**: @Rin, the early truck time kills Option A for me.
+- [69] **Asuka**: @Midori, the cost is shared, but the burden is not.
+- [70] **Rin**: I prefer B. It spreads the annoyance.
+- [71] **Midori**: I am hesitant about B, but A is worse.
+- [72] **Shunichi**: B is the only one that keeps the peace.
+- [73] **May**: B is the least time-consuming for me.
+- [74] **Asuka**: B is the only fair option.
+- [75] **Rin**: I am voting for B.
+- [76] **Midori**: I am voting for B, reluctantly.
+- [77] **Shunichi**: I am voting for B.
+- [78] **May**: I am voting for B.
+- [79] **Asuka**: I am voting for B.
+### Vote
+- Rin -> B
+- Midori -> B
+- Shunichi -> B
+- May -> B
+- Asuka -> B
+## Result
+- adopted: B

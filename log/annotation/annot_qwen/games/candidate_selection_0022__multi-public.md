@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m worried about the hiring bottleneck. Who can we actually find right now?
+- [6] **George**: I’d like to see the delivery records of two holdings. It shows what actually happens after the money goes in.
+- [7] **May**: I’m curious about the credit line terms. We need to know what we can borrow against when things get tight.
+- [8] **Rin**: I want to check the independent checks on holdings' reported figures. I need to know if we can actually verify the numbers ourselves!
+- [9] **Mizuki**: I want to see the security review time before first deployment. I need to know exactly what external obstacles we are signing up for.
+- [10] **Mio**: @George, do you think the delivery records will show if we can actually get the people we need?
+- [11] **George**: Not directly, Mio. It shows if the product ships on time. I’ll look into the delivery records and the profile of the exits.
+- [12] **May**: @Mio, hiring is a headache, but I’m focused on our cash flow. I’ll check the credit line terms and the reserve accounts.
+- [13] **Rin**: @Mio, I’ll check the independent checks and the appraisal needs! I want to see if our numbers are real and how much extra work they cause.
+- [14] **Mizuki**: @Mio, delivery records show product timing, not hiring. I’ll check security review times and delivery records to map external delays.
+- [15] **Mio**: @Mizuki, fair point. I’ll check the retained recruiters’ placement times and the adviser bench to see who’s actually available.
+- [16] **George**: I’ll stick with delivery records and the exit profile. I need to see which of our past wins actually held their customers.
+- [17] **May**: I’m locking in the credit line terms and reserve accounts. I need to know exactly what we can borrow against when the cash gets tight.
+- [18] **Rin**: I’m locking in independent checks and appraisal needs! I need to know if our numbers are real and how much extra work they cause.
+- [19] **Mizuki**: I’m locking in security review times and delivery records. I need to map exactly which external obstacles delay our first revenue.
+- [20] **Mio**: I’m locking in the retained recruiters’ placement times and the adviser bench. I need to know who we can actually call on right now!
+- [21] **George**: I’m locking in the delivery records and the exit profile. I need to see which of our past wins actually held their customers.
+- [22] **May**: I’m locking in the credit line terms and reserve accounts. I need to know exactly what we can borrow against when the cash gets tight.
+- [23] **Rin**: I’m locking in independent checks and appraisal needs! I need to know if our numbers are real and how much extra work they cause.
+- [24] **Mizuki**: I’m locking in security review times and delivery records. I need to map exactly which external obstacles delay our first revenue.
+## Round 2
+- [35] **Mio**: @George, recruiters can’t find shift supervisors or field crews fast enough. We need to avoid companies needing those roles!
+- [36] **George**: The write-off ran its own premises and paid hourly crews. We must avoid that operational burden.
+- [37] **May**: @Mio, that’s a nightmare. My credit line only likes stock, not subscriptions. We need assets we can actually borrow against.
+- [38] **Rin**: @May, that’s scary! My audit check showed hardware adds six weeks and huge fees. We need to avoid that mess!
+- [39] **Mizuki**: @Mio, @George, @May, @Rin, the data confirms my fear. Medical and financial clients face three-quarter security reviews. We must avoid those external bottlenecks.
+- [40] **Mio**: @Mizuki, that’s a huge delay! But @George, the exit profile shows back-office tooling wins. We should pick software, not hardware!
+- [41] **George**: The bank tool never missed a release. That reliability is what we need. I’m leaning toward the software options.
+- [42] **May**: @Mio, software is a trap. My credit line values stock, not subscriptions. We need physical assets to secure that cheap borrowing.
+- [43] **Rin**: @May, but hardware means six weeks of extra audit work! I can’t handle that mess. Software is safer for my numbers!
+- [44] **Mizuki**: @May, @Rin, the bank tool proves software avoids hardware delays. We need to weigh security review time against audit costs.
+- [45] **Mio**: @May, but the advisers are sitting idle! We need their logistics help for physical goods. Software is too crowded for us.
+- [46] **George**: The write-off proves physical operations are a trap. I stand by the software choice.
+- [47] **May**: @Mio, those idle advisers are useless if I can’t borrow against the stock. I need tangible assets to secure that cheap credit line.
+- [48] **Rin**: @May, but software means I can verify the numbers myself! No outside appraisers, no six-week delays. It’s much cleaner for my quarter-end!
+- [49] **Mizuki**: @May, @Rin, the bank tool’s reliability outweighs your concerns. We must avoid the three-quarter security review trap.
+- [50] **Mio**: @May, I hear you, but the advisers are ready for logistics. We can’t ignore that. I’m leaning toward the physical option to use them!
+- [51] **George**: I remain unconvinced by the physical option. The write-off is a clear warning. I stand by the software choice.
+- [52] **May**: @Mio, I can’t ignore the cash drain. If I can’t borrow against it, we’re dead. I need tangible assets.
+- [53] **Rin**: @May, I get the cash worry, but I can’t close the books if appraisers are here! Software keeps my quarter-end clean and verifiable.
+- [54] **Mizuki**: @May, @Rin, the bank tool’s reliability outweighs your concerns. We must avoid the three-quarter security review trap.
+## Round 3
+- [60] **Mio**: @George, @May, @Rin, @Mizuki, I’m torn. Fabric Loop uses our idle logistics advisers, but needs hard-to-find crews. Software is safer for hiring, but May needs stock.
+- [61] **George**: The write-off ran its own premises. Fabric Loop does exactly that. I cannot support it.
+- [62] **May**: @Mio, Fabric Loop is the only one with stock I can borrow against. The others are just subscriptions, which my credit line ignores.
+- [63] **Rin**: @May, Fabric Loop means outside appraisers and six-week delays! I can’t close the books with that mess. I need clean, verifiable software!
+- [64] **Mizuki**: @May, @Rin, Fabric Loop’s sorting facilities trigger the three-quarter security review. That external delay is unacceptable. I reject it.
+- [65] **Mio**: @May, I hear you, but @George is right. The write-off is a warning. I’m leaning toward Ledger Bridge to avoid those hiring nightmares.
+- [66] **George**: Ledger Bridge is quiet back-office tooling. It matches our profitable exits perfectly. I am strongly in favor of it.
+- [67] **May**: @George, I hear the exit story, but my credit line ignores software. I need tangible assets to secure that cheap borrowing.
+- [68] **Rin**: @May, I understand the cash worry, but I cannot risk another six-week audit nightmare! Ledger Bridge is pure software, so I can verify the numbers myself. It keeps my quarter-end clean and fast!
+- [69] **Mizuki**: @May, @Rin, Ledger Bridge avoids the three-quarter security review trap. Its bank integration mirrors our reliable past success. I support it.
+- [70] **Mio**: @May, I know the cash worry is real, but the hiring risk with Fabric Loop is too high. I’m voting for Ledger Bridge to keep our team focused!
+- [71] **George**: Ledger Bridge is the clear choice. It mirrors our profitable exits and avoids the operational traps that killed our last write-off. I am voting for it.
+- [72] **May**: @Mio, @George, I know the exit story is sweet, but my credit line ignores software. I need tangible assets to secure that cheap borrowing.
+- [73] **Rin**: @May, I get the cash worry, but I can’t close the books if appraisers are here! Ledger Bridge is pure software, so I can verify the numbers myself. It keeps my quarter-end clean and fast!
+- [74] **Mizuki**: @May, I hear your cash concern, but the data shows software avoids the three-quarter security review trap. Ledger Bridge is the only safe path. I vote for it.
+- [75] **Mio**: @May, I know the cash worry is real, but the hiring risk with Fabric Loop is too high. I’m voting for Ledger Bridge to keep our team focused!
+- [76] **George**: Ledger Bridge is the only option that respects our history. I am voting for it.
+- [77] **May**: @Mio, @George, I can’t ignore the cash drain. If I can’t borrow against it, we’re dead. I need tangible assets.
+- [78] **Rin**: @May, I hear you, but I can't risk the audit mess! Ledger Bridge is pure software, so I can verify the numbers myself. It keeps my quarter-end clean and fast!
+- [79] **Mizuki**: @May, I understand the cash pressure, but the data is clear. Ledger Bridge avoids the security review trap. I vote for it.
+### Vote
+- Mio -> C
+- George -> C
+- May -> A
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

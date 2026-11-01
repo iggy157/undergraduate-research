@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I want to learn how we work together. I think I will look into the staffing of the coordination group and in-house developer availability.
+- [6] **Jonathan**: Good morning. I am interested in the network coverage at customer plants and the outcomes of the last three internal rollouts.
+- [7] **George**: I believe we must be prudent about the finances. I will look into the capital budget and software allowance, and vendor licence pricing versus fixed-fee work.
+- [8] **May**: Let's make this interesting! I'm curious about the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts.
+- [9] **Midori**: Hello. I think it's important to see what's actually happening on the floor. I'll look into misrouted deliveries in the incident logs and time lost to copying existing records.
+- [10] **Minato**: @George, do you think the budget is very tight this year? I hope we can find a project that makes everyone happy.
+- [11] **Jonathan**: I believe a calm approach to the data will guide us.
+- [12] **George**: It is always tight if you do not look closely at the source. We must be careful.
+- [13] **May**: Oh, George, you're always so serious! Let's see what the data actually tells us first.
+- [14] **Midori**: I agree with May. I hope we can find a solution that helps the people doing the daily work.
+- [15] **Minato**: I agree with Midori. I wonder if the people working on these projects feel tired.
+- [16] **Jonathan**: That is a valid concern. Peace of mind is essential for quality work.
+- [17] **George**: Experience tells me that enthusiasm is good, but sustainability is better.
+- [18] **May**: Sustainability is just a fancy word for "not failing," right? I want to see if we're just repeating old mistakes.
+- [19] **Midori**: I just want to make sure we aren't overlooking the small, repetitive problems that add up over time.
+- [20] **Minato**: I think I have decided on my choices. I'm looking forward to learning more.
+- [21] **Jonathan**: I am as well. Let us proceed.
+- [22] **George**: Very well. I shall stick to my plan.
+- [23] **May**: I'm ready! Let's see who has the best luck with their findings.
+- [24] **Midori**: I'm a bit nervous, but I'll do my best to contribute.
+## Round 2
+- [35] **Minato**: I found out that some people in the coordination group are doing a lot of work by hand. It seems very tiring for them.
+- [36] **Jonathan**: I discovered that network coverage at customer plants is quite unstable, and getting device approval takes far too long.
+- [37] **George**: The budget is a mess. We have room in the software allowance, but the capital budget is frozen. We must avoid per-head licences.
+- [38] **May**: It's just as I feared. The big, fancy projects that required everyone to participate just died. Only the small, specific tools survived.
+- [39] **Midori**: I found that we are losing an hour every day just copying records, and we have delivery errors because different units use different addresses.
+- [40] **Minato**: @Midori, that sounds so sad. Copying things for an hour must be very boring. I wish we could help them.
+- [41] **Jonathan**: @May, your finding about the failed rollouts aligns with my discovery. If the groundwork is unstable, the project cannot survive.
+- [42] **George**: @Jonathan, that is exactly why we cannot commit to a project that requires a large capital outlay or expensive recurring licences.
+- [43] **May**: Exactly! So why do we keep proposing these "grand visions" that just vanish after a year? We need something practical.
+- [44] **Midori**: I agree. If we could just fix the address lists and the copying problem, it would save so much time and stress.
+- [45] **Minato**: I also saw that the developers are very busy. If we pick a project, will it just make the coordination group even more tired?
+- [46] **Jonathan**: If we ignore the external conditions, like the network issues I found, we are simply setting the developers up for failure.
+- [47] **George**: I am concerned that we will agree to a project today and then find out next year that we cannot afford the renewal fees.
+- [48] **May**: Let's stop dreaming about the "perfect" system. We need a tool that actually stays in use, not a trophy for the board.
+- [49] **Midori**: I feel like we are all seeing the same thing. The "big" ideas are failing, while the people on the floor are struggling with simple things.
+- [50] **Minato**: I want to support the people who are working hard. I hope the candidates are projects that help them.
+- [51] **Jonathan**: I will vote for whatever seems most realistic and least likely to be disrupted by things we cannot control.
+- [52] **George**: I will be looking for a project that fits within the current software allowance and avoids long-term financial traps.
+- [53] **May**: I'll be the judge of whether these candidates are just more of the same "grand visions" or something that will actually last.
+- [54] **Midori**: I'll look for the one that addresses those everyday losses we've been talking about.
+## Round 3
+- [60] **Minato**: Candidate A sounds like it would help the people in the coordination group who are writing everything by hand. I like that.
+- [61] **Jonathan**: Candidate D seems risky. I found that network coverage at customer plants is poor and device approval is slow. It might fail.
+- [62] **George**: Candidate C is a simple data consolidation. It likely requires minimal capital and avoids the per-head licence traps of a complex app.
+- [63] **May**: Candidate A is exactly the kind of "shared tool" that usually dies because it requires everyone to use it. Candidate C is a record, which lasts.
+- [64] **Midori**: Candidate C is perfect. It solves the misrouted deliveries caused by different addresses and stops the need to copy records between units.
+- [65] **Minato**: @May, do you think Candidate A is too hard? I just thought it would make the people less tired.
+- [66] **Jonathan**: I agree with May. Candidate A depends on everyone's participation. Candidate C is a foundation. It is more serene.
+- [67] **George**: Candidate C is the only one that doesn't look like a financial time bomb. It is a one-time effort to clean the data.
+- [68] **May**: See? Even George is on board. Candidate C is a boring, practical tool. Boring is good. Boring survives.
+- [69] **Midori**: I'm so glad we're agreeing. Candidate C directly addresses the everyday losses I found in the logs.
+- [70] **Minato**: If everyone likes Candidate C, then I am happy too. I want everyone to be peaceful and not too stressed.
+- [71] **Jonathan**: It is the most stable choice. It does not rely on the unpredictable network conditions of other companies' premises.
+- [72] **George**: It is the only responsible choice given the frozen capital budget. We can handle this within our current means.
+- [73] **May**: It's a win for the "boring" side of the house. I'll take it over another failed "innovation" any day.
+- [74] **Midori**: It's wonderful that we're looking at the actual problems on the floor instead of just what sounds impressive.
+- [75] **Minato**: I've learned a lot today. I think I'm ready to vote for Candidate C.
+- [76] **Jonathan**: I am also ready. Candidate C is the most grounded option.
+- [77] **George**: I have seen enough. Candidate C is the only one that makes financial sense.
+- [78] **May**: I'm sold. Let's go with the one that actually has a chance of being used in two years.
+- [79] **Midori**: I feel very relieved. I'm happy to vote for Candidate C.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

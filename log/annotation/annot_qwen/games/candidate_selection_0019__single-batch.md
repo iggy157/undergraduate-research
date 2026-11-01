@@ -1,0 +1,73 @@
+# candidate_selection_0019__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I need to see where the money actually goes before we promise anything.
+- [6] **Victoria**: We must confirm who is actually available to work, not just who is on paper.
+- [7] **Shion**: The data on what people actually enjoy is more important than our pride.
+- [8] **Asuka**: The building itself has limits that we often ignore until it is too late.
+- [9] **Shizue**: I worry about the logistics that always seem to fail us at the door.
+- [10] **Mio**: @Victoria, do you have specific roles in mind that are currently vacant?
+- [11] **Victoria**: Yes, the conservation and floor staff are stretched thin. I need to verify the roster.
+- [12] **Shion**: @Mio, if the budget is tight, we should look at the transport costs too.
+- [13] **Asuka**: @Shizue, delivery issues are critical. We need to know where past seasons failed.
+- [14] **Shizue**: @Asuka, exactly. I want to see the paperwork against the shipping cut-offs.
+- [15] **Mio**: I will look into the loan transport costs and the mount-making charges.
+- [16] **Victoria**: I will check the conservation lab staffing and the volunteer roster composition.
+- [17] **Shion**: I will review the weekend head counts and the visitor comment slips.
+- [18] **Asuka**: I will examine the structural survey of the suspended bay and the maintenance log.
+- [19] **Shizue**: I will look into the lender paperwork and the evening hire bookings.
+- [20] **Mio**: That covers my concerns. Let's see what the numbers say.
+- [21] **Victoria**: Agreed. The human element is often the most fragile part of the plan.
+- [22] **Shion**: The record will speak for itself. I trust the data over intuition.
+- [23] **Asuka**: The physical constraints are non-negotiable. We must respect the structure.
+- [24] **Shizue**: I hope we find a way to avoid the usual apologies at the entrance.
+## Round 2
+- [35] **Mio**: The transport costs are shocking. Nearly a third of the installation budget!
+- [36] **Victoria**: The lab is down to one person. The backlog is two hundred pieces.
+- [37] **Shion**: People come back for the live demonstrations, not the static cases.
+- [38] **Asuka**: The suspended bay can only hold four hundred kilos per square metre.
+- [39] **Shizue**: Two recent openings slipped because the paperwork arrived too late.
+- [40] **Mio**: @Asuka, that weight limit is a huge problem for heavy loans.
+- [41] **Victoria**: @Shion, the volunteer roster is mostly the town history circle. They are busy.
+- [42] **Shion**: @Victoria, but the comment slips say people want to see someone working.
+- [43] **Asuka**: @Mio, yes. And the maintenance log shows seventeen call-outs last season.
+- [44] **Shizue**: @Mio, the evening hires also damage open arrangements. We need to be careful.
+- [45] **Mio**: If we choose something with heavy loans, the transport costs will be unbearable.
+- [46] **Victoria**: We cannot rely on the volunteers for daily operations. We need staff.
+- [47] **Shion**: We should prioritize an exhibition that allows for live interaction.
+- [48] **Asuka**: We must avoid anything that requires heavy rigging in the suspended bay.
+- [49] **Shizue**: We need to ensure the paperwork is handled well in advance.
+- [50] **Mio**: I am leaning towards something that doesn't require expensive custom mounts.
+- [51] **Victoria**: I am concerned about the staffing for any complex installation.
+- [52] **Shion**: The data supports an exhibition with moving parts or live elements.
+- [53] **Asuka**: The structural limits rule out heavy stonework or large models.
+- [54] **Shizue**: I hope we can find a balance between logistics and visitor experience.
+## Round 3
+- [60] **Mio**: Candidate A, Textiles, seems light and interactive. No heavy loans.
+- [61] **Victoria**: Candidate D, City Under Excavation, has a conservation bench. That fits.
+- [62] **Shion**: Candidate B, Light and Motion, has mechanisms. That matches the head counts.
+- [63] **Asuka**: Candidate B requires overhead rigging. That is risky for the suspended bay.
+- [64] **Shizue**: Candidate C, Maritime Trade, involves heavy models. That is a logistics nightmare.
+- [65] **Mio**: @Asuka, if B is too heavy, maybe A is the safest bet?
+- [66] **Victoria**: @Shion, B is risky. D uses existing finds, so less transport cost.
+- [67] **Shion**: @Victoria, but D is static. The comment slips want live action.
+- [68] **Asuka**: @Mio, A is light. But D has a visible conservation bench, which is good.
+- [69] **Shizue**: @Mio, A has demonstration sessions. That is live and light.
+- [70] **Mio**: I like A. It is local, light, and has live demos.
+- [71] **Victoria**: I prefer D. It uses our holdings, saving transport costs.
+- [72] **Shion**: I vote for B. The data says people love motion.
+- [73] **Asuka**: I cannot support B. The structural risk is too high. I vote D.
+- [74] **Shizue**: I worry about C's logistics. A seems manageable and engaging.
+- [75] **Mio**: Final thoughts: A is the most balanced.
+- [76] **Victoria**: D is the most practical for our staff.
+- [77] **Shion**: B is the most engaging for visitors.
+- [78] **Asuka**: D is the safest for the building.
+- [79] **Shizue**: A is the least likely to cause delivery issues.
+### Vote
+- Mio -> A
+- Victoria -> D
+- Shion -> B
+- Asuka -> D
+- Shizue -> A
+## Result
+- adopted: A

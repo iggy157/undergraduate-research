@@ -1,0 +1,73 @@
+# shared_living_0025__single-online (shared_living)
+
+## Round 1
+- [5] **Mio**: Since we're finally updating how we split the bills, I want to make sure we don't end up feeling guilty for using the heat. I'll look into the kitchen notice about the cooler and sunlight and heating need by room.
+- [6] **Ryuji**: I need to understand the actual costs over a full year and the potential setup fees. I'll check the last twelve utility statements and the electrician's quote for the rooms.
+- [7] **Rin**: I want to see how much work it is to actually manage the money! I'll check the monthly settle observed at another house and the trial run of a reconciliation template.
+- [8] **Shunichi**: I want to know if some of us are actually paying more than others. I'll look into the plug-in monitor readings room by room and the payment log for the last twelve months.
+- [9] **Misaki**: I want to see how the payment process has affected us. I'll look into the payment log for the last twelve months and settling up when the last rooms filled.
+- [10] **Mio**: Does anyone else think we should check how other houses handle this? Maybe we can find a way that doesn't make us feel like we're being watched every time we turn on a light.
+- [11] **Ryuji**: That is a valid point, but we should prioritize the hard data first. I am more concerned with the financial volatility of our current system than the social atmosphere.
+- [12] **Rin**: @Ryuji, but the social atmosphere is what makes it a home! If we're all stressed about the money, the hard data won't make us any happier.
+- [13] **Shunichi**: @Rin, while I appreciate the sentiment, sentiment doesn't pay the gas bill. We need to determine if the current distribution is actually fair before we worry about the vibes.
+- [14] **Misaki**: I agree that fairness is important, but we should also consider how the process of calculating that fairness affects our relationships.
+- [15] **Mio**: I guess we all agree that fairness and the atmosphere are both important. Since we've already picked our lists, let's see what we find and then figure out a balance.
+- [16] **Ryuji**: Agreed. Let us proceed with the research so we have a factual basis for the discussion. I will stick to my chosen items.
+- [17] **Rin**: Me too! I'm excited to see if those templates actually make things easier or if they're just more homework for us.
+- [18] **Shunichi**: I'll stick with my choices as well. I'm curious to see if the monitor readings prove that some of us are living in luxury while others freeze.
+- [19] **Misaki**: I'll stick with mine too. I hope looking at the past payment issues helps us avoid the same mistakes in the future.
+- [20] **Mio**: Since we're all set, let's just wrap this up and go check our things. I'll see you all back here soon to share what we've found!
+- [21] **Ryuji**: I will do the same. Let us reconvene once we have all reviewed the information.
+- [22] **Rin**: I'm on it! I'll go find those templates and see how they work. See you all in a bit!
+- [23] **Shunichi**: I'll be back shortly. Let's hope the data gives us a clear answer so we can stop guessing.
+- [24] **Misaki**: I'll go look into the logs now. See you all soon.
+## Round 2
+- [35] **Mio**: It turns out some of us have rooms that stay way colder than others, and people were even avoiding the cooler in summer to avoid arguments. We really need a system where we don't feel guilty for basic comfort.
+- [36] **Ryuji**: The bills are incredibly volatile, with February being over three times the cost of August. Also, installing individual meters would be quite expensive, costing 34,000 yen per room plus annual maintenance.
+- [37] **Rin**: Managing the money is a nightmare! At that other house, it took forty minutes just to log readings and split the total, and the reconciliation template was just a ton of manual data entry.
+- [38] **Shunichi**: The monitor readings show a huge gap; the heaviest user draws four times more than the lightest. Also, the payment log shows several months were settled over two weeks late after people questioned the amounts.
+- [39] **Misaki**: I also saw those late payments in the log. It seems like whenever the amount changes, it leads to queries and delays, which just creates tension between us.
+- [40] **Mio**: @Ryuji, if the meters are that expensive, maybe we can find a way to be fair without spending a fortune upfront. We can't keep sitting in coats just to save money.
+- [41] **Ryuji**: I agree that the upfront cost is a significant barrier. However, we must find a way to stabilize the monthly payments so they don't feel like a second rent during winter.
+- [42] **Rin**: @Shunichi, if the difference in usage is that huge, maybe we need a system that doesn't require someone to spend their whole evening doing math just to be fair.
+- [43] **Shunichi**: @Rin, that's the dilemma. If we just split it equally, the light users are subsidizing the heavy users, which is exactly what causes the tension and the late payments Misaki mentioned.
+- [44] **Misaki**: Exactly. The tension comes from both the unfairness of the cost and the stress of the process. We need a solution that is simple enough to avoid arguments but fair enough to be accepted.
+- [45] **Mio**: If we just split everything equally, the people in the cold rooms will still feel like they're losing out. We need something that acknowledges the difference in our rooms without being a total headache.
+- [46] **Ryuji**: If we avoid the high cost of meters, we must find a way to handle the seasonal spikes. A system that smooths out the payments would prevent the winter shock I'm concerned about.
+- [47] **Rin**: I'm really worried that if we pick something too complicated, the person in charge will just give up or get grumpy. We need a way to keep it running without it becoming a second job!
+- [48] **Shunichi**: @Mio, if we don't account for the fact that some of us use four times more power, we're just replacing one kind of tension with another. We can't ignore the actual usage data.
+- [49] **Misaki**: But if we focus only on the usage data, we might end up in a cycle of constant questioning and late payments. We need a method that feels final and transparent.
+- [50] **Mio**: I think we're all seeing the same problem from different angles. We need a way to handle the seasonal spikes and the usage gaps without making the monthly process a total nightmare for whoever manages it.
+- [51] **Ryuji**: Precisely. We need a solution that balances financial predictability, fairness in usage, and administrative simplicity. It seems we are all in agreement that the current system is unsustainable.
+- [52] **Rin**: I just hope whatever we choose doesn't involve a giant spreadsheet that takes hours to fill out! Let's make sure the "simplicity" part is actually real.
+- [53] **Shunichi**: I agree. If we can't find a way to make the data entry effortless, we'll just be back to arguing over the totals every single month.
+- [54] **Misaki**: Let's hope the options we're about to see provide a way to move past these arguments and restore some peace to the house.
+## Round 3
+- [60] **Mio**: So we have three options: a Seasonal Fixed Rate, Per-Room Metering, or a Flat Household Share. Given how cold some rooms get, I'm leaning toward something that doesn't make us feel guilty for using heat.
+- [61] **Ryuji**: The Seasonal Fixed Rate seems most appealing to me. It would eliminate the winter spikes and provide the financial predictability I need, without the exorbitant upfront cost of meters.
+- [62] **Rin**: I'm worried about the Per-Room Metering. Based on what I saw at the other house, that sounds like a total nightmare to manage every month. I'd much rather have something simpler.
+- [63] **Shunichi**: A Flat Household Share is too simplistic; it ignores the usage gaps I found. Per-Room Metering is the only way to be truly fair, provided we can handle the administration.
+- [64] **Misaki**: I'm concerned that a Flat Household Share will just keep the same tensions alive. However, Per-Room Metering sounds like it could lead to more accusations. I think the Seasonal Fixed Rate might be the most peaceful.
+- [65] **Mio**: @Shunichi, I understand wanting it to be fair, but if we use meters, will we just go back to arguing over every single yen? I think the Seasonal Fixed Rate sounds much more relaxed.
+- [66] **Ryuji**: @Shunichi, the cost of installing those meters is simply too high to justify. A Seasonal Fixed Rate achieves stability without requiring a massive initial investment from everyone.
+- [67] **Rin**: @Shunichi, please think about the time it takes! If we have to log readings every month, it's going to be a chore that someone hates. The Seasonal Fixed Rate sounds way easier.
+- [68] **Shunichi**: @Rin, I hear you, but "easier" isn't the same as "fair." If we go with a fixed rate, the heavy users still win and the light users still lose. We need a real solution.
+- [69] **Misaki**: But if "real solutions" lead to the late payments and resentment I saw in the logs, are they actually solutions? The Seasonal Fixed Rate removes the monthly shock and the constant questioning.
+- [70] **Mio**: I agree with Misaki. If we're all happy and not stressing over the bill, that's more important than perfect precision. I'm voting for the Seasonal Fixed Rate.
+- [71] **Ryuji**: I also vote for the Seasonal Fixed Rate. It is the only option that addresses the volatility of the bills while remaining financially viable for all of us.
+- [72] **Rin**: I'm voting for the Seasonal Fixed Rate too! It sounds like the only way to keep the peace and save us from a mountain of paperwork.
+- [73] **Shunichi**: I cannot in good conscience vote for a system that ignores the usage gap. However, since the majority is against it, I'll vote for Per-Room Metering to stand by the principle of fairness.
+- [74] **Misaki**: I'll vote for the Seasonal Fixed Rate. It seems like the best way to stop the cycle of accusations and late payments while keeping things simple for everyone.
+- [75] **Mio**: It looks like we've reached a consensus! I'm glad we could find a way to make the house feel more comfortable for everyone without making it a chore.
+- [76] **Ryuji**: I agree. The Seasonal Fixed Rate provides the stability and predictability we need. I am satisfied that we have reached a rational decision that balances our various concerns.
+- [77] **Rin**: Yay! No more scary spreadsheets or spending my whole evening doing math. I'm just happy we're all on the same page now!
+- [78] **Shunichi**: I still think we're ignoring the core issue of usage, but I can't fight the majority. As long as we're honest during the year-end settlement, I'll accept it.
+- [79] **Misaki**: I'm just glad we've found a way to prioritize our relationships over the numbers. Let's hope this brings some peace back to our home.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> B
+- Misaki -> A
+## Result
+- adopted: A

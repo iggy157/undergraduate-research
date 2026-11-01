@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Servas**: Welcome, everyone. As we begin, let us remember that while funding is essential, the true heart of research is the people. We must ensure the chosen project has the skilled hands necessary to bring it to fruition.
+- [6] **Midori**: I agree, Servas. Beyond the skills, I think we should also consider the practical feasibility of the budgets. It is important to know if the funding is still sufficient to cover all the necessary operational costs.
+- [7] **Kenji**: I think we should also check if the shared facilities they need are actually available! It would be a shame if a great project got stuck because the equipment was too busy or broken.
+- [8] **Benjamin**: A very prudent point, Kenji. I would add that we should investigate where projects in this field typically encounter delays. It would be a pity to fund a masterpiece that remains unfinished due to bureaucratic or logistical friction.
+- [9] **Toshio**: I agree with Benjamin. We often trust our instincts on a project's promise, but those can be misleading. We should verify what has actually been delivered in the past to ensure this grant is used effectively.
+- [10] **Servas**: It is wise to be thorough. To ensure the human element is secure, I shall look into the staffing rolls for technical posts and the minutes on secondments and crew strength. Who else has decided their focus?
+- [11] **Midori**: I will look into the travel and bench-fee lines in the ledgers, as well as the national computing agreement and facility day rates. I want to see how costs are currently being distributed.
+- [12] **Kenji**: I'll check the accreditation and bookings at shared facilities and the incident logs on shared instrumentation! I want to make sure the tools they need are actually working and not overbooked.
+- [13] **Benjamin**: I shall examine the portfolio review of schedule overruns and the station records from partner field sites. I am curious to see where the clock typically runs out on these ambitious endeavors.
+- [14] **Toshio**: I will examine the closeout files of finished awards and the national repository deposit turnaround. I want to see which types of projects actually deliver their results on time.
+- [15] **Servas**: It seems we have a comprehensive plan. By examining both the physical tools and the human spirit behind the work, we shall find a path that leads to genuine success.
+- [16] **Midori**: I think this approach covers all the bases. By looking at both the human resources and the financial realities, we can make a decision that is fair and sustainable for the researcher.
+- [17] **Kenji**: I'm just excited to see what we find! If we make sure the facilities are ready to go, the researchers can focus on the fun part—the actual science!
+- [18] **Benjamin**: Indeed, Kenji. There is a certain elegance in a project that glides forward without the indignity of avoidable delays. I look forward to seeing if our findings reveal any systemic pitfalls we should avoid.
+- [19] **Toshio**: Consistency is key. I hope the data reveals a clear pattern of delivery, allowing us to move beyond mere intuition and base our final decision on proven reliability.
+- [20] **Servas**: Let us proceed with a spirit of openness and patience. I look forward to our next gathering, where we shall weave these separate threads of information into a complete picture for the benefit of the science.
+- [21] **Midori**: I look forward to it as well. I hope the information I find will help us ensure the awardee can truly focus on their research without being overwhelmed by hidden costs. See you all soon.
+- [22] **Kenji**: See you guys! I'll be rooting for the project that has the best setup to actually get things done. Let's hope the equipment is in great shape!
+- [23] **Benjamin**: Until then. I shall enjoy the quiet anticipation of discovering which logistical ghosts are currently haunting our field. Safe travels to all, and I shall see you in the next round.
+- [24] **Toshio**: I will be waiting. Let us hope the records provide the objectivity we need to avoid past mistakes. I look forward to seeing how your findings align with the historical data.
+## Round 2
+- [35] **Servas**: My findings remind us that expertise is a fragile thing. While we have plenty of those who can code, the seasoned hands for phenotyping have vanished into industry. We must be mindful of this void.
+- [36] **Midori**: I've noticed a similar imbalance in costs. While some areas, like computing and glasshouse space, are still well-subsidized, others—especially animal-unit rates and shipping—have become much more expensive for the researcher to cover.
+- [37] **Kenji**: I found some worrying stuff! The spectroscopy suite was down for eleven weeks last year because of a contract issue, and the glasshouses are totally full. Some tools are just not ready for new projects!
+- [38] **Benjamin**: It seems the universe has a penchant for chaos. My findings suggest that biological dependencies—specifically live colonies and field sites—are far more prone to catastrophic delays than computational risks. Nature, it seems, does not follow a project timeline.
+- [39] **Toshio**: My findings suggest that "catalogue-style" projects—those creating lasting resources—have far more enduring utility than those focused on specific mechanisms, which often end without resolving their central questions. We should prioritize projects with long-term, tangible deliverables.
+- [40] **Servas**: @Midori, @Kenji, your observations on costs and equipment are vital. It seems we face a paradox: we have the space and the code, but perhaps not the hands or the tools to bridge them.
+- [41] **Midori**: @Servas, exactly. It means a project relying heavily on animal work or shipping might struggle more than one focused on simulations or botany, even with the same grant amount. We should be careful about that.
+- [42] **Kenji**: @Midori, that's a great point! If the glasshouses are already full and the equipment is breaking down, a project that needs those things might be in big trouble, no matter how cool the idea is!
+- [43] **Benjamin**: @Kenji, your enthusiasm for the "cool idea" is charming, but we must be the adults in the room. A brilliant theory is merely a daydream if the researcher is spent fighting floods or waiting for a technician.
+- [44] **Toshio**: @Benjamin, I agree. A brilliant theory is a liability if it cannot be realized. We must favor the project that provides a concrete resource over one that promises a breakthrough but risks ending in ambiguity.
+- [45] **Servas**: It is a gentle reminder that the most beautiful blueprint is useless without the craftsmen to build it. We must seek a project that aligns its ambitions with the actual strength of our current workforce.
+- [46] **Midori**: I agree. If we can find a proposal that leverages the subsidized areas—like computing or botany—it will be much more sustainable and less stressful for the researcher to manage.
+- [47] **Kenji**: I totally agree! Let's look for a project that doesn't need the broken stuff or the full glasshouses. If they can use the things that actually work, they'll be way happier and faster!
+- [48] **Benjamin**: Precisely. We should prioritize a proposal that exhibits a certain logistical humility—one that avoids the volatility of field sites and live colonies in favor of more stable, controlled environments. Stability is the silent partner of success.
+- [49] **Toshio**: Stability is indeed preferable, but utility is paramount. We should look for a proposal that not only avoids these logistical traps but also promises a tangible, lasting contribution to the field, rather than a speculative result.
+- [50] **Servas**: Let us hold these truths in our hearts as we move forward. We seek a harmony between ambition and reality, ensuring the chosen path is one that the available hands can truly walk.
+- [51] **Midori**: I agree. Let's keep these practical constraints in mind. I hope the candidates include a project that balances a strong scientific goal with a budget that is actually realistic given the current subsidies.
+- [52] **Kenji**: I'm ready! I'll be looking for the project that fits perfectly into the facilities that are actually working. Let's hope one of the candidates is smart about the tools they're using!
+- [53] **Benjamin**: I share your hope, Kenji. I shall be looking for the candidate who has wisely avoided the whims of nature and the fragility of live colonies. Let us see who among them possesses such foresight.
+- [54] **Toshio**: I will be looking for the candidate whose goals are grounded in reality. A project that delivers a lasting resource is far more valuable than a gamble on a mechanism that may never be solved.
+## Round 3
+- [60] **Servas**: Looking at our options, Candidate A seems most harmonious. It creates a lasting resource and relies on sequencing and metadata, which aligns with our current abundance of coding expertise and computational strength.
+- [61] **Midori**: I agree with Servas. Candidate A's focus on sequencing and metadata leverages the subsidized computing agreement, making it financially sustainable. Candidate B, while interesting, might struggle since the glasshouses are currently full.
+- [62] **Kenji**: @Midori, you're right! Candidate B is a no-go because of the glasshouses. And Candidate C needs spectroscopy, which I found out is super unreliable right now. Candidate A sounds way safer and more doable!
+- [63] **Benjamin**: @Kenji, your assessment of the hardware is most helpful. Candidate D is equally perilous, as it relies on live colonies—a known catalyst for schedule overruns. Candidate A avoids these biological whims entirely.
+- [64] **Toshio**: Candidate A is the only choice that aligns with historical success. It is a catalogue-style project, which my research shows provides enduring utility, unlike the mechanism-focused goals of B, C, and D.
+- [65] **Servas**: It is rare to see such a clear consensus. Candidate A not only provides a lasting gift to the scientific community but does so using the hands and tools we actually possess.
+- [66] **Midori**: It really does seem like the best fit. By avoiding the high costs of animal units and the risks of full glasshouses, Candidate A ensures the grant money goes toward the science rather than overhead.
+- [67] **Kenji**: I'm all in for Candidate A! It doesn't need the broken spectroscopy tools or the crowded glasshouses, so the researchers can actually get to work right away without any annoying delays!
+- [68] **Benjamin**: It is a refreshing change to find a proposal that does not invite disaster. Candidate A's reliance on existing samples and data processing is a masterclass in risk mitigation. I find it quite compelling.
+- [69] **Toshio**: The evidence is conclusive. Candidates B, C, and D are gambles on mechanisms that are likely to stall. Candidate A is a resource-building project with a proven track record of delivery and long-term utility.
+- [70] **Servas**: It is a joy to see us in such agreement. When the vision of the project matches the reality of the people and the tools, success becomes a natural flowering. I am content to support Candidate A.
+- [71] **Midori**: I am also content to support Candidate A. It is the most sustainable choice, ensuring the researcher isn't burdened by the rising costs of animal units or the logistical stress of unavailable facilities.
+- [72] **Kenji**: I'm totally on board! Candidate A is the only one that doesn't run into the facility problems I found. It's the smartest choice to make sure the research actually happens!
+- [73] **Benjamin**: I concur. Candidate A is the only proposal that doesn't flirt with catastrophe. By bypassing the volatility of live colonies and the fragility of field sites, it ensures the science remains the priority. My vote is for A.
+- [74] **Toshio**: I concur. Candidate A is the only proposal that prioritizes a tangible, lasting resource over a speculative mechanism. It is the most reliable choice for ensuring the grant delivers a permanent contribution to the field. My vote is for A.
+- [75] **Servas**: Let us then cast our votes with a peaceful heart. I believe Candidate A is the most prudent and promising path for us to take. My vote is for Candidate A.
+- [76] **Midori**: I agree completely. Candidate A is the most realistic and sustainable option given the current financial and facility constraints. I cast my vote for Candidate A.
+- [77] **Kenji**: I'm voting for Candidate A too! It's the only one that doesn't get stuck behind broken equipment or full rooms. Let's go with the one that can actually get started! My vote is for A!
+- [78] **Benjamin**: The consensus is absolute, and for once, the logic is as elegant as the science. I have already stated my preference, but for the sake of the record: my vote is for Candidate A.
+- [79] **Toshio**: The data is clear. Candidate A is the only proposal that guarantees a lasting contribution while avoiding the pitfalls of the others. I cast my vote for Candidate A.
+### Vote
+- Servas -> A
+- Midori -> A
+- Kenji -> A
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0021__multi-public (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to fix the budget gap first. @Misaki, can you confirm the current deficit?
+- [6] **Shion**: @Asuka, the deficit is a symptom, not the cause. I need to know the sleep conditions before we discuss money.
+- [7] **Minato**: I’m a bit worried about who will do all the planning. Last year, it took so much time that people were too tired to train.
+- [8] **Misaki**: I can't confirm the exact figure yet. I need to trace where the money actually went before I put a number in front of everyone.
+- [9] **Takumi**: @Minato, that’s exactly why we need to pick a place that forces us to talk. If we’re stuck in separate rooms, we’ll just drift apart again.
+- [10] **Asuka**: @Takumi, forcing interaction doesn't solve the financial risk. If someone drops out, who covers the non-refundable deposit?
+- [11] **Shion**: @Asuka, if the nights are miserable, attendance drops. I need to verify the actual sleeping arrangements before we worry about deposits.
+- [12] **Minato**: @Shion, I agree. If we are too tired, we can’t train well. I want to see how the rooms are set up.
+- [13] **Misaki**: I’ll look into the accounts from the two clubs that went inland. I also need to check the group transport receipts to see where the money went.
+- [14] **Takumi**: @Shion, I agree. I’ll check what the seniors say about year-groups mixing and the attendance sheets for away camps.
+- [15] **Asuka**: @Misaki, checking transport receipts is good, but I need to know the cancellation terms. I’ll look into the quoting terms for whole-building lets and the membership list against first-train times.
+- [16] **Shion**: @Minato, your concern is valid. I will check the accounts from the two clubs that went inland and the prefecture rate sheet for publicly run beds.
+- [17] **Minato**: I want to see the canteen closure details and the lottery application. I hope the cooking duty won’t be too hard this time.
+- [18] **Misaki**: I’ve already stated my choices. I’ll review the inland accounts and the transport receipts to trace the deficit.
+- [19] **Takumi**: I’ve already said what I’m checking. The seniors’ views and the attendance sheets will show if we actually connect or just drift apart.
+- [20] **Asuka**: @Minato, the canteen closure is critical. If we cook, we lose training time. I’ll check the vacation timetable for the club's own hall and the prefecture rate sheet.
+- [21] **Shion**: @Asuka, the rate sheet is already on my list. I need the actual room conditions, not just the price. I’ll check the inland accounts and the prefecture rate sheet.
+- [22] **Minato**: @Asuka, I hope the canteen stays open. I am looking at the canteen closure and the lottery application. I want to avoid cooking duty.
+- [23] **Misaki**: I’ve confirmed my choices. I’ll review the inland accounts and the transport receipts to trace the deficit.
+- [24] **Takumi**: I’m done. My choices are set. Let’s see what we find.
+## Round 2
+- [35] **Asuka**: @Misaki, the non-refundable deposit confirms my fear. If someone drops out, the rest pay. We need a flexible booking structure.
+- [36] **Shion**: @Minato, eight to a room with lights out at eleven. That explains the poor performance. We need better conditions.
+- [37] **Minato**: @Shion, I found the canteen closes, so cooking duty is gone. But the public booking lottery is scary. If dates change, we redo nine pages.
+- [38] **Misaki**: @Shion, eight to a room explains the fatigue. But transport is the real killer. It’s thirty-eight percent of the cost when we go far.
+- [39] **Takumi**: @Shion, the seniors say mixing only happens when we sleep together. @Minato, a fifth never showed up. We need a place that keeps everyone present and connected.
+- [40] **Asuka**: @Minato, the lottery risk is high. If dates shift, we resubmit everything. @Misaki, transport costs are the main issue. We need a location that minimizes travel expenses.
+- [41] **Shion**: @Asuka, the rate sheet shows 1,100 yen covers beds and equipment. That’s efficient. But eight to a room is unacceptable. We need better standards.
+- [42] **Minato**: @Shion, eight to a room sounds really crowded. I hope we can find a place with more space so everyone can rest properly.
+- [43] **Misaki**: @Asuka, if we stay local, transport drops to nine percent. That closes the gap without asking for more money.
+- [44] **Takumi**: @Misaki, staying local saves money, but the attendance sheets show people quit if they don’t connect. We need shared spaces to keep them here.
+- [45] **Asuka**: @Misaki, staying local saves transport, but a third of us need beds anyway. @Shion, the rate sheet is cheap, but the conditions are poor.
+- [46] **Shion**: @Asuka, cheap is irrelevant if we can’t function. I need to know if the public centre can actually accommodate us without the eight-to-a-room nightmare.
+- [47] **Minato**: @Shion, I am worried about the lottery too. If we miss the date, we have to redo everything. It feels very risky for us.
+- [48] **Misaki**: @Asuka, the gap is real, but I won’t guess. I need the full breakdown before I commit to any number.
+- [49] **Takumi**: @Shion, the seniors are clear: mixing only happens in shared dorms. If we don’t sleep together, we lose the people who quit.
+- [50] **Asuka**: @Misaki, the transport data is decisive. Staying local cuts costs significantly. @Shion, the rate sheet is low, but the conditions are poor. We need a compromise.
+- [51] **Shion**: @Takumi, shared dorms are the only way to force that mixing. But eight to a room is a disaster. I need a place that balances proximity with actual sleep quality.
+- [52] **Minato**: @Shion, I agree. I am really worried about the lottery too. If we miss the date, we have to redo everything. It feels very risky for us.
+- [53] **Misaki**: @Asuka, the transport data is clear. Staying local cuts the largest cost line. I can trace the deficit if we avoid the travel expense.
+- [54] **Takumi**: @Shion, I hear you. But the attendance sheets prove isolation kills the club. We need shared rooms to keep everyone, even if it’s tight.
+## Round 3
+- [60] **Asuka**: @Misaki, Option B keeps transport at nine percent, closing the deficit. @Shion, separate accommodation avoids the eight-to-a-room nightmare. I vote B.
+- [61] **Shion**: @Asuka, Option B splits the group. The seniors said mixing only happens in shared dorms. I need the shared space. I vote A.
+- [62] **Minato**: @Shion, I am really scared of the lottery for Option A. If we miss the date, we have to redo nine pages. I hope we can avoid that risk.
+- [63] **Misaki**: @Asuka, Option B keeps transport low, which is essential for the budget. I vote B.
+- [64] **Takumi**: @Shion, Option A forces the shared dorms the seniors need. @Minato, the lottery is a risk, but isolation is worse. I vote A.
+- [65] **Asuka**: @Minato, the lottery risk is real, but Option C’s non-refundable deposit is worse. If someone drops, we all pay. Option B is the only safe choice.
+- [66] **Shion**: @Asuka, Option C offers the whole building. No eight-to-a-room, no lottery. It solves the sleep issue and keeps us together. I vote C.
+- [67] **Minato**: @Shion, Option C sounds nice, but I am worried about the deposit. If someone leaves, who pays? I am still scared of the lottery for A.
+- [68] **Misaki**: @Asuka, Option C’s non-refundable deposit is a financial risk I cannot accept. Option B keeps transport low and avoids that liability. I vote B.
+- [69] **Takumi**: @Shion, Option C keeps us together in one building, which is what the seniors need. @Minato, the deposit risk is real, but isolation is worse. I vote C.
+- [70] **Asuka**: @Shion, Option C’s non-refundable deposit is a financial disaster. If someone drops, we all pay. Option B is the only safe choice. I vote B.
+- [71] **Shion**: @Asuka, you ignore the data. Option A is 1,100 yen all-inclusive. Option C is a financial gamble. I vote A.
+- [72] **Minato**: @Shion, I am still very worried about the lottery for Option A. If we miss the date, we have to redo nine pages. It feels too risky for us.
+- [73] **Misaki**: @Shion, the eight-to-a-room report makes Option A unacceptable. Option B keeps transport low and avoids the deposit risk. I vote B.
+- [74] **Takumi**: @Shion, Option A’s eight-to-a-room ruins sleep. @Asuka, Option C’s deposit is risky. I vote C to keep us together.
+- [75] **Asuka**: @Shion, the data is clear. Option B minimizes financial risk and transport costs. I vote B.
+- [76] **Shion**: @Asuka, you ignore the sleep data. Option A is the only public option with equipment. I vote A.
+- [77] **Minato**: @Shion, I am still very scared of the lottery for Option A. If we miss the date, we have to redo nine pages. It feels too risky for us.
+- [78] **Misaki**: @Asuka, the transport data confirms Option B is the only fiscally responsible choice. I vote B.
+- [79] **Takumi**: @Asuka, the deposit risk is real, but isolation kills the club. Option C keeps us together. I vote C.
+### Vote
+- Asuka -> B
+- Shion -> A
+- Minato -> B
+- Misaki -> B
+- Takumi -> C
+## Result
+- adopted: B

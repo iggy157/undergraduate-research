@@ -1,0 +1,73 @@
+# shared_living_0020__single-online (shared_living)
+
+## Round 1
+- [5] **Minako**: The old habit has clearly broken down. Before we pick a new system, we need to understand the actual workload and costs involved.
+- [6] **Benjamin**: I agree. We need data on who actually uses the spaces versus who cleans them. Let’s look at the calendar and the kitchen watch.
+- [7] **Sakura**: I want to know why the bathroom feels so scary sometimes! Can we check what "done" means for everyone?
+- [8] **Shizue**: I’d like to see the receipts for the spray and the management office’s rate sheet, so we know the true monthly cost.
+- [9] **Servas**: I’d like to read the note from the previous tenants and check the chat history to see how our disagreements started.
+- [10] **Minako**: @Benjamin, the calendar and kitchen watch are good starts. I also need the stopwatch timing to see the real hours involved.
+- [11] **Benjamin**: @Minako, the stopwatch timing is essential for your hours. I’ll take the calendar and the kitchen watch to map the usage.
+- [12] **Sakura**: @Minako, I’ll check what “done” means for everyone and look at the bathroom grout after the July scrub!
+- [13] **Shizue**: @Minako, I’ll take the bathroom spray receipts and the management office rate sheet to pin down the monthly costs.
+- [14] **Servas**: @Minako, I’ll read the previous tenants’ note and review the house chat rows to understand how our conflicts began.
+- [15] **Minako**: @Benjamin, I’ll take the stopwatch timing and the bathroom spray receipts to verify the time and cost figures myself.
+- [16] **Benjamin**: @Minako, I’ll take the absences on the wall calendar and the fortnight’s watch on kitchen use to map the actual usage patterns.
+- [17] **Sakura**: @Minako, I’ll check what each housemate counts as done and look at the bathroom grout after the July scrub!
+- [18] **Shizue**: @Minako, I’ll take the bathroom spray stock and the tin's receipts, plus the management office rate sheet and billing.
+- [19] **Servas**: @Minako, I’ll read the note left by the previous tenants and review the rows recorded in the house chat to see how we drifted apart.
+- [20] **Minako**: Finalizing my choices: I will look into the stopwatch timing of a full pass and the bathroom spray stock and the tin's receipts.
+- [21] **Benjamin**: Finalizing my choices: I will look into the absences on the wall calendar and the fortnight’s watch on kitchen use.
+- [22] **Sakura**: Finalizing my choices: I will look into what each housemate counts as done and the bathroom grout after the July scrub!
+- [23] **Shizue**: Finalizing my choices: I will look into the bathroom spray stock and the tin's receipts, and the management office rate sheet and billing.
+- [24] **Servas**: Finalizing my choices: I will look into the note left by the previous tenants and the rows recorded in the house chat.
+## Round 2
+- [35] **Minako**: #### Turn 1 of 4
+- [36] **Benjamin**: #### Turn 1 of 4
+- [37] **Sakura**: - **Sakura**: I found out the grout gets dirty again in just eleven days! That explains why it always looks so grim.
+- [38] **Shizue**: - **Shizue**: The office charges 4,200 yen an hour, and the bill lands on one person to collect. That is a heavy burden for a single wallet.
+- [39] **Servas**: #### Turn 1 of 4
+- [40] **Minako**: - **Minako**: The spray receipts show 2,300 yen monthly, often bought twice. The stopwatch run totaled one hour and forty-two minutes for a full pass.
+- [41] **Benjamin**: - **Benjamin**: The calendar shows two of us away for weeks, and one was gone all August. The kitchen watch confirms only two or three of us actually cook.
+- [42] **Sakura**: - **Sakura**: @Minako, one hour and forty-two minutes is a lot! @Benjamin, it makes sense if only a few of us cook.
+- [43] **Shizue**: - **Shizue**: @Minako, that hour and forty-two minutes is a heavy load. @Benjamin, knowing who cooks helps us see who truly needs the kitchen cleaned.
+- [44] **Servas**: @Sakura, eleven days is a short time for that mess to return. @Shizue, placing the bill on one person is a recipe for resentment.
+- [45] **Minako**: - **Minako**: @Benjamin, if two are away weekly, the remaining three absorb the full load. @Servas, the chat rows confirm reminders trigger our conflicts.
+- [46] **Benjamin**: - **Benjamin**: @Minako, exactly. The usage is concentrated, so a flat split ignores reality. @Servas, the chat history shows we clash over reminders, not the mess itself.
+- [47] **Sakura**: - **Sakura**: @Benjamin, that makes me feel better! If only a few cook, maybe the kitchen won’t feel so random to me anymore.
+- [48] **Shizue**: @Servas, I agree. If the bill goes to one person, they carry the weight. We must ensure the costs are shared fairly.
+- [49] **Servas**: @Benjamin, yes, the reminders are the spark. @Shizue, I worry that if we just split the bill, the resentment over the work remains.
+- [50] **Minako**: - **Minako**: @Benjamin, the data confirms the load is uneven. @Servas, we need a system that removes the need for reminders entirely.
+- [51] **Benjamin**: - **Benjamin**: @Minako, agreed. The data shows the work follows the usage, not the headcount. We need a structure that reflects that reality.
+- [52] **Sakura**: - **Sakura**: @Minako, I hope the new plan means I won’t have to guess if the bathroom is safe to use!
+- [53] **Shizue**: @Minako, I am glad we are looking at the facts. I just want to make sure the money part is clear for everyone.
+- [54] **Servas**: @Minako, I agree. A system that removes the need for reminders is the only way to keep our peace. Let us hope the next options reflect that.
+## Round 3
+- [60] **Minako**: - **Minako**: The options are here. I need to see which one actually removes the hours from my week, not just shifts them.
+- [61] **Benjamin**: - **Benjamin**: @Minako, I am looking for the option that matches the work to the people who actually use the rooms.
+- [62] **Sakura**: - **Sakura**: I just want a plan where I know exactly what the bathroom looks like before I walk in!
+- [63] **Shizue**: - **Shizue**: I am listening carefully. I want to know which option keeps the monthly costs clear and fair for all of us.
+- [64] **Servas**: @Minako, I care most about which option keeps us speaking to each other a year from now, not just the rooms.
+- [65] **Minako**: - **Minako**: Option B removes the hours entirely. Option A just rotates the burden. I need the work gone, not shifted.
+- [66] **Benjamin**: - **Benjamin**: @Minako, Option C aligns work with usage. If the heavy users own the kitchen, the load matches the reality.
+- [67] **Sakura**: - **Sakura**: @Minako, if the cleaner comes, I won’t have to guess! But @Benjamin, I like knowing exactly who is responsible for the bathroom.
+- [68] **Shizue**: @Minako, Option B costs 4,200 yen an hour. @Benjamin, Option C risks the same resentment if the bill isn't split fairly.
+- [69] **Servas**: @Minako, Option B buys peace, but @Benjamin, Option C risks the silence the previous tenants fell into. I fear the reminders will return.
+- [70] **Minako**: - **Minako**: @Benjamin, Option C leaves the hours on my shoulders. @Servas, Option B is the only choice that guarantees we stop needing reminders.
+- [71] **Benjamin**: - **Benjamin**: @Minako, Option C is the only one that respects the data. If the heavy users own the kitchen, the work matches the mess.
+- [72] **Sakura**: - **Sakura**: @Minako, I trust the cleaner to make it safe! @Benjamin, but I worry about who checks the grout if it gets dirty again.
+- [73] **Shizue**: -Servas: @Minako, I agree. Option B removes the friction. @Benjamin, Option C risks the silence the previous tenants fell into.
+- [74] **Servas**: @Minako, I agree. Option B removes the friction. @Benjamin, Option C risks the silence the previous tenants fell into.
+- [75] **Minako**: - **Minako**: @Benjamin, the data shows the hours are fixed, not flexible. Option B is the only one that removes them. I vote B.
+- [76] **Benjamin**: @Minako, the data proves the work follows the usage, not the headcount. Option C is the only one that respects that reality. I vote C.
+- [77] **Sakura**: - **Sakura**: @Minako, I trust the cleaner to keep it safe! I don't want to guess anymore. I vote B.
+- [78] **Shizue**: @Minako, I agree. Option B keeps the costs clear and shared. I vote B.
+- [79] **Servas**: @Minako, I agree. Option B removes the friction. @Benjamin, Option C risks the silence the previous tenants fell into. I vote B.
+### Vote
+- Minako -> B
+- Benjamin -> C
+- Sakura -> B
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

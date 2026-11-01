@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I worry the old three-person split is unfair now that we are five.
+- [6] **Ryuji**: I need to see the actual numbers before agreeing to any new split.
+- [7] **Rin**: I hate that someone always ends up doing the math. I want to know how many hours this actually takes each month!
+- [8] **Shunichi**: I am tired of the rumor that one of us is subsidizing the others. I want to verify if the current split is actually lopsided.
+- [9] **Misaki**: I am concerned that the tension around money is damaging our relationships. I want to see how the current split has affected our interactions.
+- [10] **Mio**: @Ryuji, I agree, the numbers are key. But I also worry about the winter heating costs.
+- [11] **Ryuji**: @Mio, winter is exactly when the gap widens. I need to see the seasonal variance in the data.
+- [12] **Rin**: @Mio, winter is brutal! But if the math takes hours, I refuse to be the one doing it.
+- [13] **Shunichi**: @Rin, the math is trivial. The real issue is whether the current split matches actual usage. I will verify that.
+- [14] **Misaki**: @Shunichi, the math is easy, but the silence after a reminder is not. I need to see if the tension is real.
+- [15] **Mio**: @Misaki, I feel that too. I want us to be comfortable, not just calculating. Let’s find a way that feels warm.
+- [16] **Ryuji**: @Misaki, I understand the social strain. But I cannot fix feelings without fixing the underlying financial discrepancy first.
+- [17] **Rin**: @Shunichi, if the math is trivial, why does it take so long? I need to know the real time cost, not just the numbers!
+- [18] **Shunichi**: @Rin, it takes long because nobody trusts the result. I will check the plug-in monitor readings to prove who is actually using what.
+- [19] **Misaki**: @Rin, the time is less the issue than the trust. I will look into the payment log to see if the friction is in the process.
+- [20] **Mio**: I will check the winter habits at a house paying ahead and the sunlight and heating need by room.
+- [21] **Ryuji**: I will check the last twelve utility statements and the payment log for the last twelve months.
+- [22] **Rin**: I will check the trial run of a reconciliation template and the monthly settle observed at another house.
+- [23] **Shunichi**: I will check the plug-in monitor readings room by room and the electrician's quote for the rooms.
+- [24] **Misaki**: I will check the payment log for the last twelve months and the kitchen notice about the cooler.
+## Round 2
+- [35] **Mio**: @Ryuji, the south rooms stay warm naturally, but the others need heat from November. That gap is huge.
+- [36] **Ryuji**: @Mio, that seasonal swing explains the volatility. I found February hit 29,400 yen, while August was only 9,100.
+- [37] **Rin**: @Shunichi, the template meant keying in every invoice by hand! That is hours of work. I refuse to be the one doing that every month.
+- [38] **Shunichi**: @Rin, the template is a band-aid. I found the usage gap is four-to-one. Sub-meters cost 34,000 yen per room, but that is the only honest fix.
+- [39] **Misaki**: @Ryuji, the payment log shows three months settled late, always after someone questioned the amount. The friction is real, not imagined.
+- [40] **Mio**: @Shunichi, four-to-one is shocking. But 34,000 yen per room is a massive upfront cost. Can we really afford that right now?
+- [41] **Ryuji**: @Mio, I agree. The upfront cost is significant. I need to know if the savings justify that investment before we commit.
+- [42] **Rin**: @Mio, forty minutes at the other house is manageable! If we automate the logging, I can handle it without losing my evenings.
+- [43] **Shunichi**: @Rin, forty minutes is fine if the data is accurate. My monitors prove the usage gap is real, not a feeling. We need precision, not just speed.
+- [44] **Misaki**: @Rin, forty minutes is good, but the cooler notice stayed up all summer. People avoided the bill to avoid the argument.
+- [45] **Mio**: @Misaki, that silence is exactly what I fear. I want a system where we don’t have to guess or argue.
+- [46] **Ryuji**: @Misaki, that silence confirms the current method is broken. I need to know if the volatility I see in the statements makes a fixed split impossible.
+- [47] **Rin**: @Ryuji, the volatility is real, but if the template is automated, I only need to check the final numbers. That saves my evenings!
+- [48] **Shunichi**: @Ryuji, the volatility is irrelevant if the split is wrong. The monitors show who actually uses power. We need to stop guessing and start measuring.
+- [49] **Misaki**: @Shunichi, precision is good, but if it creates more silence, it fails. I need a method that keeps us talking, not just measuring.
+- [50] **Mio**: @Shunichi, I hear you, but I worry about the cost. @Ryuji, what if we just split the winter heating fairly?
+- [51] **Ryuji**: @Mio, a fixed winter split ignores the four-to-one usage gap. I need to see if the sub-meter cost is recoverable within a year.
+- [52] **Rin**: @Shunichi, if the monitors are already there, why do we need the expensive sub-meters? I just want to know who is actually using the power!
+- [53] **Shunichi**: @Rin, the monitors are temporary. Sub-meters are permanent. I will check the electrician’s quote to see if the annual check is worth the wiring hassle.
+- [54] **Misaki**: @Rin, the monitors are temporary, but the silence is permanent. I need a method that prevents the avoidance, not just the measurement.
+## Round 3
+- [60] **Mio**: @Ryuji, Option A feels like the "paying ahead" house I researched. No one prices a switch, and the hall heater just stays on. It feels warm and simple.
+- [61] **Ryuji**: @Mio, Option A hides the volatility I found. I need to know if the annual settlement covers the 20,000 yen winter spike without causing a cash crunch.
+- [62] **Rin**: @Mio, Option A means one giant math session in December! I refuse to be the one doing that. I need a system that takes minutes, not hours.
+- [63] **Shunichi**: @Rin, Option B is the only one that matches my monitor data. It kills the rumor dead.
+- [64] **Misaki**: @Mio, Option A defers the argument to December. I fear that single moment of reckoning will break us.
+- [65] **Mio**: @Misaki, I hear you, but the constant checking in B feels cold. I want the warmth of A, but without the December panic.
+- [66] **Ryuji**: @Misaki, I agree the December spike is a risk. But Option B’s 170,000 yen upfront cost is a barrier I cannot justify without seeing the long-term savings.
+- [67] **Rin**: @Ryuji, Option B is perfect! I just read my own meter. No math, no arguing, no losing my evenings. It is the only way I can sleep at night!
+- [68] **Shunichi**: @Ryuji, 170,000 yen is steep, but the alternative is perpetual suspicion. My monitors prove the gap is real; B is the only honest metric.
+- [69] **Misaki**: @Rin, reading your own meter is clean, but it isolates us. I worry B turns us into strangers. I need a way to keep the conversation open.
+- [70] **Mio**: @Rin, I love that B is easy, but I worry it makes us strangers. @Shunichi, is there a way to keep the warmth of A with the fairness of B?
+- [71] **Ryuji**: @Mio, I cannot justify the 170,000 yen upfront cost without a clear payback period. Option A’s annual settlement is too risky for my cash flow.
+- [72] **Rin**: @Mio, I get it, but B is the only one that saves my evenings! I just want to read my meter and forget about it.
+- [73] **Shunichi**: @Mio, warmth is a luxury we cannot afford if the math is wrong. B is the only option that respects the data I have.
+- [74] **Misaki**: @Mio, I agree. B isolates us. I need a method that prevents the silence, not just the measurement.
+- [75] **Mio**: @Ryuji, I understand the cost worry. But I choose the warmth of A. I vote for A.
+- [76] **Ryuji**: @Mio, I cannot vote for A. The winter spike is a cash-flow risk I cannot accept. I am voting for B, despite the cost.
+- [77] **Rin**: @Mio, I am voting for B! It is the only option that does not steal my evenings. I refuse to be the unpaid accountant!
+- [78] **Shunichi**: @Mio, warmth is nice, but I refuse to subsidize your heating habits. The data is clear. I am voting for B.
+- [79] **Misaki**: @Mio, I am voting for C. It is the only option that keeps us talking every month, preventing the silence I fear.
+### Vote
+- Mio -> A
+- Ryuji -> B
+- Rin -> B
+- Shunichi -> B
+- Misaki -> C
+## Result
+- adopted: B

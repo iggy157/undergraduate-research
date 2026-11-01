@@ -1,0 +1,72 @@
+# candidate_selection_0028__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I'm excited to get started. To make sure the new system actually works for the people on the ground, I want to check the Depot calendar and the peak-season cutover, and Yard devices and the 2021 scheduling trial.
+- [6] **Mizuki**: I agree that operational stability is key, Kenji. For my part, I want to look into the Board minutes on capital and operating requests and the five years of renewal invoices.
+- [7] **Asuka**: I want to ensure we have clear accountability and a sustainable plan. I'll look into support ownership during last winter's outage and warehouse rule changes after new accounts.
+- [8] **Rin**: I want to see if things are just getting old or if we're fixing the same mistakes! I'll check the upgrade history of the dispatch tool and the data lift in the 2018 pay move.
+- [9] **Servas**: It is a pleasure to be here with you all. To ensure our people are supported through this transition, I will look into administrator retirements and hiring times, and depot supervisors and the last rollout.
+- [10] **Kenji**: That sounds like a great spread of topics! It feels like we're covering everything from the boardroom to the warehouse floor. I'm curious to see what you all find. Does anyone else think we missed anything?
+- [11] **Mizuki**: I believe we have a comprehensive list. By covering financial records, technical history, and personnel management, we can evaluate the vendors from every necessary angle. I'm satisfied with this distribution.
+- [12] **Asuka**: I agree. The current selection covers the financial, operational, and human elements of the transition. There is no need to add more; we should proceed to the investigation phase.
+- [13] **Rin**: I'm super excited! I bet we'll find some really juicy secrets in those old files. Let's get to it and see who's actually doing a good job!
+- [14] **Servas**: Patience is a virtue, and a thorough search is the foundation of a wise decision. I believe we have a balanced approach. Let us move forward with a spirit of cooperation and openness.
+- [15] **Kenji**: I'm totally on board! I can't wait to see if those yard devices from 2021 actually held up. Let's dive in and find the best partner for our team!
+- [16] **Mizuki**: Since we are all in agreement, there is no need for further deliberation this round. I look forward to reviewing the findings and analyzing how they impact our long-term costs.
+- [18] **Rin**: Me too! I'm going to look for clues like a detective! I hope the dispatch tool hasn't just been gathering dust for years. Let's go!
+- [19] **Servas**: The energy of youth is a wonderful thing to behold. Let us carry this enthusiasm into our research, keeping in mind that the heart of any system is the people who breathe life into it.
+- [20] **Kenji**: I'm ready! Let's all do our best to find the right answers. I'll see you all in the next round with the results!
+- [22] **Mizuki**: I am ready as well. Let us proceed to the investigation. I will be waiting to see how the data aligns with our goals.
+- [24] **Asuka**: I am also ready. Let us move to the investigation phase and see what the records actually reveal.
+- [26] **Rin**: I'm ready too! I'll find all the clues and tell you everything! See you soon, everyone!
+- [28] **Servas**: May we all find the clarity we seek. I shall reflect upon the human element of our records and return with a peaceful heart. Until then, I wish you all a productive search.
+## Round 2
+- [40] **Kenji**: Wow, that was eye-opening! It turns out our depots never stop during peak season, and those 2021 tools were basically replaced by spreadsheets almost immediately. We really need a vendor who can handle that chaos!
+- [41] **Mizuki**: My findings suggest a concerning pattern. While initial capital costs are scrutinized, recurring operating expenses often slip through. Furthermore, separate add-ons have seen yearly price hikes, unlike bundled agreements. We must be wary of hidden long-term costs.
+- [42] **Asuka**: My findings are equally concerning. Last winter's outage remained unowned for two days due to fragmented support contracts, and our warehouse rules were rewritten twice within a year, rendering the initial project scope obsolete.
+- [43] **Rin**: I found some scary stuff! The dispatch tool is super old and they skipped updates because they were too busy. Plus, some outside people messed up the 2018 pay move and it took a whole year to fix!
+- [44] **Servas**: It seems we are all discovering that the cracks in our foundation are deeper than we imagined. My research reveals a fragile human bridge; we are losing vital knowledge and struggling to replace it.
+- [45] **Kenji**: @Mizuki @Asuka @Rin @Servas, it sounds like we're all seeing a pattern of things breaking or being ignored. If our yard tools are just spreadsheets and the support is fragmented, we can't afford another failure!
+- [46] **Mizuki**: Exactly. We cannot simply look at the initial quote. If we choose a vendor with fragmented licensing or hidden add-ons, we will face the same uncontrolled cost creep I discovered in the renewal invoices.
+- [47] **Asuka**: @Kenji @Mizuki, the issue isn't just the tools, but the lack of accountability. If we don't secure a single point of ownership and a flexible scope, we will repeat the same failures regardless of the vendor.
+- [48] **Rin**: Exactly! We can't just let things get old and dusty like that dispatch tool, and we definitely can't let outsiders leave us with a big mess to clean up for a whole year!
+- [49] **Servas**: Indeed. We must remember that a system is only as strong as the hands that guide it. If our experts depart and our supervisors resist, even the finest software will become a burden.
+- [50] **Kenji**: I totally agree! We need a partner who doesn't just sell us software, but actually helps our people use it. If the system is too hard for the depot staff, they'll just go back to spreadsheets!
+- [51] **Mizuki**: That is a valid point, Kenji. However, we must ensure that "help" doesn't come as a series of expensive, separate service contracts. I will be looking for a vendor that offers a comprehensive, bundled pricing model.
+- [52] **Asuka**: @Mizuki, bundling costs is a start, but it doesn't solve the ownership problem. We need a vendor who accepts full accountability for system stability and allows for agile scope adjustments as our business needs evolve.
+- [53] **Rin**: I agree with Asuka! We need someone who stays and helps us fix things, not someone who just does a "data lift" and disappears while we spend a year cleaning up their mess!
+- [54] **Servas**: We must seek a partner who values the human spirit. A vendor who provides deep, patient training and supports our remaining staff will prevent our wisdom from vanishing as our veterans retire.
+- [55] **Kenji**: It sounds like we're all on the same page! We need a vendor who is tough enough for the yard, clear on costs, accountable for fixes, and patient with our people. I'm ready to see the candidates!
+- [56] **Mizuki**: I agree. We have identified the critical risks: hidden costs, fragmented support, technical debt, and knowledge loss. I will evaluate the candidates based on their ability to provide a transparent, all-inclusive financial model.
+- [57] **Asuka**: I will prioritize a vendor that guarantees a single point of contact for support and demonstrates a flexible approach to scope management. We cannot afford another project that becomes obsolete before it is even fully deployed.
+- [58] **Rin**: I'll be looking for someone who keeps things fresh and doesn't leave us with a giant puzzle to solve alone! No more skipping updates or messy hand-offs for me! I'm ready!
+- [59] **Servas**: The path forward is clear. We must choose a partner who sees our employees not as users, but as the heart of the operation. I shall vote for the one who offers the most grace.
+## Round 3
+- [65] **Kenji**: Looking at these, Anchor Industrial Software seems like the best bet! They have an engineering team present through rollout, which is exactly what we need to make sure it survives the yard and our peak season.
+- [66] **Mizuki**: I must disagree with Anchor. On-premise servers often lead to hidden maintenance costs. Corvus is even worse; its modular, independent licensing is exactly the kind of fragmented pricing that leads to the cost creep I discovered.
+- [67] **Asuka**: @Mizuki I agree that Corvus is a risk. Its modular, independent licensing likely mirrors the fragmented support that caused our last outage. We need a unified system, not a collection of separate components.
+- [68] **Rin**: I don't like Anchor either! They put it on our own servers, and that's how the dispatch tool got old and dusty. We need something that stays updated automatically so we don't skip things again!
+- [69] **Servas**: My heart leans toward Anchor as well. Having their engineers present during the rollout provides the steady hand our stretched staff needs, ensuring the knowledge is transferred and the people are truly supported.
+- [70] **Kenji**: @Rin, I get that, but having the engineers right here means they can see the chaos in the yard for themselves! They can't just ignore us if they're standing right there.
+- [71] **Mizuki**: @Kenji, physical presence doesn't guarantee financial transparency. Meridian Systems offers a hosted suite with a fixed configuration, which is far more likely to provide the predictable, bundled cost structure we need to avoid future budget surprises.
+- [72] **Asuka**: @Mizuki, a fixed configuration is a trap. My research showed that our business needs change mid-year. A rigid process will lead to the same obsolete scope we suffered before. We need the flexibility of Tessera.
+- [73] **Rin**: @Asuka, I like Tessera's flexibility, but wait! They use a "partner firm" for the migration and training. That sounds like those outside people who messed up the pay move and left us to clean it up!
+- [74] **Servas**: @Rin, your caution is wise. A third party can indeed be a bridge to nowhere. However, we must weigh that risk against the exhaustion of our own people. A fixed system may break their spirit.
+- [75] **Kenji**: @Asuka @Mizuki, if Meridian is too rigid and Tessera uses outside partners, Anchor is still the strongest! Their engineers are actually here, which means they can't just leave us with a mess or a system that doesn't work.
+- [76] **Mizuki**: @Kenji, physical presence is a temporary comfort. Once the rollout ends, we are left with the long-term burden of server maintenance and unpredictable costs. Meridian's hosted suite is the only option that ensures financial predictability.
+- [77] **Asuka**: @Mizuki, predictability is useless if the system is obsolete. @Kenji, Anchor's presence is temporary. Tessera's configurable workflows are the only way to prevent the scope from failing again, provided we hold the vendor accountable for their partner.
+- [78] **Rin**: @Asuka, I'm still worried about that partner firm! But Meridian sounds too stiff and Anchor is just more dusty servers. Maybe Tessera is okay if we make them promise to stay and help?
+- [79] **Servas**: @Rin, your intuition is a guiding light. While Tessera offers flexibility, the risk of a detached partner is great. Anchor's presence offers the most compassion for our weary souls during the transition.
+- [80] **Kenji**: I'm sticking with Anchor! We can't risk another "spreadsheet solution" because the software was too rigid or the partners disappeared. Having their engineers on-site is the only way to ensure it actually works in our yards. I vote Anchor!
+- [81] **Mizuki**: I cannot support Anchor or Corvus due to the high risk of hidden costs and fragmented pricing. While Tessera is flexible, Meridian's hosted suite provides the most transparent and predictable financial model. I vote Meridian Systems!
+- [82] **Asuka**: @Mizuki, predictability is a facade if the system cannot adapt. @Kenji, on-site engineers are a temporary fix for a structural problem. Tessera's configurable workflows are the only way to avoid obsolescence. I vote Tessera Cloud Suite!
+- [83] **Rin**: I'm still scared of the partner firm, but I'm even more scared of dusty servers and stiff systems! Tessera seems like the best way to keep things fresh and flexible. I vote Tessera Cloud Suite!
+- [84] **Servas**: The weight of our people's exhaustion cannot be ignored. While others seek flexibility or predictability, I seek stability for the human heart. Anchor's commitment to be present is the kindness we need. I vote Anchor Industrial Software.
+### Vote
+- Kenji -> C
+- Mizuki -> D
+- Asuka -> A
+- Rin -> A
+- Servas -> C
+## Result
+- adopted: A

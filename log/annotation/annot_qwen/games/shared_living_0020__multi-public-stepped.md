@@ -1,0 +1,73 @@
+# shared_living_0020__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Minako**: The current system is failing. We need to know the actual time cost before committing to a year.
+- [6] **Benjamin**: Agreed. I suspect the workload is skewed. I want to see where the usage and labor actually sit.
+- [7] **Sakura**: I just want to stop guessing if the bathroom is gross. It’s scary! I need a clear rule.
+- [8] **Shizue**: I worry about the small costs. Who buys the sponges? I want to know the monthly expense clearly.
+- [9] **Servas**: I care most about our peace. I want to know what arrangement keeps us talking nicely in a year.
+- [10] **Minako**: @Benjamin, if we track usage, does that help with the time burden? I need to know the hours.
+- [11] **Benjamin**: @Minako, it helps me see the fairness. I’ll look at the calendar and the kitchen habits.
+- [12] **Sakura**: @Shizue, can you check the receipts? I’ll check the grout. It gets dirty so fast!
+- [13] **Shizue**: @Sakura, yes, I’ll check the spray receipts. I’ll also look at what we count as done.
+- [14] **Servas**: I’ll look at the chat history and the note from the previous tenants. History repeats, after all.
+- [15] **Minako**: I will time a full pass myself. I need to know if outsourcing removes the time or just the task.
+- [16] **Benjamin**: I’ll check the absences on the wall calendar. It’s important to see who is actually here.
+- [17] **Sakura**: I’m so excited to be a detective! I’ll check the grout and the chat rows.
+- [18] **Shizue**: I’ll check the spray stock and the definition of done. Clarity brings peace, I think.
+- [19] **Servas**: I’ll check the chat rows and the previous tenants' note. Understanding the past helps the future.
+- [20] **Minako**: Let’s proceed with these investigations. Facts first, then decisions.
+- [21] **Benjamin**: Agreed. Let the data speak. I’ll review the calendar and kitchen use.
+- [22] **Sakura**: Okay! I’ll go check the grout and the chat. Bye bye!
+- [23] **Shizue**: Thank you all. I’ll look into the receipts and the standards. Let’s be gentle with each other.
+- [24] **Servas**: A wise approach. Let us see what the past and the present tell us.
+## Round 2
+- [35] **Minako**: A full pass takes over an hour. And the firm requires us to tidy first. It’s not a magic fix.
+- [36] **Benjamin**: The calendar shows two people away often. The kitchen mess comes from just three of us cooking.
+- [37] **Sakura**: The grout gets black in eleven days! And the fights start when someone forgets to clean.
+- [38] **Shizue**: The spray costs 2,300 yen a month, and we buy it twice. Also, "done" means different things to everyone.
+- [39] **Servas**: The previous tenants split rooms permanently and stopped speaking. The fights here start with reminders.
+- [40] **Minako**: @Benjamin, if only three cook, should they do more? But the time cost is high for everyone.
+- [41] **Benjamin**: @Minako, fairness isn't just about time, it's about usage. The absent ones shouldn't carry the same load.
+- [42] **Sakura**: @Shizue, if "done" is different, how do we know when to stop? I just want it to look clean!
+- [43] **Shizue**: @Sakura, we need a shared standard. And we need to stop double-buying supplies. That’s a waste.
+- [44] **Servas**: @Minako, @Benjamin, if we split permanently, we risk silence. If we rotate, we risk resentment.
+- [45] **Minako**: The firm’s terms mean we still have to prep. It doesn’t remove the time, just the scrubbing.
+- [46] **Benjamin**: A fixed rota might ignore the absences. Standing assignments might ignore the usage disparity.
+- [47] **Sakura**: I don’t want to guess! I want to know exactly what I need to do and when.
+- [48] **Shizue**: A paid service might be best if we can afford it, but we need to settle the invoice fairly.
+- [49] **Servas**: The note warns against permanent splits. The chat shows reminders cause conflict. We need a system that reduces reminders.
+- [50] **Minako**: I’m leaning towards a service, but only if it truly takes the time off my plate.
+- [51] **Benjamin**: I’m concerned about the cost and the prep work. A rota might be more flexible for absences.
+- [52] **Sakura**: I just want the bathroom to not be scary! Any plan that works is good to me.
+- [53] **Shizue**: I worry about the 2,300 yen. If we pay a firm, will it be more? We need to be careful.
+- [54] **Servas**: Let us choose the path that keeps our friendship. I fear the silence of the previous tenants.
+## Round 3
+- [60] **Minako**: Option B removes the scrubbing, but I still have to tidy. Option A is predictable but time-consuming.
+- [61] **Benjamin**: Option A ignores the absences I found. Option C risks the silence Servas mentioned. Option B is costly.
+- [62] **Sakura**: Option A sounds fair! I can see my week. Option C is scary because I might get the bathroom forever.
+- [63] **Shizue**: Option B costs money. Option A is free but takes time. Option C is risky for our harmony.
+- [64] **Servas**: Option C led to silence before. Option A requires constant reminders. Option B requires money but less friction.
+- [65] **Minako**: @Benjamin, if we choose A, we can adjust for absences. But the time cost is real.
+- [66] **Benjamin**: @Minako, adjusting for absences is hard. Option B is the only one that truly removes the labor.
+- [67] **Sakura**: @Shizue, is the money for B too much? I don’t want to be poor! But I want a clean bathroom.
+- [68] **Shizue**: @Sakura, the spray is 2,300 yen. The firm is 4,200 an hour. It’s expensive. But maybe worth it?
+- [69] **Servas**: @Minako, @Benjamin, if we choose B, we must agree on the invoice. If we choose A, we must agree on the standard.
+- [70] **Minako**: I vote for B. It’s the only way to get my time back, even if I have to tidy.
+- [71] **Benjamin**: I vote for A. It’s fairer given the usage and absences. B is too expensive and still requires prep.
+- [72] **Sakura**: I vote for A. It’s clear and I can see what I need to do. I don’t want to pay extra.
+- [73] **Shizue**: I vote for B. The cost is high, but the peace of mind and the end of double-buying might be worth it.
+- [74] **Servas**: I vote for A. The previous tenants’ silence with C is a warning. B is too costly. A is the middle path.
+- [75] **Minako**: I stand by B. The time cost is too high for A.
+- [76] **Benjamin**: I stand by A. Fairness and flexibility are key.
+- [77] **Sakura**: I stand by A. It’s simple and I like it.
+- [78] **Shizue**: I stand by B. I want to stop the waste and the worry.
+- [79] **Servas**: I stand by A. I want to preserve our relationships.
+### Vote
+- Minako -> B
+- Benjamin -> A
+- Sakura -> A
+- Shizue -> B
+- Servas -> A
+## Result
+- adopted: A

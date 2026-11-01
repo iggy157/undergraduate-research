@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I wonder who actually does the extra work when a project starts.
+- [6] **Jonathan**: I’m concerned about the external conditions we assume are stable. Who verifies access at customer plants before we commit to a timeline?
+- [7] **George**: I worry about the hidden costs. Who checks if the capital budget actually covers the renewal fees that arrive next year?
+- [8] **May**: I’m curious about the ghosts in the machine. Who checks if we’re just repeating the same mistakes from last year’s winners?
+- [9] **Midori**: I’m worried we judge by how impressive things sound, not what actually breaks on the floor. Who tracks the weekly losses?
+- [10] **Minato**: I think we should look at the staffing of the coordination group. It seems important to know who is actually there to help.
+- [11] **Jonathan**: I’d like to verify the network coverage at customer plants. We can’t promise timelines if we don’t know if the connection actually exists.
+- [12] **George**: I need to see the capital budget and software allowance. The renewal notice is where the real bill hides.
+- [13] **May**: I want to see the outcomes of the last three internal rollouts. We need to know what actually survived, not just what sounded good.
+- [14] **Midori**: I’d like to examine the misrouted deliveries in the incident logs. I need to see the real, weekly friction on the floor.
+- [15] **Minato**: I’m still thinking about the coordination group. Maybe I should also look at how vendor queries are handled?
+- [16] **Jonathan**: I’ll also check in-house developer availability. If the hands aren’t free, the timeline is fiction.
+- [17] **George**: I’ll also examine the vendor licence pricing versus fixed-fee work. I need to know if we’re buying a trap or a tool.
+- [18] **May**: I’ll also check the record of cross-unit standardization efforts. If we keep reinventing the wheel, that’s the pattern I need to expose.
+- [19] **Midori**: I’ll also look at the time lost to copying existing records. That’s the silent tax on our daily effort.
+- [20] **Minato**: I’ll stick with my two choices. I want to see who is really there to help and how we handle the questions.
+- [21] **Jonathan**: I’ll stick with my two choices. Verifying the connection and the hands is the only way to ground our promises in reality.
+- [22] **George**: I’ll stick with my two choices. The renewal notice is where the real bill hides. I need to see the true cost before we commit.
+- [23] **May**: I’ll stick with my two choices. The past is the only honest witness. I need to see if we’re just repeating the same mistakes.
+- [24] **Midori**: I’ll stick with my two choices. I need to see the real, weekly friction and the silent tax on our daily effort.
+## Round 2
+- [35] **Minato**: I found that only two people write all the notes by hand. That seems very heavy for just them.
+- [36] **Jonathan**: The data is sobering. Half the sites lose signal afternoons, and approval took six weeks. My developers are locked until Q3. We cannot promise timelines on this foundation.
+- [37] **George**: The capital line is frozen, but the software allowance has room. However, per-head licences climb with every department added. Fixed-fee work is stable.
+- [38] **May**: My findings are stark. Broad, daily-entry tools get abandoned; narrow, trade-specific ones survive. Standardization efforts mostly die without an owner. We keep repeating this.
+- [39] **Midori**: The logs show eleven misrouted deliveries, all from duplicate addresses. Meanwhile, we lose an hour daily copying records. That’s the real friction we must solve.
+- [40] **Minato**: @Midori, that sounds exhausting. If we are copying records all day, who has time to actually fix the problems?
+- [41] **Jonathan**: @Minato, the copying is a symptom. The real bottleneck is the six-week approval and missing signal. We cannot build on that.
+- [42] **George**: @Jonathan, the frozen capital line means we cannot fund new per-head licences. We must choose a fixed-fee solution to avoid next year’s renewal trap.
+- [43] **May**: @George, fixed-fee is smart, but my data shows narrow tools survive. We need a solution that fits one trade, not a bloated platform everyone abandons.
+- [44] **Midori**: @May, I agree. Narrow tools survive because they respect the daily rhythm. We must avoid bloated platforms that just add more copying to our already heavy workload.
+- [45] **Minato**: @May, I agree. If the tools are too big, people stop using them. I worry the two people writing notes will just get more tired.
+- [46] **Jonathan**: @May, precisely. A narrow tool respects the six-week approval delay. We must avoid anything requiring broad, unstable network access at those half-connected sites.
+- [47] **George**: @Jonathan, I agree. But a fixed-fee build is only safe if it doesn’t trigger a capital request. We must stay within the software allowance to avoid the frozen line.
+- [48] **May**: @George, exactly. The software allowance is our lifeline. We must pick a narrow, fixed-fee tool that fits one trade, avoiding the capital trap entirely.
+- [49] **Midori**: @George, I agree. We must stay within the software allowance. A narrow, fixed-fee tool respects our budget and the daily rhythm, avoiding the capital trap entirely.
+- [50] **Minato**: @George, I agree. We must protect the two people writing notes. A simple, fixed-fee tool helps them breathe. I hope we choose wisely.
+- [51] **Jonathan**: @George, agreed. We must stay within the software allowance. A narrow, fixed-fee tool respects the budget and the reality of our disconnected sites.
+- [52] **George**: @Minato, I agree. We must avoid the renewal trap. A fixed-fee build within the software allowance is the only path that respects our frozen capital line.
+- [53] **May**: @Minato, I agree. We must protect those two note-takers. A narrow, fixed-fee tool respects their rhythm and avoids the capital trap. Let’s choose wisely.
+- [54] **Midori**: @Minato, I agree. We must protect those two note-takers. A narrow, fixed-fee tool respects their rhythm and avoids the capital trap. Let’s choose wisely.
+## Round 3
+- [60] **Minato**: I wonder which one helps the two people writing notes. A sounds like it could draft their summaries for them.
+- [61] **Jonathan**: @Minato, A is a trap. It requires broad network access we don’t have. D is the only option that works offline at those half-connected sites.
+- [62] **George**: @Jonathan, D is a trap. Per-head licences climb with every technician added. We cannot afford that renewal spike next year.
+- [63] **May**: @George, D is a trap, but A is a ghost. My data shows broad, daily-entry tools get abandoned. We need a narrow tool, not a bloated platform.
+- [64] **Midori**: @May, I agree. A is too broad. C directly solves the duplicate address problem I found. It stops the copying and the misrouted deliveries.
+- [65] **Minato**: @Midori, I agree. C sounds like it would stop the copying. But will it make the two note-takers' job easier, or just add more work?
+- [66] **Jonathan**: @Minato, C is the only option that respects our constraints. It consolidates records without needing live network access at disconnected sites. It solves the copying problem directly.
+- [67] **George**: @Jonathan, C is the right path. A central repository is a fixed-fee build, not a per-head licence. It stays within the software allowance, avoiding the renewal trap.
+- [68] **May**: @George, C is the narrow tool that survives. It solves the duplicate address friction without becoming a bloated platform. I vote for C.
+- [69] **Midori**: @May, I agree. C is the narrow tool that solves the real friction. It stops the copying and the misrouted deliveries. I vote for C.
+- [70] **Minato**: @May, I agree. C stops the copying, which helps the two note-takers breathe. I hope it doesn’t just move the work to someone else.
+- [71] **Jonathan**: @Minato, C is the only choice that respects our disconnected reality. It consolidates records without demanding live access. I vote for C.
+- [72] **George**: @Jonathan, C is the only path that respects the frozen capital line. A fixed-fee build avoids the per-head renewal trap. I vote for C.
+- [73] **May**: @George, C is the narrow tool that survives. It solves the duplicate address friction without becoming a bloated platform. I vote for C.
+- [74] **Midori**: @George, I agree. C is the narrow tool that solves the real friction. It stops the copying and the misrouted deliveries. I vote for C.
+- [75] **Minato**: @George, I agree. C is the narrow tool that helps the note-takers. I vote for C.
+- [76] **Jonathan**: @George, agreed. C respects the offline reality and the budget. It is the only choice grounded in our actual constraints. I vote for C.
+- [77] **George**: @Minato, C is the only choice that respects the frozen capital line. A fixed-fee build avoids the per-head renewal trap. I vote for C.
+- [78] **May**: @Minato, C is the narrow tool that survives. It solves the duplicate address friction without becoming a bloated platform. I vote for C.
+- [79] **Midori**: @Minato, I agree. C is the narrow tool that solves the real friction. It stops the copying and the misrouted deliveries. I vote for C.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

@@ -1,0 +1,71 @@
+# candidate_selection_0021__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Servas**: Welcome, everyone. As we deliberate, let us remember that while funding is essential, the true heart of research lies in the skilled hands that carry it out. We must ensure the chosen project is operationally viable.
+- [6] **Sakura**: I agree! But "viable" can be tricky, right? I want to know if the money actually covers everything or if some costs are hidden. Let's make sure the winners aren't surprised by bills later!
+- [7] **Daisuke**: I... I think Sakura is right. But maybe we should also look at whether these kinds of projects actually finish on time? I worry about picking something that looks great but just... stalls.
+- [8] **Takumi**: I'm with Daisuke. It's not just about the money; it's about what stops the work. We need to know where the real interruptions happen before we commit, or we're just wasting time.
+- [9] **Minako**: I agree. We must consider the shared infrastructure. If the facilities are already at capacity, even a well-funded project will fail. We should investigate the current state of our shared services and technical staffing.
+- [10] **Servas**: Wisdom suggests we look beyond the blueprints. To ensure the project's soul—its people—is intact, I believe we should examine the staffing rolls for technical posts and the minutes on secondments and crew strength.
+- [11] **Sakura**: That sounds like a plan, Servas! I'm super curious about the money part, so I want to check the travel and bench-fee lines in the ledgers and the national computing agreement and facility day rates!
+- [12] **Daisuke**: I... if it's okay with everyone, I'd like to look at the closeout files of finished awards and the portfolio review of schedule overruns. I just want to see what actually worked in the past.
+- [13] **Takumi**: I'll take the incident logs on shared instrumentation and the station records from partner field sites. I want to see exactly what breaks or fails in the field and the lab.
+- [14] **Minako**: I will look into the accreditation and bookings at shared facilities, as well as the national repository deposit turnaround. This will help us determine if the infrastructure can handle additional load.
+- [15] **Servas**: It seems we have a comprehensive plan. By examining both the human element and the physical infrastructure, we ensure that our decision is grounded in reality rather than just ambition. I am content with these choices.
+- [16] **Sakura**: Yay! We're like a team of detectives now! I can't wait to see if there are any secret costs hiding in those ledgers. This is going to be so exciting!
+- [17] **Daisuke**: I... I hope this is the right way to do it. I just don't want us to make a mistake by trusting a flashy proposal that might not actually deliver anything in the end.
+- [18] **Takumi**: Stop worrying, Daisuke. We're doing the right thing by digging into the dirt first. If there are hidden traps that'll kill the project, I'm going to find them. Let's just get to it.
+- [19] **Minako**: The division of labor is clear and logical. By covering financial, historical, technical, and infrastructural data, we will have a complete picture of the operational risks. I believe this is the most prudent approach.
+- [20] **Servas**: Let us proceed with a spirit of openness and curiosity. I look forward to hearing what each of you discovers, for it is in the sharing of knowledge that we find the clearest path forward.
+- [21] **Sakura**: I'm ready! Let's go find all those clues! I'll be the best detective ever and make sure we find every single hidden cost. See you all in a bit!
+- [22] **Daisuke**: I'll... I'll do my best to find something useful. I just hope the past can tell us how to avoid the same mistakes. I'm looking forward to seeing what you all find.
+- [23] **Takumi**: Enough talking. Let's just get the data and see who's actually capable of finishing their work without everything falling apart. I'm ready to see what's really going on behind the scenes.
+- [24] **Minako**: I agree. Let us move to the investigation phase. I will analyze the facility data and report back on whether the current capacity can realistically support a new high-impact project.
+## Round 2
+- [35] **Servas**: My findings reveal a poignant truth: while we have an abundance of digital architects, the seasoned hands for phenotyping have vanished into industry. We must be cautious not to fund a project that lacks the actual hands to execute it.
+- [36] **Sakura**: Ooh, I found some secrets! Computing is free, which is awesome, but animal costs have shot up! Also, shipping is getting pricier while travel money is stuck. Some projects might be way more expensive than they look!
+- [37] **Daisuke**: I... I found that projects focusing on broad catalogues tend to provide lasting value, while those chasing specific mechanisms often fail. Also, projects relying on live breeding colonies are much more likely to overrun their schedules.
+- [38] **Takumi**: It's a mess. The spectroscopy suite was dead for eleven weeks because of a lapsed contract, and field sites are getting wiped out by floods and fire. We can't trust projects that rely on fragile equipment or unstable sites.
+- [39] **Minako**: The infrastructure is a mixed bag. The national repository is now efficient, and animal facilities are stable with veterinary cover. However, the glasshouses are completely booked. We cannot support any project requiring immediate plant growth space.
+- [40] **Servas**: It is a delicate balance. @Minako, you mention the glasshouses are full, yet my records show the crew there is at full strength. We have the people, but not the space. This is a curious contradiction.
+- [41] **Sakura**: @Minako, that's a big problem! If the glasshouses are full, any plant project is just a dream. But wait, I saw the ministry is still paying for glasshouse space! Why is it full if it's subsidized?
+- [42] **Daisuke**: I... I'm not sure about the glasshouses, but maybe we should be careful about the biological risks in general. If breeding colonies cause so many delays, maybe a more data-driven project is safer?
+- [43] **Takumi**: @Daisuke, you're right. Between the field sites burning down and the equipment just sitting there because of paperwork, biological projects are a gamble. We need something that won't just stop the moment a pipe leaks.
+- [44] **Minako**: @Sakura, subsidies do not create physical space. The demand simply exceeds the capacity. @Daisuke, while data-driven projects are safer, we must ensure the computing infrastructure can handle the load without creating new bottlenecks.
+- [45] **Servas**: We must remember that data is but a reflection of reality. If we pivot entirely to computational work, we risk ignoring the physical world. However, we cannot ignore that our phenotyping expertise has dwindled.
+- [46] **Sakura**: But if computing is free, that's a huge win! We can do a lot of data work without worrying about the budget. Let's find a project that's smart with its money and doesn't need a glasshouse!
+- [47] **Daisuke**: I... I agree with Sakura. If we can find a project that focuses on a broad catalogue or data analysis, it might be more reliable. I'm just worried about picking something that stalls again.
+- [48] **Takumi**: @Daisuke, exactly. We can't afford another project that stalls because of some "unforeseen" disaster. If a proposal depends on field sites or specialized gear that's barely maintained, it's a non-starter for me. We need stability.
+- [49] **Minako**: Stability is indeed the priority. Given the glasshouse shortage and the instability of field sites, we should prioritize candidates whose methodologies are computationally heavy or rely on the now-efficient national repository and stable animal facilities.
+- [50] **Servas**: Let us hold these truths in our hearts as we move forward. We seek a project that harmonizes ambition with the reality of our current strengths—stable animal facilities and digital capacity—while respecting the absence of phenotyping hands.
+- [51] **Sakura**: I'm totally on board! Let's look for a project that's a "budget superstar"—something that uses that free computing and avoids those scary animal costs and full glasshouses. I can't wait to see the candidates!
+- [52] **Daisuke**: I... I hope we can find a project that doesn't just look good on paper. If we prioritize something that builds a lasting resource, maybe we can finally avoid the cycle of projects that just... disappear.
+- [53] **Takumi**: I'm done with the guesswork. We've seen the failures: broken gear, burnt fields, and missing staff. Whoever we pick better have a plan that doesn't collapse the second something goes wrong. Let's see the candidates.
+- [54] **Minako**: We have a clear set of constraints. We must avoid projects dependent on glasshouses or unstable field sites, and be wary of those requiring rare phenotyping expertise. I am ready to evaluate the candidates against these facts.
+## Round 3
+- [60] **Servas**: Looking at these paths, Candidate D is a dream without a home, for the glasshouses are full. Candidate B relies on spectroscopy, which we know is fragile. We must seek a more stable foundation.
+- [61] **Sakura**: @Servas, you're right! Candidate D is out because of the glasshouses. And Candidate C sounds like it needs those expensive animal costs and phenotyping hands we're missing. I'm leaning towards A or B!
+- [62] **Daisuke**: I... I think Candidate A is the safest choice. It's a catalogue project, which I found usually provides lasting value, and it avoids the breeding colony risks that cause so many delays.
+- [63] **Takumi**: @Daisuke, I'm with you. Candidate A is the only one that doesn't rely on a single point of failure. B needs that broken spectroscopy suite, and D is impossible. A is the way to go.
+- [64] **Minako**: I agree. Candidate D is impossible due to glasshouse capacity. Candidate B is too risky given the instrumentation failures. Candidate A leverages the efficient national repository and avoids the current infrastructure bottlenecks. It is the most viable choice.
+- [65] **Servas**: It is heartening to see such consensus. Candidate A does not require the vanished phenotyping hands, nor does it depend on the fragile tools of Candidate B. It is a path paved with stability and wisdom.
+- [66] **Sakura**: Plus, Candidate A is a budget win! It uses the free computing for all those sequences and doesn't need the pricey animal units. It's the perfect choice for our money and our space!
+- [67] **Daisuke**: I... I feel much better now that we agree. Candidate A builds a resource that others can use for years, and it doesn't seem like it will just stall. I'm happy to support it.
+- [68] **Takumi**: It's the only one that makes sense. A doesn't depend on a single piece of gear or a specific building. It's robust, and it actually has a chance of finishing. I'm voting for A.
+- [69] **Minako**: The logic is sound. Candidate A aligns with our available resources and avoids every critical bottleneck we identified. It is the only proposal that is operationally realistic. I also vote for Candidate A.
+- [70] **Servas**: Indeed, when the path is clear and the consensus is rooted in the well-being of the project's future, there is peace in the decision. I shall cast my vote for Candidate A.
+- [71] **Sakura**: Me too! Candidate A is the smartest pick for the budget and the facilities. It's a total win-win! I'm voting for Candidate A!
+- [72] **Daisuke**: I... I'll vote for Candidate A too. It's the most reliable way to ensure we actually deliver something of lasting value. I'm glad we could all agree on this.
+- [73] **Takumi**: No more debating. We've looked at the facts, and A is the only one that won't crash and burn. I'm voting for Candidate A.
+- [75] **Minako**: I concur. Candidate A is the only proposal that is compatible with our current infrastructure and staffing constraints. I cast my vote for Candidate A.
+- [77] **Servas**: Our journey today has been guided by a shared commitment to truth and viability. May the Microbiome Atlas flourish and serve as a beacon of knowledge for many years to come.
+- [79] **Sakura**: I'm so happy we solved this mystery together! Candidate A is definitely the winner. I'm voting for Candidate A!
+- [81] **Daisuke**: I'll vote for Candidate A as well. I'm just relieved we found a project that is both sustainable and likely to succeed. Thank you for listening to me.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

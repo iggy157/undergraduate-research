@@ -1,0 +1,73 @@
+# shared_living_0015__single-batch (shared_living)
+
+## Round 1
+- [5] **Servas**: I worry about the cold creeping in before we agree on a fair split.
+- [6] **Midori**: I am tired of money making us avoid each other in the hallway.
+- [7] **Minato**: I just want to know if the current split is actually fair for everyone.
+- [8] **May**: I need to see the real numbers before I commit to another winter.
+- [9] **Daisuke**: I am worried about who has to do the math every month.
+- [10] **Servas**: @May, do you think the current method is too harsh in winter?
+- [11] **Midori**: @Minato, I agree, fairness is key, but so is keeping the peace.
+- [12] **Minato**: @Midori, I hope we can find a way that feels right for all of us.
+- [13] **May**: @Servas, yes, the winter bills are what really hurt my budget.
+- [14] **Daisuke**: @May, I am looking into how much time the current system takes.
+- [15] **Servas**: I will check the sunlight and heating needs of each room.
+- [16] **Midori**: I will look at the payment log to see the history of disputes.
+- [17] **Minato**: I will check the last twelve utility statements to see the variation.
+- [18] **May**: I will look at the electrician's quote to see the cost of meters.
+- [19] **Daisuke**: I will check the monthly settle observed at another house.
+- [20] **Servas**: Also, I will check the winter habits at a house paying ahead.
+- [21] **Midori**: And I will look at the kitchen notice about the cooler.
+- [22] **Minato**: I will also check the plug-in monitor readings room by room.
+- [23] **May**: I will also check the trial run of a reconciliation template.
+- [24] **Daisuke**: I will also check settling up when the last rooms filled.
+## Round 2
+- [35] **Servas**: The north rooms need heat from November, but the south ones stay warm.
+- [36] **Midori**: The payment log shows three late settlements, each after a query about the amount.
+- [37] **Minato**: The bills swing wildly, from 9,000 in August to 29,400 in February.
+- [38] **May**: The electrician quoted 34,000 yen per room for meters, plus annual checks.
+- [39] **Daisuke**: The other house spent forty minutes just logging readings and splitting the kitchen bill.
+- [40] **Servas**: @Minato, that swing is huge. It makes the flat share feel unstable.
+- [41] **Midori**: @May, 34,000 yen is a lot of upfront cost for just one room.
+- [42] **Minato**: @Servas, yes, and the plug-in monitor showed one room uses four times more.
+- [43] **May**: @Daisuke, forty minutes a month is a lot of time for someone to spend.
+- [44] **Daisuke**: @Midori, the late payments show that the current system causes friction.
+- [45] **Servas**: I remember a house that paid a fixed seasonal rate; nobody worried about switches.
+- [46] **Midori**: The cooler notice stayed up all summer because people were afraid to argue.
+- [47] **Minato**: The trial run of the template meant keying in every invoice by hand.
+- [48] **May**: The reconciliation template was tedious, but it showed exactly who owed what.
+- [49] **Daisuke**: When the last rooms filled, it took three weeks to agree on the split.
+- [50] **Servas**: @May, the fixed rate might be simpler, but is it fair for the north rooms?
+- [51] **Midori**: @Servas, I worry that a fixed rate hides the real cost of heating.
+- [52] **Minato**: @Daisuke, three weeks is too long to be in limbo.
+- [53] **May**: @Minato, the metering is expensive, but it is the most accurate.
+- [54] **Daisuke**: @May, accuracy is good, but the time cost is high for the person managing it.
+## Round 3
+- [60] **Servas**: Option A is precise but expensive. Option B is simple but hides winter costs.
+- [61] **Midori**: Option C is the easiest, but it feels unfair when bills swing so much.
+- [62] **Minato**: Option A seems best for fairness, even if it costs more upfront.
+- [63] **May**: Option B is risky for me. I don't want to pay a fixed rate in summer.
+- [64] **Daisuke**: Option C is the least work, but it causes the most arguments later.
+- [65] **Servas**: @May, I agree, the winter spike makes Option B dangerous for you.
+- [66] **Midori**: @Minato, I am worried about the 34,000 yen cost for Option A.
+- [67] **Minato**: @Midori, but it stops the arguments about who uses more heat.
+- [68] **May**: @Servas, yes, I need to know the exact cost before I agree to anything.
+- [69] **Daisuke**: @May, the time cost of Option A is also high, but it is fair.
+- [70] **Servas**: Option A is the only one that respects the different needs of the rooms.
+- [71] **Midori**: Option C is the only one that doesn't require a monthly meeting.
+- [72] **Minato**: Option A is the most honest. I want to pay for what I use.
+- [73] **May**: Option A is expensive, but it protects me from the winter spike.
+- [74] **Daisuke**: Option A is the most work, but it is the fairest.
+- [75] **Servas**: I am voting for A.
+- [76] **Midori**: I am voting for A, despite the cost.
+- [77] **Minato**: I am voting for A.
+- [78] **May**: I am voting for A.
+- [79] **Daisuke**: I am voting for A.
+### Vote
+- Servas -> A
+- Midori -> A
+- Minato -> A
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

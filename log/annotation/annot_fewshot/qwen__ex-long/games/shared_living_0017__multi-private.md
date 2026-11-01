@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: I will examine the morning departures watched from the entrance and the rain exposure along the parking rows. I need to verify the actual physical constraints before agreeing to any allocation.
+- [6] **Ryuji**: I will examine the building account's two-year ledger and the Treasurer's handover file on cash collections. I need to verify the actual financial burden before committing to any allocation.
+- [7] **George**: I will examine the sticker register and the daily riders and the five years of association minutes. I need to see if the current spots match actual usage.
+- [8] **Shunichi**: I will examine the last year's complaint log entries and the account from the neighbouring block's secretary. I need to see how these disputes actually play out before we make things worse.
+- [9] **Mio**: I’m worried about who actually keeps the spots tidy! I’ll check the morning departures and the rain exposure to see the real daily hassle.
+- [10] **Asuka**: @Mio, checking the physical constraints is logical. I will examine the morning departures and the rain exposure to verify the actual daily friction.
+- [11] **Ryuji**: @Asuka, physical constraints are secondary to financial reality. I will examine the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [12] **George**: @Ryuji, money matters, but fairness comes first. I need to see if the current spots match actual usage.
+- [13] **Shunichi**: @George, fairness is a luxury. I’m checking the complaint log and the neighbouring block’s account to see how these disputes actually play out before we make things worse.
+- [14] **Mio**: @Shunichi, I hear you! But if the rain makes the spots a mess, who cleans it? I’m checking the rain exposure to see the real daily hassle.
+- [15] **Asuka**: @Ryuji, financial burden is abstract. The physical reality of rain and morning congestion is immediate. I will examine the morning departures and the rain exposure.
+- [16] **Ryuji**: @Asuka, physical reality is abstract without numbers. I will examine the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [17] **George**: @Shunichi, I understand the caution. But I need to see if the current spots match actual usage. I will examine the sticker register and the five years of association minutes.
+- [18] **Shunichi**: @George, usage data is just a snapshot. I’m checking the complaint log and the neighbouring block’s account to see how these disputes actually play out before we make things worse.
+- [19] **Mio**: @George, that’s smart! I’m checking the morning departures and the rain exposure. I need to see who actually does the daily cleanup!
+- [20] **Asuka**: I will examine the morning departures watched from the entrance and the rain exposure along the parking rows. I need to verify the actual physical constraints before agreeing to any allocation.
+- [21] **Ryuji**: I will examine the building account's two-year ledger and the Treasurer's handover file on cash collections. I need to verify the actual financial burden before committing to any allocation.
+- [22] **George**: I will examine the sticker register and the daily riders and the five years of association minutes. I need to see if the current spots match actual usage.
+- [23] **Shunichi**: I will examine the last year's complaint log entries and the account from the neighbouring block's secretary. I need to see how these disputes actually play out before we make things worse.
+- [24] **Mio**: I’m all set! I’ll check the morning departures and the rain exposure. Let’s see who actually does the daily cleanup!
+## Round 2
+- [35] **Asuka**: @Mio, the data confirms the friction. Four out of eleven departures require shifting another bike. The rain exposure is also severe past the downpipe.
+- [36] **Ryuji**: @Asuka, physical friction is real, but the ledger shows capital work requires a levy. The handover file logs three hours monthly just reconciling cash. Per-place billing adds that burden.
+- [37] **George**: @Ryuji, the minutes show the same flats held the covered spots for five years without review. The riders would pay to avoid equal claims.
+- [38] **Shunichi**: @Ryuji, the neighbouring block’s secretary confirmed it. Monthly charges made two households stop attending meetings. We don’t need that here.
+- [39] **Mio**: @Ryuji, three hours monthly is a lot! But I saw four people shifting bikes just to leave. Who does that daily hassle?
+- [40] **Asuka**: @Ryuji, the ledger is irrelevant to the physical reality. Four shifts per morning is a safety hazard. We must prioritize the dry, accessible spots to eliminate that friction.
+- [41] **Ryuji**: @Asuka, physical friction is a symptom. The ledger proves capital work requires a levy. I need to know the actual cost of a household losing their spot before we decide.
+- [42] **George**: @Shunichi, the minutes confirm the covered spots stayed with the same flats for five years. No review was ever recorded. That is the root of the grumbling.
+- [43] **Shunichi**: @George, five years without review is exactly how resentment festers. The complaint log shows nine disputes died because nobody owned them. We need a system that doesn’t require policing.
+- [44] **Mio**: @Shunichi, nine disputes dying is scary! If nobody owns the cleanup, it just stops. I need to know who actually does the work!
+- [45] **Asuka**: @Shunichi, nine dead disputes prove the current system fails. We need a rotation that eliminates the shifting hazard and the rain damage. I will examine the morning departures and the rain exposure.
+- [46] **Ryuji**: @Shunichi, dead disputes are a symptom of unquantified costs. I need to verify the actual financial impact on a household before we accept any new administrative burden.
+- [47] **George**: @Mio, the riders said they would pay to avoid equal claims. That suggests a tiered system might work better than forced rotation.
+- [48] **Shunichi**: @Mio, the work isn’t the problem; the silence is. If we don’t assign clear ownership, the next dispute dies too. We need a system that doesn’t rely on goodwill.
+- [49] **Mio**: @Shunichi, exactly! If nobody owns it, it dies. I saw the rain damage is real. We need a clear, easy plan so the work doesn’t vanish!
+- [50] **Asuka**: @Ryuji, I reject the levy. The physical hazard is immediate. I will examine the morning departures and the rain exposure to verify the actual daily friction.
+- [51] **Ryuji**: @Asuka, rejecting the levy ignores the ledger. Capital work requires a levy. I need to verify the actual financial impact on a household before accepting any new administrative burden.
+- [52] **George**: @Asuka, physical friction is real, but the five-year stagnation is the deeper problem. We need a system that actually changes, not just one that moves bikes.
+- [53] **Shunichi**: @George, five years of stagnation is a warning. The neighbouring block’s secretary said charges made people stop showing up. We need a system that keeps us talking, not just paying.
+- [54] **Mio**: @George, I agree! If the same spots stay for five years, the work gets ignored. We need a simple rotation so nobody burns out!
+## Round 3
+- [60] **Asuka**: @Ryuji, Option A’s monthly charge creates the exact administrative burden the neighbouring block warned about. I reject it. We need a system that eliminates the physical hazard without adding financial friction.
+- [61] **Ryuji**: @Asuka, the ledger proves capital work requires a levy. Option A’s income funds that. I need to verify the actual financial impact on a household before accepting any new administrative burden.
+- [62] **George**: @Asuka, the riders said they would pay to avoid equal claims. Option A respects that preference. I am voting A.
+- [63] **Shunichi**: @George, the neighbouring block’s secretary said charges made people stop showing up. Option A turns neighbours into debtors. I reject it.
+- [64] **Mio**: @Shunichi, I hear you! But if nobody pays, who fixes the racks? I’m worried the work just vanishes again. I need a plan that keeps us talking!
+- [65] **Asuka**: @Mio, Option B eliminates the shifting hazard and rain damage by removing fixed spots. It is the only option that addresses the physical reality without adding administrative burden.
+- [66] **Ryuji**: @Mio, Option B’s open racks require capital work, which the ledger confirms needs a levy. I need to verify the actual cost to a household before accepting that burden.
+- [67] **George**: @Ryuji, the ledger is important, but the five-year stagnation is the real failure. Option B breaks that cycle. I am voting B.
+- [68] **Shunichi**: @Ryuji, capital work is a one-time cost. Option A’s monthly charges are a permanent relationship killer. The neighbouring block proved it. I reject A.
+- [69] **Mio**: @Ryuji, I get the cost worry! But Option B means no one owns a spot, so the cleanup just disappears. I need a plan where the work stays visible!
+- [70] **Asuka**: @Mio, Option B’s open racks eliminate the shifting hazard and rain damage. The physical reality demands we stop assigning fixed spots. I am voting B.
+- [71] **Ryuji**: @Mio, Option B’s capital cost is a one-time levy, not a monthly drain. I am voting B to avoid the permanent administrative burden of Option A.
+- [72] **George**: @Mio, the minutes show five years of stagnation. Option B breaks that cycle. I am voting B.
+- [73] **Shunichi**: @Mio, Option B removes the fixed spots that breed resentment. No one owns a bike, so no one gets blamed. It keeps us nodding, not timing exits. I am voting B.
+- [74] **Mio**: @Shunichi, I agree! Option B stops the shifting mess. But who checks the racks? I’m voting B, but we need a simple, visible way to keep the work from vanishing!
+- [75] **Asuka**: @Mio, the physical data confirms B is the only logical choice. I am voting B.
+- [76] **Ryuji**: @Mio, Option B’s one-time levy is manageable. The ledger confirms it avoids the permanent administrative drain of Option A. I am voting B.
+- [77] **George**: @Mio, the five-year stagnation is the real failure. Option B breaks that cycle. I am voting B.
+- [78] **Shunichi**: @Mio, Option B is the only choice that keeps us nodding in the lobby instead of timing our exits. I am voting B.
+- [79] **Mio**: @Shunichi, I’m voting B too! But we must name who checks the racks monthly. I can’t let the work vanish again!
+### Vote
+- Asuka -> B
+- Ryuji -> B
+- George -> B
+- Shunichi -> B
+- Mio -> B
+## Result
+- adopted: B

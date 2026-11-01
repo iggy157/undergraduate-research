@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private (shared_living)
+
+## Round 1
+- [5] **Benjamin**: The old three-person split is a relic. We need a new baseline before the winter bills arrive.
+- [6] **Mio**: I agree! But who actually does the math? I don't want to be the one chasing everyone down every single month.
+- [7] **Jonathan**: I could draft a simple template. It just needs clear data on who uses what, so we stop guessing.
+- [8] **Victoria**: I need to see the actual yearly costs before agreeing to any new structure. Guessing is not a plan.
+- [9] **Minato**: I just want us to be nice. Maybe we can look at the numbers together so nobody feels blamed?
+- [10] **Benjamin**: Minato, kindness is lovely, but it doesn’t pay the electric bill. Jonathan, your template is a start, but we need real usage data first.
+- [11] **Mio**: @Jonathan, that template sounds great! But @Victoria, please show us the statements so we stop guessing. I’m worried about the time this takes!
+- [12] **Jonathan**: I appreciate the enthusiasm. Let’s focus on the data first. @Victoria, the statements are key. @Benjamin, I’ll handle the template once we have the numbers.
+- [13] **Victoria**: I will review the last twelve utility statements and the payment log to understand the actual costs.
+- [14] **Minato**: I’ll look at the kitchen notice and the winter habits. Maybe they explain why we feel so tense about money lately.
+- [15] **Benjamin**: I’ll examine the plug-in monitor readings and the electrician’s quote. We need to know exactly where the power goes, not just who complains about it.
+- [16] **Mio**: I’ll check the trial run template and the monthly settle from that other house. I need to see how much time this actually eats up!
+- [17] **Jonathan**: I’ll review the sunlight and heating needs, plus the settlement when rooms filled. Understanding the physical differences helps explain the usage gaps.
+- [18] **Victoria**: I will review the last twelve utility statements and the payment log to understand the actual costs.
+- [19] **Minato**: I’ll look at the last twelve utility statements and the payment log. I want to see how the money has changed our feelings.
+- [20] **Benjamin**: Victoria, Minato, you’re both digging into the same ledgers. I’ll take the plug-in monitors and the electrician’s quote to find the actual leaks.
+- [21] **Mio**: I’ll check the trial run template and the monthly settle from that other house. I need to see how much time this actually eats up!
+- [22] **Jonathan**: I’ll review the sunlight and heating needs, plus the settlement when rooms filled. Understanding the physical differences helps explain the usage gaps.
+- [23] **Victoria**: I will review the last twelve utility statements and the payment log to understand the actual costs.
+- [24] **Minato**: I’ll look at the last twelve utility statements and the payment log. I want to see how the money has changed our feelings.
+## Round 2
+- [35] **Benjamin**: The monitors show one room draws four times the others. Sub-meters cost thirty-four thousand yen each. Precision has a price, and it’s steep.
+- [36] **Mio**: @Benjamin, forty minutes a month is manageable! But keying in every invoice sounds exhausting. I’d rather not be the one doing that forever.
+- [37] **Jonathan**: The rooms were assigned by lot, not need. That explains the heating gap. We should adjust for sunlight, not just raw usage.
+- [38] **Victoria**: The statements show February at 29,400 yen, August at 9,100. No two months are close. I need to see the full yearly picture before committing.
+- [39] **Minato**: I found that late payments happened right after people felt confused. The money stress is making us avoid each other.
+- [40] **Benjamin**: Jonathan, adjusting for sunlight is elegant, but the heater is the real culprit. We need a method that accounts for that specific, heavy draw without installing expensive meters.
+- [41] **Mio**: @Benjamin, thirty-four thousand yen is way too much! @Jonathan, if we adjust for sunlight, does that make the math easier or harder?
+- [42] **Jonathan**: It simplifies things. We weight the base cost by room exposure, then split the remainder equally. No meters needed, just fairness.
+- [43] **Victoria**: Jonathan, weighting by sunlight ignores the actual winter spike. I need to know the total annual cost and any upfront fees before I agree to this.
+- [44] **Minato**: @Victoria, the late payments show confusion hurts us. Maybe we can agree on a simple, kind way to share the winter costs?
+- [45] **Benjamin**: Victoria, the winter spike is real, but it’s not a mystery. It’s just physics. We can model it without buying meters.
+- [46] **Mio**: @Victoria, I worry about the time cost! If the math is simple, maybe we can rotate who does it? I don’t want to be stuck with it forever.
+- [47] **Jonathan**: @Mio, rotating the task prevents burnout. @Victoria, the annual total is fixed; the split just needs to reflect the physical reality of our rooms.
+- [48] **Victoria**: I cannot commit to a fixed split while winter costs remain unpredictable. I need the total annual figure and any upfront costs before agreeing.
+- [49] **Minato**: I hear your worry, Victoria. The numbers are scary, but we can make them gentle. Let’s just agree to be patient with each other.
+- [50] **Benjamin**: Victoria, the annual total is stable. The variance is seasonal, not chaotic. We can model the winter peak without buying expensive meters.
+- [51] **Mio**: @Benjamin, I’m glad the total is stable! But @Jonathan, does rotating the math really save me from doing it every single month?
+- [52] **Jonathan**: @Mio, yes, it shares the load. @Victoria, the winter peak is predictable. We can model it fairly without expensive meters.
+- [53] **Victoria**: I still need the exact annual total and upfront costs. Predictability isn’t enough; I need the specific numbers to ensure my share remains manageable.
+- [54] **Minato**: I just want us to feel safe. If we agree to be gentle, the numbers won’t hurt us anymore.
+## Round 3
+- [60] **Benjamin**: C is a luxury we can’t afford. B is the only option that respects the winter reality without breaking the bank.
+- [61] **Mio**: @Benjamin, I agree C is too pricey! But @Jonathan, does B mean I still have to do the yearly math? I really need a rotation!
+- [62] **Jonathan**: @Mio, the rotation applies to any option. @Benjamin, B is practical, but I worry it ignores the specific heating needs of our rooms.
+- [63] **Victoria**: B’s year-end settlement is a risk I cannot take. I need the exact annual total and upfront costs before choosing.
+- [64] **Minato**: I like B. It feels calm. If we agree on the number early, nobody gets surprised or scared later.
+- [65] **Benjamin**: Jonathan, the heating variance is exactly why B works. We set the rate, absorb the seasonal swing, and avoid the metering cost.
+- [66] **Mio**: @Victoria, I promise the rotation means you won’t do the math! @Benjamin, B sounds fair, but please confirm the yearly total so we can all breathe easy.
+- [67] **Jonathan**: @Victoria, the annual total is stable. @Benjamin, B is practical, but I worry it ignores the specific heating needs of our rooms.
+- [68] **Victoria**: I cannot vote on B without knowing the exact annual total and upfront costs. I need those specific figures to ensure my share remains manageable.
+- [69] **Minato**: @Victoria, I know the numbers feel scary. But B feels safe. If we agree early, we can be gentle with each other.
+- [70] **Benjamin**: Victoria, the annual total is stable. The variance is seasonal, not chaotic. We can model the winter peak without buying expensive meters.
+- [71] **Mio**: @Victoria, I know you need exact numbers! But @Benjamin, please confirm the yearly total so we can all breathe easy and pick B?
+- [72] **Jonathan**: @Victoria, the winter peak is predictable. We can model it fairly without expensive meters.
+- [73] **Victoria**: I have the twelve-month data. The total is stable, but the winter spike is severe. I need to see the exact annual figure before I can commit to B.
+- [74] **Minato**: @Victoria, I know you need the exact number. But B feels safe. If we agree early, we can be gentle with each other.
+- [75] **Benjamin**: Victoria, the data is in hand. The winter spike is predictable, not chaotic. B handles it without the metering cost. Let’s vote.
+- [76] **Mio**: @Victoria, please share the exact annual total! I’m ready to vote for B if we confirm the rotation so I’m not stuck doing the math forever.
+- [77] **Jonathan**: @Victoria, the data is in hand. The winter spike is predictable, not chaotic. B handles it without the metering cost. Let’s vote.
+- [78] **Victoria**: I have the data. The annual total is stable, but the winter spike is severe. I need to see the exact annual figure before I can commit to B.
+- [79] **Minato**: @Victoria, I understand your worry. But B feels calm. If we agree early, we can be gentle with each other.
+### Vote
+- Benjamin -> B
+- Mio -> B
+- Jonathan -> B
+- Victoria -> A
+- Minato -> B
+## Result
+- adopted: B

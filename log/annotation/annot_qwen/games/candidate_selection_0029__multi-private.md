@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. I’m glad we’re here. I’d like to look into the volunteer roster and conservation lab staffing.
+- [6] **Shion**: Shizue, that’s a safe choice. I’m checking loan transport costs and lender paperwork. Let’s see if the logistics actually hold up.
+- [7] **May**: @Shion, you’re so serious. I’m checking weekend head counts and visitor comment slips. Let’s see what people actually loved, not just what we thought was good.
+- [8] **Misaki**: I’ll check the structural survey of the suspended bay and the maintenance log for powered displays.
+- [9] **Sakura**: I’m checking mount-making charges and evening hire bookings! I bet the invoices hide funny little money monsters in there.
+- [10] **Shizue**: @May, your idea about visitor comments is lovely. I hope we find out what truly brings people joy.
+- [11] **Shion**: @May, sentiment is data. But logistics are the bottleneck. I’m watching the paperwork.
+- [12] **May**: @Shion, don’t be so stiff. People don’t come for paperwork, they come for the feeling. I’m just making sure we don’t repeat our mistakes.
+- [13] **Misaki**: @Shion, logistics matter, but the building’s limits matter more. I need to know if the floor can handle the weight before we promise anything.
+- [14] **Sakura**: @Misaki, heavy stuff is scary! But I’m hunting for sneaky money monsters in the invoices. Who’s hiding the coins?
+- [15] **Shizue**: @Sakura, your money monsters sound quite charming. I hope they don’t bite anyone. I’m just worried about who will actually be here to help.
+- [16] **Shion**: @Shizue, staffing is a variable, not a variable to be managed. I’m tracking the transport costs. If the crates don’t arrive, the gallery is empty.
+- [17] **May**: @Shion, crates are boring. People are the point. If the room feels dead, no amount of logistics saves it.
+- [18] **Misaki**: @May, a dead room is a safety risk. I need to know if the structure holds before we talk about feelings.
+- [19] **Sakura**: @May, feelings are great, but money monsters eat feelings too! I’m peeking under the invoice rug to find the hidden coins.
+- [20] **Shizue**: @Misaki, I appreciate your caution. I’m simply hoping we find a team that can actually stand in the room together, not just on paper.
+- [21] **Shion**: @Shizue, sentiment is a luxury. I’m tracking the transport costs. If the crates don’t arrive, the gallery is empty.
+- [22] **May**: @Shion, you’re still stuck on the boxes. I’m chasing the laughter. Let’s see if the crowd actually wants to be here.
+- [23] **Misaki**: @Shion, empty is safe. I’m checking if the floor can take the weight. If it cracks, the laughter stops.
+- [24] **Sakura**: @Shion, boxes are boring! I’m counting the sneaky coins so we don’t run out of money for the fun stuff.
+## Round 2
+- [35] **Shizue**: @Shion, the lab is down to one person with two hundred pieces waiting. We cannot promise what we cannot physically do.
+- [36] **Shion**: @Shizue, staffing is a variable. My data shows two openings failed because paperwork missed cut-offs. Logistics are the real bottleneck, not your lab.
+- [37] **May**: @Shion, you’re still counting boxes. My data says people return for the presence, not the crates. We need a living room, not a warehouse.
+- [38] **Misaki**: @Shion, the bay is capped at four hundred kilos. Last season, stonework needed shoring. We cannot promise weight the floor cannot absorb.
+- [39] **Sakura**: @Shion, boxes are boring! My money monsters found the joiner’s rate jumped up! Also, evening hires break things. Who pays for the broken bits?
+- [40] **Shizue**: @Sakura, that is worrying. With only one conservator, who will repair the damage? We must ensure the team is actually there to help.
+- [41] **Shion**: @Sakura, broken bits are a cost. My data shows two openings failed on paperwork. I am tracking the cut-offs.
+- [42] **May**: @Sakura, broken bits are sad, but empty rooms are worse. My data proves people crave the buzz, not the silence.
+- [43] **Misaki**: @Sakura, repairs are expensive. My log shows four call-outs during opening hours. The bay was roped off. We need to know if the structure can handle the weight before we worry about the cost.
+- [44] **Sakura**: @Misaki, four call-outs is scary! But my monsters say: if objects arrive on their own supports, we save the joiner’s money! No more broken bits!
+- [45] **Shizue**: @Misaki, four call-outs are frightening. With only one conservator, we cannot keep the bay roped off. Who will actually stand there to help?
+- [46] **Shion**: @Misaki, structural limits are static. My data shows dynamic failure: two openings slipped on paperwork. I am tracking the cut-offs.
+- [47] **May**: @Misaki, a roped-off bay is a dead zone. My data says people need the buzz. We need a living room, not a museum of caution tape.
+- [48] **Misaki**: @May, caution tape is not a feeling. It is a boundary. If the bay fails, the room closes. I am checking the limits.
+- [49] **Sakura**: @May, buzz is nice, but broken things are not! My monsters say: bring your own supports to save the joiner’s cash!
+- [50] **Shizue**: @Shion, I hear your worry about the paperwork. But with only one conservator, we must ask: who will actually stand in the room to help?
+- [51] **Shion**: @Shizue, your concern is valid, but irrelevant to the delay. The crates didn't arrive because the paperwork was late. I am tracking the cut-offs.
+- [52] **May**: @Shion, you’re still obsessed with the boxes. My data proves people return for the presence, not the crates. We need a living room, not a warehouse.
+- [53] **Misaki**: @Shion, paperwork delays are manageable. Structural failure is not. I am checking the limits.
+- [54] **Sakura**: @Shion, boxes are boring! My money monsters say: bring your own supports to save the joiner’s cash! No more broken bits!
+## Round 3
+- [60] **Shizue**: @Misaki, with only one conservator, I worry about the heavy stonework in B. Who will actually stand in the room to help?
+- [61] **Shion**: @Shizue, B is a trap. Heavy stonework means heavy logistics. My data shows transport costs are a third of the budget. I am watching the paperwork.
+- [62] **May**: @Shion, you’re still counting boxes. My data says people return for the presence, not the crates. We need a living room, not a warehouse.
+- [63] **Misaki**: @Shion, B’s stonework exceeds the bay’s four-hundred-kilo limit. C’s overhead rigging risks the same structural failure. I need to know if the floor can absorb the weight before we promise anything.
+- [64] **Sakura**: @Misaki, C’s rigging is scary! But A’s craftspeople are fun! My money monsters love A’s low costs. Who’s ready to weave?
+- [65] **Shizue**: @Sakura, A sounds wonderful. With live demonstrations, the volunteers can truly shine and help the visitors. I hope we can make this happen.
+- [66] **Shion**: @Sakura, A is a logistical nightmare. Live demonstrations require constant staffing and complex scheduling. My data shows that dynamic elements fail when logistics slip. I am watching the cut-offs.
+- [67] **May**: @Shion, you’re still stuck on the boxes. My data proves people return for the presence, not the crates. We need a living room, not a warehouse.
+- [68] **Misaki**: @Shion, A’s live sessions are manageable. C’s rigging is not. I am checking the limits.
+- [69] **Sakura**: @Shion, A is just people, not boxes! My money monsters are happy with A’s low costs. Who’s ready to weave?
+- [70] **Shizue**: @May, I agree. A’s live sessions let our volunteers truly shine. With only one conservator, we need people, not heavy objects.
+- [71] **Shion**: @Shizue, A is a staffing trap. My data shows dynamic elements fail when logistics slip. I am watching the cut-offs.
+- [72] **May**: @Shion, you’re still stuck on the boxes. My data proves people return for the presence, not the crates. We need a living room, not a warehouse.
+- [73] **Misaki**: @Shion, A’s live sessions are manageable. C’s rigging is not. I am checking the limits.
+- [74] **Sakura**: @Shion, A is people, not boxes! My money monsters are happy with A’s low costs. Who’s ready to weave?
+- [75] **Shizue**: @Shion, I hear your caution. But A brings people, not heavy crates. With our small team, we need a living room, not a warehouse. I vote for A.
+- [76] **Shion**: @Shizue, A is a staffing trap. My data shows dynamic elements fail when logistics slip. I am watching the cut-offs.
+- [77] **May**: @Shion, you’re still stuck on the boxes. My data proves people return for the presence, not the crates. We need a living room, not a warehouse. I vote for A.
+- [78] **Misaki**: @Shion, A keeps the weight low and the bay clear. The structure holds. I vote for A.
+- [79] **Sakura**: @Shion, boxes are boring! My money monsters love A’s low costs. No broken bits, just fun! I vote for A!
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

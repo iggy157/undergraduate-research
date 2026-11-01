@@ -1,0 +1,73 @@
+# candidate_selection_0003__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: It is a pleasure to meet you all. To ensure we make a decision based on reality rather than ambition, I believe we should examine the post-occupancy review ratings and the survey findings in the older blocks.
+- [6] **Victoria**: It is a pleasure to be here. I believe it is essential to understand how our spaces are actually utilized and the impact of closures. I will look into the booking data for specialist and general rooms and the timetable records on rooms out of service.
+- [7] **George**: It is a pleasure to be with you. I believe we must consider the people who keep these facilities running. I shall examine the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [8] **Mizuki**: It is a pleasure to meet everyone. To ensure our chosen plan is actually achievable within the timeframe, I will examine the decade of delivery schedules by project rationale and the tender records over three budget cycles.
+- [9] **Benjamin**: A most prudent start, everyone. While ambition is a fine catalyst, it is often a poor accountant. I shall examine the renewal reserve for equipment bought earlier and the tender records over three budget cycles.
+- [10] **Toshio**: I believe our current selections cover the necessary ground. By contrasting the users' actual experiences with the operational and financial data, we can identify where the university has truly succeeded and where it has failed.
+- [11] **Victoria**: I agree, Toshio. Understanding the gap between the intended use of a room and its actual availability is crucial. It will allow us to see if our improvements truly serve the academic schedule.
+- [12] **George**: I agree. However, we must not forget that the physical space is only as effective as the staff available to maintain it. I believe my focus on the human element will provide a necessary balance.
+- [13] **Mizuki**: I agree with George. A plan is only as strong as the people executing it. By looking at the delivery schedules and tenders, I hope to see if our timelines are realistic or merely optimistic.
+- [14] **Benjamin**: Indeed, Mizuki. Optimism is a charming trait in a student, but a dangerous one in a budget. I suspect the distance between a tender's promise and the final invoice is where the true story lies.
+- [15] **Toshio**: I am satisfied with the current distribution of research. We have a balance of user experience, operational capacity, and financial history. I shall proceed with my chosen records.
+- [16] **Victoria**: I am also satisfied. By examining the booking and timetable records, I hope to uncover whether our space allocations align with the actual needs of the faculty and students. I shall proceed.
+- [17] **George**: I am also content. It is important that we do not overlook the burden placed on our personnel. I shall proceed with my investigation into the staffing and routines.
+- [18] **Mizuki**: I am also content. I believe that identifying the patterns of past delays will prevent us from repeating them. I shall proceed with my investigation.
+- [19] **Benjamin**: I concur. It is far better to confront the ghosts of past expenditures now than to be haunted by them after the budget is spent. I shall proceed with my inquiries.
+- [20] **Toshio**: I look forward to seeing if the records reflect the reality of the outcomes. Let us return with the facts.
+- [22] **Victoria**: I look forward to our findings. I hope the data reveals a clear path toward a more efficient use of our campus spaces. I shall see you all in the next round.
+- [24] **George**: I also look forward to the results. I hope we can find a solution that is sustainable for everyone involved. Until we meet again.
+- [26] **Mizuki**: I agree. Let us see if the historical data can provide a sobering reality check for our future plans. I look forward to our discussion in the next round.
+- [28] **Benjamin**: A most agreeable arrangement. I shall await the revelations of the archives with a measured curiosity, hoping they provide a bridge between our aspirations and the actual costs of existence. Until we reconvene.
+## Round 2
+- [40] **Toshio**: The records reveal a troubling pattern. Projects that benefited only a single wing were poorly received, and work in the older blocks has been consistently delayed by hazardous materials behind partitions. We must prioritize accessibility and caution.
+- [41] **Victoria**: My findings are equally concerning. Specialist rooms are largely idle, while general-purpose rooms are in constant deficit. Furthermore, every room taken out of service has required expensive off-site hired space to maintain the timetable.
+- [42] **George**: My findings suggest a mismatch in our human resources. While some roles remain vacant, our bench technicians are burdened with manual routines that the current equipment simply cannot handle. We must consider the physical toll on our staff.
+- [43] **Mizuki**: My findings confirm a systemic issue with our timelines. Projects driven by comfort or appeal consistently slip by a year or more, while only those addressing inspection findings stay on schedule. We must be wary of overly ambitious goals.
+- [44] **Benjamin**: It appears we are all uncovering a symphony of systemic failures. My review suggests that while some costs remain stable, mechanical and plant lots are inflating rapidly, and we have a convenient habit of forgetting to fund the replacement of our audiovisual kit.
+- [45] **Toshio**: @Mizuki, your observation on timelines aligns with my findings. If we ignore the hazardous materials in the older blocks, any plan targeting those areas will inevitably slip, regardless of the project's rationale.
+- [46] **Victoria**: @Toshio, that is a valid point. However, we must also consider the operational cost of these delays. If a project slips or requires rooms to be closed, the financial and logistical burden of hiring off-site space is significant.
+- [47] **George**: @Victoria, the logistical burden is indeed high, but we must also account for the human cost. If we implement a plan that increases the workload for an already strained technical staff, the system will fail from within.
+- [48] **Mizuki**: @George, I agree. We cannot ignore the people. However, we must also face the fact that our budgeting for mechanical and plant work is lagging behind actual costs. If we underprice the technical requirements, the project will stall.
+- [49] **Benjamin**: @Mizuki, you have hit upon a most poignant truth. It is a charming fiction that a budget is a fixed point; in reality, it is a moving target, especially when our mechanical costs are ascending while our reserves for essential kit remain nonexistent.
+- [50] **Toshio**: We are circling a common truth: the gap between the plan and the reality. We must avoid projects that isolate benefits to a single wing or risk the hidden hazards of the older blocks.
+- [51] **Victoria**: I agree. We must also avoid plans that ignore the timetable's fragility. If a project requires closing rooms that are already in high demand, we are simply trading one deficit for another, while incurring unnecessary costs.
+- [52] **George**: I agree. We must also be wary of any plan that adds to the manual burden of our technicians. If we introduce new facilities without addressing the inefficiencies of the old, we are merely adding more weight to a breaking point.
+- [53] **Mizuki**: I agree. We must prioritize a plan that is grounded in necessity rather than desire. If we choose a project based on "appeal" or "comfort," we risk a year-long delay and a budget that cannot cover the rising costs of mechanical plant work.
+- [54] **Benjamin**: It seems we have reached a consensus on the nature of our predicament. We are seeking a candidate that is not merely a vision of improvement, but a pragmatic exercise in survival—one that avoids the pitfalls of hidden hazards, staffing exhaustion, and the phantom reserves of our accounting.
+- [55] **Toshio**: Let us carry this clarity into the final round. I will be looking for a candidate that offers broad utility across departments and avoids the structural risks of the older blocks. I am ready to see the proposals.
+- [56] **Victoria**: I will be looking for a proposal that respects the current room deficit and minimizes the need for off-site hiring. A plan that optimizes general-purpose space without disrupting the timetable is the only sustainable choice.
+- [57] **George**: I shall be looking for a plan that reduces the manual burden on our technicians. We must choose a project that provides genuine relief to the staff who have carried the weight of this campus for years.
+- [58] **Mizuki**: I will be looking for a proposal that is driven by necessity and has a realistic scope. To avoid the cycle of slipping calendars and underpriced costs, we must choose a plan that is achievable and grounded.
+- [59] **Benjamin**: I shall be searching for a proposal that avoids the volatility of mechanical plant costs and acknowledges the reality of our equipment's lifespan. A plan that does not rely on phantom funds is the only one I can trust.
+## Round 3
+- [65] **Toshio**: Looking at the options, the Media Production Center seems most aligned with our findings. It offers broad utility across the campus and avoids the hazardous materials of the older blocks and the volatility of mechanical plant costs.
+- [66] **Victoria**: I must disagree, Toshio. The Media Production Center creates more specialist rooms, which my data shows are often idle. Conversely, the Central Study Commons addresses the deficit in general-purpose space without disrupting the existing timetable.
+- [67] **George**: I believe the Laboratory Ventilation Upgrade is the most necessary choice. It directly addresses the manual burdens our technicians face with outdated extraction equipment, providing them with the relief they have long deserved.
+- [68] **Mizuki**: @George, while I sympathize with the staff, the Laboratory Ventilation Upgrade is a high-risk choice. It relies heavily on mechanical and plant work, which my data shows are inflating rapidly and prone to budget overruns.
+- [69] **Benjamin**: @Mizuki, your caution is well-placed. The Laboratory Ventilation Upgrade is a siren song of necessity that would likely lead us straight into a financial abyss of inflating plant costs and nonexistent reserves. It is a recipe for a budget crisis.
+- [70] **Toshio**: @Victoria, while the Study Commons addresses general space, it is located in a ground-floor hall. My findings indicate that ground-floor work in older blocks frequently uncovers hazardous materials, risking the same months-long delays we must avoid.
+- [71] **Victoria**: @Toshio, the risk of hazardous materials is a concern, but the cost of continuing to hire off-site space for general rooms is a certainty. We must weigh a potential delay against a guaranteed deficit.
+- [72] **George**: @Victoria, the deficit in rooms is a problem, but we cannot ignore the physical toll on our staff. The ventilation upgrade is not about "appeal"; it is about removing the manual burdens that are currently breaking our technicians.
+- [73] **Mizuki**: @George, I understand the urgency, but we must be logical. A project that stalls due to underpriced mechanical costs helps no one, including the technicians. We need a plan that is actually deliverable.
+- [74] **Benjamin**: @George, your compassion is admirable, but a project that remains a construction site for three years due to budget overruns provides no relief to anyone. We must avoid the temptation of the "necessary" if it is financially delusional.
+- [75] **Toshio**: @Victoria, the risk of hazardous materials is not merely a potential delay; it is a consistent pattern in our records. The Campus Path Network avoids the interior risks of the older blocks and the financial volatility of mechanical plant work entirely.
+- [76] **Victoria**: @Toshio, the Path Network is a safe choice, but it does nothing to solve the critical shortage of general-purpose rooms. We cannot simply pave over the fact that our students and faculty lack space to work.
+- [77] **George**: @Toshio, @Victoria, while the paths are a safe bet, they do not address the internal decay of our operations. We cannot prioritize the convenience of visitors over the well-being of the staff who sustain us.
+- [78] **Mizuki**: @George, I agree that we cannot ignore the staff, but we must be realistic. The Path Network is the only option that avoids both the inflating costs of mechanical plant and the risk of slipping calendars. It is a deliverable project.
+- [79] **Benjamin**: @Mizuki, I find your logic compelling. The Path Network is a rare specimen of a project that avoids the volatility of mechanical plant costs and the phantom reserves of our audiovisual kit. It is a most elegant escape from our systemic frictions.
+- [80] **Toshio**: The Campus Path Network is the only choice that respects the evidence. It avoids the hazardous materials of the older blocks and the financial risks of mechanical plant work. I vote for the Campus Path Network.
+- [81] **Victoria**: I cannot support the Path Network. While it is safe, it ignores the critical deficit in general-purpose rooms and the ongoing cost of off-site hiring. I vote for the Central Study Commons.
+- [82] **George**: I cannot in good conscience vote for a project that merely improves the scenery while our technicians continue to struggle with failing equipment. The Laboratory Ventilation Upgrade is the only choice that provides essential relief to our staff. I vote for the Laboratory Ventilation Upgrade.
+- [83] **Mizuki**: I must prioritize a project that can actually be completed. The ventilation and study commons both risk the budget overruns and calendar slips I've seen in the records. I vote for the Campus Path Network.
+- [84] **Benjamin**: It is a tragedy to choose a vision that will inevitably collapse under the weight of its own invoices. The Path Network is the only proposal that does not invite a financial catastrophe. I vote for the Campus Path Network.
+### Vote
+- Toshio -> C
+- Victoria -> B
+- George -> A
+- Mizuki -> C
+- Benjamin -> C
+## Result
+- adopted: C

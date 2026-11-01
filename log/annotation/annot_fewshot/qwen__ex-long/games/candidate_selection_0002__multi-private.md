@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the pitch. Who actually holds the skills to execute this work?
+- [6] **Asuka**: I am concerned about the gap between our success stories and actual customer retention. We need to verify which past investments truly held their users.
+- [7] **Minako**: I am worried about our cash reserves. We need to understand the true cost of follow-on calls and what we can borrow against.
+- [8] **Mio**: I’m curious about the people! Who can we actually find right now? I want to see who has time to help our new companies.
+- [9] **Toshio**: I want to understand why past projects stalled. I need to see the delivery records of our two holdings to find the real bottlenecks.
+- [10] **Servas**: Asuka, your caution is wise. Yet without skilled hands, even perfect funding is just paper. Let us ensure the people are truly there.
+- [11] **Asuka**: Servas, execution is vital, but retention is the truth. If customers leave, skills are irrelevant. We must verify the actual user base.
+- [12] **Minako**: Asuka, retention is vital, but it is a symptom. I need to know the structural cost of holding these positions. @Toshio, do your delivery records show where the cash actually bled out?
+- [13] **Mio**: @Minako, I hear you! But people are the real engine. @Toshio, do your records show if we just ran out of hands to finish the work?
+- [14] **Toshio**: @Minako, the records show external dependencies, not cash bleed. @Mio, it was not a lack of hands, but a lack of control over the environment.
+- [15] **Servas**: Toshio, your insight is profound. We must value the hands that remain. Let us ensure the people are truly there to execute.
+- [16] **Asuka**: Toshio, external dependencies explain the delay, not the churn. I need to know if the customers stayed after the product finally shipped.
+- [17] **Minako**: @Toshio, external dependencies delay the work, but they do not explain the cash drain. I need to see the structural cost of holding these positions.
+- [18] **Mio**: @Toshio, that makes sense! But if the environment is tricky, we need people who know how to navigate it. I’m worried we won’t find them in time!
+- [19] **Toshio**: @Mio, the environment is the variable. We must identify which external forces stall the work before we commit capital.
+- [20] **Servas**: I will examine the independent checks on holdings' reported figures and the appraisal needs at the last audit.
+- [21] **Asuka**: I will examine account retention through price rises and the profile of the exits and the write-off.
+- [22] **Minako**: I will examine the reserve accounts and follow-on calls and the terms of last winter's credit line.
+- [23] **Mio**: I will examine the retained recruiters' placement times and the adviser bench and partner board seats.
+- [24] **Toshio**: I will examine the delivery records of two holdings and the security review time before first deployment.
+## Round 2
+- [35] **Servas**: My findings reveal a critical gap. Hardware holdings require outside appraisals, adding six weeks and significant fees to our quarter-end. We must avoid this reporting burden.
+- [36] **Asuka**: My data confirms the pattern. Quiet back-office tooling retains customers and exits cleanly. The write-off ran physical premises. We must avoid operational complexity.
+- [37] **Minako**: My findings are stark. Follow-on calls hit twice the modelled rate, and two called early. The credit line ignores subscription contracts. We are structurally undercapitalized for the next year.
+- [38] **Mio**: Wow, that’s a lot! But my data shows recruiters can’t find field crews fast enough. We need companies that don’t rely on hard-to-find seasonal staff.
+- [39] **Toshio**: @Minako, your capital strain is real. My data shows the bottleneck is external. Hardware stalled on supply chains; software cleared security in a quarter. We must avoid hardware.
+- [40] **Servas**: @Toshio, your data aligns with my audit findings. Hardware triggers external appraisals, adding six weeks to our quarter-end. We must choose software to keep our reporting clean and independent.
+- [41] **Asuka**: @Toshio, software clears security faster, but retention is the true test. My data shows back-office tooling holds users. We must prioritize that specific model.
+- [42] **Minako**: @Toshio, your data confirms my fear. Hardware drains cash through appraisals and early calls. We must choose software to preserve our structural liquidity.
+- [43] **Mio**: @Toshio, that’s great! But my recruiter data shows finding field crews takes months. We need a team that doesn’t need seasonal staff. @Asuka, does your tooling need them?
+- [44] **Toshio**: @Mio, the tooling runs in a partner’s cycle, not the field. It requires no seasonal staff. @Asuka, your retention data aligns with my security findings. We must prioritize that specific model.
+- [45] **Servas**: @Asuka, your focus on retention is vital. Yet I must ask: does this specific tooling require any physical assets that would trigger the costly appraisals I found?
+- [46] **Asuka**: @Servas, no. The profitable exits were pure software. No physical assets, no appraisals. It is the cleanest path for both retention and reporting.
+- [47] **Minako**: @Servas, no physical assets means no appraisal fees. That preserves our reserve. @Asuka, your retention data confirms this is the only path that protects our liquidity.
+- [48] **Mio**: @Asuka, that’s perfect! No field crews means no waiting for recruiters. I’m so relieved! @Minako, does this save our cash reserves too?
+- [49] **Toshio**: @Mio, yes. No physical assets means no supply chain delays. The software clears security in a quarter, not three. This is the only path that respects our timeline.
+- [50] **Servas**: Asuka, your clarity is a gift. Pure software respects our reporting integrity and your retention data. Let us choose the path that endures without the weight of physical assets.
+- [51] **Asuka**: I agree. The data is unanimous. We must fund the pure software model that retains users and avoids operational drag. Let us proceed to the candidates.
+- [52] **Minako**: I concur. The data is clear. Pure software protects our reserves and avoids the structural drain I identified. We must choose the path that preserves our liquidity.
+- [53] **Mio**: I’m so happy we all agree! Pure software means no waiting for hard-to-find crews. I’m ready to see the candidates and pick the best one!
+- [54] **Toshio**: I concur. The data is unanimous. Pure software avoids the external bottlenecks I identified. We must choose the path that respects our timeline and avoids supply chain risks.
+## Round 3
+- [60] **Servas**: @Asuka, your retention insight is key. A and D are pure software. B and C carry physical weight. We must choose the path that keeps our quarter-end clean.
+- [61] **Asuka**: @Servas, precisely. A and D are pure software. B and C carry physical assets that trigger the appraisals and operational drag we must avoid.
+- [62] **Minako**: @Servas, agreed. A and D are pure software. B and C carry physical weight that drains our reserves. We must choose the path that preserves our structural liquidity.
+- [63] **Mio**: @Servas, I agree! B and C need field crews, which my recruiters can’t find fast enough. A and D are pure software, so no waiting for seasonal staff!
+- [64] **Toshio**: @Servas, agreed. A and D are pure software. B and C carry physical weight that triggers the external bottlenecks I identified. We must choose the path that respects our timeline.
+- [65] **Servas**: @Asuka, between A and D, which one truly retains users after the initial price rise? I need to know which model endures without the churn you warned of.
+- [66] **Asuka**: @Servas, A retains nine of ten accounts through price rises. D’s merchant model is unproven in my data. A is the verified, durable choice.
+- [67] **Minako**: @Asuka, A’s verified retention is critical. It ensures the cash flow covers the follow-on calls I identified. D’s unproven model risks our structural liquidity.
+- [68] **Mio**: @Asuka, that’s amazing! A keeps its users, which means we don’t need to constantly find new people to fix things. I’m so relieved!
+- [69] **Toshio**: @Asuka, A’s medical context triggers the three-quarter security review I found. D’s merchant data is lighter. We must weigh the timeline against the retention risk.
+- [70] **Servas**: @Toshio, the security delay is a concern, but my audit data shows software avoids the six-week appraisal trap. A’s verified retention outweighs D’s unproven model. We must choose the durable path.
+- [71] **Asuka**: @Toshio, the security delay is a known cost, not a blocker. D’s unproven retention is a structural risk. A is the only verified, durable choice.
+- [72] **Minako**: @Toshio, the security delay is a known cost. D’s unproven model risks our reserves. A’s verified retention protects our structural liquidity. We must choose the durable path.
+- [73] **Mio**: @Toshio, I hear you! But A’s users stay, so we don’t need to scramble for new people. D is risky. I think A is the safer, happier choice for our team!
+- [74] **Toshio**: @Servas, the delay is a known variable, not a blocker. D’s unproven retention is a structural risk. A’s verified durability outweighs the timeline cost. I support A.
+- [75] **Servas**: @Toshio, your wisdom guides us. A is the enduring path. Let us vote for the work that remains, not the work that fades.
+- [76] **Asuka**: @Servas, I agree. A is the only choice supported by verified retention data. It respects the evidence and avoids the structural risks we identified. I vote for A.
+- [77] **Minako**: @Servas, I agree. A’s verified retention protects our reserves from the structural drain I identified. It is the only choice that preserves our liquidity. I vote for A.
+- [78] **Mio**: @Servas, I agree! A keeps its users, so we don’t need to scramble for new people. It’s the safest, happiest choice for our team. I vote for A!
+- [79] **Toshio**: @Servas, I concur. A’s verified retention outweighs the known security delay. It is the only path that respects both our timeline and the evidence. I vote for A.
+### Vote
+- Servas -> A
+- Asuka -> A
+- Minako -> A
+- Mio -> A
+- Toshio -> A
+## Result
+- adopted: A

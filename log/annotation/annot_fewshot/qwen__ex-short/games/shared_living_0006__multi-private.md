@@ -1,0 +1,73 @@
+# shared_living_0006__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: The fee structure is opaque. I need to understand the actual costs before we decide anything.
+- [6] **Benjamin**: I appreciate the sentiment, Asuka. But before we dissect the costs, let’s ensure the person actually doing the counting doesn’t vanish into a black hole of paperwork.
+- [7] **Jonathan**: I agree with Benjamin. The workload matters as much as the money. I want to see who is truly carrying the administrative burden before we adjust the fees.
+- [8] **Shunichi**: I’m not worried about the money. I’m worried about the silence. Why do regulars hesitate to show up now?
+- [9] **Takumi**: I refuse to guess again. We need hard numbers on what we can actually count on, not vague hopes.
+- [10] **Asuka**: @Benjamin, the ledger will show if the workload is sustainable. I will check the treasurer's hours and the sign-in sheets.
+- [11] **Benjamin**: @Asuka, I appreciate the thoroughness. I’ll examine the outgoing treasurer’s logged hours and the bank statements to see where the time and money actually go.
+- [12] **Jonathan**: @Shunichi, that silence is concerning. I will check the weekday turnout and the winter social notes to see who is actually present.
+- [13] **Shunichi**: @Jonathan, the winter social is a snapshot, not a trend. I need the sign-up records for mid-year joiners and the taster evening forms to see where the hesitation starts.
+- [14] **Takumi**: @Asuka, I need the last year's ledger and the bank statements. I want to see exactly where the money went and what we can rely on.
+- [15] **Asuka**: I will review the minute books from the named-grade years and the rota against the attendance record.
+- [16] **Benjamin**: I will review the last year's ledger of outgoings and the bank statements on last year's renewals.
+- [17] **Jonathan**: I will check the tally of the sign-in sheets and the rota against the attendance record.
+- [18] **Shunichi**: I will check the sign-up records for mid-year joiners and the taster evening forms from non-joiners.
+- [19] **Takumi**: I will check the last year's ledger of outgoings and the bank statements on last year's renewals.
+- [20] **Asuka**: I will check the minute books from the named-grade years and the rota against the attendance record.
+- [21] **Benjamin**: I will check the outgoing treasurer's logged hours and the bank statements on last year's renewals.
+- [22] **Jonathan**: I will check the tally of the sign-in sheets and the rota against the attendance record.
+- [23] **Shunichi**: I will check the sign-up records for mid-year joiners and the taster evening forms from non-joiners.
+- [24] **Takumi**: I will check the last year's ledger of outgoings and the bank statements on last year's renewals.
+## Round 2
+- [35] **Asuka**: The minute books show the lower grade stopped nominating. The rota confirms the same nine people handle setup and lock-up.
+- [36] **Benjamin**: @Asuka, nine people carrying the load is a recipe for burnout. My data shows chasing individual payments takes six hours monthly, versus one for yearly collections.
+- [37] **Jonathan**: @Benjamin, that aligns with my findings. The same nine people do the setup and lock-up, while eighteen members never sign in. The burden is incredibly uneven.
+- [38] **Shunichi**: @Jonathan, eighteen ghosts? That explains the hesitation. My data shows eleven mid-year joiners needed hand-worked calculations, and nine tasters refused a whole-year commitment.
+- [39] **Takumi**: @Benjamin, six hours chasing payments is unacceptable. My ledger shows fixed costs are seventy percent, but the bank statements prove a third of renewals need reminders. We cannot guess the income.
+- [40] **Asuka**: @Shunichi, the taster refusal confirms the barrier is visibility. If the structure is opaque, newcomers drift away. We need a model that preserves that anonymity.
+- [41] **Benjamin**: @Asuka, anonymity is a luxury we cannot afford if the books are a mess. I need a system that minimizes the chasing, not just the visibility.
+- [42] **Jonathan**: @Benjamin, I understand the need for order. But if the fee structure feels like a trap, those eighteen will stay silent. We need clarity, not just collection.
+- [43] **Shunichi**: @Benjamin, clarity is the point. If the fee feels like a trap, people vanish. I need a structure that makes the commitment obvious, not a maze of calculations.
+- [44] **Takumi**: @Shunichi, I agree. If the fee feels like a trap, people vanish. I need a structure that makes the commitment obvious, not a maze of calculations.
+- [45] **Asuka**: @Benjamin, I agree. We need a flat, predictable cost. No itemized ledgers that expose individual spending. That preserves the anonymity that keeps people comfortable here.
+- [46] **Benjamin**: @Asuka, a flat fee is logical, but only if it covers the fixed costs without requiring me to chase stragglers. I need the collection to be automatic, not a personal favor.
+- [47] **Jonathan**: @Asuka, I agree. A flat fee protects the quiet members from scrutiny. But we must ensure the nine who carry the work are not overburdened by the collection process itself.
+- [48] **Shunichi**: @Asuka, I agree. A flat fee removes the anxiety of the unknown. If the cost is clear, the hesitation to show up disappears.
+- [49] **Takumi**: @Asuka, a flat fee is the only way to stop the guessing. But if a third of people need reminders, how do we ensure the money actually arrives on time?
+- [50] **Asuka**: @Takumi, automatic direct debit solves the reminder problem. It removes the social friction of chasing people, which is exactly what I want to avoid.
+- [51] **Benjamin**: @Asuka, direct debit is elegant, but it requires a clean, one-time setup. I need to ensure the initial data entry doesn’t become a new administrative nightmare for the next treasurer.
+- [52] **Jonathan**: @Benjamin, I agree. A one-time setup is manageable if we document it clearly. I would rather spend a few hours now than chase payments for a year.
+- [53] **Shunichi**: @Benjamin, a one-time setup is fine. The real win is that the fee is fixed and known. No more wondering if the cost will change.
+- [54] **Takumi**: @Benjamin, I agree. A one-time setup is better than a year of chasing. But I need the numbers to prove the flat fee covers the fixed costs without a deficit.
+## Round 3
+- [60] **Asuka**: Option A. It preserves the anonymity I value. No one sees what others pay, and the flat cost removes the hesitation that drives newcomers away.
+- [61] **Benjamin**: Option A. It aligns with the data: one collection point, zero chasing. It protects the treasurer from the six-hour monthly grind.
+- [62] **Jonathan**: Option A. It protects the quiet members from scrutiny. The flat cost removes the anxiety that keeps eighteen people silent.
+- [63] **Shunichi**: Option A. The hesitation vanishes when the cost is fixed and known. No more weighing up whether to show up.
+- [64] **Takumi**: Option A. It stops the guessing. One clear number, no hidden costs. I need to know exactly what we can count on, and this is the only way to do it.
+- [65] **Asuka**: @Benjamin, the one-time setup is manageable. We document the process clearly, so the next treasurer isn't left guessing.
+- [66] **Benjamin**: @Asuka, precisely. A documented, one-time setup is the only way to ensure the next treasurer doesn’t inherit a labyrinth. Clarity is kindness.
+- [67] **Jonathan**: @Benjamin, I agree. Clarity is kindness. If we document the setup, the next treasurer inherits a calm process, not a burden.
+- [68] **Shunichi**: @Benjamin, I agree. Clarity is kindness. If the fee is fixed, the hesitation to show up disappears. No more weighing up the cost every single time.
+- [69] **Takumi**: @Benjamin, I agree. Clarity is kindness. If the setup is documented, the next treasurer won't drown in paperwork. I need that certainty.
+- [70] **Asuka**: @Takumi, the ledger confirms fixed costs are seventy percent. A flat fee covers that reliably. We stop the deficit risk and the social friction simultaneously.
+- [71] **Benjamin**: @Takumi, exactly. Seventy percent fixed means the flat fee is a shield, not a gamble. We stop the deficit risk and the social friction simultaneously.
+- [72] **Jonathan**: @Takumi, I agree. The data shows the burden is concentrated. A flat fee spreads the cost evenly, so the nine who work hardest aren't also the ones chasing money.
+- [73] **Shunichi**: @Takumi, I agree. The data proves the hesitation stems from uncertainty. A flat fee removes that friction. No more weighing up the cost every single time.
+- [74] **Takumi**: @Asuka, exactly. Seventy percent fixed means the flat fee is a shield, not a gamble. We stop the deficit risk and the social friction simultaneously.
+- [75] **Asuka**: I am voting for Option A.
+- [76] **Benjamin**: I am voting for Option A.
+- [77] **Jonathan**: I am voting for Option A.
+- [78] **Shunichi**: I am voting for Option A.
+- [79] **Takumi**: I am voting for Option A.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> A
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

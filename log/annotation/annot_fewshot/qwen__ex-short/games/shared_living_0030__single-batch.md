@@ -1,0 +1,73 @@
+# shared_living_0030__single-batch (shared_living)
+
+## Round 1
+- [5] **Toshio**: The current system is failing. I need to know the true monthly cost before we agree to anything.
+- [6] **Ryuji**: I am worried about the time commitment. We need to know how long a proper clean actually takes.
+- [7] **Benjamin**: The workload feels uneven. I want to see who is actually using the spaces versus who is cleaning them.
+- [8] **May**: I am tired of guessing the state of the rooms. I need a standard for what "done" means.
+- [9] **Midori**: I care about our relationships. I want to know what the previous tenants did to avoid conflict.
+- [10] **Toshio**: @Ryuji, if the hours are high, we might need to pay someone else.
+- [11] **Ryuji**: @Toshio, I agree. But I need the data first to justify the cost.
+- [12] **Benjamin**: @May, if we define "done" clearly, the friction might disappear.
+- [13] **May**: @Benjamin, yes, but I also need to know if the effort is distributed fairly.
+- [14] **Midori**: @Toshio, I am looking into the history to see what worked before.
+- [15] **Toshio**: I will check the receipts to see the actual spending.
+- [16] **Ryuji**: I will time a full cleaning pass to get real numbers.
+- [17] **Benjamin**: I will watch the kitchen usage for a fortnight.
+- [18] **May**: I will check the chat logs to see what causes arguments.
+- [19] **Midori**: I will read the note left by the previous tenants.
+- [20] **Toshio**: I will also check the management office rate sheet.
+- [21] **Ryuji**: I will also check the standard terms of the outside firm.
+- [22] **Benjamin**: I will also check the absences on the wall calendar.
+- [23] **May**: I will also check what each housemate counts as done.
+- [24] **Midori**: I will also check the bathroom grout after the July scrub.
+## Round 2
+- [35] **Toshio**: The receipts show we spend 2,300 yen monthly on supplies, often buying duplicates.
+- [36] **Ryuji**: A full pass takes over two hours. That is a significant chunk of my week.
+- [37] **Benjamin**: Two people are away most months, yet they count the same in the rota.
+- [38] **May**: The arguments always start with someone reminding another about a missed task.
+- [39] **Midori**: The previous tenants divided rooms permanently, but by year two, they barely spoke.
+- [40] **Toshio**: @Ryuji, two hours is too much for one person to handle alone regularly.
+- [41] **Ryuji**: @Toshio, exactly. If we hire help, the firm requires a two-hour arrival window.
+- [42] **Benjamin**: @May, the chat logs show the friction comes from ambiguity, not malice.
+- [43] **May**: @Benjamin, I agree. But the bathroom grout gets dirty again in eleven days.
+- [44] **Midori**: @Toshio, the management office charges 4,200 yen an hour for a cleaner.
+- [45] **Toshio**: 4,200 yen an hour is expensive, but it might be cheaper than our time.
+- [46] **Ryuji**: The firm's terms say they work around mess, so we still need to tidy up.
+- [47] **Benjamin**: If we rotate, the absent people still get their turn, which feels unfair.
+- [48] **May**: I need a system where I don't have to check the bathroom before entering.
+- [49] **Midori**: Permanent assignments seem to kill the social bond. We need something flexible.
+- [50] **Toshio**: I am leaning towards paying for the service to remove the burden.
+- [51] **Ryuji**: I am concerned about the prep work required for the outside firm.
+- [52] **Benjamin**: A fixed rota might be the only way to ensure fairness despite absences.
+- [53] **May**: I want a clear standard. If we pay, we need to define what they do.
+- [54] **Midori**: I worry that a rigid rota will cause the same silence as the previous tenants.
+## Round 3
+- [60] **Toshio**: Option A is standing assignments. Option B is a paid service. Option C is a fixed rota.
+- [61] **Ryuji**: Option B removes the two-hour block from my schedule, which is appealing.
+- [62] **Benjamin**: Option C is fair on paper, but it ignores the absences I found.
+- [63] **May**: Option A feels risky. If I own the bathroom, I am always on call.
+- [64] **Midori**: Option C is what the previous tenants did, and it failed socially.
+- [65] **Toshio**: @Ryuji, if we choose B, we split the 4,200 yen hourly rate.
+- [66] **Ryuji**: @Toshio, that is manageable if we only book it once a week.
+- [67] **Benjamin**: @May, Option B means we don't have to guess the state of the rooms.
+- [68] **May**: @Benjamin, yes, but I need to know if the firm cleans the grout.
+- [69] **Midori**: @Toshio, I am worried about the cost, but I value our harmony more.
+- [70] **Toshio**: The cost is high, but it buys us time and peace.
+- [71] **Ryuji**: I can handle the coordination if we go with B.
+- [72] **Benjamin**: I prefer C for fairness, but B is more practical given the absences.
+- [73] **May**: I vote for B. I want to stop bracing myself before entering the bathroom.
+- [74] **Midori**: I am hesitant about the cost, but I don't want to repeat the previous tenants' mistake.
+- [75] **Toshio**: I am voting for B. It is the most sustainable financially and temporally.
+- [76] **Ryuji**: I am voting for B. It removes the heavy lifting from my week.
+- [77] **Benjamin**: I am voting for B. It is the only option that accounts for our varying presence.
+- [78] **May**: I am voting for B.
+- [79] **Midori**: I am voting for B. I hope it keeps us on speaking terms.
+### Vote
+- Toshio -> B
+- Ryuji -> B
+- Benjamin -> B
+- May -> B
+- Midori -> B
+## Result
+- adopted: B

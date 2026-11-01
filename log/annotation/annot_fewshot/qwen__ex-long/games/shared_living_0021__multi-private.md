@@ -1,0 +1,73 @@
+# shared_living_0021__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: I will examine the accounts from two clubs that went inland and the quoting terms for whole-building lets. We need to verify if the flat fee truly covers the actual, uneven costs.
+- [6] **Shion**: I will examine the attendance sheets for the away camps and the prefecture rate sheet for publicly run beds. I need to verify if the sleeping arrangements actually support the training schedule.
+- [7] **Minato**: I’m worried about the people who organized last year. They were so tired. I’ll check the canteen closure and the attendance sheets to see what happened.
+- [8] **Misaki**: I will examine the group transport receipts and the accounts from two clubs that went inland. I need to trace where the money actually went before we commit to anything.
+- [9] **Takumi**: I’m checking the seniors’ notes on year-group mixing and the club hall timetable. We need to know if we can actually connect, not just sleep.
+- [10] **Asuka**: @Minato, fatigue is a symptom of poor planning, not a reason to avoid accountability. I need to verify the financial exposure before we discuss rest.
+- [11] **Shion**: @Asuka, financial exposure is irrelevant if the group is too exhausted to train. I am prioritizing the actual quality of sleep over your ledgers.
+- [12] **Minato**: @Shion, I’m sorry, I didn’t mean to sound like I’m blaming you. I just want to make sure nobody gets too tired again.
+- [13] **Misaki**: @Asuka, I agree. We must verify the actual costs. I will examine the group transport receipts and the accounts from two clubs that went inland.
+- [14] **Takumi**: @Shion, sleep is just the start. If we don’t mix, we’re just tired strangers. I’m checking the seniors’ notes to see how we actually connect.
+- [15] **Asuka**: @Misaki, your focus on transport is correct. I am verifying the inland accounts and whole-building terms to expose the hidden, uneven costs behind the flat fee.
+- [16] **Shion**: @Takumi, connection is a luxury for the well-rested. If the beds are uncomfortable, no amount of socializing will save the final day’s performance.
+- [17] **Minato**: @Takumi, I hope the seniors have good advice. I just want everyone to feel happy and not too tired.
+- [18] **Misaki**: @Shion, I understand the concern for rest. However, without verifying the actual expenses, we risk repeating last year's deficit. I will focus on the financial data.
+- [19] **Takumi**: @Shion, I hear you, but tired people don’t talk. I’m checking the hall timetable to see if we can force those evening connections.
+- [20] **Asuka**: I will examine the accounts from two clubs that went inland and the quoting terms for whole-building lets. We must verify the true financial exposure before committing.
+- [21] **Shion**: I will examine the attendance sheets for the away camps and the prefecture rate sheet for publicly run beds. I need to verify if the sleeping arrangements actually support the training schedule.
+- [22] **Minato**: I’ll check the canteen closure and the attendance sheets. I want to see if we can avoid cooking so the organizers can actually rest.
+- [23] **Misaki**: I will examine the group transport receipts and the accounts from two clubs that went inland. I need to trace where the money actually went before we commit to anything.
+- [24] **Takumi**: I’m checking the seniors’ notes on year-group mixing and the club hall timetable. We need to know if we can actually connect, not just sleep.
+## Round 2
+- [35] **Asuka**: @Misaki, the inland accounts confirm eight-to-a-room. The whole-building terms are worse: fixed headcount, non-refundable deposits. If someone cancels, the rest absorb the cost. This flat fee is a trap.
+- [36] **Shion**: @Asuka, fixed headcounts are a financial trap, but eight-to-a-room is a physical one. I found the public beds are 1,100 yen, but the attendance sheets show a fifth never showed up.
+- [37] **Minato**: @Shion, a fifth didn’t come? That’s sad. But the cooking took two hours a day! If we find a place with staff, the organizers can finally rest.
+- [38] **Misaki**: @Asuka, the fixed headcount is exactly the risk I feared. If one person cancels, the rest absorb the loss. We need flexible terms to protect the account.
+- [39] **Takumi**: @Shion, a fifth missing is a disaster. The seniors say mixing only happens when we sleep together. We need a place that forces those evening connections, not just cheap beds.
+- [40] **Asuka**: @Minato, staffed kitchens solve fatigue, not financial liability. The non-refundable deposit means one cancellation bankrupts the rest. We need flexible terms, not just rest.
+- [41] **Shion**: @Minato, staffed kitchens are irrelevant if the beds are broken. I found the public beds are 1,100 yen, but the attendance sheets show a fifth never showed up.
+- [42] **Minato**: @Asuka, I understand the worry about money. But if the organizers are too tired to train, the camp fails anyway. I really hope we can find a place where they can rest.
+- [43] **Misaki**: @Minato, I understand the need for rest. However, we cannot ignore the financial liability. I need to verify if the transport costs are truly the largest variable before we commit.
+- [44] **Takumi**: @Minato, rest is vital, but if we don’t mix, the camp is a waste. The seniors say shared sleeping is the only way to break the year-group walls.
+- [45] **Asuka**: @Misaki, the transport receipts are secondary. The non-refundable deposit is the primary liability. We must avoid fixed headcounts that punish us for late cancellations.
+- [46] **Shion**: @Asuka, financial liability is secondary to physical performance. If the beds are uncomfortable, the training fails regardless of the budget. I am prioritizing the actual quality of sleep over your ledgers.
+- [47] **Minato**: @Shion, I hear you. But if the organizers are exhausted from cooking, they can’t help anyone. I really hope we can find a place with staff so everyone can rest.
+- [48] **Misaki**: @Shion, I understand the priority on sleep. But the transport receipts show it is the largest variable cost. We must control that to prevent another deficit.
+- [49] **Takumi**: @Shion, I get it, but tired people don’t talk. The seniors say mixing only happens when we sleep together. We need a place that forces those evening connections, not just cheap beds.
+- [50] **Asuka**: @Shion, I reject that hierarchy. If the account collapses, there is no camp. I will vote for the option with the most flexible cancellation terms to protect the group.
+- [51] **Shion**: @Asuka, I reject that hierarchy. If the group is too exhausted to train, the camp is a failure regardless of the budget. I am prioritizing the actual quality of sleep over your ledgers.
+- [52] **Minato**: @Asuka, I understand the worry about money. But if the organizers are too tired to train, the camp fails anyway. I really hope we can find a place where they can rest.
+- [53] **Misaki**: @Asuka, I agree. We must avoid fixed headcounts. I will vote for the option with the most flexible cancellation terms to protect the account.
+- [54] **Takumi**: @Asuka, I hear you, but if we don’t mix, the camp is a waste. The seniors say shared sleeping is the only way to break the year-group walls.
+## Round 3
+- [60] **Asuka**: @Misaki, Option C’s owner handles meals, eliminating the cooking burden. However, the whole-building let likely carries the same non-refundable deposit risk. We must verify the cancellation terms before committing.
+- [61] **Shion**: @Asuka, Option A’s public dorms are the only beds I can verify. The rate sheet confirms 1,100 yen, and the equipment is on-site. I reject C’s unknown sleeping conditions.
+- [62] **Minato**: @Shion, I’m worried about the cooking. Option C has meals arranged, so the organizers can finally rest. I really hope that helps them.
+- [63] **Misaki**: @Asuka, I agree. Option C’s fixed headcount is dangerous. I need to verify the actual cancellation terms before we commit to that financial risk.
+- [64] **Takumi**: @Shion, 1,100 yen is cheap, but the seniors say mixing only happens when we sleep together. Option A’s shared dorms are the only way to break the year-group walls.
+- [65] **Asuka**: @Shion, 1,100 yen is irrelevant if the municipal system imposes rigid, non-refundable terms. I reject A’s administrative burden. We need flexible cancellation policies to protect the account.
+- [66] **Shion**: @Asuka, administrative burden is a paper problem. Broken sleep is a physical one. Option A’s verified beds are the only certainty I will accept. I reject C’s unknown conditions.
+- [67] **Minato**: @Asuka, I’m sorry, but the cooking was so hard last year. Option C has meals arranged, so the organizers can finally rest. I really hope that helps them.
+- [68] **Misaki**: @Minato, I understand the need for rest. However, Option C’s fixed headcount is a financial trap. I cannot support it without verified, flexible cancellation terms to protect the account.
+- [69] **Takumi**: @Minato, I hear you, but rest isn't enough. The seniors say mixing only happens when we sleep together. Option A’s shared dorms are the only way to break the year-group walls.
+- [70] **Asuka**: @Takumi, shared dorms do not solve the financial liability. Option C’s owner handles meals, but the fixed headcount remains a risk. I need to know the cancellation terms before voting.
+- [71] **Shion**: @Takumi, connection is a luxury for the well-rested. If the beds are uncomfortable, no amount of socializing will save the final day’s performance. I am prioritizing the actual quality of sleep over your ledgers.
+- [72] **Minato**: @Takumi, I understand the worry about mixing. But if the organizers are too tired from cooking, they can’t help anyone. Option C has meals arranged, so they can finally rest.
+- [73] **Misaki**: @Takumi, I understand the value of connection. However, Option A’s municipal system likely carries rigid, non-refundable terms. I cannot support it without verified, flexible cancellation policies to protect the account.
+- [74] **Takumi**: @Misaki, I hear you, but if we don't mix, the camp is a waste. The seniors say shared sleeping is the only way to break the year-group walls. I'm voting A!
+- [75] **Asuka**: @Misaki, I cannot wait for verification. Option C’s fixed headcount is a liability. I am voting C to eliminate the cooking burden, accepting the financial risk.
+- [76] **Shion**: @Asuka, I reject C’s unknown sleeping conditions. Option A’s verified beds are the only certainty I will accept. I am voting A to protect the training schedule.
+- [77] **Minato**: @Asuka, I understand the worry about money. But if the organizers are too tired from cooking, the camp fails anyway. Option C has meals arranged, so they can finally rest. I am voting C.
+- [78] **Misaki**: @Asuka, I cannot support C’s fixed headcount. The non-refundable deposit is an unacceptable risk. I am voting A to avoid the financial liability.
+- [79] **Takumi**: @Shion, I stand by my vote for A. The seniors are right: shared sleeping is the only way to break the year-group walls. I am voting A.
+### Vote
+- Asuka -> C
+- Shion -> A
+- Minato -> C
+- Misaki -> A
+- Takumi -> A
+## Result
+- adopted: A

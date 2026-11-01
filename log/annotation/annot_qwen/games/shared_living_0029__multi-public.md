@@ -1,0 +1,73 @@
+# shared_living_0029__multi-public (shared_living)
+
+## Round 1
+- [5] **Minako**: We need to stop guessing. I want to know what an even split actually costs. Who else wants to look into the paperwork?
+- [6] **Benjamin**: Minako, the paperwork is a start, but I’m curious about the social friction. I’ll check what other households said about their breakdowns.
+- [7] **Asuka**: I need to know why the car is never ready when I need it. I’ll check the state of the car at handover.
+- [8] **Shion**: I’ll check last year’s fuel receipts and the hours of use recorded in the diary. We need real data, not assumptions.
+- [9] **Daisuke**: I... I think I should look into the hours of use recorded in the diary. And maybe the mechanic's remarks? I just want to understand the time cost.
+- [10] **Minako**: Shion, your data is vital. I’ll check the tax and insurance papers to see the fixed baseline costs.
+- [11] **Benjamin**: I’ll also look into the spell of checking figures. We must avoid repeating that painful mistake.
+- [12] **Asuka**: I’ll also check the trips that repeat weekly. Those are the ones that keep failing me.
+- [13] **Shion**: I’ll also check the month’s trial of recording every run. We need to know the actual administrative burden before we commit to anything.
+- [14] **Daisuke**: I’ll also look into the weeks of heavy use. I want to see how those bursts affect our schedules.
+- [15] **Minako**: I’m confident in our choices. Let’s see what the data reveals before we argue about solutions.
+- [16] **Benjamin**: Agreed. Let’s see what the data reveals before we argue about solutions.
+- [17] **Asuka**: Fine. Let’s see if the data actually explains why my mornings are a mess.
+- [18] **Shion**: Agreed. Data prevents bias. Let’s see what the numbers actually say.
+- [19] **Daisuke**: I... I hope the numbers are clear. I just want to understand the time cost.
+- [20] **Minako**: Let’s see what the data reveals before we argue about solutions.
+- [21] **Benjamin**: I’ll check the spell of checking figures. We must avoid repeating that painful mistake.
+- [22] **Asuka**: I’ll also check the trips that repeat weekly. Those are the ones that keep failing me.
+- [23] **Shion**: I’ve already stated my choices. The fuel receipts and the diary hours are sufficient. Let’s move on.
+- [24] **Daisuke**: I... I think I’ve said enough. I’ll just wait for the results.
+## Round 2
+- [35] **Minako**: The fixed costs are 280,000 yen. But the fuel receipts show a lopsided story: two of us bought over half the litres, and one barely shows up.
+- [36] **Benjamin**: I found that other groups soured because they had to ask for favours constantly. We must avoid that dynamic.
+- [37] **Asuka**: The data confirms my suspicion. The car is handed over with the fuel light on and rubbish inside. My weekly trips keep collapsing because of this neglect.
+- [38] **Shion**: The receipts confirm the imbalance. Two of us bought over half the fuel, while one barely shows up. We need to address this disparity before deciding on a payment structure.
+- [39] **Daisuke**: I found the diary shows Saturdays are used three times more than Tuesdays. And the mechanic said short, cold runs damage the car faster.
+- [40] **Minako**: So an even split ignores that two of us drive far more. We need a system that accounts for actual usage, not just equal shares.
+- [41] **Benjamin**: The other households failed because asking for favours became the norm. We need a system that removes that constant negotiation.
+- [42] **Asuka**: @Minako, a system that ignores the car’s physical state is useless. If it’s handed over with the fuel light on, no payment structure fixes my morning.
+- [43] **Shion**: @Minako, you’re right. Equal shares are a fiction. The data proves usage is wildly uneven. We need a system that reflects actual distance, not just headcount.
+- [44] **Daisuke**: I... I’m sorry. I just wanted to understand the time cost. The diary shows the unevenness, but I don’t know how to fix it.
+- [45] **Minako**: @Asuka, the physical state is a separate issue from the financial split. We need to solve the money first, then the maintenance.
+- [46] **Benjamin**: @Asuka, the state is a symptom of the friction. If we remove the favour-asking, the neglect might stop.
+- [47] **Asuka**: @Benjamin, removing friction won’t magically clean the car. I need a system that guarantees the vehicle is ready before I even start the engine.
+- [48] **Shion**: @Asuka, the state is a symptom of the lack of accountability. If we track every run, the neglect becomes visible and harder to ignore.
+- [49] **Daisuke**: I... I agree with Shion. If we track the runs, the neglect becomes visible. It might help us understand the time cost better.
+- [50] **Minako**: We have the facts. The 280,000 yen baseline is fixed, but fuel is uneven. We need a system that balances both.
+- [51] **Benjamin**: The other households failed because asking for favours became the norm. We need a system that removes that constant negotiation.
+- [52] **Asuka**: @Minako, I reject that separation. A car that isn’t ready is a car I can’t use. The state is the primary failure, not the money.
+- [53] **Shion**: @Asuka, accountability is the only fix. If we don’t track the runs, we’re just guessing again. I refuse to pay for your neglect.
+- [54] **Daisuke**: I... I agree with Shion. Tracking the runs makes the neglect visible. It might help us understand the time cost better.
+## Round 3
+- [60] **Minako**: Option B aligns with the data. It tracks distance for fair cost-splitting and removes the favour-asking friction Benjamin identified.
+- [61] **Benjamin**: I agree with Minako. Option B removes the favour-asking that destroyed other groups. It’s logical and fair.
+- [62] **Asuka**: @Minako, a calendar doesn’t guarantee the car is clean or fueled. I need a keeper who ensures it’s ready before I drive.
+- [63] **Shion**: @Asuka, a calendar doesn't clean the car, but it forces accountability. If you want a keeper, you're asking for a servant, not a system.
+- [64] **Daisuke**: I... I think Option B is best. It records the distance, so we know the real cost. It also makes the time spent arranging things clear.
+- [65] **Minako**: @Asuka, the calendar forces you to book, which creates a clear handover point. You can check the state then. It’s a process, not a person.
+- [66] **Benjamin**: @Asuka, a keeper creates the exact favour-asking dynamic that destroyed other groups. Option B removes that dependency entirely.
+- [67] **Asuka**: @Benjamin, a keeper is a guarantee, not a favour. Your "logic" ignores that I need the car ready, not just booked.
+- [68] **Shion**: @Asuka, your demand for a personal valet is inefficient. Option B’s distance tracking ensures I pay only for what I actually use, not for your convenience.
+- [69] **Daisuke**: I... I agree with Benjamin. A keeper means asking for favours, which is what I want to avoid. Option B feels safer for the time cost.
+- [70] **Minako**: @Asuka, the handover point is the solution. You verify the state before you drive. That is the accountability we need.
+- [71] **Benjamin**: @Asuka, a keeper is a single point of failure. If they fail, the car fails. A system is resilient.
+- [72] **Asuka**: @Minako, verifying the state is my job, not a system feature. I refuse to be the one checking for rubbish. Option C is the only one that guarantees readiness.
+- [73] **Shion**: @Asuka, your refusal to verify the handover is the root of the problem. Option B forces that check. I vote B.
+- [74] **Daisuke**: I... I agree with Shion. Option B makes the costs clear and avoids the favour-asking. I vote B.
+- [75] **Minako**: I vote B. The data supports distance-based fairness, and the handover check solves Asuka's concern without creating a single point of failure.
+- [76] **Benjamin**: I vote B. It eliminates the favour-asking that poisons relationships. A system is more reliable than a person.
+- [77] **Asuka**: I vote C. A calendar is just a list of promises. I need a person responsible for the car's state, not a spreadsheet.
+- [78] **Shion**: I vote B. The data proves equal shares are a lie. Distance-based costs are the only logical way to end this guessing game.
+- [79] **Daisuke**: I... I vote B. It feels the most fair and avoids the stress of asking for favours.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Asuka -> C
+- Shion -> B
+- Daisuke -> B
+## Result
+- adopted: B

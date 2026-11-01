@@ -1,0 +1,73 @@
+# shared_living_0020__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Minako**: We need a sustainable system for the year. Let's look into the actual time and costs involved before deciding.
+- [6] **Benjamin**: I agree. A logically fair distribution requires data on who is actually using the space and how much effort is required.
+- [7] **Sakura**: I just want it to be clean every time! It's like a mystery game where I never know if the kitchen is scary or not!
+- [8] **Shizue**: It would be lovely if we could all feel at peace. I wonder if we can clarify the costs of our supplies too.
+- [9] **Servas**: Patience, my friends. Let us seek a path that preserves our friendship. Harmony is far more valuable than a spotless floor.
+- [10] **Minako**: @Sakura, that's why we need to define what "done" means. @Shizue, checking the receipts for supplies is a good start.
+- [11] **Benjamin**: Precisely. If we don't quantify the labor and the usage, we are merely guessing at fairness.
+- [12] **Sakura**: Ooh, defining "done" sounds like a puzzle! I want to know why it changes so much!
+- [13] **Shizue**: Thank you, Minako. I just want to make sure no one is feeling burdened by the costs in secret.
+- [14] **Servas**: A shared understanding is the seed of peace. Let us look at the patterns of our lives together.
+- [15] **Minako**: I'll focus on the time commitment. We should also consider if an outside firm is a viable alternative to save our time.
+- [16] **Benjamin**: A professional firm might be efficient, though perhaps an expensive luxury. I'm more interested in the internal usage patterns.
+- [17] **Sakura**: I want to see the calendar! Maybe there's a secret pattern to the mess!
+- [18] **Shizue**: I think looking at the management office rates and the supply receipts would be very helpful for us.
+- [19] **Servas**: I shall look into the history of this house and how we communicate. The heart of the home is in its records.
+- [20] **Minako**: Let's finalize our choices then. I'll check the timing and the firm's terms.
+- [21] **Benjamin**: I shall investigate the kitchen usage and the house chat records to see where the labor actually sits.
+- [22] **Sakura**: I'm going for the calendar and the "what counts as done" list! I'll solve the mystery!
+- [23] **Shizue**: I will look into the bathroom spray receipts and the management office rate sheet.
+- [24] **Servas**: I will examine the notes from previous tenants and the grout from July. Let us learn from those who came before.
+## Round 2
+- [35] **Minako**: The actual time is higher than I expected. A full pass takes over an hour and a half. It's a significant burden.
+- [36] **Benjamin**: Interestingly, the usage is heavily skewed. A few of us are doing the bulk of the cooking, yet the cleaning is split equally.
+- [37] **Sakura**: I found it! The "done" list is a mess! Everyone has a different idea of what clean is! No wonder it's a surprise every day!
+- [38] **Shizue**: I noticed we are buying the same supplies multiple times. Also, the costs are quite irregular and not clearly shared.
+- [39] **Servas**: The previous tenants warned us that rigid divisions can lead to silence between friends. We must be careful not to build walls.
+- [40] **Minako**: @Benjamin, if usage is skewed, we could adjust the rotation. But the time cost remains high regardless of who does it.
+- [41] **Benjamin**: Exactly. It is logically inconsistent to expect someone who barely enters the kitchen to spend the same time cleaning it as a frequent user.
+- [42] **Sakura**: But if we just rotate, the "done" problem stays! One day it's super clean, then the next day it's... yuck! We need a rule!
+- [43] **Shizue**: I worry that if we just rotate, the person buying the sponges will still be the one who happens to be at the store.
+- [44] **Servas**: Rules are useful, but when they become weapons, they destroy the spirit. Let us find a way to support each other.
+- [45] **Minako**: An outside firm would remove the labor, but the terms say we still have to tidy up first. It doesn't remove all the work.
+- [46] **Benjamin**: If we hire a firm, the cost is shared, but the usage imbalance remains. However, it would eliminate the "standard of clean" disputes.
+- [47] **Sakura**: A professional cleaner would be like a magic spell! Everything would be the same every time! I love that idea!
+- [48] **Shizue**: If we go with a firm, we must be very clear about the monthly billing so no one is left out of pocket.
+- [49] **Servas**: I noticed the bathroom grout returns to filth quickly. No matter who cleans, the house itself fights us. We must be kind to ourselves.
+- [50] **Minako**: We have three paths: a usage-based rotation, a strict standard-based rotation, or a professional firm. We must weigh time against money.
+- [51] **Benjamin**: A usage-based system is the most fair, but a professional firm is the most rational way to avoid interpersonal conflict.
+- [52] **Sakura**: I don't want a rotation if it means the kitchen is grim again! I vote for the magic professional cleaners!
+- [53] **Shizue**: I prefer a system where the costs are transparent. A professional firm with a fixed monthly bill would be very clear.
+- [54] **Servas**: I fear that a rotation based on usage will lead to resentment and counting. Let us choose the path that keeps us talking.
+## Round 3
+- [60] **Minako**: Option B is the most efficient. It removes the bulk of the hours from our schedule, which is my primary concern.
+- [61] **Benjamin**: While Option A is traditional, Option B is the only one that solves the "standard of clean" issue and the usage imbalance simultaneously.
+- [62] **Sakura**: Option B! Option B! I want the professional magic! No more guessing if the bathroom is a monster today!
+- [63] **Shizue**: I agree with Option B. A professional invoice is much easier to split fairly than keeping track of who bought the bleach.
+- [64] **Servas**: I have seen many friendships wither over a dirty dish. If we can afford it, let us pay for the peace of mind.
+- [65] **Minako**: The only downside to B is the cost, but the time we regain is worth more than the money spent.
+- [66] **Benjamin**: Logically, the cost is a flat tax on our peace. It is a far more stable investment than the emotional labor of a rota.
+- [67] **Sakura**: @Benjamin, you're using big words, but I think we all mean the same thing! Let's just get the pros!
+- [68] **Shizue**: As long as we have a clear way to pay the bill every month, I am very happy with this choice.
+- [69] **Servas**: When we remove the source of friction, we leave room for kindness. I support the professional service.
+- [70] **Minako**: I'm confident in this. It's the only way to ensure the time burden is actually removed rather than just shifted.
+- [71] **Benjamin**: I concur. It is the most rational solution to a multi-variable problem of time, usage, and quality.
+- [72] **Sakura**: Yay! No more scary kitchens! I'm so excited to see it always look the same!
+- [73] **Shizue**: It will be a relief for everyone. We can spend our time enjoying each other's company instead of arguing over sponges.
+- [74] **Servas**: Indeed. Let us treat this as an investment in our shared happiness. A home is a sanctuary, not a battlefield.
+- [75] **Minako**: It seems we are in total agreement. Let's move to the vote.
+- [76] **Benjamin**: I see no logical reason to deviate. The consensus is clear.
+- [77] **Sakura**: I'm ready! Let's do it!
+- [78] **Shizue**: I am happy we could all agree so gently.
+- [79] **Servas**: May this decision bring us closer together. I am ready to vote.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Sakura -> B
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

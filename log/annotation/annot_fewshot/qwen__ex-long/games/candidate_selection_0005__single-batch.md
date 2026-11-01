@@ -1,0 +1,73 @@
+# candidate_selection_0005__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I worry about external factors. Let’s check winter road closures and supplier delivery windows.
+- [6] **Benjamin**: I want to see what actually worked. I’ll review the two programmes begun six years ago.
+- [7] **Shion**: Staff capacity is key. I’ll check the volunteer register and evening room bookings.
+- [8] **Minako**: Funding shapes matter. I’ll look at county grant terms and running lines last year.
+- [9] **Daisuke**: Access is critical. I’ll examine bus links in the outer wards and attendance sheets.
+- [10] **Yumi**: @Benjamin, past records are honest. I hope the delivery windows aren’t a trap.
+- [11] **Benjamin**: @Yumi, agreed. If the past failed, repeating it is foolish. I’ll stick to my two.
+- [12] **Shion**: @Minako, budget lines are dry. I need to know if we have the hands to run this.
+- [13] **Minako**: @Shion, valid. But without stable funding, the hands are irrelevant. I’ll confirm my choices.
+- [14] **Daisuke**: @Yumi, if roads close, the service fails. I’m worried about the outer wards.
+- [15] **Yumi**: I’ll stick with my two choices. I need to know if the weather will break us.
+- [16] **Benjamin**: I’ll stick with my two choices. The data will show if we’re repeating mistakes.
+- [17] **Shion**: I’ll stick with my two choices. I need to verify the staffing reality before we commit.
+- [18] **Minako**: I’ll stick with my two choices. The funding structure is the only thing that matters.
+- [19] **Daisuke**: I’ll stick with my two choices. I need to see who can actually reach us.
+- [20] **Yumi**: Let’s see what the data says. I’m ready to look into the risks.
+- [21] **Benjamin**: Agreed. Let’s not guess. I’ll review the historical performance before we vote.
+- [22] **Shion**: Agreed. I’ll verify the roster. We can’t promise what we can’t staff.
+- [23] **Minako**: Agreed. I’ll trace the money. It’s the only reliable metric we have.
+- [24] **Daisuke**: Agreed. I’ll check the access. If they can’t get here, it’s useless.
+## Round 2
+- [35] **Yumi**: The delivery windows slip for big clients. That’s a risk for any new equipment.
+- [36] **Benjamin**: The old digitisation project left half the images unindexed. We shouldn’t repeat that failure.
+- [37] **Shion**: No one is trained to supervise outside facilitators. That’s a gap we can’t ignore.
+- [38] **Minako**: The grant only covers twelve months. After that, the operating budget carries the cost.
+- [39] **Daisuke**: Two outer wards lost their bus link. Residents face an hour’s round trip now.
+- [40] **Yumi**: @Minako, if the grant ends, we’re stuck. I’m worried about the long-term cost.
+- [41] **Benjamin**: @Shion, if we can’t supervise, the program fails. We need internal capacity.
+- [42] **Shion**: @Benjamin, exactly. The volunteer register shows tradespeople, but no supervisors. That’s a problem.
+- [43] **Minako**: @Yumi, the running lines overran by a third. The equipment was under budget, though.
+- [44] **Daisuke**: @Yumi, the road closures didn’t stop the community halls. They kept their own timetables.
+- [45] **Yumi**: @Daisuke, that’s good to know. The halls are resilient. But our suppliers are not.
+- [46] **Benjamin**: @Minako, the equipment was under budget. That’s a positive sign for capital items.
+- [47] **Shion**: @Benjamin, but the supervision gap remains. We need to check if we can hire or train.
+- [48] **Minako**: @Shion, hiring is expensive. The endowment covers capital, not ongoing staff.
+- [49] **Daisuke**: @Shion, the attendance sheets show forty visitors a session in the outer wards. That’s high demand.
+- [50] **Yumi**: I’m concerned about the supplier delays. We need a plan that doesn’t rely on them.
+- [51] **Benjamin**: I agree. The past shows we can’t trust external partners to finish the job.
+- [52] **Shion**: I agree. We need a solution that uses our existing staff, not new hires.
+- [53] **Minako**: I agree. The funding is tight. We need a low-cost, high-impact solution.
+- [54] **Daisuke**: I agree. The demand is there. We just need to reach them.
+## Round 3
+- [60] **Yumi**: Candidate D, the Mobile Branch, avoids the supplier delays. It uses our existing vehicle.
+- [61] **Benjamin**: @Yumi, but the running lines overran. Is the vehicle reliable enough?
+- [62] **Shion**: @Benjamin, the vehicle is already there. The risk is staffing, not equipment.
+- [63] **Minako**: @Shion, the grant covers session fees. The mobile service fits that model.
+- [64] **Daisuke**: @Minako, the mobile service reaches the outer wards. That solves the bus link problem.
+- [65] **Yumi**: @Daisuke, yes! It brings the library to them. No more long trips.
+- [66] **Benjamin**: @Yumi, but what about the supervision? Who runs the help desk?
+- [67] **Shion**: @Benjamin, we can use the retired tradespeople from the volunteer register.
+- [68] **Minako**: @Shion, they are volunteers, not staff. The grant doesn’t cover their time.
+- [69] **Daisuke**: @Minako, but the attendance is high. It’s worth the risk.
+- [70] **Yumi**: @Minako, the grant covers the contracted sessions. The mobile service is a contracted session.
+- [71] **Benjamin**: @Yumi, that’s a stretch. The grant is for specific fees, not general operations.
+- [72] **Shion**: @Benjamin, but the endowment covers capital. The vehicle is capital.
+- [73] **Minako**: @Shion, the endowment is for one-off items. The running costs are ongoing.
+- [74] **Daisuke**: @Minako, but the running lines overran. We need to be careful.
+- [75] **Yumi**: I think D is the best choice. It reaches the people who need us most.
+- [76] **Benjamin**: I’m hesitant. The funding is risky. But the past shows we need to try.
+- [77] **Shion**: I agree with Yumi. The staffing gap is manageable. The impact is high.
+- [78] **Minako**: I agree. The grant covers the initial cost. We can manage the rest.
+- [79] **Daisuke**: I agree. The mobile service is the only option that reaches the outer wards.
+### Vote
+- Yumi -> D
+- Benjamin -> D
+- Shion -> D
+- Minako -> D
+- Daisuke -> D
+## Result
+- adopted: D

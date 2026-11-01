@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! Since we're five people now, we really need a fair way to split the bills. I want us to feel comfortable using the heat and lights without worrying too much about the cost!
+- [6] **Ryuji**: I agree. The current system was for three people, so it's outdated. We need a method that ensures long-term predictability and doesn't lead to sudden, heavy costs for anyone during the winter.
+- [7] **Rin**: I agree! But we should also make sure the new way isn't too hard to do. If it takes forever to calculate every month, someone is going to get really tired of it!
+- [8] **Shunichi**: Fairness is a vague term, isn't it? If we want to avoid "feeling" worried, we need actual data. Let's stop guessing and see if some of us are actually subsidizing others.
+- [9] **Misaki**: I agree with Shunichi. We need data to avoid assumptions. However, we should also consider how the payment process affects our atmosphere. Let's look at the history and the actual usage patterns.
+- [10] **Mio**: I totally agree with Shunichi and Misaki! Data is key. I want to know how we've been doing things so far and if there's a way to make it feel fair for everyone.
+- [11] **Ryuji**: @Mio, fairness is important, but we must also consider the upfront costs of any changes. I want to see the actual spending patterns over a full year to avoid any surprises in the winter.
+- [12] **Rin**: @Ryuji, that makes sense! But I also want to see if there's a way to make the math easier. Maybe there's a template or a system other houses use so we don't have to struggle every month!
+- [13] **Shunichi**: @Rin, a template is just a tool; it doesn't solve the underlying problem of unfairness. If the usage varies wildly between rooms, a simple template is just a faster way to be wrong.
+- [14] **Misaki**: @Shunichi, you're right that a tool isn't a solution. But we should also look at the payment log. I want to see if the act of settling up has caused any friction between us.
+- [15] **Mio**: I think we should also check how the rooms differ! Some might be colder than others, right? I don't want anyone freezing just to save money. Let's look into the sunlight and heating needs!
+- [16] **Ryuji**: @Mio, that's a valid point, but we shouldn't overlook the financial side. I want to know if there are any installation costs if we change how we track usage. We need a balance between comfort and cost.
+- [17] **Rin**: @Ryuji, that's true! But if we spend a lot of time arguing over pennies, we'll be too tired to enjoy the house. I want to see how other people handle this without it becoming a huge chore!
+- [18] **Shunichi**: @Rin, your obsession with convenience is charming, but efficiency without accuracy is useless. If we want to stop the rumors of people "carrying" others, we need to see the actual numbers per room.
+- [19] **Misaki**: @Shunichi, accuracy is important, but not at the cost of our relationships. I think we should look at the payment log and the last twelve utility statements to see the reality of our situation.
+- [20] **Mio**: I'm glad we're all on the same page about needing data! I'll check the sunlight and heating need by room and the plug-in monitor readings room by room to see how we actually use energy!
+- [21] **Ryuji**: I will look into the last twelve utility statements to understand the annual spending patterns and the electrician's quote for the rooms to assess any potential upfront costs for a new system.
+- [22] **Rin**: I'll check the trial run of a reconciliation template and the monthly settle observed at another house! I want to find a way that's super fast and easy for everyone!
+- [23] **Shunichi**: I'll examine the plug-in monitor readings room by room and the payment log for the last twelve months. Let's see if the "burden" some feel is a mathematical reality or just a feeling.
+- [24] **Misaki**: I will look into the payment log for the last twelve months and the settling up when the last rooms filled. I want to see how the transition and payment habits have affected us.
+## Round 2
+- [35] **Mio**: Wow, I found out some really important things! Some rooms are way colder than others because of the sunlight, and some people use way more power. We can't just split everything equally, or some of us will freeze!
+- [36] **Ryuji**: @Mio, while room differences matter, the financial volatility is the real issue. The bills fluctuate wildly, with February being over three times the cost of August. We need a system that stabilizes these payments throughout the year.
+- [37] **Rin**: @Ryuji, that sounds scary! But listen, I looked into those templates and other houses, and it's a nightmare! One house spends forty minutes just reading meters. We can't have a system that takes that much work every month!
+- [38] **Shunichi**: @Rin, forty minutes is a small price to pay for accuracy. My data shows some rooms use four times more power than others. Ignoring that isn't "easy," it's just unfair to those paying for someone else's heater.
+- [39] **Misaki**: @Shunichi, accuracy is important, but the payment log shows that disputes over amounts are already causing delays and tension. If we make the system too complex, we risk further damaging our relationships over a few yen.
+- [40] **Mio**: @Shunichi, I get that it's unfair, but if we're too strict, people will just suffer in silence! I don't want anyone wearing a coat inside just because they're scared of the bill. We need a way to be fair without being scary!
+- [41] **Ryuji**: @Mio, comfort is necessary, but we can't ignore the cost. Installing sub-meters would cost 34,000 yen per room. That's a huge upfront expense that doesn't solve the problem of the massive seasonal spikes in our bills.
+- [42] **Rin**: @Ryuji, that's way too expensive! And @Shunichi, if it takes forty minutes just to read meters, imagine how long it takes to argue about them! We need a system that's simple, or we'll spend all our free time doing math!
+- [43] **Shunichi**: @Rin, your fear of a little arithmetic is amusing, but the reality is worse. We have a four-fold difference in usage. A "simple" system is just a polite way of saying some of us are paying for others' luxury.
+- [44] **Misaki**: @Shunichi, it's not about the arithmetic, but the friction it creates. The logs show that even small discrepancies lead to weeks of tension and late payments. We need a system that minimizes these conflict points.
+- [45] **Mio**: @Misaki, exactly! If we're always arguing, the house won't feel like a home. But @Shunichi, we can't ignore the cold rooms. Maybe we can find a middle ground where we account for the room differences without making it a chore?
+- [46] **Ryuji**: @Mio, a middle ground is possible, but it must be financially sustainable. We cannot afford high installation fees, nor can we handle bills that triple in winter. Any solution must prioritize stability and low overhead.
+- [47] **Rin**: @Ryuji, I agree! Stability is great, but please don't make it complicated. If we have to key in every single invoice one by one like that template I saw, it'll be a total disaster! We need something we can finish in five minutes!
+- [48] **Shunichi**: @Rin, five minutes of work is a fantasy if you want actual fairness. @Ryuji, stability is fine, but not if it's achieved by averaging out a four-fold difference in usage. That's just organized unfairness.
+- [49] **Misaki**: @Shunichi, "organized unfairness" is better than a house where people avoid each other for a week after a reminder. We need a system that is predictable enough that no one feels the need to question the amount every month.
+- [50] **Mio**: @Misaki, I totally agree! Let's find a way that's predictable and kind. If we can account for the cold rooms without making it a stressful math project, everyone can finally relax and feel warm!
+- [51] **Ryuji**: @Mio, kindness is good, but predictability is what prevents stress. We must avoid expensive hardware and volatile monthly costs. I believe a system that averages the annual cost into fixed monthly payments is the most rational path forward.
+- [52] **Rin**: @Ryuji, that sounds way better! If the price is the same every month, we don't have to do a big scary calculation every time. As long as it's a "set it and forget it" kind of thing, I'm all for it!
+- [53] **Shunichi**: @Ryuji, averaging costs is just a mask for the disparity. If one person uses four times the energy, they should pay for it. I'll vote for whatever option actually addresses the usage gap, not just the calendar.
+- [54] **Misaki**: @Shunichi, focusing only on the gap ignores the social cost. If we prioritize absolute precision over peace, we'll just keep fighting. I'll support a system that is simple and predictable to stop the cycle of accusations and avoidance.
+## Round 3
+- [60] **Mio**: Option B sounds fair for the cold rooms, but it's so expensive! Option C is simple, but I'm worried people will still be scared to turn on the heat. I think Option A is the best balance!
+- [61] **Ryuji**: @Mio, I agree. Option B is financially reckless given the installation costs, and Option C maintains the volatile spikes that make budgeting impossible. Option A provides the predictability I seek while avoiding high upfront expenses.
+- [62] **Rin**: @Ryuji, I'm with you! Option B sounds like a total nightmare to manage every month, and Option C still means we have to do math every single time the bill comes. Option A is the fastest!
+- [63] **Shunichi**: @Rin, your desire for speed is predictable. However, Option A and C are both just different ways of ignoring the fact that some of us are subsidizing others. Only Option B addresses the actual usage disparity.
+- [64] **Misaki**: @Shunichi, Option B would likely increase the friction we're already experiencing. Constant monitoring and precise billing often lead to more accusations, not fewer. I prefer Option A because it reduces the frequency of disputes and provides stability.
+- [65] **Mio**: @Shunichi, I know you want it to be perfect, but if we're always watching meters, we'll never stop worrying! Option A lets us just live our lives and stay warm without the stress!
+- [66] **Ryuji**: @Shunichi, your pursuit of absolute precision ignores the practical reality of our budget. Spending over 100,000 yen on meters is an irrational use of funds when we can achieve stability through a seasonal average.
+- [67] **Rin**: @Shunichi, you're being too stubborn! Even if it's "perfect," it's a huge chore. I don't want to spend my weekends doing math or arguing over meters. Option A is way more fun because it's easy!
+- [68] **Shunichi**: @Rin, "fun" is a strange metric for financial obligations. @Ryuji, the cost of meters is a one-time investment; the cost of subsidizing a roommate's desktop and heater is a permanent tax on the efficient. I stand by Option B.
+- [69] **Misaki**: @Shunichi, a "permanent tax" is a small price to pay for a home where we actually speak to each other. Option B turns us into accountants, not housemates. I'm voting for Option A.
+- [70] **Mio**: @Misaki, exactly! I want us to be friends, not accountants. @Shunichi, please understand that feeling safe and warm is more important than a perfect number. I'm voting for Option A too!
+- [71] **Ryuji**: @Shunichi, your logic is consistent, but it is not practical. The financial volatility of our bills is a systemic risk that Option B does not solve. Option A is the only rational choice for long-term stability. I vote for Option A.
+- [72] **Rin**: @Shunichi, you're just making it a job! I'm not doing that. Option A is the only one that doesn't sound like a boring homework assignment every month. I vote for Option A!
+- [73] **Shunichi**: @Rin, calling fairness "homework" is a fascinating way to avoid responsibility. Since the rest of you prefer a comfortable delusion over mathematical truth, I'll be the lone voice of reason. I vote for Option B.
+- [74] **Misaki**: @Shunichi, truth without empathy is just a source of conflict. I've seen how these disputes poison the air in this house. For the sake of our peace and sanity, I vote for Option A.
+- [75] **Mio**: It looks like we've all made our choices! I really hope this means we can all stop worrying and just enjoy being cozy together. I'm so happy we decided this! I vote for Option A!
+- [76] **Ryuji**: The decision is clear. Option A is the most rational choice, as it eliminates the risk of sudden financial spikes and avoids unnecessary installation costs. I vote for Option A.
+- [77] **Rin**: Yay! We did it! No more scary math every month and no more boring homework. Let's just keep it simple and have more time for fun! I vote for Option A!
+- [78] **Shunichi**: Since you all prefer the convenience of a shared lie over the effort of the truth, I'll stop wasting my breath. Enjoy your "peace" while you're paying for each other. I vote for Option B.
+- [79] **Misaki**: I hope that by choosing predictability over precision, we can finally stop treating each other with suspicion. Let's focus on being housemates again. I vote for Option A.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> B
+- Misaki -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0003__single-batch (shared_living)
+
+## Round 1
+- [5] **Rin**: I need to know how much time we lose just moving desks and plugging in.
+- [6] **Toshio**: I want to see the actual monthly cost of this floor before we agree to anything.
+- [7] **Mizuki**: I am worried about who gets the window seats and who gets the wall.
+- [8] **Shion**: I need to know if the noise level will be bearable for eight hours.
+- [9] **Yumi**: I want to understand how sitting next to someone changes our daily conversations.
+- [10] **Rin**: @Toshio, does the cost include the time we spend packing and unpacking?
+- [11] **Toshio**: @Rin, the billing is for space, not time, but the quote for moving is separate.
+- [12] **Mizuki**: @Shion, the window side is usually quieter, but I am not sure about the printer row.
+- [13] **Shion**: @Mizuki, I have noticed the hum from the corridor side is quite loud.
+- [14] **Yumi**: @Rin, if we move often, we might not settle in at all.
+- [15] **Rin**: I will check the morning routine on the pilot floor to see the time cost.
+- [16] **Toshio**: I will look at the basis of the department's floor billing to understand the expense.
+- [17] **Mizuki**: I will check the drawn plan against the staff survey to see the complaints.
+- [18] **Shion**: I will get the sound meter readings across the room to verify the noise.
+- [19] **Yumi**: I will look at what this year's two joiners reported about overhearing.
+- [20] **Rin**: Also, I will check the arrival times in the badge records to see the spread.
+- [21] **Toshio**: And I will check the facilities quote for re-running power and network.
+- [22] **Mizuki**: I will also check the unplanned seat shuffles in the past year.
+- [23] **Shion**: I will also check the physio's note from the workstation check.
+- [24] **Yumi**: I will also check the two project strands within earshot last spring.
+## Round 2
+- [35] **Rin**: The pilot floor took up to nine minutes to set up. That is huge.
+- [36] **Toshio**: The floor billing is for area, not heads. Empty desks still cost us money.
+- [37] **Mizuki**: The survey says daylight is the biggest complaint. The plan gives only four windows.
+- [38] **Shion**: The printer row is nine decibels louder. My chair needs days to adjust.
+- [39] **Yumi**: The new joiners learned the work by overhearing. Proximity is key.
+- [40] **Rin**: @Toshio, if we move desks, we pay the facilities quote again?
+- [41] **Toshio**: @Rin, yes, 6,200 yen per desk for every change. It adds up fast.
+- [42] **Mizuki**: @Shion, if the window side is quieter, we should prioritize those seats.
+- [43] **Shion**: @Mizuki, I agree, but the chair adjustment is a personal struggle.
+- [44] **Yumi**: @Rin, nine minutes is too long. We need a system that minimizes setup.
+- [45] **Rin**: I hate the idea of spending my morning just plugging in screens.
+- [46] **Toshio**: The cost of changing the layout is high. We need a stable plan.
+- [47] **Mizuki**: If we rotate, the window seats change hands. That might be fairer.
+- [48] **Shion**: Rotating means I have to re-adjust my chair every time. That is painful.
+- [49] **Yumi**: If we sit with the same people, we talk more. That is good for the team.
+- [50] **Rin**: I am leaning towards a system where we don't move often.
+- [51] **Toshio**: I agree. The financial penalty for shuffling is too high.
+- [52] **Mizuki**: But we must ensure the window seats are distributed fairly.
+- [53] **Shion**: I need a spot that is quiet and where my chair stays set.
+- [54] **Yumi**: I want to be near people I can learn from.
+## Round 3
+- [60] **Rin**: Option A is too chaotic. Option B is too much moving. Option C is stable.
+- [61] **Toshio**: Option C is the only one that avoids repeated facility charges.
+- [62] **Mizuki**: Option C allows us to assign the window seats permanently.
+- [63] **Shion**: Option C lets me keep my chair settings. I prefer it.
+- [64] **Yumi**: Option C keeps us in the same groups. I like that.
+- [65] **Rin**: @Toshio, does Option C mean we never move again?
+- [66] **Toshio**: @Rin, yes, unless the team size changes significantly.
+- [67] **Mizuki**: @Shion, if you get a window seat, will you be happy?
+- [68] **Shion**: @Mizuki, if it is quiet, yes. I will check the meter again.
+- [69] **Yumi**: @Rin, I think stability is better for our conversations.
+- [70] **Rin**: I am worried about the initial setup time, but I accept it.
+- [71] **Toshio**: The long-term savings on facility quotes are significant.
+- [72] **Mizuki**: We can rotate the window seats annually to keep it fair.
+- [73] **Shion**: I am comfortable with a fixed desk if it is the quiet one.
+- [74] **Yumi**: I am happy to sit with the same people. It builds trust.
+- [75] **Rin**: I vote for C.
+- [76] **Toshio**: I vote for C.
+- [77] **Mizuki**: I vote for C.
+- [78] **Shion**: I vote for C.
+- [79] **Yumi**: I vote for C.
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

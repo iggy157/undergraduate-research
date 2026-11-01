@@ -1,0 +1,73 @@
+# shared_living_0011__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need to be extremely careful with the budget this year. I want to ensure we have a precise understanding of all costs before we announce anything to the members.
+- [6] **Toshio**: Budget is important, but we should also consider the administrative burden. We can't let the organizers be overwhelmed by the preparation and on-site duties.
+- [7] **Minako**: I agree on the budget, but we must prioritize member cohesion. The year-groups are too divided. We need a destination that encourages interaction and shared living.
+- [8] **Jonathan**: I believe the quality of rest is often overlooked. If the members cannot sleep well, the training quality suffers. We should investigate the actual living conditions.
+- [9] **Asuka**: We must address the financial risks. A flat fee is risky if people cancel last minute or spend unevenly. We need to know how the costs are actually distributed.
+- [10] **Ryuji**: @Toshio, administrative ease is fine, but not at the cost of a deficit. I suggest we look into the actual receipts and quoting terms to avoid surprises.
+- [11] **Toshio**: I'm not suggesting we ignore the budget, Ryuji. I'm suggesting we avoid a situation where the organizers are too exhausted to actually train.
+- [12] **Minako**: @Jonathan, rest is important, but isolation is a bigger problem. I want to see how previous camps handled the social dynamics and the mixing of year-groups.
+- [13] **Jonathan**: @Minako, I understand, but a tired mind is not an open one. I'd like to know more about the bed arrangements and the actual attendance patterns.
+- [14] **Asuka**: @Ryuji, I agree on the receipts. However, we also need to look at the quoting terms for whole-building lets to see if we can mitigate the risk of individual cancellations.
+- [15] **Ryuji**: Let's divide the research. I will focus on the financial history and the quoting terms to ensure we don't repeat past mistakes with the club account.
+- [16] **Toshio**: I will look into the booking process and the cooking duties. We need to know exactly how much time is lost to administration and on-site labor.
+- [17] **Minako**: I will investigate the seniors' views on year-group mixing and the attendance sheets. I want to see who actually shows up and why they stay apart.
+- [18] **Jonathan**: I will look into the prefecture rate sheets for beds and the accounts from clubs that went inland. I want to compare the quality of the sleeping facilities.
+- [19] **Asuka**: I will examine the group transport receipts and the quoting terms for whole-building lets. I want to see the hidden costs and the flexibility of the contracts.
+- [20] **Ryuji**: That seems like a comprehensive plan. Let's proceed with these investigations so we can make a rational decision based on data.
+- [21] **Toshio**: Agreed. I'll focus on the workload.
+- [22] **Minako**: I hope we can find a way to bring the members closer together this time.
+- [23] **Jonathan**: I look forward to seeing if we can find a place that allows everyone to truly recover each night.
+- [24] **Asuka**: I will focus on the financial stability and the fairness of the cost distribution.
+## Round 2
+- [35] **Ryuji**: The financial data is concerning. Transport costs fluctuate wildly depending on distance, and fixed-headcount lets create a high risk of deficits if members cancel.
+- [36] **Toshio**: I've found that some options carry a massive administrative burden. Certain booking processes are incredibly rigid and time-consuming, and on-site duties can be grueling.
+- [37] **Minako**: My findings suggest that the lack of cohesion is tied to the living arrangements. If we don't force shared living, the year-groups will remain isolated.
+- [38] **Jonathan**: I am concerned about the sleeping conditions. Some of the more affordable options seem to have very crowded rooms and strict rules that might hinder recovery.
+- [39] **Asuka**: The risk of late cancellations is a serious issue. If we choose a whole-building let with non-refundable deposits, the remaining members will be unfairly penalized.
+- [40] **Ryuji**: @Asuka, exactly. We cannot afford to announce a price and then ask for more money later. We need a destination where the cost is predictable and stable.
+- [41] **Toshio**: @Ryuji, predictability in cost is good, but predictability in labor is also necessary. We cannot have organizers spending their entire camp in the kitchen.
+- [42] **Minako**: @Toshio, I understand the burden, but if we prioritize ease over interaction, we are failing the club's social health. We need a place that encourages togetherness.
+- [43] **Jonathan**: @Minako, togetherness is valuable, but not if it comes at the cost of sleep. Eight people to a room with strict lights-out may lead to the same exhaustion as last year.
+- [44] **Asuka**: We should avoid options that rely on rigid headcount deposits. A flexible booking system is essential to ensure that the financial burden doesn't fall on a few people.
+- [45] **Ryuji**: If we choose a local destination, we drastically reduce the transport risk. The data shows that distance is the primary driver of budget instability.
+- [46] **Toshio**: I agree with reducing risk, but we must avoid any option that requires a lottery-style application or extensive manual labor on-site. The organizers need to train.
+- [47] **Minako**: A local destination might be too familiar. To break the year-group barriers, we need an environment that removes them from their daily routine and forces them to rely on each other.
+- [48] **Jonathan**: I am leaning toward options that offer more space per person. If the inland centers are too crowded, we should look for something that guarantees a better night's rest.
+- [49] **Asuka**: I am prioritizing the financial structure. Any option that allows for individual cancellations without affecting the group's flat fee is the only logical choice.
+- [50] **Ryuji**: We must balance these needs, but the club account cannot sustain another deficit. I will vote for the option that minimizes financial volatility.
+- [51] **Toshio**: I will vote for the option that minimizes the administrative and labor burden on the organizers. We cannot sacrifice the training of the leadership.
+- [52] **Minako**: I will vote for the option that maximizes shared living and social interaction. The long-term health of the club depends on the members actually knowing each other.
+- [53] **Jonathan**: I will vote for the option that provides the most conducive environment for sleep and recovery. Training is useless if the members are too exhausted to perform.
+- [54] **Asuka**: I will vote for the option that ensures fair cost distribution and protects the members from paying for those who cancel.
+## Round 3
+- [60] **Ryuji**: Option B is the only choice that eliminates transport volatility and the risk of non-refundable deposits. It is the only financially safe option.
+- [61] **Toshio**: Option A is the most attractive from a labor perspective. The owner handles the meals, and it avoids the bureaucratic nightmare of the municipal lottery system in Option C.
+- [62] **Minako**: Option C is the best for cohesion. Shared dormitories force interaction across year-groups, unlike Option B where people just go home or stay in separate rooms.
+- [63] **Jonathan**: Option A seems the most promising for rest. A guesthouse is likely to be quieter and more comfortable than the crowded dorms of Option C or the fragmented nature of Option B.
+- [64] **Asuka**: Option B is the only one that avoids the "headcount risk." In Option A and C, a late cancellation would likely leave the remaining members to cover the cost.
+- [65] **Ryuji**: @Toshio, while Option A is easier for you, the transport costs to another prefecture are a huge gamble. We cannot risk the budget on a long-distance trip.
+- [66] **Toshio**: @Ryuji, the cost of transport is a one-time expense. The cost of an organizer losing a month of evenings to a municipal application is a loss of productivity we can't afford.
+- [67] **Minako**: @Asuka, the financial risk is manageable if we set a strict deadline for payment. But the social risk of Option B is catastrophic; it's not a camp, it's just more practice.
+- [68] **Jonathan**: @Minako, the "shared" nature of Option C's dorms is exactly what I fear. Eight people to a room is a recipe for sleep deprivation, which we saw last year.
+- [69] **Asuka**: @Minako, a deadline doesn't solve the problem of non-refundable deposits. If the lodge requires a full payment upfront, the club account takes the hit, or the members do.
+- [70] **Ryuji**: Option B is the only rational choice. It removes the transport variable and the deposit risk entirely. We can use the saved money to improve the training quality.
+- [71] **Toshio**: Option B is too fragmented. If we are going to put in the effort to organize a camp, it should be a dedicated environment. Option A provides that without the labor of Option C.
+- [72] **Minako**: Option C is the only one that addresses the core problem of the club's division. The shared dorms are a necessary catalyst for the members to actually bond.
+- [73] **Jonathan**: I cannot support Option C. The risk of poor sleep is too high. Option A offers a dedicated environment and likely better sleeping conditions, which is essential for the final day's performance.
+- [74] **Asuka**: Option B is the only one that ensures no member is unfairly penalized for another's absence. It is the only fair way to handle the flat fee.
+- [75] **Ryuji**: I will stick with Option B. The financial stability of the club must come first.
+- [76] **Toshio**: I will vote for Option A. It balances the need for a dedicated camp environment with a manageable workload for the organizers.
+- [77] **Minako**: I will vote for Option C. The social fragmentation of this club is a crisis that only a shared-living environment can solve.
+- [78] **Jonathan**: I will vote for Option A. It provides the best chance for the members to get the rest they need to actually benefit from the training.
+- [79] **Asuka**: I will vote for Option B. Fairness in cost distribution and the elimination of cancellation risks are my primary concerns.
+### Vote
+- Ryuji -> B
+- Toshio -> A
+- Minako -> C
+- Jonathan -> A
+- Asuka -> B
+## Result
+- adopted: A

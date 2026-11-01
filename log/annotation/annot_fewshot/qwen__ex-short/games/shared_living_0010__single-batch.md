@@ -1,0 +1,73 @@
+# shared_living_0010__single-batch (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The current system is failing because we don't know the actual time cost.
+- [6] **Mio**: I feel like the same people always end up doing the heavy lifting.
+- [7] **Victoria**: I am worried about the tension building up silently between us.
+- [8] **Rin**: Who is paying for the supplies? I keep seeing empty bottles.
+- [9] **Daisuke**: I just want to know what state the rooms will be in when I walk in.
+- [10] **Ryuji**: @Rin, the supplies are a symptom, but the time is the real issue.
+- [11] **Mio**: @Ryuji, I agree, but if the work isn't split evenly, time doesn't matter.
+- [12] **Victoria**: @Mio, fairness is good, but I care more about us staying friends.
+- [13] **Rin**: @Victoria, I can't be friends if I'm always out of pocket for bleach.
+- [14] **Daisuke**: @Rin, I worry about the cost, but I worry more about the mess.
+- [15] **Ryuji**: I need to see how long a proper clean actually takes.
+- [16] **Mio**: I want to check who is actually using the kitchen versus who cleans it.
+- [17] **Victoria**: I will look at the chat history to see where the friction starts.
+- [18] **Rin**: I need to check the receipts for the cleaning supplies we buy.
+- [19] **Daisuke**: I will check the bathroom grout to see how fast it gets dirty.
+- [20] **Ryuji**: I will also check the absences on the wall calendar.
+- [21] **Mio**: I will also check what each housemate counts as "done".
+- [22] **Victoria**: I will also check the note left by the previous tenants.
+- [23] **Rin**: I will also check the management office rate sheet.
+- [24] **Daisuke**: I will also check the standard terms of the outside firm.
+## Round 2
+- [35] **Ryuji**: A full pass takes over an hour, and two people are gone most months.
+- [36] **Mio**: The kitchen mess comes from three people, but everyone cleans it.
+- [37] **Victoria**: The previous tenants stopped speaking after dividing rooms permanently.
+- [38] **Rin**: The supplies cost 2,300 yen a month, and the office charges 4,200 an hour.
+- [39] **Daisuke**: The grout gets black in eleven days, and the firm needs the room tidy first.
+- [40] **Ryuji**: @Rin, 4,200 an hour is expensive, but my time is worth something too.
+- [41] **Mio**: @Ryuji, if two people are away, the remaining three are doing double work.
+- [42] **Victoria**: @Mio, that imbalance is exactly what caused the previous tenants to drift apart.
+- [43] **Rin**: @Victoria, I agree, but I also can't keep paying for the bleach.
+- [44] **Daisuke**: @Rin, the firm's terms mean we still have to tidy up before they come.
+- [45] **Ryuji**: If we hire the firm, we still have to be present and tidy.
+- [46] **Mio**: A fixed rota might work if we account for absences properly.
+- [47] **Victoria**: Standing assignments seem risky given the previous tenants' experience.
+- [48] **Rin**: The cost of the firm is high, but it removes the argument about who cleans.
+- [49] **Daisuke**: I am worried that even with a firm, the grout will still get dirty.
+- [50] **Ryuji**: I need to know if the firm's schedule fits our absences.
+- [51] **Mio**: I think a rota is better than permanent ownership.
+- [52] **Victoria**: I am leaning towards the firm to avoid the silent resentment.
+- [53] **Rin**: The firm is expensive, but it solves the supply cost issue.
+- [54] **Daisuke**: I am hesitant, but I want to stop guessing the state of the bathroom.
+## Round 3
+- [60] **Ryuji**: Option A is too risky. Option B is fair but ignores absences. Option C is costly.
+- [61] **Mio**: Option B is the only one that accounts for who is actually here.
+- [62] **Victoria**: Option C is the safest for our relationships, even if it costs more.
+- [63] **Rin**: Option C solves the money problem, but it's a big monthly hit.
+- [64] **Daisuke**: Option B feels fair, but I worry about the grout getting dirty again.
+- [65] **Ryuji**: @Mio, if we use a rota, we need to swap weeks when someone is away.
+- [66] **Mio**: @Ryuji, yes, that is the key. A static rota fails if people travel.
+- [67] **Victoria**: @Rin, the cost of C is high, but the cost of conflict is higher.
+- [68] **Rin**: @Victoria, I agree, but I need to see if the budget allows for C.
+- [69] **Daisuke**: @Mio, if we rotate, I hope the bathroom gets a deeper clean sometimes.
+- [70] **Ryuji**: Option B with swaps seems the most sustainable for my time.
+- [71] **Mio**: Option B is the only one that feels truly fair to me.
+- [72] **Victoria**: I am voting for C to protect the peace, despite the cost.
+- [73] **Rin**: I am voting for C because I am tired of paying for supplies.
+- [74] **Daisuke**: I am voting for B because I want a predictable, fair system.
+- [75] **Ryuji**: I am voting for B.
+- [76] **Mio**: I am voting for B.
+- [77] **Victoria**: I am voting for C.
+- [78] **Rin**: I am voting for C.
+- [79] **Daisuke**: I am voting for B.
+### Vote
+- Ryuji -> B
+- Mio -> B
+- Victoria -> C
+- Rin -> C
+- Daisuke -> B
+## Result
+- adopted: B

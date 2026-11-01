@@ -1,0 +1,73 @@
+# shared_living_0019__multi-private (shared_living)
+
+## Round 1
+- [5] **George**: I worry the car is already changing how we talk to each other.
+- [6] **Toshio**: I need to see where the actual time goes before we agree to anything.
+- [7] **Victoria**: I need to understand the daily friction. How does the car feel to use on a normal morning?
+- [8] **Misaki**: I need to verify the baseline costs. I will check the tax, insurance, and parking papers from last year.
+- [9] **Minato**: I just want to know what the car really costs. I will look at the fuel receipts from last year.
+- [10] **George**: @Toshio, time is important, but I am more concerned about the social strain. We need to look at the diary.
+- [11] **Toshio**: @George, the diary shows hours, not feelings. I need the mechanic's remarks to see if the car is failing us.
+- [12] **Victoria**: @Toshio, the mechanic’s notes are vital, but I need to see the state of the car at handover. That’s where the friction starts.
+- [13] **Misaki**: @Victoria, the handover state is crucial for fairness. I will also check the mechanic's remarks to see if the car is failing us.
+- [14] **Minato**: @Misaki, that sounds good. I will also look at the hours of use recorded in the diary to see who drives.
+- [15] **George**: @Minato, the diary shows who drives, but not why the silence happened. I will check the spell of checking each other's figures.
+- [16] **Toshio**: @George, checking figures is just arithmetic. I will look at the weeks of heavy use to see the actual pattern.
+- [17] **Victoria**: @Toshio, heavy use weeks are useful, but I need the state of the car at handover. That is where my morning anxiety begins.
+- [18] **Misaki**: @Victoria, I understand the anxiety. I will also check the state of the car at handover to see if the friction is physical.
+- [19] **Minato**: @Victoria, I hope the car is okay. I will also look at the trips that repeat weekly to see the pattern.
+- [20] **George**: I will also look at what two other car-sharing households said. Their experience might explain our silence.
+- [21] **Toshio**: I will also check the month's trial of recording every run. I need to see the true cost of each trip.
+- [22] **Victoria**: I will also check the trips that repeat weekly. I need to know if my routine is being disrupted by others' schedules.
+- [23] **Misaki**: I will also check the month's trial of recording every run. I need to see the true cost of each trip.
+- [24] **Minato**: I will also look at the state of the car at handover. I want to see if it is being treated gently.
+## Round 2
+- [35] **George**: The other households said the souring came from asking favours or clinging to unneeded turns.
+- [36] **Toshio**: The trial took an hour weekly just to square the numbers. That is the real cost, not the fuel.
+- [37] **Victoria**: The fuel light and rubbish confirm my fear. The weekly trips collapsing means my routine is the first casualty.
+- [38] **Misaki**: The fixed costs are 280,000 yen. That is a heavy baseline. I need to see how the variable costs split against this.
+- [39] **Minato**: The receipts show two people bought most of the fuel. The diary says Saturdays are busier. I am a little confused by the gap.
+- [40] **George**: @Minato, that gap is exactly the friction. The other households said clinging to unneeded turns sours things.
+- [41] **Toshio**: @Minato, that gap is the administrative burden. The trial proved the bookkeeping is the real expense, not the petrol.
+- [42] **Victoria**: @Toshio, bookkeeping is necessary, but it doesn't fix the empty tank. I need a system that guarantees the car is ready for my specific weekly trip.
+- [43] **Misaki**: @Victoria, I agree the tank matters, but the 280,000 yen baseline is fixed. We must ensure the variable costs don't hide who is actually subsidizing whom.
+- [44] **Minato**: @Misaki, I agree. I just want to see the real numbers so we can share the cost fairly.
+- [45] **George**: @Toshio, the bookkeeping burden is real, but the social cost is higher. We must avoid the favour-asking trap.
+- [46] **Toshio**: @George, I agree. The social cost is the hidden tax. We need a system that removes the need for favours entirely.
+- [47] **Victoria**: @George, I agree. But a system that removes favours must also guarantee the car is physically ready. I cannot drive off with rubbish inside.
+- [48] **Misaki**: @Toshio, I agree. The social cost is the hidden tax. We need a system that removes the need for favours entirely.
+- [49] **Minato**: @George, I worry about hurting feelings. Maybe we can just agree on a simple, kind way to share the driving?
+- [50] **George**: @Minato, kindness is good, but it is not a system. We need rules that prevent the favour trap before it starts.
+- [51] **Toshio**: @Minato, kindness is fragile. We need a rigid structure that makes the car self-managing, so no one has to ask.
+- [52] **Victoria**: @Minato, kindness is not a guarantee. I need a physical check before I drive. If the car is not ready, I cannot leave.
+- [53] **Misaki**: @Minato, kindness is not a ledger. I need the numbers to be precise so no one is quietly subsidizing the rest of us.
+- [54] **Minato**: @Misaki, I understand. I just want the numbers to be clear so we can all feel safe and fair.
+## Round 3
+- [60] **George**: Option C creates a favour-asking trap. Option B is rigid but predictable. I lean towards B to protect our peace.
+- [61] **Toshio**: Option B eliminates the bookkeeping entirely. Fixed days, fixed cost. No dial photos, no squaring receipts. It is the only way to stop the administrative bleed.
+- [62] **Victoria**: Option B guarantees my day, but does it guarantee the car is clean and fueled? I need a physical check before I drive.
+- [63] **Misaki**: Option B hides the variable costs. If I drive far, I subsidize the others. I need the split to reflect actual usage, not just days.
+- [64] **Minato**: Option B feels simple and kind. I worry about the car being ready, but I like that everyone has their own day.
+- [65] **George**: @Victoria, the physical check is essential. We must agree on a handover standard to prevent the friction you described.
+- [66] **Toshio**: @Victoria, a fixed handover standard is manageable. If the car is not ready, the next person simply does not use it. No arguments, just consequences.
+- [67] **Victoria**: @Toshio, consequences are not comfort. I need a guarantee that the car is clean and fueled before my specific weekly trip.
+- [68] **Misaki**: @Victoria, a guarantee is just a rule. I need the numbers to show who is actually paying for the distance, not just the day.
+- [69] **Minato**: @Victoria, I agree. Maybe we can just check the car together before leaving? It feels safer that way.
+- [70] **George**: @Minato, checking together is a favour. It invites the very friction we are trying to avoid. We need a standard, not a meeting.
+- [71] **Toshio**: @Minato, checking together is a meeting. I need a standard that requires no one to ask. Option B is the only one that ends the negotiation.
+- [72] **Victoria**: @Toshio, a standard is good, but it does not fix the empty tank. I need the car to be physically ready, not just available.
+- [73] **Misaki**: @Toshio, a standard is not a ledger. Option B ignores the 280,000 yen baseline. I need the split to reflect actual distance, not just days.
+- [74] **Minato**: @Misaki, I understand the worry about the numbers. But I think Option B is the kindest. It gives everyone a safe, quiet day without asking.
+- [75] **George**: I am voting for B. Predictability protects the peace.
+- [76] **Toshio**: I am voting for B. It ends the bookkeeping and the negotiation.
+- [77] **Victoria**: I am voting for B. Predictability is essential, but I need a strict handover standard to ensure the car is physically ready for my trip.
+- [78] **Misaki**: I am voting for A. It is the only option that accounts for actual distance, ensuring no one quietly subsidizes the others.
+- [79] **Minato**: I am voting for B. It feels the most peaceful and fair for everyone.
+### Vote
+- George -> B
+- Toshio -> B
+- Victoria -> B
+- Misaki -> A
+- Minato -> B
+## Result
+- adopted: B

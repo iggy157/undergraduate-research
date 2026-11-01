@@ -1,0 +1,2 @@
+20:03:28 start: 0 jobs, models=default,default_b,default_c,default_d,default_e,default_f,default_g,default_h, per_model=4
+20:04:00 all done

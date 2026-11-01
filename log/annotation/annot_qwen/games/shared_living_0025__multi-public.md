@@ -1,0 +1,73 @@
+# shared_living_0025__multi-public (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m a bit nervous about this. The old split feels unfair now that we’re five. What are we thinking?
+- [6] **Ryuji**: I want to see the actual numbers before we decide. The old split doesn't match our current reality.
+- [7] **Rin**: I’m worried about who has to do the math every month! It takes forever and makes people grumpy.
+- [8] **Shunichi**: The current method is a mess. We need to know if the workload is actually uneven before we blame the system.
+- [9] **Misaki**: I agree. We need to look at the facts, not just the feelings. Let’s see what the data says.
+- [10] **Mio**: I just want to make sure we don’t end up freezing in winter because the bill is too high. Can we look at how much we actually use?
+- [11] **Ryuji**: @Mio, I understand the concern. But I need to know the total yearly cost and any upfront fees before committing to a new system.
+- [12] **Rin**: @Ryuji, upfront costs are scary! But if we pick a system that takes hours to manage, I’ll hate it. Can we check how long the math really takes?
+- [13] **Shunichi**: @Rin, the math is a symptom, not the disease. I want to verify if the usage is actually skewed before we fix the paperwork.
+- [14] **Misaki**: @Shunichi, I agree. But I also worry about the tension. Let’s check the payment log to see if delays are causing friction.
+- [15] **Mio**: I’m worried about the winter. If the bill spikes, will we just sit in coats? I want to know how much heat we actually need.
+- [16] **Ryuji**: @Mio, I hear you. But I need the full yearly picture first. I can’t commit to a new structure without knowing the total cost and any upfront fees.
+- [17] **Rin**: @Mio, I’m scared of the math! If we pick something that takes hours, I’ll be stuck doing it. Can we check how long the actual work takes?
+- [18] **Shunichi**: @Mio, comfort is a luxury, not a baseline. I need to verify if the "unfairness" is real or just noise. Let’s look at the actual usage data.
+- [19] **Misaki**: @Mio, I hear you. But I’m worried about the silence after a bill arrives. Let’s check the payment log to see if delays are causing friction.
+- [20] **Mio**: I’m still thinking about the winter. I want to know how much heat we actually need so we don’t freeze.
+- [21] **Ryuji**: I need the yearly cost and upfront fees. I can’t commit to a new system without knowing the financial impact.
+- [22] **Rin**: I need to know how long the monthly math actually takes! If it eats my evenings, I’m stuck. Can we check the real workload?
+- [23] **Shunichi**: I need to verify if the "unfairness" is real or just noise. Let’s look at the actual usage data.
+- [24] **Misaki**: I need to see if the payment delays are actually causing the tension we feel. Let’s check the log.
+## Round 2
+- [35] **Mio**: #### Turn 1 of 4
+- [36] **Ryuji**: The winter spike is nearly triple the summer low. Metering costs 170,000 yen upfront. I need to see if the annual savings justify that initial hit.
+- [37] **Rin**: I found out the monthly math takes forty minutes! Plus, the year-end template means keying in every single invoice. That’s a lot of work for one person.
+- [38] **Shunichi**: The data confirms the imbalance. One room draws four times the lightest, mostly from a heater and desktop. The seasonal swing is massive, too.
+- [39] **Misaki**: The log shows three late payments, each triggered by a query about the amount changing. The statements reveal wild swings, from 9,100 to 29,400 yen.
+- [40] **Mio**: I found the winter gap is huge, 29,400 yen versus 9,100. Also, two rooms need heat from November. We need a plan that doesn't freeze us out.
+- [41] **Ryuji**: @Mio, the 170,000 yen upfront cost is significant. I need to know if the seasonal savings actually cover that investment over time.
+- [42] **Rin**: @Mio, forty minutes monthly plus a massive year-end slog. That’s a lot of evenings lost. We need a system that doesn’t swallow our free time.
+- [43] **Shunichi**: @Ryuji, the upfront cost is a sunk cost, not a saving. The real issue is the four-to-one usage gap. We need to address the actual consumption, not just the initial fee.
+- [44] **Misaki**: @Mio, the winter gap is real, but the payment log shows the friction comes from sudden changes, not just the amount. We need stability.
+- [45] **Mio**: @Misaki, I agree. The wild swings make it hard to budget. I’m scared of being stuck in a coat again.
+- [46] **Ryuji**: @Shunichi, I disagree. The upfront cost is a barrier, not a sunk cost. I need to know if the long-term savings justify that 170,000 yen investment before we proceed.
+- [47] **Rin**: @Ryuji, forty minutes a month is manageable, but the year-end template is a nightmare. I refuse to be the one keying in twelve invoices.
+- [48] **Shunichi**: @Ryuji, the fee is irrelevant if the usage gap is real. The data proves it. We need to address the consumption, not just the initial cost.
+- [49] **Misaki**: @Ryuji, the fee is a barrier, but the friction is the real cost. The log shows delays happen when amounts shift unexpectedly. We need predictability, not just lower bills.
+- [50] **Mio**: I’m still worried about the cold. If we don’t fix the heating need, I’ll be freezing again. Let’s prioritize comfort.
+- [51] **Ryuji**: I cannot commit to a 170,000 yen outlay without proof of long-term savings. The seasonal variance is too high to ignore.
+- [52] **Rin**: @Ryuji, I get the cost worry, but forty minutes a month is nothing compared to the year-end nightmare. I refuse to be the one keying in twelve invoices.
+- [53] **Shunichi**: @Ryuji, the fee is a barrier, but the data proves the imbalance. We need to address the actual consumption, not just the initial cost.
+- [54] **Misaki**: @Ryuji, the fee is a barrier, but the friction is the real cost. The log shows delays happen when amounts shift unexpectedly. We need predictability, not just lower bills.
+## Round 3
+- [60] **Mio**: I’m leaning toward A. A fixed seasonal rate means I won’t have to do mental math before turning on the heater. It feels safer for winter.
+- [61] **Ryuji**: I cannot support B. The 170,000 yen upfront cost is a barrier I cannot justify without proof of long-term savings.
+- [62] **Rin**: I’m leaning toward A! Forty minutes a month is fine, but I refuse to do the year-end invoice nightmare. A fixed rate means no endless math!
+- [63] **Shunichi**: @Ryuji, the fee is a barrier, but the data proves the imbalance. We need to address the actual consumption, not just the initial cost.
+- [64] **Misaki**: @Shunichi, the data shows the swings, but the log shows the pain. Option A gives us the predictability we need to stop the friction.
+- [65] **Mio**: @Rin, I agree! A fixed rate means I can just turn the heat on without worrying. No more mental math or freezing in a coat.
+- [66] **Ryuji**: @Shunichi, I acknowledge the usage gap, but I cannot justify 170,000 yen upfront. Option A offers predictability without that massive financial risk.
+- [67] **Rin**: @Mio, exactly! No more endless math. I just want to know if the year-end settle is actually that bad, or if I’m overreacting?
+- [68] **Shunichi**: @Rin, the year-end settle is a single event, not a monthly burden. The real issue is the four-to-one usage gap. Option B addresses that directly.
+- [69] **Misaki**: @Rin, the year-end settle is one day, not a monthly drain. But the log proves sudden changes cause the silence. A fixed rate stops that.
+- [70] **Mio**: @Shunichi, I hear you, but I can’t risk freezing again. A fixed rate means I can turn the heat on without doing mental math. It’s safer for me.
+- [71] **Ryuji**: @Shunichi, I understand the gap, but I cannot justify 170,000 yen upfront. Option A offers the predictability I need without that massive financial risk.
+- [72] **Rin**: @Shunichi, I’m not doing the year-end template! It’s a nightmare. Option A is the only one that doesn’t swallow my evenings.
+- [73] **Shunichi**: @Rin, the year-end settle is a single event, not a monthly burden. The real issue is the four-to-one usage gap. Option B addresses that directly.
+- [74] **Misaki**: @Shunichi, the gap is real, but the silence is worse. Option A stops the sudden shifts that trigger the delays. I vote A.
+- [75] **Mio**: I vote A. A fixed rate means I can finally turn the heater on without doing mental math. No more freezing in a coat.
+- [76] **Ryuji**: I vote A. The 170,000 yen upfront cost for B is an unjustifiable risk. A provides the predictability I need without that financial burden.
+- [77] **Rin**: I vote A! No more endless math or year-end nightmares. Just a fixed number and peace of mind.
+- [78] **Shunichi**: @Ryuji, the fee is a barrier, but the data proves the imbalance. We need to address the actual consumption, not just the initial cost.
+- [79] **Misaki**: I vote A. The log proves sudden changes cause the silence. A fixed rate stops that friction. We need stability, not just lower bills.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> A
+- Misaki -> A
+## Result
+- adopted: A

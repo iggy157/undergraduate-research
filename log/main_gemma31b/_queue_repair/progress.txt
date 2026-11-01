@@ -1,0 +1,7 @@
+22:23:50 start: 2 jobs, models=default_d, per_model=2
+22:24:09 start: 1 jobs, models=default, per_model=1
+22:27:30 single-batch-process aiwolf_0013 rc=0 220s [default_d#0] left=1
+22:27:35 single-batch-process aiwolf_0019 rc=0 224s [default_d#1] left=0
+22:27:35 all done
+22:27:58 single-batch-process candidate_selection_0006 rc=0 229s [default#0] left=0
+22:27:58 all done

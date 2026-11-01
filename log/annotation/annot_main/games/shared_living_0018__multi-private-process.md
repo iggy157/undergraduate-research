@@ -1,0 +1,73 @@
+# shared_living_0018__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need a clear, defined purpose for the break room. The current "first-come, first-served" approach is ambiguous and leads to unfairness regarding the cleanup. We should base our decision on objective data rather than impressions.
+- [6] **Jonathan**: I agree with Ryuji. A bit of structure would bring peace to the space. Let's look at the facts so we can find a balance that works for everyone's well-being.
+- [7] **May**: I'm all for a bit of order, but let's make sure we aren't just creating more work for ourselves. I want to see who's actually spending their time cleaning up this mess.
+- [8] **Shunichi**: Let's be realistic. We're currently bleeding resources because the room fails at its most critical function. I suggest we prioritize the financial drain and actual usage patterns before we start dreaming of a utopia.
+- [9] **Servas**: It is wise to seek balance. While numbers are helpful, we must not forget the spirit of the space. Let us look at how the environment affects our peace of mind and our daily harmony.
+- [10] **Ryuji**: @Shunichi, I agree that usage patterns are critical. To avoid arguments based on feelings, we need to see exactly how the room is being utilized and who is responsible for the state it's left in.
+- [11] **Jonathan**: Perhaps we should also consider the nature of our interactions there. It is not just about who is in the room, but how the space affects the way we speak to one another.
+- [12] **May**: Exactly, @Jonathan. But let's be real: "harmony" usually means someone is doing the heavy lifting while others relax. I want to know where the actual labor is going before we decide on a new layout.
+- [13] **Shunichi**: @May, your obsession with the cleaning is quaint, but let's focus on the bigger picture. If we're paying for external solutions because this room is useless, that's the real "heavy lifting" we should worry about.
+- [14] **Servas**: Patience, my friends. Let us not let our frustrations cloud our vision. To find a path toward true harmony, we must understand both the physical burdens and the invisible echoes that linger in the air.
+- [15] **Ryuji**: To ensure a rational outcome, we should examine the actual frequency of use and the physical evidence of neglect. I propose we look into the fortnight's tally of use by person and the crumbs and bins at the desks.
+- [16] **Jonathan**: I think it would be helpful to understand the social dynamics of the room. I'll look into where the last awkward conversation happened and the unplanned talk since the refit.
+- [17] **May**: I'll take a look at the invoices for outside hire by the hour and the facilities callouts on this floor. I want to see exactly how much time and money we're wasting on "fixes."
+- [18] **Shunichi**: I'll handle the financial side. I'm looking into the quotes for the two fit-outs and the invoices for outside hire by the hour. Let's see if the numbers actually support your theories.
+- [19] **Servas**: I shall look into the partition wall to the office and the crumbs and bins at the desks. Let us see how the physical boundaries and the remnants of our day affect our shared peace.
+- [20] **Ryuji**: The selections are made. By analyzing the usage tally and the state of the desks, we can establish a factual baseline for responsibility and demand. I look forward to reviewing the data in the next round.
+- [21] **Jonathan**: I hope that by understanding our patterns of communication, we can create a space that allows us to be more honest and open with one another. I look forward to seeing what we discover.
+- [22] **May**: Let's just hope the data is as honest as I am. I'm expecting to find a lot of wasted effort hiding in those invoices and callouts. See you all in the next round!
+- [23] **Shunichi**: Let's just hope the rest of you can handle the truth once the numbers are on the table. I'll see you all in the next round.
+- [24] **Servas**: May the truth we find be a bridge to understanding. Let us approach our discoveries with open hearts and a spirit of cooperation. I wish you all a peaceful interval until we meet again.
+## Round 2
+- [35] **Ryuji**: The data reveals a significant imbalance. Only two people use the room frequently, yet the evidence of eating at desks suggests the room isn't serving its purpose. We are dealing with a lack of structure and misplaced habits.
+- [36] **Jonathan**: It seems we are missing more than just structure. I've found that our only unplanned interactions happen by the printer, and difficult conversations are happening in public, leaving people isolated and silent for weeks afterward.
+- [37] **May**: And here's the kicker: we're paying for outside rooms because this one is a disaster, yet facilities are barely called. That means we're either ignoring the mess or wasting hours fixing things ourselves. Who's actually doing that work?
+- [38] **Shunichi**: @May, stop worrying about who's scrubbing the floors. We've spent 68,000 yen on external rentals because this room is inadequate. We're paying for a space we already have, which is a textbook waste of capital.
+- [39] **Servas**: It is clear that our sanctuary has become a source of stress. The walls are thin, allowing every word to drift into our workspace, and the crumbs at our desks show we have abandoned the room for convenience.
+- [40] **Ryuji**: @Shunichi, the financial waste is a symptom of the lack of a system. If the room had a defined purpose and a fair usage agreement, we wouldn't be paying for external rentals or eating at our desks.
+- [41] **Jonathan**: @Ryuji, a system for cleaning is helpful, but we also need a system for our humanity. If we have no private place for difficult words, we will remain strangers despite the rules.
+- [42] **May**: @Jonathan, humanity is great, but it doesn't scrub the bins. If we're paying for outside rooms, it's because this one is a failure. I'm tired of the hidden labor that keeps this place barely functioning.
+- [43] **Shunichi**: @Ryuji, a "system" doesn't pay the bills. We have concrete quotes for fit-outs: 141,000 for a professional setup or 96,000 for a kitchen. We need to decide which investment actually stops the bleeding of external rental costs.
+- [44] **Servas**: Money is a tool, but peace is the goal. If we build a kitchen but the walls remain thin, we only invite more noise and mess into our sanctuary. We must prioritize a space that offers true quiet.
+- [45] **Ryuji**: @Shunichi, the kitchen fit-out might stop the desk crumbs, but it doesn't solve the usage imbalance. We need a purpose that justifies the investment and ensures the room is used fairly, not just as a place to eat.
+- [46] **Jonathan**: @Ryuji, I agree. A kitchen solves a physical problem, but it doesn't solve the emotional distance between us. We need a space that encourages genuine connection and provides privacy for the conversations we are currently avoiding.
+- [47] **May**: @Jonathan, you're talking about "connection," but I'm talking about the actual toll on us. If we just add a kitchen, who's managing the upkeep? I don't want another "solution" that just adds more chores to our day.
+- [48] **Shunichi**: @May, you're thinking like a janitor, not a professional. The real toll is the inefficiency. We're paying for external rooms because we lack a proper meeting space. A professional fit-out is a one-time cost that eliminates recurring waste.
+- [49] **Servas**: @Shunichi, efficiency is a hollow victory if it comes at the cost of our serenity. A professional room is useless if the walls still whisper every secret to those of us sitting just a few steps away.
+- [50] **Ryuji**: We must avoid a solution that merely shifts the problem. A professional fit-out addresses the financial waste, but without a strict usage policy, we will simply repeat the same patterns of imbalance and neglect. We need a structured purpose.
+- [51] **Jonathan**: @Ryuji, structure is necessary, but let's ensure it includes a space for privacy. If we only focus on efficiency and rules, we'll continue to be strangers who can't speak honestly to one another when it truly matters.
+- [52] **May**: I'm not interested in "structures" that just look good on paper. Whether it's a kitchen or a meeting room, someone always ends up doing the grunt work. Let's pick the option that requires the least amount of daily maintenance.
+- [53] **Shunichi**: @May, the option with the least maintenance is the one that actually works. A professional meeting space doesn't require scrubbing hobs. Let's stop the financial leak and invest in a purpose that serves the business.
+- [54] **Servas**: Let us remember that a room is more than its function; it is the air we breathe together. If we choose a path that ignores the noise and the mess, we only build a more expensive cage.
+## Round 3
+- [60] **Ryuji**: Option C is the most rational choice. A bookable calendar removes the ambiguity of "first-come, first-served" and ensures fair access, while a professional purpose eliminates the desk crumbs and the need for external rentals.
+- [61] **Jonathan**: Option C provides the structure Ryuji wants, but we must ensure it's used for more than just formal meetings. It should be a sanctuary for those difficult, private conversations we currently lack the space to have.
+- [62] **May**: I'm leaning toward C too, but only because Option A is a nightmare. A kitchen just means more scrubbing and arguing over whose turn it is to empty the bins. Let's go with the one that doesn't create more chores.
+- [63] **Shunichi**: Option C is the only logical conclusion. We've already proven we're wasting money on external rentals. Investing 141,000 yen now to stop a recurring leak is basic arithmetic. Let's stop debating "feelings" and act like professionals.
+- [64] **Servas**: While Option C addresses the finances, we must be mindful of the walls. If we create a meeting space without addressing the sound, we only amplify the noise for those of us working beside it. Peace requires more than a calendar.
+- [65] **Ryuji**: @Servas, the calendar system in Option C provides a structured way to manage the room's use, which is the first step toward order. We can address noise through behavioral rules once the purpose is defined.
+- [66] **Jonathan**: @Ryuji, rules are a start, but the physical space must invite trust. If we choose Option C, let's agree it's a place for honest dialogue, not just agendas, so we can finally stop being strangers.
+- [67] **May**: @Jonathan, as long as "honest dialogue" doesn't involve someone spending an hour cleaning up after a "heart-to-heart," I'm in. Option C is the only one that doesn't sound like a second job for whoever is the most helpful.
+- [68] **Shunichi**: @Jonathan, your desire for a "sanctuary" is touching, but let's keep it grounded. Option C is a business decision. It solves the financial leak and the utility gap. The ROI is clear; the rest is just noise.
+- [69] **Servas**: @Shunichi, the "noise" you dismiss is the very thing that disrupts our focus. If we choose Option C, we must commit to a culture of quiet and respect, for a meeting room is only as useful as the peace it preserves.
+- [70] **Ryuji**: @Servas, a culture of respect is easier to maintain when there is a clear system in place. Option C replaces chaos with a schedule, ensuring that no one is unfairly excluded or burdened. It is the most sustainable path.
+- [71] **Jonathan**: I agree. If we use Option C to create a space where we can finally speak privately and honestly, we can bridge the distance between us. It is the best way to foster genuine connection.
+- [72] **May**: @Ryuji, @Jonathan, you've sold me. As long as we're talking about a calendar and a screen rather than sponges and soap, I'm on board. Let's pick the option that doesn't eat up our free time.
+- [73] **Shunichi**: @May, for once we agree. The cost of the fit-out is a drop in the bucket compared to the inefficiency of our current habits. Let's stop the bleeding and vote for Option C. It's the only adult choice here.
+- [74] **Servas**: I see that we have found a common path. While my heart still worries for the silence of our workspace, I believe that a shared commitment to respect will outweigh the thinness of the walls. I vote for Option C.
+- [75] **Ryuji**: The consensus is clear. Option C provides the objective structure needed to eliminate unfairness and financial waste. By replacing ambiguity with a bookable system, we ensure a rational and sustainable use of the space. I vote for Option C.
+- [76] **Jonathan**: I vote for Option C. Beyond the efficiency, I believe this space can finally give us the privacy we need to speak honestly and truly get to know one another. Let's use it to build a kinder workplace.
+- [77] **May**: I vote for Option C. It's the only choice that doesn't turn into a part-time cleaning job for the rest of us. Let's keep the labor low and the efficiency high.
+- [78] **Shunichi**: I vote for Option C. It's the only decision that makes financial sense and treats this office like a business rather than a dormitory. Let's finally stop wasting money and get this sorted.
+- [79] **Servas**: I vote for Option C. Let us move forward with a spirit of mindfulness, ensuring that our new space becomes a sanctuary of respect and quiet for all who dwell nearby.
+### Vote
+- Ryuji -> C
+- Jonathan -> C
+- May -> C
+- Shunichi -> C
+- Servas -> C
+## Result
+- adopted: C

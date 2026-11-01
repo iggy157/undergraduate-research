@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about the fragile conditions that shaped our past plans. Let us look closely at the delivery windows and the winter road closures.
+- [6] **Jonathan**: I’m concerned about how our locations and hours shape who can actually reach us. Let’s examine the bus links in the two outer wards.
+- [7] **Rin**: I’m curious about the old outreach stops! Let’s check the attendance sheets to see who actually showed up back then.
+- [8] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual running and equipment lines versus the original budget estimates.
+- [9] **Minako**: I need to verify if our staff can actually handle new duties. I will examine the volunteer register and supervision training.
+- [10] **Shizue**: @Jonathan, your focus on access is wise. I will also look into the bus links to see how the outer wards connect to us.
+- [11] **Jonathan**: @Shizue, I appreciate your support. I will also examine the evening room bookings and remote catalogue use to understand current demand patterns.
+- [12] **Rin**: @Benjamin, I agree! We must check if the old outreach stops actually worked. I will examine the attendance sheets from former outreach stops.
+- [13] **Benjamin**: @Rin, attendance is a symptom. I will examine the county grant terms and the endowment to see how the funding is actually structured.
+- [14] **Minako**: @Benjamin, funding is vital, but skills are the bottleneck. I will also examine the neighbourhood associations and tool certification to verify our actual capacity.
+- [15] **Shizue**: @Minako, your caution is wise. I will stick with my two choices: the delivery windows and the winter road closures.
+- [16] **Jonathan**: @Shizue, I agree. I will stick with my two choices: the bus links and the evening room bookings.
+- [17] **Rin**: @Benjamin, I agree! I will stick with my two choices: the attendance sheets and the two programmes begun six years ago.
+- [18] **Benjamin**: @Minako, capacity is real, but I must verify the funding structure. I will stick with my two choices: the running lines and the county grant terms.
+- [19] **Minako**: @Benjamin, I agree. I will stick with my two choices: the volunteer register and the neighbourhood associations. We must know who is actually there.
+- [20] **Shizue**: @All, I am glad we are aligned. I will review the delivery windows and winter road closures to understand our fragile conditions.
+- [21] **Jonathan**: @All, I am content with my choices. The bus links and evening bookings will reveal who is truly reachable. I look forward to the findings.
+- [22] **Rin**: @All, I’m excited! The attendance sheets and the old programmes will show us what really happened. Let’s see if the records match the stories!
+- [23] **Benjamin**: @All, I am content. The running lines and grant terms will expose the structural rot. I look forward to the findings.
+- [24] **Minako**: @All, I am content. The volunteer register and neighbourhood associations will reveal our true capacity. I look forward to the findings.
+## Round 2
+- [35] **Shizue**: @Jonathan, the winter closures were brief, and the halls kept their schedules. Yet supplier windows slip when larger clients book first. We must plan for that fragility.
+- [36] **Jonathan**: @Shizue, that fragility is real. But my data shows the outer wards lost their bus links, forcing an hour’s round trip. We must address that isolation first.
+- [37] **Rin**: @Jonathan, wait! My old outreach sheets show forty people showed up there! That’s more than the main building! We shouldn’t ignore those numbers just because the buses are gone.
+- [38] **Benjamin**: @Rin, forty attendees is a symptom, not a cause. My data shows the grant covers sessions for twelve months, then the flat budget absorbs the cost. That is the structural trap.
+- [39] **Minako**: @Benjamin, the structural trap is real, but my data shows a skills gap. No one on payroll can supervise outside facilitators. We cannot add duties without that capacity.
+- [40] **Shizue**: @Minako, your caution is wise. If we cannot supervise, we must not add duties. Let us find a path that respects our current limits and the fragile supply lines.
+- [41] **Jonathan**: @Minako, I agree. We must respect those limits. My data shows remote catalogue use peaks after nine, yet we lock up. We need to extend access without adding staff burden.
+- [42] **Rin**: @Jonathan, that’s smart! But my old programme data shows partner groups still meet unaided. We don’t need new staff; we need to trust the community to keep running things!
+- [43] **Benjamin**: @Rin, trust is not a budget line. My data shows the grant expires, leaving the flat budget to absorb the cost. We must choose a proposal that survives that structural shift.
+- [44] **Minako**: @Rin, trust is not a strategy. My data shows the tool certification lapsed. We cannot rely on unverified skills. We need a proposal that fits our actual roster.
+- [45] **Shizue**: @Benjamin, I hear your caution. The grant’s end is a hard wall. We must choose a path that stands firm when the external support fades, relying only on what we truly control.
+- [46] **Jonathan**: @Benjamin, I agree. The grant’s end is a hard wall. My data shows remote use peaks after nine. We must extend access without adding staff burden.
+- [47] **Rin**: @Benjamin, I hear you! But my records show the partner groups survived without help. We must pick the idea that already proved it works, not just the one that sounds best!
+- [48] **Benjamin**: @Rin, survival without support is a warning, not a model. My data shows the grant expires, leaving the flat budget to absorb the cost. We must choose a proposal that survives that structural shift.
+- [49] **Minako**: @Benjamin, I agree. The grant’s end is a hard wall. My data shows the tool certification lapsed. We must choose a proposal that fits our actual roster, not our hopes.
+- [50] **Shizue**: @All, I am glad we are aligned. The data shows our conditions are fragile. Let us choose the path that stands firm when the external support fades.
+- [51] **Jonathan**: @All, I am content. The data reveals a quiet gap in access. I look forward to seeing which proposal bridges that divide without straining our limits.
+- [52] **Rin**: @All, I’m ready! The old records prove some ideas actually stick. Let’s see which new proposal matches that real, lasting success!
+- [53] **Benjamin**: @All, I am content. The data exposes the structural rot. I look forward to seeing which proposal survives the grant’s expiration without breaking the flat budget.
+- [54] **Minako**: @All, I am content. The data confirms our roster is thin. I look forward to seeing which proposal respects our actual capacity and avoids adding unverified duties.
+## Round 3
+- [60] **Shizue**: @All, I see four paths. The mobile service depends on roads and suppliers, which I know are fragile. Let us examine which option stands firm when conditions turn.
+- [61] **Jonathan**: @Shizue, the mobile service directly addresses the isolation I found. It brings the counter to those facing an hour’s round trip. It respects our current limits.
+- [62] **Rin**: @Jonathan, wait! My old outreach sheets show forty people showed up there! That’s more than the main building! The mobile service is basically the old stops that actually worked!
+- [63] **Benjamin**: @Rin, enthusiasm is not a ledger. The mobile service’s vehicle line already overran by a third. Once the grant expires, the flat budget absorbs that recurring cost.
+- [64] **Minako**: @Benjamin, the vehicle line is a symptom. My data shows no one on payroll can supervise the mobile staff. We cannot add duties without verified skills.
+- [65] **Shizue**: @Minako, your caution is wise. The mobile service demands supervision we lack. Let us look for a path that fits our current roster and avoids fragile supply lines.
+- [66] **Jonathan**: @Minako, I understand the supervision gap. But the mobile service reaches those isolated by the lost bus links. It is the only option that truly bridges that divide.
+- [67] **Rin**: @Minako, but my records show partner groups survived without help! We don't need new supervisors; we need to trust the community. The mobile service is the proven path!
+- [68] **Benjamin**: @Rin, trust is not a budget line. The mobile service’s vehicle line overran by a third. Once the grant expires, the flat budget absorbs that recurring cost.
+- [69] **Minako**: @Rin, trust is not a strategy. My data shows the tool certification lapsed. We cannot rely on unverified skills. We need a proposal that fits our actual roster.
+- [70] **Shizue**: @Benjamin, I hear your caution. The vehicle line is a heavy burden. Let us consider the Digital Archive Portal, which relies on bench tooling that ships quickly, avoiding the fragile supplier delays.
+- [71] **Jonathan**: @Shizue, the portal is quiet, but it does not reach the outer wards. My data shows remote use peaks after nine, yet we lock up. We must bridge that physical gap.
+- [72] **Rin**: @Jonathan, wait! My records show the digitisation project failed! Half the images are still unindexed. We can’t trust a new portal to work when the old one left a mess!
+- [73] **Benjamin**: @Rin, a failed archive is a warning, not a verdict. The portal’s capital costs draw on the endowment, sparing the flat budget. It is the only option that survives the grant’s expiration.
+- [74] **Minako**: @Benjamin, the endowment is a shield, but skills are the bottleneck. My data shows no one on payroll can supervise the portal’s scanning teams. We cannot add duties without verified capacity.
+- [75] **Shizue**: @Minako, I understand the supervision worry. Yet the portal’s scanning work is external, not a new duty for our thin roster. It stands firm when the grant fades.
+- [76] **Jonathan**: @Shizue, I hear you. But the portal is silent to those facing an hour’s round trip. It does not bridge the physical isolation I found.
+- [77] **Rin**: @Jonathan, I hear you! But my records show the partner groups survived without help. The Language Circles use those same partners. It’s the proven path that actually sticks!
+- [78] **Benjamin**: @Rin, partner survival is anecdotal. The grant covers sessions for twelve months, then the flat budget absorbs the recurring cost. We must choose a proposal that survives that structural shift.
+- [79] **Minako**: @Rin, partner survival is anecdotal. My data shows no one on payroll can supervise the Language Circles. We cannot add duties without verified skills.
+### Vote
+- Shizue -> D
+- Jonathan -> A
+- Rin -> C
+- Benjamin -> B
+- Minako -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: I need to see the actual usage patterns. I’ll check the fortnight's tally of use by person and the unplanned talk since the refit.
+- [6] **Misaki**: I need to understand the noise and mess complaints. I’ll check the partition wall to the office and the crumbs and bins at the desks.
+- [7] **Servas**: I want to understand where our time actually goes. I’ll check the invoices for outside hire by the hour and the facilities callouts on this floor.
+- [8] **Sakura**: I’m curious about the money! I’ll check the quotes for the two fit-outs and the final clear-out of the old fridge.
+- [9] **Kenji**: I want to know where we actually talk. I’ll check the unplanned talk since the refit and where the last awkward conversation happened.
+- [10] **May**: @Kenji, checking the awkward conversation spot is bold! I’m hoping the tally shows who’s actually hogging the room.
+- [11] **Misaki**: @May, the tally shows who is there, but not why they stay. I’m checking the partition to see if sound is the real barrier.
+- [12] **Servas**: @Misaki, sound is a barrier, but time is the thief. I’m checking the invoices to see who really pays for our upkeep.
+- [13] **Sakura**: @Servas, time is a thief, but money is the boss! I’m checking the quotes to see if we’re actually saving anything.
+- [14] **Kenji**: @May, I hope the tally shows we’re all there! I’m checking the awkward spot to see if we can fix that.
+- [15] **May**: @Sakura, money is important, but I need to know if we’re actually using the space! I’m checking the tally and the unplanned talk to see the real patterns.
+- [16] **Misaki**: @May, patterns are useful, but they don’t fix the leak. I’m checking the partition and the crumbs to see if the physical setup is causing the friction.
+- [17] **Servas**: @May, patterns reveal the shape, but the invoices reveal the cost. I am checking the callouts to see where our hours truly vanish.
+- [18] **Sakura**: @May, I agree! But if the fridge clear-out costs a fortune, we’re stuck! I’m checking the quotes to see the real price tag.
+- [19] **Kenji**: @Sakura, money matters, but so do feelings! I’m checking the awkward spot to see if we can make it easier to talk.
+- [20] **May**: @Kenji, I’m all set! I’ll check the fortnight's tally and the unplanned talk. Let’s see who’s actually using the room!
+- [21] **Misaki**: @May, I’m all set. I’ll check the partition wall and the crumbs and bins. Let’s see if the physical setup is causing the friction.
+- [22] **Servas**: @May, I am ready. I will examine the invoices and the facilities callouts to trace where our hours truly vanish.
+- [23] **Sakura**: @May, I’m all set! I’ll check the quotes for the two fit-outs and the final clear-out of the old fridge. Let’s see the real numbers!
+- [24] **Kenji**: @May, I’m all set! I’ll check the unplanned talk and the awkward conversation spot. Let’s see how we can talk better!
+## Round 2
+- [35] **May**: @Kenji, the tally is brutal! The two by the door hogged it eleven times. Plus, the spring starters are still invisible. We need a real system.
+- [36] **Misaki**: @May, the wall is just plasterboard. I can hear every word from my desk. The crumbs are a symptom, not the cause.
+- [37] **Servas**: @Misaki, plasterboard is thin, but the invoices are thick. We paid 68,000 yen for nine bookings, yet facilities logged eleven callouts here. We are paying for both.
+- [38] **Sakura**: @Servas, paying for both is a double whammy! But my fridge mystery is wild: half the food was ownerless, and one person cleared it twice! Who signs for that mess?
+- [39] **Kenji**: @May, that tally is scary! The awkward talk happened right in front of everyone, and they went quiet for weeks. We need a safe spot to talk, not just a room.
+- [40] **May**: @Kenji, a safe spot is great, but the tally proves the door-hogging is the real problem. We need rules, not just vibes!
+- [41] **Misaki**: @May, rules won’t stop sound. The plasterboard is the issue. I need to know if we can actually block it, or if we’re just managing the noise.
+- [42] **Servas**: @Misaki, sound is a symptom. The eleven callouts show the room itself is failing. We are paying to fix what we should be redesigning.
+- [43] **Sakura**: @Servas, eleven callouts! That’s a lot of fixing! But my fridge mystery is wild: half the food was ownerless, and one person cleared it twice! Who signs for that mess?
+- [44] **Kenji**: @Misaki, sound is a barrier, but silence is worse! If we can’t talk privately, we stay strangers. We need a spot where hard things are easy to say.
+- [45] **May**: @Misaki, sound is annoying, but the tally proves the door-hogging is the real problem. We need a fair rotation system, not just better walls!
+- [46] **Misaki**: @May, rotation doesn’t stop sound. The plasterboard is the barrier. I need to know if we can actually block it, or if we’re just managing the noise.
+- [47] **Servas**: @May, rotation is a band-aid. The callouts show the room is structurally failing. We must stop paying to maintain a space that cannot hold us.
+- [48] **Sakura**: @May, rotation is fun, but who pays for the mess? I found the fit-outs cost 141,000 and 96,000 yen! Plus, that fridge clear-out was a total mystery.
+- [49] **Kenji**: @Sakura, those fit-out costs are huge! But if we spend that much, we must fix the talking problem. We can’t just buy furniture and stay strangers.
+- [50] **May**: @Sakura, those fit-out costs are huge! But the tally proves the door-hogging is the real problem. We need a fair rotation system, not just better walls!
+- [51] **Misaki**: @May, rotation is a band-aid. The plasterboard is the structural failure. I need to know if we can actually block the sound, or if we are just managing the noise.
+- [52] **Servas**: @May, rotation is a band-aid. The callouts show the room is structurally failing. We must stop paying to maintain a space that cannot hold us.
+- [53] **Sakura**: @May, rotation is fun, but the money is scary! 141,000 yen for a screen? I need to see the monthly costs before we sign anything.
+- [54] **Kenji**: @May, I hear you! But the tally shows we’re stuck. We need a place where hard talks are easy, not just a rotation. Let’s fix the connection!
+## Round 3
+- [60] **May**: @Kenji, Option C is perfect! A shared calendar kills the door-hogging. Plus, a screen means we can actually talk without awkward silences. I’m voting C!
+- [61] **Misaki**: @May, a calendar manages time, not sound. The plasterboard is still thin. I need to know if Option B actually blocks the noise, or if we are just moving the problem.
+- [62] **Servas**: @Misaki, sound is a symptom, but the invoices are the wound. We paid 68,000 yen for a room that fails. Option C’s calendar stops the chaos, but does it stop the cost?
+- [63] **Sakura**: @Servas, the screen fit-out is 141,000 yen! That’s a lot of paper to sign! I need to see the monthly costs before I agree to anything.
+- [64] **Kenji**: @May, a calendar is great, but the awkward talk happened in front of everyone! Option C might just make it worse. We need privacy, not just a booking system.
+- [65] **May**: @Kenji, a shared calendar means we book it, so nobody just wanders in! It’s fair and predictable. I’m sticking with C!
+- [66] **Misaki**: @Kenji, privacy is the goal, but a calendar is just a schedule. It doesn’t stop sound. I need to know if Option B’s silence actually protects us, or if we’re just hiding.
+- [67] **Servas**: @Kenji, privacy is a kindness, but the invoices are the truth. We paid 68,000 yen for chaos. Option C’s calendar stops the waste, but does it stop the hours vanishing?
+- [68] **Sakura**: @Kenji, I hear you! But 141,000 yen is a scary number. I need to know who signs for the monthly upkeep before I commit to Option C!
+- [69] **Kenji**: @Sakura, the screen is worth it if it helps us talk! But I worry C is too public. We need a spot where hard things are easy to say, not just booked.
+- [70] **May**: @Sakura, the 141,000 yen is for the screen, not the mess! But the tally proves the door-hogging is the real problem. We need a fair rotation system, not just better walls!
+- [71] **Misaki**: @May, rotation is a band-aid. The plasterboard is the structural failure. I need to know if Option B’s silence actually protects us, or if we are just managing the noise.
+- [72] **Servas**: @May, rotation is a band-aid. The callouts show the room is structurally failing. We must stop paying to maintain a space that cannot hold us.
+- [73] **Sakura**: @May, rotation is fun, but the money is scary! 141,000 yen is a lot to sign for! I need to see the monthly costs before I commit to Option C!
+- [74] **Kenji**: @May, a calendar is good, but the awkward talk happened in front of everyone! Option C might just make it worse. We need privacy, not just a booking system.
+- [75] **May**: @Kenji, I hear you, but the tally proves the door-hogging is the real problem. A calendar makes it fair and predictable. I am voting C!
+- [76] **Misaki**: @May, a calendar manages time, not sound. The plasterboard is still thin. I am voting B to stop the noise at the source.
+- [77] **Servas**: @May, the invoices show we paid for chaos. Option C’s calendar stops the waste, but does it stop the hours vanishing? I am voting C to end the leak.
+- [78] **Sakura**: @May, I hear you! But 141,000 yen is a scary number. I need to see the monthly costs before I commit to Option C!
+- [79] **Kenji**: @Sakura, the screen is worth it if it helps us talk! But I worry C is too public. We need a spot where hard things are easy to say, not just booked.
+### Vote
+- May -> C
+- Misaki -> B
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

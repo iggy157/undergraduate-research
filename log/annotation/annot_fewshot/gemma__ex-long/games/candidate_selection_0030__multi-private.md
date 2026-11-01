@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I am very happy to be here with you. I want to learn how we pick the best project, so I will look into the staffing of the coordination group and the in-house developer availability.
+- [6] **Jonathan**: It is a pleasure to meet you all. To ensure we are grounded in reality, I would like to examine the network coverage at customer plants and the outcomes of the last three internal rollouts.
+- [7] **George**: It is a pleasure to be with you all. To ensure we are not blindsided by future costs, I shall examine the capital budget and software allowance, as well as vendor licence pricing versus fixed-fee work.
+- [8] **May**: Hi everyone! I'm so excited to be part of this. To make sure we aren't just repeating old mistakes, I'll look into the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts!
+- [9] **Midori**: Thank you, everyone. I am very happy to be here with you all. To understand the daily challenges our teams face, I would like to look into the misrouted deliveries in the incident logs and the time lost to copying existing records.
+- [10] **Minato**: It is very interesting to see what everyone is looking for. I think we are all being very thorough. I am looking forward to hearing what you all discover!
+- [11] **Jonathan**: I agree, Minato. A thorough investigation is the only way to find a path that is truly sustainable. I wish you all a peaceful and productive search for the truth.
+- [12] **George**: I agree. It is better to be cautious now than to face surprises later. I believe our combined findings will provide the clarity we need to make a responsible decision.
+- [13] **May**: You guys are so serious! Let's keep it light while we dig through the archives. I have a feeling we're going to find some juicy details that'll make our decision way easier. Can't wait!
+- [14] **Midori**: I agree, May! It is wonderful to have such a positive energy here. I hope the information we find helps us support the people on the floor and make a truly helpful choice.
+- [15] **Minato**: I agree with Midori. It would be very nice if we could find a project that makes everyone's day a little easier. I hope we can all be kind to each other while we decide.
+- [16] **Jonathan**: Kindness is a virtue that makes any collaboration more fruitful. I believe that if we approach our findings with an open heart and a calm mind, the right choice will reveal itself.
+- [17] **George**: I agree. While a calm mind is essential, we must also maintain a steady eye on the practicalities. I look forward to seeing if the numbers align with our ambitions.
+- [18] **May**: @George, you're such a realist! But a little bit of intuition goes a long way, doesn't it? I'm sure the numbers will behave themselves if we're charming enough. Let's see what the records have to say!
+- [19] **Midori**: @May, you always have such a wonderful way of looking at things! I think a mix of intuition and data is a lovely balance. I'm looking forward to seeing what we all find.
+- [20] **Minato**: I think we have a very good plan. I am ready to see what the records tell us now. I hope everyone has a wonderful time discovering new things!
+- [22] **Jonathan**: I concur. Let us move forward in silence and reflection. I look forward to our next meeting and the insights we shall share.
+- [24] **George**: I agree. We have a comprehensive set of inquiries. I shall now step back and examine the financial records to ensure we are standing on solid ground. I am ready.
+- [26] **May**: I'm all set too! I'll go see if the past has any secrets to tell us. Good luck with your digging, everyone! See you in the next round!
+- [28] **Midori**: I am also ready. I hope the records show us where the real struggles are so we can find a project that truly helps our colleagues. I look forward to seeing you all soon!
+## Round 2
+- [40] **Minato**: I found some things that make me a little sad. The coordination group is very small now, and two people are doing so much work by hand. Also, our developers are very busy until later this year.
+- [41] **Jonathan**: My findings are equally sobering. I discovered that network coverage at customer plants is highly unstable, and getting device approval is a slow, arduous process. It seems the external environment is far more volatile than we assume.
+- [42] **George**: My findings are concerning. The capital budget is frozen, meaning we cannot afford new infrastructure. Furthermore, per-head licensing costs will only increase as we scale, making recurring expenses a significant long-term risk.
+- [43] **May**: My findings are a bit of a wake-up call! It turns out that big, ambitious projects requiring everyone's daily input just vanish, while small, specialized tools actually survive. Also, most "standardization" efforts just end up ownerless.
+- [44] **Midori**: I also found some things that are quite worrying. Our teams are losing nearly an hour every day just copying records that already exist, and we've had several misrouted deliveries because different units have different addresses for the same firm.
+- [45] **Minato**: @Midori, that sounds so tiring for the teams. It makes me worry that if we pick a big project, the people who are already working so hard by hand will have to do even more.
+- [46] **Jonathan**: @Minato, your concern is well-placed. When we combine that with the fact that our developers are overstretched, any project requiring heavy manual input or complex setup risks becoming a burden rather than a benefit.
+- [47] **George**: @Jonathan, I agree. But we must also consider the financial burden. If we choose a project with per-head licensing, we are simply deferring a cost that will grow and haunt us in next year's budget.
+- [48] **May**: @George, you're always thinking about the bill! But look at the bigger picture: if we pick something too "grand" that requires everyone to participate, it'll just vanish like the others. We need something lean and specialized!
+- [49] **Midori**: @May, I think you're right about keeping it lean. When I see people losing an hour a day to copying records, it feels like we should prioritize fixing those small, painful frictions over something grand that might just disappear.
+- [50] **Minato**: I agree with Midori. It would be so kind to help the people who are tired. I am worried that if we don't think about who does the work, some people will be too sad and exhausted.
+- [51] **Jonathan**: @Minato, your kindness is a guiding light. I believe we must also be mindful of the technical groundwork. If a project depends on unstable networks or slow approvals at customer sites, it will only lead to frustration and broken promises.
+- [52] **George**: @Jonathan, I agree that technical stability is key. However, we must be equally mindful of the financial structure. A project that seems lean now but relies on per-head licensing will eventually become an unsustainable drain on our resources.
+- [53] **May**: @George, you're such a buzzkill with the budget! But honestly, if we pick a project that's too broad, it won't even last long enough for those licenses to become a problem. Let's find something small and punchy that actually sticks!
+- [54] **Midori**: @May, I love your energy! But I think we can find a balance. If we pick a small, punchy project that specifically fixes those daily losses—like the record copying—we can be lean and truly helpful at the same time.
+- [55] **Minato**: I think Midori has a very lovely idea. If we can find a project that is small and helps the tired people without needing the busy developers, that would be the most peaceful choice for everyone.
+- [56] **Jonathan**: I agree. A project that respects our current constraints—both human and technical—will bring the most peace. We must avoid any proposal that assumes a perfect environment or an infinite supply of labor.
+- [57] **George**: I concur. However, we must also ensure the project respects our financial constraints. A solution that avoids the frozen capital budget and avoids escalating per-head licenses is the only way to ensure it remains sustainable.
+- [58] **May**: You guys are practically writing the checklist for me! No big dreams, no budget nightmares, and definitely nothing that needs a crowd to work. Let's just find the one that's actually realistic!
+- [59] **Midori**: I agree! Let's look for a candidate that solves those real, everyday frustrations without adding more stress to our colleagues' lives. I'm excited to see which proposal fits this balance best!
+## Round 3
+- [65] **Minato**: Looking at the options, the Supplier Data Hub seems very kind. It could help Midori's friends who are tired of copying records, and it doesn't seem to need the busy developers as much as an app.
+- [66] **Jonathan**: I agree that the Supplier Data Hub is a gentle solution. Unlike the Field Service App, it does not rely on the unstable network coverage or the slow device approvals at customer plants that I discovered.
+- [67] **George**: The Supplier Data Hub is a pragmatic choice. It avoids the need for new infrastructure, which is essential given our frozen capital budget, and it addresses the operational frictions Midori mentioned without requiring a massive rollout.
+- [68] **May**: @Minato, @Jonathan, @George, you're all on the same page! The Supplier Data Hub is perfect because it's a specialized tool, not a "everyone must use it daily" nightmare. It's exactly the kind of lean project that actually survives!
+- [69] **Midori**: I completely agree! The Supplier Data Hub is such a wonderful fit. It directly solves the problem of misrouted deliveries and the exhausting daily record copying I found, all while staying lean and realistic. I vote for the Supplier Data Hub.
+- [70] **Minato**: I feel very happy that we all agree. The Supplier Data Hub is a gentle choice that helps the tired people without making the busy developers more stressed. I would like to vote for the Supplier Data Hub too.
+- [71] **Jonathan**: It is a rare and beautiful thing to find such harmony in our deliberation. The Supplier Data Hub respects the reality of our external constraints and the limits of our people. I vote for the Supplier Data Hub.
+- [72] **George**: I agree. The Supplier Data Hub is the only option that aligns with our financial reality. It avoids the capital budget freeze and, as a central repository, is less likely to trigger the escalating per-head license costs of a wider rollout. I vote for the Supplier Data Hub.
+- [73] **May**: I'm totally in! It's the only one that doesn't look like a recipe for disaster. No grand delusions, no budget traps, and it actually solves a problem. I vote for the Supplier Data Hub!
+- [74] **Midori**: It is such a relief to find a project that we all feel so confident about. By choosing the Supplier Data Hub, we are truly listening to the people on the floor. I cast my final vote for the Supplier Data Hub.
+- [75] **Minato**: I am so glad we could all be so kind and thoughtful together. It makes me feel very peaceful to know we are helping our colleagues. I cast my final vote for the Supplier Data Hub.
+- [76] **Jonathan**: I am at peace with this conclusion. We have navigated the risks of technical instability and human exhaustion to find a path of stability. I cast my final vote for the Supplier Data Hub.
+- [77] **George**: I am satisfied that we have reached a consensus based on practical constraints. The Supplier Data Hub is the only choice that respects our financial boundaries and operational limits. I cast my final vote for the Supplier Data Hub.
+- [78] **May**: This was way too easy! We actually found the one project that won't just vanish into thin air after six months. I'm happy to go with the flow. I cast my final vote for the Supplier Data Hub!
+- [79] **Midori**: It has been a pleasure working with all of you. I am so happy we could find a solution that balances our needs and truly supports our colleagues. I cast my final vote for the Supplier Data Hub.
+- [80] **Minato**: Thank you everyone for being so gentle and understanding. I am very happy that we found a way to help our friends at work. Goodbye!
+- [81] **Jonathan**: It has been a privilege to share this space of reflection with you all. May our decision bring a sense of ease and order to those it serves. Farewell.
+- [82] **George**: It has been a productive session. By grounding our decision in financial and operational reality, we have avoided the pitfalls of future surprises. I wish the project every success. Farewell.
+- [83] **May**: You guys were actually a breeze to work with! I'm just glad we picked the one that'll actually stick around. Thanks for the fun chat, everyone! Bye-bye!
+- [84] **Midori**: Thank you all for your kindness and for listening so carefully to the needs of our teams. I am leaving this meeting with a very warm heart. Goodbye, everyone!
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

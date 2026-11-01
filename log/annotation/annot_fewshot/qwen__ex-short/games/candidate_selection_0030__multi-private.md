@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I am a little worried about who will actually do the extra work.
+- [6] **Jonathan**: I worry about promising dates when we cannot control access at customer sites.
+- [7] **George**: I am concerned about where the money actually comes from. The budget line matters more than the idea.
+- [8] **May**: I am curious why we keep picking the same types of projects. The history is right there, waiting to be read.
+- [9] **Midori**: I keep seeing us judge ideas by how impressive they sound, not by the small daily losses on the floor.
+- [10] **Minato**: I wonder if we check who is already busy before adding more tasks.
+- [11] **Jonathan**: @Minato, that is a fair point. I am also checking the in-house developer availability to see who is actually free.
+- [12] **George**: @Jonathan, I will look into the capital budget and software allowance. I need to know the real source of funds.
+- [13] **May**: @George, the budget is vital, but I need to see the outcomes of the last three internal rollouts. I want to know what actually survived.
+- [14] **Midori**: @May, I agree. I will look into the time lost to copying existing records. That daily friction is often ignored.
+- [15] **Minato**: I will look into the staffing of the coordination group. I want to see if the rota is already full.
+- [16] **Jonathan**: I will check the network coverage at customer plants. If the signal is weak, our timelines are fiction.
+- [17] **George**: I will also check the vendor licence pricing versus fixed-fee work. I need to see if the renewal costs are hidden in the initial quote.
+- [18] **May**: I will also check the record of cross-unit standardization efforts. I want to see if we actually share the lessons learned or just repeat them.
+- [19] **Midori**: I will also check the misrouted deliveries in the incident logs. I want to see the real weekly friction on the floor.
+- [20] **Minato**: I hope the coordination group is not already stretched too thin. I will see what the records say.
+- [21] **Jonathan**: I will see if the signal holds up under real load. Quiet confidence is not the same as readiness.
+- [22] **George**: I will see if the renewal notice matches the initial quote. The real bill often arrives later.
+- [23] **May**: I will see if the pattern holds. If we keep repeating the same mistakes, the history is screaming at us.
+- [24] **Midori**: I will see if the logs show a pattern. Small daily losses add up to real pain.
+## Round 2
+- [35] **Minato**: I found the coordination group is very thin. Only two people write all the notes by hand.
+- [36] **Jonathan**: The network data is sobering. Half the sites lose signal for afternoons, and visitor approval took six weeks. That is a major risk.
+- [37] **George**: The capital line is frozen, but the software allowance has room. However, per-head licences climb with every department added.
+- [38] **May**: The pattern is clear. Broad, daily-entry tools get abandoned. Narrow, trade-specific ones survive. We keep ignoring that.
+- [39] **Midori**: The logs show eleven misrouted deliveries, all from duplicate addresses. Plus, we lose an hour daily just copying records. That is real, daily friction.
+- [40] **Minato**: @Jonathan, if the developers are busy until the third quarter, who will actually build the new tools?
+- [41] **Jonathan**: @Minato, that is the crux. The integrator left no documentation, so we are starting from zero. I will check the developer availability to confirm the gap.
+- [42] **George**: @May, that aligns with my findings. Per-head licences punish broad adoption. We must avoid tools that scale with headcount.
+- [43] **May**: @George, exactly. The data proves broad tools die. We need something narrow and specific, not another bloated platform.
+- [44] **Midori**: @Minato, the daily copying loss is a symptom of that thin staffing. We need to fix the root cause, not just add more hands.
+- [45] **Minato**: @Midori, I agree. The two people are already overwhelmed. Adding more tasks will just break the rota further.
+- [46] **Jonathan**: @George, the frozen capital line is a hard constraint. We cannot rely on new hardware. We must work within the existing software allowance.
+- [47] **George**: @Jonathan, precisely. The capital freeze means we must live within the recurring software allowance. I will not sign off on anything requiring new hardware.
+- [48] **May**: @Minato, that thin staffing explains why broad tools fail. If no one owns the daily entry, it dies. We need a narrow tool that one person can maintain.
+- [49] **Midori**: @May, that is a wise insight. A narrow tool fits the daily rhythm better. I will look for something that reduces that copying burden without adding complexity.
+- [50] **Minato**: I am a little quiet now. I just want to make sure we do not add more weight to those two people.
+- [51] **Jonathan**: I am glad we are aligning on the constraints. The quiet reality is that we cannot build what we cannot access.
+- [52] **George**: I am satisfied with the financial picture. The recurring allowance is our only safe harbor. Let us see which candidates fit that reality.
+- [53] **May**: I am ready to see the candidates. The history is clear; now we just need to pick the one that respects it.
+- [54] **Midori**: I am ready to see the candidates. I want to find the one that eases the daily friction without adding more weight to the team.
+## Round 3
+- [60] **Minato**: I am a little worried about A. It sounds like it would add more drafting work for the two people already writing notes by hand.
+- [61] **Jonathan**: @Minato, A is a shared tool. It might actually reduce the manual drafting burden for those two, rather than adding to it.
+- [62] **George**: @Jonathan, I am not convinced. A shared tool across departments implies per-head licensing. That climbs with every user. I need to see the pricing model.
+- [63] **May**: @George, the history is clear. Broad, shared tools get abandoned because no one owns them. A is exactly the kind of bloated platform that dies in year one.
+- [64] **Midori**: @May, I agree. A is too broad. But C directly targets the duplicate address problem I found. It could stop those misrouted deliveries.
+- [65] **Minato**: @Midori, that sounds helpful, but will it make the two people in the coordination group do even more checking?
+- [66] **Jonathan**: @Minato, C centralizes the data, so it should reduce the manual checking burden rather than add to it.
+- [67] **George**: @Jonathan, centralizing records sounds efficient, but I worry about the hidden renewal costs. Is this a fixed-fee build, or does it scale with every unit added?
+- [68] **May**: @George, C is a repository, not a daily-entry tool. It fits the narrow, specific pattern that survives. A is the one that dies.
+- [69] **Midori**: @George, C is a one-time consolidation, not a per-head licence. It fixes the root cause of the misrouted deliveries without adding recurring costs.
+- [70] **Minato**: @Jonathan, I am still a little unsure. If the developers are busy, who will build C? I do not want to add more work to the coordination group.
+- [71] **Jonathan**: @Minato, that is the critical gap. The developers are tied up until the third quarter, and the integrator left no documentation. Building C now is impossible.
+- [72] **George**: @Jonathan, if we cannot build it now, the capital freeze makes it irrelevant. We must pick something that fits the existing software allowance without new hardware.
+- [73] **May**: @Minato, the history is on our side. C is a specific fix, not a broad platform. It fits the narrow pattern that actually survives.
+- [74] **Midori**: @Minato, I understand your worry. But C removes the daily copying burden. It is a fix, not a new task. It respects the team's limits.
+- [75] **Minato**: I am still a little quiet. I just want to be sure C does not become another heavy thing for the two people to carry.
+- [76] **Jonathan**: @Minato, I understand. But C is a one-time consolidation. It removes the daily copying burden. It is a fix, not a new task.
+- [77] **George**: I am satisfied. C fits the recurring allowance without the per-head trap. The renewal risk is contained. I am ready to vote.
+- [78] **May**: I am ready to vote. The data is undeniable. We must choose the narrow tool that respects our history and avoids the broad platform trap.
+- [79] **Midori**: I am ready to vote. C addresses the daily friction I see on the floor. It is the practical choice that respects our limits.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

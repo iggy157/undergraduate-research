@@ -1,0 +1,73 @@
+# shared_living_0024__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost before we say yes. No surprises!
+- [6] **Shunichi**: I am tired of losing days to travel. Let us look at the time.
+- [7] **Asuka**: We need a clear rule on who pays for what. No ambiguity.
+- [8] **Takumi**: I need to know about the bathroom and the food times.
+- [9] **Toshio**: I want to understand why we felt alone last time.
+- [10] **Rin**: @Shunichi, if we pick the island, is the ferry fast?
+- [11] **Shunichi**: @Rin, I will check the ferry times. It matters to me.
+- [12] **Asuka**: @Takumi, the bathroom situation is critical for your sleep.
+- [13] **Takumi**: @Asuka, yes. And where I can sit without a bed.
+- [14] **Toshio**: @Rin, knowing the price helps me decide if it is worth it.
+- [15] **Rin**: I will look at the house prices and the ferry times.
+- [16] **Shunichi**: I will check the ferry and the train times to compare.
+- [17] **Asuka**: I will look at the all-in rates and the separate room costs.
+- [18] **Takumi**: I will check the bathing hours and the inn mealtimes.
+- [19] **Toshio**: I will look at the time alone and how last year ran.
+- [20] **Rin**: Okay, let us see what we find. I hope it is cheap!
+- [21] **Shunichi**: Let us be efficient. I do not want to waste time.
+- [22] **Asuka**: Agreed. Clarity is the only way to avoid conflict.
+- [23] **Takumi**: I just want a good week. Let us see the details.
+- [24] **Toshio**: I will wait for the information. It will guide my choice.
+## Round 2
+- [35] **Rin**: The island house is 5,400 yen a head a night! That is great!
+- [36] **Shunichi**: The ferry takes two days. The train is only ninety minutes.
+- [37] **Asuka**: Renting a whole house means one bill. No one is out of pocket.
+- [38] **Takumi**: The island has one bathroom for everyone. The water runs cold.
+- [39] **Toshio**: Last year we were apart. A shared house means no private space.
+- [40] **Rin**: @Shunichi, two days is too long. I want to play, not travel.
+- [41] **Shunichi**: @Rin, the train is faster. But the city has no shared space.
+- [42] **Asuka**: @Takumi, one bathroom is a problem. But the cost is fair.
+- [43] **Takumi**: @Asuka, I can handle it. But the cold water is bad.
+- [44] **Toshio**: @Rin, if we go to the city, we might not see each other.
+- [45] **Rin**: I like the island price. But the travel time is scary.
+- [46] **Shunichi**: The spa town is a good middle ground. Fast train, good food.
+- [47] **Asuka**: The spa town has all-in rates. That is fair for everyone.
+- [48] **Takumi**: The spa town has fixed meal times. I might like that.
+- [49] **Toshio**: The spa town has streets. I can have time alone there.
+- [50] **Rin**: I am leaning towards the spa town. It is fast and fair.
+- [51] **Shunichi**: I agree. The train is efficient. I do not mind the inn.
+- [52] **Asuka**: The all-in rate solves the payment issue. I support it.
+- [53] **Takumi**: The fixed times are okay. I can sleep well if the bath is good.
+- [54] **Toshio**: The spa town offers balance. I will vote for it.
+## Round 3
+- [60] **Rin**: Option B looks best. Fast train and fair prices.
+- [61] **Shunichi**: Option B is the most efficient. I am in.
+- [62] **Asuka**: Option B has the clearest financial structure. I agree.
+- [63] **Takumi**: Option B has a bath. I can sleep. I am in.
+- [64] **Toshio**: Option B allows for both togetherness and solitude. I agree.
+- [65] **Rin**: @Shunichi, are you sure the train is not too crowded?
+- [66] **Shunichi**: @Rin, it is fine. I prefer it to the ferry.
+- [67] **Asuka**: @Takumi, the bath hours are long. You will be okay.
+- [68] **Takumi**: @Asuka, yes. I can go early or late.
+- [69] **Toshio**: @Rin, the city option is too isolating. B is better.
+- [70] **Rin**: I am happy with B. Let us go to the hot springs!
+- [71] **Shunichi**: B is the rational choice. I support it.
+- [72] **Asuka**: B is the fair choice. I support it.
+- [73] **Takumi**: B is the comfortable choice. I support it.
+- [74] **Toshio**: B is the balanced choice. I support it.
+- [75] **Rin**: Everyone seems to agree. Let us vote for B.
+- [76] **Shunichi**: Agreed. Let us finalize this.
+- [77] **Asuka**: Agreed. No further discussion needed.
+- [78] **Takumi**: Agreed. I am ready to go.
+- [79] **Toshio**: Agreed. Let us proceed.
+### Vote
+- Rin -> B
+- Shunichi -> B
+- Asuka -> B
+- Takumi -> B
+- Toshio -> B
+## Result
+- adopted: B

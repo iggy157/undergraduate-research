@@ -1,0 +1,73 @@
+# shared_living_0029__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: The informal split is failing. I need to understand the actual costs before we agree to anything.
+- [6] **Benjamin**: Minako, costs are just the surface. I’m curious about the social friction. How do we stop the car from becoming a wedge between us?
+- [7] **Asuka**: I need to verify the physical condition of the vehicle. I will examine the state of the car at handover and the mechanic's remarks at the last service.
+- [8] **Shion**: I need the raw data. I will examine last year's fuel receipts and the hours of use recorded in the diary.
+- [9] **Daisuke**: I’m worried about the time we spend untangling who owes what. I’ll check the spell of checking each other's figures and the month's trial of recording every run.
+- [10] **Minako**: @Benjamin, social friction is real, but it stems from unclear costs. I will examine last year's tax, insurance and parking papers and the weeks of heavy use over the year.
+- [11] **Benjamin**: @Minako, I appreciate the focus on numbers. I’ll examine what two other car-sharing households said and the trips that repeat weekly to understand the social dynamics.
+- [12] **Asuka**: @Shion, raw data is useless without context. I will examine the state of the car at handover and the mechanic's remarks at the last service.
+- [13] **Shion**: @Asuka, context is just noise without the numbers. I need the receipts and the diary to see who actually drives.
+- [14] **Daisuke**: @Shion, I understand the need for numbers. I’m just trying to see if the recording trial actually saves us time or just adds more work.
+- [15] **Minako**: @Daisuke, I agree. The recording trial is crucial for fairness. I will examine last year's tax, insurance and parking papers and the weeks of heavy use over the year.
+- [16] **Benjamin**: @Daisuke, I suspect the recording trial just formalizes the suspicion. I’ll stick with the other households’ experiences and the weekly trips to see where the friction actually lives.
+- [17] **Asuka**: @Benjamin, social dynamics are secondary to mechanical reliability. If the car is unsafe, no amount of politeness fixes it. I will examine the state of the car at handover and the mechanic's remarks at the last service.
+- [18] **Shion**: @Benjamin, other households are irrelevant. I need our specific data. I will examine last year's fuel receipts and the hours of use recorded in the diary.
+- [19] **Daisuke**: @Benjamin, I worry the trial just adds more work. I’ll check the spell of checking figures and the month's trial of recording every run.
+- [20] **Minako**: I will examine last year's tax, insurance and parking papers and the weeks of heavy use over the year. Let’s see the true burden.
+- [21] **Benjamin**: I will examine what two other car-sharing households said and the trips that repeat weekly. Let’s see where the friction actually lives.
+- [22] **Asuka**: I will examine the state of the car at handover and the mechanic's remarks at the last service. Reliability is non-negotiable.
+- [23] **Shion**: I will examine last year's fuel receipts and the hours of use recorded in the diary. The numbers will tell the truth.
+- [24] **Daisuke**: I’ll check the spell of checking each other's figures and the month's trial of recording every run. I need to see if it actually saves time.
+## Round 2
+- [35] **Minako**: The fixed costs are 280,000 yen, but the heavy use weeks reveal the real friction. We need a system that accounts for those bursts.
+- [36] **Benjamin**: @Minako, the other households confirm it: asking favours sours the bond. Our weekly trips are the real trouble. We need to protect those slots.
+- [37] **Asuka**: @Shion, the mechanic confirmed short cold runs destroy the brakes and battery. Your diary data must show if we are doing this constantly.
+- [38] **Shion**: @Asuka, the receipts show two of us bought over half the fuel. The diary proves Saturdays are triple Tuesdays. The imbalance is undeniable.
+- [39] **Daisuke**: @Shion, the trial took an hour a week just to check figures. That’s the real cost. I need to know if we can stop the accusations.
+- [40] **Minako**: @Shion, that imbalance is exactly what I suspected. The fixed costs are shared, but the fuel burden is not. We need a formula that reflects actual usage, not just equal shares.
+- [41] **Benjamin**: @Daisuke, the other households found that asking favours is the poison. If we lock in the weekly trips, we stop asking. That saves the relationship, not just the time.
+- [42] **Asuka**: @Benjamin, locking trips is irrelevant if the car is unreliable. The mechanic’s warning about cold starts means we need a protocol for vehicle condition, not just schedules.
+- [43] **Shion**: @Benjamin, locking trips is a band-aid. The receipts prove the fuel burden is lopsided. We need a formula based on actual litres, not social convenience.
+- [44] **Daisuke**: @Benjamin, I agree. If we stop asking favours, we stop the accusations. I just need a system that doesn’t take an hour a week to manage.
+- [45] **Minako**: @Asuka, the mechanic’s warning is critical. If the car degrades, the 280,000 yen fixed cost becomes a liability. We need a maintenance protocol, not just a schedule.
+- [46] **Benjamin**: @Asuka, I hear you on reliability. But the other households proved that unspoken expectations sour the bond. We need a schedule that removes the need to ask, not just a mechanic’s checklist.
+- [47] **Asuka**: @Minako, I agree. The mechanic’s warning is critical. If the car degrades, the 280,000 yen fixed cost becomes a liability. We need a maintenance protocol, not just a schedule.
+- [48] **Shion**: @Minako, the 280,000 yen is a sunk cost. The receipts show who actually drives. We need a formula based on litres, not just fixed shares.
+- [49] **Daisuke**: @Shion, I agree the fuel is lopsided. But if the checking takes an hour a week, the system fails. We need something simpler that stops the accusations.
+- [50] **Minako**: @Daisuke, simplicity is key. If the system takes an hour a week, it fails. We need a formula that reflects actual usage without the administrative burden.
+- [51] **Benjamin**: @Daisuke, I agree. The other households proved that unspoken expectations sour the bond. We need a schedule that removes the need to ask, not just a mechanic’s checklist.
+- [52] **Asuka**: @Daisuke, simplicity is necessary, but not sufficient. If the car is returned with the fuel light on, no formula fixes the morning panic. We need a condition standard.
+- [53] **Shion**: @Daisuke, an hour a week is acceptable if it ends the guessing. The receipts prove the current chaos is worse. I need the data to be precise.
+- [54] **Daisuke**: @Shion, an hour a week is too much. I can’t keep doing that. I just want to stop the accusations without the paperwork.
+## Round 3
+- [60] **Minako**: @Shion, the receipts prove the current chaos is unsustainable. Option B’s distance-based split is the only formula that reflects actual usage without the administrative burden.
+- [61] **Benjamin**: @Minako, Option B’s distance tracking is exactly the "checking figures" trap Daisuke fears. It formalizes the suspicion. I need a system that removes the need to ask, not just measure.
+- [62] **Asuka**: @Benjamin, Option C is the only viable choice. A primary keeper ensures the car is ready and maintained, eliminating the morning panic of finding it unreliable.
+- [63] **Shion**: @Asuka, Option C is a trap. It hides the lopsided fuel burden behind one person’s generosity. I need the distance data from Option B to prove the imbalance.
+- [64] **Daisuke**: @Benjamin, I agree. Option B feels like more paperwork. I’m scared of the checking. Option A’s fixed days might just let us stop asking.
+- [65] **Minako**: @Benjamin, distance tracking is not suspicion; it is accountability. Option A ignores the heavy use weeks entirely. I need a system that reflects reality, not just convenience.
+- [66] **Benjamin**: @Minako, accountability without trust is just surveillance. Option A’s fixed days remove the need to ask, which is the real poison. Let’s stop measuring and start protecting.
+- [67] **Asuka**: @Minako, accountability is irrelevant if the car is broken. Option C guarantees a keeper who maintains the vehicle. I reject B’s distance tracking as a distraction from mechanical reliability.
+- [68] **Shion**: @Minako, accountability is just a polite word for suspicion. Option B forces us to log every kilometre, which is the exact administrative nightmare Daisuke fears. I reject it.
+- [69] **Daisuke**: @Shion, I agree. Option B is too much work. I’m scared of the checking. Option A’s fixed days might just let us stop asking.
+- [70] **Minako**: @Shion, I hear your fear of surveillance. But Option A’s fixed days ignore the heavy use weeks I found. We need flexibility for those bursts, not rigid slots.
+- [71] **Benjamin**: @Minako, flexibility is just another word for asking. Option A’s fixed days mean I never have to request a favour. That is the only way to save our friendship.
+- [72] **Asuka**: @Minako, flexibility is a luxury I cannot afford. If the car is not ready, my morning collapses. Option C ensures a keeper maintains it. I vote C.
+- [73] **Shion**: @Minako, flexibility is just chaos with a better name. Option A’s fixed days are a trap for the heavy users. I need the precision of Option B to expose the true cost.
+- [74] **Daisuke**: @Minako, I’m sorry, but I can’t do the tracking. Option A’s fixed days feel safest. I just want to stop the accusations without the paperwork.
+- [75] **Minako**: @Daisuke, I understand the fear. But Option A ignores the heavy use weeks. Option B’s distance split is the only fair formula. I am voting B.
+- [76] **Benjamin**: @Minako, I understand the need for fairness. But Option A’s fixed days remove the need to ask, which is the real poison. I am voting A to protect our bond.
+- [77] **Asuka**: @Minako, I stand by my vote for C. A dedicated keeper is the only way to guarantee the car is mechanically sound and ready for my morning. I am voting C.
+- [78] **Shion**: @Minako, I reject B’s surveillance. Option A’s fixed days are a trap for the heavy users. I am voting A to stop the guessing.
+- [79] **Daisuke**: @Minako, I’m sorry, but I can’t do the tracking. Option A’s fixed days feel safest. I just want to stop the accusations without the paperwork. I am voting A.
+### Vote
+- Minako -> B
+- Benjamin -> A
+- Asuka -> C
+- Shion -> A
+- Daisuke -> A
+## Result
+- adopted: A

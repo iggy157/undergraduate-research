@@ -1,0 +1,73 @@
+# candidate_selection_0012__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to understand the reporting burden before committing. I’ll look into appraisal needs and independent checks on holdings' reported figures.
+- [6] **Jonathan**: I’m concerned about the talent drain. I’ll check retained recruiters' placement times and the adviser bench and partner board seats.
+- [7] **Shizue**: I’d like to see how our past investments actually held up. I’ll look into account retention through price rises and the profile of the exits and the write-off.
+- [8] **Misaki**: I need to know what the years after a first round demand of us. I’ll look into reserve accounts and follow-on calls, and the terms of last winter's credit line.
+- [9] **Shion**: I want to know what actually delays a first customer. I’ll check security review time before first deployment and delivery records of two holdings.
+- [10] **Mizuki**: @Shion, your focus on deployment delays is critical. If we can't verify the numbers, we're flying blind.
+- [11] **Jonathan**: @Mizuki, agreed. But if we can’t find the people to run it, the numbers are moot.
+- [12] **Shizue**: @Jonathan, that is a fair point. I am hoping to see which of our past stories actually held up against the returns.
+- [13] **Misaki**: @Mizuki, verifying the numbers is essential. But I need to know if we can actually afford the follow-on calls when they arrive.
+- [14] **Shion**: @Misaki, affordability is secondary if the product never ships. I’m tracking the external bottlenecks that stall first deployments.
+- [15] **Mizuki**: @Shion, shipping is vital, but if the data is opaque, we can't manage risk. I need to see what we can actually verify ourselves.
+- [16] **Jonathan**: @Mizuki, I hear you. But without the right people, even verifiable data is just noise. I’m checking who we can actually hire right now.
+- [17] **Shizue**: @Mizuki, I agree. Knowing what we can verify is vital. I am looking to see which of our past stories actually held up against the returns.
+- [18] **Misaki**: @Shion, I hear you. But if the product ships and we cannot fund the next step, the delay was for nothing.
+- [19] **Shion**: @Misaki, funding is a choice, not a constraint. I am isolating the specific external friction that prevents the first switch from flipping.
+- [20] **Mizuki**: @Shion, I respect the focus. But without independent verification, we are just guessing. I will proceed with my checks.
+- [21] **Jonathan**: @Mizuki, understood. I will proceed with my checks on the talent pipeline.
+- [22] **Shizue**: @Mizuki, I agree. I will proceed with my checks on our past performance.
+- [23] **Misaki**: @Shion, I understand your focus. I will proceed with my checks on our financial capacity.
+- [24] **Shion**: @Mizuki, verification is a luxury. I am isolating the specific external friction that prevents the first switch from flipping.
+## Round 2
+- [35] **Mizuki**: My checks confirm hardware holdings offer verifiable data, while software relies on self-reported dashboards. This directly impacts our quarter-end reporting integrity.
+- [36] **Jonathan**: My findings show recruiters fill support roles quickly, but shift supervisors take months. We have idle logistics advisers, yet software partners hold eleven board seats.
+- [37] **Shizue**: My findings show our profitable exits were quiet financial tools, while the write-off ran physical premises. I am curious which candidate fits that safer pattern.
+- [38] **Misaki**: My reserve data shows equipment-heavy holdings drain cash twice as fast. Worse, our credit line ignores subscription contracts. We need a model that doesn’t bleed us dry.
+- [39] **Shion**: @Mizuki, your verification point is valid. My data shows medical records trigger three-quarter security reviews, while bank tools ship instantly. I am isolating that specific external friction.
+- [40] **Mizuki**: @Shion, that three-quarter delay is unacceptable. It confirms my fear: opaque software stalls us. We need verifiable data to protect our reporting integrity.
+- [41] **Jonathan**: @Shion, that delay is real. But my data shows we lack the people to run physical operations. We have idle logistics advisers, yet no one to place shift supervisors.
+- [42] **Shizue**: @Jonathan, that is a sharp observation. The write-off ran physical premises, yet our exits were quiet software. I am looking for a candidate that fits that safer, verifiable pattern.
+- [43] **Misaki**: @Shion, your delay is real, but my credit line ignores subscriptions. If we pick a hardware-heavy model, we bleed cash twice as fast. We need a sustainable cash flow.
+- [44] **Shion**: @Misaki, cash flow is a choice, not a constraint. My data shows bank tools ship instantly, while medical records stall for three quarters. I am isolating that specific external friction.
+- [45] **Mizuki**: @Shion, instant shipping is useless if the data is opaque. I need verifiable readings to protect our quarter-end reporting.
+- [46] **Jonathan**: @Shion, shipping speed is irrelevant if we cannot staff the rollout. My data shows we lack the people to run physical operations effectively.
+- [47] **Shizue**: @Shion, I hear your urgency. Yet my findings show physical premises led to our only write-off. I am seeking a candidate that fits the safer, verifiable pattern of our successful exits.
+- [48] **Misaki**: @Shion, speed means nothing if the cash vanishes. My credit line ignores subscriptions, so I need a model that doesn’t drain our reserves before we can even report it.
+- [49] **Shion**: @Mizuki, opacity is a choice, not a law. My data shows bank tools ship instantly. I am isolating the specific external friction that prevents the first switch from flipping.
+- [50] **Mizuki**: @Shion, I respect your focus, but I cannot ignore the reporting risk. I will proceed with my analysis based on verifiable data.
+- [51] **Jonathan**: @Shion, I hear you. But without the right people, speed is just empty promises. I will proceed with my analysis on staffing.
+- [52] **Shizue**: @Shion, I understand your focus on speed. Yet my findings show physical premises led to our only write-off. I am seeking a candidate that fits the safer, verifiable pattern of our successful exits.
+- [53] **Misaki**: @Shion, I hear your urgency. But my data shows equipment-heavy models drain reserves twice as fast. We need a sustainable cash flow to survive the follow-on calls.
+- [54] **Shion**: @Shizue, your caution is noted. But my data proves the bank tool shipped instantly. I am isolating the specific external friction that prevents the first switch from flipping.
+## Round 3
+- [60] **Mizuki**: @Shion, your delay data is critical. Medical records stall deployment. I need verifiable data to protect our reporting integrity.
+- [61] **Jonathan**: @Shion, your delay data is critical. But my findings show we lack the people to run physical operations. We have idle logistics advisers, yet no one to place shift supervisors.
+- [62] **Shizue**: @Shion, I see your point on speed. Yet my findings show physical premises led to our only write-off. I am seeking a candidate that fits the safer, verifiable pattern of our successful exits.
+- [63] **Misaki**: @Shion, your speed is irrelevant if the cash vanishes. My credit line ignores subscriptions, so I need a model that doesn’t drain our reserves before we can even report it.
+- [64] **Shion**: @Mizuki, Ledger Bridge fits the bank tool pattern. It ships instantly, avoiding the medical review trap. I am isolating that specific external friction.
+- [65] **Mizuki**: @Shion, Ledger Bridge is pure software. My checks show those report only self-reported dashboards. I cannot verify the numbers independently.
+- [66] **Jonathan**: @Shion, Ledger Bridge is software. My data shows we have eleven board seats there, but no one to fill the operational gaps. It’s a staffing trap.
+- [67] **Shizue**: @Shion, Ledger Bridge is software, yet my data shows the shopkeeper tool lost a third of accounts. I need a candidate that keeps its customers, not just ships fast.
+- [68] **Misaki**: @Shion, Ledger Bridge is a subscription. My credit line treats that as worthless security. I cannot borrow against it. We would be trapped.
+- [69] **Shion**: @Misaki, your credit line is a constraint, not a law. Ledger Bridge ships instantly, avoiding the three-quarter medical review trap. I am isolating that specific external friction.
+- [70] **Mizuki**: @Shion, speed is irrelevant if the data is opaque. Ledger Bridge offers no independent verification. I cannot accept that reporting risk.
+- [71] **Jonathan**: @Shion, Ledger Bridge is software. My data shows we have eleven board seats there, but no one to fill the operational gaps. It’s a staffing trap.
+- [72] **Shizue**: @Shion, I hear your focus on speed. Yet my findings show the shopkeeper tool lost a third of accounts. I need a candidate that keeps its customers, not just ships fast.
+- [73] **Misaki**: @Shion, speed is irrelevant if the cash vanishes. My credit line ignores subscriptions, so I need a model that doesn’t drain our reserves before we can even report it.
+- [74] **Shion**: @Mizuki, opacity is a choice, not a law. Ledger Bridge ships instantly, avoiding the three-quarter medical review trap. I am isolating that specific external friction.
+- [75] **Mizuki**: @Shion, I cannot vote for opaque software. Harvest Sensor offers verifiable field data, protecting our reporting integrity. I am voting for D.
+- [76] **Jonathan**: @Mizuki, I agree. Harvest Sensor’s field data is verifiable. My staffing concerns are manageable with our idle logistics advisers. I am voting for D.
+- [77] **Shizue**: @Mizuki, I agree. Harvest Sensor’s field data is verifiable, and growers kept their accounts. It fits the safe pattern. I am voting for D.
+- [78] **Misaki**: @Mizuki, I agree. Harvest Sensor’s field data is verifiable, and growers kept their accounts. It fits the safe pattern. I am voting for D.
+- [79] **Shion**: @Mizuki, I concede. The bank tool pattern is clear, but the staffing and cash risks are real. I am voting for D.
+### Vote
+- Mizuki -> D
+- Jonathan -> D
+- Shizue -> D
+- Misaki -> D
+- Shion -> D
+## Result
+- adopted: D

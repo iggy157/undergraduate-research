@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about relying on external factors that often shift unexpectedly.
+- [6] **Jonathan**: The physical location of our branches dictates who can actually reach us.
+- [7] **Rin**: Why do we always pick the shiny new thing instead of checking the old files?
+- [8] **Benjamin**: I suspect the current funding model is designed to fail by year two.
+- [9] **Minako**: We need to verify if our current team can handle the workload before adding more.
+- [10] **Shizue**: @Jonathan, do you think the road conditions affect our delivery schedules?
+- [11] **Jonathan**: Yes, winter closures north of the river isolate several key neighborhoods.
+- [12] **Rin**: I want to see the attendance sheets from the stops we stopped doing.
+- [13] **Benjamin**: @Shizue, the grant terms might be the real bottleneck here, not the roads.
+- [14] **Minako**: I will check the volunteer register to see who is actually trained.
+- [15] **Shizue**: The last few timetables fell apart when the weather turned against us.
+- [16] **Jonathan**: Quietly, I note that evening room bookings are already at capacity.
+- [17] **Rin**: It feels like we are ignoring the data that already exists in the system.
+- [18] **Benjamin**: If the endowment is locked, we have no flexibility for unexpected costs.
+- [19] **Minako**: I am concerned that no one has checked the skills on the roster.
+- [20] **Shizue**: I will look into the winter road closures and the running lines.
+- [21] **Jonathan**: I need to check the bus links and the evening room bookings.
+- [22] **Rin**: I will investigate the attendance sheets and the two old programmes.
+- [23] **Benjamin**: I will review the county grant terms and the running equipment lines.
+- [24] **Minako**: I will check the volunteer register and the evening room bookings.
+## Round 2
+- [35] **Shizue**: The roads closed eleven times, but the halls kept their own timetables.
+- [36] **Jonathan**: The bus cuts mean the outer wards are effectively cut off from us.
+- [37] **Rin**: The old outreach sheets show forty people came when we actually went to them.
+- [38] **Benjamin**: The grant pays for twelve months, then the flat budget takes the hit.
+- [39] **Minako**: The volunteers are ready, but the staff have no training to supervise them.
+- [40] **Shizue**: @Benjamin, if the grant ends, do we have a fallback for the equipment?
+- [41] **Jonathan**: @Minako, if the staff aren't trained, can we even use the volunteers?
+- [42] **Rin**: The digitisation project failed, but the evening groups are still running without us.
+- [43] **Benjamin**: The equipment line was under budget, but the running costs ate the surplus.
+- [44] **Minako**: We have the people, but we lack the internal capacity to manage them.
+- [45] **Shizue**: I am glad the equipment was under budget, but the running costs worry me.
+- [46] **Jonathan**: The remote catalogue use peaks after we lock up, which is a missed opportunity.
+- [47] **Rin**: We should look at the evening groups that are already working on their own.
+- [48] **Benjamin**: The funding shape is the problem, not the total amount available to us.
+- [49] **Minako**: We need a proposal that uses the existing volunteer base without overloading staff.
+- [50] **Shizue**: I think we should focus on the evening groups that are already active.
+- [51] **Jonathan**: I agree, but we must ensure the physical access is not the barrier.
+- [52] **Rin**: The records show the outreach worked, so why are we ignoring that evidence?
+- [53] **Benjamin**: A proposal that relies on the grant for year two is a trap.
+- [54] **Minako**: I support a model that leverages the volunteers and extends the hours.
+## Round 3
+- [60] **Shizue**: Option A seems to rely on the roads that we know are unreliable.
+- [61] **Jonathan**: Option A reaches the outer wards, but the bus cuts make the stops hard to reach.
+- [62] **Rin**: Option A is exactly what the old outreach sheets say worked, so why not?
+- [63] **Benjamin**: Option A's running costs will overrun the budget by year two, just like last year.
+- [64] **Minako**: Option A requires staff to drive and manage the vehicle, which we do not have.
+- [65] **Shizue**: @Rin, the roads closed eleven times, so the vehicle cannot always get there.
+- [66] **Jonathan**: @Minako, the volunteers could help, but the staff are not trained to supervise them.
+- [67] **Rin**: The evening groups are already running, so Option C is already happening without us.
+- [68] **Benjamin**: Option C uses the existing volunteer base, which is a good start for the budget.
+- [69] **Minako**: Option C uses the volunteers, but we still need to train the staff to manage it.
+- [70] **Shizue**: I am worried that Option A will fail when the weather turns against us again.
+- [71] **Jonathan**: Option C fits the evening peak, but we need to ensure the physical access is not the barrier.
+- [72] **Rin**: The records show the outreach worked, so Option A is the one with the evidence.
+- [73] **Benjamin**: Option C is the only one that does not rely on a grant that ends after twelve months.
+- [74] **Minako**: Option C is the only one that uses the existing volunteer base without overloading staff.
+- [75] **Shizue**: I will vote for Option C because it does not rely on the roads.
+- [76] **Jonathan**: I will vote for Option C because it fits the evening peak and uses the volunteers.
+- [77] **Rin**: I will vote for Option A because the records show it worked, even if the roads are bad.
+- [78] **Benjamin**: I will vote for Option C because the funding shape is sustainable and does not rely on a grant.
+- [79] **Minako**: I will vote for Option C because it uses the existing volunteer base and does not overload staff.
+### Vote
+- Shizue -> C
+- Jonathan -> C
+- Rin -> A
+- Benjamin -> C
+- Minako -> C
+## Result
+- adopted: C

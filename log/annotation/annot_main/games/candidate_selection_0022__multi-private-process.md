@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited to pick our next company! I think we should really check how much time we're spending on the operational side of things before we commit to another one. What do you all think?
+- [6] **George**: I agree, Mio. It is wise to be cautious. I believe we should also look closely at the actual stability of the customer bases in our current portfolio to ensure our growth is sustainable.
+- [7] **May**: I'm with you both, but let's not forget the big picture. We need to be crystal clear about our own financial flexibility before we write another check. We can't just grow; we have to sustain.
+- [8] **Rin**: I agree! But can we also make sure the new company won't make our end-of-quarter reporting a total nightmare? I want to know exactly how they'll affect our closing process!
+- [9] **Mizuki**: I agree with the need for caution. Beyond financial stability, we must examine the actual speed of deployment. I want to know what typically delays the transition from funding to the first active customer.
+- [10] **Mio**: That's a great point, Mizuki! Since we're all on the same page about being careful, let's divide the research. I'll take a look at the recruitment and adviser side to see how much bandwidth we actually have!
+- [11] **George**: I will take the lead on examining the profile of the exits and the write-off, as well as account retention through price rises. It is essential to know if our success is truly sustainable.
+- [12] **May**: I'll handle the money side of things. I'm going to look into the reserve accounts and follow-on calls, plus the terms of last winter's credit line. We need to know exactly where we stand.
+- [13] **Rin**: I'll take the reporting side! I'm going to check the appraisal needs at the last audit and the independent checks on holdings' reported figures. Let's make sure the numbers are easy to track!
+- [14] **Mizuki**: I will focus on the operational bottlenecks. I'll look into the security review time before first deployment and the delivery records of two holdings to identify any recurring delays.
+- [15] **Mio**: Sounds like a plan! I'll dive into the retained recruiters' placement times and the adviser bench and partner board seats. I can't wait to see what we find!
+- [16] **George**: That covers all the bases. I will proceed with my research into the exit profiles and account retention. I look forward to seeing how our findings align when we reconvene.
+- [17] **May**: Perfect. I'll get to work on those reserve accounts and the credit line terms. Let's see if we're actually as flexible as we like to think we are. See you all soon!
+- [18] **Rin**: I'm on it! I'll find out all about those audit appraisals and the independent checks. I'm going to make sure we don't get any more scary surprises at the end of the quarter!
+- [19] **Mizuki**: I will proceed with the security review times and delivery records. It is vital we understand the real-world friction points before we commit. I will report back with my findings shortly.
+- [20] **Mio**: I'm all set! I'll get started on my research right away. I'm really curious to see if we have enough help to support a new company without getting overwhelmed. Good luck everyone!
+- [22] **George**: I am also ready. I will focus on the data and return to the group with a clear perspective. Good luck to everyone in your respective research.
+- [24] **May**: I'm off to crunch some numbers. Let's hope the reality is as pretty as the pitch decks! See you all in the next round.
+- [26] **Rin**: I'm going too! I'll be a super-detective and find out all the secrets about those reports! Bye-bye everyone, see you soon!
+- [28] **Mizuki**: I will begin my investigation now. I intend to uncover the truth behind our deployment timelines to ensure we aren't walking into another avoidable delay. I will see you all in the next round.
+## Round 2
+- [40] **Mio**: Wow, I found some really interesting stuff! It looks like we have plenty of help for software, but finding people for field operations is going to be a huge headache. We might be stretched too thin!
+- [41] **George**: My findings suggest a clear pattern. Our successful exits were lean, back-office software tools. Conversely, the write-off involved heavy physical overhead and manual labor. We should be wary of companies with high operational complexity.
+- [42] **May**: I've got some sobering news. Our reserves are being drained by follow-on calls much faster than we planned, and our credit line is useless for anything other than physical stock. We're far less liquid than I hoped.
+- [43] **Rin**: I found something scary! If a company has hardware or depots, the audit takes way longer and costs a lot of money. Also, software companies just tell us their numbers, but we can't actually check them ourselves!
+- [44] **Mizuki**: My findings confirm that deployment speed varies wildly by sector. Companies dealing with sensitive data or physical hardware face significant delays—sometimes months or even quarters—due to security reviews and supply chain issues.
+- [45] **Mio**: @George, that matches what I saw! We have these great logistics advisers just sitting there, but the partners are already swamped with software boards. If we pick another software firm, who's actually going to manage it?
+- [46] **George**: @Mio, that is a fair point. However, the data shows that software tools—specifically those for back-office operations—are where we actually see returns. We must not let board capacity drive us toward riskier, hardware-heavy models.
+- [47] **May**: @George, I hear you on the returns, but we can't ignore the cash flow. If we go for something with high overhead, our current credit line won't save us when the reserves dip further.
+- [48] **Rin**: @May, exactly! And if we pick something with hardware, the audit will be a total nightmare! I don't want to spend six weeks just waiting for an appraisal. That's way too long!
+- [49] **Mizuki**: @Rin, @May, your concerns align with my findings. The friction isn't just in the audit; it's in the deployment. Hardware and sensitive data sectors create bottlenecks that can stall a company for quarters before they even launch.
+- [50] **Mio**: But if we go for hardware just because we have the advisers, we'll be stuck waiting months for recruiters to find field crews! We'll be exhausted before the company even gets off the ground!
+- [51] **George**: @Mio, we must be careful not to confuse available resources with a viable business model. My research shows that customers are far more loyal to essential tools than to services reliant on manual labor. Stability is paramount.
+- [52] **May**: @George, stability is great, but it doesn't pay the bills if we're cash-strapped. If we pick a software firm, we need to be sure it doesn't trigger more unexpected follow-on calls that we can't cover.
+- [53] **Rin**: But wait! If we pick software, we're just trusting their dashboards! I want something we can actually check ourselves so we don't get tricked by numbers that aren't real!
+- [54] **Mizuki**: @Rin, while transparency is important, the risk of a total standstill is higher. We cannot ignore that sensitive data and hardware create systemic delays. We should prioritize a model that ensures a fast, predictable path to the first customer.
+- [55] **Mio**: I'm starting to feel like we're stuck! Software is fast and stable, but we're out of board seats. Hardware has the advisers, but it's a recruitment and audit nightmare. We need a middle ground!
+- [56] **George**: @Mio, there is no middle ground when it comes to risk. We must prioritize the model that has proven to deliver returns and retain customers. I believe a lean software approach is the only prudent choice.
+- [57] **May**: @George, I can't just agree to "prudent" when our liquidity is this fragile. If a lean software firm hits a snag and demands more cash, we're exposed. We need a candidate that doesn't bleed us dry.
+- [58] **Rin**: I don't care if it's lean or not if the numbers are just a mystery! I want a company where we can see the real results ourselves, not just a dashboard that says "everything is great!"
+- [59] **Mizuki**: @Rin, @May, we must weigh the risk of "mystery numbers" against the risk of a company that simply cannot launch. A dashboard is better than a product stuck in a security review for nine months.
+## Round 3
+- [65] **Mio**: Looking at the options, Ledger Bridge and Clinic Scheduler are software, but we're already swamped with board seats! Fabric Loop and Harvest Sensor need field crews, which will take forever to hire! This is so tough!
+- [66] **George**: @Mio, we must prioritize the business model over our current schedule. Ledger Bridge and Clinic Scheduler align with our successful exits. Between them, Clinic Scheduler's focus on independent practices suggests the high retention I found.
+- [67] **May**: @George, I'm worried about the cash. Clinic Scheduler and Ledger Bridge are software, meaning our credit line is useless for them. If they need a sudden cash injection, we're relying solely on those dwindling reserves.
+- [68] **Rin**: Wait! Fabric Loop and Harvest Sensor have things moving around or in the field! That means we can actually check the numbers ourselves instead of just trusting a dashboard! I like that way better!
+- [69] **Mizuki**: @Rin, that is a dangerous trade-off. Fabric Loop and Harvest Sensor involve physical hardware and logistics, which my research shows lead to severe deployment delays and supply chain bottlenecks. We cannot risk another stalled launch.
+- [70] **Mio**: @Mizuki, you're right about the delays! But @George, if we pick Clinic Scheduler, who is going to manage it? We're already at our limit with software boards! We'll be working weekends just to keep up!
+- [71] **George**: @Mio, we can find a way to manage our time, but we cannot manufacture a successful exit from a flawed model. Clinic Scheduler offers the stability and retention we need to ensure this investment actually pays off.
+- [72] **May**: @George, stability is a dream if we go bankrupt first. If we pick Clinic Scheduler, we're betting everything on reserves that are already leaking. We need a candidate that doesn't put our liquidity at extreme risk.
+- [73] **Rin**: @May, but if we pick a software one, we're just guessing on the numbers! I'd rather have a little more work at the end of the quarter than a big mystery that might be a lie!
+- [74] **Mizuki**: @Rin, the "mystery" of a dashboard is manageable; the mystery of why a product hasn't launched after nine months is not. Clinic Scheduler deals with medical records, which means a long security review. Ledger Bridge is the safest bet for speed.
+- [75] **Mio**: @Mizuki, if Ledger Bridge is the fastest, maybe that's the way! But @George, we still have the board seat problem. Can we really handle another software company without burning out? I'm really worried about our bandwidth!
+- [76] **George**: @Mio, burnout is a management issue, not a financial one. We must prioritize the asset's viability. Ledger Bridge is lean and fits our success profile, but Clinic Scheduler's target market is far more resilient to price changes.
+- [77] **May**: @George, resilience doesn't matter if we can't fund the growth. Ledger Bridge is leaner, which means fewer follow-on calls. If we're this low on cash, we can't afford a "resilient" company that's expensive to maintain.
+- [78] **Rin**: But Ledger Bridge is just another dashboard! I'm tired of not knowing the truth! If we pick Harvest Sensor, we can see the sensors in the dirt! That's way more exciting and honest!
+- [79] **Mizuki**: @Rin, excitement is not a strategy. Harvest Sensor is a recipe for supply chain delays and audit nightmares. If we want a predictable path to revenue without draining our reserves or stalling for months, Ledger Bridge is the only logical choice.
+- [80] **Mio**: I'm still worried about our time, but @Mizuki and @May make a strong case. If Ledger Bridge is the leanest and fastest, it's the only way we survive without collapsing! I vote for Ledger Bridge!
+- [81] **George**: I must disagree with the shift toward Ledger Bridge. While lean, Clinic Scheduler's target market is far more stable. We cannot sacrifice long-term retention for short-term convenience. I vote for Clinic Scheduler.
+- [82] **May**: I can't risk a high-maintenance investment when our reserves are leaking and our credit line is so restrictive. Ledger Bridge is the leanest option and the safest for our cash flow. I vote for Ledger Bridge.
+- [83] **Rin**: I don't like the dashboards, but I don't want us to go bankrupt or be too tired to play! If everyone else says it's the safest, I'll go with it. I vote for Ledger Bridge!
+- [84] **Mizuki**: I agree with the majority. While Clinic Scheduler has potential, the security review for medical data is a bottleneck we cannot afford. Ledger Bridge offers the most predictable deployment timeline and the lowest financial risk. I vote for Ledger Bridge.
+### Vote
+- Mio -> C
+- George -> D
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

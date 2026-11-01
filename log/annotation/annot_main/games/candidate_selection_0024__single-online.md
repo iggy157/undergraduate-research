@@ -1,0 +1,71 @@
+# candidate_selection_0024__single-online (candidate_selection)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I want to make sure we can actually finish the work on time. I'll look into the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [6] **May**: I'll be keeping an eye on the money. I'm going to check the upkeep ledger spend per hectare and the groundskeeping roll and bought-in services.
+- [7] **Shizue**: I would like to see how our previous projects have held up over time. I will look into the condition of works from the earlier programme and the record of the eastern avenue planting.
+- [8] **Victoria**: I want to understand the human element of the maintenance. I will look into the groundskeeping roll and bought-in services, as well as the volunteer groups working with the division.
+- [9] **Shunichi**: I'll focus on the practicalities of the site's usage. I'll look into the timed counts of weekday crossings and the drainage callouts and August heat readings.
+- [11] **May**: @Victoria, I see we're both looking into the groundskeeping roll. I'm curious if you're looking for the same red flags I am, or if you have a different angle?
+- [12] **Shizue**: I just want to ensure we are being kind to the people who will maintain the park, dear. I believe a gentle approach to planning helps everyone.
+- [13] **Victoria**: @May, I am more concerned with the actual capacity of the staff. I want to know if there are enough hands to keep the park beautiful without burning people out.
+- [14] **Shunichi**: It seems we are all circling the same drain of sustainability. I'm just hoping the data on crossings and drainage actually reflects how people use the space, rather than some idealized version.
+- [16] **May**: @Shunichi, you're always so cynical! But you're right about the "idealized version." I just want to make sure the city isn't dreaming up a paradise it can't actually afford to keep.
+- [17] **Shizue**: I agree with May. It is much better to have a modest garden that flourishes than a grand palace that falls into ruin.
+- [18] **Victoria**: I agree. A plan that looks wonderful on a brochure but fails in practice is a disservice to the community and the staff.
+- [19] **Shunichi**: Exactly. I'm just here to make sure we don't build a fancy pond that turns into a swamp or a path that everyone ignores. Let's see what the data actually says.
+- [20] **Minato**: I'm glad we all agree on being careful. I'll stick with my choices so I can help us understand the construction side of things. I'm looking forward to seeing what we all find.
+- [21] **May**: Me too! Let's hope the numbers are a bit more friendly than they usually are. I'll see you all in the next round with the results.
+- [22] **Shizue**: I shall be waiting patiently. I hope the records show that we can build something that truly lasts for the children and grandchildren of this city.
+- [23] **Victoria**: I will be as well. I hope we find a balance that respects both the land and the people who will care for it.
+- [24] **Shunichi**: Right. Let's get these requests in and stop talking in circles. I'll see you all when the facts are on the table.
+## Round 2
+- [35] **Minato**: I found out that only two firms are tendering for earth-moving, and they're worried about clay subsoil and slippage. Also, the southern ground can be hoarded in stages, but the center and gate cannot.
+- [36] **May**: The upkeep costs for planted and water-managed areas are triple those of hard surfaces, and that gap is growing. Also, the groundskeeping staff has shrunk from eighteen posts to just seven.
+- [37] **Shizue**: It seems my fears were justified. The overflow basin from years ago is still in good shape, but the resurfaced apron outside the civic hall has already been patched three times.
+- [38] **Victoria**: I've confirmed the staff shortage May mentioned, but I also found that we have two dedicated volunteer groups—one for habitat work and one for the youth league grounds.
+- [39] **Shunichi**: The data is bleak. Most people are just cutting through the site to the tram stop on firm ground, and drainage callouts have doubled since the culvert was capped. Plus, it's a heat trap.
+- [40] **Minato**: @Shunichi, if the ground is a heat trap and the drainage is failing, maybe we should avoid anything that makes the water problem worse? I'm also worried about that clay soil.
+- [41] **May**: @Minato, you're right. And with the upkeep costs for greenery being triple that of hard surfaces, a plan with too much planting could be a financial disaster for the city.
+- [42] **Shizue**: It is heartbreaking to hear about the trees on the eastern avenue; half of them died because they weren't watered. We must not repeat such a careless mistake with our new plans.
+- [43] **Victoria**: @Shizue, that is a tragedy. It shows that without enough staff or a proper plan for aftercare, even the most beautiful planting will fail. We must consider what we can actually maintain.
+- [44] **Shunichi**: @Victoria, exactly. We have seven staff members and a bunch of people just trampling through the center to get to the tram. If we build something fragile or high-maintenance, it'll be a wreck in a year.
+- [45] **Minato**: I think we should be careful about the center of the park since we can't hoard it off easily. If the work takes too long because of the clay, it will block everyone's way.
+- [46] **May**: @Minato, that's a great point. If we can't hoard the center, we need a design that doesn't require massive, prolonged excavation there, especially if the soil is as tricky as you say.
+- [47] **Shizue**: I feel we should lean toward something that has proven its durability. The overflow basin's success suggests that working with water might be more sustainable than fighting it with pavement.
+- [48] **Victoria**: @Shizue, that is a lovely thought, but we must remember the staff shortage. If we choose a water-based design, we need to be certain the volunteer groups can actually handle the specialized care it requires.
+- [49] **Shunichi**: @Victoria, the volunteers are for habitat and youth sports, not necessarily for fixing a failing drainage system. If we go with something complex, we're just setting the remaining seven staff up for failure.
+- [50] **Minato**: I'm just worried that if we pick something too big, the clay and the hoarding issues will make the construction a nightmare. Maybe we should look for a plan that is simpler to build?
+- [51] **May**: I agree. Simpler is better, especially when the budget for maintenance is shrinking and the staff is already stretched thin. We can't afford a project that's a nightmare to build and a burden to keep.
+- [52] **Shizue**: I believe we should listen to the land. If the water-based works have lasted while the pavement has cracked, perhaps a natural approach is the most honest way to treat this space.
+- [53] **Victoria**: I agree with Shizue that we should be honest with the land, but only if we have the hands to support it. We must ensure the plan aligns with our actual capacity.
+- [54] **Shunichi**: Let's be real: we have a heat trap, a drainage crisis, and a staff of seven. Whatever we pick needs to survive the tram commuters and the budget cuts without needing a miracle to stay open.
+## Round 3
+- [60] **Minato**: I've seen the candidates. I think the Wetland Restoration is interesting, but I'm worried about the clay and the center of the park. Maybe the Market Plaza is safer to build?
+- [61] **May**: @Minato, the Market Plaza sounds much more affordable to maintain. Hard surfaces are way cheaper than plants, and we can't ignore that staff shortage. I'm leaning toward the Plaza.
+- [62] **Shizue**: I find the Wetland Restoration most appealing. The success of the overflow basin shows that water management works here, and it would be a sanctuary for the soul and the birds.
+- [63] **Victoria**: @Shizue, I appreciate the sentiment, but the Wetland Restoration requires specialized care. With only seven staff, we should rely on the habitat volunteers. That makes the Wetland a viable, sustainable choice.
+- [64] **Shunichi**: @Victoria, you're assuming the volunteers will just step up. But look at the crossings; people want firm ground to the tram. The Market Plaza handles the traffic and the heat better than a swamp.
+- [65] **Minato**: @Shunichi, you're right about the traffic. If the center is a bottleneck and we can't hoard it, a Plaza might be faster to finish than digging ponds in clay.
+- [66] **May**: Exactly. The Market Plaza is the only one that doesn't look like a financial black hole in three years. It's practical, durable, and fits the budget we actually have.
+- [67] **Shizue**: But a plaza of stone and pavement will only make the heat worse for everyone. We must provide a place where the city can breathe, or we are just building a desert.
+- [68] **Victoria**: @Shizue, that is a valid concern. However, the Wetland Restoration addresses the drainage crisis and heat while utilizing the habitat volunteers, making it more sustainable than a paved plaza.
+- [69] **Shunichi**: @Victoria, you're ignoring the tram commuters. They'll trample your reed beds into a muddy mess in a week. The Market Plaza is the only rational choice for the actual usage of this site.
+- [70] **Minato**: I'm torn. I like the idea of the Wetland, but the clay and the hoarding issues make me nervous. If the Market Plaza is easier to build, it might be the safest bet.
+- [71] **May**: @Minato, let's be practical. We can't risk a construction disaster in the center of the park. The Market Plaza is the only option that respects both the budget and the timeline.
+- [72] **Shizue**: I cannot agree to a desert of stone. The Wetland Restoration is the only plan that honors the earth and provides a lasting legacy, as the overflow basin has already proven.
+- [73] **Victoria**: @Shunichi, the commuters will follow the boardwalks if we design them correctly. The Wetland Restoration solves the drainage and heat issues while leveraging our volunteers, which is the only way to sustain it.
+- [74] **Shunichi**: @Victoria, boardwalks are just more things to break and maintain with a skeleton crew. The Market Plaza is the only plan that doesn't fight the reality of the site and the city's budget.
+- [75] **Minato**: I think the Market Plaza is the most realistic choice. It avoids the risks with the clay soil and the hoarding problems in the center, and it seems the safest for the city.
+- [76] **May**: I'm voting for the Market Plaza. It's the only plan that won't bankrupt the maintenance budget or collapse under the weight of our staffing crisis. It's the only responsible choice.
+- [77] **Shizue**: I will vote for the Wetland Restoration. We must choose a path that heals the land and lasts for generations, rather than a temporary fix of stone and concrete.
+- [78] **Victoria**: I will vote for the Wetland Restoration. It is the only plan that addresses the environmental crises while utilizing our volunteer capacity to support the limited staff.
+- [79] **Shunichi**: I'm voting for the Market Plaza. It's the only option that acknowledges the actual traffic patterns and the budget reality without relying on a miracle.
+### Vote
+- Minato -> B
+- May -> B
+- Shizue -> D
+- Victoria -> D
+- Shunichi -> B
+## Result
+- adopted: B

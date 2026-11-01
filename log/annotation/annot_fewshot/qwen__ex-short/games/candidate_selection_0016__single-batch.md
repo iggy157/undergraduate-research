@@ -1,0 +1,73 @@
+# candidate_selection_0016__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I need to know if this budget covers the running costs or just the start.
+- [6] **Shion**: We have buried too many projects. I want to see what actually worked before.
+- [7] **Midori**: Rosters are where new programs land. I need to see the staffing pressure.
+- [8] **Kenji**: Everything must fit into the existing day. I am worried about capacity.
+- [9] **Shizue**: Things break in year two. I want to see where recent starts failed.
+- [10] **Jonathan**: @Shizue, that is a fair point. The hidden costs are the real risk.
+- [11] **Shion**: @Jonathan, exactly. If it did not work before, why start it again?
+- [12] **Midori**: @Kenji, capacity is key. If the rooms are full, we cannot add more.
+- [13] **Kenji**: @Midori, yes. The booking system is already tight. I am checking that.
+- [14] **Shizue**: I will look at the board minutes. They show where the rot starts.
+- [15] **Jonathan**: I will check the ledger. I need to see the actual allocation.
+- [16] **Shion**: I will look at the readmission figures. Data beats opinion.
+- [17] **Midori**: I will review the therapy and midwifery staffing. It shows the slack.
+- [18] **Kenji**: I will check the rooms and parking coverage. It tells us the limit.
+- [19] **Shizue**: I will also check the board minutes on the jointly run clinic.
+- [20] **Jonathan**: Let us see what the numbers say.
+- [21] **Shion**: Agreed. The past is the best predictor.
+- [22] **Midori**: I hope the staffing is not as bad as I fear.
+- [23] **Kenji**: We need to avoid overloading the system.
+- [24] **Shizue**: We will see.
+## Round 2
+- [35] **Jonathan**: The ledger shows the allocation is down by a quarter. Fitting out is charged to it.
+- [36] **Shion**: The readmission trial worked, but only while it ran. It drifted back after.
+- [37] **Midori**: Therapy staff are leaving, but midwifery has unusual slack due to falling births.
+- [38] **Kenji**: Outpatient rooms book out by mid-morning. The car park fills before eleven.
+- [39] **Shizue**: The jointly run clinic closed in a year. Neither department would hold the budget.
+- [40] **Jonathan**: @Shizue, that confirms my fear. If they won't hold the budget, it dies.
+- [41] **Shion**: @Jonathan, yes. The readmission data shows it needs constant funding to work.
+- [42] **Midori**: @Kenji, if the rooms are full, a new unit will just add to the queue.
+- [43] **Kenji**: @Midori, correct. The booking system only holds named slots. Unnamed work disappears.
+- [44] **Shizue**: The data agreements took fourteen months to sign. That is a huge delay.
+- [45] **Jonathan**: The tariffs are zero for home visits. That is a major cost issue.
+- [46] **Shion**: The shared nursing round lost one visit in three to weather and access issues.
+- [47] **Midori**: The ward vacancies are nine. Agency cover is rising. The system is strained.
+- [48] **Kenji**: The shuttle only serves four of nineteen villages. Access is a real barrier.
+- [49] **Shizue**: @Shion, the home visit data is worrying. The infrastructure is not there.
+- [50] **Jonathan**: We must pick something that fits the current capacity and budget.
+- [51] **Shion**: We need a program that has proven results and sustainable staffing.
+- [52] **Midori**: The midwifery slack is an opportunity. We should use it.
+- [53] **Kenji**: We need to avoid anything that requires new rooms or complex data links.
+- [54] **Shizue**: We must avoid joint management. It fails when responsibilities are unclear.
+## Round 3
+- [60] **Jonathan**: Candidate A, Home Follow-Up, has no tariff. It will be a pure cost.
+- [61] **Shion**: Candidate A relies on home visits. The shared round data shows high failure rates.
+- [62] **Midori**: Candidate C, Perinatal Support, uses the midwifery slack. That is a good fit.
+- [63] **Kenji**: Candidate B, Day Rehab, needs dedicated space. The rooms are already full.
+- [64] **Shizue**: Candidate C is jointly run. The board minutes show that model fails.
+- [65] **Jonathan**: @Shizue, that is a strong point. Joint management is a risk for C.
+- [66] **Shion**: @Midori, the midwifery slack is real, but the joint aspect is a problem.
+- [67] **Midori**: @Shion, the pediatric side is stable. The midwifery side has the capacity.
+- [68] **Kenji**: @Jonathan, Candidate D, Chronic Care, uses existing booking slots. It fits.
+- [69] **Shizue**: Candidate D involves outside surgeries. The data agreements take fourteen months.
+- [70] **Jonathan**: Candidate D has no new rooms. It fits the budget and capacity constraints.
+- [71] **Shion**: Candidate D consolidates appointments. It reduces the need for new infrastructure.
+- [72] **Midori**: Candidate C is attractive, but the joint management risk is too high.
+- [73] **Kenji**: Candidate D uses the booking system effectively. It does not add to the queue.
+- [74] **Shizue**: Candidate D requires data agreements. That is a delay, but manageable.
+- [75] **Jonathan**: I am leaning towards D. It is the most sustainable financially.
+- [76] **Shion**: I agree. D has the best chance of lasting beyond the first year.
+- [77] **Midori**: I am concerned about C, but D seems safer for the staffing.
+- [78] **Kenji**: D fits the physical constraints. It is the most practical choice.
+- [79] **Shizue**: D avoids the joint management trap. It is the most stable option.
+### Vote
+- Jonathan -> D
+- Shion -> D
+- Midori -> D
+- Kenji -> D
+- Shizue -> D
+## Result
+- adopted: D

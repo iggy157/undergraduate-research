@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Hello everyone. I think it's important that we look at the practical side of these proposals. We should ensure that whatever we choose is sustainable and has clear agreements in place to avoid future failures.
+- [6] **Jonathan**: I agree, Midori. Beyond sustainability, I believe we should examine the actual outcomes of our previous efforts. It would be prudent to see what truly benefited the patients before we commit to a new direction.
+- [7] **Misaki**: I agree. We also need to consider the current workload of our staff. A program is only sustainable if the people implementing it aren't already burnt out. We should check the staffing levels carefully.
+- [8] **Shion**: Practicality is fine, but let's not be naive. We often forget that "established" doesn't mean "funded" for the long term. I want to see the actual numbers regarding the budget and potential returns.
+- [9] **Shizue**: It is lovely to see everyone so focused. I agree with you all, but I also wonder if our dear hospital has the physical space and systems to hold something new without becoming too crowded.
+- [10] **Midori**: @Shion, @Misaki, you both make great points. If we divide the available data sources, we can cover the budget, staffing, and operational risks together. Does anyone have a preference for which records they'd like to check first?
+- [11] **Jonathan**: I would like to look into the readmission figures during the call-back trial and the visit completion on the shared nursing round. I believe these will show us what actually worked for our patients.
+- [12] **Misaki**: I'll take the ward nursing vacancies and agency cover, as well as the therapy and midwifery staffing review. I want to see exactly where the pressure points are before we add more to the roster.
+- [13] **Shion**: I'll handle the financial side. I'll look into this year's development allocation in the ledger and the regional fund tariffs by contact location. Let's see if the money actually exists for the long haul.
+- [14] **Shizue**: I shall look into the rooms, parking and shuttle coverage, as well as what the booking system records. I want to make sure our guests and staff can still move about comfortably.
+- [15] **Midori**: That leaves me to look into the board minutes on a jointly run clinic and the data agreements with outside surgeries. I want to see where previous collaborations may have faltered.
+- [16] **Jonathan**: That seems like a very balanced distribution. By covering the financial, operational, and clinical data, we can make a decision based on a complete picture rather than just a hopeful proposal.
+- [17] **Misaki**: It seems efficient. Once we have the data, we can see which programs align with our actual capacity rather than just our aspirations. I look forward to seeing what you all find.
+- [18] **Shion**: Efficiency is the only thing that matters here. I'll be interested to see if the others' "aspirations" survive a cold look at the ledger. Let's proceed.
+- [19] **Shizue**: I agree. Let us all be gentle with one another as we uncover these truths. I look forward to hearing what you find, and I hope we can find a path that keeps everyone happy.
+- [20] **Midori**: I'm glad we've reached an agreement. I'll focus on those collaboration records to ensure we build something that lasts. I look forward to our discussion in the next round once we've all reviewed the data.
+- [21] **Jonathan**: I concur. I will examine the trial data and nursing rounds with a quiet mind. I look forward to seeing how our findings align to guide us toward a truly beneficial choice for our patients.
+- [22] **Misaki**: I will focus on the staffing records. It is important that we don't overlook the human cost of these programs. I'll see you all in the next round.
+- [23] **Shion**: I'll be reviewing the ledger and tariffs. Let's hope the numbers are more honest than the proposals. I'll see you all in the next round.
+- [24] **Shizue**: I shall go and see how our rooms and booking systems are faring. I wish you all a peaceful afternoon of research. I will see you soon, dear friends.
+## Round 2
+- [35] **Midori**: I've found some concerning patterns. Previous joint clinics failed because neither department wanted to own the budget or rota, and external data agreements are taking over a year to finalize. We must avoid programs relying on fragile partnerships.
+- [36] **Jonathan**: My findings are a mix of hope and caution. The call-back trial significantly reduced readmissions for elderly patients, but the benefit vanished once it stopped. Conversely, the shared nursing round suffered from high failure rates due to external factors.
+- [37] **Misaki**: The staffing situation is precarious. We have nine unfilled ward nursing posts and a growing reliance on expensive agency cover. However, the midwifery rota currently has unusual slack due to falling birth numbers. We cannot add pressure to the wards.
+- [38] **Shion**: The financial outlook is bleak. Our development allocation has dropped by nearly a quarter, and we're now paying for floor space from that same shrinking pot. We cannot afford a program that doesn't generate immediate, on-site revenue.
+- [39] **Shizue**: My heart sinks a little to hear this. I found that our car park fills by eleven and rooms are quite full. Also, our booking system misses so much work; we are busier than we even realize.
+- [40] **Midori**: @Shion, @Misaki, it seems we are all seeing the same fragility. If we choose a program that relies on outside surgeries or shared departmental rotas, it will likely collapse just like the previous clinic did. We need something self-contained.
+- [41] **Jonathan**: @Midori, I agree. The call-back trial proved that targeted interventions work, but only if they are sustained. We must ensure the chosen program is not just a temporary experiment, but a permanent, integrated part of our care.
+- [42] **Misaki**: @Jonathan, sustainability is impossible if we ignore the staff. With the ward nursing shortage and agency costs rising, any program adding to their load is a risk. We should look for something that utilizes the slack in midwifery.
+- [43] **Shion**: @Misaki, utilizing slack is logical, but only if it's profitable. @Shizue mentioned the booking system is failing; we're losing revenue. Any program must be on-site to secure regional tariffs, or we're simply paying to provide free care.
+- [44] **Shizue**: @Shion, I worry that bringing more people on-site for revenue might just lead to more chaos. If the car park is already full by eleven, where will these new patients go? We must be careful not to seize up.
+- [45] **Midori**: @Shizue, you're right. If we can't park or find rooms, the program fails regardless of the budget. We need a solution that is self-contained, doesn't burden the wards, and avoids complex external agreements. Does such a balance exist?
+- [46] **Jonathan**: It may be difficult, but we must prioritize evidence of patient benefit. If we can find a program that targets high-risk groups—like the elderly in the call-back trial—without overloading the wards, we can achieve real impact.
+- [47] **Misaki**: @Jonathan, I agree on the impact, but we must be realistic. If we ignore the staffing gaps, the "impact" will be a burnt-out team. We should prioritize programs that can be absorbed by the midwifery slack.
+- [48] **Shion**: @Misaki, focusing on midwifery slack is a start, but it's a narrow view. We are facing a twenty-five percent budget cut. If a program doesn't bill at the standard outpatient rate on-site, it's a liability, not an asset.
+- [49] **Shizue**: @Shion, I understand the need for money, but we must be gentle with our limits. If we push for more on-site revenue while the rooms are full and the parking is gone, we may only create frustration for everyone.
+- [50] **Midori**: It seems we are caught between financial necessity and operational reality. We must find a candidate that is self-sufficient, avoids external bureaucracy, and doesn't overload our already strained ward staff or physical space. Let's be very cautious.
+- [51] **Jonathan**: I agree. We must avoid the cycle of starting initiatives only to let them fade. Let us look for a candidate that offers proven patient benefits while remaining mindful of our staffing and space constraints.
+- [52] **Misaki**: I agree. We need a program that is sustainable for the people, not just the budget. Let's see if any of the candidates can be managed by the midwifery team to avoid further ward burnout.
+- [53] **Shion**: Let's stop pretending that "sustainability" is just about staff happiness. Without a positive tariff return and a realistic budget, there is no program to sustain. I'll be voting for the most financially viable, on-site option.
+- [54] **Shizue**: I hope we can all find a middle ground. Let us look at the candidates with kindness, but also with a clear eye for whether our poor building can actually hold them. I shall see you in the final round.
+## Round 3
+- [60] **Midori**: Looking at the options, I'm very concerned about C and D. C relies on outside providers, which we know takes forever to agree upon, and D is a joint venture, which often fails here.
+- [61] **Jonathan**: @Midori, I agree. Option A reminds me of the call-back trial; it could significantly reduce readmissions if sustained. However, the shared nursing round showed that home visits are often disrupted by external factors.
+- [62] **Misaki**: @Jonathan, Option A would put more pressure on the ward nurses who are already struggling with vacancies. Option D is the only one that utilizes the slack in midwifery, making it the most sustainable for our staff.
+- [63] **Shion**: @Misaki, your focus on "slack" ignores the ledger. Option A and C are off-site, meaning zero regional tariffs. Option D is a joint venture, which @Midori noted is a recipe for budget disputes. Option B is the only logical choice.
+- [64] **Shizue**: @Shion, I must disagree. Option B requires a dedicated space and more patients coming to us. With our rooms full and the car park overflowing by eleven, I fear it would only cause more chaos.
+- [65] **Midori**: @Shion, @Misaki, we are at a deadlock. Option B is too heavy for our space, and D is a joint venture risk. Option A is a possibility, but only if it doesn't rely on ward staff.
+- [66] **Jonathan**: @Midori, if Option A can be staffed independently of the wards, it offers the most proven patient benefit. However, we must be honest about the failure rate of home visits we saw in the nursing round data.
+- [67] **Misaki**: @Jonathan, it cannot be staffed independently without new hires, which @Shion already said we can't afford. Option D is the only choice that doesn't create new vacancies or burn out the existing ward staff.
+- [68] **Shion**: @Misaki, you're suggesting we prioritize "slack" over solvency. Option D is a joint venture; we've already established those fail when budgets are disputed. Option B is the only one that generates on-site revenue to offset our budget cuts.
+- [69] **Shizue**: @Shion, I understand the money is important, but we cannot ignore the physical reality. If we choose Option B, where will the patients park? We must be realistic about our limits to avoid a complete seizure.
+- [70] **Midori**: @Shion, @Misaki, we must be honest. Option D's joint structure is a red flag for stability, and B is physically impossible. Option A is risky, but perhaps the least likely to collapse from internal bureaucracy.
+- [71] **Jonathan**: @Midori, I agree that A is a strong candidate for patient outcomes. However, given the budget cuts and staffing gaps, we must ask if we can actually sustain it without it becoming another buried initiative.
+- [72] **Misaki**: @Midori, @Jonathan, Option A is a fantasy if we have no nurses to staff it. Option D is the only realistic path. Midwifery has the capacity, and the patients are already coming here. It is the most humane choice.
+- [73] **Shion**: @Misaki, "humane" doesn't pay the bills. Option D is a financial black hole waiting to happen due to its joint structure. Option B is the only one that secures the tariffs we desperately need to survive.
+- [74] **Shizue**: @Shion, I simply cannot agree to Option B. It would be unkind to our patients and staff to invite more people into a space that is already overflowing. Let us consider Option A; it keeps the crowds away.
+- [75] **Midori**: @Shion, @Misaki, we must prioritize stability. Option B is physically impossible and D is a joint-venture risk. Option A avoids our space issues and external bureaucracy, making it the most sustainable choice for the long term.
+- [76] **Jonathan**: I must agree with Midori. While Option A has risks, it targets the readmission issues we know are critical. If we can manage the staffing, it provides the most tangible benefit to patients without overloading our physical space.
+- [77] **Misaki**: @Midori, @Jonathan, you are ignoring the reality of the roster. Option A will fail the moment a ward nurse is pulled to cover a vacancy. Option D is the only viable choice for our staff.
+- [78] **Shion**: @Misaki, your "viable" choice is a financial disaster. Option A and D are liabilities. Option B is the only one that generates the on-site revenue required to survive a twenty-five percent budget cut. I vote for Option B.
+- [79] **Shizue**: I must follow my heart and my eyes. Option B would be far too much for our poor building to bear. I shall vote for Option A, as it is the kindest choice for our space.
+### Vote
+- Midori -> A
+- Jonathan -> A
+- Misaki -> D
+- Shion -> B
+- Shizue -> A
+## Result
+- adopted: A

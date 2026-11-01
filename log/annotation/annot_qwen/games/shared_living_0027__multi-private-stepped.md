@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a system that prevents friction. Current arrangements are failing.
+- [6] **Yumi**: I worry about fairness. Do the spots match where people actually park?
+- [7] **Ryuji**: The morning rush is chaotic. Position determines damage. I need data.
+- [8] **Shunichi**: Everyone asks about costs. Nobody checks the ledger. I will.
+- [9] **Toshio**: I am concerned about the long-term maintenance burden. Who does the work?
+- [10] **Asuka**: @Shunichi, if the ledger shows neglect, we need strict rules.
+- [11] **Yumi**: @Ryuji, I agree. Seeing the rain exposure would help us decide.
+- [12] **Ryuji**: I will check the morning departures and the rain exposure.
+- [13] **Shunichi**: I will look at the ledger and the complaint log.
+- [14] **Toshio**: I will examine the minutes and the sticker register.
+- [15] **Asuka**: We must avoid a system that creates hidden resentment.
+- [16] **Yumi**: Yes, transparency is key. Let us see the facts first.
+- [17] **Ryuji**: Facts will show if the layout is the problem.
+- [18] **Shunichi**: Facts will show if we are wasting money.
+- [19] **Toshio**: Facts will show if the system is sustainable.
+- [20] **Asuka**: I will look into the complaint log and the minutes.
+- [21] **Yumi**: I will look into the morning departures and the rain exposure.
+- [22] **Ryuji**: I will look into the morning departures and the rain exposure.
+- [23] **Shunichi**: I will look into the building account's two-year ledger and last year's complaint log entries.
+- [24] **Toshio**: I will look into five years of association minutes and the sticker register and the daily riders.
+## Round 2
+- [35] **Asuka**: The logs show complaints die out because no one is responsible.
+- [36] **Yumi**: I saw people shifting bikes just to leave. It is inefficient.
+- [37] **Ryuji**: I watched the exits. Four times, someone blocked another.
+- [38] **Shunichi**: The ledger shows no capital funds. A new frame costs money.
+- [39] **Toshio**: The minutes show the same flats held the covered spots for five years.
+- [40] **Asuka**: @Toshio, that is a problem. We need a rotation or a clear rule.
+- [41] **Yumi**: @Ryuji, the rain is bad too. The dry spots are too few.
+- [42] **Ryuji**: The dry spots are under the eaves. The rest get wet.
+- [43] **Shunichi**: If we buy a frame, who pays? The ledger is empty.
+- [44] **Toshio**: The sticker register shows some flats have three bikes. They ride daily.
+- [45] **Asuka**: We cannot just let the same people keep the good spots.
+- [46] **Yumi**: I think we should prioritize those who ride daily.
+- [47] **Ryuji**: If the daily riders get the dry spots, the morning rush eases.
+- [48] **Shunichi**: That is fair, but it costs. The ledger has no money for it.
+- [49] **Toshio**: The daily riders said they would pay. That solves the cost.
+- [50] **Asuka**: I agree. A rule based on usage is logical and fair.
+- [51] **Yumi**: Yes, it helps everyone. I support prioritizing daily riders.
+- [52] **Ryuji**: It reduces the shoving. I support it.
+- [53] **Shunichi**: If they pay, the ledger stays balanced. I support it.
+- [54] **Toshio**: It is sustainable. The work is defined. I support it.
+## Round 3
+- [60] **Asuka**: Option A creates a clear, paid responsibility. It prevents the ambiguity that caused the complaints.
+- [61] **Yumi**: Option C is the most flexible. It stops the "my spot" argument entirely.
+- [62] **Ryuji**: Option A is the only one that addresses the morning bottleneck directly.
+- [63] **Shunichi**: Option A is the only one that funds the maintenance. The ledger needs it.
+- [64] **Toshio**: Option A defines the work. The payer is the owner. It is sustainable.
+- [65] **Asuka**: @Yumi, Option C might lead to more conflict over space. It is too open.
+- [66] **Yumi**: @Asuka, I think it is fairer. But I see your point about conflict.
+- [67] **Ryuji**: Option B is random. It does not solve the daily rider problem.
+- [68] **Shunichi**: Option B is a waste of time. It ignores the actual usage patterns.
+- [69] **Toshio**: Option B is unstable. It creates new problems every year.
+- [70] **Asuka**: I am voting for Option A. It is logical and sustainable.
+- [71] **Yumi**: I am voting for Option A. It is fair and solves the rain issue.
+- [72] **Ryuji**: I am voting for Option A. It reduces the morning shoving.
+- [73] **Shunichi**: I am voting for Option A. It funds the building.
+- [74] **Toshio**: I am voting for Option A. It is the only sustainable choice.
+- [75] **Asuka**: The decision is clear. We need a system that works.
+- [76] **Yumi**: I am happy with this. It feels right for everyone.
+- [77] **Ryuji**: The data supports this. It is the rational choice.
+- [78] **Shunichi**: The money supports this. It is the practical choice.
+- [79] **Toshio**: The structure supports this. It is the reliable choice.
+### Vote
+- Asuka -> A
+- Yumi -> A
+- Ryuji -> A
+- Shunichi -> A
+- Toshio -> A
+## Result
+- adopted: A

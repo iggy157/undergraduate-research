@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Benjamin**: Since we've grown from three to five, our old arrangement is a bit like wearing a child's coat. We need a sustainable system that doesn't leave us shivering or resentful.
+- [6] **Mio**: I totally agree! But let's make sure the new way isn't a total headache to manage. I don't want anyone spending their whole Sunday night doing math!
+- [7] **Jonathan**: I think it's important we find a way to be objectively fair. I've heard some whispers about people carrying others, and I'd rather we solve that now.
+- [8] **Victoria**: I agree we need a change, but I'm concerned about the financial volatility. I want to understand the actual yearly costs and any potential setup fees before we commit.
+- [9] **Minato**: I just want us all to be happy again. Sometimes it feels like we're upset with each other because of the bills. Can we find a way to stop that?
+- [10] **Benjamin**: @Jonathan, "objectively fair" is a noble goal, though often a slippery slope. Perhaps we should look at how other houses handle this to avoid reinventing the wheel?
+- [11] **Mio**: Exactly! @Benjamin, that's a great idea. If we can find a template or a system that already works, it'll save us so much time and stress.
+- [12] **Jonathan**: A template would be helpful, but I also think we need hard data on our own usage. We can't fix a problem we haven't measured.
+- [13] **Victoria**: I agree with Jonathan. We need to see the historical data. I'm particularly worried about the spikes in winter; we need to know the range of our monthly expenses.
+- [14] **Minato**: I think it would be good to see how we've been paying so far. Maybe we can see where the misunderstandings started?
+- [15] **Benjamin**: A fair point. I'm curious if the physical layout of the house—like which rooms get the most sun—affects the heating costs. It would be a shame to penalize someone for a cold room.
+- [16] **Mio**: Oh, that's a good point! But again, let's not make the calculation so complex that it takes hours to figure out every month. Simplicity is key!
+- [17] **Jonathan**: I'm less worried about the time spent and more about the peace of mind. If we know exactly who is using what, the rumors of unfairness will vanish.
+- [18] **Victoria**: While I value fairness, I'm also wary of expensive modifications. If we're talking about installing new meters or equipment, we need to know the cost first.
+- [19] **Minato**: I hope we don't spend too much time arguing about the numbers. I just want us to be kind to each other when we ask for payment.
+- [20] **Benjamin**: Indeed, kindness is far more pleasant than a spreadsheet. Let's gather some data on historical costs and external models to find a balanced path forward.
+- [21] **Mio**: Yay! Let's do it! I'll look for things that make the admin side easier. I really want to avoid a "bill-calculating nightmare" for whoever does it!
+- [22] **Jonathan**: I will focus on the actual usage data. I want to see if there is a significant disparity between the rooms to ensure no one is being unfairly burdened.
+- [23] **Victoria**: I will look into the long-term financial patterns and the costs of any technical changes. I need to be sure this is sustainable for my budget.
+- [24] **Minato**: I'll look into the payment history. I want to see if there's a pattern to when people get upset, so we can fix the feeling in the house.
+## Round 2
+- [35] **Benjamin**: It seems that "perfect fairness" often comes with a heavy administrative tax. I've seen a house that meters everything, and it's a tedious monthly ritual.
+- [36] **Mio**: Oh no! I saw that too! Forty minutes every month just for the readings? And the template looked like a total nightmare to fill out. We can't do that!
+- [37] **Jonathan**: I found that some rooms use four times more energy than others. If we keep splitting equally, the low-users are definitely subsidizing the high-users. That's where the resentment comes from.
+- [38] **Victoria**: The monthly variance is alarming. The winter bills are nearly triple the summer ones. It's impossible to budget when the cost swings so wildly from month to month.
+- [39] **Minato**: I saw the payment log. People get really upset when the amount changes suddenly or when they are reminded late. It's not just about the money, it's the feeling.
+- [40] **Benjamin**: @Jonathan, while the disparity is real, we must ask: is the cost of measuring it worth the social friction? I'd rather we be warm and happy than precise and miserable.
+- [41] **Mio**: Exactly! @Benjamin is right! If we spend an hour every month fighting over a few dollars, we're losing our free time. We need something fast and easy!
+- [42] **Jonathan**: But @Benjamin, ignoring the disparity doesn't make it go away; it just hides it. The resentment is already there. Objective data is the only way to clear the air.
+- [43] **Victoria**: I'm also concerned about the cost of precision. I've seen that installing sub-meters would be incredibly expensive up front. We can't afford a huge initial fee.
+- [44] **Minato**: I agree with @Victoria. I think the "reminders" are what hurt the most. When someone asks for money, it feels like they are saying "you are lazy" or "you are wrong."
+- [45] **Benjamin**: I suspect that if we make the system too rigid, we'll all start sitting in our coats to save a few cents. That's a psychological price I'm not willing to pay.
+- [46] **Mio**: Right! Imagine us all shivering just to avoid a "high usage" label! That's not a home, that's a competition. Let's pick a way that takes five minutes, not fifty.
+- [47] **Jonathan**: I'm not suggesting we live in the dark, but we should acknowledge that some of us use far more. A system that reflects usage would actually be the kindest approach.
+- [48] **Victoria**: If we can't afford the meters, maybe we can find a middle ground. But we must address the winter spikes. A flat monthly average would be much more stable for us.
+- [49] **Minato**: Maybe we can find a way to pay that doesn't require someone to be the "collector"? If the system is automatic, maybe we won't feel like we're accusing each other.
+- [50] **Benjamin**: It seems we are torn between the precision of the accountant and the peace of the poet. I believe a system that prioritizes comfort and simplicity will serve us best.
+- [51] **Mio**: Yes! Let's go for the one that's the least amount of work! I'm voting for whatever doesn't involve a spreadsheet that takes an hour to fill out!
+- [52] **Jonathan**: I still believe that transparency is the only cure for the rumors of unfairness. I will support any option that ties the cost to the actual energy consumed.
+- [53] **Victoria**: I will support a system that provides financial predictability. I cannot handle another winter where the utility bill feels like a second rent payment.
+- [54] **Minato**: I just want us to stop being mean to each other. If a system removes the need for "reminders," I think that's the best one for our hearts.
+## Round 3
+- [60] **Benjamin**: Option C is a recipe for a cold house and a tense atmosphere. I'll be voting against it to ensure we don't start counting every lightbulb we switch on.
+- [61] **Mio**: Oh, definitely not C! I saw how long that takes at the other house! It's way too much work. I'm leaning towards A because it's the simplest!
+- [62] **Jonathan**: Option C is the only one that addresses the actual disparity in usage. If we want to stop the rumors of people "carrying" others, we need to see the numbers.
+- [63] **Victoria**: Option C is financially unfeasible due to the installation costs. Between A and B, Option B is far superior because it prevents those sudden, stressful winter spikes.
+- [64] **Minato**: Option C sounds like it would make us watch each other even more. I don't like the idea of us monitoring each other's electricity.
+- [65] **Benjamin**: @Victoria, I agree that predictability is a virtue. Option B allows us to enjoy the winter without the guilt of a ticking meter, which is a significant psychological win.
+- [66] **Mio**: Wait, @Victoria, does Option B mean we still have to do a big calculation at the end of the year? Because that sounds like a lot of work for one person!
+- [67] **Jonathan**: @Benjamin, the "guilt" you mention is exactly what I'm talking about. People feel guilt or resentment because the system is opaque. Option C makes it transparent.
+- [68] **Victoria**: @Mio, a single annual reconciliation is a small price to pay for twelve months of budget stability. It's much better than the current chaos of the utility envelope.
+- [69] **Minato**: I think Option A is okay, but the amount changes every month. I saw in the logs that when the amount changes, people start to argue.
+- [70] **Benjamin**: Precisely, @Minato. Option B smooths out the emotional and financial peaks. It treats the house as a collective experience rather than a series of individual transactions.
+- [71] **Mio**: Hmm, if it's just once a year, I guess I can handle that. But Option A is still the fastest! No calculations at all, just divide by five and you're done!
+- [72] **Jonathan**: I cannot in good conscience vote for A or B. They both ignore the fact that some of us are paying for others' luxury. Fairness requires measurement.
+- [73] **Victoria**: Fairness is irrelevant if the system is unaffordable or creates financial instability. Option B is the only rational choice for someone who needs to plan their monthly budget.
+- [74] **Minato**: I think Option B is the gentlest. If the price stays the same for a few months, we won't have to send as many reminders or feel like we're accusing anyone.
+- [75] **Benjamin**: It seems we have a consensus on the desire for peace and predictability. I'll cast my vote for the system that protects our comfort and our friendship.
+- [76] **Mio**: I'm still worried about the work, but if @Minato and @Victoria think B is better for the mood, I'll go with that. Let's just make sure the year-end part is easy!
+- [77] **Jonathan**: I will stand by my preference for C. I believe that true peace comes from honesty and objective fairness, not from ignoring the problem under a blanket of "simplicity."
+- [78] **Victoria**: I've analyzed the costs and the volatility. Option B is the only sustainable path that avoids high upfront fees while ensuring we aren't blindsided by winter costs.
+- [79] **Minato**: I'm voting for B. I want us to be able to talk to each other about things other than money. I hope this makes our home feel warmer.
+### Vote
+- Benjamin -> B
+- Mio -> B
+- Jonathan -> C
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

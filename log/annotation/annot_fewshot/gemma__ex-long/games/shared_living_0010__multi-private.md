@@ -1,0 +1,73 @@
+# shared_living_0010__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need a sustainable system for the year. Before we suggest any arrangements, we should establish the actual workload and the costs involved. Let's look at the data to avoid making an unrealistic plan.
+- [6] **Mio**: I'm so excited to get this sorted! I agree with Ryuji, we need a plan that actually works for everyone. Let's find some clues first so we can make the house super happy!
+- [7] **Victoria**: I agree that a sustainable approach is best. To ensure we maintain a positive atmosphere, I believe it's important to understand the current friction points and how we've handled things in the past.
+- [8] **Rin**: I'm ready for a cleaning adventure! I want to know how much we're spending on stuff and if we're being fair. Let's find some secrets about the house! What should we check first?
+- [9] **Daisuke**: I... I agree. It would be good to have a clear plan so we don't have to worry. I'll go along with whatever you all think is best for the house.
+- [10] **Ryuji**: I'll examine the "Stopwatch timing of a full pass" and the "Standard terms of the outside firm." We need to know the actual time commitment and if outsourcing is a viable way to reduce the burden.
+- [11] **Mio**: I want to see who's actually using the place and how much work is being done! I'll check "A fortnight's watch on kitchen use" and "Absences on the wall calendar" to see the real patterns!
+- [12] **Victoria**: I will look into the "Rows recorded in the house chat" and "What each housemate counts as done." Understanding our differing standards and past conflicts is essential for a lasting agreement.
+- [13] **Rin**: I'll check the "Bathroom spray stock and the tin's receipts" and the "Management office rate sheet and billing"! I want to see where all the money is going and if we're spending too much!
+- [14] **Daisuke**: I'll... I'll look into the "Bathroom grout after the July scrub" and the "Note left by the previous tenants." Maybe they have some advice on how to keep things consistent... I just want it to be predictable.
+- [15] **Ryuji**: It seems we have a comprehensive spread of research. By covering the time, cost, and social dynamics, we can avoid a plan that looks good on paper but fails in practice. Let's wait for the results.
+- [16] **Mio**: I'm so curious to see what we find! I bet the patterns will be super interesting. Let's all do our best with the research and meet back here to share everything!
+- [17] **Victoria**: I believe this division of labor is prudent. By analyzing both the objective costs and the subjective expectations, we can find a solution that respects everyone's boundaries and preserves our harmony. I look forward to the results.
+- [18] **Rin**: I'll be the house detective! I'm going to hunt for all the money clues so we can make sure everything is fair and square. See you all soon with the secrets!
+- [19] **Daisuke**: I'll... I'll do my best to find something useful. I hope the previous tenants had a way to make things easier for everyone. See you all later.
+- [20] **Ryuji**: I agree. Let's proceed with the research. I will focus on the time requirements and the feasibility of professional services to ensure the workload is manageable and doesn't lead to burnout. I'll see you all in the next round.
+- [21] **Mio**: I'm on it! I'll go check those calendars and the kitchen use right now! I can't wait to see if our habits are as wild as I think they are! See you all soon!
+- [22] **Victoria**: I will begin my research now. I want to understand the root of our misunderstandings and the gaps in our expectations. I hope this helps us avoid future conflicts. I will see you all in the next round.
+- [23] **Rin**: I'm off to find the treasure—or the receipts! I'll make sure I find out exactly who's paying for the sponges and the spray. I'll be back soon with all the answers! Bye-bye!
+- [24] **Daisuke**: I'll... I'll go look into those things now. I hope I can find something that helps us all feel more comfortable. See you all in the next round.
+## Round 2
+- [35] **Ryuji**: The timing data is revealing. A full pass takes over an hour and a half, which is more significant than some might admit. Furthermore, an outside firm requires us to tidy first, meaning it doesn't fully remove the labor.
+- [36] **Mio**: Wow, I found some really eye-opening stuff! It turns out only a few of us are actually using the kitchen for cooking, and some people are away for huge chunks of time! It's not as even as we thought!
+- [37] **Victoria**: My findings confirm that our friction stems from a lack of shared standards. We have very different definitions of what "done" means, and our past conflicts always begin with reminders about neglected tasks. This is a precarious cycle.
+- [38] **Rin**: I found some weird secrets! We have way too many bottles of the same spray, and we're spending 2,300 yen a month! Also, the management office cleaner is super expensive—4,200 yen an hour! That's a lot of pocket money!
+- [39] **Daisuke**: I... I found out that the bathroom grout gets dirty again really quickly, even after a deep scrub. And the previous tenants... they left a note saying they stopped talking to each other because of how they split the chores. It's a bit scary.
+- [40] **Ryuji**: @Mio, if usage is uneven, a flat rotation is illogical. However, @Victoria, the lack of standards only increases the time spent. We must define "done" precisely to prevent the workload from expanding further.
+- [41] **Mio**: @Ryuji, exactly! It feels unfair if someone who's barely here or only makes coffee has the same chores as someone cooking every night. We need a system that actually matches how we live!
+- [42] **Victoria**: @Mio, while usage patterns are important, I worry that focusing solely on "fairness" based on use might lead to more resentment. If we don't address the underlying tension and our differing standards, any system will eventually fail.
+- [43] **Rin**: @Victoria, but if we're spending money on things we already have, that's a different kind of tension! Who's actually paying for all those sprays? We need a way to track the money so nobody feels cheated!
+- [44] **Daisuke**: I... I think Victoria is right about the tension. If we just focus on who uses what, we might still end up like the previous tenants... not speaking to each other. I just want us to be okay.
+- [45] **Ryuji**: @Rin, the financial cost is a detail, but the time cost is the real burden. If we outsource, we still have to tidy, and the hourly rate is prohibitive. We need a solution that minimizes actual labor hours.
+- [46] **Mio**: @Ryuji, I get that labor hours are a big deal, but it's not just about the time—it's about who's causing the mess! If only a few of us are cooking, they're the ones making the work. That's the part that feels unfair!
+- [47] **Victoria**: @Mio, focusing on who causes the mess can often lead to finger-pointing. If we make the arrangement too rigid based on usage, we risk creating a climate of surveillance that will only damage our relationships over time.
+- [48] **Rin**: @Ryuji, it's not just a detail! If we keep buying things twice, we're wasting money! And the management office bill goes to just one person—that's super unfair! We need a plan where the money is as clean as the kitchen!
+- [49] **Daisuke**: I... I'm worried that if we start pointing fingers or tracking everything too closely, it'll just make things more tense. I just want to know that when I walk into a room, it'll be... okay. Consistent.
+- [50] **Ryuji**: @Daisuke, consistency is only possible with a clear, objective standard. @Victoria, I agree that surveillance is counterproductive, but ambiguity is what causes the friction. We need a system that is predictable, time-efficient, and based on reality, not intuition.
+- [51] **Mio**: @Ryuji, I totally agree that we need a predictable system! But "reality" includes the fact that some of us are barely here! Let's make a plan that's fair to our actual lives, not just a clock!
+- [52] **Victoria**: @Ryuji, predictability is helpful, but we must be careful that our "objective standards" don't become tools for criticism. If we prioritize the system over the people, we risk the same silence that plagued the previous tenants.
+- [53] **Rin**: @Victoria, but if we don't talk about the money, we'll end up silent too! I don't want anyone to be sad because their wallet is empty. Let's make a plan that's fair for our time AND our money!
+- [54] **Daisuke**: I... I hope we can find a way to do that. I'm just scared that if we make the rules too strict, we'll stop being friends. I just want a place where I don't have to be nervous about the mess.
+## Round 3
+- [60] **Ryuji**: Option C is impractical. As I found, we still have to tidy before they arrive, and the cost is prohibitive. It doesn't truly remove the labor; it just adds a financial burden.
+- [61] **Mio**: I agree that Option C is too expensive! But look at Option B—a fixed rota is exactly what I'm worried about! If someone is away for a whole month, do they still get a "pass" while we do the work? That's not fair!
+- [62] **Victoria**: Option B might seem fair on paper, but a rigid rota often leads to the very reminders and resentment I found in our chat history. If we strictly police a calendar, we risk damaging our relationships.
+- [63] **Rin**: Option C sounds like a money-pit! 4,200 yen an hour is way too much. But Option B is scary too—what if someone forgets their turn? We need a way to handle the money and the cleaning together!
+- [64] **Daisuke**: I... I don't like Option A. The previous tenants did permanent splits, and they stopped talking to each other. I'm worried that if we stay in one spot, we'll just start resenting each other in silence.
+- [65] **Ryuji**: @Daisuke, the previous tenants' failure was likely due to a lack of objective standards, not the assignment itself. Option A is the most efficient because it allows us to calibrate our own timing and avoid the disruption of a rota.
+- [66] **Mio**: @Ryuji, but Option A is even worse for fairness! If someone is barely here, they might get an easy spot while others are stuck with the hard work forever. We need something that doesn't punish the people who are always home!
+- [67] **Victoria**: @Mio, I understand your concern, but permanent assignments could actually reduce friction. If we each own a space, we avoid the "reminder" cycle that triggers our arguments. The key is ensuring the burden is balanced, not just the location.
+- [68] **Rin**: @Victoria, but if we just "own" a space, who buys the sponges for it? If we don't have a clear way to split the costs every month, we'll just keep buying double sprays and fighting over wallets!
+- [69] **Daisuke**: I... I'm not sure. Option B seems more fair, but if we forget our turns, will people get angry? I just want to know that the rooms will be clean without anyone having to fight about it.
+- [70] **Ryuji**: @Rin, the supplies are a minor administrative task compared to the labor. @Mio, we can balance the assignments by total time, not just location. Option A removes the stress of a rigid calendar and lets us manage our own schedules.
+- [71] **Mio**: @Ryuji, balancing by time is a start, but it doesn't fix the usage problem! If I'm the only one cooking all week, my "easy" spot still feels like a lot of work. We need a system that's flexible!
+- [72] **Victoria**: @Mio, flexibility is a double-edged sword. If the system is too loose, the burden inevitably falls on the person who cares the most, leading to the silent resentment I fear. Option A, if balanced, provides a stable boundary for everyone.
+- [73] **Rin**: @Ryuji, it's not a minor task if we're wasting money! If we go with Option A, we need a super clear rule for the money too. I'm voting for the one that's the most fair for everyone's wallet!
+- [74] **Daisuke**: I... I think Option B is the most predictable. If we rotate, no one is stuck with the bathroom grout forever, and we don't have to worry about permanent splits like the previous tenants. I'll vote for B.
+- [75] **Ryuji**: @Daisuke, predictability is a facade if the workload is uneven. Option B creates a cycle of disruption and potential conflict over missed turns. Option A is the only rational choice to ensure stability and time-efficiency. I vote for Option A.
+- [76] **Mio**: @Ryuji, I can't agree with Option A! It's just too rigid and ignores how we actually use the house. I want a system that's fair to everyone's real life! I vote for Option B.
+- [77] **Victoria**: I believe Option B, while predictable, risks the "reminder" cycle that leads to conflict. However, Option A's risk of silent resentment is too high. I vote for Option B, provided we agree on a shared standard of "done."
+- [78] **Rin**: @Ryuji, you're always so serious about time, but money matters too! Option A sounds like a recipe for "I forgot to buy the bags" fights. Option B is more like a team adventure! I vote for Option B!
+- [79] **Daisuke**: I... I'm still a bit nervous, but I think Option B is the safest way to make sure we all stay friends. I don't want us to stop talking. I vote for Option B.
+### Vote
+- Ryuji -> A
+- Mio -> B
+- Victoria -> B
+- Rin -> B
+- Daisuke -> B
+## Result
+- adopted: B

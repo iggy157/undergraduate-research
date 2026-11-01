@@ -1,0 +1,73 @@
+# shared_living_0008__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **May**: We need to stop guessing who uses this room. I want hard data on who is actually in there.
+- [6] **Misaki**: The noise is the real problem. I can hear every word from my desk. We need to check the walls.
+- [7] **Servas**: Before we spend money, we must understand the hidden costs. Who is paying for the upkeep right now?
+- [8] **Sakura**: I am worried about the monthly bills. We need to see the invoices for any outside help we hire.
+- [9] **Kenji**: It feels like we are strangers. I want to know where people actually talk when they need to say something hard.
+- [10] **May**: @Sakura, if we look at the invoices, we might see if we are overpaying for space we barely use.
+- [11] **Misaki**: @Servas, the wall is just plasterboard. I checked. Sound travels easily. We need to verify that.
+- [12] **Servas**: @May, the tally of use will show if one person is hogging the space. That is a fair start.
+- [13] **Sakura**: @Kenji, knowing where awkward talks happen might help us design a space that feels safer for those moments.
+- [14] **Kenji**: @Misaki, if the wall is thin, maybe a quiet room is the only way to stop the complaints.
+- [15] **May**: I will look at the tally of use. It tells the truth about who is here.
+- [16] **Misaki**: I will check the partition wall. I need to know exactly how much sound leaks through.
+- [17] **Servas**: I will review the facilities callouts. If the equipment breaks often, that is a hidden cost.
+- [18] **Sakura**: I will pull the invoices for outside hire. We need to see the real numbers on paper.
+- [19] **Kenji**: I will look into where the last awkward conversation happened. It matters for how we feel here.
+- [20] **May**: Agreed. Let’s see the data before we argue about feelings.
+- [21] **Misaki**: The wall check is essential. If it fails, we need a different solution.
+- [22] **Servas**: The callouts will reveal if the room is a maintenance nightmare.
+- [23] **Sakura**: The invoices will show if we are bleeding money for nothing.
+- [24] **Kenji**: The location of that talk will tell us if this room is safe or not.
+## Round 2
+- [35] **May**: The tally shows two people used it eleven times. The rest of us only four. It is not shared.
+- [36] **Misaki**: The wall is thin. I can hear everything. Also, unplanned talk has stopped since the sofa went in.
+- [37] **Servas**: Eleven callouts last year. The room is a magnet for repairs. That is a lot of hidden labor.
+- [38] **Sakura**: The invoices show we paid 68,000 yen for nine bookings. The fit-out quotes are high too.
+- [39] **Kenji**: The last awkward talk happened across the desks. Everyone heard it. That is why we are quiet now.
+- [40] **May**: @Misaki, if the wall is that bad, a quiet room might just move the noise problem to the office.
+- [41] **Misaki**: @May, the crumbs are everywhere. Three keyboards have food under the keys. It is messy.
+- [42] **Servas**: @Sakura, 68,000 yen is significant. If we fit it out, we add to that cost.
+- [43] **Sakura**: @Servas, the quotes are 141,000 for a meeting space and 96,000 for a kitchen. Both are steep.
+- [44] **Kenji**: @May, the lunch trip takes twenty-five minutes. People eat here because they are hungry and tired.
+- [45] **May**: So we have a messy, noisy room that two people dominate. We need a rule.
+- [46] **Misaki**: A meeting space with a screen might formalize it. But the noise will still leak.
+- [47] **Servas**: A quiet room requires discipline. If people keep eating, it will fail.
+- [48] **Sakura**: The kitchen option is cheaper to fit out, but the maintenance is on the users.
+- [49] **Kenji**: A meeting space could be bookable. That stops the "first come, first served" chaos.
+- [50] **May**: I am leaning towards a meeting space. It solves the dominance issue.
+- [51] **Misaki**: I am worried about the noise, but a bookable system might help.
+- [52] **Servas**: I agree. Structure is better than chaos. Let us vote on the options.
+- [53] **Sakura**: The numbers support a meeting space if we can afford the screen.
+- [54] **Kenji**: A meeting space gives us a place to talk properly. I support it.
+## Round 3
+- [60] **May**: Option C, Meeting Space, seems best. It addresses the usage imbalance.
+- [61] **Misaki**: Option B, Quiet Room, is risky. The wall is too thin for true silence.
+- [62] **Servas**: Option A, Open Kitchen, will just bring more crumbs and noise. I oppose it.
+- [63] **Sakura**: Option C is the most logical. The quote is high, but the value is clear.
+- [64] **Kenji**: Option C gives us a dedicated space for difficult conversations. I vote for it.
+- [65] **May**: @Sakura, do you think the 141,000 yen is worth it?
+- [66] **Misaki**: @May, yes, if it stops the random usage. The screen helps with focus.
+- [67] **Servas**: @Kenji, a bookable system ensures fairness. That is important for morale.
+- [68] **Sakura**: @Servas, the invoices show we are already paying for external space. This saves that.
+- [69] **Kenji**: @Misaki, the quiet room might work, but the noise leak is a dealbreaker.
+- [70] **May**: I am confident in Option C. It brings order.
+- [71] **Misaki**: I will accept Option C. It is the most practical given the wall issue.
+- [72] **Servas**: I agree. Option C minimizes hidden costs and maximizes utility.
+- [73] **Sakura**: The figures support Option C. It is a long-term investment.
+- [74] **Kenji**: Option C helps us connect better. I am happy with this choice.
+- [75] **May**: Let’s vote. I think we are all aligned on C.
+- [76] **Misaki**: Agreed. The data supports it.
+- [77] **Servas**: The logic is sound. I am ready to vote.
+- [78] **Sakura**: The numbers are clear. I am ready.
+- [79] **Kenji**: It feels right. I am ready to vote.
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

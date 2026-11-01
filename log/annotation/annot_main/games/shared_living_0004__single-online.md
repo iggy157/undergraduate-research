@@ -1,0 +1,71 @@
+# shared_living_0004__single-online (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to know about all-in rates against meals bought separately and what separately booked rooms cost last time!
+- [6] **Victoria**: I'll look into the pricing of offshore houses let whole and the all-in rates against meals bought separately.
+- [7] **Midori**: I think I'll check on time alone in the shared-house year and how last year's days ran.
+- [8] **Toshio**: I will check ferry sailings and train time, as well as getting around by train and bus.
+- [9] **Daisuke**: I'll look into bathing hours and bathroom provision, and inn mealtimes and room arrangements.
+- [10] **Sakura**: Does anyone else think we should check the valley inn rates versus urban beds? I'm curious if it's a big difference!
+- [11] **Victoria**: I think that's a good idea, but I've already picked my two. Maybe someone else can take it?
+- [12] **Midori**: I can take that one! I'll swap "how last year's days ran" for the valley inn rates versus urban beds.
+- [15] **Sakura**: @Midori, thanks for swapping! I'm excited to hear what you find out about the prices.
+- [16] **Victoria**: I'm glad we're being thorough. It's better to have all the facts before we make a final decision.
+- [17] **Midori**: Of course! I just want to make sure we find a place where everyone feels comfortable and happy.
+- [18] **Toshio**: I agree. Having a clear picture of the logistics will help us avoid any unnecessary stress during the trip.
+- [19] **Daisuke**: I agree. I just want to make sure we have a place where we can all relax.
+- [20] **Sakura**: I'm all set with my choices! I can't wait to see what we discover so we can pick the best spot!
+- [21] **Victoria**: I am also satisfied with our list. Let's proceed and see what the research reveals.
+- [22] **Midori**: I'm ready too. I hope the information helps us find the perfect balance for everyone.
+- [23] **Toshio**: I'm ready as well. Let's see what the data says.
+- [24] **Daisuke**: I'm ready too. Let's see what we find.
+## Round 2
+- [35] **Sakura**: It turns out that booking rooms separately last time made the prices really uneven, but renting a whole building makes the bill divide evenly!
+- [36] **Victoria**: The offshore houses are quite affordable, around 5,400 yen per person per night, though we would have to pay for our food on top of that.
+- [37] **Midori**: I found that valley inns are about 17,000 yen including meals, while city beds are 12,000 to 20,000 yen without any food included.
+- [38] **Toshio**: The ferry takes up two days of our trip, but the train to the spa valley is only ninety minutes.
+- [39] **Daisuke**: The inn baths are open from early morning until midnight, but the island houses only have one bathroom for everyone and the water can get cold.
+- [40] **Sakura**: @Victoria, since you also looked into the meal rates, did you find out if all-in plans are better than paying for what we actually eat?
+- [41] **Victoria**: All-in rates mean everyone pays the same regardless of appetite, whereas paying separately means we only pay for what we actually order.
+- [42] **Midori**: That's an interesting point. I also found that in previous shared houses, it was actually quite hard for anyone to find a bit of time alone.
+- [43] **Toshio**: Regarding transport, city trains run every few minutes, but the spa valley bus is hourly and stops before seven in the evening.
+- [44] **Daisuke**: I also found out that the inns have fixed mealtimes and we'd all be on futons in one room, while city rooms have their own doors and no schedules.
+- [45] **Sakura**: Wow, the city sounds so free! No schedules and your own room? That sounds like a lot of fun!
+- [46] **Victoria**: It does sound flexible, but I am concerned about the cost. If city beds are up to 20,000 yen plus meals, it could become very expensive.
+- [47] **Midori**: I agree with Victoria. The city seems expensive, and I'm worried that having separate rooms might make us feel less like a group.
+- [48] **Toshio**: The ferry travel time is a significant drawback for the island, and the limited bus schedule in the valley could be restrictive. The city is the most efficient for movement.
+- [49] **Daisuke**: I'm worried about the island's bathroom situation, but the inn's shared room and fixed mealtimes also sound a bit overwhelming. The city's private rooms seem the safest for me.
+- [50] **Sakura**: But the island is so cheap! If we save money on the house, maybe we can spend it on something really cool to do together!
+- [51] **Victoria**: That is true, but the cost of food on the island is not fixed. I would prefer a destination where we can determine the total cost more accurately beforehand.
+- [52] **Midori**: I wonder if the spa town might be a good middle ground, as the all-in rate makes the cost predictable and the train is very fast.
+- [53] **Toshio**: The spa town is certainly more efficient than the island, though the hourly bus is a slight compromise compared to the city's convenience.
+- [54] **Daisuke**: I think the spa town could work, but I'm still a bit nervous about everyone sleeping in one room and the strict mealtimes.
+## Round 3
+- [60] **Sakura**: I still think the city sounds the most exciting, but if we want to be fair with money, maybe the island or the spa town is better!
+- [61] **Victoria**: I agree that predictability is key, and the spa town's all-in rate is very appealing for budgeting purposes.
+- [62] **Midori**: I'm leaning toward the spa town too, as it seems to offer a nice balance of group time and accessibility.
+- [63] **Toshio**: The city is the most efficient, but the spa town's ninety-minute train ride is far superior to spending two full days on ferries.
+- [64] **Daisuke**: I'm still worried about the shared room at the inn, but the city is so expensive and the island's bathroom sounds stressful. Maybe the spa town is the best compromise.
+- [65] **Sakura**: If everyone is leaning toward the spa town, I'm okay with that too! As long as we all have a great time together!
+- [66] **Victoria**: I feel much more comfortable with the spa town's pricing structure, as it prevents the final bill from becoming a surprise.
+- [67] **Midori**: I think the spa town will allow us to be together without the feeling of being trapped, since we can still explore the town.
+- [68] **Toshio**: I'm satisfied with the spa town; the travel time is minimal, which means we maximize our actual holiday time.
+- [69] **Daisuke**: I'll try my best to handle the shared room if it means we can all be together and the travel is easy.
+- [70] **Sakura**: I'm happy as long as we're all together! I vote for the Hot Spring Town!
+- [71] **Victoria**: I agree. The predictability of the cost is the most important factor for me. I vote for the Hot Spring Town.
+- [72] **Midori**: I agree that it's the best balance for our group. I vote for the Hot Spring Town.
+- [73] **Toshio**: I value the efficiency of the travel time above all else. I vote for the Hot Spring Town.
+- [74] **Daisuke**: I'll go with the group. I vote for the Hot Spring Town.
+- [75] **Sakura**: Yay! It's decided then! I can't wait to go to the Hot Spring Town with everyone!
+- [76] **Victoria**: I am glad we reached a consensus that satisfies everyone's needs. It will be a very relaxing trip.
+- [77] **Midori**: I'm looking forward to it too. It'll be wonderful to relax and enjoy each other's company in such a peaceful setting.
+- [78] **Toshio**: I will start looking into the specific train schedules so we can make the most of our time.
+- [79] **Daisuke**: I'm glad we all agreed. I'll look forward to the hot springs.
+### Vote
+- Sakura -> C
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0021__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the numbers. Who actually holds the skills to execute this work?
+- [6] **Sakura**: I’m curious about the money! Does the grant still cover travel, or do we pay for it now?
+- [7] **Daisuke**: I worry about past mistakes. Let’s check what finished awards actually delivered before we pick.
+- [8] **Takumi**: I’m concerned about delays. Where do projects usually stall? I want to see the schedule overruns.
+- [9] **Minako**: I need to know if the shared facilities can handle this. Let’s check their current capacity.
+- [10] **Servas**: Sakura, your question is sharp. The budget is only as good as the hands that spend it.
+- [11] **Sakura**: Thank you, Servas! I’ll look into the travel ledgers and the computing agreement to see the real costs.
+- [12] **Daisuke**: I agree. I will review the closeout files and the portfolio review to see what actually worked.
+- [13] **Takumi**: I’ll check the incident logs and the portfolio review. I need to know where the bottlenecks are.
+- [14] **Minako**: I will examine the accreditation records and the staffing rolls. We need to know who is actually there.
+- [15] **Servas**: I will examine the staffing rolls and the minutes on secondments. I need to know who remains.
+- [16] **Sakura**: I’m excited to see what we find! Let’s hope the numbers make sense this time.
+- [17] **Daisuke**: I will stick with my two choices. The past is the only honest witness.
+- [18] **Takumi**: I’ll stick with my two choices. Understanding where time goes is the only way to predict success.
+- [19] **Minako**: I’ll stick with my two choices. The data will reveal the truth of our capacity.
+- [20] **Servas**: Let us trust the process. The data will reveal the truth of our capacity.
+- [21] **Sakura**: I’m glad we’re all looking at different angles. I’ll stick with my two choices.
+- [22] **Daisuke**: Agreed. I will review my findings before we vote.
+- [23] **Takumi**: Agreed. Let’s see if the data matches the optimism.
+- [24] **Minako**: Agreed. The past is the only honest witness. I will review my findings.
+## Round 2
+- [35] **Servas**: The technicians are gone, but the glasshouse crew remains. We have the hands, yet the minds are abroad.
+- [36] **Sakura**: My findings show computing is free, but animal-unit day rates spiked. Travel costs are frozen, yet shipping climbed.
+- [37] **Daisuke**: The closeout files confirm my suspicion. Catalogue awards persist; mechanism-focused ones stall. We should value sustained utility.
+- [38] **Takumi**: Wow, the spectroscopy suite was idle for eleven weeks! That’s scary. One engineer for three institutes?
+- [39] **Minako**: The animal facility is safe, but the glasshouse is booked solid. The staffing rolls show a huge gap in technicians.
+- [40] **Servas**: Daisuke, your insight is profound. We must value the hands that remain. The glasshouse crew is our foundation.
+- [41] **Sakura**: I hear you, Servas. But if animal costs spike, even the best hands struggle. We must balance the budget.
+- [42] **Daisuke**: @Takumi, that idle suite is a red flag. My data shows biology-heavy projects stall twice as often.
+- [43] **Takumi**: @Daisuke, precisely. We cannot gamble on a single engineer’s availability. Let’s favor computational depth.
+- [44] **Minako**: @Servas, the glasshouse crew is full strength. That is our strongest asset. We should lean on it.
+- [45] **Servas**: @Minako, you are right. We must honor the long view. Let us choose the work that endures.
+- [46] **Sakura**: @Servas, I agree. A’s shipping is manageable. B’s animal costs spiked. A seems the most balanced choice.
+- [47] **Daisuke**: @Sakura, A aligns with the closeout data. Catalogue work persists. The evidence favors A.
+- [48] **Takumi**: @Daisuke, A is the only option that avoids the broken spectroscopy suite. It is the logical choice.
+- [49] **Minako**: @Takumi, A uses the stable glasshouse sites. C needs the broken spectroscopy suite, so it’s too risky.
+- [50] **Servas**: @Minako, your wisdom guides us. A is the enduring path. Let us vote for the work that remains.
+- [51] **Sakura**: @Servas, I agree. A respects our budget constraints and staffing reality. It is the most sustainable choice.
+- [52] **Daisuke**: @Sakura, I concur. The closeout files show catalogue work endures. A is the only choice supported by evidence.
+- [53] **Takumi**: @Daisuke, A’s computational nature bypasses the biological bottlenecks I identified. It is the only realistic timeline.
+- [54] **Minako**: @Takumi, I agree. A uses the stable sites and avoids the broken equipment. Let’s vote for A.
+## Round 3
+- [60] **Servas**: The candidates are before us. A is the soil work. B is the protein folding. C is the amphibians. D is the plants.
+- [61] **Sakura**: I’m so happy we all agree! A is the best choice. I vote for A!
+- [62] **Daisuke**: I vote for A. The data is unanimous.
+- [63] **Takumi**: I vote for A. It avoids the broken equipment.
+- [64] **Minako**: I vote for A. It uses the stable sites.
+- [65] **Servas**: @Sakura, your enthusiasm is welcome. A honors the hands we possess. I vote for A.
+- [66] **Sakura**: @Servas, I agree! A is the safest bet. I vote for A.
+- [67] **Daisuke**: @Servas, I concur. A is the only choice supported by the evidence. I vote for A.
+- [68] **Takumi**: @Daisuke, precisely. A is the only rational choice. I vote for A.
+- [69] **Minako**: @Takumi, I agree. A is the most balanced choice. I vote for A.
+- [70] **Servas**: @Minako, unity is beautiful. We have found clarity. I stand by my vote for A.
+- [71] **Sakura**: @Servas, I’m so happy we’re all on the same page! A is the clear winner. I confirm my vote for A.
+- [72] **Daisuke**: @Sakura, confirmed. A is the enduring path. I confirm my vote for A.
+- [73] **Takumi**: @Daisuke, confirmed. A is the logical choice. I confirm my vote for A.
+- [74] **Minako**: @Takumi, confirmed. A is the safest choice. I confirm my vote for A.
+- [75] **Servas**: @All, our consensus is complete. A is selected. Let us proceed with confidence.
+- [76] **Sakura**: @Servas, consensus is final. A is selected. Proceed.
+- [77] **Daisuke**: @Servas, consensus is final. A is selected. Proceed.
+- [78] **Takumi**: @Servas, consensus is final. A is selected. Proceed.
+- [79] **Minako**: @Servas, consensus is final. A is selected. Proceed.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

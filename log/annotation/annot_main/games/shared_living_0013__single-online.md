@@ -1,0 +1,72 @@
+# shared_living_0013__single-online (shared_living)
+
+## Round 1
+- [5] **Shizue**: Since we are all moving together, I want to make sure we consider how our placement affects our communication. I'll look into the two project strands within earshot last spring and what this year's two joiners reported.
+- [6] **Toshio**: I want to ensure the distribution of seats is fair. I will check the drawn plan against the staff survey and the unplanned seat shuffles in the past year.
+- [7] **Daisuke**: I... I think it's important to know the costs. I'll look into the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [8] **Mio**: I want to know how this affects our daily flow! I'll check the morning routine on the pilot floor upstairs and the arrival times in the badge records.
+- [9] **Shunichi**: I'll handle the physical side of things. I'm looking into the sound meter readings across the room and the physio's note from the workstation check.
+- [10] **Shizue**: Does anyone else feel we should look into the human element more, or are we satisfied with these choices?
+- [11] **Toshio**: I believe the current selection covers the necessary bases. We have the financial, physical, and social aspects accounted for.
+- [12] **Daisuke**: I agree... if everyone is okay with these, then I think it's enough.
+- [13] **Mio**: I'm totally on board! It feels like we've got a great mix of data points to help us decide.
+- [14] **Shunichi**: It's a comprehensive enough list. No need to overcomplicate the research phase; let's just get the data.
+- [15] **Shizue**: I'm glad we're all in agreement. I'll start gathering the information on the project strands and the new joiners right away.
+- [16] **Toshio**: I will proceed with the survey and shuffle records. It is better to have the facts before we start debating the layout.
+- [17] **Daisuke**: I'll... I'll go ahead and check the billing and the quotes then.
+- [18] **Mio**: I'll dive into those badge records and the pilot floor routine! I'm curious to see how much time we're actually talking about.
+- [19] **Shunichi**: I'll get the sound readings and the physio's notes. Let's see if the reality of the room matches the plan.
+- [20] **Shizue**: I think we have a solid plan for this first step. Let's all take our time with the research and meet back here to share what we've found.
+- [21] **Toshio**: Agreed. I will ensure my findings are precise so we can avoid any ambiguity when we reconvene.
+- [22] **Daisuke**: I'll do my best to be thorough... I'll see you all soon.
+- [23] **Mio**: Can't wait! See you all in a bit!
+## Round 2
+- [35] **Shizue**: It seems that sitting close to one another really helps the team learn and collaborate more naturally than we might realize.
+- [36] **Toshio**: I've found that the current plan creates an imbalance in window access, and past shuffles have caused significant disruptions to our work.
+- [37] **Daisuke**: The costs are... quite high. Re-running the power is expensive per desk, and we're paying for floor area regardless of how many of us are actually sitting there.
+- [38] **Mio**: It turns out that a "free" system isn't actually free in terms of time! Setting up every morning takes a few minutes, and people arrive at very different times.
+- [39] **Shunichi**: The sound levels vary quite a bit across the room, and the physio's notes suggest that getting a workstation actually comfortable is a slow, tedious process.
+- [40] **Shizue**: @Toshio, if the current plan is unfair regarding the windows, perhaps we should consider a system where no one is permanently stuck in a less desirable spot.
+- [41] **Toshio**: That is a logical suggestion, Shizue. If we avoid permanent assignments, we eliminate the risk of some people being disadvantaged by the layout for the long term.
+- [42] **Daisuke**: But if we change things too often, the cost of re-running the power and network will just keep adding up... it might be too expensive.
+- [43] **Mio**: That's a good point, Daisuke! But we also have to think about the time we lose every morning if we're constantly moving. I don't want us to waste our energy just getting settled.
+- [44] **Shunichi**: Exactly. If it takes days to get a chair and monitor just right, moving every few weeks or every single morning sounds like a nightmare for my back.
+- [45] **Shizue**: I understand. It sounds like we are balancing the need for collaboration and fairness against the costs of time, money, and physical comfort.
+- [46] **Toshio**: If we prioritize stability to avoid the disruption of shuffles and the cost of rewiring, we must find a way to address the window inequality fairly.
+- [47] **Daisuke**: I... I just worry that if we don't keep it simple, the budget will be gone before we even finish the move. Maybe we should avoid any plan that requires frequent changes.
+- [48] **Mio**: I agree with Daisuke on the budget, but I'm still worried about the morning rush! If we go with fixed desks, we save time and money, but we're back to the window problem.
+- [49] **Shunichi**: If we go with fixed desks, we at least solve the ergonomics and noise issues. I can't be expected to fight with a monitor arm every single morning just to avoid a window dispute.
+- [50] **Shizue**: It seems we are torn between the efficiency of fixed seats and the fairness of a flexible system. Perhaps there is a middle ground that allows for some change without being a daily burden?
+- [51] **Toshio**: A rotating system could potentially balance the window access issue without the daily chaos of a free-address layout or the permanence of fixed desks.
+- [52] **Daisuke**: I'm not sure... wouldn't rotating still mean we have to pay for the network and power to be moved every time we shift?
+- [53] **Mio**: That's a really good question, Daisuke! I wonder if rotating blocks means we just move as a group to desks that are already wired, rather than moving the wires themselves?
+- [54] **Shunichi**: If we're just swapping pre-wired blocks, it might be tolerable, but I'm still concerned about the time it takes to adjust the equipment to my liking.
+## Round 3
+- [60] **Shizue**: Since we've weighed the costs and the benefits of collaboration, I think we are ready to look at the options and decide what works best for everyone.
+- [61] **Toshio**: Given the data, we must choose between Free Address, Fixed Desks by Function, or Rotating Blocks. I believe Rotating Blocks is the most equitable way to handle the window disparity.
+- [62] **Daisuke**: I... I'm still worried about the budget. If we can't avoid the rewiring costs, Fixed Desks by Function seems like the safest choice for the department's finances.
+- [63] **Mio**: I'm torn! Fixed desks save time and money, but Rotating Blocks sounds like a fun way to keep things fair. I'll have to think about which one is less stressful for our daily flow.
+- [64] **Shunichi**: I'm leaning toward Fixed Desks. Between the noise levels and the physio's warning about equipment adjustment, I can't support any system that forces me to reset my workstation repeatedly.
+- [65] **Shizue**: I see the value in both stability and fairness. However, knowing how much the new joiners benefited from overhearing us, I worry that Fixed Desks by Function might isolate us too much.
+- [66] **Toshio**: @Shizue, that is a valid point, but Rotating Blocks would still allow for group interaction while ensuring that no one is permanently relegated to the interior wall.
+- [67] **Daisuke**: If we rotate, do we still have to pay for the network changes? I really can't support anything that keeps draining the budget.
+- [68] **Mio**: @Daisuke, I think we can just move our laptops and notebooks! If the desks are already there, we aren't moving the actual power outlets, right? That would save the budget and our time!
+- [69] **Shunichi**: Even if we just move our laptops, I still have to spend days tweaking the chair and monitor arm at every new spot. That's a productivity killer I can't ignore.
+- [70] **Shizue**: I understand your frustration, Shunichi. However, if we choose Fixed Desks, we risk losing that spontaneous learning and connection that helps our new colleagues feel welcome and integrated.
+- [71] **Toshio**: If we prioritize the social integration Shizue mentions and the fairness I seek, Rotating Blocks is the only option that addresses both without the daily inefficiency of Free Address.
+- [72] **Daisuke**: I... I suppose if we aren't paying for new wiring every time we move, Rotating Blocks might be okay. I just want to make sure we aren't wasting money.
+- [73] **Mio**: I'm totally for Rotating Blocks then! It's a great compromise—it's fair, it keeps us together, and it doesn't waste our mornings like Free Address would.
+- [74] **Shunichi**: I still find the physical toll of resetting my workstation unacceptable, but if the rest of you are this set on it, I can't realistically fight the majority.
+- [75] **Shizue**: It seems we have found a path that respects both our need for fairness and our budget. I will cast my vote for Rotating Blocks.
+- [76] **Toshio**: I agree that it is the most balanced solution for the team. I vote for Rotating Blocks.
+- [77] **Daisuke**: I'll go with Rotating Blocks too... as long as we're careful with the costs.
+- [78] **Mio**: I'm all in! Rotating Blocks it is! I vote for Rotating Blocks!
+- [79] **Shunichi**: I'll vote for Rotating Blocks as well, though I'm still not thrilled about the ergonomics.
+### Vote
+- Shizue -> C
+- Toshio -> C
+- Daisuke -> C
+- Mio -> C
+- Shunichi -> C
+## Result
+- adopted: C

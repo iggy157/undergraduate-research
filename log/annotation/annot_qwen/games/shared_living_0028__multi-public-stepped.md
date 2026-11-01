@@ -1,0 +1,73 @@
+# shared_living_0028__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Shion**: The noise leaks through that thin wall. I need to know the sound levels.
+- [6] **Daisuke**: I am worried about the monthly costs. We need to see the invoices.
+- [7] **Rin**: Who cleans up after everyone? I want to check the usage tally.
+- [8] **Servas**: We are strangers here. I need to see where awkward talks happen.
+- [9] **Toshio**: I want to track where our hours go. I will check the facilities callouts.
+- [10] **Shion**: @Toshio, do the callouts include noise complaints?
+- [11] **Daisuke**: @Shion, the invoices will show if we are overpaying for space.
+- [12] **Rin**: @Servas, if we know where the awkwardness is, maybe we can fix it.
+- [13] **Servas**: @Rin, yes. Understanding the friction helps us choose the right room.
+- [14] **Toshio**: @Shion, I will look at the callouts. They might show maintenance gaps.
+- [15] **Shion**: I will also check the partition wall. It seems too thin.
+- [16] **Daisuke**: I will look at the quotes for fit-outs. We need to know the price.
+- [17] **Rin**: I will check the crumbs and bins. It shows who actually uses it.
+- [18] **Servas**: I will look at the unplanned talk since the refit. It shows our isolation.
+- [19] **Toshio**: I will also check the invoices for outside hire. It shows our spending.
+- [20] **Shion**: Agreed. Let us see the facts before we decide.
+- [21] **Daisuke**: Yes. Paper figures are safer than guesses.
+- [22] **Rin**: I hope the tally shows fairness.
+- [23] **Servas**: I hope we find a way to connect again.
+- [24] **Toshio**: Let us see where the time actually goes.
+## Round 2
+- [35] **Shion**: The wall is just plasterboard. I can hear everything. And the crumbs are everywhere.
+- [36] **Daisuke**: The meeting space costs 141,000 yen. The kitchen is 96,000. We paid 68,000 last year for outside hire.
+- [37] **Rin**: The two nearest the door used it eleven times. The rest only four. And crumbs are under three keyboards.
+- [38] **Servas**: The last hard talk happened in front of everyone. Now we only talk by the printer. We are isolated.
+- [39] **Toshio**: Eleven callouts for equipment rooms. None for the empty store. We pay 68,000 for small groups outside.
+- [40] **Shion**: @Daisuke, 141,000 is a lot. But if we stop leaking noise, maybe it is worth it?
+- [41] **Daisuke**: @Shion, the kitchen is cheaper. But do we need a hob? We just need to eat.
+- [42] **Rin**: @Servas, if we make it a quiet room, maybe people will actually rest? But who cleans the crumbs?
+- [43] **Servas**: @Rin, a quiet room might help. But we need a place to talk, not just hide.
+- [44] **Toshio**: @Daisuke, the outside hire is for small groups. A meeting space fits that. But the cost is high.
+- [45] **Shion**: The noise is the main problem. A quiet room solves that. But we need to address the mess.
+- [46] **Daisuke**: The figures show we are paying for space we don't use well. A meeting space might be more efficient.
+- [47] **Rin**: The tally shows unfair use. A shared calendar for a meeting space could fix that.
+- [48] **Servas**: A meeting space allows for structured talk. But we need to ensure it is not just for work.
+- [49] **Toshio**: The callouts show equipment causes issues. A meeting space has less equipment than a kitchen.
+- [50] **Shion**: I lean towards a meeting space. It addresses the noise and the usage.
+- [51] **Daisuke**: I am hesitant about the cost. But the outside hire is also expensive.
+- [52] **Rin**: A meeting space with a calendar seems fair. I can live with that.
+- [53] **Servas**: A meeting space could be a place for difficult conversations. I support it.
+- [54] **Toshio**: The hours spent on upkeep for a kitchen would be high. A meeting space is simpler.
+## Round 3
+- [60] **Shion**: Option B solves the noise and the usage issues. I vote B.
+- [61] **Daisuke**: The cost is high, but the outside hire is also costly. I vote B.
+- [62] **Rin**: The calendar ensures fairness. I vote B.
+- [63] **Servas**: It provides a space for necessary conversations. I vote B.
+- [64] **Toshio**: It minimizes upkeep hours. I vote B.
+- [65] **Shion**: Is there any objection to B?
+- [66] **Daisuke**: No. The figures support it.
+- [67] **Rin**: No. It seems fair.
+- [68] **Servas**: No. It addresses our isolation.
+- [69] **Toshio**: No. It is efficient.
+- [70] **Shion**: Then we are agreed.
+- [71] **Daisuke**: Yes.
+- [72] **Rin**: Yes.
+- [73] **Servas**: Yes.
+- [74] **Toshio**: Yes.
+- [75] **Shion**: Let us proceed with B.
+- [76] **Daisuke**: Agreed.
+- [77] **Rin**: Agreed.
+- [78] **Servas**: Agreed.
+- [79] **Toshio**: Agreed.
+### Vote
+- Shion -> B
+- Daisuke -> B
+- Rin -> B
+- Servas -> B
+- Toshio -> B
+## Result
+- adopted: B

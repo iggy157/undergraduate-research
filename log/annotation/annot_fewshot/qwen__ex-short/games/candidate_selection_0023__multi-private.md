@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to know which past projects actually worked for the people using them.
+- [6] **Victoria**: I am concerned about how long rooms stay out of service during construction.
+- [7] **Benjamin**: The initial budget figures rarely match the final cost after the building opens.
+- [8] **Kenji**: I am worried that the approved numbers do not survive contact with the real market.
+- [9] **Shunichi**: The same tired staff keep absorbing every new burden. I need to see who is actually left to maintain these places.
+- [10] **Mizuki**: @Shunichi, that is a valid concern. But I want to see if the projects we built actually satisfied the users.
+- [11] **Victoria**: @Mizuki, satisfaction is important, but I need to know the downtime. How long are rooms unusable during the work?
+- [12] **Benjamin**: @Victoria, downtime is a symptom. I need to see the tender records to understand where the budget actually went.
+- [13] **Kenji**: @Benjamin, exactly. I want to see the renewal reserve too. It shows what we actually spend after the building opens.
+- [14] **Shunichi**: @Kenji, the reserve is just a number. I need to know if the people maintaining it are still standing.
+- [15] **Mizuki**: @Victoria, I understand the urgency of downtime. But without knowing if the final result was actually useful, we might just be fixing the wrong things.
+- [16] **Victoria**: @Mizuki, usefulness is vital, but if the space is unusable for months, the academic calendar suffers. I need the timetable records to quantify that loss.
+- [17] **Benjamin**: @Mizuki, usefulness is nice, but I need to know why the calendar slips. I will check the delivery schedules by project rationale.
+- [18] **Kenji**: @Benjamin, I agree. I will check the survey findings in the older blocks to see the real condition.
+- [19] **Shunichi**: @Benjamin, schedules are just paper. I need to see the actual workload. I will check the bench technicians' weekly manual routines.
+- [20] **Mizuki**: I will check the post-occupancy review ratings to see which projects truly served their users.
+- [21] **Victoria**: I will check the timetable records on rooms out of service. I also need the booking data for specialist and general rooms.
+- [22] **Benjamin**: I will check the tender records over three budget cycles. I also need the decade of delivery schedules by project rationale.
+- [23] **Kenji**: I will check the renewal reserve for equipment bought earlier. I also need the survey findings in the older blocks to see the real condition.
+- [24] **Shunichi**: I will check the staffing posts since the hiring freeze. I also need the bench technicians' weekly manual routines to see the real load.
+## Round 2
+- [35] **Mizuki**: The reviews show high satisfaction when any department could book the space. Projects argued for comfort or appeal slipped a year or more.
+- [36] **Victoria**: The timetable data is stark. Every room closed for works required paid off-site space for two terms. That is a massive hidden cost.
+- [37] **Benjamin**: The tender data confirms my fear. Mechanical plant costs jumped a fifth, while the schedule data shows comfort projects slip a year.
+- [38] **Kenji**: The reserve is empty. We bought kit, wrote it down, but never saved for replacement. The surveys show hazardous material in older blocks, adding months.
+- [39] **Shunichi**: The freeze left grounds posts empty, yet technicians still burn hours on manual checks. We are bleeding capacity while pretending the system works.
+- [40] **Mizuki**: @Benjamin, your schedule data aligns with my findings. Inspection-driven projects stay on track, but comfort-based ones slip. We must prioritize utility over appeal.
+- [41] **Victoria**: @Mizuki, I agree. The booking data shows general rooms are always full, while specialist ones sit idle. We need high utilization to justify the cost.
+- [42] **Benjamin**: @Kenji, the empty reserve is a disaster. We are funding new builds with money meant for old repairs. That is a recipe for failure.
+- [43] **Kenji**: @Benjamin, exactly. The market prices have shifted, and our paper figures are obsolete. The hazardous material in older blocks proves that hidden costs always emerge.
+- [44] **Shunichi**: @Kenji, the hazardous material is a symptom. The real failure is that we have no hands to fix it. The technicians are drowning in manual labor.
+- [45] **Mizuki**: @Shunichi, the manual labor is a symptom of poor design. If we build spaces that are easy to maintain, we reduce that burden.
+- [46] **Victoria**: @Shunichi, I see your point. But if we choose a space that is widely bookable, we reduce the need for constant, specialized intervention.
+- [47] **Benjamin**: @Mizuki, I agree. If we pick a project with a clear inspection rationale, the schedule data suggests it will actually finish on time.
+- [48] **Kenji**: @Shunichi, the empty reserve means we are absorbing those hidden costs now. I need to see if the new plan accounts for that market reality.
+- [49] **Shunichi**: @Kenji, the market is irrelevant if we have no one to operate it. I need a plan that doesn’t require a miracle worker to keep the lights on.
+- [50] **Mizuki**: I am ready to see the candidates. We need a plan that is widely useful, on schedule, and easy to maintain.
+- [51] **Victoria**: I am ready. The data points to a general-purpose space that minimizes downtime and maximizes utilization.
+- [52] **Benjamin**: I am ready. The numbers are clear: avoid mechanical plant and comfort-driven projects. We need a plan that respects the budget and the calendar.
+- [53] **Kenji**: I am ready. We must pick a plan that accounts for the empty reserve and the hidden costs in older blocks.
+- [54] **Shunichi**: I am ready. The data is clear: we need a project that does not require a miracle worker to keep the lights on.
+## Round 3
+- [60] **Mizuki**: The post-occupancy data strongly favors a space that is widely accessible and bookable. Candidate A fits that profile perfectly.
+- [61] **Victoria**: Candidate A is an indoor conversion. It avoids the weather delays and the high-cost mechanical plant issues affecting the other options.
+- [62] **Benjamin**: Candidate D is a trap. My tender data shows mechanical plant costs jumped a fifth. We cannot afford that surprise.
+- [63] **Kenji**: Candidate C is a nightmare. The surveys show hazardous material in older blocks, and path work means digging up exactly that. Hidden costs will explode.
+- [64] **Shunichi**: Candidate D is a staffing suicide. My data shows technicians already drown in manual checks. Adding complex ventilation maintenance will break the remaining crew.
+- [65] **Mizuki**: @Victoria, your point on indoor conversion is key. Candidate A avoids the weather risks that plagued outdoor projects. It is the safest bet for schedule.
+- [66] **Victoria**: @Mizuki, exactly. The booking data confirms general rooms are always full. Candidate A maximizes utilization and minimizes the costly downtime I found.
+- [67] **Benjamin**: @Mizuki, I agree. Candidate A is an indoor conversion, avoiding the mechanical plant cost trap. It fits the inspection-driven rationale that keeps schedules honest.
+- [68] **Kenji**: @Benjamin, exactly. Candidate A avoids the empty reserve trap. It is a simple conversion, so the market costs stay predictable.
+- [69] **Shunichi**: @Mizuki, Candidate A is the only one that doesn't require a miracle worker. The service desk is simple, and the open layout means no complex systems to babysit.
+- [70] **Mizuki**: @Benjamin, your point on the inspection rationale is crucial. Candidate A serves a clear, functional need. It is not a vanity project, so the schedule risk is minimal.
+- [71] **Victoria**: @Benjamin, precisely. The data shows general rooms are in constant demand. Candidate A directly addresses that shortage, ensuring high utilization and justifying the capital spend.
+- [72] **Benjamin**: @Victoria, the booking data is compelling. If the space is always full, the capital spend is justified. I am ready to vote for Candidate A.
+- [73] **Kenji**: @Victoria, the booking data confirms the demand. Candidate A is a simple conversion, so the market costs stay predictable. I am ready to vote for A.
+- [74] **Shunichi**: @Victoria, the booking data is solid. Candidate A is the only option that won't bury my exhausted staff in endless maintenance. I am ready to vote for A.
+- [75] **Mizuki**: I am ready to vote. The data is clear: Candidate A serves the users, stays on schedule, and respects our resources. I vote for A.
+- [76] **Victoria**: I am ready to vote. The data confirms Candidate A minimizes downtime and maximizes utilization. I vote for A.
+- [77] **Benjamin**: I am ready to vote. The numbers are clear: Candidate A avoids the mechanical plant cost trap and the schedule slip. I vote for A.
+- [78] **Kenji**: I am ready to vote. Candidate A avoids the hidden costs and market surprises that plague the other options. I vote for A.
+- [79] **Shunichi**: I am ready to vote. Candidate A is the only choice that respects the reality of our exhausted staff. I vote for A.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0028__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I worry about the depot floor. Freight moves regardless of office projects. We need to see how our equipment actually handles the calendar.
+- [6] **Mizuki**: I am concerned about the hidden costs. Headline prices lie. I need to see what keeps arriving after the initial contract is signed.
+- [7] **Asuka**: I suspect we will repeat past failures. Who is in charge when things break? And does the plan survive contact with reality?
+- [8] **Rin**: I am curious about our history. Systems age quietly, and outside work often comes back broken. I want to see the scars.
+- [9] **Servas**: I worry about our people. The ones holding it together are leaving or stretched thin. How will this land on them?
+- [10] **Kenji**: @Mizuki, hidden costs are real, but if the yard scanners fail, we stop moving. I need to check the physical reality first.
+- [11] **Mizuki**: @Kenji, physical failure is a cost. I will look at the renewal invoices to see where the money actually goes over time.
+- [12] **Asuka**: @Rin, history is a mirror. I need to know if support ownership is clear. I will check the last winter's outage records.
+- [13] **Rin**: @Asuka, I agree. I will look at the 2018 pay move data lift to see how outside work really landed.
+- [14] **Servas**: @Kenji, the yard is vital, but the people running it are more fragile. I will check the administrator retirements and hiring times.
+- [15] **Kenji**: @Servas, I hear you. But I need to know if the yard devices can handle the new system. I will check the 2021 scheduling trial.
+- [16] **Mizuki**: @Asuka, support gaps are expensive. I will also look at the board minutes to see how capital vs operating requests are treated.
+- [17] **Asuka**: @Mizuki, board minutes show intent. I will also check the warehouse rule changes to see if scope freezes actually hold.
+- [18] **Rin**: @Kenji, the scheduling trial is a good start. I will also look at the upgrade history of the dispatch tool to see how we handle aging systems.
+- [19] **Servas**: @Rin, the dispatch tool is old, but the people are older. I will also check the depot supervisors and the last rollout to see how training sticks.
+- [20] **Kenji**: I will examine the yard devices and the 2021 scheduling trial. I need to know if our hardware can survive the change.
+- [21] **Mizuki**: I will examine the five years of renewal invoices and the board minutes on capital and operating requests. I need to see the true cost curve.
+- [22] **Asuka**: I will examine support ownership during last winter's outage and the warehouse rule changes after new accounts. I need to see where control breaks.
+- [23] **Rin**: I will examine the data lift in the 2018 pay move and the upgrade history of the dispatch tool. I need to see how we handle transitions and aging tech.
+- [24] **Servas**: I will examine administrator retirements and hiring times and the depot supervisors and the last rollout. I need to see who is left to carry the weight.
+## Round 2
+- [35] **Kenji**: The yard scanners are a mess of old models. The 2021 trial was ringed with spreadsheets in a month. We need something that works with what we have.
+- [36] **Mizuki**: The renewal invoices show bundled deals held price, but separate add-ons climbed yearly. The board minutes show capital gets trimmed, but operating lines pass easily.
+- [37] **Asuka**: Last winter's outage sat unowned for two days. Four suppliers pointed at each other. And the warehouse rules were rewritten twice mid-year. Scope freezes are fiction.
+- [38] **Rin**: The 2018 pay move had mismatched route codes for a year. The dispatch tool skipped three upgrades because testing took weeks we didn't have. We age in place.
+- [39] **Servas**: Two of four administrators retire this year. The last posting stayed open eleven months. And the last rollout's training was dropped in two depots within weeks.
+- [40] **Kenji**: @Mizuki, if add-ons climb yearly, we are bleeding money. But if the yard devices can't talk to the new system, we bleed time.
+- [41] **Mizuki**: @Kenji, time is money. The board minutes confirm we are locked into operating costs. We need a vendor who doesn't nickel-and-dime us.
+- [42] **Asuka**: @Rin, the unowned outage is terrifying. We need a single point of accountability. Modular systems might scatter support even more.
+- [43] **Rin**: @Asuka, I agree. The dispatch tool history shows we can't handle complex upgrades. We need something simple or something that handles the complexity for us.
+- [44] **Servas**: @Kenji, the yard is critical, but the people are the bottleneck. If we can't hire admins, we can't run a complex system.
+- [45] **Kenji**: @Servas, you're right. We can't hire fast enough. We need a system that doesn't require deep admin skills to keep running.
+- [46] **Mizuki**: @Asuka, a single point of accountability is key. But if it's a subscription, we are locked in. We need to see if the price stays flat.
+- [47] **Asuka**: @Mizuki, flat price is good, but if the scope changes, we are stuck. The warehouse rule changes prove we can't freeze scope.
+- [48] **Rin**: @Servas, the training drop-off is a red flag. We need a vendor who stays with us, not just a manual.
+- [49] **Servas**: @Rin, exactly. The depot supervisors shaped their own routines. We need a partner who respects that, not one who imposes rigid steps.
+- [50] **Kenji**: I am leaning towards a system that works with our existing yard devices. A modular approach might let us keep the scanners we have.
+- [51] **Mizuki**: I am worried about the long-term cost. A subscription with a marketplace might hide costs in add-ons. We need transparency.
+- [52] **Asuka**: I am concerned about support ownership. A single vendor with a regional team might be better than scattered suppliers.
+- [53] **Rin**: I am worried about the data lift. We need a vendor who has done this before and can handle the mess.
+- [54] **Servas**: I am worried about the people. We need a vendor who will train our remaining staff and stay through the rollout.
+## Round 3
+- [60] **Kenji**: The candidates are here. A is a cloud suite with a partner for migration. B is modular. C is on-premise with an engineering team. D is a hosted suite with a regional team.
+- [61] **Mizuki**: @Kenji, A's marketplace sounds like a trap for add-on costs. B's separate licenses might climb yearly. C is a one-time purchase, but who maintains it?
+- [62] **Asuka**: @Mizuki, C's engineering team present through rollout addresses the support gap. But if they leave, who is in charge? D's regional team might be more stable.
+- [63] **Rin**: @Asuka, C's on-premise deployment might be easier to upgrade if we have the team. But our dispatch tool history shows we struggle with upgrades.
+- [64] **Servas**: @Rin, C's engineering team staying through rollout is crucial. Our admins are retiring. We need hands-on help, not just a manual.
+- [65] **Kenji**: @Servas, C's on-premise setup might work with our old yard devices. But if the engineering team leaves, we are stuck.
+- [66] **Mizuki**: @Kenji, the five-year invoice data shows separate licenses climb. B is risky. A's subscription might be stable, but the marketplace is a wildcard.
+- [67] **Asuka**: @Mizuki, A's partner firm handling migration is a risk. Last winter's outage showed scattered support fails. We need one throat to choke.
+- [68] **Rin**: @Asuka, D's fixed configuration process might avoid the scope creep we saw in the warehouse rules. But is it flexible enough for our depots?
+- [69] **Servas**: @Rin, D's regional service team might be better for training. Our depot supervisors dropped the last rollout's training. We need local support.
+- [70] **Kenji**: @Rin, D's fixed configuration might be too rigid. Our yard devices are a mix. We need flexibility. C's on-premise might be more adaptable.
+- [71] **Mizuki**: @Kenji, C's one-time purchase is attractive, but the maintenance costs are hidden. The board minutes show operating lines pass easily. We might get stuck with high maintenance.
+- [72] **Asuka**: @Mizuki, C's engineering team present through rollout is a strong point. It addresses the support ownership issue. But what happens after?
+- [73] **Rin**: @Asuka, the 2018 pay move shows data lifts are messy. C's engineering team might handle that better than an external partner.
+- [74] **Servas**: @Rin, C's team staying through rollout is vital. Our admins are retiring. We need them to teach the remaining staff.
+- [75] **Kenji**: I am leaning towards C. It works with our existing infrastructure and has a team on-site.
+- [76] **Mizuki**: I am worried about C's long-term costs. But the one-time purchase is better than climbing add-ons.
+- [77] **Asuka**: I am concerned about C's post-rollout support. But the engineering team during rollout is a strong plus.
+- [78] **Rin**: I am worried about C's upgrade path. But the on-premise setup might be easier to manage.
+- [79] **Servas**: I am leaning towards C. The engineering team staying through rollout is exactly what we need for our retiring admins.
+### Vote
+- Kenji -> C
+- Mizuki -> C
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

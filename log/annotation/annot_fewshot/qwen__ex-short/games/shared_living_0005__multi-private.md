@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private (shared_living)
+
+## Round 1
+- [5] **Benjamin**: I appreciate the silence. Let us ensure the new split reflects actual usage, not just headcount.
+- [6] **Mio**: I worry about who actually does the math every month. It always falls on the same person, and it takes forever!
+- [7] **Jonathan**: I agree with Benjamin. We need to verify if the current split truly matches our individual usage patterns.
+- [8] **Victoria**: I need to see the full year of statements before agreeing to any new structure.
+- [9] **Minato**: I just want us to be nice to each other. The money talk makes everyone feel a bit sad.
+- [10] **Benjamin**: @Mio, the math is simple; the discomfort is the real cost. I will handle the calculations if we agree on the method first.
+- [11] **Mio**: @Benjamin, that is so kind! But I am worried it will still eat up your evenings. I want to make sure the system is easy for everyone.
+- [12] **Jonathan**: @Mio, I appreciate your concern. A simple, transparent method is best. I will look into the reconciliation template to see if it simplifies the process.
+- [13] **Victoria**: @Jonathan, a template is useful, but I need the raw data first. I will check the last twelve utility statements to see the actual trends.
+- [14] **Minato**: @Victoria, I will look at the payment log to see if the money is making us feel distant.
+- [15] **Benjamin**: @Minato, the money is not the distance; the silence is. I will check the plug-in monitor readings to see who actually uses what.
+- [16] **Mio**: @Benjamin, that sounds intense! I will check the kitchen notice about the cooler to see if it is secretly using all our power.
+- [17] **Jonathan**: @Benjamin, I will look into the sunlight and heating need by room. It seems like a quiet way to understand our different footprints.
+- [18] **Victoria**: @Mio, the cooler is a constant drain. I will check the electrician's quote for the rooms to see if we can isolate the costs properly.
+- [19] **Minato**: @Benjamin, I will look at the winter habits at a house paying ahead. I want to see how they keep things warm without fighting.
+- [20] **Benjamin**: I will also review the trial run of the reconciliation template. Let us see if the numbers can speak without raising our voices.
+- [21] **Mio**: I will also check the monthly settle observed at another house. I want to see how they keep the peace while splitting the bills!
+- [22] **Jonathan**: I will also review the settling up when the last rooms filled. I want to see how the original agreement was formed.
+- [23] **Victoria**: I will also check the payment log for the last twelve months. I need to see exactly where the money went before I commit to anything.
+- [24] **Minato**: I will also look at the monthly settle observed at another house. I am curious how they keep the air light and friendly.
+## Round 2
+- [35] **Benjamin**: The monitors show a four-to-one spread. The template, however, requires keying in every invoice manually. That is not a system; it is a punishment.
+- [36] **Mio**: @Benjamin, forty minutes of logging and arguing? That is way too much! I want a system that takes five minutes, not an evening.
+- [37] **Jonathan**: @Benjamin, the manual entry is a burden. I found the rooms were assigned by lot, which explains the heating disparity.
+- [38] **Victoria**: @Benjamin, the variance is brutal. February was nearly three times August. I need to know if the template can handle that swing without manual entry.
+- [39] **Minato**: @Mio, I saw the other house took forty minutes. That is so long. I hope we can find a way that is gentle and quick for everyone.
+- [40] **Benjamin**: @Victoria, the template cannot handle that swing without manual entry. It is a dead end. We need a method that accounts for the four-to-one spread automatically, not one that forces us to log every kilowatt-hour by hand.
+- [41] **Mio**: @Benjamin, I agree! If the template is a dead end, we need something simpler. Maybe we just split the big shared costs evenly and let the monitors handle the rest?
+- [42] **Jonathan**: @Mio, that sounds reasonable. The lot assignment explains the heating gap, so a flat split for shared costs might be fairer than trying to track every degree.
+- [43] **Victoria**: @Mio, I agree the template is flawed. But I also saw three late payments caused by shifting amounts. We need stability, not just simplicity.
+- [44] **Minato**: @Victoria, I saw those late payments too. It made the air feel heavy. I want a way that keeps us close, not just on time.
+- [45] **Benjamin**: @Mio, a flat split ignores the four-to-one reality. We need a hybrid: fixed base for shared, variable for personal. @Jonathan, does the lot assignment justify a permanent premium for the cold room?
+- [46] **Mio**: @Benjamin, a permanent premium sounds unfair! Maybe we rotate who pays the extra for the cold room each season? That way, no one feels stuck with the burden forever.
+- [47] **Jonathan**: @Mio, rotating the premium might feel fair, but it adds complexity. I prefer a fixed adjustment based on the heating data we have.
+- [48] **Victoria**: @Jonathan, a fixed adjustment is stable, but I need to know the exact yen amount before I agree. I cannot commit to a number I have not seen.
+- [49] **Minato**: @Victoria, I understand needing the exact number. But I worry that if the amount changes, we might feel distant again. Can we keep it steady?
+- [50] **Benjamin**: @Victoria, the fixed adjustment is roughly two thousand yen monthly. It is stable, predictable, and avoids the chaos of rotation. Let us lock it in.
+- [51] **Mio**: @Benjamin, two thousand yen sounds manageable! But who actually calculates that every month? I really do not want it to become a huge time sink for anyone.
+- [52] **Jonathan**: @Mio, the adjustment is a one-time calculation based on the heating data. It does not require monthly recalculation. The base split remains simple.
+- [53] **Victoria**: @Benjamin, two thousand yen is a start, but I need to see how that interacts with the winter spike. I will check the winter habits to understand the peak costs.
+- [54] **Minato**: @Mio, I hope the steady number helps us feel safe. I just want us to smile when we talk about the bills, not hide.
+## Round 3
+- [60] **Benjamin**: Option C is the only one that respects the four-to-one spread. A is a lie, and B is a gamble.
+- [61] **Mio**: @Benjamin, I worry C is too complicated! Who checks the meters every month? I want something that takes five minutes, not an evening.
+- [62] **Jonathan**: @Benjamin, I understand the appeal of precision. However, Option C requires new hardware and constant monitoring. I fear it will replace our quiet peace with technical anxiety.
+- [63] **Victoria**: @Benjamin, C isolates the cost, but the upfront hardware expense is a risk I have not priced. I need to know the installation fee before I can consider it.
+- [64] **Minato**: @Mio, I agree. I worry the meters will make us feel watched. I just want us to be kind, not just accurate.
+- [65] **Benjamin**: @Mio, the meters are passive; they simply record. The complexity is in the setup, not the daily life. @Victoria, the installation is a one-time cost, not a monthly drain.
+- [66] **Mio**: @Benjamin, I hear you, but I am still scared of the monthly logging! If it takes forty minutes, I will definitely forget. Can we make it super easy?
+- [67] **Jonathan**: @Mio, the meters are passive. You simply glance at a number once a month. It is not logging; it is just seeing.
+- [68] **Victoria**: @Benjamin, a one-time cost is still a cost. I need to see the electrician's quote to know if that upfront fee is worth the long-term stability.
+- [69] **Minato**: @Benjamin, I am a little scared of the meters. But I like that we do not have to argue about who used more.
+- [70] **Benjamin**: @Victoria, the quote is for the rooms, not the meters. The hardware is cheap; the labor is the cost. It is a one-time investment in peace.
+- [71] **Mio**: @Benjamin, I am still worried about the monthly check! If it is just glancing at a number, that is fine. But who reminds us to do it?
+- [72] **Jonathan**: @Mio, the reminder is a single line in the shared calendar. It is a gentle nudge, not a demand. We can set it once and forget it.
+- [73] **Victoria**: @Benjamin, I am still hesitant. I need to know if the upfront cost is covered by the savings before I can agree to C.
+- [74] **Minato**: @Mio, I think a gentle reminder is nice. I just want us to feel safe, not watched.
+- [75] **Benjamin**: @Victoria, the savings from the four-to-one spread cover the hardware within a year. It is the only option that stops the winter anxiety.
+- [76] **Mio**: @Benjamin, I am still a bit nervous about the monthly check! But if it is just a quick glance, I can handle it. I just want to make sure it does not become a huge chore for anyone.
+- [77] **Jonathan**: @Benjamin, I agree. The one-time cost buys us long-term silence. I am ready to support Option C.
+- [78] **Victoria**: @Benjamin, the math is sound, but I need the exact installation figure to confirm the break-even point. I cannot vote on a promise.
+- [79] **Minato**: @Victoria, I understand needing the exact number. But I worry that if we wait for perfect proof, we might keep feeling distant. Can we trust that the meters will help us be kind?
+### Vote
+- Benjamin -> C
+- Mio -> C
+- Jonathan -> C
+- Victoria -> B
+- Minato -> C
+## Result
+- adopted: C

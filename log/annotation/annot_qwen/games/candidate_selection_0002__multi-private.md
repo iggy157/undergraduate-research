@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I value patience. Let us examine the data before deciding.
+- [6] **Asuka**: Agreed. We need to verify if our past narratives match actual retention data. I will investigate account retention through price rises.
+- [7] **Minako**: I need to understand our future capital obligations. I will look into reserve accounts and follow-on calls.
+- [8] **Mio**: I’m worried about finding people! I’ll check retained recruiters’ placement times and adviser bench and partner board seats.
+- [9] **Toshio**: I will examine security review time before first deployment and terms of last winter's credit line.
+- [10] **Servas**: @Asuka, your focus on retention is wise. I will examine independent checks on holdings' reported figures to ensure our baseline is solid.
+- [11] **Asuka**: @Servas, verifying the baseline is essential. I will also review delivery records of two holdings to see if their performance claims hold up.
+- [12] **Minako**: @Toshio, your credit line review is critical. I will also examine the terms of last winter's credit line to assess our borrowing capacity.
+- [13] **Mio**: @Minako, borrowing capacity is key! I’ll also check profile of the exits and the write-off to see our track record.
+- [14] **Toshio**: @Minako, overlapping on the credit line is efficient. I will focus on the security review timeline to isolate external bottlenecks.
+- [15] **Servas**: @Mio, your diligence on the bench is prudent. I will also review the adviser bench and partner board seats to understand our governance depth.
+- [16] **Asuka**: @Mio, governance depth matters, but I need to confirm if our reported growth is real. I will review independent checks on holdings' reported figures.
+- [17] **Minako**: @Servas, governance is vital, but I need to know if our reported figures are accurate. I will review independent checks on holdings' reported figures.
+- [18] **Mio**: @Minako, checking the numbers is smart! I’m still focused on who we can actually hire right now.
+- [19] **Toshio**: @Mio, hiring speed is vital, but I need to isolate external delays. I will examine security review time before first deployment.
+- [20] **Servas**: @Toshio, your focus on security is sound. I will also review security review time before first deployment to understand operational readiness.
+- [21] **Asuka**: @Toshio, security delays are external. I will finalize my second choice: appraisal needs at the last audit to verify our valuation basis.
+- [22] **Minako**: @Asuka, your audit focus is sharp. I will also review appraisal needs at the last audit to verify our valuation basis.
+- [23] **Mio**: @Toshio, security checks are slow! I’m sticking with my two picks: recruiter times and the exit profile. Let’s see who we can actually hire!
+- [24] **Toshio**: @Mio, speed is a symptom, not the cause. I will confirm the security review timeline to identify the specific external friction.
+## Round 2
+- [35] **Servas**: @Minako, the software holdings report only their own dashboard figures. This opacity threatens our quarter-end reporting integrity.
+- [36] **Asuka**: @Servas, that opacity is dangerous. My audit findings show hardware holdings require outside appraisals, adding six weeks and significant fees.
+- [37] **Minako**: @Asuka, that appraisal delay is a cash trap. My findings show follow-on calls are double the model, and our credit line ignores unbilled invoices.
+- [38] **Mio**: @Minako, that’s scary! But my recruiter data shows we can’t hire field crews fast enough. We need a company that doesn’t need seasonal staff!
+- [39] **Toshio**: @Minako, the credit line’s exclusion of unbilled invoices confirms the structural trap. I will now correlate this with the security review delays to map the full external friction.
+- [40] **Servas**: @Toshio, your correlation is vital. I worry that security delays will disrupt our quarter-end reporting. We must ensure new holdings do not worsen this opacity.
+- [41] **Asuka**: @Servas, I agree. My retention data shows software holdings kept customers despite price hikes. We should avoid hardware to prevent appraisal delays and maintain clean reporting.
+- [42] **Minako**: @Asuka, retention is good, but cash flow is king. If follow-on calls double, we need a company with immediate revenue, not just sticky users.
+- [43] **Mio**: @Minako, I agree! My exit data shows we only succeed with quiet back-office tools. Let’s pick a company that doesn’t need seasonal field crews!
+- [44] **Toshio**: @Mio, back-office tools avoid the security review bottleneck. I need to confirm if the candidate’s revenue model bypasses the credit line’s valuation trap.
+- [45] **Servas**: @Toshio, I concur. We must select a candidate whose reporting is transparent and independent, avoiding the dashboard opacity that plagues our current software holdings.
+- [46] **Asuka**: @Servas, transparency is non-negotiable. My retention data confirms software holdings are sticky. We must avoid hardware to prevent appraisal delays and maintain clean reporting.
+- [47] **Minako**: @Toshio, if revenue is unbilled, we cannot borrow against it. We need a candidate with immediate, billable cash flow to survive the doubled follow-on calls.
+- [48] **Mio**: @Minako, exactly! My exit data proves back-office tools work. Let’s pick a company with steady, billable revenue and no seasonal hiring headaches!
+- [49] **Toshio**: @Minako, unbilled revenue is invisible to lenders. We need a candidate with immediate, billable cash flow to bypass the credit line’s structural trap.
+- [50] **Servas**: @Mio, your insight on back-office tools aligns with my need for verifiable data. Let us choose a candidate with transparent, independent reporting to protect our quarter-end integrity.
+- [51] **Asuka**: @Mio, back-office tools align with my retention data. We need transparent reporting and sticky users. Avoid hardware to prevent appraisal delays.
+- [52] **Minako**: @Mio, I agree. We need immediate, billable cash flow to cover doubled follow-on calls. Avoid hardware to prevent appraisal delays and maintain clean reporting.
+- [53] **Mio**: @Toshio, I’m with you! We need steady cash flow and no seasonal hiring headaches. Let’s pick a back-office tool that fits our profile!
+- [54] **Toshio**: @Mio, steady cash flow bypasses the credit line trap. I concur. We need a back-office tool with immediate, billable revenue to survive the structural friction.
+## Round 3
+- [60] **Servas**: @Mio, Clinic Scheduler handles medical records, triggering long security reviews. Ledger Bridge offers transparent, independent data. I favor Ledger Bridge for clean reporting.
+- [61] **Asuka**: @Servas, I agree. Ledger Bridge provides the transparent, independent reporting we need. It avoids the hardware appraisal delays and security bottlenecks that plague other options.
+- [62] **Minako**: @Servas, Ledger Bridge’s billable SaaS model fits our cash needs. It avoids hardware appraisal delays and provides the immediate revenue required to cover our doubled follow-on calls.
+- [63] **Mio**: @Servas, Ledger Bridge is perfect! It’s pure software, so no seasonal field crews to hire. My recruiters can handle the support roles easily. I’m voting for it!
+- [64] **Toshio**: @Servas, Ledger Bridge avoids the medical security bottleneck. Its billable model bypasses the credit line trap. I vote for Ledger Bridge.
+- [65] **Servas**: @Asuka, your agreement strengthens our resolve. Ledger Bridge’s transparency protects our quarter-end integrity. I vote for Ledger Bridge.
+- [66] **Asuka**: @Servas, confirmed. Ledger Bridge’s independent reconciliation matches my retention data. It avoids hardware appraisal delays. I vote for Ledger Bridge.
+- [67] **Minako**: @Toshio, I concur. Ledger Bridge’s billable model secures our cash flow. I vote for Ledger Bridge.
+- [68] **Mio**: @Toshio, I’m so happy we agree! Ledger Bridge means no seasonal hiring headaches for me. I’m voting for it too!
+- [69] **Toshio**: @Minako, confirmed. Ledger Bridge’s billable model bypasses the credit line trap. I vote for Ledger Bridge.
+- [70] **Servas**: @Mio, unity is beautiful. We have found clarity. I stand by my vote for Ledger Bridge, trusting its transparency to guide us forward.
+- [71] **Asuka**: @Servas, unity is efficient. Ledger Bridge’s independent data aligns with my retention findings. I confirm my vote for Ledger Bridge.
+- [72] **Minako**: @Servas, I confirm my vote for Ledger Bridge. Its billable revenue secures our position against the doubled follow-on calls.
+- [73] **Mio**: @Servas, I’m so happy we’re all on the same page! Ledger Bridge is the clear winner. I confirm my vote for it!
+- [74] **Toshio**: @Servas, I confirm my vote for Ledger Bridge. Its billable model bypasses the credit line trap. The external friction is minimized.
+- [75] **Servas**: @All, our consensus is complete. Ledger Bridge is selected. Its transparency will safeguard our quarter-end integrity. Let us proceed with confidence and clarity.
+- [76] **Asuka**: @Servas, consensus is final. Ledger Bridge is selected. Its independent data structure aligns with our retention metrics and avoids hardware appraisal delays. Proceed.
+- [77] **Minako**: @Servas, consensus is final. Ledger Bridge is selected. Its billable revenue secures our position against the doubled follow-on calls. Proceed.
+- [78] **Mio**: @Servas, I’m so happy! Ledger Bridge is perfect. No seasonal hiring headaches for me. I confirm my vote for it!
+- [79] **Toshio**: @Servas, consensus is final. Ledger Bridge is selected. Its billable model bypasses the credit line trap. The external friction is minimized. Proceed.
+### Vote
+- Servas -> D
+- Asuka -> D
+- Minako -> D
+- Mio -> D
+- Toshio -> D
+## Result
+- adopted: D

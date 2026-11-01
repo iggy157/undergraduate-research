@@ -1,0 +1,73 @@
+# candidate_selection_0014__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: We should judge these plans by their longevity, not their opening day glamour.
+- [6] **Misaki**: I am concerned about the ground conditions and the limited number of firms available.
+- [7] **Mio**: I need to understand the long-term financial burden on the city's budget.
+- [8] **Asuka**: Who will actually maintain this place once the ribbon is cut?
+- [9] **Minako**: The site has specific drainage and usage patterns we must respect.
+- [10] **Benjamin**: Agreed. The last decade of our schemes shows a pattern of decay.
+- [11] **Misaki**: @Benjamin, exactly. The clay subsoil here is unpredictable.
+- [12] **Mio**: @Asuka, the maintenance rota is shrinking every year, which worries me.
+- [13] **Asuka**: @Mio, yes. We need to know who is left to do the work.
+- [14] **Minako**: We must look at how people actually cross the site daily.
+- [15] **Benjamin**: I will look into the condition of previous works and the habitat fund terms.
+- [16] **Misaki**: I need to check the regional firms and the depot phasing notes.
+- [17] **Mio**: I will examine the upkeep ledger and the groundskeeping roll.
+- [18] **Asuka**: I will look at the volunteer groups and the groundskeeping roll.
+- [19] **Minako**: I will check the drainage callouts and the timed counts of crossings.
+- [20] **Benjamin**: Let us see what the data says before we commit to any aesthetic.
+- [21] **Misaki**: The earth-moving quotes will tell us if the timeline is realistic.
+- [22] **Mio**: If the upkeep cost triples, this plan is a trap.
+- [23] **Asuka**: If no one is left to mow the grass, the plan fails.
+- [24] **Minako**: The ground will tell us the truth about what is feasible.
+## Round 2
+- [35] **Benjamin**: The habitat fund only pays for planting and water, not hard surfaces.
+- [36] **Misaki**: Only two firms can handle the earth, and they flag slippage risks.
+- [37] **Mio**: Planted ground costs triple to maintain compared to hard surfaces.
+- [38] **Asuka**: The groundskeeping roll has dropped to seven posts; we rely on volunteers.
+- [39] **Minako**: Drainage callouts have doubled, and people stick to firm ground.
+- [40] **Benjamin**: @Mio, that confirms my fear. Hard surfaces are cheaper to keep.
+- [41] **Misaki**: @Benjamin, but the fund won't pay for the hard surfaces you prefer.
+- [42] **Mio**: @Misaki, so we are stuck with expensive planting or unfunded paving?
+- [43] **Asuka**: @Minako, the volunteer groups are already stretched thin with current tasks.
+- [44] **Minako**: @Asuka, yes. We cannot assume they will take on new heavy maintenance.
+- [45] **Benjamin**: The earlier basin still works, but the civic hall apron is patched thrice.
+- [46] **Misaki**: The depot notes say we can hoard the south, but not the center.
+- [47] **Mio**: The gap in upkeep costs is widening yearly. This is unsustainable.
+- [48] **Asuka**: We have two volunteer groups, but one is already busy with habitat tasks.
+- [49] **Minako**: The heat readings are high, and the drainage is failing. We need water.
+- [50] **Benjamin**: So, water management is funded, but hard surfaces are not.
+- [51] **Misaki**: And the ground is risky for large-scale earthworks in the center.
+- [52] **Mio**: We must pick a plan that minimizes long-term upkeep costs.
+- [53] **Asuka**: We need a plan that doesn't rely on a shrinking staff.
+- [54] **Minako**: The site needs drainage solutions, not just more paving or planting.
+## Round 3
+- [60] **Benjamin**: Candidate C, Wetland Restoration, fits the habitat fund terms perfectly.
+- [61] **Misaki**: @Benjamin, but the earth-moving risk is high for reshaping drainage.
+- [62] **Mio**: @Misaki, but the upkeep for water-managed ground is high, isn't it?
+- [63] **Asuka**: @Mio, the volunteer group upriver already does habitat tasks.
+- [64] **Minako**: @Mio, the drainage callouts prove we need this. The heat is a problem.
+- [65] **Benjamin**: The fund pays for the water management. That is the key.
+- [66] **Misaki**: The two firms can handle shallow work, but not deep excavation.
+- [67] **Mio**: If the volunteer group handles the habitat, the city saves on labor.
+- [68] **Asuka**: The other volunteer group is busy with sports, so we can't rely on them.
+- [69] **Minako**: The boardwalks provide firm ground for the crossings we counted.
+- [70] **Benjamin**: Candidate A, Market Plaza, requires hard surfaces the fund won't cover.
+- [71] **Misaki**: @Benjamin, correct. And the center cannot be hoarded off for construction.
+- [72] **Mio**: @Misaki, so A is financially and logistically impossible.
+- [73] **Asuka**: @Mio, yes. And the upkeep for paved areas is lower, but the capital is missing.
+- [74] **Minako**: @Asuka, the heat readings make a paved plaza a liability in summer.
+- [75] **Benjamin**: Candidate B, Woodland Walk, is funded, but the upkeep is triple.
+- [76] **Misaki**: @Benjamin, and the eastern avenue planting record shows high mortality.
+- [77] **Mio**: @Misaki, that confirms the high cost. We cannot afford the aftercare.
+- [78] **Asuka**: @Mio, the volunteer group is already stretched. They can't do more planting.
+- [79] **Minako**: @Asuka, the gravel paths might not hold up to the heavy traffic we counted.
+### Vote
+- Benjamin -> C
+- Misaki -> C
+- Mio -> C
+- Asuka -> C
+- Minako -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0011__single-batch (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I need to verify where the money actually goes before we commit.
+- [6] **Toshio**: We must ensure the organizers don't burn out like last year.
+- [7] **Minako**: I worry about the year-groups staying separate again this time.
+- [8] **Jonathan**: I want to know if the sleeping arrangements will be comfortable.
+- [9] **Asuka**: I need to check how the flat fee lands on different members.
+- [10] **Ryuji**: @Toshio, do you think the current setup is sustainable for the staff?
+- [11] **Toshio**: @Ryuji, yes, the workload was too heavy for the previous team.
+- [12] **Minako**: @Ryuji, I agree, fairness is key, but so is community.
+- [13] **Jonathan**: @Minako, I hope we can find a place where everyone sleeps well.
+- [14] **Asuka**: @Toshio, I am looking into the financial records to be sure.
+- [15] **Ryuji**: I will look at the transport receipts to see the costs.
+- [16] **Toshio**: I will check what the seniors say about mixing year-groups.
+- [17] **Minako**: I will review the canteen closure and cooking duty logs.
+- [18] **Jonathan**: I will look at the accounts from clubs that went inland.
+- [19] **Asuka**: I will check the prefecture rate sheet for public beds.
+- [20] **Ryuji**: Also, I will check the quoting terms for whole-building lets.
+- [21] **Toshio**: And I will look at the attendance sheets for away camps.
+- [22] **Minako**: I will also check the lottery and application for public bookings.
+- [23] **Jonathan**: I will also check the membership list against first-train times.
+- [24] **Asuka**: I will also check the vacation timetable for the club's own hall.
+## Round 2
+- [35] **Ryuji**: Transport is huge, 38% of costs if we go far.
+- [36] **Toshio**: Seniors say mixing only happens when we sleep together.
+- [37] **Minako**: Cooking duty took two hours a day last year.
+- [38] **Jonathan**: Inland clubs slept eight to a room with lights out at eleven.
+- [39] **Asuka**: Public beds are 1,100 yen a night, all-inclusive.
+- [40] **Ryuji**: @Jonathan, eight to a room sounds terrible for sleep.
+- [41] **Toshio**: @Minako, that explains why the organizers were so tired.
+- [42] **Minako**: @Ryuji, yes, and the application for public centers is a nightmare.
+- [43] **Jonathan**: @Asuka, is the campus option better for sleep?
+- [44] **Asuka**: @Jonathan, the campus hall is already booked by three other clubs.
+- [45] **Ryuji**: @Toshio, if we stay local, do we still mix?
+- [46] **Toshio**: @Ryuji, probably not, unless we force it, which is hard.
+- [47] **Minako**: @Asuka, so the campus option is split into early and late slots?
+- [48] **Jonathan**: @Minako, that sounds exhausting. I prefer the coastal lodge.
+- [49] **Asuka**: @Jonathan, the coastal lodge has non-refundable deposits for dropouts.
+- [50] **Ryuji**: @Asuka, that's a risk, but the transport cost is lower.
+- [51] **Toshio**: @Ryuji, I worry about the dropouts, but I want us to bond.
+- [52] **Minako**: @Toshio, the public center is too rigid with the lottery.
+- [53] **Jonathan**: @Minako, I agree, the coastal lodge feels more open.
+- [54] **Asuka**: @Jonathan, I need to see the final numbers before I agree.
+## Round 3
+- [60] **Ryuji**: Option A is cheap but split shifts. Option B is rigid. Option C is risky but fun.
+- [61] **Toshio**: Option C seems best for mixing, despite the deposit risk.
+- [62] **Minako**: Option B is too much paperwork. Option A is too fragmented.
+- [63] **Jonathan**: Option C is the only one where I can sleep well and have fun.
+- [64] **Asuka**: Option C has the highest per-head cost, but the transport is lower.
+- [65] **Ryuji**: @Asuka, if we go with C, we need a strict headcount.
+- [66] **Toshio**: @Ryuji, I agree, we must be careful with the numbers.
+- [67] **Minako**: @Toshio, I am worried about the non-refundable deposit.
+- [68] **Jonathan**: @Minako, we can manage it if everyone commits early.
+- [69] **Asuka**: @Jonathan, I will check the exact quote for the coastal lodge.
+- [70] **Ryuji**: @Jonathan, I think C is the best balance of cost and experience.
+- [71] **Toshio**: @Ryuji, I agree, the social aspect is crucial for the club.
+- [72] **Minako**: @Toshio, I am still hesitant, but I see the logic.
+- [73] **Jonathan**: @Minako, please, I really want to go to the coast!
+- [74] **Asuka**: @Minako, the financial gap is manageable if we are precise.
+- [75] **Ryuji**: I am voting for C.
+- [76] **Toshio**: I am voting for C.
+- [77] **Minako**: I am voting for C, reluctantly.
+- [78] **Jonathan**: I am voting for C!
+- [79] **Asuka**: I am voting for C.
+### Vote
+- Ryuji -> C
+- Toshio -> C
+- Minako -> C
+- Jonathan -> C
+- Asuka -> C
+## Result
+- adopted: C

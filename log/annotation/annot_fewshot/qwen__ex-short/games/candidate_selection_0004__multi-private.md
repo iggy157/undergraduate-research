@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I am worried about the ground conditions and the firms doing the digging.
+- [6] **Benjamin**: I worry about the daily reality. How do people actually cross and use this space right now?
+- [7] **Minato**: I am curious about who will look after the plants and paths every single day.
+- [8] **Minako**: I am concerned about the long-term condition of past projects. I want to see what actually survived the last decade.
+- [9] **Jonathan**: I am concerned about the ongoing costs. I want to know what this place will cost the city to maintain after the ribbon is cut.
+- [10] **Kenji**: @Benjamin, the crossing counts will show us the real traffic. I want to see those numbers too.
+- [11] **Benjamin**: @Kenji, exactly. The counts reveal the pulse. I will check the weekday crossings to see where the pressure points are.
+- [12] **Minato**: @Benjamin, that sounds interesting. I am also curious about the people who help out. I will look at the volunteer groups.
+- [13] **Minako**: @Minato, the volunteer groups are a good indicator of community engagement. I will check the condition of works from the earlier programme to see what actually lasted.
+- [14] **Jonathan**: @Minako, that is a wise check. I will look at the upkeep ledger to see the true annual burden on the city.
+- [15] **Kenji**: @Minato, the volunteer groups might help, but I need to know who digs. I will check the regional firms tendering for earth-moving.
+- [16] **Benjamin**: @Minato, volunteers are lovely, but they do not mow. I will check the groundskeeping roll to see if the city can actually staff this.
+- [17] **Minato**: @Benjamin, that is a very important question. I will look at the groundskeeping roll to see who is actually there.
+- [18] **Minako**: @Kenji, the earth-moving firms are critical. I will check the drainage callouts and August heat readings to understand the environmental stress on the site.
+- [19] **Jonathan**: @Minako, the heat readings will show how the site copes. I will check the terms of the regional habitat fund to see what support is available.
+- [20] **Kenji**: I will also check the depot phasing notes. I need to see how they plan to hoard the site without chaos.
+- [21] **Benjamin**: I will also check the record of the eastern avenue planting. I need to see if the ground actually supports what we propose.
+- [22] **Minato**: I will also look at the volunteer groups. I want to see if they are still active and happy to help.
+- [23] **Minako**: I will also check the upkeep ledger spend per hectare. I need to see if the maintenance costs are sustainable over time.
+- [24] **Jonathan**: I will also check the groundskeeping roll. I need to see if the city can actually staff this long-term.
+## Round 2
+- [35] **Kenji**: The firms flagged clay and slippage. That is a major risk for deep digging. I need to know if the plans avoid that.
+- [36] **Benjamin**: The eastern avenue trees died because watering was ignored. We cannot propose planting without a guaranteed aftercare contract.
+- [37] **Minato**: The roll is down to seven people. That is very few. But the volunteers are still there, helping on weekends.
+- [38] **Minako**: The basin held, but the apron failed. Planted ground costs triple to maintain. I need to see which plans avoid that trap.
+- [39] **Jonathan**: The ledger shows planted ground costs triple to maintain. With only seven staff left, that gap is widening. I worry about the long-term burden.
+- [40] **Kenji**: @Minako, triple costs are scary. But the depot notes say we can hoard the south in stages. That keeps the park open while we work.
+- [41] **Benjamin**: @Minako, triple costs confirm the risk. The crossing data shows people stick to hard ground. We must design for that reality, not idealism.
+- [42] **Minato**: @Benjamin, I see. But the volunteers are so kind. Maybe they can help with the watering? I hope the seven staff are not too tired.
+- [43] **Minako**: @Minato, volunteers are a bonus, not a plan. I need to see which candidates minimize the high-cost planted areas.
+- [44] **Jonathan**: @Minako, you are right. Volunteers cannot replace the budget. I need to see which plans keep the hard surfaces dominant to control those rising costs.
+- [45] **Kenji**: @Benjamin, the clay risk means we must avoid deep cuts. The phasing notes say the centre cannot be hoarded. That is a tight constraint for any major dig.
+- [46] **Benjamin**: @Kenji, the clay is a hard limit. The crossing data shows people already avoid soft ground. We must design for the path, not the pit.
+- [47] **Minato**: @Kenji, that sounds difficult. I hope the seven staff are not too tired. The volunteers are very kind, but they are not enough for everything.
+- [48] **Minako**: @Kenji, the clay risk is real. But the apron failure shows that even hard surfaces decay without proper maintenance. We must prioritize durability over aesthetics.
+- [49] **Jonathan**: @Kenji, the clay risk is real. But my concern is the upkeep. If we dig deep, the maintenance burden grows. I need to see which plans keep the hard surfaces dominant to control those rising costs.
+- [50] **Kenji**: @Minako, durability is key. I will check the condition of works from the earlier programme to see what actually survived the last decade.
+- [51] **Benjamin**: @Minako, durability is the only honest metric. I will check the drainage callouts to see how the ground actually handles the rain.
+- [52] **Minato**: @Minako, I agree. I just hope the volunteers can help with the small things. I am worried the staff are too tired to do it all.
+- [53] **Minako**: @Benjamin, drainage is vital, but the apron failure proves that even hard surfaces decay without proper maintenance. We must prioritize durability over aesthetics.
+- [54] **Jonathan**: @Minako, I agree. Durability is essential. I will check the drainage callouts to see how the ground handles rain, which directly impacts long-term upkeep costs.
+## Round 3
+- [60] **Kenji**: @Benjamin, the clay risk is critical. Candidate A reshapes drainage, which means deep digging. That is a no-go for me.
+- [61] **Benjamin**: @Kenji, agreed. A is a recipe for failure. The crossing data shows people want firm ground, not mud. B’s paved square fits that reality perfectly.
+- [62] **Minato**: @Benjamin, the paved square sounds nice. But who will sweep it every day? I worry the seven staff are already so tired.
+- [63] **Minako**: @Minato, the paved square is hard surface. My data shows that costs a third of planted ground. It is the most sustainable option for our budget.
+- [64] **Jonathan**: @Minako, that aligns with my ledger findings. Hard surfaces are far cheaper to maintain. I am strongly leaning toward B to protect the city’s long-term finances.
+- [65] **Kenji**: @Minato, the terraces in D are on the south. The depot notes say we can hoard that in stages. It keeps the park open while we work.
+- [66] **Benjamin**: @Kenji, the south is the right place. The crossing data shows people already favor firm ground. D’s hard surfaces match how the park is actually used, not how we wish it were.
+- [67] **Minato**: @Benjamin, the running loop sounds fun. But who will clean the courts? I hope the volunteers can help with the small things, but I am worried the staff are too tired.
+- [68] **Minako**: @Benjamin, D’s hard surfaces are cheaper, but the courts and changing rooms are complex. My data shows complex structures decay faster. B’s simple paving is more durable.
+- [69] **Jonathan**: @Minako, I agree. The changing rooms in D add complexity and upkeep. B’s simple paving is far cheaper to maintain. I am leaning toward B to protect the city’s long-term finances.
+- [70] **Kenji**: @Minako, the changing rooms are a maintenance trap. D is simpler than A, but B is the safest bet for the ground.
+- [71] **Benjamin**: @Minako, complexity is the enemy. D’s courts and changing rooms are a liability. B’s simple paving respects the ground and the staff. I am leaning toward B.
+- [72] **Minato**: @Minako, I understand. The simple paving is good. But I worry about the staff. If B is chosen, will the seven people be enough to keep it clean?
+- [73] **Minako**: @Minato, the simple paving is low-maintenance. The apron failed due to neglect, not complexity. B is the most durable choice for our current staffing levels.
+- [74] **Jonathan**: @Minato, the simple paving is low-maintenance. With only seven staff, B is the only option that won’t bankrupt the city in three years. I am ready to vote.
+- [75] **Kenji**: @Benjamin, I agree. B avoids the clay risk and the deep digging. The simple paving is the safest choice for the ground and the schedule. I am ready to vote.
+- [76] **Benjamin**: @Kenji, agreed. B respects the ground and the people. It is the only plan that survives contact with reality. I am ready to vote.
+- [77] **Minato**: @Minako, thank you for explaining. I am still a little worried about the tired staff, but I trust the simple paving is easier. I am ready to vote.
+- [78] **Minako**: @Minato, I am ready to vote. B is the only plan that respects the data and our limited resources.
+- [79] **Jonathan**: @Minako, I agree. B is the only plan that respects the ledger and our limited staff. I am ready to vote.
+### Vote
+- Kenji -> B
+- Benjamin -> B
+- Minato -> B
+- Minako -> B
+- Jonathan -> B
+## Result
+- adopted: B

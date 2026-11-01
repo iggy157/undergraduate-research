@@ -1,0 +1,73 @@
+# shared_living_0018__single-batch (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The current usage pattern is chaotic. We need data on who actually uses the space.
+- [6] **Jonathan**: I worry we are becoming strangers. We need a place for difficult conversations.
+- [7] **May**: I want to know where the hidden hours go. Upkeep eats into our time.
+- [8] **Shunichi**: We are paying monthly for a room that fails its primary purpose. I need the figures.
+- [9] **Servas**: The noise and mess are the real complaints. I have looked at both.
+- [10] **Ryuji**: @Shunichi, figures are good, but I need to know who is using it.
+- [11] **Jonathan**: @May, if we fix the space, maybe the hours will stop being wasted.
+- [12] **May**: @Ryuji, usage data helps, but I need to see the cost of maintenance.
+- [13] **Shunichi**: @Servas, noise is a symptom. I need the financial reality first.
+- [14] **Servas**: @Jonathan, a quiet space might help, but we must address the mess.
+- [15] **Ryuji**: I will look at the usage tally and the invoices.
+- [16] **Jonathan**: I will check the awkward conversation location and the unplanned talk.
+- [17] **May**: I will look at the lunch round trip and the facilities callouts.
+- [18] **Shunichi**: I will look at the quotes and the invoices.
+- [19] **Servas**: I will look at the partition wall and the crumbs.
+- [20] **Ryuji**: Agreed. Let's see what the data says.
+- [21] **Jonathan**: I hope this brings us closer.
+- [22] **May**: Let's stop guessing and start knowing.
+- [23] **Shunichi**: Paper doesn't lie. Let's see the numbers.
+- [24] **Servas**: Wisdom comes from looking closely.
+## Round 2
+- [35] **Ryuji**: The tally shows two people use it eleven times, others four. Invoices show 68k yen paid.
+- [36] **Jonathan**: The last awkward talk was across desks. Unplanned talk is now only by the printer.
+- [37] **May**: Lunch takes 25 minutes. Facilities had 11 callouts for equipment rooms, none for the store.
+- [38] **Shunichi**: Quotes are 141k for meeting space, 96k for kitchen. Invoices confirm 68k spent.
+- [39] **Servas**: The wall is thin plasterboard. Three keyboards have crumbs. The mess is real.
+- [40] **Ryuji**: @Shunichi, 68k is a lot for nine bookings. We are overpaying for little use.
+- [41] **Jonathan**: @Ryuji, if we have a proper space, maybe we won't need to hide conversations.
+- [42] **May**: @Servas, 11 callouts for equipment? That's a lot of maintenance for a room we barely use.
+- [43] **Shunichi**: @May, 96k for a kitchen is cheaper than the meeting space. But is it worth it?
+- [44] **Servas**: @Jonathan, the wall is too thin for privacy. We need a different solution.
+- [45] **Ryuji**: The usage is skewed. We need a system, not just a room.
+- [46] **Jonathan**: A meeting space could help with the awkward conversations.
+- [47] **May**: A kitchen would save us 25 minutes a day. That's significant.
+- [48] **Shunichi**: The meeting space is more expensive. The kitchen is cheaper but less useful for work.
+- [49] **Servas**: A quiet room might be best, but the wall is the problem.
+- [50] **Ryuji**: I think we need a meeting space to formalize usage.
+- [51] **Jonathan**: I agree. A meeting space would help with communication.
+- [52] **May**: I prefer the kitchen. It saves time and is cheaper.
+- [53] **Shunichi**: I am leaning towards the meeting space, but the cost is high.
+- [54] **Servas**: I am open to any option that solves the noise and mess.
+## Round 3
+- [60] **Ryuji**: Option A: Open Kitchen. Option B: Quiet Room. Option C: Meeting Space.
+- [61] **Jonathan**: I think Option C is best for our communication issues.
+- [62] **May**: Option A saves time and is cheaper. I vote for the kitchen.
+- [63] **Shunichi**: Option C is expensive, but it solves the usage problem. I vote for the meeting space.
+- [64] **Servas**: Option B might be too quiet. I am leaning towards Option C.
+- [65] **Ryuji**: @Shunichi, the cost is high, but the usage data supports a formal space.
+- [66] **Jonathan**: @May, the kitchen is nice, but we need a place to talk.
+- [67] **May**: @Jonathan, the kitchen is practical. We can talk there too.
+- [68] **Shunichi**: @Ryuji, the meeting space is the only one that addresses the core issue.
+- [69] **Servas**: @All, let's choose the option that benefits everyone.
+- [70] **Ryuji**: I vote for Option C.
+- [71] **Jonathan**: I vote for Option C.
+- [72] **May**: I vote for Option A.
+- [73] **Shunichi**: I vote for Option C.
+- [74] **Servas**: I vote for Option C.
+- [75] **Ryuji**: Option C has the most votes.
+- [76] **Jonathan**: I am glad we are moving forward.
+- [77] **May**: I hope the kitchen idea is reconsidered later.
+- [78] **Shunichi**: The figures support this decision.
+- [79] **Servas**: A good choice for the future.
+### Vote
+- Ryuji -> C
+- Jonathan -> C
+- May -> A
+- Shunichi -> C
+- Servas -> C
+## Result
+- adopted: C

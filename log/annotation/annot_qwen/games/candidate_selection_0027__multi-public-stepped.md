@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: We need to verify if the staffing model is actually viable before we commit.
+- [6] **Takumi**: I want to check the history. We keep repeating mistakes from eight years ago.
+- [7] **Toshio**: I am looking for the hidden dependencies. Who else has to sign off on this?
+- [8] **Daisuke**: I am worried about the long-term costs. The headline numbers hide the future burden.
+- [9] **Sakura**: I want to see where the time actually goes. Complaints are often misleading.
+- [10] **Victoria**: @Toshio, do you think the committee minutes will show if we have the authority?
+- [11] **Takumi**: I will look at the pilots. If they failed, we should know why.
+- [12] **Toshio**: @Victoria, yes. The minutes might reveal if the ferry and rail are aligned.
+- [13] **Daisuke**: I will check the ledger. I need to see what is ring-fenced versus what is available.
+- [14] **Sakura**: I will look at the journey audits. I suspect the waiting time is the real issue.
+- [15] **Victoria**: I will also check the roster books. I need to know if the late-turn pool is empty.
+- [16] **Takumi**: I will also look at the completion records. Did the accessibility work actually finish?
+- [17] **Toshio**: I will check the contingency pricing. I suspect the pre-war shells are hiding problems.
+- [18] **Daisuke**: I will also look at the ticketing fees. I want to see if the contractors are eating the budget.
+- [19] **Sakura**: I will also check the timed runs. I want to compare the current speed with the old data.
+- [20] **Victoria**: Let's see what we find. I am not comfortable promising dates without knowing the crew status.
+- [21] **Takumi**: Agreed. I will read the closure reports before we get excited about anything.
+- [22] **Toshio**: I will assess the ground conditions. I do not trust the drawings alone.
+- [23] **Daisuke**: I will try to understand the financial commitment. It is hard to speak up, but I am worried.
+- [24] **Sakura**: I will solve this mystery. I bet the stopwatch tells a different story than the complaints.
+## Round 2
+- [35] **Victoria**: The roster books are alarming. The late-turn pool is nearly empty, relying on overtime.
+- [36] **Takumi**: I found the pilots from eight years ago. The late-evening pilot actually met its cost-recovery target.
+- [37] **Toshio**: The committee minutes show the ferry and rail never agreed on data terms. That is a major blocker.
+- [38] **Daisuke**: The ledger shows the operating subsidy was trimmed. The ticketing fees are higher than the paving budget.
+- [39] **Sakura**: My audits confirm it. Most lost time is waiting for connections, not paying. The machines are fine.
+- [40] **Victoria**: @Takumi, if the pilot worked, why did we not keep it? The staffing is the issue now.
+- [41] **Takumi**: @Victoria, the pilot worked, but the accessibility records show lane-priority failed. We need to be careful.
+- [42] **Toshio**: @Victoria, the data terms are missing. Any integrated plan will stall at the committee level.
+- [43] **Daisuke**: @Sakura, if waiting is the problem, does that mean we should focus on connections?
+- [44] **Sakura**: @Daisuke, yes. The timed runs show the surface route is slower, but the platforms clear fine.
+- [45] **Victoria**: The maintenance contract has spare capacity for lifts. That is a good sign for station upgrades.
+- [46] **Takumi**: The accessibility records show four lifts finished on time. That is a strong precedent for station work.
+- [47] **Toshio**: The contingency pricing for pre-war shells is high. Station access upgrades will be expensive and risky.
+- [48] **Daisuke**: The ticketing fees are a drain. An integrated fare system might reduce those costs, but the data terms are missing.
+- [49] **Sakura**: If we fix the connections, we solve the waiting problem. The bus corridor might help with that.
+- [50] **Victoria**: I am leaning towards station upgrades. The maintenance capacity is there, and the history is good.
+- [51] **Takumi**: I agree. The pilots show we can do this. The accessibility records prove we can finish on time.
+- [52] **Toshio**: I am concerned about the pre-war shells. But the committee minutes suggest the data issue is specific to integration.
+- [53] **Daisuke**: I am still worried about the budget. But if the ticketing fees are reduced, it might balance out.
+- [54] **Sakura**: I think station upgrades are the best bet. They address the real time loss and have a good track record.
+## Round 3
+- [60] **Victoria**: Given the roster issues, Option B is risky. Option C has the maintenance capacity we need.
+- [61] **Takumi**: Option C aligns with the good completion records. Option A failed in the past with lane-priority.
+- [62] **Toshio**: Option D is blocked by the committee minutes. Option C has high contingency costs, but it is feasible.
+- [63] **Daisuke**: Option D might reduce ticketing fees, but the data terms are missing. Option C seems more stable.
+- [64] **Sakura**: Option C addresses the waiting time issue. The audits show connections are the problem, and station access helps.
+- [65] **Victoria**: @Toshio, do you think the contingency costs for Option C are manageable?
+- [66] **Takumi**: @Victoria, the accessibility records show we can manage the costs. The lifts finished on time.
+- [67] **Toshio**: @Victoria, the pre-war shells are risky, but the committee minutes show the data issue is specific to D.
+- [68] **Daisuke**: @Sakura, if Option C helps with connections, it might be worth the cost.
+- [69] **Sakura**: @Daisuke, yes. The timed runs show the surface route is slower, but the platforms clear fine. Option C helps with the platform movement.
+- [70] **Victoria**: I am voting for Option C. The maintenance capacity is there, and the history is good.
+- [71] **Takumi**: I am voting for Option C. The pilots and records support it.
+- [72] **Toshio**: I am voting for Option C. It is the most feasible given the constraints.
+- [73] **Daisuke**: I am voting for Option C. It seems the most stable and addresses the real issues.
+- [74] **Sakura**: I am voting for Option C. It solves the waiting time problem and has a good track record.
+- [75] **Victoria**: It seems we are all aligned on Option C.
+- [76] **Takumi**: Yes. The evidence supports it.
+- [77] **Toshio**: The risks are manageable.
+- [78] **Daisuke**: I am relieved. It feels like the right choice.
+- [79] **Sakura**: I am happy. We solved the mystery.
+### Vote
+- Victoria -> C
+- Takumi -> C
+- Toshio -> C
+- Daisuke -> C
+- Sakura -> C
+## Result
+- adopted: C

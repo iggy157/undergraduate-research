@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m so excited to pick our next big show! I really want to make sure we don’t get blindsided by hidden costs later.
+- [6] **Victoria**: I’d like to understand the actual staffing capacity before we commit to a complex installation.
+- [7] **Shion**: The record should speak before we guess. I want to know what actually drew people back, not what looked impressive on paper.
+- [8] **Asuka**: The building itself is a constraint. I need to know what the floor and structure can actually absorb before we promise the space to anyone.
+- [9] **Shizue**: I worry about the delivery side. We often approve things in good faith, only to spend the season apologising at the door.
+- [10] **Mio**: @Victoria, I totally agree! Staffing is huge. I’m picking loan transport costs and mount-making charges to see where the money actually goes.
+- [11] **Victoria**: I will examine conservation lab staffing and the volunteer roster. We must know who is actually available to execute the plan.
+- [12] **Shion**: I will review the weekend head counts and the visitor comment slips. The data will reveal what truly drives return visits, not just what looks good on paper.
+- [13] **Asuka**: I will review the structural survey of the suspended bay and the maintenance log for powered displays.
+- [14] **Shizue**: I will look into the lender paperwork against shipping cut-offs and the structural survey of the suspended bay.
+- [15] **Mio**: @Shizue, I hope the paperwork check goes smoothly! I’m just double-checking my own picks to make sure I didn’t mix up the numbers.
+- [16] **Victoria**: I appreciate the focus on logistics. I will now review the conservation lab staffing and the volunteer roster to assess our actual capacity.
+- [17] **Shion**: I will review the weekend head counts and the visitor comment slips. The data will reveal what truly drives return visits, not just what looks good on paper.
+- [18] **Asuka**: I will review the structural survey of the suspended bay and the maintenance log for powered displays.
+- [19] **Shizue**: @Mio, thank you for the kind words. I will focus on the lender paperwork and the structural survey to see where past deliveries truly failed.
+- [20] **Mio**: I’m ready to see what the invoices say! Let’s make sure our budget actually reaches the walls this time.
+- [21] **Victoria**: I will now review the conservation lab staffing and the volunteer roster to assess our actual capacity.
+- [22] **Shion**: I will review the weekend head counts and the visitor comment slips. The data will reveal what truly drives return visits, not just what looks good on paper.
+- [23] **Asuka**: I will review the structural survey of the suspended bay and the maintenance log for powered displays.
+- [24] **Shizue**: I will review the lender paperwork and the structural survey to see where past deliveries truly failed.
+## Round 2
+- [35] **Mio**: #### Turn 1 of 4
+- [36] **Victoria**: The lab is down to one person with two hundred pieces waiting. The volunteers are mostly tied up with history walks. We are severely understaffed.
+- [37] **Shion**: The data is clear. Head counts rise where mechanisms run, and visitors return because someone is present. Static displays fail.
+- [38] **Asuka**: The bay is capped at four hundred kilos per square metre. Last season, stonework required shoring and a rerouted delivery. The structure is already strained.
+- [39] **Shizue**: Two of our last four openings slipped because paperwork arrived after the shipping cut-off. We must plan for these delays, not just hope for the best.
+- [40] **Mio**: @Victoria, that staffing gap is terrifying! My loan costs ate a third of the budget, and mount-making rates jumped. We need self-supporting pieces to save money.
+- [41] **Victoria**: @Mio, self-supporting pieces are essential. With one conservator and a backlog, we cannot risk damage from complex mounts. We must choose simplicity.
+- [42] **Shion**: @Asuka, your structural limits confirm my data. Mechanisms draw crowds, but if the bay cannot bear the weight, we must find a different way to keep the room alive.
+- [43] **Asuka**: @Shion, mechanisms are a liability. Seventeen call-outs last season, four during opening hours. The bay was roped off. We cannot risk that downtime again.
+- [44] **Shizue**: @Asuka, the shoring and yard reroute confirm my fears. Heavy items are a delivery nightmare. We must avoid anything that strains the bay or requires complex logistics.
+- [45] **Mio**: @Shion, I hear you! But if the bay can’t hold the weight, how do we keep the energy up without breaking the budget or the floor?
+- [46] **Victoria**: @Mio, simplicity is the only path. We lack the hands to maintain complex rigs. We must select an exhibition that stands on its own, requiring minimal intervention.
+- [47] **Shion**: @Mio, the answer is presence, not weight. We need people working, not heavy machinery. The data proves static objects fail, but we can’t break the floor.
+- [48] **Asuka**: @Shion, presence is not a solution if the floor fails. I reject any proposal that risks the structure. We need stability, not spectacle.
+- [49] **Shizue**: @Shion, I agree. Presence is vital, but we must ensure the delivery is safe. Let us avoid heavy items that strain the bay.
+- [50] **Mio**: @Shion, I love that idea! Lightweight, self-supporting pieces with live demonstrations would save our budget and keep the floor safe. Let’s hope the candidates match!
+- [51] **Victoria**: @Mio, I concur. We need a proposal that respects our staffing limits and structural constraints. Let us see what options remain viable.
+- [52] **Shion**: @Mio, precisely. Presence without structural risk. The candidates must prove they can deliver that balance. I am ready to evaluate them.
+- [53] **Asuka**: @Mio, I agree. Lightweight, self-supporting pieces with live demonstrations would save our budget and keep the floor safe. Let’s hope the candidates match!
+- [54] **Shizue**: @Mio, I am glad we are aligned. A safe, manageable delivery is the only way to avoid another season of apologies at the door.
+## Round 3
+- [60] **Mio**: #### Turn 1 of 4
+- [61] **Victoria**: @Mio, I see the candidates. Option A offers live presence without heavy structural loads, fitting our staffing and budget constraints.
+- [62] **Shion**: @Victoria, A is the only viable option. Live craftspeople satisfy the presence metric without the structural risk of B or the delivery chaos of C.
+- [63] **Asuka**: @Shion, I concur. A is the only option that respects the structural limits and staffing reality. B is a liability; C is a logistical nightmare.
+- [64] **Shizue**: @Shion, I agree. A is the only choice that keeps our deliveries simple and safe. No distant loans, no heavy crating. We can finally rest easy.
+- [65] **Mio**: @Shion, I’m so glad we’re all on the same page! Option A feels perfect. Lightweight, local, and full of life. I’m voting for A!
+- [66] **Victoria**: @Mio, I agree. Option A aligns with our staffing reality and structural limits. I am voting for A.
+- [67] **Shion**: @Mio, the data confirms it. Presence drives return visits, and A delivers that without the structural risk of B or the delivery chaos of C. I vote for A.
+- [68] **Asuka**: @Mio, I concur. A is the only option that respects the structural limits and staffing reality. B is a liability; C is a logistical nightmare. I vote for A.
+- [69] **Shizue**: @Mio, I am voting for A. Local pieces mean no distant paperwork or heavy crating. We can finally open on time, without the usual apologies at the door.
+- [70] **Mio**: I’m so happy we all agree! Option A is the clear winner. I’m officially voting for A!
+- [71] **Victoria**: I confirm my vote for A. It is the only proposal that respects our current staffing and structural realities.
+- [72] **Shion**: I confirm my vote for A. The data supports presence over spectacle, and A is the only option that satisfies both without structural risk.
+- [73] **Asuka**: I confirm my vote for A. It is the only option that respects the structural limits and staffing reality. B is a liability; C is a logistical nightmare.
+- [74] **Shizue**: I confirm my vote for A. No distant lenders, no heavy crating. We will open on time, and I can finally sleep without worrying about the door.
+- [75] **Mio**: Yay! Option A it is! I can’t wait to see the craftspeople in action. Let’s make this season amazing!
+- [76] **Victoria**: Option A is selected. It respects our constraints and ensures a successful, manageable season.
+- [77] **Shion**: A is selected. The record is satisfied.
+- [78] **Asuka**: A is selected. The structure is safe, the maintenance load is minimal, and the space remains functional.
+- [79] **Shizue**: A is selected. The paperwork will arrive on time, and the bay will hold. We can finally open without the usual apologies at the door.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

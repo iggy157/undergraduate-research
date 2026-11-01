@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: The depot floor never stops. I need to know if the new system can handle our actual yard chaos.
+- [6] **Mizuki**: I am worried about the hidden costs that appear after the initial approval. The headline price is a trap.
+- [7] **Asuka**: I need to know who is actually accountable when the system fails. Ambiguity in ownership is a critical risk we cannot afford.
+- [8] **Rin**: I keep seeing old tools that nobody updates, and then we pay extra to fix the mess. I want to check the upgrade history.
+- [9] **Servas**: I worry about the people who hold this system together. If we change it, who is left to carry the weight?
+- [10] **Kenji**: @Rin, that upgrade history is key. If the dispatch tool is stuck, the yard will grind to a halt.
+- [11] **Mizuki**: @Asuka, accountability is vital, but I need to see the renewal invoices. The real cost often hides in those recurring fees.
+- [12] **Asuka**: @Mizuki, I agree. But I need to see the support ownership records from the last outage. That shows who actually stepped up when things broke.
+- [13] **Rin**: @Kenji, exactly! If the tool is stuck, everything jams. I will check the upgrade history to see if they actually fix things or just patch them.
+- [14] **Servas**: @Mizuki, the people behind the invoices matter too. I will look at the administrator retirements to see who is left to guide the transition.
+- [15] **Kenji**: @Servas, losing those admins is scary. I will check the yard devices and the 2021 trial to see if our hardware can even talk to the new system.
+- [16] **Mizuki**: @Kenji, hardware compatibility is a cost driver too. I will examine the five years of renewal invoices to map the true recurring burden.
+- [17] **Asuka**: @Kenji, hardware is a constraint, but I need to see the board minutes. They show if the capital request actually matches the operational reality we face.
+- [18] **Rin**: @Asuka, board minutes are good, but I want to see the depot supervisors. They know if the last rollout actually worked or just looked pretty on paper!
+- [19] **Servas**: @Rin, the supervisors know the truth of the last rollout. I will also check the depot calendar to see how the cutover lands on the crews.
+- [20] **Kenji**: I will check the yard devices and the 2021 scheduling trial. I will also look at the depot calendar and the peak-season cutover.
+- [21] **Mizuki**: I will examine the five years of renewal invoices and the board minutes on capital and operating requests.
+- [22] **Asuka**: I will examine the support ownership during last winter's outage and the warehouse rule changes after new accounts.
+- [23] **Rin**: I will check the upgrade history of the dispatch tool and the depot supervisors and the last rollout.
+- [24] **Servas**: I will look into the administrator retirements and hiring times, and the depot supervisors and the last rollout.
+## Round 2
+- [35] **Kenji**: The yard hardware is a mess, and the 2021 trial failed fast. Plus, we have no freeze window in winter.
+- [36] **Mizuki**: @Asuka, the board minutes show capital gets cut, but operating lines pass easily. That is where the real money leaks.
+- [37] **Asuka**: @Mizuki, that aligns with my findings. Support was unowned for two days last winter. The scope also shifted twice. We are walking into the same trap.
+- [38] **Rin**: @Kenji, the dispatch tool skipped three upgrades! It just aged in place. And the supervisors ignored the new steps. We need a vendor who actually fixes things, not just patches them!
+- [39] **Servas**: @Rin, the supervisors dropping the steps confirms my fear. We are losing two admins, and the last hire took eleven months. Who will teach the new system?
+- [40] **Kenji**: @Rin, that skipped upgrade history is terrifying. If the yard hardware is already mixed, a new system might not even talk to our scanners.
+- [41] **Mizuki**: @Kenji, hardware mismatch is a capital risk, but the invoices show add-ons climbing yearly. That recurring bleed is what I fear most.
+- [42] **Asuka**: @Rin, the skipped upgrades confirm the pattern. If the vendor cannot maintain the system, the initial plan is irrelevant. I need to see who owns the fix.
+- [43] **Rin**: @Asuka, exactly! If they can’t fix it, the plan is useless. I need a vendor who stays to repair the mess, not just install it and vanish!
+- [44] **Servas**: @Asuka, ownership is vital, but without the people to hold it, the system fails. We must protect the remaining admins from being stretched thin.
+- [45] **Kenji**: @Servas, the hiring gap is brutal. If we lose the admins, the yard devices become useless bricks. We need a vendor who trains the floor crew, not just the office.
+- [46] **Mizuki**: @Servas, the people are critical, but the invoices prove the trap. Bundled deals stay flat, while add-ons climb. We must lock the total cost now.
+- [47] **Asuka**: @Mizuki, the invoices show the bleed, but my data shows the structural failure. We need a single point of accountability, not just a lower price.
+- [48] **Rin**: @Mizuki, I agree! But if the vendor leaves, the add-ons are useless. I need a partner who stays to fix the aging mess, not just sell us more!
+- [49] **Servas**: @Mizuki, the cost is real, but the human cost is higher. If we cannot retain the knowledge, the savings are an illusion.
+- [50] **Kenji**: @Mizuki, locking costs is smart, but I need the system to survive the November rush. A cheap tool that crashes in winter is worthless to the yard.
+- [51] **Mizuki**: @Kenji, a crash in winter is a capital disaster. I will ensure the contract locks the total life cost so we are not blindsided by hidden fees later.
+- [52] **Asuka**: @Kenji, a crash is a symptom. The root cause is the lack of a single owner. I need a vendor who answers for the whole system, not just the parts.
+- [53] **Rin**: @Kenji, if it crashes, who fixes it? I need a vendor who stays to repair the aging mess, not just install it and vanish!
+- [54] **Servas**: @Kenji, the yard must keep moving. But a system that ignores the people who run it will fail. We need a vendor who respects the human rhythm.
+## Round 3
+- [60] **Kenji**: @Rin, the 2021 trial failed because it ignored the yard. I need a vendor who understands our hardware mix and the winter rush.
+- [61] **Mizuki**: @Kenji, hardware is vital, but I need to see the pricing model. Modular systems like B hide costs in separate licenses. I fear the recurring bleed.
+- [62] **Asuka**: @Mizuki, B is a trap. Separate components mean separate owners. That is exactly the fragmentation that left us unowned for two days last winter.
+- [63] **Rin**: @Asuka, exactly! B is a patchwork. I need a vendor who stays to fix the aging mess, not just install it and vanish!
+- [64] **Servas**: @Asuka, fragmentation breaks the people too. If no one owns the whole, the admins drown. We need a single, steady hand to guide them.
+- [65] **Kenji**: @Mizuki, B is a nightmare for the yard. Separate licenses mean separate failures. I need one system that talks to our mixed scanners without breaking.
+- [66] **Mizuki**: @Kenji, you are right. B’s separate licenses are the exact trap my invoices showed. I need a bundled model where the total cost is locked, not a patchwork of rising fees.
+- [67] **Asuka**: @Kenji, B is structurally broken. Separate components mean separate failures. I need a single entity accountable for the entire system, not a fragmented mess.
+- [68] **Rin**: @Kenji, B is a mess! I need a vendor who stays to fix the aging mess, not just install it and vanish!
+- [69] **Servas**: @Kenji, B scatters the load. With two admins gone, no one can hold five separate pieces. We need a vendor who stays to teach the crew, not just sell modules.
+- [70] **Kenji**: @Asuka, C’s on-site team is the only one who can handle our mixed yard hardware. A cloud suite might not reach the scanners.
+- [71] **Mizuki**: @Kenji, on-site presence is a capital expense. I need to know if C’s engineering team is billed as a one-time fee or a recurring operating line.
+- [72] **Asuka**: @Mizuki, C’s on-site team is the only option with a single, clear owner. That directly solves the accountability gap I found. I need to know if that ownership persists after rollout.
+- [73] **Rin**: @Asuka, yes! If the team stays, they can actually fix the mess. I need to know if they stick around after the rollout to repair the aging parts!
+- [74] **Servas**: @Asuka, persistence is everything. If the team leaves, the knowledge walks out the door. I need to know if they stay to mentor the remaining admins through the transition.
+- [75] **Kenji**: @Mizuki, if C’s team is a one-time fee, it is the best deal. I need the yard to run through the winter rush without crashing.
+- [76] **Mizuki**: @Kenji, if it is a one-time fee, it avoids the operating trap. But I need to know if the marketplace in A hides future add-on costs.
+- [77] **Asuka**: @Mizuki, A’s marketplace is a risk, but the partner firm handles training. That addresses the knowledge gap. I need to know if the partner is contractually bound to support ownership.
+- [78] **Rin**: @Mizuki, the marketplace is a trap! If they sell us more later, it is just another patch. I need a vendor who stays to fix the aging mess, not just sell us more!
+- [79] **Servas**: @Mizuki, the marketplace is a distraction. I care if the partner firm stays to teach the remaining admins. Without that steady hand, the system will crumble under the weight of our thin staff.
+### Vote
+- Kenji -> C
+- Mizuki -> C
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

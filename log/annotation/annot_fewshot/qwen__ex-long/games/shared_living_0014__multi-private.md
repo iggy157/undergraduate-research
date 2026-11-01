@@ -1,0 +1,73 @@
+# shared_living_0014__multi-private (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I want to understand the rhythm of our time together. I’ll check how last year's days ran and the time alone in the shared-house year.
+- [6] **Shizue**: I’m worried about the quiet money gaps. I’ll check what separately booked rooms cost last time and the all-in rates against meals bought separately.
+- [7] **Minato**: I’m curious about the daily rhythm. I’ll check the bathing hours and bathroom provision, and how last year's days ran.
+- [8] **Jonathan**: I value the journey as much as the stay. I’ll check ferry sailings and train time, plus getting around by train and bus.
+- [9] **Midori**: I need to know the true cost before we commit. I’ll check the pricing of offshore houses let whole and the valley inn rates versus urban beds.
+- [10] **Mizuki**: @Minato, checking the daily rhythm is smart. I’m also looking at the shared-house year to see where the silence crept in.
+- [11] **Shizue**: @Mizuki, I understand the need for space. But I’m hoping the all-in rates will keep the money simple, so nobody has to track who paid for what.
+- [12] **Minato**: @Shizue, that sounds nice. I’m just hoping the bathing hours are gentle, so I don’t have to rush.
+- [13] **Jonathan**: @Minato, gentle bathing is lovely. I’m just hoping the ferry schedule doesn’t force us to wake before dawn.
+- [14] **Midori**: @Jonathan, I hope the ferry is smooth! I’m just trying to see if the whole-house price covers everything, so we don’t get surprised later.
+- [15] **Mizuki**: @Shizue, I appreciate the simplicity. But I need to know if the shared-house year’s silence was structural or personal. I’m checking the time alone to understand that.
+- [16] **Shizue**: @Mizuki, I hope it was just personal. But if the money is tangled, the silence gets heavier. I’m checking the rates to keep things clear.
+- [17] **Minato**: @Mizuki, I hope the silence wasn’t lonely. I’m just trying to find a place where the days feel soft and easy for me.
+- [18] **Jonathan**: @Mizuki, I hope the silence was peaceful, not lonely. I’m just trying to ensure the travel doesn’t eat into our rest.
+- [19] **Midori**: @Mizuki, I hope the silence was peaceful. I’m just trying to see if the whole-house price covers everything, so we don’t get surprised later.
+- [20] **Mizuki**: I’ll check how last year's days ran and the time alone in the shared-house year. I need to understand the rhythm before we book.
+- [21] **Shizue**: I’ll check what separately booked rooms cost last time and the all-in rates against meals bought separately. Let’s keep the money simple.
+- [22] **Minato**: I’ll check the bathing hours and bathroom provision, and how last year's days ran. I want the days to feel soft and easy.
+- [23] **Jonathan**: I’ll check ferry sailings and train time, plus getting around by train and bus. I need to protect my rest from the journey.
+- [24] **Midori**: I’ll check the pricing of offshore houses let whole and the valley inn rates versus urban beds. I need the full picture before we commit.
+## Round 2
+- [35] **Mizuki**: @Minato, last year’s days ran separately; two of us missed each other entirely. A party that moves together shares the day. I need to see if we can fix that.
+- [36] **Shizue**: @Mizuki, I see. But last time, the separate rooms meant a 8,000 yen gap. An all-in rate divides evenly, so nobody is left quietly out of pocket.
+- [37] **Minato**: @Mizuki, I’m glad we can move together. But the island houses only have one bathroom, and the water runs cold. That feels a bit scary for my mornings.
+- [38] **Jonathan**: @Minato, the ferry takes two days, and the valley bus stops early. I need to know if we can rest without the journey consuming our week.
+- [39] **Midori**: @Shizue, the island houses are 5,400 yen a head, but food is extra. The valley inns are 17,000 with meals included. I need to know which total is safer for our budget.
+- [40] **Mizuki**: @Minato, the shared house had no private space, so we felt crowded. A town with streets and a public bath absorbs that need easily.
+- [41] **Shizue**: @Minato, I hear your worry about the cold water. But if the all-in rate covers meals, we avoid the awkwardness of splitting bills. Let’s keep the money simple.
+- [42] **Minato**: @Mizuki, a public bath sounds lovely. I just hope the hours are gentle, so I don’t have to rush in the morning.
+- [43] **Jonathan**: @Mizuki, a town with easy trains means I can slip away for quiet reading without dragging the group. That protects my peace.
+- [44] **Midori**: @Minato, the cold water is a real worry. But the valley inn includes meals, so the 17,000 yen is the final number. No hidden costs later.
+- [45] **Mizuki**: @Jonathan, I agree. A town with streets lets us drift apart and rejoin naturally. That fixes the crowding and the silence. I need that rhythm.
+- [46] **Shizue**: @Jonathan, I agree. A town with easy trains lets us drift and rejoin. But I worry about the all-in rate charging the light eater the same as the big appetite.
+- [47] **Minato**: @Shizue, I hope the meals are gentle. I just want to know if I can sit somewhere that isn’t a bed, so I can rest my eyes.
+- [48] **Jonathan**: @Shizue, I understand the worry. But the valley bus stops early, so I can’t rely on it for late returns. I need a place where I can rest without the journey consuming my week.
+- [49] **Midori**: @Shizue, I hear you. But the island’s 5,400 yen base is low; the risk is the food bill. I need to know if the total stays predictable.
+- [50] **Mizuki**: I’m set. I’ll check how last year's days ran and the time alone in the shared-house year. I need to understand the rhythm before we book.
+- [51] **Shizue**: I’ll check what separately booked rooms cost last time and the all-in rates against meals bought separately. Let’s keep the money simple.
+- [52] **Minato**: I’ll check the bathing hours and bathroom provision, and how last year's days ran. I want the days to feel soft and easy.
+- [53] **Jonathan**: I’ll check ferry sailings and train time, plus getting around by train and bus. I need to protect my rest from the journey.
+- [54] **Midori**: I’ll check the pricing of offshore houses let whole and the valley inn rates versus urban beds. I need the full picture before we commit.
+## Round 3
+- [60] **Mizuki**: @Minato, Option A’s unplanned days let us drift and rejoin naturally. That fixes the crowding and the silence. I need that rhythm.
+- [61] **Shizue**: @Mizuki, I agree. But Option A’s all-in meals mean the light eater pays the same as the big appetite. I worry about that quiet unfairness.
+- [62] **Minato**: @Mizuki, I like the softness of unplanned days. But I worry about the cold water in the island house. Does the hot spring town have warm baths?
+- [63] **Jonathan**: @Minato, the hot spring town has warm baths. The train is ninety minutes, so I can slip away for quiet reading without the ferry’s two-day drag.
+- [64] **Midori**: @Minato, the hot spring town has warm baths. Plus, the 17,000 yen rate includes meals, so the total cost is fixed and predictable. No hidden surprises.
+- [65] **Mizuki**: @Shizue, the 17,000 yen rate is predictable, but the real value is the rhythm. Unplanned days let us drift and rejoin naturally. I’m voting A.
+- [66] **Shizue**: @Mizuki, I understand the rhythm. But the all-in rate charges the light eater the same as the big appetite. I worry about that quiet unfairness.
+- [67] **Minato**: @Shizue, I understand the worry. But the warm baths and soft days feel so safe for me. I’m voting A.
+- [68] **Jonathan**: @Shizue, the fixed rate is fair. More importantly, the ninety-minute train protects my rest. I’m voting A.
+- [69] **Midori**: @Shizue, I hear the worry, but the 17,000 yen is the final number. No hidden food bills later. I’m voting A for the predictable total.
+- [70] **Mizuki**: @Shizue, the rhythm matters more than the meal split. We can adjust portions. I stand by my vote for A.
+- [71] **Shizue**: @Mizuki, I hear you. But I worry the all-in rate hides who eats what. I’d rather the money fell out of the arrangement itself, not who happened to be organised.
+- [72] **Minato**: @Shizue, I understand. But the warm baths and soft days feel so safe for me. I’m voting A.
+- [73] **Jonathan**: @Shizue, I understand the worry. But the ninety-minute train protects my rest. I’m voting A.
+- [74] **Midori**: @Shizue, I understand the worry. But the 17,000 yen is the final number. No hidden food bills later. I’m voting A for the predictable total.
+- [75] **Mizuki**: @Shizue, I hear you. But the rhythm is what we actually need. The money is manageable; the silence is not. I stand by my vote for A.
+- [76] **Shizue**: @Mizuki, I hear you. The rhythm is precious. But I worry the all-in rate hides who eats what. I’d rather the money fell out of the arrangement itself, not who happened to be organised.
+- [77] **Minato**: @Shizue, I understand. But the warm baths and soft days feel so safe for me. I’m voting A.
+- [78] **Jonathan**: @Shizue, I understand the worry. But the ninety-minute train protects my rest. I’m voting A.
+- [79] **Midori**: @Shizue, I hear you. But the 17,000 yen is the final number. No hidden food bills later. I’m voting A for the predictable total.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> A
+- Jonathan -> A
+- Midori -> A
+## Result
+- adopted: A

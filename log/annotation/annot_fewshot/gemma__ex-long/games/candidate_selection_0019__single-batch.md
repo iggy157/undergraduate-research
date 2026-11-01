@@ -1,0 +1,73 @@
+# candidate_selection_0019__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited to pick the next show! I want to see where our money actually goes, so I'll check loan transport costs and mount-making charges!
+- [6] **Victoria**: I believe we need to be realistic about our capacity. I will look into the conservation lab staffing and the composition of the volunteer roster.
+- [7] **Shion**: I'm interested in what actually draws a crowd. I'll examine the weekend head counts and the five years of visitor comment slips.
+- [8] **Asuka**: We must ensure the gallery can physically handle the exhibition. I'll check the structural survey of the suspended bay and the evening hire bookings.
+- [9] **Shizue**: It is a pleasure to be here. To avoid any disappointments at the door, I shall look into lender paperwork and the maintenance log for powered displays.
+- [10] **Mio**: @Victoria, do you think the volunteers can help with the budget? I'm just worried about those surprise invoices!
+- [11] **Victoria**: @Mio, volunteers provide time, not funds. My concern is whether we have the actual hands to execute the curator's vision.
+- [12] **Shion**: Logic suggests that popularity is the only true metric of success. I'm curious if the visitors' desires match our internal pride.
+- [13] **Asuka**: @Shion, popularity is irrelevant if the exhibition damages the floor or interferes with our evening revenue.
+- [14] **Shizue**: Now, now, let us all be kind. I simply want to ensure that whatever we promise actually arrives on time and stays working.
+- [15] **Mio**: That's true, Shizue! I just don't want us to run out of money halfway through the season.
+- [16] **Victoria**: I agree. A beautiful plan is useless if the staff is too exhausted to maintain it.
+- [17] **Shion**: I suspect we will find that the most "sophisticated" shows are often the least visited.
+- [18] **Asuka**: I will be looking for hard limits. The building has a finite capacity for weight and movement.
+- [19] **Shizue**: I believe we have a very balanced approach. I am happy with these choices.
+- [20] **Mio**: Me too! Let's find some answers!
+- [22] **Victoria**: I am ready to proceed.
+- [24] **Shion**: Let the records speak.
+- [26] **Asuka**: I concur.
+- [28] **Shizue**: I look forward to our findings.
+## Round 2
+- [40] **Mio**: Oh wow! Transport costs are huge—nearly a third of installation! And joiners are getting way more expensive unless the art comes with its own stands.
+- [41] **Victoria**: It's quite grim. The conservation lab is down to one person with a massive backlog. Our volunteers are mostly town historians, not gallery specialists.
+- [42] **Shion**: As I suspected. People love mechanisms and live demonstrations; they get bored of static cased objects. They want to see people working.
+- [43] **Asuka**: The suspended bay has a strict weight limit, and our evening hires mean we can't have permanent, open arrangements that can't be tucked away.
+- [44] **Shizue**: I'm worried. Paperwork delays have caused openings to slip before, and powered displays have been breaking down during gallery hours.
+- [45] **Mio**: @Shizue, if powered things break, does that cost more money? I'm seeing a pattern of hidden costs everywhere!
+- [46] **Victoria**: @Mio, it certainly does. And with only one conservationist, any damage or stabilization needs will just sit in a pile.
+- [47] **Shion**: @Victoria, that's why we need a show that doesn't rely on fragile, static objects. We need something dynamic that attracts people.
+- [48] **Asuka**: @Shion, "dynamic" often means "heavy" or "bulky." We cannot ignore the weight limit of the bay or the needs of the evening caterers.
+- [49] **Shizue**: @Asuka, you are right. And if the shipping paperwork is late, the "dynamic" show won't even open on time.
+- [50] **Mio**: So we need something cheap to move, easy to set up, and not too heavy? That sounds hard!
+- [51] **Victoria**: And it must be something the current staff can actually handle without collapsing.
+- [52] **Shion**: It sounds like we need a show with a "human" element—something that brings the visitors back without needing complex, fragile mounts.
+- [53] **Asuka**: Precisely. It must be a low-impact installation that respects the building's physical and scheduling constraints.
+- [54] **Shizue**: I agree. We must avoid anything that relies on distant lenders with slow paperwork or temperamental electronics.
+- [55] **Mio**: I'll be looking for the most budget-friendly option!
+- [57] **Victoria**: I will prioritize the workload.
+- [59] **Shion**: I will look for the highest visitor appeal.
+- [61] **Asuka**: I will vote for the most structurally sound.
+- [63] **Shizue**: I shall seek the most reliable delivery.
+## Round 3
+- [70] **Mio**: Okay, let's see! Textiles (A) seems local, so transport is cheap. Maritime (C) has loans, which sounds expensive. City (D) has a working bench!
+- [71] **Victoria**: @Mio, City (D) is a problem. A working conservation bench in the gallery? Our lab is already drowning in a backlog!
+- [72] **Shion**: But look at the visitor data! City (D) and Textiles (A) both have that "working" element people love. Light and Motion (B) has mechanisms!
+- [73] **Asuka**: Light and Motion (B) is a nightmare. Overhead rigging in the suspended bay? And darkened zones will interfere with evening hire bookings.
+- [74] **Shizue**: @Shion, Light and Motion (B) also sounds like a maintenance disaster. Remember the powered display logs? I can't support that.
+- [75] **Mio**: If we do Textiles (A), it's local, so we save on transport and maybe the joiner's rates are lower. It sounds very safe!
+- [76] **Victoria**: Textiles (A) is manageable. The volunteers are town historians; they would be perfect for talking about local weaving and dyeing.
+- [77] **Shion**: Maritime (C) is too static. It's just cased objects. Textiles (A) has demonstration sessions, which is exactly what the comment slips asked for.
+- [78] **Asuka**: Textiles (A) is lightweight and flexible. It won't break the suspended bay or block the caterers during evening events.
+- [79] **Shizue**: And since it's local, we avoid the nightmare of distant lender paperwork and shipping cut-offs. It's the most reliable choice.
+- [80] **Mio**: I'm totally for Textiles (A)! It saves money and sounds super friendly!
+- [81] **Victoria**: I agree. It aligns with our volunteer strengths and doesn't add to the conservation backlog.
+- [82] **Shion**: It satisfies the desire for a "living" exhibition. I am convinced.
+- [83] **Asuka**: It is the only candidate that doesn't clash with the building's structural or operational limits.
+- [84] **Shizue**: It is the most peaceful path. No shipping delays, no broken motors. I am in agreement.
+- [85] **Mio**: Yay! We all agree! I vote for Textiles of the Region!
+- [86] **Victoria**: I vote for Textiles of the Region.
+- [87] **Shion**: I vote for Textiles of the Region.
+- [88] **Asuka**: I vote for Textiles of the Region.
+- [89] **Shizue**: I vote for Textiles of the Region.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

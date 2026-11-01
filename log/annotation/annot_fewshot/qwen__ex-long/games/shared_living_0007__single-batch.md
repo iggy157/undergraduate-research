@@ -1,0 +1,73 @@
+# shared_living_0007__single-batch (shared_living)
+
+## Round 1
+- [5] **Misaki**: I worry about the social friction. If we pick a rigid rule, will people start timing their exits to avoid each other?
+- [6] **Shizue**: The morning rush is getting rough. I want to see how the bikes are actually positioned and who is struggling to get out.
+- [7] **May**: Nobody ever checks the actual costs. I need to know what the building pays and what a household pays if they have no space.
+- [8] **George**: The last two maintenance jobs fell on one person and then stopped. I need to know the real workload involved.
+- [9] **Mio**: People say the same spots always go to the same doors. I want to know if that’s true or just resentment.
+- [10] **Misaki**: @May, costs matter, but if the rule makes us avoid each other, the building becomes hostile. We need a humane system.
+- [11] **Shizue**: @Mio, I agree. If the spots are unfair, the morning becomes a fight. I’ll look at the physical layout and the complaints.
+- [12] **May**: @Misaki, I hear you. But if we can’t afford the solution, it’s useless. I’ll check the ledger and the external park prices.
+- [13] **George**: @Shizue, the physical effort is key. If it’s too hard, it won’t last. I’ll check the supplier’s frame and the treasurer’s logs.
+- [14] **Mio**: @George, workload is important. But I need to know if the current allocation is actually biased. I’ll check the minutes and the sticker register.
+- [15] **Misaki**: @May, I’ll check the neighbouring block’s account. I want to see what happens when a charge causes people to stop showing up.
+- [16] **Shizue**: I’ll check the morning departures and the rain exposure. I need to see who is getting wet and who is stuck.
+- [17] **May**: I’ll check the building ledger and the ward cycle park. I need the real numbers before we decide anything.
+- [18] **George**: I’ll check the treasurer’s handover file and the supplier’s display frame. I need to know the hours and the physical strain.
+- [19] **Mio**: I’ll check the five years of minutes and the sticker register. I need to see if the bias is real or just talk.
+- [20] **Misaki**: I’m set. I’ll check the neighbouring block’s account and the last year’s complaint log. Let’s see the social cost.
+- [21] **Shizue**: I’m ready. I’ll check the morning departures and the rain exposure. Let’s see the daily reality.
+- [22] **May**: I’m all set. I’ll check the ledger and the ward park. Let’s see the financial reality.
+- [23] **George**: I’m ready. I’ll check the treasurer’s file and the supplier’s frame. Let’s see the workload.
+- [24] **Mio**: I’m set. I’ll check the minutes and the sticker register. Let’s see the history.
+## Round 2
+- [35] **Misaki**: The neighbouring block’s charge left three households in arrears, and two stopped coming to meetings. That’s a social disaster.
+- [36] **Shizue**: @Misaki, that’s worrying. But I saw eleven bikes leave between seven and nine, and four times someone had to shift another. It’s a bottleneck.
+- [37] **May**: @Shizue, the bottleneck is real. But the ward park costs 2,600 yen a month, and our ledger shows we have no capital for new racks.
+- [38] **George**: @May, the ledger is thin. But the treasurer spends three hours a month just reconciling cash. Adding per-place billing would double that.
+- [39] **Mio**: @George, three hours is a lot. But the minutes show the same flats held the covered spots for five years. No review was ever done.
+- [40] **Misaki**: @Mio, five years without review? That explains the resentment. But if we charge, we risk the same social collapse as the neighbours.
+- [41] **Shizue**: @Misaki, I agree. The rain exposure is bad too. Saddles are wet every morning past the downpipe. We need a fairer physical setup.
+- [42] **May**: @Shizue, fair is good, but if we can’t afford it, it’s a dream. The ward park is full, so we can’t just send people there.
+- [43] **George**: @May, the supplier’s frame took twenty seconds to load and needs greasing twice a year. That’s a maintenance trap.
+- [44] **Mio**: @George, maintenance is a worry. But the sticker register shows daily riders would rather pay than be counted as equal. They want priority.
+- [45] **Misaki**: @Mio, if they want to pay, that’s a signal. But the complaint log had nine notes about leaning bikes, and none were resolved.
+- [46] **Shizue**: @Misaki, unresolved complaints breed resentment. I want a system where the morning isn’t a shoving match.
+- [47] **May**: @Shizue, I understand. But we need a source of income. If we don’t charge, who pays for the new racks?
+- [48] **George**: @May, if we charge, I’m the one doing the bookkeeping. I can’t do three hours a month plus the new billing.
+- [49] **Mio**: @George, that’s a valid point. But if we don’t fix the bias, the grumbling will never stop.
+- [50] **Misaki**: I’m leaning towards a system that doesn’t rely on constant enforcement. The complaint log shows we have no one to ask.
+- [51] **Shizue**: I agree. I want the morning to be calm. I’ll support whatever reduces the shoving.
+- [52] **May**: I need to see the options. I can’t decide without knowing the financial impact.
+- [53] **George**: I need to see the options. I can’t take on more work without knowing the scope.
+- [54] **Mio**: I need to see the options. I want to end the bias.
+## Round 3
+- [60] **Misaki**: Option A charges monthly. That’s what broke the neighbours. I worry it will isolate people here too.
+- [61] **Shizue**: Option B is open racks. No one owns a spot. That might stop the shoving, but will it stop the rain?
+- [62] **May**: Option A brings in money. That’s the only way we can afford new racks. I’m worried about the social cost, but the budget is empty.
+- [63] **George**: Option A means I do the billing. I can’t do that. Option B means no billing, but who maintains the racks?
+- [64] **Mio**: Option C is a lottery. It’s fair on paper. But if the same people win every year, the bias continues.
+- [65] **Misaki**: @Mio, a lottery is random, but it’s not dynamic. If someone moves, the spot stays. That’s rigid.
+- [66] **Shizue**: @Misaki, rigidity is bad. But Option B’s open racks mean anyone can use any spot. That’s flexible.
+- [67] **May**: @Shizue, flexibility is good, but it’s free. Who pays for the racks? Option A pays for them.
+- [68] **George**: @May, Option A pays for them, but I pay with my time. I can’t do the bookkeeping.
+- [69] **Mio**: @George, I hear you. But Option C is the fairest. It gives everyone a chance.
+- [70] **Misaki**: @Mio, fairness is good, but if it doesn’t solve the morning chaos, it’s useless. Option B solves the chaos.
+- [71] **Shizue**: @Misaki, I agree. Option B solves the chaos. I’m voting B.
+- [72] **May**: @Shizue, I understand. But I can’t ignore the budget. I’m voting A to fund the racks.
+- [73] **George**: @May, I can’t do the work for A. I’m voting B to avoid the billing.
+- [74] **Mio**: @George, I agree. Option C is fair, but Option B is practical. I’m voting B.
+- [75] **Misaki**: I’m voting B. It avoids the social collapse of A and the rigidity of C.
+- [76] **Shizue**: I’m voting B. It makes the morning calm.
+- [77] **May**: I’m voting A. We need the money.
+- [78] **George**: I’m voting B. I can’t do the work.
+- [79] **Mio**: I’m voting B. It’s practical.
+### Vote
+- Misaki -> B
+- Shizue -> B
+- May -> A
+- George -> B
+- Mio -> B
+## Result
+- adopted: B

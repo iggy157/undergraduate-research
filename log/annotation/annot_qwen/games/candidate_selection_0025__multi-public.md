@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. I am glad we are all here to discuss this important expansion for our library.
+- [6] **Jonathan**: Thank you, Shizue. I am here to listen carefully. I hope we can find a path that truly serves everyone in our community.
+- [7] **Rin**: I want to check if we are just guessing again! We should look at what actually happened before, not just what sounds nice.
+- [8] **Benjamin**: Rin, you’re right to be skeptical. I’ll just note that "sounds nice" is often where budgets go to die. Let’s keep that in mind.
+- [9] **Minako**: I agree with Rin. We need data, not vibes. Let’s pick two specific records to review before we commit to anything.
+- [10] **Shizue**: I worry about relying on conditions we cannot control. Let us look at winter road closures and former outreach attendance to see what actually held.
+- [11] **Jonathan**: I am inclined to examine the bus links in the outer wards and the evening room bookings. These seem to define who can actually reach us.
+- [12] **Rin**: I’m picking the two programmes from six years ago and the volunteer register. I want to see what actually stuck and who is trained to run it!
+- [13] **Benjamin**: I’ll check the county grant terms and last year’s running lines. I suspect the funding structure is the real trap here, not the size.
+- [14] **Minako**: I’ll review the volunteer register and supervision training. I need to verify if the required skills actually exist on our current roster before we add more duties.
+- [15] **Shizue**: I am glad we are all thinking carefully. I will look into the winter road closures and the attendance sheets from our former outreach stops.
+- [16] **Jonathan**: I will look into the bus links in the two outer wards and the evening room bookings.
+- [17] **Rin**: I’m checking the two programmes from six years ago and the volunteer register. I want to see what actually stuck and who is trained to run it!
+- [18] **Benjamin**: I’ll examine the county grant terms and the running and equipment lines from last year.
+- [19] **Minako**: I’ll review the volunteer register and supervision training. I need to verify if the required skills actually exist on our current roster before we add more duties.
+- [20] **Shizue**: Thank you all. I will look into the winter road closures and the attendance sheets from our former outreach stops.
+- [21] **Jonathan**: I will look into the bus links in the two outer wards and the evening room bookings.
+- [22] **Rin**: I’m checking the two programmes from six years ago and the volunteer register. I want to see what actually stuck and who is trained to run it!
+- [23] **Benjamin**: I’ll examine the county grant terms and the running and equipment lines from last year.
+- [24] **Minako**: I’ll review the volunteer register and supervision training. I need to verify if the required skills actually exist on our current roster before we add more duties.
+## Round 2
+- [35] **Shizue**: The roads closed for eleven days, yet the halls kept their evening timetables. That resilience is what I need to understand.
+- [36] **Jonathan**: The bus cuts mean an hour’s trip to a counter. Yet remote use peaks after nine, when we lock up.
+- [37] **Rin**: I found the old digitisation project left half the images unindexed! But the evening groups still meet. Why do we ignore that?
+- [38] **Benjamin**: The grant covers sessions for a year, then the flat budget absorbs them. Meanwhile, vehicle costs overran by a third. That’s the trap.
+- [39] **Minako**: The register shows a dozen retired tradespeople, but zero staff trained to supervise outside facilitators. We cannot add duties without that skill set.
+- [40] **Shizue**: @Rin, those evening groups surviving is wonderful. It shows people will gather if we simply provide the space, without needing complex logistics.
+- [41] **Jonathan**: @Shizue, that resilience is key. But the bus cuts mean an hour’s trip to a counter. Yet remote use peaks after nine, when we lock up.
+- [42] **Rin**: @Jonathan, wait! If people are already gathering on their own, why do we need a fancy new program? We just need to stop ignoring what works!
+- [43] **Benjamin**: @Rin, the groups survive because they are self-sustaining. Our budget isn’t. I’m watching the grant terms, not the sentiment.
+- [44] **Minako**: @Benjamin, I see the funding trap. But my data shows a skills gap. We lack supervisors for outside facilitators. We cannot just add duties.
+- [45] **Shizue**: @Minako, that is a serious worry. We must ensure we have the right people to guide these new activities safely.
+- [46] **Jonathan**: @Minako, that gap is real. But my data shows demand peaks when we are closed. We must address the access barrier before adding more duties.
+- [47] **Rin**: @Minako, wait! If the tradespeople are already running the clinic, why do we need new supervisors? We just need to trust them!
+- [48] **Benjamin**: @Rin, trust is not a supervision protocol. If the grant lapses, who signs off on safety? I need a structure, not just goodwill.
+- [49] **Minako**: @Rin, trust is not a safety protocol. The technician who certified the tools retired. We lack the specific oversight skills to manage external facilitators safely.
+- [50] **Shizue**: I am glad we are finding common ground. The halls kept their timetables despite the snow. That steady, local rhythm is what I hope to see in our new plans.
+- [51] **Jonathan**: The access gap is stark. We lock up at nine, yet demand peaks later. We must fix who can reach us before adding more programs.
+- [52] **Rin**: @Benjamin, but the groups proved they work without us! Why keep paying for things that fail when people already do it themselves?
+- [53] **Benjamin**: @Rin, self-sustaining means zero recurring cost. My data shows recurring costs are where the budget bleeds. I’m not paying for sentiment; I’m paying for sustainability.
+- [54] **Minako**: @Benjamin, agreed. But the tool certification gap is critical. Without that specific oversight, we cannot safely manage external facilitators.
+## Round 3
+- [60] **Shizue**: I am drawn to the Mobile Branch. It brings us to the outer wards, respecting the local rhythm we discussed.
+- [61] **Jonathan**: The bus cuts leave an hour’s gap. A mobile unit closes that distance, unlike a portal or workshop.
+- [62] **Rin**: @Benjamin, the old scan project failed! I won’t pick D. But C sounds like the groups that already work.
+- [63] **Benjamin**: @Rin, D’s failure was execution, not concept. But A’s vehicle costs overran by a third. I’m wary of recurring transport liabilities.
+- [64] **Minako**: @Benjamin, A’s vehicle costs are a liability, but B’s tool certification gap is a safety risk. I cannot support B without trained supervisors.
+- [65] **Shizue**: @Minako, I understand your caution. But the halls proved that local rhythm survives even when roads close. A mobile unit brings that steady presence to those who cannot reach us.
+- [66] **Jonathan**: @Shizue, I agree. The mobile unit directly addresses the access gap I found. It reaches those cut off by the bus cuts, unlike the other options.
+- [67] **Rin**: @Minako, but the tradespeople are already running the clinic! Why do we need new supervisors? We just need to trust them!
+- [68] **Benjamin**: @Rin, trust doesn’t sign the liability waiver. @Minako, B is a safety minefield. @Shizue, A’s recurring costs are a budgetary hemorrhage. I’m leaning C, but I need to see the facilitator structure.
+- [69] **Minako**: @Benjamin, C requires trained facilitators. My data shows zero staff trained to supervise them. We lack the specific oversight skills to manage external partners safely.
+- [70] **Shizue**: @Minako, I hear your worry. But the halls kept their timetables without us. Perhaps we can trust the community to help guide these circles, as they did before.
+- [71] **Jonathan**: @Minako, the access gap is the primary barrier. A mobile unit reaches those cut off by the bus cuts, unlike the other options.
+- [72] **Rin**: @Minako, but the evening groups already work without us! Why add more staff when people are already doing it?
+- [73] **Benjamin**: @Minako, C’s recurring fees hit the flat budget after year one. That’s the trap. I’m voting C, but only if we cap the scope.
+- [74] **Minako**: @Benjamin, C is a recurring cost trap. @Shizue, A ignores the access gap. I am voting D, as it avoids the staffing and transport liabilities we cannot cover.
+- [75] **Shizue**: I am voting for the Mobile Branch. It brings the library to those who cannot reach us, honoring the steady rhythm of our community.
+- [76] **Jonathan**: I am voting for the Mobile Branch. It directly closes the access gap I identified, reaching those cut off by the bus cuts.
+- [77] **Rin**: I am voting for Language Learning Circles! The old groups proved people will gather on their own. We just need to stop ignoring what already works!
+- [78] **Benjamin**: I am voting for the Digital Archive Portal. It avoids the recurring transport and staffing liabilities that would bleed our flat budget dry in year two.
+- [79] **Minako**: I am voting for the Digital Archive Portal. It avoids the staffing and transport liabilities we cannot cover.
+### Vote
+- Shizue -> A
+- Jonathan -> A
+- Rin -> C
+- Benjamin -> D
+- Minako -> D
+## Result
+- adopted: D

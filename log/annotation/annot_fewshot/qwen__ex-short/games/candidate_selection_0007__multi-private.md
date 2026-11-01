@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-private (candidate_selection)
+
+## Round 1
+- [5] **May**: I am tired of the same old plans resurfacing. Let us check the history before we cheer.
+- [6] **Benjamin**: Agreed. History is a harsh editor. I want to see who actually shows up to work, not just the glossy brochures.
+- [7] **Midori**: I worry we fix what is loudest, not what is slow. Let us check where minutes actually go.
+- [8] **Shizue**: I worry about the quiet delays. Let us see who else must agree before we can start digging.
+- [9] **Jonathan**: I worry about the long-term cost. Let us see what the capital ledger actually commits us to pay later.
+- [10] **May**: @Benjamin, showing up is good, but I want to know if they finished last time. Let us check the records.
+- [11] **Benjamin**: @May, finishing is the goal, but showing up is the prerequisite. If the roster is empty, the finish date is fiction.
+- [12] **Midori**: @May, I agree. Completion records show what actually happened. I will check the earlier accessibility programme to see if promises were kept.
+- [13] **Shizue**: @Midori, that is wise. I will look at the joint operators' committee minutes to see who holds the pen.
+- [14] **Jonathan**: @Shizue, the committee minutes show who agrees, but the ledger shows what we pay. I will check the capital balances to see the real commitment.
+- [15] **May**: @Midori, checking the accessibility programme is smart. I will look at the two pilots from eight years ago to see what actually stuck.
+- [16] **Benjamin**: @May, pilots are useful, but rosters tell the truth. I will check the late-turn pool to see who is actually available.
+- [17] **Midori**: @Benjamin, rosters matter, but I need to see the journey audits. I want to know where the minutes truly vanish.
+- [18] **Shizue**: @Benjamin, the roster is vital. I will check the crew establishment and maintenance contract to see who is truly responsible for the work.
+- [19] **Jonathan**: @Benjamin, the roster shows who is here, but the contract shows who pays. I will check the maintenance contract to see the long-term liability.
+- [20] **May**: @Jonathan, the contract is key. I will check the ticketing fees to see if the revenue actually covers the new debt.
+- [21] **Benjamin**: @Jonathan, the contract is a promise, but the roster is the reality. I will check the crew establishment to see if the hands are there.
+- [22] **Midori**: @Jonathan, the ledger shows the debt, but I need the journey audits to see where time is lost. I will check those.
+- [23] **Shizue**: @Jonathan, the contract is a promise, but the ground is the truth. I will check the contingency pricing inside the pre-war shells to see what might be hidden.
+- [24] **Jonathan**: @Shizue, hidden costs are real. I will check the ticketing fees to see if the revenue stream can sustain the new debt.
+## Round 2
+- [35] **May**: The pilots actually worked. No faults, costs covered. But ticketing fees are eating our paving budget. That is a red flag.
+- [36] **Benjamin**: The late-turn pool is hollow. Overtime is masking a structural gap. We cannot promise schedules we cannot staff.
+- [37] **Midori**: The audits show waiting for connections is the real time sink, not ticket queues. The accessibility records show lifts finished, but lane priorities failed.
+- [38] **Shizue**: The committee minutes show ferry and rail data terms are still unresolved. The pre-war shells hide voids that stop work for weeks.
+- [39] **Jonathan**: The ledger shows a frozen grant balance, but operating subsidies are cut. The maintenance contract has spare lift capacity, yet roadway crews are a third short.
+- [40] **May**: @Benjamin, hollow rosters kill pilots. But @Midori, if connections are the bottleneck, we need to fix the handoff, not just the hardware.
+- [41] **Benjamin**: @May, exactly. If the late-turn pool is empty, the handoff is a fantasy. We need plans that fit the hands we actually have.
+- [42] **Midori**: @Benjamin, you are right. We cannot fix connections if the crew is missing. I need to see if the plan accounts for that staffing gap.
+- [43] **Shizue**: @Benjamin, the empty pool is a real worry. But the committee minutes show data terms are still tangled. We must untie that knot before we promise any new connections.
+- [44] **Jonathan**: @Shizue, the data knot is real. But the ledger shows the operating subsidy is shrinking. We must pick a plan that does not bleed cash we no longer have.
+- [45] **May**: @Shizue, untangling data is slow. I want to know if the pilots prove we can actually run this without new money.
+- [46] **Benjamin**: @May, the pilots prove the concept, not the capacity. If the roster is empty, the pilot is just a very expensive rehearsal.
+- [47] **Midori**: @May, the pilots prove the concept, but the audits prove the pain. We must fix the waiting, not just the hardware.
+- [48] **Shizue**: @May, the pilots are encouraging, but the pre-war shells are a trap. We must avoid plans that dig into those old foundations.
+- [49] **Jonathan**: @May, the pilots are a start, but the ledger shows the subsidy is shrinking. We need a plan that fits the cash we actually have left.
+- [50] **May**: @Jonathan, the pilots show we can run lean. I will check if the plan avoids the pre-war shells to keep costs down.
+- [51] **Benjamin**: @Jonathan, lean is good, but only if the hands are there. I will check if the plan relies on the hollow late-turn pool.
+- [52] **Midori**: @Jonathan, the ledger is tight, but the audits show where the time goes. We must fix the waiting, not just the debt.
+- [53] **Shizue**: @Jonathan, the shells are a trap. We must avoid plans that dig into those old foundations.
+- [54] **Jonathan**: @Shizue, avoiding the shells is wise. But the contract shows spare lift capacity. We should use that, not dig new holes.
+## Round 3
+- [60] **May**: The pilots prove we can run lean. I want a plan that sticks, not one that vanishes like the last decade.
+- [61] **Benjamin**: The late-turn pool is empty. Any plan demanding new night shifts is a fantasy. I need to see who is actually awake.
+- [62] **Midori**: The audits show waiting for connections is the real pain. I need a plan that fixes the handoff, not just the hardware.
+- [63] **Shizue**: The committee minutes show data terms are tangled. I worry about plans needing new agreements. Let us see which fits our current reality.
+- [64] **Jonathan**: The ledger is tight. I need a plan that uses existing capacity, not one that digs into the frozen grant balance.
+- [65] **May**: @Midori, the pilots show lean works. I want a plan that fixes the handoff without new money.
+- [66] **Benjamin**: @Midori, fixing the handoff is smart, but only if the crews are there to maintain it. I am watching the staffing gap closely.
+- [67] **Midori**: @Benjamin, you are right. If the crew is missing, the handoff is a fantasy. I need to see if the plan accounts for that staffing gap.
+- [68] **Shizue**: @Benjamin, the hollow pool is a real danger. But the pre-war shells are a trap. We must avoid plans that dig into those old foundations.
+- [69] **Jonathan**: @Benjamin, the hollow pool is a danger. But the contract shows spare lift capacity. We should use that, not dig new holes.
+- [70] **May**: @Shizue, the shells are a trap. Candidate C digs right into them. I want to avoid that headache entirely.
+- [71] **Benjamin**: @Shizue, C is a trap. But D is a nightmare. The late-turn pool is empty. We cannot staff the night extension.
+- [72] **Midori**: @Benjamin, D is impossible with that roster. But B fixes the mid-city handoff. The audits show that is where the minutes vanish.
+- [73] **Shizue**: @Midori, B is wise. It avoids the pre-war shells and the tangled data terms. It fits the hands we have.
+- [74] **Jonathan**: @Midori, B fits the ledger. It uses existing lanes, not new debt. I am leaning toward B.
+- [75] **May**: @Benjamin, D is a fantasy. C is a trap. B fixes the handoff without new debt. I am ready to vote.
+- [76] **Benjamin**: @May, agreed. D is a fantasy, C is a trap. B fits the hands we actually have. I am ready to vote.
+- [77] **Midori**: @May, B addresses the connection delays the audits highlighted. It fits the staffing reality too. I am ready to vote.
+- [78] **Shizue**: @May, B is the gentle path. It avoids the hidden voids and the tangled data. I am ready to vote.
+- [79] **Jonathan**: @May, B is the quiet choice. It respects the ledger and the crew. I am ready to vote.
+### Vote
+- May -> B
+- Benjamin -> B
+- Midori -> B
+- Shizue -> B
+- Jonathan -> B
+## Result
+- adopted: B

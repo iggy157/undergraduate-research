@@ -1,0 +1,73 @@
+# shared_living_0019__multi-private (shared_living)
+
+## Round 1
+- [5] **George**: Hello everyone. It is a pleasure to be here. To ensure we find a sustainable solution for our shared car, I believe we should start by gathering some objective data. Let's be thoughtful about this.
+- [6] **Toshio**: I agree. We should avoid making decisions based on vague impressions. Let's identify the specific data points that will reveal the actual patterns of use and the associated costs before we propose any new rules.
+- [7] **Victoria**: I agree with the need for objective data. To understand the actual experience of using the car, we should look at the patterns of daily use and the physical condition of the vehicle.
+- [8] **Misaki**: I agree. We need a clear understanding of the actual expenses and usage patterns to ensure the arrangement is fair. Let's be thorough in our research to avoid any misunderstandings later.
+- [9] **Minato**: Hi everyone! I'm happy to help. I want to make sure everything is fair and that we all feel good about how we use the car. I'm curious to see how it all works!
+- [10] **George**: I will look into "What two other car-sharing households said" and "The spell of checking each other's figures." I believe it is important to understand the social dynamics and pitfalls of such arrangements.
+- [11] **Toshio**: I will examine the "Hours of use recorded in the diary" and the "Month's trial of recording every run." I want to understand the actual time investment required to manage the car's usage.
+- [12] **Victoria**: I will look into the "State of the car at handover" and "The mechanic's remarks at the last service." I want to understand the actual condition of the vehicle and how it is being maintained.
+- [13] **Misaki**: I will check "Last year's tax, insurance and parking papers" and "Last year's fuel receipts." I want to get a precise picture of the total fixed and variable costs to determine what a truly even split looks like.
+- [14] **Minato**: I'll look into "Weeks of heavy use over the year" and "Trips that repeat weekly"! I want to see who uses the car the most and where it goes. It sounds interesting!
+- [15] **George**: I think we have a very comprehensive plan. By covering the social, financial, and physical aspects, we can avoid the mistakes of the past. I look forward to seeing what we all discover.
+- [16] **Toshio**: It is a balanced approach. By dividing the research, we ensure that no single perspective dominates the decision. I will wait for the results to see if the time spent managing the car is sustainable.
+- [17] **Victoria**: I agree. By examining the vehicle's condition alongside the usage and cost data, we can determine if the current arrangement is physically and practically sustainable for everyone involved. I look forward to the results.
+- [18] **Misaki**: I agree. Having a complete set of data will allow us to address the financial realities without relying on assumptions. I'll see you all in the next round to share our findings.
+- [19] **Minato**: I'm excited too! I hope we find out a lot of things that help us all get along. I'll go see what the car's busy weeks look like now! See you soon!
+- [20] **George**: I believe we are all in agreement. Let us proceed with our research and reconvene once we have the facts. I will see you all in the next round.
+- [21] **Toshio**: I agree. Let us proceed with the research. I will focus on the time and effort involved in the car's operation to ensure the administrative burden is manageable. I will see you all in the next round.
+- [22] **Victoria**: I will focus on the physical state of the car. It is essential to know if the vehicle is being kept in a condition that is safe and reliable for everyone. I will see you all soon.
+- [23] **Misaki**: I will begin my research now. I want to ensure we have a precise understanding of the financial history to avoid any hidden imbalances. I'll see you all in the next round.
+- [24] **Minato**: I'll go look at the papers now! I hope the information is easy to understand. I'll see you all in the next round! Bye-bye!
+## Round 2
+- [35] **George**: My research suggests that the social friction is often more damaging than the logistics. It seems that constant requests for favors or the act of policing each other's figures can create a very tense atmosphere.
+- [36] **Toshio**: My findings confirm that the administrative burden is significant. A trial of precise recording took nearly an hour a week, and the diary shows a stark imbalance in usage between weekdays and weekends. The time cost is not negligible.
+- [37] **Victoria**: The physical state of the car is a concern. I found that it is often returned with the fuel light on and rubbish inside. Additionally, the mechanic noted that short, cold runs are causing excessive wear.
+- [38] **Misaki**: The financial data reveals a significant imbalance. Fixed costs for tax, insurance, and parking exceed 280,000 yen, but fuel contributions are lopsided, with two people paying for most of the fuel while another barely contributes.
+- [39] **Minato**: I found out that the car gets really busy all at once sometimes, like for moves or trips, and it makes everyone have to work around each other. Also, some weekly trips keep crashing! That sounds stressful.
+- [40] **George**: @Misaki, @Toshio, it is clear that financial and time imbalances exist, but we must be careful. My findings show that strictly policing figures can make people feel accused, which only worsens the tension.
+- [41] **Toshio**: @George, while I understand the risk of tension, ignoring the data is not a solution. If we spend an hour a week just on recording, we are paying a hidden tax of time that is just as draining as a financial deficit.
+- [42] **Victoria**: @Toshio, the time cost is indeed a burden, but we must also consider the physical cost. If the car is returned empty and dirty, the next person pays a "time tax" just to make it drivable. This is a practical failure.
+- [43] **Misaki**: @Victoria, I agree. The physical neglect of the car is a symptom of the same lack of accountability seen in the fuel receipts. If we continue to rely on an informal "share is a share" mindset, some will inevitably subsidize others.
+- [44] **Minato**: @Misaki, it's a bit scary that some people aren't paying their share. I don't want anyone to feel sad or unfair. Do you think we can find a way to fix it without making anyone feel bad?
+- [45] **George**: @Minato, that is the heart of the matter. If we focus only on the numbers, we risk creating an atmosphere of suspicion. We need a system that ensures fairness without making us feel like we are policing one another.
+- [46] **Toshio**: @George, fairness cannot exist without a baseline of truth. If we avoid the numbers to save the atmosphere, we simply shift the burden onto those who are patient enough to be taken advantage of. That is not a sustainable harmony.
+- [47] **Victoria**: @Toshio, I agree that truth is necessary. However, the "truth" isn't just in the numbers; it's in the state of the car on a Tuesday morning. A system that ignores the physical reality of the vehicle is not truly fair.
+- [48] **Misaki**: @Victoria, exactly. Whether it is the fuel tank or the interior cleanliness, the physical state reflects the financial imbalance. We cannot achieve a fair split if we ignore who is actually bearing the costs and the labor.
+- [49] **Minato**: @Victoria, @Misaki, it sounds like the car is a bit tired and sad. I want us to be kind to the car and to each other. Maybe if we have a clear plan, nobody has to be the "police" and everyone can just be happy?
+- [50] **George**: @Minato, that is a lovely sentiment. However, we must be realistic. If we implement a plan that is too rigid, we risk the same friction I found in other households. Let us seek a balance between accountability and trust.
+- [51] **Toshio**: @George, trust is a luxury we cannot afford when the current system is failing. If we prioritize a "feeling" of harmony over a functional structure, we are merely delaying the inevitable collapse of the arrangement. We need a system that works.
+- [52] **Victoria**: @Toshio, a system that "works" must include a standard for the car's condition. If we only solve the money and the schedule but ignore the fuel and cleanliness, the daily experience remains broken. We need a practical baseline for handover.
+- [53] **Misaki**: @Victoria, I agree. A practical baseline is essential. We must move beyond the idea that a share is simply a share; we need a system that accounts for both the fixed costs and the actual usage to prevent quiet subsidies.
+- [54] **Minato**: I agree with everyone! It's a bit confusing, but I think we all want the same thing. I just hope we can find a way to be honest about the money and the driving without any fighting.
+## Round 3
+- [60] **George**: Looking at these options, I worry that Option A might lead us back to the very policing and figure-checking that sours groups. If we are constantly calculating distances, we risk creating an atmosphere of suspicion.
+- [61] **Toshio**: @George, Option A is exactly what I feared. It formalizes the administrative burden I discovered. Spending an hour a week squaring figures is a waste of time and a source of friction. We need a simpler structure.
+- [62] **Victoria**: Option B provides the most stability. By having fixed days, we eliminate the daily uncertainty of the car's location and state. It creates a clear window of responsibility for each person to ensure the car is ready for the next.
+- [63] **Misaki**: Option B is the most transparent regarding costs. A fixed monthly share prevents the quiet subsidies I'm concerned about, as it removes the ambiguity of who is paying for what on a day-to-day basis.
+- [64] **Minato**: Option B sounds very peaceful! If everyone has their own day, we won't have to worry about those weekly trips crashing into each other. It seems like a way to be fair without any fighting!
+- [65] **George**: @Victoria, @Misaki, I agree that Option B offers a certain peace of mind. By removing the need to constantly negotiate or calculate, we avoid the "favor-asking" and policing that often erode a group's harmony. It is a more dignified arrangement.
+- [66] **Toshio**: Option B is the only rational choice here. It eliminates the time-consuming administrative labor of recording every run and the stress of untangling debts. By fixing the cost and the schedule, we reclaim our evenings.
+- [67] **Victoria**: @Toshio, exactly. Beyond the time saved, Option B ensures that the person ending their day is solely responsible for the car's state. It transforms the handover from a gamble into a predictable standard.
+- [68] **Misaki**: @Victoria, I agree. When responsibility is clearly assigned to a specific day, it becomes obvious who is neglecting the vehicle. It replaces vague collective guilt with individual accountability, which is the only way to stop the current decline.
+- [69] **Minato**: @Misaki, @Victoria, that makes sense! If we each have our own day, we can take really good care of the car and be proud of it. I think Option B is the kindest way for everyone!
+- [70] **George**: It seems we have found a rare moment of complete consensus. Option B addresses the financial imbalances and the physical neglect of the car, while crucially avoiding the social friction of policing one another. I am satisfied with this choice.
+- [71] **Toshio**: I agree. Option B is the only solution that removes the hidden cost of administrative labor. By eliminating the need to untangle debts and schedule every run, we ensure the arrangement is sustainable for the long term. I vote for Option B.
+- [72] **Victoria**: I agree. Option B is the only choice that guarantees a predictable experience on a plain midweek morning. It replaces uncertainty with a clear standard of responsibility. I vote for Option B.
+- [73] **Misaki**: I agree. Option B is the only choice that ensures a truly even split of the fixed costs and prevents the quiet subsidies that have plagued us. It is the most responsible decision. I vote for Option B.
+- [74] **Minato**: I agree too! Option B sounds like the best way to make sure everyone is happy and the car is well-loved. I'm so glad we all agree! I vote for Option B!
+- [75] **George**: I agree. Option B provides the stability we need and protects our relationships from the strain of constant negotiation. It is the most balanced and sustainable path forward. I vote for Option B.
+- [76] **Toshio**: The consensus is clear. Option B is the only logical choice that eliminates the administrative burden and the time-consuming process of debt untangling. It is the most efficient and sustainable solution. I vote for Option B.
+- [77] **Victoria**: I have already cast my vote. Option B is the only arrangement that ensures the car is ready and available when needed, removing the stress of an unpredictable handover. I vote for Option B.
+- [78] **Misaki**: I have already cast my vote. Option B is the only choice that provides a clear financial structure and eliminates the risk of some members quietly subsidizing others. I vote for Option B.
+- [79] **Minato**: I'm so happy we all found a way to be fair and kind! Option B makes everything simple so we can just enjoy the car together. I vote for Option B!
+### Vote
+- George -> B
+- Toshio -> B
+- Victoria -> B
+- Misaki -> B
+- Minato -> B
+## Result
+- adopted: B

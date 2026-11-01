@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: Since we have more residents than spaces, we need a fair system. I suggest we look into the actual usage and the physical layout first. I'll check the sticker register and the rain exposure.
+- [6] **Ryuji**: I agree that fairness is key, but we also need to understand the financial side of this. I'll look into the building account's two-year ledger and the treasurer's handover file on cash collections.
+- [7] **George**: I believe we should verify if the current allocation is actually balanced. I will look into the sticker register and the daily riders to see who is truly using the spaces.
+- [8] **Shunichi**: I'm less interested in the numbers and more in the human element. I'll check the five years of association minutes and last year's complaint log entries to see where we've failed before.
+- [9] **Mio**: I want to know how much work this actually takes to manage! I'll check the treasurer's handover file on cash collections and the account from the neighbouring block's secretary to see how others do it.
+- [10] **Asuka**: It seems we have a good spread of data. @Ryuji and @Mio are focusing on finances, while @Shunichi is looking at history. I believe understanding the physical constraints is just as vital for a sustainable solution.
+- [11] **Ryuji**: Physical constraints are important, but without knowing the budget or current revenue, we might propose something we can't afford to maintain. I want to ensure our final decision is financially grounded.
+- [12] **George**: Financials are necessary, but we must first ensure the current distribution isn't biased. I'll also look into the morning departures watched from the entrance to see the actual flow of residents.
+- [13] **Shunichi**: @George, watching people leave in the morning sounds like a bit of a hobby, doesn't it? I'll stick to the records. It's far more efficient to see where people actually clashed than to guess from a distance.
+- [14] **Mio**: @Shunichi, don't be so grumpy! Watching people can be fun! But I agree that we need a plan that doesn't just look good on paper, but is actually easy for us to keep up!
+- [15] **Asuka**: @George, observing the morning flow is actually a logical step to identify congestion. I believe combining that with the rain exposure data will help us determine if some spaces are practically unusable.
+- [16] **Ryuji**: While observing flow is useful, we must not overlook the cost of implementing changes. If we decide to reorganize the layout, we need to know if there are funds available for new markings or signage.
+- [17] **George**: I appreciate the support, @Asuka. I simply want to ensure that our decisions are based on reality rather than assumptions. I believe seeing the actual movement will clarify if the current layout is truly functional.
+- [18] **Shunichi**: @Ryuji, you're obsessing over signage costs for a few lines of paint. Let's focus on the social friction. If we ignore the history of complaints, we're just designing a new way for neighbors to hate each other.
+- [19] **Mio**: @Shunichi, that's a bit dramatic! But you're right that we don't want more fighting. I just hope we don't create a system that's so complicated that whoever manages it just gives up!
+- [20] **Asuka**: To wrap up this round, I will stick with the sticker register and rain exposure. It is essential to know who is actually using the spaces and which ones are physically problematic before we vote.
+- [21] **Ryuji**: I will stick with the building account's two-year ledger and the treasurer's handover file. We cannot make a responsible decision without knowing the actual financial impact and current collection status.
+- [22] **George**: I will stick with the sticker register and the daily riders, and the morning departures. It is important to verify the actual usage patterns to ensure the allocation is truly fair and based on reality.
+- [23] **Shunichi**: I'll stick with the five years of association minutes and last year's complaint log. Let's see if we can avoid repeating the same mistakes that turned this place into a battlefield.
+- [24] **Mio**: I'll stick with the treasurer's handover file and the account from the neighbouring block's secretary! I really want to see how much paperwork is involved so we don't accidentally create a nightmare job for someone!
+## Round 2
+- [35] **Asuka**: The data shows a clear divide. Some spaces are practically unusable due to rain, and daily riders are actually willing to pay for priority. We should consider a system that reflects both usage and quality.
+- [36] **Ryuji**: The ledger shows the shared account is barely covering basics. Any significant changes or improvements would require a levy on households, which might be unpopular. We must be very careful about proposing any costly modifications.
+- [37] **George**: I noticed that several bikes had to be moved just to get others out. This suggests the current layout is inefficient and likely contributes to the friction some residents are feeling about the allocation.
+- [38] **Shunichi**: It's exactly as I suspected. The minutes show a total lack of review for years, and the complaints just fizzle out because no one takes responsibility. We're not managing a parking lot; we're ignoring a slow-motion train wreck.
+- [39] **Mio**: Wow, it sounds like things are a bit of a mess! I found out that managing the money already takes hours, and the neighbors' block had people stop coming to meetings because of fees. We can't make it too stressful!
+- [40] **Asuka**: @George, your observation about bikes being moved confirms my concerns. If the layout is inefficient and some spots are rain-soaked, a simple lottery isn't fair. We need a system that prioritizes daily users and addresses the physical layout.
+- [41] **Ryuji**: @Asuka, prioritizing daily users sounds reasonable, but we must consider the administrative cost. @Mio mentioned the current workload is already significant. Adding complex priority tiers could increase the treasurer's burden beyond what is sustainable.
+- [42] **George**: I agree with @Ryuji that we should avoid overcomplicating the administration. However, the fact that people are physically blocking each other is a reality we cannot ignore. A simple system that optimizes the flow would reduce friction.
+- [43] **Shunichi**: @George, "optimizing flow" is just a fancy way of saying we're rearranging the deck chairs on the Titanic. If we don't address the underlying apathy and lack of accountability, a new layout will just create new things to complain about.
+- [44] **Mio**: @Shunichi, you're so gloomy! But @Ryuji is right. If we make a super complex system to fix the "flow," the person in charge will just burn out. Let's keep it simple so it actually lasts!
+- [45] **Asuka**: @Mio, simplicity is key, but it must be functional. If we ignore the rain and the congestion, we are just postponing the next conflict. A system where daily riders pay for better spots could fund the maintenance @Ryuji is worried about.
+- [46] **Ryuji**: @Asuka, introducing fees for better spots might seem like a solution, but it adds a layer of financial management. Given the current ledger, we must ensure any such system doesn't create more administrative work than it's worth.
+- [47] **George**: @Asuka, while fees might solve the budget, we must be careful. My observations show the physical congestion is the immediate problem. We should prioritize a layout that prevents bikes from blocking each other before we worry about payments.
+- [48] **Shunichi**: @George, you're still treating this like a puzzle to be solved with a ruler. The complaints log proves that people are already annoyed, but they're suffering in silence. If we just "optimize" without a clear rule, the resentment will only grow.
+- [49] **Mio**: @Shunichi, stop being so dramatic! But @Asuka, I'm really worried about those fees. The other block's secretary said people stopped coming to meetings because of them! Let's not make our neighbors hate each other over a few coins!
+- [50] **Asuka**: @Mio, I understand your concern, but ignoring the physical reality of the rain and the morning congestion is not a solution. We need a system that is both simple to manage and logically fair to the users.
+- [51] **Ryuji**: I agree. However, we must remember that the building account is nearly empty. Any solution that requires physical changes or complex billing must be carefully weighed against the risk of requiring a household levy or overloading the treasurer.
+- [52] **George**: It is clear that the current situation is not sustainable. We must find a balance between a functional layout that stops bikes from blocking each other and a management system that does not overwhelm our treasurer.
+- [53] **Shunichi**: Let's be honest: we're just circling the drain. Whether it's "flow" or "fees," you're all ignoring the fact that we've spent years pretending everything is fine while people quietly seethe. We need a rule that actually sticks.
+- [54] **Mio**: @Shunichi, you're such a downer! But I agree we need a rule that sticks. Let's just make sure it's a rule that doesn't require a mountain of paperwork or make people stop talking to each other!
+## Round 3
+- [60] **Asuka**: Option A is the most logical. It addresses the financial deficit @Ryuji mentioned, satisfies the daily riders' willingness to pay, and creates a clear ownership that reduces the shoving matches and congestion @George and I observed.
+- [61] **Ryuji**: Option A provides a revenue stream, but @Mio's findings about the treasurer's workload are concerning. Adding monthly billing for individual spaces could be an administrative nightmare. I am leaning toward a simpler approach.
+- [62] **George**: Option B seems the most practical. If we remove fixed assignments, we eliminate the resentment over who gets which spot and solve the congestion I saw, as people can park where there is actually space.
+- [63] **Shunichi**: Option B is a recipe for disaster. You're replacing "quiet resentment" with "daily combat" over the best spots. If we want to avoid a building full of people avoiding each other, we need a clear, fixed rule.
+- [64] **Mio**: @Asuka, I really can't do Option A! The other block's secretary said fees made people stop coming to meetings, and the treasurer is already working so hard. Let's not make it a nightmare!
+- [65] **Asuka**: @Mio, the current "free" system is already a nightmare of congestion and rain-soaked bikes. Option B only worsens this by making every single morning a competition. A paid system provides order and funds for the building.
+- [66] **Ryuji**: @Asuka, while I see the logic, we cannot ignore the risk of administrative burnout. Option C is the most stable; it requires minimal effort from the treasurer and provides a clear, impartial rule that prevents the "daily combat" @Shunichi fears.
+- [67] **George**: @Ryuji, a lottery is impartial, but it doesn't solve the physical congestion I witnessed. If we simply shuffle the same inefficient spots every year, we are just rotating the frustration without fixing the actual problem of bikes blocking each other.
+- [68] **Shunichi**: @George, you're still obsessed with the geometry of the bikes. The real problem is the social climate. Option C is boring, but it's a clean break. It's a fair, fixed rule that doesn't turn the lobby into a war zone.
+- [69] **Mio**: @Ryuji, I totally agree! Option C sounds way easier. No monthly bills to track, no fighting over spots every morning, and no one has to do a mountain of paperwork. Let's just keep it simple and happy!
+- [70] **Asuka**: @Ryuji and @Mio, you are prioritizing administrative ease over actual functionality. Option C ignores the rain and the congestion. If we just rotate the misery, we haven't solved anything. Option A is the only one that provides a sustainable solution.
+- [71] **Ryuji**: @Asuka, functionality is useless if the system collapses due to administrative failure. Option A risks the treasurer's burnout and resident hostility. Option C is the most reasonable compromise between fairness and sustainability.
+- [72] **George**: @Ryuji, I understand the need for sustainability, but Option C is merely a gamble. If we don't address the physical layout, we are just assigning people to a broken system. Option B at least encourages flexibility.
+- [73] **Shunichi**: @George, flexibility is just a polite word for chaos. Option B is a free-for-all that will turn every morning into a battle of nerves. I'll take a boring lottery over a daily skirmish any day.
+- [74] **Mio**: @George, but chaos is way more stressful than a lottery! @Asuka, I know you want it perfect, but a "perfect" system that makes everyone grumpy or exhausted isn't actually perfect. I'm voting for Option C!
+- [75] **Asuka**: @Mio, @Ryuji, you are choosing convenience over a real solution. Option C is a gamble that ignores the physical reality of the rain and congestion. I will vote for Option A to ensure order and funding.
+- [76] **Ryuji**: The physical issues are real, but they cannot be solved by a system that is administratively unsustainable. Option C is the only choice that ensures fairness without risking financial conflict or burnout. I vote for Option C.
+- [77] **George**: I cannot support a lottery that ignores the physical congestion I witnessed. However, Option B's chaos is also concerning. I will vote for Option B to prioritize flexibility and actual usage over a broken, fixed system.
+- [78] **Shunichi**: @George, your "flexibility" is just a fancy word for a daily brawl. I've seen how this building handles conflict—by ignoring it until it rots. Option C is the only way to keep the peace. I vote for Option C.
+- [79] **Mio**: I'm with @Ryuji and @Shunichi! Option C is the only one that doesn't sound like a total headache for the person in charge or a way to make neighbors fight. I vote for Option C!
+### Vote
+- Asuka -> A
+- Ryuji -> C
+- George -> B
+- Shunichi -> C
+- Mio -> C
+## Result
+- adopted: C

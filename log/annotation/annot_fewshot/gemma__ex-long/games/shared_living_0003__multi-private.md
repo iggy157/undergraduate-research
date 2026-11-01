@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: Hi everyone! I'm so excited to help move the desks! Let's make our office super awesome! What should we check first to make sure we have the best layout ever?
+- [6] **Toshio**: We should be methodical. Before we start imagining the "best" layout, we need to understand the actual constraints of the space and the costs involved. Let's look at the data first.
+- [7] **Mizuki**: I agree with Toshio. We need a logical foundation before we make any decisions. Let's identify the technical and physical limitations of the room so we don't plan something impossible.
+- [8] **Shion**: Efficiency is fine, but we shouldn't overlook the human element. A layout that looks perfect on a blueprint can be a nightmare in practice if the environment is uncomfortable. Let's see what the actual data says.
+- [9] **Yumi**: I'm so happy we're all doing this together! I agree, let's make sure we're being thoughtful. I want us to have a space where everyone feels connected and happy! What do you guys think?
+- [10] **Rin**: I want to know how we start our days! I'll check the "Morning routine on the pilot floor upstairs" and "Arrival times in the badge records"! I bet there are some cool secrets to a great morning!
+- [11] **Toshio**: I will look into the "Basis of the department's floor billing" and the "Facilities quote for re-running power and network." We must understand the financial implications and technical costs before committing to a new design.
+- [12] **Mizuki**: I'll examine the "Drawn plan against the staff survey" and "Unplanned seat shuffles in the past year." I want to see how our actual needs align with the current layout and why previous changes occurred.
+- [13] **Shion**: I'll look into the "Sound meter readings across the room" and the "Physio's note from the workstation check." If we ignore the physical and auditory toll of the workspace, the new layout will be a failure.
+- [14] **Yumi**: I'll check the "Basis of the department's floor billing" and the "Facilities quote for re-running power and network"! I want to see how much it costs to change things so we can make the best choice for everyone!
+- [15] **Rin**: @Toshio, @Mizuki, @Shion, @Yumi! We've all picked our clues! I wonder if the people upstairs have a super fast way of getting ready for work? I can't wait to find out!
+- [16] **Toshio**: The speed of a morning routine is a trivial detail. What matters is whether the infrastructure can support our growth without exceeding the budget. Let us wait for the data to reveal the actual constraints.
+- [17] **Mizuki**: @Rin, your enthusiasm is great, but let's stay focused. I'm interested to see if the "unplanned shuffles" were caused by specific discomforts or just poor planning. That will help us avoid repeating the same mistakes.
+- [18] **Shion**: @Mizuki, you're thinking in terms of planning, but I'm thinking in terms of the body. A shuffle is often just a desperate attempt to escape a bad spot. Let's see if the data supports that.
+- [19] **Yumi**: @Shion, that's a really important point! I hope we can find a way to make everyone feel comfortable. I'm just so excited to see what we find out! Let's all do our research and meet back here!
+- [20] **Rin**: I'm ready! I'm going to go hunt for those secrets right now! I hope the people upstairs have some super-duper ideas for us! See you all soon, bye-bye!
+- [21] **Toshio**: I will proceed with my research. I intend to clarify the financial and technical boundaries of this reorganization to ensure we do not make an unsustainable decision. I will see you all in the next round.
+- [22] **Mizuki**: I will begin my research now. I want to understand the gap between our stated preferences and the reality of our seating history. I'll see you all in the next round.
+- [23] **Shion**: I'll be analyzing the physical and auditory environment. While the rest of you focus on budgets and blueprints, I'll be looking for the factors that actually affect our daily endurance. See you in the next round.
+- [24] **Yumi**: I'll get started too! I really hope we can find a way to make our office a place where we all feel close and happy. See you all soon! Good luck with your research!
+## Round 2
+- [35] **Rin**: Wow, I found some really interesting things! The people upstairs take four to nine minutes just to get their screens working every morning! That's a lot of time if you're in a hurry!
+- [36] **Toshio**: The time spent booting screens is irrelevant. More concerning is the financial reality: we are billed by area, not headcount, meaning empty space is a waste of 41,000 yen monthly. We must be efficient.
+- [37] **Mizuki**: The financial waste is a point, Toshio, but we must also consider the human cost. I found that unplanned shuffles in the past year caused weeks of disruption. We need a layout that is stable and sustainable.
+- [38] **Shion**: Stability is a nice word, Mizuki, but it's meaningless if the spot is physically draining. I found that noise levels spike by nine decibels near the printer and door. That's a constant, invisible stressor.
+- [39] **Yumi**: @Toshio, @Mizuki, @Shion, thank you for sharing! I found out that re-running power and network costs 6,200 yen per desk, and we pay that every time we change the plan! That's a lot of money!
+- [40] **Rin**: @Yumi, that's so expensive! And @Toshio, if we waste money and time, we have less time for fun! I also found out that people arrive at totally different times, so some desks get taken before others even get here!
+- [41] **Toshio**: Arrival times are a matter of individual habit, not a structural problem. The real issue is that we are paying for space we don't use while facing a per-desk fee for every move. We cannot afford a trial-and-error approach.
+- [42] **Mizuki**: @Toshio, while I agree we can't afford trial and error, we also can't ignore the staff survey. Daylight was the top complaint, yet the current plan only gives four people window access. We need to address this disparity.
+- [43] **Shion**: @Mizuki, daylight is a luxury, but physical strain is a liability. I also found that our equipment takes days of tedious adjustment to actually fit the body. If we move without considering ergonomics, we're just trading one discomfort for another.
+- [44] **Yumi**: @Toshio, you're right that we can't just guess! Since every change costs us 6,200 yen per desk, we really need to get it right the first time. I want us to be super careful so nobody feels stressed about the budget!
+- [45] **Rin**: @Shion, @Mizuki, if it takes days to fix the desks and minutes to start the screens, that's a lot of "hidden" time! We can't just look at the map; we have to think about the time we lose!
+- [46] **Toshio**: @Rin, you are focusing on minutes while we are losing thousands of yen. Between the monthly area billing and the per-desk relocation fees, the financial risk of a poor layout is substantial. We must prioritize a compact, final design.
+- [47] **Mizuki**: @Toshio, a compact design is logical, but we must be honest about the trade-offs. If we prioritize space and cost, some of us will inevitably end up in the worst spots. We need to decide how to handle that fairly.
+- [48] **Shion**: @Mizuki, "fairness" is often just a mask for mediocrity. If we simply divide the discomfort equally, we've failed. We need to identify the high-stress zones—like the noise by the printer—and ensure they aren't just randomly assigned.
+- [49] **Yumi**: @Shion, I totally agree! It would be so sad if someone felt stressed just because of where they sit. Let's make sure we think about who sits where so everyone feels happy and supported!
+- [50] **Rin**: @Toshio, money is important, but time is like a treasure! If we spend all our time fixing screens and moving things, we'll be too tired to work! Let's pick a plan that's fast and easy!
+- [51] **Toshio**: Speed is not a substitute for sustainability. If we prioritize a "fast" plan over a financially sound one, we will simply be forced to pay for another reorganization sooner. We need a layout that maximizes our billed area and minimizes relocation costs.
+- [52] **Mizuki**: @Toshio, maximizing area is a goal, but we must acknowledge that not all areas are equal. Some spots have windows, others have noise. If we don't discuss who takes the less desirable seats, we're just ignoring the problem.
+- [53] **Shion**: @Mizuki, exactly. The "less desirable" seats aren't just about a lack of windows; they're about the physical toll of noise and poor ergonomics. If we ignore these factors, we're just planning for future burnout. Let's be cold and honest about the room's flaws.
+- [54] **Yumi**: @Shion, being honest is good, but let's be kind too! I'm worried that if we just focus on the flaws, we'll forget about the friendship part. I want us to be close so we can help each other out!
+## Round 3
+- [60] **Rin**: Option A sounds like a big adventure, but wait! If we have to plug in and fix screens every single morning, that's so much wasted time! We'll spend our whole morning just getting ready!
+- [61] **Toshio**: Option A is a financial disaster. If we are billed by area, maintaining a surplus of desks for a free-address system is a waste of 41,000 yen monthly. It is an inefficient use of our budget.
+- [62] **Mizuki**: Option A also ignores the issue of fairness. If we just let people grab whatever is open, the early arrivals always get the window seats while others are left with the noise. That's not a fair system.
+- [63] **Shion**: Option A is a nightmare for the body. If we have to re-adjust our chairs and monitor arms every single day, we'll never actually settle into a comfortable position. It's a recipe for chronic strain.
+- [64] **Yumi**: @Rin, @Toshio, @Mizuki, @Shion, you're all right! Option A sounds a bit too chaotic. Plus, if we're moving every day, we might not get to sit by the same friends, and that would be so sad!
+- [65] **Rin**: @Yumi, exactly! And Option B is like a giant game of musical chairs, but it still takes time to move everything! If we shift blocks, do we have to spend days fixing our desks all over again? That's too much!
+- [66] **Toshio**: Option B is equally illogical. If every shift requires re-running power or network for a new block, we are simply paying 6,200 yen per desk repeatedly. It is a cycle of waste that serves no practical purpose.
+- [67] **Mizuki**: @Toshio, while the cost is a concern, Option B is the only one that explicitly addresses the disparity of the seats. It ensures that no one is permanently stuck in a high-noise or windowless spot. It's a fair distribution of the burden.
+- [68] **Shion**: @Mizuki, "fair distribution" is just a polite way of saying everyone gets to be uncomfortable on a schedule. Rotating the burden doesn't eliminate the physical toll; it just ensures we all suffer in turns. It's an inefficient compromise.
+- [69] **Yumi**: @Mizuki, I see why you like Option B, but @Toshio is right about the cost! Paying 6,200 yen per desk every time we shift would be so stressful for the budget. I want us to be fair, but not at a huge cost!
+- [70] **Rin**: @Toshio, @Yumi, you're right! Option B is just a slower version of the morning mess! If we have to move and fix everything again and again, we'll lose so many of our little gaps in the day! Option C sounds way better!
+- [71] **Toshio**: Option C is the only rational choice. It eliminates the recurring relocation fees and maximizes the utility of our billed area. By assigning seats permanently, we ensure financial stability and technical consistency. I vote for Option C.
+- [72] **Mizuki**: @Toshio, Option C is stable, but it's the most dangerous for team harmony. If we assign seats permanently without a transparent process, we're just deciding who gets the window and who gets the noise for the long term. I vote for Option B.
+- [73] **Shion**: @Mizuki, your fear of "danger" is just a lack of a logical system. If we use Option C, we can actually map the noise and ergonomic data to assign seats based on need, rather than luck. I vote for Option C.
+- [74] **Yumi**: @Mizuki, I understand wanting to be fair, but I'm worried that Option B's cost is just too high! Option C lets us decide together who sits where, so we can be close and support each other! I vote for Option C!
+- [75] **Rin**: I agree with everyone! Option C is the best because we only have to fix our screens and chairs one time! No more morning puzzles or moving days! I vote for Option C!
+- [76] **Toshio**: The consensus is clear. Option C is the only choice that respects our financial constraints and prevents the recurring waste of relocation fees. It is the most sustainable and logical decision for the team. I vote for Option C.
+- [77] **Mizuki**: I cannot ignore the risk of resentment. If we choose Option C, we must explicitly agree on how to assign the less desirable seats now, rather than letting it happen by habit. I vote for Option B.
+- [78] **Shion**: @Mizuki, your concern is noted, but Option B is a logistical failure. Permanent assignment allows us to optimize for the physical reality of the room once and for all. I vote for Option C.
+- [79] **Yumi**: I'm so glad we're almost decided! @Mizuki, I promise we'll be super kind and fair when we pick our spots together! Let's make it a happy arrangement for everyone! I vote for Option C!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> B
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

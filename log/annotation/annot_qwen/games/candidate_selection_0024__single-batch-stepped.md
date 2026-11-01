@@ -1,0 +1,73 @@
+# candidate_selection_0024__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I am curious about the ground. It feels important to know what is under our feet before we start.
+- [6] **May**: Hello everyone. I am here to look at the numbers. I want to see what this will cost us later.
+- [7] **Shizue**: Good morning, dear. I have seen many plans come and go. I want to see what remains.
+- [8] **Victoria**: I am thinking about who will actually do the work. The staff numbers seem low to me.
+- [9] **Shunichi**: Let us not guess. We need data on how people actually use this space right now.
+- [10] **Minato**: @May, do you have any specific figures in mind? I am just trying to understand the scope.
+- [11] **May**: @Minato, I am looking at the long-term maintenance. The initial price is never the whole story.
+- [12] **Shizue**: I agree with May. Pretty pictures fade. I want to see the history of our past projects.
+- [13] **Victoria**: @Shunichi, do you have any ideas on where to start looking for usage data?
+- [14] **Shunichi**: @Victoria, I am checking the traffic counts. We need to know where the people walk.
+- [15] **Minato**: I am also worried about the companies. Are there enough of them to do the job?
+- [16] **May**: I will look at the upkeep records. That is where the real money goes.
+- [17] **Shizue**: I will check the condition of the works from the earlier programme. It tells the truth.
+- [18] **Victoria**: I will look at the groundskeeping roll. I need to know who is on the payroll.
+- [19] **Shunichi**: I will check the drainage callouts. The ground tells us what it can handle.
+- [20] **Minato**: I will look at the regional firms tendering. I want to know who is available.
+- [21] **May**: I will also look at the terms of the regional habitat fund. It might limit our options.
+- [22] **Shizue**: I will look at the record of the eastern avenue planting. It is a good example.
+- [23] **Victoria**: I will also look at the volunteer groups. They might help fill the gaps.
+- [24] **Shunichi**: I will also look at the timed counts of weekday crossings. It is crucial.
+## Round 2
+- [35] **Minato**: I found that only two firms are tendering. They are worried about the clay.
+- [36] **May**: The fund only pays for planting and water. It does not cover paving or buildings.
+- [37] **Shizue**: The trees on the avenue died because no one watered them. The basin is still fine, though.
+- [38] **Victoria**: We have only seven staff left. But there are two volunteer groups helping out.
+- [39] **Shunichi**: People walk on hard ground to the tram. The drainage calls have doubled since the cap.
+- [40] **Minato**: @May, that fund restriction is tricky. It means we can't build much.
+- [41] **May**: @Minato, exactly. And the upkeep for planted ground is triple the cost of hard surfaces.
+- [42] **Shizue**: @Victoria, the volunteers are good, but they can't replace the missing staff for daily care.
+- [43] **Victoria**: @Shizue, I know. But the specialist care is bought in. It is a patchwork.
+- [44] **Shunichi**: @May, if the upkeep is triple, we can't afford a big garden. The heat is also a problem.
+- [45] **Minato**: The phasing notes say we can hoard the south, but not the center. That limits us.
+- [46] **May**: So, a plan with lots of water and plants will be very expensive to keep.
+- [47] **Shizue**: A paved square might be cheaper to maintain, but it won't look like a park.
+- [48] **Victoria**: If we choose something that needs constant attention, we will fail. We don't have the people.
+- [49] **Shunichi**: The data says people want open, firm ground. A wetland might not fit their needs.
+- [50] **Minato**: I am leaning towards something simple. The ground is risky for big earthworks.
+- [51] **May**: I agree. We need to be careful with the budget. The long-term cost is the killer.
+- [52] **Shizue**: I think we should look at what has worked before. The basin worked. The trees didn't.
+- [53] **Victoria**: I am worried about the staffing. We need a plan that doesn't require a full team.
+- [54] **Shunichi**: Let us see the candidates. I think the data points to a specific direction.
+## Round 3
+- [60] **Minato**: Candidate A is dense trees. That sounds like the avenue problem. I am worried.
+- [61] **May**: Candidate B is a paved square. That fits the fund limits and is cheaper to keep.
+- [62] **Shizue**: Candidate C is sports. That is hard surface. It might be durable, but is it a park?
+- [63] **Victoria**: Candidate D is wetlands. That needs specialist care. We don't have the staff for that.
+- [64] **Shunichi**: Candidate B fits the crossing data. People want firm ground. It is practical.
+- [65] **Minato**: @May, I agree with you on B. The earth-moving risk is high for A and D.
+- [66] **May**: @Minato, yes. B is the only one that doesn't break the fund terms or the budget.
+- [67] **Shizue**: @Shunichi, I like that B is simple. It won't die like the trees did.
+- [68] **Victoria**: @Shizue, B is manageable. We can use the volunteers for events, not daily maintenance.
+- [69] **Shunichi**: @Victoria, exactly. B respects the way people actually use the space.
+- [70] **Minato**: I am voting for B. It is the safest choice for the ground and the schedule.
+- [71] **May**: I am voting for B. It is the only one that makes financial sense long-term.
+- [72] **Shizue**: I am voting for B. It is honest and durable. I have seen enough of fragile plans.
+- [73] **Victoria**: I am voting for B. It is the only one we can actually staff and maintain.
+- [74] **Shunichi**: I am voting for B. It aligns with the user data and the site constraints.
+- [75] **Minato**: I think we are all in agreement. B is the clear winner.
+- [76] **May**: Yes, the numbers don't lie. B is the responsible choice.
+- [77] **Shizue**: I am glad we chose something that will last. Thank you all.
+- [78] **Victoria**: It is a practical decision. I am satisfied with the outcome.
+- [79] **Shunichi**: Let us move forward. B is the plan.
+### Vote
+- Minato -> B
+- May -> B
+- Shizue -> B
+- Victoria -> B
+- Shunichi -> B
+## Result
+- adopted: B

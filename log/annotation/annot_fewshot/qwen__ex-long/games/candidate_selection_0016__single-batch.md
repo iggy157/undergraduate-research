@@ -1,0 +1,73 @@
+# candidate_selection_0016__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I need to know if this budget covers the full cost, not just the start.
+- [6] **Shion**: We have buried too many projects. I want to see what actually worked before.
+- [7] **Midori**: Rosters are where new programs land. I need to see the staffing reality.
+- [8] **Kenji**: I worry about the physical space. Can the rooms and parking handle more?
+- [9] **Shizue**: Things break in year two. I want to see where recent starts failed.
+- [10] **Jonathan**: @Shion, past failures are useful, but I need the current financial baseline first.
+- [11] **Shion**: @Jonathan, the baseline is useless if the model is already broken. I will check the data.
+- [12] **Midori**: @Kenji, space is important, but if there are no nurses, the rooms are empty.
+- [13] **Kenji**: @Midori, true. But if the car park is full, patients can't even get in.
+- [14] **Shizue**: @Midori, I agree. Staffing is the foundation. I will look at the joint clinic minutes.
+- [15] **Jonathan**: I will check the development allocation and the regional fund tariffs.
+- [16] **Shion**: I will review the readmission figures and the booking system records.
+- [17] **Midori**: I will examine the ward nursing vacancies and the therapy staffing review.
+- [18] **Kenji**: I will look at rooms, parking and shuttle coverage, and the booking system.
+- [19] **Shizue**: I will read the board minutes on the jointly run clinic and the data agreements.
+- [20] **Jonathan**: Let us see what the numbers say before we guess.
+- [21] **Shion**: The data will show us the truth. I am ready to look.
+- [22] **Midori**: I hope the staffing data is clear. It is the most critical part.
+- [23] **Kenji**: I am curious to see how full the car park really is.
+- [24] **Shizue**: I trust the records will tell us where the cracks are.
+## Round 2
+- [35] **Jonathan**: The budget is down a quarter. Fitting out is now charged to development, not estates.
+- [36] **Shion**: The call-back trial reduced readmissions by a fifth. But the booking system misses unbooked work.
+- [37] **Midori**: Nine nursing posts are empty. Agency cover is rising. Therapy staff are leaving for the city.
+- [38] **Kenji**: Outpatient rooms book out by mid-morning. The car park fills before eleven. Shuttle covers only four villages.
+- [39] **Shizue**: The joint clinic closed in a year. Neither department wanted the rota. Data agreements take fourteen months.
+- [40] **Jonathan**: @Midori, if agency cover is rising, any new program will drain the budget further.
+- [41] **Shion**: @Jonathan, the readmission data proves home visits work. But we need to track them properly.
+- [42] **Midori**: @Shion, home visits need nurses. We have nine vacancies. Who will do the visiting?
+- [43] **Kenji**: @Shion, if the booking system misses unbooked work, how do we prove the program works?
+- [44] **Shizue**: @Midori, the joint clinic failed because of shared responsibility. We must avoid that trap.
+- [45] **Jonathan**: @Shizue, the data agreement delay is a major risk for any external coordination.
+- [46] **Shion**: @Kenji, the booking system is a blind spot. We need a program that fits existing slots.
+- [47] **Midori**: @Shion, the therapy staffing review shows physios are leaving. A rehab unit is risky.
+- [48] **Kenji**: @Midori, the car park is full. A day unit will make the traffic worse.
+- [49] **Shizue**: @Jonathan, the budget cut means we cannot afford expensive fitting out. We need a lean option.
+- [50] **Jonathan**: We need a program that fits the budget and the staffing reality.
+- [51] **Shion**: The readmission data is strong. Home follow-up seems the most evidence-based.
+- [52] **Midori**: The midwifery rota has slack. That might be a good place to start.
+- [53] **Kenji**: Home visits avoid the car park and room issues. That is a big plus.
+- [54] **Shizue**: We must avoid joint management. A single department should own the program.
+## Round 3
+- [60] **Jonathan**: The candidates are A: Home Follow-Up, B: Day Rehab, C: Perinatal Support, D: Chronic Care.
+- [61] **Shion**: @Jonathan, A aligns with the readmission data. It is the most proven model.
+- [62] **Midori**: @Shion, A needs nurses. We have vacancies. But C uses midwifery slack.
+- [63] **Kenji**: @Midori, A avoids the car park and room bottlenecks. B and C will strain the site.
+- [64] **Shizue**: @Kenji, A is owned by nursing. C is joint. The joint clinic failed. A is safer.
+- [65] **Jonathan**: @Shizue, A is lean. It doesn't need new fitting out. It fits the reduced budget.
+- [66] **Shion**: @Jonathan, A is the only one with strong outcome data. The others are unproven here.
+- [67] **Midori**: @Shion, I agree. The midwifery slack is good, but the joint aspect is risky.
+- [68] **Kenji**: @Shion, A is the only one that doesn't add to the physical load. I support it.
+- [69] **Shizue**: @Shion, A avoids the joint management trap. It is the most sustainable choice.
+- [70] **Jonathan**: @Midori, the agency cover is a concern, but A is the only one with proven value.
+- [71] **Shion**: @Midori, the booking system issue is real, but we can fix the logging. The model is sound.
+- [72] **Midori**: @Shion, I am convinced. The staffing risk is manageable if we focus on the existing team.
+- [73] **Kenji**: @Shion, I am happy to support A. It solves the capacity problem.
+- [74] **Shizue**: @Shion, I agree. A is the clear winner. It respects our constraints.
+- [75] **Jonathan**: I vote for A. It is the only option that fits the budget and the evidence.
+- [76] **Shion**: I vote for A. The data supports it. It is the logical choice.
+- [77] **Midori**: I vote for A. It is the most balanced option for our staffing reality.
+- [78] **Kenji**: I vote for A. It avoids the physical bottlenecks. It is the safest bet.
+- [79] **Shizue**: I vote for A. It avoids the joint management failure. It is the wise choice.
+### Vote
+- Jonathan -> A
+- Shion -> A
+- Midori -> A
+- Kenji -> A
+- Shizue -> A
+## Result
+- adopted: A

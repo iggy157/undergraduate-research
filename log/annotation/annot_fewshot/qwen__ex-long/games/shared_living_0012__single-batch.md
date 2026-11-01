@@ -1,0 +1,73 @@
+# shared_living_0012__single-batch (shared_living)
+
+## Round 1
+- [5] **Kenji**: I’m worried about the silence between us. We need a plan that lets us knock on doors again, not just hide our trash.
+- [6] **Shizue**: Kenji, that’s kind. But I worry about the smell in August. I want to know what living beside this actually feels like daily.
+- [7] **Asuka**: I need to know the hours. Every past arrangement burned out whoever answered the phone first. I want to see the actual workload.
+- [8] **Rin**: One house has had this at their gate for years! I want to check if the new plan is really fair or just quiet.
+- [9] **Servas**: We must look at the costs. Five households, different budgets. I need to see what this corner already costs us every year.
+- [10] **Kenji**: @Rin, fairness is key. If one house suffers, the whole lane suffers. Let’s find a way to share the burden.
+- [11] **Shizue**: @Kenji, I agree. But comfort matters too. I’ll check the residents' meeting statements to see how people felt about the last change.
+- [12] **Asuka**: @Shizue, feelings are data. I’ll check the ward filing requirements to see how much paperwork this actually takes.
+- [13] **Rin**: @Asuka, paperwork is boring! I want to see the truck time. If it comes early, that’s a problem for everyone.
+- [14] **Servas**: @Rin, the truck time is important. I’ll check the block ledger to see what we’ve already spent on fixing this mess.
+- [15] **Kenji**: @Servas, the ledger is smart. I’ll check the station block's minutes to see how they handled their own bin house drama.
+- [16] **Shizue**: @Kenji, their drama is a warning. I’ll check the ward complaint log to see who is actually complaining the most.
+- [17] **Asuka**: @Shizue, complaints show imbalance. I’ll check the measurements of the five frontages to see if the space is even usable.
+- [18] **Rin**: @Asuka, measurements are tricky! I’ll check the truck arrival time from the crew leader to know exactly when the noise starts.
+- [19] **Servas**: @Rin, knowing the time helps. I’ll check the ward subsidy and last year's shelter costs to see if we can afford a fix.
+- [20] **Kenji**: I’m done! I’ll check the station block's minutes and the residents' meeting statements. Let’s see how they kept talking.
+- [21] **Shizue**: I’ll check the ward complaint log and the residents' meeting statements. I want to know who is hurting and why.
+- [22] **Asuka**: I’ll check the ward filing requirements and the measurements of the five frontages. I need to know the real hours and space.
+- [23] **Rin**: I’ll check the truck arrival time and the ward complaint log. I want to know when the truck comes and who is angry.
+- [24] **Servas**: I’ll check the ward subsidy and the block ledger. I need to know the true cost before we commit to anything.
+## Round 2
+- [35] **Kenji**: The station block is still fighting over a broken latch. Their minutes show they can’t even agree on sweeping. We need a system that doesn’t rely on goodwill.
+- [36] **Shizue**: @Kenji, that’s sad. The complaint log shows one household filed eleven of fourteen complaints. That’s not just annoyance; that’s resentment.
+- [37] **Asuka**: @Shizue, resentment is a symptom of unfairness. The measurements show the narrowest frontage is only ninety centimetres. That’s a trap for maintenance.
+- [38] **Rin**: @Asuka, ninety centimetres is tiny! And the truck comes at seven forty. That’s before I wake up. If we move it, will the smell just follow us?
+- [39] **Servas**: @Rin, the smell follows open bags. The ledger shows we spend thirty-four thousand yen a year on nets and deodorant. We are paying for the problem.
+- [40] **Kenji**: @Servas, paying for the problem is bad. But the residents' meeting showed nobody wants to be the enforcer. We need a structure that makes cooperation easy.
+- [41] **Shizue**: @Kenji, exactly. If we can’t talk without fighting, the new location is just a new place to resent each other. I want a place that feels peaceful.
+- [42] **Asuka**: @Shizue, peace requires clarity. The filing requirements say a permanent build needs four months and five signatures. That’s a lot of hours just in paperwork.
+- [43] **Rin**: @Asuka, four months is forever! I want to know if the new spot will smell bad in summer. I don’t want to wake up to a stinky surprise.
+- [44] **Servas**: @Rin, the subsidy covers forty percent, capped at ninety thousand. Last year’s shelters averaged two hundred forty-eight thousand. We need to know the true cost.
+- [45] **Kenji**: @Servas, the cost is high. But the real cost is the silence. If we pick a plan that forces us to interact constantly, we’ll hate each other.
+- [46] **Shizue**: @Kenji, I agree. But if we don’t sleep together, we lose them entirely. I want a place where we can still be neighbours, not just strangers.
+- [47] **Asuka**: @Shizue, neighbours require boundaries. Option A locks the burden on one household. Option B rotates the load. Option C keeps it static but controlled.
+- [48] **Rin**: @Asuka, Option B sounds like a big adventure for the bins! But if the bins move, the smell moves too! I don’t want that.
+- [49] **Servas**: @Rin, Option B is exhausting. Option A is predictable. But we must ensure the new location doesn’t replicate that unequal burden.
+- [50] **Kenji**: I’m leaning towards Option C. It keeps us apart, which is safer. We don’t need to be friends, just functional.
+- [51] **Shizue**: @Kenji, distance isn’t the answer. Option B spreads the hours fairly, so nobody burns out. I’m voting B.
+- [52] **Asuka**: @Shizue, Option B is a trap. It forces constant interaction. Option C distributes the load fairly. I am voting C.
+- [53] **Rin**: @Asuka, I like Option B! Moving it around means nobody gets stuck with the smell forever. It’s like a big adventure for the bins!
+- [54] **Servas**: @Rin, Option B is too tiring. Option A is the most predictable and least exhausting for our budgets. I’m voting A.
+## Round 3
+- [60] **Kenji**: Option C means supervised mornings. The next lane timed them at fifty minutes each. That’s manageable if we rotate fairly.
+- [61] **Shizue**: @Kenji, fifty minutes is a lot. But if we rotate, nobody is stuck. I still worry about the smell, but fairness is important.
+- [62] **Asuka**: @Shizue, fairness is the goal. Option C’s narrow window means bags are out briefly, not sitting all day. It’s the most predictable.
+- [63] **Rin**: @Asuka, but the truck comes at seven forty! That’s before I wake up. If we have to be there, I’ll be grumpy!
+- [64] **Servas**: @Rin, being grumpy is better than being broke. Option A’s fixed window means bags are out briefly. It’s the most predictable for our budgets.
+- [65] **Kenji**: @Servas, I hear you. But Option A leaves the burden on one household. Option C spreads the hours fairly, so nobody burns out.
+- [66] **Shizue**: @Kenji, I agree. Option C is fair. But I worry about the smell. Can we fix that with better nets?
+- [67] **Asuka**: @Shizue, the ledger shows we already pay for nets. Option C’s narrow window reduces the time bags are exposed. It’s the best balance.
+- [68] **Rin**: @Asuka, I still think Option B is fun! But if it’s too tiring, maybe C is okay. I just don’t want to be the one cleaning up.
+- [69] **Servas**: @Rin, Option C is the best balance. It protects the budget and spreads the work. I’m voting C.
+- [70] **Kenji**: @Servas, I agree. Option C is the only one that doesn’t force us to interact constantly. I’m voting C.
+- [71] **Shizue**: @Kenji, I’m voting C too. It’s fair and predictable. I hope the smell goes away with the new rules.
+- [72] **Asuka**: @Shizue, the smell follows negligence, not location. Option C minimizes negligence. I am voting C.
+- [73] **Rin**: @Asuka, okay, I’ll vote C. But only if we get to pick the fun times! I don’t want to be up at seven forty!
+- [74] **Servas**: @Rin, we will pick the times fairly. Option C is the best choice for our lane. I am voting C.
+- [75] **Kenji**: I stand by my vote for C. It is the only option that removes the administrative and cooking burdens that caused last year’s failure.
+- [76] **Shizue**: I stand by my vote for C. It is fair and predictable. I hope it brings peace to our lane.
+- [77] **Asuka**: I stand by my vote for C. It is the only option that distributes the load fairly.
+- [78] **Rin**: I vote for C! But I want the late shifts! I don’t want to wake up early!
+- [79] **Servas**: I stand by my vote for C. It is the best choice for our lane.
+### Vote
+- Kenji -> C
+- Shizue -> C
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

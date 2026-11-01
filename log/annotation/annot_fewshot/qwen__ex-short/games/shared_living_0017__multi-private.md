@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: The morning bottleneck is unacceptable. We need a system that guarantees access, not just a place to park.
+- [6] **Ryuji**: I need to understand the financial reality before we discuss access. What is the actual cost of losing a parking spot?
+- [7] **George**: I worry the current spots are just habit, not need. I want to see if the bikes actually match the spaces.
+- [8] **Shunichi**: I care about the social friction. We need a system that doesn't turn neighbors into rivals over a concrete slab.
+- [9] **Mio**: I worry about who actually does the work. The last two jobs just vanished because nobody wanted to keep them running.
+- [10] **Asuka**: @Ryuji, the cost is my time and safety. I need to know if the current layout is the root cause of the chaos.
+- [11] **Ryuji**: @Asuka, time is real, but I need the ledger to see if we are already overspending on maintenance.
+- [12] **George**: @Shunichi, I agree. Friction is real. I need to know if the current arrangement is just old habit or actual need.
+- [13] **Shunichi**: @George, habit is dangerous. I want to see if the current setup is already breeding resentment before it explodes.
+- [14] **Mio**: @Shunichi, I agree. Friction is real, but I need to know if the workload is sustainable before we pick a system.
+- [15] **Asuka**: @Mio, I agree. If the system collapses, the chaos returns. I need to verify the actual daily usage patterns to design a fair rotation.
+- [16] **Ryuji**: @Mio, I agree. But without the ledger, we are guessing. I need to see if the building can even afford the proposed fixes.
+- [17] **George**: @Mio, I understand. But I need to verify if the current spots are actually used or just claimed by habit.
+- [18] **Shunichi**: @Mio, I hear you. But if the workload kills the system, the friction just gets worse. I need to see the history of these disputes.
+- [19] **Mio**: @Asuka, I agree. If the system collapses, the chaos returns. I need to verify the actual daily usage patterns to design a fair rotation.
+- [20] **Asuka**: I will look into the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [21] **Ryuji**: I will look into the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [22] **George**: I will look into the sticker register and the daily riders and the five years of association minutes.
+- [23] **Shunichi**: I will look into the last year's complaint log entries and the account from the neighbouring block's secretary.
+- [24] **Mio**: I will look into the trial of the supplier's display frame and the five years of association minutes.
+## Round 2
+- [35] **Asuka**: The data confirms the bottleneck. Four out of eleven mornings required shifting bikes. The rain exposure is also a critical factor for bike condition.
+- [36] **Ryuji**: The ledger shows no capital funds. Any new system requires a household levy. The treasurer already spends three hours monthly on cash.
+- [37] **George**: The minutes confirm my fear. The same flats held the covered spots for five years with no review. The sticker register shows riders prefer paying over equal claims.
+- [38] **Shunichi**: Nine complaints, all ignored. The block behind us lost two members to a fee. We are one bad decision away from the same silence.
+- [39] **Mio**: The frame trial was brutal. Hoisting a bike took twenty seconds and both hands. Plus, the spring needs greasing twice a year. That is a lot of physical work.
+- [40] **Asuka**: @Ryuji, a levy is risky. If we add cost to the existing friction, people will just stop cycling. We need a solution that works without new money.
+- [41] **Ryuji**: @Asuka, I agree. Adding a levy to existing friction is dangerous. We must find a solution that does not require new cash from households.
+- [42] **George**: @Shunichi, nine ignored complaints explain the resentment. The minutes prove the spots were never reviewed, so the current layout is pure inertia, not need.
+- [43] **Shunichi**: @George, inertia is a slow poison. The block behind us proves that fees kill participation. We need a system that costs nothing but still keeps people talking.
+- [44] **Mio**: @George, five years of no review is terrifying. It means the current setup is just luck, not design. I need a system that doesn't rely on one person remembering to fix it.
+- [45] **Asuka**: @Mio, I agree. The frame trial proves manual maintenance is unsustainable. We need a layout that minimizes shifting, not a gadget that breaks.
+- [46] **Ryuji**: @Mio, I agree. If the frame fails, the workload collapses. We need a layout that is self-sustaining without constant manual intervention.
+- [47] **George**: @Mio, I agree. Inertia is not a plan. We need a review cycle that is automatic, not dependent on someone remembering to act.
+- [48] **Shunichi**: @Mio, exactly. If the system dies, the silence returns. We need a layout that is self-sustaining, so nobody has to be the hero.
+- [49] **Mio**: @Shunichi, I agree. The greasing alone is a trap. I want a layout where the work is so small, nobody feels the burden of doing it.
+- [50] **Asuka**: I will look into the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [51] **Ryuji**: I will look into the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [52] **George**: I will look into the sticker register and the daily riders and the five years of association minutes.
+- [53] **Shunichi**: I will look into the last year's complaint log entries and the account from the neighbouring block's secretary.
+- [54] **Mio**: I will look into the trial of the supplier's display frame and the five years of association minutes.
+## Round 3
+- [60] **Asuka**: Option B eliminates the shifting bottleneck. No fixed spots means no one is blocked. It also solves the rain issue if we place racks under the eaves.
+- [61] **Ryuji**: Option A is a trap. The ledger shows no capital funds, and the treasurer is already stretched. I cannot support a system that requires new levies.
+- [62] **George**: Option C is a return to the same inertia. The minutes prove that fixed spots, even by lot, just harden into habit.
+- [63] **Shunichi**: Option A is the block behind us. Fees kill participation. I refuse to turn our lobby into a collection point for resentment.
+- [64] **Mio**: Option B is the only one that doesn't create a new maintenance trap. No fixed spots means no one is stuck with the greasing duty.
+- [65] **Asuka**: @Ryuji, I agree. Option B requires no new cash, just a one-time rack purchase. It solves the bottleneck without adding financial pressure.
+- [66] **Ryuji**: @Asuka, I agree. Option B avoids the levy trap. The one-time cost is manageable, unlike the recurring burden of A.
+- [67] **George**: @Shunichi, I agree. Option B removes the ownership that breeds resentment. It is the only way to break the five-year inertia we found.
+- [68] **Shunichi**: @George, exactly. If no one owns a spot, no one has a reason to stop talking to their neighbor. Option B is the only one that keeps the peace.
+- [69] **Mio**: @George, I agree. If no one owns a spot, the greasing duty doesn't attach to a specific person. It just becomes a shared, minor task.
+- [70] **Asuka**: @Mio, precisely. Shared racks mean the maintenance is trivial and distributed. No single person bears the burden of a specific, neglected spot.
+- [71] **Ryuji**: @Mio, I agree. Distributed maintenance is the only way to prevent the workload from collapsing on one person.
+- [72] **George**: @Mio, I agree. Shared racks mean the maintenance is trivial and distributed. No single person bears the burden of a specific, neglected spot.
+- [73] **Shunichi**: @Mio, exactly. If the work is shared, nobody feels the weight of it. That is how we keep the peace without a hero.
+- [74] **Mio**: @Shunichi, I agree. If the work is shared, nobody feels the weight of it. That is how we keep the peace without a hero.
+- [75] **Asuka**: I am voting for B.
+- [76] **Ryuji**: I am voting for B.
+- [77] **George**: I am voting for B.
+- [78] **Shunichi**: I am voting for B.
+- [79] **Mio**: I am voting for B.
+### Vote
+- Asuka -> B
+- Ryuji -> B
+- George -> B
+- Shunichi -> B
+- Mio -> B
+## Result
+- adopted: B

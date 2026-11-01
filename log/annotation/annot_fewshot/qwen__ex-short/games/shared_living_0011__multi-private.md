@@ -1,0 +1,73 @@
+# shared_living_0011__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I need to verify the actual costs from last year before we commit to anything new.
+- [6] **Toshio**: I need to understand the operational burden. Last year’s organizers were exhausted.
+- [7] **Minako**: I need to know if the year-groups actually mix or stay in their own bubbles.
+- [8] **Jonathan**: I need to understand the sleeping conditions. Last year, half the group was exhausted from poor rest.
+- [9] **Asuka**: I need to verify how the flat fee distributes. I suspect the side costs and dropout penalties are unfairly burdening specific members.
+- [10] **Ryuji**: @Toshio, if the workload was too heavy, we need to know exactly where the time went before we promise anything.
+- [11] **Toshio**: @Ryuji, exactly. I need to see the duty logs to quantify that exhaustion.
+- [12] **Minako**: @Ryuji, I agree. But I need to see if the social structure actually breaks down the year-group barriers.
+- [13] **Jonathan**: @Minako, I appreciate the social angle, but I am more concerned about the physical rest. Did the seniors mention anything about the sleeping arrangements?
+- [14] **Asuka**: @Jonathan, sleep is personal, but the financial risk is structural. I need to know who absorbs the cost if someone drops out.
+- [15] **Ryuji**: @Asuka, the financial risk is real. I need to trace where the gap from last year actually went before we set a new fee.
+- [16] **Toshio**: @Ryuji, I agree. I will check the canteen closure and last year's cooking duty to see the time sink.
+- [17] **Minako**: @Toshio, I will check what the seniors say about year-groups mixing. I need to know if the social barriers are real or just a perception.
+- [18] **Jonathan**: @Toshio, I will check the accounts from two clubs that went inland. I need to see if their sleeping arrangements were any better than ours.
+- [19] **Asuka**: @Ryuji, I will check the quoting terms for whole-building lets. I need to see if the deposit structure protects us from last-minute dropouts.
+- [20] **Ryuji**: I will check the group transport receipts and the prefecture rate sheet. I need to see the true cost breakdown before we set a new fee.
+- [21] **Toshio**: I will check the attendance sheets for the away camps and the vacation timetable for the club's own hall.
+- [22] **Minako**: I will check the attendance sheets for the away camps and the membership list against first-train times.
+- [23] **Jonathan**: I will check the prefecture rate sheet for publicly run beds and the lottery and application for public group bookings.
+- [24] **Asuka**: I will check the quoting terms for whole-building lets and the accounts from two clubs that went inland.
+## Round 2
+- [35] **Ryuji**: Transport is 38% of costs if we go far. Public beds are 1,100 yen a night, all-inclusive. I need to see how these numbers compare to last year's actuals.
+- [36] **Toshio**: The cooking duty alone consumed two hours daily. That is a month of evenings lost. We need a venue with staff to handle meals.
+- [37] **Minako**: A fifth never showed up, and a third can't make the nine o'clock train without paying for a bed. We need a location that actually pulls people in.
+- [38] **Jonathan**: The public beds are 1,100 yen a night, all-inclusive. However, the lottery is six months out, and any date change requires a full resubmission. That rigidity worries me.
+- [39] **Asuka**: The whole-building deposit is non-refundable. If someone drops out, the rest of us absorb that cost. I need to see how that risk is distributed.
+- [40] **Ryuji**: @Asuka, that non-refundable deposit is a structural risk. I need to know if the transport savings offset that liability before I agree to any fee.
+- [41] **Toshio**: @Ryuji, the transport savings are irrelevant if the organizers burn out. I need a venue that removes the daily duty burden entirely.
+- [42] **Minako**: @Toshio, I agree. But if we stay local, the year-groups just retreat to their own dorms. We need a setting that forces interaction, not just convenience.
+- [43] **Jonathan**: @Minako, I understand the social need, but I cannot risk another week of poor sleep. I need a place where the nights are genuinely quiet and restful.
+- [44] **Asuka**: @Jonathan, sleep is vital, but the financial exposure is immediate. If the deposit is non-refundable, we need a strict headcount to prevent individual members from absorbing the loss.
+- [45] **Ryuji**: @Toshio, I hear you on the burnout, but I cannot ignore the financial gap. We need a venue that minimizes both the labor and the liability.
+- [46] **Toshio**: @Ryuji, I agree. We need a venue that removes the daily duty burden entirely.
+- [47] **Minako**: @Ryuji, I agree. But a venue that minimizes labor might just isolate us further. We need a place where the year-groups are forced to share space, not just coexist.
+- [48] **Jonathan**: @Minako, I agree that shared space helps, but only if the noise levels allow for actual rest. I need to know if the public beds offer any privacy or quiet zones.
+- [49] **Asuka**: @Jonathan, privacy is secondary to financial security. If the deposit is non-refundable, we must lock the headcount early to prevent individual members from absorbing the loss.
+- [50] **Ryuji**: @Asuka, I agree. We must lock the headcount early. I will not announce a fee until I know the exact liability per person.
+- [51] **Toshio**: @Ryuji, agreed. But the real cost is the organizers' time. We need a venue that eliminates the daily duty burden entirely.
+- [52] **Minako**: @Toshio, I agree. But eliminating duty is not enough. We need a setting that breaks the year-group silos. I will vote for the option that forces interaction.
+- [53] **Jonathan**: @Minako, I agree that interaction is valuable, but only if it does not compromise rest. I will support the option that balances social mixing with genuine quiet for sleep.
+- [54] **Asuka**: @Minako, I agree on the social need, but I will only support an option with a strict headcount. I refuse to let one person's dropout bankrupt the rest.
+## Round 3
+- [60] **Ryuji**: Option A's transport is 38% of costs. Option C is 1,100 yen per night. I need to see which liability is manageable before voting.
+- [61] **Toshio**: Option B keeps us on campus, but the canteen is closed. That means cooking duty returns. I cannot accept that burden again.
+- [62] **Minako**: Option B keeps us in our own bubbles. Option C is rigid. Option A is the only place where the year-groups are forced to share space.
+- [63] **Jonathan**: Option C’s public beds are quiet, but the lottery is too rigid. Option A offers privacy, but the distance is a risk. I need to weigh rest against logistics.
+- [64] **Asuka**: Option A’s non-refundable deposit is a liability. Option B has no dropout risk. Option C is rigid. I need to know who absorbs the cost if someone leaves late.
+- [65] **Ryuji**: @Toshio, Option B is a trap. The canteen closure means we repeat last year's labor errors. I cannot endorse a plan that guarantees financial and operational failure.
+- [66] **Toshio**: @Ryuji, agreed. Option B is unacceptable. The cooking duty alone would destroy the organizers again. We must avoid that trap.
+- [67] **Minako**: @Ryuji, I agree. Option B fails on every metric. We need the isolation of Option A to break the silos.
+- [68] **Jonathan**: @Minako, I agree Option B is out. But Option A’s distance risks the rest I need. I hope the coastal lodge offers genuine quiet for sleep.
+- [69] **Asuka**: @Minako, Option A forces interaction, but the non-refundable deposit is a financial trap. I need a strict headcount to prevent individual members from absorbing the loss.
+- [70] **Ryuji**: @Asuka, the deposit risk is real, but Option B guarantees the labor and financial gap we just escaped. I need to see if A's transport savings offset that liability.
+- [71] **Toshio**: @Ryuji, the transport cost is secondary to the labor. Option A removes the cooking duty entirely. That is the only way to protect the organizers.
+- [72] **Minako**: @Toshio, I agree. Removing the duty burden is essential. But Option A is the only setting that forces the year-groups to share evenings, breaking the silos we need to dismantle.
+- [73] **Jonathan**: @Toshio, I agree that removing the duty burden is vital. However, I need assurance that the coastal lodge provides genuine quiet for sleep, unlike the noisy dorms of last year.
+- [74] **Asuka**: @Jonathan, I cannot guarantee the noise levels, but I can guarantee the financial structure. If we choose A, we must lock the headcount immediately to protect the deposit.
+- [75] **Ryuji**: @Asuka, I agree. We must lock the headcount immediately. I am voting for A, provided the liability is strictly capped per person.
+- [76] **Toshio**: @Ryuji, agreed. Option A is the only choice that eliminates the daily duty burden. I am voting for A.
+- [77] **Minako**: @Ryuji, I agree. Option A is the only choice that forces the year-groups to share space and break the silos. I am voting for A.
+- [78] **Jonathan**: @Ryuji, I am voting for A. The coastal setting offers the quiet I need, and the owner-arranged meals protect the organizers.
+- [79] **Asuka**: @Ryuji, I am voting for A. The social and operational benefits outweigh the risk, provided we enforce a strict headcount to protect the deposit.
+### Vote
+- Ryuji -> A
+- Toshio -> A
+- Minako -> A
+- Jonathan -> A
+- Asuka -> A
+## Result
+- adopted: A

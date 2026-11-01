@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to be with you all. Let us ensure we look beyond the numbers to the people who make the science possible.
+- [6] **Sakura**: Yay! This is like a treasure hunt! I want to see where the money actually goes and what it buys these days!
+- [7] **Daisuke**: Um... hello. I think... maybe we should check if the previous projects actually finished what they promised.
+- [8] **Takumi**: I don't care about the pleasantries. We need to know why projects keep stalling. I'm looking for the real bottlenecks.
+- [9] **Minako**: Let us remain focused. We must evaluate the infrastructure's capacity to support a new award without collapsing under the pressure.
+- [10] **Servas**: Patience is a virtue, Takumi. The truth reveals itself to those who listen. I shall look into the human element of these labs.
+- [11] **Sakura**: @Takumi, you're so grumpy! Maybe you just need a snack! I'm going to peek at the ledgers to see the secrets!
+- [12] **Daisuke**: I... I just don't want us to make a mistake again. I'll look at the old files.
+- [13] **Takumi**: @Sakura, stop joking. @Daisuke, that's too passive. We need to see where the actual interruptions happen before we commit.
+- [14] **Minako**: I agree with the need for efficiency, but we must look at the shared services first. That is where the real risk lies.
+- [15] **Servas**: Indeed. A project is only as strong as the hands that guide the instruments. I will seek the truth of the staffing.
+- [16] **Sakura**: I wonder if the agency is hiding something! Hehe! I'll check the facility rates too, just to be sure!
+- [17] **Daisuke**: I'll... I'll just do my part. I hope it helps.
+- [18] **Takumi**: I'm not waiting for a consensus. I'm going to find out exactly where the time is being wasted.
+- [19] **Minako**: I will proceed with my investigation into the shared facilities and the national computing agreements.
+- [20] **Servas**: Let us move forward with a spirit of generosity and wisdom. I am ready.
+- [21] **Sakura**: Me too! Let's find some clues!
+- [22] **Daisuke**: Okay... I'm ready.
+- [23] **Takumi**: Finally. Let's get this over with.
+- [24] **Minako**: Agreed. Let us see what the data reveals.
+## Round 2
+- [35] **Servas**: It is a sobering reminder that while funds are fleeting, the loss of skilled hands is a wound that takes years to heal.
+- [36] **Sakura**: Oh! I found something! The agency still pays for the glasshouse, but shipping things is getting super expensive!
+- [37] **Daisuke**: I... I found that the "flashy" projects often didn't finish their goals. The simpler ones actually lasted longer.
+- [38] **Takumi**: It's exactly what I thought. The equipment is breaking and there's no one to fix it. We're losing months to basic maintenance.
+- [39] **Minako**: The computing capacity is stable, but the glasshouse is completely saturated. Any project requiring plant space will face immediate delays.
+- [40] **Servas**: @Takumi, your frustration is a sign of your passion. But remember, we cannot blame the machine for the absence of the mechanic.
+- [41] **Sakura**: @Minako, wait! If the agency pays for the glasshouse, does that mean the awardee doesn't have to? That's a big deal!
+- [42] **Daisuke**: I'm worried... if we pick a project that looks "promising" but is too complex, it might just stall like the others did.
+- [43] **Takumi**: @Servas, passion doesn't fix a broken spectrometer. If we fund a project that needs that suite, it's a waste of money.
+- [44] **Minako**: The cost of animal units has risen. We must ensure the candidate has the budget to cover these new rates or the project will fail.
+- [45] **Servas**: We must look for the candidate whose needs align with the hands we actually have. The glasshouse crew is strong; the technicians are gone.
+- [46] **Sakura**: I want to pick someone who doesn't need to ship a million things! That would save so much money for other fun stuff!
+- [47] **Daisuke**: Maybe... maybe we should pick the one that is most realistic? Even if it's not the most exciting one?
+- [48] **Takumi**: I'm not picking anyone who relies on the shared instrumentation suite. It's a death trap for a schedule.
+- [49] **Minako**: We must balance the ambition of the research with the reality of the facility bookings. The glasshouse is a hard limit.
+- [50] **Servas**: Let us be the bridge between the dream of the scientist and the reality of the lab. We shall find the right fit.
+- [51] **Sakura**: I'm ready to pick! I hope it's someone who knows how to save money!
+- [52] **Daisuke**: I... I'll try to be brave and vote for what I think is safest.
+- [53] **Takumi**: Just don't pick a project that's going to get stuck in a queue for six months.
+- [54] **Minako**: I have a clear view of the constraints. Let us see the candidates.
+## Round 3
+- [60] **Servas**: Candidate A is a beautiful vision, but it requires the very technicians we have lost. Candidate D, however, aligns with our strong glasshouse crew.
+- [61] **Sakura**: Candidate D uses the greenhouse! And I found out the agency pays for that! That means they can spend their money on other things!
+- [62] **Daisuke**: Candidate A is like a catalogue... the closeout files showed that those kinds of projects actually deliver their results and stay useful.
+- [63] **Takumi**: Candidate B is out. Spectroscopy? I just saw the logs. That suite is a disaster. It'll be a total waste of time.
+- [64] **Minako**: Candidate D is impossible. I found that the glasshouse blocks are booked solid for two more cycles. They cannot start their trials.
+- [65] **Servas**: @Minako, that is a vital observation. We must not lead a researcher into a wall. Let us reconsider the others.
+- [66] **Sakura**: Oh no! No greenhouse for D? That's a bummer! What about Candidate C? Do they need a lot of shipping?
+- [67] **Daisuke**: Candidate C... they use live animals. The portfolio review said those projects overran their schedules twice as often. I'm scared to pick them.
+- [68] **Takumi**: @Daisuke is right for once. C is a risk. A is just data and sequences. It doesn't need the broken equipment or the full greenhouse.
+- [69] **Minako**: Candidate A relies on the national repository and computing. My findings show the computing agreement is stable and the repository is functioning.
+- [70] **Servas**: Candidate A requires the "trained hands" of the field, but the data processing is where the current strength lies. It is a sustainable path.
+- [71] **Sakura**: If A just needs computers and some soil, that's way cheaper than shipping things across the world! I like A!
+- [72] **Daisuke**: I... I think A is the safest. It's the kind of project that actually finishes. I'll vote for A.
+- [73] **Takumi**: It's the only one that doesn't hit a known bottleneck. No spectroscopy, no animal colony delays, no greenhouse queues. A is the only logical choice.
+- [74] **Minako**: I agree. Candidate A's requirements align with the current available capacity of the national infrastructure. It is the most viable option.
+- [75] **Servas**: It is a rare joy when we find a path that serves both the science and the people. I am in agreement.
+- [76] **Sakura**: Yay! We all agree! This was like a puzzle and we solved it!
+- [77] **Daisuke**: I'm glad... I'm glad we're all on the same page.
+- [78] **Takumi**: Finally. Let's just vote and finish this.
+- [79] **Minako**: The evidence is conclusive. Let us proceed to the vote.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

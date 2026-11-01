@@ -1,0 +1,2 @@
+14:48:07 start: 0 jobs, models=qwen,qwen_b,qwen_c,qwen_d,qwen_e,qwen_f, per_model=1
+14:48:13 all done

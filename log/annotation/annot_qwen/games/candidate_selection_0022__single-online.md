@@ -1,0 +1,73 @@
+# candidate_selection_0022__single-online (candidate_selection)
+
+## Round 1
+- [5] **Mio**: Let’s pick our two things to look into. I’m curious about the adviser bench and partner board seats.
+- [6] **George**: I’d like to check the profile of the exits and the write-off.
+- [7] **May**: I’m picking reserve accounts and follow-on calls, plus the terms of last winter’s credit line.
+- [8] **Rin**: I want to check the appraisal needs at the last audit and independent checks on holdings' reported figures.
+- [9] **Mizuki**: I’ll look into security review time before first deployment and delivery records of two holdings.
+- [10] **Mio**: @George, do you think the write-off’s hourly crews are a warning sign for us?
+- [11] **George**: @Mio, not a warning, but a lesson. We must know exactly what we are buying before we sign.
+- [12] **May**: @Mio, I’m also curious about the adviser bench. Do we have enough people to actually help, or just names on paper?
+- [13] **Rin**: @May, I’m worried about the audit fees. If we pick a company with physical assets, will it slow down our quarter-end reporting?
+- [14] **Mizuki**: @Rin, that’s a fair point. I’m checking if the delay comes from the hardware itself or the security review process.
+- [15] **Mio**: @Mizuki, that makes sense. I’m hoping the adviser bench actually has time to help, not just names on paper.
+- [16] **George**: @May, I am looking at the exits to see if our stories match the actual returns.
+- [17] **May**: @George, I’m hoping the reserve accounts show we can survive the follow-on calls without borrowing.
+- [18] **Rin**: @Mio, I’m hoping the independent checks show we can verify the numbers ourselves, without relying on their dashboards.
+- [19] **Mizuki**: @Rin, I’m checking if the delay comes from the hardware itself or the security review process.
+- [20] **Mio**: @Mio, I’m hoping the adviser bench actually has time to help, not just names on paper.
+- [21] **George**: @May, I am looking at the exits to see if our stories match the actual returns.
+- [22] **May**: @George, I’m hoping the reserve accounts show we can survive the follow-on calls without borrowing.
+- [23] **Rin**: @Mio, I’m hoping the independent checks show we can verify the numbers ourselves, without relying on their dashboards.
+- [24] **Mizuki**: @Mio, I’m checking if the delay comes from the hardware itself or the security review process.
+## Round 2
+- [35] **Mio**: #### Turn 1 of 4
+- [36] **George**: #### Turn 1 of 4
+- [37] **May**: @Mio, the credit line treats subscriptions as worthless. If we pick a service model, we’re borrowing against nothing.
+- [38] **Rin**: #### Turn 1 of 4
+- [39] **Mizuki**: #### Turn 1 of 4
+- [40] **Mio**: #### Turn 2 of 4
+- [41] **George**: @May, that’s a sharp point. I’m checking if our past wins actually kept their customers, or if we just told a good story.
+- [42] **May**: @George, exactly. I need to know if we can cover those follow-on calls without draining our reserves.
+- [43] **Rin**: #### Turn 2 of 4
+- [44] **Mizuki**: #### Turn 2 of 4
+- [45] **Mio**: #### Turn 3 of 4
+- [46] **George**: @May, the retention data is grim. The shopkeeper tool lost a third of its accounts when prices rose.
+- [47] **May**: @George, that’s terrifying. If we can’t keep them, the follow-on calls are just a slow bleed.
+- [48] **Rin**: #### Turn 3 of 4
+- [49] **Mizuki**: @George, that retention loss mirrors the hardware delays I found. We need to know if the obstacle is the product or the process.
+- [50] **Mio**: - **Mio**: @Mizuki, that’s a good distinction. I’m still waiting to hear if our advisers actually have time to help.
+- [51] **George**: @May, the quiet back-office tools kept their customers. The physical ones bled. We must avoid the bleed.
+- [52] **May**: @George, agreed. But if we pick a service model, the credit line won't back us. We need cash reserves, not just good stories.
+- [53] **Rin**: @May, I found that physical assets add six weeks to our audit. That’s a risk I can’t ignore.
+- [54] **Mizuki**: @Rin, that six-week delay is exactly why I checked the security reviews. Hardware slows us down in two different ways.
+## Round 3
+- [60] **Mio**: #### Turn 1 of 4
+- [61] **George**: #### Turn 1 of 4
+- [62] **May**: @Rin, that six-week audit delay is a dealbreaker for me. I can’t risk our quarter-end closing on a company with physical assets.
+- [63] **Rin**: @May, I hear you, but the independent checks show we can verify field data ourselves. That transparency might outweigh the audit delay.
+- [64] **Mizuki**: @May, the security review data is clear: medical records mean three quarters of delay. We cannot afford that wait.
+- [65] **Mio**: #### Turn 2 of 4
+- [66] **George**: @Mizuki, three quarters is too long. I’m leaning toward the software options that avoid that security bottleneck entirely.
+- [67] **May**: @George, agreed. But remember, the credit line ignores subscriptions. If we pick a service, we’re borrowing against air.
+- [68] **Rin**: @May, that’s a valid concern, but the audit delay is manageable. The real risk is picking a company whose numbers we can’t verify ourselves.
+- [69] **Mizuki**: @May, the delivery records show the bank software never missed a release. That reliability beats the subscription borrowing risk.
+- [70] **Mio**: - **Mio**: @Mizuki, that reliability is exactly what I need. I’m voting for Ledger Bridge to avoid the hardware headaches.
+- [71] **George**: @Mio, I agree. Ledger Bridge fits the profile of our successful exits. I am voting for it.
+- [72] **May**: @Mio, I’m voting for Ledger Bridge too. It’s software, so no audit delays, and the bank integration means we can verify the numbers ourselves.
+- [73] **Rin**: @Mio, I agree. Ledger Bridge’s software model avoids the audit delays and hardware risks. I am voting for it.
+- [74] **Mizuki**: @Mio, I agree. Ledger Bridge’s software model avoids the hardware risks and security delays. I am voting for it.
+- [75] **Mio**: Ledger Bridge it is. Five votes, no hardware, no delays. Let’s get this signed before the quarter ends.
+- [76] **George**: Agreed. A clean software exit, just like our best ones. Let us proceed.
+- [77] **May**: Agreed. Ledger Bridge it is. No hardware, no audit nightmares, and we keep our cash reserves intact. Let’s sign.
+- [78] **Rin**: Agreed. Ledger Bridge. Clean software, verifiable numbers, no audit headaches. Let’s close this out.
+- [79] **Mizuki**: Agreed. Ledger Bridge. Reliable delivery, no security bottlenecks, and clean software. Let’s finalize the investment.
+### Vote
+- Mio -> C
+- George -> C
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

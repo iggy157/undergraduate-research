@@ -1,0 +1,73 @@
+# shared_living_0026__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited to get our budget sorted for next year! Let's make sure we're being fair to everyone. Where should we start looking to figure out the best fee structure?
+- [6] **Jonathan**: It is a pleasure to be here. I believe we should begin by understanding the current state of our finances and how members are actually engaging with the club. A calm approach will serve us best.
+- [7] **Takumi**: We need to be honest about how things are actually running. I want to know who's actually showing up and doing the work before we just guess at a number. Let's get the real facts first.
+- [8] **Toshio**: I agree. We should avoid making decisions based on assumptions. It is essential to examine the actual data regarding our expenditures and the administrative burden involved before we propose any changes.
+- [9] **Kenji**: I'm in! Let's make this awesome! I want to make sure everyone feels welcome, especially the new people. What do you guys think we should check first to keep things friendly?
+- [10] **Mio**: I'm with you, Toshio! Let's be practical. I want to check the "Bank statements on last year's renewals" and "Last year's ledger of outgoings" to see exactly how much money we have to work with!
+- [11] **Jonathan**: I think it would be wise to look into the "Tally of the sign-in sheets" and "Quieter members at the winter social." I am curious about the atmosphere and how our members are truly feeling.
+- [12] **Takumi**: I'll check the "Tally of the sign-in sheets" and "The rota against the attendance record." I want to see exactly who's putting in the effort and who's just coasting while others do the work.
+- [13] **Toshio**: I will examine the "Outgoing treasurer's logged hours" and the "Last year's ledger of outgoings." We must understand the actual labor required to maintain the books before deciding on a collection method.
+- [14] **Kenji**: I'll check the "Sign-up records for mid-year joiners" and "Taster evening forms from non-joiners"! I want to see how new people are finding us and if we can make it easier for them to join in!
+- [15] **Mio**: Since Toshio is also checking the ledger, maybe we can compare notes later! I'm really curious if our income is as steady as it seems. Does anyone else have a specific idea for the fees yet?
+- [16] **Jonathan**: It is a bit early for specific numbers, Mio. I believe we should first listen to what the data tells us about our members' habits. A gentle understanding of their needs will guide us.
+- [17] **Takumi**: @Jonathan, "gentle understanding" doesn't fix a broken system. If a few people are doing all the heavy lifting, we need to address that head-on. I'm not interested in vibes; I want to see the actual numbers.
+- [18] **Toshio**: @Takumi, I agree that numbers are the only objective measure. However, we must also quantify the administrative cost. If the system is too complex, the financial "fairness" is offset by the burden on the treasurer.
+- [19] **Kenji**: @Takumi, @Toshio, you guys are so serious! But I think the "vibes" matter too! If we make things too strict, new friends might be scared to join. Let's just make sure it stays fun for everyone!
+- [20] **Mio**: I totally get that, Kenji! We definitely want to keep it fun. But I'm with Toshio and Takumi on this—let's get the facts first so we don't have to guess. I'll go dive into those bank statements now!
+- [21] **Jonathan**: I agree. Let us each seek the knowledge we need in quiet reflection. I look forward to hearing what you all discover when we return. Until then, I wish you all a peaceful search.
+- [22] **Takumi**: I'm done talking. I'm going to find out exactly who's actually contributing and who's just taking a free ride. I'll see you all in the next round with the truth.
+- [23] **Toshio**: I will proceed with my research. I intend to focus on the intersection of financial outgoings and the time required to manage them. I will see you all in the next round.
+- [24] **Kenji**: I'm ready too! I'll go see what the new folks are thinking so we can make them feel right at home. Good luck everyone, see you soon!
+## Round 2
+- [35] **Mio**: Wow, I found some really important stuff! It turns out a lot of people struggled to pay their renewals on time, and some even asked to pay in installments. We can't just assume everyone can pay a big lump sum!
+- [36] **Jonathan**: My findings are somewhat sobering. A small group of members accounts for the vast majority of attendance, while many others rarely appear. Some feel a certain unease about the cost relative to their limited participation.
+- [37] **Takumi**: @Jonathan, you're finally seeing it. I found that a tiny group is doing everything—including all the setup and locking up—while eighteen people didn't even show up once. It's a joke that they pay the same as the people carrying the club.
+- [38] **Toshio**: The financial data is equally stark. Seventy percent of our outgoings are fixed costs—hall hire, insurance, and storage—which must be paid regardless of attendance. We cannot simply ignore these baseline expenses in our calculations.
+- [39] **Kenji**: I found something really important! A lot of people who came to our taster evenings didn't join because they didn't want to pay for a whole year at once. Even the mid-year joiners needed special calculations!
+- [40] **Mio**: @Kenji, that's exactly what I saw in the bank statements! It's a bit scary that so many people struggled with the lump sum. If we keep it that way, we might be losing great new members before they even start!
+- [41] **Jonathan**: It is concerning that our members feel a sense of hesitation. When the cost of belonging becomes a source of unease, it creates a barrier that prevents people from simply coming home to the club.
+- [42] **Takumi**: @Jonathan, stop talking about "barriers" and "homes." The real barrier is that the people actually running this place are being taken advantage of. Why should the nine people doing all the work subsidize eighteen ghosts?
+- [43] **Toshio**: @Takumi, while your frustration is understandable, we must consider the cost of management. I found that chasing individual payments takes six times more effort than a yearly collection. A complex, tiered system may increase the treasurer's burden to an unsustainable level.
+- [44] **Kenji**: @Toshio, I get that it's a lot of work, but if we make it too hard for people to join, we won't have any members left to manage! We have to find a way to make it easy for everyone.
+- [45] **Mio**: @Toshio, I understand the treasurer's struggle, but we can't just ignore the fact that people are struggling to pay! If we keep guessing and picking a number that's too high or too rigid, we're just asking for more trouble.
+- [46] **Jonathan**: Perhaps we can find a middle path. If we create a structure that reduces the psychological weight of the fee, we might encourage those who hesitate to return to us more frequently. Peace of mind is invaluable.
+- [47] **Takumi**: @Jonathan, peace of mind doesn't pay the hall hire or reward the people actually doing the work. We can't just be "gentle" while the core members are getting burned out. We need a system that reflects actual contribution.
+- [48] **Toshio**: @Takumi, reflecting actual contribution sounds fair in theory, but it is a logistical nightmare. If we implement a pay-as-you-go or tiered system, we are essentially sentencing the next treasurer to endless hours of chasing small sums.
+- [49] **Kenji**: @Takumi, I don't want anyone to feel burned out! But if we make the fees too complicated or based on who shows up, it might feel like we're judging people. Let's keep it simple and welcoming!
+- [50] **Mio**: @Kenji, I agree that we should keep it welcoming! But @Toshio, we can't just stick to a lump sum if people can't afford it. We need a plan that's realistic about our money and our members' wallets!
+- [51] **Jonathan**: It seems we are all touching upon different facets of the same tension. Whether it is financial strain, administrative burden, or the feeling of unfairness, the result is a lack of harmony. We must find a balance that restores a sense of ease.
+- [52] **Takumi**: @Jonathan, harmony is just a word for ignoring the problem. We have a core group of nine people doing everything and eighteen people who don't even exist here. That's not a lack of harmony; it's a lack of fairness. We need a real solution.
+- [53] **Toshio**: @Takumi, fairness is not just about who attends, but also about who manages the system. If we create a complex structure to punish the "ghosts," we simply shift the burden onto the treasurer. We must prioritize a sustainable administrative process.
+- [54] **Kenji**: @Toshio, @Takumi, I hear you both! But if we start tracking every single person's attendance just for the fees, it'll feel like we're watching them. Let's find a way to be fair without making everyone feel like they're being monitored!
+## Round 3
+- [60] **Mio**: Looking at the options, Option A is what we did before, and we know people struggled with that lump sum! If we just guess a number again, we're going to have the same problems with late payments.
+- [61] **Jonathan**: Option A may be simple, but it seems to be the source of the hesitation I discovered. If the cost feels like a burden, members will continue to weigh their decision to attend rather than simply coming.
+- [62] **Takumi**: Option A is a joke. It's exactly what's causing the problem—the people who do everything are subsidizing the ghosts. We can't just go back to a system that rewards people for not showing up.
+- [63] **Toshio**: Option C is a logistical disaster. Based on the treasurer's logs, chasing individual payments is six times more labor-intensive than a yearly collection. We cannot commit the next treasurer to that level of burnout.
+- [64] **Kenji**: @Toshio, I totally agree that we shouldn't make the treasurer's life a nightmare! But Option A is what scared away those taster guests. Maybe Option B is a good middle ground? It's simpler than C!
+- [65] **Mio**: @Kenji, I think you're on to something! Option B lets people choose what they can afford and what they actually want, so it's not just one scary lump sum for everyone. It feels way more realistic!
+- [66] **Jonathan**: Option B offers a gentle compromise. By allowing members to select a level that matches their own comfort and capacity, we remove the psychological barrier that makes them hesitate to join us. It restores a sense of peace.
+- [67] **Takumi**: @Jonathan, "comfort" isn't the issue here. Option B is only a win if the tiers actually reflect the work being done. If the "ghosts" can just pick a cheap tier and still coast, it doesn't fix the unfairness.
+- [68] **Toshio**: @Takumi, the issue is that any system attempting to "fix" unfairness by tracking participation increases the administrative load. Option B is more sustainable than C, but we must ensure the tiers are fixed and not subject to constant adjustment.
+- [69] **Kenji**: @Takumi, I get that, but if we make it too strict, it'll feel like we're judging people! Option B lets everyone find their own place without us having to watch their every move. It keeps things friendly!
+- [70] **Mio**: @Toshio, as long as the tiers are set at the start, it shouldn't be too much extra work! It's way better than guessing a single number and hoping for the best. I want us to have a budget we can actually count on!
+- [71] **Jonathan**: I believe Option B is the most compassionate choice. It acknowledges that not everyone interacts with the club in the same way, allowing those who feel uneasy to return without the weight of an oversized fee.
+- [72] **Takumi**: @Jonathan, compassion doesn't fix the fact that nine people are doing all the work. But if Option B means the people who actually use the club pay for the value they get, it's better than A. I'm tired of the ghosts getting a free ride.
+- [73] **Toshio**: @Mio, while you see it as a small addition, any deviation from a single flat fee increases the risk of errors and chasing. However, compared to the chaos of Option C, Option B is the only viable alternative to A. I vote for Option B.
+- [74] **Kenji**: I'm with you, @Toshio! Option B is way better than C, and it's more welcoming than A. It lets new friends join in without feeling overwhelmed, and we don't have to monitor everyone. I vote for Option B!
+- [75] **Mio**: I'm so glad we're all seeing the benefits of Option B! It solves the lump sum problem, keeps the treasurer sane, and is fairer than just guessing. I'm voting for Option B too!
+- [76] **Jonathan**: It is a relief to see us in such harmony. Option B removes the hesitation that weighs on our members' hearts, allowing them to return to us with a peaceful mind. I vote for Option B.
+- [77] **Takumi**: I'm not happy about the ghosts, but Option B is the only way to stop the blatant unfairness of Option A without killing the treasurer. It's a start. I vote for Option B.
+- [78] **Toshio**: The consensus is clear. Option B balances the need for financial accessibility and fairness without imposing the unsustainable administrative burden of Option C. It is the most rational choice for the club's stability. I vote for Option B.
+- [79] **Kenji**: Yay! I'm so happy we all agree! Option B keeps things friendly for the new people and doesn't make us act like police. Let's make next year the best one yet! I vote for Option B!
+### Vote
+- Mio -> B
+- Jonathan -> B
+- Takumi -> B
+- Toshio -> B
+- Kenji -> B
+## Result
+- adopted: B

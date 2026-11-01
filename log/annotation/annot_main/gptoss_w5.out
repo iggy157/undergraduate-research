@@ -1,0 +1,12 @@
+aiwolf_0006__multi-private-stepped.md: 40/40 utterances, missing [], finish=stop, 112s
+aiwolf_0014__multi-private-stepped.md: 34/34 utterances, missing [], finish=stop, 115s
+aiwolf_0022__multi-private-stepped.md: 28/28 utterances, missing [], finish=stop, 89s
+aiwolf_0030__multi-private-stepped.md: 32/32 utterances, missing [], finish=stop, 117s
+candidate_selection_0008__multi-private-stepped.md: 45/45 utterances, missing [], finish=stop, 85s
+candidate_selection_0016__multi-private-stepped.md: 39/39 utterances, missing [], finish=stop, 135s
+candidate_selection_0024__multi-private-stepped.md: 50/50 utterances, missing [], finish=stop, 122s
+shared_living_0002__multi-private-stepped.md: 55/55 utterances, missing [], finish=stop, 124s
+shared_living_0010__multi-private-stepped.md: 49/49 utterances, missing [], finish=stop, 122s
+shared_living_0018__multi-private-stepped.md: 53/53 utterances, missing [], finish=stop, 131s
+shared_living_0026__multi-private-stepped.md: 50/50 utterances, missing [], finish=stop, 119s
+56/56 games annotated -> /tmp/claude-1091/-diskthalys-ssd14ta-yharada-aiwolf-undergraduate-research/bcec8730-29c9-4bd2-98fc-0a8842b00e36/scratchpad/annot_main/out

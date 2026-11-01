@@ -1,0 +1,71 @@
+# candidate_selection_0020__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must learn from the past. I will examine the outcomes of the last three internal rollouts to see what truly endured.
+- [6] **Daisuke**: I am worried about where the money actually comes from. I will check the capital budget and software allowance.
+- [7] **Sakura**: I am curious about the network coverage at customer plants. I want to see if the connections are actually reliable before we promise anything!
+- [8] **Ryuji**: I need to understand the daily friction. I will examine the time lost to copying existing records and the misrouted deliveries in the incident logs.
+- [9] **Asuka**: I am concerned about who actually absorbs the extra workload. I will check the staffing of the coordination group and the in-house developer availability.
+- [10] **Servas**: @Daisuke, the budget is vital, but I wonder if we are funding the right kind of work.
+- [11] **Daisuke**: @Servas, I agree. The budget source matters, but the type of work determines if it is sustainable.
+- [12] **Sakura**: @Servas, exactly! If the groundwork is shaky, the budget just buys a bigger mess. I am checking the network coverage now!
+- [13] **Ryuji**: @Sakura, network reliability is critical, but I am focused on the operational drag. I need to see the incident logs to understand the weekly losses.
+- [14] **Asuka**: @Ryuji, operational drag is real, but it often falls on the same few people. I need to know if the coordination group has the capacity to absorb new demands.
+- [15] **Servas**: @Asuka, capacity is the silent killer. I will also review the record of cross-unit standardization efforts to see if we are truly learning.
+- [16] **Daisuke**: @Asuka, I worry the renewal costs will hit us later. I will also check the vendor licence pricing versus fixed-fee work.
+- [17] **Sakura**: @Ryuji, copying records is so tedious! I will also check the handling of vendor queries to see if they are actually helpful or just more noise.
+- [18] **Ryuji**: @Asuka, the coordination group is the bottleneck. I will also examine the in-house developer availability to see if we have the actual hands to do the work.
+- [19] **Asuka**: @Ryuji, you are right. If the developers are already stretched, adding another project will just break the rota. I will confirm the actual headcount.
+- [20] **Servas**: Let us see what the records reveal. The past holds the answers we need.
+- [21] **Daisuke**: I hope the numbers are clear. I will wait for the others to share their findings.
+- [22] **Sakura**: I am ready to see what the data says! Let us find out if our promises are actually safe.
+- [23] **Ryuji**: I will wait for the data. The daily losses are the real measure of success, not the pitch.
+## Round 2
+- [35] **Servas**: The pattern is clear. Broad mandates fade, but narrow tools for one trade endure. We must fund the specific, not the sweeping.
+- [36] **Daisuke**: @Servas, that makes sense. My budget check shows the capital line is frozen, but the software allowance has room. We must stay within that recurring limit.
+- [37] **Sakura**: @Daisuke, that is good news! But my network check is scary. Half the plants lose signal all afternoon, and getting approved took six weeks!
+- [38] **Ryuji**: @Sakura, that signal loss explains the friction. My data shows we lose an hour daily copying records, and eleven misroutes stem from duplicate addresses.
+- [39] **Asuka**: @Ryuji, that daily loss is unsustainable. My findings are worse. The coordination group is unfilled, and our developers are locked until Q3.
+- [40] **Servas**: @Asuka, that confirms my fear. If the hands are missing, even the best tool fails. We must choose work that fits the current reality, not our hopes.
+- [41] **Daisuke**: @Asuka, that is worrying. If developers are locked until Q3, we cannot start anything heavy. I am glad the software allowance is open, but we must be careful.
+- [42] **Sakura**: @Asuka, that is a huge problem! If the developers are busy, we cannot build anything new. I am worried about the timeline!
+- [43] **Ryuji**: @Asuka, if the developers are locked, we cannot fix the root cause. We must pick a solution that works with the current, broken workflow, not one that requires new code.
+- [44] **Asuka**: @Ryuji, exactly. We cannot build new code. We need a process fix that the existing two people can manage without breaking the rota.
+- [45] **Servas**: @Sakura, the afternoon signal loss is a hard constraint. We must avoid any proposal that depends on real-time connectivity at those plants.
+- [46] **Daisuke**: @Sakura, that signal loss is a major risk. My vendor check shows per-head licences climb with every department added. We must avoid that trap.
+- [47] **Sakura**: @Daisuke, per-head licences are a trap! My vendor check shows the same certificate requested repeatedly. We need a fixed-fee model to stop that noise!
+- [48] **Ryuji**: @Daisuke, per-head costs are a leak. My data shows the real loss is manual duplication. We need a fixed-fee solution that eliminates the copying, not just licenses.
+- [49] **Asuka**: @Daisuke, per-head licences are a trap. My data shows the real loss is manual duplication. We need a fixed-fee solution that eliminates the copying, not just licenses.
+- [50] **Servas**: We have the constraints. Now we must see which proposal fits the narrow, enduring pattern.
+- [51] **Daisuke**: I am still processing. The frozen capital line means we must rely on the recurring allowance. I will wait for the candidates.
+- [52] **Sakura**: I am excited to see the candidates! I hope one of them solves the signal and certificate mysteries without needing new code.
+- [53] **Ryuji**: I am waiting for the candidates. The data points to a process fix, not a new build.
+## Round 3
+- [60] **Servas**: Candidate A is a broad mandate. My records show those fade. I fear it will join the four efforts that lost their owners.
+- [61] **Daisuke**: @Servas, I worry about the cost. A central hub might need per-head licences, which climb with every department. That is a trap for our frozen budget.
+- [62] **Sakura**: @Daisuke, I agree! But look at D. It needs real-time sync, and my data says half the plants lose signal all afternoon. That is a disaster waiting to happen!
+- [63] **Ryuji**: @Sakura, D is a dead end. My data shows the misroutes stem from duplicate addresses, which A fixes directly. D just moves the problem to the field.
+- [64] **Asuka**: @Ryuji, A is a process fix. It eliminates the manual copying that breaks the rota. It does not require new code or developers.
+- [65] **Servas**: @Asuka, you are right. A is a process fix, not a new build. It fits the narrow, enduring pattern I found in the records.
+- [66] **Daisuke**: @Asuka, that is a relief. If A is a process fix, it avoids the per-head licence trap. I can see it fitting within the recurring software allowance.
+- [67] **Sakura**: @Asuka, that makes sense! A fixes the duplicate address mess without needing new code. It is the safest bet for our timeline!
+- [68] **Ryuji**: @Asuka, A addresses the root cause. It eliminates the daily copying and the duplicate address errors. It is a process fix, not a new build.
+- [69] **Asuka**: @Servas, I agree. A is the only option that does not demand new developers. It lets the existing two people manage the workflow without breaking the rota.
+- [70] **Servas**: @Ryuji, the standardization record confirms it. The tool room walkthroughs endured because they were specific. A is that kind of focused, owned work.
+- [71] **Daisuke**: @Servas, I agree. A focused tool is safer. My concern is the renewal notice. If A uses fixed-fee maintenance, the cost stays flat. Per-head licences would spike next year.
+- [72] **Sakura**: @Daisuke, fixed-fee is perfect! It stops the surprise bills. I am so glad we are not stuck with per-head traps!
+- [73] **Ryuji**: @Daisuke, fixed-fee is essential. My data shows the daily loss is constant. A flat cost prevents the budget from eroding under the weight of routine duplication.
+- [74] **Asuka**: @Daisuke, fixed-fee is critical. It prevents the budget from eroding. More importantly, it ensures the coordination group isn't buried under unexpected administrative overhead.
+- [75] **Servas**: I am ready to vote. The evidence points to a single, enduring path.
+- [76] **Daisuke**: I am ready to vote. Candidate A fits the recurring allowance and avoids the per-head licence trap.
+- [77] **Sakura**: I am ready to vote! Candidate A solves the signal mystery and the certificate noise without needing new code. It is the smart choice!
+- [78] **Ryuji**: I am ready to vote. Candidate A eliminates the daily copying and duplicate address errors. It is the only process fix that fits our current constraints.
+- [79] **Asuka**: I am ready to vote. Candidate A is the only option that respects the current staffing reality and avoids breaking the rota.
+### Vote
+- Servas -> A
+- Daisuke -> A
+- Sakura -> A
+- Ryuji -> A
+- Asuka -> A
+## Result
+- adopted: A

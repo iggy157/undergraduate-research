@@ -1,0 +1,73 @@
+# shared_living_0018__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The room’s use is undefined. I need to verify the actual distribution of effort. I will examine the fortnight's tally of use by person and the crumbs and bins at the desks.
+- [6] **Jonathan**: I value the quiet this room offers. I will examine the partition wall to the office and the unplanned talk since the refit.
+- [7] **May**: I’m curious about the hidden costs. I’ll check the invoices for outside hire by the hour and the round trip for a hot lunch.
+- [8] **Shunichi**: I’m not interested in feelings. I need the hard numbers. I’ll check the quotes for the two fit-outs and the facilities callouts on this floor.
+- [9] **Servas**: I hear the noise and the mess. I will examine the crumbs and bins at the desks and where the last awkward conversation happened.
+- [10] **Ryuji**: @Jonathan, the partition wall is critical. If sound leaks, the room fails its primary function. I need to know if that barrier is actually effective before we proceed.
+- [11] **Jonathan**: @Ryuji, I appreciate the concern. I’m checking the wall to see if it truly isolates us, or if it just creates a false sense of security.
+- [12] **May**: @Ryuji, effort distribution is key. I’m checking the outside hire invoices to see if we’re paying for work we should be doing ourselves.
+- [13] **Shunichi**: @May, feelings don’t pay the bills. I’m checking the fit-out quotes and callouts to see where the money actually goes.
+- [14] **Servas**: @Shunichi, numbers are vital, but they don’t capture the human cost. I’m listening to the room’s rhythm to understand where the friction truly lies.
+- [15] **Ryuji**: @Servas, the human cost is real, but it must be quantified. I need the tally to prove the burden is uneven, not just assumed.
+- [16] **Jonathan**: @Ryuji, I understand the need for data. But the tally won’t show why we’ve become strangers. I’m checking the unplanned talk to see if connection is possible here.
+- [17] **May**: @Jonathan, connection is lovely, but it’s free if we’re not walking across the building for lunch. I’m checking that round trip to see the real time cost.
+- [18] **Shunichi**: @Jonathan, connection is a luxury. I’m checking the fit-out quotes and callouts to see where the money actually goes.
+- [19] **Servas**: @Jonathan, I hear the loneliness in your words. The room’s silence is a choice, not a fact. I am listening to see if we can rebuild that bridge.
+- [20] **Ryuji**: I will examine the fortnight's tally of use by person and the crumbs and bins at the desks. Let’s see who actually carries the burden.
+- [21] **Jonathan**: I will examine the partition wall to the office and the unplanned talk since the refit. Let’s see if the silence is real or just a habit.
+- [22] **May**: I’ll check the invoices for outside hire by the hour and the round trip for a hot lunch. Let’s see where our time actually goes.
+- [23] **Shunichi**: I will examine the quotes for the two fit-outs and the facilities callouts on this floor. Let’s see where the money actually goes.
+- [24] **Servas**: I will examine the crumbs and bins at the desks and where the last awkward conversation happened. Let’s see what the room remembers.
+## Round 2
+- [35] **Ryuji**: The tally confirms the imbalance. Two people used the room eleven times; the rest, four. The crumbs prove the mess is systemic, not personal.
+- [36] **Jonathan**: @Ryuji, the imbalance is clear, but the wall is just plasterboard. We can hear everything, yet we still avoid each other. The silence is a choice, not a barrier.
+- [37] **May**: @Ryuji, that imbalance is exactly what I suspected. We paid sixty-eight thousand yen for a room that seats four, while we waste twenty-five minutes daily walking for lunch.
+- [38] **Shunichi**: @May, sixty-eight thousand for a room that fails? The quotes show 141,000 for a screen or 96,000 for a kitchen. Neither solves the core problem.
+- [39] **Servas**: @Shunichi, the crumbs are daily, but the silence after that awkward talk lasted two weeks. We need a space that allows for both mess and meaningful connection.
+- [40] **Ryuji**: @Shunichi, neither fit-out addresses the core failure: undefined responsibility. The tally proves the burden is uneven. We need a system that assigns duties, not just hardware.
+- [41] **Jonathan**: @Shunichi, hardware won’t fix the distance. The wall is thin, yet we still hide. We need a space that invites the difficult conversations we’ve been avoiding.
+- [42] **May**: @Shunichi, hardware is a band-aid. I’m checking the lunch route to see if we can reclaim those twenty-five minutes. We need to stop paying for space we don’t use.
+- [43] **Shunichi**: @Ryuji, systems are cheap. The callouts prove the kitchen is a liability. Eleven trips last year. I’m not signing for that mess.
+- [44] **Servas**: @Jonathan, the thin wall is a mirror. It shows us we are hiding, not protected. I am listening for the moment we choose to speak again.
+- [45] **Ryuji**: @May, reclaiming time is valid, but the tally shows the real cost is uneven labor. We must define who cleans, not just where we eat.
+- [46] **Jonathan**: @May, reclaiming time is good, but the printer is our only meeting point. We need a space that invites the difficult conversations we’ve been avoiding, not just a shorter lunch.
+- [47] **May**: @Jonathan, the printer is a trap. I’m checking the lunch route to see if we can reclaim those twenty-five minutes. We need to stop paying for space we don’t use.
+- [48] **Shunichi**: @May, time is cheap. The callouts prove the kitchen is a liability. Eleven trips last year. I’m not signing for that mess.
+- [49] **Servas**: @May, time is precious, but so is dignity. The awkward silence proves we need a place to speak, not just a place to eat.
+- [50] **Ryuji**: I stand by my position. The tally proves the burden is uneven. We must assign specific duties to prevent the same failure. I will vote for the option that enforces this.
+- [51] **Jonathan**: I stand by my position. The wall is thin, yet we remain strangers. We need a space that invites the difficult conversations we’ve been avoiding. I will vote for the option that fosters connection.
+- [52] **May**: I stand by my position. We are bleeding hours and yen. I will vote for the option that stops the twenty-five minute lunch walk and the hourly hire.
+- [53] **Shunichi**: I stand by my position. The callouts prove the kitchen is a liability. Eleven trips last year. I will vote for the option that stops the bleeding.
+- [54] **Servas**: I stand by my position. The crumbs and the silence are symptoms of a deeper need. I will vote for the option that restores dignity and allows us to truly connect.
+## Round 3
+- [60] **Ryuji**: @Shunichi, Option C’s shared calendar is the only system that assigns responsibility. It prevents the first-come, first-served chaos that the tally exposed. I support C.
+- [61] **Jonathan**: @Ryuji, a calendar is just a schedule. It doesn’t teach us how to speak. I need a space that invites the difficult conversations we’ve been avoiding, not just a booking slot.
+- [62] **May**: @Ryuji, a calendar doesn’t stop the twenty-five minute lunch walk. Option A kills that daily drain. I’m voting A to reclaim our hours.
+- [63] **Shunichi**: @May, a kitchen is a liability. Eleven callouts last year. I’m not signing for that mess. Option C’s screen costs 141,000, but it’s bookable. I vote C.
+- [64] **Servas**: @Jonathan, a calendar is a structure, but connection is the soul. Option C gives us a table to face each other, not just a wall to hide behind. I support C.
+- [65] **Ryuji**: @Jonathan, a calendar is a structure, but it is the only structure that prevents the burden from falling on whoever minds most. I support C.
+- [66] **Jonathan**: @Ryuji, structure is necessary, but it doesn’t create warmth. Option C gives us a table to face each other, which is where the difficult conversations must happen. I support C.
+- [67] **May**: @Ryuji, a calendar is just a schedule. It doesn’t stop the twenty-five minute lunch walk. Option A kills that daily drain. I’m voting A to reclaim our hours.
+- [68] **Shunichi**: @May, the lunch walk is a symptom, not the disease. Option A guarantees more callouts and more mess. I am voting C to stop the financial bleeding.
+- [69] **Servas**: @May, I hear the exhaustion in your words. But a kitchen invites mess, not clarity. Option C gives us a table to face each other, where dignity is restored. I support C.
+- [70] **Ryuji**: @May, the lunch walk is a symptom of undefined space. Option C’s calendar assigns the burden explicitly, preventing the uneven labor the tally exposed. I am voting C.
+- [71] **Jonathan**: @May, I understand the time cost. But a kitchen invites mess, not clarity. Option C gives us a table to face each other, where the difficult conversations can finally happen. I am voting C.
+- [72] **May**: @Ryuji, a calendar doesn't cook my lunch. Option A stops the twenty-five minute walk and the hourly hire. I am voting A to reclaim our hours.
+- [73] **Shunichi**: @May, the lunch walk is a symptom, not the disease. Option A guarantees more callouts and more mess. I am voting C to stop the financial bleeding.
+- [74] **Servas**: @May, I understand the need for rest. But a kitchen invites mess, not clarity. Option C gives us a table to face each other, where dignity is restored. I am voting C.
+- [75] **Ryuji**: I stand by my vote for C. The shared calendar is the only mechanism that prevents the burden from falling on whoever minds most. It enforces the fairness the tally proved we lack.
+- [76] **Jonathan**: I stand by my vote for C. The table forces us to face each other, breaking the silence that has made us strangers. It is where the difficult conversations can finally happen.
+- [77] **May**: I stand by my vote for A. Option C is just a fancy waiting room. I am voting A to stop the twenty-five minute lunch walk and reclaim my hours.
+- [78] **Shunichi**: I stand by my vote for C. The callouts prove the kitchen is a liability. Eleven trips last year. I am voting C to stop the financial bleeding.
+- [79] **Servas**: I stand by my vote for C. The table is where we face our silence and choose to speak. It restores the dignity we lost in the crumbs.
+### Vote
+- Ryuji -> C
+- Jonathan -> C
+- May -> A
+- Shunichi -> C
+- Servas -> C
+## Result
+- adopted: C

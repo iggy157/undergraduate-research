@@ -1,0 +1,73 @@
+# shared_living_0020__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Minako**: The current system is failing. We need to know the actual time cost before committing.
+- [6] **Benjamin**: Agreed. I suspect the workload is skewed based on who is actually here.
+- [7] **Sakura**: I just want to know why the bathroom smells bad sometimes and not others.
+- [8] **Shizue**: I am worried about the small expenses. Who is paying for the sponges lately?
+- [9] **Servas**: We must ensure this arrangement keeps us speaking to each other kindly.
+- [10] **Minako**: @Benjamin, do you have data on who is home versus who is cleaning?
+- [11] **Benjamin**: @Minako, I have a feeling, but no proof. Let's look at the calendar.
+- [12] **Sakura**: I can check the bathroom grout. It looks bad after a while.
+- [13] **Shizue**: I will check the receipts in the tin. It feels unfair to guess.
+- [14] **Servas**: I will read the note from the previous tenants. History repeats itself.
+- [15] **Minako**: I need to time a full clean. I want to know the hours.
+- [16] **Benjamin**: I will watch the kitchen for a fortnight. Who is really using it?
+- [17] **Sakura**: I will check what everyone thinks is "done". It changes too much.
+- [18] **Shizue**: I will also check the management office rates. Just in case we need help.
+- [19] **Servas**: I will look at the house chat logs. I want to see how we argue.
+- [20] **Minako**: Let's gather these facts. Then we can decide.
+- [21] **Benjamin**: Logic first. Emotions later.
+- [22] **Sakura**: Okay! I am ready to look into things.
+- [23] **Shizue**: Thank you all. I hope this brings some peace.
+- [24] **Servas**: A good start. Let us see what the truth reveals.
+## Round 2
+- [35] **Minako**: The timing is brutal. Forty-seven minutes for the kitchen alone. And two people are gone half the month.
+- [36] **Benjamin**: The kitchen data confirms my suspicion. Two people cook, three make coffee. The work is not shared.
+- [37] **Sakura**: The grout gets dirty in eleven days. And "done" means different things to everyone. That explains the mess.
+- [38] **Shizue**: The receipts show we spend 2,300 yen monthly, often buying duplicates. The office cleaner is 4,200 an hour.
+- [39] **Servas**: The previous tenants stopped speaking by year two. Our last two rows started with reminders. We are on that path.
+- [40] **Minako**: @Benjamin, if two people are away, the remaining three carry the load. That is unsustainable.
+- [41] **Benjamin**: @Minako, exactly. The "fair" share is a myth if presence varies. We need a system that accounts for absence.
+- [42] **Sakura**: If we don't agree on what "clean" is, we will always be guessing. I hate guessing.
+- [43] **Shizue**: The cost of supplies is low, but the cost of a professional is high. We need to be careful.
+- [44] **Servas**: The note from the previous tenants is a warning. Permanent assignments led to silence. We must avoid that.
+- [45] **Minako**: A fixed rota might work if it rotates fairly, but what about the absences?
+- [46] **Benjamin**: A paid service removes the time burden, but the invoice must be split fairly.
+- [47] **Sakura**: I like the idea of knowing exactly what to do. No more guessing.
+- [48] **Shizue**: I worry about the monthly cost of a service. 4,200 yen an hour adds up quickly.
+- [49] **Servas**: If we hire help, we remove the friction. But we must agree on the terms first.
+- [50] **Minako**: I am leaning towards a service. It removes the time from my schedule.
+- [51] **Benjamin**: I agree, provided the billing is transparent. The management office handles the contract.
+- [52] **Sakura**: As long as the bathroom is clean, I am happy. I don't care who does it.
+- [53] **Shizue**: I am concerned about the cost, but I am open to it if we split it fairly.
+- [54] **Servas**: Let us consider the options. We want to keep our peace.
+## Round 3
+- [60] **Minako**: Option A is a rota. Option B is a paid service. Option C is permanent assignments.
+- [61] **Benjamin**: Option C is dangerous. The previous tenants failed with it. Option A is rigid.
+- [62] **Sakura**: Option B sounds nice. Someone else cleans. I just have to be home?
+- [63] **Shizue**: Option B costs money. Option A costs time. Option C costs relationships.
+- [64] **Servas**: The firm's terms say we must tidy beforehand. That is a catch.
+- [65] **Minako**: @Servas, the firm requires us to be in and tidy. That defeats the purpose of saving time.
+- [66] **Benjamin**: @Minako, it does. But it is still less time than a full scrub. And it is consistent.
+- [67] **Sakura**: I don't want to tidy before the cleaner comes. That is extra work.
+- [68] **Shizue**: The cost is 4,200 yen an hour. If we need two hours, that is 8,400 yen. Divided by five, that is 1,680 yen each.
+- [69] **Servas**: That is less than the 2,300 yen we spend on supplies, and it saves us the labor.
+- [70] **Minako**: I vote for B. It removes the time burden, even if we have to tidy.
+- [71] **Benjamin**: I vote for B. It is the most logical solution to the uneven usage problem.
+- [72] **Sakura**: I vote for B. I want the bathroom to be clean without me guessing.
+- [73] **Shizue**: I vote for B. The cost is manageable, and it prevents the arguments over supplies.
+- [74] **Servas**: I vote for B. It preserves our relationships by removing the source of friction.
+- [75] **Minako**: It seems we are all in agreement.
+- [76] **Benjamin**: The data supports it.
+- [77] **Sakura**: Yay! No more guessing!
+- [78] **Shizue**: I am glad we found a way forward.
+- [79] **Servas**: A wise choice. Let us proceed.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Sakura -> B
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

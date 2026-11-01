@@ -1,0 +1,73 @@
+# shared_living_0014__single-batch (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I need to understand why we feel crowded or alone. I’ll check the shared-house year and last year's days.
+- [6] **Shizue**: I worry about who pays for what. I’ll look at the all-in rates and last year's separate room costs.
+- [7] **Minato**: I sleep badly away from home. I need to know about bathing hours and the inn mealtimes.
+- [8] **Jonathan**: The travel eats my week. I’ll check the ferry times and how we get around by train and bus.
+- [9] **Midori**: The bill always surprises me. I’ll check the offshore house pricing and the valley inn rates.
+- [10] **Mizuki**: @Minato, do you think the room layout affects how we talk? I’m curious about the shared house.
+- [11] **Shizue**: @Midori, knowing the total cost upfront is vital. I hope the all-in rate covers everything.
+- [12] **Minato**: @Jonathan, if the ferry is late, I get tired. I hope the train is easier on my body.
+- [13] **Jonathan**: @Minato, the train is ninety minutes. The ferry takes two days. I prefer the train’s predictability.
+- [14] **Midori**: @Shizue, I agree. I want to avoid hidden fees. The offshore pricing looks like a single bill.
+- [15] **Mizuki**: @Shizue, if we rent a house, we share the bill. But do we share the silence?
+- [16] **Shizue**: @Mizuki, sharing the bill is fair. I just want it to be clear who pays for meals.
+- [17] **Minato**: @Mizuki, I just want a quiet place to wash. I don’t care about the bill, really.
+- [18] **Jonathan**: @Minato, the city has trains every few minutes. No waiting. That saves my energy.
+- [19] **Midori**: @Jonathan, the city beds are expensive. The valley inn includes meals. That might be cheaper.
+- [20] **Mizuki**: I’m done. I’ll check the shared-house year and last year's days.
+- [21] **Shizue**: I’m done. I’ll check the all-in rates and last year's separate room costs.
+- [22] **Minato**: I’m done. I’ll check the bathing hours and the inn mealtimes.
+- [23] **Jonathan**: I’m done. I’ll check the ferry times and the train and bus routes.
+- [24] **Midori**: I’m done. I’ll check the offshore house pricing and the valley inn rates.
+## Round 2
+- [35] **Mizuki**: @Shizue, last year we barely spoke. In the shared house, we had no space to be alone. I need balance.
+- [36] **Shizue**: @Mizuki, I found the separate rooms cost 8,000 yen more each. The all-in rate is fairer for the group.
+- [37] **Minato**: @Jonathan, the inn baths open until midnight. But dinner is at six. I need to know if I can eat later.
+- [38] **Jonathan**: @Minato, the ferry takes two days. The train is ninety minutes. I want to avoid the ferry’s delay.
+- [39] **Midori**: @Shizue, the offshore house is 5,400 yen a head. The valley inn is 17,000. The city is 12,000 to 20,000.
+- [40] **Mizuki**: @Midori, the city is expensive. But the shared house had no privacy. I need a middle ground.
+- [41] **Shizue**: @Midori, the all-in rate means we pay the same. No one is out of pocket. That is what I want.
+- [42] **Minato**: @Shizue, if we pay the same, I don’t have to worry. But I need a place to sit that isn’t a bed.
+- [43] **Jonathan**: @Minato, the city has trains every few minutes. You can go anywhere. The valley bus stops early.
+- [44] **Midori**: @Jonathan, the city is flexible. But the cost is high. The valley inn includes meals, which saves money.
+- [45] **Mizuki**: @Minato, the city has separate rooms. You can have your own space. But we might not meet.
+- [46] **Shizue**: @Mizuki, if we don’t meet, the trip fails. I want us together, but with clear costs.
+- [47] **Minato**: @Shizue, I just want to sleep well. If the city is too loud, I won’t sleep.
+- [48] **Jonathan**: @Minato, the city is busy. But you can find quiet spots. The valley is quiet, but isolated.
+- [49] **Midori**: @Jonathan, the valley is quiet. But the bus stops early. That limits our days.
+- [50] **Mizuki**: I need to decide. The city offers privacy, but we might drift apart.
+- [51] **Shizue**: I need to decide. The all-in rate is fair. I want us together, but with clear costs.
+- [52] **Minato**: I need to decide. I want a quiet place to sleep and a place to sit.
+- [53] **Jonathan**: I need to decide. I want to avoid the ferry’s delay. The train is better.
+- [54] **Midori**: I need to decide. I want to know the total cost. The valley inn includes meals.
+## Round 3
+- [60] **Mizuki**: Option A is the valley inn. Option B is the island. Option C is the city. I need to choose.
+- [61] **Shizue**: Option A has all-in rates. Option B is a shared house. Option C is separate rooms. I prefer A.
+- [62] **Minato**: Option A has baths until midnight. Option B has one bathroom. Option C has separate rooms. I prefer C.
+- [63] **Jonathan**: Option A is by train. Option B is by ferry. Option C is by train. I prefer A or C.
+- [64] **Midori**: Option A is 17,000 yen. Option B is 5,400 yen. Option C is 12,000 to 20,000 yen. I prefer B.
+- [65] **Mizuki**: @Shizue, Option A keeps us together. But do we have enough space? I worry about crowding.
+- [66] **Shizue**: @Mizuki, Option A has futons in one room. It’s traditional. I think it’s fine.
+- [67] **Minato**: @Mizuki, Option C has separate rooms. I can sleep better. But I might feel alone.
+- [68] **Jonathan**: @Minato, Option C is flexible. You can go out. But you might not meet the others.
+- [69] **Midori**: @Jonathan, Option B is cheap. But the ferry takes two days. That’s a lot of travel.
+- [70] **Mizuki**: @Midori, Option B is cheap, but the travel is long. I want to maximize our time together.
+- [71] **Shizue**: @Mizuki, Option A is the best balance. We are together, and the costs are clear.
+- [72] **Minato**: @Shizue, I agree. But I need a place to sit. Option A has a room. Is that enough?
+- [73] **Jonathan**: @Minato, Option A has a room. You can sit there. It’s quiet. I think it’s good.
+- [74] **Midori**: @Minato, Option A is expensive. But it includes meals. That saves money in the end.
+- [75] **Mizuki**: I vote for Option A. It keeps us together and the costs are clear.
+- [76] **Shizue**: I vote for Option A. The all-in rate is fair. I want us together.
+- [77] **Minato**: I vote for Option C. I need separate rooms to sleep well.
+- [78] **Jonathan**: I vote for Option A. The train is fast. I want to avoid the ferry.
+- [79] **Midori**: I vote for Option B. It’s the cheapest. But I worry about the travel time.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> C
+- Jonathan -> A
+- Midori -> B
+## Result
+- adopted: A

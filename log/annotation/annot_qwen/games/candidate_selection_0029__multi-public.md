@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. I’d like to look into the conservation lab staffing and the volunteer roster to see who is actually available.
+- [6] **Shion**: I’ll check the lender paperwork against shipping cut-offs and the structural survey of the suspended bay.
+- [7] **May**: I’ll pull the weekend head counts and the visitor comment slips. I want to see what actually draws people back, not just what looks good on paper.
+- [8] **Misaki**: I’ll look into the maintenance log for powered displays and the evening hire bookings. I need to know what the room can physically handle.
+- [9] **Sakura**: Ooh, mystery time! I’ll check the loan transport costs and the mount-making charges. I bet the money is hiding in the boxes!
+- [10] **Shizue**: Shion, your shipping concerns are wise. May, I hope the visitor records show what truly matters to our guests.
+- [11] **Shion**: I appreciate the sentiment, Shizue. But sentiment doesn't stop a crate from arriving late. I need hard data on where the logistics actually failed.
+- [12] **May**: @Shion, hard data is lovely, but people don’t return for logistics. They return for the experience. I’m just checking if the numbers agree with my gut.
+- [13] **Misaki**: I’m not arguing with the data, Shion. I’m just checking if the floor can hold what the data promises.
+- [14] **Sakura**: @Shion, if the crates are late, the money is definitely hiding in the boxes! I’ll find out where it went.
+- [15] **Shizue**: I am glad we are all looking at different pieces of the puzzle. It helps to see the whole picture.
+- [16] **Shion**: Shizue, a puzzle is just a collection of missing pieces. I am looking for the cracks in the foundation, not the decorative frame.
+- [17] **May**: @Shion, cracks are boring. I’m hunting for the heartbeat. If the numbers don’t sing, I’m not interested.
+- [18] **Misaki**: The floor doesn’t sing, Shion. It just holds. I’m checking if it can hold what we promise.
+- [19] **Sakura**: @Shion, cracks are just where the money leaks out! I’ll find the holes before the invoices do.
+- [20] **Shizue**: Shion, your caution is well placed. May, I trust your instincts. Misaki, the building must be safe. Sakura, your curiosity is welcome.
+- [21] **Shion**: Shizue, caution is not a virtue; it is a necessity. I will not apologize for expecting the worst.
+- [22] **May**: @Shion, expecting the worst is just pessimism with a tie. I’m expecting the best, and I’ll prove it with the numbers.
+- [23] **Misaki**: The building doesn’t care about your tie, Shion. It only cares about weight. I’ll see what the floor can actually take.
+- [24] **Sakura**: @Shion, I’ll find the money holes! @Shizue, thanks for the warm welcome!
+## Round 2
+- [35] **Shizue**: The lab is down to one person with two hundred pieces waiting. The volunteers are mostly busy with history walks. Who will actually stand in the room?
+- [36] **Shion**: Two openings slipped because paperwork arrived late. The bay holds four hundred kilos. We need to know if the candidates fit those limits before we promise anything.
+- [37] **May**: @Shizue, the numbers are singing! People come back for people, not just objects. We need a show with live action.
+- [38] **Misaki**: Seventeen call-outs last season, four during opening hours. Plus six evenings lost to caterers. The room is already overworked.
+- [39] **Sakura**: @Shion, your late crates cost a third of our installation budget! And the joiner’s rate jumped! We need self-supporting objects to save cash!
+- [40] **Shizue**: @May, you are right. People need people. But with only one conservator and busy volunteers, who will actually be there to talk to them?
+- [41] **Shion**: @Sakura, a third of the budget is a leak, not a mystery. I need to know if the candidates respect the four-hundred-kilo limit before we discuss costs.
+- [42] **May**: @Shizue, that is the real problem. If we pick a show needing live demos, we are stuck. We need something that works without a crowd of staff.
+- [43] **Misaki**: @May, live action means more moving parts. More parts mean more call-outs. I am worried about the maintenance burden, not the charm.
+- [44] **Sakura**: @Misaki, moving parts are expensive! But @May, people love people! Maybe we pick something sturdy that doesn’t need a mechanic?
+- [45] **Shizue**: @Misaki, you are right to worry. With so few hands, we must choose a show that does not break.
+- [46] **Shion**: @Misaki, the bay’s limit is absolute. If the weight exceeds four hundred kilos, the floor fails. I will not gamble on shoring.
+- [47] **May**: @Misaki, I hear you. But if the room is empty, the numbers drop. We need a balance.
+- [48] **Misaki**: @Shion, the weight limit is a hard stop. @May, I agree on the balance. We need something that stays put and doesn’t need constant fixing.
+- [49] **Sakura**: @Shion, sturdy means no crating fees! @May, if it’s heavy, it stays put! I’m voting for the heavy stuff!
+- [50] **Shizue**: I worry about the two hundred pieces waiting. We cannot add more work to one tired person. We must choose wisely.
+- [51] **Shion**: I will not gamble on shoring. The bay’s limit is absolute. If the weight exceeds four hundred kilos, the floor fails.
+- [52] **May**: @Shizue, I hear you. We need presence without the staff drain. A show where the objects speak, but the room feels alive.
+- [53] **Misaki**: The room is already overworked. I need a show that stays put and doesn’t need constant fixing.
+- [54] **Sakura**: @Shizue, I promise to find the money holes! @May, let’s pick something sturdy so the floor doesn’t grumble!
+## Round 3
+- [60] **Shizue**: #### Turn 1 of 4
+- [61] **Shion**: The bay limit is absolute. C’s overhead rigging risks exceeding four hundred kilos. I will not gamble on shoring.
+- [62] **May**: @Shion, rigging is risky, but C has the motion my numbers love. A has the people I need. Which one survives your weight check?
+- [63] **Misaki**: C’s overhead rigging is a structural nightmare. A’s live demos will drain our single conservator. B’s bench is static and safe.
+- [64] **Sakura**: @Shion, C’s rigging is a money trap! @May, A’s demos need staff we don’t have. B’s bench is sturdy and saves cash!
+- [65] **Shizue**: @May, A’s live demos need staff we simply do not have. B’s bench is static and safe. I cannot ask one tired person to do more.
+- [66] **Shion**: @May, A’s demos require staff we lack. C’s rigging risks the bay’s limit. B’s bench is static and safe. I vote B.
+- [67] **May**: @Shion, B’s bench gives us the presence my numbers crave without the staff drain. It’s static, safe, and people can watch the work. I’m with you.
+- [68] **Misaki**: B’s bench is static and safe. No moving parts to break, no heavy rigging to stress the floor. It fits the room’s limits perfectly.
+- [69] **Sakura**: @Shion, B’s bench is perfect! No crating fees, no heavy rigging, and it’s sturdy! I’m voting B to save our pennies!
+- [70] **Shizue**: B’s bench is static and safe. It respects our limits and our people. I am glad we found a path that works for everyone.
+- [71] **Shion**: B is the only candidate that respects the structural and logistical constraints. I vote B.
+- [72] **May**: @Shion, B’s bench is the heartbeat I need. It’s static, safe, and full of life. I’m voting B.
+- [73] **Misaki**: B’s bench is static. No moving parts to break, no heavy rigging to stress the floor. It fits the room’s limits perfectly. I vote B.
+- [74] **Sakura**: B is my pick! No expensive crates, no heavy rigging, and the bench is super sturdy. Plus, watching the work is a mystery I can solve!
+- [75] **Shizue**: I am glad we have found a path that works for everyone. B respects our limits and our people. I vote B.
+- [76] **Shion**: B is the logical conclusion. It satisfies every constraint without compromise. I vote B.
+- [77] **May**: B is the heartbeat I need. It’s static, safe, and full of life. I’m voting B.
+- [78] **Misaki**: B is static and safe. No moving parts to break, no heavy rigging to stress the floor. It fits the room’s limits perfectly. I vote B.
+- [79] **Sakura**: B is my final vote! It saves money, keeps the floor happy, and the bench is a cool little mystery. Yay!
+### Vote
+- Shizue -> B
+- Shion -> B
+- May -> B
+- Misaki -> B
+- Sakura -> B
+## Result
+- adopted: B

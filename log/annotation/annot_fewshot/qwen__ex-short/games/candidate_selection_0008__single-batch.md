@@ -1,0 +1,73 @@
+# candidate_selection_0008__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about who is actually in charge when the system breaks.
+- [6] **Ryuji**: The depot floor does not stop for office projects. I need to know the calendar.
+- [7] **May**: I have seen systems age quietly and external work come back broken.
+- [8] **Misaki**: We are short on people. I need to see how the change lands on staff.
+- [9] **Benjamin**: The headline price is a lie. I need to see the real long-term cost.
+- [10] **Midori**: @Ryuji, the calendar is critical. If we freeze, we lose revenue.
+- [11] **Ryuji**: @Midori, exactly. The yard equipment is old. It must survive the rollout.
+- [12] **May**: @Benjamin, I agree. Hidden costs are where projects die.
+- [13] **Misaki**: @May, the people who know the system are leaving. That is a risk.
+- [14] **Benjamin**: @Misaki, yes. If we lose the admins, we lose the knowledge.
+- [15] **Midori**: I will check the support ownership during the last outage.
+- [16] **Ryuji**: I will look at the depot calendar and the peak-season cutover.
+- [17] **May**: I will review the upgrade history of the dispatch tool.
+- [18] **Misaki**: I will check the administrator retirements and hiring times.
+- [19] **Benjamin**: I will look at the five years of renewal invoices.
+- [20] **Midori**: I will also check the warehouse rule changes after new accounts.
+- [21] **Ryuji**: I will also check the yard devices and the 2021 scheduling trial.
+- [22] **May**: I will also check the data lift in the 2018 pay move.
+- [23] **Misaki**: I will also check the depot supervisors and the last rollout.
+- [24] **Benjamin**: I will also check the board minutes on capital and operating requests.
+## Round 2
+- [35] **Midori**: The last outage sat unowned for two days. Four suppliers, no one in charge.
+- [36] **Ryuji**: The peak season has no freeze window. One cutover cost two days of paper dispatch.
+- [37] **May**: The dispatch tool skipped three upgrades. Testing it all at once takes weeks.
+- [38] **Misaki**: Two admins retire this year. The last posting stayed open for eleven months.
+- [39] **Benjamin**: Bundled agreements held price. Separately licensed pieces climbed yearly.
+- [40] **Midori**: @Ryuji, that cutover risk is real. We cannot freeze in winter.
+- [41] **Ryuji**: @Midori, yes. The yard devices are a mix of old models. They are fragile.
+- [42] **May**: @Benjamin, so modular systems will bleed us dry over time?
+- [43] **Misaki**: @May, the external data lift in 2018 caused errors for a year.
+- [44] **Benjamin**: @Misaki, the board trims capital but lets operating costs pass. That is the trap.
+- [45] **Midori**: The warehouse rules were rewritten twice mid-year. The scope never survived.
+- [46] **Ryuji**: The 2021 scheduling trial was ringed with spreadsheets within a month.
+- [47] **May**: The 2018 pay move had mismatched route codes for a year. External work is risky.
+- [48] **Misaki**: Depot supervisors dropped the new steps within weeks. They keep their own routines.
+- [49] **Benjamin**: The outright purchase only cost maintenance. The subscriptions keep rising.
+- [50] **Midori**: We need a single point of accountability. The current setup is a mess.
+- [51] **Ryuji**: We need something that works with our old yard devices and tight calendar.
+- [52] **May**: We need to avoid external data migration if possible. It is too error-prone.
+- [53] **Misaki**: We need to train people who will actually use the new system.
+- [54] **Benjamin**: We need a fixed cost structure. No surprise add-ons.
+## Round 3
+- [60] **Midori**: Candidate A offers a regional service team. That solves the ownership gap.
+- [61] **Ryuji**: Candidate D is built for transport and deployed on our servers. It fits our calendar.
+- [62] **May**: Candidate B uses a partner for migration. That is the 2018 risk again.
+- [63] **Misaki**: Candidate D has an engineering team present. That helps with the admin gap.
+- [64] **Benjamin**: Candidate A is a hosted suite. The invoices suggest bundled prices hold steady.
+- [65] **Midori**: @Ryuji, D is on-premise. Does it handle the yard devices?
+- [66] **Ryuji**: @Midori, yes. It is built for transport operators. It should handle our hardware.
+- [67] **May**: @Benjamin, A is hosted. That means no upgrade windows to skip.
+- [68] **Misaki**: @May, but who trains the depot supervisors? D has engineers on site.
+- [69] **Benjamin**: @Misaki, D is an outright purchase. The cost is just maintenance.
+- [70] **Midori**: A has a fixed configuration process. That might stop the scope creep.
+- [71] **Ryuji**: D is deployed on our servers. We control the cutover timing.
+- [72] **May**: C is modular. That is the cost trap Benjamin described.
+- [73] **Misaki**: B relies on external training. The supervisors will drop it again.
+- [74] **Benjamin**: C is separately licensed. The invoices show those costs climb yearly.
+- [75] **Midori**: I prefer A. The regional team ensures someone is in charge.
+- [76] **Ryuji**: I prefer D. It survives our calendar and our yard equipment.
+- [77] **May**: I prefer A. It avoids the external migration risk of B.
+- [78] **Misaki**: I prefer D. The on-site engineers can handle the admin transition.
+- [79] **Benjamin**: I prefer A. The bundled pricing is stable. D is a one-off cost.
+### Vote
+- Midori -> A
+- Ryuji -> D
+- May -> A
+- Misaki -> D
+- Benjamin -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: Good morning, everyone. I believe it is prudent to ensure our chosen plan is sustainable in practice, not just on paper. I look forward to a productive discussion.
+- [6] **Misaki**: I agree. We should focus on the practicalities of implementation to avoid any unforeseen issues during the redevelopment process.
+- [7] **Mio**: I'm so excited to get started! I want to make sure we pick a plan that's actually great for the long run and doesn't cause any headaches later. Let's make this park amazing!
+- [8] **Asuka**: I agree with the need for sustainability. However, we must be specific about what that means. I am particularly concerned with the long-term operational management and the actual manpower available for maintenance.
+- [9] **Minako**: I agree with Asuka. We must ensure the plan aligns with the actual behavior of the land and the people who use it daily, rather than relying on an idealized vision.
+- [10] **Benjamin**: Since we are all in agreement regarding practicality, perhaps we should examine the actual outcomes of previous projects. It would be a pity to be seduced by a beautiful drawing that cannot endure.
+- [11] **Misaki**: That is a valid point. I believe we should also look into the capacity of the local firms and the specific constraints of the site to ensure the timeline is realistic.
+- [12] **Mio**: That sounds like a plan! I'm curious about how much we're actually spending on the park right now. If we want it to be sustainable, we should see where the money goes, right?
+- [13] **Asuka**: @Mio, spending is one part of it, but the human element is just as critical. We need to know who is actually performing the work and whether we are relying too heavily on external contractors.
+- [14] **Minako**: @Asuka, I agree. To understand the reality of the site, we should examine the actual usage patterns and the environmental stresses the land faces throughout the year.
+- [15] **Benjamin**: It seems we have a comprehensive list of concerns. To avoid any "architectural mirages," I shall focus on the tangible legacy of our previous efforts. I'll examine the condition of works from the earlier programme and the upkeep ledger.
+- [16] **Misaki**: I will look into the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site. I want to ensure the construction timeline and local capacity are realistic.
+- [17] **Mio**: I'll go with the upkeep ledger spend per hectare and the groundskeeping roll and bought-in services! I really want to see how the costs and the staff balance out for the city.
+- [18] **Asuka**: I will examine the groundskeeping roll and bought-in services, as well as the volunteer groups working with the division. I need to understand the actual labor structure supporting our public spaces.
+- [19] **Minako**: I will look into the timed counts of weekday crossings and the drainage callouts and August heat readings. I want to see how the park actually functions under pressure.
+- [20] **Benjamin**: It appears we have a balanced distribution of research. I shall leave you all to your investigations, trusting that the data will speak more truthfully than any glossy brochure. I look forward to the findings.
+- [21] **Misaki**: I agree. Let us review the information we gather and discuss how it impacts the feasibility of the proposed plans. I look forward to seeing what we discover.
+- [22] **Mio**: I can't wait to see what we find! I'll be digging into those numbers to make sure we don't get any scary surprises later. See you all in the next round!
+- [23] **Asuka**: I will focus on the labor data. It is essential to determine if the current staffing levels can realistically support a new redevelopment without further straining the existing rota. I look forward to the results.
+- [24] **Minako**: I will analyze the data on usage and environmental stress. It is essential that we base our decision on the physical reality of the site. I look forward to our next discussion.
+## Round 2
+- [35] **Benjamin**: It appears my suspicions were well-founded. While some structural elements hold up, others have decayed with surprising haste. Furthermore, the cost of maintaining greenery is escalating at a rate that would make any accountant shudder.
+- [36] **Misaki**: My findings are concerning. Only two regional firms are tendering for earth-moving, and both have flagged risks regarding clay subsoil and slippage. We must be cautious about any plan requiring extensive excavation.
+- [37] **Mio**: Whoa, Benjamin is right! I saw that too. The cost for planted areas is way higher than hard surfaces, and it's just getting worse every year. We really can't afford a plan that's too fancy to maintain!
+- [38] **Asuka**: The staffing situation is critical. The groundskeeping roll has plummeted from eighteen posts to seven. We are relying heavily on bought-in services and volunteers, which suggests the internal capacity to manage new assets is severely diminished.
+- [39] **Minako**: The physical reality is equally concerning. People are carving their own paths to the tram, ignoring the margins, and our drainage is failing. Furthermore, the heat island effect is significant. We cannot ignore these environmental stresses.
+- [40] **Benjamin**: @Asuka, @Minako, it seems we are painting a rather bleak portrait of our current capabilities. We have failing drainage, a skeleton crew, and a history of superficial finishes. A "grand vision" without a maintenance plan is merely a future ruin.
+- [41] **Misaki**: @Benjamin, I agree. Given the slippage risks and the limited number of capable firms, any plan with ambitious earth-works or complex phasing will likely face delays and cost overruns. We need something structurally simple.
+- [42] **Mio**: Exactly! If we're already struggling with a tiny crew and costs are skyrocketing for the greenery, we can't just pick the prettiest plan. We need something that won't break the bank in three years!
+- [43] **Asuka**: @Mio, it is not just about the budget. With only seven posts remaining on the roll, we lack the human capital to oversee complex projects. Any plan requiring intensive daily care is fundamentally unrealistic.
+- [44] **Minako**: @Asuka, exactly. We must prioritize a design that accommodates the actual flow of pedestrians toward the tram and addresses the drainage failures. A plan that ignores these physical pressures will fail regardless of the budget.
+- [45] **Benjamin**: It seems we are in rare agreement. We require a plan that is structurally modest, respects the actual pedestrian flow, and avoids an over-reliance on high-maintenance greenery. Simplicity, in this case, is the height of sophistication.
+- [46] **Misaki**: I agree. We should prioritize a plan that minimizes deep excavation to avoid the clay subsoil risks and allows for a straightforward construction phase that doesn't paralyze the main gate. Practicality must come before aesthetics.
+- [47] **Mio**: I totally agree! Let's look for a plan that's easy to take care of and doesn't need a huge team. If it's simple and sturdy, it'll stay beautiful without costing us a fortune later!
+- [48] **Asuka**: @Mio, precisely. We must avoid any design that assumes a full staff. If the plan requires constant pruning or intricate gardening, it will simply be neglected, as we have no one left to do the work.
+- [49] **Minako**: @Asuka, I agree. We must also ensure the plan doesn't fight the land. If we ignore the drainage issues and the heat, the materials will degrade quickly, adding more pressure to an already strained workforce.
+- [50] **Benjamin**: It seems we have successfully stripped away the illusions. We are looking for a plan that is durable, low-maintenance, and honest about the site's constraints. I believe we are now well-equipped to judge the candidates.
+- [51] **Misaki**: I agree. We have a clear set of criteria now: minimal excavation, low maintenance, and a realistic construction phase. I look forward to seeing which candidate best aligns with these practical constraints.
+- [52] **Mio**: I'm ready! Let's find the plan that's actually doable. I'll be keeping a super close eye on those maintenance costs so we don't end up with a money pit!
+- [53] **Asuka**: I will be evaluating the candidates based on their labor requirements. Any plan that assumes a level of staffing we no longer possess is a failure in the making. We need a design that is truly self-sustaining.
+- [54] **Minako**: I will evaluate the candidates based on their resilience to environmental stress and their alignment with actual pedestrian movement. We must choose a plan that works with the land, not against it.
+## Round 3
+- [60] **Benjamin**: Looking at our options, Plan A, the Market Plaza, seems the most rational. It prioritizes hard-surfacing, which we know is cheaper to maintain and more durable than the "architectural mirages" of greenery.
+- [61] **Misaki**: @Benjamin, I agree. Plan A minimizes deep excavation and complex earth-works, reducing the risk of slippage and delays. It also seems the most feasible to implement without causing total chaos at the main gate.
+- [62] **Mio**: I'm with you guys! Plan A sounds perfect because it's mostly paved. Since planted areas cost triple to keep up, a plaza is way safer for our budget. It won't become a money pit!
+- [63] **Asuka**: @Mio, I agree. Plan A is the only viable option. Plans B and C require intensive gardening and ecological management that our seven remaining staff members simply cannot provide. We cannot risk further straining the rota.
+- [64] **Minako**: @Asuka, I agree. Plan A is the most resilient choice. It accommodates the heavy pedestrian flow to the tram without destroying margins and avoids the drainage and heat issues that would plague the more organic designs.
+- [65] **Benjamin**: It is quite refreshing to see such a swift consensus. We have collectively decided that a paved plaza is preferable to a woodland or wetland that would inevitably succumb to neglect and budget cuts.
+- [66] **Misaki**: I agree. Plan D's terraces would likely require significant earth-moving and structural support, which is too risky given the clay subsoil. Plan A is the only one that truly respects the site's physical and logistical constraints.
+- [67] **Mio**: Exactly! Plan D sounds like it would be a nightmare to build and probably expensive to keep up too. Plan A is just so much simpler and safer for everyone. I'm totally voting for the Market Plaza!
+- [68] **Asuka**: @Mio, I agree. Plan A is the only choice that doesn't assume a workforce we don't have. It is the only plan that is realistically manageable with our current staffing levels. I will vote for Plan A.
+- [69] **Minako**: I agree. Plan A is the only option that acknowledges the reality of the site. It provides the firm ground the public already seeks and avoids the drainage failures inherent in the other designs. I vote for Plan A.
+- [70] **Benjamin**: It seems we have reached a rare and efficient unanimity. Plan A is the only candidate that avoids the pitfalls of high-maintenance greenery and structural instability. I shall cast my vote for the Market Plaza.
+- [71] **Misaki**: I agree. Plan A is the most pragmatic choice, avoiding the risks of clay subsoil and ensuring a manageable construction phase. I will also cast my vote for the Market Plaza.
+- [72] **Mio**: I'm so glad we're all on the same page! Plan A is definitely the way to go to keep the city's finances happy. I'm voting for the Market Plaza too!
+- [73] **Asuka**: The logic is sound. Plan A is the only option that does not rely on a phantom workforce. To choose any other would be to set the remaining staff up for failure. I vote for Plan A.
+- [74] **Minako**: The evidence is clear. Plan A is the only option that aligns with the actual behavior of the people and the land. It is the most sustainable and realistic choice. I vote for Plan A.
+- [75] **Benjamin**: It is a rare pleasure to conclude a committee meeting with such absolute clarity. We have chosen the path of durability over the path of delusion. I concur with the final tally.
+- [76] **Misaki**: I agree. By prioritizing stability and feasibility over aesthetic ambition, we have ensured a result that the city can actually deliver and maintain. I concur with the final decision.
+- [77] **Mio**: Yay! I'm so happy we found a plan that's actually doable and won't cause any budget scares later. The Market Plaza is definitely the winner! I concur with the final decision!
+- [78] **Asuka**: The decision is logical and based on the available data. We have avoided a plan that would be impossible to maintain with our current staffing. I concur with the final decision.
+- [79] **Minako**: I concur. We have based our decision on the physical and operational realities of the park, ensuring the final result is functional and sustainable. I support the selection of Plan A.
+### Vote
+- Benjamin -> A
+- Misaki -> A
+- Mio -> A
+- Asuka -> A
+- Minako -> A
+## Result
+- adopted: A

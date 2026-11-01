@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Servas**: At eighty-five, I value clarity over speed. We must understand how a new holding affects our reporting before we commit.
+- [6] **Asuka**: I agree. We need to verify the actual returns behind our success stories. Which two items will you investigate?
+- [7] **Minako**: I need to know our borrowing capacity for future calls. I’ll check the credit line terms and reserve accounts.
+- [8] **Mio**: I’m curious about the people side! I’ll check the recruiters’ placement times and the adviser bench to see who’s actually available.
+- [9] **Toshio**: I need to know what delays our deployments. I’ll check the security review times and the delivery records of our two holdings.
+- [10] **Servas**: Asuka, your focus on verification is wise. I will examine the independent checks on holdings' figures and the appraisal needs at the last audit.
+- [11] **Asuka**: I will examine account retention through price rises and the profile of our exits and the write-off.
+- [12] **Minako**: I’ve already stated my choices. I’ll review the credit line terms and reserve accounts to understand our borrowing capacity.
+- [13] **Mio**: I already picked my two! I’m checking the recruiters and the adviser bench. Who else is looking at the people side?
+- [14] **Toshio**: I’ve already stated my choices. I’ll check the security review times and the delivery records of our two holdings.
+- [15] **Servas**: Minako, your caution regarding our reserves is prudent. We must ensure our foundation is solid before we build upon it.
+- [16] **Asuka**: Minako, your caution is necessary. I will focus on retention and exit profiles to see what actually held value.
+- [17] **Minako**: I appreciate the support, Servas. Asuka, your focus on retention is key. We must ensure our capital is secure before we commit further.
+- [18] **Mio**: I’m glad we’re all picking our pieces! I’ll stick with the recruiters and the adviser bench. Who else is looking at the people side?
+- [19] **Toshio**: I’ll stick with security reviews and delivery records. The obstacles are external, not internal.
+- [20] **Servas**: Let us proceed with diligence. I will review the independent checks and appraisal needs to ensure our reporting remains transparent and verifiable.
+- [21] **Asuka**: I will review account retention and the exit profile. We must see which businesses actually kept their customers and which quietly failed.
+- [22] **Minako**: I will review the credit line terms and reserve accounts. We must know exactly what we can borrow before we commit further capital.
+- [23] **Mio**: I’m sticking with the recruiters and the adviser bench! I really want to know who we can actually call on for help right now.
+- [24] **Toshio**: I will review security review times and delivery records. I need to identify the specific external obstacles that have delayed our previous investments.
+## Round 2
+- [35] **Servas**: The audit revealed a six-week delay and a five-figure fee for appraising hardware. This burden must be weighed carefully before we proceed.
+- [36] **Asuka**: The data is clear. Back-office tooling retained customers; physical operations failed. We should avoid heavy assets.
+- [37] **Minako**: The credit line ignores subscription contracts. Reserves are drained by equipment-heavy holdings. We need a software model to protect our capital.
+- [38] **Mio**: Wow, recruiters can't find shift supervisors or field crews for months! But three logistics advisers are sitting idle. We need to use them!
+- [39] **Toshio**: The data is stark. Medical records mean three quarters in review. Hardware means five months lost to shortages. Software inside a bank cycle never missed a release.
+- [40] **Servas**: Toshio, your findings on deployment delays are critical. I must ask: does the software model you favor also simplify our quarter-end reporting?
+- [41] **Asuka**: Toshio, your data confirms my findings. Software inside bank cycles never missed a release. We must prioritize that reliability over physical assets.
+- [42] **Minako**: Toshio, your data confirms the risk. If we pick hardware, our reserves vanish. We need a model that doesn’t drain our borrowing capacity.
+- [43] **Mio**: @Toshio, that’s scary! But @Servas, those idle logistics advisers could help with physical stuff. Do you think they’d actually step in?
+- [44] **Toshio**: @Mio, the advisers are idle, but the hardware risk is structural. @Servas, software inside bank cycles simplifies reporting. I favor the software model.
+- [45] **Servas**: Mio, their expertise is valuable, but my concern is the reporting burden. Hardware complicates our quarter-end. Software offers the clarity I seek.
+- [46] **Asuka**: Minako, your point on reserves is valid. But retention data shows software holds value. We must avoid the write-off pattern.
+- [47] **Minako**: Asuka, you are right. The write-off pattern is clear. We must avoid the physical burden that drains our reserves and complicates our reporting.
+- [48] **Mio**: I hear you all! But those idle logistics advisers are a real asset. If we pick a physical company, we finally have people who actually know the terrain.
+- [49] **Toshio**: @Mio, the advisers are idle, but the hardware risk is structural. @Servas, software inside bank cycles simplifies reporting. I favor the software model.
+- [50] **Servas**: I concur. The software model offers the verifiable clarity and reporting simplicity we require. Let us proceed to the candidates with this consensus in mind.
+- [51] **Asuka**: I agree. The retention data confirms software holds value. We must avoid the write-off pattern. Let us proceed to the candidates.
+- [52] **Minako**: I agree. The credit line terms confirm software is the only viable path. We must protect our reserves. Let us see the candidates.
+- [53] **Mio**: I’m still torn! The idle advisers are a huge asset for physical ops. But I hear the software consensus. Let’s see the candidates!
+- [54] **Toshio**: The pattern is clear. External obstacles vanish when the product runs inside existing cycles. I am ready to see the candidates.
+## Round 3
+- [60] **Servas**: Ledger Bridge reconciles records within existing bank cycles. This aligns perfectly with our need for verifiable, simple reporting. I favor this candidate.
+- [61] **Asuka**: Ledger Bridge fits the retention pattern. It is back-office tooling, not physical operations. I support Servas.
+- [62] **Minako**: Ledger Bridge runs inside bank cycles, avoiding the hardware appraisal fees that drained our last audit. It protects our reserves. I support it.
+- [63] **Mio**: Ledger Bridge sounds perfect for the software consensus! But wait, who actually builds it? I need to know if we have the people to support it.
+- [64] **Toshio**: Ledger Bridge runs inside bank cycles, eliminating the external obstacles that plagued our hardware holdings. The delivery risk is minimal. I support it.
+- [65] **Servas**: Mio, the team is small, but the product is simple. We need clarity, not complexity. Does the dashboard offer the transparency I require?
+- [66] **Asuka**: @Mio, the team is small, but the product is simple. We need clarity, not complexity. Does the dashboard offer the transparency I require?
+- [67] **Minako**: @Mio, the product is simple. No hardware means no appraisal fees. Our reserves stay intact. I support Ledger Bridge.
+- [68] **Mio**: @Servas, the dashboard is the whole point! It’s pure software, so no hardware headaches. I’m in!
+- [69] **Toshio**: @Mio, the product is simple. No hardware means no appraisal fees. Our reserves stay intact. I support Ledger Bridge.
+- [70] **Servas**: The dashboard presents matched and unmatched transactions clearly. This is the verifiable transparency I have sought. I am ready to vote for Ledger Bridge.
+- [71] **Asuka**: The retention data confirms it. Back-office tooling holds value; physical operations fail. Ledger Bridge fits that pattern perfectly. I vote for Ledger Bridge.
+- [72] **Minako**: The credit line treats subscription contracts as worthless, but this is pure software. No hardware means no appraisal fees. Our reserves stay intact. I vote for Ledger Bridge.
+- [73] **Mio**: I’m in! Pure software means no hardware headaches and no appraisal fees. Plus, our software partners already hold eleven board seats, so we have the people. I vote for Ledger Bridge!
+- [74] **Toshio**: The pattern is clear. External obstacles vanish when the product runs inside existing cycles. I am ready to see the candidates.
+- [75] **Servas**: I am satisfied. The reporting burden is manageable, and the figures are verifiable. I cast my vote for Ledger Bridge.
+- [76] **Asuka**: The data confirms it. Back-office tooling retains customers; physical operations fail. Ledger Bridge fits that pattern perfectly. I vote for Ledger Bridge.
+- [77] **Minako**: The credit line terms confirm software is the only viable path. We must protect our reserves. I vote for Ledger Bridge.
+- [78] **Mio**: I’m all in! Pure software means no hardware headaches, and our partners already hold eleven board seats. I vote for Ledger Bridge!
+- [79] **Toshio**: The delivery records confirm it. No external obstacles, no missed releases. I vote for Ledger Bridge.
+### Vote
+- Servas -> D
+- Asuka -> D
+- Minako -> D
+- Mio -> D
+- Toshio -> D
+## Result
+- adopted: D

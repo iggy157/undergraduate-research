@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m worried about finding people! I’ll check retained recruiters’ placement times and adviser bench and partner board seats.
+- [6] **George**: I worry our success stories are fiction. I will examine account retention through price rises and the profile of the exits and the write-off.
+- [7] **May**: I’m terrified of running out of cash. I’ll check reserve accounts and follow-on calls, plus the terms of last winter's credit line.
+- [8] **Rin**: I’m scared our numbers are fake! I’ll check independent checks on holdings' reported figures and appraisal needs at the last audit.
+- [9] **Mizuki**: I need to know what actually delays us. I’ll examine security review time before first deployment and delivery records of two holdings.
+- [10] **Mio**: @George, your focus on exits is smart! I’m sticking with my two picks to see who we can actually hire right now.
+- [11] **George**: @Mio, I appreciate the sentiment. I must verify if our past narratives match reality. I will stick with my two choices to see the truth.
+- [12] **May**: @Mio, hiring is vital, but cash is oxygen. I’m sticking with my two picks to see exactly how much we can borrow when the bills come due.
+- [13] **Rin**: @Mio, I’m sticking with my two picks! I need to know if our reported numbers are real before we add anything new.
+- [14] **Mizuki**: @Mio, hiring is critical, but I need to isolate the external friction. I’ll stick with my two choices to map the true bottlenecks.
+- [15] **Mio**: @May, cash is vital, but without people, we can’t execute! I’m sticking with my two picks to see who we can actually hire right now.
+- [16] **George**: @May, I hear you. But without verified retention, we are just guessing. I will stick with my two choices to see the truth.
+- [17] **May**: @George, I hear you, but if the cash runs dry, retention is irrelevant. I’m sticking with my two picks to secure our survival.
+- [18] **Rin**: @May, I agree! But if our numbers are wrong, cash is just a mirage. I’m sticking with my two picks to verify the truth.
+- [19] **Mizuki**: @Rin, verified numbers are essential. But I must isolate the external friction delaying deployment. I’ll stick with my two choices to map the true bottlenecks.
+- [20] **Mio**: @Mizuki, I agree! Bottlenecks are scary. I’m sticking with my two picks to see who we can actually hire right now.
+- [21] **George**: @Mizuki, bottlenecks are real, but I must confirm if our past wins were genuine. I will stick with my two choices to see the truth.
+- [22] **May**: @Mizuki, bottlenecks are real, but cash is the lifeblood. I’m sticking with my two picks to ensure we don’t bleed out before we even start.
+- [23] **Rin**: @Mizuki, bottlenecks are real, but if our baseline is wrong, we’re flying blind! I’m sticking with my two picks to verify the truth.
+- [24] **Mizuki**: @Rin, you are right. But I must see the external friction. I will stick with my two choices to map the true bottlenecks.
+## Round 2
+- [35] **Mio**: @George, my recruiter data is scary! We can’t hire field crews fast enough. We need a company that doesn’t need seasonal staff!
+- [36] **George**: @Mio, your hiring fears are valid. My data shows we only succeed with quiet back-office tools. The write-off ran its own premises. We must avoid that trap.
+- [37] **May**: @Mio, hiring is tough, but cash is tighter. My findings show follow-on calls are double the model, and our credit line ignores unbilled revenue. We need immediate cash flow.
+- [38] **Rin**: @May, that’s terrifying! My audit data shows hardware needs outside appraisals, adding six weeks. We must avoid anything with physical assets to keep our quarter-end clean!
+- [39] **Mizuki**: @Mio, your hiring concerns are valid. My data shows hardware deals face three-quarter security reviews. We must avoid physical assets to prevent external delays.
+- [40] **Mio**: @Rin, I agree! Avoiding hardware means no seasonal field crews to hire. My recruiters can handle support roles easily. Let’s pick a pure software company!
+- [41] **George**: @Rin, I concur. My exit data confirms quiet back-office tools endure. We must avoid physical assets and seasonal labor. Let us focus on pure software.
+- [42] **May**: @Rin, exactly. If our credit line ignores unbilled revenue, we need a company with immediate, billable cash flow. Pure software is the only way to survive this trap.
+- [43] **Rin**: @Mizuki, your security delays match my audit fears! Hardware is a nightmare for quarter-end. We need pure software with transparent, independent data to keep our reporting clean!
+- [44] **Mizuki**: @Rin, precisely. The tool inside the bank’s cycle never missed a release. Hardware faces external friction we cannot control. We must choose pure software to ensure predictable deployment.
+- [45] **Mio**: @Mizuki, I agree! Pure software means no seasonal hiring headaches. My recruiters can handle support roles easily. Let’s pick a company that doesn’t need field crews!
+- [46] **George**: @Mizuki, I agree. My retention data shows the shopkeeper tool failed, but back-office tools held firm. We must choose software that serves quiet, essential operations, not flashy consumer apps.
+- [47] **May**: @Mizuki, predictable deployment is vital, but my data shows unbilled revenue is invisible to lenders. We need immediate, billable cash flow to survive the doubled follow-on calls.
+- [48] **Rin**: @May, I agree! Billable cash flow is key. But I need transparent data too. Let’s pick a pure software company with independent reporting to keep my quarter-end clean!
+- [49] **Mizuki**: @May, you are right. Unbilled revenue is a trap. We need a candidate with immediate, billable cash flow to bypass the credit line’s structural friction and ensure predictable deployment.
+- [50] **Mio**: @May, I agree! Billable cash flow is essential. But we also need a team we can actually staff. Let’s pick a pure software company with no seasonal hiring headaches!
+- [51] **George**: @May, I concur. Billable cash flow is essential. My data confirms quiet back-office tools endure. We must choose a candidate that serves essential operations, not flashy consumer apps.
+- [52] **May**: @George, I agree. Quiet, billable software is the only path that respects our empty reserves. Let us choose a candidate that generates immediate cash, not just promises.
+- [53] **Rin**: @George, I agree! Quiet, billable software is perfect. But I need independent data too. Let’s pick a candidate with transparent reporting to keep my quarter-end clean!
+- [54] **Mizuki**: @George, I concur. Quiet, billable software avoids the external friction I mapped. We must choose a candidate that ensures predictable deployment and immediate cash flow.
+## Round 3
+- [60] **Mio**: @George, I’m so excited to see the options! Fabric Loop needs sorting crews, which my recruiters can’t hire fast enough. Let’s avoid that trap!
+- [61] **George**: @Mio, you are right. Fabric Loop is a physical trap. My data shows we only succeed with quiet back-office tools. We must avoid anything requiring seasonal field crews.
+- [62] **May**: @Mio, exactly. Fabric Loop is a physical nightmare. My credit line ignores unbilled revenue, so we need immediate, billable cash flow. Let’s avoid the sorting facilities!
+- [63] **Rin**: @Mio, I agree! Fabric Loop has physical assets, which means outside appraisals. That ruins my quarter-end! We need pure software with independent data to keep our reporting clean!
+- [64] **Mizuki**: @Mio, I agree. Fabric Loop’s physical assets trigger the three-quarter security reviews I mapped. We must avoid that external friction. Let’s focus on pure software options.
+- [65] **Mio**: @Rin, I agree! Fabric Loop is out. Harvest Sensor needs field crews, which my recruiters can't hire fast enough. Let's focus on the pure software options!
+- [66] **George**: @Mio, precisely. Harvest Sensor requires seasonal field crews, a trap my exit data confirms. We must avoid physical assets. Let us focus on the pure software options.
+- [67] **May**: @Mio, exactly. Harvest Sensor’s seasonal model means unbilled revenue, which my credit line ignores. We need immediate, billable cash flow. Let’s focus on the pure software options!
+- [68] **Rin**: @Mio, I agree! Harvest Sensor has in-field hardware, which triggers those six-week appraisals. That’s a disaster for my quarter-end! Let’s focus on the pure software options!
+- [69] **Mizuki**: @Mio, I concur. Harvest Sensor’s in-field hardware triggers the three-quarter security reviews I mapped. We must avoid that external friction. Let’s focus on the pure software options.
+- [70] **Mio**: @May, I agree! Ledger Bridge is pure software, so no seasonal hiring headaches. My recruiters can handle the support roles easily. Let’s pick the one that fits our staffing reality!
+- [71] **George**: @May, I concur. Ledger Bridge is pure software, avoiding the physical traps my data exposed. It serves quiet, essential operations. Let us choose the candidate that endures.
+- [72] **May**: @Mio, exactly. Ledger Bridge’s billable SaaS model generates immediate cash, bypassing my credit line’s trap. It’s the only option that respects our empty reserves.
+- [73] **Rin**: @May, I agree! Ledger Bridge’s dashboard is independent, so I can verify it myself. No outside appraisals needed! It keeps my quarter-end clean and transparent.
+- [74] **Mizuki**: @May, precisely. Ledger Bridge’s pure software model bypasses the external friction I mapped. It ensures predictable deployment without the hardware delays that plague other options.
+- [75] **Mio**: @Mizuki, I agree! Ledger Bridge is pure software, so no seasonal hiring headaches. My recruiters can handle the support roles easily. I’m voting for Ledger Bridge!
+- [76] **George**: @Mizuki, I concur. Ledger Bridge is pure software, avoiding the physical traps my data exposed. It serves quiet, essential operations. I vote for Ledger Bridge.
+- [77] **May**: @Mizuki, I agree. Ledger Bridge’s billable model secures our cash flow. It’s the only choice that respects our empty reserves. I vote for Ledger Bridge.
+- [78] **Rin**: @Mizuki, I agree! Ledger Bridge’s independent data means I can verify everything myself. No outside appraisals, no messy quarter-end. I vote for Ledger Bridge!
+- [79] **Mizuki**: @Rin, I concur. Ledger Bridge’s pure software model bypasses the external friction I mapped. It ensures predictable deployment without hardware delays. I vote for Ledger Bridge.
+### Vote
+- Mio -> C
+- George -> C
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

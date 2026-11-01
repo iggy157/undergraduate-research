@@ -1,0 +1,73 @@
+# shared_living_0010__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The informal system failed because we never measured the actual time cost. I need to know the real hours before we commit.
+- [6] **Mio**: I agree! I want to see who actually uses the spaces versus who cleans. Let’s check the calendar and kitchen habits first.
+- [7] **Victoria**: I’m worried about the social friction. Let’s look at the chat logs and what each person considers "done" to avoid future arguments.
+- [8] **Rin**: I want to check the receipts and the management rate sheet! I need to know exactly what the supplies cost so we can split the bill fairly.
+- [9] **Daisuke**: I just want to know what "done" means for everyone. It helps me stop guessing the state of the rooms.
+- [10] **Ryuji**: @Mio, your kitchen watch is useful, but I need the stopwatch timing to quantify the actual labor hours involved.
+- [11] **Mio**: @Ryuji, fair point! I’ll check the calendar and the kitchen watch. @Victoria, I’m also looking at the chat logs to see the friction.
+- [12] **Victoria**: @Mio, that’s wise. I’ll examine the chat logs and the definition of "done" to ensure our expectations align before we proceed.
+- [13] **Rin**: @Ryuji, timing is cool, but money is real! I’m checking the receipts and the management rate sheet to see who’s actually paying for the sponges.
+- [14] **Daisuke**: I’ll look into what “done” means and the bathroom grout. Knowing the standard helps me feel less anxious about entering.
+- [15] **Ryuji**: @Rin, money matters, but time is the bottleneck. I’m choosing the stopwatch timing and the outside firm’s terms to compare costs.
+- [16] **Mio**: I’m locking in the wall calendar and the fortnight’s kitchen watch! I need to see the real usage patterns before we decide anything.
+- [17] **Victoria**: I’ll examine the chat logs and what each housemate counts as done. Understanding the social friction is key to keeping us on speaking terms.
+- [18] **Rin**: I’m officially picking the receipts and the management rate sheet! I need to see exactly what the bleach and bin bags cost so we can split the bill fairly.
+- [19] **Daisuke**: I’ll check what “done” means and the bathroom grout. Knowing the standard helps me feel less anxious about entering.
+- [20] **Ryuji**: I’m confirming my choices: stopwatch timing and the outside firm’s terms. I need hard data on duration and external cost before we finalize anything.
+- [21] **Mio**: Confirming my picks: the wall calendar and the fortnight’s kitchen watch! I really need to see where the using and the work actually sit before we fix anything.
+- [22] **Victoria**: Confirming my choices: the chat logs and what each housemate counts as done. I need to understand the social friction to keep us on speaking terms.
+- [23] **Rin**: Confirming my picks: the receipts and the management rate sheet! I need to see exactly what the bleach and bin bags cost so we can split the bill fairly.
+- [24] **Daisuke**: Confirming my picks: what “done” means and the bathroom grout. I need a clear standard so I don’t have to guess the state of the room.
+## Round 2
+- [35] **Ryuji**: The data confirms my suspicion. A full pass takes one hundred and two minutes. The firm’s terms require pre-tidying, so outsourcing doesn’t remove the labor, it just shifts it.
+- [36] **Mio**: @Ryuji, wow, over an hour! My kitchen watch shows only two or three people really cook, while the rest just make coffee. That’s a huge imbalance!
+- [37] **Victoria**: @Mio, that imbalance explains the friction. My chat logs show arguments start when one person’s “done” clashes with another’s. We need a single, clear standard.
+- [38] **Rin**: @Ryuji, wait! The office charges four thousand two hundred yen an hour! That’s way more than our two thousand three hundred yen in supplies. We should definitely do it ourselves!
+- [39] **Daisuke**: The grout spots back in eleven days. That’s why I’m anxious. We need a standard that lasts longer than that.
+- [40] **Ryuji**: @Rin, the firm’s two-hour window is useless if we must pre-tidy. We still spend the full hundred and two minutes. Outsourcing adds cost without removing the time burden.
+- [41] **Mio**: @Ryuji, exactly! And my calendar shows two people are gone weeks at a time. We can’t charge them the same as the heavy users.
+- [42] **Victoria**: @Mio, absence complicates fairness, but my logs show the real damage is expectation mismatch. We need a standard that prevents the "done" argument before it starts.
+- [43] **Rin**: @Mio, that’s unfair! I want a monthly budget so nobody’s wallet gets drained. Who pays for the bleach before we split it?
+- [44] **Daisuke**: @Victoria, the grout returns so fast. A fixed standard for the bathroom would help me stop bracing myself before entering.
+- [45] **Ryuji**: @Daisuke, the grout cycle is a symptom, not the cause. The core issue is that one hundred and two minutes of labor remains regardless of who performs it.
+- [46] **Mio**: @Ryuji, true, but the calendar proves two people vanish for weeks! We can’t split that hundred and two minutes equally. Usage must drive the schedule.
+- [47] **Victoria**: @Mio, usage matters, but my logs show the real fracture is expectation mismatch. We need a standard that prevents the "done" argument before it starts.
+- [48] **Rin**: @Mio, I found the receipts! Supplies cost two thousand three hundred yen monthly, but we buy things twice! We need a shared fund so I don’t pay for everyone’s bleach!
+- [49] **Daisuke**: @Rin, a shared fund sounds fair. But please, let’s agree on the bathroom standard first. I need to know what “done” means so I can stop guessing.
+- [50] **Ryuji**: @Rin, the shared fund solves the money, but not the time. We must accept that the hundred and two minutes are a fixed cost we cannot outsource.
+- [51] **Mio**: @Rin, a shared fund is great! But my data shows usage is wildly uneven. We need a schedule that matches who actually cooks and who is home, not just equal shares.
+- [52] **Victoria**: @Rin, the fund helps, but my logs show the real fracture is expectation mismatch. We need a standard that prevents the "done" argument before it starts.
+- [53] **Rin**: @Victoria, I hear you! But money is real too. Let’s make a shared fund for the two thousand three hundred yen so I stop paying for everyone’s bleach!
+- [54] **Daisuke**: @Victoria, I agree. A clear standard for the bathroom would help me stop bracing myself. I just need to know what “done” means.
+## Round 3
+- [60] **Ryuji**: @Rin, the firm’s terms confirm outsourcing fails. We must pre-tidy, so the hundred and two minutes remain. Option C is financially and temporally inefficient.
+- [61] **Mio**: @Ryuji, agreed! Option C is a no-go. My data shows usage is wildly uneven, so a fixed rota like B feels unfair to the heavy users.
+- [62] **Victoria**: @Mio, I agree C is out. But B’s rigid rotation ignores our mismatched standards. I favor A, letting us define “done” to prevent the friction I saw in the logs.
+- [63] **Rin**: @Victoria, Option A is perfect! I can track my own spending in the shared fund. No more guessing who bought the bleach!
+- [64] **Daisuke**: @Victoria, Option A feels right. If I own the bathroom, I can set the standard myself. No more guessing what “done” means.
+- [65] **Ryuji**: @Mio, Option A’s self-timing risks the hundred and two minutes piling up. I need a fixed schedule to ensure the labor is actually distributed, not just deferred.
+- [66] **Mio**: @Ryuji, fair point! But my data shows heavy users need more work. Option A lets me set my own pace based on actual usage, not a rigid, unfair rotation.
+- [67] **Victoria**: @Ryuji, deferral is a risk, but rigid rotation breeds resentment. I choose A to preserve our relationships, trusting we can manage the timing ourselves.
+- [68] **Rin**: @Ryuji, I get it! But if I own the kitchen, I control the bleach budget! No more surprise bills!
+- [69] **Daisuke**: @Ryuji, I worry about deferral. But if I own the bathroom, I can check the grout myself. I need that control to stop bracing before entering.
+- [70] **Ryuji**: @Mio, deferral is the exact failure mode I measured. Without a fixed cadence, the hundred and two minutes accumulate. I cannot accept A. I vote B.
+- [71] **Mio**: @Ryuji, I hear you, but my data proves equal rotation is unfair! Heavy users need more work. I’m voting A to match effort to actual usage.
+- [72] **Victoria**: @Ryuji, I understand your concern about accumulation. However, my logs show rigid rotation causes the social fractures I fear. I vote A to preserve our relationships.
+- [73] **Rin**: @Ryuji, I vote A! I need to control the bleach budget and stop paying for everyone’s sponges!
+- [74] **Daisuke**: @Ryuji, I understand the risk. But I need to own the bathroom to set the standard. I vote A.
+- [75] **Ryuji**: I stand by my vote for B. The data shows deferral is the failure mode. We need a fixed cadence to prevent the hundred and two minutes from accumulating.
+- [76] **Mio**: I stand by my vote for A! My data proves equal rotation is unfair. I need a system that matches effort to actual usage, not just a rigid schedule.
+- [77] **Victoria**: I stand by my vote for A. My logs show rigid rotation causes the social fractures I fear. I choose A to preserve our relationships.
+- [78] **Rin**: I stand by my vote for A! I need to control the bleach budget and stop paying for everyone’s sponges!
+- [79] **Daisuke**: I stand by my vote for A. Owning the bathroom lets me set the standard. I need that control to stop bracing myself before entering.
+### Vote
+- Ryuji -> B
+- Mio -> A
+- Victoria -> A
+- Rin -> A
+- Daisuke -> A
+## Result
+- adopted: A

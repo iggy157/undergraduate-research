@@ -1,0 +1,73 @@
+# candidate_selection_0013__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about the timeline. We need to see what actually delays our projects.
+- [6] **Yumi**: Agreed. I want to know how much space we lose while work is happening.
+- [7] **George**: The staff are stretched thin. I need to see who is doing the upkeep.
+- [8] **Mizuki**: We should check if the previous projects were actually useful to people.
+- [9] **Benjamin**: The budget figures look nice on paper, but reality is different. I need proof.
+- [10] **Shizue**: @Benjamin, do you have specific numbers in mind?
+- [11] **Yumi**: I think looking at the timetables will show the hidden cost of closure.
+- [12] **George**: I am looking at the staffing posts. It is a quiet crisis.
+- [13] **Mizuki**: Post-occupancy reviews seem like the right place to start for me.
+- [14] **Benjamin**: I will look at the tender records. Inflation is real, even if we ignore it.
+- [15] **Shizue**: Weather is a big factor too. I will check the site diaries.
+- [16] **Yumi**: Booking data might show if we even need more specialist rooms.
+- [17] **George**: I will also look at the technicians' routines. They are doing manual work.
+- [18] **Mizuki**: I will also check the survey findings. Old buildings are tricky.
+- [19] **Benjamin**: I will also look at the renewal reserve. We never plan for replacement.
+- [20] **Shizue**: Let us see what the data says.
+- [21] **Yumi**: I hope it clarifies things.
+- [22] **George**: We must be careful not to overburden the existing team.
+- [23] **Mizuki**: Data is better than guesswork.
+- [24] **Benjamin**: Agreed. Let the numbers speak.
+## Round 2
+- [35] **Shizue**: The weather lost us six weeks. That is a lot of time.
+- [36] **Yumi**: I found that we pay for off-site space when rooms are closed. It is expensive.
+- [37] **George**: The technicians are doing hours of manual checks because the equipment is old.
+- [38] **Mizuki**: The older blocks have hazardous materials. That adds months to any project there.
+- [39] **Benjamin**: Mechanical costs are up twenty percent. And we have no reserve for replacing old AV kit.
+- [40] **Shizue**: @Mizuki, that sounds dangerous. We should avoid the older blocks if possible.
+- [41] **Yumi**: The specialist rooms are mostly empty, but general rooms are always full.
+- [42] **George**: We have unfilled grounds posts, but the new technicians have spare hours.
+- [43] **Mizuki**: Projects that helped everyone rated higher than those for one wing.
+- [44] **Benjamin**: So we are paying more for plant, and we are not planning for the future.
+- [45] **Shizue**: The delivery schedules show comfort projects slip, but inspection ones are on time.
+- [46] **Yumi**: This suggests we need general space, not more specialist suites.
+- [47] **George**: We could use the spare technician hours for the new work.
+- [48] **Mizuki**: A project that benefits the whole campus seems safer.
+- [49] **Benjamin**: If we choose something with high plant costs, the budget will blow up.
+- [50] **Shizue**: We need to be realistic about the weather and the old buildings.
+- [51] **Yumi**: Let us focus on what people actually use.
+- [52] **George**: I agree. We must not ignore the staffing reality.
+- [53] **Mizuki**: The data points to a few clear options.
+- [54] **Benjamin**: Let us see the candidates.
+## Round 3
+- [60] **Shizue**: Option A is outside. Weather will be a problem, but it is not an old block.
+- [61] **Yumi**: Option C is general space. That matches the booking data perfectly.
+- [62] **George**: Option D requires new plant. That is expensive and needs maintenance.
+- [63] **Mizuki**: Option B is specialist. The data says those are idle.
+- [64] **Benjamin**: Option A has low plant costs. Option D has high plant costs.
+- [65] **Shizue**: @Yumi, Option C seems very strong. It is inside, so no weather delay.
+- [66] **Yumi**: Yes, and it solves the shortage of general rooms.
+- [67] **George**: Option C is simple. It does not need new specialized staff.
+- [68] **Mizuki**: Option C benefits everyone. That matches the high ratings.
+- [69] **Benjamin**: Option C has minimal mechanical upgrades. The budget risk is low.
+- [70] **Shizue**: I am leaning towards C. It is safe and useful.
+- [71] **Yumi**: I am definitely voting for C.
+- [72] **George**: I can support C. It is manageable for the current staff.
+- [73] **Mizuki**: C is the logical choice based on the reviews.
+- [74] **Benjamin**: C is the only one that doesn't break the budget or the timeline.
+- [75] **Shizue**: Let us vote for C.
+- [76] **Yumi**: Agreed.
+- [77] **George**: I will vote for C.
+- [78] **Mizuki**: C it is.
+- [79] **Benjamin**: C is the rational choice.
+### Vote
+- Shizue -> C
+- Yumi -> C
+- George -> C
+- Mizuki -> C
+- Benjamin -> C
+## Result
+- adopted: C

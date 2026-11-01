@@ -1,0 +1,73 @@
+# shared_living_0029__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: I need to understand the true cost of our current arrangement before we change anything.
+- [6] **Benjamin**: I’m curious why the silence last month felt heavier than any argument. I want to understand the social friction before we fix the mechanics.
+- [7] **Asuka**: I need to verify the actual condition of the car at handover. If it’s not ready, my morning routine collapses immediately.
+- [8] **Shion**: I refuse to guess. I need the exact fuel receipts and the recorded hours to see who actually drives.
+- [9] **Daisuke**: I just want to know where all the arranging time goes. It feels like it costs more than the fuel.
+- [10] **Minako**: @Shion, your focus on fuel is good, but I worry about the hidden costs. @Benjamin, that social friction is real, but we need data first.
+- [11] **Benjamin**: @Minako, data is vital, but it won’t capture the awkward silences. I’m looking into what other households did to avoid that specific rot.
+- [12] **Asuka**: @Shion, recorded hours are useful, but I need the mechanic’s remarks. If the car is degrading, my morning is ruined regardless of who drives.
+- [13] **Shion**: @Asuka, the mechanic’s notes are secondary. I need the raw numbers first. If the car is dying, we need to know the cost before we blame the driver.
+- [14] **Daisuke**: @Shion, I agree. The hours are the real drain. I’ll check the diary to see where the arranging time actually goes.
+- [15] **Minako**: @Daisuke, arranging time is a real cost. I will check the tax and insurance papers to see the fixed baseline.
+- [16] **Benjamin**: @Minako, fixed costs are the floor, not the ceiling. I’ll examine the spell of checking figures to see if that ritual itself breeds resentment.
+- [17] **Asuka**: @Benjamin, checking figures is administrative, not social. I will examine the state of the car at handover to see if it is actually drivable.
+- [18] **Shion**: @Benjamin, resentment is a symptom, not the cause. I will examine the fuel receipts and the recorded hours to establish the baseline.
+- [19] **Daisuke**: @Asuka, I understand your worry. I will check the diary and the mechanic’s remarks to see if the car’s state causes the extra arranging time.
+- [20] **Minako**: I will look into the tax and insurance papers, and the fuel receipts.
+- [21] **Benjamin**: I will look into what two other car-sharing households said, and the spell of checking each other's figures.
+- [22] **Asuka**: I will look into the state of the car at handover and the mechanic's remarks at the last service.
+- [23] **Shion**: I will look into the fuel receipts and the hours of use recorded in the diary.
+- [24] **Daisuke**: I will look into the hours of use recorded in the diary and the mechanic's remarks at the last service.
+## Round 2
+- [35] **Minako**: The fixed costs are 280,000 yen, but fuel is wildly uneven. Two people bought most of it. We need a fairer split.
+- [36] **Benjamin**: @Minako, the data confirms my fear. The other households soured because asking for favours felt like a debt. We need a system that removes the "ask" entirely.
+- [37] **Asuka**: @Minako, uneven fuel is a symptom. The real issue is the car’s state. I found it twice with the fuel light on and rubbish inside. That is unacceptable.
+- [38] **Shion**: @Minako, the receipts confirm the imbalance. Two people bought over half the fuel. @Asuka, the car’s state is irrelevant if the usage is skewed. We need to price the actual hours, not just the litres.
+- [39] **Daisuke**: @Shion, the diary shows Saturday is triple Tuesday. @Asuka, the mechanic said short runs kill the brakes. That explains the extra arranging time.
+- [40] **Minako**: @Shion, pricing hours is logical, but the fixed 280,000 yen baseline is the real anchor. We must separate that from variable fuel costs to see who is actually subsidizing whom.
+- [41] **Benjamin**: @Minako, separating costs is smart, but the other households proved that even fair math fails if the social dynamic is toxic. We need a rule that makes asking for the car feel like a transaction, not a favour.
+- [42] **Asuka**: @Benjamin, a transaction is only fair if the asset is ready. I found the car twice with the fuel light on and rubbish inside. That is not a social issue; it is a maintenance failure.
+- [43] **Shion**: @Asuka, maintenance is a separate line item. I am calculating the per-hour rate now. If the car is dirty, that is a service fee, not a fuel dispute.
+- [44] **Daisuke**: @Shion, I agree. The short runs mean the car needs more care, which adds to the arranging time. I just want to know if that extra effort is worth it.
+- [45] **Minako**: @Daisuke, the arranging time is real, but it is secondary to the financial imbalance. We must quantify the subsidy before we optimize the workflow.
+- [46] **Benjamin**: @Minako, quantifying the subsidy is necessary, but the other households showed that resentment comes from the *asking*, not the math. We need a booking system that removes the social debt entirely.
+- [47] **Asuka**: @Benjamin, a booking system is useless if the car is unusable. I found it twice with the fuel light on and rubbish inside. That is a maintenance failure, not a social one.
+- [48] **Shion**: @Asuka, you are conflating hygiene with mechanics. I am calculating the per-hour rate. If the car is dirty, that is a service fee, not a fuel dispute.
+- [49] **Daisuke**: @Asuka, I understand the frustration. But the mechanic’s note about short runs explains the wear. We need to address the usage pattern, not just the mess.
+- [50] **Minako**: I will propose a split: fixed costs divided equally, fuel paid by the driver. This removes the subsidy question entirely.
+- [51] **Benjamin**: I support the split, but we must automate the booking. No more asking. The other households proved that the "ask" is where the relationship dies.
+- [52] **Asuka**: I support the split, but only if we mandate a handover checklist. Fuel light on and rubbish inside is a breach of contract, not a minor inconvenience.
+- [53] **Shion**: I support the split. The data proves the current guesswork is unsustainable. We need a strict per-hour rate to reflect the actual usage disparity.
+- [54] **Daisuke**: I support the split. The diary shows the arranging time is the real cost. A clear system would help me stop feeling guilty about the hours.
+## Round 3
+- [60] **Minako**: Option B aligns with the data. It prices actual usage, removing the hidden subsidy. I need to see how the distance tracking works.
+- [61] **Benjamin**: @Minako, Option B is the only one that removes the social debt. If I book it, I own the trip. No favours, no guilt.
+- [62] **Asuka**: Option B is logical, but it ignores the car’s state. If I book it and find rubbish inside, the distance tracking is irrelevant. I need a handover condition guarantee.
+- [63] **Shion**: @Asuka, the handover checklist is a separate operational rule, not a reason to reject the pricing model. Option B is the only one that reflects the data I found.
+- [64] **Daisuke**: @Shion, I agree. Option B seems best. It makes the arranging time clear, so I don’t have to guess who owes what.
+- [65] **Minako**: @Asuka, the handover checklist is a valid operational add-on to Option B. It ensures the asset is ready without changing the pricing logic.
+- [66] **Benjamin**: @Asuka, I agree with Minako. The checklist is a necessary hygiene rule, but it doesn’t change the fact that Option B eliminates the social debt that kills these groups.
+- [67] **Asuka**: @Minako, I accept the checklist as a mandatory add-on. Without it, Option B is just a fancy way to inherit someone else’s mess.
+- [68] **Shion**: @Benjamin, the social debt argument is valid, but the math is primary. Option B is the only model that matches the recorded hours. I am ready to vote.
+- [69] **Daisuke**: @Shion, I agree. The math is clear. Option B removes the guesswork that drains me. I am ready to vote.
+- [70] **Minako**: @Shion, I agree. The math is sound. Option B is the only choice that respects the data and removes the hidden subsidy.
+- [71] **Benjamin**: @Shion, the math is sound, but the social dynamic is the real killer. Option B is the only one that prevents the resentment I saw in those other households.
+- [72] **Asuka**: @Shion, the math is sound, but only if the car is actually usable. I accept Option B, provided the handover checklist is strictly enforced.
+- [73] **Shion**: @Asuka, the checklist is a condition, not a veto. The data is irrefutable. I am voting for Option B.
+- [74] **Daisuke**: @Asuka, I agree. The checklist is essential. Option B makes the hours visible, so I can stop worrying about the arranging time. I am voting for Option B.
+- [75] **Minako**: I am voting for Option B. The data supports it, and it ensures fairness.
+- [76] **Benjamin**: I am voting for Option B. It removes the social debt that poisons these arrangements, and the math is sound.
+- [77] **Asuka**: I am voting for Option B. The pricing is fair, but only if the handover checklist is strictly enforced to ensure the car is actually usable.
+- [78] **Shion**: I am voting for Option B. The data is irrefutable, and this is the only model that reflects the actual usage disparity.
+- [79] **Daisuke**: I am voting for Option B. It makes the hours clear, so I can stop feeling guilty about the arranging time.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Asuka -> B
+- Shion -> B
+- Daisuke -> B
+## Result
+- adopted: B

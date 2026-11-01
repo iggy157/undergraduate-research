@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to be with you all. To ensure our growth remains sustainable and our reporting remains transparent, I would like to examine the independent checks on holdings' reported figures and the appraisal needs at the last audit.
+- [6] **Asuka**: I agree that transparency is key. To understand the actual health of our portfolio, I want to look into account retention through price rises and the profile of the exits and the write-off.
+- [7] **Minako**: I believe we must be mindful of our long-term liquidity. I will look into the reserve accounts and follow-on calls, as well as the terms of last winter's credit line.
+- [8] **Mio**: I'm so excited to get started! I want to see who we can actually get on board, so I'll check the retained recruiters' placement times and the adviser bench and partner board seats!
+- [9] **Toshio**: I will look into the security review time before first deployment and the delivery records of two holdings. I believe it is important to understand the actual timeline from investment to operation.
+- [10] **Servas**: It seems we have a comprehensive spread of interests. @Mio, your enthusiasm is infectious. I believe that by looking at these different angles, we will find a path that brings both prosperity and peace of mind to the fund.
+- [11] **Asuka**: @Servas, I appreciate the sentiment, but let's stay focused on the data. I believe the actual customer behavior and the reality of our past exits will provide the most objective baseline for our next decision.
+- [12] **Minako**: @Asuka, I agree that objective data is essential. However, the baseline is only useful if we have the financial capacity to support the growth that data suggests. We must ensure our capital structure is stable.
+- [13] **Mio**: @Minako, that makes sense! But don't forget that money is only half the battle. We need the right people to actually make things happen, right? I can't wait to see what the recruiters say!
+- [14] **Toshio**: People and capital are indeed important, but they are useless if the product never reaches the customer. I want to see where the bottlenecks actually occur before we commit.
+- [15] **Servas**: Wisdom often lies in the balance between the tangible and the intangible. While we seek data and efficiency, let us not forget that the integrity of our process is what allows us to sleep soundly at night.
+- [16] **Asuka**: @Servas, integrity is a result of accuracy, not a feeling. If our internal narratives don't match the actual retention and exit data, we aren't being honest with ourselves or our investors. That is the only way to sleep soundly.
+- [17] **Minako**: @Asuka, accuracy is indeed the foundation. However, honesty also requires acknowledging our current burn rate and liquidity. If we ignore the financial constraints of our follow-on obligations, we risk failing the very companies we invest in.
+- [18] **Mio**: @Minako, you're so serious! But that's why I'm here to keep things upbeat! If we have a great team and a strong network, I bet we can solve those financial puzzles together!
+- [19] **Toshio**: Optimism is a useful tool, @Mio, but it cannot bypass systemic delays. I am less interested in how we solve puzzles and more interested in why the puzzles exist in the first place.
+- [20] **Servas**: It is heartening to see such passionate debate. Let us now move forward with our investigations. May the truths we uncover guide us toward a choice that serves both our fund and the world.
+- [21] **Asuka**: I look forward to the results. Let's ensure we analyze the findings without bias, focusing on the hard evidence rather than the stories we've told ourselves.
+- [23] **Minako**: I agree. Let us proceed with the investigations and return with the facts. I will be analyzing our financial flexibility carefully to ensure we can sustain this investment.
+- [25] **Mio**: I'm ready! I'll dive into the people side of things and see who's actually available to help us grow. Let's find a winner!
+- [27] **Toshio**: I will examine the data and identify the patterns of delay. I look forward to seeing if the evidence supports the plans or reveals a different reality.
+## Round 2
+- [39] **Servas**: The findings are illuminating. It appears that hardware-based holdings offer a transparency we can verify independently, yet they bring a significant burden to our audit process and quarter-end timelines. We must weigh clarity against complexity.
+- [40] **Asuka**: The data shows a clear divide. Our successful exits were quiet back-office tools, while the write-off involved physical premises and labor. This suggests our returns come from lean software, not operational complexity.
+- [41] **Minako**: The financial reality is concerning. Our holdings are calling follow-on capital at twice the expected rate, and our credit line provides no value against subscription contracts. We are far more liquidity-constrained than we've admitted.
+- [42] **Mio**: @Minako, that sounds scary! But look, I found out that our software partners are totally swamped with board seats, while our logistics experts are just sitting there. We have a huge mismatch in our people power!
+- [43] **Toshio**: The data confirms my suspicions. Security reviews for sensitive data take three times longer than expected, and hardware dependencies create unpredictable delays. We must avoid any candidate whose deployment depends on external physical supply chains or heavy regulation.
+- [44] **Servas**: @Toshio, your observation on delays aligns with my findings on audit burdens. It seems the very things that provide us with verifiable data also create the most friction in our reporting and deployment.
+- [45] **Asuka**: @Servas, that friction is a symptom of a larger problem. We've been celebrating wins that actually came from low-overhead software, while ignoring that operational complexity is where we fail. We need a lean candidate.
+- [46] **Minako**: @Asuka, I agree that lean is better, but we must be specific. Since our credit line doesn't value subscription contracts, a "lean" software company still creates a liquidity risk if it requires heavy follow-on funding.
+- [47] **Mio**: @Minako, I get that, but if we pick something too complex, we'll just spend all our time hunting for people! We can't afford to wait four months for a supervisor while our partners are already exhausted!
+- [48] **Toshio**: @Mio, that is exactly the point. Whether it is a missing controller or a missing supervisor, the result is the same: a stalled deployment. We cannot afford another investment that looks good on paper but fails in execution.
+- [49] **Servas**: It is a delicate balance. We seek the truth of independent verification, yet we must not let the pursuit of that truth paralyze our operations. A path that simplifies our closing process would be a gift to us all.
+- [50] **Asuka**: @Servas, simplicity is not a gift; it is a requirement for survival. If we continue to ignore the fact that our operational complexity leads to write-offs, we are simply waiting for the next failure.
+- [51] **Minako**: @Asuka, survival depends on more than just simplicity; it depends on solvency. If we invest in a lean company that still triggers unexpected follow-on calls, we will deplete our reserves faster than we can replenish them.
+- [52] **Mio**: @Minako, I hear you! But if we pick a company that needs a ton of specialized people we can't find, we'll be stressed out and exhausted! Let's find someone who fits our current team's capacity!
+- [53] **Toshio**: @Mio, capacity is irrelevant if the external environment blocks the path. We must prioritize candidates with a clear, unobstructed route to their first customer. No hardware, no heavy regulation, and no dependency on scarce specialists.
+- [54] **Servas**: It is clear we all seek a different kind of peace. Let us remember that a company which eases our collective burden at the end of the quarter is a company that allows us to lead with wisdom.
+- [55] **Asuka**: @Servas, wisdom comes from facing the data, not easing burdens. We must prioritize a candidate with high customer retention and low operational overhead. Let's stop chasing narratives and choose the most sustainable, lean model.
+- [56] **Minako**: @Asuka, I agree on sustainability, but we must define it by our actual cash flow. We cannot afford a candidate that demands frequent capital injections, regardless of how lean their operations appear. Solvency must be our primary filter.
+- [57] **Mio**: @Minako, I totally agree that we need to be careful with cash! But let's not forget that if we pick a company that needs people we can't find, we'll just waste time and money anyway!
+- [58] **Toshio**: We are circling the same problem from different angles. Whether it is cash, people, or audits, the common enemy is the unexpected delay. I will vote for the candidate with the fewest external dependencies.
+## Round 3
+- [64] **Servas**: Looking at our options, Ledger Bridge seems the most harmonious. It avoids the audit burdens of hardware and the operational friction of physical facilities, offering us a path to a peaceful and transparent quarter-end.
+- [65] **Asuka**: @Servas, I agree. Ledger Bridge is the most logical choice. It is a lean, back-office software tool, which matches the profile of our only successful exits and avoids the operational complexity that led to our write-off.
+- [66] **Minako**: @Asuka, @Servas, I agree. Ledger Bridge is the safest choice for our liquidity. Unlike Harvest Sensor or Fabric Loop, it avoids hardware and physical assets that drain reserves through unexpected follow-on calls.
+- [67] **Mio**: @Minako, @Asuka, @Servas, I'm with you! Ledger Bridge is perfect because it doesn't need those hard-to-find field supervisors or logistics crews. Our software partners are busy, but this is way better than waiting months for people!
+- [68] **Toshio**: Ledger Bridge is the only viable option. Clinic Scheduler faces heavy regulation and security delays, while Harvest Sensor and Fabric Loop rely on physical supply chains. Ledger Bridge has the clearest, most unobstructed path to deployment.
+- [69] **Servas**: It is a rare and beautiful thing when we find such complete alignment. By choosing Ledger Bridge, we protect our time, our resources, and our peace of mind. I am content to move to the vote.
+- [70] **Asuka**: @Servas, alignment is efficient, but let's be clear: we are choosing Ledger Bridge because it is the only candidate that doesn't repeat the mistakes of our past failures. It is the only logical, data-driven decision.
+- [71] **Minako**: @Asuka, I agree. Beyond the logic of past failures, it is the only option that doesn't threaten our current solvency. It minimizes the risk of sudden capital calls that we simply cannot afford right now.
+- [72] **Mio**: @Minako, exactly! And it's just so much more exciting to pick something we can actually support without everyone getting burnt out. I'm totally on board with Ledger Bridge! Let's do this!
+- [73] **Toshio**: The consensus is based on a shared desire to avoid risk. Ledger Bridge eliminates the variables that cause systemic delays. I am satisfied with this choice and ready to vote.
+- [74] **Servas**: Let us proceed with a spirit of unity. When we align our goals with the reality of our capacities, we create a foundation for true success. I am ready to cast my vote for Ledger Bridge.
+- [75] **Asuka**: I have no reason to deviate. Ledger Bridge is the only candidate that aligns with the evidence of our successful exits and avoids the operational pitfalls that caused our write-off. I vote for Ledger Bridge.
+- [76] **Minako**: I concur. Ledger Bridge is the only candidate that respects our current liquidity constraints and minimizes the risk of unsustainable follow-on calls. I vote for Ledger Bridge.
+- [77] **Mio**: I'm so happy we all agree! It's going to be great to invest in something that doesn't make us scramble for people we can't find. I vote for Ledger Bridge!
+- [78] **Toshio**: The logic is sound. Ledger Bridge avoids the regulatory hurdles of medical data and the physical dependencies of hardware and logistics. It is the only choice that ensures a predictable timeline. I vote for Ledger Bridge.
+- [79] **Servas**: It is a blessing to reach this conclusion together. May this investment bring not only growth to our fund, but a renewed sense of balance and clarity to our work. I cast my final vote for Ledger Bridge.
+- [80] **Asuka**: The decision is final. Ledger Bridge is the only option that prioritizes actual returns over optimistic narratives. I cast my final vote for Ledger Bridge.
+- [81] **Minako**: I cast my final vote for Ledger Bridge. It is the only choice that ensures we maintain our solvency and protects the fund from unpredictable capital drains.
+- [82] **Mio**: Yay! I'm so glad we're all on the same page! Let's go with the one that keeps us all happy and not too stressed. I cast my final vote for Ledger Bridge!
+- [83] **Toshio**: I cast my final vote for Ledger Bridge. It is the only candidate that removes the external obstacles and systemic delays that have plagued our previous cohorts.
+### Vote
+- Servas -> D
+- Asuka -> D
+- Minako -> D
+- Mio -> D
+- Toshio -> D
+## Result
+- adopted: D

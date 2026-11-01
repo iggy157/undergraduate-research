@@ -1,0 +1,73 @@
+# shared_living_0018__single-online (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I pulled the fortnight's tally of use by person. The data shows the two nearest the door used it eleven times, while the rest of us combined only four.
+- [6] **Jonathan**: That imbalance suggests the current setup favors proximity over actual need. We should look at the partition wall to see if sound is driving that usage.
+- [7] **May**: @Ryuji, that tally is useful, but I’m more worried about the hidden costs. I’ll check the invoices for outside hire to see what we’re actually paying.
+- [8] **Shunichi**: I’ll check the quotes for the two fit-outs. We need hard numbers before we agree to anything, not just impressions.
+- [9] **Servas**: I’ll look into the partition wall and the crumbs at the desks. Sound and mess are the real complaints, not principle.
+- [10] **Ryuji**: @Shunichi, your focus on the quotes is correct. We need to know the exact cost of the screen and the hob before we can compare them fairly.
+- [11] **Jonathan**: @May, the invoices will show the scale, but I’m curious about the daily friction. I’ll check the round trip for a hot lunch to see how much time we lose.
+- [12] **May**: @Jonathan, twenty-five minutes is a lot. I’ll check the facilities callouts to see if the equipment is actually failing or just being misused.
+- [13] **Shunichi**: @May, callouts are maintenance, not usage. I’m sticking with the quotes. We need to know the capital cost before we debate the hourly rate.
+- [14] **Servas**: @Shunichi, capital costs matter, but so does the daily reality. I’ll check the final clear-out of the old fridge to see who actually maintains the space.
+- [15] **Ryuji**: @Ryuji, you’ve already got the usage data. I need to know if the physical barrier is the problem. I’ll check the partition wall to the office.
+- [16] **Jonathan**: @Ryuji, the wall is a physical barrier, but the silence is a social one. I’ll check where the last awkward conversation happened to understand the human cost.
+- [17] **May**: @Shunichi, you’re right about the capital costs. I’ll check the round trip for a hot lunch to see how much time we’re actually losing daily.
+- [18] **Shunichi**: @May, the lunch trip is a time cost, not a capital one. I’m sticking with the quotes. We need the fit-out numbers before we debate daily habits.
+- [19] **Servas**: @Ryuji, the wall is just plasterboard. I’ll check the unplanned talk since the refit to see if we’ve lost our chance to connect.
+- [20] **Ryuji**: @Ryuji, I’ve already covered the usage tally. I’ll check the facilities callouts to see if equipment failures are driving the complaints.
+- [21] **Jonathan**: @May, the lunch trip is a time cost, not a capital one. I’m sticking with the quotes. We need the fit-out numbers before we debate daily habits.
+- [22] **May**: @Shunichi, you’re right, I’ll stick with the invoices. I need to see the actual money leaving our pockets before we talk about hypotheticals.
+- [23] **Shunichi**: @Jonathan, you’re repeating my point. I’m done.
+- [25] **Servas**: I’ll check the unplanned talk since the refit. We need to know if we’ve lost our chance to connect.
+## Round 2
+- [36] **Ryuji**: The wall is single plasterboard. I can hear both sides of a call from my desk. Sound is the real barrier, not the door.
+- [37] **Jonathan**: The last awkward conversation happened across the desks, in front of everyone. We went quiet for a fortnight. We need a place to speak without an audience.
+- [38] **May**: The invoices show sixty-eight thousand yen paid out last year. We are bleeding money for space we don't even use properly.
+- [39] **Shunichi**: The quotes are in. Screen and table cost 141,000 yen. The kitchen setup is 96,000. I want the paper before we pick a side.
+- [40] **Servas**: Since the sofa went in, unplanned talk only happens by the printer. The two who started in spring still barely know the rest of us.
+- [41] **Ryuji**: @Shunichi, the 141,000 yen for the meeting space is high, but the 96,000 for the kitchen is lower. However, the plasterboard wall means sound leaks either way.
+- [42] **Jonathan**: @Ryuji, the wall is thin, but the real issue is the lack of privacy for difficult talks. We need a space where we can speak without an audience.
+- [43] **May**: @May, sixty-eight thousand yen is a lot, but the lunch trip takes twenty-five minutes. We are paying for time we don't have.
+- [44] **Shunichi**: @May, the lunch trip is a time cost, not a capital one. I’m sticking with the quotes. We need the fit-out numbers before we debate daily habits.
+- [45] **Servas**: @Jonathan, the printer is a poor substitute for a room. We need a place where difficult things can be said without an audience.
+- [46] **Ryuji**: @Servas, the printer is a dead end. If we choose the kitchen, the noise will leak through that plasterboard wall anyway. We need to accept that trade-off.
+- [47] **Jonathan**: @Ryuji, you’re right about the noise, but a kitchen doesn’t solve the silence. We need a room where hard conversations can happen without the whole office listening in.
+- [48] **May**: @Shunichi, the 96,000 yen is cheaper, but the 25-minute lunch trip is a daily tax. We need to weigh the capital cost against the time we lose every day.
+- [49] **Shunichi**: @May, I hear you, but time is not money in the ledger. I need the capital figures settled before we start calculating your daily commute.
+- [50] **Servas**: @May, the twenty-five minutes is real, but the 96,000 yen is a one-time hit. I’d rather we stop paying for space we don’t use properly.
+- [51] **Ryuji**: @Shunichi, the capital cost is settled. The real issue is that the plasterboard wall makes any private conversation impossible. We need to address the sound leakage before we choose a function.
+- [52] **Jonathan**: @Ryuji, the wall is a fact, but the silence is the wound. We need a room where hard things can be said without an audience.
+- [53] **May**: @Shunichi, you’re ignoring the daily drain. Twenty-five minutes a day is hours lost. I need that time cost weighed against your capital figures.
+- [54] **Shunichi**: @May, I am not ignoring it. I am refusing to let a commute dictate a capital expenditure. The quotes are the only hard facts we have.
+- [55] **Servas**: @Shunichi, the ledger is cold, but the room is warm. We must choose a purpose that heals the silence, not just balances the books.
+## Round 3
+- [61] **Ryuji**: @Shunichi, the quotes are clear. I vote for the Meeting Space. The 141,000 yen buys us a screen and a table, which is what we actually need for work.
+- [62] **Jonathan**: @Ryuji, the screen is useful, but the table is where the silence breaks. I vote for the Meeting Space. We need a place to speak without an audience.
+- [63] **May**: @Shunichi, I vote for the Open Kitchen. The 96,000 yen is cheaper, and it saves us the twenty-five minutes we waste walking for lunch every day.
+- [64] **Shunichi**: @May, the kitchen is cheaper, but the plasterboard wall means the noise leaks into the office. I vote for the Meeting Space. The screen and table are the only hard assets we can justify.
+- [65] **Servas**: @Jonathan, the table is where the silence breaks. I vote for the Meeting Space. We need a place to speak without an audience.
+- [66] **Ryuji**: @May, the kitchen is cheaper, but the plasterboard wall means the noise leaks into the office. I vote for the Meeting Space. The screen and table are the only hard assets we can justify.
+- [67] **Jonathan**: @May, the kitchen is cheaper, but the plasterboard wall means the noise leaks into the office. I vote for the Meeting Space. The screen and table are the only hard assets we can justify.
+- [68] **May**: @Ryuji, you’re ignoring the daily drain. Twenty-five minutes a day is hours lost. I need that time cost weighed against your capital figures.
+- [69] **Shunichi**: @May, the ledger does not balance with feelings. I stand by my vote for the Meeting Space. The capital figures are the only reality we can sign.
+- [70] **Servas**: @May, the ledger is cold, but the room is warm. I stand with the others. I vote for the Meeting Space. We need a place to speak without an audience.
+- [71] **Ryuji**: @May, the capital figures are settled. The screen and table are the only hard assets we can justify. I stand by my vote for the Meeting Space.
+- [72] **Jonathan**: @May, the capital figures are settled. The screen and table are the only hard assets we can justify. I stand by my vote for the Meeting Space.
+- [73] **May**: @Ryuji, I stand by my vote for the Open Kitchen. The daily time savings are a tangible benefit you are ignoring.
+- [74] **Shunichi**: @May, the ledger does not balance with feelings. I stand by my vote for the Meeting Space. The capital figures are the only reality we can sign.
+- [75] **Servas**: @May, the ledger is cold, but the room is warm. I stand with the others. I vote for the Meeting Space. We need a place to speak without an audience.
+- [76] **Ryuji**: @May, the vote is five to one. The Meeting Space is adopted. We will proceed with the fit-out.
+- [77] **Jonathan**: @Ryuji, agreed. The Meeting Space is adopted. We finally have a place to speak without an audience.
+- [78] **May**: @Ryuji, five to one. I accept the decision, but I will be tracking those hours. The ledger may win, but the time cost remains.
+- [79] **Shunichi**: @May, noted. The figures are signed. The room is settled. I will file the quotes and close this out.
+- [80] **Servas**: @May, the ledger is closed, but the door remains open. May the new table bring us the words we have been too quiet to say.
+### Vote
+- Ryuji -> C
+- Jonathan -> C
+- May -> A
+- Shunichi -> C
+- Servas -> C
+## Result
+- adopted: C

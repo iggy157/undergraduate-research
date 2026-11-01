@@ -1,0 +1,73 @@
+# shared_living_0016__single-batch (shared_living)
+
+## Round 1
+- [5] **Minato**: I worry about the person who has to chase the money next year.
+- [6] **Ryuji**: We need to know the actual costs before we set any figure.
+- [7] **Minako**: I want to keep the door open for new people to drift in.
+- [8] **May**: The evenings feel hesitant lately. I want to fix that.
+- [9] **Shunichi**: I am curious why the same faces are always there.
+- [10] **Minato**: @Ryuji, do you have a number in mind for the base cost?
+- [11] **Ryuji**: @Minato, not yet. I need to see where the money actually goes.
+- [12] **Minako**: @May, I agree. If it feels like a burden, people will leave.
+- [13] **May**: @Minako, exactly. It should feel like belonging, not a transaction.
+- [14] **Shunichi**: @Ryuji, I suspect the costs are skewed by who actually shows up.
+- [15] **Minato**: I will check the treasurer's logs to see the workload.
+- [16] **Ryuji**: I will look at the ledger to see the fixed costs.
+- [17] **Minako**: I will check the taster forms to see why people don't join.
+- [18] **May**: I will look at the turnout since the summer outings.
+- [19] **Shunichi**: I will check the sign-in sheets to see the attendance split.
+- [20] **Minato**: Also, I will check the bank statements for renewal delays.
+- [21] **Ryuji**: And I will check the mid-year joiner records for calculation hassle.
+- [22] **Minako**: And I will check the winter social feedback from quieter members.
+- [23] **May**: And I will check the rota against the attendance record.
+- [24] **Shunichi**: And I will check the minute books from the named-grade years.
+## Round 2
+- [35] **Minato**: The treasurer logged six hours a month chasing individual payments.
+- [36] **Ryuji**: The ledger shows seventy percent of costs are fixed, regardless of turnout.
+- [37] **Minako**: Nine tasters said they wouldn't commit to a whole year at once.
+- [38] **May**: Turnout fell by a third after we added door charges last summer.
+- [39] **Shunichi**: A quarter of members account for two-thirds of all attendances.
+- [40] **Minato**: @Ryuji, if costs are fixed, why do we charge per event?
+- [41] **Ryuji**: @Minato, because the fixed costs don't cover the variable ones.
+- [42] **Minako**: @May, that explains the hesitation. People feel punished for missing out.
+- [43] **May**: @Minako, yes. The door charge made the evenings feel exclusive.
+- [44] **Shunichi**: @Ryuji, so the heavy users are subsidizing the light ones?
+- [45] **Minato**: I am worried about the administrative burden of tracking events.
+- [46] **Ryuji**: I am worried about setting a fee that is too low for the fixed costs.
+- [47] **Minako**: I am worried about scaring off the people who just want to drift in.
+- [48] **May**: I am worried about the social cost of making people count their steps.
+- [49] **Shunichi**: I am worried about the fairness of the current invisible subsidy.
+- [50] **Minato**: A flat fee seems simplest for the books, but is it fair?
+- [51] **Ryuji**: A flat fee covers the fixed costs, but ignores the variable ones.
+- [52] **Minako**: A tiered system might let people choose their level of commitment.
+- [53] **May**: Activity-based charging feels too transactional for a social club.
+- [54] **Shunichi**: Tiered membership might formalize the difference between heavy and light users.
+## Round 3
+- [60] **Minato**: Option A is the easiest to manage, but it feels unfair to light users.
+- [61] **Ryuji**: Option A is the only one that covers the fixed costs reliably.
+- [62] **Minako**: Option C might work, but it feels like creating grades again.
+- [63] **May**: Option B is what we tried, and it killed the vibe.
+- [64] **Shunichi**: Option C is the most honest about who is actually using the club.
+- [65] **Minato**: @Ryuji, but the treasurer's hours were high even with a flat fee?
+- [66] **Ryuji**: @Minato, no, the hours were high because of the mid-year joiners.
+- [67] **Minako**: @Shunichi, the minute books show grades caused friction. I don't want that.
+- [68] **May**: @Minako, I agree. We want to feel like we belong, not like we are ranked.
+- [69] **Shunichi**: @May, but the current system is invisible, not fair.
+- [70] **Minato**: I am leaning towards A, but I need to know if the fee is high enough.
+- [71] **Ryuji**: I am leaning towards A, because the fixed costs are the main issue.
+- [72] **Minako**: I am leaning towards C, but I am worried about the social impact.
+- [73] **May**: I am leaning towards A, because B was a disaster.
+- [74] **Shunichi**: I am leaning towards C, because it is the most transparent.
+- [75] **Minato**: If we go with A, we need to set the fee carefully.
+- [76] **Ryuji**: Yes, and we need to handle mid-year joiners better.
+- [77] **Minako**: If we go with C, we need to make sure the levels are clear.
+- [78] **May**: I think A is the safest bet for keeping the social vibe.
+- [79] **Shunichi**: I think C is the most just, but I understand the hesitation.
+### Vote
+- Minato -> A
+- Ryuji -> A
+- Minako -> C
+- May -> A
+- Shunichi -> C
+## Result
+- adopted: A

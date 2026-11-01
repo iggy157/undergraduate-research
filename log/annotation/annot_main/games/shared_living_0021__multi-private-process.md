@@ -1,0 +1,73 @@
+# shared_living_0021__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to be careful about the budget. A flat fee sounds simple, but hidden costs can create unfair burdens. Let's ensure we look into the actual financial breakdown and booking terms before deciding.
+- [6] **Shion**: Budget is important, but efficiency is paramount. If the environment is poor, the training is wasted. We should prioritize the actual living conditions and the daily schedule to ensure everyone performs at their peak.
+- [7] **Minato**: I agree with both of you. I also think we should consider how much work it takes to organize everything. I don't want anyone to feel too overwhelmed by the preparations. What do you all think?
+- [8] **Misaki**: I agree. We need a destination that is sustainable both financially and logistically. To avoid any surprises, we should be very precise about the costs and the booking process this time.
+- [9] **Takumi**: Costs and schedules are fine, but we can't forget the people. If we just pick a cheap place, we'll end up in the same cliques as last year. We need a spot that actually forces us to bond.
+- [10] **Asuka**: @Takumi, bonding is important, but not at the cost of financial instability. We need a clear picture of the total expenditure. I suggest we divide the research to cover costs, logistics, and the facility's quality.
+- [11] **Shion**: @Asuka, a logical division is best. I'll focus on the actual environment and the daily flow. If we don't secure a place where people can actually rest, the entire camp becomes a failure regardless of the cost.
+- [12] **Minato**: That sounds like a good plan. I'm curious about how the booking process works and who has to do the work. I want to make sure the burden is shared and not too heavy for anyone.
+- [13] **Misaki**: I'll handle the financial side. I want to see the actual spending patterns and the terms for renting entire buildings to ensure we don't have any unexpected deficits this year.
+- [14] **Takumi**: @Misaki, @Asuka, you guys are too focused on the money. If we don't fix the atmosphere, the camp is a waste. I'll look into how we can actually get people talking and mixing.
+- [15] **Asuka**: @Takumi, atmosphere is a result of a well-managed environment. If the budget is unstable, stress will ruin the mood. I will look into the quoting terms for whole-building lets and the prefecture rate sheet for publicly run beds.
+- [16] **Shion**: @Asuka, your focus is narrow. I will look into the vacation timetable for the club's own hall and the attendance sheets for the away camps to analyze the actual flow and past failures.
+- [17] **Minato**: I'll look into the lottery and application for public group bookings, and the canteen closure and last year's cooking duty. I want to see how much effort the booking and meal planning actually take.
+- [18] **Misaki**: I will look into the group transport in three years of receipts and the accounts from two clubs that went inland. I want to see the actual spending history to prevent any budget gaps.
+- [19] **Takumi**: @Shion, @Minato, you're missing the point. I'll check what the seniors say about year-groups mixing and the membership list against first-train times to see who's actually coming and how to break those cliques.
+- [20] **Asuka**: The division of tasks is clear. By analyzing the rate sheets and quoting terms, I can identify potential financial risks. Let's proceed with this research so we can make a logical, fair decision based on the data.
+- [21] **Shion**: Indeed. Data is the only way to avoid the inefficiency of last year. I'll analyze the schedules and attendance to ensure we don't repeat the same mistakes. I look forward to seeing if your financial focus yields anything useful.
+- [22] **Minato**: I hope we can find a place that is easy for everyone to manage. I'll do my best to find out about the workload so we can all enjoy the camp together.
+- [23] **Misaki**: I'll focus on the actual expenditures. It's better to be overly cautious now than to deal with a deficit later. I'll report back once I've analyzed the receipts and the other clubs' accounts.
+- [24] **Takumi**: Fine. You guys handle the spreadsheets and the paperwork. I'll focus on the people. If we don't fix the divide between the year-groups, this camp is just a fancy trip for cliques. I'm on it.
+## Round 2
+- [35] **Asuka**: My research reveals a significant risk with whole-building lets: deposits are non-refundable and based on a fixed headcount. If someone cancels late, the remaining members must cover the cost. We need a system to handle such liabilities.
+- [36] **Shion**: @Asuka, your financial risk is a symptom of a larger problem. My research shows a worrying trend of attrition; a fifth of members didn't even attend last time. If we book based on current numbers, we're inviting a deficit.
+- [37] **Minato**: I found out that public group bookings are a lot of work. The application is nine pages long and has to be redone if dates change. Also, cooking for ourselves takes hours every day. We should avoid that.
+- [38] **Misaki**: @Minato, I agree that we should avoid unnecessary burdens. My research shows that transport costs fluctuate wildly depending on distance. If we go too far, it could easily consume nearly 40% of our budget, risking another deficit.
+- [39] **Takumi**: @Shion, that attrition is exactly why we need to change things. My research shows that bonding only happens when everyone sleeps in the same place. If we don't prioritize that, people will keep skipping.
+- [40] **Asuka**: @Takumi, bonding is irrelevant if the cost becomes a burden for those who actually show up. @Shion, your data on attrition confirms my fear; a non-refundable deposit for a whole building is a dangerous gamble.
+- [41] **Shion**: @Asuka, exactly. It's a gamble with poor odds. Furthermore, using our own hall is out of the question; the schedule is too fragmented. We cannot expect peak performance if training is split between dawn and midnight.
+- [42] **Minato**: @Asuka, @Shion, if the booking process is that stressful and the deposits are risky, maybe we should look for something simpler? I'm worried that whoever handles the paperwork will be exhausted before the camp even starts.
+- [43] **Misaki**: @Minato, simplicity is key, but financial stability is non-negotiable. If we choose a distant location, the transport costs alone could bankrupt us. We must prioritize a destination that keeps travel expenses low and predictable.
+- [44] **Takumi**: @Misaki, you're just talking about money again. If a third of the club can't even make it by 9 AM without a bed, we need a place where everyone stays together. That's how we stop the attrition @Shion mentioned.
+- [45] **Asuka**: @Takumi, staying together is a goal, but not at the cost of financial instability. @Minato, @Misaki, given the risks of non-refundable deposits and high transport costs, a public facility with a flat per-student rate seems the most logical and fair option.
+- [46] **Shion**: @Asuka, a flat rate is logical, but only if the facility is adequate. If we prioritize cost over quality, we risk another camp where half the group is exhausted. We need a place that guarantees proper rest.
+- [47] **Minato**: @Asuka, but public facilities have that nine-page application and the lottery. That sounds like a huge burden for the organizers. Can we find a place that is both affordable and easy to book?
+- [48] **Misaki**: @Minato, the administrative burden is a concern, but a budget deficit is a crisis. If we choose a private let to save time, we risk non-refundable losses. A local, public facility minimizes both transport costs and financial risk.
+- [49] **Takumi**: @Misaki, @Asuka, you're both ignoring the human cost. If we just pick a "safe" public facility that's a pain to book, we're just checking boxes. We need a place that actually brings us together.
+- [50] **Asuka**: @Takumi, the "human cost" includes the resentment members feel when they are forced to pay for someone else's cancellation. A public facility's per-person rate is the only way to ensure a fair and transparent distribution of costs.
+- [51] **Shion**: @Asuka, fairness is a baseline, not a goal. If we settle for a public facility just to avoid financial risk, we might end up with subpar sleeping conditions again. We must ensure the facility actually supports recovery.
+- [52] **Minato**: I'm really worried about the organizers. If we pick a public facility, the lottery and that long application sound like a nightmare. Can't we find a place that's fair and comfortable, but doesn't require so much paperwork?
+- [53] **Misaki**: @Minato, I understand the paperwork is daunting, but it is a one-time effort. A budget gap, however, is a long-term burden on the club. We cannot afford to gamble with our funds again. Local and public is the safest path.
+- [54] **Takumi**: @Misaki, @Asuka, you're so scared of a deficit that you're willing to let the club fall apart. If we don't prioritize a place where everyone stays together, the attrition will just get worse. That's the real crisis.
+## Round 3
+- [60] **Asuka**: Option C is out of the question. A whole-building let with non-refundable deposits and high transport costs is a financial gamble we cannot afford, especially given the attrition rates @Shion mentioned.
+- [61] **Shion**: @Asuka, I agree. Option C is a logistical disaster. Option B is equally flawed; as I found, the hall's schedule is fragmented. Training at dawn and midnight is a recipe for exhaustion and failure.
+- [62] **Minato**: @Shion, @Asuka, I'm worried about Option A too. The municipal system means that nine-page application and the lottery. It's a huge burden on the organizers. Is there any way to make Option B work without the fragmented schedule?
+- [63] **Misaki**: @Minato, Option B is too unpredictable. Arranging separate accommodation for some members creates inconsistent costs and complicates the budget. Option A is the only choice that ensures financial transparency and minimizes transport expenses.
+- [64] **Takumi**: @Misaki, @Minato, you're missing the point. Option B splits us up, and Option C is too risky. Option A is the only one where everyone sleeps in shared dorms, which is the only way to actually break the cliques.
+- [65] **Asuka**: @Takumi, it is rare that we agree, but for once, we do. Option A is the only choice that balances fair cost distribution, manageable transport, and the shared environment you desire. The administrative effort is a small price for stability.
+- [66] **Shion**: @Asuka, @Takumi, you've reached a consensus on the wrong grounds. While Option A is logically superior to the others, we must verify the dormitory quality. If the beds are subpar, we're just paying for another failure. Still, it's the only viable choice.
+- [67] **Minato**: @Asuka, @Shion, I'm still worried about the organizers. A nine-page application and a lottery are so stressful. But if everyone else thinks Option A is the only way, I'll agree, as long as we all help with the paperwork.
+- [68] **Misaki**: @Minato, if we divide the paperwork, it will be manageable. Option A is the only one that prevents a budget crisis and keeps transport costs low. It is the most responsible choice for the club's future.
+- [69] **Takumi**: @Minato, if we all pitch in, the paperwork is nothing. The real win is that everyone stays together in those dorms. That's how we actually fix this club. I'm voting for Option A.
+- [70] **Asuka**: @Minato, @Misaki, dividing the administrative load is a logical solution. Option A eliminates the risk of non-refundable deposits and ensures a fair, per-person cost. It is the only choice that is financially sustainable and equitable for all members.
+- [71] **Shion**: @Asuka, your focus on equity is noted. While I still have reservations about the quality of public dormitories, Option A is the only one that doesn't actively sabotage our training schedule or bankrupt the club. It is the most rational choice.
+- [72] **Minato**: I'm glad we're all agreeing to help with the work. If we share the burden of the application and the lottery, it won't be too hard on any one person. I'll vote for Option A.
+- [73] **Misaki**: @Minato, that's the right spirit. By choosing Option A, we eliminate the risk of hidden costs and transport spikes. It is the only option that guarantees we won't end up with another deficit. I'm voting for Option A.
+- [74] **Takumi**: @Asuka, @Shion, @Minato, @Misaki, it's about time we focused on what actually matters. Option A is the only way to get everyone under one roof and stop the cliques. I'm voting for Option A.
+- [75] **Asuka**: The consensus is clear. Option A is the only choice that ensures financial fairness, minimizes risk, and provides the shared environment we need. I vote for Option A.
+- [76] **Shion**: Despite my concerns regarding the quality of public beds, the other options are logically indefensible. Option A is the only choice that doesn't compromise our schedule or our budget. I vote for Option A.
+- [77] **Minato**: I'm happy we've decided to support each other with the preparations. As long as the workload is shared, I'm okay with this. I vote for Option A.
+- [78] **Misaki**: I vote for Option A. It is the only choice that provides the financial security and transparency we need to ensure the club's accounts remain stable. It is the most responsible decision for everyone involved.
+- [79] **Takumi**: I vote for Option A. We're finally putting the people first. Let's make sure this camp actually brings us together instead of just being another trip where we stay in our own little groups.
+### Vote
+- Asuka -> A
+- Shion -> A
+- Minato -> A
+- Misaki -> A
+- Takumi -> A
+## Result
+- adopted: A

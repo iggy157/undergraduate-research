@@ -1,0 +1,73 @@
+# shared_living_0014__single-batch (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I need to understand why we feel crowded or alone.
+- [6] **Shizue**: I worry about who pays for what when the bill comes.
+- [7] **Minato**: I need to know about the bathrooms and meal times.
+- [8] **Jonathan**: I hate losing days to travel and waiting.
+- [9] **Midori**: I want to know the total cost before we commit.
+- [10] **Mizuki**: @Minato, do you think the room layout affects our mood?
+- [11] **Shizue**: @Midori, I agree, clarity is key to avoiding arguments.
+- [12] **Minato**: @Mizuki, yes, I just need a place to sit that isn't a bed.
+- [13] **Jonathan**: @Shizue, I am looking at the travel times to see if it's worth it.
+- [14] **Midori**: @Jonathan, I will check the pricing to see if it fits our budget.
+- [15] **Mizuki**: I will look into the time alone in the shared-house year.
+- [16] **Shizue**: I will check what separately booked rooms cost last time.
+- [17] **Minato**: I will look at the bathing hours and bathroom provision.
+- [18] **Jonathan**: I will check the ferry sailings and train time.
+- [19] **Midori**: I will look at the pricing of offshore houses let whole.
+- [20] **Mizuki**: Also, I will check how last year's days ran.
+- [21] **Shizue**: And I will look at the all-in rates against meals bought separately.
+- [22] **Minato**: I will also check the inn mealtimes and room arrangements.
+- [23] **Jonathan**: I will also check getting around by train and bus.
+- [24] **Midori**: I will also check the valley inn rates versus urban beds.
+## Round 2
+- [35] **Mizuki**: Last year we barely spoke. The shared house year had no privacy.
+- [36] **Shizue**: Separate rooms cost 8,000 yen more. All-in rates are unfair to light eaters.
+- [37] **Minato**: One bathroom for the whole building. Dinner at six, breakfast at half seven.
+- [38] **Jonathan**: The ferry takes two days. The train is only ninety minutes.
+- [39] **Midori**: Island houses are 5,400 yen a head. Valley inns are 17,000 yen all-in.
+- [40] **Mizuki**: @Minato, six o'clock dinner sounds strict. Do you have flexibility?
+- [41] **Shizue**: @Midori, 17,000 yen is high, but it includes meals. Is that better?
+- [42] **Minato**: @Mizuki, I am worried about the cold water and the single bathroom.
+- [43] **Jonathan**: @Shizue, I prefer the train. Two days on a ferry is too long.
+- [44] **Midori**: @Jonathan, the island is cheaper, but the travel time is a risk.
+- [45] **Mizuki**: The city option lets us drift apart, which I want to avoid.
+- [46] **Shizue**: The island bill is one lump sum. That is easier to divide fairly.
+- [47] **Minato**: The inn has a timetable. I need to know if I can sleep in.
+- [48] **Jonathan**: The city has trains every few minutes. No waiting for buses.
+- [49] **Midori**: The valley inn is expensive, but the cost is predictable.
+- [50] **Mizuki**: I think we need a place where we are together but not forced.
+- [51] **Shizue**: I agree. The island house keeps us in one building.
+- [52] **Minato**: I am hesitant about the bathroom situation. It sounds stressful.
+- [53] **Jonathan**: The city feels too fragmented. I want us to move together.
+- [54] **Midori**: The island seems like the best balance of cost and togetherness.
+## Round 3
+- [60] **Mizuki**: Option A is the inn. Option B is the island. Option C is the city.
+- [61] **Shizue**: Option B has one bill. That solves my worry about fairness.
+- [62] **Minato**: Option A has a strict schedule. Option B has one bathroom.
+- [63] **Jonathan**: Option C is too much alone time. Option B is two days travel.
+- [64] **Midori**: Option A is 17,000 yen. Option B is 5,400 yen. Option C is variable.
+- [65] **Mizuki**: @Minato, can you handle the island bathroom? It is the main risk.
+- [66] **Shizue**: @Mizuki, I think the shared house is worth it for the bonding.
+- [67] **Minato**: @Mizuki, I am worried, but I want to be with you all.
+- [68] **Jonathan**: @Shizue, the ferry is long, but the island is quiet. I like that.
+- [69] **Midori**: @Jonathan, the cost difference is huge. The island is much cheaper.
+- [70] **Mizuki**: Option B keeps us together. Option C lets us drift. Option A is rigid.
+- [71] **Shizue**: Option B is the only one where the money is clear.
+- [72] **Minato**: Option A is too strict. Option C is too lonely. Option B is a compromise.
+- [73] **Jonathan**: Option B is the best for peace, despite the travel.
+- [74] **Midori**: Option B is the most affordable and keeps us in one place.
+- [75] **Mizuki**: I am voting for B.
+- [76] **Shizue**: I am voting for B.
+- [77] **Minato**: I am voting for B, reluctantly.
+- [78] **Jonathan**: I am voting for B.
+- [79] **Midori**: I am voting for B.
+### Vote
+- Mizuki -> B
+- Shizue -> B
+- Minato -> B
+- Jonathan -> B
+- Midori -> B
+## Result
+- adopted: B

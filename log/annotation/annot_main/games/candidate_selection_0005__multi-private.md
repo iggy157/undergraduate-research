@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: Hi everyone! I'm so excited to help pick a new service! I want to make sure whatever we choose is really reliable for everyone. Let's make this great!
+- [6] **Benjamin**: It is a pleasure to be here. I agree that reliability is key, though I suspect the most reliable data often hides in plain sight, waiting for someone to actually read it. I look forward to our deliberation.
+- [7] **Shion**: Let's keep this efficient. I'm interested in seeing if we actually have the capacity to handle a new project without just piling more work onto the same few people. Logic should guide our choice.
+- [8] **Minako**: I agree with Shion. We need a sustainable plan. I want to ensure the financial structure of the expansion is sound so we don't run into shortages halfway through the implementation.
+- [9] **Daisuke**: Um... hello. I just want to make sure that... whoever we are trying to help can actually get to us. I don't want anyone to be left out because of where they live.
+- [10] **Yumi**: I totally agree with Daisuke! Accessibility is so important. I'm a bit worried about things falling apart if the situation changes, so I want to check the winter road closures north of the river and bus links.
+- [11] **Benjamin**: A prudent start, Yumi. For my part, I believe we should avoid reinventing the wheel. I shall look into the two programmes begun six years ago and the attendance sheets from former outreach stops.
+- [12] **Shion**: I'll focus on the human element. I want to see the volunteer register and supervision training, as well as evening room bookings and remote catalogue use. Let's see who is actually doing the work.
+- [13] **Minako**: I will look into the county grant terms and the endowment, as well as the running and equipment lines from last year. I want to understand the nature of our funding before we commit.
+- [14] **Daisuke**: I... I think I'll look into the bus links in the two outer wards and the winter road closures north of the river. I just want to be sure people can reach us.
+- [15] **Yumi**: It looks like Daisuke and I are looking into the same things! That's okay, we can compare notes later. I'm really hoping we find a way to keep services steady all year round!
+- [16] **Benjamin**: Indeed, redundancy in research can be a charming way to ensure accuracy. I shall remain focused on our archives; there is a certain elegance in learning from our own history before leaping into the unknown.
+- [17] **Shion**: Redundancy is just a waste of time, Benjamin. I'd rather we cover more ground. I'm curious to see if our current staff and volunteers are already stretched to their limits before we add more.
+- [18] **Minako**: It is better to be thorough than to rush. While we cover different areas, we are all seeking the same goal: a service that is viable and sustainable for the long term.
+- [19] **Daisuke**: I... I'm sorry if I'm repeating things. I just... I really worry about the people who live far away. I hope the information helps us make a fair choice.
+- [20] **Yumi**: Don't apologize, Daisuke! It's wonderful that you care so much. I think we've all picked some really important things to check. I can't wait to see what we find out! Let's do our best!
+- [21] **Benjamin**: Indeed. Let us hope that the data provides a clearer mirror than our own assumptions. I shall await the findings with a measured sense of anticipation.
+- [23] **Shion**: I've made my choices. Let's just hope the results are transparent enough to prevent any naive decisions. I'm ready to move on to the findings.
+- [25] **Minako**: I have my selections as well. I believe the data on funding and expenditures will provide the necessary foundation for our decision. I am ready to proceed to the next round.
+- [27] **Daisuke**: I... I'm ready too. I hope I picked the right things to help.
+## Round 2
+- [39] **Yumi**: Oh no! I just found out that some people in the outer wards have to travel an hour now because of the bus rerouting! That's so sad, we have to find a way to help them!
+- [40] **Benjamin**: It is a sobering realization, Yumi. Interestingly, my research suggests that when we actually went to those outer wards in the past, the response was remarkably high—surpassing our own midweek attendance. The demand is clearly there.
+- [41] **Shion**: Demand is irrelevant if we can't manage it. I've found that while we have skilled volunteers, we have zero staff trained to supervise outside facilitators. We're essentially flying blind if we add complex new services.
+- [42] **Minako**: The funding structure is problematic. The grant only covers the first year, and we are letting equipment funds lapse back into reserves while running costs are over budget. We cannot afford a plan with high recurring costs.
+- [43] **Daisuke**: I... I also saw the bus situation. It's really bad. And the roads north of the river close often in winter, but the community halls there still stay open. Maybe we shouldn't expect people to come to us.
+- [44] **Yumi**: @Daisuke, you're exactly right! If the community halls can stay open while the roads are closed, maybe we should bring the library to them instead of making them travel so far! That would be so helpful!
+- [45] **Benjamin**: A most logical conclusion. It seems we are rediscovering a truth our own records already held: the outer wards are eager for our services, provided we are the ones making the journey.
+- [46] **Shion**: @Benjamin, your "truth" ignores the logistics. If we move services to those halls, who supervises them? My findings show our staff lack the training to manage outside facilitators. We can't just wish a plan into existence.
+- [47] **Minako**: @Shion, the lack of supervision training is a hurdle, but not an impossible one. However, we must address the budget. If we move services, we must ensure the running costs don't spiral like last year's vehicle lines.
+- [48] **Daisuke**: I... I agree with Shion that we need to be careful. But if we don't do something, the people in the outer wards are just... forgotten. Maybe there's a way to do it without spending too much?
+- [49] **Yumi**: @Minako, maybe we can use some of those equipment funds to make it work? I just can't stand the thought of people being left out! Let's find a way to be both sustainable and kind!
+- [50] **Benjamin**: @Yumi, kindness is a noble aim, but sustainability is its only guardian. If we look at the partner-run groups from six years ago, they survived precisely because they were unaided. Perhaps a self-sustaining model is the answer.
+- [51] **Shion**: @Benjamin, "unaided" is just another word for "unsupervised." If we ignore the skill gap in our staff, we aren't being sustainable; we're being negligent. We need a plan that fits our actual roster, not a fantasy.
+- [52] **Minako**: @Benjamin, a self-sustaining model is ideal, but we must be realistic. @Shion, the training gap is a management issue we can solve. The real danger is the funding cliff after year one. We need a proposal with low recurring costs.
+- [53] **Daisuke**: I... I don't want to argue. I just think... if we only look at the budget and the training, we might forget that some people literally can't get here. Please, can we find a way to reach them?
+- [54] **Yumi**: @Daisuke, I'm right here with you! We can't forget them. @Minako, @Shion, if we find a proposal that uses the community halls, it solves the travel problem and might keep costs low! Let's look for that!
+- [55] **Benjamin**: It seems we have reached a rare moment of alignment. If we seek a proposal that leverages existing community spaces and minimizes our direct overhead, we may finally stop repeating the mistakes of our predecessors. I am ready.
+- [56] **Shion**: I'll play along for now. But let's be clear: if the proposal requires staff to manage things they aren't trained for, I'll be the first to point out the flaw. I'm ready to see the candidates.
+- [57] **Minako**: I agree. We need a proposal that balances accessibility with a sustainable financial model. I will be looking for a plan that avoids high recurring costs and utilizes existing infrastructure. I am ready.
+- [58] **Daisuke**: I... I'm glad we're all agreeing to think about the people who can't reach us. I'll do my best to help pick the one that's most fair. I'm ready too.
+## Round 3
+- [64] **Yumi**: Wow, look at these! I think Option C, the Language Learning Circles, is wonderful! It uses partner organizations and happens across the district, so it helps the people in the outer wards without relying on buses!
+- [65] **Benjamin**: @Yumi, your enthusiasm is as constant as ever. Option C is indeed intriguing, as it mirrors the success of those unaided partner groups I mentioned. It leverages existing community networks rather than creating new burdens.
+- [66] **Shion**: @Benjamin, you're ignoring the "coordinated" part. Coordination requires supervision. If we use partner organizations, our staff still have to manage those relationships—skills they currently lack. Option B is the only logical, low-risk choice.
+- [67] **Minako**: Option B is stable, but it fails to address the accessibility issues Daisuke raised. Option D is too risky; our vehicle running costs are already over budget, and a mobile service would only worsen that deficit.
+- [68] **Daisuke**: I... I think Option D sounds like it would help the most, but @Minako is right about the costs. Maybe Option C is better? It reaches people where they are, and it doesn't need a bus.
+- [69] **Yumi**: @Shion, I'm sure we can find a way to handle the coordination! It's so much better than Option B, which doesn't help the people who can't travel. Option C is the kindest and most inclusive choice!
+- [70] **Benjamin**: @Shion, your insistence on risk avoidance is almost admirable, yet it borders on paralysis. Option C allows the community to lead, reducing the supervisory burden while solving the accessibility crisis. It is a pragmatic, not naive, choice.
+- [71] **Shion**: @Benjamin, calling it "pragmatic" doesn't change the fact that our staff aren't trained for this. Option C is a recipe for burnout. Option B is efficient, remote, and requires no new supervisory skills. It's the only rational choice.
+- [72] **Minako**: @Shion, Option B is safe, but it doesn't solve the problem. Option C is the most viable compromise. It utilizes partners to lower recurring costs and avoids the vehicle expenses that make Option D impossible.
+- [73] **Daisuke**: I... I agree with Minako. Option B is safe, but it doesn't help the people who are stuck. Option C seems like the best way to reach everyone without... without making the budget worse.
+- [74] **Yumi**: @Shion, please don't be so worried! We can support each other and learn as we go. Option C is just so perfect because it brings people together and reaches everyone, no matter where they live!
+- [75] **Benjamin**: @Shion, your fear of the unknown is a heavy anchor. We have already seen that partner-led groups can thrive independently. Option C is not a leap of faith, but a return to a proven, sustainable model.
+- [76] **Shion**: @Benjamin, your nostalgia for "unaided" groups is a dangerous blind spot. If we ignore the lack of supervision training, we aren't being sustainable; we're just waiting for the system to collapse. I'm sticking with Option B.
+- [77] **Minako**: @Shion, we cannot let a training gap dictate our entire service strategy. We can implement training, but we cannot easily fix a budget deficit or a lack of accessibility. Option C is the most sustainable path forward.
+- [78] **Daisuke**: I... I think Option C is the right choice. It's the only one that really helps the people who are cut off, and it seems like the others are okay with it. I'll vote for C.
+- [79] **Yumi**: I'm so happy we're all seeing the value in Option C! It's the most caring choice and it really solves the problems we found. I'm voting for Option C!
+- [80] **Benjamin**: It is a rare pleasure to see logic and empathy converge. Option C respects our history, our budget, and our community's needs. I shall cast my vote for Option C.
+- [81] **Shion**: You're all choosing a fantasy over a functional reality. I've warned you about the lack of supervision skills, but you've decided to ignore the logistics for the sake of sentiment. I vote for Option B.
+- [82] **Minako**: Option C is the only choice that balances our financial constraints with the community's needs. We can address the training gap, but we cannot ignore the accessibility crisis. I vote for Option C.
+- [83] **Daisuke**: I... I'm sorry, Shion, but I can't ignore the people who are left behind. Option C is the only way to be fair to everyone. I vote for Option C.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> B
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0024__single-online (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I’m a bit nervous about the ground here. Has anyone checked if the soil is stable enough for digging?
+- [6] **May**: Cute question, Minato. I’m more worried about the price tag after the ribbon is cut. Who’s paying for the upkeep?
+- [7] **Shizue**: I’d like to see how the last decade’s projects are holding up. Drawings look lovely, but I care about what remains.
+- [8] **Victoria**: I’m curious who will actually maintain this place day to day. The staffing rota seems to be shrinking every year.
+- [9] **Shunichi**: I’m less interested in the soil and more in how people actually use the space. Let’s look at the real traffic patterns before we guess.
+- [10] **Minato**: @May, I hear you, but if the ground shifts, the costs will be even higher. Can we check the soil stability first?
+- [11] **May**: @Minato, soil is just one line item. I need to see the upkeep ledger to know if we can actually afford to keep this place alive.
+- [12] **Shizue**: @May, the ledger tells us the cost, but the condition of the earlier works tells us if the money was well spent.
+- [13] **Victoria**: @Shizue, I agree. But knowing the condition doesn’t tell me who is left to fix it. I need to see the current staffing levels.
+- [14] **Shunichi**: @Victoria, staffing is a symptom, not the cause. I need the timed counts to see how people actually move through the space.
+- [15] **Minato**: @Shunichi, I understand the traffic, but I’m still worried about the diggers. Can we check the firms tendering for earth-moving?
+- [16] **May**: @Minato, the firms are just the symptom. I need the upkeep ledger to see the real long-term cost.
+- [17] **Shizue**: @May, the ledger shows the bill, but the condition of the earlier works shows if we’re wasting it. I’ll check that.
+- [18] **Victoria**: @Shizue, fair point. But I still need to know who is left to do the work. I’ll look into the groundskeeping roll.
+- [19] **Shunichi**: @Victoria, the roll tells me who’s left, but the counts tell me what they’re actually maintaining. I’ll take the timed crossings.
+- [20] **Minato**: @Shunichi, I’ll check the regional firms tendering for earth-moving. I need to know if the ground will hold before we commit.
+- [21] **May**: @Minato, I’ll check the upkeep ledger spend per hectare. I need to know the real long-term cost before we commit.
+- [22] **Shizue**: @Victoria, I’ll check the condition of the earlier programme. I want to see what actually survived the last decade.
+- [23] **Victoria**: @Shizue, I’ll check the groundskeeping roll and bought-in services. I need to know exactly who is left to maintain this place.
+- [24] **Shunichi**: @Victoria, I’ll check the timed counts of weekday crossings. I need to see how people actually move through the space.
+## Round 2
+- [35] **Minato**: #### Turn 1 of 4
+- [36] **May**: #### Turn 1 of 4
+- [37] **Shizue**: - **Shizue**: I’ve seen the condition of the earlier works. The basin held, but the apron failed. We must learn from that.
+- [38] **Victoria**: - **Victoria**: The roll is down to seven. We’re buying in the specialists now. Who is left to actually show up on a Tuesday?
+- [39] **Shunichi**: #### Turn 1 of 4
+- [40] **Minato**: - **Minato**: @Shizue, that apron failure worries me. I found only two firms left for digging, and they both flagged the clay.
+- [41] **May**: @Minato, that clay risk is exactly why I need the ledger. If the ground fails, the upkeep bill triples. I’ve seen the numbers.
+- [42] **Shizue**: - **Shizue**: @May, the ledger shows the cost, but the apron shows the failure. We must not repeat that mistake.
+- [43] **Victoria**: - **Victoria**: @May, the ledger shows the bill, but my roll shows the hands. With only seven staff, who actually pays it?
+- [44] **Shunichi**: @Victoria, the roll tells me who’s left, but the counts tell me what they’re actually maintaining. I’ll take the timed crossings.
+- [45] **Minato**: - **Minato**: @Shunichi, the counts show where people walk, but the firms show if we can even dig. Two firms, clay soil. It’s risky.
+- [46] **May**: @Minato, the clay is a construction headache, not a budget crisis. My ledger shows planted ground costs triple to maintain. That’s the real trap.
+- [47] **Shizue**: - **Shizue**: @May, triple the cost is frightening, but the apron was cheap to build and still failed. I fear we are buying expensive failures.
+- [48] **Victoria**: - **Victoria**: @Shizue, expensive failures are one thing, but with seven staff, we can’t even afford to fail quietly. Who is left to fix it?
+- [49] **Shunichi**: @Victoria, the roll is a resource, not a usage pattern. My counts show people ignore the soft margins. We must design for the path, not the pond.
+- [50] **Minato**: @Shunichi, I hear you, but if the ground slips, no path helps. I’m just glad we checked the firms before signing anything.
+- [51] **May**: @Shunichi, paths are cheap to fix. Planted ground is a money pit. I’m not signing off on triple the upkeep bill.
+- [52] **Shizue**: @May, I understand your worry, but a path that no one walks is just expensive gravel. I need to see if the design matches how people actually move.
+- [53] **Victoria**: @Shizue, I agree. But with seven staff, even a path needs someone to sweep it. I’m just trying to find the hands that will do it.
+- [54] **Shunichi**: @Victoria, the hands are the problem, but the feet are the demand. My counts show people ignore the soft margins. We must design for the path, not the pond.
+## Round 3
+- [60] **Minato**: #### Turn 1 of 4
+- [61] **May**: - **May**: Right, the candidates are here. I’m looking at the upkeep lines. Which one won’t bankrupt us in three years?
+- [62] **Shizue**: - **Shizue**: I look at the drawings and see the same trap. Which one will still be standing when the paint has faded?
+- [63] **Victoria**: - **Victoria**: I look at the staffing needs. Which one can seven tired people actually keep alive without buying in every single task?
+- [64] **Shunichi**: @Victoria, I look at the foot traffic. Which one matches how people actually cross, instead of forcing them into a pond?
+- [65] **Minato**: - **Minato**: @Shunichi, I worry about the digging. Which plan needs the least earth-moving so the clay doesn’t trap us?
+- [66] **May**: - **May**: @Minato, digging is a one-time cost. I care about the annual drain. Which plan keeps the ledger from tripling?
+- [67] **Shizue**: - **Shizue**: @May, I worry about the planting. If the trees die like the avenue, we are just paying for a graveyard.
+- [68] **Victoria**: - **Victoria**: @Shizue, if the trees die, I have no one left to replant them. I need a plan that doesn't demand specialist hands I don't have.
+- [69] **Shunichi**: @Victoria, the staffing is a constraint, but the foot traffic is the demand. I need a plan that matches how people actually cross, not just what we can afford to mow.
+- [70] **Minato**: - **Minato**: @Shunichi, I agree on the traffic, but I’m still stuck on the digging. Which plan avoids the deep clay?
+- [71] **May**: @Minato, digging is a one-time cost. I care about the annual drain. Which plan keeps the ledger from tripling?
+- [72] **Shizue**: - **Shizue**: @May, I hear you, but if the trees die, the ledger is just a receipt for a mistake. I need a plan that survives the second summer.
+- [73] **Victoria**: - **Victoria**: @Shizue, I agree. I need a plan that doesn't require the specialist water care I can no longer afford to buy in.
+- [74] **Shunichi**: @Victoria, I need a plan that respects the hard ground people actually use. I’m leaning toward the paved square, not the wetland.
+- [75] **Minato**: - **Minato**: @Shunichi, the paved square is shallow work. The firms said that’s safe. I can live with that, if the ground holds.
+- [76] **May**: @Shunichi, the paved square is hard surface. My ledger says that’s the only line item that doesn’t triple. I’m voting for the Market Plaza.
+- [77] **Shizue**: - **Shizue**: @May, I hesitate. The plaza is hard, but will it still be useful in ten years? I fear it becomes just another empty patch.
+- [78] **Victoria**: - **Victoria**: @Shizue, I agree. But the plaza needs weekend stewards, and I have a casual pool for that. I’m voting for the Market Plaza.
+- [79] **Shunichi**: @May, the paved square matches the counts. People want firm ground, not a pond. I’m voting for the Market Plaza.
+### Vote
+- Minato -> B
+- May -> B
+- Shizue -> B
+- Victoria -> B
+- Shunichi -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# candidate_selection_0005__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I worry about timetables breaking when external conditions shift.
+- [6] **Benjamin**: We keep judging new ideas by how they sound, ignoring past records.
+- [7] **Shion**: Staff absorb new commitments without checking if the skills exist on the roster.
+- [8] **Minako**: Budgets look fine at the vote, but thin by year two.
+- [9] **Daisuke**: Where buildings sit and when they open decides who can reach us.
+- [10] **Yumi**: @Benjamin, do the old records show which conditions caused the failures?
+- [11] **Benjamin**: @Yumi, yes. I want to see what was tried and left unexamined.
+- [12] **Shion**: @Minako, if the funding shape is the issue, we need to check the terms.
+- [13] **Minako**: @Shion, exactly. The structure matters more than the total amount.
+- [14] **Daisuke**: I am concerned about access for those in the outer wards.
+- [15] **Yumi**: I will look at the winter road closures north of the river.
+- [16] **Benjamin**: I will check the two programmes begun six years ago.
+- [17] **Shion**: I will review the volunteer register and supervision training.
+- [18] **Minako**: I will examine the county grant terms and the endowment.
+- [19] **Daisuke**: I will check the bus links in the two outer wards.
+- [20] **Yumi**: I will also look at the attendance sheets from former outreach stops.
+- [21] **Benjamin**: I will also look at the running and equipment lines last year.
+- [22] **Shion**: I will also look at the neighbourhood associations and tool certification.
+- [23] **Minako**: I will also look at the evening room bookings and remote catalogue use.
+- [24] **Daisuke**: I will also look at the quoted delivery windows from suppliers.
+## Round 2
+- [35] **Yumi**: The road closures shut for eleven days, but community halls kept their timetables.
+- [36] **Benjamin**: The digitisation batch left half its images unindexed. The partner groups still meet.
+- [37] **Shion**: A dozen retired tradespeople run the repair clinic, but no one is trained to supervise.
+- [38] **Minako**: The grant pays session fees for twelve months only, then the operating budget takes over.
+- [39] **Daisuke**: Two outer wards lost their bus link. Residents face an hour's round trip now.
+- [40] **Yumi**: @Benjamin, so the partner-run groups are more stable than the internal digitisation?
+- [41] **Benjamin**: @Yumi, yes. The internal project stalled, but the external partners persist.
+- [42] **Shion**: @Minako, if the grant lapses, the operating budget absorbs the cost. That is a trap.
+- [43] **Minako**: @Shion, correct. The funding shape creates a cliff edge after year one.
+- [44] **Daisuke**: @Yumi, the community halls worked because they were local. We need to be local too.
+- [45] **Yumi**: The attendance sheets show forty visitors per session in the outer wards.
+- [46] **Benjamin**: The vehicle running line overran by a third. The equipment allocation closed under budget.
+- [47] **Shion**: The technician who kept the power tools certified retired in spring.
+- [48] **Minako**: Evening room bookings are full, but remote catalogue use peaks after nine.
+- [49] **Daisuke**: The scanning contractors slip when larger clients book first. Bench tooling ships in weeks.
+- [50] **Yumi**: @Daisuke, so the mobile service might face delivery delays?
+- [51] **Benjamin**: @Shion, agreed. The equipment was fine, but the running costs were not.
+- [52] **Shion**: @Benjamin, the vehicle overrun is a warning. We need to avoid heavy logistics.
+- [53] **Minako**: The remote use suggests we need digital access, not just physical presence.
+- [54] **Daisuke**: @Yumi, yes. The scanning is risky, but the tooling is fast.
+## Round 3
+- [60] **Yumi**: Candidate D, the Mobile Branch, visits outlying neighborhoods on a fixed schedule.
+- [61] **Benjamin**: Candidate B, the Digital Archive, scans local records for a searchable portal.
+- [62] **Shion**: Candidate A, the Maker Workshop, offers tools and instruction in the main branch.
+- [63] **Minako**: Candidate C, the Language Circles, uses trained facilitators and partner organizations.
+- [64] **Daisuke**: I am concerned about the bus links for the mobile service.
+- [65] **Yumi**: @Daisuke, the mobile service helps those without bus links, but the vehicle is risky.
+- [66] **Benjamin**: @Shion, correct. The past digitisation failed, but a new portal might work.
+- [67] **Shion**: @Benjamin, the digital archive avoids the staffing issues I found.
+- [68] **Minako**: The language circles rely on partners, which Benjamin said are more stable.
+- [69] **Daisuke**: @Yumi, yes. The running costs overran last year. It is a financial risk.
+- [70] **Yumi**: The mobile service addresses the access gap, but the vehicle is a liability.
+- [71] **Benjamin**: The digital archive is a repeat of a failed project, but with better tools.
+- [72] **Shion**: The maker workshop needs certified technicians, who are no longer on the roster.
+- [73] **Minako**: The language circles have a funding cliff after twelve months.
+- [74] **Daisuke**: The mobile service is the only one that reaches the outer wards directly.
+- [75] **Yumi**: I am leaning towards the mobile service, despite the risks.
+- [76] **Benjamin**: I am worried about the digital archive repeating past mistakes.
+- [77] **Shion**: The maker workshop is a no-go due to the staffing gap.
+- [78] **Minako**: The language circles are risky due to the funding structure.
+- [79] **Daisuke**: The mobile service is the best for access, but I am concerned about the costs.
+### Vote
+- Yumi -> D
+- Benjamin -> B
+- Shion -> C
+- Minako -> C
+- Daisuke -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: I need to understand the current friction points. I will examine the last year's complaint log entries and the morning departures watched from the entrance.
+- [6] **Yumi**: I’m worried the same doors always get the best spots! I’ll check the sticker register and the daily riders to see who actually uses the spaces.
+- [7] **Ryuji**: I need to verify the physical constraints. I will examine the rain exposure along the parking rows and the trial of the supplier's display frame.
+- [8] **Shunichi**: I’m tired of guessing. I’ll check the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [9] **Toshio**: I need to know the actual workload. I will examine the five years of association minutes and the account from the neighbouring block's secretary.
+- [10] **Asuka**: @Yumi, knowing who rides daily is useful, but I need to see the specific conflicts. I will examine the last year's complaint log entries and the morning departures watched from the entrance.
+- [11] **Yumi**: @Asuka, I agree! Seeing the morning rush will show us the real bottlenecks. I’m still focused on the sticker register to see if the "same doors" rumor is true!
+- [12] **Ryuji**: @Asuka, the physical layout dictates the flow. I will examine the rain exposure along the parking rows and the trial of the supplier's display frame.
+- [13] **Shunichi**: @Toshio, checking the neighbours is smart. But I’m still focused on the ledger. I need to know exactly what we’re spending before we talk about solutions.
+- [14] **Toshio**: @Shunichi, the ledger shows money, not effort. I need to see the physical and administrative burden. I will examine the five years of association minutes and the account from the neighbouring block's secretary.
+- [15] **Asuka**: @Ryuji, rain is a factor, but the real damage is social. I need to see the specific conflicts. I will examine the last year's complaint log entries and the morning departures watched from the entrance.
+- [16] **Yumi**: @Ryuji, rain is tough! But I really need to know if the "same doors" rumor is true. I’m checking the sticker register and the daily riders!
+- [17] **Ryuji**: @Yumi, the sticker register is data, but the physical reality is the bottleneck. I will examine the rain exposure along the parking rows and the trial of the supplier's display frame.
+- [18] **Shunichi**: @Toshio, effort is invisible until it costs money. I’m sticking with the ledger and the handover file. I need the actual numbers before we debate feelings.
+- [19] **Toshio**: @Shunichi, money is a symptom, not the cause. I need to see the actual hours and tasks. I will examine the five years of association minutes and the account from the neighbouring block's secretary.
+- [20] **Asuka**: I will examine the last year's complaint log entries and the morning departures watched from the entrance. I need to see the specific conflicts before we decide.
+- [21] **Yumi**: I’ll check the sticker register and the daily riders. I need to see if the "same doors" rumor is actually true!
+- [22] **Ryuji**: I will examine the rain exposure along the parking rows and the trial of the supplier's display frame. The physical constraints determine the solution.
+- [23] **Shunichi**: I will examine the building account's two-year ledger and the Treasurer's handover file on cash collections. I need the actual numbers before we debate feelings.
+- [24] **Toshio**: I will examine the five years of association minutes and the account from the neighbouring block's secretary. I need to quantify the actual administrative burden before we commit.
+## Round 2
+- [35] **Asuka**: @Yumi, the log shows nine conflicts died because no one owned them. I need to know if the sticker register reflects actual daily use or just who claimed first.
+- [36] **Yumi**: @Asuka, the minutes confirm it! The same flats kept the covered spots for five years with zero reviews. The sticker register shows people would pay to be fair, not just claim first!
+- [37] **Ryuji**: @Asuka, the rain data confirms the eaves are the only dry zone. The frame trial shows hoisting takes twenty seconds. We need a system that respects these physical limits.
+- [38] **Shunichi**: @Toshio, the ledger is empty. Any new system means a levy on every household. I need to know the actual cost of a bike left in the rain before we debate fairness.
+- [39] **Toshio**: @Shunichi, the ledger is empty, but the burden is real. The neighbouring block’s monthly charge caused arrears and silence. We need a system that doesn’t rely on constant enforcement.
+- [40] **Asuka**: @Toshio, silence is the worst outcome. The log shows nine conflicts died because no one owned them. We need a structure that prevents that, not just a fee.
+- [41] **Yumi**: @Toshio, silence is scary! But the minutes prove the covered spots never changed. We need a fair rotation so everyone gets a turn, not just the same doors!
+- [42] **Ryuji**: @Yumi, rotation ignores the rain. The eaves are the only dry zone. We must prioritize physical protection over arbitrary fairness.
+- [43] **Shunichi**: @Ryuji, rain is a symptom. The real cost is the levy. I need to know what a household actually pays when they have nowhere to keep a bike.
+- [44] **Toshio**: @Yumi, rotation sounds fair, but the neighbouring block’s charge caused arrears and silence. I need a system that doesn’t rely on constant enforcement.
+- [45] **Asuka**: @Ryuji, physical limits are real, but social collapse is worse. If the rain forces constant shifting, we recreate the nine dead conflicts. We need a system that absorbs friction, not just protects paint.
+- [46] **Yumi**: @Ryuji, I hear you! Rain is bad, but five years of the same spots is worse! We need a rotation that actually works, not just dry paint!
+- [47] **Ryuji**: @Asuka, friction is physical. The frame trial proved hoisting is slow. We need a layout that minimizes movement, not just social harmony.
+- [48] **Shunichi**: @Asuka, social collapse is expensive. The ledger shows zero capital reserves. I need to know the actual out-of-pocket cost for a household with no space before we debate feelings.
+- [49] **Toshio**: @Shunichi, the ledger is empty, but the burden is real. The neighbouring block’s charge caused arrears and silence. We need a system that doesn’t rely on constant enforcement.
+- [50] **Asuka**: @Toshio, I agree. The log proves that without a clear owner, problems vanish into silence. We need a structure that assigns responsibility explicitly, so the next conflict doesn’t die quietly.
+- [51] **Yumi**: @Toshio, I agree! But silence means the same doors keep winning. We need a rotation that actually works, so everyone gets a fair turn!
+- [52] **Ryuji**: @Toshio, I agree. But the frame trial shows hoisting is slow. We need a layout that minimizes movement, not just administrative ease.
+- [53] **Shunichi**: @Toshio, silence is just unpaid debt. The ledger is empty, so any new system is a direct hit to our wallets. I need the actual cost of a bike in the rain.
+- [54] **Toshio**: @Shunichi, the ledger is empty, but the burden is real. The neighbouring block’s charge caused arrears and silence. We need a system that doesn’t rely on constant enforcement.
+## Round 3
+- [60] **Asuka**: @Yumi, Option A’s monthly charge risks the same silence as the neighbouring block. I reject it. Option B’s annual lock ignores the daily friction I observed.
+- [61] **Yumi**: @Asuka, I hear you! But Option B’s annual lock is exactly what we need to break the five-year pattern! It forces a fresh start every year!
+- [62] **Ryuji**: @Asuka, Option C’s double-tier racks match the frame trial. Hoisting is slow, but it eliminates the rain exposure and the morning shoving match. I support C.
+- [63] **Shunichi**: @Ryuji, Option C sounds free, but the ledger is empty. Who pays for the racks? I need to know the actual cost before we pretend it’s a solution.
+- [64] **Toshio**: @Shunichi, the racks cost money, but the neighbouring block’s charge caused arrears. Option A’s monthly fee is a trap. I need a system that doesn’t rely on constant enforcement.
+- [65] **Asuka**: @Ryuji, Option C’s "no owner" model recreates the nine dead conflicts. If no one owns a space, no one owns the problem. I reject C.
+- [66] **Yumi**: @Asuka, I get the worry! But Option B’s annual draw breaks the five-year pattern. It’s fair and simple! I’m voting B!
+- [67] **Ryuji**: @Asuka, the frame trial proves hoisting is slow. Option C’s double-tier racks eliminate the rain exposure and the morning shoving match. I support C.
+- [68] **Shunichi**: @Asuka, "no owner" means no one pays for the damage. The ledger is empty, so C is a direct hit to our wallets. I need the actual cost before we pretend it’s free.
+- [69] **Toshio**: @Asuka, I agree. Option A’s monthly charge caused arrears and silence. Option B’s annual draw is a single, contained task. I support B to avoid constant enforcement.
+- [70] **Asuka**: @Toshio, I agree. Option B’s annual draw is a single, contained task. It prevents the daily friction and the silence of Option A. I support B.
+- [71] **Yumi**: @Asuka, I agree! Option B is the only way to break the five-year pattern. It’s fair, simple, and stops the same doors from winning forever!
+- [72] **Ryuji**: @Asuka, the frame trial proves hoisting is slow. Option C’s double-tier racks eliminate the rain exposure and the morning shoving match. I support C.
+- [73] **Shunichi**: @Toshio, Option B is free, but the ledger is empty. Who pays for the annual draw? I need the actual cost before we pretend it’s a solution.
+- [74] **Toshio**: @Shunichi, the draw is a single, contained task. The minutes show no one owns the current mess. Option B assigns a clear, annual owner. I vote B.
+- [75] **Asuka**: @Shunichi, the draw is a single, contained task. The minutes show no one owns the current mess. Option B assigns a clear, annual owner. I vote B.
+- [76] **Yumi**: @Shunichi, the draw is just paper! No extra cost. Option B breaks the five-year pattern and stops the same doors from winning forever. I’m voting B!
+- [77] **Ryuji**: @Shunichi, the racks are a one-time cost, not a monthly drain. Option C eliminates the rain damage and the morning shoving match. I am voting C.
+- [78] **Shunichi**: @Toshio, the draw is free, but the ledger is empty. If a bike rusts in the rain, who pays? I need the actual cost before I vote.
+- [79] **Toshio**: @Shunichi, the draw is a single, contained task. The minutes show no one owns the current mess. Option B assigns a clear, annual owner. I vote B.
+### Vote
+- Asuka -> B
+- Yumi -> B
+- Ryuji -> C
+- Shunichi -> B
+- Toshio -> B
+## Result
+- adopted: B

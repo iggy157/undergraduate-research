@@ -1,0 +1,73 @@
+# shared_living_0029__single-batch (shared_living)
+
+## Round 1
+- [5] **Minako**: We need to stop guessing. Who is actually paying for what?
+- [6] **Benjamin**: Agreed. The silence lately is worse than the noise.
+- [7] **Asuka**: I just need it to be ready when I need it.
+- [8] **Shion**: Let’s look at the data. No more assumptions.
+- [9] **Daisuke**: I... I just want less stress, honestly.
+- [10] **Minako**: @Shion, what specific data are you thinking of?
+- [11] **Benjamin**: @Minako, I think we need to see the history.
+- [12] **Asuka**: @Daisuke, do you have a specific worry?
+- [13] **Shion**: @Benjamin, I want the receipts. The real ones.
+- [14] **Daisuke**: @Asuka, I worry about the time it takes to sort out.
+- [15] **Minako**: @Shion, receipts are good. But what about the fixed costs?
+- [16] **Benjamin**: @Minako, fixed costs are part of the picture.
+- [17] **Asuka**: @Shion, I care about the condition of the car too.
+- [18] **Shion**: @Asuka, condition is part of the cost.
+- [19] **Daisuke**: @Minako, I think we should look at the diary.
+- [20] **Minako**: Okay. Let’s pick two things each to check.
+- [21] **Benjamin**: I’ll look at the other households' experiences.
+- [22] **Asuka**: I’ll check the state of the car at handover.
+- [23] **Shion**: I’ll take the fuel receipts and the tax papers.
+- [24] **Daisuke**: I’ll look at the hours in the diary and the mechanic's notes.
+## Round 2
+- [35] **Minako**: The fixed costs are high. Over 280k yen before fuel.
+- [36] **Benjamin**: @Minako, that’s a lot. And the other groups failed on favours.
+- [37] **Asuka**: @Minako, the car is often dirty or low on fuel.
+- [38] **Shion**: @Minako, the fuel receipts show two people did most of the driving.
+- [39] **Daisuke**: @Shion, that’s unfair. The diary shows uneven days too.
+- [40] **Minako**: @Shion, so an even split is wrong?
+- [41] **Benjamin**: @Minako, yes. We need to account for usage.
+- [42] **Asuka**: @Daisuke, the weekly trips are the problem. They collapse.
+- [43] **Shion**: @Asuka, if we book in advance, that stops it.
+- [44] **Daisuke**: @Shion, but the mechanic said short runs hurt the car.
+- [45] **Minako**: @Daisuke, that’s a good point. Short runs cost more.
+- [46] **Benjamin**: @Minako, so we need a system that accounts for that.
+- [47] **Asuka**: @Benjamin, a booking calendar might work.
+- [48] **Shion**: @Asuka, yes. Distance-based costs.
+- [49] **Daisuke**: @Shion, I’m worried about the time it takes to record.
+- [50] **Minako**: @Daisuke, the trial took an hour a week. Manageable?
+- [51] **Benjamin**: @Minako, I think so. Better than the current mess.
+- [52] **Asuka**: @Benjamin, I agree. It’s fairer.
+- [53] **Shion**: @Asuka, I’m in. Let’s vote.
+- [54] **Daisuke**: @Shion, I... I think it’s the best option.
+## Round 3
+- [60] **Minako**: Option A is fixed days. Option B is booking. Option C is one keeper.
+- [61] **Benjamin**: @Minako, Option B seems most fair based on our data.
+- [62] **Asuka**: @Benjamin, I agree. It solves the weekly trip issue.
+- [63] **Shion**: @Asuka, yes. It’s logical.
+- [64] **Daisuke**: @Shion, I’m a bit nervous, but I think it’s right.
+- [65] **Minako**: @Daisuke, don’t worry. We’ll support each other.
+- [66] **Benjamin**: @Minako, thank you. I think we’re ready.
+- [67] **Asuka**: @Benjamin, let’s vote.
+- [68] **Shion**: @Asuka, I vote for B.
+- [69] **Daisuke**: @Shion, I vote for B too.
+- [70] **Minako**: @Daisuke, I vote for B as well.
+- [71] **Benjamin**: @Minako, I vote for B.
+- [72] **Asuka**: @Benjamin, I vote for B.
+- [73] **Shion**: @Asuka, we have a majority.
+- [74] **Daisuke**: @Shion, I’m glad we’re all on the same page.
+- [75] **Minako**: @Daisuke, let’s finalize it.
+- [76] **Benjamin**: @Minako, agreed.
+- [77] **Asuka**: @Benjamin, done.
+- [78] **Shion**: @Asuka, let’s get to work.
+- [79] **Daisuke**: @Shion, I’ll start the calendar.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Asuka -> B
+- Shion -> B
+- Daisuke -> B
+## Result
+- adopted: B

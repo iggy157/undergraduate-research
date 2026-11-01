@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-private (candidate_selection)
+
+## Round 1
+- [5] **May**: I’m tired of reinventing the wheel. Let’s actually read the old closure reports before we get excited again.
+- [6] **Benjamin**: May, while I admire your nostalgia, we must ensure the current crews can actually execute the plan. Let’s verify the roster books first.
+- [7] **Midori**: I agree with Benjamin. We need to know if the late-turn pool has enough staff to handle the changes.
+- [8] **Shizue**: I hear you, Benjamin. But I worry about hidden delays. Let’s check the joint operators' committee minutes to see who else must agree.
+- [9] **Jonathan**: I appreciate the focus on execution. I’d like to examine the crew establishment and maintenance contract to understand our long-term obligations.
+- [10] **May**: @Benjamin, checking rosters is fine, but it’s just a snapshot. I’m going to dig into the two pilots from eight years ago to see what actually failed.
+- [11] **Benjamin**: Fair point, May. History is a useful mirror, but I’m more concerned about the present. I’ll check the roster books and the crew establishment.
+- [12] **Midori**: I’ll look into the journey audits and the timed runs. I want to see where minutes actually go, not just where people complain.
+- [13] **Shizue**: I’ll review the joint operators' committee minutes and the completion records of the earlier accessibility programme.
+- [14] **Jonathan**: I’ll examine the capital ledger balances and the ticketing contractor fees. I need to see the true long-term cost, not just the headline.
+- [15] **May**: @Midori, your data is vital, but don’t let the numbers hide the human cost. I’m sticking with those old pilots.
+- [16] **Benjamin**: @May, the human cost is precisely why I’m checking the rosters. We can’t promise miracles if the staff is already exhausted.
+- [17] **Midori**: @May, I hear you. But if we ignore where time actually vanishes, we might fix the wrong problem entirely.
+- [18] **Shizue**: @May, you’re right to care about people. I’ll check the committee minutes and accessibility records to see who else must agree.
+- [19] **Jonathan**: I agree with Midori. Data prevents us from guessing. I’ll stick to the ledger and fees to see the real financial weight.
+- [20] **May**: @Benjamin, exhaustion is a symptom, not the cause. I’m reading the pilots to find the root.
+- [21] **Benjamin**: @May, I concede the root cause point. But without knowing who’s left standing, we’re just planning for ghosts.
+- [22] **Midori**: I’ll look into the journey audits and the timed runs. I want to see where minutes actually go, not just where people complain.
+- [23] **Shizue**: I’ll review the joint operators' committee minutes and the completion records of the earlier accessibility programme.
+- [24] **Jonathan**: I’ll review the capital ledger balances and ticketing contractor fees. I need to see the true long-term cost, not just the headline.
+## Round 2
+- [35] **May**: @Shizue, your committee minutes confirm my suspicion: the ferry and rail back offices never agreed on data terms. That’s the real bottleneck, not the tech.
+- [36] **Benjamin**: @May, the data bottleneck is real, but my rosters show the late-turn pool is already stretched thin. We cannot promise coverage we don’t have.
+- [37] **Midori**: @May, the data shows waiting for connections is the real time sink, not ticketing. We must fix the handoffs, not the machines.
+- [38] **Shizue**: @May, you’re right. The data gap is a hidden wall. I also found two accessibility projects quietly reverted. We must ask who else must say yes before we promise dates.
+- [39] **Jonathan**: The ledger shows a lapsed grant balance, but operating subsidies are trimmed. Ticketing fees now exceed paving budgets. We are funding the past, not the future.
+- [40] **May**: @Benjamin, if the late-evening pilot hit its cost target, your “stretched thin” excuse is just bad management, not a structural flaw.
+- [41] **Benjamin**: @May, I appreciate the optimism, but the data shows a third of our crews are missing. We cannot manage away a structural deficit.
+- [42] **Midori**: @Benjamin, I hear your worry about the crew. But the data shows the delay is in the connections, not the platforms. We must fix the handoffs first.
+- [43] **Shizue**: @Benjamin, I understand your worry. But the accessibility records show some work was quietly undone. We must verify who else must agree before we promise dates.
+- [44] **Jonathan**: @Benjamin, the deficit is real, but the fees are the trap. We are paying contractors more than we spend on actual infrastructure.
+- [45] **May**: @Midori, fixing handoffs is smart, but if the back offices won’t share data, you’re just polishing a broken bridge.
+- [46] **Benjamin**: @May, I concede the data point. But a bridge needs builders. If the crews are gone, your perfect handoff is just a theoretical exercise.
+- [47] **Midori**: @May, I understand your caution. But the timed runs prove the platforms aren’t the bottleneck. We must trust the data to guide our next steps.
+- [48] **Shizue**: @May, you’re right. The data gap is a hidden wall. I also found two accessibility projects quietly reverted. We must ask who else must say yes before we promise dates.
+- [49] **Jonathan**: @May, the data gap is real, but the financial bleed is worse. We cannot fix handoffs if we are bankrupt by the ticketing fees.
+- [50] **May**: @Jonathan, you’re right, the fees are bleeding us. But without data sharing, we’re just paying for silence. Let’s fix the terms first.
+- [51] **Benjamin**: @Jonathan, the fees are a leak, but the missing crews are the hole. We cannot patch a ship that has no hands to steer it.
+- [52] **Midori**: @Jonathan, I hear the financial strain. But if we ignore the connection delays, we’re just paying to keep passengers waiting. Let’s balance the books with the data.
+- [53] **Shizue**: @Jonathan, the fees are a heavy burden. But the quiet reverts remind us that hidden agreements matter. We must secure those consents before promising any dates.
+- [54] **Jonathan**: I agree with Midori. We must balance the books with the data. The fees are a leak, but the missing crews are the hole.
+## Round 3
+- [60] **May**: @Shizue, the data gap is the real killer. Option A fixes the terms, but only if we force that agreement.
+- [61] **Benjamin**: @May, Option D is a trap. My rosters show the late-turn pool is already exhausted. We cannot extend hours without more hands.
+- [62] **Midori**: @Benjamin, I hear your concern about staffing. But the data shows connection delays are the real time sink. Option B might help, but we must fix the handoffs first.
+- [63] **Shizue**: @Benjamin, I understand your worry. But Option C’s quiet reverts scare me. We must verify who else must agree before promising dates.
+- [64] **Jonathan**: @Benjamin, I agree. Option D ignores the financial reality. We cannot fund extended hours when ticketing fees already exceed our paving budgets.
+- [65] **May**: @Benjamin, the eight-year pilot proved night service works. Your “exhaustion” is just a management failure, not a structural wall.
+- [66] **Benjamin**: @May, I respect the pilot, but it predates the freeze. We cannot repeat a success that relied on a workforce we no longer possess.
+- [67] **Midori**: @May, I understand the pilot’s success. But my audits show connection waits are the true bottleneck. Option B addresses the mid-city flow, which is where the time actually vanishes.
+- [68] **Shizue**: @May, the pilot’s success is encouraging. Yet, Option C’s past reverts remind us that hidden consents can undo good work. We must secure those agreements first.
+- [69] **Jonathan**: @May, the pilot’s success is irrelevant if the fees remain. Option A addresses the leak, but we must ensure the long-term cost is sustainable.
+- [70] **May**: @Midori, you’re right, the handoffs are the pain. But Option A is the only way to stop the financial bleed. Let’s vote for A.
+- [71] **Benjamin**: @May, I cannot vote for A. It ignores the physical reality of our depleted crews. Option B is the only viable path forward.
+- [72] **Midori**: @May, I understand the financial urgency. But my data shows connection waits are the true bottleneck. Option B directly addresses the mid-city flow where time actually vanishes.
+- [73] **Shizue**: @May, I understand the urgency. But Option C’s past reverts scare me. We must verify who else must agree before promising dates.
+- [74] **Jonathan**: @May, I support A. The ledger shows we cannot sustain the current fee structure. We must stop the financial bleed before considering other expansions.
+- [75] **May**: @Benjamin, you’re stuck in the past. The pilot proved it works. I’m voting A to fix the data and stop the bleeding.
+- [76] **Benjamin**: @May, I am not stuck in the past; I am looking at the present. I vote B, as it is the only plan we can actually staff.
+- [77] **Midori**: @May, I understand the financial pressure. But my data shows connection waits are the true bottleneck. Option B directly addresses the mid-city flow where time actually vanishes.
+- [78] **Shizue**: @May, I understand the urgency. But Option C’s past reverts scare me. We must verify who else must agree before promising dates.
+- [79] **Jonathan**: I vote A. The ledger confirms the current fees are unsustainable. We must stop the financial bleed before committing to further expansion.
+### Vote
+- May -> A
+- Benjamin -> B
+- Midori -> B
+- Shizue -> C
+- Jonathan -> A
+## Result
+- adopted: B

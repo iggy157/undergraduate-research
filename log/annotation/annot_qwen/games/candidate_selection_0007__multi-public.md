@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-public (candidate_selection)
+
+## Round 1
+- [5] **May**: I’m curious which of these records you think will actually change our minds before we vote.
+- [6] **Benjamin**: I suspect the roster books. We keep promising services we can’t staff. Who else is checking the crew numbers?
+- [7] **Midori**: I’m leaning toward the journey audits. I want to see where the minutes actually go, not just where the complaints land.
+- [8] **Shizue**: I am drawn to the joint operators' minutes. I need to know who else must agree before we can move forward.
+- [9] **Jonathan**: I am looking at the capital ledger balances. I want to see what we are truly committed to paying in the years after the initial cost.
+- [10] **May**: I’m checking the two pilots from eight years ago. I want to see if the late-evening pilot actually hit its cost-recovery target before we get excited.
+- [11] **Benjamin**: I’ll check the crew establishment and maintenance contract. I need to know if we have spare capacity or if we’re just borrowing from the future.
+- [12] **Midori**: I’ll also look into the timed runs and crowd counts. I want to verify if the crowding complaints match the actual data.
+- [13] **Shizue**: I will also examine the contingency pricing inside the pre-war shells. I need to know what the ground might hide before we trust any delivery date.
+- [14] **Jonathan**: I will also check the ticketing contractor fees. I want to see if those annual costs are quietly eating into our future flexibility.
+- [15] **May**: I’m just confirming my picks. The pilots and the closure reports. I want to see if we’re repeating history or actually learning.
+- [16] **Benjamin**: I’m confirming my picks: the roster books and the crew establishment. I need to know exactly how thin the late-turn pool is before we promise anything.
+- [17] **Midori**: I’m confirming my picks: the journey audits and the timed runs. I need to see where the time actually goes, not just where the noise is loudest.
+- [18] **Shizue**: I confirm my choices: the joint operators' minutes and the contingency pricing. I must understand the approvals and the hidden risks before trusting any schedule.
+- [19] **Jonathan**: I confirm my choices: the capital ledger and the ticketing fees. I need to see the long-term commitments before we argue about the headline numbers.
+- [20] **May**: I’m just making sure we’re not chasing ghosts. If the old pilots worked, why are we reinventing the wheel?
+- [21] **Benjamin**: Fair point. But a pilot that worked eight years ago doesn’t staff the rosters we have today. Let’s see the numbers.
+- [22] **Midori**: Agreed. Let’s see if the stopwatch matches the shouting.
+- [23] **Shizue**: Let us see if the ground holds firm, as it often does not.
+- [24] **Jonathan**: Let us see if the ledger tells the truth about what we can actually afford to keep.
+## Round 2
+- [35] **May**: The late-evening pilot actually hit its cost target. And the accessibility lifts finished on time. We have proof these work.
+- [36] **Benjamin**: The roster books are grim. Overtime is masking a structural collapse. We cannot promise night extensions without bodies to run them.
+- [37] **Midori**: The audits show most lost time is waiting for connections, not paying. Mid-city runs are slower, but platforms clear at the old rate.
+- [38] **Shizue**: The minutes show the ferry and rail offices never agreed on data terms. The pre-war shells hide voids that stop work for weeks.
+- [39] **Jonathan**: The ledger shows a ring-fenced grant balance, but operating subsidies are trimmed. Ticketing fees now exceed our resurfacing budget. We are paying for the past, not the future.
+- [40] **May**: @Benjamin, the pilot proves the model works, but you’re right that staffing is the bottleneck. We can’t just copy the timetable without the crew.
+- [41] **Benjamin**: @May, exactly. The pilot proves demand, not supply. We are borrowing from the future to cover tonight’s gaps.
+- [42] **Midori**: @May, the data confirms my suspicion. We are fixing the wrong part of the trip. The bottleneck is connection waiting, not ticketing.
+- [43] **Shizue**: @Midori, the data is clear. But @Benjamin, the voids in the shells mean any station work will stall. We must trust the ground first.
+- [44] **Jonathan**: @Midori, the data aligns with my ledger findings. We are bleeding money on ticketing fees while the actual time loss is in waiting.
+- [45] **May**: @Shizue, the accessibility records show those lifts actually finished on time. The ground didn’t hide voids there, so maybe we can trust that specific delivery date.
+- [46] **Benjamin**: @Shizue, the maintenance contract has spare capacity for lifts. That specific risk is mitigated, unlike the crew shortage.
+- [47] **Midori**: @Benjamin, that spare capacity is a relief. It means we can fix the connection delays without the staffing nightmare you described.
+- [48] **Shizue**: @Benjamin, I am glad the lift crews are ready. It eases my worry about the ground. Let us see if the rest holds.
+- [49] **Jonathan**: @Benjamin, the spare lift capacity is a quiet win. It lets us fix the real delays without the staffing crisis you warned about.
+- [50] **May**: So, the lifts work, the night pilot paid off, but the crews are gone. We need a plan that doesn’t require a miracle workforce.
+- [51] **Benjamin**: Agreed. We need a plan that fits the bodies we actually have, not the ones we wish for.
+- [52] **Midori**: Exactly. We must target the connection waits, not the ticket queues. That is where the real time is lost.
+- [53] **Shizue**: I am relieved the lift crews are ready. It eases my worry about the ground. Let us see if the rest holds.
+- [54] **Jonathan**: I agree. We must stop funding the ticketing bleed and focus on the connection delays where the real time is lost.
+## Round 3
+- [60] **May**: #### Turn 1 of 4
+- [61] **Benjamin**: The night extension is a fantasy without the crew. The fare platform ignores the real time loss. I’m leaning toward the bus corridor.
+- [62] **Midori**: The data points to connection waits, not ticketing. The bus corridor fixes mid-city speed, but I worry it ignores the platform bottlenecks.
+- [63] **Shizue**: The pre-war shells hide voids, so station work is risky. The bus corridor avoids that ground risk. I am leaning toward the bus corridor.
+- [64] **Jonathan**: The ledger shows ticketing fees are a drain, not a solution. The bus corridor avoids the staffing crisis and the ground risks. I am leaning toward the bus corridor.
+- [65] **May**: The pilots prove the night model works, but Benjamin is right about the crew. I’m leaning toward the bus corridor to fix the mid-city speed without the staffing nightmare.
+- [66] **Benjamin**: @May, precisely. The corridor uses existing assets, not phantom staff. It is the only option that respects the roster books.
+- [67] **Midori**: @Benjamin, I agree the corridor respects the roster. But does it actually cut the connection waiting time my audits flagged?
+- [68] **Shizue**: @Midori, the corridor speeds up the mid-city runs, which should help clear the platforms faster. It avoids the hidden ground risks I fear.
+- [69] **Jonathan**: @Midori, the corridor reduces mid-city travel time, which should ease the connection pressure. It is the only option that fits our current reality.
+- [70] **May**: @Midori, it tightens the mid-city loop, which should help connections. Plus, the old lane-priority stretches failed, so this dedicated design is a real improvement.
+- [71] **Benjamin**: @Midori, it doesn’t eliminate waiting, but it makes the ride faster. That’s the only lever we actually have left.
+- [72] **Midori**: @May, the dedicated lanes address the speed loss I measured. It is the best fit for the data we have.
+- [73] **Shizue**: @Midori, I am glad the data supports this. The corridor avoids the hidden voids in the old shells. It feels like the safest path forward for us.
+- [74] **Jonathan**: @Midori, the ledger confirms the ticketing drain. The corridor is the only path that respects our actual constraints and avoids the staffing crisis.
+- [75] **May**: I’m voting for the bus corridor. It respects the crew limits and fixes the speed loss we actually measured. Let’s move forward.
+- [76] **Benjamin**: I am voting for the bus corridor. It is the only plan that does not require hiring ghosts. Let us proceed.
+- [77] **Midori**: I am voting for the bus corridor. It targets the speed loss my audits confirmed, without demanding impossible staffing.
+- [78] **Shizue**: I am voting for the bus corridor. It avoids the hidden ground risks and respects our current limits. A steady, safe choice.
+- [79] **Jonathan**: I am voting for the bus corridor. It respects the ledger’s limits and avoids the staffing crisis. A quiet, sensible choice.
+### Vote
+- May -> B
+- Benjamin -> B
+- Midori -> B
+- Shizue -> B
+- Jonathan -> B
+## Result
+- adopted: B

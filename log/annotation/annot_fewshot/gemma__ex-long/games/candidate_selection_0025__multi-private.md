@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: It is a pleasure to meet you all. I hope we can find a way to expand our library's reach that brings joy to everyone in our community. I look forward to our talk.
+- [6] **Jonathan**: It is a pleasure to be here. I believe a thoughtful approach will lead us to a decision that serves the community well while maintaining the serenity of our spaces. I look forward to our deliberation.
+- [7] **Rin**: Hi everyone! I'm so excited to help pick something new for the library! I hope we can find an idea that's super fun and adventurous for everyone! Let's make it awesome!
+- [8] **Benjamin**: Indeed, Rin. While adventure is a charming prospect, I believe a touch of pragmatism is required to ensure our enthusiasm doesn't outpace our actual capacity. I look forward to a most illuminating discussion.
+- [9] **Minako**: It is a pleasure to meet you all. I agree that we should balance our ambitions with a clear understanding of our current capacity. I look forward to a productive and calm deliberation.
+- [10] **Shizue**: To make sure our plans are truly sustainable, I would like to look into the winter road closures north of the river and the quoted delivery windows from suppliers. I want us to be realistic.
+- [11] **Jonathan**: I believe we must consider how our physical presence affects accessibility. I shall examine the bus links in the two outer wards and the evening room bookings and remote catalogue use.
+- [12] **Rin**: I want to see what we've already tried! I'll look into the two programmes begun six years ago and the attendance sheets from former outreach stops. Maybe there are secret clues there!
+- [13] **Benjamin**: A most eclectic set of inquiries. To ensure our financial foundations are not merely a mirage, I shall examine the county grant terms and the endowment, as well as the running and equipment lines last year.
+- [14] **Minako**: I believe we must ensure we have the actual expertise to support any new initiative. I will examine the volunteer register and supervision training, as well as the neighbourhood associations and tool certification.
+- [15] **Shizue**: It seems we have a very thorough plan. I am glad to see we are looking at everything from the budget to the volunteers. I believe this balance will lead us to a very kind decision.
+- [16] **Jonathan**: I agree, Shizue. By considering both the logistical constraints and the ways people currently access our knowledge, we can ensure that our expansion is inclusive and peaceful for all.
+- [17] **Rin**: I agree! It's like we're all detectives on a big mission! I can't wait to see if the old records tell us something that everyone else forgot. It's going to be so cool!
+- [18] **Benjamin**: The detective metaphor is quite spirited, Rin. I suspect the "clues" we uncover will be less about mystery and more about the stubborn reality of administrative friction. I shall await the revelations with a measured curiosity.
+- [19] **Minako**: I agree. While the data will provide the necessary facts, it is our responsibility to ensure those facts translate into a sustainable workload for our staff. I look forward to seeing what we discover.
+- [20] **Shizue**: I am so happy we are all in such a positive spirit. Let us each take our time with the records and return with a heart open to the truth. I wish you all a wonderful search.
+- [22] **Jonathan**: I agree, Shizue. May our findings bring us the clarity we need to make a gentle and inclusive choice. I wish you all a peaceful investigation.
+- [24] **Rin**: I'm ready! I'm going to go find those secret clues right now! I'll see you all soon with all the cool stuff I find in the old files! Bye-bye!
+- [26] **Benjamin**: A most optimistic departure, Rin. I shall now retreat to the archives to see if our financial architecture is as sturdy as we hope, or merely a clever piece of stagecraft. Until we reconvene.
+- [28] **Minako**: I shall now examine the records to determine if our human resources align with our goals. I look forward to sharing the facts with you all soon.
+## Round 2
+- [40] **Shizue**: My findings remind us that we must be careful with things we cannot control. I noticed that our scanning contractors' delivery dates can slip if larger clients come first, which could be quite stressful for us.
+- [41] **Jonathan**: My research reveals a quiet struggle with accessibility. Residents in the outer wards have lost their bus links, and our remote catalogue use peaks long after our doors are locked for the evening.
+- [42] **Rin**: I found some super cool secrets! A long time ago, we tried some things that actually worked really well, like outreach stops that way more people visited than the main library! But some other things just got left unfinished.
+- [43] **Benjamin**: It appears we are all uncovering a symphony of systemic frictions. My review suggests a precarious financial dance: our grants provide a temporary flourish of funding that vanishes after a year, leaving the flat budget to shoulder the burden.
+- [44] **Minako**: My findings indicate a critical gap in our operational capacity. While we have skilled volunteers, we lack any staff on the payroll trained to supervise outside facilitators, and we no longer have a certified technician for power tools.
+- [45] **Shizue**: @Minako, that sounds like a heavy burden for our volunteers. It would be so sad if they felt overwhelmed. We must find a path that is gentle on our people and doesn't rely on things that might slip away.
+- [46] **Jonathan**: @Shizue, I agree. It is also concerning that our physical boundaries are becoming barriers. If people in the outer wards cannot reach us and our hours are too restrictive, we are unintentionally excluding those who seek knowledge.
+- [47] **Rin**: @Jonathan, that's exactly why the outreach stops were so great! People loved them because the library came to them! We shouldn't just talk about new ideas; we should look at what already worked!
+- [48] **Benjamin**: @Rin, your enthusiasm for the past is noted, but we must be wary of nostalgia. A project that flourished once may now be a financial liability if the funding structure has shifted from a temporary grant to a stagnant operating budget.
+- [49] **Minako**: @Benjamin, you are correct that funding is a risk, but the human risk is equally tangible. If we implement a project requiring specialized supervision or tool certification, we are simply adding a commitment to a roster that cannot support it.
+- [50] **Shizue**: @Minako, you are so right to worry about the staff. It would be a shame to start something wonderful only to have it fall apart because we were too optimistic. We should seek a plan that is steady and reliable.
+- [51] **Jonathan**: @Rin, the success of those outreach stops is a hopeful sign. If we can bridge the gap for those in the outer wards without adding undue stress to our staff, we might find a truly harmonious solution.
+- [52] **Rin**: @Jonathan, yes! That's what I mean! And @Benjamin, it's not just nostalgia—it's like a map! If we ignore the map, we might walk right into a hole that someone else already fell into six years ago!
+- [53] **Benjamin**: @Rin, a map is only useful if the landscape hasn't shifted. If we follow a six-year-old trail into a financial ravine—specifically one where initial grants evaporate and leave us stranded—the map becomes a liability, not a guide.
+- [54] **Minako**: @Rin, @Benjamin, while you debate the map and the landscape, we must look at the people walking the path. Regardless of the funding or the history, we cannot ignore that we currently lack the certified staff to manage technical tools or outside facilitators.
+- [55] **Shizue**: It is so heartening to see us all caring so deeply for the library. Let us remember that a plan is only a promise; we must choose one that we can keep without causing anyone distress.
+- [56] **Jonathan**: I agree, Shizue. We must seek a path that honors the needs of the isolated and the weary, while remaining mindful of the limits of our current strength. Let us move forward with a spirit of quiet consideration.
+- [57] **Rin**: I agree! Let's find something that's a big win for the people who can't get to the library, but that doesn't make the staff too tired. I'm ready to see the ideas!
+- [58] **Benjamin**: A most spirited consensus. We seek a candidate that is inclusive yet lean, avoiding the siren song of temporary grants and the operational void of missing certifications. I shall await the proposals with a critical eye.
+- [59] **Minako**: I agree. We must prioritize a proposal that fits our actual skill set. A project that looks wonderful on paper but requires nonexistent certifications will only lead to failure and staff burnout. I am ready to review the candidates.
+## Round 3
+- [65] **Shizue**: Looking at our options, the Mobile Branch Service seems like a lovely way to reach those who cannot visit us. It avoids the technical certifications @Minako mentioned and the scanning delays I found.
+- [66] **Jonathan**: I agree, Shizue. The Mobile Branch Service directly addresses the loss of bus links in the outer wards. It brings the library to the people, ensuring that distance is no longer a barrier to knowledge.
+- [67] **Rin**: The Mobile Branch Service is just like the outreach stops I found in the records! It's a proven winner! It's way better than the Digital Archive, which I saw failed before because things didn't get indexed.
+- [68] **Benjamin**: While the Mobile Branch Service is indeed a nostalgic echo of past successes, I must cast a shadow of doubt. My findings on vehicle running costs and the ephemeral nature of grants suggest this could become a financial sinkhole by year two.
+- [69] **Minako**: The Maker Workshop is out of the question; we have no certified technician for power tools. Similarly, the Language Learning Circles require supervising outside facilitators, a skill currently missing from our payroll. We must be realistic about our roster.
+- [70] **Shizue**: @Benjamin, I understand your worry about the costs. But if we choose the Digital Archive, we risk the stress of those slipping delivery windows I found. A mobile service feels more in our own hands.
+- [71] **Jonathan**: @Benjamin, I hear your concerns about the budget, but we must weigh the financial risk against the human cost of exclusion. For those in the outer wards, the library has already effectively vanished. Is a financial risk not preferable to a systemic failure of accessibility?
+- [72] **Rin**: @Jonathan, exactly! And @Benjamin, if we just pick something "safe" that doesn't work, we're just wasting money anyway! The records show people actually *want* the library to come to them. Why ignore a map that already works?
+- [73] **Benjamin**: @Rin, a map that leads to a cliff is not a guide, but a warning. @Jonathan, I do not advocate for exclusion, but for sustainability. A service that collapses in eighteen months is the ultimate failure of accessibility.
+- [74] **Minako**: @Benjamin, sustainability is not just about the budget; it is about the people. The Digital Archive Portal relies on contractors whose delivery dates slip, and the Maker Workshop and Language Circles require certifications we simply do not have. The Mobile Branch is the only viable option.
+- [75] **Shizue**: @Benjamin, I feel for your worries, but a mobile service is so gentle on our staff. It doesn't need special certifications or outside contractors. It is a promise we can keep with a warm smile.
+- [76] **Jonathan**: @Benjamin, I believe we can find a way to manage the costs, perhaps through a phased rollout. But we cannot ignore the silence in the outer wards. A mobile service restores a connection that was quietly severed.
+- [77] **Rin**: @Benjamin, you're being a grumpy-pants! The records show the evening groups from six years ago are still going without any help! That means some ideas can last forever if people love them. Let's be brave and pick the Mobile Branch!
+- [78] **Benjamin**: @Rin, bravery is a virtue in literature, but in accounting, it is often a synonym for negligence. @Jonathan, a phased rollout is merely a slower descent into the same financial ravine. We are choosing between a temporary flourish and a permanent failure.
+- [79] **Minako**: @Benjamin, your focus on the budget is valid, but we cannot ignore the operational facts. The other three options are fundamentally broken from a staffing perspective. We cannot implement what we cannot supervise or certify. The Mobile Branch is the only realistic choice.
+- [80] **Shizue**: It is a rare and beautiful thing to see us all so committed to the library's future. Despite our worries, the Mobile Branch Service is the most caring choice. I vote for the Mobile Branch Service.
+- [81] **Jonathan**: I agree, Shizue. While the financial risks are real, the moral cost of leaving our neighbors in the outer wards isolated is far greater. It is the only path that restores true accessibility. I vote for the Mobile Branch Service.
+- [82] **Rin**: I'm with you guys! The records don't lie—people love the outreach stops, and the Mobile Branch is the only one that doesn't sound like a disaster waiting to happen. I vote for the Mobile Branch Service!
+- [83] **Benjamin**: It is a most curious situation when the only viable path is one that leads directly toward a financial precipice. However, as the other options are operational fantasies, I shall yield to the logic of the least-worst choice. I vote for the Mobile Branch Service.
+- [84] **Minako**: I agree. While the financial concerns are noted, the other proposals are impossible to implement with our current staff certifications and supervision capacity. The Mobile Branch Service is the only realistic option. I vote for the Mobile Branch Service.
+### Vote
+- Shizue -> A
+- Jonathan -> A
+- Rin -> A
+- Benjamin -> A
+- Minako -> A
+## Result
+- adopted: A

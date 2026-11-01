@@ -1,0 +1,73 @@
+# shared_living_0016__multi-private (shared_living)
+
+## Round 1
+- [5] **Minato**: I am worried about the person who will keep the books next year.
+- [6] **Ryuji**: I need to know the actual outgoings before we guess at a fee.
+- [7] **Minako**: The fee structure must not expose individual contributions. I need to protect the anonymity that keeps us cohesive.
+- [8] **May**: I’m tired of people hesitating to show up. The fee shouldn’t make belonging feel like a gamble.
+- [9] **Shunichi**: I suspect the fee is fine, but the workload is skewed. I want to see who actually does the work before we adjust the price.
+- [10] **Minato**: @Ryuji, I agree. But I also wonder if the books are too hard to keep.
+- [11] **Ryuji**: @Minato, if the books are too hard, we need to know why. I will check the ledger and the treasurer's hours.
+- [12] **Minako**: @Ryuji, the ledger shows money, not people. I need to see how newcomers integrate without pressure.
+- [13] **May**: @Minako, anonymity is nice, but hesitation is worse. I need to see why people are pulling back from the winter social.
+- [14] **Shunichi**: @May, hesitation is a symptom, not the cause. I need to see the rota against the attendance record to find the real imbalance.
+- [15] **Minato**: @Shunichi, that sounds important. I am curious about the sign-in sheets too.
+- [16] **Ryuji**: @Minato, the sign-in sheets are useful, but the ledger is the foundation. I will check the bank statements to verify the renewals.
+- [17] **Minako**: @Minato, the sign-in sheets are just data. I need to understand the social fabric. I will check the winter social and the taster forms.
+- [18] **May**: @Shunichi, I’ll check the winter social and the taster forms. I need to see if the hesitation is about the people or the price.
+- [19] **Shunichi**: @Minako, you and May are checking the same things. I will look at the sign-in sheets and the mid-year joiners to see who is actually there.
+- [20] **Minato**: I will look into the treasurer's logged hours and the last year's ledger. I want to understand the burden.
+- [21] **Ryuji**: I will check the last year's ledger and the bank statements. I need to verify the actual costs before we set a fee.
+- [22] **Minako**: I will check the taster evening forms and the sign-up records for mid-year joiners. I need to see how newcomers drift in without pressure.
+- [23] **May**: I will check the winter social attendance and the taster evening forms. I need to pinpoint exactly where the hesitation is creeping in.
+- [24] **Shunichi**: I will check the sign-in sheets and the mid-year joiners. I need to see who is actually there.
+## Round 2
+- [35] **Minato**: I found that chasing individual payments takes six hours a month, but a yearly collection takes only one.
+- [36] **Ryuji**: @Minato, that confirms my fear. The ledger shows seventy percent of costs are fixed, yet a third of renewals needed chasing. We cannot guess the fee.
+- [37] **Minako**: @Ryuji, the data confirms my worry. Nine tasters refused a full-year commitment, and eleven mid-year joiners needed manual calculations. The current structure is too rigid for newcomers.
+- [38] **May**: @Minako, nine tasters refusing a full year? That’s the hesitation I see. I need a structure that lets people dip a toe in, not commit to a whole year.
+- [39] **Shunichi**: @Minako, eleven manual calculations? That is a disaster. @May, the sign-in sheets show a quarter of us doing two-thirds of the work. The fee is a distraction.
+- [40] **Minato**: @Ryuji, that is a lot of fixed costs. @Minako, I am sorry the manual work was so hard for you.
+- [41] **Ryuji**: @Minato, the fixed costs mean we need a buffer. @Shunichi, if the workload is skewed, the fee must reflect that reality, not just the average.
+- [42] **Minako**: @Shunichi, the workload is real, but the fee structure is what keeps the door open. If newcomers feel the pressure, they leave.
+- [43] **May**: @Shunichi, the workload is real, but the hesitation is killing us. If the fee feels like a trap, people won’t show up.
+- [44] **Shunichi**: @May, hesitation is a symptom. The real issue is that a few people carry the load while others pay the same. I need to see who is actually doing the work.
+- [45] **Minato**: @Shunichi, I hear you. But if the books are too hard, people quit. I want a way that is gentle for everyone.
+- [46] **Ryuji**: @Minato, gentleness is not a financial strategy. We need a baseline that covers the fixed costs without relying on guesswork.
+- [47] **Minako**: @Ryuji, a baseline is necessary, but it must not be a barrier. If the entry point is too high, we lose the people who keep us alive.
+- [48] **May**: @Ryuji, a baseline is fine, but it cannot be a wall. If the price makes people hesitate, we lose the very people who make this club worth joining.
+- [49] **Shunichi**: @Ryuji, a baseline is fine, but it ignores the reality. If the fee doesn't account for who actually shows up, we are just paying for empty chairs.
+- [50] **Minato**: I am still thinking about the hours. Six hours a month is so much time. I want to make sure the next person is not overwhelmed.
+- [51] **Ryuji**: I will not set a fee on hope. The numbers show a gap. We need a structure that covers the fixed costs without guessing.
+- [52] **Minako**: I am confident the data supports a flexible entry point. We must protect the anonymity that allows newcomers to drift in without pressure.
+- [53] **May**: I am done hesitating. The data proves the current structure is a trap. I need a way in that doesn't feel like a commitment to a whole year.
+- [54] **Shunichi**: I am done guessing. The data is clear: a few people do the work, the rest pay for empty chairs. We need a structure that reflects actual participation, not just headcount.
+## Round 3
+- [60] **Minato**: I am worried about the person who will keep the books next year.
+- [61] **Ryuji**: @Minato, the ledger shows seventy percent of costs are fixed. Option B fragments that. We need a baseline that covers the hall and insurance reliably.
+- [62] **Minako**: @Ryuji, a baseline is essential, but it must not be a wall. Option C lets newcomers choose a lower tier, protecting the anonymity that keeps us cohesive.
+- [63] **May**: @Minako, Option C is a trap. It forces people to label themselves before they even start. I need a way in that doesn't feel like a commitment to a whole year.
+- [64] **Shunichi**: @May, labeling is better than invisibility. Option C lets the heavy users pay for the work they actually do, unlike the empty chairs in A.
+- [65] **Minato**: @Ryuji, I agree that the fixed costs are high. But Option A means chasing money all year, which is too hard for the treasurer.
+- [66] **Ryuji**: @Minato, Option A is a single collection. It eliminates the chasing. The bank data proves that spreading payments creates the burden, not the fee itself.
+- [67] **Minako**: @Minato, I agree. Option A is the only one that keeps contributions invisible. It protects the quiet drift that defines us.
+- [68] **May**: @Minako, invisibility is just another word for hesitation. If I have to guess what I owe, I won’t show up. Option B lets me pay only when I actually join in.
+- [69] **Shunichi**: @May, Option B is administrative chaos. You are asking the treasurer to track every single event. Option C is the only way to match cost to actual participation.
+- [70] **Minato**: @Shunichi, I am afraid Option C is too complicated. I worry the next treasurer will be overwhelmed by the different levels.
+- [71] **Ryuji**: @Minato, complexity is manageable if the tiers are clear. Option C aligns cost with actual usage, unlike A's empty chairs.
+- [72] **Minako**: @Ryuji, clarity is not the same as visibility. Option C forces members to declare their level, breaking the anonymity that allows newcomers to drift in safely.
+- [73] **May**: @Minako, anonymity is a shield, not a reason to hide. Option B lets me pay only when I actually show up. No guessing, no hesitation, just simple honesty.
+- [74] **Shunichi**: @Minako, anonymity is a luxury we can't afford. Option C is the only way to stop subsidizing empty chairs. I am voting for C.
+- [75] **Minato**: I am still worried about the books. Option A is the simplest for the next person. I will vote for A.
+- [76] **Ryuji**: @Minato, simplicity is not the same as accuracy. Option A ignores the fixed cost reality. I am voting for C.
+- [77] **Minako**: I am voting for A. It is the only structure that preserves the quiet anonymity we need.
+- [78] **May**: I am voting for B. It is the only option that respects my hesitation and keeps the door open without forcing a label.
+- [79] **Shunichi**: I am voting for C. It is the only option that stops subsidizing empty chairs and matches cost to actual participation.
+### Vote
+- Minato -> A
+- Ryuji -> C
+- Minako -> A
+- May -> B
+- Shunichi -> C
+## Result
+- adopted: A

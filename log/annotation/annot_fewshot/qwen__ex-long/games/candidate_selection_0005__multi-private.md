@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I’m worried our plans keep breaking when the weather or roads change. Let’s check what actually happened before.
+- [6] **Benjamin**: I suspect we’re repeating past mistakes. Let’s examine the two programmes begun six years ago to see what actually survived.
+- [7] **Shion**: I observe the roster. We assume skills exist, but do they? Let’s verify the volunteer register and supervision training.
+- [8] **Minako**: I suspect the funding structure itself is flawed. Let’s examine the county grant terms and the endowment to see where the real constraints lie.
+- [9] **Daisuke**: I worry about who can actually reach us. Let’s look at the bus links in the two outer wards to see the real barriers.
+- [10] **Yumi**: @Benjamin, I agree! Let’s check the two programmes begun six years ago to see what actually survived.
+- [11] **Benjamin**: @Yumi, precisely. We need to know if those old initiatives actually delivered value or just generated paperwork. I’ll review the attendance sheets from former outreach stops.
+- [12] **Shion**: @Benjamin, survival is not the same as efficiency. I will examine the running and equipment lines last year to see where the actual strain lies.
+- [13] **Minako**: @Shion, efficiency is vital, but I need to see the structural limits. I will examine the county grant terms and the endowment to understand the funding shape.
+- [14] **Daisuke**: @Minako, I agree. I’ll look into the bus links in the two outer wards and the winter road closures north of the river.
+- [15] **Yumi**: @Shion, I’m curious about the people! I’ll check the volunteer register and supervision training to see who’s actually ready to help.
+- [16] **Benjamin**: @Shion, efficiency is a symptom. I’ll examine the two programmes begun six years ago to see if they actually delivered value or just generated paperwork.
+- [17] **Shion**: @Yumi, the register is a list, not a guarantee. I will examine the volunteer register and supervision training to verify actual capability.
+- [18] **Minako**: @Yumi, the register shows intent, not capacity. I will examine the county grant terms and the endowment to understand the structural funding limits.
+- [19] **Daisuke**: @Yumi, I’m glad you’re checking the people. I’ll stick with the bus links and winter road closures to see who’s truly cut off.
+- [20] **Yumi**: @Daisuke, I’m glad we’re covering all angles! I’ll stick with the volunteer register and the two old programmes. Let’s see who’s really there!
+- [21] **Benjamin**: @Yumi, I’ll stick with the two programmes begun six years ago and the attendance sheets from former outreach stops. The past is the only honest witness.
+- [22] **Shion**: @Benjamin, the past is a mirror, not a map. I will examine the volunteer register and supervision training to confirm the skills actually exist.
+- [23] **Minako**: @Benjamin, the past is a mirror, not a map. I will examine the county grant terms and the endowment to understand the structural funding limits.
+- [24] **Daisuke**: @Benjamin, I agree. I’ll stick with the bus links and winter road closures. I need to see who is truly cut off.
+## Round 2
+- [35] **Yumi**: @Benjamin, wow! The evening groups survived without help, but the digitisation project stalled. That’s a huge difference!
+- [36] **Benjamin**: @Yumi, precisely. The digitisation project is a cautionary tale. We must avoid repeating that error. I’ll examine the running and equipment lines to see where the strain lies.
+- [37] **Shion**: @Benjamin, the ledger confirms my suspicion. The vehicle line overran by a third, yet equipment was underutilized. We are bleeding cash on logistics, not skills.
+- [38] **Minako**: @Shion, the vehicle overrun is a symptom. The grant pays only twelve months, then the flat budget absorbs the cost. That structural gap is the real danger.
+- [39] **Daisuke**: @Minako, that gap is scary. But my data shows the outer wards lost their bus link. An hour’s trip is a wall no grant can fix.
+- [40] **Yumi**: @Daisuke, that’s heartbreaking! But my volunteer data shows we have skilled retirees ready to help. Maybe we can bring the service to them?
+- [41] **Benjamin**: @Yumi, bringing service to them is wise, but only if the logistics don’t collapse. I’ll check the quoted delivery windows to see if suppliers can actually reach those outer wards.
+- [42] **Shion**: @Benjamin, delivery windows are irrelevant if the staff cannot supervise the new facilitators. The roster lacks the necessary oversight skills.
+- [43] **Minako**: @Shion, oversight is vital, but the grant’s twelve-month limit means we cannot sustain new roles. We must choose a service that fits the flat budget, not one that demands extra supervision.
+- [44] **Daisuke**: @Minako, I agree. The flat budget is a hard limit. But if the bus is gone, no service reaches them. We must plan for the hour’s trip.
+- [45] **Yumi**: @Minako, I hear you. But my data shows the evening groups thrive without extra staff! We should pick something that runs itself, like those groups.
+- [46] **Benjamin**: @Yumi, self-sustaining is the only model that survives the grant’s expiration. I’ll verify the evening room bookings to see if that demand is real or just nostalgia.
+- [47] **Shion**: @Benjamin, demand is irrelevant if the roster cannot execute it. I will examine the evening room bookings to verify if the existing staff can actually manage the load.
+- [48] **Minako**: @Benjamin, demand is real, but the flat budget is the true constraint. We must select a service that requires no new recurring costs after the grant expires.
+- [49] **Daisuke**: @Benjamin, I agree. But if the roads close, even a self-sustaining service is unreachable. We must account for the winter isolation.
+- [50] **Yumi**: @Daisuke, winter is tough, but the evening groups prove we can adapt! Let’s pick a service that works even when the roads close.
+- [51] **Benjamin**: @Daisuke, winter isolation is a constraint, not a reason to abandon the outer wards. I’ll examine the remote catalogue use to see if digital access bridges that physical gap.
+- [52] **Shion**: @Benjamin, digital access is a workaround, not a solution. It ignores the physical strain on our already stretched staff. I will examine the evening room bookings to verify the actual load.
+- [53] **Minako**: @Benjamin, digital access is a stopgap. The flat budget is the hard wall. We must choose a service that generates no new recurring costs after the grant expires.
+- [54] **Daisuke**: @Benjamin, digital access helps, but it doesn't replace the physical barrier. I’ll stick with my findings on the bus links and winter closures to see who is truly cut off.
+## Round 3
+- [60] **Yumi**: @Benjamin, the evening groups prove we can adapt! Option C uses partner facilitators, so it runs itself. Let’s pick the one that survives winter!
+- [61] **Benjamin**: @Yumi, Option C mirrors the partner-run groups that survived. But I need to verify if the facilitators are actually trained. I’ll check the volunteer register.
+- [62] **Shion**: @Benjamin, the register is a list, not a guarantee. Option C demands trained facilitators we do not possess. We cannot assume skills exist.
+- [63] **Minako**: @Shion, the register is a list, not a guarantee. Option C demands recurring facilitator fees. The grant expires, and the flat budget cannot absorb that new line.
+- [64] **Daisuke**: @Minako, I agree. But Option D is the only one that reaches the outer wards. The bus is gone, so we must go to them.
+- [65] **Yumi**: @Daisuke, I hear you! But Option D needs a vehicle and staff. My data shows we lack supervisors. Option C uses partners who are already there!
+- [66] **Benjamin**: @Daisuke, Option D repeats the vehicle overrun Shion found. We cannot afford a new logistics line. Option C’s partner model is the only one that survived the last cycle.
+- [67] **Shion**: @Benjamin, precisely. Option D demands a driver and a supervisor. The roster has neither. We would be hiring for a role that does not exist.
+- [68] **Minako**: @Benjamin, precisely. Option D’s vehicle line already overran by a third. The flat budget cannot absorb that recurring strain. Option C’s partner model avoids new recurring costs entirely.
+- [69] **Daisuke**: @Benjamin, I hear the cost worry. But the bus is gone. Option D is the only way to reach the outer wards before winter cuts them off.
+- [70] **Yumi**: @Daisuke, I understand the urgency! But Option C’s partners are already in the outer wards. They don’t need a bus; they just need a room.
+- [71] **Benjamin**: @Daisuke, the attendance sheets prove the outer wards demand service, but Option D’s vehicle costs are a trap. Option C’s partner model is the only one that survived without new recurring costs.
+- [72] **Shion**: @Daisuke, the vehicle is a trap. Option C relies on partners, but the roster lacks supervisors to manage them. We cannot assume oversight exists.
+- [73] **Minako**: @Daisuke, the vehicle is a trap. Option C’s partner model avoids new recurring costs. The flat budget cannot absorb the vehicle strain. We must choose sustainability over reach.
+- [74] **Daisuke**: @Yumi, I hear you. But a room in the main branch is still an hour away. Option C doesn't fix the physical wall I found.
+- [75] **Yumi**: @Daisuke, you’re right, the distance is real. But Option C’s partners are already there! They bridge the gap without us needing a bus. Let’s trust the community!
+- [76] **Benjamin**: @Daisuke, the partners are already in the outer wards. Option C bridges the gap without the vehicle trap. I vote for C.
+- [77] **Shion**: @Benjamin, I concur. Option C is the only model that does not demand skills we lack. The partners provide the oversight. I vote for C.
+- [78] **Minako**: @Benjamin, precisely. Option C’s partner model avoids the vehicle trap and new recurring costs. The flat budget can sustain it. I vote for C.
+- [79] **Daisuke**: @Benjamin, I see the partners are already there. Option C reaches them without the vehicle trap. I vote for C.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I worry about relying on external factors. Let's check our past reliability.
+- [6] **Benjamin**: We always judge by sound. I want to see what actually happened before.
+- [7] **Shion**: Efficiency is key. I need to know if we have the capacity to absorb this.
+- [8] **Minako**: The numbers look fine now, but I suspect the structure is flawed.
+- [9] **Daisuke**: I am quiet, but I feel the weight of these choices.
+- [10] **Yumi**: @Benjamin, do you think looking back helps us move forward?
+- [11] **Benjamin**: It prevents us from repeating expensive mistakes, Yumi. That is all.
+- [12] **Shion**: I am not interested in sentiment. I need hard data on our limits.
+- [13] **Minako**: Agreed. We must understand the skeleton of the budget, not just the skin.
+- [14] **Daisuke**: I just want to make sure no one is left behind in the shuffle.
+- [15] **Yumi**: I will look at our recent operational lines to see where we slipped.
+- [16] **Benjamin**: I will examine the two programmes begun six years ago.
+- [17] **Shion**: I will check the volunteer register and the supervision training records.
+- [18] **Minako**: I will review the county grant terms and the endowment details.
+- [19] **Daisuke**: I will look at the bus links in the two outer wards.
+- [20] **Yumi**: It feels safer to know exactly where the ground is soft.
+- [21] **Benjamin**: History is a mirror, not a cage. We just need to look.
+- [22] **Shion**: If the skills aren't there, the plan is dead on arrival.
+- [23] **Minako**: I trust the structure more than the promises. Let's see the fine print.
+- [24] **Daisuke**: I hope the connections hold. I am a bit nervous about this.
+## Round 2
+- [35] **Yumi**: The roads closed, but the halls stayed open. That is a good sign for us.
+- [36] **Benjamin**: The digitisation project failed, but the evening groups survived. That is a useful distinction.
+- [37] **Shion**: I found a gap. We have volunteers, but no one to manage them properly.
+- [38] **Minako**: The grant is a trap. It pays for a year, then we are on our own.
+- [39] **Daisuke**: The bus links are gone. The outer wards are cut off from us.
+- [40] **Yumi**: @Minako, if the grant ends, do we have a fallback?
+- [41] **Benjamin**: The evening groups prove that community-led models work without our direct funding.
+- [42] **Shion**: We cannot hire new staff. We must use what is already in the room.
+- [43] **Minako**: The equipment money was wasted on things we did not need. The running costs are real.
+- [44] **Daisuke**: I am worried. If the buses stop, who comes to the library?
+- [45] **Yumi**: I think we should focus on the evening room bookings. They seem resilient.
+- [46] **Benjamin**: Agreed. The remote catalogue use is also strong. It bypasses the road issues.
+- [47] **Shion**: I object to hiring. I propose we leverage the existing volunteer network for supervision.
+- [48] **Minako**: I agree with Shion. We must not add fixed costs. We need flexible, low-cost options.
+- [49] **Daisuke**: The remote catalogue helps, but it does not replace the human touch for those who are isolated.
+- [50] **Yumi**: So, we are looking at evening rooms and remote access?
+- [51] **Benjamin**: Yes. The data supports it. The evening groups and remote use are the stable points.
+- [52] **Shion**: I will support that, provided we do not promise new staff. We use the volunteers.
+- [53] **Minako**: That aligns with the budget reality. No new fixed lines. Just flexible use of existing assets.
+- [54] **Daisuke**: I am relieved. It feels less like a burden and more like a support.
+## Round 3
+- [60] **Yumi**: Option C feels right. It uses people, not just things. It is resilient.
+- [61] **Benjamin**: Option B is a trap. We tried digitisation before and it failed. Do not repeat it.
+- [62] **Shion**: Option A requires tools and space. We have neither. Option C uses existing volunteers.
+- [63] **Minako**: Option D is a budget black hole. The vehicle costs will eat us alive.
+- [64] **Daisuke**: Option C... it connects people. It feels safe. I like it.
+- [65] **Yumi**: @Shion, do you think the volunteers can handle the language circles?
+- [66] **Benjamin**: The evening groups worked. Language circles are similar. They are low-cost and high-impact.
+- [67] **Shion**: Yes. The register shows retired teachers. They are perfect for this. No new hires needed.
+- [68] **Minako**: I agree. No capital expenditure. No new fixed lines. It fits the grant structure perfectly.
+- [69] **Daisuke**: It helps the outer wards too. They can join the circles without traveling far.
+- [70] **Yumi**: I am convinced. Option C is the one. It is kind and practical.
+- [71] **Benjamin**: I concur. The data supports it. The previous failures were in hardware, not community.
+- [72] **Shion**: I will vote for C. It is the only logical choice given our constraints.
+- [73] **Minako**: I will vote for C. It is the only option that does not break the budget in year two.
+- [74] **Daisuke**: I will vote for C. It feels like the right thing to do for everyone.
+- [75] **Yumi**: It is settled then. We choose the people.
+- [76] **Benjamin**: A wise choice. Let us not look back at this one.
+- [77] **Shion**: Efficient. I am satisfied. Let us proceed.
+- [78] **Minako**: The structure holds. I am confident in this decision.
+- [79] **Daisuke**: Thank you. I feel a little lighter now.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

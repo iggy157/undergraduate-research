@@ -1,0 +1,73 @@
+# shared_living_0023__multi-public (shared_living)
+
+## Round 1
+- [5] **Victoria**: Before we move furniture, I need to understand the actual monthly cost of this floor.
+- [6] **Minato**: I just want to know which spots are quiet and comfortable.
+- [7] **May**: Victoria, that’s a start, but I care about the daily grind. How long does the switch actually eat into our mornings?
+- [8] **Shunichi**: I’m not interested in comfort or cost. I want to know who gets the worst seats, and why we never discuss that openly.
+- [9] **Daisuke**: I... I just want to know who I'll sit next to. It changes how much I talk to everyone.
+- [10] **Victoria**: @May, the morning routine data will show that. @Shunichi, the survey might explain the seating bias.
+- [11] **Minato**: @May, the morning routine data will show that. @Shunichi, the survey might explain the seating bias.
+- [12] **May**: @Minato, you copied Victoria’s words exactly. That’s a bit lazy, don’t you think?
+- [13] **Shunichi**: @May, I’m not copying. I’m just stating the obvious. @Minato, you’re right, the survey is the key.
+- [14] **Daisuke**: I... I think the badge records might show who arrives when. That decides who gets the good spots.
+- [15] **Victoria**: @Daisuke, badge records confirm arrival times. I’ll check the floor billing basis and the facilities quote for re-running power.
+- [16] **Minato**: I’ll look into the sound meter readings and the physio’s note. I want to know what feels right.
+- [17] **May**: I’ll check the morning routine upstairs and the unplanned shuffles. I need to know exactly what we lose every single day.
+- [18] **Shunichi**: I’ll check the drawn plan against the staff survey and the unplanned seat shuffles. I need to see how the bias actually formed.
+- [19] **Daisuke**: I... I’ll look into the badge records and what the new joiners reported. I need to know how we actually connect.
+- [20] **Victoria**: I’ll review the floor billing basis and the facilities quote. I need the true monthly cost before we commit to any layout.
+- [21] **Minato**: I’ll check the sound meter readings and the physio’s note. I want to know what feels right.
+- [22] **May**: I’ll check the morning routine upstairs and the unplanned shuffles. I need to know exactly what we lose every single day.
+- [23] **Shunichi**: I’ll check the drawn plan against the staff survey and the unplanned seat shuffles. I need to see how the bias actually formed.
+- [24] **Daisuke**: I... I’ll look into the badge records and what the new joiners reported. I need to know how we actually connect.
+## Round 2
+- [35] **Victoria**: The billing is area-based, not headcount. We paid for empty desks last quarter. Plus, every move costs 6,200 yen.
+- [36] **Minato**: I found the printer row is nine decibels louder. Also, the physio says chairs take days to adjust properly.
+- [37] **May**: Four to nine minutes every morning. And two weeks of chaos last year. That’s the real price tag.
+- [38] **Shunichi**: @Victoria, the survey confirms daylight was the top complaint. The plan gives four windows, three interior walls. That’s the bias.
+- [39] **Daisuke**: I... the badge records show early arrivals take the good spots. And the new joiners learned by overhearing.
+- [40] **Victoria**: @Shunichi, that daylight bias is expensive. We pay for empty space, yet the layout still favors a few.
+- [41] **Minato**: @May, four to nine minutes is a lot. But the physio note worries me more. If we move desks, my chair takes days to feel right again.
+- [42] **May**: @Minato, the chair pain is real, but two weeks of chaos? That’s a month of my life gone. We can’t afford that again.
+- [43] **Shunichi**: @May, chaos is temporary. The window seats are permanent. We need to decide who gets the light, not just avoid the mess.
+- [44] **Daisuke**: @Shunichi, but if the good spots are taken before I arrive, I’m stuck with the bad ones.
+- [45] **Victoria**: @Daisuke, that confirms the risk. @May, the 6,200 yen per move means we must pick a layout that stays put.
+- [46] **Minato**: @Shunichi, I agree the window seats are valuable. But if I have to re-adjust my chair for days, the quiet spot doesn’t matter.
+- [47] **May**: @Shunichi, permanent bias is worse than temporary chaos. I need a layout that respects my time, not just the view.
+- [48] **Shunichi**: @May, you’re right. But avoiding chaos doesn’t fix the unfairness. We need a system that distributes the light, not just hides the mess.
+- [49] **Daisuke**: @Shunichi, I agree. But if I sit next to the quiet people, I never learn the unwritten rules.
+- [50] **Victoria**: @Shunichi, distributing light is fair, but the 6,200 yen per move makes frequent rotation financially impossible. We need stability.
+- [51] **Minato**: @Victoria, I understand the cost. But if I sit by the printer, the noise hurts. I just want a quiet, comfortable spot that stays the same.
+- [52] **May**: @Victoria, stability is good, but only if it doesn’t lock me into a noisy, inefficient spot. I need a layout that protects my morning gaps.
+- [53] **Shunichi**: @Victoria, stability is the only option that doesn’t bankrupt us. But if we freeze the layout, we must explicitly assign the window seats. No more guessing.
+- [54] **Daisuke**: @Shunichi, I agree. But if I’m stuck in a corner, I won’t hear the new joiners. I need to be near the center.
+## Round 3
+- [60] **Victoria**: @Shunichi, Option A is the only one that avoids the 6,200 yen penalty. We must assign seats permanently to stop the financial bleed.
+- [61] **Minato**: @Victoria, I agree. But please, can I have the window side? The printer row is too loud, and my chair needs time to settle.
+- [62] **May**: @Minato, the window is nice, but I need to know if my morning gaps survive. @Victoria, does Option A protect my time?
+- [63] **Shunichi**: @May, Option A freezes the bias. If we pick it, I want the window seats explicitly named, not left to chance.
+- [64] **Daisuke**: @Shunichi, I agree. But if I’m fixed in a corner, I won’t hear the new joiners. I need to be near the center.
+- [65] **Victoria**: @May, Option A protects your time by eliminating the daily scramble. @Daisuke, we can place you centrally to preserve those connections.
+- [66] **Minato**: @Victoria, thank you. If I can have the quiet window seat, I will be very happy. It feels safe.
+- [67] **May**: @Victoria, eliminating the scramble is great, but does it guarantee I won’t get stuck in a noisy corner? I need certainty, not just hope.
+- [68] **Shunichi**: @May, certainty comes from explicit assignment. If we name the seats, you know exactly where you sit. No surprises, no noise.
+- [69] **Daisuke**: @Shunichi, if I’m central, I hear the new joiners. But @May, will I still have my quiet gaps?
+- [70] **Victoria**: @May, certainty comes from the plan. @Daisuke, central placement preserves your connections. @Minato, the window seat is yours.
+- [71] **Minato**: @Victoria, thank you. That is wonderful. I feel much safer knowing my chair will finally settle.
+- [72] **May**: @Victoria, if I’m guaranteed a quiet, central spot, I’m in. But I need that written down, not just promised.
+- [73] **Shunichi**: @May, written down means the floor plan. No verbal promises. @Daisuke, central placement is non-negotiable for your learning.
+- [74] **Daisuke**: @Shunichi, I agree. If I’m central, I can hear the new joiners. I’ll vote for A.
+- [75] **Victoria**: @May, the plan is the contract. @Shunichi, explicit assignment is the only way to stop the financial bleed. I vote for A.
+- [76] **Minato**: @Victoria, thank you. The window seat is perfect. I will vote for A.
+- [77] **May**: @Victoria, if the plan explicitly names my seat as quiet and central, I’m in. I vote for A.
+- [78] **Shunichi**: @May, the plan is the contract. No more silent defaults. I vote for A.
+- [79] **Daisuke**: @Shunichi, if I’m central, I can hear the new joiners. I’ll vote for A.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

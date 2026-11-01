@@ -1,0 +1,73 @@
+# candidate_selection_0010__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I worry we judge by sound, not by the daily losses on the floor.
+- [6] **May**: We treat staff time as free. Who absorbs the extra work?
+- [7] **Shunichi**: We promise dates based on conditions we do not control.
+- [8] **Ryuji**: The fund is committed before we know the actual budget source.
+- [9] **Kenji**: We keep rediscovering lessons from earlier winners. Nobody checks the files.
+- [10] **Daisuke**: @May Exactly. The effort is invisible until the rota breaks.
+- [11] **May**: @Daisuke Agreed. We need to see the staffing reality.
+- [12] **Shunichi**: @Ryuji The budget source changes what is affordable.
+- [13] **Ryuji**: @Shunichi Yes. The renewal notice often brings the real bill.
+- [14] **Kenji**: @All We should look at past outcomes to avoid repetition.
+- [15] **Daisuke**: I want to see the time lost to copying records.
+- [16] **May**: I need to check the staffing of the coordination group.
+- [17] **Shunichi**: I will look into network coverage at customer plants.
+- [18] **Ryuji**: I will investigate the capital budget and software allowance.
+- [19] **Kenji**: I will review the outcomes of the last three rollouts.
+- [20] **Daisuke**: Also, the incident logs for misrouted deliveries seem relevant.
+- [21] **May**: And the handling of vendor queries shows duplication.
+- [22] **Shunichi**: In-house developer availability is a critical constraint.
+- [23] **Ryuji**: Vendor licence pricing versus fixed-fee work is key.
+- [24] **Kenji**: Record of cross-unit standardization efforts will show patterns.
+## Round 2
+- [35] **Daisuke**: The time lost to copying is nearly an hour daily.
+- [36] **May**: The coordination group is understaffed. Two people do it all.
+- [37] **Shunichi**: Half the customer plants lose network coverage for afternoons.
+- [38] **Ryuji**: The capital line is frozen, but software allowance has room.
+- [39] **Kenji**: Tools needing daily entry from everyone were quietly dropped.
+- [40] **Daisuke**: @May That explains the rota breaks. The effort is real.
+- [41] **May**: @Daisuke Yes. The vendor queries are also duplicated constantly.
+- [42] **Shunichi**: @Ryuji If capital is frozen, we must use the software allowance.
+- [43] **Ryuji**: @Shunichi Correct. Fixed-fee work is cheaper than per-head licences.
+- [44] **Kenji**: @All Narrow tools for one trade still run. Broad ones fail.
+- [45] **Daisuke**: The misrouted deliveries trace to duplicate addresses.
+- [46] **May**: The same certificate is requested repeatedly from the same firm.
+- [47] **Shunichi**: Developers are committed to accounting until Q3.
+- [48] **Ryuji**: Per-head licences climb with every department added.
+- [49] **Kenji**: Four of six standardization efforts ended without an owner.
+- [50] **Daisuke**: We need a solution that reduces daily copying and errors.
+- [51] **May**: It must not rely on extra staff we do not have.
+- [52] **Shunichi**: It cannot depend on network coverage we do not have.
+- [53] **Ryuji**: It must fit within the recurring software allowance.
+- [54] **Kenji**: It should be narrow and specific, not a broad platform.
+## Round 3
+- [60] **Daisuke**: Candidate C, Supplier Data Hub, addresses the duplicate addresses.
+- [61] **May**: C also solves the repeated certificate requests.
+- [62] **Shunichi**: C does not require network coverage at customer plants.
+- [63] **Ryuji**: C can be built as a fixed-fee project within the allowance.
+- [64] **Kenji**: C is a narrow tool for a specific problem, like the successful ones.
+- [65] **Daisuke**: A, Field Service App, fails due to network coverage issues.
+- [66] **May**: A requires staff time we do not have for maintenance.
+- [67] **Shunichi**: A depends on conditions we do not control at customer sites.
+- [68] **Ryuji**: A might exceed the software allowance if per-head licences apply.
+- [69] **Kenji**: A is too broad. It needs daily entry from everyone.
+- [70] **Daisuke**: B, Training Studio, does not address the daily operational losses.
+- [71] **May**: B requires production staff we do not have.
+- [72] **Shunichi**: B is not a technical fix for the data issues.
+- [73] **Ryuji**: B is a capital expense, which is frozen.
+- [74] **Kenji**: B is not a narrow tool. It is a broad service.
+- [75] **Daisuke**: D, Workflow Assistant, adds more work to the coordination group.
+- [76] **May**: D requires staff to review and correct the drafts.
+- [77] **Shunichi**: D depends on in-house developers who are unavailable.
+- [78] **Ryuji**: D is a recurring cost that may not fit the allowance.
+- [79] **Kenji**: D is too broad. It will likely be dropped like the others.
+### Vote
+- Daisuke -> C
+- May -> C
+- Shunichi -> C
+- Ryuji -> C
+- Kenji -> C
+## Result
+- adopted: C

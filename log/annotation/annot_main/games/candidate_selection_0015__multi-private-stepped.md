@@ -1,0 +1,73 @@
+# candidate_selection_0015__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: We should prioritize stability. I want to see what external factors have disrupted us.
+- [6] **Yumi**: I want to make sure everyone can actually get to the library! Let's look at access.
+- [7] **George**: I am concerned about the long-term sustainability of our funding structures.
+- [8] **May**: Why guess when we have history? I want to see what we've actually tried before.
+- [9] **Daisuke**: Um... I just hope we don't overwork the staff. I'll look into the training.
+- [10] **Ryuji**: @Yumi, access is important, but only if the service is reliable once they arrive.
+- [11] **Yumi**: That's true! But if they can't reach us, the reliability doesn't matter, right?
+- [12] **George**: We must ensure the money lasts. A large sum is useless if it vanishes too quickly.
+- [13] **May**: Exactly, George. But spending money on things that failed six years ago is the real waste.
+- [14] **Daisuke**: I... I think we should check if we have the right people for the jobs.
+- [15] **Ryuji**: I will focus on the logistics and the environmental constraints we face.
+- [16] **Yumi**: I'm going to check the bus links and the road closures! I want everyone included.
+- [17] **George**: I will examine the grant terms and the equipment lines to see where the leak is.
+- [18] **May**: I'm sticking to the archives. Let's see those old programs and the outreach sheets.
+- [19] **Daisuke**: I'll look at the volunteer register and the room bookings... maybe.
+- [20] **Ryuji**: Agreed. Let's gather the data before we commit to a proposal.
+- [21] **Yumi**: Yay! I can't wait to see what we find! Let's make this great for everyone!
+- [22] **George**: Let us proceed. I prefer to see the hard numbers before discussing the options.
+- [23] **May**: Don't be so boring, George! But yes, let's see who's actually doing their homework.
+- [24] **Daisuke**: Okay... I'll do my best to help.
+## Round 2
+- [35] **Ryuji**: It seems our reliance on external contractors and weather-dependent routes is a significant vulnerability.
+- [36] **Yumi**: Oh no! The people in the outer wards are really struggling to get to us!
+- [37] **George**: As I suspected. The funding is fragmented. We have money in the wrong buckets.
+- [38] **May**: Funny how the "new" ideas we're discussing are just ghosts of things we did six years ago.
+- [39] **Daisuke**: I found out... we have volunteers, but the staff aren't trained to manage them.
+- [40] **Ryuji**: @George, if the funding is fragmented, we cannot rely on services that require high, consistent maintenance.
+- [41] **Yumi**: @Ryuji, but we can't just ignore the people who can't reach us! We have to go to them!
+- [42] **George**: Going to them requires vehicles. And our running lines are already over budget.
+- [43] **May**: We already did the "going to them" part. The outreach sheets show it worked brilliantly.
+- [44] **Daisuke**: If we go to them... who will manage the staff on the road? We're already so tired.
+- [45] **Ryuji**: We need a proposal that is self-contained. No third-party delivery windows or road-dependent schedules.
+- [46] **Yumi**: But the road closures are only in winter! We can't just stop helping people because of snow!
+- [47] **George**: It is not about the snow, Yumi. It is about the budget collapsing in year two.
+- [48] **May**: You're all arguing about the future while ignoring the fact that we've already failed at this.
+- [49] **Daisuke**: I'm worried... if we add more, the staff will just... break. We need a simple plan.
+- [50] **Ryuji**: Simplicity and independence are the only ways to ensure the service doesn't collapse again.
+- [51] **Yumi**: I just want to make sure we don't leave anyone behind. That's the most important thing!
+- [52] **George**: I will support a plan that aligns with the endowment's structure, not the temporary grants.
+- [53] **May**: I'll support whatever doesn't involve pretending we're inventing the wheel for the first time.
+- [54] **Daisuke**: I... I agree with Ryuji. Something simple. Please.
+## Round 3
+- [60] **Ryuji**: Option C is the most stable. It is on-site and doesn't depend on roads or external contractors.
+- [61] **Yumi**: Option D! It's the only one that helps the people in the outer wards who lost their buses!
+- [62] **George**: Option D is a financial trap. The running costs will bleed us dry by the second year.
+- [63] **May**: Option B is just a repeat of the digitisation project from six years ago. It's a disaster waiting to happen.
+- [64] **Daisuke**: Option C... we have the volunteers for it. But who will supervise them?
+- [65] **Ryuji**: @Daisuke, the tool certification is a fixed system. It's safer than managing a mobile fleet in winter.
+- [66] **Yumi**: @George, how can you say it's a trap when people are literally cut off from their library?
+- [67] **George**: Because a service that shuts down after eighteen months is worse than no service at all.
+- [68] **May**: Option A is interesting. It's low-cost and relies on people, not expensive equipment or vans.
+- [69] **Daisuke**: Option A... that sounds like a lot of coordination. The staff are already so busy.
+- [70] **Ryuji**: Option A depends on "partner organizations." That is another external condition we cannot control.
+- [71] **Yumi**: But Option A could happen in the community halls! The ones that stay open during the snow!
+- [72] **George**: If it's in community halls, we are back to the problem of fragmented grant funding.
+- [73] **May**: You're all so afraid of the world outside the building. Option A is the most human.
+- [74] **Daisuke**: I... I think Option C is the safest. It's in one place. It's... manageable.
+- [75] **Ryuji**: I stand by Option C. It is the only proposal that is truly independent of external volatility.
+- [76] **Yumi**: I can't vote for something that stays in the main branch. We have to reach the outer wards!
+- [77] **George**: I will vote for Option C. It is the only one that fits the endowment's capital structure.
+- [78] **May**: I'll go with Option A. It's a fresh start that doesn't repeat the mistakes of the archive.
+- [79] **Daisuke**: I'll vote for C too. I don't want anyone to have to work too many extra hours.
+### Vote
+- Ryuji -> C
+- Yumi -> D
+- George -> C
+- May -> A
+- Daisuke -> C
+## Result
+- adopted: C

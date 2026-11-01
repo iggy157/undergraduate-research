@@ -1,0 +1,73 @@
+# candidate_selection_0025__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about relying on conditions we cannot control, like weather or transport.
+- [6] **Jonathan**: The location of our branches already dictates who can reach us.
+- [7] **Rin**: Why do we keep judging new ideas by how they sound?
+- [8] **Benjamin**: Budgets often look fine on the day, but thin by year two.
+- [9] **Minako**: We must check if staff actually have the skills for new tasks.
+- [10] **Shizue**: @Benjamin, that sounds familiar. I have seen timetables crumble before.
+- [11] **Jonathan**: @Rin, perhaps we should look at what has already been tried.
+- [12] **Rin**: Yes! I want to see the records of old programmes.
+- [13] **Benjamin**: I will look at the funding terms to see where the gaps are.
+- [14] **Minako**: I need to check the volunteer register and training records.
+- [15] **Shizue**: I will check the winter road closures to see how access failed.
+- [16] **Jonathan**: I will look at the bus links in the outer wards.
+- [17] **Rin**: I will check the attendance sheets from former outreach stops.
+- [18] **Benjamin**: I will also look at the running and equipment lines.
+- [19] **Minako**: I will check the neighbourhood associations and tool certification.
+- [20] **Shizue**: It is important to understand the physical barriers first.
+- [21] **Jonathan**: Agreed. Geography is a silent voter in these decisions.
+- [22] **Rin**: I hope the numbers tell the truth, not just the stories.
+- [23] **Benjamin**: The ledger never lies, even if the narrative does.
+- [24] **Minako**: Let us see what the data says before we vote.
+## Round 2
+- [35] **Shizue**: The roads were closed eleven days, but the halls kept their timetables.
+- [36] **Jonathan**: The outer wards lost their bus link; it is an hour's round trip now.
+- [37] **Rin**: The old outreach stops averaged forty visitors, more than the main building.
+- [38] **Benjamin**: The vehicle line overran by a third, but the grant only covers twelve months.
+- [39] **Minako**: We have retired tradespeople, but no one on payroll is trained to supervise.
+- [40] **Shizue**: @Rin, that attendance figure is surprising. Did they really outperform the main branch?
+- [41] **Jonathan**: @Benjamin, if the grant expires, who pays for the sessions after that?
+- [42] **Rin**: Yes, the records show they were very popular. It seems we ignored that.
+- [43] **Benjamin**: The flat operating budget carries them after the grant ends. That is a risk.
+- [44] **Minako**: @Shizue, if the halls worked, why did we stop supporting them?
+- [45] **Shizue**: I think we underestimated the community's resilience and local organization.
+- [46] **Jonathan**: The bus loss makes a mobile service seem more urgent, but also harder.
+- [47] **Rin**: We need to look at the digital archive too, but the old one was half done.
+- [48] **Benjamin**: The equipment allocation closed under budget, which is good, but the running costs are high.
+- [49] **Minako**: The tool certification lapsed when the technician retired. That is a gap.
+- [50] **Shizue**: We must ensure whatever we choose does not depend on fragile external links.
+- [51] **Jonathan**: A mobile branch could bridge the bus gap, but the running costs worry me.
+- [52] **Rin**: The language circles seem to have worked well when partners were involved.
+- [53] **Benjamin**: The endowment covers capital, but not the ongoing session fees. That is the trap.
+- [54] **Minako**: We need a plan for supervision if we bring in outside facilitators.
+## Round 3
+- [60] **Shizue**: I am leaning towards the Language Circles, as they seem more self-sustaining.
+- [61] **Jonathan**: The Mobile Branch addresses the access issue, but the budget risk is high.
+- [62] **Rin**: The Digital Archive is appealing, but the previous attempt was incomplete.
+- [63] **Benjamin**: The Maker Workshop has high capital costs, but the running costs might be lower.
+- [64] **Minako**: The Language Circles rely on partners, which reduces our direct staffing burden.
+- [65] **Shizue**: @Minako, do you think we can manage the supervision for the circles?
+- [66] **Jonathan**: @Benjamin, is the grant term a dealbreaker for the mobile service?
+- [67] **Rin**: I think the attendance data supports the mobile idea, despite the costs.
+- [68] **Benjamin**: It is a risk, but the endowment might cover the initial vehicle setup.
+- [69] **Minako**: We have the volunteers, but we need to train supervisors. That is doable.
+- [70] **Shizue**: The Language Circles seem the most stable, given the partner support.
+- [71] **Jonathan**: I am concerned about the mobile service's long-term viability.
+- [72] **Rin**: I will vote for the Mobile Branch, as it directly helps the outer wards.
+- [73] **Benjamin**: I will vote for the Language Circles, as the funding model is clearer.
+- [74] **Minako**: I will vote for the Language Circles, as the staffing gap is manageable.
+- [75] **Shizue**: I agree with the Language Circles. They seem the most resilient.
+- [76] **Jonathan**: I will vote for the Language Circles, to avoid the budget trap.
+- [77] **Rin**: I hope the mobile service gets the attention it deserves, but I will follow the majority.
+- [78] **Benjamin**: The Language Circles offer a sustainable path forward.
+- [79] **Minako**: Let us proceed with the Language Circles.
+### Vote
+- Shizue -> C
+- Jonathan -> C
+- Rin -> A
+- Benjamin -> C
+- Minako -> C
+## Result
+- adopted: C

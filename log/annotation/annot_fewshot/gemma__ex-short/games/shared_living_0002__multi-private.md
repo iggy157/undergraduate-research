@@ -1,0 +1,71 @@
+# shared_living_0002__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know what it's actually like for people! I'll look into the supervised mornings on the next lane and the visit to the station block's bin house.
+- [6] **Midori**: I want to make sure we're being fair with the costs. I'll look into the block ledger of refuse-point expenses and the ward subsidy and last year's shelter costs.
+- [7] **Shunichi**: I'll handle the bureaucracy. I'll look into the ward filing requirements per the installations clerk and the ward complaint log for this point. Let's see exactly how much the ward office is annoyed with us.
+- [8] **May**: I'll take a look at the station block's meeting minutes and the statements at the residents' meeting. I want to see what people are actually complaining about behind the scenes!
+- [9] **Asuka**: I will look into the measurements of the five frontages and the truck arrival time from the crew leader. I want to understand the physical constraints and the actual timing of the collection.
+- [12] **Shunichi**: I think we've covered all the bases for now. No need to overcomplicate the research phase. I'm curious to see if the complaint log is as dramatic as I expect.
+- [13] **May**: I'm with you, Shunichi! I have a feeling those meeting minutes are going to be a goldmine of neighborhood drama. This should be interesting!
+- [14] **Asuka**: I agree. We have a comprehensive list of data points. I will focus on the objective measurements and timing to ensure any proposed solution is grounded in physical reality.
+- [15] **Rin**: I'm just so excited to see how the other neighborhoods do it! Maybe they have some super cool ideas we haven't thought of yet. I hope the bin house is like a little fort!
+- [16] **Midori**: I hope so too, Rin! It would be lovely if we could find a solution that makes everyone happy. I'm just a bit worried about how the costs will be split among us.
+- [17] **Shunichi**: @Midori, costs are just numbers. What really matters is whether we can agree on them without starting another neighborhood war. Let's hope the data keeps us civil.
+- [18] **May**: @Shunichi, a little drama keeps things lively, doesn't it? But you're right, let's just hope we don't end up as the main topic of the next residents' meeting!
+- [19] **Asuka**: While drama may be entertaining for some, it is a distraction. We should prioritize a sustainable and equitable arrangement over neighborhood gossip. I will wait for the results of our research.
+- [20] **Rin**: I'm ready! I can't wait to find out if the other lane's mornings are fun or just boring. Let's see what we find!
+- [22] **Midori**: I'm ready too. I'll do my best to find the financial details so we can all feel comfortable with the plan.
+- [24] **Shunichi**: I'm ready. Let's see if the ward office's records are as tedious as the actual process of talking to each other.
+- [26] **May**: I'm all set! I'll be waiting to see if the gossip matches the reality. Let's get to it!
+- [28] **Asuka**: I am ready. I will analyze the data objectively to ensure the final arrangement is fair and practical for everyone involved.
+## Round 2
+- [40] **Rin**: Oh no! The bin house sounds like a stinky trap! If you can't hose it out, the smell just gets worse in the summer. I don't want our corner to smell like that!
+- [41] **Midori**: That sounds unpleasant, Rin. I've found that we're spending quite a bit on maintenance—about thirty-four thousand yen a year—just because bags are left open. It seems like a waste of our shared resources.
+- [42] **Shunichi**: The complaint log is a masterpiece of obsession. Fourteen entries in three years, and eleven are from a single household. It seems we have a very dedicated critic living right next to the bins.
+- [43] **May**: And the drama continues! The meeting minutes are just as spicy as I hoped. The station block spent two years fighting over a broken latch and who has to sweep. It's practically a soap opera!
+- [44] **Asuka**: The physical reality is quite restrictive. One frontage is barely ninety centimeters wide, and another is mostly a driveway. Furthermore, the truck arrives as early as 7:40, which complicates any plan involving active management.
+- [45] **Rin**: @Asuka, 7:40 is so early! I'd still be dreaming about adventures. If we have to be there that early, it'll be a total drag for everyone, especially if it smells!
+- [46] **Midori**: @Asuka, that is very early. If we want to avoid the maintenance costs I found, we might need a better shelter, but I worry about how we'll afford it given the different budgets we all have.
+- [47] **Shunichi**: @Midori, if we're worried about budgets, we should probably avoid anything that requires a massive upfront cost. Besides, looking at the complaint log, a fancy shelter won't stop our resident critic from finding something to moan about.
+- [48] **May**: @Shunichi, you're so cynical! But honestly, the residents' meeting statements were the real eye-opener. Nobody wants to be the "bad guy" who tells a neighbor their bag is late. We're all just pretending to be polite while avoiding the work!
+- [49] **Asuka**: @May, that avoidance is exactly why we need a formal system. If we rely on "politeness," the burden inevitably falls on whoever is the most passive or the one whose gate is currently being used. We need a concrete plan.
+- [50] **Rin**: But if we make it too formal, it'll be boring! Still, the next lane's supervised mornings only happen twenty times a year per house. That doesn't sound too bad, as long as we don't have to smell a stinky bin house!
+- [51] **Midori**: @Rin, twenty times a year sounds manageable, but I'm still thinking about the money. If we build a new shelter, it could cost over two hundred thousand yen, even with the ward subsidy. That's a lot for some of us.
+- [52] **Shunichi**: @Midori, spending two hundred thousand yen just to appease a few complaints seems like a poor investment. We should focus on a solution that doesn't bankrupt us or require a four-month bureaucratic nightmare.
+- [53] **May**: @Asuka, you hit the nail on the head! It's always the same story—someone ends up doing all the heavy lifting while everyone else just smiles. I'm not interested in becoming the neighborhood's unpaid concierge!
+- [54] **Asuka**: @May, exactly. The current situation is an invisible burden. If we simply "agree" to a new system without specifying who manages the space and how the location rotates, we are just legitimizing an unfair distribution of labor.
+- [55] **Rin**: I think we should avoid the bin house idea completely! It's just a stinky box. Maybe the supervised mornings are better because people actually see what's happening, and it's not that many days a year!
+- [56] **Midori**: I agree that we should avoid anything that smells, but I'm still very concerned about the cost. If we go for a high-end shelter, the bill might be too heavy for some households to bear.
+- [57] **Shunichi**: Let's be realistic. We have a neighbor who treats the complaint log like a diary and a ward office that loves paperwork. A high-cost, high-maintenance project is just a recipe for more resentment. We need something low-friction.
+- [58] **May**: I'm with Shunichi on the low-friction part! If we build some fancy monument to trash, we'll just end up fighting over who has to sweep it. Let's not create a new job for ourselves!
+- [59] **Asuka**: Low-friction is only a benefit if the friction is shared. If we choose a "simple" solution that doesn't address the location, we are simply ignoring the fact that one person's frontage is permanently occupied. We must ensure the burden is rotated.
+## Round 3
+- [65] **Rin**: I'm voting against Option C! I already told you, the bin house is a stinky trap! We can't just build a box and hope the smell goes away—it'll just get worse in August!
+- [66] **Midori**: I agree with Rin about the smell, but my biggest worry is the cost. Option C would be a huge financial burden for some of us, and I don't think it's fair.
+- [67] **Shunichi**: Option C is a bureaucratic suicide mission. Four months of paperwork and five signatures just to build a fancy box for trash? No thank you. Let's pick something that doesn't require a legal team.
+- [68] **May**: I'm with the group on C—absolutely not! Between the sweeping fights and the paperwork, it sounds like a nightmare. But @Asuka, if we go with A, who actually manages the schedule? I'm not volunteering to be the one everyone calls!
+- [69] **Asuka**: @May, that is the problem with Option A. It keeps the point in one place, which means one household continues to bear the physical burden while others just "supervise." It is not a truly equal arrangement.
+- [70] **Rin**: @Asuka, you're right! If it stays in one spot, that person is always the one living next to the trash. But Option B sounds like a big adventure! We get to move the trash point around like a game!
+- [71] **Midori**: @Rin, it does sound more dynamic, but I wonder if moving the point frequently will cause more confusion or complaints. Still, it's much more affordable than Option C, which is a relief.
+- [72] **Shunichi**: @Midori, confusion is a small price to pay compared to a permanent grudge. Option B is the only one that actually addresses the "dedicated critic" problem by sharing the burden. It's rational and, more importantly, keeps us from killing each other.
+- [73] **May**: @Shunichi, you're speaking my language! Rotating the location means no one person becomes the permanent target for the neighborhood critic. Plus, it's way less work than managing a schedule or building a shed. I'm leaning towards B!
+- [74] **Asuka**: Option B is the only logical choice. It ensures that the physical burden of the refuse point is distributed equally among all five households, rather than remaining a permanent fixture at one person's gate.
+- [75] **Rin**: I'm totally for Option B! It's fair, it's not a stinky box, and it means no one has to be the "trash house" forever. Let's make it a rotation game!
+- [76] **Midori**: I'm leaning towards Option B as well. It avoids the high costs of a structure and seems much fairer to everyone's budget and living space. I think it's the best way to keep the peace.
+- [77] **Shunichi**: It's rare to see this much agreement so quickly. Option B is the only choice that doesn't involve a mountain of paperwork or a financial crisis. Let's just rotate the bins and keep the peace.
+- [78] **May**: I'm completely sold on B! It's the only option that doesn't turn one of us into a full-time trash manager or a target for complaints. Let's keep it simple and keep rotating!
+- [79] **Asuka**: I agree. Option B is the only solution that addresses the systemic inequality of the current arrangement. It transforms a permanent burden into a shared responsibility, which is the only way to achieve true fairness.
+- [80] **Rin**: I'm voting for Option B! It's the most fun and the fairest way to do it. No stinky boxes and no one gets stuck with the trash forever! B it is!
+- [81] **Midori**: I'll vote for Option B too. It's the most considerate choice for everyone's wallet and ensures that no one person has to carry the burden alone. I'm glad we found a harmonious solution!
+- [82] **Shunichi**: I'll vote for Option B. It's the most rational way to neutralize the drama and ensure we can still look each other in the eye. Let's just get this over with.
+- [83] **May**: I'm voting for Option B! It's the only way to make sure none of us ends up as the neighborhood's unpaid concierge. Let's keep it moving and keep it fair!
+- [84] **Asuka**: I vote for Option B. It is the only arrangement that ensures the physical burden is shared equitably and prevents any single household from being permanently disadvantaged.
+### Vote
+- Rin -> B
+- Midori -> B
+- Shunichi -> B
+- May -> B
+- Asuka -> B
+## Result
+- adopted: B

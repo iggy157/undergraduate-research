@@ -1,0 +1,71 @@
+# candidate_selection_0011__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. I am curious about what actually finished in past awards. Let us see the records.
+- [6] **Ryuji**: I am concerned about the human resources. Who is actually available to do the work?
+- [7] **Victoria**: I worry about the shared infrastructure. If the facilities are strained, the best science still fails.
+- [8] **Benjamin**: The headline grant size is static, but the real purchasing power is shifting. I need to know what the agency still covers centrally.
+- [9] **Midori**: I am worried about interruptions. I want to know where work actually gets delayed, before we commit the funds.
+- [10] **Shizue**: @Ryuji, that is a vital point. I will check the closeout files to see what truly delivered.
+- [11] **Ryuji**: @Shizue, agreed. I will examine the staffing rolls to see who is actually present and who has left.
+- [12] **Victoria**: @Benjamin, the central coverage matters. I will check the accreditation and bookings at shared facilities to see their current load.
+- [13] **Benjamin**: @Victoria, exactly. I will check the travel and bench-fee lines in the ledgers to see what the agency still absorbs centrally.
+- [14] **Midori**: @Benjamin, I agree. I will check the incident logs on shared instrumentation to see where delays actually occur.
+- [15] **Shizue**: I will also look at the portfolio review of schedule overruns. It shows which projects actually finished on time.
+- [16] **Ryuji**: I will also check the minutes on secondments and crew strength. That tells me who is genuinely committed to the work.
+- [17] **Victoria**: I will also check the national computing agreement and facility day rates. That reveals the true cost of shared services.
+- [18] **Benjamin**: I will also check the national repository deposit turnaround. It reveals hidden administrative costs that now land on the awardee.
+- [19] **Midori**: I will also check the station records from partner field sites. Weather and access issues often cause the most unexpected delays.
+- [20] **Shizue**: Let us see what the records tell us. The data will guide our choice.
+- [21] **Ryuji**: The numbers will speak. I will wait for the evidence before forming a final judgment.
+- [22] **Victoria**: Agreed. The state of the shared services will determine if the science can actually proceed.
+## Round 2
+- [35] **Shizue**: The closeout files are revealing. Catalogue awards still serve users a decade later, while mechanism ones often stall.
+- [36] **Ryuji**: The staffing rolls are alarming. Most phenotyping technicians left for industry. Modelling applicants are arriving, but the hands are gone.
+- [37] **Victoria**: The animal facility is accredited and has vet cover, but glasshouses are fully booked. Computing is free, yet animal day rates spiked.
+- [38] **Benjamin**: The ledgers show vehicle costs frozen, but shipping is up. The repository migration is a genuine win, though.
+- [39] **Midori**: The incident logs show the spectroscopy suite was idle for eleven weeks. That is a major interruption risk for any project relying on it.
+- [40] **Shizue**: @Ryuji, that is a heavy burden. The hands are gone, but the minds remain. We must respect that gap.
+- [41] **Ryuji**: @Shizue, precisely. The minutes confirm the glasshouse crew is intact, but the modelling analysts are gone until autumn. We must pick accordingly.
+- [42] **Victoria**: @Midori, that idle suite is critical. If a proposal depends on it, the schedule is already compromised before we start.
+- [43] **Benjamin**: @Midori, that idle suite is a schedule killer. But my ledger data shows the bench-fee subsidy for glasshouses is still active. That is a real saving.
+- [44] **Midori**: @Victoria, yes. The station records confirm it. Three field sites lost a season to weather, while indoor rooms ran uninterrupted. We must avoid field-dependent work.
+- [45] **Shizue**: @Ryuji, the portfolio review confirms your worry. Live breeding causes double the overruns. We must avoid that fragility.
+- [46] **Ryuji**: @Shizue, that aligns with my findings. The technical hands are scarce. We must prioritize projects where the remaining staff can actually deliver the work.
+- [47] **Victoria**: @Ryuji, the free computing hours are a significant offset. We should favor simulation-heavy work to avoid the inflated animal unit costs.
+- [48] **Benjamin**: @Victoria, the free computing is a genuine offset. But the repository turnaround is now weeks, not months. That administrative burden has vanished for everyone.
+- [49] **Midori**: @Benjamin, that is good news. The administrative burden is gone, but the field risks remain. We must prioritize indoor work to avoid those weather delays.
+- [50] **Shizue**: I am glad the data is so clear. We should trust what has proven durable over time, rather than chasing novelty.
+- [51] **Ryuji**: I agree. The evidence points to stability. We must select a project that matches the staff we actually have, not the ones we lost.
+- [52] **Victoria**: I agree. The infrastructure supports simulation and accredited animal work, but not field or spectroscopy. We must choose accordingly.
+- [53] **Benjamin**: I am satisfied. The central costs are stable, and the administrative drag is gone. We can focus on the science now.
+- [54] **Midori**: I agree. The data clearly favors indoor, stable work. We must avoid the field risks and broken equipment. Let us see the candidates.
+## Round 3
+- [60] **Shizue**: I am looking at the candidates with a gentle eye. Candidate D, the Microbiome Atlas, feels like a catalogue. It matches the durable pattern we found.
+- [61] **Ryuji**: Candidate A relies on the glasshouse crew, which my minutes confirm is intact. That is the only option with verified human capacity.
+- [62] **Victoria**: Candidate C requires the idle spectroscopy suite. That is a critical failure point. I cannot support a proposal built on broken infrastructure.
+- [63] **Benjamin**: Candidate A benefits from the active bench-fee subsidy I found. That central coverage makes the greenhouse costs significantly lower than the headline suggests.
+- [64] **Midori**: Candidate D involves field collection across climate zones. My station records show those sites are high-risk for weather delays. I am concerned about the interruptions.
+- [65] **Shizue**: @Midori, that is a fair worry. But the closeout files show catalogue work endures. The field risk is real, yet the long-term value is proven.
+- [66] **Ryuji**: @Shizue, the catalogue value is real, but the field risk is immediate. We cannot rely on weather. I stand by Candidate A for its verified staffing.
+- [67] **Victoria**: @Ryuji, the glasshouse is booked solid through two cycles. Even with intact staff, the physical space is unavailable. Candidate A is a logistical dead end.
+- [68] **Benjamin**: @Victoria, the subsidy helps, but if the glasshouse is booked, the money is useless. Candidate C’s spectroscopy is also a dead end.
+- [69] **Midori**: @Victoria, that is a critical point. If the glasshouse is booked, Candidate A is stalled. I am leaning toward Candidate B, as indoor holding rooms ran uninterrupted in my records.
+- [70] **Shizue**: @Midori, I understand your caution. Yet the closeout files show catalogue work endures. Candidate D’s long-term value is proven, even if the field work is risky.
+- [71] **Ryuji**: @Midori, Candidate B requires the phenotyping technicians I found missing. Without those hands, the regeneration work cannot proceed. I cannot support it.
+- [72] **Victoria**: @Ryuji, the animal facility is accredited with vet cover. The infrastructure is sound. The risk is purely staffing, which we must weigh against the other options.
+- [73] **Benjamin**: @Ryuji, the staffing gap is real, but the central costs for B are stable. I am leaning toward B, as it avoids the broken equipment and field risks.
+- [74] **Midori**: @Ryuji, that is a valid concern. But the indoor holding rooms were stable in my records. The risk is manageable, unlike the field or broken equipment.
+- [75] **Shizue**: I am ready to vote. The evidence points to stability and long-term utility. I trust the records over instinct.
+- [76] **Ryuji**: I am ready to vote. The evidence is clear. We must choose the project that matches the staff we actually have, not the ones we lost.
+- [77] **Victoria**: I am ready to vote. The infrastructure data is decisive. We must avoid the broken spectroscopy and the booked glasshouses.
+- [78] **Benjamin**: I am ready to vote. The central costs are stable, and the administrative drag is gone. We can focus on the science now.
+- [79] **Midori**: I am ready to vote. The data clearly favors indoor stability. We must avoid the field risks and broken equipment that cause unnecessary delays.
+### Vote
+- Shizue -> D
+- Ryuji -> A
+- Victoria -> B
+- Benjamin -> B
+- Midori -> B
+## Result
+- adopted: B

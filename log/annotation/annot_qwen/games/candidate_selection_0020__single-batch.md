@@ -1,0 +1,73 @@
+# candidate_selection_0020__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look at the past. What happened to the last three rollouts?
+- [6] **Daisuke**: I worry about the budget. Let us check the capital budget and software allowance.
+- [7] **Sakura**: I want to know about the network. Let us look at network coverage at customer plants.
+- [8] **Ryuji**: I need to see the daily losses. Let us check time lost to copying existing records.
+- [9] **Asuka**: Who is doing the work? Let us look at staffing of the coordination group.
+- [10] **Servas**: @Daisuke, the budget is important, but history tells us what fails.
+- [11] **Daisuke**: Yes, but if the money is frozen, nothing else matters.
+- [12] **Sakura**: @Ryuji, copying records is annoying, but is it the biggest problem?
+- [13] **Ryuji**: It is a measurable loss. We need data, not guesses.
+- [14] **Asuka**: @Sakura, network issues affect the field. That is a real risk.
+- [15] **Servas**: I will also look at the record of cross-unit standardization efforts.
+- [16] **Daisuke**: I will also check vendor licence pricing versus fixed-fee work.
+- [17] **Sakura**: I will also look at in-house developer availability.
+- [18] **Ryuji**: I will also check misrouted deliveries in the incident logs.
+- [19] **Asuka**: I will also look at handling of vendor queries.
+- [20] **Servas**: Let us see what the files say.
+- [21] **Daisuke**: I hope the numbers are clear.
+- [22] **Sakura**: I am curious what we find.
+- [23] **Ryuji**: We will judge by the facts.
+- [24] **Asuka**: Let us proceed.
+## Round 2
+- [35] **Servas**: The last three rollouts show a clear pattern. Daily entry tools were dropped.
+- [36] **Daisuke**: The capital line is frozen, but the software allowance has room.
+- [37] **Sakura**: Half the customer plants lose network coverage for whole afternoons.
+- [38] **Ryuji**: We lose an hour daily copying records. Eleven misrouted deliveries this year.
+- [39] **Asuka**: The coordination group is understaffed. Two people do all the work.
+- [40] **Servas**: @Daisuke, if the software allowance is open, we can fund a tool.
+- [41] **Daisuke**: Yes, but we must avoid per-head licence costs. Fixed-fee is better.
+- [42] **Sakura**: @Ryuji, if the network is bad, a mobile app might fail.
+- [43] **Ryuji**: @Sakura, the app can sync offline. The copying loss is real.
+- [44] **Asuka**: @Servas, the standardization efforts failed because they had no owner.
+- [45] **Servas**: The narrow tools for one trade still run. We need something simple.
+- [46] **Daisuke**: A central repository could work if it is fixed-fee.
+- [47] **Sakura**: The developers are busy until the third quarter. We need an outside integrator.
+- [48] **Ryuji**: The misrouted deliveries are due to duplicate addresses. A hub would fix that.
+- [49] **Asuka**: The vendor queries are repetitive. A shared catalog would help.
+- [50] **Servas**: I think a central repository is the way to go.
+- [51] **Daisuke**: I agree, if the cost is fixed.
+- [52] **Sakura**: I am worried about the network, but a hub is central.
+- [53] **Ryuji**: The data supports a hub.
+- [54] **Asuka**: It solves the staffing issue too.
+## Round 3
+- [60] **Servas**: The candidates are A, B, C, and D. I favor A, the Supplier Data Hub.
+- [61] **Daisuke**: A fits the budget. B might be too complex.
+- [62] **Sakura**: D is risky because of the network. A is safer.
+- [63] **Ryuji**: A addresses the copying and misrouting issues.
+- [64] **Asuka**: A reduces the workload for the coordination group.
+- [65] **Servas**: @Daisuke, is the fixed-fee option available for A?
+- [66] **Daisuke**: Yes, the integrator can quote a fixed fee for the build.
+- [67] **Sakura**: @Ryuji, does A require daily entry from everyone?
+- [68] **Ryuji**: No, it is a repository. Updates are periodic, not daily.
+- [69] **Asuka**: @Sakura, the network issue affects D, not A.
+- [70] **Servas**: B is a workflow assistant. It might be useful, but it is complex.
+- [71] **Daisuke**: C is training. We need tools, not videos, right now.
+- [72] **Sakura**: D is a field app. The network is too unreliable.
+- [73] **Ryuji**: A is the most practical. It solves the immediate problems.
+- [74] **Asuka**: I agree. A is the best choice.
+- [75] **Servas**: Let us vote. I vote for A.
+- [76] **Daisuke**: I vote for A.
+- [77] **Sakura**: I vote for A.
+- [78] **Ryuji**: I vote for A.
+- [79] **Asuka**: I vote for A.
+### Vote
+- Servas -> A
+- Daisuke -> A
+- Sakura -> A
+- Ryuji -> A
+- Asuka -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: It is a pleasure to meet you all. To ensure our next investment truly serves the campus, I would like to examine the post-occupancy review ratings and the survey findings in the older blocks.
+- [6] **Victoria**: I agree that understanding the actual utility of our spaces is essential. To complement that, I would like to examine the booking data for specialist and general rooms and the timetable records on rooms out of service.
+- [7] **Benjamin**: A most prudent start, Victoria. To ensure our ambitions are not merely fantasies, I shall examine the tender records over three budget cycles and the decade of delivery schedules by project rationale. Logic suggests the past is a reliable mirror.
+- [8] **Kenji**: Hi everyone! I'm so excited to be here! I want to make sure we're being honest about the money, so I'll look into the renewal reserve for equipment bought earlier and the tender records over three budget cycles!
+- [9] **Shunichi**: It seems we have the data-driven side of things well-covered. I'll take a look at the staffing posts since the hiring freeze and the bench technicians' weekly manual routines. Let's see who is actually doing the work.
+- [10] **Mizuki**: It seems we have a very comprehensive plan. By combining the user experience data I'm seeking with the operational and financial records you've all chosen, we should avoid any blind spots in our decision.
+- [11] **Victoria**: I concur. A multifaceted approach is the only way to ensure we don't overlook the practical impact on our daily operations. I look forward to seeing how these different data points intersect.
+- [12] **Benjamin**: Indeed. A symphony of data is far more illuminating than a single note. I suspect we shall find that the gap between our aspirations and our achievements is wider than the administration cares to admit.
+- [13] **Kenji**: I totally agree! It's going to be like a big puzzle, and I can't wait to see how all the pieces fit together. Let's find a plan that actually works for everyone!
+- [14] **Shunichi**: A puzzle is a charming way to put it, Kenji. I just hope the pieces we find aren't too broken to fit. I'll be interested to see if the "aspirations" Benjamin mentioned actually account for the people involved.
+- [15] **Mizuki**: @Shunichi, that is a vital point. The human element is often the first thing lost in a spreadsheet. I believe our combined findings will reveal whether our past projects actually supported the people using them.
+- [16] **Victoria**: @Mizuki, I agree. It is easy to focus on the final result while ignoring the friction caused during the process. I hope the records show how our schedules have actually absorbed these changes.
+- [17] **Benjamin**: @Victoria, your mention of friction is most apt. I suspect the records will reveal a recurring tragedy where optimistic timelines are systematically dismantled by the reality of unforeseen costs. It is a dance we perform every fiscal year.
+- [18] **Kenji**: @Benjamin, that sounds a bit sad! But that's why we're doing this, right? To stop the tragedy! I'm sure if we all work together, we can find a way to make the numbers actually match the real world!
+- [19] **Shunichi**: @Kenji, your optimism is almost enviable. However, working together is only useful if we're willing to face the actual mess. I'm curious to see if the "real world" includes the people currently keeping this place running.
+- [20] **Mizuki**: I believe we have reached a consensus on our areas of investigation. Let us proceed to the findings with an open mind and a commitment to the truth. I am ready to see the results.
+- [21] **Victoria**: I agree. We have a clear division of labor and a comprehensive set of data to analyze. I am ready to proceed to the findings and see what the records reveal.
+- [22] **Benjamin**: Quite. Since we have mapped our intellectual territory with such elegance, I shall also declare myself ready. Let us see if the archives are as cooperative as our conversation has been.
+- [24] **Kenji**: I'm ready too! I can't wait to see what we find out. Let's all do our best to pick a project that's actually possible! See you all in the next round!
+- [25] **Shunichi**: I'm ready as well. Let's hope the data provides something more substantial than the usual administrative optimism. I look forward to seeing where the cracks are.
+## Round 2
+- [37] **Mizuki**: My findings reveal a clear pattern: projects with shared accessibility are rated highest, while those benefiting only a single wing are viewed as disappointments. Additionally, hazardous materials in older blocks are causing significant delays.
+- [38] **Victoria**: My findings indicate a significant imbalance; specialist rooms are often idle, while general-purpose rooms are overcapacity. Furthermore, taking rooms out of service has forced us to pay for expensive off-site hired space.
+- [39] **Benjamin**: It appears we are all uncovering the same tragedy from different angles. My records show that while basic surfacing remains stable, mechanical costs are surging, and projects driven by "appeal" systematically slip by a year or more.
+- [40] **Kenji**: Wow, you're right, Benjamin! I found out that mechanical and plant costs are way up—like a fifth higher! Plus, we're writing off AV gear but have no money saved to replace it. The numbers on paper are totally wrong!
+- [41] **Shunichi**: It seems we've all found our respective disasters. My data shows that while some new hires have spare time, our bench technicians are wasting hours on manual routines because our equipment is outdated. We're essentially paying people to be human substitutes for machines.
+- [42] **Mizuki**: @Shunichi, that is a distressing realization. It seems we are facing a systemic failure where our infrastructure is not only outdated but is actively hindering the people who maintain it. We must prioritize efficiency over aesthetics.
+- [43] **Victoria**: @Mizuki, I agree. However, we must also consider the operational cost of the transition. If we prioritize general-purpose spaces, we need a plan that doesn't force us into costly off-site rentals during construction.
+- [44] **Benjamin**: @Victoria, a most pertinent concern. It would be a charming irony to solve our capacity crisis by spending our remaining budget on temporary rentals. We must seek a path that avoids such administrative gymnastics.
+- [45] **Kenji**: @Benjamin, that does sound like a mess! But if we don't fix the equipment and the budget gaps now, won't we just keep spending more money later? We need a plan that's actually honest about the costs!
+- [46] **Shunichi**: @Kenji, honesty is a rare commodity in these halls. While you're worried about the budget gaps, I'm looking at the people filling them with their own time. We can't just "be honest" about costs; we need to stop the manual drudgery.
+- [47] **Mizuki**: @Shunichi, I agree. The human cost of manual drudgery is a debt we cannot ignore. We need a solution that provides shared utility and operational relief without risking the delays found in the older blocks.
+- [48] **Victoria**: @Mizuki, I agree. However, we must ensure that any "operational relief" doesn't come at the cost of our timetable. If a project requires taking essential rooms out of service, the resulting disruption could be counterproductive.
+- [49] **Benjamin**: @Victoria, your caution is well-placed. We must avoid the seductive trap of a "perfect" solution that requires a year of chaos to implement. A plan that slips into the next term is not a plan; it is a gamble.
+- [50] **Kenji**: @Benjamin, I don't want to gamble either! But if we just pick the "safe" option and ignore that costs are rising and AV gear is breaking, aren't we just gambling with the future? We need a plan that's realistic!
+- [51] **Shunichi**: @Kenji, realism isn't just about the price of a screen or a pipe. It's about whether the people left standing can actually handle the workload. A "safe" plan that ignores staff burnout is just a slow-motion failure.
+- [52] **Mizuki**: It is clear we are all describing a fragile system. We need a candidate that maximizes shared utility and reduces staff burden, while avoiding the hazardous materials of the older blocks and the instability of "appeal" projects.
+- [53] **Victoria**: I agree. We must find a balance where the long-term utility of the space is achieved without creating an immediate crisis in our timetable or our budget for off-site rentals. Predictability is as important as the result.
+- [54] **Benjamin**: Indeed. Predictability is the only antidote to the chronic optimism that plagues our planning. We must favor a project that is a necessity rather than a luxury, as the records suggest only the former actually arrive on time.
+- [55] **Kenji**: I totally agree! Let's look for a project that's a real necessity and doesn't pretend that costs stay the same. If we pick something honest and useful, we can actually make it happen!
+- [56] **Shunichi**: Let's hope the candidates are actually honest for once. I'll be looking for a plan that treats our technicians like professionals rather than manual labor. If it doesn't reduce the drudgery, it's just more noise.
+## Round 3
+- [62] **Mizuki**: Looking at the options, Plan D is the most responsible choice. It provides shared utility and directly addresses the operational drudgery Shunichi mentioned, while avoiding the hazardous materials of the older blocks found in Plan A.
+- [63] **Victoria**: Plan D is a necessary upgrade, but we must be cautious. Replacing ventilation in shared labs likely requires taking them out of service, which could lead to the expensive off-site rentals I discovered in the records.
+- [64] **Benjamin**: @Victoria, a valid concern, though perhaps a necessary evil. However, Plan D is a functional necessity, not a project of "appeal." According to the records, such essential works are the only ones that actually respect our calendars.
+- [65] **Kenji**: @Benjamin, I agree! Plan D sounds like a real necessity. Plus, since I saw that mechanical costs are way up, it's better to fix the ventilation now than to pretend it's cheap and get a surprise bill later!
+- [66] **Shunichi**: Plan D is the only option that isn't a vanity project. It actually solves the problem of our technicians acting as human ventilation switches. If we can manage the timetable, it's the only choice that makes sense.
+- [67] **Mizuki**: @Victoria, if we schedule the ventilation work during the summer break, we can mitigate the rental costs. Given the consensus on operational relief and shared utility, Plan D is the most robust and honest choice.
+- [68] **Victoria**: @Mizuki, summer scheduling is a possibility, but we must ensure the scope doesn't bleed into the term. If we can guarantee the timetable remains intact, Plan D's utility and operational benefits make it the most rational choice.
+- [69] **Benjamin**: @Victoria, your insistence on a strict schedule is the only thing standing between us and another year of administrative chaos. If we commit to a summer window, Plan D becomes a triumph of pragmatism over optimism.
+- [70] **Kenji**: @Victoria, I'm with you! If we can just be super strict about the summer schedule, it'll be great. Plan D is the most honest choice because it deals with the real stuff that's actually getting more expensive!
+- [71] **Shunichi**: @Victoria, your caution is noted, but let's be honest: the current situation is already a crisis for the staff. A few weeks of scheduling stress is a fair trade for ending years of manual drudgery. I vote for Plan D.
+- [72] **Mizuki**: I agree with Shunichi. The long-term benefit of shared utility and staff relief far outweighs the temporary scheduling risk. Plan D is the only candidate that aligns with all our findings. I vote for Plan D.
+- [73] **Victoria**: I agree. While I remain cautious about the timetable, the collective benefits for staff and students outweigh the risks, provided we manage the schedule strictly. I also vote for Plan D.
+- [74] **Benjamin**: It is a rare and satisfying thing to see such alignment. Plan D avoids the pitfalls of "appeal" and addresses a functional necessity, making it the only candidate likely to survive the calendar. I vote for Plan D.
+- [75] **Kenji**: I'm totally on board! Plan D is the only one that doesn't ignore the real costs of mechanical work, and it helps the staff too. It's the most honest and useful plan! I vote for Plan D!
+- [76] **Shunichi**: It seems we've reached a consensus with surprising speed. Plan D is the only option that treats our infrastructure and our people with a modicum of respect. I cast my vote for Plan D.
+- [77] **Mizuki**: It is a relief to reach this conclusion together. By prioritizing shared utility and the well-being of our staff over superficial appeal, we have made a decision that is both logical and compassionate. I cast my final vote for Plan D.
+- [78] **Victoria**: I am satisfied that we have balanced the need for operational relief with a commitment to timetable stability. By choosing a necessary upgrade, we ensure a sustainable future for our facilities. I cast my final vote for Plan D.
+- [79] **Benjamin**: The evidence has spoken with an unusual degree of clarity. Plan D is the only option that balances operational necessity with financial realism and a predictable timeline. I cast my final vote for Plan D.
+- [80] **Kenji**: I'm so happy we all agree! Picking Plan D means we're finally being honest about the costs and actually helping the people who work here. I cast my final vote for Plan D!
+- [81] **Shunichi**: I'm satisfied. We've managed to avoid the usual vanity projects and actually address the systemic failure of our equipment. It's a rare win for the people actually doing the work. I cast my final vote for Plan D.
+### Vote
+- Mizuki -> D
+- Victoria -> D
+- Benjamin -> D
+- Kenji -> D
+- Shunichi -> D
+## Result
+- adopted: D

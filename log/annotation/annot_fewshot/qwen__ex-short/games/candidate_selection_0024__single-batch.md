@@ -1,0 +1,73 @@
+# candidate_selection_0024__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I am worried the ground will surprise us. Who knows the soil here?
+- [6] **May**: The ribbon-cutting is cheap, but the bills come later. I need to see the long-term costs.
+- [7] **Shizue**: I have seen many pretty openings that faded quickly. I want to see what remains.
+- [8] **Victoria**: Who actually mows the grass on a Tuesday? I need to know the staffing reality.
+- [9] **Shunichi**: The park is used daily. I need to know how people actually move through it.
+- [10] **Minato**: @Shunichi, do the crossing counts show where people really walk?
+- [11] **May**: @Victoria, if the staff are gone, who pays for the extra services?
+- [12] **Shizue**: @Minato, the earth-moving firms are few. I am curious about their tenders.
+- [13] **Victoria**: @May, the upkeep ledger will tell us the true price of maintenance.
+- [14] **Shunichi**: @Shizue, the condition of old works tells us what lasts. I agree.
+- [15] **Minato**: I will check the firms tendering for earth-moving.
+- [16] **May**: I will look at the upkeep ledger spend per hectare.
+- [17] **Shizue**: I will review the condition of works from the earlier programme.
+- [18] **Victoria**: I will check the groundskeeping roll and bought-in services.
+- [19] **Shunichi**: I will look at the timed counts of weekday crossings.
+- [20] **Minato**: I will also check the depot phasing notes on hoarding.
+- [21] **May**: I will also look at the terms of the regional habitat fund.
+- [22] **Shizue**: I will also check the record of the eastern avenue planting.
+- [23] **Victoria**: I will also look at the volunteer groups working with the division.
+- [24] **Shunichi**: I will also check the drainage callouts and August heat readings.
+## Round 2
+- [35] **Minato**: Only two firms can move earth here. Both flagged clay and slippage risk.
+- [36] **May**: The habitat fund pays for planting and water, but never for surfacing or buildings.
+- [37] **Shizue**: The old basin is fine, but the civic hall apron has been patched three times.
+- [38] **Victoria**: The groundskeeping roll is down to seven. We buy in specialist care now.
+- [39] **Shunichi**: People cross on firm ground to the tram. Drainage callouts have doubled.
+- [40] **Minato**: @May, if the fund excludes buildings, that limits what we can build.
+- [41] **May**: @Minato, exactly. Hard surfaces are out of scope for the main funding.
+- [42] **Shizue**: @Shunichi, the drainage issue is serious. The heat readings were high too.
+- [43] **Victoria**: @Shizue, the volunteer groups help, but they are casual. Not a full team.
+- [44] **Shunichi**: @Victoria, the crossing data shows people avoid soft margins. They want firm paths.
+- [45] **Minato**: The phasing notes say the south can be hoarded, but the centre cannot.
+- [46] **May**: The upkeep ledger shows planted ground costs triple the hard-surfaced areas.
+- [47] **Shizue**: The eastern avenue trees died because aftercare was missing from the contract.
+- [48] **Victoria**: The volunteer groups are good for weekends, but not for daily heavy maintenance.
+- [49] **Shunichi**: The heat and drainage data suggest we need better water management.
+- [50] **Minato**: @Shizue, the tree death is a warning. We need reliable aftercare.
+- [51] **May**: @Minato, yes. If we plant, we must budget for the triple cost.
+- [52] **Shizue**: @May, the fund covers planting, but the upkeep is on us. That is heavy.
+- [53] **Victoria**: @Shunichi, the drainage problem is real. We need a plan that handles water.
+- [54] **Shunichi**: @Victoria, the wetland plan might solve the drainage and heat issues.
+## Round 3
+- [60] **Minato**: Candidate D, Wetland Restoration, addresses the drainage and heat issues I found.
+- [61] **May**: Candidate D uses water management, which the habitat fund covers. That helps the budget.
+- [62] **Shizue**: Candidate D is a water feature. The old basin lasted, so this might too.
+- [63] **Victoria**: Candidate D needs water care. We buy that in, but the volunteers can help.
+- [64] **Shunichi**: Candidate D manages the drainage. It fits the ground's actual behavior.
+- [65] **Minato**: @May, the fund covering water management is a big plus for D.
+- [66] **May**: @Minato, yes. But the upkeep is triple. We must be careful with the scale.
+- [67] **Shizue**: @Shunichi, the drainage data supports D. The other plans ignore the water.
+- [68] **Victoria**: @Shizue, the volunteer groups can handle the boardwalks and observation points.
+- [69] **Shunichi**: @Victoria, the crossing data shows people want firm ground. D has boardwalks.
+- [70] **Minato**: Candidate A, Woodland Walk, has high upkeep costs and no fund support for paths.
+- [71] **May**: Candidate A is all planting. The upkeep ledger says that is expensive.
+- [72] **Shizue**: Candidate A is like the eastern avenue. If aftercare fails, it dies.
+- [73] **Victoria**: Candidate A needs constant mowing and pruning. The staff are too few.
+- [74] **Shunichi**: Candidate A ignores the drainage problem. It will flood in August.
+- [75] **Minato**: I vote for D. It solves the drainage and uses the fund correctly.
+- [76] **May**: I vote for D. It is the only one the fund fully supports for capital.
+- [77] **Shizue**: I vote for D. The water feature has a track record of lasting.
+- [78] **Victoria**: I vote for D. The volunteer groups can support the maintenance.
+- [79] **Shunichi**: I vote for D. It respects the ground and the people's movement.
+### Vote
+- Minato -> D
+- May -> D
+- Shizue -> D
+- Victoria -> D
+- Shunichi -> D
+## Result
+- adopted: D

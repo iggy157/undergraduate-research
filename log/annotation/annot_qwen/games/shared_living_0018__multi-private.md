@@ -1,0 +1,73 @@
+# shared_living_0018__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I want to avoid assumptions. Let’s look at the fortnight's tally of use by person and the final clear-out of the old fridge.
+- [6] **Jonathan**: I’d like to check the partition wall to the office and where the last awkward conversation happened.
+- [7] **May**: I’m picking the round trip for a hot lunch and the invoices for outside hire by the hour.
+- [8] **Shunichi**: I’m taking the quotes for the two fit-outs and the facilities callouts on this floor. Numbers first, opinions later.
+- [9] **Servas**: I will examine the crumbs and bins at the desks, and the unplanned talk since the refit.
+- [10] **Ryuji**: I appreciate the direct approach. Let’s see what the data says before we speculate.
+- [11] **Jonathan**: I agree. The data will help us understand the space better.
+- [12] **May**: Love the energy. Let’s see if the numbers match the chaos.
+- [13] **Shunichi**: May, “chaos” is a strong word. I prefer “unquantified variables.” We’ll see which one the invoices support.
+- [14] **Servas**: Shunichi, your precision is admirable. Yet sometimes the mess is the message. Let us listen to what the room itself is trying to tell us.
+- [15] **Ryuji**: Servas, the room cannot speak. We must rely on the tally to see who actually uses it, not who claims to.
+- [16] **Jonathan**: I find the idea of the room speaking quite poetic, though perhaps a bit abstract for our practical needs.
+- [17] **May**: Jonathan, poetry is lovely, but I’m hungry. Let’s see if the lunch route is actually killing my afternoon.
+- [18] **Shunichi**: May, hunger is a variable, not a strategy. I’m checking the fit-out quotes to see if we can actually afford the space we’re fighting over.
+- [19] **Servas**: May, hunger is a signal, not a strategy. Let us see if the crumbs reveal a pattern of neglect or simply a lack of time.
+- [20] **Ryuji**: I will now review the tally and the fridge status. Let’s proceed to the next round with facts.
+- [21] **Jonathan**: I’ll review the partition and that awkward spot. Let’s see if the walls hold any secrets.
+- [22] **May**: I’ll check the lunch route and those invoices. Let’s see if the money matches the misery.
+- [23] **Shunichi**: I’ll review the quotes and callouts. If the numbers don’t justify the cost, we’re done.
+- [24] **Servas**: I will review the crumbs and the unplanned talk. Let us see what the silence and the debris reveal about our shared habits.
+## Round 2
+- [35] **Ryuji**: The tally shows two people used it eleven times, others four. The fridge clearing was done twice by one person. Facts, not feelings.
+- [36] **Jonathan**: The partition is just plasterboard. We can hear everything. That awkward talk happened right here, in front of everyone.
+- [37] **May**: Twenty-five minutes for lunch, plus sixty-eight thousand yen in outside hire. We’re paying for space we barely use.
+- [38] **Shunichi**: Four hundred and seventy-seven thousand yen total. Eleven callouts, zero for the empty room. We are paying for noise and clutter.
+- [39] **Servas**: The crumbs show we eat where we sit. The unplanned talk has vanished to the printer. We are isolated by our own habits.
+- [40] **Ryuji**: The data confirms the imbalance. Two people dominate usage, and one person repeatedly cleans up. We need a system, not just a room.
+- [41] **Jonathan**: Ryuji, the imbalance is real, but the plasterboard is the true barrier. We need a place where difficult words can be spoken without an audience.
+- [42] **May**: Jonathan, privacy is nice, but I’m not paying for silence. I need a place to eat without losing my afternoon.
+- [43] **Shunichi**: May, silence costs money. Jonathan, privacy is a luxury. We are bleeding cash on a room that fails its primary function.
+- [44] **Servas**: Shunichi, money is a measure, not a master. Jonathan, privacy is a need, not a luxury. Let us find a balance that honors both.
+- [45] **Ryuji**: Jonathan, privacy is a valid need, but the tally shows the room is already overused. We must address the imbalance before adding new functions.
+- [46] **Jonathan**: Ryuji, the imbalance is a symptom, not the cause. We need a space where difficult conversations can happen without an audience.
+- [47] **May**: Ryuji, the imbalance is real, but so is the twenty-five minute lunch walk. I need a place to eat without losing my afternoon.
+- [48] **Shunichi**: Ryuji, the imbalance is a symptom of poor design. Jonathan, privacy is a luxury we cannot afford. We need a functional space, not a therapy room.
+- [49] **Servas**: Ryuji, the imbalance is a symptom of unspoken needs. Jonathan, the plasterboard is a mirror, not a wall. Let us listen to what the silence demands.
+- [50] **Ryuji**: I agree with Shunichi. We cannot afford luxury. The data shows a functional failure. We need a clear, equitable rule for usage, not a private sanctuary.
+- [51] **Jonathan**: I hear the cost concerns, but the plasterboard failure is a safety issue. We need a space for difficult talks, not just a break room.
+- [52] **May**: I’m not paying for a therapy session. I need a place to eat without losing my afternoon.
+- [53] **Shunichi**: Jonathan, plasterboard is not a safety issue. It is a budget leak. We need a functional space, not a therapy room.
+- [54] **Servas**: Jonathan, the plasterboard is a mirror, not a wall. Let us listen to what the silence demands.
+## Round 3
+- [60] **Ryuji**: The tally shows two people dominate usage. A bookable system with a shared calendar would enforce fairness. I support Option C.
+- [61] **Jonathan**: The plasterboard failure means we cannot have private talks here. Option C’s bookable system offers structure, but I worry it formalizes our distance.
+- [62] **May**: I’m not booking a slot to eat. Option A keeps the food here, saving my twenty-five minutes. I support Option A.
+- [63] **Shunichi**: Option C costs 141,000 yen. Option A costs 96,000. We are already bleeding cash. I support Option A, but only if we stop the monthly waste.
+- [64] **Servas**: The crumbs and the silence point to a need for connection, not just function. I support Option A, but let us ensure it remains a place of shared humanity.
+- [65] **Ryuji**: May, the tally proves the current system fails. A shared calendar prevents the dominance I observed. Option C is the only equitable solution.
+- [66] **Jonathan**: Ryuji, structure is good, but it risks making us strangers. I need a place to speak without an audience. Option B offers that quiet.
+- [67] **May**: Ryuji, a calendar doesn’t fix my hunger. I’m not booking a slot to eat. Option A saves my afternoon.
+- [68] **Shunichi**: Ryuji, a calendar is a band-aid. Option A is cheaper and solves the immediate problem. I support A, provided we stop the monthly waste.
+- [69] **Servas**: Ryuji, structure is a cage. May, hunger is a bridge. Option A feeds the body and the soul. Let us choose connection over isolation.
+- [70] **Ryuji**: Shunichi, the cost difference is irrelevant if the usage remains unequal. The data proves the current system fails. Option C is the only equitable solution.
+- [71] **Jonathan**: Ryuji, fairness is not the same as connection. A calendar schedules us, but it does not help us speak. I still need a place for difficult words.
+- [72] **May**: Ryuji, fairness is nice, but I’m not booking a slot to eat. Option A saves my afternoon.
+- [73] **Shunichi**: Ryuji, equity is a spreadsheet, not a room. Option A is cheaper and functional. I support A, but only if we stop the monthly waste.
+- [74] **Servas**: Ryuji, equity is a foundation, not a ceiling. May, the shared table is where strangers become neighbors. I stand with Option A, for it nourishes both body and spirit.
+- [75] **Ryuji**: I stand by the data. The tally proves the current system is broken. Option C is the only equitable solution. I vote C.
+- [76] **Jonathan**: I vote B. We need quiet to speak, not a calendar to avoid each other.
+- [77] **May**: I vote A. I’m not booking a slot to eat. Option A saves my afternoon.
+- [78] **Shunichi**: I vote A. The numbers are clear: it is cheaper and functional. Let us stop bleeding cash on a room that fails its primary purpose.
+- [79] **Servas**: I vote A. The shared table is where strangers become neighbors. Let us choose connection over isolation.
+### Vote
+- Ryuji -> C
+- Jonathan -> B
+- May -> A
+- Shunichi -> A
+- Servas -> A
+## Result
+- adopted: A

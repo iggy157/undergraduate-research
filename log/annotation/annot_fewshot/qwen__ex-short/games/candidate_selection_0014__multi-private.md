@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: I am curious about the actual lifespan of our recent projects.
+- [6] **Misaki**: I am concerned about the ground conditions and the firms tendering for earth-moving.
+- [7] **Mio**: I am worried about the long-term upkeep costs. What will this park actually cost the city to maintain every year?
+- [8] **Asuka**: I need to understand who will actually maintain this park. The staffing rota is shrinking, and I want to know who is left to do the work.
+- [9] **Minako**: The ground dictates the design. I need to know how the drainage and heat actually behave here, not just what the plans promise.
+- [10] **Benjamin**: @Misaki, earth-moving firms are a good start. I am more interested in what the earlier programme actually delivered.
+- [11] **Misaki**: @Benjamin, the earlier programme is useful, but I need to know if the current firms can handle the ground here.
+- [12] **Mio**: @Asuka, that is a great point! If the staff is shrinking, the maintenance bills will skyrocket. I want to see the upkeep ledger to understand the real yearly cost.
+- [13] **Asuka**: @Mio, the ledger shows the money, but not the hands. I need to know if the current staff can physically cover the new area.
+- [14] **Minako**: @Asuka, the hands matter, but the ground is the first constraint. If the soil cannot drain, no amount of staff fixes the flooding.
+- [15] **Benjamin**: @Minako, the ground is certainly a constraint, but I suspect the real issue is how we commission these things. I will check the condition of works from the earlier programme.
+- [16] **Misaki**: @Benjamin, I agree. I will check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [17] **Mio**: I will check the upkeep ledger spend per hectare and the groundskeeping roll to see the real maintenance burden.
+- [18] **Asuka**: I will check the groundskeeping roll and bought-in services. I need to see if we can actually staff the new area or if we are just adding more work to an empty rota.
+- [19] **Minako**: I will check the drainage callouts and August heat readings. I also need the timed counts of weekday crossings to see how people actually move through the space.
+- [20] **Benjamin**: Let us see what the records say. The drawings are pretty, but the condition reports tell the truth.
+- [21] **Misaki**: I will wait for the data. The ground does not lie, but the firms might.
+- [22] **Mio**: I am excited to see the numbers! I hope the ledger is not too scary. Let us find out what this park really costs to keep alive.
+- [23] **Asuka**: I will check the volunteer groups working with the division. If the paid staff is gone, the volunteers are the only remaining option.
+- [24] **Minako**: The ground and the people will tell us the truth. Let us see what the data reveals.
+## Round 2
+- [35] **Benjamin**: The basin held, but the apron failed. That gap tells me our commissioning favors spectacle over substance.
+- [36] **Misaki**: The firms flagged clay and slippage. They only quote shallow work. The depot notes say the centre cannot be hoarded. That limits our options significantly.
+- [37] **Mio**: The ledger is brutal! Planted ground costs triple to maintain, and the gap is widening. With only seven staff left, this is a financial nightmare.
+- [38] **Asuka**: The roll confirms the drop to seven. Bought-in services cover water and turf, but weekend stewarding relies on a casual pool. I need to know if that is sustainable.
+- [39] **Minako**: The data is clear. Drainage failures doubled, and heat is significantly higher here. People stick to firm ground, avoiding the soft margins.
+- [40] **Benjamin**: @Mio, that triple cost is the smoking gun. We are paying for spectacle that rots. I need to see which candidates avoid that trap.
+- [41] **Misaki**: @Benjamin, spectacle is expensive, but the ground is the real killer. If the centre cannot be hoarded, we are stuck with the clay.
+- [42] **Mio**: @Benjamin, exactly! If we pick a design with lots of soft ground, the city will bleed money for decades. I need to see which candidates keep the hard surfaces dominant.
+- [43] **Asuka**: @Mio, the casual pool is fragile. I found two volunteer groups, but they are tied to specific tasks. I need to know if they can absorb new duties.
+- [44] **Minako**: @Asuka, the casual pool is a risk, but the ground is the hard limit. If the soil fails, no volunteer can fix it.
+- [45] **Benjamin**: @Minako, the ground is a hard limit, but the commissioning process is the soft one. I suspect we keep buying the same failures.
+- [46] **Misaki**: @Benjamin, the process matters, but the clay is immediate. If the centre cannot be hoarded, we are exposed to slippage during the entire build.
+- [47] **Mio**: @Misaki, the clay is scary, but the budget is scarier! I am looking for a plan that does not need constant watering or mowing.
+- [48] **Asuka**: @Misaki, the clay is a constraint, but the rota is the bottleneck. If we add complex planting, the seven staff cannot cover it.
+- [49] **Minako**: @Misaki, the clay is real, but the drainage data is the warning. We must design for the water, not just the soil.
+- [50] **Benjamin**: I am ready to see the candidates. The data suggests we need durability, not decoration.
+- [51] **Misaki**: I am ready. The ground and the firms set the hard limits. Let us see which plan respects them.
+- [52] **Mio**: I am ready! I just want a plan that does not bankrupt the city in three years. Let us see the options!
+- [53] **Asuka**: I am ready. The staffing data is stark. We need a plan that fits the seven-person reality, not an idealized vision.
+- [54] **Minako**: I am ready. The ground and the people have spoken. Let us see which plan respects the water and the crossings.
+## Round 3
+- [60] **Benjamin**: Candidate A is paved. That is the only one that respects the apron data. I am skeptical of the rest.
+- [61] **Misaki**: Candidate A is paved. That avoids the clay and the slippage risk. The firms can handle shallow work there.
+- [62] **Mio**: Candidate A is paved! That means no mowing or watering. The upkeep costs will stay low, which is exactly what the city needs.
+- [63] **Asuka**: Candidate A is paved. That means no turf care for the seven staff. The casual pool can handle stall setup. It fits the rota.
+- [64] **Minako**: Candidate A is paved. That matches the crossing data. People already use firm ground. It respects the drainage failures and the heat.
+- [65] **Benjamin**: @Mio, the ledger confirms it. Hard surfaces cost a third of planted ground. A is the only financially sane option here.
+- [66] **Misaki**: @Benjamin, exactly. The firms only quote shallow work. A is the only plan that fits their capability and the clay constraints.
+- [67] **Mio**: @Benjamin, you are right! The ledger proves it. Paved surfaces are a third of the cost. Candidate A is the only one that won't bankrupt us later.
+- [68] **Asuka**: @Benjamin, the paved surface is key. It removes the turf burden from the seven staff. The casual pool can manage the stalls. It fits the reality.
+- [69] **Minako**: @Benjamin, the data supports A. The paved surface aligns with the crossing patterns and avoids the drainage traps. It is the only plan that respects the ground.
+- [70] **Benjamin**: @Minako, precisely. The basin survived because it was simple. A is simple. B, C, and D are just expensive ways to fail.
+- [71] **Misaki**: @Benjamin, I agree. The firms cannot handle the deep earthworks for B or C. A is the only plan that fits the shallow work they can actually deliver.
+- [72] **Mio**: @Benjamin, I agree! B and C are financial black holes. D is better, but A is the safest bet for our long-term budget.
+- [73] **Asuka**: @Benjamin, I agree. A is the only plan that does not demand specialist turf care. The casual pool can handle the stalls. It respects the seven-person limit.
+- [74] **Minako**: @Benjamin, I agree. The crossing data confirms people want firm ground. A respects the drainage and heat constraints. It is the only plan that works with the reality.
+- [75] **Benjamin**: I vote for A. It is the only plan that survives contact with our actual history. Let us stop buying pretty failures.
+- [76] **Misaki**: I vote for A. The firms can deliver it without slippage. The ground is safe, and the schedule will hold.
+- [77] **Mio**: I vote for A! The paved square keeps the upkeep costs low and manageable. It is the only choice that will not drain the city's budget in three years.
+- [78] **Asuka**: I vote for A. It fits the seven-person rota. The casual pool can manage the stalls without straining the existing staff.
+- [79] **Minako**: I vote for A. The paved surface matches the crossing data and avoids the drainage failures. It respects the ground and the people.
+### Vote
+- Benjamin -> A
+- Misaki -> A
+- Mio -> A
+- Asuka -> A
+- Minako -> A
+## Result
+- adopted: A

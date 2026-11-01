@@ -1,0 +1,324 @@
+[
+  {
+    "seq": 5,
+    "speaker": "Sakura",
+    "content": 1,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 1,
+    "note": "exclamation 'Yay!' adds no information"
+  },
+  {
+    "seq": 6,
+    "speaker": "Minako",
+    "content": 2,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 7,
+    "speaker": "Victoria",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 6,
+    "resp_type": "agree",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 8,
+    "speaker": "Takumi",
+    "content": 2,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 9,
+    "speaker": "Misaki",
+    "content": 1,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 10,
+    "speaker": "Sakura",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 6,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 11,
+    "speaker": "Minako",
+    "content": 2,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 12,
+    "speaker": "Victoria",
+    "content": 1,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 13,
+    "speaker": "Takumi",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 12,
+    "resp_type": "object",
+    "rebut": 1,
+    "padded": 0,
+    "note": "opposes suggestion to look for contradictions"
+  },
+  {
+    "seq": 14,
+    "speaker": "Misaki",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 13,
+    "resp_type": "object",
+    "rebut": 1,
+    "padded": 0,
+    "note": "warns against boldness, opposing Takumi's suggestion"
+  },
+  {
+    "seq": 15,
+    "speaker": "Sakura",
+    "content": 2,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 16,
+    "speaker": "Minako",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 15,
+    "resp_type": "object",
+    "rebut": 1,
+    "padded": 0,
+    "note": "objects to guessing without evidence"
+  },
+  {
+    "seq": 17,
+    "speaker": "Victoria",
+    "content": 2,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 18,
+    "speaker": "Takumi",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 15,
+    "resp_type": "object",
+    "rebut": 1,
+    "padded": 0,
+    "note": "disagrees with taking Sakura seriously"
+  },
+  {
+    "seq": 20,
+    "speaker": "Sakura",
+    "content": 1,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 1,
+    "note": "opening 'Hehe' adds no information"
+  },
+  {
+    "seq": 31,
+    "speaker": "Sakura",
+    "content": 1,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 1,
+    "note": "greeting 'Good morning everyone!' is padding"
+  },
+  {
+    "seq": 32,
+    "speaker": "Minako",
+    "content": 2,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 33,
+    "speaker": "Victoria",
+    "content": 2,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 34,
+    "speaker": "Takumi",
+    "content": 1,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 1,
+    "note": "'What?!' is filler"
+  },
+  {
+    "seq": 35,
+    "speaker": "Misaki",
+    "content": 1,
+    "resp": 0,
+    "resp_to": null,
+    "resp_type": null,
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 36,
+    "speaker": "Sakura",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 32,
+    "resp_type": "object",
+    "rebut": 1,
+    "padded": 1,
+    "note": "'I'm just a cute girl!' adds no substantive information"
+  },
+  {
+    "seq": 37,
+    "speaker": "Minako",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 33,
+    "resp_type": "answer",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 38,
+    "speaker": "Victoria",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 37,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 39,
+    "speaker": "Takumi",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 37,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 40,
+    "speaker": "Misaki",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 37,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 41,
+    "speaker": "Sakura",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 36,
+    "resp_type": "object",
+    "rebut": 1,
+    "padded": 0,
+    "note": "objects to accusation, defending herself"
+  },
+  {
+    "seq": 42,
+    "speaker": "Minako",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 39,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 43,
+    "speaker": "Victoria",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 39,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 44,
+    "speaker": "Takumi",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 43,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 1,
+    "note": "'I hate this!' is filler"
+  },
+  {
+    "seq": 45,
+    "speaker": "Misaki",
+    "content": 2,
+    "resp": 1,
+    "resp_to": 44,
+    "resp_type": "add",
+    "rebut": 0,
+    "padded": 0
+  },
+  {
+    "seq": 46,
+    "speaker": "Sakura",
+    "content": 1,
+    "resp": 1,
+    "resp_to": 41,
+    "resp_type": "object",
+    "rebut": 1,
+    "padded": 1,
+    "note": "exclamation 'Nooo!' is padding and objects to execution"
+  }
+]

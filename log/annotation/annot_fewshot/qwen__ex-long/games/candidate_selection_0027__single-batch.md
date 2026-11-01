@@ -1,0 +1,73 @@
+# candidate_selection_0027__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: I worry the plans assume crews that no longer exist. We must check who is actually available to run this.
+- [6] **Takumi**: I’m tired of repeating the same mistakes. I want to see what happened when we tried these ideas before.
+- [7] **Toshio**: I suspect the delays are hidden in the approvals, not the drawings. I need to know who else has to say yes.
+- [8] **Daisuke**: I’m worried the budget numbers hide the long-term costs. I want to see where the money really goes.
+- [9] **Sakura**: I’m curious if the crowding complaints match reality. I want to see where the time actually goes for passengers.
+- [10] **Victoria**: @Takumi, checking the past is wise. But we also need to know if the people to do the work are still here.
+- [11] **Takumi**: @Victoria, agreed. But if the past failed, why repeat it? I’ll look at the old pilots to see what worked.
+- [12] **Toshio**: @Daisuke, budget is important, but if the project stalls, the money is wasted. I’ll check the committee minutes.
+- [13] **Daisuke**: @Toshio, I agree. But I need to see the ledger to understand the real financial commitment.
+- [14] **Sakura**: @Victoria, I’ll check the journey audits. If the machines aren’t the problem, we’re fixing the wrong thing.
+- [15] **Victoria**: I will examine the roster books for the late-turn pool and the crew establishment and maintenance contract.
+- [16] **Takumi**: I will look into the two pilots from eight years ago and the completion records of the earlier accessibility programme.
+- [17] **Toshio**: I will review the joint operators' committee minutes and the contingency pricing inside the pre-war shells.
+- [18] **Daisuke**: I will check the balances in the capital ledger and the ticketing contractor fees and paving rates.
+- [19] **Sakura**: I will examine the journey audits on where minutes go and the timed runs and crowd counts mid-city.
+- [20] **Victoria**: Let’s see if the data matches the promises. I’ll stick with my two choices to understand the staffing reality.
+- [21] **Takumi**: I’m ready to see what the past tells us. Let’s hope the old pilots give us some answers.
+- [22] **Toshio**: I will review my findings before we vote. The past is the only honest witness.
+- [23] **Daisuke**: I’ll stick with my two choices. Understanding the real costs is the only way to predict if this will survive.
+- [24] **Sakura**: I’m excited to see what we find! Let’s hope the data shows us where the real bottlenecks are.
+## Round 2
+- [35] **Victoria**: The roster books show the late-turn pool is nearly empty. Overtime is covering everything, and the maintenance contract has no spare capacity.
+- [36] **Takumi**: The old pilots were successful! The contactless trial had no faults, and the late-evening pilot met its cost target. We should trust the past.
+- [37] **Toshio**: The committee minutes show the ferry and rail back offices never agreed on data terms. And the pre-war shells are full of hidden voids.
+- [38] **Daisuke**: The capital ledger is ring-fenced, but the operating subsidy is trimmed. Ticketing fees are higher than paving rates. The money is tight.
+- [39] **Sakura**: The journey audits show most time is lost waiting for connections, not paying. The mid-city runs are slower, but crowds clear at the old rate.
+- [40] **Victoria**: @Takumi, the pilots were good, but the staffing is the real problem. We can’t run new services if the crews are gone.
+- [41] **Takumi**: @Victoria, I hear you. But the pilots prove the ideas work. We just need to make sure the staffing is sorted.
+- [42] **Toshio**: @Daisuke, the budget is tight, but the approval process is the bigger risk. If the operators don’t agree, nothing happens.
+- [43] **Daisuke**: @Toshio, I agree. But if the money isn’t there, the approvals don’t matter. We need a plan that fits the budget.
+- [44] **Sakura**: @Victoria, the staffing is a concern, but the journey audits show the real issue is connections. We need to fix the flow, not just the people.
+- [45] **Victoria**: @Sakura, the flow is important, but if the crews are exhausted, the flow stops. We need a plan that doesn’t break the staff.
+- [46] **Takumi**: @Toshio, the approval process is a risk, but the pilots show we can do it. We just need to be careful.
+- [47] **Toshio**: @Takumi, the pilots were eight years ago. The situation has changed. The pre-war shells are a trap.
+- [48] **Daisuke**: @Sakura, the connections are the problem, but the budget is the constraint. We need a plan that is both efficient and affordable.
+- [49] **Sakura**: @Daisuke, I agree. The budget is tight, but the journey audits show where the time goes. We need to fix the connections.
+- [50] **Victoria**: I’m worried about the staffing. We need a plan that doesn’t rely on overtime.
+- [51] **Takumi**: I’m excited to see what we find! Let’s hope the data shows us the best path.
+- [52] **Toshio**: I will review my findings before we vote. The past is the only honest witness.
+- [53] **Daisuke**: I’ll stick with my two choices. Understanding the real costs is the only way to predict if this will survive.
+- [54] **Sakura**: I’m ready to see what’s really going on. Let’s hope everything checks out!
+## Round 3
+- [60] **Victoria**: The candidates are A: Crosstown Bus Corridor, B: Night Service Extension, C: Station Access Upgrades, D: Integrated Fare Platform.
+- [61] **Takumi**: I’m leaning towards B. The late-evening pilot worked, and it’s a proven idea.
+- [62] **Toshio**: I’m worried about C. The pre-war shells are a trap, and the approval process is risky.
+- [63] **Daisuke**: I’m concerned about D. The ticketing fees are high, and the budget is tight.
+- [64] **Sakura**: I’m leaning towards A. The journey audits show the connections are the problem, and a bus corridor could help.
+- [65] **Victoria**: @Takumi, B is risky. The late-turn pool is empty, and we can’t afford the overtime.
+- [66] **Takumi**: @Victoria, I hear you. But the pilot worked. We just need to manage the staffing carefully.
+- [67] **Toshio**: @Daisuke, D is a trap. The operators never agreed on data terms. It will stall.
+- [68] **Daisuke**: @Toshio, I agree. D is too risky. A seems more balanced.
+- [69] **Sakura**: @Victoria, A is the best choice. It fixes the connections and doesn’t rely on the exhausted crews.
+- [70] **Victoria**: @Sakura, A is a good choice. It uses the existing infrastructure and doesn’t require new staffing.
+- [71] **Takumi**: @Sakura, I agree. A is the safest bet. It fixes the real problem.
+- [72] **Toshio**: @Daisuke, A is the only option that avoids the pre-war shells and the approval risks.
+- [73] **Daisuke**: @Toshio, I agree. A is the most balanced choice for our budget.
+- [74] **Sakura**: @Victoria, I’m so happy we all agree! A is the best choice. I vote for A!
+- [75] **Victoria**: @Takumi, I agree. A is the only path that respects our current reality. I vote for A.
+- [76] **Takumi**: @Toshio, I concur. A is the only choice supported by the evidence. I vote for A.
+- [77] **Toshio**: @Daisuke, I agree. A is the enduring path. I vote for A.
+- [78] **Daisuke**: @Sakura, I agree. A is the most balanced choice. I vote for A.
+- [79] **Sakura**: @Victoria, I’m so happy we’re all on the same page! A is the clear winner. I confirm my vote for it!
+### Vote
+- Victoria -> A
+- Takumi -> A
+- Toshio -> A
+- Daisuke -> A
+- Sakura -> A
+## Result
+- adopted: A

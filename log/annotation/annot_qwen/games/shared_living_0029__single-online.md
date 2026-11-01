@@ -1,0 +1,73 @@
+# shared_living_0029__single-online (shared_living)
+
+## Round 1
+- [5] **Minako**: We need to stop guessing. I want to know what an even split actually costs before we agree to anything.
+- [6] **Benjamin**: I agree. We need to understand what actually breaks down in these arrangements before we pick a new one.
+- [7] **Asuka**: @Minako, I need to know why the car is never ready when I need it.
+- [8] **Shion**: @Minako, I need the real figures. We can't decide on a split without knowing who actually drives and what it costs.
+- [9] **Daisuke**: I just want to know where all the time goes. It feels like we spend more hours sorting it out than actually driving.
+- [10] **Minako**: @Shion, your figures and my cost breakdown are linked. I’ll check the tax and insurance papers to see the fixed baseline.
+- [11] **Benjamin**: @Benjamin, I’ll look into what other car-sharing households said and our own past attempts to see what actually sours these groups.
+- [12] **Asuka**: @Asuka, I’ll check the state of the car at handover and the trips that repeat weekly to see why it’s never ready.
+- [13] **Shion**: @Minako, I’ll pull the fuel receipts and the diary hours. I need to see who drives and how the days actually break down.
+- [14] **Daisuke**: @Daisuke, I’ll look into the month’s trial of recording every run and the hours of use recorded in the diary. I need to see where the time actually goes.
+- [15] **Minako**: @Benjamin, your research on what sours groups is crucial. We must avoid repeating past mistakes.
+- [16] **Benjamin**: @Minako, agreed. Understanding the social friction is just as vital as the numbers. I’ll keep that in mind.
+- [17] **Asuka**: @Shion, your fuel data will show if the neglect is tied to who drives. I need that context for my handover checks.
+- [18] **Shion**: @Asuka, the fuel data shows who drives, not how they treat the car. Your handover checks are separate. I’ll stick to the numbers.
+- [19] **Daisuke**: @Shion, I understand. I’ll focus on the time cost. If the recording trial is too heavy, we need to know that now.
+- [20] **Minako**: I’ll check the tax, insurance and parking papers, and the fuel receipts. I need the fixed baseline and the actual usage split.
+- [21] **Benjamin**: I’ll look into what two other car-sharing households said and the spell of checking each other's figures.
+- [22] **Asuka**: I’ll check the state of the car at handover and the trips that repeat weekly.
+- [23] **Shion**: I’ll pull the fuel receipts and the hours of use recorded in the diary. I need the real usage split and the daily breakdown.
+- [24] **Daisuke**: I’ll look into the month’s trial of recording every run and the hours of use recorded in the diary. I need to see where the time actually goes.
+## Round 2
+- [35] **Minako**: #### Turn 1 of 4
+- [36] **Benjamin**: #### Turn 1 of 4
+- [37] **Asuka**: #### Turn 1 of 4
+- [38] **Shion**: - **Shion**: The fuel receipts are damning. Two of us bought over half the litres, and one barely shows up.
+- [39] **Daisuke**: The recording trial took nearly an hour a week. That’s the hidden cost we’ve been ignoring.
+- [40] **Minako**: - **Minako**: The fixed costs alone are 280,000 yen. That’s the baseline before fuel. We need to see how that splits fairly.
+- [41] **Benjamin**: #### Turn 2 of 4
+- [42] **Asuka**: - **Asuka**: The weekly trips are the problem. Three of us have fixed slots, and they keep collapsing.
+- [43] **Shion**: @Daisuke, an hour a week is manageable. The diary shows Saturday is triple Tuesday. We need to price that imbalance.
+- [44] **Daisuke**: @Shion, I know, but that hour is just the recording. The real drain is the arguing afterwards.
+- [45] **Minako**: - **Minako**: @Shion, the fuel split is lopsided. A flat share ignores that. We must price the actual litres, not just the fixed costs.
+- [46] **Benjamin**: - **Benjamin**: @Minako, the other households said asking favours every time is what breaks trust. We must avoid that trap.
+- [47] **Asuka**: - **Asuka**: @Benjamin, exactly. The weekly slots collapse because we have to ask. I need a system that removes the favour entirely.
+- [48] **Shion**: @Asuka, removing the favour is fine, but it doesn't fix the imbalance. Saturday is triple Tuesday. We need to price that gap, not just the asking.
+- [49] **Daisuke**: @Shion, I hear you, but if the system demands constant checking, it just moves the arguing to a spreadsheet. I need it to be simple.
+- [50] **Minako**: - **Minako**: @Daisuke, simplicity is key. We need a method that accounts for the 280,000 yen baseline and the lopsided fuel without constant friction.
+- [51] **Benjamin**: @Daisuke, simplicity is good, but the spell of checking figures made everyone feel accused. We need a system that doesn't require constant verification.
+- [52] **Asuka**: - **Asuka**: @Benjamin, agreed. I need the car ready without asking. A system that removes the favour and the checking.
+- [53] **Shion**: @Benjamin, the checking spell failed because it felt like accusation. A fixed allocation removes the need to verify individual trips entirely.
+- [54] **Daisuke**: @Shion, a fixed allocation sounds clean, but does it actually stop the arguing? I just need to know I won’t be the one untangling it later.
+## Round 3
+- [60] **Minako**: #### Turn 1 of 4
+- [61] **Benjamin**: #### Turn 1 of 4
+- [62] **Asuka**: - **Asuka**: The options are here. I need one that guarantees the car is ready for my fixed weekly trips without asking anyone.
+- [63] **Shion**: Option B. It prices the actual distance, so the heavy Saturday users pay more. It’s logical and fair.
+- [64] **Daisuke**: #### Turn 1 of 4
+- [65] **Minako**: - **Minako**: Option B. It handles the lopsided fuel usage fairly. A flat split ignores the 280,000 yen baseline and the actual driving.
+- [66] **Benjamin**: - **Benjamin**: Option A. It removes the favour-asking that sours groups. No checking, no accusations, just fixed days.
+- [67] **Asuka**: - **Asuka**: Option A. Fixed days mean I know exactly when the car is mine. No asking, no surprises, no waiting.
+- [68] **Shion**: Option B. It prices the actual distance, so the heavy Saturday users pay more. It’s logical and fair.
+- [69] **Daisuke**: #### Turn 2 of 4
+- [70] **Minako**: - **Minako**: @Shion, Option B requires constant recording. That’s the hour a week Daisuke warned us about. I can’t support it.
+- [71] **Benjamin**: - **Benjamin**: @Minako, valid point. But Option A’s rigidity might create new friction if schedules shift. I’m still weighing the social cost.
+- [72] **Asuka**: - **Asuka**: @Benjamin, rigidity is exactly what I need. If my day is mine, the car is ready. I won't risk the uncertainty of B.
+- [73] **Shion**: @Minako, the recording is the price of accuracy. If you want fairness, you accept the data. I won't subsidize your convenience.
+- [74] **Daisuke**: #### Turn 3 of 4
+- [75] **Minako**: - **Minako**: @Shion, I stand by my objection. We cannot build a system on constant verification. I am voting for Option A.
+- [76] **Benjamin**: - **Benjamin**: @Shion, your logic is sound, but the social cost is real. I’m sticking with Option A to preserve the peace.
+- [77] **Asuka**: - **Asuka**: @Shion, I am voting for Option A. I need certainty, not a spreadsheet. My fixed trips are non-negotiable.
+- [78] **Shion**: I stand by Option B. The data proves the imbalance. I won't accept a system that lets heavy users hide behind a flat fee.
+- [79] **Daisuke**: I’m voting for Option A. It’s the simplest, and I can’t handle the constant checking. Please, let’s just keep the peace.
+### Vote
+- Minako -> A
+- Benjamin -> A
+- Asuka -> A
+- Shion -> B
+- Daisuke -> A
+## Result
+- adopted: A

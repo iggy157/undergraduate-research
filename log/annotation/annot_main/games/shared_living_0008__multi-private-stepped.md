@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **May**: Let's make this interesting! We need a real system so we aren't just guessing who's making the mess.
+- [6] **Misaki**: I agree. We should look at the actual state of the room and how it's being used.
+- [7] **Servas**: Patience, my friends. Let us look at the hidden costs of our habits before we build a new path.
+- [8] **Sakura**: Ooh! A mystery! I want to know all the secrets of the break room! Let's find out everything!
+- [9] **Kenji**: I just want us to have a place where we can actually talk and be friends! Let's see what's happening!
+- [10] **May**: @Kenji, that's sweet, but "friendship" doesn't clean the microwave. I want hard data on the chaos.
+- [11] **Misaki**: Data is useful. I'm interested in the physical environment and the noise levels.
+- [12] **Servas**: True harmony comes from understanding the burden we place on others. Time is our most precious resource.
+- [13] **Sakura**: @Servas, you sound like a teacher! I bet there are funny things hidden in the fridge or the bins!
+- [14] **Kenji**: Maybe the "chaos" is just because we don't talk enough? I want to know where the awkward stuff happens!
+- [15] **May**: @Sakura, you're a bad influence, but I like it. Let's see who's actually using the place the most.
+- [16] **Misaki**: If we want a solution, we should check the facilities reports and the actual cleanliness.
+- [17] **Servas**: I shall look into the flow of labor. We must ensure no one is suffering in silence to keep us comfortable.
+- [18] **Sakura**: I want to see the money stuff too! Like, how much are we spending on the outside people?
+- [19] **Kenji**: I'm going to check on the conversations! I want to know if we've been missing out on talking to each other!
+- [20] **May**: Alright, I've got my list. Let's see who's the real culprit of the break room mess!
+- [21] **Misaki**: I'll focus on the noise and the mess. It's the most practical approach.
+- [22] **Servas**: Let us proceed with an open heart and a keen eye for the truth.
+- [23] **Sakura**: Yay! I'm going to be a detective! I'll find all the clues!
+- [24] **Kenji**: I'm ready! Let's find a way to make this room a place where we can all be close!
+## Round 2
+- [35] **May**: Well, it turns out a couple of people are basically camping in there while the rest of us barely get a seat.
+- [36] **Misaki**: The sound insulation is practically non-existent. We can hear everything from the desks.
+- [37] **Servas**: It seems we have been spending money and time on external spaces while our own internal balance is skewed.
+- [38] **Sakura**: Wow! We've been spending so much money on that other place! That's like a mountain of snacks!
+- [39] **Kenji**: Guys, I found out something sad. We're barely talking to each other, and when we do, it's awkward because we have no privacy!
+- [40] **May**: @Kenji, that's because the room is a free-for-all. No wonder it's awkward; you never know who's going to walk in.
+- [41] **Misaki**: It's not just the privacy. People are eating at their desks now because the break room is too loud or messy.
+- [42] **Servas**: When the environment is in turmoil, the spirit cannot rest. We must create a sanctuary, not just a utility.
+- [43] **Sakura**: But look at the prices for the new stuff! One is way more expensive than the other! Why is that?
+- [44] **Kenji**: Exactly! If we just make it a "kitchen" or a "lounge," we're still just strangers. We need a place for *us*.
+- [45] **May**: I'm not doing the cleaning for the "campers." If we make it a lounge, we need a strict schedule.
+- [46] **Misaki**: A schedule won't fix the wall. If we keep it as a place for conversations, the office will be distracted.
+- [47] **Servas**: Let us not focus on the rules, but on the value of the time we spend. Why pay others when we can invest in ourselves?
+- [48] **Sakura**: I think we should pick the one that saves us the most money in the long run! No more outside hire!
+- [49] **Kenji**: @Misaki, maybe we can fix the wall? I just want a spot where we can say the hard things without everyone listening!
+- [50] **May**: I'm all for saving money, as long as it means I'm not the one scrubbing the table every Friday.
+- [51] **Misaki**: Fixing the wall is an option, but we need to decide the primary purpose first.
+- [52] **Servas**: A space that serves the soul is always a better investment than one that merely serves the clock.
+- [53] **Sakura**: I'm voting for whatever stops us from paying that other place every month! It's a waste!
+- [54] **Kenji**: I'll support any plan that gives us a place to actually be friends and talk honestly!
+## Round 3
+- [60] **May**: A calendar! Now we're talking. No more "first come, first served" chaos. I vote for the Meeting Space.
+- [61] **Misaki**: The Quiet Room would solve the noise issue for the office, but it doesn't address the eating habits.
+- [62] **Servas**: A Meeting Space allows for the intentional gathering of minds. It respects everyone's time and purpose.
+- [63] **Sakura**: If we make it a Meeting Space, we can just use it for the things we're paying for outside! Yay!
+- [64] **Kenji**: A Meeting Space sounds too formal... but if it means we have a place to have those "awkward" talks privately, I'm in!
+- [65] **May**: @Kenji, just call it a "Friendship Hub" in your head. The point is the booking system.
+- [66] **Misaki**: I'm concerned that if it's a Meeting Space, the eating will just move entirely to the desks, making the mess worse.
+- [67] **Servas**: The mess is a symptom of a lack of intention. By giving the room a purpose, we give the people a reason to care.
+- [68] **Sakura**: @Misaki, we can just have a "snack time" on the calendar! That way it's a party!
+- [69] **Kenji**: I love that! A place where we can actually plan to hang out and talk!
+- [70] **May**: See? Even the "party" people agree. The Meeting Space is the only one that stops the room-hogging.
+- [71] **Misaki**: I suppose it's the most balanced option, provided we find a way to handle the food situation.
+- [72] **Servas**: Balance is the key to all longevity. Let us choose the path that invites collaboration over isolation.
+- [73] **Sakura**: I'm definitely voting for the Meeting Space! No more paying for that other room!
+- [74] **Kenji**: I'm voting for it too! Let's make it a place where we can actually get to know each other!
+- [75] **May**: It's a landslide. I can already feel the relief of not having to argue about who got there first.
+- [76] **Misaki**: I'll agree. It's the most logical way to manage the noise and the usage.
+- [77] **Servas**: It is a joy to see a consensus born from a desire for mutual respect.
+- [78] **Sakura**: I can't wait to see the new table and screen! I hope we can watch funny videos on it!
+- [79] **Kenji**: As long as we use it to talk to each other, I'm the happiest person here!
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

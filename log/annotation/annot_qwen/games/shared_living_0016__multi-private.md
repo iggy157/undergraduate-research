@@ -1,0 +1,73 @@
+# shared_living_0016__multi-private (shared_living)
+
+## Round 1
+- [5] **Minato**: I’m a bit worried about the person who has to count all the money. It seems like a lot of work.
+- [6] **Ryuji**: Minato, the workload is secondary. We need accurate revenue projections first. Guessing fees again is unacceptable.
+- [7] **Minako**: I agree with Ryuji. We need hard data, not guesses. Minato, your concern is valid, but accuracy comes first.
+- [8] **May**: You’re all so serious. I just want people to actually show up without agonizing over it. Let’s find the data, but keep it fun.
+- [9] **Shunichi**: Fun? Please. We’re setting prices, not planning a party. Let’s look at the actual numbers before we start guessing.
+- [10] **Minato**: I think we should check the treasurer’s hours. It might show how much time the job really takes.
+- [11] **Ryuji**: I’ll examine the bank statements on last year’s renewals. I need to verify actual cash inflows against our projections.
+- [12] **Minako**: I’ll review the sign-up records for mid-year joiners. I need to understand how many people are actually drifting in and finding their feet.
+- [13] **May**: I’m checking the sign-in sheets and the rota against attendance. I need to see who’s actually there versus who’s just saying they’ll be.
+- [14] **Shunichi**: I’ll check the sign-in sheets and the rota against the attendance record. I need to see who’s actually carrying the load versus who’s just paying the same fee.
+- [15] **Minato**: I’m also looking at the ledger of outgoings. I want to see where the money goes, so we can be fair to the next person.
+- [16] **Ryuji**: I’ll also review last year’s ledger of outgoings. I need to reconcile actual spending against the budget to ensure our fee structure covers real costs.
+- [17] **Minako**: I’ll also review the taster evening forms from non-joiners. I need to see why people hesitate to commit, as that visibility affects how newcomers drift in.
+- [18] **May**: I’m also checking the taster evening forms from non-joiners. I want to see why people hesitate to commit, as that visibility affects how newcomers drift in.
+- [19] **Shunichi**: I’ll also check the tally of the sign-in sheets. I need to quantify exactly how uneven the attendance is before we debate fairness.
+- [20] **Minato**: I hope the numbers are kind. I just want to make sure the next person isn’t overwhelmed by all the counting.
+- [21] **Ryuji**: I’ll close by stating our goal: a fee structure grounded in verified data, not speculation. Let’s proceed to the findings.
+- [22] **Minako**: I’ll close by noting that visibility matters. If the structure feels opaque, newcomers won’t drift in. Let’s see what the data reveals about that balance.
+- [23] **May**: I’m closing by saying the data will show us why people hesitate. Let’s make sure the fee doesn’t add to that hesitation.
+- [24] **Shunichi**: I’ll close by saying the data will expose who’s actually doing the work. Let’s stop pretending everyone contributes equally.
+## Round 2
+- [35] **Minato**: I found that chasing money takes six hours a month, but yearly collection takes only one. That is much less scary.
+- [36] **Ryuji**: Minato, your finding is useful, but my data is more critical. Seventy percent of costs are fixed, regardless of attendance. We must price for that baseline, not hope.
+- [37] **Minako**: Eleven mid-year joiners needed hand-worked calculations. Nine tasters refused a full year. This friction is why newcomers hesitate. We must simplify entry.
+- [38] **May**: Nine tasters refused a full year. That hesitation is real. We need a structure that doesn’t scare people off before they even start.
+- [39] **Shunichi**: A quarter of you do two-thirds of the work. Eighteen people never show up. The same nine handle setup. The data is brutal, but honest.
+- [40] **Minato**: I’m glad yearly collection is easier. But if costs stay high, will the next person still have to chase everyone?
+- [41] **Ryuji**: Minato, the bank statements confirm the risk. A third of renewals required reminders, and several requested installment plans. We cannot assume full upfront cash flow.
+- [42] **Minako**: Ryuji, installments are a symptom of the same friction. If we simplify entry, we reduce the need for chasing. We must address the root cause, not just the payment method.
+- [43] **May**: @Minako Exactly. If the fee feels like a trap, people freeze. We need to make the first step feel safe, not like a commitment to a year of uncertainty.
+- [44] **Shunichi**: @Ryuji, fixed costs don’t justify ignoring that eighteen members are dead weight. We need to address the attendance gap, not just the cash flow.
+- [45] **Minato**: I feel a bit sad for the next person. If we collect yearly, they only count once. That sounds much nicer than chasing everyone every month.
+- [46] **Ryuji**: Minato, yearly collection reduces administrative burden, but it concentrates risk. If a third of members need reminders, we must model that delay. We cannot rely on immediate cash flow.
+- [47] **Minako**: Minato, your relief is understandable, but the data shows the real burden is on newcomers. We must design for their ease, not just the treasurer’s convenience.
+- [48] **May**: @Minato, yearly collection is great for you, but it’s a wall for them. If the first step feels like a trap, they won’t even start.
+- [49] **Shunichi**: @Minato, your relief is misplaced. The burden isn't the counting; it's the nine people doing everything. We need to fix the labor distribution, not just the paperwork.
+- [50] **Minato**: I just want the next person to have a lighter load. If yearly collection helps, I am happy to support that idea.
+- [51] **Ryuji**: I will not compromise on accuracy. We must model the delayed cash flow explicitly. Guessing is not an option.
+- [52] **Minako**: I stand by the data. Simplifying entry reduces the friction that causes hesitation. We must design for newcomers, not just the treasurer.
+- [53] **May**: I’m done. The data is clear: people are scared of the commitment. Let’s see the options and fix this hesitation.
+- [54] **Shunichi**: I’m done. The data is undeniable. We have a core group carrying the weight and a ghost membership. Let’s see the options and fix this imbalance.
+## Round 3
+- [60] **Minato**: I think Option A is the kindest. It means the next person only counts once, not all year. Is that okay for everyone?
+- [61] **Ryuji**: Minato, Option A ignores the cash flow delays I found. A third of renewals needed reminders. We cannot assume immediate liquidity.
+- [62] **Minako**: Minato, Option A’s simplicity is appealing, but it ignores the friction I found. Newcomers hesitate at the full-year commitment. We need a lower barrier to entry.
+- [63] **May**: @Minako, you’re right. A flat fee feels like a trap. Option B lets people dip a toe in without the scary full-year commitment.
+- [64] **Shunichi**: @Minato, Option A is a joke. Eighteen ghosts pay the same as the nine doing the work. Option C lets us price actual participation, not just presence.
+- [65] **Minato**: I hear you all. Option B means counting for every event, which is a lot of work. I worry the next person will be tired.
+- [66] **Ryuji**: Minato, Option B fragments revenue tracking. With fixed costs at seventy percent, per-event charges create unpredictable cash flow. We need a stable baseline to cover those obligations reliably.
+- [67] **Minako**: Minato, your concern is valid, but Option B’s per-event tracking creates the very friction that scares newcomers. We need a stable baseline that doesn’t demand constant administrative attention.
+- [68] **May**: @Minato, I get the worry, but Option B is the only way to stop people freezing up. If the first step is small, they’ll actually show up.
+- [69] **Shunichi**: @Minato, Option B is administrative suicide. You’d be counting coins for every single event. Option C is the only way to stop subsidizing ghosts.
+- [70] **Minato**: I am sorry to hear Option B is so hard. But Option C sounds confusing. I just want the next person to have a simple, quiet job.
+- [71] **Ryuji**: Minato, Option C’s tiers create variable revenue streams, complicating the fixed-cost coverage I need to verify. We need predictable inflows to match those seventy percent fixed obligations.
+- [72] **Minako**: Minato, Option C’s named levels create the exact visibility that makes newcomers hesitate. If the structure feels opaque, they won’t drift in. We need a simple, stable baseline that doesn’t demand constant administrative attention.
+- [73] **May**: @Minako, wait. Tiers feel like a judgment. If people feel judged, they freeze. Option B is the only way to keep it light and safe.
+- [74] **Shunichi**: @May, judgment is the point. If you don’t show up, you don’t pay. Option C aligns cost with actual contribution. Stop protecting the ghosts.
+- [75] **Minato**: I am sorry to hear Option B is so hard. But Option C sounds confusing. I just want the next person to have a simple, quiet job.
+- [76] **Ryuji**: Minato, simplicity is not accuracy. Option A’s predictable inflow is the only way to reliably cover our fixed costs. I vote A.
+- [77] **Minako**: Minato, I understand your desire for simplicity. However, Option A’s barrier is too high for newcomers. I vote B to lower that friction.
+- [78] **May**: @Minato, I hear you, but Option B is the only way to stop the hesitation. If the first step is small, people actually show up. I vote B.
+- [79] **Shunichi**: I vote C. The data is clear: participation should dictate cost. Stop subsidizing the ghosts.
+### Vote
+- Minato -> A
+- Ryuji -> A
+- Minako -> B
+- May -> B
+- Shunichi -> C
+## Result
+- adopted: A

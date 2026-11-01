@@ -1,0 +1,73 @@
+# candidate_selection_0009__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I’m worried about the physical space. Can we check the structural survey of the suspended bay first?
+- [6] **Toshio**: I’d like to see the weekend head counts across ten seasons. The numbers should tell us what actually draws people back.
+- [7] **Rin**: I want to check the conservation lab staffing and backlog. We need to know who is actually working!
+- [8] **Kenji**: I want to check the lender paperwork against shipping cut-offs. I keep hearing about delays, and I want to see exactly where things went wrong before we promise anything.
+- [9] **Benjamin**: I’ll look into loan transport costs over three seasons and mount-making charges. I want to see where the money actually goes before we commit.
+- [10] **Daisuke**: I’m also looking into the maintenance log for powered displays. I need to know if the room can handle the strain.
+- [11] **Toshio**: I’ll also review the five years of visitor comment slips. The numbers show volume, but the slips show why they return.
+- [12] **Rin**: I’m also checking the composition of the volunteer roster. We need to know who is actually standing in the room!
+- [13] **Kenji**: I’m also checking the maintenance log for powered displays. If things break during opening hours, I want to know exactly how often that happens.
+- [14] **Benjamin**: I’ll also check the evening hire bookings. If the gallery is rented out, we can’t display anything, and the invoices for repairs will be a surprise.
+- [15] **Daisuke**: I think we’ve covered the main risks. I’m a bit nervous about the final decision, but I trust the data we’ve gathered.
+- [16] **Toshio**: The data will speak for itself. I’ll wait for the findings before forming a final opinion.
+- [17] **Rin**: I’m ready to hear what we found! I just hope the staff list isn’t as scary as I think.
+- [18] **Kenji**: I’m glad we’re all looking at the same risks. I really hope the paperwork shows we can actually keep our promises this time!
+- [19] **Benjamin**: Agreed. Let’s see if the invoices match the promises. I’ll wait for the numbers.
+- [20] **Daisuke**: I’m a bit quiet, but I’m glad we’re all looking at the same risks. I’ll wait for the findings.
+- [21] **Toshio**: I’ll wait for the findings. The record should get a hearing first.
+- [22] **Rin**: Okay! I’m super excited to see what we found. Let’s hope the volunteers are ready for action!
+- [23] **Kenji**: I’m ready to see the results. I really hope the paperwork shows we can actually keep our promises this time!
+- [24] **Benjamin**: Fine. Let’s see if the ledger agrees with the enthusiasm. I’ll wait for the findings.
+## Round 2
+- [35] **Daisuke**: The bay is capped at four hundred kilos per square metre. Last season, stonework needed shoring. We must be careful with heavy items.
+- [36] **Toshio**: The head counts confirm it: people return for movement and presence, not static cases. The comment slips echo this.
+- [37] **Rin**: One person for two hundred pieces? That’s impossible! And the volunteers are already busy with walks. Who is actually doing the work?
+- [38] **Kenji**: @Benjamin, the paperwork shows two of the last four openings slipped because distant lenders missed the shipping cut-offs. We can’t promise what we can’t deliver on time.
+- [39] **Benjamin**: @Kenji, the delays are real, but the costs are worse. Loans ate a third of our installation budget. Bespoke mounts are now double the rate.
+- [40] **Daisuke**: @Toshio, the maintenance log shows seventeen call-outs, four during opening hours. The bay was roped off. The room cannot absorb that strain.
+- [41] **Toshio**: @Daisuke, the data aligns. Static displays fail to retain visitors. We need presence and motion, but the structural limits are severe.
+- [42] **Rin**: @Toshio, presence is great, but who is standing there? The lab is empty and volunteers are busy!
+- [43] **Kenji**: @Rin, the maintenance log is worse. Fourteen call-outs, four with the bay roped off during opening hours. We’d be apologizing at the door all season.
+- [44] **Benjamin**: @Kenji, the structural limits are real, but the financial bleed is worse. We cannot afford the bespoke mounts or the loan transport. We need self-supporting objects.
+- [45] **Daisuke**: @Benjamin, I agree. The bay is fragile. We must avoid heavy, powered items that strain the floor or need constant repair.
+- [46] **Toshio**: @Rin, the record is clear. People return for presence, not empty rooms. We must find a way to staff it, despite the lab’s shortage.
+- [47] **Rin**: @Toshio, presence is useless if the room is empty! We need a show that doesn’t need a full lab crew or extra volunteers.
+- [48] **Kenji**: @Benjamin, I hear you on the costs, but if the bay is roped off, we’re just apologizing at the door. We need a show that actually arrives on time.
+- [49] **Benjamin**: @Kenji, Punctuality is cheap if the objects arrive pre-mounted. We simply cannot afford the bespoke joinery or the courier fees for heavy loans.
+- [50] **Daisuke**: I’m still worried. The bay is weak, and the powered displays keep breaking. We need something light and simple that won’t strain the floor or need constant repairs.
+- [51] **Toshio**: The record is unambiguous. We need presence and motion, but the structural and staffing limits are severe. We must find a candidate that fits these constraints.
+- [52] **Rin**: @Benjamin, I agree! We need something self-supporting. But @Toshio, how do we get presence without a full lab crew?
+- [53] **Kenji**: @Rin, I agree. We need presence, but not if it means the bay is roped off. Let’s pick something that actually arrives on time and stays working.
+- [54] **Benjamin**: @Rin, Presence is free if the objects arrive pre-mounted. We simply cannot afford the bespoke joinery or the courier fees for heavy loans.
+## Round 3
+- [60] **Daisuke**: @Toshio, I’m worried about D. The overhead rigging might exceed the bay’s four-hundred-kilo limit. We can’t risk the floor failing.
+- [61] **Toshio**: @Daisuke, The rigging is a risk, but the data demands motion. @Rin, the comment slips prove people return for presence, not static cases.
+- [62] **Rin**: @Toshio, presence is great, but who is standing there? The lab is empty and volunteers are busy!
+- [63] **Kenji**: @Daisuke, I agree. D is too risky. B is also bad because distant lenders caused delays. A is local, so it arrives on time!
+- [64] **Benjamin**: @Kenji, A is the only option that avoids the courier fees and bespoke mounts. The local craftspeople provide the presence we need, without the financial bleed.
+- [65] **Daisuke**: @Benjamin, I agree. A is light and local. It avoids the heavy rigging and the expensive loans. The floor can handle it.
+- [66] **Toshio**: @Rin, the craftspeople are the presence. They are local, so no extra staff needed. The data supports this.
+- [67] **Rin**: @Toshio, I agree! Local craftspeople mean no extra lab work. But @Benjamin, are the tools self-supporting? I don’t want to build anything!
+- [68] **Kenji**: @Rin, Yes! Local means no shipping delays. The tools are simple, so no expensive mounts. We can actually keep our promises this time!
+- [69] **Benjamin**: @Rin, Yes. Garments hang on standard rails; tools sit on simple shelves. No bespoke joinery, no courier fees. The budget stays intact.
+- [70] **Daisuke**: @Benjamin, I agree. A is light and local. It avoids the heavy rigging and the expensive loans. The floor can handle it.
+- [71] **Toshio**: @Daisuke, Agreed. The structural risk is eliminated. @Rin, the local craftspeople provide the presence the data demands, without straining our depleted staff.
+- [72] **Rin**: @Benjamin, Yes! And the craftspeople are the presence! No extra volunteers needed. I’m ready to vote for A!
+- [73] **Kenji**: @Benjamin, I agree! Local means no shipping delays. The tools are simple, so no expensive mounts. We can actually keep our promises this time!
+- [74] **Benjamin**: @Rin, Precisely. The budget survives, the floor holds, and the presence is genuine. I am voting for A.
+- [75] **Daisuke**: I am relieved. A is light, local, and safe. The floor will hold, and the budget stays intact. I am voting for A.
+- [76] **Toshio**: The record is clear. Presence drives return visits, and A provides it without structural or financial risk. I am voting for A.
+- [77] **Rin**: A is perfect! Local craftspeople mean real presence without extra staff. I’m voting for A!
+- [78] **Kenji**: @Benjamin, I agree! Local means no shipping delays. The tools are simple, so no expensive mounts. We can actually keep our promises this time!
+- [79] **Benjamin**: A unanimous vote for A. The ledger finally agrees with the room. I am voting for A.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

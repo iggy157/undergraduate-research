@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I think it is important that we pick a plan that can actually be finished on time. Does the ground here make it hard to build?
+- [6] **May**: Let's be real, the biggest disaster is always the bill three years later. I want to know what this will actually cost to maintain once the party's over.
+- [7] **Shizue**: It is lovely to see you all. I worry that beautiful drawings often hide a fragile reality. I would prefer to see how our previous projects have aged.
+- [8] **Victoria**: I agree with the need for realism. However, I am wondering who will actually be on the ground every day. A plan is only as good as the people managing it.
+- [9] **Shunichi**: You're all thinking about the "what" and "who." I'm thinking about the "where." A park isn't a drawing; it's a place that gets rained on and walked through.
+- [10] **Minato**: @Shunichi, that's true. I just worry that if the diggers find something strange in the dirt, the whole project might stop for a long time.
+- [11] **May**: @Minato, delays are annoying, but a permanent budget leak is a nightmare. I'm looking for a plan that doesn't bleed the city dry every single year.
+- [12] **Shizue**: @May, you are quite right to be cautious. But sometimes the cheapest option at the start is the most expensive in the end because it breaks so quickly.
+- [13] **Victoria**: Exactly. If we design something complex but have no one to prune the hedges or clean the paths, the park will just become a wasteland.
+- [14] **Shunichi**: Precisely. If we ignore how people actually cross the grass or how the water drains in August, we're just buying a very expensive piece of art that doesn't work.
+- [15] **Minato**: I want to learn more about the companies that do the digging. Maybe they can tell us if the plan is too difficult for this specific place.
+- [16] **May**: I'm more interested in the ledger. I want to see exactly how much we've been spending per hectare. Let's get some hard numbers on the table.
+- [17] **Shizue**: I think I shall look into the condition of our earlier works. It is the best way to see if the city's promises of quality are actually kept.
+- [18] **Victoria**: I want to understand the current staffing. I'll look into the groundskeeping roll and see if we have any volunteer groups we can actually rely on.
+- [19] **Shunichi**: I'll stick to the physical reality. I want to see the drainage callouts and the actual counts of how people move through the space on weekdays.
+- [20] **Minato**: I hope we can find a plan that makes everyone happy and doesn't take too many years to finish.
+- [21] **May**: As long as it doesn't bankrupt the maintenance fund, I'm open to a little charm. Let's see what the data says.
+- [22] **Shizue**: Let us be gentle with one another as we decide. I just want a park that our grandchildren can still enjoy in fifty years.
+- [23] **Victoria**: I will be looking for a plan that is sustainable for the people, not just the budget.
+- [24] **Shunichi**: Let's just make sure we don't pick a plan that looks great in a brochure but turns into a swamp the first time it rains.
+## Round 2
+- [35] **Minato**: I found out that only two local firms are willing to do the big digging. They are worried about the clay soil and things slipping.
+- [36] **May**: Well, the numbers are in, and they're scary. Planted areas cost three times more to maintain than hard surfaces. We cannot afford a "green paradise" that we can't pay for.
+- [37] **Shizue**: I am a bit saddened to report that our previous plantings on the eastern avenue failed because the watering was forgotten. The quality is very inconsistent.
+- [38] **Victoria**: My findings are concerning. Our internal staff has shrunk from eighteen to seven. We are relying heavily on bought-in services for the basics.
+- [39] **Shunichi**: It's as I feared. The drainage is failing, and the heat is trapping. Plus, people are cutting across the park to get to the tram, ignoring the paths.
+- [40] **Minato**: @May, if we use too many hard surfaces, will that make the clay soil problem worse? I don't want the park to sink.
+- [41] **May**: @Minato, I'd rather it sink a little than have a budget that disappears into a hole every year. We need a plan that is lean and sustainable.
+- [42] **Shizue**: @Victoria, if we have so few staff, we must choose a plan that is simple. I saw that the civic hall apron is already crumbling. We cannot afford fancy things.
+- [43] **Victoria**: @Shizue, exactly. If we only have seven people, we cannot manage a complex garden. We need a plan that utilizes the existing volunteer groups or requires very little.
+- [44] **Shunichi**: @May, hard surfaces are great until they turn the park into an oven. The heat readings are already too high. We need a design that handles water and heat, not just a concrete slab.
+- [45] **Minato**: I think we should be careful about the "big" plans. If only two firms can do the work and they are worried about the soil, a simple plan is safer.
+- [46] **May**: @Shunichi, I hear you on the heat, but look at the ledger! We are paying a fortune for turf and water. A "natural" look that requires constant care is a lie.
+- [47] **Shizue**: I agree with @May on the cost, but not on the concrete. We need materials that last. The basin from eight years ago is still strong; that is what we should emulate.
+- [48] **Victoria**: I am worried that any plan requiring "specialist care" will fail. We have no one left to do it. We need a plan that fits a seven-person team.
+- [49] **Shunichi**: We are talking about budgets and staff, but the people are already walking their own paths to the tram. If we build a wall or a fancy hedge there, they'll just kill it.
+- [50] **Minato**: I just want to make sure we don't start something we can't finish. If the soil is bad, maybe we should avoid deep excavations.
+- [51] **May**: Let's be honest: the city is broke. We need a plan that looks decent but costs almost nothing to keep. No fancy water features, no high-maintenance lawns.
+- [52] **Shizue**: I believe we should look for the plan that uses the most durable, simple materials. Let us not be fooled by a pretty picture of a garden that will die in two years.
+- [53] **Victoria**: I will support any plan that doesn't assume we have a full staff. If it requires a dozen gardeners, it is a fantasy.
+- [54] **Shunichi**: Then we need a plan that accepts the tram-commuter flow, fixes the drainage issues, and doesn't rely on a ghost crew of gardeners.
+## Round 3
+- [60] **Minato**: Plan B seems the safest for the soil. It's mostly flat and doesn't need deep digging like the ponds in Plan D or the facilities in Plan C.
+- [61] **May**: Plan B is the only one that makes financial sense. Paved surfaces are cheap to maintain. Plan A and D are just expensive gardens waiting to die.
+- [62] **Shizue**: I am very wary of Plan A and D. As I saw with the eastern avenue, we cannot keep plants alive. Plan B is simple, but Plan C's courts might be more durable.
+- [63] **Victoria**: Plan B is the most realistic for our staff. A plaza doesn't need a gardener; it needs a sweeper. Plan A and D would be a disaster for a seven-person team.
+- [64] **Shunichi**: Plan B is a heat trap. A paved square in August will be unbearable. However, Plan D is a fantasy given our drainage failures—it'll just be a swamp.
+- [65] **Minato**: @Shunichi, you're right about the heat. But Plan C has changing facilities, which means deep pipes and digging. The local firms were worried about the clay.
+- [66] **May**: @Shunichi, we can put umbrellas in a plaza. We can't put a million dollars of maintenance into a "wetland" that turns into a mosquito pit because we have no staff.
+- [67] **Shizue**: @Minato, you make a good point about the digging. Plan B is the most modest. It doesn't promise a paradise it cannot deliver. It is honest.
+- [68] **Victoria**: I agree. Plan B requires the least amount of daily human intervention. We can't manage a woodland or a wetland with the current rota.
+- [69] **Shunichi**: Plan B is the "safe" choice, but it ignores the tram commuters. They'll just walk across the plaza, which is fine, but it doesn't solve the heat or the water.
+- [70] **Minato**: I think Plan B is the only one that won't get stuck in the mud for three years. I'm worried that any other plan will just lead to delays.
+- [71] **May**: It's the only one that won't bankrupt us in three years. I'm voting for B. It's clean, it's simple, and it's affordable.
+- [72] **Shizue**: I have seen too many "green" projects fail here. I would rather have a plain plaza that stays a plaza than a forest that becomes a graveyard of dead saplings.
+- [73] **Victoria**: My priority is the people. We have no one to maintain a forest or a wetland. Plan B is the only one that doesn't set the staff up for failure.
+- [74] **Shunichi**: I'm not thrilled about the heat, but I'm more thrilled about not having a swamp. Plan B is the only one that doesn't fight the reality of our staffing and budget.
+- [75] **Minato**: I feel better knowing we are all thinking about the same problems. I'll vote for Plan B because it's the most realistic for the builders.
+- [76] **May**: Finally, some common sense. Let's pick the one that doesn't cost a fortune to sweep.
+- [77] **Shizue**: It is a modest choice, but modesty is often the most sustainable path. I am happy to agree with you all.
+- [78] **Victoria**: I can support Plan B. It is the only option that respects the limits of our current human resources.
+- [79] **Shunichi**: It's a boring choice, but it's the only one that won't be a disaster in two years. I'll go with B.
+### Vote
+- Minato -> B
+- May -> B
+- Shizue -> B
+- Victoria -> B
+- Shunichi -> B
+## Result
+- adopted: B

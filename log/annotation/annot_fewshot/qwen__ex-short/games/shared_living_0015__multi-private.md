@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private (shared_living)
+
+## Round 1
+- [5] **Servas**: I worry that our old three-person split ignores how we actually use the heat and light now.
+- [6] **Midori**: I worry that money has started to sour how we speak to each other here.
+- [7] **Minato**: I just want to know if the old split is still fair for everyone.
+- [8] **May**: I need to see the actual numbers before I agree to anything. Who is paying for what right now?
+- [9] **Daisuke**: I worry about who ends up doing the monthly math. It takes so long, and I don't want it to fall on one person.
+- [10] **Servas**: @May, the numbers are vital, but they must reflect our shared warmth, not just cold arithmetic.
+- [11] **Midori**: @Servas, I agree. But if we don't address the tension, the numbers won't matter. We need to heal the trust first.
+- [12] **Minato**: @Midori, I think the numbers might actually help us feel better. If we see who uses what, maybe the worry goes away?
+- [13] **May**: @Minato, maybe. But I need to know if the old split is actually costing me extra. Who is using the most heat?
+- [14] **Daisuke**: @May, I worry the math will just create more arguments. I need to know how much time it takes to keep it running.
+- [15] **Servas**: @Daisuke, the math should be simple enough that it never becomes a burden. Let us find a method that respects everyone’s time.
+- [16] **Midori**: @Daisuke, I hear you. If the math causes stress, it defeats the purpose. We need a system that is easy and doesn't breed resentment.
+- [17] **Minato**: @Daisuke, I agree. Maybe we can share the task so it is not heavy for one person?
+- [18] **May**: @Daisuke, I get it, but I need the data first. I will check the last twelve statements and the payment log to see the real costs.
+- [19] **Daisuke**: @May, thank you. I will look into the trial run of the reconciliation template and the monthly settle observed at another house.
+- [20] **Servas**: I will examine the plug-in monitor readings and the sunlight and heating need by room to understand our true usage.
+- [21] **Midori**: I will check the kitchen notice about the cooler and the winter habits at a house paying ahead.
+- [22] **Minato**: I will look at the last twelve utility statements and the plug-in monitor readings to see the real usage.
+- [23] **May**: I will check the electrician's quote for the rooms and the settling up when the last rooms filled.
+- [24] **Daisuke**: I will look into the trial run of a reconciliation template and the monthly settle observed at another house.
+## Round 2
+- [35] **Servas**: The monitors show a fourfold difference in usage. The south rooms stay warm naturally, while the north ones need heat early. We must honor this physical reality.
+- [36] **Midori**: - **Midori**: @Servas, that physical difference is real. But the cooler notice shows people avoiding shared costs to keep the peace.
+- [37] **Minato**: @Servas, four times is a lot. I am surprised the heater uses so much. Does that mean the north room pays more?
+- [38] **May**: @Minato, not necessarily. I found the sub-meter quote is thirty-four thousand yen per room. That is a huge upfront cost just to track usage.
+- [39] **Daisuke**: @May, thirty-four thousand is too much. I found the template takes hours to key in. I worry about the time cost.
+- [40] **Servas**: @Daisuke, time is precious, but so is fairness. We need a method that is both simple and just, so no one feels burdened by the math.
+- [41] **Midori**: @Daisuke, I understand the time worry. But the winter habits show that a fixed, simple amount stops people from overthinking every switch.
+- [42] **Minato**: @Midori, that sounds nice. If a fixed amount stops the worrying, maybe we do not need to count every single switch?
+- [43] **May**: @Midori, a fixed amount sounds easy, but I need to know if it covers my winter spike. I also found the last settling took three weeks.
+- [44] **Daisuke**: @May, three weeks is too long. The other house took forty minutes. I need a method that is quick and does not eat my evenings.
+- [45] **Servas**: @May, three weeks is a long silence. We must find a rhythm that settles the bill before the cold sets in, so trust is never tested by delay.
+- [46] **Midori**: @Servas, I agree. The cooler notice shows people avoid shared costs to keep peace. We need a rhythm that prevents that silence from turning into resentment.
+- [47] **Minato**: @May, three weeks is a long time to wait. I hope we can find a way to settle it faster so nobody feels left out.
+- [48] **May**: @Minato, I agree. I need to know if a fixed split covers my winter spike without a three-week delay.
+- [49] **Daisuke**: @May, I worry the fixed split might hide the real cost. I just need to know if the monthly math stays under an hour.
+- [50] **Servas**: @Daisuke, if the math takes under an hour, it is a gift, not a burden. Let us choose simplicity that protects our peace.
+- [51] **Midori**: @Daisuke, I agree. If the math is quick, it stops the awkwardness. Let us find a rhythm that keeps us talking, not avoiding each other.
+- [52] **Minato**: @Daisuke, I hope the math is easy enough that we can all do it together without stress.
+- [53] **May**: @Daisuke, I need to know if the upfront cost is worth it. I cannot afford another surprise bill this winter.
+- [54] **Daisuke**: @May, I am afraid the upfront cost is too high. I just need a method that takes less than an hour so I can keep my evenings.
+## Round 3
+- [60] **Servas**: Option B honors the physical reality of our rooms. A fixed seasonal rate respects the north and south differences without the burden of constant counting.
+- [61] **Midori**: @Servas, I agree. Option B’s fixed rate stops the constant checking that breeds resentment. It lets us focus on our relationships, not the meter.
+- [62] **Minato**: @Midori, I like that it is simple. But I am worried the north room will pay too much in winter.
+- [63] **May**: @Minato, the north room pays more, but I need to know if the annual settle covers my winter spike without a surprise.
+- [64] **Daisuke**: @May, I worry the annual settle is a big job. I just need to know if the monthly math stays under an hour.
+- [65] **Servas**: @Daisuke, the annual settle is a single, quiet moment, not a monthly burden. The monthly figure is fixed, so your time is protected.
+- [66] **Midori**: @Daisuke, I agree. The fixed rate means no monthly math at all. You just pay the set amount and forget it.
+- [67] **Minato**: @Daisuke, I think that sounds nice. If we just pay the set amount, we do not have to worry about the math every month.
+- [68] **May**: @Daisuke, I agree. The fixed rate means no monthly math. But I need to know if the annual settle covers my winter spike without a surprise.
+- [69] **Daisuke**: @May, I am relieved. If the monthly math is gone, I can keep my evenings. I am leaning towards B.
+- [70] **Servas**: @Minato, the north room’s extra warmth is a shared gift, not a penalty. We honor the season together, so no one pays alone for the cold.
+- [71] **Midori**: @Minato, I hear your worry. But the fixed rate means we stop arguing over every switch. It protects our peace and keeps us talking.
+- [72] **Minato**: @Servas, that is kind. I just want to be sure the north room does not feel like it is carrying the whole house.
+- [73] **May**: @Minato, I worry the annual settle will be a massive surprise. I need to know if the fixed rate actually covers my winter spike.
+- [74] **Daisuke**: @May, I am worried the annual settle will be a huge job. I just need to know if the monthly math stays under an hour.
+- [75] **Servas**: @May, the annual settle is a single, honest reckoning. We choose B to protect our daily peace, trusting that the fixed rate will carry us through the winter.
+- [76] **Midori**: @May, I understand the fear of a surprise. But the fixed rate stops the daily tension. Let us trust the system to keep our friendship safe.
+- [77] **Minato**: @May, I hope the fixed rate is fair for everyone. I just want us to feel safe and not worried about big surprises.
+- [78] **May**: @Servas, I am still worried about that annual surprise. I need to know if the fixed rate actually covers my winter spike before I commit.
+- [79] **Daisuke**: @May, I am afraid the annual settle will be a huge job. I just need to know if the monthly math stays under an hour.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

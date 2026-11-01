@@ -1,0 +1,73 @@
+# candidate_selection_0003__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: I want to understand which past projects actually worked for the people using them.
+- [6] **Victoria**: I’m curious how much time we lose to out-of-service rooms during construction, and how those spaces are actually used afterward.
+- [7] **George**: I’m concerned about the staff burden. Who is left to maintain these new facilities once the contractors leave?
+- [8] **Mizuki**: I’m worried about the calendar. Every recent job hits an unpriced snag, and the schedule slips until a year of work is squeezed into the remaining weeks.
+- [9] **Benjamin**: I’m interested in the gap between approved figures and actual market costs, plus what happens to maintenance budgets after opening.
+- [10] **Toshio**: @Mizuki, your concern about slipping schedules is valid. I’d like to see the decade of delivery schedules to understand why some projects consistently miss their targets.
+- [11] **Victoria**: @Toshio, that aligns with my interest. I’d like to examine the timetable records for out-of-service rooms and the post-occupancy review ratings to see the full impact.
+- [12] **George**: @Victoria, your focus on usage is wise. I need to see the staffing posts since the freeze and the technicians' weekly routines to gauge the upkeep load.
+- [13] **Mizuki**: @Toshio, I agree. I’ll check the decade of delivery schedules and the weather days in the site diaries to pinpoint exactly where our timelines collapse.
+- [14] **Benjamin**: @Toshio, your point about delivery schedules is sharp. I’ll examine the tender records and the renewal reserve to see where our financial assumptions quietly fail.
+- [15] **Toshio**: I will look into the post-occupancy review ratings and the decade of delivery schedules. These will show us what actually worked and why timelines slip.
+- [16] **Victoria**: I will examine the timetable records on rooms out of service and the booking data for specialist and general rooms.
+- [17] **George**: I will look into the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [18] **Mizuki**: I will look into the decade of delivery schedules and the weather days in the site diaries.
+- [19] **Benjamin**: I will examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [20] **Toshio**: I’ll review the post-occupancy ratings and delivery schedules. We need to know what actually worked and why timelines slip.
+- [21] **Victoria**: I’ll review the timetable records and booking data. We need to see the true cost of disruption and how the finished spaces are actually used.
+- [22] **George**: I’ll review the staffing posts and the technicians' routines. We must see who is left holding the bag after the contractors leave.
+- [23] **Mizuki**: I’ll review the delivery schedules and weather diaries. We need to pinpoint exactly where our timelines collapse and why the calendar keeps slipping.
+- [24] **Benjamin**: I’ll review the tender records and the renewal reserve. We need to see where our financial assumptions quietly fail before we commit another budget.
+## Round 2
+- [35] **Toshio**: The data is clear. Projects driven by inspection findings delivered on time. Those based on comfort or appeal slipped significantly.
+- [36] **Victoria**: The timetable records show we paid for off-site space for two terms. Meanwhile, booking data reveals specialist rooms sit idle, while general requests are turned away all year.
+- [37] **George**: The freeze left grounds posts empty, yet technicians have spare hours. Worse, they spend hours on manual checks the old equipment can’t handle.
+- [38] **Mizuki**: The diaries show six weeks lost to weather, and comfort projects slip a year. We must prioritize inspection-driven work to protect the calendar.
+- [39] **Benjamin**: The plant costs rose a fifth, yet we never reserved funds for the AV kit’s inevitable replacement. We are funding the build, not the lifecycle.
+- [40] **Toshio**: @Mizuki, your point about inspection-driven work is key. The data confirms that only those projects delivered on time. We must anchor our choice in that reality.
+- [41] **Victoria**: @Toshio, I agree. But the booking data shows general rooms are always full, while specialist ones sit empty. We must prioritize high-demand, low-disruption spaces.
+- [42] **George**: @Victoria, the demand is real, but the staff to support it is missing. We cannot build more without fixing the staffing gap first.
+- [43] **Mizuki**: @George, the staffing gap is real, but the calendar is already broken. We cannot afford another year of slippage. We need a project that fits the remaining weeks.
+- [44] **Benjamin**: @George, the staffing gap is real, but the financial leak is worse. We are buying equipment we cannot afford to replace.
+- [45] **Toshio**: @Benjamin, the financial leak is critical, but we must also ask if the space is actually used. My data shows single-wing projects disappoint users.
+- [46] **Victoria**: @Toshio, exactly. The data proves single-wing projects fail. We need spaces everyone can book, not isolated wings.
+- [47] **George**: @Victoria, I hear you, but adding more bookable space without fixing the staffing gap just piles more manual work onto the same exhausted technicians.
+- [48] **Mizuki**: @George, I hear you, but the calendar is already broken. We cannot afford another year of slippage. We need a project that fits the remaining weeks.
+- [49] **Benjamin**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [50] **Toshio**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [51] **Victoria**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [52] **George**: @Mizuki, the calendar is broken, but the staffing gap is the real bottleneck. We cannot absorb more manual work without relief.
+- [53] **Mizuki**: @George, the staffing gap is real, but the calendar is already broken. We cannot afford another year of slippage. We need a project that fits the remaining weeks.
+- [54] **Benjamin**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+## Round 3
+- [60] **Toshio**: The post-occupancy data is decisive. Projects rated highest were those open to all departments. Single-wing benefits consistently disappointed users.
+- [61] **Victoria**: @Toshio, agreed. The booking data confirms it: general spaces are always full, specialist ones idle. We need high-demand, bookable space, not isolated wings.
+- [62] **George**: @Victoria, I hear the demand, but look at the staffing. We have no grounds staff, and technicians are drowning in manual checks. Adding a service desk just piles more work on them.
+- [63] **Mizuki**: @George, the staffing gap is real, but the calendar is already broken. We cannot afford another year of slippage. We need a project that fits the remaining weeks.
+- [64] **Benjamin**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [65] **Toshio**: @Benjamin, the financial leak is real, but the post-occupancy data is decisive. We must choose a project that actually serves the whole campus, not just one wing.
+- [66] **Victoria**: @Toshio, I agree. The data shows general spaces are always full, while specialist ones sit idle. We need high-demand, bookable space, not isolated wings.
+- [67] **George**: @Victoria, I understand the demand, but a service desk requires staffing we simply do not have. We cannot build more burden onto exhausted technicians.
+- [68] **Mizuki**: @George, the staffing gap is real, but the calendar is already broken. We cannot afford another year of slippage. We need a project that fits the remaining weeks.
+- [69] **Benjamin**: @George, the staffing gap is real, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [70] **Toshio**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [71] **Victoria**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [72] **George**: @Mizuki, the calendar is broken, but the staffing gap is the real bottleneck. We cannot absorb more manual work without relief.
+- [73] **Mizuki**: @George, the staffing gap is real, but the calendar is already broken. We cannot afford another year of slippage. We need a project that fits the remaining weeks.
+- [74] **Benjamin**: @Mizuki, the calendar is broken, but the financial model is worse. We are buying assets we cannot afford to replace.
+- [75] **Toshio**: I vote for B. The data shows shared, bookable spaces succeed, while isolated projects fail. We must choose the option that serves everyone.
+- [76] **Victoria**: I vote for B. The booking data is undeniable: general spaces are perpetually full, while specialist rooms sit idle. We must fund the demand, not the vacancy.
+- [77] **George**: I vote for A. The technicians' logs prove the current extraction fails. Replacing it removes their manual burden, unlike B, which adds a service desk we cannot staff.
+- [78] **Mizuki**: I vote for A. It is inspection-driven, so it delivers on time. It also removes the manual checks, easing the staffing burden George raised.
+- [79] **Benjamin**: I vote for A. The tender data shows plant costs rising, but the renewal reserve proves we ignore lifecycle costs. A fixes the extraction, reducing the manual burden George highlighted.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> A
+- Mizuki -> A
+- Benjamin -> A
+## Result
+- adopted: A

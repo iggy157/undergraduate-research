@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I'm so excited to help make the park awesome! I want to make sure we can actually get the work done on time, so I'll check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site!
+- [6] **Benjamin**: A most spirited start, Kenji. While enthusiasm is a virtue, I believe a touch of pragmatism is required. I shall examine the upkeep ledger spend per hectare and the drainage callouts and August heat readings.
+- [7] **Minato**: Hello! I'm happy to be here with you all. I want to know who will be taking care of the park and the plants, so I'll look at the groundskeeping roll and bought-in services, and the volunteer groups.
+- [8] **Minako**: I believe we should prioritize the long-term viability of the project over initial impressions. I will examine the condition of works from the earlier programme and the record of the eastern avenue planting.
+- [9] **Jonathan**: It is a pleasure to meet you all. To ensure we are mindful of the future, I shall look into the terms of the regional habitat fund and the upkeep ledger spend per hectare.
+- [10] **Kenji**: That sounds like a great plan, everyone! I think it's awesome that we're looking at everything from the plants to the money. I'm really curious to see if the firms can actually handle the digging!
+- [11] **Benjamin**: Indeed, Kenji. It would be a tragedy to select a vision of paradise only to discover that the local machinery is incapable of carving it from the earth. I suspect the reality of the soil is far less cooperative.
+- [12] **Minato**: I hope the people who work there are happy too. It's nice that we are all looking at different things to help the park. I wonder if the volunteers like the park as much as we do!
+- [13] **Minako**: It is important that we remain objective. While the human element is valuable, the physical evidence of past projects will tell us the most about the city's ability to maintain its promises over time.
+- [14] **Jonathan**: I agree with Minako. The records of the past often whisper the truths that the present chooses to ignore. I hope our findings bring us a sense of clarity and peace.
+- [15] **Kenji**: I totally agree with Jonathan! I can't wait to see what the records tell us. I just hope the digging part doesn't turn into a giant mess that takes forever to fix!
+- [16] **Benjamin**: A giant mess is precisely what occurs when one mistakes a brochure for a blueprint. I shall be quite interested to see if the drainage records reveal a park that breathes or one that merely drowns in August.
+- [17] **Minato**: I hope the park breathes too! I think it would be wonderful if the people and the plants could all grow together happily. I'm looking forward to learning more about everyone's work.
+- [18] **Minako**: We are all seeking different forms of stability. Whether it is the soil, the budget, or the staff, the goal is the same: a result that lasts. I look forward to seeing if the physical evidence supports our hopes.
+- [19] **Jonathan**: It is a comforting thought, Minako. When we align our ambitions with the quiet reality of the archives, we avoid the turbulence of unexpected burdens. I wish you all a productive search for the truth.
+- [20] **Kenji**: I'm ready to dive in! I'll do my best to find out if we can get those diggers moving without any big surprises. See you all in the next round!
+- [22] **Benjamin**: I shall await the revelations of the ledgers with a measured curiosity. Let us hope the data is more honest than the architects' renderings. Until we reconvene, I wish you all a most illuminating investigation.
+- [24] **Minato**: I'm ready too! I hope I can find out if there are enough kind people to help the park stay beautiful. I'll see you all soon!
+- [26] **Minako**: I am ready to proceed. I will focus on the evidence of durability and the actual outcomes of previous schemes to ensure our decision is grounded in reality. I look forward to the results.
+- [28] **Jonathan**: I shall now step into the quiet of the records. May we find a path that is not only beautiful but sustainable for the years to come. I look forward to our next meeting.
+## Round 2
+- [40] **Kenji**: Wow, I found some really important stuff! The digging firms are worried about clay subsoil and slippage risks, which sounds like it could be a big problem. Also, we can't hoard the center or main gate without closing them!
+- [41] **Benjamin**: It seems the earth is as stubborn as I suspected, Kenji. My own findings are equally sobering: our drainage is failing, and the cost of maintaining greenery is escalating at a rate that would make any accountant shudder.
+- [42] **Minato**: I found out that there are only seven people left on the groundskeeping roll, which is much smaller than before. But there are some volunteer groups who already help out on the weekends! I hope that's enough.
+- [43] **Minako**: My findings confirm a pattern of poor longevity. While some structural work holds, the civic hall apron has failed repeatedly, and half the eastern avenue trees died because aftercare was omitted from the contract.
+- [44] **Jonathan**: It is a sobering realization. I have found that the habitat fund only covers planting and water management, while the cost to maintain such green spaces is now triple that of hard surfaces and rising.
+- [45] **Kenji**: @Benjamin, that's scary! If the ground is slippery and the drainage is bad, we could be in for a huge mess. We really need a plan that doesn't involve too much deep digging in the center!
+- [46] **Benjamin**: @Kenji, a most astute observation. If we insist on an elaborate subterranean fantasy while the current culverts are already gasping for air, we are merely designing a very expensive pond. We must prioritize a plan that respects the existing hydrology.
+- [47] **Minato**: @Benjamin, a pond sounds pretty, but I worry about the people. If there are only seven workers left, will they be too tired to take care of everything? I hope the volunteers can help them so they don't feel sad.
+- [48] **Minako**: @Minato, the number of staff is a concern, but the lack of aftercare in previous contracts is the more critical failure. It does not matter how many people we have if the maintenance is not legally secured in the agreement.
+- [49] **Jonathan**: @Minako, you touch upon a vital point. If the fund only covers the initial planting and not the long-term care, we risk creating a beautiful vision that becomes a financial burden we cannot sustain.
+- [50] **Kenji**: @Jonathan, that's so true! And if the digging takes way longer because of the clay, it'll just cost even more money! We should definitely pick a plan that's simple to build and doesn't need a ton of deep digging.
+- [51] **Benjamin**: @Kenji, simplicity is indeed the ultimate sophistication. When one combines clay slippage, failing drainage, and a budget that bleeds whenever a leaf is planted, the only rational path is one of restraint. We must avoid any plan that treats the park as a blank canvas.
+- [52] **Minato**: I agree with Benjamin. If we make the park too complicated, the seven workers might get very overwhelmed. I wonder if the volunteers can help with the plants so the workers can have a little more time to rest.
+- [53] **Minako**: @Minato, volunteers are a helpful supplement, but they cannot replace a professional maintenance contract. The death of the eastern avenue trees proves that without a formal commitment to aftercare, the project's life is far too short.
+- [54] **Jonathan**: @Minako, I agree. The records show a widening gap in costs between green and hard surfaces. If we rely on a fund that only covers the start, the city will be left to carry a burden that grows heavier every year.
+- [55] **Kenji**: I'm starting to get really worried! Between the clay slippage, the drainage, and the lack of workers, we have to be super careful. Let's find a plan that's easy to build and doesn't stress everyone out!
+- [56] **Benjamin**: Indeed, Kenji. We are navigating a minefield of systemic frictions. A plan that ignores the clay, the heat, and the dwindling staff is not a design; it is a daydream. Let us seek a candidate that is grounded in reality.
+- [57] **Minato**: I hope we can find a plan that is kind to the people. If we pick something that is too big or hard, the seven workers might get very tired. I want them to be happy!
+- [58] **Minako**: We must look beyond the initial beauty of the drawings. The evidence shows that our city excels at creating openings but fails at sustaining them. We need a plan that prioritizes durability and includes a guaranteed maintenance contract.
+- [59] **Jonathan**: It is a heavy truth we all share. When the initial funding vanishes and the ribbon is cut, the city is left with the silence of the accounts. We must choose a path that does not become a burden.
+## Round 3
+- [65] **Kenji**: Looking at the options, I'm really worried about Plan A! All that reshaping for ponds means deep digging in the center, and with the clay slippage and hoarding issues, it sounds like a nightmare!
+- [66] **Benjamin**: @Kenji, your alarm is entirely justified. To attempt a wetland restoration when the culverts are already failing and the soil is prone to slippage is to invite a hydrological catastrophe. It is a recipe for a very expensive swamp.
+- [67] **Minato**: I think Plan C sounds very pretty, but planting so many trees might be too much work for the seven people left. I worry they will get very tired if they have to take care of everything alone.
+- [68] **Minako**: @Minato, your concern is valid. Given the failure of the eastern avenue planting, Plan C is a high risk. Without a guaranteed aftercare contract, we are likely to see another wave of dead trees within two years.
+- [69] **Jonathan**: I find myself leaning toward Plan B. While the others offer beauty, the records show that green spaces are becoming an unsustainable financial burden. A paved plaza is far more modest in its long-term demands on the city's accounts.
+- [70] **Kenji**: @Jonathan, I think Plan B is a great idea! It's mostly paving, so we won't have to do that scary deep digging in the clay. Plus, it doesn't need as many workers to keep it looking nice!
+- [71] **Benjamin**: @Jonathan, @Kenji, your logic is as refreshing as a cool breeze in August. Plan B avoids the hydrological gamble of Plan A and the maintenance void of Plan C. It is a design that acknowledges the ground's stubbornness rather than fighting it.
+- [72] **Minato**: I agree with everyone. Plan B seems the kindest choice because it doesn't ask the seven workers to do too much. I think they would be much happier and less tired with a plaza!
+- [73] **Minako**: I agree. Plan B is the most pragmatic choice. It avoids the biological volatility of Plan C and the structural risks of Plan A, while providing a durable surface that is less likely to fail like the civic hall apron.
+- [74] **Jonathan**: It is a rare comfort to find such harmony in our thinking. By choosing the Market Plaza, we protect the city from the escalating costs of greenery and ensure the park remains a place of peace, not a source of financial stress.
+- [75] **Kenji**: I'm totally on board with Plan B! It's the only one that doesn't sound like it'll turn into a giant mud pit or take forever to finish. Let's go with the Market Plaza!
+- [76] **Benjamin**: The logic is inescapable. To choose any other path would be to ignore the warnings of the soil and the ledgers. Plan B is the only candidate that doesn't treat our systemic failures as mere footnotes.
+- [77] **Minato**: I'm happy we all agree! Plan B is the best because it's a gentle plan that won't make the workers too sad or tired. I'll vote for the Market Plaza!
+- [78] **Minako**: I concur. Plan B is the only option that aligns with the evidence of our city's maintenance failures. It prioritizes a durable, low-maintenance outcome over a fragile vision that we cannot sustain. I vote for Plan B.
+- [79] **Jonathan**: I share this conviction. When we look past the initial allure of the greenery, the Market Plaza is the only choice that respects the city's long-term solvency. I vote for Plan B.
+- [80] **Kenji**: I'm so glad we all agree! Plan B is the safest and smartest way to make the park great without any scary surprises. I'm super happy to vote for the Market Plaza!
+- [81] **Benjamin**: It has been a most efficient deliberation. By aligning our choice with the stubborn reality of the clay and the fragility of the budget, we have avoided a costly fantasy. I cast my vote for Plan B.
+- [82] **Minato**: I'm really glad we could all be so kind and helpful to each other. I want the workers to be happy and the park to be a peaceful place for everyone. I vote for Plan B!
+- [83] **Minako**: I have no reason to deviate from our consensus. Plan B is the only option that ensures the project's life is not cut short by the city's history of neglect. I cast my final vote for Plan B.
+- [84] **Jonathan**: It has been a privilege to deliberate with you all. In this unity, we have found a path that honors both the city's needs and its limits. I cast my final vote for Plan B.
+### Vote
+- Kenji -> B
+- Benjamin -> B
+- Minato -> B
+- Minako -> B
+- Jonathan -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private (shared_living)
+
+## Round 1
+- [5] **Victoria**: I need to understand the financial reality before we move a single desk.
+- [6] **Minato**: I wonder if the new spots will feel comfortable for everyone.
+- [7] **May**: My schedule is already a patchwork of tiny gaps. I need to know exactly how much time this rearrangement will steal from my day.
+- [8] **Shunichi**: I’m curious who actually gets the good seats. Let’s not pretend this is purely about efficiency.
+- [9] **Daisuke**: I just want to know who I will sit next to. It changes how much I talk to everyone.
+- [10] **Victoria**: @Minato, comfort is important, but we must ensure the budget supports it.
+- [11] **Minato**: @Victoria, I agree. I just want to make sure the quiet spots are actually comfortable for people like me.
+- [12] **May**: @Shunichi, good seats are nice, but if they cost me twenty minutes of focus every morning, I’m not interested.
+- [13] **Shunichi**: @May, twenty minutes is a lot. But if the "good" seats are just where the noise is lowest, maybe we should define that first.
+- [14] **Daisuke**: @Shunichi, I agree. If we define the quiet spots first, maybe I can sit somewhere I feel safe talking to people.
+- [15] **Victoria**: @Daisuke, knowing your neighbors is vital, but we must verify the physical constraints first.
+- [16] **Minato**: @Victoria, I think the physical setup is really important for how we feel. I will try to find out more about that.
+- [17] **May**: @Minato, comfort is great, but I need to know the actual time cost. I’ll check the morning routine and the unplanned shuffles.
+- [18] **Shunichi**: @May, I’ll check the sound meter readings and the physio’s note. We need to know exactly where the discomfort is before we assign anyone to it.
+- [19] **Daisuke**: @Victoria, I will check the drawn plan against the staff survey and what the new joiners reported.
+- [20] **Victoria**: I will examine the facilities quote and the basis of the department's floor billing.
+- [21] **Minato**: I will look into the sound meter readings and the physio's note from the workstation check.
+- [22] **May**: I will check the morning routine on the pilot floor and the unplanned seat shuffles in the past year.
+- [23] **Shunichi**: I will check the sound meter readings and the physio's note.
+- [24] **Daisuke**: I will check the drawn plan against the staff survey and what this year's two joiners reported.
+## Round 2
+- [35] **Victoria**: We are paying forty-one thousand yen monthly for empty desks. The facilities quote is six thousand yen per move.
+- [36] **Minato**: @Shunichi, I found the printer side is nine decibels louder. Also, the physio says chairs take days to adjust properly.
+- [37] **May**: @Victoria, four to nine minutes daily is a disaster for my gaps. Plus, those shuffles meant two weeks of chaos.
+- [38] **Shunichi**: @Minato, nine decibels is a significant difference. And if chairs take days to settle, frequent shuffles are just a recipe for chronic discomfort.
+- [39] **Daisuke**: @Minato, the survey says daylight is the biggest complaint, but the plan ignores it. I worry about who gets stuck in the dark.
+- [40] **Victoria**: @May, those shuffles are exactly why we need a stable layout. Every move costs six thousand yen and disrupts your focus.
+- [41] **Minato**: @May, I agree. If moving desks takes days to settle, it really hurts my body. I hope we can find a spot that stays put.
+- [42] **May**: @Victoria, exactly. Stability is non-negotiable for me. I can’t afford another fortnight of chaos.
+- [43] **Shunichi**: @Victoria, stability is key, but we must also address the noise disparity. We can’t just hide the problem by keeping the layout static.
+- [44] **Daisuke**: @Shunichi, I agree. But if we fix the seats, I need to know who sits beside me. It changes how much I actually talk to people.
+- [45] **Victoria**: @Shunichi, I hear you, but the billing is area-based. We must justify every square meter we occupy before adding complexity.
+- [46] **Minato**: @Victoria, I understand the cost. But if I sit in a loud spot, my body hurts. I really need a quiet place to rest.
+- [47] **May**: @Minato, I get the pain, but I need to know if a fixed spot actually saves me time. I can’t afford daily setup delays.
+- [48] **Shunichi**: @May, a fixed spot means you plug in and go. No daily setup. But we must explicitly assign the loud row to those who don’t mind it.
+- [49] **Daisuke**: @May, I think a fixed spot helps. I just need to know who is next to me, so I can feel safe talking.
+- [50] **Victoria**: I am leaning toward fixed desks. It minimizes the six thousand yen per move and stops the billing waste.
+- [51] **Minato**: @Victoria, I agree. A fixed spot means my chair can finally settle. I really hope we can keep it that way.
+- [52] **May**: @Victoria, fixed desks mean zero setup time. That is the only way I protect my gaps. I am fully on board with stability.
+- [53] **Shunichi**: @Victoria, I agree. Fixed desks are the only rational choice. But we must explicitly assign the loud row to those who tolerate it, rather than letting it fall to chance.
+- [54] **Daisuke**: @Victoria, I agree. Fixed desks are good. But please, let us choose our neighbors deliberately, not by accident.
+## Round 3
+- [60] **Victoria**: Option A minimizes the six thousand yen per move and stops the billing waste. I am leaning toward fixed desks by function.
+- [61] **Minato**: @Victoria, Option A sounds perfect. If my desk is fixed, my chair can finally settle and stop hurting my back.
+- [62] **May**: @Victoria, Option A is the only one that protects my gaps. Zero setup, zero chaos. I am fully committed to fixed desks.
+- [63] **Shunichi**: @Victoria, Option A is the only rational choice. But we must explicitly assign the loud row to those who tolerate it, rather than letting it fall to chance.
+- [64] **Daisuke**: @Victoria, Option A is good. But I need to know who sits beside me. It changes how much I actually talk to people.
+- [65] **Victoria**: @Daisuke, I understand your need for connection. However, we must prioritize the financial stability and physical comfort that Option A provides.
+- [66] **Minato**: @Daisuke, I hope we can sit near the window. It is quieter there, and I think it would help me feel calm.
+- [67] **May**: @Daisuke, I get it, but if I have to hunt for a seat every morning, my gaps vanish. Option A is the only way I stay sane.
+- [68] **Shunichi**: @Daisuke, Option A lets us name the seats. We can deliberately place the loud row and the quiet window side, so nobody is stuck by accident.
+- [69] **Daisuke**: @Shunichi, that sounds fair. If we name the seats, I can choose a neighbor I feel safe talking to.
+- [70] **Victoria**: @Shunichi, I agree. Naming the seats allows us to assign the loud row deliberately, ensuring fairness without extra cost.
+- [71] **Minato**: @Shunichi, I agree. If we name the seats, I can finally have a quiet spot that fits my body. That would be wonderful.
+- [72] **May**: @Shunichi, I agree. Naming the seats means I know exactly where I am. No hunting, no delays. My gaps stay safe.
+- [73] **Shunichi**: @Victoria, exactly. Naming the seats forces us to acknowledge who gets the window and who gets the printer noise. We stop pretending it’s random.
+- [74] **Daisuke**: @Shunichi, I agree. If we name the seats, I can choose a neighbor I feel safe talking to.
+- [75] **Victoria**: I am voting for Option A.
+- [76] **Minato**: I am voting for Option A.
+- [77] **May**: I am voting for Option A.
+- [78] **Shunichi**: I am voting for Option A.
+- [79] **Daisuke**: I am voting for Option A.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

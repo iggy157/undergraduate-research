@@ -1,0 +1,73 @@
+# shared_living_0016__multi-private (shared_living)
+
+## Round 1
+- [5] **Minato**: I’m worried about the person who has to count all the money. It takes so long. Can we make it easier for them?
+- [6] **Ryuji**: Minato, the workload is a symptom. The real issue is that we lack reliable revenue projections. We cannot set fees based on guesswork.
+- [7] **Minako**: I agree with Ryuji. We need accurate data to set fair fees. I will examine the last year's ledger and the bank statements to verify the actual costs.
+- [8] **May**: I’m curious about the winter social. Why do some people hesitate to show up? I’ll check the quieter members and the sign-in sheets to see who’s slipping away.
+- [9] **Shunichi**: I’m less interested in the money than the faces. I’ll check the sign-in sheets and the rota to see who actually shows up.
+- [10] **Minato**: @Ryuji, I hear you. But if the counting takes all night, the numbers won't help. I want to see how long it really takes.
+- [11] **Ryuji**: Minato, the hours are a symptom of unclear data. I will examine the outgoing treasurer's logged hours and the last year's ledger to find the root cause.
+- [12] **Minako**: @Minato, I understand the frustration. However, the ledger will reveal if the complexity is structural or just a lack of clear records. I will verify the actual outgoings.
+- [13] **May**: @Minato, I get the frustration! But if we don’t know who’s actually showing up, how can we justify the fee? I’m checking the sign-in sheets and the winter social forms.
+- [14] **Shunichi**: @Minato, the hours are a symptom of the same problem I’m tracking. I’m checking the sign-in sheets and the rota to see who actually carries the load.
+- [15] **Minato**: @May, I hope the winter social was fun! I’m still worried about the counting. I’ll check the treasurer’s hours and the ledger to see if it’s really that hard.
+- [16] **Ryuji**: Minato, the hours are a symptom of unclear data. I will examine the outgoing treasurer's logged hours and the last year's ledger to find the root cause.
+- [17] **Minako**: @Minato, I understand the worry. But the ledger will show if the complexity is structural or just poor record-keeping. I will verify the actual outgoings to find the root cause.
+- [18] **May**: @Minato, I’m checking the winter social forms and the sign-in sheets. I need to see who’s hesitating before we lock in the fee.
+- [19] **Shunichi**: @Minato, the hours are a symptom of the same problem I’m tracking. I’m checking the sign-in sheets and the rota to see who actually carries the load.
+- [20] **Minato**: I’m all set! I’ll check the outgoing treasurer's logged hours and last year's ledger of outgoings. I really want to see how much time it takes.
+- [21] **Ryuji**: I will examine the outgoing treasurer's logged hours and the last year's ledger. We must identify the root cause of the administrative burden before setting new fees.
+- [22] **Minako**: I will examine the last year's ledger of outgoings and the bank statements on last year's renewals. I need to verify the actual costs before we commit to any new structure.
+- [23] **May**: I’m all set! I’ll check the quieter members at the winter social and the tally of the sign-in sheets. I need to see who’s hesitating before we lock in the fee.
+- [24] **Shunichi**: I’m checking the sign-in sheets and the rota against the attendance record. I need to see who actually carries the load before we argue about the fee.
+## Round 2
+- [35] **Minato**: I found it! Chasing money takes six hours a month, but yearly collection is only one hour. That is so much easier!
+- [36] **Ryuji**: Minato, that confirms my suspicion. The ledger shows seventy percent of costs are fixed, regardless of attendance. We must structure fees to cover those fixed costs reliably, not chase variable income.
+- [37] **Minako**: @Ryuji, the bank statements confirm the strain. A third of renewals needed reminders, and several requested monthly installments. We need a structure that respects that reality, not just the fixed costs.
+- [38] **May**: @Minato, six hours a month is brutal! But my sign-in tally is worse. A quarter of us do two-thirds of the work, and eighteen people never show up. How do we charge ghosts?
+- [39] **Shunichi**: @May, ghosts don’t pay, but they don’t work either. The rota confirms the same nine people do everything. We need to price that labor, not just the rent.
+- [40] **Minato**: @Ryuji, one hour is so much better! But if we only collect once a year, will people forget? I want to make sure the next person isn't lonely with the books.
+- [41] **Ryuji**: Minato, forgetting is a risk, but chasing is a certainty. We must prioritize the one-hour model to eliminate the six-hour monthly burden.
+- [42] **Minako**: @Minato, I agree. The bank statements show people struggle with large lump sums. A single yearly payment is cleaner, but we must ensure it is affordable enough that nobody defaults.
+- [43] **May**: @Minako, affordability is key! But my winter social notes show people hesitate because they don’t know what they’re paying for. We need transparency to stop that last-minute anxiety.
+- [44] **Shunichi**: @Minako, affordability is a luxury for the ghosts. The same nine people carry the physical load. We must price that labor, not just the rent.
+- [45] **Minato**: @May, eighteen people not showing up is sad. But if we collect once a year, the books are simple. I hope that helps the next person feel less lonely.
+- [46] **Ryuji**: May, transparency is essential, but it cannot replace reliable revenue. We must secure the fixed costs first. I will examine the sign-up records to verify who actually commits.
+- [47] **Minako**: @May, transparency is vital, but it cannot replace reliable revenue. We must secure the fixed costs first. I will examine the sign-up records to verify who actually commits.
+- [48] **May**: @Ryuji, I hear you, but transparency isn't just nice-to-have! If people don't know what they're paying for, they hesitate. I need to see the taster forms to understand that hesitation.
+- [49] **Shunichi**: @May, transparency is a band-aid. The rota proves the same nine people do the work. We must price that labor, not just the rent.
+- [50] **Minato**: @Ryuji, I agree. One hour is so much better than six! I hope the next person feels less lonely with the books. I am ready to see the options.
+- [51] **Ryuji**: Minato, the data is clear. We must eliminate the monthly chasing burden. I am ready to evaluate the options against the fixed cost baseline.
+- [52] **Minako**: I am ready to evaluate the options. The data confirms the strain on both the treasurer and the members. We must balance reliability with affordability.
+- [53] **May**: I’m ready to see the options! But I need to know if they fix the hesitation. If people don’t feel they belong, no fee structure works.
+- [54] **Shunichi**: I am ready. The data is undeniable. We must stop subsidizing ghosts with the labor of the nine. Let us see the options.
+## Round 3
+- [60] **Minato**: I like Option A. One payment means the books are simple. The next person won't have to chase anyone. Is that right?
+- [61] **Ryuji**: Minato, Option A is the only structure that secures the fixed costs reliably. It eliminates the monthly chasing burden entirely. I support A.
+- [62] **Minako**: @Minato, Option A is clean, but the bank statements show lump sums cause strain. We need a structure that respects that reality, not just the fixed costs.
+- [63] **May**: @Minako, I hear you! But Option B’s per-event charges create that exact hesitation I’m fighting. People freeze when they don’t know the total cost upfront. I need predictability to feel they belong.
+- [64] **Shunichi**: @Minako, lump sums are a luxury for the ghosts. Option A forces them to pay for the nine people’s labor. I support A.
+- [65] **Minato**: @Minako, I understand the worry. But if we only collect once, the books are simple. I hope the next person feels less lonely.
+- [66] **Ryuji**: Minako, affordability is a constraint, not a reason to fragment revenue. Option A’s single collection is the only model that guarantees the fixed costs are covered before the year begins.
+- [67] **Minako**: @Ryuji, I understand the need for reliability. However, a single lump sum ignores the payment strain I found. We must ensure the fee is low enough that nobody defaults.
+- [68] **May**: @Minako, I hear you! But Option B’s per-event charges create that exact hesitation I’m fighting. People freeze when they don’t know the total cost upfront. I need predictability to feel they belong.
+- [69] **Shunichi**: @Minako, affordability is a luxury for the ghosts. Option A forces them to pay for the nine people’s labor. I support A.
+- [70] **Minato**: @Minako, I worry about people struggling. But if we only collect once, the books are simple. I hope the next person feels less lonely.
+- [71] **Ryuji**: Minako, the data is clear. Fragmenting revenue into tiers or events reintroduces the chasing burden. Option A is the only structure that secures the fixed costs reliably. I vote A.
+- [72] **Minako**: @Ryuji, I understand the need for reliability. However, a single lump sum ignores the payment strain I found. We must ensure the fee is low enough that nobody defaults.
+- [73] **May**: @Minako, I hear you! But Option B’s per-event charges create that exact hesitation I’m fighting. People freeze when they don’t know the total cost upfront. I need predictability to feel they belong.
+- [74] **Shunichi**: @Minako, affordability is a luxury for the ghosts. Option A forces them to pay for the nine people’s labor. I vote A.
+- [75] **Minato**: @Minako, I understand the worry. But one payment means the books are simple. I hope the next person feels less lonely. I am voting for Option A.
+- [76] **Ryuji**: Minako, the data is clear. Fragmenting revenue reintroduces the chasing burden. Option A is the only structure that secures the fixed costs reliably. I vote A.
+- [77] **Minako**: @Minato, I understand the simplicity. However, the bank statements show lump sums cause strain. We must ensure the fee is low enough that nobody defaults. I am voting for Option A.
+- [78] **May**: @Minako, I hear you! But Option B’s per-event charges create that exact hesitation I’m fighting. People freeze when they don’t know the total cost upfront. I need predictability to feel they belong.
+- [79] **Shunichi**: @Minako, affordability is a luxury for the ghosts. Option A forces them to pay for the nine people’s labor. I vote A.
+### Vote
+- Minato -> A
+- Ryuji -> A
+- Minako -> A
+- May -> A
+- Shunichi -> A
+## Result
+- adopted: A

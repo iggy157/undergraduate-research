@@ -1,0 +1,73 @@
+# candidate_selection_0030__single-online (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I wonder if we should check who is actually doing the extra work before we pick a project.
+- [6] **Jonathan**: That is a thoughtful point. I am also curious about the practical conditions that might affect delivery timelines.
+- [7] **George**: I am concerned about where the money actually comes from. We need to know the budget source before committing to anything.
+- [8] **May**: I’m curious what actually happened to the last three projects we funded. Did they stick around, or did they quietly disappear?
+- [9] **Midori**: I keep thinking about the small, daily frustrations on the floor. Maybe we should look at where we actually lose time each week.
+- [10] **Minato**: #### Turn 2 of 4
+- [11] **Jonathan**: #### Turn 2 of 4
+- [12] **George**: #### Turn 2 of 4
+- [13] **May**: - **Minato**: I think we should look into the staffing of the coordination group to see who is really carrying the load.
+- [14] **Midori**: - **Minato**: I think we should look into the staffing of the coordination group to see who is really carrying the load.
+- [15] **Minato**: - **Minato**: I agree with looking at the staffing. It helps us see who is really carrying the load.
+- [16] **Jonathan**: - **Jonathan**: I would like to check the network coverage at customer plants, as that often dictates whether field work is even possible.
+- [17] **George**: - **George**: I will look into the capital budget and software allowance to see what is actually available.
+- [18] **May**: - **May**: I will check the outcomes of the last three internal rollouts to see what actually survived.
+- [19] **Midori**: - **Midori**: I will look into the time lost to copying existing records to understand our daily inefficiencies.
+- [20] **Minato**: - **Minato**: I will also look into the record of cross-unit standardization efforts to see what actually stuck.
+- [21] **Jonathan**: - **Jonathan**: I will also check in-house developer availability, since we cannot build anything if no one is free to write the code.
+- [22] **George**: - **George**: I will also look into vendor licence pricing versus fixed-fee work, as that determines our long-term costs.
+- [23] **May**: - **May**: I will also look into the handling of vendor queries, to see if we are repeating the same administrative errors.
+- [24] **Midori**: - **Midori**: I will also look into misrouted deliveries in the incident logs to see how often we repeat the same mistakes.
+## Round 2
+- [35] **Minato**: - **Minato**: I found that the coordination group is still short-staffed, and the same two people write everything by hand.
+- [36] **Jonathan**: - **Jonathan**: I found that half the customer plants lose network coverage for whole afternoons, which makes field work impossible.
+- [37] **George**: - **George**: The capital line is frozen, but the recurring software allowance still has room after those spring cancellations.
+- [38] **May**: - **May**: The last three rollouts show that anything needing daily entry from everyone was quietly dropped.
+- [39] **Midori**: - **Midori**: I found that the depot and planning office each lose nearly an hour daily just copying details that already exist elsewhere.
+- [40] **Minato**: - **Minato**: That is a lot of lost time. Does that mean the Supplier Data Hub would actually help stop the copying?
+- [41] **Jonathan**: - **Jonathan**: It is a valid question, but I worry about the technical feasibility given the network gaps I found.
+- [42] **George**: The recurring allowance covers software, but the capital freeze means we cannot fund major hardware or infrastructure changes.
+- [43] **May**: That matches my findings. The tools that survived were narrow and specific, not broad systems requiring constant input.
+- [44] **Midori**: - **Midori**: That aligns with the misrouted deliveries I saw. The same address errors keep happening because records are scattered.
+- [45] **Minato**: - **Minato**: I also found that four standardization efforts ended without an owner. We need to ensure someone is actually responsible for this.
+- [46] **Jonathan**: - **Jonathan**: My developer check confirms the risk. Both in-house staff are tied up until the third quarter, so we cannot build anything new.
+- [47] **George**: That confirms my pricing concern. Per-head licences will climb with every department, so we must avoid broad, multi-unit tools.
+- [48] **May**: - **May**: My vendor query check shows we request the same certificates repeatedly. A shared catalog would stop that waste immediately.
+- [49] **Midori**: - **Midori**: The scattered records explain the misrouted deliveries too. If we centralize them, we stop both the copying and the errors.
+- [50] **Minato**: - **Minato**: But if the coordination group is already overwhelmed, who will maintain the new hub? I worry about adding more work.
+- [51] **Jonathan**: - **Jonathan**: That is a fair worry. With developers unavailable, we must pick a solution that does not require heavy new coding.
+- [52] **George**: Agreed. We must stay within the recurring software allowance. A fixed-fee build is safer than climbing per-head licence costs.
+- [53] **May**: - **May**: Exactly. The narrow tools survived because they didn't demand constant input. We need something simple that doesn't rely on daily user discipline.
+- [54] **Midori**: - **Midori**: I agree. A simple, shared catalog addresses the daily copying and errors without demanding constant new input from everyone.
+## Round 3
+- [60] **Minato**: - **Minato**: I am a little confused. Which of the four options fits what we just discussed?
+- [61] **Jonathan**: - **Jonathan**: Given the network gaps and developer shortage, the Field Service App seems risky. The others look more feasible.
+- [62] **George**: The capital freeze rules out heavy infrastructure. The Supplier Data Hub fits the recurring allowance and avoids per-head licence traps.
+- [63] **May**: - **May**: The Hub fits. It is narrow, stops the copying, and doesn't require daily input from everyone, unlike the dropped rollouts.
+- [64] **Midori**: - **Midori**: I agree. The Hub directly fixes the daily copying and misrouted deliveries without demanding constant new input from the floor.
+- [65] **Minato**: - **Minato**: I am still worried about who will maintain it. The coordination group is already so busy with their current tasks.
+- [66] **Jonathan**: - **Jonathan**: A fixed-fee build handles the initial setup, so we avoid the developer bottleneck. Maintenance can be minimal if the catalog is simple.
+- [67] **George**: Agreed. A fixed-fee build keeps costs predictable within our recurring allowance, avoiding the capital freeze and rising licence fees.
+- [68] **May**: - **May**: Agreed. It is a narrow tool, not a daily-entry system. That is exactly why the previous narrow tools survived while the broad ones failed.
+- [69] **Midori**: - **Midori**: I agree. It solves the daily copying and delivery errors without adding a heavy maintenance burden to the already stretched team.
+- [70] **Minato**: - **Minato**: I am still a little worried. If the coordination group is already overwhelmed, who will actually keep the catalog updated?
+- [71] **Jonathan**: - **Jonathan**: A fixed-fee vendor can handle the initial build and setup, so we avoid the developer bottleneck entirely.
+- [72] **George**: Agreed. The fixed-fee structure keeps us within the recurring allowance, avoiding the capital freeze and rising per-head licence costs.
+- [73] **May**: - **May**: Agreed. It is a narrow tool, not a daily-entry system. That is exactly why the previous narrow tools survived while the broad ones failed.
+- [74] **Midori**: - **Midori**: I agree. It solves the daily copying and delivery errors without adding a heavy maintenance burden to the already stretched team.
+- [75] **Minato**: - **Minato**: I will vote for the Supplier Data Hub, hoping the fixed-fee vendor handles the updates so our team can breathe.
+- [76] **Jonathan**: - **Jonathan**: I agree. The Hub avoids the network and developer risks I identified, making it the only viable option.
+- [77] **George**: I vote for the Supplier Data Hub. It fits the recurring allowance and avoids the capital freeze and rising licence costs.
+- [78] **May**: - **May**: I vote for the Supplier Data Hub. It is the narrow, low-maintenance tool that actually survived our previous rollouts.
+- [79] **Midori**: I vote for the Supplier Data Hub. It directly addresses the daily copying and delivery errors without overburdening our stretched team.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

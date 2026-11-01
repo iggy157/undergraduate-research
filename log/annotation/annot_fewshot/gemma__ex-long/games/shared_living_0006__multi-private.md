@@ -1,0 +1,73 @@
+# shared_living_0006__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: Hello everyone. To ensure we establish a fair and sustainable fee structure, we must first analyze the actual costs and the current membership patterns. I believe a data-driven approach is the only way to avoid errors.
+- [6] **Benjamin**: I couldn't agree more, Asuka. A touch of rigor now will save us from a comedy of errors later. I'm quite looking forward to seeing what the numbers actually tell us before we start guessing.
+- [7] **Jonathan**: It is a pleasure to be here with you all. I agree that a calm, thoughtful look at the facts is the best way to begin. Let us see what the records reveal before we decide.
+- [8] **Shunichi**: Let's not get too carried away with the "rigor" just yet. We need to see where the friction is. I'll be interested to see if the numbers actually match the reality of how people are behaving.
+- [9] **Takumi**: I'm in. But let's be real—we can't just guess the numbers like we did last time. We need to know exactly what we're working with so we don't screw this up for everyone.
+- [10] **Asuka**: I will examine the "Last year's ledger of outgoings" and the "Sign-up records for mid-year joiners." It is essential to understand our actual expenditures and how new members are integrating into the club.
+- [11] **Benjamin**: I shall look into the "Outgoing treasurer's logged hours" and the "Tally of the sign-in sheets." I'm curious to see if the administrative burden is as daunting as the rumors suggest, and who is actually attending.
+- [12] **Jonathan**: I will look into the "Tally of the sign-in sheets" and "The rota against the attendance record." I wish to understand the balance of participation and who has been supporting our activities most frequently.
+- [13] **Shunichi**: I'll check the "Weekday turnout since the summer outings" and the "Quieter members at the winter social." I want to see if people are actually showing up or if they're just paying for the privilege of staying home.
+- [14] **Takumi**: I'll check the "Bank statements on last year's renewals" and "Last year's ledger of outgoings." I want to see exactly how much money is actually in the account and where it's all going.
+- [15] **Asuka**: @Benjamin, @Jonathan, since you are both checking the sign-in sheets, I expect a detailed comparison of attendance. It will be interesting to see if the active core matches the financial contributions.
+- [16] **Benjamin**: @Asuka, I shall be delighted to provide a detailed report. It would be a tragedy to discover we are funding a ghost club, wouldn't it? I look forward to comparing my findings with Jonathan's.
+- [17] **Jonathan**: I would be happy to share my findings. It is often in the quiet details of the records that we find the most truth. I look forward to seeing how our observations align.
+- [18] **Shunichi**: @Benjamin, @Jonathan, don't get too lost in the "truth" of the paperwork. A sign-in sheet only tells you who walked through the door, not why the others are suddenly hesitating to do so.
+- [19] **Takumi**: @Shunichi, you're always talking about "why," but "why" doesn't pay the bills. I'm more worried about the fact that we don't even know if we have enough cash to start the year. Let's get the facts first.
+- [20] **Asuka**: I agree with Takumi. While the social dynamics Shunichi mentions are relevant, they cannot be addressed without a stable financial foundation. Let us proceed with the research and reconvene once the data is available.
+- [21] **Benjamin**: Indeed. Let us all venture into the archives. I shall return shortly, hopefully with news that the treasurer's role isn't a full-time vocation in disguise. Until then, happy hunting, everyone.
+- [22] **Jonathan**: I agree. Let us each take our time with the records and find the peace of clarity. I look forward to hearing what you all discover. Until then, I wish you all a productive search.
+- [23] **Shunichi**: I'll be back soon. Let's just hope the data is actually useful and not just a collection of numbers that ignore the real mood of the club. See you all in the next round.
+- [24] **Takumi**: I'm on it. I'm going to find out exactly where we stand so we can stop guessing and start planning. I'll see you all in the next round with the real numbers.
+## Round 2
+- [35] **Asuka**: My research reveals that fixed costs—hall hire, insurance, and storage—account for seventy percent of our outgoings. Furthermore, mid-year joiners require tedious, manual calculations for their fees, which creates a significant administrative hurdle.
+- [36] **Benjamin**: It seems we are plagued by a certain inefficiency. I've discovered that chasing session fees consumes six times more effort than a yearly collection. It appears our treasurer has been moonlighting as a debt collector.
+- [37] **Jonathan**: My findings suggest a quiet but significant imbalance. A small group of members accounts for the vast majority of attendance, while some pay their fees but never appear. Furthermore, the same few people handle all the labor.
+- [38] **Shunichi**: It seems we've found the root of the problem. People have stopped treating the club as their own. Once we started charging for outings, the weekday turnout plummeted and never recovered. The "belonging" is gone.
+- [39] **Takumi**: @Shunichi, "belonging" is great, but we're bleeding cash. I found that a third of renewals only cleared after two reminders, and people are asking to pay in installments. We can't count on the money just appearing.
+- [40] **Asuka**: @Takumi, the request for installments and the delay in renewals suggest that a rigid, high upfront fee may be a barrier. Combined with the manual effort for mid-year joiners, our current system is both inefficient and potentially exclusionary.
+- [41] **Benjamin**: @Asuka, you've hit the nail on the head. If we combine those manual calculations with the "debt collection" I discovered, we aren't just asking for a treasurer; we're asking for a martyr. We must avoid a system that burns out our volunteers.
+- [42] **Jonathan**: @Benjamin, I agree. It would be a shame to lose our dedicated few to burnout. When a small group carries both the attendance and the labor, the weight becomes heavy. We should consider how to honor that effort.
+- [43] **Shunichi**: @Jonathan, honoring effort is a nice sentiment, but it doesn't fix the hesitation. Some members feel uneasy about the cost per visit. If we make the fee a barrier, we're just paying to keep the club empty.
+- [44] **Takumi**: @Shunichi, we can't just lower the fees to make people feel "welcome" if the money isn't there. Those fixed costs Asuka mentioned don't go away just because the room is empty. We need a structure that actually covers the bills.
+- [45] **Asuka**: @Takumi, you are correct that the fixed costs are non-negotiable. However, we must find a balance. If we make the fees too transparent or rigid, we risk alienating those who prefer to drift in and find their feet.
+- [46] **Benjamin**: @Asuka, a balance is indeed necessary, but let us not mistake "drifting" for a reason to maintain a chaotic system. If we prioritize flexibility over structure, we simply shift the burden onto the treasurer's shoulders. Logic suggests a streamlined approach.
+- [47] **Jonathan**: @Benjamin, I agree that a streamlined approach is wise. However, we must also address the quiet resentment that grows when a few carry the burden for many. A system that is too simple may overlook this unfairness.
+- [48] **Shunichi**: @Jonathan, "unfairness" is a matter of perspective. The real tragedy is that members are now weighing up whether it's "worth it" to show up. If we overcomplicate the fees to "honor" the regulars, we just build a higher wall for everyone else.
+- [49] **Takumi**: @Shunichi, stop worrying about "walls" and look at the bank statements! People are already struggling to pay. If we don't set a realistic figure based on those fixed costs, we're just lying to ourselves about the club's future.
+- [50] **Asuka**: @Takumi, realism is necessary, but we must be careful. If we implement a structure that is too visible or rigid, we risk destroying the low-pressure environment that allows newcomers to join without hesitation. We need stability without scrutiny.
+- [51] **Benjamin**: @Asuka, stability without scrutiny is a lovely ideal, but it often translates to "chaos for the person in charge." Let us be honest: a system that is too invisible usually requires a treasurer to work in the shadows to keep it running.
+- [52] **Jonathan**: @Benjamin, you are right that the treasurer's peace is important. Yet, if we ignore the imbalance of labor and attendance, we risk a different kind of chaos—the loss of those few who truly sustain us. We must be gentle but fair.
+- [53] **Shunichi**: @Jonathan, "gentle" doesn't fix a plummeting turnout. We're arguing about the treasurer's workload and "fairness" while the members are treating the club like a luxury they can't afford. Let's prioritize getting people back in the room.
+- [54] **Takumi**: @Shunichi, getting people back in the room is pointless if we can't afford the hall! We have fixed costs that don't care about "moods." We need a fee that actually covers the bills, or there won't be a room to come back to.
+## Round 3
+- [60] **Asuka**: Option A is the most logical choice. It covers our fixed costs reliably and eliminates the manual calculations for mid-year joiners, providing a stable foundation without the constant scrutiny of activity-based tracking.
+- [61] **Benjamin**: Option A is a breath of fresh air for the treasurer. By eliminating the "debt collection" phase of the role, we ensure the position remains a service and not a sentence to unpaid labor. I find it most appealing.
+- [62] **Jonathan**: Option A is certainly peaceful for the administration, but I worry it ignores the imbalance we discovered. If those who do all the work and attend every session pay the same as those who never appear, the resentment may only grow.
+- [63] **Shunichi**: @Jonathan, resentment is a small price to pay for a club that actually has members. Option C is a disaster; it's exactly the kind of "pay-as-you-go" mentality that makes people hesitate before every single visit. We need to remove the friction.
+- [64] **Takumi**: @Shunichi, I agree that Option C is a disaster. If people are already struggling to pay renewals, asking them for cash every time they show up is just a recipe for an empty room. We need the money upfront.
+- [65] **Asuka**: @Jonathan, while I understand your concern about imbalance, Option B would only exacerbate the problem by making participation levels visible and categorized. Option A maintains the anonymity and low pressure that allow members to drift in and find their feet.
+- [66] **Benjamin**: @Asuka, a very astute point. Option B would essentially turn our membership into a caste system, which is hardly conducive to harmony. Option A is the only choice that treats the treasurer with a modicum of respect.
+- [67] **Jonathan**: @Asuka, @Benjamin, I appreciate your points on anonymity and ease. However, if we choose Option A, we are essentially asking the most dedicated members to subsidize those who do not contribute. Is that truly a path to harmony?
+- [68] **Shunichi**: @Jonathan, you're worrying about a subsidy when we should be worrying about a ghost town. If we make people "pay for their level," we're just reminding them that they don't belong unless they're fully committed. That's how you kill a club.
+- [69] **Takumi**: @Jonathan, it's not about subsidizing; it's about survival. If we don't get the money upfront, we can't pay the hall hire. Option A is the only way to make sure we actually have a budget we can count on.
+- [70] **Asuka**: @Jonathan, the "subsidy" you mention is the price of a welcoming atmosphere. If we categorize members by their contribution, we replace a quiet understanding with a visible hierarchy. Option A is the only way to preserve the club's inclusive spirit.
+- [71] **Benjamin**: @Jonathan, while your concern for the dedicated is noble, let us not forget that the most dedicated member of all is the treasurer, who currently spends their evenings chasing pennies. Option A is the only rational way to prevent that role from becoming a vacant seat.
+- [72] **Jonathan**: @Benjamin, I understand the treasurer's burden, and I truly wish for their peace. Yet, I cannot shake the feeling that ignoring the labor of the few for the benefit of the many is a different kind of instability.
+- [73] **Shunichi**: @Jonathan, you're chasing a phantom of "perfect fairness" while the club is actually shrinking. If we make people weigh the cost of every visit or their "tier," they'll just stop coming. Option A is the only way to make the club feel like home again.
+- [74] **Takumi**: @Jonathan, we can't afford to be "perfectly fair" if we're broke. Option A is the only one that gives us a guaranteed number to work with. I'm not guessing this time; we need the cash upfront to survive.
+- [75] **Asuka**: The consensus is clear. Option A provides the financial stability Takumi requires, the administrative relief Benjamin seeks, and the low-pressure environment necessary for our members to feel welcome. I vote for Option A.
+- [76] **Benjamin**: It is a rare pleasure when logic and convenience align so perfectly. To avoid turning our treasurer into a full-time debt collector, I must insist on the simplest path. I vote for Option A.
+- [77] **Jonathan**: I have listened to you all, and while my heart still feels for those who carry the heaviest load, I see that the club's survival comes first. For the sake of peace and stability, I vote for Option A.
+- [78] **Shunichi**: @Jonathan, finally. Let's stop treating the club like a balance sheet and start treating it like a community. Option A removes the mental hurdle of "is this worth it?" and just lets people show up. I vote for Option A.
+- [79] **Takumi**: I'm with you all. We can't run a club on "feelings" if the bank account is empty. Option A is the only way to stop the guesswork and make sure the bills are actually paid. I vote for Option A.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> A
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

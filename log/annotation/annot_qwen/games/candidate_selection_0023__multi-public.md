@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: I want to understand what actually worked after the doors opened. Who else is looking at post-occupancy reviews?
+- [6] **Victoria**: I’m tracking how much time the timetable absorbs during works, and how heavily the finished rooms are actually used afterwards.
+- [7] **Benjamin**: I’m curious why delivery schedules keep slipping. I’ll check the decade of delivery schedules and the weather days in the site diaries.
+- [8] **Kenji**: I’m worried the paper costs don’t match reality. I’ll check tender records and renewal reserves to see where the money actually goes.
+- [9] **Shunichi**: I’m watching how the workload lands on the same few people. I’ll check staffing posts and the technicians’ weekly routines.
+- [10] **Mizuki**: @Victoria, your focus on usage aligns with my interest in post-occupancy reviews. I’ll examine those ratings and the booking data to see what actually gets used.
+- [11] **Victoria**: I’ll look into the timetable records for rooms out of service and the booking data for specialist and general rooms.
+- [12] **Benjamin**: I’ll stick with my initial choices. The delivery schedules and weather diaries seem the most direct way to trace where the calendar actually goes.
+- [13] **Kenji**: I’ll stick with tender records and renewal reserves. I need to see if the approved numbers survive the market and if we’re actually saving for replacements.
+- [14] **Shunichi**: I’ll confirm my choices: staffing posts and the technicians’ weekly routines. I need to see if the workload is actually being shared or just piled higher.
+- [15] **Mizuki**: I’ll confirm my choices: post-occupancy review ratings and booking data. I need to see which spaces people actually value versus which ones sit empty.
+- [16] **Victoria**: I’ll confirm my choices: timetable records on rooms out of service and booking data for specialist and general rooms.
+- [17] **Benjamin**: I’ll confirm my choices: the decade of delivery schedules and the weather days in the site diaries. I need to see exactly where the calendar goes.
+- [18] **Kenji**: I’ll confirm my choices: tender records and renewal reserves. I need to see if the approved numbers survive the market and if we’re actually saving for replacements.
+- [19] **Shunichi**: I’ll confirm my choices: staffing posts and the technicians’ weekly routines. I need to see if the workload is actually being shared or just piled higher.
+- [20] **Mizuki**: I’ll confirm my choices: post-occupancy review ratings and booking data. I need to see which spaces people actually value versus which ones sit empty.
+- [21] **Victoria**: I’ll confirm my choices: timetable records on rooms out of service and booking data for specialist and general rooms.
+- [22] **Benjamin**: I’ll confirm my choices: the decade of delivery schedules and the weather days in the site diaries. I need to see exactly where the calendar goes.
+- [23] **Kenji**: I’ll confirm my choices: tender records and renewal reserves. I need to see if the approved numbers survive the market and if we’re actually saving for replacements.
+- [24] **Shunichi**: I’ll confirm my choices: staffing posts and the technicians’ weekly routines. I need to see if the workload is actually being shared or just piled higher.
+## Round 2
+- [35] **Mizuki**: The data is stark. General rooms are always full, while specialist ones sit empty. We need a space everyone can actually book.
+- [36] **Victoria**: The timetable records confirm my fear. Every room closed for works forces us to pay for off-site space for two terms.
+- [37] **Benjamin**: The data is damning. Inspection-driven works hit deadlines; comfort projects slip a year. Plus, six weeks lost to weather. We must avoid exposed work.
+- [38] **Kenji**: @Benjamin, that weather loss is brutal. My tender data shows mechanical costs jumped twenty percent, but we never saved for replacing old AV gear.
+- [39] **Shunichi**: @Kenji, the staffing gap is real. Technicians are stuck doing manual checks because the old extraction gear fails. We need to fix the equipment, not just the budget.
+- [40] **Mizuki**: @Shunichi, that manual labor is a symptom. My data shows single-wing projects disappoint users. We need broad access, not just fixing one lab’s ventilation.
+- [41] **Victoria**: @Mizuki, the booking data confirms it. Specialist rooms sit idle, yet general requests are turned away. We need broad, bookable access, not isolated niches.
+- [42] **Benjamin**: @Mizuki, @Victoria, I agree on the access point. But my data shows comfort projects slip a year. We need a plan that avoids weather exposure and inspection delays.
+- [43] **Kenji**: @Benjamin, @Mizuki, I agree. My data shows we never saved for replacements, so we’re bleeding money. We need a plan that doesn’t rely on outdated gear or endless manual fixes.
+- [44] **Shunichi**: @Mizuki, @Victoria, I hear you on access. But my data shows unfilled posts and technicians drowning in manual checks. We can’t just add space; we need to fix the staffing bottleneck first.
+- [45] **Mizuki**: @Shunichi, I hear your concern, but my data shows broad access drives satisfaction. We need a plan that serves everyone, not just one wing.
+- [46] **Victoria**: @Shunichi, I understand the staffing strain. However, my data shows general rooms are perpetually full. We must prioritize broad, bookable access to relieve that pressure.
+- [47] **Benjamin**: @Shunichi, I hear you, but my data shows comfort projects slip a year. We need a plan that avoids weather exposure and inspection delays.
+- [48] **Kenji**: @Shunichi, I hear you. But my data shows we never saved for replacements. We need a plan that doesn’t rely on outdated gear or endless manual fixes.
+- [49] **Shunichi**: @Mizuki, @Victoria, I concede the access point. But if we ignore the staffing gap, the new space just becomes another burden for the same exhausted technicians.
+- [50] **Mizuki**: @Shunichi, I hear you. But my data shows broad access drives satisfaction. We need a plan that serves everyone, not just one wing.
+- [51] **Victoria**: @Shunichi, I understand the strain. Yet the data shows general rooms are perpetually full. We must prioritize broad, bookable access to relieve that pressure.
+- [52] **Benjamin**: @Shunichi, I hear you. But my data shows comfort projects slip a year. We need a plan that avoids weather exposure and inspection delays.
+- [53] **Kenji**: @Shunichi, I hear you. But my data shows we never saved for replacements. We need a plan that doesn’t rely on outdated gear or endless manual fixes.
+- [54] **Shunichi**: @Mizuki, @Victoria, fair enough. But if we ignore the staffing gap, the new space just becomes another burden for the same exhausted technicians.
+## Round 3
+- [60] **Mizuki**: @Victoria, @Benjamin, the data points to broad access. Option A offers bookable rooms for everyone, unlike the isolated specialist suites. I support A.
+- [61] **Victoria**: @Mizuki, I agree. Option A’s bookable rooms directly address the perpetual demand for general space, unlike the idle specialist suites. I support A.
+- [62] **Benjamin**: @Mizuki, @Victoria, I support A. It’s an indoor conversion, avoiding the weather delays that plagued my data. Plus, it’s not a comfort project, so it should stay on schedule.
+- [63] **Kenji**: @Benjamin, wait. My data shows mechanical costs jumped twenty percent. Option D needs new extraction gear, which is expensive. Option A is cheaper and avoids that trap. I support A.
+- [64] **Shunichi**: @Kenji, D is the only option that actually fixes the manual labor trap. A just adds more rooms for the same exhausted staff to manage. I support D.
+- [65] **Mizuki**: @Shunichi, your concern is valid, but my data shows single-wing projects disappoint users. Option A serves everyone, not just one lab. I stand by A.
+- [66] **Victoria**: @Shunichi, I understand the strain. Yet the data shows general rooms are perpetually full. We must prioritize broad, bookable access to relieve that pressure. I support A.
+- [67] **Benjamin**: @Shunichi, I hear you, but my data shows comfort projects slip a year. Option A is an indoor conversion, avoiding weather delays. It’s the only plan that respects the calendar. I support A.
+- [68] **Kenji**: @Shunichi, I hear you, but my data shows we never saved for replacements. Option A avoids the expensive mechanical trap of D. I support A.
+- [69] **Shunichi**: @Mizuki, @Victoria, I concede the access point. But if we ignore the staffing gap, the new space just becomes another burden for the same exhausted technicians.
+- [70] **Mizuki**: @Shunichi, I hear you. But my data shows broad access drives satisfaction. We need a plan that serves everyone, not just one wing.
+- [71] **Victoria**: @Shunichi, I understand the strain. Yet the data shows general rooms are perpetually full. We must prioritize broad, bookable access to relieve that pressure. I support A.
+- [72] **Benjamin**: @Shunichi, I hear you. But my data shows comfort projects slip a year. Option A is an indoor conversion, avoiding weather delays. It’s the only plan that respects the calendar. I support A.
+- [73] **Kenji**: @Shunichi, I hear you. But my data shows we never saved for replacements. Option A avoids the expensive mechanical trap of D. I support A.
+- [74] **Shunichi**: @Mizuki, @Victoria, I stand by D. The technicians are drowning in manual checks because the gear fails. Fixing the equipment is the only way to actually relieve their burden.
+- [75] **Mizuki**: @Shunichi, I hear you, but my data shows broad access drives satisfaction. We need a plan that serves everyone, not just one wing.
+- [76] **Victoria**: @Shunichi, I understand the strain. Yet the data shows general rooms are perpetually full. We must prioritize broad, bookable access to relieve that pressure. I support A.
+- [77] **Benjamin**: @Shunichi, I hear you. But my data shows comfort projects slip a year. Option A is an indoor conversion, avoiding weather delays. It’s the only plan that respects the calendar. I support A.
+- [78] **Kenji**: @Shunichi, I hear you. But my data shows we never saved for replacements. Option A avoids the expensive mechanical trap of D. I support A.
+- [79] **Shunichi**: @Mizuki, @Victoria, I stand by D. The technicians are drowning in manual checks because the gear fails. Fixing the equipment is the only way to actually relieve their burden.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> D
+## Result
+- adopted: A

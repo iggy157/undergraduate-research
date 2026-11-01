@@ -1,0 +1,73 @@
+# candidate_selection_0026__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We must verify if past programs actually improved patient outcomes before committing more resources.
+- [6] **Toshio**: I am concerned about capacity. Can the existing rooms and booking systems absorb a new program without seizing up?
+- [7] **Benjamin**: I suspect the initial enthusiasm masks a structural flaw. Let’s examine the readmission figures during the call-back trial to see if the model actually holds.
+- [8] **Yumi**: I’m worried about who actually does the extra work! Let’s check the ward nursing vacancies and agency cover to see if the teams can handle it.
+- [9] **Servas**: I worry the development vote ignores the running costs that surface later. Let us examine the ledger to see what this budget truly covers.
+- [10] **Asuka**: @Benjamin, readmission data is vital, but I need to know if the shared nursing round actually completed its visits. Let’s verify the operational reality.
+- [11] **Toshio**: @Asuka, completed visits are a symptom. I need to see the booking system records to understand the actual throughput and where the bottlenecks form.
+- [12] **Benjamin**: @Toshio, bottlenecks are just the visible cracks. I need to know if the outside surgeries actually honored their data agreements. Let’s check those.
+- [13] **Yumi**: @Toshio, bottlenecks matter, but I’m worried about the people! Let’s check the therapy and midwifery staffing review to see who’s actually stretched thin.
+- [14] **Servas**: @Yumi, the people are the engine. I will examine the therapy and midwifery staffing review to see if the hands remain.
+- [15] **Asuka**: @Servas, staffing is critical, but I need to confirm the financial baseline. I will examine the ledger and the readmission figures to verify past impact.
+- [16] **Toshio**: @Asuka, the ledger is a static record. I need to see the dynamic flow. I will examine the booking system records and the rooms, parking and shuttle coverage.
+- [17] **Benjamin**: @Asuka, the ledger is a snapshot, not a story. I will examine the data agreements with outside surgeries and the board minutes on the jointly run clinic.
+- [18] **Yumi**: @Servas, I’m glad we’re aligned! I’ll stick with my two choices: ward nursing vacancies and the therapy staffing review. Let’s see who’s really carrying the load!
+- [19] **Servas**: @Asuka, I will examine the ledger and the regional fund tariffs. We must know the true cost before we commit.
+- [20] **Asuka**: I will examine the readmission figures during the call-back trial and the visit completion on the shared nursing round.
+- [21] **Toshio**: I will examine the booking system records and the rooms, parking and shuttle coverage.
+- [22] **Benjamin**: I will examine the data agreements with outside surgeries and the board minutes on the jointly run clinic.
+- [23] **Yumi**: I’ll stick with my two choices: ward nursing vacancies and the therapy staffing review. Let’s see who’s really carrying the load!
+- [24] **Servas**: I will examine the ledger and the regional fund tariffs. We must know the true cost before we commit.
+## Round 2
+- [35] **Asuka**: The call-back trial reduced readmissions by a fifth, but the shared nursing round lost a third of visits. We must verify if the new program can sustain this fragile operational reality.
+- [36] **Toshio**: The booking system erases unstructured work. Rooms and parking saturate by eleven. The shuttle misses fifteen villages. This infrastructure cannot absorb another variable load.
+- [37] **Benjamin**: The data agreements took fourteen months to sign. The jointly run clinic collapsed because neither department owned the rota. We are building on sand, not stone.
+- [38] **Yumi**: Nine unfilled posts and rising agency costs! But midwifery has slack. We must pick a program that uses the spare hands, not the exhausted ones!
+- [39] **Servas**: The ledger is down a quarter, and off-site work earns nothing. We must choose a program that generates on-site revenue to sustain itself.
+- [40] **Asuka**: @Toshio, your infrastructure constraints are critical. If the shuttle misses villages, outreach fails. We need a program that operates within existing, reliable boundaries.
+- [41] **Toshio**: @Asuka, precisely. The system only counts what fits a slot. We must select a program that operates within the existing, rigid boundaries, not one that demands new infrastructure.
+- [42] **Benjamin**: @Asuka, boundaries are necessary, but ownership is fatal. If the arrangement rests on an outside body that never signed up, it will fracture. We need internal control.
+- [43] **Yumi**: @Benjamin, I agree! We need internal control. But we also need to use the midwifery slack! Let’s pick a program that fits our current staffing reality.
+- [44] **Servas**: @Yumi, the midwifery slack is a lifeline. But we must ensure the program stays on-site to capture the tariffs. Off-site work is a financial void.
+- [45] **Asuka**: @Servas, on-site revenue is vital, but my data shows the call-back trial only worked while actively staffed. We need a program with sustainable, internal ownership, not a fragile trial.
+- [46] **Toshio**: @Asuka, sustainable ownership is vital, but only if the physical space exists. My data shows the car park and rooms are already saturated. We must choose a program that fits within these rigid, existing limits.
+- [47] **Benjamin**: @Toshio, space is a constraint, but ownership is the fracture point. We must avoid any model dependent on external bodies or shared rotas that have already failed.
+- [48] **Yumi**: @Benjamin, I agree! We must avoid external dependencies. But we also need to use the midwifery slack! Let’s pick a program that fits our current staffing reality.
+- [49] **Servas**: @Benjamin, ownership is the root. I concur. We must select a program that is internally owned, on-site, and leverages the midwifery slack to ensure financial and operational stability.
+- [50] **Asuka**: @Servas, I concur. We need a program that is internally owned, on-site, and leverages the midwifery slack. This ensures the impact is real, not just another buried initiative.
+- [51] **Toshio**: @Servas, I concur. The infrastructure is saturated. We must select a program that fits within the existing, rigid boundaries and leverages the midwifery slack to avoid seizing up.
+- [52] **Benjamin**: @Servas, precisely. The jointly run clinic failed because ownership was ambiguous. We must select a program with a single, internal department to prevent the second-year collapse.
+- [53] **Yumi**: @Servas, I agree! We need a program that uses the midwifery slack and stays on-site. Let’s pick the one that fits our current staffing reality!
+- [54] **Servas**: @All, the path is clear. We must choose the program that is internally owned, on-site, and uses the midwifery slack. This honors our financial and operational reality.
+## Round 3
+- [60] **Asuka**: @All, my data shows the call-back trial only worked while actively staffed. We need a program with sustainable, internal ownership, not a fragile trial.
+- [61] **Toshio**: @Asuka, I concur. My data shows the booking system only counts fixed slots. We must choose a program that fits within these rigid, existing boundaries without demanding new infrastructure.
+- [62] **Benjamin**: @Toshio, rigid boundaries are necessary, but external dependencies are fatal. We must avoid any model relying on outside bodies that never truly committed.
+- [63] **Yumi**: @Benjamin, I agree! But we must use the midwifery slack! Option B fits our staffing reality perfectly. Let’s pick the one that uses our spare hands!
+- [64] **Servas**: @Yumi, Option B is the only path that stays on-site to capture tariffs and uses the midwifery slack. It honors our financial and operational reality.
+- [65] **Asuka**: @Yumi, Option B is internally owned and on-site. It leverages the midwifery slack and avoids the external dependencies that fractured the jointly run clinic.
+- [66] **Toshio**: @Yumi, Option B fits. Scheduled consultations occupy existing slots. It avoids the unstructured work that vanishes from our records. The infrastructure can absorb it without seizing up.
+- [67] **Benjamin**: @Toshio, precisely. Option B is internally owned, avoiding the external fracture points I identified. It fits the rigid boundaries and leverages the midwifery slack.
+- [68] **Yumi**: @Benjamin, I’m so happy we’re aligned! Option B uses the midwifery slack and stays on-site. It’s the perfect fit for our current staffing reality.
+- [69] **Servas**: @Benjamin, I concur. Option B is the only choice that generates on-site revenue and leverages the midwifery slack. It honors our financial reality.
+- [70] **Asuka**: @Servas, I concur. Option B is the only choice that ensures measurable, sustained impact. It avoids the operational fragility of the failed trial. I vote for B.
+- [71] **Toshio**: @Asuka, I concur. Option B fits the existing slots and avoids the unstructured work that vanishes from our records. The infrastructure can absorb it without seizing up. I vote for B.
+- [72] **Benjamin**: @Toshio, precisely. Option B is internally owned, avoiding the external fracture points I identified. It fits the rigid boundaries and leverages the midwifery slack. I vote for B.
+- [73] **Yumi**: @Benjamin, I’m so happy we’re all on the same page! Option B is the clear winner. It uses our spare hands and keeps everyone safe. I vote for B!
+- [74] **Servas**: @Yumi, I concur. Option B is the only path that generates on-site revenue and leverages the midwifery slack. It honors our financial reality. I vote for B.
+- [75] **Asuka**: @All, consensus is final. Option B is selected. It ensures measurable, sustained impact within our operational and financial constraints. Proceed.
+- [76] **Toshio**: @Asuka, consensus is final. Option B is selected. It fits the existing slots and avoids the unstructured work that vanishes from our records. The infrastructure can absorb it without seizing up. Proceed.
+- [77] **Benjamin**: @Asuka, consensus is final. Option B is selected. It avoids the external fracture points and leverages the midwifery slack. The structure is sound. I vote for B.
+- [78] **Yumi**: @Asuka, I’m so happy we all agree! Option B is the perfect fit for our team. I vote for B!
+- [79] **Servas**: @Asuka, consensus is final. Option B is selected. It honors our financial reality and leverages the midwifery slack. I vote for B.
+### Vote
+- Asuka -> B
+- Toshio -> B
+- Benjamin -> B
+- Yumi -> B
+- Servas -> B
+## Result
+- adopted: B

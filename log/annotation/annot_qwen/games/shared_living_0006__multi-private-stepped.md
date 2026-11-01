@@ -1,0 +1,73 @@
+# shared_living_0006__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to balance costs without creating social friction.
+- [6] **Benjamin**: Agreed, but we must also consider the administrative burden on staff.
+- [7] **Jonathan**: I wonder if the current fee structure reflects actual usage patterns.
+- [8] **Shunichi**: The hesitation in attendance suggests the value proposition is unclear.
+- [9] **Takumi**: We cannot guess the numbers again. We need hard data on income.
+- [10] **Asuka**: @Takumi, I agree. Transparency is key, but so is discretion.
+- [11] **Benjamin**: @Jonathan, usage data is useful, but it doesn't cover fixed overheads.
+- [12] **Jonathan**: @Benjamin, true, but it shows who benefits most from the facilities.
+- [13] **Shunichi**: @Asuka, Discretion is fine, but clarity prevents the last-minute cancellations I see.
+- [14] **Takumi**: @Benjamin, Overheads are fixed. The variable is what people can actually pay.
+- [15] **Asuka**: We should look at the ledger and the sign-in sheets.
+- [16] **Benjamin**: I will check the treasurer's hours and the ledger.
+- [17] **Jonathan**: I want to see the sign-in sheets and the rota.
+- [18] **Shunichi**: I will examine the weekday turnout and the winter social feedback.
+- [19] **Takumi**: I need the bank statements and the sign-up records for mid-year joiners.
+- [20] **Asuka**: Let's review the data before proposing any changes.
+- [21] **Benjamin**: Agreed. The workload is the silent killer of this committee.
+- [22] **Jonathan**: I hope the data shows a fairer distribution of effort.
+- [23] **Shunichi**: I hope it shows why people are pulling back.
+- [24] **Takumi**: I hope it shows exactly where the money is going.
+## Round 2
+- [35] **Asuka**: The ledger shows fixed costs dominate, but attendance is highly skewed.
+- [36] **Benjamin**: The treasurer's logs confirm my fear. Chasing individual payments is a full-time job.
+- [37] **Jonathan**: The sign-in sheets show a small group does almost everything.
+- [38] **Shunichi**: The data confirms my suspicion. The hesitation is about perceived value, not just price.
+- [39] **Takumi**: The bank statements show a third of renewals only cleared after two rounds of reminders.
+- [40] **Asuka**: @Jonathan, If a few people carry the load, a flat fee feels unfair to them.
+- [41] **Benjamin**: @Takumi, That is exactly why I am worried. We cannot afford the admin cost of chasing.
+- [42] **Jonathan**: @Asuka, Yes. The rota shows the same nine people do the setup and lock-up.
+- [43] **Shunichi**: @Benjamin, Chasing is a symptom. The real issue is that people don't feel they belong to the club.
+- [44] **Takumi**: @Benjamin, I agree. The sign-up records show eleven mid-year joiners needed hand-worked calculations.
+- [45] **Asuka**: We need a structure that is simple to administer but fair to the heavy users.
+- [46] **Benjamin**: A flat annual fee is the only way to stop the administrative bleed.
+- [47] **Jonathan**: A flat fee ignores the fact that some people use the club daily and others barely at all.
+- [48] **Shunichi**: A flat fee removes the hesitation. If you pay once, you are in. No weighing up.
+- [49] **Takumi**: A flat fee is the only way to stop the administrative bleed.
+- [50] **Asuka**: I am leaning towards a flat fee, but we need to set it correctly.
+- [51] **Benjamin**: I am with you. The admin cost of a tiered system is simply too high.
+- [52] **Jonathan**: I am concerned about the fairness to the heavy users, but I see the admin point.
+- [53] **Shunichi**: The hesitation is the real cost. A flat fee removes the friction.
+- [54] **Takumi**: The bank statements show the cash flow is thin. A flat fee is the only way to stop the administrative bleed.
+## Round 3
+- [60] **Asuka**: Option A is the only one that protects the social fabric.
+- [61] **Benjamin**: Option A is the only one that protects the treasurer.
+- [62] **Jonathan**: Option B feels like it would create the very social friction we are trying to avoid.
+- [63] **Shunichi**: Option A removes the hesitation. You pay once, you are in.
+- [64] **Takumi**: Option A is the only one that stops the administrative bleed.
+- [65] **Asuka**: @Jonathan, Option B would make the heavy users feel like they are subsidizing the light users.
+- [66] **Benjamin**: @Jonathan, Option B would also mean the treasurer is calculating individual balances every month.
+- [67] **Jonathan**: @Asuka, I see your point. The data shows the heavy users are the ones who keep the club running.
+- [68] **Shunichi**: @Benjamin, The hesitation is the real cost. A flat fee removes the friction.
+- [69] **Takumi**: @Benjamin, The bank statements show the cash flow is thin. A flat fee is the only way to stop the administrative bleed.
+- [70] **Asuka**: I am voting for Option A.
+- [71] **Benjamin**: I am voting for Option A.
+- [72] **Jonathan**: I am voting for Option A, though I am still concerned about the fairness to the heavy users.
+- [73] **Shunichi**: I am voting for Option A.
+- [74] **Takumi**: I am voting for Option A.
+- [75] **Asuka**: The decision is clear.
+- [76] **Benjamin**: The decision is clear.
+- [77] **Jonathan**: The decision is clear.
+- [78] **Shunichi**: The decision is clear.
+- [79] **Takumi**: The decision is clear.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> A
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

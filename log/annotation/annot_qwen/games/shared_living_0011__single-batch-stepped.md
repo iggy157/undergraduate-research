@@ -1,0 +1,73 @@
+# shared_living_0011__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need to verify the actual costs before committing to any destination.
+- [6] **Toshio**: The administrative burden of last year was unsustainable for the organizers.
+- [7] **Minako**: We must consider how the location affects social cohesion among year groups.
+- [8] **Jonathan**: Sleep quality directly impacts training performance, so accommodation is critical.
+- [9] **Asuka**: The flat fee structure hides individual financial disparities and dropout risks.
+- [10] **Ryuji**: @Toshio, what specific duties caused the most strain last time?
+- [11] **Toshio**: Cooking and logistics consumed most evenings, leaving no time for rest.
+- [12] **Minako**: @Ryuji, if we stay local, does that reduce the financial risk?
+- [13] **Jonathan**: @Asuka, how do we handle the cost if someone cancels late?
+- [14] **Asuka**: Currently, the remaining members absorb the loss, which is unfair.
+- [15] **Ryuji**: I will look into the transport receipts and the public bed rates.
+- [16] **Toshio**: I need to check the canteen closure and the hall timetable.
+- [17] **Minako**: I will review the seniors' comments and the attendance sheets.
+- [18] **Jonathan**: I will check the inland accounts and the public booking lottery.
+- [19] **Asuka**: I will look at the whole-building terms and the train times.
+- [20] **Ryuji**: Agreed. Let us gather these facts before deciding.
+- [21] **Toshio**: Yes, data will help us avoid repeating last year's mistakes.
+- [22] **Minako**: I hope this leads to a more integrated group experience.
+- [23] **Jonathan**: I am looking forward to seeing the actual sleeping conditions.
+- [24] **Asuka**: We need a clear policy on late cancellations regardless of location.
+## Round 2
+- [35] **Ryuji**: Transport is 38% of costs if we go far, but public beds are cheap.
+- [36] **Toshio**: The canteen is closed, so we must cook. The hall is also booked.
+- [37] **Minako**: Seniors say mixing only happens when we sleep together. Attendance is low.
+- [38] **Jonathan**: Inland centers have strict curfews and crowded rooms. The lottery is risky.
+- [39] **Asuka**: Whole-building deposits are non-refundable. A third of us can't arrive by 9am.
+- [40] **Ryuji**: @Toshio, if the hall is booked, Campus Intensive is impossible.
+- [41] **Toshio**: Correct. We would have to train in fragments, which is inefficient.
+- [42] **Minako**: @Jonathan, if the inland center is crowded, is it worth the risk?
+- [43] **Jonathan**: The curfew at eleven is too early for our training schedule.
+- [44] **Asuka**: @Ryuji, the high transport cost for a coastal trip is concerning.
+- [45] **Ryuji**: The public rate sheet shows 1,100 yen per night, which is manageable.
+- [46] **Toshio**: Cooking duty was two hours a day last year. We need staff.
+- [47] **Minako**: The attendance sheets show a fifth never came. We need a strong incentive.
+- [48] **Jonathan**: The application for public bookings is nine pages long and rigid.
+- [49] **Asuka**: If we choose a coastal lodge, the deposit risk is high for dropouts.
+- [50] **Ryuji**: We need a place with kitchen staff to save time.
+- [51] **Toshio**: Agreed. That removes the biggest burden on the organizers.
+- [52] **Minako**: A place where everyone sleeps together will help the year groups mix.
+- [53] **Jonathan**: I need to ensure the nights are quiet and the rooms are not too crowded.
+- [54] **Asuka**: We must pick a place where the cost is predictable and fair.
+## Round 3
+- [60] **Ryuji**: Option A has meals arranged, which solves the cooking issue.
+- [61] **Toshio**: Option B is out because the hall is already booked by others.
+- [62] **Minako**: Option C has strict curfews, which might hinder our evening bonding.
+- [63] **Jonathan**: Option A offers a whole building, which should ensure better sleep.
+- [64] **Asuka**: Option A has a non-refundable deposit, which is a financial risk.
+- [65] **Ryuji**: @Asuka, we can mitigate the deposit risk by confirming attendance early.
+- [66] **Toshio**: @Ryuji, that is a reasonable plan. The cooking relief is worth it.
+- [67] **Minako**: @Jonathan, does the coastal lodge have enough space for everyone?
+- [68] **Jonathan**: Yes, it is a whole building, so we can manage the layout.
+- [69] **Asuka**: I am still concerned about the cost if someone drops out.
+- [70] **Ryuji**: The transport cost for Option A is high, but the bed rate is low.
+- [71] **Toshio**: The total cost might be similar to last year if we manage it well.
+- [72] **Minako**: The social benefit of Option A is the highest for our goals.
+- [73] **Jonathan**: The sleep quality in a private building should be superior.
+- [74] **Asuka**: I will accept the risk if we have a clear cancellation policy.
+- [75] **Ryuji**: I vote for Option A. The financials are manageable.
+- [76] **Toshio**: I vote for Option A. It solves the logistical nightmare.
+- [77] **Minako**: I vote for Option A. It promotes the mixing we need.
+- [78] **Jonathan**: I vote for Option A. The accommodation is the best fit.
+- [79] **Asuka**: I vote for Option A, provided we enforce the deposit terms.
+### Vote
+- Ryuji -> A
+- Toshio -> A
+- Minako -> A
+- Jonathan -> A
+- Asuka -> A
+## Result
+- adopted: A

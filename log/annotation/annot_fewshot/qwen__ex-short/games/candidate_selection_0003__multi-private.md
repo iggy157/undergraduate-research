@@ -1,0 +1,72 @@
+# candidate_selection_0003__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: I want to know which past projects actually satisfied the people using them.
+- [6] **Victoria**: I am concerned about how long rooms stay out of service during construction and how they are used afterward.
+- [7] **George**: I worry about the people doing the daily work. Who is left to maintain these spaces after the project ends?
+- [8] **Mizuki**: I am worried about the calendar. Every project seems to hit an unpriced snag, squeezing a year of work into the remaining weeks.
+- [9] **Benjamin**: I am curious about the gap between the approved budget and the actual cost once the doors open.
+- [10] **Toshio**: @Benjamin, that gap is real. I am checking the post-occupancy reviews to see if the satisfaction matches the spending.
+- [11] **Victoria**: @Mizuki, your calendar concern is valid. I am checking the timetable records to see how long rooms actually stay out of service.
+- [12] **George**: @Mizuki, the calendar squeezes the people too. I am checking the staffing posts to see who is left to do the work.
+- [13] **Mizuki**: @George, the squeeze hits the staff hardest. I am checking the delivery schedules to see where the delays actually start.
+- [14] **Benjamin**: @Toshio, satisfaction is a lagging indicator. I am checking the renewal reserve to see if the equipment costs are actually covered.
+- [15] **Toshio**: I will also check the survey findings in the older blocks. The condition of the existing structure often dictates the final outcome.
+- [16] **Victoria**: I will also check the booking data for specialist and general rooms. Usage patterns reveal if the space is actually needed.
+- [17] **George**: I will also check the bench technicians' weekly manual routines. The daily grind reveals the true burden on the remaining staff.
+- [18] **Mizuki**: I will also check the weather days in the site diaries. Unpriced delays often start with rain nobody accounted for.
+- [19] **Benjamin**: I will also check the tender records. If the bids were low, the market is about to correct the committee’s optimism.
+- [20] **Toshio**: Let us see what the records say.
+- [21] **Victoria**: Agreed. The data will show us the true cost of disruption.
+- [22] **George**: I will wait for the facts. The staff are already stretched thin.
+- [23] **Mizuki**: The numbers will reveal the hidden delays. Let us proceed.
+## Round 2
+- [35] **Toshio**: The post-occupancy data is clear. Shared spaces rated highest; single-wing projects disappointed users. I will check the survey findings next.
+- [36] **Victoria**: The timetable records are troubling. Every room closed for works required hired off-site space, paid for over two terms.
+- [37] **George**: The staffing freeze left grounds posts empty. Technicians still do manual window checks weekly. The burden is on the few remaining.
+- [38] **Mizuki**: The delivery data is damning. Inspection-driven works hit deadlines; comfort projects slipped a year. The weather diaries confirm six weeks lost to rain.
+- [39] **Benjamin**: The reserve is empty. Equipment costs are hidden until they explode. Tender data shows plant costs up twenty percent. The market is correcting our optimism.
+- [40] **Toshio**: @Benjamin, the reserve gap is critical. My survey data shows hazardous material in older blocks. That adds months before work starts.
+- [41] **Victoria**: @Toshio, that hazardous material finding explains the delays. My booking data shows specialist rooms are idle, yet general rooms are always full.
+- [42] **George**: @Victoria, idle specialist rooms mean less daily maintenance. That is a relief for the remaining staff.
+- [43] **Mizuki**: @Toshio, hazardous material is a classic unpriced snag. It validates my concern about the calendar slipping. We must avoid those older blocks.
+- [44] **Benjamin**: @Mizuki, exactly. The market is punishing our optimism. We need a plan that doesn’t rely on outdated equipment or hidden reserves.
+- [45] **Toshio**: The survey confirms the risk. Older blocks are traps. We must avoid them to protect the schedule and the budget.
+- [46] **Victoria**: @George, the idle specialist rooms are a waste. We should repurpose them for the general demand that is currently being turned away.
+- [47] **George**: @Victoria, repurposing adds new routines. The technicians are already drowning in manual checks. We cannot add to their load.
+- [48] **Mizuki**: @George, I agree. Adding routines to an exhausted team is a recipe for failure. We need a plan that respects their current limits.
+- [49] **Benjamin**: @Victoria, repurposing sounds efficient, but it ignores the maintenance burden. We cannot trade one hidden cost for another.
+- [50] **Toshio**: I am waiting for the candidates. The data points to shared spaces in newer blocks.
+- [51] **Victoria**: I am waiting for the candidates. The data suggests we should prioritize general rooms to reduce off-site hiring costs.
+- [52] **George**: I am waiting for the candidates. The data is clear: we must not add work to the exhausted technicians.
+- [53] **Mizuki**: I am waiting for the candidates. The data is clear: we must avoid weather exposure and older blocks to protect the schedule.
+- [54] **Benjamin**: I am waiting for the candidates. The data is clear: we must avoid hidden equipment costs and market corrections.
+## Round 3
+- [60] **Toshio**: The post-occupancy data favors shared spaces. Candidate B and D fit that. A is single-wing. C is outdoor.
+- [61] **Victoria**: @Toshio, B directly addresses the general room shortage. D is a specialist space, which my data shows is already idle.
+- [62] **George**: @Victoria, D adds complex equipment routines. The technicians cannot handle that. B is simpler, but I worry about the service desk load.
+- [63] **Mizuki**: @Toshio, C is a disaster. My weather data shows six weeks lost to rain. Outdoor work is a schedule killer. B is indoor and safer.
+- [64] **Benjamin**: @Victoria, D is a trap. My tender data shows plant costs up twenty percent. The hidden equipment costs will destroy the budget. B is safer.
+- [65] **Toshio**: @George, the service desk is a booking function, not a maintenance one. It does not add to the technicians' manual routines.
+- [66] **Victoria**: @Toshio, I agree. The booking system handles the demand. My data shows general rooms are always full, so B solves the off-site hiring cost.
+- [67] **George**: @Toshio, I see your point. The desk is administrative, not physical. That relieves my concern. B seems manageable for the current staff.
+- [68] **Mizuki**: @Benjamin, A is also a trap. Ventilation work is exposed to weather and older blocks. My data shows those delays are unpriced. B is the only safe indoor option.
+- [69] **Benjamin**: @Mizuki, precisely. A is a financial minefield. The plant costs are rising, and the reserve is empty. B is the only option that doesn't bleed money.
+- [70] **Toshio**: @Mizuki, A is indeed risky. The survey found hazardous material in older blocks. Ventilation work there would trigger months of delays. B avoids that entirely.
+- [71] **Victoria**: @Mizuki, A also forces rooms out of service. My timetable data shows that triggers expensive off-site hiring. B is the only option that keeps the disruption manageable.
+- [72] **George**: @Mizuki, A is a no-go. The technicians already struggle with manual checks. Adding complex ventilation maintenance would break them. B is the only choice that respects their limits.
+- [73] **Mizuki**: @Toshio, you are right. A is a trap. B is the only plan that respects the calendar and the staff. I am ready to vote.
+- [74] **Benjamin**: @Toshio, agreed. A is a financial black hole. B is the only option that doesn't trigger the market correction I found. I am ready to vote.
+- [75] **Toshio**: I vote for B. The post-occupancy data confirms shared spaces satisfy users. It avoids the older block risks and respects the staff limits.
+- [76] **Victoria**: I vote for B. It directly solves the general room shortage and eliminates the costly off-site hiring my data revealed.
+- [77] **George**: I vote for B. It is the only plan that does not add to the technicians' already crushing manual routines. The staff can handle this.
+- [78] **Mizuki**: I vote for B. It is the only plan that respects the calendar, avoids weather risks, and protects the exhausted staff. The data is clear.
+- [79] **Benjamin**: I vote for B. It avoids the plant cost inflation and the empty reserve trap. The numbers finally align with reality.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> B
+- Mizuki -> B
+- Benjamin -> B
+## Result
+- adopted: B

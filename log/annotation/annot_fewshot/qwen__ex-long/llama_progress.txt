@@ -1,0 +1,12 @@
+worker 6 done rc=0 21:47:02
+worker 0 done rc=0 21:47:16
+worker 4 done rc=0 21:47:50
+worker 2 done rc=0 21:47:54
+worker 8 done rc=0 21:48:03
+worker 10 done rc=0 21:49:37
+worker 7 done rc=0 21:51:25
+worker 3 done rc=0 21:52:51
+worker 5 done rc=0 21:53:09
+worker 11 done rc=0 21:53:18
+worker 9 done rc=0 21:53:44
+worker 1 done rc=0 21:54:01

@@ -1,0 +1,73 @@
+# shared_living_0010__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need a system that actually lasts the whole year. To make it sustainable, we should be realistic about the time and effort required. Let's look into the data before we decide.
+- [6] **Mio**: I totally agree! It's been feeling a bit off lately, hasn't it? I want to make sure the workload is actually fair for everyone, regardless of how much time we spend at home.
+- [7] **Victoria**: I agree. If we want to avoid friction, we need a system that feels fair to everyone. It's better to be thorough now than to have resentment build up over the next few months.
+- [8] **Rin**: I agree! But it's not just about the work, right? We should also figure out the money part. I don't want anyone to feel sad because they spent too much on sponges or bags!
+- [9] **Daisuke**: I... I agree. I just want to know that the rooms will be clean every time I go in. It's hard when it's unpredictable. I think we should check the details first.
+- [10] **Ryuji**: Since we're looking for data, I'll check the stopwatch timing of a full pass and the standard terms of the outside firm. I want to know the actual hours involved versus professional options.
+- [11] **Mio**: I'll check the absences on the wall calendar and a fortnight's watch on kitchen use! I really want to see who's actually here and using the space before we set the rules.
+- [12] **Victoria**: I'll look into what each housemate counts as done and the rows recorded in the house chat. I think understanding our different standards and past conflicts will help us avoid future arguments.
+- [13] **Rin**: I'll check the bathroom spray stock and the tin's receipts, plus the management office rate sheet and billing! I want to see exactly how much we're spending on supplies and what the building costs are.
+- [14] **Daisuke**: I'll... look into the bathroom grout after the July scrub and the note left by the previous tenants. I want to see if there's a way to keep things consistently clean.
+- [15] **Ryuji**: That covers the main bases. By comparing the actual time spent with the cost of a professional service, we can determine if outsourcing is a logical trade-off for our schedules.
+- [16] **Mio**: Exactly! And by seeing who's actually around, we can make sure the person who's always home isn't doing all the work for someone who's barely here. That's the only way it'll stay fair!
+- [17] **Victoria**: It's also important to remember that "fairness" is often subjective. By looking at our past disagreements and different definitions of "clean," we can find a middle ground that prevents small annoyances from becoming larger conflicts.
+- [18] **Rin**: And we can't forget the money! If we just guess, someone always ends up paying more. I want to make sure we have a clear plan for the costs so everyone is happy!
+- [19] **Daisuke**: I... I hope that by looking at the previous tenants' notes and the grout, we can find a standard that works. I just want to stop worrying about what I'll find when I open the door.
+- [20] **Ryuji**: It seems we have a comprehensive plan. Let's proceed with these investigations. Once we have the facts regarding time, cost, and usage, we can evaluate our options rationally and choose the most sustainable arrangement.
+- [21] **Mio**: I'm so excited to see what we find! Let's get to it and make sure we build a system that makes everyone feel happy and balanced. I can't wait to hear what you all discover!
+- [22] **Victoria**: I'm glad we're on the same page. Let's be mindful of how we share this information so we can move forward constructively. I look forward to seeing what we discover.
+- [23] **Rin**: Yay! Let's go on a treasure hunt for the truth! I'll find all the receipts and the bills so we can be super fair with our pennies. See you all soon!
+- [24] **Daisuke**: I'll... do my best to find the information. I hope we can find a way to make everything consistent. I'll see you all later.
+## Round 2
+- [35] **Ryuji**: The timing data shows a full pass takes over an hour and forty minutes. That's a significant time investment. Also, the outside firm requires us to tidy first, meaning outsourcing doesn't eliminate all the effort.
+- [36] **Mio**: Wow, the data is eye-opening! I found that some of us are barely here—one person was gone all August! Plus, only a few of us actually cook, while others just use the coffee machine. It's not balanced at all!
+- [37] **Victoria**: My findings confirm that our standards differ significantly; what one person considers "done" another might see as incomplete. Also, our past arguments in the chat always started with reminders about missed tasks. This is where the friction lies.
+- [38] **Rin**: I found out we're spending about 2,300 yen a month on spray, and some things are bought twice! Also, the management cleaner is 4,200 yen an hour, but only one person gets the bill. That's confusing!
+- [39] **Daisuke**: I... I found out that the bathroom grout gets dirty again in just eleven days because of the ventilation. Also, the previous tenants left a note saying they stopped talking to each other because of the cleaning. I'm... really worried about that.
+- [40] **Ryuji**: @Victoria, your point about differing standards explains why the time investment is so high. If we are constantly re-cleaning or over-cleaning to meet different expectations, it's inefficient. We need a concrete, agreed-upon standard to stabilize the hours.
+- [41] **Mio**: @Ryuji, that's true, but we also have to address the usage! It's not fair if someone who only makes coffee and is gone for a month does the same amount of scrubbing as someone who cooks every day. We need a system that reflects actual use!
+- [42] **Victoria**: @Mio, while usage is a factor, focusing too much on it can lead to constant monitoring and resentment. If we're always counting who used what, we might end up arguing more than we do now.
+- [43] **Rin**: @Mio, @Victoria, but what about the money? We're buying things twice and only one person gets the bills! That's not fair either. We need a way to track costs so nobody is just paying for everyone else!
+- [44] **Daisuke**: I... I'm scared that if we just argue about who uses what, we'll end up like the previous tenants. And the bathroom... it gets dirty so fast. Maybe we need a system that doesn't rely on us guessing?
+- [45] **Ryuji**: @Daisuke, the grout issue suggests that some tasks require higher frequency than others. If we combine that with the timing data, it's clear that a simple rotation might be insufficient and logically flawed.
+- [46] **Mio**: @Ryuji, exactly! A simple rotation is just a band-aid. If we ignore the fact that some people are barely here or barely use the kitchen, the people who are actually using the space will feel cheated. We need a flexible system!
+- [47] **Victoria**: @Mio, flexibility can be a double-edged sword. If the rules are too fluid, we'll spend more time negotiating and monitoring each other than actually cleaning. I'm worried that "fairness" based on usage will just create new reasons to argue.
+- [48] **Rin**: @Victoria, but if we don't have a plan for the money, we'll argue about that instead! We need a predictable monthly cost for supplies so it's not just the person with the nearest wallet paying!
+- [49] **Daisuke**: I... I think Victoria is right about the arguing. If we're always monitoring each other, it'll be stressful. But the bathroom is so unpredictable... maybe a professional could make it consistent? I just want to feel calm.
+- [50] **Ryuji**: @Daisuke, a professional could provide consistency, but as I found, we still have to tidy up first. The real issue is the total time burden. We must decide if paying for a service is worth the remaining effort.
+- [51] **Mio**: @Ryuji, it's worth it if it stops the fighting! But we still need to figure out how to split the cost and the tidying. It should be based on who's actually here and using the place!
+- [52] **Victoria**: @Mio, that's exactly my concern. Tying costs and duties to usage requires constant tracking, which often leads to the very nagging and tension I'm hoping we can avoid. We need a solution that minimizes the need for monitoring.
+- [53] **Rin**: @Victoria, but we can just have a fixed monthly pot! If we all put in the same amount for supplies and the cleaner, it's simple and nobody has to worry about who paid for the sponges!
+- [54] **Daisuke**: I... I like the idea of a fixed pot. It sounds simpler. If we can just agree on a standard and have a professional help us, maybe I won't have to worry so much about the rooms.
+## Round 3
+- [60] **Ryuji**: Option C is the most logical choice. Given that a full pass takes nearly two hours and our standards differ, a professional ensures consistency and reduces the time burden on all of us, provided we handle the tidying.
+- [61] **Mio**: I like Option C too! It solves the standard problem and the time issue. But we have to agree that the cost is split based on who's actually here, not just an even split!
+- [62] **Victoria**: @Mio, I strongly disagree with splitting costs by usage. That requires constant tracking and will inevitably lead to the same nagging and resentment we're trying to avoid. An even split is much more peaceful.
+- [63] **Rin**: I agree with Victoria! An even split is way easier. If we just have a fixed monthly amount for the cleaner and the supplies, it's like a club! No more guessing who paid for the sponges!
+- [64] **Daisuke**: I... I agree with Victoria and Rin. An even split sounds much more peaceful. If we choose Option C and keep the payments simple, maybe we can avoid the fighting and keep the rooms consistently clean.
+- [65] **Ryuji**: @Mio, an even split is the only way to avoid the monitoring trap Victoria mentioned. If we spend our time auditing each other's presence, we haven't actually saved any time or mental energy. Option C with equal costs is the most efficient.
+- [66] **Mio**: @Ryuji, I see your point, but it still feels wrong! If someone is gone for a whole month, why should they pay for a cleaner they didn't need? It's just not fair to the rest of us!
+- [67] **Victoria**: @Mio, fairness isn't just about the money; it's about the atmosphere in the house. If we prioritize a few thousand yen over our peace of mind, we risk the same breakdown the previous tenants experienced. Let's choose stability.
+- [68] **Rin**: @Mio, but if we keep changing the price, it'll be a big mess! A fixed price is like a magic rule—everyone knows it, and nobody has to argue. Let's just make it simple and happy!
+- [69] **Daisuke**: I... I'm really worried about the atmosphere too. If we keep arguing about who is here or not, it'll be stressful for everyone. I think Option C with an even split is the safest way to stay friends.
+- [70] **Ryuji**: @Mio, the time we would spend calculating usage is a hidden cost. Logically, the mental burden of auditing each other is more expensive than the small financial discrepancy. Option C with an even split is the most sustainable path.
+- [71] **Mio**: @Ryuji, you're all about the logic, but it's still a bummer! Still, I guess if everyone else really wants peace over pennies, I can't be the only one fighting for this. I'll go with Option C!
+- [72] **Victoria**: I appreciate your flexibility, @Mio. Choosing a path that prioritizes our relationships over perfect accounting is the best way to ensure we all feel comfortable and welcome in our home for the rest of the year.
+- [73] **Rin**: Yay! I'm so glad we all agree! Let's do Option C with a fixed pot for everything. It'll be so much better when we don't have to worry about who's paying for the bleach!
+- [74] **Daisuke**: I... I'm glad we could agree. I feel much better knowing we have a plan that's consistent and won't lead to fighting. I'll vote for Option C.
+- [75] **Ryuji**: Since we have reached a consensus on both the method and the financial arrangement, the decision is clear. Option C provides the most rational balance of time, consistency, and interpersonal stability. I vote for Option C.
+- [76] **Mio**: I'm still a little sad about the fairness part, but I love you guys and I love our home more! Let's keep it happy and stress-free. I vote for Option C!
+- [77] **Victoria**: I believe this is the most sustainable choice for our household. By removing the source of conflict and keeping the financials simple, we protect our friendship. I vote for Option C.
+- [78] **Rin**: I vote for Option C! Let's make a big, happy pot of money for the cleaner and the sponges so everything is fair and clear. I'm so excited for our clean house!
+- [79] **Daisuke**: I... I vote for Option C. Thank you for understanding. I'm looking forward to not having to worry about the rooms anymore.
+### Vote
+- Ryuji -> C
+- Mio -> C
+- Victoria -> C
+- Rin -> C
+- Daisuke -> C
+## Result
+- adopted: C

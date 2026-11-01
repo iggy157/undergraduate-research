@@ -1,0 +1,73 @@
+# shared_living_0012__multi-private (shared_living)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I'm really glad we're all meeting to fix this. I want us to find a way that makes everyone happy so we can all be friends again! What should we look into first?
+- [6] **Shizue**: It is wonderful to see your positive spirit, Kenji. I agree, harmony is the most important thing. I believe we should look for a solution where everyone feels comfortable and cared for in their own home.
+- [7] **Asuka**: I agree that harmony is a goal, but it must be based on a practical foundation. To ensure the burden is distributed fairly, we need objective data on the physical space and previous administrative decisions.
+- [8] **Rin**: I'm so excited to help! Let's make this place super clean! I want to know how other people do it. I'll check the "Visit to the station block's bin house" and "Supervised mornings on the next lane"!
+- [9] **Servas**: It is a pleasure to be here with you all. Let us approach this with patience and kindness. To ensure our solution is sustainable for every neighbor, I will look into the "Block ledger of refuse-point expenses" and "Ward subsidy and last year's shelter costs."
+- [10] **Kenji**: I want to know why people are upset so we can fix it! I'll check the "Ward complaint log for this point" and "Statements at the residents' meeting" to see what everyone is thinking!
+- [11] **Shizue**: I would like to understand the daily experience of our neighbors. I will look into "Supervised mornings on the next lane" and the "Visit to the station block's bin house" to see how these arrangements feel in practice.
+- [12] **Asuka**: I will look into the "Measurements of the five frontages" and "The station block's meeting minutes." We must understand the physical constraints and the history of these decisions to avoid repeating past mistakes.
+- [13] **Rin**: @Kenji, that's a great idea! I bet the complaint log has some super interesting clues! I'm still sticking with my choices because I want to see if the other lanes have any secret tricks!
+- [14] **Servas**: It is wise to seek both the heart of the matter and the hard facts. I shall remain with my choices, for understanding our financial history is the first step toward a truly inclusive and fair agreement.
+- [15] **Kenji**: I'm really curious to see what the complaints are all about! I hope that by understanding the problems, we can find a way to make everyone smile and get along again. I'll stick with my choices!
+- [16] **Shizue**: I believe it is important to see how other neighborhoods manage their spaces. I will stay with my choices, as I hope to find a way that brings peace and comfort to everyone's daily life.
+- [17] **Asuka**: I will maintain my selection. Without precise measurements and a record of previous deliberations, any proposal we make will be based on guesswork rather than reality. I believe this is the only way to ensure a truly equitable result.
+- [18] **Rin**: I'm ready to go on my research adventure! I'll find out if the bin house is cool or if the supervised mornings are like a little club! See you all soon with the secrets!
+- [19] **Servas**: I believe we have a balanced approach. While some seek the physical and social truths, I will focus on the financial ones. Let us all proceed with an open heart. I shall see you all soon.
+- [20] **Kenji**: I'm all set! I'll go find out what's been bothering everyone so we can make things right. I can't wait to see what we all discover! See you all in the next round!
+- [21] **Shizue**: I shall go now as well. I hope the information we find helps us create a gentle and peaceful environment for all our neighbors. I look forward to seeing you all again very soon.
+- [22] **Asuka**: I will begin my research now. I expect the data to reveal the actual physical disparities we are dealing with. I will see you all in the next round to analyze the results objectively.
+- [23] **Rin**: I'm off to be the group's scout! I'll hunt for all the best clues and secrets so we can pick the most fun and cleanest way to do this! Bye-bye everyone, see you soon!
+- [24] **Servas**: I shall now begin my study of the records. May our findings lead us toward a path of mutual understanding and generosity. I look forward to our reunion. See you all soon.
+## Round 2
+- [35] **Kenji**: Wow, I found some really important stuff! It looks like almost all the complaints come from just one house. That's so sad! We really need to find a way to help them out so everyone can be happy again!
+- [36] **Shizue**: That is very heartbreaking to hear, Kenji. It is no wonder there has been tension if one neighbor has been suffering alone. We must be very gentle and thoughtful in how we support them.
+- [37] **Asuka**: My findings confirm that the burden is not just social, but physical. The frontages are vastly unequal; some cannot even accommodate a bay. We cannot simply maintain the status quo or ignore these physical disparities in our planning.
+- [38] **Rin**: I found some secrets! The bin house at the station block smells super sour in the summer because you can't wash the floor! Yucky! But the next lane has a "supervised morning" club that's only 20 times a year!
+- [39] **Servas**: It is enlightening to hear your discoveries. I have found that we spend thirty-four thousand yen annually on maintenance due to open bags, and new shelters are quite costly, even with the ward's forty percent subsidy.
+- [40] **Kenji**: @Rin, a "supervised morning club" sounds like a fun way to do it! But @Servas, if new shelters are so expensive, maybe we should find a way that doesn't cost too much money, so no one gets stressed about it!
+- [41] **Shizue**: @Rin, thank you for sharing. I also found that the bin house can become quite unpleasant in the summer heat. It would be a shame to trade one worry for another and make our streets less inviting.
+- [42] **Asuka**: @Rin, while a "club" sounds pleasant, we must consider the actual labor. My research into the station block shows that structures often lead to disputes over maintenance and cleaning. We need a system that doesn't create new burdens.
+- [43] **Rin**: @Asuka, you're so serious! But if we take turns, it's not a burden, it's like a team game! @Kenji, I agree! We should pick something that's fair and doesn't cost a mountain of money!
+- [44] **Servas**: @Rin, your youthful energy is a gift to us all. However, we must remember that a "team game" still requires a shared cost. We must be mindful that our neighbors' budgets vary as much as their frontages do.
+- [45] **Kenji**: @Servas, you're right! We have to be careful. But I also found that nobody wants to be the "bad guy" who tells neighbors their bags are late. If we pick a plan that's too strict, it might just make people fight more!
+- [46] **Shizue**: @Kenji, that is a very thoughtful point. We must avoid any system that makes our neighbors feel judged or uncomfortable. A gentle approach, where we support one another, will be much more sustainable for our hearts.
+- [47] **Asuka**: @Kenji, that is precisely why we must avoid vague agreements. When rules are unclear, the responsibility inevitably falls on the person who is most compliant or the one who answers the phone first. We need a concrete system.
+- [48] **Rin**: @Asuka, you're right about the rules! But we have to make sure the "concrete system" doesn't just leave the trash at the same house's gate forever. That wouldn't be a team game at all, it would be cheating!
+- [49] **Servas**: @Rin, you speak a great truth. Fairness is not merely about the rules, but about the spirit in which they are applied. Let us seek a path that balances the physical burden with a financial weight that no one finds impossible to carry.
+- [50] **Kenji**: I really hope we can find a way to stop the fighting! If we can just make sure the person who's been complaining feels heard and helped, maybe everyone can start talking to each other again. Let's be super kind!
+- [51] **Shizue**: I agree completely, Kenji. Kindness is the bridge that will bring us back together. Let us look for a solution that is not only fair in its rules, but warm in its spirit, so every neighbor feels truly valued.
+- [52] **Asuka**: Kindness is a sentiment, but stability is a result. If we prioritize warmth over a clear, sustainable distribution of labor, we will simply return to the same cycle of burnout and resentment. We must be precise about the workload.
+- [53] **Rin**: @Asuka, you're always so precise! But I'm with you! We need a plan where everyone actually does their part. No more "cheating" by letting one person do everything! Let's find the most fair and fun way!
+- [54] **Servas**: It is heartening to see such a spirited discussion. As we move forward, let us remember that true harmony is found when we protect the most vulnerable among us. A solution is only fair if it is affordable for all.
+## Round 3
+- [60] **Kenji**: Hmm, Option A keeps the trash at the same house, which seems mean since they're already upset! Option B sounds like a great way to share the work so everyone can be friends again! What do you guys think?
+- [61] **Shizue**: I agree with Kenji. Option A seems a bit unkind to the neighbor who is already struggling. However, I worry that Option B might just move the unpleasantness from one home to another. What do you all think?
+- [62] **Asuka**: Option A is unacceptable; it ignores the physical disparities of our frontages and leaves the burden on one household. Option B is the only logical choice that ensures a genuine redistribution of the physical and social burden.
+- [63] **Rin**: @Asuka, I agree! Option A is just cheating because it leaves the trash at the same gate! Option C is like the "supervised club," but it doesn't move the yucky stuff. Option B is the most fair!
+- [64] **Servas**: Option B is a compassionate choice, as it shares the physical burden. However, we must consider the cost. Option A would be a heavy financial weight, while B and C are more modest. I believe B is the most balanced path.
+- [65] **Kenji**: @Shizue, I understand your worry, but isn't it better to share the unpleasantness than to let one person suffer alone? If we all take turns, we can help each other out and be a real team!
+- [66] **Shizue**: @Kenji, you have such a sweet way of looking at things. You are right that sharing is kinder than letting one person suffer. I just hope we can do it in a way that remains gentle for everyone.
+- [67] **Asuka**: @Shizue, gentleness is not a substitute for a system. Option C still leaves the physical burden at one house and creates a new labor burden of oversight. Option B is the only one that removes the permanent disadvantage.
+- [68] **Rin**: @Asuka, exactly! Option C is just a fancy way of saying "stay where you are," and that's not fair! If we want to be a real team, we have to move the trash around so everyone takes a turn! I vote for Option B!
+- [69] **Servas**: @Rin, your enthusiasm for fairness is a light for us all. Option B avoids the steep costs of construction that could strain our neighbors' budgets, while ensuring no one is left to carry the burden alone. I vote for Option B.
+- [70] **Kenji**: @Rin, @Servas, I'm so glad you both like Option B! If we all share the spot, nobody has to feel like the only one suffering. It's the best way to make sure we can all be friends again! I vote for Option B!
+- [71] **Shizue**: It is a relief to see such a wonderful consensus forming. While I had my worries, your kindness and desire for fairness have convinced me. Let us embrace this shared journey together. I vote for Option B.
+- [72] **Asuka**: The consensus is based on a sound logical premise. Option B is the only arrangement that addresses the physical inequality of our frontages and prevents the systemic burnout of a single household. I vote for Option B.
+- [73] **Rin**: Yay! Everyone is on the same page! No more cheating and no more yucky smells at just one gate. It's like a traveling trash party! I'm super happy! I vote for Option B!
+- [74] **Servas**: It is a beautiful thing when a community finds its way back to harmony. By choosing a path of shared responsibility and modest cost, we ensure that no neighbor is left behind. I vote for Option B.
+- [75] **Kenji**: I'm so happy we all agree! Option B is the best because it's fair and helps everyone get along. I can't wait for us all to be friends again! I vote for Option B!
+- [76] **Shizue**: It brings me such peace to see us all in agreement. Let us move forward with kindness and patience, ensuring this new arrangement brings a smile to every neighbor's face. I vote for Option B.
+- [77] **Asuka**: The result is unanimous. Option B is the only rational choice that acknowledges the physical reality of our properties and ensures that no single resident is unfairly burdened. I vote for Option B.
+- [78] **Rin**: I'm so glad we're doing the traveling trash party! It's the most fair way and nobody gets cheated! I'm voting for Option B one more time! Yay!
+- [79] **Servas**: Our journey today has shown that when we listen with open hearts, we find the path to peace. Option B protects both our spirits and our pockets. I vote for Option B.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> B
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

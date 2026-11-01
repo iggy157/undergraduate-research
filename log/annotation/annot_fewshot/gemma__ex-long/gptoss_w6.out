@@ -1,0 +1,16 @@
+aiwolf_0003__single-batch.md: 40/40 utterances, missing [], finish=stop, 155s
+aiwolf_0009__single-batch.md: 40/40 utterances, missing [], finish=stop, 158s
+aiwolf_0015__single-batch.md: 40/40 utterances, missing [], finish=stop, 161s
+aiwolf_0021__single-batch.md: 40/40 utterances, missing [], finish=stop, 148s
+aiwolf_0027__single-batch.md: 40/40 utterances, missing [], finish=stop, 125s
+candidate_selection_0003__single-batch.md: 43/43 utterances, missing [], finish=stop, 193s
+candidate_selection_0009__single-batch.md: 35/35 utterances, missing [], finish=stop, 114s
+candidate_selection_0015__single-batch.md: 45/45 utterances, missing [], finish=stop, 144s
+candidate_selection_0021__single-batch.md: 40/40 utterances, missing [], finish=stop, 136s
+candidate_selection_0027__single-batch.md: 40/40 utterances, missing [], finish=stop, 141s
+shared_living_0003__single-batch.md: 45/45 utterances, missing [], finish=stop, 171s
+shared_living_0009__single-batch.md: 45/45 utterances, missing [], finish=stop, 132s
+shared_living_0015__single-batch.md: 50/50 utterances, missing [], finish=stop, 167s
+shared_living_0021__single-batch.md: 46/46 utterances, missing [], finish=stop, 179s
+shared_living_0027__single-batch.md: 45/45 utterances, missing [], finish=stop, 167s
+15/15 games annotated -> /tmp/claude-1091/-diskthalys-ssd14ta-yharada-aiwolf-undergraduate-research/bcec8730-29c9-4bd2-98fc-0a8842b00e36/scratchpad/annot_fewshot/gemma__ex-long/out

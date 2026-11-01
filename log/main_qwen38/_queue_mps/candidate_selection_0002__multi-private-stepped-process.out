@@ -1,0 +1,23 @@
+2026-10-29 14:02:37,934 websockets.server INFO server listening on 127.0.0.1:27301
+2026-10-29 14:02:37,934 server.runner INFO listening on ws://127.0.0.1:27301 for setup candidate_selection_0002
+2026-10-29 14:02:39,306 websockets.server INFO connection open
+2026-10-29 14:02:39,306 websockets.server INFO connection open
+2026-10-29 14:02:39,307 websockets.server INFO connection open
+2026-10-29 14:02:39,307 server.transport INFO seat1 connected (1/5)
+2026-10-29 14:02:39,307 websockets.server INFO connection open
+2026-10-29 14:02:39,307 server.transport INFO seat4 connected (2/5)
+2026-10-29 14:02:39,307 server.transport INFO seat5 connected (3/5)
+2026-10-29 14:02:39,307 websockets.server INFO connection open
+2026-10-29 14:02:39,308 server.transport INFO seat2 connected (4/5)
+2026-10-29 14:02:39,308 server.transport INFO seat3 connected (5/5)
+2026-10-29 14:02:39,315 server.game INFO game candidate_selection_0002__multi-private-stepped-process__qwen3.8-27b__20261029T140239 starting (candidate_selection_0002)
+2026-10-29 14:04:13,015 server.game INFO game candidate_selection_0002__multi-private-stepped-process__qwen3.8-27b__20261029T140239 finished: {'adopted': 'D', 'tally': {'D': 5}, 'tie': False}
+2026-10-29 14:04:13,035 websockets.server INFO connection closed
+2026-10-29 14:04:13,040 websockets.server INFO connection closed
+2026-10-29 14:04:13,071 websockets.server INFO connection closed
+2026-10-29 14:04:13,071 websockets.server INFO connection closed
+2026-10-29 14:04:13,075 websockets.server INFO connection closed
+2026-10-29 14:04:13,075 websockets.server INFO server closing
+2026-10-29 14:04:13,075 websockets.server INFO server closed
+candidate_selection_0002__multi-private-stepped-process__qwen3.8-27b__20261029T140239	{"adopted": "D", "tally": {"D": 5}, "tie": false}
+run_multi: candidate_selection_0002__multi-private-stepped-process__qwen3.8-27b__20261029T140239	{"adopted": "D", "tally": {"D": 5}, "tie": false}

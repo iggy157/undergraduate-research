@@ -1,0 +1,71 @@
+# shared_living_0009__single-online (shared_living)
+
+## Round 1
+- [5] **Misaki**: I think we need to be practical. I'll look into the state of the car at handover and the trips that repeat weekly to see why things keep falling apart.
+- [6] **May**: I want to know where our time is going. I'll check the hours of use recorded in the diary and the month's trial of recording every run.
+- [7] **Servas**: To ensure fairness for everyone, I shall examine last year's tax, insurance and parking papers, as well as the spell of checking each other's figures.
+- [8] **Takumi**: I want to know why we're getting grumpy with each other. I'll look into what two other car-sharing households said and the weeks of heavy use over the year.
+- [9] **Kenji**: I want to see the real numbers! I'll check last year's fuel receipts and the mechanic's remarks at the last service to see what's actually happening.
+- [11] **May**: @Takumi, do you think the heavy use weeks are what's making us grumpy, or is it something else?
+- [12] **Servas**: It is often the hidden frictions, the things left unsaid, that weigh most heavily on a friendship. I suspect the answer lies in both the numbers and our hearts.
+- [13] **Takumi**: @May, I think it's both. The heavy weeks probably stress us out, but I want to see if other people have the same problems so we don't just keep repeating the same mistakes.
+- [14] **Kenji**: I agree with Takumi! We should definitely learn from others so we can be a better team. I'm just excited to see if the fuel receipts match what we thought!
+- [16] **May**: I'm curious if the diary will show that some of us are doing more of the "admin" work than others. It's not just about the driving.
+- [17] **Servas**: Indeed, the labor of coordination is a cost in itself, often invisible until it becomes a burden. We must account for the effort of the mind as well as the coin.
+- [18] **Takumi**: I just hope we can find a way to stop the arguing. If we find out what actually sours these things, we can avoid it.
+- [19] **Kenji**: I'll be the one to keep us positive! Once we have all the facts from the papers and the mechanic, we can just figure out a fair way to split everything.
+- [20] **Misaki**: I'm glad we're all on the same page. Let's just make sure we actually look at these things and don't forget any details before we try to decide on a new system.
+- [21] **May**: I'll be thorough. I want to know exactly how much of our free time is being eaten up by this car before we commit to another year.
+- [22] **Servas**: I shall approach my research with a steady hand and an open mind, seeking the truth that will allow us to move forward in harmony.
+- [23] **Takumi**: I'll do the same. I'm going to find out exactly what goes wrong for other people so we can make sure our new plan actually works.
+- [24] **Kenji**: I'm ready! Let's get these numbers sorted so we can stop guessing and start knowing. I can't wait to see what the fuel receipts tell us!
+## Round 2
+- [35] **Misaki**: It's worse than I thought. The car is often left dirty or with the fuel light on, and our weekly routine trips are the ones most likely to collapse.
+- [36] **May**: Recording every run is a nightmare; it took nearly an hour a week just to track everything. Plus, the diary shows we use the car way more on Saturdays than Tuesdays.
+- [37] **Servas**: The fixed costs are quite significant, totaling over 280,000 yen before fuel. However, I also found that when we tried checking each other's figures, it created a climate of accusation and apology.
+- [38] **Takumi**: Other households said the worst part is asking for favors or people clinging to turns they don't need. Also, those heavy-use weeks cost us whole evenings of trying to work around each other.
+- [39] **Kenji**: The fuel receipts are totally lopsided! Two of us paid for most of it, while one person barely paid anything. Also, the mechanic says short trips are killing the battery and brakes!
+- [40] **Misaki**: @Kenji, that explains why the car feels so worn out. If we're just doing short trips and leaving it empty, it's no wonder the system is breaking down.
+- [41] **May**: @Servas, if checking figures makes us feel accused, then May's "nightmare" of recording every run is just adding more stress. We need a system that doesn't feel like a chore or an interrogation.
+- [42] **Servas**: It seems we are caught between the need for precision and the need for peace. If the act of accounting poisons the friendship, perhaps we should seek a simpler path.
+- [43] **Takumi**: @Misaki, it sounds like the "favors" other people talked about are exactly what's happening with our weekly trips. We're relying on each other too much and it's making us grumpy.
+- [44] **Kenji**: Wait, if two people paid for almost all the fuel, that's not fair! But @Servas is right, we can't just start accusing each other or it'll get ugly. We need a way to be fair without fighting!
+- [45] **Misaki**: If we keep relying on favors for those weekly trips, they'll just keep collapsing. We need a way to guarantee the car is available and ready for the things we actually count on.
+- [46] **May**: I agree. If we spend our whole evening coordinating or an hour a week recording runs, we're losing too much. We need a system that minimizes the "admin" and the constant negotiating.
+- [47] **Servas**: We must consider that a system requiring constant vigilance may be as costly as the fuel itself. Perhaps a structure that provides certainty without the need for constant verification is the answer.
+- [48] **Takumi**: I think we should avoid anything that makes us feel like we're constantly asking for favors or policing each other. That's exactly what the other households said ruins the mood.
+- [49] **Kenji**: I just want to make sure the person who barely paid for fuel starts chipping in! But I don't want to be the "bad guy" who makes everyone feel accused.
+- [50] **Misaki**: We need a solution that ensures the car is clean and fueled for the next person, especially for those of us with fixed weekly commitments.
+- [51] **May**: Exactly. We need to stop the endless arranging and the tedious tracking. Whatever we choose should just work without us having to spend our whole evening talking about it.
+- [52] **Servas**: It is clear that the emotional cost of our current arrangement is as high as the financial one. We must find a balance that preserves our harmony while ensuring no one is unfairly burdened.
+- [53] **Takumi**: I agree. We need a system where we don't have to beg for turns or feel guilty for using the car, because that's what's actually souring our friendship.
+- [54] **Kenji**: I'm with you all! Let's find a way to be fair with the money and the fuel, but in a way that keeps us all happy and friends!
+## Round 3
+- [60] **Misaki**: Looking at the options, A seems best for my weekly trips, but C would be fairer for the fuel costs Kenji mentioned. I'm torn between certainty and fairness.
+- [61] **May**: I'm leaning towards A. A fixed monthly share and set days would completely kill the admin nightmare and the endless evening negotiations. No more recording runs or begging for turns.
+- [62] **Servas**: Option B would place a heavy burden on one person, and C requires the very recording that May found so tedious. I believe Option A offers the most tranquility and stability for our group.
+- [63] **Takumi**: I'm voting for A too. It stops the "asking for favors" problem that other households hated, and we won't have to police each other's figures, which Servas said makes us feel accused.
+- [64] **Kenji**: I want the fuel to be fair, so C sounds great, but if it makes everyone grumpy and stressed like May said, it's not worth it. I'll vote for A to keep us all friends!
+- [65] **Misaki**: I agree. While C is precise, the peace of mind and the guarantee for my weekly trips make A the most practical choice for everyone.
+- [66] **May**: It's settled then. No more spreadsheets, no more endless texting, and no more guilt. Let's just have our days and be done with the stress.
+- [67] **Servas**: A simple agreement is often the strongest bond. By choosing a path of predictability, we protect our friendship from the erosion of petty disputes.
+- [68] **Takumi**: I'm glad we're all agreeing. Let's go with A so we can stop worrying about who owes what and just enjoy being friends again.
+- [69] **Kenji**: I'm in! Let's go with Option A. As long as we all stick to it and keep the car ready for the next person, it'll be awesome!
+- [70] **Misaki**: I'll cast my vote for Option A. It's the only way to ensure my midweek mornings are predictable and stress-free.
+- [71] **May**: My vote is for Option A. I'm looking forward to getting my evenings back and ending the coordination chaos.
+- [72] **Servas**: I cast my vote for Option A. It is the most harmonious path, replacing the friction of accounting with the peace of a shared understanding.
+- [73] **Takumi**: I vote for Option A. Let's stop the favors and the grumpiness and just make it simple.
+- [74] **Kenji**: I vote for Option A! Let's keep things simple and keep our friendship first!
+- [75] **Misaki**: I'm glad we could reach a consensus so quickly. Let's make sure we set the schedule carefully so everyone's needs are met.
+- [76] **May**: I'll help organize the calendar. Let's just make sure we're all clear on our days so there's absolutely no need for any more evening-long debates!
+- [77] **Servas**: May, your enthusiasm for organization is a gift, provided it remains a service to our peace and not a new burden for us to carry.
+- [78] **Takumi**: I'm just happy we're not fighting anymore. Let's just stick to the plan and keep things easy for everyone.
+- [79] **Kenji**: I'll be the one to remind everyone to fill up the tank on their last day! Let's make this the best car-sharing team ever!
+### Vote
+- Misaki -> A
+- May -> A
+- Servas -> A
+- Takumi -> A
+- Kenji -> A
+## Result
+- adopted: A

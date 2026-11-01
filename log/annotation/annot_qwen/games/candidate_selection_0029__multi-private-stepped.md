@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about who will actually stand in the room when the lights go up.
+- [6] **Shion**: Staffing is a variable, not a constant. I prefer looking at the physical constraints first.
+- [7] **May**: Let’s not ignore the people who walk through the doors. Their voices matter most.
+- [8] **Misaki**: The floor has limits. I need to know what the structure can actually hold.
+- [9] **Sakura**: I always wonder where the money goes before the season even starts.
+- [10] **Shizue**: @Misaki, the floor is important, but the hands that build it are more fragile.
+- [11] **Shion**: Fragility is a risk we can price. I will check the conservation backlog.
+- [12] **May**: @Shion, pricing risk is good, but I want to hear what visitors actually said.
+- [13] **Misaki**: I will look at the structural survey and the maintenance logs for powered displays.
+- [14] **Sakura**: I’m going to check the loan transport costs and the mount-making charges.
+- [15] **Shizue**: I will look into the volunteer roster and the conservation lab staffing.
+- [16] **Shion**: Agreed. The lab backlog tells us where the real delays hide.
+- [17] **May**: I’ll take the visitor comment slips and the weekend head counts.
+- [18] **Misaki**: The maintenance log will show if the powered displays are failing quietly.
+- [19] **Sakura**: If I know the transport and mount costs, I can see the hidden leaks.
+- [20] **Shizue**: Thank you all. Let’s see what the numbers and the people tell us.
+- [21] **Shion**: The data will be cold, but it will be honest.
+- [22] **May**: I hope the comments are as honest as the data.
+- [23] **Misaki**: I just need to know if the room can survive the next season.
+- [24] **Sakura**: I just need to know if the budget can survive the next season.
+## Round 2
+- [35] **Shizue**: The volunteer list is mostly the town history circle, who already guide the monthly walks.
+- [36] **Shion**: @Shizue, that’s a small pool. I found the lab is down to one person with two hundred pieces waiting.
+- [37] **May**: @Shion, that’s a bottleneck. My data says people come back for the people, not the objects.
+- [38] **Misaki**: The bay is capped at four hundred kilos a square metre. The last stonework needed shoring.
+- [39] **Sakura**: I found the transport and mount costs are eating the budget before we even open.
+- [40] **Shizue**: @Misaki, if the bay is capped, we can’t hang the heavy pieces without extra support.
+- [41] **Shion**: @Sakura, the paperwork delays are the real killer. Two openings slipped because of late condition reports.
+- [42] **May**: @Shizue, the comment slips say the same thing. They want a guide, not a wall of text.
+- [43] **Misaki**: The maintenance log shows four call-outs in opening hours. The bay was roped off.
+- [44] **Sakura**: @Shion, if the paperwork slips, the transport costs balloon. I saw that in the invoices.
+- [45] **Shizue**: So we have one conservator, a capped bay, and a volunteer group that’s already busy.
+- [46] **Shion**: Exactly. The risk is in the delivery, not the design. I want to know where it breaks.
+- [47] **May**: The head counts say it breaks when the room is empty. I want a show that moves.
+- [48] **Misaki**: I want a show that doesn’t break the floor. The shoring cost was high.
+- [49] **Sakura**: I want a show that doesn’t break the bank. The joiner’s rate is the quiet killer.
+- [50] **Shizue**: We need to pick a show that fits the people we have, not the people we wish we had.
+- [51] **Shion**: Agreed. The data points to a smaller, more controlled exhibition.
+- [52] **May**: A smaller show with more presence. That’s what the visitors asked for.
+- [53] **Misaki**: A smaller show that the bay can hold. That’s what the structure can take.
+- [54] **Sakura**: A smaller show that the budget can afford. That’s what the invoices say.
+## Round 3
+- [60] **Shizue**: Option A feels right. The craftspeople are already in the community, and the volunteers can help guide them.
+- [61] **Shion**: @Shizue, A is low risk. No heavy loans, no complex rigging. The lab can handle the textiles.
+- [62] **May**: @Shion, A is exactly what the comment slips asked for. People want to see the makers, not just the objects.
+- [63] **Misaki**: @Shion, A is safe for the bay. No overhead rigging, no heavy stonework. The floor can take it.
+- [64] **Sakura**: @Shion, A is safe for the budget. No transport costs, no joiner’s fees. The invoices will be quiet.
+- [65] **Shizue**: Option B is tempting, but the conservation bench would be a distraction. The lab is already overwhelmed.
+- [66] **Shion**: @Shizue, B is a trap. The visible bench would expose the backlog. The paperwork for the finds is already late.
+- [67] **May**: @Shion, B is too static. The head counts drop when the room is just cased objects. I want movement.
+- [68] **Misaki**: @Shion, B is risky. The reconstructions are heavy. The bay might not hold the weight of the site models.
+- [69] **Sakura**: @Shion, B is expensive. The transport for the finds is already in the invoices. The joiner’s rate will spike.
+- [70] **Shizue**: Option C is beautiful, but the darkened zones and overhead rigging are a nightmare for the volunteers.
+- [71] **Shion**: @Shizue, C is a disaster. The maintenance log shows the powered displays fail. The rigging is a liability.
+- [72] **May**: @Shion, C is too cold. The comment slips say people want warmth, not darkness. The head counts drop in the dark.
+- [73] **Misaki**: @Shion, C is dangerous. The overhead rigging is exactly what the structural survey warned about. The bay is capped.
+- [74] **Sakura**: @Shion, C is a budget black hole. The artist studios charge for installation. The transport costs are unpredictable.
+- [75] **Shizue**: Option D is too far. The loans from partner collections mean more paperwork, more transport, more risk.
+- [76] **Shion**: @Shizue, D is the worst. The lender paperwork is the killer. The shipping cut-offs are already slipping.
+- [77] **May**: @Shion, D is too distant. The comment slips say people want local stories, not foreign routes. The head counts drop.
+- [78] **Misaki**: @Shion, D is too heavy. The ship models are dense. The bay will need shoring again. The floor will groan.
+- [79] **Sakura**: @Shion, D is too expensive. The transport costs for the loans are the biggest line item. The budget will break.
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

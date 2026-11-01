@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. I hope we can find a path that feels steady for our library and the community.
+- [6] **Jonathan**: Good morning. I’m here to listen carefully. Let’s see how these proposals fit into our existing rhythms.
+- [7] **Rin**: Hi! I think we should check if we already tried these ideas before. Why do we keep guessing instead of looking at old records?
+- [8] **Benjamin**: Rin, you’re right. Guessing is expensive. I’d rather audit the actual numbers than rely on optimistic projections.
+- [9] **Minako**: I agree with Rin. We must verify current staff capabilities before adding new duties. Let’s check the volunteer register and supervision training.
+- [10] **Shizue**: I worry about relying on external factors. Let’s examine the winter road closures north of the river to see how they affect access.
+- [11] **Jonathan**: I’d like to review the bus links in the two outer wards. Access patterns matter deeply to me.
+- [12] **Rin**: @Minako, checking volunteers is smart! But I really want to see the attendance sheets from former outreach stops. Did people actually show up last time?
+- [13] **Benjamin**: I’ll examine the county grant terms and the endowment. Understanding the funding structure is vital before we commit to anything.
+- [14] **Minako**: @Rin, attendance data is useful, but I need to confirm if our current roster has the specific skills required for these new roles.
+- [15] **Shizue**: @Rin, I agree. Let’s look at the attendance sheets from former outreach stops to see if people truly showed up.
+- [16] **Jonathan**: I’ll also look into the evening room bookings and remote catalogue use. It shows how people actually engage with us now.
+- [17] **Rin**: @Shizue, yes! I’ll check the attendance sheets. Also, I want to see the two programmes begun six years ago. Did they actually work?
+- [18] **Benjamin**: I’ll review the running and equipment lines from last year. If the baseline is shaky, the expansion is just a fancy way to fail.
+- [19] **Minako**: I will review the volunteer register and supervision training. We must ensure our staff possess the necessary skills before accepting new responsibilities.
+- [20] **Shizue**: I will look into the winter road closures north of the river and the attendance sheets from former outreach stops.
+- [21] **Jonathan**: I’ll review the bus links in the two outer wards and the evening room bookings and remote catalogue use.
+- [22] **Rin**: I’ll check the attendance sheets from former outreach stops and the two programmes begun six years ago.
+- [23] **Benjamin**: I’ll examine the county grant terms and the endowment, plus the running and equipment lines from last year.
+- [24] **Minako**: I will review the volunteer register and supervision training. We must confirm our staff actually possess the required skills before adding new duties.
+## Round 2
+- [35] **Shizue**: Good morning. The winter closures didn’t stop the halls, and outreach attendance was surprisingly strong. That gives me hope for steady access.
+- [36] **Jonathan**: The bus cuts are severe. Yet remote use peaks after nine, when we lock up. That mismatch worries me deeply.
+- [37] **Rin**: @Shizue, wait! The old outreach sheets show forty people showed up! And the evening groups from six years ago still meet! We have proof it works!
+- [38] **Benjamin**: The grant covers sessions for a year, then the flat budget absorbs them. Meanwhile, vehicle costs overran by a third. That’s a structural trap, not a temporary blip.
+- [39] **Minako**: @Rin, those unaided groups prove a gap. My register shows no staff trained to supervise outside facilitators. We cannot assume skills exist.
+- [40] **Shizue**: @Minako, I hear your caution. But those halls kept their own timetables despite the closures. That suggests the community can sustain these services independently, without relying on our fragile logistics.
+- [41] **Jonathan**: @Shizue, that independence is fragile. If we lock at nine, we miss the peak remote users. We must align hours with actual demand.
+- [42] **Rin**: @Minako, but the groups ran without us for six years! That proves the community handles it. We just need to stop ignoring the old records!
+- [43] **Benjamin**: @Rin, six years of luck isn’t a strategy. The grant expires, the flat budget absorbs the cost, and the vehicle overruns eat the rest. It’s a slow bleed.
+- [44] **Minako**: @Benjamin, the funding trap is real, but my data shows a skills deficit. We lack supervisors for outside facilitators. We cannot expand without training staff first.
+- [45] **Shizue**: @Benjamin, I understand the financial worry. But if the community sustains these services independently, we might avoid the very logistics that caused those overruns.
+- [46] **Jonathan**: @Benjamin, the financial risk is real, but the access gap is immediate. We cannot ignore the people stranded by the bus cuts.
+- [47] **Rin**: @Benjamin, but the records prove it works! Why do we keep guessing when the old sheets show forty people showed up?
+- [48] **Benjamin**: @Rin, forty attendees don’t pay for fuel. The grant is a one-year loan, not a gift. We need a model that survives the second year, not just the first.
+- [49] **Minako**: @Rin, attendance proves demand, not capability. My register confirms no staff are trained to supervise outside facilitators. We must address this skills gap before expanding.
+- [50] **Shizue**: @Minako, I appreciate your caution. Perhaps we can pair the community’s independence with a small, focused training pilot to bridge that gap gently.
+- [51] **Jonathan**: @Minako, I agree. But please consider extending hours first. The remote peak is now, not later.
+- [52] **Rin**: @Minako, the groups ran themselves for six years! That’s proof they don’t need us. Why are we ignoring the records that show it works?
+- [53] **Benjamin**: @Minako, training is vital, but it’s a line item, not a strategy. We need a funding model that doesn’t evaporate when the grant expires.
+- [54] **Minako**: @Rin, self-sustaining groups still require oversight. My data shows no staff trained to supervise outside facilitators. We must verify skills before adding duties.
+## Round 3
+- [60] **Shizue**: I find the Language Circles most promising. They rely on community partners, not fragile logistics, and build steady, human connections.
+- [61] **Jonathan**: The bus cuts strand people, yet remote use peaks after we lock up. Option D meets them where they are, without adding fragile logistics.
+- [62] **Rin**: @Benjamin, look at the records! The old outreach worked! Option A is basically that, but with a car. Why are we ignoring the proof?
+- [63] **Benjamin**: @Rin, a car is exactly the liability I flagged. Fuel costs overran by a third. Option D avoids that trap entirely.
+- [64] **Minako**: @Benjamin, Option D is a repeat of the failed digitisation project. We lack the trained staff to manage it properly. I oppose it.
+- [65] **Shizue**: @Minako, I understand your concern about staff. But the Language Circles use trained facilitators from partner organizations, so we don’t need to train our own team immediately.
+- [66] **Jonathan**: @Minako, the portal is remote, so it bypasses the physical access barriers I worry about. It serves the stranded without adding vehicle costs.
+- [67] **Rin**: @Minako, the old digitisation failed, but the evening groups succeeded! Option C is like those groups. We have proof it works without us!
+- [68] **Benjamin**: @Minako, the portal is a capital draw, not an operating one. It sidesteps the recurring grant trap I flagged. Option C’s recurring costs are the real risk.
+- [69] **Minako**: @Shizue, partner facilitators still require our supervision. My register shows no staff trained for that role. Option C creates the exact gap I warned about.
+- [70] **Shizue**: @Minako, I hear your worry. But the Language Circles lean on partners’ expertise, not our fragile logistics. It feels like a gentle, steady path forward.
+- [71] **Jonathan**: @Minako, the portal requires no physical supervision. It serves the stranded directly, respecting the access gaps I’ve identified.
+- [72] **Rin**: @Minako, the records prove the evening groups worked! Option C is exactly that. Why ignore the proof that it succeeds without us?
+- [73] **Benjamin**: @Minako, supervision is a recurring cost, not a capital one. Option D is a one-time draw on the endowment. It avoids the annual bleed I warned about.
+- [74] **Minako**: @Rin, the groups ran unaided, which is precisely the problem. My data confirms no staff are trained to supervise outside facilitators. Option C creates the exact gap I warned about.
+- [75] **Shizue**: @Minako, I understand your caution. Perhaps we can start with a small pilot, letting partners lead while we observe, to build trust gently before expanding.
+- [76] **Jonathan**: @Minako, I understand the supervision concern. But the portal is digital, requiring no physical oversight. It reaches the stranded without adding fragile logistics or recurring costs.
+- [77] **Rin**: @Minako, the records show the groups succeeded without us! Why do we keep ignoring the proof that it works?
+- [78] **Benjamin**: @Minako, supervision is a recurring line item. Option D is a one-time capital draw. It avoids the annual bleed I warned about.
+- [79] **Minako**: @Benjamin, a capital draw doesn't fix the skills deficit. Option D repeats the failed digitisation project. I cannot support it without verified staff capability.
+### Vote
+- Shizue -> C
+- Jonathan -> D
+- Rin -> C
+- Benjamin -> D
+- Minako -> B
+## Result
+- adopted: D

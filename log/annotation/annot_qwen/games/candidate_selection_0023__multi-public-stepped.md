@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to know if past projects actually worked for the people using them.
+- [6] **Victoria**: I am concerned about how long rooms stay out of service during construction.
+- [7] **Benjamin**: The calendar keeps slipping. I want to see why schedules fail.
+- [8] **Kenji**: I am worried the final costs never match the approved paper figures.
+- [9] **Shunichi**: The same few staff are carrying all the routine upkeep. It is unsustainable.
+- [10] **Mizuki**: @Victoria, do you have data on how long rooms are closed?
+- [11] **Victoria**: Yes, I am looking into the timetable records for rooms out of service.
+- [12] **Benjamin**: I will check the delivery schedules to see which projects slip.
+- [13] **Kenji**: I want to look at the tender records to see cost trends.
+- [14] **Shunichi**: I am checking the staffing posts to see who is left holding the bag.
+- [15] **Mizuki**: I will look at the post-occupancy review ratings to see what users think.
+- [16] **Victoria**: I also want to see the booking data to understand actual usage.
+- [17] **Benjamin**: I will also check the weather days in the site diaries.
+- [18] **Kenji**: I will also look at the renewal reserve for equipment bought earlier.
+- [19] **Shunichi**: I will also check the bench technicians' weekly manual routines.
+- [20] **Mizuki**: It is important to see if the space is actually used after opening.
+- [21] **Victoria**: Agreed. Usage data will tell us if the investment was worth it.
+- [22] **Benjamin**: Weather delays are a major factor in schedule slippage.
+- [23] **Kenji**: If we do not reserve for renewal, the costs will explode later.
+- [24] **Shunichi**: If the technicians are doing manual work, the equipment is failing.
+## Round 2
+- [35] **Mizuki**: The data shows general rooms are always full, but specialist ones are idle.
+- [36] **Victoria**: @Mizuki, that confirms my suspicion. We are building the wrong things.
+- [37] **Benjamin**: My findings show comfort projects slip, but safety ones do not.
+- [38] **Kenji**: I found that mechanical costs are rising, but we have no reserve for old AV gear.
+- [39] **Shunichi**: I found that technicians are doing manual checks because the extraction is broken.
+- [40] **Mizuki**: So, a general-purpose space would be used, but a specialist one would not.
+- [41] **Victoria**: Exactly. The booking data is clear. We need general space, not niche labs.
+- [42] **Benjamin**: If we choose a project for comfort, it will likely be late.
+- [43] **Kenji**: @Benjamin, that is worrying. But the cost of ventilation is also rising.
+- [44] **Shunichi**: The ventilation upgrade is urgent because the current system is failing.
+- [45] **Mizuki**: But if the ventilation upgrade is for a single wing, it might not be used well.
+- [46] **Victoria**: @Mizuki, that is a risk. But the safety issue is critical.
+- [47] **Benjamin**: The weather data suggests outdoor work is risky. Indoor work is safer for schedules.
+- [48] **Kenji**: The lack of a renewal reserve means we will pay more later for any equipment.
+- [49] **Shunichi**: The staffing data shows we have no one to maintain new complex systems.
+- [50] **Mizuki**: I am leaning towards a general space that everyone can use.
+- [51] **Victoria**: I agree. The booking data supports a general-purpose solution.
+- [52] **Benjamin**: I am concerned about the schedule, but indoor work is better.
+- [53] **Kenji**: I am worried about the long-term costs, but we must act now.
+- [54] **Shunichi**: I am worried about the maintenance burden, but the current system is failing.
+## Round 3
+- [60] **Mizuki**: Option A fits the booking data perfectly. General space is what is needed.
+- [61] **Victoria**: @Mizuki, yes. Option A is a conversion, so it should be faster and cheaper.
+- [62] **Benjamin**: Option A is indoor work, so it avoids the weather delays I found.
+- [63] **Kenji**: Option A has less complex equipment, so the renewal reserve issue is smaller.
+- [64] **Shunichi**: Option A is simpler to maintain than a new lab or media center.
+- [65] **Mizuki**: Option B is a specialist space. The data says those are idle.
+- [66] **Victoria**: Agreed. Option B would likely be underused based on the booking trends.
+- [67] **Benjamin**: Option B is also indoor, but the demand is not there.
+- [68] **Kenji**: Option B has expensive AV gear, which we have no reserve for.
+- [69] **Shunichi**: Option B would require more technical staff, which we do not have.
+- [70] **Mizuki**: Option C is outdoor work. The weather data says that is risky.
+- [71] **Victoria**: @Mizuki, correct. Option C would likely be delayed by rain and frost.
+- [72] **Benjamin**: Option C is also a comfort project, which tends to slip.
+- [73] **Kenji**: Option C has lower mechanical costs, but the schedule risk is high.
+- [74] **Shunichi**: Option C requires grounds staff, which are unfilled due to the hiring freeze.
+- [75] **Mizuki**: Option D is urgent, but it is for a single wing. The reviews say those are least liked.
+- [76] **Victoria**: @Mizuki, that is a valid point. But the safety issue is real.
+- [77] **Benjamin**: Option D is indoor, but it is a complex mechanical job. Costs are rising.
+- [78] **Kenji**: Option D has the highest mechanical cost increase. And no reserve for the old gear.
+- [79] **Shunichi**: Option D would require the technicians to do even more manual work if the new system fails.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> A
+## Result
+- adopted: A

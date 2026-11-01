@@ -1,0 +1,73 @@
+# candidate_selection_0019__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m worried the budget vanishes into hidden costs. I want to see where the money actually goes.
+- [6] **Victoria**: We keep planning for staff who aren’t here. I need to know who is actually doing the work.
+- [7] **Shion**: The shows we loved on paper didn’t bring people back. I want to check the visitor records.
+- [8] **Asuka**: The building has limits. I need to know what the floor and rigging can actually handle.
+- [9] **Shizue**: We always get caught out by delivery delays. I want to see where past seasons failed.
+- [10] **Mio**: @Victoria, that’s a real fear. If the staff is stretched, the costs will spike too.
+- [11] **Victoria**: @Mio, exactly. If we don’t know who’s working, we can’t plan the budget or the schedule.
+- [12] **Shion**: @Asuka, structural limits are hard facts. I’ll focus on what visitors actually remember.
+- [13] **Asuka**: @Shion, memory is nice, but a collapsed bay is not. I’ll check the physical constraints.
+- [14] **Shizue**: @Shion, I agree. Let’s look at the paperwork and the transport costs to see the real friction.
+- [15] **Mio**: I’ll look at the loan transport costs and the mount-making charges.
+- [16] **Victoria**: I’ll check the conservation lab staffing and the volunteer roster composition.
+- [17] **Shion**: I’ll review the weekend head counts and the visitor comment slips.
+- [18] **Asuka**: I’ll examine the structural survey of the suspended bay and the maintenance log.
+- [19] **Shizue**: I’ll look at the lender paperwork and the evening hire bookings.
+- [20] **Mio**: I’m ready to see where the money is hiding.
+- [21] **Victoria**: I hope the staff data is clear.
+- [22] **Shion**: The data will tell the truth about attendance.
+- [23] **Asuka**: The building’s limits are non-negotiable.
+- [24] **Shizue**: Let’s see where the delays actually happened.
+## Round 2
+- [35] **Mio**: @Victoria, my data shows transport and mounts eat a third of the budget. It’s scary.
+- [36] **Victoria**: @Mio, that’s high. My staffing data is worse. The lab is down to one person.
+- [37] **Shion**: @Mio, costs are one thing. My head counts show people only return if something moves.
+- [38] **Asuka**: @Shion, movement is dangerous. My survey says the bay can’t hold heavy stonework.
+- [39] **Shizue**: @Asuka, I agree. My paperwork check shows two recent openings slipped due to late docs.
+- [40] **Mio**: @Shizue, late docs mean late payments. That’s why the budget feels like it’s leaking.
+- [41] **Victoria**: @Mio, if the lab is backed up, we can’t even clean the objects we have.
+- [42] **Shion**: @Victoria, a clean object in an empty room is still an empty room. I need presence.
+- [43] **Asuka**: @Shion, presence is fine, but if the rigging fails, there’s no room at all.
+- [44] **Shizue**: @Asuka, the evening hires also damage open displays. We need something secure.
+- [45] **Mio**: @Shion, if we pick something with local craftspeople, the transport costs drop to zero.
+- [46] **Victoria**: @Mio, that’s smart. Local means no shipping, and the volunteers can help with the demos.
+- [47] **Shion**: @Victoria, local craftspeople are exactly the "presence" my comment slips mention.
+- [48] **Asuka**: @Shion, local textiles are light. They won’t break the bay’s weight limit.
+- [49] **Shizue**: @Asuka, and no distant lenders means no paperwork delays. It’s the safest path.
+- [50] **Mio**: I’m leaning towards the local textiles. It saves money and uses our people.
+- [51] **Victoria**: I agree. The volunteer roster is full of town history folks who can guide the demos.
+- [52] **Shion**: The data supports it. People come back for the people, not just the objects.
+- [53] **Asuka**: It fits the structural limits. No heavy rigging needed.
+- [54] **Shizue**: It avoids the delivery traps. I’m comfortable with this choice.
+## Round 3
+- [60] **Mio**: @All, the candidates are here. A is local textiles. B is kinetic art. C is maritime. D is excavation.
+- [61] **Victoria**: @Mio, B needs powered displays. My maintenance log shows those break constantly.
+- [62] **Shion**: @Victoria, B has motion, which my data likes. But C and D are static.
+- [63] **Asuka**: @Shion, C needs heavy stonework. My survey says the bay can’t take it.
+- [64] **Shizue**: @Asuka, C also relies on distant loans. My paperwork check shows those always slip.
+- [65] **Mio**: @Shizue, A is local. No transport costs. My budget data says it’s the only one that fits.
+- [66] **Victoria**: @Mio, A uses the volunteer roster. They are already there and ready to help.
+- [67] **Shion**: @Victoria, A has craftspeople present. That matches the "second trip" reason in my slips.
+- [68] **Asuka**: @Shion, A is light. It doesn’t stress the suspended bay. It’s safe.
+- [69] **Shizue**: @Asuka, A has no external lenders. No shipping cut-offs. No delays.
+- [70] **Mio**: @All, A is the only one that respects the budget, the staff, and the building.
+- [71] **Victoria**: I agree. B is too risky for the maintenance team. C is too heavy.
+- [72] **Shion**: I concur. A offers the presence we need without the structural risk.
+- [73] **Asuka**: A is the logical choice. It fits the physical and operational constraints.
+- [74] **Shizue**: A is the safe choice. It avoids the delivery and paperwork pitfalls.
+- [75] **Mio**: I vote for A. It’s the only one that makes sense for us.
+- [76] **Victoria**: I vote for A. It uses our people and avoids the broken displays.
+- [77] **Shion**: I vote for A. It brings the people back, which is what matters.
+- [78] **Asuka**: I vote for A. It respects the building’s limits.
+- [79] **Shizue**: I vote for A. It’s the most reliable option.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

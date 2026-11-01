@@ -1,0 +1,73 @@
+# candidate_selection_0015__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: I worry about external dependencies. We need to check what we can actually control.
+- [6] **Yumi**: I’m excited to see how this helps our neighbors. Who can we reach?
+- [7] **George**: I’ve seen budgets look fine now and fail later. We must check the funding shape.
+- [8] **May**: We always judge new ideas by their sound. I want to see the old records.
+- [9] **Daisuke**: I’m a bit nervous. I just want to make sure we don’t overwork the staff.
+- [10] **Ryuji**: Agreed. We should look at past timetables and supplier reliability.
+- [11] **Yumi**: I’d like to check the bus links and where our buildings sit.
+- [12] **George**: I’ll look into the grant terms and the running costs from last year.
+- [13] **May**: I want to see the attendance sheets and the two old programmes.
+- [14] **Daisuke**: I think we should check the volunteer register and the evening bookings.
+- [15] **Ryuji**: Yes, those seem like the right starting points for us.
+- [16] **Yumi**: Thanks, everyone. I’m glad we’re all thinking about the community.
+- [17] **George**: It is important to be thorough. I will review the financial documents.
+- [18] **May**: I hope the data tells the truth this time.
+- [19] **Daisuke**: Okay. I will try to look into those things carefully.
+- [20] **Ryuji**: Let’s proceed with the investigation.
+- [21] **Yumi**: I can’t wait to see what we find!
+- [22] **George**: I will be back with my findings shortly.
+- [23] **May**: Let’s see if the past predicts the future.
+- [24] **Daisuke**: I’ll do my best to understand the staff situation.
+## Round 2
+- [35] **Ryuji**: The scanning contractors slip when big clients book. But the halls kept running despite road closures.
+- [36] **Yumi**: The bus links are gone in the outer wards. People can't reach us easily.
+- [37] **George**: The grant only covers fees for a year. Then the flat budget takes over. That is a trap.
+- [38] **May**: The old outreach stops had forty visitors a session. The digitisation project failed, but the evening groups still work.
+- [39] **Daisuke**: I found that no one is trained to supervise outside facilitators. Also, remote use peaks after we lock up.
+- [40] **Ryuji**: So, relying on external suppliers is risky. But community-led efforts seem more resilient.
+- [41] **Yumi**: If we can't reach the outer wards, a mobile service might be the only way.
+- [42] **George**: I agree with Ryuji. We need a model that doesn't depend on one-off grants.
+- [43] **May**: The evening groups prove that community coordination works. We should look at that model.
+- [44] **Daisuke**: If we hire outside facilitators, we need training. Or we need to use the volunteers we have.
+- [45] **Ryuji**: The mobile service could bypass the road closures if it uses different routes or timing.
+- [46] **Yumi**: Yes! A mobile branch could go to the wards where the buses stopped running.
+- [47] **George**: But the vehicle running costs overran last year. We need to be careful with that.
+- [48] **May**: The mobile service is like the outreach stops. It has a track record of high attendance.
+- [49] **Daisuke**: I’m worried about the staff workload for a mobile service. Who will drive and manage it?
+- [50] **Ryuji**: We need to weigh the risks. The mobile service has high demand but high operational risk.
+- [51] **Yumi**: I really hope we can make it work for the outer wards.
+- [52] **George**: I will support a proposal that addresses the funding gap and the staffing issue.
+- [53] **May**: I think the mobile service is the strongest candidate based on the data.
+- [54] **Daisuke**: I’m still unsure about the staffing, but I see the need.
+## Round 3
+- [60] **Ryuji**: Option D addresses the access issue. But the vehicle costs are a concern.
+- [61] **Yumi**: Option D is perfect for the outer wards! It solves the bus problem.
+- [62] **George**: Option D has high running costs. Option A relies on grants that expire. Option B failed before.
+- [63] **May**: Option D is the only one with proven high attendance in the outer wards.
+- [64] **Daisuke**: Option D requires staff. Option A needs facilitators. Option C needs tool certification.
+- [65] **Ryuji**: I am leaning towards D, but we must manage the vehicle budget carefully.
+- [66] **Yumi**: I am definitely voting for D. It helps the people who need us most.
+- [67] **George**: I am concerned about the long-term funding for D. But it is the most viable.
+- [68] **May**: I am voting for D. The data supports it.
+- [69] **Daisuke**: I am worried about the staff, but I think D is the best fit for the community.
+- [70] **Ryuji**: Let’s vote. I think D is the most logical choice despite the risks.
+- [71] **Yumi**: Yes, let’s vote for D!
+- [72] **George**: I will vote for D, but we need to monitor the costs closely.
+- [73] **May**: I am confident in D.
+- [74] **Daisuke**: I will vote for D, hoping we can manage the staffing.
+- [75] **Ryuji**: Final thoughts: D is the best option for reach and resilience.
+- [76] **Yumi**: I’m so happy we’re choosing D!
+- [77] **George**: It is a difficult choice, but D is the most responsible.
+- [78] **May**: The past tells us D works.
+- [79] **Daisuke**: I hope we can make it work for everyone.
+### Vote
+- Ryuji -> D
+- Yumi -> D
+- George -> D
+- May -> D
+- Daisuke -> D
+## Result
+- adopted: D

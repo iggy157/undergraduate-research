@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: We should be careful about how we allocate these spaces to avoid any future friction. I'll look into the five years of association minutes and last year's complaint log entries.
+- [6] **Shizue**: I want to make sure everyone feels cared for and happy with the arrangement. I'll look into the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [7] **May**: I'm curious about the money side of things! I'll check the building account's two-year ledger and the treasurer's handover file on cash collections.
+- [8] **George**: I want to understand the actual workload involved in managing this. I'll look into the sticker register and the daily riders, as well as the account from the neighbouring block's secretary.
+- [9] **Mio**: I want to see if the complaints about the same people getting the best spots are actually true! I'll check the sticker register and the daily riders, and the five years of association minutes.
+- [11] **Shizue**: I think it's wonderful that we're all taking such a thorough approach. I'm looking forward to seeing what we discover together.
+- [12] **May**: I'm just hoping to find some actual numbers for once! It's always "how much will it cost?" but nobody ever knows. Let's see if the ledger actually tells us anything useful.
+- [13] **George**: I agree that numbers are important, May, but the practical side of maintenance is just as critical. We must ensure the system we choose is actually sustainable for whoever manages it.
+- [14] **Mio**: I'm just so curious to see if there's a pattern! If the same people always get the best spots, we definitely need to shake things up and make it more exciting for everyone!
+- [15] **Misaki**: I agree that patterns are important, Mio, but we should be careful not to create a system that encourages resentment. Let's see what the records actually show before we decide to shake things up.
+- [16] **Shizue**: It's so lovely to see everyone so passionate about this. Let's just remember to be kind to one another as we find our way to a solution that makes everyone smile.
+- [17] **May**: Kindness is great, Shizue, but a little bit of transparency about the budget wouldn't hurt either! I'll be the one to finally uncover where the money is actually going.
+- [18] **George**: Transparency is a fine goal, May, but let's not forget that a transparent system can still fail if it's too burdensome to maintain. I'm more concerned with the long-term effort required.
+- [19] **Mio**: I totally get that, George! But if we're too worried about the work, we might just leave things as they are, and that's no fun! I want to make sure it's fair for everyone!
+- [20] **Misaki**: I believe we have a good balance of perspectives. I'll stick with the minutes and the complaint logs to see how past conflicts were handled.
+- [22] **Shizue**: I will stick with the morning departures and the rain exposure. I hope we can find a way to make the mornings a bit more peaceful for everyone.
+- [24] **May**: I'll stick with the ledger and the handover file. I'm determined to find out the real costs and what people are actually paying!
+- [26] **George**: I will stick with the sticker register and the neighboring block's account. I want to see how other buildings handle the actual labor of administration.
+- [28] **Mio**: I'll stick with the sticker register and the association minutes! I can't wait to find out if those rumors about the "lucky" spots are actually true!
+## Round 2
+- [40] **Misaki**: The minutes show that the covered spots have been held by the same flats for years without any review. Also, the complaint log shows several issues with bikes leaning on each other that were never resolved.
+- [41] **Shizue**: It seems my worries were right. I noticed that some of our neighbors have to move other bikes just to leave in the morning, and some poor bicycles are left out in the rain.
+- [42] **May**: Well, as I suspected, the ledger is practically empty! It only covers cleaning and lighting. If we want any real improvements, we're looking at a levy on every household. No one's been tracking the big picture!
+- [43] **George**: The sticker register shows a wide range of usage, and some daily riders are actually willing to pay for priority. However, the neighboring block's experience warns us that monthly charges can lead to arrears and social friction.
+- [44] **Mio**: Wow, the rumors were true! The minutes show the same flats have had the covered spots for five whole years without a single review. That's totally unfair! We definitely need to change things up!
+- [45] **Misaki**: @Mio, while it may seem unfair, we should be cautious. The complaint log shows that when issues aren't tied to a specific person, they just linger. We don't want a system that creates new, invisible tensions.
+- [46] **Shizue**: I agree with Misaki. It would be so sad if we tried to help but accidentally made people feel uneasy. Perhaps we can find a way to share the dry spots so everyone feels looked after?
+- [47] **May**: @Shizue, sharing is sweet, but who's paying for the upkeep? The handover file shows the treasurer is already spending hours on tiny cash collections. Adding more complex billing would be a total nightmare for them!
+- [48] **George**: @May, you've hit on my main concern. If the treasurer is already struggling with small amounts, a complex payment system will either collapse or burn someone out. We need a solution that is simple to administer.
+- [49] **Mio**: @George, I totally agree that we shouldn't make the treasurer's life a nightmare! But we can't just ignore that some people have been lucky for five years while others are stuck in the rain! That's just not right!
+- [50] **Misaki**: If we prioritize "fairness" by forcing a change, we might just replace one kind of resentment with another. We need a method that doesn't turn neighbors into rivals or make them avoid each other in the lobby.
+- [51] **Shizue**: I understand your concern, Misaki. It's so important to keep the peace. But I did see some of our dear neighbors struggling to move other bikes just to get out in the morning. It looked quite stressful for them.
+- [52] **May**: Stressful mornings are a tragedy, Shizue, but a financial disaster is worse! If we implement a fancy new system, we can't just wish the money into existence. We'll either need a levy or a very simple payment plan.
+- [53] **George**: If we introduce a payment plan to fund improvements or prioritize spots, we must consider the social cost. The neighboring block saw residents stop attending meetings over arrears. We cannot afford to alienate our neighbors over a few coins.
+- [54] **Mio**: @George, I hear you, but isn't it already alienating people if they feel the system is rigged? If we just keep things as they are, the people in the rain will just keep grumbling! We need something fresh!
+- [55] **Misaki**: We must be careful not to mistake "freshness" for a solution. If we implement a system that feels like a penalty or a competition, we risk damaging the quiet harmony we currently have in the building.
+- [56] **Shizue**: I agree, Misaki. Harmony is a precious thing. But I worry that the current "quiet" is just people hiding their frustration. If we can make the morning departures a bit more gentle, everyone will be happier.
+- [57] **May**: Gentle mornings are all well and good, but let's be real: the current "harmony" is just a lack of bookkeeping! If we want a system that actually works, we need to stop pretending the budget is a mystery.
+- [59] **George**: I believe we are all seeing different pieces of the same puzzle. Whether it is the budget, the rain, or the long-term holders, the common thread is that any new system must be effortless to maintain.
+- [60] **Mio**: Exactly! Effortless is great, but it has to be fair too! We can't just let the same people keep the best spots forever just because it's "easy." Let's find a way to be fair and simple!
+- Mio:
+## Round 3
+- [67] **Misaki**: Option A seems risky. George mentioned that monthly charges in other buildings led to arrears and social friction, which is exactly the kind of tension I want to avoid.
+- [68] **Shizue**: Option B sounds like a lovely way to share, but I worry it might make the morning rush even more crowded. I'm afraid we might see more of those stressful shoving matches.
+- [69] **May**: Option B is a dream for the treasurer! No billing, no chasing people for coins, and no bookkeeping nightmares. It's the only one that doesn't add to the administrative mess.
+- [70] **George**: I agree with May. Option B is the only choice that doesn't create a permanent administrative burden. Option A is a recipe for conflict and arrears, and Option C requires a yearly reorganization that will eventually be neglected.
+- [71] **Mio**: Option B sounds like a great way to stop the "lucky" spots from being held forever! But wait, if everyone just parks anywhere, will the bikes still be leaning on each other like Misaki mentioned?
+- [72] **Misaki**: @Mio, that is a valid concern. If we move to open racks without clear ownership, the leaning issues might continue, but this time without any way to identify who is responsible, potentially increasing the frustration.
+- [73] **Shizue**: I agree with Misaki. If we don't have a gentle way to manage the spaces, I worry that the bikes will just end up pushed together, and some of our neighbors' lovely bicycles might get scratched.
+- [74] **May**: @Shizue, a few scratches are a small price to pay for not having a financial meltdown! Option A is out of the question—we can't afford the social or administrative cost of chasing payments.
+- [75] **George**: @Shizue, while scratches are unfortunate, they are a physical problem we can solve with better racks. The administrative collapse of a payment system or a neglected lottery is a systemic problem that is much harder to fix.
+- [76] **Mio**: @George, you're right about the system! But if we go with Option B, we have to make sure the racks are actually good. I just want everyone to feel like they have a fair shot at a dry spot!
+- [77] **Misaki**: Option C is also problematic. A lottery might seem fair, but it creates a yearly cycle of winners and losers, which could lead to resentment and awkwardness in the lobby when the results are announced.
+- [78] **Shizue**: I understand, Misaki. A lottery can feel like a game of chance, and it would be so sad if some neighbors felt unlucky for a whole year. But I still worry that Option B might lead to more shoving in the mornings.
+- [79] **May**: @Shizue, let's be honest, a little morning energy is better than a bookkeeping disaster! Option B is the only one that doesn't turn our treasurer into a debt collector. It's clean, simple, and totally free!
+- [80] **George**: @May, exactly. Option B removes the human element of policing payments or managing a list. It is the only sustainable path that doesn't rely on one person's endless patience or a rigid schedule that will eventually be ignored.
+- [81] **Mio**: @Misaki, if Option C just makes people feel unlucky, then Option B is way better! It's like a fresh start every day! As long as we get those double-tier racks George mentioned, it should be fair and exciting!
+- [82] **Misaki**: I agree that Option B is the most stable choice. While the leaning issues might persist, it avoids the financial friction of A and the yearly resentment of C. I'll vote for Option B.
+- [83] **Shizue**: I still have a little worry about the morning rush, but if we all agree to be gentle with one another, Option B could be a wonderful way to share. I'll vote for Option B.
+- [84] **May**: I'm absolutely voting for B! It's the only option that doesn't turn our building into a bank or a casino. Let's keep it simple, free, and stress-free for the treasurer!
+- [85] **George**: I have no reason to disagree. Option B is the only one that ensures the system won't collapse the moment someone gets tired of the paperwork. I'll vote for Option B.
+- [86] **Mio**: I'm totally on board! Option B is the perfect way to shake things up and make sure nobody is stuck in the rain forever. It's fair, simple, and exciting! I vote for Option B!
+### Vote
+- Misaki -> B
+- Shizue -> B
+- May -> B
+- George -> B
+- Mio -> B
+## Result
+- adopted: B

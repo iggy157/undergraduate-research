@@ -1,0 +1,73 @@
+# shared_living_0026__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! Let's make sure we don't just guess the fees this year. We need real data so we know exactly what we can count on. What do you all think we should check first?
+- [6] **Jonathan**: I agree, Mio. A thoughtful approach is best. I think we should look into the attendance patterns to see how people are actually using the club before we decide on the costs.
+- [7] **Takumi**: I'm with Jonathan. We can't just set a flat fee if some people are here every day and others barely show up. We need to see who's actually using the club.
+- [8] **Toshio**: I agree that data is essential. However, we should also consider the administrative effort required to manage the fees. We need to ensure the system is sustainable for whoever handles the books.
+- [9] **Kenji**: I think we should definitely keep it easy for new people to join too! Let's make sure we look at how people get started so nobody feels left out. What do you guys think?
+- [10] **Mio**: That's a great point, Kenji! But to avoid guesswork, we really need to see the actual money flow. I suggest we split up the research so we cover finances, admin work, and attendance all at once.
+- [11] **Jonathan**: That sounds like a very balanced plan, Mio. Dividing the tasks will allow us to be thorough without overwhelming any one person. I am happy to help gather the data on member attendance.
+- [12] **Takumi**: I'll take the lead on the attendance side too. I want to know exactly who is doing the heavy lifting and who is just coasting. Let's get the real numbers on the table.
+- [13] **Toshio**: If we are dividing the research, I will focus on the administrative side. I want to understand the actual time commitment involved in managing the accounts to avoid overloading the next treasurer.
+- [14] **Kenji**: That sounds like a plan! I'll help out by looking into how the new members are doing. I want to make sure we don't make it too scary for them to join!
+- [15] **Mio**: Since we're splitting things up, I'll handle the financial side! I want to see exactly what we spent and what actually came in last year so we have a solid foundation.
+- [16] **Jonathan**: I will look into the tally of the sign-in sheets and the weekday turnout since the summer outings. I believe understanding the current rhythm of our attendance is key.
+- [17] **Takumi**: I'll check the rota against the attendance record and the outgoing treasurer's logged hours. I want to see who's actually working and who's just taking up space.
+- [18] **Toshio**: I will examine the outgoing treasurer's logged hours and the bank statements on last year's renewals. I want to see the actual time spent and the complexity of the payment process.
+- [19] **Kenji**: I'll check the sign-up records for mid-year joiners and the taster evening forms from non-joiners! I want to see why some people decide to join and what might stop others.
+- [20] **Mio**: Sounds like we've got it covered! I'll take the last year's ledger of outgoings and the bank statements on last year's renewals. Let's get to it so we can stop guessing!
+- [21] **Jonathan**: I am content with these choices. I will proceed with the sign-in sheets and the weekday turnout. I look forward to seeing what we all discover.
+- [22] **Takumi**: I'm set. I'll stick with the rota against the attendance record and the treasurer's hours. Let's find out the truth about who's actually contributing. See you all soon.
+- [23] **Toshio**: I will proceed with the outgoing treasurer's logged hours and the bank statements on last year's renewals. I believe these will reveal the true cost of administration. I will see you all in the next round.
+- [24] **Kenji**: I'm all set too! I'll dive into the mid-year sign-ups and the taster forms. I can't wait to see what we find out! See you guys later!
+## Round 2
+- [35] **Mio**: Wow, the data is eye-opening! It turns out most of our costs are fixed, like hall hire and insurance. We have to cover those regardless of attendance, so we really need a predictable income stream.
+- [36] **Jonathan**: It is interesting that costs are fixed, but we must be careful. I noticed that when we introduced door charges for outings, weekday attendance dropped significantly and never recovered. People seem to hesitate more now.
+- [37] **Takumi**: It's not just about the money. I found that the same nine people are doing all the setup and locking up. It's totally unfair that a few people carry the whole club while others just show up.
+- [38] **Toshio**: The administrative burden is far higher than I suspected. Chasing small, individual payments takes six times longer than a yearly collection. We cannot afford a system that creates this much unpaid labor for the treasurer.
+- [39] **Kenji**: I found something really important! A lot of people who came to taster evenings didn't join because they didn't want to pay for a whole year at once. Even mid-year joiners needed special calculations to feel okay joining.
+- [40] **Mio**: @Toshio, @Kenji, I see the problem. We need a stable way to cover those fixed costs, but chasing people is a nightmare and scary for newcomers. How can we make it predictable without being too rigid?
+- [41] **Jonathan**: @Mio, I believe we should avoid any system that requires members to pay per visit. If people have to weigh the cost every time they consider coming, they may simply stop attending.
+- [42] **Takumi**: @Jonathan, I get that, but we can't just ignore the imbalance. If the same few people are doing all the work and paying the same as ghosts, it's just wrong. We need a way to reward the regulars.
+- [43] **Toshio**: @Takumi, rewarding regulars is a fair goal, but not if it complicates the bookkeeping. If we implement a complex tiered system, we risk burning out the next treasurer with endless calculations and chasing small sums.
+- [44] **Kenji**: @Toshio, I understand the treasurer's work is hard, but if we make it too strict, we'll lose new friends! We need a way to let people drift in without feeling pressured by a huge bill.
+- [45] **Mio**: @Kenji, @Toshio, what if we have a base fee for the fixed costs and then something simpler for the rest? We can't keep guessing, but we can't make the treasurer's life a nightmare either!
+- [46] **Jonathan**: @Mio, a base fee is a gentle solution. As long as it is a one-time payment, it removes the psychological barrier of a per-visit cost, allowing members to feel they truly belong without hesitation.
+- [47] **Takumi**: @Mio, a base fee is fine, but it doesn't fix the unfairness. If we just have one fee, the people doing all the work still get the short end of the stick. We need a real incentive for the regulars.
+- [48] **Toshio**: @Takumi, incentives are useless if the system collapses because no one wants to be treasurer. Any "reward" that requires tracking individual attendance or hours will only increase the administrative burden we must avoid. Simple is sustainable.
+- [49] **Kenji**: @Takumi, I get that it feels unfair, but if we make it too complicated, it might feel like a club for "insiders" only. Let's find a way to be fair that doesn't scare people away!
+- [50] **Mio**: @Toshio, @Takumi, I hear you both! We need to cover those fixed costs reliably, but we can't kill the treasurer or alienate new members. Let's see the options and find a balance that's stable and simple!
+- [51] **Jonathan**: I hope the options provide a way to maintain the club's welcoming spirit. It is vital that we prioritize a sense of belonging over a strict accounting of every visit.
+- [52] **Takumi**: I'm not letting this go. Belonging is great, but it shouldn't be built on the backs of nine people. If the options don't address the imbalance of work and use, they aren't fair.
+- [53] **Toshio**: @Takumi, fairness is not just about who uses the club, but also about who manages it. A system that is "fair" to members but impossible to administer is a failure. I will vote for the simplest option.
+- [54] **Kenji**: I hope we can find a way to keep things friendly! Let's look at the options and pick one that lets everyone feel welcome, whether they're new or have been here forever!
+## Round 3
+- [60] **Mio**: Looking at the options, Option A is the most stable for our fixed costs. It ensures we have the money for the hall and insurance upfront without any guesswork or chasing people all year!
+- [61] **Jonathan**: I agree with Mio. Option A is the most serene choice. It removes the hesitation of per-event costs, ensuring that members feel they belong without having to weigh the price of attending each evening.
+- [62] **Takumi**: Option A is just ignoring the problem. It's the same old system where the regulars do all the work and the ghosts get a free ride. We need something like Option B to actually recognize different levels of use.
+- [63] **Toshio**: Option B still requires the treasurer to track which member belongs to which tier and manage different payment amounts. Option A is the only choice that truly minimizes the administrative burden and prevents burnout.
+- [64] **Kenji**: @Takumi, I see your point, but Option B feels like it creates "ranks" of members. That might make newcomers feel like they don't belong unless they're "top tier." Option A is simpler and friendlier for everyone!
+- [65] **Mio**: @Takumi, I understand you want fairness, but Option B could be a nightmare for the treasurer and might lead to more payment delays. Option A gives us the financial certainty we desperately need to keep the club running!
+- [66] **Jonathan**: @Takumi, while I understand your desire for fairness, we must consider the psychological cost. Option C would be the most damaging, as it forces a decision every time someone considers joining us. Option A preserves the peace.
+- [67] **Takumi**: @Jonathan, peace isn't the same as fairness. If we just stick with Option A, we're telling the people who actually run this club that their effort doesn't matter. Option B is a fair compromise.
+- [68] **Toshio**: @Takumi, your definition of fairness ignores the treasurer. Option B creates more categories to track and more potential for errors. Option A is the only sustainable path that ensures the role remains fillable.
+- [69] **Kenji**: @Toshio, @Mio, you're right about the stress! And @Takumi, I really don't want anyone feeling ignored. But Option C is too scary for new people, and Option B feels like a club for "insiders." Let's go with A!
+- [70] **Mio**: @Takumi, I really wish we could reward the regulars, but we can't risk the club's finances or the treasurer's sanity. Option A is the only way to guarantee our fixed costs are covered without any guesswork!
+- [71] **Jonathan**: @Takumi, I believe the greatest fairness is providing a space where everyone feels welcome to return. Option A ensures that the act of attending remains a simple joy, rather than a financial calculation.
+- [72] **Takumi**: @Jonathan, it's not a "calculation" to want a fair system. If we keep ignoring the people doing all the work, they'll eventually just stop. Option B is the only way to actually fix the imbalance.
+- [73] **Toshio**: @Takumi, if the regulars stop because of a flat fee, that is a management issue, not a bookkeeping one. However, if the treasurer quits because of a complex system, the entire club stops. Option A is the only logical choice.
+- [74] **Kenji**: @Takumi, I really hope the regulars know we appreciate them! But I'm worried that if we make it too complicated, new people will be too scared to join. Let's keep it simple and welcoming with Option A!
+- [75] **Mio**: I've listened to everyone, and while I see Takumi's point, we can't gamble with our stability. Option A is the only way to ensure our fixed costs are covered and the treasurer survives! I vote for Option A.
+- [76] **Jonathan**: I believe the psychological ease of belonging is paramount. To avoid the hesitation that erodes our community, we must remove any financial barriers to attendance. I vote for Option A.
+- [77] **Takumi**: I'm the only one fighting for the people who actually keep this place running. If we don't recognize the effort of the regulars, this club will collapse anyway. I vote for Option B.
+- [78] **Toshio**: The data is clear: chasing small sums is a drain on our resources and our people. To ensure the club's survival and the treasurer's sanity, we must prioritize simplicity. I vote for Option A.
+- [79] **Kenji**: I really want everyone to feel like they belong here, and Option A is the friendliest way to do that! Let's keep it simple so nobody feels left out. I vote for Option A!
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> B
+- Toshio -> A
+- Kenji -> A
+## Result
+- adopted: A

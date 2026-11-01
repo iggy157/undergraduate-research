@@ -1,0 +1,72 @@
+# shared_living_0021__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a destination that is financially sustainable. I'm concerned about hidden costs and how we handle last-minute cancellations.
+- [6] **Shion**: Cost is one thing, but efficiency is another. If the environment is poor, the training is wasted. We need to ensure the facilities are actually functional.
+- [7] **Minato**: I hope we can find a place that isn't too hard to organize. I don't want anyone to be too tired from the planning.
+- [8] **Misaki**: I agree with Asuka. We cannot afford any budget gaps this year. We need precise figures before we announce anything to the members.
+- [9] **Takumi**: Forget the budget for a second. The club is split by year-groups. We need a place that actually forces us to bond, not just a cheap room.
+- [10] **Asuka**: @Takumi, bonding is useless if the financial burden falls unevenly on a few members. We must prioritize a transparent cost structure first.
+- [11] **Shion**: @Takumi, bonding also fails if everyone is exhausted. I'll look into the actual living conditions and how the schedule affects the members' physical state.
+- [12] **Minato**: Maybe we can look at how things were done before? I want to know if some places are easier to book than others.
+- [13] **Misaki**: @Minato, that's a good point. We should check the actual receipts from previous years to see where the money actually went.
+- [14] **Takumi**: @Asuka, I'm not saying ignore the money, but we can't keep drifting apart. I want to know why the last camp failed to bring us together.
+- [15] **Asuka**: Then let's divide the research. I will focus on the financial terms and the risks associated with group bookings.
+- [16] **Shion**: I'll handle the logistics of the stay and the actual impact on the members' condition. I'll check the attendance and the hall's schedule.
+- [17] **Minato**: I'll look into the booking process and the cooking duties. I want to see if we can reduce the workload for the organizers.
+- [18] **Misaki**: I will investigate the actual spending and the rates for public beds. We need a hard ceiling on the costs.
+- [19] **Takumi**: I'll look into the social side. I want to know what the seniors think about the year-group divide and how the inland camps worked.
+- [20] **Asuka**: Agreed. Let's ensure we cover all bases: cost, logistics, and social dynamics.
+- [22] **Minato**: I'll do my best to find a way to make it easy for everyone.
+- [23] **Misaki**: Let's be thorough. I don't want any surprises when the final bill arrives.
+- [24] **Takumi**: Just don't pick a place where we all just stay in our own circles.
+## Round 2
+- [35] **Asuka**: The whole-building lets are risky. If someone cancels, the remaining members cover the cost. That's an unfair distribution of expense.
+- [36] **Shion**: The club hall is out. The timetable is a mess; we'd be training at midnight or dawn. That's a recipe for total exhaustion.
+- [37] **Minato**: I found out that public bookings are a nightmare. The application is huge and there's a lottery. It sounds like a lot of work.
+- [38] **Misaki**: Transport is the real killer. The receipts show that distance exponentially increases the risk of budget overruns. We must stay local.
+- [39] **Takumi**: I found out that the only way we actually mix is if we're forced into shared living spaces. Inland centres might be too strict, though.
+- [40] **Asuka**: @Minato, if the public booking is a lottery, we can't commit to a date. We need a destination with a guaranteed booking process.
+- [41] **Shion**: @Takumi, shared living is fine, but not if the beds are substandard. If we don't sleep, the training quality drops. We need a professional facility.
+- [42] **Minato**: Also, the cooking duty last year was really hard. If we pick a place with a canteen, the organizers won't have to spend their whole camp cooking.
+- [43] **Misaki**: @Minato, a canteen sounds convenient, but we need to check the cost. If it's a fixed meal plan, it's easier to budget than self-catering.
+- [44] **Takumi**: @Shion, I'd rather have a slightly uncomfortable bed if it means we aren't just sitting in our own year-group circles all night.
+- [45] **Asuka**: I'm leaning away from the whole-building lets. The financial liability for cancellations is too high and logically unsound for a student club.
+- [46] **Shion**: I'm prioritizing a place where the schedule is stable. If we can't guarantee eight hours of sleep, the camp is a failure.
+- [47] **Minato**: I really think we should avoid the public lottery. It seems like it would take up all of the organizer's free time just to apply.
+- [48] **Misaki**: I'm looking at the prefecture rates. Public beds are cheap and predictable. If we combine that with local transport, the budget risk is minimal.
+- [49] **Takumi**: If we go for the cheapest public beds, we might end up in those inland centres with the strict lights-out. That kills the social bonding.
+- [50] **Asuka**: We need a balance. A place with a fixed cost per person, a guaranteed booking, and a facility that doesn't require us to pay for ghosts.
+- [51] **Shion**: Exactly. A professional facility with a set schedule. No midnight training and no lottery-based gambling with our time.
+- [52] **Minato**: I just want to make sure whoever organizes it doesn't have to do everything alone. A place with a canteen and easy booking is best.
+- [53] **Misaki**: I cannot support any option that leaves the budget open to interpretation. Local, fixed-rate public beds are the only safe bet.
+- [54] **Takumi**: I'll agree to a budget, but only if the layout of the place encourages us to actually talk to each other.
+## Round 3
+- [60] **Asuka**: Option C is out. A whole-building let in another prefecture is a financial disaster waiting to happen with the cancellation risks.
+- [61] **Shion**: Option B is impossible. The hall's timetable is already fragmented. We'd be training in shifts, which is a disaster for recovery and sleep.
+- [62] **Minato**: Option A seems okay, but is the reservation system the one with the lottery? If so, it's a lot of work for the organizers.
+- [63] **Misaki**: Option A is the only viable choice. It's a public facility with fixed rates and it's inland, which keeps transport costs low and predictable.
+- [64] **Takumi**: Option A has shared dorms. That's exactly what we need to break the year-group barriers. It's the only one that solves the social problem.
+- [65] **Asuka**: @Minato, even if the reservation is tedious, it's a one-time administrative cost. The financial risk of Option C is a recurring liability.
+- [66] **Shion**: @Takumi, as long as the dorms are actually beds and not just mats on a floor. I want to ensure the training quality doesn't suffer.
+- [67] **Minato**: I see. If the only other options are a scheduling nightmare or a financial risk, then the administrative work of Option A is the lesser evil.
+- [68] **Misaki**: Exactly. Option A provides a hard cost per person. No hidden fees, no transport spikes. It's the only way to ensure the club account stays healthy.
+- [69] **Takumi**: @Shion, it's a sports facility. They have proper beds. The point is that we'll be in the same space, not separated by distance or schedules.
+- [70] **Asuka**: Logically, Option A is the only choice that minimizes financial uncertainty and provides a stable environment for the whole group.
+- [71] **Shion**: I can accept Option A. It's a professional facility, which means the environment is controlled. It's far superior to the chaos of Option B.
+- [72] **Minato**: I'm worried about the paperwork, but if everyone agrees, I'll help with the application so one person doesn't have to do it all.
+- [73] **Misaki**: I'm glad we're agreeing. We cannot risk another budget deficit. Option A is the most fiscally responsible choice we have.
+- [74] **Takumi**: I'm voting for A. It's the only way we'll actually function as a single club instead of three separate year-groups.
+- [75] **Asuka**: Then we are in agreement. Option A is the most rational choice for the club's stability and the members' fairness.
+- [76] **Shion**: Agreed. Stability in the environment leads to stability in performance.
+- [77] **Minato**: I'm glad we're all on the same page. I'll make sure the workload is shared.
+- [78] **Misaki**: Good. Let's commit to Option A before the booking window opens.
+- [79] **Takumi**: Finally. Let's actually make this camp about the people, not just the practice.
+### Vote
+- Asuka -> A
+- Shion -> A
+- Minato -> A
+- Misaki -> A
+- Takumi -> A
+## Result
+- adopted: A

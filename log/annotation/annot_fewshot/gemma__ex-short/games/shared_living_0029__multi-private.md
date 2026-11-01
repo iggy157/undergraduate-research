@@ -1,0 +1,73 @@
+# shared_living_0029__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: We should start by getting a clear picture of the actual costs. I'll look into last year's tax, insurance and parking papers, as well as last year's fuel receipts.
+- [6] **Benjamin**: I think it's wise to look at the human element as well. I'll check what two other car-sharing households said and the spell of checking each other's figures.
+- [7] **Asuka**: I want to understand the actual condition and reliability of the vehicle. I'll look into the state of the car at handover and the mechanic's remarks at the last service.
+- [8] **Shion**: I'll take a look at the hours of use recorded in the diary and the month's trial of recording every run. We need a logical basis for how we split the costs.
+- [9] **Daisuke**: I... I think it would be helpful to see the time spent. I'll look into the trips that repeat weekly and the hours of use recorded in the diary.
+- [10] **Minako**: I think we have a good spread of data points. By combining the financial records with the usage logs, we can see if the current split is actually fair.
+- [11] **Benjamin**: Indeed. While the numbers provide a skeleton, the social dynamics provide the flesh. I'm curious to see if the friction is purely mathematical or something more... atmospheric.
+- [12] **Asuka**: Regardless of the atmosphere, the physical state of the car is a practical necessity. If the vehicle isn't reliable or ready for use, the cost-splitting becomes a secondary issue.
+- [13] **Shion**: Practicality is fine, Asuka, but it's a waste of time to discuss maintenance if we can't even agree on who is paying for it. We need hard data on usage first.
+- [14] **Daisuke**: I... I agree that data is important. I just hope we can find a way to make it easier for everyone, so no one feels too stressed about it.
+- [15] **Minako**: Let's keep the focus on the facts for now. Once we have the results from our research, we can address the stress and the atmosphere with a concrete plan.
+- [16] **Benjamin**: A concrete plan is a lovely goal, Minako. I simply hope we don't build a perfectly logical structure on a foundation of unspoken resentment. It would be a shame for the math to be right and the mood to be wrong.
+- [17] **Asuka**: Resentment often stems from a lack of reliability. If the car is consistently unavailable or poorly maintained, no amount of mathematical fairness will solve the frustration of a failed morning commute.
+- [18] **Shion**: You're focusing on the symptoms, Asuka. The real source of frustration is the ambiguity of the payments. If we don't know the actual figures, we're just guessing who is being unfair.
+- [19] **Daisuke**: I... I think everyone has a point. I just worry that even with the figures, the process of sorting it all out every time is... a bit much. I'll just wait for the results.
+- [20] **Minako**: I agree with Daisuke that the process shouldn't be overly burdensome. Let's gather the information first and then find a sustainable system.
+- [22] **Benjamin**: I concur. Let us see what the records reveal and hope they provide a map that leads us toward both financial clarity and social harmony.
+- [24] **Asuka**: I agree. Let's see what the data shows. I'll be interested to see if the maintenance records reflect the issues I've noticed.
+- [26] **Shion**: Let's stop speculating and get to the numbers. I'm looking forward to seeing how the actual usage aligns with our assumptions.
+- [28] **Daisuke**: I... I hope the results help us. I'll just do my best to help however I can.
+## Round 2
+- [40] **Minako**: The fixed costs for tax, insurance, and parking are just over 280,000 yen. However, the fuel receipts show a significant imbalance; two people paid for over half the fuel, while one barely contributed.
+- [41] **Benjamin**: It seems the numbers are as skewed as the mood. Interestingly, my research suggests that the act of auditing each other's figures can be quite toxic, often leaving everyone feeling accused or apologetic.
+- [42] **Asuka**: The physical state of the car is just as skewed. It's been returned with the fuel light on and rubbish inside. Furthermore, the mechanic noted that our short city trips are wearing down the brakes and battery rapidly.
+- [43] **Shion**: The diary confirms the imbalance. Usage spikes on Saturdays and during holidays, meaning some of us are carrying the burden of the car's wear and tear while others only use it for leisure. It's quite a mess.
+- [44] **Daisuke**: I... I found that some trips repeat every week, but those are the ones that often collapse. Also, the diary shows that Saturdays and holidays are used way more than other days. It seems... really complicated.
+- [45] **Minako**: It is clear that the "share is a share" approach is no longer sustainable. We have a fixed cost of 280,000 yen and a fuel contribution gap that cannot be ignored if we want a fair system.
+- [46] **Benjamin**: While the financial gap is a glaring issue, I wonder if we are merely treating the symptom. If auditing figures creates a climate of accusation, perhaps a rigid accounting system will only further erode our friendship.
+- [47] **Asuka**: @Benjamin, friendship is not a substitute for basic consideration. Leaving a car empty of fuel and full of trash is a failure of respect, not a mathematical error. We need a system that ensures the car is actually ready for the next person.
+- [48] **Shion**: @Asuka, you're talking about manners, but the core issue is the lack of accountability. If we don't have a transparent record of who is driving and paying, "respect" is just a vague concept we can't enforce.
+- [49] **Daisuke**: I... I think Asuka is right about the respect part, but... I'm worried that if we make the rules too strict, we'll just spend more time arguing over the details. It already feels so stressful to sort out.
+- [50] **Minako**: We must separate the behavioral issues from the financial ones. While manners are important, we cannot solve the fuel imbalance or the 280,000 yen fixed cost with "respect" alone. We need a concrete formula for payment.
+- [51] **Benjamin**: A formula is certainly a comforting shield, Minako, but let's be cautious. My findings suggest that the friction often comes from the "favor" economy—the subtle weight of asking or the guilt of taking. A formula solves the math, but does it solve the resentment?
+- [52] **Asuka**: @Benjamin, the resentment comes from the unpredictability. When I can't rely on the car being ready for a midweek morning, the "favor economy" is irrelevant. We need a system that mandates a minimum standard of readiness and fuel.
+- [53] **Shion**: @Benjamin, you're overcomplicating it with "atmospheres." Resentment is born from the feeling of being cheated. If we have a transparent, logical system where the heavy users pay more, the guilt and the favors simply vanish.
+- [54] **Daisuke**: I... I don't know. If we have a formula, will that stop the long discussions every evening? I just worry that we'll still spend so much time untangling who owes what, even with a system.
+- [55] **Minako**: We can minimize those discussions by automating the process. If we establish a clear rule for fixed costs and a simple method for fuel, we won't need to untangle the details every evening. Let's focus on a sustainable structure.
+- [56] **Benjamin**: Automation is a seductive promise, Minako. However, if we simply automate the accounting without addressing the underlying social friction, we may find ourselves with a perfectly balanced ledger and a completely silent dinner table. We must be careful.
+- [57] **Asuka**: A silent dinner table is preferable to a morning where I cannot leave for work because the car is empty. We need a system that prioritizes the car's availability and condition over social niceties.
+- [58] **Shion**: Exactly. We've spent enough time on "niceties" while the actual figures are a disaster. The data shows a clear imbalance in both fuel and usage; ignoring that is just choosing to be unfair. Let's move to the options.
+- [59] **Daisuke**: I... I just hope the options make things simpler. I really don't want us to keep fighting or spending so much time stressing over the details every single night.
+## Round 3
+- [66] **Minako**: Option A is the most stable for the fixed costs, but it doesn't address the fuel imbalance we found. Option B is the most mathematically fair, as it ties payment directly to actual usage and distance.
+- [67] **Benjamin**: Option B is a mathematical dream, but a social nightmare. If we return to the habit of meticulously auditing every kilometer, we risk recreating that atmosphere of accusation I mentioned earlier. It's a recipe for resentment.
+- [68] **Asuka**: Option B is too focused on the math and ignores the state of the car. If we only track distance, there is still no guarantee the car will be clean or fueled for the next person.
+- [69] **Shion**: Option B is the only logical choice. We've already established that usage is wildly uneven, especially on weekends. Why should someone who barely drives pay the same as a heavy user? It's the only way to ensure actual fairness.
+- [70] **Daisuke**: I... I'm worried about Option B too. If we have to record every single distance and calculate it, won't that just mean more time spent untangling the figures every night? It sounds... really exhausting.
+- [71] **Minako**: @Daisuke, we can simplify the recording process to reduce the burden. While Option A is simple, it forces people to pay for days they don't use, which is essentially subsidizing others. Option B ensures no one is unfairly burdened.
+- [72] **Benjamin**: @Minako, simplicity is often a mask for inefficiency. Option B doesn't just burden us with math; it burdens us with the psychological weight of "owing" for every single kilometer. It turns a shared resource into a series of micro-transactions.
+- [73] **Asuka**: @Benjamin, micro-transactions are a small price to pay for reliability. However, Option A is the only one that guarantees I know exactly when the car is available. If I have my own days, the unpredictability of the midweek morning disappears.
+- [74] **Shion**: @Asuka, you're prioritizing your own convenience over financial logic. Option A is just a different form of guesswork; it doesn't solve the fuel imbalance, it just hides it behind a schedule. We need a system based on reality, not a calendar.
+- [75] **Daisuke**: I... I think Option A might be better than B because it's simpler. If we have our own days, maybe we won't have to spend so much time every evening arguing about who owes what. It feels... less stressful.
+- [76] **Minako**: Option A is simple, but it doesn't solve the core issue of who is subsidizing whom. If we want a truly even split that accounts for the 280,000 yen and the fuel gap, Option B is the only objective path.
+- [77] **Benjamin**: @Minako, objectivity is a cold comfort when it leads to a house full of accountants instead of friends. Option C, while perhaps less "fair" on paper, removes the friction of auditing and the guilt of the "favor" economy by centralizing responsibility.
+- [78] **Asuka**: @Benjamin, Option C is too risky. Centralizing responsibility just means one person bears the burden of the car's condition, and the rest of us are back to hoping they've kept it ready. I prefer Option A.
+- [79] **Shion**: @Benjamin, Option C is just a return to the same guesswork we have now, only with one person acting as the gatekeeper. It's illogical. Option B is the only way to stop the subsidizing and get an honest picture of the costs.
+- [80] **Daisuke**: I... I don't think I like Option C. It sounds like it would just make that one person really stressed, and I'd feel bad asking them every time. I think Option A is the safest... it just feels quieter.
+- [81] **Minako**: While Option A is quieter, it doesn't resolve the financial imbalance. However, since we must choose a sustainable path, I will prioritize objectivity. I vote for Option B to ensure a truly even split.
+- [82] **Benjamin**: I must disagree with the pursuit of absolute objectivity. If we prioritize the ledger over the living room, we will simply trade financial friction for social frost. I vote for Option A; it is the most peaceful compromise.
+- [83] **Asuka**: I cannot support Option B or C. B is a bureaucratic mess that ignores the car's condition, and C creates a bottleneck of dependency. Option A provides the predictability I need for my mornings. I vote for Option A.
+- [84] **Shion**: It's disappointing that you're all so afraid of a little math. Option A is just a lazy way to ignore the fact that some of us are being cheated. I vote for Option B.
+- [85] **Daisuke**: I... I can't handle the thought of more auditing and long discussions every night. Option B sounds too stressful, and C feels unfair to the keeper. I'll vote for Option A. It's the simplest way to keep the peace.
+### Vote
+- Minako -> B
+- Benjamin -> A
+- Asuka -> A
+- Shion -> B
+- Daisuke -> A
+## Result
+- adopted: A

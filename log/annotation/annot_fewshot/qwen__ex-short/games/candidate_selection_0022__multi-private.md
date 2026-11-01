@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I am worried about how hard it is to find the right people for our portfolio.
+- [6] **George**: I am concerned that our success stories do not match the actual customer retention data.
+- [7] **May**: I am tracking the cash burn. I need to know exactly what follow-on rounds will demand from our reserves.
+- [8] **Rin**: I worry about our quarter-end. It is the worst fortnight, and I cannot check the numbers. I need to see how a new holding affects our reporting.
+- [9] **Mizuki**: I am concerned about delivery delays. I need to know what external obstacles actually stall our portfolio companies.
+- [10] **Mio**: @George, if retention is slipping, our exit stories are hollow. I agree with your concern.
+- [11] **George**: @Mio, exactly. If the customers leave, the narrative collapses. I need to verify the actual retention figures.
+- [12] **May**: @Mio, if we cannot staff them, the product is irrelevant. I am checking the credit line terms to see what counts as security.
+- [13] **Rin**: @May, if the credit line is tight, our reporting gets even harder. I need to know what we can actually verify before closing.
+- [14] **Mizuki**: @Rin, if the numbers are opaque, we cannot judge risk. I will check the delivery records to see what actually stalled the last two cohorts.
+- [15] **Mio**: I will check the retained recruiters' placement times to see who we can actually hire right now.
+- [16] **George**: I will examine account retention through price rises to see who actually kept customers.
+- [17] **May**: I will review reserve accounts and follow-on calls to assess our future cash needs.
+- [18] **Rin**: I will check independent checks on holdings' reported figures. I need to know if the numbers are real before we close.
+- [19] **Mizuki**: I will also look into the profile of the exits and the write-off. I need to see what actually failed and why.
+- [20] **Mio**: I will also look at the adviser bench and partner board seats. I need to know who is actually available to help.
+- [21] **George**: I will also look at the profile of the exits and the write-off. I need to see what actually failed and why.
+- [22] **May**: I will also look at the terms of last winter's credit line. I need to know what we can borrow against when the cash gets tight.
+- [23] **Rin**: I will also look at the security review time before first deployment. I need to know if that delays our reporting cycle.
+- [24] **Mizuki**: I will also check the delivery records of two holdings. I need to see the specific external bottlenecks that caused the delays.
+## Round 2
+- [35] **Mio**: The recruiters are fast for support roles, but field crews take four months. That is a huge bottleneck for us.
+- [36] **George**: The write-off ran its own premises and paid hourly crews. That is the pattern I feared. I need to see if the others kept their customers.
+- [37] **May**: @Rin, the credit line treats subscriptions as worthless. We cannot borrow against code. I need to know if your security checks catch that gap.
+- [38] **Rin**: @May, that is terrifying. If we cannot borrow against code, our liquidity is trapped. I need to know if the security review delays our quarter-end reporting.
+- [39] **Mizuki**: @George, the write-off confirms it. Physical premises and hourly crews are the trap. I need to know if the software tools avoided that specific delay.
+- [40] **Mio**: @George, if the write-off failed on staffing, we must avoid any company needing seasonal labor. I am checking who is actually available to help right now.
+- [41] **George**: @Mizuki, yes. The back-office tools sold well. The physical one failed. I am looking for candidates that avoid that operational trap.
+- [42] **May**: @Mio, if field crews take four months, we are dead. I need pure software to keep our cash flow clean.
+- [43] **Rin**: @Mizuki, the security review is the killer. Three quarters for medical data means our quarter-end is stuck. I need pure software to close fast.
+- [44] **Mizuki**: @Rin, that aligns with my delivery data. The software tool never missed a release, while the hardware one stalled for months. We must avoid physical dependencies.
+- [45] **Mio**: @May, exactly. If we need seasonal crews, we are stuck for months. I am looking for a team that can actually be staffed right now.
+- [46] **George**: @Mio, the retention data is clear. The shopkeeper tool lost a third of accounts. We must avoid that churn.
+- [47] **May**: @George, that churn is a cash leak. I need a company with sticky revenue so my reserves don't bleed out.
+- [48] **Rin**: @George, that churn hurts my reporting too. If customers leave, the numbers look bad. I need stable data to close the books quickly.
+- [49] **Mizuki**: @George, that churn is a delivery risk too. If customers leave, we lose the data to fix the next bottleneck. I need stable operations to predict delays.
+- [50] **Mio**: I am ready to see the candidates. We need a team that is actually staffable right now, not one that needs a four-month search.
+- [51] **George**: I am ready. The data points to quiet, stable software. I want to see which candidates avoid the physical traps we just identified.
+- [52] **May**: I am ready. I need a candidate that keeps our cash reserves intact and avoids the borrowing trap we just uncovered.
+- [53] **Rin**: I am ready. I need a candidate that lets me verify the numbers myself, without waiting for a security review to block my quarter-end.
+- [54] **Mizuki**: I am ready. The delivery records are clear: avoid physical dependencies. I need a candidate where the path to first customer is free of external bottlenecks.
+## Round 3
+- [60] **Mio**: @George, the Fabric Loop needs sorting crews. My data says that takes four months. I cannot support a company we cannot staff right now.
+- [61] **George**: @Mio, exactly. The write-off ran its own premises and paid hourly crews. Fabric Loop is that same trap. I cannot support it.
+- [62] **May**: @Mio, agreed. Physical operations bleed cash. I need pure software to keep my reserves intact and avoid the borrowing trap.
+- [63] **Rin**: @Mio, I agree. Fabric Loop is a physical nightmare. I need software I can verify without waiting for field readings. It is too risky for my quarter-end.
+- [64] **Mizuki**: @Mio, agreed. The write-off confirms it. Physical premises and hourly crews are the trap. Fabric Loop is that same operational risk. I cannot support it.
+- [65] **Mio**: @Rin, the Clinic Scheduler needs medical data. That triggers the three-quarter security review. I cannot support a company that blocks your quarter-end.
+- [66] **George**: @Mio, I see the risk, but my retention data shows the clinic tool kept nine of ten accounts. That stability is exactly what I need to verify.
+- [67] **May**: @George, that retention is gold. Sticky revenue means my reserves stay full. I am leaning toward D, but I need to know if the subscription counts as security.
+- [68] **Rin**: @Mio, that is a disaster. Three quarters of security review means my quarter-end is frozen. I cannot close the books if the data is locked away. I must avoid D.
+- [69] **Mizuki**: @Rin, that security review is a delivery bottleneck. If the data is locked, we cannot verify the path to first customer. I must avoid D.
+- [70] **Mio**: @George, I hear you on the retention, but my recruiters cannot place medical staff quickly. The staffing risk is too high for me.
+- [71] **George**: @Mio, the retention data is irrefutable. Nine of ten accounts stayed. That stability is what I need to see in our portfolio.
+- [72] **May**: @Mio, the medical staffing risk is real, but the retention is what saves my cash flow. I am sticking with D.
+- [73] **Rin**: @May, I cannot support D. The security review blocks my reporting. I need a candidate where I can verify the numbers myself, without waiting for medical data clearance.
+- [74] **Mizuki**: @May, the retention is strong, but the security review is a hard external bottleneck. I cannot sign up for a delay I cannot control. I am leaning toward C.
+- [75] **Mio**: @Mizuki, I agree. Ledger Bridge is pure software. My recruiters can fill those support roles in weeks. It is the only option I can actually staff right now.
+- [76] **George**: @Mizuki, I understand the delivery risk, but my data shows the clinic tool kept nine of ten accounts. That stability is what I need to verify.
+- [77] **May**: @Mizuki, I hear you on the security risk, but the retention is what saves my cash flow. I am sticking with D.
+- [78] **Rin**: @Mizuki, I agree. Ledger Bridge is pure software. I can verify the dashboard numbers myself without waiting for a security review. It keeps my quarter-end clean and fast.
+- [79] **Mizuki**: @George, the retention is strong, but the security review is a hard external bottleneck. I cannot sign up for a delay I cannot control. I am leaning toward C.
+### Vote
+- Mio -> C
+- George -> D
+- May -> D
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

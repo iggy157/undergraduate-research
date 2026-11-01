@@ -1,0 +1,68 @@
+# candidate_selection_0012__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: I believe we should prioritize transparency and operational efficiency for this quarter's selection. I'll look into independent checks on holdings' reported figures and appraisal needs at the last audit.
+- [6] **Jonathan**: I agree that efficiency is key. I would like to look into the retained recruiters' placement times and the adviser bench and partner board seats to see where our capacity stands.
+- [7] **Shizue**: It is so lovely to see everyone focusing on the health of our partnership. I would like to look into account retention through price rises and the profile of the exits and the write-off.
+- [8] **Misaki**: I think it's important to understand our long-term financial commitments and flexibility. I'll look into the reserve accounts and follow-on calls, as well as the terms of last winter's credit line.
+- [9] **Shion**: I'll focus on the actual execution phase. I want to look into the security review time before first deployment and the delivery records of two holdings to see where the real bottlenecks are.
+- [10] **Mizuki**: Since we have covered the operational, financial, and human resource aspects, I believe our current selection of inquiries is comprehensive. Does anyone feel we are missing a critical angle before we proceed?
+- [11] **Jonathan**: I believe we have a well-balanced approach. By examining both our internal capacity and the external performance of our holdings, we should have a clear picture of which candidate fits our current situation best.
+- [12] **Shizue**: I agree with you both. It feels as though we are all looking after one another's interests quite thoughtfully. I am content to proceed with these choices.
+- [13] **Misaki**: I agree. We have a broad range of data points. I'm satisfied with this distribution and ready to see what the findings reveal.
+- [14] **Shion**: It seems we are all in agreement. Let's move forward and see if the data actually supports the optimism in this room. I'm ready.
+- [15] **Mizuki**: Since we have all confirmed our choices and agree on the scope, I believe we have exhausted the need for further discussion in this round. I am ready to receive the findings.
+- [18] **Shizue**: I agree. It is a wonderful feeling when we are all in such harmony. I am also ready to see what we discover.
+- [20] **Misaki**: I agree. There is no need for further deliberation. I am ready to proceed to the findings.
+- [22] **Shion**: I agree. We have a logical spread of data. Let's see if the results are as clean as this conversation.
+- [24] **Jonathan**: I agree. I am also ready to move forward and see the results of our inquiries.
+## Round 2
+- [36] **Mizuki**: The findings suggest that hardware or physical operations introduce significant reporting burdens and costs during audits. However, they do provide a level of independent verification that software-only holdings lack. I'm curious if others found similar trade-offs.
+- [37] **Jonathan**: My findings indicate a significant imbalance in our capacity. We are overextended on software board seats, while our logistics experts are underutilized. Furthermore, filling operational roles for physical sites is proving much slower than filling support roles.
+- [38] **Shizue**: It is interesting to see how our strengths and weaknesses align. I found that our most successful exits were in back-office financial tools, while our losses came from businesses with physical premises and hourly staff.
+- [39] **Misaki**: My findings show that holdings with equipment or stock are calling follow-on capital at twice the expected rate. Additionally, our credit line only provides cheap lending against physical stock, not subscription contracts.
+- [40] **Shion**: It seems we have a pattern. My data shows that medical records or financial data trigger massive security delays, and custom hardware is prone to supply chain failures. Software is faster to deploy, provided it isn't bogged down by those specific reviews.
+- [41] **Mizuki**: @Jonathan, your point about the board seats is critical. If we are already overextended in software, perhaps a physical operation is better, despite the audit burdens I found. However, @Misaki, the follow-on capital rate you mentioned is worrying.
+- [42] **Jonathan**: It is indeed a dilemma. While we have the advisory capacity for logistics, the difficulty in hiring operational staff and the capital drain Misaki mentioned make physical operations a risky bet for our current bandwidth.
+- [43] **Shizue**: It is a bit worrying, isn't it? I noticed that while physical operations can be risky, those serving independent practices or using field instruments showed wonderful loyalty during price rises. Perhaps there is a middle ground.
+- [44] **Misaki**: The capital drain is significant. If we choose a company with heavy equipment or stock, we must be prepared for accelerated follow-on calls and rely on physical assets for our credit line.
+- [45] **Shion**: @Shizue, loyalty is fine, but it doesn't matter if the product never launches. Between security reviews and hardware shortages, "physical" or "medical" means months of dead air. We need a path to deployment that actually exists.
+- [46] **Mizuki**: @Shion, you're right about the delays, but we can't ignore the reporting gap. Software holdings leave us blind, relying solely on their own dashboards. We need a balance between deployment speed and verifiable data.
+- [47] **Jonathan**: If we are overextended on software board seats, adding another software company might be a mistake regardless of the reporting. We have the expertise for logistics, but the hiring lag for field crews is a real bottleneck.
+- [48] **Shizue**: I wonder if we might find a way to support a company that is stable and loved by its customers, even if it requires a bit more patience from us. Harmony is so important.
+- [49] **Misaki**: We must be realistic about our liquidity. If we back a company with high capital demands or physical stock, we risk draining our reserves faster than we can replenish them, regardless of customer loyalty.
+- [50] **Shion**: @Misaki, if liquidity is the priority, then software is the logical choice. It avoids the hardware shortages and the accelerated follow-on calls you're worried about. We just need to avoid the security review traps.
+- [51] **Mizuki**: It seems we are caught between a rock and a hard place. Software offers speed and liquidity but lacks transparency and board capacity. Physical assets offer verification but drain capital and time. We must weigh these carefully.
+- [52] **Jonathan**: I believe we should avoid adding to our software board burden. While physical operations have hiring lags, we have the advisory bench to guide them. We just need a candidate that balances these risks.
+- [53] **Shizue**: I believe we should look for a candidate that brings a sense of stability. If a company is truly valued by its users, we can find a way to manage the hurdles together.
+- [54] **Misaki**: I agree that stability is key, but we must ensure that stability doesn't come at the cost of our solvency. We need a candidate that doesn't accelerate our capital drain or leave us without liquidity.
+- [55] **Shion**: Let's stop circling. We need a candidate that avoids the "medical" security trap and the "hardware" supply chain nightmare, while not overloading our software board seats. Logic dictates we find the narrow path between those extremes.
+## Round 3
+- [61] **Mizuki**: Looking at the candidates, A and B are software, but A falls into the medical security trap Shion mentioned. B is software, which risks our board capacity and reporting transparency. C and D involve physical operations.
+- [62] **Jonathan**: C and D both utilize our underused logistics advisers, but C's sorting facilities and D's field crews hit that hiring bottleneck. However, D's sensors provide the independent verification Mizuki wants.
+- [63] **Shizue**: I feel that A and D are very special because they serve independent practices and growers, who showed such wonderful loyalty during price rises. It would be lovely to support a business that is truly cherished.
+- [64] **Misaki**: A is software, but it's medical, which Shion warned about. D has sensors, meaning high follow-on calls and capital drain. B is the safest for our liquidity and reserves, even if it strains our board.
+- [65] **Shion**: @Misaki, B is the only logical choice. A is a security nightmare, C is a hiring and write-off risk, and D is a hardware disaster waiting to happen. B avoids the bottlenecks that actually stop deployment.
+- [66] **Mizuki**: @Shion, while B is fast to deploy, it leaves us blind on reporting and strains our board. However, compared to the audit costs and capital drain of C and D, B is the most sustainable for our quarter-end.
+- [67] **Jonathan**: I must disagree with B. We are already overextended on software board seats. While D has hiring lags, it utilizes our available advisory bench and provides the verifiable data Mizuki seeks. It's a better structural fit.
+- [68] **Shizue**: I feel for the growers and the clinics. While B seems safe, D's connection to the land and the loyalty of its users brings a stability that is very precious. Could we not find a way to help them?
+- [69] **Misaki**: @Jonathan, D's sensors mean we face the same accelerated follow-on calls and liquidity issues I found. B may strain the board, but it doesn't threaten our solvency. I cannot support a high-capital drain right now.
+- [70] **Shion**: @Jonathan, your "structural fit" is a fantasy if the company can't hire a field crew for four months. @Misaki is right; B is the only option that doesn't actively sabotage our timeline or our bank account.
+- [71] **Mizuki**: @Jonathan, I appreciate the need for structural balance, but the audit fees and reporting delays for physical assets are too high. B is the most logical choice for our operational stability.
+- [72] **Jonathan**: I understand the concerns, but B only adds to a problem we already have. D allows us to use our idle experts and gives us real data. We can manage the hiring lag better than board burnout.
+- [73] **Shizue**: I feel that we are being too hard on the physical businesses. D's users are so loyal, and that kind of heart is what makes a company last. Let us be kind and supportive.
+- [74] **Misaki**: @Shizue, kindness cannot pay the bills. @Jonathan, the risk of accelerated follow-on calls for D is too high. B is the only candidate that protects our liquidity and ensures we don't run out of room.
+- [75] **Shion**: @Jonathan, you're prioritizing a "bench" over a bank account. @Shizue, loyalty doesn't fix a supply chain. B is the only candidate that doesn't trigger a security review, a hardware shortage, or a liquidity crisis. It's the only logical choice.
+- [76] **Mizuki**: I have weighed the reporting transparency of D against the board strain of B. Given the audit costs and the liquidity risks Misaki highlighted, B is the most responsible choice. I vote for B.
+- [77] **Jonathan**: I cannot ignore the board burnout and the capacity we have for logistics. While the risks are real, D is the only candidate that balances our expertise and data needs. I vote for D.
+- [78] **Shizue**: I believe we should value the loyalty of the customers and the stability of the business. D's connection to the growers is truly heartwarming. I vote for D.
+- [79] **Misaki**: I must prioritize our solvency and the stability of our reserves. B is the only option that avoids the capital drain and follow-on risks associated with physical assets. I vote for B.
+- [80] **Shion**: The logic is undeniable. A is a security trap, C is a write-off risk, and D is a capital and supply chain nightmare. B is the only path to a successful deployment. I vote for B.
+### Vote
+- Mizuki -> B
+- Jonathan -> D
+- Shizue -> D
+- Misaki -> B
+- Shion -> B
+## Result
+- adopted: B

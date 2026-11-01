@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private (shared_living)
+
+## Round 1
+- [5] **Toshio**: Hello everyone. Since our current habits are no longer working, we should establish a sustainable system. I believe we need a clear understanding of the costs and the actual time required before we decide.
+- [6] **Ryuji**: I agree. We should avoid making a decision based on vague impressions. To build a system that actually lasts, we need to analyze the objective data regarding the workload and the financial implications.
+- [7] **Benjamin**: It seems we are all in a remarkably pragmatic mood today. I quite agree; a touch of logic now will save us from a great deal of theatrical arguing later. Let us see what the evidence suggests.
+- [8] **May**: I'm looking forward to this! Let's just make sure we don't get so bogged down in "objective data" that we forget to make the plan actually livable. I'm ready to dive in!
+- [9] **Midori**: It's nice to meet you all. I agree that harmony is the most important thing here. I hope we can find a way to keep our home peaceful and happy for everyone.
+- [10] **Toshio**: To ensure we have a precise financial picture, I will look into the "Management office rate sheet and billing" and the "Bathroom spray stock and the tin's receipts." We must know exactly what we are spending.
+- [11] **Ryuji**: I will examine the "Stopwatch timing of a full pass" and the "Standard terms of the outside firm." I want to determine the actual time commitment required and if outsourcing is a viable way to reduce the burden.
+- [12] **Benjamin**: I shall investigate "A fortnight's watch on kitchen use" and "Absences on the wall calendar." It would be a pity to design a system of equality that ignores the actual reality of who is inhabiting the space.
+- [13] **May**: I'll check "What each housemate counts as done" and "Rows recorded in the house chat"! I want to see where we're clashing and why some of us think a room is clean while others don't!
+- [14] **Midori**: I'll look into the "Note left by the previous tenants" and "Rows recorded in the house chat." I want to see if there are any recurring problems we can avoid to keep things friendly.
+- [15] **Toshio**: It seems we have a comprehensive distribution of research. By covering the financial, temporal, and social aspects, we can avoid any blind spots in our final arrangement. I will wait for the results.
+- [16] **Ryuji**: I agree. Dividing the research this way ensures we address both the logistical constraints and the interpersonal friction. I will focus on the actual hours involved to ensure the workload is sustainable.
+- [17] **Benjamin**: A most efficient division of labor. While some of us hunt for pennies and seconds, I shall be contemplating the curious intersection of presence and productivity. I look forward to our findings.
+- [18] **May**: @Benjamin, "contemplating the intersection" sounds very fancy! I'll just be looking for the juicy drama in the chat. Let's hope we find some clues that actually help us stop the guessing game!
+- [19] **Midori**: I'm glad we're all so motivated! I hope that by understanding the past, we can create a future where everyone feels comfortable and appreciated. I'll do my best with my research!
+- [20] **Toshio**: I agree. Let us proceed with the research and reconvene once the data is available. I will be interested to see if the actual expenditures align with our perceived costs.
+- [22] **Ryuji**: I agree. Let us gather the facts first. I will focus on the time requirements and the feasibility of professional services to ensure we don't commit to an unsustainable workload. I'll see you all in the next round.
+- [24] **Benjamin**: I shall retire to my studies then. I trust the data will be more illuminating than our current state of domestic chaos. Until we meet again to piece together this puzzle.
+- [26] **May**: I'm off to find the secrets of the house chat! I'll see you all soon with the results. Let's hope we can actually agree on something without it becoming a soap opera! Bye-bye!
+- [28] **Midori**: I'll go and see what I can find out now. I really hope we can find a solution that keeps us all on good terms. See you all soon!
+## Round 2
+- [40] **Toshio**: My research reveals a lack of coordination. We are spending roughly 2,300 yen monthly on supplies, often buying duplicates. Furthermore, the management office's cleaning service costs 4,200 yen per hour, billed to a single tenant.
+- [41] **Ryuji**: The time commitment is more significant than most realize. A full pass takes over an hour and a half. Additionally, an outside firm requires us to tidy beforehand, meaning outsourcing doesn't entirely remove the labor burden.
+- [42] **Benjamin**: My findings suggest a rather striking disparity. It appears that while we share the space, we do not share the usage; a few of us are the primary architects of the kitchen's chaos, while others are merely occasional visitors.
+- [43] **May**: Wow, I found exactly what I suspected! We're all playing by different rules. Some people think "done" means a quick wipe, while others go full scrub. No wonder the rooms feel like a gamble every time I walk in!
+- [44] **Midori**: I found something quite worrying in the previous tenants' note. They divided the rooms permanently, but by the second year, some of them barely spoke. I also noticed our chat rows start with reminders about undone chores.
+- [45] **Toshio**: @Ryuji, if a full pass takes ninety minutes, the cost of professional cleaning is substantial. Combined with our inefficient supply spending, we are wasting both time and money. We need a system that tracks these expenses precisely.
+- [46] **Ryuji**: @Toshio, the cost is only one part of the problem. The real issue is the time. If we don't account for the full hour and a half, we'll simply end up with a system that feels unfair and overwhelming for whoever is on duty.
+- [47] **Benjamin**: @Ryuji, while I appreciate your focus on the clock, time is a relative currency. It is quite a curious tragedy to expect the same time commitment from someone who is barely a ghost in the hallways as from those of us who actually inhabit the space.
+- [48] **May**: @Benjamin, you're so dramatic! But you're right—it's not just about the time, it's about the standard. If one person's "clean" is another person's "grim," we're just waiting for the next fight to break out in the chat!
+- [49] **Midori**: @May, that's exactly what I'm afraid of. If we just set a schedule without talking about our standards, the reminders will start again, and we might end up like the previous tenants who stopped speaking to each other.
+- [50] **Toshio**: @Midori, your concern is valid, but standards are easier to align when the financial burden is transparent. We cannot ignore that supplies are being bought haphazardly and bills are currently landing on one person's shoulders.
+- [51] **Ryuji**: @Toshio, transparency in billing is useful, but it doesn't solve the labor issue. If the workload is underestimated, the financial system will be irrelevant because the person on duty will be too exhausted to follow it.
+- [52] **Benjamin**: @Toshio, @Ryuji, you both speak of transparency and labor as if they were separate entities. In reality, the most transparent system is one that acknowledges that usage and effort should be proportional. Why punish the ghost for the chef's mess?
+- [53] **May**: @Benjamin, you're making it sound like a courtroom drama! But seriously, if we just focus on who uses the kitchen more, we're still guessing about the bathroom. We need a clear, shared checklist so we stop the "is it actually clean?" lottery!
+- [54] **Midori**: @May, a checklist sounds like a wonderful idea! It would give us a shared language for what "done" means. I just hope we can implement it in a way that feels helpful rather than like we're policing each other.
+- [55] **Toshio**: A checklist is a useful tool for standards, but it does not solve the financial instability. We must ensure that the cost of supplies and any professional services is split equitably and settled promptly to avoid resentment.
+- [56] **Ryuji**: @Toshio, financial stability is a given, but we must prioritize the time cost. If we don't establish a realistic time budget for these chores, the system will collapse regardless of how we split the bills. I'll be waiting for the options.
+- [57] **Benjamin**: It seems we are circling the drain of a classic dilemma: the battle between rigid equality and actual equity. I shall eagerly await the options, hoping they account for the fact that some of us are residents and others are mere tourists.
+- [58] **May**: @Benjamin, you and your "tourists"! Let's just hope the options give us a way to stop the guessing game. I'm ready to see if we can actually get a standard that doesn't end in a chat war!
+- [60] **Midori**: I agree with everyone. Whether it's the money, the time, or the standards, it all comes down to how we treat each other. I'm really hoping the options help us stay friends for the whole year!
+## Round 3
+- [67] **Toshio**: Option B is the most logical choice. It eliminates the disputes over standards and the labor burden, while providing a clear, monthly invoice that ensures financial transparency and prevents any one person from being out of pocket.
+- [68] **Ryuji**: Option B is not as simple as it seems. My research showed that an outside firm requires us to tidy before they arrive. We would still be spending significant time preparing the rooms, meaning the labor burden isn't fully removed.
+- [69] **Benjamin**: Option A is a recipe for a cold war. As Midori noted, the previous tenants tried permanent divisions and ended up in silence. It merely formalizes the disparity between the chef and the ghost.
+- [70] **May**: @Benjamin, you're always thinking about the drama! But Option A is a total nightmare for me. If one person owns the bathroom and their "clean" is just a quick wipe, I'm stuck with that grimness forever! I can't live with that gamble.
+- [71] **Midori**: I agree with Benjamin. Option A sounds very risky since the previous tenants ended up not speaking to each other. I'm worried that permanent assignments would only lead to more resentment if someone feels their area is harder to maintain.
+- [72] **Toshio**: @Ryuji, the preparation time is a minor inconvenience compared to the current chaos. Option B provides a professional standard and a formal billing process, which is the only way to ensure that supply costs and service fees are settled fairly and promptly.
+- [73] **Ryuji**: @Toshio, it is not a minor inconvenience when it happens every week. If we still have to tidy and manage the arrival window, we are just paying a premium to shift the labor slightly. We need a solution that actually accounts for the hours.
+- [74] **Benjamin**: @Toshio, @Ryuji, your debate over the "premium" of professional cleaning is fascinating, yet it ignores the core issue. Option C is a rigid machine that treats a ghost and a chef as equals, which is a logical fallacy.
+- [75] **May**: @Benjamin, stop trying to turn this into a philosophy class! Option C isn't a "rigid machine," it's just a plan! At least with a rota, we can actually agree on a checklist so the state of the room doesn't change every single week!
+- [76] **Midori**: @May, I think you're right! A rota with a checklist would be much fairer than permanent spots. It lets us share the burden and ensures no one feels stuck with the hardest job for the whole year.
+- [77] **Toshio**: @Benjamin, your focus on usage is a separate issue from the necessity of a functioning system. Option C is prone to the same "standard" disputes May mentioned. Option B is the only one that guarantees a professional result and a clear financial trail.
+- [78] **Ryuji**: @Toshio, a professional result is useless if the preparation time still eats into our personal hours. Option C is the only choice that makes the time commitment explicit and shared, provided we use a checklist to keep the workload predictable.
+- [79] **Benjamin**: @Toshio, @Ryuji, you both seek a "functioning system," yet you ignore that a system is only as fair as its inputs. Option C is a blind rotation that rewards the absent and punishes the present. It is a mathematical equality, not a moral one.
+- [80] **May**: @Benjamin, you're just obsessed with who's a "ghost" and who's a "chef"! I don't care who uses the kitchen more; I just want to know that when I walk into the bathroom, it's actually clean! Option C is the only way to keep us all accountable!
+- [81] **Midori**: @Benjamin, I understand your point about usage, but I'm more worried about us staying on speaking terms. Option C feels like the kindest way to ensure no one feels singled out or burdened alone for too long.
+- [82] **Toshio**: While Option C offers a shared burden, it does not address the financial instability of our supplies or the risk of one person funding the house. Option B is the only choice that ensures a professional standard and a transparent, settled invoice. I vote for Option B.
+- [83] **Ryuji**: Option B is a financial solution to a labor problem, but it doesn't actually eliminate the time cost. Option C is the only choice that makes the workload explicit and shared. I vote for Option C.
+- [84] **Benjamin**: It is a tragedy of logic that we must choose between a professional invoice and a blind rota. Since Option A is a social death sentence and Option B is a costly illusion, I shall vote for Option C. I vote for Option C.
+- [85] **May**: @Benjamin, finally you've stopped the philosophy lecture! I'm with you and Ryuji on this one. Option C is the only way to stop the guessing game and keep us all in check. I vote for Option C!
+- [86] **Midori**: I agree with the majority. While Option B is tempting for the quality, Option C is the most balanced way to share the effort and keep our spirits high. I vote for Option C!
+### Vote
+- Toshio -> B
+- Ryuji -> C
+- Benjamin -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

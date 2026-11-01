@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: We must verify crew capacity before committing to any plan. I will examine the roster books for the late-turn pool.
+- [6] **Takumi**: I refuse to repeat past mistakes. I will check the completion records of the earlier accessibility programme to see what actually finished.
+- [7] **Toshio**: I need to understand the hidden approval chains. I will review the joint operators' committee minutes.
+- [8] **Daisuke**: I worry about the long-term costs. I will look into the ticketing contractor fees and paving rates.
+- [9] **Sakura**: I want to know where minutes actually go! I will check the journey audits on where minutes go.
+- [10] **Victoria**: @Takumi, completion records are useful, but they do not tell us who is left to do the next job.
+- [11] **Takumi**: @Victoria, you are right. But if the last plan failed, the crew is useless. I need to know what actually broke.
+- [12] **Toshio**: @Takumi, the drawings rarely show the real bottleneck. I am checking the committee minutes to see who else must sign off.
+- [13] **Daisuke**: @Toshio, I agree. Hidden approvals often delay things. I am just trying to see if the fees will keep rising.
+- [14] **Sakura**: @Daisuke, fees are boring! I am curious if the stopwatch proves the crowd is actually stuck or just loud.
+- [15] **Victoria**: @Sakura, crowd counts show demand, not capacity. I need to know if the late-turn rosters are already empty before we promise more.
+- [16] **Takumi**: @Sakura, loud is a symptom. I need the autopsy. If the last plan stalled, the new one will too.
+- [17] **Toshio**: @Victoria, capacity is one layer. I am tracing the approval signatures to find the invisible gates that stop work before it starts.
+- [18] **Daisuke**: @Sakura, I understand the noise. But I am worried the fees will eat the budget before the work even starts.
+- [19] **Sakura**: @Victoria, but if the stopwatch says the platform is empty, why do people complain? I want to find the real bottleneck!
+- [20] **Victoria**: @Sakura, the stopwatch measures flow, not the hands that keep it moving. I will also check the crew establishment and maintenance contract.
+- [21] **Takumi**: @Victoria, the hands matter, but the scars matter more. I will also check the two pilots from eight years ago to see what they actually delivered.
+- [22] **Toshio**: @Victoria, the hands matter, but the signatures stop them. I will also check the contingency pricing inside the pre-war shells.
+- [23] **Daisuke**: @Victoria, the hands matter, but the fees bind them. I will also check the balances in the capital ledger to see what is truly left.
+- [24] **Sakura**: @Victoria, I will also check the timed runs and crowd counts mid-city! I want to see if the stopwatch matches the grumbling.
+## Round 2
+- [35] **Victoria**: The late-turn pool is hollow. Overtime covers everything. The lift contract has spare capacity, though.
+- [36] **Takumi**: The accessibility programme finished four lifts on time, but the lane priorities failed. The pilots worked. I will not repeat the lane mistake.
+- [37] **Toshio**: The committee minutes reveal a data deadlock between ferry and rail. Roadway consents are delegated, though.
+- [38] **Daisuke**: The fees exceed the paving budget. The ledger has a lapsed grant balance, but the operating subsidy was trimmed.
+- [39] **Sakura**: The stopwatch says platforms clear fast, but the trips are slower! The minutes vanish in the waiting gaps, not the crowds.
+- [40] **Victoria**: @Takumi, the lane failure confirms your caution. But the hollow late-turn pool means any plan needing overnight works is already overcommitted.
+- [41] **Takumi**: @Victoria, the hollow pool is a trap. I will not sign off on anything needing overnight shifts. The pilots proved we can deliver without them.
+- [42] **Toshio**: @Takumi, the data deadlock is the real trap. Any plan touching ferry or rail integration will stall in committee. Roadway is clear.
+- [43] **Daisuke**: @Toshio, that deadlock is frightening. I am glad the roadway is clear. I just need to know if the lapsed grant can cover the rising fees.
+- [44] **Sakura**: @Toshio, if the ferry and rail are stuck, we must fix the waiting gaps! The stopwatch proves the connections are the real thief, not the platforms.
+- [45] **Victoria**: @Sakura, the waiting gaps are real, but fixing them requires crews. The late-turn pool is empty. We cannot promise what we cannot staff.
+- [46] **Takumi**: @Sakura, the gaps are real, but the pilots proved we can fix them without overnight crews. I refuse to risk the hollow pool again.
+- [47] **Toshio**: @Sakura, the gaps are real, but the pre-war shells hide voids. Bidders price heavy contingency now. That is where the schedule dies.
+- [48] **Daisuke**: @Sakura, the gaps hurt, but the fees are rising. I worry the lapsed grant will vanish before we fix them.
+- [49] **Sakura**: @Daisuke, if the grant is gone, we must fix the gaps with what we have! The stopwatch says the waiting is the enemy, not the money.
+- [50] **Victoria**: @Daisuke, the lapsed grant is a ghost. The real constraint is the hollow late-turn pool. We must pick a plan that fits the spare lift capacity, not the empty rosters.
+- [51] **Takumi**: @Victoria, the lift capacity is the only safe harbor. I will not gamble on the empty rosters. The pilots proved daytime works succeed.
+- [52] **Toshio**: @Victoria, the lift capacity is safe, but the pre-war shells are a minefield. I will not risk a plan that digs into those voids.
+- [53] **Daisuke**: @Victoria, I hear you. The rosters are empty, but the fees are rising. I am afraid the lapsed grant will not cover the ticketing costs.
+- [54] **Sakura**: @Victoria, the stopwatch says the waiting is the thief! We must fix the gaps, not just the lifts. I am ready to see the plans!
+## Round 3
+- [60] **Victoria**: Candidate B is a trap. It demands overnight crews, but the late-turn pool is hollow. I cannot support a plan we cannot staff.
+- [61] **Takumi**: Candidate B is a trap. The pilots proved we can deliver without overnight crews. I refuse to gamble on the hollow late-turn pool again.
+- [62] **Toshio**: Candidate D is a trap. The committee minutes show ferry and rail data terms are deadlocked. It will stall in approval.
+- [63] **Daisuke**: Candidate D is frightening. The ticketing fees are already rising, and the lapsed grant is shrinking. I worry the costs will spiral out of control.
+- [64] **Sakura**: @Toshio, the stopwatch says the waiting gaps are the real thief! Candidate A fixes the mid-city trips, not the ticket machines.
+- [65] **Victoria**: @Sakura, the stopwatch proves the gaps, but Candidate A needs rebuilt islands. That is daytime work, which fits our spare lift capacity.
+- [66] **Takumi**: @Sakura, the stopwatch proves the pain, but the lane priorities failed last time. I refuse to repeat that mistake. Candidate A is a trap.
+- [67] **Toshio**: @Takumi, the lane failure was a priority error, not a structural one. Candidate A is roadway, which is delegated. It avoids the committee deadlock.
+- [68] **Daisuke**: @Takumi, I am sorry, but the fees for D are too high. I am afraid the lapsed grant will not cover the ticketing costs.
+- [69] **Sakura**: @Takumi, the stopwatch says the mid-city trips are slow! Candidate A fixes the waiting gaps, not the ticket machines. I am curious if the lanes will actually work this time!
+- [70] **Victoria**: @Takumi, the lane failure was a priority error, not a structural one. Candidate A is roadway, which is delegated. It avoids the committee deadlock.
+- [71] **Takumi**: @Toshio, I hear you. But the records show the lanes were returned to mixed traffic. I will not trust a plan that repeats that failure.
+- [72] **Toshio**: @Takumi, the records show a priority error, not a structural flaw. Roadway consents are delegated. Candidate A avoids the committee deadlock entirely.
+- [73] **Daisuke**: @Takumi, I understand your fear. But the ledger shows the grant is shrinking. I worry D will drain it before the work starts.
+- [74] **Sakura**: @Takumi, the stopwatch says the mid-city trips are slow! Candidate A fixes the waiting gaps, not the ticket machines. I am curious if the lanes will actually work this time!
+- [75] **Victoria**: @Takumi, the lane failure was a priority error, not a structural one. Candidate A is roadway, which is delegated. It avoids the committee deadlock.
+- [76] **Takumi**: @Toshio, I am stubborn, but I am not blind. The records are clear. I will not vote for a plan that repeats the lane failure.
+- [77] **Toshio**: @Takumi, the pre-war shells in Candidate C are a minefield. Bidders price heavy contingency for hidden voids. That is where schedules die.
+- [78] **Daisuke**: @Takumi, I hear your caution. But the ledger is empty. I am afraid D will drain the lapsed grant before the work even begins.
+- [79] **Sakura**: @Takumi, I am sorry, but the stopwatch says the waiting is the thief! Candidate A fixes the mid-city trips, not the ticket machines. I am curious if the lanes will actually work this time!
+### Vote
+- Victoria -> A
+- Takumi -> C
+- Toshio -> A
+- Daisuke -> A
+- Sakura -> A
+## Result
+- adopted: A

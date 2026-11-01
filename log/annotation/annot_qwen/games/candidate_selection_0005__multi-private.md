@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: Hi everyone! I’m really excited to help pick the best expansion. I just worry about plans falling apart when things get unpredictable.
+- [6] **Benjamin**: Yumi, your caution is noted. I worry we’re ignoring past data. Let’s not reinvent the wheel based on vibes.
+- [7] **Shion**: I observe your reliance on sentiment. Data is objective. I will verify the actual skill sets on our roster before we commit to anything.
+- [8] **Minako**: I agree with Benjamin. We must examine the structural funding first. I will review the county grant terms and the endowment.
+- [9] **Daisuke**: I’m a bit nervous, but I think we should check the bus links in the two outer wards first.
+- [10] **Yumi**: @Benjamin, I hear you! But I think we need to see if our past outreach actually worked. I’ll check the attendance sheets from former stops.
+- [11] **Benjamin**: @Yumi, attendance sheets are a start, but they don’t explain *why* those stops failed. I’ll check the two programmes begun six years ago.
+- [12] **Shion**: I will examine the volunteer register and supervision training. We must confirm who actually possesses the required competencies before assigning new duties.
+- [13] **Minako**: I will also review the running and equipment lines from last year. We need to understand our baseline costs before projecting future needs.
+- [14] **Daisuke**: I’ll look into the winter road closures north of the river. It affects who can reach us.
+- [15] **Yumi**: @Daisuke, that’s a great point! I’m glad we’re checking the roads. I’ll look into the bus links in the outer wards too.
+- [16] **Benjamin**: @Daisuke, road closures are a logistical headache, not a strategic failure. I’ll examine the evening room bookings and remote catalogue use to see actual demand patterns.
+- [17] **Shion**: I will review the neighbourhood associations and tool certification. External partnerships require verified credentials, not assumptions.
+- [18] **Minako**: I will examine the volunteer register and supervision training. We must verify our current capacity before adding new responsibilities.
+- [19] **Daisuke**: I’m sorry, I didn’t mean to overlap. I’ll just stick to the winter closures for now.
+- [20] **Yumi**: I’m all set! I’ll check the attendance sheets and the bus links. Let’s see what the data says!
+- [21] **Benjamin**: I’ll review the two programmes begun six years ago and the evening room bookings. Let’s see what the records actually say.
+- [22] **Shion**: I will review the volunteer register and the neighbourhood associations. Competence is not assumed; it is verified.
+- [23] **Minako**: I will review the county grant terms and the running and equipment lines. We must understand the funding structure and baseline costs before proceeding.
+- [24] **Daisuke**: I’ll check the winter road closures and the bus links. I just want to see who can actually get here.
+## Round 2
+- [35] **Yumi**: @Daisuke, the bus links are gone! Residents face an hour’s trip. @Benjamin, the old outreach spots actually drew more people than the main building!
+- [36] **Benjamin**: @Yumi, interesting. But my findings show evening demand peaks after we lock up. We’re missing a clear window.
+- [37] **Shion**: @Minako, your funding review is irrelevant if no one can supervise the new staff. The technician retired; the roster is empty.
+- [38] **Minako**: @Shion, the funding structure is critical. The grant covers only twelve months, then the flat budget absorbs the cost. We must plan for that transition.
+- [39] **Daisuke**: @Yumi, that hour trip is really hard. @Benjamin, if evenings are peak, maybe we can adjust hours?
+- [40] **Yumi**: @Benjamin, that’s a huge gap! If we can’t reach them, the expansion fails. @Daisuke, maybe mobile units?
+- [41] **Benjamin**: @Yumi, mobile units are a logistical band-aid. The real issue is that we ignore the six-year-old digitisation failure. We need to fix the process, not just the transport.
+- [42] **Shion**: @Benjamin, process is irrelevant without personnel. The roster lacks supervisors. We cannot assign duties to ghosts.
+- [43] **Minako**: @Shion, personnel is vital, but the vehicle overrun proves our baseline is unstable. We cannot absorb new costs if the foundation is already leaking.
+- [44] **Daisuke**: @Shion, I worry about the people stuck in those outer wards. If we can’t reach them, the expansion feels empty.
+- [45] **Yumi**: @Daisuke, I agree! But @Benjamin, fixing the process won’t help if people can’t get here. We need both!
+- [46] **Benjamin**: @Yumi, you’re conflating access with execution. The digitisation failure proves we lack the internal discipline to finish what we start, regardless of transport.
+- [47] **Shion**: @Benjamin, discipline is a luxury. I have verified the roster. We lack the certified supervisors to execute your "process."
+- [48] **Minako**: @Shion, I hear your concern. But without stable funding, we cannot hire the supervisors you need. The grant’s twelve-month limit is the immediate constraint we must address.
+- [49] **Daisuke**: @Minako, I understand the funding worry. But if the roads close, no money helps. I just want to make sure no one is left behind.
+- [50] **Yumi**: @Benjamin, I hear you, but I worry about relying on conditions we can’t control. Let’s find a plan that works even when things get unpredictable!
+- [51] **Benjamin**: @Yumi, unpredictability is just poor planning. The records show we failed to index half the images. We must fix that internal rot before adding new variables.
+- [52] **Shion**: @Benjamin, your "rot" is a symptom. The cause is the absence of verified skills. I will not fund a process that lacks the human capacity to execute it.
+- [53] **Minako**: @Benjamin, the vehicle overrun confirms the baseline is unstable. We cannot absorb new costs if the foundation is already leaking.
+- [54] **Daisuke**: I’m sorry, I’m getting a bit overwhelmed. I just keep thinking about those residents. Is there really no way to help them?
+## Round 3
+- [60] **Yumi**: @Daisuke, Option D sounds perfect! It brings the library to them, solving the bus problem. I’m so excited about this!
+- [61] **Benjamin**: @Yumi, Option D is a logistical band-aid. Option B addresses the digitisation failure I found. We must fix the process, not just transport.
+- [62] **Shion**: @Benjamin, Option B requires the very supervisors I confirmed are missing. You cannot digitize without verified staff. Option C relies on external partners, bypassing our internal gaps.
+- [63] **Minako**: @Shion, Option C’s recurring costs hit the flat budget after the grant expires. We must avoid a structural deficit.
+- [64] **Daisuke**: @Yumi, Option D really helps those outer wards. I’m worried about winter roads, but it feels like the only way to reach them.
+- [65] **Yumi**: @Benjamin, I hear you, but Option D is flexible! If roads close, we can adjust. It’s the only plan that doesn’t rely on perfect conditions.
+- [66] **Benjamin**: @Yumi, flexibility is just a polite term for lack of planning. Option B fixes the root cause. We cannot keep patching symptoms.
+- [67] **Shion**: @Benjamin, Option B is a trap. It demands the certified technicians I proved are absent. Option C uses external partners, bypassing our internal incompetence.
+- [68] **Minako**: @Benjamin, Option B’s capital costs draw on the endowment, but the recurring portal maintenance hits the flat budget. We must avoid that structural deficit.
+- [69] **Daisuke**: @Shion, I worry about the winter closures. If the roads shut, can the mobile unit still reach those outer wards?
+- [70] **Yumi**: @Daisuke, that’s a real worry! But @Benjamin, Option B is just more data. Option D actually helps people right now, even if it’s tricky.
+- [71] **Benjamin**: @Yumi, Option B is the only proposal that respects the records. We cannot ignore the unindexed images.
+- [72] **Shion**: @Benjamin, you ignore the human element. Option C leverages external partners, bypassing our internal void. I vote C.
+- [73] **Minako**: @Shion, Option C’s recurring costs hit the flat budget after the grant expires. We must avoid a structural deficit.
+- [74] **Daisuke**: @Shion, I’m sorry, but I can’t vote for C. The outer wards are too far. I have to choose D, despite the winter risks.
+- [75] **Yumi**: @Benjamin, I know you want to fix the past, but Option D is the only one that adapts to change. I’m voting for D!
+- [76] **Benjamin**: @Yumi, sentiment is not strategy. Option B is the only choice that respects the evidence. I vote B.
+- [77] **Shion**: I vote C. External partners provide the verified skills our roster lacks. We cannot build on a foundation of incompetence.
+- [78] **Minako**: I vote A. The workshop’s capital costs draw on the endowment, avoiding the recurring deficit that plagues the other options.
+- [79] **Daisuke**: I’m voting for D. It’s the only way to reach those outer wards, even with the winter risks.
+### Vote
+- Yumi -> D
+- Benjamin -> B
+- Shion -> C
+- Minako -> A
+- Daisuke -> D
+## Result
+- adopted: D

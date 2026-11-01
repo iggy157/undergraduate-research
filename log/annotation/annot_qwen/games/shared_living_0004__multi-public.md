@@ -1,0 +1,73 @@
+# shared_living_0004__multi-public (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to pick two things to look into! I’m curious about how the money works out for everyone.
+- [6] **Victoria**: I need to know the total cost before we commit. I will look into all-in rates and what separately booked rooms cost last time.
+- [7] **Midori**: I’d like to understand why we felt so disconnected last year. I’ll look into how last year’s days ran and the time alone in the shared-house year.
+- [8] **Toshio**: I need to see how much of the week is lost to travel. I will look into ferry sailings and train time, and getting around by train and bus.
+- [9] **Daisuke**: I’m a bit nervous about the details. I’ll look into bathing hours and bathroom provision, and inn mealtimes and room arrangements.
+- [10] **Sakura**: @Victoria, that sounds smart! I’ll check the offshore house prices and what our rooms cost last time.
+- [11] **Victoria**: @Sakura, checking the offshore prices is wise. It helps us compare the total cost against the city option before we decide.
+- [12] **Midori**: @Sakura, I’m glad you’re looking at the costs too. It helps us see the whole picture before we choose.
+- [13] **Toshio**: @Sakura, checking the offshore prices is wise. It helps us compare the total cost against the city option before we decide.
+- [14] **Daisuke**: I’m glad you’re checking the prices. It helps me feel less worried about the money side of things.
+- [15] **Sakura**: I’m so excited to see what we find! @Daisuke, I hope the bathroom details make you feel more comfortable.
+- [16] **Victoria**: @Daisuke, knowing the exact schedule and room layout will help you settle in. I hope it eases your mind about the daily routine.
+- [17] **Midori**: @Daisuke, I hope those details help you feel more at ease. Knowing the routine can make a big difference.
+- [18] **Toshio**: @Daisuke, knowing the exact schedule and room layout will help you settle in. I hope it eases your mind about the daily routine.
+- [19] **Daisuke**: Thank you. I’m just trying to make sure I can sleep well.
+- [20] **Sakura**: I’m done picking! I’ll check offshore house prices and last year’s room costs. Can’t wait to see what we find!
+- [21] **Victoria**: I’ll look into all-in rates versus separate meals, and what our rooms cost last time. Knowing the full bill upfront is essential for me.
+- [22] **Midori**: I’ll look into how last year’s days ran and the time alone in the shared-house year. Understanding that will help me feel less crowded or alone next time.
+- [23] **Toshio**: I will look into ferry sailings and train time, and getting around by train and bus.
+- [24] **Daisuke**: I’ll look into bathing hours and bathroom provision, and inn mealtimes and room arrangements.
+## Round 2
+- [35] **Sakura**: Whoa! One bill for everyone means no one gets stuck paying extra! That’s so much fairer than last time.
+- [36] **Victoria**: The 8,000 yen gap last year was unacceptable. A single bill for the whole house eliminates that uncertainty entirely.
+- [37] **Midori**: I found that last year we barely saw each other, yet the shared house left no room for quiet. I need a place that balances both.
+- [38] **Toshio**: The ferry eats two full days. The train takes ninety minutes. I need to know which option preserves the most actual holiday time.
+- [39] **Daisuke**: I found the inn has one shared bathroom and fixed meal times. The city room has a door and no schedule.
+- [40] **Sakura**: @Toshio, two days lost to the ferry sounds awful! I hope the train is much faster so we can actually play!
+- [41] **Victoria**: @Toshio, the ninety-minute train is far more efficient. It preserves the week, which is what matters.
+- [42] **Midori**: @Toshio, the train saves us two days. That means more time for us to actually be together, which is what I need.
+- [43] **Toshio**: @Sakura, the train is ninety minutes. The ferry takes two days. I need the week back, not spent waiting.
+- [44] **Daisuke**: @Midori, the fixed meal times worry me. I need to know if I can eat when I’m hungry, not when the clock says.
+- [45] **Sakura**: @Daisuke, that sounds tough! But maybe the island house is better? I found out it’s one big bill, so nobody pays extra!
+- [46] **Victoria**: @Daisuke, the city room offers a door and no timetable. That flexibility might help you sleep better than a shared schedule.
+- [47] **Midori**: @Daisuke, I hear you. The shared house left no room for quiet, but the city offers a door. I hope that privacy helps you rest.
+- [48] **Toshio**: @Daisuke, the city trains run every few minutes. You can move without waiting for a bus that stops early.
+- [49] **Daisuke**: @Victoria, a door and no timetable sounds much better. I worry about the cold water and fixed meals at the inn.
+- [50] **Sakura**: I’m so happy the island house means one fair bill! No more guessing who pays what. That feels really safe and fun for all of us!
+- [51] **Victoria**: The single bill resolves the 8,000 yen discrepancy. I need certainty on the total cost before we commit. The island option offers that clarity.
+- [52] **Midori**: I see the tension now. We need to be together, but also need space. A town with streets might offer that balance.
+- [53] **Toshio**: The train saves two days. The city trains run constantly. I need the week back, not spent waiting or moving.
+- [54] **Daisuke**: I’m relieved the city room has a door. No fixed meals means I can eat when I’m ready. That sounds much safer for my sleep.
+## Round 3
+- [60] **Sakura**: I love the island idea! One big house means we’re all together, and the bill is super fair. Plus, it feels like a big adventure!
+- [61] **Victoria**: The island offers one bill, eliminating the 8,000 yen gap. I need that certainty before committing. I support option A.
+- [62] **Midori**: I found that last year we barely met, yet the shared house left no room for quiet. I need a place that balances both.
+- [63] **Toshio**: The ferry eats two days. The train takes ninety minutes. I need the week back, not spent waiting.
+- [64] **Daisuke**: I’m worried about the cold water and fixed meals at the inn. The city room has a door and no schedule, which feels safer for my sleep.
+- [65] **Sakura**: @Toshio, two days on a boat sounds boring! But @Midori, a town with streets might give us space to be together AND alone?
+- [66] **Victoria**: @Toshio, the ferry cost is real, but the single bill resolves my primary concern. I cannot accept the uncertainty of separate city accounts.
+- [67] **Midori**: @Toshio, I hear your frustration with the ferry. But @Sakura, a town with streets offers the balance I need: togetherness without the suffocation of a shared house.
+- [68] **Toshio**: @Midori, the town bus stops before seven. That limits our evening movement. The city trains run constantly. I need the week back, not spent waiting.
+- [69] **Daisuke**: @Toshio, the city trains running constantly means I don’t have to wait for a bus that stops early. That flexibility helps me feel less trapped.
+- [70] **Sakura**: @Toshio, I know the ferry is long, but the island house means one fair bill! No more guessing who pays what. That feels really safe and fun for all of us!
+- [71] **Victoria**: @Toshio, I understand the time loss, but the island’s single bill is the only option that guarantees cost certainty. I cannot risk the city’s separate accounts.
+- [72] **Midori**: @Toshio, the bus stopping early is a real constraint. But the city’s separate rooms risk us drifting apart again, which I cannot accept.
+- [73] **Toshio**: @Midori, the city trains run every few minutes. I can move without waiting for a bus that stops early. I need the week back, not spent waiting.
+- [74] **Daisuke**: @Toshio, the constant trains mean I can move without waiting. That flexibility helps me feel less trapped than the early bus.
+- [75] **Sakura**: I’m voting for the Island Trip! One fair bill means no one gets stuck paying extra, and we get to be together in one big house. It feels the safest and most fun!
+- [76] **Victoria**: I am voting for the Island Trip. The single bill eliminates the cost uncertainty that concerns me most. I cannot accept the risk of separate accounts.
+- [77] **Midori**: I am voting for the Hot Spring Town. The streets offer the balance of togetherness and space I need, avoiding the isolation of last year.
+- [78] **Toshio**: I am voting for the City Break. The constant trains preserve the week, unlike the ferry or the early bus.
+- [79] **Daisuke**: I am voting for the City Break. The door and no timetable help me sleep, and the constant trains mean I don't have to wait.
+### Vote
+- Sakura -> A
+- Victoria -> A
+- Midori -> C
+- Toshio -> B
+- Daisuke -> B
+## Result
+- adopted: B

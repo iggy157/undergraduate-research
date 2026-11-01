@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I'm so excited to help pick our new system! I want to make sure whatever we choose actually works for the people on the floor, so let's make this great!
+- [6] **Mizuki**: It is a pleasure to be here. To ensure we make a sustainable choice, I believe we should look beyond the initial proposal and examine the actual long-term costs and financial patterns of our previous systems.
+- [7] **Asuka**: I agree that long-term data is essential. To avoid repeating past failures, I want to understand where accountability breaks down during crises and how our project scopes typically drift over time.
+- [8] **Rin**: I'm so excited to be here! I want to make sure we don't pick something that just gets old and dusty or breaks as soon as we hand it back. Let's find something really awesome!
+- [9] **Servas**: It is a joy to be with you all. Let us approach this selection with wisdom and a spirit of generosity. I believe the heart of any system is the people who sustain it.
+- [10] **Kenji**: I totally agree, Servas! The people are the most important part. I'm worried about the gear in the yards, so I want to see the yard devices and the 2021 scheduling trial!
+- [11] **Mizuki**: I agree that the human element is vital, but we must also be realistic about the budget. I will examine the five years of renewal invoices and the board minutes on capital and operating requests.
+- [12] **Asuka**: To address my concerns regarding accountability and scope drift, I will examine the support ownership during last winter's outage and the warehouse rule changes after new accounts.
+- [13] **Rin**: I want to see the upgrade history of the dispatch tool and the data lift in the 2018 pay move! I bet they'll tell us if things just got old or if they were messy!
+- [14] **Servas**: It is heartening to see such passion. To ensure our transition does not break the spirits of those who carry the load, I shall examine administrator retirements and hiring times, and depot supervisors and the last rollout.
+- [15] **Kenji**: That sounds like a great plan! I'm also going to look into the depot calendar and the peak-season cutover. I want to make sure the new system doesn't crash right when we're the busiest!
+- [16] **Mizuki**: I believe our current selections are sufficient. By analyzing the renewal invoices and board minutes, I can identify the hidden costs that often emerge after the initial contract is signed. I am ready to proceed.
+- [17] **Asuka**: I believe my chosen records will provide the necessary clarity on operational accountability and systemic drift. I have no need for further data at this time. I am ready to proceed.
+- [18] **Rin**: I'm all set too! I can't wait to see if the old tools were just sleepy or if they were actually broken. Let's go find out! I'm ready!
+- [19] **Servas**: I find our collective approach to be most balanced. By looking at both the financial structures and the human experience, we shall find a path that serves everyone. I, too, am ready to proceed.
+- [20] **Kenji**: I'm super ready! I can't wait to see what we find out about the yards and the calendar. Let's do our best to pick a system that really helps everyone!
+- [22] **Mizuki**: I agree. Let us move forward and see what the records reveal. I look forward to analyzing the findings with you all.
+- [24] **Asuka**: I concur. Let us proceed to the findings and analyze the evidence objectively. I look forward to seeing if the records reflect the systemic issues I suspect.
+- [26] **Rin**: Me too! I'm going to go on a big treasure hunt in the files! I hope we find some really cool clues that help us pick the best one. See you all soon!
+- [28] **Servas**: May the truths we uncover be a guiding light for us all. I wish you clarity and insight in your investigations. Until we reconvene, I bid you a productive search.
+## Round 2
+- [40] **Kenji**: Oh man, this is a bit scary! I found out our yard scanners are super old, and the 2021 trial was a total mess because people just went back to using spreadsheets! We really need something that actually works!
+- [41] **Mizuki**: My findings are equally concerning. It appears that while initial capital requests are often trimmed, recurring operating costs are approved without scrutiny. Furthermore, separately licensed add-ons have climbed yearly, creating a significant hidden financial burden.
+- [42] **Asuka**: The data confirms my suspicions. Last winter's outage remained unowned for two days because support was scattered across four suppliers. Additionally, warehouse rules were rewritten twice mid-year, proving that our initial project scopes are fundamentally unstable.
+- [43] **Rin**: I found some really weird stuff! The dispatch tool is like a sleepy dinosaur—it's so old and they skipped upgrades because they were too busy! And the 2018 pay move was a total mess because the outside people left mistakes everywhere!
+- [44] **Servas**: My findings remind us that while systems are built of code, they are sustained by people. We are losing the wisdom of our administrators, and our crews often find official training incompatible with their lived reality.
+- [45] **Kenji**: @Servas, that's so true! If the training doesn't match the real work, no wonder people use spreadsheets. And with our depots running 24/7 in winter, we can't afford any mistakes or "paper dispatch" days!
+- [46] **Mizuki**: @Kenji, you are right to be concerned about the operational risk. However, we must also consider that a system that fails the users often leads to expensive, unplanned "fixes" and add-ons that drain our budget over time.
+- [47] **Asuka**: @Mizuki, exactly. The financial drain is a symptom of the underlying instability. If we cannot define a scope that survives a year or identify a single point of accountability during a crash, we are simply paying for chaos.
+- [48] **Rin**: @Asuka, that's exactly it! It's like when someone "fixes" a toy but leaves a piece missing, and then you have to fix it again! We can't have a new system that just gets sleepy or comes back broken!
+- [49] **Servas**: It is a delicate balance we seek. We must find a solution that does not merely offer a list of features, but one that respects the limited strength of our people and the wisdom of the depot floor.
+- [50] **Kenji**: I totally agree! We need a system that's tough enough for the yards and doesn't crash during the winter rush. If it's too fancy or complicated, the guys will just go back to their spreadsheets again!
+- [51] **Mizuki**: @Kenji, simplicity is a virtue, but we must ensure that "simple" doesn't mean a low entry price that masks expensive yearly increases. We need a vendor whose pricing is transparent and bundled to avoid those creeping add-on costs.
+- [52] **Asuka**: @Mizuki, transparency in pricing is useful, but it is secondary to operational control. A bundled price is meaningless if the system's scope drifts and we are forced to pay for constant, unplanned modifications just to keep it functional.
+- [53] **Rin**: @Asuka, but if the system is too hard to change, it just becomes a sleepy dinosaur like the dispatch tool! We need something that stays fresh and doesn't need a million "fixes" from outside people who don't care!
+- [54] **Servas**: Wisdom teaches us that the most sophisticated tool is useless if the hand that holds it is exhausted. We must prioritize a transition that is gentle on our remaining experts and intuitive for our crews.
+- [55] **Kenji**: I'm with you, Servas! We can't let the people get exhausted. Let's find a vendor that's actually tough and simple enough that the depot crews will love it and not feel stressed!
+- [56] **Mizuki**: I agree, Kenji. However, we must be vigilant. A system that is "simple" to use but complex to pay for will eventually create a different kind of stress for the organization. Let us seek a partner that is honest about the total cost of ownership.
+- [57] **Asuka**: @Mizuki, honesty about cost is a baseline, not a solution. We must prioritize a vendor that provides a single point of accountability and a flexible framework for scope changes. Otherwise, we are just buying a more expensive version of our current failure.
+- [58] **Rin**: I agree! We need a partner who actually stays to help us and doesn't just leave a mess behind. Let's pick someone who keeps things fresh and doesn't let our tools turn into dinosaurs! I'm ready for the candidates!
+- [59] **Servas**: It is a comfort to see us all aligning our hearts toward the well-being of the company. Let us carry this mindfulness into the final selection, ensuring we choose a path that honors both our budget and our people.
+## Round 3
+- [65] **Kenji**: Wow, these options are interesting! I think Anchor Industrial Software sounds the best because they have an engineering team right here during the rollout. That would be awesome for the guys in the yards!
+- [66] **Mizuki**: I must disagree with Kenji. Anchor's on-site team is a short-term benefit, but we must look at the long-term. Corvus is the most dangerous choice; its modular, separate licensing is exactly how we end up with creeping, unscrutinized add-on costs.
+- [67] **Asuka**: @Mizuki, I agree that Corvus is a liability. Its modular structure is a recipe for the same scattered support and accountability gaps we saw during last winter's outage. We cannot afford a system where responsibility is fragmented across components.
+- [68] **Rin**: @Kenji, Anchor sounds cool, but they put it on our own servers! That's how the dispatch tool became a sleepy dinosaur because nobody had time to upgrade it. We need something that stays fresh and doesn't get dusty!
+- [69] **Servas**: It is a joy to see your discernment. While Anchor's presence is comforting, we must remember our administrators are few and weary. A system on our own servers may become a burden they cannot carry.
+- [70] **Kenji**: @Rin, I didn't think about the servers! That's a good point. But we still need something tough! What about Meridian? It's a hosted suite, so it stays fresh, and it covers everything in one go!
+- [71] **Mizuki**: Meridian Systems is a strong contender. A hosted suite with a fixed configuration process suggests a more predictable cost structure, avoiding the fragmented licensing traps of Corvus and the hidden maintenance burdens of Anchor.
+- [72] **Asuka**: @Mizuki, I have a concern about Meridian's "fixed configuration process." My findings showed that our business needs shift rapidly. A rigid, fixed process is exactly how we end up with a system that no longer matches our reality within months.
+- [73] **Rin**: @Asuka, you're right! If it's too stiff, it'll just break when we try to change it. But Tessera has a marketplace and configurable workflows! That sounds like it stays fresh and doesn't get sleepy!
+- [74] **Servas**: Tessera's flexibility is a blessing, but we must be cautious. A marketplace of apps and configurable workflows may offer variety, yet it risks overwhelming our stretched administrators and confusing the crews who already struggle with new routines.
+- [75] **Kenji**: @Servas, I get that, but if it's too stiff like Meridian, the depot crews will just go back to their spreadsheets! Tessera sounds like it can actually adapt to how the yards really work!
+- [76] **Mizuki**: @Kenji, adaptability is useful, but we must be wary of the "application marketplace." That is a prime environment for the separately licensed add-ons that I found have climbed yearly in our past invoices. It could be a financial trap.
+- [77] **Asuka**: @Mizuki, the financial risk is real, but the operational risk of a rigid system is higher. However, Tessera's partner-led migration and training could create another accountability gap if the vendor and partner point fingers during a failure.
+- [78] **Rin**: @Asuka, that's exactly what happened with the pay move! The outside people left a mess and then just left. We need someone who actually owns the whole thing and doesn't just hand it back broken!
+- [79] **Servas**: It is a sobering reminder that the bridge between a tool and its use is built by people. If we choose a path of high complexity or fragmented ownership, we risk breaking the few pillars we have left.
+- [80] **Kenji**: @Rin, you're right! We can't have another mess. Meridian is hosted and one suite, so it's not a dinosaur, and it's not a puzzle like Corvus. It seems like the safest bet for the yards! I vote for Meridian Systems!
+- [81] **Mizuki**: @Kenji, I agree that Meridian is the safest financial choice. It avoids the modular traps of Corvus and the marketplace costs of Tessera, providing the predictability we need. I vote for Meridian Systems.
+- [82] **Asuka**: @Mizuki, @Kenji, while Meridian is financially predictable, its rigidity is a systemic risk. However, Corvus and Tessera introduce too much fragmentation in accountability. Meridian is the least volatile option. I vote for Meridian Systems.
+- [83] **Rin**: @Asuka, @Mizuki, @Kenji, I agree! Meridian is hosted so it won't become a sleepy dinosaur, and it's one big suite instead of a bunch of pieces that might come back broken. I vote for Meridian Systems!
+- [84] **Servas**: It is a rare and beautiful thing to see such unity. While I feared the rigidity of Meridian might strain our crews, the risk of fragmentation in the other options is a far heavier burden. I vote for Meridian Systems.
+### Vote
+- Kenji -> D
+- Mizuki -> D
+- Asuka -> D
+- Rin -> D
+- Servas -> D
+## Result
+- adopted: D

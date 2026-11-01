@@ -1,0 +1,73 @@
+# shared_living_0026__single-online (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! Let's get this sorted. I really want to avoid guessing the numbers this time, so I'll look into the last year's ledger of outgoings and the bank statements on last year's renewals.
+- [6] **Jonathan**: I think it would be wise to understand the current atmosphere. I'll check the weekday turnout since the summer outings and the quieter members at the winter social.
+- [7] **Takumi**: I want to see who is actually doing the work and showing up. I'll take the tally of the sign-in sheets and the rota against the attendance record.
+- [8] **Toshio**: I will examine the outgoing treasurer's logged hours and the sign-up records for mid-year joiners to understand the administrative burden.
+- [9] **Kenji**: I'll check the taster evening forms from non-joiners and the minute books from the named-grade years to see how people feel about joining!
+- [10] **Mio**: Does anyone else think we should look at the sign-in sheets too? I'm worried we might miss something if only one person checks them.
+- [11] **Jonathan**: I believe Takumi has a firm handle on the attendance data, but I am open to sharing my findings on the social atmosphere if that helps.
+- [12] **Takumi**: I've got the sign-in sheets covered, Mio. I'll be thorough, so you don't need to waste your time on them.
+- [13] **Toshio**: I believe the current distribution of tasks is sufficient. We are covering the financial, administrative, and social aspects of the club quite comprehensively.
+- [14] **Kenji**: I agree with Toshio! We've got all the bases covered. I'm excited to see what the non-joiners had to say on those forms!
+- [15] **Mio**: Fair enough! I'll stick with the ledger and bank statements then. I just want to make sure we have a solid foundation for the numbers.
+- [16] **Jonathan**: I agree. Having a clear picture of both the finances and the members' feelings will ensure we make a balanced decision.
+- [17] **Takumi**: I'm just focused on the fairness of it all. If a few people are doing everything, the fee structure needs to reflect that reality.
+- [18] **Toshio**: I agree that fairness is important, though we must also ensure the system is sustainable for the person managing the accounts.
+- [19] **Kenji**: I just want to make sure we don't make it too scary for new people to join. Let's see what the records tell us!
+- [20] **Mio**: I'm happy with our plan then! Let's all go do our research and come back to share what we've found. See you all soon!
+- [21] **Jonathan**: I shall return shortly with my findings. Until then.
+- [22] **Takumi**: I'm on it. I'll find out exactly who's been carrying the load. See you in a bit.
+- [23] **Toshio**: I will begin my review of the records now. I look forward to seeing how our findings align.
+- [24] **Kenji**: Me too! I'll go see what those forms and minute books have to say. Good luck everyone!
+## Round 2
+- [35] **Mio**: Wow, it's a bit scary! Most of our costs are fixed things like hall hire and insurance, and a lot of people struggled to pay their renewals on time.
+- [36] **Jonathan**: That is concerning. I found that turnout for weekday meetings dropped significantly after the summer outings, and some quieter members feel uneasy about the cost per visit.
+- [37] **Takumi**: It's even worse than I thought. A tiny group of us are doing all the work and attending everything, while some people pay the same fee and never even show up.
+- [38] **Toshio**: The administrative side is equally taxing. Chasing individual payments takes hours every month, and calculating partial fees for mid-year joiners is a tedious, manual process.
+- [39] **Kenji**: I found out that a lot of people who came to taster evenings didn't join because a full year's fee was too much at once, and old named grades caused friction!
+- [40] **Mio**: @Toshio, if chasing individual payments is that hard, maybe we should avoid any system that requires collecting money at every single event.
+- [41] **Jonathan**: I agree with Mio. If we make the cost of attending a weekday meeting a conscious decision each time, we might see that turnout drop even further.
+- [42] **Takumi**: I'm still stuck on the fairness part. If we just do one flat fee, the people who are here every week and doing all the setup are basically subsidizing the people who never show up.
+- [43] **Toshio**: While I understand your point, Takumi, a complex system to ensure "fairness" often increases the administrative burden I just described. We must balance equity with practicality.
+- [44] **Kenji**: Maybe we could find a middle ground? I don't want to scare off new people with a huge upfront cost, but I also don't want the treasurer to be miserable!
+- [45] **Mio**: @Kenji, that's the tricky part! If we lower the upfront cost, we might end up with more of those manual calculations and chasing that @Toshio mentioned. We need a way to keep it simple but accessible.
+- [46] **Jonathan**: I wonder if we can find a way to keep the atmosphere welcoming. If people feel they are paying for something they aren't using, they might stop coming altogether.
+- [47] **Takumi**: But if we make it too cheap or optional, the people who actually run the place will just get more resentful. We can't ignore that a few of us are doing everything.
+- [48] **Toshio**: If we implement a system based on usage, we risk increasing the workload for the treasurer to an unsustainable level. We must consider the cost of the labor required to manage the fees.
+- [49] **Kenji**: What if we had different levels? That way, people who come a lot can pay more, and new people don't have to pay for a whole year right away!
+- [50] **Mio**: That sounds like a possibility, Kenji! But we have to be careful that it doesn't make the bookkeeping a nightmare for whoever takes over the treasurer role.
+- [51] **Jonathan**: I am also concerned that tiered levels might create a social divide, making some members feel like second-class citizens if they cannot afford the higher tier.
+- [52] **Takumi**: I'm more worried about the people who are already doing the work. If we have tiers, will the people who do the setup and locking up be in a different group than the ones who just show up?
+- [53] **Toshio**: Regardless of the social grouping, the primary issue is the volume of transactions. Any system that requires constant monitoring of who is in which tier will be a burden.
+- [54] **Kenji**: I just want us to find something that feels fair to everyone and doesn't stop people from joining! Let's see what the actual options are before we worry too much.
+## Round 3
+- [60] **Mio**: Okay, here are the options! We have A: a Flat Annual Fee, B: Tiered Membership, and C: Activity-Based Charging. Looking at our findings, A seems the simplest for the treasurer.
+- [61] **Jonathan**: I disagree with Option A. Given that turnout dropped when we introduced charges and some members feel uneasy about the cost per visit, a large upfront fee might further discourage attendance.
+- [62] **Takumi**: Option A is just as unfair as before. Why should the people who are here every week pay the same as someone who shows up twice a year? Option B seems better.
+- [63] **Toshio**: Option B could work, but only if the tiers are set at the start of the year. Option C is completely out of the question; the administrative burden would be unbearable.
+- [64] **Kenji**: I'm leaning towards Option B too! It lets new people join without a huge cost and avoids the friction of the old named grades if we do it right.
+- [65] **Mio**: @Jonathan, if we go with B, we can keep the entry tier low so it's not a barrier. But @Takumi, wouldn't a flat fee actually be fairer for the regulars since it's the cheapest per visit?
+- [66] **Jonathan**: Perhaps, but the psychological barrier of a large sum upfront is the issue. Option B allows people to commit at a level they feel comfortable with, preserving the welcoming atmosphere.
+- [67] **Takumi**: @Mio, it's only "cheaper per visit" if they actually come. Right now, the regulars are paying for the hall and insurance while others get a free ride. Option B lets us acknowledge different levels of commitment.
+- [68] **Toshio**: If we choose Option B, we must ensure the tiers are fixed annually. If members can switch tiers mid-year, we are back to the manual calculations and administrative chaos I warned about.
+- [69] **Kenji**: I agree with Toshio! As long as we keep the tiers simple and set them once a year, it should be easy to manage and welcoming for everyone.
+- [70] **Mio**: @Jonathan, if we keep the tiers simple, it shouldn't feel like a barrier. I'm starting to think Option B is the best compromise between the treasurer's sanity and the members' needs.
+- [71] **Jonathan**: I can agree to Option B, provided the tiers are designed to be inclusive and do not create a sense of hierarchy that might alienate our quieter members.
+- [72] **Takumi**: I'm satisfied with Option B. It addresses the imbalance of usage and effort while still being a structured system that doesn't require chasing people every single week.
+- [73] **Toshio**: Option B is acceptable, provided the rules for each tier are clear and the payment is collected upfront. It is the only viable alternative to Option A that doesn't destroy the treasurer's free time.
+- [74] **Kenji**: I'm all for Option B! It seems like the only way to make everyone happy—the regulars, the newcomers, and the treasurer. Let's do it!
+- [75] **Mio**: I think we've reached a consensus then! Option B balances the costs, the workload, and the welcoming feel we want. I'll cast my vote for Option B.
+- [76] **Jonathan**: I agree. Option B is the most balanced choice for our community. I vote for Option B.
+- [77] **Takumi**: It's the only way to make it fair for those of us putting in the work. I vote for Option B.
+- [78] **Toshio**: Since it avoids the chaos of activity-based charging while offering more flexibility than a flat fee, I vote for Option B.
+- [79] **Kenji**: I'm so glad we all agree! I vote for Option B too!
+### Vote
+- Mio -> B
+- Jonathan -> B
+- Takumi -> B
+- Toshio -> B
+- Kenji -> B
+## Result
+- adopted: B

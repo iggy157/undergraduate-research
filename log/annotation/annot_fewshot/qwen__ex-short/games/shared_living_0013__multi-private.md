@@ -1,0 +1,73 @@
+# shared_living_0013__multi-private (shared_living)
+
+## Round 1
+- [5] **Shizue**: I worry that the seating plan will quietly decide who talks to whom, without us choosing.
+- [6] **Toshio**: I agree. The current layout hides who gets the worse spots. We need to address that imbalance directly.
+- [7] **Daisuke**: I’m a bit nervous about changing things. I just want to make sure we aren’t wasting money on a layout that doesn’t work.
+- [8] **Mio**: I’m worried about losing my tiny gaps between meetings. I need to know exactly how much time the switch and daily setup will eat up.
+- [9] **Shunichi**: Comfort is invisible on paper. I need to check the physical setup.
+- [10] **Shizue**: @Mio, I understand your worry about time. Let us see if the new plan actually saves us those precious moments.
+- [11] **Toshio**: @Daisuke, cost is secondary to fairness. We must ensure the allocation of undesirable seats is explicit, not accidental.
+- [12] **Daisuke**: @Toshio, I hear you, but I really need to see the actual numbers first. I’m worried we’re spending too much.
+- [13] **Mio**: @Toshio, I agree fairness matters, but I need to know if the daily routine actually works for my schedule.
+- [14] **Shunichi**: @Mio, time is just another form of discomfort. I’ll ensure the physical setup doesn’t add to your daily friction.
+- [15] **Shizue**: @Shunichi, that is very kind. I am curious about the sound levels, too. A quiet corner helps me think clearly.
+- [16] **Toshio**: @Shizue, sound is a measurable form of inequality. I will verify the readings to ensure the quiet zones are distributed fairly, not by luck.
+- [17] **Daisuke**: @Shizue, I appreciate that. I’m just trying to understand if the current billing covers what we actually use.
+- [18] **Mio**: @Daisuke, I hope the billing is fair, but I’m more worried about the daily time cost. Can we check the morning routine?
+- [19] **Shunichi**: @Mio, I will check the sound meter readings. If the noise is bad, your gaps are useless.
+- [20] **Shizue**: I will look into the drawn plan against the staff survey and what this year's two joiners reported.
+- [21] **Toshio**: I will look into the basis of the department's floor billing and the unplanned seat shuffles in the past year.
+- [22] **Daisuke**: I will look into the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [23] **Mio**: I will look into the morning routine on the pilot floor upstairs and the unplanned seat shuffles in the past year.
+- [24] **Shunichi**: I will look into the sound meter readings across the room and the physio's note from the workstation check.
+## Round 2
+- [35] **Shizue**: The plan ignores the daylight complaint, and the new joiners learned by eavesdropping. I worry the layout dictates our connections.
+- [36] **Toshio**: The billing is area-based, not headcount. We pay for empty desks. The shuffles caused two weeks of chaos each time.
+- [37] **Daisuke**: @Toshio, that is worrying. We are paying for empty space, and moving desks costs six thousand yen each time.
+- [38] **Mio**: @Toshio, nine minutes daily is brutal for my gaps. And two weeks of chaos? I need a layout that stays put.
+- [39] **Shunichi**: Nine decibels louder by the printer. And my chair takes days to settle. I need a spot that stays put and stays quiet.
+- [40] **Shizue**: @Shunichi, I hear you. A stable, quiet spot is vital. Let us ensure the new plan respects your need for peace and proper adjustment.
+- [41] **Toshio**: @Mio, stability is key. The shuffles prove that ad-hoc changes are costly. We need a fixed structure to prevent that chaos.
+- [42] **Daisuke**: @Toshio, I agree. If every move costs six thousand yen, we really need to get the layout right the first time.
+- [43] **Mio**: @Toshio, exactly. If we fix the spots, I keep my gaps. I hate the idea of two weeks of half-packed boxes again.
+- [44] **Shunichi**: @Toshio, I agree. Stability is non-negotiable. I need a fixed spot to let my chair settle properly.
+- [45] **Shizue**: @Mio, I agree. Stability helps everyone. But I wonder if fixed desks might isolate us. How do we keep the team connected?
+- [46] **Toshio**: @Shizue, isolation is a risk, but we can mitigate it by grouping desks by function. Stability prevents the chaos we just saw.
+- [47] **Daisuke**: @Shizue, I worry about that too. But if we group by function, maybe we can keep talking without moving desks.
+- [48] **Mio**: @Shizue, I agree. If we group by function, I can keep my gaps and still chat with you. Stability is my top priority!
+- [49] **Shunichi**: @Shizue, Isolation is a myth if the acoustics are right. I need the quiet, not the chaos.
+- [50] **Shizue**: @Shunichi, I understand your need for quiet. Perhaps we can place you near the window, away from the printer, to ensure your peace.
+- [51] **Toshio**: @Shizue, I agree. Placing the quietest spots deliberately ensures the burden is shared, not left to chance.
+- [52] **Daisuke**: @Toshio, I agree. If we fix the spots, we avoid those expensive re-runs. I just want to be sure the cost is manageable.
+- [53] **Mio**: @Daisuke, I hope so! If the cost is manageable, I am all for fixing the spots. I really need those morning gaps back!
+- [54] **Shunichi**: @Shizue, The window side is nine decibels quieter. That is the only spot where my chair can finally settle.
+## Round 3
+- [60] **Shizue**: I worry that free seating will leave us drifting apart. I would rather we chose our neighbors deliberately, so our connections are built, not accidental.
+- [61] **Toshio**: Option B. Fixed desks by function. It eliminates the chaos of shuffles and allows us to assign the worse spots deliberately, not by accident.
+- [62] **Daisuke**: @Toshio, I agree. Option B avoids the six thousand yen re-run costs. I just want to be sure the billing is fair for the space we actually use.
+- [63] **Mio**: @Toshio, Option B is perfect! Fixed spots mean no more morning scramble. I can finally protect my tiny gaps between meetings.
+- [64] **Shunichi**: Option B. Fixed desks. I need a permanent spot to let my chair settle and to stay away from the printer noise.
+- [65] **Shizue**: @Toshio, I agree. Option B lets us choose our neighbors on purpose. I hope we can still share a laugh over coffee, though.
+- [66] **Toshio**: @Shizue, I agree. Deliberate placement ensures the burden is shared fairly. We must not let habit decide who suffers the noise.
+- [67] **Daisuke**: @Shizue, I agree. If we fix the spots, we avoid those expensive re-runs. I just want to be sure the cost is manageable.
+- [68] **Mio**: @Shizue, I agree! Fixed spots mean I can actually plan my day. I hope we can still chat easily, though!
+- [69] **Shunichi**: @Shizue, I can share a laugh from the window side. The printer row is for those who enjoy nine extra decibels of background noise.
+- [70] **Shizue**: @Mio, I am glad you are happy. I just hope the fixed spots do not make us feel like strangers. We must keep talking.
+- [71] **Toshio**: @Shizue, I agree. We can maintain connection through the functional grouping. The key is that the assignment is explicit, not accidental.
+- [72] **Daisuke**: @Shizue, I agree. If we group by function, we can still talk without moving desks. I just want to be sure the cost is manageable.
+- [73] **Mio**: @Shizue, I agree! If we group by function, I can keep my gaps and still chat with you. Stability is my top priority!
+- [74] **Shunichi**: @Shizue, I will talk to you. I just need the silence to let my back stop screaming. Comfort is not a luxury, it is a requirement.
+- [75] **Shizue**: I am voting for B.
+- [76] **Toshio**: I am voting for B.
+- [77] **Daisuke**: I am voting for B.
+- [78] **Mio**: I am voting for B.
+- [79] **Shunichi**: I am voting for B.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

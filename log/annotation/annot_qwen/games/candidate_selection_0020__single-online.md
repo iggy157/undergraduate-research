@@ -1,0 +1,73 @@
+# candidate_selection_0020__single-online (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look at the past. I will examine the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts.
+- [6] **Daisuke**: I’m worried about where the money actually comes from. I’ll check the capital budget and software allowance.
+- [7] **Sakura**: I’m curious about the real-world conditions! I’ll look into network coverage at customer plants and in-house developer availability.
+- [8] **Ryuji**: I will examine the time lost to copying existing records and the misrouted deliveries in the incident logs.
+- [9] **Asuka**: I will investigate the staffing of the coordination group and the handling of vendor queries.
+- [10] **Servas**: @Daisuke, your caution is wise. Knowing the source of funds is the first step to understanding what we can truly afford.
+- [11] **Daisuke**: Thank you, Servas. It’s just that the budget line is frozen, so I need to be sure before we commit to anything.
+- [12] **Sakura**: @Ryuji, do you think those misrouted deliveries are connected to the copying time you’re checking?
+- [13] **Ryuji**: @Sakura, likely. The logs show duplicate addresses causing the errors, which mirrors the time wasted copying inconsistent records.
+- [14] **Asuka**: @Ryuji, that duplication sounds like a symptom of the staffing gap I’m investigating. We need to know who is actually absorbing that daily waste.
+- [15] **Servas**: @Asuka, you are right. The human cost is often the most overlooked expense. I will see if the past failures reflect this same strain.
+- [16] **Daisuke**: @Servas, I hope the past shows us where the money went, so we don’t repeat the same mistakes with this year’s fund.
+- [17] **Sakura**: @Daisuke, I hope the budget isn’t a dead end! I’m checking if our developers are even free to build anything, so we don’t promise the impossible.
+- [18] **Ryuji**: @Sakura, if the developers are unavailable, the technical feasibility of any proposal becomes a theoretical exercise rather than a practical one.
+- [19] **Asuka**: @Ryuji, exactly. If the builders are tied up, the proposal is just a wish. I need to know who absorbs the overflow when the rota breaks.
+- [20] **Servas**: I will now review the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts.
+- [21] **Daisuke**: I’ll review the capital budget and software allowance to see what’s actually available.
+- [22] **Sakura**: I’ll check the network coverage and developer availability to see if the groundwork is actually solid.
+- [23] **Ryuji**: I will review the time lost to copying records and the misrouted deliveries to quantify the daily operational losses.
+- [24] **Asuka**: I will review the coordination group staffing and vendor query handling to see who is actually doing the work.
+## Round 2
+- [35] **Servas**: #### Turn 1 of 4
+- [36] **Daisuke**: #### Turn 1 of 4
+- [37] **Sakura**: - **Sakura**: Oh no! Half the customer plants lose signal all afternoon, and our developers are stuck until the third quarter.
+- [38] **Ryuji**: #### Turn 1 of 4
+- [39] **Asuka**: - **Asuka**: The coordination group is empty, yet two people still write every log by hand. Vendor queries are handled by just two clerks.
+- [40] **Servas**: #### Turn 2 of 4
+- [41] **Daisuke**: - **Daisuke**: The capital line is frozen, but the software allowance has room after those spring cancellations.
+- [42] **Sakura**: - **Sakura**: @Daisuke, that’s a relief! So we can build software, but we can’t buy hardware or licenses?
+- [43] **Ryuji**: - **Ryuji**: @Daisuke, that clarifies the constraint. We must build within the software allowance, avoiding any capital expenditure.
+- [44] **Asuka**: - **Asuka**: @Sakura, that confirms the technical risk. If the signal is gone, a mobile app is useless. We need a different approach.
+- [45] **Servas**: - **Servas**: @Daisuke, that is a narrow path. I must see if our past successes fit within such tight financial boundaries.
+- [46] **Daisuke**: - **Daisuke**: @Servas, yes, it is tight. I hope the past shows us what actually survived those limits.
+- [47] **Sakura**: - **Sakura**: @Asuka, exactly! If the signal is gone, a mobile app is useless. We need a different approach.
+- [48] **Ryuji**: @Asuka, the signal loss makes a mobile app impractical. We must focus on tools that work offline or address the record duplication directly.
+- [49] **Asuka**: @Ryuji, agreed. But the staffing gap means even a simple tool needs someone to maintain it. Who absorbs that?
+- [50] **Servas**: - **Servas**: @Asuka, a fair point. I will see if the past winners had dedicated owners, or if they simply faded into the background.
+- [51] **Daisuke**: - **Daisuke**: @Asuka, that is a valid concern. I will check if the software allowance covers ongoing maintenance, not just the initial build.
+- [52] **Sakura**: - **Sakura**: @Asuka, that’s the scary part! If no one owns it, it dies. I’m glad we’re checking the staffing now.
+- [53] **Ryuji**: @Asuka, the duplication is the core issue. If we fix the source, the manual logging burden drops, regardless of who is left to maintain it.
+- [54] **Asuka**: @Ryuji, fixing the source helps, but someone still has to run the tool. I need to know if the remaining staff can absorb that extra duty.
+## Round 3
+- [60] **Servas**: The candidates are A: Supplier Data Hub, B: Workflow Assistant, C: Training Studio, and D: Field Service App.
+- [61] **Daisuke**: - **Daisuke**: @Servas, thank you. I need to see which of these fits within the software allowance without touching the frozen capital line.
+- [62] **Sakura**: - **Sakura**: @Servas, I see them! But with the signal issues, D looks risky. Which one actually works without perfect conditions?
+- [63] **Ryuji**: - **Ryuji**: @Sakura, D is indeed risky. A directly targets the duplication I measured, which is the root of our daily losses.
+- [64] **Asuka**: - **Asuka**: @Ryuji, A requires constant updates from every unit. With our staffing gap, who actually maintains that central catalog?
+- [65] **Servas**: - **Servas**: @Asuka, a valid fear. My review shows tools needing daily entry from everyone were quietly dropped. A demands exactly that.
+- [66] **Daisuke**: @Servas, that confirms my worry. If A requires daily entry, it will likely be abandoned, leaving us with a broken tool and no budget to fix it.
+- [67] **Sakura**: - **Sakura**: @Servas, that’s a huge red flag! If it needs everyone to type daily, it’s doomed. B sounds lighter, but does it need constant input too?
+- [68] **Ryuji**: @Sakura, B reads existing boards, so it doesn't demand new daily entry. It automates the summaries, reducing the manual burden rather than adding to it.
+- [69] **Asuka**: @Ryuji, B is passive, but it still generates output. Who reads and acts on those drafts? The two remaining clerks are already drowning in vendor queries.
+- [70] **Servas**: - **Servas**: @Asuka, you are right. The narrow tools for one trade survived because they were simple. B is broad and complex, risking the same fate as the dropped daily-entry systems.
+- [71] **Daisuke**: - **Daisuke**: @Servas, I agree. B is too broad. C is just content, which might fit the software allowance, but does it solve the daily operational pain?
+- [72] **Sakura**: - **Sakura**: @Daisuke, C is safe, but does it fix the broken records? I worry it’s just a band-aid on a bleeding wound.
+- [73] **Ryuji**: @Daisuke, C addresses skill transfer, not the record duplication causing our daily losses. It solves a different problem entirely.
+- [74] **Asuka**: @Ryuji, C ignores the staffing crisis. We need a tool that reduces the manual load on the two remaining people, not one that adds more content to manage.
+- [75] **Servas**: - **Servas**: @Asuka, you are right. C adds content, not capacity. We must choose the tool that actually lightens the daily burden.
+- [76] **Daisuke**: - **Daisuke**: @Servas, I agree. C is safe, but it doesn't fix the daily waste. I need to know if B fits the software allowance without capital costs.
+- [77] **Sakura**: - **Sakura**: @Daisuke, B is software, so it fits! But if the signal drops, does it still work? I’m worried about the connection.
+- [78] **Ryuji**: @Sakura, B operates on internal task boards, not customer sites. The signal loss at plants doesn't affect internal workflow automation.
+- [79] **Asuka**: @Ryuji, that is true. But B still requires someone to review and circulate those drafts. With the coordination group empty, who takes that on?
+### Vote
+- Servas -> B
+- Daisuke -> B
+- Sakura -> B
+- Ryuji -> B
+- Asuka -> B
+## Result
+- adopted: B

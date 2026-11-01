@@ -1,0 +1,73 @@
+# shared_living_0001__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried the flat fee hides real costs. Who pays if someone cancels last minute?
+- [6] **Shizue**: I worry about the quiet corners. If we stay too close, the year-groups might not mix at all.
+- [7] **Ryuji**: I need to know how much time the organizers actually lose to logistics. Last year’s duty schedule was unsustainable.
+- [8] **Rin**: I want to know what the nights and days would actually be like. Last camp, half of us slept terribly for four nights straight.
+- [9] **Misaki**: I need to trace where the money actually went last year. The account gap is still there, and I won’t repeat that mistake.
+- [10] **Mio**: @Misaki, that gap worries me too. I want to see the receipts so we can split the real costs fairly, not just guess.
+- [11] **Shizue**: @Ryuji, I hear your frustration. Let’s ensure the schedule is gentle so everyone can actually enjoy the time together.
+- [12] **Ryuji**: @Shizue, I agree. But I need hard data on duty hours, not just good intentions. I will check the attendance sheets.
+- [13] **Rin**: @Ryuji, I agree. I will check the attendance sheets too, to see how sleep affected our energy levels.
+- [14] **Misaki**: @Mio, I will check the group transport receipts. I need to see if the flat fee covered the actual bus costs or if we are subsidizing it.
+- [15] **Mio**: @Rin, sleep is crucial! I’ll check the prefecture rate sheet to see if cheaper beds mean better rest for everyone.
+- [16] **Shizue**: @Mio, that sounds wise. I will look into what the seniors say about year-groups mixing, to see how we can encourage better connections.
+- [17] **Ryuji**: @Rin, I will also check the canteen closure and last year's cooking duty. I need to see if we can avoid that burden this time.
+- [18] **Rin**: @Mio, I hope the rate sheet shows us which beds are actually quiet. I will check the vacation timetable for our own hall to see if staying home is an option.
+- [19] **Misaki**: @Mio, I will also check the prefecture rate sheet. I need to verify the exact per-head costs to close the account gap.
+- [20] **Mio**: I’ll check the accounts from two clubs that went inland. I want to see how they handled their budgets and if they had any hidden costs.
+- [21] **Shizue**: I will check the membership list against first-train times. I want to see who can actually make it to the station without rushing.
+- [22] **Ryuji**: I will check the lottery and application for public group bookings. I need to know if we can secure a place without the usual scramble.
+- [23] **Rin**: I will check the quoting terms for whole-building lets. I need to know if we can get a private, quiet space for everyone to sleep properly.
+- [24] **Misaki**: I will check the accounts from two clubs that went inland. I need to see how they managed their budgets to avoid our current deficit.
+## Round 2
+- [35] **Mio**: The prefecture beds are only 1,100 yen a night! That’s incredibly cheap. But the inland clubs slept eight to a room.
+- [36] **Shizue**: The seniors say mixing only happens in shared evenings. And a third of us need a bed before nine. We must stay together.
+- [37] **Ryuji**: The canteen closure means two hours daily cooking duty. A place with kitchen staff eliminates that. I need to avoid that burden.
+- [38] **Rin**: Our own hall is booked by three other clubs. Training would be split into early mornings and late evenings. That is not a real camp.
+- [39] **Misaki**: The transport receipts show the bus was thirty-eight percent of the total cost. The inland clubs had strict curfews. I need to see if we can avoid that rigidity.
+- [40] **Mio**: @Misaki, thirty-eight percent is huge! If we pick the cheap prefecture beds, we save money, but do we still have to pay for the bus separately?
+- [41] **Shizue**: @Mio, the seniors say mixing only happens in shared evenings. If we stay together, we build those bonds.
+- [42] **Ryuji**: @Mio, the lottery is a trap. A nine-page application resubmitted if one date shifts. I cannot risk that administrative burden.
+- [43] **Rin**: @Ryuji, I agree. The whole-building quote is fixed weeks ahead with a non-refundable deposit. If someone drops out, we all pay for their empty bed.
+- [44] **Misaki**: @Mio, yes. The bus cost is fixed regardless of the destination. I need to ensure the per-head bed fee covers the actual room costs, not just the transport.
+- [45] **Mio**: @Rin, that non-refundable deposit is exactly my fear! If someone cancels, who eats that loss? I need a clear rule before we book.
+- [46] **Shizue**: @Rin, I understand the worry. But if we stay together, the seniors say the year-groups finally talk. I hope we can find a fair way to share that risk.
+- [47] **Ryuji**: @Shizue, shared evenings are good, but I need to know if the duty schedule allows for actual rest. I cannot repeat last year’s exhaustion.
+- [48] **Rin**: @Ryuji, I agree. Rest is non-negotiable. If the hall is split, I’m out. I need a place where we can actually sleep properly.
+- [49] **Misaki**: @Ryuji, I agree. Rest is essential. I will ensure the budget covers the actual costs so we do not carry this deficit forward.
+- [50] **Mio**: I’m leaning toward the prefecture beds. They are cheap and simple. But we must agree on a cancellation rule before booking.
+- [51] **Shizue**: I am leaning toward the prefecture beds too. The seniors say shared evenings are where we truly connect. Let us hope the cost allows for that warmth.
+- [52] **Ryuji**: I am leaning toward a place with kitchen staff. The lottery is too risky, and I refuse to cook for two hours daily.
+- [53] **Rin**: I am leaning toward a whole-building let. It guarantees private, quiet rooms for everyone. No shared noise, no split schedules. Just proper sleep.
+- [54] **Misaki**: I am leaning toward the prefecture beds. The low per-head cost is the only way to close the account gap without raising fees.
+## Round 3
+- [60] **Mio**: I’m excited about the Coastal Lodge! It feels fresh. But I worry about hidden meal costs. @Misaki, can we confirm the all-in price?
+- [61] **Shizue**: @Mio, I hope the Coastal Lodge lets us share those evenings. The seniors say that is where we truly find each other.
+- [62] **Ryuji**: @Mio, the Coastal Lodge meals are arranged by the owner, which removes the cooking duty. That is the only option that protects my evenings.
+- [63] **Rin**: @Ryuji, exactly! The Coastal Lodge gives us the whole building. No shared dorms, no noise. I can finally sleep properly.
+- [64] **Misaki**: @Mio, I need the exact per-head total. The transport receipts show the bus is a fixed cost, so I must verify the lodge covers everything to close the gap.
+- [65] **Mio**: @Rin, I agree! A private building means no noise complaints. But if someone cancels, does the owner refund us? I need that guarantee.
+- [66] **Shizue**: @Mio, I understand your worry. But if we stay together, the seniors say the year-groups finally talk. I hope we can find a fair way to share that risk.
+- [67] **Ryuji**: @Mio, I cannot verify the refund policy from here. But the owner-arranged meals are the critical factor. I will not accept a destination that forces me back into cooking duty.
+- [68] **Rin**: @Mio, the whole-building quote is fixed with a non-refundable deposit. If someone drops out, we all pay for their empty bed. I need that risk addressed.
+- [69] **Misaki**: @Mio, the non-refundable deposit is a risk. I need to know if the per-head cost stays low enough to absorb that loss without reopening the deficit.
+- [70] **Mio**: @Rin, that is a real risk. But the Coastal Lodge is the only one with meals included. I vote for C, hoping we can split any cancellation loss fairly.
+- [71] **Shizue**: @Mio, I vote for C too. The seniors say shared evenings are where we truly connect. I hope we can find a fair way to share that risk.
+- [72] **Ryuji**: I vote for C. The owner-arranged meals eliminate the cooking duty that destroyed last year. I cannot accept a destination that forces me back into that burden.
+- [73] **Rin**: I vote for C. The Coastal Lodge is the only option that guarantees private, quiet rooms. No shared dorms, no noise. I can finally sleep properly.
+- [74] **Misaki**: I vote for C. The all-in structure is the only way to verify the total cost and close the account gap without hidden surprises.
+- [75] **Mio**: It looks like we are all on the same page! I am so happy we found a place that works for everyone. Let's book it!
+- [76] **Shizue**: I am so glad we chose the Coastal Lodge. I look forward to those shared evenings, where our year-groups can finally find their way to each other.
+- [77] **Ryuji**: I am relieved. The Coastal Lodge removes the administrative and cooking burdens that made last year unsustainable. We can finally focus on training.
+- [78] **Rin**: I am thrilled! No more tossing and turning. I can actually rest and be ready for training. Let's go!
+- [79] **Misaki**: I am glad we chose the Coastal Lodge. The all-in structure allows me to verify the total cost and close the account gap without hidden surprises.
+### Vote
+- Mio -> C
+- Shizue -> C
+- Ryuji -> C
+- Rin -> C
+- Misaki -> C
+## Result
+- adopted: C

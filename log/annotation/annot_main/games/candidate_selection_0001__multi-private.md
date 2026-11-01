@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to be with you all. Let us approach this selection with wisdom and a spirit of generosity toward the future of our science. I look forward to our deliberation.
+- [6] **Midori**: Thank you, Servas. I am very happy to be here with you all. I hope we can work together harmoniously to find the best possible project for this grant.
+- [7] **Kenji**: Hi everyone! I'm really excited to be part of this. Let's make sure we pick a project that's not just great on paper, but actually has the support it needs to succeed!
+- [8] **Benjamin**: Indeed, Kenji. A brilliant proposal is merely a blueprint; the actual construction requires a stable foundation. I believe a pragmatic look at the operational side of things would be most illuminating.
+- [9] **Toshio**: I agree with Benjamin. A proposal's ambition is secondary to its feasibility. I believe we should look closely at the historical data to see what actually translates into results.
+- [10] **Servas**: Wisdom teaches us that the heart of any great endeavor is the people who carry it. I believe we must ensure the human element is secure before we commit our resources.
+- [11] **Midori**: I agree, Servas. The people involved are so important. I also wonder if we should look at how the funding is actually distributed to ensure the researchers have what they truly need.
+- [12] **Kenji**: That's a great point, Midori! I'm worried about the shared tools and services everyone uses. If the facilities are overloaded, even the best team will struggle. We should check how those are doing!
+- [13] **Benjamin**: A valid concern, Kenji. It would be a tragedy to fund a project only for it to languish in a queue. I suspect the friction points are often hidden in the administrative margins.
+- [14] **Toshio**: Administrative margins are often where the truth lies. I am interested in the patterns of success and failure over time, rather than just the current promises.
+- [15] **Servas**: It is a joy to see such thoughtful perspectives. Let us now decide which records will guide us. I shall look into the staffing rolls for technical posts and minutes on secondments and crew strength.
+- [16] **Midori**: I think it would be helpful to see the travel and bench-fee lines in the ledgers, as well as the national computing agreement and facility day rates. I want to understand the current costs.
+- [17] **Kenji**: I'll go with accreditation and bookings at shared facilities and the incident logs on shared instrumentation! I want to see if the equipment is actually available and working for everyone.
+- [18] **Benjamin**: I shall examine the portfolio review of schedule overruns and the closeout files of finished awards. It would be most prudent to discover where previous projects encountered their most stubborn obstacles.
+- [19] **Toshio**: I will examine the closeout files of finished awards and the portfolio review of schedule overruns. I want to see which types of projects actually delivered on their promises.
+- [20] **Servas**: It seems we have a balanced approach. By examining both the human spirit and the structural records, we shall find a path that ensures the grant flourishes. I wish you all clarity in your findings.
+- [21] **Midori**: I agree. I hope the information we find helps us make a fair and supportive decision for the researchers. I look forward to hearing what everyone discovers in the next round.
+- [22] **Kenji**: I'm ready! I can't wait to see what we find out. Let's all do our best to help the researchers get the support they deserve! See you all in the next round!
+- [23] **Benjamin**: A most optimistic sentiment, Kenji. I shall await the revelations of the archives with a measured curiosity. Until we reconvene, I wish you all a productive investigation.
+- [24] **Toshio**: I concur. Let us see if the records reflect the reality of the outcomes. I look forward to the results.
+## Round 2
+- [35] **Servas**: My findings remind us that while knowledge is eternal, the hands that apply it are transient. It appears we have a surplus of digital minds, but a scarcity of experienced phenotyping technicians.
+- [36] **Midori**: That is a concerning gap, Servas. In my research, I found that while computing is well-covered, animal-unit rates have risen sharply and shipping costs are climbing, even as other per-diems remain frozen.
+- [37] **Kenji**: Oh wow, that's not good! I found out the glasshouses are totally full for two more cycles, and the spectroscopy suite was broken for eleven weeks because of a contract issue! We really need to be careful.
+- [38] **Benjamin**: It seems we are uncovering a symphony of systemic failures. My review suggests that projects relying on live breeding colonies are particularly prone to delays, while mechanism-focused studies often leave their central questions unanswered.
+- [39] **Toshio**: Benjamin is correct. The data shows a clear divide: catalogue-style awards provide lasting value, whereas mechanism-focused projects often fail to resolve their core questions. We must prioritize enduring utility over theoretical ambition.
+- [40] **Servas**: It is a delicate balance we seek. We must find a project that possesses both the theoretical ambition to inspire and the practical means to be realized without breaking the spirits of the researchers.
+- [41] **Midori**: I agree, Servas. Given the rising costs of animal units and shipping, we should be mindful of whether the chosen project's budget can actually sustain its operational needs without putting too much pressure on the team.
+- [42] **Kenji**: Exactly! And if the glasshouses are full and the equipment keeps breaking, it doesn't matter how much money they have. We have to pick a project that can actually get its work done!
+- [43] **Benjamin**: Indeed, Kenji. It would be a charming irony to award a grant for a project that is then forced to spend its tenure waiting for a greenhouse vacancy or a technician's arrival.
+- [44] **Toshio**: The risks are quantifiable. We should avoid projects dependent on breeding colonies or those chasing elusive mechanisms. A project that builds a lasting resource is the only safe bet for a guaranteed return.
+- [45] **Servas**: Let us remember that a resource is only as lasting as the people who maintain it. If we choose a project for its utility, we must ensure the human capacity exists to sustain it.
+- [46] **Midori**: That is a very important point, Servas. We must ensure the researchers aren't overwhelmed. If the agency no longer covers certain costs, the burden falls on the team, which could affect their well-being and the project's success.
+- [47] **Kenji**: I totally agree! If the people are stressed and the tools are broken, the whole project will suffer. We need to find a candidate that fits into the space we actually have left!
+- [48] **Benjamin**: It appears we are all in agreement that the ideal candidate must be a rare specimen: one that is ambitious yet grounded, and whose requirements do not clash with our current systemic frictions.
+- [49] **Toshio**: The ideal candidate is not a rare specimen, but a predictable one. We must favor the project that offers a tangible, lasting resource over those that rely on volatile biological variables or unproven theories.
+- [50] **Servas**: We have spoken with honesty and care. Let us carry this spirit of mindfulness into the final round, ensuring our choice honors both the vision of the science and the reality of the people.
+- [51] **Midori**: I agree, Servas. I hope we can find a candidate that is not only scientifically promising but also realistically funded, so the researchers can focus on their work with peace of mind.
+- [52] **Kenji**: I'm with you, Midori! I'll be looking out for a project that doesn't need those overcrowded glasshouses or broken machines. Let's find the one that can actually hit the ground running!
+- [53] **Benjamin**: A most prudent strategy, Kenji. I shall be looking for a proposal that avoids the pitfalls of biological volatility and administrative inertia. Let us hope the candidates provide us with a viable path forward.
+- [54] **Toshio**: I will be looking for the candidate whose goals are most concrete. We cannot afford to gamble on ambition when the records show such a consistent pattern of failure for mechanism-focused research.
+## Round 3
+- [60] **Servas**: Looking at our candidates, the Microbiome Atlas seems most harmonious. It aligns with our need for lasting resources and avoids the scarcity of phenotyping technicians and the congestion of our glasshouses.
+- [61] **Midori**: I agree, Servas. The Microbiome Atlas seems very sustainable. Unlike the plant or amphibian studies, it avoids the rising costs of animal units and the overcrowded glasshouses, which would protect the researchers from undue stress.
+- [62] **Kenji**: I'm with you guys! The Atlas is perfect because it doesn't need the glasshouses or the spectroscopy suite, which we know are having a hard time. It's the safest bet for the researchers!
+- [63] **Benjamin**: The Atlas is indeed the most elegant solution. It avoids the biological volatility of breeding colonies and the fragility of shared instrumentation, ensuring the science isn't held hostage by administrative or technical inertia.
+- [64] **Toshio**: The Atlas is the only logical choice. It is a catalogue-style project, which the records prove provide lasting value, unlike the mechanism-focused goals of the other candidates that so often end in failure.
+- [65] **Servas**: It is a rare and beautiful thing when we find such unity in our purpose. Let us move forward with a heart full of confidence in this choice.
+- [66] **Midori**: I feel very relieved that we have found a project we all agree on. The Microbiome Atlas seems to be the most supportive choice for everyone involved.
+- [67] **Kenji**: Me too! It's awesome that we all agree. Picking the Atlas means the researchers can actually get their work done without worrying about broken tools or full greenhouses!
+- [68] **Benjamin**: It is a refreshing change of pace to reach a consensus with such efficiency. It seems we have successfully navigated the labyrinth of systemic risks to find a truly viable path.
+- [69] **Toshio**: Efficiency is a byproduct of clear data. The other options are gambles on mechanisms and volatile biological systems; the Atlas is a certainty. I am satisfied with this conclusion.
+- [70] **Servas**: May this decision bring not only scientific progress but also peace of mind to those who will carry out the work. I am ready to cast my vote for the Microbiome Atlas.
+- [71] **Midori**: I am also ready. I believe the Microbiome Atlas is the most balanced choice, ensuring the researchers are well-supported and not burdened by hidden costs. I vote for the Microbiome Atlas.
+- [72] **Kenji**: I'm totally on board! It's the best way to make sure the project actually happens without any huge headaches. I vote for the Microbiome Atlas!
+- [73] **Benjamin**: I find the logic inescapable. To choose otherwise would be to invite the very frictions we have spent this session identifying. I, too, cast my vote for the Microbiome Atlas.
+- [74] **Toshio**: The evidence is conclusive. The Atlas provides a tangible resource and avoids the systemic risks that plague the other proposals. I vote for the Microbiome Atlas.
+- [75] **Servas**: It has been a privilege to deliberate with you all. In this unity, we have found a path that honors both the science and the scientists. I am at peace with our decision.
+- [76] **Midori**: It was a pleasure working with all of you. I am glad we could reach a consensus that prioritizes the well-being of the researchers and the stability of the project. Thank you for your kindness.
+- [77] **Kenji**: This was so much fun! I'm really glad we could all agree and find a project that's actually going to work. Thanks for being so great to talk to, everyone! Bye!
+- [78] **Benjamin**: A most pleasant collaboration. It is rare that the archives and our collective intuition align so seamlessly. I wish the researchers of the Atlas every success. Farewell.
+- [79] **Toshio**: The result is a reflection of the data. We have chosen the only path that minimizes risk and maximizes utility. Farewell.
+### Vote
+- Servas -> A
+- Midori -> A
+- Kenji -> A
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: A

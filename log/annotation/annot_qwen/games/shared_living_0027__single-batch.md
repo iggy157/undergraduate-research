@@ -1,0 +1,73 @@
+# shared_living_0027__single-batch (shared_living)
+
+## Round 1
+- [5] **Asuka**: I worry about social friction. We need to know how past arrangements failed.
+- [6] **Yumi**: I want to check if the current spots match where people actually park.
+- [7] **Ryuji**: The morning rush is chaotic. I need to see the physical layout and usage.
+- [8] **Shunichi**: Everyone asks about costs. I need to see the actual financial records.
+- [9] **Toshio**: Who maintains this? I need to understand the ongoing administrative burden.
+- [10] **Asuka**: @Shunichi, are you looking at the ledger? That seems relevant to my concern.
+- [11] **Yumi**: I’ll check the sticker register to see who actually rides daily.
+- [12] **Ryuji**: I’m going to watch the morning departures to see the bottleneck.
+- [13] **Shunichi**: Yes, the ledger. Also, I’ll check the ward park costs for comparison.
+- [14] **Toshio**: I’ll look at the treasurer’s file and the complaint log.
+- [15] **Asuka**: I’ll review the five years of minutes to see if rules were ever debated.
+- [16] **Yumi**: And the rain exposure. Wet bikes cause complaints.
+- [17] **Ryuji**: I’ll also check the rain exposure. It affects bike condition.
+- [18] **Shunichi**: The ward park data will show if we’re overcharging or undercharging.
+- [19] **Toshio**: The complaint log shows if issues are ignored. The treasurer file shows the work.
+- [20] **Asuka**: Agreed. Let’s see what the data says before we vote.
+- [21] **Yumi**: I hope the sticker register reveals the real demand.
+- [22] **Ryuji**: The physical observation will be key.
+- [23] **Shunichi**: Numbers don’t lie. Let’s get to work.
+- [24] **Toshio**: I’ll be back with the maintenance details.
+## Round 2
+- [35] **Asuka**: The minutes show no review of the current arrangement in five years. It’s stagnant.
+- [36] **Yumi**: The sticker register shows some flats have three bikes, others none. Demand is uneven.
+- [37] **Ryuji**: I watched four mornings. Eleven bikes leave between 7 and 9. Shoving is constant.
+- [38] **Shunichi**: The ledger is thin. Capital work needs a levy. The ward park charges 2,600 yen.
+- [39] **Toshio**: The treasurer spends three hours a month on cash. Adding billing will double that.
+- [40] **Asuka**: @Toshio, three hours is a lot. Who takes that on?
+- [41] **Yumi**: The rain exposure is bad past the downpipe. Saddles stay wet.
+- [42] **Ryuji**: @Yumi, that matches what I saw. People are frustrated by the wet spots.
+- [43] **Shunichi**: If we charge, it must be less than 2,600 yen to be competitive.
+- [44] **Toshio**: The complaint log has nine entries. All died out because no one owned the problem.
+- [45] **Asuka**: The lack of ownership is the real issue. A paid system might create that.
+- [46] **Yumi**: But if people can’t pay, they’ll resent it. The sticker data shows varied needs.
+- [47] **Ryuji**: A lottery might be fair, but it ignores the morning rush reality.
+- [48] **Shunichi**: Shared racks avoid the billing headache. But do they solve the shoving?
+- [49] **Toshio**: Shared racks mean no individual accountability. The complaints will just continue.
+- [50] **Asuka**: I’m leaning towards a system that assigns responsibility.
+- [51] **Yumi**: I worry about the social cost of a lottery.
+- [52] **Ryuji**: The physical layout needs fixing regardless of the rule.
+- [53] **Shunichi**: Let’s look at the options. We have enough data to judge.
+- [54] **Toshio**: I agree. The maintenance burden is the deciding factor for me.
+## Round 3
+- [60] **Asuka**: Option A, Paid Allocation, creates a clear owner for each space.
+- [61] **Yumi**: Option B, Annual Lottery, feels arbitrary. It doesn’t address the morning rush.
+- [62] **Ryuji**: Option C, Shared Racks, might reduce the shoving if the racks are good.
+- [63] **Shunichi**: Option A generates income. The ledger shows we need it for capital work.
+- [64] **Toshio**: Option A adds billing work. But it solves the accountability issue.
+- [65] **Asuka**: @Shunichi, the income is useful, but the social risk is high.
+- [66] **Yumi**: I prefer C. It’s open and avoids the resentment of a lottery.
+- [67] **Ryuji**: C is risky. If the racks are bad, the shoving gets worse.
+- [68] **Shunichi**: A is the most sustainable financially. The ward park proves people will pay.
+- [69] **Toshio**: A is the only one that assigns clear responsibility. I support it.
+- [70] **Asuka**: I’m concerned about the arrears in the neighbouring block.
+- [71] **Yumi**: But the sticker register says people would rather pay than be equal.
+- [72] **Ryuji**: That’s a strong point. People value certainty.
+- [73] **Shunichi**: Certainty is worth the administrative cost. I vote A.
+- [74] **Toshio**: The maintenance burden is manageable if we rotate the treasurer.
+- [75] **Asuka**: I’ll vote A, but we need a clear payment plan.
+- [76] **Yumi**: I’ll vote C. I can’t support a system that might exclude people.
+- [77] **Ryuji**: I’ll vote A. The morning rush needs a solution, not just a lottery.
+- [78] **Shunichi**: A is the rational choice.
+- [79] **Toshio**: A is the practical choice.
+### Vote
+- Asuka -> A
+- Yumi -> C
+- Ryuji -> A
+- Shunichi -> A
+- Toshio -> A
+## Result
+- adopted: A

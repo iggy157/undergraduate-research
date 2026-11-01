@@ -1,0 +1,73 @@
+# shared_living_0020__single-batch (shared_living)
+
+## Round 1
+- [5] **Minako**: The current system is failing. We need to know the actual time cost before committing.
+- [6] **Benjamin**: Agreed. I suspect the workload is skewed based on who is actually here.
+- [7] **Sakura**: I just want to know why the bathroom smells bad sometimes and not others.
+- [8] **Shizue**: I am worried about the small expenses. Who is buying the sponges lately?
+- [9] **Servas**: We must ensure this arrangement keeps us speaking to each other kindly.
+- [10] **Minako**: @Benjamin, do you have data on who is home versus who is cleaning?
+- [11] **Benjamin**: @Minako, I have a feeling, but no proof. Let us look at the calendar.
+- [12] **Sakura**: I will check the bathroom grout. It looks dirty again already.
+- [13] **Shizue**: I will look at the receipts in the tin. It feels unfair.
+- [14] **Servas**: I will read the note from the previous tenants. History repeats itself.
+- [15] **Minako**: I need to time a full clean. I will use a stopwatch.
+- [16] **Benjamin**: I will watch the kitchen for two weeks to see who cooks.
+- [17] **Sakura**: I will check what everyone thinks means "done". It is confusing.
+- [18] **Shizue**: I will also check the management office rates. Just in case.
+- [19] **Servas**: I will look at the chat logs. I want to see how we argue.
+- [20] **Minako**: Let us see what we find.
+- [21] **Benjamin**: Facts will guide us.
+- [22] **Sakura**: I hope it is not too complicated.
+- [23] **Shizue**: Thank you all for listening.
+- [24] **Servas**: Peace is the goal.
+## Round 2
+- [35] **Minako**: The timing is brutal. Forty-seven minutes for the kitchen alone.
+- [36] **Benjamin**: The kitchen watch confirms my suspicion. Two people do all the cooking.
+- [37] **Sakura**: The grout is back in eleven days. And "done" means different things to everyone.
+- [38] **Shizue**: The receipts show we spend 2,300 yen monthly, often buying duplicates.
+- [39] **Servas**: The previous tenants stopped speaking by year two. The chat logs show our rows start with reminders.
+- [40] **Minako**: @Benjamin, if two people cook, should they clean more?
+- [41] **Benjamin**: @Minako, logically, yes. But the calendar shows two of us are away often.
+- [42] **Sakura**: If "done" is subjective, we will always be unhappy.
+- [43] **Shizue**: The management office charges 4,200 yen an hour. That is expensive.
+- [44] **Servas**: We need a system that prevents the "unsaid" resentment.
+- [45] **Minako**: A paid service might remove the time burden entirely.
+- [46] **Benjamin**: But who pays? The invoice goes to one person.
+- [47] **Sakura**: I just want the bathroom to be predictable.
+- [48] **Shizue**: If we pay, we must settle up monthly. No more guessing.
+- [49] **Servas**: A fixed rota might be too rigid for our absences.
+- [50] **Minako**: I am leaning towards paying for it.
+- [51] **Benjamin**: I need to see the firm's terms first.
+- [52] **Sakura**: I agree with Minako. I am tired of guessing.
+- [53] **Shizue**: I am open to it if the costs are clear.
+- [54] **Servas**: Let us vote on the options.
+## Round 3
+- [60] **Minako**: Option B, the paid service, seems best. It removes the time cost.
+- [61] **Benjamin**: The firm requires someone to be home to tidy beforehand. That is a catch.
+- [62] **Sakura**: If someone is home, I can handle the tidying. I just want the deep clean done.
+- [63] **Shizue**: The cost is high, but it is predictable. I can budget for it.
+- [64] **Servas**: If we share the burden of tidying, we might stay on speaking terms.
+- [65] **Minako**: @Benjamin, the tidying is minimal. We can rotate that.
+- [66] **Benjamin**: @Minako, it is still a commitment. But it is less than a full clean.
+- [67] **Sakura**: I vote for B. I want the bathroom to be clean without my effort.
+- [68] **Shizue**: I vote for B. The monthly cost is clear.
+- [69] **Servas**: I vote for B. It prevents the resentment of who cleaned last.
+- [70] **Minako**: I vote for B.
+- [71] **Benjamin**: I vote for B. It is the most logical solution.
+- [72] **Sakura**: I vote for B.
+- [73] **Shizue**: I vote for B.
+- [74] **Servas**: I vote for B.
+- [75] **Minako**: It seems unanimous.
+- [76] **Benjamin**: Yes.
+- [77] **Sakura**: Yay!
+- [78] **Shizue**: Thank you.
+- [79] **Servas**: A good decision.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Sakura -> B
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

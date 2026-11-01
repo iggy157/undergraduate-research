@@ -1,0 +1,73 @@
+# candidate_selection_0024__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I am worried the ground will surprise us. Who is actually digging here?
+- [6] **May**: I care about the cost after the ribbon is cut. What does the ledger say?
+- [7] **Shizue**: I want to see what the last decade of schemes looks like now.
+- [8] **Victoria**: Who is left to run this place? The rota is shrinking.
+- [9] **Shunichi**: The park is crossed and drained weekly. We must respect the ground.
+- [10] **Minato**: @May, the ledger is important, but I need to know who can dig.
+- [11] **May**: @Minato, digging is a one-time cost. Upkeep is forever.
+- [12] **Shizue**: @Victoria, the rota is short, but I worry about the quality of the work.
+- [13] **Victoria**: @Shizue, quality matters, but if no one is there to mow, it fails.
+- [14] **Shunichi**: @All, we are ignoring the daily reality of the site.
+- [15] **Minato**: I will check the firms tendering for earth-moving.
+- [16] **May**: I will look at the upkeep ledger spend per hectare.
+- [17] **Shizue**: I will review the condition of works from the earlier programme.
+- [18] **Victoria**: I will examine the groundskeeping roll and bought-in services.
+- [19] **Shunichi**: I will check the drainage callouts and August heat readings.
+- [20] **Minato**: I will also look at the depot phasing notes on hoarding the site.
+- [21] **May**: I will also check the terms of the regional habitat fund.
+- [22] **Shizue**: I will also review the record of the eastern avenue planting.
+- [23] **Victoria**: I will also look at the volunteer groups working with the division.
+- [24] **Shunichi**: I will also check the timed counts of weekday crossings.
+## Round 2
+- [35] **Minato**: Only two firms can dig, and they fear the clay. The south can be hoarded, but the center cannot.
+- [36] **May**: The habitat fund pays for plants, not paving. Planted ground costs triple to maintain.
+- [37] **Shizue**: The old basin is fine, but the civic hall apron is patched thrice. The avenue trees died.
+- [38] **Victoria**: We have seven staff, not eighteen. Volunteers handle weekends, but water care is bought in.
+- [39] **Shunichi**: Storms double the callouts. Heat is higher here. People cross on hard ground, not soft margins.
+- [40] **Minato**: @May, if the fund only pays for planting, we can't afford the plaza.
+- [41] **May**: @Minato, exactly. The plaza is a financial trap. The woodland is funded.
+- [42] **Shizue**: @Victoria, the volunteers are great, but they can't fix drainage or mow turf.
+- [43] **Victoria**: @Shizue, I agree. We need a plan that doesn't require heavy turf care.
+- [44] **Shunichi**: @All, the data says avoid soft margins. People want hard, open ground.
+- [45] **Minato**: The clay risk makes deep excavation dangerous. We must avoid heavy earth-moving.
+- [46] **May**: The wetland is expensive to maintain. The woodland is cheaper, but still triple the cost.
+- [47] **Shizue**: The sports terraces need hard surfaces. The civic hall apron failed. Will this hold?
+- [48] **Victoria**: The sports terraces need constant mowing and cleaning. We don't have the staff.
+- [49] **Shunichi**: The wetland fights the drainage issues. The plaza fights the heat and crossing patterns.
+- [50] **Minato**: I think the woodland is the safest for the ground.
+- [51] **May**: I think the woodland is the only one the fund covers.
+- [52] **Shizue**: I am worried about the trees dying again, but the basin worked.
+- [53] **Victoria**: I am worried about the maintenance, but the volunteers might help with habitat.
+- [54] **Shunichi**: I am worried about the heat, but the trees might cool it down.
+## Round 3
+- [60] **Minato**: The candidates are A: Woodland Walk, B: Market Plaza, C: Sports Terraces, D: Wetland Restoration.
+- [61] **May**: A is funded. B and C are not. D is expensive.
+- [62] **Shizue**: A risks tree death. C risks surface failure. D risks drainage.
+- [63] **Victoria**: A has volunteer support. C needs staff. D needs specialist care.
+- [64] **Shunichi**: A cools the site. B and C increase heat. D worsens drainage.
+- [65] **Minato**: @May, A is the only one that fits the fund and the ground.
+- [66] **May**: @Minato, agreed. A is the only financially viable option.
+- [67] **Shizue**: @Victoria, A has the best chance of lasting, if we fix the aftercare.
+- [68] **Victoria**: @Shizue, I agree. The volunteers can help with the habitat tasks.
+- [69] **Shunichi**: @All, A is the only one that respects the crossing patterns and heat.
+- [70] **Minato**: I vote for A. The ground is safe, and the fund covers it.
+- [71] **May**: I vote for A. It is the only one that doesn't bankrupt us.
+- [72] **Shizue**: I vote for A. It is the most likely to endure, with proper care.
+- [73] **Victoria**: I vote for A. The volunteers can support it, and it needs less staff.
+- [74] **Shunichi**: I vote for A. It cools the site and respects the user flow.
+- [75] **Minato**: We are unanimous. A is the choice.
+- [76] **May**: Agreed. Let's proceed with A.
+- [77] **Shizue**: I am glad we chose the enduring path.
+- [78] **Victoria**: I am confident in this choice.
+- [79] **Shunichi**: The data supports A. Let's move forward.
+### Vote
+- Minato -> A
+- May -> A
+- Shizue -> A
+- Victoria -> A
+- Shunichi -> A
+## Result
+- adopted: A

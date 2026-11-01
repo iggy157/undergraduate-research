@@ -1,0 +1,73 @@
+# candidate_selection_0007__single-batch (candidate_selection)
+
+## Round 1
+- [5] **May**: I’m tired of the same ideas resurfacing. Let’s check the closure reports before the enthusiasm sets in.
+- [6] **Benjamin**: Plans assume crews appear by magic. I need to see which rosters are already empty before we promise anything.
+- [7] **Midori**: Complaints say it’s crowded, but stopwatches tell a different story. I want to know where the minutes actually go.
+- [8] **Shizue**: Schemes stall for reasons not in the drawings. I need to know who else must say yes and what the ground hides.
+- [9] **Jonathan**: Headline totals hide the long-term debt. I want to see the real balances and what we’re committing to pay later.
+- [10] **May**: @Benjamin, if the rosters are empty, the plan is fiction. I’ll look at the pilots from eight years ago.
+- [11] **Benjamin**: @May, agreed. I’ll examine the roster books for the late-turn pool and the crew establishment.
+- [12] **Midori**: @Shizue, the ground is a mystery. I’ll check the journey audits and the timed runs mid-city.
+- [13] **Shizue**: @Midori, I’ll review the joint operators' committee minutes and the contingency pricing inside the pre-war shells.
+- [14] **Jonathan**: @All, I’ll look into the balances in the capital ledger and the ticketing contractor fees.
+- [15] **May**: I’ll stick with the two pilots and the completion records of the earlier accessibility programme.
+- [16] **Benjamin**: I’ll stick with the roster books and the crew establishment. We need to know who is actually there.
+- [17] **Midori**: I’ll stick with the journey audits and the timed runs. The data will show the real bottleneck.
+- [18] **Shizue**: I’ll stick with the committee minutes and the contingency pricing. We must know the hidden delays.
+- [19] **Jonathan**: I’ll stick with the capital ledger and the contractor fees. The numbers must be honest.
+- [20] **May**: Let’s see what the past actually delivered. I’ll review my findings before we vote.
+- [21] **Benjamin**: Agreed. The data will show if we have the hands to do this. I’ll review my findings.
+- [22] **Midori**: Agreed. The stopwatch doesn’t lie. I’ll review my findings before we vote.
+- [23] **Shizue**: Agreed. The ground and the committees hold the truth. I’ll review my findings.
+- [24] **Jonathan**: Agreed. The ledger holds the truth. I’ll review my findings before we vote.
+## Round 2
+- [35] **May**: The ferry pilot worked, but the lane-priority stretches were returned to mixed traffic. History repeats itself.
+- [36] **Benjamin**: The late-turn pool is thinned. Overtime covers everything. We have no spare capacity for new night work.
+- [37] **Midori**: The audits show waiting for connections costs the most time. Queues at machines are under a minute.
+- [38] **Shizue**: The ferry and rail back offices never agreed on data terms. And the pre-war shells hide voids.
+- [39] **Jonathan**: The capital ledger is ring-fenced for a lapsed grant. The operating subsidy was trimmed again.
+- [40] **May**: @Shizue, the data terms are a blocker for any integrated system. The ferry and rail won’t talk.
+- [41] **Benjamin**: @May, exactly. And the crews are a third below establishment. We can’t run new services with this staff.
+- [42] **Midori**: @Benjamin, if the crews are gone, we can’t fix the connections. But the data says connections are the problem.
+- [43] **Shizue**: @Midori, the connections are hard to fix if the ground hides voids. The contingency pricing is scary.
+- [44] **Jonathan**: @Shizue, the contingency is real. But the ticketing fees exceed our paving budget. That’s a structural issue.
+- [45] **May**: @Jonathan, the ticketing fees are a drain. But the ferry pilot proves the tech works. We just need the data.
+- [46] **Benjamin**: @May, the tech works, but the people don’t. The roster books show we’re running on fumes.
+- [47] **Midori**: @Benjamin, I hear you. But the journey audits are clear. We need to fix the waiting, not the ticketing.
+- [48] **Shizue**: @Midori, fixing waiting requires coordination. The committee minutes show they can’t coordinate.
+- [49] **Jonathan**: @Shizue, the coordination is broken. But the capital ledger has a ring-fenced balance. Can we use it?
+- [50] **May**: @Jonathan, the ring-fenced balance is for construction. We need to see if it applies to the fare platform.
+- [51] **Benjamin**: @May, if it’s for construction, it doesn’t help the rosters. We need a plan that fits the current staff.
+- [52] **Midori**: @Benjamin, a plan that fits the staff and fixes the waiting. That’s the only logical path.
+- [53] **Shizue**: @Midori, I agree. We must avoid the pre-war shells and the data deadlock.
+- [54] **Jonathan**: @Shizue, I agree. We must choose a plan that respects the ledger and the staffing reality.
+## Round 3
+- [60] **May**: The candidates are here. A is the fare platform. B is the bus corridor. C is station access. D is night service.
+- [61] **Benjamin**: D is impossible. The rosters are empty. We can’t extend hours with this crew.
+- [62] **Midori**: A is a trap. The data says ticketing isn’t the bottleneck. Waiting is.
+- [63] **Shizue**: C is risky. The pre-war shells hide voids. The contingency pricing will blow the budget.
+- [64] **Jonathan**: A is expensive. The ticketing fees are already too high. The capital ledger is tight.
+- [65] **May**: @Benjamin, D is out. But B? The lane-priority stretches failed before.
+- [66] **Benjamin**: @May, B requires roadway crews. They are a third below establishment. It’s a risk.
+- [67] **Midori**: @Benjamin, B is a bus route. It doesn’t need the same crews as the rail. It might work.
+- [68] **Shizue**: @Midori, B needs roadway consents. The minutes say those are delegated to the authority. That’s good.
+- [69] **Jonathan**: @Shizue, the consents are delegated. But the paving rates climbed. Is B affordable?
+- [70] **May**: @Jonathan, the paving rates are up, but the ferry pilot shows the tech is ready. A is the long-term fix.
+- [71] **Benjamin**: @May, the tech is ready, but the people aren’t. A requires integration. We don’t have the staff.
+- [72] **Midori**: @Benjamin, A requires data integration. The committee minutes show they can’t agree on data terms.
+- [73] **Shizue**: @Midori, exactly. The data deadlock makes A impossible. B is the only option with delegated consents.
+- [74] **Jonathan**: @Shizue, B is the only option that avoids the data deadlock and the pre-war voids.
+- [75] **May**: @Jonathan, I agree. B is the safest bet. It uses the delegated consents and avoids the data issues.
+- [76] **Benjamin**: @May, B is risky for the crews, but it’s the only one that doesn’t require new data agreements.
+- [77] **Midori**: @Benjamin, B addresses the mid-city crowding. The timed runs show it’s a third longer. It’s a real fix.
+- [78] **Shizue**: @Midori, B avoids the pre-war shells. The contingency pricing is safe. I support B.
+- [79] **Jonathan**: @Shizue, B respects the capital ledger. The paving costs are manageable. I vote for B.
+### Vote
+- May -> B
+- Benjamin -> B
+- Midori -> B
+- Shizue -> B
+- Jonathan -> B
+## Result
+- adopted: B

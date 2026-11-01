@@ -1,0 +1,73 @@
+# candidate_selection_0009__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I worry about the building itself. Can we check the structural survey of the suspended bay?
+- [6] **Toshio**: I want to understand which past exhibitions actually brought people back. I will examine the weekend head counts across ten seasons.
+- [7] **Rin**: I’m worried about who actually does the work! I’ll check the conservation lab staffing and the volunteer roster to see who’s really there.
+- [8] **Kenji**: I’m worried about where deliveries actually fail! I’ll check the lender paperwork against shipping cut-offs and the loan transport costs over three seasons.
+- [9] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual post-occupancy costs versus the original budget estimates.
+- [10] **Daisuke**: I’m still thinking about the structural survey. It feels important to know if the space can hold what we promise.
+- [11] **Toshio**: @Benjamin, costs are symptoms. I need to verify if the audience actually returns. I will also review five years of visitor comment slips.
+- [12] **Rin**: @Toshio, I agree! But who counts the heads? I’ll stick with my two choices to see who is actually standing in the room.
+- [13] **Kenji**: @Toshio, heads are great, but if the crates don’t arrive, the gallery stays empty! I’ll stick with my two choices to find where deliveries really break.
+- [14] **Benjamin**: @Toshio, I appreciate the sentiment, but I need to see where the money actually goes. I will examine the mount-making charges and the maintenance log for powered displays.
+- [15] **Daisuke**: I’m still unsure. I’ll look into the structural survey of the suspended bay and the maintenance log for powered displays.
+- [16] **Toshio**: I will confirm my two choices: weekend head counts across ten seasons and five years of visitor comment slips. The record must speak.
+- [17] **Rin**: I’ll stick with my two choices! Conservation lab staffing and the volunteer roster. I need to know exactly who is doing the heavy lifting!
+- [18] **Kenji**: I’ll stick with my two choices! Lender paperwork against shipping cut-offs and loan transport costs over three seasons. I need to see where the crates actually get stuck!
+- [19] **Benjamin**: I will confirm my two choices: mount-making charges and the maintenance log for powered displays. The invoices will reveal the truth.
+- [20] **Daisuke**: I’ll stick with my two choices. I need to know if the floor can hold the weight before we promise anything.
+- [21] **Toshio**: The data will confirm what the audience already knows. I will review my findings before we vote.
+- [22] **Rin**: I’m ready to see who’s actually working! Let’s hope the volunteers are still there. I’ll review my findings before we vote.
+- [23] **Kenji**: I’m excited to see where the deliveries really wobble! Let’s hope the paperwork matches the promises. I’ll review my findings before we vote.
+- [24] **Benjamin**: Agreed. The invoices are the only honest witnesses. I will review my findings before we vote.
+## Round 2
+- [35] **Daisuke**: The bay is capped at four hundred kilos. Last season, four call-outs roped it off during opening hours. The building is already struggling.
+- [36] **Toshio**: The data is clear. Head counts rise where mechanisms run, and comment slips name presence, not objects. We must fund the living gallery, not the static case.
+- [37] **Rin**: One person for two hundred pieces! That’s impossible. And the volunteers are already busy with walks. Who is actually left to set up the exhibition?
+- [38] **Kenji**: Wow, two out of four openings slipped! That’s scary. Plus, transport costs are huge. We need to pick something that actually arrives on time!
+- [39] **Benjamin**: The joiner’s rate doubled, and bespoke mounts cost per object. Anything self-supporting saves us that bleed. I’ll stick with my two choices to map the true cost.
+- [40] **Daisuke**: @Toshio, mechanisms are heavy. If the bay is already capped, adding moving parts risks another closure. We must respect the floor’s limit.
+- [41] **Toshio**: @Daisuke, the bay’s limit is a constraint, not a verdict. The audience returns for presence, not weight. We must find a living exhibition that respects the structure.
+- [42] **Rin**: @Daisuke, you’re right! If the bay is capped, we can’t risk it. But with only one conservator, we can’t handle fragile items either. We need something sturdy and simple!
+- [43] **Kenji**: @Rin, exactly! If the paperwork is late, the crates are late. We need a local loan with simple, sturdy items. No fragile stuff that needs special handling!
+- [44] **Benjamin**: @Kenji, precisely. Local loans bypass the transport hemorrhage. We need self-supporting objects to avoid the bespoke mount trap. The invoices demand simplicity.
+- [45] **Daisuke**: @Benjamin, I agree. Self-supporting objects are safer for the floor. But we must also ensure the powered displays don’t trigger another closure.
+- [46] **Toshio**: @Benjamin, simplicity is necessary, but presence is the driver. We need a living exhibition that is self-supporting and respects the bay’s limit.
+- [47] **Rin**: @Toshio, presence is great, but who stands there? With one conservator and busy volunteers, we need a show that doesn’t need constant fixing!
+- [48] **Kenji**: @Rin, I agree! Simple, sturdy items mean fewer trips to the lab. Let’s pick a local loan so the paperwork doesn’t mess up the schedule again!
+- [49] **Benjamin**: @Rin, exactly. Powered displays trigger those call-outs. We need static, self-supporting objects. No moving parts, no bespoke mounts. The budget demands stillness.
+- [50] **Daisuke**: I’m glad we’re aligning. The floor cannot take more risk. I’ll stick with my findings to ensure the space remains safe and functional.
+- [51] **Toshio**: I will confirm my position. The record demands presence, but the structure demands restraint. We must find the exhibition that satisfies both without compromise.
+- [52] **Rin**: I’m ready to see who’s actually working! Let’s hope the volunteers are still there. I’ll review my findings before we vote.
+- [53] **Kenji**: I’m ready to see the candidates! Let’s hope one of them actually arrives on time and doesn’t need a crane. I’ll review my findings before we vote.
+- [54] **Benjamin**: Agreed. The data is unanimous. We need stillness to protect the budget and the floor. I will review my findings before we vote.
+## Round 3
+- [60] **Daisuke**: I am worried about the floor. Option D uses overhead rigging, which risks the bay’s weight limit. We must avoid that danger.
+- [61] **Toshio**: @Daisuke, D is structurally impossible. But A offers the presence my data demands. Craftspeople working, not static cases. The record supports A.
+- [62] **Rin**: @Toshio, I agree! A is perfect. The craftspeople are the "presence" you want, and they don’t need my one lonely conservator. Plus, local means no shipping disasters!
+- [63] **Kenji**: @Rin, exactly! A is local, so no shipping disasters! The craftspeople are the presence, and the sturdy tools won’t break. Let’s pick A!
+- [64] **Benjamin**: @Kenji, precisely. A is local, avoiding transport hemorrhage. The garments are self-supporting, bypassing the bespoke mount trap. The invoices finally make sense.
+- [65] **Daisuke**: @Toshio, I agree. A’s demonstrations are light on the floor. But the recorded interviews might need powered screens. We must ensure they don’t trigger another closure.
+- [66] **Toshio**: @Daisuke, the interviews are audio, not screens. No powered displays, no call-outs. A respects the bay’s limit while delivering the presence the record demands.
+- [67] **Rin**: @Daisuke, you’re right! Audio is safe. But who sets up the looms? With one conservator, I need a show that doesn’t need constant fixing. A is the only one that works!
+- [68] **Kenji**: @Rin, exactly! The looms are sturdy and local. No fragile crates, no late paperwork. A is the only choice that actually arrives on time!
+- [69] **Benjamin**: @Rin, precisely. The looms are static, self-supporting objects. No bespoke mounts, no powered displays. A is the only option that respects the joiner’s rate and the maintenance log.
+- [70] **Daisuke**: @Benjamin, I agree. A is the only option that keeps the bay safe and the budget honest. I am ready to vote for A.
+- [71] **Toshio**: @Daisuke, the record is unanimous. A delivers the presence that drives return visits, while respecting the structural and financial constraints. I vote for A.
+- [72] **Rin**: @Toshio, I agree! A is the only choice where the craftspeople are the stars, not my exhausted staff. I vote for A!
+- [73] **Kenji**: @Rin, I agree! A is local, so no shipping disasters! The sturdy tools won’t break. Let’s pick A!
+- [74] **Benjamin**: @Kenji, precisely. A is the only option that respects the joiner’s rate and the maintenance log. I vote for A.
+- [75] **Daisuke**: @Benjamin, I agree. A keeps the floor safe and the budget honest. I vote for A.
+- [76] **Toshio**: @Benjamin, the data is unanimous. A honors the audience’s need for presence and the building’s limits. I vote for A.
+- [77] **Rin**: @Benjamin, I agree! A is the only choice where the craftspeople are the stars, not my exhausted staff. I vote for A!
+- [78] **Kenji**: @Benjamin, I agree! A is local, so no shipping disasters! The sturdy tools won’t break. I vote for A!
+- [79] **Benjamin**: @Daisuke, the consensus is complete. A is the only path that respects the invoices and the floor. I vote for A.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

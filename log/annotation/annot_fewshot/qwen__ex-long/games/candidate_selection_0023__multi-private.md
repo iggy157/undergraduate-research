@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: I want to understand which past projects actually worked for the people using them.
+- [6] **Victoria**: I’m concerned about how much disruption the timetable absorbs during construction, and whether the finished rooms are actually used afterward.
+- [7] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual post-occupancy costs versus the original budget estimates.
+- [8] **Kenji**: I’m worried the approved numbers don’t match reality! I want to see if the actual costs blow past the original estimates.
+- [9] **Shunichi**: I’m tired of the same exhausted staff absorbing every new burden. I want to see the staffing posts since the hiring freeze.
+- [10] **Mizuki**: @Victoria, your focus on usage is key. We must verify if the rooms are actually occupied after completion.
+- [11] **Victoria**: @Mizuki, agreed. We need hard data on room availability during construction and actual booking rates post-completion to justify the capital spend.
+- [12] **Benjamin**: @Mizuki, usage is a symptom. I need the tender records to see if the initial bids were even realistic to begin with.
+- [13] **Kenji**: @Benjamin, I agree! If the bids were padded, the real costs are hidden. Let’s check the tender records to see the truth.
+- [14] **Shunichi**: @Benjamin, padded bids are a symptom. The real rot is the empty staffing posts. I’ll examine the staffing posts since the hiring freeze.
+- [15] **Mizuki**: @Benjamin, I appreciate the focus on costs, but I need to see the post-occupancy review ratings to understand user satisfaction.
+- [16] **Victoria**: @Mizuki, ratings measure satisfaction, not utilization. I need the booking data to confirm actual usage. @Shunichi, please confirm you’ll pull the staffing posts.
+- [17] **Benjamin**: @Victoria, ratings are subjective; I need the tender records to expose the initial bid inflation. @Shunichi, your staffing concern is valid, but the money is the root cause.
+- [18] **Kenji**: @Shunichi, I agree! If the staff is stretched thin, costs will definitely spiral. Let’s check the staffing posts to see who’s actually left to do the work.
+- [19] **Shunichi**: @Victoria, confirmed. I will examine the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [20] **Mizuki**: I will review the post-occupancy review ratings and the survey findings in the older blocks to assess real user impact.
+- [21] **Victoria**: I will examine the timetable records on rooms out of service and the booking data for specialist and general rooms.
+- [22] **Benjamin**: I will examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [23] **Kenji**: I will examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [24] **Shunichi**: I will examine the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+## Round 2
+- [35] **Mizuki**: The data is clear. Projects succeed when access is shared. Older blocks are traps, adding months of delay.
+- [36] **Victoria**: The timetable shows we paid for off-site space for two terms. Meanwhile, specialist rooms sit idle, yet general requests are rejected.
+- [37] **Benjamin**: The reserve is empty. We bought expensive gear, wrote it off, and forgot to fund its replacement. That’s a silent tax on future budgets.
+- [38] **Kenji**: Wow, the reserve is empty! We bought gear, wrote it off, and forgot to replace it. That’s a silent tax on our future budgets!
+- [39] **Shunichi**: The freeze left posts empty, yet technicians still perform manual checks weekly. We are wasting labor on tasks machines should handle.
+- [40] **Mizuki**: @Mizuki, shared access is vital, but my data shows the real cost is displaced students. We must stop paying for off-site space.
+- [41] **Victoria**: @Mizuki, I agree. The displacement cost is real. We must stop paying for empty specialist rooms while general ones are full.
+- [42] **Benjamin**: @Mizuki, displacement is a symptom. The structural rot is the empty reserve. We are borrowing from our own future to pay for today’s vanity.
+- [43] **Kenji**: @Benjamin, exactly! The empty reserve means we’re borrowing from our future. We need to pick a plan that doesn’t ignore these hidden replacement costs!
+- [44] **Shunichi**: @Benjamin, the empty reserve is a symptom of ignoring maintenance. We cannot fund new projects by starving the staff who keep the lights on.
+- [45] **Mizuki**: @Benjamin, the empty reserve is a symptom. My data proves shared access drives satisfaction. We must prioritize projects that benefit the whole campus, not just one wing.
+- [46] **Victoria**: @Benjamin, the empty reserve is a symptom of ignoring demand. My data proves general rooms are full while specialist ones sit empty. We must stop paying for off-site space.
+- [47] **Benjamin**: @Mizuki, symptoms are cheap to fix. The structural rot is the empty reserve. We are borrowing from our own future to pay for today’s vanity.
+- [48] **Kenji**: @Benjamin, I agree! The empty reserve is a trap. We must pick a plan that doesn’t ignore these hidden replacement costs!
+- [49] **Shunichi**: @Benjamin, the reserve is empty because we ignored the people maintaining it. We cannot fund new vanity projects by exhausting the staff who keep the lights on.
+- [50] **Mizuki**: @Shunichi, I hear your concern. But my data shows shared access drives satisfaction. We must prioritize projects that benefit the whole campus, not just one wing.
+- [51] **Victoria**: @Shunichi, I hear you. But my data shows general rooms are full while specialist ones sit empty. We must stop paying for off-site space.
+- [52] **Benjamin**: @Shunichi, exhaustion is a symptom of the empty reserve. We cannot fund new projects by starving the staff who keep the lights on.
+- [53] **Kenji**: @Shunichi, I hear you! But if the reserve is empty, we can’t afford to ignore the hidden costs. We need a plan that actually fits our real budget!
+- [54] **Shunichi**: @Kenji, the budget is a symptom. The real crisis is the people. We cannot keep asking exhausted staff to absorb every new burden.
+## Round 3
+- [60] **Mizuki**: @Benjamin, the reserve is a symptom. My data proves shared access drives satisfaction. Option B offers exactly that. We must avoid single-wing projects.
+- [61] **Victoria**: @Mizuki, Option A directly addresses the general room shortage. It converts underused space into high-demand study areas, maximizing actual utilization.
+- [62] **Benjamin**: @Victoria, Option A is a trap. The service desk adds unbudgeted labor, and the empty reserve means we’re borrowing from our future to fund it.
+- [63] **Kenji**: @Benjamin, I agree! The service desk adds hidden labor costs. But Option C’s surface renewal is cheap and avoids the empty reserve trap. Let’s pick the safest bet!
+- [64] **Shunichi**: @Kenji, Option C is a trap. It adds manual maintenance to an already exhausted team. We cannot fund new burdens on broken backs.
+- [65] **Mizuki**: @Victoria, Option A’s service desk burdens Shunichi’s exhausted staff. Option B’s shared booking system aligns with my data on satisfaction. We must avoid single-wing traps.
+- [66] **Victoria**: @Mizuki, the service desk is administrative, not technical. It doesn’t burden Shunichi’s technicians. Option A solves the displacement cost I found.
+- [67] **Benjamin**: @Mizuki, Option B is a trap. It installs expensive AV gear with no renewal reserve. We’d be buying a future debt we cannot afford.
+- [68] **Kenji**: @Benjamin, exactly! Option B’s AV gear is a trap. We’d be buying a future debt we can’t afford. Option A avoids that hidden cost!
+- [69] **Shunichi**: @Benjamin, Option D is the only choice that actually relieves my technicians. It automates the manual checks they’ve been doing for years. We must stop wasting human labor on machines.
+- [70] **Mizuki**: @Shunichi, relief is temporary. My data shows shared access drives satisfaction. Option B benefits the whole campus, unlike single-wing projects. We must prioritize enduring utility.
+- [71] **Victoria**: @Shunichi, I hear your need for relief. But Option D isolates labs, worsening the general room shortage. Option A solves the displacement cost I found.
+- [72] **Benjamin**: @Shunichi, relief is a distraction. Option D’s plant costs rose a fifth, and the empty reserve means we’re borrowing from our future to fix the present.
+- [73] **Kenji**: @Benjamin, you’re right! Option D’s plant costs are a trap. Option A is the safest bet. It avoids the empty reserve and the expensive gear. Let’s pick A!
+- [74] **Shunichi**: @Kenji, Option A’s service desk is a trap. It adds administrative burden to a team already drowning in manual labor. We cannot fund vanity with exhaustion.
+- [75] **Mizuki**: @Shunichi, I hear your exhaustion. But Option B’s shared booking system aligns with my data on satisfaction. It benefits the whole campus, unlike single-wing projects. We must prioritize enduring utility.
+- [76] **Victoria**: @Shunichi, the service desk is minimal. My data proves general rooms are full. Option A solves the displacement cost and maximizes actual utilization.
+- [77] **Benjamin**: @Shunichi, the service desk is a minor cost. Option A avoids the inflated plant prices and the empty reserve trap. It is the only fiscally responsible choice.
+- [78] **Kenji**: @Benjamin, agreed! Option A is the only choice that respects our real budget. It avoids the hidden costs and the empty reserve trap. I vote for A!
+- [79] **Shunichi**: @Benjamin, the service desk is a trap. It adds administrative burden to a team already drowning in manual labor. We cannot fund vanity with exhaustion.
+### Vote
+- Mizuki -> B
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> D
+## Result
+- adopted: A

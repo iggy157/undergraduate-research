@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I am concerned about the gap between the development budget and the ongoing running costs.
+- [6] **Shion**: I am curious about the actual outcomes of past initiatives. We need to know if they truly helped patients.
+- [7] **Midori**: I am worried about how new programs affect existing staff. I want to see the current roster pressures before we commit.
+- [8] **Kenji**: I worry about whether the hospital can physically absorb a new program. Rooms, parking, and booking screens are already tight.
+- [9] **Shizue**: I worry about programs that start well but quietly fall apart in the second year. I want to see where recent efforts broke down.
+- [10] **Jonathan**: @Shion, that is a fair point. I am also looking at the ledger to see what the allocation actually covers.
+- [11] **Shion**: @Jonathan, the ledger is just numbers. I want to know if those numbers translated into better patient outcomes.
+- [12] **Midori**: @Shion, I agree. But without stable staffing, even good outcomes fade. I will check the ward nursing vacancies and agency cover.
+- [13] **Kenji**: @Midori, staffing is key, but I am checking the booking system records. If the screens are already maxed out, new programs just add chaos.
+- [14] **Shizue**: @Midori, I understand your concern. I will look at the board minutes on the jointly run clinic to see how that arrangement held up.
+- [15] **Jonathan**: @Kenji, the booking data will show if we have physical slack. I will check the ledger and the regional fund tariffs to understand the true cost.
+- [16] **Shion**: @Kenji, physical space is secondary. I will examine the readmission figures from the call-back trial to see if that intervention actually reduced returns.
+- [17] **Midori**: @Jonathan, the tariffs matter, but I am also checking the therapy and midwifery staffing review. I need to see where the real pressure sits.
+- [18] **Kenji**: @Shion, outcomes matter, but if the rooms are full, patients can't even get in. I will check the rooms, parking, and shuttle coverage.
+- [19] **Shizue**: @Shion, I appreciate your focus on outcomes. I will also look at the data agreements with outside surgeries to see if those partnerships are truly sustainable.
+- [20] **Jonathan**: I will review the ledger and the regional fund tariffs. I need to know the true financial scope before we proceed.
+- [21] **Shion**: I will examine the readmission figures from the call-back trial and the visit completion on the shared nursing round.
+- [22] **Midori**: I will review the ward nursing vacancies and agency cover, plus the therapy and midwifery staffing review. I need to see where the real pressure sits.
+- [23] **Kenji**: I will check the booking system records and the rooms, parking, and shuttle coverage. I need to see if the physical infrastructure can handle the load.
+- [24] **Shizue**: I will review the board minutes on the jointly run clinic and the data agreements with outside surgeries. I need to see where those partnerships truly rested.
+## Round 2
+- [35] **Jonathan**: The ledger shows our allocation is down a quarter. Off-site contacts earn nothing, while on-site sessions bill standard rates.
+- [36] **Shion**: @Jonathan, the call-back trial cut readmissions by a fifth, but only while it ran. The shared nursing round lost a third of visits. We need sustainable models, not temporary fixes.
+- [37] **Midori**: @Shion, that visit loss is worrying. My staffing data shows nine unfilled nursing posts and rising agency costs. The midwifery rota has slack, though.
+- [38] **Kenji**: @Midori, that staffing gap is real. My booking data shows outpatient rooms are full by mid-morning. The car park is jammed before eleven. We have no physical slack.
+- [39] **Shizue**: @Midori, those vacancies are a heavy burden. I found the joint clinic closed in a year because neither side held the budget. I worry about similar fragility here.
+- [40] **Jonathan**: @Shizue, that fragility is exactly what I fear. With the allocation cut, we cannot afford a program that bleeds money in year two.
+- [41] **Shion**: @Shizue, fragility is the norm. The call-back trial proved that. I need to know if any program has a mechanism to sustain itself without constant budget injections.
+- [42] **Midori**: @Shion, I agree. The midwifery slack is a rare opening. A program there would use existing staff, avoiding the agency costs that are straining the wards.
+- [43] **Kenji**: @Midori, that midwifery slack is a lifeline. But the shuttle only covers four villages. If patients can't get here, the program fails before it starts.
+- [44] **Shizue**: @Kenji, the shuttle gap is real. My data shows outside agreements took fourteen months to sign. We must avoid relying on partners who are slow to commit.
+- [45] **Jonathan**: @Shion, sustainability is key. I need to know which candidates generate on-site revenue to offset the reduced allocation.
+- [46] **Shion**: @Jonathan, revenue is a symptom, not a cure. I want to know which candidate has a built-in mechanism to keep patients engaged after the initial funding dries up.
+- [47] **Midori**: @Shion, I agree. But a program that relies on the strained nursing team will just add to the vacancies. We need to use the midwifery slack to keep the roster stable.
+- [48] **Kenji**: @Shion, I agree. But if the car park is full, no mechanism matters. I need a program that fits the existing physical flow without adding new traffic.
+- [49] **Shizue**: @Shion, I agree. The joint clinic failed because no one owned the rota. We need a program with a single, clear departmental home to prevent that quiet collapse.
+- [50] **Jonathan**: I will focus on candidates that bill on-site. Off-site work earns nothing, so we must prioritize revenue-generating sessions to cover the running costs.
+- [51] **Shion**: I will prioritize candidates with a clear, single departmental owner. The call-back trial failed because it lacked that anchor. We need a program that survives without constant oversight.
+- [52] **Midori**: I will prioritize candidates using the midwifery slack. It avoids the agency costs straining our wards and keeps the roster stable for everyone.
+- [53] **Kenji**: I will prioritize candidates that fit the existing physical flow. No new traffic, no extra parking. The infrastructure must absorb the program without seizing up.
+- [54] **Shizue**: I will prioritize candidates with a single, clear departmental home. The joint clinic failed because ownership was shared. We need one team to truly own the rota and the budget.
+## Round 3
+- [60] **Jonathan**: Candidate B bills on-site, generating revenue. A and D are off-site, earning nothing. With our cut allocation, B is the only financially viable option.
+- [61] **Shion**: @Jonathan, revenue is a symptom, not a cure. Candidate A mirrors the call-back trial that actually reduced readmissions. I need to know if B has a mechanism to sustain patient engagement beyond the initial funding.
+- [62] **Midori**: @Shion, I agree on sustainability. But Candidate A relies on the nine vacant nursing posts. We cannot add home visits to an already broken roster.
+- [63] **Kenji**: @Midori, exactly. Candidate A means more traffic. The car park is already full. I need a program that stays inside the existing rooms and flow.
+- [64] **Shizue**: @Midori, you are right. Candidate C is shared between midwifery and pediatrics. That is exactly how the joint clinic failed. I cannot support a program without a single, clear owner.
+- [65] **Jonathan**: @Shion, I hear you, but the ledger is clear. Off-site visits earn zero. We cannot fund a program that generates no revenue when our allocation is already cut.
+- [66] **Shion**: @Jonathan, the call-back trial proved off-site care works. But I agree with Midori; the nursing vacancies make A impossible. I am looking at D for its single ownership.
+- [67] **Midori**: @Shion, I agree. Candidate C uses the midwifery slack I found. It keeps the roster stable and avoids the agency costs straining our wards.
+- [68] **Kenji**: @Midori, I worry about C. It adds new patients to a car park that is already full. The physical flow cannot absorb that extra traffic.
+- [69] **Shizue**: @Kenji, the traffic concern is valid. But Candidate D relies on outside data agreements, which took fourteen months to sign. That delay is a quiet risk I cannot ignore.
+- [70] **Jonathan**: @Shizue, the data delay is a real risk. But Candidate B stays on-site, billing standard rates. It avoids the off-site zero-revenue trap and the staffing gaps.
+- [71] **Shion**: @Jonathan, B is a physical expansion. Kenji says the rooms are full. I am looking at D. It consolidates care without adding traffic or new rooms.
+- [72] **Midori**: @Shion, I understand the appeal of D. But C uses the midwifery slack I found. It keeps the roster stable and avoids the agency costs straining our wards.
+- [73] **Kenji**: @Shion, D is a desk job. No new rooms, no extra cars. It fits the existing flow perfectly. B would just clog the already full parking.
+- [74] **Shizue**: @Shion, I hear your point about D. But the joint clinic failed because ownership was shared. C is also shared. I need a single, clear departmental home to prevent that quiet collapse.
+- [75] **Jonathan**: I vote for B. It is the only option that generates on-site revenue to offset our reduced allocation. The others simply drain resources we no longer have.
+- [76] **Shion**: I vote for D. It has a single departmental home, avoiding the shared-ownership trap that killed the joint clinic. It also fits the physical constraints Kenji identified.
+- [77] **Midori**: I vote for C. It uses the midwifery slack I found, keeping our roster stable and avoiding the agency costs straining our wards.
+- [78] **Kenji**: I vote for D. It requires no new rooms or parking. The booking screens can handle it without seizing up. It fits the existing physical flow perfectly.
+- [79] **Shizue**: I vote for D. It has a single, clear departmental home. The joint clinic failed because ownership was shared. I need one team to truly own the rota and the budget.
+### Vote
+- Jonathan -> B
+- Shion -> D
+- Midori -> C
+- Kenji -> D
+- Shizue -> D
+## Result
+- adopted: D

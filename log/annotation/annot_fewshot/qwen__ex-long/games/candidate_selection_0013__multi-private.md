@@ -1,0 +1,73 @@
+# candidate_selection_0013__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. I worry about timelines slipping. Let us look at the delivery schedules to see what actually happens.
+- [6] **Yumi**: Hi everyone! I’m curious about how much disruption the timetable absorbs during construction. Let’s check the timetable records on rooms out of service.
+- [7] **George**: I worry about the staff already stretched thin. We need to see if this plan adds more burden to those doing routine upkeep.
+- [8] **Mizuki**: I want to know which past projects actually worked for the people using them. Let’s review the post-occupancy review ratings.
+- [9] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual post-occupancy costs versus the original budget estimates.
+- [10] **Shizue**: @Yumi, your focus on disruption is wise. I will examine the decade of delivery schedules and the weather days in the site diaries to understand the delays.
+- [11] **Yumi**: @Shizue, that sounds thorough! I’ll stick with the timetable records and also check the booking data for specialist and general rooms to see real usage.
+- [12] **George**: @Mizuki, your focus on user satisfaction is vital. I will examine the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [13] **Mizuki**: @George, I appreciate your concern for the staff. I will review the post-occupancy review ratings and the survey findings in the older blocks to assess real user impact.
+- [14] **Benjamin**: @Mizuki, your focus on user impact is sound. I will examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [15] **Shizue**: @Benjamin, your caution is well-placed. I will stick with my two choices to understand the timeline risks better.
+- [16] **Yumi**: @Shizue, I’m glad we’re covering all angles! I’ll stick with my two choices to understand the real usage and disruption better.
+- [17] **George**: @Benjamin, your scrutiny of the numbers is necessary. I will stick with my two choices to understand the true burden on our remaining staff.
+- [18] **Mizuki**: @Benjamin, I agree. Your scrutiny is essential. I will stick with my two choices to understand the real user impact.
+- [19] **Benjamin**: @George, your concern for the staff is valid. I will stick with my two choices to expose the gap between paper and reality.
+- [20] **Shizue**: @All, I am content with my choices. The data will reveal the true shape of our delays. I look forward to our findings.
+- [21] **Yumi**: @Shizue, I’m excited to see what the data shows! I’ll stick with my two choices to understand the real usage and disruption better.
+- [22] **George**: @All, I am content with my choices. The data will reveal the true burden on our remaining staff. I look forward to our findings.
+- [23] **Mizuki**: @All, I am content with my choices. The data will reveal which projects truly served their users. I look forward to our findings.
+- [24] **Benjamin**: @All, I am content. The numbers will finally speak the truth the paperwork refuses to tell. I look forward to our findings.
+## Round 2
+- [35] **Shizue**: @All, the data is clear. Inspection-driven work stays on schedule, but comfort projects slip a year. Rain also stole six weeks. We must prioritize compliance.
+- [36] **Yumi**: @Shizue, that’s helpful! But my data shows we paid for off-site space for two terms. Meanwhile, specialist rooms sit idle, yet general requests are rejected.
+- [37] **George**: @Yumi, your findings on idle rooms are concerning. My data shows technicians waste hours on manual checks. We need a plan that relieves this burden, not adds to it.
+- [38] **Mizuki**: @George, your burden is real. But my data shows shared access drives satisfaction. We must avoid single-wing projects that leave users disappointed.
+- [39] **Benjamin**: @Mizuki, shared access is nice, but my data shows the reserve is empty. We bought expensive gear, wrote it off, and forgot to fund its replacement. That’s a silent tax on future budgets.
+- [40] **Shizue**: @Benjamin, the empty reserve is a symptom. My data shows compliance work finishes on time. We must choose a plan that respects the schedule and avoids the rain.
+- [41] **Yumi**: @Benjamin, the empty reserve is scary! But my data shows general rooms are full while specialist ones sit empty. We need to fix the actual shortage, not just the paperwork.
+- [42] **George**: @Benjamin, the empty reserve is a symptom of ignoring maintenance. We cannot fund new projects by starving the staff who keep the lights on.
+- [43] **Mizuki**: @Benjamin, the empty reserve is a symptom of ignoring user needs. My data proves shared access drives satisfaction. We must prioritize projects that benefit the whole campus, not just one wing.
+- [44] **Benjamin**: @Shizue, symptoms are cheap to fix. The structural rot is the empty reserve. We are borrowing from our own future to pay for today’s vanity.
+- [45] **Shizue**: @Benjamin, I hear your worry. But my data shows compliance work finishes on time. We must choose a plan that respects the schedule and avoids the rain.
+- [46] **Yumi**: @Shizue, I agree compliance is safe, but my data shows the real pain is displaced students. We must stop paying for empty off-site space!
+- [47] **George**: @Shizue, I hear you on the schedule. But my technicians are exhausted. We need a plan that actually reduces their daily manual labor, not just meets a deadline.
+- [48] **Mizuki**: @Shizue, I hear you on the schedule. But my data shows shared access drives satisfaction. We must prioritize projects that benefit the whole campus, not just one wing.
+- [49] **Benjamin**: @George, exhaustion is a symptom of the empty reserve. We cannot fund new projects by starving the staff who keep the lights on.
+- [50] **Shizue**: @All, I am content with my findings. The data shows compliance work finishes on time. I look forward to seeing the candidates and choosing wisely.
+- [51] **Yumi**: @Shizue, I’m ready to see the candidates! I hope we can finally stop paying for empty off-site space and fix the real shortage.
+- [52] **George**: @All, I am content with my findings. The data confirms our staff are stretched thin. I look forward to seeing the candidates and choosing wisely.
+- [53] **Mizuki**: @All, I am content with my findings. The data confirms shared access drives satisfaction. I look forward to seeing the candidates and choosing wisely.
+- [54] **Benjamin**: @All, I am content. The numbers confirm the rot. I look forward to seeing which candidate survives contact with the actual market.
+## Round 3
+- [60] **Shizue**: @All, I see four paths. Option D addresses inspection findings, which my data shows stay on schedule. The others risk slipping.
+- [61] **Yumi**: @Shizue, I hear you on the schedule! But my data shows general rooms are full while specialist ones sit empty. Option C fixes that real shortage!
+- [62] **George**: @Shizue, Option D is the only plan that ends my technicians’ manual window-opening. That relief is non-negotiable for us.
+- [63] **Mizuki**: @Shizue, I hear you on the schedule. But my data shows shared access drives satisfaction. Option B is open to all, unlike single-wing projects.
+- [64] **Benjamin**: @Shizue, Option D is a trap. My data shows the reserve is empty. We cannot fund new plant with money meant for replacing broken gear.
+- [65] **Shizue**: @Benjamin, I understand your caution. But Option D is the only path that respects the schedule and avoids the rain. We must choose the work that endures.
+- [66] **Yumi**: @Benjamin, I hear your worry! But Option C uses existing space, so no new plant to buy. It fixes the shortage without draining the reserve!
+- [67] **George**: @Benjamin, the empty reserve is a symptom of ignoring maintenance. We cannot fund new projects by starving the staff who keep the lights on.
+- [68] **Mizuki**: @Benjamin, the empty reserve is a symptom of ignoring user needs. My data proves shared access drives satisfaction. Option B is open to all, unlike single-wing projects.
+- [69] **Benjamin**: @Yumi, Option C is the only path that doesn't require new plant. It avoids the empty reserve trap and the market inflation I found. It is the rational choice.
+- [70] **Shizue**: @Benjamin, I hear your caution. But Option D is the only path that respects the schedule. We must choose the work that endures, not the one that slips.
+- [71] **Yumi**: @Shizue, I hear you on the schedule! But Option C uses existing space, so no new plant to buy. It fixes the shortage without draining the reserve!
+- [72] **George**: @Shizue, I hear you on the schedule. But Option D is the only plan that actually reduces my team’s daily manual labor. That relief is non-negotiable for us.
+- [73] **Mizuki**: @Shizue, I hear you on the schedule. But my data shows shared access drives satisfaction. Option B is open to all, unlike single-wing projects.
+- [74] **Benjamin**: @George, I hear your plea for relief. But Option D is a compliance trap funded by our empty reserve. We cannot afford the structural rot.
+- [75] **Shizue**: @All, I see the tension. Option D respects the schedule, but Option C respects the budget. Let us weigh the enduring value against the immediate need.
+- [76] **Yumi**: @Shizue, I agree! Option C respects both the budget and the real shortage. It stops the off-site costs and gives students the space they need. I vote for C!
+- [77] **George**: @Shizue, I hear you on the schedule. But Option D is the only plan that actually reduces my team’s daily manual labor. That relief is non-negotiable for us.
+- [78] **Mizuki**: @Shizue, I hear you on the schedule. But my data shows shared access drives satisfaction. Option B is open to all, unlike single-wing projects. I vote for B.
+- [79] **Benjamin**: @Shizue, I agree. Option C respects the budget and avoids the empty reserve trap. It is the only rational choice. I vote for C.
+### Vote
+- Shizue -> C
+- Yumi -> C
+- George -> D
+- Mizuki -> B
+- Benjamin -> C
+## Result
+- adopted: C

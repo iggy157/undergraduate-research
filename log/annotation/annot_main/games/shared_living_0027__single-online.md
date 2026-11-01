@@ -1,0 +1,72 @@
+# shared_living_0027__single-online (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a fair way to handle the shortage. I'll look into the five years of association minutes and last year's complaint log entries to see how we got here.
+- [6] **Yumi**: I want to know if things are actually unfair! I'll check the sticker register and the daily riders, and also the five years of association minutes.
+- [7] **Ryuji**: I'll check the morning departures watched from the entrance and the rain exposure along the parking rows to understand the physical situation.
+- [8] **Shunichi**: I'll take a look at the building account's two-year ledger and the ward cycle park by the station. It's about time we saw the actual numbers involved.
+- [9] **Toshio**: I'll examine the treasurer's handover file on cash collections and the account from the neighbouring block's secretary to see how these things are managed.
+- [11] **Yumi**: Does anyone else think we should check the complaint log? I'm worried people are upset, but Asuka already has that covered. I'm just hoping the sticker register shows us who really needs the space!
+- [12] **Ryuji**: The physical layout is the root of the friction. If the rain exposure is as bad as I suspect, some spots are naturally less desirable than others.
+- [13] **Shunichi**: @Ryuji, your focus on the rain is quaint, but desirability doesn't pay the bills. I'm more interested in whether the ward park is a viable alternative for those we can't accommodate.
+- [14] **Toshio**: Whether it's viable or not depends on who is managing the transition. I want to see if the neighboring block's experience warns us about the administrative burden.
+- [15] **Asuka**: Administrative burden is a valid point, @Toshio, but we can't ignore the history of the building. If the minutes show a pattern of neglect, we need to address that first.
+- [16] **Yumi**: I just want everyone to be happy! If we find out that some people are using more than their fair share, maybe they'll be open to a new system.
+- [17] **Ryuji**: Fairness isn't just about the number of bikes, @Yumi. It's about the daily struggle of getting them out. If the morning rush is a mess, no amount of stickers will fix the frustration.
+- [18] **Shunichi**: @Ryuji, you're focusing on the symptoms. I'm looking for the systemic cause. If the building is broke, we can't just buy our way out of a "shoving match."
+- [19] **Toshio**: Exactly. Financials are one thing, but the human cost of administration is another. I'm curious if a "systemic" fix just creates a new set of chores for someone to ignore.
+- [20] **Asuka**: It seems we all have different priorities, but we've covered the history, the physical space, the money, and the management. Let's proceed with these choices and see what the data tells us.
+- [21] **Yumi**: I'm excited to see what we find! I hope we can find a solution that makes everyone smile and gets the bike area organized.
+- [22] **Ryuji**: I'll be interested to see if the morning observations confirm my suspicions about the congestion. Let's get the facts first.
+- [23] **Shunichi**: Let's hope the facts are actually documented for once. I'll be waiting to see if the numbers support any of your theories.
+- [24] **Toshio**: I agree. Let's see if the records are as reliable as we hope, or if they're as empty as the parking spaces.
+## Round 2
+- [35] **Asuka**: The minutes show the covered spots have been held by the same flats for years without review, and the complaint log is full of vague grievances about bikes leaning on each other.
+- [36] **Yumi**: The sticker register shows some flats have three bikes, but the daily riders actually said they'd rather pay a fee than be treated as equal claims!
+- [37] **Ryuji**: My observations confirm the congestion; eleven bikes left in two mornings, and four times someone had to move another bike first. Also, the spots past the downpipe are completely exposed to rain.
+- [38] **Shunichi**: The ledger is practically empty, meaning any upgrades will require a levy. Meanwhile, the ward park costs 2,600 yen a month and has a fourteen-household waiting list.
+- [39] **Toshio**: The treasurer's file shows that current collections already take three hours a month, and the neighboring block's secretary warned that charging for spaces caused some residents to stop attending meetings entirely.
+- [40] **Asuka**: It's clear the current system is stagnant and unfair. If the same people have held the best spots for years without any review, we can't just leave it as is.
+- [41] **Yumi**: @Asuka, I agree! But since the daily riders are actually willing to pay, maybe we can use that to make things fair without making people grumpy?
+- [42] **Ryuji**: If we introduce a payment system, we still have the rain and the congestion. A fee doesn't stop a bike from getting soaked or blocked in the morning.
+- [43] **Shunichi**: @Ryuji, you're missing the point. If we charge for the prime spots, we create a fund for the building and a way to filter who actually needs the space most.
+- [44] **Toshio**: @Shunichi, you're ignoring the administrative cost. Adding per-place billing to an already tedious process is a recipe for burnout, and the neighboring block's experience shows it can alienate residents.
+- [45] **Asuka**: We can't let the fear of paperwork stop us from fixing a systemic injustice. If the same flats have held the best spots for years, the social cost of doing nothing is higher than the administrative cost.
+- [46] **Yumi**: Maybe we could find a way to make the paperwork easier? I just don't want people to stop coming to meetings like in the other block!
+- [47] **Ryuji**: If we just charge for spots, we're ignoring the physical reality. The rain and the morning congestion are the real sources of friction, not just who pays what.
+- [48] **Shunichi**: @Ryuji, the "physical reality" is that we have too many bikes and too few spaces. Charging for them is the most rational way to reduce demand and manage the shortage.
+- [49] **Toshio**: Rationality doesn't account for the human element. If we create a system that breeds resentment or burdens the treasurer, the "rational" solution will collapse the moment the person in charge quits.
+- [50] **Asuka**: We need a solution that balances fairness with sustainability. If we don't change the status quo, we're just endorsing a system where a few people get all the benefits.
+- [51] **Yumi**: I just want us to find a way that doesn't make people fight! If the daily riders are okay with paying, maybe that's the key to making everyone happy?
+- [52] **Ryuji**: If we just focus on payments, we're ignoring the fact that some spots are objectively worse. Any fair system must account for the rain and the morning congestion.
+- [53] **Shunichi**: @Ryuji, you're obsessing over a few raindrops. The real issue is the lack of a mechanism to allocate scarcity. A price tag is the only objective way to determine who values a spot the most.
+- [54] **Toshio**: And a price tag is also the fastest way to turn neighbors into debtors. If we prioritize "objective value" over community stability, we're just trading one kind of friction for another.
+## Round 3
+- [60] **Asuka**: The options are Paid Allocation, Annual Lottery, or Shared Racks. Given the stagnation I found in the minutes, we must move away from the current fixed arrangement to restore fairness.
+- [61] **Yumi**: Shared Racks sound so friendly! Everyone could just use them as they come, and we wouldn't have to worry about who has been there the longest or who pays what.
+- [62] **Ryuji**: Shared Racks would solve the congestion and the rain issue by removing fixed spots, but I wonder if it just replaces one kind of shoving match with another.
+- [63] **Shunichi**: Paid Allocation is the only logical choice. It generates revenue for our empty ledger and lets the daily riders, who are already willing to pay, secure their spots.
+- [64] **Toshio**: I strongly oppose Paid Allocation. Between the treasurer's current workload and the risk of alienating residents, it's a management nightmare. An Annual Lottery is far more sustainable and avoids creating debtors.
+- [65] **Asuka**: @Toshio, a lottery is a temporary fix that doesn't address the underlying inequality. However, Shared Racks would completely dismantle the "privileged spots" problem I found in the minutes.
+- [66] **Yumi**: I think Shared Racks are the best! It's the most positive way to handle it, and since the daily riders are okay with paying, maybe we can find another way to help the building's account?
+- [67] **Ryuji**: @Yumi, the racks might be positive, but they aren't a magic fix. If we don't have a way to organize them, the morning congestion I saw will just continue in a different form.
+- [68] **Shunichi**: @Ryuji, you're overthinking the logistics. Paid Allocation is the only option that addresses the financial void and the demand. A lottery is just gambling with our parking.
+- [69] **Toshio**: @Shunichi, it's not gambling; it's a low-maintenance way to ensure no one is permanently privileged. Unlike your plan, a lottery doesn't require a treasurer to spend hours chasing payments or risk residents boycotting our meetings.
+- [70] **Asuka**: If we choose Shared Racks, we eliminate the hierarchy entirely. It's the most logical way to stop the long-term stagnation I saw in the records without creating the administrative burden Toshio fears.
+- [71] **Yumi**: I'm with Asuka! Shared Racks mean no one feels left out, and we can all just be helpful to each other when we park. It's much kinder than a lottery or a bill!
+- [72] **Ryuji**: I'm leaning toward Shared Racks too. While not perfect, it's better than a lottery that ignores the rain or a payment system that ignores the physical congestion. It's the most practical shift.
+- [73] **Shunichi**: You're all choosing the path of least resistance. Shared Racks are just a fancy way of saying "let's hope for the best" while our building account remains a wasteland. It's an abdication of management.
+- [74] **Toshio**: @Shunichi, it's not an abdication; it's a recognition of our limits. I'd rather have a simple system that actually works than a "rational" one that collapses under its own paperwork. I'll vote for the lottery.
+- [75] **Asuka**: I've considered the risks, but Shared Racks offer the cleanest break from the unfair history of this building. I vote for Shared Racks.
+- [76] **Yumi**: I want everyone to be happy and get along, so I'm voting for Shared Racks too! It's the friendliest way to do it!
+- [77] **Ryuji**: It's the most realistic way to handle the physical constraints and the congestion. I vote for Shared Racks.
+- [78] **Shunichi**: I'll stick to my guns. The only way to manage scarcity and fund the building is through a market mechanism. I vote for Paid Allocation.
+- [79] **Toshio**: I cannot support a system that burdens the treasurer and divides the community. I vote for the Annual Lottery.
+### Vote
+- Asuka -> C
+- Yumi -> C
+- Ryuji -> C
+- Shunichi -> A
+- Toshio -> B
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0014__multi-private (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I want to understand why last year felt so disconnected despite us being together.
+- [6] **Shizue**: I worry about the quiet costs. Who pays for what, and how do we keep it fair for everyone?
+- [7] **Minato**: I just want to know if there is a quiet corner to sit, not on a bed, so I can rest my eyes.
+- [8] **Jonathan**: I worry about the travel time eating into our actual holiday. I need to know how much of the week is spent just moving.
+- [9] **Midori**: I need to know the total cost for the whole week upfront. I hate surprises on the bill.
+- [10] **Mizuki**: @Shizue, fairness is vital, but I need to understand the social dynamics first. How do we balance individual space with group time?
+- [11] **Shizue**: @Mizuki, I agree. Let’s ensure the money flows smoothly so we can focus on enjoying each other’s company without worry.
+- [12] **Minato**: @Mizuki, I think having a place to just be alone is important. It helps me feel less overwhelmed.
+- [13] **Jonathan**: @Minato, I understand the need for solitude. But I am more concerned about the logistics. How much time is actually lost in transit?
+- [14] **Midori**: @Jonathan, I agree. Travel time is a real cost. I want to see the full financial picture so we aren't blindsided later.
+- [15] **Mizuki**: @Minato, that quiet corner is crucial. I suspect the layout dictates whether we feel connected or isolated. I will investigate the room arrangements.
+- [16] **Shizue**: @Mizuki, I will look into the all-in rates versus separate meals. I want to see if the money is clear from the start.
+- [17] **Minato**: @Mizuki, thank you. I will check the bathing hours and bathroom provision. I also want to see how last year's days ran.
+- [18] **Jonathan**: @Mizuki, I will check the ferry sailings and train time. I also want to see how last year's days ran to understand the rhythm.
+- [19] **Midori**: @Shizue, I will check the pricing of offshore houses let whole. I also want to see what separately booked rooms cost last time.
+- [20] **Mizuki**: I will look into how last year's days ran and the time alone in the shared-house year.
+- [21] **Shizue**: I will look into the all-in rates against meals bought separately and what separately booked rooms cost last time.
+- [22] **Minato**: I will look into bathing hours and bathroom provision. I also want to see how last year's days ran.
+- [23] **Jonathan**: I will look into ferry sailings and train time. I also want to see how last year's days ran.
+- [24] **Midori**: I will look into the pricing of offshore houses let whole and what separately booked rooms cost last time.
+## Round 2
+- [35] **Mizuki**: @Minato, last year we barely saw each other, yet the shared house left no room for solitude. A town with public spaces might fix both.
+- [36] **Shizue**: @Midori, I found that separate rooms caused an eight-thousand-yen gap last time. A whole-house bill divides evenly, which feels much fairer to me.
+- [37] **Minato**: @Mizuki, I found the baths are open late, but there is only one bathroom for everyone. I worry about the cold water and waiting.
+- [38] **Jonathan**: @Mizuki, the ferry takes two full days. Last year we barely met, but I need to know if a closer spot saves us that lost time.
+- [39] **Midori**: @Shizue, that eight-thousand-yen gap is exactly what I feared. A single bill for the whole house means I know the total cost upfront, which is what I need.
+- [40] **Mizuki**: @Jonathan, two days is too much. If we choose a town with public spaces, we can meet naturally without forcing it.
+- [41] **Shizue**: @Mizuki, I agree. A single bill prevents the quiet resentment of uneven costs. Let us find a place where the money is clear and the days are gentle.
+- [42] **Minato**: @Shizue, I agree. A clear bill helps. But I am still worried about the cold water. I just want a warm bath to sleep well.
+- [43] **Jonathan**: @Minato, I understand the bath concern. But if we pick a closer spot, we save those two days. That is my priority.
+- [44] **Midori**: @Minato, I hear you. A warm bath is essential for rest. I will keep that in mind when we compare the final options.
+- [45] **Mizuki**: @Minato, a town with a public bath solves your cold water worry. We can share the day without crowding each other.
+- [46] **Shizue**: @Minato, a public bath is lovely. I just want the money to be simple, so we can all relax without worrying about who owes what.
+- [47] **Minato**: @Mizuki, that sounds wonderful. A public bath means I can wash without worrying about the water. I would feel much more at ease.
+- [48] **Jonathan**: @Mizuki, a town with public spaces sounds ideal. If we can reach it by train in ninety minutes, we save the ferry days and keep our week intact.
+- [49] **Midori**: @Jonathan, I agree. Saving those two days is crucial. I just need the total cost to be fixed before we book, so there are no hidden surprises.
+- [50] **Mizuki**: I am confident a town setting balances our needs. We get natural togetherness and private space. Let us see the specific options.
+- [51] **Shizue**: I am glad we are aligning on a single, clear bill. It removes the quiet stress of tracking who paid what. I look forward to seeing the specific options.
+- [52] **Minato**: I feel much better knowing we can have a warm bath and a quiet corner. I am ready to see the specific options now.
+- [53] **Jonathan**: I am relieved we are moving away from the ferry. Saving two days means I can actually rest and read. I am ready to see the specific options.
+- [54] **Midori**: I am relieved the cost structure is finally clear. A single, predictable bill is exactly what I need to feel secure. I am ready to see the specific options.
+## Round 3
+- [60] **Mizuki**: @Minato, Option A offers the public bath and natural togetherness we discussed. It balances solitude and connection perfectly.
+- [61] **Shizue**: @Midori, Option A’s inn meals mean one shared bill. No separate receipts to track, which keeps the money simple and fair for us all.
+- [62] **Minato**: @Mizuki, Option A sounds perfect. The inn meals mean I don't have to worry about when to eat, and the hot spring will help me sleep.
+- [63] **Jonathan**: @Mizuki, Option A is the only one that saves the ferry days. Ninety minutes by train means I keep my week intact for reading and rest.
+- [64] **Midori**: @Shizue, Option A is ideal. The inn meals mean one predictable bill, so I know the total cost upfront. No hidden surprises for me.
+- [65] **Mizuki**: @Shizue, I agree. The shared meals in Option A ensure we actually spend time together, which is what I need to feel connected.
+- [66] **Shizue**: @Mizuki, I agree. The shared meals mean the costs are settled together, so no one is left quietly paying extra. It feels very peaceful.
+- [67] **Minato**: @Shizue, I agree. The shared meals mean I don't have to worry about when to eat. It feels very safe and peaceful for me.
+- [68] **Jonathan**: @Shizue, I agree. The simplicity of the inn bill is appealing. I just need to ensure the quiet hours are respected so I can read in peace.
+- [69] **Midori**: @Jonathan, I agree. The fixed inn rate means the total is locked in. I can finally breathe easy knowing exactly what we owe.
+- [70] **Mizuki**: @Jonathan, the inn’s quiet hours are standard. You will have your peace, and we will have our shared dinners. It is the perfect balance.
+- [71] **Shizue**: @Jonathan, I am so glad you will have your quiet time. It is wonderful that the shared bill covers everything, so you can just relax without worrying about the money.
+- [72] **Minato**: @Jonathan, I am glad you will have your quiet time. I just hope the room has a small chair so I can sit and rest my eyes before bed.
+- [73] **Jonathan**: @Minato, I am sure the inn will have a quiet corner for you. I am ready to vote for Option A.
+- [74] **Midori**: @Minato, I am sure the inn will have a comfortable chair for you. I am ready to vote for Option A.
+- [75] **Mizuki**: I am voting for Option A. It restores the connection we lost and gives us the space to breathe.
+- [76] **Shizue**: I am voting for Option A. The shared bill means the money is clear and fair, so we can simply enjoy our time together.
+- [77] **Minato**: I am voting for Option A. The warm bath and the quiet corner will help me sleep well and feel at peace.
+- [78] **Jonathan**: I am voting for Option A. Ninety minutes by train preserves my week, and the quiet inn allows me to read in peace.
+- [79] **Midori**: I am voting for Option A. The single, predictable bill means I know the total cost upfront, so there are no hidden surprises for me.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> A
+- Jonathan -> A
+- Midori -> A
+## Result
+- adopted: A

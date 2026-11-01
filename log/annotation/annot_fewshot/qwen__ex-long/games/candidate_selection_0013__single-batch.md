@@ -1,0 +1,73 @@
+# candidate_selection_0013__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry the calendar keeps slipping. We must see where the time actually goes.
+- [6] **Yumi**: I’m curious about the space! Let’s check how the timetable absorbs the disruption during works.
+- [7] **George**: I’m concerned about the staff. We need to see if this adds burden to routine upkeep.
+- [8] **Mizuki**: I want to know which past projects actually worked for the people using them.
+- [9] **Benjamin**: I suspect the approved figures are fiction. I want to see actual post-occupancy costs.
+- [10] **Shizue**: @Mizuki, your focus on user impact is wise. We must verify if the work delivers value.
+- [11] **Yumi**: @George, I agree. If rooms sit empty, the upkeep burden remains without the benefit.
+- [12] **George**: @Yumi, valid point. But if the schedule slips, the disruption drags on for everyone.
+- [13] **Mizuki**: @Shizue, I agree. We need hard data on satisfaction to justify the capital spend.
+- [14] **Benjamin**: @Mizuki, satisfaction is a symptom. I’m more interested in the tender records for realism.
+- [15] **Shizue**: @Benjamin, I appreciate the focus on costs, but I need to see the delivery schedules.
+- [16] **Yumi**: @Shizue, agreed. I’ll check the timetable records and the booking data for specialist rooms.
+- [17] **George**: @Yumi, I will look into the staffing posts and the bench technicians' routines.
+- [18] **Mizuki**: @George, I will review the post-occupancy ratings and the survey findings in older blocks.
+- [19] **Benjamin**: @Mizuki, I will examine the tender records and the renewal reserve for equipment.
+- [20] **Shizue**: I will examine the decade of delivery schedules and the weather days in site diaries.
+- [21] **Yumi**: I will examine the timetable records on rooms out of service and the booking data.
+- [22] **George**: I will review the staffing posts since the hiring freeze and the bench technicians' routines.
+- [23] **Mizuki**: I will review the post-occupancy review ratings and the survey findings in the older blocks.
+- [24] **Benjamin**: I will examine the tender records over three budget cycles and the renewal reserve.
+## Round 2
+- [35] **Shizue**: The data is clear. Compliance projects finish on time, but comfort-driven ones slip a year.
+- [36] **Yumi**: The timetable shows we paid for off-site space for two terms. Specialist rooms sit idle.
+- [37] **George**: The freeze left posts empty, yet technicians still perform manual checks weekly. We waste labor.
+- [38] **Mizuki**: Surveys in older blocks keep finding hazardous material. The last two openings added months.
+- [39] **Benjamin**: The reserve is empty. We bought expensive gear, wrote it off, and forgot to fund replacement.
+- [40] **Shizue**: @Mizuki, compliance is necessary, but not sufficient. My data shows shared access drives satisfaction.
+- [41] **Yumi**: @Shizue, shared access is vital, but my data shows the real cost is displaced students.
+- [42] **George**: @Yumi, you’re right. We can’t ignore the staffing gap. We must pick a plan that doesn’t stretch us.
+- [43] **Mizuki**: @George, valid concern. But if we choose compliance, the schedule holds. We must prioritize safety.
+- [44] **Benjamin**: @Mizuki, compliance is cheap. The real hemorrhage is the empty reserve. We are borrowing from the future.
+- [45] **Shizue**: @Benjamin, the empty reserve is a symptom. My data proves shared access drives satisfaction.
+- [46] **Yumi**: @Benjamin, the empty reserve is a symptom of poor planning. My data proves we pay for empty rooms.
+- [47] **George**: @Benjamin, the empty reserve is a symptom of ignoring maintenance. We cannot fund new projects by starving staff.
+- [48] **Mizuki**: @Benjamin, the reserve is critical, but my data shows compliance projects finish on time.
+- [49] **Benjamin**: @Shizue, symptoms are cheap to fix. The structural rot is the empty reserve. We are borrowing from our own future.
+- [50] **Shizue**: @All, we must choose a plan that respects the schedule and doesn’t break the budget.
+- [51] **Yumi**: @All, we must stop paying for off-site space. We need a plan that solves the actual shortage.
+- [52] **George**: @All, we need a plan that reduces our team’s daily manual labor. That relief is non-negotiable.
+- [53] **Mizuki**: @All, we must prioritize projects that benefit the whole campus, not just one wing.
+- [54] **Benjamin**: @All, we must avoid plans that require us to borrow from our own future.
+## Round 3
+- [60] **Shizue**: Option D is a compliance fix. My data shows those projects stay on schedule.
+- [61] **Yumi**: Option C directly addresses the general room shortage. It converts underused space into high-demand areas.
+- [62] **George**: Option D adds new extraction. My technicians are already drowning in manual checks. We cannot afford more.
+- [63] **Mizuki**: Option C offers shared access. My data proves shared access drives satisfaction.
+- [64] **Benjamin**: Option D replaces plant, but the reserve is empty. We’d be borrowing from our future to fix the present.
+- [65] **Shizue**: @George, Option D is the only plan that actually reduces your team’s daily manual labor.
+- [66] **Yumi**: @Shizue, Option C solves the displacement cost I found. It stops us paying for off-site space.
+- [67] **George**: @Shizue, I hear you. But Option C’s service desk is administrative, not technical. It doesn’t burden my technicians.
+- [68] **Mizuki**: @George, Option C benefits the whole campus. Option D is a single-wing project.
+- [69] **Benjamin**: @Mizuki, Option C is a conversion. It avoids the expensive mechanical lots I found in the tenders.
+- [70] **Shizue**: @Benjamin, Option C’s timeline is risky. But Option D’s compliance rationale guarantees on-time delivery.
+- [71] **Yumi**: @Shizue, Option C’s booking system ensures usage. Option D’s benefit stays inside a single wing.
+- [72] **George**: @Yumi, I accept that. Option C is the only plan that doesn’t add to my team’s burden.
+- [73] **Mizuki**: @George, Option C aligns with the closeout data. Shared access endures.
+- [74] **Benjamin**: @Mizuki, Option C’s computational nature bypasses the biological bottlenecks. It is the logical choice.
+- [75] **Shizue**: @All, Option C is the enduring path. Let us vote for the work that remains.
+- [76] **Yumi**: @All, Option C is the safest bet. It uses the stable sites and avoids the broken equipment.
+- [77] **George**: @All, Option C is the only plan that respects our current reality. I vote for C.
+- [78] **Mizuki**: @All, Option C aligns with the evidence of sustained utility. I vote for C.
+- [79] **Benjamin**: @All, Option C is the only proposal that respects the data. I vote for C.
+### Vote
+- Shizue -> C
+- Yumi -> C
+- George -> C
+- Mizuki -> C
+- Benjamin -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0022__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: I refuse to sign anything that leaves the burden on one gate.
+- [6] **Mizuki**: I need to understand the daily reality before we commit. What does the current setup actually look like?
+- [7] **Kenji**: I’m worried about the money. Who’s paying for the setup, and what does this corner cost us yearly?
+- [8] **Midori**: I worry about the relationships here. We need a plan that lets us still be neighbors, not just co-signers.
+- [9] **Servas**: I have seen many arrangements crumble under silent weight. I need to know the true hours this takes from us, not just the cost.
+- [10] **May**: @Servas, silent weight is exactly what I fear. We need to see the actual hours, not just the money.
+- [11] **Mizuki**: @May, I agree. The hours matter, but so does the physical layout. I need to see the frontage measurements to understand the space.
+- [12] **Kenji**: @Mizuki, the layout matters, but the budget is my main worry. I need to see the block ledger to know our yearly costs.
+- [13] **Midori**: @Kenji, I hear you on the budget. But please, let’s also look at the complaint log to see where the friction actually lies.
+- [14] **Servas**: @Midori, the complaint log shows symptoms, not the root cause. I need to understand the physical reality of our frontages to see how the burden is truly distributed.
+- [15] **May**: @Kenji, money is vital, but fairness is non-negotiable. I need to see the complaint log to prove the gate household is suffering.
+- [16] **Mizuki**: @May, the log is useful, but I need the physical dimensions. I will check the frontage measurements to see the actual space.
+- [17] **Kenji**: @May, I understand the frustration, but I need the numbers first. I will check the block ledger to see our yearly costs.
+- [18] **Midori**: @May, I agree the log is vital. I will check the ward complaint log to see the history of our friction.
+- [19] **Servas**: @May, I agree. I will check the supervised mornings on the next lane to see the true time commitment.
+- [20] **May**: @Midori, I will check the ward complaint log to see the history. @Kenji, I will also check the block ledger to see the costs.
+- [21] **Mizuki**: @Kenji, I will check the measurements of the five frontages. @Midori, I will also check the ward filing requirements to understand the process.
+- [22] **Kenji**: @May, I will check the block ledger to see our yearly costs. @Mizuki, I will also check the ward subsidy and last year's shelter costs.
+- [23] **Midori**: @Mizuki, I will check the ward complaint log to see the history. @May, I will also check the statements at the residents' meeting to understand the tension.
+- [24] **Servas**: @May, I will check the supervised mornings on the next lane to see the true time commitment. @Kenji, I will also check the truck arrival time from the crew leader.
+## Round 2
+- [35] **May**: Eleven complaints from one gate in three years. That is not a coincidence, it is a pattern.
+- [36] **Mizuki**: @Kenji, the measurements show one frontage is only ninety centimetres wide. A permanent build there is physically impossible.
+- [37] **Kenji**: @Mizuki, that explains the layout issues. But the money is shocking. We pay thirty-four thousand yen yearly just for open bags.
+- [38] **Midori**: @May, those eleven complaints show how much pain is hidden. @Mizuki, a ninety-centimetre frontage is too tight for a permanent structure.
+- [39] **Servas**: @May, the truck arrives before many of us wake. @Kenji, thirty-four thousand yen is a heavy burden. We must find a way to share the early hours fairly.
+- [40] **May**: @Servas, early hours are a trap. If we rotate, who actually gets up? I need to see the real time cost, not just the money.
+- [41] **Mizuki**: @May, rotating shifts the burden, but the ninety-centimetre frontage makes a permanent shelter impossible. We need a flexible solution that respects the physical limits.
+- [42] **Kenji**: @May, I hear you. But the subsidy only covers forty percent. We are paying the rest out of pocket.
+- [43] **Midori**: @May, I worry about the silence after the vote. @Kenji, forty percent is a start, but we need to ensure the remaining cost doesn't fracture our trust.
+- [44] **Servas**: @May, the next lane’s supervised mornings average fifty minutes. With a rotation, each house handles about twenty a year. That is a manageable, shared rhythm.
+- [45] **May**: @Servas, twenty minutes a year is a joke. The gate household has suffered for years. I need a plan that actually moves the burden, not just spreads the guilt.
+- [46] **Mizuki**: @May, I understand the frustration. But the filing rules require four months for a permanent build. We need a flexible option that respects the ninety-centimetre limit and avoids that delay.
+- [47] **Kenji**: @May, I agree the gate needs relief. But with the subsidy capped, we must pick the cheapest option to keep the yearly bill low for everyone.
+- [48] **Midori**: @May, I hear your pain. But if we choose a plan that feels like a punishment, we will stop speaking. We need a solution that preserves our ability to be neighbors, not just a ledger entry.
+- [49] **Servas**: @May, I hear your pain. But a shared rhythm, even if small, prevents the silent erosion of trust. We must choose a path that sustains us all.
+- [50] **May**: @Midori, I hear you, but "neighbors" is a luxury the gate household lost years ago. I need a plan that physically moves the burden, not just smooths the conversation.
+- [51] **Mizuki**: @May, I agree. We must respect the physical limits. A rotating setup avoids the four-month delay and the ninety-centimetre constraint.
+- [52] **Kenji**: @May, I agree. We need to move the burden. But with the subsidy capped, we must pick the cheapest option to keep the yearly bill low for everyone.
+- [53] **Midori**: @May, I understand the pain. But if we choose a plan that feels like a punishment, we will stop speaking. We need a solution that preserves our ability to be neighbors, not just a ledger entry.
+- [54] **Servas**: @May, I understand. A shared rhythm, even if small, prevents the silent erosion of trust. We must choose a path that sustains us all.
+## Round 3
+- [60] **May**: Option C is a trap. A permanent build on that ninety-centimetre frontage is physically impossible. We need to move the burden, not just hide it.
+- [61] **Mizuki**: @May, you are right. The measurements confirm C is impossible. Option A respects the physical limits and avoids the four-month delay.
+- [62] **Kenji**: @Mizuki, C is out. But A means moving bins constantly. B keeps the point fixed, which saves us the setup hassle and keeps the yearly bill predictable.
+- [63] **Midori**: @Kenji, I hear the cost concern. But Option B keeps the pain at one gate. Option A moves the burden, letting us share the weight and keep our peace.
+- [64] **Servas**: @Kenji, I understand the cost worry. But Option A distributes the physical effort, preventing the silent exhaustion that breaks trust.
+- [65] **May**: @Kenji, predictable bills are nice, but they don't fix the rotting bags at one gate. Option A is the only way to actually share the physical burden.
+- [66] **Mizuki**: @Kenji, I agree with May. Option B leaves the physical burden on one household. Option A is the only choice that respects the frontage limits and ensures fairness.
+- [67] **Kenji**: @May, I see your point. But A means moving heavy bins repeatedly. B is cheaper and simpler. Can we not just fix the current spot properly?
+- [68] **Midori**: @Kenji, I understand the cost worry. But Option A lets us share the weight, so we can still be neighbors.
+- [69] **Servas**: @Kenji, I understand the cost worry. But Option A distributes the physical effort, preventing the silent exhaustion that breaks trust.
+- [70] **May**: @Kenji, "fixing" the current spot just means one family keeps suffering. Option A is the only way to make this truly equal.
+- [71] **Mizuki**: @Kenji, I understand the cost worry. But Option A is the only way to respect the physical limits and ensure fairness.
+- [72] **Kenji**: @May, I hear you. But the ledger shows thirty-four thousand yen yearly. Option A adds moving costs. B is cheaper and keeps the bill low for all five of us.
+- [73] **Midori**: @Kenji, I hear the cost worry. But Option A lets us share the weight, so we can still be neighbors.
+- [74] **Servas**: @Kenji, the ledger shows the cost, but the hours show the wear. Option A spreads the burden, preventing the silent exhaustion that breaks trust.
+- [75] **May**: @Kenji, I am voting for A. We cannot let one family bleed for our convenience.
+- [76] **Mizuki**: @Kenji, I am voting for A. It is the only option that respects the physical reality and ensures fairness for all.
+- [77] **Kenji**: @May, I am voting for A. The shared burden is worth the extra cost to keep our peace.
+- [78] **Midori**: @Kenji, I am voting for A. Sharing the burden means we can still look each other in the eye.
+- [79] **Servas**: @Kenji, I am voting for A. A shared rhythm, even if small, prevents the silent erosion of trust. We must choose a path that sustains us all.
+### Vote
+- May -> A
+- Mizuki -> A
+- Kenji -> A
+- Midori -> A
+- Servas -> A
+## Result
+- adopted: A

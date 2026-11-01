@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: I worry about the social friction if the parking rules get too rigid.
+- [6] **Shizue**: I worry about the morning shoving match. It’s getting quite rough down there.
+- [7] **May**: I’m tired of everyone asking for the budget without checking it. I need to know the actual costs.
+- [8] **George**: I worry about who actually maintains the racks. The last two duties just vanished because nobody owned them.
+- [9] **Mio**: I keep hearing the same doors get the best spots. I need to know if that’s actually true or just grumbling.
+- [10] **Misaki**: @Shizue, I agree. The morning rush is where tensions peak. We need a system that prevents that.
+- [11] **Shizue**: @Misaki, yes, a gentle system would help. I’ve seen the rain damage the bikes left out overnight, too.
+- [12] **May**: @George, vanished duties? That’s a red flag. I need to see if the money is actually going to maintenance or just disappearing into the void.
+- [13] **George**: @May, the money is there, but the work isn't. I need to see the physical effort involved before we promise anything.
+- [14] **Mio**: @Shizue, the morning rush is tough, but I’m also curious if the rain is making some spots unusable.
+- [15] **Misaki**: @Mio, rain exposure is a real factor. If some spots are unusable, the "best" spots become even more contested.
+- [16] **Shizue**: @Mio, yes, the rain is a real problem. I’ve seen frames rusting. We need to know which spots are actually safe.
+- [17] **May**: @Mio, rain is a nuisance, but I care more about the cash flow. Who is actually paying for the current setup?
+- [18] **George**: @May, the cash flow is fine. My concern is the labor. I need to know if the physical work is sustainable for one person.
+- [19] **Mio**: @May, I get it, but if the spots are bad, people won't pay. I need to see the actual layout first.
+- [20] **Misaki**: I will check the last year's complaint log entries and the morning departures watched from the entrance.
+- [21] **Shizue**: I will check the rain exposure along the parking rows and the five years of association minutes.
+- [22] **May**: I will check the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [23] **George**: I will check the five years of association minutes and the trial of the supplier's display frame.
+- [24] **Mio**: I will check the sticker register and the daily riders and the last year's complaint log entries.
+## Round 2
+- [35] **Misaki**: Nine complaints died out because no one owned them. That silence is dangerous.
+- [36] **Shizue**: The minutes show the same flats kept the covered spots for five years. No one ever reviewed it.
+- [37] **May**: The ledger is empty. No capital funds exist. Any new racks mean a direct levy on us.
+- [38] **George**: Twenty seconds per bike, plus greasing twice a year. That is a recurring physical burden, not a one-time fix.
+- [39] **Mio**: The sticker register shows some flats have three bikes, yet they claim equal rights. That’s the real unfairness I’ve been sensing.
+- [40] **Misaki**: @Mio, three bikes per flat? That explains the shifting. We need a cap to stop the morning chaos.
+- [41] **Shizue**: @Mio, that is quite a lot. I wonder if the older residents are struggling to move that many bikes each morning.
+- [42] **May**: @George, twenty seconds sounds trivial, but the ledger shows zero maintenance budget. Who is actually paying for that greasing?
+- [43] **George**: @May, the greasing is cheap, but the lifting is the real strain. I need to know if we can share that load fairly.
+- [44] **Mio**: @Misaki, a cap makes sense, but I need to know if the daily riders actually agree to it before we enforce it.
+- [45] **Misaki**: @Mio, I watched the exits. Four times, someone had to shift a bike just to leave. A cap prevents that bottleneck.
+- [46] **Shizue**: @Misaki, that sounds exhausting. I worry about the older residents getting stuck in that shuffle.
+- [47] **May**: @Shizue, the handover file shows three hours a month just reconciling cash. Adding per-place billing doubles that. Who is volunteering for the extra admin?
+- [48] **George**: @May, three hours is a lot. I am willing to take the physical greasing, but I cannot do the bookkeeping.
+- [49] **Mio**: @May, I can help with the sticker checks! It’s simple, and I’d rather do that than the heavy lifting.
+- [50] **Misaki**: I am leaning toward a simple cap. It stops the shifting without creating a new bureaucracy that breeds resentment.
+- [51] **Shizue**: I agree. A gentle cap would help, but we must ensure the covered spots are shared fairly, not just held by the same few.
+- [52] **May**: I’m leaning toward a flat levy. It’s simpler than per-place billing and avoids the extra three hours of admin work.
+- [53] **George**: I support the flat levy. It keeps the admin light. I will handle the physical maintenance, but I need a clear rotation for the lifting.
+- [54] **Mio**: I support the flat levy too! It’s simple, and I can handle the sticker checks to keep things fair.
+## Round 3
+- [60] **Misaki**: Option B feels right. No fixed spots means no one guards a space, and the morning shuffle disappears.
+- [61] **Shizue**: Option B is kind. No one has to fight for a spot, and the rain damage is shared by all.
+- [62] **May**: Option A is the only one that actually funds the racks. B and C leave us broke and arguing.
+- [63] **George**: Option B is dangerous. The double-tier racks mean constant lifting. I cannot sustain that strain alone, and the greasing will be neglected.
+- [64] **Mio**: Option B sounds fun, but George is right about the lifting. I worry the double-tier racks will just create new morning bottlenecks for everyone.
+- [65] **Misaki**: @George, I hear you. But the complaint log shows fixed spots breed resentment. B removes the target, even if the lifting is harder.
+- [66] **Shizue**: @George, I understand your worry about the lifting. Perhaps we can find a way to share that burden gently, so no one is overworked.
+- [67] **May**: @George, the ledger proves we have zero capital. Option A is the only one that generates the cash to actually buy and maintain those racks.
+- [68] **George**: @May, I hear the funding point, but Option A creates the very hoarding I fear. I cannot accept a system that guarantees neglect.
+- [69] **Mio**: @May, I see the funding point, but I worry Option A just locks in the unfairness I found in the sticker register.
+- [70] **Misaki**: @May, funding is vital, but if A creates the friction I fear, the money won't fix the social damage.
+- [71] **Shizue**: @May, I understand the need for funds, but I worry Option A will just cement the old habits. We need fairness, not just revenue.
+- [72] **May**: @Misaki, social damage is cheap compared to bankruptcy. If we don't pay for the racks, we have no racks. I need the money to exist.
+- [73] **George**: @May, I accept the funding need, but I refuse a system that guarantees neglect. Option C is the only fair path, provided we rotate the physical labor.
+- [74] **Mio**: @George, I agree! A lottery feels fairer than hoarding. I can help check the stickers to make sure everyone follows the rules.
+- [75] **Misaki**: @George, I agree. A lottery prevents the hoarding that breeds resentment. If we rotate the labor, it is sustainable.
+- [76] **Shizue**: @George, I agree. A yearly draw feels gentle and fair. If we share the lifting duties, no one carries the weight alone.
+- [77] **May**: @George, I concede. The ledger is empty, so I cannot fund A. I will support C, provided the levy covers the maintenance costs.
+- [78] **George**: @May, I accept the levy. I will handle the greasing, but the lifting must rotate. I cannot carry this alone.
+- [79] **Mio**: @May, I am in! A lottery with a flat levy sounds perfect. I will handle the sticker checks to keep the draw honest and fair.
+### Vote
+- Misaki -> C
+- Shizue -> C
+- May -> C
+- George -> C
+- Mio -> C
+## Result
+- adopted: C

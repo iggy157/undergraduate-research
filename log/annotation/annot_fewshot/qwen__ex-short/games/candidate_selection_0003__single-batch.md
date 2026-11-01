@@ -1,0 +1,73 @@
+# candidate_selection_0003__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: I want to know which past projects actually satisfied the users.
+- [6] **Victoria**: We need to see how the timetable absorbs the disruption during works.
+- [7] **George**: The staff carrying the routine upkeep are stretched thin. I need to see the posts.
+- [8] **Mizuki**: The calendar keeps slipping. I need to see where the delays come from.
+- [9] **Benjamin**: The approved figures never match the final cost. I need to see the tender records.
+- [10] **Toshio**: @Victoria, the disruption is real. I am checking the post-occupancy ratings.
+- [11] **Victoria**: @Toshio, yes. I am looking at the timetable records for rooms out of service.
+- [12] **George**: @Mizuki, the staffing freeze is a major factor. I am checking the posts.
+- [13] **Mizuki**: @George, the weather is a big unknown. I am checking the site diaries.
+- [14] **Benjamin**: @Mizuki, the market rates are shifting. I am checking the tender records.
+- [15] **Toshio**: I will also look at the delivery schedules by rationale.
+- [16] **Victoria**: I will also look at the booking data for specialist rooms.
+- [17] **George**: I will also look at the bench technicians' routines.
+- [18] **Mizuki**: I will also look at the survey findings in the older blocks.
+- [19] **Benjamin**: I will also look at the renewal reserve for equipment.
+- [20] **Toshio**: Let us see what the data says.
+- [21] **Victoria**: Agreed. The numbers will guide us.
+- [22] **George**: I hope we find a plan that is easy to care for.
+- [23] **Mizuki**: Facts will guide us. Let us proceed.
+- [24] **Benjamin**: I will keep the ledger open.
+## Round 2
+- [35] **Toshio**: Post-occupancy reviews rated shared spaces highest. Single-wing benefits were lowest.
+- [36] **Victoria**: Timetable records show hired space was paid for over two terms. That is a hidden cost.
+- [37] **George**: Front-of-house posts are unfilled. Technicians have spare hours. The workload is mismatched.
+- [38] **Mizuki**: Six weeks lost to weather. Surveys found hazardous material in older blocks.
+- [39] **Benjamin**: Mechanical lots rose by a fifth. No renewal reserve was opened for AV kit.
+- [40] **Toshio**: @Victoria, the hired space cost is significant. It affects the budget.
+- [41] **Victoria**: @Toshio, yes. The disruption is expensive. We need to minimize it.
+- [42] **George**: @Mizuki, the weather risk is high. We should avoid outdoor work.
+- [43] **Mizuki**: @George, the survey findings are worrying. Older blocks are risky.
+- [44] **Benjamin**: @Mizuki, the tender records show mechanical costs are rising. That is a problem.
+- [45] **Toshio**: Delivery schedules show inspection-driven works were on time. Comfort-driven ones slipped.
+- [46] **Victoria**: Booking data shows specialist rooms are idle. General rooms are always full.
+- [47] **George**: Bench technicians spend hours on manual checks. The current equipment is inadequate.
+- [48] **Mizuki**: The weather and survey data suggest we should avoid older blocks and outdoor work.
+- [49] **Benjamin**: The lack of a renewal reserve means we are underfunded for maintenance.
+- [50] **Toshio**: We need a plan that is shared and inspection-driven.
+- [51] **Victoria**: We need a plan that minimizes disruption and uses general rooms.
+- [52] **George**: We need a plan that uses the available technicians.
+- [53] **Mizuki**: We need a plan that avoids weather and survey risks.
+- [54] **Benjamin**: We need a plan that accounts for rising mechanical costs.
+## Round 3
+- [60] **Toshio**: Candidate A is a ventilation upgrade. It is inspection-driven and shared.
+- [61] **Victoria**: Candidate B is a study commons. It uses general rooms, which are in high demand.
+- [62] **George**: Candidate C is a path network. It requires outdoor work, which is risky.
+- [63] **Mizuki**: Candidate D is a media center. It is a specialist room, which is idle.
+- [64] **Benjamin**: Candidate A involves mechanical work, which is rising in cost.
+- [65] **Toshio**: @Benjamin, the cost is rising, but the benefit is shared. It is worth it.
+- [66] **Victoria**: @Toshio, yes. The shared benefit is key. It justifies the cost.
+- [67] **George**: @Mizuki, the outdoor work is a risk. We should avoid C.
+- [68] **Mizuki**: @George, correct. The weather and survey data support avoiding C.
+- [69] **Benjamin**: @Victoria, the general room demand is high. B is a good fit.
+- [70] **Toshio**: Candidate A is the most aligned with the data. It is shared and inspection-driven.
+- [71] **Victoria**: Candidate B is also strong. It uses the high-demand general rooms.
+- [72] **George**: Candidate A uses the available technicians. It is a good fit for the staff.
+- [73] **Mizuki**: Candidate A avoids the weather and survey risks. It is the safest option.
+- [74] **Benjamin**: Candidate A has rising costs, but the benefit is clear. It is the best option.
+- [75] **Toshio**: I vote for A. It is the most aligned with the data.
+- [76] **Victoria**: I vote for B. It uses the high-demand general rooms.
+- [77] **George**: I vote for A. It uses the available technicians.
+- [78] **Mizuki**: I vote for A. It avoids the weather and survey risks.
+- [79] **Benjamin**: I vote for A. It has the clearest benefit.
+### Vote
+- Toshio -> A
+- Victoria -> B
+- George -> A
+- Mizuki -> A
+- Benjamin -> A
+## Result
+- adopted: A

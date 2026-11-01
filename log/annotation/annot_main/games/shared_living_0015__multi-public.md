@@ -1,0 +1,73 @@
+# shared_living_0015__multi-public (shared_living)
+
+## Round 1
+- [5] **Servas**: Hello everyone. To ensure our home remains a place of warmth and peace, I believe we should look at the sunlight and heating need by room and the winter habits at a house paying ahead.
+- [6] **Midori**: I agree that peace is important. To understand how we've been handling things, I'd like to look into the payment log for the last twelve months and the kitchen notice about the cooler.
+- [7] **Minato**: I want to know if some people are paying more than others. I will look at the plug-in monitor readings room by room and the settling up when the last rooms filled.
+- [8] **May**: I want to see the big picture before we jump into anything. I'll check the last twelve utility statements and the electrician's quote for the rooms to see what we're actually dealing with.
+- [9] **Daisuke**: I... I want to know how much work this takes. I'll look at the monthly settle observed at another house and the trial run of a reconciliation template.
+- [10] **Servas**: It seems we have a comprehensive plan. By looking into both the technical costs and the emotional atmosphere of the house, we can find a path that respects everyone's needs.
+- [11] **Midori**: I think we've covered all the bases. It's good that we're looking at both the numbers and the feelings involved. I'm looking forward to seeing what we find so we can move forward together.
+- [12] **Minato**: I hope we can find a way that feels fair to everyone. I'm a bit nervous, but I think it's better to know the truth than to keep wondering.
+- [13] **May**: Exactly. Let's just make sure we're all being honest about what we find. I'm curious to see if the numbers are as chaotic as they feel lately.
+- [14] **Daisuke**: I... I hope so too. I just want us to find something that doesn't make anyone feel stressed or overwhelmed. I'll do my best to share what I find.
+- [15] **Servas**: It is heartening to see such a spirit of cooperation. Let us trust in the information we gather to guide us toward a solution that brings harmony to our shared life.
+- [16] **Midori**: I agree. Let's keep this positive energy as we review our findings. I believe that by being open with each other, we can resolve these tensions and make our home feel welcoming again.
+- [17] **Minato**: I agree. I'll be waiting to hear what everyone finds out. I hope we can all feel happy and relaxed about the bills once we decide on a new way.
+- [18] **May**: I'm with you all. Let's just keep it efficient. I'm ready to see if the costs are actually manageable or if we're just pretending everything is fine while the bills pile up.
+- [19] **Daisuke**: I... I'll do my part. I just hope the information helps us find a way that's easy for everyone to handle. I'm ready to see the results.
+- [20] **Servas**: Since we have all agreed on our research, I shall say "Over" for this round. I look forward to our next gathering to share the wisdom we have uncovered.
+- [22] **Midori**: I agree. I think we have a solid plan to uncover the facts and the feelings behind this issue. I'll say "Over" as well.
+- [24] **Minato**: I'm also finished for now. I'll go look into those things and come back.
+- [26] **May**: I'm done too. Let's get to the facts and see if we can actually fix this without breaking the bank.
+- [28] **Daisuke**: I'll... I'll go look into those things now. I hope we can find a simple way to do this.
+## Round 2
+- [40] **Servas**: I have learned that our rooms are not equal in warmth, and that paying a fixed seasonal rate can remove the anxiety of every single switch. We must ensure no one freezes in silence.
+- [41] **Midori**: I've found that payments have been late when people questioned the amounts, and some even avoided using the cooler to avoid arguments. It seems the current system is really hurting our relationships.
+- [42] **Minato**: I found out that some rooms use four times more electricity than others because of heaters and computers. Also, it took a long time to agree on payments when the last rooms were filled.
+- [43] **May**: The numbers are all over the place; February is triple August, and it's never consistent. Also, putting in meters would cost 34,000 yen per room plus annual fees. That's a huge upfront hit.
+- [44] **Daisuke**: I... I found out that managing the bills is a lot of work. Even with a template or meters, it takes a long time to log everything and calculate what each person owes. It seems really exhausting.
+- [45] **Servas**: It is clear that our current path leads to both physical and emotional coldness. If we continue to worry over every switch, we lose the warmth of a true home.
+- [46] **Midori**: @Daisuke, it sounds like the administrative burden is just as heavy as the emotional one. If the process is exhausting, it's no wonder people get frustrated and payments end up being late.
+- [47] **Minato**: @May, since the costs are so different between rooms, it feels unfair to split everything equally. But if meters are too expensive, maybe we can find another way to be fair?
+- [48] **May**: @Minato, exactly. Fairness is great, but spending over 170,000 yen just to install meters seems crazy. We need a solution that doesn't require a massive payment upfront or a part-time job to manage.
+- [49] **Daisuke**: I... I agree with May. If the process is that exhausting, whoever does it will just get stressed. I don't want us to pick a system that makes someone feel overwhelmed every month.
+- [50] **Servas**: We must balance fairness with simplicity. If we choose a path that is too complex, we trade our peace for precision. Perhaps a system that stabilizes the monthly cost would ease our minds.
+- [51] **Midori**: I agree with Servas. If we prioritize a system that is easy to manage and predictable, we can stop the arguments and the late payments. We need something that restores our harmony.
+- [52] **Minato**: I agree. If we can find a way to be fair without it being too expensive or too much work for Daisuke, that would be the best for everyone.
+- [53] **May**: I'm with you. We can't afford a huge installation fee, and we can't have the bills swinging wildly from 9,000 to 30,000 yen. We need something predictable that doesn't turn into a monthly nightmare.
+- [54] **Daisuke**: I... I'm glad you're thinking about the workload. If we can find a way that's simple and doesn't require hours of calculations, I think we'll all be much happier living here.
+- [55] **Servas**: It seems we are all in agreement that predictability and simplicity are the keys to our harmony. Let us now look at the options and choose the one that warms our hearts and minds.
+- [56] **Midori**: I agree. We've seen how the current uncertainty and the burden of calculation are affecting us. Let's choose the option that brings the most stability and peace to our home.
+- [57] **Minato**: I agree. I want us to be fair, but not at the cost of our friendship or our free time. I'm ready to see the options and vote for the best one.
+- [58] **May**: I'm ready too. Let's pick something that stops the financial roller coaster and doesn't cost a fortune to set up. I'm looking for stability and a low price tag.
+- [59] **Daisuke**: I... I'm ready too. I just hope the options include something that is easy to manage so that nobody has to spend their whole evening on paperwork.
+## Round 3
+- [65] **Servas**: Option B seems the most compassionate. It removes the fear of the switch and provides the stability we all crave, ensuring that no one suffers in the cold for fear of the cost.
+- [66] **Midori**: I agree with Servas. Option B provides the predictability we need to stop the arguments and late payments, and it avoids the high costs and stress of Option A.
+- [67] **Minato**: Option B sounds good because it's stable, but I'm still worried about the people using way more electricity. However, Option A is too expensive and Option C doesn't solve the fairness issue.
+- [68] **May**: Option B is the only one that makes sense. It stops the monthly price swings and doesn't require a massive upfront payment like Option A. It's the most practical way to get stability.
+- [69] **Daisuke**: I... I think Option B is the best. It seems much simpler than Option A, which sounds like a lot of logging and calculating. I'd rather have something that doesn't take up so much of our time.
+- [70] **Servas**: It is a rare and beautiful thing when we all find a common path so quickly. Let us embrace this stability together and return the warmth to our home.
+- [71] **Midori**: I feel a great sense of relief that we've reached this consensus. By choosing stability over strict precision, we are choosing to value our relationships and our peace of mind.
+- [72] **Minato**: I agree. Even if it's not perfectly fair for every single watt, it's better for us to be happy and not fight. I'll vote for Option B.
+- [73] **May**: I'm voting for Option B too. It's the only way to stop those winter bills from feeling like a second rent without spending a fortune on meters. Let's just get this settled.
+- [74] **Daisuke**: I... I'll vote for Option B as well. It sounds like the least stressful way to handle things, and I'm glad we're choosing something that won't be a burden to manage.
+- [75] **Servas**: Since we have all found peace with this decision, I shall cast my vote for Option B. May it bring a lasting warmth to our shared sanctuary.
+- [76] **Midori**: I will also cast my vote for Option B. I believe this is the best way to protect our harmony and ensure that money no longer creates tension between us.
+- [77] **Minato**: I'll vote for Option B. I'm glad we all agree that being happy together is more important than perfect numbers.
+- [78] **May**: I'm voting for Option B. It's the most sensible choice for our wallets and our sanity. Let's put this to a vote and finally move past the chaos.
+- [79] **Daisuke**: I... I'll vote for Option B too. I'm really relieved that we're picking something that won't be so exhausting to keep up with. Thank you for understanding.
+- [80] **Servas**: Our hearts and minds are in alignment. I cast my final vote for Option B, wishing us all a future of comfort, clarity, and enduring friendship in this house.
+- [81] **Midori**: I cast my final vote for Option B. I am so happy we could find a solution that prioritizes our kindness toward one another. Let's make our home a peaceful place again.
+- [82] **Minato**: I cast my final vote for Option B. I'm happy we found a way to be kind to each other and keep our home peaceful.
+- [83] **May**: I cast my final vote for Option B. It's the only practical choice that gives us the stability we need without a ridiculous price tag. Let's get this done.
+- [84] **Daisuke**: I... I cast my final vote for Option B. I'm just really glad we found a way that's simple and won't be a burden for anyone. Thank you.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

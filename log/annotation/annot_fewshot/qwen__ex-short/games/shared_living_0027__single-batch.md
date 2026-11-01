@@ -1,0 +1,73 @@
+# shared_living_0027__single-batch (shared_living)
+
+## Round 1
+- [5] **Asuka**: I worry about the social friction if we make this too rigid.
+- [6] **Yumi**: I just want to know if the current spots are actually fair.
+- [7] **Ryuji**: The morning rush is a mess. I need to see the physical flow.
+- [8] **Shunichi**: Nobody ever checks the costs. I need to know the financial reality.
+- [9] **Toshio**: Who is actually doing the work? I need to see the effort involved.
+- [10] **Asuka**: @Shunichi, if it costs too much, people will resent it.
+- [11] **Yumi**: @Ryuji, I hope the new setup doesn't make mornings worse.
+- [12] **Ryuji**: @Yumi, I am looking at the actual movement of bikes.
+- [13] **Shunichi**: @Toshio, I am checking the ledger to see where the money goes.
+- [14] **Toshio**: @Shunichi, I am looking at the handover file for the workload.
+- [15] **Asuka**: I will check the complaint log to see past conflicts.
+- [16] **Yumi**: I will check the sticker register to see who rides daily.
+- [17] **Ryuji**: I will watch the morning departures from the entrance.
+- [18] **Shunichi**: I will check the building account's two-year ledger.
+- [19] **Toshio**: I will check the Treasurer's handover file on cash collections.
+- [20] **Asuka**: I will also check the five years of association minutes.
+- [21] **Yumi**: I will also check the rain exposure along the parking rows.
+- [22] **Ryuji**: I will also check the trial of the supplier's display frame.
+- [23] **Shunichi**: I will also check the ward cycle park by the station.
+- [24] **Toshio**: I will also check the account from the neighbouring block's secretary.
+## Round 2
+- [35] **Asuka**: The minutes show the same flats held covered spots for years.
+- [36] **Yumi**: The sticker register shows some flats have three bikes.
+- [37] **Ryuji**: Four times a morning, someone had to shift a bike to leave.
+- [38] **Shunichi**: The ledger shows no capital work. The ward park is 2,600 yen.
+- [39] **Toshio**: The handover file logs three hours a month just for reconciliation.
+- [40] **Asuka**: @Shunichi, if the ward park is cheaper, why not just use that?
+- [41] **Yumi**: @Ryuji, shifting bikes sounds exhausting. Is there a better way?
+- [42] **Ryuji**: @Yumi, the display frame took twenty seconds to load. It's slow.
+- [43] **Shunichi**: @Asuka, the ward park has a waitlist. We can't rely on it.
+- [44] **Toshio**: @Shunichi, three hours a month is a lot for one person.
+- [45] **Asuka**: The complaint log had nine notes about leaning bikes.
+- [46] **Yumi**: The rain exposure is bad past the downpipe. Saddles stay wet.
+- [47] **Ryuji**: The display frame needs greasing twice a year. That's maintenance.
+- [48] **Shunichi**: The ward park notice listed fourteen households waiting.
+- [49] **Toshio**: The neighbouring block had arrears and people stopped coming to meetings.
+- [50] **Asuka**: @Toshio, that sounds like a recipe for social breakdown.
+- [51] **Yumi**: @Ryuji, if the frame is slow, maybe we need more space?
+- [52] **Ryuji**: @Yumi, more space means more cost. I need to see the numbers.
+- [53] **Shunichi**: @Asuka, I agree. We need a system that doesn't break down.
+- [54] **Toshio**: @Shunichi, I am worried about the workload if we bill individually.
+## Round 3
+- [60] **Asuka**: Option A is paid. Option B is lottery. Option C is shared racks.
+- [61] **Yumi**: Option C seems fairer. No one owns a spot.
+- [62] **Ryuji**: Option C avoids the shifting problem. I like it.
+- [63] **Shunichi**: Option A brings in money. But the ward park is cheaper.
+- [64] **Toshio**: Option A adds three hours of work. I don't want that.
+- [65] **Asuka**: @Toshio, I agree. Option B is too random. Option C is best.
+- [66] **Yumi**: @Asuka, yes, Option C lets us use the dry spots first.
+- [67] **Ryuji**: @Yumi, but the display frame is slow. Is it worth it?
+- [68] **Shunichi**: @Ryuji, the cost of the frame is high. But it saves space.
+- [69] **Toshio**: @Shunichi, if we don't bill, we don't need the handover work.
+- [70] **Asuka**: Option C is the only one that keeps the peace.
+- [71] **Yumi**: Option C is the only one that is truly fair.
+- [72] **Ryuji**: Option C is the only one that works in the morning.
+- [73] **Shunichi**: Option C is the only one that doesn't cost extra.
+- [74] **Toshio**: Option C is the only one that doesn't add work.
+- [75] **Asuka**: I am voting for C.
+- [76] **Yumi**: I am voting for C.
+- [77] **Ryuji**: I am voting for C.
+- [78] **Shunichi**: I am voting for C.
+- [79] **Toshio**: I am voting for C.
+### Vote
+- Asuka -> C
+- Yumi -> C
+- Ryuji -> C
+- Shunichi -> C
+- Toshio -> C
+## Result
+- adopted: C

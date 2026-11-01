@@ -1,0 +1,73 @@
+# shared_living_0002__single-online (shared_living)
+
+## Round 1
+- [5] **Rin**: I hate walking past the corner in August. It smells terrible. What are we actually going to do about it?
+- [6] **Midori**: I agree, Rin. It’s unpleasant for everyone. Before we pick a fix, can we look at what this corner actually costs us each year?
+- [7] **Shunichi**: Fair point, Midori. But I’m more worried about us still being able to talk to each other after this. Let’s keep that in mind.
+- [8] **May**: I’m all for harmony, but I need to know the actual time cost. Who is going to be stuck doing the heavy lifting here?
+- [9] **Asuka**: @Asuka: I want to know who has been suffering the most. If one household has been stuck with this at their gate for years, we can’t just pretend it’s equal.
+- [10] **Rin**: @Asuka, that sounds really unfair. I hope we can find a way to share the burden so nobody feels stuck there alone.
+- [11] **Midori**: @Asuka, that’s a valid concern. Let’s make sure the final plan doesn’t just shift the problem to someone else’s doorstep.
+- [12] **Shunichi**: @May, the time cost is real, but so is the social one. If we pick a plan that makes us avoid each other, we’ve lost. Let’s look at the complaint log to see who’s been hit hardest.
+- [13] **May**: @Shunichi, the log tells us who complained, not who did the work. I need to know the actual hours involved. Let’s check the supervised mornings on the next lane.
+- [14] **Asuka**: @Shunichi, the log shows who complained, not who suffered. I want the measurements of the five frontages to see who actually has space.
+- [15] **Rin**: @May, I want to see what the station block’s bin house is like. I don’t want to just swap one smell for another!
+- [16] **Midori**: @Midori, I’m looking into the block ledger of refuse-point expenses and the ward subsidy and last year's shelter costs.
+- [17] **Shunichi**: @Shunichi, I’m checking the ward complaint log for this point and the statements at the residents' meeting.
+- [18] **May**: @May, I’m checking the supervised mornings on the next lane and the truck arrival time from the crew leader.
+- [19] **Asuka**: @Asuka, I’m checking the measurements of the five frontages and the ward filing requirements per the installations clerk.
+- [20] **Rin**: @Rin, I’m checking the visit to the station block's bin house and the station block's meeting minutes.
+- [21] **Midori**: I’m checking the block ledger of refuse-point expenses and the ward subsidy and last year's shelter costs.
+- [22] **Shunichi**: I’m checking the ward complaint log for this point and the statements at the residents' meeting.
+- [23] **May**: I’m checking the supervised mornings on the next lane and the truck arrival time from the crew leader.
+- [24] **Asuka**: I’m checking the measurements of the five frontages and the ward filing requirements per the installations clerk.
+## Round 2
+- [35] **Rin**: I visited the station block’s bin house. It’s worse than the open pile! The smell is trapped inside and carries further.
+- [36] **Midori**: @Rin, that’s a worrying detail. I found our annual costs are thirty-four thousand yen, mostly for cleaning up open bags.
+- [37] **Shunichi**: @Midori, thirty-four thousand yen is a lot for just bags. I checked the complaint log; eleven of fourteen entries came from the gate household.
+- [38] **May**: @Shunichi, that log is just noise. I timed the supervised mornings: fifty minutes each, so we’d each do twenty a year.
+- [39] **Asuka**: @May, twenty hours is manageable, but I found the frontages are unequal. One house has a driveway blocking most of its width, making a rotation impossible there.
+- [40] **Rin**: @Asuka, a driveway blocking the space? That sounds like a real problem for moving it around. I hope we don’t get stuck there.
+- [41] **Midori**: @Asuka, that’s a serious constraint. I also found the ward subsidy covers forty percent, capped at ninety thousand yen, which helps but doesn’t cover everything.
+- [42] **Shunichi**: @Midori, the subsidy helps, but the ledger shows we’re already bleeding money on cleanup. I also checked the residents’ meeting; nobody volunteered to turn away late bags.
+- [43] **May**: @Shunichi, nobody volunteering is exactly why I need the truck time. If the window starts before we wake up, who actually enforces it?
+- [44] **Asuka**: @May, the truck arrives between seven forty and eight fifteen. A strict window means waking up before the rest of us. That’s a heavy burden.
+- [45] **Rin**: @May, that’s terrifying! I don’t want to be the one waking up in the dark to guard the bins. It feels like a trap.
+- [46] **Midori**: @Rin, I understand the fear. But the subsidy covers forty percent of a build, capped at ninety thousand yen. It’s a real help, though not a full solution.
+- [47] **Shunichi**: @May, the truck time is brutal, but the real issue is who enforces it. At the meeting, three people admitted they wouldn’t turn away late bags.
+- [48] **May**: @Shunichi, so the enforcement is a lie. If nobody will turn bags away, the "managed hours" are just a suggestion. I need a plan that doesn’t rely on us being nice.
+- [49] **Asuka**: @May, you’re right. The filing clerk says a permanent build needs five signatures and four months. If we can’t agree on enforcement, we can’t even start the paperwork.
+- [50] **Rin**: @Asuka, four months is forever! And if the bin house smells worse, why build one? I just want the August smell to stop without waking up early.
+- [51] **Midori**: @Rin, I hear you. But the ledger shows we spend thirty-four thousand yen yearly just on cleanup. A proper structure might stop that bleeding, even if it takes time.
+- [52] **Shunichi**: @Rin, four months is long, but the station block’s minutes show they were arguing over a broken latch within two years. A permanent structure just creates new fights.
+- [53] **May**: @Shunichi, new fights are better than old ones if they’re fair. I just need to know we aren’t signing up for endless, unpaid labor.
+- [54] **Asuka**: @Shunichi, the minutes prove structures breed conflict. But the frontage measurements show one house is physically blocked. We can’t rotate there. We need a plan that respects that reality.
+## Round 3
+- [60] **Rin**: I’m scared of the smell and the early mornings. If we build a box, will it just trap the stink like the station block’s?
+- [61] **Midori**: @Rin, the station block’s base couldn’t be hosed out, which caused the smell. If we ensure ours is washable, it might actually solve the August problem.
+- [62] **Shunichi**: @Midori, a washable base is a start, but the minutes show they fought over sweeping inside. Who is going to do that daily chore here?
+- [63] **May**: @Shunichi, I timed the supervised mornings: fifty minutes each. If we rotate, that’s twenty hours a year per house. Manageable, but only if the base is actually cleanable.
+- [64] **Asuka**: @May, twenty hours is fine, but the filing clerk says a permanent build needs five signatures and four months. If we can’t agree on the daily chores, we can’t even start the paperwork.
+- [65] **Rin**: @Shunichi, I don’t want to sweep a smelly box every day! If the station block fought over a latch, we’ll fight over the mop. I just want the smell gone.
+- [66] **Midori**: @Rin, I hear you. But the ledger shows we spend thirty-four thousand yen yearly just on cleanup. A proper structure might stop that bleeding, even if it takes time.
+- [67] **Shunichi**: @Midori, the ledger is just the tip of the iceberg. The real cost is the social friction. If we build a box, we’re just moving the argument from the kerb to the doorstep.
+- [68] **May**: @Shunichi, social friction is real, but so is the thirty-four thousand yen. If we don’t fix the source, we’re just paying for the mess forever.
+- [69] **Asuka**: @May, you’re right about the money. But the clerk’s four-month timeline and the driveway constraint mean a build is the only option that doesn’t leave one household stuck.
+- [70] **Rin**: @Asuka, but if the box traps the smell like the station block’s, I’m stuck with the stink anyway! I don’t want a permanent prison for the bins.
+- [71] **Midori**: @Rin, that’s a fair worry. But the station block’s base couldn’t be hosed out. If we specify a washable floor, we avoid that trap.
+- [72] **Shunichi**: @Midori, a washable floor is a nice idea, but the minutes show they still fought over who sweeps. We’d just be trading the smell for the chore.
+- [73] **May**: @Shunichi, the minutes show they fought because the base was uncleanable. If we fix the floor, the chore is minimal. I’d rather do twenty hours of easy work than pay thirty-four thousand yen yearly.
+- [74] **Asuka**: @May, twenty hours is acceptable, but the driveway blocks rotation. A permanent build is the only way to stop the gate household from bearing the brunt.
+- [75] **Rin**: @Asuka, I’m still scared of the smell. But if the floor is washable and we share the work, maybe it’s not a prison? I just want August to be bearable.
+- [76] **Midori**: @Rin, exactly. A washable base and shared duties make it bearable. I’m ready to vote for the enclosed structure, provided we specify that floor.
+- [77] **Shunichi**: @Midori, I’m in. If we fix the floor and share the sweeping, we avoid the station block’s trap. I’d rather have a fair fight than a silent grudge.
+- [78] **May**: @Midori, I’m in. Twenty hours of easy work beats thirty-four thousand yen in endless cleanup. I’ll vote for the enclosed structure, as long as the floor is actually washable.
+- [79] **Asuka**: @Midori, I’m in. The driveway makes rotation impossible, and the log proves the gate household is already drowning. I vote for the enclosed structure, with a washable base.
+### Vote
+- Rin -> C
+- Midori -> C
+- Shunichi -> C
+- May -> C
+- Asuka -> C
+## Result
+- adopted: C

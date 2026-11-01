@@ -1,0 +1,73 @@
+# shared_living_0024__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost before we book anything.
+- [6] **Shunichi**: I’m tired of losing two days to travel. I need to see how much time we actually get to relax.
+- [7] **Asuka**: I need to verify the payment structure. Who covers what, and when, must be explicit to avoid hidden costs.
+- [8] **Takumi**: I need to check the bathing hours and bathroom provision. I can't sleep if I'm waiting for a hot bath.
+- [9] **Toshio**: I need to understand how last year's days actually ran. The structure determines whether we feel connected or isolated.
+- [10] **Rin**: @Shunichi, I agree. Travel time is lost time. Let's check the ferry and train schedules to see if we can save a day.
+- [11] **Shunichi**: @Rin, exactly. If the ferry is slow, we lose another half-day. I’ll check the train and bus options to see if we can cut the transit time.
+- [12] **Asuka**: @Rin, I will check the all-in rates against separate meals. Bundling costs prevents individual billing disputes and clarifies the total financial exposure for the group.
+- [13] **Takumi**: @Asuka, I’m checking the bathing hours and bathroom provision. I need to know if I can wash without waiting in line.
+- [14] **Toshio**: @Takumi, I appreciate the focus on comfort. I will examine the time alone in the shared-house year to see if the layout creates distance.
+- [15] **Rin**: @Asuka, that sounds smart. I want to see the all-in rates too, so I know the exact total before we sign anything.
+- [16] **Shunichi**: @Rin, I’m already on the ferry and train times. I need to know if we can actually save a day or if we’re just moving slower.
+- [17] **Asuka**: @Rin, I will also check what separately booked rooms cost last time. Comparing historical data against current all-in rates reveals where the actual financial burden lies.
+- [18] **Takumi**: @Toshio, I’m also checking the inn mealtimes and room arrangements. I need to know if I can eat without being rushed or stuck in a crowded room.
+- [19] **Toshio**: @Takumi, I will also look into how last year's days ran. I need to see if the schedule forced us apart or kept us together.
+- [20] **Rin**: I will check the all-in rates against meals bought separately. I need the exact total cost before we commit to anything.
+- [21] **Shunichi**: I will check ferry sailings and train time. I need to know if we can actually save a day or if we’re just moving slower.
+- [22] **Asuka**: I will check the all-in rates against meals bought separately. I will also check what separately booked rooms cost last time.
+- [23] **Takumi**: I will check bathing hours and bathroom provision. I will also check inn mealtimes and room arrangements.
+- [24] **Toshio**: I will check time alone in the shared-house year. I will also check how last year's days ran.
+## Round 2
+- [35] **Rin**: - **Rin**: @Asuka, I found that all-in rates charge light eaters the same as big eaters. I need to know the exact total before we commit.
+- [36] **Shunichi**: @Rin, the ferry is a trap. Last one back is 16:20, so we lose two full days. I need to see if the train saves us that time.
+- [37] **Asuka**: @Rin, the data confirms my concern. Last year, individual room bookings varied by 8,000 yen. A whole-building rent creates one bill, eliminating hidden individual burdens.
+- [38] **Takumi**: @Toshio, I found the inn baths close at midnight, but there’s only one bathroom for the whole building. I can’t sleep if I’m waiting in line for hot water.
+- [39] **Toshio**: @Takumi, the single bathroom is a bottleneck. I found that last year, two of us went from breakfast to dinner without meeting. A shared house isolates us; a town absorbs that need for space.
+- [40] **Rin**: @Shunichi, losing two days is awful. I need the exact total cost so I don't get surprised by extra fees later.
+- [41] **Shunichi**: @Rin, the train is ninety minutes, but the valley bus stops at seven. We’d be stuck there. I need to see if the city option avoids that trap.
+- [42] **Asuka**: @Shunichi, the train saves time, but the cost structure matters more. If we rent the building whole, the bill is one number. No one is left guessing their share.
+- [43] **Takumi**: @Shunichi, the valley bus is a trap. I need a place where I can wash and eat without a rigid schedule.
+- [44] **Toshio**: @Shunichi, the train saves time, but the valley bus is a trap. I need a place where we can move together without being forced into a single schedule.
+- [45] **Rin**: @Asuka, one bill is great, but I need the exact number. I hate surprises. What is the total for the whole week?
+- [46] **Shunichi**: @Rin, the city trains run every few minutes. No waiting, no planning. We get the whole week back. That is the only option that respects our time.
+- [47] **Asuka**: @Rin, the total is fixed by the building rent. No variable meal costs, no individual room premiums. The financial risk is eliminated by the structure itself.
+- [48] **Takumi**: @Toshio, I agree. The city room has a door and no timetable. I can wash and eat when I want. That is the only way I can sleep properly.
+- [49] **Toshio**: @Takumi, a private door is essential. Last year, the shared house forced us into proximity without giving us space to breathe. I need that balance.
+- [50] **Rin**: @Asuka, I still need the exact number. If the total is fixed, tell me what it is. I refuse to sign anything without seeing the final cost.
+- [51] **Shunichi**: @Rin, I don't have the price tag, but I have the time. The city gives us the week back. I’m done losing days to transit.
+- [52] **Asuka**: @Rin, I do not have the final figure yet. I have the structure. The exact number requires the pricing data we have not yet gathered.
+- [53] **Takumi**: @Rin, I can't give you the number, but I can give you the freedom. A city room means I sleep without a schedule. That is my priority.
+- [54] **Toshio**: @Rin, the structure is clear. A city room offers the balance we need: together, yet with space to breathe. I am ready to see the options.
+## Round 3
+- [60] **Rin**: @Asuka, I still need the exact total. Option C has separate rooms, so I can see my own bill clearly. No hidden group fees.
+- [61] **Shunichi**: @Rin, Option A is a two-day trap. Option B is a bus trap. Option C is the only one that respects my time.
+- [62] **Asuka**: @Rin, Option C creates the exact fragmentation I warned against. Separate rooms mean separate bills, and the 8,000 yen variance returns. I reject that financial risk.
+- [63] **Takumi**: @Asuka, I reject Option C. Separate rooms mean I am alone with my bad sleep. I need the shared space to feel safe, not isolated.
+- [64] **Toshio**: @Takumi, I understand the need for safety, but last year proved that forced proximity creates isolation. Option C offers the private space we lacked, allowing us to reconnect on our own terms.
+- [65] **Rin**: @Takumi, I hear you, but I need to see my own bill. If Option C means separate rooms, I can track my exact spending. No surprises.
+- [66] **Shunichi**: @Takumi, you want a bath, not a crowd. Option C gives you a private door and no queue. Option B is just a slower version of last year’s misery.
+- [67] **Asuka**: @Shunichi, Option B is the only structure that prevents individual billing. One inn, one bill, divided evenly. Option C fragments the cost and invites the exact disputes I am trying to avoid.
+- [68] **Takumi**: @Shunichi, you are wrong. A private door is a prison. I need the group around me to sleep. Option B is the only place I can wash and eat without being trapped alone.
+- [69] **Toshio**: @Takumi, I hear your need for safety. But last year, the shared house left us isolated despite the proximity. Option C offers the private space we lacked, allowing us to reconnect on our own terms.
+- [70] **Rin**: @Asuka, I hear you, but I need to see my own bill. If Option C means separate rooms, I can track my exact spending. No surprises.
+- [71] **Shunichi**: @Asuka, your fear of variance is valid, but Option B’s bus schedule is a time thief. I refuse to lose another day to transit. Option C is the only logical choice.
+- [72] **Asuka**: @Shunichi, time is a luxury, but financial ambiguity is a liability. Option B’s single bill eliminates the 8,000 yen variance. I cannot accept a structure that invites hidden costs.
+- [73] **Takumi**: @Asuka, I reject Option C. Separate rooms mean I am alone with my bad sleep. I need the shared space to feel safe, not isolated.
+- [74] **Toshio**: @Asuka, the variance is a risk, but last year’s isolation was a certainty. Option C offers the private space we lacked, allowing us to reconnect on our own terms.
+- [75] **Rin**: @Asuka, I am voting for C. I need to see my own bill clearly. No hidden group fees, no surprises. I refuse to sign anything without knowing my exact cost.
+- [76] **Shunichi**: @Rin, I am voting for C. The city trains run every few minutes. No waiting, no planning. We get the whole week back. That is the only option that respects my time.
+- [77] **Asuka**: @Rin, I am voting for B. Option C fragments the cost and invites the exact disputes I am trying to avoid. One bill, divided evenly, is the only structure that prevents hidden individual burdens.
+- [78] **Takumi**: @Rin, I am voting for B. Option C is a prison. I need the group around me to sleep. Option B is the only place I can wash and eat without being trapped alone.
+- [79] **Toshio**: @Rin, I am voting for C. The private space is essential. Last year’s forced proximity created the isolation I need to avoid. We must have room to breathe.
+### Vote
+- Rin -> C
+- Shunichi -> C
+- Asuka -> B
+- Takumi -> B
+- Toshio -> C
+## Result
+- adopted: C

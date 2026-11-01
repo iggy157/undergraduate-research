@@ -1,0 +1,73 @@
+# candidate_selection_0024__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I am curious about the ground. It feels important to know what is under our feet before we start.
+- [6] **May**: Hello everyone. I am here to look at the numbers. I want to see what this will cost us later.
+- [7] **Shizue**: Good morning, dear. I have seen many plans come and go. I want to see what remains.
+- [8] **Victoria**: I am thinking about who will actually do the work. The staff numbers seem low to me.
+- [9] **Shunichi**: Let us not guess. We need data on how people actually use this space right now.
+- [10] **Minato**: @May, do you have any specific figures in mind? I am just trying to understand the scope.
+- [11] **May**: @Minato, I am looking at the long-term ledger. The initial price is never the real price.
+- [12] **Shizue**: I agree with May. The drawings are pretty, but the reality is what matters.
+- [13] **Victoria**: I am checking the staffing roll. If we do not have people, the plan is just paper.
+- [14] **Shunichi**: I am looking at the traffic counts. We need to know where the feet go.
+- [15] **Minato**: I am worried about the clay. It can be tricky. I want to check the firms.
+- [16] **May**: I will look at the upkeep costs. I want to see the trend over the last few years.
+- [17] **Shizue**: I want to see the condition of the old works. It tells us a lot about quality.
+- [18] **Victoria**: I will check the volunteer groups. They might be the key to keeping it alive.
+- [19] **Shunichi**: I will look at the drainage issues. The heat and the rain are our real enemies.
+- [20] **Minato**: I think we should be careful. The ground is not just dirt. It has a history.
+- [21] **May**: Exactly. The history is in the accounts. I will find out what it costs to keep.
+- [22] **Shizue**: Yes, the history is in the cracks. I will look at what has survived.
+- [23] **Victoria**: The people are the history too. I will see who is willing to help.
+- [24] **Shunichi**: The data will tell us the truth. Let us see what the numbers say.
+## Round 2
+- [35] **Minato**: I found that only two firms can do the big digging. They are worried about the clay.
+- [36] **May**: I see. The habitat fund only pays for plants and water. It does not cover the paving.
+- [37] **Shizue**: That is a problem. The old basin is fine, but the apron outside the hall is patched.
+- [38] **Victoria**: The staff roll is down to seven. But there are two volunteer groups ready to help.
+- [39] **Shunichi**: The counts show people want firm ground. The drainage calls have doubled since the cap.
+- [40] **Minato**: @May, if the fund doesn't cover paving, that changes the budget significantly.
+- [41] **May**: @Minato, yes. And the upkeep for planted ground is triple the cost of hard surfaces.
+- [42] **Shizue**: That explains why the trees died. No one was paid to water them properly.
+- [43] **Victoria**: The volunteers can help with the habitat, but they cannot fix the drainage or the heat.
+- [44] **Shunichi**: The heat is a real issue. The readings are much higher here than on the shaded streets.
+- [45] **Minato**: The phasing notes say we can hoard the south, but not the center. That limits our options.
+- [46] **May**: So we cannot build a big plaza in the middle without extra cost. The fund won't cover it.
+- [47] **Shizue**: We need to be realistic. If we plant, we must pay for the care. It is not cheap.
+- [48] **Victoria**: The volunteers are good for the edges, but the core needs professional attention.
+- [49] **Shunichi**: We need a plan that works with the ground, not against it. The clay is a constraint.
+- [50] **Minato**: I think we need to be careful with the earth-moving. It is risky and expensive.
+- [51] **May**: I agree. The long-term costs are the real test. We cannot afford to be surprised.
+- [52] **Shizue**: Let us look at what has worked before. The basin is a good example of durability.
+- [53] **Victoria**: The volunteers are a resource, but they are not a replacement for staff.
+- [54] **Shunichi**: The data is clear. We need to manage the water and the heat. That is the priority.
+## Round 3
+- [60] **Minato**: I am leaning towards the Wetland Restoration. It uses the water we have and avoids the clay issues.
+- [61] **May**: I am worried about the cost. The upkeep for water and plants is high. But the fund helps.
+- [62] **Shizue**: The Wetland plan seems to learn from the past. It manages the water, which is our biggest problem.
+- [63] **Victoria**: The volunteers can help with the habitat tasks. It fits with what they are already doing.
+- [64] **Shunichi**: The drainage calls are up. The Wetland plan addresses that directly. It is the logical choice.
+- [65] **Minato**: @Shunichi, yes, the drainage is the key. The other plans ignore it.
+- [66] **May**: @Minato, I agree. The fund covers the water management. It is the only plan that fits the funding.
+- [67] **Shizue**: The other plans require too much hard surface. That is expensive to maintain and patch.
+- [68] **Victoria**: The Sports Terraces would need a lot of turf care. We do not have the staff for that.
+- [69] **Shunichi**: The Market Plaza is a bad idea. The ground is not stable enough for heavy structures.
+- [70] **Minato**: The Woodland Walk is nice, but the trees might die again if we do not have the budget for care.
+- [71] **May**: Exactly. The upkeep ledger shows the cost of planted ground is triple. We cannot afford that without the fund.
+- [72] **Shizue**: The Wetland plan is more resilient. It works with the natural drainage.
+- [73] **Victoria**: The volunteers are already working on habitat upriver. This would extend that work.
+- [74] **Shunichi**: The heat readings are high. The water in the Wetland plan would help cool the area.
+- [75] **Minato**: I am convinced. The Wetland Restoration is the best fit for the site and the constraints.
+- [76] **May**: I agree. It is the only plan that aligns with the funding and the long-term costs.
+- [77] **Shizue**: I support it. It is a sensible, durable choice.
+- [78] **Victoria**: I am in favor. It leverages the volunteer groups and addresses the drainage.
+- [79] **Shunichi**: I vote for D. It is the rational choice based on the data.
+### Vote
+- Minato -> D
+- May -> D
+- Shizue -> D
+- Victoria -> D
+- Shunichi -> D
+## Result
+- adopted: D

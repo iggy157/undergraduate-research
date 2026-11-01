@@ -1,0 +1,73 @@
+# shared_living_0016__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Minato**: I worry about the person who takes over the books next.
+- [6] **Ryuji**: We need to know the actual costs before setting any fee.
+- [7] **Minako**: The current structure feels fragile. We need to see what is slipping.
+- [8] **May**: People are hesitating to commit. We need to understand why.
+- [9] **Shunichi**: It is obvious who does the work and who just pays.
+- [10] **Minato**: @Ryuji, do you have the numbers for last year's spending?
+- [11] **Ryuji**: Not yet. I need to verify the ledger against the bank.
+- [12] **Minako**: I agree. Guesswork is not an option for this year.
+- [13] **May**: The hesitation is real. I have seen it in the group chat.
+- [14] **Shunichi**: I want to see the sign-in sheets. The disparity is glaring.
+- [15] **Minato**: I will look into the treasurer's hours. It seems heavy.
+- [16] **Ryuji**: I will check the ledger and the bank statements.
+- [17] **Minako**: I will look at the sign-up records and the taster forms.
+- [18] **May**: I will check the weekday turnout and the winter social feedback.
+- [19] **Shunichi**: I will tally the sign-in sheets and compare them to the rota.
+- [20] **Minato**: Thank you. Let us see what the data says.
+- [21] **Ryuji**: Agreed. Facts first, then decisions.
+- [22] **Minako**: We must protect the ease of joining for newcomers.
+- [23] **May**: And keep the evenings feeling like they belong to us.
+- [24] **Shunichi**: Let us stop pretending the load is shared equally.
+## Round 2
+- [35] **Minato**: The treasurer spent six hours a month chasing individual payments.
+- [36] **Ryuji**: That confirms my fear. The administrative burden is unsustainable.
+- [37] **Minako**: I found that eleven mid-year joiners needed manual calculations.
+- [38] **May**: The door charge killed the weekday vibe. People stopped feeling they belonged.
+- [39] **Shunichi**: The data is clear. The same nine people do everything.
+- [40] **Minato**: @Ryuji, a flat fee seems much easier to manage.
+- [41] **Ryuji**: Yes. The bank statements show people struggle with reminders.
+- [42] **Minako**: The taster forms say people fear a whole-year commitment.
+- [43] **May**: If we charge per event, we lose the quiet members entirely.
+- [44] **Shunichi**: Tiered membership would just formalize the inequality I see.
+- [45] **Minato**: I am leaning towards a simple annual fee.
+- [46] **Ryuji**: I agree. It reduces the chasing and the confusion.
+- [47] **Minako**: But we must make the entry point less daunting for newcomers.
+- [48] **May**: A flat fee keeps the evenings open without the hesitation.
+- [49] **Shunichi**: If the fee is fair, the work distribution is a separate issue.
+- [50] **Minato**: I think we are aligned on simplicity.
+- [51] **Ryuji**: The numbers support a single, predictable figure.
+- [52] **Minako**: We can address the newcomer fear in the communication.
+- [53] **May**: Let us keep the community feeling intact.
+- [54] **Shunichi**: I will support the option that minimizes administrative chaos.
+## Round 3
+- [60] **Minato**: Option A seems the most peaceful for the treasurer.
+- [61] **Ryuji**: Option A is the only one that matches the financial reality.
+- [62] **Minako**: Option A is simple, but we must explain it well to new joiners.
+- [63] **May**: Option B is what hurt us last time. We must avoid it.
+- [64] **Shunichi**: Option C is a trap. It will create the friction we saw in the minute books.
+- [65] **Minato**: I am voting for A. It is the kindest to the person managing it.
+- [66] **Ryuji**: I am voting for A. It is the most rational choice.
+- [67] **Minako**: I am voting for A, provided we handle the onboarding gently.
+- [68] **May**: I am voting for A. It preserves the sense of belonging.
+- [69] **Shunichi**: I am voting for A. It is the only one that doesn't reward the lazy.
+- [70] **Minato**: It feels right to move forward with A.
+- [71] **Ryuji**: The data supports it. No further debate needed.
+- [72] **Minako**: I will ensure the communication is clear and welcoming.
+- [73] **May**: I will make sure the evenings feel like home again.
+- [74] **Shunichi**: I will monitor the attendance to ensure the fee is fair.
+- [75] **Minato**: Thank you all. Let us proceed.
+- [76] **Ryuji**: Agreed. Let us finalize the figure.
+- [77] **Minako**: We are ready to vote.
+- [78] **May**: I am ready.
+- [79] **Shunichi**: Let us get it done.
+### Vote
+- Minato -> A
+- Ryuji -> A
+- Minako -> A
+- May -> A
+- Shunichi -> A
+## Result
+- adopted: A

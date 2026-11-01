@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: Thank you all for being here. To ensure we select a sustainable program, I believe we must first understand our actual financial boundaries and the potential for these programs to generate revenue.
+- [6] **Shion**: Financial boundaries are a start, but sustainability requires more than just a budget. We need to know if previous initiatives actually improved patient outcomes, or if we're just adding to a pile of forgotten projects.
+- [7] **Midori**: I agree with both of you. However, I'm also worried about the people implementing these programs. We must ensure we aren't overloading our staff or creating imbalances in the rosters. Harmony in the workplace is essential for success.
+- [8] **Kenji**: I agree! But we also have to make sure the hospital can actually handle more people. If the rooms are full or the booking system crashes, it won't matter how great the program is, right?
+- [9] **Shizue**: You all make such wonderful points. I only worry that we might forget the promises made to those outside our walls. Let us ensure our partnerships are firm and truly agreed upon by everyone involved.
+- [10] **Jonathan**: I agree. To avoid the common mistake of underfunding the operational side later, we should examine the ledger and the regional fund tariffs to see what we can truly afford and earn.
+- [11] **Shion**: If we want to avoid repeating past failures, we need hard data. I'll look into the readmission figures from the call-back trial and the shared nursing round completion to see what actually worked.
+- [12] **Midori**: I think it's vital to see who is actually available to work. I'll look into the ward nursing vacancies and agency cover, as well as the therapy and midwifery staffing review, to protect our teams from burnout.
+- [13] **Kenji**: That sounds like a plan! I'll check the rooms, parking and shuttle coverage, and also what the booking system records. We need to know if there's actually space for everyone to get in!
+- [14] **Shizue**: I shall look into the board minutes on the jointly run clinic and the data agreements with outside surgeries. It is so important that our friends and partners are truly on board with us.
+- [15] **Jonathan**: It seems we have a comprehensive plan. By covering the finances, staffing, infrastructure, and partnerships, we can avoid any hidden costs or operational gaps that might arise after the initial launch.
+- [16] **Shion**: Let's hope this isn't just another exercise in optimism. I'm interested to see if the data actually supports any of these ambitions, or if we're simply ignoring the ghosts of previous failures.
+- [17] **Midori**: I hope so too, Shion. If we can align our goals with the actual capacity of our staff, we can create something that truly helps patients without sacrificing the wellbeing of our colleagues.
+- [18] **Kenji**: I'm just excited to see what we find! If we can make sure the building and the systems can handle the new program, then everything should run smoothly for everyone.
+- [19] **Shizue**: It is lovely to see us all working together so harmoniously. I believe that by looking at these details with care, we can build something that lasts and brings peace to everyone involved.
+- [20] **Jonathan**: I believe we are in agreement. Let us proceed with these investigations so we can make a decision based on reality rather than assumptions. I look forward to hearing what you all discover.
+- [21] **Shion**: Indeed. I'll be waiting to see if the numbers provide a reality check or if we're just continuing a tradition of hopeful guesswork. Let's see what the data actually says.
+- [22] **Midori**: I'm looking forward to it as well. I truly hope we find a path that supports both our patients and the hardworking people who make this hospital run. See you all in the next round.
+- [23] **Kenji**: Me too! I'll dive into those records and see if we have enough room for everyone. I can't wait to share what I find with you all! See you soon!
+- [24] **Shizue**: I shall do the same. I look forward to our next meeting, and I hope we find a path that is kind to everyone. Until then, please take care of yourselves.
+## Round 2
+- [35] **Jonathan**: I have some concerning news. Our development budget is nearly a quarter lower than expected, and we must now pay for floor space fitting out from this same limited fund. We must be very cautious.
+- [36] **Shion**: The budget is a constraint, but the real risk is inefficiency. My findings show that the call-back trial actually reduced readmissions by 20%, yet it was abandoned. Why waste money on new ideas when proven ones were buried?
+- [37] **Midori**: I'm worried about our capacity. We have nine unfilled nursing posts and rising agency costs. While midwifery has some slack, our physiotherapy staff are leaving for the city. We cannot launch a program that adds pressure to already exhausted teams.
+- [38] **Kenji**: I've got some bad news too! The car park fills up by eleven and rooms are packed from mid-morning. Plus, the booking system is missing a lot of data because it only tracks fixed appointments. We're already full!
+- [39] **Shizue**: It seems we have many hurdles to clear. I found that our past joint ventures failed when no one took ownership of the budget, and our legal agreements with outside partners can take over a year to finalize.
+- [40] **Jonathan**: @Shizue, that is a critical point. Combined with the fact that off-site contacts generate no regional fund tariffs, any program relying on outside partnerships or remote work could become a financial drain we cannot afford.
+- [41] **Shion**: @Jonathan, exactly. If we chase "partnerships" that don't pay and ignore the 20% readmission drop we already achieved, we're just being negligent. We should prioritize programs with a proven track record of patient impact.
+- [42] **Midori**: @Shion, I agree that patient impact is key, but we must be realistic. If we implement a program that requires heavy nursing or physiotherapy input, we risk further burnout and more staff leaving for the city.
+- [43] **Kenji**: @Midori, that's true! But even if we have the staff, where will the patients go? If the rooms are already full by mid-morning, we can't just add more people without the whole place seizing up!
+- [44] **Shizue**: It is a bit worrying, isn't it? If we rush into a partnership without a clear owner or a signed agreement, we may find ourselves in a very difficult position once the initial excitement fades. We must be gentle with our planning.
+- [45] **Jonathan**: Given the budget cuts and the lack of tariffs for off-site work, we must prioritize a program that is on-site and financially self-sustaining. We cannot risk a deficit in twelve months.
+- [46] **Shion**: @Jonathan, then the choice is simple. We need a program that utilizes existing on-site resources and has a demonstrated effect on patient health. Let's not ignore the evidence of what actually works just to be "innovative."
+- [47] **Midori**: @Shion, I agree, but "existing resources" are stretched thin. We must avoid any program that relies on ward nurses or physiotherapists. Perhaps we can look for something that utilizes the slack in the midwifery rota instead?
+- [48] **Kenji**: @Midori, that's a great idea! If we use the midwifery slack, it might help. But we still have to solve the parking and room problem. We can't just add more appointments to a system that's already crashing!
+- [49] **Shizue**: I agree with Midori's kindness toward our staff. However, we must also be careful not to rely on outside surgeries or clinics unless the agreements are already signed. A year of waiting is a long time indeed.
+- [50] **Jonathan**: It seems we are converging on a strict set of criteria: on-site delivery to ensure tariff revenue, minimal reliance on overstretched nursing or therapy staff, and a low impact on our physical space. We must be pragmatic.
+- [51] **Shion**: Pragmatism is only useful if it's based on results. We must select the candidate that aligns with these constraints while offering a proven benefit to patients, rather than another experiment destined for the archives.
+- [52] **Midori**: I hope we can find a candidate that fits all these needs. If we can support our patients while protecting our staff's wellbeing, it will be a true success for everyone. I'm ready to see the options.
+- [53] **Kenji**: I'm ready too! I just hope the candidates aren't all "big" projects. We really need something that doesn't make the parking lot a nightmare or break our booking system. Let's see what we've got!
+- [54] **Shizue**: I agree. Let us look upon the candidates with a patient heart and a careful eye. I hope we find a path that is stable, sustainable, and truly supportive of all who will touch it.
+## Round 3
+- [60] **Jonathan**: Looking at the options, A and D are off-site or involve outside providers, meaning no tariff revenue. B requires new space and physiotherapy staff, both of which we lack. Option C seems the most viable.
+- [61] **Shion**: @Jonathan, I agree. A and D are essentially the "off-site" failures I warned about—unfunded and prone to the same gaps as the shared nursing round. C is the only logical choice that fits our constraints.
+- [62] **Midori**: @Jonathan, @Shion, I agree. Option C is the only one that aligns with our staffing reality. Since the midwifery rota has slack, it won't overburden our exhausted nurses or physiotherapists. It's a sustainable choice for our team.
+- [63] **Kenji**: @Midori, I agree! Option C uses the midwifery slack, which is great. It's also a scheduled service, so it's easier to track than the "invisible" work that's currently breaking our booking system. It seems the safest bet!
+- [64] **Shizue**: I agree with you all. Option C is a lovely choice. Since it is run jointly by our own departments, we can ensure the budget and responsibilities are clearly shared from the start, avoiding any future misunderstandings.
+- [65] **Jonathan**: It is rare that we find such unanimous agreement. Option C is the only candidate that secures our financial future through on-site tariffs while respecting our current staffing and space limitations. It is the most responsible choice.
+- [66] **Shion**: It is the only choice that doesn't ignore our reality. While it lacks the specific readmission data of the call-back trial, it is far superior to gambling on unfunded, off-site experiments that we know will fail.
+- [67] **Midori**: I feel very relieved that we've found a solution that protects our staff. By utilizing the available capacity in midwifery, we can provide wonderful care without risking further burnout for our other teams. It's a balanced approach.
+- [68] **Kenji**: I'm relieved too! Since it's scheduled, we can manage the flow of people better. It's the best way to help new parents without making the parking lot or the booking system totally explode!
+- [69] **Shizue**: It is a comfort to see us all in such agreement. By choosing a path that is stable and supportive of our own people, we ensure that this program will truly flourish and bring joy to the families it serves.
+- [70] **Jonathan**: I believe we have done our due diligence. Option C is the only proposal that is financially sustainable, operationally feasible, and respectful of our staff's limits. I am fully committed to this choice.
+- [71] **Shion**: I concur. While I would have preferred a program with a proven track record of reducing readmissions, Option C is the only one that doesn't actively invite failure. It is the only logical decision.
+- [72] **Midori**: I concur as well. It is the only option that allows us to grow while remaining kind to our staff. I am happy to cast my vote for Option C.
+- [73] **Kenji**: I'm all in for Option C too! It's the only one that doesn't feel like it'll jam up the whole hospital. Let's go with the one that actually fits in our day!
+- [74] **Shizue**: I agree completely. Option C is a gentle and sustainable path that protects our staff and our partnerships. I am very happy to cast my vote for the Perinatal Support Service.
+- [75] **Jonathan**: Since we are all in agreement on the financial, staffing, and spatial merits of the Perinatal Support Service, I see no reason to delay. I cast my vote for Option C.
+- [76] **Shion**: I cast my vote for Option C. It is the only choice that respects the constraints of our reality without blindly repeating the mistakes of the past.
+- [77] **Midori**: I cast my vote for Option C. It is the most balanced choice, ensuring we provide excellent care while truly looking after the wellbeing of our staff.
+- [78] **Kenji**: I cast my vote for Option C! It's the only one that won't make the parking lot a nightmare or crash our booking system. Let's make it happen!
+- [79] **Shizue**: I cast my vote for Option C. It is a wonderful choice that ensures stability and kindness for everyone involved. I am glad we could find such a harmonious agreement.
+### Vote
+- Jonathan -> C
+- Shion -> C
+- Midori -> C
+- Kenji -> C
+- Shizue -> C
+## Result
+- adopted: C

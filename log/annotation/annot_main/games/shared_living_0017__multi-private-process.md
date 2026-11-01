@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a fair system, but first we need data. I believe understanding the actual usage patterns and the physical layout of the parking area is essential to avoid further chaos.
+- [6] **Ryuji**: I agree. However, we also need to understand the financial side. We can't make a sustainable decision without knowing the actual costs and how payments are currently handled.
+- [7] **George**: I believe we should also consider the history of how these spaces were assigned. It would be wise to see if there are any long-standing patterns or grievances that we need to address.
+- [8] **Shunichi**: Fairness is a lovely ideal, but let's not forget the human element. I'm more interested in how this affects the atmosphere of the building. We should look into past conflicts to avoid repeating them.
+- [9] **Mio**: I'm with you all! But let's not forget who actually has to do the work to keep the system going. I want to know how much effort the paperwork and management really take!
+- [10] **Asuka**: @Ryuji, @George, and @Shunichi, your points are valid. However, if we don't address the physical congestion first, any administrative system will fail. We must prioritize seeing how the space is actually being used daily.
+- [11] **Ryuji**: Physical layout is important, but it's only half the picture. If we implement a system that is financially unsound or ignores current payment structures, we'll just create a different kind of chaos. We need the numbers first.
+- [12] **George**: Numbers are useful, but they don't tell us if people feel cheated. If we ignore the history of these assignments, we might inadvertently reinforce a bias that residents already resent. We need a balanced perspective.
+- [13] **Shunichi**: @George, you're preaching caution, which is fine. But let's be honest: a "balanced perspective" is useless if we ignore the social friction. I'd rather know why people are complaining than how they felt five years ago.
+- [14] **Mio**: @Shunichi, you're right about the friction! But if the person in charge gets overwhelmed and quits, that'll cause even more fighting. We need to make sure the workload is actually manageable for whoever does it!
+- [15] **Asuka**: It seems we are circling the same points. To move forward, we should divide the research. I will focus on the physical reality of the parking area to address the congestion and usage patterns.
+- [16] **Ryuji**: That sounds reasonable. I will take responsibility for the financial aspect. I want to clarify the current cash collections and the overall building accounts to ensure any new system is fiscally viable.
+- [17] **George**: I will look into the historical records. I want to see the association minutes and the sticker register to determine if there is any truth to the claims of unfair distribution.
+- [18] **Shunichi**: I'll take the "complaint log" to see where the real tension lies, and the "neighbouring block's secretary" to see how others handled this without ruining their social lives. Let's see if we can avoid a disaster.
+- [19] **Mio**: I'll take the "Treasurer's handover file on cash collections" to see the actual paperwork involved, and "Morning departures watched from the entrance" to see how much physical effort it takes to manage the flow!
+- [20] **Asuka**: To ensure we have a complete picture, I will look into the "Sticker register and the daily riders" and "Rain exposure along the parking rows." This will help me analyze the actual usage and the physical constraints.
+- [21] **Ryuji**: I will look into "The building account's two-year ledger" and the "Treasurer's handover file on cash collections." I need to see the actual figures to determine the financial impact on the building and the residents.
+- [22] **George**: I will look into "Five years of association minutes" and the "Sticker register and the daily riders." I want to verify if the current allocations are based on a fair system or mere habit.
+- [23] **Shunichi**: I'll stick with "Last year's complaint log entries" and the "Account from the neighbouring block's secretary." I'm curious to see if our neighbors managed to solve this without turning the lobby into a war zone.
+- [24] **Mio**: I'll go with "Treasurer's handover file on cash collections" and "Morning departures watched from the entrance"! I really want to see if the daily management is a breeze or a total nightmare!
+## Round 2
+- [35] **Asuka**: My observations confirm a physical problem. There is significant congestion during the morning rush, with residents forced to move other bikes. Additionally, the rain exposure is uneven, making some spots far less desirable than others.
+- [36] **Ryuji**: The financial situation is precarious. The ledger shows the account only covers basic maintenance; any significant changes requiring capital would need a levy. Also, the current cash collection already takes several hours of work monthly.
+- [37] **George**: My findings confirm that the same flats have held the covered spaces for five years without any review. Furthermore, daily riders are actually willing to pay more for guaranteed access rather than treating every claim as equal.
+- [38] **Shunichi**: It seems we're dealing with a classic case of passive-aggressive tension. The complaint log shows people are annoyed but too timid to speak up, which is exactly how a toxic atmosphere begins.
+- [39] **Mio**: I found out that the treasurer already spends three hours a month just on cash! If we add more billing, it'll be a huge burden. Plus, people are already struggling to move bikes in the morning!
+- [40] **Asuka**: @Mio, your observation about the morning struggle aligns with mine. If we don't solve the physical congestion and the inequality of the rain-exposed spots, any new payment system will only add frustration to an already chaotic situation.
+- [41] **Ryuji**: @Asuka, while the physical layout is a problem, we must be realistic. Since the ledger shows we have no surplus, we cannot afford any infrastructure upgrades. Any solution must be self-sustaining and not require a levy on residents.
+- [42] **George**: @Ryuji, I agree we must be realistic about costs. However, the fact that some residents have held the best spots for five years without review is a problem. We cannot ignore this perceived unfairness while discussing sustainability.
+- [43] **Shunichi**: @George, you're focusing on "fairness" again. But look at the neighbors: a simple monthly charge turned residents into ghosts who avoid meetings. I'd rather have a few people with "unfair" spots than a building full of strangers.
+- [44] **Mio**: @Shunichi, that sounds scary! But if the person managing the money gets totally burnt out, they'll become a ghost too! We need a system that's super simple so nobody hates their life doing the paperwork.
+- [45] **Asuka**: @Shunichi, avoiding conflict by ignoring the problem isn't a solution; it's just delaying the inevitable. We need a logical system that addresses the physical congestion and the disparity in spot quality to prevent further resentment.
+- [46] **Ryuji**: @Asuka, logic dictates that a system is only as good as its implementation. If we create a complex tiered system to address spot quality, we increase the administrative burden on the treasurer, which @Mio already warned us about.
+- [47] **George**: @Ryuji, simplicity is important, but so is legitimacy. If we simply maintain the status quo to save the treasurer's time, we are essentially endorsing a system of privilege that has lasted five years without oversight.
+- [48] **Shunichi**: @George, "legitimacy" is a fancy word for creating a reason to fight. If we start auditing five years of habits, we're just inviting people to dig up old grudges. Let's prioritize peace over a perfect ledger.
+- [49] **Mio**: @George, I get that it feels unfair, but digging up old grudges sounds like a lot of work! Let's find a way to be fair that doesn't make the manager's head explode from all the paperwork!
+- [50] **Asuka**: We must acknowledge that the current "peace" is an illusion if people are fighting over bikes every morning. A system that balances spot quality with a low administrative burden is the only logical path forward.
+- [51] **Ryuji**: I agree that we need a balance. However, we must prioritize a system that requires zero capital investment and minimal administrative overhead. Any proposal that increases the treasurer's workload or requires a levy is logically unsustainable.
+- [52] **George**: I believe we can achieve both. If we implement a system where those who value guaranteed access pay a fee, we address the unfairness of the status quo while potentially creating a fund for future maintenance.
+- [53] **Shunichi**: @George, you're dreaming of a gold mine, but you're ignoring the social cost. Charging for access creates a class system in the lobby. I've seen it happen next door; it turns neighbors into strangers. Let's keep it simple.
+- [54] **Mio**: @Shunichi, I agree that keeping it simple is best! But "simple" should mean "easy to manage," not just ignoring the problem. Let's pick the option that's the least stressful for everyone involved!
+## Round 3
+- [60] **Asuka**: Option B is the most logical choice to resolve the physical chaos. By removing fixed allocations, we eliminate the "privilege" of the best spots and encourage a more fluid, shared usage that reduces morning congestion.
+- [61] **Ryuji**: Option B is problematic. Installing double-tier racks would require capital investment, and as I found in the ledger, we have no surplus. A levy on residents to fund this would be logically unsound.
+- [62] **George**: Option A seems the most balanced. It addresses the unfairness of the current status quo and, as I discovered, daily riders are actually willing to pay for guaranteed access. It also generates funds without requiring a levy.
+- [63] **Shunichi**: @George, you're still chasing that "balanced" ideal. Option A is exactly what happened next door—it creates a financial barrier that kills the community spirit. I'm not interested in a lobby full of ghosts.
+- [64] **Mio**: @George, Option A sounds like a nightmare for the treasurer! More billing means more hours of paperwork every single month. I'm worried the person in charge will just give up and quit!
+- [65] **Asuka**: @Ryuji, if Option B requires too much capital, then Option C is the only logical alternative. It removes the five-year privilege @George mentioned and ensures no one is permanently stuck with the rain-exposed spots, all with zero cost.
+- [66] **Ryuji**: @Asuka, Option C is fiscally sound as it requires no investment. However, we must consider the administrative effort. A yearly lottery is a one-time event, which is far more sustainable than the monthly billing in Option A.
+- [67] **George**: @Asuka, @Ryuji, I agree that Option C is a fair way to break the cycle of privilege. While Option A provides funds, the social and administrative costs mentioned by @Shunichi and @Mio are significant. A lottery is impartial.
+- [68] **Shunichi**: @George, finally some sense. A lottery is a gamble, and people accept the results of a gamble without blaming their neighbors. It's the only way to reset the board without starting a war.
+- [69] **Mio**: @Ryuji, @Asuka, I'm totally on board with Option C! A lottery once a year is so much easier than monthly billing. It's fair, it's fast, and it won't make the treasurer's head explode!
+- [70] **Asuka**: Since we all agree that Option A is too administratively burdensome and Option B is financially unfeasible, Option C is the only logical choice. It solves the congestion and inequality issues without creating new conflicts.
+- [71] **Ryuji**: I agree. Option C is the most rational choice. It avoids the capital expenditure of Option B and the administrative overhead of Option A, while providing a fair, cost-free mechanism to redistribute the spaces.
+- [72] **George**: I concur. While I initially hoped for a system that recognized the value of daily use, the priority must be a fair reset that everyone can accept without resentment. Option C is the most impartial solution.
+- [73] **Shunichi**: It's a rare moment of total agreement. A lottery is the perfect "act of god"—nobody can complain to their neighbor about the results because the luck of the draw is the only culprit. Let's go with C.
+- [74] **Mio**: Yay! I'm so glad we all agree! Option C is definitely the winner because it's the least stressful for everyone. Let's do the lottery and keep our treasurer happy! I vote for Option C!
+- [75] **Asuka**: I vote for Option C. It is the most logical and sustainable solution, addressing the physical inequality of the spots and the morning congestion without imposing financial or administrative burdens on the residents.
+- [76] **Ryuji**: I vote for Option C. It is the only proposal that is fiscally responsible, requires no capital investment, and minimizes administrative overhead, making it the most rational and sustainable choice for the building.
+- [77] **George**: I vote for Option C. It effectively ends the long-term privilege of a few households and provides a transparent, impartial reset that all residents can accept as fair.
+- [78] **Shunichi**: I vote for Option C. It's the only way to shake things up without turning the building into a cold, transactional place. Let's leave the drama to the neighbors and keep our peace.
+- [79] **Mio**: I vote for Option C! It's fair, it's simple, and most importantly, it won't bury anyone in paperwork. Let's keep things happy and easy for everyone!
+### Vote
+- Asuka -> C
+- Ryuji -> C
+- George -> C
+- Shunichi -> C
+- Mio -> C
+## Result
+- adopted: C

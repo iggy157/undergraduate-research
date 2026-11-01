@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **May**: I’m tired of reinventing the wheel. Let’s check the history before we cheer.
+- [6] **Benjamin**: Agreed. We need to know who is actually working before we promise more.
+- [7] **Midori**: I worry we fix the loud complaints, not the slow parts. Let’s look at data.
+- [8] **Shizue**: I’d like to see the old records. They often tell the quiet truth.
+- [9] **Jonathan**: I prefer looking at the long-term costs. Headlines hide the real burden.
+- [10] **May**: @Benjamin, do you think the crew is stretched thin? I suspect the roster is a mess.
+- [11] **Benjamin**: @May, likely. If we don’t check the books, we’re just guessing.
+- [12] **Midori**: @Shizue, the old accessibility work might show where we failed passengers before.
+- [13] **Shizue**: @Midori, yes. The ground hides things. I want to see the completion records.
+- [14] **Jonathan**: I will look at the ledger. I need to see where the money actually goes.
+- [15] **May**: I’m going to dig into the pilots from eight years ago. They always fail quietly.
+- [16] **Benjamin**: I’ll check the roster books. I need to see who is left with nothing.
+- [17] **Midori**: I’ll look at the journey audits. I want to see where the minutes go.
+- [18] **Shizue**: I’ll look at the joint operators' minutes. I need to know who else says yes.
+- [19] **Jonathan**: I’ll look at the capital ledger. I need to see the future debt.
+- [20] **May**: Let’s see what the dust says. I’ll be back with the ghosts.
+- [21] **Benjamin**: I’ll find the empty chairs. The silence in the roster is loud.
+- [22] **Midori**: I’ll trace the time. I want to know where the hours vanish.
+- [23] **Shizue**: I’ll read the signatures. I want to know who is holding the pen.
+- [24] **Jonathan**: I’ll count the coins. I want to know what we owe tomorrow.
+## Round 2
+- [35] **May**: The pilots worked. The accessibility work was half done. We keep forgetting the half.
+- [36] **Benjamin**: The late-turn pool is empty. We are running on overtime and luck.
+- [37] **Midori**: The audits show waiting is the thief. The crowds are not the problem, the gaps are.
+- [38] **Shizue**: The minutes show the ferry and rail never agreed on data. The ground is not the only thing hiding.
+- [39] **Jonathan**: The ledger shows we are borrowing from next year to pay for this one.
+- [40] **May**: @Benjamin, if the pool is empty, we need to fix the roster, not the tracks.
+- [41] **Benjamin**: @May, exactly. We can’t promise more service if the people to run it are gone.
+- [42] **Midori**: @Shizue, if the data is split, we are flying blind. We need one clock.
+- [43] **Shizue**: @Midori, yes. The signatures are missing. We need to know who is responsible for the silence.
+- [44] **Jonathan**: @May, the money is gone. We can’t buy new trains if we are paying for old debts.
+- [45] **May**: I think we should focus on the roster. If the people are there, the service is there.
+- [46] **Benjamin**: I agree. The roster is the foundation. Without it, the rest is just noise.
+- [47] **Midori**: I think we should focus on the journey audits. If we fix the waiting, we fix the trip.
+- [48] **Shizue**: I think we should focus on the joint operators. If we fix the agreement, we fix the data.
+- [49] **Jonathan**: I think we should focus on the capital ledger. If we fix the debt, we fix the future.
+- [50] **May**: Let’s vote for the roster. It’s the only thing that’s actually broken.
+- [51] **Benjamin**: I’ll vote for the roster. It’s the only thing that’s actually empty.
+- [52] **Midori**: I’ll vote for the journey audits. It’s the only thing that’s actually slow.
+- [53] **Shizue**: I’ll vote for the joint operators. It’s the only thing that’s actually silent.
+- [54] **Jonathan**: I’ll vote for the capital ledger. It’s the only thing that’s actually heavy.
+## Round 3
+- [60] **May**: I’m looking at D. The roster is the key. If we fix the night, we fix the people.
+- [61] **Benjamin**: I’m looking at D. The roster is the key. If we fix the night, we fix the people.
+- [62] **Midori**: I’m looking at A. The audits show waiting is the thief. If we fix the fare, we fix the wait.
+- [63] **Shizue**: I’m looking at A. The minutes show the data is split. If we fix the fare, we fix the data.
+- [64] **Jonathan**: I’m looking at C. The ledger shows the debt is heavy. If we fix the access, we fix the future.
+- [65] **May**: @Benjamin, do you think the night service is the only way to fix the roster?
+- [66] **Benjamin**: @May, it’s the most direct way. The late-turn pool is empty. We need to fill it.
+- [67] **Midori**: @Shizue, do you think the fare platform is the only way to fix the data?
+- [68] **Shizue**: @Midori, it’s the most direct way. The minutes show the data is split. We need to join it.
+- [69] **Jonathan**: @May, do you think the access upgrades are the only way to fix the debt?
+- [70] **May**: I think D is the best. It fixes the roster and the service.
+- [71] **Benjamin**: I agree. D is the best. It fixes the roster and the service.
+- [72] **Midori**: I think A is the best. It fixes the waiting and the data.
+- [73] **Shizue**: I agree. A is the best. It fixes the waiting and the data.
+- [74] **Jonathan**: I think C is the best. It fixes the access and the debt.
+- [75] **May**: I’ll vote for D. It’s the only thing that’s actually broken.
+- [76] **Benjamin**: I’ll vote for D. It’s the only thing that’s actually empty.
+- [77] **Midori**: I’ll vote for A. It’s the only thing that’s actually slow.
+- [78] **Shizue**: I’ll vote for A. It’s the only thing that’s actually silent.
+- [79] **Jonathan**: I’ll vote for C. It’s the only thing that’s actually heavy.
+### Vote
+- May -> D
+- Benjamin -> D
+- Midori -> A
+- Shizue -> A
+- Jonathan -> C
+## Result
+- adopted: D

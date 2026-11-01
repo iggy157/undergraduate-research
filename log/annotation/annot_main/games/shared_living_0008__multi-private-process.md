@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private-process (shared_living)
+
+## Round 1
+- [5] **May**: Let's be honest, the break room is a bit of a disaster zone lately. It's just a free-for-all, isn't it? I think we need a real system so it doesn't just fall on one person to fix.
+- [6] **Misaki**: I agree. It's become too cluttered to be useful for anything. We should probably look into how it's actually being used and what the physical issues are before we decide.
+- [7] **Servas**: It is a pleasure to see us addressing this together. A space should nourish the spirit, not drain our energy. Let us look closely at how our time and efforts are spent within these walls.
+- [8] **Sakura**: I agree! It's like a big puzzle we need to solve! But we should check if we're spending too much money on other things because the room is a mess. Let's look at the numbers!
+- [9] **Kenji**: I'm with you all! It's definitely a mess, but I hope we don't just focus on the stuff. We should also think about how we actually talk to each other in there. It feels a bit lonely lately.
+- [10] **May**: Exactly! It's not just about the mess, but who's actually using it and when. If we don't have a clear rule, we're just guessing. Let's get some actual data on the usage and the cleanup.
+- [11] **Misaki**: That makes sense. I'm particularly concerned about the noise and the mess leaking into the office area. We should investigate the partition wall and the state of the bins to see where the real problems lie.
+- [12] **Servas**: Wisdom comes from understanding the hidden costs of our habits. I believe we must examine the invoices for outside hire and the round trip for a hot lunch to see where our precious hours vanish.
+- [13] **Sakura**: @Servas, you're right! I want to see those invoices too! And maybe we should check the quotes for the fit-outs? I want to know exactly how much it costs to make it pretty!
+- [14] **Kenji**: @Sakura, making it pretty is great, but I'm worried about the "vibe." I want to know where the last awkward conversation happened and if we've had any unplanned talks since the refit. We need a place to really connect!
+- [15] **May**: I'm all for the "vibe," @Kenji, but vibes don't empty the bins. I want to see the fortnight's tally of use by person and the crumbs and bins at the desks. Let's see who's actually there.
+- [16] **Misaki**: I think we have a good list. To be thorough, I'll focus on the partition wall to the office and the crumbs and bins at the desks. We need to know if the room's issues are affecting our workspace.
+- [17] **Servas**: It is wise to balance the practical with the spiritual. I shall look into the invoices for outside hire by the hour and the round trip for a hot lunch to understand our time.
+- [18] **Sakura**: I'll take the quotes for the two fit-outs and the invoices for outside hire! I want to see the real numbers so we don't accidentally spend all our pennies!
+- [19] **Kenji**: I'll stick with my plan! I'm going to look into the unplanned talk since the refit and where the last awkward conversation happened. Let's find out how we're actually getting along in there!
+- [20] **May**: Sounds like a plan! I'll stick with the fortnight's tally of use by person and the crumbs and bins at the desks. Let's see who's actually contributing to the chaos and who's just along for the ride.
+- [21] **Misaki**: I'm satisfied with the distribution. I'll focus on the partition wall and the crumbs and bins. It's important to understand how the room's condition impacts those of us working right next to it.
+- [22] **Servas**: May, Misaki, Sakura, Kenji—your enthusiasm is a breath of fresh air. Let us proceed with these investigations. I look forward to seeing how we can reclaim our time and peace. I am ready.
+- [23] **Sakura**: Me too! I'm super excited to be a detective! I'll find all the secret numbers and tell you if they're scary or not. Let's go find the answers!
+- [25] **Kenji**: I'm ready too! Let's see what we find. I really hope we can make this a place where we can all be honest and close with each other. Let's do this!
+## Round 2
+- [37] **May**: Well, the data is in, and it's a bit eye-opening. It turns out a couple of people are hogging the room, while the rest of us barely get in. Plus, the mess is leaking right onto our desks.
+- [38] **Misaki**: That's exactly what I found. The partition wall is practically useless for privacy; you can hear everything. Since the break room is so chaotic, people are eating at their desks, which is why there are crumbs in the keyboards.
+- [39] **Servas**: It is revealing indeed. I found that we spend a great deal of time and money seeking space and sustenance elsewhere. Twenty-five minutes for a meal is a heavy toll on one's daily peace.
+- [40] **Sakura**: Wow, the numbers are actually kind of scary! We spent 68,000 yen just renting other rooms! That's way too many pennies wasted because our own room isn't working right. We need a real fix!
+- [41] **Kenji**: That's a lot of money, @Sakura! But listen, it's not just about the money. I found out we barely have any unplanned talks anymore, and the last time someone had to say something difficult, they had to do it in front of everyone!
+- [42] **May**: @Kenji, that's exactly why we need a system. If the room is a free-for-all, people either hog it or avoid it to escape the awkwardness. We can't have "connection" in a room full of crumbs and tension.
+- [43] **Misaki**: @May, I agree. The lack of privacy is a major issue. If we can't even have a private phone call without the whole office listening, it's no wonder people are avoiding the room or feeling tense.
+- [44] **Servas**: We must remember that time is our most precious resource. When we spend nearly an hour a day just to find a hot meal, we lose the opportunity for true rest and reflection. Efficiency is a form of kindness.
+- [45] **Sakura**: @Servas, you're right! But look, we have quotes! We could spend 141,000 yen for a professional meeting setup or 96,000 yen for a kitchen. If we stop renting outside rooms, the kitchen almost pays for itself!
+- [46] **Kenji**: @Sakura, a kitchen sounds cozy, but we can't forget the privacy part! @Misaki is right; we need a place where we can actually talk without everyone listening. If we just make a kitchen, will we still be strangers?
+- [47] **May**: @Kenji, we won't be strangers if we actually have a reason to gather without it being awkward. But let's be real: a kitchen solves the crumb problem and the lunch commute. We just need a fair schedule for it.
+- [48] **Misaki**: @May, a kitchen helps with the crumbs, but it doesn't fix the noise. If we just add appliances without improving the wall, the office will still be a fishbowl. We need a solution that addresses both sound and utility.
+- [49] **Servas**: Perhaps we can find a middle path. If we create a space for nourishment, we save our time and energy. However, we must ensure it does not become a source of noise that disturbs the office's harmony.
+- [50] **Sakura**: @Misaki, but the meeting setup is more expensive! If we spend 141,000 yen, that's a lot of pennies! Why not pick the kitchen for 96,000 yen and use the saved money to fix the wall? That's a win-win!
+- [51] **Kenji**: @Sakura, that sounds like a great idea! If we can fix the wall and have a kitchen, we get the cozy vibes and the privacy we need. We can finally talk properly without everyone hearing!
+- [52] **May**: I'm on board with the kitchen and the wall fix, but only if we agree on a strict cleaning rotation. I'm not spending my breaks scrubbing someone else's lunch spills just because we have a "cozy vibe."
+- [53] **Misaki**: I can agree to that. As long as we prioritize soundproofing the wall and establishing a cleaning rule, the kitchen is a practical choice. It stops the office from becoming a dining hall and protects our privacy.
+- [54] **Servas**: It is heartening to see us reaching a consensus. By bringing our meals closer, we reclaim our time and our tranquility. Let us commit to a shared responsibility for the space, ensuring no one's spirit is burdened by the chores.
+- [55] **Sakura**: Yay! We're all agreeing! Let's make sure we write down the costs so we don't go over budget. A cozy kitchen and a quiet wall sound perfect! I'll help make the cleaning chart super colorful!
+- [56] **Kenji**: I'm so happy we're all on the same page! A cozy kitchen where we can actually bond, and a wall that lets us have private talks—that's exactly what we need to stop being strangers!
+## Round 3
+- [62] **May**: Looking at these options, A is the only one that actually solves the crumb problem and the lunch commute. But "maintained by whoever uses them" is too vague. We need a concrete, fair rotation.
+- [63] **Misaki**: @May, I agree. Option A is the most practical for the office environment, provided we fix the sound issues. If we choose A, we must ensure the noise from the kitchen doesn't disrupt our work.
+- [64] **Servas**: Indeed, the physical space is but a vessel for our well-being. Option A offers the greatest gift: the return of our time. Let us ensure the maintenance is a shared harmony, not a hidden burden.
+- [65] **Sakura**: @May, @Misaki, Option A is the cheapest too! 96,000 yen is way better than 141,000! Plus, we stop wasting 68,000 yen on outside rooms. It's the smartest way to use our pennies!
+- [66] **Kenji**: I agree that Option A is the best! If we have a place to eat and relax together, we can finally stop being strangers. Let's just make sure it's a place where we can also talk honestly!
+- [67] **May**: I'm sold on A, but let's be crystal clear: "maintained by whoever uses them" is a recipe for disaster. I want a signed agreement on a cleaning schedule so the burden doesn't just fall on the most conscientious person.
+- [68] **Misaki**: I agree with @May. A clear agreement is necessary. However, I also want to ensure that "Open Kitchen" doesn't mean "noisy hub." We must commit to keeping the volume down to protect the office's focus.
+- [69] **Servas**: A structured agreement is a wise foundation. When we clarify our duties, we remove the seeds of resentment. Let us pledge to honor each other's time and peace as we share this new sanctuary.
+- [70] **Sakura**: I can help with the agreement! We can make a big, bright chart with everyone's name on it! That way, we can see exactly who is helping and keep our pennies safe!
+- [71] **Kenji**: @Sakura, that sounds awesome! As long as we use that space to actually get to know each other and have a place for those tough conversations, I'm all in for Option A! Let's make it a friendly place!
+- [72] **May**: Since we're all in agreement on the utility and the cost, I'm happy to vote for A. Just remember, a colorful chart is only useful if people actually follow it! Let's make this fair for everyone.
+- [73] **Misaki**: I'll vote for A as well. It's the most logical choice to stop the mess from spreading into the office, provided we are mindful of the noise levels and the cleaning rules.
+- [74] **Servas**: I shall also cast my vote for Option A. By reducing our travel and reclaiming our hours, we nourish our vitality. Let us move forward with a spirit of mutual respect and shared care.
+- [75] **Sakura**: I'm voting for A too! It's the best deal for our budget, and it'll be so much fun to have a cozy spot! I'll make sure the cleaning chart is the prettiest one ever!
+- [76] **Kenji**: I'm voting for A too! Let's turn this room into a place where we can really connect and be friends. I can't wait for us to finally have a cozy spot to talk!
+- [77] **May**: It's settled then. I'm voting for Option A. Let's just make sure that "fairness" is the priority when we set up that chart, or I'll be the first one complaining!
+- [78] **Misaki**: I'm voting for Option A. As long as we are disciplined about the noise and the cleaning, it's the best solution for everyone's peace of mind. Let's make it work.
+- [79] **Servas**: I cast my vote for Option A. May we use this reclaimed time to bring more light and kindness into our workday. I am glad we have found a path that honors both our needs and our time.
+- [80] **Sakura**: I'm voting for Option A! It's the best way to save our pennies and make the room super cozy! I'll get my markers ready for that cleaning chart right now! Yay!
+- [81] **Kenji**: I'm voting for Option A! I'm so excited that we're doing this. Let's make sure we use our new cozy kitchen to really get to know each other and be there for one another!
+### Vote
+- May -> A
+- Misaki -> A
+- Servas -> A
+- Sakura -> A
+- Kenji -> A
+## Result
+- adopted: A

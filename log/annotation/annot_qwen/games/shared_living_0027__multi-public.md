@@ -1,0 +1,73 @@
+# shared_living_0027__multi-public (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a system that doesn't fracture our community. I’m worried about resentment building over time.
+- [6] **Yumi**: I agree, Asuka! I’ve heard people grumbling that the same spots always go to the same doors. I want to check if that’s actually true or just resentment.
+- [7] **Ryuji**: The morning rush is a shoving match. Where your bike ends up determines its condition by evening. I need to see the actual flow.
+- [8] **Shunichi**: I’m curious about the actual costs. Every proposal asks what it costs the building, yet nobody checks. I want to see the ledger and the station park rates.
+- [9] **Toshio**: I’m concerned about the long-term maintenance burden. I want to see the supplier’s frame trial and the treasurer’s handover file.
+- [10] **Asuka**: @Yumi, checking the sticker register and the complaint log will show if the grumbling is fact or just noise.
+- [11] **Yumi**: @Asuka, that sounds perfect! I’ll check the sticker register and the five years of minutes to see if the spots really stayed the same.
+- [12] **Ryuji**: @Asuka, I’ll check the morning departures and the rain exposure. I need to see the physical reality of the congestion and damage.
+- [13] **Shunichi**: @Asuka, fair point. I’ll stick to the ledger and the station park rates. I need hard numbers, not just feelings, to see what this actually costs us.
+- [14] **Toshio**: @Asuka, I’ll check the supplier’s frame trial and the treasurer’s handover file. I need to know the actual physical and administrative effort required to keep this running.
+- [15] **Asuka**: @Toshio, if the maintenance burden is too high, the system collapses. I need to know if the physical effort is sustainable for one person.
+- [16] **Yumi**: @Toshio, that’s a really important point! I hope the work isn’t too heavy for one person. I’m checking the minutes to see if we’ve ever reviewed this before.
+- [17] **Ryuji**: @Toshio, I’m watching the physical flow. If the racks are hard to use, the morning rush gets worse. I need to see the rain damage too.
+- [18] **Shunichi**: @Toshio, if the paperwork is a nightmare, the whole thing dies. I’m just here to make sure we don’t bankrupt the building trying to be nice.
+- [19] **Toshio**: @Shunichi, the paperwork is the quiet killer. If it’s too heavy, it just stops. I’m checking the handover file to see the real load.
+- [20] **Asuka**: @Toshio, I’ll check the complaint log and the neighbouring block’s account. I need to see how these arrangements actually fail in practice.
+- [21] **Yumi**: @Asuka, that’s a great idea! I’ll check the sticker register and the five years of minutes to see if the spots really stayed the same.
+- [22] **Ryuji**: @Asuka, I’ll check the morning departures and the rain exposure. I need to see the physical reality of the congestion and damage.
+- [23] **Shunichi**: @Asuka, the neighbouring block’s failure is a useful warning. I’ll stick to the ledger and the station park rates. I need hard numbers, not just feelings, to see what this actually costs us.
+- [24] **Toshio**: @Asuka, the complaint log shows the failure mode. I’m checking the handover file to see if the administrative load is sustainable before we commit.
+## Round 2
+- [35] **Asuka**: - **Asuka**: The complaint log shows nine unresolved issues. The neighbouring block’s charge caused arrears and absenteeism. We must avoid that.
+- [36] **Yumi**: @Asuka, I found the grumbling is real! The same flats held the covered spots for five years with zero review. Plus, daily riders actually prefer paying over equal claims.
+- [37] **Ryuji**: @Yumi, the data confirms the chaos. Four out of eleven mornings required shifting bikes. Plus, the exposed spots stay wet. We need a solution that fixes the flow.
+- [38] **Shunichi**: @Yumi, interesting. The station park charges 2,600 yen monthly, and fourteen households are waiting. Our ledger is empty for capital work. We’d need a levy to fix this properly.
+- [39] **Toshio**: @Shunichi, the ledger confirms capital work needs a levy. But the handover file shows three hours monthly just for current collections. Adding per-place billing would double that burden.
+- [40] **Asuka**: @Toshio, three hours monthly is already a burden. Adding billing risks repeating the neighbouring block’s failure. We need a system that doesn’t rely on constant enforcement.
+- [41] **Yumi**: @Toshio, that’s a lot of work! But the minutes prove the spots were never reviewed. We need a fair system that doesn’t crash the treasurer.
+- [42] **Ryuji**: @Toshio, three hours is manageable, but the physical strain isn’t. If the racks are hard to use, the morning rush gets worse. I need to see the rain damage too.
+- [43] **Shunichi**: @Toshio, three hours is a lot, but the station park charges 2,600 yen. If we don’t charge, we’re subsidizing the rich. I need to see if the money covers the hassle.
+- [44] **Toshio**: @Ryuji, the frame trial showed hoisting takes twenty seconds and both hands. That’s a daily physical toll. I’m calculating if the effort justifies the cost.
+- [45] **Asuka**: @Ryuji, the physical strain is real, but the social cost is higher. If the system is hard to use, people stop engaging. We need simplicity.
+- [46] **Yumi**: @Asuka, simplicity is key! But the minutes show the old spots were never reviewed. We need a fair system that doesn’t crash the treasurer.
+- [47] **Ryuji**: @Asuka, simplicity fails if the bike is wet or blocked. The rain data proves the current layout is broken. We need a physical fix, not just a social one.
+- [48] **Shunichi**: @Ryuji, simplicity is cheap. The station park charges 2,600 yen. If we don’t charge, we’re subsidizing the rich. I need to see if the money covers the hassle.
+- [49] **Toshio**: @Shunichi, the ledger is empty, but the physical effort is real. Twenty seconds per bike, twice a year greasing. If we add billing, the treasurer’s three hours becomes five. That’s a quiet collapse.
+- [50] **Asuka**: @Toshio, you’re right. The administrative load is unsustainable. We need a solution that minimizes both physical and bureaucratic effort to prevent the system from quietly failing.
+- [51] **Yumi**: @Asuka, I agree! We need something simple. The minutes prove the old spots were unfair, and the riders want to pay. Let’s find a fair, low-maintenance way!
+- [52] **Ryuji**: @Asuka, simplicity ignores the wet saddles and blocked exits. The physical layout is broken. We need a fix that addresses the rain and the morning congestion, not just the paperwork.
+- [53] **Shunichi**: @Ryuji, the rain is a nuisance, not a crisis. The ledger is empty, so any capital fix needs a levy. I’m just checking if the money is worth the headache.
+- [54] **Toshio**: @Ryuji, the physical layout is broken, but adding billing breaks the treasurer. I need a system that doesn’t require constant manual intervention or complex accounting.
+## Round 3
+- [60] **Asuka**: @Toshio, Option A is a trap. The neighbouring block’s arrears prove it fractures us. We need a system that doesn’t require constant enforcement or billing.
+- [61] **Yumi**: @Asuka, I agree! But the riders said they’d rather pay than be equal. Option A might work if we keep it simple. What about the lottery?
+- [62] **Ryuji**: @Yumi, the riders' preference for payment ignores the physical reality. Option C’s double-tier racks solve the rain and congestion, but the hoisting effort is a daily burden.
+- [63] **Shunichi**: @Yumi, the riders want to pay, but the ledger is empty. Option A means a levy for capital work. I need to know if the income covers the hassle.
+- [64] **Toshio**: @Shunichi, Option A adds billing to the existing three hours. That is a quiet collapse. Option C requires no accounting, only physical effort.
+- [65] **Asuka**: @Yumi, the riders' preference is irrelevant if the system collapses. Option A creates arrears and absenteeism, exactly what we must avoid. We need zero administrative burden.
+- [66] **Yumi**: @Asuka, I hear you! But the riders really want to pay. Option A feels fair, even if it’s a bit of work. I’m leaning that way!
+- [67] **Ryuji**: @Yumi, riders wanting to pay doesn't fix the wet saddles. Option C solves the rain and congestion, but the hoisting is a daily physical burden.
+- [68] **Shunichi**: @Yumi, "fair" is a luxury. The ledger is empty, so Option A means a levy. I’m checking if the income covers the headache.
+- [69] **Toshio**: @Yumi, the riders' preference is a trap. Option A adds billing to the existing three hours. That is a quiet collapse. Option C requires no accounting, only physical effort.
+- [70] **Asuka**: @Ryuji, the hoisting burden is real, but Option C eliminates the social friction and administrative collapse. It is the only choice that preserves our community without creating new enemies.
+- [71] **Yumi**: @Asuka, I get the worry! But the riders really want to pay. Option A feels fair, even if it’s a bit of work. I’m leaning that way!
+- [72] **Ryuji**: @Asuka, social friction is a symptom, not the disease. The rain and the shoving match are the disease. Option C treats the physical reality, even if the hoisting is annoying.
+- [73] **Shunichi**: @Ryuji, the hoisting is a nuisance, not a crisis. Option A generates 2,600 yen monthly. That covers the greasing and the headache. I’m voting A.
+- [74] **Toshio**: @Shunichi, the income covers the greasing, but not the collapse. Three hours becomes five. Option C requires no accounting, only physical effort. I am voting C.
+- [75] **Asuka**: @Shunichi, money doesn't buy community. Option A creates debtors and enemies. Option C is the only path that avoids the administrative collapse and social fracture we just documented. I am voting C.
+- [76] **Yumi**: @Asuka, I hear your worry! But the riders really want to pay. Option A feels fair, even if it’s a bit of work. I’m leaning that way!
+- [77] **Ryuji**: @Yumi, preference for payment doesn't fix wet saddles or blocked exits. Option C addresses the physical reality. I am voting C.
+- [78] **Shunichi**: @Yumi, "fair" is a luxury. The ledger is empty, so Option A means a levy. I’m checking if the income covers the headache.
+- [79] **Toshio**: @Yumi, the riders' preference is a trap. Option A adds billing to the existing three hours. That is a quiet collapse. Option C requires no accounting, only physical effort. I am voting C.
+### Vote
+- Asuka -> C
+- Yumi -> A
+- Ryuji -> C
+- Shunichi -> A
+- Toshio -> C
+## Result
+- adopted: C

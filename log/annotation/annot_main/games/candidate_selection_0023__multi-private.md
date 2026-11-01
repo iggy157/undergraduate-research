@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: I believe we should prioritize evidence of actual user satisfaction before deciding. I'll look into the post-occupancy review ratings and the survey findings in the older blocks to see where the real gaps are.
+- [6] **Victoria**: I agree that user experience is key. To complement that, I want to see how space is actually utilized. I will look into the booking data for specialist and general rooms and the timetable records on rooms out of service.
+- [7] **Benjamin**: It seems we are focusing heavily on the present state of the facilities. To ensure our future plans are actually feasible, I shall examine the decade of delivery schedules by project rationale and the tender records.
+- [8] **Kenji**: I want to make sure we're being realistic about the costs! I'll look into the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [9] **Shunichi**: You all seem quite focused on the buildings and the money. How quaint. I'll look into the staffing posts since the hiring freeze and the bench technicians' weekly manual routines to see who's actually doing the work.
+- [10] **Mizuki**: It seems we have a comprehensive spread of data. @Benjamin and @Kenji are covering the financial and historical side, while @Victoria and @Shunichi are looking at usage and labor. I believe this balance will serve us well.
+- [11] **Victoria**: Indeed. By combining the operational data with the financial and human elements, we can avoid making decisions in a vacuum. I hope the records reveal whether our current scheduling can actually sustain the proposed improvements.
+- [12] **Benjamin**: A most optimistic outlook, @Victoria. I merely hope the records are as honest as your intentions; history often reveals a certain... creative approach to deadlines that the current schedules might be masking.
+- [13] **Kenji**: @Benjamin, you're so mysterious! I just hope the numbers tell us the truth about the prices. I'm excited to see if what we plan actually matches what we end up paying!
+- [14] **Shunichi**: @Kenji, your enthusiasm for basic arithmetic is touching. I suspect the "truth" you're seeking is far less interesting than the reality of who is actually keeping this place from falling apart.
+- [15] **Mizuki**: Let's keep the focus on the data. While the interpersonal dynamics are amusing, the goal is a facility plan that actually works for the people. I'm curious to see if the user ratings align with the usage data.
+- [16] **Victoria**: That is a valid point, @Mizuki. If high-demand rooms have low satisfaction ratings, it suggests a critical failure in design or maintenance that we must address immediately. I am interested to see if those patterns emerge.
+- [17] **Benjamin**: Indeed, a fascinating intersection of data. I suspect we may find that the most "critical" failures are often those that were promised to be fixed three years ago, yet remain stubbornly present. Logic suggests a pattern.
+- [18] **Kenji**: I bet we'll find some surprises! If the plans from years ago didn't work out, maybe we can figure out why and do it better this time. I'm ready to dive into those records!
+- [19] **Shunichi**: @Benjamin, your cynicism is almost as predictable as @Kenji's optimism. While you all chase patterns in spreadsheets, I'll be looking for the people who are actually exhausted by these "patterns." Let's see if the data remembers them.
+- [20] **Mizuki**: Since we have all selected our data points, let's proceed. I look forward to seeing how the user feedback correlates with the operational and financial realities you all will uncover. Let's reconvene once we have the results.
+- [21] **Victoria**: I agree. Let us move forward and examine the findings. I hope the data provides a clear picture of how our space is utilized and where the scheduling pressures truly lie.
+- [22] **Benjamin**: Quite. I shall await the revelations of our research with a mixture of curiosity and a healthy dose of skepticism. Until then, let us hope the archives are in a cooperative mood.
+- [24] **Kenji**: I'm all set too! I can't wait to see what's in those tender records. Let's find out the real story behind the costs together!
+- [26] **Shunichi**: I'll be waiting. Try not to get too lost in your spreadsheets; some of us are interested in the actual human cost of these "improvements." See you in the next round.
+## Round 2
+- [38] **Mizuki**: The data is revealing. User satisfaction is highest for shared, flexible spaces, while projects benefiting only a single wing are poorly rated. Also, hazardous materials in older blocks are causing significant, recurring delays.
+- [39] **Victoria**: My findings are concerning. Specialist rooms are largely idle, yet general-purpose rooms are overcapacity. More critically, every room taken out of service for works has required expensive off-site hired space, as our current timetable cannot absorb the loss.
+- [40] **Benjamin**: It appears we have a classic case of aspiration versus reality. My records show that while mandatory repairs stay on track, "comfort" projects habitually slip by a year or more. We are quite adept at missing our targets.
+- [41] **Kenji**: Wow, you guys found some big problems! I found out that mechanical and plant costs have jumped by a fifth! Also, we're buying AV gear but not saving any money to replace it later. That's not good!
+- [42] **Shunichi**: It's almost poetic. We have technicians wasting hours on manual window-opening because the equipment is obsolete, yet we've left front-of-house posts empty. We're ignoring the people who actually keep the lights on.
+- [43] **Mizuki**: @Victoria, your point about the lack of buffer space is critical. If we choose a plan that takes rooms out of service, we must account for those off-site costs, or the budget will collapse.
+- [44] **Victoria**: Exactly, @Mizuki. We cannot ignore the hidden costs of displacement. If we prioritize a plan that disrupts the timetable without a strategy for room replacement, we are simply shifting the financial burden elsewhere.
+- [45] **Benjamin**: A most astute observation, @Victoria. When combined with my finding that non-mandatory projects habitually slip, we risk a delightful scenario where we pay for off-site space for a year longer than planned. Logic suggests we avoid "comfort" upgrades.
+- [46] **Kenji**: @Benjamin, that sounds too sad! But @Victoria is right about the hidden costs. If prices for plant equipment are going up and we're not saving for replacements, we might run out of money before we even finish!
+- [47] **Shunichi**: @Benjamin, your "logic" is just a fancy word for giving up. The real issue isn't just the budget; it's that we're paying people to act like manual levers because we're too cheap to update the equipment.
+- [48] **Mizuki**: @Shunichi, I agree that the human cost is unacceptable. If we can find a plan that updates obsolete equipment to reduce manual labor while creating shared, flexible spaces, we address both satisfaction and efficiency.
+- [49] **Victoria**: That would be the ideal outcome, @Mizuki. However, we must ensure such a plan doesn't inadvertently paralyze our teaching capacity. Any improvement that requires taking rooms offline must be weighed against the current lack of available space.
+- [50] **Benjamin**: Indeed, the ideal is often the enemy of the feasible. If we pursue a plan that attempts to solve everything at once, we shall likely find ourselves in a perpetual state of construction, paying for off-site rentals indefinitely.
+- [51] **Kenji**: @Benjamin, we can't just stop improving things! Maybe we can find a plan that's small and smart, so it doesn't take too many rooms away and stays within the real market prices I found!
+- [52] **Shunichi**: @Kenji, for once, we agree. A "small and smart" plan is only smart if it stops treating our staff like relics. If the plan doesn't automate those manual routines, it's just more window dressing.
+- [53] **Mizuki**: We have a clear set of constraints: we need a plan that avoids hazardous older blocks, minimizes room displacement, addresses obsolete equipment to support staff, and prioritizes shared utility over isolated benefits. Let's see which candidates fit these criteria.
+- [54] **Victoria**: I agree with those constraints, @Mizuki. We must be particularly vigilant about the displacement issue; the data proves we have no internal capacity to absorb room losses without incurring significant external costs.
+- [55] **Benjamin**: And let us not forget the "optimism bias" in our scheduling. If a plan is framed as a luxury or a comfort upgrade, we should assume it will arrive late and over budget. Precision is our only defense.
+- [56] **Kenji**: I'll keep a close eye on the budget! If the plan involves a lot of mechanical work, we have to remember those prices are way up. Let's pick something that's honest about the costs!
+- [57] **Shunichi**: Let's just hope the candidates aren't as delusional as our previous planning cycles. If a plan claims to "improve" things while adding more manual chores for the staff, I'll be the first to veto it.
+## Round 3
+- [63] **Mizuki**: Looking at the options, Plan D addresses the obsolete equipment @Shunichi mentioned and benefits shared labs, which aligns with my findings on user satisfaction. However, we must check if it causes the room displacement @Victoria fears.
+- [64] **Victoria**: Plan D is the most risky regarding displacement. Upgrading ventilation and layouts usually requires closing labs entirely. Given our lack of buffer space, the off-site rental costs for teaching labs would be astronomical.
+- [65] **Benjamin**: Plan D is a textbook example of a project that will slip. It involves mechanical plant—which @Kenji noted is rising in cost—and is essential, yet complex. We would be inviting a budgetary catastrophe.
+- [66] **Kenji**: @Benjamin is right! Plan D has all that mechanical stuff that's getting way more expensive. If we pick that, we might run out of money before the labs are even finished! What about Plan A?
+- [67] **Shunichi**: @Kenji, Plan A is just a fancy lounge. It does nothing for the people actually working. Plan D is the only one that stops our technicians from acting like human machinery. We can't keep ignoring the labor cost.
+- [68] **Mizuki**: @Shunichi, I understand the urgency, but we cannot ignore the risk of total failure. If Plan D causes a budget collapse or halts teaching, it helps no one. Plan B offers shared utility and modern equipment without the same structural risks.
+- [69] **Victoria**: Plan B also risks displacement if it converts existing rooms, but it is less invasive than Plan D. However, Plan A utilizes an underused hall, meaning it creates capacity without taking any active rooms out of service.
+- [70] **Benjamin**: Plan A is the only option that avoids the "displacement trap" @Victoria identified. It transforms an underused space rather than disrupting active ones, making it the only logically sound choice for our current constraints.
+- [71] **Kenji**: I agree with @Benjamin and @Victoria! Plan A uses a space that's already underused, so it won't cost us extra for off-site rentals. Plus, it doesn't have the expensive mechanical plant costs of Plan D!
+- [72] **Shunichi**: @Benjamin, your "logic" is just a convenient way to avoid doing anything difficult. Plan A is a cosmetic band-aid. If we prioritize a lounge over the people struggling in the labs, we're just polishing the deck chairs.
+- [73] **Mizuki**: @Shunichi, I hear you, but we must be pragmatic. Plan A provides a shared resource that users actually value, without the hazardous material risks of ground-floor partitions or the budget volatility of Plan D. It is the safest, most beneficial choice.
+- [74] **Victoria**: I must agree with @Mizuki. While Plan D is necessary in the long term, our current timetable cannot absorb the loss of labs. Plan A is the only option that improves the campus without risking a financial and operational crisis.
+- [75] **Benjamin**: It is a rare pleasure to see us in such agreement. Plan A is the only candidate that respects both the budget and the calendar, avoiding the inevitable delays of more ambitious, "comfort-driven" delusions.
+- [76] **Kenji**: I'm with you all! Plan A is the smartest move because it's realistic. It doesn't risk the huge price jumps I saw in the tender records, and it won't leave us broke! Let's go with Plan A!
+- [77] **Shunichi**: You've all managed to reach a consensus on the most cowardly option. Fine. If you're more comfortable with a fancy lounge than fixing a broken system, so be it. I'll vote for D, but don't come crying to me when the labs fail.
+- [78] **Mizuki**: It is a difficult choice, but we must prioritize the stability of the university's operations. Plan A is the only one that guarantees a positive outcome without risking a systemic collapse. I vote for Plan A.
+- [79] **Victoria**: I must prioritize the operational reality of our timetable. Since Plan A creates new capacity without displacing existing services or incurring off-site costs, it is the only responsible choice. I vote for Plan A.
+- [80] **Benjamin**: Given the evidence, any other choice would be a gamble with the calendar and the budget. I prefer a predictable success over a romanticized disaster. I vote for Plan A.
+- [81] **Kenji**: I'm voting for Plan A too! It's the only one that doesn't risk those scary price jumps or hidden costs. Let's pick something we can actually afford to finish! I vote for Plan A.
+- [82] **Shunichi**: I'll vote for Plan D. I refuse to endorse a plan that treats staff exhaustion as an acceptable cost of "stability." Enjoy your lounge while the labs crumble around you. I vote for Plan D.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> D
+## Result
+- adopted: A

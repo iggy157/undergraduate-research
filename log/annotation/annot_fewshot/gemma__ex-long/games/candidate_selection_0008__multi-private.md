@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Hello everyone. I am very happy to be part of this panel. I hope we can work together harmoniously to find the best ERP replacement for our company. I look forward to our discussion.
+- [6] **Ryuji**: It is a pleasure to meet you all. I believe a cautious and thorough evaluation is necessary here. I look forward to analyzing the data to ensure we make a rational choice for the company.
+- [7] **May**: Hi everyone! I'm so excited to be here. Let's make this process a bit more lively, shall we? I'm looking forward to seeing what we uncover and picking a winner that actually works!
+- [8] **Misaki**: Hello. I agree that a thorough process is necessary. I look forward to working with you all to find a solution that is sustainable for the company.
+- [9] **Benjamin**: Indeed, a most auspicious beginning. While enthusiasm is a delightful catalyst, I believe a measured approach to the archives will serve us best. I look forward to uncovering the truths hidden within our records.
+- [10] **Midori**: I believe it is important to understand how we handle crises and changes. I would like to look into the support ownership during last winter's outage and the board minutes on capital and operating requests.
+- [11] **Ryuji**: I want to ensure the new system is compatible with our physical reality. I will examine the yard devices and the 2021 scheduling trial, as well as the depot calendar and the peak-season cutover.
+- [12] **May**: I'm curious about how things actually hold up over time. I'll dive into the five years of renewal invoices and the upgrade history of the dispatch tool. Let's see if we've been playing a game of patch-work!
+- [13] **Misaki**: I want to understand the human impact of our transitions. I will look into administrator retirements and hiring times, as well as the depot supervisors and the last rollout.
+- [14] **Benjamin**: A most comprehensive spread of interests. To ensure our financial horizons are not obscured by optimistic projections, I shall examine the board minutes on capital and operating requests and the five years of renewal invoices.
+- [15] **Midori**: It seems we have a very balanced approach. I am glad to see that we are looking at everything from the financial side to the human element. I believe this will help us make a fair decision.
+- [16] **Ryuji**: I agree. By covering the operational, financial, and human aspects, we minimize the risk of overlooking a critical failure point. I believe this breadth of investigation is the most rational way to proceed.
+- [17] **May**: Exactly! We've got the numbers, the people, and the hardware all covered. I can't wait to see if the records are as boring as Benjamin expects or if there's some real drama in there!
+- [18] **Misaki**: I believe the breadth of our research will provide the necessary clarity. I am interested to see if the operational reality matches the official plans.
+- [19] **Benjamin**: Drama is often the byproduct of poor planning, May. I suspect the records will reveal a rather mundane tragedy of administrative oversight. I shall await the revelations with a measured curiosity.
+- [20] **Midori**: I agree with Benjamin that planning is key. I hope our findings allow us to avoid past mistakes and create a supportive environment for everyone. I am ready to see what we discover.
+- [22] **Ryuji**: I concur. A rational decision requires a foundation of evidence rather than hope. I am ready to review the findings and assess how they align with our operational constraints.
+- [24] **May**: I'm all set too! Let's hope the data gives us something juicy to talk about. I'm ready to dive in and see what's really going on behind the scenes!
+- [26] **Misaki**: I am also ready. I hope the records provide a clear picture of our capacity to handle this change. I look forward to the results.
+- [28] **Benjamin**: Since we have reached a consensus on our respective areas of inquiry with such remarkable efficiency, I shall also declare myself ready. Let us see if the archives are as cooperative as our conversation has been.
+## Round 2
+- [40] **Midori**: My findings are quite concerning. It seems that during last winter's outage, support was scattered across four suppliers, leaving the issue unowned for two days. I worry we are lacking clear accountability when things break.
+- [41] **Ryuji**: My findings confirm a precarious operational reality. Our depots run without freeze windows during peak season, and a previous cutover attempt caused significant disruption. Furthermore, our yard hardware is outdated and previous scheduling tools were quickly abandoned for spreadsheets.
+- [42] **May**: Oh, it's just as I suspected! Our dispatch tool is basically a dinosaur—we've skipped three upgrades because we're too busy to test them. And those renewal invoices? The add-ons are just creeping up in price every year. How charming!
+- [43] **Misaki**: The human capacity is even more fragile than I feared. We are losing half of our internal system knowledge to retirement, and the hiring process for those roles is incredibly slow. We are effectively operating on a skeleton crew.
+- [44] **Benjamin**: It appears we are all uncovering different chapters of the same cautionary tale. My review of the board minutes reveals a curious appetite for trimming capital requests while operating costs glide through unnoticed, a most convenient sleight of hand.
+- [45] **Midori**: @Benjamin, that is a very interesting point. If capital requests are being trimmed while operating costs rise, it suggests we are neglecting long-term investment for short-term fixes. This might be why our support is so fragmented.
+- [46] **Ryuji**: @Midori, that is a logical connection. However, the most immediate risk is the physical layer. If we implement a system that cannot survive a peak-season schedule or integrate with our aging yard hardware, the financial structure becomes irrelevant.
+- [47] **May**: @Ryuji, you're so focused on the hardware! But look at the bigger picture. We're letting systems rot in place and paying a "convenience tax" on add-ons. We're basically paying more for things that are getting older!
+- [48] **Misaki**: @May, the cost is one thing, but the ability to actually use the system is another. If we don't have the people to maintain it or the supervisors' buy-in, the most expensive tool is still useless.
+- [49] **Benjamin**: @Misaki, you hit upon the central irony. We are effectively paying a premium for the privilege of owning tools that no one knows how to operate. It is a most expensive form of obsolescence.
+- [50] **Midori**: @Misaki, I completely agree. It's heartbreaking to think of the stress on our remaining staff. I'm worried that if we don't find a vendor with a very clear ownership model, we'll just repeat that two-day silence from last winter.
+- [51] **Ryuji**: @Midori, accountability is necessary, but it is secondary to functionality. If the system crashes because it cannot handle the peak-season volume or the yard devices, no amount of clear ownership will move the freight.
+- [52] **May**: @Ryuji, you're such a pessimist! But honestly, if we keep picking tools that "don't fit" and then just use spreadsheets, we're just paying for expensive wallpaper. We need something that actually evolves, not another dinosaur for the collection!
+- [53] **Misaki**: @May, evolution requires a team capable of managing it. If we pick a complex system while our internal knowledge is retiring and our supervisors are ignoring standard training, we are just setting the remaining staff up for failure.
+- [54] **Benjamin**: @Misaki, your concern for the human element is most poignant. We are essentially designing a cathedral for a congregation that has already departed. It would be a tragedy to purchase a sophisticated engine only to find we have no one left who knows how to turn the key.
+- [55] **Midori**: @Benjamin, that is a very sad way to put it. I feel we must find a vendor that doesn't just provide a tool, but a partnership with clear accountability and a plan that stays realistic as we grow.
+- [56] **Ryuji**: @Midori, a partnership is a fine sentiment, but it must be grounded in technical reality. We need a vendor whose system is robust enough to handle our peak-season chaos and compatible with our actual yard hardware.
+- [57] **May**: @Ryuji, you're still stuck on the hardware! Let's be real: we need a vendor who won't just sell us a shiny box and leave us to patch it together for a decade. No more "aging in place" or expensive add-on traps!
+- [58] **Misaki**: We need a vendor that prioritizes simplicity and ease of adoption. If the system is too complex for our stretched staff to manage or for supervisors to follow, it will be abandoned just like the last rollout.
+- [59] **Benjamin**: It appears we are all seeking a sanctuary from our respective nightmares. Whether it is the ghost of a two-day outage or the specter of retiring experts, we must find a candidate whose costs are as transparent as their functionality.
+## Round 3
+- [65] **Midori**: Looking at the options, Meridian Systems seems the most harmonious. A fixed configuration and a regional service team could provide the clear ownership and stability we need to avoid another outage crisis.
+- [66] **Ryuji**: I disagree. Meridian's fixed configuration may not account for our specific yard hardware and peak-season volatility. Anchor Industrial Software is more rational; having an engineering team present during rollout is essential for surviving our actual depot conditions.
+- [67] **May**: @Ryuji, Anchor is just asking for more "aging in place"! Putting it on our own servers is exactly how we ended up with a dinosaur dispatch tool. I'm leaning toward Meridian; a hosted suite means they handle the updates, not us!
+- [68] **Misaki**: @May, I agree that hosted is better for our stretched staff. However, Meridian's fixed configuration might be too rigid for supervisors who already ignore standard training. I'm concerned about how these options land on our skeleton crew.
+- [69] **Benjamin**: @Misaki, your caution is well-placed. However, we must also consider the financial architecture. Corvus Platform, with its modular licensing, is a siren song for the board's appetite for low capital costs, yet it is precisely the model that invites those creeping, separate add-on fees I found so distasteful.
+- [70] **Midori**: @Benjamin, I agree. Corvus seems like a recipe for the same fragmented support we saw last winter, with different modules likely pointing fingers at each other. I still feel Meridian is the safest path for accountability.
+- [71] **Ryuji**: @Midori, safety is an illusion if the system fails on the depot floor. A hosted suite like Meridian is only as good as its connection to our outdated yard devices. Anchor's on-site engineering is the only way to ensure the system survives our peak-season reality.
+- [72] **May**: @Ryuji, you're obsessed with the floor, but you're ignoring the ceiling! Anchor is just a fancy way of saying "we'll build it and then you're stuck with it on your own racks." No thank you! I'm sticking with Meridian.
+- [73] **Misaki**: @Ryuji, on-site engineering is helpful, but it's a temporary fix. Once the engineers leave, the burden falls on our skeleton crew. Tessera's partner-led training might be better, but a configurable platform could be too complex for our current capacity.
+- [74] **Benjamin**: @Misaki, a partner-led training program is often a polished facade for a system that requires constant tinkering. Tessera's "application marketplace" is merely a modern euphemism for the same add-on traps that have plagued our renewal invoices. It is a buffet of hidden costs.
+- [75] **Midori**: @Benjamin, you make a strong point about the hidden costs. I'm worried that Tessera and Corvus would just lead us back to that same fragmented ownership and shifting plans. Meridian's hosted suite feels much more stable.
+- [76] **Ryuji**: @Midori, stability in the office is not stability in the yard. A hosted suite is a black box; if it cannot communicate with our old scanners during a peak-season rush, the freight stops. Anchor is the only choice that prioritizes the physical reality.
+- [77] **May**: @Ryuji, you're just describing a different kind of disaster! If we go with Anchor, we're just buying a new dinosaur that we'll be too scared to upgrade in five years. Meridian is the only one that keeps us from rotting in place!
+- [78] **Misaki**: @Ryuji, the physical reality is important, but we cannot ignore that our internal knowledge is disappearing. Anchor's on-site team is a short-term relief, but Meridian's hosted model removes the long-term maintenance burden from our exhausted staff.
+- [79] **Benjamin**: @Ryuji, your devotion to the depot floor is admirable, yet you risk purchasing a bespoke anchor that will simply sink us in five years. Meridian offers a predictable financial and operational horizon, avoiding the modular traps of Corvus and the marketplace whims of Tessera.
+- [80] **Midori**: I feel we have found a common ground. Meridian Systems offers the best balance of clear accountability and reduced burden on our staff. It protects us from fragmented support and hidden costs. I vote for Meridian Systems.
+- [81] **Ryuji**: I cannot agree. Prioritizing office convenience over depot functionality is a mistake. A system that fails during peak season is a total failure, regardless of its hosting model. I vote for Anchor Industrial Software.
+- [82] **May**: @Ryuji, you're just choosing a different way to fail! I'm not letting us buy another system that we'll be too terrified to touch in a few years. Meridian is the only way to stop the rot. I vote for Meridian Systems!
+- [83] **Misaki**: I agree with Midori and May. While Ryuji's concerns are valid, we cannot ignore our lack of internal capacity. Meridian's hosted model is the only one that doesn't leave our skeleton crew to manage the burden. I vote for Meridian Systems.
+- [84] **Benjamin**: It is a rare pleasure to see such a decisive alignment, despite Ryuji's valiant defense of the depot floor. Meridian avoids the modular traps of Corvus and the marketplace whims of Tessera, offering a financial horizon that is actually predictable. I vote for Meridian Systems.
+### Vote
+- Midori -> A
+- Ryuji -> D
+- May -> A
+- Misaki -> A
+- Benjamin -> A
+## Result
+- adopted: A

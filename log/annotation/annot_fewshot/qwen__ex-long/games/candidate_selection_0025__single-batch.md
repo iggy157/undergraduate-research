@@ -1,0 +1,73 @@
+# candidate_selection_0025__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about the roads. Last winter, the closures north of the river disrupted everything.
+- [6] **Jonathan**: The location of our branches dictates who can actually reach us. We must consider access.
+- [7] **Rin**: Why do we keep guessing? We have records of what worked before. Let’s look at the past.
+- [8] **Benjamin**: The budget looks fine now, but I suspect it will crumble by year two. I need to see the terms.
+- [9] **Minako**: We are adding more work, but do we have the skills? I need to check the staff roster.
+- [10] **Shizue**: @Rin, you are right. The past is a good teacher. I will check the winter road closures.
+- [11] **Jonathan**: @Shizue, agreed. I will look at the bus links in the outer wards to see who is cut off.
+- [12] **Rin**: @Benjamin, I will check the two programmes begun six years ago. We need to know what actually stuck.
+- [13] **Benjamin**: @Minako, I will examine the county grant terms and the endowment. The funding shape is the real risk.
+- [14] **Minako**: @Rin, I will review the volunteer register and supervision training. We need to know who can lead.
+- [15] **Shizue**: I will also look at the attendance sheets from former outreach stops. We need to know who showed up.
+- [16] **Jonathan**: I will also check the evening room bookings and remote catalogue use. When do people actually need us?
+- [17] **Rin**: I will also look at the running and equipment lines last year. I want to see the real costs.
+- [18] **Benjamin**: I will also check the quoted delivery windows from suppliers. Delays kill budgets.
+- [19] **Minako**: I will also check the neighbourhood associations and tool certification. Who is actually qualified?
+- [20] **Shizue**: I am ready to see what the data says. Let us hope it is kind.
+- [21] **Jonathan**: I will wait for the findings. The geography is the first constraint.
+- [22] **Rin**: I am excited! Let’s see if the old ideas were really bad or just forgotten.
+- [23] **Benjamin**: I will review my findings before we vote. Logic must guide us.
+- [24] **Minako**: I will stick with my two choices. We cannot hire for skills we do not have.
+## Round 2
+- [35] **Shizue**: The roads were closed eleven days, but the community halls kept their evening timetables. They are resilient.
+- [36] **Jonathan**: The outer wards lost their bus link. Residents face an hour's round trip to any staffed counter.
+- [37] **Rin**: The digitisation project failed, but the partner-run evening groups still meet unaided. People want connection.
+- [38] **Benjamin**: The grant only pays for twelve months. After that, the flat budget carries the cost. That is a trap.
+- [39] **Minako**: We have retired tradespeople, but no one on payroll is trained to supervise outside facilitators.
+- [40] **Shizue**: @Jonathan, that is a serious barrier. If they cannot get here, we are not serving them.
+- [41] **Jonathan**: @Shizue, exactly. The geography is fixed. We must go to them or find a way that doesn't rely on buses.
+- [42] **Rin**: @Minako, that is a gap. But the associations are already running their own sessions. They have the skills.
+- [43] **Benjamin**: @Rin, the partner groups are a good sign. But if the grant ends, who pays for the facilitators?
+- [44] **Minako**: @Benjamin, the associations staff their own sessions. They are self-sufficient. We just need to support them.
+- [45] **Shizue**: @Rin, the attendance sheets show forty visitors a session in the outer wards. That is high demand.
+- [46] **Jonathan**: @Shizue, high demand, but no access. A mobile service could bridge that gap without relying on buses.
+- [47] **Rin**: @Jonathan, a mobile service? That sounds like the outreach stops. But the equipment lines overran by a third.
+- [48] **Benjamin**: @Rin, the vehicle costs are a risk. But the grant covers the first year. We just need to plan for year two.
+- [49] **Minako**: @Benjamin, the mobile service needs drivers and staff. Do we have the skills? The register is thin.
+- [50] **Shizue**: I am leaning towards a service that reaches the outer wards. The community halls are a good model.
+- [51] **Jonathan**: I agree. A mobile branch could visit the outer wards on a fixed schedule. It solves the access problem.
+- [52] **Rin**: I like the idea of going to them. But we must be careful with the costs. The equipment overran last year.
+- [53] **Benjamin**: I will weigh the grant terms against the mobile service costs. It is a tight fit, but possible.
+- [54] **Minako**: I will check if the volunteer register can cover the mobile service. We need reliable people.
+## Round 3
+- [60] **Shizue**: The candidates are here. A is a mobile branch. B is a maker workshop. C is language circles. D is a digital archive.
+- [61] **Jonathan**: @Shizue, A directly addresses the access issue I found. The outer wards need a service that comes to them.
+- [62] **Rin**: @Jonathan, A is like the outreach stops. But the equipment costs were high. Is it worth the risk?
+- [63] **Benjamin**: @Rin, the grant covers the first year. The risk is in year two. But the demand is real.
+- [64] **Minako**: @Benjamin, the mobile service needs staff. The volunteer register has retired tradespeople, but not drivers.
+- [65] **Shizue**: @Minako, the community halls have staff. We could partner with them. They are already running evening sessions.
+- [66] **Jonathan**: @Shizue, that is a good idea. The halls are resilient. They can host the mobile branch.
+- [67] **Rin**: @Jonathan, the partner-run groups are a good model. But the digitisation project failed. We must be careful.
+- [68] **Benjamin**: @Rin, the digitisation project was a one-off. The mobile service is ongoing. The grant supports it.
+- [69] **Minako**: @Benjamin, the ongoing cost is the problem. But the associations are self-sufficient. We can learn from them.
+- [70] **Shizue**: I think A is the best choice. It reaches the people who need us most. The community halls are ready.
+- [71] **Jonathan**: I agree. A solves the access problem. The outer wards are cut off. We must go to them.
+- [72] **Rin**: I am still worried about the costs. But the demand is high. Let’s try A.
+- [73] **Benjamin**: I will vote for A. The grant covers the first year. We can plan for year two.
+- [74] **Minako**: I will vote for A. The associations can help. We have the community support.
+- [75] **Shizue**: I am happy we are all leaning towards A. It is the right choice for our community.
+- [76] **Jonathan**: I concur. A is the logical solution to the access problem. I vote for A.
+- [77] **Rin**: I vote for A. Let’s hope the costs stay under control.
+- [78] **Benjamin**: I vote for A. The data supports it. The demand is real.
+- [79] **Minako**: I vote for A. The community is ready. We have the support.
+### Vote
+- Shizue -> A
+- Jonathan -> A
+- Rin -> A
+- Benjamin -> A
+- Minako -> A
+## Result
+- adopted: A

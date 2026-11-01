@@ -1,0 +1,73 @@
+# shared_living_0026__single-online (shared_living)
+
+## Round 1
+- [5] **Mio**: We need to fix the fee structure. I’m worried we’re guessing again. What data should we check first?
+- [6] **Jonathan**: I’d like to understand why some members hesitate to commit. What records show their attendance patterns?
+- [7] **Takumi**: I want to see who actually shows up versus who just pays. Let’s check the sign-in sheets and the rota.
+- [8] **Toshio**: Before we pick a structure, I need to know the true cost of collecting it. Who has the treasurer’s logged hours?
+- [9] **Kenji**: I’m worried about how new members feel. Let’s look at the taster forms and the mid-year joiner records.
+- [10] **Mio**: @Jonathan, that hesitation is real. But @Takumi, checking the sign-in sheets will show us exactly who is carrying the load.
+- [11] **Jonathan**: @Mio, I agree. But @Toshio, if the collection process is too heavy, it might discourage people from joining in the first place.
+- [12] **Takumi**: @Toshio, fair point. But if the work is uneven, the fee structure won’t fix it. We need the facts first.
+- [13] **Toshio**: @Takumi, the facts are the hours. If chasing money takes six hours a month, no structure is sustainable. I need that log.
+- [14] **Kenji**: @Toshio, I hear you. But @Mio, if we only look at the ledger, we might miss why people are hesitant to join in the first place.
+- [15] **Mio**: @Kenji, you’re right. I’ll check the ledger and the bank statements to see what we can actually count on.
+- [16] **Jonathan**: @Mio, the ledger shows costs, but not the hesitation. I’ll check the weekday turnout and the winter social notes to understand the mood.
+- [17] **Takumi**: @Mio, the ledger is just the past. I need the sign-in sheets and the rota to see who is actually doing the work.
+- [18] **Toshio**: @Mio, the ledger is necessary, but I need the treasurer’s logged hours and the bank statements to understand the collection burden.
+- [19] **Kenji**: @Mio, I’ll check the taster forms and the mid-year joiner records to see why people hesitate to commit.
+- [20] **Mio**: I’ll look into the ledger and the bank statements. I need to know exactly what we can count on before we set any numbers.
+- [21] **Jonathan**: I’ll check the weekday turnout and the winter social notes. I need to understand why people are hesitating before we decide anything.
+- [22] **Takumi**: I’ll check the sign-in sheets and the rota. I need to see who is actually doing the work before we argue about fees.
+- [23] **Toshio**: I’ll check the treasurer’s logged hours and the bank statements. I need to know the true cost of collection before we commit to a method.
+- [24] **Kenji**: I’ll check the taster forms and the mid-year joiner records. I need to see why people hesitate to commit before we decide anything.
+## Round 2
+- [35] **Mio**: #### Turn 1 of 4
+- [36] **Jonathan**: - **Mio**: The ledger shows seventy percent of costs are fixed, like hall hire. But a third of renewals needed chasing.
+- [37] **Takumi**: - **Jonathan**: That hesitation is real. The quieter members feel uneasy about the cost per visit.
+- [38] **Toshio**: - **Toshio**: The hours confirm it. Chasing individual payments took six hours a month. A yearly collection took barely one.
+- [39] **Kenji**: - **Kenji**: Nine tasters refused a whole year upfront. Eleven mid-year joiners needed hand-worked calculations.
+- [40] **Mio**: - **Mio**: @Toshio, that six-hour figure is terrifying. @Kenji, if people refuse a whole year upfront, how do we collect without that burden?
+- [41] **Jonathan**: - **Jonathan**: @Mio, the winter social notes show they fear the math. @Takumi, does the turnout data confirm this fear is driving them away?
+- [42] **Takumi**: - **Takumi**: @Jonathan, the sign-in sheets show a quarter of us do two-thirds of the work. Eighteen people never show up.
+- [43] **Toshio**: @Takumi, that imbalance is real, but the hours prove the collection method is the bottleneck. We need a structure that minimizes chasing.
+- [44] **Kenji**: @Mio, the taster forms say they won’t commit to a whole year at once. @Toshio, that’s why the mid-year joiners needed hand-worked calculations.
+- [45] **Mio**: - **Mio**: @Toshio, if yearly collection is so much lighter, why did we ever move away from it? @Kenji, can we make that easier for newcomers?
+- [46] **Jonathan**: - **Jonathan**: @Mio, the hesitation isn't just about money; it's about feeling unwelcome. @Takumi, does the turnout drop prove that?
+- [47] **Takumi**: @Jonathan, the turnout drop proves people stopped feeling it was theirs. But the rota shows the same nine doing everything. We need to fix the work, not just the fee.
+- [48] **Toshio**: @Mio, we didn’t move away; we drifted. The log proves yearly collection is the only sustainable path. We must stop chasing individual payments.
+- [49] **Kenji**: @Mio, the forms say they fear the commitment, not the math. @Toshio, if we make the entry point smaller, we might keep the yearly collection simple.
+- [50] **Mio**: @Toshio, I hear you. But @Kenji, if we keep the yearly fee, how do we stop those tasters from walking away? We need a bridge.
+- [51] **Jonathan**: @Mio, the bridge is clarity. If they know exactly what they are paying for, the fear of the unknown disappears.
+- [52] **Takumi**: @Mio, a bridge won’t fix the fact that eighteen people pay for nothing. We need to address the free-riders before we worry about the newcomers.
+- [53] **Toshio**: @Takumi, the free-riders are a symptom of the current chaos. A simple, predictable yearly fee removes the friction that lets people drift.
+- [54] **Kenji**: @Takumi, I hear you, but @Toshio is right. If we make the entry point smaller, we keep the yearly collection simple.
+## Round 3
+- [60] **Mio**: - **Mio**: So, what are the actual options we are choosing between? I need to see the full list before I can decide.
+- [61] **Jonathan**: - **Jonathan**: I am listening. Please share the options so we can weigh them against the hesitation I observed.
+- [62] **Takumi**: - **Takumi**: Lay them out. I need to see if any option actually forces those eighteen ghosts to pay up or leave.
+- [63] **Toshio**: - **Toshio**: I am ready. I need to see which option eliminates the monthly chasing burden I found in the logs.
+- [64] **Kenji**: - **Kenji**: I’m ready too. I need to see which option lets newcomers drift in without the scary whole-year commitment.
+- [65] **Mio**: - **Mio**: @Jonathan, I see the options now. Option A is a flat annual fee. It sounds simple, but does it solve the newcomer hesitation?
+- [66] **Jonathan**: - **Jonathan**: @Mio, it solves the collection burden, but it ignores the fear of a whole-year commitment. It might push the tasters away.
+- [67] **Takumi**: - **Takumi**: @Mio, a flat fee means those eighteen ghosts pay the same as the nine who do everything. That is exactly the unfairness I am fighting.
+- [68] **Toshio**: -Toshio: @Takumi, the ghosts are a symptom of the current chaos. A simple, predictable yearly fee removes the friction that lets people drift.
+- [69] **Kenji**: @Mio, Option B lets them choose a smaller level. That might ease the fear of a whole year, but it adds complexity to the books.
+- [70] **Mio**: - **Mio**: @Kenji, complexity is exactly what scares people off. @Toshio, does Option C’s small base fee make the yearly collection easier for you?
+- [71] **Jonathan**: - **Jonathan**: @Mio, Option C is dangerous. The summer outings proved that charging per event makes people feel like guests, not members.
+- [72] **Takumi**: - **Takumi**: @Jonathan, I agree. But @Mio, if the base fee is low, the ghosts still pay nothing for the work. It doesn't fix the imbalance.
+- [73] **Toshio**: -Toshio: @Mio, Option C is the worst. It returns us to the six-hour monthly chasing nightmare. I cannot support it.
+- [74] **Kenji**: - **Kenji**: @Toshio, I agree. But @Mio, if we pick A, we lose the bridge for newcomers. We need a way to keep it simple but welcoming.
+- [75] **Mio**: - **Mio**: @Kenji, I hear you. But @Toshio, the data is clear: chasing is unsustainable. I’m leaning toward A, but I need your final say.
+- [76] **Jonathan**: - **Jonathan**: @Mio, I agree. The hesitation is about commitment, not cost. A flat fee is the only way to keep the door open without the friction.
+- [77] **Takumi**: - **Takumi**: @Mio, I hate it, but the data proves C is a trap. I’ll accept A, but we must fix the rota separately.
+- [78] **Toshio**: @Mio, I support A. It is the only option that respects the hours I logged. Let us vote.
+- [79] **Kenji**: @Mio, I support A. It keeps the books simple and the door open. Let’s vote.
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> A
+- Toshio -> A
+- Kenji -> A
+## Result
+- adopted: A

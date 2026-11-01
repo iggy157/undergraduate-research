@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I wonder if the ground here will be tricky for the diggers. Has anyone checked how long the work usually takes?
+- [6] **May**: Minato, you’re thinking about the build, but I’m staring at the ledger. Who’s paying for the weeds and the water bills in year three?
+- [7] **Shizue**: I worry about the drawings looking lovely, but the work crumbling soon. Let’s see what our past projects look like today, not just the plans.
+- [8] **Victoria**: I’m less concerned with the ribbon-cutting. I need to know who actually maintains this place daily. Who is on the groundskeeping roll?
+- [9] **Shunichi**: You all focus on money and maintenance. I care about reality. Does the design actually fit how people use this park daily?
+- [10] **Minato**: @Shunichi, that sounds important. I’m just worried the ground might be too soft for the machines.
+- [11] **May**: @Shunichi, pretty words don’t pay the bills. I’m checking the upkeep ledger to see if this plan is just a future money pit.
+- [12] **Shizue**: @May, I understand your worry. But I’d rather look at the condition of our earlier works to see if they still stand strong.
+- [13] **Victoria**: @Shizue, crumbling work is a symptom. I need the root cause. Who is actually staffing the daily care?
+- [14] **Shunichi**: @Victoria, staffing is just one variable. I need to know how the ground actually behaves under pressure. I’m checking the drainage callouts and August heat readings.
+- [15] **Minato**: @Shunichi, the heat sounds scary. I hope the ground stays firm for the diggers.
+- [16] **May**: @Minato, soft ground is a construction headache, not a budget crisis. I’m hunting for the long-term upkeep costs that always sneak in later.
+- [17] **Shizue**: @Minato, I hope the ground holds firm for you. I’m choosing to look into the condition of our earlier works and the terms of the regional habitat fund.
+- [18] **Victoria**: @Shunichi, heat affects people, not just soil. I’m checking the groundskeeping roll and bought-in services to see who actually shows up.
+- [19] **Shunichi**: @Shizue, checking the habitat fund is smart. I’m also pulling the timed counts of weekday crossings to see if the design matches actual foot traffic.
+- [20] **Minato**: @May, I hope the costs are fair. I’m looking into the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [21] **May**: @Minato, good luck with the diggers. I’m pulling the upkeep ledger spend per hectare and the groundskeeping roll to see who’s really paying the piper.
+- [22] **Shizue**: @Victoria, I hope you find the right people. I’m looking into the condition of our earlier works and the terms of the regional habitat fund.
+- [23] **Victoria**: @Shizue, I hope the fund terms are clear. I’m checking the groundskeeping roll and bought-in services to see who actually shows up.
+- [24] **Shunichi**: @Victoria, checking the roll is sensible. I’m pulling the drainage callouts and August heat readings to see if the ground can actually handle the proposed design.
+## Round 2
+- [35] **Minato**: @Shunichi, I found the ground is tricky. Only two firms can dig, and they warn about clay. The south can be closed, but the center cannot.
+- [36] **May**: @Minato, clay is a headache, but my ledger shows planted ground costs triple hard surfaces. With only seven staff left, who pays for that premium?
+- [37] **Shizue**: @May, the fund only covers planting and water, not hard surfaces. That explains why the apron keeps failing.
+- [38] **Victoria**: @May, the roll confirms your fear. Seven staff cannot cover triple costs. I need to know if bought-in services are sustainable or just a temporary patch.
+- [39] **Shunichi**: @May, triple costs are a symptom. My data shows people avoid soft margins entirely. If the design forces them there, it fails.
+- [40] **Minato**: @May, I’m worried. If the center can’t be closed, the clay might make the diggers go very slow.
+- [41] **May**: @Minato, slow diggers are a one-time cost. My real nightmare is the permanent drain on the city’s wallet.
+- [42] **Shizue**: @Minato, I understand your worry. But the basin held firm for eight years. We must learn from what actually lasts, not just the clay.
+- [43] **Victoria**: @Shunichi, if people avoid soft margins, the seven staff won’t be overwhelmed by turf. But who maintains the hard surfaces?
+- [44] **Shunichi**: @Victoria, hard surfaces are low-maintenance. My data proves people stick to firm ground. Designing for that reality saves staff hours and prevents drainage failures.
+- [45] **Minato**: @Shizue, eight years is wonderful. I hope the new ground is just as strong. I am still worried about the clay slowing the diggers down.
+- [46] **May**: @Shizue, eight years is nice, but my ledger shows the gap widening yearly. With seven staff, that premium is a budget killer.
+- [47] **Shizue**: @May, the basin’s longevity proves good design endures. Let’s prioritize what lasts, rather than just counting the immediate costs.
+- [48] **Victoria**: @Shizue, longevity is vital, but I fear the casual pool is a fragile safety net. If bought-in services fail, who steps in?
+- [49] **Shunichi**: @Victoria, the casual pool is a band-aid. My data shows the ground dictates the workload. If we design for actual foot traffic, we stop bleeding resources on unused, fragile margins.
+- [50] **Minato**: @Shunichi, I see. If people stay on firm ground, maybe the clay won’t be such a problem for the diggers.
+- [51] **May**: @Shunichi, if people ignore the soft edges, I save the city triple the upkeep. Let’s design for the hard surfaces and keep the budget alive.
+- [52] **Shizue**: @Shunichi, you are right. The basin lasted because it was simple. Let us build for the people who actually walk, not for the drawings.
+- [53] **Victoria**: @Shunichi, if the design matches reality, the seven staff can actually function. I need to see a plan that respects their limited capacity, not just the budget.
+- [54] **Shunichi**: @Victoria, exactly. The ground dictates the workload. If we design for the actual foot traffic, we stop bleeding resources on unused, fragile margins.
+## Round 3
+- [60] **Minato**: @Shunichi, the clay worries me. Plan B has hard ground, so the diggers might finish faster. Is that safe?
+- [61] **May**: @Minato, hard ground is cheap to build, but I need to know if the market stalls will drain the city’s coffers later.
+- [62] **Shizue**: @May, the fund covers planting and water, not paving. Plan D fits that perfectly, and the basin proved water features last.
+- [63] **Victoria**: @Shizue, Plan D’s water features demand specialist care. With only seven staff, can we sustain that? I fear the maintenance burden will crush our limited team.
+- [64] **Shunichi**: @Shizue, Plan D is a trap. My data shows people avoid soft margins. Ponds force them into fragile zones, guaranteeing drainage failures and wasted staff hours.
+- [65] **Minato**: @Shunichi, I am still worried about the clay. Plan B’s hard ground might help the diggers finish before the rain comes.
+- [66] **May**: @Minato, hard ground is cheap to build, but I need to know if the market stalls will drain the city’s coffers later.
+- [67] **Shizue**: @Victoria, I hear your worry. But the basin held for eight years. Plan D uses water, which the fund supports. Let us trust what has already proven itself.
+- [68] **Victoria**: @Shizue, the basin was simple. Plan D is complex. With seven staff, I cannot risk another fragile system. I need a plan that respects our actual capacity.
+- [69] **Shunichi**: @Victoria, you’re right. Plan D is a maintenance nightmare. Plan B’s hard surfaces match the foot traffic data, keeping staff workload low and the budget safe.
+- [70] **Minato**: @Shunichi, I agree. Plan B’s hard ground is safer for the diggers. I hope the clay won’t cause delays.
+- [71] **May**: @Shunichi, hard surfaces mean hard costs. Plan B’s paved square is cheap to maintain, unlike the triple-cost planting. It keeps the budget alive.
+- [72] **Shizue**: @Shunichi, I see your point about the foot traffic. But the basin lasted because it was simple. Plan D uses water, which the fund supports. Let us trust what has already proven itself.
+- [73] **Victoria**: @Shunichi, I agree. Plan B’s hard surfaces minimize the daily burden on our seven staff. It is the only option that respects our actual capacity.
+- [74] **Shunichi**: @Shizue, the basin was a single feature, not a complex wetland. Plan B aligns with the data: firm ground, low maintenance, and actual usage. I vote B.
+- [75] **Minato**: @Shunichi, I agree. Plan B’s hard ground is safer for the diggers. I hope the clay won’t cause delays. I vote B.
+- [76] **May**: @Shunichi, I’m in. Plan B’s hard surfaces keep the long-term costs low. I vote B.
+- [77] **Shizue**: @Shunichi, I see your point. The basin lasted because it was simple. Plan D uses water, which the fund supports. Let us trust what has already proven itself. I vote D.
+- [78] **Victoria**: @Shunichi, I stand by my assessment. Plan B is the only choice that does not break our remaining staff. I vote B.
+- [79] **Shunichi**: @Shizue, sentiment doesn't fix broken drainage. The data is clear: people need firm ground. Plan B is the only rational choice. I vote B.
+### Vote
+- Minato -> B
+- May -> B
+- Shizue -> D
+- Victoria -> B
+- Shunichi -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# candidate_selection_0003__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: I am curious about the actual user experience. Let us examine the post-occupancy review ratings.
+- [6] **Victoria**: I need to understand the operational impact. I will look into the timetable records on rooms out of service.
+- [7] **George**: I worry about the people doing the work. I will check the staffing posts since the hiring freeze.
+- [8] **Mizuki**: I am concerned about the schedule slipping. I will review the weather days in the site diaries.
+- [9] **Benjamin**: I suspect the numbers are wrong. I will examine the tender records over three budget cycles.
+- [10] **Toshio**: @Victoria, if rooms are out of service, who uses the space? I will also check the decade of delivery schedules by project rationale.
+- [11] **Victoria**: @Toshio, that is a fair point. I will also look at the booking data for specialist and general rooms.
+- [12] **George**: @Mizuki, weather is a risk, but people are the bottleneck. I will also review the bench technicians' weekly manual routines.
+- [13] **Mizuki**: @George, I agree. I will also check the survey findings in the older blocks to see if there are hidden delays.
+- [14] **Benjamin**: @Toshio, delivery schedules are often fiction. I will also review the renewal reserve for equipment bought earlier.
+- [15] **Toshio**: I will stick with my two choices. The data will show what actually worked for the users.
+- [16] **Victoria**: I will stick with my two choices. Understanding the disruption is key to a realistic plan.
+- [17] **George**: I will stick with my two choices. We must see who is actually left to do the work.
+- [18] **Mizuki**: I will stick with my two choices. I need to know if the ground will cooperate.
+- [19] **Benjamin**: I will stick with my two choices. The market will tell the truth the budget hides.
+- [20] **Toshio**: Let us see what the past tells us. I am ready to review my findings.
+- [21] **Victoria**: Agreed. The timetable is the only honest witness. I will review my findings before we vote.
+- [22] **George**: Agreed. The staff are the foundation. I will review my findings before we vote.
+- [23] **Mizuki**: Agreed. The weather is the enemy. I will review my findings before we vote.
+- [24] **Benjamin**: Agreed. The numbers are the reality. I will review my findings before we vote.
+## Round 2
+- [35] **Toshio**: The post-occupancy data is clear. Projects that serve many departments are rated highest. Single-wing benefits are ignored.
+- [36] **Victoria**: My findings show that taking rooms out of service forces us to pay for off-site space for two terms. It is a hidden cost.
+- [37] **George**: The staffing data is grim. Front-of-house posts are unfilled, but technicians have spare hours. We are misallocating labor.
+- [38] **Mizuki**: The site diaries show six weeks lost to weather. The survey findings reveal hazardous materials in older blocks, adding months of delay.
+- [39] **Benjamin**: Tender records show mechanical plant costs rose by a fifth. The renewal reserve for AV kit was never opened. We are underfunded.
+- [40] **Toshio**: @Benjamin, your cost data aligns with my delivery findings. Inspection-driven works finish on time; comfort-driven ones slip.
+- [41] **Victoria**: @Toshio, that explains the delays. But the booking data shows specialist rooms are idle, while general rooms are always full.
+- [42] **George**: @Victoria, if general rooms are full, why are we building more specialist ones? The technicians are already overworked with manual checks.
+- [43] **Mizuki**: @George, the weather risk is high for outdoor work. The survey delays in older blocks make any renovation there a nightmare.
+- [44] **Benjamin**: @Mizuki, the survey delays confirm my fears. The market is punishing us for ignoring the physical reality of the buildings.
+- [45] **Toshio**: @Victoria, the booking data is crucial. We should prioritize spaces that are actually used. The study commons fits this.
+- [46] **Victoria**: @Toshio, I agree. The study commons avoids the off-site costs of closing labs. It uses existing space efficiently.
+- [47] **George**: @Toshio, the study commons requires minimal new staffing. The existing technicians can handle the basic upkeep without extra burden.
+- [48] **Mizuki**: @George, the study commons is indoors, so weather is not a factor. It avoids the hazardous material risks of the older blocks.
+- [49] **Benjamin**: @Mizuki, the study commons has lower mechanical costs than the lab upgrade. It is the most financially sustainable option.
+- [50] **Toshio**: The evidence points to the study commons. It serves many, avoids delays, and is well-used. I am leaning towards B.
+- [51] **Victoria**: I concur. The study commons respects the timetable and the booking data. It is the logical choice.
+- [52] **George**: I agree. It does not add to the staff burden. It is the responsible choice for the people who maintain it.
+- [53] **Mizuki**: I agree. It avoids the weather and survey risks. It is the safest bet for the schedule.
+- [54] **Benjamin**: I agree. It avoids the cost overruns of mechanical plant. It is the only option that respects the budget reality.
+## Round 3
+- [60] **Toshio**: The candidates are A: Lab Ventilation, B: Study Commons, C: Path Network, D: Media Center. B aligns with my findings.
+- [61] **Victoria**: B avoids the off-site costs. A and C have high disruption risks. D is a specialist room, which the data says is idle.
+- [62] **George**: B is the only one that doesn't strain the staff. A requires more technicians. C requires grounds staff we don't have.
+- [63] **Mizuki**: B is indoors and avoids the survey delays. A and C are exposed to weather and hazardous materials. D is a new build, risky.
+- [64] **Benjamin**: B has the lowest mechanical costs. A is a cost trap. C is a weather risk. D has no renewal reserve. B is the only viable option.
+- [65] **Toshio**: @Benjamin, your cost analysis confirms my delivery data. B is the only project that will actually finish on time and be used.
+- [66] **Victoria**: @Toshio, precisely. The booking data shows B will be full. A and D will be underused. C is a maintenance burden.
+- [67] **George**: @Victoria, I agree. B is the only plan that respects the current staffing reality. We cannot afford to add more work to the technicians.
+- [68] **Mizuki**: @George, I agree. B is the only plan that respects the schedule. The weather and survey risks make A and C too dangerous.
+- [69] **Benjamin**: @Mizuki, I agree. B is the only plan that respects the budget. The market has made A and C too expensive. D is a financial black hole.
+- [70] **Toshio**: I am convinced. B is the choice that endures. It serves the community and respects the constraints. I vote for B.
+- [71] **Victoria**: I concur. B is the rational choice. It avoids the hidden costs and the disruption. I vote for B.
+- [72] **George**: I agree. B is the kind choice for the staff. It does not add to their burden. I vote for B.
+- [73] **Mizuki**: I agree. B is the safe choice. It avoids the risks that have plagued past projects. I vote for B.
+- [74] **Benjamin**: I agree. B is the only choice that survives contact with the market. I vote for B.
+- [75] **Toshio**: The consensus is clear. B is the best option. Let us proceed with the study commons.
+- [76] **Victoria**: Agreed. The data supports B. Let us move forward with confidence.
+- [77] **George**: Agreed. The staff will be relieved. Let us choose the path of least resistance.
+- [78] **Mizuki**: Agreed. The schedule will be safe. Let us choose the path of least risk.
+- [79] **Benjamin**: Agreed. The budget will be safe. Let us choose the path of least cost.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> B
+- Mizuki -> B
+- Benjamin -> B
+## Result
+- adopted: B

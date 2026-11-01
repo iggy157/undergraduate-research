@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I want to know if the projects make people too tired. I will look at the coordination group staffing and the time lost to copying records.
+- [6] **Jonathan**: I am concerned about our technical dependencies. I will investigate network coverage at customer plants and in-house developer availability to ensure we can actually deliver.
+- [7] **George**: We must be careful about where the money comes from and the long-term costs. I will look into the capital budget and software allowance, and vendor licence pricing.
+- [8] **May**: I'm more interested in whether these things actually last! I'll check the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts.
+- [9] **Midori**: I agree with everyone. I'm worried we overlook the small, daily struggles. I'll look into misrouted deliveries in the incident logs and the handling of vendor queries.
+- [10] **Minato**: @George, do you think the budget includes the cost of people's time? I worry we forget that people have limits.
+- [11] **Jonathan**: That is a fair point. Technical feasibility is often ignored until it is too late. We should balance the budget with actual resource availability.
+- [12] **George**: Budgeting is rarely simple. My concern is that we commit funds without knowing which pocket they come from, leading to surprises during renewals.
+- [13] **May**: Oh, you're all so serious! But really, why fund a "perfect" budget if the project dies in six months? We need to see what actually survived.
+- [14] **Midori**: I think May is right. We should look for solutions that fix the little things that frustrate our staff every single day.
+- [15] **Minato**: I just hope we don't pick something that makes the staff work even harder without any help.
+- [16] **Jonathan**: I agree. If we promise a delivery date based on a network we don't control, we are just setting ourselves up for failure.
+- [17] **George**: I will keep a close eye on the licensing. A low initial cost often hides a very expensive renewal fee next year.
+- [18] **May**: Exactly! It's all about the long game. I want to see if we're just repeating the same mistakes over and over.
+- [19] **Midori**: I'm looking forward to seeing if the incident logs show a pattern. Maybe the best project is the one that stops the most daily errors.
+- [20] **Minato**: I'm a bit nervous, but I'll do my best to help.
+- [21] **Jonathan**: Let us proceed then. I believe these choices cover the main risks.
+- [22] **George**: Agreed. Let us see what the data tells us.
+- [23] **May**: This should be interesting! I'll be waiting to see if any of you found something surprising.
+- [24] **Midori**: I hope we can find a balance that makes everyone's work life a little easier.
+## Round 2
+- [35] **Minato**: I found out that some people are doing way too much work by hand. They are copying things over and over, and the coordination group is very small.
+- [36] **Jonathan**: My findings are worrying. We have significant gaps in network coverage at customer sites and our internal developers are completely unavailable for months.
+- [37] **George**: The capital budget is frozen, but we have some software allowance. However, per-head licensing will be a nightmare for our budget next year.
+- [38] **May**: I knew it! The big, fancy rollouts that required everyone to participate just died. Only the small, specific tools for one group actually survived.
+- [39] **Midori**: I found that we are wasting time on the same mistakes. We have duplicate addresses and we keep asking vendors for the same certificates.
+- [40] **Minato**: @Jonathan, if the developers are busy, will the new project just make the coordination group do more work?
+- [41] **Jonathan**: Precisely. If we choose a high-maintenance tool, we will be relying on people who are already overstretched or on networks that don't work.
+- [42] **George**: This confirms my fear. If we go for a per-head license, the cost will balloon as we scale, and we have no capital budget to cover it.
+- [43] **May**: So, we need something simple. No "company-wide" mandates. We need a targeted solution that doesn't require a whole army to maintain.
+- [44] **Midori**: I agree with May. We have these small, repetitive losses—like the misrouted deliveries—that could be fixed without a massive system overhaul.
+- [45] **Minato**: I really don't want to add more to the people who are already tired. Can we pick something that removes the copying work?
+- [46] **Jonathan**: We must avoid anything that requires heavy on-site network access or immediate developer support. A simple, standalone tool would be safer.
+- [47] **George**: I will only support a proposal that uses a fixed-fee structure or fits within the existing software allowance without creating a renewal crisis.
+- [48] **May**: Let's be honest: if it's a "grand vision" project, it's going to fail. Let's look for the "boring" project that actually works.
+- [49] **Midori**: I think we are all agreeing that a simple, targeted fix for operational waste is the way to go. It's better than an impressive-sounding failure.
+- [50] **Minato**: I feel a bit better now that we are thinking about the people.
+- [51] **Jonathan**: I am glad we are considering the infrastructure. It is better to be realistic than optimistic.
+- [52] **George**: I will remain cautious. I want to see the specific costs before I commit my vote.
+- [53] **May**: I'm just glad we're finally looking at the patterns. Let's see the candidates and pick the one that won't be forgotten in a year.
+- [54] **Midori**: I'm hopeful. Let's find a solution that brings harmony to the daily workflow.
+## Round 3
+- [60] **Minato**: I like Option A. It helps with the status summaries and notes. It sounds like it would stop people from having to write the same things over and over.
+- [61] **Jonathan**: I must object to Option D. My research showed that network coverage at customer plants is terrible. A sync-heavy app would be a disaster.
+- [62] **George**: Option C is interesting, but I worry about the licensing. If it's a per-user license for every unit, it will be too expensive. Is it a fixed-fee build?
+- [63] **May**: Option C is exactly the kind of "standardization" that usually fails. It's too broad. Option A is small and targeted, which is why it would actually survive.
+- [64] **Midori**: I strongly support Option C. I found that we have duplicate addresses and are asking for the same certificates repeatedly. A Supplier Data Hub fixes exactly that.
+- [65] **Minato**: @Midori, would Option C make the coordination group do more work to keep the records clean? I don't want them to be more tired.
+- [66] **Jonathan**: Option A is the safest. It doesn't require on-site network access and doesn't seem to need heavy developer support once the basic tool is set up.
+- [67] **George**: If Option C is a simple repository, it might fit the software allowance. But Option A seems even lower risk in terms of long-term costs.
+- [68] **May**: Exactly. Option B is too fancy, and Option D is a technical nightmare. Option C is a bureaucratic dream that usually becomes a ghost town. Option A is the winner.
+- [69] **Midori**: @Minato, I think it would actually reduce their work. Right now, they are dealing with the mess of misrouted deliveries. Fixing the data source stops the errors.
+- [70] **Minato**: I see... if it stops the mistakes, then it helps. But Option A feels like it helps the people who are tired right now.
+- [71] **Jonathan**: I cannot support Option D or B. B requires too much production effort, and D is impossible with our current network reality. I'll go with A.
+- [72] **George**: I've thought about it. Option C is useful, but the risk of a renewal price hike for a company-wide hub is too high. Option A is a smaller, more manageable cost.
+- [73] **May**: See? We're all seeing the pattern. Small, useful, and low-maintenance. Option A is the only one that doesn't look like a future failure.
+- [74] **Midori**: I still feel Option C addresses the most actual waste on the floor. Misrouted deliveries are a real problem, not just a convenience issue.
+- [75] **Minato**: I'm still torn, but I think I'll go with Option A because it helps the people writing the notes.
+- [76] **Jonathan**: I'll stick with A. It's the only one that respects our technical constraints.
+- [77] **George**: I will vote for A. It is the most fiscally responsible choice and avoids the licensing traps I fear.
+- [78] **May**: I'm voting for A. It's the only one that fits the pattern of what actually survives in this company.
+- [79] **Midori**: I will vote for C. I believe we should prioritize fixing the errors that affect our customers and our staff's daily stress.
+### Vote
+- Minato -> A
+- Jonathan -> A
+- George -> A
+- May -> A
+- Midori -> C
+## Result
+- adopted: A

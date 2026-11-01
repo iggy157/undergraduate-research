@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Rin**: Let's make this layout super awesome! But we have to be careful about how much time we waste every day. I don't want to lose my free gaps!
+- [6] **Toshio**: Efficiency is important, but we should also consider the financial constraints. We can't ignore the budget when planning a full reorganization.
+- [7] **Mizuki**: I agree with efficiency, but we must be honest about the quality of the seats. Some spots are objectively worse than others; we need a fair way to handle that.
+- [8] **Shion**: Efficiency is a vague term. What actually matters is the physical and acoustic environment. If the spot is uncomfortable or noisy, productivity drops regardless of the layout.
+- [9] **Yumi**: I'm so excited to move! I really hope we can sit in a way that lets us talk and help each other more. Let's make sure we're all connected!
+- [10] **Rin**: @Toshio, budget is boring! I care about the morning rush. If the new layout makes us scramble, it'll be a disaster!
+- [11] **Toshio**: It isn't boring if it limits our options. If we overspend on power and network changes, we might face cuts elsewhere.
+- [12] **Mizuki**: @Yumi, communication is great, but let's not forget that some people might end up in the "noisy" zone. We should look into the actual sound levels.
+- [13] **Shion**: Exactly. A "connected" layout often means a loud layout. I want to see the data on sound and ergonomics before we commit to a "friendly" plan.
+- [14] **Yumi**: @Mizuki, @Shion, you're right! I don't want anyone to be stressed. Maybe we can find a way to be close without being too noisy?
+- [15] **Rin**: I want to know what happens on the pilot floor! Maybe they have a secret for a fast morning routine that we can copy!
+- [16] **Toshio**: I'll look into the billing. We need to know the exact cost per square foot or per person to avoid surprises.
+- [17] **Mizuki**: I'll check the staff survey and the badge records. I want to see if there's a pattern in who arrives when and what they actually dislike.
+- [18] **Shion**: I'll focus on the physical reality. I'm looking into the sound meter readings and the physio's notes. Comfort isn't optional.
+- [19] **Yumi**: I want to know about the costs of the power and network! If we know the price, we can plan a layout that really brings us together!
+- [20] **Rin**: I'm also curious about the seat shuffles from last year. Did people move because they were unhappy, or just for fun?
+- [21] **Toshio**: I'll also check the facilities quote. It's better to have a hard number for the network changes before we dream too big.
+- [22] **Mizuki**: I'm set. I want to ensure the distribution of "bad" seats is handled logically, not just by who speaks the loudest.
+- [23] **Shion**: I'm satisfied. Let's see if the data supports a layout that prioritizes individual focus and physical health over social proximity.
+- [24] **Yumi**: I'll also check what the new joiners reported! I want to make sure the new members feel welcome and integrated into the team!
+## Round 2
+- [35] **Rin**: Oh no! The pilot floor takes up to nine minutes every morning! And those shuffles last for two whole weeks? That's way too much time wasted!
+- [36] **Toshio**: The billing is inefficient. We are paying for empty space, and the cost to move power is surprisingly high for every single change.
+- [37] **Mizuki**: The survey shows a huge gap in seat quality regarding light. Also, badge records prove that "first-come, first-served" is unfair to those who arrive later.
+- [38] **Shion**: As I suspected. The noise levels near the door are significantly higher, and the physio's notes confirm that ergonomic comfort takes days of fine-tuning to achieve.
+- [39] **Yumi**: I found out that the new joiners learned so much just by listening to us! But the cost to move the power is quite high if we change our minds.
+- [40] **Rin**: @Toshio, @Yumi, if the power is expensive to move, we should pick a layout that we can stick with! I can't handle two-week shuffles!
+- [41] **Toshio**: Exactly. We cannot afford a "flexible" layout that requires frequent adjustments. Stability is the only way to keep costs under control.
+- [42] **Mizuki**: Stability is fine, but if we stay in one place, we must decide how to rotate the "bad" seats. We can't let the same person sit in the dark forever.
+- [43] **Shion**: Rotating seats is a mistake. If it takes days to adjust a workstation to your body, moving every month is a physical disaster. We need fixed, optimized spots.
+- [44] **Yumi**: But if we stay fixed, we might miss out on that organic learning! The new joiners really benefited from being near different people.
+- [45] **Rin**: I don't care about "organic learning" if it means I spend ten minutes every morning just getting my computer to work! We need a fast setup!
+- [46] **Toshio**: @Yumi, the cost of re-running power for every "learning" shuffle is a waste of the budget. We should prioritize a single, cost-effective layout.
+- [47] **Mizuki**: @Shion, I understand the ergonomic point, but ignoring the light gap is unfair. We need a system where the "cost" of a bad seat is shared.
+- [48] **Shion**: Fairness isn't about sharing discomfort; it's about eliminating it. We should place the most focused work in the quietest zones and leave them fixed.
+- [49] **Yumi**: Maybe we can group people by project? That way we get the learning and the stability, and we only pay for the power move once!
+- [50] **Rin**: As long as it doesn't take forever to start my day! I want a layout where I can just sit down and go!
+- [51] **Toshio**: Grouping by project is acceptable, provided the layout is final. Any "trial period" with seat changes will blow the budget.
+- [52] **Mizuki**: If we group by project, we must still address the window issue. I won't support a plan where the same people are stuck in the dark.
+- [53] **Shion**: I will support any plan that avoids frequent shuffling. The physical toll of resetting a workstation is a hidden cost we cannot ignore.
+- [54] **Yumi**: I'm so glad we're agreeing on stability! Let's just make sure the groups are mixed enough so we still feel like one big, happy team!
+## Round 3
+- [60] **Rin**: Option A is a nightmare! Imagine spending nine minutes every single morning just to find a spot and plug in! I hate it!
+- [61] **Toshio**: Option A and B are financially reckless. The cost of power and network changes for B, and the inefficiency of A, make C the only logical choice.
+- [62] **Mizuki**: Option A is the worst for equity; the early birds get the windows every single day. Option B is fair, but as Shion said, it's physically taxing.
+- [63] **Shion**: Option A and B are absurd. Forcing a person to reset their ergonomic setup daily or monthly is a recipe for chronic pain. Option C is the only professional choice.
+- [64] **Yumi**: I'm a bit sad about Option C because we won't mix as much, but Option A sounds so stressful for everyone! I want us to be happy!
+- [65] **Rin**: @Yumi, we can still talk and be friends in Option C! We just don't have to waste our precious gaps on "setup time"!
+- [66] **Toshio**: @Yumi, think of the budget. Option C is a one-time cost. Option B is a recurring expense that we simply cannot justify given our current billing.
+- [67] **Mizuki**: @Shion, if we go with Option C, we must agree on a fair way to assign the window seats. We can't just let the senior staff take them.
+- [68] **Shion**: I don't care who gets the window, as long as the quietest spots are assigned to those who need focus and the seats stay put.
+- [69] **Yumi**: If we go with Option C, can we arrange the "functions" so that the new joiners are sitting right in the middle of the experts?
+- [70] **Rin**: Yes! Put the experts and the learners together in one block! That way it's fast, stable, and we still get to learn!
+- [71] **Toshio**: That is a reasonable compromise. As long as the layout is fixed and the power is run once, I am fully in favor of Option C.
+- [72] **Mizuki**: I can accept Option C, but only if we explicitly document the seat quality and agree on the assignment process now, rather than letting it happen by habit.
+- [73] **Shion**: I agree. Let's prioritize the acoustic and ergonomic data when assigning those fixed seats. It's the only way to ensure long-term productivity.
+- [74] **Yumi**: I love that idea! We can be stable and cost-effective, but still be a supportive team where everyone can learn from each other!
+- [75] **Rin**: Yay! No more two-week shuffles and no more nine-minute morning scrambles! I'm voting for the one that saves my time!
+- [76] **Toshio**: It is the only option that respects the budget and prevents recurring waste. My vote is decided.
+- [77] **Mizuki**: As long as we are transparent about the "bad" seats and assign them fairly, Option C is the most sustainable and honest choice.
+- [78] **Shion**: Logic and physical health both point to the same conclusion. Stability is the only way to maintain a proper workstation.
+- [79] **Yumi**: I'm happy we found a way to keep the team spirit alive while being smart about the costs! Let's do this!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0004__single-batch (shared_living)
+
+## Round 1
+- [5] **Sakura**: I worry about who pays for what. Last time it was messy.
+- [6] **Victoria**: I need to know the total cost before we commit. No surprises.
+- [7] **Midori**: I want to understand why we felt crowded or alone last year.
+- [8] **Toshio**: I hate losing days to travel. I need a quick trip.
+- [9] **Daisuke**: I sleep badly away from home. I need to know the room setup.
+- [10] **Sakura**: @Victoria, if we rent a whole place, the bill is one number.
+- [11] **Victoria**: @Sakura, yes, but I need to see if that number is final.
+- [12] **Midori**: @Toshio, how much time did we lose travelling last year?
+- [13] **Toshio**: @Midori, two full days. It felt like a punishment.
+- [14] **Daisuke**: @Sakura, I just want to know if there is a private bathroom.
+- [15] **Sakura**: I will check the pricing for whole houses.
+- [16] **Victoria**: I will look at the all-in rates versus separate meals.
+- [17] **Midori**: I will check how last year's days actually ran.
+- [18] **Toshio**: I will look at the ferry and train times.
+- [19] **Daisuke**: I will check the bathing hours and bathroom provision.
+- [20] **Sakura**: Also, I will check what separately booked rooms cost last time.
+- [21] **Victoria**: And I will check the valley inn rates versus urban beds.
+- [22] **Midori**: Also, I will check the time alone in the shared-house year.
+- [23] **Toshio**: And I will check getting around by train and bus.
+- [24] **Daisuke**: Also, I will check the inn mealtimes and room arrangements.
+## Round 2
+- [35] **Sakura**: Whole houses are 5,400 yen a head a night. That is one bill.
+- [36] **Victoria**: Valley inns are 17,000 yen with meals. City beds are 12,000 to 20,000.
+- [37] **Midori**: Last year, two of us didn't meet all day. We were apart.
+- [38] **Toshio**: The ferry takes two days. The train to the valley is ninety minutes.
+- [39] **Daisuke**: Island houses have one bathroom for everyone. The water runs cold.
+- [40] **Sakura**: @Victoria, 17,000 yen is high, but it includes food.
+- [41] **Victoria**: @Sakura, yes, but the city option has no fixed meal cost.
+- [42] **Midori**: @Toshio, ninety minutes is much better than two days.
+- [43] **Toshio**: @Midori, exactly. I want to be there, not travelling.
+- [44] **Daisuke**: @Sakura, one bathroom is a problem for me. I need privacy.
+- [45] **Sakura**: @Daisuke, the city option has separate rooms with doors.
+- [46] **Victoria**: @Daisuke, the inn has futons in one room. That might be tight.
+- [47] **Midori**: @Victoria, the inn keeps us together. The city lets us drift.
+- [48] **Toshio**: @Midori, I prefer the train. The ferry is too slow.
+- [49] **Daisuke**: @Midori, I am worried about the shared room at the inn.
+- [50] **Sakura**: I think the city option is fairer for paying.
+- [51] **Victoria**: I prefer the inn. The cost is clear and includes meals.
+- [52] **Midori**: I want us to be together. The inn does that.
+- [53] **Toshio**: The inn is reachable by train. That is the only one I like.
+- [54] **Daisuke**: I am hesitant about the inn, but the city feels too lonely.
+## Round 3
+- [60] **Sakura**: Option A is the island. Option B is the city. Option C is the inn.
+- [61] **Victoria**: Option C has a clear cost. Option B is unpredictable.
+- [62] **Midori**: Option C keeps us together. Option B lets us drift apart.
+- [63] **Toshio**: Option C is ninety minutes away. Option A is two days.
+- [64] **Daisuke**: Option C has a shared room. Option B has private rooms.
+- [65] **Sakura**: @Victoria, I agree. The all-in rate is safer for the group.
+- [66] **Victoria**: @Sakura, yes. I don't want to track individual expenses.
+- [67] **Midori**: @Toshio, the train time is acceptable. I value the togetherness.
+- [68] **Toshio**: @Midori, I agree. The travel time is minimal.
+- [69] **Daisuke**: @Midori, I am worried about the shared room, but I want to be with you.
+- [70] **Sakura**: Option C seems best for fairness and togetherness.
+- [71] **Victoria**: Option C is the most rational choice financially.
+- [72] **Midori**: Option C is the only one that feels like a group trip.
+- [73] **Toshio**: Option C is the only one that respects my time.
+- [74] **Daisuke**: Option C is risky for my sleep, but I will try.
+- [75] **Sakura**: I vote for C.
+- [76] **Victoria**: I vote for C.
+- [77] **Midori**: I vote for C.
+- [78] **Toshio**: I vote for C.
+- [79] **Daisuke**: I vote for C.
+### Vote
+- Sakura -> C
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

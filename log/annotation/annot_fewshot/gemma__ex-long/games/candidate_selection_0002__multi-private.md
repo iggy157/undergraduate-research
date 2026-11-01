@@ -1,0 +1,72 @@
+# candidate_selection_0002__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to be with you all. Let us approach this selection with wisdom and a spirit of generosity toward the future. I look forward to our deliberation on these promising ventures.
+- [6] **Asuka**: Thank you, Servas. I believe a disciplined approach is necessary here. We should ensure our decision is based on empirical evidence rather than optimistic narratives. I look forward to the analysis.
+- [7] **Minako**: I agree with Asuka. A calm, evidence-based approach is the only way to ensure we make a sustainable choice. I look forward to seeing what the data reveals about our current position and the candidates.
+- [8] **Mio**: Hi everyone! I'm so excited to be part of this! Let's find a company that's not just amazing, but one that we can actually support and help grow. I can't wait to get started!
+- [9] **Toshio**: I agree. To ensure we make a grounded decision, we must look beyond the proposals. I believe we should start by examining the actual delivery records of our current holdings to identify recurring patterns.
+- [10] **Servas**: Wisdom teaches us that the strength of a tree lies in its roots. I believe we must understand how a new addition affects our internal harmony and reporting before we commit.
+- [11] **Asuka**: I agree. To avoid the pitfalls of narrative drift, I want to examine the account retention through price rises and the independent checks on holdings' reported figures. We need to know who actually kept their customers.
+- [12] **Minako**: I believe we must be realistic about our financial commitments. I will examine the reserve accounts and follow-on calls, as well as the terms of last winter's credit line, to understand our actual liquidity and borrowing capacity.
+- [13] **Mio**: I want to make sure we have the right people to help these companies! I'll look into the retained recruiters' placement times and the adviser bench and partner board seats to see who's available!
+- [14] **Toshio**: I believe we must understand the friction points that delay deployment. I shall examine the delivery records of two holdings and the security review time before first deployment to see where timelines typically fracture.
+- [15] **Servas**: It is a joy to see such diverse and thoughtful priorities. To ensure our reporting remains clear and our closing process peaceful, I shall examine the appraisal needs at the last audit and the independent checks on holdings' reported figures.
+- [16] **Asuka**: I believe we have a comprehensive set of inquiries. I am satisfied with my choices and will wait to see if the data confirms my suspicions regarding customer retention and reporting accuracy.
+- [17] **Minako**: I am also satisfied with my selections. Understanding our financial reserves and credit terms is essential for a responsible investment. I will proceed with these investigations.
+- [18] **Mio**: I'm all set too! I really hope I can find out if we have enough hands on deck to help the new company succeed. I'm super curious to see what's in the records!
+- [19] **Toshio**: I concur. By analyzing the gap between planning and actual deployment, we can better anticipate the risks we are assuming. I am ready to review the findings.
+- [20] **Servas**: May we all find the clarity we seek in these records. I wish you each a productive investigation, and I look forward to the wisdom we shall gather together. Until we reconvene.
+- [21] **Asuka**: I agree. Let us hope the data provides a sobering reality check to the narratives we have been following. I am ready to proceed.
+- [22] **Minako**: I am ready as well. Let us see if the financial records reflect a stable foundation for this next investment. I look forward to our next discussion.
+- [23] **Mio**: I'm ready too! I'll do my absolute best to find the info we need. See you all in the next round! Bye for now!
+- [24] **Toshio**: I agree. Let us see if the records reveal the true nature of the obstacles we face. I am ready to proceed.
+## Round 2
+- [35] **Servas**: My findings remind us that clarity is a gift we must actively seek. It appears that holdings with physical assets create a heavy burden during our audits, requiring costly and time-consuming outside appraisals.
+- [36] **Asuka**: My findings suggest a concerning gap in transparency. While holdings with physical assets provide verifiable data, our software-based holdings rely entirely on their own reported figures, making it impossible to independently verify their success.
+- [37] **Minako**: My findings are concerning. Our reserve accounts are being depleted by follow-on calls at twice the modeled rate, and our credit line provides no value against subscription contracts or unbilled invoices. Our liquidity is far tighter than planned.
+- [38] **Mio**: Oh wow, I found some really interesting stuff! We have some great logistics experts on our adviser bench who aren't doing anything, but our software partners are totally swamped with board seats! Also, finding field crews takes forever!
+- [39] **Toshio**: The data reveals a clear pattern of external friction. Hardware dependencies caused significant delays in one holding, while security reviews for regulated industries—specifically finance and healthcare—extended deployment timelines by three times the average.
+- [40] **Servas**: @Asuka, it is fascinating that we have found the same truth from different angles. While physical assets bring the burden of appraisals, they offer the peace of verifiable truth, unlike the opaque dashboards of software.
+- [41] **Asuka**: @Servas, exactly. The "efficiency" of software is an illusion if we cannot verify the results. Furthermore, my data shows that software tools, like the shopkeeper tool, are far more susceptible to customer churn during price adjustments.
+- [42] **Minako**: @Asuka, your point about churn is noted, but we must prioritize our survival. If our reserves are draining twice as fast as expected and our credit line ignores subscription revenue, we cannot afford another high-burn software venture.
+- [43] **Mio**: @Minako, that sounds really scary! If we're running low on money, we have to be super careful. But we also can't forget that our software partners are already way too busy to help a new company!
+- [44] **Toshio**: @Mio, your point about swamped partners is relevant. If we choose a company in a regulated sector, the combination of extended security reviews and a lack of available software guidance could lead to a catastrophic delay in first revenue.
+- [45] **Servas**: It is a delicate balance we seek. We must find a venture that does not add to the chaos of our quarter-end, nor one that leaves us blind to the truth of its progress.
+- [46] **Asuka**: @Minako, I agree that high-burn software is a risk. Given the churn rates I found and the lack of verifiable data, we should favor a company with tangible assets or a more stable, verifiable customer base.
+- [47] **Minako**: @Asuka, I agree. We need a candidate that minimizes the risk of unexpected follow-on calls. A company with physical assets may be easier to value and borrow against, providing the stability our current liquidity requires.
+- [48] **Mio**: @Minako, I totally agree! If we pick something that doesn't need a ton of extra money right away, it'll be much safer. Plus, we have those logistics experts just waiting to help!
+- [49] **Toshio**: @Minako, @Asuka, your preference for tangible assets is logical, but we must be cautious. My findings show that physical hardware dependencies can lead to months of unforeseen delays. We need a candidate that avoids both regulatory bottlenecks and supply chain volatility.
+- [50] **Servas**: We have spoken with honesty and care. Let us carry this spirit of mindfulness into the final round, seeking a candidate that offers both the transparency of truth and a gentle footprint on our reporting process.
+- [51] **Asuka**: I agree. We must prioritize a candidate whose success is verifiable and whose customer loyalty is proven. Let us avoid the allure of opaque dashboards and high-churn models in favor of something grounded and transparent.
+- [52] **Minako**: I agree. We must be disciplined. I will be looking for a candidate that does not threaten our liquidity with excessive burn or unpredictable capital calls. Stability and financial realism must be our primary guides.
+- [53] **Mio**: I'm with you all! I'll be looking for a company that fits our team's actual capacity. Let's find someone who can use our logistics experts and won't overwhelm our busy software partners! See you soon!
+- [54] **Toshio**: I shall be looking for a candidate that avoids the pitfalls of regulated security reviews and hardware shortages. Predictability is the only true hedge against the systemic delays we have encountered.
+## Round 3
+- [60] **Servas**: Looking at our candidates, Fabric Loop seems most harmonious. It utilizes the logistics experts Mio mentioned and provides the verifiable truth of physical goods, avoiding the opaque dashboards of software.
+- [61] **Asuka**: I agree with Servas. Fabric Loop is the most transparent choice. Unlike the software options, its success is tied to physical goods moving through facilities, which allows for the independent verification I found lacking in our software holdings.
+- [62] **Minako**: I agree. Fabric Loop is the most fiscally responsible choice. It provides tangible assets we can borrow against, unlike the subscription models of the others, and avoids the high-burn risks that threaten our current liquidity.
+- [63] **Mio**: I'm totally on board! Fabric Loop is perfect because it can use those logistics experts who are just waiting for work, and it won't add any more stress to our super busy software partners!
+- [64] **Toshio**: Fabric Loop is the most predictable choice. It avoids the three-quarter security reviews inherent to the medical and financial software of A and D, and it bypasses the hardware supply chain risks associated with B's sensors.
+- [65] **Servas**: It is a rare and beautiful thing when we find such unity in our purpose. We have weighed the burdens of our audits and the opacity of dashboards, and found a path that honors both the science of business and the peace of our partners.
+- [66] **Asuka**: The consensus is logical. Fabric Loop avoids the high churn and unverifiable reporting typical of the software candidates, while providing a tangible operational model that aligns with our need for transparency and stability.
+- [67] **Minako**: I concur. Given the depletion of our reserves and the limitations of our credit line, we cannot gamble on subscription-based models. Fabric Loop offers the structural stability and asset-backed security we need to protect the fund's liquidity.
+- [68] **Mio**: I'm just so happy we all agree! Fabric Loop is the best fit for our team right now. It lets our logistics experts shine and gives our software partners a well-deserved break. It's a win-win for everyone!
+- [69] **Toshio**: The evidence is conclusive. By avoiding the regulatory bottlenecks of healthcare and finance, as well as the volatility of hardware components, Fabric Loop minimizes the risk of the systemic delays that have plagued our previous cohorts. I vote for Fabric Loop.
+- [70] **Servas**: I am filled with a sense of peace seeing us reach this consensus. Fabric Loop offers the transparency we crave and the stability we require, without adding to the burdens of our reporting. I vote for Fabric Loop.
+- [71] **Asuka**: I find the logic inescapable. Fabric Loop is the only candidate that provides verifiable operational data and avoids the high-churn risks of software. I vote for Fabric Loop.
+- [72] **Minako**: I agree. Fabric Loop is the only option that aligns with our financial reality, providing tangible assets and a stable model that protects our liquidity. I vote for Fabric Loop.
+- [73] **Mio**: I'm voting for Fabric Loop too! It's the perfect match for our team's capacity and the only one that doesn't make our software partners' heads spin! I vote for Fabric Loop!
+- [75] **Servas**: It has been a privilege to deliberate with you all. In this unity, we have found a path that honors both the vision of the venture and the reality of our partners. I am at peace with our decision.
+- [76] **Asuka**: I am satisfied with this outcome. By prioritizing empirical verification over optimistic narratives, we have selected a candidate that ensures both transparency and stability for the fund. Farewell.
+- [77] **Minako**: I am also satisfied. By grounding our decision in financial realism and asset stability, we have protected the fund's future. It was a pleasure working with you all. Farewell.
+- [78] **Mio**: This was so much fun! I'm really glad we found a company that fits our team perfectly and lets everyone do their best work. Thanks for being so great, everyone! Bye-bye!
+- [79] **Toshio**: I am satisfied. We have successfully identified the candidate that minimizes external friction and systemic risk. By choosing Fabric Loop, we ensure that the path to first revenue is not blocked by the obstacles that have hindered us in the past. Farewell.
+### Vote
+- Servas -> C
+- Asuka -> C
+- Minako -> C
+- Mio -> C
+- Toshio -> C
+## Result
+- adopted: C

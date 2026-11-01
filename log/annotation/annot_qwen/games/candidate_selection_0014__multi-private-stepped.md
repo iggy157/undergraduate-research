@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: I’d rather look at the scars than the smiles. Let’s check the history.
+- [6] **Misaki**: Agreed. The ground here has a memory. We need to know what it holds.
+- [7] **Mio**: I’m worried about the price tag after the party ends. Let’s check the books.
+- [8] **Asuka**: Who actually shows up on a Tuesday morning? I need to know the staffing reality.
+- [9] **Minako**: I’m concerned about the water. If it floods, the plan fails. Let’s check the drainage.
+- [10] **Benjamin**: @Mio, the books are good, but the condition of the work is better.
+- [11] **Misaki**: @Benjamin, I agree. The condition of the works from the earlier programme is key.
+- [12] **Mio**: @Asuka, the roll is important, but the spend per hectare tells the real story.
+- [13] **Asuka**: @Mio, spend is a number. The roll is the people. I need the people.
+- [14] **Minako**: @Misaki, the condition is past. The drainage is present. I need the present.
+- [15] **Benjamin**: Fair enough. I’ll look at the condition of the works and the upkeep ledger.
+- [16] **Misaki**: I’ll look at the condition of the works and the regional firms tendering.
+- [17] **Mio**: I’ll look at the upkeep ledger spend per hectare and the terms of the regional habitat fund.
+- [18] **Asuka**: I’ll look at the groundskeeping roll and bought-in services and the volunteer groups working with the division.
+- [19] **Minako**: I’ll look at the drainage callouts and August heat readings and the timed counts of weekday crossings.
+- [20] **Benjamin**: Let’s see what the ground remembers.
+- [21] **Misaki**: Let’s see who can actually dig it.
+- [22] **Mio**: Let’s see what it costs to keep it alive.
+- [23] **Asuka**: Let’s see who is actually there to keep it alive.
+- [24] **Minako**: Let’s see if the water and the people agree.
+## Round 2
+- [35] **Benjamin**: The apron is patched three times. The basin is fine. We build what lasts.
+- [36] **Misaki**: Two firms. Both flag clay. We need shallow work. No deep cuts.
+- [37] **Mio**: @Benjamin, the ledger says planted ground costs triple to keep. The fund won’t pay for paving.
+- [38] **Asuka**: @Mio, the roll is seven. The volunteers are already here. We don’t need more staff.
+- [39] **Minako**: @Mio, the water is the problem. The people are the proof. We need open ground.
+- [40] **Benjamin**: @Mio, if the fund won’t pay for paving, we don’t pave. We plant.
+- [41] **Misaki**: @Benjamin, planting is good. But the clay is bad. We need shallow roots.
+- [42] **Mio**: @Asuka, seven staff and volunteers? That’s a lot of trust. I need to know the cost.
+- [43] **Asuka**: @Mio, the cost is the time. The volunteers are already there. The staff are the backup.
+- [44] **Minako**: @Benjamin, the water is the problem. The people are the proof. We need open ground.
+- [45] **Benjamin**: @Minako, open ground is good. But the clay is bad. We need drainage.
+- [46] **Misaki**: @Benjamin, drainage is good. But the firms are few. We need to be careful.
+- [47] **Mio**: @Misaki, the fund pays for planting. The ledger says it’s expensive. We need to be careful.
+- [48] **Asuka**: @Mio, the volunteers are the key. The staff are the backup. We need to trust them.
+- [49] **Minako**: @Benjamin, the water is the problem. The people are the proof. We need open ground.
+- [50] **Benjamin**: Let’s build what lasts. No deep cuts. Shallow roots. Good drainage.
+- [51] **Misaki**: Let’s trust the firms. No deep cuts. Shallow roots. Good drainage.
+- [52] **Mio**: Let’s trust the fund. No paving. Planting. Good drainage.
+- [53] **Asuka**: Let’s trust the volunteers. No new staff. Good drainage.
+- [54] **Minako**: Let’s trust the ground. No deep cuts. Open ground. Good drainage.
+## Round 3
+- [60] **Benjamin**: The apron is patched. The basin is fine. We need what lasts.
+- [61] **Misaki**: Two firms. Clay subsoil. We need shallow work. No deep cuts.
+- [62] **Mio**: The fund pays for planting. The ledger says it’s expensive. We need to be careful.
+- [63] **Asuka**: The roll is seven. The volunteers are already here. We don’t need more staff.
+- [64] **Minako**: The water is the problem. The people are the proof. We need open ground.
+- [65] **Benjamin**: @Mio, if the fund won’t pay for paving, we don’t pave. We plant.
+- [66] **Misaki**: @Benjamin, planting is good. But the clay is bad. We need shallow roots.
+- [67] **Mio**: @Asuka, seven staff and volunteers? That’s a lot of trust. I need to know the cost.
+- [68] **Asuka**: @Mio, the cost is the time. The volunteers are already there. The staff are the backup.
+- [69] **Minako**: @Benjamin, the water is the problem. The people are the proof. We need open ground.
+- [70] **Benjamin**: @Minako, open ground is good. But the clay is bad. We need drainage.
+- [71] **Misaki**: @Benjamin, drainage is good. But the firms are few. We need to be careful.
+- [72] **Mio**: @Misaki, the fund pays for planting. The ledger says it’s expensive. We need to be careful.
+- [73] **Asuka**: @Mio, the volunteers are the key. The staff are the backup. We need to trust them.
+- [74] **Minako**: @Benjamin, the water is the problem. The people are the proof. We need open ground.
+- [75] **Benjamin**: Let’s build what lasts. No deep cuts. Shallow roots. Good drainage.
+- [76] **Misaki**: Let’s trust the firms. No deep cuts. Shallow roots. Good drainage.
+- [77] **Mio**: Let’s trust the fund. No paving. Planting. Good drainage.
+- [78] **Asuka**: Let’s trust the volunteers. No new staff. Good drainage.
+- [79] **Minako**: Let’s trust the ground. No deep cuts. Open ground. Good drainage.
+### Vote
+- Benjamin -> B
+- Misaki -> B
+- Mio -> B
+- Asuka -> B
+- Minako -> C
+## Result
+- adopted: B

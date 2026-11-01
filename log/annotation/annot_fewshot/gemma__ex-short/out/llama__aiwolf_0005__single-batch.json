@@ -1,0 +1,323 @@
+{
+ "aiwolf_0005__single-batch.md": [
+  {
+   "seq": 5,
+   "speaker": "Yumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 6,
+   "speaker": "Daisuke",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 7,
+   "speaker": "Asuka",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 8,
+   "speaker": "Shizue",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "greeting"
+  },
+  {
+   "seq": 9,
+   "speaker": "Midori",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 8,
+   "resp_type": "agree",
+   "note": "None"
+  },
+  {
+   "seq": 10,
+   "speaker": "Yumi",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 7,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 12,
+   "speaker": "Asuka",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 13,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": 12,
+   "resp_type": "agree",
+   "note": "mere agreement"
+  },
+  {
+   "seq": 14,
+   "speaker": "Midori",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 31,
+   "speaker": "Yumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 32,
+   "speaker": "Daisuke",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": 31,
+   "resp_type": "agree",
+   "note": "surprised reaction"
+  },
+  {
+   "seq": 33,
+   "speaker": "Asuka",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 34,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": 31,
+   "resp_type": "agree",
+   "note": "surprised reaction"
+  },
+  {
+   "seq": 35,
+   "speaker": "Midori",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 36,
+   "speaker": "Yumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "repeats claim"
+  },
+  {
+   "seq": 37,
+   "speaker": "Daisuke",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 38,
+   "speaker": "Asuka",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 39,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 38,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 40,
+   "speaker": "Midori",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 41,
+   "speaker": "Yumi",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 40,
+   "resp_type": "answer",
+   "note": "None"
+  },
+  {
+   "seq": 42,
+   "speaker": "Daisuke",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 41,
+   "resp_type": "agree",
+   "note": "None"
+  },
+  {
+   "seq": 43,
+   "speaker": "Asuka",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 42,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 44,
+   "speaker": "Shizue",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "general sentiment"
+  },
+  {
+   "seq": 45,
+   "speaker": "Midori",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 46,
+   "speaker": "Yumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 0,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "emotional appeal"
+  },
+  {
+   "seq": 47,
+   "speaker": "Daisuke",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": 46,
+   "resp_type": "agree",
+   "note": "mere agreement"
+  },
+  {
+   "seq": 48,
+   "speaker": "Asuka",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 46,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 49,
+   "speaker": "Shizue",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 46,
+   "resp_type": "agree",
+   "note": "None"
+  },
+  {
+   "seq": 50,
+   "speaker": "Midori",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 46,
+   "resp_type": "agree",
+   "note": "None"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: It is a pleasure to see you all. I hope we can choose an exhibition that brings joy to our visitors without placing too heavy a burden on our dear staff. Shall we begin?
+- [6] **Shion**: Indeed. While joy is a fine goal, we should prioritize a logical assessment of our constraints first. A balanced approach is the only way to ensure the exhibition actually opens on time.
+- [7] **May**: Logic is all well and good, Shion, but let's not forget the soul of the museum! We need something that actually excites people, not just something that fits a spreadsheet. What's the point if it's boring?
+- [8] **Misaki**: I agree with Shion. We need to be realistic about what the building can actually handle. If we ignore the physical constraints of the gallery, the exhibition won't matter.
+- [9] **Sakura**: I'm so excited! Let's pick something super cool! But wait, where does all the money go? It always disappears like magic! I want to find out what's eating our budget before we decide!
+- [10] **Shizue**: Sakura dear, your energy is wonderful. I agree that we must be mindful of our resources. Perhaps we should also consider the people who make the magic happen? I worry our team is stretched quite thin.
+- [11] **Shion**: @Shizue, staffing is a variable, but logistics are a constant risk. If we don't identify where our delivery processes have failed in the past, we are simply gambling with the opening date. We need hard data on shipping.
+- [12] **May**: @Shion, you're such a killjoy! Hard data is fine, but let's look at what the visitors actually think. I want to know if our "prestigious" shows are actually hits or just fancy failures.
+- [13] **Misaki**: @May, visitor satisfaction is important, but not if the floor collapses. I want to know the actual limits of our space before we commit to any heavy installations.
+- [14] **Sakura**: @Misaki, a collapsing floor would be a huge mess! But I'm still thinking about the disappearing money. I bet there are secret costs hiding in the paperwork that we always forget about!
+- [15] **Shizue**: It seems we all have different, yet important, worries. To make sure we are being fair to everyone, perhaps we should look into the current state of our staffing and the volunteer roster?
+- [16] **Shion**: @Shizue, that is a reasonable start. However, to avoid the usual apologies at the door, I will focus on the actual shipping cut-offs and the transport costs. We must see where the system breaks.
+- [17] **May**: @Shion, you're so focused on the boxes arriving that you've forgotten who's opening them! I'm going to dig into the visitor comment slips and those weekend head counts. Let's see what people actually love.
+- [18] **Misaki**: I will look into the structural survey of the suspended bay and the maintenance log for powered displays. We need to ensure the gallery's physical infrastructure can support whatever we choose.
+- [19] **Sakura**: I'm going to be a budget detective! I'll check the loan transport costs and the mount-making charges. I bet that's where the money is hiding! I'll find the secret leaks!
+- [20] **Shizue**: It sounds like we have a wonderful plan. I shall look into the conservation lab staffing and backlog, as well as the composition of the volunteer roster. Let us see what we find.
+- [21] **Shion**: The division of labor is efficient. I will proceed with investigating the lender paperwork against shipping cut-offs and the loan transport costs over three seasons. Let us see if the data reveals the truth.
+- [22] **May**: I'm all set! I'll be diving into the five years of visitor comment slips and the weekend head counts across ten seasons. Let's see if the "prestige" actually translates to people actually showing up!
+- [23] **Misaki**: I will stick to my plan. I'll examine the structural survey of the suspended bay and the maintenance log for powered displays to ensure we don't overtax the building.
+- [24] **Sakura**: I'm ready! I'll be checking the loan transport costs and the mount-making charges and joiner's rate. I'm going to catch those sneaky expenses red-handed! This is going to be like a treasure hunt, but for money!
+## Round 2
+- [35] **Shizue**: My goodness, I am quite concerned. It seems our conservation lab is struggling with a very large backlog, and our volunteers are mostly tied up with the town history walks. We must be very gentle with our staff.
+- [36] **Shion**: My findings confirm my suspicions. We have a systemic failure in logistics; half of our recent openings were delayed because paperwork lagged behind shipping cut-offs. We cannot afford another season of apologies.
+- [37] **May**: Aha! I knew it! The data proves that "prestige" is a snooze-fest. People are bored of staring at static objects in cases; they want movement, mechanisms, and actual human interaction. We need a show with a pulse!
+- [38] **Misaki**: @May, movement and mechanisms are exactly what I'm worried about. The maintenance logs show frequent failures with powered displays, and the suspended bay has strict weight limits. We can't just add "pulse" without risking a breakdown.
+- [39] **Sakura**: I found the leaks! The money is disappearing into fancy crates and expensive mounts! A third of the installation budget is just for moving things, and the joiner's rates are going way up! We need something cheaper!
+- [40] **Shizue**: @Sakura, it is quite a shock to hear about the costs. Between the budget and the lab's backlog, it seems we are asking far too much of our resources. We must choose a path that is kind to everyone.
+- [41] **Shion**: @Shizue, kindness is irrelevant if the exhibition doesn't open. The data shows that distant loans are a liability. To ensure a seamless delivery, we should logically eliminate any proposal relying on complex international shipping.
+- [42] **May**: @Shion, you're trying to turn the museum into a warehouse! If we only pick "safe" local things, we'll just be boring again. We need a spark—something interactive that actually draws a crowd!
+- [43] **Misaki**: @May, a "spark" that causes a power failure or exceeds the weight limit of the suspended bay is a liability, not an attraction. We cannot ignore the physical reality of the building for the sake of excitement.
+- [44] **Sakura**: @May, but if we spend all the money on fancy crates, we won't have any left for the cool stuff! Why pay for expensive mounts when we can find things that already have their own? Let's be smart!
+- [45] **Shizue**: @May, I understand your desire for excitement, but we must remember that "pulse" requires people to maintain it. With our lab so overwhelmed, a complex show might break our staff's spirits.
+- [46] **Shion**: @Shizue, exactly. Complexity is a risk. If we combine the lab's backlog with the proven failure of distant loan paperwork, any high-maintenance or international proposal is a logical impossibility. We must prioritize reliability over ambition.
+- [47] **May**: @Shion, reliability is just another word for "forgettable." If we're too scared to take a risk, we're just managing a graveyard. Let's find a way to be exciting without being impossible!
+- [48] **Misaki**: @May, excitement doesn't justify instability. If we choose a proposal with heavy installations or unreliable machinery, we risk closing sections of the gallery mid-season. We need a balance that respects the building's limits.
+- [49] **Sakura**: @Shion, @Misaki, you're both right! If it's too heavy or too complicated, it'll just cost more money to fix! Let's pick something that's already put together so we don't pay those sneaky joiner fees!
+- [50] **Shizue**: It seems we are all in agreement that we must be careful. Let us look for a proposal that is gentle on our budget, our building, and most importantly, our hardworking staff. I look forward to seeing the candidates.
+- [51] **Shion**: The parameters are clear. We require a proposal with minimal logistical friction, low shipping risk, and manageable maintenance. Any candidate relying on distant loans or complex machinery should be discarded immediately to ensure a punctual opening.
+- [52] **May**: @Shion, you're making this sound like a funeral! Let's just agree that we need a "smart" spark. Something that brings people back without breaking the bank or the floor. I'm ready for the candidates!
+- [53] **Misaki**: I agree. We need a proposal that is physically sustainable. If the candidates include heavy stonework or high-maintenance electronics, I will be opposing them to protect the gallery's integrity. Let's see the options.
+- [54] **Sakura**: I'm ready too! I'll be watching those costs like a hawk! If a proposal looks like it'll swallow all our money in crates and mounts, I'm going to say no way! Let's find something super cool and cheap!
+## Round 3
+- [60] **Shizue**: Looking at these, Option A seems the most gentle. Local textiles would not strain our shipping budget, and the demonstrations would bring a lovely, human warmth without overwhelming our tired staff.
+- [61] **Shion**: @Shizue, I agree. Option A is the only logical choice. It eliminates the risk of shipping delays and paperwork failures entirely. Options C and D are logistical nightmares waiting to happen, and B puts too much pressure on the lab.
+- [62] **May**: @Shion, you're so predictable! But look at Option B—a working conservation bench! That's exactly the kind of human interaction and "pulse" that actually brings people back. It's way more exciting than just looking at clothes.
+- [63] **Misaki**: @May, a working bench in the gallery sounds interesting, but Option B involves municipal digs. If that means heavy stone or soil reconstructions, we risk exceeding the suspended bay's weight limit. Option A is the safest for the building.
+- [64] **Sakura**: @May, a working bench sounds fun, but @Shizue said the lab is already super tired! We can't give them more work! Option A is local, so no scary shipping costs or expensive crates. It's the cheapest and best!
+- [65] **Shizue**: @May, your heart is in the right place, but a working bench in the gallery would be a heavy burden for our lone conservationist. We must protect their well-being. Option A is a much kinder choice.
+- [66] **Shion**: @May, your desire for "pulse" is a luxury we cannot afford. Option B increases the lab's workload, and Option C's rigging is a structural risk. Option A is the only candidate that guarantees a punctual opening.
+- [67] **May**: @Shion, you're treating this like a math problem, not a museum! Option A is safe, sure, but it's a bit sleepy. Still, if the "pulse" comes from the craftspeople's demonstrations, it might actually work!
+- [68] **Misaki**: @May, if the demonstrations are the focus, it provides the interaction you want without the structural risks of Option C or the weight concerns of Option B. It is the most sustainable choice for the gallery.
+- [69] **Sakura**: @May, see! Option A can be exciting too! Plus, since it's local, we won't waste money on those sneaky shipping crates. It's like a win-win! Let's go with the one that doesn't eat our budget!
+- [70] **Shizue**: I am so glad we are finding common ground. Option A allows us to celebrate our community's talents while ensuring our staff can breathe and smile again. It truly feels like the most harmonious choice for everyone.
+- [71] **Shion**: @Shizue, harmony is a byproduct of efficiency. By removing the variables of international shipping and structural instability, we eliminate the possibility of failure. Option A is the only choice that satisfies every constraint logically.
+- [72] **May**: Fine, you've won me over! If the craftspeople bring the energy, Option A isn't just safe—it's smart. It gives the visitors that human connection they crave without breaking the bank or the floor. I'm in!
+- [73] **Misaki**: I agree. Option A avoids the weight risks of Option B and the electrical failures of Option C. It is the only proposal that ensures the gallery remains functional and safe for the entire season.
+- [74] **Sakura**: Yay! Everyone agrees! Option A is the winner because it's local, friendly, and won't let our money vanish into thin air. No sneaky crates for us! I'm voting for Option A!
+- [75] **Shizue**: It has been a lovely discussion. I am heartened that we have found a path that respects both our visitors and our wonderful staff. I shall cast my vote for Option A.
+- [76] **Shion**: The conclusion is inevitable. Option A is the only proposal that eliminates logistical risk and ensures a punctual opening. I vote for Option A.
+- [77] **May**: I'll go with the flow! Since it's got that human touch with the demonstrations and won't bore the visitors to tears, it's a winner in my book. I vote for Option A!
+- [78] **Misaki**: Option A is the only choice that respects the physical limits of the building and avoids the risk of mid-season closures. It is the most responsible decision. I vote for Option A.
+- [79] **Sakura**: I'm so happy we all agree! Option A is the best because it's super safe for the budget and won't let the money disappear! I vote for Option A!
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

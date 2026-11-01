@@ -1,0 +1,73 @@
+# shared_living_0017__multi-public (shared_living)
+
+## Round 1
+- [5] **Asuka**: The current setup is failing. Mornings are chaotic, and bikes get damaged. We need a system that actually works.
+- [6] **Ryuji**: I agree the current state is unsustainable. However, before proposing solutions, we must understand the financial implications. What is the actual cost of maintaining a new system?
+- [7] **George**: I have watched the parking area for years. The same flats seem to keep the best spots. I need to verify if this is fact or just resentment.
+- [8] **Shunichi**: Ryuji, costs are secondary. If this rule makes neighbors hostile, the building rots from the inside. I need to know the social fallout.
+- [9] **Mio**: I’m worried about who actually does the work! The last two jobs just vanished because nobody wanted the hassle. I need to know the real effort involved.
+- [10] **Asuka**: @George, your observation about the same flats holding spots is critical. I need to verify if the physical layout or just habit causes this.
+- [11] **Ryuji**: @Mio, the effort is real, but the ledger is empty. I need to know if we have funds for any new system.
+- [12] **George**: @Ryuji, I will check the minutes to see if the current arrangement was ever formally reviewed or just drifted into place.
+- [13] **Shunichi**: @Mio, the social fallout is exactly what I mean. If people start timing their exits to avoid each other, the building rots. I need to know the real cost of that friction.
+- [14] **Mio**: @Shunichi, I hear you, but I’m scared of the paperwork! I’ll check the treasurer’s file to see how much time the current cash handling actually eats up.
+- [15] **Asuka**: @Ryuji, I will check the morning departures to quantify the actual chaos. @Mio, I will also check the rain exposure to see if location dictates damage.
+- [16] **Ryuji**: @Asuka, quantifying the chaos is useful, but I need the financial baseline. I will check the building account's two-year ledger and the ward cycle park by the station.
+- [17] **George**: @Asuka, your morning data will show the friction. I will check the five years of minutes and the sticker register to see who actually rides daily.
+- [18] **Shunichi**: @Mio, your treasurer check covers the workload. I’ll check the complaint log and the neighbouring block’s account to see how these arrangements actually sour relationships.
+- [19] **Mio**: @Ryuji, checking the ledger is smart! I’ll look into the supplier’s display frame trial to see if the physical effort is manageable for one person.
+- [20] **Asuka**: I will check the morning departures and the rain exposure. This will show us the physical reality of the current failure.
+- [21] **Ryuji**: I will check the building account's two-year ledger and the ward cycle park by the station. This establishes the financial baseline and external alternatives.
+- [22] **George**: I will check the five years of association minutes and the sticker register. This will reveal if the current arrangement was ever formally reviewed and who actually rides daily.
+- [23] **Shunichi**: I will check the complaint log and the neighbouring block's account. This will reveal how these arrangements actually sour relationships.
+- [24] **Mio**: I’ll check the supplier’s display frame trial and the treasurer’s handover file. I need to know the physical effort and the paperwork burden!
+## Round 2
+- [35] **Asuka**: The data confirms the chaos. Eleven bikes leave between seven and nine, and four required shifting others. Rain exposure also dictates damage.
+- [36] **Ryuji**: The ledger shows no capital funds, requiring a levy. The station park costs 2,600 yen monthly with a long waitlist. We must price this accurately.
+- [37] **George**: The minutes confirm my suspicion. The same flats held the covered spots for five years without any review. It was never fair, just inertia.
+- [38] **Shunichi**: Nine complaints died because no one owned them. The block behind us lost two members to a simple fee. We are walking into a trap.
+- [39] **Mio**: Wow, three hours a month just for the current mess! Adding per-place billing sounds like a nightmare. Who actually has time for that?
+- [40] **Asuka**: @Ryuji, the station park is full. We cannot outsource this. @George, five years of inertia proves the current system is broken. We need a structural fix, not just a price tag.
+- [41] **Ryuji**: @Asuka, the station park is full, but the 2,600 yen benchmark is vital. It shows residents value convenience. We must price our solution against that external reality.
+- [42] **George**: @Ryuji, pricing is secondary to fairness. The minutes prove the current setup is arbitrary. I need a system that actually reflects who uses the space daily.
+- [43] **Shunichi**: @George, fairness is abstract. The block behind us shows fees create enemies. If we charge, we lose people. I need a system that doesn’t force confrontation.
+- [44] **Mio**: @Shunichi, I get the social risk! But @Ryuji, the ledger is empty. If we charge, who handles the extra three hours of paperwork?
+- [45] **Asuka**: @Mio, the rain data proves location dictates damage. We need a system that accounts for this physical reality, not just abstract fairness.
+- [46] **Ryuji**: @Mio, the ledger confirms zero capital funds. Any new system requires a levy. @Shunichi, the 2,600 yen benchmark proves residents value convenience. We must price accordingly.
+- [47] **George**: @Shunichi, the sticker register shows daily riders prefer paying over equal claims. @Mio, the minutes prove the current setup is arbitrary. We need a fair, sustainable method.
+- [48] **Shunichi**: @George, that register data is dangerous. If daily riders pay, casual users resent it. The block behind us proves fees isolate people. We need a system that doesn’t create a two-tier building.
+- [49] **Mio**: @George, the spring needs greasing twice a year! That’s a recurring chore. @Shunichi, if we pick shared racks, I can handle the greasing, but I need a backup!
+- [50] **Asuka**: @Mio, the greasing is trivial compared to the morning chaos. @George, the rain data proves location dictates damage. We need a system that accounts for this physical reality, not just abstract fairness.
+- [51] **Ryuji**: @Mio, the greasing is trivial compared to the morning chaos. @George, the rain data proves location dictates damage. We need a system that accounts for this physical reality, not just abstract fairness.
+- [52] **George**: @Ryuji, the ledger is empty, but the sticker register shows daily riders prefer paying. @Shunichi, the block behind us proves fees isolate people. We need a fair, sustainable method.
+- [53] **Shunichi**: @Mio, greasing is trivial. The real danger is social fracture. @George, the block behind us proves fees isolate people. We need a system that doesn’t create a two-tier building.
+- [54] **Mio**: @Shunichi, I hear you! But @George, if we go shared racks, I can handle the greasing. We just need a clear backup plan so it doesn’t vanish again!
+## Round 3
+- [60] **Asuka**: @Ryuji, the ledger is empty, so Option A’s income is vital. But @Shunichi, the block behind us proves fees isolate people. We need a system that doesn’t create a two-tier building.
+- [61] **Ryuji**: @Asuka, the ledger is empty, so Option A’s income is vital. But @Shunichi, the block behind us proves fees isolate people. We need a system that doesn’t create a two-tier building.
+- [62] **George**: @Shunichi, the sticker register shows daily riders prefer paying over equal claims. @Mio, the minutes prove the current setup is arbitrary. We need a fair, sustainable method.
+- [63] **Shunichi**: @George, the sticker register is a trap. The block behind us proves fees isolate people. Option A creates a two-tier building. I reject it.
+- [64] **Mio**: @Shunichi, I hear you! But @George, if we pick shared racks, I can handle the greasing. We just need a clear backup plan so it doesn’t vanish again!
+- [65] **Asuka**: @Ryuji, the morning data shows shifting bikes is the core problem. Option B eliminates that friction entirely. @George, the rain exposure is a physical reality we must address, not just a financial one.
+- [66] **Ryuji**: @Asuka, Option B ignores the empty ledger. Without income, maintenance fails. @Mio, the greasing burden is unsustainable. We need the revenue from Option A to fund the system.
+- [67] **George**: @Ryuji, the ledger is empty, but the sticker register shows daily riders prefer paying. @Shunichi, the block behind us proves fees isolate people. We need a fair, sustainable method.
+- [68] **Shunichi**: @Ryuji, the ledger is empty, but Option A’s fees create the exact social fracture I warned about. The block behind us lost members to a simple charge. I reject A.
+- [69] **Mio**: @Ryuji, the greasing is just twice a year! I can handle that. @Shunichi, Option B avoids the social trap. Let’s not let paperwork scare us away from fairness!
+- [70] **Asuka**: @Ryuji, Option B solves the morning chaos and rain damage without fees. @Shunichi, it prevents the social fracture you fear. It is the only logical choice.
+- [71] **Ryuji**: @Asuka, Option B ignores the empty ledger. Without income, maintenance fails. @Mio, the greasing burden is unsustainable. We need the revenue from Option A to fund the system.
+- [72] **George**: @Ryuji, the ledger is empty, but the sticker register shows daily riders prefer paying. @Shunichi, the block behind us proves fees isolate people. We need a fair, sustainable method.
+- [73] **Shunichi**: @Ryuji, the ledger is empty, but Option A’s fees create the exact social fracture I warned about. The block behind us lost members to a simple charge. I reject A.
+- [74] **Mio**: @Ryuji, the greasing is just twice a year! I can handle that. @Shunichi, Option B avoids the social trap. Let’s not let paperwork scare us away from fairness!
+- [75] **Asuka**: @Ryuji, the morning chaos is the immediate crisis. Option B eliminates the shifting and the rain damage. We cannot ignore the physical reality for a hypothetical budget.
+- [76] **Ryuji**: @Asuka, the physical chaos is real, but the empty ledger is a hard constraint. Option B has no revenue source. I cannot support a system that guarantees financial failure.
+- [77] **George**: @Ryuji, the ledger is empty, but the sticker register shows daily riders prefer paying. @Shunichi, the block behind us proves fees isolate people. We need a fair, sustainable method.
+- [78] **Shunichi**: @Ryuji, the ledger is empty, but Option A’s fees create the exact social fracture I warned about. The block behind us lost members to a simple charge. I reject A.
+- [79] **Mio**: @Ryuji, the greasing is just twice a year! I can handle that. @Shunichi, Option B avoids the social trap. Let’s not let paperwork scare us away from fairness!
+### Vote
+- Asuka -> B
+- Ryuji -> A
+- George -> B
+- Shunichi -> B
+- Mio -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about programs that collapse in year two. I want to see where recent starts actually broke down.
+- [6] **Jonathan**: I am concerned about which past initiatives actually helped patients. I want to review what earlier attempts produced before adding another.
+- [7] **Misaki**: I need to understand how staffing pressure shifts when a new program launches. I will look at the ward nursing vacancies and agency cover.
+- [8] **Shion**: The budget is a one-time gift, not a promise. I need to know what this allocation actually covers before we commit to anything.
+- [9] **Shizue**: I am curious how a new program fits into the daily flow. I want to see the booking system records and room coverage.
+- [10] **Midori**: @Shion, that is a fair point. I am also checking the board minutes on the jointly run clinic to see how that arrangement held up.
+- [11] **Jonathan**: @Midori, I agree. I will look at the readmission figures from the call-back trial to see if that earlier effort actually reduced returns.
+- [12] **Misaki**: @Jonathan, readmission data is useful, but I am focused on who actually covers the shifts. I will check the therapy and midwifery staffing review.
+- [13] **Shion**: @Misaki, staffing is a recurring cost, not a capital one. I will check the ledger to see what is actually left after the initial build.
+- [14] **Shizue**: @Shion, I understand your caution. I will also look at the regional fund tariffs to see how travel costs affect patient access.
+- [15] **Midori**: @Misaki, staffing gaps are often the first sign of trouble. I will check the data agreements with outside surgeries to see if those partners are truly committed.
+- [16] **Jonathan**: @Misaki, staffing is vital, but I need to know if the work actually reached patients. I will check the visit completion on the shared nursing round.
+- [17] **Misaki**: @Shizue, travel costs matter, but the human element is often overlooked. I will check the ward nursing vacancies and agency cover.
+- [18] **Shion**: @Shizue, tariffs are a variable, not a fixed cost. I will check the ledger to see the actual development allocation.
+- [19] **Shizue**: @Misaki, I hear you. The human element is crucial. I will check the rooms, parking and shuttle coverage to see if the physical space can handle the extra load.
+- [20] **Midori**: I will check the board minutes on the jointly run clinic and the data agreements with outside surgeries.
+- [21] **Jonathan**: I will check the readmission figures during the call-back trial and the visit completion on the shared nursing round.
+- [22] **Misaki**: I will check the ward nursing vacancies and agency cover, and the therapy and midwifery staffing review.
+- [23] **Shion**: I will check this year's development allocation in the ledger and the regional fund tariffs by contact location.
+- [24] **Shizue**: I will check the booking system records and the rooms, parking and shuttle coverage.
+## Round 2
+- [35] **Midori**: The jointly run clinic collapsed because neither department owned the rota. I am worried about shared responsibilities.
+- [36] **Jonathan**: The call-back trial reduced readmissions by a fifth, but only while it ran. I need to know if that effort actually stuck.
+- [37] **Misaki**: Nine unfilled posts and rising agency costs. The therapy review shows physios leaving, but midwifery has slack. I need to see how that imbalance affects new programs.
+- [38] **Shion**: The allocation is down a quarter. Off-site contacts earn nothing. We need a program that generates revenue on-site to survive.
+- [39] **Shizue**: The booking system only tracks named slots. Unplanned work vanishes. The car park fills by eleven, and the shuttle misses most villages.
+- [40] **Midori**: @Shion, that revenue gap is critical. If a program relies on outside partners, the fourteen-month agreement delay makes it impossible to launch on time.
+- [41] **Jonathan**: @Midori, the shared round lost a third of visits to access barriers. If patients cannot reach us, the program fails before it starts.
+- [42] **Misaki**: @Shion, the agency costs are eating the budget. A program needing extra therapy staff will just add to the vacancy problem.
+- [43] **Shion**: @Jonathan, access is a tariff issue. If we bill on-site, we capture the revenue. Off-site is a financial black hole.
+- [44] **Shizue**: @Jonathan, access is indeed a barrier. But the car park is full by eleven. We must ensure the new program does not clog the existing flow.
+- [45] **Midori**: @Misaki, the staffing imbalance is real. If we add a program needing physios, we are just deepening the hole. I worry about that strain.
+- [46] **Jonathan**: @Misaki, the shared round lost a third of visits to access barriers. If patients cannot reach us, the program fails before it starts.
+- [47] **Misaki**: @Midori, exactly. The midwifery slack is a rare asset. We should not waste it on a program that needs scarce physios.
+- [48] **Shion**: @Midori, the data agreements are a liability. I need to see the actual tariff capture before we approve any off-site model.
+- [49] **Shizue**: @Misaki, I agree. We must protect the midwifery slack. I am worried the new program will just add to the existing congestion.
+- [50] **Midori**: I am ready to see the candidates. We need a model that does not depend on fragile external partnerships or scarce staff.
+- [51] **Jonathan**: I am ready to see the candidates. We must choose something that actually reaches patients, not just another quiet initiative that fades away.
+- [52] **Misaki**: I am ready to see the candidates. We must pick a program that fits the current staffing reality, not one that ignores the vacancies.
+- [53] **Shion**: I am ready. The numbers are clear. We need a program that pays for itself on-site, or it is a waste of the reduced allocation.
+- [54] **Shizue**: I am ready to see the candidates. We must choose a program that fits gently into our current flow, without causing the system to seize up.
+## Round 3
+- [60] **Midori**: Candidate D uses midwifery, which Misaki says has slack. It avoids the scarce physios and external data agreements. It feels like the most stable choice for us.
+- [61] **Jonathan**: Candidate A mirrors the call-back trial that actually reduced readmissions. It reaches patients where they are, unlike the shared round that failed on access.
+- [62] **Misaki**: Candidate D fits the midwifery slack perfectly. It avoids the physio shortage and the agency costs I flagged. It is the only option that respects our current staffing reality.
+- [63] **Shion**: Candidate A is a financial black hole. Off-site visits earn zero tariff. With the allocation down a quarter, we cannot afford a program that generates no on-site revenue.
+- [64] **Shizue**: Candidate D fits the midwifery slack. But the car park is full by eleven. Will the new classes just add to the morning congestion?
+- [65] **Midori**: @Shizue, that is a valid concern. But D is scheduled, not walk-in. We can stagger the classes to avoid the eleven o'clock peak.
+- [66] **Jonathan**: @Shion, the call-back trial proved that reaching patients at home works. The readmission drop was real. We cannot ignore that evidence just because the tariff is zero.
+- [67] **Misaki**: @Shion, the tariff is zero, but the agency bill is not. D uses existing midwifery slack, avoiding the expensive cover I flagged.
+- [68] **Shion**: @Jonathan, the readmission drop is a statistic, not a budget line. If A generates no tariff, it is a permanent drain on our reduced allocation.
+- [69] **Shizue**: @Midori, I appreciate the thought. Staggering helps, but the booking system only tracks named slots. We must ensure D has fixed, bookable times so it does not vanish from our records.
+- [70] **Midori**: @Shizue, you are right. Fixed slots are essential. I will ensure D is booked as distinct, named appointments so the system captures every visit clearly.
+- [71] **Jonathan**: @Shion, the trial proved the model works. But the shared round failed on access. A must solve that barrier, or it is just another quiet failure.
+- [72] **Misaki**: @Shion, the agency bill is the real drain. D uses existing midwifery slack, avoiding the expensive cover I flagged. It is the only option that respects our current staffing reality.
+- [73] **Shion**: @Misaki, slack is not a strategy. D generates on-site tariff, unlike A. It is the only option that respects the ledger.
+- [74] **Shizue**: @Shion, I agree. D generates on-site revenue. But we must ensure the parking and shuttle can handle the extra foot traffic without disrupting the existing flow.
+- [75] **Midori**: I am ready to vote. Candidate D respects our staffing reality and generates on-site revenue. It is the most stable path forward for our team.
+- [76] **Jonathan**: I am ready to vote. Candidate A is the only one with proven patient impact. I will vote for A, hoping we can solve the access barriers.
+- [77] **Misaki**: I am ready to vote. Candidate D is the only choice that aligns with our staffing reality. I will vote for D.
+- [78] **Shion**: I am ready to vote. Candidate D is the only option that generates on-site tariff. It respects the reduced allocation and avoids the financial black hole of off-site visits.
+- [79] **Shizue**: I am ready to vote. Candidate D fits our flow best. With fixed slots and staggered times, it will not seize up our already busy day.
+### Vote
+- Midori -> D
+- Jonathan -> A
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

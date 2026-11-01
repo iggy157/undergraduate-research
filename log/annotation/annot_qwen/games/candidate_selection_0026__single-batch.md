@@ -1,0 +1,73 @@
+# candidate_selection_0026__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to know if our past efforts actually changed patient outcomes before adding more.
+- [6] **Toshio**: The infrastructure must absorb the new load without seizing up. I am concerned about capacity.
+- [7] **Benjamin**: Approval is easy; failure in year two is the real risk. I want to see where things broke.
+- [8] **Yumi**: Rosters are where the pressure lands. I need to see the staffing records clearly.
+- [9] **Servas**: We must understand the true cost and return. I want to see the financial reality.
+- [10] **Asuka**: @Benjamin, do you have specific examples of recent failures you are referring to?
+- [11] **Toshio**: @Yumi, staffing is critical, but physical space is equally limiting. We must check both.
+- [12] **Benjamin**: @Asuka, yes, but I am looking for structural causes, not just anecdotes.
+- [13] **Yumi**: @Toshio, I agree. If the rooms are full, the staff cannot work effectively.
+- [14] **Servas**: I will look at the ledger to see what we can actually afford to build.
+- [15] **Asuka**: I will review the readmission figures to see if previous trials had lasting impact.
+- [16] **Toshio**: I will check the booking system to see how much unlogged work exists.
+- [17] **Benjamin**: I will look at the board minutes regarding the jointly run clinic closure.
+- [18] **Yumi**: I will examine the ward nursing vacancies and agency cover costs.
+- [19] **Servas**: I will also check the regional fund tariffs to understand revenue potential.
+- [20] **Asuka**: That covers my initial questions. I am ready to review the data.
+- [21] **Toshio**: Agreed. Let us see what the records say before we speculate further.
+- [22] **Benjamin**: I am confident the minutes will reveal the pattern of shared responsibility failure.
+- [23] **Yumi**: I hope the staffing data shows where the real burden is falling.
+- [24] **Servas**: A clear picture of costs and revenues is essential for a sustainable decision.
+## Round 2
+- [35] **Asuka**: The readmission data shows a clear drop during the trial, but it reversed after.
+- [36] **Toshio**: The booking system only logs named slots. Unplanned work is invisible to management.
+- [37] **Benjamin**: The board minutes confirm the joint clinic failed because neither department owned the budget.
+- [38] **Yumi**: Agency cover is rising sharply. The therapy team is shrinking, but midwifery has slack.
+- [39] **Servas**: The development budget is down by a quarter. Off-site visits generate no tariff revenue.
+- [40] **Asuka**: @Servas, if off-site visits earn nothing, how do we justify a home follow-up program?
+- [41] **Toshio**: @Benjamin, that explains the joint clinic failure. We need clear ownership structures.
+- [42] **Benjamin**: @Toshio, exactly. The booking system gap means we cannot even measure the workload properly.
+- [43] **Yumi**: @Asuka, the midwifery slack is interesting. Could we leverage that for a new service?
+- [44] **Servas**: @Yumi, the budget cut means we must prioritize on-site services that bill at standard rates.
+- [45] **Asuka**: The shared nursing round lost a third of visits. Home visits are risky without support.
+- [46] **Toshio**: The car park fills by eleven. Any new outpatient service will face immediate capacity issues.
+- [47] **Benjamin**: Data agreements take fourteen months. Any program relying on outside surgeries is too slow.
+- [48] **Yumi**: The therapy staffing loss is severe. We cannot expand rehabilitation without new hires.
+- [49] **Servas**: On-site sessions bill at standard rates. We must focus on what we can deliver in-house.
+- [50] **Asuka**: The evidence suggests home-based programs are fragile without strong infrastructure.
+- [51] **Toshio**: We need a program that fits within existing physical and digital constraints.
+- [52] **Benjamin**: Avoiding external dependencies is key. Internal coordination is more reliable.
+- [53] **Yumi**: Midwifery has capacity. A perinatal service could use existing staff effectively.
+- [54] **Servas**: A perinatal service on-site would generate revenue and use available staff. It seems viable.
+## Round 3
+- [60] **Asuka**: Candidate B, Perinatal Support, uses midwifery slack and stays on-site. It fits the data.
+- [61] **Toshio**: Candidate B requires no new rooms or external data agreements. It is operationally sound.
+- [62] **Benjamin**: Candidate B avoids the joint ownership trap. Midwifery and pediatric departments are distinct.
+- [63] **Yumi**: Candidate B leverages the midwifery capacity I identified. It is a good use of resources.
+- [64] **Servas**: Candidate B bills at standard outpatient rates. It is financially sustainable given the budget cut.
+- [65] **Asuka**: @Servas, I agree. The financial model for B is the strongest among the options.
+- [66] **Toshio**: @Benjamin, yes, and it avoids the booking system gaps by using scheduled consultations.
+- [67] **Benjamin**: @Yumi, the staffing review supports this. We have the people, we just need the program.
+- [68] **Yumi**: @Asuka, the readmission data doesn't apply here, but the staffing data does.
+- [69] **Servas**: I am convinced. Candidate B is the only one that meets all our constraints.
+- [70] **Asuka**: I will vote for B. It is the most logical choice based on the evidence.
+- [71] **Toshio**: I will vote for B. It fits the physical and digital infrastructure we have.
+- [72] **Benjamin**: I will vote for B. It avoids the structural failures we have seen before.
+- [73] **Yumi**: I will vote for B. It uses the available midwifery staff effectively.
+- [74] **Servas**: I will vote for B. It is financially viable and sustainable.
+- [75] **Asuka**: No objections. The data supports this decision clearly.
+- [76] **Toshio**: Agreed. Let us proceed with the vote.
+- [77] **Benjamin**: I am ready to vote.
+- [78] **Yumi**: I am ready to vote.
+- [79] **Servas**: I am ready to vote.
+### Vote
+- Asuka -> B
+- Toshio -> B
+- Benjamin -> B
+- Yumi -> B
+- Servas -> B
+## Result
+- adopted: B

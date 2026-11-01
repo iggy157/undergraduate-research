@@ -1,0 +1,73 @@
+# candidate_selection_0015__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: I want to focus on external dependencies. Let's look at winter road closures and supplier delivery windows.
+- [6] **Yumi**: I’m worried about who can actually reach us. Let’s check the bus links in the outer wards and the winter road closures.
+- [7] **George**: I suspect the funding structure is the real trap. I’ll examine the county grant terms and the running lines from last year.
+- [8] **May**: I’m curious why we keep reinventing the wheel. I’ll check the two programmes from six years ago and the attendance sheets from old outreach stops.
+- [9] **Daisuke**: I’m worried about whether our staff can handle new tasks. I’ll look at the volunteer register and the tool certification records.
+- [10] **Ryuji**: @Yumi, your focus on access is valid. I’m concerned about the reliability of our external partners.
+- [11] **Yumi**: @Ryuji, I agree. If the roads close, our fixed schedule fails. I’m hoping the bus data shows who is truly cut off.
+- [12] **George**: @Ryuji, reliability matters, but I suspect the money runs out before the schedule does. I’ll stick to the grant terms.
+- [13] **May**: @George, money is vital, but we need to know if these ideas actually work here. I’m digging into past records to see what failed.
+- [14] **Daisuke**: @May, I worry about the skills gap. If we add new duties, who actually has the training to handle them safely?
+- [15] **Ryuji**: @Daisuke, that’s a fair point. But if the external conditions fail, no amount of internal training saves the schedule.
+- [16] **Yumi**: @Ryuji, exactly. If the roads close, no training helps. I really hope the bus data shows who is truly cut off.
+- [17] **George**: @Yumi, access is critical, but I worry the funding structure will collapse before we even reach those outer wards.
+- [18] **May**: @George, I hear you, but past records show what actually stuck. I’m checking those old outreach sheets to see who really showed up.
+- [19] **Daisuke**: @George, I understand the funding risk. But if we lack the right skills, the money just sits there unused.
+- [20] **Ryuji**: I’ll look into winter road closures and supplier delivery windows.
+- [21] **Yumi**: I’ll look into the bus links in the two outer wards and the winter road closures.
+- [22] **George**: I’ll look into the county grant terms and the running and equipment lines from last year.
+- [23] **May**: I’ll look into the two programmes begun six years ago and the attendance sheets from former outreach stops.
+- [24] **Daisuke**: I’ll look into the volunteer register and supervision training, and the neighbourhood associations and tool certification.
+## Round 2
+- [35] **Ryuji**: The road closures didn’t stop local halls, but supplier delays are a real risk. We need to avoid relying on external delivery schedules.
+- [36] **Yumi**: @Ryuji, that’s a huge relief! The halls kept running despite the closures. But the bus data is scary: an hour’s round trip to reach us.
+- [37] **George**: The grant covers sessions for only a year, then the flat budget takes over. That’s the trap I warned about.
+- [38] **May**: @George, the grant trap is real, but look at the outreach sheets: forty visitors per session! That’s actual demand, not just a nice-sounding idea.
+- [39] **Daisuke**: @May, those numbers are encouraging. But I found no one on payroll is trained to supervise outside facilitators. That’s a major gap.
+- [40] **Ryuji**: @Daisuke, that supervision gap is critical. If we can’t manage external partners, the program fails regardless of demand.
+- [41] **Yumi**: @Daisuke, that’s worrying. But the bus data shows people are already struggling to reach us. We need to bring the service to them, not wait for them to come.
+- [42] **George**: @Yumi, bringing service to them sounds right, but the vehicle line overran by a third last year. I fear the running costs will swallow the budget.
+- [43] **May**: @George, the vehicle overrun is a real risk, but the demand is undeniable. We can’t ignore forty visitors per session just because the budget looks tight.
+- [44] **Daisuke**: @George, the vehicle costs are high, but the tool certification lapsed. We lack the technical oversight to safely run a workshop.
+- [45] **Ryuji**: @George, the vehicle overrun is a warning, but the scanning delays are worse. We cannot build a schedule on suppliers who slip for larger clients.
+- [46] **Yumi**: @Ryuji, I agree. But the bus data proves people are cut off. We must bring the service to them, not wait for them to come.
+- [47] **George**: @Ryuji, I agree. But the grant only covers sessions for a year. The flat budget must absorb the recurring costs, not just the initial setup.
+- [48] **May**: @Ryuji, I agree. But the digitisation project failed because we ignored past records. We can’t repeat that mistake with new ideas.
+- [49] **Daisuke**: @May, I agree. But the tool certification lapsed. We lack the technical oversight to safely run a workshop.
+- [50] **Ryuji**: I’m leaning toward the mobile service. It avoids the unreliable scanning contractors and the winter road risks. @Yumi, does the bus data support this?
+- [51] **Yumi**: @Ryuji, absolutely! The bus data proves they are cut off. A mobile service brings us to them, solving the access crisis directly.
+- [52] **George**: @Ryuji, I hesitate. The vehicle line overran by a third. If the grant expires, the flat budget cannot absorb that recurring cost.
+- [53] **May**: @George, the vehicle overrun is a real risk, but the demand is undeniable. We can’t ignore forty visitors per session just because the budget looks tight.
+- [54] **Daisuke**: @Ryuji, I worry about the mobile service. We lack trained staff to supervise it, and the tool certification has lapsed.
+## Round 3
+- [60] **Ryuji**: @George, the vehicle overrun is a real risk, but the scanning delays are worse. We cannot build a schedule on suppliers who slip for larger clients.
+- [61] **Yumi**: @Ryuji, I agree. The bus data proves people are cut off. A mobile service brings us to them, solving the access crisis directly.
+- [62] **George**: @Ryuji, I hear you, but the grant only covers sessions for a year. The flat budget must absorb the recurring costs, not just the initial setup.
+- [63] **May**: @George, the grant trap is real, but the digitisation project failed because we ignored past records. We can’t repeat that mistake with new ideas.
+- [64] **Daisuke**: @May, I agree. But the tool certification lapsed. We lack the technical oversight to safely run a workshop.
+- [65] **Ryuji**: @Daisuke, the mobile service needs a staffed help desk, not tool supervision. We have the staff for that, unlike the workshop.
+- [66] **Yumi**: @Daisuke, the mobile service just needs a friendly face, not a certified technician. It’s the safest option for our current skills!
+- [67] **George**: @Ryuji, the mobile service is a recurring cost. The grant vanishes after twelve months, leaving the flat budget to carry the vehicle line.
+- [68] **May**: @George, the grant trap is real, but the digitisation project failed because we ignored past records. We can’t repeat that mistake with new ideas.
+- [69] **Daisuke**: @Ryuji, I agree. The mobile service avoids the tool certification gap. We have the staff for a help desk, unlike the workshop.
+- [70] **Ryuji**: @George, the vehicle overrun is a warning, but the scanning delays are worse. We cannot build a schedule on suppliers who slip for larger clients.
+- [71] **Yumi**: @George, I hear your worry about the budget. But the bus data shows people are cut off. We must bring the service to them, not wait for them to come.
+- [72] **George**: @Yumi, I understand the access crisis. But if the grant expires, the flat budget cannot absorb the recurring vehicle costs. That is the structural flaw.
+- [73] **May**: @George, the grant trap is real, but the digitisation project failed because we ignored past records. We can’t repeat that mistake with new ideas.
+- [74] **Daisuke**: @George, I understand the budget risk. But the mobile service avoids the tool certification gap. We have the staff for a help desk, unlike the workshop.
+- [75] **Ryuji**: I vote for the Mobile Branch Service. It solves the access crisis without relying on unreliable external suppliers or missing technical certifications.
+- [76] **Yumi**: I vote for the Mobile Branch Service! It finally brings us to the people who are cut off.
+- [77] **George**: I vote for the Mobile Branch Service. The vehicle overrun is a warning, but the access crisis is immediate. We must act.
+- [78] **May**: I vote for the Mobile Branch Service. The old outreach sheets prove the demand is real, and we can't ignore it.
+- [79] **Daisuke**: I vote for the Mobile Branch Service. It fits our current skills and avoids the certification gaps I found.
+### Vote
+- Ryuji -> D
+- Yumi -> D
+- George -> D
+- May -> D
+- Daisuke -> D
+## Result
+- adopted: D

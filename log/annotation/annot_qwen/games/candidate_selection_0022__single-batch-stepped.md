@@ -1,0 +1,73 @@
+# candidate_selection_0022__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I need to know who we can actually hire right now. The recruiting bottleneck is killing us.
+- [6] **George**: I want to verify our past wins. Did those companies actually keep their customers?
+- [7] **May**: We are bleeding cash. I need to see what our borrowing options look like for follow-ons.
+- [8] **Rin**: Our quarter-end reporting is a mess. I need to check how new holdings affect our audit.
+- [9] **Mizuki**: Everything is late. I need to understand what external obstacles are blocking our deployments.
+- [10] **Mio**: @George, if we can't verify the wins, how do we justify the next one?
+- [11] **George**: @Mio, I am looking at the retention data. It tells the real story.
+- [12] **May**: @Mizuki, if the obstacles are external, our credit line might not help.
+- [13] **Rin**: @May, I am checking the audit needs. It adds weeks to our close.
+- [14] **Mizuki**: @May, I am looking at the delivery records. It shows where the delays come from.
+- [15] **Mio**: I will look at the recruiter times and the adviser bench.
+- [16] **George**: I will check the account retention and the exit profile.
+- [17] **May**: I will look at the reserve accounts and the credit line terms.
+- [18] **Rin**: I will check the appraisal needs and the independent checks on figures.
+- [19] **Mizuki**: I will look at the security review time and the delivery records.
+- [20] **Mio**: Let's see what we find.
+- [21] **George**: Agreed.
+- [22] **May**: Let's get to work.
+- [23] **Rin**: I hope the numbers are clean.
+- [24] **Mizuki**: We will see.
+## Round 2
+- [35] **Mio**: The recruiters can't place field crews fast enough. That's a problem for hardware.
+- [36] **George**: The back-office tools kept their customers. The ones with premises lost them.
+- [37] **May**: Our credit line only values stock, not subscriptions. That limits our leverage.
+- [38] **Rin**: Hardware needs outside appraisals. That adds six weeks to our audit.
+- [39] **Mizuki**: Security reviews for medical or financial data take three quarters. That's too long.
+- [40] **Mio**: @Mizuki, so if we pick a company with heavy security needs, we're stuck?
+- [41] **George**: @May, that means subscription businesses are harder to finance with our current line.
+- [42] **May**: @George, exactly. We need to be careful about what we back.
+- [43] **Rin**: @Mio, the independent checks show software companies are opaque. Hardware is verifiable.
+- [44] **Mizuki**: @Rin, but the delivery records show hardware can get stuck on supply chains.
+- [45] **Mio**: I'm leaning towards software, but the hiring is tough.
+- [46] **George**: I prefer the quiet back-office tools. They are stable.
+- [47] **May**: I need to see if we can borrow against the new investment.
+- [48] **Rin**: I want to avoid the audit headaches.
+- [49] **Mizuki**: I want to avoid the security review delays.
+- [50] **Mio**: Let's wait for the candidates.
+- [51] **George**: Agreed.
+- [52] **May**: Let's see what we have.
+- [53] **Rin**: I hope it's clean.
+- [54] **Mizuki**: We will decide then.
+## Round 3
+- [60] **Mio**: A is apparel, B is sensors, C is payment software, D is clinic software.
+- [61] **George**: C and D are back-office tools. That matches my preference.
+- [62] **May**: C is subscription-based. My credit line doesn't like that.
+- [63] **Rin**: D has medical records. That means a long security review.
+- [64] **Mizuki**: B has sensors in fields. That means supply chain risks and appraisals.
+- [65] **Mio**: A has physical goods. That means appraisals and hiring issues.
+- [66] **George**: C reconciles payments. It's quiet and stable.
+- [67] **May**: C is software. I can't borrow against it easily.
+- [68] **Rin**: C is software. It's opaque, but no appraisals.
+- [69] **Mizuki**: C is software. No security review delays.
+- [70] **Mio**: I'm voting for C. It's the least problematic.
+- [71] **George**: I'm voting for C. It fits the profile of our successful exits.
+- [72] **May**: I'm voting for C. It's the only one that doesn't break my financing.
+- [73] **Rin**: I'm voting for C. It avoids the audit headaches.
+- [74] **Mizuki**: I'm voting for C. It avoids the security and delivery risks.
+- [75] **Mio**: It seems unanimous.
+- [76] **George**: Yes.
+- [77] **May**: Let's proceed.
+- [78] **Rin**: Agreed.
+- [79] **Mizuki**: Let's move forward.
+### Vote
+- Mio -> C
+- George -> C
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

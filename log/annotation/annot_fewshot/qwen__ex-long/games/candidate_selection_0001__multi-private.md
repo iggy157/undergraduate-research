@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I value patience. Let us examine the data before deciding.
+- [6] **Midori**: I’m a bit shy, but I want to understand what the grant actually covers now. I’ll look into the ledgers and facility rates.
+- [7] **Kenji**: I’m worried the shared facilities might break under the new load! I’ll check the incident logs and the staffing rolls to see if they’re ready.
+- [8] **Benjamin**: I suspect the approved timelines are fiction. I’ll examine the portfolio review of schedule overruns and the closeout files of finished awards.
+- [9] **Toshio**: I need to verify if our past confidence in "promising" projects was misplaced. I will examine the closeout files of finished awards and the portfolio review of schedule overruns.
+- [10] **Servas**: @Midori, your focus on costs is wise. I will examine staffing rolls for technical posts to understand who is genuinely available now.
+- [11] **Midori**: @Servas, that’s a good idea. I’ll also check the national computing agreement to see if those costs are still covered centrally.
+- [12] **Kenji**: @Servas, checking who is actually there is smart! I’m sticking with my two picks: incident logs and staffing rolls. Let’s see if the shared gear can handle the new load
+- [13] **Benjamin**: @Toshio, overlapping on the closeout files is efficient. I will focus on the schedule overruns to isolate where the actual delays occur.
+- [14] **Toshio**: @Benjamin, overlapping is efficient. I will focus on the closeout files to verify if our past confidence in "promising" projects was misplaced.
+- [15] **Servas**: @Kenji, your concern for the gear is valid. I will also review the minutes on secondments and crew strength to see who is genuinely available now.
+- [16] **Midori**: @Kenji, I hope the gear holds up! I’m confirming my choices: the ledgers and the national computing agreement. I need to know what the agency still absorbs centrally.
+- [17] **Kenji**: @Midori, I hope the computing costs are covered! I’m confirming my picks: incident logs and staffing rolls. We need to know if the shared gear is actually ready for the new load!
+- [18] **Benjamin**: @Servas, your focus on crew strength is prudent. I will confirm my choices: schedule overruns and closeout files. We must know where the time actually vanishes.
+- [19] **Toshio**: @Servas, your focus on crew strength is prudent. I will confirm my choices: closeout files and schedule overruns. We must verify if our past confidence was misplaced.
+- [20] **Servas**: @All, our choices are set. I will review staffing rolls and secondment minutes to understand who is genuinely available. Let us proceed with patience.
+- [21] **Midori**: @Servas, I agree. I will review the ledgers and the national computing agreement to see what the agency still absorbs centrally. Let us proceed with care.
+- [22] **Kenji**: @Servas, I’m ready! I’ll check the incident logs and staffing rolls to see if the shared gear can handle the new load. Let’s find out if it’s safe!
+- [23] **Benjamin**: @Servas, patience is admirable, but data is more persuasive. I will review schedule overruns and closeout files to see where the time actually vanishes.
+- [24] **Toshio**: @Servas, patience is necessary, but verification is essential. I will review the closeout files and schedule overruns to confirm if our past confidence was misplaced.
+## Round 2
+- [35] **Servas**: @Midori, the data reveals a shift. Trained phenotyping hands are gone, but modelling applicants arrive. We must value the skills that remain.
+- [36] **Midori**: @Servas, that’s a helpful contrast. My ledgers show vehicle costs frozen, but shipping rose. The computing agreement covers simulations free, yet animal-unit rates spiked. I need to know what the awardee now absorbs.
+- [37] **Kenji**: @Servas, that’s scary! The spectroscopy suite sat idle for eleven weeks! And one engineer covers three institutes? I’m worried the shared gear will break under the new load.
+- [38] **Benjamin**: @Toshio, the data is damning. Breeding colonies double the schedule risk, and mechanism-focused awards often end with questions unresolved. We must avoid biological bottlenecks.
+- [39] **Toshio**: @Benjamin, the data confirms my suspicion. Mechanism-focused awards stall, while catalogue-style ones endure. We must prioritize projects with durable, verifiable outputs over fleeting biological novelty.
+- [40] **Servas**: @Kenji, the idle spectroscopy suite is a warning. My data shows the glasshouse crew remains intact. We must choose a project that leverages those steady hands, not broken gear.
+- [41] **Midori**: @Kenji, I’m sorry the gear is struggling. My data shows the agency still covers simulation hours, but animal-unit rates spiked. We must pick a project that doesn’t rely on those expensive vivarium days.
+- [42] **Kenji**: @Midori, that’s a relief! If simulations are free, we can avoid the broken spectroscopy suite. I’m worried the one engineer can’t fix everything if we add more load!
+- [43] **Benjamin**: @Midori, the free simulations are a lifeline. My data shows biological bottlenecks kill timelines. We must select a project that leverages computation, not fragile breeding colonies.
+- [44] **Toshio**: @Midori, the free simulations align with my findings. Computation-based projects avoid the biological bottlenecks that stall timelines. We must prioritize durable, verifiable outputs over fragile biological novelty.
+- [45] **Servas**: @Toshio, durable outputs are wise. My data shows modelling applicants are plentiful, but senior analysts are seconded. We must choose a project that leverages the available hands, not the absent ones.
+- [46] **Midori**: @Servas, that makes sense. If senior analysts are seconded, we need a project that doesn’t depend on them. I’ll focus on how the remaining costs are split between the agency and the awardee.
+- [47] **Kenji**: @Servas, that’s a huge relief! If modelling people are arriving, we can use the free simulations instead of the broken gear. I’m so glad the shared facilities won’t be overwhelmed!
+- [48] **Benjamin**: @Servas, the absence of senior analysts is a structural flaw. My data shows biological bottlenecks kill timelines. We must select a project that leverages computation, not fragile breeding colonies.
+- [49] **Toshio**: @Servas, the absence of senior analysts is a critical constraint. We must select a project that leverages the available junior hands and free computation, avoiding reliance on absent expertise.
+- [50] **Servas**: @All, the path is clear. We must honor the steady glasshouse crew and the arriving modelling talent. Let us choose a project that fits the hands we actually have, not the ones we lost.
+- [51] **Midori**: @Servas, I agree. We must respect the available hands. I will ensure the final choice avoids the expensive animal-unit rates and leverages the free simulation hours.
+- [52] **Kenji**: @Servas, I agree! We must pick a project that uses the free simulations and the new modelling people. I’m so happy the shared gear won’t be pushed to break!
+- [53] **Benjamin**: @Servas, I concur. We must select a project that leverages the free computation and avoids the fragile biological bottlenecks that kill timelines. Let us proceed with logic.
+- [54] **Toshio**: @Servas, I concur. We must select a project that leverages the available junior hands and free computation, avoiding reliance on absent expertise. Let us proceed with verification.
+## Round 3
+- [60] **Servas**: @All, the data points to a clear path. We must honor the steady glasshouse crew and the arriving modelling talent. Let us choose a project that fits the hands we actually have, not the ones we lost.
+- [61] **Midori**: @Servas, I agree. We must respect the available hands. I will ensure the final choice avoids the expensive animal-unit rates and leverages the free simulation hours.
+- [62] **Kenji**: @Servas, I agree! We need to use the free simulations and the new modelling people. I’m so happy the shared gear won’t be pushed to break!
+- [63] **Benjamin**: @Servas, I concur. The data is clear. We must avoid the biological bottlenecks that kill timelines. Let us select a project that leverages computation, not fragile breeding colonies.
+- [64] **Toshio**: @Servas, I concur. The data confirms that durable, verifiable outputs outlast fleeting novelty. We must select a project that leverages available hands and free computation, avoiding fragile biological bottlenecks.
+- [65] **Servas**: @Midori, your cost clarity is vital. Option B leverages the intact glasshouse crew, avoiding the expensive animal-unit rates you identified. It fits our available hands perfectly.
+- [66] **Midori**: @Servas, I agree. Option B uses the glasshouse crew, which is steady. It avoids the expensive animal-unit rates I found. It fits our available hands perfectly.
+- [67] **Kenji**: @Servas, Option B is perfect! It uses the steady glasshouse crew and avoids the broken spectroscopy suite. I’m so happy the shared gear won’t be pushed to break!
+- [68] **Benjamin**: @Servas, Option B is a trap. Greenhouse trials are biological bottlenecks. My data shows they overrun schedules. Option A offers durable, verifiable outputs without the fragility.
+- [69] **Toshio**: @Benjamin, greenhouse trials are biological bottlenecks. My data shows they stall. Option A offers durable, verifiable outputs without the fragility. I support Option A.
+- [70] **Servas**: @Benjamin, I hear your caution. Yet the glasshouse crew is our steady anchor. Option B honors the hands we actually possess, avoiding the absent expertise that plagues other paths.
+- [71] **Midori**: @Benjamin, I understand your worry about timelines. But Option B uses the steady glasshouse crew, avoiding the expensive animal-unit rates I found. It respects the available hands and keeps costs manageable for the awardee.
+- [72] **Kenji**: @Benjamin, I’m worried! If the greenhouse crew is steady, Option B is safe. I don’t want to risk the shared gear breaking again. I support Option B!
+- [73] **Benjamin**: @Servas, the glasshouse is a biological bottleneck. My data shows breeding colonies double schedule risk. Option A offers durable, verifiable outputs without the fragility. I support Option A.
+- [74] **Toshio**: @Benjamin, I concur. Option A’s catalogue structure aligns with my findings on durable outputs. It avoids the biological fragility that stalls timelines. I support Option A.
+- [75] **Servas**: @All, the evidence is clear. Option B honors the steady glasshouse crew and avoids the absent expertise. I vote for Option B, trusting the hands we actually have to guide us forward.
+- [76] **Midori**: @Servas, I agree. Option B uses the steady glasshouse crew, avoiding the expensive animal-unit rates I found. It respects the available hands and keeps costs manageable for the awardee. I vote for Option B.
+- [77] **Kenji**: @Servas, I agree! Option B uses the steady glasshouse crew and avoids the broken spectroscopy suite. I’m so happy the shared gear won’t be pushed to break! I vote for Option B.
+- [78] **Benjamin**: @Servas, I respect your caution, but the data is unambiguous. Option B is a biological bottleneck. Option A offers durable, verifiable outputs without the fragility. I vote for Option A.
+- [79] **Toshio**: @Servas, I respect your focus on the crew, but the data is unambiguous. Option A’s catalogue structure ensures durable, verifiable outputs. I vote for Option A.
+### Vote
+- Servas -> B
+- Midori -> B
+- Kenji -> B
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: B

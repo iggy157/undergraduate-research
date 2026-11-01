@@ -1,0 +1,73 @@
+# candidate_selection_0014__single-online (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: Let’s start with the obvious: I want to see the condition of works from the earlier programme before we discuss any new drawings.
+- [6] **Misaki**: I agree. I also need to know which regional firms are tendering for earth-moving, as ground conditions often dictate the timeline.
+- [7] **Mio**: I’m worried about the long-term costs! I want to check the upkeep ledger spend per hectare and the terms of the regional habitat fund.
+- [8] **Asuka**: I need to understand who actually maintains these spaces. I’ll look into the groundskeeping roll and bought-in services, plus the volunteer groups working with the division.
+- [9] **Minako**: I need to understand how people actually use the space. I’ll check the timed counts of weekday crossings and the drainage callouts and August heat readings.
+- [10] **Benjamin**: @Misaki, if the clay is as bad as you suspect, our timelines are fiction. I’ll stick to the earlier programme’s condition to see what actually survived.
+- [11] **Misaki**: @Benjamin, exactly. I’ll check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [12] **Mio**: I’m still focused on the money! I’ll check the upkeep ledger spend per hectare and the terms of the regional habitat fund.
+- [13] **Asuka**: I’ll check the groundskeeping roll and bought-in services, plus the volunteer groups working with the division.
+- [14] **Minako**: I’ll check the timed counts of weekday crossings and the drainage callouts and August heat readings.
+- [15] **Benjamin**: @Mio, your ledger check is vital. If the upkeep gap is as wide as I fear, the cheapest option today becomes the most expensive tomorrow.
+- [16] **Misaki**: @Mio, the ledger is crucial, but I need to know if the ground will even let us build it. I’ll check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [17] **Mio**: @Misaki, fair point! But if the ground is tricky, the upkeep costs will skyrocket anyway. I’m sticking with my two choices.
+- [18] **Asuka**: @Minako, your usage data is key. I need to know if the people who use it can actually maintain it. I’ll check the groundskeeping roll and bought-in services, plus the volunteer groups working with the division.
+- [19] **Minako**: @Asuka, agreed. The data will show if the design fights the daily reality. I’ll check the timed counts of weekday crossings and the drainage callouts and August heat readings.
+- [20] **Benjamin**: I’ll check the condition of works from the earlier programme and the record of the eastern avenue planting.
+- [21] **Misaki**: I’ll check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [22] **Mio**: I’ll check the upkeep ledger spend per hectare and the terms of the regional habitat fund.
+- [23] **Asuka**: I’ll check the groundskeeping roll and bought-in services, plus the volunteer groups working with the division.
+- [24] **Minako**: I’ll check the timed counts of weekday crossings and the drainage callouts and August heat readings.
+## Round 2
+- [35] **Benjamin**: @Misaki, the clay risk is real, but the eastern avenue planting is the real warning. Half dead in two years.
+- [36] **Misaki**: @Benjamin, the firms confirm the clay risk, but the phasing notes say we can hoard the south while keeping the park open.
+- [37] **Mio**: @Benjamin, the ledger is brutal. Planted ground costs triple to maintain, and the gap is widening. That’s a huge long-term hit.
+- [38] **Asuka**: @Mio, that triple cost is a nightmare. But my roll check shows only seven staff left; we simply cannot afford that upkeep.
+- [39] **Minako**: @Mio, the heat readings confirm your cost fears. The capped culvert doubled drainage callouts, and the site runs hotter than nearby streets.
+- [40] **Benjamin**: @Minako, the drainage data is damning. If the ground is already failing, adding more water features is asking for trouble.
+- [41] **Misaki**: @Benjamin, the clay is a problem, but the phasing notes are good news. We can hoard the south in stages without closing the park.
+- [42] **Mio**: @Asuka, that’s the nightmare I feared! With only seven staff, we can’t afford triple upkeep. We need a plan that’s cheap to maintain, not just cheap to build.
+- [43] **Asuka**: @Mio, exactly. With seven staff, we can’t absorb triple costs. I need a plan that fits the current rota, not one that demands a new department.
+- [44] **Minako**: @Benjamin, the drainage data is critical. The capped culvert doubled callouts, and heat readings are high. We must design for the ground’s actual behavior, not just aesthetics.
+- [45] **Benjamin**: @Misaki, the phasing is useful, but the clay means any deep work is a gamble. I’m leaning toward whatever survived the last decade.
+- [46] **Misaki**: @Benjamin, deep work is risky, but shallow planting is viable. The firms quote ordinary rates for that, so we can proceed without the slippage gamble.
+- [47] **Mio**: @Benjamin, I hear you, but the habitat fund only pays for planting and water, not hard surfaces. If we ignore that, we’re paying full price for everything.
+- [48] **Asuka**: @Mio, that fund restriction is a trap. If it only covers planting, we’re left footing the bill for everything else. We need a plan that fits our tiny staff, not just the fund’s rules.
+- [49] **Minako**: @Benjamin, the drainage data is critical. The capped culvert doubled callouts, and heat readings are high. We must design for the ground’s actual behavior, not just aesthetics.
+- [50] **Benjamin**: @Mio, the fund terms are a constraint, not a solution. I still judge by what survived. The basin held; the apron failed. I want durability, not just planting.
+- [51] **Misaki**: @Benjamin, durability is key, but the clay limits deep foundations. Shallow planting is the only safe, affordable path forward.
+- [52] **Mio**: @Benjamin, but the ledger says planting is triple the cost! If the fund doesn’t cover it, we’re bankrupt. I need a plan that’s cheap to keep, not just to build.
+- [53] **Asuka**: @Mio, the fund covers the planting, but the staff can’t. We need a plan that doesn’t require a new department.
+- [54] **Minako**: @Mio, the heat data proves the ground is already failing. We can’t ignore the drainage reality just to save money.
+## Round 3
+- [60] **Benjamin**: The candidates are A: Market Plaza, B: Woodland Walk, C: Wetland Restoration, and D: Sports Terraces.
+- [61] **Misaki**: @Benjamin, given the clay risk and phasing notes, I’m leaning toward B. Shallow planting is viable, and we can hoard the south while keeping the park open.
+- [62] **Mio**: @Benjamin, B is a financial trap! The ledger says planted ground costs triple to maintain, and we only have seven staff. I can’t support that.
+- [63] **Asuka**: @Mio, I agree on the cost, but B is the only one the habitat fund actually pays for. A and D are pure city expense.
+- [64] **Minako**: @Mio, the heat data proves the ground is already failing. We can’t ignore the drainage reality just to save money.
+- [65] **Benjamin**: @Misaki, B is a gamble. The eastern avenue proves our planting dies without aftercare. I want the durability of the basin, not the risk of the trees.
+- [66] **Misaki**: @Benjamin, the avenue failed due to missing aftercare, not the soil. With proper contracts, B is viable. The clay makes deep work for A or D impossible anyway.
+- [67] **Mio**: @Benjamin, the fund covers the planting, but the ledger says upkeep is triple! With seven staff, we can’t afford that. I need a plan that doesn’t bankrupt us later.
+- [68] **Asuka**: @Mio, the fund covers the planting, but the staff can’t. We need a plan that doesn’t require a new department.
+- [69] **Minako**: @Benjamin, the drainage data supports C. The wetland manages the water we’re already drowning in, unlike B which ignores the heat and flow.
+- [70] **Benjamin**: @Minako, C is a water feature. The drainage is already failing. Adding ponds is asking for a disaster, not a solution.
+- [71] **Misaki**: @Benjamin, the clay risk is real, but C’s water management aligns with the fund’s terms. B is safer for the ground, but C solves the drainage crisis.
+- [72] **Mio**: @Minako, C is a financial disaster! The ledger says water-managed ground costs triple to maintain. With seven staff, we simply cannot afford that upkeep.
+- [73] **Asuka**: @Mio, the fund covers the water management, but the staff can’t. We need a plan that doesn’t require a new department.
+- [74] **Minako**: @Mio, the fund covers the water, but the staff can’t. We need a plan that doesn’t require a new department.
+- [75] **Benjamin**: @Minako, the drainage is already failing. Adding ponds is asking for a disaster, not a solution. I want the durability of the basin, not the risk of the trees.
+- [76] **Misaki**: @Benjamin, the clay makes deep excavation for A or D impossible. C’s water management aligns with the fund, and the phasing notes allow us to proceed safely.
+- [77] **Mio**: @Minako, I hear the drainage crisis, but the ledger is clear: water-managed ground costs triple to maintain. With seven staff, C is a financial disaster we cannot afford.
+- [78] **Asuka**: @Mio, the fund covers the water, but the staff can’t. We need a plan that doesn’t require a new department.
+- [79] **Minako**: @Mio, the fund covers the water, but the staff can’t. We need a plan that doesn’t require a new department.
+### Vote
+- Benjamin -> B
+- Misaki -> B
+- Mio -> A
+- Asuka -> A
+- Minako -> C
+## Result
+- adopted: A

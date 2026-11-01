@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Victoria**: We should be careful about the financial implications of this move. I suggest we look into the floor billing and the facilities quote first.
+- [6] **Minato**: I wonder if the desks are comfortable for everyone. Maybe we can check the physio's notes and the sound levels?
+- [7] **May**: I'm more worried about how this affects our actual flow. I want to know about the morning routines and the badge records.
+- [8] **Shunichi**: Let's not forget that some seats are objectively worse than others. I'll look into the staff survey and the past shuffles to see who's been stuck where.
+- [9] **Daisuke**: Um... I think... maybe we should see how people actually interact. I'd like to know about the project strands and what the new joiners felt.
+- [10] **Victoria**: @Minato, sound levels are important, but costs are the primary constraint. We can't ignore the budget.
+- [11] **Minato**: I understand, Victoria. I just think if we feel tired or it's too noisy, we might not work as well.
+- [12] **May**: Exactly! Efficiency is key. If we spend twenty minutes just getting settled every morning, we're losing precious time.
+- [13] **Shunichi**: Efficiency is a fine goal, May, but let's be honest: some of us will end up in the drafty corner. We need a fair way to handle that.
+- [14] **Daisuke**: I... I agree with Shunichi. I just hope we can sit in a way that makes it easier to talk to each other.
+- [15] **Victoria**: Fairness is a valid point, but it must be balanced with the budget. Let's ensure we have the hard numbers before we decide on a layout.
+- [16] **Minato**: I'm curious about how the people upstairs do it. Do they have special chairs or something?
+- [17] **May**: @Minato, that's why I'm checking the morning routine! I bet they have a system that doesn't waste time.
+- [18] **Shunichi**: A "system" usually just means someone else is doing the heavy lifting. I'm more interested in the history of who got moved and why.
+- [19] **Daisuke**: I just... I don't want to be isolated. I think knowing about the project strands might help us place people who actually need to talk.
+- [20] **Victoria**: It seems we have a broad range of interests. Let's proceed with these investigations so we can make a rational choice.
+- [21] **Minato**: Okay. I hope we can find a way to make everyone feel comfortable.
+- [22] **May**: As long as it doesn't turn into a morning chore, I'm on board. Let's get the data.
+- [23] **Shunichi**: I'll be watching to make sure we don't just let the "natural order" decide who gets the worst desk.
+- [24] **Daisuke**: Okay... I'll do my best to help.
+## Round 2
+- [35] **Victoria**: The costs are higher than I expected. We are paying for empty space, and every single desk move costs us over 6,000 yen.
+- [36] **Minato**: I found out that the noise is much louder near the printer. Also, the physio said it takes a long time to get the chair and desk just right.
+- [37] **May**: Here's the kicker: the pilot floor spends up to nine minutes just setting up every morning. That's a total waste of time.
+- [38] **Shunichi**: My findings are quite telling. We have a few "premium" window seats and a few "dungeon" seats. Plus, our history of shuffles is a chaotic mess.
+- [39] **Daisuke**: I... I found that sitting near people who work on different things actually helps. The new joiners learned a lot just by overhearing others.
+- [40] **Victoria**: @May, if the pilot floor is wasting time, we should avoid their setup. @Minato, if the printer is noisy, we should keep it away from the main cluster.
+- [41] **Minato**: Yes, please. And since it takes so long to adjust the chairs, I think we should avoid moving seats too often. It's hard on the body.
+- [42] **May**: Exactly! I can't stand the idea of losing ten minutes of my morning to cable management. We need a fixed, efficient layout.
+- [43] **Shunichi**: Fixed layouts are great for efficiency, but they're terrible for fairness. If we fix the seats, someone is permanently stuck in the "dungeon."
+- [44] **Daisuke**: But... if we fix them, we can choose who sits together. If we put different projects near each other, we might learn more.
+- [45] **Victoria**: We cannot afford a "chaotic mess" of shuffles. The facilities quote proves that frequent changes are a financial drain on our limited budget.
+- [46] **Minato**: I agree with Victoria. Moving too much is expensive, and it's also tiring to have to fix your chair every time you move.
+- [47] **May**: See? We're all agreeing. No more "hot-desking" or random shuffles. I want to walk in and start working immediately.
+- [48] **Shunichi**: You're all prioritizing convenience and cost over the fact that some of you will be sitting in the dark. That's a recipe for resentment.
+- [49] **Daisuke**: Maybe... maybe we can just be careful about who we put in the dark? If we talk about it, it might be okay.
+- [50] **Victoria**: We must prioritize a low-maintenance solution. A fixed layout that minimizes facilities costs and maximizes space usage is the only rational path.
+- [51] **Minato**: I just want to make sure that whoever sits in the noisy spot is okay with it. I don't think I could focus there.
+- [52] **May**: Let's just make sure we don't implement any "morning rituals" that eat into our gaps. I'm voting for whatever is fastest.
+- [53] **Shunichi**: I'll agree to a fixed layout only if we have a transparent way to decide who takes the bad seats. No "habitual" assignments.
+- [54] **Daisuke**: I think... as long as we aren't isolated, a fixed layout could be good. It gives us a chance to actually get to know the person next to us.
+## Round 3
+- [60] **Victoria**: Option A is the only viable choice. It minimizes facilities costs and avoids the daily time waste May mentioned.
+- [61] **Minato**: I like Option A too. If the seats are fixed, I can spend the time to make my chair and monitor perfectly comfortable.
+- [62] **May**: Option C is a nightmare. I'm not spending nine minutes every morning playing musical chairs with my laptop. I vote A.
+- [63] **Shunichi**: Option A is a disaster for morale unless we rotate. Option B is the only way to ensure that the "dungeon" seats are shared fairly.
+- [64] **Daisuke**: I... I'm worried about Option C. I think I'd just sit in the same spot and not talk to anyone. I prefer A or B.
+- [65] **Victoria**: @Shunichi, Option B would mean paying the facilities quote for every single person every time we rotate. We simply don't have the budget for that.
+- [66] **Minato**: And the physio's note... if we rotate, we have to spend days adjusting the chairs again. That sounds very tiring.
+- [67] **May**: Exactly. Why would we intentionally create a system that wastes time and money? Option B is just Option C with a slower schedule.
+- [68] **Shunichi**: Because Option A creates a caste system. The "window people" and the "wall people." If we don't rotate, we're just ignoring the inequality.
+- [69] **Daisuke**: I think... if we use Option A, we can just... be kind to the people in the wall seats? Maybe we can put the most social people there?
+- [70] **Victoria**: Kindness doesn't pay the facilities bill. We have to be realistic. Option A is the most cost-effective and stable solution for the team.
+- [71] **Minato**: I agree. I think stability is more important than perfect fairness. I really need a spot where I can just... be.
+- [72] **May**: I'm with Victoria and Minato. My schedule is too tight for any "rotation" logistics or daily setup. Option A is the only one that respects our time.
+- [73] **Shunichi**: You're all choosing the path of least resistance. Fine. But if we go with A, I want it on the record that we're choosing convenience over fairness.
+- [74] **Daisuke**: I think... Option A could actually be the best for us. If we're fixed, we can build real relationships with our neighbors.
+- [75] **Victoria**: It seems we have a consensus on the practical benefits. Let's move to the vote.
+- [76] **Minato**: I'm happy as long as we can keep our settings. I'll vote for A.
+- [77] **May**: I'm voting A. No more wasted mornings.
+- [78] **Shunichi**: I'll vote B to stay consistent with my principles, but I can see the tide has turned.
+- [79] **Daisuke**: I'll vote for A... I think it'll be easier for me to talk to people if I know where they are.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> B
+- Daisuke -> A
+## Result
+- adopted: A

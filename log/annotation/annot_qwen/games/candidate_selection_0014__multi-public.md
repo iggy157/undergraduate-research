@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: I’d rather judge by what the last decade of our schemes looks like now than by drawings. Who else is tired of ribbon-cutting photos?
+- [6] **Misaki**: I’m less interested in the photos and more in whether the ground will hold. Who else wants to check the earth-moving firms?
+- [7] **Mio**: I’m worried about the bills after the ribbon is cut! Who else wants to check the upkeep ledger spend per hectare?
+- [8] **Asuka**: I need to know who actually maintains this place. Who else wants to check the groundskeeping roll and bought-in services?
+- [9] **Minako**: I need to understand how people actually use the space. Who else wants to check the timed counts of weekday crossings?
+- [10] **Benjamin**: Misaki, checking the firms is sensible, but I suspect the clay is just the symptom. I’ll look at the condition of works from the earlier programme to see what actually survived.
+- [11] **Misaki**: I’ll check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [12] **Mio**: I’ll check the upkeep ledger spend per hectare and the terms of the regional habitat fund. I need to know the real long-term cost!
+- [13] **Asuka**: I’ll check the groundskeeping roll and bought-in services, plus the volunteer groups working with the division. I need to know who actually shows up every week.
+- [14] **Minako**: I’ll check the timed counts of weekday crossings and the drainage callouts and August heat readings. I need to see how the ground and the people actually behave.
+- [15] **Benjamin**: I’ll also check the record of the eastern avenue planting. If the trees died from neglect, the drawings are just expensive fiction.
+- [16] **Misaki**: I’ll also check the condition of works from the earlier programme. I need to see what actually survived the last cycle.
+- [17] **Mio**: I’m sticking with my two picks! The ledger and the fund terms are my top priorities. I really need to see those numbers to understand the true cost!
+- [18] **Asuka**: I’m sticking with my two picks. The roll and the volunteer groups are what I need to see who actually shows up every week.
+- [19] **Minako**: I’m sticking with my two picks. The crossing counts and drainage data are essential to see how the ground and people actually behave.
+- [20] **Benjamin**: I’ll check the condition of works from the earlier programme and the record of the eastern avenue planting. I need to see what actually survived the last cycle.
+- [21] **Misaki**: I’ll check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [22] **Mio**: I’m sticking with my two picks! The ledger and the fund terms are my top priorities. I really need to see those numbers to understand the true cost!
+- [23] **Asuka**: I’m sticking with my two picks. The roll and the volunteer groups are what I need to see who actually shows up every week.
+- [24] **Minako**: I’m sticking with my two picks. The crossing counts and drainage data are essential to see how the ground and people actually behave.
+## Round 2
+- [35] **Benjamin**: - **Benjamin**: The basin survived; the apron didn’t. And half the avenue trees died from neglect. Drawings are cheap; maintenance is expensive.
+- [36] **Misaki**: The clay is a problem, but shallow work is fine. The real issue is the centre and gate can’t be hoarded.
+- [37] **Mio**: Oh no, the ledger says planted ground costs triple! And the fund won’t pay for paving. This is a financial trap!
+- [38] **Asuka**: Seven staff, not eighteen. But two volunteer groups are already active. One handles habitat, the other sports. That’s a real, existing workforce.
+- [39] **Minako**: The data is clear. People need firm ground to cross, and the heat and drainage are already failing. We must design for that reality.
+- [40] **Benjamin**: @Mio, triple the cost is a disaster. @Minako, if the ground is failing, we can’t just plant more. We need durable infrastructure.
+- [41] **Misaki**: @Benjamin, durable infrastructure is good, but the clay makes deep work risky. @Minako, the centre can’t be hoarded, so we must plan for continuous access.
+- [42] **Mio**: @Benjamin, wait! The fund pays for planting, not paving! If we build hard surfaces, we lose two-thirds of the money. That’s the real trap!
+- [43] **Asuka**: @Mio, the fund terms are critical. @Minako, the volunteer groups already cover sports and habitat. We need a plan that fits their existing capacity, not just the budget.
+- [44] **Minako**: @Mio, the fund terms are a hard constraint. @Asuka, the volunteer groups are vital, but the drainage failure is immediate. We need a plan that respects both the budget and the ground.
+- [45] **Benjamin**: @Misaki, the apron failed because it was hard. The basin survived because it was water. I’m leaning toward the wetland, not the plaza.
+- [46] **Misaki**: @Benjamin, water is risky with this clay. @Mio, if the fund only pays for planting, we must avoid heavy surfacing.
+- [47] **Mio**: @Benjamin, I agree! The wetland fits the fund perfectly. Plus, the ledger shows hard surfaces are cheaper to keep. We must avoid the plaza!
+- [48] **Asuka**: @Benjamin, the basin surviving proves water works. @Mio, the fund constraint is absolute. We need a plan that uses the existing volunteer habitat group, not just cheap paving.
+- [49] **Minako**: @Benjamin, the basin surviving is key. @Mio, the fund constraint is absolute. We need a plan that respects the ground and the budget.
+- [50] **Benjamin**: @Misaki, the clay risk is real, but the basin proved water management works. I’m leaning toward the wetland, provided we can phase it without hoarding the centre.
+- [51] **Misaki**: @Benjamin, the clay makes deep excavation risky, but shallow work is quoted at ordinary rates. If we keep the wetland shallow, the ground should hold.
+- [52] **Mio**: @Benjamin, exactly! The wetland uses the fund money properly. Plus, the ledger says hard surfaces are cheaper to keep, so we avoid the plaza trap!
+- [53] **Asuka**: @Benjamin, the habitat volunteer group is already active. A wetland plan fits their existing capacity perfectly. We have the workforce ready.
+- [54] **Minako**: @Benjamin, the drainage data confirms the wetland is the only logical fix. It addresses the immediate failure and respects the fund. I support it.
+## Round 3
+- [60] **Benjamin**: The basin survived; the apron didn’t. The wetland fits the fund, the ground, and the volunteers. I’m voting C.
+- [61] **Misaki**: The clay is risky, but shallow ponds are manageable. The centre can’t be hoarded, so we must keep access open. I’m voting C.
+- [62] **Mio**: The fund pays for water, not paving! C is the only one that doesn’t bankrupt us later. I’m voting C!
+- [63] **Asuka**: The habitat volunteers are already active. C fits their existing capacity perfectly. I’m voting C.
+- [64] **Minako**: The crossing counts show people need firm ground, and the drainage data proves the current system is failing. C fixes the water and keeps the paths usable. I’m voting C.
+- [65] **Benjamin**: C is the only option that respects the fund, the ground, and the volunteers. I stand by my vote.
+- [66] **Misaki**: Shallow ponds avoid the deep excavation risks. The phasing notes confirm we can keep the centre open. I stand by my vote for C.
+- [67] **Mio**: I stand by my vote for C! The fund terms make it the only financially responsible choice. No more expensive mistakes!
+- [68] **Asuka**: I stand by my vote for C. The habitat volunteers are already active and ready. This plan fits their existing capacity perfectly.
+- [69] **Minako**: The data confirms C is the only logical fix. It addresses the immediate drainage failure and respects the fund. I support it.
+- [70] **Benjamin**: I stand by C. The basin’s survival is the only proof we have that water management outlasts concrete.
+- [71] **Misaki**: I stand by C. Shallow work avoids the clay risks, and the phasing notes confirm we can keep the centre open.
+- [72] **Mio**: I stand by C! The fund terms make it the only financially responsible choice. No more expensive mistakes!
+- [73] **Asuka**: I stand by C. The habitat volunteers are already active and ready. This plan fits their existing capacity perfectly.
+- [74] **Minako**: I stand by C. The drainage data proves the current system is failing, and C is the only plan that fixes the ground while respecting the fund.
+- [75] **Benjamin**: C is the only plan that survives contact with reality. I stand by my vote.
+- [76] **Misaki**: I stand by C. Shallow ponds avoid the clay risks, and the phasing notes confirm we can keep the centre open.
+- [77] **Mio**: I stand by C! The fund terms make it the only financially responsible choice. No more expensive mistakes!
+- [78] **Asuka**: I stand by C. The habitat volunteers are already active and ready. This plan fits their existing capacity perfectly.
+- [79] **Minako**: I stand by C. The drainage data proves the current system is failing, and C is the only plan that fixes the ground while respecting the fund.
+### Vote
+- Benjamin -> C
+- Misaki -> C
+- Mio -> C
+- Asuka -> C
+- Minako -> C
+## Result
+- adopted: C

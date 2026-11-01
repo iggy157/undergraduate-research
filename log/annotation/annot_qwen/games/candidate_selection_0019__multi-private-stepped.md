@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I'm worried about where the money actually goes before we even start.
+- [6] **Victoria**: We need to know who is actually standing in the room next season.
+- [7] **Shion**: The paper trail is usually where the real story hides.
+- [8] **Asuka**: The floor has limits. I need to know what breaks first.
+- [9] **Shizue**: I just want to see where we stumbled last time, honestly.
+- [10] **Mio**: @Victoria, are you thinking about the people or the numbers?
+- [11] **Victoria**: Both, but the people determine if the numbers make sense.
+- [12] **Shion**: @Mio, costs are easy to hide. Attendance is harder to fake.
+- [13] **Asuka**: @Shion, paperwork doesn't stop a crate from cracking the tile.
+- [14] **Shizue**: @Asuka, I hear you. But the cracks usually start with the delivery.
+- [15] **Mio**: I want to see the transport costs and the mount-making charges.
+- [16] **Victoria**: I will look into the volunteer roster and the conservation lab staffing.
+- [17] **Shion**: I am checking the visitor comment slips and the weekend head counts.
+- [18] **Asuka**: I need the structural survey and the maintenance log for powered displays.
+- [19] **Shizue**: I will look into the lender paperwork and the evening hire bookings.
+- [20] **Mio**: Okay, let's see what the numbers say before we promise anything.
+- [21] **Victoria**: I hope the roster tells the truth about who is left.
+- [22] **Shion**: The comments will tell us what they actually felt, not what we thought.
+- [23] **Asuka**: If the bay fails, the whole plan fails. I need that data.
+- [24] **Shizue**: Let's hope the paperwork matches the reality this time.
+## Round 2
+- [35] **Mio**: The transport costs are eating a third of the budget. That is huge.
+- [36] **Victoria**: The lab is down to one person. Two hundred pieces are waiting.
+- [37] **Shion**: The comments say people came back because someone was there, not for the art.
+- [38] **Asuka**: The bay is capped at four hundred kilos. The last stone broke it.
+- [39] **Shizue**: The paperwork came back late again. And the evening hires are a mess.
+- [40] **Mio**: @Victoria, if the lab is that backed up, can we even install anything?
+- [41] **Victoria**: @Mio, not without cutting the scope. The one person cannot do it all.
+- [42] **Shion**: @Asuka, if the bay is weak, we cannot hang the heavy pieces.
+- [43] **Asuka**: @Shion, exactly. And the powered displays are failing. Seventeen call-outs.
+- [44] **Shizue**: @Mio, the late paperwork means the crates sit in the dock.
+- [45] **Mio**: So the money is gone before the walls are even painted.
+- [46] **Victoria**: And the people are gone before the doors open.
+- [47] **Shion**: The data says the empty room is the problem. The presence is the draw.
+- [48] **Asuka**: The building is the problem. The floor is the limit.
+- [49] **Shizue**: The delivery is the problem. The timing is the failure.
+- [50] **Mio**: I think we need to stop trying to do everything at once.
+- [51] **Victoria**: I agree. We need to pick what we can actually sustain.
+- [52] **Shion**: The record is clear. We need to fill the room with life, not just objects.
+- [53] **Asuka**: We need to respect the structure. No heavy loads. No powered failures.
+- [54] **Shizue**: We need to respect the clock. No late papers. No open crates.
+## Round 3
+- [60] **Mio**: Option A has no loans. That saves the transport money I was worried about.
+- [61] **Victoria**: Option A uses the volunteers. The history circle can guide the demonstrations.
+- [62] **Shion**: Option A has people in the room. That is what the comments asked for.
+- [63] **Asuka**: Option A is light. No heavy crates. No powered displays. The floor is safe.
+- [64] **Shizue**: Option A has no shipping cut-offs. No late paperwork. No dock delays.
+- [65] **Mio**: @Victoria, can the volunteers actually handle the demonstrations?
+- [66] **Victoria**: @Mio, yes. The town history circle is already doing similar walks.
+- [67] **Shion**: @Asuka, the light load is the key. The bay stays intact.
+- [68] **Asuka**: @Shion, correct. No shoring needed. No rerouted deliveries.
+- [69] **Shizue**: @Mio, the local sourcing means the crates are already here.
+- [70] **Mio**: I am voting for A. It fits the budget and the building.
+- [71] **Victoria**: I am voting for A. It fits the people and the lab capacity.
+- [72] **Shion**: I am voting for A. It fits the record and the visitor desire.
+- [73] **Asuka**: I am voting for A. It fits the structure and the maintenance limits.
+- [74] **Shizue**: I am voting for A. It fits the schedule and the delivery reality.
+- [75] **Mio**: It seems we all agree. The numbers finally make sense.
+- [76] **Victoria**: The people are finally in the room. That is what matters.
+- [77] **Shion**: The record is honored. The presence is the exhibition.
+- [78] **Asuka**: The building is respected. The floor holds. The plan works.
+- [79] **Shizue**: The clock is respected. The delivery is on time. We are done.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0019__single-batch (shared_living)
+
+## Round 1
+- [5] **George**: I worry the car is already changing how we talk to each other.
+- [6] **Toshio**: I need to see where the arranging time actually goes before we commit.
+- [7] **Victoria**: I care about the car being ready on a plain midweek morning.
+- [8] **Misaki**: I want to know what an even split really costs each of us.
+- [9] **Minato**: I just want to know the real numbers for the year.
+- [10] **George**: @Toshio, do you think the time spent arguing is the real cost?
+- [11] **Toshio**: @George, yes, the friction is often higher than the fuel.
+- [12] **Victoria**: @Misaki, fairness is good, but I need reliability first.
+- [13] **Misaki**: @Victoria, I agree, but we need to see the baseline costs.
+- [14] **Minato**: @George, I hope we can fix this without fighting.
+- [15] **George**: I will look at what other car-sharing households said.
+- [16] **Toshio**: I will check the hours of use recorded in the diary.
+- [17] **Victoria**: I will look at the state of the car at handover.
+- [18] **Misaki**: I will check last year's tax, insurance and parking papers.
+- [19] **Minato**: I will look at last year's fuel receipts.
+- [20] **George**: Also, I will check the spell of checking each other's figures.
+- [21] **Toshio**: And I will look at the month's trial of recording every run.
+- [22] **Victoria**: I will also check the trips that repeat weekly.
+- [23] **Misaki**: I will also check the weeks of heavy use over the year.
+- [24] **Minato**: I will also check the mechanic's remarks at the last service.
+## Round 2
+- [35] **George**: The other households said asking favours every time is what sours the group.
+- [36] **Toshio**: The diary shows Saturday use is three times Tuesday, which is uneven.
+- [37] **Victoria**: The car was handed over with the fuel light on twice this year.
+- [38] **Misaki**: The fixed costs are 280,000 yen, and heavy use comes in bursts.
+- [39] **Minato**: Two people bought over half the fuel, and short runs hurt the car.
+- [40] **George**: @Toshio, if Saturday is so heavy, does that mean we need a system?
+- [41] **Toshio**: @George, yes, but the trial recording took an hour a week, which is a lot.
+- [42] **Victoria**: @Misaki, 280,000 yen is a lot to split if we don't use it equally.
+- [43] **Misaki**: @Victoria, exactly, the bursts make a simple split unfair.
+- [44] **Minato**: @George, I am worried about the short runs damaging the car.
+- [45] **George**: The spell of checking figures made people feel accused, which was bad.
+- [46] **Toshio**: The trial recording was too much work for anyone to do alone.
+- [47] **Victoria**: The weekly trips keep collapsing because nobody knows who has the car.
+- [48] **Misaki**: The heavy use weeks cost whole evenings of working around each other.
+- [49] **Minato**: The mechanic said short cold runs eat the brakes and battery fast.
+- [50] **George**: @Misaki, so we need a way that doesn't feel like an audit.
+- [51] **Toshio**: @George, I agree, the recording trial was too burdensome.
+- [52] **Victoria**: @Minato, that explains why the car feels tired all the time.
+- [53] **Misaki**: @Toshio, the uneven days mean a fixed day might be better.
+- [54] **Minato**: @Victoria, I hope we can find a way that is kind to the car.
+## Round 3
+- [60] **George**: Option A is a calendar, Option B is fixed days, Option C is a primary keeper.
+- [61] **Toshio**: Option A requires recording every run, which we found too time-consuming.
+- [62] **Victoria**: Option B gives me my days, but I worry about the car's state.
+- [63] **Misaki**: Option C puts the burden on one person, which might be unfair.
+- [64] **Minato**: Option A seems fair, but Option B feels more predictable.
+- [65] **George**: @Toshio, if A is too much work, maybe B is the answer?
+- [66] **Toshio**: @George, B avoids the recording, but the days are unequal.
+- [67] **Victoria**: @Misaki, with B, I can ensure the car is ready on my days.
+- [68] **Misaki**: @Victoria, but who pays for the days you don't use?
+- [69] **Minato**: @George, I think B is the simplest for everyone.
+- [70] **George**: Option C might work if one person is willing to take the lead.
+- [71] **Toshio**: Option C is risky if the keeper gets tired or resentful.
+- [72] **Victoria**: Option B lets me plan my week without asking anyone.
+- [73] **Misaki**: Option B is the most stable, even if the days are uneven.
+- [74] **Minato**: Option B feels the most peaceful for our group.
+- [75] **George**: I am leaning towards B to avoid the favour-asking.
+- [76] **Toshio**: I agree, B is the least work for everyone.
+- [77] **Victoria**: I vote for B, I need my days to be mine.
+- [78] **Misaki**: I vote for B, it is the most predictable.
+- [79] **Minato**: I vote for B, it feels the kindest.
+### Vote
+- George -> B
+- Toshio -> B
+- Victoria -> B
+- Misaki -> B
+- Minato -> B
+## Result
+- adopted: B

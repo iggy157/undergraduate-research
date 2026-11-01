@@ -1,0 +1,73 @@
+# shared_living_0012__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Kenji**: I worry about us living together after this. Let's pick something that keeps doors open.
+- [6] **Shizue**: I just want a place where we can all breathe easy, without the smell or the noise.
+- [7] **Asuka**: I need to know the exact time cost for each of us before we agree to anything.
+- [8] **Rin**: I am small, but I see big problems. Why does one house have the bin right at their gate?
+- [9] **Servas**: We must look at the whole picture, not just the bin. What is the true cost to us all?
+- [10] **Kenji**: @Rin, that is a fair point. Maybe we should check the measurements of the frontages.
+- [11] **Shizue**: Yes, Kenji. Knowing the space might help us see who is truly burdened.
+- [12] **Asuka**: I agree. But I also need to know the ward filing requirements to avoid future penalties.
+- [13] **Rin**: I want to see the block ledger. I want to know if we are paying fairly for this mess.
+- [14] **Servas**: The ledger is wise, Rin. But I also wonder about the ward subsidy and last year's shelter costs.
+- [15] **Kenji**: @Servas, that sounds important. Maybe we can look at the ward complaint log too?
+- [16] **Shizue**: The complaint log might show us what has gone wrong before. I will look into that.
+- [17] **Asuka**: I will check the truck arrival time from the crew leader. I need to know when the work happens.
+- [18] **Rin**: I will look at the block ledger and the measurements. I want to see the truth.
+- [19] **Servas**: I will look into the ward subsidy and the block ledger. We need to know our financial footing.
+- [20] **Kenji**: I will look at the ward complaint log and the measurements. I want to understand the history.
+- [21] **Shizue**: I will look at the ward complaint log and the truck arrival time. I want to know the daily rhythm.
+- [22] **Asuka**: I will look at the truck arrival time and the ward filing requirements. I need the operational details.
+- [23] **Rin**: I will look at the block ledger and the measurements. I want to see the numbers.
+- [24] **Servas**: I will look at the ward subsidy and the block ledger. I want to see the financial reality.
+## Round 2
+- [35] **Kenji**: The log shows one house filed most complaints. The measurements show one house is very narrow.
+- [36] **Shizue**: The truck comes so early. I worry about the noise waking the children and the elderly.
+- [37] **Asuka**: The filing takes four months. That is a long time to wait for a simple fix.
+- [38] **Rin**: I found the ledger. One house pays for the extra fees. That is not fair to the rest of us.
+- [39] **Servas**: I found the subsidy covers forty percent, but the ledger shows we waste money on open bags.
+- [40] **Kenji**: @Rin, if one house pays extra, maybe we should share that cost more evenly?
+- [41] **Shizue**: The early truck is a problem. Can we ask the crew to come later?
+- [42] **Asuka**: The four-month wait is unacceptable. We need a temporary solution that is easy to file.
+- [43] **Rin**: I think we should move the bin to the middle. That way, no one is stuck with it at their gate.
+- [44] **Servas**: The subsidy is a good start, but we must stop the waste. If we keep the bags closed, we save money.
+- [45] **Kenji**: Moving it to the middle sounds good. It feels fairer to everyone.
+- [46] **Shizue**: I agree. But we must make sure the truck can still reach it easily.
+- [47] **Asuka**: A temporary solution in the middle might be easier to file. Let's look at that.
+- [48] **Rin**: Yes! A middle spot is an adventure for the bin, but a fair one for us.
+- [49] **Servas**: A middle spot, with closed bags, and a shared cost. That is a balanced path forward.
+- [50] **Kenji**: I like the idea of a middle spot. It keeps us connected, not divided.
+- [51] **Shizue**: I am happy to help set it up. We can do this together, gently.
+- [52] **Asuka**: I will draft the filing for a temporary middle spot. It is the most logical step.
+- [53] **Rin**: I will help carry the bin! I am small, but I am strong. Let's make it fair.
+- [54] **Servas**: We have found a way to share the burden and the benefit. That is the true spirit of the neighbourhood.
+## Round 3
+- [60] **Kenji**: Option B, the rotating location, feels the most fair. No one is stuck with it forever.
+- [61] **Shizue**: I like Option C. It keeps the point where it is, but the narrow window might help with the smell and the noise.
+- [62] **Asuka**: Option C is the most logical. It minimizes the filing work and the time cost for each of us.
+- [63] **Rin**: I want Option B! Moving the bin is like a game. It is fair because everyone gets a turn.
+- [64] **Servas**: Option C is wise. It addresses the root of the waste, the open bags, without the cost of a new structure.
+- [65] **Kenji**: @Shizue, the narrow window might be hard to keep. What if someone forgets?
+- [66] **Shizue**: We can remind each other. We are neighbours, after all. I think we can manage it with kindness.
+- [67] **Asuka**: The filing for Option C is minimal. It is the most efficient use of our time and energy.
+- [68] **Rin**: If we forget, we can just move it! Option B is more fun and more fair.
+- [69] **Servas**: Forgetting is human, Kenji. But a shared responsibility, like Option C, builds a stronger bond than a rotation.
+- [70] **Kenji**: I hear you, Servas. A shared responsibility is good. But I still worry about the fairness of the location.
+- [71] **Shizue**: I think we can find a balance. Let's try Option C first. If it does not work, we can look at B.
+- [72] **Asuka**: I agree with Shizue. Option C is the most practical starting point. It is the least disruptive.
+- [73] **Rin**: I am still for B, but I will listen. If C makes the bags closed, maybe it is okay.
+- [74] **Servas**: Let us begin with the simplest change that addresses the waste. Option C is that change.
+- [75] **Kenji**: I will vote for Option C. It is a step towards a better, more connected neighbourhood.
+- [76] **Shizue**: I will vote for Option C. I believe in our ability to care for each other and the space we share.
+- [77] **Asuka**: I will vote for Option C. It is the most logical and efficient solution for our time.
+- [78] **Rin**: I will vote for Option C. If it means closed bags and no more open mess, I am in!
+- [79] **Servas**: I will vote for Option C. It is a path of shared care and mindful living.
+### Vote
+- Kenji -> C
+- Shizue -> C
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

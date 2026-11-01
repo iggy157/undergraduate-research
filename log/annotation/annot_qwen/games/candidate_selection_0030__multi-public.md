@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I wonder if we should check who actually has time to use these new tools?
+- [6] **Jonathan**: That is a thoughtful question, Minato. I would like to look into in-house developer availability and network coverage at customer plants.
+- [7] **George**: I need to know where the money comes from. I will look into capital budget and software allowance, plus vendor licence pricing versus fixed-fee work.
+- [8] **May**: I’m curious about what actually happened to our last three internal rollouts. I’ll check that, and also the record of cross-unit standardization efforts.
+- [9] **Midori**: I want to see the real daily costs. I will look into time lost to copying existing records and misrouted deliveries in the incident logs.
+- [10] **Minato**: I am still thinking about the people who will do the extra work. Who will write the notes?
+- [11] **Jonathan**: @Minato, that is a valid worry. I will check in-house developer availability and network coverage at customer plants.
+- [12] **George**: I am not changing my mind. The budget details are the only thing that matters right now.
+- [13] **May**: @George, stubbornness won’t fix our blind spots. I’m sticking with my choices. @Minato, I hope you find your answers.
+- [14] **Midori**: @May, I hear you. I’m sticking with my choices too. Let’s see what the daily logs actually say.
+- [15] **Minato**: I am still worried about the people. Who will do the extra work?
+- [16] **Jonathan**: @Minato, I understand. I am checking developer availability and network coverage to see if the groundwork is actually ready.
+- [17] **George**: I am not changing my mind. The budget details are the only thing that matters right now.
+- [18] **May**: @George, you’re being quite rigid. I’m sticking with my choices. @Minato, I hope you find your answers.
+- [19] **Midori**: @Minato, I understand your worry. I am checking the daily logs to see where the real time goes.
+- [20] **Minato**: I will look into staffing of the coordination group and handling of vendor queries.
+- [21] **Jonathan**: I will look into in-house developer availability and network coverage at customer plants.
+- [22] **George**: Capital budget and software allowance, plus vendor licence pricing versus fixed-fee work. I am not changing my mind.
+- [23] **May**: Outcomes of the last three internal rollouts, and the record of cross-unit standardization efforts. I’m not changing my mind.
+- [24] **Midori**: Time lost to copying existing records, and misrouted deliveries in the incident logs. I am not changing my mind.
+## Round 2
+- [35] **Minato**: I found that only two people write all the notes by hand. That is so much work for just them.
+- [36] **Jonathan**: The groundwork is shaky. Our developers are tied up until the third quarter, and half the customer sites lose signal for whole afternoons.
+- [37] **George**: The capital line is frozen, but the software allowance has room. Per-head licences climb with every department added, so fixed-fee work is the only stable option.
+- [38] **May**: The pattern is clear. Broad tools needing daily input from everyone get quietly abandoned. Narrow, single-trade tools survive.
+- [39] **Midori**: @Minato, your finding about the two people writing notes by hand is exactly the kind of daily strain I was looking for.
+- [40] **Minato**: @Midori, thank you. It makes me sad that they are doing so much alone.
+- [41] **Jonathan**: @George, fixed-fee work sounds stable, but it ignores that our developers are unavailable until the third quarter.
+- [42] **George**: @Jonathan, I hear you. But the capital freeze is absolute. We cannot build what we cannot pay for.
+- [43] **May**: @Jonathan, your timing issue is real, but my data shows broad tools fail regardless of when they launch. Narrow scope is the only survivor.
+- [44] **Midori**: @May, that matches my logs. We lose an hour daily copying data, and eleven misrouted deliveries stem from duplicate records. We need to fix the data first.
+- [45] **Minato**: @Midori, if we fix the data, will those two people finally have time to rest?
+- [46] **Jonathan**: @Minato, I am sorry, but fixing data does not free our developers. The groundwork is still missing.
+- [47] **George**: @Midori, fixing data is good, but it costs money. The capital line is frozen. We must stay within the software allowance.
+- [48] **May**: @George, the software allowance is exactly where the narrow tools fit. Broad projects need capital we don’t have. Stick to the small, surviving scope.
+- [49] **Midori**: @George, the software allowance covers the recurring cost. The daily hour lost and misrouted deliveries are the real bill we keep paying.
+- [50] **Minato**: @May, if the narrow tools survive, will they help the two tired people? I hope so.
+- [51] **Jonathan**: @May, I agree narrow scope helps, but if the signal fails, the tool is useless. We must verify the technical groundwork first.
+- [52] **George**: @Jonathan, the signal issue is a technical hurdle, not a budget one. The allowance covers the software, not the infrastructure.
+- [53] **May**: @Jonathan, signal issues kill field apps, not internal tools. My data proves narrow, single-trade tools survive. We must pick the one that fits that pattern.
+- [54] **Midori**: @May, I agree. The data duplication is the root cause. Fixing that specific, narrow problem saves real time and stops errors.
+## Round 3
+- [60] **Minato**: I am looking at the options. Option A drafts the notes. Would that help the two tired people?
+- [61] **Jonathan**: @Minato, Option A is internal, so the signal issue doesn't apply. But our developers are unavailable until the third quarter. Can we build it then?
+- [62] **George**: @Jonathan, the capital freeze is absolute. We must use the software allowance. Option C fits that recurring budget, unlike the others.
+- [63] **May**: @George, Option C is a broad standardization effort. My data shows those fail without a clear owner. Option A is the narrow tool that actually survives.
+- [64] **Midori**: @May, I disagree. My logs show the data duplication is the root cause. Option C fixes that specific, narrow problem, saving real time and stopping errors.
+- [65] **Minato**: @May, but if broad tools fail, will Option A be abandoned too? I worry the two people will just keep writing by hand.
+- [66] **Jonathan**: @Minato, Option A is narrow, unlike the broad tools that failed. It targets a specific pain point, so it has a better chance of surviving.
+- [67] **George**: @May, you are wrong. Four of six standardization efforts failed. Option C is exactly that kind of broad, risky project. I will not support it.
+- [68] **May**: @George, you are misreading my data. I said broad tools fail, but Option A is a narrow, single-purpose tool. It fits the survival pattern perfectly.
+- [69] **Midori**: @George, I hear your caution, but the data shows the duplication is the real daily cost. Option C is the specific fix for that, not a broad gamble.
+- [70] **Minato**: @May, if Option A drafts the notes, will the two tired people finally have time to rest?
+- [71] **Jonathan**: @Minato, I cannot promise that. Our developers are unavailable until the third quarter, and the interfaces are undocumented. We lack the capacity to build Option A reliably right now.
+- [72] **George**: @May, I am not misreading. I am looking at the budget. Option C is a recurring software cost, which fits the allowance. Option A is a build, which needs capital we do not have.
+- [73] **May**: @George, you are confusing the cost with the scope. My data proves narrow tools survive, not broad ones. Option A is the only one that fits that pattern.
+- [74] **Midori**: @May, I understand your point about scope. But my logs show the duplication is the root cause. Option C fixes that specific, narrow problem, saving real time and stopping errors.
+- [75] **Minato**: @May, I am worried. If the developers are busy, who will build Option A? I just want the two tired people to rest.
+- [76] **Jonathan**: @Minato, you are right to worry. The developers are unavailable, and the interfaces are undocumented. We cannot build Option A reliably right now.
+- [77] **George**: @May, the capital freeze is absolute. Option A requires a build, which we cannot fund. Option C is a recurring cost, fitting the allowance. I vote C.
+- [78] **May**: @George, you are ignoring the evidence. Broad tools fail; Option A is narrow and fits the allowance. I vote A.
+- [79] **Midori**: @George, the daily hour lost and misrouted deliveries are the real bill. Option C fixes that specific, narrow problem. I vote C.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> A
+- Midori -> C
+## Result
+- adopted: C

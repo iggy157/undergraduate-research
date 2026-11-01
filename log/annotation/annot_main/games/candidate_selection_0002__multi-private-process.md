@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to be with you all. To ensure our growth remains sustainable and our peace of mind intact, I wish to examine the appraisal needs at the last audit and independent checks on holdings' reported figures.
+- [6] **Asuka**: I agree that transparency is key. To understand the actual drivers of our returns, I want to look into the profile of the exits and the write-off, as well as account retention through price rises.
+- [7] **Minako**: I believe we must prioritize our long-term financial stability. I will look into the reserve accounts and follow-on calls, as well as the terms of last winter's credit line.
+- [8] **Mio**: Hi everyone! I'm so excited to get started! I really want to make sure we aren't overstretching ourselves with the workload, so I'll check the retained recruiters' placement times and the adviser bench and partner board seats!
+- [9] **Toshio**: I believe we should be mindful of operational friction. I will look into the security review time before first deployment and the delivery records of two holdings.
+- [10] **Servas**: It is heartening to see such a diverse range of priorities. By covering both the operational and the financial facets, we ensure that our next step is taken with wisdom and a clear heart.
+- [11] **Asuka**: Diversity is useful, but we must ensure we aren't ignoring the gap between our narrative and reality. I believe the data on retention and exits will provide the necessary grounding for our final decision.
+- [12] **Minako**: Indeed. While narrative is important, the actual liquidity available for future commitments is what will determine if we can actually support the companies we choose. I look forward to seeing how our findings align.
+- [13] **Mio**: I totally agree! It's like making sure we have enough energy for a big adventure! I can't wait to see if our support team is ready to jump in and help the new company grow!
+- [14] **Toshio**: I agree. While financial stability and human resources are essential, the speed of execution is where most plans fail. I want to see if there are recurring patterns of delay that we have overlooked.
+- [15] **Servas**: Patience is a virtue, but so is preparation. As we await the results of our inquiries, let us remember that the numbers are merely a reflection of the human effort and spirit behind them.
+- [16] **Asuka**: Numbers are objective, Servas. I am less interested in the spirit and more interested in whether our previous successes were based on sustainable customer loyalty or mere market timing. That is the only way to avoid repeating mistakes.
+- [17] **Minako**: Objectivity is necessary, but it must be applied to our own capacity as well. If we lack the capital to follow through on our promises, the most sustainable business model in the world won't save the investment.
+- [18] **Mio**: You're all so serious! But that's why we make a great team! I just hope we find a company that doesn't need us to spend every single waking hour hunting for new hires!
+- [19] **Toshio**: The tension between sustainability and speed is always present. I am simply interested in the reality of the timeline. If the path to the first customer is blocked by external friction, the business model becomes irrelevant.
+- [20] **Servas**: Let us embrace these different perspectives. Whether we seek speed, stability, or spirit, we all strive for the same goal: a legacy of success. I look forward to the insights we shall uncover together.
+- [21] **Asuka**: I hope the data reveals the truth, regardless of whether it fits our current narrative. I am ready to move forward once the findings are available.
+- [23] **Minako**: I agree. Let us proceed to the findings. I will be analyzing the data with a focus on our actual capacity to sustain this investment over the coming years.
+- [25] **Mio**: Me too! I'm ready to dive in and see what's what! Let's hope for some great news that makes our lives easier and the companies happier!
+- [27] **Toshio**: I will be waiting for the results. I intend to see if the delays we have experienced in the past are systemic or merely coincidental. Let us see what the data reveals.
+## Round 2
+- [39] **Servas**: My findings suggest that our reporting process is burdened by external dependencies. Hardware-based assets require costly, time-consuming appraisals, yet they offer the comfort of independently verifiable data, unlike software holdings which rely solely on self-reported figures.
+- [40] **Asuka**: My findings confirm a disparity in stability. Our successful exits were quiet, back-office tools, while the write-off had high overhead. Furthermore, retention is strong for specialized infrastructure but weak for general retail tools.
+- [41] **Minako**: The data is concerning. Our reserves are being depleted by follow-on calls at twice the projected rate, and the credit line is far more restrictive than I hoped, offering no value against subscription contracts.
+- [42] **Mio**: Wow, things are looking a bit tricky! I found out that while we're great at filling support roles, finding field crews takes forever. Plus, our software partners are totally swamped with board seats!
+- [43] **Toshio**: The data confirms my suspicions. Deployment speed is heavily dictated by the customer's nature and the supply chain. Security reviews for regulated sectors are a significant bottleneck, and hardware dependencies introduce unpredictable delays.
+- [44] **Servas**: It seems we are caught between two burdens: the heavy cost of verifying physical assets and the blind trust required for software. True peace comes from clarity, and I worry about the opacity of self-reported figures.
+- [45] **Asuka**: @Servas, opacity is a risk, but the real danger is misinterpreting the source of our wins. Our exits came from essential back-office tools, not flashy growth. We must prioritize stability and high retention over narrative.
+- [46] **Minako**: @Asuka, stability is only possible if we have the liquidity to maintain it. With follow-on calls draining our reserves so quickly, we cannot afford a candidate that requires heavy, unplanned capital injections.
+- [47] **Mio**: @Minako, that sounds scary! But we also have to think about our time! If we pick a company that needs a ton of field staff or more software board seats, we're going to be totally exhausted!
+- [48] **Toshio**: @Mio, exhaustion is a symptom of poor planning. The real risk is the gap between the plan and the first customer. If we invest in a regulated sector or hardware, we must accept a timeline that is months longer than promised.
+- [49] **Servas**: It is wise to consider these risks. However, I find the prospect of blind trust in software dashboards unsettling. I would rather endure a slow, costly audit than a sudden, invisible collapse. Clarity is the foundation of trust.
+- [50] **Asuka**: @Servas, a slow audit is a known cost, but churn is a silent killer. If we ignore the fact that general tools are losing customers during price hikes, we are simply choosing a different kind of blindness.
+- [51] **Minako**: @Asuka, churn is indeed a killer, but so is a liquidity crisis. Since our credit line ignores subscription contracts, a software-heavy portfolio doesn't actually provide us with a safety net for borrowing. We are more exposed than we realize.
+- [52] **Mio**: @Minako, that's a huge point! If we can't borrow against software, and our software partners are already too busy to help, we're in trouble! We need someone who doesn't need a million new hires right away!
+- [53] **Toshio**: @Minako, your point on liquidity is noted. However, we must also consider that a "safe" software bet can still be stalled for nine months by a single security review. We cannot ignore the external friction that delays revenue.
+- [54] **Servas**: We must seek a balance. While the costs of physical audits are high, the ability to verify figures independently brings a serenity that software cannot offer. Let us weigh these burdens carefully as we see the candidates.
+- [55] **Asuka**: The data is clear: essential, specialized tools provide the only real stability. We must avoid any candidate that relies on a "growth" narrative or general retail tools, as those are the most vulnerable to churn.
+- [56] **Minako**: I agree that we must avoid high-churn models. However, we must also avoid any candidate with heavy hardware or equipment needs, as those follow-on calls are draining our reserves far faster than we planned.
+- [57] **Mio**: I'm with you! Let's find a company that's lean and doesn't need a huge army of field workers or more of our partners' time. We need a win that doesn't leave us totally burnt out!
+- [58] **Toshio**: I will be looking for a candidate that avoids both the hardware supply chain and the regulatory bottlenecks of the financial or medical sectors. A lean, specialized software tool seems the most viable path.
+## Round 3
+- [64] **Servas**: Looking at these options, Ledger Bridge offers the clarity I seek. It is software, yet its nature as a reconciliation tool suggests a focus on verifiable data, avoiding the costly appraisals of Harvest Sensor or Fabric Loop.
+- [65] **Asuka**: @Servas, I disagree. Ledger Bridge is a general tool for small merchants, which mirrors the shopkeeper tool that suffered high churn. Clinic Scheduler is the better choice; it is a specialized, essential back-office tool for independent practices.
+- [66] **Minako**: @Asuka, I agree that Clinic Scheduler is specialized, but we must be cautious. Medical software often triggers the regulatory bottlenecks @Toshio mentioned, and we cannot afford any unplanned capital drains. Ledger Bridge is leaner.
+- [67] **Mio**: @Minako, you're right about being lean! But wait, Clinic Scheduler is about staffing software—that sounds like it might need a lot of our help with hiring! Ledger Bridge seems way easier on our schedule!
+- [68] **Toshio**: @Minako, you are correct. Clinic Scheduler falls directly into the regulated sector, meaning a three-quarter security review is likely. Harvest Sensor and Fabric Loop involve hardware and physical facilities, risking the supply chain delays I found. Ledger Bridge is the most efficient.
+- [69] **Servas**: @Toshio, your insight on efficiency is valuable. While I still harbor a slight worry about the opacity of software dashboards, Ledger Bridge avoids the grueling audit cycles of physical assets. It offers a path of least resistance for our reporting.
+- [70] **Asuka**: @Toshio, efficiency is a secondary concern to sustainability. Ledger Bridge targets small merchants, a segment we know is prone to churn during price rises. Clinic Scheduler serves independent practices, which my data shows have far superior retention.
+- [71] **Minako**: @Asuka, retention is meaningless if we cannot fund the growth. Ledger Bridge is a pure software play with minimal capital requirements. Harvest Sensor and Fabric Loop are out due to the reserve drain from physical assets.
+- [72] **Mio**: @Asuka, I hear you on retention, but I'm really worried about the "staffing" part of Clinic Scheduler! If they need help finding people, we're doomed! Ledger Bridge is just a dashboard—much less work for us!
+- [73] **Toshio**: @Asuka, retention is a long-term metric, but we must first survive the deployment phase. Ledger Bridge avoids the regulatory hurdles of medical data and the physical risks of sensors or facilities. It is the only option that ensures a timely start.
+- [74] **Servas**: It is a rare thing when the path of least resistance also aligns with our need for stability. While I value verification, the burden of physical audits is too great. I believe Ledger Bridge is the wisest choice.
+- [75] **Asuka**: @Toshio, @Minako, you are prioritizing the start over the finish. A timely start is useless if the customers leave the moment we raise prices. Clinic Scheduler is the only option that aligns with our actual historical wins.
+- [76] **Minako**: @Asuka, historical wins are a guide, but our current liquidity is a hard limit. We cannot risk the capital drain of physical assets or the delays of regulation. Ledger Bridge is the only safe choice.
+- [77] **Mio**: @Asuka, I really want to support you, but I can't ignore the workload! Ledger Bridge is just a dashboard, while the others need field crews or more board seats. Let's pick the one that doesn't burn us out!
+- [78] **Toshio**: @Asuka, the risk of churn is a variable we can manage through pricing strategy. However, a nine-month security review or a supply chain collapse is a fixed obstacle we cannot control. Ledger Bridge is the only logical choice.
+- [79] **Servas**: We have spoken with honesty and clarity. While I long for the certainty of physical verification, the collective wisdom here points toward the efficiency of Ledger Bridge. Let us move forward with a light heart. I vote for Ledger Bridge.
+- [80] **Asuka**: I cannot ignore the data. Ledger Bridge is a general tool for a volatile segment, while Clinic Scheduler mirrors the specialized, high-retention tools that actually drove our returns. I vote for Clinic Scheduler.
+- [81] **Minako**: Our liquidity is too fragile to gamble on regulatory delays or capital-heavy assets. Ledger Bridge is the only option that fits our current financial constraints and minimizes risk. I vote for Ledger Bridge.
+- [82] **Mio**: I'm going with the one that lets us actually sleep at night! Ledger Bridge is lean, doesn't need a huge hiring push, and won't swamp our partners. I vote for Ledger Bridge!
+- [83] **Toshio**: The evidence is clear. Clinic Scheduler is a regulatory trap, and the others are supply chain risks. Ledger Bridge is the only candidate that avoids these systemic delays. I vote for Ledger Bridge.
+### Vote
+- Servas -> D
+- Asuka -> A
+- Minako -> D
+- Mio -> D
+- Toshio -> D
+## Result
+- adopted: D

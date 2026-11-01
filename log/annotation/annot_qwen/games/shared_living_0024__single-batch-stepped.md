@@ -1,0 +1,73 @@
+# shared_living_0024__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the total cost before we say yes. No surprises.
+- [6] **Shunichi**: Travel time is the enemy. I need to see how long the trip takes.
+- [7] **Asuka**: Who pays for what? I need to see the billing structure.
+- [8] **Takumi**: I need to know about the bathrooms and meal times. Sleep is key.
+- [9] **Toshio**: I want to understand how we spent time together last year.
+- [10] **Rin**: @Shunichi, if the travel is long, the cost goes up too.
+- [11] **Shunichi**: @Rin, I am looking at the ferry and train times specifically.
+- [12] **Asuka**: @Takumi, meal times affect the budget. I am checking the rates.
+- [13] **Takumi**: @Asuka, I am checking the bathing hours and room setups.
+- [14] **Toshio**: @Rin, I am checking how last year's days actually ran.
+- [15] **Rin**: I will check the offshore house pricing. It seems like a whole bill.
+- [16] **Shunichi**: I will check the ferry sailings and train time.
+- [17] **Asuka**: I will check the all-in rates against separate meals.
+- [18] **Takumi**: I will check the bathing hours and bathroom provision.
+- [19] **Toshio**: I will check the time alone in the shared-house year.
+- [20] **Rin**: I will also check what separately booked rooms cost last time.
+- [21] **Shunichi**: I will also check getting around by train and bus.
+- [22] **Asuka**: I will also check valley inn rates versus urban beds.
+- [23] **Takumi**: I will also check inn mealtimes and room arrangements.
+- [24] **Toshio**: I will also check how last year's days ran.
+## Round 2
+- [35] **Rin**: The island house is 5,400 yen a head a night. That is clear.
+- [36] **Shunichi**: The ferry takes two days total. The train is only ninety minutes.
+- [37] **Asuka**: All-in rates charge the same for everyone. Separate meals vary.
+- [38] **Takumi**: The island house has one bathroom for everyone. Water runs cold.
+- [39] **Toshio**: Last year, we were together all day. No one had alone time.
+- [40] **Rin**: @Takumi, one bathroom for five people? That sounds rough.
+- [41] **Shunichi**: @Rin, the train option saves us two days of travel.
+- [42] **Asuka**: @Shunichi, but the city beds are 12,000 to 20,000 yen.
+- [43] **Takumi**: @Asuka, the inn has fixed meal times. Six and half seven.
+- [44] **Toshio**: @Takumi, fixed times might be good for us. We stay together.
+- [45] **Rin**: The separate rooms last time cost 8,000 yen different. That is unfair.
+- [46] **Shunichi**: The city has trains every few minutes. No planning needed.
+- [47] **Asuka**: The valley inn is 17,000 yen with meals. That is a lot.
+- [48] **Takumi**: The city room has a door. I can sleep better there.
+- [49] **Toshio**: The shared house year was crowded. I felt alone in the crowd.
+- [50] **Rin**: I prefer the island. One bill, no hidden costs.
+- [51] **Shunichi**: I prefer the city. Less travel, more freedom.
+- [52] **Asuka**: I prefer the city. Separate meals mean fairer costs.
+- [53] **Takumi**: I prefer the city. Private room, no shared bathroom.
+- [54] **Toshio**: I am undecided. I need to think about the group dynamic.
+## Round 3
+- [60] **Rin**: Option A is the island. Option B is the hot spring. Option C is the city.
+- [61] **Shunichi**: The city saves us time. The island is too far.
+- [62] **Asuka**: The city allows separate billing. That is logical.
+- [63] **Takumi**: The city has private rooms. I can sleep.
+- [64] **Toshio**: The city lets us be together but also apart.
+- [65] **Rin**: @Shunichi, but the island is one bill. No arguments about money.
+- [66] **Shunichi**: @Rin, two days of travel is too much. I am voting city.
+- [67] **Asuka**: @Rin, the city is more flexible. I am voting city.
+- [68] **Takumi**: @Rin, the island bathroom is a dealbreaker. I am voting city.
+- [69] **Toshio**: @Rin, the city offers balance. I am voting city.
+- [70] **Rin**: I am voting island. I want the shared experience.
+- [71] **Shunichi**: I am voting city. Efficiency matters.
+- [72] **Asuka**: I am voting city. Financial clarity matters.
+- [73] **Takumi**: I am voting city. Comfort matters.
+- [74] **Toshio**: I am voting city. Balance matters.
+- [75] **Rin**: I am over. I have said my piece.
+- [76] **Shunichi**: I am over.
+- [77] **Asuka**: I am over.
+- [78] **Takumi**: I am over.
+- [79] **Toshio**: I am over.
+### Vote
+- Rin -> A
+- Shunichi -> C
+- Asuka -> C
+- Takumi -> C
+- Toshio -> C
+## Result
+- adopted: C

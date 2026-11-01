@@ -1,0 +1,16 @@
+aiwolf_0001__multi-private.md: 40/40 utterances, missing [], finish=stop, 127s
+aiwolf_0007__multi-private.md: 40/40 utterances, missing [], finish=stop, 172s
+aiwolf_0013__multi-private.md: 40/40 utterances, missing [], finish=stop, 162s
+aiwolf_0019__multi-private.md: 52/52 utterances, missing [], finish=stop, 180s
+aiwolf_0025__multi-private.md: 40/40 utterances, missing [], finish=stop, 162s
+candidate_selection_0001__multi-private.md: 60/60 utterances, missing [], finish=stop, 194s
+candidate_selection_0007__multi-private.md: 60/60 utterances, missing [], finish=stop, 181s
+candidate_selection_0013__multi-private.md: 50/50 utterances, missing [], finish=stop, 153s
+candidate_selection_0019__multi-private.md: 55/55 utterances, missing [], finish=stop, 191s
+candidate_selection_0025__multi-private.md: 60/60 utterances, missing [], finish=stop, 202s
+shared_living_0001__multi-private.md: 60/60 utterances, missing [], finish=stop, 188s
+shared_living_0007__multi-private.md: 60/60 utterances, missing [], finish=stop, 199s
+shared_living_0013__multi-private.md: 60/60 utterances, missing [], finish=stop, 192s
+shared_living_0019__multi-private.md: 60/60 utterances, missing [], finish=stop, 141s
+shared_living_0025__multi-private.md: 60/60 utterances, missing [], finish=stop, 133s
+15/15 games annotated -> /tmp/claude-1091/-diskthalys-ssd14ta-yharada-aiwolf-undergraduate-research/bcec8730-29c9-4bd2-98fc-0a8842b00e36/scratchpad/annot_fewshot/qwen__ex-short/out

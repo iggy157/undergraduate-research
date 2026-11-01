@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I am concerned about the gap between the development vote and the unfunded running costs that appear later.
+- [6] **Shion**: I am curious about the actual outcomes of past initiatives. We need to know if they truly helped patients before adding more.
+- [7] **Midori**: I worry about who actually absorbs the new workload. Rosters rarely match the requesting department, so I need to see the staffing reality.
+- [8] **Kenji**: I’m worried about whether the hospital can physically absorb a new program. Rooms, parking, and booking screens are already tight.
+- [9] **Shizue**: I worry about arrangements that quietly unravel in year two. I want to see where our recent starts actually came apart.
+- [10] **Jonathan**: I appreciate the focus on physical space, Kenji. But I need to understand the financial baseline first. Let us examine the ledger and the regional tariffs.
+- [11] **Shion**: I will examine the readmission figures during the call-back trial and the board minutes on the jointly run clinic.
+- [12] **Midori**: I will examine ward nursing vacancies and agency cover, plus the therapy and midwifery staffing review.
+- [13] **Kenji**: I’ll check the booking system records and rooms, parking, and shuttle coverage. We need to know if the infrastructure can handle the extra traffic!
+- [14] **Shizue**: I will examine the data agreements with outside surgeries and the board minutes on the jointly run clinic.
+- [15] **Jonathan**: I will examine this year's development allocation in the ledger and the regional fund tariffs by contact location.
+- [16] **Shion**: I will examine the readmission figures during the call-back trial and the board minutes on the jointly run clinic.
+- [17] **Midori**: I will examine ward nursing vacancies and agency cover, plus the therapy and midwifery staffing review.
+- [18] **Kenji**: I’ll stick with my two choices: the booking system records and rooms, parking, and shuttle coverage. Let’s see if the infrastructure can handle the extra traffic!
+- [19] **Shizue**: I will stick with my two choices: the data agreements with outside surgeries and the board minutes on the jointly run clinic.
+- [20] **Jonathan**: I will stick with my two choices. The ledger and tariffs will reveal the true financial ceiling before we commit to anything.
+- [21] **Shion**: I will stick with my two choices. The data will reveal whether past efforts actually changed patient outcomes, or if they were merely administrative noise.
+- [22] **Midori**: I will stick with my two choices. The staffing records will show us exactly where the pressure falls, so we can plan for the people, not just the program.
+- [23] **Kenji**: I’ll stick with my two choices. The booking system and physical coverage will show if we can actually absorb the new program without seizing up!
+- [24] **Shizue**: I will stick with my two choices. The agreements and minutes will show if the partners truly committed, or if they were merely polite.
+## Round 2
+- [35] **Jonathan**: The ledger shows our allocation is down a quarter, and off-site contacts earn nothing. We must build programs that generate on-site revenue to survive.
+- [36] **Shion**: The call-back trial cut readmissions by a fifth, but the joint clinic collapsed. We need programs with proven, self-sustaining outcomes, not fragile partnerships.
+- [37] **Midori**: Nine unfilled nursing posts and rising agency costs are alarming. Yet midwifery has unexpected slack. We must place new work where the team is actually stable, not where it’s already breaking.
+- [38] **Kenji**: Wow, the car park fills before eleven! That’s a huge bottleneck. If we add more patients, the whole system will seize up. We need to check if the booking system can handle the overflow.
+- [39] **Shizue**: My findings confirm my fears. The joint clinic collapsed because neither department owned the rota. We must avoid partnerships where responsibility is shared but never truly held.
+- [40] **Jonathan**: @Shion, your caution is wise. The joint clinic’s failure mirrors my financial concern. We must avoid shared structures that dilute accountability and revenue.
+- [41] **Shion**: @Jonathan, precisely. The data proves single-department ownership works. Shared structures are administrative noise. We must fund what actually sustains itself, not what looks good on paper.
+- [42] **Midori**: @Shion, I agree. But stability is just as vital as ownership. We cannot place new work on a team already drowning in agency cover.
+- [43] **Kenji**: @Midori, exactly! If the car park is full, adding more patients just creates chaos. We need a program that fits into the existing flow, not one that breaks it.
+- [44] **Shizue**: @Midori, you are right. Stability is the foundation. I will ensure we choose a program where one team truly owns the work, so it does not unravel later.
+- [45] **Jonathan**: @Midori, your staffing insight is critical. We must pair a stable team with a model that generates on-site revenue. Let us find that intersection.
+- [46] **Shion**: @Jonathan, revenue is secondary to efficacy. The call-back trial proved single-department ownership works. We must fund a program that sustains itself without external partners or fragile shared rotas.
+- [47] **Midori**: @Jonathan, I hear you. But revenue means nothing if the team collapses. We must prioritize the midwifery slack to ensure the program actually runs smoothly.
+- [48] **Kenji**: @Shion, I agree! But if the booking system can’t track it, it’s invisible. We need a program that fits the current slots and doesn’t clog the car park!
+- [49] **Shizue**: @Shion, I agree. The data agreements took fourteen months. We cannot build on such fragile ground. Let us choose a program that stands firmly on its own.
+- [50] **Jonathan**: @Shizue, I concur. We need a program that stands alone, generating on-site revenue without the fragility of shared partnerships. Let us seek that stability.
+- [51] **Shion**: @Jonathan, I agree. The evidence is clear. We must select a program with single-department ownership and proven efficacy. Let us stop funding administrative noise.
+- [52] **Midori**: @Shion, I agree on single-department ownership. But we must also respect the staffing reality. Let us choose a program that fits the midwifery slack, not the broken nursing rosters.
+- [53] **Kenji**: @Midori, I agree! Midwifery slack is great, but we still need space. Let’s pick a program that fits the existing slots and doesn’t clog the car park!
+- [54] **Shizue**: @Kenji, I agree. A program that fits our current space and staffing is wise. Let us choose something that will still be standing in year two, not just year one.
+## Round 3
+- [60] **Jonathan**: @Shion, the tariffs confirm off-site visits earn nothing. Option A is financially void. We must choose a program that generates on-site revenue to sustain itself.
+- [61] **Shion**: @Jonathan, you mistake revenue for value. The call-back trial proved home visits cut readmissions by a fifth. Option A is the only model with proven, self-sustaining efficacy.
+- [62] **Midori**: @Shion, I hear the efficacy, but Option A lands on nine vacant nursing posts. We cannot add home visits to a team already drowning in agency cover.
+- [63] **Kenji**: @Midori, exactly! Option A means no car park or room pressure, but the booking system can’t track home visits. It becomes invisible! We need something that fits our current slots.
+- [64] **Shizue**: @Midori, you are right. Option A relies on the very nursing posts that are empty. We cannot build a home visit program on a foundation of absence.
+- [65] **Jonathan**: @Shion, efficacy is vital, but a program that earns nothing cannot survive our reduced allocation. We need on-site revenue to cover the running costs you ignore.
+- [66] **Shion**: @Jonathan, you confuse survival with worth. The trial proved efficacy, not profit. If we only fund what earns, we abandon the patients who need us most.
+- [67] **Midori**: @Jonathan, I understand the financial pressure. But Option A is impossible with our current nursing gaps. We must look at options that don’t rely on those vacant posts.
+- [68] **Kenji**: @Shion, I agree! Option A is invisible to our booking system. We need a program that fits our current slots and doesn’t clog the car park!
+- [69] **Shizue**: @Shion, I understand your passion. But Option C is a joint venture. My minutes show such partnerships collapse when neither side truly owns the rota. We must avoid that fragility.
+- [70] **Jonathan**: @Midori, you are right. Option A is impossible. Option B generates on-site revenue and fits the therapy staffing. It is the only financially viable path.
+- [71] **Shion**: @Jonathan, you mistake revenue for value. Option B is a luxury, not a necessity. The data proves home visits save lives. We must fund efficacy, not just balance the books.
+- [72] **Midori**: @Jonathan, I must object. Option B relies on physiotherapists who have been leaving for four years. We cannot build on a team that is actively shrinking.
+- [73] **Kenji**: @Midori, that’s a huge worry! But Option B uses dedicated rooms, so it fits our booking slots perfectly. It won’t clog the car park like other options might!
+- [74] **Shizue**: @Midori, your caution is wise. Option B’s staffing fragility mirrors the joint clinic’s failure. We must choose a program that stands firmly on its own, without relying on shrinking teams.
+- [75] **Jonathan**: @Shion, I hear your passion, but the ledger is unforgiving. Option B is the only path that generates on-site revenue while respecting the staffing reality. Let us choose sustainability.
+- [76] **Shion**: @Jonathan, you mistake revenue for value. Option B is a luxury. The data proves home visits save lives. We must fund efficacy, not just balance the books.
+- [77] **Midori**: @Shion, I hear your passion, but we cannot ignore the empty chairs. Option C uses the midwifery slack we have. It is the only choice that respects our current staffing reality.
+- [78] **Kenji**: @Midori, I agree! Option C fits the midwifery slack. But it’s a joint venture, which worries me. Will it fit our booking slots without clogging the car park?
+- [79] **Shizue**: @Kenji, I worry about Option C. My minutes show joint ventures collapse when ownership is shared. We must choose a program that stands firmly on its own, without that fragility.
+### Vote
+- Jonathan -> B
+- Shion -> A
+- Midori -> C
+- Kenji -> B
+- Shizue -> B
+## Result
+- adopted: B

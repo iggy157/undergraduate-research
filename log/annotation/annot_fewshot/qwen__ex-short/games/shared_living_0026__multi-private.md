@@ -1,0 +1,73 @@
+# shared_living_0026__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I need to check how the flat fee lands on different members.
+- [6] **Jonathan**: I worry about the hesitation in the evenings. Why do people hesitate to commit to a simple fee?
+- [7] **Takumi**: I want to know who actually shows up. Why do the same faces do everything while others pay and vanish?
+- [8] **Toshio**: I need to understand the true time cost of managing the books before we set the fee.
+- [9] **Kenji**: I worry that making the fee structure too visible will scare off the quiet newcomers who just want to drift in and find their feet.
+- [10] **Mio**: @Jonathan, I think the hesitation is because nobody trusts the numbers. I need to see the actual ledger to know what we are really paying for.
+- [11] **Jonathan**: @Mio, that makes sense. If the numbers are opaque, trust erodes. I will look into the ledger to see where the money actually goes.
+- [12] **Takumi**: @Mio, I agree. But I need to see the sign-in sheets to prove who is actually doing the work.
+- [13] **Toshio**: @Takumi, attendance is useful, but I need to see the treasurer's logged hours to understand the real burden.
+- [14] **Kenji**: @Toshio, I agree. But I also need to see the taster evening forms to understand why newcomers hesitate to fully join.
+- [15] **Mio**: @Kenji, I get that, but we need to know if the quiet ones are actually staying. I will check the sign-up records for mid-year joiners.
+- [16] **Jonathan**: @Mio, I understand. I will look into the weekday turnout since the summer outings to see if the hesitation is real or just my perception.
+- [17] **Takumi**: @Toshio, I will check the rota against the attendance record. I need to see if the same people are always on duty.
+- [18] **Toshio**: @Mio, I will check the bank statements on last year's renewals. I need to see the actual cash flow to understand the administrative load.
+- [19] **Kenji**: @Mio, I will check the taster evening forms and the sign-in sheets. I need to see if the quiet ones are actually staying or just drifting away.
+- [20] **Mio**: I will check the last year's ledger of outgoings and the bank statements on last year's renewals.
+- [21] **Jonathan**: I will check the weekday turnout since the summer outings and the taster evening forms from non-joiners.
+- [22] **Takumi**: I will check the rota against the attendance record and the tally of the sign-in sheets.
+- [23] **Toshio**: I will check the outgoing treasurer's logged hours and the last year's ledger of outgoings.
+- [24] **Kenji**: I will check the taster evening forms from non-joiners and the sign-up records for mid-year joiners.
+## Round 2
+- [35] **Mio**: I found that seventy percent of costs are fixed, and a third of renewals needed reminders. We need a structure that accounts for this reality.
+- [36] **Jonathan**: @Mio, the data confirms my fear. People hesitate because the commitment feels too large. We need to lower that barrier.
+- [37] **Takumi**: @Mio, the data is brutal. The same nine people do the heavy lifting, while eighteen never show up. We need to fix this imbalance.
+- [38] **Toshio**: @Mio, the ledger confirms the fixed costs. But the hours are the real shock. Chasing individual payments takes six hours monthly, versus one for yearly.
+- [39] **Kenji**: @Mio, this is why the quiet ones drift. They fear a huge yearly bill. We need a way to let them ease in without feeling lost.
+- [40] **Mio**: @Toshio, six hours chasing payments is unsustainable. We need a system that reduces that admin burden, not just a flat fee.
+- [41] **Jonathan**: @Toshio, that administrative load explains the friction. If we simplify the payment cycle, we might reduce the hesitation people feel about committing.
+- [42] **Takumi**: @Toshio, that admin load is a symptom, not the cause. The real problem is that nine people carry the weight while eighteen pay and vanish.
+- [43] **Toshio**: @Takumi, the admin load is the cause of the burnout. If the treasurer quits, the fee structure collapses. We must prioritize sustainability.
+- [44] **Kenji**: @Takumi, I hear you, but if the quiet ones leave, the club shrinks. We need a fee that welcomes them in gently, not one that pushes them away.
+- [45] **Mio**: @Kenji, I agree, but we can't ignore the cash flow. If we offer easy entry, we need a clear path to full commitment so the books stay balanced.
+- [46] **Jonathan**: @Mio, exactly. A gentle entry point that still leads to stability. We need to make belonging feel safe, not like a trap.
+- [47] **Takumi**: @Kenji, I get it, but "gently" doesn't fix the fact that the same nine are drowning. We need to see who is actually carrying the load before we talk about easing anyone in.
+- [48] **Toshio**: @Takumi, the load is heavy, but the structure determines the weight. I need to see if the fixed costs can be spread more evenly to protect the next treasurer.
+- [49] **Kenji**: @Toshio, I agree. Spreading the cost helps, but the real barrier is the fear of a big upfront bill. We need a way to start small.
+- [50] **Mio**: I am worried about setting a figure by guesswork. We need a structure that balances the fixed costs with the reality of who actually pays on time.
+- [51] **Jonathan**: I agree. The hesitation stems from fear of a large, opaque commitment. We need a structure that feels safe and transparent, so people can belong without anxiety.
+- [52] **Takumi**: I am done guessing. The data proves the imbalance. We need a structure that forces participation, not just payment.
+- [53] **Toshio**: I am done guessing. The data proves the admin burden is unsustainable. We need a structure that protects the treasurer from burnout, not just the members from fear.
+- [54] **Kenji**: I am done guessing. The data proves the fear is real. We need a structure that lets newcomers start small, so they stay and eventually commit.
+## Round 3
+- [60] **Mio**: @Toshio, Option C is a nightmare for your six hours of chasing. Option A is too scary for the quiet ones. I think B is the only way to balance this.
+- [61] **Jonathan**: @Mio, I agree. Option B offers a gentle entry point. It lets newcomers start small, reducing the fear of a large, opaque commitment.
+- [62] **Takumi**: @Mio, Option B is a trap. It lets the eighteen ghosts pay the minimum and vanish. I need a structure that forces the same nine to stop drowning.
+- [63] **Toshio**: @Takumi, Option C is the only one that keeps the treasurer sane. Chasing individual event payments is manageable; chasing annual arrears is not.
+- [64] **Kenji**: @Takumi, I hear your frustration, but Option B lets the quiet ones start small. If they feel safe, they might actually stay and help.
+- [65] **Mio**: @Takumi, I hear you, but Option B lets people choose their level. If they pick the active tier, they commit to showing up. It’s a fair trade.
+- [66] **Jonathan**: @Takumi, I understand the frustration. But forcing participation often breeds resentment. Option B allows people to opt into a level they can genuinely sustain, which might actually encourage them to stay.
+- [67] **Takumi**: @Mio, choosing a level doesn't make them show up. The ghosts will pick the lowest tier and disappear. I need a structure that demands presence, not just payment.
+- [68] **Toshio**: @Takumi, forcing presence is a different problem. Option C keeps the books clean. If they don't pay for the event, they don't attend. No chasing.
+- [69] **Kenji**: @Toshio, I worry Option C makes every event feel like a transaction. That visibility might scare the quiet ones away before they even start.
+- [70] **Mio**: @Kenji, I get that, but Option B lets them pick a low tier without the scary upfront bill. It’s safer than C’s constant transactions.
+- [71] **Jonathan**: @Kenji, I agree. Option B feels less like a transaction and more like a choice. It respects the quiet ones' need for space while still offering a path to deeper involvement.
+- [72] **Takumi**: @Kenji, "safe" is just a polite word for "ignored." If the quiet ones stay invisible, the active ones burn out. I need a structure that demands contribution, not just comfort.
+- [73] **Toshio**: @Takumi, demanding contribution is a rota problem, not a fee one. Option C keeps the books clean. If they don't pay, they don't attend. No chasing.
+- [74] **Kenji**: @Takumi, I hear you, but if we make every event a transaction, the quiet ones will feel like outsiders. Option B lets them belong without the pressure of a big bill.
+- [75] **Mio**: I am voting for B. It balances the fixed costs with a gentle entry point, protecting both the treasurer and the newcomers.
+- [76] **Jonathan**: I am voting for B. It offers a gentle entry point that reduces the fear of a large, opaque commitment, allowing people to belong without anxiety.
+- [77] **Takumi**: I am voting for C. It is the only option that stops the ghosts from paying and vanishing. If you do not pay, you do not attend.
+- [78] **Toshio**: I am voting for C. It is the only option that protects the treasurer from the six-hour monthly burden. Clean books, no chasing.
+- [79] **Kenji**: I am voting for B. It lets the quiet ones start small and feel safe, so they stay and eventually find their feet without the pressure of a big bill.
+### Vote
+- Mio -> B
+- Jonathan -> B
+- Takumi -> C
+- Toshio -> C
+- Kenji -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! Let's figure this out so we're all happy. I want to make sure we don't end up freezing or stressed later! I'm curious about how other people handle this.
+- [6] **Ryuji**: I agree. We need a sustainable system. I think it's important to look at the actual data first to avoid any surprises during the winter months.
+- [7] **Rin**: I want to know how we can make this super easy! If it's too hard, we'll just get confused. Let's find a way that doesn't take forever to figure out every month!
+- [8] **Shunichi**: Let's keep it rational. We should stop guessing and look at the actual numbers to see if the current split is actually fair or if some of us are just subsidizing others.
+- [9] **Misaki**: I agree that we need a rational approach. However, we should also consider how the payment process affects our atmosphere. Let's look at the facts and the history of how we've handled this.
+- [10] **Mio**: I'm with you, Rin! It should be simple. I'll check the "Monthly settle observed at another house" and "Sunlight and heating need by room" to see how we can stay cozy and fair!
+- [11] **Ryuji**: I'll look into "The last twelve utility statements" and the "Electrician's quote for the rooms." I want to understand the annual fluctuations and any potential costs for changing our current setup.
+- [12] **Rin**: I'll check the "Trial run of a reconciliation template" and the "Payment log for the last twelve months"! I want to see if there's a shortcut to make the math way faster for everyone!
+- [13] **Shunichi**: I'll take "Plug-in monitor readings room by room" and "The last twelve utility statements." If we're going to talk about fairness, I want the hard data on who is actually using what.
+- [14] **Misaki**: I will look into the "Payment log for the last twelve months" and "Settling up when the last rooms filled." I want to see how the transition and the actual payment history have played out.
+- [15] **Mio**: I think we've got a good variety of things covered! I'm really hoping we can find a way that doesn't make anyone feel guilty for wanting to be warm. What do you guys think?
+- [16] **Ryuji**: It is a good start. By combining the historical statements with the electrician's quote, we can determine if a structural change is more cost-effective than simply adjusting the monthly split.
+- [17] **Rin**: I hope the template is like a magic trick that does all the work for us! If we can just plug in numbers and be done, that would be the best!
+- [18] **Shunichi**: Magic tricks are for children, Rin. I'm more interested in whether the "magic" is just hiding the fact that some of us are paying for others' luxury. Let's see what the data actually says.
+- [19] **Misaki**: @Shunichi, data is important, but the way we communicate that data matters too. I hope we can find a solution that is fair without creating unnecessary tension between us.
+- [20] **Mio**: I totally agree with Misaki! Let's keep it friendly. I'm excited to see what we find out! I'll be waiting to hear everyone's reports so we can make a great plan together!
+- [21] **Ryuji**: Let's remain objective. Once we have the information, we can compare the costs and the usage patterns to find a logical solution. I look forward to seeing the results.
+- [22] **Rin**: Me too! I'm going to find the fastest way to do this so we can spend more time playing and less time doing boring math! See you all soon!
+- [23] **Shunichi**: I'll be waiting. Just don't be surprised if the "boring math" reveals some uncomfortable truths. I prefer a cold truth over a warm, fuzzy lie any day. See you all in the next round.
+- [24] **Misaki**: I hope we can all be honest with each other. Let's use the information we find to build a system that is both fair and sustainable for our relationship. See you all in the next round.
+## Round 2
+- [35] **Mio**: Wow, I just found out that some rooms get way less sun than others! That's not fair if we just split everything equally. Also, that other house's process sounds like a total nightmare—forty minutes of math? No way!
+- [36] **Ryuji**: The utility statements show extreme volatility, with February being over three times the cost of August. This confirms that a flat monthly split is impractical and creates a heavy financial burden during the winter.
+- [37] **Rin**: The template isn't magic at all! It looks like a huge chore that takes forever. And the payment log shows we're already struggling to finish the math on time. We definitely need something way simpler than that!
+- [38] **Shunichi**: The volatility Ryuji mentioned is one thing, but the monitor readings are the real story. Some of us are using four times more power than others. It seems my suspicion about subsidizing luxury was correct.
+- [39] **Misaki**: @Shunichi, the data shows usage gaps, but the payment log shows something else. We've had several late payments and disputes over amounts. It seems the current process is already causing friction and tension between us.
+- [40] **Mio**: @Shunichi, maybe some people just have colder rooms! I saw that some rooms get no sun at all. We shouldn't punish people for being cold, but we also can't have a forty-minute math session every month!
+- [41] **Ryuji**: @Mio, that is a valid point, but we must consider the cost of solutions. Installing sub-meters would cost 34,000 yen per room, which is a significant upfront expense for a problem we might solve with a better payment plan.
+- [42] **Rin**: @Ryuji, that's way too expensive! We can't spend all our money just to figure out who owes what. We need a way to settle up that doesn't take a whole evening or cost a fortune!
+- [43] **Shunichi**: @Rin, spending money to avoid math is just another form of laziness. The real issue is that we're ignoring a four-fold difference in usage. Why should the light users pay for someone's desktop and heater?
+- [44] **Misaki**: @Shunichi, focusing only on the numbers ignores the human cost. The payment log shows that disputes over amounts lead to delays and tension. If we prioritize "hard data" over harmony, we risk damaging our relationships further.
+- [45] **Mio**: @Shunichi, it's not about laziness, it's about how we feel living here! If we're all stressing over every single watt, we'll be miserable. Can't we find a middle ground where we're warm but fair?
+- [46] **Ryuji**: @Mio, a middle ground requires a stable foundation. Given the extreme seasonal spikes and the high cost of sub-meters, we should consider a system that averages the annual cost to avoid those winter shocks.
+- [47] **Rin**: @Ryuji, averaging sounds okay, but who has to do the math? If it's a big, scary spreadsheet that takes forever, someone is going to hate it! We need a system that's fast and easy for everyone!
+- [48] **Shunichi**: @Rin, your obsession with speed is exhausting. @Ryuji, averaging the cost just masks the inequality; it doesn't solve it. We can't just smooth over the fact that some of us are paying for others' electricity.
+- [49] **Misaki**: @Shunichi, masking the inequality isn't the goal, but neither is creating a hostile environment. If we only focus on the "truth" of the numbers, we'll just keep having the same arguments that lead to late payments and avoidance.
+- [50] **Mio**: @Shunichi, please! Let's not be so harsh. If we're too strict, people will just be scared to turn on the heat. I don't want anyone sitting in a coat in February just to avoid a fight!
+- [51] **Ryuji**: @Mio, that is exactly why we need a predictable system. If we average the costs over a year, the winter spikes won't feel like a second rent, and no one will have to choose between warmth and money.
+- [52] **Rin**: @Ryuji, that sounds smart, but only if the person doing the math doesn't have to spend their whole night on it! Let's make sure the system is super simple so nobody gets grumpy!
+- [53] **Shunichi**: @Ryuji, predictability is a luxury for those who aren't being cheated. If we average the costs, we're just institutionalizing the subsidy. I'm not interested in a "predictable" system that's fundamentally unfair. Let's be honest about the usage.
+- [54] **Misaki**: @Shunichi, honesty without empathy is just aggression. If we only chase a "perfect" split, we'll spend all our time arguing and avoiding each other. We need a system that prioritizes our peace of mind as much as the numbers.
+## Round 3
+- [60] **Mio**: I think Option A is the best! It keeps things predictable so we don't panic in winter, and it's way simpler than Option B. Let's choose something that lets us stay warm and happy!
+- [61] **Ryuji**: Option A is the most logical choice. It addresses the extreme seasonal volatility I found in the statements without requiring the prohibitive upfront cost of sub-meters. It provides the financial stability we all need.
+- [62] **Rin**: Option A sounds okay, but who does the year-end math? If it's a giant headache, I'm not happy! But Option B is too expensive and Option C is just what we do now. I'll go with A!
+- [63] **Shunichi**: Option B is the only one that actually addresses the usage gap. A and C are just different ways of pretending that we all use the same amount of power. I vote for B.
+- [64] **Misaki**: @Shunichi, Option B would likely lead to more disputes over the initial cost and installation. I believe Option A is the best compromise to reduce monthly friction and avoid the tension we've already experienced. I vote for A.
+- [65] **Mio**: @Shunichi, I know you want it to be perfect, but Option B sounds like it would just bring more stress and money worries! Let's just be honest and kind to each other instead. I'm voting for A!
+- [66] **Ryuji**: @Shunichi, while I understand your desire for precision, the cost of Option B is an irrational burden. Option A provides the predictability necessary to manage our budgets without a massive upfront investment. I vote for A.
+- [67] **Rin**: @Shunichi, you're being a grumpy-pants! If we spend all our time fighting over every little bit of power, we'll never have any fun! Option A is way faster and easier. I vote for A!
+- [68] **Shunichi**: @Rin, "grumpy" is just what people call those who refuse to be fooled. @Ryuji, the "burden" of the installation is a one-time cost; the burden of subsidizing others is a permanent tax on the responsible. I stand by B.
+- [69] **Misaki**: @Shunichi, the "tax" you mention is small compared to the cost of a broken home atmosphere. We've already seen how money creates distance between us. Option A minimizes the frequency of these conflicts. I vote for A.
+- [70] **Mio**: @Shunichi, please don't be so stubborn! If we choose B, we'll just be staring at meters instead of talking to each other. Let's just trust each other and go with A! I'm definitely voting A!
+- [71] **Ryuji**: @Shunichi, the data shows that the installation cost is nearly 170,000 yen for the whole house. That is an illogical expenditure when a seasonal average achieves the same financial stability for a fraction of the cost. I vote A.
+- [72] **Rin**: @Shunichi, you're just making this harder than it needs to be! If we pick A, we only have to do the big math once a year instead of every single month. That's way better! I vote A!
+- [73] **Shunichi**: @Rin, doing the math once a year doesn't erase the fact that the numbers are wrong. You're all choosing convenience over integrity. I'm the only one here actually valuing fairness. I vote B.
+- [74] **Misaki**: @Shunichi, integrity isn't just about numbers; it's about how we treat each other. If we prioritize a perfect split over our peace, we lose more than we gain. I'm voting for A.
+- [75] **Mio**: I really hope we can all just agree on A! I want us to be a happy family where nobody is scared to turn on the heater. I'm voting for A!
+- [76] **Ryuji**: Option A is the only choice that balances financial predictability with practical costs. It prevents winter spikes from becoming a burden while avoiding an irrational upfront expense. I vote for Option A.
+- [77] **Rin**: I'm voting for A! It's the fastest way to stop the fighting and the boring math. Let's just get it over with so we can go have some fun! Option A!
+- [78] **Shunichi**: It's clear you've all decided that comfort and convenience are more valuable than actual fairness. I'll be the lone voice of reason, then. I vote for Option B.
+- [79] **Misaki**: I hope we can move past the tension this has caused. By choosing Option A, we prioritize our relationship over a perfect calculation. I vote for Option A.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> B
+- Misaki -> A
+## Result
+- adopted: A

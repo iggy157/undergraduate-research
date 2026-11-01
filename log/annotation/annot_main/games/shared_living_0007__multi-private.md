@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: Since we have more residents than spaces, we need a fair way to decide. I think we should look at the history of how this was handled and any past issues.
+- [6] **Shizue**: That sounds like a very sensible start, Misaki-san. It is always helpful to see how things were done before so we can all get along peacefully. I wonder what the others think?
+- [7] **May**: I agree! Let's keep it fair and friendly. I'm curious about the money side of things, though. We should probably check the finances so we don't get stuck with a bill we can't pay.
+- [8] **George**: I agree that fairness and financial stability are important. However, we must also consider the practical side of managing these spaces long-term. We shouldn't create a system that is too burdensome to maintain.
+- [9] **Mio**: I'm excited to help! I've heard some people complaining that the same people always get the best spots, so I want to find out if that's actually true or just a misunderstanding!
+- [10] **Misaki**: I agree with Mio. To understand the current situation and avoid future conflict, I'll look into the sticker register and the daily riders, as well as the five years of association minutes.
+- [11] **Shizue**: I think it would be helpful to see how people are actually using the spaces. I will look into the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [12] **May**: I'll take the lead on the money! I'm going to check the building account's two-year ledger and the treasurer's handover file on cash collections. Let's see where the coins are actually going!
+- [13] **George**: I will look into the treasurer's handover file on cash collections and the five years of association minutes. I want to see the actual workload involved in managing these arrangements over time.
+- [14] **Mio**: I'll check the sticker register and the daily riders to see who's actually using the spots! I also want to see last year's complaint log entries to see what people are really grumbling about!
+- [15] **Misaki**: It seems we have a good distribution of research. Since we've all picked our items, I'm satisfied with the plan. I'll wait to see what the records reveal about our past disputes.
+- [16] **Shizue**: It is wonderful that we are all working together so harmoniously. I hope the information we find helps us create a space where everyone feels comfortable and cared for. I look forward to hearing your findings.
+- [17] **May**: I'm just as excited as you are, Shizue-san! I'll be the one to uncover the financial secrets of our little building. I'm sure it'll be quite a revelation!
+- [18] **George**: I believe we have covered the necessary ground. I will focus on the administrative history and the handover process to ensure our final decision is sustainable and doesn't fall apart due to lack of effort.
+- [19] **Mio**: I'm all set too! I can't wait to see if those complaints are real or just people being grumpy. Let's find some answers and make this fair for everyone!
+- [20] **Misaki**: I think we have a solid plan. Let's proceed with the research and reconvene to share what we've found. I hope we can find a solution that maintains the peace in our building.
+- [21] **Shizue**: I agree completely. Let us all take a look at our chosen records. I shall be thinking of everyone's happiness while I do my research. I will see you all very soon.
+- [22] **May**: I'm ready to dive in! I'll be back soon with all the juicy financial details. See you all in a bit—try not to miss me too much while I'm gone!
+- [23] **George**: I agree. Let us proceed with the research. I will examine the documents carefully to ensure we don't overlook the practicalities of the management. I look forward to seeing what you all discover.
+- [24] **Mio**: Me too! I'm off to be a detective! I'll find out exactly what's going on with those parking spots. See you all soon!
+## Round 2
+- [35] **Misaki**: The minutes show that the covered spots have been held by the same flats for five years without any review. It seems the current arrangement has just been left as is, which might be causing some underlying tension.
+- [36] **Shizue**: That is quite a long time for things to remain unchanged, Misaki-san. I noticed that some spots stay dry while others are quite wet, and it seems some neighbors have to move other bikes just to leave.
+- [37] **May**: Well, it looks like our "system" is basically non-existent! I found out the building account is practically empty—just cleaning and lights. If we want any real improvements, we'll have to ask everyone for more money.
+- [38] **George**: The handover file indicates that the treasurer already spends three hours a month on basic collections. Adding a complex per-space billing system would only increase that burden, which we must avoid.
+- [39] **Mio**: I found out that some daily riders are actually willing to pay extra to get a spot! Also, the complaint log is full of people annoyed by bikes leaning on each other, but nobody knows who to blame!
+- [40] **Misaki**: @Mio, it's interesting that some are willing to pay. However, if we only prioritize those who can pay, we might create a divide between neighbors. We should be careful not to let money ruin the atmosphere.
+- [41] **Shizue**: I agree with Misaki-san. Kindness and harmony are more precious than money. It makes me sad to think of neighbors feeling frustrated because their bikes are leaning or getting wet in the rain. We should find a gentle way to solve this.
+- [42] **May**: @Misaki, @Shizue, you're both so sweet, but let's be real! If people are willing to pay, why not use that to actually fund the building? We can't just rely on "harmony" to fix a leaky roof!
+- [43] **George**: @May, while funding is necessary, we must be realistic about the labor. If we implement a payment system for spots, who will manage the billing and collection? We cannot simply add more work to the treasurer's plate.
+- [44] **Mio**: @George, maybe we can make it super simple so it's not a chore! But @Misaki, if the same people have had the best spots for five years, isn't that already unfair? We should definitely shake things up!
+- [45] **Misaki**: @Mio, it is unfair, but a sudden, drastic change could create new conflicts. We need a transition that doesn't make people resent each other. Let's find a balance between fairness and maintaining our current peace.
+- [46] **Shizue**: @Misaki-san, you are so thoughtful. Perhaps we could consider a rotation? That way, everyone gets a turn in the dry spots, and no one feels left out or burdened by the rain. It would be a very kind way to share.
+- [47] **May**: Rotation sounds a bit tedious, doesn't it? Who's going to manage the schedule? I still think we should look at a fee. It solves the funding issue and the fairness problem in one go!
+- [48] **George**: @May, that is exactly my point. A rotation schedule or a fee system both require constant administration. We must ensure that whatever we decide doesn't become another abandoned task because it was too much work.
+- [49] **Mio**: @George, I get that, but doing nothing is also a problem! If we just leave it, people will keep grumbling. Maybe we can use a simple lottery once a year? That's way less work than a monthly schedule!
+- [50] **Misaki**: A lottery once a year is a reasonable compromise. It's fair, requires minimal effort, and prevents the same people from holding the best spots indefinitely without creating a complex payment system that could cause friction.
+- [51] **Shizue**: A lottery sounds like a lovely idea, Mio-san. It gives everyone an equal chance and keeps things lighthearted. I only hope we can also find a way to stop the bikes from leaning on each other.
+- [52] **May**: A lottery is fine for the spots, but I'm still not giving up on the money! If we're shaking things up, let's at least charge a small fee to build up our empty accounts. Who's with me?
+- [53] **George**: @May, I must disagree. Adding a fee requires monthly tracking and collection, which we've already seen is a burden. Let's prioritize a simple, sustainable system like the lottery over a complex financial one.
+- [54] **Mio**: @May, I love your energy, but @George is right about the work! Let's stick to the lottery for now to keep it simple and fair. We can figure out the money part later!
+## Round 3
+- [60] **Misaki**: Looking at the options, Option C seems the most stable. It addresses the unfairness of the last five years without introducing the financial friction or administrative burden that Options A and B might bring.
+- [61] **Shizue**: I agree with Misaki-san. Option C is a very gentle way to ensure everyone is treated equally. It feels like a fair and peaceful solution that would make all our neighbors smile.
+- [62] **May**: Ugh, you're all so boring! Option A is the only one that actually helps the building's bank account. Why are we so afraid of a little paperwork if it means we actually have money for repairs?
+- [63] **George**: @May, it is not about being afraid, but about being practical. We have already seen that the treasurer is stretched thin. Option C is sustainable; Option A is a recipe for burnout and eventual failure.
+- [64] **Mio**: I'm with George and Misaki-san! Option C is the most exciting because it's like a game, and it totally fixes the problem of the same people always getting the best spots. Let's go with the lottery!
+- [65] **Misaki**: @May, I understand your concern for the building's funds, but we must prioritize the residents' relationships. A payment system could make neighbors view each other as competitors rather than community members. Option C maintains the peace.
+- [66] **Shizue**: @May-san, your heart is in the right place wanting to help the building, but perhaps we can find another way to save money. Let us choose a path that keeps everyone's hearts light and happy.
+- [67] **May**: @Shizue, my heart is in the right place, but my eyes are on the empty ledger! If we just "hope" for money, we'll be staring at a leaky roof while we're all being "light and happy." Option A is the only adult choice here!
+- [68] **George**: @May, being an adult means recognizing the limits of our resources, including time. A system that fails because it is too tedious to manage is not a professional choice; it is a mistake. Option C is the only sustainable path.
+- [69] **Mio**: @May, you're so funny, but we can't let the building go broke just to make things complicated! Option C is fair, fast, and easy. Let's just do the lottery and keep everyone happy!
+- [70] **Misaki**: @May, I believe the risk of creating a divided atmosphere is a higher cost than a lack of funds. Option B would be too chaotic, and Option A too divisive. Option C is the most balanced choice.
+- [71] **Shizue**: @May-san, please do not be too discouraged. We can always discuss a separate, simple way to contribute to the building's funds later. For now, let us choose the lottery to bring everyone together in harmony.
+- [72] **May**: @Shizue, you're too sweet for your own good! Fine, if you're all determined to stay broke and "harmonious," I'll stop fighting. But don't come crying to me when the ceiling starts leaking! I'll vote for C.
+- [73] **George**: I am glad we have reached a consensus. Option C is the only choice that ensures the system will actually be maintained without overburdening any single resident. I will cast my vote for the annual lottery.
+- [74] **Mio**: Yay! I'm so glad we all agree! Option C is definitely the way to go. It's fair, it's simple, and it'll stop all that grumbling. I'm voting for the annual lottery!
+- [75] **Misaki**: I am glad we could reach an agreement that prioritizes the community's well-being. I will also vote for Option C, the Annual Lottery, to ensure a fair and peaceful environment for everyone.
+- [76] **Shizue**: It warms my heart to see us all in agreement. I shall also vote for Option C, the Annual Lottery. Let us move forward with kindness and a smile for all our neighbors.
+- [77] **May**: I'll go along with the crowd! I'm voting for Option C, the Annual Lottery. Just remember, I warned you about the budget! Now, who's treating me to a drink for being so flexible?
+- [78] **George**: I will also vote for Option C, the Annual Lottery. It is the most practical and sustainable solution for our building. I believe this decision will serve us well without creating unnecessary burdens.
+- [79] **Mio**: I'm voting for Option C, the Annual Lottery too! I'm so happy we figured this out together. Now let's make it happen and get everyone smiling again!
+### Vote
+- Misaki -> C
+- Shizue -> C
+- May -> C
+- George -> C
+- Mio -> C
+## Result
+- adopted: C

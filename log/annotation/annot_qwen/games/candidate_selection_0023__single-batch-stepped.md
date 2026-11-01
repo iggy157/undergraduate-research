@@ -1,0 +1,73 @@
+# candidate_selection_0023__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to know if our past projects actually worked for the people using them.
+- [6] **Victoria**: I am concerned about how long these projects take and how the rooms are used later.
+- [7] **Benjamin**: The schedules keep slipping. I want to see why the calendar is always compressed.
+- [8] **Kenji**: The costs on paper never match reality. I need to see where the money actually goes.
+- [9] **Shunichi**: The same few staff are doing all the work. I want to check their workload.
+- [10] **Mizuki**: @Benjamin, if the schedule slips, does that affect the quality of the final space?
+- [11] **Victoria**: @Mizuki, yes, but I am more worried about the hidden time costs during construction.
+- [12] **Benjamin**: @Victoria, exactly. The weather and unexpected issues eat up our buffer weeks.
+- [13] **Kenji**: @Shunichi, if the staff are overworked, does that increase the risk of errors?
+- [14] **Shunichi**: @Kenji, it does. But I am looking at the staffing posts specifically.
+- [15] **Mizuki**: I will look into the post-occupancy reviews and the survey findings in older blocks.
+- [16] **Victoria**: I will check the timetable records and the booking data for rooms.
+- [17] **Benjamin**: I will investigate the weather days in site diaries and the delivery schedules.
+- [18] **Kenji**: I will look at the tender records and the renewal reserve for equipment.
+- [19] **Shunichi**: I will check the staffing posts and the bench technicians' routines.
+- [20] **Mizuki**: Let's see what the data says before we pick a winner.
+- [21] **Victoria**: Agreed. Data is better than guesswork.
+- [22] **Benjamin**: I hope the numbers are clear.
+- [23] **Kenji**: I am ready to see the real costs.
+- [24] **Shunichi**: Let's hope the staff data is as clear as the rest.
+## Round 2
+- [35] **Mizuki**: The post-occupancy reviews show that shared spaces are rated much higher than single-wing ones.
+- [36] **Victoria**: The booking data shows specialist rooms are idle, but general rooms are always full.
+- [37] **Benjamin**: The site diaries show we lost six weeks to weather on the last two jobs.
+- [38] **Kenji**: The tender records show mechanical costs rose by a fifth, but surfacing costs stayed flat.
+- [39] **Shunichi**: The staffing posts show front-of-house roles are unfilled, but technicians have spare hours.
+- [40] **Mizuki**: @Victoria, that explains why the general rooms are so popular. We need more of them.
+- [41] **Victoria**: @Mizuki, yes, but the timetable records show we pay for off-site space when rooms are closed.
+- [42] **Benjamin**: @Kenji, the weather loss is significant. We need to plan for that.
+- [43] **Kenji**: @Benjamin, the mechanical cost rise is worrying. We need to budget for that.
+- [44] **Shunichi**: @Mizuki, the technicians could help with the upkeep if we reassign them.
+- [45] **Mizuki**: The survey findings in older blocks show hazardous materials, which adds months to the timeline.
+- [46] **Victoria**: The booking data confirms that general-purpose rooms are in high demand all year.
+- [47] **Benjamin**: The delivery schedules show that comfort-based projects slip, while inspection-based ones are on time.
+- [48] **Kenji**: The renewal reserve for equipment was never opened, so we are paying for replacements out of pocket.
+- [49] **Shunichi**: The bench technicians spend hours on manual checks because the equipment is outdated.
+- [50] **Mizuki**: We need a project that is shared and doesn't have hidden costs.
+- [51] **Victoria**: A project that is well-used and doesn't disrupt the timetable too much.
+- [52] **Benjamin**: A project that accounts for weather and schedule risks.
+- [53] **Kenji**: A project that has realistic costs and no hidden equipment replacement fees.
+- [54] **Shunichi**: A project that doesn't burden the already stretched staff.
+## Round 3
+- [60] **Mizuki**: Candidate A, the Central Study Commons, fits the high-demand general room profile.
+- [61] **Victoria**: Candidate A also avoids the specialist room idle time issue.
+- [62] **Benjamin**: Candidate A is indoor, so it avoids the weather delay risk.
+- [63] **Kenji**: Candidate A is a conversion, so it might avoid the mechanical cost rise.
+- [64] **Shunichi**: Candidate A uses existing staff, so it doesn't add to the workload.
+- [65] **Mizuki**: @Benjamin, is the conversion of an underused hall risky?
+- [66] **Victoria**: @Mizuki, the survey findings suggest older blocks have issues, but this is a ground-floor hall.
+- [67] **Benjamin**: @Victoria, the hall is likely in a newer block, so the hazardous material risk is lower.
+- [68] **Kenji**: @Shunichi, will the service desk require new staff?
+- [69] **Shunichi**: @Kenji, the technicians have spare hours, so they could cover the service desk.
+- [70] **Mizuki**: Candidate B, the Media Production Center, is a specialist room, which is idle.
+- [71] **Victoria**: Candidate B would add to the specialist room idle time problem.
+- [72] **Benjamin**: Candidate B is a fitted-out suite, which might have higher mechanical costs.
+- [73] **Kenji**: Candidate B requires new equipment, which has no renewal reserve.
+- [74] **Shunichi**: Candidate B requires specialized staff, which we don't have.
+- [75] **Mizuki**: Candidate C, the Campus Path Network, is outdoor, so it has weather risk.
+- [76] **Victoria**: Candidate C is a wayfinding project, which is useful but not a room.
+- [77] **Benjamin**: Candidate C is outdoor, so it will face the six-week weather delay.
+- [78] **Kenji**: Candidate C has surfacing costs, which are stable, but the lighting might be expensive.
+- [79] **Shunichi**: Candidate C requires grounds staff, which are unfilled.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> A
+## Result
+- adopted: A

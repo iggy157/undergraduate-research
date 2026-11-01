@@ -1,0 +1,73 @@
+# candidate_selection_0018__single-online (candidate_selection)
+
+## Round 1
+- [5] **Misaki**: Let's start by identifying what we actually need to investigate before we can make a fair choice.
+- [6] **Kenji**: I’m worried about the depot floor. Freight doesn’t pause for office projects, so we need to check how the system handles our actual yard equipment.
+- [7] **Toshio**: I need to see the five years of renewal invoices and the board minutes on capital and operating requests.
+- [8] **Yumi**: I want to understand why projects fail here. I’ll look into support ownership during last winter's outage and warehouse rule changes after new accounts.
+- [9] **Benjamin**: I’ll examine the upgrade history of the dispatch tool and the data lift in the 2018 pay move.
+- [10] **Misaki**: I’ll check the administrator retirements and hiring times, plus the depot supervisors and the last rollout.
+- [11] **Kenji**: I’ll look into the depot calendar and the peak-season cutover, and the yard devices and the 2021 scheduling trial.
+- [12] **Toshio**: I’ve already stated my choices. I’m waiting to see what the rest of you uncover before I commit further.
+- [13] **Yumi**: I’m glad we’re covering the ground. I’ll stick with my two picks for now, but I’m ready to adjust if something urgent comes up.
+- [14] **Benjamin**: I’ve already committed to my two investigations. I’ll review the findings once everyone has reported back.
+- [15] **Misaki**: #### Turn 3 of 4
+- [16] **Kenji**: #### Turn 3 of 4
+- [17] **Toshio**: #### Turn 3 of 4
+- [18] **Yumi**: - **Yumi**: I’m just double-checking my notes to make sure I didn’t miss any obvious gaps in my initial picks.
+- [19] **Benjamin**: - **Benjamin**: I’m reviewing the dispatch tool’s upgrade history and the 2018 pay move data lift.
+- [20] **Misaki**: I’ve noted my selections. I’ll review the administrator and supervisor findings before we move to the next phase.
+- [21] **Kenji**: I’m confirming my picks: the depot calendar and the yard devices. I need to know if our hardware can even talk to the new system.
+- [22] **Toshio**: I’ll hold my position. The invoices and board minutes will show where the real money leaks, not just the sticker price.
+- [23] **Yumi**: I’m confident in my choices. The outage and rule changes will show us exactly where our planning breaks down.
+- [24] **Benjamin**: I’ll hold my ground. The dispatch history and the 2018 data lift will reveal if we’re just repeating past mistakes.
+## Round 2
+- [35] **Misaki**: #### Turn 1 of 4
+- [36] **Kenji**: #### Turn 1 of 4
+- [37] **Toshio**: - **Toshio**: The invoices confirm my fear. Separately licensed pieces climbed yearly, while bundled agreements held steady.
+- [38] **Yumi**: - **Yumi**: The outage report is brutal. Four suppliers, zero ownership, and two days of chaos. That’s exactly the gap I feared.
+- [39] **Benjamin**: - **Benjamin**: The dispatch tool skipped three upgrades. We are running on 2012 hardware, and the 2018 data lift left a year of errors.
+- [40] **Misaki**: - **Misaki**: The administrator data is alarming. Two key people retire this year, and the last hiring took eleven months. We are critically understaffed.
+- [41] **Kenji**: - **Kenji**: The yard devices are a mess of old models, and the 2021 trial failed fast. We need a system that works with what we actually have.
+- [42] **Toshio**: @Toshio, the board minutes show capital requests trimmed for three years, while operating lines passed easily. We are structurally locked into recurring costs.
+- [43] **Yumi**: @Yumi, that unowned outage is exactly why I’m worried. If the plan drifts, who actually answers when the lights go out?
+- [44] **Benjamin**: @Benjamin, the 2018 data lift confirms my suspicion. External work came back broken, and we spent a year fixing it.
+- [45] **Misaki**: - **Misaki**: The supervisor findings are worse. Standard steps were dropped within weeks. We cannot rely on training alone to fix this.
+- [46] **Kenji**: - **Kenji**: The calendar is the real killer. No freeze window in winter means any cutover risks total chaos.
+- [47] **Toshio**: @Toshio, the board minutes show capital requests trimmed for three years, while operating lines passed easily. We are structurally locked into recurring costs.
+- [48] **Yumi**: @Yumi, exactly. The scope froze at start, then broke within a year. We need a vendor who owns the fix, not just the install.
+- [49] **Benjamin**: @Benjamin, the pattern is clear. We age systems in place, then outsource the repair and inherit the mess.
+- [50] **Misaki**: - **Misaki**: So we need a vendor who stays through the rollout, not just a training session.
+- [51] **Kenji**: - **Kenji**: Agreed. If the vendor isn't on-site during the peak season, we're doomed. The yard can't wait for remote support.
+- [52] **Toshio**: @Benjamin, your aging systems point matches my recurring costs. We need a model that doesn't bleed money after the initial approval.
+- [53] **Yumi**: @Kenji, exactly. We need a single throat to choke when things break, not four suppliers pointing fingers.
+- [54] **Benjamin**: @Toshio, precisely. We need a model that doesn't quietly age into a liability. The 2018 lift proves external fixes often fail.
+## Round 3
+- [60] **Misaki**: - **Misaki**: Candidates are here. Given our staffing crisis, I need to know who stays on-site through the rollout.
+- [61] **Kenji**: - **Kenji**: With no winter freeze and mixed yard hardware, I need a system that fits our actual equipment, not a perfect lab setup.
+- [62] **Toshio**: - **Toshio**: I need to see the licensing structure. Modular pieces that climb yearly are exactly the trap I found in the invoices.
+- [63] **Yumi**: - **Yumi**: I need a single point of contact. If the plan drifts, I need someone who owns the fix, not just the install.
+- [64] **Benjamin**: - **Benjamin**: I need a vendor who doesn't outsource the critical work. The 2018 lift shows external teams leave us with broken data.
+- [65] **Misaki**: - **Misaki**: Anchor’s on-site engineering team directly addresses my staffing gap. They stay through the rollout, unlike the others.
+- [66] **Kenji**: - **Kenji**: Anchor’s on-site team is the only one who can handle our mixed yard devices and the brutal winter calendar.
+- [67] **Toshio**: - **Toshio**: Anchor’s on-premise model means one purchase, not yearly add-ons. That stops the recurring bleed I found in the invoices.
+- [68] **Yumi**: - **Yumi**: Anchor’s on-site team gives me that single point of contact. No more finger-pointing when the plan drifts.
+- [69] **Benjamin**: - **Benjamin**: Anchor’s in-house engineering avoids the 2018 trap. They build it, they own it, and they don’t outsource the critical lift.
+- [70] **Misaki**: - **Misaki**: I agree. Their presence bridges the gap our retiring administrators leave behind.
+- [71] **Kenji**: - **Kenji**: Exactly. They can physically fix the yard scanners and work around our peak season without us freezing operations.
+- [72] **Toshio**: - **Toshio**: On-premise deployment means one capital outlay, not the endless operating lines the board quietly approves.
+- [73] **Yumi**: - **Yumi**: Exactly. One team on the ground means one throat to choke when the plan inevitably drifts.
+- [74] **Benjamin**: - **Benjamin**: Agreed. Their engineering team stays through the rollout, avoiding the broken handoffs that plagued our 2018 data lift.
+- [75] **Misaki**: - **Misaki**: I’m ready to vote. Anchor’s on-site support is the only option that respects our current staffing reality.
+- [76] **Kenji**: - **Kenji**: I’m voting for Anchor. Their on-site team is the only one who can survive our yard and calendar.
+- [77] **Toshio**: I vote for Anchor. The one-time purchase stops the recurring cost bleed I found in the invoices.
+- [78] **Yumi**: I vote for Anchor. One team on the ground means one throat to choke when the plan inevitably drifts.
+- [79] **Benjamin**: I vote for Anchor. Their in-house engineering team stays through the rollout, avoiding the broken handoffs that plagued our 2018 data lift.
+### Vote
+- Misaki -> D
+- Kenji -> D
+- Toshio -> D
+- Yumi -> D
+- Benjamin -> D
+## Result
+- adopted: D

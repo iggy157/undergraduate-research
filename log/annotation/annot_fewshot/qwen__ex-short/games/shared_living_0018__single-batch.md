@@ -1,0 +1,73 @@
+# shared_living_0018__single-batch (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The room is a mess because nobody owns the cleanup.
+- [6] **Jonathan**: We are strangers despite working so close together.
+- [7] **May**: I need to know who is actually doing the extra work.
+- [8] **Shunichi**: I want the figures on paper before we agree to anything.
+- [9] **Servas**: The noise and mess are the real complaints, not principle.
+- [10] **Ryuji**: @May, if we don't assign duties, it stays chaotic.
+- [11] **Jonathan**: @Shunichi, the cost is less important than the isolation.
+- [12] **May**: @Ryuji, I agree, but I need to see the hours lost.
+- [13] **Shunichi**: @Jonathan, I can't ignore the monthly drain on the budget.
+- [14] **Servas**: @Ryuji, the sound leaks through the wall, I have checked.
+- [15] **Ryuji**: I will look at the usage tally to see who hogs it.
+- [16] **Jonathan**: I will check where the last awkward conversation happened.
+- [17] **May**: I will look at the invoices for outside hire by the hour.
+- [18] **Shunichi**: I will check the quotes for the two fit-outs.
+- [19] **Servas**: I will look at the partition wall to the office.
+- [20] **Ryuji**: I will also check the crumbs and bins at the desks.
+- [21] **Jonathan**: I will also check the unplanned talk since the refit.
+- [22] **May**: I will also check the round trip for a hot lunch.
+- [23] **Shunichi**: I will also check the facilities callouts on this floor.
+- [24] **Servas**: I will also check the final clear-out of the old fridge.
+## Round 2
+- [35] **Ryuji**: The tally shows two people used it eleven times, others four.
+- [36] **Jonathan**: The last awkward talk was across desks, in front of everyone.
+- [37] **May**: We paid 68,000 yen for outside hire, but it was for small groups.
+- [38] **Shunichi**: The meeting space quote is 141,000 yen, the kitchen is 96,000.
+- [39] **Servas**: The wall is single plasterboard; I can hear every word inside.
+- [40] **Ryuji**: @May, so we are paying for space we could use ourselves?
+- [41] **Jonathan**: @Shunichi, that is a lot of money for a table and screen.
+- [42] **May**: @Ryuji, yes, and the lunch trip takes twenty-five minutes.
+- [43] **Shunichi**: @Jonathan, but the kitchen is cheaper, though it needs an electrician.
+- [44] **Servas**: @Ryuji, the crumbs are under three keyboards now.
+- [45] **Ryuji**: The bins go out daily because people eat at their desks.
+- [46] **Jonathan**: Since the sofa went in, unplanned talk only happens by the printer.
+- [47] **May**: Most of us make the lunch trip three or four days a week.
+- [48] **Shunichi**: Facilities had eleven callouts for equipment rooms, none for the store.
+- [49] **Servas**: When the old fridge was cleared, half the food was nobody's.
+- [50] **Ryuji**: @Servas, that explains the mess. We need a system.
+- [51] **Jonathan**: @May, if we eat there, we might actually talk.
+- [52] **May**: @Shunichi, the kitchen seems practical if we maintain it.
+- [53] **Shunichi**: @Ryuji, the meeting space is expensive and we already have outside hire.
+- [54] **Servas**: @Jonathan, a quiet room won't help if the wall is thin.
+## Round 3
+- [60] **Ryuji**: Option A is cheap and solves the eating problem.
+- [61] **Jonathan**: Option C is too formal; we need casual space.
+- [62] **May**: Option A saves us the lunch trip and the outside hire fees.
+- [63] **Shunichi**: Option A is the most economical fit-out at 96,000 yen.
+- [64] **Servas**: Option A is fine, but we must keep it clean.
+- [65] **Ryuji**: @May, I agree, the cost savings are significant.
+- [66] **Jonathan**: @Shunichi, I worry about the noise, but the wall is thin anyway.
+- [67] **May**: @Ryuji, yes, and it stops the crumbs at the desks.
+- [68] **Shunichi**: @Jonathan, the kitchen quote is lower than the meeting space.
+- [69] **Servas**: @Ryuji, I will ensure the bins are emptied daily.
+- [70] **Ryuji**: Option B is useless if we can't hear each other.
+- [71] **Jonathan**: Option B is too isolating; we are already strangers.
+- [72] **May**: Option B doesn't solve the lunch problem.
+- [73] **Shunichi**: Option B has no clear cost benefit over A.
+- [74] **Servas**: Option B is a waste of space given the wall issue.
+- [75] **Ryuji**: I am voting for A.
+- [76] **Jonathan**: I am voting for A, reluctantly.
+- [77] **May**: I am voting for A.
+- [78] **Shunichi**: I am voting for A.
+- [79] **Servas**: I am voting for A.
+### Vote
+- Ryuji -> A
+- Jonathan -> A
+- May -> A
+- Shunichi -> A
+- Servas -> A
+## Result
+- adopted: A

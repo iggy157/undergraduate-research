@@ -1,0 +1,73 @@
+# candidate_selection_0026__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to verify if previous initiatives actually improved patient outcomes before committing more budget. I will review the readmission figures and visit completion data.
+- [6] **Toshio**: I’m less concerned with outcomes than capacity. Can the current infrastructure absorb another program without seizing up? I’ll check the booking system and room coverage.
+- [7] **Benjamin**: I suspect the real risk isn’t the launch, but the quiet collapse in year two. I’ll examine the board minutes and the data agreements to see where past commitments frayed.
+- [8] **Yumi**: I’m worried about who actually carries the new workload. I’ll check the ward nursing vacancies and the therapy staffing review to see where the pressure lands.
+- [9] **Servas**: I worry about the hidden costs that surface later. I will examine the development allocation and regional fund tariffs to understand the true financial scope.
+- [10] **Asuka**: @Toshio, infrastructure is necessary, but not sufficient. If the program fails clinically, capacity is irrelevant. We must prioritize evidence of effectiveness first.
+- [11] **Toshio**: @Asuka, a clinically perfect program that crashes the booking system is useless. I need to know if the physical and digital space can hold it.
+- [12] **Benjamin**: @Asuka, @Toshio, you’re both right, but you’re missing the structural rot. I’m checking the board minutes and data agreements to see where past commitments actually frayed.
+- [13] **Yumi**: @Benjamin, structural rot is scary, but I’m focused on the people. If the rosters are already stretched thin, adding more pressure will just break the team.
+- [14] **Servas**: @Yumi, you are right. People are the heart of care. I will ensure the financial foundation supports their well-being, not just the program’s launch.
+- [15] **Asuka**: @Benjamin, structural rot is a valid concern, but we need concrete data to prove it. I will focus on the readmission figures and visit completion to establish a baseline of actual effectiveness.
+- [16] **Toshio**: @Benjamin, I appreciate the caution. I’m focusing on the booking system and room coverage to ensure the physical and digital space can actually hold the new load.
+- [17] **Benjamin**: @Toshio, capacity is a floor, not a ceiling. If the underlying agreements are hollow, your perfect infrastructure just becomes a very expensive, very empty shell.
+- [18] **Yumi**: @Benjamin, I hear you. But empty shells don’t hurt people; overworked nurses do. I’m checking the staffing records to see who’s already on the edge.
+- [19] **Servas**: @Benjamin, I agree. A hollow shell is a trap. I will verify the true financial scope to ensure we build something sustainable, not just a costly illusion.
+- [20] **Asuka**: I will review the readmission figures and visit completion data to establish a baseline of actual effectiveness before committing more budget.
+- [21] **Toshio**: I will examine the booking system records and room, parking, and shuttle coverage to confirm the physical and digital space can absorb the new load.
+- [22] **Benjamin**: I’ll review the board minutes on the jointly run clinic and the data agreements with outside surgeries to trace where past commitments quietly dissolved.
+- [23] **Yumi**: I’ll check the ward nursing vacancies and the therapy and midwifery staffing review to see exactly where the pressure lands.
+- [24] **Servas**: I will examine this year’s development allocation and regional fund tariffs to understand the true financial scope and sustainability of our choices.
+## Round 2
+- [35] **Asuka**: The call-back trial reduced readmissions by a fifth, but the shared nursing round failed. We need a program with proven, sustainable clinical impact, not just good intentions.
+- [36] **Toshio**: The booking system only tracks named slots. Unstructured care vanishes from reports. If the new program lacks fixed appointments, it becomes invisible and unmanageable.
+- [37] **Benjamin**: The jointly run clinic collapsed because neither department owned the rota. The outside data agreement took fourteen months. We are building on sand again.
+- [38] **Yumi**: @Toshio, that invisibility worries me. My records show nine nursing posts empty and agency costs rising. We can’t add more invisible work to already broken teams.
+- [39] **Servas**: The allocation is down a quarter, and off-site care earns nothing. We must choose a program that generates revenue on-site to sustain itself.
+- [40] **Asuka**: @Servas, revenue is secondary to efficacy. The call-back trial proved clinical value, but the shared round failed due to poor execution. We need a model that ensures consistent delivery, not just financial viability.
+- [41] **Toshio**: @Asuka, efficacy is vital, but if the system can’t track it, it doesn’t exist. I need fixed slots to ensure the load is visible and manageable.
+- [42] **Benjamin**: @Asuka, @Toshio, you’re debating the roof and the floor. I’m looking at the foundation. If the ownership structure is ambiguous, the program dies before it starts.
+- [43] **Yumi**: @Benjamin, ownership is key, but people are the foundation. With nine empty posts, we can’t just assign tasks. Who actually does the work when the roster is this thin?
+- [44] **Servas**: @Yumi, you are right. People are the foundation. I will ensure the financial model supports their well-being, not just the program’s launch.
+- [45] **Asuka**: @Yumi, staffing gaps are critical, but the data shows the shared round failed due to logistics, not just headcount. We need a model that survives operational friction, not just one that relies on perfect conditions.
+- [46] **Toshio**: @Asuka, logistics are the bottleneck. If the shuttle misses fifteen villages, those patients never reach the fixed slots. We must account for access, not just clinical design.
+- [47] **Benjamin**: @Toshio, access is vital, but if the data agreement takes fourteen months, your perfect shuttle schedule is just a fantasy. We need signed commitments, not just good intentions.
+- [48] **Yumi**: @Benjamin, fourteen months is too long for tired nurses. I found midwifery has slack, though. Could we use that extra capacity to support the new program without breaking the ward?
+- [49] **Servas**: @Yumi, that is a wise insight. Midwifery slack offers a lifeline. We must pair this human capacity with on-site billing to ensure the program sustains itself financially.
+- [50] **Asuka**: @Yumi, midwifery slack is a viable resource. However, we must ensure the new program’s clinical design is robust enough to withstand the operational failures we just documented.
+- [51] **Toshio**: @Yumi, midwifery slack is useful, but only if it fits into fixed slots. Unstructured help vanishes from the system. We need a model that respects the booking constraints.
+- [52] **Benjamin**: @Yumi, midwifery slack is a lifeline, but only if ownership is explicit. I need to know who signs the data agreement before we promise them anything.
+- [53] **Yumi**: @Benjamin, explicit ownership is vital! But please, let’s not let paperwork drown out the people. We need a clear, simple plan that actually helps the midwives and nurses, not just the system.
+- [54] **Servas**: @Yumi, simplicity is wisdom. Let us build a clear, on-site model that respects both the people and the ledger, ensuring stability for all.
+## Round 3
+- [60] **Asuka**: @Yumi, Option B leverages the midwifery slack you identified. It offers scheduled, trackable care, avoiding the logistical failures of the shared nursing round.
+- [61] **Toshio**: @Asuka, Option B fits the booking system. Fixed slots mean visible load. Option A’s home visits vanish from our records, making capacity impossible to manage.
+- [62] **Benjamin**: @Asuka, @Toshio, Option B’s joint structure mirrors the failed clinic. Without explicit, single-department ownership, it will collapse in year two. I reject it.
+- [63] **Yumi**: @Benjamin, I hear your fear, but midwives are ready! Option B uses their slack to help families, not just paperwork. Let’s trust the people!
+- [64] **Servas**: @Benjamin, I understand your caution. Yet Option B’s on-site nature ensures revenue, unlike off-site visits. Let us trust the midwives’ readiness and secure the financial foundation.
+- [65] **Asuka**: @Benjamin, the shared round failed due to logistics, not ownership. Option B uses fixed slots and midwifery slack, avoiding those specific pitfalls. It is the most robust choice.
+- [66] **Toshio**: @Benjamin, Option C is the only one that fits. It uses dedicated space and fixed slots. Option B’s joint structure risks the same ownership ambiguity you fear.
+- [67] **Benjamin**: @Toshio, Option C is a single-department shell. It avoids the joint-ownership trap, but it ignores the midwifery slack Yumi found. We need to use that capacity, not waste it.
+- [68] **Yumi**: @Benjamin, Option C ignores the midwives’ ready hands! Option B uses their slack to help families directly. Let’s trust the people, not just the structure!
+- [69] **Servas**: @Benjamin, Option C ignores the midwifery slack. Option B uses it, generating on-site revenue. Let us trust the people and the ledger, not just the structure.
+- [70] **Asuka**: @Benjamin, Option B’s fixed slots and midwifery slack address the specific failures we documented. It is the only option with proven, sustainable clinical impact and clear operational structure.
+- [71] **Toshio**: @Benjamin, Option C is the only one that fits. It uses dedicated space and fixed slots. Option B’s joint structure risks the same ownership ambiguity you fear.
+- [72] **Benjamin**: @Toshio, Option C is a single-department shell. It avoids the joint-ownership trap, but it ignores the midwifery slack Yumi found. We need to use that capacity, not waste it.
+- [73] **Yumi**: @Toshio, Option B’s fixed slots solve your tracking worry! Midwives are ready to help families. Let’s trust the people and the structure together!
+- [74] **Servas**: @Toshio, Option B’s on-site billing secures the revenue we need. Let us trust the midwives’ readiness and the ledger’s stability.
+- [75] **Asuka**: @Benjamin, Option B’s fixed slots and midwifery slack address the specific failures we documented. It is the only option with proven, sustainable clinical impact and clear operational structure.
+- [76] **Toshio**: @Benjamin, Option C is the only one that fits. It uses dedicated space and fixed slots. Option B’s joint structure risks the same ownership ambiguity you fear.
+- [77] **Benjamin**: @Toshio, Option C is a single-department shell. It avoids the joint-ownership trap, but it ignores the midwifery slack Yumi found. We need to use that capacity, not waste it.
+- [78] **Yumi**: @Benjamin, Option B is the only one that actually helps the midwives! Their slack is a gift, not a waste. Let’s choose the people!
+- [79] **Servas**: @Benjamin, Option B’s on-site billing secures the revenue we need. Let us trust the midwives’ readiness and the ledger’s stability.
+### Vote
+- Asuka -> B
+- Toshio -> C
+- Benjamin -> B
+- Yumi -> B
+- Servas -> B
+## Result
+- adopted: B

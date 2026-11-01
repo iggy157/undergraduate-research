@@ -1,0 +1,73 @@
+# shared_living_0023__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Victoria**: Before we move furniture, I need to understand the financial baseline.
+- [6] **Minato**: I just want a spot that doesn't hurt my back by four o'clock.
+- [7] **May**: My calendar is already tight. I need to know the time cost of moving.
+- [8] **Shunichi**: We should decide who gets the bad seats on purpose, not by accident.
+- [9] **Daisuke**: I worry about who I'll sit next to. It changes how I talk.
+- [10] **Victoria**: @May, time is money. Let's look at the billing basis.
+- [11] **Minato**: I think the sound levels matter too. It gets loud near the door.
+- [12] **May**: @Victoria, the morning routine upstairs might show us the delay.
+- [13] **Shunichi**: The survey data shows people hate the interior wall. We should check that.
+- [14] **Daisuke**: I want to see the arrival times. It feels unfair if it's first-come.
+- [15] **Victoria**: Agreed. The billing basis and the facilities quote seem essential.
+- [16] **Minato**: I'll look at the sound meter readings and the physio's note.
+- [17] **May**: I'll check the morning routine and the unplanned shuffles from last year.
+- [18] **Shunichi**: I'll review the drawn plan against the survey and the badge records.
+- [19] **Daisuke**: I'll look at the arrival times and what the new joiners reported.
+- [20] **Victoria**: Let's see what the numbers say before we commit to a shape.
+- [21] **Minato**: Please make sure comfort is written down this time.
+- [22] **May**: I don't want to lose my gaps between meetings.
+- [23] **Shunichi**: Fairness is a feature, not a bug. Let's be explicit.
+- [24] **Daisuke**: I hope we can talk more if we sit closer.
+## Round 2
+- [35] **Victoria**: The billing is based on area, not heads. Empty desks still cost us.
+- [36] **Minato**: The printer row is nine decibels louder. My chair needs days to settle.
+- [37] **May**: Moving takes four to nine minutes per person. Last year's shuffles took weeks.
+- [38] **Shunichi**: The survey says daylight is key. Badge times show early vs late arrivals.
+- [39] **Daisuke**: The new joiners learned by overhearing. Arrival times are very split.
+- [40] **Victoria**: @May, if moving takes nine minutes, that's significant for our gaps.
+- [41] **Minato**: @Shunichi, if the window side is quieter, that's a huge comfort factor.
+- [42] **May**: @Victoria, the cost of empty desks is high. We need to use space well.
+- [43] **Shunichi**: @Daisuke, if arrivals are split, first-come seating is chaotic.
+- [44] **Daisuke**: @Minato, if the window is quiet, maybe we should prioritize that?
+- [45] **Victoria**: The facilities quote is 6,200 yen per desk. Changing is expensive.
+- [46] **Minato**: The physio note says settings take time. Stability is important for me.
+- [47] **May**: Unplanned shuffles caused two weeks of interruption. We must avoid that.
+- [48] **Shunichi**: The plan gives four desks windows. Three are on the wall. That's the split.
+- [49] **Daisuke**: Overhearing helps learning. But I need to know who is next to me.
+- [50] **Victoria**: High change costs mean we need a stable, efficient layout.
+- [51] **Minato**: I need a quiet, comfortable spot. The window side seems best.
+- [52] **May**: We need a system that minimizes daily friction and moving time.
+- [53] **Shunichi**: We should assign seats deliberately to balance the window/wall split.
+- [54] **Daisuke**: I prefer a system where I can choose who to sit near.
+## Round 3
+- [60] **Victoria**: Option A is stable but rigid. Option C is flexible but chaotic.
+- [61] **Minato**: Option A lets me keep my comfortable, quiet spot. I like that.
+- [62] **May**: Option B might reduce the daily moving pain if it's infrequent.
+- [63] **Shunichi**: Option A allows us to explicitly assign the good seats. That's fair.
+- [64] **Daisuke**: Option C lets me choose my neighbor. But it might be stressful.
+- [65] **Victoria**: @Shunichi, Option A supports the explicit assignment you want.
+- [66] **Minato**: @May, Option B means moving every few months. That sounds tiring.
+- [67] **May**: @Victoria, Option A minimizes the daily setup time I'm worried about.
+- [68] **Shunichi**: @Daisuke, Option C is risky. You might end up with a loud neighbor.
+- [69] **Daisuke**: @Minato, I agree. Option A feels safer for my comfort too.
+- [70] **Victoria**: The high re-run cost favors Option A. Stability is cheaper.
+- [71] **Minato**: The sound data favors the window side. Option A secures that.
+- [72] **May**: The time data favors minimizing changes. Option A is the most stable.
+- [73] **Shunichi**: The survey data favors windows. Option A lets us assign them fairly.
+- [74] **Daisuke**: The joiner data suggests proximity helps. Option A is predictable.
+- [75] **Victoria**: I vote for Option A. It aligns with cost and stability.
+- [76] **Minato**: I vote for Option A. It protects my comfort and quiet.
+- [77] **May**: I vote for Option A. It saves my time and reduces friction.
+- [78] **Shunichi**: I vote for Option A. It allows for deliberate, fair assignment.
+- [79] **Daisuke**: I vote for Option A. It feels the most secure for me.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

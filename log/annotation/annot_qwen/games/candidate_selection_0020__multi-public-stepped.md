@@ -1,0 +1,73 @@
+# candidate_selection_0020__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look at history. What became of our last three internal rollouts?
+- [6] **Daisuke**: I worry about the budget. Let us check the capital budget and software allowance.
+- [7] **Sakura**: I am curious about the network. Let us look into network coverage at customer plants.
+- [8] **Ryuji**: I need to see the daily losses. Time lost to copying existing records.
+- [9] **Asuka**: Staffing is key. I will investigate the staffing of the coordination group.
+- [10] **Servas**: Agreed. History is a teacher. We must not repeat mistakes.
+- [11] **Daisuke**: Yes. Knowing the cost structure is essential before we commit.
+- [12] **Sakura**: Exactly! If the signal is bad, the app fails. Let's verify.
+- [13] **Ryuji**: The data must be grounded in reality, not just promises.
+- [14] **Asuka**: If no one is assigned, the work simply does not happen.
+- [15] **Servas**: I will also look at the record of cross-unit standardization efforts.
+- [16] **Daisuke**: I will also check vendor licence pricing versus fixed-fee work.
+- [17] **Sakura**: I will also look at in-house developer availability.
+- [18] **Ryuji**: I will also examine misrouted deliveries in the incident logs.
+- [19] **Asuka**: I will also review handling of vendor queries.
+- [20] **Servas**: Let us proceed with these investigations. Wisdom comes from looking.
+- [21] **Daisuke**: I hope this clarifies the financial picture for us all.
+- [22] **Sakura**: Can't wait to see what we find! Let's get to work.
+- [23] **Ryuji**: We will see what the numbers actually say.
+- [24] **Asuka**: Let us see who is actually doing the work.
+## Round 2
+- [35] **Servas**: The data is clear. Broad tools fail; narrow ones survive. We must be specific.
+- [36] **Daisuke**: The capital line is frozen. But the software allowance has room. Fixed fees are stable.
+- [37] **Sakura**: Oh no. Half the sites have no signal, and developers are busy until Q3.
+- [38] **Ryuji**: We lose an hour daily copying records. Eleven misrouted deliveries from bad data.
+- [39] **Asuka**: Two people do all the coordination work by hand. And clerks re-request the same certificates.
+- [40] **Servas**: @Daisuke, the frozen capital is a constraint, but the recurring allowance is open.
+- [41] **Daisuke**: Yes. We can use the software allowance. Fixed-fee work is cheaper than per-head licences.
+- [42] **Sakura**: @Ryuji, if we can't build it in-house, we need a vendor. But the signal is bad.
+- [43] **Ryuji**: @Sakura, the data errors are the real problem. We need a central source of truth.
+- [44] **Asuka**: @Servas, the coordination group is broken. We need a tool to reduce their manual load.
+- [45] **Servas**: A central repository for supplier records would address the data errors and reduce copying.
+- [46] **Daisuke**: That fits the budget. It is a software allowance item, not a capital one.
+- [47] **Sakura**: But what about the field app? The signal issue is a dealbreaker for mobile sync.
+- [48] **Ryuji**: The field app is risky. The data hub is a direct fix for the daily losses I see.
+- [49] **Asuka**: The data hub also helps the clerks stop re-requesting certificates. It solves multiple problems.
+- [50] **Servas**: I agree. The pattern shows narrow, specific tools succeed. A data hub is specific.
+- [51] **Daisuke**: I am comfortable with this. It uses the available budget and avoids capital freeze issues.
+- [52] **Sakura**: Okay. If the field app is too risky, the data hub is a solid alternative.
+- [53] **Ryuji**: It addresses the root cause of the misrouted deliveries and the time lost to copying.
+- [54] **Asuka**: It reduces the manual burden on the coordination group and the clerks. I support it.
+## Round 3
+- [60] **Servas**: Candidate A, the Supplier Data Hub, aligns with our findings. It is specific and addresses the data errors.
+- [61] **Daisuke**: Yes. It fits within the software allowance. The capital line is frozen, so this is the only viable option.
+- [62] **Sakura**: Candidate D is out due to the network issues. Candidate A is a good choice.
+- [63] **Ryuji**: Candidate A directly solves the problem of misrouted deliveries and time lost to copying.
+- [64] **Asuka**: Candidate A reduces the manual work for the coordination group and clerks. It is the logical choice.
+- [65] **Servas**: I vote for A. It is the most grounded in our actual operational needs.
+- [66] **Daisuke**: I vote for A. It is financially feasible and addresses the core data issues.
+- [67] **Sakura**: I vote for A. It is a safe and effective choice given the constraints.
+- [68] **Ryuji**: I vote for A. It is the only option that directly addresses the daily losses I identified.
+- [69] **Asuka**: I vote for A. It is the only option that addresses the staffing and query handling issues.
+- [70] **Servas**: We are in agreement. The data supports this choice.
+- [71] **Daisuke**: I am glad we reached a consensus. It feels right.
+- [72] **Sakura**: Yay! Let's hope it works out!
+- [73] **Ryuji**: It is a rational decision based on the evidence.
+- [74] **Asuka**: It is a practical solution to a real problem.
+- [75] **Servas**: Let us proceed with the vote.
+- [76] **Daisuke**: Yes.
+- [77] **Sakura**: Let's do it!
+- [78] **Ryuji**: Agreed.
+- [79] **Asuka**: Agreed.
+### Vote
+- Servas -> A
+- Daisuke -> A
+- Sakura -> A
+- Ryuji -> A
+- Asuka -> A
+## Result
+- adopted: A

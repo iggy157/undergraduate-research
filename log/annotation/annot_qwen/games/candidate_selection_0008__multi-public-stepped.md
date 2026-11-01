@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about who is actually in charge when things break.
+- [6] **Ryuji**: The depot floor doesn't stop for office projects.
+- [7] **May**: I've seen systems age quietly and fail.
+- [8] **Misaki**: Our team is stretched thin; change hits them hard.
+- [9] **Benjamin**: Headline prices hide the real long-term cost.
+- [10] **Midori**: @Benjamin, do you mean the hidden fees?
+- [11] **Ryuji**: @May, which systems aged in place?
+- [12] **May**: The ones we bought and never updated.
+- [13] **Misaki**: I need to know the training burden.
+- [14] **Benjamin**: Yes, the recurring lines that pass unnoticed.
+- [15] **Midori**: I want to check support ownership and scope changes.
+- [16] **Ryuji**: I will look at the depot calendar and yard devices.
+- [17] **May**: I'll check the dispatch upgrade history and data lift.
+- [18] **Misaki**: I need to see administrator retirements and supervisor routines.
+- [19] **Benjamin**: I'll review the board minutes and renewal invoices.
+- [20] **Midori**: Agreed. Let's see what the data says.
+- [21] **Ryuji**: The calendar is the hard constraint.
+- [22] **May**: History repeats if we don't look.
+- [23] **Misaki**: People are the bottleneck, not software.
+- [24] **Benjamin**: The bill arrives after the applause.
+## Round 2
+- [35] **Midori**: The scope never survives a year. Support is unowned.
+- [36] **Ryuji**: No freeze window in winter. Yard tech is obsolete.
+- [37] **May**: We skipped upgrades for years. Data migration failed badly.
+- [38] **Misaki**: Two admins retire now. Supervisors ignore new training.
+- [39] **Benjamin**: Capital is cut, but operating costs rise yearly.
+- [40] **Midori**: @Benjamin, that confirms my fear. The plan breaks.
+- [41] **Ryuji**: @May, the dispatch tool is a ticking time bomb.
+- [42] **May**: Exactly. We can't afford another failed migration.
+- [43] **Misaki**: If supervisors drop the training, we fail.
+- [44] **Benjamin**: Separately licensed pieces climb in price. Bundles hold.
+- [45] **Midori**: We need a single point of accountability.
+- [46] **Ryuji**: It must work on our old hardware.
+- [47] **May**: Avoid external teams for critical data.
+- [48] **Misaki**: We need internal champions, not just trainers.
+- [49] **Benjamin**: A bundled subscription might be the only stable cost.
+- [50] **Midori**: I'm leaning toward a unified platform.
+- [51] **Ryuji**: Only if it handles our specific yard constraints.
+- [52] **May**: I'm wary of modular systems that drift apart.
+- [53] **Misaki**: I need a vendor who invests in our people.
+- [54] **Benjamin**: I'll vote for the one with the predictable bill.
+## Round 3
+- [60] **Midori**: Meridian's regional team offers the accountability I need.
+- [61] **Ryuji**: Anchor is built for transport, but on-prem is risky.
+- [62] **May**: Tessera's partner firm scares me. We burned in 2018.
+- [63] **Misaki**: Meridian's fixed process might respect our routines.
+- [64] **Benjamin**: Meridian's hosted suite likely means stable, bundled pricing.
+- [65] **Midori**: @Benjamin, does Meridian lock us in?
+- [66] **Ryuji**: @May, Anchor's engineering team is on-site.
+- [67] **May**: On-site is good, but the hardware is old.
+- [68] **Misaki**: Meridian's regional support feels more reliable than partners.
+- [69] **Benjamin**: The invoices show bundled agreements hold price. Meridian fits.
+- [70] **Midori**: I'm voting Meridian. The support structure is clear.
+- [71] **Ryuji**: I'm hesitant, but Anchor's on-prem risk is high.
+- [72] **May**: I'm avoiding Tessera. The data lift risk is too high.
+- [73] **Misaki**: Meridian's fixed configuration might reduce supervisor resistance.
+- [74] **Benjamin**: I'm voting Meridian. The cost curve is the most predictable.
+- [75] **Midori**: Let's go with Meridian. It addresses the ownership gap.
+- [76] **Ryuji**: I'll accept Meridian if they guarantee yard compatibility.
+- [77] **May**: Meridian is the safest bet against aging systems.
+- [78] **Misaki**: I hope the regional team can handle our staffing gaps.
+- [79] **Benjamin**: Agreed. The long-term bill is the only one I can trust.
+### Vote
+- Midori -> A
+- Ryuji -> A
+- May -> A
+- Misaki -> A
+- Benjamin -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0012__single-batch (shared_living)
+
+## Round 1
+- [5] **Kenji**: I worry about us not speaking to each other after this.
+- [6] **Shizue**: I just want to stop smelling the corner in August.
+- [7] **Asuka**: I need to know the exact hours this will take from us.
+- [8] **Rin**: One house has suffered at the gate for years.
+- [9] **Servas**: We must ensure the costs are fair for all five.
+- [10] **Kenji**: @Rin, do you think a rotation would help with that?
+- [11] **Shizue**: @Kenji, I hope so, but I fear it just moves the smell.
+- [12] **Asuka**: @Servas, have we looked at the actual yearly expenses yet?
+- [13] **Rin**: @Asuka, I am more worried about who does the work.
+- [14] **Servas**: @Asuka, I have not. The ledger is a mystery to me.
+- [15] **Kenji**: I will check the station block's meeting minutes.
+- [16] **Shizue**: I will visit the station block's bin house.
+- [17] **Asuka**: I will check the supervised mornings on the next lane.
+- [18] **Rin**: I will check the ward complaint log for this point.
+- [19] **Servas**: I will check the block ledger of refuse-point expenses.
+- [20] **Kenji**: I will also check the statements at the residents' meeting.
+- [21] **Shizue**: I will also check the truck arrival time from the crew leader.
+- [22] **Asuka**: I will also check the ward filing requirements per the installations clerk.
+- [23] **Rin**: I will also check the measurements of the five frontages.
+- [24] **Servas**: I will also check the ward subsidy and last year's shelter costs.
+## Round 2
+- [35] **Kenji**: The minutes show they argued about sweeping within two years.
+- [36] **Shizue**: The bin house smells worse inside than the open pile.
+- [37] **Asuka**: Supervised mornings take fifty minutes each. That is a lot.
+- [38] **Rin**: The complaint log shows eleven entries from the gate house.
+- [39] **Servas**: The ledger shows thirty-four thousand yen a year in extra fees.
+- [40] **Kenji**: @Shizue, if the bin house smells worse, is it worth it?
+- [41] **Shizue**: @Kenji, I am not sure. The truck comes at seven forty.
+- [42] **Asuka**: @Servas, thirty-four thousand is significant. Who pays that?
+- [43] **Rin**: @Asuka, the gate house has been complaining for years.
+- [44] **Servas**: @Rin, the subsidy only covers forty percent. We pay the rest.
+- [45] **Kenji**: The residents' meeting showed nobody wants to turn bags away.
+- [46] **Shizue**: The truck arrives before some of us wake up.
+- [47] **Asuka**: Filing a permanent build takes four months and five signatures.
+- [48] **Rin**: The frontages are uneven. One is crossed by a driveway.
+- [49] **Servas**: Last year's shelters cost an average of two hundred forty-eight thousand.
+- [50] **Kenji**: @Rin, if the frontages are uneven, rotation might be hard.
+- [51] **Shizue**: @Kenji, I agree. The smell is the main issue.
+- [52] **Asuka**: @Servas, the cost of a permanent build is high.
+- [53] **Rin**: @Shizue, the truck time is a problem for managed hours.
+- [54] **Servas**: @Asuka, the ledger costs are ongoing. We need a sustainable plan.
+## Round 3
+- [60] **Kenji**: Option A is expensive and slow. Option B moves the problem.
+- [61] **Shizue**: Option C is hard because of the early truck time.
+- [62] **Asuka**: Option A takes four months. Option B is complex.
+- [63] **Rin**: Option B is the only one that shares the burden fairly.
+- [64] **Servas**: Option A is costly. Option C is tiring. Option B is fair.
+- [65] **Kenji**: @Rin, I agree. Option B keeps us moving and fair.
+- [66] **Shizue**: @Kenji, I worry about the smell moving, but it is fair.
+- [67] **Asuka**: @Servas, Option B avoids the high setup cost of A.
+- [68] **Rin**: @Shizue, the truck time is a risk, but we can manage it.
+- [69] **Servas**: @Asuka, yes, the ledger costs are lower with rotation.
+- [70] **Kenji**: Option B seems best for our relationship and fairness.
+- [71] **Shizue**: Option B is the most considerate of everyone's time.
+- [72] **Asuka**: Option B is the most logical in terms of cost and effort.
+- [73] **Rin**: Option B is the only one that is truly equal.
+- [74] **Servas**: Option B balances the financial and social burden well.
+- [75] **Kenji**: I vote for B.
+- [76] **Shizue**: I vote for B.
+- [77] **Asuka**: I vote for B.
+- [78] **Rin**: I vote for B.
+- [79] **Servas**: I vote for B.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> B
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

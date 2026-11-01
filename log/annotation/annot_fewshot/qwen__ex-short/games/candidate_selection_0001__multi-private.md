@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I worry about the people behind the science. Who is actually here to run the experiments?
+- [6] **Midori**: I am curious about the true value of the grant. I want to know which costs the agency still covers centrally.
+- [7] **Kenji**: I am worried about the shared equipment. If the machines are already overloaded, the new project will just add to the chaos.
+- [8] **Benjamin**: I am concerned about where the actual science gets interrupted. I want to know what delays the panel usually hears about only after the money is committed.
+- [9] **Toshio**: I am concerned about the gap between projected timelines and actual delivery. I want to see what finished awards really achieved.
+- [10] **Servas**: @Midori, if the agency covers central costs, does that free up local funds for the people who actually do the work?
+- [11] **Midori**: @Servas, yes, that is exactly my hope. If central costs are absorbed, the grant can support the people directly.
+- [12] **Kenji**: @Benjamin, if delays hit shared machines, does that mean the new project just waits in line?
+- [13] **Benjamin**: @Kenji, not necessarily. Sometimes the science is fine, but the logistics around it stall. I want to see where the friction actually lives.
+- [14] **Toshio**: @Benjamin, I agree. The friction often hides in the closeout files. I will check the actual delivery dates against the original promises.
+- [15] **Servas**: @Toshio, if the closeout files show consistent delays, it suggests the people are stretched thin. I will look at the staffing rolls to see who remains.
+- [16] **Midori**: @Toshio, that makes sense. I will check the travel and bench-fee lines to see what the agency still absorbs centrally.
+- [17] **Kenji**: @Servas, if the staffing rolls show gaps, the shared machines will suffer. I will check the incident logs to see how often they fail.
+- [18] **Benjamin**: @Toshio, I will examine the portfolio review of schedule overruns to see if the delays are systemic or just bad luck.
+- [19] **Toshio**: @Servas, the staffing rolls will show if the bench is empty. I will check the closeout files to see what was actually delivered.
+- [20] **Servas**: I will examine the staffing rolls for technical posts and the minutes on secondments to understand who is truly available.
+- [21] **Midori**: I will examine the travel and bench-fee lines in the ledgers and the national computing agreement to see what the agency still covers.
+- [22] **Kenji**: I will examine the incident logs on shared instrumentation and the accreditation and bookings at shared facilities to see the real load.
+- [23] **Benjamin**: I will examine the portfolio review of schedule overruns and the national repository deposit turnaround to pinpoint where the science actually stalls.
+- [24] **Toshio**: I will examine the closeout files of finished awards and the station records from partner field sites to verify actual delivery.
+## Round 2
+- [35] **Servas**: The technicians are gone, but the glasshouse crew remains. I see a shift in capability. @Midori, does the central funding cover the new modelling posts?
+- [36] **Midori**: @Servas, the computing hours are free, but animal-unit rates spiked. I need to see how this shifts the burden onto the awardee.
+- [37] **Kenji**: @Midori, the spectroscopy suite sat idle for eleven weeks. One engineer covers three institutes. The shared load is already breaking.
+- [38] **Benjamin**: The repository migration cleared the backlog. Deposits now clear in weeks, not months. @Toshio, does that mean the final data handoff is no longer a bottleneck?
+- [39] **Toshio**: @Benjamin, the data handoff is faster, but the science itself stalled. I found mechanism-focused awards ending with questions unresolved.
+- [40] **Servas**: @Toshio, if the science stalls, it is because the hands are missing. I see the glasshouse crew is intact, but the technicians are gone.
+- [41] **Midori**: @Kenji, the idle spectroscopy suite is worrying. If the shared load is breaking, the grant cannot rely on those machines.
+- [42] **Kenji**: @Midori, exactly. The glasshouse is booked solid, but the spectroscopy suite is a ghost town. We cannot fund a project that depends on broken shared capacity.
+- [43] **Benjamin**: @Toshio, that is a critical distinction. The logistics are fixed, but the biology is not. I need to know if the stalled science was due to inherent complexity or just poor planning.
+- [44] **Toshio**: @Benjamin, it was inherent complexity. The field sites lost seasons to weather, while indoor work continued. I will check the station records to confirm the pattern.
+- [45] **Servas**: @Kenji, the glasshouse crew is intact, but the spectroscopy suite is idle. We must fund work the remaining hands can actually perform.
+- [46] **Midori**: @Servas, I agree. The free computing hours are a relief, but the animal-unit costs are a new burden. We must fund work that fits the remaining staff.
+- [47] **Kenji**: @Servas, I agree. We need to pick a project that uses the glasshouse, not the broken spectroscopy suite. The data is clear.
+- [48] **Benjamin**: @Toshio, if field sites lose seasons to weather, that is a delay we cannot engineer away. I am looking for proposals that avoid that specific fragility.
+- [49] **Toshio**: @Benjamin, exactly. The field data confirms it. Weather is a variable we cannot control. I will look for proposals that stay indoors and avoid that risk.
+- [50] **Servas**: I am ready to see the candidates. We must choose a path that matches the hands we still have.
+- [51] **Midori**: I am ready to see the candidates. We must ensure the grant truly supports the science, not just the overhead.
+- [52] **Kenji**: I am ready to see the candidates. We must pick a project that fits the glasshouse, not the broken machines.
+- [53] **Benjamin**: I am ready to see the candidates. We must select a project that avoids the inherent biological delays I identified in the portfolio review.
+- [54] **Toshio**: I am ready to see the candidates. The data shows that indoor, catalogue-style work delivers, while field and mechanism work stalls.
+## Round 3
+- [60] **Servas**: Candidate B fits the glasshouse crew we still have. @Kenji, does the greenhouse capacity support the controlled trials B requires?
+- [61] **Midori**: @Servas, yes, the glasshouse subsidy helps. But B is plant-based, so it avoids the animal-unit cost spike I found.
+- [62] **Kenji**: @Servas, yes. The glasshouse is booked solid, but B is the only one that fits that capacity. C needs the broken spectroscopy suite.
+- [63] **Benjamin**: @Toshio, B is greenhouse-based, so it avoids the field weather delays you flagged. It also sidesteps the breeding colony overruns I found.
+- [64] **Toshio**: @Benjamin, B is indoor and controlled. It avoids the field weather risks I found. The closeout data supports greenhouse work over open sites.
+- [65] **Servas**: @Midori, the modelling analysts are seconded, but the code applicants are arriving. B needs less simulation than C. Does the free computing cover B's data needs?
+- [66] **Midori**: @Servas, yes. The free computing hours cover B's data analysis easily. It avoids the expensive animal-unit costs I flagged, keeping the budget stable.
+- [67] **Kenji**: @Midori, exactly. B uses the glasshouse, which is booked solid but functional. C relies on the idle spectroscopy suite. We cannot fund broken capacity.
+- [68] **Benjamin**: @Kenji, C is a trap. It relies on the idle spectroscopy suite you identified. B uses the functional glasshouse, avoiding that specific bottleneck entirely.
+- [69] **Toshio**: @Benjamin, I agree. C is a dead end. The closeout files show mechanism-focused work stalling. B is the only option that aligns with the delivery data.
+- [70] **Servas**: @Toshio, the glasshouse crew is intact, and B uses them directly. The technicians are gone, but these hands remain. B is the path that honors the people we still have.
+- [71] **Midori**: @Servas, I agree. B keeps the costs predictable. The free computing and glasshouse subsidy mean the grant actually reaches the science, not just the overhead.
+- [72] **Kenji**: @Servas, I agree. B is the only choice that respects the shared capacity we actually have. C is a gamble on broken machines.
+- [73] **Benjamin**: @Servas, I concur. B is the only proposal that respects the operational reality. It avoids the breeding colony overruns and the broken spectroscopy suite. The data is unambiguous.
+- [74] **Toshio**: @Servas, I agree. The closeout files confirm that controlled, indoor work delivers on time. B is the only candidate that matches the proven delivery pattern.
+- [75] **Servas**: I vote for B. It honors the glasshouse crew who remain and avoids the broken machines. The hands are here; the science will follow.
+- [76] **Midori**: I vote for B. The glasshouse subsidy and free computing mean the grant truly supports the science, not just the overhead.
+- [77] **Kenji**: I vote for B. It uses the functional glasshouse, not the broken spectroscopy suite. The shared capacity is the only thing that matters.
+- [78] **Benjamin**: I vote for B. It avoids the breeding colony overruns and the broken spectroscopy suite. The data is unambiguous; the science will actually happen.
+- [79] **Toshio**: I vote for B. The closeout data confirms that controlled, indoor work delivers. B is the only candidate that matches the proven delivery pattern.
+### Vote
+- Servas -> B
+- Midori -> B
+- Kenji -> B
+- Benjamin -> B
+- Toshio -> B
+## Result
+- adopted: B

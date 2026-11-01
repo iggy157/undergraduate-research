@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the numbers to the human element.
+- [6] **Midori**: I agree, but I worry about the shrinking value of the grant.
+- [7] **Kenji**: I am curious about how the shared tools are holding up.
+- [8] **Benjamin**: I suspect the real cost is in the delays we never see.
+- [9] **Toshio**: I want to see what the finished projects actually delivered.
+- [10] **Servas**: @Benjamin, delays often hide the true cost of lost time.
+- [11] **Midori**: @Toshio, finished files might show if the money actually worked.
+- [12] **Kenji**: @Midori, if the tools break, the money is wasted anyway.
+- [13] **Benjamin**: @Servas, exactly. I want to know where the science stalls.
+- [14] **Toshio**: @Kenji, I will check the closeout files to see the reality.
+- [15] **Servas**: I will look at who is actually here to do the work.
+- [16] **Midori**: I need to know what the agency still pays for centrally.
+- [17] **Kenji**: I will check the incident logs and the facility rates.
+- [18] **Benjamin**: I will review the schedule overruns and the closeout files.
+- [19] **Toshio**: I will examine the closeout files and the portfolio overruns.
+- [20] **Servas**: The hands that do the work are the true currency.
+- [21] **Midori**: I hope we find a fair balance for everyone.
+- [22] **Kenji**: I am ready to see what is broken and what is not.
+- [23] **Benjamin**: Let us find out where the time actually goes.
+- [24] **Toshio**: I will trust the data over the promises made.
+## Round 2
+- [35] **Servas**: The hands are gone, but the minds are scattered abroad.
+- [36] **Midori**: I found that computing is free, but animal days cost much more now.
+- [37] **Kenji**: The spectroscopy suite was idle for eleven weeks because the contract lapsed.
+- [38] **Benjamin**: The data is clear: biology stalls, computation does not.
+- [39] **Toshio**: The finished files show catalogue work outlives mechanism work.
+- [40] **Servas**: @Benjamin, if the minds are gone, can we even start?
+- [41] **Midori**: @Toshio, that explains why the mechanism work feels so fragile.
+- [42] **Kenji**: @Midori, the free computing is a huge win for the models.
+- [43] **Benjamin**: @Kenji, the idle time is exactly the kind of waste I feared.
+- [44] **Toshio**: @Servas, the data suggests we should pick the stable path.
+- [45] **Servas**: We must choose a path that does not depend on ghosts.
+- [46] **Midori**: I feel the pressure to pick the one that actually works.
+- [47] **Kenji**: I am leaning toward the one that uses the free resources.
+- [48] **Benjamin**: The logic points to the computational model, not the breeding colony.
+- [49] **Toshio**: I agree. The finished awards prove the computational path is safer.
+- [50] **Servas**: Let us vote for the future that is actually here.
+- [51] **Midori**: I will support the choice that respects the new costs.
+- [52] **Kenji**: I am ready to vote for the one that runs.
+- [53] **Benjamin**: I will vote for the one that does not stall.
+- [54] **Toshio**: I will vote for the one that has already proven itself.
+## Round 3
+- [60] **Servas**: The microbiome atlas uses the data we already have.
+- [61] **Midori**: The protein dynamics use the free computing I found.
+- [62] **Kenji**: The protein dynamics also use the spectroscopy that was idle.
+- [63] **Benjamin**: The protein dynamics avoid the biological delays I saw.
+- [64] **Toshio**: The protein dynamics match the stable pattern in the closeouts.
+- [65] **Servas**: @Midori, the free computing is a gift we should not waste.
+- [66] **Midori**: @Kenji, yes, and the spectroscopy is ready to go.
+- [67] **Kenji**: @Benjamin, exactly. It is the only one that runs now.
+- [68] **Benjamin**: @Toshio, the data supports this choice over the others.
+- [69] **Toshio**: @Servas, I agree. The protein dynamics are the safest bet.
+- [70] **Servas**: I will vote for the protein folding dynamics.
+- [71] **Midori**: I will vote for the protein folding dynamics.
+- [72] **Kenji**: I will vote for the protein folding dynamics.
+- [73] **Benjamin**: I will vote for the protein folding dynamics.
+- [74] **Toshio**: I will vote for the protein folding dynamics.
+- [75] **Servas**: The choice is clear. The hands are ready.
+- [76] **Midori**: I am glad we found a path that works for everyone.
+- [77] **Kenji**: I am happy to see the tools finally used.
+- [78] **Benjamin**: The logic was sound. The delays are avoided.
+- [79] **Toshio**: The data was right. The choice is made.
+### Vote
+- Servas -> C
+- Midori -> C
+- Kenji -> C
+- Benjamin -> C
+- Toshio -> C
+## Result
+- adopted: C

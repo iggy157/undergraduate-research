@@ -1,0 +1,73 @@
+# candidate_selection_0009__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: Um... hello. I think we should be careful about the gallery's condition. Maybe we should check the structural survey of the suspended bay and the maintenance log for powered displays first?
+- [6] **Toshio**: Those are practical concerns, Daisuke. However, I believe we should also consider why people actually visit. I suggest we look into the five years of visitor comment slips and the weekend head counts across ten seasons.
+- [7] **Rin**: I think we should check who is actually working! Can we look at the composition of the volunteer roster and the conservation lab staffing and backlog? We can't have a great show if everyone is too tired!
+- [8] **Kenji**: I agree with everyone! But we should also make sure the art actually arrives on time. Can we check the lender paperwork against shipping cut-offs and the loan transport costs over three seasons?
+- [9] **Benjamin**: It seems we are all quite thorough. However, to avoid any unpleasant surprises when the invoices arrive, I suggest we also examine the mount-making charges and joiner's rate, as well as the evening hire bookings in the gallery.
+- [10] **Daisuke**: I... I see. Everyone has a point. I just worry that if we pick something too heavy or complex, the building might not handle it. Is it okay if I stick with the structural survey and maintenance log?
+- [11] **Toshio**: That is perfectly fine. I simply believe that a successful exhibition is measured by the public's response, not just the curator's vision. I will proceed with the visitor comment slips and the weekend head counts.
+- [12] **Rin**: I'll stick with my choices! If the people doing the work are overwhelmed, the whole thing will be a mess. I'm definitely looking into the volunteer roster and the conservation lab staffing!
+- [13] **Kenji**: I'm with you, Rin! It's all about teamwork. I'll stick with the lender paperwork and transport costs. I just want to make sure we don't have to apologize to visitors because the art is missing!
+- [14] **Benjamin**: A very pragmatic approach from everyone. I shall maintain my focus on the mount-making charges and evening hire bookings. It would be a pity to discover our budget has vanished into the woodwork, wouldn't it?
+- [15] **Daisuke**: Um... I guess we've all decided then. I'll just... do my best to see if the gallery can actually support the next exhibition. I don't want anything to break.
+- [16] **Toshio**: It is a reasonable division of labor. By analyzing the historical data of visitor behavior, I hope to provide a perspective that ensures the exhibition is truly desired by the public.
+- [17] **Rin**: I'm ready! I'll find out if the grown-ups are working too hard. If the lab is super backed up, we have to pick something easy to set up! Let's go!
+- [18] **Kenji**: I'm ready too! I'll dig into those shipping records. Let's make sure everything arrives safely and on time so we can have an awesome show without any stress!
+- [19] **Benjamin**: Indeed. Let us proceed with this division of labor. I look forward to seeing how our various concerns align—or clash—once the data reveals where the money and effort truly go.
+- [20] **Daisuke**: I... I hope the results aren't too worrying. I'll go check the records now. Thank you for listening to me.
+- [21] **Toshio**: Let us be objective. The data will tell us the truth, regardless of our hopes. I will begin my review of the visitor records now.
+- [22] **Rin**: I'm going too! I'm going to be a super-detective and find out if the staff are exhausted! See you all soon! Bye-bye!
+- [23] **Kenji**: I'm on it! I'll find out exactly where the delivery hiccups happened in the past. Let's make sure this next exhibition is a total success! See you guys later!
+- [24] **Benjamin**: Until then. I shall see if our financial leaks are as imaginative as our curators. I wish you all a most illuminating search.
+## Round 2
+- [35] **Daisuke**: Um... I've looked at the records. I'm a bit worried. The suspended bay has a strict weight limit, and the powered displays have been breaking down a lot lately. We should be very careful about what we choose.
+- [36] **Toshio**: The data suggests a clear pattern. Visitors are drawn to dynamic displays and human interaction. Static exhibits are less effective at encouraging repeat visits, which is a critical metric for our success.
+- [37] **Rin**: Oh no! It's even worse than I thought! The conservation lab is almost empty, and there's a huge mountain of stuff waiting to be fixed. We can't pick anything that needs a lot of cleaning or special care!
+- [38] **Kenji**: I've got some bad news too! It looks like we've had a lot of trouble with shipping deadlines lately, and the costs for moving art are way higher than I expected. We really need to be careful!
+- [39] **Benjamin**: It seems we are facing a perfect storm of constraints. I've discovered that bespoke mounting costs are skyrocketing, and our evening hires leave the gallery vulnerable to accidental damage. We must avoid anything requiring custom carpentry or fragile layouts.
+- [40] **Daisuke**: @Rin, @Kenji... it sounds like everything is really struggling. If the lab is full and shipping is hard, maybe we should avoid anything heavy or high-tech? I'm scared the floor might not hold something too big.
+- [41] **Toshio**: @Daisuke, while I understand your caution, we must not overcorrect. If we choose something too simple, we risk a failure in engagement. The records show that static displays simply do not bring people back.
+- [42] **Rin**: @Toshio, but if we pick something "dynamic" and it breaks or needs fixing, there's only one person in the lab! We can't just ignore the people doing the work! They'll be super stressed!
+- [43] **Kenji**: @Rin is right! And if we pick something with tons of loans from far away, we might not even have the art here on opening day. We need a plan that's actually possible to pull off!
+- [44] **Benjamin**: @Toshio, while engagement is a noble goal, it is a luxury we cannot afford if the cost is a financial or structural collapse. Logic suggests we prioritize stability over spectacle this season.
+- [45] **Daisuke**: I... I agree with Benjamin. If the bay is already struggling and the powered displays keep failing, a "dynamic" show might just mean more broken things and roped-off areas. We can't risk the building's safety.
+- [46] **Toshio**: @Daisuke, @Benjamin, safety is paramount, but a gallery that no one visits is equally useless. We must find a balance where human presence or simple movement provides the engagement without overloading the infrastructure.
+- [47] **Rin**: @Toshio, but "human presence" means more work for the staff! If the volunteers are mostly just town historians, they can't do everything. We need a show that doesn't make the few people we have collapse!
+- [48] **Kenji**: Exactly! We can't just hope for the best. If we pick a show with too many complicated loans, we'll just be apologizing to everyone at the door again. Let's keep it simple and reliable!
+- [49] **Benjamin**: @Kenji, @Rin, your concerns are quite valid. If we combine skyrocketing carpentry costs with a depleted lab and shipping chaos, a complex exhibition becomes a liability. We should seek a proposal that is self-contained and low-maintenance.
+- [50] **Daisuke**: I... I just don't want anyone to get hurt or for the gallery to be damaged. Please, let's choose the option that is the lightest and simplest for the building to handle.
+- [51] **Toshio**: I understand the risks, but we must not forget the visitor. A sterile, empty gallery is a failure of a different kind. Let us look for a candidate that balances stability with genuine human engagement.
+- [52] **Rin**: I just want everyone to be happy and not too tired! Let's pick a show that doesn't need a million people to run it or a huge team to fix it. Simple is best!
+- [53] **Kenji**: I'm with you, Rin! Let's avoid anything that relies on a bunch of risky shipments from far away. If we pick something reliable, we can actually enjoy the show instead of worrying about the mail!
+- [54] **Benjamin**: It seems we have reached a consensus on the necessity of caution. Let us evaluate the candidates through this lens: minimal custom construction, low staffing demands, and structural modesty. Elegance, after all, often lies in simplicity.
+## Round 3
+- [60] **Daisuke**: Um... looking at these, Option D seems really scary because of the rigging and the powered displays. Option C has a working bench, which might be too much for the lab. Maybe Option A is the safest?
+- [61] **Toshio**: @Daisuke, I agree that Option D is too risky. However, Option A is ideal. The demonstration sessions provide the human interaction and dynamism that the data shows visitors crave, without stressing the infrastructure.
+- [62] **Rin**: @Toshio, I love the idea of craftspeople coming in! That means the experts do the work, not the tired staff in the lab. Option A is perfect because it's local and simple!
+- [63] **Kenji**: I totally agree! Option A is the best because it's local. No scary shipping delays or huge transport costs from far away. We can actually be sure everything will be here on time!
+- [64] **Benjamin**: Option A is indeed the most logical choice. It avoids the exorbitant costs of bespoke mounting and the risks of shipping, while its simplicity protects the gallery from the hazards of our evening hires.
+- [65] **Daisuke**: I... I feel much better now that we all agree. Option A is light, it doesn't need complex rigging, and it won't hurt the floor. I think it's the only one that's truly safe for the building.
+- [66] **Toshio**: It is rare that our various constraints align so perfectly with the needs of the public. Option A satisfies the requirement for engagement while remaining practically viable. I am fully in favor of this selection.
+- [67] **Rin**: And it's the kindest choice for the staff! Since the craftspeople help out, the one person in the lab can finally breathe. I'm voting for Option A! It's a win-win for everyone!
+- [68] **Kenji**: Me too! Option A is the only one that doesn't make me nervous about the delivery trucks. Let's go with the local textiles so we can have a stress-free opening day! I'm voting for A!
+- [69] **Benjamin**: It is a rare pleasure when the most prudent financial decision also happens to be the most aesthetically and socially sound. Option A is the only choice that doesn't invite a budgetary disaster. I vote for A.
+- [70] **Daisuke**: I... I'm glad we could find something that works for everyone. I feel much more confident now. I'll vote for Option A too.
+- [71] **Toshio**: The consensus is absolute. Option A provides the human element necessary for repeat visits without compromising our fragile infrastructure or exhausted staff. I vote for Option A.
+- [72] **Rin**: Yay! Everyone is happy and the staff can take a nap! I'm so glad we picked the one that's easy and fun. Option A all the way! I vote for A!
+- [73] **Kenji**: I'm so happy we all agree! No more worrying about missing crates or late paperwork. Let's make this the smoothest opening the museum has ever had! I vote for Option A!
+- [74] **Benjamin**: Since we have achieved a rare and complete unanimity, there is little left to debate. Option A is the only candidate that respects both our budget and our sanity. I cast my final vote for A.
+- [75] **Daisuke**: I'm just... really relieved. Thank you for understanding my worries about the building. I'm happy we can have a beautiful show that is safe for everyone. I vote for Option A.
+- [76] **Toshio**: The decision is sound. By prioritizing the human element through local craftspeople, we ensure the exhibition's success without risking the museum's stability. I cast my vote for Option A.
+- [77] **Rin**: I'm so happy we're all on the same page! Let's make it a great show that doesn't make anyone cry from being too tired! I vote for Option A!
+- [78] **Kenji**: I'm so glad we're doing this! It's going to be an awesome exhibition, and the best part is that we can actually relax knowing everything is local. I vote for Option A!
+- [79] **Benjamin**: A most satisfactory conclusion. We have successfully navigated the treacherous waters of our budget and infrastructure to find a solution that is as sustainable as it is engaging. I vote for Option A.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

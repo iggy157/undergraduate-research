@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Misaki**: We need a fair system, but we should be careful not to create unnecessary tension among the residents.
+- [6] **Shizue**: I agree, dear. It would be lovely if we could find a way that makes everyone feel comfortable and happy.
+- [7] **May**: Let's be real, "fair" usually means something concrete. I'm curious about the money side of things. Who's actually paying for what?
+- [8] **George**: We must ensure the system is sustainable. It's no use creating a rule that becomes a burden for one person to manage.
+- [9] **Mio**: I've heard some people grumbling that the same people always get the best spots! I want to know if that's actually true!
+- [10] **Misaki**: @Mio, if we focus too much on "who gets what," we might end up with more complaints.
+- [11] **Shizue**: Perhaps we should look at how the bikes are actually being used every day? It might give us a clue.
+- [12] **May**: Exactly! And while we're at it, let's see if there's any money sitting in the accounts that we're ignoring.
+- [13] **George**: I'm more concerned with the administrative side. I want to see how the collections were handled in the past.
+- [14] **Mio**: But if it's unfair, we have to fix it! I want to see who is actually using the spaces right now.
+- [15] **Misaki**: I'm worried about the long-term atmosphere. I'd like to know if similar rules caused problems in the past.
+- [16] **Shizue**: That's a very thoughtful point, Misaki. I'll also look into the physical layout to see if that's causing any stress.
+- [17] **May**: I'll take the lead on the finances. Let's see if we can turn this parking headache into something productive for the building.
+- [18] **George**: I'll look into the handover files. I want to know exactly how much paperwork this requires on a monthly basis.
+- [19] **Mio**: I'm going to check the records! I want to see if the bikes are actually where they're supposed to be.
+- [20] **Misaki**: Let's gather the facts first. I'll look into the history of the association and the complaints.
+- [21] **Shizue**: I think we have a good plan. Let's see what we find and come back with a smile.
+- [22] **May**: Perfect. I'll find out where the money is hiding. See you all in a bit!
+- [23] **George**: Agreed. Let's be thorough so we don't have to redo this in six months.
+- [24] **Mio**: Yay! I can't wait to see if my hunch about the "favorite spots" is right!
+## Round 2
+- [35] **Misaki**: It seems the current arrangement is stagnant, and people are avoiding direct confrontation even when they're annoyed.
+- [36] **Shizue**: I noticed that it's quite a struggle in the mornings. Some neighbors have to move other bikes just to get out.
+- [37] **May**: Here's the thing: we're barely using our building account. Why aren't we charging for these spaces to build a fund?
+- [38] **George**: I've seen the handover files. The current cash collection is already a chore. Adding more billing will be a burden.
+- [39] **Mio**: I saw it too! People are shifting each other's bikes! And the register is a mess—some people have three bikes but only one spot!
+- [40] **Misaki**: @Mio, if we start policing the number of bikes too strictly, we might create a hostile environment in the lobby.
+- [41] **Shizue**: I'm worried about the rain, too. Some spots are just not very kind to the bicycles. It's a bit sad.
+- [42] **May**: @George, a little extra paperwork is a small price to pay for a fair system that actually brings in money.
+- [43] **George**: It's not just "paperwork," May. It's the risk of the system collapsing when the person in charge gets tired.
+- [44] **Mio**: But it's not fair that some people just take up space while others can't even park! We need a fresh start!
+- [45] **Misaki**: If we force a "fresh start" without care, we might lose the friendly nods we have now. We need a soft transition.
+- [46] **Shizue**: I agree with Misaki. Maybe we can find a way that doesn't feel like a punishment, but a helping hand.
+- [47] **May**: A "helping hand" doesn't pay for building repairs. Let's be pragmatic. If you want a spot, you pay for the privilege.
+- [48] **George**: I'm still skeptical. If the administrative load is too high, the system will just lapse like the last two projects did.
+- [49] **Mio**: I don't care about the paperwork! I care that the same people always get the easy spots. We need to shake things up!
+- [50] **Misaki**: Let's consider how the options affect our daily interactions. I don't want people timing their exits to avoid each other.
+- [51] **Shizue**: Yes, the morning rush is already a bit like a shoving match. We should make it gentler for everyone.
+- [52] **May**: I'll bet most residents would prefer a clear, paid system over this chaotic "first-come, first-served" mess.
+- [53] **George**: I will support any option that minimizes the recurring monthly effort for the association members.
+- [54] **Mio**: I just want everyone to have an equal chance! No more "secret" favorite spots for the same people!
+## Round 3
+- [60] **Misaki**: Option B seems the most natural, but it might lead to more "bike-shoving" if the racks are crowded.
+- [61] **Shizue**: I worry that Option B might make the morning rush even more stressful. A lottery might be more peaceful.
+- [62] **May**: Option A is the only one that makes sense. It solves the fairness issue and finally puts some money in the account.
+- [63] **George**: Option B is the most sustainable. No billing, no lists, no monthly tracking. It removes the administrative burden entirely.
+- [64] **Mio**: Option C! A lottery is the only way to be 100% fair! Everyone gets a chance, and no one can complain about favoritism!
+- [65] **Misaki**: @Mio, a lottery could be frustrating. Imagine the tension when one person wins a spot three years in a row.
+- [66] **Shizue**: That is true. But Option A feels a bit cold, doesn't it? Charging our neighbors for a place to put their bike...
+- [67] **May**: It's not "cold," Shizue, it's professional. It's how the rest of the world works. Plus, the building needs the funds.
+- [68] **George**: @May, the "professional" approach is exactly what leads to burnout. I've seen it happen twice already in this building.
+- [69] **Mio**: But Option B is just the same as now! People will still hog the best spots or block others. We need a rule!
+- [70] **Misaki**: If we go with Option C, we might see people resenting each other based on the luck of the draw.
+- [71] **Shizue**: I just want the mornings to be calm. If we have a lottery, people might feel they "own" their spot and be more careful.
+- [72] **May**: Let's be honest: people value what they pay for. Option A ensures that only those who truly need the space will take it.
+- [73] **George**: I cannot support Option A. The monthly reconciliation is too much. Option B is the only one that doesn't create a new job.
+- [74] **Mio**: I can't support Option B! It's just "survival of the fittest." A lottery is the only way to break the cycle of favoritism!
+- [75] **Misaki**: I'll vote for Option B. It's the least likely to create a rigid hierarchy or a sense of "winning and losing" among us.
+- [76] **Shizue**: I think I will go with Option C. It gives everyone a fair chance and might stop the morning shoving matches.
+- [77] **May**: I'm sticking with Option A. It's the most pragmatic and beneficial for the building's long-term financial health.
+- [78] **George**: I'm voting for Option B. It's the only choice that is truly sustainable for the person managing the association.
+- [79] **Mio**: I'm definitely voting for Option C! Let's make it a game and give everyone an equal shot at the best spots!
+### Vote
+- Misaki -> B
+- Shizue -> C
+- May -> A
+- George -> B
+- Mio -> C
+## Result
+- adopted: B

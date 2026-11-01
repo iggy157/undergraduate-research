@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: Let's make this fun! I want to know how we actually start our days and if moving desks takes forever.
+- [6] **Toshio**: I agree we need data. I'm interested in the financial side and the physical layout.
+- [7] **Mizuki**: We should be mindful of fairness. I want to see the staff survey and the badge records to understand actual usage.
+- [8] **Shion**: Logic dictates we prioritize the environment. I'll be looking into the sound levels and the ergonomic notes.
+- [9] **Yumi**: I want us all to feel connected! I'll check the costs for power and network, and what the new joiners think!
+- [10] **Rin**: @Toshio, do you think the billing matters more than our morning mood?
+- [11] **Toshio**: It determines the sustainability of the layout, Rin.
+- [12] **Mizuki**: Let's not get sidetracked. We need a basis for who sits where to avoid resentment.
+- [13] **Shion**: Resentment is a byproduct of discomfort. If the seat is wrong, the mood follows.
+- [14] **Yumi**: Everyone is so serious! Let's just make sure we can all talk to each other easily!
+- [15] **Rin**: I'm still curious about those "unplanned shuffles." Maybe they were like a game!
+- [16] **Toshio**: Or a sign of a failed plan.
+- [17] **Mizuki**: Exactly. We need to avoid repeating mistakes.
+- [18] **Shion**: I'm more interested in the physical reality of the space than the history of its failures.
+- [19] **Yumi**: I just hope the power cables don't get in the way of us chatting!
+- [20] **Rin**: Okay! I've decided what to check. Let's see what we find!
+- [21] **Toshio**: Agreed.
+- [22] **Mizuki**: Let's proceed.
+- [23] **Shion**: I'm ready.
+- [24] **Yumi**: Yay! I can't wait to see the results!
+## Round 2
+- [35] **Rin**: Oh no! It takes way too long to set up every morning, and the shuffles are a total mess!
+- [36] **Toshio**: The billing is based on area, not people. We are paying for empty space we aren't using efficiently.
+- [37] **Mizuki**: The survey shows a huge divide in preference for window seats, and arrival times vary wildly. We can't just let "first come" decide.
+- [38] **Shion**: It seems the noise is concentrated near the door, and ergonomic settings are fragile. We cannot afford frequent moves.
+- [39] **Yumi**: Guess what! The new joiners learned so much just by listening to us! But moving the power cables is actually pretty expensive.
+- [40] **Rin**: @Yumi, if it's expensive, maybe we should just pick one spot and stay there? No more shuffling!
+- [41] **Toshio**: If we optimize the area we use, we can potentially reduce the billing burden.
+- [42] **Mizuki**: @Toshio, efficiency is fine, but we must address the window seat issue. Some people will be in the dark.
+- [43] **Shion**: The "dark" is preferable to a noisy corridor. We should prioritize the quiet zones for those who stay put.
+- [44] **Yumi**: But if we stay put forever, we might stop talking to the people sitting far away!
+- [45] **Rin**: I don't want to spend ten minutes every morning just plugging things in. That's like... a whole snack break!
+- [46] **Toshio**: We should avoid any layout that requires expensive re-wiring of power and network.
+- [47] **Mizuki**: If we choose a layout where some seats are objectively worse, we need a fair system to rotate them.
+- [48] **Shion**: Rotation is illogical if it ruins the ergonomic setup. A "perfect" seat takes days to calibrate.
+- [49] **Yumi**: I really want us to be close! But I don't want the company to be sad about the cost.
+- [50] **Rin**: Let's pick the one that's the fastest and easiest!
+- [51] **Toshio**: I'll support the option that balances cost and utility.
+- [52] **Mizuki**: I will vote for the option that acknowledges the disparity in seat quality.
+- [53] **Shion**: I will vote for the one that ensures stability and acoustic comfort.
+- [54] **Yumi**: I'll vote for whatever lets us keep our team spirit high!
+## Round 3
+- [60] **Rin**: Option A sounds like a game, but I hate the plugging-in part! I vote for C!
+- [61] **Toshio**: Option A is the most efficient for area billing, but Option C avoids the cost of constant re-wiring.
+- [62] **Mizuki**: Option A is unfair to those who arrive late; they'll always get the worst seats. I prefer B.
+- [63] **Shion**: Option A is a nightmare. Constant noise and zero ergonomic stability. Option C is the only logical choice.
+- [64] **Yumi**: Option A means I get to sit next to someone different every day! But the cost... maybe B is a good middle ground?
+- [65] **Rin**: @Mizuki, if we do B, do we have to move all our stuff? That sounds like those messy shuffles!
+- [66] **Toshio**: Option B still incurs the "shuffling" cost and doesn't solve the billing issue as well as A.
+- [67] **Mizuki**: @Rin, it's better than some people being stuck in the dark for a whole year while others have the window.
+- [68] **Shion**: The "dark" is a minor inconvenience compared to the physical strain of a poorly fitted chair. C is the only way to maintain a setup.
+- [69] **Yumi**: I love the idea of B because we get to rotate who we're close to! It keeps the energy fresh!
+- [70] **Rin**: I'm sticking with C. I want to come in and just start working!
+- [71] **Toshio**: Given the budget constraints and the cost of power re-runs, C is the most fiscally responsible.
+- [72] **Mizuki**: If we go with C, we must explicitly agree on how the "bad" seats are assigned. I can't support it otherwise.
+- [73] **Shion**: We can assign the quietest seats to those with the highest focus requirements. That is a logical distribution.
+- [74] **Yumi**: If we do C, I'll just have to make a huge effort to walk over and talk to everyone! I can do that!
+- [75] **Rin**: Yay! Let's just decide!
+- [76] **Toshio**: I've made my decision.
+- [77] **Mizuki**: I will concede to C, provided we are honest about the seat quality.
+- [78] **Shion**: Finally. A decision based on stability.
+- [79] **Yumi**: I'm happy as long as we're all happy! Let's vote!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> B
+- Shion -> C
+- Yumi -> B
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0016__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: It is a pleasure to be here with you all. To ensure our choice is sustainable, I would like to examine this year's development allocation in the ledger and the regional fund tariffs by contact location.
+- [6] **Shion**: It is a pleasure to meet you all. To avoid simply adding to a pile of forgotten initiatives, I shall examine the readmission figures during the call-back trial and the board minutes on a jointly run clinic.
+- [7] **Midori**: Thank you, Jonathan and Shion. I am very happy to be part of this panel. I would like to look into the ward nursing vacancies and agency cover, as well as the therapy and midwifery staffing review.
+- [8] **Kenji**: Hi everyone! I'm so excited to help pick a new program! I want to make sure we have enough space for everything, so I'll check the rooms, parking and shuttle coverage and what the booking system records!
+- [9] **Shizue**: It is a joy to be with you all. To make sure our new program has a strong and lasting foundation, I shall look into the data agreements with outside surgeries and the visit completion on the shared nursing round.
+- [10] **Jonathan**: It seems we have a very comprehensive approach. By looking at the finances, the staffing, and the physical infrastructure, we can ensure our decision is grounded in reality. I look forward to seeing what we discover.
+- [11] **Shion**: Indeed. While the others focus on the current state of the house, I am more interested in the ghosts of our past failures. It would be a pity to repeat them in the name of progress.
+- [12] **Midori**: I agree with Shion. It is important to learn from the past so we can support our staff better. I hope the information we find helps us make a decision that brings harmony to the hospital.
+- [13] **Kenji**: That's a great way to put it, Midori! I just don't want us to pick something awesome that then gets stuck because there's no place to park or no room to put it! I can't wait to see the data!
+- [14] **Shizue**: Your enthusiasm is wonderful, Kenji. It is so important that we all look after one another, from the patients to the staff. I believe our combined efforts will lead us to a very kind and sustainable choice.
+- [15] **Jonathan**: I agree with Shizue. A kind approach, paired with a clear understanding of our resources, will allow us to choose a program that truly flourishes without creating future burdens.
+- [16] **Shion**: Kindness is a pleasant sentiment, Jonathan, but it is rarely a metric for success. I suspect we will find that our previous "kind" initiatives were the ones most easily forgotten. Logic must lead the way.
+- [17] **Midori**: I understand your point, Shion, but I believe logic and kindness can work together. If we understand the actual pressure our teams are under, we can make a logical choice that is also supportive.
+- [18] **Kenji**: I totally agree with Midori! If we're all happy and the hospital isn't too crowded, then the logic part will be way easier. I'm just really hoping the booking system isn't a total mess!
+- [19] **Shizue**: It is a lovely thought, Midori. When we care for the people who do the caring, the whole hospital feels the warmth. Let us all be patient and open as we wait for our findings.
+- [20] **Jonathan**: I believe we have found a balanced path for our investigation. I shall now step back and await the revelations of the records with a quiet heart. I wish you all clarity in your findings.
+- [22] **Shion**: I find this level of optimism quite quaint. I shall also step back, though I expect the records to be far less cooperative than your spirits. I look forward to the results.
+- [24] **Midori**: I agree. I hope we can find a path that supports everyone involved. I look forward to hearing what you all discover in the next round.
+- [26] **Kenji**: I'm ready too! I'll be crossing my fingers that we have plenty of room for a great new program. See you all in the next round!
+- [28] **Shizue**: It has been such a pleasure chatting with you all. I shall now go and see what the records tell us, keeping a hopeful heart for our future. Until we meet again, be well.
+## Round 2
+- [40] **Jonathan**: The findings are sobering. Our development allocation has decreased by nearly a quarter, and we must now cover floor space fitting from this same pot. We must be very careful not to overcommit our limited funds.
+- [41] **Shion**: My findings are equally revealing. A call-back trial actually reduced readmissions for the elderly, yet it was abandoned. Meanwhile, a joint clinic collapsed because of petty disputes over budgets and rotas. We are experts at starting things and then killing them.
+- [42] **Midori**: That is very sad to hear, Shion. My findings also show some strain; we have nine unfilled nursing posts and agency costs are rising. However, the midwifery rota actually has some unusual slack due to falling birth numbers.
+- [43] **Kenji**: Oh man, this is bad! The car park is full by eleven and the shuttle barely covers any of the villages! Plus, the booking system is missing a ton of work because it only tracks named slots!
+- [44] **Shizue**: My findings remind us that the world outside our walls can be quite unpredictable. I discovered that signing data agreements with outside surgeries can take over a year, and shared nursing rounds often struggle with simple things like locked gates.
+- [45] **Jonathan**: @Shion, your observation about abandoned initiatives is a warning we must heed. If we choose a program that requires significant on-site fitting, our reduced budget may leave us unable to fund its actual operation.
+- [46] **Shion**: @Jonathan, precisely. We are prone to the allure of the "new" while ignoring the cost of the "now." If we cannot even maintain a simple call-back trial, a complex physical expansion is merely a future ruin.
+- [47] **Midori**: @Shion, I agree that we shouldn't just chase the new. I'm worried that if we add a program to the nursing wards, the current vacancies and agency costs will make it too much pressure for the teams.
+- [48] **Kenji**: @Midori, I'm worried about that too! But it's not just the staff—it's the space! If the car park is already full by eleven, how are more patients supposed to get here? We can't just add more people if there's nowhere to put them!
+- [49] **Shizue**: It is a bit worrying, isn't it? @Kenji, you are right to be concerned about the space. It seems we are all discovering that the path to helping our patients is filled with little hurdles that can easily trip us up.
+- [50] **Jonathan**: @Shizue, those hurdles are indeed numerous. I am particularly concerned that any program relying on off-site contacts will bring in no regional funding, potentially leaving the running costs entirely unfunded after the initial budget is spent.
+- [51] **Shion**: @Jonathan, your concern about funding is logical, but it is a symptom of the same disease. We argue over tariffs and budgets while ignoring that we already have proven methods, like the call-back trial, that we simply failed to sustain.
+- [52] **Midori**: @Shion, I agree that sustaining a program is the real challenge. If we pick something that requires a lot of effort from the nursing staff, we might just be adding to the pressure that's already there. We should look for a balance.
+- [53] **Kenji**: @Midori, exactly! And if we pick something that needs a lot of booking slots, it'll just make the system even more confusing since so much work is already invisible! We need something that doesn't jam up the hospital!
+- [54] **Shizue**: It is so important to find that balance, Midori. I worry that if we rely on agreements with outside bodies, we might find ourselves waiting a very long time for a signature while our patients wait for care.
+- [55] **Jonathan**: It seems we are all uncovering a fragile reality. We must seek a candidate that is financially self-sustaining, avoids the congestion of our facilities, and does not place an undue burden on our already strained staff.
+- [56] **Shion**: And let us not forget the most critical filter: it must be a program we actually have the discipline to maintain. I will not support another "innovation" that is destined to be buried by administrative inertia.
+- [57] **Midori**: I agree. We should look for a program that fits naturally into our current capacity. If we can find something that utilizes the slack in midwifery, for example, it might be a way to grow without overwhelming others.
+- [58] **Kenji**: I'm with you, Midori! We need a plan that's like a puzzle piece that actually fits. If it doesn't need more parking or a bunch of new booking slots, it'll be way better for everyone!
+- [59] **Shizue**: It is a lovely way to think of it, Kenji. Let us hope we find a project that feels like a warm welcome rather than a burden, and one that doesn't rely on promises that take years to sign.
+## Round 3
+- [65] **Jonathan**: Looking at our options, the Perinatal Support Service seems most harmonious. It utilizes the slack in midwifery and, as an on-site service, it ensures we can draw the necessary regional tariffs to sustain its running costs.
+- [66] **Shion**: @Jonathan, your focus on tariffs is predictable, but the Perinatal Support Service is a joint venture between two departments. My findings on the joint clinic suggest that such arrangements are the first to collapse over budget disputes. It is a risky gamble.
+- [67] **Midori**: @Shion, I understand your worry about joint ventures, but the Perinatal Support Service seems very promising. It uses the slack in midwifery, which means we aren't adding pressure to the already strained nursing wards.
+- [68] **Kenji**: @Midori, I like that it helps the staff, but I'm worried about the parking! If we have more parents and classes coming in, the car park will be full even earlier than eleven! We need something that doesn't jam up the roads!
+- [69] **Shizue**: @Kenji, you have such a practical eye for these things. I am also worried about the other options; the Home Follow-Up Team and Chronic Care Coordination both seem to rely on those tricky outside agreements and unpredictable home visits.
+- [70] **Jonathan**: @Kenji, your concern is valid, but the Perinatal service is a focused, scheduled program. Compared to a Day Rehabilitation Unit, which would require significant floor space fitting and constant parking demand, it is far more sustainable for our budget.
+- [71] **Shion**: @Jonathan, you are merely choosing the least expensive ruin. The Home Follow-Up Team is the only option that mirrors the success of the call-back trial. It is a proven model for reducing readmissions, provided we have the discipline to keep it.
+- [72] **Midori**: @Shion, I see the value in a proven model, but the Home Follow-Up Team relies on nurses. With nine vacancies and rising agency costs, I worry we would be pushing our nursing staff past their breaking point.
+- [73] **Kenji**: @Shion, I agree that the Home Follow-Up Team sounds great because it's not in the hospital! No parking problems and no booking slots to worry about. It seems like the best way to avoid jamming everything up!
+- [74] **Shizue**: @Kenji, it does sound peaceful to move the care outside, but I remember how the shared nursing rounds struggled with locked gates and weather. I worry the Home Follow-Up Team might face those same frustrations.
+- [75] **Jonathan**: @Shizue, your caution is wise. Furthermore, the Home Follow-Up Team would draw no regional tariffs, leaving its running costs unfunded. The Perinatal Support Service remains the most stable choice, balancing financial viability with our current staffing slack.
+- [76] **Shion**: @Jonathan, you are prioritizing the ledger over the patient. The Perinatal service is a bureaucratic nightmare waiting to happen. The Home Follow-Up Team is the only choice that prioritizes actual outcomes over administrative convenience.
+- [77] **Midori**: @Shion, I truly value the patient outcomes, but we must be kind to the staff who provide that care. If we choose the Home Follow-Up Team, we risk burning out our nurses who are already struggling with vacancies.
+- [78] **Kenji**: @Midori, that's a really good point! If the nurses are too tired, they can't help anyone. But the Day Rehab Unit is definitely out—it needs a dedicated space and more parking, which we just don't have! I'm leaning toward the Home Follow-Up Team!
+- [79] **Shizue**: @Kenji, it is so kind of you to think of the nurses' energy. I am torn, as I want the best for everyone. However, Chronic Care Coordination also seems to rely on those long data agreements with outside providers. I believe the Perinatal Support Service is the most gentle path.
+- [80] **Jonathan**: We have spoken with honesty and care. The Perinatal Support Service avoids the funding void of off-site care, the space constraints of a rehab unit, and the staffing crisis of the wards. I vote for the Perinatal Support Service.
+- [81] **Shion**: @Jonathan, your "stable choice" is a house built on sand. A joint venture between departments is a recipe for the same collapse I found in the records. I vote for the Home Follow-Up Team.
+- [82] **Midori**: I believe we must prioritize the well-being of our teams to ensure the program's success. The Perinatal Support Service is the only option that doesn't overburden our strained nurses. I vote for the Perinatal Support Service.
+- [83] **Kenji**: I'm really torn! I love the Home Follow-Up Team because it doesn't jam up the car park or the booking system, but Midori is right about the nurses being tired. I'll go with the Perinatal Support Service! I vote for the Perinatal Support Service.
+- [84] **Shizue**: It has been a pleasure to deliberate with you all. While I worry about the joint nature of the program, it is the only path that avoids the frustrations of locked gates and endless paperwork. I vote for the Perinatal Support Service.
+### Vote
+- Jonathan -> C
+- Shion -> A
+- Midori -> C
+- Kenji -> C
+- Shizue -> C
+## Result
+- adopted: C

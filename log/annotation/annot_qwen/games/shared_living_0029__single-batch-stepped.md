@@ -1,0 +1,73 @@
+# shared_living_0029__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Minako**: We need to stop guessing. Who is actually paying for what?
+- [6] **Benjamin**: Agreed. The silence lately is worse than the noise.
+- [7] **Asuka**: I just need it to be ready when I need it.
+- [8] **Shion**: Let’s look at the data. No more assumptions.
+- [9] **Daisuke**: I... I just want less stress, honestly.
+- [10] **Minako**: @Shion, what specific data are you thinking of?
+- [11] **Benjamin**: @Minako, I think we need to see the history.
+- [12] **Asuka**: @Daisuke, do you have a specific worry?
+- [13] **Shion**: @Benjamin, I want the receipts. The real ones.
+- [14] **Daisuke**: @Asuka, I worry about the time it takes to sort out.
+- [15] **Minako**: @Shion, receipts are good. But what about the fixed costs?
+- [16] **Benjamin**: @Minako, fixed costs are part of the picture.
+- [17] **Asuka**: @Shion, I also care about the condition of the car.
+- [18] **Shion**: @Asuka, condition is a result of usage. Let's check usage.
+- [19] **Daisuke**: @Minako, I think we should look at the time spent too.
+- [20] **Minako**: Okay. Let's pick two things each to investigate.
+- [21] **Benjamin**: I'll take the history of our conflicts.
+- [22] **Asuka**: I'll check the state of the car and the weekly trips.
+- [23] **Shion**: I'll look at the fuel receipts and the tax papers.
+- [24] **Daisuke**: I'll look at the hours recorded and the mechanic's notes.
+## Round 2
+- [35] **Minako**: The fixed costs are high. 280,000 yen before fuel.
+- [36] **Benjamin**: And the other households said asking favours is the killer.
+- [37] **Asuka**: The car is often dirty or low on fuel when I get it.
+- [38] **Shion**: Two people bought most of the fuel. That's lopsided.
+- [39] **Daisuke**: The diary shows Saturdays are triple the hours of Tuesdays.
+- [40] **Minako**: @Shion, so the fuel split is uneven?
+- [41] **Benjamin**: @Minako, yes. And the checking of figures caused fights.
+- [42] **Asuka**: @Daisuke, so the time cost is real?
+- [43] **Shion**: @Benjamin, I don't want to check figures. I want to see them.
+- [44] **Daisuke**: @Asuka, the mechanic said short runs hurt the car.
+- [45] **Minako**: @Shion, if we split fuel by distance, is that fair?
+- [46] **Benjamin**: @Minako, maybe. But who records the distance?
+- [47] **Asuka**: @Benjamin, I can't keep checking the dial. It's too much.
+- [48] **Shion**: @Asuka, then we need a system that doesn't require checking.
+- [49] **Daisuke**: @Shion, a fixed day might work? No checking needed.
+- [50] **Minako**: @Daisuke, fixed days mean someone pays for empty days.
+- [51] **Benjamin**: @Minako, but it stops the favour-asking.
+- [52] **Asuka**: @Benjamin, I need my specific days. The weekly trips.
+- [53] **Shion**: @Asuka, if you have fixed days, you pay fixed share.
+- [54] **Daisuke**: @Shion, that sounds... manageable. Less arguing.
+## Round 3
+- [60] **Minako**: Option A: Fixed days. You pay your share, use your days.
+- [61] **Benjamin**: Option B: Booking calendar. Pay by distance.
+- [62] **Asuka**: Option C: One keeper. They manage it, others pay per trip.
+- [63] **Shion**: Option A seems simplest. No recording needed.
+- [64] **Daisuke**: Option A... I don't have to think about it.
+- [65] **Minako**: @Shion, but what if you don't use your day?
+- [66] **Benjamin**: @Minako, you still pay. That's the point.
+- [67] **Asuka**: @Benjamin, I need my Tuesday and Thursday.
+- [68] **Shion**: @Asuka, you can have those. I'll take weekends.
+- [69] **Daisuke**: @Shion, I can take the odd days.
+- [70] **Minako**: @Asuka, do you trust the others to keep the car clean?
+- [71] **Benjamin**: @Minako, that's the risk. But it's a clear risk.
+- [72] **Asuka**: @Benjamin, I can check the state when I pick it up.
+- [73] **Shion**: @Asuka, if it's dirty, you tell me. I fix it.
+- [74] **Daisuke**: @Shion, I'll try to keep it clean.
+- [75] **Minako**: I think A is the most stable.
+- [76] **Benjamin**: I agree. B requires too much tracking.
+- [77] **Asuka**: I can live with A if I get my days.
+- [78] **Shion**: A is logical. Let's vote.
+- [79] **Daisuke**: I vote for A.
+### Vote
+- Minako -> A
+- Benjamin -> A
+- Asuka -> A
+- Shion -> A
+- Daisuke -> A
+## Result
+- adopted: A

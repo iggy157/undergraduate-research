@@ -1,0 +1,73 @@
+# candidate_selection_0009__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I am worried the floor might crack under the weight of the new pieces.
+- [6] **Toshio**: The record of past attendance matters more than the floor. I want to see what actually drew people back.
+- [7] **Rin**: I want to know who is actually standing in the room. The staff list looks old, but who is really doing the work?
+- [8] **Kenji**: I keep getting stuck on delivery. I want to see where past seasons actually came unstuck, not where they were meant to.
+- [9] **Benjamin**: I am curious where the money actually goes. I want to see the invoices that quietly swallow the budget before the season ends.
+- [10] **Daisuke**: I am still thinking about the floor. I will check the structural survey of the suspended bay.
+- [11] **Toshio**: I will examine the five years of visitor comment slips. The words tell us what they valued.
+- [12] **Rin**: I will check the conservation lab staffing and backlog. I also want to see the volunteer roster to know who is actually there.
+- [13] **Kenji**: I will check the lender paperwork against shipping cut-offs. I also want to see the loan transport costs over three seasons.
+- [14] **Benjamin**: I will check the mount-making charges and joiner's rate. I also want to see the maintenance log for powered displays.
+- [15] **Daisuke**: I am a bit nervous about asking, but I hope the survey will show if the bay is safe.
+- [16] **Toshio**: @Daisuke, the floor is a constraint, not the story. I am waiting to see if the comments match the attendance figures.
+- [17] **Rin**: @Toshio, I agree. But if the staff are gone, the story doesn't matter. I am checking who is actually left to do the work.
+- [18] **Kenji**: @Rin, that is a fair point. If the people are gone, the delivery fails. I am hoping the paperwork shows where the delays actually happened.
+- [19] **Benjamin**: @Kenji, delays are expensive. I am hoping the maintenance logs reveal which displays quietly drain the budget every season.
+- [20] **Daisuke**: I will also look at the weekend head counts. I need to know if the room is already full before we add more weight.
+- [21] **Toshio**: I will also check the weekend head counts. Attendance patterns reveal what the public actually returns for, not what we intended.
+- [22] **Rin**: I will also check the evening hire bookings. If the room is busy at night, we need more people to watch it.
+- [23] **Kenji**: I will also check the weekend head counts. If the room is packed, any delivery hiccup becomes a public disaster.
+- [24] **Benjamin**: I will also check the evening hire bookings. If the gallery is rented out, the maintenance costs for those displays will spike unexpectedly.
+## Round 2
+- [35] **Daisuke**: The survey says four hundred kilos per square metre. That is a hard limit. I am relieved it is not less.
+- [36] **Toshio**: The comments are clear. People return for presence, not objects. The head counts confirm it. Mechanisms drive the numbers.
+- [37] **Rin**: The lab has only one person left! Two hundred pieces are waiting. And the volunteers are just the history circle. Who is actually standing in the room?
+- [38] **Kenji**: The paperwork shows two openings slipped because condition reports arrived after shipping cut-offs. Transport costs also ate a third of the installation budget.
+- [39] **Benjamin**: The joiner’s rate doubled, and bespoke mounts cost per object. Worse, powered displays caused seventeen call-outs, four during opening hours. That is where the budget vanishes.
+- [40] **Daisuke**: @Toshio, the head counts show mechanisms draw crowds. But if the room is packed, the floor bears more weight. I am worried.
+- [41] **Toshio**: @Daisuke, the floor limit is a constraint, not a reason to avoid presence. The data shows empty rooms fail. We must find a way to fit the crowd.
+- [42] **Rin**: @Toshio, presence is great, but who cleans the two hundred waiting pieces? The history circle walks the old quarter, they don’t know our gallery.
+- [43] **Kenji**: @Rin, that backlog is terrifying. If the lab is stuck, the delivery date slips. I am checking if the transport delays compound this.
+- [44] **Benjamin**: @Rin, the backlog is a risk, but the maintenance logs show the real drain. Powered displays are where the money goes.
+- [45] **Daisuke**: @Benjamin, if powered displays cause so many call-outs, the floor might not be the only thing stressed. I am worried about the strain.
+- [46] **Toshio**: @Benjamin, the call-outs are a symptom. The root cause is the absence of live engagement. We need presence, not just static objects.
+- [47] **Rin**: @Benjamin, I hear you, but money is easy to find. People are not! If the lab is empty, the objects rot. Who is actually holding the room together?
+- [48] **Kenji**: @Benjamin, the transport costs are a huge hidden tax. If we add powered displays, the maintenance backlog will explode. We need to keep the logistics simple.
+- [49] **Benjamin**: @Kenji, exactly. Transport is a known tax, but maintenance is the silent killer. I am glad we are avoiding the powered trap.
+- [50] **Daisuke**: I am glad we are avoiding the powered trap. It eases my mind about the floor. I will wait for the candidates.
+- [51] **Toshio**: I am waiting for the candidates. The data points to live engagement, but I need to see which proposals actually deliver that presence.
+- [52] **Rin**: I am ready to see the candidates. I just need to know who is actually standing in the room to keep it safe.
+- [53] **Kenji**: I am ready for the candidates. I just need to see which ones avoid the shipping traps and the maintenance nightmare.
+- [54] **Benjamin**: I am ready for the candidates. I just need to see which ones keep the invoices predictable and the joiner’s bill manageable.
+## Round 3
+- [60] **Daisuke**: I am looking at the floor limit. Candidate D uses overhead rigging. That keeps the weight off the bay. I feel safer with that.
+- [61] **Toshio**: @Daisuke, rigging solves the weight, but the comments demand presence. D is light, not people. I need to see who actually stands in the room.
+- [62] **Rin**: @Toshio, you are right. D is just lights. A has craftspeople! But with only one conservator, can we handle the textiles?
+- [63] **Kenji**: @Rin, A is local, so no distant shipping cut-offs. That solves my biggest delivery fear. I am leaning toward A.
+- [64] **Benjamin**: @Kenji, local sourcing saves the joiner’s bill. But demonstration tools need maintenance. I am checking if the invoices stay predictable for A.
+- [65] **Daisuke**: @Rin, the craftspeople in A mean more people in the room. I am worried the floor will feel the extra weight.
+- [66] **Toshio**: @Daisuke, the head counts show crowds follow activity, not just weight. A brings the presence the data demands. I am leaning toward A.
+- [67] **Rin**: @Daisuke, the craftspeople are the point! But with one conservator and a two-hundred-piece backlog, can we even keep the textiles safe? I am worried about the care.
+- [68] **Kenji**: @Rin, the local sourcing means no distant shipping delays. That is my main relief. I am leaning toward A, but I need to know if the logistics are simple enough.
+- [69] **Benjamin**: @Rin, the conservation backlog is a staffing issue, not a budget one. My concern is the joiner’s bill. A’s local tools mean no bespoke mounts, keeping costs predictable.
+- [70] **Daisuke**: @Toshio, I understand the data, but the floor limit is real. I am still anxious about the weight of the crowds.
+- [71] **Toshio**: @Daisuke, the limit is four hundred kilos. A crowd of people is far lighter than the rigging in D. The data says presence wins.
+- [72] **Rin**: @Daisuke, the people are light! The real weight is the work. With one conservator, A is a disaster. C has a visible bench, but who actually sits there?
+- [73] **Kenji**: @Rin, C is local too, so no shipping delays. But a working bench means constant handling. That could worsen the conservation backlog. I am worried about the daily wear.
+- [74] **Benjamin**: @Kenji, exactly. A working bench means constant handling, which means more conservation calls. That is a hidden cost I cannot afford. I am leaning toward A for its predictable invoices.
+- [75] **Daisuke**: @Rin, I am sorry, but I cannot ignore the floor. If the crowd is too heavy, the bay fails. I am still anxious.
+- [76] **Toshio**: @Rin, the bench in C is a prop, not a service. A offers real presence. The data is clear. I am ready to vote.
+- [77] **Rin**: @Toshio, I am ready to vote. A brings the people I need, even if the conservation backlog is terrifying. I just hope the volunteers can help.
+- [78] **Kenji**: @Toshio, I agree. A avoids the distant shipping traps that wrecked past seasons. The local logistics are simple and safe. I am ready to vote.
+- [79] **Benjamin**: I am ready to vote. Candidate A keeps the joiner’s bill low and avoids the maintenance trap. The invoices will finally make sense.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

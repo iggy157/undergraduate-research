@@ -1,0 +1,6 @@
+16:49:58 start: 4 jobs, models=default, per_model=4
+16:50:36 single-batch shared_living_0005 rc=0 38s [default#1] left=3
+16:53:19 single-batch aiwolf_0005 rc=0 201s [default#0] left=2
+16:55:50 multi-private aiwolf_0005 rc=0 351s [default#2] left=1
+16:57:23 multi-private shared_living_0005 rc=0 442s [default#3] left=0
+16:57:23 all done

@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I'm so excited to see the proposals! But first, I want to see where our money actually goes. I'll check the transport costs and mount-making charges!
+- [6] **Victoria**: I believe we need to be realistic about our current capacity. I'll look into the conservation lab staffing and backlog, and the composition of the volunteer roster.
+- [7] **Shion**: Logic suggests we prioritize actual results over curator ambition. I'll examine the weekend head counts across ten seasons and five years of visitor comment slips.
+- [8] **Asuka**: I am concerned about the physical limits of the gallery. I will look into the structural survey of the suspended bay and the maintenance log for powered displays.
+- [9] **Shizue**: It is always a pleasure to work with you all. I want to make sure our guests aren't disappointed, so I'll check the lender paperwork against shipping cut-offs and the maintenance log.
+- [10] **Mio**: @Victoria, do you think the volunteers are feeling overwhelmed? I hope we can make this exhibition a fun experience for everyone involved!
+- [11] **Victoria**: It is a possibility. I want to ensure that the burden of execution doesn't fall on a few exhausted individuals.
+- [12] **Shion**: @Mio, enthusiasm is fine, but it doesn't fill seats. We need to understand why certain "prestigious" shows failed to attract repeat visitors.
+- [13] **Asuka**: @Shion, numbers are useful, but they are irrelevant if the building cannot physically support the installation. Safety and structural integrity must come first.
+- [14] **Shizue**: Now, now, let's not fret. We have plenty of time to find a balance that makes everyone happy. I'm just worried about those poor visitors waiting at the door.
+- [15] **Mio**: @Asuka, you're so serious! But you're right. I just don't want us to be surprised by a huge bill at the end of the season again.
+- [16] **Victoria**: I agree with Asuka on the importance of limits. However, the human limit is just as critical as the structural one.
+- [17] **Shion**: @Victoria, @Asuka, you both focus on the "how." I am focusing on the "why." If the public doesn't care, the structural integrity is a moot point.
+- [18] **Asuka**: @Shion, that is a dangerous way to think. A failure in the suspended bay would be a catastrophe, regardless of how many people wanted to see the art.
+- [19] **Shizue**: You all have such passionate hearts. It's wonderful. I'll just keep an eye on the logistics so we can all sleep soundly at night.
+- [20] **Mio**: I think we've all picked our focus! I can't wait to see what we find out. Let's make this the best exhibition ever!
+- [21] **Victoria**: I look forward to the data. It will help us make a rational choice.
+- [22] **Shion**: Indeed. Let's see if the records tell a different story than the curators' brochures.
+- [23] **Asuka**: Agreed. I will analyze the structural data carefully.
+- [24] **Shizue**: I'll be waiting with a smile. Let's see what the archives have to tell us.
+## Round 2
+- [35] **Mio**: Oh wow! I found out that shipping and custom mounts are eating up a huge chunk of our budget! We should pick something that doesn't cost a fortune to move.
+- [36] **Victoria**: The situation is more precarious than I feared. The conservation lab is severely understaffed, and our volunteers are mostly part-time guides, not exhibition assistants.
+- [37] **Shion**: Interesting. The data shows that static displays are boring. People return when there is human interaction or dynamic elements in the room.
+- [38] **Asuka**: The structural survey is alarming. The suspended bay has a strict weight limit, and the maintenance log shows that powered displays are frequently failing.
+- [39] **Shizue**: My goodness. It seems we've had quite a few hiccups with shipping deadlines and those powered displays breaking down. We must be very careful this time.
+- [40] **Mio**: @Asuka, if the powered displays are breaking, maybe we should avoid them? But @Shion says people like dynamic things! This is tricky!
+- [41] **Victoria**: @Mio, @Shion, we cannot prioritize "dynamic" elements if we have no one to maintain them. The lab is drowning in a backlog. We cannot afford a high-maintenance show.
+- [42] **Shion**: @Victoria, a "safe" show is a forgotten show. If we only do what is easy, we are just a warehouse, not a museum. We need a draw.
+- [43] **Asuka**: @Shion, your "draw" cannot come at the cost of the building's safety. The suspended bay is already at its limit. We cannot accept heavy installations.
+- [44] **Shizue**: It sounds like we are all worried about different things. Perhaps we can find a proposal that is simple enough to be reliable, but lovely enough to be enjoyed.
+- [45] **Mio**: I agree with Shizue! Let's look for something that doesn't need fancy mounts or expensive shipping. That would save so much money for other things!
+- [46] **Victoria**: I must insist that we consider the staff. If we choose a complex exhibition, the few remaining staff members will be pushed to a breaking point.
+- [47] **Shion**: @Victoria, the staff's fatigue is a management issue, not a curation issue. The public's boredom, however, is a failure of the museum's mission.
+- [48] **Asuka**: @Shion, a structural collapse is also a failure of the museum's mission. I will not support any proposal that puts heavy loads in the suspended bay.
+- [49] **Shizue**: Let's remember to be kind to one another. We all want the museum to succeed. Let's look at the candidates with these concerns in mind.
+- [50] **Mio**: I'm ready! I'll be voting for the one that looks the most budget-friendly and easy to set up.
+- [51] **Victoria**: I will vote for the proposal that requires the least amount of specialized labor and conservation work.
+- [52] **Shion**: I will vote for the one that actually gives people a reason to come back. I'm tired of "perfect" shows that are empty.
+- [53] **Asuka**: I will vote for the proposal that is physically lightweight and avoids unstable powered mechanisms.
+- [54] **Shizue**: I shall vote for the one that is most likely to arrive on time and stay working. I don't want to see any more "closed for maintenance" signs.
+## Round 3
+- [60] **Mio**: Option A looks great! Local items mean low shipping costs, and the interviews are a dynamic touch that doesn't cost a fortune!
+- [61] **Victoria**: Option A is the only sustainable choice. It doesn't require the conservation lab to clear its backlog, and the craftspeople can help with the work.
+- [62] **Shion**: Option A and D both have the human element I'm looking for. However, D's "working bench" is a brilliant way to keep people coming back to see progress.
+- [63] **Asuka**: Option B is out of the question; the overhead rigging and powered works are a disaster waiting to happen. Option D is too heavy with reconstructions. Option A is the safest.
+- [64] **Shizue**: Option A seems very peaceful and reliable. Since the items are local, we won't have to worry about shipping delays or paperwork mishaps.
+- [65] **Mio**: @Shion, wouldn't the demonstration sessions in Option A be just as exciting as the conservation bench in Option D?
+- [66] **Victoria**: @Shion, Option D's "working bench" is a fantasy. The lab is already overwhelmed; we cannot turn it into a public performance space. It would be a nightmare for the staff.
+- [67] **Shion**: @Victoria, your fear of work is stifling. But I admit, if the staff is truly that broken, the "working bench" might just be a "stressed bench."
+- [68] **Asuka**: @Shion, Option A is the only one that respects the structural limits of the bay and the instability of our power systems. It is the logical choice.
+- [69] **Shizue**: I think we are all starting to agree. Option A is gentle on the staff, the building, and the budget. It's a lovely choice.
+- [70] **Mio**: Yay! I'm so glad we're on the same page! Option A is just so cheerful and community-focused. I love it!
+- [71] **Victoria**: It is the only option that doesn't ignore the reality of our staffing crisis. I feel much more comfortable with this.
+- [72] **Shion**: It's not the most daring choice, but the presence of the craftspeople satisfies my requirement for human interaction. It's acceptable.
+- [73] **Asuka**: It is more than acceptable; it is the only responsible choice. It ensures the building remains functional and safe.
+- [74] **Shizue**: It warms my heart to see us reach a consensus so kindly. Option A will be a wonderful experience for our visitors.
+- [75] **Mio**: I'm voting for A! Let's make it happen!
+- [76] **Victoria**: I am voting for A. It is the only rational path forward.
+- [77] **Shion**: I'll go with A. It's better than a boring static show or a dangerous one.
+- [78] **Asuka**: My vote is for A. It is the only proposal that fits the physical constraints of the gallery.
+- [79] **Shizue**: I also vote for A. It's a safe, lovely, and reliable plan.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

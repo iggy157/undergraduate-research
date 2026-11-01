@@ -1,0 +1,314 @@
+# candidate_selection_0002
+## Round 1
+### Talk
+#### Turn 1 of 4
+- **Servas**: I worry about the reporting burden. Who verifies the numbers before we close the books?
+- **Asuka**: I am curious about the drift between our stories and the actual returns.
+- **Minako**: I need to know the cash flow. How much room do we have after this cheque?
+- **Mio**: I am concerned about the talent drain. Who is actually available to help these teams?
+- **Toshio**: I want to see where the delays come from. It is rarely the team's fault.
+- **Servas**: @Minako, that is a fair point. The human element is often overlooked.
+- **Asuka**: @Servas, exactly. I want to see the ledger lines to understand the shift.
+- **Minako**: @Asuka, yes. The numbers will guide us.
+- **Mio**: @Toshio, bottlenecks are real. I am checking the staffing posts too.
+- **Toshio**: I am reviewing the delivery records. Data beats intuition.
+- **Servas**: I will check the appraisal needs. We need to know the audit cost.
+- **Asuka**: I will also look at the account retention. It tells us about loyalty.
+- **Minako**: I will check the reserve accounts. It affects our liquidity.
+- **Mio**: I will look at the recruiter placement times. We need to know who is available.
+- **Toshio**: I will also check the security review time. It impacts the schedule.
+- **Servas**: Let us see what the records say.
+- **Asuka**: Agreed. The numbers will guide us.
+- **Minako**: I hope the reserves are holding up.
+- **Mio**: We need to avoid the usual traps.
+- **Toshio**: We will see.
+- **Servas**: The appraisal needs are worrying. Outside fees add up quickly.
+- **Asuka**: The retention data shows some tools lose customers fast. That is a risk.
+- **Minako**: The reserves show follow-on calls at twice the modelled rate. That hurts.
+- **Mio**: The recruiters fill support roles fast, but field crews take months.
+- **Toshio**: The security review for medical data takes three quarters. That is a major delay.
+- **Servas**: @Toshio, that idle time is critical. Who covers the gap?
+- **Asuka**: @Minako, so live biology is the main source of delay?
+- **Minako**: @Asuka, no, it is the follow-on calls. The cash is tight.
+- **Mio**: @Servas, one engineer covers three institutes. It is stretched thin.
+- **Toshio**: @Mio, yes. Computation is safer. The computing agreement helps there.
+- **Servas**: The minutes say the glasshouse crew is full strength. That is good.
+- **Asuka**: But the animal facility day rates rose sharply. That hurts budget.
+- **Minako**: The glasshouse is booked solid. We need to be careful with timing.
+- **Mio**: If we pick a project needing the spectroscopy suite, we are in trouble.
+- **Toshio**: The station records confirm the field risk. Indoor work is safer.
+- **Servas**: We must weigh the human resources against the facility risks.
+- **Asuka**: The cost structure favors computation over animal work.
+- **Minako**: The shared instrumentation is a weak point.
+- **Mio**: Avoid the projects that depend on the broken equipment.
+- **Toshio**: The data points to stability over novelty.
+- **Servas**: Candidate A is a catalogue. It fits the long-term utility we saw.
+- **Asuka**: Candidate C uses simulation. The computing agreement makes it cheap.
+- **Minako**: Candidate C needs the spectroscopy suite. That is the broken one.
+- **Mio**: Candidate B is greenhouse work. The crew is strong, but it is booked.
+- **Toshio**: Candidate A is field-based. The station records show high risk.
+- **Servas**: @Toshio, if A is field-based, the weather risk is real.
+- **Asuka**: @Minako, if C needs the idle suite, it is a no-go.
+- **Minako**: @Asuka, correct. The service contract lapsed. It is unreliable.
+- **Mio**: @Minako, C is safe from schedule overruns, but the equipment is a problem.
+- **Toshio**: @Servas, yes. Three sites lost a season. It is too risky.
+- **Servas**: Candidate D is amphibian regeneration. That is live breeding.
+- **Asuka**: @Mio, that aligns with the portfolio review. D is risky.
+- **Minako**: @Mio, so we are left with B? The glasshouse is booked, though.
+- **Mio**: @Servas, live breeding causes double the overruns. I would avoid D.
+- **Toshio**: @Minako, B is indoor. The holding rooms were uninterrupted. It is safer.
+- **Servas**: B seems the most stable. The crew is full strength.
+- **Asuka**: The costs are manageable. The bench-fee subsidy helps.
+- **Minako**: The accreditation is renewed. It is a reliable facility.
+- **Mio**: It avoids the broken spectroscopy and the breeding delays.
+- **Toshio**: It is a mechanism study, but the infrastructure supports it.
+#### Turn 2 of 4
+- **Servas**: The audit trail is messy. I need clarity on the reporting.
+- **Asuka**: I am looking at the retention curves. They tell the truth.
+- **Minako**: The cash flow is tight. I need to see the reserves.
+- **Mio**: The talent pool is thin. I am checking the recruiters.
+- **Toshio**: The delays are external. I am checking the security reviews.
+- **Servas**: @Asuka, do you have data on the retention?
+- **Asuka**: Yes, I want to check the account retention records.
+- **Minako**: I should look at the reserve accounts since the last call.
+- **Mio**: I will check the placement times in the recruiter logs.
+- **Toshio**: I need to see the security review timelines for the new deals.
+- **Servas**: I will also look at the appraisal needs for the audit.
+- **Asuka**: I will check the independent checks on the reported figures.
+- **Minako**: I will also look at the terms of the credit line.
+- **Mio**: I will also check the adviser bench for available experts.
+- **Toshio**: I will also look at the delivery records of the holdings.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+#### Turn 3 of 4
+- **Servas**: The appraisal needs are high. It adds cost and time.
+- **Asuka**: The retention is strong for some, weak for others.
+- **Minako**: The reserves are low. We need to be careful.
+- **Mio**: The recruiters are slow for field roles.
+- **Toshio**: The security reviews are long for medical data.
+- **Servas**: @Minako, does the reserve data support a new investment?
+- **Minako**: Yes, but the follow-on calls are high. We need to be cautious.
+- **Asuka**: The independent checks show some figures are unverifiable.
+- **Mio**: The adviser bench has logistics experts, but no software ones.
+- **Toshio**: The delivery records show hardware is risky.
+- **Servas**: So a space that is widely bookable seems to perform better in reviews.
+- **Asuka**: That aligns with the retention data. We need high loyalty to justify the cost.
+- **Minako**: But who maintains it? The current staff are already overburdened.
+- **Mio**: If we choose a project with a clear rationale, it might stay on schedule.
+- **Toshio**: We must account for the rising cost of security in any new build.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+#### Turn 4 of 4
+- **Servas**: Candidate A, the Clinic Scheduler, fits the high-retention and high-review criteria.
+- **Asuka**: I agree. The data shows general tools are in high demand and underutilized specialist ones are not.
+- **Minako**: I am worried about the maintenance burden, but the other options seem worse.
+- **Mio**: A study commons is less exposed to weather than outdoor paths, so it might stay on schedule.
+- **Toshio**: The cost of ventilation for labs is rising, making Candidate B riskier financially.
+- **Servas**: Candidate C, the Fabric Loop, is exposed to weather, which Minako noted causes delays.
+- **Asuka**: Candidate D, the Ledger Bridge, would likely suffer from low booking rates like other specialist rooms.
+- **Minako**: Candidate A requires significant mechanical work, which Toshio says is getting more expensive.
+- **Mio**: Candidate B is an indoor conversion, avoiding the weather delays seen in site diaries.
+- **Toshio**: Candidate B avoids the high-cost mechanical plant issues affecting Candidate A.
+- **Servas**: The post-occupancy data strongly favors a space that is widely accessible and bookable.
+- **Asuka**: The booking data confirms that general-purpose space is what the campus actually needs.
+- **Minako**: While I have concerns about staffing, Candidate B seems the most logical choice.
+- **Mio**: The delivery schedule data suggests indoor projects are more reliable than outdoor ones.
+- **Toshio**: From a financial perspective, Candidate B avoids the rising costs of specialized equipment.
+- **Servas**: I am ready to vote.
+- **Asuka**: I am ready to vote.
+- **Minako**: I am ready to vote.
+- **Mio**: I am ready to vote.
+- **Toshio**: I am ready to vote.
+### Action
+- investigate: Servas -> Appraisal needs at the last audit; Independent checks on holdings' reported figures
+- investigate: Asuka -> Account retention through price rises; Profile of the exits and the write-off
+- investigate: Minako -> Reserve accounts and follow-on calls; Terms of last winter's credit line
+- investigate: Mio -> Retained recruiters' placement times; Adviser bench and partner board seats
+- investigate: Toshio -> Security review time before first deployment; Delivery records of two holdings
+## Round 2
+### Talk
+#### Turn 1 of 4
+- **Servas**: The audit trail is messy. I need clarity on the reporting.
+- **Asuka**: I am looking at the retention curves. They tell the truth.
+- **Minako**: The cash flow is tight. I need to see the reserves.
+- **Mio**: The talent pool is thin. I am checking the recruiters.
+- **Toshio**: The delays are external. I am checking the security reviews.
+- **Servas**: @Asuka, do you have data on the retention?
+- **Asuka**: Yes, I want to check the account retention records.
+- **Minako**: I should look at the reserve accounts since the last call.
+- **Mio**: I will check the placement times in the recruiter logs.
+- **Toshio**: I need to see the security review timelines for the new deals.
+- **Servas**: I will also look at the appraisal needs for the audit.
+- **Asuka**: I will check the independent checks on the reported figures.
+- **Minako**: I will also look at the terms of the credit line.
+- **Mio**: I will also check the adviser bench for available experts.
+- **Toshio**: I will also look at the delivery records of the holdings.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+#### Turn 2 of 4
+- **Servas**: The appraisal needs are high. It adds cost and time.
+- **Asuka**: The retention is strong for some, weak for others.
+- **Minako**: The reserves are low. We need to be careful.
+- **Mio**: The recruiters are slow for field roles.
+- **Toshio**: The security reviews are long for medical data.
+- **Servas**: @Minako, does the reserve data support a new investment?
+- **Minako**: Yes, but the follow-on calls are high. We need to be cautious.
+- **Asuka**: The independent checks show some figures are unverifiable.
+- **Mio**: The adviser bench has logistics experts, but no software ones.
+- **Toshio**: The delivery records show hardware is risky.
+- **Servas**: So a space that is widely bookable seems to perform better in reviews.
+- **Asuka**: That aligns with the retention data. We need high loyalty to justify the cost.
+- **Minako**: But who maintains it? The current staff are already overburdened.
+- **Mio**: If we choose a project with a clear rationale, it might stay on schedule.
+- **Toshio**: We must account for the rising cost of security in any new build.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+#### Turn 3 of 4
+- **Servas**: Candidate A, the Clinic Scheduler, fits the high-retention and high-review criteria.
+- **Asuka**: I agree. The data shows general tools are in high demand and underutilized specialist ones are not.
+- **Minako**: I am worried about the maintenance burden, but the other options seem worse.
+- **Mio**: A study commons is less exposed to weather than outdoor paths, so it might stay on schedule.
+- **Toshio**: The cost of ventilation for labs is rising, making Candidate B riskier financially.
+- **Servas**: Candidate C, the Fabric Loop, is exposed to weather, which Minako noted causes delays.
+- **Asuka**: Candidate D, the Ledger Bridge, would likely suffer from low booking rates like other specialist rooms.
+- **Minako**: Candidate A requires significant mechanical work, which Toshio says is getting more expensive.
+- **Mio**: Candidate B is an indoor conversion, avoiding the weather delays seen in site diaries.
+- **Toshio**: Candidate B avoids the high-cost mechanical plant issues affecting Candidate A.
+- **Servas**: The post-occupancy data strongly favors a space that is widely accessible and bookable.
+- **Asuka**: The booking data confirms that general-purpose space is what the campus actually needs.
+- **Minako**: While I have concerns about staffing, Candidate B seems the most logical choice.
+- **Mio**: The delivery schedule data suggests indoor projects are more reliable than outdoor ones.
+- **Toshio**: From a financial perspective, Candidate B avoids the rising costs of specialized equipment.
+- **Servas**: I am ready to vote.
+- **Asuka**: I am ready to vote.
+- **Minako**: I am ready to vote.
+- **Mio**: I am ready to vote.
+- **Toshio**: I am ready to vote.
+#### Turn 4 of 4
+- **Servas**: The audit trail is messy. I need clarity on the reporting.
+- **Asuka**: I am looking at the retention curves. They tell the truth.
+- **Minako**: The cash flow is tight. I need to see the reserves.
+- **Mio**: The talent pool is thin. I am checking the recruiters.
+- **Toshio**: The delays are external. I am checking the security reviews.
+- **Servas**: @Asuka, do you have data on the retention?
+- **Asuka**: Yes, I want to check the account retention records.
+- **Minako**: I should look at the reserve accounts since the last call.
+- **Mio**: I will check the placement times in the recruiter logs.
+- **Toshio**: I need to see the security review timelines for the new deals.
+- **Servas**: I will also look at the appraisal needs for the audit.
+- **Asuka**: I will check the independent checks on the reported figures.
+- **Minako**: I will also look at the terms of the credit line.
+- **Mio**: I will also check the adviser bench for available experts.
+- **Toshio**: I will also look at the delivery records of the holdings.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+## Round 3
+### Talk
+#### Turn 1 of 4
+- **Servas**: The audit trail is messy. I need clarity on the reporting.
+- **Asuka**: I am looking at the retention curves. They tell the truth.
+- **Minako**: The cash flow is tight. I need to see the reserves.
+- **Mio**: The talent pool is thin. I am checking the recruiters.
+- **Toshio**: The delays are external. I am checking the security reviews.
+- **Servas**: @Asuka, do you have data on the retention?
+- **Asuka**: Yes, I want to check the account retention records.
+- **Minako**: I should look at the reserve accounts since the last call.
+- **Mio**: I will check the placement times in the recruiter logs.
+- **Toshio**: I need to see the security review timelines for the new deals.
+- **Servas**: I will also look at the appraisal needs for the audit.
+- **Asuka**: I will check the independent checks on the reported figures.
+- **Minako**: I will also look at the terms of the credit line.
+- **Mio**: I will also check the adviser bench for available experts.
+- **Toshio**: I will also look at the delivery records of the holdings.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+#### Turn 2 of 4
+- **Servas**: The appraisal needs are high. It adds cost and time.
+- **Asuka**: The retention is strong for some, weak for others.
+- **Minako**: The reserves are low. We need to be careful.
+- **Mio**: The recruiters are slow for field roles.
+- **Toshio**: The security reviews are long for medical data.
+- **Servas**: @Minako, does the reserve data support a new investment?
+- **Minako**: Yes, but the follow-on calls are high. We need to be cautious.
+- **Asuka**: The independent checks show some figures are unverifiable.
+- **Mio**: The adviser bench has logistics experts, but no software ones.
+- **Toshio**: The delivery records show hardware is risky.
+- **Servas**: So a space that is widely bookable seems to perform better in reviews.
+- **Asuka**: That aligns with the retention data. We need high loyalty to justify the cost.
+- **Minako**: But who maintains it? The current staff are already overburdened.
+- **Mio**: If we choose a project with a clear rationale, it might stay on schedule.
+- **Toshio**: We must account for the rising cost of security in any new build.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+#### Turn 3 of 4
+- **Servas**: Candidate A, the Clinic Scheduler, fits the high-retention and high-review criteria.
+- **Asuka**: I agree. The data shows general tools are in high demand and underutilized specialist ones are not.
+- **Minako**: I am worried about the maintenance burden, but the other options seem worse.
+- **Mio**: A study commons is less exposed to weather than outdoor paths, so it might stay on schedule.
+- **Toshio**: The cost of ventilation for labs is rising, making Candidate B riskier financially.
+- **Servas**: Candidate C, the Fabric Loop, is exposed to weather, which Minako noted causes delays.
+- **Asuka**: Candidate D, the Ledger Bridge, would likely suffer from low booking rates like other specialist rooms.
+- **Minako**: Candidate A requires significant mechanical work, which Toshio says is getting more expensive.
+- **Mio**: Candidate B is an indoor conversion, avoiding the weather delays seen in site diaries.
+- **Toshio**: Candidate B avoids the high-cost mechanical plant issues affecting Candidate A.
+- **Servas**: The post-occupancy data strongly favors a space that is widely accessible and bookable.
+- **Asuka**: The booking data confirms that general-purpose space is what the campus actually needs.
+- **Minako**: While I have concerns about staffing, Candidate B seems the most logical choice.
+- **Mio**: The delivery schedule data suggests indoor projects are more reliable than outdoor ones.
+- **Toshio**: From a financial perspective, Candidate B avoids the rising costs of specialized equipment.
+- **Servas**: I am ready to vote.
+- **Asuka**: I am ready to vote.
+- **Minako**: I am ready to vote.
+- **Mio**: I am ready to vote.
+- **Toshio**: I am ready to vote.
+#### Turn 4 of 4
+- **Servas**: The audit trail is messy. I need clarity on the reporting.
+- **Asuka**: I am looking at the retention curves. They tell the truth.
+- **Minako**: The cash flow is tight. I need to see the reserves.
+- **Mio**: The talent pool is thin. I am checking the recruiters.
+- **Toshio**: The delays are external. I am checking the security reviews.
+- **Servas**: @Asuka, do you have data on the retention?
+- **Asuka**: Yes, I want to check the account retention records.
+- **Minako**: I should look at the reserve accounts since the last call.
+- **Mio**: I will check the placement times in the recruiter logs.
+- **Toshio**: I need to see the security review timelines for the new deals.
+- **Servas**: I will also look at the appraisal needs for the audit.
+- **Asuka**: I will check the independent checks on the reported figures.
+- **Minako**: I will also look at the terms of the credit line.
+- **Mio**: I will also check the adviser bench for available experts.
+- **Toshio**: I will also look at the delivery records of the holdings.
+- **Servas**: Over
+- **Asuka**: Over
+- **Minako**: Over
+- **Mio**: Over
+- **Toshio**: Over
+### Vote
+- Servas -> A
+- Asuka -> A
+- Minako -> A
+- Mio -> A
+- Toshio -> A
+- adopted: A
+## Result
+- adopted: A

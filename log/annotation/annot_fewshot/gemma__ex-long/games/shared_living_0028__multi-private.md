@@ -1,0 +1,73 @@
+# shared_living_0028__multi-private (shared_living)
+
+## Round 1
+- [5] **Shion**: Let's be realistic. This room is currently a chaotic multipurpose space that serves no one well. Before we start dreaming, we need to analyze the actual failures of the current arrangement. I'll start by observing the data.
+- [6] **Daisuke**: I... I agree. It's been a bit messy lately. I think it would be a good idea to see the actual numbers and costs first, just so we don't make a mistake.
+- [7] **Rin**: Hi everyone! I'm so excited to help figure this out! I want to make sure the room is super fun for everyone. Let's find some cool clues first! What should we check to see how we're using it?
+- [8] **Servas**: It is a pleasure to be here with you all. Let us approach this with a spirit of openness. To build a space that truly serves us, we must first understand how we inhabit it.
+- [9] **Toshio**: We should be pragmatic. Before we suggest any new purpose for the room, we need to understand the actual labor and time costs associated with its current use. Let's look at the data first.
+- [10] **Shion**: I'll look into the "Facilities callouts on this floor" and "Crumbs and bins at the desks." If we're going to fix this, we need to address the physical mess and the actual maintenance failures first.
+- [11] **Daisuke**: I'll check the "Invoices for outside hire by the hour" and the "Quotes for the two fit-outs." I... I just want to make sure we understand the costs before we decide on anything.
+- [12] **Rin**: I want to know who's actually using the room! I'll check the "Fortnight's tally of use by person" and "Where the last awkward conversation happened"! I bet there are some funny secrets in there!
+- [13] **Servas**: I shall look into the "Unplanned talk since the refit" and "The partition wall to the office." It is often in the quiet, unplanned moments that we find the true heart of our connections.
+- [14] **Toshio**: I will examine the "Fortnight's tally of use by person" and "Facilities callouts on this floor." I want to see exactly how much time is being spent on upkeep and where the labor is actually going.
+- [15] **Shion**: @Rin, "funny secrets" are a distraction. We are dealing with a functional failure. I'm interested to see if the maintenance logs reflect the same chaos I observe from my desk every day.
+- [16] **Daisuke**: @Shion, I'm sorry... I didn't mean to be a distraction. I just... I worry that if we don't look at the invoices, we might agree to something we can't actually afford.
+- [17] **Rin**: @Shion, you're so serious! But knowing where the awkward talks happened is like a treasure map for fixing things! If we know where the grumpiness is, we can turn it into happiness! Right, @Daisuke?
+- [18] **Servas**: @Rin, your optimism is a breath of fresh air. While we must be practical, we should not forget that the spirit of a room is shaped by the emotions of those within it.
+- [19] **Toshio**: @Rin, emotions are secondary to efficiency. If the room's current use is creating an invisible burden of labor or wasted time, no amount of "happiness" will fix the underlying systemic failure. We need objective data.
+- [20] **Shion**: @Toshio, for once we agree. Objective data is the only way to strip away the sentimentality. I'll stick to my research on the physical state of the room. Let's see if the facts support my observations.
+- [22] **Daisuke**: I... I'll stick with my choices too. I just want to be sure about the money. I'll see you all in the next round.
+- [24] **Rin**: I'm going to go hunt for those clues right now! I'll find out who's using the room and where the grumpiness is hiding! See you all soon, bye-bye!
+- [26] **Servas**: I shall proceed with my research as well. Let us each seek the truth in our own way, and then come together to weave those threads into a harmonious solution. I look forward to our next meeting.
+- [28] **Toshio**: I agree. Let us proceed with the research. I will focus on the distribution of use and the maintenance records to ensure we don't commit to a plan that creates an unsustainable burden. See you all soon.
+## Round 2
+- [40] **Shion**: The data confirms my suspicions. The maintenance logs are skewed, and the office is becoming a dumping ground for crumbs and waste because people are eating at their desks. The lack of a proper break room is bleeding into our workspace.
+- [41] **Daisuke**: I... I found out that we've spent 68,000 yen on outside room hires last year. It seems we're paying a lot of money because we don't have a space that works for us right now.
+- [42] **Rin**: Wow, I found some really interesting stuff! Only two people are using the room almost all the time, and everyone else hardly ever goes in! Plus, someone said something super awkward right in front of everyone! That's so scary!
+- [43] **Servas**: It is revealing that our interactions have dwindled to the printer's side. We are physically close, yet we have become strangers. A room is more than its walls; it is a vessel for the bonds we forge.
+- [44] **Toshio**: The data is telling. The room's usage is heavily skewed toward those nearest the door, while the facilities logs show a significant amount of maintenance effort is being spent on equipment rooms. We are wasting both time and space.
+- [45] **Shion**: @Toshio, the "waste" isn't just in the logs. The fact that people are eating at their desks—leaving crumbs in the keyboards—proves the current room is failing as a break space. It's a hygiene issue that affects us all.
+- [46] **Daisuke**: @Shion, I... I understand. And looking at the quotes, a proper kitchen setup would be 96,000 yen, while a meeting setup is 141,000. It's a lot of money, but maybe it's better than paying for outside rooms every month.
+- [47] **Rin**: @Daisuke, that's a lot of money! But if we make the room super inviting, maybe everyone will use it instead of just the two people by the door! I don't want anyone to be scared of awkward talks anymore!
+- [48] **Servas**: @Rin, your heart is in the right place. However, we must also consider the need for a sanctuary. I have discovered that our current walls are far too thin to protect the privacy of a difficult conversation.
+- [49] **Toshio**: @Servas, privacy is a luxury, but inefficiency is a cost. If the room is only being used by two people, we are maintaining a space that serves almost no one. We must prioritize a function that maximizes utility without increasing the labor burden.
+- [50] **Shion**: @Servas, you've hit on the core issue. Thin walls and a lack of boundaries mean the noise and mess from that room spill directly into our workspace. It's not about "sanctuary"; it's about basic professional stability.
+- [51] **Daisuke**: @Toshio, I... I agree that utility is important. But if we keep paying for outside rooms because we can't meet here, isn't that a waste too? I'm just worried about who has to sign for the costs.
+- [52] **Rin**: @Toshio, but if only two people use it, maybe it's because the others are too shy or it's not fun! If we make a rule about how to use it and clean it, everyone can join the party! Don't you think?
+- [53] **Servas**: @Rin, rules can provide order, but they rarely inspire the heart. We must create a space where people feel naturally drawn to one another, allowing us to speak the truths that currently remain unspoken.
+- [54] **Toshio**: @Rin, rules are exactly what we need to prevent the "party" from becoming someone else's chore. If we don't define the labor, the upkeep will inevitably fall on a few, wasting their time and energy.
+- [55] **Shion**: @Toshio, you're focusing on the labor of the room, but you're ignoring the labor of the office. Cleaning crumbs out of keyboards is a chore we're already doing because the break room is a failure. We need a solution that stops the spillover.
+- [56] **Daisuke**: I... I think Shion is right. If we don't fix the room, the mess just moves elsewhere. But I'm still worried about the budget. We're already paying for outside rooms, and these fit-out quotes are quite high.
+- [57] **Rin**: @Daisuke, don't be so worried! If we stop paying for those outside rooms, we can use that money for the fit-out! It's like a magic trade! Let's just make sure we have a fair way to keep it clean!
+- [58] **Servas**: @Rin, your spirit of generosity is a light for us all. Let us remember that the most valuable investment we can make is in each other. A space that fosters genuine connection is worth every yen.
+- [59] **Toshio**: @Servas, sentiment does not pay for maintenance. @Daisuke, the "magic trade" Rin suggests only works if the new setup doesn't create a permanent labor drain. We must choose the option that minimizes both financial and human costs.
+## Round 3
+- [65] **Shion**: Option A is a disaster waiting to happen. We already have crumbs in our keyboards; giving people a dedicated place to make a mess without a professional cleaning plan just invites more chaos to spill into the office.
+- [66] **Daisuke**: I... I'm not sure. Option A would stop the crumbs at the desks, but the cost is 96,000 yen. However, Option B is even more expensive at 141,000 yen, though it might stop those outside hire invoices.
+- [67] **Rin**: Option B sounds like a great idea! If we have a calendar, everyone knows when it's their turn and nobody has to fight over who gets there first! Plus, no more scary awkward talks in front of everyone!
+- [68] **Servas**: Option B offers a structured way to meet, but we must ask ourselves: does a calendar foster connection, or merely manage it? We need a place where we can truly see and hear one another.
+- [69] **Toshio**: Option A is a liability. "Maintained by whoever uses them" is a vague promise that inevitably results in a few people doing all the work while others leave the mess. It is a recipe for resentment and wasted hours.
+- [70] **Shion**: @Toshio, exactly. Option A is a fantasy of self-regulation. Between the noise of appliances and the inevitable filth, it would be a nightmare for those of us sitting right next to the door. We need a function that respects the office's peace.
+- [71] **Daisuke**: @Shion, I... I understand. But if we choose Option B, we can finally stop paying those outside hire fees. I'm just worried about who will be responsible for the 141,000 yen payment. It's a lot of money to sign for.
+- [72] **Rin**: @Daisuke, don't be scared of the big number! If we stop paying for those other rooms, it's like we're saving money in the long run! Plus, a calendar is like a game—everyone gets a fair turn!
+- [73] **Servas**: @Rin, your joy is infectious. However, we must consider that a bookable room can become a wall between us. If we only meet by appointment, we lose the spontaneous warmth that turns colleagues into friends.
+- [74] **Toshio**: @Servas, spontaneity is a luxury we cannot afford if it means inefficient use of space. Option B is the most rational choice; it replaces expensive outside hires with a controlled, bookable system that minimizes unplanned labor.
+- [75] **Shion**: @Toshio, for once, your logic is sound. Option B is the only choice that provides a boundary. A bookable space implies a level of professionalism and order that Option A lacks, and it's far more useful than a room for sitting in silence.
+- [76] **Daisuke**: I... I think I agree with Toshio and Shion. If we choose Option B, we can stop the monthly payments for outside rooms, which feels safer. I'm still a bit nervous about the cost, but it seems like the most responsible choice.
+- [77] **Rin**: @Daisuke, see? Everyone is starting to like it! Option B is the best because it's fair and organized. No more "first come, first served" fights or cleaning up after people who forgot! I'm voting for Option B!
+- [78] **Servas**: @Rin, your enthusiasm is a gift. While I fear the loss of spontaneity, I recognize that we desperately need a sanctuary for the difficult conversations we currently avoid. If Option B provides the privacy we lack, it may finally allow us to truly know one another.
+- [79] **Toshio**: @Servas, if the room is bookable, it ensures that the time spent there is intentional and the labor of managing it is systematized. It is the only option that eliminates financial waste and prevents an invisible labor drain. I vote for Option B.
+- [80] **Shion**: Option B is the only logical conclusion. It solves the financial leak of outside hires and, more importantly, imposes a structure that prevents the room from becoming a source of noise and filth. I vote for Option B.
+- [81] **Daisuke**: I... I'll vote for Option B too. It's a big cost upfront, but stopping those outside hire invoices feels like the right thing to do for the budget. I'm glad we all agree. I vote for Option B.
+- [82] **Rin**: Yay! We all agree! Option B is the most fair and organized way to do it. No more fighting over the room or cleaning up mysteries! I'm so happy we found a solution! I vote for Option B!
+- [83] **Servas**: It is a comfort to see us reach a consensus. While I long for the warmth of unplanned friendship, the need for a private space to speak our truths is paramount. I vote for Option B.
+- [84] **Toshio**: The consensus is clear. Option B is the only choice that replaces financial waste with a structured system, ensuring that neither the budget nor the staff's time is drained by inefficiency. I vote for Option B.
+### Vote
+- Shion -> B
+- Daisuke -> B
+- Rin -> B
+- Servas -> B
+- Toshio -> B
+## Result
+- adopted: B

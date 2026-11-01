@@ -1,0 +1,73 @@
+# candidate_selection_0010__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I worry we focus on flashy demos instead of daily floor losses.
+- [6] **May**: Honestly, I’m tired of proposals that ignore who actually does the work.
+- [7] **Shunichi**: We keep promising dates based on assumptions no one has verified.
+- [8] **Ryuji**: I need to know where the money comes from before we pick anything.
+- [9] **Kenji**: Why do we keep picking projects that fail in the same way?
+- [10] **Daisuke**: @Kenji, do you have specific examples of those failures?
+- [11] **May**: @Ryuji, budget is fine, but who covers the overtime?
+- [12] **Shunichi**: @Daisuke, floor losses are real, but are they measurable?
+- [13] **Ryuji**: @May, overtime is a symptom. The root is unclear funding sources.
+- [14] **Kenji**: @Daisuke, yes, the last three rollouts all stalled at month six.
+- [15] **Daisuke**: I want to see the incident logs to understand the actual downtime.
+- [16] **May**: I’m checking the staffing of the coordination group to see who’s drowning.
+- [17] **Shunichi**: I’ll look into network coverage at customer plants. That’s always the blind spot.
+- [18] **Ryuji**: I’m investigating the capital budget and software allowance. That’s my priority.
+- [19] **Kenji**: I’m looking into the outcomes of the last three internal rollouts.
+- [20] **Daisuke**: I also want to check the time lost to copying existing records.
+- [21] **May**: I’m also checking the record of cross-unit standardization efforts.
+- [22] **Shunichi**: I’m also checking the in-house developer availability. We can’t build on air.
+- [23] **Ryuji**: I’m also checking the vendor licence pricing versus fixed-fee work.
+- [24] **Kenji**: I’m also checking the misrouted deliveries in the incident logs.
+## Round 2
+- [35] **Daisuke**: The logs show eleven misrouted deliveries, all from duplicate address records.
+- [36] **May**: @Daisuke, that’s exactly why I checked the staffing. Two people are doing the work of five.
+- [37] **Shunichi**: @May, staffing is a symptom. The real issue is the network.
+- [38] **Ryuji**: @Shunichi, the network is fine. The budget is the problem.
+- [39] **Kenji**: @Daisuke, the last three rollouts show the same pattern. Daily entry tools get dropped.
+- [40] **Daisuke**: @Kenji, I found we lose an hour daily just copying records.
+- [41] **May**: @Daisuke, that’s the smoking gun. We treat staff time as free.
+- [42] **Shunichi**: @Ryuji, the network isn’t fine. Half the customer sites lose coverage for hours.
+- [43] **Ryuji**: @Shunichi, coverage is a vendor issue. The budget is a company issue.
+- [44] **Kenji**: @May, the pattern is clear. We fund tools that need everyone to type.
+- [45] **Daisuke**: @Shunichi, if the network is down, the copying problem gets worse.
+- [46] **May**: @Daisuke, yes. The coordination group is drowning because the network fails.
+- [47] **Shunichi**: @Daisuke, exactly. The network is the root. The copying is the symptom.
+- [48] **Ryuji**: @Shunichi, the network is a vendor issue. The budget is a company issue.
+- [49] **Kenji**: @Ryuji, the budget is fine. The pattern is the problem.
+- [50] **Daisuke**: @Kenji, the pattern is clear. We fund tools that need everyone to type.
+- [51] **May**: @Daisuke, yes. The coordination group is drowning because the network fails.
+- [52] **Shunichi**: @Ryuji, the network is the root. The copying is the symptom.
+- [53] **Ryuji**: @Shunichi, the network is a vendor issue. The budget is a company issue.
+- [54] **Kenji**: @Ryuji, the budget is fine. The pattern is the problem.
+## Round 3
+- [60] **Daisuke**: @Kenji, the last three rollouts show the same pattern. Daily entry tools get dropped.
+- [61] **May**: @Daisuke, that’s exactly why I checked the staffing. Two people are doing the work of five.
+- [62] **Shunichi**: @Ryuji, the network isn’t fine. Half the customer sites lose coverage for hours.
+- [63] **Ryuji**: @Shunichi, the network is a vendor issue. The budget is a company issue.
+- [64] **Kenji**: @Daisuke, the last three rollouts show the same pattern. Daily entry tools get dropped.
+- [65] **Daisuke**: @Shunichi, if the network is down, the copying problem gets worse.
+- [66] **May**: @Daisuke, yes. The coordination group is drowning because the network fails.
+- [67] **Shunichi**: @Daisuke, exactly. The network is the root. The copying is the symptom.
+- [68] **Ryuji**: @Shunichi, the network is a vendor issue. The budget is a company issue.
+- [69] **Kenji**: @Ryuji, the budget is fine. The pattern is the problem.
+- [70] **Daisuke**: @Kenji, the pattern is clear. We fund tools that need everyone to type.
+- [71] **May**: @Daisuke, yes. The coordination group is drowning because the network fails.
+- [72] **Shunichi**: @Ryuji, the network is the root. The copying is the symptom.
+- [73] **Ryuji**: @Shunichi, the network is a vendor issue. The budget is a company issue.
+- [74] **Kenji**: @Ryuji, the budget is fine. The pattern is the problem.
+- [75] **Daisuke**: @Kenji, the pattern is clear. We fund tools that need everyone to type.
+- [76] **May**: @Daisuke, yes. The coordination group is drowning because the network fails.
+- [77] **Shunichi**: @Ryuji, the network is the root. The copying is the symptom.
+- [78] **Ryuji**: @Shunichi, the network is a vendor issue. The budget is a company issue.
+- [79] **Kenji**: @Ryuji, the budget is fine. The pattern is the problem.
+### Vote
+- Daisuke -> C
+- May -> A
+- Shunichi -> A
+- Ryuji -> C
+- Kenji -> C
+## Result
+- adopted: C

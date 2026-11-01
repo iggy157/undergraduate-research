@@ -1,0 +1,73 @@
+# shared_living_0013__single-online (shared_living)
+
+## Round 1
+- [5] **Shizue**: Let's start by looking at the drawn plan against the staff survey and the arrival times in the badge records.
+- [6] **Toshio**: I’d like to check the unplanned seat shuffles in the past year and the facilities quote for re-running power and network.
+- [7] **Daisuke**: I’d like to look into the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [8] **Mio**: I want to check the morning routine on the pilot floor upstairs and the unplanned seat shuffles in the past year.
+- [9] **Shunichi**: I’ll look into the sound meter readings across the room and the physio's note from the workstation check.
+- [10] **Shizue**: @Toshio, I hope the shuffle history shows us how painful those changes really were.
+- [11] **Toshio**: @Shizue, I suspect the interruptions were worse than the paperwork suggested.
+- [12] **Daisuke**: I’m hoping the billing details will show us if we can actually afford the changes we’re considering.
+- [13] **Mio**: @Shunichi, I’m curious if the sound levels will make a real difference to how we work.
+- [14] **Shunichi**: @Mio, I suspect the numbers will be more decisive than our guesses.
+- [15] **Shizue**: @Daisuke, I hope the billing numbers help us understand what we are really paying for, not just the desks.
+- [16] **Toshio**: @Daisuke, I suspect the quote will confirm that moving is expensive, but I need to know if the shuffles were worth it.
+- [17] **Daisuke**: @Toshio, I’m worried the quote will show we can’t afford to change it again later.
+- [18] **Mio**: @Daisuke, I hope the billing shows we aren’t paying for empty space while we argue about where to sit.
+- [19] **Shunichi**: @Mio, I suspect the sound data will show exactly where the noise concentrates, which might matter more than the layout.
+- [20] **Shizue**: @Shunichi, I hope the comfort details help us sit well, but I worry we are forgetting who sits beside whom.
+- [21] **Toshio**: @Shizue, I agree. We must decide who takes the worse spots deliberately, not by accident.
+- [22] **Daisuke**: I just want to make sure we aren’t spending money we don’t have on a layout that might not even work.
+- [23] **Mio**: @Shizue, I agree. We need to know what the transition costs us in time, not just money, before we commit.
+- [24] **Shunichi**: @Mio, I suspect the comfort data will show that a good seat is worth more than a good view.
+## Round 2
+- [35] **Shizue**: @Daisuke, I found the badge records show our arrivals are scattered, so any first-come seating would be decided before half of us are even here.
+- [36] **Toshio**: @Daisuke, the quote is six thousand yen per desk, and it repeats for every future change.
+- [37] **Daisuke**: @Toshio, that quote is worrying. But the billing shows we pay for floor area, not people, so those empty desks still cost us forty-one thousand yen monthly.
+- [38] **Mio**: @Shunichi, the pilot floor took four to nine minutes just to settle in each morning. That’s a lot of lost time.
+- [39] **Shunichi**: @Mio, the physio’s note says a good setting takes days of small corrections to settle, so that morning time is actually necessary.
+- [40] **Shizue**: @Mio, I found the drawn plan gives only four desks a window, yet daylight was the top complaint in the survey.
+- [41] **Toshio**: @Mio, the shuffles dragged on for two weeks each time, with half-packed boxes everywhere.
+- [42] **Daisuke**: @Toshio, two weeks of chaos for every change is unacceptable. We need a layout that stays put, or we’ll be paying that quote forever.
+- [43] **Mio**: @Toshio, two weeks of chaos confirms my fear. We need a layout that minimizes that transition pain, not just the cost.
+- [44] **Shunichi**: @Toshio, I suspect those two weeks were mostly spent fighting the noise and the bad chair settings, not just moving boxes.
+- [45] **Shizue**: @Shizue, I found the badge records show our arrivals are scattered, so any first-come seating would be decided before half of us are even here.
+- [46] **Toshio**: @Daisuke, the quote confirms moving is expensive, but the shuffles show staying put is painful. We need a middle ground.
+- [47] **Daisuke**: @Toshio, I agree. We must stop paying for empty space and avoid the cost of constant changes.
+- [48] **Mio**: @Shunichi, so the settling time is unavoidable? That means any layout change steals days from our already fragmented mornings.
+- [49] **Shunichi**: @Mio, Yes, the body needs time to adjust. But if we pick the right spot, those days are a one-time cost, not a recurring tax.
+- [50] **Shizue**: @Toshio, I agree. We must choose a layout that respects our scattered arrivals and avoids the pain of constant shuffling.
+- [51] **Toshio**: @Daisuke, I agree. We must stop paying for empty space and avoid the cost of constant changes.
+- [52] **Daisuke**: @Toshio, I agree. We need a stable arrangement that stops the bleeding, but I’m still anxious about the initial cost.
+- [53] **Mio**: @Shunichi, I see. So the pain is temporary, but the cost is permanent. We need a layout that minimizes that initial shock.
+- [54] **Shunichi**: @Mio, Exactly. One painful week now saves us from a lifetime of bad posture and noise.
+## Round 3
+- [60] **Shizue**: @Everyone, the options are here. A is free address, B is fixed desks by function, and C is rotating blocks.
+- [61] **Toshio**: @Shizue, Option A is out. The badge records prove first-come seating is unfair, and the quote makes it financially reckless.
+- [62] **Daisuke**: @Toshio, I agree. Option A is too risky. I’m worried about the cost if we have to change it again later.
+- [63] **Mio**: @Toshio, I agree. Option A is out. The morning routine data shows the daily chaos would destroy our already fragmented gaps.
+- [64] **Shunichi**: @Toshio, I agree. Option A is out. The physio’s note proves my body needs a stable spot to settle, and the noise data shows I can’t just pick a random desk daily.
+- [65] **Shizue**: @Toshio, I agree. Option A is out. The badge records show our arrivals are scattered, so any first-come seating would be decided before half of us are even here.
+- [66] **Toshio**: @Shizue, Agreed. Now, B or C? B is stable but rigid; C is flexible but painful. I need to know who takes the noise.
+- [67] **Daisuke**: @Toshio, I lean toward B. C means repeated moves, and we can’t afford the quote or the disruption again.
+- [68] **Mio**: @Toshio, I lean toward B. C means repeated moves, and the morning routine data shows the daily chaos would destroy our already fragmented gaps.
+- [69] **Shunichi**: @Toshio, I lean toward B. C means repeated moves, and the physio’s note proves my body needs a stable spot to settle, and the noise data shows I can’t just pick a random desk daily.
+- [70] **Shizue**: @Toshio, I lean toward B. C means repeated moves, and the badge records show our scattered arrivals would make the transitions chaotic and unfair.
+- [71] **Toshio**: @Daisuke, I agree. B is the only option that respects the budget and the body. We just need to assign the window seats fairly.
+- [72] **Daisuke**: @Toshio, I agree. B is the only option that respects the budget and the body. We just need to assign the window seats fairly.
+- [73] **Mio**: @Toshio, I agree. B is the only option that respects the budget and the body. We just need to assign the window seats fairly.
+- [74] **Shunichi**: @Toshio, I agree. B is the only option that respects the budget and the body. We just need to assign the window seats fairly.
+- [75] **Shizue**: @Toshio, I agree. B is the only option that respects the budget and the body. We just need to assign the window seats fairly.
+- [76] **Toshio**: @Everyone, I vote for B. Let us record who takes the window seats and who takes the noise, so it is a choice, not an accident.
+- [77] **Daisuke**: @Toshio, I vote for B. Please ensure the window seats are assigned fairly, so the cost is shared and not just endured by a few.
+- [78] **Mio**: @Toshio, I vote for B. Please ensure the window seats are assigned fairly, so the cost is shared and not just endured by a few.
+- [79] **Shunichi**: @Toshio, I vote for B. I will take the window seat; the quiet and the settled chair are worth more to me than the view.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: Hi everyone! I'm so happy to be part of this! I really want to make sure we pick something that works for everyone. I'll look into the bus links in the two outer wards and the attendance sheets from former outreach stops!
+- [6] **Benjamin**: It is a pleasure to meet you all. To ensure our ambitions are grounded in reality, I shall examine the two programmes begun six years ago and the county grant terms and the endowment.
+- [7] **Shion**: I believe we should be cautious about the operational side. I will examine the volunteer register and supervision training, as well as the neighbourhood associations and tool certification. Let's see if we actually have the capacity to execute.
+- [8] **Minako**: I believe we must understand the long-term financial stability of our options. I will look into the county grant terms and the endowment, as well as the running and equipment lines from last year.
+- [9] **Daisuke**: Um... hello. I want to make sure we don't accidentally leave anyone out. I think I'll look into the evening room bookings and remote catalogue use, and the winter road closures north of the river.
+- [10] **Yumi**: It sounds like we're all looking at really important things! I love how we're thinking about both the money and the people. I can't wait to see what we find out together!
+- [11] **Benjamin**: Indeed, Yumi. A diverse array of inquiries is the only way to avoid the pitfalls of a narrow perspective. I suspect the archives may hold more truth than our current enthusiasm.
+- [12] **Shion**: Enthusiasm is a fine motivator, but it is a poor substitute for a skill audit. I am more interested in whether our current roster can actually handle the burden of a new commitment.
+- [13] **Minako**: @Shion, a skill audit is useful, but it must be paired with a sustainable funding model. If the financial structure is flawed, even the most skilled team will eventually lack the resources to operate.
+- [14] **Daisuke**: I... I agree with Minako. And Shion. I just hope that whatever we choose doesn't make it harder for some people to get to the library. I'm a bit worried about that.
+- [15] **Yumi**: @Daisuke, don't worry! That's why we're checking the bus links and road closures. We'll make sure everyone can join in on the fun! I'm sure we can find a way to help everyone.
+- [16] **Benjamin**: @Yumi, your optimism is a refreshing tonic. However, I believe we must be careful not to mistake a "way to help" for a viable plan. Let us see if the records support such hope.
+- [17] **Shion**: Hope is a variable I cannot calculate. I am far more interested in the gap between what we promise the community and what our staff is actually qualified to deliver. Let us proceed to the findings.
+- [18] **Minako**: It is important that we remain objective. While we consider accessibility and staffing, we must ensure the funding is shaped to last beyond the first year. I am ready to review the data.
+- [19] **Daisuke**: I... I think I'm ready too. I hope the information helps us make a choice that's fair for everyone. I'll wait to see what you all find.
+- [20] **Yumi**: I'm so excited to see what we discover! I hope the information we find helps us create something wonderful for the whole community. Let's all do our best!
+- [22] **Benjamin**: A most spirited start to our deliberations. I shall now retreat into the quiet of the archives to see if history has any warnings for us. I look forward to our reconvening.
+- [24] **Shion**: I have a clear picture of what I need. Let us see if the records reveal the incompetence I suspect, or if we actually have the skills to match our ambitions. I am ready.
+- [26] **Minako**: I agree. Let us proceed to the findings with a clear mind. I look forward to seeing if the financial records reflect a sustainable path forward for the library system. I am ready.
+- [28] **Daisuke**: I'll... I'll go look into those things now. I hope I can be helpful to the group. I'm ready.
+## Round 2
+- [40] **Yumi**: Oh wow, I found some really important things! It turns out people in the outer wards really loved the outreach stops, but they lost their bus links! Now it's so hard for them to get to us. We have to help!
+- [41] **Benjamin**: My findings suggest a curious dichotomy. While a digitisation effort from six years ago collapsed into a chaotic heap of unindexed images, the partner-run evening groups have flourished independently. History, it seems, is a fickle teacher.
+- [42] **Shion**: My findings are quite telling. We have a handful of skilled volunteers, but the professional staff is completely unqualified to supervise them. Furthermore, we've lost our only certified technician for power tools. We are operating in a vacuum of expertise.
+- [43] **Minako**: The financial records reveal a systemic risk. The county grant only covers session fees for the first year, meaning the operating budget must absorb all costs thereafter. Additionally, we are overspending on vehicle running costs.
+- [44] **Daisuke**: I... I found out that the roads north of the river close quite often in winter, but the community halls there still manage to stay open. Also, people are using the catalogue late at night, but our buildings are already locked.
+- [45] **Yumi**: @Daisuke, that's so interesting! Even if the roads close, people still want to get out and use the halls. It just shows how much they really want these services! We have to find a way to reach them!
+- [46] **Benjamin**: @Yumi, while the desire for service is admirable, we must be wary of romanticizing the struggle. If the roads are closed and the buses are gone, a "desire" for services does not magically create a bridge.
+- [47] **Shion**: @Benjamin, for once, we agree. Desire is irrelevant if the infrastructure is broken. But the internal infrastructure is even worse; we are planning expansions while our actual supervisory capacity is non-existent. It is a recipe for failure.
+- [48] **Minako**: @Shion, you are correct that capacity is a risk, but we must also address the funding gap. If we implement a service that relies on the county grant, we will face a budget crisis in the second year.
+- [49] **Daisuke**: I... I think Benjamin is right. If the buses are gone and the roads close, it doesn't matter how much people want to come. It feels like we're already excluding them just by where we are.
+- [50] **Yumi**: @Daisuke, that's why we should bring the library to them! If they can't get to us because of the buses or the snow, we can go to them. It would be so wonderful to see those smiling faces again!
+- [51] **Benjamin**: @Yumi, your vision of a mobile library is charming, but I suspect we are merely reinventing a wheel that has already flattened. We must ask if such outreach is sustainable or simply a temporary gesture.
+- [52] **Shion**: @Yumi, your "wonderful" vision ignores the reality of the roster. Who is going to supervise these mobile units? We can't even certify a power tool, let alone manage a remote operation without qualified staff. It's naive.
+- [53] **Minako**: @Yumi, bringing the library to the people is a noble goal, but we must be pragmatic. My findings show we are already overspending on vehicle running costs. A mobile expansion could bankrupt our transport budget.
+- [54] **Daisuke**: I... I don't want to be a bother, but if we're already overspending on vehicles, maybe a mobile service would just make things worse. And if the roads close, we might not even reach them.
+- [55] **Yumi**: @Minako, @Daisuke, I didn't realize the vehicle costs were so high! I'm sorry! But we can't just give up on the people in the outer wards. There must be a way to help them that doesn't break the budget!
+- [56] **Benjamin**: @Yumi, your heart is in the right place, but we must avoid the siren song of "some way." Let us seek a solution that is structurally sound, rather than one that relies on a miracle.
+- [57] **Shion**: Miracles are for those who cannot plan. We are currently a library system that cannot supervise its own volunteers or maintain its tools. Any proposal that adds more to the staff's plate without adding actual skills is a fantasy.
+- [58] **Minako**: We must look for a proposal that is both operationally lean and financially sustainable. If we choose a project that relies on temporary grants or increases our vehicle dependency, we are simply delaying an inevitable failure.
+- [59] **Daisuke**: I... I agree with Minako. Maybe we should look for something that doesn't depend on cars or our buildings' hours. If we can find a way to reach people without those barriers, it might be fairer.
+## Round 3
+- [65] **Yumi**: Looking at the options, I really want to help the people in the outer wards! But @Minako and @Daisuke are right about the cars. Maybe the Language Learning Circles are a great way to reach everyone!
+- [66] **Benjamin**: @Yumi, the Language Learning Circles are indeed an intriguing prospect. They mirror the partner-run evening groups from six years ago, which, unlike our digitisation attempts, proved to be remarkably self-sustaining. It is a rare instance of history providing a viable blueprint.
+- [67] **Shion**: The Language Learning Circles are the only option that doesn't rely on our nonexistent technical expertise. A Maker Workshop is a joke when we can't even certify a power tool, and the Digital Archive is a proven failure.
+- [68] **Minako**: I agree with Shion and Benjamin. The Language Learning Circles are the most sustainable choice. They avoid the vehicle costs of the Mobile Branch and the technical gaps of the Maker Workshop, while utilizing a partner-led model.
+- [69] **Daisuke**: I... I think the Language Learning Circles are a good idea. Since they use partner organizations, they might be able to meet in those community halls that stay open, even when the roads are closed. It feels... safer.
+- [70] **Yumi**: @Daisuke, that's a wonderful point! If we use the community halls, we can reach the people who can't get to us, and it won't matter if the buses are gone or the roads are snowy! It's just perfect!
+- [71] **Benjamin**: It is a rare pleasure to see a proposal that satisfies both the heart and the ledger. By leveraging partners, we avoid the administrative collapse that plagued our previous digitisation efforts and the financial drain of a fleet.
+- [72] **Shion**: It is a rare moment of alignment. The Circles shift the burden of expertise and supervision onto the partners, which is the only logical move given that our own staff is currently a void of qualified supervisors.
+- [73] **Minako**: Furthermore, the partner-led structure of the Language Learning Circles likely mitigates the risk of the second-year budget cliff. By sharing the operational burden with community organizations, we ensure the service remains viable after the initial grant expires.
+- [74] **Daisuke**: I... I'm glad we all agree. It makes me feel better knowing we've found a way to help people without making it harder for them to get there. I think I'm ready to vote.
+- [75] **Yumi**: I'm so happy we all found a solution that works! The Language Learning Circles will bring people together and help everyone, no matter where they live. I'm totally ready to vote for them!
+- [76] **Benjamin**: I find the logic inescapable. We have successfully navigated the pitfalls of technical incompetence, financial instability, and geographical barriers. To choose any other path would be to ignore the lessons of our own archives. I am ready.
+- [77] **Shion**: I have no reason to deviate from the consensus. The Circles are the only option that doesn't assume our staff possesses skills they clearly lack. It is a pragmatic choice for a broken system. I am ready.
+- [78] **Minako**: I am also ready. The Language Learning Circles provide a balanced approach that respects our financial constraints and operational gaps while still serving the community. I vote for the Language Learning Circles.
+- [79] **Daisuke**: I... I agree. It's a relief that we found something that doesn't rely on the roads or our own buildings' hours. I'll vote for the Language Learning Circles too.
+- [80] **Yumi**: I'm just so glad we could all agree on something that helps everyone! It's going to be so wonderful to see the community connecting through languages. I vote for the Language Learning Circles!
+- [81] **Benjamin**: It has been a most efficient deliberation. By honoring the ghosts of our past failures and the realities of our present constraints, we have found a path of genuine stability. I cast my vote for the Language Learning Circles.
+- [82] **Shion**: The logic is sound. We avoid the disaster of a Maker Workshop we cannot supervise and a mobile service we cannot afford. I cast my vote for the Language Learning Circles.
+- [83] **Minako**: I concur. The Language Learning Circles are the only option that aligns with our financial reality and operational capacity. I cast my final vote for the Language Learning Circles.
+- [84] **Daisuke**: I... I'm really glad we could find a way to be fair to everyone. It makes me feel much better. I cast my final vote for the Language Learning Circles.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

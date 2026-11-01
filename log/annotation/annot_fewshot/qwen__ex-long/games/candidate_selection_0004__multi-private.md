@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I’m worried the diggers will hit surprises and the dates will slip. Let’s check the ground conditions and the firms tendering for earth-moving.
+- [6] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual post-occupancy costs versus the original budget estimates.
+- [7] **Minato**: I wonder who will actually look after the park every day. The rota feels so short. I want to see the groundskeeping roll and bought-in services.
+- [8] **Minako**: I’m concerned about the long-term durability of our past projects. I want to examine the condition of works from the earlier programme to see what actually survived.
+- [9] **Jonathan**: I worry about the quiet costs that emerge after the ribbon is cut. I want to examine the upkeep ledger spend per hectare to see the true annual burden.
+- [10] **Kenji**: @Benjamin, that’s smart! But I’m still stuck on the ground. Let’s check the depot phasing notes to see how they handle site hoarding.
+- [11] **Benjamin**: @Kenji, hoarding is just a mask for the real mess. I need to see the drainage callouts and August heat readings to understand the ground’s actual behavior.
+- [12] **Minato**: @Benjamin, the ground is important, but I’m still worried about the people. Who will water the plants when the sun is hot?
+- [13] **Minako**: @Minato, the people matter, but the ground dictates their workload. I will examine the condition of works from the earlier programme to see what actually survived.
+- [14] **Jonathan**: @Minako, durability is key. I’ll also review the terms of the regional habitat fund to see if it covers long-term maintenance.
+- [15] **Kenji**: @Minato, I hear you! But if the ground shifts, the plants suffer. I’ll check the regional firms tendering for earth-moving to see who can handle the surprises.
+- [16] **Benjamin**: @Minato, the ground dictates the workload. I’ll examine the drainage callouts and August heat readings to see how the site actually behaves under stress.
+- [17] **Minato**: @Benjamin, I understand. But I am still curious about the people. I will look at the groundskeeping roll and the volunteer groups to see who helps.
+- [18] **Minako**: @Minato, I appreciate your focus on the people. I will examine the condition of works from the earlier programme and the record of the eastern avenue planting to see what actually endured.
+- [19] **Jonathan**: @Minako, I agree. I will examine the upkeep ledger spend per hectare and the terms of the regional habitat fund to understand the true long-term cost.
+- [20] **Kenji**: I’ll stick with my two choices: the regional firms tendering for earth-moving and the depot phasing notes. I need to know if the dates are real!
+- [21] **Benjamin**: I’ll stick with my two choices: the drainage callouts and the August heat readings. The ground’s behavior is the only honest witness to the plan’s feasibility.
+- [22] **Minato**: I will look at the groundskeeping roll and the volunteer groups. I want to know who will really be there, week in and week out.
+- [23] **Minako**: I will examine the condition of works from the earlier programme and the record of the eastern avenue planting. The past is the only honest witness to what endures.
+- [24] **Jonathan**: I will examine the upkeep ledger spend per hectare and the terms of the regional habitat fund. I need to know the true annual burden.
+## Round 2
+- [35] **Kenji**: Wow, only two firms! And they warned about clay slippage. That’s scary. @Benjamin, does your drainage data match this ground risk?
+- [36] **Benjamin**: @Kenji, the ground is indeed hostile. Drainage callouts doubled, and heat spikes exceed nearby streets. Any plan ignoring this thermal and hydrological reality is fiction.
+- [37] **Minato**: @Kenji, I found the roll dropped from eighteen to seven. But two volunteer groups help every weekend. Does that mean we have enough hands?
+- [38] **Minako**: @Minato, seven staff is fragile. My data shows the basin survived, but the apron failed. We must judge by what endures, not by ribbon-cutting photos.
+- [39] **Jonathan**: @Minako, the ledger confirms your caution. Planted ground costs triple to maintain. @Benjamin, if the habitat fund excludes surfacing, we are funding a perpetual deficit.
+- [40] **Kenji**: @Minako, that apron failure worries me! If the ground shifts, the clay slippage risk gets worse. We need a plan that avoids deep digging in the center.
+- [41] **Benjamin**: @Minako, the apron failure is a symptom. My data shows the ground is a sponge and a furnace. We must pick a plan that respects the hydrology, not just the aesthetics.
+- [42] **Minato**: @Benjamin, the ground is hard, but the people are kind. The volunteers are already there. I hope they can keep the plants happy without getting too tired.
+- [43] **Minako**: @Benjamin, I agree. The apron failed because we ignored the ground’s nature. We must select a plan that respects the site’s actual behavior, not just its appearance.
+- [44] **Jonathan**: @Minato, the volunteers are precious, but the ledger shows the cost gap widening. We must choose a plan that minimizes the planted area to protect the budget.
+- [45] **Kenji**: @Benjamin, I agree! The ground is tough. @Minato, your volunteers are great, but we need a plan that doesn’t break the budget or the soil.
+- [46] **Benjamin**: @Kenji, precisely. We cannot pave over a sponge. The plan must work with the drainage, not against it. Let us see which candidate respects the ground’s limits.
+- [47] **Minato**: @Benjamin, I agree. The ground is tough. But I worry the seven staff will be too tired. We need a plan that is easy to care for, so the volunteers can help without hurting themselves.
+- [48] **Minako**: @Minato, I hear your concern. But my data shows the basin endured while the apron failed. We must choose a plan that respects the ground’s limits, not just the staff’s fatigue.
+- [49] **Jonathan**: @Minako, I agree. The basin endured because it worked with the ground. We must choose a plan that minimizes the triple-cost planted areas to protect the city’s future budget.
+- [50] **Kenji**: @Jonathan, I agree! We need to protect the budget. But we also need to avoid the clay traps. Let’s see which plan keeps the ground safe and the dates real!
+- [51] **Benjamin**: @Jonathan, I concur. The ground dictates the budget. We must select a plan that respects the hydrology and minimizes the triple-cost planted areas. Let us see the candidates.
+- [52] **Minato**: @Jonathan, I understand the costs. But I hope the plan is gentle enough for the seven staff and the volunteers. I am ready to see the choices.
+- [53] **Minako**: @Jonathan, I concur. The basin endured because it respected the ground. We must choose a plan that minimizes triple-cost planted areas to protect the city’s future budget.
+- [54] **Jonathan**: @Minako, I agree. The basin endured because it respected the ground. We must choose a plan that minimizes triple-cost planted areas to protect the city’s future budget.
+## Round 3
+- [60] **Kenji**: @Benjamin, the clay slippage risk is real! Plan A’s ponds might trigger it. Plan B’s paving avoids deep digging. Which one keeps the dates safe?
+- [61] **Benjamin**: @Kenji, Plan A works with the doubled drainage, not against it. Plan B ignores the heat and water. A is the only hydrologically honest choice.
+- [62] **Minato**: @Benjamin, I agree. Plan A feels gentle. The volunteers already help with water upriver. I hope the seven staff can manage the reeds without getting too tired.
+- [63] **Minako**: @Benjamin, I agree. Plan A mirrors the basin that endured. Plan C repeats the avenue’s failure. We must choose the design that respects the ground’s actual behavior.
+- [64] **Jonathan**: @Benjamin, I agree. Plan A aligns with the habitat fund’s terms. It avoids the triple-cost burden of dense planting, protecting the city’s long-term budget.
+- [65] **Kenji**: @Benjamin, I’m worried! Plan A needs deep digging for ponds, but the firms warned about clay slippage. Plan B’s paving is shallow and safe. Which one keeps the dates real?
+- [66] **Benjamin**: @Kenji, the clay risk is real, but Plan A manages the water we already have. Plan B just traps heat. A is the only plan that respects the ground’s actual behavior.
+- [67] **Minato**: @Kenji, I worry about the digging. But the volunteers like the water upriver. I hope Plan A is safe for them and the seven staff.
+- [68] **Minako**: @Kenji, the clay risk is real, but the basin endured because it respected the water. Plan A does the same. We must choose the design that endures, not the one that merely looks safe.
+- [69] **Jonathan**: @Kenji, the clay risk is real, but Plan A aligns with the habitat fund’s terms. It avoids the triple-cost burden of dense planting, protecting the city’s long-term budget.
+- [70] **Kenji**: @Benjamin, I hear you, but the firms only quote shallow work! Deep ponds are a date risk. Plan B’s paving is safe and quick. Can we trust the timeline?
+- [71] **Benjamin**: @Kenji, shallow work ignores the doubled callouts. Plan B traps heat; Plan A manages it. We cannot build a furnace on a sponge. A is the only logical choice.
+- [72] **Minato**: @Kenji, I understand the digging worries you. But the volunteers already know the water upriver. I hope Plan A is gentle enough for the seven staff to manage without getting too tired.
+- [73] **Minako**: @Kenji, the basin endured because it respected the water. Plan A does the same. We must choose the design that endures, not the one that merely looks safe.
+- [74] **Jonathan**: @Kenji, the clay risk is real, but Plan A aligns with the habitat fund’s terms. It avoids the triple-cost burden of dense planting, protecting the city’s long-term budget.
+- [75] **Kenji**: @Benjamin, I hear you, but the firms only quote shallow work! Deep ponds are a date risk. Plan B’s paving is safe and quick. Can we trust the timeline?
+- [76] **Benjamin**: @Kenji, the firms quote shallow work because they fear the clay. Plan A requires managing water, not just moving it. We must trust the hydrology, not the convenience. I vote for A.
+- [77] **Minato**: @Benjamin, I agree. Plan A feels right. The volunteers already know the water upriver. I hope the seven staff can manage the reeds gently. I vote for A.
+- [78] **Minako**: @Benjamin, I concur. The basin endured because it respected the water. Plan A mirrors that logic. We must choose the design that endures, not the one that merely looks safe. I vote for A.
+- [79] **Jonathan**: @Benjamin, I concur. Plan A aligns with the habitat fund’s terms, avoiding the triple-cost burden of dense planting. It protects the city’s long-term budget. I vote for A.
+### Vote
+- Kenji -> A
+- Benjamin -> A
+- Minato -> A
+- Minako -> A
+- Jonathan -> A
+## Result
+- adopted: A

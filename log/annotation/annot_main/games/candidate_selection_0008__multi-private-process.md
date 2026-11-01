@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Hello everyone. I think it's important we identify where our previous projects have struggled. I'm particularly interested in how we handle outages and how our plans evolve after the initial rollout. What do you all think?
+- [6] **Ryuji**: I agree. We need to ensure the new system is compatible with our actual physical environment. I'm concerned about how new software interacts with our aging yard equipment and our peak-season constraints.
+- [7] **May**: I'm with you both. I want to make sure we aren't just buying a shiny new toy that will rot in three years or leave us cleaning up a mess from external contractors. Let's dig into the history.
+- [8] **Misaki**: I agree. We should also consider the human element. I'm concerned about the burden on our staff during transitions. We need to know how previous rollouts actually affected the people on the ground.
+- [9] **Benjamin**: It seems we are all in agreement on the need for a forensic approach. While operational stability is key, I believe we must also scrutinize the financial trail to ensure we aren't blindsided by lingering costs.
+- [10] **Midori**: @Ryuji @Misaki, your points about the physical environment and staff burden are so important. To understand accountability and adaptability, I'm thinking of looking into support ownership during the outage and the depot supervisors' experience.
+- [11] **Ryuji**: @Midori, those are good choices. To address the physical risks, I'll look into the yard devices and the 2021 scheduling trial, as well as the depot calendar and the peak-season cutover. We can't afford a failure during peak.
+- [12] **May**: I'll focus on the upgrade history of the dispatch tool and the data lift in the 2018 pay move. I want to see if we have a habit of letting things decay or botched migrations.
+- [13] **Misaki**: @Midori, thank you. I want to see how we've managed our people. I'll look into administrator retirements and hiring times, as well as the depot supervisors and the last rollout.
+- [14] **Benjamin**: A prudent selection. To ensure our financial projections aren't merely optimistic fantasies, I shall examine the board minutes on capital and operating requests, along with five years of renewal invoices. Let's see where the money actually goes.
+- [15] **Midori**: It seems we have a very comprehensive plan. By covering the financial, technical, and human aspects, we should get a clear picture of the risks. Does anyone feel we've missed a critical area before we finalize?
+- [16] **Ryuji**: I believe we have covered the primary bases. As long as we can correlate the financial data with the operational realities of the yard, we should be able to spot the red flags.
+- [17] **May**: I think we're set. I'm curious to see if our "successes" were actually just patched-up disasters. Let's get to the digging and see who's been hiding what.
+- [18] **Misaki**: I agree. I hope the records show whether our staff were supported or simply left to struggle. I'm ready to proceed with the investigation.
+- [19] **Benjamin**: Indeed. It is often the footnotes and the "miscellaneous" columns that tell the most honest stories. I look forward to seeing if our historical spending aligns with our perceived successes. I am ready.
+- [20] **Midori**: I agree. Let's move forward with these choices. I'll focus on the support ownership during last winter's outage and the depot supervisors and the last rollout. I'm looking forward to hearing what you all find.
+- [21] **Ryuji**: I am also ready. I will focus on the yard devices and the 2021 scheduling trial, and the depot calendar and the peak-season cutover. Let's see if the data reflects the reality of the floor.
+- [22] **May**: I'm all set. I'll be diving into the upgrade history of the dispatch tool and the data lift in the 2018 pay move. Let's see if we've been playing a dangerous game of "patch and pray."
+- [23] **Misaki**: I will focus on administrator retirements and hiring times, and the depot supervisors and the last rollout. I want to see if we have the capacity to handle another change.
+- [24] **Benjamin**: My choices are finalized: the board minutes on capital and operating requests, and five years of renewal invoices. I shall see if our financial history is a straight line or a labyrinth of surprises.
+## Round 2
+- [35] **Midori**: My findings are concerning. Last winter's outage was unowned for two days because support was scattered across four suppliers. Also, some depots abandoned standard rollout procedures almost immediately to return to their own routines.
+- [36] **Ryuji**: My findings confirm my fears. We have no freeze window during peak season, and a previous attempt at a cutover caused a total collapse to paper dispatch. Furthermore, our yard hardware is a fragmented mess of old models.
+- [37] **May**: It's just as I feared. We've got a dispatch tool that's basically a fossil because we're too scared to update it, and a 2018 data migration that was a total hack job by outsiders. We're just layering patches on ruins.
+- [38] **Misaki**: The situation is worse than I thought. We are losing half our system knowledge to retirement, and it takes nearly a year to fill those roles. Our staff are already stretched too thin to absorb a difficult transition.
+- [39] **Benjamin**: It seems we are all uncovering a rather bleak tapestry. My findings suggest a systemic blindness to long-term costs; while capital requests are scrutinized, the recurring operating expenses—the "silent" bills—creep upward virtually unchecked.
+- [40] **Midori**: @Ryuji @May, it sounds like we're facing a perfect storm of technical debt and operational chaos. If we don't find a vendor who provides a single point of accountability, we'll just repeat that two-day outage.
+- [41] **Ryuji**: @Midori, exactly. But accountability isn't enough. We need a vendor whose system can actually run on our outdated hardware and a deployment plan that respects the peak-season reality, or we'll be back to paper.
+- [42] **May**: @Ryuji, relying on a vendor to "fit" our junk hardware is a trap. If we just buy something that works with fossils, we're just buying a newer fossil. We need a clean break and a migration that actually works.
+- [43] **Misaki**: @May, a clean break sounds ideal, but who will manage it? With our administrators retiring and hiring taking nearly a year, we don't have the internal bandwidth for a high-friction migration. We need heavy vendor support.
+- [44] **Benjamin**: @Misaki, while heavy support is necessary, we must be wary of the price tag attached to that "help." If we outsource our competence, we risk a permanent, escalating subscription to a vendor's benevolence.
+- [45] **Midori**: @Benjamin, I understand the cost concern, but the cost of a two-day total outage is higher. We need a balance: a vendor who takes ownership of the system's stability without making us permanently dependent.
+- [46] **Ryuji**: @May, a "clean break" is a luxury we can't afford if it ignores the yard. If the software requires hardware we can't deploy instantly, the system is useless. We need pragmatic compatibility, not just a new version of a fossil.
+- [47] **May**: @Ryuji, pragmatism is great, but let's not confuse it with laziness. If we keep accommodating our mess, we'll never leave it. I want a vendor who forces us to modernize, not one who enables our decay.
+- [48] **Misaki**: @May, forcing modernization on a staff that is already exhausted and understaffed is a recipe for failure. If the system is too complex to adopt, the crews will just ignore it, like they did in the last rollout.
+- [49] **Benjamin**: @May, @Misaki, we are debating the "how" while ignoring the "how much." Whether we modernize or accommodate, we must avoid a pricing model where the "support" becomes a bottomless pit of monthly add-ons. Predictability is our only shield.
+- [50] **Midori**: It seems we are torn between modernization and stability. To avoid another outage or a rejected rollout, we need a partner who offers a single point of contact and a flexible implementation that respects our staff's limits.
+- [51] **Ryuji**: I agree. We must prioritize a vendor that understands the physical reality of the depot. If the solution doesn't work with our current hardware and our peak-season schedule, it's a failure regardless of its technical sophistication.
+- [52] **May**: I'll play along with the "pragmatism," but let's be clear: if we pick a vendor that just patches over our ruins, we're just delaying the inevitable. I want a solution that actually lasts, not another temporary fix.
+- [53] **Misaki**: I just want to ensure we don't break the people who keep this company running. We need a vendor that provides direct, hands-on assistance to the crews, not just a manual and a help desk.
+- [54] **Benjamin**: It is a delicate dance, isn't it? We seek a savior who is technically robust, operationally gentle, and physically compatible, yet we must ensure this savior doesn't charge us for the air we breathe once the contract is signed.
+## Round 3
+- [60] **Midori**: Looking at the options, Anchor Industrial Software seems most promising. Having an engineering team present through rollout addresses my concerns about accountability and ensures the plan actually sticks with the staff on the ground.
+- [61] **Ryuji**: I agree with @Midori. Anchor's on-site engineering team is the only way to ensure the system survives our fragmented hardware and the chaos of peak season. They can adapt to the yard's reality in real-time.
+- [62] **May**: @Ryuji, @Midori, you're falling for the "on-site" charm. Anchor puts it on our own servers—that's just a recipe for another fossil that we'll be too scared to update in five years. We need a hosted solution.
+- [63] **Misaki**: @May, I understand the risk of technical debt, but we cannot ignore our staffing crisis. With our administrators retiring, we don't have the internal capacity to manage a hosted migration alone. Anchor's on-site presence is a lifeline.
+- [64] **Benjamin**: @May, while I share your distaste for fossils, @Misaki's point on staffing is valid. However, we must look at the billing. Corvus is a nightmare of separate licenses; it is the very labyrinth of costs I fear.
+- [65] **Midori**: @Benjamin, I agree that Corvus is too risky. @May, while I hear your concerns about fossils, a hosted suite like Meridian might be too rigid. Anchor's on-site team provides the accountability we've been missing.
+- [66] **Ryuji**: @May, a hosted suite like Meridian or Tessera is a gamble if the interface doesn't play nice with our old scanners. Anchor's engineers can troubleshoot the hardware on the spot, which is the only way to avoid paper dispatch.
+- [67] **May**: @Ryuji, that's just a band-aid. If we go with Anchor, we're just paying engineers to prop up a sinking ship on our own racks. Meridian's hosted suite is the only way to stop the decay.
+- [68] **Misaki**: @May, a hosted suite is only a solution if the people can actually use it. If we lack the staff to manage the transition, the most modern system will still be abandoned by the crews. Anchor is the safest choice for our people.
+- [69] **Benjamin**: @May, @Misaki, we are weighing technical purity against human capacity. However, let us consider Meridian. A fixed configuration and a regional service team suggest a predictability in both function and cost that Anchor's bespoke on-site engineering may lack.
+- [70] **Midori**: @Benjamin, predictability is good, but a "fixed configuration" might be exactly what leads to the depots abandoning the system again. We need the flexibility and accountability that Anchor's on-site team provides to ensure it actually works.
+- [71] **Ryuji**: @Benjamin, predictability is useless if the system crashes during peak because it wasn't tuned to our yard. Anchor's on-site engineers can ensure the software actually functions on our hardware before the rush hits.
+- [72] **May**: @Ryuji, you're obsessed with the yard, but I'm obsessed with the next decade. Anchor is just a fancy way of saying "we'll build you a custom cage." Meridian's hosted model is the only way to ensure we don't end up with another fossil.
+- [73] **Misaki**: @May, a "custom cage" is better than a system no one knows how to use. We are losing our experts. Anchor's on-site team provides the direct support our exhausted staff desperately needs to survive this change.
+- [74] **Benjamin**: @May, your vision of the future is admirable, but @Misaki and @Ryuji's concerns are immediate. If we must choose, Anchor's on-site presence offers a tangible safeguard, provided the contract prevents the "bespoke" nature from becoming a financial sinkhole.
+- [75] **Midori**: I believe we've found our balance. Anchor Industrial Software provides the accountability and hands-on support we need to prevent another outage and ensure the staff actually adopts the system. I'm voting for Anchor.
+- [76] **Ryuji**: I agree. The risk of returning to paper dispatch is too high to ignore. Anchor is the only choice that addresses our hardware fragmentation and peak-season constraints with real-world engineering. I vote for Anchor.
+- [77] **May**: I'm the only one thinking about the long game here. Anchor is just a polished version of the same mistakes we've made for years. I can't support another on-premise fossil. I vote for Meridian.
+- [78] **Misaki**: I cannot risk another failed rollout that leaves our remaining staff overwhelmed. We need the direct, on-site support that only Anchor provides to bridge our knowledge gap. I vote for Anchor.
+- [79] **Benjamin**: While I maintain a healthy skepticism of on-premise installations, the consensus on operational survival is overwhelming. Provided we lock in the pricing to avoid hidden fees, Anchor is the logical choice. I vote for Anchor.
+### Vote
+- Midori -> D
+- Ryuji -> D
+- May -> A
+- Misaki -> D
+- Benjamin -> D
+## Result
+- adopted: D

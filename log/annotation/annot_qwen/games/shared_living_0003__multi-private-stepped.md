@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I need to know how much time we lose during the move and every morning after.
+- [6] **Toshio**: Before we move desks, I need to understand the actual monthly cost of this floor.
+- [7] **Mizuki**: We should decide who takes the noisiest spots before we start moving anything.
+- [8] **Shion**: I am interested in how the current layout affects my physical comfort over a full day.
+- [9] **Yumi**: I want to see how the new plan compares to what everyone actually wanted in the survey.
+- [10] **Rin**: @Toshio, does the billing include the time we are sitting on the floor?
+- [11] **Toshio**: @Rin, it includes the space, but I need to see the breakdown of the line items.
+- [12] **Mizuki**: @Shion, if you are uncomfortable, that is a valid reason to claim a specific spot.
+- [13] **Shion**: @Mizuki, comfort is not a preference, it is a requirement for sustained focus.
+- [14] **Yumi**: @Rin, I hope the survey data shows we all want to be closer to the window.
+- [15] **Rin**: I am worried about the gaps between meetings disappearing if the layout is bad.
+- [16] **Toshio**: I will look into the billing basis and the facilities quote for power.
+- [17] **Mizuki**: I will check the sound meter readings and the physio's note from the check.
+- [18] **Shion**: I will look into the physio's note and the sound meter readings across the room.
+- [19] **Yumi**: I will look into the drawn plan against the staff survey and the arrival times.
+- [20] **Rin**: I will investigate the arrival times in the badge records and the unplanned seat shuffles.
+- [21] **Toshio**: Agreed. Let us see the numbers before we commit to a shape.
+- [22] **Mizuki**: I will also look into the morning routine on the pilot floor upstairs.
+- [23] **Shion**: I will confirm my choices: physio's note and sound meter readings.
+- [24] **Yumi**: I will confirm my choices: drawn plan against the staff survey and arrival times.
+## Round 2
+- [35] **Rin**: The badge records show we arrive at very different times, so the first-come spots are gone early.
+- [36] **Toshio**: The billing is by area, not heads. Empty desks still cost us 41,000 yen a month.
+- [37] **Mizuki**: The sound is nine decibels higher by the printer. That is a real difference, not a feeling.
+- [38] **Shion**: The physio note says my current setup took days to settle. Moving it resets that process.
+- [39] **Yumi**: The survey says daylight was the biggest complaint, but the plan gives three desks the wall.
+- [40] **Rin**: @Toshio, if empty desks cost money, we need to make sure the new layout is actually used.
+- [41] **Toshio**: @Rin, exactly. And every time we move a desk, facilities charge 6,200 yen to re-run the lines.
+- [42] **Mizuki**: @Shion, if your setup takes days to settle, you should not be in the high-traffic row.
+- [43] **Shion**: @Mizuki, I agree. The window side is quieter and my body is already calibrated for that spot.
+- [44] **Yumi**: @Rin, if we put the late arrivals near the window, the early ones get the wall.
+- [45] **Rin**: I am worried that the "quiet" spots will be claimed by the early arrivals, leaving us with the noise.
+- [46] **Toshio**: The 6,200 yen per move is a strong argument for getting the layout right the first time.
+- [47] **Mizuki**: We need to assign the noisy row to people who do not need deep focus, or rotate it.
+- [48] **Shion**: I will not rotate. My body needs consistency. The window side is the only logical choice for me.
+- [49] **Yumi**: I think we should assign the window desks to the people who reported the most daylight complaints.
+- [50] **Rin**: I will vote for the option that protects the morning gaps and gives the window to the late arrivals.
+- [51] **Toshio**: I will vote for the option that minimizes the number of desks we need to re-run power for.
+- [52] **Mizuki**: I will vote for the option that explicitly assigns the noisy row to the people who do not need silence.
+- [53] **Shion**: I will vote for the option that keeps my current window-side desk and documents the comfort requirement.
+- [54] **Yumi**: I will vote for the option that matches the survey's top complaint and gives the window to the late arrivals.
+## Round 3
+- [60] **Rin**: Option A is a disaster for my gaps. If I arrive at 9:30, the good desks are already taken.
+- [61] **Toshio**: Option A means we re-run power for every single person every single day. The 6,200 yen charge would bankrupt us.
+- [62] **Mizuki**: Option A is the only one that forces us to confront who is actually using the space. It is honest, if chaotic.
+- [63] **Shion**: Option A is unacceptable. My body needs a fixed point. I will not be moving my chair every day.
+- [64] **Yumi**: Option A feels like a game. I want to know who I am sitting beside before I walk in the door.
+- [65] **Rin**: Option B is better, but if the rotation is monthly, I still lose my morning routine every month.
+- [66] **Toshio**: Option B is the only one that does not trigger the 6,200 yen charge every time someone moves. It is the only financially sane choice.
+- [67] **Mizuki**: Option B is a compromise. It gives everyone a turn at the window, but it also means everyone has to sit in the noisy row at some point.
+- [68] **Shion**: Option B is a slow death. I will spend a month in the noisy row, and my body will never settle.
+- [69] **Yumi**: Option B is fair, but it means I might be stuck next to someone I do not talk to for a whole month.
+- [70] **Rin**: Option C is the only one that protects my gaps. If my desk is mine, I can plan my morning around it.
+- [71] **Toshio**: Option C is the most expensive. Every time we change a function, we pay 6,200 yen. But it is the most stable.
+- [72] **Mizuki**: Option C is the only one that lets us say out loud who is in the noisy row. It is transparent, which is what I want.
+- [73] **Shion**: Option C is the only one that respects my body. If my desk is fixed, my setup stays fixed.
+- [74] **Yumi**: Option C is the only one that lets us decide who sits beside whom. It is the only one that is actually about us.
+- [75] **Rin**: I am voting for Option C. It is the only one that protects my time and my gaps.
+- [76] **Toshio**: I am voting for Option B. It is the only one that does not bankrupt us with re-running charges.
+- [77] **Mizuki**: I am voting for Option C. It is the only one that makes the noise assignment explicit and fair.
+- [78] **Shion**: I am voting for Option C. It is the only one that keeps my body in a state of settled comfort.
+- [79] **Yumi**: I am voting for Option C. It is the only one that lets us choose who we sit beside, not the furniture.
+### Vote
+- Rin -> C
+- Toshio -> B
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

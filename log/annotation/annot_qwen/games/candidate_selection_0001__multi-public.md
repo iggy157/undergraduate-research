@@ -1,0 +1,73 @@
+# candidate_selection_0001__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I’ve spent decades watching talent vanish. Before we pick a project, we must ask: who is actually here to do the work?
+- [6] **Midori**: I agree, Servas. The people behind the science matter just as much as the ideas. Let’s ensure we have the right support in place.
+- [7] **Kenji**: I’m worried about the shared facilities too. If the equipment is broken or overbooked, the best science can’t happen.
+- [8] **Benjamin**: Valid points. But I’m curious about the invisible delays. Where does the actual work get interrupted before the science even starts?
+- [9] **Toshio**: I’ve seen confident picks stall while plainer ones delivered. I want to check what finished awards here actually achieved before we trust our instincts again.
+- [10] **Servas**: Good instincts, all of you. Let us look beneath the surface. I will examine the staffing rolls and the minutes on secondments to see who remains.
+- [11] **Midori**: I’ll check the travel and bench-fee ledgers, plus the national computing agreement. I need to see what costs the agency still absorbs versus what lands on the awardee.
+- [12] **Kenji**: I’ll check the incident logs on shared instrumentation and the accreditation and bookings at shared facilities. I need to know if the spare capacity is actually there.
+- [13] **Benjamin**: I’ll review the portfolio of schedule overruns and the national repository deposit turnaround. I need to know where the invisible friction actually lives.
+- [14] **Toshio**: I will review the closeout files of finished awards and the portfolio review of schedule overruns. I need to see what actually delivered versus what stalled.
+- [15] **Servas**: Midori, your focus on costs is wise. But remember, a budget is only as good as the hands that spend it.
+- [16] **Midori**: Thank you, Servas. I’ll keep that in mind. I want to ensure the funding actually supports the people doing the work, not just the paperwork.
+- [17] **Kenji**: @Servas, exactly. If the people are gone, the budget is just paper. I’m checking if the machines are even ready for them.
+- [18] **Benjamin**: @Kenji, fair point. But I’m hunting for the administrative friction that stalls projects before the science even begins.
+- [19] **Toshio**: @Benjamin, friction is real, but I need to know if the science itself held up. I’m checking the closeout files to see what actually delivered.
+- [20] **Servas**: Toshio, your caution is well-placed. We must honor the past to secure the future. Let us see what the records reveal.
+- [21] **Midori**: I’ll keep the balance in mind. Let’s see what the ledgers and agreements reveal about our true support.
+- [22] **Kenji**: I’m ready to see if the machines are actually working. Let’s hope the spare capacity is real!
+- [23] **Benjamin**: Agreed. Let’s see if the data confirms our suspicions about where the real bottlenecks hide.
+- [24] **Toshio**: The records will speak for themselves. I’ll wait for the closeout files to confirm whether our past judgments were sound.
+## Round 2
+- [35] **Servas**: The technicians are gone, and our senior analysts are abroad. Yet the glasshouse crew remains strong. We must weigh this carefully.
+- [36] **Midori**: The ledgers show frozen travel costs, but animal day rates spiked. Computing is free, though. This changes what the grant actually buys.
+- [37] **Kenji**: @Midori, the spectroscopy suite sat idle for eleven weeks! One engineer covers three institutes. That’s a huge risk for any project needing that equipment.
+- [38] **Benjamin**: @Kenji, that idle suite is a nightmare. But my data shows breeding colonies overrun twice as often. Computation is safer, and deposits now clear in weeks.
+- [39] **Toshio**: The closeout files are damning. Catalogue awards still draw users a decade later. Mechanism-focused ones stalled. I trust the data, not the hype.
+- [40] **Servas**: @Toshio, your caution is wise. Yet the glasshouse crew stands ready. We must match the project to the hands we actually possess.
+- [41] **Midori**: @Toshio, that aligns with my findings. Simulation is now free, but animal care costs surged. We must match the science to the affordable, available resources.
+- [42] **Kenji**: @Benjamin, that idle suite is terrifying. But the animal facility is accredited and has vets now. Glasshouses are packed, though. Who can actually run?
+- [43] **Benjamin**: @Kenji, the accreditation is good, but the glasshouse is booked solid. That’s a bottleneck. I’d rather avoid the scheduling nightmare entirely.
+- [44] **Toshio**: @Benjamin, the data confirms it. Live colonies overrun twice as often. I favor projects where the main risk is computation, not biology.
+- [45] **Servas**: @Kenji, the glasshouse crew is whole, but the modelling minds are absent. We must choose a path where our remaining hands are sufficient.
+- [46] **Midori**: @Servas, I hear you. With modelling analysts gone, free computing hours are a lifeline. We must pick a project that doesn’t rely on those missing hands.
+- [47] **Kenji**: @Servas, that’s a tough spot. If the analysts are gone, can we even run the simulations? I’m worried about the bottleneck.
+- [48] **Benjamin**: @Kenji, the repository migration is the key. Deposits clear in weeks now, not months. That administrative friction is gone, making data-heavy projects far more viable.
+- [49] **Toshio**: @Kenji, the absence of analysts is a risk, but the data is clear. Computation-based projects deliver. I will not gamble on live colonies again.
+- [50] **Servas**: @Kenji, the absence of analysts is a risk, but the data is clear. Computation-based projects deliver. I will not gamble on live colonies again.
+- [51] **Midori**: @Kenji, the free computing hours are a lifeline, but we still need people to run them. Let’s hope the remaining staff can manage the load.
+- [52] **Kenji**: @Benjamin, that’s good news! But if the analysts are gone, who actually runs the simulations? I’m worried about the bottleneck.
+- [53] **Benjamin**: @Kenji, the applicants for modelling posts are arriving in numbers. The bottleneck is temporary, not permanent.
+- [54] **Toshio**: @Benjamin, applicants are not yet staff. I stand by the closeout data: computation-based projects deliver reliably. I will not gamble on live colonies again.
+## Round 3
+- [60] **Servas**: - **Servas**: The hands are gone, but the glasshouse crew remains. Let us match the work to the people who are actually here.
+- [61] **Midori**: @Toshio, the closeout data is clear. Catalogue projects endure, while mechanism studies stall. I lean toward A, which fits our stable, available resources.
+- [62] **Kenji**: @Benjamin, the spectroscopy suite is a disaster. I can’t support C. A looks safest for our shared capacity.
+- [63] **Benjamin**: @Kenji, agreed on C. But A’s field sites lost seasons to flooding. B’s glasshouses are booked solid. D’s colonies overrun. I’m stuck.
+- [64] **Toshio**: @Benjamin, the field site risk is real, but the closeout data is stronger. Catalogue projects endure; mechanism studies stall. A fits the pattern of reliable delivery.
+- [65] **Servas**: @Midori, A is a catalogue, and catalogues endure. With our technicians gone, we need a project that builds a lasting record, not a fleeting experiment.
+- [66] **Midori**: @Servas, I agree. A builds a lasting record without relying on the missing analysts or the overbooked glasshouses. It fits our current reality best.
+- [67] **Kenji**: @Benjamin, I hear the field site risk, but the spectroscopy suite is a dead end for C. A feels like the safest bet for our shared capacity right now.
+- [68] **Benjamin**: @Toshio, the field site risk is real, but the closeout data is stronger. Catalogue projects endure; mechanism studies stall. A fits the pattern of reliable delivery.
+- [69] **Toshio**: @Benjamin, precisely. The closeout files confirm catalogue awards deliver lasting value. A fits that pattern. I vote for A.
+- [70] **Servas**: @Toshio, I concur. A builds a lasting record, matching our stable resources. Let us vote for A.
+- [71] **Midori**: @Servas, I agree. A builds a lasting record without relying on the missing analysts or the overbooked glasshouses. It fits our current reality best.
+- [72] **Kenji**: @Toshio, I agree. A avoids the broken spectroscopy and packed glasshouses. It’s the safest choice for our current capacity. I vote for A.
+- [73] **Benjamin**: @Toshio, the data is unambiguous. A avoids the biological and infrastructural traps that sink the others. I vote for A.
+- [74] **Toshio**: @Servas, agreed. The closeout files confirm catalogue awards deliver lasting value. A fits that pattern. I vote for A.
+- [75] **Servas**: A is our choice. It honors the hands we have and the record we must build. Let us proceed with confidence.
+- [76] **Midori**: I’m glad we found common ground. A respects our current limits and builds a lasting resource. I vote for A.
+- [77] **Kenji**: I’m happy to go with A! It avoids the broken machines and packed rooms. It feels like the smart, safe pick for everyone.
+- [78] **Benjamin**: The data is unambiguous. A avoids the biological and infrastructural traps that sink the others. I vote for A.
+- [79] **Toshio**: The record is clear. A delivers. I vote for A.
+### Vote
+- Servas -> A
+- Midori -> A
+- Kenji -> A
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: A

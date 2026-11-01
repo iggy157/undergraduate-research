@@ -1,0 +1,73 @@
+# shared_living_0002__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to check the truck arrival time and the ward complaint log. I need to know exactly when the noise hits and what people are already angry about!
+- [6] **Midori**: I’d like to check the block ledger of refuse-point expenses and the ward subsidy and last year's shelter costs. We need to know the true financial picture before deciding.
+- [7] **Shunichi**: I’ll check the station block's meeting minutes and the statements at the residents' meeting. I want to see how they handled their disputes without ending up as enemies.
+- [8] **May**: I’m checking the ward filing requirements and the supervised mornings on the next lane. I need to know exactly how many hours this will eat from our week!
+- [9] **Asuka**: I will examine the measurements of the five frontages and the ward filing requirements. I need to verify if the proposed layout actually distributes the burden fairly.
+- [10] **Rin**: @Shunichi, I hope their minutes show a fix that doesn’t just move the smell to the next house! I’m checking the truck time and complaints to see the real daily pain.
+- [11] **Midori**: @Rin, the noise is real, but the money is the silent killer. I’m digging into the ledger to see if we’re already overpaying for a broken system.
+- [12] **Shunichi**: @Midori, money is important, but if we can’t look each other in the eye, the ledger is useless. I’m checking how they kept the peace.
+- [13] **May**: @Shunichi, I hope their peace wasn’t bought with someone’s sanity! I’m checking the supervised mornings to see if the hours are actually manageable for us.
+- [14] **Asuka**: @May, hours are a symptom, not the root. I am verifying the frontage measurements to ensure the physical layout matches the claimed equality.
+- [15] **Rin**: @Asuka, fair frontages are great, but if the truck roars at dawn, I’m still stuck! I’m checking the exact arrival time to see if we can dodge the noise!
+- [16] **Midori**: @Rin, I hear you. But if the costs are hidden, the noise is just the tip of the iceberg. I’m checking the ledger to see where our money actually goes.
+- [17] **Shunichi**: @Rin, the truck is just a symptom. I’m checking how they resolved the human conflict, not the mechanical one.
+- [18] **May**: @Rin, dodging the truck is a band-aid. I’m checking the supervised mornings to see if the actual setup hours are sustainable for us.
+- [19] **Asuka**: @Rin, the truck time is fixed. The frontage is not. I need to know if the physical layout actually matches the claimed equality before we sign anything.
+- [20] **Rin**: I’m all set! I’ll check the truck arrival time and the ward complaint log. Let’s see what the real daily pain looks like!
+- [21] **Midori**: I’m all set! I’ll check the block ledger and the ward subsidy costs. Let’s see the true financial picture before we decide.
+- [22] **Shunichi**: I’m all set! I’ll check the station block's meeting minutes and the residents' meeting statements. Let’s see how they kept the peace.
+- [23] **May**: I’m all set! I’ll check the ward filing requirements and the supervised mornings. Let’s see exactly how many hours this will eat from our week!
+- [24] **Asuka**: I will examine the measurements of the five frontages and the ward filing requirements. I need to verify if the proposed layout actually distributes the burden fairly.
+## Round 2
+- [35] **Rin**: @Midori, the truck roars at seven forty! And the gate-house filed eleven complaints! That’s why the corner feels hostile. We need a fix that stops the noise!
+- [36] **Midori**: @Rin, the noise is real, but the money is the silent killer. We’re spending thirty-four thousand yen a year just on bags left open!
+- [37] **Shunichi**: @Rin, the noise is loud, but the silence between us is louder. The station block’s minutes show they’re already fighting over latches. We need a system that doesn’t require us to be friends.
+- [38] **May**: @Midori, thirty-four thousand yen is a lot, but my time is priceless! The supervised mornings are fifty minutes each, and we’d get twenty a year. That’s sixteen hours of my life gone!
+- [39] **Asuka**: @May, sixteen hours is a symptom. The frontage data shows one house has a driveway blocking its bay, while another has only ninety centimetres. The layout is physically unequal.
+- [40] **Rin**: @Shunichi, latches are a trap! I need a spot where the truck noise doesn’t wake me up. I’m checking the station block’s bin house to see if it’s actually quiet!
+- [41] **Midori**: @May, sixteen hours is painful, but the ledger shows we’re bleeding money on open bags. I need to see if a proper shelter stops that waste.
+- [42] **Shunichi**: @May, sixteen hours is a burden, but the residents' meeting showed nobody wants to be the gatekeeper. We need a system that doesn't force us to police each other.
+- [43] **May**: @Shunichi, I agree! Nobody wants to be the gatekeeper. But sixteen hours is still a lot. I need to know if the filing process adds more hidden time to that burden!
+- [44] **Asuka**: @May, the filing process is rigid. A permanent build needs four months and five signatures. Any site change requires a new notice. We must choose the location correctly the first time.
+- [45] **Rin**: @Asuka, four months is forever! I just want the noise gone. If the station block’s bin house is quiet, I’m all for it!
+- [46] **Midori**: @Asuka, four months is a long wait, but the subsidy covers forty percent. I need to see if the station block’s setup actually stops the thirty-four thousand yen in waste.
+- [47] **Shunichi**: @Asuka, four months is a long time to be on edge. But the residents' meeting proved we can't even agree on who sweeps. We need a layout that removes the need for us to interact at all.
+- [48] **May**: @Asuka, four months is a nightmare! But the real trap is the twenty supervised mornings. I need a setup that doesn’t turn me into a part-time warden!
+- [49] **Asuka**: @Shunichi, removing interaction is impossible if the physical layout is unequal. One house is physically blocked. We must address the frontage disparity before discussing social dynamics.
+- [50] **Rin**: I’m done! I checked the truck time and the complaint log. The gate-house is the real problem! Let’s see the options!
+- [51] **Midori**: I’m all set! I checked the ledger and the subsidy. We’re bleeding money, but the ward helps. Let’s see the options!
+- [52] **Shunichi**: I’m done. The station block’s minutes and the residents' meeting statements are clear. We need a system that doesn't force us to be friends. Let's see the options.
+- [53] **May**: I’m all set! I checked the filing requirements and the supervised mornings. Four months and sixteen hours of my life. Let’s see the options!
+- [54] **Asuka**: I have verified the frontage measurements and the filing requirements. The physical inequality is undeniable. Let us see the options.
+## Round 3
+- [60] **Rin**: @Asuka, Option C’s permanent build takes four months! I can’t wait that long to escape the noise. Option B moves the pain around, but at least it’s not stuck at my gate!
+- [61] **Midori**: @Rin, four months is long, but the subsidy covers forty percent. Option C stops the thirty-four thousand yen in waste. I need to see if the cost is fair for all five of us.
+- [62] **Shunichi**: @Rin, Option A forces us to police each other. The station block proved that creates enemies. I need a system that doesn’t require us to be friends.
+- [63] **May**: @Shunichi, Option A is a trap! Twenty supervised mornings means I’m the warden. I refuse to trade my sanity for your peace.
+- [64] **Asuka**: @Rin, Option B is the only one that addresses the physical inequality. The driveway and narrow frontage make a fixed point inherently unfair. I support rotation.
+- [65] **Rin**: @Asuka, moving it around just means the truck noise chases me! I want a quiet, permanent fix. Option C is the only way to stop the dawn roar!
+- [66] **Midori**: @Rin, I hear your frustration with the noise. But Option C’s enclosure stops the open-bag waste. I’m worried the setup cost might be too heavy for some of our budgets.
+- [67] **Shunichi**: @Midori, cost is secondary to survival. Option C’s permanent structure removes the daily friction. We build the wall, not the friendship. I vote C.
+- [68] **May**: @Shunichi, a wall is great, but who builds it? Option C means four months of paperwork and construction chaos. I refuse to be the one answering the phone for the crew!
+- [69] **Asuka**: @May, the filing burden is real, but Option B’s rotation is the only way to correct the physical disparity. I vote B to ensure no single household bears the permanent burden.
+- [70] **Rin**: @Shunichi, a wall is great, but four months is forever! I can’t wait that long to sleep through the dawn roar. Option B moves the pain, but at least it’s not stuck at my gate!
+- [71] **Midori**: @Rin, I understand the wait is hard. But Option C’s subsidy covers forty percent, and it stops the thirty-four thousand yen in waste. I’m worried the remaining cost is too heavy for some of us.
+- [72] **Shunichi**: @Rin, four months is a price worth paying to stop the daily friction. Option C removes the need for us to interact. I stand by my vote for C.
+- [73] **May**: @Rin, four months is a nightmare, but Option A is worse! I refuse to be the warden. I’m voting C to stop the bleeding!
+- [74] **Asuka**: @May, Option C locks the inequality in place. The driveway and narrow frontage make a fixed point inherently unfair. I stand by my vote for B to ensure no single household bears the permanent burden.
+- [75] **Rin**: @Asuka, I know the frontage is unfair, but Option B just moves the truck noise to my door! I can't wait four months for C. I'm voting B to escape the gate!
+- [76] **Midori**: @Rin, I understand the noise is urgent. But Option C’s subsidy covers forty percent, and it stops the thirty-four thousand yen in waste. I’m voting C to protect our shared budget.
+- [77] **Shunichi**: @Asuka, Option B just moves the friction, it doesn't remove it. We need a structure that lets us coexist without constant negotiation. I stand by my vote for C.
+- [78] **May**: @Asuka, I hear you on the frontage, but Option B means moving the point four times a year. That’s endless setup and cleanup. I’m voting C to stop the bleeding!
+- [79] **Asuka**: @Rin, Option B is the only arrangement that corrects the physical disparity. I stand by my vote for B to ensure no single household bears the permanent burden.
+### Vote
+- Rin -> B
+- Midori -> C
+- Shunichi -> C
+- May -> C
+- Asuka -> B
+## Result
+- adopted: C

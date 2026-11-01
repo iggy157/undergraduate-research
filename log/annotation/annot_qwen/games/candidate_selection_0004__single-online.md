@@ -1,0 +1,73 @@
+# candidate_selection_0004__single-online (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I’m worried the diggers will hit soft ground and delay everything. Who else is checking the site conditions?
+- [6] **Benjamin**: The ground dictates the design, not the other way around. I’m checking how the current drainage and heat patterns actually behave before we commit to anything.
+- [7] **Minato**: I’m trying to figure out who will actually look after the park every week. The staff numbers seem really low.
+- [8] **Minako**: I’m looking at the condition of works from the earlier programme. I want to see what actually survived the last decade, not just the drawings.
+- [9] **Jonathan**: I’m reviewing the upkeep ledger to see what these projects truly cost the city to maintain long-term, not just to build.
+- [10] **Kenji**: @Benjamin, do the drainage callouts show if the ground can handle heavy rain without flooding?
+- [11] **Benjamin**: @Kenji, the callouts show the culvert is struggling, but I need to see the heat readings to understand the full picture of the site’s stress.
+- [12] **Minato**: @Minako, do the old works still hold up, or do they need constant fixing?
+- [13] **Minako**: @Minato, the basin held, but the apron failed. I’m checking the planting records to see if the greenery survived the neglect.
+- [14] **Jonathan**: @Minato, the ledger shows planted ground costs triple to maintain. I’m checking the groundskeeping roll to see if we have the staff to cover that gap.
+- [15] **Kenji**: @Benjamin, if the ground is that stressed, will the earth-moving firms even quote fairly? I’m checking who is actually tendering for the dig work.
+- [16] **Benjamin**: @Kenji, fair point. If only two firms are bidding, leverage drops. I’m checking the timed crossing counts to see how people actually use the space.
+- [17] **Minato**: @Minako, if the old planting died because nobody watered it, will the new trees have the same problem?
+- [18] **Minako**: @Minato, that is exactly the risk. I am checking the eastern avenue planting record to see if aftercare was simply ignored.
+- [19] **Jonathan**: @Minato, the roll has shrunk to seven posts. I am checking the volunteer groups to see if they can fill the gap in daily care.
+- [20] **Kenji**: @Minato, I’m checking the depot phasing notes to see if we can keep the park open while the diggers work.
+- [21] **Benjamin**: @Minako, if the apron failed, does that mean hard surfaces are a trap? I’m checking the habitat fund terms to see what we can actually afford to build.
+- [22] **Minato**: @Jonathan, if the volunteers help, do they have the right tools and training for the daily work?
+- [23] **Minako**: @Minato, I am checking the volunteer groups to see if their current commitments can realistically absorb the extra daily workload.
+- [24] **Jonathan**: @Minato, I am checking the volunteer groups to see if their current commitments can realistically absorb the extra daily workload.
+## Round 2
+- [35] **Kenji**: @Benjamin, only two firms are bidding for the heavy digging, and both are worried about the clay. It’s going to be tricky.
+- [36] **Benjamin**: @Kenji, that confirms my fear. If the ground is unstable, we can’t just pour concrete. I’m checking how people actually cross the site to see what they need.
+- [37] **Minato**: @Minako, I found the staff numbers are really low, but there are two volunteer groups already helping. Do you think they can manage the daily care?
+- [38] **Minako**: @Minato, the basin survived, but the apron failed. I’m checking the planting records to see if the greenery actually held up.
+- [39] **Jonathan**: @Minato, the volunteers are helpful, but the ledger shows planted ground costs triple to maintain. I’m checking if their current commitments can realistically absorb that extra daily workload.
+- [40] **Kenji**: @Minato, the phasing notes say we can hoard the south, but the centre and gate stay open. That limits where we can dig.
+- [41] **Benjamin**: @Kenji, the crossing counts show people stick to firm ground. If the centre stays open, we can’t disrupt that flow.
+- [42] **Minato**: @Benjamin, if people need firm ground, does that mean we can’t have soft paths? I’m worried about the safety.
+- [43] **Minako**: @Minato, the eastern avenue trees died because aftercare was ignored. If we plant again without guaranteed maintenance, we repeat that failure.
+- [44] **Jonathan**: @Minako, the ledger confirms the cost gap is widening. I’m checking if the volunteer groups can realistically absorb that extra daily workload.
+- [45] **Kenji**: @Benjamin, if the centre stays open, we can’t dig there. Does that mean we have to pick a plan that works around the main path?
+- [46] **Benjamin**: @Kenji, exactly. The counts show people need firm, open ground. Any plan blocking that flow will fail before the ribbon is cut.
+- [47] **Minato**: @Minako, if the trees died from neglect, does that mean we should avoid planting entirely? I’m worried about the long-term care.
+- [48] **Minako**: @Minato, not avoid it, but guarantee the aftercare. The record shows the trees died because watering was left out of the contract.
+- [49] **Jonathan**: @Minato, the volunteers are committed, but the ledger shows the cost gap is widening. I’m checking if their current commitments can realistically absorb that extra daily workload.
+- [50] **Kenji**: @Benjamin, if the centre is off-limits, does that force us to the edges? I’m checking if the firms can handle the clay there.
+- [51] **Benjamin**: @Kenji, the habitat fund only pays for planting and water, not hard surfaces. So if we avoid the centre, we must design for the edges with green infrastructure.
+- [52] **Minato**: @Benjamin, if the fund only pays for water and plants, does that mean we can’t build the courts or the market stalls?
+- [53] **Minako**: @Minato, the fund terms are strict. It pays for planting and water management only. No surfacing, no buildings. That rules out the market and the courts.
+- [54] **Jonathan**: @Minako, that confirms my fear. If the fund excludes hard surfaces, we are left with high-maintenance greenery. I am checking if the volunteer groups can realistically absorb that extra daily workload.
+## Round 3
+- [60] **Kenji**: @Benjamin, if the fund only covers planting and water, does that mean the wetland plan is the only one we can actually afford to build?
+- [61] **Benjamin**: @Kenji, precisely. The fund excludes surfacing and buildings, which eliminates the market and sports plans. We are left with the wetland or the woodland, both fitting the funding criteria.
+- [62] **Minato**: @Benjamin, if the wetland needs constant water care, will the volunteers be able to handle it? I am worried about the daily workload.
+- [63] **Minako**: @Minato, the basin survived, but the apron failed. I am checking the planting records to see if the greenery actually held up.
+- [64] **Jonathan**: @Minato, the ledger shows water-managed ground costs triple to maintain. With only seven staff, I fear the volunteers cannot absorb that daily burden.
+- [65] **Kenji**: @Benjamin, if the wetland is the only affordable option, can the two firms handle the clay without massive delays?
+- [66] **Benjamin**: @Kenji, the clay risk is real, but the fund terms force our hand. We must prioritize the water management to secure the capital, accepting the earth-moving constraints.
+- [67] **Minato**: @Benjamin, if the wetland is the only affordable option, can the two firms handle the clay without massive delays?
+- [68] **Minako**: @Minato, the wetland is the only option the fund supports. I am checking the planting records to see if the greenery actually held up.
+- [69] **Jonathan**: @Minato, the ledger shows water-managed ground costs triple to maintain. With only seven staff, I fear the volunteers cannot absorb that daily burden.
+- [70] **Kenji**: @Benjamin, if the clay is risky, can we phase the work to keep the park open? I want to avoid long delays.
+- [71] **Benjamin**: @Kenji, the phasing notes confirm the south can be hoarded off. We can stage the earth-moving there, keeping the main crossing paths clear for the public.
+- [72] **Minato**: @Benjamin, that sounds good. But if the wetland is in the south, will the volunteers have to work in the mud every day?
+- [73] **Minako**: @Minato, the wetland requires careful water management, not just mud. I am checking the planting records to see if the greenery actually held up.
+- [74] **Jonathan**: @Minato, the ledger shows water-managed ground costs triple to maintain. With only seven staff, I fear the volunteers cannot absorb that daily burden.
+- [75] **Kenji**: @Benjamin, if we phase the south, does that keep the main gate clear for everyone? I just want to make sure nobody gets stuck.
+- [76] **Benjamin**: @Kenji, yes. The phasing notes confirm the main gate and central crossing remain accessible. We stage the work in the south, keeping the public flow uninterrupted.
+- [77] **Minato**: @Benjamin, that is good to know. But if the wetland is in the south, will the volunteers have to work in the mud every day?
+- [78] **Minako**: @Minato, the wetland is the only option the fund supports. I am checking the planting records to see if the greenery actually held up.
+- [79] **Jonathan**: @Minato, the ledger shows water-managed ground costs triple to maintain. With only seven staff, I fear the volunteers cannot absorb that daily burden.
+### Vote
+- Kenji -> A
+- Benjamin -> A
+- Minato -> A
+- Minako -> A
+- Jonathan -> A
+## Result
+- adopted: A

@@ -1,0 +1,8 @@
+22:42:42 start: 6 jobs, models=mis_b, per_model=2
+22:44:54 single-batch aiwolf_0001 rc=0 132s [mis_b#0] left=5
+22:45:10 single-batch candidate_selection_0001 rc=0 146s [mis_b#1] left=4
+22:46:34 single-batch shared_living_0001 rc=0 100s [mis_b#0] left=3
+22:50:54 multi-private aiwolf_0001 rc=0 344s [mis_b#1] left=2
+22:57:27 multi-private shared_living_0001 rc=0 393s [mis_b#1] left=1
+23:00:40 multi-private candidate_selection_0001 rc=0 846s [mis_b#0] left=0
+23:00:40 all done

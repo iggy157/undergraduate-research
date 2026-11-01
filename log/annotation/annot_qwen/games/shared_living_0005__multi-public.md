@@ -1,0 +1,73 @@
+# shared_living_0005__multi-public (shared_living)
+
+## Round 1
+- [5] **Benjamin**: I’m glad we’re finally addressing this. The current split feels arbitrary, and I’d like to understand the actual usage patterns before we commit to anything.
+- [6] **Mio**: I’m worried about who actually does the math every month. It’s become a huge time sink for whoever ends up with it.
+- [7] **Jonathan**: I agree. The old method was for three people. We need to see if the current split still matches how we actually use the space.
+- [8] **Victoria**: I need to see the full year’s data before agreeing to any new structure. I’m anxious about hidden costs or sudden spikes.
+- [9] **Minato**: I just want us to be nice to each other. The money talk makes everyone feel a bit sad and distant.
+- [10] **Benjamin**: @Mio, that’s a fair point. If the system is too complex, it will just create more friction. Let’s keep it simple.
+- [11] **Mio**: @Benjamin, simple is great, but who actually does the work? I don’t want to be the one stuck with the spreadsheet every month.
+- [12] **Jonathan**: @Mio, I hear you. I’d rather we find a method that doesn’t demand constant manual calculation from anyone.
+- [13] **Victoria**: @Mio, I agree. I need to know the actual yearly cost before committing. Let’s look at the data first.
+- [14] **Minato**: @Mio, I agree. If it takes too long, people get grumpy. I want us to be happy here.
+- [15] **Benjamin**: @Jonathan, exactly. We need to verify if the old split still holds water. Let’s look at the data to see who’s actually carrying the load.
+- [16] **Mio**: @Benjamin, I’m worried about the time it takes to check everything. I want to see how long the monthly settle really takes.
+- [17] **Jonathan**: @Mio, I understand. I want to see if the old split is fair. Let’s look at the actual usage data to be sure.
+- [18] **Victoria**: @Benjamin, I need to see the twelve statements to understand the seasonal spikes. I also want the electrician’s quote to know the upfront cost of meters.
+- [19] **Minato**: @Victoria, I hope the numbers help us feel better. I just want us to stop being quiet and sad about the bills.
+- [20] **Benjamin**: I’ll check the plug-in monitor readings and the winter habits at that other house. I want to know if we’re actually paying for comfort or just anxiety.
+- [21] **Mio**: I’ll check the monthly settle at the other house and the trial run of the reconciliation template. I need to know exactly how many hours this will eat up!
+- [22] **Jonathan**: I’ll look into the last twelve utility statements and the payment log. I need to see if the old split is actually fair or just a rumor.
+- [23] **Victoria**: I’ll look into the last twelve utility statements and the electrician’s quote. I need to know the real yearly cost and the upfront price before I commit.
+- [24] **Minato**: I’ll look at the kitchen notice and the settling up when the last rooms filled. I want to see how the bills made us feel.
+## Round 2
+- [35] **Benjamin**: The monitor shows a four-fold difference in usage. Meanwhile, fixed rates let people stop calculating every switch. We need to address that anxiety.
+- [36] **Mio**: @Benjamin, forty minutes monthly plus a massive year-end data entry job? That’s way too much time for anyone to handle alone.
+- [37] **Jonathan**: @Benjamin, the statements show February at 29,400 yen and August at 9,100. No two months are close. The old split is definitely broken.
+- [38] **Victoria**: @Jonathan, the variance is severe. February is nearly triple August. I also found the metering quote: 34,000 yen per room, plus annual checks. That is a significant upfront cost.
+- [39] **Minato**: @Victoria, I saw the cooler notice. People stopped using it to avoid arguing. I also saw how long it took to settle up when new people moved in.
+- [40] **Benjamin**: @Mio, that time cost is real. But @Jonathan, the variance proves the old split is broken. We need a system that handles these spikes without constant manual math.
+- [41] **Mio**: @Benjamin, forty minutes a month is fine, but the year-end template meant keying in every single invoice! That’s a whole evening gone. I can’t do that.
+- [42] **Jonathan**: @Mio, the payment log confirms your fear. Three months were late because people questioned the shifting amounts. We need a system that stops the arguments before they start.
+- [43] **Victoria**: @Jonathan, the late payments confirm my fear. The 34,000 yen upfront cost for meters is steep, but the seasonal swings are too wild to ignore.
+- [44] **Minato**: @Mio, I saw how long it took to settle up when new people moved in. It was three weeks! I don’t want that stress again.
+- [45] **Benjamin**: @Mio, the year-end work is a dealbreaker. But @Victoria, the upfront cost for meters is high. We need a middle ground that respects both time and money.
+- [46] **Mio**: @Benjamin, I agree. The year-end work is too much. But @Victoria, 34,000 yen is a lot. We need a middle ground that respects both time and money.
+- [47] **Jonathan**: @Benjamin, I agree. The data shows the old split is broken, but the payment log shows the stress is real. We need a method that is both fair and simple enough to prevent those late, angry payments.
+- [48] **Victoria**: @Benjamin, I agree. The upfront cost is steep, but the seasonal swings are too wild to ignore. We need a middle ground that respects both time and money.
+- [49] **Minato**: @Mio, three weeks is too long. I don’t want us to be sad or distant again. I hope we can find a way that is easy and kind.
+- [50] **Benjamin**: @Minato, I hear you. The fixed-rate option removes the monthly anxiety, but the year-end reconciliation is a burden. We need a system that is fair, simple, and doesn’t create new stress.
+- [51] **Mio**: @Benjamin, I agree. The year-end work is a dealbreaker. But @Victoria, 34,000 yen is a lot. We need a middle ground that respects both time and money.
+- [52] **Jonathan**: @Benjamin, I agree. The data proves the old split is broken, but the payment log shows the stress is real. We need a method that is both fair and simple enough to prevent those late, angry payments.
+- [53] **Victoria**: @Benjamin, I agree. The upfront cost is steep, but the seasonal swings are too wild to ignore. We need a middle ground that respects both time and money.
+- [54] **Minato**: @Benjamin, I agree. I just want us to be happy and not argue. A simple way that is kind to everyone would be best.
+## Round 3
+- [60] **Benjamin**: @Mio, the year-end reconciliation is a dealbreaker. @Victoria, the upfront cost for meters is steep. We need a middle ground that respects both time and money.
+- [61] **Mio**: @Benjamin, I agree. Option B’s year-end work is too much, and C’s cost is high. A seems simplest, but is it fair?
+- [62] **Jonathan**: @Mio, Option A is the old method that caused the late payments. It ignores the four-fold usage difference. I cannot support it.
+- [63] **Victoria**: @Jonathan, I understand the fairness concern. However, Option C’s 170,000 yen upfront cost is prohibitive. Option B’s single annual settlement is manageable, unlike the monthly chaos.
+- [64] **Minato**: @Mio, I think Option B is best. It is simple and kind. We just pay the same amount each month, so nobody gets sad or angry.
+- [65] **Benjamin**: @Mio, I agree. Option B’s year-end work is a dealbreaker. @Victoria, the upfront cost for meters is steep. We need a middle ground that respects both time and money.
+- [66] **Mio**: @Benjamin, wait! The year-end template meant keying in every invoice. That’s a whole evening of work. I can’t do that. Option A is too unfair, but B is too much hassle.
+- [67] **Jonathan**: @Mio, the annual settlement is a single event, not a monthly burden. It is far less work than the constant disputes we have now.
+- [68] **Victoria**: @Mio, I understand the fear, but the data shows monthly chaos is worse. One annual check is manageable. I cannot justify the 170,000 yen upfront cost of Option C.
+- [69] **Minato**: @Mio, I am sorry. I just want us to be happy. If B is too hard, maybe A is okay? I do not want us to be sad.
+- [70] **Benjamin**: @Mio, the annual settlement is a single event, not a monthly burden. It is far less work than the constant disputes we have now.
+- [71] **Mio**: @Jonathan, I hear you, but that one evening is still a huge time sink. I just want to know if we can make it easier before I agree.
+- [72] **Jonathan**: @Mio, the payment log shows the current monthly uncertainty causes the real stress. One predictable annual check is far less damaging than constant, shifting demands.
+- [73] **Victoria**: @Mio, I understand the fear. But the data shows monthly chaos is worse. One annual check is manageable. I cannot justify the 170,000 yen upfront cost of Option C.
+- [74] **Minato**: @Mio, I am sorry. I just want us to be happy. If B is too hard, maybe A is okay? I do not want us to be sad.
+- [75] **Benjamin**: @Mio, the annual check is one evening, not a monthly job. It is far less than the constant disputes we have now. I vote for B.
+- [76] **Mio**: @Benjamin, I hear you. One evening is better than monthly chaos. I’ll vote for B, hoping we can keep that final check simple.
+- [77] **Jonathan**: @Mio, the data confirms the old split is broken. One predictable annual check is far less damaging than constant, shifting demands. I vote for B.
+- [78] **Victoria**: @Mio, I agree. One predictable annual check is far less damaging than constant, shifting demands. I vote for B.
+- [79] **Minato**: @Mio, I am happy you are okay. I will vote for B too. I hope it makes us feel safe and kind again.
+### Vote
+- Benjamin -> B
+- Mio -> B
+- Jonathan -> B
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

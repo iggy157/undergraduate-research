@@ -1,0 +1,73 @@
+# shared_living_0011__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The fee shortfall from last year is unacceptable. I need to verify the actual expenses before we commit to new costs.
+- [6] **Toshio**: I need to understand the operational burden. I will examine the canteen closure and last year's cooking duty.
+- [7] **Minako**: The destination shapes who actually shows up. I will examine the attendance sheets and what the seniors say about year-groups mixing.
+- [8] **Jonathan**: I’m concerned about the sleep quality. I will examine the prefecture rate sheet for publicly run beds and the accounts from two clubs that went inland.
+- [9] **Asuka**: I need to verify the true cost distribution. I will examine the group transport receipts and the quoting terms for whole-building lets.
+- [10] **Ryuji**: I will examine the accounts from two clubs that went inland and the quoting terms for whole-building lets. I need to see the true financial exposure.
+- [11] **Toshio**: I will examine the canteen closure and last year's cooking duty. I need to see if we can eliminate the meal preparation burden entirely.
+- [12] **Minako**: I will examine the attendance sheets for the away camps and what the seniors say about year-groups mixing.
+- [13] **Jonathan**: I will examine the prefecture rate sheet for publicly run beds and the accounts from two clubs that went inland.
+- [14] **Asuka**: I will examine the group transport receipts and the quoting terms for whole-building lets. I need to verify the true cost distribution and cancellation liabilities.
+- [15] **Ryuji**: I will examine the accounts from two clubs that went inland and the quoting terms for whole-building lets. I need to see the true financial exposure.
+- [16] **Toshio**: I will examine the canteen closure and last year's cooking duty. I need to see if we can eliminate the meal preparation burden entirely.
+- [17] **Minako**: I will examine the attendance sheets for the away camps and what the seniors say about year-groups mixing.
+- [18] **Jonathan**: I will examine the prefecture rate sheet for publicly run beds and the accounts from two clubs that went inland.
+- [19] **Asuka**: I will examine the group transport receipts and the quoting terms for whole-building lets. I need to verify the true cost distribution and cancellation liabilities.
+- [20] **Ryuji**: I will examine the accounts from two clubs that went inland and the quoting terms for whole-building lets. I need to see the true financial exposure.
+- [21] **Toshio**: I will examine the canteen closure and last year's cooking duty. I need to see if we can eliminate the meal preparation burden entirely.
+- [22] **Minako**: I will examine the attendance sheets for the away camps and what the seniors say about year-groups mixing.
+- [23] **Jonathan**: I will examine the prefecture rate sheet for publicly run beds and the accounts from two clubs that went inland.
+- [24] **Asuka**: I will examine the group transport receipts and the quoting terms for whole-building lets. I need to verify the true cost distribution and cancellation liabilities.
+## Round 2
+- [35] **Ryuji**: The inland clubs slept eight to a room. Whole-building lets charge for cancellations. We cannot absorb that risk. I need to know the true cost before committing.
+- [36] **Toshio**: The canteen is closed, so we must find staffed kitchens. Also, the public booking lottery is a nine-page nightmare. We need a private venue to avoid that administrative burden.
+- [37] **Minako**: The sheets show a fifth never came, and the seniors say mixing only happens when we sleep together. We must choose a destination that forces that connection.
+- [38] **Jonathan**: Eight to a room sounds exhausting. I need to know if the public beds offer more privacy. I hope the quiet helps everyone rest better.
+- [39] **Asuka**: The receipts show transport is thirty-eight percent of costs. Worse, whole-building lets charge for cancellations. We need flexible terms to protect the account.
+- [40] **Ryuji**: @Asuka, the non-refundable deposit is a trap. If one person cancels, the rest pay. We need flexible terms to protect the account from further deficit.
+- [41] **Toshio**: @Ryuji, I agree. The lottery is a nine-page nightmare. We need a private venue with staffed kitchens to eliminate the cooking burden that destroyed last year’s committee.
+- [42] **Minako**: @Toshio, I hear you on the burden. But if we don't sleep together, the year-groups stay isolated. We need a place that makes connection easy, not just convenient.
+- [43] **Jonathan**: @Minako, I understand the value of connection. But if we are exhausted, we cannot connect. I need to ensure the sleeping arrangements allow for genuine rest first.
+- [44] **Asuka**: @Toshio, the nine-page lottery is an administrative burden, but the non-refundable deposit is a financial liability. We must prioritize flexible cancellation terms to prevent the account from absorbing individual losses.
+- [45] **Ryuji**: @Minako, connection is vital, but it cannot bankrupt us. If the venue charges for absentees, the account absorbs the loss. We need flexible terms to ensure the fee covers the actual cost.
+- [46] **Toshio**: @Minako, connection is vital, but it cannot bankrupt us. If the venue charges for absentees, the account absorbs the loss. We need flexible terms to ensure the fee covers the actual cost.
+- [47] **Minako**: @Ryuji, I understand the financial risk. But the sheets prove isolation causes dropouts. We need a venue that balances flexible terms with shared living to keep the membership whole.
+- [48] **Jonathan**: @Minako, I agree. Rest is the foundation for connection. If we are exhausted, we cannot engage. I need to verify the quietness of the public beds to ensure genuine recovery.
+- [49] **Asuka**: @Minako, connection is secondary to financial stability. If the fee is flat but costs vary, the account absorbs the difference. We need a venue with flexible terms to prevent that hidden deficit.
+- [50] **Ryuji**: @Asuka, I stand by my position. We must avoid fixed headcounts. I will vote for the option with the most flexible cancellation terms to protect the account from further deficit.
+- [51] **Toshio**: @Ryuji, I agree. We must avoid the rigid public lottery. I will vote for the option that eliminates the cooking burden and administrative hassle to protect the committee.
+- [52] **Minako**: @Ryuji, I understand the financial caution. But the data shows isolation causes dropouts. I will vote for the option that ensures shared living to keep the membership whole.
+- [53] **Jonathan**: I will vote for the option that guarantees the quietest, most restful nights. Without genuine sleep, the camp fails.
+- [54] **Asuka**: I stand by my position. We must avoid fixed headcounts and non-refundable deposits. I will vote for the option with the most flexible cancellation terms to protect the account from hidden deficits.
+## Round 3
+- [60] **Ryuji**: Option C’s municipal system is the nine-page lottery I warned about. Option A’s owner handles meals, eliminating cooking duty. I reject C’s administrative burden.
+- [61] **Toshio**: Option C is the nine-page lottery I warned about. Option A’s owner handles meals, eliminating the cooking burden that destroyed last year’s committee. I reject C’s administrative risk.
+- [62] **Minako**: Option B keeps us apart, which the seniors say kills mixing. Option C’s shared dorms force the connection we need. I reject B’s isolation.
+- [63] **Jonathan**: Option C’s eight-to-a-room dorms sound exhausting. I need genuine rest, not just proximity. I worry the noise will ruin our final day’s focus.
+- [64] **Asuka**: Option A’s whole-building let likely carries a non-refundable deposit. If one person cancels, the rest pay. I reject A’s fixed headcount risk.
+- [65] **Ryuji**: @Asuka, Option A’s owner handles meals, eliminating the cooking burden. I reject C’s administrative nightmare. I will vote for A to protect the committee from burnout.
+- [66] **Toshio**: @Ryuji, I agree. Option A’s owner handles meals, eliminating the cooking burden that destroyed last year’s committee. I reject C’s administrative risk. I will vote for A to protect the committee.
+- [67] **Minako**: @Ryuji, I hear the burnout risk. But the data is clear: isolation causes dropouts. Option C’s shared dorms are the only way to force the connection we need. I will vote for C.
+- [68] **Jonathan**: @Minako, I understand the need for connection. But eight to a room guarantees exhaustion. I cannot support C. I will vote for A, hoping the private building offers the quiet rest we desperately need.
+- [69] **Asuka**: @Ryuji, Option A’s fixed headcount is a financial trap. If one person cancels, the rest absorb the loss. I reject A. I will vote for B to avoid the non-refundable deposit risk.
+- [70] **Ryuji**: @Asuka, Option A’s owner handles meals, eliminating the cooking burden that destroyed last year’s committee. I reject C’s administrative nightmare. I will vote for A to protect the committee from burnout.
+- [71] **Toshio**: @Asuka, I understand the financial risk. But Option A’s owner handles meals, eliminating the cooking burden that destroyed last year’s committee. I reject C’s administrative nightmare. I will vote for A to protect the committee.
+- [72] **Minako**: @Asuka, I hear the financial caution. But the data is clear: isolation causes dropouts. Option C’s shared dorms are the only way to force the connection we need. I will vote for C.
+- [73] **Jonathan**: @Asuka, I understand the financial caution. But Option B’s separate accommodation risks the same isolation that harms our focus. I will vote for A, hoping the private building offers the quiet rest we need.
+- [74] **Asuka**: @Jonathan, Option B’s separate accommodation is a hidden cost trap. The flat fee masks individual spending. I stand by my vote for B to avoid A’s non-refundable deposit risk.
+- [75] **Ryuji**: @Asuka, I stand by my vote for A. The owner handles meals, eliminating the cooking burden that destroyed last year’s committee. We must protect the committee from burnout.
+- [76] **Toshio**: @Asuka, I stand by my vote for A. The owner handles meals, eliminating the cooking burden that destroyed last year’s committee. We must protect the committee from burnout.
+- [77] **Minako**: @Asuka, I stand by my vote for C. The data proves isolation causes dropouts. Shared dorms are the only way to force the connection we need to keep the membership whole.
+- [78] **Jonathan**: @Asuka, I stand by my vote for A. The private building offers the quiet rest we need. Without genuine sleep, the camp fails. I hope the seaside air helps us recover.
+- [79] **Asuka**: I stand by my vote for B. Option A’s non-refundable deposit is an unacceptable financial liability. We cannot risk the account absorbing individual cancellations.
+### Vote
+- Ryuji -> A
+- Toshio -> A
+- Minako -> C
+- Jonathan -> A
+- Asuka -> B
+## Result
+- adopted: A

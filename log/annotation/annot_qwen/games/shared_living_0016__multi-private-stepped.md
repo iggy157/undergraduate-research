@@ -1,0 +1,73 @@
+# shared_living_0016__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Minato**: I worry about the person who will keep the books next year.
+- [6] **Ryuji**: We need to know the actual cash flow before setting any numbers.
+- [7] **Minako**: The structure must remain simple enough for new members to understand.
+- [8] **May**: I am curious why some regulars hesitate to commit to evenings now.
+- [9] **Shunichi**: Let’s stop guessing and look at the data that actually exists.
+- [10] **Minato**: @Ryuji, do you think the ledger will show if the job is too heavy?
+- [11] **Ryuji**: It will show the volume of transactions, which indicates the workload.
+- [12] **Minako**: I agree. Simplicity is key, but we need accurate cost data first.
+- [13] **May**: I want to see if the hesitation is linked to specific events or times.
+- [14] **Shunichi**: The attendance records will tell us who is actually showing up consistently.
+- [15] **Minato**: I hope we can find a way that doesn’t burn out the treasurer.
+- [16] **Ryuji**: If the income is uncertain, we cannot set a fixed fee safely.
+- [17] **Minako**: We must ensure the fee doesn’t create a barrier for those just starting.
+- [18] **May**: It feels like the social glue is fraying, and I want to understand why.
+- [19] **Shunichi**: Uneven participation is a fact, not a rumor. We should verify the scale.
+- [20] **Minato**: I will look into the hours logged to understand the time commitment.
+- [21] **Ryuji**: I need to see the bank statements to verify the actual inflows.
+- [22] **Minako**: I will check the sign-up records to see how new members join.
+- [23] **May**: I want to look at the weekday turnout to see the pattern of hesitation.
+- [24] **Shunichi**: I will examine the sign-in sheets and the rota to map the core group.
+## Round 2
+- [35] **Minato**: The hours show chasing money takes six hours a month, which is too much.
+- [36] **Ryuji**: The bank statements show a third of renewals only cleared after two rounds of reminders.
+- [37] **Minako**: The sign-up records show eleven people needed hand-worked part-year calculations to join.
+- [38] **May**: The weekday turnout fell by a third after the summer outings added a door charge.
+- [39] **Shunichi**: The data confirms the core nine do the work while the rest barely show.
+- [40] **Minato**: @Ryuji, if reminders take so long, a single yearly payment would save that time.
+- [41] **Ryuji**: A single payment would help, but the ledger shows seventy percent of costs are fixed.
+- [42] **Minako**: The taster forms show nine people refused a whole year at once.
+- [43] **May**: The winter social notes say the quieter members feel uneasy about what each outing costs.
+- [44] **Shunichi**: The ledger shows the core nine cover the fixed costs, so the rest are subsidizing them.
+- [45] **Minato**: I am worried that a yearly fee will scare off the people who only come sometimes.
+- [46] **Ryuji**: The fixed costs mean we need a base fee that covers the hall and insurance.
+- [47] **Minako**: We need a way to let people join for a season without a full year.
+- [48] **May**: The hesitation is real; people are weighing up whether they belong enough to pay.
+- [49] **Shunichi**: The core nine are carrying the load, so the fee should reflect that reality.
+- [50] **Minato**: I think a base fee plus a small per-session charge might balance the books and the feelings.
+- [51] **Ryuji**: That structure would cover the fixed costs while keeping the variable costs visible.
+- [52] **Minako**: A seasonal option would let newcomers drift in without the pressure of a full year.
+- [53] **May**: If the per-session charge is small, it might remove the hesitation about committing to a whole year.
+- [54] **Shunichi**: The core nine will still pay the base fee, but the per-session charge will be fair to the rest.
+## Round 3
+- [60] **Minato**: Option B seems to protect the treasurer from chasing money for every single event.
+- [61] **Ryuji**: Option B keeps the fixed costs covered by the base fee, which is what the ledger demands.
+- [62] **Minako**: Option B allows the seasonal drift that the taster forms say people need.
+- [63] **May**: Option B removes the hesitation because people only pay for what they actually do.
+- [64] **Shunichi**: Option B is the only one that matches the reality of who is actually showing up.
+- [65] **Minato**: I am still a little worried about the complexity of collecting small charges, but it is better than the alternative.
+- [66] **Ryuji**: The complexity is manageable if the base fee covers the bulk of the fixed costs.
+- [67] **Minako**: The simplicity of the base fee is preserved, and the per-session charge is transparent.
+- [68] **May**: The per-session charge is small enough that it does not create a barrier, but it makes the cost visible.
+- [69] **Shunichi**: The core nine will pay the base fee and the per-session charges, which is fair given their attendance.
+- [70] **Minato**: I think we should go with Option B, as it balances the financial needs with the social reality.
+- [71] **Ryuji**: I agree. Option B is the most rational choice given the data we have.
+- [72] **Minako**: I support Option B. It respects the way people actually join and participate.
+- [73] **May**: I am in favor of Option B. It addresses the hesitation I have been seeing.
+- [74] **Shunichi**: Option B is the only structure that reflects the uneven participation we have documented.
+- [75] **Minato**: I am ready to vote for Option B, hoping it will make the treasurer's job easier.
+- [76] **Ryuji**: I will vote for Option B, as it is the only one that covers the fixed costs reliably.
+- [77] **Minako**: I will vote for Option B, as it allows for the seasonal drift that new members need.
+- [78] **May**: I will vote for Option B, as it removes the hesitation about committing to a full year.
+- [79] **Shunichi**: I will vote for Option B, as it is the only one that matches the data on who is actually doing the work.
+### Vote
+- Minato -> B
+- Ryuji -> B
+- Minako -> B
+- May -> B
+- Shunichi -> B
+## Result
+- adopted: B

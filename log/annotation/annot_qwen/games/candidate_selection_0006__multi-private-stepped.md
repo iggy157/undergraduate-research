@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about long-term stability. Which proposals rely on external partners?
+- [6] **Jonathan**: We should verify if past similar projects actually improved patient outcomes.
+- [7] **Misaki**: Staffing capacity is the silent killer. Who is absorbing the new workload?
+- [8] **Shion**: I am curious about the hidden costs. Who is tracking the recurring expenses?
+- [9] **Shizue**: I just want to know if our current rooms and parking can handle more people.
+- [10] **Midori**: @Misaki, that is a valid point. I have seen good ideas fail due to burnout.
+- [11] **Jonathan**: I agree. We need data, not just enthusiasm. Let us look at the records.
+- [12] **Misaki**: I will check the staffing reviews. I need to see the actual vacancy rates.
+- [13] **Shion**: I will look at the ledger. I want to see what is actually left after overhead.
+- [14] **Shizue**: I will check the booking system. I need to see how full we already are.
+- [15] **Midori**: I will look into the readmission figures. I want to see if the trial worked.
+- [16] **Jonathan**: I will check the board minutes. I want to see what was decided before.
+- [17] **Misaki**: I will also check the therapy staffing. I need to see the midwifery numbers too.
+- [18] **Shion**: I will also check the regional fund tariffs. I want to see the income side.
+- [19] **Shizue**: I will also check the rooms and parking coverage. I need to see the physical limits.
+- [20] **Midori**: Thank you all. Let us see what the data says before we decide.
+- [21] **Jonathan**: Agreed. The truth is often quieter than the pitch.
+- [22] **Misaki**: I will be reviewing the rosters. I hope they are honest.
+- [23] **Shion**: I will be calculating the break-even point. I hope it is not negative.
+- [24] **Shizue**: I will be counting the spaces. I hope there is enough room for everyone.
+## Round 2
+- [35] **Midori**: The readmission data is promising, but the staffing gap is worrying. We are relying on agency cover.
+- [36] **Jonathan**: The board minutes show a joint clinic failed because no one owned the budget. We must avoid that.
+- [37] **Misaki**: The therapy review shows four years of physiotherapists leaving. The midwifery rota has slack, but nursing is empty.
+- [38] **Shion**: The ledger shows the development fund is down by a quarter. Fitting out is now charged against it.
+- [39] **Shizue**: The booking system has no slot for walk-ins. The car park is full by eleven. We are already at capacity.
+- [40] **Midori**: @Shion, that is a serious constraint. We cannot fund a program that needs new rooms.
+- [41] **Jonathan**: @Midori, the readmission trial worked, but it stopped. We need a sustainable model, not a trial.
+- [42] **Misaki**: The nursing vacancies mean any new program will just add to the agency bill. That is not sustainable.
+- [43] **Shion**: The tariffs show that off-site contacts earn nothing. On-site sessions bill at the standard rate.
+- [44] **Shizue**: If we add a program, where do the patients go? The shuttle only goes to four villages.
+- [45] **Midori**: I think we need a program that uses existing staff and rooms. No new infrastructure.
+- [46] **Jonathan**: I agree. The call-back trial is a good model. It used existing nurses and phones.
+- [47] **Misaki**: The call-back trial used nurses who were already there. It did not add to the agency bill.
+- [48] **Shion**: The call-back trial earned back its cost in six months. The other proposals do not.
+- [49] **Shizue**: The call-back trial does not need new rooms. It does not need new parking. It fits.
+- [50] **Midori**: I am leaning towards the call-back trial. It is sustainable and it works.
+- [51] **Jonathan**: I support the call-back trial. It is quiet, effective, and it does not add to the pile.
+- [52] **Misaki**: I will support the call-back trial. It does not add to the nursing vacancies.
+- [53] **Shion**: I will support the call-back trial. It is the only one that pays for itself.
+- [54] **Shizue**: I will support the call-back trial. It fits into the day we already have.
+## Round 3
+- [60] **Midori**: Option A, the Home Follow-Up Team, seems to match the call-back trial's success. It uses existing nurses.
+- [61] **Jonathan**: Option A is the quiet choice. It does not add to the infrastructure. It just adds a visit.
+- [62] **Misaki**: Option A uses nurses who are already on the ward. It does not add to the agency bill.
+- [63] **Shion**: Option A is the only one that fits the ledger. It does not need new rooms or new tariffs.
+- [64] **Shizue**: Option A does not need new rooms. It does not need new parking. It fits into the day.
+- [65] **Midori**: I am concerned about Option B. It needs a dedicated space. We do not have one.
+- [66] **Jonathan**: Option B is too loud. It needs new equipment and new staff. It adds to the pile.
+- [67] **Misaki**: Option B adds to the therapy staffing gap. We are already losing physiotherapists.
+- [68] **Shion**: Option B does not earn back its cost. The tariffs do not cover the fitting out.
+- [69] **Shizue**: Option B needs a room. We do not have a room. The car park is full.
+- [70] **Midori**: Option C is good, but it needs coordinators. We do not have coordinators.
+- [71] **Jonathan**: Option C is a good idea, but it is a new role. It adds to the complexity.
+- [72] **Misaki**: Option C adds to the nursing vacancies. It needs people who are not there.
+- [73] **Shion**: Option C does not earn back its cost. The tariffs do not cover the coordination time.
+- [74] **Shizue**: Option C needs a desk. We do not have a desk. The booking system has no slot.
+- [75] **Midori**: Option D is kind, but it needs midwifery staff. We have slack, but not enough.
+- [76] **Jonathan**: Option D is a good idea, but it is a new service. It adds to the pile.
+- [77] **Misaki**: Option D uses the midwifery slack, but it adds to the pediatric load. It is not balanced.
+- [78] **Shion**: Option D does not earn back its cost. The tariffs do not cover the joint sessions.
+- [79] **Shizue**: Option D needs a room. We do not have a room. The shuttle does not go to all villages.
+### Vote
+- Midori -> A
+- Jonathan -> A
+- Misaki -> A
+- Shion -> A
+- Shizue -> A
+## Result
+- adopted: A

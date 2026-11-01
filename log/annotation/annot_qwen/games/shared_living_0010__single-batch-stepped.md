@@ -1,0 +1,73 @@
+# shared_living_0010__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The current system is failing. We need to define the scope of work before assigning it.
+- [6] **Mio**: I feel like the load is uneven. Some of us are here more than others.
+- [7] **Victoria**: I am worried about the social friction this is causing. We need a sustainable solution.
+- [8] **Rin**: I just want to know who is paying for the supplies. It’s always my wallet.
+- [9] **Daisuke**: I... I just want the rooms to be predictable. I don't like the surprises.
+- [10] **Ryuji**: @Mio, how do you propose we measure "uneven"? We need data, not feelings.
+- [11] **Mio**: @Ryuji, it’s obvious. Look at the calendar. Some people are gone for weeks.
+- [12] **Victoria**: @Rin, the cost is a symptom. The root is the lack of clear responsibility.
+- [13] **Rin**: @Victoria, but if we don't track the money, the resentment stays. I need numbers.
+- [14] **Daisuke**: I agree with Rin. If we know the cost, maybe we can stop guessing.
+- [15] **Ryuji**: I will look into the time it actually takes to clean. We are underestimating it.
+- [16] **Mio**: I will check the absences on the wall calendar. We need to see who is actually here.
+- [17] **Victoria**: I will read the note left by the previous tenants. Their failure is a warning.
+- [18] **Rin**: I will check the receipts in the tin. I need to see the monthly drain.
+- [19] **Daisuke**: I will look at what each housemate counts as done. The standards are all over the place.
+- [20] **Ryuji**: I will also time a full pass with a stopwatch. Precision is key.
+- [21] **Mio**: I will also watch the kitchen use for a fortnight. Who is making the mess?
+- [22] **Victoria**: I will also review the rows recorded in the house chat. I want to see the triggers.
+- [23] **Rin**: I will also check the bathroom spray stock. It seems we are buying duplicates.
+- [24] **Daisuke**: I will also check the bathroom grout after the July scrub. I need to know the decay rate.
+## Round 2
+- [35] **Ryuji**: The timing data is shocking. A full pass takes over an hour. The outside firm requires prep.
+- [36] **Mio**: The calendar shows two of us are away most months. The kitchen mess comes from three people.
+- [37] **Victoria**: The previous tenants divided rooms permanently and stopped speaking. The chat logs show reminders cause fights.
+- [38] **Rin**: The receipts show 2,300 yen a month in waste. The management office charges 4,200 yen an hour.
+- [39] **Daisuke**: The definition of "done" varies wildly. The grout gets dirty again in eleven days. It’s hopeless.
+- [40] **Ryuji**: @Rin, 4,200 yen an hour is expensive. But if it takes us 100 minutes, it’s 7,000 yen in lost time.
+- [41] **Mio**: @Ryuji, if we pay a pro, the "away" people still pay. Is that fair?
+- [42] **Victoria**: @Mio, fairness is secondary to peace. The previous tenants' silence is what I fear.
+- [43] **Rin**: @Victoria, but if we pay, I need to know who settles the invoice. The management office bills one person.
+- [44] **Daisuke**: I think... if we pay, we don't have to argue about what "done" means.
+- [45] **Ryuji**: The firm's terms say they work around mess. We still have to tidy up. It’s not a magic fix.
+- [46] **Mio**: But it removes the daily friction. I don't want to be the one checking the grout.
+- [47] **Victoria**: It removes the need for me to be the one reminding you. That is worth the cost.
+- [48] **Rin**: I can handle the billing if we split it evenly. I just want the receipts to stop piling up.
+- [49] **Daisuke**: I am okay with paying. I just want the bathroom to stay clean for more than a week.
+- [50] **Ryuji**: I am leaning towards the paid service. It standardizes the output.
+- [51] **Mio**: I agree. It solves the absence problem.
+- [52] **Victoria**: I support it. It protects our relationships.
+- [53] **Rin**: I support it, provided we automate the payment split.
+- [54] **Daisuke**: I support it. Please.
+## Round 3
+- [60] **Ryuji**: Option A is too risky. Option B is too rigid. Option C is the only one that scales.
+- [61] **Mio**: Option C handles the absences. Option B would just shift the blame to the present people.
+- [62] **Victoria**: Option A led to silence before. Option C keeps the interaction minimal and professional.
+- [63] **Rin**: Option C lets me track the cost easily. Option B means I’m always chasing people for supplies.
+- [64] **Daisuke**: Option C means I don't have to guess. I just have to be there when they come.
+- [65] **Ryuji**: The cost is high, but the time saved is significant. I vote C.
+- [66] **Mio**: The fairness of the split is manageable. I vote C.
+- [67] **Victoria**: The social capital saved is worth the yen. I vote C.
+- [68] **Rin**: The financial clarity is what I need. I vote C.
+- [69] **Daisuke**: The predictability is what I need. I vote C.
+- [70] **Ryuji**: Is there any objection to the billing method?
+- [71] **Mio**: No, as long as it’s automatic.
+- [72] **Victoria**: No.
+- [73] **Rin**: I will set up the transfer.
+- [74] **Daisuke**: Thank you.
+- [75] **Ryuji**: Let’s finalize this.
+- [76] **Mio**: Agreed.
+- [77] **Victoria**: Agreed.
+- [78] **Rin**: Agreed.
+- [79] **Daisuke**: Agreed.
+### Vote
+- Ryuji -> C
+- Mio -> C
+- Victoria -> C
+- Rin -> C
+- Daisuke -> C
+## Result
+- adopted: C

@@ -1,0 +1,8 @@
+23:29:25 start: 6 jobs, models=default_e, per_model=3
+23:31:43 single-batch aiwolf_0004 rc=0 138s [default_e#0] left=5
+23:32:11 single-batch candidate_selection_0004 rc=0 166s [default_e#1] left=4
+23:32:28 single-batch shared_living_0004 rc=0 181s [default_e#2] left=3
+23:38:45 multi-private candidate_selection_0004 rc=0 394s [default_e#1] left=2
+23:39:07 multi-private aiwolf_0004 rc=0 445s [default_e#0] left=1
+23:39:37 multi-private shared_living_0004 rc=0 429s [default_e#2] left=0
+23:39:37 all done

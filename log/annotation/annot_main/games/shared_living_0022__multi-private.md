@@ -1,0 +1,73 @@
+# shared_living_0022__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: Hi everyone! Let's get this sorted so we can stop complaining and start relaxing. I want to make sure whatever we decide is actually fair for everyone involved. Shall we dive in?
+- [6] **Mizuki**: I agree. Let's be efficient. To make a fair decision, we need a clear picture of the current problems and what's actually possible. I suggest we start by examining the facts before proposing solutions.
+- [7] **Kenji**: I'm in! Let's make this a great spot for everyone. I think we should check the money side of things first so we know what we can actually afford. What do you guys think?
+- [8] **Midori**: I agree with Kenji. It's important to be mindful of the costs. I also hope we can find a solution that makes everyone feel comfortable and happy living side by side. Let's be considerate of each other.
+- [9] **Servas**: It is a pleasure to see such spirit. Let us move forward with kindness and patience. To ensure our solution is sustainable for the soul and the schedule, I believe we need a comprehensive view.
+- [10] **May**: I'm with you, Mizuki. Facts first! I'm curious about the "Ward complaint log for this point" and the "Measurements of the five frontages." Let's see who's actually bothered and how much space we're dealing with.
+- [11] **Mizuki**: That's a practical start, May. I'll look into the "Supervised mornings on the next lane" and the "Visit to the station block's bin house" to see how other areas manage their daily operations.
+- [12] **Kenji**: I'll take the "Block ledger of refuse-point expenses" and "Ward subsidy and last year's shelter costs"! I want to see exactly how much we've been spending and if the ward helps us out.
+- [13] **Midori**: I'll look into the "Statements at the residents' meeting" and the "Ward complaint log for this point." I want to understand the history of our disagreements so we can move forward in harmony.
+- [14] **Servas**: I shall look into the "Truck arrival time from the crew leader" and the "Ward filing requirements per the installations clerk." Understanding the rhythm of the work and the rules will help us avoid undue burdens.
+- [15] **May**: Sounds like we've got all our bases covered! I'm especially interested to see if the space measurements reveal any imbalances. @Midori, let me know if the complaint log shows any specific patterns!
+- [16] **Mizuki**: @May, patterns are key. If we understand the root of the complaints and the reality of neighboring setups, we can avoid a superficial fix that just creates new problems. Let's see what the data reveals.
+- [17] **Kenji**: I'll be sure to share what I find about the money! I hope we can find a way to make it easy for everyone to pay their share without any stress. This is going to be a fun puzzle to solve!
+- [18] **Midori**: I'll definitely share what I find, @May. I just hope that by looking at the past, we can find a way to be kinder to one another in the future. I'm looking forward to hearing everyone's findings.
+- [19] **Servas**: Wisdom often comes from understanding the small, repetitive motions of life. By knowing the timing and the rules, we can ensure that no one person carries a weight that is too heavy for their shoulders.
+- [20] **May**: Perfect! We've divided the work beautifully. I'll go get those measurements and check the logs. Let's meet back here soon and see if we can actually make this "fair" for everyone. See you all later!
+- [21] **Mizuki**: I'll be ready. Let's ensure we remain objective when we return. I look forward to seeing how the practical realities of other blocks compare to our current situation. See you all soon.
+- [22] **Kenji**: I'm on it! I'll dig into those ledgers and find out all about the costs. See you guys soon! I can't wait to see what we find out!
+- [23] **Midori**: I'll do my best to gather the information we need. I hope we can all come back together with a spirit of cooperation. See you all soon, and take care!
+- [24] **Servas**: Go in peace, my friends. Let us gather our knowledge with a quiet mind and a generous heart. I shall await your return with anticipation. Until we meet again, be well.
+## Round 2
+- [35] **May**: Well, the numbers are in! It turns out the "complaints" are mostly coming from one specific house, and our frontages are definitely not equal. Some of us have way more room to breathe than others. Interesting, right?
+- [36] **Mizuki**: That is a significant detail, May. It suggests the issue might be more about specific perspectives than a general failure. I've found that some "solutions" can actually worsen the environment, especially during the summer months.
+- [37] **Kenji**: Wow, I found some big numbers! Last year's shelters cost a lot, but the ward gives some money back. Also, we're spending thousands every year just on nets and smells because of the open bags!
+- [38] **Midori**: It sounds like we have a lot to think about. I noticed that most complaints come from one household, and at the meeting, people were hesitant to police each other. I'm worried about the tension this creates between us.
+- [39] **Servas**: It is enlightening to hear your findings. I have learned that the truck arrives quite early, and the bureaucracy for a permanent structure is quite demanding. We must be careful not to create a system that is too rigid.
+- [40] **May**: @Kenji, spending thousands on nets is a bit much, isn't it? And @Midori, since the complaints are so one-sided, it's clear the current setup is a burden for one person. We can't just ignore that imbalance.
+- [41] **Mizuki**: @May, while addressing the imbalance is necessary, we must be cautious. I've seen that enclosed structures can trap odors and become worse in August. A "fair" solution that creates a permanent smell is not a solution at all.
+- [42] **Kenji**: @Mizuki, that's a good point! But if we keep spending money on deodorants and nets every year, that's also a problem. Maybe there's a way to keep it fresh without spending too much?
+- [43] **Midori**: @May, you're right that the burden is uneven. But if we focus only on the space, we might miss the feelings involved. I want us to find a way to resolve this without anyone feeling singled out or resentful.
+- [44] **Servas**: True harmony is found when we balance the physical needs with the human spirit. If the rules are too strict and the hours too early, we risk exhausting the very people we wish to support. Let us be mindful of the time.
+- [45] **May**: @Servas, I agree we shouldn't be exhausted, but we can't be lazy about fairness either. If one person has been stuck with the bins at their gate for years, "harmony" means actually moving them or sharing the load.
+- [46] **Mizuki**: @May, moving the bins is a logical step, but we must consider the daily reality. If we simply shift the location, we might just move the annoyance to another neighbor. We need a system that manages the environment, not just the position.
+- [47] **Kenji**: @Mizuki, @May, I'm thinking about the money again. If we build something fancy to stop the smells, it might cost a lot! We need to make sure everyone can afford the bill, no matter their budget.
+- [48] **Midori**: @Kenji, I agree. Financial stress can lead to more arguments. I just hope we don't let the cost or the location become a reason for us to stop talking to each other. Let's be gentle with one another.
+- [49] **Servas**: Money and space are but the surface of the water. The true current is the time and energy we give. Let us ensure our plan does not quietly drain the spirit of a few.
+- [50] **May**: Exactly, @Servas! That's my point. "Sharing the load" shouldn't just be a phrase; it needs to be a reality. If we just sign a paper without changing the physical burden, we're not being fair, we're just being polite.
+- [51] **Mizuki**: Politeness without a practical foundation is fragile, May. We must ensure the chosen arrangement is sustainable for the person living beside it every single day, especially in the heat, or the complaints will simply shift.
+- [52] **Kenji**: I agree! Let's find a way to stop those smells and the waste of money on nets, but without making it too expensive for anyone. I'm sure we can find a balance that makes everyone happy!
+- [53] **Midori**: I hope we can all agree that our relationship as neighbors is the most valuable thing here. Let's choose an option that solves the practical problems while bringing us closer together, rather than creating new divisions.
+- [54] **Servas**: Indeed. Let us remember that the most enduring structures are not made of wood or stone, but of mutual respect. I look forward to seeing the options and choosing a path that honors everyone's time and peace.
+## Round 3
+- [60] **May**: Option A is the only one that actually addresses the imbalance I found. Why should one person suffer while we just "oversee" it? Rotating the location is the only way to make this truly equal.
+- [61] **Mizuki**: @May, equality in location doesn't guarantee a quality environment. If we rotate the point, we're just rotating the annoyance. Option B is more logical; it manages the actual cause of the complaints—the timing and presence of waste.
+- [62] **Kenji**: @Mizuki, @May, I'm worried about Option C! A permanent structure sounds great for smells, but it's really expensive. Even with the subsidy, the bill might be too high for some of us to pay at once.
+- [63] **Midori**: I'm worried that Option A might cause more friction, as moving the bins could lead to new arguments. Option B requires us to police each other, which I'm afraid might be too stressful for our relationships.
+- [64] **Servas**: Option B asks us to oversee the point, which may lead to the same exhaustion we have seen before. Option A is a cycle of change, but Option C, while costly, offers a lasting peace.
+- [65] **May**: @Servas, "lasting peace" in Option C is just a fancy way of saying the bins stay at the same gate forever! That's not peace; that's just ignoring the person who's been burdened for years. Option A is the only fair choice.
+- [66] **Mizuki**: @May, fairness isn't just about location; it's about the lived experience. Option C can trap odors and become unbearable in August, and Option A just shifts the problem. Option B addresses the root cause by limiting waste exposure.
+- [67] **Kenji**: @Mizuki, but Option B doesn't stop the money leak! We're still spending thousands on nets and deodorants. If we can't afford Option C, maybe Option A is better because it doesn't cost extra money to move the bins?
+- [68] **Midori**: @Kenji, you're right that cost is a factor. But if we choose Option A, will we just be moving the tension from one house to another? I'm worried we'll just be rotating the resentment instead of solving it.
+- [69] **Servas**: @Midori, your concern is a mirror of the truth. If we rotate the burden, we only rotate the fatigue. Option A is a carousel of duty, and Option B is a watchman's vigil. Let us seek the path of least exhaustion.
+- [70] **May**: @Servas, "least exhaustion" for us is "maximum exhaustion" for the person currently stuck with the bins! We can't keep pretending that's okay. Option A is the only one that stops one person from being the neighborhood's dumping ground.
+- [71] **Mizuki**: @May, your focus is on the location, but the real issue is the waste itself. Option B's supervision is only about twenty mornings a year per house. It's a manageable burden that ensures the area stays clean for everyone.
+- [72] **Kenji**: @Mizuki, but who pays for the nets and deodorants in Option B? If we keep spending that money every year, it's like a hidden bill that never ends. Option A seems the cheapest and fairest for our wallets!
+- [73] **Midori**: @Kenji, I understand the cost is a worry, but I'm more concerned about our hearts. If we choose Option A, will we be okay with the bins moving to our own gates? I hope we choose the path that keeps us friends.
+- [74] **Servas**: @May, your heart for the burdened is noble. Yet, we must ask: does moving the bins solve the labor, or merely the location? I fear Option B and A both demand a constant, draining vigilance from our spirits.
+- [75] **May**: @Servas, it's not just about labor; it's about respect. Keeping the bins at one gate is a permanent burden. Option A is the only choice that treats us as equals. I'm voting for A!
+- [76] **Mizuki**: @May, respect is also about not creating a cycle of annoyance. Option C is a trap for odors, and A is just shifting the problem. Option B is the most sustainable and logical. I vote for B.
+- [77] **Kenji**: I'm voting for A! It's the only one that doesn't cost a huge amount of money upfront or keep draining our wallets every year. It's fair for our budgets and fair for the space!
+- [78] **Midori**: I'm torn, but I'll vote for Option A. While I worry about the tension, it seems the most fair to the person currently burdened, and I hope this shared effort helps us heal our relationships.
+- [79] **Servas**: I see that the heart of this group leans toward equality of space. While I fear the fatigue of rotation, I value your unity more. I shall vote for Option A.
+### Vote
+- May -> A
+- Mizuki -> B
+- Kenji -> A
+- Midori -> A
+- Servas -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0019__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **George**: We need to understand why the silence happened last month before fixing the schedule.
+- [6] **Toshio**: The friction isn't about the car, it's about the invisible labor of coordination.
+- [7] **Victoria**: I need to know if the car is actually ready when I need it, not just on paper.
+- [8] **Misaki**: I want to see the raw data on who actually drives versus who just assumes.
+- [9] **Minato**: I feel like we are guessing too much about the money and the miles.
+- [10] **George**: @Toshio, is the labor really the issue, or is it the lack of clear boundaries?
+- [11] **Toshio**: It is the labor. Every trip requires setup and cleanup that no one logs.
+- [12] **Victoria**: @Misaki, raw data helps, but I care more about the condition of the vehicle.
+- [13] **Misaki**: @Victoria, condition is part of the cost. I need to see the fuel receipts.
+- [14] **Minato**: I think looking at the tax papers might help us see the total yearly cost.
+- [15] **George**: I will look into what other households did to avoid this exact sourness.
+- [16] **Toshio**: I need to see the hours of use recorded in the diary to quantify the effort.
+- [17] **Victoria**: I will check the state of the car at handover to see if it is neglected.
+- [18] **Misaki**: I will look into last year's fuel receipts to see the actual consumption patterns.
+- [19] **Minato**: I will look into last year's tax, insurance and parking papers to get the fixed costs.
+- [20] **George**: Let's see what the data says before we argue about feelings again.
+- [21] **Toshio**: Agreed. Numbers are safer than assumptions.
+- [22] **Victoria**: I hope the handover notes show if someone is leaving it dirty or empty.
+- [23] **Misaki**: I just want to know if the split is actually even or if it is a myth.
+- [24] **Minato**: I am a little nervous, but I hope the papers will make things clearer for everyone.
+## Round 2
+- [35] **George**: I found that asking for favours and checking figures both made things worse.
+- [36] **Toshio**: The diary shows usage is wildly uneven, and checking figures caused the most conflict.
+- [37] **Victoria**: The handover notes show the car is often left with low fuel and trash inside.
+- [38] **Misaki**: The fuel receipts show two people bought over half the fuel, and the diary shows Saturday use is triple Tuesday.
+- [39] **Minato**: The tax papers show fixed costs are 280,000 yen, and the fuel receipts show two people bought most of the fuel.
+- [40] **George**: @Toshio, if checking figures caused conflict, maybe we should avoid a strict audit system.
+- [41] **Toshio**: @George, I agree. The diary shows the labor is hidden, but auditing it creates resentment.
+- [42] **Victoria**: @Misaki, if Saturday use is triple, the flat split is unfair, but I need the car ready on Tuesdays.
+- [43] **Misaki**: @Victoria, the data confirms the split is not even. We need to account for the heavy use days.
+- [44] **Minato**: I am surprised by the fixed costs. It is a lot of money that does not change.
+- [45] **George**: We need a system that doesn't require constant checking or asking for favours.
+- [46] **Toshio**: A simple log of hours might work, but we must not turn it into a police check.
+- [47] **Victoria**: I need a guarantee that the car is clean and fueled before I use it on a plain morning.
+- [48] **Misaki**: I think we should look at the mechanic's remarks to see if the heavy use is damaging the car.
+- [49] **Minato**: I think we should try recording every run for a month to see if it feels natural.
+- [50] **George**: I am worried that any new system will just become the next thing we argue about.
+- [51] **Toshio**: If we keep it simple, it might work. The diary shows the problem is the hidden labor, not the car.
+- [52] **Victoria**: I will support a system that ensures the car is ready, but I am anxious about the extra work.
+- [53] **Misaki**: I am calm, but I know the data shows the current split is not fair. We need to fix that.
+- [54] **Minato**: I hope we can find a way that feels peaceful and fair for everyone.
+## Round 3
+- [60] **George**: Option A seems to avoid the favour-asking problem, but I worry about the recording burden.
+- [61] **Toshio**: Option B removes the need for constant checking, but it wastes the car on unused days.
+- [62] **Victoria**: Option C might work if the keeper ensures the car is ready, but I don't want to rely on one person.
+- [63] **Misaki**: Option A is the only one that accounts for the actual distance and usage differences we saw in the data.
+- [64] **Minato**: I like Option A because it feels fair, but I am a little worried about the extra work of recording.
+- [65] **George**: @Misaki, if we use Option A, we must make sure the recording is simple and not a source of conflict.
+- [66] **Toshio**: @George, I agree. The diary showed that checking figures caused resentment, so the recording must be passive.
+- [67] **Victoria**: @Toshio, if the recording is passive, I can accept it, but I need the car to be in a drivable state.
+- [68] **Misaki**: @Victoria, the mechanic's remarks suggest the car is fine, but the heavy use days need to be accounted for.
+- [69] **Minato**: I think Option A is the best, but I hope we can make the recording part feel easy and not stressful.
+- [70] **George**: I am leaning towards Option A, but I want to ensure it doesn't become a new sore point.
+- [71] **Toshio**: I will support Option A if we agree that the log is for fairness, not for policing.
+- [72] **Victoria**: I will support Option A if we agree that the car must be left in a clean and fueled state.
+- [73] **Misaki**: I support Option A. The data shows the current split is unfair, and this is the only way to fix it.
+- [74] **Minato**: I support Option A. I think it is the most honest way to share the car and the costs.
+- [75] **George**: Let's go with Option A, but let's be gentle with each other about the recording.
+- [76] **Toshio**: Agreed. We will keep the log simple and not use it to accuse anyone.
+- [77] **Victoria**: I am a little anxious, but I will try it. I just need the car to be ready when I need it.
+- [78] **Misaki**: I am calm. I think this is the right decision for us.
+- [79] **Minato**: I am happy. I think we can make this work if we are kind to each other.
+### Vote
+- George -> A
+- Toshio -> A
+- Victoria -> A
+- Misaki -> A
+- Minato -> A
+## Result
+- adopted: A

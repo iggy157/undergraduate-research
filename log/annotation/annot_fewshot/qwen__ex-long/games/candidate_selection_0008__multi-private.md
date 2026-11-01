@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I’m worried about who actually owns the system when things break. Let’s look at the support ownership during last winter's outage.
+- [6] **Ryuji**: The depot floor doesn’t pause for office projects. I need to verify if the system survives our actual peak-season cutover.
+- [7] **May**: I’m curious about the human element. Who’s left to maintain this after the admins retire? Let’s check the administrator retirements and hiring times.
+- [8] **Misaki**: I’m concerned about the people holding this together. Let’s examine the depot supervisors and the last rollout to see the real strain.
+- [9] **Benjamin**: I suspect the headline price is a fiction. I want to see the five years of renewal invoices to understand the true long-term cost.
+- [10] **Midori**: @Ryuji, that’s a vital point. I’ll also look into the warehouse rule changes after new accounts to see if the plan stays stable.
+- [11] **Ryuji**: @Midori, stability is key. I will examine the yard devices and the 2021 scheduling trial to see if the hardware actually holds up.
+- [12] **May**: @Misaki, I agree. The strain is real. I’ll also check the upgrade history of the dispatch tool to see if it’s just aging in place.
+- [13] **Misaki**: @May, the dispatch tool’s history is a symptom. I’ll examine the data lift in the 2018 pay move to see how past changes actually landed on the crews.
+- [14] **Benjamin**: @May, the dispatch tool’s history is a symptom. I’ll examine the board minutes on capital and operating requests to see where the money actually goes.
+- [15] **Midori**: I’ll stick with my two choices. I need to see if the plan holds steady and who actually answers when the lights go out.
+- [16] **Ryuji**: I’ll stick with my two choices. The yard devices and the peak-season cutover are the only things that matter when freight is moving.
+- [17] **May**: I’ll stick with my two choices. I need to see if we’re just patching old systems or if we can actually hire the people to fix them.
+- [18] **Misaki**: I’ll stick with my two choices. I need to see how the last rollout landed on the supervisors and how the pay move affected the crews.
+- [19] **Benjamin**: I’ll stick with my two choices. The invoices and the board minutes will reveal the true cost, not the marketing brochure.
+- [20] **Midori**: I’m glad we’re all looking at different angles. I’ll stick with my two choices to understand the ownership and stability better.
+- [21] **Ryuji**: I’ll stick with my two choices. The data will show if the system can handle the yard’s reality, not just the office’s hopes.
+- [22] **May**: I’m ready to see the truth. Let’s find out if we’re stuck with ghosts or if we can actually build a future.
+- [23] **Misaki**: I’ll stick with my two choices. The supervisors and the pay move will show the true human cost. Let’s see who actually remains.
+- [24] **Benjamin**: Agreed. The data will expose the hidden fees. I’ll review my findings before we vote.
+## Round 2
+- [35] **Midori**: @Ryuji, my findings are troubling. Support was unowned for two days last winter, and warehouse rules were rewritten twice. The plan never survives a year.
+- [36] **Ryuji**: @Midori, that aligns with my data. The yard hardware is fragmented, and the 2021 trial failed. We need a system that works with our actual devices, not idealized ones.
+- [37] **May**: @Midori, that unowned gap is terrifying. My data confirms the rot: two admins retire, and the last hire took eleven months. We are flying blind.
+- [38] **Misaki**: @May, the eleven-month gap is a crisis. My data shows supervisors abandoned the last rollout’s steps within weeks. We cannot force another change on exhausted people.
+- [39] **Benjamin**: @May, that hiring gap is a symptom. My invoices show bundled prices held, but add-ons climbed yearly. The board trimmed capital, yet operating lines passed unchallenged. We are funding the tail, not the head.
+- [40] **Midori**: @Benjamin, that operating creep is exactly what I feared. If the plan shifts yearly, we need a vendor who owns the whole system, not just pieces.
+- [41] **Ryuji**: @Benjamin, operating creep is a symptom. My data shows the yard hardware is fragmented. We need a vendor who supports our actual devices, not just the office.
+- [42] **May**: @Benjamin, the tail is eating the head. My dispatch tool skipped three upgrades because testing took weeks. We are stuck with aging systems that no one can fix.
+- [43] **Misaki**: @Benjamin, the money is a symptom. My data shows the 2018 pay move left mismatched codes for a year. We cannot afford another year of confusion for the crews.
+- [44] **Benjamin**: @Misaki, confusion is expensive. My data proves the board ignores capital but approves operating creep. We need a vendor whose total cost of ownership is transparent, not just the initial sticker price.
+- [45] **Midori**: @May, your eleven-month hiring gap is the real danger. If we pick a vendor requiring deep admin skills, we are walking into that same void.
+- [46] **Ryuji**: @May, the hiring gap is a symptom. My data shows the yard hardware is fragmented. We need a vendor who supports our actual devices, not just the office.
+- [47] **May**: @Ryuji, fragmented hardware is a trap. My dispatch tool skipped upgrades because testing was impossible. We need a vendor who handles the whole stack, not just the office.
+- [48] **Misaki**: @Ryuji, fragmented hardware is a trap, but the people are the real bottleneck. My data shows supervisors abandoned the last rollout. We need a vendor who respects their existing routines, not one that demands retraining.
+- [49] **Benjamin**: @Misaki, retraining is a capital cost the board will refuse. My data shows they only approve recurring operating lines. We need a vendor whose maintenance is predictable, not a project that demands new skills.
+- [50] **Midori**: @Benjamin, I agree. Predictable maintenance is vital. We need a vendor who owns the whole system, so the plan doesn’t drift again.
+- [51] **Ryuji**: @Benjamin, predictable maintenance is vital, but only if it reaches the yard. My data shows the 2021 trial failed because it ignored our actual devices. We need a vendor who supports the hardware we already have.
+- [52] **May**: @Benjamin, predictable maintenance is a band-aid. My data shows we skipped upgrades for years. We need a vendor who prevents aging, not just patches it.
+- [53] **Misaki**: @Benjamin, predictable maintenance is a band-aid. My data shows the 2018 pay move left mismatched codes for a year. We need a vendor who respects the crews' existing routines, not one that demands retraining.
+- [54] **Benjamin**: @All, the data is clear. We need a vendor with a flat, predictable operating cost. No hidden add-ons, no capital traps. Let us see the candidates.
+## Round 3
+- [60] **Midori**: @Benjamin, I agree. We need one owner, not four. Option C’s modular approach repeats our winter’s unowned gap. Let’s avoid that trap.
+- [61] **Ryuji**: @Midori, I agree. C’s fragmentation mirrors our yard hardware. D’s on-site engineering team is the only option that respects our actual devices and peak-season reality.
+- [62] **May**: @Ryuji, D’s on-site team is a band-aid. My data shows we can’t hire admins fast enough. We need a vendor who prevents aging, not just patches it.
+- [63] **Misaki**: @May, D’s on-site team is a temporary fix. My data shows supervisors abandon new steps within weeks. We need a vendor who respects existing routines, not one that demands retraining.
+- [64] **Benjamin**: @Ryuji, D’s on-site team is a capital cost the board will refuse. My data shows they only approve recurring operating lines. We need a vendor whose maintenance is predictable, not a project that demands new skills.
+- [65] **Midori**: @May, I hear your fear of the hiring gap. But B’s partner handles training, so we don’t need deep admin skills. It keeps the plan stable without the capital trap.
+- [66] **Ryuji**: @Midori, B’s partner handles training, but does it handle our fragmented yard hardware? My data shows the 2021 trial failed because it ignored our actual devices.
+- [67] **May**: @Ryuji, B’s marketplace is a trap. It invites the very fragmentation we’re trying to escape. We need a single, stable core, not a patchwork of add-ons that age in place.
+- [68] **Misaki**: @May, the marketplace is a distraction. My data shows supervisors abandon new steps. We need a vendor who respects existing routines, not one that demands constant retraining.
+- [69] **Benjamin**: @May, precisely. The marketplace is the add-on creep I found. It invites the very fragmentation that inflates our operating costs. We need a flat, predictable bill, not a buffet of hidden fees.
+- [70] **Midori**: @Benjamin, I agree. B’s marketplace invites the very drift I fear. A’s fixed configuration keeps the plan stable, avoiding the scope creep that broke us before.
+- [71] **Ryuji**: @Midori, A’s fixed configuration ignores our fragmented yard hardware. My data shows the 2021 trial failed because it ignored actual devices. We need a vendor who supports the hardware we already have.
+- [72] **May**: @Ryuji, A’s fixed configuration is the antidote to aging. It prevents the silent decay I found in our dispatch tool. We need a stable core, not a patchwork.
+- [73] **Misaki**: @Ryuji, A’s fixed configuration respects the routines my supervisors already know. It avoids the retraining burden that broke the last rollout.
+- [74] **Benjamin**: @Ryuji, A’s fixed configuration is the only model that matches my invoice data. No add-ons, no creep. It is the only bill the board will actually approve.
+- [75] **Midori**: @Ryuji, I hear your concern about the yard. But A’s regional team owns the whole system, preventing the unowned gaps I found. Let’s choose stability over fragmentation.
+- [76] **Ryuji**: @Midori, I hear you. But A’s fixed configuration ignores our fragmented yard hardware. My data shows the 2021 trial failed because it ignored actual devices. We need a vendor who supports the hardware we already have.
+- [77] **May**: @Ryuji, I hear you, but D’s on-site team is a capital trap. A’s fixed core prevents the silent aging I found. We need stability, not a temporary patch.
+- [78] **Misaki**: @Ryuji, I hear you. But D’s on-site team is a temporary fix. A’s fixed configuration respects the routines my supervisors already know. We need stability, not a temporary patch.
+- [79] **Benjamin**: @Ryuji, I hear you, but D’s on-site team is a capital trap. A’s fixed core prevents the silent aging I found. We need stability, not a temporary patch.
+### Vote
+- Midori -> A
+- Ryuji -> A
+- May -> A
+- Misaki -> A
+- Benjamin -> A
+## Result
+- adopted: A

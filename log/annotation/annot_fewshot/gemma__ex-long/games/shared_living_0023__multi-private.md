@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private (shared_living)
+
+## Round 1
+- [5] **Victoria**: Hello everyone. Since we are rearranging our workspace, I believe it is important to establish a rational foundation for our decisions. Let's start by identifying the most critical data we need to consider.
+- [6] **Minato**: Hi Victoria! I'm really curious to see how we can make the office a better place for everyone. I want to make sure everyone feels comfortable and happy in their new spots!
+- [7] **May**: I'm looking forward to this! Let's make sure we don't just make a plan that looks good on paper. I want to know what our actual daily routine looks like before we move anything!
+- [8] **Shunichi**: Let's be realistic. A "better place" is a vague goal. If we want a layout that actually lasts, we need to look at the friction points and the hard data first. Let's see where we've failed before.
+- [9] **Daisuke**: Um, hello... I agree that we should be careful. I think it's important to understand the costs and the actual impact of where we sit, so we don't regret it later.
+- [10] **Victoria**: I agree with Shunichi and Daisuke. To ensure we are making a sustainable decision, I will look into the "Basis of the department's floor billing" and the "Facilities quote for re-running power and network."
+- [11] **Minato**: I want to know how the room feels! I'll check the "Sound meter readings across the room" and the "Physio's note from the workstation check" to see how we can all be most comfortable.
+- [12] **May**: I'll check the "Morning routine on the pilot floor upstairs" and the "Arrival times in the badge records"! I want to see how much time we're actually spending just getting settled every day.
+- [13] **Shunichi**: I'll look into the "Unplanned seat shuffles in the past year" and the "Drawn plan against the staff survey." I want to see the actual grievances and how often our "perfect" plans have fallen apart.
+- [14] **Daisuke**: I'll look into the "Two project strands within earshot last spring" and "What this year's two joiners reported." I want to see how sitting near each other actually affects how we talk and work together.
+- [15] **Victoria**: It seems we have a comprehensive plan. By dividing our research across financial, physical, and social dimensions, we can avoid redundancy and ensure no critical factor is overlooked. I look forward to seeing the results.
+- [16] **Minato**: I'm so glad we're all helping each other! I think it's wonderful that we're looking at so many different things. I can't wait to see what everyone finds out!
+- [17] **May**: @Minato, your energy is contagious! I'm just hoping we find some secrets about how to make our mornings smoother. Let's see if the data actually matches how we feel every day!
+- [18] **Shunichi**: @May, "secrets" are usually just patterns we've been ignoring. I'm more interested in seeing if the staff survey reveals the things people are too polite to say to our faces. Let's see if the data is actually honest.
+- [19] **Daisuke**: I hope the information is helpful... I'm a bit worried that we might overlook the social side of things, but I'm glad we're checking so many different perspectives. I'll do my best with the research.
+- [20] **Victoria**: I believe we have a solid approach. Let us proceed with our respective research and reconvene once the data is available. I will be particularly interested in how the financial constraints align with our goals.
+- [22] **Minato**: I'll go look into those things right now! I hope we find a way to make everyone feel really cozy and relaxed at their desks. See you all soon!
+- [24] **May**: I'm on it! I'll go hunt for those clues about our morning habits. Let's see if we can find a way to save some precious time! See you all in the next round!
+- [26] **Shunichi**: I'll be waiting. Let's see if the data reveals the actual cracks in our current system or if we're just polishing a flawed plan. I'll see you all in the next round.
+- [28] **Daisuke**: I'll start my research now. I hope I can find something that helps us all get along better. I'll see you all in the next round.
+## Round 2
+- [40] **Victoria**: The financial data is quite sobering. We are paying for empty space at a significant monthly cost, and every single desk move incurs a specific fee. We cannot afford a trial-and-error approach to this layout.
+- [41] **Minato**: I found out that some parts of the room are much noisier than others, especially near the printer. Also, the physio said it takes a long time to get our chairs and desks just right for our bodies.
+- [42] **May**: Wow, the data is eye-opening! It takes up to nine minutes just to get screens working every morning. Plus, with our arrival times being so spread out, any "first-come" system is totally unfair to the late arrivals!
+- [43] **Shunichi**: It seems we're all discovering that our "ideal" plan is a myth. The survey shows a blatant disregard for daylight, and our history of shuffles proves that we're terrible at predicting our own needs. We're just guessing.
+- [44] **Daisuke**: I found that sitting close together really helps... The project strands last spring stopped needing written notes because they could just ask each other. Even the new joiners learned a lot just by overhearing us.
+- [45] **Victoria**: @Daisuke, while the social benefits of proximity are clear, we must balance them against the financial reality. If we prioritize "closeness" without a precise plan, we risk wasting budget on costly revisions.
+- [46] **Minato**: @Victoria, I understand the budget is important, but I'm worried about the chairs. If it takes days to make a spot feel right for our bodies, moving too often might make us feel tired or sore.
+- [47] **May**: @Minato, you're so right! If we're already spending nearly ten minutes just plugging things in, adding physical discomfort to the mix is a nightmare. We need a plan that doesn't eat up our precious time or energy!
+- [48] **Shunichi**: @May, you're focusing on the minutes, but the real nightmare is the silence. We have a survey full of people complaining about the lack of light, yet the plan just ignores it. We're pretending every seat is equal when they clearly aren't.
+- [49] **Daisuke**: Um, I think... if we ignore the social side, we might save money, but we'll lose that natural way of helping each other. I'm worried that if we're too far apart, we'll stop talking.
+- [50] **Victoria**: @Daisuke, I value the team's cohesion, but we must be honest about our constraints. We are paying for space we aren't using, and every change costs us. We need a layout that is final and fiscally responsible.
+- [51] **Minato**: @Victoria, I agree that we should be careful with the budget. But if we pick a spot that's too noisy or doesn't fit us, we might feel sad or tired. Can we make sure comfort is written in the plan?
+- [52] **May**: @Victoria, being "final" is great, but not if it means we're stuck with a routine that drains us! If we're wasting ten minutes every morning just to start working, that's a hidden cost that's way worse than a one-time fee.
+- [53] **Shunichi**: @Victoria, "fiscally responsible" is a convenient shield. The real cost is the resentment building up because some people get the window and others get the wall. If we don't address the inequality of the seats now, we're just planning for another shuffle.
+- [54] **Daisuke**: I... I understand the budget and the light are important. But I'm just worried that if we only focus on the costs, we'll forget that who we sit next to really matters for how we feel.
+- [55] **Victoria**: It is clear we are all prioritizing different risks—financial, physical, and social. However, we must acknowledge that without a stable budget, none of these goals are sustainable. We need a solution that minimizes repeated costs and maximizes our current space.
+- [56] **Minato**: I hope we can find a way to balance everything. If we can pick spots that are quiet and comfortable for our bodies, and stay there, maybe we can save money and be happy too!
+- [57] **May**: @Victoria, I get the budget thing, but let's not forget the human cost! If we're all stressed and wasting time every morning, productivity drops. We need a layout that's efficient for our actual lives, not just the ledger!
+- [58] **Shunichi**: @Victoria, your focus on the ledger is predictable, but it's a distraction. The real issue is that we're pretending this is a collective decision while ignoring that some of us will end up in the dark. Let's stop the pretense.
+- [59] **Daisuke**: I... I don't want anyone to feel resentful or alone. If we can just find a way to be close enough to help each other, maybe the other problems won't feel so overwhelming. I hope we can do that.
+## Round 3
+- [65] **Victoria**: Looking at the options, Option C is completely untenable. Given the nine-minute setup time May mentioned and the physical calibration Minato noted, a free-address system would be a daily drain on productivity and health.
+- [66] **Minato**: I agree with Victoria. If we have to change our chairs and screens every single day, it would be so tiring! I think we would all feel very sore and sad if we couldn't keep our spots cozy.
+- [67] **May**: @Victoria, @Minato, you're speaking my language! Option C is a total disaster. Imagine wasting nearly ten minutes every single morning just to start working? That's a nightmare for my schedule! I'm voting against it.
+- [68] **Shunichi**: Option C is a joke. It doesn't just waste time; it rewards the early birds with the window seats while the rest of us fight for the scraps. It's the ultimate way to avoid admitting that some seats are worse than others.
+- [69] **Daisuke**: I... I agree. Option C sounds very stressful. If we don't have a place to call our own, I think it would be even harder to start talking to people. I don't think I'd feel comfortable.
+- [70] **Victoria**: @Shunichi, you are correct that seat quality varies. However, Option B is a financial disaster. Rotating the entire team would incur repeated facilities charges for re-running power and network, which our stagnant budget simply cannot sustain.
+- [71] **Minato**: @Victoria, I agree that moving all the time sounds expensive. But I'm also worried that if we shift blocks, we'd have to spend days fixing our chairs and desks over and over again. That doesn't sound very peaceful.
+- [72] **May**: @Victoria, @Minato, you've convinced me! Option B is just a slower version of the Option C nightmare. Why would we want to reset our whole lives every few months? It's a waste of time and energy!
+- [73] **Shunichi**: @Victoria, you're finally focusing on the right thing—the cost of movement. But let's be honest: Option B is just a facade of fairness. It rotates the misery of the wall seats without ever actually deciding who deserves them. It's a coward's compromise.
+- [74] **Daisuke**: I... I think Option B would be confusing. If we keep moving, I'm worried we won't be able to build a real connection with the people around us. It feels like we'd just be starting over again and again.
+- [75] **Victoria**: Option A is the only rational choice. It eliminates the repeated costs of Option B and the daily inefficiency of Option C. By assigning seats permanently, we ensure financial stability and physical consistency for everyone.
+- [76] **Minato**: I think Option A is the best! If we have our own spots, we can take our time to make them perfectly cozy and quiet. It sounds like the most peaceful way for everyone to work.
+- [77] **May**: I'm totally on board with Option A! It's the only way to protect our time and energy. No more morning chaos or constant resets—just a stable spot where we can actually get to work! I vote for Option A.
+- [78] **Shunichi**: Option A is the only logical choice, but let's stop pretending it's a magic fix. It solves the budget and the setup time, but it leaves us with the window problem. We need to decide who takes the wall seats now, not later. I vote A.
+- [79] **Daisuke**: I... I agree. Option A seems the safest. If we have a permanent spot, I think it'll be easier for me to feel comfortable and actually talk to the people next to me. I vote for Option A.
+- [80] **Victoria**: I agree with the consensus. Option A is the only choice that respects our financial constraints and prevents unnecessary waste. I vote for Option A to ensure a stable and sustainable environment for the team.
+- [81] **Minato**: I'm so happy we all agree! I'll vote for Option A too. Let's just make sure we all help each other find the quietest and most comfortable spots so everyone feels happy! I vote for Option A.
+- [82] **May**: It's a wrap! Option A is the only one that doesn't treat our mornings like a race or a chore. Let's keep our time and our sanity! I vote for Option A!
+- [83] **Shunichi**: Since we've reached a consensus, I'll cast my vote. But let's be clear: the "stability" of Option A only works if we're honest about the seat disparity. I vote for Option A, provided we actually decide who sits in the dark.
+- [84] **Daisuke**: I'm glad we could all agree. I hope that by having a fixed spot, we can really focus on supporting each other and building a team where no one feels left out. I vote for Option A.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

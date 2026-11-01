@@ -1,0 +1,73 @@
+# shared_living_0006__single-batch (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a structure that keeps the door open for newcomers without exposing everyone's private costs.
+- [6] **Benjamin**: Before we pick a model, we must ensure the administrative burden does not crush the next treasurer.
+- [7] **Jonathan**: The current system hides how uneven the actual participation is among those who pay the same.
+- [8] **Shunichi**: People are hesitating to commit to evenings; the fee structure is making belonging feel like a gamble.
+- [9] **Takumi**: I refuse to guess next year's costs. We need hard numbers on what we can actually count on.
+- [10] **Asuka**: @Benjamin If the collection process is too heavy, the whole thing collapses.
+- [11] **Benjamin**: @Asuka Agreed. I need to see the time logs to understand the true cost of administration.
+- [12] **Jonathan**: @Takumi Guessing is dangerous. I want to see who is actually showing up versus who is just paying.
+- [13] **Shunichi**: @Jonathan If we make the cost per event visible, will people stop coming?
+- [14] **Takumi**: @Shunichi Visibility is better than uncertainty. I need to know the inflow reliability.
+- [15] **Asuka**: I will look at the taster forms to see why people drift away.
+- [16] **Benjamin**: I will check the treasurer's hours and the ledger to see where the money and time go.
+- [17] **Jonathan**: I will tally the sign-in sheets and compare them to the rota to see the workload split.
+- [18] **Shunichi**: I will look at the winter social feedback and the weekday turnout to gauge the hesitation.
+- [19] **Takumi**: I will review the bank statements and the mid-year joiner records to assess cash flow.
+- [20] **Asuka**: Let's see what the data says before we argue about principles.
+- [21] **Benjamin**: Logic over emotion. The numbers will tell us what is sustainable.
+- [22] **Jonathan**: The quiet ones are speaking up now. We need to hear them through the data.
+- [23] **Shunichi**: If the data shows fear, we adjust the structure to remove the friction.
+- [24] **Takumi**: No more guessing. We fix this with facts, not feelings.
+## Round 2
+- [35] **Asuka**: The taster forms show people fear a whole-year commitment. The ledger shows fixed costs are high.
+- [36] **Benjamin**: The treasurer spent six hours a month chasing individual payments. The ledger confirms fixed costs dominate.
+- [37] **Jonathan**: A quarter of members do two-thirds of the work. The same nine people set up and lock up.
+- [38] **Shunichi**: Turnout dropped a third after door charges. Quiet members feel uneasy about per-event costs.
+- [39] **Takumi**: A third of renewals needed reminders. Mid-year joiners required hand-worked calculations. Cash flow is messy.
+- [40] **Asuka**: @Benjamin If chasing payments takes six hours, activity-based charging is impossible for us.
+- [41] **Benjamin**: @Asuka Correct. The administrative load is the killer. We need a simple collection method.
+- [42] **Jonathan**: @Shunichi If we charge per event, the quiet members will feel even more alienated.
+- [43] **Shunichi**: @Jonathan Agreed. The hesitation is real. We need a structure that feels like belonging, not a transaction.
+- [44] **Takumi**: @Benjamin The bank statements show people want to spread payments. A flat fee might be too high upfront.
+- [45] **Asuka**: Tiered membership might work. It lets people choose their level of involvement without hidden costs.
+- [46] **Benjamin**: Tiered membership simplifies collection. One fee per tier, no chasing individual events.
+- [47] **Jonathan**: But does it address the workload imbalance? The same nine people still do the heavy lifting.
+- [48] **Shunichi**: It might. If the lower tier is for socials only, the higher tier for active participation, it clarifies expectations.
+- [49] **Takumi**: It reduces the mid-year calculation nightmare. If they pick a tier, the math is done.
+- [50] **Asuka**: I am leaning towards Tiered Membership. It respects the newcomers' fear of commitment.
+- [51] **Benjamin**: I support it. It is the only model that keeps the treasurer sane.
+- [52] **Jonathan**: I have concerns about the workload, but it is better than the current chaos.
+- [53] **Shunichi**: It removes the hesitation. People know exactly what they are signing up for.
+- [54] **Takumi**: It solves the cash flow issue. Predictable income, predictable costs. I am in.
+## Round 3
+- [60] **Asuka**: Option B, Tiered Membership, seems the most balanced. It addresses the administrative burden and the newcomer fear.
+- [61] **Benjamin**: I agree. Option A is too rigid, Option C is too administratively heavy. Option B is the logical choice.
+- [62] **Jonathan**: I still worry about the workload, but Option B is the least bad. It at least makes the commitment clear.
+- [63] **Shunichi**: Option B removes the friction. People can choose a level that fits their comfort. I support it.
+- [64] **Takumi**: Option B gives us predictable income. No more chasing payments. I vote for it.
+- [65] **Asuka**: @Jonathan The workload issue is real, but it is a separate problem from the fee structure.
+- [66] **Benjamin**: @Asuka Agreed. We can address the rota later. For now, we need a sustainable fee model.
+- [67] **Jonathan**: @Benjamin Fair point. Let's fix the money first, then the labor.
+- [68] **Shunichi**: @Takumi Predictable income is key. We cannot run on guesswork.
+- [69] **Takumi**: @Shunichi Exactly. We need stability. Option B provides that.
+- [70] **Asuka**: I am confident in Option B. It respects the club's culture and its practical needs.
+- [71] **Benjamin**: I am confident in Option B. It is the only one that makes sense logically.
+- [72] **Jonathan**: I am voting for Option B. It is the best of a difficult set of choices.
+- [73] **Shunichi**: I am voting for Option B. It restores a sense of belonging without the hesitation.
+- [74] **Takumi**: I am voting for Option B. It ends the guessing game.
+- [75] **Asuka**: Let's vote. I believe we are all aligned on Option B.
+- [76] **Benjamin**: I am ready to vote.
+- [77] **Jonathan**: I am ready to vote.
+- [78] **Shunichi**: I am ready to vote.
+- [79] **Takumi**: I am ready to vote.
+### Vote
+- Asuka -> B
+- Benjamin -> B
+- Jonathan -> B
+- Shunichi -> B
+- Takumi -> B
+## Result
+- adopted: B

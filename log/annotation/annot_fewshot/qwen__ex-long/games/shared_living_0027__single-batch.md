@@ -1,0 +1,73 @@
+# shared_living_0027__single-batch (shared_living)
+
+## Round 1
+- [5] **Asuka**: I need to know how the current arrangement is failing socially. I’ll check the complaint log and the association minutes.
+- [6] **Yumi**: I’m curious if the spots match where people actually park. I’ll look at the sticker register and the morning departures.
+- [7] **Ryuji**: The morning shoving match is a safety hazard. I’ll examine the morning departures and the rain exposure.
+- [8] **Shunichi**: Nobody checks the costs. I’ll review the building ledger and the ward cycle park fees.
+- [9] **Toshio**: I need to know the administrative burden. I’ll check the treasurer's file and the supplier's frame trial.
+- [10] **Asuka**: @Shunichi, checking the ledger is smart. But I worry about the social friction more than the money.
+- [11] **Yumi**: @Ryuji, the shoving match sounds stressful! I hope the sticker register shows who actually rides daily.
+- [12] **Ryuji**: @Yumi, it’s not just stress. It’s about who gets the dry spot. I need to see the rain exposure.
+- [13] **Shunichi**: @Asuka, money causes friction too. If we don’t know the cost, we can’t plan. I’ll stick to the ledger.
+- [14] **Toshio**: @Shunichi, the ledger shows past, not future. I need to know the effort to maintain a new system.
+- [15] **Asuka**: @Toshio, effort matters, but so does fairness. I’ll see if the minutes show any past reviews.
+- [16] **Yumi**: @Asuka, I agree! Fairness is key. I’ll check if the daily riders are the same people every time.
+- [17] **Ryuji**: @Yumi, consistency is good, but if the rain ruins the bike, consistency doesn’t help. I’ll check the rows.
+- [18] **Shunichi**: @Ryuji, rain is a fact. Cost is a choice. I’ll see if the ward park is a viable alternative.
+- [19] **Toshio**: @Shunichi, the ward park is external. I need to know the internal maintenance load. I’ll check the frame trial.
+- [20] **Asuka**: I’m set. I’ll check the complaint log and the five years of association minutes.
+- [21] **Yumi**: I’m ready. I’ll check the sticker register and the morning departures watched from the entrance.
+- [22] **Ryuji**: I’ll examine the morning departures and the rain exposure along the parking rows.
+- [23] **Shunichi**: I’ll review the building account's two-year ledger and the ward cycle park by the station.
+- [24] **Toshio**: I’ll check the treasurer's handover file and the trial of the supplier's display frame.
+## Round 2
+- [35] **Asuka**: The minutes show the same flats held covered spots for five years. No review was ever recorded.
+- [36] **Yumi**: The sticker register shows some flats have three bikes, others none. The daily riders are consistent.
+- [37] **Ryuji**: Four times in two mornings, someone had to shift a bike to get theirs out. The rain row is useless.
+- [38] **Shunichi**: The ledger shows no capital work. The ward park costs 2,600 yen a month, with fourteen waiting.
+- [39] **Toshio**: The treasurer spends three hours a month on cash. The display frame takes twenty seconds to load.
+- [40] **Asuka**: @Shunichi, five years of no review is a red flag. We need a system that forces periodic checks.
+- [41] **Yumi**: @Ryuji, shifting bikes is dangerous! I hope the sticker register helps us see who really needs space.
+- [42] **Ryuji**: @Yumi, it’s not just danger. It’s inefficiency. If we can’t get out, we’re late. I need a solution.
+- [43] **Shunichi**: @Asuka, the ward park is full. We can’t just send everyone there. We need to manage our own spaces.
+- [44] **Toshio**: @Shunichi, the ward park is a backup. I’m worried about the internal maintenance. Three hours is a lot.
+- [45] **Asuka**: @Toshio, three hours is manageable if it’s shared. But the minutes show it’s never been shared.
+- [46] **Yumi**: @Asuka, I agree! We need to make sure the work is fair. I’ll check if the daily riders are willing to pay.
+- [47] **Ryuji**: @Yumi, willingness to pay is good. But if the rain ruins the bike, money doesn’t fix it. I need dry spots.
+- [48] **Shunichi**: @Ryuji, dry spots are limited. We can’t give everyone one. We need a fair allocation method.
+- [49] **Toshio**: @Shunichi, fair allocation is the goal. But who enforces it? The treasurer’s file shows the burden is heavy.
+- [50] **Asuka**: I need a system that prevents the same people from holding spots forever. The minutes prove the current one fails.
+- [51] **Yumi**: I need to know if the daily riders are okay with paying. The sticker register shows they ride a lot.
+- [52] **Ryuji**: I need a system that ensures I can get my bike out without shoving. The morning departures show the problem.
+- [53] **Shunichi**: I need a system that doesn’t cost the building a fortune. The ledger shows we have no capital funds.
+- [54] **Toshio**: I need a system that doesn’t burn out one person. The treasurer’s file shows the current load is too high.
+## Round 3
+- [60] **Asuka**: Option B, the annual lottery, forces a review every year. It breaks the five-year stagnation I saw in the minutes.
+- [61] **Yumi**: Option A, paid allocation, might work. The daily riders said they’d rather pay than be counted as equal.
+- [62] **Ryuji**: Option C, shared racks, solves the shoving match. No one owns a spot, so no one blocks anyone else.
+- [63] **Shunichi**: Option A brings in money. The ward park is 2,600 yen, so we could charge less and still cover costs.
+- [64] **Toshio**: Option C requires maintenance. The display frame needs greasing twice a year. Who does that?
+- [65] **Asuka**: @Toshio, maintenance is a concern. But Option B’s lottery is simple. No one has to manage it daily.
+- [66] **Yumi**: @Asuka, I like the simplicity! But what if someone doesn’t ride? They still get a spot in the lottery.
+- [67] **Ryuji**: @Yumi, that’s a risk. But Option C avoids it. If you don’t ride, you don’t use the rack.
+- [68] **Shunichi**: @Ryuji, Option C is free for the building. But it might lead to more complaints if bikes are left out.
+- [69] **Toshio**: @Shunichi, complaints are a risk. But Option A’s billing adds three hours a month to the treasurer’s load.
+- [70] **Asuka**: @Toshio, three hours is a lot. Option B has no billing. It’s just a draw once a year.
+- [71] **Yumi**: @Asuka, I agree! Option B is the fairest. Everyone has a chance, and it’s reviewed annually.
+- [72] **Ryuji**: @Yumi, fairness is good. But Option C is more practical. It solves the morning shoving match immediately.
+- [73] **Shunichi**: @Ryuji, practical is good. But Option A is sustainable. It brings in money to cover future costs.
+- [74] **Toshio**: @Shunichi, sustainability is key. But Option A’s administrative burden is too high. I can’t do three hours a month.
+- [75] **Asuka**: I vote for B. The annual lottery ensures fairness and breaks the stagnation. It’s the most logical choice.
+- [76] **Yumi**: I vote for B! It’s fair and simple. I hope it helps us all get along better.
+- [77] **Ryuji**: I vote for C. It solves the shoving match and the rain issue. It’s the most practical solution.
+- [78] **Shunichi**: I vote for A. It brings in money and covers costs. It’s the most sustainable option.
+- [79] **Toshio**: I vote for B. It has the lowest administrative burden. I can’t take on more work.
+### Vote
+- Asuka -> B
+- Yumi -> B
+- Ryuji -> C
+- Shunichi -> A
+- Toshio -> B
+## Result
+- adopted: B

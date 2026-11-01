@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: I want to understand the history of conflicts in the bike area before we decide anything.
+- [6] **Yumi**: I’m curious if the current spots actually match where people park. It feels a bit unfair if the same doors always get the good ones!
+- [7] **Ryuji**: I need to verify if the physical layout is causing the morning congestion.
+- [8] **Shunichi**: I’m tired of guessing. I need to know the actual cash flow and what a household pays when they’re stuck outside.
+- [9] **Toshio**: I need to see what the last two maintenance roles actually required. I want to know the real workload before we assign anyone.
+- [10] **Asuka**: @Yumi, if the spots don't match reality, we need to know who is actually using them.
+- [11] **Yumi**: @Asuka, exactly! I want to see if the daily riders match the assigned spots. It feels like a mystery to me!
+- [12] **Ryuji**: @Shunichi, the cash flow is important, but I suspect the physical bottlenecks are the root cause of the morning chaos.
+- [13] **Shunichi**: @Ryuji, bottlenecks are symptoms. I need the root cause: the money. Who is actually paying for this mess?
+- [14] **Toshio**: @Shunichi, money is important, but without knowing the physical effort, the role will just be abandoned again.
+- [15] **Asuka**: @Toshio, if the role is abandoned, the conflict returns. I need to see the complaint log to understand the pattern.
+- [16] **Yumi**: @Asuka, I agree! The complaint log might show if the grumbling is real or just noise. I want to see the pattern too!
+- [17] **Ryuji**: @Asuka, the log shows symptoms, not causes. I need to see the actual morning departures to understand the flow.
+- [18] **Shunichi**: @Ryuji, watching people leave is anecdotal. I need the ledger to see if we are actually bleeding money or just complaining about it.
+- [19] **Toshio**: @Shunichi, the ledger shows the past, not the future. I need to know the physical reality of the rows to assess the effort.
+- [20] **Asuka**: I will look into the last year's complaint log entries and the five years of association minutes.
+- [21] **Yumi**: I will look into the sticker register and the daily riders, and the morning departures watched from the entrance.
+- [22] **Ryuji**: I will look into the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [23] **Shunichi**: I will look into the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [24] **Toshio**: I will look into the five years of association minutes and the rain exposure along the parking rows.
+## Round 2
+- [35] **Asuka**: The logs show nine conflicts died out because no one owned the problem. The minutes reveal the same flats held spots for five years without review.
+- [36] **Yumi**: The sticker register shows households would pay to avoid equal claims! And four mornings had someone shifting bikes. It’s a real bottleneck!
+- [37] **Ryuji**: Four mornings required shifting bikes. The rain exposure is also critical; spots past the downpipe stay wet, ruining saddles.
+- [38] **Shunichi**: The ledger is empty. No capital funds exist. Any new frame or repair means a direct levy on us. The treasurer spends three hours a month just counting coins.
+- [39] **Toshio**: The minutes confirm the covered spots were never reviewed. The rain data shows the exposed rows are genuinely unusable in winter.
+- [40] **Asuka**: @Toshio, the minutes confirm the stagnation. If we don't review the allocation, the same households will keep the best spots forever.
+- [41] **Yumi**: @Asuka, I agree! The sticker register proves people want a fair system, not just equal claims. We need to fix this!
+- [42] **Ryuji**: @Yumi, the shifting confirms the bottleneck. But the rain data is worse; exposed spots are unusable in winter.
+- [43] **Shunichi**: @Toshio, the rain makes the exposed spots useless, but the ledger is empty. We can't fix the roof without a levy.
+- [44] **Toshio**: @Shunichi, a levy is a recurring burden. I need to know if the physical effort of maintaining the rows justifies the cost.
+- [45] **Asuka**: @Shunichi, a levy is a recurring burden. I need to know if the physical effort of maintaining the rows justifies the cost.
+- [46] **Yumi**: @Shunichi, I hear you, but the sticker register shows people are willing to pay for fairness! Maybe a small fee covers the roof?
+- [47] **Ryuji**: @Shunichi, the ledger is empty, but the rain data is undeniable. We need a solution that works without new capital.
+- [48] **Shunichi**: @Yumi, people pay for fairness, not for empty promises. I need to see the ward cycle park rates to know the real alternative cost.
+- [49] **Toshio**: @Shunichi, the ward park is an escape, not a fix. I need to know if the physical maintenance here is manageable before we accept any recurring cost.
+- [50] **Asuka**: @Shunichi, the ward park is a backup, not a solution. I need to know if the current arrangement is sustainable before we consider external costs.
+- [51] **Yumi**: @Shunichi, I agree the park is just a backup. But if we can’t fix the roof, maybe we rotate the spots to share the rain fairly?
+- [52] **Ryuji**: @Yumi, rotating spots ignores the rain gradient. The eaves are fixed; moving bikes doesn't stop the water. We need a structural fix, not just a shuffle.
+- [53] **Shunichi**: @Ryuji, structural fixes cost money we don't have. I need the supplier’s frame trial data to see if a cheap, temporary cover is viable.
+- [54] **Toshio**: @Shunichi, a temporary cover is a recurring maintenance task. I need to know if the physical effort is sustainable before we accept the cost.
+## Round 3
+- [60] **Asuka**: Option C removes the ownership that caused the nine dead conflicts. If no one owns a spot, no one can be displaced.
+- [61] **Yumi**: Option C sounds so freeing! No more arguing over who gets the dry spot. But will the double-tier racks be easy to use for everyone?
+- [62] **Ryuji**: Option C solves the morning bottleneck. No shifting, no ownership disputes. But I need to know if the racks handle the rain exposure.
+- [63] **Shunichi**: Option C ignores the empty ledger. Without capital, those racks are a fantasy. I need to know the actual cost before we dream.
+- [64] **Toshio**: Option C requires constant physical management. I need to know if the effort to keep those racks clear is sustainable for one person.
+- [65] **Asuka**: @Shunichi, the racks are a one-time cost, not a recurring levy. The ledger is empty, but the conflict cost is higher.
+- [66] **Yumi**: @Shunichi, I agree the cost is a worry! But the sticker register showed people would pay for fairness. Maybe we can fund the racks that way?
+- [67] **Ryuji**: @Yumi, the sticker register shows willingness, not capacity. The ledger is empty. I need the supplier’s trial data to verify if the racks are actually affordable.
+- [68] **Shunichi**: @Ryuji, the supplier’s trial is the only number that matters. If the racks cost more than the ward park, we are just paying for the privilege of complaining.
+- [69] **Toshio**: @Shunichi, the racks are a one-time cost, but the daily clearing is a recurring physical burden. I need to know if that effort is sustainable.
+- [70] **Asuka**: @Toshio, the effort is minimal. It is just moving a bike, not heavy lifting. The real cost is the social friction we avoid.
+- [71] **Yumi**: @Toshio, I agree! It’s just a quick move, not heavy lifting. Plus, the sticker register shows people want fairness, so they’ll help keep it tidy!
+- [72] **Ryuji**: @Toshio, the racks reduce the shifting I observed. The rain is still a factor, but the structure is more stable than the current rows.
+- [73] **Shunichi**: @Toshio, the racks are a one-time cost, but the daily clearing is a recurring physical burden. I need to know if that effort is sustainable.
+- [74] **Toshio**: @Shunichi, the effort is minimal, but the risk of it lapsing is high. I need a clear, low-burden protocol to ensure it doesn't die like the last two roles.
+- [75] **Asuka**: @Toshio, a simple rotation of clearing duties prevents burnout. The social cost of inaction is higher than the physical effort.
+- [76] **Yumi**: @Toshio, I agree! A simple rotation works. Plus, the sticker register shows people want fairness, so they’ll help keep it tidy!
+- [77] **Ryuji**: @Toshio, I agree. A rotation prevents burnout. The racks solve the bottleneck and rain issues better than the current rows.
+- [78] **Shunichi**: @Toshio, I am not the one who will be clearing racks at dawn. I am the one who will be paying the levy. I need the supplier’s quote to know if this is a trap.
+- [79] **Toshio**: @Shunichi, the quote is a number, but the rotation is the safety net. If the cost is high, we need the protocol to be even simpler.
+### Vote
+- Asuka -> C
+- Yumi -> C
+- Ryuji -> C
+- Shunichi -> C
+- Toshio -> C
+## Result
+- adopted: C

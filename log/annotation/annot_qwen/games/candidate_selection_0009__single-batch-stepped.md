@@ -1,0 +1,73 @@
+# candidate_selection_0009__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I need to know if the floor can hold what we promise.
+- [6] **Toshio**: The record of past attendance should guide this choice.
+- [7] **Rin**: Who is actually left to do the work?
+- [8] **Kenji**: I want to see where deliveries failed before.
+- [9] **Benjamin**: I need to track where the money goes.
+- [10] **Daisuke**: The structural limits are my primary worry.
+- [11] **Toshio**: Data beats opinion. I will look at the numbers.
+- [12] **Rin**: Staffing is the real bottleneck, not the art.
+- [13] **Kenji**: Logistics always bite us later.
+- [14] **Benjamin**: Invoices are the truth. I will check them.
+- [15] **Daisuke**: If the bay fails, the show fails.
+- [16] **Toshio**: I will review the visitor logs.
+- [17] **Rin**: We cannot plan for ghosts.
+- [18] **Kenji**: I will check the shipping records.
+- [19] **Benjamin**: I will look at the transport costs.
+- [20] **Daisuke**: I will check the structural survey.
+- [21] **Toshio**: And the weekend head counts.
+- [22] **Rin**: I will check the volunteer roster.
+- [23] **Kenji**: And the lender paperwork.
+- [24] **Benjamin**: And the mount-making charges.
+## Round 2
+- [35] **Daisuke**: The bay is capped at four hundred kilos.
+- [36] **Toshio**: People return when something moves or changes.
+- [37] **Rin**: The lab is down to one person.
+- [38] **Kenji**: Two openings slipped due to late paperwork.
+- [39] **Benjamin**: Transport costs are a third of installation.
+- [40] **Daisuke**: @Benjamin, does that cost include crating?
+- [41] **Toshio**: @Rin, is the backlog critical for new loans?
+- [42] **Rin**: @Toshio, the volunteers are mostly history guides.
+- [43] **Kenji**: @Daisuke, heavy items need shoring.
+- [44] **Benjamin**: @Kenji, yes, crating and insurance included.
+- [45] **Daisuke**: Heavy stonework would need a reroute.
+- [46] **Toshio**: Static displays lose visitors.
+- [47] **Rin**: We lack hands for conservation.
+- [48] **Kenji**: We must buffer the shipping dates.
+- [49] **Benjamin**: Bespoke mounts are expensive per object.
+- [50] **Daisuke**: I worry about the powered displays too.
+- [51] **Toshio**: The comment slips say people want presence.
+- [52] **Rin**: We need a realistic staffing plan.
+- [53] **Kenji**: I will flag the cut-off risks.
+- [54] **Benjamin**: Self-supported items save money.
+## Round 3
+- [60] **Daisuke**: Option D needs rigging. Is the bay safe?
+- [61] **Toshio**: Option A has live demonstrations. That fits the data.
+- [62] **Rin**: Option C needs conservation work. We are short.
+- [63] **Kenji**: Option B relies on loans. Paperwork is risky.
+- [64] **Benjamin**: Option A uses local tools. Lower mount costs.
+- [65] **Daisuke**: @Benjamin, are the tools heavy?
+- [66] **Toshio**: @Rin, can the volunteers handle the demos?
+- [67] **Rin**: @Toshio, the history circle knows the region.
+- [68] **Kenji**: @Daisuke, local items avoid shipping delays.
+- [69] **Benjamin**: @Daisuke, they are light. No shoring needed.
+- [70] **Daisuke**: Option A seems structurally safe.
+- [71] **Toshio**: It matches the visitor preference for activity.
+- [72] **Rin**: The volunteers can guide the craftspeople.
+- [73] **Kenji**: No distant loans means no cut-off issues.
+- [74] **Benjamin**: Minimal transport and mount costs.
+- [75] **Daisuke**: I can accept Option A.
+- [76] **Toshio**: The data supports Option A.
+- [77] **Rin**: The staffing works for Option A.
+- [78] **Kenji**: The logistics are clean for Option A.
+- [79] **Benjamin**: The budget is sound for Option A.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

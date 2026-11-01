@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: I am tired of guessing who gets the room. I want a clear rule for who uses it and when.
+- [6] **Misaki**: I need to understand the noise and mess levels. I will check the sound and the crumbs.
+- [7] **Servas**: I worry about the hidden hours. Who actually cleans up after the noise and crumbs?
+- [8] **Sakura**: I want to see the actual money spent! Who is paying for all this mess?
+- [9] **Kenji**: I feel like we are drifting apart. I want a space where we can actually talk, not just work side by side.
+- [10] **May**: @Misaki, checking the crumbs is a start, but I need to know who is actually doing the sweeping.
+- [11] **Misaki**: @May, the tally will show who is there when. I will check the fortnight's use and the invoices for outside hire.
+- [12] **Servas**: @May, the tally will reveal the true cost of our time. I will examine the facilities callouts and the final clear-out of the old fridge.
+- [13] **Sakura**: @Misaki, I am checking the quotes for the two fit-outs and the invoices for outside hire. I need to see the real numbers!
+- [14] **Kenji**: @Sakura, money matters, but I worry about the awkward silences. I will check the partition wall and where the last awkward conversation happened.
+- [15] **May**: @Kenji, I hope that partition wall doesn’t block the good conversations. I will check the round trip for a hot lunch and the unplanned talk since the refit.
+- [16] **Misaki**: @May, the unplanned talk data might show if the room is actually fostering connection or just noise.
+- [17] **Servas**: @Misaki, connection is vital, but so is the quiet time to think. I will look at the round trip for a hot lunch and the unplanned talk since the refit.
+- [18] **Sakura**: @Kenji, I hope the partition doesn’t block the fun! I am checking the quotes for the two fit-outs and the invoices for outside hire.
+- [19] **Kenji**: @Sakura, I hope the numbers don’t hide the human side. I will check the partition wall and where the last awkward conversation happened.
+- [20] **May**: I will check the fortnight's tally of use by person and the crumbs and bins at the desks.
+- [21] **Misaki**: I will check the fortnight's tally of use by person and the crumbs and bins at the desks.
+- [22] **Servas**: I will check the facilities callouts on this floor and the final clear-out of the old fridge.
+- [23] **Sakura**: I will check the quotes for the two fit-outs and the invoices for outside hire.
+- [24] **Kenji**: I will check the partition wall to the office and where the last awkward conversation happened.
+## Round 2
+- [35] **May**: @Misaki, the tally is brutal. Two people hog the room eleven times, the rest get four. And crumbs are everywhere.
+- [36] **Misaki**: @May, the tally confirms the imbalance. The crumbs are a daily issue now. I will check the invoices for outside hire.
+- [37] **Servas**: @May, the callouts show eleven repairs, yet the empty store room had none. The fridge clear-out was done twice by one person. Who is left to carry the rest?
+- [38] **Sakura**: @May, the invoices are shocking! We paid 68,000 yen for nine tiny bookings. That is way too much for such small groups!
+- [39] **Kenji**: @Sakura, the money is scary, but the wall is worse. It’s just plasterboard. We can hear everything. And the last hard talk happened in front of everyone.
+- [40] **May**: @Kenji, plasterboard? That explains the awkwardness. But @Servas, if one person did the fridge twice, that’s a red flag for who’s left holding the bag.
+- [41] **Misaki**: @Servas, the tally shows the imbalance is structural, not accidental. The crumbs are a symptom of that.
+- [42] **Servas**: @Misaki, structure matters, but so does the quiet dignity of a shared space. I will look at the round trip for a hot lunch and the unplanned talk since the refit.
+- [43] **Sakura**: @Kenji, plasterboard is terrible! But @May, those 68,000 yen invoices are the real problem. We are bleeding money for tiny groups.
+- [44] **Kenji**: @Sakura, the money hurts, but the silence hurts more. If we can’t hear each other, we can’t fix things. I need a space where we can actually talk.
+- [45] **May**: @Kenji, I hear you, but I need to know who is actually cleaning up the crumbs. I will check the round trip for a hot lunch and the unplanned talk since the refit.
+- [46] **Misaki**: @May, the crumbs are a symptom of the imbalance. I will check the invoices for outside hire to see if we are paying for the mess.
+- [47] **Servas**: @May, the lunch trip reveals the true cost of our time. I will check the round trip for a hot lunch and the unplanned talk since the refit.
+- [48] **Sakura**: @Kenji, I hear you! But @Misaki, if we stop paying that hourly fee, we save so much. I want to see the fit-out quotes!
+- [49] **Kenji**: @Sakura, I agree the money is tight, but a room that only saves cash while keeping us silent is a failure. We need to talk.
+- [50] **May**: I am done checking. The data is clear. Let’s move to the options.
+- [51] **Misaki**: I am done checking. The data is clear. Let’s move to the options.
+- [52] **Servas**: I am done checking. The hours are accounted for. Let us move to the options.
+- [53] **Sakura**: I am done checking. The numbers are clear. Let’s move to the options!
+- [54] **Kenji**: I am done checking. The wall and the silence are the real issues. Let’s move to the options.
+## Round 3
+- [60] **May**: @Kenji, a bookable meeting space finally kills the "first come, first served" chaos. I want a calendar, not a guessing game.
+- [61] **Misaki**: @May, a calendar helps, but the plasterboard wall means every meeting is overheard. I need privacy for the quiet moments.
+- [62] **Servas**: @Misaki, privacy is precious, but a shared calendar also protects our quiet hours. I see the balance in Option C.
+- [63] **Sakura**: @May, a calendar sounds fun! But @Misaki, if we pick C, we stop paying that 68,000 yen. I want to see the fit-out costs!
+- [64] **Kenji**: @Misaki, the plasterboard is a problem, but a bookable space gives us a reason to actually talk. I want us to stop drifting apart.
+- [65] **May**: @Sakura, the fit-out costs are the real test. If C is cheaper than A, I am all in.
+- [66] **Misaki**: @Sakura, the fit-out costs matter, but the noise does not. If we book it, the plasterboard still lets every word out.
+- [67] **Servas**: @Misaki, the wall is a flaw, but a calendar prevents the hidden hours of conflict. I find the structure of C most dignified.
+- [68] **Sakura**: @May, the screen fit-out is 141,000 yen! That is way more than the 96,000 for the kitchen. I need to see the math!
+- [69] **Kenji**: @Sakura, the screen is expensive, but the kitchen won’t fix our silence. I need a place where we can actually talk without fear.
+- [70] **May**: @Sakura, 141,000 yen is steep, but the calendar solves my biggest headache. I am voting for C.
+- [71] **Misaki**: @Sakura, the cost is high, but the plasterboard makes C risky. I am voting for B to ensure quiet.
+- [72] **Servas**: @Sakura, the cost is high, but the calendar prevents the hidden hours of conflict. I find the structure of C most dignified.
+- [73] **Sakura**: @Kenji, I hear you! But @May, 141,000 yen is a lot. I am voting for C, but we must be careful with the budget!
+- [74] **Kenji**: @Sakura, the screen is pricey, but the kitchen won’t fix our silence. I am voting for C. We need a place to actually talk.
+- [75] **May**: I am voting for C. The calendar is the only way to stop the chaos.
+- [76] **Misaki**: I am voting for B. The plasterboard makes C impossible. I need the quiet.
+- [77] **Servas**: I am voting for C. The calendar protects our time and dignity.
+- [78] **Sakura**: I am voting for C! The calendar is brilliant, and we finally stop bleeding money. Let’s make it work!
+- [79] **Kenji**: I am voting for C. We need a real place to talk, not just a quiet corner.
+### Vote
+- May -> C
+- Misaki -> B
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

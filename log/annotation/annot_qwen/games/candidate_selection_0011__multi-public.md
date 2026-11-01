@@ -1,0 +1,73 @@
+# candidate_selection_0011__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. Before we rank these proposals, I’d like to understand what actually happened to past awards.
+- [6] **Ryuji**: I agree. We must verify current technical capacity before committing funds. Who is actually available to run these projects?
+- [7] **Victoria**: I’m concerned about the shared infrastructure. If the facilities are already strained, adding another major project could cause bottlenecks for everyone.
+- [8] **Benjamin**: I’m curious why the headline grant size stays constant while its real purchasing power fluctuates. Which costs does the agency still absorb centrally?
+- [9] **Midori**: I worry about non-scientific delays. Where do projects usually get interrupted? I’d like to check incident logs and closeout files.
+- [10] **Shizue**: Midori, your instinct is sound. I am also reviewing the closeout files to see which finished awards truly delivered their promises.
+- [11] **Ryuji**: I am checking staffing rolls and secondment minutes. I need to know who is actually here to do the work, not just who is on paper.
+- [12] **Victoria**: I am checking accreditation and bookings at shared facilities. I need to know if the glasshouses and animal units have actual spare capacity for this cycle.
+- [13] **Benjamin**: I’ll examine the national computing agreement and the travel and bench-fee ledgers. I need to map exactly which costs remain central versus those now landing on the awardee.
+- [14] **Midori**: I’ll look into incident logs on shared instrumentation and station records from partner field sites. I want to see where work actually gets interrupted.
+- [15] **Shizue**: I am also reviewing the portfolio review of schedule overruns. I want to see which types of projects tend to stall and why.
+- [16] **Ryuji**: I am also reviewing the national repository deposit turnaround. I need to know if data release delays will bottleneck the project timeline.
+- [17] **Victoria**: I am also checking the national computing agreement. I need to verify if simulation costs are truly covered, as that dictates our computational feasibility.
+- [18] **Benjamin**: I’ll also check the portfolio review of schedule overruns. I need to see if cost inflation correlates with specific project types or just general drift.
+- [19] **Midori**: I’ll also check the portfolio review of schedule overruns. I want to see if delays cluster around specific project types or are just general drift.
+- [20] **Shizue**: I’ll also check the closeout files of finished awards. I want to see which confident picks quietly stalled while plainer ones kept earning their keep.
+- [21] **Ryuji**: I am also checking the staffing rolls for technical posts. I need to confirm if the trained hands we rely on are still here or gone.
+- [22] **Victoria**: I am also checking the incident logs on shared instrumentation. I need to know if critical equipment failures have historically derailed timelines.
+- [23] **Benjamin**: I’ll also check the closeout files. I want to see if the central cost absorption actually held steady for finished awards, or if it quietly shifted.
+- [24] **Midori**: I’ll also check the closeout files. I want to see if the delays I worry about actually materialized in past projects.
+## Round 2
+- [35] **Shizue**: The closeout files are sobering. Catalogue-style awards still serve users a decade later, while mechanism-focused ones often ended unresolved.
+- [36] **Ryuji**: The staffing data is stark. Phenotyping technicians are gone, but the glasshouse crew remains intact. This shifts feasibility toward field-based work.
+- [37] **Victoria**: The spectroscopy suite sat idle for eleven weeks. That is a critical bottleneck for any project relying on that specific instrumentation.
+- [38] **Benjamin**: The computing agreement covers simulation free, but animal-unit rates spiked. Meanwhile, glasshouse bench fees remain subsidized. This asymmetry heavily favors computational or plant-based work over animal models.
+- [39] **Midori**: The field sites lost whole seasons to weather, but indoor rooms ran uninterrupted. That confirms my worry about external interruptions.
+- [40] **Shizue**: Ryuji, your staffing point aligns with my findings. Live breeding colonies overrun schedules twice as often as computational work. We must weigh that risk carefully.
+- [41] **Ryuji**: Shizue, that confirms my concern. With senior analysts abroad and technicians gone, we cannot rely on complex modelling. We need a project the remaining glasshouse crew can execute independently.
+- [42] **Victoria**: The glasshouse blocks are booked solid for two more cycles. That capacity is gone. We cannot fund a project requiring that space.
+- [43] **Benjamin**: Victoria, that contradicts the ledger data. The ministry extended the bench-fee subsidy specifically for glasshouse space. Are you certain the bookings are fully saturated?
+- [44] **Midori**: @Victoria, if the glasshouses are truly full, that rules out the plant proposal. But the indoor rooms stayed open. Does that mean the amphibian work is safe from weather delays?
+- [45] **Shizue**: Midori, the indoor rooms did stay open, but the breeding colonies still overrun schedules. I worry the amphibian work carries that same biological risk.
+- [46] **Ryuji**: Midori, the amphibian work is risky. The technicians are gone, and the analysts are abroad. We lack the specific hands to manage those colonies reliably.
+- [47] **Victoria**: @Benjamin, the booking data is explicit: solid through two cycles. The subsidy covers cost, not capacity. We cannot fund a project requiring that space.
+- [48] **Benjamin**: Victoria, you’re conflating cost with capacity. The subsidy confirms the agency still absorbs the expense, but I need to know if the physical space is actually available.
+- [49] **Midori**: @Benjamin, you’re right. The subsidy covers cost, not space. If the glasshouses are full, the plant proposal is blocked. We must look elsewhere.
+- [50] **Shizue**: I appreciate the clarity, Victoria. The glasshouse constraint is real. Given the staffing gaps and biological risks, I am leaning toward the computational or catalogue-based options.
+- [51] **Ryuji**: I concur. With the glasshouse saturated and technical staff depleted, the plant proposal is unviable. We must prioritize projects executable by the remaining computational and indoor teams.
+- [52] **Victoria**: I agree. The spectroscopy suite’s eleven-week idle period is a severe risk for the protein folding proposal. We cannot rely on that equipment.
+- [53] **Benjamin**: I agree. The subsidy confirms central cost absorption, but Victoria’s capacity data is decisive. The plant proposal is blocked. We must prioritize projects executable by the remaining computational and indoor teams.
+- [54] **Midori**: I agree. The field site losses confirm that outdoor work is too risky. With glasshouses full and spectroscopy unreliable, the microbiome atlas seems safest.
+## Round 3
+- [60] **Shizue**: #### Turn 1 of 4
+- [61] **Ryuji**: - **Ryuji**: The microbiome atlas fits our constraints. It avoids the saturated glasshouses and the unreliable spectroscopy suite. It is executable with current staff.
+- [62] **Victoria**: The repository migration is complete, so data deposits now clear in weeks, not years. That removes the final bottleneck for the microbiome atlas.
+- [63] **Benjamin**: The computing agreement covers simulation free, but the atlas is primarily cataloging. The cost asymmetry I found favors it. I support D.
+- [64] **Midori**: The atlas avoids the weather risks I found. With the repository now fast, the data will actually be usable. I support D.
+- [65] **Shizue**: Midori, your point about the repository is well taken. The closeout files show catalogue-style work endures, unlike mechanism-focused projects. I support D.
+- [66] **Ryuji**: I concur. The atlas requires no glasshouse space or spectroscopy. It fits the remaining staff and avoids the biological risks we identified. I support D.
+- [67] **Victoria**: The spectroscopy risk eliminates C. The glasshouse saturation eliminates A. The staffing gaps eliminate B. D is the only viable option. I support D.
+- [68] **Benjamin**: The cost structure favors D. No animal rates, no glasshouse fees, and free computing for any analysis. It is the only option that doesn't bleed money on central costs. I support D.
+- [69] **Midori**: I agree. The atlas sidesteps the interruptions I feared. It is the most stable path forward. I support D.
+- [70] **Shizue**: I am content. The evidence points clearly to D. It aligns with our shared constraints and past successes. I will vote for the Microbiome Atlas.
+- [71] **Ryuji**: I concur. The evidence is decisive. The atlas fits our staffing and infrastructure realities. I vote for the Microbiome Atlas.
+- [72] **Victoria**: The infrastructure constraints are decisive. A, B, and C face insurmountable bottlenecks. D is the only viable path. I vote for the Microbiome Atlas.
+- [73] **Benjamin**: The cost asymmetry is decisive. D avoids the animal rate spikes and glasshouse saturation I flagged. It is the only option that doesn't bleed money on central costs. I vote for the Microbiome Atlas.
+- [74] **Midori**: I am content. The evidence supports D. It avoids the interruptions I feared and fits our current capacity. I vote for the Microbiome Atlas.
+- [75] **Shizue**: Thank you all. The evidence is clear. I vote for the Microbiome Atlas.
+- [76] **Ryuji**: I have already stated my position. The evidence is unambiguous. I vote for the Microbiome Atlas.
+- [77] **Victoria**: I have already stated my position. The infrastructure constraints are decisive. I vote for the Microbiome Atlas.
+- [78] **Benjamin**: I have already stated my position. The cost asymmetry is decisive. D avoids the animal rate spikes and glasshouse saturation I flagged. I vote for the Microbiome Atlas.
+- [79] **Midori**: I have already stated my position. The evidence supports D. It avoids the interruptions I feared and fits our current capacity. I vote for the Microbiome Atlas.
+### Vote
+- Shizue -> D
+- Ryuji -> D
+- Victoria -> D
+- Benjamin -> D
+- Midori -> D
+## Result
+- adopted: D

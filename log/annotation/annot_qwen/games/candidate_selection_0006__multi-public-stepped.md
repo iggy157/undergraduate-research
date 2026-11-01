@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about programs that fail in year two. Let's look at past breakdowns.
+- [6] **Jonathan**: We should check what previous initiatives actually achieved before adding more.
+- [7] **Misaki**: Staffing is the real bottleneck. I need to see the roster pressures.
+- [8] **Shion**: The budget is shrinking. I need to know what this money can actually buy.
+- [9] **Shizue**: I am concerned about whether our current facilities can handle any new load.
+- [10] **Midori**: @Shion, that is a valid point. We must be realistic about costs.
+- [11] **Jonathan**: Agreed. History is a useful teacher here.
+- [12] **Misaki**: I will focus on the human resources side of things.
+- [13] **Shion**: I will look at the ledger and the tariffs.
+- [14] **Shizue**: I will check the rooms and the booking system.
+- [15] **Midori**: I will look at the board minutes and the nursing round data.
+- [16] **Jonathan**: I will review the readmission figures and the therapy staffing.
+- [17] **Misaki**: I will check the ward vacancies and the therapy review.
+- [18] **Shion**: I will also look at the data agreements with outside surgeries.
+- [19] **Shizue**: I will also look at the parking and shuttle coverage.
+- [20] **Midori**: Let's see what the records say.
+- [21] **Jonathan**: Quietly, I hope for clarity.
+- [22] **Misaki**: The numbers will tell the truth.
+- [23] **Shion**: Let's proceed.
+- [24] **Shizue**: I trust the process.
+## Round 2
+- [35] **Midori**: The shared clinic failed because no one owned the rota. That is a warning.
+- [36] **Jonathan**: The call-back trial worked, but only while it was funded. It stopped, and results slipped.
+- [37] **Misaki**: Therapy staff are leaving, but midwifery has slack. That imbalance is key.
+- [38] **Shion**: The budget is down a quarter. And data agreements take fourteen months. That kills external links.
+- [39] **Shizue**: The rooms are full by mid-morning. The booking system only tracks fixed slots.
+- [40] **Midori**: @Shion, the data agreement delay is a major hurdle for any external coordination.
+- [41] **Jonathan**: Yes. And the therapy unit is losing people. A new rehab unit might struggle to staff.
+- [42] **Misaki**: Midwifery has capacity. That suggests a perinatal focus might be feasible without new hires.
+- [43] **Shion**: If we can't afford the fit-out, and can't link data, we are limited to internal, low-tech solutions.
+- [44] **Shizue**: If it doesn't fit in the booking system, it doesn't exist. We need something that uses existing slots.
+- [45] **Midori**: Home visits are hard to track in the current system. That is a risk.
+- [46] **Jonathan**: The readmission drop was real. But it required active follow-up.
+- [47] **Misaki**: A perinatal service could use the midwifery slack. It fits the staffing reality.
+- [48] **Shion**: It is cheap to start. No new rooms, no external data links. Just time.
+- [49] **Shizue**: It can be scheduled as fixed slots. The booking system can handle it.
+- [50] **Midori**: I am leaning towards the perinatal option. It avoids the staffing and data traps.
+- [51] **Jonathan**: It is a quiet, sustainable choice. I agree.
+- [52] **Misaki**: The staffing data supports it. I support it.
+- [53] **Shion**: It is the only one that fits the budget and the system constraints.
+- [54] **Shizue**: It fits the rooms and the schedule. I am comfortable with this.
+## Round 3
+- [60] **Midori**: Option D uses the midwifery slack. It avoids the data agreement nightmare.
+- [61] **Jonathan**: Option A had good results, but it is hard to sustain and track.
+- [62] **Misaki**: Option B is impossible with the therapy staff leaving. Option D is the only one with capacity.
+- [63] **Shion**: Option C requires external data links. That is a fourteen-month wait. Option D is internal.
+- [64] **Shizue**: Option D fits the booking system. Option A does not. Option D is the practical choice.
+- [65] **Midori**: I am voting for D. It is the most robust against our known failures.
+- [66] **Jonathan**: I agree. D is the most likely to succeed quietly.
+- [67] **Misaki**: The staffing review confirms D is the only one with available hands.
+- [68] **Shion**: D is the only one that doesn't break the budget or the system.
+- [69] **Shizue**: D fits the physical and digital infrastructure. I support it.
+- [70] **Midori**: Is there any objection to D?
+- [71] **Jonathan**: None. It is the logical path.
+- [72] **Misaki**: No. The data is clear.
+- [73] **Shion**: No. It is the only viable option.
+- [74] **Shizue**: No. It is the gentlest path forward.
+- [75] **Midori**: Let's proceed with D.
+- [76] **Jonathan**: Agreed.
+- [77] **Misaki**: Agreed.
+- [78] **Shion**: Agreed.
+- [79] **Shizue**: Agreed.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

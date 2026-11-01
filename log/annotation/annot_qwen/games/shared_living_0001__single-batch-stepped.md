@@ -1,0 +1,73 @@
+# shared_living_0001__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I want to check how the flat fee lands on different people.
+- [6] **Shizue**: I am worried about who talks to whom during the evenings.
+- [7] **Ryuji**: We need to know if the organizers can handle the workload.
+- [8] **Rin**: I need to know if the sleeping arrangements are decent.
+- [9] **Misaki**: I need to see where the money actually went last time.
+- [10] **Mio**: @Rin, do you think the location affects sleep quality?
+- [11] **Shizue**: @Mio, I think the social mix is more important than the fee.
+- [12] **Ryuji**: @Misaki, the accounts will show the hidden costs.
+- [13] **Rin**: @Shizue, if we sleep badly, we cannot mix well.
+- [14] **Misaki**: @Ryuji, I agree. The receipts are the first step.
+- [15] **Mio**: I will look at the transport receipts to see the cost split.
+- [16] **Shizue**: I will check what the seniors say about mixing.
+- [17] **Ryuji**: I will look at the attendance sheets to see who showed up.
+- [18] **Rin**: I will check the accounts from clubs that went inland.
+- [19] **Misaki**: I will look at the prefecture rate sheet for public beds.
+- [20] **Mio**: Also, I will check the quoting terms for whole-building lets.
+- [21] **Shizue**: And the vacation timetable for our own hall.
+- [22] **Ryuji**: I will also check the canteen closure details.
+- [23] **Rin**: I will also check the lottery application process.
+- [24] **Misaki**: I will also check the membership list against train times.
+## Round 2
+- [35] **Mio**: Transport is huge, 38% of costs if we go far.
+- [36] **Shizue**: Seniors say mixing only happens if we sleep together.
+- [37] **Ryuji**: A fifth of the club didn't show up last time.
+- [38] **Rin**: Inland clubs slept eight to a room with lights out at eleven.
+- [39] **Misaki**: Public beds are 1,100 yen a night, all included.
+- [40] **Mio**: @Rin, eight to a room sounds terrible for sleep.
+- [41] **Shizue**: @Mio, but if we stay local, we might not mix.
+- [42] **Ryuji**: @Misaki, 1,100 yen is cheap, but is it enough?
+- [43] **Rin**: @Ryuji, the attendance is low because the trip is hard.
+- [44] **Misaki**: @Shizue, staying local means we pay for beds anyway.
+- [45] **Mio**: Whole-building lets have non-refundable deposits. That is risky.
+- [46] **Shizue**: Our hall is booked by three other clubs during vacation.
+- [47] **Ryuji**: Cooking duty took two hours a day last year.
+- [48] **Rin**: The lottery application is nine pages long.
+- [49] **Misaki**: A third of the club can't be on campus by nine.
+- [50] **Mio**: @Misaki, so we need accommodation for many people.
+- [51] **Shizue**: @Ryuji, having kitchen staff would help the organizers.
+- [52] **Ryuji**: @Rin, the lottery is a hassle, but the beds are public.
+- [53] **Rin**: @Mio, the deposit risk is high if people drop out.
+- [54] **Misaki**: @Shizue, the hall is unusable for a continuous block.
+## Round 3
+- [60] **Mio**: Option A is too fragmented. Option B is cheap but crowded.
+- [61] **Shizue**: Option B allows mixing. Option C is too risky financially.
+- [62] **Ryuji**: Option B has staff. Option A requires too much work.
+- [63] **Rin**: Option B has bad sleep. Option C is unknown.
+- [64] **Misaki**: Option B is the most predictable cost-wise.
+- [65] **Mio**: @Rin, is the sleep in B really that bad?
+- [66] **Shizue**: @Mio, the social benefit of B is worth the crowding.
+- [67] **Ryuji**: @Misaki, the cost of B is low, but the effort is high.
+- [68] **Rin**: @Shizue, I can handle eight to a room if the days are good.
+- [69] **Misaki**: @Ryuji, the effort is manageable if we use the public system.
+- [70] **Mio**: I am leaning towards B for the social aspect.
+- [71] **Shizue**: I agree. B is the only one that forces mixing.
+- [72] **Ryuji**: I am concerned about the workload, but B is best.
+- [73] **Rin**: I will vote B, hoping the sleep is bearable.
+- [74] **Misaki**: I will vote B for the cost certainty.
+- [75] **Mio**: Let's go with B.
+- [76] **Shizue**: Yes, B it is.
+- [77] **Ryuji**: Agreed.
+- [78] **Rin**: Okay.
+- [79] **Misaki**: Understood.
+### Vote
+- Mio -> B
+- Shizue -> B
+- Ryuji -> B
+- Rin -> B
+- Misaki -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# shared_living_0029__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: We need facts, not feelings. I’m looking into last year’s fuel receipts and the mechanic’s remarks at the last service.
+- [6] **Benjamin**: Minako, facts are vital, but they don’t heal the silence. I’ll check what other households said and our own past attempts to understand the friction.
+- [7] **Asuka**: I’ll examine the state of the car at handover and the hours of use recorded in the diary.
+- [8] **Shion**: I’ll review last year’s tax, insurance, and parking papers, plus the fuel receipts. We need the actual costs, not guesses.
+- [9] **Daisuke**: I’m looking into the hours of use recorded in the diary and the spell of checking each other's figures.
+- [10] **Minako**: @Benjamin, your approach is too vague. We need concrete data to fix the imbalance.
+- [11] **Benjamin**: Fair point. But without understanding the social rot, the data just becomes ammunition. I’ll stick to my plan.
+- [12] **Asuka**: @Minako, I agree. Vague social theories won’t fix a broken routine. We need precise, verifiable data to establish a fair baseline for usage.
+- [13] **Shion**: @Asuka, agreed. Vague theories won’t balance the books. I need the hard numbers to see who’s actually driving.
+- [14] **Daisuke**: I just want to see where the time goes. The paperwork is exhausting.
+- [15] **Minako**: @Daisuke, exhaustion is valid, but we need clarity. I’m checking fuel receipts and mechanic notes to see the true wear and tear.
+- [16] **Benjamin**: @Daisuke, exhaustion is a symptom, not a cause. I’m looking into what other households said and our own past attempts to understand the friction.
+- [17] **Asuka**: @Daisuke, exhaustion doesn’t excuse the chaos. I need to know exactly when the car is unusable, not just how long it’s used.
+- [18] **Shion**: @Daisuke, exhaustion is a luxury we can’t afford. I need the tax and insurance figures to stop the bleeding.
+- [19] **Daisuke**: I’m sorry. I just need to know if the time spent untangling debts is worth the fuel.
+- [20] **Minako**: @Daisuke, your question is the core issue. We need to know if the administrative burden outweighs the savings. I’ll wait for the data.
+- [21] **Benjamin**: @Daisuke, if the admin cost exceeds the fuel savings, we’re just paying for misery. I’ll see if other groups found a cheaper way to share the pain.
+- [22] **Asuka**: @Daisuke, if the administrative burden exceeds the utility, we should reconsider the arrangement. I need to know if the car is actually reliable when I need it.
+- [23] **Shion**: @Daisuke, misery is a choice. I’ll calculate the exact annual cost. If the math doesn’t work, we sell it.
+- [24] **Daisuke**: I’m sorry. I just need to know if the time spent untangling debts is worth the fuel.
+## Round 2
+- [35] **Minako**: @Shion, the receipts show two people bought over half the fuel. @Benjamin, the mechanic says short runs destroy brakes. We need to price that wear.
+- [36] **Benjamin**: @Minako, the mechanic’s note confirms my fear: short runs breed resentment. @Shion, if two people dominate fuel, we’re not sharing, we’re subsidizing.
+- [37] **Asuka**: @Minako, the diary confirms the imbalance. Saturdays are triple Tuesdays. I need a strict midweek protocol to ensure the car is actually usable for me.
+- [38] **Shion**: @Minako, the 280,000 yen fixed cost is the baseline. @Benjamin, the fuel imbalance is obvious. We need a strict, data-driven split, not vague apologies.
+- [39] **Daisuke**: @Asuka, the diary shows Saturdays are triple Tuesdays. That imbalance makes the untangling so much harder.
+- [40] **Minako**: @Shion, the mechanic’s warning means short trips cost more per kilometre. We must adjust the split to reflect actual wear, not just distance.
+- [41] **Benjamin**: @Minako, wear is real, but resentment is worse. I found that asking favours sours groups. We need a system where nobody has to beg for a ride.
+- [42] **Asuka**: @Benjamin, resentment is a symptom of unreliability. I need the car fueled and clean on midweek mornings. That is the non-negotiable baseline for me.
+- [43] **Shion**: @Benjamin, resentment is a luxury. I have the 280,000 yen baseline. We need a rigid, mathematical split based on actual usage, not feelings.
+- [44] **Daisuke**: @Benjamin, I saw the checking figures caused so much pain. I’m scared of that. Can we avoid it?
+- [45] **Minako**: @Daisuke, fear is natural, but ignoring the data guarantees failure. We must accept the numbers to stop the resentment.
+- [46] **Benjamin**: @Daisuke, I found the checking spell was toxic. We must avoid that. Let’s design a system where nobody has to ask, so the silence doesn’t return.
+- [47] **Asuka**: @Daisuke, fear is irrelevant. I need the car fueled and clean on midweek mornings. That is the non-negotiable baseline for me.
+- [48] **Shion**: @Daisuke, fear is inefficient. I have the 280,000 yen baseline. We need a rigid, mathematical split based on actual usage, not feelings.
+- [49] **Daisuke**: @Benjamin, thank you. I’m relieved. I just want a simple way to track time so we don’t have to argue about it later.
+- [50] **Minako**: @Daisuke, simplicity is good, but it must be accurate. I propose a one-month trial recording every run to establish a fair, data-driven baseline.
+- [51] **Benjamin**: @Minako, a trial is wise, but let’s ensure it doesn’t become a surveillance state. We need a system that respects privacy while preventing the favour-asking trap.
+- [52] **Asuka**: @Minako, a trial is acceptable only if it guarantees the car is fueled and clean for midweek use. I will not accept a system that ignores my daily reality.
+- [53] **Shion**: @Minako, a trial is acceptable. I will calculate the exact cost per kilometre. If the data supports a rigid split, we implement it immediately.
+- [54] **Daisuke**: @Minako, a trial sounds okay. I just worry it will feel like checking figures again. Can we keep it simple?
+## Round 3
+- [60] **Minako**: @Shion, Option B aligns with the data. It prices actual wear, unlike A’s fixed days. @Benjamin, it avoids the favour-asking trap of C.
+- [61] **Benjamin**: @Minako, Option B is logical, but the shared calendar risks becoming that toxic checking spell. I worry it turns usage into surveillance rather than trust.
+- [62] **Asuka**: @Benjamin, surveillance is irrelevant. Option B guarantees the car is fueled and clean for my midweek mornings. I reject A and C.
+- [63] **Shion**: @Benjamin, surveillance is just data. Option B is the only one that matches the 280,000 yen baseline to actual usage. I vote B.
+- [64] **Daisuke**: @Benjamin, I’m scared the calendar will feel like checking figures again. Option A feels safer, even if it’s rigid.
+- [65] **Minako**: @Daisuke, the calendar records distance, not judgment. It ensures fairness without the emotional burden of constant checking. I support B.
+- [66] **Benjamin**: @Daisuke, I hear your fear. But Option C forces the favour-asking we hate. Option B, if we trust the system, avoids that. I’ll vote B.
+- [67] **Asuka**: @Daisuke, fear is inefficient. Option B is the only logical choice. I vote B.
+- [68] **Shion**: @Daisuke, fear is inefficient. Option B is the only logical choice. I vote B.
+- [69] **Daisuke**: @Benjamin, thank you for understanding. I’m still nervous, but I’ll try to trust the system. I vote B.
+- [70] **Minako**: @Daisuke, your vote confirms the consensus. Option B is adopted. We proceed with the booking calendar and distance-based cost sharing.
+- [71] **Benjamin**: @Minako, agreed. Let’s add a rule: no one audits another’s entries. We trust the system, not each other’s math.
+- [72] **Asuka**: @Benjamin, trust is insufficient. I require a strict handover protocol: fueled and clean. If the car is unusable, the booking is void.
+- [73] **Shion**: @Asuka, agreed. The handover protocol is non-negotiable. If the car isn't ready, the booking is void. I vote B.
+- [74] **Daisuke**: @Benjamin, thank you. The no-auditing rule helps. I’m relieved we can trust the system. I vote B.
+- [75] **Minako**: @Asuka, the handover protocol is essential. I support Option B. We implement the booking calendar with strict fuel and cleanliness checks.
+- [76] **Benjamin**: @Asuka, agreed. A void booking protects everyone. Let’s finalize this so we can stop worrying and start driving.
+- [77] **Asuka**: @Benjamin, agreed. The void booking rule is essential. I vote B.
+- [78] **Shion**: @Benjamin, agreed. The void rule protects the data. I vote B.
+- [79] **Daisuke**: @Benjamin, agreed. The void rule helps. I’m relieved. I vote B.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Asuka -> B
+- Shion -> B
+- Daisuke -> B
+## Result
+- adopted: B

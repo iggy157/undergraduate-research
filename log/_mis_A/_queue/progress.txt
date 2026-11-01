@@ -1,0 +1,14 @@
+22:42:42 start: 12 jobs, models=mis, per_model=2
+22:45:04 single-batch aiwolf_0001 rc=0 142s [mis#0] left=11
+22:45:06 single-batch candidate_selection_0001 rc=0 142s [mis#1] left=10
+22:46:21 single-batch-stepped aiwolf_0001 rc=0 75s [mis#1] left=9
+22:47:05 single-batch shared_living_0001 rc=0 121s [mis#0] left=8
+22:48:19 single-batch-stepped candidate_selection_0001 rc=0 119s [mis#1] left=7
+22:48:27 single-batch-stepped shared_living_0001 rc=0 82s [mis#0] left=6
+22:53:21 multi-private aiwolf_0001 rc=0 302s [mis#1] left=5
+22:59:55 multi-private candidate_selection_0001 rc=0 687s [mis#0] left=4
+23:01:43 multi-private-stepped aiwolf_0001 rc=0 108s [mis#0] left=3
+23:02:31 multi-private shared_living_0001 rc=0 550s [mis#1] left=2
+23:03:24 multi-private-stepped candidate_selection_0001 rc=0 101s [mis#0] left=1
+23:04:41 multi-private-stepped shared_living_0001 rc=0 130s [mis#1] left=0
+23:04:41 all done

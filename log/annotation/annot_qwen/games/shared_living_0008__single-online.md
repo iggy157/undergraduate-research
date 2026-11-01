@@ -1,0 +1,73 @@
+# shared_living_0008__single-online (shared_living)
+
+## Round 1
+- [5] **May**: I checked the tally. The two nearest the door used it eleven times; the rest of us, four. Who’s actually using this?
+- [6] **Misaki**: That’s the pattern I’ve noticed too. The noise and crumbs follow the same people.
+- [7] **Servas**: A room that serves only a few will quietly consume the time of the many.
+- [8] **Sakura**: I want the actual numbers on paper before we agree to anything. Who is paying for this mess right now?
+- [9] **Kenji**: I just want a place where we can actually talk without everyone staring.
+- [10] **May**: @Sakura, I’m looking into the invoices for outside hire and the quotes for the two fit-outs.
+- [11] **Misaki**: I’m checking the partition wall to the office and the crumbs and bins at the desks.
+- [12] **Servas**: I will examine the facilities callouts on this floor and the final clear-out of the old fridge.
+- [13] **Sakura**: I’m checking the invoices for outside hire by the hour and the quotes for the two fit-outs.
+- [14] **Kenji**: I’m looking into the unplanned talk since the refit and where the last awkward conversation happened.
+- [15] **May**: @Kenji, that sounds lonely. I hope you find a spot where you can actually breathe.
+- [16] **Misaki**: @May, I’ll see if the wall is the real problem. If sound leaks, a quiet room is impossible.
+- [17] **Servas**: I suspect the old fridge’s ghost still haunts our schedules. Let us see who truly bears the burden of upkeep.
+- [18] **Sakura**: @May, @Sakura, you’re both checking the same things? That’s efficient, but I hope the numbers are as clear as the mess.
+- [19] **Kenji**: @Sakura, I’m checking where the last awkward conversation happened. I need to know if we have a safe place to talk.
+- [20] **May**: @Sakura, I’m checking the invoices and quotes too. Let’s see if the money matches the mess.
+- [21] **Misaki**: @Servas, I hope the callouts show who is actually doing the work. I am tired of guessing.
+- [22] **Servas**: @Misaki, I suspect the callouts will reveal that the burden of maintenance falls on those who never asked for it.
+- [23] **Sakura**: @Kenji, I hope you find a safe spot. I’m just making sure we don’t sign a check for a room that doesn’t work.
+- [24] **Kenji**: @May, I’m checking where the last awkward conversation happened. I need to know if we have a safe place to talk.
+## Round 2
+- [35] **May**: #### Turn 1 of 4
+- [36] **Misaki**: - **May**: The invoices show we paid 68,000 yen for nine bookings. The quotes are 141,000 for a screen and 96,000 for a kitchen.
+- [37] **Servas**: - **Servas**: The callouts show eleven incidents for equipment, zero for the empty store. The fridge clearing was done twice by one person.
+- [38] **Sakura**: - **Sakura**: Finally, paper. 68,000 yen for nine bookings? And 141,000 for a screen? That is a lot of money for a room that barely works.
+- [39] **Kenji**: - **Kenji**: The awkward talk happened right here, in front of everyone. We need a place where we can actually speak without an audience.
+- [40] **May**: - **May**: @Sakura, seeing those numbers makes me want to stop paying for a room we barely use.
+- [41] **Misaki**: - **Misaki**: The wall is just plasterboard. I can hear every word from my desk. A quiet room is impossible without new construction.
+- [42] **Servas**: @Misaki, that confirms my fear. If sound leaks, the room fails its primary purpose. We must look elsewhere.
+- [43] **Sakura**: @Misaki, if the wall is that thin, a quiet room is a fantasy. We need to look at the meeting space option instead.
+- [44] **Kenji**: @Kenji, I found that since the sofa went in, we only talk by the printer. We are becoming strangers.
+- [45] **May**: - **May**: @Kenji, that’s heartbreaking. We’re literally talking to a machine instead of each other.
+- [46] **Misaki**: - **Misaki**: @Kenji, that explains the silence. We need a space that invites conversation, not just a room to hide in.
+- [47] **Servas**: @Kenji, the printer is a poor substitute for genuine connection. We must create a space that encourages dialogue, not just proximity.
+- [48] **Sakura**: @Kenji, I hear you. But before we build a sanctuary, I need to know if the 141,000 yen quote is worth the silence.
+- [49] **Kenji**: @Sakura, it’s not about silence, it’s about connection. If we can’t talk here, we’re just coworkers, not friends.
+- [50] **May**: - **May**: @Sakura, the kitchen quote is cheaper, but the invoices prove we waste money on outside hire. Let’s stop paying for what we can do ourselves.
+- [51] **Misaki**: - **Misaki**: @May, the kitchen is cheaper, but the crumbs are already under three keyboards. I am not cleaning up after everyone again.
+- [52] **Servas**: @Misaki, the crumbs are a symptom, not the cause. The real cost is the hours we lose to cleaning up after others.
+- [53] **Sakura**: @May, the kitchen is cheaper, but the invoices prove we waste money on outside hire. Let’s stop paying for what we can do ourselves.
+- [54] **Kenji**: @May, I agree. If we stop paying outside, we save money. But will a kitchen actually make us talk more, or just eat more?
+## Round 3
+- [60] **May**: - **May**: Okay, options are on the table. A: Kitchen, B: Quiet Room, C: Meeting Space. I’m voting C. We need to talk, not just eat or hide.
+- [61] **Misaki**: - **Misaki**: I am voting C. The wall is too thin for B, and I refuse to clean up A.
+- [62] **Servas**: - **Servas**: I vote C. The hours spent on upkeep for A or B would be wasted. A shared calendar ensures fairness.
+- [63] **Sakura**: I vote C. The 141,000 yen is cheaper than the kitchen, and the invoices prove we are already wasting money on outside hire.
+- [64] **Kenji**: I vote C. A bookable room means we can finally have that awkward conversation without an audience.
+- [65] **May**: - **May**: @Kenji, exactly. No more printer confessions. C it is.
+- [66] **Misaki**: - **Misaki**: @May, agreed. C is the only option that respects my need for quiet and your need for connection.
+- [67] **Servas**: @May, well said. The calendar will ensure the room serves us all, not just the loudest voices.
+- [68] **Sakura**: @May, I am glad the numbers finally made sense. C is the only choice that doesn’t bleed money or hours.
+- [69] **Kenji**: @May, I’m so relieved. No more awkward silences. Let’s actually talk to each other again.
+- [70] **May**: - **May**: @Kenji, I’m glad we’re all on the same page. No more printer confessions. C it is.
+- [71] **Misaki**: - **Misaki**: @May, agreed. C is the only option that respects my need for quiet and your need for connection.
+- [72] **Servas**: @May, the decision is made. Let us hope the calendar brings order, not just another list of things to manage.
+- [73] **Sakura**: @May, I am glad the numbers finally made sense. C is the only choice that doesn’t bleed money or hours.
+- [74] **Kenji**: @May, I’m so relieved. No more awkward silences. Let’s actually talk to each other again.
+- [75] **May**: - **May**: C it is. Let’s book our first real conversation before the calendar fills up.
+- [76] **Misaki**: - **Misaki**: Agreed. I will ensure the first booking is for a proper, quiet discussion.
+- [77] **Servas**: @May, a wise first step. Let us ensure that first conversation is as meaningful as the room itself.
+- [78] **Sakura**: @May, I’ll sign the paperwork. Let’s make sure this room actually works before we pay another yen.
+- [79] **Kenji**: @May, I’ll book it for tomorrow. I promise to actually say what I mean this time.
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

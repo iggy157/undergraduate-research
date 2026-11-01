@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: Hi everyone! Let's figure out what to do with the break room. I want to make sure we don't just guess and end up with a mess. Let's look at some facts first!
+- [6] **Misaki**: I agree. We should avoid making a decision based on assumptions. Let's examine the data to understand how the room is actually being used and what the primary issues are.
+- [7] **Servas**: It is a pleasure to be here with you all. A shared space is like a garden; it flourishes only when we understand the soil we are planting in. Let us seek the truth together.
+- [8] **Sakura**: Yay! A mystery to solve! I'm so excited to help! Let's find some super cool clues so we can make the room the best place ever! What should we look for first?
+- [9] **Kenji**: I'm in! Let's make this room a place where we can all hang out and really get to know each other. I'm ready to dive in and find some answers!
+- [10] **May**: I'll check the "Crumbs and bins at the desks" and the "Fortnight's tally of use by person." I want to see who's actually using the space and who's leaving the mess behind!
+- [11] **Misaki**: I will look into the "Facilities callouts on this floor" and "Crumbs and bins at the desks." I want to identify the specific sources of noise and mess that are affecting the surrounding workspace.
+- [12] **Servas**: I shall examine the "Invoices for outside hire by the hour" and the "Fortnight's tally of use by person." It is wise to understand where our time and resources are truly flowing before we build.
+- [13] **Sakura**: I want to see the "Invoices for outside hire by the hour" and the "Quotes for the two fit-outs"! I bet there are some secret numbers in there that will tell us everything!
+- [14] **Kenji**: I'll check "Unplanned talk since the refit" and "Where the last awkward conversation happened"! I want to see how we've been talking to each other and if we have a good spot for the tough stuff!
+- [15] **May**: @Misaki, looks like we're both hunting for crumbs! I'm curious if we'll find the same culprits. @Kenji, "awkward conversations"? Now that sounds like some juicy gossip! I can't wait to hear what you find.
+- [16] **Misaki**: @May, I am not looking for culprits, but for patterns. If we can identify the cause of the mess, we can find a structural solution rather than just blaming individuals.
+- [17] **Servas**: It is a gentle reminder that patterns are indeed the whispers of the past. By observing these rhythms, we can ensure that our future arrangement brings peace and ease to everyone's daily journey.
+- [18] **Sakura**: @Servas, you talk so fancy! It's like a storybook! I hope the secret numbers I find are just as magical. I wonder if the fit-outs have cool colors or maybe a secret snack drawer!
+- [19] **Kenji**: @Sakura, a secret snack drawer would be awesome! But I'm more interested in how we're actually getting along. I hope we can find a way to make the room a place where we can all be honest and close!
+- [20] **May**: I'm feeling the energy! Let's all go do our digging and see what secrets the room is hiding. I'll be waiting to see who the real mess-makers are! See you all in the next round!
+- [21] **Misaki**: I will begin my research now. I hope the data on facilities and cleanliness provides a clear picture of the room's impact on our work environment. I will see you all in the next round.
+- [22] **Servas**: I shall step away now to reflect upon the records. May your search be fruitful and your hearts open to what the data reveals. I look forward to our reunion. Until then, be well.
+- [23] **Sakura**: I'm off to find those secret numbers! I'll be the best detective ever! I can't wait to see if there are any surprises waiting for us! Bye-bye everyone, see you soon!
+- [24] **Kenji**: I'm on it! I'll go see what's been happening with our conversations. I really hope we can turn this room into a place where we all feel like best friends! See you all soon!
+## Round 2
+- [35] **May**: Wow, the data is quite revealing! It turns out a couple of people are basically camping out in that room, while the rest of us barely get a turn. And the crumbs? Someone's definitely treating their desk like a dining table!
+- [36] **Misaki**: The data confirms my concerns. The increase in desk bin usage and the crumbs on keyboards show that the lack of a proper break area is spilling over into the office, affecting our actual workstations.
+- [37] **Servas**: It is a curious thing, is it not? When a few carry the weight of the room's use, it often means the space is serving a specific need, yet perhaps not the needs of the whole.
+- [38] **Sakura**: I found some huge numbers! We've been spending so much money on that other room on the main road! And the fit-outs are super expensive too. It's like a treasure map of where all the money is going!
+- [39] **Kenji**: I found something really sad. We've barely had any unplanned chats since the refit, and some of us still don't even know each other! Plus, the last tough conversation happened right at the desks for everyone to hear. That's not right!
+- [40] **May**: @Kenji, that is actually a bit tragic! No wonder the vibe feels off. But @Misaki, the crumbs are the real crime here. If people are eating at their desks, it means the break room isn't doing its job!
+- [41] **Misaki**: @May, it is not a crime, but a symptom. If the break room is not serving its purpose, people will naturally seek convenience. We need to determine why the current space is failing to keep the mess and noise out of the office.
+- [42] **Servas**: Indeed, convenience is a powerful current. However, we must also consider the hidden cost of that convenience. If we are paying for outside rooms, we are spending not just money, but the precious time of our lives in transit.
+- [43] **Sakura**: @Servas, you're right! We're spending 68,000 yen just to go somewhere else! That's a lot of ice cream money! Why are we paying for a room on the main road when we have one right here? It's a total mystery!
+- [44] **Kenji**: @Sakura, exactly! We have a room right here, but it's not working for us. If we're paying for other places and still not talking to each other, we're missing a huge chance to be a real team!
+- [45] **May**: @Sakura, 68,000 yen is a crazy amount! We're basically paying for a fancy hotel just to avoid our own room. It sounds like we're all just avoiding the space because it's a free-for-all with no rules!
+- [46] **Misaki**: @May, it is not necessarily about rules, but about the environment. The facilities data shows that the equipment rooms are the ones requiring maintenance, while the store room is ignored. We need a space that is functional and doesn't disrupt the office.
+- [47] **Servas**: It is a delicate balance we seek. If we simply impose rules, we may stifle the spirit of the room. We must ask ourselves: what is the true cost of our current habits in terms of effort and time?
+- [48] **Sakura**: @Misaki, @May, it's not just about rules or the environment! We're paying for that other room because we *need* it for something we can't do here! It's like a puzzle piece that's missing from our own room!
+- [49] **Kenji**: @Sakura, you're right! It's like we're missing the heart of the room. If we can't even have a private talk without everyone listening, no wonder we're paying for other places. We need a spot where we can actually connect!
+- [50] **May**: @Kenji, I totally get wanting a heart for the room, but let's be real: a heart that's covered in crumbs and used by only two people isn't a heart, it's a lounge! We need a plan that's actually fair.
+- [51] **Misaki**: @May, fairness is important, but functionality is the priority. If the room is not designed to contain the noise and mess, it will continue to bleed into our workspace regardless of who uses it. We need a structural solution.
+- [52] **Servas**: A structural solution is a sturdy foundation, Misaki, but let us not forget the human spirit. If we build a fortress of functionality but ignore the flow of our time, we may find ourselves exhausted by the very system meant to help us.
+- [53] **Sakura**: @Servas, you're so poetic! But we can't just think about spirits when we're losing so much money! If we fix the room to do the thing we're paying for outside, we can save all those yen! It's a win-win!
+- [54] **Kenji**: I agree with Sakura! Saving money is great, but the real win is finally becoming friends. We need a room that's not just for snacks, but for talking and supporting each other. Let's make it a place we actually want to be!
+## Round 3
+- [60] **May**: Option A sounds like a recipe for disaster! "Maintained by whoever uses them" is just a fancy way of saying the same person will end up cleaning everyone's crumbs. We need a system, not a free-for-all!
+- [61] **Misaki**: Option A would only exacerbate the current issues. If we encourage more food preparation in a room that already leaks noise and mess into the office, our workstations will become even more compromised. It is not a viable solution.
+- [62] **Servas**: Option B offers a sanctuary for the soul, yet I fear it may be a lonely victory. If we silence the room, do we not simply push our conversations back to the desks where they were once awkward?
+- [63] **Sakura**: Option C is the answer to the mystery! We're paying 68,000 yen for outside rooms because we don't have a place for meetings! If we pick C, we save all that money and get a cool screen!
+- [64] **Kenji**: @Sakura, you're totally right about the money! But @Servas is right too—we can't just be lonely. Option C is great because it gives us a private place to finally have those tough talks without everyone listening!
+- [65] **May**: @Sakura, @Kenji, you're both so focused on the money and the talks! But look at Option C—it has a "shared calendar governing its use." Finally! A way to stop the first-come, first-served chaos and make things actually fair.
+- [66] **Misaki**: @May, a calendar provides order, but the primary benefit of Option C is the containment of activity. By designating it as a meeting space, we can better manage the noise and prevent the office from becoming a dining area.
+- [67] **Servas**: It is heartening to see such alignment. Option C provides a structure that respects both our time and our boundaries. By bringing our meetings home, we cease the weary journey to the main road and reclaim our hours.
+- [68] **Sakura**: @Servas, exactly! No more long walks to the main road! Plus, the fit-out for Option C is 141,000 yen, but we're already spending so much on those hourly rooms. It's like buying a toy that saves us money! I vote for Option C!
+- [69] **Kenji**: I'm with Sakura! Option C is the only one that solves everything. We save money, stop the crumbs at the desks, and most importantly, we finally have a place to actually talk and be a team! I vote for Option C!
+- [70] **May**: @Sakura, @Kenji, you've almost sold me on the "saving money" part, but I'm mostly just thrilled about that calendar! No more guessing games or cleaning up after mystery guests. I'm in. I vote for Option C!
+- [71] **Misaki**: @May, the calendar is a useful detail, but the reduction of disruption is the real priority. Option C is the only choice that addresses the noise and mess issues while providing a necessary function. I vote for Option C.
+- [72] **Servas**: When we align our needs with a sustainable structure, we find a path that honors everyone's effort. Option C removes the burden of travel and the chaos of unplanned use. I vote for Option C.
+- [73] **Sakura**: Yay! Everyone is agreeing! It's like we all found the missing puzzle piece together! No more wasting money on that other room, and we get a fancy screen! I'm so happy! I vote for Option C!
+- [74] **Kenji**: I'm so glad we're all on the same page! This is going to be awesome. We'll finally have a place to be honest with each other and grow as a team. I vote for Option C!
+- [75] **May**: It's a total landslide! I'm just glad we're finally getting some order around here. No more "first-come, first-served" madness for me! Let's make this meeting space the most organized spot in the office. I vote for Option C!
+- [76] **Misaki**: The consensus is clear. Option C is the only responsible choice that resolves the spillover of noise and mess into our workspace while fulfilling a practical need. I vote for Option C.
+- [77] **Servas**: It is a beautiful thing when a group finds harmony. By choosing a path that values both our time and our peace, we ensure that no one is left to carry an unfair burden. I vote for Option C.
+- [78] **Sakura**: I'm so happy we all agree! We solved the mystery and saved the ice cream money! Now we can have our own special spot for everything! I vote for Option C!
+- [79] **Kenji**: I'm so happy we did this! We're not just saving money, we're building a place where we can actually be friends and support each other. I'm voting for Option C!
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

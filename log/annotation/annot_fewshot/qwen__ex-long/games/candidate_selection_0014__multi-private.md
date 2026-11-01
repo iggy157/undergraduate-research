@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual post-occupancy costs versus the original budget estimates.
+- [6] **Misaki**: I’m concerned about the ground conditions and delivery timelines. I want to see the condition of works from the earlier programme.
+- [7] **Mio**: I’m worried about the long-term upkeep! I’ll check the groundskeeping roll and bought-in services to see who actually maintains the park.
+- [8] **Asuka**: I need to verify who actually staffs the maintenance rota. I will examine the groundskeeping roll and bought-in services to assess long-term capacity.
+- [9] **Minako**: I worry the plan ignores how the ground actually behaves. I will examine drainage callouts and August heat readings to see the real environmental stress.
+- [10] **Benjamin**: Misaki, your focus on past condition is wise. I will examine the condition of works from the earlier programme to verify if those "handsome openings" actually survived.
+- [11] **Misaki**: @Benjamin, I appreciate the overlap. I will also examine the regional firms tendering for earth-moving to understand their actual capacity and reliability.
+- [12] **Mio**: @Asuka, great minds think alike! I’ll also check the upkeep ledger spend per hectare to see where the money really goes.
+- [13] **Asuka**: @Mio, I will also examine the volunteer groups working with the division. I need to know if they are a reliable backup or just seasonal goodwill.
+- [14] **Minako**: @Mio, your ledger focus is practical. I will also examine the upkeep ledger spend per hectare to see if the budget matches the physical reality of the ground.
+- [15] **Benjamin**: I will examine the condition of works from the earlier programme and the terms of the regional habitat fund.
+- [16] **Misaki**: I will examine the condition of works from the earlier programme and the regional firms tendering for earth-moving.
+- [17] **Mio**: I will examine the groundskeeping roll and bought-in services and the upkeep ledger spend per hectare.
+- [18] **Asuka**: I will examine the groundskeeping roll and bought-in services and the volunteer groups working with the division.
+- [19] **Minako**: I will examine drainage callouts and August heat readings and the upkeep ledger spend per hectare.
+- [20] **Benjamin**: I’ll stick with my two choices. The past is the only honest witness to whether these projects actually endure.
+- [21] **Misaki**: I’ll stick with my two choices. The ground and the firms will tell us if the timeline is real or just a wish.
+- [22] **Mio**: I’ll stick with my two choices! I need to know if the city can actually afford to keep this place alive after the ribbon is cut.
+- [23] **Asuka**: I will stick with my two choices. The rota is the only honest measure of who truly maintains this space, week in and week out.
+- [24] **Minako**: I’ll stick with my two choices. The ground doesn’t care about our plans; it only responds to water and heat.
+## Round 2
+- [35] **Benjamin**: The basin survived; the apron failed. The fund pays for plants, not concrete. We must judge candidates by what actually endures, not what looks pretty.
+- [36] **Misaki**: @Benjamin, the clay subsoil is the real threat. Only two firms can handle it, and they warn of slippage. We must avoid deep cuts.
+- [37] **Mio**: @Benjamin, that’s scary! My data shows upkeep costs triple for planted areas. We need a plan that doesn’t trap us in expensive, endless maintenance.
+- [38] **Asuka**: @Mio, the roll confirms your fear. Seven posts cannot sustain heavy planting. The volunteer groups are reliable, but they handle weekends, not daily structural upkeep.
+- [39] **Minako**: @Mio, your ledger data confirms my findings. Drainage callouts doubled, and heat stress is severe. We must avoid plans that fight the ground’s natural behavior.
+- [40] **Benjamin**: @Misaki, your clay warning aligns with my apron data. Concrete fails; earth endures. We must prioritize candidates that respect the fund’s planting mandate, not its concrete traps.
+- [41] **Misaki**: @Benjamin, precisely. The basin proves earth works if left alone. The apron proves concrete fails here. We must choose a plan that works with the clay, not against it.
+- [42] **Mio**: @Misaki, I agree! If the ground is tricky, we need a plan that’s easy to keep. I can’t imagine seven people handling all that extra planting!
+- [43] **Asuka**: @Misaki, the clay constraint is critical. With only seven staff, we cannot manage complex earthworks. We need a plan that minimizes daily labor, relying on the volunteer groups for seasonal tasks only.
+- [44] **Minako**: @Misaki, the clay is the enemy. My data shows drainage fails when we fight it. We must choose a plan that lets the ground breathe, not one that seals it.
+- [45] **Benjamin**: @Minako, the fund’s terms are the real constraint. It pays for water and plants, not hard surfaces. We must select a candidate that fits this mandate, or we fund the failure ourselves.
+- [46] **Misaki**: @Benjamin, the fund’s mandate is clear, but the ground is the final judge. We must pick a plan that survives the clay, not just the budget.
+- [47] **Mio**: @Benjamin, I hear you! But if the fund pays for plants, and plants cost triple to maintain, we’re stuck. We need a plan that’s cheap to keep alive!
+- [48] **Asuka**: @Benjamin, the fund’s mandate is necessary, but insufficient. Seven staff cannot sustain heavy planting. We need a plan that minimizes daily labor, relying on volunteers for seasonal tasks only.
+- [49] **Minako**: @Benjamin, the fund’s mandate is vital, but the ground is the final judge. We must pick a plan that survives the clay and heat, not just the budget.
+- [50] **Benjamin**: @Mio, you are right. We cannot afford to fund our own failure. Let us see which candidates respect the fund’s mandate and the ground’s reality.
+- [51] **Misaki**: @Benjamin, agreed. The ground and the firms are the final judges. Let us see which candidates respect the clay and the limited capacity.
+- [52] **Mio**: @Benjamin, I’m ready! Let’s see which plan doesn’t bankrupt us in three years. I’m counting on the data to save us!
+- [53] **Asuka**: @Benjamin, agreed. The data is clear. We need a plan that fits the seven-person reality, not an idealized vision. Let us see the candidates.
+- [54] **Minako**: @Benjamin, agreed. The data is unanimous. We must choose a plan that respects the ground’s limits and the budget’s reality. Let us see the candidates.
+## Round 3
+- [60] **Benjamin**: The fund pays for water and plants, not concrete. Option C fits the mandate; A and D are expensive traps. Let us examine the evidence.
+- [61] **Misaki**: @Benjamin, C is risky. The clay subsoil makes deep pond cuts prone to slippage. Only two firms can handle it, and they warn against it.
+- [62] **Mio**: @Misaki, that’s a huge red flag! But wait, my ledger shows water areas cost triple to maintain. With only seven staff, C is a financial nightmare!
+- [63] **Asuka**: @Mio, precisely. Seven staff cannot manage complex water systems. Option C demands daily structural upkeep we simply do not have. We must reject it based on capacity alone.
+- [64] **Minako**: @Misaki, the clay warning is critical. My drainage data shows the ground already fails under stress. C fights the natural flow. We must avoid deep cuts that invite slippage.
+- [65] **Benjamin**: @Misaki, the clay is a constraint, not a death sentence. The basin survived because it respected the water. C does too. A and D ignore the fund entirely.
+- [66] **Misaki**: @Benjamin, the basin was a cut, not a pond. C requires constant water management. With only two firms and clay slippage, the delivery risk is too high.
+- [67] **Mio**: @Benjamin, I hear you, but my ledger says water costs triple! With only seven staff, C is a money pit. A is paved and cheap to keep. Let’s pick A!
+- [68] **Asuka**: @Mio, A is a trap. Paved squares require constant cleaning and security, which our seven staff cannot handle. The volunteers are for habitat, not policing markets.
+- [69] **Minako**: @Mio, A ignores the heat data. Paved squares trap heat, worsening the stress I measured. C respects the water, but the clay risk is real. We need a middle path.
+- [70] **Benjamin**: @Mio, A is a concrete trap the fund refuses to pay for. C respects the water mandate, but the clay risk is real. We need a plan that endures without breaking the bank.
+- [71] **Misaki**: @Benjamin, B is the only option that respects the clay. Shallow gravel paths avoid deep cuts, and the two firms can handle it. It fits the fund’s mandate without the slippage risk.
+- [72] **Mio**: @Misaki, B sounds perfect! Trees are hardy, and gravel paths are way cheaper than water. My ledger says planted areas cost triple, but B is mostly trees, not ponds!
+- [73] **Asuka**: @Misaki, B is the only viable option. The volunteer groups already handle habitat tasks upriver, aligning perfectly with B’s maintenance needs. Seven staff can manage the rest.
+- [74] **Minako**: @Misaki, B is the only plan that respects the ground. Shallow gravel paths avoid the clay slippage, and the trees manage the heat stress I measured. It aligns with the fund’s mandate.
+- [75] **Benjamin**: @Misaki, B is the enduring choice. It respects the fund’s mandate and the clay’s limits. The basin proved earth endures; B does the same. I vote for B.
+- [76] **Misaki**: @Benjamin, agreed. B is the only plan the ground and the firms can actually deliver. The clay is safe, and the timeline is real. I vote for B.
+- [77] **Mio**: @Benjamin, I agree! B is the only plan that won’t bankrupt us. Trees are tough, and gravel is cheap. I vote for B!
+- [78] **Asuka**: @Benjamin, B is the only plan that fits our staffing reality. The volunteer groups align with its habitat needs, and seven staff can manage the rest. I vote for B.
+- [79] **Minako**: @Benjamin, B is the only plan that respects the ground’s limits. It manages the heat and drainage I measured, and fits the budget. I vote for B.
+### Vote
+- Benjamin -> B
+- Misaki -> B
+- Mio -> B
+- Asuka -> B
+- Minako -> B
+## Result
+- adopted: B

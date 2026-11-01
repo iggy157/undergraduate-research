@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private (shared_living)
+
+## Round 1
+- [5] **Benjamin**: Hello everyone. It seems our current billing arrangement is a relic of a smaller household. To ensure we transition to a system that is both logical and fair, I suggest we start by examining the data.
+- [6] **Mio**: Hi everyone! I'm so excited we're finally sorting this out! I want to make sure the new way is fair for everyone and doesn't make anyone feel stressed. Let's find some great ideas together!
+- [7] **Jonathan**: It is a pleasure to be here with you all. I agree that a peaceful and fair arrangement is best for everyone. Let us look into the facts calmly to ensure we find a sustainable solution.
+- [8] **Victoria**: I agree. It is important that we base our decision on actual figures rather than assumptions. Let us be thorough in our research to avoid any misunderstandings or financial surprises later on.
+- [9] **Minato**: Hi everyone! I'm glad we're talking about this. I want us all to stay happy and friendly, so I'm curious to see how we can make this work for everyone!
+- [10] **Benjamin**: I shall examine the "Plug-in monitor readings room by room" and "Sunlight and heating need by room." It would be a pity to ignore the physical realities of our living spaces before deciding on the math.
+- [11] **Mio**: I want to see how we've been doing things! I'll check the "Payment log for the last twelve months" and the "Trial run of a reconciliation template" to see if we can make the process easier!
+- [12] **Jonathan**: I believe it is important to understand the history of our payments. I will look into the "Payment log for the last twelve months" and "Settling up when the last rooms filled" to see how we have evolved.
+- [13] **Victoria**: I will look into "The last twelve utility statements" and the "Electrician's quote for the rooms." I want to understand the annual fluctuations in cost and any potential expenses for updating our setup.
+- [14] **Minato**: I want to know how other people do it! I'll check the "Monthly settle observed at another house" and the "Payment log for the last twelve months" to see if there are any clues!
+- [15] **Benjamin**: It seems we have a comprehensive plan. While some of you are focusing on the history of our payments, I shall focus on the actual consumption. It is far more elegant to solve a problem at its source.
+- [16] **Mio**: @Benjamin, that sounds super smart! But I'm really curious about the "Trial run of a reconciliation template." If we can find a way to make the math a breeze, it'll be way more fun for everyone!
+- [17] **Jonathan**: @Mio, a simple process would certainly bring more peace to our home. I hope the template you find helps us avoid any unnecessary friction during our monthly settling.
+- [18] **Victoria**: @Mio, a simplified process is helpful, but we must ensure the underlying calculations are accurate first. Efficiency is only valuable if the distribution of costs is truly fair and sustainable over the long term.
+- [19] **Minato**: I agree with Victoria! I hope we can find a way that makes everyone feel okay. I'm really looking forward to seeing what the other house does to keep things friendly!
+- [20] **Benjamin**: Indeed, a harmonious home is built on a foundation of transparency. I shall leave you to your research, and I look forward to seeing if our findings align with the reality of our winter habits. Until then.
+- [21] **Mio**: I'm ready to go! I'll dive into those logs and the template right now. I hope we find a way to make everything super simple and stress-free! See you all soon!
+- [22] **Jonathan**: I shall begin my research now. I hope that by understanding our past, we can move forward with a clear mind and a spirit of kindness. I look forward to our next conversation.
+- [23] **Victoria**: I will begin my research as well. I believe a clear understanding of our annual spending and potential costs is essential for a stable agreement. I look forward to sharing the results with you all.
+- [24] **Minato**: I'll go look for those clues now! I hope the other house has some secrets for staying happy together. I'll see you all soon! Bye-bye!
+## Round 2
+- [35] **Benjamin**: It appears the physical layout of our home is quite capricious. I've discovered that some rooms are naturally warmer, while others are essentially iceboxes, and the energy draw varies by a factor of four. Fascinating, isn't it?
+- [36] **Mio**: Wow, that's a huge difference, @Benjamin! But I found something a bit scary. Our payment logs show we've been really late settling up lately because people keep questioning the amounts. It sounds like a total headache!
+- [37] **Jonathan**: It is indeed concerning, Mio. I also noticed those delays in the logs. It seems there is a lingering uncertainty about the fairness of our current system that we must address to restore peace.
+- [38] **Victoria**: The financial volatility is quite stark. The statements show that our monthly costs fluctuate wildly, with February being more than three times as expensive as August. We cannot ignore these seasonal spikes when planning our budget.
+- [39] **Minato**: I found out that another house spends forty minutes just reading meters and doing math by hand! It seems like a lot of work. I also saw the late payments Mio mentioned... it makes me a little sad.
+- [40] **Benjamin**: @Minato, forty minutes of manual arithmetic sounds like a delightful form of torture. We should certainly avoid that. However, the real tragedy is that we are paying for a "shared" experience while some of us are shivering in the dark.
+- [41] **Mio**: @Benjamin, you're so dramatic! But @Minato, forty minutes is way too long! I checked that template, and it was a nightmare—keying in every single invoice one by one? We can't let the monthly settling become a huge chore!
+- [42] **Jonathan**: @Mio, I agree. A tedious process only adds to the tension. If we combine that with the uncertainty I found regarding how newcomers were integrated, it is clear why some feel unsettled. We need a system that is both simple and transparent.
+- [43] **Victoria**: @Jonathan, transparency is key, but we must also consider the cost of implementation. I found that installing sub-meters would cost 34,000 yen per room, plus annual maintenance. That is a significant upfront investment for us to consider.
+- [44] **Minato**: @Victoria, that's a lot of money... I wonder if spending that much would make us feel better or just more stressed. I'm worried that the late payments mean people are actually upset with each other.
+- [45] **Benjamin**: @Victoria, spending a fortune to prove who is using the most energy seems a bit excessive. However, the fact remains that some of us are essentially subsidizing the warmth of others. It is a cold reality, quite literally.
+- [46] **Mio**: @Benjamin, you're always thinking about the cold! But we have to think about the time too! If the system is too complicated, whoever does the math will be totally exhausted. We need something that doesn't swallow up our whole evening!
+- [47] **Jonathan**: @Benjamin, while the physical differences are real, I worry more about the social cost. If we let rumors of "carrying" one another persist without a clear, agreed-upon rule, the coldness in our hearts will be worse than any drafty room.
+- [48] **Victoria**: @Jonathan, I agree that social harmony is vital. However, we must be realistic. With costs swinging from 9,000 to nearly 30,000 yen, a simple rule might not be enough to prevent resentment during the winter peaks. We need a sustainable financial plan.
+- [49] **Minato**: @Jonathan, I think you're right. When people ask why the amount changed, it feels like they're arguing. I don't want us to be grumpy with each other just because of the bills. Can we find a way to be honest and kind?
+- [50] **Benjamin**: Honesty and kindness are lovely ideals, Minato, but they rarely survive a February utility bill. If we don't acknowledge that some rooms are naturally more expensive to heat, we are merely polishing the surface of a very deep crack.
+- [51] **Mio**: @Benjamin, you're so serious! But we can't just focus on the rooms. If we pick a system that's a total pain to manage, we'll all be grumpy anyway! Let's find a way that's fair AND super easy to do!
+- [52] **Jonathan**: I believe we can find that balance. If we establish a clear, objective method for division, the need for constant questioning will vanish, and we can return to a state of quiet harmony in our home.
+- [53] **Victoria**: I agree. However, we must be careful not to choose a "simple" method that ignores the reality of our seasonal spikes. A system that feels fair in August may become an unbearable burden in February.
+- [54] **Minato**: I hope we can find a way that doesn't make anyone feel bad. If we just look at the numbers, we might forget to be nice to each other. Let's pick something that makes us all smile!
+## Round 3
+- [60] **Benjamin**: Option A is a charming exercise in denial. It assumes we all inhabit identical environments, which we know is a fiction. I suspect some of us would be paying for the luxury of others' warmth.
+- [61] **Mio**: Option A is super simple, but @Benjamin is right—it might not feel fair if some rooms are way colder! But look at Option C! Fitting meters sounds like a total nightmare to set up and manage!
+- [62] **Jonathan**: Option C would certainly provide the objective truth we seek, but the cost and installation process seem quite disruptive. I worry that such a clinical approach might replace our current tension with a different kind of stress.
+- [63] **Victoria**: Option C is financially impractical. As I mentioned, the installation cost is 34,000 yen per room plus annual fees. We cannot justify such a high upfront expense when we are already struggling with budget volatility.
+- [64] **Minato**: Option C sounds like it would be a lot of work and very expensive. I'm worried that if we spend so much money and time on meters, we'll just find more things to be grumpy about.
+- [65] **Benjamin**: @Victoria, @Minato, I agree that Option C is a fiscal absurdity. However, Option A is a social absurdity. It rewards the lucky and punishes the shivering. I would rather we be honest about our disparities than pretend they don't exist.
+- [66] **Mio**: @Benjamin, you're so focused on the shivering! But think about the work! Option A is the easiest to run, but Option B sounds like a great middle ground. It's predictable and doesn't require a huge monthly math project!
+- [67] **Jonathan**: @Mio, I agree that predictability brings peace. Option B could soothe the anxiety of those seasonal spikes Victoria mentioned, while avoiding the clinical coldness of individual meters. It allows us to plan our lives with a quiet mind.
+- [68] **Victoria**: @Jonathan, I agree. Option B addresses the volatility I found in the statements. By smoothing out the costs, we avoid the shock of those February peaks that can feel like a second rent. It is a rational compromise.
+- [69] **Minato**: @Mio, @Jonathan, @Victoria, I like Option B too! If the amount is the same every month, we won't have to ask "why did it change?" and we can just be happy and friendly again!
+- [70] **Benjamin**: Option B is certainly a more elegant way to handle the budget, but it is merely a financial veil. It hides the disparity of the rooms rather than solving it. Who, I wonder, will be the one shivering in February?
+- [71] **Mio**: @Benjamin, you're still on about the shivering! But if we keep arguing about every single degree, we'll never stop fighting! Option B is way better because it's predictable and won't take forever to calculate every month!
+- [72] **Jonathan**: @Benjamin, while the physical differences are real, the mental burden of constant dispute is far heavier. If we accept a predictable system, we can stop the cycle of suspicion and return to a home of quiet kindness.
+- [73] **Victoria**: @Benjamin, we must distinguish between physical comfort and financial stability. While room differences exist, Option B prevents the budget from becoming a source of crisis. It is the only responsible way to manage our shared expenses without excessive cost.
+- [74] **Minato**: @Benjamin, I understand you're worried about the cold, but I'm more worried about us being mean to each other. If we stop arguing about the numbers, maybe we can just be a happy family again! I vote for Option B!
+- [75] **Benjamin**: It seems I am the lone voice of the shivering. While Option B is a triumph of accounting, it is a failure of empathy for the drafty room. However, I shall not be the one to break our newfound harmony. I vote for Option B.
+- [76] **Mio**: I'm so glad we all agree! Option B is the perfect way to keep things simple and stop the monthly math headaches. No more stress, just happiness! I vote for Option B!
+- [77] **Jonathan**: It is a relief to see us in such harmony. By choosing predictability over precision, we protect our peace of mind and our relationships. I vote for Option B.
+- [78] **Victoria**: Option B is the most rational choice. It provides the financial stability I seek by mitigating seasonal spikes and avoids the prohibitive costs of Option C. I vote for Option B.
+- [79] **Minato**: I'm so happy we all agree! Let's stop the grumpy faces and the late payments and just be kind to each other. I vote for Option B!
+### Vote
+- Benjamin -> B
+- Mio -> B
+- Jonathan -> B
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

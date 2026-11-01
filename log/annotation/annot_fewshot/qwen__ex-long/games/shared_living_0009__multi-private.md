@@ -1,0 +1,73 @@
+# shared_living_0009__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: I need to understand the daily friction. I will examine the state of the car at handover and the hours of use recorded in the diary.
+- [6] **May**: I’m curious about the hidden time costs. I’ll check the month's trial of recording every run and the spell of checking each other's figures.
+- [7] **Servas**: I value fairness above all. I will examine last year's fuel receipts and the mechanic's remarks at the last service.
+- [8] **Takumi**: I need to know what actually breaks trust. I’ll check what two other car-sharing households said and the spell of checking each other's figures.
+- [9] **Kenji**: I want the real numbers! I’ll check last year's fuel receipts and the hours of use recorded in the diary.
+- [10] **Misaki**: @May, checking figures sounds exhausting. I just need to know if the car is actually ready when I need it.
+- [11] **May**: @Misaki, it’s not just exhaustion, it’s the mystery! I want to see where the hours vanish before we agree to more chaos.
+- [12] **Servas**: @May, mystery often hides simple truths. I seek clarity in the fuel and service records to ensure our shares reflect reality, not just habit.
+- [13] **Takumi**: @Servas, fairness is good, but it’s not enough. I’m checking how other groups survived the falling out. We need to know what actually breaks trust before we fix the car.
+- [14] **Kenji**: @Takumi, I get it! But I need to know who’s actually driving. If we don’t know the real hours, we can’t split the costs fairly!
+- [15] **Misaki**: @Kenji, knowing who drives is useful, but I need to know if the car is actually ready. A clean, fueled car matters more than a spreadsheet.
+- [16] **May**: @Misaki, a clean car is nice, but a clean conscience is better! I’m hunting down where all those arranging hours actually go.
+- [17] **Servas**: @Misaki, readiness is vital, but so is understanding the wear. I seek the truth in the service records to ensure our shares reflect reality, not just habit.
+- [18] **Takumi**: @Misaki, a clean car is just a symptom. I’m checking how other groups survived the falling out. We need to know what actually breaks trust before we fix the car.
+- [19] **Kenji**: @Misaki, a ready car is great, but I need the real driving hours! If we don’t know who’s actually behind the wheel, we can’t split the costs fairly!
+- [20] **Misaki**: I will examine the state of the car at handover and the hours of use recorded in the diary.
+- [21] **May**: I’ll check the month's trial of recording every run and the spell of checking each other's figures. Let’s see where the time actually goes!
+- [22] **Servas**: I will examine last year's fuel receipts and the mechanic's remarks at the last service. Let us see what the car truly tells us.
+- [23] **Takumi**: I’ll check what two other car-sharing households said and the spell of checking each other's figures. We need to know what actually breaks trust before we fix the car.
+- [24] **Kenji**: I’ll check last year's fuel receipts and the hours of use recorded in the diary. I need the real numbers to see who’s actually driving!
+## Round 2
+- [35] **Misaki**: The diary shows Saturdays are triple Tuesdays. But the handover state is worse: fuel light on, rubbish inside. That is the real friction.
+- [36] **May**: @Misaki, an hour a week just to photograph the dial? That’s a full evening gone! And checking figures made everyone feel accused. We need a system that doesn’t turn us into auditors.
+- [37] **Servas**: @May, the receipts reveal a lopsided story: two of us bought over half the fuel, while one barely appears. The mechanic warns short runs destroy brakes. We must account for this wear, not just distance.
+- [38] **Takumi**: @May, you’re right. The checking made us feel accused. The other groups broke because asking for favours felt like a burden. We need a system where nobody has to beg for a ride.
+- [39] **Kenji**: @Servas, that’s huge! Two people bought most of the fuel, but the diary shows Saturdays are triple Tuesdays. We need a fair split based on real driving, not just who paid!
+- [40] **Misaki**: @Servas, short runs destroy brakes, but the fuel light is the immediate problem. I need a car I can drive off in, not a lecture on wear.
+- [41] **May**: @Servas, wear is real, but the real killer is the evening spent arranging it! I need to know if we can stop the audit spiral before it eats us alive.
+- [42] **Servas**: @Misaki, readiness is essential, yet the mechanic’s warning is vital. Short runs wear the car unevenly. We must price that wear, not just the fuel, to ensure true fairness.
+- [43] **Takumi**: @Servas, pricing wear is smart, but it’s just another way to keep score. The other groups broke because asking felt like a burden. We need a system where nobody has to beg.
+- [44] **Kenji**: @Takumi, I hear you! But if we don’t know who drives, we can’t stop the guessing. I need the real hours to make the split fair!
+- [45] **Misaki**: @Kenji, real hours are useful, but a Tuesday morning with the fuel light on is a failure. I need the car ready, not just the math balanced.
+- [46] **May**: @Kenji, real hours are great, but the audit spiral is the real enemy! I need a system where we don’t have to photograph dials just to trust each other.
+- [47] **Servas**: @Kenji, hours are the skeleton, but wear is the flesh. We must value the car’s health, not just the odometer.
+- [48] **Takumi**: @Kenji, hours are just numbers. The other groups broke because asking felt like a burden. We need a system where nobody has to beg for a ride.
+- [49] **Kenji**: @Takumi, I get the worry! But without real hours, we’re just guessing. I need the facts to stop the blame game and make the split fair!
+- [50] **Misaki**: I stand by my findings. The fuel light and rubbish are the daily reality. I need a system that guarantees the car is ready, not just a fair ledger.
+- [51] **May**: I stand by my findings. An hour a week on dials and a year of accusations is unacceptable. We need a system that kills the audit spiral, not just balances the books.
+- [52] **Servas**: I stand by my findings. The receipts show lopsided use, and the mechanic warns of hidden wear. We must price the car’s true health, not just the fuel, to ensure lasting fairness.
+- [53] **Takumi**: I stand by my findings. The other groups broke because asking felt like a burden. We need a system where nobody has to beg for a ride.
+- [54] **Kenji**: I stand by my findings. The receipts and diary prove the split is lopsided. We need a system based on real driving hours, not guesswork, to make it fair!
+## Round 3
+- [60] **Misaki**: @May, Option A guarantees the car is ready on my days. No begging, no surprises. I vote A.
+- [61] **May**: @Misaki, fixed days sound rigid! But Option C’s shared calendar kills the audit spiral. No more dial photos, just clear bookings. I vote C.
+- [62] **Servas**: @May, a calendar is a ledger in disguise. Option A’s fixed days offer the quiet dignity of certainty. I vote A.
+- [63] **Takumi**: @May, a calendar is just a new way to keep score. Option A means I never have to ask. I vote A.
+- [64] **Kenji**: @May, a calendar is just a new way to keep score! Option A’s fixed days mean I know exactly what I owe. No more guessing. I vote A.
+- [65] **Misaki**: @Kenji, fixed days are good, but what if I need it on a Tuesday? I need flexibility without the audit spiral.
+- [66] **May**: @Misaki, flexibility is key! Option C lets us swap slots without the awkward "begging" Takumi hates. It’s fair, not rigid.
+- [67] **Servas**: @Misaki, flexibility is a virtue, but certainty is a foundation. Option A’s fixed days offer the quiet dignity of knowing exactly where one stands. I stand by my vote for A.
+- [68] **Takumi**: @May, swapping slots is just asking in disguise. The other groups broke because of that. Option A means I never have to beg. I stand by A.
+- [69] **Kenji**: @May, I get the flexibility! But Option A’s fixed days mean I know exactly what I owe. No more guessing or blame games. I stand by my vote for A!
+- [70] **Misaki**: @May, I hear you, but a calendar is just a new ledger. I need the car ready on my day, not a booking confirmation. I stand by A.
+- [71] **May**: @Misaki, a calendar isn't a ledger, it's a handshake! No more awkward "can I borrow it?" texts. Just clear, simple bookings. I stand by C!
+- [72] **Servas**: @May, a handshake is lovely, but it still requires asking. Option A’s fixed days offer the quiet dignity of certainty. I stand by my vote for A.
+- [73] **Takumi**: @May, a handshake still means asking. The other groups broke because of that. Option A means I never have to beg. I stand by A.
+- [74] **Kenji**: @May, I hear you! But Option A’s fixed days mean I know exactly what I owe. No more guessing or blame games. I stand by my vote for A!
+- [75] **Misaki**: I stand by my vote for A. Fixed days guarantee the car is ready when I need it. No begging, no surprises, just certainty.
+- [76] **May**: I stand by my vote for C. A shared calendar is a handshake, not an audit. It kills the dial-photographing spiral and keeps us human.
+- [77] **Servas**: I stand by my vote for A. Certainty is the foundation of peace. Fixed days offer the quiet dignity of knowing exactly where one stands, without the burden of constant negotiation.
+- [78] **Takumi**: I stand by my vote for A. Fixed days mean I never have to beg. The other groups broke because asking felt like a burden. I refuse to repeat that mistake.
+- [79] **Kenji**: I stand by my vote for A. Fixed days mean I know exactly what I owe. No more guessing or blame games. Let’s keep it simple and fair!
+### Vote
+- Misaki -> A
+- May -> C
+- Servas -> A
+- Takumi -> A
+- Kenji -> A
+## Result
+- adopted: A

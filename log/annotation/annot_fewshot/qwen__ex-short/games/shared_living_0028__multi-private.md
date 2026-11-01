@@ -1,0 +1,73 @@
+# shared_living_0028__multi-private (shared_living)
+
+## Round 1
+- [5] **Shion**: The room is a mess of noise and crumbs. I need to know exactly what is happening in there.
+- [6] **Daisuke**: I worry about the costs. We keep paying for a room that doesn't work. I need to see the actual invoices.
+- [7] **Rin**: I hate guessing who gets the room! I want to see the tally of who actually uses it, so we can stop the first-come chaos.
+- [8] **Servas**: We work close, yet feel distant. I need to know where difficult conversations happen, so we can build a space for honest talk.
+- [9] **Toshio**: I need to trace where the hidden hours go. Every setup here eats someone's time. I want to see the actual upkeep costs.
+- [10] **Shion**: @Daisuke, invoices are just numbers. I care about the physical reality. @Rin, your tally might explain the noise.
+- [11] **Daisuke**: @Shion, I understand the physical side, but I need to know if we are wasting money. @Toshio, do the invoices match the hours you mentioned?
+- [12] **Rin**: @Daisuke, money is important, but fairness is better! @Shion, if I see who uses it most, maybe we can make a fair schedule for everyone.
+- [13] **Servas**: @Rin, fairness is vital, but connection is deeper. @Shion, perhaps the noise stems from our silence. Let us listen to the room's true needs.
+- [14] **Toshio**: @Daisuke, invoices show money, not time. @Rin, the tally reveals who absorbs the hidden labor. I need both to see the true cost.
+- [15] **Shion**: @Servas, connection is abstract. I need concrete data. @Toshio, if the upkeep is high, we must justify the space.
+- [16] **Daisuke**: @Toshio, I agree. The hidden labor is real. @Rin, if the tally shows uneven use, maybe we should stop paying for the whole room.
+- [17] **Rin**: @Daisuke, I don't want to lose the room! @Toshio, if the tally shows who cleans, we can fix the unfairness.
+- [18] **Servas**: @Rin, do not fear losing the room. @Toshio, the tally shows who carries the burden. Let us ensure the space serves our shared humanity, not just our schedules.
+- [19] **Toshio**: @Servas, shared humanity is nice, but I need to see the hours. @Rin, if the tally shows who cleans, I can calculate the true labor cost.
+- [20] **Shion**: @Toshio, labor is just another form of waste. I will check the crumbs and the bins. @Daisuke, I will also look at the partition wall to the office.
+- [21] **Daisuke**: @Toshio, I will check the invoices for outside hire. @Shion, I will also look at the quotes for the two fit-outs to see the real costs.
+- [22] **Rin**: @Toshio, I will check the fortnight's tally of use by person. @Shion, I will also look at the crumbs and bins at the desks to see the mess!
+- [23] **Servas**: @Toshio, I will check where the last awkward conversation happened. @Shion, I will also look at the partition wall to the office.
+- [24] **Toshio**: @Daisuke, I will check the facilities callouts on this floor. @Rin, I will also look at the final clear-out of the old fridge to see the labor.
+## Round 2
+- [35] **Shion**: The partition is a single sheet of plasterboard. I can hear every word spoken inside. That is unacceptable.
+- [36] **Daisuke**: @Toshio, the fit-out quotes are 141,000 and 96,000 yen. That is a lot of money for a room we barely use.
+- [37] **Rin**: @Shion, one sheet of plasterboard? That explains the noise! @Toshio, the tally shows two people hog the room eleven times, while we only get four!
+- [38] **Servas**: @Shion, the thin wall reveals our lack of privacy. @Rin, the tally shows imbalance, but the silence after that awkward talk shows our deeper wound.
+- [39] **Toshio**: @Daisuke, those quotes are high, but the callouts tell a different story. Eleven repairs for equipment, zero for the empty room. @Rin, the fridge clear-out shows one person did the labor twice.
+- [40] **Shion**: @Rin, the tally proves the room is a dumping ground. @Daisuke, 141,000 yen is absurd for a space that leaks sound and crumbs.
+- [41] **Daisuke**: @Shion, I hear you, but the 96,000 yen for the kitchen is also steep. @Toshio, if the room is empty, why are we paying for repairs?
+- [42] **Rin**: @Toshio, one person doing the labor twice is so unfair! @Daisuke, if the kitchen is cheaper, maybe we can just eat there and stop the mess?
+- [43] **Servas**: @Toshio, the labor imbalance is a symptom of our isolation. @Rin, a kitchen is for eating, not for healing the silence between us.
+- [44] **Toshio**: @Daisuke, the repairs are for the equipment, not the empty space. @Rin, the fridge labor was unpaid. I need to see if the callouts hide more hidden hours.
+- [45] **Shion**: @Servas, isolation is a choice, not a fact. @Toshio, if the repairs are for equipment, why is the room still a mess?
+- [46] **Daisuke**: @Toshio, I see. But the invoices show we paid 68,000 yen for outside hire. That is money we could have saved if we just used the room properly.
+- [47] **Rin**: @Daisuke, sixty-eight thousand yen? That is huge! @Toshio, if we stop eating at desks, the bins stop overflowing, right?
+- [48] **Servas**: @Rin, stopping the mess is a start, but it does not heal the silence. @Daisuke, that money was spent because we lacked a proper place to be together.
+- [49] **Toshio**: @Rin, stopping desk eating saves bins, not hours. @Daisuke, the 68,000 yen is for labor we should have done ourselves. I need to see the round trip costs.
+- [50] **Shion**: @Toshio, the plasterboard is the real problem. Sound leaks, so privacy is impossible. @Daisuke, the 96,000 yen quote is for a kitchen, not a soundproof wall.
+- [51] **Daisuke**: @Shion, the kitchen quote does not include soundproofing. @Toshio, if we stop the outside hire, we save 68,000 yen. That is a significant amount.
+- [52] **Rin**: @Toshio, I found crumbs under three keyboards! @Daisuke, if we eat in the room, the bins stay full, but at least it is fair!
+- [53] **Servas**: @Rin, crumbs are a symptom, not the cure. @Shion, the thin wall forces us to whisper, which breeds distance. We need a space where honesty can breathe.
+- [54] **Toshio**: @Daisuke, saving 68,000 yen is good, but it ignores the unpaid labor. @Rin, crumbs are a symptom of the missing kitchen. I need to see the round trip costs.
+## Round 3
+- [60] **Shion**: @Servas, your "honesty" is just noise. Option C is the only logical choice. Silence is the only thing that respects the plasterboard.
+- [61] **Daisuke**: @Shion, I understand the need for quiet, but I worry about the cost. Option B is 141,000 yen. Can we justify that?
+- [62] **Rin**: @Daisuke, I hate paying for a room I can’t use! @Shion, but if it’s quiet, who cleans the crumbs? I want a fair kitchen!
+- [63] **Servas**: @Shion, silence is not the answer to our distance. @Daisuke, the cost is less than the price of our isolation. Option B offers a place to speak.
+- [64] **Toshio**: @Daisuke, the 141,000 yen is for the screen, not the labor. @Rin, Option A shifts the cleaning burden to users. I need to see who absorbs that time.
+- [65] **Shion**: @Rin, crumbs are a hygiene issue, not a reason for a kitchen. @Toshio, Option C eliminates the need for cleaning entirely. It is the only efficient solution.
+- [66] **Daisuke**: @Toshio, I see the labor point. @Rin, Option A is only 96,000 yen, which is cheaper than B. But who maintains the appliances?
+- [67] **Rin**: @Daisuke, ninety-six thousand is better! @Toshio, if we all take turns cleaning, it is fair! I want to eat with everyone, not hide in a quiet room!
+- [68] **Servas**: @Rin, eating together is a start, but a table for work is where we truly meet. @Daisuke, the 141,000 yen buys us a place to be honest, not just efficient.
+- [69] **Toshio**: @Rin, turns are not a system. @Daisuke, the 96,000 yen quote excludes the unpaid maintenance hours. I need to know who absorbs that labor before we decide.
+- [70] **Shion**: @Toshio, labor is a variable, not a blocker. @Daisuke, the 96,000 yen is a sunk cost if we choose C. Silence is free.
+- [71] **Daisuke**: @Shion, silence is free, but we are already paying 68,000 yen for outside hire. Option C saves that, but does it solve the mess?
+- [72] **Rin**: @Daisuke, if we save the money, we can buy better snacks! @Shion, a quiet room is boring. I want to talk and eat!
+- [73] **Servas**: @Daisuke, saving money is wise, but silence deepens our rift. @Shion, a quiet room isolates us further. We need a place to speak, not hide.
+- [74] **Toshio**: @Daisuke, saving the hire fee is real, but it ignores the unpaid labor. @Shion, silence does not eliminate the need for someone to clear the bins.
+- [75] **Shion**: @Toshio, you are overthinking. Option C is the only one that respects the plasterboard. I am voting for C.
+- [76] **Daisuke**: @Toshio, the labor point is valid. @Rin, Option A is cheaper, but I worry about the maintenance. I am voting for A.
+- [77] **Rin**: @Daisuke, I agree! Option A is the best! I want to eat with everyone and share the cleaning fairly. I am voting for A!
+- [78] **Servas**: @Shion, silence is a wall, not a bridge. @Daisuke, the cost is justified by the connection it builds. I am voting for B.
+- [79] **Toshio**: @Daisuke, the labor point is valid. @Rin, Option A is cheaper, but I worry about the maintenance. I am voting for A.
+### Vote
+- Shion -> C
+- Daisuke -> A
+- Rin -> A
+- Servas -> B
+- Toshio -> A
+## Result
+- adopted: A

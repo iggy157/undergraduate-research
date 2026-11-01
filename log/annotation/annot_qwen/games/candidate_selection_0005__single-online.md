@@ -1,0 +1,73 @@
+# candidate_selection_0005__single-online (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: Let’s start by checking the winter road closures north of the river and the bus links in the two outer wards.
+- [6] **Benjamin**: I’d like to review the two programmes begun six years ago and the attendance sheets from former outreach stops.
+- [7] **Shion**: I’ll examine the volunteer register and supervision training, plus the neighbourhood associations and tool certification.
+- [8] **Minako**: I’ll look into the county grant terms and the endowment, and the running and equipment lines last year.
+- [9] **Daisuke**: I’ll check the evening room bookings and remote catalogue use, and the quoted delivery windows from suppliers.
+- [10] **Yumi**: @Benjamin, do you think those old records will actually tell us if the new ideas will hold up?
+- [11] **Benjamin**: @Yumi, they tell us what failed and why. Ignoring that history is how we repeat the same mistakes.
+- [12] **Shion**: @Benjamin, history is just data. I care more about whether the current staff can actually handle the workload.
+- [13] **Minako**: @Shion, workload is only half the picture. I’m checking how the funding is structured to see if it survives past the first year.
+- [14] **Daisuke**: @Minako, I’m worried about the physical reach. If the roads close or buses stop, no amount of good funding helps people who can’t get there.
+- [15] **Yumi**: @Daisuke, exactly. If the roads shut down, the service van is just a metal box. I need to know if we can actually reach those outer wards.
+- [16] **Benjamin**: @Yumi, reachability is vital, but I’m checking if the model itself is sound. We can’t fix a broken concept with better roads.
+- [17] **Shion**: @Benjamin, a sound model is useless if the people running it are stretched thin. I’m verifying if the skills actually exist on the roster.
+- [18] **Minako**: @Shion, skills matter, but if the money vanishes after year one, no amount of training keeps the lights on.
+- [19] **Daisuke**: @Minako, I hear you on the money, but I’m checking if the timing even works. If people can’t reach us, the budget is just a number.
+- [20] **Yumi**: @Benjamin, I hope those old records show us how to build something that doesn’t collapse when the weather turns against us.
+- [21] **Benjamin**: @Yumi, I hope they show us which models survived the winter, so we don’t waste time on ones that didn’t.
+- [22] **Shion**: @Yumi, I hope they show us which models survived the winter, so we don’t waste time on ones that didn’t.
+- [23] **Minako**: @Yumi, I hope they show us which models survived the winter, so we don’t waste time on ones that didn’t.
+- [24] **Daisuke**: @Yumi, I hope they show us which models survived the winter, so we don’t waste time on ones that didn’t.
+## Round 2
+- [35] **Yumi**: #### Turn 1 of 4
+- [36] **Benjamin**: - **Yumi**: The roads shut for eleven days, but the halls kept their evening timetables. That’s the resilience I need.
+- [37] **Shion**: - **Shion**: Interesting. So the community can self-organize when the infrastructure fails. That shifts the burden away from us.
+- [38] **Minako**: - **Minako**: The grant covers fees for twelve months, then the flat budget takes over. That cliff is where most projects die.
+- [39] **Daisuke**: - **Daisuke**: The scanning quotes slip whenever a bigger client books first. That’s a risk I can’t control.
+- [40] **Yumi**: - **Yumi**: @Benjamin, did the old outreach stops actually draw crowds, or did they just vanish like the funding?
+- [41] **Benjamin**: @Yumi, they averaged forty visitors a session, beating the main building midweek. The demand was real, even if the funding wasn’t.
+- [42] **Shion**: - **Shion**: @Benjamin, forty visitors is promising, but I’m checking if we have the trained staff to actually deliver that service.
+- [43] **Minako**: - **Minako**: @Shion, staffing is a concern, but the ledger shows our vehicle line overran by a third. That’s a structural leak, not just a people problem.
+- [44] **Daisuke**: @Minako, that overrun is worrying, but my main worry is the delivery windows. If the equipment slips, the whole schedule collapses.
+- [45] **Yumi**: - **Yumi**: @Daisuke, if the equipment slips, the whole schedule collapses.
+- [46] **Benjamin**: @Yumi, the delivery risk is real, but the attendance data proves the demand exists. We just need a model that doesn't rely on fragile supply chains.
+- [47] **Shion**: @Benjamin, demand is irrelevant if the roster lacks the specific skills to deliver it. I’m checking if we can actually staff this.
+- [48] **Minako**: @Shion, skills are vital, but the ledger shows the vehicle line overran by a third. That’s a structural leak, not just a people problem.
+- [49] **Daisuke**: @Minako, I hear you on the leak, but I’m checking if the timing even works. If people can’t reach us, the budget is just a number.
+- [50] **Yumi**: @Benjamin, so the demand was real. I just need a delivery method that doesn’t break when the roads close or the suppliers delay.
+- [51] **Benjamin**: @Yumi, precisely. The records show which models survived the winter, so we don’t waste time on ones that didn’t.
+- [52] **Shion**: @Benjamin, survival is nice, but I need to know if the skills are actually on the roster. I’m checking the volunteer register now.
+- [53] **Minako**: @Shion, skills are vital, but the ledger shows the vehicle line overran by a third. That’s a structural leak, not just a people problem.
+- [54] **Daisuke**: @Minako, I hear you on the leak, but I’m checking if the timing even works. If people can’t reach us, the budget is just a number.
+## Round 3
+- [60] **Yumi**: - **Yumi**: So, which of these four candidates actually fits what we’ve found?
+- [61] **Benjamin**: - **Benjamin**: @Yumi, the records suggest we avoid repeating the unindexed digitisation failure. I’m leaning toward the mobile service, given the attendance data.
+- [62] **Shion**: @Benjamin, the mobile service requires staff to drive and manage a vehicle. My checks show no one on the payroll is trained to supervise outside facilitators or handle that specific logistics burden.
+- [63] **Minako**: @Shion, the vehicle line already overran by a third. Adding a mobile branch without fixing that structural leak is financial suicide.
+- [64] **Daisuke**: @Minako, the vehicle overrun is real, but the bus links are gone. If we don’t go to them, they can’t reach us.
+- [65] **Yumi**: - **Yumi**: @Daisuke, you’re right. The halls proved people will come if we meet them halfway. I’m leaning toward the mobile service too.
+- [66] **Benjamin**: @Yumi, the mobile service addresses the reach gap, but the vehicle costs are a known liability. I’m hesitant to bet on it without a cost fix.
+- [67] **Shion**: @Benjamin, the vehicle cost is a leak, but the skill gap is a wall. We lack the certified supervisors to run it safely.
+- [68] **Minako**: @Shion, the skill gap is real, but the funding cliff is the killer. The grant ends, the flat budget absorbs it, and we’re stuck.
+- [69] **Daisuke**: @Minako, the funding cliff is real, but the bus links are gone. If we don’t go to them, they can’t reach us.
+- [70] **Yumi**: - **Yumi**: @Minako, the funding cliff is scary, but the attendance sheets prove the demand is real. We can’t ignore the people stuck without bus links.
+- [71] **Benjamin**: @Yumi, the demand is real, but the vehicle overrun is a structural leak. We can’t fix a broken budget with good intentions.
+- [72] **Shion**: @Benjamin, the budget is a constraint, not a wall. I’m checking if the neighbourhood associations can fill the skill gap we lack.
+- [73] **Minako**: @Shion, the associations help, but the grant ends after twelve months. The flat budget then carries the cost, and that’s where the money disappears.
+- [74] **Daisuke**: @Minako, I understand the budget risk, but the bus links are gone. If we don’t go to them, they can’t reach us.
+- [75] **Yumi**: - **Yumi**: @Daisuke, I agree. The mobile service is the only option that actually reaches the people we’re losing. I’m voting for it.
+- [76] **Benjamin**: @Yumi, I’m voting for the Mobile Branch Service. The attendance data is undeniable, and the reach gap is critical.
+- [77] **Shion**: @Benjamin, I’m voting for the Mobile Branch Service. The associations can cover the skill gap, and the reach is undeniable.
+- [78] **Minako**: @Benjamin, I’m voting for the Mobile Branch Service. The reach is critical, and the funding structure, while risky, is manageable if we monitor the vehicle line closely.
+- [79] **Daisuke**: @Minako, I’m voting for the Mobile Branch Service. The bus links are gone, and this is the only way to reach them.
+### Vote
+- Yumi -> D
+- Benjamin -> D
+- Shion -> D
+- Minako -> D
+- Daisuke -> D
+## Result
+- adopted: D

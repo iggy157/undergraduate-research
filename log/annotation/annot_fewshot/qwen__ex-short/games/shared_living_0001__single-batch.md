@@ -1,0 +1,73 @@
+# shared_living_0001__single-batch (shared_living)
+
+## Round 1
+- [5] **Mio**: I need to know how the flat fee actually breaks down for everyone.
+- [6] **Shizue**: I worry the year-groups are drifting apart. Where we go matters.
+- [7] **Ryuji**: Last year's organizers were exhausted. I need to see the workload.
+- [8] **Rin**: Half the group slept badly. I need to know about the nights.
+- [9] **Misaki**: The account is still in the red. I need to see the real costs.
+- [10] **Mio**: @Misaki, if the fee is flat, who pays for the extras?
+- [11] **Shizue**: @Ryuji, if the workload is too high, who takes over?
+- [12] **Ryuji**: @Shizue, I am looking for a way to reduce the duty burden.
+- [13] **Rin**: @Mio, I am more worried about the sleep quality than the money.
+- [14] **Misaki**: @Rin, sleep is important, but we cannot afford to overspend.
+- [15] **Mio**: I will check the transport receipts to see where the money goes.
+- [16] **Shizue**: I will look at what the seniors say about mixing year-groups.
+- [17] **Ryuji**: I will check the canteen closure and last year's cooking duty.
+- [18] **Rin**: I will look at the accounts from clubs that went inland.
+- [19] **Misaki**: I will check the prefecture rate sheet for publicly run beds.
+- [20] **Mio**: I will also check the quoting terms for whole-building lets.
+- [21] **Shizue**: I will also check the attendance sheets for the away camps.
+- [22] **Ryuji**: I will also check the vacation timetable for the club's own hall.
+- [23] **Rin**: I will also check the membership list against first-train times.
+- [24] **Misaki**: I will also check the group transport in three years of receipts.
+## Round 2
+- [35] **Mio**: Transport is 38% of the cost if we go far. That is huge.
+- [36] **Shizue**: The seniors say mixing only happens when we sleep together.
+- [37] **Ryuji**: The canteen closes, so we cooked for two hours a day last year.
+- [38] **Rin**: Inland clubs slept eight to a room. Lights out at eleven.
+- [39] **Misaki**: Public beds are 1,100 yen a night. That is cheaper than I thought.
+- [40] **Mio**: @Misaki, if public beds are cheap, why did we overspend last year?
+- [41] **Shizue**: @Rin, eight to a room sounds terrible. Did they train well?
+- [42] **Ryuji**: @Mio, the cooking duty was the biggest time sink. We need staff.
+- [43] **Rin**: @Shizue, I don't care about the room size if I can sleep properly.
+- [44] **Misaki**: @Ryuji, if we use a place with kitchen staff, we save time.
+- [45] **Mio**: Whole-building lets have non-refundable deposits. That is risky for dropouts.
+- [46] **Shizue**: A fifth of the membership never came to the last away camp.
+- [47] **Ryuji**: The campus hall is booked by three other clubs. We can't get a block.
+- [48] **Rin**: A third of the club can't be here by nine without a bed.
+- [49] **Misaki**: The transport receipts confirm the distance is the main cost driver.
+- [50] **Mio**: I am worried about the financial risk of the coastal lodge.
+- [51] **Shizue**: If we stay local, we lose the chance to mix with other years.
+- [52] **Ryuji**: The campus option is too fragmented. We need a dedicated space.
+- [53] **Rin**: The inland option has strict rules, but it is a real training centre.
+- [54] **Misaki**: The public rate sheet is the most predictable budget-wise.
+## Round 3
+- [60] **Mio**: Option A is cheap but fragmented. Option B is public and structured.
+- [61] **Shizue**: Option B forces us to sleep together. That is what the seniors want.
+- [62] **Ryuji**: Option B has staff. No cooking duty. That solves my main worry.
+- [63] **Rin**: Option B has strict lights out. I might actually sleep well.
+- [64] **Misaki**: Option B uses the public rate sheet. The budget is clear and low.
+- [65] **Mio**: @Misaki, is the public rate sheet enough to cover the whole trip?
+- [66] **Shizue**: @Rin, do you think the strict rules will help or hurt your sleep?
+- [67] **Ryuji**: @Mio, the transport cost is high, but the bed cost is low.
+- [68] **Rin**: @Shizue, I think the structure will help. I need a routine.
+- [69] **Misaki**: @Ryuji, yes, the total is lower than last year's actuals.
+- [70] **Mio**: Option C is too risky with the non-refundable deposit.
+- [71] **Shizue**: Option A doesn't solve the year-group isolation.
+- [72] **Ryuji**: Option A is too chaotic with the hall bookings.
+- [73] **Rin**: Option C is new and unknown. I prefer the known structure of B.
+- [74] **Misaki**: Option B is the only one with a fixed, low per-head cost.
+- [75] **Mio**: I am leaning towards B. The cost is predictable.
+- [76] **Shizue**: I vote for B. It brings us together.
+- [77] **Ryuji**: I vote for B. No cooking duty is a huge relief.
+- [78] **Rin**: I vote for B. I want to sleep well and train hard.
+- [79] **Misaki**: I vote for B. The budget is sound.
+### Vote
+- Mio -> B
+- Shizue -> B
+- Ryuji -> B
+- Rin -> B
+- Misaki -> B
+## Result
+- adopted: B

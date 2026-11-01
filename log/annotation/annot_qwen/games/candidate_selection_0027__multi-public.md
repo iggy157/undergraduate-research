@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: I want to understand the staffing reality before we pick a plan. Who else is looking at the roster books?
+- [6] **Takumi**: I'm checking the two pilots from eight years ago. We keep repeating mistakes without reading the closure reports.
+- [7] **Toshio**: I am reviewing the joint operators' committee minutes. I need to see who else must approve these schemes before we commit to any dates.
+- [8] **Daisuke**: I’m looking at the capital ledger balances. I need to see what we actually have left after the recent cuts.
+- [9] **Sakura**: I'm checking the journey audits! I want to see where the minutes actually go, not just where the crowds are.
+- [10] **Victoria**: I’m also pulling the crew establishment and maintenance contract. I need to know if the spare capacity is real or just paper.
+- [11] **Takumi**: I’m also checking the completion records of the earlier accessibility programme. I want to see what actually stuck versus what got reverted.
+- [12] **Toshio**: I am also reviewing the contingency pricing inside the pre-war shells. I need to know what the ground might hide before we trust any delivery date.
+- [13] **Daisuke**: I’m also looking at the ticketing contractor fees. I need to see if those costs are eating up the money we think we have.
+- [14] **Sakura**: I'm also checking the timed runs and crowd counts! I want to see if the stopwatch story matches the complaints.
+- [15] **Victoria**: I’m satisfied with my choices. The roster books and crew establishment will tell me if we can actually staff whatever we decide.
+- [16] **Takumi**: I’m done. The pilots and accessibility records will show if we’re just repeating old failures.
+- [17] **Toshio**: I am done. The committee minutes and contingency pricing will reveal the hidden approvals and ground risks before we trust any schedule.
+- [18] **Daisuke**: I’m done. The ledger and ticketing fees will show if the headline numbers are real or just a trap for later.
+- [19] **Sakura**: I’m done! The journey audits and timed runs will show if we’re fixing the right part of the trip.
+- [20] **Victoria**: I’ll wait for your findings. Let’s see if the numbers match the promises before we commit to anything.
+- [21] **Takumi**: I’ll wait too. Let’s see if the old reports actually warn us before we repeat the same mistakes.
+- [22] **Toshio**: I will wait. The minutes and the ground will tell us what the drawings hide.
+- [23] **Daisuke**: I’ll wait too. I just need to know if the money is actually there, or if we’re just promising what we can’t pay for later.
+- [24] **Sakura**: I’ll wait too! Let’s see if the stopwatch matches the complaints, or if we’re just chasing the loudest noise.
+## Round 2
+- [35] **Victoria**: The late-turn pool is empty. Overtime covers everything. Roadway crews are a third below establishment. We cannot staff a night extension.
+- [36] **Takumi**: The late-evening pilot actually hit its cost target. But the accessibility records show lane priorities got reverted. We can’t trust the bus corridor to stick.
+- [37] **Toshio**: The minutes show ferry and rail data terms were never agreed. Roadway consents are delegated to us. The pre-war shells hide voids that stop work for weeks.
+- [38] **Daisuke**: The ledger shows a ring-fenced grant, but operating funds are cut. Ticketing fees now exceed paving budgets. The headline numbers are misleading.
+- [39] **Sakura**: The audits say we lose time waiting for connections, not paying! But mid-city runs are a third slower. We’re fixing the wrong spots!
+- [40] **Victoria**: @Takumi, the pilot succeeded, but my rosters show no spare hands. We cannot run it without burning out the remaining crews.
+- [41] **Takumi**: @Victoria, the pilot proved the demand exists. But the accessibility records show lane priorities failed. We need a plan that doesn't rely on fragile infrastructure.
+- [42] **Toshio**: @Victoria, the data terms are dead, but roadway consents are ours. @Takumi, the shells hide voids. We cannot trust any date involving pre-war structures.
+- [43] **Daisuke**: @Victoria, the ticketing fees are eating our budget. @Toshio, the paving rates are climbing. We can't afford the infrastructure costs if the money is already gone.
+- [44] **Sakura**: @Sakura, the stopwatch proves it! We’re stuck waiting for connections, not paying. Let’s fix the real bottleneck, not the loud complaints!
+- [45] **Victoria**: @Sakura, your audits point to connections, but my rosters show the crews are already stretched thin. We cannot promise new services without the people to run them.
+- [46] **Takumi**: @Sakura, the audits prove connections are the bottleneck. @Victoria, the pilot worked, but we lack the crews. We need a plan that doesn't break the system.
+- [47] **Toshio**: @Sakura, the connection delays are real, but the pre-war shells are a trap. I will not sign off on dates that ignore the voids.
+- [48] **Daisuke**: @Sakura, the connection delays are real, but the ticketing fees are already eating our budget. We can't afford to fix what we can't pay for.
+- [49] **Sakura**: @Victoria, I hear you! But if we fix the connections, maybe we need fewer extra runs? Let’s stop guessing and look at the actual candidates!
+- [50] **Victoria**: I agree. The candidates will show if any plan fits our empty rosters. Let’s see what we are actually choosing.
+- [51] **Takumi**: I agree. The old reports warned us about fragile infrastructure. Let’s see which candidate avoids those traps and respects our limits.
+- [52] **Toshio**: I will wait. The candidates must respect the delegated consents and avoid the pre-war voids. Let us see what remains.
+- [53] **Daisuke**: I’m waiting too. I just need to see if any of these options actually fit the money we have left, without creating more debt later.
+- [54] **Sakura**: I’m ready! Let’s see which plan actually fixes the waiting time without breaking the bank or the crews!
+## Round 3
+- [60] **Victoria**: Option B is impossible. My rosters are empty. We cannot extend hours without burning out the few crews left.
+- [61] **Takumi**: @Victoria, I agree. B is a trap. But A failed before; lanes got reverted. C is safer, but the pre-war shells hide voids.
+- [62] **Toshio**: @Takumi, the voids make C a schedule risk. @Victoria, B is impossible. A uses delegated consents. D ignores the data deadlock.
+- [63] **Daisuke**: @Toshio, I agree. B is impossible. D is a trap; the fees are already eating our budget. A is the only one that doesn't break the money.
+- [64] **Sakura**: @Daisuke, wait! The audits say we lose time waiting, not paying! D fixes the connections, not the ticket machines!
+- [65] **Victoria**: @Sakura, D ignores the data deadlock. @Toshio, C risks the voids. A is the only option that respects our empty rosters and delegated consents.
+- [66] **Takumi**: @Sakura, D is a trap. The ferry data terms were never agreed. @Victoria, A is risky, but C is a void trap. We must pick the least broken path.
+- [67] **Toshio**: @Sakura, D is dead. The data terms were never agreed. @Victoria, A is the only path that respects the delegated consents and avoids the pre-war voids.
+- [68] **Daisuke**: @Sakura, I hear you, but D costs too much. @Victoria, A is the only one that fits our empty budget and rosters.
+- [69] **Sakura**: @Victoria, I hear you! But A is the only one that actually speeds up the mid-city runs! Let’s pick A!
+- [70] **Victoria**: @Sakura, I agree. A is the only plan that fits our empty rosters and delegated consents. Let’s vote for A.
+- [71] **Takumi**: @Sakura, I agree. A is the least broken path. The old failures were about maintenance, not the route itself. Let’s vote for A.
+- [72] **Toshio**: @Sakura, I agree. A uses delegated consents and avoids the pre-war voids. It is the only path that respects the hidden risks. I vote for A.
+- [73] **Daisuke**: I’m hesitant. A is the only one that doesn’t trap us in debt or impossible staffing. I’ll vote for A.
+- [74] **Sakura**: I vote for A! It fixes the mid-city slowdown and respects our limits. Let’s actually move forward!
+- [75] **Victoria**: A is the only choice that respects our exhausted crews and the money we actually have. I vote for A.
+- [76] **Takumi**: I vote for A. The old failures were about maintenance, not the route itself. This is the least broken path we have.
+- [77] **Toshio**: I vote for A. It respects the delegated consents and avoids the pre-war voids. It is the only path that remains viable.
+- [78] **Daisuke**: I vote for A. It is the only option that does not trap us in debt or impossible staffing.
+- [79] **Sakura**: I vote for A! It finally fixes the real bottleneck and respects our limits. Let's move forward!
+### Vote
+- Victoria -> A
+- Takumi -> A
+- Toshio -> A
+- Daisuke -> A
+- Sakura -> A
+## Result
+- adopted: A

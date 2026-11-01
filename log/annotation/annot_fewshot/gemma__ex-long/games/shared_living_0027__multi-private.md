@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: Hello everyone. To ensure we allocate these spaces fairly and sustainably, we need a logical basis for our decision. I believe we should start by examining the objective data and past precedents.
+- [6] **Yumi**: I'm so happy to be working with you all! Let's make sure we find a way that makes everyone smile. I want us to be fair and kind so that everyone feels welcome!
+- [7] **Ryuji**: We should be practical. Before we suggest any solutions, we need to understand the actual usage patterns and the physical constraints of the parking area. Let's look at the data first to avoid making an emotional decision.
+- [8] **Shunichi**: Let's be realistic: "making everyone smile" is a fantasy. We need a system that doesn't make us hate each other. I'm interested in the actual costs and the fallout when people are left without a spot.
+- [9] **Toshio**: I agree with the need for a logical approach. Before we commit to a system, we must understand the administrative burden and the actual effort required to maintain it. Let's examine the facts first.
+- [10] **Asuka**: I will look into the "Five years of association minutes" and "Last year's complaint log entries." It is essential to understand previous conflicts and how they were resolved to avoid repeating the same mistakes.
+- [11] **Yumi**: I'll check the "Sticker register and the daily riders" and "Morning departures watched from the entrance"! I want to see who's actually using the bikes and how they start their day!
+- [12] **Ryuji**: I'll examine the "Morning departures watched from the entrance" and "Rain exposure along the parking rows." I want to understand the physical flow of traffic and the actual condition of the spaces to assess the current chaos.
+- [13] **Shunichi**: I'll look into the "Building account's two-year ledger" and the "Treasurer's handover file on cash collections." It's about time someone actually checked the money instead of just guessing.
+- [14] **Toshio**: I will examine the "Treasurer's handover file on cash collections" and the "Account from the neighbouring block's secretary." I want to determine the actual paperwork and labor involved in managing these allocations over time.
+- [15] **Asuka**: @Yumi, @Ryuji, it is interesting that you are both focusing on the morning flow. I hope that data, combined with the history of complaints I am researching, will reveal the root causes of the current friction.
+- [16] **Yumi**: @Asuka, I just want to make sure we're being helpful to everyone! If we know how people leave in the morning, maybe we can make things easier and more cheerful for them!
+- [17] **Ryuji**: @Yumi, cheerfulness is secondary to functionality. If the physical layout is causing congestion or damage to the bicycles, no amount of kindness will solve the problem. We need to identify the specific points of friction first.
+- [18] **Shunichi**: @Ryuji, you're obsessed with "friction," but the real friction usually starts when the bill arrives. Let's see if the numbers actually support your functional utopia or if we're just rearranging deck chairs.
+- [19] **Toshio**: @Shunichi, the numbers are only one part of the equation. Even a balanced budget is useless if the administrative workload is so heavy that the system collapses. We must consider the human cost of maintenance.
+- [20] **Asuka**: I agree that administrative burden and financial transparency are important. However, we must not overlook the social stability of the building. I will focus on the historical data to ensure our final decision doesn't inadvertently damage our community.
+- [21] **Yumi**: I'm so glad we're all thinking about different things! It's like a big team effort! I'll do my best to find out who's using the spots so we can all be happy together! See you soon!
+- [22] **Ryuji**: I will focus on the physical realities of the parking area. Understanding the traffic flow and environmental exposure is the only way to create a sustainable system. I'll see you all in the next round.
+- [23] **Shunichi**: I'll be the one to bring us back to earth with some actual figures. Let's see if the ledger reveals any secrets that your "social stability" and "traffic flow" have been ignoring. See you all soon.
+- [24] **Toshio**: I will focus on the operational side. By analyzing the handover files and the neighboring block's experience, I intend to ensure that whatever system we implement is actually sustainable for the person managing it. See you all soon.
+## Round 2
+- [35] **Asuka**: My research reveals a concerning lack of oversight. The association minutes show that covered spaces have been held by the same flats for years without any review, suggesting a stagnant and potentially unfair system.
+- [36] **Yumi**: Wow, I found some really interesting things! Some people who ride every day said they'd actually prefer to pay a bit more if it means their spot is secure. Also, I saw people having to move other bikes to get out!
+- [37] **Ryuji**: @Yumi, your observation is correct. My research confirms that the morning rush is a source of conflict, with multiple instances of people having to shift other bikes just to leave. It is a chaotic and inefficient process.
+- [38] **Shunichi**: It's a miracle we've survived this long. The ledger is practically empty, meaning any "improvement" you're dreaming up will require a levy. Also, the treasurer is already wasting hours on pennies; adding complex billing would be a joke.
+- [39] **Toshio**: @Shunichi, you've hit on a critical point. My research confirms that the current cash reconciliation already takes three hours a month. Adding per-place billing would significantly increase that burden, risking the same collapse we've seen with previous initiatives.
+- [40] **Asuka**: @Toshio, @Shunichi, if the administrative burden is already high, we must avoid a complex system. However, my findings show that complaints about bikes leaning on each other are ignored because there is no accountability. We need a clear, simple structure.
+- [41] **Yumi**: @Asuka, that sounds so stressful for the people involved! I really don't want anyone to feel ignored or upset. If we can find a simple way to make it fair, I'm sure everyone will be much happier!
+- [42] **Ryuji**: @Asuka, accountability is necessary, but it must be based on the physical reality of the space. I found that rain exposure varies significantly; some spots are useless in winter. We cannot ignore that some spaces are objectively worse than others.
+- [43] **Shunichi**: @Ryuji, so we have "useless" spots and a treasurer who's already drowning in paperwork. If we try to price these spots based on "quality," we're just adding more math to a ledger that's currently a wasteland. Let's not overcomplicate a disaster.
+- [44] **Toshio**: @Shunichi, I agree. Complexity is the enemy of sustainability. I've seen that in the neighboring block, monthly charges led to arrears and social withdrawal. We must avoid a system that creates financial friction or administrative burnout.
+- [45] **Asuka**: @Toshio, your point about social withdrawal is precisely why we must be cautious. If we implement a system that feels like a penalty or creates constant disputes over "quality," we risk destroying the fragile peace in our lobby.
+- [46] **Yumi**: @Asuka, that's so true! We should definitely keep things friendly. But @Ryuji, if some spots are really rainy, maybe we can help the people there? I just want everyone to feel cared for!
+- [47] **Ryuji**: @Yumi, helping is a sentiment, not a system. The issue is that the current lack of structure leads to a shoving match every morning and damaged bikes by evening. We need a layout that minimizes physical interference, regardless of the weather.
+- [48] **Shunichi**: @Ryuji, you're still talking about "layouts" while ignoring the fact that we have no budget for them. If your solution involves a fancy new rack or a professional redesign, you're just dreaming. We can't afford a single nail without a levy.
+- [49] **Toshio**: @Shunichi, I am not suggesting a redesign. I am suggesting we avoid any system that requires constant monitoring or complex billing. If the administrative cost is too high, the system will simply lapse, leaving us exactly where we started.
+- [50] **Asuka**: It is clear that we are balancing three risks: administrative burnout, financial instability, and social friction. We must find a solution that provides accountability without creating a climate of resentment or an impossible workload for the treasurer.
+- [51] **Yumi**: I agree! It's like a puzzle where we have to make all the pieces fit. I really hope we can find a way that's simple for the treasurer but still makes the daily riders feel happy and secure!
+- [52] **Ryuji**: The priority must be the physical environment. If we ignore the morning congestion and the disparity in rain exposure, we are simply choosing which type of conflict to tolerate. A sustainable system must address the actual usage patterns.
+- [53] **Shunichi**: @Ryuji, you're still treating this like a geometry problem. The reality is that we have a bankrupt ledger and a treasurer on the verge of a breakdown. Any "sustainable system" that requires a spreadsheet is a fantasy. Let's keep it simple or don't bother.
+- [54] **Toshio**: @Shunichi, I agree. Simplicity is the only way to ensure the system doesn't quietly lapse. We must prioritize a low-maintenance approach that doesn't add to the treasurer's workload or create social arrears. Let's wait for the options.
+## Round 3
+- [60] **Asuka**: Option A is a recipe for the social withdrawal Toshio mentioned; it creates a permanent class of "haves" and "have-nots" based on who acted first, which will inevitably lead to resentment in the lobby.
+- [61] **Yumi**: Option A sounds a bit scary because it might make some people feel left out! But I remember the daily riders saying they'd be happy to pay for a secure spot. Do you think that would make them smile?
+- [62] **Ryuji**: @Yumi, paying for a spot doesn't solve the physical chaos. If we simply attach a fee to the current layout, the morning shoving matches and the damage to bikes will continue. We are just monetizing a dysfunctional system.
+- [63] **Shunichi**: @Yumi, "making them smile" isn't a financial strategy. Option A is a nightmare for the treasurer; we've already established that adding more billing to the current mess is a joke. It's just more paperwork for no real gain.
+- [64] **Toshio**: @Shunichi, I completely agree. Option A is the most dangerous choice from an operational standpoint. Adding monthly billing to a system already taking three hours a month is a recipe for administrative collapse and social friction.
+- [65] **Asuka**: Option B is also problematic. A rigid annual lottery ignores the physical disparities Ryuji mentioned and creates a year of resentment for those who end up with the "useless" spots, with no way to resolve it.
+- [66] **Yumi**: @Asuka, I see what you mean! It would be so sad if someone got a rainy spot and had to be unhappy for a whole year. But maybe a lottery is fairer than just letting the first people take everything?
+- [67] **Ryuji**: @Yumi, a lottery is only "fair" in a mathematical sense. In reality, it forces people into a year of frustration if they get a spot that is exposed to rain or blocked by others. It doesn't fix the morning congestion.
+- [68] **Shunichi**: @Yumi, a lottery is just a way to gamble with our sanity. It doesn't solve the congestion, and it doesn't fix the budget. It's a lazy solution that just kicks the conflict down the road for twelve months.
+- [69] **Toshio**: @Shunichi, while a lottery is lazy, it is at least low-maintenance. It requires only one event per year, avoiding the monthly administrative burnout of Option A. However, it doesn't address the physical chaos Ryuji described.
+- [70] **Asuka**: Option C is the most logical choice. By removing fixed ownership, we eliminate the "haves" and "have-nots" dynamic and the resentment of stagnant allocations. It prevents the social friction that turns neighbors into strangers.
+- [71] **Yumi**: Option C sounds so exciting! It's like a big community space where everyone shares. If we don't have "my spot" or "your spot," maybe people will be kinder to each other's bikes! Do you think it would stop the morning shoving?
+- [72] **Ryuji**: @Yumi, it depends on the racks. If double-tier racks are implemented correctly, they maximize space and could reduce the shoving matches. It is the only option that addresses the physical congestion rather than just the administrative or social side.
+- [73] **Shunichi**: @Ryuji, you're finally talking sense, but you're forgetting the ledger. Double-tier racks aren't free. Since we're broke, this means a levy on every household. It's the only option that actually puts money on the table, even if it's our own.
+- [74] **Toshio**: @Shunichi, a one-time levy for equipment is far more sustainable than a monthly administrative nightmare. Option C eliminates the recurring labor of billing and the risk of arrears, making it the only choice that won't quietly lapse.
+- [75] **Asuka**: Option C is the only choice that prioritizes the long-term health of our community. It replaces stagnant privilege and potential resentment with a system of shared responsibility, ensuring we remain neighbors rather than rivals. I vote for Option C.
+- [76] **Yumi**: I'm so happy we've found a way to make everyone feel equal! Option C sounds like the most wonderful way to bring us all together and stop the grumbling. I vote for Option C!
+- [77] **Ryuji**: Option C is the only rational choice. It addresses the physical congestion and the disparity of the spaces by removing fixed ownership. It is the only solution that prioritizes functionality over administrative convenience. I vote for Option C.
+- [78] **Shunichi**: Since we've all agreed that A is a bureaucratic disaster and B is just a lazy gamble, C is the only one left. Yes, it requires a levy, but I'd rather pay once than watch the treasurer have a meltdown. I vote for Option C.
+- [79] **Toshio**: Option C is the only sustainable path. It replaces recurring administrative labor with a one-time investment, ensuring the system doesn't collapse under its own weight. It is the most responsible choice for the association. I vote for Option C.
+### Vote
+- Asuka -> C
+- Yumi -> C
+- Ryuji -> C
+- Shunichi -> C
+- Toshio -> C
+## Result
+- adopted: C

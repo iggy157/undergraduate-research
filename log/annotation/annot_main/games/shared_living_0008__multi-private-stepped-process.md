@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **May**: Let's be honest, the room is a mess and the rules are nonexistent. We need a real system so the same people aren't always cleaning up after everyone else.
+- [6] **Misaki**: It's not just the mess. The noise carries directly into the office. It's becoming quite distracting for those of us sitting right next to the door.
+- [7] **Servas**: Patience, my friends. Chaos is often just a sign that we have outgrown our old ways. Let us look at the facts before we decide our new path.
+- [8] **Sakura**: I agree! Let's turn this into a little mystery hunt! I want to know exactly how much we're spending and who is actually using the room.
+- [9] **Kenji**: I think we should also think about how we talk to each other. It feels like we're all strangers lately. We need a space where we can actually connect!
+- [10] **May**: @Kenji, connection is great, but not if it means I'm scrubbing crumbs off a table. I want to see who is actually in there and what the state of the bins is.
+- [11] **Misaki**: I'm more concerned about the physical barriers. I want to know if the partition wall is even doing anything to stop the sound.
+- [12] **Servas**: Time is our most precious resource. I wonder how many hours are lost to the upkeep of this room or the travel for our meals.
+- [13] **Sakura**: Ooh, good point! I bet there are some surprising numbers hidden in the invoices. Let's find out where the money is going!
+- [14] **Kenji**: But what about the "vibe"? I want to know where the awkward conversations happen. If we don't fix that, a new layout won't help us be friends.
+- [15] **May**: @Sakura, you're too excited! But fine, let's get the data. I'll check the usage tally and the bins. That'll show us who the real culprits are.
+- [16] **Misaki**: I'll look into the partition wall and the facilities callouts. I want to see if the noise issues have been reported before.
+- [17] **Servas**: I shall look into the invoices for outside hire and the round trip for a hot lunch. Let us see where our energy is being spent.
+- [18] **Sakura**: I'm on it! I'll check the quotes for the fit-outs and the invoices for outside hire too. I want to see the real costs on paper!
+- [19] **Kenji**: I'll check the unplanned talks since the refit and where the last awkward conversation happened. We need to know why we're avoiding each other!
+- [20] **May**: Perfect. Let's gather the evidence and then we can stop guessing. I'm looking forward to seeing who's been slacking on the cleaning.
+- [21] **Misaki**: Agreed. Let's focus on the environment first. If the room is too loud or dirty, no one will want to use it properly anyway.
+- [22] **Servas**: A wise approach. When we understand the cost of our habits, the right solution usually reveals itself. I look forward to our findings.
+- [23] **Sakura**: Yay! This is like a detective game! I'll find all the secret numbers and we can make a super-smart decision together!
+- [24] **Kenji**: I just hope we remember that the room is for people, not just for "functions." Let's make it a place where we actually like being!
+## Round 2
+- [35] **May**: It's exactly as I thought. A few people are hogging the room, and the mess is spilling over into the office because the room is too chaotic.
+- [36] **Misaki**: The partition wall is practically useless. I can hear everything. It's not just a "vibe" issue; it's a structural failure that affects our focus.
+- [37] **Servas**: It is striking how much time we spend traveling for food. Twenty-five minutes a trip is a heavy toll on our vitality and our working hours.
+- [38] **Sakura**: Guys, look at the money! We're paying 68,000 yen for outside rooms because our break room can't do what we need! We're literally paying for a room we already have!
+- [39] **Kenji**: That's exactly my point! I found out that the last "difficult" talk happened right at our desks. We have nowhere to go when things get tough.
+- [40] **May**: @Sakura, if we're paying for outside rooms, why not just invest that money into a strict management system for our own room? No more "first come, first served."
+- [41] **Misaki**: A management system won't stop the sound. If we want a space for "difficult talks" or focus, we need soundproofing or a complete change in purpose.
+- [42] **Servas**: We must consider the human cost. If we can bring the "hot lunch" closer or make the room a place of true restoration, we save hours of fatigue.
+- [43] **Sakura**: But the fit-out quotes are way higher than the hourly hire! 141,000 yen for a meeting setup is a lot, but it stops the monthly bleeding of cash!
+- [44] **Kenji**: @Misaki, you're right about the sound. If we can't have a private conversation without the whole office hearing, we'll always be strangers. We need a "safe" zone.
+- [45] **May**: I don't care if it's a "safe zone" or a "lunch zone," as long as there's a schedule. I'm tired of the ambiguity. Who cleans? Who books?
+- [46] **Misaki**: If we make it a dedicated quiet zone or a dining area, the noise profile changes. A dining area is loud, but a meeting room must be silent.
+- [47] **Servas**: Let us not forget that a room that serves too many masters serves none. Perhaps we should choose one primary purpose to protect our peace.
+- [48] **Sakura**: I've been crunching the numbers in my head! If we spend the 141,000 yen now, we stop paying those outside invoices. It's a smart investment for the future!
+- [49] **Kenji**: I agree with the investment, but only if the design includes a way to talk privately. I don't want another "desk-side" awkward conversation.
+- [50] **May**: Fine, but the "investment" must include a cleaning rota. I'm not playing the role of the office maid just because I'm the only one who notices the crumbs.
+- [51] **Misaki**: I'll support any option that actually fixes the sound leakage. Whether it's a lounge or a meeting room, the current wall is unacceptable.
+- [52] **Servas**: It seems we are balancing three needs: the need for silence, the need for nourishment, and the need for connection. Let us see which weighs heaviest.
+- [53] **Sakura**: Let's just make sure we don't pick the most expensive option if it doesn't solve the problem! We need the most "bang for our buck," as they say!
+- [54] **Kenji**: I'll vote for whatever makes us feel more like a team. If we can't talk honestly, we're just people sharing a zip code, not a workplace.
+## Round 3
+- [60] **May**: Option C is the only one that solves my problem. A shared calendar means no more fighting over who got there first, and a booking system implies accountability.
+- [61] **Misaki**: Option B would be the most peaceful for those of us sitting by the door. If it's a quiet room, the noise pollution in the office finally stops.
+- [62] **Servas**: Option A would save us the long journey for hot lunches. To nourish the body within our own walls is to preserve the spirit and our time.
+- [63] **Sakura**: I'm looking at the numbers again! Option C costs 141,000 yen, but it's the only one that stops us from paying those outside hire fees every month!
+- [64] **Kenji**: Option C is the only one that gives us a place for those "difficult" conversations. We can't have a "safe space" if the room is for sitting alone in silence.
+- [65] **May**: @Servas, a kitchen is just a recipe for more crumbs and more cleaning. I'm not voting for a room that just creates more work for the person who cares.
+- [66] **Misaki**: @Kenji, a meeting space is only a "safe space" if the soundproofing is fixed. Otherwise, we're just paying 141,000 yen to let the whole office eavesdrop.
+- [67] **Servas**: @May, the work of cleaning is a small price to pay for the gift of time and health. A shared meal can mend the fences that a calendar cannot.
+- [68] **Sakura**: But we can't ignore the budget! If we go with A or B, we're still paying for outside rooms when we need to meet. That's just throwing money away!
+- [69] **Kenji**: @Misaki, we can make the soundproofing part of the fit-out! If we choose C, we can finally stop being strangers and actually talk to each other.
+- [70] **May**: I'm sticking with C. It's the only one with a structure. I can't stand the "whoever gets there first" mentality. We need a rulebook.
+- [71] **Misaki**: I see the logic in C, but I'm worried about the noise. However, if it's the only way to get a proper fit-out that might include a better door or wall...
+- [72] **Servas**: I still believe the physical well-being of the staff is paramount. However, I see that the need for a structured meeting space is a strong current here.
+- [73] **Sakura**: Exactly! Let's be professional! Option C is the most logical choice for the company's wallet and our productivity. It's a win-win!
+- [74] **Kenji**: I'm all for C. It's not just about the money; it's about having a place where we can be human and handle the hard stuff together.
+- [75] **May**: Just remember, if we go with C, I'm drafting the cleaning schedule. No exceptions, no excuses. I'm not doing it alone.
+- [76] **Misaki**: If we agree that the fit-out must address the sound leakage to the office, I can get behind Option C. It's better than the current chaos.
+- [77] **Servas**: It is often the case that the most practical path is the one that leads us to the most harmony. I will support the will of the group.
+- [78] **Sakura**: Yay! I'm so glad we looked at the numbers! It makes the choice so much easier when you see the money flying out the window!
+- [79] **Kenji**: I'm just happy we're actually talking about this. This conversation itself is a start. Let's make the room a place where we can keep talking.
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> A
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

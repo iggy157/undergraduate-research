@@ -1,0 +1,73 @@
+# shared_living_0001__multi-public (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m excited to start planning! I want to make sure the costs are fair for everyone, so I’ll look into the transport receipts and the whole-building let terms.
+- [6] **Shizue**: I’m curious about how we can all get along better. I’ll check what the seniors say about mixing and look at the attendance sheets from past trips.
+- [7] **Ryuji**: I need to know if the workload is sustainable. I’ll check the canteen closure details and the vacation timetable for our own hall.
+- [8] **Rin**: I want to know if we can actually sleep and train well! I’ll check the accounts from the inland clubs and the prefecture rate sheet for beds.
+- [9] **Misaki**: I need to see where the money actually went. I’ll check the group transport receipts and the accounts from the two clubs that went inland.
+- [10] **Mio**: I’m glad we’re all on the same page! @Ryuji, do you think checking the hall timetable will tell us if we can actually train properly?
+- [11] **Shizue**: @Ryuji, I hope the timetable shows us a way to rest together. I am looking forward to seeing what the seniors say about our evenings.
+- [12] **Ryuji**: @Mio, the timetable shows when the hall is free, not if the workload is sustainable. I need to see if cooking duty eats into training time.
+- [13] **Rin**: @Ryuji, cooking is boring! I want to know if the beds are comfy. I hope we can sleep well and play!
+- [14] **Misaki**: @Rin, the accounts show the costs, not the comfort. I need to know if the inland option is financially viable before we discuss beds.
+- [15] **Mio**: @Misaki, I understand the worry, but I’m hoping the whole-building terms will show if late cancellations are really that painful for the rest of us.
+- [16] **Shizue**: @Mio, I hope the terms are kind to everyone. I am also curious if the seniors think our evenings help us bond.
+- [17] **Ryuji**: @Mio, the terms show the financial risk, not the labor. I am checking if the hall schedule forces us into impossible hours.
+- [18] **Rin**: @Mio, I hope the beds are soft! I want to sleep tight so I can run fast tomorrow.
+- [19] **Misaki**: @Mio, the terms show the risk, not the actual cost. I need to see the real numbers from the inland trips to balance the books.
+- [20] **Mio**: I’m ready to see what we found! @Rin, did the inland accounts mention anything about the sleeping arrangements?
+- [21] **Shizue**: @Rin, I hope the beds are soft enough for you. I am waiting to hear what the seniors say about our evenings together.
+- [22] **Ryuji**: @Mio, the accounts show costs, not sleep quality. I am focused on whether the hall schedule forces us into impossible training hours.
+- [23] **Rin**: @Mio, I hope they had comfy beds! I am checking the rate sheet to see if we can afford nice rooms.
+- [24] **Misaki**: @Mio, the accounts show the deficit, not the comfort. I need the real numbers to balance the books before we book anything.
+## Round 2
+- [35] **Mio**: I found the transport receipts! Going far costs 38% of the budget, staying local only 9%. Also, whole-building lets mean we pay for late cancellations.
+- [36] **Shizue**: The seniors say mixing only happens when we sleep together. But a fifth never came, and left by winter.
+- [37] **Ryuji**: The hall is booked by three other clubs. Training would be split into early mornings and late evenings. Cooking duty is gone, but the schedule is broken.
+- [38] **Rin**: Eight people in one room! And lights out at eleven? That sounds like a nightmare. I want to sleep properly to train hard!
+- [39] **Misaki**: The transport receipts show distance drives the cost. Inland trips also mean eight to a room. I need to know if that deficit is sustainable.
+- [40] **Mio**: @Ryuji, if the hall is split, how do we train? @Misaki, the non-refundable deposit means we pay for anyone who quits late.
+- [41] **Shizue**: @Rin, eight to a room sounds rough, but the seniors say that is where we actually talk. I worry about the quiet ones who never came.
+- [42] **Ryuji**: @Mio, the split schedule makes the workload impossible. I cannot commit to that. We need a location with staffed kitchens and a proper block.
+- [43] **Rin**: @Ryuji, but eight people is too many! I can’t sleep with that many snorers. I need a quiet room to rest my legs!
+- [44] **Misaki**: @Ryuji, the split schedule is a logistical failure. @Mio, the non-refundable deposit is a financial risk. I need to see the actual numbers to balance the books.
+- [45] **Mio**: @Ryuji, I agree the split schedule is bad. @Misaki, the non-refundable deposit is scary, but I hope we can manage it together!
+- [46] **Shizue**: @Rin, I understand your worry about the noise. But the seniors say those shared evenings are where we truly connect. I hope we can find a balance.
+- [47] **Ryuji**: @Rin, eight to a room is a logistical fact, not a preference. I need a location that solves the schedule and the labor, not just the noise.
+- [48] **Rin**: @Ryuji, but I am nine! I need my own space to dream! If I am tired, I cannot run fast. Please, no snorers!
+- [49] **Misaki**: @Ryuji, the split schedule is a logistical failure. @Mio, the non-refundable deposit is a financial risk. I need to see the actual numbers to balance the books.
+- [50] **Mio**: @Rin, I hear you! But if we pick a place with staff, maybe we get better rooms? I hope we can all sleep well and have fun together!
+- [51] **Shizue**: @Mio, I hope the staff can help us rest well. But I worry about the quiet ones who never came. We must find a place where everyone feels welcome.
+- [52] **Ryuji**: @Mio, staffed kitchens solve the labor, but the hall schedule remains broken. I need a location that fixes both the time and the workload.
+- [53] **Rin**: @Mio, I hope the staff makes the beds soft! I want to sleep tight so I can run fast tomorrow.
+- [54] **Misaki**: @Ryuji, the split schedule is a logistical failure. @Mio, the non-refundable deposit is a financial risk. I need to see the actual numbers to balance the books.
+## Round 3
+- [60] **Mio**: @Ryuji, the coastal lodge has staff, so no cooking! But the non-refundable deposit worries me. @Misaki, can we manage that risk?
+- [61] **Shizue**: @Mio, the lodge keeps us together, which the seniors say is vital. But a fifth never came before. I worry who will actually show up.
+- [62] **Ryuji**: @Mio, the coastal lodge solves the labor and schedule issues. I can commit to that.
+- [63] **Rin**: @Mio, a whole building means no snorers! I can sleep tight and run fast! I love the seaside!
+- [64] **Misaki**: @Mio, the non-refundable deposit is a financial risk. I need to see the actual numbers to balance the books.
+- [65] **Mio**: @Misaki, I know the deposit is scary, but the staff means no cooking! @Rin, the seaside sounds perfect for sleeping well!
+- [66] **Shizue**: @Mio, I worry about the deposit, but I hope the seaside brings everyone together. @Rin, I am glad you are excited about the sleep.
+- [67] **Ryuji**: @Misaki, the deposit risk is real, but the labor savings are concrete. I can commit to the coastal lodge if the numbers work.
+- [68] **Rin**: @Misaki, the rate sheet says 1,100 yen covers the bed and the hall! That is cheap! I want to go to the seaside!
+- [69] **Misaki**: @Ryuji, the labor savings are real, but the deposit risk is not. I need the actual numbers to balance the books before I can commit.
+- [70] **Mio**: @Misaki, I understand the worry! But the staff means no cooking, and the seaside is fun. Can we trust the numbers?
+- [71] **Shizue**: @Misaki, I understand your caution. But the seniors say we only bond when we sleep together. I hope the seaside brings everyone closer.
+- [72] **Ryuji**: @Misaki, the labor savings are concrete. The deposit risk is manageable if we set a firm deadline. I can commit to the coastal lodge.
+- [73] **Rin**: @Misaki, the seaside is so much fun! I promise to be a good girl and not wake anyone up. Please say yes!
+- [74] **Misaki**: @Ryuji, a firm deadline does not erase the deficit. I cannot commit to a non-refundable deposit without knowing the exact cost.
+- [75] **Mio**: @Misaki, I understand! But the seaside is so fun. @Rin, let’s go! I’ll help manage the costs.
+- [76] **Shizue**: @Misaki, I understand your caution. But the seniors say we only bond when we sleep together. I hope the seaside brings everyone closer.
+- [77] **Ryuji**: @Misaki, the labor savings are concrete. The deposit risk is manageable if we set a firm deadline. I can commit to the coastal lodge.
+- [78] **Rin**: @Misaki, the seaside is so much fun! I promise to be a good girl and not wake anyone up. Please say yes!
+- [79] **Misaki**: @Mio, I cannot vote for a non-refundable deposit without the exact figures. I need to know the true cost before committing.
+### Vote
+- Mio -> C
+- Shizue -> C
+- Ryuji -> C
+- Rin -> C
+- Misaki -> B
+## Result
+- adopted: C

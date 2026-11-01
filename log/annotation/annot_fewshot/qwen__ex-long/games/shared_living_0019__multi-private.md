@@ -1,0 +1,73 @@
+# shared_living_0019__multi-private (shared_living)
+
+## Round 1
+- [5] **George**: I want to understand why our arrangements sour. I will look into what two other car-sharing households said and the spell of checking each other's figures.
+- [6] **Toshio**: I need to quantify the hidden labor. I will examine the hours of use recorded in the diary and the state of the car at handover.
+- [7] **Victoria**: I need to know why the car feels unreliable on ordinary mornings. I will examine the state of the car at handover and the mechanic's remarks at the last service.
+- [8] **Misaki**: I need to see the actual costs. I will examine last year's fuel receipts and the month's trial of recording every run.
+- [9] **Minato**: I’m worried about the money. I want to see the real numbers. I will look into last year's fuel receipts and the hours of use recorded in the diary.
+- [10] **George**: @Toshio, the diary hours are useful, but I am more concerned about the friction between us. I will stick to my plan.
+- [11] **Toshio**: @George, friction is a symptom. I need to measure the actual time spent untangling the mess. I will stick to my plan.
+- [12] **Victoria**: @Toshio, I agree. The physical state is the root cause. I will examine the handover condition and the mechanic's notes.
+- [13] **Misaki**: @Toshio, measuring time is good, but I need the actual yen figures. I will stick to my plan.
+- [14] **Minato**: @Misaki, I agree! Knowing the real yen figures is important. I will stick to my plan too.
+- [15] **George**: @Minato, the yen figures are necessary, but they do not explain the silence. I will stick to my plan.
+- [16] **Toshio**: @George, silence is just unrecorded labor. I need the data to prove the cost. I will stick to my plan.
+- [17] **Victoria**: @George, silence often masks neglect. I need to know if the car is physically failing us. I will stick to my plan.
+- [18] **Misaki**: @George, silence is often just unrecorded cost. I need the receipts to see who is actually subsidizing whom. I will stick to my plan.
+- [19] **Minato**: @George, I think the numbers will help us talk better. If we know the truth, maybe the silence will go away.
+- [20] **George**: I will examine what two other car-sharing households said and the spell of checking each other's figures.
+- [22] **Toshio**: I will examine the hours of use recorded in the diary and the state of the car at handover.
+- [24] **Victoria**: I will examine the state of the car at handover and the mechanic's remarks at the last service.
+- [25] **Misaki**: I will examine last year's fuel receipts and the month's trial of recording every run.
+- [26] **Minato**: I will look into last year's fuel receipts and the hours of use recorded in the diary.
+## Round 2
+- [37] **George**: @Toshio, the other households said asking favours sours things. Our own checking spell made people feel accused. We must avoid repeating that.
+- [38] **Toshio**: @George, the diary shows Saturday usage is triple Tuesday’s. That imbalance drives the friction. I need to see if the handover state reflects that neglect.
+- [39] **Victoria**: @Toshio, the mechanic confirmed short cold runs destroy the battery. That explains why I find it dead on Tuesday mornings.
+- [40] **Misaki**: @Toshio, the receipts show two people bought over half the fuel. The trial recording took an hour weekly. We need a system that doesn’t rely on constant verification.
+- [41] **Minato**: @Misaki, that sounds heavy. I found the same thing. Two people bought most of the fuel, and Saturdays are much busier than Tuesdays.
+- [42] **George**: @Misaki, an hour weekly is too much. The other households said constant asking sours trust. We need a system that removes the need to verify.
+- [43] **Toshio**: @Misaki, an hour weekly is the exact labor I am trying to eliminate. The handover state proves the current system fails. We need a structure that removes the need for constant checking.
+- [44] **Victoria**: @Toshio, I agree. The handover state is unacceptable. We need a baseline condition so I am not driving a neglected vehicle.
+- [45] **Misaki**: @Victoria, a baseline is good, but it doesn't fix the math. The receipts show the split is already broken. We need a formula that accounts for actual usage, not just equal shares.
+- [46] **Minato**: @Misaki, I agree. If Saturdays are so busy, maybe we should pay more for those days? I just want it to be fair for everyone.
+- [47] **George**: @Minato, paying more for busy days is just another way to keep score. The other households said the asking itself is the poison. We need a system that stops the asking.
+- [48] **Toshio**: @George, I agree. The handover state proves the current system fails. We need a structure that removes the need for constant checking.
+- [49] **Victoria**: @George, I agree. But a system that ignores the physical state is useless. I need the car to be ready, not just the books balanced.
+- [50] **Misaki**: @George, I agree. Constant verification is unsustainable. We need a formula that reflects actual usage, not just equal shares, to stop the resentment.
+- [51] **Minato**: @George, I understand. I just want to know the real numbers so we can stop guessing. Maybe a simple rule will help us trust each other again.
+- [52] **George**: I will examine what two other car-sharing households said and the spell of checking each other's figures.
+- [53] **Toshio**: I will examine the hours of use recorded in the diary and the state of the car at handover.
+- [55] **Victoria**: I will examine the state of the car at handover and the mechanic's remarks at the last service.
+- [56] **Misaki**: I will examine last year's fuel receipts and the month's trial of recording every run.
+- [57] **Minato**: I will look into last year's fuel receipts and the hours of use recorded in the diary.
+## Round 3
+- [63] **George**: @Minato, Option C is a trap. It forces the asking that sours trust. I reject it.
+- [64] **Toshio**: @George, Option C centralizes the labor on one person. That is the exact bottleneck I am trying to eliminate. I reject it.
+- [65] **Victoria**: @Toshio, I agree. Option C leaves the car in one person’s hands, risking the neglect I found. I need a system that guarantees the car is ready for me.
+- [66] **Misaki**: @Toshio, I agree. Option C centralizes the burden. Option A’s distance-based split reflects the actual usage imbalance I found. I support A.
+- [67] **Minato**: @Misaki, I like Option A. If we pay for the distance, it feels fair. I hope it helps us stop guessing about the money.
+- [68] **George**: @Toshio, Option A still requires recording every distance. That is the checking spell that made us feel accused. I reject it.
+- [69] **Toshio**: @George, Option A’s distance recording is the same verification burden I am trying to eliminate. It just formalizes the checking spell. I reject it.
+- [70] **Victoria**: @Toshio, I agree. Option A’s recording is just more friction. Option B’s fixed days guarantee the car is ready for me without constant checking.
+- [71] **Misaki**: @Victoria, Option B ignores the usage imbalance. If you hold the car but don't use it, you still pay. That is not fair.
+- [72] **Minato**: @Misaki, I see. But if we just pay a fixed share, we don't have to count every single trip. That sounds much easier and less scary for me.
+- [73] **George**: @Misaki, Option B’s fixed days remove the need to ask or verify. It stops the favour-asking that sours trust. I support B.
+- [74] **Toshio**: @George, Option B eliminates the verification labor. Fixed days mean no recording, no checking, no untangling. It is the only structure that removes the hidden cost. I support B.
+- [75] **Victoria**: @Toshio, I agree. Option B’s fixed days guarantee the car is ready for me without constant checking. I support B.
+- [76] **Misaki**: @Toshio, I understand the appeal of simplicity. But Option B ignores the actual usage imbalance. If you hold the car but don't use it, you still pay. That is not fair.
+- [77] **Minato**: @Misaki, I understand your worry. But if we don't count, we can just trust each other. I think Option B is the kindest way to stop the guessing.
+- [78] **George**: I am voting for Option B. It removes the asking and the checking that sours our trust. We must stop the friction before it breaks us.
+- [79] **Toshio**: I am voting for Option B. It eliminates the verification labor and the hidden cost of untangling. It is the only structure that removes the burden.
+- [80] **Victoria**: I am voting for Option B. Fixed days guarantee the car is ready for me without constant checking. It protects my ordinary mornings from neglect.
+- [81] **Misaki**: I am voting for Option A. Option B ignores the actual usage imbalance. We must pay for what we use, not just hold the car.
+- [82] **Minato**: I am voting for Option B. It feels the most peaceful. I want us to stop counting and just trust each other.
+### Vote
+- George -> B
+- Toshio -> B
+- Victoria -> B
+- Misaki -> A
+- Minato -> B
+## Result
+- adopted: B

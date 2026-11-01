@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Victoria**: Since we're outgrowing our current layout, we should be thorough. I believe we need to understand the financial implications and the actual usage of the space before we decide on a new arrangement.
+- [6] **Minato**: I agree, Victoria. I also think it would be helpful to know if the desks are comfortable for everyone and if some areas are too noisy, so we can all feel relaxed while working.
+- [7] **May**: I'm with you both, but let's not forget the clock! I want to know exactly how much time we're losing to the daily grind. Efficiency is everything if we want to keep our sanity.
+- [8] **Shunichi**: Efficiency is fine, May, but let's not ignore the human element. We need to see how we've actually functioned—and who's been stuck where—before we just shuffle the deck again.
+- [9] **Daisuke**: I... I think it's important to know how we'll actually interact. I'm worried about who we sit next to. Maybe we should look into the costs and how the seating affects our communication?
+- [10] **Victoria**: @Daisuke, since you mentioned communication, perhaps we should look at how project strands were grouped previously. However, I still believe the budget is the primary constraint we must address first.
+- [11] **Minato**: That makes sense. I wonder if we could also check the physio's notes or the sound levels? I think it's important that we all feel physically comfortable and can concentrate without too much noise.
+- [12] **May**: @Minato, comfort is great, but I'm more worried about the friction of the start of the day. I want to see what the morning routine looks like on the pilot floor to avoid any time-wasters.
+- [13] **Shunichi**: @May, your obsession with the clock is almost impressive. But let's be realistic; a "routine" doesn't fix a bad seat. I'm more interested in the history of our shuffles and the actual staff survey.
+- [14] **Daisuke**: I... I agree with Victoria. Maybe looking at the project strands would help. And... if we can, I'd like to know the costs for the power and network, so we know what's possible.
+- [15] **Victoria**: It seems we have a good range of interests. To ensure we don't overspend, I will look into the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [16] **Minato**: I'll look into the sound meter readings across the room and the physio's note from the workstation check. I want to make sure we find a spot that's quiet and comfortable for everyone.
+- [17] **May**: I'll take the morning routine on the pilot floor upstairs and the arrival times in the badge records. I need to see exactly where the time leaks are before we commit to a new setup!
+- [18] **Shunichi**: I'll handle the unplanned seat shuffles in the past year and the drawn plan against the staff survey. Let's see if our "natural" seating patterns are as fair as we pretend they are.
+- [19] **Daisuke**: I'll... I'll look into the two project strands within earshot last spring and the facilities quote for re-running power and network. I want to see how we've talked and what it costs.
+- [20] **Victoria**: Since we have divided the tasks, let's ensure we all share our findings transparently in the next round. I look forward to seeing how the financial data aligns with your observations on efficiency and comfort.
+- [21] **Minato**: I'll do my best to find helpful information. I hope we can create a space where everyone feels happy and comfortable. I'm looking forward to hearing what you all find out too!
+- [22] **May**: Don't be too hopeful, Minato! I'm expecting some shocking revelations about how much time we're wasting. I'll be back with the cold, hard facts about our mornings. See you all in the next round!
+- [23] **Shunichi**: I'll be back with the truth about our "spontaneous" changes. Let's just hope the data is more honest than our current seating arrangement. See you all in the next round.
+- [24] **Daisuke**: I'll... I'll do my best to find the information. I hope we can find a way to sit that makes it easier for all of us to talk. See you later.
+## Round 2
+- [35] **Victoria**: The financial data is concerning. We are billed by floor area, meaning empty space is a waste of budget, and every single desk move costs us 6,200 yen. We must prioritize a stable, efficient layout.
+- [36] **Minato**: I found that the area by the printer and door is much noisier than the window side. Also, the physio mentioned that it takes days of small adjustments to get a desk setting just right for our bodies.
+- [37] **May**: @Victoria, 6,200 yen per move is a pain, but time is more expensive! The pilot floor takes up to nine minutes just to set up. If we go for a flexible system, we're flushing our mornings down the drain.
+- [38] **Shunichi**: @Victoria, stability is a convenient word for "letting the same people keep the good spots." The survey shows daylight is a major issue, yet our current plan leaves three people in the dark. That's not stability; it's a lottery.
+- [39] **Daisuke**: I... I found that when project strands sat close last spring, we stopped needing written notes because we just talked. But... the 6,200 yen cost per move is scary. I don't want us to be stuck in a bad layout because we're afraid of the cost.
+- [40] **Victoria**: @Daisuke, the cost is not just "scary," it is a recurring drain on a budget that hasn't grown. If we choose a layout that requires frequent adjustments, we are compromising our financial stability for temporary convenience.
+- [41] **Minato**: @Victoria, I understand the cost is important, but if we move too often, we lose those careful desk adjustments the physio mentioned. It would be sad if we were all uncomfortable just to save money or change things.
+- [42] **May**: @Minato, exactly! It's a double loss. We waste time setting up every morning and we lose our physical comfort. Any plan that forces us to shuffle or "hot-desk" is a total nightmare for my schedule.
+- [43] **Shunichi**: @May, for once we agree. Hot-desking is a disaster for efficiency. But let's be honest: if we go for "stability" to save money, we're just deciding who gets the window and who gets the wall for the next year. Who's volunteering for the dark?
+- [44] **Daisuke**: I... I don't want anyone to be unhappy with their spot. But if we sit near the people we need to talk to, like last spring, we might be more efficient. Maybe there's a way to be stable and fair?
+- [45] **Victoria**: @Shunichi, fairness is important, but it cannot come at the expense of the budget. We must find a layout that is equitable from the start so that we never have to pay for another move.
+- [46] **Minato**: I think we should be very careful about where we place the desks. If we put people in the noisy areas or in spots that don't fit them, they might feel tired or stressed. Can we make sure everyone has a quiet, comfortable spot?
+- [47] **May**: @Minato, we can't just wish for a perfect spot. If we want comfort and quiet without wasting time, we need fixed seats. I won't support any "fair" rotation that adds ten minutes to my morning.
+- [48] **Shunichi**: @May, your fear of ten minutes is touching, but your logic is flawed. Fixed seats aren't "fair"; they're just permanent. If we don't address the window gap now, we're just ignoring the elephant in the room.
+- [49] **Daisuke**: I... I think we should try to find a balance. If we can place the project groups together from the start, we'll save time and talk more, and we won't have to pay for moves later.
+- [50] **Victoria**: @Daisuke, that is a rational approach. If we align the layout with our project needs and physical constraints now, we avoid the 6,200 yen per-desk penalty and the waste of floor billing. Let us aim for a permanent, optimized solution.
+- [51] **Minato**: I agree. If we take the time to get it right now, we can make sure the noisy areas are handled and everyone can keep their desk settings. I hope we can all be happy with our spots.
+- [52] **May**: Fine, as long as "getting it right" means fixed seats. I can't deal with a morning lottery or a setup ritual. Let's just lock it in and stop talking about shuffling!
+- [53] **Shunichi**: @May, your desperation for a "lock" is almost poetic. But let's be clear: "getting it right" means deciding who gets the wall and the noise. I'm not voting for a plan that ignores the daylight gap.
+- [54] **Daisuke**: I... I hope we can all agree on something. If we can just be honest about what we need, maybe we can find a layout that's fair and helps us talk more.
+## Round 3
+- [60] **Victoria**: Given the costs, Option A is the only viable choice. Fixed desks eliminate the 6,200 yen per-move penalty and prevent the daily time waste May mentioned. It is the most fiscally responsible and stable solution.
+- [61] **Minato**: I agree with Option A. If we have fixed desks, we can keep our monitor and chair settings exactly how we like them, and we won't have to worry about the noise changing every day.
+- [62] **May**: Option A is the only one that doesn't treat my morning like a scavenger hunt. Options B and C are absolute time-sinks. I'm voting A to save my sanity and my schedule!
+- [63] **Shunichi**: @Victoria, @Minato, @May, you're all rushing toward Option A because it's "stable," but you're ignoring the cost of that stability. It just cements a hierarchy of who gets the window and who gets the wall. That's not a solution; it's a grudge in the making.
+- [64] **Daisuke**: I... I understand Shunichi's point about fairness. But Option C sounds too overwhelming, and Option B would cost so much in fees. If we choose A, can we just... be very careful about who sits where?
+- [65] **Victoria**: @Shunichi, a "grudge" is a social issue, whereas a budget deficit is a structural one. We can resolve the window placement through a fair internal agreement, but we cannot simply wish away the facilities fees. Option A is the only rational choice.
+- [66] **Minato**: @Shunichi, I don't want anyone to have a grudge. But if we move all the time, we'll never feel truly settled in our seats. I think we can be kind and fair when we pick the spots for Option A.
+- [67] **May**: @Shunichi, stop being so dramatic! A "grudge" is a small price to pay for not wasting nine minutes every single morning. I'm not sacrificing my productivity just to satisfy your sense of cosmic fairness. Option A it is!
+- [68] **Shunichi**: @May, your "productivity" is just a shield for your laziness regarding a ten-minute walk. @Victoria, a "fair internal agreement" is a fantasy in a room where some people are naturally louder than others. Option B is the only way to ensure no one is permanently exiled to the wall.
+- [69] **Daisuke**: I... I don't think Option B is a good idea because of the costs. If we pay those fees every time we shift, it'll just be stressful. I think we can trust each other to be fair with Option A.
+- [70] **Victoria**: @Shunichi, the cost of Option B is not a minor detail; it is a recurring expense that our budget cannot sustain. We must prioritize the team's financial health over a theoretical ideal of rotation. I vote for Option A.
+- [71] **Minato**: I also vote for Option A. I really want us to have a place where we can feel physically comfortable and relaxed. If we can just be thoughtful about the noise and the light, I think we'll all be happy.
+- [72] **May**: I'm voting A! I'm not spending my life plugging in monitors and fighting for a spot. Let's just pick the seats and get on with our work. It's the only choice that makes sense!
+- [73] **Shunichi**: @Victoria, your "financial health" is just a convenient excuse to avoid a difficult conversation about equity. If we go with A, we're just pretending the wall doesn't exist. I'm voting for Option B. Let's pay the price for actual fairness.
+- [74] **Daisuke**: I... I don't want anyone to feel left out or unhappy. But the cost of Option B is too high, and Option C is too scary. I'll vote for Option A, and I hope we can be kind to each other.
+- [75] **Victoria**: It is clear that the majority favors Option A for its stability and cost-effectiveness. While I acknowledge Shunichi's concerns, the financial reality dictates our path. I stand by my vote for Option A to ensure our budget remains intact.
+- [76] **Minato**: I hope we can all be happy with Option A. Let's please remember to be very thoughtful about the noise and the light so that everyone feels comfortable. I'm voting for Option A.
+- [77] **May**: I'm voting A! I've said it a dozen times now. Let's stop the debating and just lock it in. My mornings are finally safe, and that's all that matters to me. Option A, definitely!
+- [78] **Shunichi**: Since you're all so eager to ignore the inequality of the room for the sake of a few yen and some minutes, I'll be the only one with a conscience. I vote for Option B. Enjoy your walls.
+- [79] **Daisuke**: I... I'll vote for Option A too. I really hope we can use this chance to sit in a way that helps us talk more and support each other. Please, let's be fair.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> B
+- Daisuke -> A
+## Result
+- adopted: A

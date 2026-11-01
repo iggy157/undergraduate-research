@@ -1,0 +1,73 @@
+# shared_living_0026__single-batch (shared_living)
+
+## Round 1
+- [5] **Mio**: I need to know what we can actually count on coming in before we set a figure.
+- [6] **Jonathan**: The evenings feel hesitant lately. I want to understand why people are hesitating.
+- [7] **Takumi**: It feels like the same dozen faces are doing everything. I want to see the numbers.
+- [8] **Toshio**: I need to know what the bookkeeping job really costs in time before we commit.
+- [9] **Kenji**: I worry that making things visible will break the easy way newcomers drift in.
+- [10] **Mio**: @Toshio, if the job is too heavy, who takes it next year?
+- [11] **Jonathan**: @Mio, I think the hesitation is about commitment, not just cost.
+- [12] **Takumi**: @Jonathan, commitment is easy when you are already there. It is hard for others.
+- [13] **Toshio**: @Mio, I am looking at the hours. It is not just money, it is chasing.
+- [14] **Kenji**: @Takumi, I agree. But if we fix it, everyone sees the fix.
+- [15] **Mio**: I will check the ledger to see where the money actually goes.
+- [16] **Jonathan**: I will look at the taster forms to see why people don't join.
+- [17] **Takumi**: I will check the sign-in sheets to see who is actually showing up.
+- [18] **Toshio**: I will review the outgoing treasurer's logged hours to see the workload.
+- [19] **Kenji**: I will look at the bank statements to see how renewals are handled.
+- [20] **Mio**: Also, I will check the bank statements to see the cash flow.
+- [21] **Jonathan**: And I will look at the weekday turnout to see the trend.
+- [22] **Takumi**: I will also check the rota against the attendance record.
+- [23] **Toshio**: I will also check the sign-up records for mid-year joiners.
+- [24] **Kenji**: I will also check the minute books from the named-grade years.
+## Round 2
+- [35] **Mio**: The ledger shows seventy percent of costs are fixed, like hall hire.
+- [36] **Jonathan**: The taster forms say people are scared of a whole-year commitment.
+- [37] **Takumi**: A quarter of members do two-thirds of the work. It is very uneven.
+- [38] **Toshio**: Chasing individual payments took six hours a month. Yearly collection took one.
+- [39] **Kenji**: The bank statements show a third of renewals needed reminders. It is messy.
+- [40] **Mio**: @Toshio, six hours a month is too much for one person.
+- [41] **Jonathan**: @Mio, if we charge per event, we might lose the quiet ones.
+- [42] **Takumi**: @Jonathan, the quiet ones are already gone. The active ones are burning out.
+- [43] **Toshio**: @Mio, yes, the administrative burden is the real killer here.
+- [44] **Kenji**: @Takumi, I worry that highlighting the unevenness will make people feel judged.
+- [45] **Mio**: I think a flat fee is simplest, but the fixed costs are high.
+- [46] **Jonathan**: I prefer a base fee, but I am worried about the hesitation.
+- [47] **Takumi**: I want to reward the active members, but I don't want to punish the quiet ones.
+- [48] **Toshio**: I am leaning towards a structure that minimizes chasing.
+- [49] **Kenji**: I want to keep the door open for newcomers without making it complicated.
+- [50] **Mio**: @Kenji, a flat fee is the easiest for newcomers to understand.
+- [51] **Jonathan**: @Mio, but it might be too much for someone who only comes twice.
+- [52] **Takumi**: @Mio, it is fair if the active members are subsidizing the quiet ones.
+- [53] **Toshio**: @Mio, a flat fee means one collection. That saves hours of work.
+- [54] **Kenji**: @Mio, I agree. Simplicity is key for keeping the vibe easy.
+## Round 3
+- [60] **Mio**: Option A is a flat annual fee. Simple, but high for low-attendance members.
+- [61] **Jonathan**: Option B is tiered. It might scare off the hesitant newcomers.
+- [62] **Takumi**: Option C is activity-based. It rewards attendance but adds administrative chaos.
+- [63] **Toshio**: Option A minimizes the chasing. Option C maximizes it.
+- [64] **Kenji**: Option B feels like it creates walls. Option A feels like a community.
+- [65] **Mio**: @Toshio, I agree. The administrative burden of C is too high.
+- [66] **Jonathan**: @Mio, but A might be too expensive for the quiet members.
+- [67] **Takumi**: @Jonathan, the quiet members are already paying the same as the active ones.
+- [68] **Toshio**: @Mio, yes, and the ledger shows fixed costs are high anyway.
+- [69] **Kenji**: @Mio, I think A is the best for keeping things simple and open.
+- [70] **Mio**: I am leaning towards A. It is the most sustainable for the treasurer.
+- [71] **Jonathan**: I am hesitant about A, but B seems worse for newcomers.
+- [72] **Takumi**: I am okay with A if we acknowledge the subsidy from active members.
+- [73] **Toshio**: I am voting for A. The time savings are significant.
+- [74] **Kenji**: I am voting for A. It keeps the door open and the process simple.
+- [75] **Mio**: @Jonathan, I understand your worry, but A is the only one that works.
+- [76] **Jonathan**: @Mio, I suppose so. I will go with A.
+- [77] **Takumi**: @Mio, I agree. Let's keep it simple.
+- [78] **Toshio**: @Mio, agreed.
+- [79] **Kenji**: @Mio, yes, let's do it.
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> A
+- Toshio -> A
+- Kenji -> A
+## Result
+- adopted: A

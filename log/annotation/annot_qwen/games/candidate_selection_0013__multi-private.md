@@ -1,0 +1,73 @@
+# candidate_selection_0013__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. I hope we can find a plan that doesn’t leave us scrambling at the end.
+- [6] **Yumi**: Hi everyone! I’m really excited to help pick the best plan. Let’s make sure we actually use the new spaces!
+- [7] **George**: I’ve seen too many projects fail because we ignored the people maintaining them. Let’s keep that in mind.
+- [8] **Mizuki**: I agree with George. We must verify if past projects actually served their users well before committing new funds.
+- [9] **Benjamin**: Agreed. We should ensure the numbers we approve actually match the reality of what we build.
+- [10] **Shizue**: @Benjamin, that sounds wise. I worry about timelines slipping. @Mizuki, do you think checking past reviews would help us avoid that?
+- [11] **Yumi**: @Mizuki, yes! Post-occupancy reviews show if spaces are actually used. I’d love to check those ratings to see what really works!
+- [12] **George**: @Yumi, those ratings are useful, but I’m more concerned about the staff who keep the lights on. We need to see the staffing posts since the hiring freeze.
+- [13] **Mizuki**: @George, staffing is critical, but we must also know if the spaces function. I will examine the post-occupancy review ratings to assess actual utility.
+- [14] **Benjamin**: @George, staffing is vital, but I suspect the real leak is in the tender records. I’ll check those to see where budgets actually go.
+- [15] **Shizue**: @Yumi, I appreciate your enthusiasm. I will look into the weather days in the site diaries to see how seasons affect our schedules.
+- [16] **Yumi**: @Shizue, that’s smart! I’ll check the timetable records for rooms out of service to see how much disruption we actually face.
+- [17] **George**: I will examine the bench technicians' weekly manual routines. We must understand the daily burden before adding more work.
+- [18] **Mizuki**: I will also review the survey findings in the older blocks. We need to understand the baseline conditions before judging new improvements.
+- [19] **Benjamin**: I’ll also review the renewal reserve for equipment bought earlier. We need to know if we’re funding new projects or just patching old holes.
+- [20] **Shizue**: @Mizuki, your focus on the older blocks is wise. I’ll also check the decade of delivery schedules to see if delays are a pattern.
+- [21] **Yumi**: @Benjamin, checking the renewal reserve is so important! I hope we find enough room for our new ideas.
+- [22] **George**: I’ll also review the booking data for specialist and general rooms. We need to know if the spaces are actually being used before we add more.
+- [23] **Mizuki**: I’ll also review the post-occupancy review ratings. We need concrete evidence of user satisfaction to justify any new capital expenditure.
+- [24] **Benjamin**: @Yumi, I hope the reserve isn’t just a line item for our own comfort. Let’s see what the data actually says.
+## Round 2
+- [35] **Shizue**: @Mizuki, the diaries show six weeks lost to weather, and comfort projects always slip. We must prioritize inspection-driven work to keep our timelines safe.
+- [36] **Yumi**: @Mizuki, this is huge! We paid for off-site space for two terms! And reviews show shared spaces work best. Let’s avoid single-wing plans!
+- [37] **George**: @Mizuki, the data confirms my fears. Technicians are stuck doing manual checks because the equipment is inadequate. We cannot add more burden to this shrinking team.
+- [38] **Mizuki**: @Yumi, your findings align with mine. Shared spaces rated highest. @George, the hazardous materials in older blocks make renovation risky. We need a plan that avoids those delays.
+- [39] **Benjamin**: @Mizuki, the reserve is empty. We’re funding new builds while old equipment rots. @George, that explains the manual labor. We’re paying twice.
+- [40] **Shizue**: @Benjamin, that is a heavy burden. @George, please tell us more about the technicians’ daily struggles. We must not add to their weariness.
+- [41] **Yumi**: @George, that’s heartbreaking! We can’t just add more work to tired people. @Shizue, let’s pick a plan that actually frees up staff time!
+- [42] **George**: @Shizue, they spend hours on manual checks the machines should do. Adding more rooms means more manual labor for the same few people.
+- [43] **Mizuki**: @George, that confirms the risk. We cannot burden an already strained team. @Shizue, we must prioritize plans that reduce manual workload, not increase it.
+- [44] **Benjamin**: @George, the math is brutal. We’re subsidizing new construction with the cost of maintaining broken old gear. We need a plan that fixes the leak, not just adds to it.
+- [45] **Shizue**: @Benjamin, I hear your frustration. @George, perhaps a plan that automates those checks would ease the burden? We must protect our staff.
+- [46] **Yumi**: @Shizue, yes! Automating checks would be amazing. @George, please tell us which plan does that!
+- [47] **George**: @Yumi, I don’t have the candidate list yet. But any plan must automate those manual checks. We cannot hire more staff; we must work smarter.
+- [48] **Mizuki**: @Yumi, I agree. We need a plan that automates checks and serves shared spaces. @George, this protects your team.
+- [49] **Benjamin**: @Mizuki, exactly. We need to stop bleeding cash on maintenance. @Yumi, let’s wait for the candidates to see which one actually stops the hemorrhage.
+- [50] **Shizue**: @Yumi, I hope the candidates offer a gentle path forward. Let us listen carefully to what is truly needed.
+- [51] **Yumi**: @Shizue, I’m so hopeful! Let’s find a plan that helps everyone and actually gets used. I’m ready to vote!
+- [52] **George**: I am ready. Let us see which plan actually relieves the technicians rather than adding to their endless manual routines.
+- [53] **Mizuki**: I am ready. The evidence points to shared spaces and automation. Let us see which candidate truly addresses these critical needs.
+- [54] **Benjamin**: I am ready. Let us see if any candidate actually addresses the financial hemorrhage rather than just adding more debt.
+## Round 3
+- [60] **Shizue**: @George, Option D sounds like it would finally ease the technicians’ burden. Does it automate those manual checks you mentioned?
+- [61] **Yumi**: @Shizue, I hope so! But look at B and C. They are shared spaces! My data says those get used the most. Let’s pick one that everyone loves!
+- [62] **George**: @Shizue, yes. Option D replaces the broken extraction equipment. It directly eliminates the manual checks and window-opening routines my technicians are forced to perform weekly.
+- [63] **Mizuki**: @George, that directly solves the manual burden. @Yumi, Option B’s open booking aligns with my post-occupancy data. We need a plan that serves everyone, not just one wing.
+- [64] **Benjamin**: @Mizuki, Option D replaces the broken plant. It stops the maintenance bleed. @Yumi, B is just more debt. We need to fix the leak first.
+- [65] **Shizue**: @Benjamin, I agree. Fixing the leak is wise. @George, does Option D also address the weather delays I found in the diaries?
+- [66] **Yumi**: @Benjamin, I hear you, but my data shows shared spaces get used most! Option B is open to everyone. Can we pick a plan that helps staff AND gets used?
+- [67] **George**: @Yumi, Option D is not a shared social space, but it is essential. It stops the manual labor. We cannot afford to ignore the broken equipment.
+- [68] **Mizuki**: @Yumi, Option D is essential infrastructure, not a social space. @George, it solves the immediate crisis. We must prioritize safety and efficiency over popularity.
+- [69] **Benjamin**: @Yumi, popularity is a poor metric for fiscal responsibility. Option D fixes the broken plant, stopping the hemorrhage. B just adds more debt to a broken system.
+- [70] **Shizue**: @Yumi, I understand your hope for shared spaces. But @George, if D truly eases the technicians’ daily strain, that is a kindness we cannot ignore.
+- [71] **Yumi**: @Shizue, I hear you! But my data shows shared spaces get used most. Option B is open to everyone. Can we pick a plan that helps staff AND gets used?
+- [72] **George**: @Yumi, I respect your data, but we cannot build a house on a broken foundation. Option D is the only choice that stops the bleeding and protects our staff.
+- [73] **Mizuki**: @Yumi, your data is valid, but safety is non-negotiable. @George, Option D addresses the hazardous materials and manual burden. We must prioritize essential infrastructure over popularity.
+- [74] **Benjamin**: @Yumi, sentiment doesn’t balance the ledger. Option D stops the cash hemorrhage. B is a vanity project. I vote D.
+- [75] **Shizue**: @Benjamin, I agree. Option D protects our staff and respects the timeline. I will vote for D as well.
+- [76] **Yumi**: @Benjamin, I hear your concern about the budget. But my data shows shared spaces are used most! Option B helps everyone. I’ll vote B.
+- [77] **George**: @Benjamin, I stand with you. Option D is the only path that relieves the technicians’ daily strain. I vote D.
+- [78] **Mizuki**: @Benjamin, I agree. Option D addresses the critical safety and efficiency gaps. I vote D.
+- [79] **Benjamin**: I vote D. We cannot afford to ignore the rotting foundation while building a pretty facade. Let’s fix the leak.
+### Vote
+- Shizue -> D
+- Yumi -> B
+- George -> D
+- Mizuki -> D
+- Benjamin -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# candidate_selection_0017__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: I need to know who is actually working the late shifts. I will check the roster books for the late-turn pool.
+- [6] **Takumi**: I suspect the crowds are a myth. I will examine timed runs and crowd counts mid-city to see the truth.
+- [7] **Benjamin**: I am tired of headline totals. I will look into balances in the capital ledger to see what is real.
+- [8] **Servas**: History repeats itself here. I will review the completion records of the earlier accessibility programme to learn from the past.
+- [9] **Jonathan**: I worry about hidden delays. I will examine contingency pricing inside the pre-war shells to see what the ground hides.
+- [10] **Asuka**: @Benjamin, if the ledger is empty, we cannot promise new crews. I will also check crew establishment and maintenance contract.
+- [11] **Takumi**: @Asuka, if the rosters are thin, the night extension is a fantasy. I will stick to my two choices.
+- [12] **Benjamin**: @Servas, past records are honest. I will also examine ticketing contractor fees and paving rates to understand the cost drift.
+- [13] **Servas**: @Jonathan, the ground is a liar. I will also review the two pilots from eight years ago to see what actually worked.
+- [14] **Jonathan**: @Takumi, your stopwatch is wise. I will also examine joint operators' committee minutes to see who must agree.
+- [15] **Asuka**: I will finalize my choices. Roster books and crew establishment will show if we have the hands to run this.
+- [16] **Takumi**: I am ready. The data will show if the mid-city is truly crowded or just loud. I will stick with my two.
+- [17] **Benjamin**: I will stick with my two. The ledger and the fees will reveal the true financial weight of our decisions.
+- [18] **Servas**: I will stick with my two. The past is the only witness that does not flatter us. Let us see what remains.
+- [19] **Jonathan**: I will stick with my two. The minutes and the contingency pricing will expose the invisible bottlenecks.
+- [20] **Asuka**: Let us see if the people are there before we promise the service. I am confident in my choices.
+- [21] **Takumi**: I am excited to see the real numbers. Let us hope the crowds are not just a story.
+- [22] **Benjamin**: Agreed. The data will match the reality, not the optimism. I will review my findings before we vote.
+- [23] **Servas**: The data will reveal the truth of our capacity. I look forward to our findings.
+- [24] **Jonathan**: The past is the only honest witness. I will review my findings before we vote.
+## Round 2
+- [35] **Asuka**: The late-turn pool is empty. Overtime covers everything. We have no spare capacity for new night services.
+- [36] **Takumi**: The mid-city runs are slow, but the platforms clear fast. The bottleneck is waiting, not crowding.
+- [37] **Benjamin**: The capital ledger is ring-fenced. The operating subsidy is trimmed. We cannot fund new infrastructure from this.
+- [38] **Servas**: The accessibility programme finished on time. The lane-priority stretches failed. We must trust the proven paths.
+- [39] **Jonathan**: The pre-war shells are traps. Bidders price heavy contingency. The joint operators never agreed on data terms.
+- [40] **Asuka**: @Benjamin, if the money is gone, we cannot hire. My rosters confirm we are already stretched to breaking.
+- [41] **Takumi**: @Asuka, if we can't hire, we can't extend hours. But the journey audits show waiting is the real cost.
+- [42] **Benjamin**: @Takumi, waiting is a symptom. The cause is the empty ledger. We must choose a plan that costs less to run.
+- [43] **Servas**: @Jonathan, the data terms are a dead end. The ferry and rail back offices are stuck. We must avoid integration.
+- [44] **Jonathan**: @Servas, precisely. The committee minutes show no agreement. Any plan requiring their sign-off will stall.
+- [45] **Asuka**: @Benjamin, I agree. We need a plan that uses existing crews. The maintenance contract has spare capacity for lifts.
+- [46] **Takumi**: @Asuka, spare capacity for lifts? That sounds like station upgrades. But do they solve the waiting time?
+- [47] **Benjamin**: @Takumi, station upgrades are capital intensive. The ledger is empty. We need a plan that fits the operating budget.
+- [48] **Servas**: @Benjamin, the pilots from eight years ago show the late-evening timetable met its cost target. It is a proven model.
+- [49] **Jonathan**: @Servas, the late-evening pilot worked, but the rosters are thin. Can we actually staff it now?
+- [50] **Asuka**: @Jonathan, the rosters are thin, but the maintenance contract has spare crew. Station upgrades use that spare capacity.
+- [51] **Takumi**: @Asuka, if station upgrades use spare capacity, they are feasible. But do they reduce the waiting time I found?
+- [52] **Benjamin**: @Takumi, station upgrades are expensive. But the ticketing fees are high. A fare platform might save money long-term.
+- [53] **Servas**: @Benjamin, the fare platform requires data agreement. The committee minutes show that is impossible. We must avoid it.
+- [54] **Jonathan**: @Servas, agreed. The data terms are a trap. We must choose a plan that does not require the joint operators.
+## Round 3
+- [60] **Asuka**: The candidates are here. A is Night Service, B is Bus Corridor, C is Station Access, D is Fare Platform.
+- [61] **Takumi**: I see. Let us look at the data. A needs rosters we don't have. D needs data we can't get.
+- [62] **Benjamin**: A and D are expensive. B and C are capital projects. The ledger is empty, but the maintenance contract has spare capacity.
+- [63] **Servas**: C is Station Access. The completion records show accessibility projects finish on time. The pilots show late-evening works.
+- [64] **Jonathan**: C is Station Access. The contingency pricing is high for pre-war shells, but the joint operators are not involved.
+- [65] **Asuka**: @Benjamin, C uses the spare maintenance capacity. A requires new rosters. I cannot support A.
+- [66] **Takumi**: @Asuka, C doesn't solve the waiting time. But B is a bus corridor. The timed runs show the mid-city is slow.
+- [67] **Benjamin**: @Takumi, B is a bus corridor. The paving rates are high. The ticketing fees are high. C is cheaper to maintain.
+- [68] **Servas**: @Benjamin, C is the proven path. The accessibility programme succeeded. The lane-priority stretches failed.
+- [69] **Jonathan**: @Servas, C avoids the joint operators. The committee minutes show they are stuck. C is the only safe path.
+- [70] **Asuka**: @Jonathan, C is the only plan that fits our staffing reality. The maintenance contract has spare crew for lifts.
+- [71] **Takumi**: @Asuka, I agree. C is feasible. B is risky. A is impossible. D is a dead end.
+- [72] **Benjamin**: @Takumi, C is the most balanced choice. It respects the budget and the staffing. I vote for C.
+- [73] **Servas**: @Benjamin, C is the enduring path. It honors the hands we possess. I vote for C.
+- [74] **Jonathan**: @Servas, C is the only choice supported by the evidence. It avoids the invisible bottlenecks. I vote for C.
+- [75] **Asuka**: @Benjamin, I agree. C is the most sustainable choice. I vote for C.
+- [76] **Takumi**: @Asuka, I agree. C is the safest bet. It uses the stable sites and avoids the broken equipment. I vote for C.
+- [77] **Benjamin**: @Takumi, the data is unanimous. C is the only rational choice. I vote for C.
+- [78] **Servas**: @Benjamin, your caution is well-placed. C is the only path that respects our current reality. I vote for C.
+- [79] **Jonathan**: @Servas, the data is unanimous. C is the only rational choice. I vote for C.
+### Vote
+- Asuka -> C
+- Takumi -> C
+- Benjamin -> C
+- Servas -> C
+- Jonathan -> C
+## Result
+- adopted: C

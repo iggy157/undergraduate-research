@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the numbers to the human element.
+- [6] **Sakura**: I wonder if the grant money actually buys the same things now?
+- [7] **Daisuke**: I... I think we should check what happened to past awards.
+- [8] **Takumi**: Why do we always hear about delays only after the money is gone?
+- [9] **Minako**: The infrastructure supporting these projects is often the silent bottleneck.
+- [10] **Servas**: @Daisuke, looking back is wise, but we must also see who remains.
+- [11] **Sakura**: @Takumi, delays are scary! I want to know if the money shrinks too.
+- [12] **Daisuke**: @Servas, yes, but I worry our instincts about 'promise' have failed us before.
+- [13] **Takumi**: @Minako, infrastructure? I think the interruptions are more about people and time.
+- [14] **Minako**: @Takumi, interruptions often stem from shared resources being overbooked or failing.
+- [15] **Servas**: The hands that do the work are the true currency here.
+- [16] **Sakura**: I’m going to peek at the ledgers to see where the coins went!
+- [17] **Daisuke**: I will look at the finished awards to see what actually stuck.
+- [18] **Takumi**: I need to see the incident logs. Something is breaking the flow.
+- [19] **Minako**: I will check the facility day rates and the incident logs.
+- [20] **Servas**: Let us see who is truly standing in the field.
+- [21] **Sakura**: I’ll also check the closeout files to see the final tally.
+- [22] **Daisuke**: And the portfolio review of schedule overruns, to see the pattern.
+- [23] **Takumi**: I’ll also look at the staffing rolls for technical posts.
+- [24] **Minako**: I will also look at the accreditation and bookings at shared facilities.
+## Round 2
+- [35] **Servas**: The hands are gone, but the minds are scattered.
+- [36] **Sakura**: @Minako, the ledgers say the bench fees are still covered! That’s good news!
+- [37] **Daisuke**: @Servas, I found that the 'promising' ones often stalled, but the plain ones kept working.
+- [38] **Takumi**: @Minako, the logs show the machines are broken because there’s no one to fix them.
+- [39] **Minako**: @Takumi, yes, the spectroscopy suite was idle for eleven weeks due to a lapsed contract.
+- [40] **Servas**: @Daisuke, that is a hard truth. We must value the steady hands.
+- [41] **Sakura**: @Daisuke, so the plain ones are the real winners? I like that!
+- [42] **Daisuke**: @Sakura, yes, the ones that just kept going were the ones that delivered.
+- [43] **Takumi**: @Servas, the staffing rolls show the technicians left, but the coders are coming.
+- [44] **Minako**: @Servas, the computing agreement covers simulation hours, but the animal units cost more now.
+- [45] **Servas**: We have the code, but we lack the care.
+- [46] **Sakura**: I’m glad the bench fees are safe! I can focus on the science now.
+- [47] **Daisuke**: I’m still worried, but seeing the data helps me feel less alone in this.
+- [48] **Takumi**: We can’t just buy code. We need people who know how to use the tools.
+- [49] **Minako**: The spare capacity in shared services is the real risk, not the grant amount.
+- [50] **Servas**: Let us choose the path that respects the time it takes to grow.
+- [51] **Sakura**: I’m ready to vote! I want to support the one that keeps the lights on.
+- [52] **Daisuke**: I think we should trust the track record over the hype.
+- [53] **Takumi**: I agree. We need to protect the time for the actual work.
+- [54] **Minako**: I will vote for the candidate who accounts for the shared infrastructure load.
+## Round 3
+- [60] **Servas**: @Minako, D seems to rely on the greenhouse crew you mentioned.
+- [61] **Sakura**: @Daisuke, A sounds like a big library! I like the idea of sharing data.
+- [62] **Daisuke**: @Sakura, A is the plain one. It’s just collecting and sharing. It feels safe.
+- [63] **Takumi**: @Minako, B needs the spectroscopy suite. The logs said it was broken for weeks.
+- [64] **Minako**: @Takumi, B is high risk. The shared instrumentation is already strained.
+- [65] **Servas**: @Daisuke, A is steady, but does it need the hands we lost?
+- [66] **Sakura**: @Servas, A needs field sites! I hope the station records are okay.
+- [67] **Daisuke**: @Servas, A is mostly data. It doesn’t need the broken machines.
+- [68] **Takumi**: @Daisuke, A is the only one that won’t get stuck on a broken machine.
+- [69] **Minako**: @Daisuke, A is the most robust. It relies on field sites, not shared labs.
+- [70] **Servas**: The field sites are where the real work happens.
+- [71] **Sakura**: I’m voting for A! It’s like a big, shared puzzle.
+- [72] **Daisuke**: I’m voting for A. It’s the one that actually finished before.
+- [73] **Takumi**: I’m voting for A. It avoids the infrastructure traps we just found.
+- [74] **Minako**: I’m voting for A. It minimizes dependence on the strained shared services.
+- [75] **Servas**: We choose the path that honors the steady hands.
+- [76] **Sakura**: Yay! A wins! I can’t wait to see the data!
+- [77] **Daisuke**: I’m glad we chose the safe one. It feels right.
+- [78] **Takumi**: Good. We protected the time for the science.
+- [79] **Minako**: A is the only choice that respects the current state of our facilities.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

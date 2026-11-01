@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: Hey everyone! I’m really excited to get this started. I just want to make sure whatever we pick actually works on the depot floor, not just in the office.
+- [6] **Mizuki**: Kenji, the floor is critical, but I’m worried about the long-term financial bleed. We need to see the full lifecycle cost, not just the sticker price.
+- [7] **Asuka**: I agree with Mizuki. But I’m more concerned about operational clarity. Who is actually accountable when the system fails? We need defined ownership, not just cost projections.
+- [8] **Rin**: I think we should check if the new system will break like the old ones did! I want to see the upgrade history of the dispatch tool.
+- [9] **Servas**: I hear your worries. Let us look at the administrator retirements and hiring times. We must know who remains to guide us through this change.
+- [10] **Kenji**: @Rin, that dispatch tool history sounds super important! I’m also curious about the yard devices from the 2021 trial. Do they still work?
+- [11] **Mizuki**: @Kenji, the yard devices are a distraction. I need to trace the five years of renewal invoices to expose the hidden costs you’re ignoring.
+- [12] **Asuka**: @Mizuki, invoices show past, not future risk. I need to know who owns support during outages. That defines accountability.
+- [13] **Rin**: @Asuka, I agree! If nobody owns the fix, it stays broken. I’ll check the support ownership during last winter’s outage.
+- [14] **Servas**: @Asuka, accountability is vital, yet it rests on people. I will examine the depot supervisors and the last rollout to see how they fared.
+- [15] **Kenji**: @Mizuki, I get the cost worry, but if the yard gear fails, we lose money faster! I’m checking the yard devices and the depot calendar.
+- [16] **Mizuki**: @Kenji, hardware failure is a symptom, not the root cause. I will examine the five years of renewal invoices and the board minutes on capital requests.
+- [17] **Asuka**: @Rin, your support check is essential. I will examine the warehouse rule changes and the depot calendar to see how plans drift from reality.
+- [18] **Rin**: @Kenji, I’m checking the upgrade history of the dispatch tool and the data lift from the 2018 pay move!
+- [19] **Servas**: @Kenji, the calendar matters, but the people behind it matter more. I will look into the administrator retirements and the depot supervisors.
+- [20] **Kenji**: @Servas, I totally agree! People are key. I’m checking the yard devices and the depot calendar to see if our gear can handle the peak season rush.
+- [21] **Mizuki**: @Kenji, your focus is narrow. I will examine the five years of renewal invoices and the board minutes on capital requests to expose the true financial burden.
+- [22] **Asuka**: @Mizuki, I will examine the warehouse rule changes and the depot calendar. I need to see how quickly our plans drift from reality.
+- [23] **Rin**: I’m checking the upgrade history of the dispatch tool and the data lift from the 2018 pay move!
+- [24] **Servas**: I will examine the administrator retirements and the depot supervisors. We must understand the human cost of this transition.
+## Round 2
+- [35] **Kenji**: @Mizuki, this is bad! No freeze window in winter means we can’t stop. The 2021 trial failed fast. We need a system that survives peak season chaos.
+- [36] **Mizuki**: @Kenji, your urgency is noted, but the data is damning. Capital gets cut, yet operating costs pass unchecked. We are funding endless renewals, not solutions.
+- [37] **Asuka**: @Rin, my findings confirm the drift. Rules were rewritten twice, and the frozen scope failed. We are walking into the same operational chaos again.
+- [38] **Rin**: @Asuka, that sounds scary! But my findings are worse. We skipped upgrades for years, and the 2018 data lift was a total mess. We need a system that doesn’t age quietly!
+- [39] **Servas**: @Rin, your findings echo my fears. Two key administrators leave, and supervisors ignore new routines. We must choose a vendor who invests in our people, not just software.
+- [40] **Kenji**: @Rin, skipping upgrades is terrifying! @Servas, if people ignore routines, the best software fails. We need a vendor who trains our depot crews properly.
+- [41] **Mizuki**: @Kenji, training is a line item, not a solution. The board ignores capital cuts but approves recurring fees. We are buying a subscription to failure, not a fix.
+- [42] **Asuka**: @Mizuki, cost is a symptom. The root is structural: no freeze window, shifting rules. We need a vendor who enforces stability, not just cheap renewals.
+- [43] **Rin**: @Mizuki, I agree! If we just pay rent, the system rots. We need a vendor who fixes the mess, not just bills us for it!
+- [44] **Servas**: @Mizuki, the ledger is cold, but people are warm. We must ensure the vendor respects the human rhythm, not just the financial one.
+- [45] **Kenji**: @Asuka, stability is key! But if the yard scanners are ancient, no software helps. We need hardware that actually works during the winter rush.
+- [46] **Mizuki**: @Kenji, hardware is a capital request, which the board has already rejected. You are asking for money that will never be approved.
+- [47] **Asuka**: @Kenji, hardware is secondary. If the process is unstable, new scanners just fail faster. We need a vendor who guarantees process integrity, not just better tools.
+- [48] **Rin**: @Kenji, you’re right! Old scanners break. But if the software is messy, new scanners just get confused. We need both to work together!
+- [49] **Servas**: @Kenji, hardware serves the hand, but the hand must know its purpose. We must ensure the vendor teaches our crews, not just installs their tools.
+- [50] **Kenji**: @Rin, exactly! We need a vendor who fixes the whole mess, not just the software. I’m ready to vote for whoever keeps our yards running!
+- [51] **Mizuki**: @Kenji, I am ready. We must vote for the vendor whose contract structure prevents the recurring fees from becoming our permanent financial cage.
+- [52] **Asuka**: @Mizuki, I am ready. I will vote for the vendor that enforces clear ownership and prevents scope drift. We cannot afford another year of chaos.
+- [53] **Rin**: I’m ready! I’ll vote for the vendor who stops the quiet aging and fixes the messy handoffs. No more broken stuff!
+- [54] **Servas**: I am ready. I will vote for the vendor who sees our people as partners, not obstacles. Let us choose wisely.
+## Round 3
+- [60] **Kenji**: @Rin, Anchor looks perfect! They have engineers on-site for rollout. That means they’ll fix our yard gear and train crews during the winter rush.
+- [61] **Mizuki**: @Kenji, on-site engineers are a capital expense the board will reject. I need a vendor whose contract structure stops the recurring fees from becoming our permanent financial cage.
+- [62] **Asuka**: @Mizuki, I reject that framing. Anchor’s on-site team enforces the stability we lack. Their presence prevents the scope drift that doomed our last project.
+- [63] **Rin**: @Kenji, I love Anchor! But wait, if they use our old servers, won’t it just age quietly again? I need them to fix the messy handoffs, not just sit there!
+- [64] **Servas**: @Rin, your caution is wise. Anchor’s engineers stay, but our people must learn. I worry if they leave, our thin team cannot sustain the knowledge.
+- [65] **Kenji**: @Servas, that’s a fair worry! But their engineers stay through the whole rollout. They’ll teach us everything before they leave. We won’t be left alone!
+- [66] **Mizuki**: @Kenji, presence is temporary. I need a contract that prevents the recurring fees from becoming our permanent financial cage.
+- [67] **Asuka**: @Mizuki, presence is temporary, but the process remains. Anchor’s on-site team enforces the stability we lack. Their presence prevents the scope drift that doomed our last project.
+- [68] **Rin**: @Mizuki, I get the money worry! But Anchor’s team fixes the messy handoffs. They won’t let the system rot like the old one.
+- [69] **Servas**: @Mizuki, the cage is real, yet so is the void left by departing administrators. Anchor’s presence bridges that gap, teaching our remaining staff before the engineers depart.
+- [70] **Kenji**: @Mizuki, I hear you! But if the system crashes during peak season, we lose way more than fees. Anchor’s engineers keep us running.
+- [71] **Mizuki**: @Kenji, a crash is a symptom of the structural rot I documented. I will vote for Tessera, whose subscription model aligns with the operating budget the board actually approves.
+- [72] **Asuka**: @Mizuki, Tessera’s partner model is exactly the ambiguity I fear. Who is accountable when the workflow fails? I cannot vote for undefined ownership.
+- [73] **Rin**: @Mizuki, Tessera’s partner firm is just another outside team! Remember the 2018 mess? I won’t risk another broken handoff. I’m voting for Anchor!
+- [74] **Servas**: @Mizuki, I understand the budget, but Tessera’s partner model leaves our people adrift. I vote for Anchor, whose engineers stay to teach our remaining staff.
+- [75] **Kenji**: @Mizuki, I hear you, but Anchor’s engineers keep us running during the rush. I’m voting for Anchor to save our yards!
+- [76] **Mizuki**: @Kenji, I am voting for Tessera. Its subscription model aligns with the operating budget the board actually approves, preventing the capital rejection trap.
+- [77] **Asuka**: I vote for Anchor. Their on-site team enforces the stability and clear ownership we lack. We cannot afford another year of undefined accountability.
+- [78] **Rin**: I’m voting for Anchor! Their engineers fix the messy handoffs and stop the quiet aging. No more broken stuff!
+- [79] **Servas**: I vote for Anchor. Their engineers stay to teach our remaining staff, bridging the gap left by departing administrators.
+### Vote
+- Kenji -> C
+- Mizuki -> A
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

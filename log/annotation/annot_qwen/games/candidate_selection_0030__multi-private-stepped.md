@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I worry about who does the extra work when things go wrong.
+- [6] **Jonathan**: I am concerned about promises made without checking external dependencies.
+- [7] **George**: I need to know where the actual money comes from before we commit.
+- [8] **May**: I am tired of guessing what went wrong with our past projects.
+- [9] **Midori**: I feel we ignore the small, daily frustrations that pile up.
+- [10] **Minato**: @May, do you think looking at past outcomes helps us see the strain?
+- [11] **Jonathan**: @George, does the budget cover the risk of external delays?
+- [12] **George**: @Jonathan, the budget is a number, but the source is the issue.
+- [13] **May**: @Minato, yes, patterns in past failures show where the strain breaks.
+- [14] **Midori**: @Minato, I agree. The strain is often invisible until it is too late.
+- [15] **Minato**: I will look at how we handle vendor queries and past rollouts.
+- [16] **Jonathan**: I will check network coverage and in-house developer availability.
+- [17] **George**: I will investigate the capital budget and the last three rollouts.
+- [18] **May**: I will look into the last three rollouts and cross-unit standardization.
+- [19] **Midori**: I will look into time lost to copying records and misrouted deliveries.
+- [20] **Minato**: I hope we find a way to protect the people doing the work.
+- [21] **Jonathan**: I hope we stop promising what we cannot control.
+- [22] **George**: I hope we stop pretending the money is free.
+- [23] **May**: I hope we stop repeating the same mistakes.
+- [24] **Midori**: I hope we see the real cost of our daily habits.
+## Round 2
+- [35] **Minato**: I found that two clerks handle all vendor queries and repeat the same requests.
+- [36] **Jonathan**: I found that half the customer plants lose network coverage for whole afternoons.
+- [37] **George**: The capital line is frozen, but the software allowance still has room after cancellations.
+- [38] **May**: I found that the last three rollouts died because nobody owned the daily entry.
+- [39] **Midori**: I found that copying records and misrouted deliveries eat hours every single week.
+- [40] **Minato**: @May, does that mean the people doing the entry are the ones who suffer?
+- [41] **Jonathan**: @George, if the software allowance is open, can we buy better coverage tools?
+- [42] **George**: @Jonathan, yes, but only if we do not touch the frozen capital line.
+- [43] **May**: @Minato, exactly. The entry work is invisible until it stops, and then the project dies.
+- [44] **Midori**: @Minato, yes. The hours lost to copying are the same hours that could fix the routing.
+- [45] **Minato**: I think we need a proposal that fixes the daily entry and the routing.
+- [46] **Jonathan**: I think we need a proposal that checks the network before we promise a date.
+- [47] **George**: I think we need a proposal that fits inside the software allowance, not the capital line.
+- [48] **May**: I think we need a proposal that names the owner of the daily entry from day one.
+- [49] **Midori**: I think we need a proposal that stops the copying and the misrouting at the same time.
+- [50] **Minato**: I am worried that if we do not name the owner, the work will just fall on someone else.
+- [51] **Jonathan**: I am worried that if we do not check the network, we will promise a date we cannot keep.
+- [52] **George**: I am worried that if we do not stay inside the software allowance, the bill will arrive next year.
+- [53] **May**: I am worried that if we do not name the owner, we will just repeat the last three failures.
+- [54] **Midori**: I am worried that if we do not stop the copying, we will keep losing the hours that could fix the routing.
+## Round 3
+- [60] **Minato**: Option C seems to stop the copying and the repeated vendor queries I found.
+- [61] **Jonathan**: Option D seems to address the network gaps and the undocumented interfaces I found.
+- [62] **George**: Option C fits the software allowance, but I worry about the capital cost of the repository.
+- [63] **May**: Option C names the owner of the daily entry, which is what the last three rollouts lacked.
+- [64] **Midori**: Option C stops the copying and the misrouting at the same time, which is what I found.
+- [65] **Minato**: @George, if the repository is just a catalog, does it stay inside the software allowance?
+- [66] **Jonathan**: @George, if the repository is just a catalog, does it stay inside the software allowance?
+- [67] **George**: @Minato, @Jonathan, yes, if we do not build a new server, just a shared catalog.
+- [68] **May**: @George, that is the key. A shared catalog with a named owner, not a new server.
+- [69] **Midori**: @George, that is the key. A shared catalog with a named owner, not a new server.
+- [70] **Minato**: I think Option C is the one that protects the people doing the daily work.
+- [71] **Jonathan**: I think Option C is the one that stops us from promising what we cannot control.
+- [72] **George**: I think Option C is the one that stays inside the software allowance and does not touch the capital line.
+- [73] **May**: I think Option C is the one that names the owner of the daily entry from day one.
+- [74] **Midori**: I think Option C is the one that stops the copying and the misrouting at the same time.
+- [75] **Minato**: I am ready to vote for Option C.
+- [76] **Jonathan**: I am ready to vote for Option C.
+- [77] **George**: I am ready to vote for Option C.
+- [78] **May**: I am ready to vote for Option C.
+- [79] **Midori**: I am ready to vote for Option C.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

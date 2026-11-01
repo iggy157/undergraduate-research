@@ -1,0 +1,73 @@
+# shared_living_0012__multi-private (shared_living)
+
+## Round 1
+- [5] **Kenji**: I’m worried about how we’ll talk to each other after this. Let’s check the station block’s minutes and the residents’ meeting statements to see how they handled their mess.
+- [6] **Shizue**: I’m curious about the daily rhythm. I’ll check the truck arrival time and the ward complaint log to see what actually bothers people most.
+- [7] **Asuka**: I will examine the ward filing requirements and the block ledger. We need to verify the actual administrative burden and financial equity before agreeing to anything.
+- [8] **Rin**: I want to see if the spot is actually fair! I’ll check the measurements of the five frontages and the ward complaint log. Let’s see who’s really stuck with the mess!
+- [9] **Servas**: I am concerned about the true cost to each of our five households. I will examine the ward subsidy and the block ledger to understand our actual financial burden.
+- [10] **Kenji**: @Shizue, knowing the truck time helps, but I’m more worried about the silence between us. How do we keep talking after the decision?
+- [11] **Shizue**: @Kenji, I understand your worry. But if we know exactly when the truck comes, we can plan our mornings better. Let’s see what the log says first.
+- [12] **Asuka**: @Kenji, silence is a symptom of unclear rules. I need to verify if the ledger hides unequal burdens. I will examine the ward filing requirements and the block ledger.
+- [13] **Rin**: @Kenji, talking is great, but I want to know if the spot is actually fair! I’ll check the measurements of the five frontages and the ward complaint log.
+- [14] **Servas**: @Kenji, I hear your concern. But we must first understand the financial reality. I will examine the ward subsidy and the block ledger to see our true burden.
+- [15] **Kenji**: @Asuka, rules are good, but they don’t fix broken friendships. I’m checking the station block’s minutes and the residents’ meeting statements to see how they kept talking after the fight.
+- [16] **Shizue**: @Kenji, I understand your worry. But knowing the truck time helps us plan our mornings. I’ll check the truck arrival time and the ward complaint log.
+- [17] **Asuka**: @Kenji, relationships matter, but I need to know the hours. I’m checking the filing rules and frontage measurements to see the actual workload.
+- [18] **Rin**: @Kenji, I get it! But I need to know if the spot is actually fair! I’ll check the measurements of the five frontages and the ward complaint log.
+- [19] **Servas**: @Kenji, I understand your worry. But we must first understand the financial reality. I will examine the ward subsidy and the block ledger to see our true burden.
+- [20] **Kenji**: I’m checking the station block’s minutes and the residents’ meeting statements. I need to see how they kept talking after the fight.
+- [21] **Shizue**: I’ll check the truck arrival time and the ward complaint log. Let’s see what actually bothers people most.
+- [22] **Asuka**: I will examine the ward filing requirements and the block ledger. I need to verify the actual administrative hours and financial equity before we commit.
+- [23] **Rin**: I’m checking the measurements of the five frontages and the ward complaint log. I need to see who’s really stuck with the mess!
+- [24] **Servas**: I will examine the ward subsidy and the block ledger. We must understand our true financial burden before agreeing to anything.
+## Round 2
+- [35] **Kenji**: @Shizue, the station block is still fighting over a broken latch! And nobody wants to be the enforcer. We need a system that doesn’t force us to police each other.
+- [36] **Shizue**: @Kenji, I see. The truck comes before we wake, and one household filed most complaints. We must find a rhythm that respects everyone’s morning.
+- [37] **Asuka**: @Shizue, the clerk says permanent builds need four months and five signatures. The ledger shows thirty-four thousand yen yearly on open bags. We must quantify the actual hours this takes.
+- [38] **Rin**: @Shizue, eleven complaints from one house? That’s not fair! I found the narrowest frontage is only ninety centimetres. We can’t just leave it there!
+- [39] **Servas**: @Asuka, thirty-four thousand yen yearly is a real burden. @Rin, ninety centimetres is a trap. We must ensure the new plan distributes the actual workload fairly, not just the cost.
+- [40] **Kenji**: @Rin, ninety centimetres is a nightmare! But the real danger is us stopping talking. We need a spot that lets us still knock on each other’s doors.
+- [41] **Shizue**: @Rin, I hear your frustration. But the truck comes before we wake. We need a spot that keeps the morning quiet for everyone, not just the loudest voice.
+- [42] **Asuka**: @Rin, ninety centimetres is a trap. The ledger proves the current setup fails. We must ensure the new plan distributes the actual workload fairly, not just the cost.
+- [43] **Rin**: @Asuka, exactly! If one house has the mess at their gate, they’re stuck with the smell and the noise. I want a plan where everyone shares the burden equally!
+- [44] **Servas**: @Rin, I agree. But fairness is not just about space; it is about the ledger. We must ensure the costs do not fall hardest on those with the least room.
+- [45] **Kenji**: @Asuka, four months of paperwork sounds exhausting. But if we can’t talk without fighting, the new spot is just a new place to resent each other.
+- [46] **Shizue**: @Kenji, I understand. But if the truck comes before we wake, we need a spot that keeps the morning quiet for everyone. Let’s find a rhythm that respects our sleep.
+- [47] **Asuka**: @Kenji, four months is a trap. The ledger shows thirty-four thousand yen wasted on open bags. We need a system that minimizes the actual hours we spend maintaining it.
+- [48] **Rin**: @Kenji, I get it! But if we just move the mess, the same house might get stuck again. I want a plan where nobody is the permanent victim!
+- [49] **Servas**: @Kenji, I understand your worry. But we must first understand the financial reality. I will examine the ward subsidy and the block ledger to see our true burden.
+- [50] **Kenji**: @Servas, I hear you on the money. But if we can’t talk without fighting, the new spot is just a new place to resent each other. Let’s keep the doors open.
+- [51] **Shizue**: @Kenji, I agree. A quiet morning is peace. Let’s find a spot where we can still smile at each other, not just avoid the mess.
+- [52] **Asuka**: @Kenji, I agree. But we must quantify the hours. I will examine the ward filing requirements and the block ledger to verify the actual administrative burden.
+- [53] **Rin**: @Kenji, I agree! But we need to make sure the new spot doesn’t just move the unfairness. I want a plan where everyone shares the burden equally!
+- [54] **Servas**: @Kenji, I agree. But we must first understand the financial reality. I will examine the ward subsidy and the block ledger to see our true burden.
+## Round 3
+- [60] **Kenji**: @Rin, Option B moves the mess around, but it forces us to interact constantly. That’s exactly what we can’t afford. Option A keeps us apart, which is safer for our peace.
+- [61] **Shizue**: @Kenji, I worry Option A’s four-month wait leaves us stuck in the current mess. Option C’s narrow window might protect our quiet mornings better.
+- [62] **Asuka**: @Shizue, Option A’s four-month wait is unacceptable. Option C’s oversight rotation quantifies the actual hours. I reject A’s administrative burden.
+- [63] **Rin**: @Kenji, Option B is perfect! It moves the mess so nobody is stuck forever. I want to see who actually takes the burden!
+- [64] **Servas**: @Asuka, the ledger shows thirty-four thousand yen wasted yearly. Option C’s narrow window prevents open bags, saving us that cost. I support C.
+- [65] **Kenji**: @Rin, moving it around means constant friction. Option C’s turns let us check in without policing. I vote C to keep our doors open.
+- [66] **Shizue**: @Kenji, I agree. Option C’s narrow window keeps the morning quiet for everyone. It respects our sleep and prevents the smell from lingering. I vote C.
+- [67] **Asuka**: @Kenji, Option C’s rotation quantifies the actual hours. It prevents the open-bag waste and avoids A’s four-month trap. I vote C to ensure sustainable workload.
+- [68] **Rin**: @Kenji, Option B is the only fair choice! If the mess moves, nobody is the permanent victim. I vote B to share the burden equally!
+- [69] **Servas**: @Rin, I understand your desire for fairness. But Option C’s narrow window stops the thirty-four thousand yen waste. I vote C to protect our shared budget.
+- [70] **Kenji**: @Rin, I hear you on fairness. But Option B’s constant moving creates friction. Option C’s turns let us check in without policing. I vote C to keep our doors open.
+- [71] **Shizue**: @Rin, I understand your worry about fairness. But Option C’s narrow window keeps the morning quiet for everyone. It respects our sleep and prevents the smell from lingering. I vote C.
+- [72] **Asuka**: @Rin, Option B’s constant moving creates friction. Option C’s rotation quantifies the actual hours. It prevents the open-bag waste and avoids A’s four-month trap. I vote C to ensure sustainable workload.
+- [73] **Rin**: @Asuka, but Option C keeps the mess at the same gate! That’s not fair! I want the burden to move so nobody is stuck. I vote B!
+- [74] **Servas**: @Rin, I hear your frustration. But Option C’s narrow window stops the thirty-four thousand yen waste. I vote C to protect our shared budget.
+- [75] **Kenji**: @Rin, I hear you. But Option C’s turns let us check in without policing. I vote C to keep our doors open.
+- [76] **Shizue**: @Rin, I understand your frustration. But Option C’s narrow window keeps the morning quiet for everyone. It respects our sleep and prevents the smell from lingering. I vote C.
+- [77] **Asuka**: @Rin, Option B’s constant moving creates friction. Option C’s rotation quantifies the actual hours. It prevents the open-bag waste and avoids A’s four-month trap. I vote C to ensure sustainable workload.
+- [78] **Rin**: @Asuka, but Option C keeps the mess at the same gate! That’s not fair! I want the burden to move so nobody is stuck. I vote B!
+- [79] **Servas**: @Rin, I understand your need for fairness. But Option C’s narrow window stops the thirty-four thousand yen waste. I vote C to protect our shared budget.
+### Vote
+- Kenji -> C
+- Shizue -> C
+- Asuka -> C
+- Rin -> B
+- Servas -> C
+## Result
+- adopted: C

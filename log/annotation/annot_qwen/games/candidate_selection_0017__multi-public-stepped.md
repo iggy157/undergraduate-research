@@ -1,0 +1,73 @@
+# candidate_selection_0017__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to verify staffing capacity before committing to any new service hours.
+- [6] **Takumi**: Complaints are loud, but data is quiet. Let's check where time actually goes.
+- [7] **Benjamin**: I am wary of headline totals. I want to see the long-term cost commitments.
+- [8] **Servas**: History repeats itself. I will look for records of what failed before.
+- [9] **Jonathan**: I need to know who else must approve this and what the ground hides.
+- [10] **Asuka**: @Benjamin, if the crews are thin, your budget is just a promise.
+- [11] **Takumi**: @Asuka, agreed. But we also need to know if the crowds are real.
+- [12] **Benjamin**: @Takumi, the ledger will tell us if we can afford the truth.
+- [13] **Servas**: @Jonathan, the ground often hides more than the drawings show.
+- [14] **Jonathan**: @Servas, exactly. I will check the committee minutes and the old shells.
+- [15] **Asuka**: I will check the roster books and the maintenance contracts.
+- [16] **Takumi**: I will look at the timed runs and the journey audits.
+- [17] **Benjamin**: I will examine the capital ledger and the ticketing fees.
+- [18] **Servas**: I will read the two pilots from eight years ago and the accessibility records.
+- [19] **Jonathan**: I will review the joint operators' minutes and the contingency pricing.
+- [20] **Asuka**: Let's see what the paper says before we argue about it.
+- [21] **Takumi**: Facts first. Then we decide.
+- [22] **Benjamin**: Agreed. The numbers do not lie, even if the people do.
+- [23] **Servas**: Wisdom is in the past. Let us look.
+- [24] **Jonathan**: Quietly, I will find the hidden blockers.
+## Round 2
+- [35] **Asuka**: The late-turn pool is empty. Overtime is covering everything. We cannot extend hours.
+- [36] **Takumi**: @Asuka, the data shows mid-city runs are slower, but platforms clear fast.
+- [37] **Benjamin**: @Asuka, the capital ledger is ring-fenced. We have no new money for operations.
+- [38] **Servas**: @Takumi, the late-evening pilot eight years ago actually made money.
+- [39] **Jonathan**: @Benjamin, the ferry and rail data terms are still broken. Integration is a myth.
+- [40] **Asuka**: @Servas, that pilot was small. We have no spare crews for a full extension.
+- [41] **Takumi**: @Asuka, if connections are the bottleneck, fixing the mid-city corridor helps everyone.
+- [42] **Benjamin**: @Jonathan, if the data isn't shared, a fare platform is just expensive software.
+- [43] **Servas**: @Benjamin, the accessibility works finished on time. The bus lanes failed.
+- [44] **Jonathan**: @Servas, the pre-war shells are a trap. Bidders are pricing in weeks of delay.
+- [45] **Asuka**: @Takumi, the bus corridor needs roadway crews. They are a third below establishment.
+- [46] **Takumi**: @Asuka, but the journey audits say waiting is the problem, not the bus speed.
+- [47] **Benjamin**: @Asuka, the ticketing fees are eating the paving budget. We can't afford both.
+- [48] **Servas**: @Benjamin, the lift maintenance contract has spare capacity. That is a good sign.
+- [49] **Jonathan**: @Servas, but the station access upgrades hit the pre-war shells. That is where the delays are.
+- [50] **Asuka**: We have no crews for night service or bus lanes. Station access is the only viable option.
+- [51] **Takumi**: @Asuka, I agree. The mid-city bus is a trap. Station access fixes the connection wait.
+- [52] **Benjamin**: @Asuka, the capital ledger is tight, but the lift contract has slack. It is the safest bet.
+- [53] **Servas**: @Benjamin, the history supports it. The accessibility works succeeded. The bus lanes did not.
+- [54] **Jonathan**: @Servas, I am wary of the shells, but the data terms for fares are broken. Access is best.
+## Round 3
+- [60] **Asuka**: Option C is the only one that doesn't require crews we don't have.
+- [61] **Takumi**: @Asuka, correct. The journey audits prove the wait is at the stations, not the machines.
+- [62] **Benjamin**: @Asuka, the capital ledger is tight, but the lift contract has spare capacity. C is affordable.
+- [63] **Servas**: @Benjamin, the history is clear. Accessibility works succeeded. Bus lanes failed.
+- [64] **Jonathan**: @Servas, I am still worried about the pre-war shells, but D is impossible without data terms.
+- [65] **Asuka**: @Jonathan, the contingency pricing is high, but the lift contract slack offsets it.
+- [66] **Takumi**: @Asuka, I vote C. It fixes the actual time loss.
+- [67] **Benjamin**: @Takumi, I agree. C is the logical choice given the budget constraints.
+- [68] **Servas**: @Benjamin, I concur. The past tells us C is the reliable path.
+- [69] **Jonathan**: @Servas, I will vote C, despite the ground risks. It is the least bad option.
+- [70] **Asuka**: We are aligned. C is the only plan that respects our staffing reality.
+- [71] **Takumi**: @Asuka, yes. Let's stop fixing the noise and fix the wait.
+- [72] **Benjamin**: @Asuka, the numbers support C. Let's proceed.
+- [73] **Servas**: @Benjamin, wisdom and data agree. C it is.
+- [74] **Jonathan**: @Servas, quiet agreement. C is the way.
+- [75] **Asuka**: Final check. No objections?
+- [76] **Takumi**: None.
+- [77] **Benjamin**: None.
+- [78] **Servas**: None.
+- [79] **Jonathan**: None.
+### Vote
+- Asuka -> C
+- Takumi -> C
+- Benjamin -> C
+- Servas -> C
+- Jonathan -> C
+## Result
+- adopted: C

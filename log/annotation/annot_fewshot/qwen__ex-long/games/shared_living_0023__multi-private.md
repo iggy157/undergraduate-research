@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private (shared_living)
+
+## Round 1
+- [5] **Victoria**: I need to understand the financial reality before we move a single desk. I will examine the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [6] **Minato**: I’m curious about how the room actually feels. I’ll check the sound meter readings and the physio's note from the workstation check.
+- [7] **May**: I’m worried about the time cost! I’ll check the morning routine on the pilot floor and the unplanned seat shuffles to see what they actually steal from our days.
+- [8] **Shunichi**: I’m less interested in comfort or cost. I want to see the drawn plan against the staff survey and what this year's two joiners reported. Let’s see if the layout matches reality.
+- [9] **Daisuke**: I’m worried about who we actually talk to. I’ll check the unplanned seat shuffles and what the two joiners reported.
+- [10] **Victoria**: @Minato, comfort is valid, but I need to know if the budget can even support the changes you’re hoping for.
+- [11] **Minato**: @Victoria, I understand the budget worries. But if my body hurts, I can’t focus on the work. I hope the numbers allow for a comfortable spot.
+- [12] **May**: @Victoria, I hear you! But if the move eats my morning gaps, the budget is irrelevant. I need to know the actual time cost before we commit.
+- [13] **Shunichi**: @May, time is a symptom. The real issue is who gets the good seats by default. I’m checking the survey to see if the layout actually matches what people need.
+- [14] **Daisuke**: @Shunichi, I agree. The layout shapes who we talk to. I’m checking the shuffles to see if we can fix that now.
+- [15] **Victoria**: @May, time is real, but money is the constraint. I need to know if the re-run costs will break the department's billing model before we discuss schedules.
+- [16] **Minato**: @May, I understand the worry about time. But if the chair hurts, the hours feel even longer. I hope we can find a spot that is kind to my body.
+- [17] **May**: @Minato, I get the pain! But if the move drags on, I lose my gaps. I need speed, not just comfort.
+- [18] **Shunichi**: @Minato, comfort is a luxury. The real problem is that nobody admits who gets the worse end. I’m checking the survey to see if the layout actually matches what people need.
+- [19] **Daisuke**: @Shunichi, I agree. If we don't name who sits where, the furniture decides for us. I’m checking the shuffles to see what that actually costs us.
+- [20] **Victoria**: I will examine the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [21] **Minato**: I’ll check the sound meter readings and the physio's note from the workstation check. I want to know what my body actually needs.
+- [22] **May**: I’ll check the morning routine on the pilot floor and the unplanned seat shuffles. I need to know exactly what time we lose during the move.
+- [23] **Shunichi**: I will examine the drawn plan against the staff survey and what this year's two joiners reported. We need to see if the layout actually matches reality.
+- [24] **Daisuke**: I’ll check the unplanned seat shuffles and what the two joiners reported. I need to see if the layout actually shapes who we talk to.
+## Round 2
+- [35] **Victoria**: @Minato, the billing is by area, not heads. We pay for empty desks. @May, every move costs 6,200 yen. We must minimize changes to protect the budget.
+- [36] **Minato**: @Victoria, nine decibels is a lot! The window side is much quieter. Also, my chair needs days to settle. I hope we can keep my spot stable.
+- [37] **May**: @Victoria, nine minutes per person is a disaster for my gaps! And the shuffles dragged on for two weeks. We need a plan that is fast and stable.
+- [38] **Shunichi**: @May, the survey is damning. Daylight was the top complaint, yet the plan locks three desks in the dark. We must explicitly assign those interior-wall seats.
+- [39] **Daisuke**: @Shunichi, the joiners learned by overhearing. If we sit apart, we lose that. I’m checking if the shuffles actually changed who we talk to.
+- [40] **Victoria**: @Minato, stability is good, but every move costs 6,200 yen. We must limit changes to protect the budget.
+- [41] **Minato**: @Victoria, I understand the cost. But if I move, my chair needs days to settle again. I hope we can keep my spot stable so my body can rest.
+- [42] **May**: @Victoria, nine minutes is too long! If we pre-label cables and ports, can we cut that to two? I need my gaps back before the move starts.
+- [43] **Shunichi**: @May, speed is a luxury. The survey proves daylight is the top complaint. We must explicitly assign the three interior-wall seats to prevent hidden resentment.
+- [44] **Daisuke**: @May, I agree. Pre-labeling helps. But the shuffles took two weeks. We need to know if that chaos actually changed who we talk to.
+- [45] **Victoria**: @May, pre-labeling saves time, not the 6,200 yen per move. We must limit changes to protect the budget.
+- [46] **Minato**: @May, I understand the rush. But my body needs time to adjust. If we move too fast, I might get hurt. I hope we can be gentle.
+- [47] **May**: @Minato, I hear you! But if we don't move fast, I lose my gaps. I need speed to protect my schedule, not just comfort.
+- [48] **Shunichi**: @Minato, comfort is a luxury. The survey proves daylight is the top complaint. We must explicitly assign the three interior-wall seats to prevent hidden resentment.
+- [49] **Daisuke**: @Minato, I hear you. But if we don't sit where we can talk, we lose the team. I need to know if the layout actually helps us connect.
+- [50] **Victoria**: I will examine the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [51] **Minato**: I’ll check the sound meter readings and the physio's note. I want to know what my body actually needs to stay comfortable.
+- [52] **May**: I’ll check the morning routine on the pilot floor and the unplanned seat shuffles. I need to know exactly what time we lose during the move.
+- [53] **Shunichi**: I will examine the drawn plan against the staff survey and what this year's two joiners reported. We need to see if the layout actually matches reality.
+- [54] **Daisuke**: I’ll check the unplanned seat shuffles and what the two joiners reported. I need to see if the layout actually shapes who we talk to.
+## Round 3
+- [60] **Victoria**: @Minato, Option B triggers the 6,200 yen fee every rotation. That is financially unsustainable. I am voting C to protect the budget.
+- [61] **Minato**: @Victoria, I’m worried about Option C. If I take a new desk every day, my chair never settles. I hope we can keep my spot stable.
+- [62] **May**: @Victoria, Option C is chaos! I need a fixed spot to protect my gaps. Can we pre-label cables for Option A to make it fast?
+- [63] **Shunichi**: @May, Option A is the only one that lets us name the interior-wall seats. We must explicitly assign who carries the worse end, not let habit decide.
+- [64] **Daisuke**: @Shunichi, I agree. But if we lock in by function, we might sit apart. I need to know if Option A actually helps us talk more.
+- [65] **Victoria**: @May, Option A is the only choice that avoids the 6,200 yen per move. Stability protects the budget. I am voting A.
+- [66] **Minato**: @Victoria, I understand the budget. But Option C means my chair never settles. I hope we can keep my spot stable so my body can rest.
+- [67] **May**: @Victoria, Option A is my only hope! If we pre-label cables, I save my gaps. Can we do that without extra cost?
+- [68] **Shunichi**: @May, pre-labeling is free, but Option A is the only choice that avoids the 6,200 yen per move. Stability protects the budget.
+- [69] **Daisuke**: @May, I agree. Pre-labeling is free. But if we sit apart, we lose the team. I need to know if Option A actually helps us talk more.
+- [70] **Victoria**: @Daisuke, Option A groups by function, not by proximity. We may sit apart, but the budget demands stability. I am voting A.
+- [71] **Minato**: @Daisuke, I understand the worry about talking. But if I move, my body hurts. I hope Option A lets me keep my quiet spot.
+- [72] **May**: @Daisuke, I hear you! But Option B means moving desks, which costs money and steals my gaps. I need stability. I am voting A!
+- [73] **Shunichi**: @Daisuke, Option A is the only one that lets us name the interior-wall seats. We must explicitly assign who carries the worse end, not let habit decide.
+- [74] **Daisuke**: @Shunichi, I agree. But if we sit apart, we lose the team. I’m voting A, hoping we can still talk.
+- [75] **Victoria**: I stand by my vote for A. It is the only option that avoids the 6,200 yen per move. Stability protects the budget.
+- [76] **Minato**: I am voting for Option A. It keeps my spot stable so my chair can finally settle. I hope the quiet window side is mine.
+- [77] **May**: I am voting for Option A! Pre-labeling cables makes it fast, and a fixed spot protects my precious morning gaps.
+- [78] **Shunichi**: I am voting for Option A. It is the only choice that lets us explicitly name the interior-wall seats. We must decide who carries the worse end, not let habit decide.
+- [79] **Daisuke**: I am voting for Option A. It is stable, but I worry we will sit apart. I hope we can still talk to each other.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

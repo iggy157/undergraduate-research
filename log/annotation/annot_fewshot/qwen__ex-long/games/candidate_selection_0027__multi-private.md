@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: I worry the plans assume crews that don’t exist. We must verify who is actually available before promising anything.
+- [6] **Takumi**: I refuse to repeat past mistakes. We must check the completion records of the earlier accessibility programme to see what actually happened.
+- [7] **Toshio**: I suspect the delays hide in approvals, not drawings. I will examine the joint operators' committee minutes to see who else must consent.
+- [8] **Daisuke**: I worry the numbers hide the real cost. I will look into the ticketing contractor fees and paving rates to see what we truly commit to.
+- [9] **Sakura**: Ooh, I bet the stopwatch tells a different story than the complaints! I’ll check the journey audits to see where minutes actually go.
+- [10] **Victoria**: @Takumi, your caution is wise. But I need to know who is actually on the roster. I will examine the roster books for the late-turn pool.
+- [11] **Takumi**: @Victoria, I respect your focus on people. But I need to know if the money is actually there. I will examine the balances in the capital ledger.
+- [12] **Toshio**: @Victoria, your focus on the roster is vital. I will examine the contingency pricing inside the pre-war shells to see what the ground might hide.
+- [13] **Daisuke**: I’m still unsure. I’ll look into the crew establishment and maintenance contract to see who is actually responsible for the work.
+- [14] **Sakura**: @Daisuke, I’m curious about the people too! I’ll check the two pilots from eight years ago to see if they actually worked.
+- [15] **Victoria**: @Sakura, your curiosity is welcome. I will also examine the two pilots from eight years ago to see if they actually delivered.
+- [16] **Takumi**: @Sakura, I agree. Those pilots are our only honest witnesses. I will stick with my two choices: the capital ledger and the accessibility completion records.
+- [17] **Toshio**: @Takumi, I agree. The pilots are our only honest witnesses. I will stick with my two choices: the committee minutes and the contingency pricing.
+- [18] **Daisuke**: I’ll stick with my two choices: the ticketing fees and the crew establishment. I need to see the real, long-term commitments.
+- [19] **Sakura**: @Victoria, I’m so glad we’re checking the pilots together! I’ll stick with my two choices: the journey audits and the pilots. Let’s see the truth!
+- [20] **Victoria**: I will stick with my two choices: the roster books and the pilots. I need to know if the hands are truly there.
+- [21] **Takumi**: I will stick with my two choices: the capital ledger and the accessibility completion records. The past is the only honest witness.
+- [22] **Toshio**: I will stick with my two choices: the committee minutes and the contingency pricing. The ground and the approvals will reveal the true risks.
+- [23] **Daisuke**: I’ll stick with my two choices: the ticketing fees and the crew establishment. I need to see the real, long-term commitments.
+- [24] **Sakura**: I’m ready to see the truth! I’ll stick with my two choices: the journey audits and the pilots. Let’s find out where the minutes really hide!
+## Round 2
+- [35] **Victoria**: The late-turn pool is hollow. Overtime covers everything. The pilots succeeded, but only because they were small. We cannot scale that success.
+- [36] **Takumi**: The ledger is a trap. The old grant is frozen, and the operating subsidy is gone. We cannot build on empty promises.
+- [37] **Toshio**: The minutes reveal a data deadlock between ferry and rail. The shells hide voids that stop work for weeks. We must avoid both traps.
+- [38] **Daisuke**: The ticketing fees exceed our resurfacing budget. The crews are a third below strength. We are committing to costs we cannot sustain.
+- [39] **Sakura**: Wow! The stopwatch says waiting is the real thief, not the ticket machines! And the pilots worked perfectly! We should trust the data, not the noise!
+- [40] **Victoria**: @Takumi, your ledger warning is critical. But if the crews are hollow, even funded plans fail. We must prioritize work the existing rosters can actually absorb.
+- [41] **Takumi**: @Victoria, you’re right. The money is frozen, but the crews are the real bottleneck. We must pick a plan that doesn’t break the people we have.
+- [42] **Toshio**: @Victoria, the data deadlock is structural. We must avoid any plan requiring ferry-rail integration. The shell voids are equally dangerous.
+- [43] **Daisuke**: @Toshio, I agree. The data deadlock is a trap. But the hollow crews are the immediate danger. We must avoid plans needing extra hands.
+- [44] **Sakura**: @Daisuke, I agree! But my stopwatch says waiting is the real thief. We must fix the connections, not just the machines. Let’s trust the data!
+- [45] **Victoria**: @Sakura, waiting is a symptom. The cause is the hollow rosters. We must choose a plan that fits the hands we actually have, not the ones we wish for.
+- [46] **Takumi**: @Sakura, the stopwatch is useful, but the past is the judge. My records show lane-priority failed. We must avoid repeating that mistake.
+- [47] **Toshio**: @Takumi, the past is a warning, not a map. My data shows the shells and the data deadlock are the true killers. We must avoid both.
+- [48] **Daisuke**: @Sakura, I hear you. But if the crews are hollow, fixing connections is impossible. We must choose a plan that fits the hands we actually have.
+- [49] **Sakura**: @Victoria, I hear you! But the stopwatch proves waiting is the pain. If we fix connections, the hollow rosters might actually breathe easier. Let’s trust the data!
+- [50] **Victoria**: @Sakura, I hear your hope, but the rosters are empty. We cannot fix connections with no one to run them. We must choose a plan that respects the hollow hands we have.
+- [51] **Takumi**: @Victoria, I agree. The past proves we cannot trust grand promises. We must pick a plan that works with the hollow rosters and the frozen money.
+- [52] **Toshio**: @Takumi, I concur. The past is a warning. We must select a plan that bypasses the shell voids and the data deadlock. The ground and the approvals will decide.
+- [53] **Daisuke**: @Takumi, I agree. The past is a warning. We must pick a plan that respects the frozen money and the hollow crews. I cannot support another empty promise.
+- [54] **Sakura**: @Takumi, I agree! The past is a warning. But my stopwatch says waiting is the real thief. We must fix the connections, not just the machines. Let’s trust the data!
+## Round 3
+- [60] **Victoria**: @Takumi, the hollow rosters make B impossible. We cannot extend hours with no one left to run them. We must choose a plan that fits the hands we actually have.
+- [61] **Takumi**: @Victoria, you’re right. B is a trap. But C is the only path the past supports. The accessibility records prove station upgrades actually finish.
+- [62] **Toshio**: @Takumi, C is a trap. My data shows the pre-war shells hide voids that stop work for weeks. We must avoid the ground that lies.
+- [63] **Daisuke**: @Toshio, I agree. C is risky. But D is a trap. My data shows ticketing fees already exceed our resurfacing budget. We cannot afford another long-term commitment.
+- [64] **Sakura**: @Toshio, I hear you! But my stopwatch says waiting is the real thief. A fixes the connections, not the ground. Let’s trust the data!
+- [65] **Victoria**: @Sakura, A is the only plan that respects the hollow rosters. It uses existing crews, not new ones. We must choose the path that fits the hands we actually have.
+- [66] **Takumi**: @Sakura, I respect your data, but the past is the judge. My records show lane-priority failed. A repeats that mistake. We must not build on broken ground.
+- [67] **Toshio**: @Takumi, the past is a warning, not a map. A avoids the shell voids and the data deadlock. It is the only path that respects the ground and the approvals.
+- [68] **Daisuke**: @Takumi, I hear your caution. But D is the true trap. My data shows the fees are already unsustainable. We cannot add another long-term burden to our hollow crews.
+- [69] **Sakura**: @Takumi, the pilots prove small fixes work! A is just a small fix for the waiting thief. Let’s trust the stopwatch, not the old mistakes!
+- [70] **Victoria**: @Takumi, the pilots prove small, contained fixes succeed. A is exactly that. It avoids the hollow rosters and the shell voids. We must choose the path that actually works.
+- [71] **Takumi**: @Victoria, I stand corrected. The pilots prove small fixes work. A is contained, unlike the failed lane-priority. I accept the data. I vote for A.
+- [72] **Toshio**: @Takumi, I concur. A bypasses the shell voids and the data deadlock. It is the only path that respects the ground and the approvals. I vote for A.
+- [73] **Daisuke**: @Takumi, I agree. A avoids the long-term fee traps and the hollow crew risks. It is the only path that respects our true limits. I vote for A.
+- [74] **Sakura**: @Takumi, I’m so happy you agree! The stopwatch proved waiting is the thief, and A fixes exactly that. I vote for A!
+- [75] **Victoria**: @Takumi, I concur. A respects the hollow rosters and the proven pilot data. It is the only path that fits our true limits. I vote for A.
+- [76] **Takumi**: @Victoria, I stand by my vote. A is the only path that respects the past and the present. I vote for A.
+- [77] **Toshio**: @Victoria, I confirm. A bypasses the structural traps I identified. The ground and the approvals are safe. I vote for A.
+- [78] **Daisuke**: @Victoria, I confirm. A respects the frozen money and the hollow crews. It is the only path that does not trap us in endless fees. I vote for A.
+- [79] **Sakura**: @Victoria, I’m so happy we all agree! A fixes the waiting thief and respects our limits. I vote for A!
+### Vote
+- Victoria -> A
+- Takumi -> A
+- Toshio -> A
+- Daisuke -> A
+- Sakura -> A
+## Result
+- adopted: A

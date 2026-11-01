@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the numbers. Who actually holds the skills to execute this work?
+- [6] **Sakura**: Ooh, skills are super important! But I’m curious about the money. Who pays for the fancy equipment now?
+- [7] **Daisuke**: I’m a bit unsure. Maybe we should check what past projects actually finished? I worry about relying on just promises.
+- [8] **Takumi**: I’m worried about delays! Why do projects always stall? I want to know where the real bottlenecks are hiding.
+- [9] **Minako**: Shared infrastructure is the silent bottleneck. I need to verify if the facilities can actually absorb this new load without failing.
+- [10] **Servas**: Sakura, your caution on costs is wise. Yet without skilled hands, even perfect funding is just paper. Let us ensure the people are truly there.
+- [11] **Sakura**: Thank you, Servas! I’ll check the travel and bench-fee lines in the ledgers to see where the real costs are hiding.
+- [12] **Daisuke**: I agree with Servas. I’ll look into the closeout files of finished awards to see what actually delivered.
+- [13] **Takumi**: I’m checking the portfolio review of schedule overruns and incident logs on shared instrumentation. I need to find where the work actually breaks down!
+- [14] **Minako**: I will examine the accreditation and bookings at shared facilities, plus the incident logs on shared instrumentation.
+- [15] **Servas**: I will examine the staffing rolls for technical posts and the minutes on secondments to see who remains.
+- [16] **Sakura**: I’ll also check the national computing agreement and facility day rates! I want to see if the agency still covers those big costs.
+- [17] **Daisuke**: I’ll also review the national repository deposit turnaround. I want to see if the final steps actually happen on time.
+- [18] **Takumi**: I’ll stick with my two choices. I need to see exactly where the schedule breaks and what equipment fails. No more surprises!
+- [19] **Minako**: I’ll stick with my two choices. I need to see if the shared facilities are truly ready for this new load.
+- [20] **Servas**: Let us trust the process. The data will reveal the truth of our capacity. I look forward to our findings.
+- [21] **Sakura**: I’m excited to see what the numbers say! Let’s find out if the grant is really shrinking. I’ll review my findings before we vote!
+- [22] **Daisuke**: I’ll stick with my two choices. The past is the only honest witness. I will review my findings before we vote.
+- [23] **Takumi**: I’m ready. The data will show exactly where the work stalls. No more guessing!
+- [24] **Minako**: I will review my findings before we vote. The data will confirm whether our shared infrastructure can sustain this new demand.
+## Round 2
+- [35] **Servas**: The technicians are gone, but the glasshouse crew remains. We have the hands, yet the minds are abroad.
+- [36] **Sakura**: Wow! Computing is free now, but animal costs spiked! And shipping went up. I’m so confused by all these changes!
+- [37] **Daisuke**: The closeout files show catalogue work endures, while mechanism studies stall. The repository is finally fast. I trust the evidence over instinct.
+- [38] **Takumi**: The spectroscopy suite was dead for eleven weeks! One engineer for three institutes? That’s a disaster. We can’t trust that equipment to hold up!
+- [39] **Minako**: The animal facility is stable, but the spectroscopy suite’s eleven-week lapse is a critical failure. We cannot rely on shared infrastructure that is already breaking.
+- [40] **Servas**: Sakura, your cost shifts are vital. Yet if the minds are abroad, even free computing is useless. We must fund the hands that remain.
+- [41] **Sakura**: Thank you, Servas! But if animal costs spike, even the best hands struggle. We must balance the budget with the staffing reality.
+- [42] **Daisuke**: I agree, Servas. The closeout data shows mechanism studies often stall. We should favor candidates with robust, non-biological workflows to avoid those delays.
+- [43] **Takumi**: @Daisuke, exactly! My data proves biology-heavy projects stall twice as often. We must pick candidates with robust, computational workflows to avoid those delays.
+- [44] **Minako**: @Takumi, I concur. The spectroscopy lapse confirms the risk. We must avoid candidates dependent on that fragile, under-staffed shared equipment.
+- [45] **Servas**: Daisuke, your caution is profound. We must value the hands that remain. The glasshouse crew is our true foundation, not the absent minds.
+- [46] **Sakura**: @Servas, I agree! The glasshouse crew is our real strength. Let’s pick a project that uses those stable hands, not the broken machines!
+- [47] **Daisuke**: @Servas, I agree. The glasshouse crew is stable. We should choose work that relies on those enduring hands, not fragile equipment.
+- [48] **Takumi**: @Servas, I agree. The glasshouse crew is solid. We need a project that uses those stable hands, not the broken spectroscopy suite. Let’s pick the safe path!
+- [49] **Minako**: @Servas, I agree. The glasshouse crew is our only reliable asset. We must select a candidate that leverages this stable capacity, avoiding the broken spectroscopy suite entirely.
+- [50] **Servas**: Midori, your caution is vital. We must ensure the budget supports the crew that actually remains, not the ghosts of departed technicians.
+- [51] **Sakura**: @Servas, I agree! We must support the crew that’s actually here. Let’s pick the project that fits our real budget and stable hands!
+- [52] **Daisuke**: @Servas, I agree. We must support the crew that is actually here. Let’s pick the project that fits our real budget and stable hands!
+- [53] **Takumi**: @Servas, agreed. We must back the crew that’s actually here. Let’s pick the project that fits our real budget and stable hands!
+- [54] **Minako**: @Servas, I agree. We must fund the work that fits our current reality. Let us choose the candidate that respects the stable glasshouse capacity and avoids the broken spectroscopy suite.
+## Round 3
+- [60] **Servas**: @Sakura, the soil work needs the glasshouse crew we have. The spectroscopy suite is broken, so B is impossible. Let us choose the enduring foundation.
+- [61] **Sakura**: @Servas, I agree! B needs the broken suite. A uses the soil sites we have. Let’s pick A!
+- [62] **Daisuke**: @Servas, I agree. The closeout data shows catalogue work endures. A fits that pattern perfectly. I vote for A.
+- [63] **Takumi**: @Servas, exactly! B is a trap with that broken suite. A uses the stable soil sites. No delays, no surprises. I vote for A!
+- [64] **Minako**: @Servas, I agree. A leverages the stable glasshouse capacity and avoids the broken spectroscopy suite. It is the only choice that respects our current infrastructure reality.
+- [65] **Servas**: @Minako, your prudence is sound. A honors the hands we possess and the evidence we hold. I vote for A.
+- [66] **Sakura**: @Servas, I agree! A is the safest bet. It uses the stable sites and avoids the broken equipment. I vote for A!
+- [67] **Daisuke**: @Servas, I agree. A is the only choice supported by the evidence of sustained utility. I vote for A.
+- [68] **Takumi**: @Servas, agreed. A is the only path that respects the data. I vote for A.
+- [69] **Minako**: @Servas, I concur. A is the only candidate that respects our infrastructure limits. I vote for A.
+- [70] **Servas**: @All, our consensus is complete. A honors the enduring foundation of our glasshouse crew. Let us proceed with confidence and clarity.
+- [71] **Sakura**: @Servas, I’m so happy we all agree! A is the perfect choice. It’s safe and uses our stable crew. I vote for A!
+- [72] **Daisuke**: @Servas, I agree. The evidence is clear. A is the only choice that endures. I vote for A.
+- [73] **Takumi**: @Servas, I confirm my vote for A. The data is clear. No broken equipment, no delays. Let’s move forward!
+- [74] **Minako**: @Servas, I confirm my vote for A. It is the only candidate that respects our infrastructure limits. Let us proceed.
+- [75] **Servas**: @All, the vote is unanimous. A is selected. It honors the hands we possess and the evidence we hold. Let us proceed with confidence.
+- [76] **Sakura**: @Servas, I’m so happy! A is the winner! It’s safe, uses our stable crew, and fits our budget. I vote for A!
+- [77] **Daisuke**: @Servas, I confirm my vote for A. The closeout files show it endures. I trust the evidence over instinct. Let us proceed.
+- [78] **Takumi**: @Servas, I confirm my vote for A. The data is clear. No broken equipment, no delays. Let’s move forward!
+- [79] **Minako**: @Servas, I confirm my vote for A. It is the only candidate that respects our infrastructure limits. Let us proceed.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

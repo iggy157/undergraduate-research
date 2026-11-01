@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: Hi everyone! I’m really excited to dig into these proposals. I just worry about relying on things outside our control, like weather or suppliers.
+- [6] **Benjamin**: I appreciate the optimism, Yumi. I’m more concerned we’re ignoring the data from similar past attempts. We shouldn’t reinvent the wheel blindly.
+- [7] **Shion**: I’m watching how you all frame this. We keep adding tasks without checking if the staff actually have the skills to handle them.
+- [8] **Minako**: I focus on how funding is structured. A budget that looks fine at the vote often collapses by year two.
+- [9] **Daisuke**: I’m a bit nervous, but I think we should check how our building locations and opening times affect who can actually reach us.
+- [10] **Yumi**: @Benjamin, that’s a great point! I’d love to see those past records. @Shion, do you have specific skill gaps in mind?
+- [11] **Benjamin**: @Yumi, I’ll pull the records. @Shion, I suspect the gap is supervision, not just technical skill.
+- [12] **Shion**: @Benjamin, supervision is just one layer. I need to verify if the roster actually holds the technical certifications required for these new roles.
+- [13] **Minako**: @Benjamin, I agree. I need to see the grant terms and endowment rules to understand the long-term financial shape.
+- [14] **Daisuke**: @Minako, that makes sense. I’m still worried about access, though. Do you think the funding structure affects where we can physically place services?
+- [15] **Yumi**: @Daisuke, that’s a really important question! I’m hoping the data will show us if we can keep services stable even when conditions get tricky.
+- [16] **Benjamin**: @Daisuke, placement is a physical constraint, but funding dictates what we can sustain there. I’ll check the grant terms to see if that flexibility exists.
+- [17] **Shion**: @Benjamin, checking the grant terms is fine, but it misses the operational reality. I need to verify the actual skill sets on the roster before we commit to anything.
+- [18] **Minako**: @Shion, valid point. I’ll check the county grant terms and the endowment to see how the funding is actually shaped over time.
+- [19] **Daisuke**: @Minako, I think so. If the money runs out, we can’t keep the doors open for people who can’t travel.
+- [20] **Yumi**: @Minako, I’m choosing to look into the winter road closures and the supplier delivery windows. I need to know how much our schedule depends on things we can’t control!
+- [21] **Benjamin**: I’ll examine the two programmes begun six years ago and the volunteer register. I need to see what actually survived and who is qualified to run it.
+- [22] **Shion**: I’ll check the volunteer register and the tool certification records. I need to know exactly who is qualified to supervise these new commitments.
+- [23] **Minako**: I’ll look into the county grant terms and the endowment. I need to see how the funding is actually shaped over time.
+- [24] **Daisuke**: I’ll check the bus links in the outer wards and the evening room bookings. I need to see who is actually cut off from us.
+## Round 2
+- [35] **Yumi**: @Benjamin, the scanning contractors slip when big clients book first, but bench tools ship fast! That’s a huge relief for our timeline worries.
+- [36] **Benjamin**: @Yumi, interesting. My records show the digitisation project stalled, but the partner groups thrived. I’m checking who actually supervises them now.
+- [37] **Shion**: @Benjamin, the technician who kept the power tools certified retired in spring. No one on the payroll is trained to supervise outside facilitators.
+- [38] **Minako**: @Shion, that confirms the skill gap. @Benjamin, the grant only covers twelve months, then the flat budget takes over. That’s the structural weakness I see.
+- [39] **Daisuke**: @Minako, the bus links are gone. Residents face an hour’s round trip. @Yumi, evening bookings are full, but remote use peaks after lock-up.
+- [40] **Yumi**: @Daisuke, that’s heartbreaking! But @Benjamin, since the partner groups survived, maybe we can lean on them? I’m worried about relying on fragile supply chains.
+- [41] **Benjamin**: @Yumi, the partner groups survived because they were self-sustaining, not because we managed them. We lack the supervision skills to replicate that success.
+- [42] **Shion**: @Benjamin, exactly. The associations train their own people, but we lack the certified supervisor to manage them. We can’t just assume the roster is ready.
+- [43] **Minako**: @Benjamin, that aligns with my findings. The grant covers sessions for a year, then the flat budget absorbs them. That structural shift is where the strain begins.
+- [44] **Daisuke**: @Minako, that timing gap is terrifying. If the money runs out, we can’t keep the doors open for people who can’t travel.
+- [45] **Yumi**: @Daisuke, that’s so sad! But @Benjamin, since the partner groups survived, maybe we can lean on them? I’m worried about relying on fragile supply chains.
+- [46] **Benjamin**: @Yumi, leaning on them is risky. They survived because they were independent, not because we managed them. We lack the supervision skills to replicate that success.
+- [47] **Shion**: @Benjamin, you’re right. The associations are self-sufficient, but we lack the certified supervisor to manage them. We can’t just assume the roster is ready.
+- [48] **Minako**: @Daisuke, the vehicle line overran by a third, while equipment came in under. That mismatch signals where the flat budget will actually strain.
+- [49] **Daisuke**: @Minako, that overrun is worrying. But the bus loss is the real barrier. People can’t reach us if the roads are closed or the links are gone.
+- [50] **Yumi**: @Minako, that vehicle overrun is scary! But @Daisuke, if the halls kept their timetables despite the closures, maybe we can find a stable, local anchor for our services?
+- [51] **Benjamin**: @Yumi, the halls survived because they were local. A mobile unit faces the same winter closures. We’d be importing the problem, not solving it.
+- [52] **Shion**: @Benjamin, the associations already staff their own sessions. We don’t need to supervise them; we need to stop assuming our roster can handle new technical roles.
+- [53] **Minako**: @Benjamin, the vehicle overrun confirms the flat budget will strain on recurring costs. We must avoid proposals that rely on capital items the endowment can’t sustain.
+- [54] **Daisuke**: @Benjamin, I hear you. But if the halls stayed open, maybe we can partner with them? I’m worried about adding more strain to our already stretched staff.
+## Round 3
+- [60] **Yumi**: @Benjamin, the scanning delays scare me! But @Daisuke, the halls stayed open in winter. Maybe we can partner with them to reach people without relying on fragile supply chains?
+- [61] **Benjamin**: @Yumi, the archive failed because we tried to manage it centrally. The partner groups succeeded because they were independent. We should follow the model that actually worked.
+- [62] **Shion**: @Benjamin, the archive failed due to central management. The associations succeeded because they are self-sufficient. We lack the certified supervisors to manage new external facilitators.
+- [63] **Minako**: @Benjamin, the grant covers sessions for twelve months, then the flat budget absorbs them. That structural shift is where the strain begins.
+- [64] **Daisuke**: @Benjamin, I agree. The bus loss is the real barrier. A mobile unit faces the same winter closures. We’d be importing the problem, not solving it.
+- [65] **Yumi**: @Benjamin, I love that the partner groups worked! But @Shion, if we lack supervisors, how do we safely start new circles? I’m worried about the skill gap.
+- [66] **Benjamin**: @Yumi, the circles rely on partner organizations to provide the trained facilitators. We don’t need to supervise them; we just need to coordinate. That’s the model that survived.
+- [67] **Shion**: @Benjamin, coordination is still a commitment. If the partner facilitators fail, who absorbs the gap? We have no trained backup on the roster to step in.
+- [68] **Minako**: @Shion, valid concern. But the grant covers session fees for twelve months. The flat budget then carries them. We must ensure the recurring cost fits the long-term structure, not just the initial grant.
+- [69] **Daisuke**: @Benjamin, I worry about the physical reach. If we rely on partners, do they actually travel to the outer wards where the bus links are gone?
+- [70] **Yumi**: @Daisuke, that’s a great point! If partners can’t reach the outer wards, we’re stuck. @Minako, does the grant cover travel costs for them?
+- [71] **Benjamin**: @Daisuke, the partner groups already meet in local venues. We don’t need to travel; we just need to coordinate. That solves the access problem without adding vehicle costs.
+- [72] **Shion**: @Benjamin, coordination is still a commitment. If the partner facilitators fail, who absorbs the gap? We have no trained backup on the roster to step in.
+- [73] **Minako**: @Benjamin, coordination is cheaper than vehicles, but the flat budget still absorbs the recurring fees. We must verify the long-term cost fits our structure.
+- [74] **Daisuke**: @Benjamin, that helps. But if they meet locally, do they actually reach the outer wards where the bus links are gone?
+- [75] **Yumi**: @Benjamin, I’m leaning toward the Language Circles! The partner model feels stable, and it avoids the winter road risks. @Daisuke, do you think they can reach the outer wards?
+- [76] **Benjamin**: @Yumi, the records show they met in local venues, not our branches. If they don’t cover the outer wards, we haven’t solved the access gap.
+- [77] **Shion**: @Benjamin, you’re right. If they don’t cover the outer wards, we haven’t solved the access gap. I vote for C, but only if we verify the partner coverage first.
+- [78] **Minako**: @Shion, I agree. The recurring fees must fit the flat budget. I vote for C, provided the partner coverage is verified.
+- [79] **Daisuke**: @Benjamin, I’m still worried. If they don’t reach the outer wards, we haven’t solved the access gap. I vote for C, but only if coverage is verified.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

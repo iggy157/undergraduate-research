@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I’m a bit nervous about starting, but I want to understand why past projects stalled. Who else feels the ownership gap is our biggest risk?
+- [6] **Ryuji**: Midori, ownership gaps matter, but I’m more concerned about operational continuity. The depot floor doesn’t pause for software migrations. We need to prioritize real-world workflow compatibility first.
+- [7] **May**: @Ryuji, continuity is key, but don’t ignore the tech debt. We can’t just patch over aging systems forever. Who else sees that risk?
+- [8] **Misaki**: I worry about the people holding this together. If we stretch them thin during the switch, the whole thing collapses.
+- [9] **Benjamin**: I appreciate the passion, but I’m watching the invoice trail. Who else is curious why our last renewal cost double the original quote?
+- [10] **Midori**: @Benjamin, that cost jump is alarming. I’m worried about hidden fees. @May, how do we ensure the new plan stays realistic for our team?
+- [11] **Ryuji**: @May, tech debt is real, but if the yard devices fail during peak season, we lose freight. I need to verify the 2021 scheduling trial results first.
+- [12] **May**: @Ryuji, fair point. But if the dispatch tool keeps aging, we’re just delaying the inevitable. I’m checking the upgrade history to see if it’s salvageable.
+- [13] **Misaki**: @Ryuji, I agree. If the yard devices fail, the crews are stuck. I need to see how the last rollout affected the depot supervisors.
+- [14] **Benjamin**: @Midori, hidden fees are just the tip of the iceberg. I’m digging into the board minutes to see how capital requests are actually approved versus refused.
+- [15] **Midori**: @Benjamin, that sounds serious. I’m worried about who actually owns the system when things break. I’ll check the support ownership during the last winter’s outage.
+- [16] **Ryuji**: @Misaki, the supervisors’ experience is critical. I’m focusing on the depot calendar and peak-season cutover to ensure the timeline matches our actual operational reality.
+- [17] **May**: @Misaki, I’m looking at the data lift from the 2018 pay move. If that migration was messy, the new one will be too.
+- [18] **Misaki**: @May, the data lift is important, but I’m more worried about the people. I’ll look into the administrator retirements and hiring times to see if we have enough staff.
+- [19] **Benjamin**: @May, if the 2018 data lift was messy, the new one will be too. I’m checking the five years of renewal invoices to see where the money actually went.
+- [20] **Midori**: @Benjamin, I hope the invoices reveal the truth. I’m also checking the warehouse rule changes to see if our processes drifted from the original plan.
+- [21] **Ryuji**: @Midori, process drift is a symptom, not the cause. I’m checking the yard devices and the 2021 scheduling trial to see if our hardware can actually handle the new load.
+- [22] **May**: @Benjamin, I’m checking the upgrade history of the dispatch tool. If it’s been neglected, that’s a red flag for the whole system.
+- [23] **Misaki**: I’ll check the administrator retirements and hiring times. We need to know if we have enough people to handle the transition without burning out.
+- [24] **Benjamin**: I’ll review the board minutes on capital requests and the five years of renewal invoices. Let’s see if the budget matches the reality.
+## Round 2
+- [35] **Midori**: @Benjamin, the winter outage was unowned for two days. @May, the warehouse rules changed twice, proving our initial plan was unrealistic.
+- [36] **Ryuji**: @Midori, the calendar confirms no freeze window. The 2021 trial failed because hardware couldn’t keep up. We need a vendor that works with our current yard devices, not against them.
+- [37] **May**: @Ryuji, the dispatch tool skipped three upgrades. It’s rotting. @Benjamin, the 2018 data lift was a disaster. We need a vendor who actually fixes things, not just patches them.
+- [38] **Misaki**: @Ryuji, the hardware failure is a symptom. The real issue is that two admins are leaving, and the last hiring took eleven months. We are critically understaffed.
+- [39] **Benjamin**: @May, the 2018 lift was a disaster, yes. But look at the invoices: bundled prices stayed flat, while add-ons climbed yearly. We’re buying a subscription to our own neglect.
+- [40] **Midori**: @Benjamin, that add-on creep is terrifying. @Misaki, with two admins leaving, who actually owns the system when it breaks? We need clear accountability.
+- [41] **Ryuji**: @Misaki, understaffing is a constraint, not a solution. @May, if the dispatch tool is rotting, we need a vendor that integrates with our aging yard hardware, not one that demands a full replacement.
+- [42] **May**: @Ryuji, I hear you, but rotting systems demand replacement, not band-aids. @Benjamin, that add-on creep confirms we’re being bled dry. We need a vendor who owns the fix, not the patch.
+- [43] **Misaki**: @Midori, accountability is vital, but we lack the people to enforce it. @Ryuji, if supervisors ignore standard training, we must hire vendors who teach, not just install.
+- [44] **Benjamin**: @May, exactly. The board trims capital but approves operating costs. We’re funding the leak, not the fix. We need a vendor who stops the bleeding, not just the invoice.
+- [45] **Midori**: @Misaki, I agree. We need a vendor who takes full ownership, not just a patch. @Benjamin, does the budget allow for that level of accountability?
+- [46] **Ryuji**: @Midori, accountability is secondary to survival. If the system crashes during peak season, no one cares who is accountable. We need operational resilience first.
+- [47] **May**: @Ryuji, resilience is nice, but rotting systems don’t survive. @Benjamin, that add-on creep proves we’re funding neglect. We need a vendor who actually fixes the root cause, not just the symptom.
+- [48] **Misaki**: @Ryuji, resilience means people. If the supervisors drop the training, the system fails. We need a vendor who stays to teach, not just install.
+- [49] **Benjamin**: @Ryuji, resilience without a budget is just a wish. @May, the board refuses capital but approves operating costs. We need a vendor whose price doesn’t hide the future bleed.
+- [50] **Midori**: @Benjamin, the budget is tight, but clarity is essential. @Ryuji, I agree on resilience, but we must ensure the vendor owns the outcome, not just the installation.
+- [51] **Ryuji**: @Midori, ownership is vital, but only if the system runs. @May, the 2021 trial failed due to hardware limits. We need a vendor compatible with our current yard devices, not one demanding replacement.
+- [52] **May**: @Ryuji, hardware compatibility is a must, but don’t let it trap us in the past. We need a vendor who modernizes the core, not just wraps the old rot.
+- [53] **Misaki**: @May, modernizing the core is fine, but only if the people can keep up. We need a vendor who trains the crews, not just the admins.
+- [54] **Benjamin**: @May, modernization is fine, but only if the price tag doesn’t explode later. I’m done with hidden costs. Let’s see who actually delivers value.
+## Round 3
+- [60] **Midori**: @Benjamin, the winter outage showed scattered support. @Ryuji, hardware compatibility is key. I need a vendor who owns the outcome, not just the installation.
+- [61] **Ryuji**: @Midori, ownership is secondary to uptime. @Benjamin, Anchor’s on-site engineering team is the only option that respects our no-freeze calendar. I’m voting D.
+- [62] **May**: @Ryuji, on-site is nice, but I’m tired of patching rot. @Benjamin, does Anchor’s fixed price actually stop the add-on bleed?
+- [63] **Misaki**: @Ryuji, on-site helps, but if supervisors ignore training, it fails. @May, I worry about the partner firm in B. Who actually teaches the crews?
+- [64] **Benjamin**: @May, Anchor’s on-site team is a capital expense, which the board will likely refuse. I’m voting A for its fixed configuration, avoiding the marketplace bleed.
+- [65] **Midori**: @Benjamin, fixed configuration sounds safe, but does it adapt to our changing rules? @Ryuji, I worry D’s on-site team leaves us stranded later.
+- [66] **Ryuji**: @Midori, the on-site team stays through rollout, not just installation. @Benjamin, capital refusal is a board problem, not a vendor flaw. I stand by D.
+- [67] **May**: @Benjamin, fixed configuration is just a polite way to say "stuck." @Ryuji, on-site is a band-aid. I’m voting B for the marketplace flexibility to actually fix the rot.
+- [68] **Misaki**: @May, flexibility means more to learn. With two admins leaving, we can’t absorb a complex marketplace. I’m voting D for the on-site teaching.
+- [69] **Benjamin**: @May, flexibility is just a fancy word for unpredictable costs. @Ryuji, I respect the hardware logic, but I can’t vote for a capital trap. I stand by A.
+- [70] **Midori**: @Benjamin, I worry A’s fixed setup won’t handle our rule changes. @Ryuji, D’s on-site team feels safest for ownership. I’m voting D.
+- [71] **Ryuji**: @Midori, I agree. The on-site team ensures the system survives our peak season. I stand by D.
+- [72] **May**: @Benjamin, fixed configuration is a trap. @Ryuji, on-site is a band-aid. I’m voting B. The marketplace lets us fix the rot, not just wrap it.
+- [73] **Misaki**: @May, I hear you, but complexity is a burden we cannot carry. @Ryuji, the on-site team is our only hope for proper training. I stand by D.
+- [74] **Benjamin**: @May, the marketplace is where the bleed starts. I stand by A. Its fixed scope protects us from the hidden costs that have haunted us for years.
+- [75] **Midori**: @Benjamin, I understand the cost fear, but the winter outage proved scattered support fails. @Ryuji, D’s on-site team ensures clear ownership. I stand by D.
+- [76] **Ryuji**: @Benjamin, the board’s refusal is a political failure, not a technical one. Anchor’s on-site team is the only way to survive our peak season. I stand by D.
+- [77] **May**: @Benjamin, I’m done with your fear. @Ryuji, on-site is a band-aid. I stand by B. The marketplace is the only way to actually fix the rot.
+- [78] **Misaki**: @Benjamin, I understand the cost fear, but we cannot afford to lose our people. @Ryuji, the on-site team is essential for training. I stand by D.
+- [79] **Benjamin**: @May, fear is just arithmetic. @Ryuji, I respect the hardware logic, but I can’t ignore the ledger. I stand by A.
+### Vote
+- Midori -> D
+- Ryuji -> D
+- May -> B
+- Misaki -> D
+- Benjamin -> A
+## Result
+- adopted: D

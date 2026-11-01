@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so happy we're all chatting about this! Since we have more people now, we should figure out a way to split the bills that feels fair and keeps everyone smiling! What do you think?
+- [6] **Ryuji**: We should be practical. Before we suggest any new methods, we need to understand the actual spending patterns and the costs involved in changing our current system. Let's look at the data first.
+- [7] **Rin**: I agree with Ryuji! Let's find some cool clues first! I want to know if there's a way to make this super easy and fun. What should we check out first?
+- [8] **Shunichi**: Let's be realistic: "fairness" is usually just a word people use until they realize they're paying for someone else's luxury. I want to see the actual numbers before we start dreaming.
+- [9] **Misaki**: I agree with Ryuji and Shunichi. We need a clear, objective picture of the current expenses and how they've been handled before we decide on a new system. Let's start by examining the data.
+- [10] **Mio**: I'm with you! Let's be practical. I want to check the "Payment log for the last twelve months" and "The last twelve utility statements" to see how much we've actually been spending!
+- [11] **Ryuji**: I'll look into "The last twelve utility statements" and the "Electrician's quote for the rooms." I need to know the annual fluctuations in cost and if any upfront investment is required to change the setup.
+- [12] **Rin**: I want to see the "Trial run of a reconciliation template" and "Monthly settle observed at another house"! I bet other houses have secret tricks to make the math super fast and easy!
+- [13] **Shunichi**: I'll check the "Payment log for the last twelve months" and "Settling up when the last rooms filled." I want to see if the current system is actually working or if some of us are just subsidizing others.
+- [14] **Misaki**: I'll check the "Payment log for the last twelve months" and "Settling up when the last rooms filled." I want to see exactly how the payments have been handled and where the friction points are.
+- [15] **Mio**: Since a few of us are checking the same things, we can compare notes later! I'm really curious if the bills have gone up a lot now that we're five people. Does anyone have any ideas already?
+- [16] **Ryuji**: It is too early for ideas. We first need to determine if the costs are seasonal or constant and if the infrastructure allows for individual tracking. Let's wait for the data to avoid making assumptions.
+- [17] **Rin**: @Ryuji, you're always so serious! But I want to know if the other house has a super cool way of doing things! If we find a magic trick for the math, maybe it won't be a chore!
+- [18] **Shunichi**: @Rin, there's no such thing as a "magic trick" for math, just different ways to hide who's getting the short end of the stick. Let's focus on the facts, not fantasies.
+- [19] **Misaki**: @Shunichi, you're right that we need facts. I'm particularly interested in the payment history to see if there have been delays or disputes. Let's wait for the results before we start speculating.
+- [20] **Mio**: Sounds like a plan! I'll stick with my choices and see what the numbers tell us. I can't wait to find out! Let's all do our research and meet back here to share everything!
+- [21] **Ryuji**: I agree. Let's proceed with the research. I will focus on the annual cost trends and the technical feasibility of changing our setup to ensure any new plan is sustainable. I'll see you all in the next round.
+- [22] **Rin**: I'm ready! I'm going to go hunt for those secret tricks right now! I hope the other house has a way to make the bills a total breeze! See you all soon, bye-bye!
+- [23] **Shunichi**: I'll be interested to see if the payment logs reveal any hidden resentments. Let's hope the data is honest, even if the people aren't. See you all in the next round.
+- [24] **Misaki**: I will begin my research now. I want to ensure we have a precise understanding of the payment history and the transition period. I'll see you all in the next round.
+## Round 2
+- [35] **Mio**: Wow, I found some really important stuff! The bills are all over the place—February was almost 30,000 yen, but August was only 9,100! It's a huge difference! Also, some payments were really late because people were confused about the amounts.
+- [36] **Ryuji**: The volatility is significant. The gap between February and August confirms that seasonal fluctuations are a major factor. We cannot rely on a simple average if we want to avoid sudden financial strain during the winter.
+- [37] **Rin**: I found out that the "magic tricks" aren't so magic! The other house spends forty minutes just reading meters and doing math by hand! And that template takes forever because you have to type in every single invoice!
+- [38] **Shunichi**: It seems the "magic" is just manual labor, Rin. As for the logs, they're a disaster. Payments are late and people are questioning the amounts. It's exactly as I suspected: the current system is a breeding ground for resentment.
+- [39] **Misaki**: @Shunichi, you're right. The logs show that payments were delayed multiple times because people were confused or questioned the amounts. It's clear that the current way we handle money is creating tension between us.
+- [40] **Mio**: @Misaki, it's so sad that people were confused! I don't want anyone to feel stressed about money. But look at those winter bills! If February is that high, we really need a plan that doesn't surprise us in the cold!
+- [41] **Ryuji**: @Mio, exactly. The winter spike is the primary risk. Furthermore, I found that installing sub-meters would cost 34,000 yen per room plus annual maintenance. We must consider if such a high upfront cost is justifiable for the sake of precision.
+- [42] **Rin**: @Ryuji, that's so expensive! But the real scary part is the time! If the other house takes forty minutes every month and that template is a total slog, who's going to do all that work? I don't want anyone's whole evening to disappear!
+- [43] **Shunichi**: @Rin, forty minutes is a small price to pay to avoid a house full of people wondering who is paying for whose heater. The real cost is the three weeks we wasted just arguing over the newcomers' shares. We're currently paying for incompetence.
+- [44] **Misaki**: @Shunichi, it wasn't just incompetence; it was a lack of a clear system. The fact that we had to write off part of the cost just to end the argument shows how fragile our current agreement is. We need a method that removes the need for negotiation.
+- [45] **Mio**: @Misaki, that sounds so stressful! I hate the idea of us arguing over money. But @Ryuji, if sub-meters are too expensive, maybe we can just be honest about how we use things? I don't want anyone feeling like they have to freeze just to save money!
+- [46] **Ryuji**: @Mio, honesty is subjective and doesn't solve the financial volatility. We need a system that accounts for the winter spikes without creating a deficit. However, spending over 100,000 yen on sub-meters seems irrational given our current budget.
+- [47] **Rin**: @Ryuji, but if we don't have meters, we're back to that scary math! If the person doing the bills has to spend hours every month answering questions and typing in invoices, they'll get super grumpy! We need a way that's fast!
+- [48] **Shunichi**: @Rin, your obsession with "fast" is just a desire to avoid the inevitable. Whether it takes ten minutes or an hour, the math doesn't change. The real issue is that we're splitting bills based on a ghost agreement from when only three of us lived here.
+- [49] **Misaki**: @Shunichi, exactly. We are clinging to an outdated arrangement that no longer fits our reality. The friction we've seen in the logs isn't just about the math; it's about the lack of a transparent, updated agreement for five people.
+- [50] **Mio**: @Misaki, you're so right! We need a fresh start that everyone agrees on. I just hope we can be open about how we actually use the heating and water, so nobody feels they have to suffer in silence!
+- [51] **Ryuji**: @Mio, openness is not a substitute for a structured plan. We must prioritize a system that is both financially predictable and administratively sustainable. We cannot afford a solution that is either too expensive to implement or too tedious to maintain.
+- [52] **Rin**: @Ryuji, that's exactly what I'm worried about! If the system is too tedious, the person in charge will just get exhausted. Let's make sure we pick something that doesn't turn into a giant chore for one person!
+- [53] **Shunichi**: @Rin, you're worrying about a few minutes of paperwork while the house is practically simmering with silent grudges. Let's stop pretending this is about "chores" and admit it's about who's paying for whom. I'm ready to see the options.
+- [54] **Misaki**: I agree with Shunichi. The delays and the write-offs we've seen are symptoms of a deeper problem. If we don't address the tension caused by these payments now, no amount of "fast math" will fix the atmosphere in this house.
+## Round 3
+- [60] **Mio**: Option A sounds so helpful! If we agree on a set amount for each season, we won't have those scary surprises in February, and nobody will feel pressured to freeze just to keep the bill down!
+- [61] **Ryuji**: Option A is the most rational choice. It addresses the seasonal volatility I found in the statements, ensuring that the winter spikes don't become a sudden financial burden. It provides the predictability we need to budget effectively.
+- [62] **Rin**: Option A sounds okay, but what about the end of the year? If we have to do a giant reconciliation then, won't that be a total nightmare of typing in invoices and math? I'm worried it'll be a huge chore!
+- [63] **Shunichi**: @Rin, you're terrified of a little arithmetic once a year, yet you're fine with the current chaos. Option A just kicks the can down the road. It doesn't solve the core issue: who is actually using the energy?
+- [64] **Misaki**: @Shunichi, you're right that it doesn't track individual usage, but Option A removes the monthly friction. If we stop arguing over every single invoice, we might actually start speaking to each other normally again.
+- [65] **Mio**: @Misaki, exactly! If we stop worrying about the exact yen every month, we can just relax and be friends! Plus, it means we can be honest about needing the heat in winter without feeling guilty!
+- [66] **Ryuji**: @Mio, while friendship is a pleasant byproduct, the primary goal is financial stability. Option B is out of the question; the installation costs I found are far too high to be a reasonable investment for this household.
+- [67] **Rin**: @Ryuji, I agree that B is too expensive! But @Misaki, if we do Option A, who has to do that big year-end math? If it's like that template I saw, it'll take forever! That's not fair to the person doing it!
+- [68] **Shunichi**: @Rin, your fear of a spreadsheet is not a valid reason to maintain a system where people are subsidizing each other. Option C is the only one that is honest about our current situation, even if it's simple.
+- [69] **Misaki**: @Shunichi, Option C is simple, but it's exactly what we're doing now. The logs show that monthly recalculations and queries are where the tension peaks. We need a system that reduces the frequency of these confrontations.
+- [70] **Mio**: @Misaki, you're so right! Option C just keeps us in this cycle of confusion and late payments. I really think Option A is the best because it lets us breathe and feel cozy without the guilt!
+- [71] **Ryuji**: @Shunichi, Option C is a recipe for continued instability. It ignores the seasonal spikes that make winter payments feel like a second rent. Option A is the only choice that provides the predictability necessary for a sustainable budget.
+- [72] **Rin**: @Mio, @Ryuji, I want to be cozy too! But if we do Option A, we have to make sure the year-end math isn't a monster! If we can find a way to make it fast, then I'm for it!
+- [73] **Shunichi**: @Rin, you're still treating this like a game of "how to avoid work." The real monster is the resentment of paying for someone else's luxury. Option A is just a mask; Option C is the only honest, if blunt, approach.
+- [74] **Misaki**: @Shunichi, honesty without a system is just an invitation to argue. Option C is the blunt approach that has already damaged our relationships. Option A prioritizes our peace of mind by minimizing the monthly conflict. I vote for Option A.
+- [75] **Mio**: I'm so glad we're all talking this through! I really want us to feel happy and warm in our home, and Option A is the only one that lets us do that without stress. I vote for Option A!
+- [76] **Ryuji**: Option A is the only logical choice. It eliminates the financial shock of winter spikes and avoids the prohibitive costs of sub-meters. It is the most sustainable and predictable system for our budget. I vote for Option A.
+- [77] **Rin**: @Misaki, @Ryuji, you've convinced me! As long as we all help out with the year-end math so it doesn't swallow one person's whole evening, I'm in! Let's go with the cozy plan! I vote for Option A!
+- [78] **Shunichi**: You're all choosing a comfortable lie over an uncomfortable truth. Option A is just a way to pretend the resentment isn't there until December. But if you're all that desperate for a facade of peace, I'll stop fighting. I vote for Option A.
+- [79] **Misaki**: I agree. While it doesn't solve every individual's usage concern, it stops the monthly cycle of accusations and delays. For the sake of our relationships and a peaceful home, I vote for Option A.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> A
+- Misaki -> A
+## Result
+- adopted: A

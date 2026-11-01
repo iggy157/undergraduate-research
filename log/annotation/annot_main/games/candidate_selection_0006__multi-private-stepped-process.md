@@ -1,0 +1,71 @@
+# candidate_selection_0006__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Hello everyone. I think we should be careful about how these programs are sustained long-term. Could we look into our previous collaborations and current staffing?
+- [6] **Jonathan**: I agree. It would be wise to see if previous trials actually yielded results before we commit to a new direction.
+- [7] **Misaki**: We should also consider the actual burden on the staff. A program is only as good as the people available to run it.
+- [8] **Shion**: Let's be realistic. We often forget that initial funding isn't the same as operational costs. I want to see the actual budget and potential revenue.
+- [9] **Shizue**: It is lovely to see such passion. I only worry if our dear hospital can physically hold more. Perhaps we should check the rooms and booking systems?
+- [10] **Midori**: @Shizue, that's a great point. If we don't have the space, the program will fail regardless of the budget.
+- [11] **Jonathan**: If we divide the data sources, we can cover all these bases efficiently. I'll focus on the outcomes of previous trials.
+- [12] **Misaki**: I will look into the staffing reviews. I want to know who is actually available to take on more work.
+- [13] **Shion**: I'll handle the financial side. I'm interested in the ledger and the regional tariffs to see what we actually earn back.
+- [14] **Shizue**: I shall look into the physical capacity then. I want to make sure our patients and staff aren't too crowded.
+- [15] **Midori**: I'll look into the board minutes and the data agreements. I want to see where our previous joint efforts might have faltered.
+- [16] **Jonathan**: That sounds comprehensive. I'll stick to the readmission figures and the nursing round completion to see what worked.
+- [17] **Misaki**: I'll also check the ward vacancies. It's important to know where the agency cover is highest.
+- [18] **Shion**: Fine. Just ensure you aren't ignoring the cost of those "successful" trials. Efficiency is nothing without solvency.
+- [19] **Shizue**: Let us all be kind to one another as we search. I will check the rooms and the booking system records.
+- [20] **Midori**: I think we have a good plan. Let's gather the information and meet back here.
+- [21] **Jonathan**: Agreed. I look forward to seeing the evidence.
+- [22] **Misaki**: I'll be ready.
+## Round 2
+- [35] **Midori**: I'm worried. I found that our joint clinics often fail because no one wants to take ownership of the budget or the rota.
+- [36] **Jonathan**: I found that the call-back trial actually worked for elderly patients, but the benefits vanished the moment we stopped. We cannot just start and stop.
+- [37] **Misaki**: The staffing situation is precarious. Ward nursing is heavily reliant on agency cover, but the midwifery team actually has some breathing room.
+- [38] **Shion**: The budget is a disaster. It's been cut by a quarter, and we're paying for floor space out of it. We cannot afford anything that doesn't generate revenue.
+- [39] **Shizue**: Oh dear. I've found that our rooms and parking are already quite full. I worry we are trying to fit a large cake into a tiny box.
+- [40] **Midori**: @Shion, if we choose a program that relies on outside bodies, we might save on space, but my findings show those agreements take forever to sign.
+- [41] **Jonathan**: If we ignore the evidence of what works—like the call-backs—we are just guessing. We need a program that is sustainable, not just cheap.
+- [42] **Misaki**: We can't put more pressure on the ward nurses. If we choose a program, it must be one that the midwifery or therapy teams can absorb.
+- [43] **Shion**: @Midori, off-site work is a financial trap. I've seen the tariffs; we earn nothing if we aren't on-site. We need a program that brings patients here.
+- [44] **Shizue**: But @Shion, if we bring more people here, where will they park? The shuttle only reaches a few villages. Our poor patients will be very stressed.
+- [45] **Midori**: It seems we are stuck between a lack of space and a lack of reliable partnerships. We need a program that is self-contained within a stable department.
+- [46] **Jonathan**: I agree. The data shows that consistency is the only thing that improves patient outcomes. A small, stable program is better than a large, failing one.
+- [47] **Misaki**: Exactly. If we pick a program that lands on the ward nurses, it will just lead to more burnout and more agency costs.
+- [48] **Shion**: Then the logic is simple. We need a program that uses existing on-site space, utilizes the under-used midwifery or therapy staff, and maximizes the regional tariff.
+- [49] **Shizue**: I just hope the booking system can handle it. I found that so much of our work isn't even recorded. We might be busier than we think.
+- [50] **Midori**: Let's look at the candidates with these constraints in mind. We must avoid "joint" programs that lack a clear owner.
+- [51] **Jonathan**: And we must avoid programs that are merely "trials" destined to be buried.
+- [52] **Misaki**: I will vote for whatever puts the least amount of stress on the ward staff.
+- [53] **Shion**: I will vote for the one that is financially viable. I won't support a program that leaves us unfunded in twelve months.
+- [54] **Shizue**: I shall vote for the one that doesn't make our hallways too crowded. Let's be gentle with our resources.
+## Round 3
+- [60] **Midori**: I'm very concerned about Candidate D. It's a joint program between midwifery and pediatrics. Based on the board minutes, these often collapse.
+- [61] **Jonathan**: Candidate A mirrors the call-back trial. I know it works for patients, but we must ensure it doesn't just "stop" when the budget runs out.
+- [62] **Misaki**: Candidate A would likely fall on the ward nurses, who are already exhausted and relying on agency cover. I cannot support that.
+- [63] **Shion**: Candidate A is a financial disaster. Home visits draw no regional tariff. We would be paying staff to travel for zero revenue. It's illogical.
+- [64] **Shizue**: Candidate B requires a "dedicated space." My findings show our rooms are already full. I fear we have no place to put a new unit.
+- [65] **Midori**: Candidate C involves providers outside the hospital. My research shows those data agreements take over a year to sign. It would be a nightmare to start.
+- [66] **Jonathan**: If we reject A, B, and C, we are left with D. While joint programs are risky, the midwifery staff are actually available, according to Misaki.
+- [67] **Misaki**: That is true. The midwifery rota has slack. Candidate D is the only one that doesn't risk burning out the ward nurses or the therapy team.
+- [68] **Shion**: Candidate D is on-site, which means we get the regional tariff. It uses the available midwifery staff. It is the only option that makes financial sense.
+- [69] **Shizue**: I am still worried about the parking and the booking system for Candidate D. But if it uses existing midwifery rooms, it might just fit.
+- [70] **Midori**: I still worry about the "joint" nature of Candidate D. However, if we ensure one department holds the budget line, we can avoid the previous failures.
+- [71] **Jonathan**: The evidence for A was strong, but the operational constraints are too high. D is a compromise that we can actually sustain.
+- [72] **Misaki**: I feel comfortable with D. It aligns with the staffing surplus in midwifery and protects the ward nurses from more work.
+- [73] **Shion**: It is the only choice. A is a loss-leader, B is a space-hog, and C is a bureaucratic void. D is the only one that earns money and fits the staff.
+- [74] **Shizue**: If you all agree, I will support it too. I will just ask the administration to be very careful with the booking slots so we don't overwhelm the lobby.
+- [75] **Midori**: I agree. Let's go with Candidate D, but with a strict agreement on who manages the rota.
+- [76] **Jonathan**: I can support that. It is better to have a sustainable program than a perfect one that is buried in a year.
+- [77] **Misaki**: I agree.
+- [78] **Shion**: Finally, a logical conclusion.
+- [79] **Shizue**: Let us hope it brings joy to the new parents without causing too much traffic in the car park.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

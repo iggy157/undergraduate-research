@@ -1,0 +1,73 @@
+# shared_living_0010__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Ryuji**: The current system is failing because we don't know the actual time cost.
+- [6] **Mio**: I feel like the workload isn't distributed fairly based on who is actually here.
+- [7] **Victoria**: I am worried about the social friction this is causing between us.
+- [8] **Rin**: I want to know exactly how much money we are wasting on supplies.
+- [9] **Daisuke**: I just want to stop guessing what state the rooms will be in.
+- [10] **Ryuji**: @Mio, fairness is hard to define without data on usage patterns.
+- [11] **Mio**: @Ryuji, but the calendar shows who is actually home to do the work.
+- [12] **Victoria**: @Rin, money is part of it, but the silence is the bigger issue.
+- [13] **Rin**: @Victoria, silence is expensive if we keep buying duplicate sponges.
+- [14] **Daisuke**: I agree with Rin. Predictability is what I need most right now.
+- [15] **Ryuji**: We need to measure the time a full clean takes before deciding.
+- [16] **Mio**: I want to see the kitchen usage logs to prove the imbalance.
+- [17] **Victoria**: I should look at the chat history to see where the rows start.
+- [18] **Rin**: I will check the receipts for the bathroom spray and the tin.
+- [19] **Daisuke**: I will look at the grout condition and what counts as done.
+- [20] **Ryuji**: Let's gather these facts so we can make a rational choice.
+- [21] **Mio**: Yes, facts will help us see who is doing what.
+- [22] **Victoria**: Agreed. Understanding the past will help us plan the future.
+- [23] **Rin**: I'm ready to look into the costs and the grout.
+- [24] **Daisuke**: I will check the grout and the definition of done.
+## Round 2
+- [35] **Ryuji**: The timing data shows a full pass takes over two hours.
+- [36] **Mio**: I found that only two or three people really cook, yet everyone cleans.
+- [37] **Victoria**: I found that our rows start with reminders, and the previous tenants hated permanent splits.
+- [38] **Rin**: I found we spend 2,300 yen monthly on duplicate spray, and grout fails in 11 days.
+- [39] **Daisuke**: The grout fails fast, and "done" means different things to everyone.
+- [40] **Ryuji**: @Mio, if only a few cook, the kitchen load is skewed.
+- [41] **Mio**: @Ryuji, exactly. And the calendar shows two people are away most months.
+- [42] **Victoria**: @Rin, the duplicate buying suggests we aren't coordinating at all.
+- [43] **Rin**: @Victoria, yes. And the grout issue means manual cleaning is inefficient.
+- [44] **Daisuke**: The inconsistency in "done" is why I feel anxious walking in.
+- [45] **Ryuji**: Two hours is a significant block of time for any one person.
+- [46] **Mio**: If we pay a service, we remove the time burden and the fairness argument.
+- [47] **Victoria**: The previous tenants' note warns against permanent assignments causing silence.
+- [48] **Rin**: A service would also stop the wasteful duplicate buying of supplies.
+- [49] **Daisuke**: A service would ensure the grout is handled professionally, not just wiped.
+- [50] **Ryuji**: I am leaning towards removing the time cost entirely.
+- [51] **Mio**: I agree. It solves the usage imbalance and the absence issue.
+- [52] **Victoria**: It avoids the social friction of permanent ownership that the note warned about.
+- [53] **Rin**: It solves my cost concern by making the expense predictable and shared.
+- [54] **Daisuke**: It gives me the predictability I need without the anxiety of guessing.
+## Round 3
+- [60] **Ryuji**: Option C removes the two-hour time block from our personal schedules.
+- [61] **Mio**: Option C is the only one that accounts for who is actually here.
+- [62] **Victoria**: Option A is risky given the previous tenants' experience with silence.
+- [63] **Rin**: Option C makes the 2,300 yen waste disappear and the cost is clear.
+- [64] **Daisuke**: Option C ensures the grout is treated properly, not just wiped.
+- [65] **Ryuji**: @Victoria, I agree. Option B still leaves the time burden on us.
+- [66] **Mio**: @Ryuji, yes. Option B just rotates the unfairness.
+- [67] **Victoria**: @Mio, Option C keeps us on speaking terms by removing the trigger.
+- [68] **Rin**: @Victoria, I like that. No more arguments about who bought the spray.
+- [69] **Daisuke**: I feel safer with Option C. No more guessing the state of the room.
+- [70] **Ryuji**: The management office rate is 4,200 yen an hour, which is high but predictable.
+- [71] **Mio**: It is worth it to avoid the conflict and the time loss.
+- [72] **Victoria**: The firm requires someone to be in, but that is a small ask.
+- [73] **Rin**: We can split the invoice evenly, which is fairer than the current mess.
+- [74] **Daisuke**: I am comfortable with this. It feels like a solution.
+- [75] **Ryuji**: I am ready to vote for Option C.
+- [76] **Mio**: I am voting for Option C.
+- [77] **Victoria**: I am voting for Option C.
+- [78] **Rin**: I am voting for Option C.
+- [79] **Daisuke**: I am voting for Option C.
+### Vote
+- Ryuji -> C
+- Mio -> C
+- Victoria -> C
+- Rin -> C
+- Daisuke -> C
+## Result
+- adopted: C

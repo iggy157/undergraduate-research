@@ -1,0 +1,73 @@
+# candidate_selection_0022__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I need to know who we can actually hire right now. The recruiting bottleneck is killing us.
+- [6] **George**: I want to verify if our past wins actually kept their customers. The stories feel off.
+- [7] **May**: I’m worried about our cash flow. I need to see what we can borrow against next year.
+- [8] **Rin**: I hate quarter-end. I want to know how a new holding messes up our reporting.
+- [9] **Mizuki**: I’m tired of delays. I need to know what external obstacles are blocking our deals.
+- [10] **Mio**: @George, if the customers left, our whole thesis is shaky. I’m looking at the recruiter data.
+- [11] **George**: @Mio, I agree. I’ll check the retention records. We need truth, not vibes.
+- [12] **May**: I’ll look at the credit line terms. If we can’t leverage assets, we’re stuck.
+- [13] **Rin**: I’ll check the audit needs. If it takes six weeks, I’m not doing it.
+- [14] **Mizuki**: I’ll look at the delivery records. I want to see where the time actually went.
+- [15] **Mio**: It’s frustrating that we can’t just find people. I’m checking the placement times.
+- [16] **George**: I’ll also look at the exit profile. We need to know what actually worked.
+- [17] **May**: I’m also checking the reserve accounts. I need to see the follow-on calls.
+- [18] **Rin**: I’ll check the independent checks on figures. I need verifiable data, not dashboards.
+- [19] **Mizuki**: I’ll also check the security review time. That’s usually the hidden killer.
+- [20] **Mio**: Let’s see what we find. I’m done guessing.
+- [21] **George**: Agreed. The data will tell us the truth.
+- [22] **May**: I hope the credit line is flexible. I’m nervous about the burn rate.
+- [23] **Rin**: I just want a clean quarter-end. That’s all.
+- [24] **Mizuki**: I want to avoid the same mistakes. Let’s see the obstacles.
+## Round 2
+- [35] **Mio**: @George, the recruiters can't find field crews. It takes four months. That’s a dealbreaker for me.
+- [36] **George**: I found that our profitable exits were back-office tools. The write-off ran its own premises.
+- [37] **May**: @Mio, that’s bad. I found our credit line ignores subscriptions. We can only borrow against stock.
+- [38] **Rin**: I found that hardware needs outside appraisals. It adds six weeks and costs a lot. I hate that.
+- [39] **Mizuki**: I found that medical deals take three quarters for security review. That’s way too long.
+- [40] **Mio**: @Mizuki, three quarters is forever. I can’t wait that long for a team to be ready.
+- [41] **George**: @May, if we can’t borrow against subscriptions, we’re in trouble. I’m leaning towards software.
+- [42] **May**: @George, I agree. The reserve accounts are bleeding us. We need assets we can liquidate.
+- [43] **Rin**: @Mio, if we pick hardware, I’m stuck doing appraisals. I want to avoid that.
+- [44] **Mizuki**: @Rin, I agree. The security review for medical is a nightmare. I want to avoid that too.
+- [45] **Mio**: The adviser bench has logistics experts, but they’re not taking anything. I’m worried about the gap.
+- [46] **George**: The retention data shows independent practices kept their accounts. That’s a good sign for software.
+- [47] **May**: The credit line terms are strict. We need a company with tangible assets or strong cash flow.
+- [48] **Rin**: The independent checks show software reports only its own figures. That’s risky for me.
+- [49] **Mizuki**: The delivery records show the bank tool never missed a release. That’s the kind of reliability I want.
+- [50] **Mio**: I’m leaning towards the software that doesn’t need field crews. The recruiting is too slow.
+- [51] **George**: I’m with you. The back-office tooling worked before. I trust that model.
+- [52] **May**: I’m concerned about the cash flow, but the credit line is the only way out.
+- [53] **Rin**: I’m worried about the reporting, but I’ll take the risk if it’s software.
+- [54] **Mizuki**: I’m confident in the bank tool. It’s reliable and avoids the security review trap.
+## Round 3
+- [60] **Mio**: @George, Ledger Bridge is software. No field crews needed. I’m voting for it.
+- [61] **George**: @Mio, I agree. It’s back-office tooling. It fits our profitable exit profile. I’m voting C.
+- [62] **May**: @George, I’m worried about the credit line, but C has no stock to borrow against.
+- [63] **Rin**: @May, C reports only its own figures. That’s risky, but I’ll vote for it to avoid appraisals.
+- [64] **Mizuki**: @Rin, C is a bank tool. It’s reliable. I’m voting for C.
+- [65] **Mio**: I’m sticking with C. The recruiting issue is too big for A or B.
+- [66] **George**: I’m sticking with C. The retention data supports it. It’s the safest bet.
+- [67] **May**: I’m voting C. It’s the only one that doesn’t require follow-on calls for equipment.
+- [68] **Rin**: I’m voting C. I’d rather deal with dashboard figures than outside appraisals.
+- [69] **Mizuki**: I’m voting C. It avoids the security review delay. It’s the logical choice.
+- [70] **Mio**: Is there any reason not to pick C? I can’t think of one.
+- [71] **George**: No. The data supports it. It’s the clear winner.
+- [72] **May**: I’m still nervous about the cash flow, but C is the best option.
+- [73] **Rin**: I’m nervous about the reporting, but C is the least bad option.
+- [74] **Mizuki**: I’m confident in C. It’s the most reliable option.
+- [75] **Mio**: Let’s go with C. I’m done.
+- [76] **George**: Agreed. C is the choice.
+- [77] **May**: I’ll take the risk. C it is.
+- [78] **Rin**: I’ll deal with the reporting. C it is.
+- [79] **Mizuki**: I’m confident. C it is.
+### Vote
+- Mio -> C
+- George -> C
+- May -> C
+- Rin -> C
+- Mizuki -> C
+## Result
+- adopted: C

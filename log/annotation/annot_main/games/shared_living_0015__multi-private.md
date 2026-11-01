@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private (shared_living)
+
+## Round 1
+- [5] **Servas**: Hello everyone. It is a pleasure to gather and discuss this. To ensure we create a home where everyone feels comfortable and fair, I suggest we look at the facts first.
+- [6] **Midori**: I agree, Servas. It's important that we all feel comfortable. I think starting with the facts will help us find a balanced solution that keeps everyone happy.
+- [7] **Minato**: I agree too. I want everyone to be happy and not feel sad or upset. What kind of facts should we look at first?
+- [8] **May**: I'm with you all! Let's keep it light but fair. I want to see exactly where our money is going before we jump into any big changes. What do you guys think?
+- [9] **Daisuke**: Um... I agree. Maybe we should look at how we've been doing things... and if there's a way to make the process easier for whoever has to manage it.
+- [10] **Servas**: Since we seek a harmony that lasts through all seasons, I believe we should examine the "Payment log for the last twelve months" and the "Sunlight and heating need by room." What do you all think?
+- [11] **Midori**: Those sound like a great start, Servas. I'm interested in the "Payment log for the last twelve months" as well, and I'd also like to see the "The last twelve utility statements" to understand the totals.
+- [12] **Minato**: I want to know if things are really fair for everyone. Can I look at the "Payment log for the last twelve months" and the "Plug-in monitor readings room by room"?
+- [13] **May**: I'll go with "The last twelve utility statements" and the "Electrician's quote for the rooms." I want to see the yearly flow and if any upgrades would cost us a fortune upfront!
+- [14] **Daisuke**: I... I think I'll look at the "Trial run of a reconciliation template" and the "Monthly settle observed at another house." I just want to see if there's a simpler way to handle the paperwork.
+- [15] **Servas**: It seems we have a diverse set of interests. By looking at both the numbers and the physical needs of our rooms, we shall find a path that honors everyone's comfort.
+- [16] **Midori**: I think it's wonderful that we're considering both the technical side and the human side of this. It will help us avoid any misunderstandings and keep our home a peaceful place for everyone.
+- [17] **Minato**: I hope that by looking at the logs and the monitors, we can find out if anyone is feeling burdened. I just want us all to be honest and kind to each other.
+- [18] **May**: Exactly! Honesty is key, but so is the bottom line. I'm curious to see if our current system is just a mess or if we're actually overpaying. Let's see what the data tells us!
+- [19] **Daisuke**: I... I hope the template helps. I just don't want anyone to feel too stressed out by the calculations every month. It seems like a lot of work.
+- [20] **Servas**: Let us proceed with these choices. As we gather this information, let us remember that the numbers are merely tools to help us care for one another more effectively. I look forward to our findings.
+- [21] **Midori**: I agree. Let's use this information to build a system that supports us all. I'm looking forward to seeing what we find so we can move forward together in harmony.
+- [22] **Minato**: I'm looking forward to it too. I hope we can all feel relaxed and happy with whatever we decide. Let's be very gentle with each other when we talk about the results.
+- [23] **May**: I'm all for being gentle, but let's not be afraid of the truth! I can't wait to see those statements. Let's get to it and see who's actually spending what!
+- [24] **Daisuke**: Okay... I'll do my best to find something that makes things easier for everyone. I hope we can find a way that isn't too stressful.
+## Round 2
+- [35] **Servas**: It appears that our home has different needs depending on the room and the season. We must ensure that no one feels they must suffer in the cold to keep the peace.
+- [36] **Midori**: I've noticed that our monthly totals fluctuate quite a bit, and some payments have been delayed after questions were asked. I'm worried that the way we handle money might be causing some hidden tension between us.
+- [37] **Minato**: I saw that some payments were late because people were confused. Also, the monitor showed that some rooms use much more electricity than others. Does that mean some of us are paying for other people's heaters?
+- [38] **May**: @Minato, you hit the nail on the head! I saw the statements, and the costs are all over the place—February was nearly 30,000 yen while August was under 10,000. It's a total rollercoaster!
+- [39] **Daisuke**: Um... I looked into some other ways of doing things. But... it seems like even with a template or separate meters, it still takes a lot of time and effort to organize everything every month.
+- [40] **Servas**: It is natural for costs to fluctuate with the seasons, but our hearts should not. If some rooms are colder, we must acknowledge that burden openly so no one suffers in silence.
+- [41] **Midori**: @Servas, I agree. But I'm also concerned that the confusion over payments is creating a distance between us. If we only focus on the temperature, we might miss the emotional toll these disputes are taking.
+- [42] **Minato**: I don't want anyone to feel like they are being treated unfairly. If some people use much more electricity, maybe it's okay, but we should talk about it so nobody feels upset or burdened.
+- [43] **May**: @Midori, emotional toll is one thing, but my wallet is feeling the real pain! Those winter spikes are brutal. If we want a "fair" fix, we need to decide if we're paying for actual use or just splitting the chaos.
+- [44] **Daisuke**: I... I agree with May that the spikes are hard. But if we make the system too complicated to be "fair," I'm worried the person doing the math will just be exhausted. Is there a simpler way?
+- [45] **Servas**: Simplicity is a virtue, @Daisuke, but not at the cost of truth. If we ignore the reality of our cold rooms, we risk a winter of quiet resentment. Let us find a balance between ease and honesty.
+- [46] **Midori**: @Daisuke, I understand wanting to keep it simple, but if we ignore the friction we've already had, it will only come back. We need a system that is clear enough to prevent those awkward arguments and delays.
+- [47] **Minato**: I think we should be honest about the electricity use. If we just keep it simple but it's not fair, will people still be sad? I want us to find a way where everyone feels okay.
+- [48] **May**: @Minato, exactly! Being "simple" doesn't help if we're all stressed about the money. But let's be real—installing sub-meters would cost us a fortune upfront. Is that really the "gentle" way to handle this?
+- [49] **Daisuke**: I... I just mean that if the system is too complex, the person managing it might feel overwhelmed. I don't want anyone to be stressed by the paperwork every single month. Maybe there's a middle ground?
+- [50] **Servas**: Let us remember that the most expensive cost is a home where one feels unwelcome. Whether through a simple agreement or a detailed log, our goal is a warmth that reaches every room and every heart.
+- [51] **Midori**: I agree, Servas. Let's make sure our final decision doesn't just solve the math, but also heals the tension. A clear, transparent system will be the kindest thing for our relationships in the long run.
+- [52] **Minato**: I hope we can all agree on something that makes everyone feel seen. If we are honest about how much we use, maybe the tension will go away and we can all be happy again.
+- [53] **May**: I'm all for transparency, but let's not overcomplicate it. We need a system that handles those winter spikes without breaking the bank or our spirits. I'm ready to see the options and pick the smartest one!
+- [54] **Daisuke**: I... I hope we can find a way that doesn't put too much pressure on one person. I'll support whatever we decide, as long as it doesn't make anyone's life too difficult.
+## Round 3
+- [60] **Servas**: Option A offers the most truth, but Option B provides a predictable peace. I worry that a flat share may lead some to freeze in silence to save others money. Which path honors us all?
+- [61] **Midori**: @Servas, I agree that Option C might lead to resentment. However, Option A could be too clinical. Option B seems like a gentle middle ground that prevents those monthly payment disputes by making costs predictable.
+- [62] **Minato**: I think Option A is the most honest because it shows exactly who uses what. If we use Option C, will the people who use less electricity still feel like they are carrying others?
+- [63] **May**: @Minato, you're right about the fairness, but Option A is a total money pit upfront! I'm leaning towards Option B. It stops those scary winter spikes from hitting us all at once. Predictability is a luxury I need!
+- [64] **Daisuke**: Um... Option A sounds like it would be a lot of work to manage every month. Option B seems easier, but the year-end settlement might be a huge headache. Maybe Option C is the simplest for everyone?
+- [65] **Servas**: @Daisuke, simplicity is a comfort, but a flat share may be a mask for unfairness. If we choose Option C, we must promise to speak up when the cold becomes too much to bear.
+- [66] **Midori**: @Daisuke, I understand the appeal of Option C, but we've already seen that simple splits can lead to confusion and tension. Option B removes the monthly guesswork, which I think is the best way to protect our friendships.
+- [67] **Minato**: @Midori, I like that it protects our friendships. But if we use Option B, will we still be hiding the truth about who uses the most? I just want to make sure nobody is secretly upset.
+- [68] **May**: @Minato, we can't avoid every single secret, but Option B stops the monthly panic! Option A is way too expensive to install, and Option C is just a recipe for more arguments. Let's go with B!
+- [69] **Daisuke**: I... I'm worried that Option B just pushes all the hard work to the end of the year. But if Option C causes more arguments, maybe B is better. I just hope the year-end part isn't too stressful.
+- [70] **Servas**: If we choose Option B, we must agree to handle the year-end settlement with grace and openness. Let us not let a final sum overshadow the peace we have cultivated throughout the year.
+- [71] **Midori**: @Servas, exactly. If we commit to that openness, Option B solves the immediate friction. It stops the monthly accusations and gives us a stable foundation, which is exactly what our relationships need right now.
+- [72] **Minato**: I think Option B is a good idea if it makes everyone feel safe. As long as we are honest at the end of the year, I'm happy to vote for it.
+- [73] **May**: @Minato, now we're talking! It's the smartest move. We avoid the massive installation fees of A and the monthly chaos of C. Let's just lock in B and breathe easy!
+- [74] **Daisuke**: I... I guess Option B is the best compromise. It's not perfect, but it's better than the monthly stress of Option C or the constant tracking of Option A. I'll vote for B.
+- [75] **Servas**: It is heartening to see us reach a consensus. Let us choose Option B, and pledge to treat the year-end settlement as a moment of shared reflection and kindness. I vote for Option B.
+- [76] **Midori**: I agree completely. By choosing Option B, we prioritize our harmony and remove the monthly triggers for conflict. I'm happy we've found a way to protect our friendships. I vote for Option B.
+- [77] **Minato**: I'm glad we all agree and that everyone feels okay with this. I want us to stay friends and be kind to each other. I vote for Option B too!
+- [78] **May**: Finally! A decision that doesn't break the bank or my brain. Predictability is exactly what I was looking for. Let's make it official—I vote for Option B!
+- [79] **Daisuke**: I... I'll vote for Option B as well. I hope we can find a way to make the year-end part simple so it doesn't become too much for anyone. I vote for Option B.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

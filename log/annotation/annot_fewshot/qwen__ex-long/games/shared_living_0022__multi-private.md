@@ -1,0 +1,73 @@
+# shared_living_0022__multi-private (shared_living)
+
+## Round 1
+- [5] **May**: I want to check the ward filing requirements and the measurements of the five frontages. Let’s see if the paperwork matches the reality.
+- [6] **Mizuki**: I’ll review the ward complaint log and the station block’s meeting minutes. I need to see how they handled their mess.
+- [7] **Kenji**: I’m curious about the actual costs! I’ll check the ward subsidy and the block ledger to see what we’re really paying.
+- [8] **Midori**: I’m worried about the relationships. I’ll check the residents' meeting statements and the station block's minutes to see how they kept talking.
+- [9] **Servas**: I will examine the truck arrival time and the ward complaint log. I need to understand the rhythm of our burden and the source of our friction.
+- [10] **May**: @Mizuki, checking the minutes is smart. I’m still focused on the rules and measurements. Let’s see if the paperwork matches the reality.
+- [11] **Mizuki**: @May, the rules are the skeleton, but the minutes show the flesh. I need to see if their solution actually held up under daily pressure.
+- [12] **Kenji**: @May, the measurements are key! If one frontage is tiny, the burden feels unfair. I’m checking the ledger to see if the costs match the space.
+- [13] **Midori**: @Kenji, I hear you. But numbers don’t fix broken trust. I’m checking how they kept talking after the fight.
+- [14] **Servas**: @Midori, trust is built on shared rhythm. I am checking the truck time to see if our daily burden aligns with our lives.
+- [15] **May**: @Kenji, if the frontages are uneven, the burden is too. I need to know the exact hours this takes out of us.
+- [16] **Mizuki**: @May, hours are only half the story. I need to know if the solution actually held up under daily pressure, or if it just shifted the pain.
+- [17] **Kenji**: @May, I agree! But I need to know the yen, not just the hours. If the subsidy covers half, maybe we can afford a better spot?
+- [18] **Midori**: @Kenji, money helps, but it doesn’t buy back a friendly wave. I’m checking the residents' statements to see how they repaired the silence.
+- [19] **Servas**: @May, hours are the true measure of our peace. I am checking the truck time to see if the burden fits within our daily lives.
+- [20] **May**: I’m checking the ward filing requirements and the measurements of the five frontages. I need to know the actual hours this takes out of us.
+- [21] **Mizuki**: I’ll check the ward complaint log and the station block’s meeting minutes. I need to see if their solution actually held up under daily pressure.
+- [22] **Kenji**: I’m checking the ward subsidy and the block ledger. I need to know exactly what we’re paying and what we can afford.
+- [23] **Midori**: I’m checking the residents' meeting statements and the station block's minutes. I need to see how they kept talking after the fight.
+- [24] **Servas**: I will examine the truck arrival time and the ward complaint log. I need to understand the rhythm of our burden and the source of our friction.
+## Round 2
+- [35] **May**: @Kenji, the narrowest frontage is only ninety centimetres. That’s a nightmare to maintain. We need a plan that doesn’t burn us out.
+- [36] **Mizuki**: @May, ninety centimetres is a trap. The ledger proves the current setup fails. We must ensure the new location doesn’t replicate that unequal burden.
+- [37] **Kenji**: @May, ninety centimetres is tiny! But the ledger shows we waste thirty-four thousand yen yearly on open bags. We need a spot that stops that leak.
+- [38] **Midori**: @Mizuki, the minutes show they argued over a latch within two years. We need a plan that doesn’t turn us into enemies again.
+- [39] **Servas**: @May, the truck arrives before we wake. The log shows one household filed eleven of fourteen complaints. We must design a rhythm that respects our sleep and our peace.
+- [40] **May**: @Servas, eleven complaints from one household? That’s not a rhythm, that’s a hostage situation. We need a system that doesn’t rely on one person’s patience.
+- [41] **Mizuki**: @Servas, exactly. Eleven complaints from one household is a failure of design, not character. We must ensure the new arrangement doesn’t replicate that unequal burden.
+- [42] **Kenji**: @Servas, that’s a huge imbalance! But my ledger shows we waste thirty-four thousand yen yearly on open bags. We need a spot that stops that leak before it eats our budget.
+- [43] **Midori**: @Servas, I hear you. But the residents said nobody wants to be the enforcer. We need a system that doesn’t force us to police each other.
+- [44] **Servas**: @Midori, you are right. We must not become enforcers. I am checking the hours to see if a fair rhythm can protect our sleep and our dignity.
+- [45] **May**: @Mizuki, ninety centimetres is a trap. If one household is stuck with that, the burden is unequal. We need a plan that actually distributes the workload fairly.
+- [46] **Mizuki**: @May, exactly. The station block’s minutes prove that proximity breeds resentment. We must choose a location that minimizes daily friction, not just cost.
+- [47] **Kenji**: @Mizuki, I agree! But the subsidy only covers forty percent, capped at ninety thousand. We still pay the rest. We need a spot that stops the thirty-four thousand yen leak!
+- [48] **Midori**: @Mizuki, proximity breeds resentment, yes. But the residents said nobody wants to be the enforcer. We need a system that makes cooperation easy, not just mandatory.
+- [49] **Servas**: @Midori, cooperation must be effortless. I am calculating the exact hours of setup and maintenance to ensure no single soul bears the weight of our shared silence.
+- [50] **May**: @Mizuki, I agree. We must explicitly assign the narrowest spot to prevent hidden resentment. I am checking the filing rules to see if we can rotate the burden fairly.
+- [51] **Mizuki**: @May, rotation is a start, but the minutes show even shared duties breed resentment. We need a location that minimizes daily friction, not just a schedule.
+- [52] **Kenji**: @Mizuki, I hear you! But the subsidy caps at ninety thousand. We still pay the rest. We need a spot that stops the thirty-four thousand yen leak!
+- [53] **Midori**: @Mizuki, I agree. But the residents said nobody wants to be the enforcer. We need a system that makes cooperation easy, not just mandatory.
+- [54] **Servas**: @Mizuki, I agree. A location that minimizes friction is essential. I am calculating the exact hours to ensure no single soul bears the weight of our shared silence.
+## Round 3
+- [60] **May**: @Mizuki, Option C locks the burden on one household permanently. I reject it. We need a system that actually rotates the responsibility.
+- [61] **Mizuki**: @May, Option C is a trap. The minutes show permanent structures breed resentment over maintenance. I reject it. We need a system that actually rotates the responsibility.
+- [62] **Kenji**: @May, Option C costs two hundred forty-eight thousand! The subsidy only covers ninety thousand. We can’t afford that. Option B stops the thirty-four thousand yen leak!
+- [63] **Midori**: @Kenji, I hear the cost worry. But Option B forces us to police each other. The residents said nobody wants that. We need a system that keeps us talking.
+- [64] **Servas**: @Midori, I hear your fear of policing. But Option C’s permanent structure locks the burden on one household. I reject it. We need a rhythm that respects our sleep and dignity.
+- [65] **May**: @Kenji, Option B’s narrow window is a trap. It forces one household to be the enforcer. I reject it. We need a system that actually rotates the responsibility fairly.
+- [66] **Mizuki**: @May, Option B’s narrow window is a trap. It forces one household to be the enforcer. I reject it. We need a system that actually rotates the responsibility fairly.
+- [67] **Kenji**: @May, I hear you! But Option A means moving everything constantly. That’s expensive and messy. Option B stops the thirty-four thousand yen leak from open bags. It’s the smart choice!
+- [68] **Midori**: @Kenji, I hear the cost worry. But Option B forces us to police each other. The residents said nobody wants that. We need a system that keeps us talking.
+- [69] **Servas**: @Kenji, moving constantly is exhausting. Option B’s narrow window respects our sleep. I am calculating the hours to ensure no single soul bears the weight of our shared silence.
+- [70] **May**: @Kenji, Option A is the only way to stop the ninety-centimetre trap. If we don't rotate, the burden stays static. I am voting A to ensure fairness.
+- [71] **Mizuki**: @May, I agree. Option A is the only way to stop the ninety-centimetre trap. If we don't rotate, the burden stays static. I am voting A to ensure fairness.
+- [72] **Kenji**: @May, I hear the fairness point! But Option A means moving everything constantly. That’s expensive and messy. Option B stops the thirty-four thousand yen leak from open bags. It’s the smart choice!
+- [73] **Midori**: @May, I understand the fairness. But Option A means moving the bins, which forces us to interact constantly. The residents said nobody wants to be the enforcer. I am voting B to keep the peace.
+- [74] **Servas**: @May, Option A’s constant movement disrupts our fragile rhythm. Option B’s narrow window respects our sleep. I am voting B to protect our dignity.
+- [75] **May**: @Midori, Option B is a trap. It forces one household to be the enforcer. I reject it. I am voting A to ensure the burden rotates fairly.
+- [76] **Mizuki**: @Midori, Option B forces one household to be the enforcer. I reject it. I am voting A to ensure the burden rotates fairly.
+- [77] **Kenji**: @Midori, I hear the peace worry! But Option A is too messy. Option B stops the thirty-four thousand yen leak from open bags. It’s the smart choice!
+- [78] **Midori**: @Kenji, I hear the cost worry. But Option B forces us to police each other. The residents said nobody wants that. I am voting B to keep the peace.
+- [79] **Servas**: @Kenji, I hear the cost worry. But Option B’s narrow window respects our sleep. I am voting B to protect our dignity and our shared peace.
+### Vote
+- May -> A
+- Mizuki -> A
+- Kenji -> B
+- Midori -> B
+- Servas -> B
+## Result
+- adopted: B

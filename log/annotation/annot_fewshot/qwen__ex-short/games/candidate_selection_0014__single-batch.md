@@ -1,0 +1,73 @@
+# candidate_selection_0014__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: I am tired of ribbon-cutting ceremonies for projects that crumble by winter.
+- [6] **Misaki**: The ground here is tricky. I need to know what the soil actually allows.
+- [7] **Mio**: Pretty plans are cheap. I care about the bills that arrive three years later.
+- [8] **Asuka**: Who is actually going to mow this? The rota is shrinking every year.
+- [9] **Minako**: This park is used daily. I need to see how people actually move through it.
+- [10] **Benjamin**: @Mio, exactly. The initial budget is a lie. I want the real cost.
+- [11] **Misaki**: @Benjamin, agreed. But if the ground shifts, the cost is irrelevant.
+- [12] **Mio**: @Misaki, true. But if we can't afford the upkeep, it's a liability.
+- [13] **Asuka**: @Minako, the usage patterns will tell us if the plan is viable.
+- [14] **Minako**: @Asuka, yes. The data on crossings is key to understanding the flow.
+- [15] **Benjamin**: I will look at the condition of works from the earlier programme.
+- [16] **Misaki**: I will check the regional firms tendering for earth-moving.
+- [17] **Mio**: I will review the upkeep ledger spend per hectare.
+- [18] **Asuka**: I will examine the groundskeeping roll and bought-in services.
+- [19] **Minako**: I will look at the timed counts of weekday crossings.
+- [20] **Benjamin**: I will also check the record of the eastern avenue planting.
+- [21] **Misaki**: I will also look at the depot phasing notes on hoarding the site.
+- [22] **Mio**: I will also check the terms of the regional habitat fund.
+- [23] **Asuka**: I will also look at the volunteer groups working with the division.
+- [24] **Minako**: I will also check the drainage callouts and August heat readings.
+## Round 2
+- [35] **Benjamin**: The earlier works are a mess. The apron has been patched three times.
+- [36] **Misaki**: Only two firms can handle the earth. Both flagged clay and slippage risk.
+- [37] **Mio**: Planted ground costs triple to maintain. The habitat fund won't cover surfacing.
+- [38] **Asuka**: We have seven staff left. Volunteer groups cover weekends, but it's tight.
+- [39] **Minako**: People cross on hard ground. Drainage callouts have doubled since the cap.
+- [40] **Benjamin**: @Mio, the fund terms are restrictive. It only pays for planting and water.
+- [41] **Misaki**: @Benjamin, the clay risk means we can't do deep excavation easily.
+- [42] **Mio**: @Misaki, that aligns. If we can't afford the upkeep, we shouldn't plant.
+- [43] **Asuka**: @Minako, the volunteer groups are helpful, but they can't do heavy maintenance.
+- [44] **Minako**: @Asuka, the drainage issue is serious. We need a plan that manages water.
+- [45] **Benjamin**: The eastern avenue planting failed. Half the trees died. Aftercare was missing.
+- [46] **Misaki**: The depot notes say the south can be hoarded, but the centre cannot.
+- [47] **Mio**: The ledger shows the gap in costs is widening. Hard surfaces are cheaper.
+- [48] **Asuka**: The volunteer groups are good for habitat, but not for courts or plazas.
+- [49] **Minako**: The heat readings are high. We need shade, but not at the cost of drainage.
+- [50] **Benjamin**: I am leaning towards something that doesn't rely on fragile planting.
+- [51] **Misaki**: The earth-moving constraints rule out major reshaping.
+- [52] **Mio**: The financials favor hard surfaces, but we need to consider the fund.
+- [53] **Asuka**: The staffing levels suggest we need low-maintenance options.
+- [54] **Minako**: The usage data suggests we need open, firm ground for crossings.
+## Round 3
+- [60] **Benjamin**: Candidate A, the Market Plaza, is hard-surfaced. It avoids the planting risks.
+- [61] **Misaki**: Candidate B, the Woodland Walk, requires planting. The clay risk is high.
+- [62] **Mio**: Candidate C, the Wetland Restoration, uses the habitat fund. But upkeep is high.
+- [63] **Asuka**: Candidate D, the Sports Terraces, needs courts. The volunteer groups can help.
+- [64] **Minako**: Candidate A fits the crossing data. People want firm ground.
+- [65] **Benjamin**: @Mio, the habitat fund covers C, but the upkeep ledger says it's expensive.
+- [66] **Misaki**: @Benjamin, the earth-moving constraints make C risky. Reshaping drainage is hard.
+- [67] **Mio**: @Misaki, true. But A is cheap to maintain. The fund doesn't cover it, though.
+- [68] **Asuka**: @Minako, the volunteer groups are good for D, but the courts need maintenance.
+- [69] **Minako**: @Asuka, the drainage issue makes C attractive, but the heat is a problem.
+- [70] **Benjamin**: I prefer A. It is durable and fits the usage patterns.
+- [71] **Misaki**: I am worried about B. The planting will fail like the avenue.
+- [72] **Mio**: I am concerned about C. The upkeep costs are too high for the city.
+- [73] **Asuka**: I am leaning towards D. The volunteer groups can manage the courts.
+- [74] **Minako**: I support A. It addresses the crossing needs and is low-maintenance.
+- [75] **Benjamin**: I vote for A. It is the most sustainable option.
+- [76] **Misaki**: I vote for A. It avoids the earth-moving and planting risks.
+- [77] **Mio**: I vote for A. It is the most affordable to maintain.
+- [78] **Asuka**: I vote for D. It utilizes the volunteer groups effectively.
+- [79] **Minako**: I vote for A. It fits the usage data and is low-maintenance.
+### Vote
+- Benjamin -> A
+- Misaki -> A
+- Mio -> A
+- Asuka -> D
+- Minako -> A
+## Result
+- adopted: A

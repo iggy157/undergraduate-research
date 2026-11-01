@@ -1,0 +1,73 @@
+# shared_living_0013__multi-private-process (shared_living)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. It is lovely to see you all. Since we are growing, perhaps we can find a layout that helps us talk to one another more naturally? I want us to feel close and connected.
+- [6] **Toshio**: Connection is important, but we should also consider the practicalities of the space. If we change the layout, we need to be clear about how the seats are allocated so no one feels slighted.
+- [7] **Daisuke**: I... I agree with both of you. But, um, I'm a bit worried about the cost. If we change things too much, will it be too expensive for the team?
+- [8] **Mio**: I'm excited to make the place feel fresh! But we should make sure the new layout doesn't make our mornings more hectic. I don't want us wasting precious time just getting settled in!
+- [9] **Shunichi**: Let's not get carried away with "feelings" and "freshness" just yet. If we're moving, we need to ensure the actual experience of sitting there for eight hours is sustainable. Comfort isn't a luxury; it's a requirement.
+- [10] **Shizue**: You all make such wonderful points. To make sure we are being thoughtful, perhaps we should look into the costs Daisuke mentioned and how our current seating affects our daily interactions?
+- [11] **Toshio**: I agree. I also think we should examine the badge records and the staff survey. It would be useful to see the actual patterns of arrival and how people currently feel about their positions.
+- [12] **Daisuke**: Um, if it's okay... I'd like to know more about the floor billing. And maybe the facilities quote for the power and network? I just want to be sure we can afford it.
+- [13] **Mio**: @Toshio, that's a great idea! I'm curious about the badge records too. Also, I want to know about the morning routine on the pilot floor upstairs to see if they've found a way to stay efficient!
+- [14] **Shunichi**: @Daisuke, your frugality is touching, but a cheap layout that kills our backs is a waste of money. I'll look into the sound meter readings and the physio's note from the workstation check.
+- [15] **Shizue**: It seems we have a good list starting. I would like to look into the drawn plan against the staff survey and the two project strands within earshot last spring to see how we interact.
+- [16] **Toshio**: Since we have a general sense of the priorities, I will stick with my suggestion. I'll look into the arrival times in the badge records and the unplanned seat shuffles in the past year.
+- [17] **Daisuke**: I'll... stick with the ones I mentioned. I'll look into the basis of the department's floor billing and the facilities quote for re-running power and network. I just don't want us to overspend.
+- [18] **Mio**: I'll go with the arrival times in the badge records and the morning routine on the pilot floor upstairs! I really want to see how we can start our days without any stress!
+- [19] **Shunichi**: I'll stick to my guns. I'm looking into the sound meter readings and the physio's note. Let's see if the data supports the need for actual comfort over mere aesthetics.
+- [20] **Shizue**: It seems we have a wonderful plan. We are covering everything from our budgets to our well-being. I look forward to seeing what we discover so we can create a happy space for everyone.
+- [21] **Toshio**: Let's ensure we remain objective when reviewing the data. It is easy to overlook the less desirable aspects of a layout, but we must be honest about the trade-offs involved in our final decision.
+- [22] **Daisuke**: I... I hope the information helps us make a safe choice. I'll do my best to find the details on the costs so we don't run into any trouble later.
+- [23] **Mio**: I'm so ready for this! I'll dig into those records and the pilot floor's routine. Let's find a way to make our mornings super smooth and energetic! See you all soon!
+- [24] **Shunichi**: Try not to let your enthusiasm blind you to the physics of the room, Mio. I'll be the one bringing the reality check regarding our physical health. See you all in the next round.
+## Round 2
+- [35] **Shizue**: It is so interesting to see how we work! I found that when different projects sat close together last spring, we stopped needing long notes because we just talked. It made everything so much smoother, didn't it?
+- [36] **Toshio**: That may be true, but we must consider the logistics. I found that our arrival times vary significantly. If we use a first-come, first-served system, those arriving later are permanently disadvantaged.
+- [37] **Daisuke**: Um... I found out that we're billed by floor area, not by person. Even empty desks cost us about 41,000 yen a month. It's... it's more expensive than I thought.
+- [38] **Mio**: @Toshio, you're totally right! I saw the same thing in the badge records. Plus, the pilot floor takes up to nine minutes just to set up! That's way too much time wasted every single morning!
+- [39] **Shunichi**: @Shizue, "smoother" is subjective. I found that the noise levels near the corridor are significantly higher all afternoon. More importantly, the physio noted that getting a workstation actually comfortable takes days of fine-tuning. Constant shuffling is a recipe for chronic pain.
+- [40] **Shizue**: Oh dear, I hadn't thought about the physical strain, Shunichi. Thank you for reminding us. But isn't it wonderful that we can save so much time and effort just by sitting near one another? It feels so much warmer.
+- [41] **Toshio**: Warmth is a luxury, but stability is a necessity. I also discovered that unplanned shuffles in the past year caused weeks of disruption. We cannot afford a layout that is fragile or creates resentment over who gets the "bad" seats.
+- [42] **Daisuke**: And... the facilities quote was 6,200 yen per desk just to move the power and network. If we change the plan multiple times, those costs will just keep adding up. I'm worried we can't afford many mistakes.
+- [43] **Mio**: @Daisuke, that's a lot of money! But the time loss is even scarier. If we spend nearly ten minutes every day just plugging things in, we're losing hours of our lives every month! We need a setup that's ready to go.
+- [44] **Shunichi**: @Mio, exactly. Which is why "flexibility" is a trap. If we shuffle seats, we lose those ten minutes and the days of ergonomic tuning. We need fixed positions that are optimized for noise and health, not a daily lottery.
+- [45] **Shizue**: I understand your concerns, Shunichi. However, if we are too rigid, we might lose that lovely spark of spontaneous conversation. Perhaps there is a way to have both stability and a layout that brings us together?
+- [46] **Toshio**: @Shizue, a "spark" is not worth the cost of resentment. If we have fixed seats, we must be transparent about which ones are less desirable and decide how to distribute that burden fairly, rather than leaving it to chance.
+- [47] **Daisuke**: I... I think Shunichi and Toshio are right about the risks. If we keep changing things, the costs will just keep growing. Maybe a stable, fixed layout is the safest way to avoid wasting money?
+- [48] **Mio**: @Shunichi, I'm with you on the "flexibility trap"! If we have to set up our gear every single day, it's just a waste of energy. Let's pick a layout and stick to it so we can just start working!
+- [49] **Shunichi**: Finally, some common sense. If we prioritize a fixed layout, we solve the setup time, the budget leaks, and the ergonomic nightmare in one go. Now we just need to ensure the "bad" seats aren't a death sentence for our focus.
+- [50] **Shizue**: It seems we are all leaning toward stability, which is very sensible. If we choose a fixed layout, perhaps we can carefully decide who sits where together, so we still keep that warmth and connection?
+- [51] **Toshio**: @Shizue, deciding together is a start, but we must be explicit. Some seats will be noisier or less comfortable than others. We should agree on a rotation or a fair criterion for the less desirable spots.
+- [52] **Daisuke**: I... I agree. If we can just decide on one fair, fixed plan and stick to it, we won't have to keep paying for new wiring. That would be the most responsible way to handle the budget.
+- [53] **Mio**: Exactly! Let's just make it super simple. No daily setup, no guessing games, and no wasting time. If we fix the seats now, we can all just dive into our work the moment we arrive!
+- [54] **Shunichi**: @Toshio, a rotation is just "flexibility" in slow motion. Let's just assign the seats based on who can tolerate the noise and who needs the silence. Once we're tuned in, we stay put. Efficiency requires stability.
+## Round 3
+- [60] **Shizue**: Looking at our options, Option B seems the most gentle on everyone. It gives us the stability Shunichi and Mio want, while allowing us to place people together to keep our warmth.
+- [61] **Toshio**: Option B provides stability, but it ignores the issue of fairness. Some desks are objectively worse than others. If we assign them permanently, we are simply deciding who is disadvantaged for the long term.
+- [62] **Daisuke**: I... I think Option B is the safest. If we choose A or C, we might have to keep paying for power and network changes, or waste money on empty space. B seems the most cost-effective.
+- [63] **Mio**: @Toshio, I get the fairness thing, but Option A is a total nightmare! Imagine wasting nine minutes every single morning just plugging in. Option B is the only way to keep our mornings smooth and stress-free!
+- [64] **Shunichi**: @Toshio, your obsession with "fairness" is becoming a distraction. I'd rather be "unfairly" comfortable in a quiet spot than "fairly" miserable in a noisy one. Option B is the only rational choice for our health and focus.
+- [65] **Shizue**: @Toshio, I understand your worry about fairness. Perhaps we can decide our placements together as a team? If we do it with kindness and consideration, I believe we can find a balance that makes everyone happy.
+- [66] **Toshio**: Kindness is not a substitute for a system. If we use Option B, the person in the noisy seat remains there indefinitely. Option C is the only choice that ensures no one is permanently burdened by a poor location.
+- [67] **Daisuke**: Um, but Option C means we move everyone periodically... wouldn't that mean paying the facilities fee for every desk again and again? I'm really worried that would be too expensive for us.
+- [68] **Mio**: @Daisuke is right! Option C sounds like a total headache. Moving everyone's stuff and cables every few months? That's just more time wasted and more stress! Let's just stick with Option B and get it done!
+- [69] **Shunichi**: @Toshio, Option C is a disaster. You're suggesting we reset our ergonomic tuning and waste days of physical adjustment just to satisfy a sense of equity. It's an inefficient trade-off. Option B is the only one that respects our bodies and our time.
+- [70] **Shizue**: @Toshio, I hear your heart, but perhaps we can rotate the "less desirable" seats manually every few months without moving the heavy furniture? That way we keep the stability of Option B but share the burden.
+- [71] **Toshio**: @Shizue, that is essentially Option C. If we move people, we disrupt the ergonomic tuning Shunichi values and risk the budget Daisuke fears. However, Option B's permanence is an implicit acceptance of inequality. We must be honest about who loses.
+- [72] **Daisuke**: I... I don't think we can afford to be honest about "who loses" if it means spending more money. Option B is the only one that doesn't risk constant extra fees. I'll vote for B.
+- [73] **Mio**: @Toshio, we can't let "what if" stop us from being efficient! Option B is the only one that lets us just sit down and start our day. I'm voting for B to save our time and energy!
+- [74] **Shunichi**: @Toshio, your pursuit of a "fair" burden is just a fancy way of ensuring everyone is equally uncomfortable. I'm not interested in sharing misery. I'm voting for Option B to protect our productivity and our spines.
+- [75] **Shizue**: It seems we have found a path that respects both our budget and our well-being. I will also vote for Option B, trusting that we can place ourselves with love and care.
+- [76] **Toshio**: I cannot support a system that ignores the inherent inequality of the space. However, since the majority prioritizes efficiency over equity, I will vote for Option B, provided we explicitly acknowledge the disadvantaged seats.
+- [77] **Daisuke**: I... I'm glad we could agree. I'll vote for Option B. It's the most stable choice for our budget, and I feel much better knowing we won't have to worry about unexpected costs.
+- [78] **Mio**: I'm so happy we're all on the same page! No more morning chaos or wasted minutes. I'm voting for Option B! Let's make our office a place where we can just arrive and be awesome!
+- [79] **Shunichi**: Finally, a decision based on logic rather than sentiment. I'm voting for Option B. Let's get the layout fixed so we can stop talking about it and actually get some work done in peace.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

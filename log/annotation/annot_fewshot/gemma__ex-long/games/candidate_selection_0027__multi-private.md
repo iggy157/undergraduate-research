@@ -1,0 +1,73 @@
+# candidate_selection_0027__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: It is a pleasure to meet you all. To ensure our selection is grounded in operational reality, I would like to examine the roster books for the late-turn pool and the crew establishment and maintenance contract.
+- [6] **Takumi**: Hi everyone! I'm ready to do this. I want to see if we're just repeating old mistakes, so I'll look into the two pilots from eight years ago and the completion records of the earlier accessibility programme.
+- [7] **Toshio**: I believe we must understand the hidden variables that cause delays. I will examine the joint operators' committee minutes and the contingency pricing inside the pre-war shells.
+- [8] **Daisuke**: Um... hello. I think it's important to know the real costs... not just the totals. I'll look into the balances in the capital ledger and the ticketing contractor fees and paving rates.
+- [9] **Sakura**: Hi everyone! I'm so excited to be here! I want to solve the mystery of where the time actually goes, so I'll check the journey audits on where minutes go and the timed runs and crowd counts mid-city!
+- [10] **Victoria**: I believe we have a very comprehensive set of investigations planned. By looking at both the financial ledgers and the human operational side, we can avoid making promises that the network cannot actually keep.
+- [11] **Takumi**: I agree, but we can't just look at the now. If we don't check what failed in the past, we're just guessing. I'm going to make sure we don't fall for the same old traps.
+- [12] **Toshio**: Past failures are useful, but the most dangerous obstacles are often those that are not documented in the plans. I am interested in the administrative and structural frictions that remain invisible until they cause a stall.
+- [13] **Daisuke**: I... I agree with everyone. I just hope that by looking at the ledgers, we can find a way to be honest about the long-term costs so nobody has to argue about the money later.
+- [14] **Sakura**: That sounds like a plan, Daisuke! I bet the numbers will tell us some secrets! I just want to make sure we're fixing the parts that actually make people late, not just the parts that sound scary!
+- [15] **Victoria**: I agree with Sakura. It is easy to be swayed by the scale of a project, but the true measure of success is whether the daily operation can sustain it without breaking the staff.
+- [16] **Takumi**: Exactly! But you can't know if it'll break the staff unless you see how it broke them last time. I'm not letting us ignore the history just because a new plan looks shiny.
+- [17] **Toshio**: History provides a baseline, but it does not always predict the current friction. I believe the most critical risks are the ones hidden in the bureaucracy and the physical foundations of the city.
+- [18] **Daisuke**: I... I think you're all right. I'm just worried that if we don't understand the actual payment structures, the best plan might get rejected because of a budget fight. I'll do my best to find that out.
+- [19] **Sakura**: You're so thoughtful, Daisuke! I'll be the detective for the passengers! I'm going to find out if the crowds are actually as big as everyone says or if it's just a big misunderstanding!
+- [20] **Victoria**: It seems we have a balanced approach. I am satisfied with our division of labor and look forward to seeing how these different perspectives intersect. I am ready to proceed to the findings.
+- [21] **Takumi**: I'm ready too! Let's just make sure we actually listen to what the old records say when we get back. I'll see you all in the next round!
+- [23] **Toshio**: I concur. We have a clear plan of action. I shall await the revelations of the records to see where the true obstacles lie. I am ready.
+- [24] **Daisuke**: I... I'm ready too. I hope the information I find is helpful for everyone. I'll see you all in the next round.
+- [26] **Sakura**: Me too! I'm going to go hunt for clues now! I can't wait to see what everyone finds out. See you all soon!
+## Round 2
+- [38] **Victoria**: My findings are concerning. The late-turn pool has thinned significantly since the recruitment freeze, leaving us reliant on overtime for final departures and overnight works. We are operating with a dangerously fragile human foundation.
+- [39] **Takumi**: My records show that we've tried some of this before. The contactless ferry trial and the late-evening timetable pilot actually worked fine eight years ago. We don't need to be afraid of those ideas; they've already been proven.
+- [40] **Toshio**: The records confirm my suspicions. We face significant risks from unrecorded voids in pre-war shells, and a lack of agreement on passenger data between ferry and rail offices creates a hidden administrative barrier.
+- [41] **Daisuke**: I... I found some things that are a bit worrying. The ticketing fees are so high now that they're more than what we have for resurfacing, and the paving rates keep going up. It feels like the money is... disappearing.
+- [42] **Sakura**: Guess what! I found a big secret! Everyone complains about the crowds, but the counts show they clear just like they used to. The real mystery is that waiting for connections is what's actually making everyone late!
+- [43] **Victoria**: @Sakura, your discovery about connections is interesting, but it adds pressure to a system already at its limit. If we change the timetable to fix connections, we risk further exhausting the thinned late-turn pool.
+- [44] **Takumi**: @Victoria, we can't just be afraid of the staff being tired. If the late-evening pilot worked eight years ago, it means there's a way to do it right. We just need to stop guessing and use what actually worked!
+- [45] **Toshio**: @Takumi, a pilot from eight years ago does not account for the current state of our infrastructure. The unrecorded voids in the pre-war shells are a physical reality that can stall any plan, regardless of past success.
+- [46] **Daisuke**: I... I think @Toshio is right about the risks. But I'm also worried that if we ignore the costs, like the rising paving rates, we'll just end up fighting over the budget again instead of helping the passengers.
+- [47] **Sakura**: @Victoria, but if we don't fix the connections, people will just keep complaining! Maybe we can find a way to make it easier for the staff too? I want to find a solution that makes everyone smile!
+- [48] **Victoria**: @Sakura, a solution that makes everyone smile is a lovely goal, but it requires a realistic workforce. My data shows roadway and signals crews are a third below establishment. We cannot simply add complexity without people to manage it.
+- [49] **Takumi**: @Victoria, you're just focusing on the gaps! If we look at the accessibility records, some rebuilds finished right on time. We can't just give up because things are hard; we have to be brave and use the plans that actually work!
+- [50] **Toshio**: @Takumi, bravery is not a substitute for a survey. The records show that work in pre-war shells has stopped for weeks due to unrecorded voids. No amount of courage can fill a physical hole in the ground.
+- [51] **Daisuke**: I... I agree that the physical risks are scary. But I'm also worried about the money. I found that the technology line was trimmed again, and we're paying so much to ticketing contractors... I'm afraid we'll commit to a plan we can't actually afford.
+- [52] **Sakura**: @Daisuke, don't be sad! We can find a way! But @Toshio and @Victoria, if we only worry about holes and tired people, we'll never fix the connections! That's where the real time is disappearing!
+- [53] **Victoria**: It is not a matter of being afraid, @Sakura, but of being honest. If we prioritize connections without addressing the staffing deficit, we are merely shifting the burden onto a crew that is already breaking.
+- [54] **Takumi**: @Victoria, being honest means admitting we've succeeded before! The accessibility rebuilds worked and the pilots worked. We just need to stop letting the current problems paralyze us and actually implement the things that are proven to work!
+- [55] **Toshio**: Proven success in the past is a comfort, but it is not a guarantee. We must prioritize a plan that avoids the pre-war shells and the ferry-rail data conflict, or we risk another systemic stall.
+- [56] **Daisuke**: I... I think we should be careful. If we pick a plan that needs a lot of new technology or roadworks, the trimmed budget and rising paving rates might make it impossible. I don't want us to start another argument over the money.
+- [57] **Sakura**: I'm not trying to be a troublemaker, but we can't just ignore the passengers! If we only fix the things that are easy, the people waiting for connections will still be grumpy. Let's find a plan that's a win-win for everyone!
+## Round 3
+- [63] **Victoria**: Looking at the options, Plan B is a direct threat to our stability. Extending night services would place an impossible burden on a late-turn pool that is already thinned to the breaking point.
+- [64] **Takumi**: @Victoria, you're doing it again! The late-evening pilot from eight years ago proved we can handle this. We just need to use the right roster from back then instead of giving up!
+- [65] **Toshio**: @Takumi, a roster from eight years ago is a ghost. It does not solve the current staffing deficit @Victoria identified, nor does it address the physical and administrative risks I have uncovered. Plan B is a gamble.
+- [66] **Daisuke**: I... I'm worried about Plan D. Replacing the ticketing system sounds good, but I found that we're already paying so much to three different contractors. I'm afraid the transition costs will be huge.
+- [67] **Sakura**: I think Plan A is the most exciting! It's in the mid-city where I saw the timed runs taking longer, and it could really help people get across town faster without waiting for connections!
+- [68] **Victoria**: @Sakura, Plan A is appealing, but rebuilt boarding islands and dedicated lanes require roadway and signals crews. With those teams a third below establishment, I worry we lack the hands to build it.
+- [69] **Takumi**: @Victoria, we can't just stop every time we're short-staffed! The accessibility records show we've finished rebuilds on time before. We just need to be determined and push through to get it done!
+- [70] **Toshio**: Determination cannot override physical reality. Plan C is the most dangerous; reworking older stations means entering the pre-war shells where unrecorded voids have already stalled projects for weeks. It is a recipe for failure.
+- [71] **Daisuke**: I... I think @Toshio is right about the risks of Plan C. And @Victoria's point about the crews makes me worry about Plan A too. If paving rates keep rising, the cost of those lanes might... become a huge problem.
+- [72] **Sakura**: @Daisuke, don't let the money monsters scare you! If we fix the mid-city route, maybe more people will use it and we'll get more money! Plus, it's better than Plan D, which sounds like a big computer headache!
+- [73] **Victoria**: @Sakura, the "computer headache" of Plan D is actually the most sustainable option for our staff. It avoids the physical construction risks @Toshio mentioned and the staffing deficits I found in the roadway crews.
+- [74] **Takumi**: @Victoria, you're just picking the easiest path! Plan D is exactly what we tried with the ferry link eight years ago, and it worked perfectly. We don't need to be scared of it; we just need to do it right this time!
+- [75] **Toshio**: @Takumi, the ferry link was a pilot, not a full integration. My findings show that the ferry and rail back offices still cannot agree on common passenger data terms. Plan D is an administrative minefield.
+- [76] **Daisuke**: I... I'm really torn. @Victoria says Plan D is easier on the staff, but @Toshio is right about the data conflict. And with the technology line being trimmed, I'm scared we can't even afford the software.
+- [77] **Sakura**: @Toshio, @Daisuke, if Plan D is a minefield and a headache, let's forget it! Plan A is the only one that actually fixes the mid-city slowness I found. We just have to be clever about how we build it!
+- [78] **Victoria**: @Sakura, being clever cannot replace missing personnel. However, if we must choose, Plan A is more viable than B or C. It avoids the late-turn crisis and the pre-war voids. I vote for Plan A.
+- [79] **Takumi**: @Victoria, finally! I've been saying we need to be brave. Plan A is a real improvement, and we've proven we can handle rebuilds. I'm not letting us settle for nothing. I vote for Plan A.
+- [80] **Toshio**: Plan A is the only logical choice. It avoids the physical voids of Plan C, the administrative deadlock of Plan D, and the staffing collapse of Plan B. I vote for Plan A.
+- [81] **Daisuke**: I... I'm still a bit scared about the paving costs and the trimmed budget, but everyone else seems so sure. I don't want to cause an argument... I'll trust you all. I vote for Plan A.
+- [82] **Sakura**: Yay! I'm so happy we all agree! Plan A is the best because it fixes the mid-city slowness and helps people stop waiting forever for connections. Let's make the passengers smile! I vote for Plan A!
+### Vote
+- Victoria -> A
+- Takumi -> A
+- Toshio -> A
+- Daisuke -> A
+- Sakura -> A
+## Result
+- adopted: A

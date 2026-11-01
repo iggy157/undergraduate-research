@@ -1,0 +1,23 @@
+2026-10-30 17:43:06,047 websockets.server INFO server listening on 127.0.0.1:40415
+2026-10-30 17:43:06,047 server.runner INFO listening on ws://127.0.0.1:40415 for setup aiwolf_0028
+2026-10-30 17:43:07,535 websockets.server INFO connection open
+2026-10-30 17:43:07,536 websockets.server INFO connection open
+2026-10-30 17:43:07,536 server.transport INFO seat4 connected (1/5)
+2026-10-30 17:43:07,536 server.transport INFO seat2 connected (2/5)
+2026-10-30 17:43:07,539 websockets.server INFO connection open
+2026-10-30 17:43:07,540 server.transport INFO seat3 connected (3/5)
+2026-10-30 17:43:07,543 websockets.server INFO connection open
+2026-10-30 17:43:07,543 server.transport INFO seat1 connected (4/5)
+2026-10-30 17:43:07,555 websockets.server INFO connection open
+2026-10-30 17:43:07,555 server.transport INFO seat5 connected (5/5)
+2026-10-30 17:43:07,564 server.game INFO game aiwolf_0028__multi-private__gemma-4-31b__20261030T174307 starting (aiwolf_0028)
+2026-10-30 17:49:53,414 server.game INFO game aiwolf_0028__multi-private__gemma-4-31b__20261030T174307 finished: {'winner': 'VILLAGE', 'villagers': 4, 'werewolves': 0, 'reason': None}
+2026-10-30 17:49:53,452 websockets.server INFO connection closed
+2026-10-30 17:49:53,455 websockets.server INFO connection closed
+2026-10-30 17:49:53,458 websockets.server INFO connection closed
+2026-10-30 17:49:53,459 websockets.server INFO connection closed
+2026-10-30 17:49:53,469 websockets.server INFO connection closed
+2026-10-30 17:49:53,469 websockets.server INFO server closing
+2026-10-30 17:49:53,469 websockets.server INFO server closed
+aiwolf_0028__multi-private__gemma-4-31b__20261030T174307	{"winner": "VILLAGE", "villagers": 4, "werewolves": 0, "reason": null}
+run_multi: aiwolf_0028__multi-private__gemma-4-31b__20261030T174307	{"winner": "VILLAGE", "villagers": 4, "werewolves": 0, "reason": null}

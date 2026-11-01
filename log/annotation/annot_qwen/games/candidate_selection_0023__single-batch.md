@@ -1,0 +1,73 @@
+# candidate_selection_0023__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to know which past projects actually worked for the people using them.
+- [6] **Victoria**: I am concerned about how long the construction takes and how the rooms are used later.
+- [7] **Benjamin**: The schedules keep slipping. I want to see why the timelines are always wrong.
+- [8] **Kenji**: The costs on paper never match reality. I need to see the actual spending data.
+- [9] **Shunichi**: The same few staff are doing all the work. I want to check the staffing levels.
+- [10] **Mizuki**: @Benjamin, if the schedule slips, does that affect the final quality?
+- [11] **Victoria**: @Mizuki, yes, but I am more worried about the usage data after opening.
+- [12] **Benjamin**: @Victoria, usage is important, but we cannot build if the timeline is impossible.
+- [13] **Kenji**: @Shunichi, if staff are stretched thin, does that affect the maintenance costs?
+- [14] **Shunichi**: @Kenji, exactly. The routine upkeep is falling on the same tired people.
+- [15] **Mizuki**: I will look into the post-occupancy reviews and the survey findings in older blocks.
+- [16] **Victoria**: I will check the timetable records for rooms out of service and the booking data.
+- [17] **Benjamin**: I will look at the weather days in site diaries and the decade of delivery schedules.
+- [18] **Kenji**: I will investigate the tender records and the renewal reserve for equipment.
+- [19] **Shunichi**: I will look into the staffing posts since the hiring freeze and the bench technicians' routines.
+- [20] **Mizuki**: Let's see what the data says before we pick a winner.
+- [21] **Victoria**: Agreed. Data over opinion.
+- [22] **Benjamin**: I hope the numbers are honest this time.
+- [23] **Kenji**: I am ready to see the real costs.
+- [24] **Shunichi**: Let's hope the staff data shows we need help.
+## Round 2
+- [35] **Mizuki**: The post-occupancy reviews show spaces are rated highest when anyone can book them.
+- [36] **Victoria**: That matches my finding. General rooms are always full, specialist ones are idle.
+- [37] **Benjamin**: My data shows weather kills outdoor projects. Six weeks lost to rain and frost.
+- [38] **Kenji**: Tender records show mechanical plant costs rose by a fifth. That is a huge jump.
+- [39] **Shunichi**: Staffing posts are frozen. Technicians are doing manual checks because the equipment is old.
+- [40] **Mizuki**: @Benjamin, so outdoor projects are risky?
+- [41] **Victoria**: @Kenji, if mechanical costs are rising, that affects the lab upgrade significantly.
+- [42] **Benjamin**: @Mizuki, very risky. Inspection-driven works were on time, comfort-driven ones slipped.
+- [43] **Kenji**: @Victoria, yes. And we have no reserve for replacing old AV kit.
+- [44] **Shunichi**: @Mizuki, the reviews say shared spaces work best. That points to the Commons.
+- [45] **Mizuki**: The survey findings in older blocks are bad. Hazardous material adds months.
+- [46] **Victoria**: @Mizuki, that makes the older blocks a nightmare to renovate.
+- [47] **Benjamin**: @Shunichi, if technicians are overworked, a new lab might just add to their burden.
+- [48] **Kenji**: @Benjamin, true. But the lab upgrade is necessary for safety.
+- [49] **Shunichi**: @Kenji, safety is key, but we need to consider the staffing impact.
+- [50] **Mizuki**: I am leaning towards the Central Study Commons. It fits the usage data.
+- [51] **Victoria**: I agree. The booking data supports general-purpose spaces.
+- [52] **Benjamin**: The Media Center might be good, but the schedule risk is high.
+- [53] **Kenji**: The Lab Upgrade is expensive due to tender inflation.
+- [54] **Shunichi**: The Path Network is risky due to weather. The Commons seems safest.
+## Round 3
+- [60] **Mizuki**: Candidate A, the Central Study Commons, seems to align with the high usage ratings.
+- [61] **Victoria**: Candidate B, the Media Center, has idle specialist rooms, which is a concern.
+- [62] **Benjamin**: Candidate C, the Path Network, is too exposed to weather delays.
+- [63] **Kenji**: Candidate D, the Lab Upgrade, has high mechanical costs and no renewal reserve.
+- [64] **Shunichi**: Candidate A also helps with the general room shortage.
+- [65] **Mizuki**: @Victoria, do you think the Media Center will actually be used?
+- [66] **Victoria**: @Mizuki, the data says specialist rooms are idle. I am skeptical.
+- [67] **Benjamin**: @Kenji, the lab costs are worrying. Can we afford the inflation?
+- [68] **Kenji**: @Benjamin, it is tight. The tender records are not kind.
+- [69] **Shunichi**: @Mizuki, the Commons is a solid choice. It serves everyone.
+- [70] **Mizuki**: I am voting for A. It is the most practical and well-used option.
+- [71] **Victoria**: I am also voting for A. The booking data supports it.
+- [72] **Benjamin**: I am voting for A. It avoids the weather and cost risks of the others.
+- [73] **Kenji**: I am voting for A. It is the most cost-effective given the tender inflation.
+- [74] **Shunichi**: I am voting for A. It relieves the pressure on general rooms.
+- [75] **Mizuki**: It seems we are all in agreement.
+- [76] **Victoria**: Yes, the data points clearly to A.
+- [77] **Benjamin**: A is the logical choice.
+- [78] **Kenji**: A is the best value.
+- [79] **Shunichi**: A is the right decision.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> A
+## Result
+- adopted: A

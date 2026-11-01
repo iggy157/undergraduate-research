@@ -1,0 +1,73 @@
+# candidate_selection_0011__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. I am curious about what actually delivered value in past awards. Let us look at the closeout files of finished awards.
+- [6] **Ryuji**: I am concerned about the actual availability of skilled personnel. Let us examine the staffing rolls for technical posts to see who remains.
+- [7] **Victoria**: I worry about the shared infrastructure. If facilities are stretched thin, the whole project wobbles. Let’s check their current capacity and status.
+- [8] **Benjamin**: I suspect the headline grant size is a mirage. Let’s examine the travel and bench-fee lines in the ledgers to see what costs are shifting.
+- [9] **Midori**: I’m worried about where projects actually stall. Let’s examine the portfolio review of schedule overruns to see the real bottlenecks.
+- [10] **Shizue**: @Ryuji, your focus on people is wise. I will also review the minutes on secondments and crew strength to see who truly remains.
+- [11] **Ryuji**: @Shizue, your caution is sound. I will also review the minutes on secondments and crew strength to verify who is genuinely present.
+- [12] **Victoria**: @Benjamin, your ledger focus is sharp. I will also examine the national computing agreement and facility day rates to understand the true cost burden.
+- [13] **Benjamin**: @Victoria, your focus on computing costs is prudent. I will also review the national computing agreement and facility day rates to map the true financial burden.
+- [14] **Midori**: @Benjamin, I appreciate your caution. I will also examine the incident logs on shared instrumentation to see where work actually gets interrupted.
+- [15] **Shizue**: @Midori, your focus on interruptions is vital. I will stick with my two choices to understand what actually delivered value in the past.
+- [16] **Ryuji**: @Midori, interruptions are symptoms. I will stick with my two choices to verify who is genuinely present and who has already gone.
+- [17] **Victoria**: @Midori, interruptions are critical. I will stick with my two choices to understand the true capacity and cost burden of our shared infrastructure.
+- [18] **Benjamin**: @Midori, interruptions are symptoms of deeper structural issues. I will stick with my two choices to map exactly which costs the agency still absorbs centrally.
+- [19] **Midori**: @Shizue, I agree. I will stick with my two choices to understand where work actually gets interrupted.
+- [20] **Shizue**: @All, I am content with my choices. The past is the only honest witness. I look forward to seeing what the data reveals about our true capacity.
+- [21] **Ryuji**: @All, I am content with my choices. The data will reveal who is truly here. I look forward to our findings.
+- [22] **Victoria**: @All, I am content with my choices. The infrastructure data will reveal if we can truly support this work. I look forward to our findings.
+- [23] **Benjamin**: @All, I am content with my choices. The ledgers will reveal the true cost of this grant. I look forward to our findings.
+- [24] **Midori**: @All, I am content with my choices. The data will reveal where the real bottlenecks lie. I look forward to our findings.
+## Round 2
+- [35] **Shizue**: @Ryuji, the closeout files show catalogue work endures, while mechanism studies stall. The glasshouse crew remains, but the modelling analysts are abroad.
+- [36] **Ryuji**: @Shizue, the data confirms my fear. The phenotyping technicians are gone, and the modelling analysts are abroad. Only the glasshouse crew remains.
+- [37] **Victoria**: @Ryuji, the glasshouse is booked solid, but animal day rates spiked sharply. We must avoid proposals dependent on that expensive, constrained infrastructure.
+- [38] **Benjamin**: @Victoria, precisely. My ledgers confirm the shift: computing is free, but animal costs spiked. We must favor candidates who bypass that expensive, constrained infrastructure.
+- [39] **Midori**: @Benjamin, I agree. My data shows breeding colonies stall twice as often. We must favor computational depth to avoid these biological bottlenecks.
+- [40] **Shizue**: @Midori, your caution is well-placed. The closeout files confirm that mechanism-focused work often stalls. We must favor candidates with robust, non-biological workflows to ensure they actually finish.
+- [41] **Ryuji**: @Midori, your data aligns with my findings. The phenotyping technicians are gone, and the modelling analysts are abroad. We must favor candidates who rely on the glasshouse crew, not the absent minds.
+- [42] **Victoria**: @Ryuji, I agree. The glasshouse is our only stable asset. We must select a candidate that leverages this existing capacity, avoiding the costly animal infrastructure entirely.
+- [43] **Benjamin**: @Ryuji, I concur. The glasshouse subsidy is our only stable financial anchor. We must select a candidate that leverages this existing capacity, avoiding the costly animal infrastructure entirely.
+- [44] **Midori**: @Victoria, I agree. The spectroscopy suite was idle for eleven weeks. We must avoid candidates dependent on that broken equipment. Let’s focus on stable, computational workflows.
+- [45] **Shizue**: @Midori, I hear your concern. The closeout files show catalogue work endures, while mechanism studies stall. We must favor candidates with robust, non-biological workflows to ensure they actually finish.
+- [46] **Ryuji**: @Midori, the idle suite is a symptom of absent hands. We must choose work the glasshouse crew can sustain, not projects requiring the technicians who left.
+- [47] **Victoria**: @Midori, the idle suite is a warning. My data shows the glasshouse is fully booked. We must choose work that fits within this existing, stable capacity.
+- [48] **Benjamin**: @Midori, the idle suite is a symptom of absent hands. We must choose work the glasshouse crew can sustain, not projects requiring the technicians who left.
+- [49] **Midori**: @Shizue, I agree. The data is clear. We must avoid the broken spectroscopy suite and the stalled biological timelines. Let’s focus on candidates with robust, computational workflows.
+- [50] **Shizue**: @All, I am content with my findings. The past is the only honest witness. I look forward to seeing which candidates truly align with our enduring capacity.
+- [51] **Ryuji**: @All, I am content with my findings. The data confirms only the glasshouse crew remains. I look forward to seeing which candidates align with this reality.
+- [52] **Victoria**: @All, I am content with my findings. The infrastructure data confirms our constraints. I look forward to seeing which candidates truly fit our stable capacity.
+- [53] **Benjamin**: @All, I am content with my findings. The ledgers reveal the true cost structure. I look forward to seeing which candidates respect our financial reality.
+- [54] **Midori**: @All, I am content with my findings. The data reveals where work truly stalls. I look forward to seeing which candidates respect our operational reality.
+## Round 3
+- [60] **Shizue**: @All, the closeout files remind us that catalogue work endures, while mechanism studies often stall. I look to the candidates with gentle eyes.
+- [61] **Ryuji**: @Shizue, the glasshouse crew is our only stable asset. Candidate A relies on them. The others need absent technicians or broken equipment.
+- [62] **Victoria**: @Ryuji, I agree. Candidate A fits the glasshouse capacity perfectly. B and C rely on the expensive, constrained infrastructure we must avoid.
+- [63] **Benjamin**: @Victoria, precisely. A leverages the subsidized glasshouse and free computing. B and C trigger the cost spikes I found. A is the only financially viable path.
+- [64] **Midori**: @Benjamin, I agree. A uses the stable glasshouse. C needs the broken spectroscopy suite, and B risks the stalled biological timelines. A is the safest choice.
+- [65] **Shizue**: @Ryuji, I hear your concern. The closeout files show catalogue work endures, while mechanism studies stall. Candidate D is a catalogue, not a mechanism study.
+- [66] **Ryuji**: @Shizue, D requires field collection across climate zones. The phenotyping technicians who left were essential for that. We lack the hands to execute D reliably.
+- [67] **Victoria**: @Ryuji, I agree. D requires field logistics we cannot support. A stays within the booked glasshouse. B and C trigger the cost spikes I found. A is the only stable choice.
+- [68] **Benjamin**: @Ryuji, precisely. D’s field logistics trigger the shipping costs I found. A stays within the subsidized glasshouse. B and C trigger the cost spikes. A is the only financially viable path.
+- [69] **Midori**: @Ryuji, I agree. D’s field logistics are risky. A stays within the stable glasshouse. B and C trigger the cost spikes and broken equipment. A is the safest choice.
+- [70] **Shizue**: @Ryuji, I understand your caution. Yet D’s catalogue nature aligns with the enduring value I found. A is a mechanism study, which the closeout files warn often stalls.
+- [71] **Ryuji**: @Shizue, A is a controlled trial, not a stalled mechanism study. The glasshouse crew is present and stable. D requires absent field technicians. A is the only executable path.
+- [72] **Victoria**: @Shizue, A is a controlled trial, not a stalled mechanism study. The glasshouse crew is present and stable. D requires absent field technicians. A is the only executable path.
+- [73] **Benjamin**: @Shizue, A is a controlled trial, not a stalled mechanism study. The glasshouse subsidy covers it. D’s shipping costs are a trap. A is the only financially viable path.
+- [74] **Midori**: @Shizue, I hear your point. But A’s controlled trials avoid the field logistics and broken equipment risks. The data supports A as the most stable, executable path for us.
+- [75] **Shizue**: @Ryuji, you are right. A is a controlled trial, not a stalled mechanism study. The glasshouse crew is present and stable. I vote for A.
+- [76] **Ryuji**: @Shizue, I concur. A is the only path supported by the hands we truly possess. The glasshouse crew remains; the others are ghosts. I vote for A.
+- [77] **Victoria**: @Shizue, I agree. A respects the booked glasshouse capacity and avoids the cost spikes. It is the only choice that fits our stable infrastructure. I vote for A.
+- [78] **Benjamin**: @Shizue, I concur. A leverages the subsidized glasshouse and free computing, avoiding the cost spikes I found. It is the only financially viable path. I vote for A.
+- [79] **Midori**: @Shizue, I agree. A respects our operational reality, avoiding the broken equipment and stalled timelines. It is the most balanced choice. I vote for A.
+### Vote
+- Shizue -> A
+- Ryuji -> A
+- Victoria -> A
+- Benjamin -> A
+- Midori -> A
+## Result
+- adopted: A

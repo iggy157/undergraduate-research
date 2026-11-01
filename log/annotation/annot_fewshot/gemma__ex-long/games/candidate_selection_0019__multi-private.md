@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited to help pick the next exhibition! To make sure we have enough money for the fun stuff, I want to check the loan transport costs over three seasons and the mount-making charges and joiner's rate!
+- [6] **Victoria**: I believe we should consider the operational reality of our team. I would like to examine the conservation lab staffing and backlog, as well as the composition of the volunteer roster.
+- [7] **Shion**: It is a pleasure to be here. To ensure we do not simply choose a project that looks impressive on paper, I shall examine the weekend head counts across ten seasons and the five years of visitor comment slips.
+- [8] **Asuka**: To ensure the gallery can actually accommodate the physical requirements of a new exhibition without systemic failure, I will examine the structural survey of the suspended bay and the evening hire bookings in the gallery.
+- [9] **Shizue**: It is a joy to be with you all. To make sure our guests have a wonderful experience without any disappointments, I shall look into the lender paperwork against shipping cut-offs and the maintenance log for powered displays.
+- [10] **Mio**: That sounds like a great plan, everyone! I love how we're all looking at different things. I think we'll have a really clear picture of what we can actually do once we see the results!
+- [11] **Victoria**: I agree. By covering the financial, structural, and human elements of the museum's current state, we can avoid making a decision based on optimism alone and instead focus on what is truly sustainable.
+- [12] **Shion**: A comprehensive approach is indeed the most logical. While others focus on the machinery of the museum, I prefer to focus on the results. The data will reveal whether our ambitions actually align with the public's interest.
+- [13] **Asuka**: @Shion, public interest is irrelevant if the building cannot physically support the installation. I believe a pragmatic assessment of our spatial and scheduling constraints is the only way to ensure a successful exhibition.
+- [14] **Shizue**: Now, now, let us not be too stern. Both the heart of the visitor and the strength of the walls are important. I believe that by listening to all these perspectives, we shall find a lovely balance.
+- [15] **Mio**: @Asuka, you're so serious! But that's why it's great we're all here together! We can make sure the building is strong and the visitors are happy all at the same time! I can't wait!
+- [16] **Victoria**: @Mio, your enthusiasm is appreciated. However, I believe we must remain mindful that neither the building nor the visitors are served if the staff is stretched beyond their limits. The human capacity is the invisible foundation of every exhibition.
+- [17] **Shion**: @Victoria, a foundation is only useful if the structure it supports is actually visited. I find it curious that we prioritize the comfort of the staff over the actual evidence of what draws a crowd.
+- [18] **Asuka**: @Shion, a crowd is a liability if the space is overcapacity or the schedule is conflicted. We must prioritize the physical and operational limits of the gallery before we consider the volume of visitors.
+- [19] **Shizue**: It is so wonderful to see such passion for our museum. Let us remember that we are all on the same team, working together to create something beautiful for everyone to enjoy.
+- [20] **Mio**: I totally agree, Shizue! We're all working toward the same goal. I'm just so ready to see what we find out! Let's dive into the records and find the perfect show!
+- [22] **Victoria**: I concur. We have a balanced set of investigations. I look forward to seeing if the records reflect the actual capacity of our team to execute these plans.
+- [24] **Shion**: I shall await the findings with a measured curiosity. It will be interesting to see if the data supports your operational concerns or if it reveals a different priority entirely. I am ready.
+- [26] **Asuka**: I have no further points to add. I will proceed with my investigation to determine the actual physical and scheduling limits of the gallery. I am ready.
+- [28] **Shizue**: I agree. It is a lovely feeling to be in such good company. I shall go and see what the records tell us, and I look forward to hearing all your discoveries soon. I am ready.
+## Round 2
+- [40] **Mio**: Oh wow, you guys, I found something really surprising! It turns out we're spending a huge amount of money—like a third of the installation budget—just on moving and insuring loans! And the cost for making mounts is going way up!
+- [41] **Victoria**: My findings are quite sobering. The conservation lab is operating with only one filled post, leaving a backlog of two hundred pieces. Furthermore, our volunteer roster is heavily skewed toward a single local history group.
+- [42] **Shion**: My findings are quite revealing. The data shows a clear preference for dynamic displays over static ones, and more importantly, visitors return when there is a human presence—someone working or talking—rather than an empty room.
+- [43] **Asuka**: The structural survey reveals a strict weight limit in the suspended bay, and previous heavy installations required costly rerouting. Additionally, evening hires mean the gallery must accommodate caterers and furniture, risking damage to open displays.
+- [44] **Shizue**: My findings are a bit concerning, dear friends. It seems we have had several delays with paperwork from distant lenders, and our powered displays have been quite temperamental, often needing repairs during opening hours.
+- [45] **Mio**: @Victoria, that sounds so stressful for the lab! But look, if we pick a show that doesn't need a ton of new mounts or expensive shipping, maybe we can save money to help out!
+- [46] **Victoria**: @Mio, saving money is a start, but the issue is a lack of hands. With only one person in the lab and a massive backlog, we cannot afford a project that requires intensive conservation or stabilization.
+- [47] **Shion**: @Victoria, your concern for the staff is noted, but we must not let a staffing shortage dictate the quality of the experience. The data proves that static, "safe" displays fail to bring people back. We need engagement, not just stability.
+- [48] **Asuka**: @Shion, engagement is a luxury we cannot afford if the installation is physically unsustainable. If we choose a "dynamic" display that exceeds weight limits or is damaged by evening hire traffic, the experience will be a failure regardless of the concept.
+- [49] **Shizue**: @Asuka, @Shion, please let us be gentle with one another. It seems we are all seeing different pieces of the same puzzle. If we choose something too complex, we might find ourselves apologizing to our guests again.
+- [50] **Mio**: @Shizue, you're so right! We don't want any apologies. If we pick a show that's too fancy, we'll just spend all our money on shipping and mounts and have nothing left for the actual art! We need something simple and smart!
+- [51] **Victoria**: @Mio, simplicity is a necessity, not just a strategy. If we ignore the fact that our lab is essentially a one-person operation, we are setting the staff up for failure before the exhibition even opens.
+- [52] **Shion**: @Victoria, your focus on the lab is a narrow view of success. The records show that visitors are bored by empty galleries. If we prioritize a "simple" show to ease the staff's burden, we are merely choosing a predictable failure.
+- [53] **Asuka**: @Shion, predictability is a virtue when it comes to structural integrity. A "dynamic" show that requires shoring up the floor or risks being crushed by a caterer's chair is not a success; it is a liability. We must prioritize physical viability.
+- [54] **Shizue**: @Asuka, @Shion, I understand you both. But let us remember that a beautiful vision can be quite heartbreaking if the pieces arrive late or the lights go out. We must be mindful of the actual delivery.
+- [55] **Mio**: I totally get it! It's like we're all worried about different things breaking. But if we pick a show that's easy to ship and has its own supports, we can avoid those scary invoices and keep everyone happy!
+- [56] **Victoria**: @Mio, that is a helpful perspective, but we must also consider who is actually standing in the room. With a volunteer roster dominated by one specific group, we lack the diverse expertise needed for a complex show.
+- [57] **Shion**: @Victoria, relying on a specific group of volunteers is a management issue, not a reason to compromise the exhibition's appeal. The data is clear: the public wants movement and human interaction. We should choose a show that provides that, regardless of who is staffing it.
+- [58] **Asuka**: @Shion, your insistence on "movement" ignores the reality of the space. The gallery is a working building, not a vacuum. We cannot prioritize a crowd's desire for interaction over the physical safety of the floor and the risk of damage from evening hires.
+- [59] **Shizue**: It is a bit sad to see us so divided. Let us take a deep breath and remember that we all want the museum to shine. Perhaps the most loving choice is one that is gentle on our staff and reliable for our guests.
+## Round 3
+- [65] **Mio**: Looking at the options, Textiles of the Region seems like a winner! It's local, so shipping costs should be low, and the demonstration sessions give us that human touch Shion wants without breaking the bank!
+- [66] **Victoria**: @Mio, I agree that the local nature of Textiles of the Region is a strength. It avoids the shipping risks Shizue mentioned and, crucially, doesn't place an impossible burden on our depleted conservation lab.
+- [67] **Shion**: @Mio, @Victoria, you are both surprisingly aligned. Textiles of the Region is acceptable, but City Under Excavation is far more compelling. A working conservation bench provides the exact human presence the data proves visitors crave.
+- [68] **Asuka**: @Shion, City Under Excavation is a liability. Heavy reconstructions and site finds risk exceeding the suspended bay's weight limit, and a working bench in the gallery is an open arrangement that would be vulnerable to damage during evening hires.
+- [69] **Shizue**: @Asuka, you make a very sensible point about the risks. I worry that City Under Excavation might be too fragile for our space. Textiles of the Region feels like a gentle, reliable choice that won't let our guests down.
+- [70] **Mio**: @Shion, I love the idea of a working bench, but @Asuka is right—it sounds like a disaster waiting to happen with the evening hires! Textiles is just so much safer and way cheaper to set up!
+- [71] **Victoria**: @Shion, while a working bench sounds engaging, it is a dangerous fantasy given our reality. With only one person in the lab and a massive backlog, we cannot afford to move the work into the gallery.
+- [72] **Shion**: @Victoria, your fear of the backlog is precisely why the bench is necessary. It transforms a failure of efficiency into a public attraction. However, if you are all so terrified of risk, Textiles is a logical, if uninspired, compromise.
+- [73] **Asuka**: @Shion, it is not fear, but a calculation of risk. Light and Motion is equally problematic; overhead rigging in the suspended bay is a structural gamble, and kinetic works are prone to the power failures Shizue identified. Textiles is the only viable option.
+- [74] **Shizue**: @Asuka, you have a very keen eye for the details. I agree that Light and Motion sounds a bit too temperamental for our peace of mind. Textiles of the Region seems to be the most harmonious path for everyone.
+- [75] **Mio**: I'm so glad we're all agreeing! Textiles of the Region is just perfect. It's local, it's safe, and it won't leave us with a giant bill for shipping and mounts at the end! I'm totally voting for it!
+- [76] **Victoria**: @Mio, I agree. Textiles of the Region is the only choice that respects our current staffing crisis. It provides the human interaction Shion desires without exploiting a depleted lab or relying on a narrow volunteer base.
+- [77] **Shion**: @Victoria, your desire for safety is almost admirable in its predictability. While I find the lack of ambition disappointing, the demonstration sessions in Textiles of the Region do satisfy the data's demand for human presence. I shall concede.
+- [78] **Asuka**: The logic is consistent. Textiles of the Region avoids the weight risks of the excavation finds, the structural and electrical instability of the kinetic works, and the vulnerability of open arrangements during evening hires. It is the only sustainable choice.
+- [79] **Shizue**: It is such a relief to see us all finding common ground. Textiles of the Region is a lovely choice that honors our local community and ensures a peaceful experience for our visitors. I am happy to vote for it.
+- [80] **Mio**: Yay! I'm so happy we all agree! Textiles of the Region is the best way to make sure the show is amazing without any scary budget surprises. I vote for Textiles of the Region!
+- [81] **Victoria**: I agree. Textiles of the Region is the only proposal that aligns with our actual capacity and protects our remaining staff from burnout. I vote for Textiles of the Region.
+- [82] **Shion**: Since the data demands human interaction and the rest of you are too risk-averse for a working bench, this is the only logical path. I vote for Textiles of the Region.
+- [83] **Asuka**: The evidence is conclusive. Textiles of the Region is the only candidate that respects the physical limits of the building and the operational reality of the gallery's schedule. I vote for Textiles of the Region.
+- [84] **Shizue**: It has been a pleasure to find such unity with you all. By choosing a path that is gentle on our staff and reliable for our guests, we ensure a truly happy season. I vote for Textiles of the Region.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

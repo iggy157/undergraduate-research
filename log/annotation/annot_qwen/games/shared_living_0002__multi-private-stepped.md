@@ -1,0 +1,73 @@
+# shared_living_0002__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I think we should check the truck times first. It’s too loud!
+- [6] **Midori**: I agree, but we also need to know the costs. Who pays?
+- [7] **Shunichi**: Loudness is a symptom. Let’s look at the complaint log and measurements.
+- [8] **May**: I’m curious about the subsidy. Does the ward actually help us?
+- [9] **Asuka**: I want to see the ledger. We need to know who pays what.
+- [10] **Rin**: The truck comes at 7 AM. That’s when I’m waking up!
+- [11] **Midori**: 7 AM is early. Maybe we can negotiate a later slot?
+- [12] **Shunichi**: Negotiation requires data. Let’s see what the clerk says about filings.
+- [13] **May**: If the subsidy covers setup, maybe the time doesn’t matter as much.
+- [14] **Asuka**: Data is good. But I need to see the actual expense breakdown.
+- [15] **Rin**: I’ll look at the truck time and the complaint log.
+- [16] **Midori**: I’ll check the subsidy and the block ledger.
+- [17] **Shunichi**: I’ll investigate the filing requirements and the frontage measurements.
+- [18] **May**: I’ll look into the ward subsidy and the station block minutes.
+- [19] **Asuka**: I’ll check the block ledger and the residents' meeting statements.
+- [20] **Rin**: Okay, let’s see what we find. I hope it’s not too boring.
+- [21] **Midori**: I hope the numbers make sense. Balance is key here.
+- [22] **Shunichi**: Boring is fine. Clarity is better. Let’s proceed.
+- [23] **May**: Boring is safe. I’ll keep an eye on the hours, though.
+- [24] **Asuka**: Clarity is essential. I will review the documents carefully.
+## Round 2
+- [35] **Rin**: The truck comes at 7:40! That’s way too early for me.
+- [36] **Midori**: I found the subsidy covers 40% of setup, capped at 90k.
+- [37] **Shunichi**: The clerk says a permanent build needs five signatures and four months.
+- [38] **May**: The subsidy is nice, but the station block fell apart in two years.
+- [39] **Asuka**: The ledger shows 34k yen a year in extra fees from open bags.
+- [40] **Rin**: 7:40 is terrible. I can’t sleep through that noise.
+- [41] **Midori**: So we save 90k on setup, but we still pay 34k yearly.
+- [42] **Shunichi**: Four months is a long time. We need a faster option.
+- [43] **May**: If it breaks in two years, the subsidy is a trap.
+- [44] **Asuka**: The fees are from open bags. We need a lid or a rule.
+- [45] **Rin**: Can we move the truck time? Or build a sound barrier?
+- [46] **Midori**: A sound barrier might cost more than the subsidy covers.
+- [47] **Shunichi**: A temporary shelter is faster. But it might not last.
+- [48] **May**: I want to know the hours. How much time does this take?
+- [49] **Asuka**: The statements say nobody wants to police the bags. That’s the problem.
+- [50] **Rin**: I think we need a covered bin that’s quiet.
+- [51] **Midori**: A covered bin with a lock might work. Let’s see the options.
+- [52] **Shunichi**: A lock prevents open bags. But who holds the key?
+- [53] **May**: If it’s a hassle, people will stop using it. I need to know the time cost.
+- [54] **Asuka**: If we don’t assign responsibility, the fees will stay high. We need a plan.
+## Round 3
+- [60] **Rin**: Option A means I have to watch the bins. I hate that.
+- [61] **Midori**: Option C is expensive, but the subsidy helps. It’s a one-time cost.
+- [62] **Shunichi**: Option B is fair, but moving the bins is a hassle.
+- [63] **May**: Option A takes hours every week. I don’t have time for that.
+- [64] **Asuka**: Option B is the only one that doesn’t leave the burden on one gate.
+- [65] **Rin**: If I have to watch, I’ll be late for school. Option B is better.
+- [66] **Midori**: Option C is a big investment. But it solves the noise and smell.
+- [67] **Shunichi**: Option B is the most equitable. No one is stuck with the problem.
+- [68] **May**: Option B is less time for me. I can just move the bins when it’s my turn.
+- [69] **Asuka**: Option B ensures no single household bears the cost or the hassle permanently.
+- [70] **Rin**: I vote for B. I don’t want to be a bin guard.
+- [71] **Midori**: I’m leaning towards C. It’s a permanent fix. But B is fairer.
+- [72] **Shunichi**: I vote for B. It’s the most rational and fair solution.
+- [73] **May**: I vote for B. It minimizes my time commitment.
+- [74] **Asuka**: I vote for B. It addresses the inequity I see in the current setup.
+- [75] **Rin**: B is the winner! I’m happy. No more early mornings.
+- [76] **Midori**: B is fair. I can live with it. Let’s hope it works.
+- [77] **Shunichi**: B is the logical choice. Let’s implement it.
+- [78] **May**: B is efficient. I’m glad we avoided the time trap.
+- [79] **Asuka**: B is the only option that treats all households equally. I support it.
+### Vote
+- Rin -> B
+- Midori -> B
+- Shunichi -> B
+- May -> B
+- Asuka -> B
+## Result
+- adopted: B

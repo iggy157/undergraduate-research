@@ -1,0 +1,73 @@
+# shared_living_0028__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Shion**: The current state of the break room is inefficient. We need a formal purpose to stop the chaos from bleeding into our workspace.
+- [6] **Daisuke**: I... I agree. It feels like we're just guessing how to use it. Maybe we should see what's actually happening there.
+- [7] **Rin**: It's like a wild jungle! But someone always has to clean up the mess, and that's not fair. We need a real plan!
+- [8] **Servas**: Patience, everyone. While the room is chaotic, let us remember that the space between us is where our true connection grows. We need a place for honest talk.
+- [9] **Toshio**: A plan is necessary. However, we should first identify the hidden costs of the current arrangement before deciding on a new one.
+- [10] **Shion**: @Toshio, logic dictates we look at the physical disturbances first. The noise and the mess are the primary issues affecting our productivity.
+- [11] **Daisuke**: Um, if we could... maybe look at the money side too? I'm worried about what we're paying for things we can't do in that room.
+- [12] **Rin**: Yes! And who is actually using it? I bet some people just take over the whole place and leave the crumbs for others!
+- [13] **Servas**: It is wise to look at the patterns of our lives. Let us see how we have been spending our time and where our conversations have gone.
+- [14] **Toshio**: I agree with looking at usage, but I am specifically interested in the labor involved. We need to know where the hours are actually going.
+- [15] **Shion**: I'll focus on the sound and the hygiene. If we can prove the room is a nuisance, the solution becomes obvious.
+- [16] **Daisuke**: I... I'd like to see the invoices. And maybe the quotes for the fit-outs, just so we know the actual cost.
+- [17] **Rin**: I want to see the crumbs and the bins! And I want to know who is in there the most. No more guessing!
+- [18] **Servas**: I shall look into the unplanned talks and the locations of our awkward moments. The heart of the matter is often found in the silence.
+- [19] **Toshio**: I will investigate the outside hire invoices and the facilities callouts. I want to see the maintenance burden on this floor.
+- [20] **Shion**: Fine. Let's gather the data and meet back here. I expect a logical conclusion once the facts are presented.
+- [21] **Daisuke**: Okay... I'll do my best to help.
+- [22] **Rin**: This is like a detective game! I'm ready!
+- [23] **Servas**: May we find not just data, but a way to bring us closer together.
+- [24] **Toshio**: Agreed. Let us proceed with the investigation.
+## Round 2
+- [35] **Shion**: As I suspected, the room is a failure. The wall is practically transparent to sound, and the mess has migrated to our desks.
+- [36] **Daisuke**: I... I found out we're paying a lot for outside rentals. 68,000 yen just because we can't use our own room for certain things.
+- [37] **Rin**: I knew it! Two people are basically camping in there, and the rest of us are cleaning up the crumbs at our desks! It's totally unfair!
+- [38] **Servas**: My friends, the data shows a deeper hunger. We have no place for the difficult truths, and our new colleagues remain strangers to us.
+- [39] **Toshio**: The outside hire costs are a symptom of inefficiency. More concerning is that the maintenance burden is unevenly distributed across the floor.
+- [40] **Shion**: @Servas, "hunger" is irrelevant. The fact is that we are hearing everything that happens in there. It's a privacy nightmare and a distraction.
+- [41] **Daisuke**: The fit-out quotes are... quite high. One is 141,000 and the other is 96,000. I'm worried about who has to sign for that.
+- [42] **Rin**: Why should we pay for a fancy fit-out if the people using it won't even pick up their trash? We need a rule about cleaning!
+- [43] **Servas**: A wall can block sound, but it can also block the spirit. If we only seek silence, we may find ourselves in a very lonely office.
+- [44] **Toshio**: @Daisuke, the fit-out cost is a one-time expense. I am more concerned with the recurring loss of hours spent on upkeep and walking.
+- [45] **Shion**: If we want productivity, we must eliminate the noise. A dedicated, soundproofed space is the only logical path forward.
+- [46] **Daisuke**: I... I think I agree. If we spend the money now on a professional fit-out, we can stop paying those monthly outside hire fees.
+- [47] **Rin**: I'll agree to a fit-out if it means we get a schedule! No more "first come, first served." Everyone should have a turn!
+- [48] **Servas**: Let us consider a space that invites us to speak. A place where an awkward conversation can be resolved in private, rather than in public.
+- [49] **Toshio**: We must ensure the chosen option doesn't create a new maintenance vacuum. I will not support a plan that relies on unpaid labor.
+- [50] **Shion**: We are circling the same point. The room needs a singular, defined purpose to stop the overlap and the noise.
+- [51] **Daisuke**: I just want to make sure we have the figures on paper. If we can prove it saves money in the long run, it's easier to justify.
+- [52] **Rin**: Just make sure the "purpose" includes a cleaning chart! I'm not doing all the bins!
+- [53] **Servas**: Let us look at the options with a heart open to the needs of the people, not just the needs of the building.
+- [54] **Toshio**: I have seen enough. The current inefficiency is costing us more in time and money than a proper investment would.
+## Round 3
+- [60] **Shion**: Option B is the only logical choice. It solves the noise issue by regulating use and justifies the fit-out cost by replacing outside rentals.
+- [61] **Daisuke**: I... I think Option B is best too. The 68,000 yen we spent outside is a lot. Having a professional meeting space makes sense.
+- [62] **Rin**: Option B has a calendar! That means no one can just hog the room. If we have a schedule, it's fair for everyone!
+- [63] **Servas**: A meeting space is a start, but let us ensure it is not just for "business." It must be a sanctuary for the heart and the hard conversations.
+- [64] **Toshio**: Option B is the most efficient. It centralizes the activity and eliminates the wasted hours spent traveling to outside hire locations.
+- [65] **Shion**: @Servas, as long as the door closes and the sound stays inside, you can call it a sanctuary. The priority is the office environment.
+- [66] **Daisuke**: I'm still a bit nervous about the cost, but... seeing the outside hire invoices makes me realize we're already losing money.
+- [67] **Rin**: I just want to make sure that "Meeting Space" doesn't mean "Place where people leave coffee cups." We need a rule!
+- [68] **Servas**: If we create a space for connection, the respect for that space will follow. Let us vote for a place where we can finally know one another.
+- [69] **Toshio**: The maintenance for a meeting room is minimal compared to a kitchen. Option A would be a disaster for the floor's upkeep.
+- [70] **Shion**: Option A is out of the question. More food in the room means more crumbs at our desks. It's a logical failure.
+- [71] **Daisuke**: I agree. Option C is too passive. We actually need a place to work and talk, otherwise we'll keep paying for those outside rooms.
+- [72] **Rin**: Option C is boring! You can't have a schedule for "sitting alone." Option B is the only one that's fair and organized!
+- [73] **Servas**: While silence has its value, our current silence is a wall between us. We must choose the path that allows us to break that wall.
+- [74] **Toshio**: Option B minimizes the hidden labor of upkeep while maximizing the utility of the square footage. It is the only sustainable choice.
+- [75] **Shion**: It seems we are in agreement. The evidence of noise pollution and financial waste points directly to a regulated meeting space.
+- [76] **Daisuke**: I feel... better about this now. If we have a formal plan and a budget, I can support it.
+- [77] **Rin**: Yay! A calendar and a plan! I'll help make the cleaning chart for the meeting room!
+- [78] **Servas**: May this room become a bridge between us, where we can speak the truths that have been left unsaid for too long.
+- [79] **Toshio**: The decision is clear. Efficiency and cost-reduction align here. Let us vote.
+### Vote
+- Shion -> B
+- Daisuke -> B
+- Rin -> B
+- Servas -> B
+- Toshio -> B
+## Result
+- adopted: B

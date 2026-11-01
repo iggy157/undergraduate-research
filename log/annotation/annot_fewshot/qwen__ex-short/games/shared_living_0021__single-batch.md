@@ -1,0 +1,73 @@
+# shared_living_0021__single-batch (shared_living)
+
+## Round 1
+- [5] **Asuka**: I need to know how the flat fee lands on different members.
+- [6] **Shion**: I worry about the year-groups staying separate again this time.
+- [7] **Minato**: We need to ensure the organizers don't burn out like last year.
+- [8] **Misaki**: I must verify where the money actually goes before we commit.
+- [9] **Takumi**: I want to know if the sleeping arrangements will be comfortable.
+- [10] **Asuka**: @Minato, do you think the current setup is sustainable for the staff?
+- [11] **Shion**: @Asuka, I agree, fairness is key, but so is community.
+- [12] **Minato**: @Asuka, yes, the workload was too heavy for the previous team.
+- [13] **Misaki**: @Shion, I am looking into the financial records to be sure.
+- [14] **Takumi**: @Minato, I hope we can find a place where everyone sleeps well.
+- [15] **Asuka**: I will look at the transport receipts to see the costs.
+- [16] **Shion**: I will check what the seniors say about mixing year-groups.
+- [17] **Minato**: I will review the canteen closure and cooking duty logs.
+- [18] **Misaki**: I will look at the accounts from clubs that went inland.
+- [19] **Takumi**: I will check the prefecture rate sheet for public beds.
+- [20] **Asuka**: Also, I will check the quoting terms for whole-building lets.
+- [21] **Shion**: And I will look at the attendance sheets for away camps.
+- [22] **Minato**: I will also check the lottery and application for public bookings.
+- [23] **Misaki**: I will also check the vacation timetable for the club's own hall.
+- [24] **Takumi**: I will also check the membership list against first-train times.
+## Round 2
+- [35] **Asuka**: Transport is huge, 38% of costs if we go far.
+- [36] **Shion**: Seniors say mixing only happens when we sleep together.
+- [37] **Minato**: Cooking duty took two hours a day last year.
+- [38] **Misaki**: Inland clubs slept eight to a room with lights out at eleven.
+- [39] **Takumi**: Public beds are 1,100 yen a night, all-inclusive.
+- [40] **Asuka**: @Takumi, eight to a room sounds terrible for sleep.
+- [41] **Shion**: @Minato, that explains why the organizers were so tired.
+- [42] **Minato**: @Asuka, yes, and the application for public centers is a nightmare.
+- [43] **Misaki**: @Shion, is the campus option better for sleep?
+- [44] **Takumi**: @Misaki, the campus hall is already booked by three other clubs.
+- [45] **Asuka**: @Shion, if we stay local, do we still mix?
+- [46] **Shion**: @Asuka, probably not, unless we force it, which is hard.
+- [47] **Minato**: @Misaki, so the campus option is split into early and late slots?
+- [48] **Misaki**: @Minato, that sounds exhausting. I prefer the coastal lodge.
+- [49] **Takumi**: @Misaki, the coastal lodge has non-refundable deposits for dropouts.
+- [50] **Asuka**: @Misaki, that's a risk, but the transport cost is lower.
+- [51] **Shion**: @Asuka, I worry about the dropouts, but I want us to bond.
+- [52] **Minato**: @Shion, the public center is too rigid with the lottery.
+- [53] **Misaki**: @Minato, I agree, the coastal lodge feels more open.
+- [54] **Takumi**: @Misaki, I need to see the final numbers before I agree.
+## Round 3
+- [60] **Asuka**: Option A is cheap but split shifts. Option B is rigid. Option C is risky but fun.
+- [61] **Shion**: Option C seems best for mixing, despite the deposit risk.
+- [62] **Minato**: Option B is too much paperwork. Option A is too fragmented.
+- [63] **Misaki**: Option C is the only one where I can sleep well and have fun.
+- [64] **Takumi**: Option C has the highest per-head cost, but the transport is lower.
+- [65] **Asuka**: @Misaki, if we go with C, we need a strict headcount.
+- [66] **Shion**: @Asuka, I agree, we must be careful with the numbers.
+- [67] **Minato**: @Shion, I am worried about the non-refundable deposit.
+- [68] **Misaki**: @Minato, we can manage it if everyone commits early.
+- [69] **Takumi**: @Misaki, I will check the exact quote for the coastal lodge.
+- [70] **Asuka**: @Misaki, I think C is the best balance of cost and experience.
+- [71] **Shion**: @Asuka, I agree, the social aspect is crucial for the club.
+- [72] **Minato**: @Shion, I am still hesitant, but I see the logic.
+- [73] **Misaki**: @Minato, please, I really want to go to the coast!
+- [74] **Takumi**: @Minato, the financial gap is manageable if we are precise.
+- [75] **Asuka**: I am voting for C.
+- [76] **Shion**: I am voting for C.
+- [77] **Minato**: I am voting for C, reluctantly.
+- [78] **Misaki**: I am voting for C!
+- [79] **Takumi**: I am voting for C.
+### Vote
+- Asuka -> C
+- Shion -> C
+- Minato -> C
+- Misaki -> C
+- Takumi -> C
+## Result
+- adopted: C

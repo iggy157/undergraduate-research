@@ -1,0 +1,73 @@
+# candidate_selection_0013__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Good morning, everyone. I hope we are all feeling well today.
+- [6] **Yumi**: Morning, Shizue! I’m really excited to see what we can improve for everyone this year.
+- [7] **George**: Morning. I hope we can find a plan that doesn’t just add more work for the same tired people.
+- [8] **Mizuki**: I appreciate the optimism, Yumi. Let’s ensure we actually review the data before we commit to anything.
+- [9] **Benjamin**: I agree with Mizuki. Optimism is lovely, but data is safer. Let’s see what the numbers actually say before we cheer.
+- [10] **Shizue**: I worry about the calendar slipping again. Let’s look at the weather days in the site diaries and the survey findings in the older blocks.
+- [11] **Yumi**: I’m worried about how long projects take and how rooms are used later. I’ll check the timetable records and booking data.
+- [12] **George**: I’ll examine the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [13] **Mizuki**: I want to know which projects actually worked. I’ll check the post-occupancy review ratings and the decade of delivery schedules.
+- [14] **Benjamin**: I’ll examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [15] **Shizue**: I hope the diaries show us where the rain truly bites. Let’s see if we can plan around the weather, not just suffer through it.
+- [16] **Yumi**: I hope the booking data shows us if people actually use the spaces we build. Let’s make sure we aren’t just creating empty rooms!
+- [17] **George**: I suspect the freeze has left us stretched thin. I want to see if the technicians are drowning in manual tasks.
+- [18] **Mizuki**: I suspect the delivery schedules will reveal a pattern of slippage. Let’s see if comfort projects consistently underperform.
+- [19] **Benjamin**: I suspect the paper figures are fiction. Let’s see if the market has finally caught up with our delusions.
+- [20] **Shizue**: I am looking forward to seeing what the diaries and surveys reveal. Let us hope for a clearer path ahead.
+- [21] **Yumi**: I’m counting on the booking data to tell the truth about how we actually use these spaces. See you all next round!
+- [22] **George**: I’ll see if the logs confirm my fears about the workload. Let’s hope the data is honest.
+- [23] **Mizuki**: I’ll see if the reviews confirm my suspicion that we rarely ask what actually worked. Let’s hope the data is honest.
+- [24] **Benjamin**: I suspect the reserve is empty. Let’s see if we’re paying for ghosts. See you next round.
+## Round 2
+- [35] **Shizue**: Oh dear, six weeks lost to rain, and months for hazardous materials. That is a heavy burden for any calendar.
+- [36] **Yumi**: Wow, the booking data is shocking! Specialist rooms sit empty, but general ones are always full. We’re paying for off-site space too.
+- [37] **George**: The logs confirm it. Technicians waste hours on manual checks because the old extraction gear fails. We are stretched thin.
+- [38] **Mizuki**: The reviews are damning. Highest ratings went to bookable, shared spaces. Lowest to single-wing projects. We build for the few, not the many.
+- [39] **Benjamin**: The plant costs jumped a fifth, and the AV reserve is empty. We are funding ghosts with inflated bids.
+- [40] **Shizue**: @Yumi, that off-site cost is painful. @George, those manual hours are a real burden. We must plan for the unexpected.
+- [41] **Yumi**: @Mizuki, your review data matches my booking findings perfectly! Shared spaces win. @Benjamin, those empty reserves are scary. We need to be careful.
+- [42] **George**: @Mizuki, your review data aligns with my staffing concerns. We need shared spaces that don’t crush the same few people.
+- [43] **Mizuki**: @Yumi, @George, exactly. Shared, bookable spaces win. @Benjamin, your cost data explains why we avoid them. We must prioritize broad utility.
+- [44] **Benjamin**: @Mizuki, precisely. The market punishes complexity, yet we ignore the empty reserves. We must stop funding invisible liabilities.
+- [45] **Shizue**: @Mizuki, I hear you. Shared spaces seem wise, but the hazardous materials in older blocks make ground-floor conversions so risky.
+- [46] **Yumi**: @Shizue, that’s a huge risk! But @Mizuki, the data says shared spaces win. Can we find a safer location for a commons?
+- [47] **George**: @Shizue, ground-floor risk is real. But @Mizuki, if we pick a plan that doesn’t add manual labor, we might finally get some breathing room.
+- [48] **Mizuki**: @Shizue, the risk is real, but the data is clearer. We must choose broad utility over narrow comfort. Let us weigh the options carefully.
+- [49] **Benjamin**: @Shizue, the risk is real, but so is the cost of ignoring it. @Mizuki, let’s ensure we don’t just swap one hidden liability for another.
+- [50] **Shizue**: I worry about the rain and the hidden hazards. Let us hope the next options respect both our time and our safety.
+- [51] **Yumi**: I’m eager to see the candidates! Let’s hope they balance safety, cost, and actual usage. Ready to vote!
+- [52] **George**: I hope the options respect the people already carrying the weight. Let’s see what we are actually choosing.
+- [53] **Mizuki**: The data is clear: shared, bookable spaces outperform isolated ones. Let us see which candidate truly delivers that broad utility.
+- [54] **Benjamin**: Let us see which candidate survives contact with reality. I suspect most will crumble under the weight of their own hidden costs.
+## Round 3
+- [60] **Shizue**: Oh, the ground-floor hall worries me. The surveys showed hidden hazards there. I fear the calendar will slip again.
+- [61] **Yumi**: @Shizue, that’s a valid worry! But look at the booking data—general spaces are always full. A commons would actually be used, unlike the empty specialist rooms.
+- [62] **George**: @Yumi, the commons adds a service desk. With the hiring freeze, who staffs it? I refuse to burden the same tired people again.
+- [63] **Mizuki**: @George, the service desk is a staffing risk, but the data shows shared spaces win. @Shizue, the hazard risk is real, but so is the demand.
+- [64] **Benjamin**: @George, valid point. But @Shizue, the path network’s surfacing costs held steady. No hidden plant premiums, no empty reserves. It’s the only option that doesn’t bleed money.
+- [65] **Shizue**: @Benjamin, the steady costs are a relief. But @Yumi, the rain lost us six weeks. Outdoor paths are so exposed to the weather.
+- [66] **Yumi**: @Shizue, that’s a fair point! But @Benjamin, the path network is great for visitors, yet my data shows students desperately need indoor study space. Can we balance both?
+- [67] **George**: @Benjamin, the steady costs are good, but @Yumi, the path network ignores the technicians’ daily struggle. I cannot support a plan that leaves the labs broken.
+- [68] **Mizuki**: @George, the ventilation upgrade directly eliminates the manual labor you described. It is the only option that respects your staffing data while delivering broad utility.
+- [69] **Benjamin**: @Mizuki, you ignore the market. Plant costs rose a fifth. @George, your labor is real, but funding a premium upgrade is reckless. The path network is the only sane choice.
+- [70] **Shizue**: @Mizuki, I hear your concern for the staff. But @Benjamin, the weather risk for the paths is too great. I fear the calendar will slip again.
+- [71] **Yumi**: @Mizuki, I see your point about the staff! But @Benjamin, the path network is so exposed to rain. My data shows students need indoor space. Can we find a middle ground?
+- [72] **George**: @Mizuki, you are right. The ventilation upgrade is the only plan that actually relieves the technicians. I cannot vote for paths that ignore this daily struggle.
+- [73] **Mizuki**: @George, agreed. The ventilation upgrade solves your staffing crisis and meets the inspection deadline. @Benjamin, the premium is real, but the alternative is perpetual manual labor. I support D.
+- [74] **Benjamin**: @Mizuki, you are ignoring the market. A fifth premium on plant is reckless. @George, your labor is real, but the path network is the only option that doesn’t bleed money. I support A.
+- [75] **Shizue**: @Mizuki, I understand the need to help the staff. But @Shizue, the weather risk for the paths is too great. I fear the calendar will slip again.
+- [76] **Yumi**: @Mizuki, I hear you on the staff! But @Shizue, the rain risk is real. @Benjamin, the paths are safe, but my data screams for indoor space. I’m torn!
+- [77] **George**: @Mizuki, you are right. The ventilation upgrade is the only plan that actually relieves the technicians. I cannot vote for paths that ignore this daily struggle.
+- [78] **Mizuki**: @Benjamin, the premium is a one-time cost; the labor drain is perpetual. @George, D is the only choice that respects your data. I vote D.
+- [79] **Benjamin**: @Mizuki, perpetual labor is a budget line, not a moral argument. The market does not care about your feelings. I vote A.
+### Vote
+- Shizue -> D
+- Yumi -> C
+- George -> D
+- Mizuki -> D
+- Benjamin -> A
+## Result
+- adopted: D

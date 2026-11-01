@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Benjamin**: Since our household has grown, it is only logical to update our billing method. I suggest we look at the data first to avoid any... frosty surprises this winter.
+- [6] **Mio**: I'm totally on board! I just want to make sure whatever we pick isn't a huge headache to manage every month. Who's going to do the math?
+- [7] **Jonathan**: I agree that a fresh start is best. It would be helpful to see if the current distribution is actually fair to everyone involved.
+- [8] **Victoria**: I agree we need a new system. However, I believe it is essential to understand the annual fluctuations and any potential setup costs before we commit.
+- [9] **Minato**: I want everyone to be happy. Maybe we can see how we've been paying so far? I hope we can all stay friends while we figure this out.
+- [10] **Benjamin**: @Mio, a template might solve your headache. I'm curious about the actual energy draw per room; it would be quite illuminating, wouldn't it?
+- [11] **Mio**: Ooh, a template sounds like a lifesaver! I'm also curious about how other houses do it. Maybe they have a super easy trick we can steal!
+- [12] **Jonathan**: @Minato, looking at the payment logs is a good idea. I also think we should check the actual readings to see if some of us are using more than others.
+- [13] **Victoria**: @Benjamin, while readings are useful, I am more concerned with the long-term financial pattern. I want to see the actual statements from the last year.
+- [14] **Minato**: I think it would be good to see the payment log too. And maybe the things that happened when the last rooms were filled?
+- [15] **Benjamin**: A fair point, Victoria. I shall balance my curiosity with some practical history. Let us ensure we have a comprehensive view of the situation.
+- [16] **Mio**: I'm just imagining a giant spreadsheet that takes ten hours to fill out... let's definitely avoid that! I'm excited to see what we find!
+- [17] **Jonathan**: I believe that transparency will bring us peace. If we know the facts, there will be no need for guesswork or resentment.
+- [18] **Victoria**: Precisely. I also want to know if there are any immediate costs associated with changing the infrastructure, such as separate metering.
+- [19] **Minato**: I just don't want anyone to feel bad. If we look at the logs, maybe we can see if anyone was sad about the money?
+- [20] **Benjamin**: I believe we have a general consensus on the need for data. I shall leave you all to your selections, though I suspect we will find some interesting discrepancies.
+- [21] **Mio**: Yay! Let's do this! I'll go hunting for the easiest way to handle this so we can spend more time hanging out and less time doing math!
+- [22] **Jonathan**: I look forward to seeing the results. Let us proceed with kindness and an open mind.
+- [23] **Victoria**: I will focus on the financial reality of the past year and the costs of change. It is the only way to ensure stability.
+- [24] **Minato**: I'll do my best to help. I hope we can all be smiling when we decide.
+## Round 2
+- [35] **Benjamin**: It appears our rooms are not created equal. Some of us are essentially living in refrigerators while others bask in the sun. Quite a charming arrangement.
+- [36] **Mio**: Guys, I looked into the templates and other houses... and it looks like a total nightmare! It takes forever to do the math every single month!
+- [37] **Jonathan**: I noticed some inconsistencies in the payment logs. It seems there has been some tension regarding the amounts requested in the past.
+- [38] **Victoria**: The statements show extreme volatility between winter and summer. Furthermore, installing sub-meters would be an expensive and disruptive investment.
+- [39] **Minato**: I saw that some payments were late and people were confused. It makes me sad that the money made us feel bad toward each other.
+- [40] **Benjamin**: @Victoria, if sub-meters are too costly, we must find a logical way to account for the inherent unfairness of the room temperatures.
+- [41] **Mio**: @Benjamin, please don't suggest something that takes hours to calculate! I'm terrified we're going to end up with a monthly chore that kills our weekends!
+- [42] **Jonathan**: @Minato, it is okay to feel that way. The goal now is to create a system where no one feels they are carrying an unfair burden.
+- [43] **Victoria**: @Benjamin, the cost is not just the money, but the disruption. However, the current volatility is unsustainable for those of us budgeting strictly.
+- [44] **Minato**: @Jonathan, thank you. I just think we should be honest about how the money made us feel, so it doesn't happen again with the new rule.
+- [45] **Benjamin**: Honesty is a virtue, but logic is a tool. If we simply split everything equally, the person in the coldest room will either freeze or pay for the luxury of others.
+- [46] **Mio**: But if we make it too complex, the person doing the math will be the one who's miserable! Can't we just keep it super simple?
+- [47] **Jonathan**: Perhaps a middle ground exists. We can acknowledge the difference in usage without making the administration a full-time job.
+- [48] **Victoria**: A simple split is only "simple" if the costs are predictable. The current swings make a flat monthly fee difficult without a large reserve.
+- [49] **Minato**: I agree with Mio that it should be simple, but I agree with Jonathan that it should be fair. I just want us to be nice.
+- [50] **Benjamin**: I suspect we are all circling the same problem: the tension between simplicity and equity. I look forward to seeing the proposed options.
+- [51] **Mio**: I'm crossing my fingers for the simplest option possible! I really don't want to spend my evenings staring at a calculator!
+- [52] **Jonathan**: Let us consider the options carefully. The peace of the house depends on a solution that satisfies both the mind and the heart.
+- [53] **Victoria**: I will be looking for a solution that provides financial predictability and avoids high upfront costs.
+- [54] **Minato**: I hope we pick the one that makes everyone feel the most loved and respected.
+## Round 3
+- [60] **Benjamin**: Option A is a recipe for resentment. The person in the cold room will either suffer in silence or be the villain who raises the bill for everyone.
+- [61] **Mio**: Option A is the easiest to manage! No fancy templates, no year-end nightmares, just one division and we're done! I love it!
+- [62] **Jonathan**: Option A is simple, but it ignores the reality of our different usage patterns. I worry it will leave the same rumors of unfairness as before.
+- [63] **Victoria**: Option C is far too expensive and disruptive. Option A, while simple, offers no protection against the winter spikes I've seen in the statements.
+- [64] **Minato**: Option A seems like it would be the most peaceful because it's the simplest, but I'm worried it might make some people feel it's not fair.
+- [65] **Benjamin**: @Mio, simplicity is a luxury that often comes at the cost of someone else's comfort. I find Option B far more sophisticated and equitable.
+- [66] **Mio**: @Benjamin, "sophisticated" usually means "takes a long time to do!" Option B means someone has to track everything for a whole year and then do a giant calculation!
+- [67] **Jonathan**: Option B provides a level of predictability that could soothe the tension. It allows us to plan our finances without the monthly stress of fluctuating bills.
+- [68] **Victoria**: Option B is the most rational choice. It smooths out the seasonal peaks, preventing the "second rent" effect in winter, without the cost of sub-meters.
+- [69] **Minato**: If Option B helps people not worry about the money every month, then maybe that will stop the fighting? I like that idea.
+- [70] **Benjamin**: Precisely, Minato. It removes the immediate psychological pressure of the winter bill, preventing anyone from having to wear a coat indoors to save a few coins.
+- [71] **Mio**: But who does the year-end settle?! I've seen how that goes! It's a total disaster and takes hours of arguing over who used what!
+- [72] **Jonathan**: We can use a simple template for the year-end settle. The peace of mind throughout the year is worth a few hours of work in December.
+- [73] **Victoria**: I agree. The stability of a fixed seasonal rate is far more valuable than the convenience of a flat split. It allows for actual budgeting.
+- [74] **Minato**: I think if we all agree to be kind during the year-end settle, it will be okay. I'll help with the math if it makes people happy!
+- [75] **Benjamin**: It seems the weight of logic and stability is tipping the scales. I believe Option B is the only choice that respects both the wallet and the thermometer.
+- [76] **Mio**: I still hate the idea of a big year-end chore, but if everyone else is okay with it and Minato is helping... I guess I can live with it.
+- [77] **Jonathan**: I am satisfied with Option B. It addresses the unfairness of the current system while providing a calm, predictable environment for us all.
+- [78] **Victoria**: I am in agreement. Option B solves the volatility issue and avoids the prohibitive cost of Option C. It is the most sustainable path forward.
+- [79] **Minato**: I'm happy if everyone is happy. Let's go with the one that keeps us all friends.
+### Vote
+- Benjamin -> B
+- Mio -> A
+- Jonathan -> B
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

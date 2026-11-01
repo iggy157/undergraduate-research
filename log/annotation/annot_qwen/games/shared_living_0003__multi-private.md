@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I need to check the badge records and the morning routine upstairs. My gaps are tiny, so I can’t afford any extra delays during the move.
+- [6] **Toshio**: I’m concerned about the budget. I’ll check the floor billing basis and the facilities quote for re-running power.
+- [7] **Mizuki**: I’ll review the drawn plan against the staff survey and the unplanned seat shuffles. We need to see if the current layout actually matches what people reported needing.
+- [8] **Shion**: Comfort is the only metric that matters. I’ll check the sound meter readings and the physio’s note.
+- [9] **Yumi**: I want to see what the new joiners reported and check the unplanned shuffles. Let’s make sure we’re not just repeating old mistakes!
+- [10] **Rin**: @Toshio, if the power rerun takes days, my gaps vanish. How long does that actually take?
+- [11] **Toshio**: I don’t have the quote yet. But if it delays your routine, we should consider a phased approach to minimize disruption.
+- [12] **Mizuki**: @Rin, delays are manageable. But @Toshio, if we phase it, who sits in the temporary, worse spots? We need to decide that explicitly now.
+- [13] **Shion**: @Mizuki, temporary spots are irrelevant. I need permanent acoustic and ergonomic certainty. Who else prioritizes physical comfort over logistical convenience?
+- [14] **Yumi**: @Shion, comfort matters, but so does connection! I’m checking the shuffles to see if we can sit closer to friends.
+- [15] **Rin**: @Yumi, friendship is nice, but my schedule is fragile. If the move drags on, I lose everything. We need speed, not just proximity.
+- [16] **Toshio**: @Rin, speed is a luxury we can’t afford if the costs spiral. I need to verify the billing basis before we commit to any timeline.
+- [17] **Mizuki**: @Toshio, cost is valid, but silence isn’t. We must name who takes the worse seats. Let’s not let habit decide that for us.
+- [18] **Shion**: @Mizuki, silence is a luxury. I’ll ensure my permanent spot is acoustically and ergonomically perfect. Who else values physical comfort over logistical convenience?
+- [19] **Yumi**: @Mizuki, I agree! Let’s not let furniture decide our friendships. I’m checking the shuffles to see if we can sit closer to friends.
+- [20] **Rin**: @Shion, comfort is great, but I need to know if the move steals my morning gaps. Speed is my priority.
+- [21] **Toshio**: @Rin, speed is a luxury we can’t afford if the costs spiral. I need to verify the billing basis before we commit to any timeline.
+- [22] **Mizuki**: @Rin, speed is necessary, but fairness is non-negotiable. We must explicitly assign the less desirable seats to avoid hidden resentment.
+- [23] **Shion**: @Rin, speed is irrelevant if the chair hurts. I’m securing the quietest, most ergonomic spot. Comfort is the only metric that matters.
+- [24] **Yumi**: @Rin, I hear you! But let’s not rush into bad spots. I’m checking the shuffles to see if we can sit closer to friends.
+## Round 2
+- [35] **Rin**: @Toshio, the pilot floor took up to nine minutes per person. That’s huge for my tiny gaps. How do we speed that up?
+- [36] **Toshio**: @Rin, nine minutes is manageable. But every desk move costs 6,200 yen. We must minimize changes to control the budget.
+- [37] **Mizuki**: @Toshio, cost is valid, but the survey shows daylight is the top complaint. We must explicitly assign the three interior-wall seats to avoid hidden resentment.
+- [38] **Shion**: @Mizuki, daylight is irrelevant. The window side is nine decibels quieter. I’m claiming that row. The physio note confirms I need time to adjust, so I’m staying put.
+- [39] **Yumi**: @Shion, staying put means missing out! The joiners learned by overhearing, so we need to sit where we can actually talk.
+- [40] **Rin**: @Shion, if you stay put, I lose my morning gap. I need speed, not your comfort. How do we move fast?
+- [41] **Toshio**: @Rin, speed costs money. Every move is 6,200 yen. We must limit changes to protect the budget.
+- [42] **Mizuki**: @Rin, speed is vital, but the shuffles show chaos costs more. We must explicitly assign the three interior-wall seats to prevent resentment.
+- [43] **Shion**: @Rin, speed is irrelevant if the chair hurts. I’m securing the quietest, most ergonomic spot. Comfort is the only metric that matters.
+- [44] **Yumi**: @Rin, I get it! But those shuffles took two weeks. Let’s plan carefully so we don’t repeat that chaos.
+- [45] **Rin**: @Toshio, nine minutes is too long. If we pre-charge cables and label ports, can we cut that to two? I need my gaps back.
+- [46] **Toshio**: @Rin, pre-charging saves time, not the 6,200 yen per move. We must limit changes to protect the budget.
+- [47] **Mizuki**: @Toshio, limiting changes ignores the survey. Daylight is the top complaint. We must explicitly assign the three interior-wall seats to prevent hidden resentment.
+- [48] **Shion**: @Mizuki, daylight is a distraction. The window row is nine decibels quieter. I need that acoustic certainty. I’m not moving for your survey.
+- [49] **Yumi**: @Mizuki, I agree! Let’s assign those seats fairly. I want to sit where I can actually talk to everyone, not just hide away!
+- [50] **Rin**: @Toshio, if we pre-label everything, we cut the nine minutes. That saves my gaps. Can we do that without extra cost?
+- [51] **Toshio**: @Rin, labeling is free, but the 6,200 yen per move is not. We must limit changes to protect the budget.
+- [52] **Mizuki**: @Toshio, limiting changes ignores the survey. Daylight is the top complaint. We must explicitly assign the three interior-wall seats to prevent hidden resentment.
+- [53] **Shion**: @Mizuki, daylight is a distraction. The window row is nine decibels quieter. I need that acoustic certainty. I’m not moving for your survey.
+- [54] **Yumi**: @Toshio, I hear you on the budget! But if we don’t sit where we can talk, we lose the team. Let’s find a middle ground!
+## Round 3
+- [60] **Rin**: @Toshio, Option A is chaos. I need a fixed spot to protect my gaps. Can we pre-label cables for Option C?
+- [61] **Toshio**: @Rin, Option C is the only one that avoids the 6,200 yen per move. Stability protects the budget.
+- [62] **Mizuki**: @Toshio, Option C locks in the unfairness. The survey shows daylight is the top complaint. We must explicitly assign the three interior-wall seats to prevent hidden resentment.
+- [63] **Shion**: @Mizuki, resentment is irrelevant. Option C guarantees my window seat. I need that acoustic certainty. I’m voting C.
+- [64] **Yumi**: @Shion, I get the comfort! But Option C locks us in. I want to sit where I can actually talk to everyone, not just hide away!
+- [65] **Rin**: @Mizuki, Option C is my only hope. If we pre-label cables, I save my gaps. Can we do that?
+- [66] **Toshio**: @Rin, pre-labeling is free, but Option C is the only choice that avoids the 6,200 yen per move. Stability protects the budget.
+- [67] **Mizuki**: @Rin, Option C is stable, but it hides the unfairness. We must explicitly name who takes the interior-wall seats to prevent resentment.
+- [68] **Shion**: @Mizuki, resentment is a luxury. Option C secures my acoustic and ergonomic certainty. I am voting C.
+- [69] **Yumi**: @Mizuki, I agree! Let’s name those seats fairly. But I worry Option C stops us talking. Can we mix it up?
+- [70] **Rin**: @Yumi, Option C is the only way to keep my gaps safe. Pre-labeling cables makes it fast. I’m voting C!
+- [71] **Toshio**: @Rin, Option C is the only choice that avoids the 6,200 yen per move. Stability protects the budget. I am voting C.
+- [72] **Mizuki**: @Rin, I support C for stability, but we must explicitly assign the interior-wall seats. We cannot let habit decide who suffers the worst light.
+- [73] **Shion**: @Mizuki, resentment is irrelevant. Option C guarantees my window seat. I need that acoustic certainty. I’m voting C.
+- [74] **Yumi**: @Rin, I hear you! But if we lock in, we lose the team. I’m voting B to keep us talking!
+- [75] **Rin**: @Yumi, Option B means moving desks, which costs money and steals my gaps. I need stability. I am voting C!
+- [76] **Toshio**: @Yumi, Option B triggers the 6,200 yen fee every rotation. That is financially unsustainable. I am voting C to protect the budget.
+- [77] **Mizuki**: @Yumi, I vote C, but only if we explicitly assign the interior-wall seats. We must name who carries the worse end, not let habit decide.
+- [78] **Shion**: @Yumi, Option B disrupts my settled ergonomics. I need permanent acoustic certainty. I am voting C.
+- [79] **Yumi**: @Mizuki, I hear you! But if we lock in, we lose the team. I’m voting B to keep us talking!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> B
+## Result
+- adopted: C

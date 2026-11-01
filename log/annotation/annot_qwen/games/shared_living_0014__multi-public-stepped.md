@@ -1,0 +1,73 @@
+# shared_living_0014__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I want to understand why we feel crowded or alone. Let's look at last year's flow.
+- [6] **Shizue**: I worry about who pays for what. Let's check the all-in rates versus separate meals.
+- [7] **Minato**: I sleep badly away from home. I want to know about bathing hours and bathroom provision.
+- [8] **Jonathan**: The travel eats my rest. I need to see ferry sailings and train time.
+- [9] **Midori**: I hate surprise bills. I want to know what separately booked rooms cost last time.
+- [10] **Mizuki**: @Minato, do you think the bathroom situation affects your sleep?
+- [11] **Shizue**: @Midori, knowing the cost difference might help us agree on a budget early.
+- [12] **Minato**: Yes, the water temperature and timing matter a lot to me.
+- [13] **Jonathan**: The train time is short, but the ferry takes two days. That is significant.
+- [14] **Midori**: I just want to know the total before we commit. No surprises.
+- [15] **Mizuki**: @Jonathan, if the ferry takes two days, does that ruin the trip for you?
+- [16] **Shizue**: I think a clear payment structure is essential for peace of mind.
+- [17] **Minato**: I am not sure. I just want to know what to expect.
+- [18] **Jonathan**: It does. I prefer the train. It is quicker and less disruptive.
+- [19] **Midori**: I agree with Jonathan. Less travel time is better for everyone.
+- [20] **Mizuki**: Let's see what we find. I will look into how last year's days ran.
+- [21] **Shizue**: I will look into all-in rates against meals bought separately.
+- [22] **Minato**: I will look into bathing hours and bathroom provision.
+- [23] **Jonathan**: I will look into ferry sailings and train time.
+- [24] **Midori**: I will look into what separately booked rooms cost last time.
+## Round 2
+- [35] **Mizuki**: Last year we barely saw each other. A shared house meant no privacy. I need balance.
+- [36] **Shizue**: I found that separate rooms cost nearly 8,000 yen more than a whole house. One bill is fairer.
+- [37] **Minato**: The island houses have one bathroom and cold water. That sounds difficult for me.
+- [38] **Jonathan**: The ferry takes two days. The train is ninety minutes. I strongly prefer the train.
+- [39] **Midori**: A whole house bill is much easier to manage. I hate the uncertainty of separate bookings.
+- [40] **Mizuki**: @Shizue, a single bill sounds good, but I need space to breathe.
+- [41] **Shizue**: @Mizuki, a town with streets and a public bath might give you that space.
+- [42] **Minato**: I am worried about the cold water. I need a reliable bathroom.
+- [43] **Jonathan**: The city has trains every few minutes. The spa valley bus stops early.
+- [44] **Midori**: The city option seems flexible. But I worry about the cost of separate meals.
+- [45] **Mizuki**: The spa town has a public bath. That could solve my privacy issue.
+- [46] **Shizue**: The all-in rate at the inn is fair. It avoids the argument over who ate what.
+- [47] **Minato**: The inn baths are open late. That is good. But I need to know the room layout.
+- [48] **Jonathan**: The train to the spa valley is quick. I can get there and back without losing a day.
+- [49] **Midori**: The all-in rate means I know the total cost. That is what I need.
+- [50] **Mizuki**: I am leaning towards the spa town. It offers structure and space.
+- [51] **Shizue**: I agree. The inn arrangement seems the most harmonious for our group.
+- [52] **Minato**: I am still concerned about the room, but the bath hours are good.
+- [53] **Jonathan**: I am happy with the spa town. The travel time is minimal.
+- [54] **Midori**: I am also leaning towards the spa town. The cost is clear and the travel is short.
+## Round 3
+- [60] **Mizuki**: Option A seems to address my need for both togetherness and space.
+- [61] **Shizue**: Option A has a clear cost structure. I feel safe choosing it.
+- [62] **Minato**: Option A has good bath hours. I hope the rooms are comfortable.
+- [63] **Jonathan**: Option A is the only one where I don't lose a day to travel.
+- [64] **Midori**: Option A has a clear all-in cost. I can budget for it easily.
+- [65] **Mizuki**: @Minato, are you comfortable with the inn room arrangement?
+- [66] **Shizue**: @Mizuki, I think the public bath will give you the space you need.
+- [67] **Minato**: I am a little nervous, but I trust the group. I will try to relax.
+- [68] **Jonathan**: I am ready to vote. Option A is my clear choice.
+- [69] **Midori**: I am also ready. Option A is the most practical for me.
+- [70] **Mizuki**: I will vote for Option A. It balances our needs well.
+- [71] **Shizue**: I will vote for Option A. It is fair and peaceful.
+- [72] **Minato**: I will vote for Option A. I hope it works out.
+- [73] **Jonathan**: I will vote for Option A. It is efficient and calm.
+- [74] **Midori**: I will vote for Option A. It is clear and manageable.
+- [75] **Mizuki**: I am confident in this choice.
+- [76] **Shizue**: I am glad we are in agreement.
+- [77] **Minato**: I am looking forward to it.
+- [78] **Jonathan**: I am ready to go.
+- [79] **Midori**: I am ready to go.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> A
+- Jonathan -> A
+- Midori -> A
+## Result
+- adopted: A

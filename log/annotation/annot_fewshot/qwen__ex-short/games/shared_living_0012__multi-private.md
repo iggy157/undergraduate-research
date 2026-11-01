@@ -1,0 +1,73 @@
+# shared_living_0012__multi-private (shared_living)
+
+## Round 1
+- [5] **Kenji**: I worry about us staying friends after this.
+- [6] **Shizue**: I agree, Kenji. We must keep our peace. Let us find a solution that respects everyone’s daily life.
+- [7] **Asuka**: I need to quantify the actual time burden. Promises are useless without hours.
+- [8] **Rin**: I hate walking past the corner in August. It smells terrible.
+- [9] **Servas**: We must balance the cost with our shared dignity. Let us look at the numbers before we judge.
+- [10] **Kenji**: @Asuka, I hear you, but please keep it light. We still have to share this lane.
+- [11] **Shizue**: @Kenji, you are right. Let us be gentle. I will check the ward complaint log and the station block's meeting minutes to understand the history.
+- [12] **Asuka**: @Shizue, history is useful, but I need current data. I will check the block ledger and the ward filing requirements.
+- [13] **Rin**: @Asuka, I want to see who actually suffers most. I will check the ward complaint log and the station block's meeting minutes.
+- [14] **Servas**: @Rin, the smell is real, but the ledger tells the deeper story. I will check the block ledger and the ward subsidy costs.
+- [15] **Kenji**: @Rin, I will check the truck arrival time and the ward complaint log. I want to see if the timing causes the friction.
+- [16] **Shizue**: @Kenji, that is wise. I will also look at the ward complaint log and the station block's meeting minutes to see the full picture.
+- [17] **Asuka**: @Kenji, timing is critical for my hours calculation. I will check the truck arrival time and the ward filing requirements.
+- [18] **Rin**: @Kenji, I hope the truck comes when I am not there. I will check the truck arrival time and the ward complaint log.
+- [19] **Servas**: @Kenji, timing is key, but the money is the root. I will check the block ledger and the ward subsidy costs to see the true burden.
+- [20] **Kenji**: @Servas, I hope the numbers show a fair way forward. I will check the residents' meeting statements and the frontage measurements to see if we can share the load equally.
+- [21] **Shizue**: @Kenji, I hope so too. I will check the ward complaint log and the station block's meeting minutes to understand the history.
+- [22] **Asuka**: @Kenji, frontage is irrelevant to my hours. I will check the supervised mornings and the ward filing requirements to see the actual workload.
+- [23] **Rin**: @Kenji, I hope the frontage shows who is stuck with the gate. I will check the frontage measurements and the station block's meeting minutes.
+- [24] **Servas**: @Kenji, I agree. I will check the block ledger and the ward subsidy costs to see the true burden.
+## Round 2
+- [35] **Kenji**: @Rin, the truck comes at seven forty. That explains the smell. @Asuka, the gate household filed eleven complaints.
+- [36] **Shizue**: @Kenji, eleven complaints from one gate is heavy. I hope the station block’s minutes show us how to avoid their early fights.
+- [37] **Asuka**: @Kenji, the filing process takes four months. That is a significant delay. I need to know the exact hours for supervision.
+- [38] **Rin**: @Kenji, the frontage measurements show one house is stuck with the gate. @Shizue, the station block fought over sweeping within two years.
+- [39] **Servas**: @Kenji, the ledger shows thirty-four thousand yen yearly in waste. @Asuka, the subsidy covers only forty percent. We must share the rest fairly.
+- [40] **Kenji**: @Asuka, four months is too long to wait. @Rin, if one house bears the gate, that is unfair. We need a rotation.
+- [41] **Shizue**: @Kenji, I agree. A rotation prevents one family from carrying the burden alone. Let us find a way that keeps our lane peaceful.
+- [42] **Asuka**: @Kenji, four months is unacceptable. @Shizue, rotation is logical, but I need the specific hours per shift to verify the total annual burden.
+- [43] **Rin**: @Asuka, I agree, but hours are only half the story. @Kenji, if we rotate, does the gate move too? I need to know who actually holds the latch.
+- [44] **Servas**: @Asuka, the subsidy caps at ninety thousand, but shelters cost two hundred forty-eight thousand. We must share the gap wisely.
+- [45] **Kenji**: @Rin, yes, the gate moves with the rotation. @Asuka, I will check the supervised mornings to see if the hours are manageable for everyone.
+- [46] **Shizue**: @Kenji, that sounds sensible. I worry about the physical strain on our shoulders, though. Let us ensure the shifts are gentle for all.
+- [47] **Asuka**: @Kenji, fifty minutes per shift is manageable. @Shizue, the physical strain is minimal if we rotate. I need to confirm the total annual hours.
+- [48] **Rin**: @Asuka, fifty minutes sounds easy, but who holds the latch? @Kenji, if the gate moves, does the smell move too? I need to know the physical reality.
+- [49] **Servas**: @Rin, the smell follows the open bags, not the gate. @Asuka, fifty minutes is a small price for peace. Let us ensure the cost is shared equally.
+- [50] **Kenji**: @Rin, the smell stays where the bags are. @Servas, I worry about the cost gap. Let us find a way that keeps our doors open to each other.
+- [51] **Shizue**: @Kenji, I agree. Let us share the cost so no one feels the pinch. @Rin, I hope the rotation keeps the air fresh for all of us.
+- [52] **Asuka**: @Servas, the cost gap is a fact, but my concern is the time. @Kenji, twenty shifts a year is the baseline. I need to know if that is sustainable for all five households.
+- [53] **Rin**: @Asuka, twenty shifts is fine, but I need to know if the gate moves with the bags. I refuse to let one house suffer while we just walk past.
+- [54] **Servas**: @Asuka, twenty shifts is manageable. @Rin, the gate moves with the rotation. Let us ensure the financial burden is shared equally, not just the labor.
+## Round 3
+- [60] **Kenji**: @Rin, Option B moves the gate, so no one is stuck. @Asuka, the hours are fixed. I hope this keeps our doors open.
+- [61] **Shizue**: @Kenji, I agree. Option B feels the kindest. It shares the burden so no one family carries the weight alone.
+- [62] **Asuka**: @Kenji, Option B requires a new filing for every move. That is four months of delay per site. Option C keeps the location fixed, avoiding that bureaucratic trap.
+- [63] **Rin**: @Asuka, four months per move is impossible! @Kenji, Option B is the only one where the gate actually moves. I refuse to let one house suffer.
+- [64] **Servas**: @Asuka, the filing delay is a real shadow. @Rin, but Option C keeps the smell trapped in one spot. We must weigh the time against the air we breathe.
+- [65] **Kenji**: @Asuka, I hear the delay worry, but @Rin, the smell is real. @Shizue, Option B feels fairer for our friendship.
+- [66] **Shizue**: @Kenji, I agree. Option B feels the kindest. It shares the burden so no one family carries the weight alone.
+- [67] **Asuka**: @Rin, the smell is a symptom, not the cause. Option C fixes the location, eliminating the four-month filing delay. I need to know the exact oversight hours for C.
+- [68] **Rin**: @Asuka, the smell is the cause! If it stays put, one house suffers. @Kenji, Option B is the only fair choice.
+- [69] **Servas**: @Asuka, the delay is a burden, but so is the smell. @Rin, Option B moves the pain, but the cost remains. We must share the financial weight equally.
+- [70] **Kenji**: @Asuka, the delay is scary, but @Rin, the smell is worse. @Shizue, Option B keeps our lane friendly.
+- [71] **Shizue**: @Kenji, I agree. Option B feels the kindest. It shares the burden so no one family carries the weight alone.
+- [72] **Asuka**: @Kenji, Option C is the only one with a fixed, calculable time cost. Option B’s filing delays make the hours unpredictable. I cannot commit to a variable burden.
+- [73] **Rin**: @Asuka, unpredictable hours are unfair! @Kenji, Option B is the only one where the gate moves. I refuse to let one house suffer while we just walk past.
+- [74] **Servas**: @Asuka, the delay is a shadow, but the smell is a wound. @Rin, Option B moves the pain, but the cost remains. We must share the financial weight equally.
+- [75] **Kenji**: @Asuka, I understand the paperwork worry. But @Rin, if the smell stays put, our friendship breaks. Option B keeps us talking.
+- [76] **Shizue**: @Kenji, I agree. Option B feels the kindest. It shares the burden so no one family carries the weight alone.
+- [77] **Asuka**: @Kenji, I understand the social risk. But Option C offers the only predictable time cost. I cannot accept the uncertainty of B.
+- [78] **Rin**: @Asuka, I understand your worry, but fairness matters more! @Kenji, Option B is the only choice where the gate actually moves. I refuse to let one house suffer.
+- [79] **Servas**: @Asuka, I hear your need for certainty. @Rin, I honor your need for fairness. Option B moves the burden, but we must ensure the cost is shared equally.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> C
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

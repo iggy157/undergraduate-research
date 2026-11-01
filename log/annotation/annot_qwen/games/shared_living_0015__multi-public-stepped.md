@@ -1,0 +1,73 @@
+# shared_living_0015__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Servas**: I worry we are heating the air, not the people. Let us look at the facts.
+- [6] **Midori**: The silence after a bill reminder is heavy. I want to see where the tension comes from.
+- [7] **Minato**: I am curious why the old split feels wrong now. I want to check the numbers.
+- [8] **May**: I need to know the real cost before I commit. I will look at the statements.
+- [9] **Daisuke**: I am worried about the time this takes. I want to see how long it really is.
+- [10] **Servas**: @Minato, the numbers might tell us who is actually using the most.
+- [11] **Midori**: @May, if the bills are spiking, we need to know why before we argue.
+- [12] **Minato**: @Servas, yes, I think the usage data is key. I will check the monitors.
+- [13] **May**: @Midori, I agree. I will also look at the payment log to see the delays.
+- [14] **Daisuke**: @May, I will look at the trial run to see the workload.
+- [15] **Servas**: A calm house is a warm house. Let us find the truth.
+- [16] **Midori**: I hope we can fix the relationship, not just the math.
+- [17] **Minato**: I just want everyone to be happy. I will check the sunlight too.
+- [18] **May**: I don't want a surprise bill in February. I will check the winter habits.
+- [19] **Daisuke**: I am nervous about the electrician quote. I will look at that.
+- [20] **Servas**: Let us see what the data says.
+- [21] **Midori**: I am ready to listen.
+- [22] **Minato**: I am ready to learn.
+- [23] **May**: I am ready to see the full picture.
+- [24] **Daisuke**: I am ready to help, if I can.
+## Round 2
+- [35] **Servas**: I found that two rooms need heat much earlier. The lot system is unfair.
+- [36] **Midori**: The bills swing wildly, and people pay late when they question the amount. It is stressful.
+- [37] **Minato**: I checked the monitors. One room uses four times more than another. It is mostly heaters.
+- [38] **May**: I saw the statements. February is nearly three times August. And I saw that fixed rates make people waste energy.
+- [39] **Daisuke**: The electrician quote is high, 34,000 yen per room. And the template takes hours to fill out.
+- [40] **Servas**: @Minato, that confirms my fear. We are paying for cold rooms to heat up.
+- [41] **Midori**: @May, the late payments are because we don't trust the numbers. We need transparency.
+- [42] **Minato**: @Servas, I agree. The rooms are different. We should maybe meter them?
+- [43] **May**: @Daisuke, the upfront cost is high, but the monthly swings are worse. I hate the uncertainty.
+- [44] **Daisuke**: @May, the template is too much work for one person. I don't want to be the one doing it.
+- [45] **Servas**: If we fix the rate, we might waste heat, but we know the cost.
+- [46] **Midori**: If we meter, we know exactly who uses what. No more guessing.
+- [47] **Minato**: Metering seems fair. But is it too expensive?
+- [48] **May**: I prefer knowing my exact usage. The fixed rate feels like a gamble.
+- [49] **Daisuke**: I am worried about the maintenance of meters. Who checks them?
+- [50] **Servas**: Let us vote on what feels most just.
+- [51] **Midori**: I want to stop the arguments. Metering might do that.
+- [52] **Minato**: I think metering is the most honest way.
+- [53] **May**: I will vote for the option that gives me control over my spending.
+- [54] **Daisuke**: I will vote for the option that doesn't burden one person with endless work.
+## Round 3
+- [60] **Servas**: Option A seems the most honest. It matches usage to cost.
+- [61] **Midori**: Option A stops the blame game. If I use more, I pay more. Simple.
+- [62] **Minato**: I like Option A. It feels fair because it is based on what we actually use.
+- [63] **May**: Option A is the only one that lets me control my own bill. I will vote for it.
+- [64] **Daisuke**: Option A requires maintenance, but it is fair. I will vote for it, hoping we share the checks.
+- [65] **Servas**: @Daisuke, we can rotate the meter checks. It is not a huge burden.
+- [66] **Midori**: @Servas, yes, rotating it makes it manageable. I agree with A.
+- [67] **Minato**: @May, I am glad you agree. It feels right.
+- [68] **May**: @Midori, I am happy to help with the checks if needed.
+- [69] **Daisuke**: @Servas, thank you. I will do my part.
+- [70] **Servas**: Let us proceed with A. It brings clarity.
+- [71] **Midori**: I am ready to move forward.
+- [72] **Minato**: I am ready to learn how to read the meters.
+- [73] **May**: I am ready to see my exact usage.
+- [74] **Daisuke**: I am ready to help keep the system running.
+- [75] **Servas**: A good decision for a good home.
+- [76] **Midori**: Let us hope it brings peace.
+- [77] **Minato**: I hope everyone is happy.
+- [78] **May**: I hope the bills make sense now.
+- [79] **Daisuke**: I hope it doesn't take too long.
+### Vote
+- Servas -> A
+- Midori -> A
+- Minato -> A
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

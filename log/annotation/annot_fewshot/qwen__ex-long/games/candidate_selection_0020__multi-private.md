@@ -1,0 +1,73 @@
+# candidate_selection_0020__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must learn from the past. I will examine the outcomes of the last three internal rollouts to see what truly survived.
+- [6] **Daisuke**: I worry about where the money actually comes from. I will look into the capital budget and software allowance.
+- [7] **Sakura**: Ooh, I’m curious about the mystery of missing packages! I’ll check the misrouted deliveries in the incident logs to see what’s really happening.
+- [8] **Ryuji**: I need to understand the daily friction. I will examine time lost to copying existing records and handling of vendor queries.
+- [9] **Asuka**: I need to verify if our staffing assumptions hold. I will examine the staffing of the coordination group and in-house developer availability.
+- [10] **Servas**: Daisuke, your focus on funding is wise. Yet without knowing what failed before, we risk repeating costly errors. Let us ensure the past guides our present choices.
+- [11] **Daisuke**: Thank you, Servas. I’m still unsure if the budget covers the real costs. I’ll stick with my two choices to see where the money actually goes.
+- [12] **Sakura**: I’m sticking with my two picks! The incident logs and the network coverage at customer plants. I want to solve the mystery of why things get lost!
+- [13] **Ryuji**: I will stick with my two choices. I need to see the daily friction before we judge the proposals.
+- [14] **Asuka**: I will stick with my two choices. I need to confirm if the coordination group can actually absorb the workload without breaking.
+- [15] **Servas**: The past is a mirror. I will also review the record of cross-unit standardization efforts to see if we truly learn or merely repeat.
+- [16] **Daisuke**: I’m still worried about the renewal notice. I’ll stick with the capital budget and software allowance to see the real bill.
+- [17] **Sakura**: I’m sticking with my two picks! The incident logs and the network coverage at customer plants. I want to solve the mystery of why things get lost!
+- [18] **Ryuji**: I will stick with my two choices. The daily friction is the real cost, not the impressive pitch.
+- [19] **Asuka**: I will stick with my two choices. The rota is the only honest witness to our capacity.
+- [20] **Servas**: Let us trust the process. The data will reveal the truth of our capacity. I look forward to our findings.
+- [21] **Daisuke**: I’ll stick with my two choices. I need to see if the renewal notice will catch us off guard.
+- [22] **Sakura**: I’m ready to solve the mystery! I’ll stick with my two picks to see why things get lost. Let’s find the truth!
+- [23] **Ryuji**: I will stick with my two choices. The daily friction is the real cost, not the impressive pitch.
+- [24] **Asuka**: I will stick with my two choices. The data must confirm whether our staffing model is a fiction or a reality.
+## Round 2
+- [35] **Servas**: The pattern is clear. Broad mandates fade; narrow, trade-specific tools endure. We must fund the work that survives its first year, not the ambitious vision.
+- [36] **Daisuke**: Thank you, Servas. My findings show the capital line is frozen, but the software allowance has room. We must avoid per-head licences that climb with every department added.
+- [37] **Sakura**: Wow, half the plants lose signal for whole afternoons! And visitor approval took six weeks? That’s a huge mystery. I’ll check the incident logs and network coverage.
+- [38] **Ryuji**: My data confirms the friction. We lose an hour daily copying records, and clerks re-request the same certificates. We must fund the fix, not the pitch.
+- [39] **Asuka**: My findings are stark. The coordination group is hollowed out, and our developers are locked away. We cannot assume anyone is free to absorb new work.
+- [40] **Servas**: Asuka, your caution is vital. If the hands are absent, even the narrowest tool is just a ghost. We must choose work that fits the empty room.
+- [41] **Daisuke**: Asuka, that is frightening. If the developers are locked away, we cannot build anything new. We must rely on the software allowance for existing tools, not new development.
+- [42] **Sakura**: @Asuka, that’s scary! If developers are locked away, how do we fix the network? I’m worried the six-week approval will stall everything.
+- [43] **Ryuji**: @Asuka, your findings align with my friction data. If developers are locked away, we cannot build new systems. We must fund a fix that works with the current, limited capacity.
+- [44] **Asuka**: @Ryuji, precisely. The friction is real, but the hands to fix it are absent. We must choose a proposal that requires no new development, only existing tools.
+- [45] **Servas**: Ryuji, your friction data confirms my findings. The narrow tools endure because they fit the hands we have. We must fund the specific, not the broad.
+- [46] **Daisuke**: I agree, Servas. The capital freeze means we cannot fund new builds. We must choose a proposal that fits within the existing software allowance, avoiding any per-head licence traps.
+- [47] **Sakura**: @Servas, I agree! The six-week approval is a trap. We need a proposal that doesn’t depend on fixing the network first. Let’s pick something safe!
+- [48] **Ryuji**: @Servas, I agree. The data shows the daily loss is structural, not accidental. We must fund the specific fix that eliminates the copying, not a broad vision.
+- [49] **Asuka**: @Servas, I concur. The coordination group is already drowning. We must select a proposal that requires zero additional manual coordination from the two remaining staff members.
+- [50] **Servas**: Let us trust the evidence. The narrow tools endure because they respect our limits. I look forward to seeing which candidate honors this truth.
+- [51] **Daisuke**: I agree. The evidence points to a single, safe path. I will wait for the candidates to see which one fits our frozen reality.
+- [52] **Sakura**: I’m ready to see the candidates! I hope one of them doesn’t need the broken network. Let’s find the safe choice!
+- [53] **Ryuji**: I agree. The evidence is clear. We must choose a proposal that respects our limited capacity and eliminates the daily friction. I await the candidates.
+- [54] **Asuka**: I agree. The evidence is clear. We must choose a proposal that respects our limited capacity and eliminates the daily friction. I await the candidates.
+## Round 3
+- [60] **Servas**: The evidence is clear. Broad mandates fade; narrow tools endure. We must fund the specific fix that respects our limits, not the ambitious vision.
+- [61] **Daisuke**: I am worried about the renewal notice. Option A consolidates records, but does it require new per-head licences? I need to know if the software allowance covers it.
+- [62] **Sakura**: @Daisuke, I’m worried about Option D! Half the plants lose signal, and visitor approval takes six weeks. Technicians can’t sync their data if the network is broken!
+- [63] **Ryuji**: @Sakura, you are right. Option D fails where the network fails. Option A directly targets the copying friction I measured. It is the specific fix we need.
+- [64] **Asuka**: @Ryuji, Option A is the only viable path. It eliminates the manual copying burden without requiring new developers or network fixes. It respects our hollowed-out staffing reality.
+- [65] **Servas**: @Ryuji, precisely. Option A is the narrow tool that endures. It consolidates the scattered records without demanding the absent hands. It honors the evidence.
+- [66] **Daisuke**: @Servas, I agree. Option A fits the software allowance without triggering the frozen capital line. It avoids the per-head licence trap. I feel safer choosing this.
+- [67] **Sakura**: @Ryuji, I agree! Option A fixes the mystery of scattered records without needing the broken network. It’s the smart, safe choice for us!
+- [68] **Ryuji**: @Daisuke, I agree. Option A eliminates the daily copying loss I measured. It is the specific, structural fix that respects our limited capacity and avoids the network risks.
+- [69] **Asuka**: @Daisuke, I concur. Option A is the only choice that does not add manual burden to the two remaining coordinators. It is the logical, safe path.
+- [70] **Servas**: @Asuka, your caution is well-placed. Option A is the enduring path. It respects the hands we possess and the evidence we hold. Let us commit to the specific fix.
+- [71] **Daisuke**: @Servas, I agree. Option A uses the existing software allowance, avoiding the frozen capital line. It is the only choice that respects our budget reality.
+- [72] **Sakura**: @Servas, I agree! Option A is the safe choice. It solves the record mystery without needing the broken network. I vote for A!
+- [73] **Ryuji**: @Servas, I agree. Option A is the only proposal that directly eliminates the daily friction I measured. It respects our limited capacity. I vote for A.
+- [74] **Asuka**: @Servas, I agree. Option A is the only choice that respects our hollowed-out staffing reality. It eliminates the manual burden without demanding absent developers. I vote for A.
+- [75] **Servas**: @Sakura, your enthusiasm is welcome. Option A is the enduring path. It honors the hands we possess and the evidence we hold. I vote for A.
+- [76] **Daisuke**: @Servas, I agree. Option A fits the software allowance and avoids the per-head licence trap. It is the only choice that respects our frozen budget. I vote for A.
+- [77] **Sakura**: @Servas, I’m so happy we all agree! Option A is the safe, smart choice. It solves the mystery without the network headaches. I vote for A!
+- [78] **Ryuji**: @Servas, I concur. Option A is the only choice that respects the data and our limits. It eliminates the daily friction. I vote for A.
+- [79] **Asuka**: @Servas, I confirm my vote for A. It is the only option that does not break the rota. The evidence is unanimous.
+### Vote
+- Servas -> A
+- Daisuke -> A
+- Sakura -> A
+- Ryuji -> A
+- Asuka -> A
+## Result
+- adopted: A

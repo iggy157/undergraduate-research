@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I keep seeing invoices for things we didn't budget for. I want to know where the money actually goes.
+- [6] **Victoria**: We plan as if we have the staff we had five years ago. I need to know who is actually working.
+- [7] **Shion**: The shows we are proud of on paper are not the ones people return for. The record should speak.
+- [8] **Asuka**: The building has limits. I need to know what the floor and structure can actually absorb before we promise anything.
+- [9] **Shizue**: We always get caught out by delivery. I want to know where past seasons actually came unstuck, not where they were meant to.
+- [10] **Mio**: @Victoria, that sounds right. If the staff is thin, the costs will be hidden in overtime or extra hires.
+- [11] **Victoria**: @Mio, exactly. I am looking at the roster and the lab backlog. Who is doing the work?
+- [12] **Shion**: @Asuka, structural limits are important, but if the content is boring, no one comes back. I will check the visitor data.
+- [13] **Asuka**: @Shion, if the floor cracks, the content doesn't matter. I will check the structural survey and the maintenance logs.
+- [14] **Shizue**: @Mio, I agree. I will look at the lender paperwork and the transport costs. Those are where the delays start.
+- [15] **Mio**: I will look at the loan transport costs and the mount-making charges. Those are the quiet budget eaters.
+- [16] **Victoria**: I will look at the conservation lab staffing and the volunteer roster. I need to see the real capacity.
+- [17] **Shion**: I will look at the weekend head counts and the visitor comment slips. I want to see what brings them back.
+- [18] **Asuka**: I will look at the structural survey of the suspended bay and the maintenance log for powered displays.
+- [19] **Shizue**: I will look at the lender paperwork against shipping cut-offs and the loan transport costs. I want to see the delays.
+- [20] **Mio**: Okay, let's see what we find. I hope the numbers make sense this time.
+- [21] **Victoria**: Let's hope the data is clear. I don't want to guess again.
+- [22] **Shion**: The data will tell the truth. Let's see if it matches our pride.
+- [23] **Asuka**: The building will tell the truth. Let's see if it can hold what we want.
+- [24] **Shizue**: The paperwork will tell the truth. Let's see if we can deliver on time.
+## Round 2
+- [35] **Mio**: Whoa, transport is a third of installation costs? And joiner rates are up half? That explains the budget gaps.
+- [36] **Victoria**: The lab is down to one person with two hundred pieces waiting. And the volunteers are mostly the history circle. We are stretched thin.
+- [37] **Shion**: Interesting. Head counts go up when things move or change. And people come back because someone is there, working or talking.
+- [38] **Asuka**: The bay is capped at 400kg per square metre. And powered displays had seventeen call-outs, four during opening hours. That is a problem.
+- [39] **Shizue**: Ah, so two openings slipped because paperwork came back late. And transport is eating the budget. I knew it was the delivery.
+- [40] **Mio**: @Shizue, yes! The transport costs are huge. If we choose something with lots of loans, we are in trouble.
+- [41] **Victoria**: @Mio, and if we choose something that needs conservation, we are in even more trouble. The lab is empty.
+- [42] **Shion**: @Asuka, so if we choose something heavy or powered, we risk the structure and the maintenance. But if we choose something static, people won't come back.
+- [43] **Asuka**: @Shion, exactly. We need something that is light, static, but still engaging. Or we need to accept the risks.
+- [44] **Shizue**: @Mio, @Victoria, this is why we get caught out. We approve in good faith, then apologize at the door.
+- [45] **Mio**: So, we need to avoid heavy loans and powered displays. But we also need something that brings people back.
+- [46] **Victoria**: And we need something that doesn't require a full conservation team. The lab is a ghost town.
+- [47] **Shion**: The comment slips say people want to see someone working or talking. Maybe a demonstration?
+- [48] **Asuka**: A demonstration could be light and static. But we need to be careful about the space.
+- [49] **Shizue**: A demonstration could work. But we need to make sure the delivery is smooth. No more late paperwork.
+- [50] **Mio**: I think we are getting closer. Let's see the candidates.
+- [51] **Victoria**: Let's see if any of them fit our constraints.
+- [52] **Shion**: Let's see if any of them bring people back.
+- [53] **Asuka**: Let's see if any of them fit the building.
+- [54] **Shizue**: Let's see if any of them can be delivered on time.
+## Round 3
+- [60] **Mio**: Option A looks perfect for the budget. Local items mean no transport costs, and demonstrations mean no heavy mounts.
+- [61] **Victoria**: Option A is also good for staffing. The craftspeople can do the work, and the volunteers can guide. No conservation backlog.
+- [62] **Shion**: Option A has demonstrations. That matches the comment slips. People want to see someone working.
+- [63] **Asuka**: Option A is light. Garments and tools are not heavy. No powered displays. The structure is safe.
+- [64] **Shizue**: Option A is local. No distant lenders. No late paperwork. No transport delays. This is the one.
+- [65] **Mio**: @Shizue, yes! No transport costs, no late paperwork. It fits everything.
+- [66] **Victoria**: @Mio, and it fits the staffing. The craftspeople are the staff.
+- [67] **Shion**: @Asuka, and it fits the structure. Light and static.
+- [68] **Asuka**: @Shion, and it fits the maintenance. No powered displays.
+- [69] **Shizue**: @Victoria, and it fits the delivery. Local and simple.
+- [70] **Mio**: What about Option B? Light and Motion.
+- [71] **Victoria**: Option B is bad for staffing. It needs technical staff for the lights and motion. We don't have them.
+- [72] **Shion**: Option B has motion. That might bring people back. But the comment slips say people want to see someone working, not just lights.
+- [73] **Asuka**: Option B is bad for the structure. Overhead rigging and kinetic works are heavy and risky.
+- [74] **Shizue**: Option B is bad for delivery. Artist studios are distant. Paperwork will be late.
+- [75] **Mio**: Option C? Maritime Trade Routes.
+- [76] **Victoria**: Option C is bad for conservation. Ship models and cargo objects need cleaning. The lab is empty.
+- [77] **Shion**: Option C is static. Charts and models. People might not come back.
+- [78] **Asuka**: Option C is heavy. Ship models and stonework. The bay is capped at 400kg.
+- [79] **Shizue**: Option C is bad for delivery. Partner maritime collections are distant. Paperwork will be late.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

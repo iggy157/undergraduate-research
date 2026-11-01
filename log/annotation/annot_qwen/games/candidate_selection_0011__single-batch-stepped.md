@@ -1,0 +1,73 @@
+# candidate_selection_0011__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry our instincts about promise have not aged well.
+- [6] **Ryuji**: I need to know who is genuinely available here now.
+- [7] **Victoria**: Shared services often give way; I must check their current state.
+- [8] **Benjamin**: I want to know which costs the agency still absorbs centrally.
+- [9] **Midori**: I am concerned about where work in this field gets interrupted.
+- [10] **Shizue**: @Benjamin, that sounds like a sensible place to start.
+- [11] **Ryuji**: @Victoria, spare capacity is indeed the usual failure point.
+- [12] **Victoria**: @Ryuji, staffing and facility load are linked, I think.
+- [13] **Benjamin**: @Midori, interruptions often hide in the administrative lines.
+- [14] **Midori**: @Shizue, I agree. We should look at the past records.
+- [15] **Shizue**: I will look at the closeout files of finished awards.
+- [16] **Ryuji**: I will check the staffing rolls for technical posts.
+- [17] **Victoria**: I will review the accreditation and bookings at shared facilities.
+- [18] **Benjamin**: I will examine the travel and bench-fee lines in the ledgers.
+- [19] **Midori**: I will look at the incident logs on shared instrumentation.
+- [20] **Shizue**: And the portfolio review of schedule overruns, please.
+- [21] **Ryuji**: I will also check the minutes on secondments and crew strength.
+- [22] **Victoria**: I will also look at the national computing agreement and facility day rates.
+- [23] **Benjamin**: I will also check the national repository deposit turnaround.
+- [24] **Midori**: I will also check the station records from partner field sites.
+## Round 2
+- [35] **Shizue**: The closeout files show catalogue-style awards still drawing users a decade on.
+- [36] **Ryuji**: Staffing rolls show most trained phenotyping technicians left for industry.
+- [37] **Victoria**: The animal facility cleared accreditation, but glasshouse blocks are booked solid.
+- [38] **Benjamin**: Ledgers show vehicle-hire frozen, but shipping charges climbed significantly.
+- [39] **Midori**: Incident logs show the spectroscopy suite idle for eleven weeks last year.
+- [40] **Shizue**: @Ryuji, that staffing loss is a serious concern for any wet-lab project.
+- [41] **Ryuji**: @Victoria, if the glasshouse is full, field-based work might be safer.
+- [42] **Victoria**: @Benjamin, the frozen vehicle costs are good, but shipping is a hidden drain.
+- [43] **Benjamin**: @Midori, an idle spectroscopy suite is a major risk for protein studies.
+- [44] **Midori**: @Shizue, I agree. The field sites also lost a whole season to flooding.
+- [45] **Shizue**: The portfolio review found breeding colonies overrun schedule twice as often.
+- [46] **Ryuji**: Minutes note both senior modelling analysts are seconded abroad until autumn.
+- [47] **Victoria**: The national computing agreement covers simulation hours at no charge now.
+- [48] **Benjamin**: The national repository migration is done; deposits clear in weeks now.
+- [49] **Midori**: Station records show indoor holding rooms ran through uninterrupted, unlike field sites.
+- [50] **Shizue**: @Victoria, free computing hours might offset the analyst secondment.
+- [51] **Ryuji**: @Benjamin, faster repository deposits help the microbiome project immensely.
+- [52] **Victoria**: @Midori, the idle spectroscopy suite is a red flag for candidate C.
+- [53] **Benjamin**: @Shizue, the catalogue-style success suggests candidate D is a strong contender.
+- [54] **Midori**: @Ryuji, the lack of technicians makes candidate A very risky.
+## Round 3
+- [60] **Shizue**: Candidate D, the Microbiome Atlas, aligns with the successful catalogue-style awards.
+- [61] **Ryuji**: Candidate A is too risky given the loss of phenotyping technicians.
+- [62] **Victoria**: Candidate C is dangerous because the spectroscopy suite is unreliable.
+- [63] **Benjamin**: Candidate D benefits from the faster repository deposit turnaround.
+- [64] **Midori**: Candidate B is risky due to breeding colony schedule overruns.
+- [65] **Shizue**: @Ryuji, I agree. The staffing gap is a critical bottleneck.
+- [66] **Ryuji**: @Victoria, the free computing hours help, but the hardware is the issue.
+- [67] **Victoria**: @Benjamin, the repository speed is a significant advantage for D.
+- [68] **Benjamin**: @Midori, the field site flooding makes A and D both risky, but D is indoor.
+- [69] **Midori**: @Shizue, D seems the most robust given the current infrastructure.
+- [70] **Shizue**: I am leaning towards D. It has a proven track record of utility.
+- [71] **Ryuji**: I cannot support A or B. D is the only viable option.
+- [72] **Victoria**: C is out. D is the safest bet for the shared facilities.
+- [73] **Benjamin**: The cost structure favors D. The repository speed is a bonus.
+- [74] **Midori**: D avoids the field site risks and the spectroscopy issues.
+- [75] **Shizue**: Let us vote for D. It is the most reliable choice.
+- [76] **Ryuji**: Agreed. D is the only one that fits the current staffing.
+- [77] **Victoria**: I will vote for D. The infrastructure supports it best.
+- [78] **Benjamin**: I will vote for D. The financial and logistical risks are lowest.
+- [79] **Midori**: I will vote for D. It avoids the major interruption points.
+### Vote
+- Shizue -> D
+- Ryuji -> D
+- Victoria -> D
+- Benjamin -> D
+- Midori -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# candidate_selection_0027__single-online (candidate_selection)
+
+## Round 1
+- [5] **Victoria**: We need to agree on what evidence matters before we pick a plan.
+- [6] **Takumi**: I read the closure reports first. We keep repeating old mistakes because nobody checks what happened last time.
+- [7] **Toshio**: I want to know who else has to say yes before we trust any delivery date.
+- [8] **Daisuke**: I worry about the long-term costs. We need to see what these plans actually commit us to paying for later.
+- [9] **Sakura**: I want to know where the time actually goes! Are we fixing the crowds or the waiting?
+- [10] **Victoria**: @Daisuke, your point about long-term costs is valid. @Toshio, who else must approve these plans?
+- [11] **Takumi**: @Toshio, the joint operators' committee minutes show who holds the keys. I'll check those.
+- [12] **Toshio**: @Takumi, the minutes are a start, but I need to know what the ground hides. I’ll check the contingency pricing inside the pre-war shells.
+- [13] **Daisuke**: @Victoria, I agree. I’ll look into the capital ledger balances and the ticketing contractor fees to see the real long-term commitments.
+- [14] **Sakura**: @Sakura, I’ll check the timed runs and the journey audits to see where the minutes really go!
+- [15] **Victoria**: @Victoria, I’ll check the roster books and the crew establishment to see who is actually left to run these services.
+- [16] **Takumi**: @Toshio, good call on the shells. I’ll check the two pilots from eight years ago and the earlier accessibility programme records.
+- [17] **Toshio**: @Takumi, the pilots are useful, but I need to know if the ground will stop us. I’ll check the contingency pricing inside the pre-war shells.
+- [18] **Daisuke**: @Victoria, I hope the rosters show we have enough people. I’m still worried about the money, though.
+- [19] **Sakura**: @Victoria, I hope the rosters show we have enough people. I’m still worried about the money, though.
+- [20] **Victoria**: I’ll check the roster books and the crew establishment to see who is actually left to run these services.
+- [21] **Takumi**: I’ll check the two pilots from eight years ago and the earlier accessibility programme records.
+- [22] **Toshio**: I’ll check the contingency pricing inside the pre-war shells and the joint operators' committee minutes.
+- [23] **Daisuke**: I’ll check the capital ledger balances and the ticketing contractor fees to see the real long-term commitments.
+- [24] **Sakura**: I’ll check the timed runs and the journey audits to see where the minutes really go!
+## Round 2
+- [35] **Victoria**: @Toshio, the roster books show the late-turn pool is nearly empty. Overtime is covering everything.
+- [36] **Takumi**: @Victoria, that’s grim. I found the old pilots succeeded, but the accessibility records show lane priorities failed.
+- [37] **Toshio**: @Takumi, the shells are a trap. Bidders price heavy contingency after three jobs hit unrecorded voids.
+- [38] **Daisuke**: @Daisuke, the ledger shows a ring-fenced grant, but the operating subsidy was trimmed again. The ticketing fees are eating our paving budget.
+- [39] **Sakura**: @Sakura, the audits say we lose time waiting for connections, not paying! The mid-city runs are slower, but platforms clear fine.
+- [40] **Victoria**: @Sakura, if connections are the bottleneck, extending night hours might just add more waiting. @Toshio, do the committee minutes show if we can even coordinate those connections?
+- [41] **Takumi**: @Toshio, the minutes show the ferry and rail back offices never agreed on data terms. That coordination is missing.
+- [42] **Toshio**: @Takumi, that confirms it. The ferry and rail back offices never agreed on data terms. We cannot promise integrated connections without their consent.
+- [43] **Daisuke**: @Victoria, the rosters confirm your fear. We are running on overtime, and the maintenance contract has no spare capacity.
+- [44] **Sakura**: @Victoria, that’s exactly why I checked! We’re fixing the wrong part. The waiting is the real cost, not the crowds.
+- [45] **Victoria**: @Toshio, if the back offices won’t share data, how do we guarantee the connections work?
+- [46] **Takumi**: @Victoria, we can’t. The minutes prove they won’t agree on data terms. Any plan needing their cooperation is a gamble.
+- [47] **Toshio**: @Victoria, exactly. Without their consent, we cannot promise integrated connections. The ground and the committees both block us.
+- [48] **Daisuke**: @Victoria, the ledger shows the operating subsidy is already trimmed. We can’t promise new services without breaking the long-term budget.
+- [49] **Sakura**: @Victoria, so if we can't fix the connections, maybe we should just stop pretending the crowds are the problem?
+- [50] **Victoria**: @Sakura, you’re right. We must stop chasing the noise. @Daisuke, does the ledger allow for a plan that doesn’t need new money?
+- [51] **Takumi**: @Daisuke, the old pilots show we can succeed without new money. The ferry trial closed cleanly, and the late-evening pilot hit its cost target.
+- [52] **Toshio**: @Victoria, the committee minutes show roadway consents are already delegated to us. We can proceed without their approval.
+- [53] **Daisuke**: @Victoria, the ring-fenced grant is locked, but the ticketing fees are a recurring drain. We need a plan that stops that bleeding.
+- [54] **Sakura**: @Daisuke, if the fees are the drain, maybe we should look at the ticketing system itself? It’s the only thing we fully control!
+## Round 3
+- [60] **Victoria**: @Sakura, the fare platform is the only candidate we fully control. It stops the fee drain and needs no new crews.
+- [61] **Takumi**: @Victoria, I agree. The old pilots prove we can succeed without new money. The fare platform fits that perfectly.
+- [62] **Toshio**: @Victoria, the minutes confirm we hold the consents. No external approvals needed. The fare platform is the only path that avoids the committee deadlock.
+- [63] **Daisuke**: @Victoria, the fare platform stops the recurring fee drain. It’s the only option that doesn’t break our already-trimmed long-term budget.
+- [64] **Sakura**: @Victoria, I agree! The audits showed paying isn't the bottleneck, but stopping the fee drain is still smart. I vote for the fare platform.
+- [65] **Victoria**: I vote for the Integrated Fare Platform. It is the only option that respects our staffing limits and stops the financial leak.
+- [66] **Takumi**: I vote for the Integrated Fare Platform. It avoids the committee deadlock and the ground risks we all identified.
+- [67] **Toshio**: I vote for the Integrated Fare Platform. It is the only plan that avoids the unresolvable committee deadlock and the ground risks.
+- [68] **Daisuke**: I vote for the Integrated Fare Platform. It stops the recurring fee drain and respects our trimmed long-term budget.
+- [69] **Sakura**: I vote for the Integrated Fare Platform! It’s the only one we can actually control, and it stops the money leak.
+- [70] **Victoria**: The vote is unanimous. The Integrated Fare Platform is selected for the board.
+- [71] **Takumi**: I’m glad we found a path that doesn’t repeat our old mistakes. The closure reports will finally have a happy ending.
+- [72] **Toshio**: I am satisfied. The consents are clear, and the risks are contained. We proceed.
+- [73] **Daisuke**: I’m relieved. It feels safer knowing we aren’t promising money we don’t have. Thank you for listening.
+- [74] **Sakura**: I’m so happy we picked the one that actually makes sense! No more guessing games, just a plan we can really do.
+- [75] **Victoria**: Thank you all. The evidence guided us to a sustainable choice. I will forward the Integrated Fare Platform to the board.
+- [76] **Takumi**: I’ll read the closure report for this one, just to be sure we’re not making the same mistake again.
+- [77] **Toshio**: I will monitor the implementation. If the data terms remain unresolved, the integration will fail, and I will report it.
+- [78] **Daisuke**: I’ll keep watching the ledger to make sure the fees actually stop. Thank you for making this easier.
+- [79] **Sakura**: I’ll keep checking the journey audits to make sure the waiting time actually drops! Let’s make this work!
+### Vote
+- Victoria -> D
+- Takumi -> D
+- Toshio -> D
+- Daisuke -> D
+- Sakura -> D
+## Result
+- adopted: D

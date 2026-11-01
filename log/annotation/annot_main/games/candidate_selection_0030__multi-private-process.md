@@ -1,0 +1,73 @@
+# candidate_selection_0030__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I want to make sure we don't make the staff too tired. I'm curious about how much work people are already doing. I'll look into "Time lost to copying existing records" and "Staffing of the coordination group."
+- [6] **Jonathan**: I agree that staff wellbeing is important. For my part, I want to ensure we aren't overlooking external dependencies. I'll look into "Network coverage at customer plants" and "In-house developer availability."
+- [7] **George**: I believe we must be prudent about the financial side. I will look into "Capital budget and software allowance" and "Vendor licence pricing versus fixed-fee work" to ensure we can actually afford the long-term commitments.
+- [8] **May**: I'll take a different angle! I want to see if we're actually learning from our mistakes. I'm choosing "Outcomes of the last three internal rollouts" and "Record of cross-unit standardization efforts." Let's see if we're just repeating history!
+- [9] **Midori**: It's nice to meet you all. I agree with Minato that we should consider the staff's burden. I'll look into "Misrouted deliveries in the incident logs" and "Handling of vendor queries" to see where the daily friction is.
+- [10] **Minato**: It sounds like we are all looking at different, important things. @George, do you think the budget will be a big problem? I hope we can find a way to help the staff without spending too much.
+- [11] **Jonathan**: Budget is always a factor, but I worry more about the technical groundwork. If the infrastructure isn't ready, no amount of funding will prevent a delay. We should be careful about what we promise.
+- [12] **George**: It is not just about the initial cost, Minato. I am concerned about where the money originates and the hidden costs that appear during renewals. We must ensure the funding source is stable before committing.
+- [13] **May**: @Jonathan, you're so serious! But you're right—infrastructure is key. Still, why build a fancy bridge if we don't know why the last three collapsed? I'm betting the real "hidden cost" is just wasting time on failed ideas.
+- [14] **Midori**: I think May makes a fair point about learning from the past. However, I also hope we can look at the small, repetitive mistakes that happen every day. Those little frictions often add up to a lot of stress.
+- [15] **Minato**: I agree with Midori. Small things can make people very tired if they happen every day. I hope the proposals we see later will make those little frictions go away instead of adding more work.
+- [16] **Jonathan**: That is a fair hope, Minato. However, we must also ensure that the solutions we choose don't create new, unforeseen dependencies. A simple fix on paper can become a burden if the external environment doesn't support it.
+- [17] **George**: Simplicity is often the safest path. If we choose a solution that requires constant vendor support or expensive license renewals, we are merely delaying a financial crisis. We must prioritize stability over novelty.
+- [18] **May**: Stability is boring, George! But I'll admit, it's better than a crash. I just want to make sure we aren't choosing "simple" just because we're too scared to fix the systemic issues that killed our previous projects.
+- [19] **Midori**: I understand everyone's perspective. While systemic issues are important, I worry we might overlook the actual daily losses on the floor. Let's make sure we balance the big-picture stability with the reality of our staff's everyday effort.
+- [20] **Minato**: I think we have a good plan. We are looking at money, technology, past mistakes, and the people. I hope we can find a proposal that makes everyone's day a little bit easier and happier.
+- [21] **Jonathan**: I agree. By covering these different angles, we can avoid the trap of over-promising. I look forward to seeing how our findings align to help us make a grounded and sustainable choice.
+- [22] **George**: I agree. As long as we remain disciplined about the financial implications and don't let enthusiasm override our budget constraints, we should be able to reach a sensible decision. I look forward to the results.
+- [23] **May**: I'm all set! I've got my eyes on the ghosts of projects past. Let's hope the results are actually surprising for once, otherwise, this is going to be a very short conversation! See you all in the next round.
+- [24] **Midori**: I'm looking forward to it too. I hope we can find a solution that truly supports the people doing the hard work every day. See you all in the next round!
+## Round 2
+- [35] **Minato**: I found out that people are spending almost an hour every day just copying things that are already written down. Also, some people are doing a lot of work by hand because positions aren't filled. It seems very tiring.
+- [36] **Jonathan**: My findings are concerning. Network coverage at customer plants is highly unstable, and getting device approval is a slow process. Furthermore, our in-house developers are fully committed until the third quarter, and we have undocumented interfaces.
+- [37] **George**: My findings confirm my fears. The capital budget is frozen, meaning we cannot afford any large upfront investments. We must rely on the recurring software allowance, but we must be wary of per-head licensing costs.
+- [38] **May**: My findings are a bit of a wake-up call! It turns out we're great at starting things but terrible at keeping them. Broad tools requiring everyone's input just die, while narrow, specialized tools actually survive. We're ignoring the patterns!
+- [39] **Midori**: I've noticed some frustrating patterns too. We have repeated delivery errors because of inconsistent addresses, and our clerks are wasting time providing the same certificates over and over. It seems we're losing a lot of energy to these small, avoidable mistakes.
+- [40] **Minato**: @Midori, it sounds like we both found the same thing. People are doing the same work over and over. If a proposal can stop this, it would make them much happier and less tired.
+- [41] **Jonathan**: @Minato, I agree, but we must be cautious. If a solution to those repetitive tasks relies on stable network access at customer sites or immediate developer support, it will only add to the staff's frustration when it inevitably fails.
+- [42] **George**: @Jonathan, you are correct. Furthermore, if the solution involves per-head licensing, the cost will balloon as we scale. We must avoid any proposal that requires capital expenditure or creates an unsustainable recurring financial burden.
+- [43] **May**: @George, you're so focused on the pennies! But look at the bigger picture: if we pick a "cheap" tool that requires everyone to use it daily, it'll just be another ghost project. We need something narrow and specialized to actually survive.
+- [44] **Midori**: I agree with May that a narrow focus is better. If we target those specific, repetitive errors I found—like the address inconsistencies—we can provide real relief without needing a massive, complex system that might fail or cost too much.
+- [45] **Minato**: I agree with Midori. If we can find a small, specialized tool that stops the copying and the mistakes, it would be wonderful. I just hope it doesn't create new work for the people already struggling.
+- [46] **Jonathan**: That is the key point. We must avoid any proposal that assumes our developers are free or that customer plant networks are reliable. A "small" tool can still fail if its technical dependencies are ignored.
+- [47] **George**: I agree. We must prioritize a solution that is technically self-sufficient and fits within our recurring software allowance. A fixed-fee implementation would be far more predictable than a licensing model that grows with every new user.
+- [48] **May**: Exactly! Let's stop pretending we can launch a company-wide revolution. If the proposal is a "grand vision" for everyone, I'm voting no. Give me something niche that actually works for a few people, or it's just a waste of time.
+- [49] **Midori**: I agree. Let's look for a proposal that solves a specific, real-world pain point. If we can fix those daily frictions without needing a huge budget or a perfect network, we'll actually be helping the people on the floor.
+- [50] **Minato**: I hope the candidates we see next are like that. I want to support a proposal that takes away the boring, repetitive work so the staff can breathe a little easier. I'm looking forward to seeing the options.
+- [51] **Jonathan**: I also hope for a practical outcome. However, I will be scrutinizing the technical requirements closely. We cannot afford to promise a solution that depends on resources or connectivity we simply do not have available right now.
+- [52] **George**: I will be looking for a proposal that avoids capital expenditure and per-head licensing. A fixed-fee, specialized solution is the only way to ensure we don't face a financial surprise during next year's renewals. Let us see the candidates.
+- [53] **May**: I'm ready! Just remember, if a proposal looks like a "one-size-fits-all" miracle, it's probably a trap. I'm looking for something lean, mean, and specialized. Let's see if any of these candidates actually have a chance of surviving!
+- [54] **Midori**: I agree with everyone. I'll be looking for a proposal that addresses those small, daily losses we've discussed. Let's hope we find something that provides genuine relief to the staff without being overly ambitious.
+## Round 3
+- [60] **Minato**: I think Option A, the Workflow Assistant, sounds very helpful. It could stop people from having to write the same notes by hand and save them from that tiring copying work I found. Does it seem easy to use?
+- [61] **Jonathan**: @Minato, it might save time, but I am more interested in Option D. It specifically mentions synchronization "away from the network," which addresses the unstable coverage I discovered at customer plants. That is a critical detail.
+- [62] **George**: @Jonathan, while Option D is technically thoughtful, I worry about the cost of a mobile rollout. Option C, the Supplier Data Hub, seems more stable. If it is a fixed-fee build, it avoids the licensing traps I fear.
+- [63] **May**: @George, Option C is exactly the kind of "grand vision" I warned you about! A central repository for everyone to update? That's a recipe for a ghost project. It'll be abandoned in six months. Option B is much more specialized.
+- [64] **Midori**: @George, I actually think Option C is the most promising. It directly addresses the address inconsistencies and repeated certificate requests I found. It solves a real, daily friction for our staff without being overly complex.
+- [65] **Minato**: @Midori, if Option C helps with the address mistakes, that would be great. But @Jonathan, would Option D also help the people who are tired? I just want to make sure we don't pick something that adds more work.
+- [66] **Jonathan**: @Minato, Option D helps technicians, but it requires development. Since our in-house developers are busy until Q3 and our interfaces are undocumented, we would rely entirely on external vendors. That is a risky dependency for a mobile rollout.
+- [67] **George**: @Jonathan, that risk is precisely why I am cautious. If we rely on external vendors for a mobile app, we likely face per-head licensing that will balloon. Option C is a more contained, predictable investment.
+- [68] **May**: @George, you're still dreaming! Option C requires "shared update procedures" across business units. My research shows those cross-unit efforts almost always end without an owner. It's a death trap! Option B is a specialized tool that actually lasts.
+- [69] **Midori**: @May, I understand your concern about cross-unit efforts, but the current waste is so concrete. If we can just unify the supplier records, we stop the delivery errors and the repetitive queries immediately. It's a practical fix for a real problem.
+- [70] **Minato**: I see. @Midori thinks Option C helps with mistakes, and @Jonathan says Option D is good for the network. But if Option C needs everyone to work together, will that make them even more tired? I'm worried.
+- [71] **Jonathan**: @Minato, that is a valid concern. If Option C requires constant manual updates from exhausted staff, it becomes a burden. However, Option A also requires input from multiple departments, which might lead to the same fatigue.
+- [72] **George**: @Jonathan, you make a fair point. If Option A or C creates a perpetual administrative burden, it is not a solution. However, Option B's production costs are often hidden in recurring fees. I still lean toward C if it's a fixed-fee build.
+- [73] **May**: @George, you're ignoring the evidence! Option C is a textbook example of a project that will be abandoned. Option B is a specialized resource—it's a "narrow tool" that provides value without demanding daily maintenance from everyone. It's the only sustainable choice here.
+- [74] **Midori**: @May, I hear you, but Option B doesn't solve the immediate errors on the floor. Option C targets the exact cause of our misrouted deliveries. If we prioritize the staff's daily struggle, we must fix the data.
+- [75] **Minato**: I'm still a bit worried about people getting more tired. Option A sounds like it helps the most with the copying work, but if Option C stops the mistakes Midori found, maybe that's better. I'll vote for C.
+- [76] **Jonathan**: I cannot support Option D due to the developer shortage and undocumented interfaces. Option C is risky regarding cross-unit cooperation, but it is more grounded than A or B. I will vote for Option C.
+- [77] **George**: I have listened to the concerns. While May warns of abandonment, the immediate operational waste is too great to ignore. Provided we avoid per-head licensing and stick to a fixed-fee build, Option C is the most prudent choice. I vote for C.
+- [78] **May**: You're all walking straight into a trap! Option C is a ghost project waiting to happen. I can't in good conscience vote for a failure. I'm sticking to my guns—Option B is the only sustainable choice. I vote for B.
+- [79] **Midori**: I agree with the others. While I respect May's caution, we cannot ignore the daily frustration of our staff. Fixing the supplier data is the most direct way to stop those repetitive errors. I vote for Option C.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> B
+- Midori -> C
+## Result
+- adopted: C

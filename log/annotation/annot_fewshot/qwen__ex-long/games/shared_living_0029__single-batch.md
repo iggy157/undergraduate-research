@@ -1,0 +1,73 @@
+# shared_living_0029__single-batch (shared_living)
+
+## Round 1
+- [5] **Minako**: I need to know what an even split actually costs. I’ll check the tax papers and the fuel receipts.
+- [6] **Benjamin**: The car is already changing how we talk. I’ll look into what other households said and our own diary.
+- [7] **Asuka**: I need to know why the car is never ready. I’ll check the handover state and the weekly trips.
+- [8] **Shion**: Guesswork is dangerous. I’ll examine the fuel receipts and the mechanic's remarks to see the real burden.
+- [9] **Daisuke**: I’m worried about the time it takes to sort out. I’ll check the recording trial and the heavy use weeks.
+- [10] **Minako**: @Shion, if the fuel is lopsided, a flat split is unfair. We need to see the actual numbers.
+- [11] **Benjamin**: @Minako, numbers don't fix the silence. I’m checking the diary to see where the friction actually starts.
+- [12] **Asuka**: @Benjamin, friction is a symptom. The car is often empty or dirty. I need to know the state at handover.
+- [13] **Shion**: @Asuka, state is a detail. The mechanic says short runs kill the car. That’s a cost, not a mood.
+- [14] **Daisuke**: @Shion, I agree. The recording trial took hours. I just want to know if we can stop doing that.
+- [15] **Minako**: @Daisuke, if it takes hours, we need a system that doesn't require constant checking.
+- [16] **Benjamin**: @Minako, exactly. I’m looking at the other households to see what broke them. We don't want that.
+- [17] **Asuka**: @Benjamin, I’m checking the weekly trips. Those are the ones that keep collapsing. I need reliability.
+- [18] **Shion**: @Asuka, reliability is expensive. The mechanic’s note confirms the wear. We need to price that in.
+- [19] **Daisuke**: @Shion, I’m checking the heavy use weeks. Those are the ones that eat my evenings.
+- [20] **Minako**: I’ll check the tax papers and the fuel receipts. Let’s see the real cost.
+- [21] **Benjamin**: I’ll check the other households and the diary. I need to understand the social cost.
+- [22] **Asuka**: I’ll check the handover state and the weekly trips. I need to know why it fails.
+- [23] **Shion**: I’ll check the fuel receipts and the mechanic's remarks. I need the financial truth.
+- [24] **Daisuke**: I’ll check the recording trial and the heavy use weeks. I need to know the time cost.
+## Round 2
+- [35] **Minako**: The tax and insurance are 280,000 yen. The fuel receipts show two people bought most of it.
+- [36] **Benjamin**: @Minako, that’s a lot. The diary shows Saturday is used three times more than Tuesday.
+- [37] **Asuka**: @Benjamin, the diary is useless. The car was empty twice this year. I can't rely on it.
+- [38] **Shion**: @Minako, the fuel is lopsided. The mechanic says short runs eat the brakes. We need to pay for that.
+- [39] **Daisuke**: @Shion, the recording trial took an hour a week. The heavy weeks were the worst. I can't do that.
+- [40] **Minako**: @Shion, if two people drive most, they should pay more. A flat split is wrong.
+- [41] **Benjamin**: @Minako, I agree. But the other households said asking favours is what sours things.
+- [42] **Asuka**: @Benjamin, asking favours is the problem. I need a system where I don't have to ask.
+- [43] **Shion**: @Asuka, a system costs money. The mechanic’s note is clear. We need to account for the wear.
+- [44] **Daisuke**: @Asuka, I just want to stop the arguing. The heavy weeks were too much for me.
+- [45] **Minako**: @Daisuke, I understand. But we need a fair way to split the 280,000 yen.
+- [46] **Benjamin**: @Minako, fairness is good. But if we have to ask every time, it will fail.
+- [47] **Asuka**: @Benjamin, I need to know the car is ready. The handover state is a disaster.
+- [48] **Shion**: @Asuka, the state is a result of the system. If we pay for wear, we might care more.
+- [49] **Daisuke**: @Shion, I’m worried about the time. I don't want to spend my evenings checking figures.
+- [50] **Minako**: We need to decide how to handle the fuel and the fixed costs.
+- [51] **Benjamin**: We need to avoid the favour-asking trap.
+- [52] **Asuka**: We need reliability. The car must be ready when I need it.
+- [53] **Shion**: We need to account for the mechanical wear.
+- [54] **Daisuke**: We need to minimize the administrative burden.
+## Round 3
+- [60] **Minako**: Option A is fixed days. That might work for the 280,000 yen, but what about fuel?
+- [61] **Benjamin**: Option B is a booking calendar. That avoids asking favours, but does it handle the wear?
+- [62] **Asuka**: Option C is a primary keeper. That ensures the car is ready, but who pays for the wear?
+- [63] **Shion**: Option B records distance. That’s how we can price the mechanic’s warning about short runs.
+- [64] **Daisuke**: Option A is simple. I don't have to check figures. But is it fair?
+- [65] **Minako**: @Shion, Option B is fair for fuel. But the fixed costs are still a problem.
+- [66] **Benjamin**: @Minako, Option B is the only one that doesn't require asking. I like it.
+- [67] **Asuka**: @Benjamin, Option B is good, but I need to know the car is clean.
+- [68] **Shion**: @Asuka, Option B records the run. If it’s dirty, we can charge for it.
+- [69] **Daisuke**: @Shion, I’m worried about the recording. It took an hour a week.
+- [70] **Minako**: @Daisuke, Option B requires recording. But it’s fair. Option A is too rigid.
+- [71] **Benjamin**: @Minako, I agree. Option B is the best for our social dynamic.
+- [72] **Asuka**: @Benjamin, I agree. Option B gives me control. I can book my time.
+- [73] **Shion**: @Asuka, Option B is logical. It accounts for the actual use.
+- [74] **Daisuke**: @Shion, I’m still worried about the time. But I don't want to argue.
+- [75] **Minako**: I’m voting for Option B. It’s the fairest for the fuel.
+- [76] **Benjamin**: I’m voting for Option B. It avoids the favour-asking trap.
+- [77] **Asuka**: I’m voting for Option B. It gives me reliability.
+- [78] **Shion**: I’m voting for Option B. It accounts for the mechanical wear.
+- [79] **Daisuke**: I’m voting for Option B. It’s the least stressful.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Asuka -> B
+- Shion -> B
+- Daisuke -> B
+## Result
+- adopted: B

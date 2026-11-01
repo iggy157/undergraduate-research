@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private (shared_living)
+
+## Round 1
+- [5] **Servas**: Hello everyone. It is a pleasure to be sharing this home with you all. To ensure we maintain a peaceful and harmonious atmosphere, let us thoughtfully decide how to handle our shared expenses.
+- [6] **Midori**: It's lovely to meet you all. I agree, keeping things peaceful is so important. I want to make sure we find a way to divide the bills that feels fair and comfortable for everyone.
+- [7] **Minato**: Hi everyone! I'm happy to be living here with you. I want us all to get along and be happy, so let's find a way to share the bills that makes everyone feel good!
+- [8] **May**: Hi everyone! I'm so excited to be living with you all! Let's make sure we don't just pick something that sounds good, but something that actually works for our wallets. I'm ready to dive in!
+- [9] **Daisuke**: Hello... it's nice to meet you all. I agree that we should find a fair way to do this. I just hope we can find a system that isn't too stressful for anyone to manage.
+- [10] **Servas**: To understand the heart of our current situation, I shall look into the "Payment log for the last twelve months" and "Sunlight and heating need by room." Wisdom begins with observing the truth of our environment.
+- [11] **Midori**: I think it would be helpful to see the "Payment log for the last twelve months" and the "The last twelve utility statements." I want to understand how we've been handling things so far.
+- [12] **Minato**: I'm curious about how other people do it! I'll check the "Monthly settle observed at another house" and "Settling up when the last rooms filled" to see if there are any new ideas!
+- [13] **May**: I want to see the "The last twelve utility statements" and the "Electrician's quote for the rooms." I need to know where the money is actually going and if changing things costs us anything upfront!
+- [14] **Daisuke**: I'll look into the "Trial run of a reconciliation template" and the "Monthly settle observed at another house." I want to see if there's a way to make the calculations easier for whoever does them.
+- [15] **Servas**: It is a wise approach to divide our research. By looking at both the history of our payments and the physical needs of our rooms, we can find a balance that respects both the budget and the person.
+- [16] **Midori**: I agree. By looking at the statements and the payment log, I hope we can see if there are any patterns or misunderstandings from the past that we should be mindful of as we move forward.
+- [17] **Minato**: I wonder if the other houses have a secret way of making everyone smile! @Daisuke, do you think a template would make it easier for us to talk about the bills without getting stressed?
+- [18] **May**: @Daisuke, a template is a great start, but let's not get too cozy with a pretty spreadsheet until we know the actual numbers! I'm more worried about the hidden costs of changing the setup.
+- [19] **Daisuke**: @Minato, I think so... if the template is simple, it might help. I just don't want anyone to feel overwhelmed by the work of organizing it every month. I hope it saves us some time.
+- [20] **Servas**: Let us all proceed with a spirit of openness. I look forward to hearing what you discover, for it is through sharing our findings that we shall build a home of true warmth and understanding.
+- [21] **Midori**: I agree. Let's all take a careful look at the information we've chosen. I hope that by understanding our history, we can create a system that brings us closer together. I'll see you all soon!
+- [22] **Minato**: I'm excited to see what I find! I hope we can find a way that makes everyone feel happy and fair. I'll go look into those things now! See you all soon!
+- [23] **May**: I'm on it! I'll go hunt for those numbers and see if there are any nasty surprises waiting for us. Let's see if we can make this work without breaking the bank! See you all soon!
+- [24] **Daisuke**: I'll go check those things now... I hope I can find something that makes the process easier for everyone. I'll see you all in the next round.
+## Round 2
+- [35] **Servas**: I have found that our rooms are not created equal; some remain cold while others bask in the sun. It reminds us that fairness is not always about equal shares, but about equal comfort.
+- [36] **Midori**: I've noticed that our utility costs fluctuate quite a bit throughout the year, and some of our past payments were settled quite late. It makes me worry that our current system might be causing some hidden stress.
+- [37] **Minato**: I found out that at another house, it takes a long time to read meters and do the math by hand! Also, when new people moved in there, it took weeks to agree on the money. That sounds a bit sad.
+- [38] **May**: Wow, the numbers are all over the place! One month it's 9,000 and the next it's nearly 30,000? That's a total rollercoaster for our wallets! No wonder it's hard to plan ahead.
+- [39] **Daisuke**: I found that the template we tried... it actually takes a lot of work. You have to enter every single invoice one by one. It seems like it would be very tiring for whoever has to do it.
+- [40] **Servas**: @Daisuke, it is true that labor can be a burden, but a little effort now can prevent a great deal of heartache later. We must ensure our system does not leave anyone shivering in silence.
+- [41] **Midori**: @May, you're right, those fluctuations are quite startling. I'm especially concerned that the late payments happened after people questioned the amounts. It feels like the money is starting to affect how we treat each other.
+- [42] **Minato**: @Midori, that sounds really scary. I don't want anyone to be sad or argue because of money. Do you think people are upset because they feel the way we split things isn't fair?
+- [43] **May**: @Minato, it's probably exactly that! When the bill suddenly spikes in winter, it feels like a second rent. If we just split it blindly, someone's always getting the short end of the stick. It's a recipe for bad vibes!
+- [44] **Daisuke**: @Servas, I understand... but if the work is too much, the person doing it might get stressed. I'm worried that a complicated system will just make someone feel burdened every single month.
+- [45] **Servas**: @Daisuke, your kindness in worrying for others is a virtue. However, the greatest burden is not the time spent on a spreadsheet, but the quiet resentment that grows when a home feels cold or unfair.
+- [46] **Midori**: @Servas, I agree. While I don't want anyone to be overwhelmed by work, I'm more worried about the tension. If we keep smoothing over these late payments, we might be ignoring a deeper problem in how we communicate.
+- [47] **Minato**: @Midori, I agree. I've heard some people say that some are paying for others, and that makes me feel a bit worried. I want us to be honest so that nobody has to feel that way anymore.
+- [48] **May**: @Minato, honesty is key, but let's be real—honesty about a 30,000 yen bill is a lot less fun than honesty about a 9,000 yen one! We need a system that handles those spikes without making us all panic.
+- [49] **Daisuke**: @May, I agree... the spikes are scary. But if we make the system too complex to handle those spikes, the person managing it will spend their whole evening on it. I just want something simple that doesn't exhaust anyone.
+- [50] **Servas**: Let us remember that a home is more than a budget; it is a sanctuary. If we prioritize simplicity over truth, we may find ourselves living in a house of strangers rather than a family of friends.
+- [51] **Midori**: @Servas, you're so right. A sanctuary requires trust. I believe we need to be brave enough to look at where the money has already caused friction, so we can truly heal those relationships and move forward together.
+- [52] **Minato**: I agree with everyone. I hope we can find a way that is simple for @Daisuke, but also honest so that no one feels like they are carrying someone else. Let's make our home a happy place!
+- [53] **May**: @Minato, I love the spirit, but let's not forget the cost of "honesty"! I found out that installing sub-meters would cost 34,000 yen per room. That's a huge upfront hit! We need a plan that's fair but doesn't bankrupt us.
+- [54] **Daisuke**: @May, that is a lot of money... I agree we should be careful. I just hope we don't choose a system that replaces a financial cost with a huge amount of work for one person. I'm really worried about that.
+## Round 3
+- [60] **Servas**: Option A offers the most truth, but as May noted, the cost is steep. Option C is simple, yet it ignores the cold rooms I discovered. We must decide if we value ease or equity.
+- [61] **Midori**: Option B seems like a gentle middle ground. It would stop those sudden spikes from causing panic and might prevent the tension and late payments I saw in the logs by making costs predictable.
+- [62] **Minato**: Option B sounds nice because it's predictable, but I'm worried it might still feel unfair to some. If we just use a fixed rate, will we still have people feeling like they're carrying others?
+- [63] **May**: @Minato, that's the risk! But look at Option A—it's "fair," but who's paying that massive installation fee? I'm not about to drop a fortune just to see a meter. Option B at least saves our wallets today!
+- [64] **Daisuke**: Option C is the simplest... but I'm worried about the work. If we have to recalculate everything every time someone moves, it might become a burden for whoever is managing the bills.
+- [65] **Servas**: @Daisuke, simplicity is a comfort, but a flat share can be a cold comfort for those in the draftiest rooms. We must ask ourselves: is it fair to ask a shivering neighbor to pay the same as one in the sun?
+- [66] **Midori**: @Servas, you make a very poignant point. If we ignore the physical differences of the rooms, we might just be replacing one kind of tension with another. However, I still worry that Option C's unpredictability is what damaged our trust.
+- [67] **Minato**: @Servas, @Midori, I agree. If we just split everything equally, the people in the cold rooms might feel sad. But I really want to know if someone is actually carrying someone else. Which option helps us be the most honest?
+- [68] **May**: @Minato, "honesty" is expensive! Option A is the only one that's truly honest, but that installation fee is a total nightmare. Option B is the most realistic way to stop the winter panic without going broke!
+- [69] **Daisuke**: @May, I agree that the installation fee is too high... but I'm worried about Option B. If we settle the difference at the end of the year, won't that be a huge, stressful job for the person doing the math?
+- [70] **Servas**: @Daisuke, a year-end calculation is but a single moment of effort compared to a winter of quiet suffering. Let us not fear a few hours of math if it ensures no one feels forced to wear a coat indoors.
+- [71] **Midori**: @Daisuke, I understand your worry, but I think we can help each other with the math. I'm more afraid of the silence that follows a confusing bill. Option B gives us stability, which is what our relationships need right now.
+- [72] **Minato**: @Midori, @Servas, you're right that we should help each other! I think Option B is a good way to be kind to our wallets, but I still worry about the rumors. If we pick B, can we promise to be honest with each other?
+- [73] **May**: @Minato, of course we can! But let's be real—the best way to be honest is to have a budget that doesn't make us panic. Option B keeps things steady, which is way better for our friendship than a surprise 30,000 yen bill!
+- [74] **Daisuke**: @Midori, @Servas... thank you for saying you'd help. I just... I really don't want anyone to feel trapped by the work. If we all help, maybe Option B is okay. It's better than the installation cost of Option A.
+- [75] **Servas**: It is heartening to see us reach this understanding. By choosing Option B, we embrace stability and kindness, ensuring that no one suffers in silence or fear. I vote for Option B.
+- [76] **Midori**: I agree. Option B protects our harmony by removing the stress of sudden spikes and the friction of unpredictable bills. It's the most caring choice for our relationships. I vote for Option B.
+- [77] **Minato**: I'm glad we can all help each other with the work! I still worry about the rumors, but if we promise to be honest and kind, Option B sounds like a happy choice. I vote for Option B!
+- [78] **May**: I'm totally on board! Option B is the only one that doesn't treat our bank accounts like a gamble or demand a fortune upfront. Let's keep it steady and stress-free! I vote for Option B!
+- [79] **Daisuke**: I'm still a little worried about the work... but if we really help each other, I think I can agree. It's better than the other options. I vote for Option B.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

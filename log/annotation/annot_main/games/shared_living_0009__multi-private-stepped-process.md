@@ -1,0 +1,73 @@
+# shared_living_0009__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Misaki**: We need a system that actually works. Lately, the car isn't always where it should be or in a usable state.
+- [6] **May**: I agree! It's becoming a total headache. I'm tired of spending my whole evening just figuring out who owes what.
+- [7] **Servas**: Patience, my friends. Let us look at the facts calmly. To find true harmony, we must first understand the actual costs we share.
+- [8] **Takumi**: It's not just about the money. We're all getting snappy with each other. I want to know why this is actually ruining our mood.
+- [9] **Kenji**: I'm with you guys! But we're just guessing on the money, right? I want to see the real numbers before we decide anything!
+- [10] **Misaki**: @Kenji, numbers are fine, but they don't tell us why the car is dirty or missing on a Tuesday morning.
+- [11] **May**: Exactly. The "admin" part of this is a nightmare. I want to see where all our time is actually going.
+- [12] **Servas**: A fair share is a beautiful thing, but we must ensure no one is quietly carrying the burden for others.
+- [13] **Takumi**: If we just make a strict rule, we might still hate each other. We need to see how other people handle this without fighting.
+- [14] **Kenji**: But if we don't know who is driving the most, how can we be fair? We need a real picture of the usage!
+- [15] **Misaki**: I'm more concerned with the daily reliability. I'll look into the actual usage patterns and the car's condition.
+- [16] **May**: I'm going to focus on the time sink. I want to see the diary and how often we're repeating the same trips.
+- [17] **Servas**: I shall examine the financial foundations. The taxes and the fuel receipts will reveal the hidden subsidies we've ignored.
+- [18] **Takumi**: I'm looking into what other households do. I also want to see if we're just arguing over the same things every week.
+- [19] **Kenji**: I'm going for the fuel receipts too! And I want to see the hours recorded in the diary to match the costs.
+- [20] **Misaki**: Let's just make sure we don't ignore the physical state of the vehicle in our search for "fairness."
+- [21] **May**: As long as the new system doesn't require more spreadsheets, I'm happy. Let's get the data.
+- [22] **Servas**: Truth is the first step toward peace. I look forward to seeing what the numbers tell us about our generosity.
+- [23] **Takumi**: Just don't let the numbers make us forget we're friends. Let's find a way to stop the snapping.
+- [24] **Kenji**: I'll be the one to keep us positive! Let's find the truth and then make a plan that's awesome for everyone!
+## Round 2
+- [35] **Misaki**: The diary shows a huge gap between weekends and weekdays. Also, the car is often handed over dirty or nearly empty.
+- [36] **May**: It's worse than that. Those weekly repeating trips are where all the fighting happens. We spend hours arguing over the same slots!
+- [37] **Servas**: The numbers are revealing. Some of you have been very generous, while others have lived comfortably on your kindness. This is the subsidy I feared.
+- [38] **Takumi**: I found out that other groups fail when they have to ask for favors too often. We're doing exactly that with our weekly trips.
+- [39] **Kenji**: I saw the fuel receipts! It's crazy—some of us are paying way more than others. We've been totally guessing this whole time!
+- [40] **Misaki**: @Kenji, fuel is one thing, but the frustration of a dirty car on a weekday morning is what really breaks the routine.
+- [41] **May**: Exactly! And the mental load of coordinating those repeating trips is exhausting. We're wasting our evenings on logistics.
+- [42] **Servas**: When we ignore the mathematical reality, we create an emotional debt. The imbalance in fuel is a symptom of a lack of structure.
+- [43] **Takumi**: If we just focus on the money, we'll still be fighting over the "favors" and the repeating trips. We need a system that removes the need to ask.
+- [44] **Kenji**: I agree with Servas! We can't just ignore that some people are paying for everyone else. That's not fair to our friends!
+- [45] **Misaki**: A strict schedule might help, but only if it includes a rule about the car's condition. I can't deal with rubbish in the car.
+- [46] **May**: I just want the "untangling" to stop. Whether it's money or time, I'm done with the endless back-and-forth every single night.
+- [47] **Servas**: We must move from "improvised kindness" to "structured equity." Only then can we truly enjoy each other's company without resentment.
+- [48] **Takumi**: I'm worried a strict schedule will make us feel like strangers. But if it stops the "favor" cycle, it might actually save us.
+- [49] **Kenji**: I want a system where we know exactly what we owe. No more envelopes, no more guessing. Just clear, honest figures!
+- [50] **Misaki**: As long as the system ensures the car is ready for the next person, I'm open to whatever. Reliability is my priority.
+- [51] **May**: I'm voting for whatever requires the least amount of talking and calculating. My free time is too precious for this.
+- [52] **Servas**: Let us remember that fairness is not just about the coin, but about the peace of mind that comes from knowing all is right.
+- [53] **Takumi**: I'll support a plan that stops the friction. If we can automate the boring stuff, we can go back to being friends.
+- [54] **Kenji**: I'm ready! Let's look at the options and pick the one that's the most honest about the costs and the driving!
+## Round 3
+- [60] **Misaki**: Option A is the most reliable. I'd know exactly when the car is mine and I could ensure it's clean for the next person.
+- [61] **May**: Option A is a dream. No more arranging, no more untangling debts, no more evening debates. Just "it's my day."
+- [62] **Servas**: Option C is the most mathematically honest. It eliminates all subsidies by charging exactly for what is used. It is the peak of equity.
+- [63] **Takumi**: Option C sounds like a nightmare. We'd be arguing over every single kilometer. That's just moving the sore point to a calculator.
+- [64] **Kenji**: I love the honesty of Option C! It gives us the real figures I wanted. No more guesswork on who is driving!
+- [65] **Misaki**: @Kenji, Option C still doesn't solve the "dirty car" problem. If we just book slots, we'll still be fighting over the state of the car.
+- [66] **May**: @Servas, Option C is exactly what I hate. Recording every kilometer and calculating costs? That's more admin, not less!
+- [67] **Servas**: While Option A is simpler, it creates a new subsidy: the person who drives less pays for the person who drives more. Is that truly fair?
+- [68] **Takumi**: @Servas, "fair" isn't always about the math. If Option A stops us from snapping at each other, it's fairer for our friendship.
+- [69] **Kenji**: But wait, if we go with Option A, we're back to guessing who is using it more! I want us to be honest about the usage!
+- [70] **Misaki**: I'd rather pay a bit more and have a guaranteed, clean car on Tuesday morning than save a few yen and be stressed.
+- [71] **May**: Exactly. I'm choosing peace of mind over perfect accounting. Option A removes the mental load entirely. I'm all in.
+- [72] **Servas**: I see the appeal of peace, but I cannot ignore the imbalance. However, if the group values harmony over precision, I will not stand in the way.
+- [73] **Takumi**: Option B is too risky; it puts too much power on one person and creates a "favor" dynamic. A is the only one that breaks that cycle.
+- [74] **Kenji**: I'm torn. I really want the precision of C, but I don't want to be the only one fighting for it if everyone else is stressed.
+- [75] **Misaki**: Let's go with A. It's the only one that provides the stability and reliability we've been missing.
+- [76] **May**: A is the only choice for me. I'm reclaiming my evenings from the "car coordination committee."
+- [77] **Servas**: If we choose A, let us do so with the understanding that we are choosing a "social subsidy" for the sake of our collective spirit.
+- [78] **Takumi**: I'm voting for A. It stops the "asking for favors" and the friction. It protects the group, which is what matters most.
+- [79] **Kenji**: You guys have convinced me. Harmony is more important than perfect numbers. I'll vote for A too, as long as we're all happy!
+### Vote
+- Misaki -> A
+- May -> A
+- Servas -> C
+- Takumi -> A
+- Kenji -> A
+## Result
+- adopted: A

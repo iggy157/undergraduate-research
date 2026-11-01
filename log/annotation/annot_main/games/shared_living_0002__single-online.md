@@ -1,0 +1,73 @@
+# shared_living_0002__single-online (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know what it's actually like for people! I'll look into the supervised mornings on the next lane and the visit to the station block's bin house.
+- [6] **Midori**: I think it's important to know the costs, so I'll check the ward subsidy and last year's shelter costs, and the block ledger of refuse-point expenses.
+- [7] **Shunichi**: I'll take a look at the ward complaint log for this point and the station block's meeting minutes to see how others handled the friction.
+- [8] **May**: I'll check the truck arrival time from the crew leader and the statements at the residents' meeting. I want to know if people are actually willing to follow the rules.
+- [9] **Asuka**: I will look into the measurements of the five frontages and the ward filing requirements per the installations clerk to see what is actually feasible.
+- [10] **Rin**: Does anyone else think we should check the meeting minutes? @Shunichi, let me know if you find anything scary in there!
+- [11] **Midori**: I'm sure it will be fine, Rin. I'm just hoping the costs aren't too high for everyone to manage comfortably.
+- [12] **Shunichi**: @Rin, I'll keep you posted. I'm more interested in whether they ended up hating each other than anything "scary."
+- [13] **May**: I'm more worried about who ends up doing all the work. @Asuka, do those filing requirements look like a nightmare to handle?
+- [14] **Asuka**: I cannot say yet, as I haven't looked into them. I will report back once I have the facts.
+- [15] **Rin**: I'm just so excited to see that bin house! I bet it looks like a little castle for trash. @Midori, do you think the ward gives money for decorations too?
+- [16] **Midori**: I'm not sure, Rin, but I think the subsidy is probably just for the basic structure. Let's focus on the essentials first so we don't overspend.
+- [17] **Shunichi**: @Midori is right. Let's not get carried away with "trash castles" until we know if we can even agree on where the bins go without starting a war.
+- [18] **May**: Exactly. I'm more concerned about the human element. If we set a strict schedule, I want to know if people will actually stick to it or just ignore it.
+- [19] **Asuka**: That is why I am checking the frontage measurements. A plan is only as good as the physical space available to implement it fairly.
+- [20] **Rin**: I hope we can all be friends no matter what we pick! I'll go check on those things now. See you all soon!
+- [21] **Midori**: I'll get started on the financial side of things. I hope we can find a solution that makes everyone feel comfortable and happy.
+- [22] **Shunichi**: I'll go dig through the complaints and minutes. Let's see if we can find a way to fix the bins without breaking the neighborhood.
+- [23] **May**: I'll go find out about the truck and the residents' opinions. I'll be back soon with the real story on whether this is actually doable.
+- [24] **Asuka**: I will proceed with the measurements and the filing requirements. I look forward to seeing the data we collect.
+## Round 2
+- [35] **Rin**: The bin house was actually kind of gross! It smelled really sour in the summer, and the next lane's supervised mornings only take about fifty minutes.
+- [36] **Midori**: I found out that the ward subsidy covers forty percent up to ninety thousand yen, but last year's shelters averaged about two hundred forty-eight thousand yen. Also, we spend thirty-four thousand yen annually on maintenance.
+- [37] **Shunichi**: The complaint log is a mess; fourteen complaints in three years, and almost all of them came from the person living right next to the bins. The station block's minutes show they fought over a broken latch and sweeping duties.
+- [38] **May**: The truck arrives between 7:40 and 8:15, which is way too early for some. Plus, at the meeting, people admitted they wouldn't actually stop a neighbor from leaving a bag late.
+- [39] **Asuka**: The filing requirements are strict; a permanent build needs a site plan and four months, while every site change requires a new notice. Also, two frontages fit a bay, but one is a driveway and another is very narrow.
+- [40] **Rin**: Wait, so the bin house smells bad and the supervised mornings are short? Maybe we can just do the short mornings and avoid the smelly house!
+- [41] **Midori**: I'm worried about the cost of a shelter, though. Even with the subsidy, it's a lot of money upfront, and we're already spending thirty-four thousand yen a year just on basics.
+- [42] **Shunichi**: @Rin, the "short mornings" might just lead to the same fighting the station block had over sweeping. And @Asuka, it sounds like moving the point around would be a bureaucratic nightmare.
+- [43] **May**: Exactly. And if people won't even turn away a late bag, then "supervised mornings" are just a fancy way of saying one person stands there feeling awkward while everyone ignores them.
+- [44] **Asuka**: It is also clear that rotating the location is physically impractical given the driveway and the narrow pavement of some frontages. We cannot simply move the point without creating new obstacles.
+- [45] **Rin**: But if we don't move it, the person who complained so much will still be sad! @Shunichi, is there any way to make them happy without a smelly house?
+- [46] **Midori**: Maybe we can find a way to share the costs of a better setup so it doesn't feel like such a burden on one person, but the upfront price is still scary.
+- [47] **Shunichi**: The problem isn't just the money, Midori; it's the resentment. If we keep it where it is, that one neighbor keeps suffering, but if we move it, we might just move the anger to someone else.
+- [48] **May**: And if we go with a rotation, we're just rotating the stress. @Asuka, if the space is that limited, wouldn't a permanent structure just block the sidewalk for everyone?
+- [49] **Asuka**: Depending on the exact placement, it could. However, a permanent structure at the current site would at least avoid the need for constant notifications to the ward, which is a significant administrative burden.
+- [50] **Rin**: I don't want anyone to be sad or angry! If the bin house smells and the rotation is a nightmare, maybe we can just find a way to make the current spot nicer?
+- [51] **Midori**: I agree with Rin. If we can find a way to make the current spot more manageable without spending too much, it might be the most harmonious choice for everyone.
+- [52] **Shunichi**: The problem is that "making it nicer" usually means spending money or time, and we've already seen that both of those things tend to lead to arguments. We need a solution that doesn't create new grudges.
+- [53] **May**: I'm with Shunichi. If we just "make it nicer" without a real system, the same person will end up doing all the work and the same person will keep complaining. We need something that actually works.
+- [54] **Asuka**: We must be realistic. The data shows that rotating the location is physically impossible for some and administratively tedious. We are left with either a strict time window or a permanent structure.
+## Round 3
+- [60] **Rin**: I think the permanent house is a bad idea because of the smell! I'd rather just help out for fifty minutes in the morning. I vote for Option A!
+- [61] **Midori**: I'm worried about the high cost of the structure, and the maintenance fees are already a burden. I think Option A is safer for our budgets. I vote for Option A!
+- [62] **Shunichi**: I'm wary of the conflict a structure brings, and rotation is a mess. A time window is a risk, but it's the least permanent mistake. I vote for Option A.
+- [63] **May**: I'm not thrilled about the early hours or the lack of enforcement, but a permanent build is too much work and rotation is a joke. I vote for Option A.
+- [64] **Asuka**: While Option A has flaws, the physical constraints of the frontages and the administrative burden of rotation make them unviable. A structure is too risky. I vote for Option A.
+- [65] **Rin**: Yay! We all agree! I'm glad we're picking the one that doesn't smell like old socks!
+- [66] **Midori**: I'm just relieved we found a way that doesn't put a huge financial strain on anyone. It feels like the most balanced choice for our group.
+- [67] **Shunichi**: Let's just hope we can actually agree on the turn order without it turning into another block war. I'll be watching closely.
+- [68] **May**: I'll be watching too. If I'm the only one answering the phone when things go wrong, I'm retiring from this committee immediately.
+- [69] **Asuka**: We will establish a clear, written schedule for the oversight turns to ensure the burden is distributed logically and transparently.
+- [70] **Rin**: I'll help make the schedule colorful so it's fun to look at! @Asuka, can I use my markers to make it pretty?
+- [71] **Midori**: That sounds lovely, Rin. A colorful schedule might make the whole process feel more positive for everyone involved.
+- [72] **Shunichi**: Just make sure the dates are actually readable, Rin. We don't need a "pretty" schedule that leads to more arguments because someone couldn't tell if it was Tuesday or Wednesday.
+- [73] **May**: @Shunichi, you're such a pessimist. I'm sure we can handle a few markers without starting a war, as long as the rules are crystal clear.
+- [74] **Asuka**: I will handle the drafting of the rules and the layout of the dates. Rin, you may add the colors once the logical structure is finalized and approved by everyone.
+- [75] **Rin**: Okay! I'll wait for Asuka to finish the boring part, and then I'll make it the best-looking schedule ever!
+- [76] **Midori**: I'm just glad we could all reach an agreement together. I'll make sure to bring some tea and snacks for our next meeting to keep the mood light!
+- [77] **Shunichi**: Tea and snacks might actually be the only thing keeping us from killing each other over a trash schedule. I'll be there.
+- [78] **May**: Count me in for the snacks too. If we're going to be standing on the street at 7:40 AM, I'm going to need a lot of caffeine to survive it.
+- [79] **Asuka**: Then it is settled. I will prepare the draft for the ward office and the schedule for our review. Thank you all for your cooperation.
+### Vote
+- Rin -> A
+- Midori -> A
+- Shunichi -> A
+- May -> A
+- Asuka -> A
+## Result
+- adopted: A

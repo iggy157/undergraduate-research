@@ -1,0 +1,73 @@
+# shared_living_0024__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know the exact total cost before we lock anything in! I’ll check the all-in rates and what separately booked rooms cost last time.
+- [6] **Shunichi**: I’m done with the small talk. I’ll check the ferry sailings and how last year's days ran. I need to know where the time actually went.
+- [7] **Asuka**: I will examine the pricing of offshore houses let whole and the all-in rates against meals bought separately. I need to verify if the costs are transparent and equitable.
+- [8] **Takumi**: I need to know if I can actually sleep and wash without being rushed. I’ll check bathing hours and bathroom provision, plus inn mealtimes and room arrangements.
+- [9] **Toshio**: I need to understand why last year felt both crowded and empty. I’ll check time alone in the shared-house year and how last year's days ran.
+- [10] **Rin**: @Shunichi, knowing where the time went is smart! But I’m still worried about the money. I’ll check the all-in rates and what separately booked rooms cost last time.
+- [11] **Shunichi**: @Rin, money is a number. Time is a resource you can’t buy back. I’m sticking with the ferry schedule and last year’s daily log.
+- [12] **Asuka**: @Rin, transparency prevents hidden debt. I will examine the pricing of offshore houses let whole and the all-in rates against meals bought separately.
+- [13] **Takumi**: @Rin, I get the money worry. But if I can’t wash or eat on my own time, the trip is ruined. I’m sticking with bathing hours and inn mealtimes.
+- [14] **Toshio**: @Rin, cost is a constraint, not the core. I need to understand the social rhythm. I will check time alone in the shared-house year and how last year's days ran.
+- [15] **Rin**: @Toshio, I hear you! But if the bill surprises us, the trip is ruined. I’m checking the all-in rates and last year’s separate room costs.
+- [16] **Shunichi**: @Toshio, the social rhythm is a symptom. The real killer is the transit overhead. I’m checking the ferry schedule and last year’s daily log to see where the week actually went.
+- [17] **Asuka**: @Toshio, social rhythm is secondary to financial clarity. I will examine the pricing of offshore houses let whole and the all-in rates against meals bought separately.
+- [18] **Takumi**: @Toshio, I get the loneliness. But if I’m stuck waiting for a bath or a meal, I can’t even be alone. I’m checking bathing hours and inn mealtimes.
+- [19] **Toshio**: @Takumi, waiting for a bath is a different kind of isolation. I need to see the actual gaps in the schedule. I will check time alone and how last year's days ran.
+- [20] **Rin**: I’m all set! I’ll check the all-in rates and what separately booked rooms cost last time. I need the full picture before we commit!
+- [21] **Shunichi**: I’m done. I’ll check the ferry sailings and how last year's days ran. I need to see exactly where the week went.
+- [22] **Asuka**: I will examine the pricing of offshore houses let whole and the all-in rates against meals bought separately. I need to verify if the costs are transparent and equitable.
+- [23] **Takumi**: I’m locked in. I’ll check bathing hours and bathroom provision, plus inn mealtimes and room arrangements. I need to know if I can actually breathe there.
+- [24] **Toshio**: I am set. I will check time alone in the shared-house year and how last year's days ran. I need to find the source of that dissonance.
+## Round 2
+- [35] **Rin**: @Asuka, I found it! Separate rooms cost 8,000 yen more each! But all-in rates charge light eaters the same as big eaters. Which one is the real trap?
+- [36] **Shunichi**: @Rin, the ferry schedule is a disaster. Two full days lost to transit. Last year’s separate days were a waste. We need a destination that minimizes travel overhead.
+- [37] **Asuka**: @Rin, the all-in rate is a hidden tax on the frugal. I found whole-house lets at 5,400 yen per head, with food separate. That structure is transparent.
+- [38] **Takumi**: @Shunichi, two days lost? That’s brutal. But I found the real killer: one bathroom for the whole building, and dinner at six sharp. I can’t sleep if I’m rushed.
+- [39] **Toshio**: @Shunichi, the separate days explain the emptiness. The house explains the crowding. We need a place that forces us to share the day, but leaves room to breathe.
+- [40] **Rin**: @Asuka, 5,400 yen per head is clear! But if food is separate, the bill changes every day. I need the total before we go!
+- [41] **Shunichi**: @Takumi, one bathroom is a bottleneck, not a destination flaw. The ferry is the real thief. I need a place where we arrive and stay, not a transit hub.
+- [42] **Asuka**: @Rin, the variable cost is the point. If we buy meals separately, the bill reflects actual consumption, not a flat average. That is equitable.
+- [43] **Takumi**: @Shunichi, a bottleneck is a trap. If I’m waiting for a bath, I’m stuck. I need a place where I can wash and eat without being herded.
+- [44] **Toshio**: @Takumi, a bottleneck is a different kind of crowding. I need the shared day, but I also need the space to step away. We must find that balance.
+- [45] **Rin**: @Asuka, I get the fairness! But I hate guessing the food bill. If we pick the whole house, can we set a strict daily food limit so the total stays predictable?
+- [46] **Shunichi**: @Rin, a food limit is a band-aid. The ferry schedule is the disease. I need a destination where the transit overhead is negligible, not a place where we argue over rice.
+- [47] **Asuka**: @Rin, a limit is arbitrary. The structure is what matters. If the bill reflects actual consumption, no one is subsidizing another’s appetite. That is the only fair baseline.
+- [48] **Takumi**: @Shunichi, I don’t care about the ferry. I care about the clock. If dinner is at six and the bath is cold, I’m done. I need my own time.
+- [49] **Toshio**: @Shunichi, the ferry is a constraint, not the core. I need a place that shares the day but allows private hours. I will check the ferry sailings and train time.
+- [50] **Rin**: @Toshio, checking the ferry is smart! But I still need the total cost. If we can’t predict the food bill, I can’t agree. I’m stuck!
+- [51] **Shunichi**: @Toshio, the ferry is the disease, not the symptom. I need a destination where we arrive and stay, not a transit hub. I am done.
+- [52] **Asuka**: I am done. The structure is clear. I will vote for the option where the bill reflects actual consumption, not a flat average.
+- [53] **Takumi**: I’m done. I need a place where I can wash and eat without being herded. If the clock rules me, I’m out.
+- [54] **Toshio**: I am done. The data confirms the need for a shared day with private space. I will vote for the option that balances togetherness with the ability to step away.
+## Round 3
+- [60] **Rin**: @Asuka, Option A’s whole-house bill is one number! No hidden food surprises. I’m voting A so I know the total before we go!
+- [61] **Shunichi**: @Rin, Option A is a trap. The ferry eats two days. I need a destination where I arrive and stay, not a transit hub. I am voting B.
+- [62] **Asuka**: @Rin, Option A’s food is separate, so the bill reflects actual consumption. That is the only equitable structure. I am voting A.
+- [63] **Takumi**: @Shunichi, Option B is a nightmare. Six sharp dinner and one cold bath? I can’t sleep if I’m rushed. I’m voting C for my own room.
+- [64] **Toshio**: @Takumi, Option C recreates the isolation I found last year. Option B shares the day but leaves room to step away. I am voting B.
+- [65] **Rin**: @Takumi, separate rooms mean separate bills! Last time they differed by 8,000 yen! I can’t predict that. Option A is one clear number. I’m voting A!
+- [66] **Shunichi**: @Takumi, Option C is the same isolation I found last year. We need a shared day, not a transit hub. I am voting B.
+- [67] **Asuka**: @Takumi, Option C’s separate bills are opaque. Last year’s variance proves the risk. Option A’s structure ensures the money falls out of the arrangement, not who is organised. I am voting A.
+- [68] **Takumi**: @Rin, I know the bills vary, but I can’t sleep in a shared room. Option C is the only place I can actually breathe. I am voting C.
+- [69] **Toshio**: @Takumi, breathing is vital, but isolation is the enemy. Option B offers the shared day and the private hours I need. I stand by my vote for B.
+- [70] **Rin**: @Toshio, I hear you! But Option B’s inn meals are a mystery. I can’t predict the total! Option A is one clear bill. I’m voting A!
+- [71] **Shunichi**: @Toshio, Option B is the only choice that respects the calendar. Ninety minutes by train, not two days by ferry. I am voting B.
+- [72] **Asuka**: @Toshio, Option B’s flat meal rate is a hidden tax. Option A’s separate food costs reflect actual consumption. That is the only equitable structure. I am voting A.
+- [73] **Takumi**: @Toshio, I hear you, but I can’t sleep if I’m rushed. Option C is the only place I can actually breathe. I am voting C.
+- [74] **Toshio**: @Asuka, the flat rate is a constraint, not a tax. The shared day is the core. I stand by my vote for B.
+- [75] **Rin**: @Toshio, I get the need for space! But Option B’s inn meals are a mystery. I can’t predict the total! Option A is one clear bill. I am voting A!
+- [76] **Shunichi**: @Rin, the ferry is a two-day tax I refuse to pay. Option B is ninety minutes by train. I am voting B.
+- [77] **Asuka**: I stand by my vote for A. The bill must reflect actual consumption, not a flat average. That is the only equitable structure.
+- [78] **Takumi**: I stand by my vote for C. I need my own room and my own time. If I’m rushed, I’m done.
+- [79] **Toshio**: I stand by my vote for B. The shared day is the core. I need the space to step away, not the isolation of separate rooms.
+### Vote
+- Rin -> A
+- Shunichi -> B
+- Asuka -> A
+- Takumi -> C
+- Toshio -> B
+## Result
+- adopted: B

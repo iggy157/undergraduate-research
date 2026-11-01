@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I’m worried the diggers will hit soft ground and the dates will slip. Who else is checking the site conditions?
+- [6] **Benjamin**: Good question, Kenji. I’m less worried about the diggers and more about how the ground behaves once the ribbon is cut. Who else is looking at the drainage?
+- [7] **Minato**: I’m curious about who will actually look after the park every week. The rota seems very short lately.
+- [8] **Minako**: I want to see what the last decade of our schemes actually looks like now, not just the drawings.
+- [9] **Jonathan**: I’m concerned about the long-term upkeep costs. Who else is looking at the maintenance ledgers?
+- [10] **Kenji**: @Benjamin, that makes sense. I’m checking the firms tendering for earth-moving and the depot phasing notes to see if we can keep the park open while digging.
+- [11] **Benjamin**: I’m checking the drainage callouts and the weekday crossing counts. I want to see if the ground and the people actually agree with the plan.
+- [12] **Minato**: I’m looking into the groundskeeping roll and the volunteer groups. I want to know who will really be there every week.
+- [13] **Minako**: I’m checking the condition of works from the earlier programme and the record of the eastern avenue planting. I need to see what actually survived.
+- [14] **Jonathan**: I’m checking the upkeep ledger spend per hectare and the terms of the regional habitat fund. I need to know what this will cost the city to keep running.
+- [15] **Kenji**: @Minato, that’s a great point! I’m hoping the volunteer groups can help keep things running smoothly.
+- [16] **Benjamin**: @Minato, the volunteer groups are a good start, but I’m worried about the sheer volume of drainage issues. Can they handle that?
+- [17] **Minato**: @Benjamin, I hope so. I just want to know if there are enough people to help with the daily care.
+- [18] **Minako**: @Benjamin, drainage is vital, but I’m focused on whether the structures we build actually last. Let’s see what the earlier works tell us.
+- [19] **Jonathan**: @Minako, I hear you. But even if the structures last, the ledger shows the cost of keeping them alive. We must price that in now.
+- [20] **Kenji**: @Minako, I hope the earlier works show us what to avoid. I’m still nervous about the clay subsoil, but let’s see what the firms say.
+- [21] **Benjamin**: @Kenji, the clay is a real risk, but I’m more concerned about how the water moves once the rain starts. Let’s see what the callouts say.
+- [22] **Minato**: @Kenji, I hope the firms are careful. I just want to make sure the people who care for it are there every day.
+- [23] **Minako**: @Kenji, the clay is a risk, but the planting record shows what happens when aftercare is ignored. Let’s see what actually survived.
+- [24] **Jonathan**: @Kenji, the clay is a risk, but the ledger shows the cost of keeping it alive. We must price that in now.
+## Round 2
+- [35] **Kenji**: @Benjamin, the firms say the clay is risky, but shallow work is fine. The depot notes say we can keep the south open. Does that help your drainage worries?
+- [36] **Benjamin**: @Kenji, the clay is a risk, but the data is worse. Callouts doubled, and heat is spiking. People stick to firm ground, ignoring the margins.
+- [37] **Minato**: @Benjamin, I found the roll is down to seven, but two volunteer groups help weekends. Does that cover the daily care?
+- [38] **Minako**: @Minato, the basin survived, but the apron failed. The avenue trees died from neglect. We must judge by what actually lasts, not the drawings.
+- [39] **Jonathan**: @Minako, the ledger shows planted ground costs triple to maintain. The fund only pays for planting, not surfacing. We must price that gap now.
+- [40] **Kenji**: @Minako, the avenue trees died because aftercare was missing. If we pick a plan needing constant care, we must ensure the contract includes it, or it will fail too.
+- [41] **Benjamin**: @Minako, the basin surviving while the apron failed is telling. But my data shows people ignore soft margins. We need a plan that respects both the water and the foot traffic.
+- [42] **Minato**: @Minako, that is worrying. With only seven staff, can the volunteers really handle the daily work?
+- [43] **Minako**: @Minato, the basin survived because it was simple. The apron failed because it was complex. We must choose a plan that is robust enough to survive our current staffing levels.
+- [44] **Jonathan**: @Minako, simplicity is wise, but the ledger is unforgiving. Planted ground costs triple to maintain. We must ensure the plan fits our shrinking budget, not just our ideals.
+- [45] **Kenji**: @Benjamin, the firms say shallow work is safe. If we keep the south open, we avoid the worst clay risks. Does that ease your mind about the digging?
+- [46] **Benjamin**: @Kenji, the digging is manageable, but the heat and drainage data are alarming. We need a plan that cools the site and handles the water, not just one that is easy to dig.
+- [47] **Minato**: @Benjamin, I worry the volunteers can’t handle heavy water work. The casual pool helps weekends, but who manages the daily upkeep with only seven staff?
+- [48] **Minako**: @Minato, the basin survived because it was simple. The apron failed because it was complex. We must choose a plan that is robust enough to survive our current staffing levels.
+- [49] **Jonathan**: @Minato, the ledger confirms your fear. Planted ground costs triple to maintain. With only seven staff, we cannot afford the upkeep. We must choose a plan that is cheap to keep alive.
+- [50] **Kenji**: @Benjamin, the heat and drainage are serious. But if we pick a plan needing deep digging, the clay risk is real. We need something simple that works with the ground, not against it.
+- [51] **Benjamin**: @Kenji, agreed. The data shows people need firm ground, but the heat and drainage are critical. We need a plan that cools the site and manages water, without demanding impossible upkeep.
+- [52] **Minato**: @Benjamin, I agree. With only seven staff, we need a plan that is simple to maintain. The volunteers help, but they cannot do everything.
+- [53] **Minako**: @Benjamin, I agree. The basin survived because it was simple. The apron failed because it was complex. We must choose a plan that is robust enough to survive our current staffing levels.
+- [54] **Jonathan**: @Benjamin, I agree. The fund covers planting, not surfacing. If we choose water features, the city pays triple for upkeep. We must pick what we can actually afford to maintain.
+## Round 3
+- [60] **Kenji**: @Benjamin, the clay risk is real. Plan D needs deep digging for courts. Plan A is shallow. Can we trust the ground for D?
+- [61] **Benjamin**: @Kenji, D’s deep digging is a gamble. But A’s water features clash with my heat data and the triple upkeep cost. B’s paving fits the firm ground people actually use.
+- [62] **Minato**: @Benjamin, I worry about the upkeep. With only seven staff, can we really manage the water in Plan A?
+- [63] **Minako**: @Benjamin, A’s water features are complex. The apron failed because it was complex. A will likely fail too. B’s paving is simple and robust.
+- [64] **Jonathan**: @Benjamin, I agree. Plan A’s water features mean triple upkeep costs the fund won’t cover. Plan B’s hard surfaces are cheaper to maintain, fitting our shrinking budget.
+- [65] **Kenji**: @Benjamin, I agree. Plan D’s deep digging is too risky with the clay. Plan B’s shallow paving is safer for the ground and easier to manage.
+- [66] **Benjamin**: @Kenji, B’s paving ignores the heat spike and drainage crisis. It’s a band-aid. C’s trees cool the site, but the avenue record warns of neglect. We need a middle path.
+- [67] **Minato**: @Benjamin, I worry about the trees. The avenue planting died from neglect. With only seven staff, can we really keep the Woodland Walk alive?
+- [68] **Minako**: @Minato, the avenue trees died because aftercare was missing from the contract. If we choose C, we must guarantee that funding. Otherwise, we repeat the same failure.
+- [69] **Jonathan**: @Minako, the ledger confirms your fear. Planted ground costs triple to maintain. The fund won’t cover that gap. We cannot afford C’s upkeep with our current staffing.
+- [70] **Kenji**: @Benjamin, I hear you on the heat. But Plan B’s paving is shallow, so the clay won’t stop us. It’s the safest bet for the ground and the budget.
+- [71] **Benjamin**: @Kenji, B ignores the heat crisis. C cools the site, but the avenue record warns of neglect. We need a plan that respects the ground and the people, not just the budget.
+- [72] **Minato**: @Benjamin, I worry about the trees. With only seven staff, can we really keep the Woodland Walk alive?
+- [73] **Minako**: @Benjamin, the avenue trees died from neglect. If we choose C, we must guarantee aftercare funding. Otherwise, we repeat the same failure.
+- [74] **Jonathan**: @Benjamin, I hear the heat concern, but the ledger is clear. C’s dense planting costs triple to maintain. The fund won’t cover it. We cannot afford that long-term burden.
+- [75] **Kenji**: @Benjamin, I hear the heat worry, but the clay makes deep digging impossible. Plan B is shallow and safe. We can add shade structures later. Let’s pick what the ground can actually handle.
+- [76] **Benjamin**: @Kenji, I hear the clay risk, but B ignores the heat crisis. C cools the site, but the avenue record warns of neglect. We need a plan that respects the ground and the people, not just the budget.
+- [77] **Minato**: @Benjamin, I worry about the trees. With only seven staff, can we really keep the Woodland Walk alive?
+- [78] **Minako**: @Benjamin, the avenue trees died because aftercare was missing. If we choose C, we must guarantee that funding. Otherwise, we repeat the same failure.
+- [79] **Jonathan**: @Benjamin, I hear the heat concern, but the ledger is unforgiving. C’s dense planting costs triple to maintain. The fund won’t cover it. We cannot afford that long-term burden.
+### Vote
+- Kenji -> B
+- Benjamin -> B
+- Minato -> B
+- Minako -> B
+- Jonathan -> B
+## Result
+- adopted: B

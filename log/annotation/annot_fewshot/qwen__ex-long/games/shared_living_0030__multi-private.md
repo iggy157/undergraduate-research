@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private (shared_living)
+
+## Round 1
+- [5] **Toshio**: I need to verify the actual monthly outlay. I will examine the management office rate sheet and the bathroom spray receipts.
+- [6] **Ryuji**: I need to understand the true time cost. I will examine the stopwatch timing of a full pass and the absences on the wall calendar.
+- [7] **Benjamin**: I suspect the "done" standard is a moving target. I will examine what each housemate counts as done and the rows recorded in the house chat.
+- [8] **May**: I need to stop guessing the state of the rooms. I will examine the bathroom grout after the July scrub and a fortnight's watch on kitchen use.
+- [9] **Midori**: I want to see how we actually talk about this. I will examine the rows recorded in the house chat and the note left by the previous tenants.
+- [10] **Toshio**: @Ryuji, time is a variable, but money is a fact. I need to know if the management office charges per head or per incident.
+- [11] **Ryuji**: @Toshio, money is a fact, but time is the constraint. If the hours are unmanageable, the cost is irrelevant. I need to know the actual duration.
+- [12] **Benjamin**: @Toshio, @Ryuji, you’re both right. But if we don’t agree on what "clean" means, we’re just optimizing for different ghosts. Let’s define the target first.
+- [13] **May**: @Benjamin, defining "clean" is great, but I need to know if the grout actually holds up. I’m checking the bathroom and kitchen patterns to stop the guessing game.
+- [14] **Midori**: @Benjamin, I agree. The chat shows we avoid saying it directly. I’m checking the previous tenants’ note to see how they kept the peace.
+- [15] **Toshio**: @Benjamin, defining the target is essential, but I need the numbers first. I will examine the management office rate sheet and the bathroom spray receipts.
+- [16] **Ryuji**: @Benjamin, defining the target is necessary, but I need the data first. I will examine the stopwatch timing of a full pass and the absences on the wall calendar.
+- [17] **Benjamin**: @Toshio, @Ryuji, I appreciate the rigor. But without a shared definition, your data is just noise. I’ll examine the housemate standards and chat logs to find our common ground.
+- [18] **May**: @Benjamin, I hear you, but I need the physical reality. I’m checking the grout and kitchen patterns to see what actually breaks down.
+- [19] **Midori**: @May, I hear you. But I’m worried about the silence. I’ll check the chat logs and the previous tenants’ note to see how we can keep talking.
+- [20] **Toshio**: I will examine the management office rate sheet and the bathroom spray receipts. I need to know the exact monthly cost and who is currently out of pocket.
+- [21] **Ryuji**: I will examine the stopwatch timing of a full pass and the absences on the wall calendar. I need to quantify the true hours and identify the gaps.
+- [22] **Benjamin**: I will examine what each housemate counts as done and the rows recorded in the house chat. I need to map the actual friction before we fix anything.
+- [23] **May**: I will examine the bathroom grout after the July scrub and a fortnight's watch on kitchen use. I need to see the physical reality to stop guessing.
+- [24] **Midori**: I will examine the rows recorded in the house chat and the note left by the previous tenants. I need to see how we can keep talking without the silence turning into resentment.
+## Round 2
+- [35] **Toshio**: The management office charges 4,200 yen per hour, billed to one person. The spray receipts show 2,300 yen monthly, with significant duplicate purchases.
+- [36] **Ryuji**: The timing is brutal: forty-seven minutes for the kitchen alone. With two people absent most months, the load concentrates on the remaining three. I need to know if outsourcing removes this entirely.
+- [37] **Benjamin**: My findings confirm the friction. "Done" is subjective, and every conflict started with a reminder. We’re not failing at cleaning; we’re failing at communication.
+- [38] **May**: @Ryuji, forty-seven minutes is brutal! But my kitchen watch shows only two or three of us actually cook. The rest just make coffee. Why are we all cleaning up their mess?
+- [39] **Midori**: @Benjamin, the previous tenants divided rooms permanently, but by year two, two barely spoke. I’m worried we’ll end up in that silence. How do we keep talking?
+- [40] **Toshio**: @Ryuji, outsourcing at 4,200 yen an hour is expensive. But if it removes the duplicate spray purchases and the billing headache, it might be worth it.
+- [41] **Ryuji**: @Toshio, outsourcing removes the hours, but does it remove the coordination? If the firm arrives when I’m working, I lose the day. I need to know their scheduling terms.
+- [42] **Benjamin**: @Ryuji, coordination is the real cost. If the firm arrives when you’re working, you’ve just traded scrubbing for waiting. I need to see their scheduling terms.
+- [43] **May**: @Benjamin, coordination is key! But my watch shows the mess comes from just a few cooks. Why should coffee-drinkers pay for their mess?
+- [44] **Midori**: @May, I hear you. But if we split by usage, we might stop talking. I want a system where we check in, so the silence doesn’t turn into resentment.
+- [45] **Toshio**: @May, splitting by usage is administratively impossible. The management office bills one person, and the receipts show we waste money on duplicates. We need a single, predictable monthly figure.
+- [46] **Ryuji**: @Toshio, a single figure is fine, but the calendar shows two of us gone weekly. If the firm requires a keyholder, that burden falls on the remaining three. I need to know if they can self-access.
+- [47] **Benjamin**: @Ryuji, self-access is the only logical solution. If the firm can’t enter without us, we’re just outsourcing the waiting. I need to see their standard terms.
+- [48] **May**: @Ryuji, self-access is a must! But my grout check is scary: black spotting returned in eleven days. We need a system that actually works, not just one that’s convenient.
+- [49] **Midori**: @May, the grout returning is a real worry. But I’m more concerned about the silence. If we don’t check in, we’ll end up like the previous tenants, barely speaking.
+- [50] **Toshio**: I will examine the management office rate sheet and the bathroom spray receipts. I need to know the exact monthly cost and who is currently out of pocket.
+- [51] **Ryuji**: I will examine the standard terms of the outside firm and the stopwatch timing of a full pass. I need to verify if self-access is possible and confirm the true duration.
+- [52] **Benjamin**: I will examine the standard terms of the outside firm and the rows recorded in the house chat. I need to verify if self-access is possible and understand the communication breakdown.
+- [53] **May**: I will examine the bathroom grout after the July scrub and a fortnight's watch on kitchen use. I need to see the physical reality to stop guessing.
+- [54] **Midori**: I will examine the rows recorded in the house chat and the note left by the previous tenants. I need to see how we can keep talking without the silence turning into resentment.
+## Round 3
+- [60] **Toshio**: The 4,200 yen hourly rate is high, but predictable. Option B centralizes the invoice, eliminating the duplicate spray purchases and the ambiguity of who is out of pocket.
+- [61] **Ryuji**: @Toshio, predictability is good, but I need to verify the firm’s access terms. If they require a keyholder, the burden just shifts to the three of us present.
+- [62] **Benjamin**: @Ryuji, self-access is the only logical solution. If the firm can’t enter without us, we’re just outsourcing the waiting. I need to see their standard terms.
+- [63] **May**: @Benjamin, self-access is a must! But my grout check is scary: black spotting returned in eleven days. We need a system that actually works, not just one that’s convenient.
+- [64] **Midori**: @May, the grout worry is real. But I’m scared of the silence. Option A is what the previous tenants did, and it left them barely speaking. We need to keep talking.
+- [65] **Toshio**: @Ryuji, the rate sheet confirms the bill goes to one named tenant. Option B centralizes that liability, preventing the hidden debt I’ve been tracking. I support B.
+- [66] **Ryuji**: @Toshio, centralizing the bill is smart, but the calendar shows two of us absent weekly. If the firm needs a keyholder, that burden falls on the remaining three. I need to know if they can self-access.
+- [67] **Benjamin**: @Ryuji, I’ve reviewed the terms. Self-access is standard, so no keyholder is needed. This removes the coordination bottleneck entirely.
+- [68] **May**: @Benjamin, self-access is a lifesaver! But with the grout failing in eleven days, does the firm actually fix the root cause, or just scrub the surface?
+- [69] **Midori**: @Benjamin, self-access is a relief! But I worry Option B removes our chance to check in. I want a system where we still talk, not just pay.
+- [70] **Toshio**: @Midori, the invoice forces a monthly settlement. That is our check-in. It prevents the silent resentment you fear by making the cost visible and shared.
+- [71] **Ryuji**: @Midori, the monthly settlement is a transaction, not a conversation. I need to know if the firm’s schedule is fixed or flexible. If it’s rigid, I lose my working hours.
+- [72] **Benjamin**: @Ryuji, the terms allow flexible scheduling. We can book around your work hours. This solves the coordination bottleneck without sacrificing your time.
+- [73] **May**: @Ryuji, flexible scheduling is perfect! But my kitchen watch shows only a few of us cook. Why should coffee-drinkers pay the same as the mess-makers?
+- [74] **Midori**: @May, I hear you, but splitting by usage creates the exact silence I fear. I want a system where we check in, so the mess doesn’t turn into resentment.
+- [75] **Toshio**: I am voting for Option B. It centralizes the invoice, eliminating the hidden debt and duplicate purchases. The monthly settlement ensures everyone sees the true cost, preventing the silent resentment I’ve been tracking.
+- [76] **Ryuji**: I am voting for Option B. Self-access and flexible scheduling remove the coordination bottleneck. The hours are eliminated, not just shifted. This is the only option that respects my time.
+- [77] **Benjamin**: I am voting for Option B. Self-access and flexible scheduling eliminate the coordination bottleneck. The monthly invoice forces the visibility that prevents the silent resentment I’ve been tracking.
+- [78] **May**: I am voting for Option B. Self-access means no waiting, and the firm handles the grout properly. It stops the guessing game and keeps the costs predictable.
+- [79] **Midori**: I am voting for Option B. The monthly settlement forces us to talk, preventing the silence that broke the previous tenants. It keeps us on speaking terms while handling the mess.
+### Vote
+- Toshio -> B
+- Ryuji -> B
+- Benjamin -> B
+- May -> B
+- Midori -> B
+## Result
+- adopted: B

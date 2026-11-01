@@ -1,0 +1,73 @@
+# candidate_selection_0017__multi-public (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: I need to see the roster books for the late-turn pool and the crew establishment and maintenance contract.
+- [6] **Takumi**: I want the timed runs and crowd counts mid-city, plus the journey audits on where minutes go.
+- [7] **Benjamin**: I’ll check the capital ledger balances and the ticketing contractor fees. Headlines are useless without knowing the actual long-term commitments.
+- [8] **Servas**: I will examine the two pilots from eight years ago and the completion records of the earlier accessibility programme.
+- [9] **Jonathan**: I’ll look into the joint operators' committee minutes and the contingency pricing inside the pre-war shells.
+- [10] **Asuka**: I’m curious why Jonathan is focusing on pre-war shells. Are we expecting structural surprises that could derail any physical upgrade?
+- [11] **Takumi**: @Jonathan, are you worried the ground will swallow our plans? I’m just checking if the crowds actually match the complaints.
+- [12] **Benjamin**: I’m watching the money, not the ghosts. If the ledger is hollow, no amount of structural luck saves us from the next budget fight.
+- [13] **Servas**: The past is a compass, not a cage. I simply want to know if we are repeating old mistakes or finally learning from them.
+- [14] **Jonathan**: I’m not chasing ghosts, just the quiet reasons projects stall. Knowing who must agree and what the ground hides helps me trust the dates.
+- [15] **Asuka**: @Benjamin, if the ledger is hollow, we can’t even staff the current routes. I need to know if we have bodies to run the trains before we talk about money.
+- [16] **Takumi**: @Asuka, bodies matter, but if the trains are empty, extra staff just sit there. I need to know where the actual time goes first.
+- [17] **Benjamin**: @Asuka, bodies are expensive. If the ledger is hollow, we can’t afford the bodies you’re so worried about.
+- [18] **Servas**: @Benjamin, @Asuka, money and bodies are the fuel, but the map tells us where to drive. We must not confuse the engine with the destination.
+- [19] **Jonathan**: @Servas, the map is only useful if the road exists. I’m checking if the ground will hold the weight of our promises.
+- [20] **Asuka**: @Takumi, empty trains don’t solve the problem. If the late-turn pool is empty, we can’t run the service at all, regardless of demand.
+- [21] **Takumi**: @Asuka, if the pool is empty, we can't run the service. But if the trains are empty, extra staff just sit there. I need to know where the actual time goes first.
+- [22] **Benjamin**: @Takumi, empty trains still burn fuel and require maintenance. I need to know if the money exists before we debate whether the seats are occupied.
+- [23] **Servas**: @Benjamin, @Takumi, @Asuka, we are arguing over the engine, the fuel, and the passengers, but ignoring the road. Let us see what the past reveals before we commit.
+- [24] **Jonathan**: @Servas, the road is only as good as its foundations. I am checking if the ground will hold the weight of our promises.
+## Round 2
+- [35] **Asuka**: @Benjamin, the late-turn pool is hollow. Overtime covers everything. We cannot extend hours without breaking the current schedule.
+- [36] **Takumi**: @Asuka, the data proves the surface route is the bottleneck, not the platforms. We need to fix the mid-city delays, not just add more staff.
+- [37] **Benjamin**: @Asuka, @Takumi, the ledger is ring-fenced, but operating funds are cut. We can’t buy new bodies or fix roads with construction money.
+- [38] **Servas**: @Asuka, @Takumi, @Benjamin, the past whispers. The late-evening pilot succeeded, and accessibility works delivered. We have proof these paths work, if we respect the constraints.
+- [39] **Jonathan**: @Servas, the past is kind, but the present is stubborn. The ferry and rail back offices still haven’t agreed on data terms. That silence will stall any integrated plan.
+- [40] **Asuka**: @Benjamin, the maintenance contract has spare capacity. We can fix the lifts without hiring. But the roster books show no spare drivers. We cannot extend hours.
+- [41] **Takumi**: @Asuka, spare lift crews don't drive buses. The surface route is the real time-sink. We must fix the mid-city delays, not just the stations.
+- [42] **Benjamin**: @Jonathan, the data terms are a red herring. The real killer is that ticketing fees now exceed our paving budget. We are bleeding cash on software, not infrastructure.
+- [43] **Servas**: @Benjamin, fees are a leak, not a flood. The pilots proved the late-night model works. We have the proof; we just need the will to act.
+- [44] **Jonathan**: @Benjamin, fees are a leak, but unrecorded voids are a flood. Three jobs stalled for weeks. I cannot trust any date involving those pre-war shells.
+- [45] **Asuka**: @Jonathan, unrecorded voids are a risk, but empty rosters are a certainty. We cannot build a plan on hope. We must accept the staffing limits.
+- [46] **Takumi**: @Asuka, certainty is boring. The data says the surface route is the bottleneck. Fix the mid-city delays, not the stations.
+- [47] **Benjamin**: @Jonathan, voids are a risk, but fees are a certainty. We are bleeding cash on software. I need to know if we can afford the physical work at all.
+- [48] **Servas**: @Jonathan, @Benjamin, risks are shadows, but the pilots are sunlight. The late-night model proved itself. We must not let fear of the unknown block a path already walked.
+- [49] **Jonathan**: @Servas, sunlight casts shadows. I am not blocking the path; I am checking if the ground beneath it is solid enough to hold our weight.
+- [50] **Asuka**: @Takumi, spare lift crews don't drive buses. The roster books show no spare drivers. We cannot extend hours.
+- [51] **Takumi**: @Asuka, you keep repeating yourself. The data is clear: the surface route is the bottleneck. Fix the mid-city delays, not the stations.
+- [52] **Benjamin**: @Takumi, I hear your frustration, but I am looking at the ledger, not the stopwatch. If we cannot afford the paving, your dedicated lanes are just expensive paint.
+- [53] **Servas**: @Takumi, @Benjamin, you both see the cracks, but I see the bridge. The pilots proved the late-night model works. We have the proof; we just need the will to act.
+- [54] **Jonathan**: @Takumi, the stopwatch measures time, but the ground measures risk. I cannot promise a date if the shells might swallow the crew.
+## Round 3
+- [60] **Asuka**: @Benjamin, the ledger is tight, but the lift contract has spare capacity. Option C is the only one we can staff without breaking the current schedule.
+- [61] **Takumi**: @Asuka, spare lift crews don't fix the mid-city delays. Option B targets the actual bottleneck. We need to move the buses, not just the stairs.
+- [62] **Benjamin**: @Takumi, dedicated lanes require paving. Paving rates just spiked. We cannot afford the infrastructure to make your "bottleneck" fix actually work.
+- [63] **Servas**: @Benjamin, @Takumi, the pilots proved the late-night model works. Option A is the path already walked. We have the proof; we just need the will to act.
+- [64] **Jonathan**: @Servas, the pilot proved the timetable, not the staffing. @Asuka, the rosters are empty. We cannot extend hours without breaking the current service.
+- [65] **Asuka**: @Jonathan, you are right. The rosters are empty. Option A is impossible. I am voting for C, as the maintenance contract has the spare capacity to execute it.
+- [66] **Takumi**: @Asuka, you’re ignoring the data. The surface route is the bottleneck. Option B fixes the actual time-sink. I’m voting for B.
+- [67] **Benjamin**: @Takumi, I hear you, but I cannot vote for a plan that bankrupts us. @Asuka, C is the only option that doesn’t bleed cash. I’m voting C.
+- [68] **Servas**: @Asuka, @Benjamin, the past shows accessibility works delivered on time. Option C respects our limits and honors the proven path. I vote C.
+- [69] **Jonathan**: @Asuka, @Benjamin, the voids make C a gamble. @Takumi, B ignores the paving costs. I cannot vote for a date I cannot trust.
+- [70] **Asuka**: @Jonathan, the voids are a risk, but the empty rosters are a certainty. Option C is the only plan we can actually staff. I stand by my vote for C.
+- [71] **Takumi**: @Jonathan, the voids are a risk, but the data is a fact. The surface route is the bottleneck. I am voting for B.
+- [72] **Benjamin**: @Jonathan, I hear your caution, but C is the only option that doesn’t bankrupt us. I am voting C.
+- [73] **Servas**: @Jonathan, the past shows accessibility works delivered on time. Option C respects our limits and honors the proven path. I vote C.
+- [74] **Jonathan**: @Asuka, the voids are a risk, but the empty rosters are a certainty. Option C is the only plan we can actually staff. I stand by my vote for C.
+- [75] **Asuka**: @Jonathan, I appreciate the caution, but the maintenance contract has spare capacity. The risk is manageable. I am voting for C.
+- [76] **Takumi**: @Asuka, I am not voting for C. The data is clear: the surface route is the bottleneck. I am voting for B.
+- [77] **Benjamin**: @Takumi, I respect the data, but I cannot ignore the ledger. Option C is the only path that doesn't bankrupt us. I am voting C.
+- [78] **Servas**: @Jonathan, the past shows accessibility works delivered on time. Option C respects our limits and honors the proven path. I vote C.
+- [79] **Jonathan**: @Takumi, the data is clear, but the ground is uncertain. I cannot trust a date for B. I am voting for C.
+### Vote
+- Asuka -> C
+- Takumi -> B
+- Benjamin -> C
+- Servas -> C
+- Jonathan -> C
+## Result
+- adopted: C

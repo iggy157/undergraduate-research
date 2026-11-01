@@ -1,0 +1,73 @@
+# shared_living_0007__single-batch (shared_living)
+
+## Round 1
+- [5] **Misaki**: I worry about the lobby atmosphere if we make this competitive.
+- [6] **Shizue**: The morning rush is getting dangerous. I need to see the flow.
+- [7] **May**: Who is actually paying for the current mess? I need the numbers.
+- [8] **George**: I am concerned about who maintains this long-term.
+- [9] **Mio**: I suspect the current spots are just historical accidents.
+- [10] **Misaki**: @May, if we charge, will people stop coming to meetings?
+- [11] **Shizue**: @George, I agree. The last duty fell on one person.
+- [12] **May**: @Misaki, I don't know. I just want to know the cost.
+- [13] **George**: @Shizue, yes, it lapsed quietly. I need to check the logs.
+- [14] **Mio**: @May, the ledger might show if we are even spending money.
+- [15] **Misaki**: I will look at the complaint log to see past friction.
+- [16] **Shizue**: I will watch the morning departures to see the bottleneck.
+- [17] **May**: I will check the building account's two-year ledger.
+- [18] **George**: I will review the treasurer's handover file on cash.
+- [19] **Mio**: I will read the five years of association minutes.
+- [20] **Misaki**: Also, I will check the neighbouring block's secretary account.
+- [21] **Shizue**: And I will check the rain exposure along the rows.
+- [22] **May**: I will also check the ward cycle park by the station.
+- [23] **George**: I will also check the trial of the supplier's display frame.
+- [24] **Mio**: I will also check the sticker register and the daily riders.
+## Round 2
+- [35] **Misaki**: The complaint log shows nine notes, all ignored.
+- [36] **Shizue**: Eleven bikes leave between seven and nine. Four need shifting.
+- [37] **May**: The ledger is empty. The ward park costs 2,600 yen.
+- [38] **George**: Reconciling cash takes three hours a month. The frame is hard.
+- [39] **Mio**: The minutes show no review in five years. Riders want to pay.
+- [40] **Misaki**: @May, if the ward park is full, we can't just send them there.
+- [41] **Shizue**: @George, three hours is a lot. I don't want to do that.
+- [42] **May**: @Mio, so people actually want to pay? That changes things.
+- [43] **George**: @Shizue, the frame needs greasing twice a year. It's work.
+- [44] **Mio**: @Misaki, the neighbours' block had arrears. That's a risk.
+- [45] **Misaki**: @Mio, yes, two households stopped coming to meetings there.
+- [46] **Shizue**: @May, the rain row is wet. The eaves row is dry.
+- [47] **May**: @George, if we charge, we need to track who pays.
+- [48] **George**: @Misaki, I am worried about the maintenance burden.
+- [49] **Mio**: @Shizue, the dry spots are always the same flats.
+- [50] **Misaki**: I prefer a system that doesn't create debtors.
+- [51] **Shizue**: I want the morning to be smooth and safe.
+- [52] **May**: I want to know if we can afford the infrastructure.
+- [53] **George**: I want a solution that doesn't fall on one person.
+- [54] **Mio**: I want the allocation to reflect actual usage.
+## Round 3
+- [60] **Misaki**: Option A risks social friction. Option B is chaotic.
+- [61] **Shizue**: Option B might solve the morning shoving match.
+- [62] **May**: Option A brings in money. Option C is random.
+- [63] **George**: Option A adds work. Option B needs maintenance.
+- [64] **Mio**: Option C is fair but ignores the dry spots.
+- [65] **Misaki**: @May, Option A could lead to arrears like the neighbours.
+- [66] **Shizue**: @George, Option B's racks need greasing, but no billing.
+- [67] **May**: @Misaki, I agree. I don't want to chase payments.
+- [68] **George**: @Shizue, the frame trial was hard. I worry about B.
+- [69] **Mio**: @May, but the riders said they'd pay. Maybe A is okay?
+- [70] **Misaki**: @Mio, the neighbours' experience was bad. I prefer B.
+- [71] **Shizue**: @Misaki, B is open. No one owns a spot. Less conflict.
+- [72] **May**: @George, if B is too hard, maybe we just clean up?
+- [73] **George**: @May, B is simpler than A. No cash to reconcile.
+- [74] **Mio**: @Shizue, B means anyone can take the dry spot.
+- [75] **Misaki**: I vote for B. It avoids the payment trap.
+- [76] **Shizue**: I vote for B. It makes the morning safer.
+- [77] **May**: I vote for B. It's cheaper than managing A.
+- [78] **George**: I vote for B. It's less work than A.
+- [79] **Mio**: I vote for B. It's the most open.
+### Vote
+- Misaki -> B
+- Shizue -> B
+- May -> B
+- George -> B
+- Mio -> B
+## Result
+- adopted: B

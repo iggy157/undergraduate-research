@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: The hands that build the science are harder to find than the money.
+- [6] **Sakura**: I wonder if the grant size is actually buying less than it used to?
+- [7] **Daisuke**: I am worried our past guesses about potential have not held up well.
+- [8] **Takumi**: We need to know where the work actually gets stuck before we vote.
+- [9] **Minako**: Shared facilities are the bottleneck. I need to see their current capacity.
+- [10] **Servas**: @Minako, yes, the infrastructure supports the people, not the other way around.
+- [11] **Sakura**: @Takumi, interruptions are annoying, but I care more about the hidden costs.
+- [12] **Daisuke**: I think looking at finished projects might show us what really works.
+- [13] **Takumi**: @Daisuke, history is useful, but I want to see the live friction points.
+- [14] **Minako**: I will check the facility bookings and the staffing rolls to be sure.
+- [15] **Servas**: I will look at the staffing rolls and the secondment minutes.
+- [16] **Sakura**: I want to check the ledgers and the computing agreement.
+- [17] **Daisuke**: I will review the closeout files and the schedule overruns.
+- [18] **Takumi**: I will check the incident logs and the field station records.
+- [19] **Minako**: I will look at the accreditation records and the repository turnaround.
+- [20] **Servas**: Let us see what the data says about who is actually here.
+- [21] **Sakura**: I hope the numbers show where the money really goes.
+- [22] **Daisuke**: I am a bit nervous, but I think this is the right way.
+- [23] **Takumi**: I will not let these delays go unchallenged.
+- [24] **Minako**: We must ensure the support systems are ready for the science.
+## Round 2
+- [35] **Servas**: The technicians are gone, but the glasshouse crew is strong. That is a relief.
+- [36] **Sakura**: Wait, simulation is free now? But animal units cost a fortune?
+- [37] **Daisuke**: The closeout files are... concerning. Many mechanism studies ended unresolved.
+- [38] **Takumi**: The spectroscopy suite was idle for eleven weeks. That is unacceptable.
+- [39] **Minako**: The repository is fast now, but the glasshouses are full. That is a problem.
+- [40] **Servas**: @Takumi, the idle equipment is a symptom of the staffing gap I see.
+- [41] **Sakura**: So if we pick a project needing animals, it will be very expensive.
+- [42] **Daisuke**: I noticed the catalogue projects lasted longer. The mechanism ones stalled.
+- [43] **Takumi**: @Minako, if the glasshouses are full, plant projects are at risk.
+- [44] **Minako**: Yes, the plant projects need space we do not have.
+- [45] **Servas**: We must pick a project that matches the people we actually have.
+- [46] **Sakura**: I think the free computing is a huge advantage for simulation-heavy work.
+- [47] **Daisuke**: I am leaning towards projects that do not rely on live breeding.
+- [48] **Takumi**: The field sites are too risky. Three lost a whole season.
+- [49] **Minako**: The animal facility is ready, but the cost is high.
+- [50] **Servas**: The modelling analysts are away, but the code applicants are here.
+- [51] **Sakura**: I am excited to see which project fits this new reality.
+- [52] **Daisuke**: I feel more confident now that we have looked at the past.
+- [53] **Takumi**: I will push for a project that avoids the broken equipment.
+- [54] **Minako**: We need to be realistic about the shared resources.
+## Round 3
+- [60] **Servas**: Project A uses soil and sequences. We have the code people for that.
+- [61] **Sakura**: Project B needs spectroscopy, which was broken. But simulation is free.
+- [62] **Daisuke**: Project C uses live breeding. The overruns were double for those.
+- [63] **Takumi**: Project D needs glasshouses, which are booked solid. That is a no.
+- [64] **Minako**: Project A seems safest. The repository is fast for the data.
+- [65] **Servas**: @Sakura, the spectroscopy issue is serious. I would avoid B.
+- [66] **Sakura**: I agree. The animal costs for C are also too high now.
+- [67] **Daisuke**: I am worried about C. The closeout files showed those stalling.
+- [68] **Takumi**: I am against D. The field sites are too risky for A too, but A is indoor.
+- [69] **Minako**: A is indoor and uses the fast repository. It fits our capacity.
+- [70] **Servas**: The glasshouse crew is strong, but the space is full. D is out.
+- [71] **Sakura**: B is risky because of the equipment. A is solid.
+- [72] **Daisuke**: I think A is the best choice. It matches our strengths.
+- [73] **Takumi**: I will support A. It avoids the broken spectroscopy and full glasshouses.
+- [74] **Minako**: I am confident in A. The infrastructure supports it well.
+- [75] **Servas**: Let us vote for A. It is the most sustainable choice.
+- [76] **Sakura**: I am happy to vote for A. It feels right.
+- [77] **Daisuke**: I will vote for A. I feel safer with this option.
+- [78] **Takumi**: I am voting for A. It is the only one that works.
+- [79] **Minako**: I vote for A. It is the logical decision.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

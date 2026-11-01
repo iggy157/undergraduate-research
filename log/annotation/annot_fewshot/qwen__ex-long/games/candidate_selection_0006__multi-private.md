@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I’m worried about programs that collapse in year two. Let’s check the board minutes on the jointly run clinic to see how shared arrangements hold up.
+- [6] **Jonathan**: I’m concerned we’re repeating past mistakes. Let’s examine the readmission figures during the call-back trial to see if earlier efforts actually helped patients.
+- [7] **Misaki**: I need to see where the workload actually falls. I’ll check ward nursing vacancies and agency cover to understand the staffing reality.
+- [8] **Shion**: I suspect the budget is a fiction. I’ll examine this year's development allocation in the ledger to see what we can actually afford.
+- [9] **Shizue**: I worry about the day-to-day flow. Let’s check what the booking system records to see if our screens can handle the extra load.
+- [10] **Midori**: @Jonathan, your focus on patient outcomes is vital. I’ll also look into the data agreements with outside surgeries to see if those partnerships are truly sustainable.
+- [11] **Jonathan**: @Midori, I appreciate your caution. I will also review the therapy and midwifery staffing review to ensure we have the hands to deliver care.
+- [12] **Misaki**: @Shion, the ledger is crucial. I’ll also review the therapy and midwifery staffing review to see who actually absorbs the new workload.
+- [13] **Shion**: @Misaki, staffing is a symptom. I’ll examine regional fund tariffs by contact location to see if the revenue model even holds up.
+- [14] **Shizue**: @Shion, I agree. I will also examine rooms, parking and shuttle coverage to see if the physical space can absorb the new flow.
+- [15] **Midori**: @Shizue, the physical flow is key. I’ll stick with my two choices: the board minutes and the data agreements. We need to know if the partnerships are real.
+- [16] **Jonathan**: @Shizue, I agree. I will stick with my two choices: the readmission figures and the therapy staffing review. We must know if the care actually reaches the patient.
+- [17] **Misaki**: @Shion, I agree. I’ll stick with my two choices: ward nursing vacancies and the therapy staffing review. The rosters tell the truth.
+- [18] **Shion**: @Shizue, I’ll stick with my two choices: the ledger and the regional tariffs. The numbers must survive the scrutiny before we commit.
+- [19] **Shizue**: @Midori, I agree. I’ll stick with my two choices: the booking system records and the rooms, parking, and shuttle coverage. The physical flow must remain smooth.
+- [20] **Midori**: I’m glad we’re all focused on the real risks. I’ll stick with my two choices to understand if these partnerships will actually hold up.
+- [21] **Jonathan**: I’ll stick with my two choices. The data will reveal if our past efforts truly mattered, or if they were just noise.
+- [22] **Misaki**: I’ll stick with my two choices. The rosters will show exactly who carries the weight. Let’s see the reality.
+- [23] **Shion**: I’ll stick with my two choices. The ledger and tariffs will expose the true cost. Let’s see if the numbers survive the scrutiny.
+- [24] **Shizue**: I’ll stick with my two choices. The booking screens and the physical space must breathe. Let’s see if the day can hold the new flow.
+## Round 2
+- [35] **Midori**: @Jonathan, the board minutes are grim. A joint clinic collapsed in a year because neither department owned the rota. We must avoid shared arrangements that lack clear accountability.
+- [36] **Jonathan**: @Midori, that aligns with my findings. Readmissions fell only while the call-back trial ran, then drifted back. We must choose a program with clear, sustained ownership to prevent this quiet failure.
+- [37] **Misaki**: @Midori, that shared failure mirrors my staffing data. Nine ward posts are empty, and agency costs are rising. We cannot add load to exhausted teams.
+- [38] **Shion**: @Midori, the ledger confirms my suspicion. The allocation is down a quarter, and fitting out is now charged to it. We are building on a shrinking foundation.
+- [39] **Shizue**: @Shion, that shrinking budget worries me. My booking data shows unlogged work vanishes, and our car park fills by eleven. We must choose a program that fits the existing flow, not one that breaks it.
+- [40] **Midori**: @Shizue, your point about unlogged work is vital. My data agreements took fourteen months to sign. We cannot rely on outside partners who are slow to commit.
+- [41] **Jonathan**: @Shizue, I agree. My staffing review shows physiotherapists leaving, but midwifery has unusual slack. We should leverage that existing capacity rather than adding new burdens to exhausted teams.
+- [42] **Misaki**: @Jonathan, the midwifery slack is a rare asset. But nine empty ward posts mean any new load lands on agency staff. We must protect that existing capacity.
+- [43] **Shion**: @Jonathan, midwifery slack is a trap. My tariff data shows off-site contacts earn zero. We must choose a program that bills on-site, or we fund it with nothing.
+- [44] **Shizue**: @Shion, I hear your caution. But my data shows the shuttle misses fifteen villages. We must pick a program that fits the current flow, not one that breaks it.
+- [45] **Midori**: @Shion, you are right. If off-site contacts earn zero, we cannot rely on them. We need a program that stays within our walls and bills clearly.
+- [46] **Jonathan**: @Shion, I hear your caution. But my data shows the call-back trial worked only with sustained, on-site ownership. We must choose a program that stays within our walls and bills clearly.
+- [47] **Misaki**: @Shion, I agree. Off-site contacts earn nothing. We must choose a program that stays on-site, where our existing staff can actually absorb the workload without breaking.
+- [48] **Shion**: @Shizue, the shuttle gap is a symptom. My tariff data is the cause. Off-site means zero revenue. We must select a program that generates billable, on-site sessions to survive the shrinking ledger.
+- [49] **Shizue**: @Shion, I understand the revenue need. But if the car park is full by eleven, on-site patients cannot arrive. We must choose a program that fits the physical reality, not just the ledger.
+- [50] **Midori**: @Shizue, I agree. The physical constraints are real. We must choose a program that fits our current space and staffing, avoiding the fragile partnerships that failed before.
+- [51] **Jonathan**: @Shizue, I agree. The physical limits are real. We must choose a program that fits our current space and staffing, avoiding the fragile partnerships that failed before.
+- [52] **Misaki**: @Shizue, I agree. The physical limits are real. We must choose a program that fits our current space and staffing, avoiding the fragile partnerships that failed before.
+- [53] **Shion**: @Shizue, the car park is a constraint, not a barrier. We must select a program that maximizes on-site billable sessions within the existing physical footprint.
+- [54] **Shizue**: @Shion, I hear you. But a full car park means patients simply cannot arrive. We must choose a program that respects the physical limits, not just the ledger.
+## Round 3
+- [60] **Midori**: @Shion, my data shows outside agreements take fourteen months. Option C relies on them. We must avoid that fragility. I favor D, using our midwifery slack.
+- [61] **Jonathan**: @Midori, I agree. Option C’s external reliance mirrors the failed joint clinic. Option D leverages our midwifery slack, ensuring sustained, on-site ownership. I favor D.
+- [62] **Misaki**: @Midori, I agree. Option D uses the midwifery slack I found. It avoids the nine empty ward posts. I favor D.
+- [63] **Shion**: @Midori, Option D is the only choice that bills on-site. My tariff data confirms off-site visits earn zero. We must select the program that generates revenue within our walls.
+- [64] **Shizue**: @Midori, I agree. Option D fits our midwifery slack and stays on-site. It respects the car park limits and keeps the booking flow smooth. I favor D.
+- [65] **Midori**: @Shion, I appreciate the revenue focus. But D’s joint structure risks the same ownership gap that killed the clinic. We need clear accountability to ensure it lasts beyond year one.
+- [66] **Jonathan**: @Midori, your caution is wise. But D’s midwifery slack is unique. A and C rely on scarce staff. D is the only option with existing, dedicated hands.
+- [67] **Misaki**: @Jonathan, the slack is real, but joint delivery splits accountability. I worry the midwifery team absorbs pediatric load without clear ownership. We must ensure the rota remains distinct.
+- [68] **Shion**: @Midori, accountability is a management detail. The ledger is the master. D bills on-site; A and C do not. We cannot afford the zero-revenue trap.
+- [69] **Shizue**: @Misaki, your caution is wise. D’s scheduled classes fit our booking screens perfectly. Unlike A or C, it creates no unlogged work. I favor D.
+- [70] **Midori**: @Misaki, you are right. The joint structure is a risk. We must ensure midwifery owns the rota, not just shares it. I will vote for D, but only with clear accountability.
+- [71] **Jonathan**: @Misaki, your caution is vital. But the midwifery slack is our only stable asset. D is the only option that respects our staffing reality and avoids the fragile external dependencies.
+- [72] **Misaki**: @Jonathan, I hear you. The slack is our only stable asset. I will vote for D, provided the midwifery rota remains distinct and protected from pediatric overflow.
+- [73] **Shion**: @Misaki, the rota is a detail. The ledger is the master. D is the only option that bills on-site. A and C earn zero. We must select the program that generates revenue within our walls.
+- [74] **Shizue**: @Shion, I hear your urgency. But D’s scheduled classes fit our booking screens perfectly. Unlike A or C, it creates no unlogged work. I favor D.
+- [75] **Midori**: @Shion, I agree. D is the only choice that respects our staffing and physical limits. I vote for D, trusting we will secure clear ownership.
+- [76] **Jonathan**: @Shion, I agree. D is the only choice that respects our staffing and physical limits. I vote for D, trusting we will secure clear ownership.
+- [77] **Misaki**: @Shion, I agree. D is the only choice that respects our staffing reality. I vote for D, trusting we will secure clear ownership.
+- [78] **Shion**: @Shizue, the booking flow is secondary. The ledger is primary. D is the only option that generates on-site revenue. I vote for D.
+- [79] **Shizue**: @Shion, I agree. D’s scheduled classes fit our booking screens perfectly. Unlike A or C, it creates no unlogged work. I vote for D.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

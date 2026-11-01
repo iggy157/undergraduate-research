@@ -1,0 +1,73 @@
+# candidate_selection_0018__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Misaki**: I need to understand the human cost of this transition. Who is actually holding the system together right now?
+- [6] **Kenji**: I’m worried about the depot floor! Freight doesn’t stop for software updates. Let’s check the yard devices and the 2021 scheduling trial to see what actually works.
+- [7] **Toshio**: I suspect the headline price is a fiction. I will examine the five years of renewal invoices and the board minutes on capital requests to trace the true cost.
+- [8] **Yumi**: I’m worried about who’s actually in charge when things break! Let’s check the support ownership during last winter's outage and the administrator retirements to see who’s left.
+- [9] **Benjamin**: I suspect the real risk is decay. I will examine the upgrade history of the dispatch tool and the warehouse rule changes after new accounts.
+- [10] **Misaki**: @Yumi, your focus on support ownership is critical. I will examine administrator retirements and hiring times to see who remains to carry the load.
+- [11] **Kenji**: @Misaki, I agree! Knowing who’s left is key. I’ll stick with my two choices to see if the yard equipment can handle the new system.
+- [12] **Toshio**: @Kenji, the yard is a symptom. I will stick with my two choices to trace the financial decay.
+- [13] **Yumi**: @Toshio, I hear you! But if the people are gone, the money doesn’t matter. I’ll stick with my two choices to see who’s actually left to help.
+- [14] **Benjamin**: @Toshio, financial decay is real, but I’m tracking operational rot. I’ll stick with my two choices to see how the system quietly ages.
+- [15] **Misaki**: @Toshio, I understand the financial concern. I will stick with my two choices to assess the staffing reality.
+- [16] **Kenji**: @Toshio, I get it! But if the yard devices can’t talk to the new system, freight stops. I’ll stick with my two choices to check the hardware reality.
+- [17] **Toshio**: @Misaki, the people are the mechanism, but the invoices are the evidence. I will stick with my two choices to expose the hidden costs.
+- [18] **Yumi**: @Misaki, I agree! Knowing who’s left is vital. I’ll stick with my two choices to see who’s actually there to help when things break.
+- [19] **Benjamin**: @Yumi, the people are the mechanism, but the decay is the disease. I’ll stick with my two choices to see how the system quietly ages.
+- [20] **Misaki**: @Yumi, your caution is well-placed. I will stick with my two choices to understand the staffing reality.
+- [21] **Kenji**: @Yumi, I agree! If the people are gone, the yard freezes. I’ll stick with my two choices to see if the hardware survives the switch.
+- [22] **Toshio**: @Yumi, the people are the mechanism, but the invoices are the evidence. I will stick with my two choices to expose the hidden costs.
+- [23] **Yumi**: @Toshio, I appreciate the focus on costs! But without the right people, the numbers are just paper. I’ll stick with my two choices to see who’s actually there.
+- [24] **Benjamin**: @Toshio, I appreciate the focus on costs. But without understanding the decay, the numbers are just a countdown. I’ll stick with my two choices to see how the system quietly ages.
+## Round 2
+- [35] **Misaki**: @Yumi, the data is stark. Two key administrators retire this year, and the last hiring took eleven months. We are losing the people who hold the system together.
+- [36] **Kenji**: @Yumi, that’s scary! My yard scanners are old, and the 2021 trial failed fast. Plus, peak season has no freeze window. We need a vendor that works with our messy hardware!
+- [37] **Toshio**: @Yumi, the invoices confirm my fear. Bundled prices held, but add-ons climbed yearly. Capital requests were trimmed, yet operating lines passed unchallenged. The true cost is recurring, not upfront.
+- [38] **Yumi**: @Misaki, that’s terrifying! Two days unowned is unacceptable. With two admins retiring, we need a vendor who actually takes responsibility, not just passes the buck.
+- [39] **Benjamin**: @Toshio, the skipped upgrades confirm my fear. The system decays because we lack the bandwidth to fix it. We need a vendor who respects that reality, not one who demands a perfect environment.
+- [40] **Misaki**: @Benjamin, you are right. The decay is real. But my data shows the supervisors already ignore standard training. We need a vendor that fits their existing habits, not one that demands a reset.
+- [41] **Kenji**: @Benjamin, exactly! The 2021 trial failed because it ignored our messy hardware. We need a vendor that works with our old scanners, not against them.
+- [42] **Toshio**: @Benjamin, decay is a symptom. The invoices prove the trap: capital is trimmed, operating lines pass unchallenged. We must avoid vendors who shift costs to recurring lines.
+- [43] **Yumi**: @Kenji, I agree! If the hardware is messy, the vendor must adapt to us, not the other way around. Let’s find someone who actually shows up when things break!
+- [44] **Benjamin**: @Misaki, the scope freeze failing is the real danger. We need a vendor whose rules survive contact with reality, not one that demands a perfect, static environment.
+- [45] **Misaki**: @Toshio, the recurring costs are a trap. But my data shows the real risk is human. We cannot afford a vendor that requires retraining people who are already stretched thin.
+- [46] **Kenji**: @Toshio, I hear you! But if the yard freezes during peak season, the invoices don’t matter. We need a vendor that survives our calendar and our old scanners!
+- [47] **Toshio**: @Kenji, the yard is the symptom. The invoices are the disease. We must select a vendor whose recurring costs are transparent, not hidden in operating lines.
+- [48] **Yumi**: @Toshio, I hear you! But if the people are gone, the invoices are just a countdown to disaster. We need a vendor who actually owns the problem, not just the bill!
+- [49] **Benjamin**: @Yumi, ownership is vital, but if the rules rewrite themselves every time a new account arrives, ownership is meaningless. We need stability, not just a name on the ticket.
+- [50] **Misaki**: @Benjamin, stability is essential. But my data shows supervisors drop standard steps within weeks. We need a vendor that fits their existing habits, not one that demands a reset.
+- [51] **Kenji**: @Benjamin, I agree! Stability is key. But if the yard freezes, stability is useless. We need a vendor that survives our peak season and old scanners!
+- [52] **Toshio**: @Benjamin, stability is the goal, but the invoices reveal the mechanism. We must choose a vendor whose recurring costs are fixed, not a trap that grows while capital is trimmed.
+- [53] **Yumi**: @Benjamin, I agree! Stability is vital. But if nobody owns the fix, the rules are just words. We need a vendor who actually answers when things break!
+- [54] **Benjamin**: @Toshio, I agree. The recurring trap is real. But without stable rules, the costs are just a symptom of the decay. We need a vendor that endures, not one that demands constant repair.
+## Round 3
+- [60] **Misaki**: @Yumi, my data shows supervisors drop standard training. Option C relies on a partner for training, which is a risk. I need to know who actually stays to help.
+- [61] **Kenji**: @Misaki, I agree! But my yard data is the real test. Option D puts engineers on-site for our old scanners. That’s the only way freight keeps moving!
+- [62] **Toshio**: @Kenji, on-site engineers are a capital expense. My invoices show capital is trimmed, while operating lines pass unchallenged. Option B’s fixed configuration avoids the recurring trap.
+- [63] **Yumi**: @Kenji, I agree! On-site engineers are great, but I need to know who owns the fix after they leave. Option B’s regional team sounds like a real, accountable partner!
+- [64] **Benjamin**: @Toshio, fixed configuration is a trap. My data shows rules rewrite themselves constantly. We need a system that adapts, not one that freezes and rots.
+- [65] **Misaki**: @Benjamin, adaptation is vital, but my data shows supervisors ignore standard steps. Option D’s on-site engineers can adapt to their habits, unlike a remote partner.
+- [66] **Kenji**: @Benjamin, I hear you! But if the system freezes, the yard stops. Option D’s engineers adapt to our messy hardware. That’s the only way freight keeps moving!
+- [67] **Toshio**: @Benjamin, adaptation without fixed pricing is the trap. Option C’s marketplace invites the very add-ons that climbed yearly in my invoices. We must avoid that recurring bleed.
+- [68] **Yumi**: @Toshio, I hear you! But if the marketplace invites endless add-ons, who actually owns the mess? I need a vendor who stays accountable, not just a catalog of options!
+- [69] **Benjamin**: @Yumi, accountability is hollow if the system decays. Option D’s on-site team can repair the rot, but I fear the rules will still rewrite themselves.
+- [70] **Misaki**: @Toshio, the marketplace is a trap. My data shows supervisors drop standard steps. Option D’s on-site engineers adapt to their habits, unlike a remote partner.
+- [71] **Kenji**: @Toshio, I hear you! But if the yard freezes, the invoices don’t matter. Option D’s engineers adapt to our old scanners. That’s the only way freight keeps moving!
+- [72] **Toshio**: @Kenji, the yard is the symptom. Option D’s on-site engineers are a capital expense, which my invoices show is being trimmed. We must avoid the recurring bleed of Option C.
+- [73] **Yumi**: @Toshio, I hear you! But if the engineers leave, who owns the fix? Option B’s regional team stays accountable. I need a partner who actually answers when things break!
+- [74] **Benjamin**: @Toshio, capital is trimmed, but decay is constant. Option D’s on-site team repairs the rot, but I fear the rules will still rewrite themselves. We need stability, not just a fix.
+- [75] **Misaki**: @Benjamin, stability is vital. But my data shows supervisors drop standard steps. Option D’s on-site engineers adapt to their habits, unlike a remote partner. I favor D.
+- [76] **Kenji**: @Benjamin, I agree! But if the yard freezes, stability is useless. Option D’s engineers adapt to our old scanners. That’s the only way freight keeps moving!
+- [77] **Toshio**: @Benjamin, decay is real, but the invoices prove the trap. Option B’s fixed configuration prevents the recurring bleed. I favor B.
+- [78] **Yumi**: @Toshio, I hear you! But if the engineers leave, who owns the fix? Option B’s regional team stays accountable. I need a partner who actually answers when things break!
+- [79] **Benjamin**: @Toshio, fixed configuration is a cage. My data shows rules rewrite themselves constantly. Option D’s on-site team repairs the rot, but I fear the rules will still rewrite themselves. We need stability, not just a fix.
+### Vote
+- Misaki -> D
+- Kenji -> D
+- Toshio -> B
+- Yumi -> B
+- Benjamin -> D
+## Result
+- adopted: D

@@ -1,0 +1,73 @@
+# shared_living_0004__multi-private (shared_living)
+
+## Round 1
+- [5] **Sakura**: Hi everyone! I'm so excited for our trip! I want it to be a super fun adventure! To start, let's figure out where we should go! What do you guys think?
+- [6] **Victoria**: It is lovely to see your enthusiasm, Sakura. However, before we let our imaginations run wild, I believe it would be prudent to establish a clear understanding of the costs and logistics involved.
+- [7] **Midori**: I agree with Victoria. It would be wonderful to find a place that makes everyone happy, but we should make sure it's practical first. I'm looking forward to hearing everyone's ideas!
+- [8] **Toshio**: We should be methodical. Before we suggest destinations, we need to understand the logistical constraints and the time required for travel. Let's examine the available data first to ensure the trip is actually sustainable.
+- [9] **Daisuke**: I... I agree with everyone. It's probably best to be careful and look at the details first. I don't want us to pick something that ends up being too difficult for anyone.
+- [10] **Sakura**: You're all so serious! But okay, let's be detectives first! I want to know about "All-in rates against meals bought separately" and "What separately booked rooms cost last time" to see how the money works!
+- [11] **Victoria**: I agree that we need a clear financial picture. I will look into "Pricing of offshore houses let whole" and "All-in rates against meals bought separately" to understand the total cost structure.
+- [12] **Midori**: I want to understand how we've felt in the past, so I'll check "Time alone in the shared-house year" and "How last year's days ran." I hope this helps us find a good balance!
+- [13] **Toshio**: I will examine "Ferry sailings and train time" and "Getting around by train and bus." It is essential to quantify the actual time spent in transit to avoid unnecessary exhaustion.
+- [14] **Daisuke**: I'll... I'll look into "Bathing hours and bathroom provision" and "Inn mealtimes and room arrangements." I just want to make sure the daily schedule and the facilities are okay for everyone.
+- [15] **Sakura**: Since Victoria is also checking the meal rates, maybe we can compare our notes later! I wonder if we'll find any secret discounts or something! Does anyone have a place they're dreaming of visiting?
+- [16] **Victoria**: Comparing notes will be useful, Sakura. I am less interested in discounts and more concerned with the predictability of the final bill. As for a destination, I believe we should wait for the data.
+- [17] **Midori**: I agree with Victoria. It's better to wait until we have the facts. I'm just hoping we can find a way to make sure everyone feels comfortable and included this year. What do you think, Toshio?
+- [18] **Toshio**: I believe the same. Suggesting a destination now would be premature. We must first determine if the travel time is reasonable and if the logistics are efficient. I prefer to base our decision on objective data.
+- [19] **Daisuke**: I... I think you're all right. I don't have a specific place in mind. I just hope we can find somewhere that feels... relaxing. I'll wait to see what we find out.
+- [20] **Sakura**: Okay! I'm ready to go on my research mission! I'll find out all the money secrets so we can have the best trip ever! See you all soon!
+- [22] **Victoria**: I shall begin my research now. I want to ensure we have a comprehensive understanding of the total expenses before we commit to any specific plan. I will see you all in the next round.
+- [24] **Midori**: I'll start my research now too. I really hope we can find a way to make this trip feel just right for everyone. I'll see you all soon!
+- [26] **Toshio**: I will proceed with my research. I intend to focus on the efficiency of the transport options to ensure we maximize our actual vacation time. I will see you all in the next round.
+- [28] **Daisuke**: I'll... I'll go look into those things now. I hope the information helps us pick a place where everyone can feel at ease. See you all later.
+## Round 2
+- [40] **Sakura**: Wow, I found some really interesting stuff! It turns out that all-in rates can be a bit unfair for people who don't eat as much, and separate rooms can have totally different prices! That's a mystery solved!
+- [41] **Victoria**: My findings confirm that all-in rates can be imprecise, as they charge a flat fee regardless of actual consumption. Furthermore, offshore houses let as a whole cost roughly 5,400 yen per person per night, excluding food.
+- [42] **Midori**: I found something quite eye-opening. Last year, some of us barely saw each other during the day, but when we stayed in a shared house, there was no place to go for a moment of peace. It's a tricky balance!
+- [43] **Toshio**: The transport data is concerning. The ferry schedule is restrictive, effectively consuming two full days for travel. Conversely, urban transport is highly efficient, requiring almost no planning or waiting. We must prioritize minimizing transit time.
+- [44] **Daisuke**: I... I found out that the island houses only have one bathroom for everyone, and the water can get cold. Also, the inns have very strict mealtimes and everyone sleeps in one room on futons.
+- [45] **Sakura**: @Victoria, you're right about the flat fees! It's like paying for a giant cake when you only want one slice! I think it's much better if we just pay for what we actually eat, don't you?
+- [46] **Victoria**: @Sakura, while paying for what we consume seems fair, it introduces uncertainty. My concern is that separate billing often leads to a final total that differs from the initial estimate. A fixed, all-in cost is more predictable.
+- [47] **Midori**: @Victoria, I understand wanting predictability, but maybe we can find a middle ground. @Daisuke, thank you for sharing! One bathroom for five people sounds like it could be quite stressful for everyone.
+- [48] **Toshio**: @Daisuke, the bathroom situation is a minor inconvenience compared to the loss of time. If we choose a destination with restrictive ferry schedules, we are essentially wasting two days of our holiday just moving. That is an unacceptable inefficiency.
+- [49] **Daisuke**: @Toshio, I... I understand that time is important. But for some people, the bathroom and the room... they can make a big difference in how they feel. I'm worried that one room for everyone might be a bit much.
+- [50] **Sakura**: @Daisuke, you're right! Sleeping in one big room sounds like a giant slumber party, but maybe too many people in one bathroom is a yucky mystery we don't want! We need a place that's fair and comfy!
+- [51] **Victoria**: @Sakura, comfort is important, but we must not overlook the financial risk. If we opt for separate billing to be "fair," we risk a fluctuating total. I would prefer a destination where the costs are transparent and fixed from the start.
+- [52] **Midori**: @Victoria, I see your point about the budget, but I'm worried about the social cost. If we're too crowded or too separate, we might not truly bond. We need a place that allows us to be together without feeling overwhelmed.
+- [53] **Toshio**: @Midori, bonding is impossible if we are exhausted by the journey. A destination that requires hours of waiting and rigid schedules creates stress, not harmony. We should prioritize a location with seamless transport to preserve our energy for the actual trip.
+- [54] **Daisuke**: @Toshio, I... I see what you mean about the energy. But if the room is too crowded and the schedule is too strict, I'm worried we'll be exhausted anyway. I just want us to be okay.
+- [55] **Sakura**: @Victoria, but if the costs are fixed and some rooms are way more expensive than others, someone might end up paying too much! I think we should pick a place where the bill is just one big, even split for everyone!
+- [56] **Victoria**: @Sakura, an even split of a fixed total is precisely what I am advocating for. It ensures that the amount we agree upon is the amount we actually pay, without any unexpected additions at the end of the trip.
+- [57] **Midori**: @Sakura, @Victoria, I think we can find a way to make the costs fair and predictable. But please, let's not forget about the space. If we're all in one room, we might feel too crowded!
+- [58] **Toshio**: @Midori, space is a secondary concern to time. If we spend two days merely transitioning between locations, the quality of the space becomes irrelevant because we have less of it. We must avoid any destination that consumes our time with restrictive schedules.
+- [59] **Daisuke**: I... I think we're all worried about different things. @Toshio, I know time is important, but I'm just... really worried about the rooms and the bathrooms. I hope we can find a place that's easy to get to and also... quiet.
+## Round 3
+- [65] **Sakura**: Ooh, the options are here! I think Option A sounds like a big adventure, but remember what I found? A whole house means one big bill we can just split evenly! That way, nobody gets a scary surprise! Which one do you like?
+- [66] **Victoria**: Option A is appealing because a whole-house rental allows for a fixed, predictable cost. However, we must consider the ferry schedules Toshio mentioned. Option C also offers a structured environment with meals included, which provides financial clarity.
+- [67] **Midori**: I'm a bit worried about Option A. As I found, a shared house can feel crowded with no place for a moment of peace. Option B might be too separate, but Option C seems like a lovely balance!
+- [68] **Toshio**: Option A is out of the question. The ferry schedules would waste two full days of our time. Option B is the most efficient, as urban transport requires no planning and maximizes our actual vacation time. I vote for Option B.
+- [69] **Daisuke**: I... I don't think I can do Option A. One bathroom for everyone and sleeping in one room... it sounds too overwhelming. Option B sounds quiet, but I'm worried about being too alone. Maybe Option C?
+- [70] **Sakura**: @Toshio, you're so grumpy about the ferry! But @Daisuke, if we do Option B, we'll have those different room prices I found, and that's not fair! Option A is the best for the wallet because it's one even split!
+- [71] **Victoria**: @Sakura, I agree that a single split is the most stable approach. However, we cannot ignore the concerns of the others. Option C provides a more predictable cost than Option B, while avoiding the logistical issues of Option A.
+- [72] **Midori**: @Sakura, I understand wanting a fair split, but I'm worried that Option A might make us feel too crowded. @Daisuke, I agree that Option C sounds like a wonderful way to stay connected without feeling overwhelmed.
+- [73] **Toshio**: @Sakura, it is not about being grumpy; it is about the value of our time. Option A is a logistical failure. Option C is acceptable, but Option B remains the most efficient choice for those who value their freedom and energy.
+- [74] **Daisuke**: @Toshio, I... I understand. But Option B's loose plan makes me nervous. I think Option C is better because the train is easy, and having a set place for meals feels... safer. I'm worried about the room, but it's better than Option A.
+- [75] **Sakura**: @Daisuke, @Midori, you both like Option C! If we go there, we can still have a big group dinner and be super close! @Victoria, is Option C's money predictable too? If it is, then it's a win-win for everyone!
+- [76] **Victoria**: @Sakura, yes, Option C is quite predictable. Since meals are taken at the inn, we can establish a clear budget beforehand. It avoids the fluctuating costs of Option B and the logistical stress of Option A.
+- [77] **Midori**: @Sakura, @Victoria, it really does seem like a win-win! Option C gives us that cozy togetherness we want, but since it's a town, we can each step out for a little peace if we need it. I'm voting for Option C!
+- [78] **Toshio**: @Midori, while I value efficiency, I can concede that Option C is a reasonable compromise. The train is far more efficient than a ferry, and it avoids the chaos of Option B's loose planning. I vote for Option C.
+- [79] **Daisuke**: I... I'm glad we're all agreeing. Option C feels like the safest choice for me. It's not as crowded as Option A, and it's not as lonely as Option B. I'll vote for Option C too.
+- [80] **Sakura**: Yay! Everyone is happy with Option C! Even if it's not a giant island adventure, a hot spring town sounds super cozy and the money will be easy to handle. I vote for Option C!
+- [81] **Victoria**: I agree. Option C provides the financial predictability I require while respecting the needs and comfort of the group. It is the most rational and harmonious choice for us all. I vote for Option C.
+- [82] **Midori**: I'm so glad we could find a solution that makes everyone feel comfortable. Option C really is the perfect balance for us. I vote for Option C!
+- [83] **Toshio**: Since the consensus is clear and the transport is efficient enough to avoid the exhaustion of a ferry, I am satisfied. Option C is the most logical compromise. I vote for Option C.
+- [84] **Daisuke**: I... I'm really relieved we all agree. Thank you for understanding. I think I can actually enjoy the trip if we go with this one. I vote for Option C.
+### Vote
+- Sakura -> C
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0003__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Toshio**: I want to understand which past projects actually worked for the people using them.
+- [6] **Victoria**: I’m concerned about how much disruption the timetable absorbs during construction, and whether the finished rooms are actually used afterward.
+- [7] **George**: I worry about the staff already stretched thin. We need to see if this plan adds more burden to those doing routine upkeep.
+- [8] **Mizuki**: I’m worried about the timeline. Every project seems to hit unpriced issues, squeezing a year of work into the remaining weeks.
+- [9] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual post-occupancy costs versus the original budget estimates.
+- [10] **Toshio**: @Victoria, your point on usage is key. We must verify if the rooms are actually occupied after completion.
+- [11] **Victoria**: @Toshio, agreed. We need hard data on room availability during construction and actual booking rates post-completion to justify the capital spend.
+- [12] **George**: @Victoria, I agree. If rooms sit empty, the upkeep burden remains without the benefit. We must check the booking data.
+- [13] **Mizuki**: @George, valid point. But if the schedule slips, the disruption drags on. We need to check the delivery schedules to see if the timeline is realistic.
+- [14] **Benjamin**: @Mizuki, timelines are symptoms, not causes. I’m more interested in the tender records to see if the initial bids were even realistic to begin with.
+- [15] **Toshio**: @Benjamin, I appreciate the focus on costs, but I need to see the post-occupancy review ratings to understand user satisfaction.
+- [16] **Victoria**: @Toshio, ratings measure satisfaction, not utilization. I need the booking data to confirm actual usage. @George, please confirm you’ll pull the specialist room logs.
+- [17] **George**: @Victoria, I will look into the staffing posts and the bench technicians' routines. We must see who is left to maintain these spaces.
+- [18] **Mizuki**: @Benjamin, I agree. Tender records reveal if bids were padded. I’ll check those and the delivery schedules to expose the timeline risks.
+- [19] **Benjamin**: @Mizuki, agreed. I’ll examine the tender records and the renewal reserve. We need to know if the initial bids were inflated or if maintenance costs were simply ignored.
+- [20] **Toshio**: I will review the post-occupancy ratings and the survey findings in the older blocks to assess real user impact.
+- [21] **Victoria**: I will examine the timetable records on rooms out of service and the booking data for specialist and general rooms.
+- [22] **George**: I will review the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [23] **Mizuki**: I will examine the tender records over three budget cycles and the decade of delivery schedules by project rationale.
+- [24] **Benjamin**: I will examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+## Round 2
+- [35] **Toshio**: The data is clear. Projects succeed when access is shared. Older blocks are traps, adding months of delay.
+- [36] **Victoria**: The timetable shows we paid for off-site space for two terms. Meanwhile, specialist rooms sit idle, yet general requests are rejected.
+- [37] **George**: The freeze left posts empty, yet technicians still perform manual checks weekly. We are wasting labor on tasks machines should handle.
+- [38] **Mizuki**: The data confirms my fear. Comfort-driven projects slip a year, while inspection fixes stay on schedule. We must prioritize compliance over appeal.
+- [39] **Benjamin**: The reserve is empty. We bought expensive gear, wrote it off, and forgot to fund its replacement. That’s a silent tax on future budgets.
+- [40] **Toshio**: @Mizuki, compliance is necessary, but not sufficient. My data shows shared access drives satisfaction. We must avoid single-wing projects.
+- [41] **Victoria**: @Toshio, shared access is vital, but my data shows the real cost is displaced students. We must stop paying for off-site space.
+- [42] **George**: @Mizuki, compliance is good, but we lack hands. If we add burden to these technicians, the whole system collapses.
+- [43] **Mizuki**: @George, you’re right. We can’t ignore the staffing gap. But if we choose compliance, the schedule holds. We must pick a plan that doesn’t stretch your team further.
+- [44] **Benjamin**: @Mizuki, compliance is cheap. The real hemorrhage is the empty reserve. We are funding new projects with money meant for replacing broken equipment.
+- [45] **Toshio**: @Benjamin, the empty reserve is a symptom. My data proves shared access drives satisfaction. We must prioritize projects that benefit the whole campus, not just one wing.
+- [46] **Victoria**: @Benjamin, the empty reserve is a symptom of poor planning. My data proves we are paying for empty specialist rooms while general ones are full.
+- [47] **George**: @Benjamin, the empty reserve is a symptom of ignoring maintenance. We cannot fund new projects by starving the staff who keep the lights on.
+- [48] **Mizuki**: @Benjamin, the reserve is critical, but my data shows compliance projects finish on time. We must pick a plan that respects the schedule and doesn’t break the budget.
+- [49] **Benjamin**: @Toshio, symptoms are cheap to fix. The structural rot is the empty reserve. We are borrowing from our own future to pay for today’s vanity.
+- [50] **Toshio**: I will review the post-occupancy ratings and the survey findings in the older blocks to assess real user impact.
+- [51] **Victoria**: I will examine the timetable records on rooms out of service and the booking data for specialist and general rooms.
+- [52] **George**: I will review the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [53] **Mizuki**: I will examine the tender records over three budget cycles and the decade of delivery schedules by project rationale.
+- [54] **Benjamin**: I’ll examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+## Round 3
+- [60] **Toshio**: @Mizuki, my data shows shared access drives satisfaction. Option B offers exactly that. We must avoid single-wing projects.
+- [61] **Victoria**: @Toshio, Option B directly addresses the general room shortage. It converts underused space into high-demand study areas, maximizing actual utilization.
+- [62] **George**: @Victoria, Option B adds a service desk. My technicians are already drowning in manual checks. We cannot afford another point of contact for them to manage.
+- [63] **Mizuki**: @George, valid concern. But Option A is a compliance fix. My data shows those projects stay on schedule. We must prioritize safety over comfort.
+- [64] **Benjamin**: @Mizuki, compliance is a trap. Option A replaces plant, but the reserve is empty. We’d be borrowing from our future to fix the present.
+- [65] **Toshio**: @George, the service desk is minimal. My data proves shared access drives satisfaction. Option B is the only choice that benefits the whole campus.
+- [66] **Victoria**: @George, the service desk is administrative, not technical. It doesn’t burden your technicians. Option B solves the displacement cost I found.
+- [67] **George**: @Victoria, I accept that. But Option A’s new extraction would finally end my technicians’ manual window-opening. That relief is worth more than a service desk.
+- [68] **Mizuki**: @George, that relief is real. But Option A’s compliance rationale guarantees on-time delivery. We cannot risk a year-long slip for comfort.
+- [69] **Benjamin**: @George, relief is temporary. The empty reserve means we’re funding new plant with money meant for replacing broken gear. That’s structural rot, not a fix.
+- [70] **Toshio**: @Mizuki, compliance is necessary, but my data shows shared access drives satisfaction. Option B benefits the whole campus, unlike single-wing projects.
+- [71] **Victoria**: @Mizuki, compliance ignores demand. My data shows general rooms are full while specialist ones sit empty. Option B solves the actual shortage.
+- [72] **George**: @Mizuki, I hear you on the schedule. But Option A is the only plan that actually reduces my team’s daily manual labor. That relief is non-negotiable for us.
+- [73] **Mizuki**: @George, I respect your need for relief. But Option A’s compliance rationale guarantees on-time delivery. We cannot risk a year-long slip for comfort.
+- [74] **Benjamin**: @Mizuki, on-time delivery is irrelevant if the money doesn’t exist. Option A is a compliance trap funded by our empty reserve. We cannot afford the structural rot.
+- [75] **Toshio**: @Benjamin, the reserve is a symptom. My data proves shared access drives satisfaction. Option B is the only choice that benefits the whole campus.
+- [76] **Victoria**: @Benjamin, the reserve is a symptom of ignoring demand. Option B solves the actual shortage. We must stop paying for off-site space.
+- [77] **George**: @Benjamin, the reserve is empty, but my technicians are exhausted. Option A is the only plan that actually reduces their daily manual labor. I cannot support a plan that ignores this burden.
+- [78] **Mizuki**: @Benjamin, the reserve is critical, but Option A’s compliance rationale guarantees on-time delivery. We cannot risk a year-long slip for comfort.
+- [79] **Benjamin**: @George, exhaustion is a symptom of the empty reserve. Option B is the only plan that doesn’t require us to borrow from our own future.
+### Vote
+- Toshio -> B
+- Victoria -> B
+- George -> A
+- Mizuki -> A
+- Benjamin -> B
+## Result
+- adopted: B

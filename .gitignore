@@ -1,5 +1,5 @@
 # results and environments are not versioned (logs live in log/ and the archive next to the repository)
-log/
+# log/
 .venv/
 __pycache__/
 *.pyc

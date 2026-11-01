@@ -1,0 +1,73 @@
+# candidate_selection_0014__multi-private-stepped-process (candidate_selection)
+
+## Round 1
+- [5] **Benjamin**: It is a pleasure to meet you all. To ensure this park doesn't merely look lovely on paper, I suggest we examine the actual longevity of our city's previous projects.
+- [6] **Misaki**: I agree. We should also consider the practicalities of the construction phase. I am concerned about whether the proposed timelines are realistic given the local contractor landscape.
+- [7] **Mio**: Hi everyone! I'm so excited! But we have to be careful about the money, right? I want to know how much it actually costs to keep the park pretty after it's finished!
+- [8] **Asuka**: We must be realistic about the human cost. A beautiful design is useless if there is no one available to maintain it daily. I want to know who is actually doing the work.
+- [9] **Minako**: I agree with the need for realism. We must ensure the plan respects the physical behavior of the land and the actual movement of the people who use it.
+- [10] **Benjamin**: @Minako, a very prudent point. If we ignore the patterns of usage and the quality of past execution, we are simply designing a future ruin.
+- [11] **Misaki**: Exactly. If the ground conditions are unpredictable or the firms are overstretched, the project will drift. We need data on the firms and the site's history.
+- [12] **Mio**: @Asuka, that's a great point! If we don't have enough people to help, the costs will just go up and up. We need to see the budget for upkeep!
+- [13] **Asuka**: Precisely. I am interested in the balance between professional staff and external services. We cannot assume the city has an infinite supply of labor.
+- [14] **Minako**: I will look into the drainage and the crossing counts. A park is a living system; it must handle the rain and the crowds without failing.
+- [15] **Benjamin**: I shall focus on the condition of previous works. It is often more illuminating to see where the paint is peeling than to read a brochure.
+- [16] **Misaki**: I will investigate the regional firms and the depot phasing. I want to see if the hoarding and the earth-moving schedules are actually feasible.
+- [17] **Mio**: I'm going to check the upkeep ledger and the habitat fund! I want to make sure we aren't just spending money we don't have in three years!
+- [18] **Asuka**: I will examine the groundskeeping roll and the volunteer groups. I need to know if the current staffing levels can support a new addition to the rota.
+- [19] **Minako**: I believe we have a comprehensive plan. We are covering the financial, the structural, the human, and the environmental aspects of the site.
+- [20] **Benjamin**: Indeed. A balanced approach is the only way to avoid the "handsome opening" syndrome. I look forward to seeing what the records reveal.
+- [21] **Misaki**: Agreed. Let us proceed with the investigations.
+- [22] **Mio**: Yay! Let's find out the truth about the money!
+- [23] **Asuka**: I hope the data is honest. I suspect the labor shortage is more severe than the administration admits.
+- [24] **Minako**: Let us gather the facts first. I will see how the ground and the people actually behave.
+## Round 2
+- [35] **Benjamin**: As I feared, our history is a mixed bag. Some structural work holds, but the greenery is often neglected to death due to poor contracting.
+- [36] **Misaki**: The situation is worse than I thought. Only two firms are tendering for earth-moving, and they've already flagged subsoil risks. Any complex dig will likely cause delays.
+- [37] **Mio**: Oh no! I found out that plants are way more expensive to keep than pavement! But the habitat fund only pays for the plants! We're in a trap!
+- [38] **Asuka**: The staffing situation is critical. The roll has dropped from eighteen to seven. We are relying on a skeleton crew and a few overstretched volunteers.
+- [39] **Minako**: The data confirms my concerns. The park is a transit corridor for commuters, and the drainage is failing. We cannot afford a design that blocks paths or adds water stress.
+- [40] **Benjamin**: @Mio, your discovery explains my findings. The trees died because the budget for "planting" didn't include "keeping them alive." We must avoid high-maintenance greenery.
+- [41] **Misaki**: @Minako, if the drainage is already failing and the soil is clay-heavy, any plan with deep foundations or heavy water features is a recipe for disaster.
+- [42] **Mio**: Exactly! If we pick a plan with tons of fancy gardens, the city will be broke in three years! We need something that is easy to clean and cheap to keep!
+- [43] **Asuka**: @Mio, it is not just about money. Even if we have the funds, we have no people. Seven staff members cannot manage a complex botanical garden.
+- [44] **Minako**: We must prioritize hard-wearing surfaces and natural drainage. If the commuters are already cutting corners, we should design the paths where they actually walk.
+- [45] **Benjamin**: I suggest we look for a candidate that favors durability over aesthetics. A simple, well-built plaza is better than a dying forest.
+- [46] **Misaki**: I agree. We need a plan that minimizes earth-moving. If we stick to the surface or use light structures, we avoid the clay risks and the contractor shortage.
+- [47] **Mio**: But we have to use the habitat fund! If we don't plant things, we lose the money! We just need plants that don't need a million dollars to survive!
+- [48] **Asuka**: @Mio, we need plants that don't need a million hours of labor. We cannot add more to the rota. We need low-maintenance, native species that require zero daily care.
+- [49] **Minako**: The heat readings show the site is a heat island. We need shade, but it must be provided by hardy trees, not delicate shrubs that will wither in August.
+- [50] **Benjamin**: It seems we are in agreement. We need a plan that is structurally conservative, labor-light, and avoids the vanity of high-maintenance landscaping.
+- [51] **Misaki**: Precisely. If the plan requires extensive digging or specialized contractors, it will drift past the deadline. Simplicity is our only safety.
+- [52] **Mio**: I'll agree to a simpler plan, as long as it doesn't leave us with a massive bill! I'm still worried about those long-term accounts!
+- [53] **Asuka**: I will support any plan that does not assume the existence of a phantom workforce. If it requires daily pruning or weeding, it is a failure.
+- [54] **Minako**: We must ensure the final choice respects the commuters' paths and the soil's inability to drain. Let us evaluate the candidates with these constraints in mind.
+## Round 3
+- [60] **Benjamin**: Plan B and C are far too ambitious. Given the history of dead trees and the current labor shortage, a "Woodland" or "Wetland" will become a swamp of weeds.
+- [61] **Misaki**: I strongly object to Plan C. Reshaping drainage into ponds requires massive earth-moving in clay soil. With only two firms available, that project will never finish.
+- [62] **Mio**: Plan B and C use the habitat fund, but they'll cost a fortune to maintain! Plan A is mostly pavement, which is cheap to keep, but we lose the funding!
+- [63] **Asuka**: Plan B and C are impossible. Seven staff members cannot manage a woodland or a wetland. Plan D requires constant maintenance of courts and facilities. Plan A is the only logical choice.
+- [64] **Minako**: Plan C is a disaster waiting to happen given the current drainage failures. Plan B ignores the commuter paths. Plan A provides the hard surfaces the people actually use.
+- [65] **Benjamin**: @Mio, the habitat fund is a trap if it forces us into a maintenance nightmare. I would rather have a functional plaza than a dead forest.
+- [66] **Misaki**: @Asuka, I agree. Plan A minimizes the need for deep digging and specialized earth-moving. It is the only plan that is actually feasible within the current contractor market.
+- [67] **Mio**: But what about the greenery? If we go with Plan A, can we add some hardy, low-cost plants around the edges to keep some of the habitat fund?
+- [68] **Asuka**: As long as those plants are native and self-sustaining. Plan A's focus on a paved square means the staff can focus on cleaning rather than constant gardening.
+- [69] **Minako**: Plan A also addresses the heat island effect if the shade structures are well-placed. It respects the commuter flow by providing open, firm ground.
+- [70] **Benjamin**: Plan A is the most honest proposal. It doesn't pretend we have a workforce we don't possess, nor does it ignore the failures of our past landscaping.
+- [71] **Misaki**: From a construction standpoint, Plan A is the only safe bet. No massive excavations, no risky soil reshaping, and a timeline that the local firms can actually meet.
+- [72] **Mio**: I'm still a bit sad about the fund, but I'm more scared of the budget deficit! Plan A is the safest for the city's wallet in the long run.
+- [73] **Asuka**: It is the only plan that doesn't break the staff. We cannot ask seven people to do the work of eighteen. Plan A is the only sustainable option for the rota.
+- [74] **Minako**: The physical reality of the site—the drainage, the heat, and the commuters—all point to Plan A. It is the only design that works with the ground rather than fighting it.
+- [75] **Benjamin**: It is rare that we find such swift consensus. Logic has led us to the only viable conclusion. I vote for Plan A.
+- [76] **Misaki**: I agree. Feasibility and risk management must come first. I vote for Plan A.
+- [77] **Mio**: Okay! For the sake of the budget and the future, I'm in! Plan A it is!
+- [78] **Asuka**: I will not support any plan that ignores the labor crisis. Plan A is the only one that is realistic. I vote for Plan A.
+- [79] **Minako**: The facts are clear. Plan A aligns with the usage patterns and the environmental constraints of the site. I vote for Plan A.
+### Vote
+- Benjamin -> A
+- Misaki -> A
+- Mio -> A
+- Asuka -> A
+- Minako -> A
+## Result
+- adopted: A

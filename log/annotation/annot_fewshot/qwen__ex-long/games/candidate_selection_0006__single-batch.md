@@ -1,0 +1,73 @@
+# candidate_selection_0006__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about arrangements that collapse in year two. Let’s see where recent starts failed.
+- [6] **Jonathan**: I want to know if past initiatives actually helped patients. I’ll check what earlier attempts produced.
+- [7] **Misaki**: Rosters absorb the pressure. I need to see the staffing records to understand the load.
+- [8] **Shion**: The budget is often fiction. I need to know what this allocation can actually build.
+- [9] **Shizue**: New things must fit the existing day. I’m concerned about whether the place can absorb it.
+- [10] **Midori**: @Shion, your caution is wise. We must ensure the foundation is solid before building.
+- [11] **Jonathan**: @Midori, agreed. Understanding the past failures is key to avoiding repetition.
+- [12] **Misaki**: @Shion, the budget is one thing, but the people are another. We need both.
+- [13] **Shion**: @Misaki, people are expensive. I need to see the real cost of the running side.
+- [14] **Shizue**: @All, let us look at the physical constraints too. Space is finite.
+- [15] **Midori**: I will look into the board minutes on the jointly run clinic.
+- [16] **Jonathan**: I will examine the readmission figures during the call-back trial.
+- [17] **Misaki**: I will review the ward nursing vacancies and agency cover.
+- [18] **Shion**: I will check this year's development allocation in the ledger.
+- [19] **Shizue**: I will examine rooms, parking and shuttle coverage.
+- [20] **Midori**: I will also look at the data agreements with outside surgeries.
+- [21] **Jonathan**: I will also check what the booking system records.
+- [22] **Misaki**: I will also review the therapy and midwifery staffing review.
+- [23] **Shion**: I will also check regional fund tariffs by contact location.
+- [24] **Shizue**: I will also look at visit completion on the shared nursing round.
+## Round 2
+- [35] **Midori**: The joint clinic closed because neither department held the budget. Data agreements take fourteen months.
+- [36] **Jonathan**: Readmissions fell a fifth during the trial, but drifted back after. The booking system misses unbooked work.
+- [37] **Misaki**: Nine nursing posts are empty. Agency cover is rising. Midwifery has slack, but therapy staff are leaving.
+- [38] **Shion**: The allocation is down a quarter. Off-site visits earn no tariff. On-site sessions bill standard rates.
+- [39] **Shizue**: Outpatient rooms book out by mid-morning. The shuttle only serves four of nineteen villages.
+- [40] **Midori**: @Shion, the tariff gap is critical. Off-site work is financially invisible to the fund.
+- [41] **Jonathan**: @Midori, exactly. If it’s not booked, it doesn’t exist. We need visible, billable work.
+- [42] **Misaki**: @Shion, the staffing gap is real. We can’t rely on agency cover for a new program.
+- [43] **Shion**: @Misaki, correct. We need a model that fits the current staffing reality, not an ideal one.
+- [44] **Shizue**: @All, the physical constraints are tight. We must choose a program that fits the existing space.
+- [45] **Midori**: The data agreement delay makes outside coordination risky. We need internal control.
+- [46] **Jonathan**: The readmission data suggests home visits work, but only if sustained. The booking gap is a problem.
+- [47] **Misaki**: Midwifery has slack. That’s a resource we can use. Therapy is a drain.
+- [48] **Shion**: On-site billing is the only way to recover costs. We need a program that stays on-site.
+- [49] **Shizue**: The shuttle limitation means we can’t rely on patients traveling far. Local access is key.
+- [50] **Midori**: I’m leaning toward a program that doesn’t depend on outside data agreements.
+- [51] **Jonathan**: I agree. We need something that shows up in the booking system and the reports.
+- [52] **Misaki**: Using midwifery slack is smart. It avoids the therapy staffing crisis.
+- [53] **Shion**: On-site, billable, and staffed by existing slack. That’s the only viable path.
+- [54] **Shizue**: It must fit the rooms we have. No new construction, just better use of what’s there.
+## Round 3
+- [60] **Midori**: Candidate D uses midwifery slack. It’s on-site and billable. It avoids the data agreement trap.
+- [61] **Jonathan**: D fits the booking system. It’s visible and reportable. The readmission data supports home visits, but D is safer.
+- [62] **Misaki**: D uses the midwifery team that has slack. It doesn’t burden the therapy or nursing teams.
+- [63] **Shion**: D is on-site, so it bills at the standard rate. It fits the reduced budget.
+- [64] **Shizue**: D fits the existing rooms. It doesn’t require new space or shuttle expansion.
+- [65] **Midori**: @Shion, D is the only one that respects the tariff structure. It’s billable and on-site.
+- [66] **Jonathan**: @Midori, agreed. It’s the only one that shows up in the data. The others are invisible.
+- [67] **Misaki**: @Shion, D is the only one that doesn’t worsen the staffing crisis. It uses existing slack.
+- [68] **Shion**: @Misaki, correct. It’s the only financially sustainable option. The others are liabilities.
+- [69] **Shizue**: @All, D is the only one that fits the physical reality. It’s the practical choice.
+- [70] **Midori**: I vote for D. It’s the most balanced and sustainable choice.
+- [71] **Jonathan**: I vote for D. It’s the only one with a clear, measurable impact.
+- [72] **Misaki**: I vote for D. It respects the staffing reality and uses available resources.
+- [73] **Shion**: I vote for D. It’s the only one that fits the budget and the tariff structure.
+- [74] **Shizue**: I vote for D. It fits the space and the schedule. It’s the wise choice.
+- [75] **Midori**: @All, we are in agreement. D is the clear winner.
+- [76] **Jonathan**: @Midori, confirmed. The data supports it.
+- [77] **Misaki**: @Jonathan, agreed. The staffing data supports it.
+- [78] **Shion**: @Misaki, the financial data supports it.
+- [79] **Shizue**: @Shion, the physical data supports it. Let us proceed.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

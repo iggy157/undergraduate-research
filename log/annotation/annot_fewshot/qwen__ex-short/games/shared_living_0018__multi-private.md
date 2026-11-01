@@ -1,0 +1,73 @@
+# shared_living_0018__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I need to understand the actual usage patterns before we decide anything.
+- [6] **Jonathan**: I worry we are becoming strangers despite working so close. We need a space for difficult conversations.
+- [7] **May**: I want to know exactly where the hidden hours go. Who is actually doing the upkeep, and who is walking extra?
+- [8] **Shunichi**: I need to see the invoices and the tally. We are paying for a room that fails at its primary job.
+- [9] **Servas**: I sit two metres from that door. The noise and crumbs never stay inside. I need to see where the mess actually lands.
+- [10] **Ryuji**: @May, your point about hidden hours is valid. I want to see the data to back it up.
+- [11] **Jonathan**: @Shunichi, I agree the room is failing, but I fear we are only looking at the hardware. We need to check the human side too.
+- [12] **May**: @Ryuji, exactly. I need the tally to prove who is bleeding time. I will check the fortnight's use and the lunch round trip.
+- [13] **Shunichi**: @Jonathan, the human side is just a symptom of the broken setup. I will check the invoices and the partition wall to see the real costs.
+- [14] **Servas**: @Shunichi, the partition is key. I will check the crumbs and bins, plus the last awkward conversation, to see the human cost.
+- [15] **Ryuji**: @Shunichi, I agree the hardware is failing. I will check the facilities callouts and the final clear-out of the old fridge to see the maintenance burden.
+- [16] **Jonathan**: @Ryuji, I appreciate the focus on maintenance. I will check the unplanned talk since the refit and the round trip for a hot lunch to understand the social flow.
+- [17] **May**: @Servas, I appreciate you checking the mess. I will look into the invoices for outside hire and the final clear-out of the old fridge to see the real costs.
+- [18] **Shunichi**: @May, checking the same things is redundant. I will look into the quotes for the two fit-outs and the partition wall to see the actual structural costs.
+- [19] **Servas**: @May, I will check the crumbs and bins, and the last awkward conversation, to see the human cost.
+- [20] **Ryuji**: I will check the facilities callouts and the final clear-out of the old fridge.
+- [21] **Jonathan**: I will check the unplanned talk since the refit and the round trip for a hot lunch.
+- [22] **May**: I will check the fortnight's tally of use by person and the round trip for a hot lunch.
+- [23] **Shunichi**: I will check the quotes for the two fit-outs and the partition wall.
+- [24] **Servas**: I will check the crumbs and bins at the desks, and where the last awkward conversation happened.
+## Round 2
+- [35] **Ryuji**: Eleven callouts for equipment, zero for the empty store. The fridge clear-out fell on one person twice. The burden is uneven.
+- [36] **Jonathan**: The unplanned talk has vanished, leaving only the printer corner. And the lunch trip takes twenty-five minutes. We are isolated by design.
+- [37] **May**: Eleven uses by two people, four by the rest. Plus twenty-five minutes for lunch. The hours are bleeding out of the door-sitters.
+- [38] **Shunichi**: The quotes are 141,000 for a screen and 96,000 for a kitchen. The partition is single plasterboard; anyone can hear everything. We are paying for a leaky room.
+- [39] **Servas**: Three keyboards are buried in crumbs, and bins go out daily. Worse, the last difficult talk happened in front of everyone. We need privacy to speak honestly.
+- [40] **Ryuji**: @Shunichi, the plasterboard explains the noise. @Servas, the crumbs confirm the mess. We need a solution that addresses both the structure and the habits.
+- [41] **Jonathan**: @Servas, that is painful. If we cannot speak privately, we remain strangers. @Shunichi, the plasterboard confirms the leak. We need a space that actually holds a conversation.
+- [42] **May**: @Ryuji, the data proves it. The door-sitters are doing the work. @Shunichi, that plasterboard is a disaster. We need to stop the bleeding.
+- [43] **Shunichi**: @Jonathan, privacy is a luxury we cannot afford with that wall. @May, the data is clear. We need to stop paying for a room that fails at its primary job.
+- [44] **Servas**: @Shunichi, the plasterboard is a barrier to trust. @Jonathan, I agree. We must create a space where honesty can breathe without fear of being overheard.
+- [45] **Ryuji**: @May, the uneven burden is the core issue. We need a system that distributes the clearing up fairly, not just a new wall.
+- [46] **Jonathan**: @Ryuji, I agree. But without a private corner, the talk won’t start. We need to fix the space so we can actually connect.
+- [47] **May**: @Ryuji, fair distribution is good, but I need to see the hours. @Jonathan, privacy is nice, but I am losing twenty-five minutes to lunch.
+- [48] **Shunichi**: @May, the hours are a symptom, not the disease. @Ryuji, the burden is uneven because the room is broken. We need to fix the structure first.
+- [49] **Servas**: @Shunichi, structure is vital, but habits shape the soul. @May, I hear your pain. We must balance the physical fix with the human need for dignity and rest.
+- [50] **Ryuji**: I am ready to hear the options. The data shows the current setup is unsustainable.
+- [51] **Jonathan**: I am ready. The data confirms our isolation. I hope the options offer a place where we can finally speak without fear.
+- [52] **May**: I am ready. I just need the options to show me where the hours actually go.
+- [53] **Shunichi**: I am ready. The numbers are on the table. Let us see which option stops the monthly bleed.
+- [54] **Servas**: I am ready. The evidence is clear. Let us see which path restores both order and the dignity of our shared space.
+## Round 3
+- [60] **Ryuji**: Option C addresses the privacy gap and the uneven burden. A shared calendar forces accountability, unlike the current first-come, first-served chaos.
+- [61] **Jonathan**: Option C offers the structure we lack. A bookable space means we can finally have those difficult conversations without fear of being overheard.
+- [62] **May**: Option C is a trap. A bookable room just means someone else is always in there, and I am still walking twenty-five minutes for lunch.
+- [63] **Shunichi**: Option C costs 141,000 yen. That is a significant outlay for a room that still leaks sound. I need to see how that investment stops the monthly bleed before I agree.
+- [64] **Servas**: Option C offers structure, but a bookable room is not a sanctuary. If the plasterboard remains, we are merely scheduling our exposure. I need to know if the screen truly isolates us.
+- [65] **Ryuji**: @Shunichi, the 141,000 yen is for the screen, which fixes the leak. @Servas, the screen isolates the room. The calendar ensures fair use, ending the first-come chaos.
+- [66] **Jonathan**: @Servas, the screen does isolate the room. It creates the privacy we need for honest talk. @May, I hear your frustration, but this is the only option that addresses our isolation.
+- [67] **May**: @Jonathan, privacy is nice, but it doesn't feed me. Option A at least gives me a hot lunch without the twenty-five minute trek.
+- [68] **Shunichi**: @May, the kitchen quote is 96,000 yen, but it ignores the plasterboard. You will still hear every argument. @Ryuji, the screen is the only fix for the leak.
+- [69] **Servas**: @May, a hot meal is a basic dignity, not a luxury. @Shunichi, the screen is the only true barrier. I lean toward C, but I need assurance the noise stops there.
+- [70] **Ryuji**: @May, the kitchen does not fix the noise or the unfair clearing. @Shunichi, the screen is the only structural fix. I am leaning toward C for its accountability.
+- [71] **Jonathan**: @May, I understand the hunger, but a kitchen invites noise, not connection. @Shunichi, the screen is the only way to protect the fragile trust we are trying to build.
+- [72] **May**: @Ryuji, accountability is a nice word, but it doesn't pay for my time. If C means I'm still walking twenty-five minutes for lunch, I'm out.
+- [73] **Shunichi**: @May, the kitchen is cheaper, but it leaves the plasterboard leak intact. You will still hear every argument. @Ryuji, I am leaning toward C, but only if the screen truly stops the noise.
+- [74] **Servas**: @May, your time is precious, and I respect that. @Shunichi, the screen is the only true wall. I am leaning toward C, trusting that structure will finally bring peace.
+- [75] **Ryuji**: I am voting for C. The shared calendar ends the first-come chaos, and the screen fixes the structural leak. It is the only sustainable choice.
+- [76] **Jonathan**: I am voting for C. The screen gives us the privacy to finally speak, and the structure helps us stop being strangers.
+- [77] **May**: I am voting for A. I need my twenty-five minutes back. A kitchen feeds me and keeps the hours honest.
+- [78] **Shunichi**: I am voting for C. The 141,000 yen is the only investment that stops the monthly bleed. The screen fixes the leak; the calendar fixes the chaos.
+- [79] **Servas**: I am voting for C. The screen restores the dignity of privacy, and the structure allows our shared space to finally breathe and heal.
+### Vote
+- Ryuji -> C
+- Jonathan -> C
+- May -> A
+- Shunichi -> C
+- Servas -> C
+## Result
+- adopted: C

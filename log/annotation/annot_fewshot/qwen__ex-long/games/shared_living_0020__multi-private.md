@@ -1,0 +1,73 @@
+# shared_living_0020__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: The informal system is failing. I need to understand the actual time cost and the external options. I will look into the stopwatch timing of a full pass and the standard terms of the outside firm.
+- [6] **Benjamin**: I suspect the "done" definition is the real culprit. I’ll check what each housemate counts as done and the rows recorded in the house chat.
+- [7] **Sakura**: I’m curious about the mystery of the grout! I’ll check the bathroom grout after the July scrub and the note left by the previous tenants.
+- [8] **Shizue**: I’m worried about the small costs piling up. I’ll check the bathroom spray stock and the tin's receipts, and the management office rate sheet and billing.
+- [9] **Servas**: I want to understand the human rhythm. I will look into the absences on the wall calendar and a fortnight's watch on kitchen use.
+- [10] **Minako**: @Benjamin, definitions matter, but I need hard numbers. If the outside firm’s terms are rigid, we need to know the true hourly cost before we even discuss who does what.
+- [11] **Benjamin**: @Minako, Hard numbers are useful, but they don’t fix the resentment. I’m checking the chat logs to see where the friction actually starts.
+- [12] **Sakura**: @Benjamin, resentment is scary! But I want to know why the grout looks weird. Maybe the previous tenants left a secret clue!
+- [13] **Shizue**: @Sakura, a secret clue sounds lovely! But I’m worried about the money. I need to see if the receipts match what we actually spent on supplies.
+- [14] **Servas**: @Sakura, the grout is a symptom, not the root. I am watching the kitchen rhythm to see where our shared peace quietly breaks.
+- [15] **Minako**: @Servas, rhythm is vital, but I need to know if the hours are actually shrinking. I will examine the stopwatch timing of a full pass and the standard terms of the outside firm.
+- [16] **Benjamin**: @Minako, I appreciate the precision, but a stopwatch doesn’t measure fairness. I’m checking the chat logs to see where the friction actually starts.
+- [17] **Sakura**: @Minako, stopwatches are boring! I’m checking the grout and the note. I bet the previous tenants left a funny secret!
+- [18] **Shizue**: @Minako, I understand the need for precision. But I am checking the receipts and the rate sheet to see exactly who is footing the bill for our supplies.
+- [19] **Servas**: @Minako, precision is good, but it misses the heart. I am watching the kitchen rhythm to see where our shared peace quietly breaks.
+- [20] **Minako**: I will examine the stopwatch timing of a full pass and the standard terms of the outside firm. Let’s see the real numbers.
+- [21] **Benjamin**: I will examine what each housemate counts as done and the rows recorded in the house chat. Let’s see where the friction actually starts.
+- [22] **Sakura**: I’m checking the bathroom grout after the July scrub and the note left by the previous tenants. Let’s solve this mystery!
+- [23] **Shizue**: I will check the bathroom spray stock and the tin's receipts, and the management office rate sheet and billing. Let’s see who is really paying.
+- [24] **Servas**: I will examine the absences on the wall calendar and a fortnight's watch on kitchen use. Let’s see where our shared peace quietly breaks.
+## Round 2
+- [35] **Minako**: The full pass takes one hundred and two minutes. The firm requires a two-hour window and a tidy space beforehand. We must account for that preparation time.
+- [36] **Benjamin**: @Minako, One hundred and two minutes is a lot. But my chat logs show the friction starts with vague reminders, not the scrubbing itself.
+- [37] **Sakura**: @Benjamin, vague reminders are so confusing! I found the grout gets black again in eleven days because the window is tiny. Plus, the previous tenants stopped talking!
+- [38] **Shizue**: @Minako, the receipts show we spend 2,300 yen monthly, often buying duplicates. The office cleaner costs 4,200 yen an hour. We need to know who pays for the supplies in the meantime.
+- [39] **Servas**: @Benjamin, the calendar shows we are often apart, yet the kitchen holds the weight. I see the quiet burden falling on few.
+- [40] **Minako**: @Shizue, 4,200 yen an hour is steep. But the firm needs a tidy space, so we still spend those 102 minutes. We must decide if we pay for the labor or the time.
+- [41] **Benjamin**: @Servas, The calendar confirms my suspicion. We are rarely here, yet the burden is static. I need to see if the "done" definition shifts with our presence.
+- [42] **Sakura**: @Servas, the kitchen holding the weight is scary! I want to stop guessing if it’s grim. Can we make a clear rule so I know exactly what to expect?
+- [43] **Shizue**: @Sakura, a clear rule is lovely! But I worry about the 2,300 yen in supplies. Who pays for the spray and sponges before the next bill arrives?
+- [44] **Servas**: @Sakura, clarity is kindness. But I worry the kitchen’s silence hides the real strain. We must ensure the arrangement keeps us speaking, not just scrubbing.
+- [45] **Minako**: @Benjamin, the firm’s terms mean we still do the prep. If we hire them, we pay for the labor but keep the 102 minutes of work. That is not a solution.
+- [46] **Benjamin**: @Minako, Precisely. The labor remains, but the resentment vanishes. I am checking the chat logs to see where the friction actually starts.
+- [47] **Sakura**: @Minako, that sounds like a trap! I just want to know if the kitchen is clean without guessing. Can we make a simple, clear rule?
+- [48] **Shizue**: @Minako, I agree. Paying for labor but keeping the work is unfair. I need to know if the 2,300 yen in supplies is covered by the firm or if we still pay out of pocket.
+- [49] **Servas**: @Minako, the labor remains, but the silence breaks. I am watching the kitchen rhythm to see where our shared peace quietly breaks.
+- [50] **Minako**: I will examine the stopwatch timing of a full pass and the standard terms of the outside firm. Let’s see the real numbers.
+- [51] **Benjamin**: I will examine what each housemate counts as done and the rows recorded in the house chat. Let’s see where the friction actually starts.
+- [52] **Sakura**: I’m checking the bathroom grout after the July scrub and the note left by the previous tenants. Let’s solve this mystery!
+- [53] **Shizue**: I will check the bathroom spray stock and the tin's receipts, and the management office rate sheet and billing. Let’s see who is really paying.
+- [54] **Servas**: I will examine the absences on the wall calendar and a fortnight's watch on kitchen use. Let’s see where our shared peace quietly breaks.
+## Round 3
+- [60] **Minako**: The firm’s terms mean we still spend 102 minutes prepping. Option B adds cost without removing the labor. I need to see if Option A actually distributes that time fairly.
+- [61] **Benjamin**: @Minako, Option A’s rotation ignores our actual presence. If someone is rarely here, they still carry the same weight. That is the core unfairness I see.
+- [62] **Sakura**: @Benjamin, that sounds unfair! But I love Option C! If I always do the bathroom, I know exactly what to expect. No more guessing!
+- [63] **Shizue**: @Sakura, I understand the comfort of routine. But I worry about the 2,300 yen in supplies. Who pays for the spray and sponges before the next bill arrives?
+- [64] **Servas**: @Sakura, comfort is good, but I worry about the kitchen’s silence. We must ensure the arrangement keeps us speaking, not just scrubbing.
+- [65] **Minako**: @Benjamin, presence is a variable, not a constant. Option A’s fixed rotation ensures the 102 minutes are shared, regardless of who is home. I need to know if the rotation accounts for the prep time.
+- [66] **Benjamin**: @Minako, A fixed rotation is a blunt instrument. It treats absence as presence. I need a system that reflects who is actually here, not just who is on the list.
+- [67] **Sakura**: @Minako, I don’t care about the math! I just want to know if the kitchen is clean. Option C means I always know what to expect. No more guessing!
+- [68] **Shizue**: @Minako, I hear your concern about the prep time. But I am worried about the 2,300 yen in supplies. Who pays for the spray and sponges before the next bill arrives?
+- [69] **Servas**: @Minako, the rotation is a rhythm, but the kitchen’s silence is the true test. We must choose the path that keeps us speaking, not just scrubbing.
+- [70] **Minako**: @Benjamin, absence is a fact, not an excuse. Option A’s fixed rotation ensures the 102 minutes are shared equally, regardless of who is home. I am voting A.
+- [71] **Benjamin**: @Minako, Equality of effort is not equality of burden. Option A ignores the calendar. I am voting C, where presence dictates responsibility.
+- [72] **Sakura**: @Benjamin, I love Option C! If I always do the bathroom, I know exactly what to expect. No more guessing! I am voting C!
+- [73] **Shizue**: @Minako, I agree. Option A’s rotation is fair, but I worry about the 2,300 yen in supplies. Who pays for the spray and sponges before the next bill arrives?
+- [74] **Servas**: @Minako, I vote for A. A shared rhythm keeps us connected, even when we are apart. It preserves our peace.
+- [75] **Minako**: I stand by my vote for A. The fixed rotation is the only way to guarantee the 102 minutes are shared fairly, regardless of absence.
+- [76] **Benjamin**: I stand by my vote for C. A fixed rota is a fiction; standing assignments respect the reality of who is actually here.
+- [77] **Sakura**: I stand by my vote for C! If I always do the bathroom, I know exactly what to expect. No more guessing!
+- [78] **Shizue**: I am voting for A. The rotation is fair, but we must agree on a small fund for the 2,300 yen in supplies so nobody is left out of pocket.
+- [79] **Servas**: I stand by my vote for A. A shared rhythm keeps us speaking, not just scrubbing. It preserves our peace a year from now.
+### Vote
+- Minako -> A
+- Benjamin -> C
+- Sakura -> C
+- Shizue -> A
+- Servas -> A
+## Result
+- adopted: A

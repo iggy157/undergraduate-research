@@ -1,0 +1,73 @@
+# candidate_selection_0013__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about the timeline slipping again. Let us look at the delivery schedules.
+- [6] **Yumi**: I really want to know how busy the rooms are after they open.
+- [7] **George**: I am concerned about who is left to do the daily work.
+- [8] **Mizuki**: We need to know if the last projects actually worked for the users.
+- [9] **Benjamin**: I suspect the initial quotes are fiction. I want to see the tender records.
+- [10] **Shizue**: @Benjamin, yes, the costs always seem to grow. I will check the schedules too.
+- [11] **Yumi**: @Mizuki, that sounds important. I will look at the booking data for usage.
+- [12] **George**: I will check the staffing posts to see how thin the team is.
+- [13] **Mizuki**: I will look into the post-occupancy reviews to see the real satisfaction.
+- [14] **Benjamin**: I will also check the renewal reserve to see if we are underfunded.
+- [15] **Shizue**: It is a lot to cover, but we must be thorough.
+- [16] **Yumi**: I hope the data shows we are using the space well!
+- [17] **George**: I just want to ensure no one burns out from the extra load.
+- [18] **Mizuki**: Silence from the users is not the same as satisfaction. We must ask.
+- [19] **Benjamin**: Let us see if the paper numbers match the reality of the market.
+- [20] **Shizue**: I will take the delivery schedules and the weather days.
+- [21] **Yumi**: I will take the booking data and the timetable records.
+- [22] **George**: I will take the staffing posts and the bench technicians' routines.
+- [23] **Mizuki**: I will take the post-occupancy review ratings and the survey findings.
+- [24] **Benjamin**: I will take the tender records and the renewal reserve.
+## Round 2
+- [35] **Shizue**: The weather stole six weeks. That is why the calendar feels so tight.
+- [36] **Yumi**: @Shizue, that is bad. But the booking data shows the specialist rooms are empty.
+- [37] **George**: I found the technicians have spare hours, but the manual work is still heavy.
+- [38] **Mizuki**: The reviews show the last project was a disappointment. The users are unhappy.
+- [39] **Benjamin**: The tenders are up twenty percent. The reserve for old gear is empty.
+- [40] **Shizue**: @Benjamin, that explains the pressure. We cannot afford the delays.
+- [41] **Yumi**: The timetable records show we pay for off-site space when rooms are closed.
+- [42] **George**: We could use the spare technician hours for the new maintenance plan.
+- [43] **Mizuki**: The survey found hazards in the old blocks. That is a major risk.
+- [44] **Benjamin**: If we ignore the reserve, the new building will be a money pit.
+- [45] **Shizue**: We must plan for the weather. It is not a choice, it is a fact.
+- [46] **Yumi**: @Mizuki, the hazards are scary. But the empty specialist rooms are a waste.
+- [47] **George**: I agree with Yumi. We should not build more if we cannot staff it.
+- [48] **Mizuki**: The disappointment in the reviews is a warning. We must fix the process.
+- [49] **Benjamin**: The market is not waiting for our budget. We need a realistic number.
+- [50] **Shizue**: I think we need a plan that accounts for the weather and the staff.
+- [51] **Yumi**: I want a plan that uses the rooms we already have better.
+- [52] **George**: I support a plan that relieves the current staff burden.
+- [53] **Mizuki**: I support a plan that learns from the past failures.
+- [54] **Benjamin**: I support a plan that admits the true cost of ownership.
+## Round 3
+- [60] **Shizue**: Option A seems the most resilient to the weather delays we saw.
+- [61] **Yumi**: Option C would fix the booking problem. The general rooms are always full.
+- [62] **George**: Option D is the only one that addresses the manual work I saw.
+- [63] **Mizuki**: Option B is risky. The reviews showed that specialized spaces often disappoint.
+- [64] **Benjamin**: Option A is the only one where the tender prices are stable.
+- [65] **Shizue**: @George, the ventilation is important, but the cost is high.
+- [66] **Yumi**: @Mizuki, I agree. But the study space is needed every single day.
+- [67] **George**: The technicians can handle the D maintenance. It is a known quantity.
+- [68] **Mizuki**: The survey found hazards in the old blocks. Option A avoids that risk.
+- [69] **Benjamin**: The reserve is empty. Option A has the lowest long-term maintenance cost.
+- [70] **Shizue**: I am leaning towards A. It is practical and kind to the community.
+- [71] **Yumi**: I am leaning towards C. It solves the daily pain of finding a desk.
+- [72] **George**: I am leaning towards D. It is the right thing for the staff.
+- [73] **Mizuki**: I am leaning towards A. It is the safest choice based on the data.
+- [74] **Benjamin**: I am leaning towards A. It is the only one that fits the budget.
+- [75] **Shizue**: Let us vote. I think A is the best balance of need and risk.
+- [76] **Yumi**: I hope C wins. It would make such a difference to the students.
+- [77] **George**: I will vote for D. We cannot ignore the safety of the staff.
+- [78] **Mizuki**: I will vote for A. It is the logical choice given the constraints.
+- [79] **Benjamin**: I will vote for A. The numbers do not lie.
+### Vote
+- Shizue -> A
+- Yumi -> C
+- George -> D
+- Mizuki -> A
+- Benjamin -> A
+## Result
+- adopted: A

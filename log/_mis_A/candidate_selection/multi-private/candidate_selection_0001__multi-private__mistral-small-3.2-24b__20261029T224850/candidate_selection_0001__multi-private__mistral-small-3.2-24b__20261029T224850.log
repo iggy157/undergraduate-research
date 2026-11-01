@@ -1,0 +1,327 @@
+0,1,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+1,1,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+2,1,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+3,1,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+4,1,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+5,1,1,talk,Servas,,I'm interested in staffing rolls for technical posts and minutes on secondments and crew strength.,"{""words"":15,""mentions"":[],""raw_differs"":false}"
+6,1,1,talk,Midori,,"I'd like to look into travel and bench-fee lines in the ledgers, and national computing agreement and facility day rates.","{""words"":20,""mentions"":[],""raw_differs"":false}"
+7,1,1,talk,Kenji,,I'll choose incident logs on shared instrumentation and station records from partner field sites.,"{""words"":14,""mentions"":[],""raw_differs"":false}"
+8,1,1,talk,Benjamin,,I'll go with portfolio review of schedule overruns and accreditation and bookings at shared facilities.,"{""words"":15,""mentions"":[],""raw_differs"":false}"
+9,1,1,talk,Toshio,,I'll look into closeout files of finished awards and national repository deposit turnaround.,"{""words"":13,""mentions"":[],""raw_differs"":false}"
+10,1,2,pass,Servas,,Skip,"{""forced"":false,""empty"":false}"
+11,1,2,talk,Midori,,I'm curious about the travel and bench-fee lines in the ledgers. I want to understand how the funding is allocated and if there are any changes in the recent cycles.,"{""words"":30,""mentions"":[],""raw_differs"":false}"
+12,1,2,talk,Kenji,,I'm also interested in the incident logs on shared instrumentation. It's important to know how often these instruments are used and if there are any recurring issues.,"{""words"":27,""mentions"":[],""raw_differs"":false}"
+13,1,2,talk,Benjamin,,I'm particularly interested in the portfolio review of schedule overruns. Understanding where and why projects run into delays could help us make more informed decisions.,"{""words"":25,""mentions"":[],""raw_differs"":false}"
+14,1,2,talk,Toshio,,I'm looking into closeout files of finished awards to see what they actually delivered and when. It's crucial to understand the real outcomes of past projects.,"{""words"":26,""mentions"":[],""raw_differs"":false}"
+15,1,3,talk,Servas,,I'm also keen on understanding the current crew strength and secondments. It's vital to know who is available and committed to the projects.,"{""words"":23,""mentions"":[],""raw_differs"":false}"
+16,1,3,talk,Midori,,The national computing agreement and facility day rates are also important. I want to see if there have been any changes that might affect the budgeting for the award.,"{""words"":29,""mentions"":[],""raw_differs"":false}"
+17,1,3,talk,Kenji,,I'm also curious about the station records from partner field sites. It would be helpful to know the usage and any issues that have arisen there.,"{""words"":26,""mentions"":[],""raw_differs"":false}"
+18,1,3,talk,Benjamin,,I'm also interested in the accreditation and bookings at shared facilities. It's important to understand how these resources are being utilized and if there are any bottlenecks.,"{""words"":27,""mentions"":[],""raw_differs"":false}"
+19,1,3,talk,Toshio,,I'm also interested in the national repository deposit turnaround. Understanding how quickly and efficiently data is deposited can impact the overall progress and visibility of the research.,"{""words"":27,""mentions"":[],""raw_differs"":false}"
+20,1,4,pass,Servas,,Over,"{""forced"":false,""empty"":false}"
+21,1,4,talk,Midori,,"I think it's important to understand both the travel and bench-fee lines in the ledgers, as well as the national computing agreement and facility day rates, to get a comprehensive view of the funding allocation and potential changes.","{""words"":38,""mentions"":[],""raw_differs"":false}"
+22,1,4,talk,Kenji,,"I agree, understanding both the incident logs on shared instrumentation and the station records from partner field sites will give us a better picture of the resources and potential issues we might face.","{""words"":33,""mentions"":[],""raw_differs"":false}"
+23,1,4,talk,Benjamin,,"I concur, examining both the portfolio review of schedule overruns and the accreditation and bookings at shared facilities will provide valuable insights into project management and resource utilization.","{""words"":28,""mentions"":[],""raw_differs"":false}"
+24,1,4,talk,Toshio,,I believe it's crucial to look into the closeout files of finished awards and the national repository deposit turnaround to assess the real outcomes and efficiency of past projects.,"{""words"":29,""mentions"":[],""raw_differs"":false}"
+25,1,,action,Servas,,Staffing rolls for technical posts; Minutes on secondments and crew strength,"{""action"":""investigate"",""cards"":[""card_09"",""card_10""],""parse"":""ok""}"
+26,1,,action,Midori,,Travel and bench-fee lines in the ledgers; National computing agreement and facility day rates,"{""action"":""investigate"",""cards"":[""card_01"",""card_02""],""parse"":""ok""}"
+27,1,,action,Kenji,,Incident logs on shared instrumentation; Station records from partner field sites,"{""action"":""investigate"",""cards"":[""card_03"",""card_04""],""parse"":""ok""}"
+28,1,,action,Benjamin,,Portfolio review of schedule overruns; Accreditation and bookings at shared facilities,"{""action"":""investigate"",""cards"":[""card_06"",""card_07""],""parse"":""ok""}"
+29,1,,action,Toshio,,Closeout files of finished awards; National repository deposit turnaround,"{""action"":""investigate"",""cards"":[""card_05"",""card_08""],""parse"":""ok""}"
+30,2,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+31,2,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+32,2,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+33,2,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+34,2,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+35,2,1,talk,Servas,,"I see a significant shift in technical staffing, with phenotyping technicians moving to industry and an influx of applicants for modelling and code posts. Additionally, senior modelling analysts are seconded abroad until next autumn, while the glasshouse crew remains intact.","{""words"":40,""mentions"":[],""raw_differs"":false}"
+36,2,1,talk,Midori,,"I noticed that travel and bench-fee lines in the ledgers have been frozen for three seasons, but shipping charges have increased. The ministry has extended its bench-fee subsidy for glasshouse space, which is a positive development. Additionally, the renewed national computing agreement covers simulation and modelling hours at no charge, but animal-unit day rates have risen sharply due to last year's vivarium rebuild.","{""words"":63,""mentions"":[],""raw_differs"":false}"
+37,2,1,talk,Kenji,,"I found that the shared spectroscopy suite was idle for eleven weeks last year due to a lapsed service contract, and now one engineer covers three institutes. Additionally, three of the five partner field sites lost a whole season to flooding or fire, while indoor holding rooms remained uninterrupted.","{""words"":49,""mentions"":[],""raw_differs"":false}"
+38,2,1,talk,Benjamin,,"I see that awards built on live breeding colonies overran schedule twice as often as those whose main risk sat in computation rather than biology. Additionally, the animal facility cleared its accreditation renewal in spring and gained resident veterinary cover, while glasshouse blocks are booked solid through two more growing cycles.","{""words"":51,""mentions"":[],""raw_differs"":false}"
+39,2,1,talk,Toshio,,"I see that catalogue-style awards continue to draw outside users a decade on, while several mechanism-focused ones ended with their central question unresolved. Additionally, the national repository deposit turnaround has improved significantly, with deposits now clearing review inside a few weeks.","{""words"":41,""mentions"":[],""raw_differs"":false}"
+40,2,2,talk,Servas,,"@Midori, the bench-fee subsidy for glasshouse space is good news. I'm glad to hear that the glasshouse crew came through the restructuring at full strength, which aligns with the subsidy.
+
+@Kenji, the shared spectroscopy suite's downtime is concerning. It's important to ensure that such critical instruments are well-maintained and have proper service contracts in place.
+
+@Benjamin, the schedule overruns for awards built on live breeding colonies are notable. It might be worth considering the risks associated with such colonies when evaluating proposals.
+
+@Toshio, the improved national repository deposit turnaround is a positive development. Efficient data deposition is crucial for the visibility and progress of research.","{""words"":105,""mentions"":[""Midori"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+41,2,2,talk,Midori,,"@Servas, I agree that the bench-fee subsidy for glasshouse space is beneficial. It's important to maintain such facilities for research.
+
+@Kenji, the downtime of the shared spectroscopy suite is indeed concerning. It's crucial to address such issues to ensure the smooth running of research projects.
+
+@Benjamin, the schedule overruns for awards built on live breeding colonies highlight the need for careful consideration of risks in proposals.
+
+@Toshio, the improved national repository deposit turnaround is a significant improvement. It will help in the timely dissemination of research findings.","{""words"":87,""mentions"":[""Servas"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+42,2,2,talk,Kenji,,"@Servas, the spectroscopy suite's downtime is a real problem. It's not just about maintenance; it's about having the right people to keep these instruments running. The field sites' issues show how vulnerable outdoor work can be. Maybe we should think about how to mitigate these risks in our evaluations.
+
+@Midori, the frozen travel and bench-fee lines are a concern. Increased shipping charges could impact the budget of awarded projects. The bench-fee subsidy for glasshouse space is a positive note, though.
+
+@Benjamin, the schedule overruns for live breeding colonies are significant. It's something we should consider when evaluating the feasibility of proposals.
+
+@Toshio, the improved national repository deposit turnaround is great news. Efficient data deposition is crucial for the progress and visibility of research.","{""words"":123,""mentions"":[""Servas"",""Midori"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+43,2,2,talk,Benjamin,,"@Servas, the shift in technical staffing is interesting. It seems like there's a move towards more computational roles, which aligns with the improved national computing agreement.
+
+@Midori, the frozen travel and bench-fee lines could pose challenges for awarded projects. The increased animal-unit day rates are also concerning.
+
+@Kenji, the downtime of the shared spectroscopy suite and the issues at partner field sites highlight the vulnerabilities in shared resources and outdoor work. These are important considerations for our evaluations.
+
+@Toshio, the improved national repository deposit turnaround is a positive development. It's crucial for the timely dissemination of research findings.
+
+Given these findings, it's clear that we need to consider both the computational and biological aspects of the proposals, as well as the potential risks and vulnerabilities in shared resources and outdoor work.","{""words"":131,""mentions"":[""Servas"",""Midori"",""Kenji"",""Toshio""],""raw_differs"":false}"
+44,2,2,talk,Toshio,,"@Servas, the shift in technical staffing towards modelling and code posts is notable. It aligns with the renewed national computing agreement covering simulation and modelling hours.
+
+@Midori, the frozen travel and bench-fee lines, along with increased shipping charges, could impact the budget of awarded projects. The bench-fee subsidy for glasshouse space is a positive development.
+
+@Kenji, the downtime of the shared spectroscopy suite and the issues at partner field sites highlight the need for careful consideration of risks in proposals.
+
+@Benjamin, the schedule overruns for awards built on live breeding colonies are significant. It's crucial to evaluate the feasibility and risks associated with such proposals.
+
+Given these findings, it's evident that we need to balance the computational and biological aspects of the proposals, while also considering the potential risks and vulnerabilities in shared resources and outdoor work. The improved national repository deposit turnaround is a positive development that should be taken into account.","{""words"":153,""mentions"":[""Servas"",""Midori"",""Kenji"",""Benjamin""],""raw_differs"":false}"
+45,2,3,talk,Servas,,"@Midori, the bench-fee subsidy for glasshouse space is indeed a positive development. It's crucial to support such facilities, especially given the full strength of the glasshouse crew.
+
+@Kenji, the issues with the shared spectroscopy suite and partner field sites highlight the importance of risk assessment in our evaluations. We should consider how proposals plan to mitigate such risks.
+
+@Benjamin, the shift towards computational roles is interesting. It aligns with the improved national computing agreement and the influx of applicants for modelling and code posts.
+
+@Toshio, the improved national repository deposit turnaround is a significant improvement. It will aid in the timely dissemination of research findings, which is crucial for the progress of science.
+
+Given these findings, it's clear that we need to consider both the computational and biological aspects of the proposals, as well as the potential risks and vulnerabilities in shared resources and outdoor work. The improved national repository deposit turnaround is a positive development that should be taken into account.","{""words"":162,""mentions"":[""Midori"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+46,2,3,talk,Midori,,"@Servas, I agree that the bench-fee subsidy for glasshouse space is a positive development. It's important to support such facilities, especially given the full strength of the glasshouse crew.
+
+@Kenji, the issues with the shared spectroscopy suite and partner field sites highlight the importance of risk assessment in our evaluations. We should consider how proposals plan to mitigate such risks.
+
+@Benjamin, the shift towards computational roles is interesting. It aligns with the improved national computing agreement and the influx of applicants for modelling and code posts.
+
+@Toshio, the improved national repository deposit turnaround is a significant improvement. It will aid in the timely dissemination of research findings, which is crucial for the progress of science.
+
+Given these findings, it's clear that we need to consider both the computational and biological aspects of the proposals, as well as the potential risks and vulnerabilities in shared resources and outdoor work. The improved national repository deposit turnaround is a positive development that should be taken into account.
+
+I think it's important to understand the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. These factors could significantly impact the budget and feasibility of awarded projects. We should consider how proposals plan to address these challenges.
+
+Additionally, the renewed national computing agreement covering simulation and modelling hours at no charge is a positive development. It could potentially offset some of the increased costs in other areas. We should encourage proposals that leverage this agreement to maximize their research output.
+
+In summary, we need to balance the computational and biological aspects of the proposals, consider the potential risks and vulnerabilities in shared resources and outdoor work, and take into account the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. The improved national repository deposit turnaround and the renewed national computing agreement are positive developments that should be leveraged in our evaluations.","{""words"":321,""mentions"":[""Servas"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+47,2,3,talk,Kenji,,"@Servas, the issues with the shared spectroscopy suite and partner field sites are indeed concerning. It's crucial to assess how proposals plan to handle such risks, especially since nothing funded here runs in isolation. The state of shared facilities and services is a significant factor to consider.
+
+@Midori, the frozen travel and bench-fee lines, along with increased shipping charges, could pose challenges for awarded projects. It's important to see how proposals plan to manage these budget constraints.
+
+@Benjamin, the shift towards computational roles is notable. It aligns with the improved national computing agreement and the influx of applicants for modelling and code posts. However, we should also consider the risks associated with live breeding colonies and other biological aspects.
+
+@Toshio, the improved national repository deposit turnaround is a positive development. It's crucial for the timely dissemination of research findings, which is essential for the progress of science.
+
+Given these findings, it's clear that we need to consider both the computational and biological aspects of the proposals, as well as the potential risks and vulnerabilities in shared resources and outdoor work. The improved national repository deposit turnaround and the renewed national computing agreement are positive developments that should be taken into account.
+
+I think it's important to understand the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. These factors could significantly impact the budget and feasibility of awarded projects. We should consider how proposals plan to address these challenges.
+
+Additionally, the issues with the shared spectroscopy suite and partner field sites highlight the importance of risk assessment in our evaluations. We should consider how proposals plan to mitigate such risks, especially since nothing funded here runs in isolation. The state of shared facilities and services is a significant factor to consider.
+
+In summary, we need to balance the computational and biological aspects of the proposals, consider the potential risks and vulnerabilities in shared resources and outdoor work, and take into account the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. The improved national repository deposit turnaround and the renewed national computing agreement are positive developments that should be leveraged in our evaluations.","{""words"":367,""mentions"":[""Servas"",""Midori"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+48,2,3,talk,Benjamin,,"@Servas, the shift in technical staffing towards modelling and code posts is notable. It aligns with the improved national computing agreement and the influx of applicants for modelling and code posts.
+
+@Midori, the frozen travel and bench-fee lines, along with increased shipping charges, could pose challenges for awarded projects. The bench-fee subsidy for glasshouse space is a positive development.
+
+@Kenji, the issues with the shared spectroscopy suite and partner field sites highlight the importance of risk assessment in our evaluations. We should consider how proposals plan to mitigate such risks, especially since nothing funded here runs in isolation. The state of shared facilities and services is a significant factor to consider.
+
+@Toshio, the improved national repository deposit turnaround is a significant improvement. It will aid in the timely dissemination of research findings, which is crucial for the progress of science.
+
+Given these findings, it's clear that we need to consider both the computational and biological aspects of the proposals, as well as the potential risks and vulnerabilities in shared resources and outdoor work. The improved national repository deposit turnaround and the renewed national computing agreement are positive developments that should be taken into account.
+
+I think it's important to understand the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. These factors could significantly impact the budget and feasibility of awarded projects. We should consider how proposals plan to address these challenges.
+
+Additionally, the shift towards computational roles is interesting. It aligns with the improved national computing agreement and the influx of applicants for modelling and code posts. However, we should also consider the risks associated with live breeding colonies and other biological aspects.
+
+In summary, we need to balance the computational and biological aspects of the proposals, consider the potential risks and vulnerabilities in shared resources and outdoor work, and take into account the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. The improved national repository deposit turnaround and the renewed national computing agreement are positive developments that should be leveraged in our evaluations.
+
+I propose that we prioritize proposals that leverage the renewed national computing agreement, have a solid risk management plan for biological aspects, and address the budget constraints posed by the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. This approach will help us make informed decisions and support the progress of science.","{""words"":407,""mentions"":[""Servas"",""Midori"",""Kenji"",""Toshio""],""raw_differs"":false}"
+49,2,3,talk,Toshio,,"@Servas, the shift in technical staffing towards modelling and code posts is notable. It aligns with the improved national computing agreement and the influx of applicants for modelling and code posts.
+
+@Midori, the frozen travel and bench-fee lines, along with increased shipping charges, could pose challenges for awarded projects. The bench-fee subsidy for glasshouse space is a positive development.
+
+@Kenji, the issues with the shared spectroscopy suite and partner field sites highlight the importance of risk assessment in our evaluations. We should consider how proposals plan to mitigate such risks, especially since nothing funded here runs in isolation. The state of shared facilities and services is a significant factor to consider.
+
+@Benjamin, the improved national repository deposit turnaround is a significant improvement. It will aid in the timely dissemination of research findings, which is crucial for the progress of science.
+
+Given these findings, it's clear that we need to consider both the computational and biological aspects of the proposals, as well as the potential risks and vulnerabilities in shared resources and outdoor work. The improved national repository deposit turnaround and the renewed national computing agreement are positive developments that should be taken into account.
+
+I think it's important to understand the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. These factors could significantly impact the budget and feasibility of awarded projects. We should consider how proposals plan to address these challenges.
+
+Additionally, the shift towards computational roles is interesting. It aligns with the improved national computing agreement and the influx of applicants for modelling and code posts. However, we should also consider the risks associated with live breeding colonies and other biological aspects.
+
+In summary, we need to balance the computational and biological aspects of the proposals, consider the potential risks and vulnerabilities in shared resources and outdoor work, and take into account the implications of the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. The improved national repository deposit turnaround and the renewed national computing agreement are positive developments that should be leveraged in our evaluations.
+
+I propose that we prioritize proposals that leverage the renewed national computing agreement, have a solid risk management plan for biological aspects, and address the budget constraints posed by the frozen travel and bench-fee lines, as well as the increased animal-unit day rates. This approach will help us make informed decisions and support the progress of science.
+
+Given the improved national repository deposit turnaround, we should also prioritize proposals that have a clear plan for timely data deposition. This will ensure the visibility and progress of the research.","{""words"":438,""mentions"":[""Servas"",""Midori"",""Kenji"",""Benjamin""],""raw_differs"":false}"
+50,2,4,pass,Servas,,Over,"{""forced"":false,""empty"":false}"
+51,2,4,talk,Midori,,I agree with the points raised and the proposed approach. It's crucial that we consider all these factors to make informed decisions. I'm ready to move on to the next step.,"{""words"":31,""mentions"":[],""raw_differs"":false}"
+52,2,4,talk,Kenji,,I agree with the points raised and the proposed approach. It's important to consider all these factors to make informed decisions. I'm ready to move on to the next step.,"{""words"":30,""mentions"":[],""raw_differs"":false}"
+53,2,4,talk,Benjamin,,I concur with the points raised and the proposed approach. It's essential to consider all these factors to make informed decisions. I'm ready to move on to the next step.,"{""words"":30,""mentions"":[],""raw_differs"":false}"
+54,2,4,talk,Toshio,,I agree with the points raised and the proposed approach. It's important to consider all these factors to make informed decisions. I'm ready to move on to the next step.,"{""words"":30,""mentions"":[],""raw_differs"":false}"
+55,3,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+56,3,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+57,3,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+58,3,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+59,3,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+60,3,1,talk,Servas,,"I'm concerned about the availability of trained hands for the projects. The Microbiome Atlas and Protein Folding Dynamics seem to rely more on computational and modelling aspects, which align with the current staffing trends. However, the Plant Drought Signaling and Regeneration in Amphibians projects involve more biological and hands-on work, which might be challenging given the current staffing situation.
+
+@Midori, what are your thoughts on the staffing requirements for these projects?
+
+@Kenji, how do you think the shared facilities and resources will support these proposals?
+
+@Benjamin, considering the schedule overruns for live breeding colonies, how do you see the Plant Drought Signaling and Regeneration in Amphibians projects managing their timelines?
+
+@Toshio, given the improved national repository deposit turnaround, which projects do you think will benefit the most from timely data deposition?
+
+I think it's important to consider the staffing availability and the potential risks associated with each project when making our decision.","{""words"":152,""mentions"":[""Midori"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+61,3,1,talk,Midori,,"@Servas, I agree that staffing is a crucial factor. The Microbiome Atlas and Protein Folding Dynamics projects might indeed be more feasible given the current staffing trends. However, we should also consider the potential for training and hiring new personnel for the more biologically intensive projects.
+
+@Kenji, the shared facilities and resources will play a significant role in supporting these proposals. It's important to assess how each project plans to utilize these resources and mitigate any potential risks.
+
+@Benjamin, the Plant Drought Signaling and Regeneration in Amphibians projects will need robust risk management plans to address potential schedule overruns, especially considering the issues with live breeding colonies.
+
+@Toshio, the improved national repository deposit turnaround will benefit all projects, but those with larger datasets or more complex data structures, like the Microbiome Atlas and Protein Folding Dynamics, might see the most significant advantages.
+
+Considering the frozen travel and bench-fee lines, as well as the increased animal-unit day rates, we should evaluate how each project plans to address these budget constraints. The Plant Drought Signaling project, with its greenhouse trials, might face higher animal-unit day rates, while the Regeneration in Amphibians project could incur significant travel costs for fieldwork.
+
+In summary, we need to balance the staffing requirements, potential risks, and budget constraints of each project. The Microbiome Atlas and Protein Folding Dynamics projects seem more aligned with current staffing trends and could benefit significantly from the improved national repository deposit turnaround. However, the Plant Drought Signaling and Regeneration in Amphibians projects, while more challenging, could also offer valuable insights and should not be discounted.
+
+I propose that we prioritize proposals that have a clear plan for addressing staffing requirements, managing risks, and handling budget constraints. This approach will help us make informed decisions and support the progress of science.
+
+I'm particularly interested in the Protein Folding Dynamics project. It combines laboratory spectroscopy with simulation, leveraging the renewed national computing agreement. Additionally, it has a clear plan for data deposition, which aligns with the improved national repository deposit turnaround. The project's focus on membrane proteins is also of significant interest in the field.
+
+However, I'm also open to other proposals if they can demonstrate a solid plan for addressing the mentioned challenges. What are your thoughts on the Protein Folding Dynamics project, and how do the other proposals compare in your opinion?","{""words"":390,""mentions"":[""Servas"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+62,3,1,talk,Kenji,,"@Servas, I agree that staffing is a critical factor. The Microbiome Atlas and Protein Folding Dynamics projects seem more feasible given the current trends. However, we should also consider the potential for leveraging shared facilities and services to support all projects.
+
+@Midori, the shared facilities and resources will indeed play a significant role. The Protein Folding Dynamics project, for example, could benefit from the shared spectroscopy suite, despite its recent issues. It's crucial to assess how each project plans to utilize and potentially improve these shared resources.
+
+@Benjamin, the Plant Drought Signaling and Regeneration in Amphibians projects will need robust risk management plans. The issues with live breeding colonies and outdoor work highlight the need for careful consideration of these aspects.
+
+@Toshio, the improved national repository deposit turnaround will benefit all projects, but the Microbiome Atlas, with its large-scale data collection and publication, might see substantial advantages.
+
+Considering the state of shared facilities and services, the Protein Folding Dynamics project stands out. It combines laboratory spectroscopy with simulation, leveraging the renewed national computing agreement. Moreover, it addresses the issues with the shared spectroscopy suite by proposing a service contract renewal and additional training for engineers. This proactive approach to mitigating risks and improving shared resources is commendable.
+
+The Microbiome Atlas project is also promising, as it aligns with current staffing trends and could benefit significantly from the improved national repository deposit turnaround. However, it's essential to ensure that the project has a solid plan for addressing potential budget constraints and staffing requirements.
+
+In summary, while all projects have their merits, the Protein Folding Dynamics project's approach to leveraging and improving shared facilities and services, along with its alignment with current staffing trends and the renewed national computing agreement, makes it a strong candidate. The Microbiome Atlas project is also a viable option, but it's crucial to assess its plans for addressing budget constraints and staffing requirements.
+
+I propose that we prioritize the Protein Folding Dynamics project, given its comprehensive approach to addressing the challenges we've discussed. However, I'm open to further discussion and would like to hear your thoughts on this proposal and the others.","{""words"":355,""mentions"":[""Servas"",""Midori"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+63,3,1,talk,Benjamin,,"@Servas, I agree that staffing is a crucial factor. The Microbiome Atlas and Protein Folding Dynamics projects seem more feasible given the current trends. However, we should also consider the potential for leveraging shared facilities and services to support all projects.
+
+@Midori, the shared facilities and resources will indeed play a significant role. The Protein Folding Dynamics project, for example, could benefit from the shared spectroscopy suite, despite its recent issues. It's crucial to assess how each project plans to utilize and potentially improve these shared resources.
+
+@Kenji, the Plant Drought Signaling and Regeneration in Amphibians projects will need robust risk management plans. The issues with live breeding colonies and outdoor work highlight the need for careful consideration of these aspects.
+
+@Toshio, the improved national repository deposit turnaround will benefit all projects, but the Microbiome Atlas, with its large-scale data collection and publication, might see substantial advantages.
+
+Considering the state of shared facilities and services, the Protein Folding Dynamics project stands out. It combines laboratory spectroscopy with simulation, leveraging the renewed national computing agreement. Moreover, it addresses the issues with the shared spectroscopy suite by proposing a service contract renewal and additional training for engineers. This proactive approach to mitigating risks and improving shared resources is commendable.
+
+The Microbiome Atlas project is also promising, as it aligns with current staffing trends and could benefit significantly from the improved national repository deposit turnaround. However, it's essential to ensure that the project has a solid plan for addressing potential budget constraints and staffing requirements.
+
+In summary, while all projects have their merits, the Protein Folding Dynamics project's approach to leveraging and improving shared facilities and services, along with its alignment with current staffing trends and the renewed national computing agreement, makes it a strong candidate. The Microbiome Atlas project is also a viable option, but it's crucial to assess its plans for addressing budget constraints and staffing requirements.
+
+I propose that we prioritize the Protein Folding Dynamics project, given its comprehensive approach to addressing the challenges we've discussed. However, I'm open to further discussion and would like to hear your thoughts on this proposal and the others.
+
+I'm particularly interested in the Protein Folding Dynamics project because it directly addresses my concern about schedule overruns. By combining laboratory spectroscopy with simulation, it minimizes the risks associated with live breeding colonies and other biological aspects. Additionally, its focus on membrane proteins is of significant interest in the field, and the project's plan for data deposition aligns well with the improved national repository deposit turnaround.
+
+However, I'm also open to other proposals if they can demonstrate a solid plan for addressing the mentioned challenges. What are your thoughts on the Protein Folding Dynamics project, and how do the other proposals compare in your opinion?","{""words"":460,""mentions"":[""Servas"",""Midori"",""Kenji"",""Toshio""],""raw_differs"":false}"
+64,3,1,talk,Toshio,,"@Servas, I agree that staffing is a crucial factor. The Microbiome Atlas and Protein Folding Dynamics projects seem more feasible given the current trends. However, we should also consider the potential for leveraging shared facilities and services to support all projects.
+
+@Midori, the shared facilities and resources will indeed play a significant role. The Protein Folding Dynamics project, for example, could benefit from the shared spectroscopy suite, despite its recent issues. It's crucial to assess how each project plans to utilize and potentially improve these shared resources.
+
+@Kenji, the Plant Drought Signaling and Regeneration in Amphibians projects will need robust risk management plans. The issues with live breeding colonies and outdoor work highlight the need for careful consideration of these aspects.
+
+@Benjamin, the improved national repository deposit turnaround will benefit all projects, but the Microbiome Atlas, with its large-scale data collection and publication, might see substantial advantages.
+
+Considering the state of shared facilities and services, the Protein Folding Dynamics project stands out. It combines laboratory spectroscopy with simulation, leveraging the renewed national computing agreement. Moreover, it addresses the issues with the shared spectroscopy suite by proposing a service contract renewal and additional training for engineers. This proactive approach to mitigating risks and improving shared resources is commendable.
+
+The Microbiome Atlas project is also promising, as it aligns with current staffing trends and could benefit significantly from the improved national repository deposit turnaround. However, it's essential to ensure that the project has a solid plan for addressing potential budget constraints and staffing requirements.
+
+In summary, while all projects have their merits, the Protein Folding Dynamics project's approach to leveraging and improving shared facilities and services, along with its alignment with current staffing trends and the renewed national computing agreement, makes it a strong candidate. The Microbiome Atlas project is also a viable option, but it's crucial to assess its plans for addressing budget constraints and staffing requirements.
+
+I propose that we prioritize the Protein Folding Dynamics project, given its comprehensive approach to addressing the challenges we've discussed. However, I'm open to further discussion and would like to hear your thoughts on this proposal and the others.
+
+I'm particularly interested in the Protein Folding Dynamics project because it directly addresses my concern about the long-term impact of our judgements. By focusing on membrane proteins and combining laboratory spectroscopy with simulation, it has the potential to deliver lasting insights and tools. Additionally, its plan for data deposition aligns well with the improved national repository deposit turnaround, ensuring the visibility and progress of the research. The project's proactive approach to mitigating risks and improving shared resources also demonstrates a strong commitment to responsible research practices.","{""words"":441,""mentions"":[""Servas"",""Midori"",""Kenji"",""Benjamin""],""raw_differs"":false}"
+65,3,2,talk,Servas,,"@Midori, I agree that the Protein Folding Dynamics project has a strong plan for addressing staffing requirements and managing risks. Its focus on membrane proteins is indeed of significant interest in the field.
+
+@Kenji, the project's approach to leveraging and improving shared facilities and services is commendable. It addresses the issues with the shared spectroscopy suite proactively, which is crucial for the progress of the research.
+
+@Benjamin, the project's combination of laboratory spectroscopy with simulation minimizes the risks associated with live breeding colonies and other biological aspects. This aligns well with your concern about schedule overruns.
+
+@Toshio, the project's plan for data deposition aligns well with the improved national repository deposit turnaround, ensuring the visibility and progress of the research. Its focus on membrane proteins and the potential for lasting insights and tools are also notable.
+
+Given these points, I believe the Protein Folding Dynamics project is a strong candidate for the award. Its comprehensive approach to addressing the challenges we've discussed makes it a compelling choice. However, I'm open to further discussion and would like to hear your final thoughts on this proposal and the others.
+
+In conclusion, the Protein Folding Dynamics project stands out due to its alignment with current staffing trends, its proactive approach to mitigating risks and improving shared resources, and its potential for delivering lasting insights and tools. Its focus on membrane proteins is of significant interest in the field, and its plan for data deposition aligns well with the improved national repository deposit turnaround. These factors make it a strong candidate for the award.","{""words"":260,""mentions"":[""Midori"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+66,3,2,talk,Midori,,"@Servas, I agree that the Protein Folding Dynamics project has a strong plan for addressing staffing requirements and managing risks. Its focus on membrane proteins is indeed of significant interest in the field.
+
+@Kenji, the project's approach to leveraging and improving shared facilities and services is commendable. It addresses the issues with the shared spectroscopy suite proactively, which is crucial for the progress of the research.
+
+@Benjamin, the project's combination of laboratory spectroscopy with simulation minimizes the risks associated with live breeding colonies and other biological aspects. This aligns well with your concern about schedule overruns.
+
+@Toshio, the project's plan for data deposition aligns well with the improved national repository deposit turnaround, ensuring the visibility and progress of the research. Its focus on membrane proteins and the potential for lasting insights and tools are also notable.
+
+Given these points, I believe the Protein Folding Dynamics project is a strong candidate for the award. Its comprehensive approach to addressing the challenges we've discussed makes it a compelling choice. However, I'm open to further discussion and would like to hear your final thoughts on this proposal and the others.
+
+In conclusion, the Protein Folding Dynamics project stands out due to its alignment with current staffing trends, its proactive approach to mitigating risks and improving shared resources, and its potential for delivering lasting insights and tools. Its focus on membrane proteins is of significant interest in the field, and its plan for data deposition aligns well with the improved national repository deposit turnaround. These factors make it a strong candidate for the award.
+
+I'm convinced that the Protein Folding Dynamics project is the best choice for the award. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate. I'm ready to vote for this project.","{""words"":306,""mentions"":[""Servas"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+67,3,2,talk,Kenji,,"@Servas, I agree that the Protein Folding Dynamics project has a strong plan for addressing staffing requirements and managing risks. Its focus on membrane proteins is indeed of significant interest in the field.
+
+@Midori, the project's approach to leveraging and improving shared facilities and services is commendable. It addresses the issues with the shared spectroscopy suite proactively, which is crucial for the progress of the research.
+
+@Benjamin, the project's combination of laboratory spectroscopy with simulation minimizes the risks associated with live breeding colonies and other biological aspects. This aligns well with your concern about schedule overruns.
+
+@Toshio, the project's plan for data deposition aligns well with the improved national repository deposit turnaround, ensuring the visibility and progress of the research. Its focus on membrane proteins and the potential for lasting insights and tools are also notable.
+
+Given these points, I believe the Protein Folding Dynamics project is a strong candidate for the award. Its comprehensive approach to addressing the challenges we've discussed makes it a compelling choice. However, I'm open to further discussion and would like to hear your final thoughts on this proposal and the others.
+
+In conclusion, the Protein Folding Dynamics project stands out due to its alignment with current staffing trends, its proactive approach to mitigating risks and improving shared resources, and its potential for delivering lasting insights and tools. Its focus on membrane proteins is of significant interest in the field, and its plan for data deposition aligns well with the improved national repository deposit turnaround. These factors make it a strong candidate for the award.
+
+I'm convinced that the Protein Folding Dynamics project is the best choice for the award. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate. I'm ready to vote for this project.","{""words"":306,""mentions"":[""Servas"",""Midori"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+68,3,2,talk,Benjamin,,"@Servas, I agree that the Protein Folding Dynamics project has a strong plan for addressing staffing requirements and managing risks. Its focus on membrane proteins is indeed of significant interest in the field.
+
+@Midori, the project's approach to leveraging and improving shared facilities and services is commendable. It addresses the issues with the shared spectroscopy suite proactively, which is crucial for the progress of the research.
+
+@Kenji, the project's combination of laboratory spectroscopy with simulation minimizes the risks associated with live breeding colonies and other biological aspects. This aligns well with your concern about schedule overruns.
+
+@Toshio, the project's plan for data deposition aligns well with the improved national repository deposit turnaround, ensuring the visibility and progress of the research. Its focus on membrane proteins and the potential for lasting insights and tools are also notable.
+
+Given these points, I believe the Protein Folding Dynamics project is a strong candidate for the award. Its comprehensive approach to addressing the challenges we've discussed makes it a compelling choice. However, I'm open to further discussion and would like to hear your final thoughts on this proposal and the others.
+
+In conclusion, the Protein Folding Dynamics project stands out due to its alignment with current staffing trends, its proactive approach to mitigating risks and improving shared resources, and its potential for delivering lasting insights and tools. Its focus on membrane proteins is of significant interest in the field, and its plan for data deposition aligns well with the improved national repository deposit turnaround. These factors make it a strong candidate for the award.
+
+I'm convinced that the Protein Folding Dynamics project is the best choice for the award. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate. I'm ready to vote for this project.","{""words"":306,""mentions"":[""Servas"",""Midori"",""Kenji"",""Toshio""],""raw_differs"":false}"
+69,3,2,talk,Toshio,,"@Servas, I agree that the Protein Folding Dynamics project has a strong plan for addressing staffing requirements and managing risks. Its focus on membrane proteins is indeed of significant interest in the field.
+
+@Midori, the project's approach to leveraging and improving shared facilities and services is commendable. It addresses the issues with the shared spectroscopy suite proactively, which is crucial for the progress of the research.
+
+@Kenji, the project's combination of laboratory spectroscopy with simulation minimizes the risks associated with live breeding colonies and other biological aspects. This aligns well with your concern about schedule overruns.
+
+@Benjamin, the project's plan for data deposition aligns well with the improved national repository deposit turnaround, ensuring the visibility and progress of the research. Its focus on membrane proteins and the potential for lasting insights and tools are also notable.
+
+Given these points, I believe the Protein Folding Dynamics project is a strong candidate for the award. Its comprehensive approach to addressing the challenges we've discussed makes it a compelling choice. However, I'm open to further discussion and would like to hear your final thoughts on this proposal and the others.
+
+In conclusion, the Protein Folding Dynamics project stands out due to its alignment with current staffing trends, its proactive approach to mitigating risks and improving shared resources, and its potential for delivering lasting insights and tools. Its focus on membrane proteins is of significant interest in the field, and its plan for data deposition aligns well with the improved national repository deposit turnaround. These factors make it a strong candidate for the award.
+
+I'm convinced that the Protein Folding Dynamics project is the best choice for the award. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate. I'm ready to vote for this project.","{""words"":306,""mentions"":[""Servas"",""Midori"",""Kenji"",""Benjamin""],""raw_differs"":false}"
+70,3,3,talk,Servas,,"I'm ready to vote for the Protein Folding Dynamics project. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate.","{""words"":34,""mentions"":[],""raw_differs"":false}"
+71,3,3,talk,Midori,,"I'm ready to vote for the Protein Folding Dynamics project. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate.","{""words"":34,""mentions"":[],""raw_differs"":false}"
+72,3,3,talk,Kenji,,"I'm ready to vote for the Protein Folding Dynamics project. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate.","{""words"":34,""mentions"":[],""raw_differs"":false}"
+73,3,3,talk,Benjamin,,"I'm ready to vote for the Protein Folding Dynamics project. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate.","{""words"":34,""mentions"":[],""raw_differs"":false}"
+74,3,3,talk,Toshio,,"I'm ready to vote for the Protein Folding Dynamics project. Its comprehensive approach to addressing the challenges we've discussed, along with its potential for delivering lasting insights and tools, makes it a standout candidate.","{""words"":34,""mentions"":[],""raw_differs"":false}"
+75,3,4,pass,Servas,,Over,"{""forced"":false,""empty"":false}"
+76,3,4,talk,Midori,,I'm ready to cast my vote for the Protein Folding Dynamics project.,"{""words"":12,""mentions"":[],""raw_differs"":false}"
+77,3,4,talk,Kenji,,I'm ready to cast my vote for the Protein Folding Dynamics project.,"{""words"":12,""mentions"":[],""raw_differs"":false}"
+78,3,4,talk,Benjamin,,I'm ready to cast my vote for the Protein Folding Dynamics project.,"{""words"":12,""mentions"":[],""raw_differs"":false}"
+79,3,4,talk,Toshio,,I'm ready to cast my vote for the Protein Folding Dynamics project.,"{""words"":12,""mentions"":[],""raw_differs"":false}"
+80,3,,vote,Servas,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+81,3,,vote,Midori,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+82,3,,vote,Kenji,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+83,3,,vote,Benjamin,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+84,3,,vote,Toshio,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+85,4,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+86,4,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+87,4,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+88,4,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+89,4,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+90,3,,result,,,C,"{""adopted"":""C"",""tally"":{""C"":5},""tie"":false}"

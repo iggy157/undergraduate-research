@@ -1,0 +1,23 @@
+2026-10-28 21:28:56,625 websockets.server INFO server listening on 127.0.0.1:20001
+2026-10-28 21:28:56,625 server.runner INFO listening on ws://127.0.0.1:20001 for setup shared_living_0012
+2026-10-28 21:28:57,967 websockets.server INFO connection open
+2026-10-28 21:28:57,968 websockets.server INFO connection open
+2026-10-28 21:28:57,968 websockets.server INFO connection open
+2026-10-28 21:28:57,968 server.transport INFO seat4 connected (1/5)
+2026-10-28 21:28:57,968 server.transport INFO seat2 connected (2/5)
+2026-10-28 21:28:57,968 server.transport INFO seat1 connected (3/5)
+2026-10-28 21:28:57,971 websockets.server INFO connection open
+2026-10-28 21:28:57,971 server.transport INFO seat3 connected (4/5)
+2026-10-28 21:28:57,974 websockets.server INFO connection open
+2026-10-28 21:28:57,975 server.transport INFO seat5 connected (5/5)
+2026-10-28 21:28:57,983 server.game INFO game shared_living_0012__multi-public__gemma-4-31b__20261028T212857 starting (shared_living_0012)
+2026-10-28 21:37:42,854 server.game INFO game shared_living_0012__multi-public__gemma-4-31b__20261028T212857 finished: {'adopted': 'B', 'tally': {'B': 5}, 'tie': False}
+2026-10-28 21:37:42,889 websockets.server INFO connection closed
+2026-10-28 21:37:42,890 websockets.server INFO connection closed
+2026-10-28 21:37:42,891 websockets.server INFO connection closed
+2026-10-28 21:37:42,915 websockets.server INFO connection closed
+2026-10-28 21:37:42,916 websockets.server INFO connection closed
+2026-10-28 21:37:42,917 websockets.server INFO server closing
+2026-10-28 21:37:42,917 websockets.server INFO server closed
+shared_living_0012__multi-public__gemma-4-31b__20261028T212857	{"adopted": "B", "tally": {"B": 5}, "tie": false}
+run_multi: shared_living_0012__multi-public__gemma-4-31b__20261028T212857	{"adopted": "B", "tally": {"B": 5}, "tie": false}

@@ -1,0 +1,73 @@
+# shared_living_0022__single-online (shared_living)
+
+## Round 1
+- [5] **May**: I want to make sure we don't just repeat the same mistake. Who is actually carrying the weight here?
+- [6] **Mizuki**: I agree. We need to see the actual numbers before we agree to anything.
+- [7] **Kenji**: I’m worried about the costs too. We need to know exactly what this setup will cost each of us, not just guess.
+- [8] **Midori**: I worry less about the money and more about whether we can still be neighbors after this.
+- [9] **Servas**: I have watched this lane for decades. We must measure the true cost in time and spirit, not just yen, before we bind ourselves.
+- [10] **May**: @Kenji, your worry about the budget is valid, but I need to know who is physically doing the work.
+- [11] **Mizuki**: @May, the physical work is part of it, but I am more concerned about the daily reality of living beside it.
+- [12] **Kenji**: @May, I’m checking the block ledger to see what we’ve already spent on fixes. It’s a start.
+- [13] **Midori**: @Kenji, that sounds like a good start. I’m hoping we can find a way to keep the peace while we sort out the details.
+- [14] **Servas**: @Kenji, the ledger shows the yen, but I need to know the hours. What does the daily upkeep actually demand of us?
+- [15] **May**: @Servas, hours matter, but I need to know who is stuck with the gate. I’m checking the complaint log to see who has been suffering
+- [16] **Mizuki**: @May, the complaint log tells us who is angry, but I need to know what the daily reality feels like. I am checking the supervised mornings.
+- [17] **Kenji**: @Mizuki, that sounds interesting. I’m also checking the ward subsidy to see if we can get some help with the costs.
+- [18] **Midori**: @Mizuki, I appreciate that. I’m checking the station block’s minutes to see how their arrangement actually played out for them.
+- [19] **Servas**: @May, the log shows anger, but I need the hours. I am checking the supervised mornings to see the true daily burden.
+- [20] **May**: @Midori, I hope their minutes show they kept the peace. I am checking the measurements of the five frontages to see who actually has room.
+- [21] **Mizuki**: @May, the measurements show space, but I need to know the smell. I am checking the station block’s bin house to see the reality.
+- [22] **Kenji**: @May, the measurements are useful, but I need to know the rules. I am checking the ward filing requirements to see what is actually allowed.
+- [23] **Midori**: @Kenji, the rules are important, but I am checking the statements at the residents' meeting to see if we can actually trust each other to follow them.
+- [24] **Servas**: @Kenji, the rules are the skeleton, but I need the muscle. I am checking the truck arrival time to see when the real work begins.
+## Round 2
+- [35] **May**: @Kenji, I found the complaint log. Eleven of fourteen complaints came from the gate household. That’s not a shared burden, it’s a target.
+- [36] **Mizuki**: - **Mizuki**: @May, that confirms the imbalance. I checked the station block’s bin house; the smell is worse than the open pile.
+- [37] **Kenji**: @May, that’s harsh. I checked the subsidy; it only covers forty percent, capped at ninety thousand. We still pay the rest.
+- [38] **Midori**: @Kenji, that’s a heavy lift. I checked the station block’s minutes; they were arguing over sweeping within two years.
+- [39] **Servas**: @Kenji, the subsidy is a small comfort. I checked the truck time; it arrives before many of us wake, making the window impossible.
+- [40] **May**: @Servas, if the truck comes before we wake, how do we even manage the window? I’m checking the frontages to see who has space.
+- [41] **Mizuki**: @May, the frontages show two houses have room, but one is blocked by a driveway. We need a plan that fits the space, not just the budget.
+- [42] **Kenji**: @Mizuki, space is tight. I checked the filing rules; a permanent build needs five signatures and four months. That’s a long wait.
+- [43] **Midori**: @Kenji, four months is a long time to wait. I checked the residents' meeting; three people refused to turn away late bags.
+- [44] **Servas**: @Midori, that refusal is the heart of the matter. I checked the supervised mornings; each takes fifty minutes. We must plan for that shared burden.
+- [45] **May**: @Servas, fifty minutes a morning is a lot. I checked the frontages; the narrowest leaves only ninety centimetres. We can’t just assume everyone has room.
+- [46] **Mizuki**: @May, ninety centimetres is a trap. I checked the supervised mornings; fifty minutes each means twenty per house yearly. That is the true cost.
+- [47] **Kenji**: @Mizuki, twenty mornings is manageable, but the filing rules are the real hurdle. A permanent build needs four months and five signatures.
+- [48] **Midori**: @Kenji, four months is a long time to wait. I checked the residents' meeting; three people refused to turn away late bags.
+- [49] **Servas**: @Midori, their refusal is the danger. I checked the truck time; it arrives before we wake. We cannot enforce a window that starts in the dark.
+- [50] **May**: @Servas, if the window is impossible, we can’t rely on it. I’m looking at the frontages to see who actually has space for a rotation.
+- [51] **Mizuki**: @May, space is only half the story. I checked the bin house; the smell is worse than the open pile. We need a solution that doesn’t just move the problem.
+- [52] **Kenji**: @Mizuki, the smell is a real problem. But I checked the filing rules; moving the point needs its own notice every time. That’s a lot of paperwork.
+- [53] **Midori**: @Kenji, the paperwork is a burden, but the trust is the real test. I checked the residents' meeting; nobody volunteered to enforce the rules.
+- [54] **Servas**: @Midori, trust is fragile, but the clock is not. The truck arrives before dawn, making any supervised window a nightmare. We must choose a path that respects our sleep.
+## Round 3
+- [60] **May**: @Kenji, the paperwork for moving is heavy, but the gate household’s pain is heavier. I’m leaning toward rotating the location to share the burden.
+- [61] **Mizuki**: @May, rotation ignores the smell. The bin house proved enclosed structures make it worse. I oppose any permanent build.
+- [62] **Kenji**: @Mizuki, you’re right about the smell. But the subsidy helps with the build, and the filing rules are just paperwork. I’m leaning toward the enclosed structure.
+- [63] **Midori**: @Kenji, the subsidy helps, but the minutes show they argued over sweeping within two years. I worry a permanent build will just create new friction.
+- [64] **Servas**: @Kenji, the subsidy is a drop in the ocean. The truck arrives before dawn, making supervised windows impossible. I oppose any plan that demands our sleep.
+- [65] **May**: @Kenji, the subsidy is a drop in the ocean. The truck arrives before dawn, making supervised windows impossible. I oppose any plan that demands our sleep.
+- [66] **Mizuki**: @May, you are repeating Servas. I stand by my objection to the enclosure. The smell is the deciding factor for me.
+- [67] **Kenji**: @Mizuki, I hear you on the smell, but the ledger shows we bleed money on open bags. The enclosure stops that. I’m voting for the structure.
+- [68] **Midori**: @Kenji, the ledger shows the cost, but the minutes show the cost to our friendship. I cannot vote for a structure that guarantees we will stop speaking.
+- [69] **Servas**: @Kenji, the ledger shows the yen, but the truck shows the hours. I cannot vote for a structure that demands our sleep.
+- [70] **May**: @Kenji, the ledger is a leak, but the gate household is drowning. I am voting for the rotation to finally share the burden.
+- [71] **Mizuki**: @May, rotation moves the smell, it does not fix it. I am voting for the managed hours, despite the early start.
+- [72] **Kenji**: @Mizuki, I hear you, but the smell is worse in a box. I’m voting for the rotation to share the burden fairly.
+- [73] **Midori**: @Kenji, I hear your fairness, but the minutes show permanent structures breed conflict. I am voting for the rotation to keep our peace.
+- [74] **Servas**: @Kenji, the rotation respects our sleep and shares the burden. I am voting for the rotation to preserve our peace.
+- [75] **May**: @Kenji, I am glad we are aligned. The rotation is the only path that respects both our budgets and our sleep. I am voting for the rotation.
+- [76] **Mizuki**: @May, I stand by my vote for managed hours. The smell is the deciding factor for me, and I cannot support moving it.
+- [77] **Kenji**: @Mizuki, I understand your worry, but the rotation spreads the load. I am voting for the rotation to keep us neighbors.
+- [78] **Midori**: @Mizuki, I respect your caution, but the rotation keeps us talking. I am voting for the rotation to preserve our peace.
+- [79] **Servas**: @Mizuki, your caution is wise, but the rotation respects our sleep and shares the burden. I am voting for the rotation to preserve our peace.
+### Vote
+- May -> A
+- Mizuki -> B
+- Kenji -> A
+- Midori -> A
+- Servas -> A
+## Result
+- adopted: A

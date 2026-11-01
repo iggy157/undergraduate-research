@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: Hello everyone. To ensure we allocate these spaces fairly and logically, we need objective data. I suggest we examine the current usage and the physical constraints of the parking area before making any decisions.
+- [6] **Ryuji**: I agree. We should avoid making decisions based on intuition. Before we suggest any allocation methods, we need to understand the financial implications and the actual costs involved for the building and the residents.
+- [7] **George**: It is a pleasure to meet you all. I believe a calm and measured approach is best. We should look into the history of how things have been handled to see if there are any recurring issues.
+- [8] **Shunichi**: Let's be realistic: "fairness" is usually just a word people use before they start arguing. I want to see the "Last year's complaint log entries" and "Five years of association minutes" to see where we're actually failing.
+- [9] **Mio**: Hi everyone! I'm so excited to help out! I want to make sure we pick a system that's actually easy to keep up with so nobody gets too stressed. Let's find some great clues first!
+- [10] **Asuka**: I will look into the "Sticker register and the daily riders" and "Rain exposure along the parking rows." Understanding who actually uses the bikes and the physical condition of the spaces is essential for an equitable plan.
+- [11] **Ryuji**: I'll examine the "Building account's two-year ledger" and the "Treasurer's handover file on cash collections." We need to know the actual financial impact and what residents are currently paying for parking.
+- [12] **George**: I will look into the "Sticker register and the daily riders" and "Five years of association minutes." I want to see if the current allocation is based on a consistent rule or if it has become arbitrary.
+- [13] **Shunichi**: I've already mentioned my choices. I'll stick with the "Last year's complaint log entries" and "Five years of association minutes." I'm curious to see if the drama is as predictable as I suspect.
+- [14] **Mio**: I'll check the "Treasurer's handover file on cash collections" and "Account from the neighbouring block's secretary"! I want to see how much paperwork is involved and if other buildings have a super easy way of doing it!
+- [15] **Asuka**: @George, since we are both checking the sticker register, we can compare our findings later. I believe the physical layout is just as important as the registration data for a sustainable solution.
+- [16] **Ryuji**: @Mio, since we are both looking into the treasurer's file, we should compare notes. I am specifically interested in the actual cash flow and whether the current fees are sufficient to cover maintenance.
+- [17] **George**: @Asuka, that sounds like a sensible plan. I believe that by comparing the registration data with the historical records, we can determine if the current system is truly fair or merely a habit.
+- [18] **Shunichi**: @Ryuji, @Mio, please do enjoy your little accounting session. While you're counting pennies, I'll be uncovering the actual grievances. It's always more interesting to see what people complain about than what they pay.
+- [19] **Mio**: @Ryuji, yes! Let's definitely compare notes! I'm more worried about the boring paperwork part, but I'll help you with the pennies! I can't wait to see if the other block has any cool secrets!
+- [20] **Asuka**: I believe we have a comprehensive plan. By covering the financial, historical, and physical aspects of the parking area, we can avoid a superficial solution. I will proceed with my research now. See you all in the next round.
+- [21] **Ryuji**: I agree. We have a balanced approach. I will focus on the financial data to ensure we have a clear understanding of the costs and fees before we commit to any specific allocation method. See you all soon.
+- [22] **George**: I shall also begin my research. I hope to find some clarity on whether our current habits are based on a fair system or simply a lack of change. I will see you all soon.
+- [23] **Shunichi**: I'll be in the archives, digging through the wreckage of past arguments. Let's hope the data is more honest than the people who wrote it. See you all in the next round.
+- [24] **Mio**: I'm ready to go! I'll go hunt for those clues right now! I hope the other block has a super simple system that we can use. See you all soon, bye-bye!
+## Round 2
+- [35] **Asuka**: My research reveals a significant disparity in the quality of the spaces; those past the downpipe are exposed to rain, while others stay dry. Additionally, daily riders are willing to pay more for guaranteed access.
+- [36] **Ryuji**: The financial data is concerning. The ledger shows the account only covers basic cleaning and lighting; any major improvements would require a levy. Furthermore, the current cash collection is already a time-consuming administrative burden.
+- [37] **George**: My findings confirm a lack of oversight. The minutes show that the covered spaces have been held by the same flats for five years without any review. It seems our current arrangement is indeed based on habit rather than a rule.
+- [38] **Shunichi**: It seems George and I found the same thing: a total lack of accountability. The minutes are a void, and the complaint log is just a collection of ghosts—people complaining about leaning bikes, but too timid to actually name names.
+- [39] **Mio**: Wow, I found some scary stuff! The treasurer already spends three hours a month just on cash, and if we add more billing, it'll be a nightmare! Plus, the other block's secretary said people stopped coming to meetings because of money troubles!
+- [40] **Asuka**: @George, your findings about the covered spaces being held for five years explain why the current system is stagnant. When combined with the rain exposure, it's clear that some residents have an unfair advantage while others suffer.
+- [41] **Ryuji**: @Mio, your point about the administrative burden is critical. If we implement a complex per-place billing system, we risk overwhelming the treasurer. We must find a solution that is financially sustainable without increasing the workload.
+- [42] **George**: @Asuka, it is quite telling. When a system remains unchanged for five years without review, it naturally breeds the kind of resentment we are seeing. It appears the "habit" has become an unspoken rule.
+- [43] **Shunichi**: @George, "unspoken rules" are just polite terms for unfair advantages. The fact that people are complaining about leaning bikes but won't speak up suggests a fragile peace. We should be careful not to break it with a clumsy "fix."
+- [44] **Mio**: @Ryuji, exactly! I don't want the treasurer to be super stressed. And @Shunichi, I don't want people to stop coming to meetings like in the other block! We need a plan that's easy and doesn't make anyone grumpy!
+- [45] **Asuka**: @Shunichi, a "fragile peace" is not a sustainable solution. If we ignore the physical reality of the rain exposure and the daily riders' needs, we are simply waiting for the next conflict to erupt. We need a structured system.
+- [46] **Ryuji**: @Asuka, a structured system is only viable if it is administratively feasible. If we introduce a complex rotation or tiered pricing to address rain exposure, we must consider who manages the billing and how it affects the building's limited funds.
+- [47] **George**: @Ryuji, I agree that we must be mindful of the workload. However, we cannot ignore that some residents have enjoyed the best spots for years without question. A simple, transparent review process might be more effective than a complex billing system.
+- [48] **Shunichi**: @George, a "transparent review process" is just a fancy way of saying we're going to invite everyone to a meeting to fight over a few dry spots. Let's not mistake a recipe for chaos for a solution.
+- [49] **Mio**: @George, I like the idea of a simple review! But @Ryuji is right, we have to be careful. If the system is too hard to run, it'll just stop working after a month. Let's keep it super simple!
+- [50] **Asuka**: @Mio, simplicity is important, but it cannot come at the cost of fairness. We have clear data on rain exposure and usage patterns. Any solution that ignores these physical realities will only lead to more complaints in the log.
+- [51] **Ryuji**: @Asuka, fairness is a goal, but it must be grounded in reality. We cannot implement a system that requires a levy or creates an unsustainable administrative burden. Any proposal must be cost-neutral and simple to manage.
+- [52] **George**: I believe we can find a middle ground. If we acknowledge the long-term stagnation of the current spots, we can address the resentment without creating a bureaucratic nightmare. A straightforward reallocation based on actual need seems most prudent.
+- [53] **Shunichi**: @George, "actual need" is a dangerous phrase. Who decides whose need is greater? If we start playing judge and jury over who deserves a dry spot, we'll turn the lobby into a battlefield. Let's avoid the drama.
+- [54] **Mio**: @Shunichi, you're so gloomy! But I agree that fighting is no fun. Let's just make sure that whatever we pick doesn't turn into a giant chore for one person. If it's easy and fair, everyone will be happy!
+## Round 3
+- [60] **Asuka**: Option B is a recipe for chaos. Without fixed spots, the morning rush will become a shoving match, and bikes will be damaged by poor placement. It ignores the physical reality of the space and the needs of daily riders.
+- [61] **Ryuji**: Option A is financially risky. While it adds to the shared account, it increases the administrative burden on the treasurer, who is already struggling. We must avoid any system that adds significant monthly billing work.
+- [62] **George**: Option C provides a fair way to break the five-year stagnation I discovered. It removes the perception of favoritism and ensures that no single household holds a privileged spot indefinitely, all without adding to the treasurer's workload.
+- [63] **Shunichi**: Option C is just a slow-motion version of the current mess. We'd be trading a five-year grudge for a yearly lottery where the losers spend twelve months resentfully eyeing the winners' dry spots. It's a gamble with our social peace.
+- [64] **Mio**: Option A sounds like a total nightmare for the treasurer! I don't want them spending all their free time on paperwork, and we can't have people skipping meetings because of money. Option B sounds a bit messy, but Option C is so simple!
+- [65] **Asuka**: @George, while Option C addresses stagnation, it ignores the physical disparity of the spaces. A lottery doesn't solve the fact that some spots are wet and others are dry; it just randomizes who suffers. We need a more logical approach.
+- [66] **Ryuji**: @Asuka, while I agree that randomization isn't logical, Option B is also problematic. Installing double-tier racks would likely require a levy on households, as our ledger shows no funds for capital work. We cannot afford a costly installation.
+- [67] **George**: @Ryuji, that is a valid point regarding the costs. However, Option C requires no investment and no ongoing billing. It is the most stable way to ensure that the "unspoken rules" of the past five years are finally replaced by a transparent process.
+- [68] **Shunichi**: @George, "transparent" doesn't mean "peaceful." A lottery just gives people a formal reason to be bitter. If we want to avoid the lobby becoming a cold war zone, we need something that doesn't feel like a game of chance.
+- [69] **Mio**: @Shunichi, you're always so worried about the fighting! But @George is right, Option C is super easy to run! No monthly bills, no expensive racks, just one big draw a year! It's the best way to keep the work low!
+- [70] **Asuka**: @Mio, ease of administration is not a substitute for a functional system. Option C is a superficial fix. It fails to address the physical damage caused by poor placement and the rain exposure, merely rotating the misfortune among residents.
+- [71] **Ryuji**: @Asuka, while I acknowledge the physical flaws, we must prioritize the building's constraints. Option A is an administrative burden and Option B is a financial impossibility. Option C is the only choice that is both cost-neutral and manageable.
+- [72] **George**: @Asuka, while it does not solve the rain issue, it solves the social issue of perceived favoritism. A lottery is a neutral arbiter that everyone can accept, preventing the resentment that comes from stagnant, privileged spots.
+- [73] **Shunichi**: @George, you're treating the residents like numbers in a spreadsheet. A "neutral arbiter" doesn't stop people from being petty. If we want to avoid a building where neighbors time their exits to avoid each other, we need a solution that doesn't feel like a lottery for misery.
+- [74] **Mio**: @Shunichi, you're making it sound so scary! But look, Option A is a paperwork monster and Option B costs too much money. Option C is the only one that doesn't turn into a giant chore for someone! I vote for Option C!
+- [75] **Asuka**: @Mio, @Ryuji, @George, you are prioritizing convenience over the actual state of our property. Option C is a gamble that ignores the physical damage and rain exposure. However, Option A and B are untenable. I vote for Option C.
+- [76] **Ryuji**: I have analyzed the options against our constraints. Option A is an administrative nightmare and Option B is financially unfeasible. Option C is the only rational, cost-neutral choice that doesn't burden the treasurer. I vote for Option C.
+- [77] **George**: I have considered the arguments. While it does not solve every physical flaw, Option C is the only way to fairly dismantle the long-term stagnation and perceived favoritism without creating a financial or administrative crisis. I vote for Option C.
+- [78] **Shunichi**: Since the rest of you are so eager to embrace the "neutrality" of a lottery, I'll stop trying to save you from yourselves. It's a mediocre solution, but it's better than a paperwork monster. I vote for Option C.
+- [79] **Mio**: Yay! I'm so glad we all agree! Option C is the only one that doesn't turn into a giant chore or a money disaster. Let's make the lottery a fun event! I vote for Option C!
+### Vote
+- Asuka -> C
+- Ryuji -> C
+- George -> C
+- Shunichi -> C
+- Mio -> C
+## Result
+- adopted: C

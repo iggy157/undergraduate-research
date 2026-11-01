@@ -1,0 +1,73 @@
+# shared_living_0016__single-online (shared_living)
+
+## Round 1
+- [5] **Minato**: I’m a bit nervous about the new fee structure. Can we look at the ledger and the treasurer’s hours first?
+- [6] **Ryuji**: We need to verify the actual income before setting costs. I will review the bank statements and the mid-year joiner records.
+- [7] **Minako**: I want to understand the attendance patterns. I will check the sign-in sheets and the rota against the attendance record.
+- [8] **May**: I’m curious about why people hesitate to commit. I’ll check the taster forms and the winter social feedback.
+- [9] **Shunichi**: I’ll pull the weekday turnout figures and the ledger. We need to see if the costs are fixed or if they actually track with who shows up.
+- [10] **Minato**: @Ryuji, do the bank statements show if people are struggling to pay?
+- [11] **Ryuji**: Not yet. I’m still cross-referencing the mid-year joiner calculations. I’ll confirm the payment delays once I finish the ledger check.
+- [12] **Minako**: @Minato, the sign-in sheets show a quarter of members account for two-thirds of attendances.
+- [13] **May**: @Minako, that’s a stark imbalance. I’m hoping the taster forms reveal why newcomers hesitate to commit to a full year upfront.
+- [14] **Shunichi**: @Minako, that imbalance is exactly what I suspected. I’ll confirm if the same nine people are also doing the setup work.
+- [15] **Minato**: @Minako, that sounds worrying. I hope the treasurer’s hours show the job isn’t too heavy for the next person.
+- [16] **Ryuji**: @Minato, the ledger confirms fixed costs dominate. I’m still verifying the mid-year calculations, but the income picture is clearer now.
+- [17] **Minako**: @Shunichi, if the same nine people are doing the setup, that confirms the workload is concentrated. I need to know if that affects how we structure the fees.
+- [18] **May**: @Minako, the taster forms show people fear a full-year commitment. I want to know if the winter social feedback matches that hesitation.
+- [19] **Shunichi**: @Minako, the rota confirms it. The same nine people handle setup and lock-up. The workload is heavily concentrated, not shared.
+- [20] **Minato**: @Ryuji, if the ledger shows fixed costs, does that mean the treasurer’s job is mostly chasing individual payments? I worry about the burden.
+- [21] **Ryuji**: @Minato, the ledger shows fixed costs, but the treasurer’s hours will reveal the administrative burden. I’ll confirm the payment delays shortly.
+- [22] **Minako**: @Shunichi, that concentration is a problem. If the fee structure doesn’t account for that, we risk losing those nine people entirely.
+- [23] **May**: @Minako, the winter social feedback confirms it. People feel uneasy about the cost per visit. We need a structure that feels fair, not just cheap.
+- [24] **Shunichi**: @Minako, the concentration is the problem. We need a structure that reflects actual usage, not just who shows up.
+## Round 2
+- [35] **Minato**: #### Turn 1 of 4
+- [36] **Ryuji**: #### Turn 1 of 4
+- [37] **Minako**: - **Minako**: The sign-in tally is stark. A quarter of members account for two-thirds of attendances, and eighteen names appear on no sheet at all.
+- [38] **May**: The taster forms are telling. Nine of fourteen non-joiners cited fear of a whole-year commitment. The winter social feedback matches that hesitation.
+- [39] **Shunichi**: #### Turn 1 of 4
+- [40] **Minato**: #### Turn 2 of 4
+- [41] **Ryuji**: - **Ryuji**: The bank statements show a third of renewals needed two reminders. Several members asked to spread payments. This confirms the cash flow is fragile.
+- [42] **Minako**: - **Minako**: @Ryuji, that payment fragility explains the hesitation. If the fee feels like a burden, people disengage. We need a structure that doesn't scare them off.
+- [43] **May**: - **May**: @Minako, exactly. The winter social feedback shows people are anxious about the cost per visit. We need to remove that friction.
+- [44] **Shunichi**: - **Shunichi**: @Ryuji, that payment fragility is a symptom, not the cause. The real issue is the uneven usage I found.
+- [45] **Minato**: - **Minato**: @Ryuji, that payment fragility worries me. I hope the treasurer’s hours show the job isn’t too heavy for the next person.
+- [46] **Ryuji**: @Minato, the hours confirm your fear. Chasing individual payments took six hours monthly, versus one for yearly. We must avoid that administrative burden.
+- [47] **Minako**: @Ryuji, that administrative burden is unacceptable. We cannot structure fees that force the next treasurer into that kind of labor.
+- [48] **May**: - **May**: @Ryuji, that administrative burden is unacceptable. We cannot structure fees that force the next treasurer into that kind of labor.
+- [49] **Shunichi**: @Minako, the ledger confirms it. Seventy percent of costs are fixed, billed whether anyone attends. Activity-based charging won't solve the core problem.
+- [50] **Minato**: - **Minato**: @Ryuji, six hours a month is too much. I can’t ask anyone to take that on. We need a simpler collection method.
+- [51] **Ryuji**: @Minato, agreed. A flat annual fee minimizes that administrative load. We need a structure that is simple to collect and sustainable for the books.
+- [52] **Minako**: @Ryuji, simplicity is vital, but we must ensure the fee doesn't alienate the eighteen members who never attend. We need a structure that feels fair to everyone.
+- [53] **May**: - **May**: @Minako, fairness means removing the fear of a full-year commitment. If the fee feels like a burden, people disengage.
+- [54] **Shunichi**: @Ryuji, simplicity is fine, but it ignores the eighteen who never show. A flat fee forces them to subsidize the regulars. That’s the inequity I’m trying to fix.
+## Round 3
+- [60] **Minato**: - **Minato**: @Ryuji, I agree simplicity is key. But @Shunichi, how do we make it fair for those who rarely attend?
+- [61] **Ryuji**: @Shunichi, the ledger shows seventy percent of costs are fixed. A flat fee covers that reliably without the administrative chaos of per-event tracking.
+- [62] **Minako**: @Shunichi, the eighteen who never attend are a symptom of the current friction, not a reason to punish the regulars. We need to keep the door open, not close it.
+- [63] **May**: - **May**: @Minako, keeping the door open means removing the fear of a full-year commitment. If the fee feels like a burden, people disengage.
+- [64] **Shunichi**: @Minako, the door is already open. The problem is the same nine people carrying the weight while others pay the same. I need a structure that reflects actual contribution.
+- [65] **Minato**: - **Minato**: @Shunichi, I hear you, but the treasurer’s hours show per-event tracking is impossible. We need a method that doesn’t burn out the next person.
+- [66] **Ryuji**: @Shunichi, the ledger proves fixed costs dominate. Activity-based charging ignores that reality and creates the administrative nightmare we just confirmed.
+- [67] **Minako**: @Shunichi, I understand the frustration, but the minute books show named grades caused friction and people stopped participating. We cannot replicate that failure.
+- [68] **May**: - **May**: @Minako, exactly. The taster forms prove people fear a whole-year commitment. We need a structure that lets them ease in, not a rigid tier that scares them off.
+- [69] **Shunichi**: @Minako, the minute books show friction, but that was a different era. The current data shows a clear divide. I need a structure that acknowledges who actually uses the space.
+- [70] **Minato**: - **Minato**: @Shunichi, I understand the frustration, but the treasurer’s hours show per-event tracking is impossible. We need a method that doesn’t burn out the next person.
+- [71] **Ryuji**: @Shunichi, the data is clear. Per-event tracking creates six hours of monthly work. A flat fee is the only sustainable option for the books.
+- [72] **Minako**: @Shunichi, I understand the frustration, but the minute books show named grades caused friction and people stopped participating. We cannot replicate that failure.
+- [73] **May**: - **May**: @Minako, exactly. The taster forms prove people fear a whole-year commitment. We need a structure that lets them ease in, not a rigid tier that scares them off.
+- [74] **Shunichi**: @Minako, the minute books show friction, but that was a different era. The current data shows a clear divide. I need a structure that acknowledges who actually uses the space.
+- [75] **Minato**: - **Minato**: @Ryuji, I agree. The administrative burden is too high for anything complex. I support the flat fee for simplicity.
+- [76] **Ryuji**: @Minato, agreed. The flat fee is the only structure that keeps the books solvent and the treasurer’s workload manageable. I vote for Option A.
+- [77] **Minako**: @Ryuji, I support the flat fee. It keeps the door open for newcomers and avoids the friction of named grades. I vote for Option A.
+- [78] **May**: @Ryuji, I agree. The flat fee removes the fear of a full-year commitment and keeps the door open. I vote for Option A.
+- [79] **Shunichi**: @Ryuji, the data shows a clear divide, but I concede the administrative burden is too high. I vote for Option A.
+### Vote
+- Minato -> A
+- Ryuji -> A
+- Minako -> A
+- May -> A
+- Shunichi -> A
+## Result
+- adopted: A

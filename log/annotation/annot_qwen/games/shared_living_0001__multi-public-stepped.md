@@ -1,0 +1,73 @@
+# shared_living_0001__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Mio**: I want to check how the flat fee actually lands on everyone's wallet.
+- [6] **Shizue**: I am curious about how the different year groups interact during the evenings.
+- [7] **Ryuji**: I need to see who is actually available to handle the logistics this time.
+- [8] **Rin**: I want to know what the sleeping arrangements looked like last year.
+- [9] **Misaki**: I need to trace where the money from last year's fee actually went.
+- [10] **Mio**: @Rin, did you find anything about the dorms? I worry about comfort.
+- [11] **Shizue**: @Mio, I think the social aspect is just as important as the beds.
+- [12] **Ryuji**: I am looking at the attendance sheets to see who actually showed up.
+- [13] **Rin**: I am checking the accounts from other clubs that went inland.
+- [14] **Misaki**: I am reviewing the group transport receipts from the last three years.
+- [15] **Mio**: @Ryuji, if people don't show up, who pays for their spot?
+- [16] **Shizue**: That is a fair question. I hope we can find a fair solution.
+- [17] **Ryuji**: I am also looking at the vacation timetable for our own hall.
+- [18] **Rin**: I am checking the prefecture rate sheet for publicly run beds.
+- [19] **Misaki**: I am looking into the quoting terms for whole-building lets.
+- [20] **Mio**: I will look into the membership list against first-train times.
+- [21] **Shizue**: I will look into what the seniors say about year-groups mixing.
+- [22] **Ryuji**: I will look into the canteen closure and last year's cooking duty.
+- [23] **Rin**: I will look into the lottery and application for public group bookings.
+- [24] **Misaki**: I will look into the accounts from two clubs that went inland.
+## Round 2
+- [35] **Mio**: A third of us can't make the 9am start without a bed. That's a huge cost.
+- [36] **Shizue**: The seniors say mixing only happens when we sleep together. That is key.
+- [37] **Ryuji**: Our own hall is booked by three other clubs. We'd have to train at odd hours.
+- [38] **Rin**: Public beds are 1,100 yen a night. But the lottery is a nightmare.
+- [39] **Misaki**: The inland clubs slept eight to a room. That explains the bad sleep.
+- [40] **Mio**: @Misaki, if we go inland, the transport costs will be massive.
+- [41] **Shizue**: @Rin, is the lottery really that difficult? I worry about the paperwork.
+- [42] **Ryuji**: Cooking duty took two hours a day last year. I don't want to repeat that.
+- [43] **Rin**: Yes, the application is nine pages long. One date change means starting over.
+- [44] **Misaki**: Whole-building lets have non-refundable deposits. That's a risk if someone drops out.
+- [45] **Mio**: @Ryuji, if we stay on campus, we avoid the transport costs entirely.
+- [46] **Shizue**: But if we stay on campus, the year groups won't mix. That is my concern.
+- [47] **Ryuji**: The canteen is closed. We'd have to cook or eat out. Both are expensive.
+- [48] **Rin**: I really want a place where we can sleep well. The inland option sounds risky.
+- [49] **Misaki**: The accounts show transport was 38% of the cost last year. We need to be careful.
+- [50] **Mio**: I think we need a place with kitchen staff to save time and money.
+- [51] **Shizue**: A coastal lodge might offer that. But it is far away.
+- [52] **Ryuji**: I am leaning towards a place with staff to handle the meals.
+- [53] **Rin**: I am worried about the sleep quality at the public centre.
+- [54] **Misaki**: I need to see the full cost breakdown before I can agree to anything.
+## Round 3
+- [60] **Mio**: Option C has meals included. That solves the cooking duty problem.
+- [61] **Shizue**: Option C is far, but it offers a whole building. That could help with mixing.
+- [62] **Ryuji**: Option B has the lottery risk. Option C has the deposit risk.
+- [63] **Rin**: Option B has the sleep risk. Option C is new, so I don't know the beds.
+- [64] **Misaki**: Option A is cheapest, but the hall is split. Option C is most expensive.
+- [65] **Mio**: @Misaki, the deposit risk for C is manageable if we confirm headcount early.
+- [66] **Shizue**: @Ryuji, the lottery for B is too stressful. I prefer the certainty of C.
+- [67] **Ryuji**: I agree. The cooking duty at A is a dealbreaker for me.
+- [68] **Rin**: I am still worried about the sleep at B. C might be better.
+- [69] **Misaki**: I need to see the exact quote for C to compare it with the transport costs.
+- [70] **Mio**: The flat fee for C might be higher, but the side costs are lower.
+- [71] **Shizue**: I think C is the best balance of social and practical needs.
+- [72] **Ryuji**: I am willing to try C if the meals are handled by staff.
+- [73] **Rin**: I hope the beds at C are comfortable. I really need good sleep.
+- [74] **Misaki**: I will vote for C if the total cost is within our budget.
+- [75] **Mio**: I am voting for C. The included meals are a big plus.
+- [76] **Shizue**: I am voting for C. The whole building will help us bond.
+- [77] **Ryuji**: I am voting for C. No cooking duty is a relief.
+- [78] **Rin**: I am voting for C. I hope the sleep is good.
+- [79] **Misaki**: I am voting for C. The cost is high, but the benefits are clear.
+### Vote
+- Mio -> C
+- Shizue -> C
+- Ryuji -> C
+- Rin -> C
+- Misaki -> C
+## Result
+- adopted: C

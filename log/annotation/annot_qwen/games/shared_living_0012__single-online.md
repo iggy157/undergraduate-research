@@ -1,0 +1,73 @@
+# shared_living_0012__single-online (shared_living)
+
+## Round 1
+- [5] **Kenji**: I’m glad we’re all here. I just want us to pick something that keeps our lane friendly, not just tidy.
+- [6] **Shizue**: I agree, Kenji. We must find a way that lets us all live peacefully together, without new worries.
+- [7] **Asuka**: I need to know the actual time cost before we commit. Who is responsible for the daily upkeep?
+- [8] **Rin**: I want to make sure no one gets stuck with the worst spot forever. Who is checking if the space is actually fair for everyone
+- [9] **Servas**: Before we choose, we must understand the true cost. Who has calculated what this corner already drains from our pockets each year?
+- [10] **Kenji**: @Servas, that’s a fair point. @Asuka, your time worry is valid too. Let’s look at the numbers and the hours together.
+- [11] **Shizue**: @Rin, you are right to worry about fairness. Let us look closely at the measurements to see if the space suits each home equally.
+- [12] **Asuka**: @Kenji, I appreciate the sentiment, but feelings don’t fix the schedule. I need the crew leader’s arrival time to calculate the exact window we’d be trapped in.
+- [13] **Rin**: @Asuka, the truck time is important, but I also want to see the ward complaint log. I need to know if one house is already suffering the most
+- [14] **Servas**: @Rin, the complaint log is wise. @Asuka, the truck time is vital. Let us also check the block ledger to see our yearly drain.
+- [15] **Kenji**: @Rin, checking the complaint log is smart. @Asuka, the truck time is key. Let’s also look at the ward filing requirements to see how hard a permanent fix would be.
+- [16] **Shizue**: @Kenji, the filing requirements are useful. @Servas, the ledger is essential. I also want to visit the station block’s bin house to see what living beside one is truly like.
+- [17] **Asuka**: @Kenji, the filing requirements are crucial for the timeline. @Shizue, the bin house visit is wise. I will check the ward filing requirements and the truck arrival time.
+- [18] **Rin**: @Asuka, I will check the ward complaint log and the measurements of the five frontages. I need to see if the burden is truly shared or just hidden.
+- [19] **Servas**: @Asuka, your focus on the filing requirements is sharp. I will examine the block ledger and the ward subsidy to understand our financial footing before we proceed.
+- [20] **Kenji**: @Shizue, your idea to visit the station block is brilliant. I will check the station block’s meeting minutes and the statements from the residents’ meeting to see how this actually feels for neighbors.
+- [21] **Shizue**: @Kenji, I am glad you are looking into the minutes. I will check the station block’s bin house and the ward complaint log to understand the daily reality.
+- [22] **Asuka**: I will confirm my choices: the ward filing requirements and the truck arrival time. These define the operational limits we must respect.
+- [23] **Rin**: I will confirm my choices: the ward complaint log and the measurements of the five frontages. I need to see if the burden is truly shared or just hidden.
+- [24] **Servas**: I will confirm my choices: the block ledger and the ward subsidy. We must know our financial footing before we proceed.
+## Round 2
+- [35] **Kenji**: #### Turn 1 of 4
+- [36] **Shizue**: #### Turn 1 of 4
+- [37] **Asuka**: - **Asuka**: The filing clerk says a permanent build needs four months and five signatures. The truck arrives between seven forty and eight fifteen.
+- [38] **Rin**: - **Rin**: The complaint log shows fourteen entries, and eleven were from the house with the gate. The frontages are wildly uneven too.
+- [39] **Servas**: The ledger shows thirty-four thousand yen yearly in fees, and the subsidy caps at ninety thousand. We must weigh this carefully.
+- [40] **Kenji**: #### Turn 2 of 4
+- [41] **Shizue**: - **Shizue**: @Rin, I am so sorry to hear that one household has carried such a heavy burden. That is truly unfair.
+- [42] **Asuka**: - **Asuka**: @Rin, that confirms the imbalance. @Servas, with a ninety thousand cap and two hundred forty-eight thousand average cost, the subsidy barely covers a third.
+- [43] **Rin**: #### Turn 2 of 4
+- [44] **Servas**: @Asuka, you are right. The subsidy is a small comfort against the true cost. We must plan for the full burden.
+- [45] **Kenji**: #### Turn 3 of 4
+- [46] **Shizue**: - **Shizue**: @Kenji, I am worried. The bin house smells worse by midsummer, and the log shows one family is already suffering.
+- [47] **Asuka**: - **Asuka**: @Shizue, the smell is a fact, but the window is the trap. If the truck comes at seven forty, we are awake before we are ready.
+- [48] **Rin**: @Asuka, the truck time is tight, but the frontage measurements prove the current spot is physically unfair. We cannot ignore that.
+- [49] **Servas**: @Rin, the physical unfairness is clear. @Shizue, the smell is a daily reality. We must find a solution that respects both the budget and the well-being of our neighbors.
+- [50] **Kenji**: @Shizue, the smell is real, but the minutes show they fought over sweeping within two years. We need a plan that doesn’t just move the mess, but keeps us talking.
+- [51] **Shizue**: @Kenji, you are right. We must not just move the problem. I worry that a permanent structure might trap us in that same sour smell, just like the station block.
+- [52] **Asuka**: @Kenji, the minutes confirm the friction. @Rin, the frontage data proves the current spot is physically impossible for some. We need a rotation.
+- [53] **Rin**: @Asuka, a rotation sounds fair, but the filing clerk says every move needs its own notice. Is that practical, or just more paperwork?
+- [54] **Servas**: @Rin, the paperwork is a burden, but so is the silence. We must choose a path that keeps our doors open, not just our ledgers balanced.
+## Round 3
+- [60] **Kenji**: The ward office presents three paths: a permanent enclosure, a rotating location, or managed collection hours. Which keeps our doors open?
+- [61] **Shizue**: - **Shizue**: @Kenji, I fear the enclosure brings the smell, and the rotation brings the paperwork. Perhaps the managed hours let us keep our peace?
+- [62] **Asuka**: - **Asuka**: @Shizue, managed hours mean waking before seven forty. The filing rules make rotation impractical. The enclosure is the only stable option.
+- [63] **Rin**: @Asuka, stable is not the same as fair. The measurements show the current spot is physically impossible for some. I cannot support a permanent enclosure that locks in that inequality.
+- [64] **Servas**: @Rin, you are right that fairness matters. @Asuka, the hours are tight, but a rotation means constant change. Let us weigh the cost of peace against the cost of movement.
+- [65] **Kenji**: @Asuka, the enclosure is stable, but the minutes show it breeds resentment. @Rin, the rotation is fair, but the paperwork is heavy. Which burden can we share?
+- [66] **Shizue**: @Kenji, I worry the rotation is too much trouble for us all. The managed hours seem gentlest, if we can manage the early wake-up.
+- [67] **Asuka**: @Shizue, gentle is not sustainable. The residents’ meeting showed nobody volunteers to enforce the window. I cannot support a plan that relies on our goodwill failing.
+- [68] **Rin**: @Asuka, the residents’ meeting proves managed hours fail because people won’t enforce them. The rotation is the only option that actually shares the burden fairly.
+- [69] **Servas**: @Rin, the rotation shares the burden, but the filing clerk says every move needs its own notice. Is that practical, or just more paperwork?
+- [70] **Kenji**: #### Turn 3 of 4
+- [71] **Shizue**: #### Turn 3 of 4
+- [72] **Asuka**: - **Asuka**: @Servas, the paperwork is a one-time administrative task, not a daily drain. The hours option is a daily drain on our sleep.
+- [73] **Rin**: #### Turn 3 of 4
+- [74] **Servas**: @Asuka, you are right. The daily drain is heavier than the one-time task. Let us choose the rotation, for it is the only path that truly shares the weight.
+- [75] **Kenji**: - **Kenji**: @Servas, I agree. The rotation is the only way we keep our doors open. I vote for the rotating location.
+- [76] **Shizue**: - **Shizue**: @Kenji, I am relieved. A fair rotation means no one suffers alone. I vote for the rotating location.
+- [77] **Asuka**: - **Asuka**: @Kenji, I concede. The rotation is the only option that does not break us. I vote for the rotating location.
+- [78] **Rin**: @Kenji, I am glad we found a path that is truly fair. I vote for the rotating location.
+- [79] **Servas**: @Kenji, I am glad we found a path that is truly fair. I vote for the rotating location.
+### Vote
+- Kenji -> B
+- Shizue -> B
+- Asuka -> B
+- Rin -> B
+- Servas -> B
+## Result
+- adopted: B

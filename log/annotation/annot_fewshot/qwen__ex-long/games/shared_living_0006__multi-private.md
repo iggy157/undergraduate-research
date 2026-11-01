@@ -1,0 +1,73 @@
+# shared_living_0006__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: I will examine the last year's ledger of outgoings and the sign-up records for mid-year joiners. We need to verify if the current structure actually reflects the real financial burden.
+- [6] **Benjamin**: I’ll review the outgoing treasurer’s logged hours and the bank statements on last year's renewals. We must understand the true administrative cost before setting a single yen.
+- [7] **Jonathan**: I’ll check the tally of the sign-in sheets and the rota against the attendance record. I need to see who is actually present and who is doing the work.
+- [8] **Shunichi**: I’ll check the weekday turnout since the summer outings and the quieter members at the winter social. I need to see if the hesitation is real or just my imagination.
+- [9] **Takumi**: I’ll check the last year's ledger of outgoings and the bank statements on last year's renewals. I refuse to guess next year’s costs like we did last time.
+- [10] **Asuka**: @Benjamin, administrative hours are a cost, but they don’t explain why newcomers hesitate. I need to see if the fee structure itself is the barrier.
+- [11] **Benjamin**: @Asuka, hesitation is a symptom, not the cause. If the books are a nightmare, no fee structure will fix the underlying rot.
+- [12] **Jonathan**: @Shunichi, I hear the hesitation. But I need to know if the same dozen faces are doing all the work while others barely show up.
+- [13] **Shunichi**: @Jonathan, the work is fine. The problem is the silence. I’m checking the turnout and the quiet ones to see if the fee is making people feel like guests in their own club.
+- [14] **Takumi**: @Shunichi, silence is just fear of the unknown. If we don’t know the real costs, people won’t trust us. I’m checking the ledger to stop the guessing game.
+- [15] **Asuka**: @Jonathan, attendance data is useful, but it doesn't explain the social friction. I need to verify if the fee structure is actually deterring the newcomers we need.
+- [16] **Benjamin**: @Jonathan, attendance is a symptom, not the cause. If the books are a nightmare, no fee structure will fix the underlying rot.
+- [17] **Jonathan**: @Benjamin, I understand the books matter. But if the work is uneven, the fee feels unfair. I need to see who is actually carrying the load.
+- [18] **Shunichi**: @Benjamin, rot is a choice, not a ledger. I’m watching the quiet ones to see if the fee makes them feel like guests in their own home.
+- [19] **Takumi**: @Benjamin, rot is just bad planning. I’m checking the ledger to find the real numbers. No more guessing!
+- [20] **Asuka**: I will examine the last year's ledger of outgoings and the sign-up records for mid-year joiners. We need to verify if the current structure actually reflects the real financial burden.
+- [21] **Benjamin**: I will examine the outgoing treasurer’s logged hours and the bank statements on last year's renewals. We must understand the true administrative cost before setting a single yen.
+- [22] **Jonathan**: I will examine the tally of the sign-in sheets and the rota against the attendance record. I need to see who is actually present and who is doing the work.
+- [23] **Shunichi**: I will examine the weekday turnout since the summer outings and the quieter members at the winter social. I need to see if the hesitation is real or just my imagination.
+- [24] **Takumi**: I will examine the last year's ledger of outgoings and the bank statements on last year's renewals. I refuse to guess next year’s costs like we did last time.
+## Round 2
+- [35] **Asuka**: @Benjamin, the ledger shows seventy percent of costs are fixed, regardless of attendance. The sign-up records reveal eleven mid-year joiners, each requiring manual calculation. This administrative burden is unsustainable.
+- [36] **Benjamin**: @Asuka, the ledger is a map, not the territory. My hours show chasing individual payments takes six hours monthly, versus one for yearly. We must stop the administrative bleed.
+- [37] **Jonathan**: @Shunichi, the data is stark. A quarter of us do two-thirds of the work, and eighteen never show. The same nine handle setup. Is the fee truly fair?
+- [38] **Shunichi**: @Jonathan, the numbers are cold, but the silence is loud. Turnout dropped a third after the door charge. People stopped feeling like they belonged.
+- [39] **Takumi**: @Benjamin, six hours chasing payments is a disaster! The bank statements show a third needed reminders. We need a system that doesn’t rely on nagging people.
+- [40] **Asuka**: @Shunichi, the door charge is a barrier. If the fee feels like a toll, newcomers drift away. We need a structure that preserves anonymity and ease of entry, not one that polices attendance.
+- [41] **Benjamin**: @Takumi, precisely. The data confirms the rot. We must shift to a model that minimizes the administrative burden, or we lose the next treasurer entirely.
+- [42] **Jonathan**: @Benjamin, I agree. But if the same nine carry the load, a flat fee feels like a tax on the absent. We need to see if the work justifies the cost.
+- [43] **Shunichi**: @Benjamin, the rot is social, not financial. If the fee feels like a toll, people stop showing up. We need to fix the belonging, not just the books.
+- [44] **Takumi**: @Shunichi, belonging is great, but you can’t pay for it with empty promises! I need hard numbers to stop the guessing.
+- [45] **Asuka**: @Jonathan, the ledger proves costs are fixed, not variable. A flat fee is the only logical structure. It preserves the anonymity that keeps newcomers comfortable, without penalizing those who attend less.
+- [46] **Benjamin**: @Jonathan, the ledger proves the administrative cost is the variable, not the attendance. A flat fee eliminates the six-hour monthly chase. I support Asuka’s logic.
+- [47] **Jonathan**: @Asuka, I hear the logic. But if the same nine do the work, a flat fee feels like a tax on the absent. I need to see if the effort justifies the cost.
+- [48] **Shunichi**: @Jonathan, the work is shared, but the hesitation is personal. If the fee feels like a toll, people stop showing up. We need to fix the belonging, not just the books.
+- [49] **Takumi**: @Jonathan, the ledger shows seventy percent is fixed! You can’t split that by attendance. I need a flat fee so we stop guessing and start planning.
+- [50] **Asuka**: I will examine the last year's ledger of outgoings and the sign-up records for mid-year joiners. We need to verify if the current structure actually reflects the real financial burden.
+- [51] **Benjamin**: I stand by my position. The data is clear: yearly collection minimizes the administrative bleed. We must protect the next treasurer from this burden.
+- [52] **Jonathan**: I stand by my concern. The data shows a stark imbalance. I need to understand if the fee structure can reflect that reality, or if we must accept the flat rate.
+- [53] **Shunichi**: I stand by my concern. The data confirms the hesitation is real. We need a fee that feels like belonging, not a toll.
+- [54] **Takumi**: I stand by my position. The numbers are clear. We need a flat fee to stop the guessing game and protect the account. No more chaos!
+## Round 3
+- [60] **Asuka**: @Benjamin, Option A is the only logical choice. It preserves the anonymity that allows newcomers to drift in without scrutiny. Option B’s tiers expose everyone’s participation level, destroying the social fabric.
+- [61] **Benjamin**: @Asuka, Option A is the only one that respects the treasurer’s sanity. Option C’s per-event chasing is the six-hour nightmare I just documented. I vote A.
+- [62] **Jonathan**: @Asuka, I hear the logic. But if the same nine carry the load, a flat fee feels like a tax on the absent. I need to see if the effort justifies the cost.
+- [63] **Shunichi**: @Jonathan, the data proves the toll kills belonging. Option C is a toll booth. Option A is a key. I vote A to stop the hesitation.
+- [64] **Takumi**: @Benjamin, Option A is the only way to stop the chaos! No more reminders, no more guessing. I vote A to protect the account and the treasurer!
+- [65] **Asuka**: @Jonathan, the ledger proves costs are fixed, not variable. Option B’s tiers expose participation, destroying the anonymity that lets newcomers drift in. I vote A to preserve that ease.
+- [66] **Benjamin**: @Jonathan, the data is unambiguous. Option C is the administrative nightmare I documented. Option A is the only choice that protects the next treasurer from burnout. I vote A.
+- [67] **Jonathan**: @Benjamin, I understand the administrative burden. But if the same nine do the work, a flat fee feels like a tax on the absent. I need to see if the effort justifies the cost.
+- [68] **Shunichi**: @Jonathan, the data is clear. Option C is a toll booth that kills belonging. Option A is a key. I vote A to stop the hesitation.
+- [69] **Takumi**: @Jonathan, the ledger shows seventy percent is fixed! You can’t split that by attendance. Option A is the only way to stop the guessing game. I vote A!
+- [70] **Asuka**: @Jonathan, the ledger proves costs are fixed. Option B’s tiers expose participation, destroying the anonymity that lets newcomers drift in. I vote A to preserve that ease.
+- [71] **Benjamin**: @Jonathan, the data is unambiguous. Option C is the administrative nightmare I documented. Option A is the only choice that protects the next treasurer from burnout. I vote A.
+- [72] **Jonathan**: @Benjamin, I hear the burnout risk. But if the same nine carry the load, a flat fee feels like a tax on the absent. I need to see if the effort justifies the cost.
+- [73] **Shunichi**: @Jonathan, the hesitation is the real cost. Option C is a toll booth that kills belonging. Option A is a key. I vote A to stop the hesitation.
+- [74] **Takumi**: @Jonathan, I hear you, but the numbers don't lie! Seventy percent is fixed. Option A is the only way to stop the chaos. I vote A!
+- [75] **Asuka**: @Jonathan, the ledger proves costs are fixed. Option B’s tiers expose participation, destroying the anonymity that lets newcomers drift in. I vote A to preserve that ease.
+- [76] **Benjamin**: @Jonathan, the data is unambiguous. Option C is the administrative nightmare I documented. Option A is the only choice that protects the next treasurer from burnout. I vote A.
+- [77] **Jonathan**: @Benjamin, I hear the burnout risk. But if the same nine carry the load, a flat fee feels like a tax on the absent. I need to see if the effort justifies the cost.
+- [78] **Shunichi**: @Jonathan, the hesitation is the real cost. Option C is a toll booth that kills belonging. Option A is a key. I vote A to stop the hesitation.
+- [79] **Takumi**: @Jonathan, I hear you, but the numbers don't lie! Seventy percent is fixed. Option A is the only way to stop the chaos. I vote A!
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> A
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

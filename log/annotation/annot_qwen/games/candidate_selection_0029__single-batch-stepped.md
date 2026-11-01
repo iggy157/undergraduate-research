@@ -1,0 +1,73 @@
+# candidate_selection_0029__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about who will actually stand in the room when the season starts.
+- [6] **Shion**: We need to know where past deliveries failed, not just where they were planned.
+- [7] **May**: The record of what people actually enjoyed matters more than our pride.
+- [8] **Misaki**: The building itself has limits that we often forget until it is too late.
+- [9] **Sakura**: I want to see where the money goes before the invoices surprise us.
+- [10] **Shizue**: @Shion, do you have specific incidents in mind?
+- [11] **Shion**: Yes, the last two openings had late paperwork. It is a pattern.
+- [12] **May**: I agree. We should look at visitor feedback to see what sticks.
+- [13] **Misaki**: I am concerned about the structural capacity of the suspended bay.
+- [14] **Sakura**: I will check the transport costs and the joiner's rates.
+- [15] **Shizue**: I will look at the volunteer roster and the conservation lab staffing.
+- [16] **Shion**: I will investigate the lender paperwork and the loan transport costs.
+- [17] **May**: I will review the weekend head counts and the visitor comment slips.
+- [18] **Misaki**: I will check the structural survey and the maintenance log for powered displays.
+- [19] **Sakura**: I will look into the mount-making charges and the evening hire bookings.
+- [20] **Shizue**: It is good that we are all looking at different angles.
+- [21] **Shion**: Let us see what the data says before we decide.
+- [22] **May**: I hope the numbers tell a clear story.
+- [23] **Misaki**: The building must be safe first.
+- [24] **Sakura**: I am excited to see where the budget really goes.
+## Round 2
+- [35] **Shizue**: The volunteer roster is mostly the town history circle, and the lab is short-staffed.
+- [36] **Shion**: The paperwork delays are real, and transport costs are a third of installation.
+- [37] **May**: People come back for live demonstrations, not just static cases.
+- [38] **Misaki**: The bay has a weight limit, and powered displays need frequent maintenance.
+- [39] **Sakura**: Joiner rates are up, and evening hires damage open displays.
+- [40] **Shizue**: @Misaki, does the weight limit rule out heavy stonework?
+- [41] **Shion**: Yes, and the transport costs make loans expensive.
+- [42] **May**: So we need something with people present, but not too heavy.
+- [43] **Misaki**: The maintenance log shows many call-outs for moving parts.
+- [44] **Sakura**: That means we should avoid complex powered installations.
+- [45] **Shizue**: The town history circle could guide a local history show.
+- [46] **Shion**: But the transport costs for loans are high.
+- [47] **May**: Local items would avoid those costs.
+- [48] **Misaki**: And they would fit the structural limits.
+- [49] **Sakura**: And the joiner's rate would be lower for local items.
+- [50] **Shizue**: It seems like a local exhibition is the safest bet.
+- [51] **Shion**: I agree, the risks are lower.
+- [52] **May**: And the visitors will enjoy the live elements.
+- [53] **Misaki**: The building will be safe.
+- [54] **Sakura**: And the budget will be predictable.
+## Round 3
+- [60] **Shizue**: We have four candidates. A is local textiles, B is city digs, C is light and motion, D is maritime.
+- [61] **Shion**: C is risky because of the maintenance and weight.
+- [62] **May**: A has live demonstrations, which visitors love.
+- [63] **Misaki**: B might be too heavy for the bay.
+- [64] **Sakura**: D has high transport costs for loans.
+- [65] **Shizue**: A seems to fit all our concerns.
+- [66] **Shion**: I agree. It avoids the transport and structural issues.
+- [67] **May**: And it has the live element people want.
+- [68] **Misaki**: It is safe for the building.
+- [69] **Sakura**: And the budget is manageable.
+- [70] **Shizue**: I vote for A.
+- [71] **Shion**: I vote for A.
+- [72] **May**: I vote for A.
+- [73] **Misaki**: I vote for A.
+- [74] **Sakura**: I vote for A.
+- [75] **Shizue**: It is unanimous.
+- [76] **Shion**: Good.
+- [77] **May**: I am happy with this choice.
+- [78] **Misaki**: The building will be safe.
+- [79] **Sakura**: I am excited to see it.
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

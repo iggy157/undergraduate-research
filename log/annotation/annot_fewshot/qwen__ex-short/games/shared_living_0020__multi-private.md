@@ -1,0 +1,73 @@
+# shared_living_0020__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: The current rotation is failing because the time required is underestimated. I need to know the actual hours involved.
+- [6] **Benjamin**: I suspect the "done" standard is the real culprit, not the hours. Let’s verify what we actually agree on before blaming the clock.
+- [7] **Sakura**: I keep guessing if the bathroom is ready! I want to stop the mystery and just know what "clean" means for everyone.
+- [8] **Shizue**: I worry about the small costs piling up. Who is buying the sponges and bleach lately?
+- [9] **Servas**: I care less about the rooms than about our peace. Let us ensure this arrangement keeps us speaking kindly to one another.
+- [10] **Minako**: @Benjamin, the standard matters, but I need the raw time data first. If the task takes three hours, no definition fixes the burnout.
+- [11] **Benjamin**: @Minako, Fair point. But if "done" is vague, your stopwatch just measures chaos. Let’s define the finish line before we time the race.
+- [12] **Sakura**: @Benjamin, I agree! If we don't know the finish line, how can we even start? Let's make a checklist so I stop guessing!
+- [13] **Shizue**: @Sakura, a checklist sounds lovely. But I also need to see the receipts for the supplies. Who is footing the bill right now?
+- [14] **Servas**: @Shizue, I hear your worry. But let us also look at the previous tenants' note. Their wisdom might guide our harmony.
+- [15] **Minako**: @Servas, their note is history, not data. I need the stopwatch timing to see the true load.
+- [16] **Benjamin**: @Minako, I concede the stopwatch is useful, but only if the task is defined. Let’s look at the "done" standard and the actual usage patterns.
+- [17] **Sakura**: @Minako, I love the stopwatch idea! But please check the grout too. I need to know if it’s actually clean or just looks it!
+- [18] **Shizue**: @Minako, the stopwatch is good, but I must see the spray receipts. I need to know exactly what we are spending each month.
+- [19] **Servas**: @Minako, I understand your need for precision. Yet, let us also examine the rows in the house chat. Understanding our friction helps us preserve our bonds.
+- [20] **Minako**: I will look into the stopwatch timing of a full pass and what each housemate counts as done.
+- [21] **Benjamin**: I will look into what each housemate counts as done and a fortnight's watch on kitchen use.
+- [22] **Sakura**: I will look into the bathroom grout after the July scrub and what each housemate counts as done.
+- [23] **Shizue**: I will look into the bathroom spray stock and the tin's receipts and the management office rate sheet and billing.
+- [24] **Servas**: I will look into the rows recorded in the house chat and the note left by the previous tenants.
+## Round 2
+- [35] **Minako**: The timing confirms my fear: over two hours per pass. The inconsistent standards make it worse. We need a fixed definition.
+- [36] **Benjamin**: @Minako, The data is damning. Two people cook, three make coffee, yet the burden is equal. We must weight the work by actual usage, not just presence.
+- [37] **Sakura**: @Minako, two hours is scary! And the grout gets black again in eleven days because the window is tiny. We need a better plan!
+- [38] **Shizue**: @Minako, two hours is a lot. I found the spray costs 2,300 yen monthly, often bought twice. We must track who pays.
+- [39] **Servas**: @Minako, the previous tenants divided rooms permanently and stopped speaking by year two. We must avoid that silence.
+- [40] **Minako**: @Benjamin, weighting by usage is logical, but the two-hour block is the real bottleneck. I need to know if we can split that time to protect my schedule.
+- [41] **Benjamin**: @Minako, Splitting the time is sensible, but only if the tasks are defined. We cannot slice a vague two-hour block into fairer pieces.
+- [42] **Sakura**: @Benjamin, I agree! If we split the two hours, I can handle the grout before it turns black again. It feels much more doable!
+- [43] **Shizue**: @Benjamin, I agree. But the 2,300 yen in supplies is a separate worry. I need to know if the management office can bill us directly to avoid confusion.
+- [44] **Servas**: @Shizue, tracking the money is wise, but the previous tenants’ silence was born from rigid division. Let us ensure our system invites conversation, not just compliance.
+- [45] **Minako**: @Sakura, splitting the block is key. If I handle the kitchen, you take the bathroom, we avoid the two-hour pileup.
+- [46] **Benjamin**: @Minako, I support splitting the block, but we must weight the kitchen share. Two cooks cannot pay the same as three coffee drinkers.
+- [47] **Sakura**: @Minako, I love that! If I just do the bathroom, I can check the grout every few days. No more guessing if it’s ready!
+- [48] **Shizue**: @Minako, splitting the time helps, but I worry about the 4,200 yen hourly rate if we hire help. I need to see how that compares to our current costs.
+- [49] **Servas**: @Minako, I agree. But let us also look at the chat logs. The rows started with forgotten reminders. A system that invites gentle check-ins prevents that silence.
+- [50] **Minako**: I will look into the stopwatch timing of a full pass and what each housemate counts as done.
+- [51] **Benjamin**: I will look into the stopwatch timing of a full pass and the standard terms of the outside firm.
+- [52] **Sakura**: I will look into the bathroom grout after the July scrub and what each housemate counts as done.
+- [53] **Shizue**: I will look into the bathroom spray stock and the tin's receipts and the management office rate sheet and billing.
+- [54] **Servas**: I will look into the rows recorded in the house chat and the note left by the previous tenants.
+## Round 3
+- [60] **Minako**: Option C protects my schedule. Permanent ownership means I control the timing, avoiding the unpredictable two-hour pileups that ruin my training.
+- [61] **Benjamin**: @Minako, Option C is a trap. It locks the heavy kitchen load onto the same two cooks forever. I need the burden to shift, not calcify.
+- [62] **Sakura**: @Benjamin, I like Option C! If I own the bathroom, I can scrub the grout whenever I want. No more guessing if it’s ready!
+- [63] **Shizue**: @Sakura, I understand the appeal of control. But I worry about the 4,200 yen hourly rate if we hire help. I need to see how that compares to our current costs.
+- [64] **Servas**: @Benjamin, I hear your caution. Yet the previous tenants’ silence came from rigid division. Option C risks that same isolation. We must choose wisely.
+- [65] **Minako**: @Benjamin, I hear your concern about the kitchen. But I can manage the load if I control the timing. I need to protect my training hours.
+- [66] **Benjamin**: @Minako, controlling timing doesn't fix the imbalance. If you own the kitchen, you carry the heavy load permanently. I need the burden to rotate, not stay static.
+- [67] **Sakura**: @Benjamin, but if I own the bathroom, I can check the grout every few days! No more guessing if it’s ready!
+- [68] **Shizue**: @Benjamin, I agree the kitchen is heavy. But I worry about the 2,300 yen in supplies. Who pays for the bleach and sponges under Option C?
+- [69] **Servas**: @Shizue, the money is a detail. The real danger is silence. Option C risks the same isolation the previous tenants faced. We must choose connection over convenience.
+- [70] **Minako**: @Benjamin, I accept the kitchen is heavy. But Option A’s rigid rotation ignores my training schedule. I need the flexibility of C to manage my time effectively.
+- [71] **Benjamin**: @Minako, flexibility is a luxury, not a solution. If the kitchen stays static, the imbalance remains. Option A’s rotation, however imperfect, at least distributes the weight.
+- [72] **Sakura**: @Benjamin, I know the kitchen is heavy, but I just want to stop guessing about the bathroom! If I own it, I can keep the grout clean and happy!
+- [73] **Shizue**: @Benjamin, I agree the kitchen is heavy. But I worry about the 2,300 yen in supplies. Who pays for the bleach and sponges under Option C?
+- [74] **Servas**: @Minako, I understand your need for control. Yet, the previous tenants’ silence warns us. Let us choose an option that keeps our doors open and our words kind, not just our schedules neat.
+- [75] **Minako**: I am voting for C.
+- [76] **Benjamin**: I am voting for A.
+- [77] **Sakura**: I am voting for C!
+- [78] **Shizue**: I am voting for A.
+- [79] **Servas**: I am voting for A.
+### Vote
+- Minako -> C
+- Benjamin -> A
+- Sakura -> C
+- Shizue -> A
+- Servas -> A
+## Result
+- adopted: A

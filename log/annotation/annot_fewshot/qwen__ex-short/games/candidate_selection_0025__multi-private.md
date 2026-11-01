@@ -1,0 +1,73 @@
+# candidate_selection_0025__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry about how often our plans slipped when the weather or roads turned against us.
+- [6] **Jonathan**: I am concerned about how our building locations and opening hours determine who can actually reach us.
+- [7] **Rin**: I hate when we pretend old projects never happened. I want to see what actually worked before we pick something new.
+- [8] **Benjamin**: I suspect the funding structure is the real culprit, not the size of the budget.
+- [9] **Minako**: I am worried that we keep adding new duties without checking if the staff actually have the skills to handle them.
+- [10] **Shizue**: @Jonathan, the roads are a real barrier. I wonder if our hours match when people can actually travel safely.
+- [11] **Jonathan**: @Shizue, exactly. If the roads close, our hours become meaningless. I need to see if our schedule aligns with safe travel windows.
+- [12] **Rin**: @Benjamin, funding is important, but I think we are ignoring the past. We need to check the records of the two programmes from six years ago.
+- [13] **Benjamin**: @Rin, I agree. But I suspect the funding shape, not the size, is the real issue. I will check the grant terms.
+- [14] **Minako**: @Rin, I agree. We need to know if the skills for those old programmes are still on the roster. I will check the volunteer register.
+- [15] **Shizue**: @Minako, that is wise. If the skills are gone, the new duties will just add stress. I will look at the winter road closures.
+- [16] **Jonathan**: @Minako, that is a valid concern. I will examine the bus links in the outer wards to see if our hours match their schedules.
+- [17] **Rin**: @Minako, yes, skills matter. But I really need to see the attendance sheets from the old outreach stops. Did people actually show up?
+- [18] **Benjamin**: @Rin, attendance is vital, but I suspect the money dried up before the project did. I will check the running and equipment lines.
+- [19] **Minako**: @Benjamin, the equipment lines might show if we are over-relying on specific staff. I will check the supervision training records to see who is actually qualified.
+- [20] **Shizue**: I will also look at the quoted delivery windows from suppliers. If parts arrive late, our plans slip further.
+- [21] **Jonathan**: I will also check the evening room bookings and remote catalogue use. That tells me when people actually need us to be open.
+- [22] **Rin**: I will also check the two programmes begun six years ago. I need to see the final reports to know if they actually succeeded or just stopped.
+- [23] **Benjamin**: I will also check the county grant terms and the endowment. I need to see if the funding is structured to last or just to look good on paper.
+- [24] **Minako**: I will also check the neighbourhood associations and tool certification. I need to know if the community has the skills to support new duties without straining our staff.
+## Round 2
+- [35] **Shizue**: The roads closed eleven days, yet the halls kept their evening schedules. That is a gentle reminder that we can plan around the weather.
+- [36] **Jonathan**: The bus data is stark. Two wards lost their links, forcing an hour’s trip. Our hours must adapt to that reality.
+- [37] **Rin**: The old outreach stops drew forty people, more than our main building! And the evening groups still meet without help. We should trust what already works.
+- [38] **Benjamin**: The grant covers sessions for a year, then the flat budget absorbs them. The vehicle line overran by a third. The funding shape is the trap.
+- [39] **Minako**: The register shows retired tradespeople running the repair clinic, but no payroll staff can supervise them. The tool certification lapsed when the technician retired.
+- [40] **Shizue**: @Rin, that is wonderful. The evening groups persisting despite the road closures shows real community resilience. We should build on that steady foundation.
+- [41] **Jonathan**: @Rin, that persistence is key. But my data shows remote use peaks after nine, when we lock up. We must extend hours to match that demand.
+- [42] **Rin**: @Jonathan, wait! If people use the catalogue at night, why do we need a new building? Maybe we just need to keep the lights on longer.
+- [43] **Benjamin**: @Jonathan, extending hours sounds simple, but the vehicle line overran by a third. Who pays for the extra fuel and wear?
+- [44] **Minako**: @Benjamin, the vehicle overrun is a symptom. The real gap is supervision. No one on payroll can manage the volunteers. We need to fix that first.
+- [45] **Shizue**: @Minako, you are right. If the supervision is missing, adding more duties will only cause confusion. We must ensure the helpers are ready before we ask for more.
+- [46] **Jonathan**: @Minako, I agree. But if we extend hours, we need staff to be present. The remote peak suggests we need a different kind of presence, not just more bodies.
+- [47] **Rin**: @Minako, exactly! The evening groups prove people will show up if we just let them. We need to stop building new things and start supporting the old ones that actually work.
+- [48] **Benjamin**: @Minako, supervision is a staffing issue, but the grant structure is a financial one. Once the year ends, the flat budget absorbs the cost. That is where the trap lies.
+- [49] **Minako**: @Benjamin, the financial trap is real, but it is secondary. If we cannot supervise the existing volunteers, adding new funded duties will just create chaos.
+- [50] **Shizue**: @Benjamin, the delivery windows are a worry. If a large client books first, our parts slip. We must choose projects that do not depend on those fragile timelines.
+- [51] **Jonathan**: @Shizue, I agree. But my data shows the real gap is after nine. We need to match our presence to when people actually need us, not just when parts arrive.
+- [52] **Rin**: @Shizue, I agree. But the digitisation project failed because nobody checked the records. We must avoid repeating that mistake by looking at what already succeeded.
+- [53] **Benjamin**: @Shizue, delivery windows are a symptom. The real issue is that the grant vanishes after twelve months, leaving the flat budget to absorb the shock.
+- [54] **Minako**: @Shizue, delivery windows matter, but they are secondary. If the staff cannot supervise the new duties, late parts just add to the existing chaos.
+## Round 3
+- [60] **Shizue**: I am drawn to the Mobile Branch. It brings us to people, avoiding the fragile delivery windows I found.
+- [61] **Jonathan**: The Mobile Branch directly addresses the lost bus links. It brings the service to the outer wards, solving the access gap I identified.
+- [62] **Rin**: The old outreach stops proved people will come to us! The Mobile Branch is basically that, but with a real vehicle. I want to see it work again.
+- [63] **Benjamin**: The Mobile Branch is a financial trap. My data shows vehicle costs overran by a third. The grant vanishes after a year, leaving the flat budget to bleed.
+- [64] **Minako**: The Mobile Branch needs a driver and a supervisor. My data shows no one on payroll is trained to manage that. It is a staffing gap.
+- [65] **Shizue**: @Benjamin, the vehicle costs are a real worry. But the halls kept their schedules despite the road closures. Perhaps we can plan around the weather, as they did.
+- [66] **Jonathan**: @Benjamin, the vehicle cost is a concern, but the access gap is immediate. If we do not reach those wards, the service fails before it starts.
+- [67] **Rin**: @Benjamin, the old stops worked because people showed up! The vehicle cost is scary, but the attendance proves the demand is real.
+- [68] **Benjamin**: @Rin, attendance proves demand, not sustainability. The grant ends, the vehicle line overruns, and the flat budget absorbs the shock. That is the trap.
+- [69] **Minako**: @Benjamin, the financial trap is real, but the staffing gap is immediate. If we cannot supervise the driver, the vehicle just sits idle. We must fix the roster first.
+- [70] **Shizue**: @Minako, you are right. We must ensure the helpers are ready. I will look at the volunteer register to see if we have the skills to support this new duty.
+- [71] **Jonathan**: @Minako, the staffing gap is real, but the access gap is deeper. If we cannot reach those wards, no amount of supervision helps. We must prioritize the route.
+- [72] **Rin**: @Minako, the evening groups prove people self-organize! We don't need a new supervisor; we need to trust the community to keep the lights on.
+- [73] **Benjamin**: @Minako, supervision is a staffing fix, but the funding structure is a design flaw. Once the grant expires, the flat budget absorbs the vehicle overrun. That is the real trap.
+- [74] **Minako**: @Rin, trust is not a supervision plan. The tool certification lapsed because no one checked. We cannot assume the community will fill the safety gaps.
+- [75] **Shizue**: @Benjamin, the vehicle worry is valid. But the Digital Archive uses stock tools, avoiding the fragile delivery windows I found. It feels more stable for our timetables.
+- [76] **Jonathan**: @Shizue, the Archive is remote, but my data shows the peak demand is after nine. A portal does not solve the physical access gap in the outer wards.
+- [77] **Rin**: @Jonathan, the old digitisation project failed because nobody finished the job! A portal is just a fancy way to leave half the work undone. I hate that idea.
+- [78] **Benjamin**: @Rin, the Archive avoids the vehicle trap. It uses existing staff and avoids the grant cliff. The funding shape is finally sensible.
+- [79] **Minako**: @Benjamin, the Archive is a relief. It uses existing digital skills, so no new supervision is needed. It avoids the staffing gap I found.
+### Vote
+- Shizue -> D
+- Jonathan -> A
+- Rin -> A
+- Benjamin -> D
+- Minako -> D
+## Result
+- adopted: D

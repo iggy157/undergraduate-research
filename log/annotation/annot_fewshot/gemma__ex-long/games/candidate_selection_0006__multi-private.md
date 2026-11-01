@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Hello everyone. It is a pleasure to meet you all. I hope we can work together harmoniously to choose a program that truly benefits our patients and supports our staff. I look forward to our discussion.
+- [6] **Jonathan**: It is a pleasure to be here with you. I believe a gentle and thoughtful approach will lead us to the right decision. I look forward to our collaboration.
+- [7] **Misaki**: Hello. I agree. Let's keep our discussion focused and objective to ensure we make the most practical choice for the hospital.
+- [8] **Shion**: It is a pleasure to meet you all. I trust we can avoid the usual pitfalls of optimism and instead approach this selection with a cold, logical eye for what is actually sustainable.
+- [9] **Shizue**: Hello everyone. It is such a joy to be here with you all. Let us be kind to one another as we seek a path that brings comfort to our patients and peace to our hardworking staff.
+- [10] **Midori**: I believe it is important to understand why some of our previous initiatives have struggled over time. I would like to look into the board minutes on a jointly run clinic and the data agreements with outside surgeries.
+- [11] **Jonathan**: I agree that looking back is wise. To understand the actual impact of our past efforts, I shall examine the readmission figures during the call-back trial and the visit completion on the shared nursing round.
+- [12] **Misaki**: I believe we need to understand the current pressure on our teams. I will look into the ward nursing vacancies and agency cover, as well as the therapy and midwifery staffing review.
+- [13] **Shion**: I shall examine this year's development allocation in the ledger and the regional fund tariffs by contact location. It is far too easy to ignore the actual costs of maintenance in favor of a shiny new start.
+- [14] **Shizue**: I think it would be very helpful to see how our space is holding up. I shall look into the rooms, parking and shuttle coverage, and what the booking system records. We must ensure we have room for everyone.
+- [15] **Midori**: I think we have a very balanced approach. By looking at both the administrative agreements and the physical capacity, we can ensure the program we choose is truly sustainable. I am happy with our choices.
+- [16] **Jonathan**: I agree. By blending the lessons of the past with the realities of our current resources, we can find a path that is both meaningful and sustainable. I am content to proceed.
+- [17] **Misaki**: I agree. We have covered the financial, spatial, and operational aspects. I believe this comprehensive view will prevent us from overlooking any critical staffing risks. I am ready to proceed.
+- [18] **Shion**: The distribution of research is sufficient. I have no interest in altering my choices; the financial data will speak for itself. I am ready to see if the reality matches the ambition.
+- [19] **Shizue**: It is wonderful to see us all in such agreement. I feel very comforted knowing we are looking after so many different needs. I am ready to see what we discover together.
+- [20] **Midori**: I agree. Let us move forward with a spirit of cooperation. I look forward to hearing what each of you discovers in the records.
+- [22] **Jonathan**: I agree. May the information we find bring us clarity and guide us toward a choice that truly serves the patients. I am ready.
+- [24] **Misaki**: I agree. Let's see what the data reveals. I'm ready to proceed.
+- [26] **Shion**: I have no further comments. Let us see if the numbers are as cooperative as our conversation has been. I am ready.
+- [28] **Shizue**: I am also ready. I shall wait with a warm heart to see what the records tell us. I wish you all a very productive search.
+## Round 2
+- [40] **Midori**: My findings are quite concerning. It seems that joint ventures often fail when ownership of the budget and rota isn't clear, and agreements with outside surgeries can take over a year just to be signed.
+- [41] **Jonathan**: My findings suggest that while some initiatives, like the call-back trial, can truly help patients, their benefits vanish once the effort stops. Others, like the shared nursing round, struggle against simple, physical realities.
+- [42] **Misaki**: The staffing data is worrying. Ward nursing vacancies are increasing, and agency costs are rising. While midwifery has some slack, we are losing physiotherapists to city posts. We cannot ignore these gaps when planning a new program.
+- [43] **Shion**: The financial reality is bleak. Our development budget has shrunk by nearly a quarter, and we are now paying for floor space from it. Furthermore, any program operating off-site earns absolutely nothing from the regional fund.
+- [44] **Shizue**: It seems we are all discovering some heavy truths. I found that our rooms and parking fill up so quickly in the morning, and our poor shuttle cannot reach most of our villages. We must be very careful.
+- [45] **Midori**: @Shion, @Shizue, it seems we are all seeing a pattern of fragility. If we choose a program that relies on outside partners or off-site locations, we risk it collapsing due to administrative delays or financial gaps.
+- [46] **Jonathan**: @Midori, I agree. It is a quiet tragedy when a helpful initiative is buried because it cannot withstand the friction of the real world. We must seek something that can endure.
+- [47] **Misaki**: @Jonathan, I agree. Beyond administrative friction, we must consider the human cost. If we implement a program that adds pressure to already vacant ward posts or relies on therapists we are losing, it will fail regardless of the budget.
+- [48] **Shion**: @Misaki, your concern for the staff is noted, but let us be precise. A program that relies on scarce personnel is a liability, just as a program that earns no revenue is a drain. We need a model that is financially self-sustaining.
+- [49] **Shizue**: @Shion, you are quite right to be precise, but let us not forget the gentle rhythm of our day. If the parking is full and the rooms are crowded, even a self-sustaining program might cause a great deal of stress for everyone.
+- [50] **Midori**: @Shizue, I completely agree. Harmony in the workplace is just as important as the budget. We need a program that fits comfortably within our existing space and doesn't rely on fragile agreements that might break down.
+- [51] **Jonathan**: @Midori, @Shizue, it seems we are all seeking a sense of stability. I worry that if we simply add another layer to the pile without ensuring it is sustainable, we are only creating future disappointment for the patients.
+- [52] **Misaki**: @Jonathan, that is exactly my concern. Stability isn't just about the budget or the space, but the people. We must avoid any program that places an unsustainable burden on our already strained nursing and therapy teams.
+- [53] **Shion**: @Misaki, stability is a luxury we cannot afford to imagine. If we ignore the fact that our budget is shrinking while our costs for floor space are rising, we aren't being stable—we are being delusional. We need a program that generates revenue on-site.
+- [54] **Shizue**: @Shion, you have such a sharp eye for the numbers, and that is very helpful. But I do worry that if we only chase revenue, we might forget that our booking system is a bit blind to the quiet work that happens between the slots. We must be gentle.
+- [55] **Midori**: It seems we are all describing different pieces of the same puzzle. To find true harmony, we must choose a program that is on-site, financially viable, and doesn't rely on fragile external agreements or overstretched staff.
+- [56] **Jonathan**: I agree. We must look for a candidate that is not merely a temporary success, but one that can be woven into the permanent fabric of our care without fading away.
+- [57] **Misaki**: I agree. The ideal candidate must be one that respects our current human capacity. We should prioritize a program that utilizes our available slack rather than deepening the vacancies in our nursing and therapy teams.
+- [58] **Shion**: Let us stop pretending that "harmony" is a strategy. The only way to ensure a program doesn't vanish is to ensure it is paid for. I will vote for the candidate that maximizes on-site revenue and minimizes capital drain.
+- [59] **Shizue**: I agree that we must be practical, but let us remember that a program is only as successful as the people who can actually reach it. I hope we find a choice that fits our space and our hearts.
+## Round 3
+- [65] **Midori**: Looking at our options, I am concerned about Program C and D. Program C relies on outside providers, which my research shows can take over a year to finalize, and Program D is a joint venture, which often fails.
+- [66] **Jonathan**: I share those concerns. Program A reminds me of the call-back trial; it is a noble effort, but if it is not deeply integrated, the benefits may simply vanish once the initial momentum fades.
+- [67] **Misaki**: I agree with the concerns about Program A and B. Program A would place more pressure on our already vacant ward nursing posts, and Program B relies on physiotherapists, a group we are consistently losing to city posts.
+- [68] **Shion**: @Misaki, your analysis of the staff is useful, but look at the finances. Program A and C are off-site, meaning they earn zero regional tariffs. Program B is a capital drain on our shrinking budget for floor space. Program D is the only logical choice.
+- [69] **Shizue**: @Shion, you make a strong point about the budget, but I worry about the crowds. Program B and D both bring more people into our rooms and parking, which are already so full by mid-morning. We must be careful not to seize up.
+- [70] **Midori**: @Shion, I understand the financial logic, but Program D is a joint venture between midwifery and pediatrics. My findings show that when two departments share a program, it often collapses once the budget or rota becomes a burden.
+- [71] **Jonathan**: @Midori, you are right to be cautious. If Program D is built on a fragile partnership, it may become another initiative that we quietly bury. We must ensure the structure is permanent, not just a temporary arrangement.
+- [72] **Misaki**: @Midori, @Jonathan, while joint ventures are risky, we should consider the actual capacity. My data shows the midwifery rota has unusual slack. Program D utilizes available resources rather than straining the nursing or therapy teams.
+- [73] **Shion**: @Misaki, you've just provided the final piece of the puzzle. Program D utilizes existing slack in midwifery and operates on-site, ensuring we actually collect regional tariffs. It is the only option that isn't a financial or operational liability.
+- [74] **Shizue**: @Shion, @Misaki, it is heartening that the midwifery team has some room to breathe. However, I still worry about our poor parking and the shuttle. If Program D brings many new parents in, will they find a place to park?
+- [75] **Midori**: @Shizue, I understand your worry, but we must weigh it against the risk of total collapse. Program D's use of existing slack is a strong point, provided we can clearly define who holds the budget.
+- [76] **Jonathan**: @Midori, I agree. If we can establish a clear, enduring structure for Program D, it avoids the pitfalls of the other options. It seems the most likely to survive without becoming another forgotten attempt.
+- [77] **Misaki**: @Shizue, parking is a challenge, but it is a manageable one compared to the risk of staff burnout or total program failure. Program D is the only option that doesn't deepen our current staffing crises.
+- [78] **Shion**: @Shizue, parking is a triviality compared to insolvency. We are facing a shrinking budget and a need for revenue. Program D is the only candidate that aligns with our financial constraints and staffing reality. The logic is absolute.
+- [79] **Shizue**: @Shion, you are always so certain, and I admire your strength. But for a new mother with a little one, a full car park is not a triviality; it is a great stress. Still, I see we are all leaning toward Program D.
+- [80] **Midori**: I agree. While the joint nature of Program D is a risk, the other options present even greater dangers to our stability and staff. If we are clear about ownership, it is our best path. I vote for Program D.
+- [81] **Jonathan**: I agree. While I remain mindful of the fragility of new initiatives, Program D avoids the systemic risks of the others and utilizes existing capacity. I vote for Program D.
+- [82] **Misaki**: I agree. Program D is the only choice that respects our current staffing limits and utilizes available slack without risking further burnout. I vote for Program D.
+- [83] **Shion**: The logic is inescapable. Program D is the only option that generates on-site revenue while avoiding the staffing crises and capital drains of the others. I vote for Program D.
+- [84] **Shizue**: It is a bit sad to think of the stress our new parents might face in the car park, but I cannot ignore the kindness you have all shown in considering our staff. I shall trust your wisdom. I vote for Program D.
+### Vote
+- Midori -> D
+- Jonathan -> D
+- Misaki -> D
+- Shion -> D
+- Shizue -> D
+## Result
+- adopted: D

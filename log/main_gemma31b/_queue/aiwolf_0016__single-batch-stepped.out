@@ -1,0 +1,23 @@
+2026-10-28 22:18:29,276 websockets.server INFO server listening on 127.0.0.1:21003
+2026-10-28 22:18:29,276 server.runner INFO listening on ws://127.0.0.1:21003 for setup aiwolf_0016
+2026-10-28 22:18:31,735 websockets.server INFO connection open
+2026-10-28 22:18:31,735 websockets.server INFO connection open
+2026-10-28 22:18:31,735 websockets.server INFO connection open
+2026-10-28 22:18:31,735 websockets.server INFO connection open
+2026-10-28 22:18:31,735 websockets.server INFO connection open
+2026-10-28 22:18:31,735 server.transport INFO seat2 connected (1/5)
+2026-10-28 22:18:31,736 server.transport INFO seat1 connected (2/5)
+2026-10-28 22:18:31,737 server.transport INFO seat4 connected (3/5)
+2026-10-28 22:18:31,737 server.transport INFO seat3 connected (4/5)
+2026-10-28 22:18:31,737 server.transport INFO seat5 connected (5/5)
+2026-10-28 22:18:31,745 server.game INFO game aiwolf_0016__single-batch-stepped__gemma-4-31b__20261028T221831 starting (aiwolf_0016)
+2026-10-28 22:20:09,315 server.game INFO game aiwolf_0016__single-batch-stepped__gemma-4-31b__20261028T221831 finished: {'winner': 'VILLAGE', 'villagers': 4, 'werewolves': 0, 'reason': None}
+2026-10-28 22:20:09,350 websockets.server INFO connection closed
+2026-10-28 22:20:09,350 websockets.server INFO connection closed
+2026-10-28 22:20:09,350 websockets.server INFO connection closed
+2026-10-28 22:20:09,350 websockets.server INFO connection closed
+2026-10-28 22:20:09,350 websockets.server INFO connection closed
+2026-10-28 22:20:09,350 websockets.server INFO server closing
+2026-10-28 22:20:09,350 websockets.server INFO server closed
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe

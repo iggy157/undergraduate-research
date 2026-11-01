@@ -1,0 +1,73 @@
+# shared_living_0021__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to verify the financial liability for last-minute cancellations before booking.
+- [6] **Shion**: The previous camp’s sleep data suggests we need a location with strict quiet hours.
+- [7] **Minato**: I am worried about the cooking duty schedule from last year being too heavy.
+- [8] **Misaki**: I need to reconcile the final expense report with the initial budget estimate.
+- [9] **Takumi**: If we pick a place where seniors and juniors mix, attendance will improve.
+- [10] **Asuka**: @Misaki, do you have the breakdown of individual side expenses from last time?
+- [11] **Shion**: @Minato, the canteen closure note might explain why the cooking duty was chaotic.
+- [12] **Minato**: Yes, I recall the kitchen was closed for maintenance during our stay.
+- [13] **Misaki**: I am still waiting for the final receipts from the transport provider.
+- [14] **Takumi**: @Asuka, let’s look at the attendance sheets to see who actually showed up.
+- [15] **Asuka**: The flat fee structure hides the true cost variance among members.
+- [16] **Shion**: I will check the prefecture rate sheet to see if public beds are cheaper.
+- [17] **Minato**: I want to see the vacation timetable for our own hall to avoid conflicts.
+- [18] **Misaki**: I need to see the accounts from the two clubs that went inland.
+- [19] **Takumi**: I will check what the seniors say about year-groups mixing at camps.
+- [20] **Asuka**: I will investigate the group transport receipts and the prefecture rate sheet.
+- [21] **Shion**: I will investigate the attendance sheets and the prefecture rate sheet.
+- [22] **Minato**: I will investigate the canteen closure and the vacation timetable.
+- [23] **Misaki**: I will investigate the accounts from inland clubs and the group transport receipts.
+- [24] **Takumi**: I will investigate the seniors' comments and the attendance sheets.
+## Round 2
+- [35] **Asuka**: The transport receipts show a 38% cost spike for distant locations.
+- [36] **Shion**: The attendance sheets confirm that half the group skipped the final day entirely.
+- [37] **Minato**: The canteen is closed, so we must find a place with staffed meals.
+- [38] **Misaki**: The inland accounts show they slept eight to a room with strict curfews.
+- [39] **Takumi**: The seniors say mixing only happens when we sleep in the same building.
+- [40] **Asuka**: @Misaki, did the inland clubs have a penalty clause for cancellations?
+- [41] **Shion**: @Takumi, if we sleep together, the noise complaints from last time will return.
+- [42] **Minato**: I found that our own hall is booked by three other clubs during the camp week.
+- [43] **Misaki**: They had no penalty, but the room density caused significant friction.
+- [44] **Takumi**: @Shion, we can set quiet hours, but isolation kills the camp spirit.
+- [45] **Asuka**: The public bed rate is 1,100 yen, which is lower than private inns.
+- [46] **Shion**: I need to know if the public beds have individual locks for privacy.
+- [47] **Minato**: If we use the hall, we have to cook, which I really want to avoid.
+- [48] **Misaki**: The transport cost is the main variable; staying local cuts it to 9%.
+- [49] **Takumi**: @Asuka, if we stay local, we can afford a whole-building let.
+- [50] **Asuka**: I propose we look at the whole-building let terms for a local site.
+- [51] **Shion**: I will check the quoting terms for whole-building lets to see the total cost.
+- [52] **Minato**: I agree, a place with meals is essential for our training schedule.
+- [53] **Misaki**: I need to see the quoting terms to ensure there are no hidden fees.
+- [54] **Takumi**: I will check the quoting terms for whole-building lets to confirm capacity.
+## Round 3
+- [60] **Asuka**: Option A has the lowest per-head cost, but the transport receipts show high variance.
+- [61] **Shion**: Option B is the only one where I can control the sleep environment directly.
+- [62] **Minato**: Option C is the only one with meals included, which saves us from cooking duty.
+- [63] **Misaki**: Option B has the most predictable transport costs, which is critical for the budget.
+- [64] **Takumi**: Option A is the only one where the seniors said mixing actually happens.
+- [65] **Asuka**: @Minato, if we pick C, who covers the cost if someone cancels?
+- [66] **Shion**: @Asuka, the public beds in A are 1,100 yen, but the noise levels are unknown.
+- [67] **Minato**: I am very concerned about the cooking duty if we choose B, as the canteen is closed.
+- [68] **Misaki**: The inland accounts for A show they had to pay extra for late checkouts.
+- [69] **Takumi**: @Shion, the attendance sheets show that isolation in B leads to dropouts.
+- [70] **Asuka**: I will vote for A because the flat fee structure is transparent.
+- [71] **Shion**: I will vote for B because I need to ensure the nights are quiet and controlled.
+- [72] **Minato**: I will vote for C because I do not want to spend the camp on cooking duty.
+- [73] **Misaki**: I will vote for B because the transport costs are the lowest and most stable.
+- [74] **Takumi**: I will vote for A because it is the only place where the year-groups actually mix.
+- [75] **Asuka**: The financial risk of C is too high without a clear cancellation policy.
+- [76] **Shion**: The sleep quality in A is a gamble, but the cost is acceptable.
+- [77] **Minato**: I hope we can find a way to avoid the kitchen entirely.
+- [78] **Misaki**: I am confident that B keeps the account balanced for next year.
+- [79] **Takumi**: I am confident that A will bring the whole club back together.
+### Vote
+- Asuka -> A
+- Shion -> B
+- Minato -> C
+- Misaki -> B
+- Takumi -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to see us all gathered. Let us find a way to share these costs that keeps our hearts warm and our spirits light.
+- [6] **Midori**: I agree. I want us to be fair, but more importantly, I want us to make sure we are all still getting along well.
+- [7] **Minato**: I wonder if some people are paying more than others... I want to know if everyone is happy with the current way.
+- [8] **May**: Let's make this quick and painless, shall we? I just want to make sure we aren't throwing money into a void.
+- [9] **Daisuke**: Um... hello. I just... I hope we can find a way that isn't too... difficult to manage.
+- [10] **Servas**: @Daisuke, do not worry. Simplicity is often the highest form of sophistication. We shall find a path that suits everyone.
+- [11] **Midori**: @Minato, that is a good point. Maybe we should look at how things have been handled so far to see if there are any tensions.
+- [12] **Minato**: Yes, I think so. I want to see if the rumors about people "carrying" others are true. I don't like it when people are upset.
+- [13] **May**: Oh, Minato, always so worried about the mood! I'm more interested in the actual numbers. I want to see the real damage.
+- [14] **Daisuke**: I... I just don't want anyone to have to spend too much time... you know... doing the math every month.
+- [15] **Servas**: Life is too short for resentment over a few coins. Let us look at the facts and the feelings together.
+- [16] **Midori**: I think looking at the payment history might be helpful. It shows us not just the money, but how we've interacted.
+- [17] **Minato**: I agree with Midori. I want to see the logs. And maybe how other houses do it? I want to learn.
+- [18] **May**: I'm with you on the logs, but I want to know if changing the system costs us anything upfront. I'm not paying for a fancy upgrade.
+- [19] **Daisuke**: Maybe... a template? If we have a template, maybe it won't take as long to figure out who owes what.
+- [20] **Servas**: A wise approach. I shall look into the habits of others and the physical needs of our rooms to ensure no one freezes in silence.
+- [21] **Midori**: I will look into the payment logs and the statements. I want to see where the friction has been.
+- [22] **Minato**: I'll look at the payment log too, and the monthly settle from another house. I want to see if it's peaceful there.
+- [23] **May**: I'll take the last twelve utility statements and the electrician's quote. I need to see the yearly cycle and the cost of change.
+- [24] **Daisuke**: I'll... I'll look at the trial run of a reconciliation template and the payment log for the last twelve months.
+## Round 2
+- [35] **Servas**: I have learned that when the cost is fixed, the mind is free. We must ensure our system does not make us prisoners of our own frugality.
+- [36] **Midori**: I noticed that some payments were quite late. It seems like the confusion over the amounts might be causing some stress between us.
+- [37] **Minato**: I saw that too... it makes me sad that people were arguing about the amounts. But the other house's way seemed very... long and tiring.
+- [38] **May**: Well, the statements are a nightmare. The bills swing wildly every month. It's like a gamble, and I'm tired of losing.
+- [39] **Daisuke**: I... I saw the template. It looks like it takes a really long time to fill out. And the logs... it seems like it's always a struggle.
+- [40] **Servas**: @May, the swings of the seasons are like the swings of life. But we can build a bridge over those valleys to keep us steady.
+- [41] **Midori**: @Daisuke, I agree that a complex template might just add more stress. We need something that is clear and doesn't feel like an accusation.
+- [42] **Minato**: I don't want us to spend forty minutes arguing every month. That doesn't sound peaceful at all.
+- [43] **May**: A bridge is fine, Servas, but bridges cost money. I checked the quote for sub-meters, and it's way too expensive to just "be fair."
+- [44] **Daisuke**: If it's too complex... the person doing it... they might just... give up. Or get really stressed.
+- [45] **Servas**: Then we must choose a path of grace. If we cannot measure every watt, we must trust each other to be mindful without being afraid.
+- [46] **Midori**: Exactly. I think we should prioritize a system that reduces the need for constant reminders, as those seem to be the source of the tension.
+- [47] **Minato**: I just want to make sure no one feels like they are paying for someone else's luxury. That's what makes people grumpy, right?
+- [48] **May**: Exactly, Minato. I'm not paying for someone's space heater while I'm shivering. But I'm also not paying 34,000 yen for a meter.
+- [49] **Daisuke**: I... I think... maybe a simple split is better? Even if it's not perfect... if it's fast... it might be better for everyone.
+- [50] **Servas**: Simplicity is a gift we give to one another. Let us consider options that balance the burden without weighing down our spirits.
+- [51] **Midori**: I agree. Let's look for a solution that is transparent but doesn't require a spreadsheet that looks like a tax audit.
+- [52] **Minato**: I hope we can find a way where everyone feels it's fair. I don't like the idea of "carrying" someone.
+- [53] **May**: As long as I'm not paying a "second rent" in February, I'm open to suggestions. Let's see what the options are.
+- [54] **Daisuke**: I... I just hope it's not... too much work for one person.
+## Round 3
+- [60] **Servas**: Option B offers a sanctuary of predictability. It allows us to live without the fear of a switch, knowing the cost is already settled.
+- [61] **Midori**: I like Option B too. It removes the monthly "shock" and the need for constant reminders, which should help us get along better.
+- [62] **Minato**: Option A sounds the most fair, but May said it's too expensive. Option B seems... calm. No one has to worry every month.
+- [63] **May**: Option A is out—too expensive. Option C is what we've been doing, and it's a disaster in winter. Option B is the only one that makes sense.
+- [64] **Daisuke**: Option B... means you only have to do the big calculation once a year... instead of every month. That... sounds much better.
+- [65] **Servas**: Indeed. When we remove the immediate cost of a small comfort, we allow kindness to return to the home.
+- [66] **Midori**: It also prevents that feeling of "who used more this month?" which I think has been hurting our friendships.
+- [67] **Minato**: I think I like that. If we all agree on a price, then no one is "carrying" anyone else in the moment. It feels more equal.
+- [68] **May**: It's the only way I can actually budget my life. I can't have my bank account bleeding out just because it's January.
+- [69] **Daisuke**: I... I agree. It's... it's much less work for the person... managing it.
+- [70] **Servas**: It seems we have found a harmony. A shared agreement that protects both the pocket and the peace of mind.
+- [71] **Midori**: I'm glad we're all on the same page. I think this will really help us stop feeling like we're accusing each other.
+- [72] **Minato**: I'm happy everyone is agreeing. It's much nicer when we all just smile and say it's okay.
+- [73] **May**: For once, we're actually being efficient. I'm in for Option B. Let's just make sure the "end of year" settle isn't a total shock.
+- [74] **Daisuke**: I... I'm okay with that. It's... it's a lot easier.
+- [75] **Servas**: Let us cast our votes with a spirit of generosity. May our home be a place of warmth, both in temperature and in heart.
+- [76] **Midori**: I'm ready. I believe this is the best way to heal the tension and keep things fair.
+- [77] **Minato**: Me too! I'll vote for the one that keeps us all friends.
+- [78] **May**: Let's just get this over with. Option B it is.
+- [79] **Daisuke**: I... I'll vote for B too.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

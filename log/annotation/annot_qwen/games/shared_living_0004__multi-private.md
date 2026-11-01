@@ -1,0 +1,73 @@
+# shared_living_0004__multi-private (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to check "All-in rates against meals bought separately" and "What separately booked rooms cost last time" to see how the money works out!
+- [6] **Victoria**: I’ll check "Pricing of offshore houses let whole" and "All-in rates against meals bought separately" to understand the total cost.
+- [7] **Midori**: I’d like to look into "Time alone in the shared-house year" and "How last year's days ran" to understand our balance.
+- [8] **Toshio**: I’ll check "Ferry sailings and train time" and "Getting around by train and bus" to minimize transit waste.
+- [9] **Daisuke**: I’ll check "Bathing hours and bathroom provision" and "Inn mealtimes and room arrangements".
+- [10] **Sakura**: @Victoria, we both picked the all-in rates! I hope that means we can figure out who pays for snacks without arguing later.
+- [11] **Victoria**: It’s about the total, not snacks. Knowing the full price prevents surprises.
+- [12] **Midori**: @Sakura, I hope the all-in rates help too. I’m focusing on how our time together felt last year, to find a better rhythm.
+- [13] **Toshio**: @Midori, rhythm matters, but transit eats the week. I’m prioritizing the ferry and train schedules to cut that waste.
+- [14] **Daisuke**: I just want to know if the bathroom is quiet and if dinner isn’t rushed. I get anxious about small details.
+- [15] **Sakura**: @Daisuke, don’t worry! If the all-in rates cover everything, we won’t have to scramble for coins at the counter.
+- [16] **Victoria**: @Daisuke, your anxiety is valid. But without a fixed total, we can’t plan. I need certainty before we commit.
+- [17] **Midori**: @Daisuke, I hear you. A calm bathroom and unhurried meals really do set the tone for the whole week.
+- [18] **Toshio**: @Daisuke, quiet facilities help, but I’m focused on the schedule. If the ferry is late, the whole week shifts.
+- [19] **Daisuke**: Thank you. I’m glad you understand. I’ll check the details so we can all relax.
+- [20] **Sakura**: @Toshio, if the ferry is late, I’ll just nap! But I’m still hoping the all-in rates mean no one has to count coins.
+- [21] **Victoria**: I appreciate the optimism, but I need the numbers to be solid. Let’s see what the research reveals.
+- [22] **Midori**: I’m glad we’re all looking at different angles. Let’s see what the research reveals about our balance and costs.
+- [23] **Toshio**: We’ll see what the schedules allow. I’ll report back on the transit options.
+- [24] **Daisuke**: I’ll look into the bathroom and meal details. I hope they’re comfortable for everyone.
+## Round 2
+- [35] **Sakura**: @Victoria, look! Renting whole means one bill, so no one is secretly paying extra! That’s my favorite kind of mystery solved!
+- [36] **Victoria**: The all-in rate is a trap. It charges the light eater what the biggest appetite pays. I need the separate meal costs to see the true total.
+- [37] **Midori**: @Victoria, I see your point. But knowing we drifted apart last year makes me value shared meals more.
+- [38] **Toshio**: The last ferry leaves at 16:20. That’s a full day lost. I need to know if the train offers a faster return.
+- [39] **Daisuke**: The inn has one shared bathroom and cold water. Dinner is at six, breakfast at half seven. I worry about the noise.
+- [40] **Sakura**: @Daisuke, one bathroom? Yikes! But @Victoria, if we rent the whole house, we split one bill evenly. No hidden costs!
+- [41] **Victoria**: @Sakura, splitting evenly ignores individual consumption. I need the actual meal prices to calculate the precise total for each of us.
+- [42] **Midori**: @Daisuke, that sounds stressful. I’m glad we’re considering a house with more space, so we can all breathe and find our own quiet moments.
+- [43] **Toshio**: The hourly bus stops before seven. That’s a hard deadline. We must leave the valley by then to avoid being stranded.
+- [44] **Daisuke**: @Midori, a private door would help me sleep. The shared room feels too exposed for my bad nights.
+- [45] **Sakura**: @Daisuke, a private door sounds lovely! But @Victoria, if we rent the whole house, the bill is just one number. No one gets stuck paying extra!
+- [46] **Victoria**: @Sakura, one number is only useful if it’s accurate. I need the separate meal costs to verify the true total.
+- [47] **Midori**: @Daisuke, I understand the need for privacy. @Toshio, that early bus deadline is tight. We need a place where we can rest without rushing.
+- [48] **Toshio**: @Midori, the train is ninety minutes. That’s manageable. The ferry is the bottleneck. We need a location where the train is the primary exit.
+- [49] **Daisuke**: @Toshio, the train is better. But I still need a quiet room to sleep.
+- [50] **Sakura**: @Victoria, but if the bill is one number, nobody has to track who ate what! That’s how we avoid the quiet money trouble!
+- [51] **Victoria**: @Sakura, one number hides the variance. I need the itemized meal costs to ensure the total is accurate before we commit.
+- [52] **Midori**: @Sakura, I agree. A single bill prevents awkwardness. But I worry about the shared space. We need a place that offers both togetherness and individual quiet.
+- [53] **Toshio**: The train is the only viable exit. We must prioritize the valley over the coast to avoid the ferry’s rigid schedule.
+- [54] **Daisuke**: I’m glad the train is better. A private room with a door would help me sleep. I’m relieved we’re moving away from the shared inn.
+## Round 3
+- [60] **Sakura**: @Victoria, Option A is perfect! One house, one bill, no hidden costs! Plus, I can prank everyone in the shared kitchen!
+- [61] **Victoria**: Option A’s ferry schedule is a risk. I need to know if the total cost is fixed before we commit to that uncertainty.
+- [62] **Midori**: @Toshio, the train access in Option C feels right. It avoids the ferry stress and lets us share meals while keeping the days open.
+- [63] **Toshio**: Option C. The train is ninety minutes, not a day. The ferry is a trap. I vote for the valley.
+- [64] **Daisuke**: Option C. The train is reliable, and I hope the inn has a quiet room. I need to sleep well.
+- [65] **Sakura**: @Toshio, the ferry is scary! But @Victoria, Option A’s one bill means no one pays extra. I want the island!
+- [66] **Victoria**: @Sakura, a single bill doesn’t guarantee accuracy. I need itemized costs to verify the total. Option C offers train reliability, but I must confirm the meal pricing structure first.
+- [67] **Midori**: @Sakura, I understand the appeal of one bill. But Option C’s open days let us move together without forcing it, which feels healthier for our balance.
+- [68] **Toshio**: @Victoria, the train is the only exit that doesn’t waste a day. Option C is the only logical choice.
+- [69] **Daisuke**: @Toshio, I agree. The train is safer. I just need a private room to sleep.
+- [70] **Sakura**: @Victoria, but if we rent the whole house, the bill is just one number! No one has to track who ate what!
+- [71] **Victoria**: @Sakura, one number is a guess. I need the itemized meal costs to verify the total. Option C is safer, but I must confirm the pricing structure first.
+- [72] **Midori**: @Victoria, I understand your need for clarity. But Option C’s shared meals and open days address the isolation we felt. I hope we can find that balance.
+- [73] **Toshio**: @Victoria, the train schedule is fixed. The ferry is not. Option C is the only choice that respects our time.
+- [74] **Daisuke**: @Victoria, I understand your caution. But the train is reliable. I just need a quiet room to sleep.
+- [75] **Sakura**: @Victoria, but Option C’s inn meals are fixed! No counting coins, no hidden costs! It’s the safest money choice!
+- [76] **Victoria**: @Sakura, fixed meals mean a fixed total. That is the certainty I need. I vote for Option C.
+- [77] **Midori**: I vote for Option C. The train access and shared meals offer the balance we need, avoiding the isolation of last year.
+- [78] **Toshio**: I vote for Option C. The train is the only exit that doesn’t waste a day.
+- [79] **Daisuke**: I vote for Option C. The train is reliable, and I hope the inn provides a quiet room for me to sleep.
+### Vote
+- Sakura -> C
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

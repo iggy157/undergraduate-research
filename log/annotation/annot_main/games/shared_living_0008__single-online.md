@@ -1,0 +1,72 @@
+# shared_living_0008__single-online (shared_living)
+
+## Round 1
+- [5] **May**: Since we can't keep using the room for everything, let's be smart about this. I want to see the fortnight's tally of use by person and the final clear-out of the old fridge.
+- [6] **Misaki**: I'll look into the partition wall to the office and the crumbs and bins at the desks.
+- [7] **Servas**: I believe we should consider the human cost of our habits. I will look into the invoices for outside hire by the hour and the facilities callouts on this floor.
+- [8] **Sakura**: I want to know about the money and the food! I'll check the quotes for the two fit-outs and the round trip for a hot lunch!
+- [9] **Kenji**: I think we need to know how we actually talk to each other. I'll check the unplanned talk since the refit and where the last awkward conversation happened.
+- [10] **May**: Does anyone else think we're missing something? I feel like we've covered the basics, but I'm curious if anyone wants to swap or add anything before we commit.
+- [11] **Misaki**: I think we have enough covered for now. Let's just proceed with these.
+- [12] **Servas**: I agree with Misaki. We have a diverse set of inquiries that should provide a holistic view of our current situation. Let us proceed.
+- [13] **Sakura**: I'm totally ready! I can't wait to see what we find out. Let's get to it!
+- [14] **Kenji**: Me too! I'm excited to see if my guesses about our communication are right. Let's do it!
+- [15] **May**: Wait, I just realized we haven't actually confirmed who is doing what. Let's just make sure we're all on the same page so no one forgets their task.
+- [16] **Misaki**: I already noted my tasks: the partition wall and the crumbs and bins. I'm ready.
+- [17] **Servas**: I have my list as well: the invoices for outside hire and the facilities callouts. I shall ensure the details are recorded accurately.
+- [18] **Sakura**: I've got mine! I'm checking the fit-out quotes and the hot lunch round trip. I'm on it!
+- [19] **Kenji**: I'm all set too! I'll be looking into the unplanned talk and that last awkward conversation. Let's see what we find!
+- [20] **May**: And I've got the usage tally and the fridge clear-out. Now that we're all settled, let's go find the answers!
+- [22] **Servas**: Indeed. Let us gather our findings and return to this circle with a clear mind.
+- [23] **Sakura**: I'll be the fastest one back! See you all in a bit!
+- [24] **Kenji**: I'll be right behind you, Sakura! Let's go!
+## Round 2
+- [35] **May**: It turns out a couple of people are using that room way more than the rest of us, and the fridge situation was a total mess.
+- [36] **Misaki**: The wall is basically paper; you can hear everything. Also, people are eating at their desks, and it's getting messy.
+- [37] **Servas**: I found that we have spent a significant amount on outside room rentals for very small groups, and our internal facilities requests have been quite low.
+- [38] **Sakura**: The quotes for the fit-outs are actually pretty different, and wow, it takes forever to get a hot lunch from the nearest place!
+- [39] **Kenji**: It's even worse than I thought. We barely talk unless it's by the printer, and the last time something tough had to be said, it happened right in front of everyone.
+- [40] **May**: @Misaki, if people are already eating at their desks and making a mess, maybe we should actually give them a proper place to do it?
+- [41] **Misaki**: That might solve the mess at the desks, but if the walls are that thin, a noisy kitchen right next to us could be even worse.
+- [42] **Servas**: We must also consider the financial drain of those outside rentals. It seems we are paying for a space we could potentially create ourselves.
+- [43] **Sakura**: Exactly! And since it takes so long to get lunch, having a kitchen would be a huge time-saver for everyone!
+- [44] **Kenji**: But if we just make it a kitchen, will we still have a place for those awkward or private talks? We can't just keep talking by the printer.
+- [45] **May**: @Kenji, a kitchen is a social hub! People might actually start talking more if they're gathering for coffee or lunch instead of just hiding at their desks.
+- [46] **Misaki**: I'm not so sure. A social hub is usually a loud hub, and as I said, the sound travels right through the wall to where we work.
+- [47] **Servas**: Perhaps a middle ground exists. If we create a dedicated space for discussions, we solve the rental costs and the privacy issue, though it does not address the hunger.
+- [48] **Sakura**: But a meeting room sounds so boring! If we have a kitchen, we can have snacks and be happy, and that makes people want to talk more, right?
+- [49] **Kenji**: I don't think snacks are enough to fix the problem. We need a place where we can actually have a private conversation without the whole office listening in.
+- [50] **May**: I think we're overthinking the noise. If we have a proper system for the room, we can manage the mess and the volume while finally stopping the desk-crumbs.
+- [51] **Misaki**: I'm not convinced. If the wall is that thin, any "system" for noise will be ignored the moment someone gets excited or loud.
+- [52] **Servas**: We must weigh the immediate convenience of food against the long-term necessity of a professional and private space for our interactions.
+- [53] **Sakura**: But we're already paying for outside rooms! Why not just spend that money on making our own room awesome so we don't have to leave the building?
+- [54] **Kenji**: That's a great point, Sakura, but "awesome" should mean we can actually talk to each other properly, not just have a place to eat.
+## Round 3
+- [60] **May**: Now that we've seen the options, I'm leaning towards the Open Kitchen. It solves the desk mess and the lunch commute, and it could be the social spark we need.
+- [61] **Misaki**: I'm voting for the Quiet Room. Given how thin the walls are and the noise levels, we need a space that guarantees peace and doesn't add to the chaos.
+- [62] **Servas**: I believe the Meeting Space is the most prudent choice. It eliminates the unnecessary expense of outside rentals and provides the professional privacy we currently lack.
+- [63] **Sakura**: I'm going with the Open Kitchen! It's way more fun, it saves us from those long lunch walks, and it's cheaper to fit out than a meeting room!
+- [64] **Kenji**: I'm voting for the Meeting Space. We really need a place for those difficult conversations, and it's the only option that actually fixes the privacy problem.
+- [65] **May**: @Misaki, a Quiet Room sounds a bit lonely, doesn't it? We need something that brings us together, not something that keeps us apart in silence.
+- [66] **Misaki**: It's not about being lonely; it's about the fact that we are already too exposed. A space where we can actually focus without hearing everything through the walls is a necessity.
+- [67] **Servas**: While peace is a virtue, the data suggests our primary deficiency is a lack of a structured environment for collaboration and private discourse.
+- [68] **Sakura**: But a meeting room is just for work! We already work all day! Let's make it a place where we can actually relax and eat together!
+- [69] **Kenji**: @Sakura, relaxing is important, but we can't relax if we're stressed because we have nowhere to talk privately. A Meeting Space gives us that essential boundary.
+- [70] **May**: I still think the kitchen is the best bet for morale. If we have a place to gather, the "difficult conversations" might just happen more naturally and less awkwardly.
+- [71] **Misaki**: Natural gatherings don't solve the problem of thin walls; they just make the noise constant. I can't support a kitchen when I'm the one hearing every single conversation.
+- [72] **Servas**: It is clear that we are divided between the desire for social warmth and the need for professional boundaries. However, the financial waste of outside hire is a fact we cannot ignore.
+- [73] **Sakura**: But we can use the money we save from outside hire to make the kitchen even better! Let's just go for the Open Kitchen!
+- [74] **Kenji**: I can't agree with that. We need a solution for the privacy issues and the awkwardness, and a kitchen just adds more noise to a room that already leaks sound.
+- [75] **May**: I'll stick with my vote for the Open Kitchen. It's the only option that addresses the daily mess and the lunch struggle while giving us a heart for the office.
+- [76] **Misaki**: My vote remains the Quiet Room. We need a sanctuary from the noise and the lack of privacy, not more reasons for the office to be loud.
+- [77] **Servas**: I shall maintain my vote for the Meeting Space, as it is the most balanced solution for our professional needs and our budget.
+- [78] **Sakura**: I'm sticking with the Open Kitchen! It's the most exciting choice and it'll make everyone way happier during the day!
+- [79] **Kenji**: I'm staying with the Meeting Space. We need a place to actually connect and handle things privately, and that's the only way to fix our office culture.
+### Vote
+- May -> A
+- Misaki -> B
+- Servas -> C
+- Sakura -> A
+- Kenji -> C
+## Result
+- adopted: A

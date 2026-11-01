@@ -1,0 +1,24 @@
+candidate_selection_0027__multi-public-stepped.md: unparsable reply (length): Expecting value: line 1 column 1 (char 0)
+aiwolf_0001__multi-public-stepped.md: 40/40 utterances, missing [], finish=stop, 114s
+aiwolf_0006__multi-private-stepped-process.md: 40/40 utterances, missing [], finish=stop, 118s
+aiwolf_0009__multi-public-stepped.md: 33/33 utterances, missing [], finish=stop, 79s
+aiwolf_0014__multi-private-stepped-process.md: 38/38 utterances, missing [], finish=stop, 85s
+aiwolf_0017__multi-public-stepped.md: 33/33 utterances, missing [], finish=stop, 97s
+aiwolf_0022__multi-private-stepped-process.md: 40/40 utterances, missing [], finish=stop, 106s
+aiwolf_0025__multi-public-stepped.md: 33/33 utterances, missing [], finish=stop, 109s
+aiwolf_0030__multi-private-stepped-process.md: 40/40 utterances, missing [], finish=stop, 99s
+candidate_selection_0003__multi-public-stepped.md: 35/35 utterances, missing [], finish=stop, 96s
+candidate_selection_0008__multi-private-stepped-process.md: 50/50 utterances, missing [], finish=stop, 154s
+candidate_selection_0011__multi-public-stepped.md: 25/25 utterances, missing [], finish=stop, 87s
+candidate_selection_0016__multi-private-stepped-process.md: 45/45 utterances, missing [], finish=stop, 126s
+candidate_selection_0019__multi-public-stepped.md: 45/45 utterances, missing [], finish=stop, 105s
+candidate_selection_0024__multi-private-stepped-process.md: 60/60 utterances, missing [], finish=stop, 110s
+shared_living_0002__multi-private-stepped-process.md: 54/55 utterances, missing [54], finish=stop, 151s
+shared_living_0005__multi-public-stepped.md: 40/40 utterances, missing [], finish=stop, 106s
+shared_living_0010__multi-private-stepped-process.md: 45/45 utterances, missing [], finish=stop, 112s
+shared_living_0013__multi-public-stepped.md: 48/48 utterances, missing [], finish=stop, 117s
+shared_living_0018__multi-private-stepped-process.md: 60/60 utterances, missing [], finish=stop, 150s
+shared_living_0021__multi-public-stepped.md: 44/45 utterances, missing [74], finish=stop, 105s
+shared_living_0026__multi-private-stepped-process.md: 55/55 utterances, missing [], finish=stop, 110s
+shared_living_0029__multi-public-stepped.md: 45/45 utterances, missing [], finish=stop, 83s
+55/56 games annotated -> /tmp/claude-1091/-diskthalys-ssd14ta-yharada-aiwolf-undergraduate-research/bcec8730-29c9-4bd2-98fc-0a8842b00e36/scratchpad/annot_main/out

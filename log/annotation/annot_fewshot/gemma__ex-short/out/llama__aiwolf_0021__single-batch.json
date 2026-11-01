@@ -1,0 +1,323 @@
+{
+ "aiwolf_0021__single-batch.md": [
+  {
+   "seq": 5,
+   "speaker": "Mio",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 6,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 7,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 6,
+   "resp_type": "agree",
+   "note": "None"
+  },
+  {
+   "seq": 8,
+   "speaker": "Kenji",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 9,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 8,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 10,
+   "speaker": "Mio",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 8,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 11,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 10,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 12,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 11,
+   "resp_type": "agree",
+   "note": "None"
+  },
+  {
+   "seq": 13,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 0,
+   "resp_to": 12,
+   "resp_type": "agree",
+   "note": "agrees with previous point"
+  },
+  {
+   "seq": 14,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 13,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 31,
+   "speaker": "Mio",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 0,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "opening pleasantry"
+  },
+  {
+   "seq": 32,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 33,
+   "speaker": "Jonathan",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "None"
+  },
+  {
+   "seq": 34,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 33,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 35,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 33,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 36,
+   "speaker": "Mio",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 33,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 37,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 36,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 38,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 37,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 39,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 38,
+   "resp_type": "object",
+   "note": "None"
+  },
+  {
+   "seq": 40,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 39,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 41,
+   "speaker": "Mio",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 0,
+   "resp_to": 40,
+   "resp_type": "agree",
+   "note": "emotional appeal"
+  },
+  {
+   "seq": 42,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 41,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 43,
+   "speaker": "Jonathan",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 42,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 44,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 43,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 45,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 44,
+   "resp_type": "add",
+   "note": "None"
+  },
+  {
+   "seq": 46,
+   "speaker": "Mio",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 1,
+   "content": 0,
+   "resp_to": 45,
+   "resp_type": "object",
+   "note": "repeats emotional appeal"
+  },
+  {
+   "seq": 47,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 46,
+   "resp_type": "agree",
+   "note": "None"
+  },
+  {
+   "seq": 49,
+   "speaker": "Kenji",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 0,
+   "resp_to": 47,
+   "resp_type": "agree",
+   "note": "apologetic agreement"
+  },
+  {
+   "seq": 50,
+   "speaker": "Benjamin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 49,
+   "resp_type": "agree",
+   "note": "None"
+  }
+ ]
+}

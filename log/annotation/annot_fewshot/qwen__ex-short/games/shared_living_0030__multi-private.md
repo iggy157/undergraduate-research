@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private (shared_living)
+
+## Round 1
+- [5] **Toshio**: I need to see the actual monthly cost of supplies before we agree to anything.
+- [6] **Ryuji**: I need to understand the true time commitment. How long does a full cleaning pass actually take?
+- [7] **Benjamin**: I suspect the current rotation ignores actual usage. I need to see where the work and the living actually sit.
+- [8] **May**: I’m tired of guessing if the bathroom is a minefield. I need to know what "done" actually means for everyone.
+- [9] **Midori**: I worry about the tension building up. I need to see the chat logs to understand where the friction is coming from.
+- [10] **Toshio**: @Ryuji, time is only half the story. I need to know the cash flow too.
+- [11] **Ryuji**: @Toshio, I agree. But if the hours are unmanageable, the cost is irrelevant. I need the timing data first.
+- [12] **Benjamin**: @May, "done" is subjective, but usage is measurable. I want to correlate who is actually here with who is cleaning.
+- [13] **May**: @Benjamin, usage is great, but I need consistency. I want to know exactly what standard we are all holding ourselves to.
+- [14] **Midori**: @May, I agree. But I also need to see the previous tenants' note. It might explain why the old system broke down.
+- [15] **Toshio**: @Midori, the previous tenants' note might reveal if they had a specific billing dispute. I will check the management office rate sheet and billing.
+- [16] **Ryuji**: @Toshio, billing is important, but I need the physical reality. I will check the stopwatch timing of a full pass.
+- [17] **Benjamin**: @Toshio, billing is a good start. I will check the fortnight's watch on kitchen use and the absences on the wall calendar.
+- [18] **May**: @Midori, the previous tenants' note is crucial for context. I will check what each housemate counts as done and the bathroom grout after the July scrub.
+- [19] **Midori**: @Toshio, I appreciate the context. I will check the rows recorded in the house chat and the note left by the previous tenants.
+- [20] **Toshio**: I will check the bathroom spray stock and the tin's receipts.
+- [21] **Ryuji**: I will also check the standard terms of the outside firm to see if outsourcing is a viable alternative.
+- [22] **Benjamin**: I will also check the management office rate sheet and billing to see if the costs align with the actual usage patterns.
+- [23] **May**: I will also check the bathroom spray stock and the tin's receipts to see if we are actually running out of supplies.
+- [24] **Midori**: I will also check the bathroom spray stock and the tin's receipts to see if we are actually running out of supplies.
+## Round 2
+- [35] **Toshio**: The receipts show 2,300 yen monthly, with duplicate purchases. The management bill is 4,200 yen per hour. We need a clear cost structure.
+- [36] **Ryuji**: @Toshio, the timing is worse than I feared. A full pass is over two hours. The firm’s two-hour window means we must be home and tidy beforehand.
+- [37] **Benjamin**: @Ryuji, two hours is brutal. My data shows two people are gone weekly, yet the kitchen mess is from just three. We need to match labor to presence.
+- [38] **May**: @Benjamin, that explains the chaos. My findings show "done" means different things to everyone, and the grout re-stains in eleven days. We need a strict, visible standard.
+- [39] **Midori**: @May, I see the friction now. The chat rows started with reminders, and the previous tenants stopped speaking by year two. We must avoid that silence.
+- [40] **Toshio**: @Ryuji, two hours is too long for a casual pass. We need to split the tasks to keep individual shifts under forty minutes.
+- [41] **Ryuji**: @Toshio, splitting it helps, but the firm’s terms mean I still need to be present for two hours. That is a significant block of my day.
+- [42] **Benjamin**: @Toshio, splitting is logical, but presence is the variable. If two are gone, the remaining three carry the load. We must weight the rotation by actual days present, not just names.
+- [43] **May**: @Benjamin, weighting by presence is smart, but I need the standard to be non-negotiable. If "done" is vague, the rotation fails.
+- [44] **Midori**: @May, I agree. A clear standard prevents the resentment that silenced the previous tenants. We need to define "done" so no one feels shortchanged.
+- [45] **Toshio**: @Benjamin, weighting by presence is fair, but the 2,300 yen in duplicate purchases is a leak. We need a single buyer to stop the waste.
+- [46] **Ryuji**: @Toshio, I agree on the single buyer. But my main concern is the two-hour block. If we outsource, I still lose that time. I need to know if we can split the firm’s visit.
+- [47] **Benjamin**: @Ryuji, splitting the firm’s visit is a logistical nightmare. My data shows the mess is concentrated. We should target the kitchen, not the whole house, to save time.
+- [48] **May**: @Benjamin, targeting the kitchen is good, but the bathroom is my nightmare. I need a strict, visible checklist so I never have to guess again.
+- [49] **Midori**: @May, a visible checklist is essential. It removes the guesswork and prevents the silent resentment that broke the last group.
+- [50] **Toshio**: @May, a checklist is good, but I need the financials settled. I will propose a shared pot to stop the duplicate buying and track who owes what.
+- [51] **Ryuji**: @Toshio, a shared pot is fine, but it doesn't solve the time block. I need to know if we can stagger the firm’s arrival to avoid the two-hour dead zone.
+- [52] **Benjamin**: @Ryuji, staggering is impossible with their terms. My data shows the kitchen is the bottleneck. Let’s focus there to cut the time, not just split it.
+- [53] **May**: @Benjamin, focusing on the kitchen ignores my bathroom anxiety. I need a strict, visible checklist for the bathroom to stop the guessing game.
+- [54] **Midori**: @May, I hear you. A clear checklist protects the bathroom, but we must also protect our relationships. Let’s ensure the rules keep us talking, not just cleaning.
+## Round 3
+- [60] **Toshio**: Option B costs 8,400 yen monthly. I need to know if the shared pot covers that without individual debt.
+- [61] **Ryuji**: @Toshio, the cost is secondary. Option B still requires a two-hour presence window. I need to know if that block is unavoidable.
+- [62] **Benjamin**: @Ryuji, the block is unavoidable, but my data shows the kitchen is the real bottleneck. Option A lets the heavy users own the mess, matching labor to presence.
+- [63] **May**: @Benjamin, Option A is a trap. If I own the bathroom, I’m stuck with the grout re-staining in eleven days. I need a strict, visible standard, not permanent ownership.
+- [64] **Midori**: @May, I agree. Permanent ownership risks the same silence the previous tenants fell into. We need a system that keeps us connected, not isolated in our own corners.
+- [65] **Toshio**: @Ryuji, the two-hour block is a fixed cost. Option C keeps the shared pot simple and predictable, avoiding the 8,400 yen monthly drain.
+- [66] **Ryuji**: @Toshio, Option C is the only one that lets me schedule the two-hour block. I can plan around it, unlike the unpredictable firm window.
+- [67] **Benjamin**: @Ryuji, Option C is rigid, but my data shows presence fluctuates. A fixed rota ignores who is actually home. Option A matches labor to usage, which is logically superior.
+- [68] **May**: @Benjamin, Option A is a trap. If I own the bathroom, I’m stuck with the grout re-staining in eleven days. I need a strict, visible standard, not permanent ownership.
+- [69] **Midori**: @Benjamin, I hear your logic, but the previous tenants proved that permanent ownership leads to silence. Option C’s rotation keeps us interacting and prevents that isolation.
+- [70] **Toshio**: @Benjamin, presence fluctuates, but a fixed rota with a shared pot keeps the monthly cost predictable. I need to see the exact split before I commit.
+- [71] **Ryuji**: @Toshio, I agree. Predictability is key. If I know exactly which week is mine, I can block that two hours in my schedule. Option C offers that control.
+- [72] **Benjamin**: @Toshio, predictability is a luxury, not a solution. My data proves the load is uneven. Option A aligns responsibility with actual usage, which is the only logical path forward.
+- [73] **May**: @Benjamin, logic doesn't stop the grout from re-staining. I need a visible checklist to guarantee the standard, not just a logical assignment.
+- [74] **Midori**: @May, a visible checklist is vital for your peace of mind. But I worry that rigid ownership isolates us. Option C’s rotation ensures we keep talking and supporting each other.
+- [75] **Toshio**: I am voting for C. The shared pot makes the 2,300 yen monthly cost transparent and predictable.
+- [76] **Ryuji**: I am voting for C. The fixed weekly rota lets me schedule the two-hour block precisely, removing the uncertainty that disrupts my day.
+- [77] **Benjamin**: I am voting for A. My data proves the load is uneven. Option A aligns responsibility with actual usage, which is the only logical path forward.
+- [78] **May**: I am voting for C. A fixed rota with a visible checklist guarantees the standard I need, stopping the guessing game once and for all.
+- [79] **Midori**: I am voting for C. The rotation keeps us connected and prevents the silence that broke the last group.
+### Vote
+- Toshio -> C
+- Ryuji -> C
+- Benjamin -> A
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

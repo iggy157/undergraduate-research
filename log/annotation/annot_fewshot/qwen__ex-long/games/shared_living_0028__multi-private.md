@@ -1,0 +1,73 @@
+# shared_living_0028__multi-private (shared_living)
+
+## Round 1
+- [5] **Shion**: I will examine the partition wall to the office and the unplanned talk since the refit.
+- [6] **Daisuke**: I’m worried about the costs. I’ll check the invoices for outside hire and the quotes for the two fit-outs.
+- [7] **Rin**: I want to know who actually uses the room! I’ll check the fortnight's tally of use and where the last awkward conversation happened.
+- [8] **Servas**: I will examine the round trip for a hot lunch and the crumbs and bins at the desks.
+- [9] **Toshio**: I will examine the facilities callouts on this floor and the final clear-out of the old fridge.
+- [10] **Shion**: I observe the partition and the unplanned talk. Sound and mess are the real issues, not principle.
+- [11] **Daisuke**: I’m still waiting on the numbers. I need to see the actual costs before we decide anything.
+- [12] **Rin**: @Daisuke, money is important! But I want to know who’s actually in there. I’m checking the tally and the awkward spot!
+- [13] **Servas**: @Rin, knowing who is there is vital. But I wonder if the room’s physical layout is quietly preventing us from truly connecting.
+- [14] **Toshio**: I am tracking where the hours go. The callouts and the fridge clear-out will reveal the hidden labor.
+- [15] **Shion**: I am securing the acoustic and ergonomic certainty. The partition and the talk logs will confirm my need for isolation.
+- [16] **Daisuke**: I’m sorry, I’m still anxious about the figures. I just need to see the invoices and quotes to be sure.
+- [17] **Rin**: @Shion, isolation sounds lonely! I want to know who’s actually in there. I’m checking the tally and the awkward spot!
+- [18] **Servas**: @Shion, isolation protects the self, but connection protects the team. I am checking the lunch route and the crumbs to see how we truly share space.
+- [19] **Toshio**: I am not seeking isolation, but I am seeking clarity. The callouts and the fridge clear-out will reveal the hidden labor.
+- [20] **Shion**: I will examine the partition wall to the office and the unplanned talk since the refit.
+- [21] **Daisuke**: I’ll check the invoices for outside hire and the quotes for the two fit-outs. I need to see the real numbers before we commit.
+- [22] **Rin**: I’m all set! I’ll check the fortnight's tally of use and where the last awkward conversation happened. Let’s see who’s really in there!
+- [23] **Servas**: I will examine the round trip for a hot lunch and the crumbs and bins at the desks. Let’s see how we truly share this space.
+- [24] **Toshio**: I will examine the facilities callouts on this floor and the final clear-out of the old fridge. Let’s see where the hidden hours go.
+## Round 2
+- [35] **Shion**: The plasterboard is a single sheet. I can hear every word. The unplanned talk is dead. I need acoustic certainty, not false hope.
+- [36] **Daisuke**: I found the numbers. We paid 68,000 yen last year for outside hire. The fit-outs are 141,000 and 96,000. I need to see how this compares to our current monthly costs.
+- [37] **Rin**: @Shion, the tally is wild! Two people near the door used it eleven times, everyone else only four! And the awkward talk happened right in front of everyone!
+- [38] **Servas**: @Rin, the crumbs reveal we eat in silence, not together. The twenty-five minute lunch trip means we rarely share a table. We are physically close, yet emotionally distant.
+- [39] **Toshio**: Eleven callouts for equipment, zero for the empty room. The fridge clear-out was done twice by one person. The hidden labor is real and concentrated.
+- [40] **Shion**: @Rin, the tally confirms the noise source. Two people near the door generate the chaos. I need the partition fixed to secure my acoustic certainty.
+- [41] **Daisuke**: @Toshio, that hidden labor is exactly what I fear. If we don’t fix the room, we keep paying for outside hire. I need to see the monthly totals.
+- [42] **Rin**: @Toshio, one person doing the fridge clear-out twice? That’s unfair! I want a fair rule so nobody gets stuck with the mess.
+- [43] **Servas**: @Toshio, that hidden labor is a quiet wound. We must ensure the new arrangement does not simply shift the burden to another silent shoulder.
+- [44] **Toshio**: @Daisuke, the labor is already concentrated. If we add more equipment, we risk more callouts. I need to know if the fit-outs reduce that hidden burden or just shift it.
+- [45] **Shion**: @Daisuke, the 141,000 yen fit-out is the only option that guarantees acoustic certainty. I reject the cheaper alternative. It is a trap for my focus.
+- [46] **Daisuke**: @Shion, I hear you, but 141,000 is a huge jump from our 68,000 annual hire. I need to know if the screen actually stops the noise before I agree to that cost.
+- [47] **Rin**: @Daisuke, I get the money worry! But the tally proves the door people hog the room. We need a fair rule so everyone gets a turn, not just the lucky ones!
+- [48] **Servas**: @Rin, fairness is essential, but connection is the soul. If we only divide time, we remain strangers. We must create a space where difficult words can finally be spoken.
+- [49] **Toshio**: @Rin, fairness is necessary, but the data shows the burden falls on one person. We must design a system that prevents that concentration, not just rotate the pain.
+- [50] **Shion**: I stand by my position. The 141,000 yen fit-out is the only path to acoustic certainty. I reject the cheaper alternative. It is a trap for my focus.
+- [51] **Daisuke**: I’m sorry, I’m still anxious. 141,000 yen is a huge risk. I need to see the monthly totals to be sure before I agree to anything.
+- [52] **Rin**: @Toshio, exactly! We need a fair rule so the mess doesn’t just move to someone else. I want a system where everyone shares the cleanup, not just the lucky ones!
+- [53] **Servas**: @Daisuke, I understand your caution. But a room that only protects silence will leave us strangers. We must invest in a space that invites honest conversation, not just quiet.
+- [54] **Toshio**: I agree with Rin. We must prevent the burden from concentrating on one person again. The data proves that hidden labor is the real cost.
+## Round 3
+- [60] **Shion**: Option C is the only logical choice. It guarantees the acoustic certainty I require. I reject the noise of A and B.
+- [61] **Daisuke**: I’m sorry, but I can’t agree yet. Option B costs 141,000 yen, which is double our annual hire. I need to see if that investment actually stops the noise before I commit.
+- [62] **Rin**: @Shion, a quiet room sounds lonely! I want to talk, not hide! But I need a fair rule so the door people don’t hog it.
+- [63] **Servas**: @Shion, silence protects the self, but connection protects the team. I fear Option C leaves us as strangers. We need a space where difficult words can finally be spoken.
+- [64] **Toshio**: Option A’s maintenance falls on the user. That is the hidden labor I fear. I need to know who absorbs the upkeep before I can support it.
+- [65] **Shion**: @Servas, connection is a luxury I cannot afford. The plasterboard proves the room is a leak. Option C is the only logical solution.
+- [66] **Daisuke**: @Toshio, I agree. The 96,000 yen for Option A is cheaper, but who pays for the repairs? I need to know the long-term cost before I can choose.
+- [67] **Rin**: @Toshio, exactly! If the room is for cooking, who cleans the crumbs? I want a fair rule so the mess doesn’t just land on one person again!
+- [68] **Servas**: @Toshio, the crumbs prove we already eat in silence. Option A invites us to share a table, breaking the isolation. I support A to restore our connection.
+- [69] **Toshio**: @Servas, connection is vital, but the data shows the burden concentrates. If A’s upkeep falls on one person, we repeat the fridge mistake. I need a clear rotation rule.
+- [70] **Shion**: @Daisuke, the 141,000 yen is irrelevant. The plasterboard is a single sheet. Option C is the only path to acoustic certainty. I reject the noise of A and B.
+- [71] **Daisuke**: @Shion, I hear your need for quiet. But 141,000 yen is a huge risk. I need to know if Option B actually stops the noise before I can agree to that cost.
+- [72] **Rin**: @Daisuke, I get the money worry! But Option B’s calendar is the fair rule I need! It stops the door people from hogging the room. I’m voting B!
+- [73] **Servas**: @Rin, the calendar is a good start, but I fear it merely schedules our silence. I support Option A, where we share a table and finally speak.
+- [74] **Toshio**: @Rin, the calendar is a start, but it does not address the hidden labor. I need to know who maintains the screen before I can support B.
+- [75] **Shion**: I stand by my vote for C. The plasterboard is a single sheet; only isolation guarantees the acoustic certainty I require. I reject the noise of A and B.
+- [76] **Daisuke**: I’m sorry, I’m still anxious. I can’t sign for 141,000 yen without proof it works. I need to see the monthly totals to be sure before I commit.
+- [77] **Rin**: @Daisuke, I get the worry! But the tally proves the door people hog the room. Option B’s calendar is the fair rule I need. I’m voting B!
+- [78] **Servas**: @Daisuke, I understand your caution. But a room that only protects silence leaves us strangers. I am voting for A to restore our connection.
+- [79] **Toshio**: I am voting for B. The shared calendar distributes the scheduling burden, preventing the hidden labor concentration I identified. It is the only option that protects our hours.
+### Vote
+- Shion -> C
+- Daisuke -> B
+- Rin -> B
+- Servas -> A
+- Toshio -> B
+## Result
+- adopted: B

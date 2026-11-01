@@ -1,0 +1,73 @@
+# shared_living_0022__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **May**: I refuse to sign anything that keeps the bin at one gate forever.
+- [6] **Mizuki**: The smell in August is unbearable. We need a solution that works daily.
+- [7] **Kenji**: I worry about the cost. Who pays for the new shelter?
+- [8] **Midori**: I just want us to be able to talk to each other again.
+- [9] **Servas**: We must measure the burden before we agree to carry it.
+- [10] **May**: @Kenji, cost is fine if the placement is fair.
+- [11] **Mizuki**: @Midori, talking helps, but the odor is a health issue.
+- [12] **Kenji**: @Servas, exactly. We need the numbers to see who pays what.
+- [13] **Midori**: @Mizuki, I agree. But let's not let anger drive the choice.
+- [14] **Servas**: @Kenji, yes. I will look into the ledger and the subsidy.
+- [15] **May**: I want to see the frontage measurements. That decides fairness.
+- [16] **Mizuki**: I will check the complaint log and the station block minutes.
+- [17] **Kenji**: I will look at the block ledger and the ward subsidy.
+- [18] **Midori**: I will check the residents' meeting statements and the truck time.
+- [19] **Servas**: I will check the ward filing requirements and the shelter costs.
+- [20] **May**: Let's see what the data says before we commit.
+- [21] **Mizuki**: Agreed. Facts over feelings.
+- [22] **Kenji**: I hope the numbers show a fair split.
+- [23] **Midori**: I hope we can still share a meal afterwards.
+- [24] **Servas**: May the truth guide our hands.
+## Round 2
+- [35] **May**: The logs show one household filed eleven of fourteen complaints.
+- [36] **Mizuki**: That confirms my suspicion. The current setup is failing that neighbor.
+- [37] **Kenji**: The ledger shows we spend thirty-four thousand yen a year on extra fees.
+- [38] **Midori**: The truck comes at seven forty. That is before I am even awake.
+- [39] **Servas**: The clerk says a permanent build needs four months and five signatures.
+- [40] **May**: @Kenji, thirty-four thousand is a lot. But is it fair?
+- [41] **Mizuki**: @Midori, seven forty is early. We need a time that works for all.
+- [42] **Kenji**: @Servas, four months is long. Can we do something temporary first?
+- [43] **Midori**: @Mizuki, if the truck is early, maybe we rotate the duty?
+- [44] **Servas**: @Kenji, temporary is wise. But we must know the true cost of keeping it.
+- [45] **May**: The frontage data is clear. One house has a driveway blocking the bay.
+- [46] **Mizuki**: The station block minutes show they fought over the latch within two years.
+- [47] **Kenji**: The subsidy covers forty percent. That helps, but the rest is on us.
+- [48] **Midori**: The statements show people want to help, but they are afraid to ask.
+- [49] **Servas**: The shelter cost is high. We must budget for maintenance, not just building.
+- [50] **May**: We cannot ignore the driveway issue. It changes the math.
+- [51] **Mizuki**: We must avoid the station block's mistake. We need a clear rule.
+- [52] **Kenji**: I think we should look at a shared fund for the maintenance.
+- [53] **Midori**: I think we should choose a time that lets us all sleep.
+- [54] **Servas**: I think we should choose the option that asks the least of our daily lives.
+## Round 3
+- [60] **May**: Option A moves the burden. That is what I want.
+- [61] **Mizuki**: Option B keeps the smell in one place. I do not like that.
+- [62] **Kenji**: Option C is expensive. I am worried about the maintenance fund.
+- [63] **Midori**: Option B lets us talk during the morning. I like that.
+- [64] **Servas**: Option A spreads the wear. It is the kindest to the spirit.
+- [65] **May**: @Mizuki, the smell moves too. That is the point.
+- [66] **Mizuki**: @May, but the station block fought over the latch. A structure is risky.
+- [67] **Kenji**: @Midori, talking is good, but the truck time is still early.
+- [68] **Midori**: @Kenji, we can adjust the window. We can be kind.
+- [69] **Servas**: @Kenji, the cost of C is high. A is cheaper in the long run.
+- [70] **May**: I vote for A. It is the only one that is truly equal.
+- [71] **Mizuki**: I vote for A. It prevents the resentment I saw in the logs.
+- [72] **Kenji**: I vote for A. It avoids the big upfront cost of C.
+- [73] **Midori**: I vote for A. It keeps us moving together, not stuck.
+- [74] **Servas**: I vote for A. It asks the least of our daily hours.
+- [75] **May**: It seems we are all in agreement.
+- [76] **Mizuki**: Yes. The data supports it.
+- [77] **Kenji**: I am glad we found a way to share the load.
+- [78] **Midori**: I am glad we can still be neighbours.
+- [79] **Servas**: May this arrangement bring peace to our lane.
+### Vote
+- May -> A
+- Mizuki -> A
+- Kenji -> A
+- Midori -> A
+- Servas -> A
+## Result
+- adopted: A

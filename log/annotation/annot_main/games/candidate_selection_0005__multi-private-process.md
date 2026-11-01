@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: Hi everyone! I'm so excited to help! To make sure our new service doesn't run into unexpected trouble, maybe we should check the bus links in the outer wards and the winter road closures?
+- [6] **Benjamin**: It is a pleasure to be here. While logistics are certainly vital, I suspect we might be reinventing the wheel. I suggest we also examine the two programmes begun six years ago to see what actually worked.
+- [7] **Shion**: Logistics and history are fine, but we're ignoring the human element. Who is actually going to run these services? I want to see the volunteer register and supervision training to check our current capabilities.
+- [8] **Minako**: I agree with the need for logistical and personnel data. However, we must ensure the funding is sustainable over several years. I suggest we look into the county grant terms and the endowment.
+- [9] **Daisuke**: I... I think you're all right. I'm worried about who can actually get to us. Maybe we should also look at the attendance sheets from former outreach stops to see where people are?
+- [10] **Yumi**: Those are all great points! @Benjamin, looking at old programmes is a smart way to learn. I'll stick with the bus links and winter road closures to make sure we can actually reach everyone!
+- [11] **Benjamin**: I appreciate your enthusiasm, Yumi. To complement your logistical research and my interest in historical precedents, I shall look into the two programmes begun six years ago and the attendance sheets from former outreach stops.
+- [12] **Shion**: @Benjamin, you're overlapping with Daisuke. I'll stick to my plan. I'll examine the volunteer register and supervision training, and I'll also check the neighbourhood associations and tool certification to see what skills we actually have.
+- [13] **Minako**: Since we have the logistics and personnel covered, I will focus on the financial side. I'll look into the county grant terms and the endowment, as well as the running and equipment lines from last year.
+- [14] **Daisuke**: @Benjamin, it's okay that you're looking at the attendance sheets... I'll just look into the evening room bookings and remote catalogue use. I want to see who uses us when they can't visit.
+- [15] **Yumi**: It sounds like we have a really solid plan! We're covering everything from money to people and transport. I'm happy to handle the road and bus data to keep us on track!
+- [16] **Benjamin**: Indeed, the division of labor is quite efficient. I shall delve into the archives to ensure we aren't merely repeating past mistakes with a fresh coat of paint. I look forward to seeing what you all discover.
+- [17] **Shion**: Efficiency is the goal here. While you all focus on where the people are and how to pay for it, I'll be the one determining if we even have the competence to execute it.
+- [18] **Minako**: It seems we have a comprehensive approach. I will analyze the financial structures to ensure we don't face a budget shortfall in the second year. I look forward to comparing my findings with your data.
+- [19] **Daisuke**: I... I hope my data helps. I just want to make sure we don't forget the people who can't easily get to the library. I'll do my best to find something useful.
+- [20] **Yumi**: I'm so glad we're all on the same page! Let's go find those answers and come back with everything we need to make this a success. Good luck everyone, I can't wait to hear what you find!
+- [21] **Benjamin**: Good luck to you as well, Yumi. I shall retire to the records now. I trust that a bit of historical perspective will provide the necessary grounding for our upcoming deliberations. Until we meet again.
+- [22] **Shion**: Don't get too carried away with the excitement, Yumi. Let's see if the reality of our resources actually matches your optimism. I'll be waiting to see if the numbers support your enthusiasm.
+- [23] **Minako**: I will begin my research now. I intend to identify any structural weaknesses in our funding to ensure the chosen service remains viable long-term. I will see you all in the next round.
+- [24] **Daisuke**: I'll... I'll go look into the records now. I hope I can find a way to help the people who feel left out. See you all soon.
+## Round 2
+- [35] **Yumi**: Oh boy, I found some worrying things! The outer wards lost their bus links, so people have a long trip now. Also, roads north of the river closed eleven days last winter! We really need a stable plan.
+- [36] **Benjamin**: It seems the physical world is as fickle as ever. Interestingly, my research shows that while some past efforts failed due to poor indexing, our previous outreach in those outer wards was remarkably popular—far exceeding our midweek traffic.
+- [37] **Shion**: The physical world isn't the only thing that's fickle. I've found a glaring gap in our internal capacity: we have no one on the payroll trained to supervise outside facilitators. We're essentially flying blind on oversight.
+- [38] **Minako**: The financial data is equally concerning. The county grant only covers the first year, and last year's vehicle costs overran by a third. We must avoid any proposal that relies on heavy transport or short-term funding.
+- [39] **Daisuke**: I... I found that remote catalogue use peaks very late at night, long after we close. And the old outreach stops in the outer wards were actually more popular than the main building. It's... it's really sad.
+- [40] **Yumi**: @Minako, that's so scary about the budget! If we pick something that needs a lot of driving, we might run out of money or get stuck when the roads close. We need a service that stays reliable!
+- [41] **Benjamin**: @Yumi, your concern is well-founded. However, we must balance that fear with the fact that the demand in those outer wards is clearly immense. We shouldn't let a few snowdrifts blind us to where we are actually needed.
+- [42] **Shion**: @Benjamin, demand is irrelevant if we lack the competence to manage it. We have no one qualified to supervise outside facilitators, and our tool certification expert is gone. We can't just "hope" the staff can handle it.
+- [43] **Minako**: @Shion, you are correct. Between the lack of qualified supervisors and the funding structure, we cannot afford a high-risk operation. We need a service that is low-maintenance and doesn't rely on expensive, recurring transport costs.
+- [44] **Daisuke**: @Minako, I understand... but if we only pick something "low-risk," the people in the outer wards will just be left behind again. They already lost their buses. It feels wrong to ignore them just because it's difficult.
+- [45] **Yumi**: @Daisuke, I totally agree! It's heartbreaking that they lost their buses. But if we start a service that fails because of road closures or money, we'll just let them down again. We need a way to reach them that actually lasts!
+- [46] **Benjamin**: @Yumi, @Daisuke, your empathy is commendable. However, let us recall the digitisation project from six years ago; it failed not for lack of heart, but for lack of organization. We must ensure our ambition is matched by a sustainable structure.
+- [47] **Shion**: @Benjamin, exactly. Heart doesn't manage a budget or certify equipment. If we implement a service requiring specialized oversight we don't possess, we aren't helping the community; we're just setting the staff up for failure.
+- [48] **Minako**: @Daisuke, I empathize with your position, but a service that collapses after twelve months is not a solution; it is a disappointment. We must prioritize a model that fits our actual budget and staffing capacity to ensure long-term reliability.
+- [49] **Daisuke**: I... I know you're right about the risks. But if we only look at the budget, we're just deciding that some people aren't worth the effort. Is there really no way to reach them safely?
+- [50] **Yumi**: Maybe we can find a middle ground! If we pick a service that doesn't rely on our own vehicles or specialized staff, we can still help those people without risking a total collapse when things get tough!
+- [51] **Benjamin**: A most prudent suggestion, Yumi. If we can identify a model that leverages existing community autonomy—much like those evening groups that have survived unaided for six years—we might satisfy both our conscience and our constraints.
+- [52] **Shion**: @Benjamin, now you're thinking logically. If we can find a proposal that doesn't require payroll supervision or specialized certifications, we avoid the staffing void. Let's see if any of the candidates actually fit that narrow window of viability.
+- [53] **Minako**: I agree. We must be disciplined. Any proposal requiring significant vehicle use or specialized supervision is a liability. We need a service that is structurally sound and financially sustainable beyond the first year. Let us evaluate the candidates with these constraints.
+- [54] **Daisuke**: I... I'll try to be disciplined too. I just hope that when we look at the candidates, we don't forget the people who are waiting for us in the dark. Please, let's try to find a way.
+## Round 3
+- [60] **Yumi**: Looking at the options, I'm really worried about Option D! With the bus links gone and those road closures, a mobile branch could easily get stuck or become too expensive. We can't risk it failing!
+- [61] **Benjamin**: I concur. Option D is a logistical nightmare waiting to happen. Furthermore, Option B reminds me of our failed digitisation attempt; without a rigorous indexing plan, we are simply creating a digital graveyard. We must be more strategic.
+- [62] **Shion**: Option A is out. We have no one to certify the power tools and no one to supervise the instructors. It's a safety liability we can't manage. That leaves us with B or C.
+- [63] **Minako**: I agree with Shion. Option A is a liability, and Option D is financially unsustainable given the vehicle cost overruns and the grant's one-year limit. Option C is the most viable, as it leverages partner organizations.
+- [64] **Daisuke**: I... I agree that Option D is too risky now. But Option C... it's the only one that actually goes to the people. If we use partners, maybe we can reach the outer wards safely. I vote for C.
+- [65] **Yumi**: @Daisuke, you're right! Option C is wonderful because it reaches people where they are, but it doesn't rely on our own cars. It's the perfect way to be kind and reliable at the same time! I vote for C!
+- [66] **Benjamin**: @Yumi, @Daisuke, your alignment is refreshing. Option C mirrors the success of those six-year-old evening groups—autonomous, community-driven, and resilient. It avoids the pitfalls of our past failures and our current constraints. I also vote for C.
+- [67] **Shion**: @Benjamin, for once, your historical parallels are useful. Option C shifts the burden of supervision to the partner organizations, bypassing our lack of qualified staff. It's the only logical choice that doesn't create a management void. I vote for C.
+- [68] **Minako**: The consensus is clear. Option C avoids the vehicle costs that would drain our budget in the second year and bypasses our supervision gaps. It is the only sustainable choice. I vote for C.
+- [69] **Daisuke**: I'm... I'm glad we could all agree. It makes me feel better knowing we're choosing something that can actually reach the people who've been left behind. I vote for C too.
+- [70] **Yumi**: I'm just so happy we found a way to help everyone without it being too risky! It feels like we're really taking care of the community together. I'm sticking with my vote for C!
+- [71] **Benjamin**: It is a rare pleasure when logic and empathy converge so seamlessly. By choosing a model that empowers the community rather than one that depends on our own fragile infrastructure, we ensure a legacy of success. My vote remains C.
+- [72] **Shion**: It's a simple matter of elimination. A and D are liabilities, and B is a waste of time. C is the only option that doesn't rely on a staff competence we simply don't have. My vote is C.
+- [73] **Minako**: Since we have reached a unanimous agreement based on the financial and personnel constraints we identified, there is no reason to deviate. Option C is the only responsible choice. My vote is C.
+- [74] **Daisuke**: I... I'm just relieved. I was so afraid we'd have to choose between being safe and being fair. Thank you for listening to me. My vote is C.
+- [75] **Yumi**: Yay! I'm so glad we could all agree on something that's both safe and helpful. Let's make these Language Learning Circles the best they can be for everyone! My final vote is C!
+- [76] **Benjamin**: Indeed. We have avoided the vanity of a flashy project in favor of a sustainable one. It is a victory for pragmatism and a lesson in the value of historical record. My final vote is C.
+- [77] **Shion**: The result is inevitable. We've stripped away the fantasies and the risks, leaving only the one option that doesn't collapse under the weight of our own incompetence. My final vote is C.
+- [78] **Minako**: We have carefully weighed the risks and the data. Option C is the only proposal that ensures long-term financial stability and operational viability. My final vote is C.
+- [79] **Daisuke**: I... I'm just happy we're doing this. I hope the people in the outer wards feel that we haven't forgotten them. My final vote is C.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> C
+- Daisuke -> C
+## Result
+- adopted: C

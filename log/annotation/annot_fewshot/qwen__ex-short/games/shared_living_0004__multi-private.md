@@ -1,0 +1,73 @@
+# shared_living_0004__multi-private (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to make sure nobody gets stuck paying extra this time.
+- [6] **Victoria**: I need the total weekly cost fixed before we commit, not surprises later.
+- [7] **Midori**: I want to understand why last year felt so disconnected, even with all of us together.
+- [8] **Toshio**: I need to see how much of the week is actually spent traveling versus being there.
+- [9] **Daisuke**: I worry about the small details, like where I can wash and when meals start.
+- [10] **Sakura**: @Victoria, I agree! Fixed costs are super important. @Midori, maybe we can plan more group games to fix that?
+- [11] **Victoria**: @Sakura, I appreciate the sentiment, but I need hard numbers first. @Midori, I’ll look into the all-in rates to see if the budget holds.
+- [12] **Midori**: @Victoria, that sounds wise. @Sakura, I think the layout matters more than games. I’ll check the room arrangements to see if we can talk easily.
+- [13] **Toshio**: @Midori, layout helps, but I need to know the travel time. @Victoria, if the ferry is long, the cost is irrelevant.
+- [14] **Daisuke**: @Toshio, I agree. Travel time is key. I will check bathing hours and how last year's days ran.
+- [15] **Sakura**: @Toshio, I hope the ferry isn't boring! I will check the all-in rates to see if the money works out fairly for everyone.
+- [16] **Victoria**: @Sakura, I will check the pricing of offshore houses let whole. @Toshio, I will also look at ferry sailings and train time.
+- [17] **Midori**: @Daisuke, I appreciate you checking the daily rhythm. I will look into how last year's days ran and the time alone in the shared-house year.
+- [18] **Toshio**: @Victoria, the ferry schedule is critical for my calculation. I will check ferry sailings and train time to see the actual transit hours.
+- [19] **Daisuke**: @Midori, thank you. I will check bathing hours and bathroom provision, and how last year's days ran.
+- [20] **Sakura**: I will check the all-in rates against meals bought separately. I want to see if the money is truly fair for everyone!
+- [21] **Victoria**: I will check the pricing of offshore houses let whole and ferry sailings and train time.
+- [22] **Midori**: I will check how last year's days ran and the time alone in the shared-house year.
+- [23] **Toshio**: I will check ferry sailings and train time, and getting around by train and bus.
+- [24] **Daisuke**: I will check bathing hours and bathroom provision, and how last year's days ran.
+## Round 2
+- [35] **Sakura**: - **Sakura**: @Victoria, I found that separate rooms cost nearly 8,000 yen more last time! Renting whole is much fairer.
+- [36] **Victoria**: @Sakura, that gap is significant. @Toshio, the ferry eats two full days, which complicates the cost-per-day calculation.
+- [37] **Midori**: @Toshio, that travel time is heavy. @Sakura, I found that last year we barely met because we moved separately. We need to stay together.
+- [38] **Toshio**: @Victoria, two days lost is unacceptable. @Midori, the valley bus stops early, limiting our evening options.
+- [39] **Daisuke**: @Midori, I found the baths close at midnight, but the water runs cold. @Toshio, I worry the valley bus limits our evening options.
+- [40] **Sakura**: @Daisuke, cold water is a bummer! @Midori, staying together means one bill, which is exactly what I want for fairness.
+- [41] **Victoria**: @Sakura, one bill is ideal, but the offshore rate is 5,400 yen per head nightly, plus food. @Toshio, the 16:20 return ferry is a hard deadline.
+- [42] **Midori**: @Victoria, 5,400 yen is steep. @Toshio, if the ferry is that tight, maybe we should look at the valley inn instead?
+- [43] **Toshio**: @Midori, the valley train is ninety minutes, not two days. @Victoria, the city trains run frequently, so we lose no time moving around.
+- [44] **Daisuke**: @Toshio, ninety minutes is much better. @Midori, I am relieved we will stay together. I just need to know if the valley inn has private bathrooms.
+- [45] **Sakura**: @Toshio, ninety minutes is perfect! @Victoria, if the offshore house is one bill, I can split it evenly without anyone owing me money.
+- [46] **Victoria**: @Sakura, one bill is clean, but 5,400 yen nightly plus food is a large variable. @Toshio, the ninety-minute train is far more efficient than the ferry.
+- [47] **Midori**: @Toshio, ninety minutes is a relief. @Daisuke, I hope the valley inn has private bathrooms too. I want us to feel comfortable and close.
+- [48] **Toshio**: @Daisuke, the valley bus stops before seven, so we must plan evenings carefully. @Victoria, the ninety-minute train is the only option that preserves our actual holiday time.
+- [49] **Daisuke**: @Toshio, that is worrying. @Midori, I am glad we are staying together. I just need to know if the valley inn has private bathrooms.
+- [50] **Sakura**: @Victoria, I am worried about the food costs! If we buy meals separately, the light eaters pay too much. Can we fix the food budget?
+- [51] **Victoria**: @Sakura, I am checking the all-in rates to see if we can lock the food cost. @Toshio, the train is the only viable option for me.
+- [52] **Midori**: @Sakura, I agree, fixed food costs are vital. @Victoria, I hope the all-in rate covers us fairly. I want us to eat together, not just sleep near each other.
+- [53] **Toshio**: @Victoria, I agree. The train preserves the week. @Sakura, fixed food costs are essential for a predictable budget.
+- [54] **Daisuke**: @Midori, I am still unsure about the bathroom situation. @Victoria, if the all-in rate covers meals, that would help me feel more at ease.
+## Round 3
+- [60] **Sakura**: @Victoria, Option C sounds perfect! One bill, meals included, and no ferry boredom. I want to avoid the separate room chaos!
+- [61] **Victoria**: @Sakura, Option C is the only one where I can see the full cost. @Toshio, the train time is acceptable.
+- [62] **Midori**: @Sakura, I agree. Option C lets us eat together and still have space to breathe. @Toshio, the train time is manageable.
+- [63] **Toshio**: @Victoria, Option C is the only one that preserves the week. The ninety-minute train is efficient, unlike the ferry.
+- [64] **Daisuke**: @Midori, Option C sounds gentle. I am worried about the bathing hours, but the train is much better than the ferry.
+- [65] **Sakura**: @Daisuke, don't worry! The hot springs are the best part. @Victoria, since meals are included, the money is totally fair. I love this idea!
+- [66] **Victoria**: @Sakura, I agree. The all-in rate removes the variable I fear most. @Toshio, the train schedule is the only one that respects our time.
+- [67] **Midori**: @Daisuke, the inn’s bathing hours are generous, so you won’t feel rushed. @Sakura, I am glad we can finally share meals without the awkward silence of last year.
+- [68] **Toshio**: @Daisuke, the bathing hours are fixed, but the bus stops early. @Midori, the unplanned days risk wasting time. I need structure.
+- [69] **Daisuke**: @Toshio, I understand the need for structure. @Midori, I am relieved the baths are open late. I think Option C is the best fit for me.
+- [70] **Sakura**: @Toshio, I know you want structure, but the inn handles the meals and baths! We just need to agree on one shared pot for extras.
+- [71] **Victoria**: @Toshio, the inn structure is sufficient. I need the final invoice to be fixed, not a daily log. @Sakura, I agree on the shared pot for extras.
+- [72] **Midori**: @Toshio, the inn provides the rhythm we need. @Sakura, I agree, a shared pot for extras keeps things flexible without losing the structure.
+- [73] **Toshio**: @Sakura, the inn structure is sufficient. @Victoria, I accept the train time. Option C preserves the week.
+- [74] **Daisuke**: @Toshio, the inn rhythm helps me feel safe. @Midori, I am glad we are staying together. I am ready to vote for Option C.
+- [75] **Sakura**: @Victoria, I am so happy we are all on the same page! Option C is the winner for me. I vote for C!
+- [76] **Victoria**: @Sakura, I agree. The fixed rate eliminates the uncertainty I dread. I am voting for C.
+- [77] **Midori**: @Sakura, I am so relieved. Option C gives us the togetherness we missed last year, with just enough space to breathe. I am voting for C.
+- [78] **Toshio**: @Victoria, the train preserves the week. Option C is the only viable choice. I am voting for C.
+- [79] **Daisuke**: @Midori, I am glad the baths are open late. The inn rhythm helps me feel safe. I am voting for C.
+### Vote
+- Sakura -> C
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

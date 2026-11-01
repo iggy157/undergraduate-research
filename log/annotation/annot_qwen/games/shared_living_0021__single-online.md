@@ -1,0 +1,73 @@
+# shared_living_0021__single-online (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to pick a destination before bookings open. What are the main factors we should consider first?
+- [6] **Shion**: The previous camp’s sleep deprivation ruined our final sessions. I need to verify the actual sleeping conditions before we commit to anything.
+- [7] **Minato**: I’m worried about the workload. Last year, the organizers were exhausted from all the planning and duties.
+- [8] **Misaki**: I need to understand where the money actually went last year before we agree on any new costs.
+- [9] **Takumi**: The last camp failed to break down the barriers between year groups. I need to know how the location affects who actually spends time together.
+- [10] **Asuka**: @Shion, @Minato, @Misaki, @Takumi, please each pick two items from the list to investigate.
+- [11] **Shion**: I’ll check the accounts from two clubs that went inland and the prefecture rate sheet for publicly run beds.
+- [12] **Minato**: I’ll look into the canteen closure and last year’s cooking duty, and the group transport in three years of receipts.
+- [13] **Misaki**: I’ll check the group transport in three years of receipts and the quoting terms for whole-building lets.
+- [14] **Takumi**: I’ll check what the seniors say about year-groups mixing and the attendance sheets for the away camps.
+- [15] **Asuka**: I’ll investigate the membership list against first-train times and the vacation timetable for the club's own hall.
+- [16] **Shion**: I’ll also look into the lottery and application for public group bookings.
+- [17] **Minato**: I’ll check the vacation timetable for the club's own hall and the membership list against first-train times.
+- [18] **Misaki**: I’ll also check the lottery and application for public group bookings.
+- [19] **Takumi**: I’ll also check the prefecture rate sheet for publicly run beds.
+- [20] **Asuka**: I’ll also check the accounts from two clubs that went inland.
+- [21] **Shion**: I’ll also check the membership list against first-train times.
+- [22] **Minato**: I’ll also check the attendance sheets for the away camps.
+- [23] **Misaki**: I’ll also check the canteen closure and last year’s cooking duty.
+- [24] **Takumi**: I’ll also check the canteen closure and last year’s cooking duty.
+## Round 2
+- [35] **Asuka**: #### Turn 1 of 4
+- [36] **Shion**: - **Shion**: The inland accounts show eight to a room with lights out at eleven. That explains the poor performance.
+- [37] **Minato**: - **Minato**: The canteen closes, so cooking took two hours daily. Transport was also the biggest cost.
+- [38] **Misaki**: -Misaki: Transport was 38% of costs when we went far. Whole-building deposits are non-refundable if people drop out late.
+- [39] **Takumi**: The seniors say mixing only happens in shared evenings. Attendance sheets show a fifth never came at all.
+- [40] **Asuka**: - **Asuka**: A third can't reach campus by nine without a bed. Our own hall is already booked by three other clubs.
+- [41] **Shion**: - **Shion**: @Asuka, that confirms it. We need a location with proper dorms and enforced rest, not just a hall.
+- [42] **Minato**: - **Minato**: @Misaki, if the deposit is non-refundable, how do we protect the budget if someone cancels?
+- [43] **Misaki**: @Minato, that’s the risk. We’d have to cover the gap from the club account, which is already strained.
+- [44] **Takumi**: @Shion, shared evenings are the only way we mix. We need a place where everyone stays together, not just trains.
+- [45] **Asuka**: @Shion, the hall is unusable. We need a destination that solves the transport and accommodation issues simultaneously.
+- [46] **Shion**: @Asuka, agreed. The inland option offers enforced rest, but the eight-to-a-room density is unacceptable. We need a balance.
+- [47] **Minato**: @Misaki, I’m worried. If we can’t cover the gap, the organizers will be stuck with the debt again.
+- [48] **Misaki**: @Minato, I understand. That is exactly why I need to see the full breakdown before we commit to any non-refundable terms.
+- [49] **Takumi**: @Minato, the attendance data is clear. If we don’t force shared living, we lose a fifth of the club. We must prioritize that.
+- [50] **Asuka**: @Takumi, shared living is essential, but we must ensure the cost structure doesn't bankrupt us. I need a clear financial path forward.
+- [51] **Shion**: @Asuka, the rate sheet shows 1,100 yen per night with equipment included. That is the only option with a fixed, transparent cost structure.
+- [52] **Minato**: @Misaki, I’m glad we found the transport costs. If we pick a place with staff, we save time and money.
+- [53] **Misaki**: @Minato, exactly. Staffed kitchens remove the daily cooking burden, which directly reduces the hidden labor costs that drained us last year.
+- [54] **Takumi**: @Shion, the 1,100 yen rate is manageable, but only if we avoid the eight-to-a-room density. We need a place that guarantees proper rest and shared evenings.
+## Round 3
+- [60] **Asuka**: The options are A: Mountain Training Centre, B: Campus Intensive, C: Coastal Lodge. Based on our findings, A offers fixed costs and enforced rest, but we must verify room density.
+- [61] **Shion**: @Asuka, A is the only one with enforced rest. I need to confirm the room density isn’t eight-to-a-room before I support it.
+- [62] **Minato**: - **Minato**: @Shion, I worry about the workload. If A requires complex applications, will we be exhausted again?
+- [63] **Misaki**: @Minato, the public booking lottery is a nine-page application that must be resubmitted if dates shift. That is a significant administrative burden.
+- [64] **Takumi**: @Shion, the seniors confirmed mixing only happens in shared evenings. A forces that. C is too risky with non-refundable deposits.
+- [65] **Asuka**: @Shion, the municipal system guarantees the rate, but the density risk remains. We need a firm commitment on room size before I can support A.
+- [66] **Shion**: @Asuka, I will not vote for A without written confirmation of room capacity. If it is eight-to-a-room, the sleep deprivation returns and the training fails.
+- [67] **Minato**: @Misaki, the nine-page application sounds terrifying. I don’t want to spend my evenings filling out forms again.
+- [68] **Misaki**: @Minato, it is a burden, but the fixed rate protects us from the unpredictable costs that nearly broke us last year.
+- [69] **Takumi**: @Minato, the application is a one-time cost. The alternative is losing a fifth of the club to disengagement. That is a far greater loss.
+- [70] **Asuka**: @Shion, I cannot accept a gamble on sleep quality. If the density is high, the training value vanishes. We need a guarantee.
+- [71] **Shion**: @Asuka, I understand. I will request the specific room allocation details from the municipal office immediately. If they cannot guarantee fewer than six per room, I will not support A.
+- [72] **Minato**: @Misaki, I’m still worried about the paperwork. But if it means we don’t have to cook or worry about transport costs, I can try to help with the forms.
+- [73] **Misaki**: @Minato, your help is appreciated. The fixed rate is the only way to ensure we don't repeat last year's financial shortfall.
+- [74] **Takumi**: @Shion, I support A. The shared evenings are non-negotiable for our club's survival. If the room density is acceptable, I am voting for it.
+- [75] **Asuka**: @Shion, if the municipal office cannot guarantee fewer than six per room, I will not support A. We need a firm commitment on room size before I can support it.
+- [76] **Shion**: @Asuka, agreed. If they cannot guarantee fewer than six per room, I will not support A. We need a firm commitment on room size before I can support it.
+- [77] **Minato**: @Asuka, I understand the risk. But if we choose C, the non-refundable deposit could bankrupt us if anyone cancels. A is safer financially.
+- [78] **Misaki**: @Minato, precisely. The non-refundable deposit is a financial trap. A’s fixed rate is the only way to protect the club account from further deficit.
+- [79] **Takumi**: @Asuka, I am voting for A. The shared living is essential for our club's unity, and the fixed costs are the only way to ensure we don't lose members or money.
+### Vote
+- Asuka -> A
+- Shion -> A
+- Minato -> A
+- Misaki -> A
+- Takumi -> A
+## Result
+- adopted: A

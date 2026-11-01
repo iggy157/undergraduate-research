@@ -1,0 +1,73 @@
+# shared_living_0021__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: The flat fee ignores individual spending. I need to see the receipts and the accounts from inland trips to check the math.
+- [6] **Shion**: I’m less worried about the budget. I need to verify the sleep quality and daily schedules. Poor rest ruins the training.
+- [7] **Minato**: I’m curious about the hall’s timetable. Does it stay open all week? I want to make sure we have enough quiet time to rest.
+- [8] **Misaki**: I need to verify the actual costs against our announced fees. The accounts from inland trips and the prefecture rate sheet are essential for this.
+- [9] **Takumi**: I need to check what the seniors say about year-groups mixing. Last camp failed because we barely talked.
+- [10] **Asuka**: @Misaki, your focus on the rate sheet is logical. I will also examine the prefecture rates to verify the baseline costs before we commit.
+- [11] **Shion**: @Minato, quiet time is irrelevant if the beds are uncomfortable. I’ll check the attendance sheets to see how fatigue affected performance last time.
+- [12] **Minato**: @Shion, I understand. I will look into the canteen closure and last year’s cooking duty to see if that caused the stress.
+- [13] **Misaki**: @Minato, that’s a good angle. I’ll check the group transport receipts and the prefecture rate sheet to pin down the exact financial gap.
+- [14] **Takumi**: @Shion, fatigue kills morale. I’ll check the attendance sheets to see who actually showed up last time.
+- [15] **Asuka**: @Takumi, attendance data is useful, but I need the actual financial breakdown. I will examine the group transport receipts to see where the money actually went.
+- [16] **Shion**: @Asuka, money is secondary. I’m checking the prefecture rate sheet to see if public beds are actually viable for our group size.
+- [17] **Minato**: @Asuka, I agree. I will look into the canteen closure and the prefecture rate sheet to understand the costs and food situation better.
+- [18] **Misaki**: @Asuka, I’ll check the group transport receipts and the prefecture rate sheet. I need to see exactly where the money went to close the gap.
+- [19] **Takumi**: @Asuka, money matters, but people matter more. I’m checking the membership list against first-train times to see who actually shows up.
+- [20] **Asuka**: I will examine the group transport receipts and the accounts from inland trips. I need to verify the actual financial burden and identify where the flat fee fails.
+- [21] **Shion**: I will examine the attendance sheets and the prefecture rate sheet. I need to correlate sleep quality with performance and verify if public beds are actually viable for our group size.
+- [22] **Minato**: I will look into the canteen closure and last year’s cooking duty. I want to see if the food stress caused the exhaustion.
+- [23] **Misaki**: I will examine the group transport receipts and the prefecture rate sheet. I need to trace the exact financial gap before we commit to any destination.
+- [24] **Takumi**: I will examine the attendance sheets and the membership list against first-train times. I need to know exactly who is missing and why.
+## Round 2
+- [35] **Asuka**: The transport receipts show costs spike to 38% for distant trips. Inland clubs slept eight to a room. The flat fee is mathematically unsound.
+- [36] **Shion**: @Minato, the public beds are 1,100 yen a night. That’s cheap, but I need to know if the quality matches the price.
+- [37] **Minato**: @Shion, I found the cooking duty took two hours daily. A place with kitchen staff would save us so much time and stress.
+- [38] **Misaki**: @Asuka, the transport spike confirms the gap. I need to see the inland accounts to verify if their costs match our shortfall.
+- [39] **Takumi**: @Shion, a third can't make the nine o'clock train without paying for a bed. We need a place close enough for everyone to actually show up.
+- [40] **Asuka**: @Misaki, the inland accounts show eight people per room. That overcrowding explains the fatigue. We need a destination with proper capacity.
+- [41] **Shion**: @Asuka, overcrowding explains the fatigue, but the rate sheet confirms public beds are affordable. I need to verify if the facilities actually support proper rest.
+- [42] **Minato**: @Shion, I agree. The 1,100 yen rate is very reasonable. I hope the rooms are comfortable enough for everyone to rest well.
+- [43] **Misaki**: @Asuka, the 1,100 yen rate is fixed. If transport eats 38% of the budget, we cannot afford distant trips. We must stay local to close the gap.
+- [44] **Takumi**: @Misaki, staying local is useless if a third of us can't afford the night before. We need proximity, not just cheap beds.
+- [45] **Asuka**: @Takumi, proximity is a logistical necessity, not a solution. The financial disparity remains. We need a destination where the base cost is low enough to absorb individual spending without breaking the flat fee.
+- [46] **Shion**: @Takumi, proximity is a logistical necessity, not a solution. The financial disparity remains. We need a destination where the base cost is low enough to absorb individual spending without breaking the flat fee.
+- [47] **Minato**: @Takumi, I worry about the cooking duty. If we pick a place with kitchen staff, we can rest properly and actually train.
+- [48] **Misaki**: @Minato, I agree. Kitchen staff saves time, but I need to verify the total cost. I will check the canteen closure and the prefecture rate sheet to ensure the budget holds.
+- [49] **Takumi**: @Minato, cooking duty is a trap. If we’re exhausted from cooking, we won’t talk. We need a place where we’re forced to interact, not just survive.
+- [50] **Asuka**: @Misaki, the 1,100 yen rate is fixed. If transport eats 38% of the budget, we cannot afford distant trips. We must stay local to close the gap.
+- [51] **Shion**: @Minato, cooking duty is a trap. If we’re exhausted from cooking, we won’t talk. We need a place where we’re forced to interact, not just survive.
+- [52] **Minato**: @Takumi, I agree. If we don’t have to cook, we can actually talk and rest. I hope we can find a place that helps us connect.
+- [53] **Misaki**: @Minato, I agree. Kitchen staff saves time, but I need to verify the total cost. I will check the canteen closure and the prefecture rate sheet to ensure the budget holds.
+- [54] **Takumi**: @Minato, exactly. No cooking means no hiding in the kitchen. We need a destination that forces us to sit together and actually talk.
+## Round 3
+- [60] **Asuka**: @Misaki, Option A’s eight-to-a-room setup is unacceptable. It guarantees the fatigue we saw in the accounts. We need proper capacity to make the flat fee viable.
+- [61] **Shion**: @Asuka, overcrowding is the enemy. I need to verify if Option A’s dorms actually allow for proper rest, or if we’re just repeating last year’s mistakes.
+- [62] **Minato**: @Shion, I worry about the cooking duty again. Does Option A have kitchen staff? I want to make sure we can rest and train properly.
+- [63] **Misaki**: @Minato, Option A’s public rate includes equipment, but I need to confirm if meals are covered. I cannot commit until the total cost is verified.
+- [64] **Takumi**: @Minato, Option A is a trap. Inland means a third of us can't even get there. We need proximity to force interaction, not isolation.
+- [65] **Asuka**: @Takumi, proximity is a logistical necessity, not a solution. The financial disparity remains. We need a destination where the base cost is low enough to absorb individual spending without breaking the flat fee.
+- [66] **Shion**: @Takumi, proximity is a logistical necessity, not a solution. The financial disparity remains. We need a destination where the base cost is low enough to absorb individual spending without breaking the flat fee.
+- [67] **Minato**: @Takumi, I understand the worry about travel. But if we stay close, we might not have the space to rest properly.
+- [68] **Misaki**: @Takumi, proximity is vital. Option B keeps transport near zero, protecting the budget. I need to verify the accommodation costs for commuters before agreeing.
+- [69] **Takumi**: @Misaki, Option B is the only way to keep everyone here. If we stay on campus, no one misses the first train. We can finally talk.
+- [70] **Asuka**: @Takumi, Option B’s separate accommodation creates a cost disparity. I need to verify the hall’s availability and the exact per-person fee to ensure the flat rate holds.
+- [71] **Shion**: @Asuka, Option B’s separate accommodation creates a cost disparity. I need to verify the hall’s availability and the exact per-person fee to ensure the flat rate holds.
+- [72] **Minato**: @Asuka, I worry about the separate rooms. If some sleep elsewhere, will we still eat together? I want everyone to feel included.
+- [73] **Misaki**: @Minato, I agree. If we stay on campus, the transport cost vanishes. I can finally close the gap without guessing.
+- [74] **Takumi**: @Minato, exactly. If we stay on campus, we eat together. No one gets left behind. Option B is the only choice that keeps us connected.
+- [75] **Asuka**: @Misaki, Option B minimizes transport, but separate accommodation creates a cost disparity. I need to verify the hall’s availability and the exact per-person fee to ensure the flat rate holds.
+- [76] **Shion**: @Minato, Option B’s separate accommodation creates a cost disparity. I need to verify the hall’s availability and the exact per-person fee to ensure the flat rate holds.
+- [77] **Minato**: @Takumi, I hope the hall is open all week. I want everyone to rest and train together, without the stress of cooking.
+- [78] **Misaki**: @Asuka, the hall is ours. No external transport, no hidden fees. I can verify the total cost immediately. Option B is the only financially sound choice.
+- [79] **Takumi**: @Minato, the hall is open. We eat, train, and sleep together. No one gets left behind. Option B is the only way we actually connect.
+### Vote
+- Asuka -> B
+- Shion -> B
+- Minato -> B
+- Misaki -> B
+- Takumi -> B
+## Result
+- adopted: B

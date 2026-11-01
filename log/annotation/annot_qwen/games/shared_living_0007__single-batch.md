@@ -1,0 +1,73 @@
+# shared_living_0007__single-batch (shared_living)
+
+## Round 1
+- [5] **Misaki**: I worry about how this affects our daily interactions in the lobby.
+- [6] **Shizue**: The morning rush is getting quite difficult for everyone, isn't it?
+- [7] **May**: We always debate the rules, but who actually checks the costs?
+- [8] **George**: We need to know the real workload before we commit to anything.
+- [9] **Mio**: I feel like the same people always get the good spots.
+- [10] **Misaki**: @May, do you have any data on what people actually pay?
+- [11] **Shizue**: @Mio, is that just a feeling, or have you seen the records?
+- [12] **May**: @Misaki, I haven't looked yet, but I suspect it's high.
+- [13] **George**: @Shizue, I agree. We need to see the physical effort involved.
+- [14] **Mio**: @Shizue, I just want to know if it's fair.
+- [15] **Misaki**: I want to avoid a situation where we start timing our exits.
+- [16] **Shizue**: I went to look at the parking rows to see the rain exposure.
+- [17] **May**: I need to check the ledger to see what we can afford.
+- [18] **George**: I will look at the treasurer's file to understand the paperwork.
+- [19] **Mio**: I want to check the sticker register to see who rides daily.
+- [20] **Misaki**: Let's see what we find before we decide.
+- [21] **Shizue**: Agreed. Facts will help us be kind to each other.
+- [22] **May**: I'll check the ward cycle park prices too for comparison.
+- [23] **George**: I'll also look at the supplier's frame trial.
+- [24] **Mio**: I'll check the five years of minutes to see history.
+## Round 2
+- [35] **Misaki**: The complaint log shows nine issues last year, all ignored.
+- [36] **Shizue**: I saw eleven bikes leave between seven and nine, with shoving.
+- [37] **May**: The ledger is empty for capital work, and the station park is 2,600 yen.
+- [38] **George**: Reconciling cash takes three hours a month, and the frame is hard to use.
+- [39] **Mio**: The minutes show the same flats held covered spots for five years.
+- [40] **Misaki**: @May, 2,600 yen is a lot. Can we afford that?
+- [41] **Shizue**: @George, if the frame is hard to use, shared racks might be bad.
+- [42] **May**: @Misaki, the ledger says we need a levy for anything big.
+- [43] **George**: @Shizue, the frame needs greasing twice a year. That's work.
+- [44] **Mio**: @Shizue, the shoving is real. We need a better system.
+- [45] **Misaki**: The neighbouring block had arrears with a monthly charge.
+- [46] **Shizue**: The rain exposure is bad past the downpipe.
+- [47] **May**: If we charge, we need to be careful about who can pay.
+- [48] **George**: I don't want to be the one doing the paperwork every month.
+- [49] **Mio**: The daily riders said they'd rather pay than be equal claims.
+- [50] **Misaki**: So a lottery might be fairer, but it ignores ability to pay.
+- [51] **Shizue**: Shared racks seem messy, but maybe we can manage it.
+- [52] **May**: Paid allocation seems expensive, but it brings in money.
+- [53] **George**: I'm leaning towards something simple that doesn't require me.
+- [54] **Mio**: I think the lottery is the most fair, even if it's random.
+## Round 3
+- [60] **Misaki**: Option A is paid, B is shared racks, C is annual lottery.
+- [61] **Shizue**: I worry about the shoving with shared racks, but the lottery feels cold.
+- [62] **May**: Paid allocation brings in money, but the station park is expensive.
+- [63] **George**: Shared racks require maintenance I don't want to do.
+- [64] **Mio**: The lottery is fair, but it doesn't account for who needs it most.
+- [65] **Misaki**: @May, if we charge, will people stop coming to meetings?
+- [66] **Shizue**: @George, if we don't charge, who fixes the racks?
+- [67] **May**: @Misaki, the neighbouring block had arrears, so it's risky.
+- [68] **George**: @Shizue, I can't do the greasing twice a year.
+- [69] **Mio**: @Misaki, the lottery is simple, but it might upset the regulars.
+- [70] **Misaki**: I think the lottery is the least likely to cause daily conflict.
+- [71] **Shizue**: I agree. It's fair, even if it's random.
+- [72] **May**: I'm hesitant about the cost, but the lottery avoids levies.
+- [73] **George**: I prefer the lottery. It requires no ongoing work from me.
+- [74] **Mio**: I vote for the lottery. It's the most equitable.
+- [75] **Misaki**: Let's vote. I think C is the best choice.
+- [76] **Shizue**: I agree with Misaki. C is fair.
+- [77] **May**: I'll go with C to avoid the financial risk.
+- [78] **George**: C is the simplest. I vote C.
+- [79] **Mio**: Definitely C. It's fair and simple.
+### Vote
+- Misaki -> C
+- Shizue -> C
+- May -> C
+- George -> C
+- Mio -> C
+## Result
+- adopted: C

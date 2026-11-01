@@ -1,0 +1,73 @@
+# shared_living_0001__single-online (shared_living)
+
+## Round 1
+- [5] **Mio**: Let’s pick a destination that works for everyone. I’m worried about the cost hitting some members harder than others.
+- [6] **Shizue**: I worry the year-groups barely talk outside practice. Where we stay decides who spends evenings together.
+- [7] **Ryuji**: I’m concerned about the workload. Last year’s organizers lost a month to arrangements and spent the camp on duty.
+- [8] **Rin**: I want to know what the nights and days would actually be like. Half of us slept badly last time, and it ruined the final day
+- [9] **Misaki**: I need to see exactly where the money went last year before we commit to anything.
+- [10] **Mio**: @Misaki, that makes sense. @Ryuji, do you think we can find a place that doesn’t require so much manual labor from us?
+- [11] **Shizue**: @Ryuji, that sounds exhausting. @Rin, if we stay together, maybe the evenings will be more relaxed for everyone?
+- [12] **Ryuji**: @Mio, yes. @Rin, sleep quality is critical for performance. We need a location that minimizes administrative burden and maximizes rest.
+- [13] **Rin**: @Ryuji, I agree! @Shizue, if we sleep well, we’ll have more energy to talk and have fun together, right?
+- [14] **Misaki**: @Mio, I agree. @Ryuji, I need to verify the actual costs before we can discuss reducing labor.
+- [15] **Mio**: @Rin, exactly! Good sleep means good training. @Shizue, I hope the evenings help us all bond better this time.
+- [16] **Shizue**: @Mio, I hope so too. @Rin, let’s make sure the place is comfortable enough for everyone to rest well.
+- [17] **Ryuji**: @Misaki, I understand the need for clarity. @Rin, let’s prioritize locations that guarantee rest and reduce our administrative load.
+- [18] **Rin**: @Ryuji, I’m listening! @Misaki, please check the money. @Shizue, I want cozy nights!
+- [19] **Misaki**: @Rin, I will check the accounts. @Mio, I need to see the transport receipts too.
+- [20] **Mio**: @Misaki, I’ll look into the transport receipts to see where the money went. @Ryuji, I’ll check the canteen closure to see if we can avoid cooking duty.
+- [21] **Shizue**: @Ryuji, I will check what the seniors say about year-groups mixing. @Rin, I will look at the attendance sheets for the away camps.
+- [22] **Ryuji**: @Misaki, I will check the lottery application process. @Rin, I will look at the accounts from clubs that went inland.
+- [23] **Rin**: @Misaki, I’ll check the prefecture rate sheet for beds. @Shizue, I’ll look at the vacation timetable for our own hall.
+- [24] **Misaki**: @Mio, I will check the group transport receipts. @Ryuji, I will look into the quoting terms for whole-building lets.
+## Round 2
+- [35] **Mio**: @Misaki, the transport receipts show it’s the biggest cost. @Ryuji, the canteen closes, so we’d have to cook ourselves.
+- [36] **Shizue**: @Ryuji, the seniors say mixing only happens when we sleep together. @Rin, the attendance sheets show a fifth never came at all.
+- [37] **Ryuji**: @Misaki, the public booking lottery is a nightmare; one date shift means resubmitting nine pages. @Rin, inland clubs slept eight to a room with lights out at eleven.
+- [38] **Rin**: @Misaki, the public beds are only 1,100 yen a night! @Shizue, but our own hall is already booked by three other clubs, so we can’t stay there.
+- [39] **Misaki**: @Mio, transport is indeed the largest expense. @Ryuji, whole-building lets have non-refundable deposits, which is risky if people drop out late.
+- [40] **Mio**: @Ryuji, that lottery sounds like a nightmare. @Misaki, non-refundable deposits are scary if people drop out.
+- [41] **Shizue**: @Rin, if our hall is full, we must go elsewhere. @Mio, I worry about those who never came; we need a place that brings everyone together.
+- [42] **Ryuji**: @Mio, the lottery risk is high. @Rin, eight to a room is unacceptable for training. We need a place with guaranteed space and no administrative chaos.
+- [43] **Rin**: @Ryuji, eight to a room is terrible! @Misaki, but 1,100 yen is so cheap. Can we afford the whole building?
+- [44] **Misaki**: @Rin, the rate is low, but the deposit is the real risk. @Mio, if someone cancels, the rest of us pay for their empty bed.
+- [45] **Mio**: @Misaki, that’s a real problem. @Ryuji, the lottery is too risky. @Shizue, how do we get everyone to actually show up?
+- [46] **Shizue**: @Mio, the attendance sheets show a fifth never came. @Rin, if we sleep together, the seniors say mixing happens.
+- [47] **Ryuji**: @Mio, the lottery is too risky. @Rin, eight to a room is unacceptable for training. We need a place with guaranteed space and no administrative chaos.
+- [48] **Rin**: @Ryuji, I hear you, but the cheap beds are tempting! @Shizue, if we stay together, maybe more people will actually come?
+- [49] **Misaki**: @Mio, the non-refundable deposit is a major liability. @Ryuji, the lottery’s administrative burden is also unsustainable. We need a stable, predictable option.
+- [50] **Mio**: @Misaki, I agree. @Ryuji, the lottery is too risky. @Shizue, how do we get everyone to actually show up?
+- [51] **Shizue**: @Mio, I worry about those who never came; we need a place that brings everyone together.
+- [52] **Ryuji**: @Mio, the lottery is too risky. @Rin, eight to a room is unacceptable for training. We need a place with guaranteed space and no administrative chaos.
+- [53] **Rin**: @Ryuji, I know, but the cheap beds are tempting! @Shizue, if we stay together, maybe more people will actually come?
+- [54] **Misaki**: @Mio, I agree. @Ryuji, the lottery is too risky. @Shizue, how do we get everyone to actually show up?
+## Round 3
+- [60] **Mio**: @Everyone, the options are out. A is our campus, B is the inland centre, C is the coastal lodge. Which one solves our problems?
+- [61] **Shizue**: @Mio, I think C is best. Sleeping together helps us mix, and a new place might bring back those who missed last time.
+- [62] **Ryuji**: @Mio, B is out; the lottery is too risky and the rooms are too small. C is the only option that guarantees space and avoids the administrative chaos.
+- [63] **Rin**: @Ryuji, I agree! @Shizue, a new place sounds like an adventure! @Mio, does C have good beds?
+- [64] **Misaki**: @Mio, C is risky. The non-refundable deposit means we pay for empty beds if people drop out. I need certainty before committing.
+- [65] **Mio**: @Misaki, that’s a fair point. @Ryuji, if C is the only one that works for training, can we negotiate the deposit terms?
+- [66] **Shizue**: @Mio, I hope so. @Rin, a new place might encourage those who stayed home to join us this time.
+- [67] **Ryuji**: @Mio, I doubt we can change the terms. @Misaki, the risk is real, but B is impossible. C is the only viable path forward.
+- [68] **Rin**: @Mio, I hope the beds are comfy! @Shizue, I’m so excited for a new adventure! @Ryuji, please make sure we sleep well.
+- [69] **Misaki**: @Mio, I understand the appeal, but the financial exposure is too high. @Ryuji, if B is impossible, we must mitigate C’s risks before voting.
+- [70] **Mio**: @Misaki, what if we set a strict deadline? If we book early, we avoid the last-minute dropouts that cause the deposit loss.
+- [71] **Shizue**: @Mio, a strict deadline helps, but it doesn’t fix the cost. @Misaki, if we commit early, we secure the beds for those who actually want to come.
+- [72] **Ryuji**: @Mio, a deadline reduces risk, but it doesn’t eliminate it. @Misaki, the financial exposure remains. We must accept this residual risk to proceed.
+- [73] **Rin**: @Mio, a deadline is good! @Misaki, I promise to tell everyone early so no one drops out. @Shizue, let’s go to the sea!
+- [74] **Misaki**: @Mio, a deadline helps, but it doesn’t remove the liability. @Ryuji, I accept the risk if we proceed. I vote for C.
+- [75] **Mio**: @Misaki, thank you for agreeing. @Ryuji, @Shizue, @Rin, I vote for C. Let’s book the coastal lodge and set that strict deadline.
+- [76] **Shizue**: @Mio, I am glad we are moving forward. @Rin, I hope the sea air brings everyone back to us. I vote for C.
+- [77] **Ryuji**: @Mio, I accept the residual risk. C is the only viable option. I vote for C.
+- [78] **Rin**: @Mio, I’m so happy! The sea sounds amazing! I vote for C!
+- [79] **Misaki**: I vote for C. Let’s set that deadline immediately to protect the account.
+### Vote
+- Mio -> C
+- Shizue -> C
+- Ryuji -> C
+- Rin -> C
+- Misaki -> C
+## Result
+- adopted: C

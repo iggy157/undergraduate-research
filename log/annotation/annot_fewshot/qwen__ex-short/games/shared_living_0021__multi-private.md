@@ -1,0 +1,73 @@
+# shared_living_0021__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: The flat fee hides the real cost. I need to see how side spending and dropouts actually land on each member.
+- [6] **Shion**: I need to verify the sleeping arrangements. Last year, half the group was exhausted by day four.
+- [7] **Minato**: I worry about the organizers. Last year, they were so tired from duties that they barely trained.
+- [8] **Misaki**: I must verify where the money actually goes before we commit.
+- [9] **Takumi**: I refuse to let us drift into silent year-groups again. The destination decides who actually talks to whom.
+- [10] **Asuka**: @Misaki, your financial check is essential. I need to know if the flat fee truly covers the variable costs for everyone.
+- [11] **Shion**: @Minato, if the organizers are burned out, the training quality drops. I need to see the duty logs to confirm that.
+- [12] **Minato**: @Shion, I agree. I will check the duty logs to see how much time was lost.
+- [13] **Misaki**: @Asuka, I will trace the receipts to see exactly where the gap came from.
+- [14] **Takumi**: @Shion, I need to know if mixing year-groups actually happened last time. I will check what the seniors say about it.
+- [15] **Asuka**: I will check the accounts from two clubs that went inland to see their actual per-head costs.
+- [16] **Shion**: I will check the accounts from two clubs that went inland to see their sleeping conditions.
+- [17] **Minato**: I will check the canteen closure and last year's cooking duty to see the time lost.
+- [18] **Misaki**: I will check the prefecture rate sheet for public beds and the group transport receipts.
+- [19] **Takumi**: I will check the attendance sheets for the away camps to see who actually showed up.
+- [20] **Asuka**: @Misaki, I will also check the quoting terms for whole-building lets to see if we can control the variable costs.
+- [21] **Shion**: I will also check the prefecture rate sheet for public beds to see if the sleeping quality is actually worth the price.
+- [22] **Minato**: I will also check the attendance sheets for the away camps to see who actually showed up.
+- [23] **Misaki**: I will also check the vacation timetable for the club's own hall to see if we can avoid external booking fees.
+- [24] **Takumi**: I will also check the membership list against first-train times to see who is actually willing to travel.
+## Round 2
+- [35] **Asuka**: The inland clubs slept eight to a room. Worse, whole-building lets have non-refundable deposits. If someone drops out, the rest of us pay for their empty bed.
+- [36] **Shion**: Eight to a room with lights out at eleven. That explains the exhaustion. @Minato, did the duty logs show how much training time was actually lost?
+- [37] **Minato**: @Shion, yes, two hours a day. That is a lot. I hope we can find a place with kitchen staff so we can actually train.
+- [38] **Misaki**: @Asuka, the transport receipts show 38% of costs if we go far. I need to see if the public beds at 1,100 yen cover the gap.
+- [39] **Takumi**: @Shion, eight to a room kills any chance of mixing. I found a third of us can't make the nine AM train without a pre-camp bed.
+- [40] **Asuka**: @Misaki, if transport is 38% of costs, the flat fee is a lie. I need to know exactly who absorbs that variable cost.
+- [41] **Shion**: @Takumi, if a third can't make the train, we need a local option. I will check the club hall's availability to see if we can stay closer.
+- [42] **Minato**: @Takumi, that is worrying. If many cannot travel, maybe we should stay closer? I want everyone to be there and happy.
+- [43] **Misaki**: @Minato, staying local cuts transport to nine percent. That is the only way I can balance the books without another deficit.
+- [44] **Takumi**: @Minato, staying local is good, but I need to know if we can actually mix. I found a fifth of us never showed up last time.
+- [45] **Asuka**: @Minato, if we stay local, the non-refundable deposit risk vanishes. I need to know if the club hall can actually accommodate us without extra fees.
+- [46] **Shion**: @Misaki, the public beds are 1,100 yen. If we stay local, does that rate cover the whole stay, or are there hidden fees?
+- [47] **Minato**: @Asuka, I hope the hall is big enough for everyone. I just want us to be together and not worry about money.
+- [48] **Misaki**: @Shion, the rate is all-inclusive. No hidden fees. That is the only stable number I have seen so far.
+- [49] **Takumi**: @Shion, the hall is booked by three other clubs. We need a coastal lodge to force mixing. I refuse to let us stay separate again.
+- [50] **Asuka**: @Takumi, a coastal lodge means non-refundable deposits. If someone drops out, I refuse to let the rest of us absorb that financial loss.
+- [51] **Shion**: @Takumi, a coastal lodge is risky. I need to know if the sleeping arrangements there are actually better than eight to a room.
+- [52] **Minato**: @Takumi, I understand you want us to mix, but I worry about the deposit. I just want everyone to feel safe and comfortable.
+- [53] **Misaki**: @Takumi, the coastal lodge deposit is a liability I cannot carry. I need a fixed, all-inclusive rate to close the books.
+- [54] **Takumi**: @Misaki, I accept the risk. If we stay separate, the camp is a waste. I will push for early commitments to secure the deposit.
+## Round 3
+- [60] **Asuka**: Option B is the only one where I can control the variable costs. No non-refundable deposits, no hidden transport spikes. I need to see the exact per-head breakdown.
+- [61] **Shion**: Option A is a trap. Eight to a room guarantees exhaustion. I need to know if Option C actually offers private rooms or if it is just a different kind of dormitory.
+- [62] **Minato**: @Shion, I hope Option C has comfortable beds. I worry about the deposit, but I want everyone to be happy and well-rested.
+- [63] **Misaki**: Option B keeps transport at nine percent. That is the only figure I can trust to close the books without another deficit.
+- [64] **Takumi**: Option C is the only choice that forces us to talk. I refuse to let us drift into silent year-groups again.
+- [65] **Asuka**: @Misaki, Option B still requires separate accommodation for distant members. That is a variable cost I cannot ignore. I need a fixed rate for those beds.
+- [66] **Shion**: @Asuka, Option B is a logistical nightmare. If half the group sleeps badly, the training is ruined. I need to know if Option C guarantees proper rest.
+- [67] **Minato**: @Shion, I hope the beds are soft. I just want everyone to sleep well so we can train together without worry.
+- [68] **Misaki**: @Asuka, the public beds are 1,100 yen all-inclusive. That is the only fixed rate I can rely on to balance the accounts.
+- [69] **Takumi**: @Shion, Option C is the only way to break the silence. I will handle the deposit risk so we can actually bond.
+- [70] **Asuka**: @Takumi, your promise to handle the deposit is not a financial guarantee. I need a strict headcount and a clear policy for who pays if someone drops out.
+- [71] **Shion**: @Takumi, I am not buying your promise. I need a written guarantee that the rooms are not eight to a room. If the sleep is poor, the camp fails.
+- [72] **Minato**: @Shion, I hope the rooms are spacious. I just want everyone to feel safe and comfortable while we are away.
+- [73] **Misaki**: @Asuka, I agree. A strict headcount is non-negotiable. I cannot absorb another deficit. We need a clear policy for dropouts before I commit.
+- [74] **Takumi**: @Asuka, I accept the strict headcount. I will lock the numbers early to protect the deposit. @Shion, I will get the room layout in writing.
+- [75] **Asuka**: @Misaki, I accept the strict headcount. If we lock the numbers early, the deposit risk is manageable. I am voting for C.
+- [76] **Shion**: @Takumi, a written layout is a start. I need to see the room dimensions and bed count before I commit. If the sleep is poor, the camp fails.
+- [77] **Minato**: @Shion, I hope the rooms are big enough for everyone to rest well. I am voting for C.
+- [78] **Misaki**: @Shion, I need the room layout to verify the per-head cost. If the numbers are fixed, I can accept the deposit risk. I am voting for C.
+- [79] **Takumi**: @Shion, I will get the exact bed count and dimensions in writing. I refuse to let us sleep badly. I am voting for C.
+### Vote
+- Asuka -> C
+- Shion -> C
+- Minato -> C
+- Misaki -> C
+- Takumi -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# shared_living_0003__multi-public (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to check the morning routine upstairs and the unplanned shuffles. I hate losing my little gaps between meetings!
+- [6] **Toshio**: I need to understand the financial reality before we move anything. I will look into the floor billing basis and the facilities quote.
+- [7] **Mizuki**: I will look into the drawn plan against the staff survey and what this year's two joiners reported.
+- [8] **Shion**: I will look into the sound meter readings and the physio's note. Comfort is the only thing that actually matters to me here.
+- [9] **Yumi**: I’m picking the arrival times and the two project strands. I really want to know how our seating changes who we actually talk to!
+- [10] **Rin**: @Toshio, if the quote is huge, maybe we just keep the desks? I don't want to waste my gaps on moving boxes!
+- [11] **Toshio**: @Rin, the quote is per desk, not a lump sum. We pay only if we move. I am checking the billing basis to see if we can afford the change at all.
+- [12] **Mizuki**: @Rin, the cost is real, but so is the fairness. I want to see if the current plan already favors some of us over others.
+- [13] **Shion**: @Mizuki, fairness is just a word for who gets the quiet corner. I’m checking the sound levels and chair settings. That’s the only data that matters.
+- [14] **Yumi**: @Shion, comfort is important, but connection matters too! I’m checking how our seating changes who we actually talk to.
+- [15] **Rin**: @Yumi, I hope the strands talk to each other! I need my gaps to be quiet, not full of people asking me things!
+- [16] **Toshio**: @Rin, quiet is a luxury. I am calculating if the budget can sustain the noise.
+- [17] **Mizuki**: @Rin, I hear you. But if the layout forces us to sit apart, we lose the chance to talk. I want to see if the current plan already favors some of us.
+- [18] **Shion**: @Mizuki, I don't care about your fairness. I care about my spine. If the chair is wrong, I’m done.
+- [19] **Yumi**: @Shion, I get it! But if we sit apart, we stop sharing knowledge. I’m checking how that affects our team!
+- [20] **Rin**: @Toshio, please tell me if the money is tight! I need to know if we can afford to keep my precious gaps safe!
+- [21] **Toshio**: @Rin, the billing basis shows we pay for empty space. I will confirm the exact monthly loss before we decide.
+- [22] **Mizuki**: @Rin, I understand your worry. But I need to know if the current setup is already unfair. I am checking the survey and the new joiners' reports.
+- [23] **Shion**: @Rin, your gaps are irrelevant to my spine. I am checking the sound and chair data. That is the only truth here.
+- [24] **Yumi**: @Rin, I hope the strands talk to each other! I need to know if sitting apart stops us from sharing knowledge!
+## Round 2
+- [35] **Rin**: @Toshio, the upstairs routine takes up to nine minutes! That is way too long for my gaps. I need to protect my mornings!
+- [36] **Toshio**: @Rin, nine minutes is a daily tax. We are also bleeding 41,000 yen monthly on empty desks. The budget is already strained.
+- [37] **Mizuki**: @Rin, nine minutes is a daily tax. I found the plan gives four desks windows, but daylight was the top complaint. We must address that imbalance.
+- [38] **Shion**: @Mizuki, nine decibels is a wall of noise. And my chair takes days to settle. I need a permanent, quiet spot.
+- [39] **Yumi**: @Shion, I found that when we sat close, we stopped writing notes! But badge times show early arrivals grab spots first. That feels unfair to latecomers!
+- [40] **Rin**: @Yumi, nine minutes every morning is a disaster! I can't lose that time to plugging in screens. I need a spot that is ready instantly!
+- [41] **Toshio**: @Rin, the quote is 6,200 yen per desk, every time. We pay for empty space monthly. We must minimize moves to protect the budget.
+- [42] **Mizuki**: @Toshio, the budget is tight, but the survey shows daylight is the top complaint. We cannot ignore that imbalance.
+- [43] **Shion**: @Toshio, 6,200 yen is cheap for my spine. But moving means days of re-adjusting my chair. I need a permanent, quiet spot.
+- [44] **Yumi**: @Rin, I agree! If spots are grabbed early, latecomers lose out. But when we sat close, we stopped writing notes!
+- [45] **Rin**: @Toshio, nine minutes is too long! I need a spot that is ready instantly so I can keep my precious gaps safe!
+- [46] **Toshio**: @Rin, nine minutes is a daily tax. We are also bleeding 41,000 yen monthly on empty desks. The budget is already strained.
+- [47] **Mizuki**: @Toshio, the budget is tight, but the survey shows daylight is the top complaint. We cannot ignore that imbalance.
+- [48] **Shion**: @Toshio, 6,200 yen is cheap for my spine. But moving means days of re-adjusting my chair. I need a permanent, quiet spot.
+- [49] **Yumi**: @Rin, I agree! But if we sit close, we stop writing notes! I need to know if that helps or hurts us!
+- [50] **Rin**: @Toshio, nine minutes is a disaster! I need a spot that is ready instantly so I can keep my precious gaps safe!
+- [51] **Toshio**: @Rin, the math is clear. We pay for empty space and every move. We must minimize changes to protect the budget.
+- [52] **Mizuki**: @Toshio, the budget is tight, but the survey shows daylight is the top complaint. We cannot ignore that imbalance.
+- [53] **Shion**: @Toshio, the math is cold, but my spine is real. Nine decibels is a wall. I need the window side, permanently.
+- [54] **Yumi**: @Toshio, the budget is tight, but connection is vital! When we sat close, we stopped writing notes. I want us to talk, not just sit!
+## Round 3
+- [60] **Rin**: @Toshio, Option A is a trap! Nine minutes every morning destroys my gaps. I need a spot that is ready instantly!
+- [61] **Toshio**: @Rin, Option A is financially reckless. We pay 6,200 yen per move, and we bleed 41,000 yen monthly on empty space. We cannot afford the chaos.
+- [62] **Mizuki**: @Toshio, the budget is real, but the survey shows daylight is the top complaint. We cannot ignore that imbalance.
+- [63] **Shion**: @Toshio, Option C is the only logical choice. Permanent assignment means my chair settles once. Rotating blocks would force me to re-adjust my spine every few months.
+- [64] **Yumi**: @Shion, I get your comfort, but Option C locks us in! I want us to talk, not just sit. Option B might balance things out!
+- [65] **Rin**: @Yumi, Option B is a nightmare! Moving blocks means packing boxes and losing my gaps! I need a permanent, ready spot!
+- [66] **Toshio**: @Rin, Option B is financially dangerous. Every rotation triggers the 6,200 yen fee. We cannot afford repeated moves. Option C minimizes cost and stabilizes the budget.
+- [67] **Mizuki**: @Toshio, I agree on the cost, but Option C locks in the daylight inequality. The survey proves that imbalance is unacceptable. We must address who gets the window.
+- [68] **Shion**: @Mizuki, the window side is nine decibels quieter. That is the only fairness that matters. Option C lets me claim that spot permanently.
+- [69] **Yumi**: @Mizuki, I hear you! But Option B lets us rotate blocks, so everyone gets a turn at the window. It’s fairer than locking us in!
+- [70] **Rin**: @Yumi, Option B means packing boxes! I hate that! I need a spot that is ready instantly so I can keep my precious gaps safe!
+- [71] **Toshio**: @Rin, Option C is the only fiscally sound choice. We pay once, not repeatedly. Stability protects the budget and your gaps.
+- [72] **Mizuki**: @Toshio, stability is not fairness. Option C locks in the daylight inequality. I found the new joiners learned by overhearing, so we need proximity, not just permanent seats.
+- [73] **Shion**: @Mizuki, overhearing is noise, not comfort. I need the quiet window side, permanently. Option C is the only logical choice for my spine.
+- [74] **Yumi**: @Mizuki, I agree! Proximity is key. But Option B’s moves hurt the budget. Option C keeps us close and saves money. Let’s vote C!
+- [75] **Rin**: @Toshio, Option C is perfect! My desk is ready instantly, so I keep my gaps safe. I am voting C!
+- [76] **Toshio**: @Rin, Option C is the only fiscally sound choice. We pay once, not repeatedly. Stability protects the budget and your gaps.
+- [77] **Mizuki**: @Yumi, I hear you on proximity, but Option C locks in the daylight inequality. I found the new joiners learned by overhearing, so we need proximity, not just permanent seats.
+- [78] **Shion**: @Mizuki, proximity is just noise. I need the quiet window side, permanently. Option C is the only logical choice for my spine. I am voting C.
+- [79] **Yumi**: @Mizuki, I hear you on fairness, but the budget and connection both point to C. I am voting C!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

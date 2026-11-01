@@ -1,0 +1,73 @@
+# candidate_selection_0030__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I worry about who actually does the extra work when a project starts.
+- [6] **Jonathan**: I am concerned about delivery dates we promise but cannot control.
+- [7] **George**: The budget source is never clear until the renewal notice arrives.
+- [8] **May**: We keep funding similar things without checking what happened to the last ones.
+- [9] **Midori**: We judge by how impressive things sound, not by daily floor losses.
+- [10] **Minato**: @George, does the budget cover the people who will do the work?
+- [11] **Jonathan**: @May, if we do not check past outcomes, we repeat mistakes.
+- [12] **George**: @Minato, the money is there, but the staffing is the real cost.
+- [13] **May**: @Jonathan, exactly. The pattern is hidden in the old files.
+- [14] **Midori**: @George, the daily effort is often ignored in the initial pitch.
+- [15] **Minato**: I will look at the staffing of the coordination group.
+- [16] **Jonathan**: I will check the network coverage at customer plants.
+- [17] **George**: I will review the capital budget and software allowance.
+- [18] **May**: I will examine the outcomes of the last three internal rollouts.
+- [19] **Midori**: I will look at the time lost to copying existing records.
+- [20] **Minato**: I will also check the handling of vendor queries.
+- [21] **Jonathan**: I will also look at in-house developer availability.
+- [22] **George**: I will also check the vendor licence pricing versus fixed-fee work.
+- [23] **May**: I will also look at the record of cross-unit standardization efforts.
+- [24] **Midori**: I will also check the misrouted deliveries in the incident logs.
+## Round 2
+- [35] **Minato**: The coordination group is empty, yet two people write all logs by hand.
+- [36] **Jonathan**: Half the customer plants lose signal for whole afternoons.
+- [37] **George**: The capital line is frozen, but the software allowance has room.
+- [38] **May**: Tools needing daily entry from everyone were quietly dropped last time.
+- [39] **Midori**: We lose an hour daily copying details that are already written down.
+- [40] **Minato**: @George, if the capital is frozen, we must use the software allowance.
+- [41] **Jonathan**: @Minato, the signal loss makes field apps risky without offline sync.
+- [42] **George**: @May, so we should avoid tools that require constant manual input.
+- [43] **May**: @Jonathan, the narrow tools for one trade still run. That is a good sign.
+- [44] **Midori**: @George, the copying time is a huge hidden cost for any new system.
+- [45] **Minato**: @May, the standardization efforts mostly failed without an owner.
+- [46] **Jonathan**: @George, the developers are busy until the third quarter.
+- [47] **George**: @Midori, fixed-fee work is cheaper than per-head licences now.
+- [48] **May**: @Minato, the tool room walkthroughs are still requested. That is useful.
+- [49] **Midori**: @Jonathan, the misrouted deliveries were due to duplicate addresses.
+- [50] **Minato**: We need a solution that does not rely on the empty coordination group.
+- [51] **Jonathan**: We need to check if the app works offline before promising dates.
+- [52] **George**: We should pick something that fits the software allowance, not capital.
+- [53] **May**: We should pick something that does not require everyone to enter data daily.
+- [54] **Midori**: We should pick something that stops the copying and misrouting.
+## Round 3
+- [60] **Minato**: Candidate A, the Workflow Assistant, drafts notes for us.
+- [61] **Jonathan**: Candidate D, the Field Service App, needs offline sync for signal loss.
+- [62] **George**: Candidate B, the Training Studio, is fixed-fee production work.
+- [63] **May**: Candidate C, the Supplier Data Hub, consolidates records.
+- [64] **Midori**: Candidate A reduces the copying time I found.
+- [65] **Minato**: @George, B is fixed-fee, which fits the budget better than licences.
+- [66] **Jonathan**: @May, C requires standardization, which often fails without an owner.
+- [67] **George**: @Minato, A is software, so it fits the allowance, not the frozen capital.
+- [68] **May**: @Jonathan, D is a narrow tool for technicians. Those survived last time.
+- [69] **Midori**: @George, A stops the copying, but does it need daily entry?
+- [70] **Minato**: @May, D is for technicians. The coordination group is empty, but technicians are there.
+- [71] **Jonathan**: @Minato, D has offline sync. That solves the signal problem.
+- [72] **George**: @May, D is a mobile app. Is it capital or software?
+- [73] **May**: @George, D is a narrow tool. The reviews say those still run.
+- [74] **Midori**: @Jonathan, D solves the misrouted deliveries by syncing records.
+- [75] **Minato**: I am worried about the coordination group, but D uses technicians.
+- [76] **Jonathan**: I am confident in D because of the offline capability.
+- [77] **George**: I am concerned about the budget, but D might be software.
+- [78] **May**: I am confident in D because narrow tools survive.
+- [79] **Midori**: I am confident in D because it stops the copying and misrouting.
+### Vote
+- Minato -> D
+- Jonathan -> D
+- George -> D
+- May -> D
+- Midori -> D
+## Result
+- adopted: D

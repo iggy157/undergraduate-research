@@ -1,0 +1,68 @@
+# candidate_selection_0012__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: It is a pleasure to be working with you all. To ensure our next investment is sustainable, I would like to examine the independent checks on holdings' reported figures and the appraisal needs at the last audit.
+- [6] **Jonathan**: It is a pleasure to be here. To ensure we are not overextending our capacity, I would like to look into the retained recruiters' placement times and the adviser bench and partner board seats.
+- [7] **Shizue**: It is a joy to be with you all. To make sure we are being honest with ourselves about our past, I would like to look into the profile of the exits and the write-off, and account retention through price rises.
+- [8] **Misaki**: I believe we must be mindful of our financial flexibility. I will look into the reserve accounts and follow-on calls, as well as the terms of last winter's credit line.
+- [9] **Shion**: It seems we have the financial and human elements well-covered. To understand the actual friction between investment and operation, I shall examine the security review time before first deployment and the delivery records of two holdings.
+- [10] **Mizuki**: I believe we have a very comprehensive spread of interests. By combining these financial, operational, and reporting perspectives, we can avoid any blind spots before we commit our capital. I am satisfied with our choices.
+- [11] **Jonathan**: I agree, Mizuki. A balanced approach is the most serene way to proceed. By looking at these different facets, we can find a path that brings both success and peace of mind to the fund.
+- [12] **Shizue**: It is so lovely to see us all working in such harmony. I believe that by looking at these different pieces of the puzzle together, we will find a choice that is truly honest and sustainable.
+- [13] **Misaki**: I agree. A multifaceted investigation is the most logical way to ensure we aren't overlooking systemic risks. I look forward to seeing how these data points intersect.
+- [14] **Shion**: Harmony is a pleasant sentiment, but I am more interested in the cold reality of the data. Let us see if the records are as cooperative as your optimism suggests. I am ready.
+- [15] **Mizuki**: I agree with Shion. While harmony is a virtue, it is the accuracy of the data that will ultimately protect us. I am ready to proceed to the findings.
+- [16] **Jonathan**: I concur. Let us move forward with a quiet mind and an open heart. I look forward to seeing what the records reveal for us all.
+- [17] **Shizue**: I agree. It is always a wonderful feeling to move forward together with such a clear plan. I am ready to see what the archives have to tell us.
+- [18] **Misaki**: I agree. We have a clear division of labor and a comprehensive set of data to analyze. I am ready to review the findings.
+- [19] **Shion**: Since we have all reached a consensus on our respective areas of investigation, further deliberation is redundant. I am ready to see if the reality of our operations matches the narrative.
+## Round 2
+- [35] **Mizuki**: My findings reveal a significant trade-off. While hardware-based holdings allow for independent verification of figures, they impose a heavy burden on our quarter-end, requiring costly outside appraisals and extending our audit timelines by six weeks.
+- [36] **Jonathan**: My findings suggest a mismatch in our human capacity. While we have a surplus of software expertise, our partners are overextended. Conversely, we have logistics experts available, but finding operational supervisors takes far too long.
+- [37] **Shizue**: My findings suggest that our success has come from a very specific place. Our profitable exits were quiet back-office tools, while our write-off involved the complexity of physical premises and hourly crews.
+- [38] **Misaki**: The financial reality is concerning. Our holdings are calling follow-on capital at twice the expected rate, and our credit line provides no value against subscription contracts. We are far more liquidity-constrained than we have admitted.
+- [39] **Shion**: The data confirms a pattern of systemic friction. Security reviews for sensitive data are agonizingly slow, and hardware dependencies create unpredictable delays. We must avoid any candidate whose deployment relies on physical supply chains or heavy regulation.
+- [40] **Mizuki**: @Shion, your observation on hardware delays aligns with my findings on audit burdens. It seems the very assets that provide verifiable data also create the most friction in our reporting and closing processes.
+- [41] **Jonathan**: @Mizuki, it is a quiet tragedy when the tools meant to provide clarity instead create chaos. It seems the physical world brings a restlessness to our operations that we may not have the capacity to manage.
+- [42] **Shizue**: @Jonathan, that is a very gentle way of putting it. I also found that our most successful paths were the quietest ones—simple tools that customers truly valued and kept, even when prices rose.
+- [43] **Misaki**: @Shizue, simplicity is a necessity, not just a preference. If we are calling follow-on capital at double the rate, we cannot afford the volatility of physical assets or complex operations. We need a lean model.
+- [44] **Shion**: @Misaki, "lean" is a vague term. What we actually need is a path devoid of external bottlenecks. Whether it is a controller shortage or a regulatory review, the result is a stalled deployment. We must prioritize predictability over narrative.
+- [45] **Mizuki**: @Shion, I agree. Predictability is essential, especially when our quarter-end is already strained. If we add a holding that requires external appraisals and extends our audit by six weeks, we are simply inviting more chaos.
+- [46] **Jonathan**: @Mizuki, I agree. If we choose a path that demands people we cannot find or partners who are already exhausted, we sacrifice our peace. We should seek a candidate that fits our current capacity.
+- [47] **Shizue**: @Jonathan, I agree completely. It would be so unkind to push our partners to their limits. We should look for a candidate that brings a sense of calm and stability to our existing team.
+- [48] **Misaki**: @Shizue, stability is only possible if we are solvent. If we invest in a company that triggers unexpected capital calls, we risk the entire fund's health. We must prioritize a candidate with minimal follow-on requirements.
+- [49] **Shion**: @Misaki, solvency is a baseline, not a strategy. While you worry about the bank account, I am looking at the clock. A lean company that spends a year in security review is just a slow drain on our capital. We need a clear path to the first customer.
+- [50] **Mizuki**: It seems we are all describing the same systemic fragility from different angles. Whether it is liquidity, staffing, or audit timelines, the common enemy is operational complexity. We must prioritize a candidate that simplifies, rather than complicates, our reporting.
+- [51] **Jonathan**: I agree, Mizuki. When we align our ambitions with our actual capacity, we find a path to true serenity. Let us seek a candidate that requires neither scarce specialists nor the time of our exhausted partners.
+- [52] **Shizue**: It is so heartening to see us all reaching a common understanding. Let us look for a candidate that is gentle on our resources and honest in its value, ensuring a peaceful journey for everyone involved.
+- [53] **Misaki**: I agree. We must be cold-headed about this. The ideal candidate is one that avoids physical assets and heavy capital demands, ensuring we don't deplete our reserves faster than we can replenish them.
+- [54] **Shion**: We have successfully identified the variables that lead to failure. The ideal candidate is not the most ambitious, but the most unobstructed. I shall be looking for the one with the fewest external dependencies.
+## Round 3
+- [60] **Mizuki**: Looking at the options, Ledger Bridge seems the most harmonious. It is a lean software tool that avoids the audit burdens of hardware and the operational friction of physical facilities, ensuring a peaceful quarter-end.
+- [61] **Jonathan**: I agree, Mizuki. Ledger Bridge is a gentle choice. It avoids the need for scarce field supervisors and doesn't burden our already overextended software partners, allowing us to maintain our inner peace.
+- [62] **Shizue**: I agree with you both. Ledger Bridge reminds me of the quiet back-office tools that brought us success in the past. It seems like a very honest and stable path for us to follow.
+- [63] **Misaki**: I agree. Ledger Bridge is the only logical choice. It avoids the physical assets of Fabric Loop and Harvest Sensor, which would drain our reserves through follow-on calls and provide no security for our credit line.
+- [64] **Shion**: The logic is inescapable. Clinic Scheduler is a trap of regulatory security reviews, while Fabric Loop and Harvest Sensor are hostage to physical supply chains. Ledger Bridge is the only candidate with an unobstructed path to deployment.
+- [65] **Mizuki**: It is rare to see such complete alignment. By choosing Ledger Bridge, we protect our reporting timelines and our peace of mind, avoiding the costly appraisals and delays that plague hardware-based holdings. I am ready to vote.
+- [66] **Jonathan**: I feel a great sense of calm in this consensus. Ledger Bridge allows us to support a promising venture without sacrificing our well-being or overtaxing our people. I am also ready to vote.
+- [67] **Shizue**: It is such a blessing to be in agreement. Ledger Bridge feels like a choice that honors our past lessons while being kind to our future. I am very happy to vote.
+- [68] **Misaki**: I agree. Ledger Bridge is the only option that respects our current liquidity constraints. It minimizes the risk of sudden capital calls that we simply cannot afford right now. I am ready to vote.
+- [69] **Shion**: I find this level of agreement almost tedious, but the data is absolute. To choose any other candidate would be to willfully ignore the systemic frictions we've identified. I am ready to vote.
+- [70] **Mizuki**: Since we have all weighed the risks to our liquidity, staffing, and reporting timelines, the conclusion is clear. Ledger Bridge is the only candidate that ensures our quarter-end remains manageable. I cast my vote for Ledger Bridge.
+- [71] **Jonathan**: I share this feeling of serenity. By choosing a path that respects our human limits and operational capacity, we ensure a sustainable future. I cast my vote for Ledger Bridge.
+- [72] **Shizue**: It is a joy to see us all so united. Ledger Bridge is a gentle and honest choice that aligns with the strengths of our fund. I cast my vote for Ledger Bridge.
+- [73] **Misaki**: I concur. Ledger Bridge is the only candidate that aligns with our financial reality and protects our solvency. I cast my vote for Ledger Bridge.
+- [74] **Shion**: The evidence is conclusive. Ledger Bridge is the only option that removes the external obstacles and systemic delays that have plagued our previous cohorts. I cast my vote for Ledger Bridge.
+- [75] **Mizuki**: It has been a privilege to deliberate with you all. By aligning our choice with the reality of our operational capacity, we have found a path to true stability. I cast my final vote for Ledger Bridge.
+- [76] **Jonathan**: It has been a pleasure to share this quiet space of deliberation with you all. May our decision bring prosperity to the company and peace to our fund. I cast my final vote for Ledger Bridge.
+- [77] **Shizue**: It has been such a wonderful experience working with all of you. I am so glad we found a path that is kind to our people and honest to our history. I cast my final vote for Ledger Bridge.
+- [78] **Misaki**: I am satisfied that we have reached a decision based on cold-headed analysis of our financial constraints. Ledger Bridge is the only viable path to maintain our solvency. I cast my final vote for Ledger Bridge.
+- [79] **Shion**: A predictable outcome for a predictable set of data. We have successfully filtered out the noise of ambition to find the only viable path. I cast my final vote for Ledger Bridge.
+### Vote
+- Mizuki -> B
+- Jonathan -> B
+- Shizue -> B
+- Misaki -> B
+- Shion -> B
+## Result
+- adopted: B

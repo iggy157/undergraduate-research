@@ -1,0 +1,73 @@
+# candidate_selection_0011__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: It is a pleasure to meet you all. I hope we can approach this selection with kindness and a shared desire to support the researchers who will carry our science forward. I look forward to our talk.
+- [6] **Ryuji**: Thank you, Shizue. I agree that a thoughtful approach is necessary. I believe we should prioritize a realistic assessment of the resources available to ensure the chosen project can actually be executed.
+- [7] **Victoria**: I agree with Ryuji. A proposal's merit is only as strong as the infrastructure supporting it. I believe we should look closely at the current state of our shared services to ensure they can handle new demands.
+- [8] **Benjamin**: Indeed, Victoria. A brilliant proposal is merely a blueprint; the actual construction requires a stable foundation. I believe a pragmatic look at the operational and financial margins would be most illuminating for us all.
+- [9] **Midori**: Thank you, everyone. I am very happy to be here with you. I agree that harmony and stability are important, and I hope we can find a project that is truly sustainable for the researchers.
+- [10] **Shizue**: It is so lovely to see us all in agreement. To make sure we are being fair to the researchers, I believe we should look at the closeout files of finished awards and the portfolio review of schedule overruns.
+- [11] **Ryuji**: I believe we must identify where the actual human capacity lies. I will examine the staffing rolls for technical posts and the minutes on secondments and crew strength to see who is truly available.
+- [12] **Victoria**: To understand the pressure on our shared infrastructure, I will look into the accreditation and bookings at shared facilities and the incident logs on shared instrumentation. I want to see if the equipment is actually available.
+- [13] **Benjamin**: A most prudent division of labor. To uncover the shifting sands of our financial reality, I shall examine the travel and bench-fee lines in the ledgers and the national computing agreement and facility day rates.
+- [14] **Midori**: I think it would be very helpful to know where projects usually run into trouble. I will look into the portfolio review of schedule overruns and the closeout files of finished awards to see what causes delays.
+- [15] **Shizue**: It seems we have a very thoughtful plan. I am glad that Midori and I are looking into the same records; perhaps we can share our perspectives on the patterns we find.
+- [16] **Ryuji**: That sounds reasonable. I believe our combined findings will provide a clear picture of both the structural and human constraints we must consider before making a final decision.
+- [17] **Victoria**: I agree. By combining our findings on staffing, financial margins, and facility availability, we can avoid the mistake of funding a project that is theoretically sound but operationally impossible.
+- [18] **Benjamin**: It is a comforting thought, Victoria. I suspect that the truth often hides in the discrepancy between a proposal's ambition and the actual cost of its maintenance. I look forward to seeing where those frictions lie.
+- [19] **Midori**: I agree, Benjamin. It would be a shame if a wonderful project suffered because of things the researchers couldn't control. I hope our findings help us protect them from those kinds of surprises.
+- [20] **Shizue**: I feel a great sense of peace knowing we are all working together so harmoniously. I wish you all clarity and insight in your research. I shall see you all again soon.
+- [22] **Ryuji**: I agree. Let us proceed with our investigations. I look forward to seeing how the human capacity aligns with the ambitions of the proposals. Until we reconvene.
+- [24] **Victoria**: I concur. I hope the records provide a clear picture of our current capacity so we can make a responsible choice. I look forward to our next discussion.
+- [26] **Benjamin**: A most optimistic start to our proceedings. I shall now retreat into the archives to see if the ledgers reflect a generous reality or a shrinking one. I wish you all a productive investigation.
+- [28] **Midori**: I am looking forward to it as well! I hope we can find a path that ensures the researchers can focus on their science without any unexpected worries. See you all soon!
+## Round 2
+- [40] **Shizue**: My findings remind us that while ambition is a beautiful thing, it can be a fragile one. I noticed that catalogue-style awards provide lasting value, while mechanism-focused projects often leave their core questions unresolved.
+- [41] **Ryuji**: My findings are more concerning. We have a significant deficit of trained phenotyping technicians, most of whom have left for industry. While we have plenty of applicants for modelling, our senior analysts are currently seconded abroad.
+- [42] **Victoria**: My findings confirm that our shared infrastructure is under severe strain. The glasshouses are fully booked for two more cycles, and the spectroscopy suite was idle for eleven weeks due to a lapsed contract.
+- [43] **Benjamin**: It appears we are uncovering a symphony of systemic frictions. My review suggests a curious imbalance: while the ministry remains generous with computing and glasshouse subsidies, the costs of animal units and shipping are climbing quite aggressively.
+- [44] **Midori**: I'm worried about the patterns I found. It seems that projects relying on live breeding colonies are much more likely to overrun their schedules, and many mechanism-focused studies end without actually answering their main questions.
+- [45] **Shizue**: @Midori, it is a comfort to see our findings align so closely. It seems we both discovered that the most enduring gifts to science are often the plainer, more steady projects rather than the most ambitious ones.
+- [46] **Ryuji**: @Shizue, @Midori, while the nature of the project matters, the human element is the most critical bottleneck. We cannot execute a "steady" project if the trained hands required to perform the work have already left the field.
+- [47] **Victoria**: @Ryuji, I agree. However, the human element is only half the problem. Even with a full team, the work stops if the glasshouses are full or the spectroscopy suite is broken. We are facing a crisis of capacity.
+- [48] **Benjamin**: @Victoria, a most poignant observation. It seems we are trapped between a scarcity of skilled hands and a shortage of available space. One wonders if we are funding science or merely managing a queue of frustrations.
+- [49] **Midori**: @Benjamin, that is a very sad way to put it, but I think you're right. If the researchers are just waiting for space or people, it must be so discouraging for them. We really need to find a project that fits our actual capacity.
+- [50] **Shizue**: @Midori, your kindness for the researchers is truly touching. It makes me feel that we must be very careful not to choose a path that leads to such discouragement or heartbreak for them.
+- [51] **Ryuji**: @Shizue, kindness is a virtue, but it cannot replace technical expertise. If we award a grant to a project requiring phenotyping technicians we no longer have, we are not being kind; we are setting the researchers up for failure.
+- [52] **Victoria**: @Ryuji, I agree that technical expertise is non-negotiable. However, we must also be realistic about the physical constraints. A project that avoids both the technician shortage and the facility bottlenecks is the only one that can truly succeed.
+- [53] **Benjamin**: @Victoria, you have hit upon the only logical conclusion. We must seek a candidate that is a ghost in the machine—one that requires neither the elusive technician nor the overcrowded glasshouse, and whose budget isn't devoured by rising animal-unit costs.
+- [54] **Midori**: @Benjamin, that sounds like a very smart strategy. If we can find a project that doesn't rely on those volatile biological variables or the broken equipment, the researchers can actually focus on their work with peace of mind.
+- [55] **Shizue**: It is a joy to see us all thinking so deeply about the well-being of the researchers. Let us carry this spirit of care into the final round, ensuring our choice is a gentle one that allows the science to flourish.
+- [56] **Ryuji**: I agree that we must be careful. However, we must define "gentle" as a project that is actually feasible. I will be looking for a candidate that does not depend on the missing technical expertise.
+- [57] **Victoria**: I agree. I will be looking for a candidate that avoids the current bottlenecks in our shared facilities. We must ensure the project can actually be executed without being stalled by a lack of space or equipment.
+- [58] **Benjamin**: I shall be searching for a proposal that avoids the financial traps of rising animal-unit costs and shipping fees. A project that aligns with our current subsidies is the only way to ensure the budget remains a tool rather than a burden.
+- [59] **Midori**: I agree with everyone! I'll be looking for a project that avoids the risks of breeding colonies and the uncertainty of mechanism-focused goals. Let's find a candidate that is both sustainable and predictable for the researchers!
+## Round 3
+- [65] **Shizue**: Looking at our candidates, the Microbiome Atlas seems the most harmonious. It is a catalogue-style project, which we found provides lasting value, and it avoids the glasshouses and breeding colonies that cause so much stress.
+- [66] **Ryuji**: I agree. The Microbiome Atlas is the only viable choice. It avoids the need for phenotyping technicians and senior modelling analysts, both of whom are currently unavailable, ensuring the project doesn't stall due to a lack of expertise.
+- [67] **Victoria**: I concur. The Microbiome Atlas is the only candidate that avoids our current infrastructure crisis. It doesn't require the overcrowded glasshouses of Plan A or the spectroscopy suite of Plan C, which we know is unreliable.
+- [68] **Benjamin**: The logic is inescapable. The Atlas avoids the financial volatility of animal-unit costs and shipping fees, while leveraging the computing subsidies. It is the only proposal that doesn't invite a budgetary crisis.
+- [69] **Midori**: I completely agree with everyone! The Microbiome Atlas is the most sustainable choice. It avoids the risks of breeding colonies and the uncertainty of mechanism-focused goals, meaning the researchers can actually achieve their results without unexpected interruptions.
+- [70] **Shizue**: It is such a relief to find us all in such beautiful agreement. By choosing the Atlas, we are not just picking a project, but protecting the researchers from the burdens we have uncovered.
+- [71] **Ryuji**: Agreement is a result of shared logic. The Atlas is the only proposal that aligns with our actual human and physical capacity. To choose any other would be to ignore the evidence of our current deficits.
+- [72] **Victoria**: I agree. When we look at the other options, they all rely on the very services that are currently failing or overcapacity. The Atlas is the only path that doesn't risk a systemic collapse.
+- [73] **Benjamin**: It is a refreshing change of pace to reach a consensus with such efficiency. We have successfully navigated the labyrinth of systemic risks to find a truly viable path, ensuring the science isn't held hostage by administrative or technical inertia.
+- [74] **Midori**: I feel so happy that we've found a project we all agree on! Picking the Atlas means the researchers can focus on their discovery without worrying about broken tools or full greenhouses. It's the most supportive choice we can make.
+- [75] **Shizue**: I am truly touched by the kindness and wisdom you have all shown. It feels as though we have found a path that honors both the vision of the science and the peace of the scientists.
+- [76] **Ryuji**: The evidence is conclusive. The Atlas is the only candidate that does not require the missing technical expertise or the unavailable analysts. It is the only rational choice given our current staffing reality.
+- [77] **Victoria**: I agree. The other candidates are simply too risky; they would be forced to compete for the few remaining resources, likely leading to failure. The Atlas is the only responsible choice for the agency.
+- [78] **Benjamin**: Indeed, Victoria. To award any other project would be a charming exercise in optimism, but a disaster in practice. We have identified the pitfalls; it would be a tragedy to walk directly into them.
+- [79] **Midori**: I agree completely. The Atlas is the only one that doesn't gamble with the researchers' time and energy. It's so much better to choose a project that can actually hit the ground running!
+- [80] **Shizue**: It has been a privilege to deliberate with you all. In this unity, we have found a path that honors both the science and the scientists. I am ready to cast my vote for the Microbiome Atlas.
+- [81] **Ryuji**: I have no reason to deviate from the evidence. The Microbiome Atlas is the only proposal that respects our current human capacity and avoids the systemic deficits we identified. I vote for the Microbiome Atlas.
+- [82] **Victoria**: I agree. The Microbiome Atlas is the only candidate that ensures the project's success by avoiding our current infrastructure bottlenecks. I vote for the Microbiome Atlas.
+- [83] **Benjamin**: I find the logic inescapable. To choose otherwise would be to invite the very financial and operational frictions we have spent this session identifying. I, too, cast my vote for the Microbiome Atlas.
+- [84] **Midori**: I'm so glad we could all reach this consensus! The Microbiome Atlas is the most balanced and supportive choice for the researchers, ensuring their work is sustainable and predictable. I vote for the Microbiome Atlas!
+### Vote
+- Shizue -> D
+- Ryuji -> D
+- Victoria -> D
+- Benjamin -> D
+- Midori -> D
+## Result
+- adopted: D

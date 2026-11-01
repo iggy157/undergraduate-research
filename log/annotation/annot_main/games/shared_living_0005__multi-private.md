@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private (shared_living)
+
+## Round 1
+- [5] **Benjamin**: Hello everyone. Since our household has grown, it is only logical that our payment structure evolves too. To ensure we are fair to all, I suggest we start by examining the data.
+- [6] **Mio**: I totally agree, Benjamin! Let's make this super fair for everyone. I'm excited to figure this out together! What kind of data should we start with?
+- [7] **Jonathan**: I agree that fairness is key. To avoid any misunderstandings or lingering frustrations, I think we should look at the actual usage and the history of our payments.
+- [8] **Victoria**: I agree. It would be prudent to understand our historical spending and any potential costs associated with changing our current system before we commit to a new arrangement.
+- [9] **Minato**: I think it's a good idea to look at things together. I want us all to be happy. Maybe we can see how we've been paying and if anyone felt sad about it?
+- [10] **Benjamin**: Since we are in agreement, let's be specific. I believe the payment log for the last twelve months and the plug-in monitor readings room by room would provide the most objective foundation for our discussion.
+- [11] **Mio**: Those sound like great ideas, Benjamin! I'm curious about how other houses do it, so I'd like to see the monthly settle observed at another house and a trial run of a reconciliation template!
+- [12] **Jonathan**: I think it would be helpful to see the last twelve utility statements and the payment log for the last twelve months. This will help us see if the current burden is truly uneven.
+- [13] **Victoria**: I would like to look into the last twelve utility statements and the electrician's quote for the rooms. I believe these will clarify our annual spending patterns and any immediate costs for adjustments.
+- [14] **Minato**: I want to know more about how we've been doing. I'll choose the payment log for the last twelve months and the settling up when the last rooms filled. I hope we can all be friends.
+- [15] **Benjamin**: It seems we have a healthy variety of interests. I am content with my choices, as they prioritize empirical data over anecdote. Shall we proceed to the investigation phase?
+- [16] **Mio**: Yes, let's do it! I can't wait to see if that template makes things easier for us. Let's go find out!
+- [17] **Jonathan**: I am also ready. I believe having a clear picture of the past twelve months will bring us the peace and clarity we need to move forward.
+- [18] **Victoria**: I am also ready. Once we have the facts regarding the annual costs and the potential installation fees, we can make a decision that is sustainable for everyone.
+- [19] **Minato**: I'm ready too. I hope that by looking at the logs, we can understand each other better and make sure everyone feels okay. Let's see what we find!
+- [20] **Benjamin**: Indeed. Let us hope the data speaks clearly, saving us from any tedious misunderstandings. I look forward to hearing what each of you discovers.
+- [21] **Mio**: Me too! I'm sure we'll find a way that makes everyone happy and keeps things simple. Let's get to it!
+- [23] **Jonathan**: I agree. Let us move forward quietly and thoughtfully. I look forward to seeing how the facts align with our current situation.
+- [25] **Victoria**: I agree. Let us proceed with the investigation. I look forward to seeing how the data informs our next steps.
+- [27] **Minato**: I'll be waiting for everyone. I hope the things we find help us be kinder to each other.
+## Round 2
+- [39] **Benjamin**: It appears the data is quite revealing. We have significant disparities in room-by-room energy consumption and a history of payment delays linked to confusion over fluctuating amounts. Clarity seems to be our primary deficiency.
+- [40] **Mio**: Wow, that's a lot of work! I looked into a template and another house, and it seems like calculating everything by hand takes forever. We really need a way to keep this simple and fast!
+- [41] **Jonathan**: It seems the fluctuations in our bills are quite significant, and the payment delays suggest a lack of clarity. It is concerning that some felt the need to query the amounts before paying.
+- [42] **Victoria**: The fluctuations are indeed stark; the difference between winter and summer is substantial. Furthermore, installing sub-meters would be a significant upfront expense and require ongoing maintenance. We must consider if such a cost is justifiable.
+- [43] **Minato**: I saw that some payments were very late and people were confused. It makes me sad that we had to argue about the money. Can we find a way to stop feeling upset?
+- [44] **Benjamin**: @Victoria, while sub-meters are expensive, the current "confusion" is a cost of its own. If we simply split everything equally, those of us who are mindful of our usage effectively subsidize the heavy users.
+- [45] **Mio**: @Benjamin, I get that, but if the system is too complicated, someone is going to spend their whole evening doing math! We need a balance between being fair and not making it a huge chore.
+- [46] **Jonathan**: @Benjamin, I understand your point about subsidies. However, we should be careful not to let assumptions create tension. If we can find a method that is both transparent and simple, we can resolve these frustrations.
+- [47] **Victoria**: @Benjamin, I understand your desire for precision, but we must weigh the cost of sub-meters against the actual savings. A high upfront fee and annual maintenance could be more burdensome than the current fluctuations.
+- [48] **Minato**: @Benjamin, @Victoria, maybe we don't need expensive machines to be fair. I'm worried that if we only talk about numbers, we'll forget that people's feelings were hurt. Can we pick a way that makes everyone feel trusted?
+- [49] **Benjamin**: @Minato, trust is built on transparency, not ambiguity. If we ignore the fact that some use four times more energy than others, we aren't being kind; we are simply ignoring a source of future resentment.
+- [50] **Mio**: @Benjamin, I totally get that! But transparency shouldn't mean a nightmare of paperwork. If the "fair" way takes hours of work every month, someone's going to get burnt out. Can we find a shortcut?
+- [51] **Jonathan**: @Mio, perhaps a standardized template could be the shortcut we need. If we can automate the calculations, we can achieve the transparency Benjamin wants without the burden of manual labor.
+- [52] **Victoria**: @Jonathan, a template may simplify the process, but it does not solve the issue of extreme seasonal volatility. We need a system that prevents the winter bills from becoming an unexpected financial burden for any of us.
+- [53] **Minato**: @Victoria, I agree that big bills are scary. But I'm more scared of us being mean to each other. If we use a template, can we also make a rule to be extra kind when we ask for money?
+- [54] **Benjamin**: @Victoria, a fixed monthly average could mitigate seasonal shocks. However, we must decide if we are splitting the total cost equally or based on usage. I would prefer the latter to avoid silent resentment.
+- [55] **Mio**: @Benjamin, I'm with you on avoiding resentment, but please remember that someone has to actually do the work! If we go with usage, let's make sure it's a system that doesn't eat up our free time.
+- [56] **Jonathan**: @Benjamin, @Mio, I believe a fixed monthly average combined with a simple, automated template would address both the seasonal shocks and the labor. This would provide the stability and clarity needed to stop the cycle of queries and delays.
+- [57] **Victoria**: @Jonathan, a fixed average would certainly provide the stability I am looking for. However, we must ensure the total is based on actual annual data so we aren't underpaying and facing a massive deficit later.
+- [58] **Minato**: I think @Jonathan's idea sounds very peaceful. If we have a fixed amount and a template, maybe we won't have to argue or feel sad about the money anymore. I hope we can all agree.
+## Round 3
+- [64] **Benjamin**: Option C is the only choice that addresses the actual disparity in usage. While Option B offers stability, it still allows the mindful to subsidize the wasteful. Let us be honest about our habits now.
+- [65] **Mio**: @Benjamin, I really don't like Option C! I saw how long it takes to log readings at another house, and it's a total nightmare. Let's go with Option B; it's way simpler!
+- [66] **Jonathan**: @Benjamin, while I value precision, Option C might introduce a new kind of tension through constant monitoring. Option B provides the stability and predictability that can prevent the frustrations we've seen in the payment logs.
+- [67] **Victoria**: @Benjamin, the cost of installing and maintaining meters is too high to justify. Option B is the most rational choice; it provides the financial predictability I need while avoiding an expensive upfront investment.
+- [68] **Minato**: @Benjamin, I'm worried that meters might make us feel like we're being watched. Option B sounds much gentler. If we all know the price, we can just be happy and not worry about the numbers.
+- [69] **Benjamin**: @Mio, @Jonathan, @Victoria, @Minato, your desire for simplicity is noted. However, "gentle" systems often mask unfairness. If we choose Option B, are we agreeing that it is acceptable for some to pay for others' luxury?
+- [70] **Mio**: @Benjamin, it's not about luxury, it's about our sanity! If we spend hours every month fighting over pennies or doing math, we'll be way more stressed than if we just pay a bit more. Let's keep it simple!
+- [71] **Jonathan**: @Benjamin, the "luxury" you mention is often a matter of perspective or necessity. I believe the peace of mind gained from a predictable, stable system is more valuable than the pursuit of absolute mathematical precision.
+- [72] **Victoria**: @Benjamin, absolute precision is an illusion if the cost of achieving it exceeds the benefit. Option B allows us to manage our budgets without the stress of sudden spikes or the burden of high installation fees.
+- [73] **Minato**: @Benjamin, I don't want anyone to feel it's unfair, but I think being kind to each other is more important than being perfectly right. Option B feels like it would make us all smile more.
+- [74] **Benjamin**: It is a fascinating paradox that you all find the prospect of fairness more stressful than the prospect of inequality. Very well, if the majority prefers a comfortable illusion over a precise reality, I shall yield.
+- [75] **Mio**: Yay! I'm so glad we're on the same page, Benjamin! Let's just make sure we keep the year-end settle super quick so it doesn't become a huge project. I'm voting for Option B!
+- [76] **Jonathan**: I believe Option B is the most harmonious choice. It resolves the instability of the bills and the confusion of the payments without creating a climate of surveillance. I vote for Option B.
+- [77] **Victoria**: I agree. Option B provides the necessary financial stability and avoids the prohibitive costs of sub-meters. It is the most sustainable and rational path forward for all of us. I vote for Option B.
+- [78] **Minato**: I'm happy that we all agree. I want us to be a family that cares about each other more than the bills. I vote for Option B too!
+- [79] **Benjamin**: Since the consensus is overwhelming and my appeals for precision have fallen on deaf ears, I shall not be the lone holdout. For the sake of harmony, I vote for Option B.
+- [80] **Mio**: Everything is settled! I'm so happy we could figure this out together without any fighting. Option B it is! Let's make sure we keep it simple and fun!
+- [81] **Jonathan**: It is a relief that we have reached a consensus. May this new arrangement bring us all a sense of stability and peace in our home.
+- [83] **Victoria**: I am glad we have reached a rational agreement. Option B ensures that none of us are blindsided by winter costs, which is the most sustainable way to manage our shared living. I vote for Option B.
+- [84] **Minato**: I'm so glad we could all be kind and agree. I hope we can all be happy and friendly from now on. I vote for Option B!
+### Vote
+- Benjamin -> B
+- Mio -> B
+- Jonathan -> B
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

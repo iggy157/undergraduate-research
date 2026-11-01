@@ -1,0 +1,73 @@
+# candidate_selection_0011__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: I worry our instincts have drifted. Let us look at what actually worked before.
+- [6] **Ryuji**: Agreed. History is the only honest witness. I will check the closeout files.
+- [7] **Victoria**: I am concerned about the infrastructure. I will review the shared facility bookings.
+- [8] **Benjamin**: The grant size is static, but the value is not. I need to see the ledgers.
+- [9] **Midori**: I am curious about the human element. I will look at the staffing rolls.
+- [10] **Shizue**: Thank you, Benjamin. The ledgers often tell the true story of a project.
+- [11] **Ryuji**: Victoria, facility access is critical. If the machines are down, the science stops.
+- [12] **Victoria**: Exactly. I am checking the accreditation and bookings to see if capacity is strained.
+- [13] **Benjamin**: I will also look at the national computing agreement. It affects everyone’s costs.
+- [14] **Midori**: I will check the incident logs on shared instrumentation. It might reveal hidden friction.
+- [15] **Shizue**: Midori, incident logs can be very revealing. Thank you for considering that.
+- [16] **Ryuji**: I will also look at the portfolio review of schedule overruns. Time is money.
+- [17] **Victoria**: I will check the national repository deposit turnaround. Data flow is part of the service.
+- [18] **Benjamin**: I will stick to the ledgers and the computing agreement. Those are the core costs.
+- [19] **Midori**: I will look at the staffing rolls and the incident logs. People and machines interact.
+- [20] **Shizue**: I will look at the closeout files and the portfolio review of schedule overruns.
+- [21] **Ryuji**: I will look at the closeout files and the portfolio review of schedule overruns.
+- [22] **Victoria**: I will look at the accreditation and bookings at shared facilities and the national repository deposit turnaround.
+- [23] **Benjamin**: I will look at the travel and bench-fee lines in the ledgers and the national computing agreement and facility day rates.
+- [24] **Midori**: I will look at the staffing rolls for technical posts and the incident logs on shared instrumentation.
+## Round 2
+- [35] **Shizue**: The closeout files are telling. Some awards still draw users a decade later.
+- [36] **Ryuji**: I see. The mechanism-focused ones often ended with questions unresolved. That is a red flag.
+- [37] **Victoria**: The repository turnaround is now weeks, not years. That changes the calculus for data-heavy work.
+- [38] **Benjamin**: The computing agreement is generous, but the animal-unit day rates have risen sharply. That is a hidden cost.
+- [39] **Midori**: The staffing rolls show a shift. Fewer technicians, more modellers. The incident logs show idle time due to service gaps.
+- [40] **Shizue**: Midori, the shift to modellers is interesting. Does that mean the bench work is less critical?
+- [41] **Ryuji**: Not necessarily. It means the risk profile has changed. I need to see who is actually available.
+- [42] **Victoria**: The repository speed is a genuine advantage. It reduces the bottleneck for data-intensive proposals.
+- [43] **Benjamin**: The animal-unit cost is a significant variable. If a proposal relies heavily on that, the grant buys less.
+- [44] **Midori**: The idle time in the logs is concerning. It suggests that even if we fund the science, the infrastructure might not be ready.
+- [45] **Shizue**: I agree with Midori. Infrastructure readiness is a silent killer of good science.
+- [46] **Ryuji**: I am looking at the staffing rolls. I need to know if the trained hands are still here.
+- [47] **Victoria**: The repository speed is a plus, but the animal-unit cost is a minus. We need to balance these.
+- [48] **Benjamin**: The computing agreement is a plus, but the animal-unit cost is a minus. We need to balance these.
+- [49] **Midori**: The incident logs show that service gaps are a real risk. We should ask about maintenance plans.
+- [50] **Shizue**: I will look at the closeout files and the portfolio review of schedule overruns.
+- [51] **Ryuji**: I will look at the staffing rolls for technical posts and the incident logs on shared instrumentation.
+- [52] **Victoria**: I will look at the accreditation and bookings at shared facilities and the national repository deposit turnaround.
+- [53] **Benjamin**: I will look at the travel and bench-fee lines in the ledgers and the national computing agreement and facility day rates.
+- [54] **Midori**: I will look at the staffing rolls for technical posts and the incident logs on shared instrumentation.
+## Round 3
+- [60] **Shizue**: Option A relies on live breeding colonies. The schedule overruns I saw were twice as high for those.
+- [61] **Ryuji**: Option C is computation-heavy. The closeout files showed those often ended with unresolved questions, but the risk is different.
+- [62] **Victoria**: Option D is data-centric. The repository turnaround is now weeks, which is a huge advantage for that.
+- [63] **Benjamin**: Option B involves animal units. The day rates have risen sharply. That is a significant hidden cost.
+- [64] **Midori**: Option C uses shared spectroscopy. The incident logs showed it idle for weeks due to service gaps. That is a risk.
+- [65] **Shizue**: I am leaning towards Option D. It avoids the biological schedule risks and leverages the fast repository.
+- [66] **Ryuji**: I am concerned about Option C. If the spectroscopy is down, the project stalls. I need to know who is maintaining it.
+- [67] **Victoria**: Option D is the most robust. It uses the fast repository and avoids the animal-unit cost spikes.
+- [68] **Benjamin**: Option B is the most expensive due to the animal-unit rates. Option C is risky due to the spectroscopy downtime.
+- [69] **Midori**: Option D seems the most balanced. It avoids the staffing and infrastructure risks I found.
+- [70] **Shizue**: I agree with Midori. Option D is the most balanced. It avoids the biological and infrastructure risks.
+- [71] **Ryuji**: I am still worried about Option C. But Option D seems safer. I will vote for D.
+- [72] **Victoria**: I am confident in Option D. It leverages the fast repository and avoids the animal-unit cost spikes.
+- [73] **Benjamin**: I am also leaning towards Option D. It avoids the animal-unit cost spikes and the spectroscopy downtime.
+- [74] **Midori**: I am voting for Option D. It is the most balanced and avoids the risks I found.
+- [75] **Shizue**: I will vote for Option D. It is the most balanced and avoids the risks I found.
+- [76] **Ryuji**: I will vote for Option D. It is the safest option given the risks I found.
+- [77] **Victoria**: I will vote for Option D. It is the most robust and leverages the fast repository.
+- [78] **Benjamin**: I will vote for Option D. It avoids the animal-unit cost spikes and the spectroscopy downtime.
+- [79] **Midori**: I will vote for Option D. It is the most balanced and avoids the risks I found.
+### Vote
+- Shizue -> D
+- Ryuji -> D
+- Victoria -> D
+- Benjamin -> D
+- Midori -> D
+## Result
+- adopted: D

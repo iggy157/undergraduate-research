@@ -1,0 +1,73 @@
+# shared_living_0007__multi-public (shared_living)
+
+## Round 1
+- [5] **Misaki**: I’d like to understand how the current setup affects our daily interactions before we decide anything.
+- [6] **Shizue**: I worry about the morning rush, too. It feels like a small shoving match, and I’d like to see how we can ease that for everyone.
+- [7] **May**: Honestly, nobody ever checks the actual costs. I want to know what a household really pays when they end up with nowhere to keep a bike.
+- [8] **George**: I am concerned about the long-term maintenance. Who will actually keep this running month after month without it quietly lapsing?
+- [9] **Mio**: I keep hearing the same spots always go to the same doors. I want to know if that’s actually true or just grumbling.
+- [10] **Misaki**: @Mio, that pattern sounds worrying. I want to see if the current layout is actually causing friction between neighbors.
+- [11] **Shizue**: @Mio, I hope it is just a feeling. I will look into the morning departures to see if the layout is truly causing the trouble.
+- [12] **May**: @George, exactly! I’m checking the ledger and the station park to see what we’d actually pay if we had to go outside.
+- [13] **George**: @May, the ledger is a good start. I will check the treasurer’s file and the supplier’s frame to see the real workload.
+- [14] **Mio**: @Shizue, that’s a great idea! I’ll check the sticker register and the association minutes to see if the spots are actually fixed or just a rumor.
+- [15] **Misaki**: I’ll check the complaint log and the neighbouring block’s account. I want to see how arrangements like this sour relationships before we pick one.
+- [16] **Shizue**: I will look into the rain exposure and the morning departures. I want to see how the weather and the rush affect our daily peace.
+- [17] **May**: I’ll check the building ledger and the station park. I need to know the real costs before we commit to anything.
+- [18] **George**: I will examine the treasurer’s handover file and the supplier’s display frame. I need to understand the true physical and administrative burden before we commit.
+- [19] **Mio**: I’ll check the sticker register and the five years of minutes. I need to know if the spots are actually fixed or just a rumor!
+- [20] **Misaki**: I’ll check the complaint log and the neighbouring block’s account. I want to see how arrangements like this sour relationships before we pick one.
+- [21] **Shizue**: I will look into the rain exposure and the morning departures. I want to see how the weather and the rush affect our daily peace.
+- [22] **May**: I’ll check the building ledger and the station park. I need to know the real costs before we commit to anything.
+- [23] **George**: I will examine the treasurer’s handover file and the supplier’s display frame. I need to understand the true physical and administrative burden before we commit.
+- [24] **Mio**: I’ll check the sticker register and the five years of minutes. I need to know if the spots are actually fixed or just a rumor!
+## Round 2
+- [35] **Misaki**: Nine complaints died out last year because no one was responsible. The block behind us lost two members to a monthly charge.
+- [36] **Shizue**: I watched the mornings. Eleven bikes leave early, and four times someone had to move another first. It is a real squeeze.
+- [37] **May**: So, the station park costs 2,600 yen monthly, and fourteen households are already waiting. Our ledger shows capital work needs a levy. That’s a lot of money for us to absorb.
+- [38] **George**: Three hours monthly just to reconcile existing cash, and per-place billing would sit on top. Plus, hoisting bikes takes twenty seconds and the spring needs greasing twice a year.
+- [39] **Mio**: The minutes confirm the covered spots have been held by the same flats for five years with no review. The sticker register shows daily riders would rather pay than be treated as equal.
+- [40] **Misaki**: @Mio, that confirms the resentment is real. But @George, if billing drives people away like it did next door, we risk losing the very community we are trying to protect.
+- [41] **Shizue**: @Misaki, I understand your worry. But the rain soaks the exposed spots, and the morning squeeze is real. We need a solution that respects both the weather and our peace.
+- [42] **May**: @Mio, that’s a tough one. If daily riders prefer paying, maybe a fee is fairer than a lottery? But @George, who actually does the billing?
+- [43] **George**: @May, the file shows three hours monthly for existing cash. Adding per-place billing would pile on top. I worry it will quietly lapse again.
+- [44] **Mio**: @May, that’s a great point! If people prefer paying, maybe that’s the answer? But @George, I’m worried about the extra work.
+- [45] **Misaki**: @Shizue, the rain and the morning squeeze are real, but the block behind us shows how a charge can fracture a community. We need a solution that doesn’t create new enemies.
+- [46] **Shizue**: @Misaki, I hear you. But the rain and the morning squeeze are real. We need a solution that respects both the weather and our peace.
+- [47] **May**: @Misaki, I hear you, but the station park is 2,600 yen and full. If we don’t charge, we’re just subsidizing the lucky few.
+- [48] **George**: @May, the physical effort is manageable, but the paperwork is the trap. I will not let this become another abandoned duty.
+- [49] **Mio**: @George, I hear you. But if the same flats kept spots for five years, a lottery might finally fix that unfairness!
+- [50] **Misaki**: @Mio, a lottery ignores the daily riders who need certainty. @George, we must avoid the billing trap that drove neighbors away.
+- [51] **Shizue**: @Misaki, I understand your fear. But the rain and the morning squeeze are real. We need a solution that respects both the weather and our peace.
+- [52] **May**: @Mio, a lottery feels chaotic. @George, if we charge, we need a system that doesn’t burn you out. Who actually handles the money?
+- [53] **George**: @May, I will not take on the billing. The paperwork is too heavy. We need a system that runs itself, or we are doomed to repeat the past.
+- [54] **Mio**: @Misaki, I get the worry, but the minutes prove the current setup is broken. A lottery at least gives everyone a fair shot, unlike the status quo!
+## Round 3
+- [60] **Misaki**: @Mio, a lottery ignores the daily riders who need certainty. @George, we must avoid the billing trap that drove neighbors away.
+- [61] **Shizue**: @Mio, a lottery feels too random for those who ride daily. @George, I worry the racks will just bring back the morning shoving match.
+- [62] **May**: @Mio, a lottery is a coin toss. @George, shared racks mean zero billing, but who maintains them?
+- [63] **George**: @May, the racks need greasing twice a year, which is manageable. But @Mio, a lottery ignores the daily riders who need certainty.
+- [64] **Mio**: @George, the racks need greasing, but they stop the morning shoving match! @May, no billing means no burnout. I’m leaning towards shared racks.
+- [65] **Misaki**: @Mio, shared racks solve the morning squeeze, but they leave the rain problem unsolved. @George, the greasing is manageable, but who handles the daily disputes?
+- [66] **Shizue**: @Misaki, the rain is a real worry, but the morning squeeze is worse. I hope the racks help us all breathe easier.
+- [67] **May**: @Mio, shared racks mean zero billing, which saves us the 2,600 yen station fee. But @George, who actually greases those springs twice a year?
+- [68] **George**: @May, I can handle the greasing. It is a small, defined task, unlike the endless billing. I will not let it lapse.
+- [69] **Mio**: @George, thank you! That settles it for me. No billing, no burnout, and the morning rush is fixed. I’m voting for shared racks!
+- [70] **Misaki**: @George, if you handle the greasing, that removes the maintenance risk. @Mio, shared racks seem the only option that avoids the billing trap and the lottery’s chaos.
+- [71] **Shizue**: @George, I am so relieved you will handle the greasing. @Mio, shared racks seem the kindest way to keep our mornings peaceful and our bikes dry.
+- [72] **May**: @George, if you handle the greasing, that removes the maintenance risk. @Mio, shared racks seem the only option that avoids the billing trap and the lottery’s chaos.
+- [73] **George**: @May, I will manage the greasing. It is a defined task, unlike the endless billing. I am voting for shared racks.
+- [74] **Mio**: @George, thank you! That settles it for me. No billing, no burnout, and the morning rush is fixed. I’m voting for shared racks!
+- [75] **Misaki**: @George, thank you for taking that on. @Mio, shared racks seem the only path that protects our peace without the billing trap. I am voting for shared racks.
+- [76] **Shizue**: @George, thank you for stepping up. @Mio, shared racks feel like the gentlest path to peace. I am voting for shared racks.
+- [77] **May**: @George, you taking the greasing off my plate is a lifesaver. No billing, no burnout, and we save the 2,600 yen. I’m voting for shared racks.
+- [78] **George**: @Mio, I am glad we found a path that does not bury us in paperwork. I will keep the springs oiled. I am voting for shared racks.
+- [79] **Mio**: @George, you are a lifesaver! No billing, no burnout, and the morning rush is finally fixed. I am voting for shared racks!
+### Vote
+- Misaki -> B
+- Shizue -> B
+- May -> B
+- George -> B
+- Mio -> B
+## Result
+- adopted: B

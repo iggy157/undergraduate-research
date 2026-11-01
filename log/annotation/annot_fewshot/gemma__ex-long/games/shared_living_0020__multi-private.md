@@ -1,0 +1,73 @@
+# shared_living_0020__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: Hi everyone. Since our current habit isn't working, we should establish a sustainable system for the year. Let's start by gathering some objective data so we can make a fair and practical decision.
+- [6] **Benjamin**: I couldn't agree more, Minako. A bit of objective data should save us from the perils of guesswork and emotional debates. I'm quite looking forward to seeing what the evidence suggests for our little community.
+- [7] **Sakura**: Yay! A big house meeting! I'm so excited to help make everything sparkly clean! Let's find some cool clues first so we can figure out the best way to do this! What should we look at?
+- [8] **Shizue**: It is so lovely to see everyone coming together like this. I agree that we should be thoughtful. I would like to see the "Management office rate sheet and billing" and the "Bathroom spray stock and the tin's receipts."
+- [9] **Servas**: It is a pleasure to see such a spirited gathering. In my experience, the heart of a home is found in how we care for one another. Let us seek a path that preserves our harmony.
+- [10] **Minako**: I want to understand the actual time commitment involved. I'll look into the "Stopwatch timing of a full pass" and the "Standard terms of the outside firm" to see if outsourcing is a viable alternative.
+- [11] **Benjamin**: To ensure we aren't merely rearranging the deck chairs on a sinking ship, I'll examine "A fortnight's watch on kitchen use" and "Absences on the wall calendar." I suspect the actual usage patterns are quite telling.
+- [12] **Sakura**: I want to solve the mystery of the messy rooms! I'll check "What each housemate counts as done" and "Rows recorded in the house chat" to see why we're all so confused!
+- [13] **Shizue**: I believe it is important that we all feel comfortable and cared for. I will stick with my choices, as I hope to understand how we can manage our shared expenses more gently and fairly.
+- [14] **Servas**: To ensure we understand the roots of our friction, I shall look into the "Rows recorded in the house chat" and the "Note left by the previous tenants." Wisdom often hides in the lessons of the past.
+- [15] **Minako**: It seems we have a good distribution of research. We are covering the time, the costs, the social friction, and the history of the house. I believe this will give us a comprehensive view of the situation.
+- [16] **Benjamin**: Indeed, a most comprehensive spread. We have the pragmatists handling the clock and the coin, while Sakura and Servas dive into the archives of our domestic dramas. It should be quite illuminating.
+- [17] **Sakura**: I'm like a detective on a mission! I'll find out all the secrets of the house chat and what everyone thinks "clean" actually means! I bet it's going to be super interesting!
+- [18] **Shizue**: I am simply happy that we are all so motivated to help one another. I look forward to seeing what you all discover; I am sure it will help us find a very peaceful way forward.
+- [19] **Servas**: Let us embrace this process with patience. Whether the data reveals a need for more effort or a new system, the true goal is to ensure we remain friends long after the floors are clean.
+- [20] **Minako**: I agree. Let's proceed with our research and reconvene once we have the results. I'll be interested to see if the actual time required matches our perceptions. See you all in the next round.
+- [21] **Benjamin**: I shall retire to my studies then. I eagerly anticipate the revelation of our habits—it's always fascinating to see how the reality of our lives differs from the stories we tell ourselves. Until next time.
+- [22] **Sakura**: I'm off to find those clues! I'll be the best house detective ever! I can't wait to see what everyone finds out. See you all soon, bye-bye!
+- [23] **Shizue**: I shall go and look into my chosen papers now. I hope the information helps us create a home where everyone feels a sense of peace and fairness. I will see you all very soon.
+- [24] **Servas**: I shall now reflect upon the records and the echoes of those who lived here before us. May our findings lead us toward a solution that nourishes our spirits and our friendship. Until we meet again.
+## Round 2
+- [35] **Minako**: The data is quite revealing. A full pass takes over an hour and a half, which is more significant than some might admit. Additionally, an outside firm requires us to tidy up first, meaning it doesn't fully remove the labor.
+- [36] **Benjamin**: My findings are equally illuminating, if a bit sobering. It appears our usage is quite lopsided; a few of us are the primary architects of the kitchen's chaos, while others are merely casual visitors for their morning caffeine.
+- [37] **Sakura**: I found the secret! The reason the rooms are so weird is because everyone has a different idea of "done"! Some people just wipe the sink, but others do the whole floor! No wonder it's a mystery!
+- [38] **Shizue**: It is quite interesting, isn't it? I found that we are spending about 2,300 yen a month on supplies, but some things are being bought twice. It seems we are not quite coordinated with our shopping.
+- [39] **Servas**: It is a sobering reminder that the ghosts of the past often warn us of the future. I found that our disputes stem from reminders of undone tasks, and previous tenants here grew distant through rigid divisions.
+- [40] **Minako**: @Benjamin, if usage is lopsided, a flat rotation might feel unfair. However, we must address the time burden. Over an hour and a half of deep cleaning is a lot to ask of anyone on a busy day.
+- [41] **Benjamin**: @Minako, precisely. A flat rotation in the face of such disparity is less a system of fairness and more a exercise in martyrdom for the coffee-drinkers. We must account for the actual footprint each person leaves.
+- [42] **Sakura**: @Benjamin, that sounds so serious! But if we just look at who uses the kitchen, what about the bathroom? I found out that's why it's so scary—some people think it's clean when it's actually still yucky!
+- [43] **Shizue**: @Sakura, you are quite right, dear. It can be very confusing when we all have different ideas of what is clean. I worry that if we aren't careful, some of us might feel burdened while others are unaware.
+- [44] **Servas**: @Sakura, @Shizue, you have touched upon a vital truth. When expectations are unspoken, resentment grows in the silence. We must define our standards together, not to police one another, but to ensure no one feels alone in their effort.
+- [45] **Minako**: @Servas, I agree that defining standards is necessary. However, we cannot ignore the physical reality of the time required. If we set a high standard, the labor increases, and we must ensure the schedule is sustainable for everyone's lifestyle.
+- [46] **Benjamin**: @Minako, a sustainable schedule is indeed the goal, but sustainability requires a foundation of equity. If we ignore the fact that some of us are rarely even present in the house, we are simply scheduling unfairness.
+- [47] **Sakura**: @Benjamin, you're always thinking about what's fair! But if we only clean what we use, the bathroom will still be a scary mystery! We need a way to make sure it's always sparkly, no matter who was there last!
+- [48] **Shizue**: @Sakura, you have such a wonderful spirit! I agree that the bathroom should be a pleasant place for everyone. I also worry about our supplies; it would be so much kinder if we could manage our costs together without anyone feeling out of pocket.
+- [49] **Servas**: @Benjamin, @Minako, while equity and time are important, let us not forget that a home is more than a ledger of debts. If we focus only on who owes what, we risk becoming strangers under one roof.
+- [50] **Minako**: @Servas, I value our friendship, but harmony is built on a foundation of reliability. If the workload is underestimated or unfairly distributed, resentment will follow regardless of our intentions. We need a system that respects everyone's time.
+- [51] **Benjamin**: @Minako, a most poignant point. Reliability is indeed the bedrock of harmony. However, I suspect that the most reliable way to avoid resentment is to ensure the burden doesn't fall on those who aren't even here to create the mess.
+- [52] **Sakura**: @Benjamin, @Minako, you guys are talking like grown-ups! But if we only clean what we use, we'll still be arguing in the chat! Let's just make a super clear list of what "done" means so it's not a mystery anymore!
+- [53] **Shizue**: @Sakura, that is a lovely idea! A clear list would be so helpful for everyone. I also hope we can find a way to share the cost of our supplies together, so no one has to worry about their wallet.
+- [54] **Servas**: Let us remember that a clear list is a map, but kindness is the journey. If we combine a shared understanding of our tasks with a spirit of generosity, we shall avoid the cold silence that claimed those before us.
+## Round 3
+- [60] **Minako**: Looking at the options, Option B is problematic because the firm requires us to tidy up first, meaning the labor isn't fully removed. Option A is predictable, but Option C allows for better time management.
+- [61] **Benjamin**: Option A is a recipe for the very martyrdom I mentioned; it ignores the reality of our absences and usage. Option C, while flexible, risks creating permanent burdens for a few unlucky souls. Neither seems particularly elegant.
+- [62] **Sakura**: Option B sounds like a magic trick, but @Minako says it's not! I don't like Option C because if someone's "permanent" spot stays yucky, it'll be a scary mystery forever! Option A is like a game!
+- [63] **Shizue**: It is a bit like a game, isn't it, Sakura? However, I am quite drawn to Option B. If we have a professional help us, it might remove the friction between us and ensure the house stays lovely for everyone.
+- [64] **Servas**: Option B may seem like a sanctuary, but if we rely on a stranger to solve our friction, we miss the chance to grow together. Option C risks the cold distance of the previous tenants.
+- [65] **Minako**: @Shizue, while professional help sounds appealing, the requirement to tidy before they arrive means we are still managing the labor, just shifting the timing. Option C is the most efficient for those of us with strict schedules.
+- [66] **Benjamin**: @Minako, efficiency is a seductive argument, but permanent ownership is a dangerous game. If one person's "permanent" area is the kitchen—the epicenter of our chaos—they are essentially signing a lease on a lifetime of scrubbing. It's hardly equitable.
+- [67] **Sakura**: @Benjamin, you're right! That would be so unfair! But if we do Option A, we all take turns being the kitchen boss! Then nobody has to be the scrubbing-person forever, and we can all make it sparkly together!
+- [68] **Shizue**: @Sakura, you have such a thoughtful way of looking at it! I agree that taking turns is very fair. However, I still wonder about Option B; if we settle the invoice together each month, it would solve my worry about the supplies and costs.
+- [69] **Servas**: @Shizue, while the coin is a practical matter, the heart of the issue is how we speak to one another. Option A ensures no one is singled out as the permanent servant of the kitchen, preventing the resentment that breeds silence.
+- [70] **Minako**: @Shizue, we can manage supplies separately from the cleaning method. Regarding Option A, while it is fair in rotation, it can be rigid. However, compared to the risks of Option C and the hidden labor of Option B, it is the most stable.
+- [71] **Benjamin**: @Minako, stability is a virtue, but a rigid rota is merely a blindfold. It ignores the fact that some of us are ghosts in this house while others are permanent fixtures. Still, it is far more palatable than permanent servitude.
+- [72] **Sakura**: @Benjamin, you're so funny! But if we have a rota, we can just make a super-duper checklist for each week! That way, the "ghosts" and the "fixtures" all know exactly how to make it sparkly! I vote for Option A!
+- [73] **Shizue**: @Sakura, a checklist is a wonderful idea to keep us all on the same page! While I still worry about the costs, I agree that taking turns is the kindest way to ensure no one feels overwhelmed. I vote for Option A.
+- [74] **Servas**: @Sakura, @Shizue, your enthusiasm is a light in this room. By sharing the burden through a rota, we ensure that no one person carries the weight of the kitchen alone, keeping our hearts open and our voices friendly. I vote for Option A.
+- [75] **Minako**: @Benjamin, while I understand your point about usage, a rota is the only way to ensure the total time burden is shared equally over the year. It prevents any one person from being overwhelmed. I vote for Option A.
+- [76] **Benjamin**: It seems I am the last holdout in this democratic landslide. While a rota is a blunt instrument that ignores our actual footprints, it is certainly more civilized than permanent servitude or a costly illusion. I vote for Option A.
+- [77] **Sakura**: Yay! Everyone agrees! Now we just need that super-duper checklist so the bathroom isn't a scary mystery anymore! I'm so happy we're all going to be sparkly-clean together! I vote for Option A!
+- [78] **Shizue**: It is such a relief to see us all in agreement. I am sure that with our new rota and Sakura's wonderful checklist, we will keep our home peaceful and happy. I vote for Option A.
+- [79] **Servas**: It is a beautiful thing when a house becomes a home through mutual understanding. By choosing to share the burden, we choose each other. I vote for Option A.
+### Vote
+- Minako -> A
+- Benjamin -> A
+- Sakura -> A
+- Shizue -> A
+- Servas -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0014__single-online (shared_living)
+
+## Round 1
+- [5] **Mizuki**: Let’s start by looking at how last year’s days ran and the time alone in the shared-house year.
+- [6] **Shizue**: I’d like to check the all-in rates against meals bought separately, and what separately booked rooms cost last time.
+- [7] **Minato**: I want to look into bathing hours and bathroom provision, and how last year’s days ran.
+- [8] **Jonathan**: I’ll look into ferry sailings and train time, and getting around by train and bus.
+- [9] **Midori**: I’ll check the valley inn rates versus urban beds, and the pricing of offshore houses let whole.
+- [10] **Mizuki**: @Minato, I’m glad you’re checking the bathing hours too. It’s a small thing, but it shapes the whole day.
+- [11] **Shizue**: @Midori, knowing the full cost upfront would help me feel at ease about the final bill.
+- [12] **Minato**: @Mizuki, yes. I just want to know if the water is warm and if I can sit somewhere that isn’t a bed.
+- [13] **Jonathan**: I’m mostly curious how much of the week gets eaten by travel and waiting.
+- [14] **Midori**: @Shizue, I hope the numbers come back clear. I’d rather see the whole week’s cost before we promise anything.
+- [15] **Mizuki**: @Jonathan, your travel question is key. If the journey eats the week, the destination itself barely matters.
+- [16] **Shizue**: @Mizuki, exactly. If the travel is too long, we lose the time we actually want to spend together.
+- [17] **Minato**: @Mizuki, I agree. I just want to know if the water is warm and if I can sit somewhere that isn’t a bed.
+- [18] **Jonathan**: @Mizuki, I’m hoping the train option saves us the ferry’s two-day loss.
+- [19] **Midori**: @Jonathan, I hope the train is quick. I just need to know the total cost before we commit to anything.
+- [20] **Mizuki**: @Midori, I understand the need for certainty. Let’s see what the research reveals before we decide.
+- [21] **Shizue**: - **Shizue**: @Midori, I agree. A clear total helps everyone feel safe about the money.
+- [22] **Minato**: - **Minato**: I’m just hoping the water stays warm and I can find a quiet corner to sit.
+- [23] **Jonathan**: - **Jonathan**: I’ll wait for the ferry and train times to see which option keeps our days intact.
+- [24] **Midori**: I’ll wait for the numbers to come in. Knowing the full cost upfront is the only way I can feel comfortable agreeing.
+## Round 2
+- [35] **Mizuki**: - **Mizuki**: @Minato, I found that last year we barely met, and the shared house left no room for solitude.
+- [36] **Shizue**: - **Shizue**: @Midori, I found that separate bookings varied wildly, but renting a whole house splits the bill evenly.
+- [37] **Minato**: - **Minato**: @Mizuki, I found the baths are open late, but the island houses only have one bathroom and the water runs cold.
+- [38] **Jonathan**: - **Jonathan**: The train takes ninety minutes, but the ferry eats two days. The city runs on trains every few minutes.
+- [39] **Midori**: @Shizue, the valley inn is about 17,000 yen with meals, while the island house is 5,400 yen per head plus food.
+- [40] **Mizuki**: - **Mizuki**: @Minato, that cold water detail is worrying. I hope the town option offers more comfort for you.
+- [41] **Shizue**: - **Shizue**: @Midori, that 17,000 yen figure is reassuring. It means the meals are included, so we won't have to guess the daily food costs.
+- [42] **Minato**: - **Minato**: @Mizuki, I’m relieved the baths are open late. I just need to know if I can sit somewhere that isn’t a bed.
+- [43] **Jonathan**: - **Jonathan**: @Mizuki, the ninety-minute train is a relief. It means we keep the middle of the week for ourselves, not the journey.
+- [44] **Midori**: @Shizue, the island’s lower base rate is tempting, but adding food makes the total unpredictable. I’d rather pay the higher, fixed valley rate.
+- [45] **Mizuki**: - **Mizuki**: @Minato, the town’s public bath and streets might give you that space to sit and breathe.
+- [46] **Shizue**: - **Shizue**: @Midori, I agree. A fixed rate means the bill is settled before we arrive, which is much safer for us.
+- [47] **Minato**: @Mizuki, yes. A place where I can just sit and watch people would be wonderful. I don’t want to be stuck in a room.
+- [48] **Jonathan**: @Midori, the city’s frequent trains mean we never wait. That keeps our days open and free from the ferry’s long delays.
+- [49] **Midori**: @Jonathan, the city’s flexibility is nice, but the separate room costs worry me. I’d rather have one clear, predictable total for the week.
+- [50] **Mizuki**: @Midori, I understand. But the city’s separate rooms mean we drift apart again. I want us together, not scattered.
+- [51] **Shizue**: @Mizuki, I hear you. But if the money is clear, we can focus on being together without worrying about the bill.
+- [52] **Minato**: @Mizuki, I agree. I just want a warm bath and a chair to sit in, not a cold room.
+- [53] **Jonathan**: @Mizuki, I agree. The city’s constant movement keeps us from drifting, but the train to the valley is the only one that doesn’t steal our days.
+- [54] **Midori**: @Mizuki, I hear you. But if the money is clear, we can focus on being together without worrying about the bill.
+## Round 3
+- [60] **Mizuki**: @Everyone, the options are: A, Hot Spring Town; B, Island Trip; C, City Break. Let’s discuss which fits us best.
+- [61] **Shizue**: - **Shizue**: @Mizuki, I’m leaning toward the Hot Spring Town. The fixed rate means the money is settled, and we stay together.
+- [62] **Minato**: - **Minato**: @Mizuki, I think the Hot Spring Town is best. The baths are warm and open late, and I can sit in the streets.
+- [63] **Jonathan**: @Mizuki, I’m voting for the Hot Spring Town. The ninety-minute train keeps our days intact, unlike the ferry.
+- [64] **Midori**: @Mizuki, I’m voting for the Hot Spring Town. The fixed rate means I know the total cost before we commit, which is what I need.
+- [65] **Mizuki**: @Everyone, I am voting for the Hot Spring Town. It keeps us together, unlike the city, and avoids the island’s cold water.
+- [66] **Shizue**: - **Shizue**: @Mizuki, I agree. The Hot Spring Town feels right for all of us.
+- [67] **Minato**: - **Minato**: @Mizuki, yes. The Hot Spring Town is my choice. I can finally rest easy knowing the water will be warm.
+- [68] **Jonathan**: @Mizuki, I agree. The Hot Spring Town is my choice. The train is quick, and we keep our days.
+- [69] **Midori**: @Mizuki, I agree. The Hot Spring Town is my choice. The fixed rate means I know the total cost before we commit, which is what I need.
+- [70] **Mizuki**: - **Mizuki**: @Everyone, it seems we are all in agreement. The Hot Spring Town is the clear choice for us.
+- [71] **Shizue**: - **Shizue**: @Mizuki, I am so glad we found a place where the money and the comfort both feel safe.
+- [72] **Minato**: - **Minato**: @Mizuki, I am happy too. I can’t wait to sit by the bath and watch the people go by.
+- [73] **Jonathan**: - **Jonathan**: @Mizuki, I agree. The Hot Spring Town is my choice. The train is quick, and we keep our days.
+- [74] **Midori**: @Mizuki, I am glad we are all in agreement. The Hot Spring Town is my choice. The fixed rate means I know the total cost before we commit, which is what I need.
+- [75] **Mizuki**: @Everyone, then it is settled. We are going to the Hot Spring Town. Thank you all for listening to each other.
+- [76] **Shizue**: - **Shizue**: I am so happy for all of us. It feels like a warm, safe place to be together.
+- [77] **Minato**: - **Minato**: I am so happy too. I can’t wait to sit by the bath and watch the people go by.
+- [78] **Jonathan**: - **Jonathan**: I am glad we are all in agreement. The Hot Spring Town is my choice. The train is quick, and we keep our days.
+- [79] **Midori**: I am glad we are all in agreement. The Hot Spring Town is my choice. The fixed rate means I know the total cost before we commit, which is what I need.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> A
+- Jonathan -> A
+- Midori -> A
+## Result
+- adopted: A

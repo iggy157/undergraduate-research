@@ -1,0 +1,73 @@
+# candidate_selection_0012__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: Quarter-end reporting is our blind spot. I need to verify if new holdings will break our audit trail.
+- [6] **Jonathan**: I’m concerned about the human cost. Who can we actually hire right now, and who is already stretched thin?
+- [7] **Shizue**: I worry our success stories have drifted from reality. I want to see which past investments truly kept their customers.
+- [8] **Misaki**: I need to understand our future cash obligations. I will examine reserve accounts and follow-on calls to see what the years after a first round demand.
+- [9] **Shion**: I suspect the delays are structural, not accidental. I need to know exactly what external friction stops our money from reaching a live customer.
+- [10] **Mizuki**: @Misaki, your focus on cash obligations is vital. I will examine independent checks on holdings' reported figures to ensure our baseline is solid.
+- [11] **Jonathan**: @Mizuki, your caution is wise. I will examine retained recruiters' placement times to see who we can actually hire right now.
+- [12] **Shizue**: @Mizuki, I appreciate your diligence. I will examine account retention through price rises to see if our past narratives hold up.
+- [13] **Misaki**: @Shion, structural delays are critical. I will also examine the terms of last winter's credit line to see what we can borrow against.
+- [14] **Shion**: @Misaki, the credit line is a symptom. I will examine security review time before first deployment to isolate the true external bottleneck.
+- [15] **Mizuki**: I will also review appraisal needs at the last audit. We must know exactly what external verification a new holding triggers before we commit.
+- [16] **Jonathan**: I will also review the adviser bench and partner board seats. I need to know whose time is already spoken for before we ask for more.
+- [17] **Shizue**: I will also review the profile of the exits and the write-off. I need to see which of our past stories actually held up under scrutiny.
+- [18] **Misaki**: I will also review the profile of the exits and the write-off. I need to see if our past losses were structural or just bad luck.
+- [19] **Shion**: I will also review delivery records of two holdings. I need to see if the promised timelines ever actually materialized in practice.
+- [20] **Mizuki**: I’ll stick with my two choices. Independent checks and audit needs will reveal if our reporting integrity survives a new holding.
+- [21] **Jonathan**: I’ll stick with my two choices. Placement times and board seats will show me the true human cost before we ask for more.
+- [22] **Shizue**: I’ll stick with my two choices. Retention data and exit profiles will show if our stories match the actual returns.
+- [23] **Misaki**: I’ll stick with my two choices. Reserve accounts and credit line terms will reveal the true cost of our future obligations.
+- [24] **Shion**: I’ll stick with my two choices. Security reviews and delivery records will expose the exact external friction we are signing up for.
+## Round 2
+- [35] **Mizuki**: @Shion, my findings confirm the risk. Software holdings report only their own dashboards, while hardware requires costly, slow outside appraisals. We must avoid hardware to protect our quarter-end integrity.
+- [36] **Jonathan**: @Mizuki, your audit concern is valid. My data shows we can hire support staff quickly, but field supervisors take months. We must avoid roles needing seasonal crews.
+- [37] **Shizue**: @Mizuki, your caution is wise. My findings show quiet back-office tools retain customers, while physical premises fail. We must choose software that stays invisible and steady.
+- [38] **Misaki**: @Shion, my findings are stark. Follow-on calls are double the model, and our credit line ignores unbilled revenue. We need immediate, billable cash flow to survive.
+- [39] **Shion**: @Misaki, your cash trap is real. My data confirms it: hardware stalls for quarters in security review. We must pick a candidate that bypasses that external friction entirely.
+- [40] **Mizuki**: @Shion, precisely. Hardware triggers the six-week appraisal delay I found. We need a candidate with transparent, independent reporting to keep our quarter-end clean.
+- [41] **Jonathan**: @Shion, I agree. Avoiding hardware prevents the seasonal hiring trap I found. We need a candidate whose team we can actually staff without months of delay.
+- [42] **Shizue**: @Shion, I agree. My exit data shows quiet software endures, while physical operations crumble. We must choose a candidate that stays invisible and steady, avoiding the friction you described.
+- [43] **Misaki**: @Shion, I concur. If revenue is unbilled, it is invisible to lenders. We need a candidate with immediate, billable cash flow to bypass the credit line’s structural trap.
+- [44] **Shion**: @Misaki, exactly. The bank tool never missed a release because it bypassed the hardware bottleneck. We need a candidate with immediate, billable revenue and zero external security friction.
+- [45] **Mizuki**: @Misaki, your cash trap is critical. We need a candidate with immediate, billable revenue to bypass the credit line’s structural trap and keep our reporting clean.
+- [46] **Jonathan**: @Misaki, I agree. We need billable revenue, but also a team we can actually staff. My data shows support roles are quick, but field supervisors take months.
+- [47] **Shizue**: @Misaki, I hear you. My retention data shows quiet tools keep customers. We need steady, billable revenue that doesn’t rely on physical presence or seasonal crews.
+- [48] **Misaki**: @Jonathan, I agree. We need billable revenue, but also a team we can actually staff. My data shows support roles are quick, but field supervisors take months.
+- [49] **Shion**: @Jonathan, staffing is secondary. The security review is the true gatekeeper. We must select a candidate whose deployment bypasses that external friction entirely.
+- [50] **Mizuki**: @Shion, I agree. We need a candidate that bypasses security friction and offers transparent, independent reporting. This protects our quarter-end integrity and ensures clean, verifiable data for our audit trail.
+- [51] **Jonathan**: @Shion, I hear you. But if we can’t staff the team, the deployment is moot. We need a candidate whose human needs match our actual hiring speed.
+- [52] **Shizue**: @Jonathan, you are right. A beautiful plan is useless if no one can tend it. We must choose a candidate that fits our current hands, not our hopes.
+- [53] **Misaki**: @Shion, I agree. We need a candidate that bypasses security friction and offers transparent, independent reporting. This protects our quarter-end integrity and ensures clean, verifiable data for our audit trail.
+- [54] **Shion**: @Jonathan, staffing is a variable; security review is a wall. We must choose the candidate that bypasses the wall, not the one that fits our current hands.
+## Round 3
+- [60] **Mizuki**: @Shion, Clinic Scheduler handles medical records, triggering long security reviews. Ledger Bridge offers transparent, independent data. I favor Ledger Bridge for clean reporting.
+- [61] **Jonathan**: @Mizuki, I agree. Ledger Bridge is pure software, so no seasonal field crews to hire. My recruiters can handle the support roles easily. I’m voting for it!
+- [62] **Shizue**: @Mizuki, I agree. Ledger Bridge is the quiet, steady tool my data favors. It avoids the physical traps and keeps customers loyal. I vote for Ledger Bridge.
+- [63] **Misaki**: @Mizuki, I agree. Ledger Bridge’s billable SaaS model provides the immediate cash flow my credit line data demands. It avoids the structural traps. I vote for Ledger Bridge.
+- [64] **Shion**: @Misaki, precisely. Ledger Bridge reconciles bank data, bypassing the medical security wall. It is the only candidate that respects the external friction I identified. I vote for Ledger Bridge.
+- [65] **Mizuki**: @Shion, I concur. Ledger Bridge’s independent reconciliation matches my audit findings. It avoids hardware appraisal delays and protects our quarter-end integrity. I vote for Ledger Bridge.
+- [66] **Jonathan**: @Shion, I agree. Ledger Bridge’s support roles fit our hiring speed. No field crews, no seasonal delays. It respects the human reality I found. I vote for Ledger Bridge.
+- [67] **Shizue**: @Shion, I concur. Ledger Bridge is the quiet, steady tool my data favors. It avoids the physical traps and keeps customers loyal. I vote for Ledger Bridge.
+- [68] **Misaki**: @Shion, I concur. Ledger Bridge’s billable model secures our position against the doubled follow-on calls. It is the only choice that respects our structural reality. I vote for Ledger Bridge.
+- [69] **Shion**: @Misaki, the data is unanimous. Ledger Bridge is the only path that respects the external friction I identified. I vote for Ledger Bridge.
+- [70] **Mizuki**: @Shion, the consensus is clear. Ledger Bridge is the only choice that protects our reporting integrity and respects the structural constraints we all identified. I confirm my vote for Ledger Bridge.
+- [71] **Jonathan**: @Mizuki, I concur. Ledger Bridge respects the human reality I found. No seasonal crews, no months of delay. It is the only choice that fits our actual hands. I confirm my vote for Ledger Bridge.
+- [72] **Shizue**: @Mizuki, I am glad we are aligned. Ledger Bridge is the quiet, steady choice my data supports. It honors the past and protects our future. I confirm my vote for Ledger Bridge.
+- [73] **Misaki**: @Mizuki, I concur. Ledger Bridge’s billable revenue secures our position against the doubled follow-on calls. It is the only choice that respects our structural reality. I confirm my vote for Ledger Bridge.
+- [74] **Shion**: @Mizuki, the consensus is absolute. Ledger Bridge bypasses the security wall and the hardware trap. It is the only rational choice. I confirm my vote for Ledger Bridge.
+- [75] **Mizuki**: @All, our consensus is complete. Ledger Bridge is selected. Its independent data structure safeguards our quarter-end integrity. Let us proceed with confidence and clarity.
+- [76] **Jonathan**: @Mizuki, I am glad we are aligned. Ledger Bridge respects the human reality I found. No seasonal crews, no months of delay. It is the only choice that fits our actual hands. I confirm my vote for Ledger Bridge.
+- [77] **Shizue**: @Mizuki, I am glad we are aligned. Ledger Bridge is the quiet, steady choice my data supports. It honors the past and protects our future. I confirm my vote for Ledger Bridge.
+- [78] **Misaki**: @Mizuki, I confirm my vote for Ledger Bridge. Its billable revenue secures our position against the doubled follow-on calls. It is the only choice that respects our structural reality.
+- [79] **Shion**: @Mizuki, the consensus is final. Ledger Bridge is selected. It bypasses the external friction I identified. I confirm my vote for Ledger Bridge.
+### Vote
+- Mizuki -> B
+- Jonathan -> B
+- Shizue -> B
+- Misaki -> B
+- Shion -> B
+## Result
+- adopted: B

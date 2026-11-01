@@ -1,0 +1,73 @@
+# shared_living_0008__multi-public (shared_living)
+
+## Round 1
+- [5] **May**: I pulled the use tally. It’s not about the room; it’s about who gets to claim it first.
+- [6] **Misaki**: @May, that’s a fair point. I’m looking at the partition wall and the crumbs, though.
+- [7] **Servas**: I am considering the facilities callouts and the invoices for outside hire. We must understand the true cost of our current habits before deciding.
+- [8] **Sakura**: I’m checking the quotes for the fit-outs and the old fridge clear-out! I want to see the real numbers before we sign anything.
+- [9] **Kenji**: I’m looking into the unplanned talk and where that last awkward conversation happened. We need a place to actually talk, not just sit.
+- [10] **May**: @Misaki, the wall is thin, but the crumbs are a daily battle. I’m picking the tally and the fridge clear-out to see who’s really using it.
+- [11] **Misaki**: @May, I’ll stick with the wall and the crumbs. The noise and the mess are what actually bother me day to day.
+- [12] **Servas**: I will examine the invoices and the facilities callouts. We must trace where our hours and money truly go before committing to any new arrangement.
+- [13] **Sakura**: @May, the fridge clear-out sounds messy! I’ll stick with the quotes and the fridge. I need to know exactly what we’re paying before we agree to anything.
+- [14] **Kenji**: @May, I’m sticking with the unplanned talk and the awkward conversation spot. We need to know where we actually connect before we pick a room.
+- [15] **May**: @Kenji, I hear you. But I need the data to back up my gut. I’m locking in the tally and the fridge clear-out.
+- [16] **Misaki**: @May, agreed. I’m locking in the partition wall and the crumbs. I need to know exactly what leaks out and what stays behind.
+- [17] **Servas**: I will confirm my choice: the invoices and the facilities callouts. We must see where the hours and money truly go before we commit.
+- [18] **Sakura**: @May, you’re right! I’m locking in the quotes and the fridge clear-out. I need those numbers on paper before we sign anything!
+- [19] **Kenji**: @May, fair enough. I’m locking in the unplanned talk and the awkward conversation spot. We need to know where we actually connect before we pick a room.
+- [20] **May**: Alright, choices are locked in. Let’s see what we actually find before we start arguing about walls and crumbs.
+- [21] **Misaki**: Agreed. Let’s see what the data says before we decide.
+- [22] **Servas**: Very well. We shall see what the records reveal. Let us proceed with patience and clarity.
+- [23] **Sakura**: Locked in! I can’t wait to see those numbers. Let’s hope the fridge isn’t a total disaster!
+- [24] **Kenji**: Locked in! I’m really curious what we find. Let’s hope it helps us talk better, not just sit closer.
+## Round 2
+- [35] **May**: The tally is brutal. Two people used it eleven times; the rest of us, four. And the fridge? Half was ownerless.
+- [36] **Misaki**: @May, the wall is just one sheet of plasterboard. I can hear every word from my desk. And three keyboards are buried in crumbs.
+- [37] **Servas**: The invoices show sixty-eight thousand yen for nine small bookings. Facilities logged eleven callouts for equipment, yet none for the empty store room.
+- [38] **Sakura**: @May, the quotes are 141,000 yen for the screen and 96,000 for the kitchen! Plus, half the old fridge was ownerless. We need to see the real costs before signing anything.
+- [39] **Kenji**: @May, the printer is the only place we talk now. And that last hard conversation happened in front of everyone. We need a private space.
+- [40] **May**: @Kenji, that’s exactly why we need a bookable space. If it’s first-come, first-served, the same two people will hog it again.
+- [41] **Misaki**: @May, a bookable space helps, but the plasterboard wall means privacy is impossible. I need to know if we can fix that before we commit.
+- [42] **Servas**: @Misaki, the wall is a flaw, but the eleven callouts show equipment demands our time. We must weigh that upkeep against the cost of silence.
+- [43] **Sakura**: @Servas, those callouts are scary! But 141,000 yen for a screen? That’s a lot of money for just a table. Who pays for that?
+- [44] **Kenji**: @Misaki, the wall is thin, but the printer talk is real. We need a place where hard things can be said without an audience.
+- [45] **May**: @Misaki, the wall is a problem, but the tally proves the real issue is access. We need a system, not just a thicker wall.
+- [46] **Misaki**: @May, a system helps, but plasterboard is a physical barrier. If I can hear everything, the room fails its purpose.
+- [47] **Servas**: @Misaki, the wall is a flaw, but the eleven callouts show equipment demands our time. We must weigh that upkeep against the cost of silence.
+- [48] **Sakura**: @May, a bookable system makes sense! But who signs for the 141,000 yen? I need to see the monthly costs before we agree to anything.
+- [49] **Kenji**: @May, a system is good, but the printer talk is real. We need a place where hard things can be said without an audience.
+- [50] **May**: @Sakura, the numbers are scary, but the tally proves the chaos. We need a system to stop the hogging, not just a thicker wall.
+- [51] **Misaki**: @May, I agree. A system is necessary, but the plasterboard wall is a physical barrier. If I can hear everything, the room fails its purpose.
+- [52] **Servas**: @Misaki, the wall is a flaw, but the eleven callouts show equipment demands our time. We must weigh that upkeep against the cost of silence.
+- [53] **Sakura**: @May, I hear you! But I still need to know who signs for that 141,000 yen. I can’t agree to a system without seeing the monthly costs on paper first.
+- [54] **Kenji**: @Sakura, the money is real, but so is the silence. We need a place to talk without an audience, or we stay strangers.
+## Round 3
+- [60] **May**: @Kenji, Option C is the only one that fixes the hogging. A shared calendar means no more first-come, first-served chaos.
+- [61] **Misaki**: @May, a calendar helps, but the plasterboard wall means I can still hear everything. Option B is the only one that actually respects the noise.
+- [62] **Servas**: @Misaki, the wall is a flaw, but the eleven callouts show equipment demands our time. We must weigh that upkeep against the cost of silence.
+- [63] **Sakura**: @May, Option C costs 141,000 yen! I need to see the monthly breakdown before I sign. Who is paying for that screen?
+- [64] **Kenji**: @Sakura, the money is real, but so is the silence. We need a place to talk without an audience, or we stay strangers.
+- [65] **May**: @Sakura, the 141,000 yen is a one-time fit-out, not a monthly drain. The real cost is the chaos we’re already paying for.
+- [66] **Misaki**: @May, a calendar doesn’t stop sound. If I can hear every word, the room fails. I need silence, not just a booking slot.
+- [67] **Servas**: @Misaki, the wall is a flaw, but the eleven callouts show equipment demands our time. We must weigh that upkeep against the cost of silence.
+- [68] **Sakura**: @May, one-time is still a lot! But if it stops the chaos, maybe it’s worth it. I just need to know who signs the paper!
+- [69] **Kenji**: @Misaki, a quiet room keeps us isolated. We need a place to talk, not just hide. Option C is the only way we stop being strangers.
+- [70] **May**: @Misaki, the wall is a flaw, but the tally proves the real issue is access. We need a system to stop the hogging, not just a thicker wall.
+- [71] **Misaki**: @May, I understand the access issue, but the plasterboard wall is a physical barrier. If I can hear everything, the room fails its purpose.
+- [72] **Servas**: @Misaki, the wall is a flaw, but the eleven callouts show equipment demands our time. We must weigh that upkeep against the cost of silence.
+- [73] **Sakura**: @May, I hear you! But I still need to know who signs for that 141,000 yen. I can’t agree to a system without seeing the monthly costs on paper first.
+- [74] **Kenji**: @Misaki, the wall is thin, but the printer talk is real. We need a place where hard things can be said without an audience.
+- [75] **May**: @Misaki, the wall is a flaw, but the tally proves the real issue is access. We need a system to stop the hogging, not just a thicker wall.
+- [76] **Misaki**: @May, I hear you, but the wall is a physical barrier. If I can hear everything, the room fails. I am voting for B.
+- [77] **Servas**: @Misaki, the wall is a flaw, but the eleven callouts show equipment demands our time. We must weigh that upkeep against the cost of silence.
+- [78] **Sakura**: @May, I hear you! But I still need to know who signs for that 141,000 yen. I can’t agree to a system without seeing the monthly costs on paper first.
+- [79] **Kenji**: @Misaki, I hear you, but a quiet room keeps us isolated. We need a place to talk, not just hide. I am voting for C.
+### Vote
+- May -> C
+- Misaki -> B
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

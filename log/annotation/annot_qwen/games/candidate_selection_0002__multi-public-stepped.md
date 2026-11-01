@@ -1,0 +1,73 @@
+# candidate_selection_0002__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I worry about our reporting integrity. Who can verify the numbers we present to LPs?
+- [6] **Asuka**: I need to know which past wins actually held their customers. The stories feel inflated.
+- [7] **Minako**: I am concerned about our cash flow. What will the follow-on demands look like?
+- [8] **Mio**: I am worried about the time we spend sourcing people. Who can we actually hire?
+- [9] **Toshio**: I want to understand the external obstacles that delayed our last two cohorts.
+- [10] **Servas**: @Minako, if we borrow against assets, what counts as collateral?
+- [11] **Asuka**: @Toshio, were the delays due to supply chains or internal execution?
+- [12] **Minako**: @Servas, I agree. We need to know what we can borrow against.
+- [13] **Mio**: @Asuka, if customers leave, does that affect our ability to hire?
+- [14] **Toshio**: @Asuka, I suspect it is external. I want to see the delivery records.
+- [15] **Servas**: I will look into independent checks on holdings' reported figures.
+- [16] **Asuka**: I will check account retention through price rises.
+- [17] **Minako**: I will investigate reserve accounts and follow-on calls.
+- [18] **Mio**: I will look into retained recruiters' placement times.
+- [19] **Toshio**: I will review delivery records of two holdings.
+- [20] **Servas**: I also want to see the terms of last winter's credit line.
+- [21] **Asuka**: I will also check the profile of the exits and the write-off.
+- [22] **Minako**: I will also look into the terms of last winter's credit line.
+- [23] **Mio**: I will also check the adviser bench and partner board seats.
+- [24] **Toshio**: I will also look into security review time before first deployment.
+## Round 2
+- [35] **Servas**: The credit line ignores subscription contracts. That is a major risk for software deals.
+- [36] **Asuka**: My findings show back-office tooling is the real winner. The write-off was a physical operation.
+- [37] **Minako**: @Servas, this confirms my fear. We cannot borrow against our software assets.
+- [38] **Mio**: @Toshio, the recruiters can't find field crews. That is a huge bottleneck for physical ops.
+- [39] **Toshio**: @Mio, I see the same. Hardware deals face supply chain delays. Software is faster.
+- [40] **Servas**: @Minako, exactly. We need assets we can verify and collateralize.
+- [41] **Asuka**: @Toshio, so we should avoid anything with heavy physical infrastructure?
+- [42] **Minako**: @Asuka, I agree. We need to avoid the follow-on trap.
+- [43] **Mio**: @Servas, but if we pick software, do we have the people to support it?
+- [44] **Toshio**: @Mio, the security review for medical data is long. That is a hidden cost.
+- [45] **Servas**: I am leaning towards a deal with verifiable physical assets.
+- [46] **Asuka**: I am leaning towards the back-office tooling. It matches our exit profile.
+- [47] **Minako**: I am leaning towards the deal with the best collateral profile.
+- [48] **Mio**: I am leaning towards the deal with the easiest hiring profile.
+- [49] **Toshio**: I am leaning towards the deal with the least external friction.
+- [50] **Servas**: Let us wait for the candidates to see which fits these criteria.
+- [51] **Asuka**: Agreed. The data points to a specific type of company.
+- [52] **Minako**: Agreed. We need to protect the fund's liquidity.
+- [53] **Mio**: Agreed. We need to protect our team's time.
+- [54] **Toshio**: Agreed. We need to avoid the delay trap.
+## Round 3
+- [60] **Servas**: @Minako, Ledger Bridge is pure software. No collateral. That is a no for me.
+- [61] **Asuka**: @Toshio, Clinic Scheduler has medical data. That means long security reviews.
+- [62] **Minako**: @Servas, I agree. Ledger Bridge offers nothing we can borrow against.
+- [63] **Mio**: @Asuka, Harvest Sensor needs field crews. We can't hire them fast enough.
+- [64] **Toshio**: @Mio, I agree. Harvest Sensor is a supply chain nightmare.
+- [65] **Servas**: Fabric Loop has physical goods. That is verifiable and collateralizable.
+- [66] **Asuka**: @Servas, but it is a physical operation. That is what we wrote off before.
+- [67] **Minako**: @Asuka, the write-off was hourly crews. Fabric Loop is a channel.
+- [68] **Mio**: @Minako, but they need shift supervisors. We can't find those either.
+- [69] **Toshio**: @Mio, Clinic Scheduler is software. No supply chain delays.
+- [70] **Servas**: @Toshio, but Clinic Scheduler has no collateral. I cannot support it.
+- [71] **Asuka**: @Servas, I am torn. The exit profile favors software, but the risk is high.
+- [72] **Minako**: @Asuka, I am leaning towards Fabric Loop. The stock is real.
+- [73] **Mio**: @Minako, I am leaning towards Clinic Scheduler. The hiring is easier.
+- [74] **Toshio**: @Mio, I am leaning towards Clinic Scheduler. The deployment is faster.
+- [75] **Servas**: I will vote for Fabric Loop. The assets are real.
+- [76] **Asuka**: I will vote for Clinic Scheduler. It matches the exit profile.
+- [77] **Minako**: I will vote for Fabric Loop. It protects our liquidity.
+- [78] **Mio**: I will vote for Clinic Scheduler. It protects our team.
+- [79] **Toshio**: I will vote for Clinic Scheduler. It avoids the delay trap.
+### Vote
+- Servas -> C
+- Asuka -> A
+- Minako -> C
+- Mio -> A
+- Toshio -> A
+## Result
+- adopted: A

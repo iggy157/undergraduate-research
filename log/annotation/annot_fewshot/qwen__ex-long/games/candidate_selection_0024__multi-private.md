@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I wonder if the ground will be kind to us. Let’s see what the earlier works left behind.
+- [6] **May**: I’m curious about the money. Let’s check the upkeep ledger spend per hectare to see what we’re really paying for.
+- [7] **Shizue**: I’d like to see the condition of works from the earlier programme. The drawings are pretty, but I want to know what actually survived the years.
+- [8] **Victoria**: I need to know who actually maintains this place. Let’s examine the groundskeeping roll and bought-in services to see the real staffing reality.
+- [9] **Shunichi**: The ground doesn’t care about our pretty drawings. I want to see the drainage callouts and August heat readings to understand how the site actually behaves under stress.
+- [10] **Minato**: @Shizue, I agree with you. The earlier works are important. I will look into the condition of works from the earlier programme.
+- [11] **May**: @Minato, I appreciate the focus on history. I’ll stick with the upkeep ledger and also check the terms of the regional habitat fund to see where the money actually goes.
+- [12] **Shizue**: @May, that sounds wise. I will examine the condition of works from the earlier programme and the record of the eastern avenue planting to see what truly endures.
+- [13] **Victoria**: @May, I agree. I will examine the groundskeeping roll and bought-in services to understand the true staffing burden.
+- [14] **Shunichi**: @Victoria, staffing is vital, but the ground is the final boss. I’ll stick with drainage callouts and August heat readings. Let’s see if the site can actually handle the plan.
+- [15] **Minato**: @Shunichi, the ground is indeed tricky. I will also look into the regional firms tendering for earth-moving to see who can handle it.
+- [16] **May**: @Minato, earth-moving is just the start. I’m sticking with my two choices. The upkeep ledger and habitat fund terms will reveal the true long-term cost.
+- [17] **Shizue**: @Minato, I appreciate your diligence. I will stick with my two choices. The condition of works and the eastern avenue planting will show us what truly endures.
+- [18] **Victoria**: @Shunichi, the ground matters, but without hands to tend it, the plan fails. I will stick with my two choices to understand the staffing reality.
+- [19] **Shunichi**: @Minato, earth-moving is just moving dirt. I’m sticking with my two choices. The drainage and heat data will tell us if the ground actually cooperates.
+- [20] **Minato**: I’m a little nervous about the diggers. I hope the ground is gentle. I will look into the condition of works and the regional firms tendering for earth-moving.
+- [21] **May**: I’m confident in my picks. The upkeep ledger and habitat fund terms will expose the real long-term costs. Let’s see what the numbers say.
+- [22] **Shizue**: I am content with my choices. The condition of works and the eastern avenue planting will reveal what truly lasts. Let us see what the years have kept.
+- [23] **Victoria**: I am settled on my two choices. The groundskeeping roll and bought-in services will reveal who truly carries this burden. Let us see the reality.
+- [24] **Shunichi**: I’m settled. The drainage and heat data will expose the site’s true limits. Let’s see if the ground actually cooperates with our ambitions.
+## Round 2
+- [35] **Minato**: I found the apron was patched three times. That worries me. The firms say the clay is tricky. We must be careful with the digging.
+- [36] **May**: @Minato, that patching is a symptom. My ledger shows planted ground costs triple hard surfaces, and the gap widens yearly. We are buying a money pit.
+- [37] **Shizue**: @May, your numbers are sobering. My findings show the basin endured, but the apron failed. The trees died from neglect, not nature. We must fund the care, not just the planting.
+- [38] **Victoria**: @May, your triple cost confirms my fear. My roll shows only seven staff remain, with specialist care bought in. We cannot sustain this burden.
+- [39] **Shunichi**: @May, triple costs are a symptom. My data shows drainage callouts doubled and heat spiked. The ground is already failing. We need a plan that respects the site’s actual limits, not just the budget.
+- [40] **Minato**: @Shunichi, I hear you. The clay is tricky, and the drainage is failing. We must choose a plan that does not fight the ground.
+- [41] **May**: @Shunichi, the ground failing is expensive. My ledger proves planted areas cost triple. We need a plan that minimizes that ongoing financial bleed.
+- [42] **Shizue**: @Shunichi, the ground is honest. My findings show the basin endured, but the apron failed. We must choose a plan that respects the site’s actual limits, not just the budget.
+- [43] **Victoria**: @Shunichi, the ground fails, but the hands fail faster. With only seven staff, we cannot manage complex drainage. We need a plan that is simple enough for the few who remain.
+- [44] **Shunichi**: @Victoria, simplicity is good, but the ground is the final boss. If the drainage fails, your seven staff drown in callouts. We need a plan that works with the water, not against it.
+- [45] **Minato**: @Victoria, I agree. With only seven staff, we cannot manage complex drainage. We need a plan that is simple enough for the few who remain.
+- [46] **May**: @Victoria, simplicity saves money. My ledger shows the gap widens yearly. We need a plan that minimizes that ongoing financial bleed for the city.
+- [47] **Shizue**: @Victoria, I hear your worry. My findings show the trees died from neglect, not nature. We must fund the care, not just the planting. Let us choose what endures.
+- [48] **Victoria**: @Shizue, neglect is the enemy. With seven staff, we cannot afford complex planting. We need a plan that survives on minimal, routine care, not constant attention.
+- [49] **Shunichi**: @Shizue, neglect is a choice, not a fate. My data shows the heat and water are already punishing the site. We need a plan that survives the weather, not just the budget.
+- [50] **Minato**: @Shunichi, I agree. The ground is tricky, and the firms are few. We must pick a plan that is gentle on the clay and easy for the small teams to finish.
+- [51] **May**: @Shunichi, the weather is just another bill. My ledger proves the gap widens yearly. We need a plan that minimizes that ongoing financial bleed for the city.
+- [52] **Shizue**: @Shunichi, you are right. The weather is honest. My findings show the basin endured, but the apron failed. We must choose a plan that respects the site’s actual limits, not just the budget.
+- [53] **Victoria**: @Shunichi, the weather is relentless, but our hands are fewer. We must choose a plan that survives both the heat and the staffing gap.
+- [54] **Shunichi**: @Victoria, agreed. The ground is the final boss. We need a plan that respects the water and the heat, not just the budget. Let’s see the candidates.
+## Round 3
+- [60] **Minato**: I am worried about the clay. Option D digs deep into the ground. The firms said the clay is tricky. I think D is too risky for the diggers.
+- [61] **May**: @Minato, digging is just the start. My ledger shows planted ground costs triple hard surfaces. Option B’s paved square minimizes that ongoing financial bleed.
+- [62] **Shizue**: @May, I hear your caution. But my findings show the basin endured while the apron failed. Option D works with the water, not against it. It is the honest choice.
+- [63] **Victoria**: @Shizue, the basin endured, but my roll shows only seven staff remain. Option D’s reed beds demand constant specialist attention we simply do not have.
+- [64] **Shunichi**: @Victoria, reed beds are passive, not active. They filter water, they don’t need mowing. My heat data shows D is the only plan that cools the site. B is a heat trap.
+- [65] **Minato**: @Shunichi, I am glad the reed beds are quiet. But the clay is still tricky. I worry the digging for D might be too hard for the small teams.
+- [66] **May**: @Minato, digging is a one-time cost. My ledger shows the real pain is the yearly upkeep. Option B’s hard surfaces stop the financial bleed that planted areas cause.
+- [67] **Shizue**: @May, I understand your worry. But my findings show the basin endured while the apron failed. Option D works with the water, not against it. It is the honest choice.
+- [68] **Victoria**: @Shunichi, passive is not the same as free. My roll shows specialist water care is bought in. Option D adds a permanent, expensive line item we cannot sustain.
+- [69] **Shunichi**: @Victoria, bought-in care is a choice, not a fate. My data shows D fixes the doubled callouts. B just creates a heat trap. We must respect the ground.
+- [70] **Minato**: @Shunichi, I hear you. But the firms warned of slippage. If the ground shifts, the ponds might leak. I worry the digging is too risky for the small teams.
+- [71] **May**: @Minato, slippage is a one-time headache. My ledger shows the real pain is the yearly upkeep. Option B’s hard surfaces stop the financial bleed that planted areas cause.
+- [72] **Shizue**: @Minato, I understand your caution. But my findings show the basin endured while the apron failed. Option D works with the water, not against it. It is the honest choice.
+- [73] **Victoria**: @Minato, slippage is a risk, but the staffing gap is a certainty. Option D’s water features demand specialist attention my seven staff cannot provide. We must choose what we can actually maintain.
+- [74] **Shunichi**: @Minato, slippage is a risk, but the heat is a certainty. My data shows D cools the site. B is a heat trap. We must respect the ground’s actual limits.
+- [75] **Minato**: @Shunichi, I am still worried about the clay. But I trust the basin endured. I will vote for D, hoping the ground is gentle this time.
+- [76] **May**: @Minato, I respect your caution, but the ledger is clear. Option B’s hard surfaces stop the yearly financial bleed. I vote for B.
+- [77] **Shizue**: @Minato, your caution is wise. But my findings show the basin endured while the apron failed. Option D works with the water, not against it. It is the honest choice. I vote for D.
+- [78] **Victoria**: @Shunichi, I hear your passion, but my data is clear. Seven staff cannot sustain D’s specialist water care. Option B’s hard surfaces are the only reality we can maintain. I vote for B.
+- [79] **Shunichi**: @Victoria, your staffing fear is valid, but D fixes the doubled callouts. B is a heat trap. I vote for D.
+### Vote
+- Minato -> D
+- May -> B
+- Shizue -> D
+- Victoria -> B
+- Shunichi -> D
+## Result
+- adopted: D

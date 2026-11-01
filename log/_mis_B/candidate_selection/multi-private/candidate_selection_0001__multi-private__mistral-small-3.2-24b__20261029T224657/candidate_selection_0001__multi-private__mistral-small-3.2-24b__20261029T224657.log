@@ -1,0 +1,349 @@
+0,1,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+1,1,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+2,1,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+3,1,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+4,1,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+5,1,1,talk,Servas,,I'm interested in staffing rolls for technical posts and minutes on secondments and crew strength.,"{""words"":15,""mentions"":[],""raw_differs"":false}"
+6,1,1,talk,Midori,,"I'd like to look into travel and bench-fee lines in the ledgers, and national computing agreement and facility day rates.","{""words"":20,""mentions"":[],""raw_differs"":false}"
+7,1,1,talk,Kenji,,I'll choose incident logs on shared instrumentation and station records from partner field sites.,"{""words"":14,""mentions"":[],""raw_differs"":false}"
+8,1,1,talk,Benjamin,,I'll go with portfolio review of schedule overruns and accreditation and bookings at shared facilities.,"{""words"":15,""mentions"":[],""raw_differs"":false}"
+9,1,1,talk,Toshio,,I'll look into closeout files of finished awards and national repository deposit turnaround.,"{""words"":13,""mentions"":[],""raw_differs"":false}"
+10,1,2,pass,Servas,,Skip,"{""forced"":false,""empty"":false}"
+11,1,2,talk,Midori,,I'm curious about the travel and bench-fee lines in the ledgers. I want to understand how the funding is allocated and if there are any changes in the recent cycles.,"{""words"":30,""mentions"":[],""raw_differs"":false}"
+12,1,2,talk,Kenji,,I'm also interested in the incident logs on shared instrumentation. It's important to know how often these instruments are used and if there are any recurring issues.,"{""words"":27,""mentions"":[],""raw_differs"":false}"
+13,1,2,talk,Benjamin,,I'm particularly interested in the portfolio review of schedule overruns. Understanding where and why projects run into delays could help us make more informed decisions.,"{""words"":25,""mentions"":[],""raw_differs"":false}"
+14,1,2,talk,Toshio,,I'm looking into closeout files of finished awards to see what they actually delivered and when. It's crucial to understand the real outcomes of past projects.,"{""words"":26,""mentions"":[],""raw_differs"":false}"
+15,1,3,talk,Servas,,I'm also keen on understanding the current crew strength and secondments. It's vital to know who is available and committed to the projects.,"{""words"":23,""mentions"":[],""raw_differs"":false}"
+16,1,3,talk,Midori,,The national computing agreement and facility day rates are also important. I want to see if there have been any changes that might affect the budgeting for the award.,"{""words"":29,""mentions"":[],""raw_differs"":false}"
+17,1,3,talk,Kenji,,I'm also curious about the station records from partner field sites. It would be helpful to know the usage and any issues that have arisen there.,"{""words"":26,""mentions"":[],""raw_differs"":false}"
+18,1,3,talk,Benjamin,,I'm also interested in the accreditation and bookings at shared facilities. It's important to understand how these resources are being utilized and if there are any bottlenecks.,"{""words"":27,""mentions"":[],""raw_differs"":false}"
+19,1,3,talk,Toshio,,I'm also interested in the national repository deposit turnaround. Understanding how quickly and efficiently data is deposited can impact the overall progress and visibility of the research.,"{""words"":27,""mentions"":[],""raw_differs"":false}"
+20,1,4,pass,Servas,,Over,"{""forced"":false,""empty"":false}"
+21,1,4,talk,Midori,,"I think it's important to understand both the travel and bench-fee lines in the ledgers, as well as the national computing agreement and facility day rates, to get a comprehensive view of the funding allocation and potential changes.","{""words"":38,""mentions"":[],""raw_differs"":false}"
+22,1,4,talk,Kenji,,"I agree, understanding both the incident logs on shared instrumentation and the station records from partner field sites will give us a better picture of the resources and potential issues we might face.","{""words"":33,""mentions"":[],""raw_differs"":false}"
+23,1,4,talk,Benjamin,,"I concur, examining both the portfolio review of schedule overruns and the accreditation and bookings at shared facilities will provide valuable insights into project management and resource utilization.","{""words"":28,""mentions"":[],""raw_differs"":false}"
+24,1,4,talk,Toshio,,I believe it's crucial to look into the closeout files of finished awards and the national repository deposit turnaround to assess the real outcomes and efficiency of past projects.,"{""words"":29,""mentions"":[],""raw_differs"":false}"
+25,1,,action,Servas,,Staffing rolls for technical posts; Minutes on secondments and crew strength,"{""action"":""investigate"",""cards"":[""card_09"",""card_10""],""parse"":""ok""}"
+26,1,,action,Midori,,Travel and bench-fee lines in the ledgers; National computing agreement and facility day rates,"{""action"":""investigate"",""cards"":[""card_01"",""card_02""],""parse"":""ok""}"
+27,1,,action,Kenji,,Incident logs on shared instrumentation; Station records from partner field sites,"{""action"":""investigate"",""cards"":[""card_03"",""card_04""],""parse"":""ok""}"
+28,1,,action,Benjamin,,Portfolio review of schedule overruns; Accreditation and bookings at shared facilities,"{""action"":""investigate"",""cards"":[""card_06"",""card_07""],""parse"":""ok""}"
+29,1,,action,Toshio,,Closeout files of finished awards; National repository deposit turnaround,"{""action"":""investigate"",""cards"":[""card_05"",""card_08""],""parse"":""ok""}"
+30,2,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+31,2,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+32,2,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+33,2,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+34,2,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+35,2,1,talk,Servas,,"I see a significant shift in technical staffing, with phenotyping technicians moving to industry and an influx of applicants for modelling and code posts. Additionally, senior modelling analysts are seconded abroad until next autumn, while the glasshouse crew remains intact.","{""words"":40,""mentions"":[],""raw_differs"":false}"
+36,2,1,talk,Midori,,"I noticed that travel and bench-fee lines in the ledgers have been frozen for three seasons, but shipping charges have increased. The ministry has extended its bench-fee subsidy for glasshouse space, which is a positive development. Additionally, the renewed national computing agreement covers simulation and modelling hours at no charge, but animal-unit day rates have risen sharply due to last year's vivarium rebuild.","{""words"":63,""mentions"":[],""raw_differs"":false}"
+37,2,1,talk,Kenji,,"I found that the shared spectroscopy suite was idle for eleven weeks last year due to a lapsed service contract, and now one engineer covers three institutes. Additionally, three of the five partner field sites lost a whole season to flooding or fire, while indoor holding rooms remained uninterrupted.","{""words"":49,""mentions"":[],""raw_differs"":false}"
+38,2,1,talk,Benjamin,,"I see that awards built on live breeding colonies overran schedule twice as often as those whose main risk sat in computation rather than biology. Additionally, the animal facility cleared its accreditation renewal in spring and gained resident veterinary cover, while glasshouse blocks are booked solid through two more growing cycles.","{""words"":51,""mentions"":[],""raw_differs"":false}"
+39,2,1,talk,Toshio,,"I see that catalogue-style awards continue to draw outside users a decade on, while several mechanism-focused ones ended with their central question unresolved. Additionally, the national repository deposit turnaround has improved significantly, with deposits now clearing review inside a few weeks.","{""words"":41,""mentions"":[],""raw_differs"":false}"
+40,2,2,talk,Servas,,"@Midori, the bench-fee subsidy for glasshouse space is good news. I'm glad to hear that the glasshouse crew is at full strength, which aligns with the subsidy. @Kenji, the shared spectroscopy suite's downtime is concerning. It's important to ensure that such critical instruments are well-maintained and have proper service contracts in place.","{""words"":52,""mentions"":[""Midori"",""Kenji""],""raw_differs"":false}"
+41,2,2,talk,Midori,,"@Servas, I agree that the bench-fee subsidy for glasshouse space is a positive development. It's good to know that the glasshouse crew is at full strength. @Kenji, the downtime of the shared spectroscopy suite is indeed concerning. It's crucial to address this issue to prevent any further delays in research.","{""words"":50,""mentions"":[""Servas"",""Kenji""],""raw_differs"":false}"
+42,2,2,talk,Kenji,,"@Servas, the downtime of the shared spectroscopy suite is indeed a critical issue. It's essential to have a backup plan or additional engineers to cover such instruments. @Midori, the increased animal-unit day rates might impact the budgeting for awards involving animal work. It's something we should consider during our deliberations.","{""words"":50,""mentions"":[""Servas"",""Midori""],""raw_differs"":false}"
+43,2,2,talk,Benjamin,,"@Kenji, the flooding or fire at partner field sites is a significant concern. It's important to have contingency plans in place for such natural disasters. Additionally, the improved national repository deposit turnaround is a positive development. It's crucial for the visibility and progress of the research.","{""words"":46,""mentions"":[""Kenji""],""raw_differs"":false}"
+44,2,2,talk,Toshio,,"@Benjamin, the improved national repository deposit turnaround is indeed a positive development. It will help ensure that research data is available more quickly, which can benefit the broader scientific community. Additionally, the continued use of catalogue-style awards is a testament to their long-term value.","{""words"":44,""mentions"":[""Benjamin""],""raw_differs"":false}"
+45,2,3,talk,Servas,,"@Midori, the increased shipping charges might affect the budgeting for awards involving the transport of materials or samples. It's something we should keep in mind. @Kenji, the downtime of the shared spectroscopy suite and the loss of seasons at partner field sites highlight the importance of having robust contingency plans and backup resources.","{""words"":53,""mentions"":[""Midori"",""Kenji""],""raw_differs"":false}"
+46,2,3,talk,Midori,,"@Servas, you're right about the increased shipping charges. We should consider this when evaluating proposals that involve transportation. @Kenji, the downtime and loss of seasons are indeed critical. It's important to factor in these risks when assessing the feasibility of projects.
+
+@Benjamin, the overruns in awards with live breeding colonies are concerning. We should consider the potential risks and delays associated with such work. The improved accreditation and veterinary cover for the animal facility are positive developments, but the increased day rates might impact budgets.
+
+@Toshio, the success of catalogue-style awards is encouraging. It shows that well-designed, mechanism-focused awards can have long-term value. The improved deposit turnaround is also a positive development for data visibility and progress.","{""words"":117,""mentions"":[""Servas"",""Kenji"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+47,2,3,talk,Kenji,,"@Servas, the downtime of the shared spectroscopy suite is a significant issue. It's crucial to ensure that such critical instruments are well-maintained and have proper service contracts in place. The loss of seasons at partner field sites also highlights the need for robust contingency plans.
+
+@Midori, the increased animal-unit day rates might impact the budgeting for awards involving animal work. It's something we should consider during our deliberations. The bench-fee subsidy for glasshouse space is a positive development, but the increased shipping charges might affect the budgeting for awards involving the transport of materials or samples.
+
+@Benjamin, the overruns in awards with live breeding colonies are concerning. We should consider the potential risks and delays associated with such work. The improved accreditation and veterinary cover for the animal facility are positive developments, but the increased day rates might impact budgets.
+
+@Toshio, the success of catalogue-style awards is encouraging. It shows that well-designed, mechanism-focused awards can have long-term value. The improved deposit turnaround is also a positive development for data visibility and progress.","{""words"":172,""mentions"":[""Servas"",""Midori"",""Benjamin"",""Toshio""],""raw_differs"":false}"
+48,2,3,talk,Benjamin,,"@Servas, the shift in technical staffing is notable. The move of phenotyping technicians to industry and the influx of applicants for modelling and code posts suggest a changing landscape in the field. The secondment of senior modelling analysts abroad until next autumn could also impact the availability of expertise.
+
+@Midori, the increased animal-unit day rates due to the vivarium rebuild are significant. It's important to consider these costs when evaluating proposals involving animal work. The renewed national computing agreement covering simulation and modelling hours at no charge is a positive development that could benefit many awards.
+
+@Kenji, the downtime of the shared spectroscopy suite and the loss of seasons at partner field sites are critical issues. These factors highlight the importance of robust contingency plans and backup resources. The uninterrupted indoor holding rooms are a positive note, but we should still be mindful of potential disruptions.
+
+@Toshio, the success of catalogue-style awards is indeed encouraging. Their continued use and the improved national repository deposit turnaround are positive developments that can benefit the broader scientific community. The unresolved central questions in some mechanism-focused awards are a concern, but they also present an opportunity for us to consider how we can better support such research.","{""words"":203,""mentions"":[""Servas"",""Midori"",""Kenji"",""Toshio""],""raw_differs"":false}"
+49,2,3,talk,Toshio,,"@Servas, the shift in technical staffing is indeed notable. The influx of applicants for modelling and code posts aligns with the increased focus on computational biology. The secondment of senior modelling analysts abroad could provide valuable international collaboration opportunities.
+
+@Midori, the increased animal-unit day rates are significant. We should consider these costs when evaluating proposals involving animal work. The renewed national computing agreement is a positive development that could benefit many awards.
+
+@Kenji, the downtime of the shared spectroscopy suite and the loss of seasons at partner field sites are critical issues. These factors highlight the importance of robust contingency plans and backup resources. The uninterrupted indoor holding rooms are a positive note, but we should still be mindful of potential disruptions.
+
+@Benjamin, the overruns in awards with live breeding colonies are concerning. We should consider the potential risks and delays associated with such work. The improved accreditation and veterinary cover for the animal facility are positive developments, but the increased day rates might impact budgets.
+
+The success of catalogue-style awards is encouraging. Their continued use and the improved national repository deposit turnaround are positive developments that can benefit the broader scientific community. The unresolved central questions in some mechanism-focused awards are a concern, but they also present an opportunity for us to consider how we can better support such research.","{""words"":221,""mentions"":[""Servas"",""Midori"",""Kenji"",""Benjamin""],""raw_differs"":false}"
+50,2,4,pass,Servas,,Over,"{""forced"":false,""empty"":false}"
+51,2,4,talk,Midori,,"I think we've gathered a lot of valuable information. It's clear that there are several factors we need to consider when evaluating the proposals. The changes in staffing, the downtime of critical instruments, the loss of seasons at partner field sites, the increased costs for animal work, and the success of catalogue-style awards are all important points to keep in mind.
+
+I'm particularly concerned about the shrinking buying power of the award. The increased shipping charges, animal-unit day rates, and the freeze on travel and bench-fee lines are all signs that the award's value is not keeping up with the rising costs. We need to consider this when evaluating the proposals and perhaps advocate for an adjustment to the award's size to reflect the current economic realities.
+
+I also think it's important to consider the contingency plans and backup resources for critical instruments and field sites. The downtime of the shared spectroscopy suite and the loss of seasons at partner field sites highlight the need for robust plans to mitigate such risks.
+
+Lastly, the success of catalogue-style awards is encouraging. We should consider supporting more of these well-designed, mechanism-focused awards, as they have shown long-term value. The improved national repository deposit turnaround is also a positive development that can benefit the broader scientific community.
+
+I look forward to discussing the candidates and making an informed decision based on the information we've gathered.","{""words"":232,""mentions"":[],""raw_differs"":false}"
+52,2,4,talk,Kenji,,"I agree with Midori that we've gathered a lot of valuable information. The downtime of the shared spectroscopy suite and the loss of seasons at partner field sites are particularly concerning. These issues highlight the importance of having robust contingency plans and backup resources.
+
+I'm also worried about the shrinking buying power of the award. The increased costs for animal work and the freeze on travel and bench-fee lines are significant. We need to consider these factors when evaluating the proposals and perhaps advocate for an adjustment to the award's size.
+
+Additionally, the success of catalogue-style awards is encouraging. We should consider supporting more of these awards, as they have shown long-term value. The improved national repository deposit turnaround is also a positive development that can benefit the broader scientific community.
+
+I'm looking forward to discussing the candidates and making an informed decision based on the information we've gathered.","{""words"":149,""mentions"":[""Midori""],""raw_differs"":false}"
+53,2,4,talk,Benjamin,,"I concur with Midori and Kenji that we've gathered a wealth of valuable information. The overruns in awards with live breeding colonies and the increased costs for animal work are particularly noteworthy. These factors highlight the need for careful consideration of the potential risks and delays associated with such work.
+
+I'm also concerned about the shrinking buying power of the award. The increased shipping charges, animal-unit day rates, and the freeze on travel and bench-fee lines are all signs that the award's value is not keeping up with the rising costs. We need to consider this when evaluating the proposals and perhaps advocate for an adjustment to the award's size to reflect the current economic realities.
+
+The success of catalogue-style awards is indeed encouraging. We should consider supporting more of these well-designed, mechanism-focused awards, as they have shown long-term value. The improved national repository deposit turnaround is also a positive development that can benefit the broader scientific community.
+
+I'm looking forward to discussing the candidates and making an informed decision based on the information we've gathered. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.","{""words"":194,""mentions"":[""Midori"",""Kenji""],""raw_differs"":false}"
+54,2,4,talk,Toshio,,"I agree with the concerns raised about the shrinking buying power of the award and the need for robust contingency plans. The information we've gathered highlights several critical issues that we need to consider when evaluating the proposals.
+
+The success of catalogue-style awards is particularly noteworthy. These awards have shown long-term value and continue to draw outside users even a decade on. This suggests that well-designed, mechanism-focused awards can have a significant impact on the scientific community.
+
+Additionally, the improved national repository deposit turnaround is a positive development. Faster data deposition and review can enhance the visibility and progress of research, benefiting the broader scientific community.
+
+I'm looking forward to discussing the candidates and making an informed decision based on the information we've gathered. It's essential that we consider all these factors to ensure that the award is used effectively and efficiently.","{""words"":142,""mentions"":[],""raw_differs"":false}"
+55,3,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+56,3,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+57,3,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+58,3,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+59,3,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+60,3,1,talk,Servas,,"I'm concerned about the availability of trained hands for the projects. The Microbiome Atlas project might face challenges due to the loss of phenotyping technicians to industry. The Plant Drought Signaling research could be impacted by the secondment of senior modelling analysts abroad. The Protein Folding Dynamics study aligns well with the influx of applicants for modelling and code posts. The Regeneration in Amphibians investigation might face issues due to the increased animal-unit day rates and the need for live breeding colonies.
+
+I'm also worried about the shrinking buying power of the award. The increased costs for animal work and the freeze on travel and bench-fee lines are significant. We need to consider these factors when evaluating the proposals.
+
+Lastly, the success of catalogue-style awards is encouraging. The Microbiome Atlas project fits this category and has shown long-term value. The improved national repository deposit turnaround is also a positive development that can benefit the broader scientific community.
+
+I look forward to discussing the candidates and making an informed decision based on the information we've gathered.","{""words"":175,""mentions"":[],""raw_differs"":false}"
+61,3,1,talk,Midori,,"I share Servas's concerns about the availability of trained hands and the shrinking buying power of the award. The increased animal-unit day rates and the freeze on travel and bench-fee lines are significant factors we need to consider.
+
+The Microbiome Atlas project seems promising as it fits the catalogue-style award category, which has shown long-term value. However, we need to ensure that the project has a robust contingency plan for the downtime of critical instruments like the shared spectroscopy suite.
+
+The Plant Drought Signaling research might face challenges due to the secondment of senior modelling analysts abroad and the increased animal-unit day rates. We should consider these factors when evaluating this proposal.
+
+The Protein Folding Dynamics study aligns well with the current influx of applicants for modelling and code posts. This could be a positive aspect, but we should also consider the potential risks and delays associated with such work.
+
+The Regeneration in Amphibians investigation might face issues due to the increased animal-unit day rates and the need for live breeding colonies, which have a history of schedule overruns. We should carefully evaluate the feasibility of this project.
+
+I'm looking forward to discussing the candidates further and making an informed decision based on the information we've gathered. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.","{""words"":225,""mentions"":[""Servas""],""raw_differs"":false}"
+62,3,1,talk,Kenji,,"I agree with Servas and Midori about the concerns regarding the availability of trained hands and the shrinking buying power of the award. The increased animal-unit day rates and the freeze on travel and bench-fee lines are indeed significant factors.
+
+The Microbiome Atlas project seems like a strong candidate as it fits the catalogue-style award category, which has shown long-term value. However, we need to ensure that the project has a robust contingency plan for the downtime of critical instruments and the loss of seasons at partner field sites.
+
+The Plant Drought Signaling research might face challenges due to the secondment of senior modelling analysts abroad and the increased animal-unit day rates. We should consider these factors when evaluating this proposal.
+
+The Protein Folding Dynamics study aligns well with the current influx of applicants for modelling and code posts. This could be a positive aspect, but we should also consider the potential risks and delays associated with such work, especially given the downtime of the shared spectroscopy suite.
+
+The Regeneration in Amphibians investigation might face issues due to the increased animal-unit day rates and the need for live breeding colonies, which have a history of schedule overruns. We should carefully evaluate the feasibility of this project, considering the potential disruptions at partner field sites.
+
+I'm looking forward to discussing the candidates further and making an informed decision based on the information we've gathered. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.","{""words"":251,""mentions"":[""Servas"",""Midori""],""raw_differs"":false}"
+63,3,1,talk,Benjamin,,"I share the concerns raised about the availability of trained hands and the shrinking buying power of the award. The increased animal-unit day rates and the freeze on travel and bench-fee lines are indeed significant factors we need to consider.
+
+The Microbiome Atlas project seems promising as it fits the catalogue-style award category, which has shown long-term value. However, we need to ensure that the project has a robust contingency plan for the downtime of critical instruments and the loss of seasons at partner field sites.
+
+The Plant Drought Signaling research might face challenges due to the secondment of senior modelling analysts abroad and the increased animal-unit day rates. We should consider these factors when evaluating this proposal, especially given the potential disruptions at partner field sites.
+
+The Protein Folding Dynamics study aligns well with the current influx of applicants for modelling and code posts. This could be a positive aspect, but we should also consider the potential risks and delays associated with such work, particularly the downtime of the shared spectroscopy suite.
+
+The Regeneration in Amphibians investigation might face issues due to the increased animal-unit day rates and the need for live breeding colonies, which have a history of schedule overruns. We should carefully evaluate the feasibility of this project, considering the potential disruptions at partner field sites and the need for robust contingency plans.
+
+I'm looking forward to discussing the candidates further and making an informed decision based on the information we've gathered. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.","{""words"":263,""mentions"":[],""raw_differs"":false}"
+64,3,1,talk,Toshio,,"I agree with the concerns raised about the availability of trained hands and the shrinking buying power of the award. The increased animal-unit day rates and the freeze on travel and bench-fee lines are indeed significant factors we need to consider.
+
+The Microbiome Atlas project seems promising as it fits the catalogue-style award category, which has shown long-term value. However, we need to ensure that the project has a robust contingency plan for the downtime of critical instruments and the loss of seasons at partner field sites.
+
+The Plant Drought Signaling research might face challenges due to the secondment of senior modelling analysts abroad and the increased animal-unit day rates. We should consider these factors when evaluating this proposal, especially given the potential disruptions at partner field sites.
+
+The Protein Folding Dynamics study aligns well with the current influx of applicants for modelling and code posts. This could be a positive aspect, but we should also consider the potential risks and delays associated with such work, particularly the downtime of the shared spectroscopy suite.
+
+The Regeneration in Amphibians investigation might face issues due to the increased animal-unit day rates and the need for live breeding colonies, which have a history of schedule overruns. We should carefully evaluate the feasibility of this project, considering the potential disruptions at partner field sites and the need for robust contingency plans.
+
+I'm looking forward to discussing the candidates further and making an informed decision based on the information we've gathered. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.
+
+I think the Microbiome Atlas project is the most promising candidate. It fits the catalogue-style award category, which has shown long-term value, and it has the potential to benefit the broader scientific community. The improved national repository deposit turnaround is also a positive development that can support this project.","{""words"":313,""mentions"":[],""raw_differs"":false}"
+65,3,2,talk,Servas,,"I agree with Toshio that the Microbiome Atlas project shows great promise. Its catalogue-style approach aligns well with the success we've seen in similar awards. Additionally, the project's focus on publishing standardized site metadata could significantly benefit the broader scientific community.
+
+Given the concerns about the availability of trained hands and the shrinking buying power of the award, I believe the Microbiome Atlas project is a strong candidate. It leverages the current influx of applicants for modelling and code posts, and it has the potential to mitigate some of the risks associated with the downtime of critical instruments and the loss of seasons at partner field sites.
+
+I'm inclined to vote for the Microbiome Atlas project, considering its long-term value and the positive developments in national repository deposit turnaround. However, I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision.","{""words"":147,""mentions"":[""Toshio""],""raw_differs"":false}"
+66,3,2,talk,Midori,,"I appreciate the points raised about the Microbiome Atlas project. It indeed has many promising aspects. However, I'm also concerned about the potential challenges it might face, such as the downtime of critical instruments and the loss of seasons at partner field sites. We need to ensure that the project has a robust contingency plan to address these issues.
+
+I'm also considering the Plant Drought Signaling research. While it might face challenges due to the secondment of senior modelling analysts abroad and the increased animal-unit day rates, it's a crucial area of study given the growing concerns about climate change and food security. The project's focus on controlled greenhouse trials across several cultivars and soil conditions could provide valuable insights.
+
+I'm not yet sure which project to vote for. I need to weigh the potential benefits and challenges of each candidate. I'm looking forward to hearing more from everyone before making a final decision.","{""words"":154,""mentions"":[],""raw_differs"":false}"
+67,3,2,talk,Kenji,,"I understand the points made about the Microbiome Atlas project, and it does seem promising. However, I'm particularly concerned about the potential disruptions at partner field sites and the downtime of critical instruments like the shared spectroscopy suite. These factors could significantly impact the project's timeline and outcomes.
+
+Given these concerns, I'm inclined to support the Protein Folding Dynamics study. This project aligns well with the current influx of applicants for modelling and code posts, which could ensure a steady supply of trained hands. Additionally, the study's focus on combining laboratory spectroscopy with simulation could help mitigate some of the risks associated with instrument downtime.
+
+While the Protein Folding Dynamics study might face challenges, I believe its potential benefits and the availability of relevant expertise make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision.","{""words"":147,""mentions"":[],""raw_differs"":false}"
+68,3,2,talk,Benjamin,,"I appreciate the thoughtful discussion so far. I share the concerns about the potential challenges each project might face, and I understand the appeal of the Microbiome Atlas project. However, I'm particularly drawn to the Protein Folding Dynamics study for a few reasons.
+
+Firstly, it aligns well with the current influx of applicants for modelling and code posts, which could ensure a steady supply of trained hands. This is crucial given the concerns about the availability of technical staff.
+
+Secondly, the study's focus on combining laboratory spectroscopy with simulation could help mitigate some of the risks associated with instrument downtime. The renewed national computing agreement covering simulation and modelling hours at no charge is a positive development that could benefit this project.
+
+Lastly, the Protein Folding Dynamics study has the potential to provide valuable insights into the structure and function of membrane proteins, which could have significant implications for drug design and other areas of biomedical research.
+
+While I understand the appeal of the Microbiome Atlas project, I'm inclined to vote for the Protein Folding Dynamics study due to its potential benefits and the availability of relevant expertise. However, I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision.","{""words"":206,""mentions"":[],""raw_differs"":false}"
+69,3,2,talk,Toshio,,"I appreciate the thoughtful discussion and the diverse perspectives shared so far. I understand the appeal of both the Microbiome Atlas project and the Protein Folding Dynamics study. However, I'm particularly drawn to the Regeneration in Amphibians investigation for several reasons.
+
+Firstly, the project's focus on limb regrowth in salamander species is a fascinating and important area of research. Understanding the mechanisms of regeneration could have significant implications for regenerative medicine and other fields.
+
+Secondly, while the project might face challenges due to the increased animal-unit day rates and the need for live breeding colonies, it's important to note that the animal facility has cleared its accreditation renewal and gained resident veterinary cover. This could help mitigate some of the risks associated with animal work.
+
+Lastly, the project's focus on tracking cell populations and signaling activity through the successive stages of tissue restoration could provide valuable insights into the complex processes involved in regeneration. This knowledge could be applied to other areas of biological research and have a significant impact on the scientific community.
+
+While I understand the concerns about the potential challenges the Regeneration in Amphibians investigation might face, I believe its potential benefits and the availability of relevant expertise make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision.","{""words"":223,""mentions"":[],""raw_differs"":false}"
+70,3,3,talk,Servas,,"I appreciate the thoughtful discussion and the diverse perspectives shared so far. I understand the appeal of the Regeneration in Amphibians investigation, and it is indeed a fascinating area of research. However, I'm still inclined to support the Microbiome Atlas project for a few reasons.
+
+Firstly, the project's catalogue-style approach aligns well with the success we've seen in similar awards. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Secondly, the Microbiome Atlas project has the potential to benefit the broader scientific community significantly. The focus on publishing standardized site metadata could provide a valuable resource for researchers in various fields.
+
+Lastly, while the project might face challenges due to the downtime of critical instruments and the loss of seasons at partner field sites, the improved national repository deposit turnaround is a positive development that could support this project. Additionally, the current influx of applicants for modelling and code posts could help mitigate some of the risks associated with the availability of trained hands.
+
+I believe the Microbiome Atlas project's potential benefits and alignment with successful award categories make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Microbiome Atlas project.","{""words"":219,""mentions"":[],""raw_differs"":false}"
+71,3,3,talk,Midori,,"I appreciate the thoughtful discussion and the diverse perspectives shared so far. I understand the appeal of both the Microbiome Atlas project and the Protein Folding Dynamics study. However, I'm particularly drawn to the Plant Drought Signaling research for several reasons.
+
+Firstly, the project's focus on understanding the molecular signals that crops use to detect water shortage is crucial, especially given the growing concerns about climate change and food security. The insights gained from this research could have significant implications for agriculture and food production.
+
+Secondly, while the project might face challenges due to the secondment of senior modelling analysts abroad and the increased animal-unit day rates, the controlled greenhouse trials across several cultivars and soil conditions could provide valuable and reproducible data. Additionally, the glasshouse crew is at full strength, which is a positive note.
+
+Lastly, the project's focus on greenhouse trials aligns well with the bench-fee subsidy for glasshouse space, which could help mitigate some of the costs associated with this work. The improved accreditation and veterinary cover for the animal facility are also positive developments that could support this project.
+
+While I understand the concerns about the potential challenges the Plant Drought Signaling research might face, I believe its potential benefits and the availability of relevant expertise make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Plant Drought Signaling research.","{""words"":244,""mentions"":[],""raw_differs"":false}"
+72,3,3,talk,Kenji,,"I appreciate the thoughtful discussion and the diverse perspectives shared so far. I understand the appeal of the Plant Drought Signaling research, and it is indeed a crucial area of study. However, I'm still inclined to support the Protein Folding Dynamics study for a few reasons.
+
+Firstly, the project's focus on combining laboratory spectroscopy with simulation aligns well with the current influx of applicants for modelling and code posts. This could ensure a steady supply of trained hands, which is crucial given the concerns about the availability of technical staff.
+
+Secondly, the study's potential to provide valuable insights into the structure and function of membrane proteins could have significant implications for drug design and other areas of biomedical research. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Lastly, while the project might face challenges due to the downtime of the shared spectroscopy suite, the renewed national computing agreement covering simulation and modelling hours at no charge is a positive development that could support this project. Additionally, the focus on simulation could help mitigate some of the risks associated with instrument downtime.
+
+I believe the Protein Folding Dynamics study's potential benefits and alignment with current expertise and resources make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Protein Folding Dynamics study.","{""words"":240,""mentions"":[],""raw_differs"":false}"
+73,3,3,talk,Benjamin,,"I appreciate the thoughtful discussion and the diverse perspectives shared so far. I understand the appeal of the Protein Folding Dynamics study, and it is indeed a promising area of research. However, I'm still inclined to support the Protein Folding Dynamics study for a few reasons.
+
+Firstly, the project's focus on combining laboratory spectroscopy with simulation aligns well with the current influx of applicants for modelling and code posts. This could ensure a steady supply of trained hands, which is crucial given the concerns about the availability of technical staff.
+
+Secondly, the study's potential to provide valuable insights into the structure and function of membrane proteins could have significant implications for drug design and other areas of biomedical research. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Lastly, while the project might face challenges due to the downtime of the shared spectroscopy suite, the renewed national computing agreement covering simulation and modelling hours at no charge is a positive development that could support this project. Additionally, the focus on simulation could help mitigate some of the risks associated with instrument downtime.
+
+I believe the Protein Folding Dynamics study's potential benefits and alignment with current expertise and resources make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Protein Folding Dynamics study.
+
+Given the diverse perspectives and the strong cases made for each project, I think it's essential to consider the unique strengths and potential challenges of each candidate. The Microbiome Atlas project offers long-term value and broad community benefits, the Plant Drought Signaling research addresses critical agricultural concerns, the Protein Folding Dynamics study aligns well with current expertise and resources, and the Regeneration in Amphibians investigation explores fascinating and important biological processes.
+
+In light of this, I'm particularly drawn to the Protein Folding Dynamics study due to its potential to provide valuable insights into membrane protein structure and function, its alignment with current expertise, and the positive developments in national computing agreements. However, I'm open to changing my mind based on further discussion and the perspectives of my colleagues.
+
+I look forward to hearing more from everyone before we make our final decision. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.","{""words"":400,""mentions"":[],""raw_differs"":false}"
+74,3,3,talk,Toshio,,"I appreciate the thoughtful discussion and the diverse perspectives shared so far. I understand the appeal of the Protein Folding Dynamics study, and it is indeed a promising area of research. However, I'm still inclined to support the Regeneration in Amphibians investigation for a few reasons.
+
+Firstly, the project's focus on limb regrowth in salamander species is a fascinating and important area of research. Understanding the mechanisms of regeneration could have significant implications for regenerative medicine and other fields. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Secondly, while the project might face challenges due to the increased animal-unit day rates and the need for live breeding colonies, it's important to note that the animal facility has cleared its accreditation renewal and gained resident veterinary cover. This could help mitigate some of the risks associated with animal work.
+
+Lastly, the project's focus on tracking cell populations and signaling activity through the successive stages of tissue restoration could provide valuable insights into the complex processes involved in regeneration. This knowledge could be applied to other areas of biological research and have a significant impact on the scientific community.
+
+While I understand the concerns about the potential challenges the Regeneration in Amphibians investigation might face, I believe its potential benefits and the availability of relevant expertise make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Regeneration in Amphibians investigation.
+
+Given the diverse perspectives and the strong cases made for each project, I think it's essential to consider the unique strengths and potential challenges of each candidate. The Microbiome Atlas project offers long-term value and broad community benefits, the Plant Drought Signaling research addresses critical agricultural concerns, the Protein Folding Dynamics study aligns well with current expertise and resources, and the Regeneration in Amphibians investigation explores fascinating and important biological processes.
+
+In light of this, I'm particularly drawn to the Regeneration in Amphibians investigation due to its potential to provide valuable insights into regeneration mechanisms, its alignment with current expertise, and the positive developments in animal facility accreditation. However, I'm open to changing my mind based on further discussion and the perspectives of my colleagues.
+
+I look forward to hearing more from everyone before we make our final decision. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.","{""words"":414,""mentions"":[],""raw_differs"":false}"
+75,3,4,talk,Servas,,"I appreciate the thoughtful discussion and the diverse perspectives shared so far. I understand the appeal of the Regeneration in Amphibians investigation, and it is indeed a fascinating area of research. However, I'm still inclined to support the Microbiome Atlas project for a few reasons.
+
+Firstly, the project's catalogue-style approach aligns well with the success we've seen in similar awards. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Secondly, the Microbiome Atlas project has the potential to benefit the broader scientific community significantly. The focus on publishing standardized site metadata could provide a valuable resource for researchers in various fields.
+
+Lastly, while the project might face challenges due to the downtime of critical instruments and the loss of seasons at partner field sites, the improved national repository deposit turnaround is a positive development that could support this project. Additionally, the current influx of applicants for modelling and code posts could help mitigate some of the risks associated with the availability of trained hands.
+
+I believe the Microbiome Atlas project's potential benefits and alignment with successful award categories make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Microbiome Atlas project.
+
+Given the diverse perspectives and the strong cases made for each project, I think it's essential to consider the unique strengths and potential challenges of each candidate. The Microbiome Atlas project offers long-term value and broad community benefits, the Plant Drought Signaling research addresses critical agricultural concerns, the Protein Folding Dynamics study aligns well with current expertise and resources, and the Regeneration in Amphibians investigation explores fascinating and important biological processes.
+
+In light of this, I'm particularly drawn to the Microbiome Atlas project due to its potential to provide a valuable resource for the scientific community, its alignment with successful award categories, and the positive developments in national repository deposit turnaround. However, I'm open to changing my mind based on further discussion and the perspectives of my colleagues.
+
+I look forward to hearing more from everyone before we make our final decision. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.
+
+I think we've had a thorough discussion, and it's time to vote. Based on the information we've gathered and the thoughtful perspectives shared, I will be voting for the Microbiome Atlas project. I believe it offers the most long-term value and broad community benefits, and it aligns well with the success we've seen in similar awards. Additionally, the improved national repository deposit turnaround and the current influx of applicants for modelling and code posts could support this project effectively.","{""words"":458,""mentions"":[],""raw_differs"":false}"
+76,3,4,talk,Midori,,"I appreciate the thorough discussion and the diverse perspectives shared. I understand the strong cases made for each project. However, I'm still inclined to support the Plant Drought Signaling research for a few reasons.
+
+Firstly, the project's focus on understanding the molecular signals that crops use to detect water shortage is crucial, especially given the growing concerns about climate change and food security. The insights gained from this research could have significant implications for agriculture and food production.
+
+Secondly, while the project might face challenges due to the secondment of senior modelling analysts abroad and the increased animal-unit day rates, the controlled greenhouse trials across several cultivars and soil conditions could provide valuable and reproducible data. Additionally, the glasshouse crew is at full strength, which is a positive note.
+
+Lastly, the project's focus on greenhouse trials aligns well with the bench-fee subsidy for glasshouse space, which could help mitigate some of the costs associated with this work. The improved accreditation and veterinary cover for the animal facility are also positive developments that could support this project.
+
+While I understand the concerns about the potential challenges the Plant Drought Signaling research might face, I believe its potential benefits and the availability of relevant expertise make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Plant Drought Signaling research.
+
+Given the diverse perspectives and the strong cases made for each project, I think it's essential to consider the unique strengths and potential challenges of each candidate. The Microbiome Atlas project offers long-term value and broad community benefits, the Plant Drought Signaling research addresses critical agricultural concerns, the Protein Folding Dynamics study aligns well with current expertise and resources, and the Regeneration in Amphibians investigation explores fascinating and important biological processes.
+
+In light of this, I'm particularly drawn to the Plant Drought Signaling research due to its potential to provide valuable insights into crop responses to water shortage, its alignment with current expertise and resources, and the positive developments in glasshouse space and animal facility accreditation. However, I'm open to changing my mind based on further discussion and the perspectives of my colleagues.
+
+I look forward to hearing more from everyone before we make our final decision. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.
+
+I think we've had a thorough discussion, and it's time to vote. Based on the information we've gathered and the thoughtful perspectives shared, I will be voting for the Plant Drought Signaling research. I believe it offers significant potential benefits for agriculture and food security, and it aligns well with current expertise and resources. Additionally, the positive developments in glasshouse space and animal facility accreditation could support this project effectively.","{""words"":472,""mentions"":[],""raw_differs"":false}"
+77,3,4,talk,Kenji,,"I appreciate the thorough discussion and the diverse perspectives shared. I understand the strong cases made for each project. However, I'm still inclined to support the Protein Folding Dynamics study for a few reasons.
+
+Firstly, the project's focus on combining laboratory spectroscopy with simulation aligns well with the current influx of applicants for modelling and code posts. This could ensure a steady supply of trained hands, which is crucial given the concerns about the availability of technical staff.
+
+Secondly, the study's potential to provide valuable insights into the structure and function of membrane proteins could have significant implications for drug design and other areas of biomedical research. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Lastly, while the project might face challenges due to the downtime of the shared spectroscopy suite, the renewed national computing agreement covering simulation and modelling hours at no charge is a positive development that could support this project. Additionally, the focus on simulation could help mitigate some of the risks associated with instrument downtime.
+
+I believe the Protein Folding Dynamics study's potential benefits and alignment with current expertise and resources make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Protein Folding Dynamics study.
+
+Given the diverse perspectives and the strong cases made for each project, I think it's essential to consider the unique strengths and potential challenges of each candidate. The Microbiome Atlas project offers long-term value and broad community benefits, the Plant Drought Signaling research addresses critical agricultural concerns, the Protein Folding Dynamics study aligns well with current expertise and resources, and the Regeneration in Amphibians investigation explores fascinating and important biological processes.
+
+In light of this, I'm particularly drawn to the Protein Folding Dynamics study due to its potential to provide valuable insights into membrane protein structure and function, its alignment with current expertise, and the positive developments in national computing agreements. However, I'm open to changing my mind based on further discussion and the perspectives of my colleagues.
+
+I look forward to hearing more from everyone before we make our final decision. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.
+
+I think we've had a thorough discussion, and it's time to vote. Based on the information we've gathered and the thoughtful perspectives shared, I will be voting for the Protein Folding Dynamics study. I believe it offers significant potential benefits for biomedical research, and it aligns well with current expertise and resources. Additionally, the positive developments in national computing agreements could support this project effectively.","{""words"":453,""mentions"":[],""raw_differs"":false}"
+78,3,4,talk,Benjamin,,"I appreciate the thorough discussion and the diverse perspectives shared. I understand the strong cases made for each project. However, I'm still inclined to support the Protein Folding Dynamics study for a few reasons.
+
+Firstly, the project's focus on combining laboratory spectroscopy with simulation aligns well with the current influx of applicants for modelling and code posts. This could ensure a steady supply of trained hands, which is crucial given the concerns about the availability of technical staff.
+
+Secondly, the study's potential to provide valuable insights into the structure and function of membrane proteins could have significant implications for drug design and other areas of biomedical research. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Lastly, while the project might face challenges due to the downtime of the shared spectroscopy suite, the renewed national computing agreement covering simulation and modelling hours at no charge is a positive development that could support this project. Additionally, the focus on simulation could help mitigate some of the risks associated with instrument downtime.
+
+I believe the Protein Folding Dynamics study's potential benefits and alignment with current expertise and resources make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Protein Folding Dynamics study.
+
+Given the diverse perspectives and the strong cases made for each project, I think it's essential to consider the unique strengths and potential challenges of each candidate. The Microbiome Atlas project offers long-term value and broad community benefits, the Plant Drought Signaling research addresses critical agricultural concerns, the Protein Folding Dynamics study aligns well with current expertise and resources, and the Regeneration in Amphibians investigation explores fascinating and important biological processes.
+
+In light of this, I'm particularly drawn to the Protein Folding Dynamics study due to its potential to provide valuable insights into membrane protein structure and function, its alignment with current expertise, and the positive developments in national computing agreements. However, I'm open to changing my mind based on further discussion and the perspectives of my colleagues.
+
+I look forward to hearing more from everyone before we make our final decision. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.
+
+I think we've had a thorough discussion, and it's time to vote. Based on the information we've gathered and the thoughtful perspectives shared, I will be voting for the Protein Folding Dynamics study. I believe it offers significant potential benefits for biomedical research, and it aligns well with current expertise and resources. Additionally, the positive developments in national computing agreements could support this project effectively.","{""words"":453,""mentions"":[],""raw_differs"":false}"
+79,3,4,talk,Toshio,,"I appreciate the thorough discussion and the diverse perspectives shared. I understand the strong cases made for each project. However, I'm still inclined to support the Regeneration in Amphibians investigation for a few reasons.
+
+Firstly, the project's focus on limb regrowth in salamander species is a fascinating and important area of research. Understanding the mechanisms of regeneration could have significant implications for regenerative medicine and other fields. This long-term value is crucial, especially given the concerns about the shrinking buying power of the award.
+
+Secondly, while the project might face challenges due to the increased animal-unit day rates and the need for live breeding colonies, it's important to note that the animal facility has cleared its accreditation renewal and gained resident veterinary cover. This could help mitigate some of the risks associated with animal work.
+
+Lastly, the project's focus on tracking cell populations and signaling activity through the successive stages of tissue restoration could provide valuable insights into the complex processes involved in regeneration. This knowledge could be applied to other areas of biological research and have a significant impact on the scientific community.
+
+While I understand the concerns about the potential challenges the Regeneration in Amphibians investigation might face, I believe its potential benefits and the availability of relevant expertise make it a strong candidate. I'm open to discussing the other candidates further and hearing everyone's perspectives before making a final decision. However, I'm currently leaning towards voting for the Regeneration in Amphibians investigation.
+
+Given the diverse perspectives and the strong cases made for each project, I think it's essential to consider the unique strengths and potential challenges of each candidate. The Microbiome Atlas project offers long-term value and broad community benefits, the Plant Drought Signaling research addresses critical agricultural concerns, the Protein Folding Dynamics study aligns well with current expertise and resources, and the Regeneration in Amphibians investigation explores fascinating and important biological processes.
+
+In light of this, I'm particularly drawn to the Regeneration in Amphibians investigation due to its potential to provide valuable insights into regeneration mechanisms, its alignment with current expertise, and the positive developments in animal facility accreditation. However, I'm open to changing my mind based on further discussion and the perspectives of my colleagues.
+
+I look forward to hearing more from everyone before we make our final decision. It's crucial that we consider all these factors to ensure that the award is used effectively and efficiently.
+
+I think we've had a thorough discussion, and it's time to vote. Based on the information we've gathered and the thoughtful perspectives shared, I will be voting for the Regeneration in Amphibians investigation. I believe it offers significant potential benefits for regenerative medicine and other fields, and it aligns well with current expertise and resources. Additionally, the positive developments in animal facility accreditation could support this project effectively.","{""words"":470,""mentions"":[],""raw_differs"":false}"
+80,3,,vote,Servas,A,,"{""request"":""vote_final"",""raw"":""A"",""valid"":true,""tie"":false}"
+81,3,,vote,Midori,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+82,3,,vote,Kenji,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+83,3,,vote,Benjamin,C,,"{""request"":""vote_final"",""raw"":""C"",""valid"":true,""tie"":false}"
+84,3,,vote,Toshio,D,,"{""request"":""vote_final"",""raw"":""D"",""valid"":true,""tie"":false}"
+85,4,,status,Midori,,ALIVE,"{""seat"":1,""role"":""PARTICIPANT"",""alive"":true}"
+86,4,,status,Benjamin,,ALIVE,"{""seat"":2,""role"":""PARTICIPANT"",""alive"":true}"
+87,4,,status,Toshio,,ALIVE,"{""seat"":3,""role"":""PARTICIPANT"",""alive"":true}"
+88,4,,status,Kenji,,ALIVE,"{""seat"":4,""role"":""PARTICIPANT"",""alive"":true}"
+89,4,,status,Servas,,ALIVE,"{""seat"":5,""role"":""PARTICIPANT"",""alive"":true}"
+90,3,,result,,,C,"{""adopted"":""C"",""tally"":{""A"":1,""C"":3,""D"":1},""tie"":false}"

@@ -1,0 +1,73 @@
+# candidate_selection_0004__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I’m worried the diggers will mess up the schedule again. Has anyone checked if the ground here is actually ready for them?
+- [6] **Benjamin**: Kenji, the ground is rarely ready for anyone. I suspect the real issue is whether the plan respects the existing drainage and foot traffic patterns.
+- [7] **Minato**: I wonder who will water the new plants every single day? It seems like a very big job for just one person.
+- [8] **Minako**: Minato, that’s a valid operational concern. But I’m more interested in the long-term durability of the structures. Has anyone reviewed the condition of works from the earlier programme?
+- [9] **Jonathan**: Minako, that’s a fair point. I’m mostly curious about the upkeep ledger spend per hectare to see what the real long-term cost looks like.
+- [10] **Kenji**: @Benjamin, drainage is key, but I’m still stuck on the timeline. @Minako, did you find anything scary in those old works?
+- [11] **Benjamin**: @Kenji, timelines are often fiction. @Minako, I haven’t seen the data yet, but I suspect the old works are a cautionary tale about ignoring reality.
+- [12] **Minato**: I think the people who care for the park are very important. I want to know who will be there every day.
+- [13] **Minako**: @Minato, the daily care is vital. I’m focusing on the physical decay of past projects. @Kenji, I’ll check the condition of the earlier works.
+- [14] **Jonathan**: @Minato, the daily care is indeed vital. I’m looking into the groundskeeping roll to understand the staffing reality behind those costs.
+- [15] **Kenji**: @Minako, thanks for checking that. I’m going to look at the regional firms tendering for earth-moving and the depot phasing notes to see if the schedule is even possible.
+- [16] **Benjamin**: I’ll examine the drainage callouts and the timed counts of weekday crossings. We must ensure the design doesn’t fight the actual flow of people and water.
+- [17] **Minato**: I will look into the groundskeeping roll and the volunteer groups. I want to see who is actually there to help.
+- [18] **Minako**: I’ll review the condition of works from the earlier programme and the upkeep ledger spend per hectare.
+- [19] **Jonathan**: I’ll check the terms of the regional habitat fund and the record of the eastern avenue planting.
+- [20] **Kenji**: I’m really hoping the depot notes show a realistic finish date. Let’s see if the ground actually cooperates this time!
+- [21] **Benjamin**: Agreed. Let’s hope the data is as cooperative as the ground. I’ll see you all after the review.
+- [22] **Minato**: I hope the volunteers are kind and patient. I will wait to hear what everyone finds out.
+- [23] **Minako**: I’ll review the condition of works from the earlier programme and the upkeep ledger spend per hectare.
+- [24] **Jonathan**: I’ll review the terms of the regional habitat fund and the record of the eastern avenue planting.
+## Round 2
+- [35] **Kenji**: @Benjamin, the ground is tricky! Only two firms bid, and they warn of clay slippage. The depot says we can’t hoard the center, so the schedule is tight.
+- [36] **Benjamin**: @Kenji, clay slippage confirms my fears. The data shows people avoid soft margins, and drainage is failing. We must design for the ground, not against it.
+- [37] **Minato**: @Benjamin, that sounds scary. I found the staff is very small now, but there are kind volunteers who help on weekends.
+- [38] **Minako**: @Kenji, the clay issue is serious. My data shows the civic hall apron has failed repeatedly, while the basin holds. We must prioritize durable hard surfaces over fragile planting.
+- [39] **Jonathan**: @Minako, the eastern avenue trees died from lack of water. The habitat fund won’t cover that. We must plan for ongoing care, not just planting.
+- [40] **Kenji**: @Minako, that apron failure worries me. If the center can’t be hoarded, how do we protect it from the clay? @Benjamin, does the drainage fix help the schedule?
+- [41] **Benjamin**: @Kenji, the drainage fix is non-negotiable. If we ignore the heat and water flow, the plan fails before the first spade hits the ground.
+- [42] **Minato**: @Minako, the volunteers are very helpful, but the staff is so small. I worry they will be too tired to look after everything properly.
+- [43] **Minako**: @Minato, the ledger confirms the strain. Planted ground costs triple to maintain. We must limit soft areas to where care is guaranteed, not assumed.
+- [44] **Jonathan**: @Minako, that triple cost is exactly what I feared. The fund covers planting, not the water to keep it alive. We must budget for that gap.
+- [45] **Kenji**: @Benjamin, if the center stays open, the clay risk is huge. @Minako, does limiting soft areas actually make the finish date realistic for us?
+- [46] **Benjamin**: @Kenji, keeping the center open is a logistical nightmare, but the crossing data demands it. We must route people on firm ground, not force them into mud.
+- [47] **Minato**: @Minako, I am glad the volunteers are there. But with so few staff, will they have time to rest? I worry about their tiredness.
+- [48] **Minako**: @Minato, their dedication is valuable, but we cannot rely on goodwill to offset structural decay. The data shows hard surfaces last longer.
+- [49] **Jonathan**: @Minato, their kindness is precious, but goodwill cannot pay for water. We must ensure the budget covers the daily care, not just the initial planting.
+- [50] **Kenji**: @Benjamin, I hear you. But with only two firms and clay risks, can we actually finish on time? I need a realistic date before we commit.
+- [51] **Benjamin**: @Kenji, the date is secondary to the design. If we ignore the drainage and foot traffic, we’ll be fixing it for decades. Let’s prioritize function over speed.
+- [52] **Minato**: I just want to make sure the people who care for the park are not too tired. I hope the plan is kind to them.
+- [53] **Minako**: @Minato, kindness is essential, but durability is the foundation. We must build structures that last, so the staff isn’t constantly repairing failures.
+- [54] **Jonathan**: @Minako, durability is vital, but only if the city can afford the upkeep. I worry the ribbon-cutting hides the true long-term burden.
+## Round 3
+- [60] **Kenji**: @Benjamin, the clay makes wetlands risky. @Minako, the plaza’s hard surfaces seem safest for the schedule. Can we finish that on time?
+- [61] **Benjamin**: @Kenji, the plaza ignores the drainage crisis. @Minako, the wetland fights the heat. We need a design that respects the water and the walkers, not just the budget.
+- [62] **Minato**: I worry about the staff. The woodland needs so much watering, and the plaza is hard to clean. Who will rest?
+- [63] **Minako**: @Benjamin, the wetland’s water management is exactly what the ledger warns against. @Kenji, the plaza’s hard surfaces align with the durability data I found.
+- [64] **Jonathan**: @Minako, the woodland’s water needs exceed the fund’s scope. The plaza’s hard surfaces minimize the daily upkeep burden I fear.
+- [65] **Kenji**: @Benjamin, I hear you, but the plaza’s hard surfaces match the firms’ shallow work. Can we actually finish that before the clay slips?
+- [66] **Benjamin**: @Kenji, the plaza ignores the heat and the water. We need firm ground for the crossings, but not a concrete oven. Let’s look at the drainage first.
+- [67] **Minato**: @Minako, the plaza sounds easier to clean. But will the volunteers be happy there? I hope the plan is kind to everyone.
+- [68] **Minako**: @Minato, the plaza’s hard surfaces reduce the daily labor burden. Durability protects the staff from endless repairs. I support B.
+- [69] **Jonathan**: @Minako, I agree. The plaza minimizes the hidden upkeep costs that haunt me. I support B, as it respects the long-term financial reality.
+- [70] **Kenji**: @Minako, I agree the plaza is safest for the schedule. @Benjamin, can we add shade to stop it becoming a concrete oven?
+- [71] **Benjamin**: @Kenji, shade is essential, but the plaza still ignores the drainage crisis. I cannot support a plan that fights the water. I prefer A, despite the risks.
+- [72] **Minato**: @Benjamin, I am sorry you are worried. I hope the water is safe. I think the plaza is easier for the tired staff to clean.
+- [73] **Minako**: @Benjamin, the data shows water features decay fastest. The plaza’s hard surfaces are the only durable choice. I support B.
+- [74] **Jonathan**: @Benjamin, I understand your concern, but the wetland’s upkeep is a financial trap. The plaza’s low maintenance aligns with the city’s long-term budget reality. I support B.
+- [75] **Kenji**: @Benjamin, I hear your worry about the water. But with only two firms and clay risks, the plaza is the only plan we can actually finish on time. I support B.
+- [76] **Benjamin**: @Kenji, I respect the schedule, but I cannot ignore the data. The plaza ignores the heat and water flow. I support A, as it respects the ground’s reality.
+- [77] **Minato**: I think the plaza is best. It is easier for the tired staff to clean. I hope the volunteers can still help there.
+- [78] **Minako**: @Benjamin, I respect your caution, but the ledger proves water features drain resources. The plaza’s durability is the only responsible choice. I support B.
+- [79] **Jonathan**: @Benjamin, I hear your passion for the water, but the accounts cannot sustain it. The plaza offers the only path to financial stability. I support B.
+### Vote
+- Kenji -> B
+- Benjamin -> A
+- Minato -> B
+- Minako -> B
+- Jonathan -> B
+## Result
+- adopted: B

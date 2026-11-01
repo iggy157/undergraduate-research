@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private (shared_living)
+
+## Round 1
+- [5] **Servas**: We must look beyond the numbers. How does the warmth of this home feel to each of you?
+- [6] **Midori**: I agree, Servas. The tension around money is hurting our friendships. Can we address how these bills have changed our dynamic?
+- [7] **Minato**: I just want to know if the old split is still fair. It feels a bit heavy for some people.
+- [8] **May**: @Minato, heavy is an understatement. I’m not signing off on a blind guess. I need to see the actual yearly data before we commit to anything.
+- [9] **Daisuke**: I’m worried about who actually has to do the math every month. It feels like it always falls on the quietest person.
+- [10] **Servas**: @Daisuke, you are right. Let us not let the task become a burden. I will help share the work.
+- [11] **Midori**: @Daisuke, that’s a valid point. I’d like to look at the payment log and the last twelve statements to see the actual patterns.
+- [12] **Minato**: I think looking at the plug-in monitor readings would be interesting. I want to see who uses the most power.
+- [13] **May**: @Midori, the payment log is exactly what I need. I’m also pulling the electrician’s quote to see if fixing the setup costs us upfront.
+- [14] **Daisuke**: @Servas, thank you. I’m still anxious about the time it takes. I’ll check the reconciliation template and the winter habits to see if it’s manageable.
+- [15] **Servas**: @Minato, curiosity is good, but let us also consider the sunlight and heating needs. Comfort is not just about watts, but about how we live together.
+- [16] **Midori**: @Servas, I appreciate that perspective. I’ll look into the kitchen notice about the cooler and the monthly settle observed at another house.
+- [17] **Minato**: @Servas, that sounds nice. I will look at the plug-in monitor readings and the last twelve utility statements to see the real numbers.
+- [18] **May**: @Minato, good luck with the monitors. I’m sticking to my plan: the payment log and that electrician quote. No surprises, please.
+- [19] **Daisuke**: @May, I hope the quote isn’t too expensive. I’m just trying to figure out if I can handle the monthly work without it eating my whole evening.
+- [20] **Servas**: @May, trust the process. I will examine the sunlight and heating needs, plus the winter habits, to ensure our comfort is not an afterthought.
+- [21] **Midori**: I’ll check the kitchen notice and the monthly settle at another house. Let’s find a way that keeps us close, not just balanced.
+- [22] **Minato**: I will look at the plug-in monitor readings and the last twelve utility statements. I hope the numbers are kind to everyone.
+- [23] **May**: @Daisuke, don’t worry, I’ll handle the upfront costs. I’m just making sure we don’t get blindsided by winter.
+- [24] **Daisuke**: @May, thank you. I’ll look at the reconciliation template and winter habits to see if the monthly work is actually manageable for me.
+## Round 2
+- [35] **Servas**: @Minato, knowing the south rooms stay warm naturally changes everything. We must value that sunlight, not just the electricity it saves.
+- [36] **Midori**: @Minato, the cooler notice shows people avoiding conflict over small costs. That silence hurts us. We need a system that prevents that avoidance.
+- [37] **Minato**: @Servas, the heater uses four times more power than the lightest room. That feels very unfair to the others.
+- [38] **May**: @Minato, four times? That’s brutal. But the electrician wants 34,000 yen per room just to fix it. That’s a massive upfront hit.
+- [39] **Daisuke**: @May, that quote is scary. But the template meant keying in every invoice manually. That’s hours of work, not just a quick check.
+- [40] **Servas**: @Daisuke, manual entry is a burden. Let us seek a method that respects your time, so the work does not isolate you.
+- [41] **Midori**: @Daisuke, I hear you. The other house spent forty minutes just logging. We need a method that doesn’t turn you into a bookkeeper.
+- [42] **Minato**: @Daisuke, I am sorry it is so much work. I do not want you to be tired. Maybe we can share the typing?
+- [43] **May**: @Daisuke, I hear you. But 34,000 yen per room is a huge upfront cost. I need to know if that’s worth it before we commit.
+- [44] **Daisuke**: @Minato, thank you. I’m still worried about the hours. @May, I hope we can find a cheaper way to fix this.
+- [45] **Servas**: @Minato, the south rooms’ natural warmth is a gift. We should honor that sunlight, not just the meters, when we decide who pays what.
+- [46] **Midori**: @Servas, I agree. But we must also address the emotional cost. The cooler notice shows how fear of conflict makes us avoid paying.
+- [47] **Minato**: @Midori, I agree. The numbers show big gaps, but I worry about feelings. Can we find a way that is gentle for everyone?
+- [48] **May**: @Minato, gentle is nice, but I’m bleeding cash. I need a plan that stops the winter shock, not just a warm feeling.
+- [49] **Daisuke**: @May, I understand the cost worry. But if the monthly work takes hours, I can’t keep doing it. We need a simpler system.
+- [50] **Servas**: @May, I understand your fear. But remember, the hall heater stayed on all winter without anyone counting. Let us choose a system that feels like home, not a ledger.
+- [51] **Midori**: @May, I hear your pain. But let’s not let fear dictate our choices. We need a fair split that protects our peace, not just our wallets.
+- [52] **Minato**: @May, I am sorry it hurts. I just want the numbers to be true, so nobody feels left behind.
+- [53] **May**: @Midori, peace is expensive. I’m not paying for vibes. I need a concrete plan that stops the winter shock before we vote.
+- [54] **Daisuke**: @May, I agree. I can’t keep doing hours of manual entry. We need a system that doesn’t drain my evenings.
+## Round 3
+- [60] **Servas**: @May, Option B mirrors the house where the heater simply stayed on. It removes the daily counting, letting us live without fear.
+- [61] **Midori**: @May, I hear your need for certainty. But Option B’s yearly settlement risks the same avoidance we saw with the cooler. We need a system that keeps us close, not just balanced.
+- [62] **Minato**: @May, I think Option A is best. It shows exactly who uses the heater, so the numbers are true and nobody feels left behind.
+- [63] **May**: @Minato, Option A costs 170,000 yen upfront. I can’t afford that shock. Option B’s yearly settlement is too risky for my budget.
+- [64] **Daisuke**: @May, I can’t do Option A’s manual entry. Option B’s yearly check is manageable. I’d vote B to save my evenings.
+- [65] **Servas**: @Daisuke, I agree. Option B respects your time. It allows us to live freely, trusting the season, rather than counting every flicker of light.
+- [66] **Midori**: @Daisuke, I understand your need for simplicity. But Option B’s yearly gap might cause the same avoidance we fear. Can we find a middle ground?
+- [67] **Minato**: @Midori, I am worried about the yearly gap too. But Option A feels the most honest. I want the truth, even if it is hard.
+- [68] **May**: @Daisuke, I can’t afford the upfront cost of A. B is risky, but C is a blind guess. I need to see the actual yearly data before I commit.
+- [69] **Daisuke**: @May, I’m sorry. I just need a system that doesn’t take hours. Option B seems the only one I can actually manage.
+- [70] **Servas**: @May, I understand your caution. Yet, a fixed seasonal rate lets us breathe. We trust the season, not the ledger.
+- [71] **Midori**: @May, I hear your fear. But Option C’s blind guess feels like the old problem. Option B’s yearly check is manageable, and it protects our peace.
+- [72] **Minato**: @May, I know the cost is scary. But if we don’t see the truth, the unfairness stays hidden. I hope we can find a way to be honest.
+- [73] **May**: @Minato, honesty is nice, but I can’t pay 170,000 yen. I’m stuck between a rock and a hard place.
+- [74] **Daisuke**: @May, I know it’s hard. But B is the only one that won’t drain my evenings. I can’t keep doing the manual work.
+- [75] **Servas**: @May, trust the season. Option B lets us live without fear, honoring the warmth we share. I vote B.
+- [76] **Midori**: @May, I understand your fear. But Option B’s yearly check is manageable, and it protects our peace. I vote B.
+- [77] **Minato**: @May, I am sorry about the cost. But I want the truth. I will vote A, so the numbers are honest for everyone.
+- [78] **May**: @Daisuke, I can’t do A’s upfront cost. B’s yearly gap scares me, but C is a blind guess. I’m voting B, hoping the math works out.
+- [79] **Daisuke**: @May, I’m relieved you chose B. It’s the only way I can keep my evenings. I’ll vote B too.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> A
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# shared_living_0006__multi-public (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need to fix the fee structure. Costs have shifted, and we must decide how to handle it fairly for everyone.
+- [6] **Benjamin**: Fairness is easy to say, hard to collect. I’d like to know what the next treasurer actually faces before we pick a method.
+- [7] **Jonathan**: I’d like to understand the actual usage patterns first. Who is really showing up, and who is just paying?
+- [8] **Shunichi**: The hesitation is real. People are weighing whether to show up at all. We need to fix that friction before we talk numbers.
+- [9] **Takumi**: I refuse to guess. We need hard numbers on what we can actually count on coming in, not just what we hope for.
+- [10] **Asuka**: @Benjamin, your point about the workload is valid. But we also need to see how the current system affects attendance. Let’s look at the data.
+- [11] **Benjamin**: @Asuka, agreed. But I need to see the hours logged by the last treasurer. If the job is a nightmare, no fee structure will save us.
+- [12] **Jonathan**: @Shunichi, that hesitation might just be the cost of feeling like a guest. I want to see the sign-in sheets to know who is actually here.
+- [13] **Shunichi**: @Jonathan, the sign-in sheets only show who came, not why they hesitate. I need to see the taster forms to understand why people drift away.
+- [14] **Takumi**: @Benjamin, checking the hours is smart. But I need the bank statements too. I want to see exactly when money actually hits the account, not just when it’s promised.
+- [15] **Asuka**: @Shunichi, taster forms show why people leave, not why they hesitate. I need the winter social feedback to understand the current mood.
+- [16] **Benjamin**: @Asuka, the winter social is anecdotal. I need the ledger to see where the money actually goes. @Takumi, the bank statements will show the cash flow reality.
+- [17] **Jonathan**: @Benjamin, the ledger shows where money goes, not who carries the weight. I need the rota against attendance to see who does the work.
+- [18] **Shunichi**: @Asuka, the winter social is just a snapshot. I need the weekday turnout to see if the hesitation is actually killing our regulars.
+- [19] **Takumi**: @Benjamin, the ledger is vital. I need to see the bank statements to track actual cash flow, and the ledger to verify the real costs.
+- [20] **Asuka**: @Benjamin, the ledger is essential. I will check the winter social feedback and the sign-in sheets to see who is actually present.
+- [21] **Benjamin**: I’ll check the outgoing treasurer’s logged hours and the ledger. I need to know the true cost of the job and where the money goes.
+- [22] **Jonathan**: I’ll check the sign-in sheets and the rota against attendance. I need to see who is actually here and who is doing the work.
+- [23] **Shunichi**: I’ll check the weekday turnout and the taster evening forms. I need to see if the hesitation is killing our regulars and why newcomers drift away.
+- [24] **Takumi**: I’m checking the bank statements and the ledger. I need to know exactly what we can count on, not just what we hope for.
+## Round 2
+- [35] **Asuka**: The data is stark. Eighteen members never show up, yet a quarter of us do two-thirds of the work. This imbalance is unsustainable.
+- [36] **Benjamin**: Six hours a month chasing individual payments. That is not a job, it is a punishment. We need a structure that respects the next person’s time.
+- [37] **Jonathan**: The sign-in sheets confirm my fear. A quarter of us do two-thirds of the work, while eighteen never appear. The rota shows the same nine doing everything.
+- [38] **Shunichi**: @Asuka, the data confirms it. A door charge killed our weekday turnout. People stopped feeling those evenings were theirs. We need to restore that sense of belonging.
+- [39] **Takumi**: @Benjamin, your six hours are a disaster. But the ledger is worse. Seventy percent of costs are fixed, billed whether we show up or not. We can’t just guess.
+- [40] **Asuka**: @Shunichi, the winter social feedback is worrying. Three quiet members feel uneasy about the cost per visit. We must protect that low-pressure entry point.
+- [41] **Benjamin**: @Takumi, the fixed costs are the real trap. If seventy percent is unavoidable, we cannot afford the administrative chaos of chasing individual payments.
+- [42] **Jonathan**: @Benjamin, the administrative chaos is real, but so is the resentment. The same nine carry the physical load. We need a structure that acknowledges that burden, not just the paperwork.
+- [43] **Shunichi**: @Benjamin, the taster forms are damning. Nine of fourteen refused a whole-year commitment. We are scaring people off before they even start.
+- [44] **Takumi**: @Shunichi, nine out of fourteen? That’s a massive leak. If we scare them off, we lose the income we need to cover those fixed costs.
+- [45] **Asuka**: @Jonathan, the imbalance is undeniable. But if we punish the quiet ones, we lose the newcomers who might become regulars. We need a structure that protects both.
+- [46] **Benjamin**: @Jonathan, resentment is valid, but I cannot hire a full-time accountant. We need a system that minimizes the chasing, not just the guilt.
+- [47] **Jonathan**: @Benjamin, I hear you. But a system that ignores the physical labor will just burn out the same nine. We need to value their time, not just the paperwork.
+- [48] **Shunichi**: @Jonathan, the physical labor is real, but the hesitation is killing us. If we make people feel like guests, they won’t come. We need to fix the vibe, not just the books.
+- [49] **Takumi**: @Benjamin, you’re right. Chasing payments is a nightmare. But we can’t ignore the fixed costs. We need a fee that covers the hall and insurance without the headache.
+- [50] **Asuka**: @Benjamin, I agree. We need a system that is simple to administer but fair to those who barely attend. Let’s see the options.
+- [51] **Benjamin**: @Asuka, simplicity is the only way to keep the books sane. I am ready to see which option actually respects the next treasurer’s time.
+- [52] **Jonathan**: @Benjamin, simplicity helps the books, but it ignores the people doing the heavy lifting. I need a structure that acknowledges the physical burden, not just the paperwork.
+- [53] **Shunichi**: @Jonathan, the physical burden is real, but the hesitation is killing us. If we make people feel like guests, they won’t come. We need to fix the vibe, not just the books.
+- [54] **Takumi**: @Benjamin, agreed. Simplicity is key. But we must ensure the fee covers those fixed costs without bankrupting the quiet members. Let’s see the options.
+## Round 3
+- [60] **Asuka**: @Benjamin, Option A is the only one that protects the quiet members and keeps administration simple. I am voting for the flat annual fee.
+- [61] **Benjamin**: Six hours a month chasing payments is unacceptable. Option C is administrative suicide. I am voting for the flat annual fee.
+- [62] **Jonathan**: @Benjamin, I hear the administrative pain, but a flat fee ignores the nine carrying the physical load. I am voting for Tiered Membership.
+- [63] **Shunichi**: @Jonathan, tiers create the exact friction that killed our weekday turnout. We need to remove the hesitation, not add labels. I am voting for the flat annual fee.
+- [64] **Takumi**: @Benjamin, you’re right. Chasing payments is a nightmare. Option A is the only way to cover those fixed costs without the headache. I’m voting for the flat annual fee.
+- [65] **Asuka**: @Jonathan, tiers create the very labels that make newcomers feel like outsiders. We need to protect that low-pressure entry point. I stand by my vote for the flat fee.
+- [66] **Benjamin**: @Jonathan, I respect the concern, but tiers invite the friction we just saw in the minute books. Simplicity is the only way to keep the books sane. I stand by my vote for the flat fee.
+- [67] **Jonathan**: @Benjamin, the minute books show friction, but the rota shows burnout. A flat fee ignores the physical labor. I stand by my vote for Tiered Membership.
+- [68] **Shunichi**: @Jonathan, the hesitation is the real killer. Tiers just add more labels to a system people already dread. I stand by my vote for the flat fee.
+- [69] **Takumi**: @Jonathan, I hear you, but tiers complicate things. We need simplicity to cover fixed costs. I stand by my vote for the flat annual fee.
+- [70] **Asuka**: @Jonathan, the data proves tiers alienate people. We need one simple fee to keep the doors open and the books clean. I stand by my vote for the flat annual fee.
+- [71] **Benjamin**: @Jonathan, the ledger proves fixed costs dominate. Tiers add complexity without solving the core problem. I stand by my vote for the flat annual fee.
+- [72] **Jonathan**: @Asuka, I understand the need for simplicity, but fairness matters. The same nine carry the physical load. I stand by my vote for Tiered Membership.
+- [73] **Shunichi**: @Jonathan, I hear the burnout, but labels kill belonging. We need to remove the hesitation, not add friction. I stand by my vote for the flat annual fee.
+- [74] **Takumi**: @Jonathan, I get the burnout, but tiers just add more work for the treasurer. We need to stop the chasing. I stand by my vote for the flat annual fee.
+- [75] **Asuka**: @Jonathan, the data is clear. Tiers create the exact friction we cannot afford. I stand by my vote for the flat annual fee.
+- [76] **Benjamin**: @Jonathan, the ledger is unambiguous. Fixed costs dominate, and chasing payments is a disaster. I stand by my vote for the flat annual fee.
+- [77] **Jonathan**: I hear the simplicity argument, but it ignores the physical reality. The same nine carry the load. I stand by my vote for Tiered Membership.
+- [78] **Shunichi**: @Jonathan, I hear the burnout, but labels kill belonging. We need to remove the hesitation, not add friction. I stand by my vote for the flat annual fee.
+- [79] **Takumi**: @Jonathan, I respect the burnout, but tiers just add more work for the treasurer. We need to stop the chasing. I stand by my vote for the flat annual fee.
+### Vote
+- Asuka -> A
+- Benjamin -> A
+- Jonathan -> B
+- Shunichi -> A
+- Takumi -> A
+## Result
+- adopted: A

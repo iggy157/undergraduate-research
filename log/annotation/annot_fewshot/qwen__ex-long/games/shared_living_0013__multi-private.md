@@ -1,0 +1,73 @@
+# shared_living_0013__multi-private (shared_living)
+
+## Round 1
+- [5] **Shizue**: I’d like to see what the two new joiners reported and check the unplanned seat shuffles. Let’s understand how we drifted before we move anything.
+- [6] **Toshio**: I will examine the basis of the department's floor billing and the facilities quote for re-running power.
+- [7] **Daisuke**: I’m worried about the costs. I’ll check the floor billing and the facilities quote to see what this actually costs us.
+- [8] **Mio**: I’m worried about my morning gaps! I’ll check the badge records and the pilot floor routine to see what we lose during the move.
+- [9] **Shunichi**: I’ll check the sound meter readings and the physio’s note. Comfort is the only metric that matters, and I need to know exactly what I’m sitting in.
+- [10] **Shizue**: @Mio, I hear your worry about the morning gaps. Let’s make sure the new layout protects your routine while we figure out who sits where.
+- [11] **Toshio**: @Daisuke, we are both checking the same financial documents. I will focus on the billing basis to understand the long-term liability.
+- [12] **Daisuke**: @Toshio, that’s good. I’m just trying to see the monthly numbers. I don’t want to commit to a layout without knowing the real cost.
+- [13] **Mio**: @Shizue, thanks! I really hope the new layout keeps my gaps safe. I’m checking the badge records and the pilot floor routine to see what we lose during the move.
+- [14] **Shunichi**: @Mio, your gaps are a luxury. I need permanent acoustic and ergonomic certainty. Who else prioritizes physical comfort over logistical convenience?
+- [15] **Shizue**: @Shunichi, comfort is vital, but so is connection. I’m checking the joiners’ reports and the shuffles to see how we can sit closer and actually talk.
+- [16] **Toshio**: @Shunichi, comfort is valid, but silence is not. We must explicitly name who takes the worse seats. Let’s not let habit decide that for us.
+- [17] **Daisuke**: @Toshio, I agree. We need to be fair. But I’m still worried about the monthly costs. I just want to see the numbers before we decide.
+- [18] **Mio**: @Shunichi, comfort is great, but my schedule is fragile! If the move drags on, I lose everything. We need speed, not just quiet chairs.
+- [19] **Shunichi**: @Mio, speed is irrelevant if the chair hurts. I’m securing the quietest, most ergonomic spot. Comfort is the only metric that matters.
+- [20] **Shizue**: I’ll check the joiners’ reports and the unplanned shuffles. Let’s see how we drifted so we can sit closer and actually talk.
+- [21] **Toshio**: I will examine the basis of the department's floor billing and the facilities quote for re-running power.
+- [22] **Daisuke**: I’ll check the floor billing and the facilities quote. I need to know the real monthly cost before we commit to any layout.
+- [23] **Mio**: I’m all set! I’ll check the badge records and the pilot floor routine. Let’s see what we find!
+- [24] **Shunichi**: I will examine the sound meter readings and the physio’s note. I need to verify the acoustic and ergonomic certainty of my permanent spot.
+## Round 2
+- [35] **Shizue**: @Mio, the shuffles took two weeks each! That’s a long time to be in limbo. Let’s plan carefully so we don’t repeat that chaos.
+- [36] **Toshio**: @Daisuke, the quote is 6,200 yen per desk move. Every change costs us. We must limit changes to protect the budget.
+- [37] **Daisuke**: @Toshio, that’s a lot. But the billing shows we pay for empty desks too. We need to know the total monthly cost before we move anything.
+- [38] **Mio**: @Toshio, six thousand yen per move is huge! But the pilot floor took up to nine minutes per person. That’s massive for my tiny gaps. How do we speed that up?
+- [39] **Shunichi**: @Mio, nine minutes is irrelevant. The window side is nine decibels quieter. I need that acoustic certainty. I’m not moving for your schedule.
+- [40] **Shizue**: @Toshio, six thousand yen per move is steep. But the joiners learned by overhearing. If we sit where we can talk, we save that hidden cost.
+- [41] **Toshio**: @Shizue, connection is valuable, but the billing basis shows we pay for area, not people. We must minimize moves to stop the 6,200 yen bleeding.
+- [42] **Daisuke**: @Toshio, I agree. The empty desks cost us 41,000 yen monthly. We need to see if a tighter layout saves that money before we pay for moves.
+- [43] **Mio**: @Shizue, two weeks is way too long! If we pre-label cables and ports, can we cut that nine-minute setup time? I need my gaps back!
+- [44] **Shunichi**: @Mio, pre-labeling is a distraction. The physio note says a good setting takes days to settle. I need permanent acoustic and ergonomic certainty, not speed.
+- [45] **Shizue**: @Mio, pre-labeling is smart! It saves your gaps and helps us avoid those two-week shuffles. Let’s make the move quick and painless for everyone.
+- [46] **Toshio**: @Mio, pre-labeling is free, but the 6,200 yen per move is not. We must limit changes to protect the budget.
+- [47] **Daisuke**: @Mio, pre-labeling helps, but the 41,000 yen for empty desks is the real leak. We need a layout that actually uses the space we pay for.
+- [48] **Mio**: @Daisuke, empty desks are a leak, but my gaps are my life! If the move drags on, I lose everything. We need speed, not just savings!
+- [49] **Shunichi**: @Daisuke, empty desks are a leak, but my spine is a liability. I need the window row. Comfort is the only metric that matters.
+- [50] **Shizue**: @Toshio, I understand the budget worry. But the joiners learned by overhearing. If we sit where we can talk, we save that hidden cost.
+- [51] **Toshio**: @Shizue, connection is valuable, but the billing basis shows we pay for area, not people. We must minimize moves to stop the 6,200 yen bleeding.
+- [52] **Daisuke**: @Toshio, I agree. We must stop the bleeding. I’m just trying to see if a tighter layout saves that 41,000 yen before we pay for moves.
+- [53] **Mio**: @Toshio, I hear you on the budget! But if we don’t pre-label, I lose my gaps. Can we do that for free to save time?
+- [54] **Shunichi**: @Mio, pre-labeling is free, but it doesn't fix a bad chair. I need the window row for acoustic certainty. Comfort is the only metric that matters.
+## Round 3
+- [60] **Shizue**: @Toshio, Option B feels right. The joiners learned by overhearing, so fixed seats let us build those connections without the chaos of constant moving.
+- [61] **Toshio**: @Shizue, Option B is the only choice that avoids the 6,200 yen per move. Stability protects the budget.
+- [62] **Daisuke**: @Toshio, I agree. Option B avoids the move fees. But I’m still worried about the 41,000 yen for empty desks. Does B actually save that?
+- [63] **Mio**: @Toshio, Option B is my only hope! If we pre-label cables, I save my gaps. Can we do that without extra cost?
+- [64] **Shunichi**: @Mio, pre-labeling is free, but it doesn't fix a bad chair. Option B secures my window seat. I need that acoustic certainty. I’m voting B.
+- [65] **Shizue**: @Mio, pre-labeling is free and smart! It protects your gaps and helps us avoid those two-week shuffles. Let’s make the move quick and painless for everyone.
+- [66] **Toshio**: @Mio, pre-labeling is free, but Option B is the only choice that avoids the 6,200 yen per move. Stability protects the budget.
+- [67] **Daisuke**: @Mio, pre-labeling is free, but it doesn't stop the 41,000 yen leak. Option B is the only way to avoid the move fees. I’m voting B.
+- [68] **Mio**: @Shizue, pre-labeling is free and saves my gaps! Option B is the only way to keep my routine safe. I’m voting B!
+- [69] **Shunichi**: @Mio, pre-labeling is free, but it doesn't fix a bad chair. Option B secures my window seat. I need that acoustic certainty. I am voting B.
+- [70] **Shizue**: @Shunichi, I hear your need for quiet. But the joiners learned by overhearing. If we sit where we can talk, we save that hidden cost. I’m voting B!
+- [71] **Toshio**: @Shizue, Option B is stable, but it hides the unfairness. We must explicitly assign the interior-wall seats. We cannot let habit decide who suffers the worst light.
+- [72] **Daisuke**: @Toshio, I agree. We must name the interior-wall seats. But Option B is the only choice that stops the 6,200 yen bleeding. I am voting B.
+- [73] **Mio**: @Toshio, I hear you! But Option B is the only way to keep my gaps safe. Pre-labeling cables makes it fast. I’m voting B!
+- [74] **Shunichi**: @Toshio, naming the interior seats is a distraction. Option B guarantees my window row. I need that acoustic certainty. I am voting B.
+- [75] **Shizue**: @Toshio, I agree. We must name the interior seats fairly. But Option B lets us build real connections. I am voting B!
+- [76] **Toshio**: @Shizue, I support B for stability, but we must explicitly assign the interior-wall seats. We cannot let habit decide who suffers the worst light.
+- [77] **Daisuke**: @Toshio, I agree. We must name the interior seats fairly. But Option B is the only choice that stops the 6,200 yen bleeding. I am voting B.
+- [78] **Mio**: @Toshio, I hear you! But Option B is the only way to keep my gaps safe. Pre-labeling cables makes it fast. I am voting B!
+- [79] **Shunichi**: @Toshio, naming the interior seats is a distraction. Option B guarantees my window row. I need that acoustic certainty. I am voting B.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

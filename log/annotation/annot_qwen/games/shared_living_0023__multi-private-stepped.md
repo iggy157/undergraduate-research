@@ -1,0 +1,73 @@
+# shared_living_0023__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Victoria**: Before we move desks, I need to understand the financial baseline.
+- [6] **Minato**: I wonder if the current spots are actually comfortable for everyone.
+- [7] **May**: My schedule is tight. I need to know how much time this change steals.
+- [8] **Shunichi**: We always shuffle seats without asking who suffers the most. Let’s fix that.
+- [9] **Daisuke**: I worry about who sits next to whom. It changes how we talk.
+- [10] **Victoria**: @Minato Comfort is subjective. I need hard numbers on the floor’s cost.
+- [11] **Minato**: But if my back hurts, I can’t work. I want that noted.
+- [12] **May**: @Victoria Numbers are good, but I care about the daily friction.
+- [13] **Shunichi**: @May Friction is real. But so is the unfairness of the current layout.
+- [14] **Daisuke**: @Shunichi Yes. The layout dictates my social access. I want that measured.
+- [15] **Victoria**: I will look into the billing basis and the facilities quote.
+- [16] **Minato**: I want to check the physio note and the sound readings.
+- [17] **May**: I need the arrival times and the morning routine upstairs.
+- [18] **Shunichi**: I’ll review the past shuffles and the staff survey plan.
+- [19] **Daisuke**: I want to see the survey plan and what the new joiners reported.
+- [20] **Victoria**: Agreed. Let’s see what the data says before we commit.
+- [21] **Minato**: I hope the sound data shows where it’s too loud.
+- [22] **May**: I hope the arrival data shows how chaotic mornings are.
+- [23] **Shunichi**: I hope the survey shows who was ignored last time.
+- [24] **Daisuke**: I hope the joiner reports show if they feel included.
+## Round 2
+- [35] **Victoria**: The billing is by area, not heads. Empty desks still cost us 41,000 yen monthly.
+- [36] **Minato**: The physio note says my chair needs days to settle. The sound is louder by the printer.
+- [37] **May**: @Victoria That’s a fixed cost. But the badge data shows we arrive at different times.
+- [38] **Shunichi**: @Victoria So the cost is the same. The pain is not.
+- [39] **Daisuke**: @Shunichi The survey shows the window seats are the most wanted. The joiners said they learned by overhearing.
+- [40] **Victoria**: @Daisuke Overhearing is a risk. The quote is 6,200 yen per desk to move.
+- [41] **Minato**: @Victoria If I sit by the window, the sound is lower. My back will be happier.
+- [42] **May**: @Minato The pilot floor took up to nine minutes to set up. That’s time I don’t have.
+- [43] **Shunichi**: @May Nine minutes is nothing compared to the weeks of shuffling we’ve had.
+- [44] **Daisuke**: @May I agree. But if I sit by the window, I can hear the team better.
+- [45] **Victoria**: The quote means every change costs 6,200 yen. We should pick a layout and stick to it.
+- [46] **Minato**: I think we should put the quietest spots for people who need to focus.
+- [47] **May**: I want a layout that minimizes the setup time. I can’t afford to lose those gaps.
+- [48] **Shunichi**: I want a layout that is fair. Not just comfortable for some.
+- [49] **Daisuke**: I want a layout where I can actually talk to people. Not just sit near them.
+- [50] **Victoria**: So we have three priorities: cost, comfort, and connection. We need to choose.
+- [51] **Minato**: I hope we choose comfort. It’s the only thing I can feel.
+- [52] **May**: I hope we choose efficiency. It’s the only thing I can measure.
+- [53] **Shunichi**: I hope we choose fairness. It’s the only thing that matters.
+- [54] **Daisuke**: I hope we choose connection. It’s the only thing that keeps me here.
+## Round 3
+- [60] **Victoria**: Option A is the only one that stops the 6,200 yen quote from hitting us again.
+- [61] **Minato**: Option A means I can keep my chair setting. That is very good for my back.
+- [62] **May**: Option C is a disaster. I arrive late. I will always be scrambling for a desk.
+- [63] **Shunichi**: Option C is chaos. Option B is just delayed chaos. Option A is the only stable one.
+- [64] **Daisuke**: Option A means I know who is next to me. I can plan my conversations.
+- [65] **Victoria**: @Daisuke Yes. And it means the billing stays flat. No surprise costs.
+- [66] **Minato**: @Victoria I agree. The sound is lower at the window. I can sit there.
+- [67] **May**: @Minato If I sit by the window, I can hear less. But I still have to set up.
+- [68] **Shunichi**: @May You will have a fixed spot. No more scrambling. No more shuffling.
+- [69] **Daisuke**: @Shunichi Yes. And I can sit near the people I need to talk to.
+- [70] **Victoria**: I am voting for A. It is the only rational choice.
+- [71] **Minato**: I am voting for A. It is the only one that lets me be comfortable.
+- [72] **May**: I am voting for A. It is the only one that respects my time.
+- [73] **Shunichi**: I am voting for A. It is the only one that is fair.
+- [74] **Daisuke**: I am voting for A. It is the only one that lets me connect.
+- [75] **Victoria**: Unanimous. We will go with A.
+- [76] **Minato**: I am happy. My back will be happy.
+- [77] **May**: I am happy. My schedule will be happy.
+- [78] **Shunichi**: I am happy. The unfairness is gone.
+- [79] **Daisuke**: I am happy. I can finally talk to my team.
+### Vote
+- Victoria -> A
+- Minato -> A
+- May -> A
+- Shunichi -> A
+- Daisuke -> A
+## Result
+- adopted: A

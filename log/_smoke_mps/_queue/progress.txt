@@ -1,0 +1,5 @@
+07:40:54 start: 3 jobs, models=default, per_model=3
+07:44:01 multi-private-stepped aiwolf_0001 rc=0 187s [default#0] left=2
+07:44:09 multi-private-stepped candidate_selection_0001 rc=0 195s [default#1] left=1
+07:44:35 multi-private-stepped shared_living_0001 rc=0 219s [default#2] left=0
+07:44:35 all done

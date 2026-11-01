@@ -1,0 +1,73 @@
+# candidate_selection_0005__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Yumi**: I worry about how often our plans fell apart when weather or transport failed us.
+- [6] **Benjamin**: I am curious why we keep proposing things that look suspiciously like the ones we quietly buried six years ago.
+- [7] **Shion**: I am interested in whether the skills required for these new services actually exist on our current staff roster.
+- [8] **Minako**: I am concerned that the funding structure looks solid now but will crumble by year two.
+- [9] **Daisuke**: I keep thinking about who can actually get to the branches. The locations and hours shape who we reach.
+- [10] **Yumi**: @Benjamin, that is a fair point. I want to see if those old programmes actually failed or just got unlucky.
+- [11] **Benjamin**: @Yumi, I suspect they failed because the records were never properly closed. I will check the two programmes begun six years ago.
+- [12] **Shion**: @Benjamin, buried programmes often hide skill gaps. I will check the volunteer register and supervision training to see who is actually qualified.
+- [13] **Minako**: @Benjamin, I agree. I will examine the county grant terms and the endowment to see how the funding is structured.
+- [14] **Daisuke**: @Yumi, that makes sense. I will look into the bus links in the two outer wards to see who is actually cut off.
+- [15] **Yumi**: @Daisuke, I will check the winter road closures north of the river. I need to know exactly when access becomes impossible.
+- [16] **Benjamin**: @Shion, if the skills are missing, the new service is just a fancy label for the old failure. I will check the running and equipment lines last year.
+- [17] **Shion**: @Benjamin, equipment lines show maintenance, not capability. I will check evening room bookings and remote catalogue use to see actual demand patterns.
+- [18] **Minako**: @Shion, demand patterns matter, but I need to see the cash flow. I will check the quoted delivery windows from suppliers to understand timing risks.
+- [19] **Daisuke**: @Minako, timing is critical for access. I will check the attendance sheets from former outreach stops to see who actually showed up.
+- [20] **Yumi**: I will also check the neighbourhood associations and tool certification. I want to see if the community is ready to help us out.
+- [21] **Benjamin**: I will also check the attendance sheets from former outreach stops. I need to see if the audience was ever there to begin with.
+- [22] **Shion**: I will also check the running and equipment lines last year. I need to see if the infrastructure supports the skills we claim to have.
+- [23] **Minako**: I will also check the running and equipment lines last year. I need to see where the hidden costs actually sit.
+- [24] **Daisuke**: I will also check the evening room bookings and remote catalogue use. I need to see when people actually come.
+## Round 2
+- [35] **Yumi**: I found that the community halls kept their evening timetables despite the road closures. That is really encouraging!
+- [36] **Benjamin**: The digitisation batch left half its images unindexed. The partner groups, however, still meet unaided. The records were never properly closed.
+- [37] **Shion**: The register shows retired tradespeople running the clinic, but no paid staff can supervise them. That is a critical gap.
+- [38] **Minako**: The grant covers sessions for twelve months, then the flat budget absorbs them. The vehicle line overran by a third. That is where the thinness begins.
+- [39] **Daisuke**: The bus cuts are severe. An hour round trip means the outer wards are effectively locked out.
+- [40] **Yumi**: @Daisuke, that is tough. But the halls kept their own schedules! I think community-led sessions might be the key to staying open.
+- [41] **Benjamin**: @Shion, that supervision gap explains why the partner groups survived. They didn’t need our oversight, just a room.
+- [42] **Shion**: @Benjamin, exactly. They bypassed the bottleneck. I need to know if we can replicate that model without hiring new supervisors.
+- [43] **Minako**: @Benjamin, the vehicle overrun is the real trap. Once the grant expires, that recurring cost hits the flat budget hard.
+- [44] **Daisuke**: @Yumi, the halls staying open is good, but the bus cuts mean our branches are still out of reach for many.
+- [45] **Yumi**: @Benjamin, I see! If the partner groups survive without us, maybe we should just support them. It feels safer than relying on our own fragile timetables.
+- [46] **Benjamin**: @Yumi, precisely. The partner groups proved the demand exists without our overhead. We should stop reinventing the wheel and just fund the room.
+- [47] **Shion**: @Yumi, supporting them is smart, but only if we stop pretending we can manage them. The roster simply does not have the capacity for new supervision.
+- [48] **Minako**: @Shion, agreed. The roster gap is real. But the funding structure is the deeper issue. We cannot absorb recurring costs after the grant ends.
+- [49] **Daisuke**: @Minako, the funding gap is real. But the evening data shows people are already there, just after we lock up.
+- [50] **Yumi**: @Daisuke, that is a great insight! If people are already there in the evenings, we just need to open the doors. It feels much more reliable than fighting the weather.
+- [51] **Benjamin**: @Daisuke, the attendance sheets confirm it. Forty visitors per session in the outer wards. We ignored that data for six years.
+- [52] **Shion**: @Daisuke, evening demand is real, but it requires staff who are not there. We cannot open doors without bodies to run them.
+- [53] **Minako**: @Daisuke, the evening demand is real, but the vehicle overrun means we cannot sustain the extra hours. The funding structure simply does not support it.
+- [54] **Daisuke**: @Shion, I hear you. But the remote catalogue peaks after nine. Maybe we can extend hours without full staffing?
+## Round 3
+- [60] **Yumi**: I love the idea of supporting the partner groups! Candidate C feels like the safest bet since they already run their own sessions.
+- [61] **Benjamin**: @Yumi, C is the partner model, but B is the digitisation ghost. We tried that six years ago and left half the images unindexed.
+- [62] **Shion**: @Benjamin, B is a trap. The digitisation batch failed because we lacked the specific technical skills to index it. We cannot repeat that error.
+- [63] **Minako**: @Benjamin, B is a capital draw on the endowment. That is a one-time hit, not a recurring trap. The funding structure is actually cleaner there.
+- [64] **Daisuke**: @Yumi, C relies on partner groups, but the bus cuts mean residents in the outer wards cannot reach the main branch.
+- [65] **Yumi**: @Daisuke, that is a real worry. But the community halls kept their own timetables despite the road closures! I think C can adapt to local conditions better than a fixed vehicle.
+- [66] **Benjamin**: @Daisuke, the attendance sheets prove the outer wards are hungry. D brings the service to them, bypassing the bus cuts entirely.
+- [67] **Shion**: @Benjamin, D is a logistical nightmare. The vehicle line already overran by a third. We cannot afford to expand that failure.
+- [68] **Minako**: @Shion, the vehicle overrun is a recurring trap. D locks us into that cost forever. B is a one-time capital draw, which is far safer for the long term.
+- [69] **Daisuke**: @Benjamin, D does reach them, but the vehicle costs are a recurring trap. I worry about the long-term burden.
+- [70] **Yumi**: @Shion, I hear your worry about the vehicle costs. But C uses the partner groups who already have the skills! We just provide the room, avoiding the staffing gap entirely.
+- [71] **Benjamin**: @Shion, the partner groups proved they can self-manage. C avoids the supervision gap you identified. We just provide the space, not the staff.
+- [72] **Shion**: @Yumi, C is the only option that doesn't require new skills. The partner groups already have the facilitators. We just need to stop trying to supervise them.
+- [73] **Minako**: @Shion, C relies on partner groups, but the grant only covers twelve months. After that, the flat budget absorbs the recurring costs. That is the structural weakness.
+- [74] **Daisuke**: @Minako, the funding gap is real. But the evening data shows people are already there, just after we lock up.
+- [75] **Yumi**: @Minako, that is a valid concern. But the partner groups are already self-sustaining! We just need to trust them to keep going. It feels much more resilient than relying on our fragile vehicle budget.
+- [76] **Benjamin**: @Minako, the partner groups have already survived six years without our money. C is the only option with a proven track record of not failing.
+- [77] **Shion**: @Minako, the funding gap is real, but C is the only option that doesn't require new skills. The partner groups already have the facilitators. We just need to stop trying to supervise them.
+- [78] **Minako**: @Benjamin, their survival is not a business model. The grant expires, and the flat budget absorbs the recurring costs. That is the structural failure I see.
+- [79] **Daisuke**: @Minako, I understand the risk. But if we do nothing, the outer wards stay locked out. The bus cuts make that impossible to ignore.
+### Vote
+- Yumi -> C
+- Benjamin -> C
+- Shion -> C
+- Minako -> B
+- Daisuke -> C
+## Result
+- adopted: C

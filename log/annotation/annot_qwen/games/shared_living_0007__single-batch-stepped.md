@@ -1,0 +1,73 @@
+# shared_living_0007__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Misaki**: I worry about the social friction if we get this wrong.
+- [6] **Shizue**: The morning rush is getting quite chaotic for everyone.
+- [7] **May**: We need to know the actual costs before we decide anything.
+- [8] **George**: Who will maintain this system once the novelty wears off?
+- [9] **Mio**: I feel like the current spots are just stuck to certain doors.
+- [10] **Misaki**: @May, do you have any data on the financial side?
+- [11] **Shizue**: @Mio, I noticed the same thing about the fixed spots.
+- [12] **May**: Not yet, but I suspect the ledger is empty.
+- [13] **George**: I have seen jobs lapse before when no one owns them.
+- [14] **Mio**: I want to check if the complaints are real or just noise.
+- [15] **Misaki**: We should look at what happened in similar buildings.
+- [16] **Shizue**: I will check the physical conditions of the parking rows.
+- [17] **May**: I will look at the building's financial records.
+- [18] **George**: I need to see the treasurer's notes on workload.
+- [19] **Mio**: I will check the sticker register and recent complaints.
+- [20] **Misaki**: Let's gather facts before we argue about feelings.
+- [21] **Shizue**: Agreed. Facts help us be kind to each other.
+- [22] **May**: I will also check the ward park prices for comparison.
+- [23] **George**: I will look at the supplier's frame trial results.
+- [24] **Mio**: I will also check the five years of minutes.
+## Round 2
+- [35] **Misaki**: The neighbouring block had arrears and people stopped coming to meetings.
+- [36] **Shizue**: Four times a morning, someone had to shift a bike to leave.
+- [37] **May**: The ledger is empty, and the ward park costs 2,600 yen monthly.
+- [38] **George**: Reconciling cash takes three hours a month, and the frame needs greasing.
+- [39] **Mio**: The minutes show the same flats held spots for five years without review.
+- [40] **Misaki**: @May, if we charge, will people just stop coming to meetings?
+- [41] **Shizue**: @George, is the physical effort of the racks too much for one person?
+- [42] **May**: @Misaki, the ward park has a waitlist, so demand is high.
+- [43] **George**: @Shizue, the frame lift takes twenty seconds and both hands.
+- [44] **Mio**: @May, the daily riders said they would rather pay than be equal.
+- [45] **Misaki**: The complaint log shows nine issues that died out because no one was responsible.
+- [46] **Shizue**: The rain-soaked spots are a real problem for saddles in winter.
+- [47] **May**: A capital levy would be needed for any new infrastructure.
+- [48] **George**: The cash collection workload is already flat, adding billing is risky.
+- [49] **Mio**: The sticker register shows up to three bikes per flat, so "one per person" is false.
+- [50] **Misaki**: We need a system that doesn't create new enemies.
+- [51] **Shizue**: We need a system that is easy to use in the rain.
+- [52] **May**: We need a system that doesn't bankrupt the building.
+- [53] **George**: We need a system that doesn't burn out the treasurer.
+- [54] **Mio**: We need a system that feels fair to the daily riders.
+## Round 3
+- [60] **Misaki**: Option A risks social isolation, like the neighbouring block.
+- [61] **Shizue**: Option B solves the rain and shifting issues, but maintenance is hard.
+- [62] **May**: Option A brings in money, but the ledger is empty and levies are scary.
+- [63] **George**: Option B requires greasing and lifting, which is a lot of work.
+- [64] **Mio**: Option C is fair on paper, but the minutes show it never gets reviewed.
+- [65] **Misaki**: @May, if we choose A, who collects the money?
+- [66] **Shizue**: @George, if we choose B, who greases the springs?
+- [67] **May**: @Misaki, if we choose C, do we trust the lottery to be fair?
+- [68] **George**: @Mio, if we choose B, do the daily riders accept shared racks?
+- [69] **Mio**: @Shizue, if we choose B, is the rain exposure still a problem?
+- [70] **Misaki**: The complaint log suggests we need clear responsibility, which A provides.
+- [71] **Shizue**: The morning watch suggests B is better for flow, but the rain is bad.
+- [72] **May**: The ward park price suggests A is viable, but the ledger is a risk.
+- [73] **George**: The handover file suggests A is too much work for the treasurer.
+- [74] **Mio**: The sticker register suggests C is unfair to multi-bike households.
+- [75] **Misaki**: I am leaning towards A to ensure accountability.
+- [76] **Shizue**: I am leaning towards B for ease of use, despite the rain.
+- [77] **May**: I am leaning towards A to fund the building.
+- [78] **George**: I am leaning towards C to minimize administrative burden.
+- [79] **Mio**: I am leaning towards B to avoid the resentment of fixed spots.
+### Vote
+- Misaki -> A
+- Shizue -> B
+- May -> A
+- George -> C
+- Mio -> B
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I need to know how much time the move actually steals from our mornings.
+- [6] **Toshio**: I need to understand the actual monthly cost of this floor before we rearrange anything.
+- [7] **Mizuki**: I want to ensure the seating hierarchy is explicit, not just assumed by whoever grabs the best spot first.
+- [8] **Shion**: I need to verify the acoustic and ergonomic reality of each spot, not just the drawn lines.
+- [9] **Yumi**: I want to see how our seating actually shapes who we talk to, so we can choose it on purpose, not by accident.
+- [10] **Rin**: @Toshio, if the floor billing is high, does that mean we have to rush the move?
+- [11] **Toshio**: @Rin, not necessarily. The billing is fixed regardless of layout. I just need to know the baseline before we spend more.
+- [12] **Mizuki**: @Shion, your acoustic check is vital. I want to know if the "quiet" spots are actually just isolated, which would hurt our team cohesion.
+- [13] **Shion**: @Mizuki, isolation is a feature, not a bug. I need to know if the sound levels actually support deep work, not just social convenience.
+- [14] **Yumi**: @Mizuki, I agree! But if we isolate people, we lose those casual chats. I want us to pick seats that keep us connected, not just comfortable.
+- [15] **Rin**: @Yumi, I worry that "connected" means constant noise. I need to protect my short gaps between meetings.
+- [16] **Toshio**: @Rin, I understand. But the budget is static. We cannot afford to waste time on inefficient layouts.
+- [17] **Mizuki**: @Rin, I hear you. But if we hide in corners, we lose the chance to fix the unfairness I see. We need balance.
+- [18] **Shion**: @Rin, your gaps are valid, but comfort is non-negotiable for me. I will prioritize spots that support my body and silence.
+- [19] **Yumi**: @Rin, I get it! But maybe we can find a middle ground? I want us to talk, but not at the cost of your peace.
+- [20] **Rin**: @Mizuki, I will check the morning routine upstairs and the badge arrival times to see exactly how much time we lose.
+- [21] **Toshio**: @Mizuki, I will check the basis of the department's floor billing and the facilities quote for re-running power and network.
+- [22] **Mizuki**: @Toshio, I will check the drawn plan against the staff survey and the unplanned seat shuffles in the past year.
+- [23] **Shion**: @Toshio, I will check the sound meter readings across the room and the physio's note from the workstation check.
+- [24] **Yumi**: @Mizuki, I will check what this year's two joiners reported and the two project strands within earshot last spring.
+## Round 2
+- [35] **Rin**: - **Rin**: @Toshio, the pilot floor takes up to nine minutes just to set up. That is huge for my short gaps.
+- [36] **Toshio**: @Rin, nine minutes is painful, but the real cost is structural. We are billed for area, not people. Those two empty desks cost us 41,000 yen monthly.
+- [37] **Mizuki**: @Toshio, that waste is unacceptable. But my data shows the window seats are the real prize. We must assign them deliberately, not by luck.
+- [38] **Shion**: @Mizuki, luck is not a strategy. The printer row is nine decibels louder. I need a spot where my body can settle without constant correction.
+- [39] **Yumi**: @Shion, nine decibels is a lot! But I found that when projects sat close, answers came in seconds. I want us to sit where we can actually help each other quickly.
+- [40] **Rin**: @Yumi, seconds are great, but I need silence. If we sit close, I lose my focus. I need a buffer zone.
+- [41] **Toshio**: @Rin, silence is a luxury. The facilities quote is 6,200 yen per desk for re-running power. Every change we make now is a direct hit to that static budget.
+- [42] **Mizuki**: @Toshio, I see the cost. But my survey data shows daylight is the top complaint. We must assign windows fairly, not let them drift again.
+- [43] **Shion**: @Toshio, six thousand yen is trivial if it buys me a stable, quiet spot. I will not trade my comfort for your budget anxiety.
+- [44] **Yumi**: @Toshio, I hear you on the budget! But if we sit close, the new joiners learn faster. I want us to be a team, not just five separate desks.
+- [45] **Rin**: @Shion, I need a buffer zone to protect my focus. Can we place me away from the loud printer row?
+- [46] **Toshio**: @Rin, a buffer zone is free if we do not move the power. Moving desks costs 6,200 yen each. I will not pay for your silence.
+- [47] **Mizuki**: @Rin, I agree with your need for space. But we must also address the window disparity. I propose a rotation system to ensure fairness.
+- [48] **Shion**: @Mizuki, rotation is chaos. My body needs days to settle into a setting. I will not reset my posture every week for your fairness metric.
+- [49] **Yumi**: @Shion, I get that your body needs stability! But maybe we can find a quiet spot that is also close enough for quick chats?
+- [50] **Rin**: @Mizuki, rotation sounds exhausting. I just want a fixed spot away from the noise so I can actually work in my short gaps.
+- [51] **Toshio**: @Mizuki, rotation is a false economy. Every swap triggers the 6,200 yen fee. We must lock the layout to stop the bleeding.
+- [52] **Mizuki**: @Toshio, I hear the budget concern. But the shuffles cost us two weeks of productivity. A stable, fair layout prevents that hidden drain.
+- [53] **Shion**: @Mizuki, I will not rotate. My body needs stability to settle. I need a fixed, quiet spot where I can work without constant physical correction.
+- [54] **Yumi**: @Mizuki, I agree! Stability is key. Let's find a fixed layout that keeps us close enough to chat, but respects Shion's need for quiet.
+## Round 3
+- [60] **Rin**: @Toshio, Option A is a nightmare for my gaps. I need a fixed spot to protect my focus.
+- [61] **Toshio**: @Rin, Option A is financially reckless. Every daily shuffle triggers the 6,200 yen fee. We cannot afford that volatility.
+- [62] **Mizuki**: @Rin, Option A is chaos. My data shows unplanned shuffles cost us weeks. We need stability, not daily roulette.
+- [63] **Shion**: @Rin, Option A is physically impossible. My body needs days to settle. I will not reset my posture daily for your convenience.
+- [64] **Yumi**: @Rin, I agree! Option A is too chaotic. I want a stable spot where I can actually talk to everyone, not just grab a random desk.
+- [65] **Rin**: @Mizuki, Option B sounds like a nightmare. I cannot keep resetting my routine. I need a permanent home to protect my short gaps.
+- [66] **Toshio**: @Mizuki, Option B is a financial trap. Every rotation triggers the 6,200 yen fee. We would bleed the budget dry before the year ends.
+- [67] **Mizuki**: @Toshio, I agree. Option B is a financial disaster. But Option C is the only way to make the window disparity explicit and fair, rather than letting it hide in habit.
+- [68] **Shion**: @Mizuki, Option B is a physical disaster. My body cannot reset its posture every few weeks. I need a permanent, stable anchor to function.
+- [69] **Yumi**: @Mizuki, I agree! Option C is perfect. It gives us a stable home to build real connections, not just random chats. I want us to be a team!
+- [70] **Rin**: @Yumi, Option C is perfect! A fixed, named desk means I never waste my precious gaps searching. I can finally focus!
+- [71] **Toshio**: @Yumi, Option C is the only fiscally sound choice. One setup, zero recurring fees. We lock the layout and stop the budget hemorrhage.
+- [72] **Mizuki**: @Yumi, Option C is the only way to make the window disparity explicit. We must name who carries the worse end, rather than letting it hide in habit.
+- [73] **Shion**: @Yumi, Option C is the only logical choice. A fixed, named desk allows my body to settle permanently. I will not compromise on stability for your social metrics.
+- [74] **Yumi**: @Rin, I am so happy you like it too! A fixed spot means I can actually build real friendships with the people next to me, not just nod at strangers.
+- [75] **Rin**: I am voting for C. A fixed, named desk is the only way to protect my precious morning gaps and keep my focus sharp!
+- [76] **Toshio**: I am voting for C. One setup, zero recurring fees. We lock the layout and stop the budget hemorrhage.
+- [77] **Mizuki**: I am voting for C. It is the only option that forces us to name the window disparity explicitly, rather than letting it hide in habit.
+- [78] **Shion**: I am voting for C. A fixed, named desk is the only way to let my body settle permanently. I will not compromise on stability.
+- [79] **Yumi**: I am voting for C! A fixed, named desk means I can finally build real connections with my neighbors, not just nod at strangers.
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

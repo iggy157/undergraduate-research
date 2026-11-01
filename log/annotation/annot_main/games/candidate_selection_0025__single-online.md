@@ -1,0 +1,72 @@
+# candidate_selection_0025__single-online (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: It is a pleasure to be here with you all. To start, I think I would like to look into the county grant terms and the endowment, and the winter road closures north of the river.
+- [6] **Jonathan**: I will look into the bus links in the two outer wards and the evening room bookings and remote catalogue use.
+- [7] **Rin**: I want to see the attendance sheets from former outreach stops and those two programmes begun six years ago!
+- [8] **Benjamin**: I believe I shall examine the running and equipment lines from last year, as well as the county grant terms and the endowment.
+- [9] **Minako**: I will look into the volunteer register and supervision training, and the neighbourhood associations and tool certification.
+- [10] **Shizue**: I believe we have a very comprehensive list started. Does anyone feel we are missing a perspective, or are you all satisfied with your choices for now?
+- [11] **Jonathan**: I am satisfied. I think we have covered the logistical and financial bases quite well.
+- [12] **Rin**: I'm satisfied too! I just want to know what happened before so we don't make the same mistakes again.
+- [13] **Benjamin**: I agree with Rin. A touch of historical context often prevents us from repeating the same elegant failures. I am quite content with our current selections.
+- [14] **Minako**: I am also satisfied. We have a balanced approach between current capacity and historical data.
+- [15] **Shizue**: Since we are all in agreement, perhaps we can move forward. I feel a sense of peace knowing we are all looking for the truth together.
+- [17] **Rin**: Me too! I can't wait to see what's in those old files!
+- [18] **Benjamin**: Indeed, the anticipation is half the fun. I shall await the findings with a measured curiosity.
+- [19] **Minako**: I agree. Let us proceed to the research phase so we can bring these facts back to the table.
+- [20] **Shizue**: I believe we have said all that needs to be said for this round. I am ready to see what the records reveal.
+- [21] **Jonathan**: I agree. I believe we have a solid plan and can now move to the investigation.
+- [22] **Rin**: Me too! Let's go find out what happened!
+- [23] **Benjamin**: I concur. Let us step away from the conversation for a moment and let the archives speak to us.
+- [24] **Minako**: I agree. I am ready to review the documents and return with the facts.
+## Round 2
+- [35] **Shizue**: I found that the county grant only covers session fees for a year, and that the roads north of the river were closed for eleven days last winter.
+- [36] **Jonathan**: I discovered that two outer wards lost their bus links, making the trip to a staffed counter an hour's round trip, and that remote catalogue use peaks late at night.
+- [37] **Rin**: I found out that outreach stops in the outer wards used to be really popular, and that some old digitisation projects were left half-finished, but some evening groups are still going!
+- [38] **Benjamin**: My research reveals that last year's vehicle running costs were exceeded by a third, while equipment funds were under-spent. Also, the grant terms only cover session fees for the first year.
+- [39] **Minako**: I found that we have retired tradespeople volunteering for repairs, but no staff on the payroll are trained to supervise outside facilitators, and our power tool certification technician has retired.
+- [40] **Shizue**: It seems we have several challenges. @Benjamin, it is worrying that the grant only lasts a year; we must be careful not to start something we cannot sustain.
+- [41] **Jonathan**: I am concerned about the bus links. If residents in the outer wards cannot reach us, any service based solely at the main branch will exclude them.
+- [42] **Rin**: But the outreach stops were so popular! If we can just figure out why they stopped, maybe we can bring them back and help the people who can't get the bus.
+- [43] **Benjamin**: @Rin, your enthusiasm is infectious, though we must note that the vehicle costs were significantly over budget last year. A mobile service might be a financial tightrope.
+- [44] **Minako**: We must also consider the human element. If we introduce a workshop or specialized program, we currently lack the certified staff to supervise it safely.
+- [45] **Shizue**: I see. It is a delicate balance, isn't it? We want to be helpful, but we must ensure our kindness does not lead to a situation we cannot manage.
+- [46] **Jonathan**: I agree. If we prioritize accessibility for the outer wards, we must ensure the method is reliable and doesn't collapse when the initial funding or weather turns.
+- [47] **Rin**: But the evening groups from six years ago are still meeting without any help! That means some things can just keep going if we pick the right ones.
+- [48] **Benjamin**: A fascinating point, Rin. It suggests that community-led initiatives possess a resilience that centrally managed ones often lack, provided the initial spark is genuine.
+- [49] **Minako**: Exactly. However, we must be realistic about our internal capacity. We cannot simply hope for resilience if we lack the basic supervision and certification required for safety.
+- [50] **Shizue**: I feel we have all shared very important pieces of the puzzle. Let us hold these thoughts close as we prepare to look at the actual proposals.
+- [51] **Jonathan**: I agree. We have a clear picture of our constraints and our needs; now we can see which proposal fits best.
+- [52] **Rin**: I'm ready! I hope there's something that lets us help the people far away and doesn't just end up half-finished like those old photos!
+- [53] **Benjamin**: I believe we are well-prepared. We have the financial warnings, the logistical hurdles, and the historical ghosts all laid out before us. It should make the selection quite illuminating.
+- [54] **Minako**: I agree. Let us move forward and evaluate the candidates with these facts in mind to ensure a sustainable and safe expansion.
+## Round 3
+- [60] **Shizue**: Now that we see the candidates, I am quite torn. The Language Learning Circles sound lovely, but I worry about the one-year grant limit we discovered.
+- [61] **Jonathan**: I am leaning toward the Mobile Branch Service. Given the loss of bus links in the outer wards, we must bring the library to the people who cannot reach us.
+- [62] **Rin**: I like the Mobile Branch Service too! It's just like those popular outreach stops I found in the records, and it helps the people far away!
+- [63] **Benjamin**: While the Mobile Branch Service is noble in intent, we must remember the vehicle budget overran by a third last year. It seems a recipe for a second-year financial crisis.
+- [64] **Minako**: I am concerned about the Maker Workshop. Without a certified technician or staff trained to supervise facilitators, it would be a safety liability.
+- [65] **Shizue**: If the Mobile Branch is too expensive and the Workshop is unsafe, perhaps the Digital Archive Portal is a safer path? It would be available to everyone, regardless of the roads.
+- [66] **Jonathan**: The Digital Archive Portal is accessible, yes, but it doesn't solve the immediate problem of the outer wards losing their physical connection to our staff and services.
+- [67] **Rin**: But the Digital Archive is just like those old photos that got left half-finished! I don't want us to start something and then just stop halfway through again.
+- [68] **Benjamin**: Rin makes a poignant point. A digital project is only as good as its completion, and our history suggests we struggle with the tedious nature of indexing.
+- [69] **Minako**: That leaves the Language Learning Circles. While the grant is short-term, these groups often become self-sustaining, much like the evening groups Rin mentioned that are still meeting unaided.
+- [70] **Shizue**: That is a very comforting thought, Minako. If the community takes ownership of the circles, we can provide the initial spark without risking a permanent financial burden.
+- [71] **Jonathan**: I suppose that is a fair point. While it doesn't solve the transport issue as directly as a bus, it provides a vital community link that could be hosted in those outer wards.
+- [72] **Rin**: I like that! If we can find a way to put the circles in the outer wards, it's like a new kind of outreach that doesn't need a big, expensive bus!
+- [73] **Benjamin**: It is a rare moment when logic and optimism align so neatly. The Language Learning Circles avoid the budget pitfalls of the vehicle and the safety risks of the workshop.
+- [74] **Minako**: It also avoids the risk of an unfinished digital project and relies on a model of community facilitation that we have seen succeed in the past.
+- [75] **Shizue**: I feel we have found a path that is both kind and sustainable. I am happy to cast my vote for the Language Learning Circles.
+- [76] **Jonathan**: I agree. It is the most balanced choice for our community's current needs. I vote for the Language Learning Circles.
+- [77] **Rin**: I'm in! It's a great idea and it won't get stuck in a garage or a computer. I vote for the Language Learning Circles!
+- [78] **Benjamin**: I find the reasoning sound and the risks minimized. I cast my vote for the Language Learning Circles.
+- [79] **Minako**: I concur. It is the most responsible choice given our current staffing and financial constraints. I vote for the Language Learning Circles.
+### Vote
+- Shizue -> C
+- Jonathan -> C
+- Rin -> C
+- Benjamin -> C
+- Minako -> C
+## Result
+- adopted: C

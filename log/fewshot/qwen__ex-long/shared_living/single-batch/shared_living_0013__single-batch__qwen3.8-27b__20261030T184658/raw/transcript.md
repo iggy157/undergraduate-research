@@ -1,0 +1,94 @@
+# shared_living_0013
+## Round 1
+### Talk
+#### Turn 1 of 4
+- **Shizue**: I worry about who we sit beside. It decides how much we actually talk. Let’s check the joiners' reports and the spring project strands.
+- **Toshio**: The current layout hides who gets the worse seats. I need to see the drawn plan against the staff survey to expose that.
+- **Daisuke**: I’m worried about the budget. The floor billing basis and the facilities quote for re-running power seem important to check.
+- **Mio**: My morning gaps are tiny! I need to know the morning routine on the pilot floor and the unplanned seat shuffles.
+- **Shunichi**: Comfort is key. I’ll check the sound meter readings and the physio's note from the workstation check.
+#### Turn 2 of 4
+- **Shizue**: @Mio, your gaps are precious. But if we sit closer, we might save time on handovers. Let’s see what the joiners said.
+- **Toshio**: @Shizue, proximity is nice, but fairness is structural. I need to know if the plan explicitly assigns the interior-wall seats.
+- **Daisuke**: @Toshio, I agree. If the billing is by area, empty desks still cost us. I need to verify the monthly hit.
+- **Mio**: @Daisuke, money is scary! But if the move takes days, I lose my whole week. Speed is my priority.
+- **Shunichi**: @Mio, speed is irrelevant if the chair hurts. I need acoustic and ergonomic certainty. I’m checking the sound and physio notes.
+#### Turn 3 of 4
+- **Shizue**: @Shunichi, I hear you. But if we’re too comfortable, we stop talking. I want to see how the joiners learned the work.
+- **Toshio**: @Shizue, learning is good, but resentment is bad. I must ensure the worse seats are named, not left to habit.
+- **Daisuke**: @Toshio, I’m a bit quiet, but I feel the weight of the costs. I hope the billing basis shows a way to save.
+- **Mio**: @Daisuke, don’t worry! We’ll figure it out. I just need to know if the shuffles will eat my mornings.
+- **Shunichi**: @Mio, I’ll handle the comfort. You handle the time. Let’s see what the data says.
+#### Turn 4 of 4
+- **Shizue**: I’ll check the joiners' reports and the spring project strands. Let’s see how we connect.
+- **Toshio**: I’ll check the drawn plan against the staff survey and the badge records. I need to see the unfairness and the arrival times.
+- **Daisuke**: I’ll check the floor billing basis and the facilities quote. I need to know the true cost.
+- **Mio**: I’ll check the morning routine and the unplanned shuffles. I need to protect my gaps.
+- **Shunichi**: I’ll check the sound meter readings and the physio's note. I need my comfort secured.
+### Action
+- investigate: Shizue -> What this year's two joiners reported; Two project strands within earshot last spring
+- investigate: Toshio -> Drawn plan against the staff survey; Arrival times in the badge records
+- investigate: Daisuke -> Basis of the department's floor billing; Facilities quote for re-running power and network
+- investigate: Mio -> Morning routine on the pilot floor upstairs; Unplanned seat shuffles in the past year
+- investigate: Shunichi -> Sound meter readings across the room; Physio's note from the workstation check
+## Round 2
+### Talk
+#### Turn 1 of 4
+- **Shizue**: The joiners learned by overhearing! And last spring, questions were answered across the aisle. We need to sit where we can talk.
+- **Toshio**: @Shizue, the plan gives four desks a window and three to the interior wall. Daylight was the top complaint. We must name who takes the wall seats.
+- **Daisuke**: @Toshio, that’s harsh. But the billing is by area, not headcount. Two empty desks cost 41,000 yen a month. We need to be efficient.
+- **Mio**: @Daisuke, 41,000 yen is huge! But the morning routine took up to nine minutes per person. That’s too long for my gaps.
+- **Shunichi**: @Mio, nine minutes is nothing compared to the noise. The printer row is nine decibels louder. I need the window side.
+#### Turn 2 of 4
+- **Shizue**: @Shunichi, the window is quiet, but the joiners need to hear us. If we hide in quiet spots, we lose the team.
+- **Toshio**: @Shizue, hiding is not the issue. The issue is that the three interior-wall seats are never assigned. I want them named.
+- **Daisuke**: @Toshio, I agree. If we name them, we can rotate them? Or maybe we just accept the cost? I’m not sure.
+- **Mio**: @Daisuke, rotating sounds exhausting! The unplanned shuffles took two weeks each time. I can’t do that again.
+- **Shunichi**: @Mio, shuffles are chaos. I need a fixed, quiet spot. The physio said it takes days to settle a good chair setting.
+#### Turn 3 of 4
+- **Shizue**: @Shunichi, I get the comfort. But if we’re fixed, we stop mixing. The joiners said overhearing was key. Let’s find a middle ground.
+- **Toshio**: @Shizue, a middle ground is just another way to hide the unfairness. I want explicit assignment. Who takes the wall?
+- **Daisuke**: @Toshio, I’m worried about the cost of moving. The facilities quote is 6,200 yen per desk. Every change adds up.
+- **Mio**: @Daisuke, 6,200 yen per move is painful! If we rotate, we pay that every time. I need stability.
+- **Shunichi**: @Mio, stability is good. But if I’m stuck in the noisy row, I can’t work. I need the window.
+#### Turn 4 of 4
+- **Shizue**: @Shunichi, I understand. But if everyone takes the best spot, who talks to whom? I want us to connect.
+- **Toshio**: @Shizue, connection is nice, but fairness is essential. I will vote for the option that forces us to name the worse seats.
+- **Daisuke**: @Toshio, I’m leaning towards stability. The costs of moving are too high. I hope we can keep the current spots.
+- **Mio**: @Daisuke, I agree! Stability protects my gaps. I don’t want to pay 6,200 yen every month.
+- **Shunichi**: @Mio, I agree. I need my window seat. I’m voting for the option that keeps my spot fixed.
+## Round 3
+### Talk
+#### Turn 1 of 4
+- **Shizue**: Option B fixes desks by function. It’s stable, but does it let us talk? The joiners need to hear us.
+- **Toshio**: Option B assigns seats permanently. I can name the interior-wall seats. This is the only option that forces fairness.
+- **Daisuke**: Option B means no more moving. No more 6,200 yen fees. It’s the most budget-friendly. I’m leaning B.
+- **Mio**: Option B is stable! No shuffles, no delays. My gaps are safe. I’m voting B.
+- **Shunichi**: Option B secures my window seat. I can adjust my chair once and stay. I’m voting B.
+#### Turn 2 of 4
+- **Shizue**: @Toshio, if we name the wall seats, will we still talk? I worry we’ll just sit in silence.
+- **Toshio**: @Shizue, silence is better than resentment. If we name the seats, we acknowledge the burden. That’s fair.
+- **Daisuke**: @Shizue, I think it’s okay. We can still talk across the aisle. The joiners did last spring.
+- **Mio**: @Daisuke, that’s true! We can still connect. And I keep my morning routine. I’m happy with B.
+- **Shunichi**: @Mio, I’m happy too. My comfort is secured. I’m voting B.
+#### Turn 3 of 4
+- **Shizue**: @Toshio, I’ll support B if we promise to check in on the wall-sitters. Let’s not let them feel isolated.
+- **Toshio**: @Shizue, agreed. We will name the seats and check in. Option B is the only fair choice.
+- **Daisuke**: @Toshio, I agree. The budget is safe. I’m voting B.
+- **Mio**: @Toshio, I’m voting B! Stability and connection. It’s perfect.
+- **Shunichi**: @Toshio, I’m voting B. Comfort and fairness. It’s the right choice.
+#### Turn 4 of 4
+- **Shizue**: I’m voting B. Let’s make sure we talk to everyone, even the wall-sitters.
+- **Toshio**: I’m voting B. Fairness is non-negotiable.
+- **Daisuke**: I’m voting B. The budget is protected.
+- **Mio**: I’m voting B. My gaps are safe.
+- **Shunichi**: I’m voting B. My comfort is secured.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+- adopted: B
+## Result
+- adopted: B

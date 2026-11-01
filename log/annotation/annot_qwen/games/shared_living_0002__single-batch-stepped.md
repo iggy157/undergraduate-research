@@ -1,0 +1,73 @@
+# shared_living_0002__single-batch-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I hate walking past the corner in August. It smells terrible.
+- [6] **Midori**: We need to know the costs before we agree to anything.
+- [7] **Shunichi**: We still have to live here together. Let's keep it simple.
+- [8] **May**: Who is actually doing the work? I want to know the hours.
+- [9] **Asuka**: One house has suffered for years. We need fairness.
+- [10] **Rin**: @May, do you think we can just move it?
+- [11] **Midori**: @Asuka, that is a valid point. We must be fair.
+- [12] **Shunichi**: Moving it might just move the problem, not solve it.
+- [13] **May**: I am not volunteering to be the phone answerer again.
+- [14] **Asuka**: If we build something, who pays for the maintenance?
+- [15] **Rin**: I want to see what the other blocks did.
+- [16] **Midori**: I will check the ledger and the subsidy info.
+- [17] **Shunichi**: I will look at the complaint log and the frontages.
+- [18] **May**: I need the truck times and the supervised morning data.
+- [19] **Asuka**: I will check the filing requirements and the station minutes.
+- [20] **Rin**: Okay, let's see what we find.
+- [21] **Midori**: Agreed. Let's get the facts.
+- [22] **Shunichi**: Let's not overcomplicate this.
+- [23] **May**: I am ready to look into the details.
+- [24] **Asuka**: I will review the legal and historical records.
+## Round 2
+- [35] **Rin**: The station block's bin house smells worse than the open pile.
+- [36] **Midori**: The subsidy only covers forty percent. The rest is on us.
+- [37] **Shunichi**: The complaint log shows one house filed eleven of fourteen.
+- [38] **May**: The truck comes at seven forty. That is too early for some.
+- [39] **Asuka**: The filing process takes four months and needs five signatures.
+- [40] **Rin**: @Asuka, four months is a long time to wait.
+- [41] **Midori**: @Shunichi, that explains the tension. One house is tired.
+- [42] **Shunichi**: @May, if the window is tight, we need a rotation.
+- [43] **May**: @Rin, so the enclosed option is actually worse for smell?
+- [44] **Asuka**: @Midori, the ledger shows thirty-four thousand yen in extra fees.
+- [45] **Rin**: I don't want to live next to a smelly box.
+- [46] **Midori**: We can afford the subsidy, but the maintenance is high.
+- [47] **Shunichi**: The frontages are uneven. One is very narrow.
+- [48] **May**: Supervised mornings take fifty minutes. That is a lot of time.
+- [49] **Asuka**: Nobody volunteered to turn away late bags at the meeting.
+- [50] **Rin**: So, what is left?
+- [51] **Midori**: We need a plan that doesn't break the bank or the peace.
+- [52] **Shunichi**: Rotating might be the only way to share the burden.
+- [53] **May**: I can handle a rotation if it is clear.
+- [54] **Asuka**: A rotation ensures no one is stuck with it forever.
+## Round 3
+- [60] **Rin**: Option B seems best. No permanent smell.
+- [61] **Midori**: Option A is cheaper, but the hours are tough.
+- [62] **Shunichi**: Option B spreads the load. I prefer it.
+- [63] **May**: Option B is fair. I can manage the rotation.
+- [64] **Asuka**: Option B is the only one that is truly equal.
+- [65] **Rin**: @Asuka, yes, equality is key.
+- [66] **Midori**: @Shunichi, I agree. It keeps the peace.
+- [67] **Shunichi**: @May, let's go with the rotation.
+- [68] **May**: @Rin, I am in. Let's do it.
+- [69] **Asuka**: @Midori, the cost is lower than building.
+- [70] **Rin**: I vote for B.
+- [71] **Midori**: I vote for B.
+- [72] **Shunichi**: I vote for B.
+- [73] **May**: I vote for B.
+- [74] **Asuka**: I vote for B.
+- [75] **Rin**: Unanimous.
+- [76] **Midori**: Great.
+- [77] **Shunichi**: Done.
+- [78] **May**: Finally.
+- [79] **Asuka**: Agreed.
+### Vote
+- Rin -> B
+- Midori -> B
+- Shunichi -> B
+- May -> B
+- Asuka -> B
+## Result
+- adopted: B

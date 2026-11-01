@@ -1,0 +1,73 @@
+# shared_living_0004__single-batch (shared_living)
+
+## Round 1
+- [5] **Sakura**: I want to know how the money works so nobody gets stuck with extra costs.
+- [6] **Victoria**: I need to see the total cost before we agree to anything, to avoid surprises.
+- [7] **Midori**: I am curious about how the space affects our time together versus alone.
+- [8] **Toshio**: I am worried about how much time we lose just getting to the place.
+- [9] **Daisuke**: I need to know about the bathroom and where I can sit without being on a bed.
+- [10] **Sakura**: @Victoria That makes sense. I also want to check how last year's separate rooms cost.
+- [11] **Victoria**: @Sakura Agreed. I will look at the all-in rates versus buying meals separately.
+- [12] **Midori**: I will check the time alone in the shared-house year and how last year's days ran.
+- [13] **Toshio**: I will look at ferry sailings and train time to see the travel burden.
+- [14] **Daisuke**: I will check bathing hours and bathroom provision, and inn mealtimes and room arrangements.
+- [15] **Sakura**: @Daisuke That sounds important. I hope it helps you sleep better.
+- [16] **Victoria**: @Toshio If the travel is too long, we might lose the whole point of the trip.
+- [17] **Midori**: I think understanding the rhythm of the days is key for our group harmony.
+- [18] **Toshio**: @Victoria Yes. I will also check getting around by train and bus.
+- [19] **Daisuke**: I am a bit nervous, but I will try to be clear about what I need.
+- [20] **Sakura**: Okay, let's see what we find out. I am excited to plan this properly.
+- [21] **Victoria**: I will keep my notes organized so we can compare the numbers easily.
+- [22] **Midori**: I will try to look at the emotional side of the logistics too.
+- [23] **Toshio**: I will focus on the efficiency of the movement.
+- [24] **Daisuke**: Thank you for listening. I will do my best to be specific.
+## Round 2
+- [35] **Sakura**: I found that separate rooms cost nearly 8,000 yen more for some people last time.
+- [36] **Victoria**: I saw that offshore houses are about 5,400 yen a head a night, with food on top.
+- [37] **Midori**: Last year, two of us didn't meet from breakfast to dinner. That felt wrong.
+- [38] **Toshio**: The ferry takes two days total. The train to the spa is only ninety minutes.
+- [39] **Daisuke**: The island houses have one bathroom for everyone, and the water runs cold.
+- [40] **Sakura**: @Victoria So the island is cheaper per head, but we still pay for food separately?
+- [41] **Victoria**: @Sakura Yes. But the all-in rate charges the light eater the same as the big eater.
+- [42] **Midori**: @Toshio Ninety minutes is much better than two days. I prefer the train option.
+- [43] **Toshio**: @Midori The city has trains every few minutes, so we don't have to plan ahead.
+- [44] **Daisuke**: @Midori The inn has fixed mealtimes. Dinner at six, breakfast at half seven.
+- [45] **Sakura**: I like that the city lets us arrange our own routes. It feels fairer.
+- [46] **Victoria**: I am concerned about the hidden costs in the city if we buy meals separately.
+- [47] **Midori**: The shared house year meant no time alone. The town with streets absorbs that better.
+- [48] **Toshio**: The bus in the spa valley stops before seven. That might be restrictive.
+- [49] **Daisuke**: The city room has a door and no timetable. That sounds much better for me.
+- [50] **Sakura**: I think the city break might be the best balance for everyone.
+- [51] **Victoria**: I need to be sure the total cost is predictable. The city bed is 12,000 to 20,000.
+- [52] **Midori**: I agree. The hot spring town feels too rigid with the fixed mealtimes.
+- [53] **Toshio**: The city is efficient. We can move without waiting for a bus or ferry.
+- [54] **Daisuke**: I am relieved to hear the city has private rooms. I can sleep better there.
+## Round 3
+- [60] **Sakura**: So we have three options: Island, City, or Hot Spring Town.
+- [61] **Victoria**: I am leaning towards the City, but I want to confirm the cost structure.
+- [62] **Midori**: I think the City Break allows for the best mix of togetherness and alone time.
+- [63] **Toshio**: The City is the most efficient. We lose the least time to travel.
+- [64] **Daisuke**: I am very happy with the City option. The private room is essential for me.
+- [65] **Sakura**: @Victoria The city bed cost varies, but we can split the bill evenly if we book together.
+- [66] **Victoria**: @Sakura That works. I can accept the range if we agree on a budget cap.
+- [67] **Midori**: I am glad we are all on the same page about the City.
+- [68] **Toshio**: I agree. Let's not overthink the minor details. The City is the clear winner.
+- [69] **Daisuke**: I am a bit shy, but I really want to go to the City.
+- [70] **Sakura**: I will vote for the City Break. It feels the most fair and flexible.
+- [71] **Victoria**: I will also vote for the City Break. The predictability is manageable.
+- [72] **Midori**: I vote for the City Break. It respects our need for both connection and space.
+- [73] **Toshio**: I vote for the City Break. It is the most logical choice.
+- [74] **Daisuke**: I vote for the City Break. Thank you for understanding my needs.
+- [75] **Sakura**: It looks like we are all voting for the City.
+- [76] **Victoria**: Yes, it seems unanimous. I am satisfied with this decision.
+- [77] **Midori**: I am happy we found a place that works for everyone.
+- [78] **Toshio**: Good. We can start planning the routes now.
+- [79] **Daisuke**: I am excited. I think I will sleep well this time.
+### Vote
+- Sakura -> B
+- Victoria -> B
+- Midori -> B
+- Toshio -> B
+- Daisuke -> B
+## Result
+- adopted: B

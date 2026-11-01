@@ -1,0 +1,73 @@
+# shared_living_0020__single-batch (shared_living)
+
+## Round 1
+- [5] **Minako**: I need to know the actual hours. I’m checking the stopwatch timing and the absences on the wall calendar.
+- [6] **Benjamin**: The current setup feels unfair. I’ll look at the fortnight's watch on kitchen use and the absences on the wall calendar.
+- [7] **Sakura**: I hate guessing what state the rooms are in! I’m checking what each housemate counts as done and the bathroom grout.
+- [8] **Shizue**: I’m worried about the costs. I’ll check the bathroom spray stock and the management office rate sheet.
+- [9] **Servas**: I care about how we talk. I’m checking the rows recorded in the house chat and the note left by the previous tenants.
+- [10] **Minako**: @Benjamin, if two people are away, does the work just pile up on the rest of us?
+- [11] **Benjamin**: @Minako, exactly. I want to see if the people who cook are also the ones cleaning.
+- [12] **Sakura**: @Shizue, do you think the spray is running out because we’re not using it right?
+- [13] **Shizue**: @Sakura, I hope not. I just want to know who is paying for it.
+- [14] **Servas**: @Minako, hours matter, but so does the silence. I’m looking for where the silence breaks.
+- [15] **Minako**: @Servas, silence is expensive if it means I’m doing double the work.
+- [16] **Benjamin**: @Minako, I agree. We need data, not just feelings.
+- [17] **Sakura**: @Benjamin, data is boring! I just want the bathroom to not smell bad!
+- [18] **Shizue**: @Sakura, I understand. But money is also a worry. Let’s see what the receipts say.
+- [19] **Servas**: @Sakura, a good smell is a start. But a good relationship is the goal.
+- [20] **Minako**: I’m set. I’ll check the stopwatch timing and the absences on the wall calendar.
+- [21] **Benjamin**: I’ll check the fortnight's watch on kitchen use and the absences on the wall calendar.
+- [22] **Sakura**: I’m checking what each housemate counts as done and the bathroom grout after the July scrub.
+- [23] **Shizue**: I’ll check the bathroom spray stock and the management office rate sheet.
+- [24] **Servas**: I’m checking the rows recorded in the house chat and the note left by the previous tenants.
+## Round 2
+- [35] **Minako**: The stopwatch shows forty-seven minutes for the kitchen alone. Plus, two of us are away most months. That’s a lot of hours.
+- [36] **Benjamin**: @Minako, the kitchen watch confirms it. Two or three people cook, but everyone cleans. That’s the imbalance.
+- [37] **Sakura**: @Minako, forty-seven minutes? That’s forever! And the grout gets dirty again in eleven days!
+- [38] **Shizue**: @Sakura, the receipts show we spend 2,300 yen a month on spray, often buying duplicates. It’s a leak.
+- [39] **Servas**: @Shizue, money leaks are bad, but the chat logs show our rows start with reminders. That’s the real leak.
+- [40] **Minako**: @Servas, reminders are a symptom. The symptom is that the work isn’t distributed by usage.
+- [41] **Benjamin**: @Minako, agreed. If we don’t fix the usage-to-work ratio, any rota will fail.
+- [42] **Sakura**: @Benjamin, but what if we just hire someone? Then nobody has to remind anyone!
+- [43] **Shizue**: @Sakura, hiring someone costs 4,200 yen an hour. That’s more than our spray budget.
+- [44] **Servas**: @Shizue, the previous tenants’ note says they divided rooms permanently and stopped speaking. We must avoid that.
+- [45] **Minako**: @Servas, permanent division sounds like a trap. I need a system that accounts for absences.
+- [46] **Benjamin**: @Minako, a fixed rota ignores the fact that some of us are rarely here.
+- [47] **Sakura**: @Benjamin, so what do we do? I don’t want to guess if the bathroom is clean!
+- [48] **Shizue**: @Sakura, I think we need to look at the options carefully. I don’t want to be out of pocket.
+- [49] **Servas**: @Shizue, I agree. We need an option that keeps us talking, not just cleaning.
+- [50] **Minako**: I’m ready to see the options. I need one that respects the hours and the absences.
+- [51] **Benjamin**: I’m ready. I need one that matches the work to the usage.
+- [52] **Sakura**: I’m ready! I just want a clean bathroom and no guessing!
+- [53] **Shizue**: I’m ready. I need to know the monthly cost and who pays.
+- [54] **Servas**: I’m ready. I need to know if we’ll still be friends in a year.
+## Round 3
+- [60] **Minako**: Option A is a fixed rota. But if I’m away, who covers my week? It doesn’t solve the absence problem.
+- [61] **Benjamin**: @Minako, Option A is rigid. It doesn’t account for the fact that two of us are away most months.
+- [62] **Sakura**: @Benjamin, Option B is a paid service! That means no guessing! But is it too expensive?
+- [63] **Shizue**: @Sakura, 4,200 yen an hour is steep. But if it saves us the 2,300 yen in supplies and the time, maybe?
+- [64] **Servas**: @Shizue, Option B removes the need for reminders. That might save our relationships.
+- [65] **Minako**: @Servas, but who handles the arrangements? If it’s on me, I’m just swapping cleaning for admin.
+- [66] **Benjamin**: @Minako, the terms say someone must be in to tidy beforehand. That’s a hidden burden.
+- [67] **Sakura**: @Benjamin, but I don’t have to tidy! The cleaner does! I just have to be home!
+- [68] **Shizue**: @Sakura, being home is a burden too. And the bill goes to one person who collects from the rest.
+- [69] **Servas**: @Shizue, that collection process is where the rows start. We need to be careful.
+- [70] **Minako**: @Servas, Option C is standing assignments. I could take the living room, which is only twenty minutes.
+- [71] **Benjamin**: @Minako, but the kitchen is forty-seven minutes. Who takes that? It’s the most used room.
+- [72] **Sakura**: @Benjamin, I don’t want the kitchen! It’s grim! I want the bathroom, but it gets dirty fast!
+- [73] **Shizue**: @Sakura, the bathroom is the most expensive to maintain. I don’t want to be stuck with that.
+- [74] **Servas**: @Shizue, the previous tenants chose C and stopped speaking. I strongly advise against it.
+- [75] **Minako**: I’m leaning towards B, but I’m worried about the admin burden.
+- [76] **Benjamin**: I’m leaning towards B, but I need to know how the invoice is split.
+- [77] **Sakura**: I’m voting for B! No more guessing! No more grim kitchens!
+- [78] **Shizue**: I’m voting for B. If we split the cost fairly, it’s worth it.
+- [79] **Servas**: I’m voting for B. It removes the friction that causes rows.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Sakura -> B
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

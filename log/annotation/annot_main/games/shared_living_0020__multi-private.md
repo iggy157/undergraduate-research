@@ -1,0 +1,73 @@
+# shared_living_0020__multi-private (shared_living)
+
+## Round 1
+- [5] **Minako**: Since our current habit isn't working, we need a sustainable system for the year. I suggest we look into the actual time and effort required before we decide on a new arrangement.
+- [6] **Benjamin**: I agree, Minako. A system built on guesswork is destined to fail. It would be prudent to gather some empirical data on our current habits before we commit to a year-long contract with ourselves.
+- [7] **Sakura**: I'm excited to help! I want to know why the rooms change so much. Let's find out what's really going on! I'll help look for clues!
+- [8] **Shizue**: It is so lovely to see everyone so eager to help. I agree that we should be fair to one another. Let's make sure we understand the costs and the effort involved so everyone feels comfortable.
+- [9] **Servas**: It is a pleasure to see such harmony. Let us remember that the strength of a home lies not in the cleanliness of its floors, but in the kindness we show one another. Let us seek clarity together.
+- [10] **Minako**: I believe we should start by examining the facts. I will look into the stopwatch timing of a full pass and the standard terms of the outside firm to compare our options.
+- [11] **Benjamin**: To ensure we aren't merely rearranging the deck chairs on the Titanic, I shall examine a fortnight's watch on kitchen use and the absences on the wall calendar. Let's see who is actually home to make the mess.
+- [12] **Sakura**: I want to solve the mystery of the messy rooms! I'll check what each housemate counts as done and the rows recorded in the house chat to see if there are any secret clues!
+- [13] **Shizue**: I think it would be helpful to see the management office rate sheet and billing, as well as the bathroom spray stock and the tin's receipts. It is important that we are all fair with our expenses.
+- [14] **Servas**: I shall look into the note left by the previous tenants and the bathroom grout after the July scrub. Wisdom often hides in the experiences of those who walked this path before us.
+- [15] **Minako**: It seems we have a comprehensive plan. By dividing these tasks, we can cover both the financial and physical aspects of the chores. I look forward to seeing what the data reveals.
+- [16] **Benjamin**: Indeed. It is far more elegant to let the evidence guide us than to rely on the fickle nature of memory. I suspect we may find some rather illuminating discrepancies once the numbers are in.
+- [17] **Sakura**: Yay! This is like being a detective! I can't wait to see if everyone has a different idea of what "clean" actually means. It's going to be so interesting!
+- [18] **Shizue**: I am glad we are all working together so harmoniously. I hope the information we find helps us create a peaceful arrangement where everyone feels appreciated and no one feels burdened.
+- [19] **Servas**: Patience is a virtue, my friends. As we gather these fragments of information, let us keep our hearts open. The goal is not to find fault, but to build a bridge of understanding for the year ahead.
+- [20] **Minako**: Since we have all selected our areas of investigation, let us proceed. I will wait for the findings so we can analyze the time and cost implications objectively.
+- [21] **Benjamin**: Quite. I shall retreat into my studies and await the results. I trust that once the data is laid bare, the most logical path forward will reveal itself to us all.
+- [22] **Sakura**: Me too! I'm going to go hunt for those clues right now! I hope I find something super surprising! See you all soon with my detective report!
+- [23] **Shizue**: I shall do the same. I will look into the bills and receipts with a gentle heart, hoping to find a way for us all to share the costs comfortably. See you all soon.
+- [24] **Servas**: Go in peace, everyone. Let us approach our findings with grace and a spirit of generosity. I shall await the results, keeping our shared friendship as my primary guide. Until we meet again.
+## Round 2
+- [35] **Minako**: The timing shows a full pass takes over an hour and a half. Additionally, an outside firm requires us to tidy up first, meaning it doesn't fully remove the labor. We must consider this time burden.
+- [36] **Benjamin**: Interestingly, the calendar and kitchen usage suggest a significant imbalance. It appears some of us are merely guests in our own home, while a few are doing the heavy lifting—both in cooking and, presumably, cleaning.
+- [37] **Sakura**: I found the secret! Everyone has a different idea of what "done" means! That's why the rooms keep changing! Also, the big fights in the chat always start because someone forgot to do something. It's a total mystery!
+- [38] **Shizue**: It seems we have a few things to sort out. I noticed we are spending about 2,300 yen a month on supplies, and some things are being bought twice. We should find a way to manage this together.
+- [39] **Servas**: It seems we are uncovering the roots of our friction. I found that the previous tenants suffered a rift by dividing rooms permanently, and our bathroom struggles against a stubborn lack of ventilation. Let us be mindful of these warnings.
+- [40] **Minako**: @Benjamin, if the usage is imbalanced, a flat rotation might be unfair. However, @Sakura's point about differing standards means we need a clear definition of "done" to avoid the conflicts you mentioned.
+- [41] **Benjamin**: Precisely, Minako. A rigid rotation is a blunt instrument for a nuanced problem. If one person is absent for a month while another is cooking three meals a day, a "fair" schedule becomes an exercise in absurdity.
+- [42] **Sakura**: @Benjamin, that sounds boring! But @Minako is right! If we all agree on a "Super Clean List," then nobody has to guess and we won't have any more scary fights in the chat! Right?
+- [43] **Shizue**: That sounds like a wonderful idea, Sakura. A little list would be so helpful. I also wonder if we could find a simple way to share the cost of our supplies so no one feels burdened.
+- [44] **Servas**: A list is a fine start, but let us ensure it is a guide, not a law. If we focus only on the rules, we may forget the people. Let us choose a path that preserves our friendship.
+- [45] **Minako**: If we want to reduce the time burden, we should consider a hybrid approach. We could define the standards clearly and then decide whether to rotate tasks or hire a firm for the heaviest work.
+- [46] **Benjamin**: While a hybrid approach is logical, Minako, we must first address the disparity in usage. It would be quite perverse to ask someone who is rarely home to clean up after those of us who live here permanently.
+- [47] **Sakura**: But if we have a list, it doesn't matter who is home more! We can just check it off like a game! That way, the bathroom won't be scary and the kitchen will always be sparkly!
+- [48] **Shizue**: I think Sakura's idea of a game is very sweet. Perhaps we could combine that with a small shared fund for our supplies? That way, we can avoid buying things twice and keep everything fair.
+- [49] **Servas**: A shared fund is a gentle way to ease the mind, Shizue. However, let us be cautious. If we treat our home like a ledger or a game, we may lose the spirit of mutual care. Let us seek a balance.
+- [50] **Minako**: We have a clear picture now: the time commitment is significant, standards vary, and usage is uneven. We need a system that balances these facts without creating more resentment. Let us move to the final options.
+- [51] **Benjamin**: Indeed. We have the data; now we simply need the courage to apply it. I look forward to seeing options that acknowledge the reality of our presence and contributions, rather than a fantasy of perfect equality.
+- [52] **Sakura**: I'm ready! I hope the options have a big checklist so we can all be super-detectives of cleanliness! Let's pick the one that makes the house the happiest and the least scary!
+- [53] **Shizue**: I agree. Let us look at the options with kindness and openness. I hope we can find a way that keeps our home peaceful and ensures everyone feels supported and treated fairly.
+- [54] **Servas**: The time for gathering knowledge has passed, and the time for wisdom begins. Let us choose the path that fosters peace and laughter, ensuring that our bonds remain unbroken long after the floors are clean.
+## Round 3
+- [60] **Minako**: Option A is too rigid given the usage imbalances Benjamin noted. Option C risks the rift Servas mentioned. Option B is the most efficient, provided we accept the tidying labor. I vote for Option B.
+- [61] **Benjamin**: Option B is a seductive shortcut, but it ignores the root cause. If we simply outsource the labor, we still have the issue of who creates the mess and who tidies for the cleaner. I vote for Option B.
+- [62] **Sakura**: I don't like Option C because it sounds like the scary rift Servas talked about! Option B is okay, but Option A is like a game! I vote for Option A!
+- [63] **Shizue**: Option B seems very convenient, but I worry about how we will handle the payments. If we choose B, can we also agree on a simple way to share the supply costs? I vote for Option B.
+- [64] **Servas**: Option C is a path to silence and distance, as the previous tenants learned. Option A may breed resentment. Option B allows us to focus on our friendship rather than our chores. I vote for Option B.
+- [65] **Minako**: @Sakura, while a game is fun, the time burden is too high for a simple rota. Since four of us agree that Option B is the most sustainable path, it seems the decision is clear.
+- [66] **Benjamin**: It is a rare occasion when we achieve such swift consensus. While I maintain my skepticism regarding the tidying logistics, the logic of efficiency prevails. I shall concede to the majority.
+- [67] **Sakura**: Aww, everyone is picking B! I guess a professional cleaner is like a magic trick for the house! If we do B, can we still have a little checklist for the tidying part? I still want it to be a game!
+- [68] **Shizue**: That is a lovely idea, Sakura. A little checklist for tidying would keep us all on the same page. As long as we also settle our supply costs fairly, I think we will be very happy.
+- [69] **Servas**: A checklist is a wonderful way to maintain clarity without the weight of a law, Sakura. Let us embrace this magic trick with gratitude, ensuring our hearts remain as clean as our home.
+- [70] **Minako**: Since we are in agreement, we will adopt Option B. We can integrate Sakura's checklist for tidying and Shizue's shared fund for supplies to ensure the system is comprehensive and fair.
+- [71] **Benjamin**: A pragmatic compromise. By combining the professional service with a checklist and a fund, we address the labor, the standards, and the finances in one stroke. It is a reasonably elegant solution to a messy problem.
+- [72] **Sakura**: Yay! A magic cleaner, a checklist game, and a money jar! Now the bathroom won't be scary anymore and the kitchen will stay sparkly! I'm so happy we solved the mystery together!
+- [73] **Shizue**: I am so glad we could all agree. It warms my heart to see us caring for one another this way. I will be more than happy to help organize our little money jar.
+- [74] **Servas**: It is a beautiful thing to see such a resolution. By choosing a path of cooperation over conflict, we have ensured that our home remains a sanctuary of peace. May our friendship flourish.
+- [75] **Minako**: The decision is final. We will proceed with Option B, supplemented by a tidying checklist and a shared supply fund. I will help coordinate the initial setup to ensure the transition is smooth for everyone.
+- [76] **Benjamin**: I shall lend my assistance in drafting the checklist. If we are to avoid the "absurdity" of unfair labor, we must be precise about what constitutes "tidying" before the professionals arrive. Logic, after all, is the best deterrent for resentment.
+- [77] **Sakura**: I'll help too! I can draw cute little pictures next to the things on the checklist to make it look like a treasure map! This is the best detective mission ever!
+- [78] **Shizue**: I will make sure we have a lovely little jar for our supplies and a clear way to track our contributions. Thank you all for being so thoughtful. I look forward to our peaceful home.
+- [79] **Servas**: Your enthusiasm and diligence are a gift to this house. Let us move forward with light hearts, remembering that the true beauty of our home is the love we share. Peace be with you all.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Sakura -> B
+- Shizue -> B
+- Servas -> B
+## Result
+- adopted: B

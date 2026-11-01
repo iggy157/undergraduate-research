@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m worried about where the money actually goes! I want to check the loan transport costs and the mount-making charges to see the real expenses.
+- [6] **Victoria**: I need to know who is actually present. I will examine the conservation lab staffing and the volunteer roster to see who remains.
+- [7] **Shion**: I observe the gap between ambition and attendance. I will review the weekend head counts and the visitor comment slips to verify actual engagement.
+- [8] **Asuka**: I need to verify the structural limits before committing the space. I will examine the structural survey of the suspended bay and the maintenance log for powered displays.
+- [9] **Shizue**: I worry about the quiet moments when plans unravel. I will examine the lender paperwork against shipping cut-offs and the loan transport costs over three seasons.
+- [10] **Mio**: @Shizue, you’re checking transport costs too? That’s smart! I’ll stick with my two choices to see where the money really goes.
+- [11] **Victoria**: @Mio, your focus on costs is vital. I will stick with my two choices to understand the human capacity behind the work.
+- [12] **Shion**: @Mio, numbers are cold. I need the pulse of the crowd. I will stick with my two choices to see who actually returns.
+- [13] **Asuka**: @Mio, costs are necessary, but structural integrity is non-negotiable. I will stick with my two choices to verify the space can actually hold the weight.
+- [14] **Shizue**: @Mio, I appreciate your diligence. I will stick with my two choices to understand where the delivery process truly falters.
+- [15] **Mio**: @Asuka, I hear you! Structure is key. I’ll stick with my two choices to see where the money really goes.
+- [16] **Victoria**: @Asuka, structure is vital, but a building without people is just a shell. I will stick with my two choices to see who remains.
+- [17] **Shion**: @Victoria, people are the metric. I will stick with my two choices to see who actually returns.
+- [18] **Asuka**: @Victoria, a shell without integrity is a liability. I will stick with my two choices to ensure the floor can bear the load.
+- [19] **Shizue**: @Victoria, I agree. People are the heart of it. I will stick with my two choices to see where the delivery process truly falters.
+- [20] **Mio**: @Shion, I agree! Let’s see if the numbers match the crowd. I’ll stick with my two choices to find the hidden costs.
+- [21] **Victoria**: @Shion, the crowd is vital, but they need someone to guide them. I will stick with my two choices to see who remains.
+- [22] **Shion**: @Mio, the crowd is the only honest witness. I will stick with my two choices to see who actually returns.
+- [23] **Asuka**: @Shion, the crowd is data, but the floor is physics. I will stick with my two choices to verify the space can actually hold the weight.
+- [24] **Shizue**: @Shion, the crowd is vital, but the paperwork is the quiet trap. I will stick with my two choices to see where delivery truly falters.
+## Round 2
+- [35] **Mio**: @Shizue, my findings are shocking! Transport costs ate a third of the installation budget! Plus, joiner rates spiked. We need to avoid expensive custom mounts.
+- [36] **Victoria**: @Mio, costs are critical, but I found the lab has one person for two hundred pieces. We cannot install what we cannot stabilize.
+- [37] **Shion**: @Victoria, your staffing crisis is a symptom. My data shows the crowd returns for presence, not objects. We must prioritize exhibitions with active human engagement.
+- [38] **Asuka**: @Victoria, your staffing gap is a symptom. My survey caps the bay at four hundred kilos. The last stonework required shoring. We must avoid heavy loads.
+- [39] **Shizue**: @Mio, your cost finding mirrors mine. Two recent openings slipped because paperwork arrived after shipping cut-offs. We must prioritize local loans to avoid these delays.
+- [40] **Mio**: @Shizue, that’s terrifying! If paperwork slips, we pay for idle couriers. We must pick local loans to keep the budget safe and the schedule tight!
+- [41] **Victoria**: @Shion, presence is vital, but my volunteer data shows the town history circle is already committed to monthly walks. We cannot double-book them for daily gallery duty.
+- [42] **Shion**: @Victoria, their absence is the point. The crowd wants a curator, not a tour guide. We must select an exhibition that demands active, daily human presence.
+- [43] **Asuka**: @Shion, presence is secondary to physics. My maintenance log shows four opening-hour failures last season. We must avoid powered displays that risk roping off the bay.
+- [44] **Shizue**: @Shion, presence is lovely, but a delayed shipment is a closed door. I must ensure the paperwork arrives before the couriers do.
+- [45] **Mio**: @Asuka, four failures is scary! If the bay is roped off, we lose visitors. We need a safe, static display to keep the doors open and the budget safe!
+- [46] **Victoria**: @Asuka, I hear the risk. But my data shows the town history circle is already committed to monthly walks. We cannot double-book them for daily gallery duty.
+- [47] **Shion**: @Asuka, physics is a constraint, not a reason to ignore the crowd. My data proves presence drives return visits. We must balance safety with human engagement.
+- [48] **Asuka**: @Shion, physics is not a constraint to balance; it is a limit. If the bay fails, the crowd has nowhere to stand. We must prioritize structural safety over engagement.
+- [49] **Shizue**: @Asuka, I agree. A safe bay is essential. But my data shows the paperwork is the true bottleneck. We must choose local loans to keep the doors open.
+- [50] **Mio**: @Shizue, I agree! Local loans mean no transport fees and no paperwork panic. It’s the only way to keep our budget from vanishing into the courier’s pocket!
+- [51] **Victoria**: @Shizue, local loans solve the paperwork, but they do not solve the staffing. We have one conservator and a committed volunteer circle. Who stands in the room?
+- [52] **Shion**: @Victoria, the crowd does not need a conservator; they need a voice. My data proves presence drives return visits. We must select an exhibition that demands active, daily human engagement.
+- [53] **Asuka**: @Victoria, the building must function before it entertains. If the floor fails, no voice matters. We must select an exhibition that respects the structural and mechanical limits.
+- [54] **Shizue**: @Victoria, you are right. We need steady hands. But local loans mean fewer objects to stabilize. Let us choose a display that fits our current capacity.
+## Round 3
+- [60] **Mio**: @Shizue, I’m leaning toward A! Local textiles mean zero transport fees and no custom mounts. It’s the only option that keeps our budget from vanishing into the courier’s pocket!
+- [61] **Victoria**: @Mio, A is promising, but the demonstration sessions require daily human presence. My data shows the volunteer circle is already committed. Who will actually stand in the room?
+- [62] **Shion**: @Victoria, the craftspeople are the presence. They are not volunteers; they are the exhibition. A is the only option that satisfies the crowd’s need for a living voice.
+- [63] **Asuka**: @Shion, A is static. No overhead rigging, no powered mechanisms. It respects the four-hundred-kilo limit and avoids the maintenance failures I documented.
+- [64] **Shizue**: @Shion, you are right. The craftspeople are the heart. And because they are local, the paperwork is simple. A keeps our doors open and our promises kept.
+- [65] **Mio**: @Victoria, the craftspeople are the presence! They are local, so no transport fees. A is the only choice that keeps our budget safe and the doors open!
+- [66] **Victoria**: @Mio, the craftspeople are the presence, but they are not our staff. My data shows the town history circle is already committed to monthly walks. We cannot double-book them for daily gallery duty.
+- [67] **Shion**: @Victoria, you confuse the volunteer circle with the artisans. The craftspeople are the exhibition’s core, not a staffing gap. A is the only choice that delivers the living presence my data demands.
+- [68] **Asuka**: @Victoria, the artisans are external partners, not our staff. A requires no powered displays or heavy rigging. It is the only option that respects the structural limits I verified.
+- [69] **Shizue**: @Victoria, I understand your worry. But A’s local nature means no distant paperwork to slip. The artisans are partners, not a burden on our thin staff.
+- [70] **Mio**: @Shion, exactly! The artisans are the show, not a staffing problem. A is the only choice that keeps our budget safe and the doors open. I vote for A!
+- [71] **Victoria**: @Shion, you are right. The artisans are partners, not our staff. A respects our structural limits and avoids the paperwork trap. I vote for A.
+- [72] **Shion**: @Mio, the data is unanimous. A is the only choice that honors the crowd’s need for presence. I vote for A.
+- [73] **Asuka**: @Mio, A is the only option that respects the structural and mechanical limits I verified. No rigging, no powered failures. I vote for A.
+- [74] **Shizue**: @Mio, I agree. A is the only choice that keeps our doors open and our promises kept. The local nature ensures no distant paperwork slips. I vote for A.
+- [75] **Mio**: @Shizue, I’m so happy we all agree! A is the perfect choice. No hidden costs, no broken equipment. I confirm my vote for A!
+- [76] **Victoria**: @Shizue, I confirm my vote for A. The artisans provide the presence, and the local scope respects our staffing reality. Let us proceed.
+- [77] **Shion**: @Mio, the record is clear. A is the only choice that honors the crowd’s need for presence. I confirm my vote for A.
+- [78] **Asuka**: @Mio, the physics is satisfied. A is the only option that keeps the bay functional and the doors open. I confirm my vote for A.
+- [79] **Shizue**: @Mio, I am glad we are aligned. A honors our capacity and keeps the doors open. I confirm my vote for A.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

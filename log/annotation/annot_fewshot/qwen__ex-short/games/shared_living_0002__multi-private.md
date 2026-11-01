@@ -1,0 +1,73 @@
+# shared_living_0002__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to know what the corner is actually like to live beside, morning by morning.
+- [6] **Midori**: I need to understand the financial burden on each household before we agree to anything.
+- [7] **Shunichi**: I care less about the bins and more about whether we can still talk to each other after this.
+- [8] **May**: I’m curious how much time this actually eats into our mornings. I refuse to be the one constantly chasing everyone else.
+- [9] **Asuka**: I need to verify the physical layout. If one household bears the bulk of the burden, that is not equality.
+- [10] **Rin**: @Shunichi, I agree! We need to keep talking. @May, I hope the mornings don't get too messy for you.
+- [11] **Midori**: @Rin, I hear you. @Shunichi, harmony is vital. @May, I worry about the time cost too.
+- [12] **Shunichi**: @Midori, money is just paper. @Asuka, layout is just concrete. @Rin, let’s ensure the arrangement doesn’t make us strangers.
+- [13] **May**: @Shunichi, I appreciate the sentiment, but I need concrete hours, not just vibes. @Asuka, please confirm the physical setup is actually feasible for us.
+- [14] **Asuka**: @May, I will verify the measurements. @Shunichi, concrete shapes the concrete. @Rin, I will check the frontages to ensure fairness.
+- [15] **Rin**: @Asuka, checking the frontages is smart! I want to make sure nobody gets stuck with the worst spot. @Midori, I hope the money works out fairly for everyone too.
+- [16] **Midori**: @Rin, I agree. Fairness is key. @Asuka, the frontages will help us see who carries what. @May, I hope the time cost is manageable for you.
+- [17] **Shunichi**: @May, concrete hours are just numbers. I care about the silence between them. @Rin, let’s see if the layout allows for casual conversation, not just waste disposal.
+- [18] **May**: @Shunichi, silence is just unmeasured time. I need to know the exact hours so I can plan my life. @Rin, let’s see if the layout actually works for us.
+- [19] **Asuka**: @May, I will check the frontages to ensure the burden is distributed fairly. @Shunichi, I will verify the physical layout to confirm no one is disadvantaged.
+- [20] **Rin**: I will look into the ward complaint log for this point. I will also check the truck arrival time from the crew leader.
+- [21] **Midori**: I will look into the ward subsidy and last year's shelter costs. I will also check the block ledger of refuse-point expenses.
+- [22] **Shunichi**: I will look into the statements at the residents' meeting. I will also check the ward filing requirements per the installations clerk.
+- [23] **May**: I will look into the supervised mornings on the next lane. I will also check the station block's meeting minutes.
+- [24] **Asuka**: I will look into the measurements of the five frontages. I will also check the ward complaint log for this point.
+## Round 2
+- [35] **Rin**: - **Rin**: The truck comes at seven forty! That is before I even wake up. @May, how will you manage that early start?
+- [36] **Midori**: The subsidy covers forty percent, capped at ninety thousand. Last year’s shelters averaged two hundred forty-eight thousand. @Rin, that early truck time is tough.
+- [37] **Shunichi**: @Midori, forty percent is a drop in the bucket. @Rin, the truck time is irrelevant if we stop fighting over who bags what.
+- [38] **May**: @Rin, I found the next lane spends fifty minutes per morning. That is my baseline. @Midori, forty percent subsidy is nice, but I need to know the actual labor hours.
+- [39] **Asuka**: @Midori, the subsidy is irrelevant if the burden is unequal. @Rin, the truck time is a symptom, not the cause.
+- [40] **Rin**: @Asuka, the truck time is the cause of the smell! @Midori, if the subsidy is capped, who pays the rest?
+- [41] **Midori**: @Rin, the rest is split five ways. @May, the ledger shows thirty-four thousand yen yearly in extra fees from open bags.
+- [42] **Shunichi**: @Midori, thirty-four thousand in fines is just the price of our silence. @Rin, the smell is a symptom of our refusal to talk.
+- [43] **May**: @Midori, thirty-four thousand in fines is just the cost of bad habits. @Shunichi, the station block argued over a latch within two years. I need a system that doesn't rely on goodwill.
+- [44] **Asuka**: @May, the complaint log shows eleven of fourteen entries came from one household. That is not a habit; it is a structural imbalance.
+- [45] **Rin**: @Asuka, one household filing eleven complaints? That sounds unfair! @Shunichi, maybe we need a spot where we can actually chat while sorting?
+- [46] **Midori**: @Asuka, that imbalance explains the tension. @Rin, a chat spot sounds lovely, but we must ensure the costs are truly shared.
+- [47] **Shunichi**: @Rin, a chat spot is a fantasy. @Asuka, eleven complaints from one house means the current layout is broken. @May, goodwill fails; structure endures.
+- [48] **May**: @Shunichi, structure is just a fancy word for who does the work. @Asuka, if one house files most complaints, the layout is definitely broken.
+- [49] **Asuka**: @May, structure determines who does the work. @Shunichi, the layout is broken because it concentrates the burden. We must fix the geometry.
+- [50] **Rin**: @Shunichi, I think a small bench could work! @Asuka, if we fix the geometry, maybe the smell goes away too?
+- [51] **Midori**: @Rin, a bench is nice, but the ledger shows thirty-four thousand yen in avoidable fees. @Asuka, fixing the geometry must also fix the budget.
+- [52] **Shunichi**: @Rin, a bench is a band-aid. @Asuka, geometry is just a word for who gets stuck with the stink. @May, structure is only as good as the people who ignore it.
+- [53] **May**: @Shunichi, people ignore structure when it is unfair. @Asuka, if the geometry is fixed, the complaints should drop. Let’s see the options.
+- [54] **Asuka**: @May, I agree. The geometry dictates the burden. @Midori, the budget must reflect the physical reality. Let us see the options.
+## Round 3
+- [60] **Rin**: @May, Option B sounds like an adventure! Moving the bins around might actually be fun. @Shunichi, will we still get to chat if it moves?
+- [61] **Midori**: @Rin, moving it sounds chaotic. @Asuka, Option C costs two hundred forty-eight thousand, but the subsidy helps. @May, which option saves the most time?
+- [62] **Shunichi**: @Rin, moving it just moves the argument. @Midori, four months for a shed is a joke. @May, Option A is the only one that doesn’t require us to be friends.
+- [63] **May**: @Midori, Option A is fifty minutes a morning, twenty times a year. That is my limit. @Shunichi, I don’t need friends, I need a schedule.
+- [64] **Asuka**: @Midori, the subsidy does not fix the geometry. @Shunichi, Option B distributes the burden. @May, Option A concentrates it. I prefer B.
+- [65] **Rin**: @Asuka, I like that the burden moves! But @Shunichi, if it moves, do we still have a spot to talk? I want to keep our chats going!
+- [66] **Midori**: @Asuka, I worry about the cost of moving it. @Shunichi, Option A feels too rigid for our harmony. @May, I need to see the total budget for C.
+- [67] **Shunichi**: @Rin, the spot to talk is the lane, not the bin. @Asuka, moving it just moves the resentment. @May, Option A is the only one that lets us ignore each other politely.
+- [68] **May**: @Shunichi, ignoring each other is exactly what I want. @Asuka, moving it just moves the mess. I am sticking with A.
+- [69] **Asuka**: @May, Option A leaves the burden static. @Shunichi, resentment is a symptom of unfair geometry. @Rin, Option B ensures no single household is permanently disadvantaged.
+- [70] **Rin**: @Asuka, I agree! If the bins move, the smell moves too. @May, but Option A means I have to wake up super early. I hate that!
+- [71] **Midori**: @May, Option A is manageable if we rotate fairly. @Asuka, I worry B is too disruptive. @Rin, C offers stability, but the cost is high.
+- [72] **Shunichi**: @Rin, the lane is the spot. @Asuka, moving it just moves the grudge. @May, Option A is the only one that lets us coexist without speaking.
+- [73] **May**: @Shunichi, coexistence without speaking is my dream. @Rin, early mornings are the price of peace. I am voting for A.
+- [74] **Asuka**: @May, Option A is a trap. It locks the burden in place. @Shunichi, resentment is not a feature. I am voting for B.
+- [75] **Rin**: @May, I know you want peace, but I hate the early wake-up! @Asuka, I like that the smell moves with the bins. I am voting for B!
+- [76] **Midori**: @May, I understand your need for a schedule. @Asuka, B distributes the burden, but C offers stability. I am voting for C.
+- [77] **Shunichi**: @May, coexistence without speaking is a fantasy. @Asuka, moving it just moves the grudge. @Rin, I am voting for A.
+- [78] **May**: @Shunichi, fantasy or not, I am voting for A. @Asuka, I refuse to move my bins. @Midori, C is too expensive.
+- [79] **Asuka**: @May, refusing to move is refusing to be fair. @Shunichi, the grudge is the current layout. I am voting for B.
+### Vote
+- Rin -> B
+- Midori -> C
+- Shunichi -> A
+- May -> A
+- Asuka -> B
+## Result
+- adopted: A

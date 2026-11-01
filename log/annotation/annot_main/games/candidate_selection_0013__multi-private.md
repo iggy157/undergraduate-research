@@ -1,0 +1,73 @@
+# candidate_selection_0013__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. It is a pleasure to work with you all. To start, I think it would be wise to look at the decade of delivery schedules by project rationale and the weather days in the site diaries.
+- [6] **Yumi**: Hi everyone! I'm so excited to be here! To make sure we're making the best use of our space, I'd like to look into the booking data for specialist and general rooms and the post-occupancy review ratings!
+- [7] **George**: I believe we should consider the human element of these facilities. I would like to look into the staffing posts since the hiring freeze and the bench technicians' weekly manual routines.
+- [8] **Mizuki**: I agree that we need a balanced perspective. To understand the actual impact of past projects on the users, I will look into the post-occupancy review ratings and the survey findings in the older blocks.
+- [9] **Benjamin**: It is a pleasure to meet you all. To ensure our ambitions align with financial reality, I shall examine the tender records over three budget cycles and the renewal reserve for equipment bought earlier.
+- [10] **Shizue**: It seems we have a wonderful variety of perspectives already. I am curious to see if the schedules reveal any patterns in our delays. Does anyone else feel we should look into the room service records?
+- [11] **Yumi**: That sounds like a great idea, Shizue! I think knowing which rooms are out of service would really help us see the full picture. I'm really looking forward to seeing what we all find!
+- [12] **George**: I agree that room service records are useful, but I remain concerned about the burden on our current personnel. Let us see what the initial data reveals before we expand our scope further.
+- [13] **Mizuki**: @George, I agree. We should first analyze the data we've already selected. It will be more efficient to see the initial results before deciding if we need additional information.
+- [14] **Benjamin**: A prudent approach, indeed. Let us avoid the temptation of data gluttony and see if our current selections provide the clarity we seek. I look forward to the revelations.
+- [15] **Shizue**: You are all so thoughtful. I shall stick with my original choices for now, as I believe understanding our timing and the weather's impact will be very helpful for everyone.
+- [16] **Yumi**: I'm with you, Shizue! I'll stick with my choices too. I really want to see how people are actually using the rooms and if they're happy with them. This is going to be so interesting!
+- [17] **George**: I shall also maintain my selections. Understanding the daily routines of our technicians and the staffing levels is essential to ensure any new plan is actually sustainable for the people involved.
+- [18] **Mizuki**: I will also maintain my selections. By combining the survey findings with the post-occupancy reviews, I hope to uncover whether our previous investments truly met the needs of the users.
+- [19] **Benjamin**: I shall also remain steadfast in my choices. I suspect the gap between our projected budgets and the actual market costs may be quite illuminating. I await the results with keen interest.
+- [20] **Shizue**: It is lovely to see us all in agreement. I wish you all the best of luck with your research. I shall look forward to hearing what you discover in the next round.
+- [21] **Yumi**: Me too! I can't wait to hear what everyone finds. Let's all do our best to find the best plan for the campus! See you all in the next round!
+- [22] **George**: I agree. Let us proceed to the research phase. I look forward to seeing how the data reflects the reality of our staff's current workload. See you all soon.
+- [23] **Mizuki**: I agree. Let us move forward and see what the data reveals. I look forward to our next discussion. See you all soon.
+- [24] **Benjamin**: Indeed. Let us hope the data is as honest as we are hopeful. I shall see you all shortly, refreshed by the cold, hard facts of our financial history.
+## Round 2
+- [35] **Shizue**: It is interesting to see that projects based on comfort or appeal often slip by a year or more. I also noticed we lost six weeks to weather on recent outdoor work. Does this resonate with your findings?
+- [36] **Yumi**: That's so interesting, Shizue! I found that our specialist rooms are often empty, while general rooms are always full. Also, people are much happier when the finished spaces can be used by everyone, not just one department!
+- [37] **George**: My findings suggest a disconnect. While some staff have capacity, our bench technicians are burdened with manual tasks that should be automated. We must ensure any improvement doesn't simply add more manual labor to their routines.
+- [38] **Mizuki**: @Yumi, your findings align with mine. The post-occupancy reviews show that shared spaces are far more successful. However, I also found that older blocks contain hazardous materials, which can cause significant, unexpected delays.
+- [39] **Benjamin**: My findings suggest a certain optimism in our accounting that borders on the imaginative. While plant costs have risen by twenty percent, we have neglected to set aside any reserves for replacing aging audiovisual equipment.
+- [40] **Shizue**: @Benjamin, it sounds like we have been a bit too hopeful with our budgets. Between the financial gaps and the delays I found, I worry we are setting ourselves up for a very stressful year.
+- [41] **Yumi**: @Shizue, don't be too worried! We can fix this together! If we focus on creating shared spaces that everyone can use, maybe we can make the most of our budget and make everyone happy!
+- [42] **George**: @Yumi, optimism is helpful, but we must be practical. If we create more shared spaces without addressing the manual burdens on our technicians, we are simply shifting the stress onto a few exhausted individuals.
+- [43] **Mizuki**: @George, you make a valid point. We must ensure that "shared" doesn't mean "unmanaged." However, we cannot ignore that the most successful projects are those that benefit the wider community rather than a single wing.
+- [44] **Benjamin**: @Mizuki, a noble sentiment, but "benefit" is a costly word. If we ignore the twenty percent rise in plant costs and our lack of renewal reserves, our "wider community" may find itself with a very expensive, unfinished shell.
+- [45] **Shizue**: It is a bit worrying, isn't it? If we choose a project that is purely for appeal, we risk those long delays and budget gaps. Perhaps we should look for a plan that is practical and essential.
+- [46] **Yumi**: I totally agree, Shizue! But maybe "practical" can also mean making sure the rooms we build are actually used! It would be so sad to spend money on something that stays empty, right?
+- [47] **George**: Exactly. But "practical" must also include the operational reality. If a plan requires constant manual intervention from technicians who are already stretched thin, it is not a practical solution; it is a liability.
+- [48] **Mizuki**: @George, I agree. A sustainable plan must balance user satisfaction, operational capacity, and risk. We should prioritize a project that offers broad utility while minimizing the risk of hazardous material delays and technician burnout.
+- [49] **Benjamin**: @Mizuki, a comprehensive list of requirements. However, let us not forget that the most sustainable plan is one we can actually afford to finish. A project that ignores market inflation is merely a fantasy.
+- [50] **Shizue**: You all make such important points. It seems we must find a balance between utility, staffing, and financial realism to avoid the stress of delays and budget gaps. I look forward to seeing the candidates.
+- [51] **Yumi**: I agree! Let's look for a plan that makes everyone smile—one that's affordable, helpful for the staff, and creates spaces that students and teachers will actually use every day! I'm so excited to see the options!
+- [52] **George**: I agree. Let us hope the candidates include a plan that prioritizes efficiency and reduces the manual burden on our staff. I look forward to reviewing the options with a critical eye.
+- [53] **Mizuki**: I agree. We have a clear set of criteria now: broad accessibility, operational sustainability, and financial viability. Let us see which of the candidates best aligns with these logical requirements. See you in the next round.
+- [54] **Benjamin**: I concur. Let us hope the candidates are grounded in reality rather than aspiration. I shall be particularly interested to see if any plan acknowledges the actual cost of the hardware it proposes.
+## Round 3
+- [60] **Shizue**: Looking at these, I worry that Option A might be delayed by the weather, and Option B could be too costly. Option D seems very practical and essential for everyone's safety and well-being.
+- [61] **Yumi**: @Shizue, I see your point! But look at Option C! A Central Study Commons would be a shared space that everyone can use, which is exactly what people loved in the reviews! It sounds so welcoming!
+- [62] **George**: @Yumi, while a study commons is welcoming, Option D is the only one that addresses the operational strain. Upgrading the ventilation would eliminate those manual routines our technicians are currently forced to perform.
+- [63] **Mizuki**: @George, Option D is strong for operational efficiency. However, @Yumi is right that shared utility is key. We must be cautious with Option C, as ground-floor work in older blocks risks hazardous material delays.
+- [64] **Benjamin**: @Mizuki, a keen observation. However, Option D is the most perilous financially. Given the twenty percent surge in plant costs, a full ventilation overhaul is a recipe for a budget deficit. Option A is the most fiscally stable.
+- [65] **Shizue**: @Benjamin, I understand your concern about the budget, but Option A is so exposed to the weather. I worry we would see those six-week delays again, leaving our students in the rain.
+- [66] **Yumi**: @Shizue, that's true! But @George, if we do Option D, will it be a space students can actually use? Option C seems like the best way to make sure the rooms don't stay empty like the specialist ones!
+- [67] **George**: @Yumi, students use the laboratories every day. By improving the ventilation, we ensure those spaces remain safe and functional without relying on the exhausted staff to manually prop open windows. It is a fundamental necessity.
+- [68] **Mizuki**: @George, while necessity is important, we must weigh it against the risks. Option D's cost and Option C's potential for hazardous material delays make them risky. Option B offers shared utility without those specific structural dangers.
+- [69] **Benjamin**: @Mizuki, Option B is a siren song. It requires extensive audiovisual kit, and as we've discovered, we have no renewal reserve for such equipment. We would be building a center we cannot afford to maintain.
+- [70] **Shizue**: @Benjamin, you make a very strong point about the equipment. It seems we are in a difficult position. Perhaps Option D is the most honest choice, as it is a necessity rather than a luxury.
+- [71] **Yumi**: @Shizue, I understand, but I'm still worried about the rooms being empty! Option C is so exciting because it's for everyone! Could we find a way to make it work without the delays?
+- [72] **George**: @Yumi, excitement does not solve the problem of burnout. We cannot prioritize a "welcoming" space while our technicians are struggling with outdated equipment. Option D is the only choice that provides genuine relief to our staff.
+- [73] **Mizuki**: @George, I acknowledge the urgency of staff burnout. However, we must be logical. If Option D is financially unviable as @Benjamin suggests, it will fail. Option C's risks are high, but its utility is unmatched.
+- [74] **Benjamin**: @Mizuki, utility is a phantom if the project stalls mid-way. Option A avoids the plant cost surge and the AV maintenance void. It is the only choice that doesn't gamble with our solvency or our sanity.
+- [75] **Shizue**: @Benjamin, I appreciate your caution, but I cannot shake my worry about the weather delays for Option A. Option D is a necessity that helps our dear staff, and that feels most important. I vote for Option D.
+- [76] **Yumi**: @Shizue, I understand! I really want everyone to be happy, and helping the staff is so kind. But I still believe in the power of shared spaces! I vote for Option C!
+- [77] **George**: I cannot support a plan that ignores the operational reality of our staff. We must prioritize the people who keep this campus running. For the sake of our technicians, I vote for Option D.
+- [78] **Mizuki**: @George, @Shizue, your focus on the staff is commendable. However, we must be realistic about the budget. Option D is too risky financially. I vote for Option C for its broad utility.
+- [79] **Benjamin**: It appears we are split between the heart and the ledger. While I admire the passion for our staff and students, I cannot vote for a financial fantasy. I vote for Option A.
+### Vote
+- Shizue -> D
+- Yumi -> C
+- George -> D
+- Mizuki -> C
+- Benjamin -> A
+## Result
+- adopted: D

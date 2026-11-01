@@ -1,0 +1,73 @@
+# candidate_selection_0021__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must look beyond the science to the hands that hold it.
+- [6] **Sakura**: I wonder if the money we get actually buys what it used to.
+- [7] **Daisuke**: I am worried our past guesses about success were not very good.
+- [8] **Takumi**: I want to know where projects usually get stuck before they start.
+- [9] **Minako**: The shared facilities are the backbone, so I need to check their status.
+- [10] **Servas**: @Sakura, that is a fair point. Resources shift quietly.
+- [11] **Sakura**: @Minako, yes, if the facilities are full, the science stops.
+- [12] **Daisuke**: I think we should look at what actually happened before.
+- [13] **Takumi**: @Daisuke, history is good, but current bottlenecks are worse.
+- [14] **Minako**: I agree with @Takumi. We need to know the current capacity.
+- [15] **Servas**: I will look at who is actually here to do the work.
+- [16] **Sakura**: I will check the ledgers to see where the costs went.
+- [17] **Daisuke**: I will review the closeout files of finished awards.
+- [18] **Takumi**: I will look at the incident logs on shared instrumentation.
+- [19] **Minako**: I will check the accreditation and bookings at shared facilities.
+- [20] **Servas**: Let us see what the records say about our people.
+- [21] **Sakura**: I hope the numbers make sense this time.
+- [22] **Daisuke**: I am a bit nervous, but I will do it.
+- [23] **Takumi**: I will find out where the delays come from.
+- [24] **Minako**: I will confirm if the infrastructure can support the work.
+## Round 2
+- [35] **Servas**: The staffing rolls are concerning. Many technicians have left for industry.
+- [36] **Sakura**: The ledgers show shipping costs are up, but bench fees are subsidized.
+- [37] **Daisuke**: The closeout files show catalogue awards last longer than mechanism ones.
+- [38] **Takumi**: The spectroscopy suite was idle for eleven weeks last year.
+- [39] **Minako**: The animal facility is accredited, but glasshouses are fully booked.
+- [40] **Servas**: @Takumi, that idle time is a disaster for any timeline.
+- [41] **Sakura**: @Minako, if the glasshouses are full, plant projects are at risk.
+- [42] **Daisuke**: I am glad the catalogue approach seems more stable in the long run.
+- [43] **Takumi**: @Servas, yes, and the repository turnaround is now much faster.
+- [44] **Minako**: The field sites had issues, but indoor holding rooms were fine.
+- [45] **Servas**: The modelling analysts are seconded abroad until next autumn.
+- [46] **Sakura**: The computing agreement covers simulation hours for free now.
+- [47] **Daisuke**: Awards with live breeding colonies overran schedules twice as often.
+- [48] **Takumi**: One engineer covers three institutes, which is not sustainable.
+- [49] **Minako**: The glasshouse crew came through restructuring at full strength.
+- [50] **Servas**: We have a gap in technical skills, but good modelling support.
+- [51] **Sakura**: So computation is cheap, but physical space is tight.
+- [52] **Daisuke**: This suggests we should avoid projects dependent on live breeding.
+- [53] **Takumi**: The infrastructure for data is ready, but for wet labs, it is shaky.
+- [54] **Minako**: We need to pick a project that fits the current capacity.
+## Round 3
+- [60] **Servas**: Candidate A is a catalogue project, which fits our long-term stability.
+- [61] **Sakura**: Candidate B needs simulation, which is free, but also spectroscopy.
+- [62] **Daisuke**: Candidate C involves live breeding, which is a high risk for delays.
+- [63] **Takumi**: Candidate D needs glasshouses, which are currently fully booked.
+- [64] **Minako**: Candidate A uses field sites, which had some issues, but data is key.
+- [65] **Servas**: @Daisuke, I agree. Candidate C is too risky given the staffing.
+- [66] **Sakura**: @Takumi, the spectroscopy issue makes Candidate B difficult.
+- [67] **Daisuke**: Candidate A seems the safest bet based on the closeout files.
+- [68] **Takumi**: Candidate D is impossible right now because of the bookings.
+- [69] **Minako**: Candidate A is the only one that fits the current infrastructure.
+- [70] **Servas**: The trained hands for Candidate A are available, unlike for others.
+- [71] **Sakura**: The costs for Candidate A are manageable with the current subsidies.
+- [72] **Daisuke**: I am confident that Candidate A will deliver results.
+- [73] **Takumi**: The data repository is ready for Candidate A's output.
+- [74] **Minako**: The field sites for Candidate A are manageable despite past issues.
+- [75] **Servas**: I vote for Candidate A.
+- [76] **Sakura**: I also vote for Candidate A.
+- [77] **Daisuke**: I vote for Candidate A.
+- [78] **Takumi**: I vote for Candidate A.
+- [79] **Minako**: I vote for Candidate A.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

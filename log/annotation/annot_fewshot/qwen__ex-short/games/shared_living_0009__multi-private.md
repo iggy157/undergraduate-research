@@ -1,0 +1,73 @@
+# shared_living_0009__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: I need to understand why the car is never ready when I need it.
+- [6] **May**: I’m tired of spending my evenings untangling who owes what. I want to see where those hours actually go.
+- [7] **Servas**: A fair share is more than dividing the bill. I wonder what true equality looks like when we consider the wear and tear on the vehicle.
+- [8] **Takumi**: I’m worried the car is poisoning our friendship. I need to know what actually breaks groups like ours before we fix anything.
+- [9] **Kenji**: I’m frustrated by the guesswork. I need to know the real costs and who actually drives, so we can stop guessing and start paying fairly.
+- [10] **Misaki**: @May, your evening hours are likely the same friction I face in the mornings. We need to track the actual state of the car, not just the money.
+- [11] **May**: @Misaki, exactly. The friction is the real cost. I want to see the diary hours to prove it.
+- [12] **Servas**: @May, the diary will reveal the rhythm. But I also wonder how the car’s condition affects our peace of mind.
+- [13] **Takumi**: @Servas, the car’s condition matters, but the silence between us is the real danger. I need to see what actually sours groups like ours.
+- [14] **Kenji**: @May, I agree. The diary hours are key. I need to see the real driving patterns to stop the guessing game.
+- [15] **Misaki**: @Kenji, tracking the state at handover is just as vital as the mileage. I need to see the mechanic’s remarks too.
+- [16] **May**: @Kenji, the diary is my priority. I need to see the hours of use recorded in the diary to prove the administrative burden is real.
+- [17] **Servas**: @Misaki, the mechanic’s notes will tell us the car’s true story. I will look into the state of the car at handover and the mechanic’s remarks.
+- [18] **Takumi**: @Kenji, I need to see what two other car-sharing households said and the spell of checking each other's figures.
+- [19] **Kenji**: @Takumi, I get it. I will check the fuel receipts and the diary hours to get the real numbers.
+- [20] **Misaki**: I will check the state of the car at handover and the mechanic's remarks.
+- [21] **May**: I will check the hours of use recorded in the diary and the spell of checking each other's figures.
+- [22] **Servas**: I will look into last year's tax, insurance and parking papers, and the weeks of heavy use over the year.
+- [23] **Takumi**: I will check what two other car-sharing households said and the spell of checking each other's figures.
+- [24] **Kenji**: I will check last year's fuel receipts and the hours of use recorded in the diary.
+## Round 2
+- [35] **Misaki**: The mechanic says short cold runs destroy the brakes. That explains why the car is always half-dead when I need it.
+- [36] **May**: - **May**: @Misaki, that’s brutal. But my diary shows Saturday usage is triple Tuesday’s. The admin burden is real, not just the fuel.
+- [37] **Servas**: @May, those bursts of heavy use explain the strain. I found the fixed costs are 280,000 yen, regardless of who drives.
+- [38] **Takumi**: @May, the other households said asking favours every time is what kills the bond. We must stop that cycle before it eats us alive.
+- [39] **Kenji**: @May, the receipts show two of us bought over half the fuel. The diary proves Saturday is triple Tuesday. We need a system that matches the real driving, not just the bills.
+- [40] **Misaki**: @Kenji, the fuel split is clear, but the mechanic’s note on cold starts is the real issue. I need a protocol for handover state, not just who pays for petrol.
+- [41] **May**: @Kenji, I agree. But my diary shows the real cost is the hours spent untangling who owes what. The checking spell was toxic; we need a system that removes that friction entirely.
+- [42] **Servas**: @Misaki, the fixed costs are a heavy anchor. I see the heavy use weeks as the true test of our patience.
+- [43] **Takumi**: @May, the checking spell made everyone feel accused. We need a system that removes the need to audit each other, or we will just keep apologising.
+- [44] **Kenji**: @Takumi, I agree. The checking spell was exhausting. I want a system where the numbers speak for themselves, so we can stop auditing and just drive.
+- [45] **Misaki**: @Servas, the fixed costs are a baseline, but the cold starts are the hidden killer. I need a handover rule that guarantees a warm, clean car for my midweek runs.
+- [46] **May**: @Servas, fixed costs are just the floor. The real drain is the evening admin. I need a system where the hours vanish, not just the fuel bill.
+- [47] **Servas**: @May, the fixed costs are the floor, but the heavy use weeks reveal the true strain. I see the need for a rhythm that respects everyone’s time.
+- [48] **Takumi**: @Servas, the rhythm matters, but the silence is the real killer. We need a system that stops the favour-asking before it poisons us.
+- [49] **Kenji**: @Servas, the heavy use weeks are where the guesswork hurts most. I need the fuel costs to match those actual driving spikes, not just a flat split.
+- [50] **Misaki**: I will check the month's trial of recording every run and the trips that repeat weekly.
+- [51] **May**: I will check the month's trial of recording every run and the trips that repeat weekly.
+- [52] **Servas**: I will look into the month's trial of recording every run and the trips that repeat weekly.
+- [53] **Takumi**: I will check the month's trial of recording every run and the trips that repeat weekly.
+- [54] **Kenji**: I will check the month's trial of recording every run and the trips that repeat weekly.
+## Round 3
+- [60] **Misaki**: Option C. A booking calendar ensures I know the car is ready and clean before I drive. No more guessing.
+- [61] **May**: @Misaki, I’m in. A calendar kills the evening admin. I just need the distance tracking to be effortless, or I’m out.
+- [62] **Servas**: @May, the calendar offers order, but I worry the distance tracking becomes a new burden. We must ensure it does not replace one friction with another.
+- [63] **Takumi**: @Servas, you’re right. If tracking distance becomes a new audit, we’re doomed. I need a system that protects our bond, not just the car.
+- [64] **Kenji**: @Takumi, I agree. But Option C is the only one that matches the real driving. I need the fuel costs to reflect who actually uses the car, not just a flat guess.
+- [65] **Misaki**: @Servas, the distance tracking is simple. I just need the car to be clean and fueled when I book it. That is my non-negotiable.
+- [66] **May**: @Servas, I hear you, but the diary proved the admin is the real killer. If the calendar is effortless, it’s worth it.
+- [67] **Servas**: @Misaki, simplicity is the soul of fairness. If the calendar requires no thought, it serves us. I trust the rhythm of shared responsibility.
+- [68] **Takumi**: @May, I agree. If the calendar is effortless, it stops the favour-asking. I need a system that protects our bond, not just the car.
+- [69] **Kenji**: @May, I agree. If the calendar is effortless, it solves my biggest worry. I need the fuel costs to match the actual distance driven, not just a flat guess.
+- [70] **Misaki**: @Kenji, the distance tracking is the key. It ensures I pay only for what I use, and the car is ready.
+- [71] **May**: @Kenji, exactly. If the distance is automatic, the evening untangling vanishes. I’m voting for C, provided the tracking is truly effortless.
+- [72] **Servas**: @Kenji, I agree. If the distance is recorded without effort, the calendar becomes a gentle rhythm rather than a ledger. I am voting for C.
+- [73] **Takumi**: @Kenji, I agree. If the tracking is automatic, we stop auditing each other. I am voting for C to protect our friendship.
+- [74] **Kenji**: @Takumi, I agree. If the tracking is automatic, the guesswork ends. I am voting for C to get the real numbers.
+- [75] **Misaki**: I am voting for C.
+- [76] **May**: I am voting for C.
+- [77] **Servas**: I am voting for C.
+- [78] **Takumi**: I am voting for C.
+- [79] **Kenji**: I am voting for C.
+### Vote
+- Misaki -> C
+- May -> C
+- Servas -> C
+- Takumi -> C
+- Kenji -> C
+## Result
+- adopted: C

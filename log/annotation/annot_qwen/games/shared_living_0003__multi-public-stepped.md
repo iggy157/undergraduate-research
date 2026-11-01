@@ -1,0 +1,73 @@
+# shared_living_0003__multi-public-stepped (shared_living)
+
+## Round 1
+- [5] **Rin**: I need to know how much time we lose just getting set up every single morning.
+- [6] **Toshio**: Before we move anything, I want to see the actual monthly cost of this floor space.
+- [7] **Mizuki**: We should decide who gets the worse seats on purpose, not by accident.
+- [8] **Shion**: I care about the noise level and chair comfort more than the floor plan.
+- [9] **Yumi**: Who sits next to whom changes how we talk to each other all week.
+- [10] **Rin**: @Toshio, does the cost include the time we spend moving boxes?
+- [11] **Toshio**: @Rin, no, but the billing basis might explain why we have empty desks.
+- [12] **Mizuki**: @Shion, comfort is valid, but we need to address the fairness of the layout.
+- [13] **Shion**: @Mizuki, fairness is subjective. I just want a quiet, ergonomic spot.
+- [14] **Yumi**: @Mizuki, I agree. We should look at how the current layout affects our chats.
+- [15] **Rin**: I’m worried about the transition period. It could be chaotic.
+- [16] **Toshio**: I’ll check the billing records. It’s been static for too long.
+- [17] **Mizuki**: I want to see the survey results to see what people actually complained about.
+- [18] **Shion**: I’ll look at the sound readings. The printer side is too loud.
+- [19] **Yumi**: I’ll check what the new joiners said about how they learned the work.
+- [20] **Rin**: Let’s see what the pilot floor did. They’ve been doing this for a while.
+- [21] **Toshio**: Agreed. The data will tell us if this is worth the budget.
+- [22] **Mizuki**: I’ll also look at the unplanned shuffles from last year. They were a mess.
+- [23] **Shion**: I’ll check the physio notes. My back hurts if the chair is wrong.
+- [24] **Yumi**: I’ll look at the badge records. Arrival times matter for who gets the good spots.
+## Round 2
+- [35] **Rin**: The pilot floor takes up to nine minutes just to set up. That’s huge.
+- [36] **Toshio**: We are paying for empty space. 41,000 yen a month for two unused desks.
+- [37] **Mizuki**: The survey says daylight is the biggest complaint. The plan gives only four windows.
+- [38] **Shion**: The printer side is nine decibels louder. And my chair takes days to adjust properly.
+- [39] **Yumi**: The new joiners learned by overhearing. If we scatter them, they won’t learn.
+- [40] **Rin**: @Toshio, if we pay for empty space, maybe we don’t need as many desks?
+- [41] **Toshio**: @Rin, exactly. But moving a desk costs 6,200 yen. We need to be careful.
+- [42] **Mizuki**: @Shion, if the printer side is loud, we should assign those seats to people who don’t mind.
+- [43] **Shion**: @Mizuki, I don’t mind, but I need the chair to be right. It’s a long process.
+- [44] **Yumi**: @Mizuki, if we group by function, the new joiners might not hear the right things.
+- [45] **Rin**: The unplanned shuffles took two weeks each time. We can’t afford that again.
+- [46] **Toshio**: The cost of changing the layout is high. We need a stable plan.
+- [47] **Mizuki**: The survey is clear. People want windows. We have to decide who gets them.
+- [48] **Shion**: I prefer a fixed spot. Moving my setup is a pain.
+- [49] **Yumi**: If we use first-come, first-served, the early birds get the windows. That’s unfair.
+- [50] **Rin**: I think we need a system that accounts for arrival times and comfort.
+- [51] **Toshio**: I agree. We need to minimize the cost of changes and maximize fairness.
+- [52] **Mizuki**: Let’s look at the options. We need to be deliberate about who sits where.
+- [53] **Shion**: I’m leaning towards fixed desks. It’s less hassle for me.
+- [54] **Yumi**: I’m worried about the social aspect. We need to keep the team connected.
+## Round 3
+- [60] **Rin**: Option A sounds chaotic. I don’t want to spend nine minutes finding a desk every day.
+- [61] **Toshio**: Option C seems most stable. It minimizes the 6,200 yen re-run costs.
+- [62] **Mizuki**: Option C allows us to assign the window seats deliberately. That addresses the survey.
+- [63] **Shion**: Option C is best for me. I can set up my chair once and leave it.
+- [64] **Yumi**: Option C might isolate the new joiners if they are grouped by function.
+- [65] **Rin**: @Yumi, but if we group by function, maybe the new joiners are in the same group?
+- [66] **Toshio**: @Rin, it depends on their roles. But stability is key for the budget.
+- [67] **Mizuki**: @Yumi, we can place the new joiners near the experienced staff in Option C.
+- [68] **Shion**: @Mizuki, that works. I just need my quiet, ergonomic spot.
+- [69] **Yumi**: @Mizuki, that’s a good point. I’ll consider it.
+- [70] **Rin**: Option B is too much moving. I hate the idea of shuffling boxes again.
+- [71] **Toshio**: Option B is expensive. Every shift costs 6,200 yen per desk.
+- [72] **Mizuki**: Option B is unpredictable. It doesn’t solve the fairness issue of the window seats.
+- [73] **Shion**: Option B is a hassle. I don’t want to re-adjust my chair every few months.
+- [74] **Yumi**: Option B might help with social mixing, but the cost is too high.
+- [75] **Rin**: I’m voting for C. It’s the most stable and addresses the setup time.
+- [76] **Toshio**: I’m voting for C. It’s the most cost-effective and stable.
+- [77] **Mizuki**: I’m voting for C. It allows for deliberate, fair assignment of seats.
+- [78] **Shion**: I’m voting for C. It’s the most comfortable and least disruptive.
+- [79] **Yumi**: I’m voting for C. It’s the best balance of stability and social connection.
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

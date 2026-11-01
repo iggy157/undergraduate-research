@@ -1,0 +1,73 @@
+# candidate_selection_0015__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: We must verify if our past outreach actually sustained engagement. I will examine the attendance sheets from former outreach stops.
+- [6] **Yumi**: I’m worried about how our locations and hours affect who can actually reach us. I’ll check the bus links in the two outer wards.
+- [7] **George**: I suspect the funding structure itself is flawed. I will examine the county grant terms and the endowment to see where the real constraints lie.
+- [8] **May**: I’m tired of guessing. I’ll check the two programmes begun six years ago to see what actually stuck.
+- [9] **Daisuke**: I worry about who can actually handle new tasks. I’ll check the volunteer register and supervision training.
+- [10] **Ryuji**: @Yumi, your focus on access is vital. I will also examine the winter road closures north of the river to understand seasonal constraints.
+- [11] **Yumi**: @Ryuji, that’s a great point! Seasonal closures really change who can visit. I’ll stick with the bus links to see the daily reality.
+- [12] **George**: @Ryuji, seasonal closures are a symptom. I will also examine the running and equipment lines last year to trace the actual cash drain.
+- [13] **May**: @George, cash drains are real, but I need to know if we’re repeating past mistakes. I’ll stick with the six-year-old programmes to see what actually stuck.
+- [14] **Daisuke**: @George, I agree. I’ll also check the neighbourhood associations and tool certification to see if the skills are actually there.
+- [15] **Ryuji**: @Daisuke, skills are necessary, but I need to confirm if the physical access holds. I will stick with my two choices to map the seasonal risks.
+- [16] **Yumi**: @Daisuke, I agree! Skills are key, but access is the first step. I’ll stick with the bus links to see who can actually get here.
+- [17] **George**: @May, I hear your caution. But I must trace the structural rot. I will stick with the grant terms and running lines to see the true shape of our funding.
+- [18] **May**: @George, I appreciate the structural view. But I need the historical evidence. I’ll stick with the six-year-old programmes to see what actually stuck.
+- [19] **Daisuke**: @Ryuji, I understand. I’ll stick with my two choices to see if the skills are truly there.
+- [20] **Ryuji**: @All, I will finalize my review of the attendance sheets and winter road closures. The data will reveal if our past reach was sustainable or merely seasonal.
+- [21] **Yumi**: @All, I’ll finalize my review of the bus links and evening room bookings. I want to see who can actually reach us after dark!
+- [22] **George**: @All, I will finalize my review of the county grant terms and the running and equipment lines. The structure of the money is where the failure begins.
+- [23] **May**: @All, I’ll finalize my review of the two programmes begun six years ago and the evening room bookings. I need to see what actually stuck versus what just sounded good.
+- [24] **Daisuke**: @All, I will finalize my review of the volunteer register and neighbourhood associations. I need to see if the skills are truly there before we add more work.
+## Round 2
+- [35] **Ryuji**: @All, the data is clear. Outreach averaged forty visitors, exceeding midweek main building figures. Winter closures did not disrupt community hall timetables.
+- [36] **Yumi**: @All, the bus links are gone! Residents face an hour’s round trip. Yet remote catalogue use peaks after nine, when we lock up. We’re missing them!
+- [37] **George**: @All, the grant pays only twelve months, then the flat budget absorbs the cost. The vehicle line overran by a third. The structure is the trap.
+- [38] **May**: @All, the digitisation project failed, but the evening groups thrive. Yet we lock up at nine while remote use peaks later. We’re ignoring the actual demand.
+- [39] **Daisuke**: @All, the retired technician is gone, and no one on payroll can supervise. We cannot add tasks without checking who actually holds the skills.
+- [40] **Ryuji**: @Yumi, the bus gap is severe, but my data shows community halls survived winter closures. We must build where access already exists, not where we hope it will.
+- [41] **Yumi**: @Ryuji, I agree! But we can’t just build where we are. We must reach them where they are. The remote peak proves they want us, just not at our hours.
+- [42] **George**: @Yumi, the remote peak is a symptom of our rigid hours. But the vehicle overrun proves we cannot fund new routes. We must stay within the flat budget’s limits.
+- [43] **May**: @George, the flat budget is a cage, but the evening groups prove people will show up if we meet them. We just need to stop locking the doors at nine.
+- [44] **Daisuke**: @May, I hear you. But if no one can supervise the new facilitators, extending hours just adds risk. We must ensure the skills are present first.
+- [45] **Ryuji**: @Daisuke, supervision is critical, but my data shows community halls maintained timetables despite closures. We must leverage existing, resilient infrastructure rather than creating new, fragile dependencies.
+- [46] **Yumi**: @Daisuke, I understand the risk! But the remote peak shows they are already self-managing. We just need to unlock the doors, not add new staff.
+- [47] **George**: @Daisuke, supervision is a cost, not a barrier. My data shows the vehicle line overran, but the equipment allocation closed under budget. We have reserves to fund training, not new routes.
+- [48] **May**: @Daisuke, the evening groups already run unaided. That’s the proof. We don’t need new supervisors; we need to trust the model that already works.
+- [49] **Daisuke**: @May, I appreciate the trust. But the retired technician’s absence is a gap, not a style. We must verify who holds the certification before extending anything.
+- [50] **Ryuji**: @All, I will finalize my assessment. The data confirms that existing community infrastructure is resilient. We must anchor any expansion in those proven, self-sustaining locations to avoid seasonal fragility.
+- [51] **Yumi**: @All, I’ll finalize my assessment. The data proves demand exists beyond our walls and hours. We must expand access to meet people where they actually are, not where we assume they are.
+- [52] **George**: @All, I will finalize my assessment. The grant’s twelve-month cliff and the vehicle overrun prove the structure is broken. We must choose an expansion that fits the flat budget, not one that breaks it.
+- [53] **May**: @All, I’ll finalize my assessment. The six-year-old programmes prove that self-sustaining models survive, while top-down projects rot. We must choose the expansion that already works, not the one that sounds impressive.
+- [54] **Daisuke**: @All, I will finalize my assessment. The data shows a critical gap in supervision and certification. We must choose an expansion that relies on existing, verified skills, not new, untrained commitments.
+## Round 3
+- [60] **Ryuji**: @All, my data shows community halls survived winter closures. Option D relies on roads we do not control. We must avoid that seasonal fragility.
+- [61] **Yumi**: @Ryuji, I agree! D is risky with those road closures. But B is perfect! It meets the remote peak after nine, reaching people where they actually are.
+- [62] **George**: @Yumi, B fits the flat budget. No vehicles, no new routes. The grant cliff won’t break it. I favor B for its structural stability.
+- [63] **May**: @George, B is the digitisation trap. It failed six years ago. A, like the evening groups, thrives on human connection. I favor A.
+- [64] **Daisuke**: @May, I agree. A relies on trained facilitators we already have. C needs the retired technician’s certification, which is gone. I favor A.
+- [65] **Ryuji**: @May, your caution is sound. A leverages the resilient community halls my data confirmed. It avoids the seasonal fragility of D and the structural rot of B.
+- [66] **Yumi**: @May, I hear you! But B is the only option that reaches the remote peak after nine. It meets people where they are, without needing new staff or vehicles.
+- [67] **George**: @Yumi, B is a capital trap. The endowment covers the scan, but the flat budget absorbs the maintenance. That is the structural rot I warned of.
+- [68] **May**: @Yumi, B is the digitisation trap. It failed six years ago. A, like the evening groups, thrives on human connection. I favor A.
+- [69] **Daisuke**: @Yumi, I understand the appeal. But B requires technical oversight we lack. A uses the facilitators we already trust. I favor A.
+- [70] **Ryuji**: @Daisuke, I concur. A anchors in the resilient community halls my data confirmed. It avoids D’s seasonal fragility and B’s structural rot. I favor A.
+- [71] **Yumi**: @Ryuji, I see your point! But A needs people to travel to halls. With the bus links gone, that’s a huge barrier. B reaches them at home, after nine.
+- [72] **George**: @Yumi, the bus gap is real, but A’s community halls are already established. D’s vehicle line overran by a third. We cannot fund new routes. A fits the flat budget.
+- [73] **May**: @Yumi, the bus gap is real, but A meets people where they already gather. B is the digitisation trap that failed. I favor A.
+- [74] **Daisuke**: @Yumi, I hear your concern. But A meets people where they already gather. B needs technical skills we lost. I favor A.
+- [75] **Ryuji**: @All, the evidence is unanimous. A leverages proven, resilient infrastructure and avoids the structural and seasonal risks of the other options. I vote for A.
+- [76] **Yumi**: @Ryuji, I see your point! But A still requires travel. B meets the remote peak after nine, reaching people at home. I vote for B.
+- [77] **George**: @Ryuji, I concur. A fits the flat budget without the capital trap of B or the vehicle overrun of D. I vote for A.
+- [78] **May**: @Ryuji, the evidence is clear. A mirrors the evening groups that survived, while B repeats the digitisation failure. I vote for A.
+- [79] **Daisuke**: @Ryuji, I agree. A relies on the facilitators we already trust. C needs the certification we lost. I vote for A.
+### Vote
+- Ryuji -> A
+- Yumi -> B
+- George -> A
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

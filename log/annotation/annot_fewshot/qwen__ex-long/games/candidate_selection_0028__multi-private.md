@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I’m worried about the depot floor! The equipment there is old, and freight never stops. We need a system that survives our real calendar.
+- [6] **Mizuki**: I’m concerned about the hidden costs. The headline price is a lie; the real bill arrives after the contract is signed.
+- [7] **Asuka**: I need to know who actually owns the system when it fails. Ambiguity in support is a structural risk I refuse to ignore.
+- [8] **Rin**: I’m curious about the past! I want to see why old systems break and why outside work needs fixing. Let’s check the history!
+- [9] **Servas**: I worry about the people. The ones holding this together are stretched thin. How will this change land on their weary shoulders?
+- [10] **Kenji**: @Mizuki, hidden costs scare me too! But if the yard devices crash during peak season, we lose everything. Let’s check the depot calendar and the yard devices!
+- [11] **Mizuki**: @Kenji, the calendar is just the stage. I need to see the actual money trail. I will examine the five years of renewal invoices and the board minutes on capital requests.
+- [12] **Asuka**: @Mizuki, invoices show what was paid, not who answered the phone. I will examine support ownership during last winter's outage and the administrator retirements and hiring times.
+- [13] **Rin**: @Asuka, I agree! I want to see the upgrade history of the dispatch tool and the data lift in the 2018 pay move. Let’s find the ghosts!
+- [14] **Servas**: @Asuka, your focus on support is vital. I will examine administrator retirements and hiring times, plus depot supervisors and the last rollout, to see who remains.
+- [15] **Kenji**: @Rin, the dispatch tool history is key! If it broke before, it’ll break again. I’ll check the yard devices and the depot calendar to see if we’re ready.
+- [16] **Mizuki**: @Kenji, the calendar is just the stage. I need to see the actual money trail. I will examine the five years of renewal invoices and the board minutes on capital requests.
+- [17] **Asuka**: @Kenji, the calendar is a symptom. I need the root cause of failure. I will examine support ownership during last winter's outage and the administrator retirements and hiring times.
+- [18] **Rin**: @Kenji, I’m sticking with my choices! The dispatch tool’s upgrade history and the 2018 pay move data will reveal the ghosts. Let’s see what’s really broken!
+- [19] **Servas**: @Rin, the ghosts are real, but the living are more urgent. I will stick with my two choices to understand the human cost of this transition.
+- [20] **Kenji**: @Servas, I agree! The people matter, but the yard devices are my priority. I’ll check the yard devices and the depot calendar to see if we’re ready.
+- [21] **Mizuki**: @Kenji, I understand your urgency. But I must follow the money. I will examine the five years of renewal invoices and the board minutes on capital requests.
+- [22] **Asuka**: @Kenji, the calendar is a symptom. I need the root cause of failure. I will examine support ownership during last winter's outage and the administrator retirements and hiring times.
+- [23] **Rin**: @Kenji, I’m sticking with my two choices! The dispatch tool’s upgrade history and the 2018 pay move data will reveal the ghosts. Let’s see what’s really broken!
+- [24] **Servas**: @Kenji, the devices are tools, but the hands that wield them are the true foundation. I will trust the process and await our findings.
+## Round 2
+- [35] **Kenji**: @Mizuki, this is scary! No freeze window means we can’t stop the floor. The 2021 trial failed fast. We need a system that works with our old scanners!
+- [36] **Mizuki**: @Kenji, the floor is critical, but my data shows the real trap. Bundled prices stay flat, but add-ons climb yearly. We are buying a subscription to surprise bills.
+- [37] **Asuka**: @Mizuki, surprise bills are manageable. Unowned outages are not. My data confirms support is scattered across four suppliers, leaving failures unaddressed for days.
+- [38] **Rin**: @Asuka, four suppliers? That’s chaos! My data shows the dispatch tool skipped upgrades for years, and the 2018 pay move broke for a whole year. We need one clear owner!
+- [39] **Servas**: @Asuka, your findings confirm my fear. Two administrators retire this year, and the last posting stayed open eleven months. We are losing the minds that hold this together.
+- [40] **Kenji**: @Rin, one owner is vital! But my yard scanners are old. If the new system can’t talk to them, we’re stuck. We need compatibility first!
+- [41] **Mizuki**: @Rin, one owner is a start, but my board minutes show capital gets cut while operating costs pass silently. We are funding the bleed, not the cure.
+- [42] **Asuka**: @Rin, one owner is necessary, but insufficient. My data shows the administrators who understand the system are leaving. We need a vendor who can absorb that institutional loss.
+- [43] **Rin**: @Asuka, exactly! The 2018 mess proves outside work needs repair. We need a vendor who stays to fix the cracks, not just install the shiny new thing!
+- [44] **Servas**: @Asuka, you are right. The hands are leaving, and the supervisors already dropped the last training. We must choose a vendor who teaches the crews, not just the software.
+- [45] **Kenji**: @Servas, teaching the crews is key! But my scanners are old. If the new system can’t talk to them, training is useless. We need hardware compatibility!
+- [46] **Mizuki**: @Kenji, hardware compatibility is a one-time cost. My data shows the recurring operating lines are the silent killer. We must price the lifetime bleed, not just the initial handshake.
+- [47] **Asuka**: @Mizuki, the bleed is real, but unowned failure is fatal. I need a vendor who absorbs the administrative vacuum, not just one who cuts costs.
+- [48] **Rin**: @Mizuki, the bleed is real, but the 2018 mess shows who fixes it matters more! We need a partner who stays to repair the cracks, not just install the shiny new thing!
+- [49] **Servas**: @Rin, you are right. A partner who stays is essential. But I worry the crews will forget again. We need a vendor who respects the human rhythm, not just the code.
+- [50] **Kenji**: @Mizuki, I hear you on the costs. But if the scanners can’t talk to the new system, we’re dead in the water. Compatibility is my non-negotiable!
+- [51] **Mizuki**: @Kenji, compatibility is a line item. My data shows the recurring operating lines are the silent killer. We must price the lifetime bleed, not just the initial handshake.
+- [52] **Asuka**: @Kenji, compatibility is a feature. Accountability is a structure. I need a vendor who owns the failure, not just the hardware.
+- [53] **Rin**: @Kenji, scanners are just tools! The real danger is the system aging in place. We need a vendor who keeps it fresh, not one who lets it rot!
+- [54] **Servas**: @Kenji, the scanners are vital, but the hands that operate them are the true foundation. We must choose a vendor who respects the human rhythm, not just the code.
+## Round 3
+- [60] **Kenji**: @Mizuki, I’m looking at the options! C has an engineering team on-site. That’s huge for our old scanners and the 24/7 peak season. Who else thinks C is the safest bet?
+- [61] **Mizuki**: @Kenji, on-site presence is a one-time cost. My data shows modular licensing creates the silent bleed. B is a trap; A’s subscription hides the add-on trap.
+- [62] **Asuka**: @Kenji, on-site presence is temporary. My data shows unowned outages persist. I need a single, accountable owner for the entire lifecycle, not a rotating cast of specialists.
+- [63] **Rin**: @Asuka, exactly! A is a trap because the partner leaves after training. C keeps the engineers here to fix the cracks. We need someone who stays!
+- [64] **Servas**: @Rin, you are right. The partner in A leaves, but C’s engineers stay. With our administrators retiring, we need hands that remain to teach the crews, not just install the code.
+- [65] **Kenji**: @Rin, I agree! C’s engineers staying is perfect. But I need to know: will they actually fix our old scanners? We can’t risk another 2021 spreadsheet mess!
+- [66] **Mizuki**: @Kenji, scanners are a line item. My data proves modular licensing creates the silent bleed. B is a trap. We must price the lifetime cost, not just the initial handshake.
+- [67] **Asuka**: @Kenji, scanners are a symptom. My data shows the real risk is the administrative vacuum. C’s on-site team absorbs that loss, unlike A’s departing partner.
+- [68] **Rin**: @Kenji, I agree! C’s engineers stay to fix the cracks. A’s partner leaves, leaving us to repair the mess alone. We need a partner who stays!
+- [69] **Servas**: @Kenji, the scanners are vital, but the hands that operate them are the true foundation. C’s engineers stay to teach the crews, respecting the human rhythm we cannot afford to lose.
+- [70] **Kenji**: @Mizuki, I hear you on the costs! But C’s on-site team means no surprise bills for scanner fixes. It’s the only option that respects our 24/7 reality. I’m leaning C!
+- [71] **Mizuki**: @Kenji, on-site presence is a one-time cost. My data shows the recurring operating lines are the silent killer. We must price the lifetime bleed, not just the initial handshake.
+- [72] **Asuka**: @Mizuki, the bleed is real, but unowned failure is fatal. C’s on-site team provides the single accountability structure my data demands. I am leaning C.
+- [73] **Rin**: @Mizuki, the bleed is real, but the 2018 mess proves who fixes it matters more! C’s engineers stay to repair the cracks. We need a partner who stays!
+- [74] **Servas**: @Mizuki, the bleed is real, but the human cost is higher. C’s engineers stay to teach the crews, honoring the rhythm we cannot afford to lose. I am leaning C.
+- [75] **Kenji**: @Servas, I agree! C is the only choice that keeps engineers on the floor during peak season. It respects our old scanners and the 24/7 reality. I vote for C!
+- [76] **Mizuki**: @Kenji, I cannot ignore the data. C’s on-site team is a capital expense, and my minutes show capital gets cut while operating lines pass silently. I vote for D.
+- [77] **Asuka**: @Mizuki, capital cuts are a symptom. Unowned failure is the disease. C’s on-site team provides the single accountability structure my data demands. I vote for C.
+- [78] **Rin**: @Mizuki, I hear you on the budget! But the 2018 mess proves who fixes it matters more! C’s engineers stay to repair the cracks. We need a partner who stays!
+- [79] **Servas**: @Mizuki, I hear your caution. But the hands are leaving, and the crews need teachers who stay. C’s engineers honor the human rhythm we cannot afford to lose. I vote for C.
+### Vote
+- Kenji -> C
+- Mizuki -> D
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

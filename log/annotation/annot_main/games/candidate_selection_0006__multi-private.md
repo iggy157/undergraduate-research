@@ -1,0 +1,73 @@
+# candidate_selection_0006__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: Hello everyone. I'm looking forward to working with you all to choose the best program. I think it's important we consider the long-term sustainability of whatever we decide on today.
+- [6] **Jonathan**: I agree, Midori. Sustainability is key. I believe it would also be prudent to understand the actual outcomes of our previous efforts before we commit to a new direction.
+- [7] **Misaki**: I agree. We should base our decision on objective data rather than assumptions. It will be helpful to see how current resources are being utilized before we commit to a new program.
+- [8] **Shion**: Sustainability is a fine word, but let's be precise. I want to see the actual numbers behind the budget and the potential for returns. Logic, not optimism, should guide this selection.
+- [9] **Shizue**: It is a pleasure to be here with you all. I agree that data is important, but let us also remember the people who will make these programs work every day. I hope we can find a gentle balance.
+- [10] **Midori**: I agree with Shizue. To ensure we don't overstretch our staff, I'd like to look into the ward nursing vacancies and agency cover, as well as the board minutes on a jointly run clinic.
+- [11] **Jonathan**: I think it would be helpful to review the readmission figures during the call-back trial and the visit completion on the shared nursing round to see what our previous initiatives actually achieved.
+- [12] **Misaki**: I will look into the ward nursing vacancies and agency cover, as well as the therapy and midwifery staffing review. I want to understand the current pressure on our clinical teams.
+- [13] **Shion**: I'll take the development allocation in the ledger and the regional fund tariffs by contact location. If we're talking about sustainability, we should start with the actual money available and how it's generated.
+- [14] **Shizue**: I think it would be wise to see how our physical space is holding up. I will look into the rooms, parking and shuttle coverage, and also what the booking system records.
+- [15] **Midori**: It seems we have a good spread of information being gathered. I'm curious if anyone else feels we should look into the data agreements with outside surgeries to see how our external partnerships are currently structured?
+- [16] **Jonathan**: That is a valid point, Midori. Understanding our external dependencies could certainly provide a more complete picture of our operational capacity. Perhaps someone else has the capacity to look into that.
+- [17] **Misaki**: I have already selected my two items. Since we are all limited in what we can investigate, perhaps someone else who hasn't focused on staffing or budget can take that on.
+- [18] **Shion**: @Midori, you're suggesting we add more to the list, but we've already committed to our choices. Let's stick to the plan and see what the data actually tells us first. Efficiency is key.
+- [19] **Shizue**: @Midori, it is a lovely thought to consider our partners, but perhaps we should follow Shion's advice for now. Let us see what we find first and then we can decide if we need more.
+- [20] **Midori**: You're right, Shion. I apologize for getting ahead of myself. I'll stick to my original choices and look forward to hearing what everyone discovers. Let's see where the data leads us.
+- [21] **Jonathan**: I agree. Let us proceed with a quiet mind and see what the records reveal. I look forward to our next discussion.
+- [22] **Misaki**: I agree. Let's move forward and review the findings. I'll be interested to see how the staffing data aligns with the other operational metrics.
+- [23] **Shion**: Indeed. Let's hope the findings are substantial enough to avoid any vague generalizations. I'll be waiting to see if the numbers actually support the optimism some of you are displaying.
+- [24] **Shizue**: Now, now, Shion, let's keep our hearts open. I am sure we will all find something useful in the records. I look forward to seeing what we discover together.
+## Round 2
+- [35] **Midori**: Thank you for the information. I'm quite concerned to see that agency costs are rising while vacancies persist. Also, the failure of the joint clinic suggests we must be very careful about who owns the long-term responsibility.
+- [36] **Jonathan**: It is interesting to note that the call-back trial actually reduced readmissions for elderly patients, yet it was discontinued. It seems we often abandon programs that show genuine promise before they are fully integrated.
+- [37] **Misaki**: The staffing data is worrying. We have significant vacancies in ward nursing and a loss of physiotherapists, though midwifery has some slack. We must ensure any new program doesn't further burden the already strained teams.
+- [38] **Shion**: The financial picture is bleaker than I expected. Our development budget has shrunk by a quarter, and we're now paying for floor space from it. Furthermore, off-site contacts earn us nothing. We cannot afford a program that doesn't generate revenue.
+- [39] **Shizue**: It seems we all have things to worry about. I've found that our rooms and parking are already quite full, and our booking system misses so much of the hard work being done. We must be careful.
+- [40] **Midori**: @Shion, I understand the need for revenue, but if we choose a program that fails due to poor ownership—like that joint clinic—we waste the little budget we have left. We need a clear, sustainable structure.
+- [41] **Jonathan**: @Midori, I agree. The call-back trial proved that simple interventions can save patients from returning to the hospital, yet it vanished. We should avoid creating another "ghost" program that disappears without a trace.
+- [42] **Misaki**: @Jonathan, I agree. If we implement a program without considering who will actually manage the workload, it will either fail or burn out the staff. We cannot ignore the current vacancies in nursing and therapy.
+- [43] **Shion**: @Midori, ownership is a management issue, but insolvency is a structural one. If we ignore the fact that off-site work earns zero tariff, we aren't being sustainable; we're being delusional. We need a program that stays on-site.
+- [44] **Shizue**: @Shion, I understand your concern for the budget, but if we bring more people on-site when the parking is already full by eleven, I fear we may simply seize up. We must be very gentle with our space.
+- [45] **Midori**: @Shizue, that's a very fair point. If we can't physically accommodate the program, it won't matter how well-funded it is. We need a solution that balances revenue, staffing, and our actual physical capacity.
+- [46] **Jonathan**: @Shion, if we prioritize on-site revenue but ignore the lessons of the call-back trial, we risk investing in something that looks good on a ledger but fails the patient. We must ensure this program is durable.
+- [47] **Misaki**: @Shion, while on-site revenue is important, we cannot ignore that some teams are at a breaking point. If we push a program onto a department already struggling with vacancies, the cost of burnout will outweigh any financial gain.
+- [48] **Shion**: @Misaki, burnout is a variable, but a bankrupt budget is a constant. If we choose a program that drains our shrinking funds without a return, we'll have no money left to hire the staff you're so worried about.
+- [49] **Shizue**: @Shion, you speak with such passion for the numbers, and I understand. But if we ignore the invisible work that the booking system misses, we might accidentally break the very things that are currently keeping us afloat.
+- [50] **Midori**: It seems we are all highlighting different but equally critical risks. To move forward, we must find a program that is financially viable, physically possible, and has a clear, committed owner to prevent it from collapsing.
+- [51] **Jonathan**: I agree. Let us look for a candidate that respects our staff's limits and our physical space, while ensuring the benefits to the patients are permanent rather than temporary.
+- [52] **Misaki**: I agree. We need a program that doesn't just look good on paper, but is actually feasible given our current staffing gaps. Let's see which candidates align with these constraints.
+- [53] **Shion**: Let's stop the vague agreements. We have a shrinking budget and a revenue gap for off-site work. I will vote for the candidate that maximizes on-site billing and minimizes capital expenditure. Logic must prevail over sentiment.
+- [54] **Shizue**: Let us all take a deep breath. We each hold a piece of the puzzle, and only by fitting them together can we find a path that is kind to our staff and our patients.
+## Round 3
+- [60] **Midori**: Looking at the options, I'm very concerned about Option D. A joint program between midwifery and pediatrics risks the same ownership collapse we saw with the joint clinic. We need a program with a single, clear point of responsibility.
+- [61] **Jonathan**: @Midori, I agree. Furthermore, Option A reminds me of the call-back trial and the shared nursing round. While the intent is noble, the high failure rate of home visits due to access issues makes it a risky investment.
+- [62] **Misaki**: @Jonathan, I agree. Option A would put more pressure on the ward nursing staff who are already struggling with vacancies. Option B is also problematic, as we are losing physiotherapists to city posts.
+- [63] **Shion**: @Misaki, if Option B is a staffing risk, then Option A is a financial disaster. Home visits earn zero tariff. We cannot waste a shrinking budget on a program that generates no revenue and costs us in travel.
+- [64] **Shizue**: @Shion, you are quite right about the costs. But I also worry that Option B would bring too many people to our already crowded parking lot. Perhaps Option C is a gentler way to help our patients?
+- [65] **Midori**: @Shizue, I think Option C is a very strong candidate. It focuses on coordination rather than adding more physical traffic or relying on risky joint-department ownership, which should make it more sustainable in the long run.
+- [66] **Jonathan**: @Shizue, I agree. Option C avoids the pitfalls of the failed home-visit initiatives and doesn't seem to demand the same physical space as Option B. It offers a way to provide lasting stability for the patients.
+- [67] **Misaki**: @Midori, @Jonathan, I agree. Option C is the most feasible. It doesn't rely on the strained nursing or therapy teams, and it avoids the staffing gaps that would make Options A and B fail.
+- [68] **Shion**: @Misaki, you're all agreeing too quickly. Option C is coordination, which often means more off-site communication and zero tariff. However, compared to the blatant waste of Option A, it is the only logical choice left.
+- [69] **Shizue**: It is heartening to see us finding common ground. Option C seems to be a path that respects our limits while still caring for those in need. It feels like a very peaceful choice for everyone.
+- [70] **Midori**: I'm glad we've reached a consensus. Option C avoids the structural risks of joint ownership and the physical constraints of our site, making it the most reliable choice for our patients and staff.
+- [71] **Jonathan**: It is a relief to find a solution that avoids the cycle of temporary trials. By focusing on coordination, we can create a durable system that truly supports the patient without overextending our fragile resources.
+- [72] **Misaki**: I agree. Option C is the only one that doesn't risk collapsing due to our current staffing shortages. It is the most responsible choice for the wellbeing of our remaining clinical teams.
+- [73] **Shion**: @Midori, @Jonathan, @Misaki, your desperation for a "safe" choice is showing. While Option C isn't a revenue engine, it's the only one that doesn't actively bleed money or space. I'll concede to the logic of elimination.
+- [74] **Shizue**: It is a wonderful feeling when we all come together like this. Let us move forward with Option C, knowing we have looked after both our patients and the people who care for them.
+- [75] **Midori**: I believe we have made a thoughtful and balanced decision. Option C protects our staff, respects our physical limits, and ensures a sustainable structure. I am happy to cast my vote for it.
+- [76] **Jonathan**: I agree. Option C provides a stable framework that avoids the pitfalls of our past failures. It is a sustainable choice that honors both our resources and our patients. I vote for Option C.
+- [77] **Misaki**: I agree. Option C is the only viable path that doesn't place an impossible burden on our already exhausted staff. It is the most realistic and sustainable choice. I vote for Option C.
+- [78] **Shion**: Since you've all decided to prioritize safety over profit, I'll follow the path of least resistance. Option C is the only one that isn't a financial or spatial catastrophe. I vote for Option C.
+- [79] **Shizue**: I am so glad we could find a way to be kind to one another and our hospital. Option C is a gentle choice that fits our home. I also vote for Option C.
+### Vote
+- Midori -> C
+- Jonathan -> C
+- Misaki -> C
+- Shion -> C
+- Shizue -> C
+## Result
+- adopted: C

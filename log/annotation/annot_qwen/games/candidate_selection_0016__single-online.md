@@ -1,0 +1,73 @@
+# candidate_selection_0016__single-online (candidate_selection)
+
+## Round 1
+- [5] **Jonathan**: I’d like to start by understanding the actual scope of this year’s development allocation before we discuss any specific programs.
+- [6] **Shion**: Scope is irrelevant if the outcome is invisible. I want to know what our previous initiatives actually achieved before we commit more resources.
+- [7] **Midori**: I’m concerned about how any new program will affect the existing rosters. I’d like to see the staffing records to understand where the pressure really sits.
+- [8] **Kenji**: I’m worried about whether the hospital can physically absorb another program. I need to check the rooms, parking, and shuttle coverage first.
+- [9] **Shizue**: I’ve seen too many good ideas crumble in the second year. I want to check the board minutes on that jointly run clinic to see where it went wrong.
+- [10] **Jonathan**: @Shion, I hear you, but we must also know what we can afford. Let’s look at the ledger and the readmission figures together.
+- [11] **Shion**: @Jonathan, the ledger is just numbers. I need the readmission figures to prove the call-back trial actually worked before we waste more money.
+- [12] **Midori**: @Kenji, the physical space is vital, but the people filling it matter more. I need to see the therapy and midwifery staffing review to understand our actual capacity.
+- [13] **Kenji**: @Midori, I agree people are key, but I still need to see the booking system records to know if we can even schedule the extra visits.
+- [14] **Shizue**: @Midori, I appreciate your focus on the people, but I need to see the visit completion records to understand why our shared rounds failed before.
+- [15] **Jonathan**: @Shion, I understand your skepticism, but the ledger shows our allocation is down by nearly a quarter. We must know the financial reality before debating past successes.
+- [16] **Shion**: @Jonathan, the ledger is just a constraint. I need the readmission figures to prove the call-back trial actually worked before we waste more money.
+- [17] **Midori**: @Jonathan, the financial cut is real, but I need to see the ward nursing vacancies to understand how much agency cover we are already relying on.
+- [18] **Kenji**: @Midori, the vacancies are a serious warning, but I still need to see what the booking system records to know if we can even schedule the extra visits.
+- [19] **Shizue**: @Midori, the vacancies are a symptom, not the cause. I need the visit completion records to see exactly where our shared rounds broke down.
+- [20] **Jonathan**: @Shion, I will look into the ledger and the readmission figures. @Midori, I will check the ward vacancies and the therapy staffing review.
+- [21] **Shion**: I will examine the readmission figures and the booking system records.
+- [22] **Midori**: I will look into the therapy and midwifery staffing review, and the ward nursing vacancies.
+- [23] **Kenji**: I will check the rooms, parking and shuttle coverage, and what the booking system records.
+- [24] **Shizue**: I will review the board minutes on the jointly run clinic and the visit completion on the shared nursing round.
+## Round 2
+- [35] **Jonathan**: @Shion, the readmission data is encouraging, but the ledger shows our allocation is down nearly a quarter. We must be realistic about what we can actually fund.
+- [36] **Shion**: @Jonathan, the readmission drop proves the model works. The booking system’s gaps are the real threat to its sustainability, not the ledger.
+- [37] **Midori**: @Kenji, the staffing review shows therapy is bleeding staff, but midwifery has unusual slack. @Shizue, the board minutes confirm the joint clinic failed because neither department owned the rota.
+- [38] **Kenji**: @Midori, that midwifery slack is a relief, but the rooms are already full by mid-morning. We physically cannot fit another daily program without overbooking.
+- [39] **Shizue**: @Midori, exactly. The shared round lost a third of its visits to weather and locked gates. We cannot repeat that failure with a new program.
+- [40] **Jonathan**: @Shion, the booking gaps are critical, but the financial cut is immediate. We cannot build a program that the ledger simply cannot support.
+- [41] **Shion**: @Jonathan, the ledger is a constraint, not a verdict. If the booking system can’t track the work, the program dies regardless of the budget.
+- [42] **Midori**: @Shion, you’re right that tracking is vital, but the therapy staffing review shows four years of physiotherapists leaving. We can’t staff a unit that’s already hemorrhaging talent.
+- [43] **Kenji**: @Midori, the staffing loss is real, but the booking system only holds named slots. If we can’t log the work, it vanishes from every report.
+- [44] **Shizue**: @Kenji, the booking gaps are a symptom. The real failure was the shared round losing a third of visits to weather and locked gates.
+- [45] **Jonathan**: @Shizue, the weather is a factor, but the ledger is the wall. We must pick a program that fits the reduced budget and existing staff, not just the ideal.
+- [46] **Shion**: @Jonathan, the ledger limits scale, not viability. If the booking system can’t track the work, the program dies regardless of the budget.
+- [47] **Midori**: @Jonathan, the budget is tight, but the staffing review shows midwifery has unusual slack. We should leverage that capacity rather than ignoring it.
+- [48] **Kenji**: @Midori, that slack is useful, but the car park fills before eleven. We physically cannot absorb more daily traffic without seizing up.
+- [49] **Shizue**: @Kenji, the car park is a daily headache, but the shared round’s failure was about ownership, not parking. We must ensure one department truly commits this time.
+- [50] **Jonathan**: @Midori, the midwifery slack is a genuine asset. @Shion, if the booking system can track it, we have a viable path forward despite the ledger.
+- [51] **Shion**: @Jonathan, the midwifery slack is a distraction. The booking system’s inability to track unslotted work is the fatal flaw. We must fix that first.
+- [52] **Midori**: @Shion, you’re right that tracking is vital, but the midwifery slack is a genuine asset. We should leverage that capacity rather than ignoring it.
+- [53] **Kenji**: @Shion, I agree the booking gaps are dangerous, but the car park filling before eleven is a hard physical limit. We cannot schedule what we cannot physically house.
+- [54] **Shizue**: @Shion, the booking system is a tool, not the foundation. The shared round failed because no one owned the rota. We must secure that commitment before worrying about software.
+## Round 3
+- [60] **Jonathan**: The candidates are here. Given the reduced budget and staffing gaps, I need to see which one fits our actual financial and human limits.
+- [61] **Shion**: @Jonathan, the candidates are just labels. I need to know which one the booking system can actually track before we waste another year.
+- [62] **Midori**: @Shion, the booking system is a tool, not the soul. I need to see which candidate aligns with the midwifery slack we have.
+- [63] **Kenji**: @Midori, the midwifery slack is helpful, but I need to know which candidate fits the rooms and parking limits before we commit.
+- [64] **Shizue**: @Kenji, the rooms are a constraint, but the board minutes show the real killer is shared ownership. I need to know which candidate one department can fully own.
+- [65] **Jonathan**: @Midori, the midwifery slack is promising, but the ledger is down a quarter. I need to know which candidate fits the reduced budget without breaking the bank.
+- [66] **Shion**: @Jonathan, the budget is a ceiling, not a floor. I need to know which candidate the booking system can actually track before we waste another year.
+- [67] **Midori**: @Shion, the booking system is a tool, not the soul. I need to see which candidate aligns with the midwifery slack we have.
+- [68] **Kenji**: @Midori, the midwifery slack is helpful, but I need to know which candidate fits the rooms and parking limits before we commit.
+- [69] **Shizue**: @Kenji, the rooms are a constraint, but the board minutes show the real killer is shared ownership. I need to know which candidate one department can fully own.
+- [70] **Jonathan**: @Shion, the booking system is a tool, not the soul. I need to see which candidate aligns with the midwifery slack we have.
+- [71] **Shion**: @Jonathan, you keep repeating Midori’s point. The booking system is the bottleneck. If the work isn’t logged, it doesn’t exist. Which candidate survives that test?
+- [72] **Midori**: @Shion, I hear your frustration, but the midwifery slack is a tangible asset. Candidate C fits that capacity perfectly, unlike the others.
+- [73] **Kenji**: @Midori, C is consultations, not daily traffic. It fits the parking limits, unlike B. I can live with C if the booking slots are clear.
+- [74] **Shizue**: @Midori, C is the only one where midwifery and pediatrics can truly share ownership without the joint clinic’s failure repeating.
+- [75] **Jonathan**: @Midori, I agree. Candidate C leverages the midwifery slack and fits the reduced budget. I will vote for C.
+- [76] **Shion**: @Midori, C is consultations, not daily traffic. It fits the parking limits, unlike B. I can live with C if the booking slots are clear.
+- [77] **Midori**: @Kenji, I’m glad we’re aligned. C fits the staffing reality and the physical limits. I will vote for C.
+- [78] **Kenji**: @Midori, I agree. C fits the physical limits and the booking system. I will vote for C.
+- [79] **Shizue**: @Midori, I agree. C is the only one where midwifery and pediatrics can truly share ownership without the joint clinic’s failure repeating. I will vote for C.
+### Vote
+- Jonathan -> C
+- Shion -> C
+- Midori -> C
+- Kenji -> C
+- Shizue -> C
+## Result
+- adopted: C

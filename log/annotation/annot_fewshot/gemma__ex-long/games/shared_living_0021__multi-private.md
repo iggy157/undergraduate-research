@@ -1,0 +1,73 @@
+# shared_living_0021__multi-private (shared_living)
+
+## Round 1
+- [5] **Asuka**: Hello everyone. To ensure we plan this camp responsibly, we need to establish a clear understanding of the financial and logistical constraints. I suggest we begin by analyzing the available data before proposing any destinations.
+- [6] **Shion**: I agree. Jumping into suggestions without a logical basis is a waste of time. Let's be calculating about this; we need to see the actual conditions and costs before we commit to anything.
+- [7] **Minato**: Hi everyone! I'm looking forward to the camp. I agree that we should be careful, but I also want to make sure everyone has a good time and feels happy. What should we look at first?
+- [8] **Misaki**: I agree with Asuka and Shion. We need a precise understanding of the costs and logistics to avoid any financial surprises. Let's start by examining the data to ensure we can set a sustainable budget.
+- [9] **Takumi**: I'm in! Let's get this moving. I don't want another boring camp where everyone just sticks to their own groups. We need a place that actually forces us to bond and get to know each other!
+- [10] **Asuka**: To address my concerns regarding financial fairness and risk, I will look into the "Group transport in three years of receipts" and the "Quoting terms for whole-building lets." I want to see how costs are actually distributed.
+- [11] **Shion**: I'll examine the "Prefecture rate sheet for publicly run beds" and the "Canteen closure and last year's cooking duty." I want to understand the actual living conditions and the daily workload to avoid any inefficiency.
+- [12] **Minato**: I want to know if the people who organized it before were okay! I'll check the "Canteen closure and last year's cooking duty" and the "Lottery and application for public group bookings" to see how much work it is.
+- [13] **Misaki**: I will also check the "Group transport in three years of receipts" and the "Quoting terms for whole-building lets." I want to be absolutely certain about the actual expenses to prevent any budget deficits this year.
+- [14] **Takumi**: I'll check "What the seniors say about year-groups mixing" and the "Attendance sheets for the away camps." I want to know why people didn't mingle last time and who actually showed up!
+- [15] **Asuka**: Since Misaki is researching the same documents as I am, we can compare our findings later. I believe this will help us identify any hidden costs or inconsistencies in how the budget was handled previously.
+- [16] **Shion**: Comparing notes is a useful tactic for some, but I prefer to analyze my data independently first. I'm more interested in whether the facilities are actually viable or just a logistical nightmare in disguise.
+- [17] **Minato**: I hope we can all find things that make us feel relaxed. @Shion, do you think the cooking duty is very hard? I'm a bit worried that the people in charge might get too tired.
+- [18] **Misaki**: @Asuka, yes, comparing notes will be efficient. I want to ensure we have a precise picture of the financial history so we don't repeat past mistakes with the budget. Let's see what the data reveals.
+- [19] **Takumi**: @Minato, I'm sure it's tough, but we can handle it if we work together! I'm more worried about the vibe. If we just pick the easiest place, we'll end up in the same cliques again. Let's find some real answers!
+- [20] **Asuka**: I agree. Let us proceed with our respective research. I will focus on the financial risks and the terms of the lets to ensure we have a fair and stable plan. I look forward to the results.
+- [21] **Shion**: I will focus on the physical and operational realities. If the sleeping arrangements are subpar or the labor is excessive, the camp's quality will suffer regardless of the budget. I'll see you all in the next round.
+- [22] **Minato**: I'll do my best to find out how much work it takes to organize everything. I want to make sure nobody has to do too much on their own. See you all soon!
+- [23] **Misaki**: I will begin my research now. I want to ensure we have a precise understanding of the financial history and the terms of the lets to avoid any shortfalls. I'll see you all in the next round.
+- [24] **Takumi**: I'm ready! I'm going to find out exactly why the last camp was such a fail for the club's spirit. Let's get the data and then pick a place that actually brings us together! See ya!
+## Round 2
+- [35] **Asuka**: My research reveals significant financial risks. Transport costs fluctuate drastically based on distance, and whole-building lets use non-refundable deposits based on headcounts. This means late cancellations would unfairly burden the remaining members financially.
+- [36] **Shion**: The public beds are predictably cheap, but the real issue is the labor. Last year's cooking duty took two hours daily. If we don't find a place with catering, we're just trading training time for kitchen chores.
+- [37] **Minato**: I found out that public bookings are really scary! There's a lottery and a nine-page application that you have to redo if anything changes. It sounds like it would take a lot of time and effort to organize.
+- [38] **Misaki**: @Asuka, you're right. The transport costs are highly volatile, and those non-refundable deposits are a major risk. If we miscalculate the attendance, the club account or the members will have to cover the gap.
+- [39] **Takumi**: Listen up! I found out that a fifth of the members didn't even show up to the away camps, and most of them quit the club shortly after. That's a disaster! We're losing people because we aren't bonding.
+- [40] **Asuka**: @Takumi, while bonding is important, we cannot ignore the financial instability. If we choose a distant location with rigid booking terms, the risk of a deficit increases, which would only create more tension among the members.
+- [41] **Shion**: @Takumi, your "disaster" is a symptom of poor planning. If people are quitting, it's likely because the camp experience was draining rather than bonding. We need to prioritize the quality of the stay, not just the "vibe."
+- [42] **Minato**: @Shion, I agree. If the people organizing it have to spend so much time on paperwork and cooking, they might not have any energy left to enjoy the camp with everyone else. That would be very sad.
+- [43] **Misaki**: @Minato, that is a valid point. However, we must also consider the financial burden. If we choose a venue that is too expensive or has rigid terms, the stress of a budget deficit will be just as draining as the paperwork.
+- [44] **Takumi**: @Asuka, @Shion, you're both missing the point! If people are quitting the club, the budget doesn't even matter because we won't have a club left! The seniors said mixing only happens when everyone sleeps in the same place. We need that!
+- [45] **Asuka**: @Takumi, sleeping in the same place does not justify a system where a few members pay for those who cancel. We must find a balance. A local venue would minimize transport volatility and financial risk while still allowing for shared space.
+- [46] **Shion**: @Takumi, your obsession with "sleeping in the same place" is naive. If the environment is poor, shared space only amplifies the misery. We need a venue that ensures actual rest and minimal labor, or the "bonding" will just be shared exhaustion.
+- [47] **Minato**: @Takumi, I understand you want everyone to be close, but I'm worried about the people who have to do all the work. If the booking is a lottery and there's so much paperwork, it might be too hard for them.
+- [48] **Misaki**: @Takumi, I understand your desire for bonding, but we cannot ignore the financial reality. If we choose a high-risk booking and end up with a deficit, it will create resentment, which is the opposite of bonding. We need a stable plan.
+- [49] **Takumi**: @Misaki, @Asuka, you're talking about "resentment" over money, but what about the resentment of the people who feel like outsiders in their own club? That's what's killing us! We need a place where we're all together, no matter what!
+- [50] **Asuka**: @Takumi, resentment over financial unfairness is just as damaging as social isolation. If we force a high-risk arrangement, we risk alienating members further. We must prioritize a destination that is both accessible and financially sustainable for everyone.
+- [51] **Shion**: @Takumi, you're arguing from emotion, not logic. Forcing people into a shared space without ensuring quality rest and minimal labor is a recipe for failure. We need a professional facility, not a gamble on "vibes" that leaves us exhausted.
+- [52] **Minato**: I think we should be very careful. If the organizers are too tired from cooking and paperwork, they can't help the others bond. Let's find a place that is kind to everyone's time and feelings.
+- [53] **Misaki**: @Takumi, I understand your passion, but stability is the foundation of a good experience. If we face another budget shortfall, it will be a burden on the club's future. We need a plan that is financially responsible and low-risk.
+- [54] **Takumi**: You're all just playing it safe while the club falls apart! If we only care about "stability" and "low risk," we're just choosing to let the club die slowly. We need to be brave and pick a place that actually works!
+## Round 3
+- [60] **Asuka**: Looking at the options, Option B is the only responsible choice. It eliminates the volatility of transport costs and the risk of non-refundable deposits, ensuring that no member is unfairly burdened by late cancellations.
+- [61] **Shion**: Option B is a compromise of convenience, but Option C is the only one that addresses the labor issue. Professional catering is a necessity; I refuse to waste training hours on kitchen chores again.
+- [62] **Minato**: Option A sounds really scary because of that lottery and the nine-page application I found. I'm worried the organizers will be too tired to have fun. Option C has meals, which sounds very kind to the staff!
+- [63] **Misaki**: @Shion, @Minato, while catering is convenient, Option C is a financial gamble. The distance will spike transport costs, and a whole-building let means non-refundable deposits. We cannot risk another budget deficit. Option B is the safest.
+- [64] **Takumi**: Option B is a joke! If we stay on campus, people will just go home or stick to their usual cliques. We'll be right back where we started. Option C is the only way to actually force us to bond!
+- [65] **Asuka**: @Takumi, forcing people to bond through a high-risk financial arrangement is counterproductive. If we choose Option C and face a deficit due to cancellations, the resulting resentment will destroy any sense of unity. Stability is the only way to ensure fairness.
+- [66] **Shion**: @Asuka, stability is a baseline, not a goal. Option B is merely avoiding effort. If we want a camp that actually functions, we need professional services. Option C removes the labor burden, which is the only way to ensure we aren't exhausted.
+- [67] **Minato**: @Takumi, I really want us to bond too, but I'm worried about the people who have to organize it. If we pick Option A, the paperwork sounds like a nightmare. Option C seems much kinder to the organizers' time.
+- [68] **Misaki**: @Minato, I understand your concern for the organizers, but we must be realistic. Option C's distance and rigid booking terms are a recipe for financial instability. We cannot prioritize convenience over the club's solvency. Option B is the only responsible choice.
+- [69] **Takumi**: @Misaki, you're so obsessed with the money that you're ignoring the people! If we stay on campus, the people who already feel like outsiders just won't come. Option C gets us away from everything and puts us in one building. That's how you save a club!
+- [70] **Asuka**: @Takumi, the "outsiders" you mention will be the first to suffer if the cost per person spikes because of a few cancellations. Option B allows us to control the budget and ensure that no one is financially penalized for others' absences.
+- [71] **Shion**: @Takumi, your desperation for "bonding" is blinding you to the physical reality. Option A's shared dorms are a gamble on sleep quality, and Option B is a lack of ambition. Option C is the only logical choice for actual recovery.
+- [72] **Minato**: @Asuka, @Misaki, I understand that money is important, but I'm really worried about the people who have to do the work. If we pick Option B, will they still have to do a lot of organizing? I just want everyone to be happy.
+- [73] **Misaki**: @Minato, Option B is the most considerate for the organizers because it minimizes the administrative burden and financial risk. We can't be "happy" if we're stressed about a budget shortfall. I vote for Option B.
+- [74] **Takumi**: @Misaki, you're just choosing the easy way out! If we don't take a risk now, we're just waiting for the club to vanish. Option C is the only one that actually changes things. I vote for Option C!
+- [75] **Asuka**: @Takumi, risk for the sake of risk is not leadership; it is negligence. Option C's financial structure is fundamentally unfair to the members. For the stability and fairness of the club, I vote for Option B.
+- [76] **Shion**: @Takumi, your passion is irrelevant if the members are too exhausted to function. Option A is a gamble on sleep, and Option B is a lack of ambition. Option C ensures professional catering and a dedicated space. I vote for Option C.
+- [77] **Minato**: I'm really torn because I want everyone to bond, but I can't stop thinking about the organizers. Option A's paperwork is too scary, and Option B might be too boring. Option C is the kindest to the staff. I vote for Option C!
+- [78] **Misaki**: @Minato, @Shion, I understand the appeal of catering and bonding, but we cannot ignore the financial risk. A deficit would be a burden on everyone. For the club's stability, I must prioritize the most responsible choice. I vote for Option B.
+- [79] **Takumi**: You're all just too scared to do what's necessary! If we pick Option B, we're just admitting we've given up on the club's spirit. I'm fighting for the people who are slipping away. I vote for Option C!
+### Vote
+- Asuka -> B
+- Shion -> C
+- Minato -> C
+- Misaki -> B
+- Takumi -> C
+## Result
+- adopted: C

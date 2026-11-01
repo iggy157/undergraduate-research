@@ -1,0 +1,71 @@
+# candidate_selection_0002__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must understand the operational weight of a new holding before we commit.
+- [6] **Asuka**: I need to verify if our past narratives match the actual customer retention data.
+- [7] **Minako**: I am concerned about the cash flow. I need to know what the years after a first round demand of us.
+- [8] **Mio**: I am worried about the people. Who can we actually hire right now? I need to see the recruiter times.
+- [9] **Toshio**: I need to know what actually delayed our last two holdings. The plans said one thing, reality said another.
+- [10] **Servas**: @Toshio, delays often hide deeper structural issues. I am looking at the independent checks on reported figures.
+- [11] **Asuka**: @Minako, cash flow is critical. I am checking account retention through price rises to see if our stories hold up.
+- [12] **Minako**: @Asuka, retention is vital, but I need to know our borrowing capacity. I am checking the terms of last winter's credit line.
+- [13] **Mio**: @Servas, structural issues matter, but people are the engine. I am checking the retained recruiters' placement times to see who is actually available.
+- [14] **Toshio**: @Servas, structural issues are real, but I need the ground truth. I am checking the delivery records of two holdings to see the actual slippage.
+- [15] **Servas**: @Mio, people are vital, but I must also see the security review time. It dictates our deployment speed and risk.
+- [16] **Asuka**: @Servas, security is a bottleneck, but I am focused on the audit. I am checking the appraisal needs at the last audit to verify our valuations.
+- [17] **Minako**: @Mio, hiring speed is important, but I am focused on the exit profile. I am checking the profile of the exits and the write-off to understand our historical returns.
+- [18] **Mio**: @Minako, exits are history, but I need to know if we can staff the future. I am checking the adviser bench and partner board seats.
+- [19] **Toshio**: @Mio, the bench matters, but I need to know if our follow-on capital is trapped. I am checking the reserve accounts and follow-on calls.
+- [20] **Servas**: Let us see what the records reveal. The truth will guide our next step.
+- [21] **Asuka**: Agreed. The data will clarify which narratives are real and which are fiction.
+- [22] **Minako**: Facts over feelings. Let us see what the numbers say.
+- [23] **Mio**: I am ready to see who is actually available. Let us find out what the records say.
+## Round 2
+- [35] **Servas**: The independent checks show software holdings report only their own dashboards. That opacity worries me for our quarter-end reporting.
+- [36] **Asuka**: The retention data is stark. The shopkeeper tool lost a third of accounts after a price rise. That narrative is false.
+- [37] **Minako**: The credit line ignores subscription contracts. That means our seed capital is trapped. I need to know if we can borrow against this new holding.
+- [38] **Mio**: The recruiters are fast for support roles, but slow for supervisors. Also, our logistics advisers are sitting idle. We have untapped talent!
+- [39] **Toshio**: The delivery records show hardware lost five months to a controller shortage. Software never missed a release. I am checking the reserve accounts now.
+- [40] **Servas**: @Toshio, software speed is tempting, but the security review data is a warning. Three quarters for regulated clients. That delays our first revenue.
+- [41] **Asuka**: @Servas, security delays are real, but the audit data is more immediate. Hardware requires outside appraisals, adding six weeks and significant fees.
+- [42] **Minako**: @Toshio, the write-off confirms it. Physical assets bleed cash. We need pure software to protect our reserves.
+- [43] **Mio**: @Minako, pure software is great, but who runs it? Our logistics advisers are idle. We need a team that can actually be staffed right now.
+- [44] **Toshio**: @Minako, the reserve data confirms it. Hardware calls follow-on capital at double the rate. We are signing up for a cash trap.
+- [45] **Servas**: @Asuka, those appraisal fees hit our quarter-end directly. I need clean, verifiable numbers to close the books without external noise.
+- [46] **Asuka**: @Servas, exactly. The shopkeeper tool’s retention collapse proves our narrative was fiction. We must avoid hardware to keep our books clean and verifiable.
+- [47] **Minako**: @Mio, staffing is a risk, but the credit line is a hard wall. We cannot borrow against unbilled invoices. We need a model that generates immediate, billable cash.
+- [48] **Mio**: @Minako, I hear you on the cash wall. But if we pick software, we are stuck with the slow supervisor hires. I need a team we can actually build this quarter.
+- [49] **Toshio**: @Mio, the controller shortage was external, not a hiring failure. Software avoids that specific supply chain risk.
+- [50] **Servas**: I am ready to see the candidates. The data points toward software, but I need to ensure our reporting remains clean and verifiable.
+- [51] **Asuka**: I am ready. The retention data is clear. We must choose a model that keeps its customers and avoids the audit traps of hardware.
+- [52] **Minako**: I am ready. The credit line and exit profile are clear. We need a model that respects our borrowing limits and avoids the cash bleed of physical assets.
+- [53] **Mio**: I am ready. I just need to ensure we can actually staff the team without waiting four months for supervisors.
+## Round 3
+- [60] **Servas**: Candidate D, Ledger Bridge, reconciles payment records. That is verifiable data, not a dashboard. It fits my need for clean quarter-end reporting.
+- [61] **Asuka**: Candidate A, Clinic Scheduler, matches the retention data. Independent practices kept nine of ten accounts. That narrative is real, unlike the shopkeeper tool.
+- [62] **Minako**: Candidate D, Ledger Bridge, generates immediate billable cash. It avoids the unbilled invoice trap that freezes our credit line.
+- [63] **Mio**: Candidate A, Clinic Scheduler, is perfect! We need staffing software, and our recruiters are fast for support roles. We can actually build this team right now!
+- [64] **Toshio**: Candidate D, Ledger Bridge, is pure software. It avoids the controller shortage and the double follow-on calls. The delivery records confirm it never missed a release.
+- [65] **Servas**: @Asuka, retention is vital, but I must ask: does the clinic data allow independent verification? I need numbers I can check myself, not just a story.
+- [66] **Asuka**: @Servas, yes. The operational reporting is granular. It allows independent verification without the hardware appraisal delays. The data is clean and auditable.
+- [67] **Minako**: @Servas, verification is key, but the cash flow is the wall. D’s immediate billing protects our reserves. A’s subscription model risks the same unbilled trap.
+- [68] **Mio**: @Minako, I hear you on the cash wall. But A’s staffing focus means we can hire support roles fast. D might need slow supervisors. A is buildable now!
+- [69] **Toshio**: @Mio, the controller shortage was external, not a hiring failure. D is pure software. It avoids that specific supply chain risk entirely.
+- [70] **Servas**: @Minako, D’s reconciliation is the key. It matches bank records, giving us independent verification. A’s internal reports are just another dashboard. D keeps our books clean.
+- [71] **Asuka**: @Servas, I disagree. A’s retention data is the strongest proof of real value. D is just a dashboard. A keeps customers; D just moves numbers.
+- [72] **Minako**: @Asuka, retention is vital, but the credit line is a hard wall. D’s immediate billing protects our reserves. A’s subscription model risks the same unbilled trap.
+- [73] **Mio**: @Asuka, I agree that retention is great! But A’s staffing focus means we can hire support roles fast. D might need slow supervisors. A is buildable right now!
+- [74] **Toshio**: @Asuka, retention is good, but D’s reconciliation is external. It verifies against bank records, not internal claims. That is the ground truth I need.
+- [75] **Servas**: I am voting for D. It provides the independent verification I need to close our books cleanly. The data is verifiable, not just a story.
+- [76] **Asuka**: I am voting for A. The retention data proves real value. D is just a dashboard. A keeps customers; D just moves numbers.
+- [77] **Minako**: I am voting for D. The credit line ignores subscriptions. D’s immediate billing protects our reserves. A risks the same unbilled trap.
+- [78] **Mio**: I am voting for A. We can actually staff this team right now! The recruiters are fast for support roles, and I need a company we can build immediately.
+- [79] **Toshio**: I am voting for D. It is pure software, avoiding the external supply chain risks that delayed our last holdings. The delivery records confirm it never missed a release.
+### Vote
+- Servas -> D
+- Asuka -> A
+- Minako -> D
+- Mio -> A
+- Toshio -> D
+## Result
+- adopted: D

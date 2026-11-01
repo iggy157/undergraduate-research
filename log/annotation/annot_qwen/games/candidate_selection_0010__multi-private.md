@@ -1,0 +1,73 @@
+# candidate_selection_0010__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I think we should focus on the actual problems we face daily, not just the flashy ideas.
+- [6] **May**: Agreed, Daisuke. Flashy ideas often ignore the humans doing the work. Let’s keep it grounded and practical.
+- [7] **Shunichi**: Grounded is fine, but I’m tired of promises based on assumptions. We need to verify the actual constraints before committing to anything.
+- [8] **Ryuji**: Shunichi is right. We must verify constraints. I worry about where the money actually comes from before we commit to anything flashy.
+- [9] **Kenji**: I agree with Shunichi. We need to check the records of past rollouts to see what actually worked before we spend more money.
+- [10] **Daisuke**: I’m a bit nervous, but I think we should look at the misrouted deliveries and the time lost copying records.
+- [11] **May**: I’m curious about the staffing of the coordination group and how vendor queries are handled. Those seem like the real bottlenecks.
+- [12] **Shunichi**: I’m checking network coverage at customer plants and in-house developer availability. We keep promising dates based on access we don’t control.
+- [13] **Ryuji**: I will examine the capital budget and software allowance. I need to know the true source of funds before we discuss any other operational details.
+- [14] **Kenji**: I’ll check the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts. I need to see if we’re repeating mistakes.
+- [15] **Daisuke**: I’m glad we’re looking at the real losses. I hope the data shows what I suspect about our daily struggles.
+- [16] **May**: I’m betting the coordination group is just a ghost. If they’re stretched thin, your “practical” ideas will just pile onto their already broken plates.
+- [17] **Shunichi**: May, stop speculating. I’m verifying the actual access constraints. If the network is down, your coordination group is irrelevant.
+- [18] **Ryuji**: Shunichi, your network check is valid, but it doesn’t answer my funding question. I need to know the budget source before we debate operational priorities.
+- [19] **Kenji**: I’m not debating priorities yet. I’m just checking if we’ve already learned this lesson. If we keep repeating the same mistakes, the budget is wasted.
+- [20] **Daisuke**: I just want to make sure we don’t ignore the small, daily frustrations. They add up to real losses.
+- [21] **May**: Daisuke, you’re right. Those small frustrations are exactly why I’m checking the staffing. If the rota breaks, who actually absorbs the extra work?
+- [22] **Shunichi**: I’m not here to comfort anyone. I’m here to ensure we don’t promise dates we can’t keep. The network check is the only thing that matters right now.
+- [23] **Ryuji**: I remain focused on the capital budget. Without knowing the true source of funds, operational debates are premature. I will wait for the data.
+- [24] **Kenji**: I’m just waiting for the data. If the past three rollouts show the same failure pattern, we need to stop funding the same broken ideas.
+## Round 2
+- [35] **Daisuke**: I found eleven misrouted deliveries and an hour daily lost to copying. These are real, measurable losses we ignore.
+- [36] **May**: Two people doing the work of ten. That’s not a bottleneck, it’s a structural failure. @Shunichi, your network is useless if no one is left to answer the phone.
+- [37] **Shunichi**: May, your staffing crisis doesn’t fix dead zones. Half the plants lose signal for afternoons, and device approval took six weeks. Your phone is useless if the network is down.
+- [38] **Ryuji**: The capital line is frozen, but the software allowance has room. Per-head licences climb with every department added, while fixed-fee work has held steady for three years.
+- [39] **Kenji**: @Ryuji, that’s good news. But my data shows broad tools get abandoned. We must fund narrow, single-trade solutions that actually stick.
+- [40] **Daisuke**: @Kenji, narrow tools help, but they don’t stop the copying. We need to fix the root cause of the duplication, not just the symptoms.
+- [41] **May**: @Daisuke, you’re right. But fixing duplication won’t help if the same two people are drowning. We need to stop adding tasks to a broken rota.
+- [42] **Shunichi**: @May, your rota is irrelevant if the signal is dead. Half the plants lose coverage for afternoons. Your phone is useless if the network is down.
+- [43] **Ryuji**: @Kenji, your narrow tools fit the frozen capital line. But per-head licences will spike next year. We must avoid that renewal trap.
+- [44] **Kenji**: @Ryuji, agreed. We must avoid per-head traps. My data shows narrow tools survive because they have clear owners. We need to fund that specific, manageable scope.
+- [45] **Daisuke**: @May, the copying loss is real. If we fix the duplication, maybe the rota pressure eases? I worry about adding more work to tired people.
+- [46] **May**: @Daisuke, easing pressure isn’t the same as fixing it. If we don’t name who absorbs the extra work, the rota just breaks again.
+- [47] **Shunichi**: @May, you’re still ignoring the physical reality. No amount of rota fixing helps if the signal is dead. I’m checking developer availability next.
+- [48] **Ryuji**: @Shunichi, developer availability is secondary. The real risk is the renewal notice. We must secure a fixed-fee structure now to prevent next year’s budget shock.
+- [49] **Kenji**: @Shunichi, I’m not ignoring the signal. I’m asking if we have the people to maintain it. My data shows tools fail without clear owners.
+- [50] **Daisuke**: I’m quiet, but the data is clear. We lose an hour daily to copying. That’s a real, measurable loss we can’t ignore.
+- [51] **May**: @Shunichi, you’re obsessed with signal, but I’m obsessed with people. If the rota breaks, your perfect network is just expensive silence.
+- [52] **Shunichi**: @May, silence is better than a broken promise. My developers are locked until Q3, and the integrator left no docs. We can’t build on air.
+- [53] **Ryuji**: I will wait for the candidates. The fixed-fee structure is the only path that avoids the renewal trap.
+- [54] **Kenji**: I’m ready for the candidates. My data proves narrow, owned tools survive. Let’s see if the proposals match that reality.
+## Round 3
+- [60] **Daisuke**: @Kenji, the Supplier Data Hub directly stops the copying I found. It fixes the root cause of our daily losses.
+- [61] **May**: @Daisuke, C is a trap. It just centralizes the chaos. Who actually maintains it? The same two drowning clerks?
+- [62] **Shunichi**: @May, C is a database, not a network. It doesn’t fix dead zones. @Daisuke, your copying problem is irrelevant if the signal is down.
+- [63] **Ryuji**: @May, C fits the frozen capital line. It avoids per-head licence spikes. The fixed-fee structure prevents the renewal trap I warned about.
+- [64] **Kenji**: @May, you’re right. My data shows broad tools fail without owners. C is a trap. I support A, the narrow, owned tool that actually survives.
+- [65] **Daisuke**: @Kenji, I understand your point, but A doesn’t stop the copying. C is the only one that fixes the root cause of our daily losses.
+- [66] **May**: @Kenji, A is just another task for the same two drowning clerks. If the rota breaks, your app is just expensive noise.
+- [67] **Shunichi**: @May, A is built for offline sync. It works when your network dies. Your staffing crisis doesn’t change physics.
+- [68] **Ryuji**: @Shunichi, offline sync is useful, but the real risk is the renewal notice. We must avoid per-head licence spikes that will shock next year’s budget.
+- [69] **Kenji**: @May, A is for technicians, not clerks. It has a clear owner. My data proves narrow, owned tools survive. C is a broad trap.
+- [70] **Daisuke**: @May, I worry about the maintenance burden. If C fails, we lose the hour daily. I need to know who owns it before I can support it.
+- [71] **May**: @Daisuke, you’re asking the wrong question. It’s not about ownership, it’s about capacity. If the rota breaks, C just becomes another graveyard for your data.
+- [72] **Shunichi**: @Daisuke, ownership is irrelevant if the signal is dead. A syncs offline; C requires connectivity. Your copying problem is a symptom, not the root cause.
+- [73] **Ryuji**: @Daisuke, C’s maintenance costs will hit the frozen capital line. A’s fixed-fee structure avoids the renewal trap. I support A for its predictable, sustainable funding model.
+- [74] **Kenji**: @Daisuke, C is a graveyard. My data proves broad tools fail without owners. A is narrow, owned, and survives. I vote A.
+- [75] **Daisuke**: I’m sorry, but I can’t support A. It ignores the daily copying loss. I vote C, hoping we can find a way to make it work.
+- [76] **May**: @Kenji, you’re voting for a tool that ignores the people maintaining it. I vote D, because it automates the handover notes drowning my clerks.
+- [77] **Shunichi**: @May, D is useless if the network is down. A works offline. I vote A.
+- [78] **Ryuji**: I vote A. Its fixed-fee structure avoids the renewal trap. Predictable costs are essential given the frozen capital line.
+- [79] **Kenji**: I vote A. My data proves narrow, owned tools survive. C is a broad trap. Let’s fund the solution that actually sticks.
+### Vote
+- Daisuke -> C
+- May -> D
+- Shunichi -> A
+- Ryuji -> A
+- Kenji -> A
+## Result
+- adopted: A

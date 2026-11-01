@@ -1,0 +1,73 @@
+# shared_living_0026__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried we’re guessing again! We need to know exactly what’s coming in before we set the fee.
+- [6] **Jonathan**: I agree, Mio. Clarity is essential. Perhaps we should review the ledger first to ground our discussion in facts.
+- [7] **Takumi**: I’m not guessing. I want to know who’s actually doing the work. Why do the same twelve people show up every single time?
+- [8] **Toshio**: I’m concerned about the treasurer’s workload. We need to understand the time commitment before deciding on the fee structure.
+- [9] **Kenji**: I worry about new members feeling lost. If the fee feels like a test, they might not stick around. We need to keep it welcoming.
+- [10] **Mio**: @Jonathan, the ledger is great, but I really need to see the bank statements to know our actual income!
+- [11] **Jonathan**: @Mio, that makes sense. I’ll look into the ledger and the sign-in sheets to understand our actual attendance patterns.
+- [12] **Takumi**: @Toshio, the treasurer’s hours are useless if the same twelve people do everything else. I’m checking the rota against attendance to prove the imbalance.
+- [13] **Toshio**: @Takumi, the rota shows effort, but the ledger shows cost. I’ll check the ledger and the treasurer’s logged hours to see the true burden.
+- [14] **Kenji**: @Mio, I agree! I’ll check the taster forms and sign-up records to see how newcomers actually join.
+- [15] **Mio**: @Kenji, that’s smart! I’ll check the bank statements and the ledger to see exactly where our money is going.
+- [16] **Jonathan**: @Mio, I’ll stick with the ledger and sign-in sheets. Seeing who actually shows up will help us understand the hesitancy I’ve noticed lately.
+- [17] **Takumi**: @Jonathan, you’re dodging the real issue. I’m checking the rota and the sign-in sheets to expose who’s actually carrying the weight.
+- [18] **Toshio**: I’ll check the ledger and the treasurer’s logged hours. I need to see the true burden before we commit to a collection method.
+- [19] **Kenji**: @Mio, I’m sticking with my plan! I’ll check the taster forms and sign-up records to see how newcomers actually join.
+- [20] **Mio**: @Toshio, I hope the ledger reveals the truth! I’m checking the bank statements and the ledger to see exactly where our money is going.
+- [21] **Jonathan**: I’ll review the ledger and sign-in sheets. Understanding the quiet hesitation in our evenings is just as vital as the numbers.
+- [22] **Takumi**: I’m checking the rota and sign-in sheets. I need to prove the imbalance before we argue about money.
+- [23] **Toshio**: I’ll check the ledger and the treasurer’s logged hours. I need to see the true burden before we commit to a collection method.
+- [24] **Kenji**: I’m checking the taster forms and sign-up records. I need to see how newcomers actually join so we can keep the door open for them.
+## Round 2
+- [35] **Mio**: @Jonathan, the ledger shows seventy percent is fixed costs! Plus, a third of renewals needed reminders. We can’t guess the fee now!
+- [36] **Jonathan**: @Mio, that fixed cost figure is sobering. The sign-in sheets confirm a quiet drift; eighteen members never showed. We must balance stability with belonging.
+- [37] **Takumi**: @Jonathan, eighteen ghosts? The rota proves the same nine do everything. We’re subsidizing ghosts while the core burns out.
+- [38] **Toshio**: @Mio, the ledger confirms fixed costs. But the hours reveal the real cost: chasing individual payments takes six hours monthly. A yearly collection takes one.
+- [39] **Kenji**: @Mio, nine people left because a full year felt too big. Eleven others needed hand-worked math. We need a way in that doesn’t scare them off.
+- [40] **Mio**: @Toshio, six hours chasing payments is insane! We need a structure that actually works for everyone, not just the treasurer.
+- [41] **Jonathan**: @Toshio, that efficiency is vital. Yet the sign-in sheets show a quiet withdrawal. We must ensure the fee doesn’t deepen that hesitation.
+- [42] **Takumi**: @Toshio, six hours chasing payments is a waste. The real problem is the nine doing everything. We need to fix the workload, not just the collection method.
+- [43] **Toshio**: @Takumi, the workload is the point. If we choose a method that demands six hours of chasing, we lose the next treasurer. Efficiency protects the role.
+- [44] **Kenji**: @Toshio, I hear you. But if the fee feels like a wall, people won’t join. We need a simple, low-pressure way in that saves time too.
+- [45] **Mio**: @Kenji, I agree! A simple, low-pressure way in is perfect. It saves the treasurer time and keeps the door open for everyone!
+- [46] **Jonathan**: @Kenji, I agree. A gentle entry point respects the quiet hesitation I’ve seen. We need a structure that feels like an invitation, not a demand.
+- [47] **Takumi**: @Kenji, easy entry means easy exit. If eighteen ghosts pay nothing, the nine working hard subsidize them. We need to fix the imbalance first.
+- [48] **Toshio**: @Takumi, the ledger shows fixed costs regardless of attendance. Chasing individual payments is the burden. A yearly collection eliminates that six-hour monthly drain.
+- [49] **Kenji**: @Takumi, I get it, but if the fee feels like a test, people won’t stick around. We need a simple, low-pressure way in that saves time too.
+- [50] **Mio**: @Takumi, I hear you, but we can’t ignore the money! We need a plan that covers those fixed costs without scaring people away.
+- [51] **Jonathan**: @Mio, exactly. We must cover the fixed costs, but the fee should feel like a welcome, not a barrier. Let’s find a middle ground.
+- [52] **Takumi**: @Mio, I’m not ignoring money. I’m ignoring the fact that nine people carry the club while eighteen pay nothing. Fix the rot first.
+- [53] **Toshio**: @Mio, the numbers are clear. A yearly collection covers the fixed costs and frees the treasurer from six hours of monthly chasing. It is the only sustainable path.
+- [54] **Kenji**: @Toshio, yearly sounds efficient, but it’s a big commitment. What if we offer a simple monthly option too? It keeps the door open for newcomers without scaring them off.
+## Round 3
+- [60] **Mio**: @Toshio, I love the efficiency! But @Kenji, a big upfront fee might scare newcomers. Can we make Option A feel like a warm welcome instead?
+- [61] **Jonathan**: @Mio, I agree. A single, quiet fee removes the daily hesitation. It feels like a gentle invitation, not a constant demand.
+- [62] **Takumi**: @Toshio, Option A is a trap. It forces the eighteen ghosts to pay the same as the nine working hard. That’s not fair.
+- [63] **Toshio**: @Takumi, the ledger shows fixed costs exist regardless of attendance. Option A covers them efficiently. Chasing individual payments is the true burden we must avoid.
+- [64] **Kenji**: @Takumi, I hear you, but Option B feels like a test. If newcomers have to pick a level, they might freeze. Option A is just one simple step, keeping the door open.
+- [65] **Mio**: @Kenji, I agree! Option A is simple and covers our fixed costs. Let’s make it feel like a warm welcome, not a scary bill!
+- [66] **Jonathan**: @Mio, I agree. A single, quiet fee removes the daily hesitation. It feels like a gentle invitation, not a constant demand.
+- [67] **Takumi**: @Kenji, "simple" is just a polite word for "unfair." The nine doing the work shouldn't subsidize the eighteen ghosts. Option B is the only honest choice.
+- [68] **Toshio**: @Takumi, fairness is not the issue; sustainability is. Option A eliminates the six-hour monthly drain. Option B adds complexity and more chasing. We need the role to survive.
+- [69] **Kenji**: @Takumi, I get the frustration, but Option B feels like a test. Option A is just one simple step. It keeps the door open for everyone without making them choose a level.
+- [70] **Mio**: @Takumi, I hear your frustration! But Option A is the only way to stop the constant chasing. Let’s make it feel like a warm welcome, not a punishment!
+- [71] **Jonathan**: @Takumi, I understand the frustration. Yet a single, quiet fee removes the daily hesitation. It feels like a gentle invitation, not a constant demand.
+- [72] **Takumi**: @Toshio, you’re protecting your job, not the club. Option B is the only way to stop the nine from burning out. I’m voting B.
+- [73] **Toshio**: @Takumi, I am not protecting a job; I am protecting the club’s survival. Option B creates administrative chaos. Option A is the only sustainable path. I vote A.
+- [74] **Kenji**: @Takumi, I get it, but Option B feels like a test. Option A is just one simple step. It keeps the door open for everyone without making them choose a level. I vote A.
+- [75] **Mio**: @Takumi, I hear you, but we need stability! Option A covers our fixed costs and stops the chasing. I’m voting A to keep the club alive!
+- [76] **Jonathan**: @Mio, I agree. A single, quiet fee removes the daily hesitation. It feels like a gentle invitation, not a constant demand. I vote A.
+- [77] **Takumi**: @Mio, you’re ignoring the burnout! Option B is the only way to stop the nine from breaking. I’m voting B.
+- [78] **Toshio**: I vote A. The numbers are clear. Option A is the only sustainable path.
+- [79] **Kenji**: I vote A. It’s one simple step, not a test. It keeps the door open for newcomers and saves the treasurer time.
+### Vote
+- Mio -> A
+- Jonathan -> A
+- Takumi -> B
+- Toshio -> A
+- Kenji -> A
+## Result
+- adopted: A

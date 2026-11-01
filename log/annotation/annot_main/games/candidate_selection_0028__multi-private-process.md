@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I want to make sure whatever new system we pick actually works on the depot floor. We can't let the office side forget about the real-world chaos of the yards!
+- [6] **Mizuki**: I agree, Kenji. However, we must also ensure the financial commitment is sustainable. I'm concerned about hidden costs that emerge after the initial contract. We need to look at the actual spending patterns over time.
+- [7] **Asuka**: Financials and floor operations are important, but we need to address why previous projects failed. I want to see who actually took responsibility during crises and how the system evolved after implementation.
+- [8] **Rin**: I want to know if we're just patching old holes! Let's find out if things just get old and dusty or if we keep paying people to fix the same mistakes over and over!
+- [9] **Servas**: It is wise to look at the numbers and the tools, but let us not forget the souls who operate them. The true success of any change lies in the hands of the people.
+- [10] **Kenji**: @Servas, you're right! That's why I'm worried about the peak-season rush. If the system crashes when we're busiest, it's a disaster. We need to see how the actual rollout affected the supervisors on the ground.
+- [11] **Mizuki**: @Kenji, that's a valid point. To complement that, I believe we should examine the long-term financial trail. I want to see if the initial budget matched the actual costs as the system aged.
+- [12] **Asuka**: @Mizuki, budget tracking is one thing, but I'm more concerned with accountability. If we don't identify who owns the support during a failure, we'll repeat the same mistakes. We need to examine the ownership records from previous outages.
+- [13] **Rin**: @Asuka, that's a great idea! I also want to see if we're just updating the same tools forever without actually improving them. Let's check the upgrade history of the dispatch tool to see if it's just a bunch of patches!
+- [14] **Servas**: Indeed, the tools are but extensions of our will. I am concerned about the weight we place on our colleagues' shoulders. Let us examine the administrator retirements and the depot supervisors' experiences during the last rollout.
+- [15] **Kenji**: I'm with you, @Servas! I really want to know how the depot supervisors handled that last rollout. Also, I'll check the depot calendar and the peak-season cutover to make sure we don't crash during the rush!
+- [16] **Mizuki**: @Kenji, those are practical choices. To get a clear picture of the long-term financial burden, I will look into the five years of renewal invoices and the board minutes on capital and operating requests.
+- [17] **Asuka**: @Mizuki, those records will be useful. To address my concerns, I will look into support ownership during last winter's outage and warehouse rule changes after new accounts to see how the system's scope shifted.
+- [18] **Rin**: @Asuka, that sounds like a plan! I'm going to look into the upgrade history of the dispatch tool and the data lift in the 2018 pay move to see if we're just patching old holes!
+- [19] **Servas**: I shall follow through with my intentions. I will look into administrator retirements and hiring times, as well as the depot supervisors and the last rollout. We must ensure our people are supported.
+- [20] **Kenji**: Sounds like we've got it covered! I'll dive into the depot calendar and the supervisor reports. Let's hope we find some real answers so the folks in the yard don't have to suffer!
+- [21] **Mizuki**: I believe we have a comprehensive plan. By combining the operational data with the financial history, we can avoid the trap of low entry costs that lead to unsustainable long-term expenses. I look forward to seeing the results.
+- [22] **Asuka**: I agree. If we can pinpoint where accountability failed and how the original scope drifted, we can set much stricter requirements for the new vendor. I will report my findings in the next round.
+- [23] **Rin**: I'm so excited! I'll find out if we've been doing "band-aid" fixes or real magic! See you all soon with the secrets from the archives!
+- [25] **Servas**: Let us proceed with a spirit of openness. I look forward to discovering how we can best protect and empower our team during this transition. Until we meet again, stay positive.
+## Round 2
+- [37] **Kenji**: Wow, this is a mess! I found out that trying a cutover during peak season cost us two days of paper dispatch. Plus, supervisors just ignore the official training and do their own thing!
+- [38] **Mizuki**: @Kenji, that's a worrying gap in training. My findings are equally concerning: while capital budgets are scrutinized, recurring operating costs are slipping through. Specifically, separate add-ons have climbed yearly, while bundled agreements remained stable.
+- [39] **Asuka**: @Mizuki, that confirms my fears about hidden costs. My findings are even more critical: last winter's outage went unowned for two days because support is scattered across four suppliers. No one was actually in charge.
+- [40] **Rin**: @Asuka, that's scary! I found out we're doing exactly what I feared! We skipped three big upgrades because we were too busy, and that 2018 data move was a total mess that took a whole year to fix!
+- [41] **Servas**: It seems we are walking a fragile path. I have learned that we are losing our institutional memory to retirement, and our training is not taking root. We must find a partner who offers more than just software.
+- [42] **Kenji**: @Servas, you're spot on! If the supervisors are just ignoring the training, it means the software doesn't fit how they actually work. We can't just buy a fancy system; it has to survive the yard!
+- [43] **Mizuki**: @Kenji, exactly. And if the system is too complex, we'll likely end up paying for expensive "customizations" or add-ons to fix it. We must avoid modular billing that allows costs to creep up unnoticed over time.
+- [44] **Asuka**: @Mizuki, that is a risk. But beyond costs, we have a governance failure. I also found that warehouse rules were rewritten twice within a year due to new accounts. Our "frozen" scopes are meaningless if they don't account for business volatility.
+- [45] **Rin**: @Asuka, that's just like the data move! Someone comes in, does a quick job, and then we spend a year cleaning up the mess. We can't keep paying for "fixes" that don't actually fix anything!
+- [46] **Servas**: @Rin, your frustration is a mirror of the fatigue our staff feels. When we lose our experienced guides to retirement and training fails to stick, the burden falls on those already stretched thin. We need a vendor who stays by our side.
+- [47] **Kenji**: @Servas, that's the key! We need someone who actually comes to the depot and sees the chaos. If they just send a manual and leave, the supervisors will just ignore it again!
+- [48] **Mizuki**: @Kenji, I agree. A vendor who provides on-site support and a fixed-price model would be ideal. We cannot afford a system where the price fluctuates based on "support hours" or hidden modular fees.
+- [49] **Asuka**: @Mizuki, a fixed-price model is a start, but we need a single point of accountability. We cannot accept a fragmented support structure where vendors point fingers while the system is down. One throat to choke is a necessity.
+- [50] **Rin**: @Asuka, exactly! No more "it's not my job" excuses! We need a partner who takes pride in their work and doesn't leave us with a bunch of broken pieces to glue back together ourselves!
+- [51] **Servas**: @Rin, your passion is a light for us all. Let us seek a partner who values the human element—one who provides hands-on guidance to bridge the gap between a manual and the reality of the yard.
+- [52] **Kenji**: I'm totally on board with that! Let's make sure we pick a vendor who doesn't just sell us a box, but actually helps our people survive the peak-season rush without going back to paper!
+- [53] **Mizuki**: I agree. To ensure this, we must prioritize a vendor with a transparent, all-inclusive pricing structure. We cannot let the "operating cost" trap happen again; predictability is just as important as operational stability.
+- [54] **Asuka**: Predictability is essential, but it must be paired with a rigid governance model. We need a vendor who accepts full ownership of the system's stability and provides a clear process for managing scope changes without losing control.
+- [55] **Rin**: I agree! Let's pick someone who doesn't just give us a "quick fix" and run away. We need a real partner who makes sure everything stays shiny and working for a long, long time!
+- [56] **Servas**: Let us remember that the strongest bridge is built with patience and care. We must choose the path that honors our people's time and spirit, ensuring no one is left to struggle alone.
+## Round 3
+- [62] **Kenji**: @everyone, looking at these, Anchor Industrial Software seems like the best bet! They have an engineering team present through the rollout, which is exactly what we need to make sure it works in the yards!
+- [63] **Mizuki**: @Kenji, I agree that Anchor's presence is a plus. However, we must be cautious. Looking at the pricing, Anchor's on-premise model and Meridian's fixed configuration both offer more predictability than the modular or marketplace approaches of Corvus and Tessera.
+- [64] **Asuka**: @Mizuki, I agree. Corvus is a non-starter; its modular structure is exactly how we ended up with fragmented support and finger-pointing. Between Anchor and Meridian, we need the one with the most rigid accountability.
+- [65] **Rin**: @Asuka, I agree! Corvus sounds like a nightmare of broken pieces. Anchor is way better because they actually stay here to help! No more "quick fixes" and running away—they'll be right there to make it work!
+- [66] **Servas**: My heart leans toward Anchor Industrial Software. With our experienced hands retiring and training often failing to take root, having their engineers physically present is the only way to truly support our weary staff.
+- [67] **Kenji**: @Mizuki, @Asuka, I'm glad we agree! Anchor is the only one that feels real. If they're on-site, they can't ignore the peak-season chaos or the way supervisors actually work. It's the safest choice for the floor!
+- [68] **Mizuki**: @Kenji, I agree. Beyond the operational side, Anchor's model avoids the subscription creep and marketplace fees found in Tessera. A system on our own servers with a dedicated team provides the financial predictability we desperately need.
+- [69] **Asuka**: @Mizuki, I agree. Meridian's fixed configuration sounds stable, but Anchor's on-site engineering team provides a direct line of accountability. It minimizes the risk of a support vacuum and ensures the vendor owns the implementation success.
+- [70] **Rin**: @Asuka, exactly! If they're right here, they can't just send a fancy email and pretend everything is fine while we're still cleaning up their mess. Anchor is the only one that feels like a real partner!
+- [71] **Servas**: @Rin, your spirit is right. When we provide a hand to hold, the fear of the unknown vanishes. Anchor's presence will be the bridge our people need to cross into this new era with confidence.
+- [72] **Kenji**: I'm 100% for Anchor! They're the only ones who won't leave us hanging when things get crazy in the yards. Let's go with them and keep the depot running smooth!
+- [73] **Mizuki**: I am also fully in favor of Anchor. Their model eliminates the risk of hidden modular costs and subscription creep, ensuring our budget remains predictable while providing the on-site support our operations require.
+- [74] **Asuka**: I concur. Anchor Industrial Software provides the single point of accountability and the direct oversight necessary to prevent the governance failures we've seen. It is the most logical choice to ensure stability and ownership.
+- [75] **Rin**: I'm voting for Anchor too! They're the only ones who won't leave us with a bunch of dusty patches and broken pieces. Let's pick the partner who actually stays to help us!
+- [76] **Servas**: I join you all in choosing Anchor Industrial Software. By placing their people beside ours, we honor the dignity of our staff and ensure that no one is left to carry the burden alone.
+- [77] **Kenji**: It's settled then! Let's go with Anchor and make sure our depot teams finally get a system that actually works for them. I'm excited to see those engineers in the yard!
+- [78] **Mizuki**: I agree. By choosing Anchor, we secure both operational stability and financial predictability. It is the most responsible decision for the company's long-term health. I vote for Anchor Industrial Software.
+- [79] **Asuka**: I agree. Anchor is the only option that effectively addresses the need for a single point of accountability and prevents the scope drift we've suffered. I vote for Anchor Industrial Software.
+- [80] **Rin**: I'm voting for Anchor Industrial Software too! Let's get a partner who actually cares about the details and stays until everything is perfect! Yay!
+- [81] **Servas**: I cast my vote for Anchor Industrial Software. Let us move forward with kindness and courage, knowing that we have chosen a path that protects our people and honors their hard work.
+### Vote
+- Kenji -> C
+- Mizuki -> C
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

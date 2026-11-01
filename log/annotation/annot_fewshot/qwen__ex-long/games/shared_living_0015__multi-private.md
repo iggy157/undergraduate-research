@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private (shared_living)
+
+## Round 1
+- [5] **Servas**: I worry about the quiet costs. Let’s look at the last twelve utility statements and the winter habits at a house paying ahead.
+- [6] **Midori**: I’m worried about how money is changing our conversations. I’ll check the payment log and the kitchen notice about the cooler to see where the friction is.
+- [7] **Minato**: I’m curious if the old split still fits us. I’ll check the last twelve utility statements and the plug-in monitor readings to see who uses what.
+- [8] **May**: I need to know the real yearly hit before I commit. I’ll check the last twelve utility statements and the electrician's quote for the rooms.
+- [9] **Daisuke**: I’m worried about who ends up doing the monthly math. I’ll check the trial run of a reconciliation template and the settling up when the last rooms filled.
+- [10] **Servas**: @Midori, friction is often just unspoken expectation. I am glad we are naming it now, before it hardens into resentment.
+- [11] **Midori**: @Servas, I agree. Naming it is the first step. I hope the payment log shows us where the tension actually started, so we can fix it gently.
+- [12] **Minato**: @Midori, I hope we can fix it gently too. I just want to know if the old split is really fair for everyone now.
+- [13] **May**: @Minato, fair is great, but I need to know if the electrician’s quote will make my share explode. I’m checking the statements and that quote.
+- [14] **Daisuke**: @May, I hope the quote isn’t too scary. I’m mostly worried about the time it takes to sort out the bills every month.
+- [15] **Servas**: @Daisuke, the math is a burden, but the warmth is a gift. Let us ensure the system serves the people, not the other way around.
+- [16] **Midori**: @Servas, I love that. Let’s make sure the system protects our friendships, not just the budget. I’m ready to see what the log reveals.
+- [17] **Minato**: @Servas, that sounds nice. I just want to make sure nobody feels like they are carrying too much. I am ready to see the numbers.
+- [18] **May**: @Servas, I appreciate the poetry, but I need hard numbers. If the quote is high, I need to know now before I agree to anything.
+- [19] **Daisuke**: @Servas, I agree. I just want to make sure the system doesn’t eat up everyone’s evenings. I’m ready to see what the template shows.
+- [20] **Servas**: I will examine the last twelve utility statements and the winter habits at a house paying ahead. Let us see what the cold months truly cost.
+- [21] **Midori**: I’ll check the payment log and the kitchen notice about the cooler. Let’s see where the friction actually lives.
+- [22] **Minato**: I’ll check the last twelve utility statements and the plug-in monitor readings. I want to see if the old split still fits us.
+- [23] **May**: I’ll check the last twelve utility statements and the electrician's quote for the rooms. I need to see the real yearly hit before I commit.
+- [24] **Daisuke**: I’ll check the trial run of a reconciliation template and the settling up when the last rooms filled. I need to know how much time this really takes.
+## Round 2
+- [35] **Servas**: @Minato, the statements reveal a wild swing: February costs nearly three times August. We must design for the peak, not the average.
+- [36] **Midori**: @Servas, that swing explains the late payments. The log shows three months settled late, right after someone questioned a sudden change. The friction is real.
+- [37] **Minato**: @Servas, that swing is huge! And the monitor showed one room uses four times more than another. I just want to know if the old split is really fair for everyone now.
+- [38] **May**: @Minato, four times more? That’s brutal. But the electrician wants thirty-four thousand yen per room just to fix it. That’s a massive upfront hit.
+- [39] **Daisuke**: @Minato, that’s a lot of work. The template meant keying in every invoice and computing five refunds separately. It’s a huge time sink.
+- [40] **Servas**: @Daisuke, a system that demands hours of calculation is a system that fails. We need simplicity that respects our time, not just our wallets.
+- [41] **Midori**: @Daisuke, I hear you. The log shows the late payments happened right after the arguments. If the math is too hard, the trust breaks. We need a system that is easy enough to keep us talking.
+- [42] **Minato**: @Daisuke, that sounds really tiring. I just want a way that is easy for everyone, so nobody feels like they are doing too much work.
+- [43] **May**: @Daisuke, if the template eats your evenings, I’m not signing up for it. I need a system that doesn’t require a degree in accounting just to survive winter.
+- [44] **Daisuke**: @May, I agree. The template is too heavy. I’m worried it will become a monthly job for whoever is least able to say no.
+- [45] **Servas**: @May, the thirty-four thousand yen is a barrier, not a solution. We must find a way to share the warmth without building walls of debt between us.
+- [46] **Midori**: @May, I hear your worry. But the kitchen notice showed people sweating rather than arguing over a pooled bill. We need a system that keeps us comfortable without turning us against each other.
+- [47] **Minato**: @May, I understand the worry about the cost. But if one room uses four times more, is it fair to split it evenly? I just want to know the truth.
+- [48] **May**: @Minato, it’s not fair, but I can’t afford thirty-four thousand yen per room right now. I need to know if we can survive the winter swing without that massive upfront cost.
+- [49] **Daisuke**: @Minato, I agree. If the math is too hard, people stop paying. I just want a way that doesn’t steal our evenings.
+- [50] **Servas**: @Minato, the monitor reveals the truth, but the winter habits show a deeper lesson. If we fix the cost ahead, we stop counting every switch. Let us design for peace, not just precision.
+- [51] **Midori**: @Servas, I agree. The cooler notice proved that comfort shouldn’t cost us our friendship. Let’s find a way to share the warmth without the resentment.
+- [52] **Minato**: @Servas, that sounds peaceful. I just want to make sure the numbers match the truth, so nobody feels like they are carrying too much.
+- [53] **May**: @Servas, peace is lovely, but I can’t pay for it with debt. I need a plan that handles the winter spike without the electrician’s massive upfront fee.
+- [54] **Daisuke**: @Servas, I agree. I just want to make sure the system is simple enough that it doesn’t become a monthly burden for one person.
+## Round 3
+- [60] **Servas**: @Minato, the winter habits show that fixing the cost ahead frees us from counting every switch. Option B offers that peace. I am voting B.
+- [61] **Midori**: @Servas, I agree. Option B’s fixed rate prevents the sudden spikes that caused our late payments and arguments. It protects our peace. I am voting B.
+- [62] **Minato**: @Servas, Option B sounds peaceful. But if one room uses four times more, is it fair to pay the same? I just want the truth.
+- [63] **May**: @Minato, the truth is brutal, but Option A’s thirty-four thousand yen upfront is a dealbreaker for me. I can’t commit to that debt.
+- [64] **Daisuke**: @Minato, I worry Option A’s meters mean someone has to chase readings every month. That’s the exact burden I’m trying to avoid.
+- [65] **Servas**: @Minato, fairness is not just arithmetic; it is the freedom to live without anxiety. Option B gives us that dignity. I stand by my vote for B.
+- [66] **Midori**: @Minato, I hear your worry about fairness. But the log shows that sudden changes break trust. Option B’s stability protects our conversations. I stand by my vote for B.
+- [67] **Minato**: @Midori, I understand the need for peace. But if the numbers don’t match the truth, the peace feels fake. I just want to know if B is really fair.
+- [68] **May**: @Minato, I get the fairness worry. But Option A’s upfront cost is a dealbreaker. I’m voting B to avoid that massive debt.
+- [69] **Daisuke**: @Minato, I agree. Option B means one small check at year-end, not a monthly job. It protects our evenings. I am voting B.
+- [70] **Servas**: @Minato, the winter habits prove that certainty brings peace. We do not need to punish the efficient to comfort the generous. I stand by my vote for B.
+- [71] **Midori**: @Minato, I hear you. But the log proves that sudden changes break trust. Option B’s stability protects our conversations. I stand by my vote for B.
+- [72] **Minato**: @Midori, I understand. But if the winter bill is huge, does the fixed rate hide who used the most? I just want to know if it is truly fair.
+- [73] **May**: @Minato, the fixed rate hides the spike, but it protects my wallet from the electrician’s debt. I’m voting B to keep my winter share predictable.
+- [74] **Daisuke**: @Minato, I understand the worry. But Option B means one small check at year-end, not a monthly job. It protects our evenings. I am voting B.
+- [75] **Servas**: @Minato, the year-end settlement is where we speak the truth. We honor the peak together, so no one sits in a coat. I stand by my vote for B.
+- [76] **Midori**: @Minato, the year-end check is a gentle conversation, not an accusation. Option B keeps our daily peace safe. I stand by my vote for B.
+- [77] **Minato**: @Midori, I understand. But if the winter bill is huge, does the fixed rate hide who used the most? I just want to know if it is truly fair.
+- [78] **May**: @Minato, the fixed rate hides the spike, but it protects my wallet from the electrician’s debt. I’m voting B to keep my winter share predictable.
+- [79] **Daisuke**: @Minato, I understand the worry. But Option B means one small check at year-end, not a monthly job. It protects our evenings. I am voting B.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

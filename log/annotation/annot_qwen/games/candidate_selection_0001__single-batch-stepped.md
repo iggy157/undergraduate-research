@@ -1,0 +1,73 @@
+# candidate_selection_0001__single-batch-stepped (candidate_selection)
+
+## Round 1
+- [5] **Servas**: We must consider who is actually here to do the work, not just the idea.
+- [6] **Midori**: I am curious about the balance of costs. Who pays for what now?
+- [7] **Kenji**: Shared facilities are the backbone. I want to know their current capacity.
+- [8] **Benjamin**: Delays kill projects. I need to see where the bottlenecks are.
+- [9] **Toshio**: Past promises often fail. I will look at what actually finished.
+- [10] **Servas**: @Midori, that is a fair point. Resources shape reality.
+- [11] **Midori**: @Servas, yes. I want to see the ledgers and the staffing rolls.
+- [12] **Kenji**: I will check the accreditation and the incident logs on instruments.
+- [13] **Benjamin**: I will look at the portfolio review and the repository turnaround.
+- [14] **Toshio**: I will examine the closeout files and the station records.
+- [15] **Servas**: @Kenji, shared tools are fragile. Good choice.
+- [16] **Midori**: I hope the numbers tell a clear story.
+- [17] **Kenji**: Let us see if the glasshouses are ready.
+- [18] **Benjamin**: Logic suggests we check the data flow first.
+- [19] **Toshio**: The past is the best predictor.
+- [20] **Servas**: Let us proceed with our investigations.
+- [21] **Midori**: Agreed.
+- [22] **Kenji**: Ready.
+- [23] **Benjamin**: Understood.
+- [24] **Toshio**: Proceeding.
+## Round 2
+- [35] **Servas**: The modelling analysts are gone. The glasshouse crew is full.
+- [36] **Midori**: Computing is free, but animal days are expensive.
+- [37] **Kenji**: The spectroscopy suite was idle for months. The glasshouses are full.
+- [38] **Benjamin**: Breeding colonies cause delays. Data deposits are fast now.
+- [39] **Toshio**: Catalogue projects last. Mechanism projects often stall.
+- [40] **Servas**: @Kenji, the idle spectroscopy is a major risk for C.
+- [41] **Midori**: @Benjamin, if data is fast, A and C benefit.
+- [42] **Kenji**: @Servas, yes. C needs that suite. It is broken.
+- [43] **Benjamin**: @Toshio, that aligns with my schedule data.
+- [44] **Toshio**: @Midori, the cost of B is rising sharply.
+- [45] **Servas**: We cannot rely on missing staff for C.
+- [46] **Midori**: B is becoming too expensive for the grant size.
+- [47] **Kenji**: A uses field sites. Are they stable?
+- [48] **Benjamin**: D relies on breeding. That is a known delay risk.
+- [49] **Toshio**: A is a catalogue. Those tend to finish.
+- [50] **Servas**: I am leaning away from C and D.
+- [51] **Midori**: I am concerned about B's costs.
+- [52] **Kenji**: I need to know about the field sites for A.
+- [53] **Benjamin**: D is risky. A seems safer.
+- [54] **Toshio**: A has a track record.
+## Round 3
+- [60] **Servas**: Candidates are A, B, C, D. Let us decide.
+- [61] **Midori**: A seems balanced. B is costly.
+- [62] **Kenji**: A uses field sites. I hope they are okay.
+- [63] **Benjamin**: D is too risky. C is blocked.
+- [64] **Toshio**: A is the most reliable based on closeouts.
+- [65] **Servas**: @Kenji, did you check the field sites?
+- [66] **Midori**: @Toshio, I agree. A is solid.
+- [67] **Kenji**: @Servas, I didn't check, but I trust the others.
+- [68] **Benjamin**: @Midori, B's costs are a dealbreaker.
+- [69] **Toshio**: @Benjamin, yes. D is a gamble.
+- [70] **Servas**: C is out due to staffing and equipment.
+- [71] **Midori**: B is out due to cost.
+- [72] **Kenji**: So it is between A and D.
+- [73] **Benjamin**: D has high delay risk. A is better.
+- [74] **Toshio**: A is the clear choice.
+- [75] **Servas**: I vote for A.
+- [76] **Midori**: I vote for A.
+- [77] **Kenji**: I vote for A.
+- [78] **Benjamin**: I vote for A.
+- [79] **Toshio**: I vote for A.
+### Vote
+- Servas -> A
+- Midori -> A
+- Kenji -> A
+- Benjamin -> A
+- Toshio -> A
+## Result
+- adopted: A

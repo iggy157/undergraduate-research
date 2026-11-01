@@ -1,0 +1,73 @@
+# candidate_selection_0008__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Midori**: I worry about who actually owns the system when it breaks. I want to see the support ownership records from last winter.
+- [6] **Ryuji**: The depot floor never stops. I need to know if the system can handle our peak-season cutover without freezing the yards.
+- [7] **May**: I’m curious about the upgrade history of the dispatch tool. I want to see if it’s been quietly aging or if it’s actually kept up with our needs.
+- [8] **Misaki**: I am concerned about the people who will have to learn the new system. I want to see the administrator retirements and hiring times.
+- [9] **Benjamin**: The sticker price is a lie. I need to see the five years of renewal invoices to find the hidden costs that keep arriving after the contract is signed.
+- [10] **Midori**: @Ryuji, that is a valid concern. I will also look into the depot calendar to see how the cutover timing might affect our operations.
+- [11] **Ryuji**: @Midori, agreed. The calendar is critical. I will check the yard devices and the 2021 scheduling trial to see if they can handle the load.
+- [12] **May**: @Misaki, that’s a smart angle. I’ll check the board minutes on capital requests to see if we’ve been neglecting maintenance for years.
+- [13] **Misaki**: @May, the board minutes might show the budget, but I need the human reality. I will check the depot supervisors and the last rollout to see the strain.
+- [14] **Benjamin**: @May, the board minutes are where the real money hides. I will check the data lift in the 2018 pay move to see if we are paying for ghosts.
+- [15] **Midori**: @Benjamin, hidden costs are real. I will check the warehouse rule changes to see if our processes have drifted from the original plan.
+- [16] **Ryuji**: @Benjamin, I am focused on the physical constraints. I will check the depot calendar and the yard devices to ensure the system fits our reality.
+- [17] **May**: @Ryuji, the yard devices are key. I’ll check the upgrade history of the dispatch tool to see if it’s been quietly aging or if it’s actually kept up with our needs.
+- [18] **Misaki**: @Benjamin, the 2018 data lift is a good check. I will look at the administrator retirements and the depot supervisors to understand the staffing strain.
+- [19] **Benjamin**: @Misaki, the staffing strain is real, but I am chasing the invoices. I will check the five years of renewal invoices to map the true cost curve.
+- [20] **Midori**: I will look into the support ownership during last winter's outage and the warehouse rule changes after new accounts.
+- [21] **Ryuji**: I will look into the depot calendar and the peak-season cutover, and the yard devices and the 2021 scheduling trial.
+- [22] **May**: I will look into the upgrade history of the dispatch tool and the board minutes on capital and operating requests.
+- [23] **Misaki**: I will look into the administrator retirements and hiring times, and the depot supervisors and the last rollout.
+- [24] **Benjamin**: I will look into the five years of renewal invoices and the board minutes on capital and operating requests.
+## Round 2
+- [35] **Midori**: The support records are troubling. Four suppliers, two days of silence. And the warehouse rules drifted twice. The plan never held.
+- [36] **Ryuji**: The calendar shows no freeze window in winter. The 2021 trial failed because the yard devices were too old. We need hardware compatibility.
+- [37] **May**: @Ryuji, the dispatch tool skipped three upgrades. It’s been quietly aging on our racks since 2012. We can’t build on that rot.
+- [38] **Misaki**: @May, that aging tool explains the strain. My data shows two admins retiring, and the last rollout’s routines were dropped within weeks. We are losing the people who hold it together.
+- [39] **Benjamin**: @May, that aging tool explains the invoice creep. My data shows bundled prices held, but add-ons climbed yearly. Capital requests were trimmed, yet operating lines passed unchallenged.
+- [40] **Midori**: @Benjamin, that unchallenged operating spend is exactly the drift I saw. @Misaki, losing those admins means we have no one to catch the next outage.
+- [41] **Ryuji**: @Midori, the silence during outages is a physical risk. If the system fails, the yard stops. We need a vendor with proven uptime, not just a contract.
+- [42] **May**: @Benjamin, that confirms my fear. We let the system rot while approving the bills. We need a vendor who actually maintains the core, not just sells add-ons.
+- [43] **Misaki**: @Midori, exactly. The eleven-month hiring gap means we cannot replace them quickly. We need a vendor who trains our people, not just installs software.
+- [44] **Benjamin**: @Misaki, the hiring gap is a cost center. @May, the rot is a liability. I need a vendor whose operating line stays flat, not one that grows every year.
+- [45] **Midori**: @Ryuji, I agree. A single point of contact is essential. We cannot afford another two-day silence. @May, the aging tool confirms the need for a modern, stable core.
+- [46] **Ryuji**: @May, the rot is real. But the yard devices are the immediate bottleneck. We need a vendor who supports our specific hardware mix, not just the software.
+- [47] **May**: @Ryuji, hardware is vital, but if the core software is a decade old, no device saves us. We need a vendor who fixes the foundation, not just patches the surface.
+- [48] **Misaki**: @Ryuji, hardware matters, but if the people cannot use it, it fails. I need a vendor who respects the supervisors' existing routines, not one that forces a reset.
+- [49] **Benjamin**: @Ryuji, hardware is a capital trap. @May, the core rot is a recurring tax. I need a vendor whose total cost of ownership is predictable, not a subscription that inflates annually.
+- [50] **Midori**: I am ready to see the candidates. We need a vendor who owns the whole picture, not just a piece of it.
+- [51] **Ryuji**: I am ready. The system must survive the yard as it is, not as we wish it to be.
+- [52] **May**: I am ready. We need a partner who actually maintains the core, not one who just sells us more add-ons to patch the rot.
+- [53] **Misaki**: I am ready. The system must fit the people we have, not the ones we wish we could hire.
+- [54] **Benjamin**: I am ready. The invoice trail is clear. I need a vendor whose price tag does not grow a new limb every fiscal year.
+## Round 3
+- [60] **Midori**: @Ryuji, the yard hardware is critical. I am worried about the support gap. Which vendor actually owns the whole system when it breaks?
+- [61] **Ryuji**: @Midori, D is the only one with an engineering team on-site. If the yard freezes, I need boots on the ground, not a ticket queue.
+- [62] **May**: @Ryuji, on-site is great, but D is on our own servers. That’s the exact rot I found. I need a vendor who maintains the core, not just installs it.
+- [63] **Misaki**: @May, I hear you. But D’s team stays through rollout. That is the only way to stop the routines from being dropped again.
+- [64] **Benjamin**: @May, on-site engineers are a capital expense. I need to see if D’s maintenance bill stays flat, or if it becomes the next hidden operating line.
+- [65] **Midori**: @Benjamin, that is a fair worry. But the two-day silence was a cost we cannot repeat. I need to know if D’s team truly owns the whole system, or just the install.
+- [66] **Ryuji**: @Midori, the on-site team covers the rollout, but I need to know if they support the older yard scanners. If they only know the new software, the floor still stops.
+- [67] **May**: @Ryuji, the on-site team is a band-aid. If the core is still aging on our racks, we are just paying for a faster breakdown.
+- [68] **Misaki**: @May, the core rot is real, but the people are the bottleneck. D’s presence ensures the supervisors actually keep the new steps.
+- [69] **Benjamin**: @May, the rot is a symptom, not the cause. The cause is the unchallenged operating line. D’s on-site team is a capital cost, not a recurring tax.
+- [70] **Midori**: @May, I understand the fear of rot. But A’s regional team offers a single point of contact. That solves the ownership gap I found.
+- [71] **Ryuji**: @Midori, A’s regional team is remote. If the yard scanners fail, they cannot fix the hardware. D’s engineers are physically present.
+- [72] **May**: @Ryuji, presence is nice, but A’s fixed configuration prevents the drift I saw. It forces a stable core, not a patchwork of aging parts.
+- [73] **Misaki**: @May, A’s fixed process is rigid. My supervisors dropped the last rigid rollout. D’s team adapts to their routines, which is what actually sticks.
+- [74] **Benjamin**: @Misaki, rigidity is a feature, not a bug. It prevents the add-on creep I found. D’s on-site team is a capital trap; A’s fixed scope is a predictable operating line.
+- [75] **Midori**: @Benjamin, predictability is vital, but I need to know if A’s fixed scope actually covers our specific yard hardware. If it does not, we are back to the ownership gap.
+- [76] **Ryuji**: @Midori, A’s fixed scope is a risk. If it excludes our older scanners, the yard stops. D’s engineers can adapt to the hardware we actually have.
+- [77] **May**: @Ryuji, I hear you, but A’s fixed configuration stops the quiet aging I found. D is just a new way to rot on our racks.
+- [78] **Misaki**: @May, the rot is a symptom of neglect. D’s team stays to teach, not just install. That is how we keep the people we have.
+- [79] **Benjamin**: @May, D’s on-site team is a capital expense, not a recurring tax. A’s fixed scope is the only way to stop the invoice creep I found.
+### Vote
+- Midori -> A
+- Ryuji -> D
+- May -> A
+- Misaki -> D
+- Benjamin -> A
+## Result
+- adopted: A

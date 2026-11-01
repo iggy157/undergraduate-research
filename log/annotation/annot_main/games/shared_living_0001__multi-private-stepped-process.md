@@ -1,0 +1,73 @@
+# shared_living_0001__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Mio**: Let's make this camp amazing! We need to balance the budget and make sure it's easy for everyone to get there. What should we check first?
+- [6] **Shizue**: It would be lovely if we could choose a place that brings everyone closer together. I worry that our members have become a bit distant lately.
+- [7] **Ryuji**: We should be careful about the administrative burden. If the planning is too complex, the organizers will suffer. We need a sustainable choice.
+- [8] **Rin**: I want it to be an adventure! But we can't have everyone exhausted. We need to make sure the place is actually comfortable to stay in!
+- [9] **Misaki**: We need to be realistic about the costs. I want to ensure we have a precise budget before we announce anything to the members.
+- [10] **Mio**: @Misaki, I agree! I'm curious about how we've handled the money before. Maybe we should look at the transport receipts and the bed rates?
+- [11] **Shizue**: I think it's important to understand how the different year-groups are getting along. Perhaps we can look into the seniors' views on mixing?
+- [12] **Ryuji**: I'll look into the workload. I want to know about the cooking duties and the public booking process to avoid burnout.
+- [13] **Rin**: I'm going to find out about the beds and the actual experience of staying there! I'll check the bed rates and the away camp attendance sheets.
+- [14] **Misaki**: I will focus on the financial risks. I'll check the transport receipts and the quoting terms for whole-building lets.
+- [15] **Mio**: Sounds like a plan! I'll take the transport receipts and the bed rates too, just to be sure about the fairness of the costs.
+- [16] **Shizue**: I will also look at the attendance sheets. I want to see who actually comes and who might be feeling left out.
+- [17] **Ryuji**: I'll stick to the logistics of the workload. I'll check the canteen closure and the lottery for public bookings.
+- [18] **Rin**: Wait, I want to know if the rooms are actually good! I'll check the bed rates and the accounts from the inland clubs.
+- [19] **Misaki**: @Mio, if you're checking receipts, let's coordinate. I'll stick to the whole-building lets and the transport receipts to track the gaps.
+- [20] **Mio**: Got it! I'll focus on the bed rates and the transport receipts to see if the flat fee is actually fair for everyone.
+- [21] **Shizue**: I'll look into the seniors' views on mixing and the attendance sheets. I hope we can find a way to make everyone feel welcome.
+- [22] **Ryuji**: I'm set. I'll investigate the canteen closure and last year's cooking duty, and the lottery and application for public group bookings.
+- [23] **Rin**: I'm ready for the research! I'll check the prefecture rate sheet for publicly run beds and the accounts from two clubs that went inland.
+- [24] **Misaki**: I'll handle the quoting terms for whole-building lets and the group transport in three years of receipts. Let's be thorough.
+## Round 2
+- [35] **Mio**: Wow, the transport costs vary so much! If we go far, some people might be paying way more than others if we just use a flat fee.
+- [36] **Shizue**: I've learned that our social bonds are fragile. Many members don't even attend the camps, and the seniors say shared living is the only way to fix it.
+- [37] **Ryuji**: We must avoid any option that requires a lottery application or self-catering. The administrative load and the daily cooking duty are far too high.
+- [38] **Rin**: I found out that some inland places are way too crowded! Eight people to a room? That sounds like a nightmare for sleeping!
+- [39] **Misaki**: The transport costs are volatile, and whole-building lets are risky. If we commit to a fixed price and people cancel, the club account will take the hit.
+- [40] **Mio**: @Misaki, that's exactly what I'm worried about! We need a place where the cost is stable and doesn't leave a few people paying for the ones who quit.
+- [41] **Shizue**: @Ryuji, I understand the workload, but if we choose a place that's too convenient, we might miss the chance to actually bond as a club.
+- [42] **Ryuji**: Bonding is useless if the organizers are too exhausted to participate. We need a facility with a canteen and a simple booking process.
+- [43] **Rin**: @Ryuji, a canteen is great, but if the rooms are tiny and crowded, everyone will be grumpy and tired! We need space to actually sleep.
+- [44] **Misaki**: I cannot support any option with unpredictable costs. We need a destination where the price is fixed per person and doesn't rely on a total headcount.
+- [45] **Mio**: Maybe a local option is best? It keeps transport costs low and fair, and it's easier to manage if someone drops out at the last minute.
+- [46] **Shizue**: But will a local option encourage the year-groups to mingle? I fear that if it's too easy to go home, the distance between members will grow.
+- [47] **Ryuji**: A local option is only viable if it doesn't require us to cook for fifty people. I will not support any plan that involves a kitchen duty.
+- [48] **Rin**: I don't care if it's local or far, as long as we aren't crammed into one room! We need a place with proper beds and enough space.
+- [49] **Misaki**: @Mio, a local option is safer financially. The less we spend on transport and the fewer deposits we pay, the lower the risk of a deficit.
+- [50] **Mio**: I'm leaning towards something affordable and close. It's the only way to ensure the fee distribution is fair and doesn't punish anyone.
+- [51] **Shizue**: I'm worried about the members who don't show up. We need a destination that feels like a special event, something that makes them want to stay.
+- [52] **Ryuji**: I'll support any option that is "all-inclusive" regarding meals and has a straightforward booking system. No lotteries, no cooking, no stress.
+- [53] **Rin**: I'm going to vote against any place that looks like a crowded dormitory. We need quality sleep to have a good training camp!
+- [54] **Misaki**: My priority is the club's financial health. I will vote for the option that has the most predictable and lowest risk of unexpected costs.
+## Round 3
+- [60] **Mio**: Option A is the safest for the budget. No huge transport costs means the flat fee is fair and we don't lose money if people cancel.
+- [61] **Shizue**: I'm afraid Option A will just be like every other day. We need the shared experience of Option B or C to bridge the gap between year-groups.
+- [62] **Ryuji**: Option B is out. The municipal reservation system is a nightmare of lotteries and paperwork. Option C is better because the owner handles the meals.
+- [63] **Rin**: Option B is a no-go! Those inland centres are the ones with eight people to a room. We'll all be exhausted by day three!
+- [64] **Misaki**: Option C is a financial disaster waiting to happen. A whole-building let with a non-refundable deposit and high transport costs is too risky.
+- [65] **Mio**: @Ryuji, Option C might be nice, but the transport costs for two prefectures would be huge. It would make the fee very uneven for some.
+- [66] **Shizue**: @Misaki, I understand the risk, but look at the attendance sheets. If we stay on campus, the members who already feel distant simply won't come.
+- [67] **Ryuji**: @Shizue, the organizers will be the ones paying the price for that "experience." Option C is the only one that removes the cooking and booking burden.
+- [68] **Rin**: @Ryuji, is the Coastal Lodge actually comfortable? If it's just another crowded dorm, I'm voting for Option A. At least we can sleep at home.
+- [69] **Misaki**: Option A is the only choice that guarantees we won't end up with another deficit. I cannot risk the club's account on a gamble.
+- [70] **Mio**: I want everyone to be happy, but I can't ignore the money. Option A is the only one where the cost is truly fair for every single member.
+- [71] **Shizue**: If we choose Option A, we are essentially giving up on the social health of the club. We must take a risk to bring the students together.
+- [72] **Ryuji**: I cannot support Option A if it means the organizers have to manage separate accommodation for commuters. That's just more administrative work.
+- [73] **Rin**: I'm really worried about the sleep quality. If Option C has private rooms or at least decent space, I'm for it. Otherwise, I'll take Option A.
+- [74] **Misaki**: @Ryuji, administrative work is a temporary burden. A financial deficit is a permanent scar on the club's budget. Option A is the only responsible choice.
+- [75] **Mio**: I'll vote for Option A. It's the most balanced choice for the budget and ensures no one is unfairly burdened by the costs.
+- [76] **Shizue**: I will vote for Option C. It's the only way to create a shared environment that encourages the year-groups to actually talk and bond.
+- [77] **Ryuji**: I'm voting for Option C. It's the only option that doesn't force the organizers into a cooking duty or a municipal lottery nightmare.
+- [78] **Rin**: I'll vote for Option A. I've seen what happens when people don't sleep—the training becomes useless. Campus is the safest bet for rest.
+- [79] **Misaki**: I vote for Option A. We must prioritize fiscal stability and avoid any destination that could lead to another budget shortfall.
+### Vote
+- Mio -> A
+- Shizue -> C
+- Ryuji -> C
+- Rin -> A
+- Misaki -> A
+## Result
+- adopted: A

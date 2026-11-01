@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: I need to understand the history of friction here. I will examine the last year's complaint log entries and the five years of association minutes.
+- [6] **Shizue**: I’m worried about the morning rush. I’ll check the morning departures watched from the entrance and the rain exposure along the parking rows.
+- [7] **May**: I’m curious about the actual money flow. I’ll check the building account's two-year ledger and the Treasurer's handover file on cash collections.
+- [8] **George**: I need to see what the daily upkeep actually demands. I’ll check the sticker register and the daily riders, plus the trial of the supplier's display frame.
+- [9] **Mio**: I’m worried the same doors always get the best spots! I’ll check the sticker register and the daily riders to see who actually uses the spaces.
+- [10] **Misaki**: @Mio, checking who actually uses the spaces is smart. I’m still focused on the history of friction to see how these disputes escalate.
+- [11] **Shizue**: @Misaki, understanding the past helps us heal. I’m hoping the morning watch shows us how to keep everyone safe and smiling.
+- [12] **May**: @Shizue, safety is vital, but money talks too. I’m digging into the ledger to see if we’re actually broke or just pretending to be.
+- [13] **George**: @May, money is important, but I’m worried about the physical labor. I need to know if the frame trial shows how much work is actually required.
+- [14] **Mio**: @George, I hope the frame trial is easy! I’m really curious if the sticker register shows if the same people always grab the prime spots.
+- [15] **Misaki**: @Shizue, I hope the rain data shows which spots are truly miserable. I’m still focused on the complaint log to see how small grievances turn into real conflict.
+- [16] **Shizue**: @Misaki, I hope the rain data shows which spots are truly miserable. I’m still focused on the morning watch to see how to keep everyone safe and smiling.
+- [17] **May**: @Misaki, I hope the complaint log reveals if people are just complaining about the rain or the money. I’m still digging into the ledger to see where the cash actually goes.
+- [18] **George**: @Mio, the sticker register will show the pattern, but the frame trial shows the effort. I need to know if one person can handle the physical load alone.
+- [19] **Mio**: @George, I hope the frame isn’t too heavy! I’m really hoping the sticker register proves the spots aren’t just for the same few people.
+- [20] **Misaki**: I will examine the last year's complaint log entries and the five years of association minutes. I need to see how these disputes escalate before we decide.
+- [21] **Shizue**: I will check the morning departures watched from the entrance and the rain exposure along the parking rows. I want to see how to keep everyone safe and smiling.
+- [22] **May**: I’ll check the building account's two-year ledger and the Treasurer's handover file on cash collections. I need to know the real costs before we decide.
+- [23] **George**: I will examine the sticker register and the daily riders, plus the trial of the supplier's display frame. I need to know the true physical and administrative burden.
+- [24] **Mio**: I’ll check the sticker register and the daily riders. I need to see if the same doors always get the best spots or if it’s just a rumor!
+## Round 2
+- [35] **Misaki**: The logs show nine complaints died because no one owned them. The minutes reveal the same flats held covered spots for five years without review.
+- [36] **Shizue**: @Misaki, nine complaints fading away is so sad. My watch showed four mornings where someone had to shove a bike just to get out. We need a gentler flow.
+- [37] **May**: @Misaki, nine dead complaints? That’s a red flag. My ledger shows capital work needs a levy, and the treasurer spends three hours monthly just reconciling cash.
+- [38] **George**: @May, three hours monthly is a burden. My frame trial showed hoisting takes twenty seconds, but the spring needs greasing twice a year. That is real, recurring physical work.
+- [39] **Mio**: @Misaki, five years with no review? That confirms my worry! The sticker register shows people would pay to avoid being counted equally. We need a fairer system!
+- [40] **Misaki**: @Mio, people paying to avoid counting is worrying. But the real danger is the silence. If we don’t review the spots, the same friction will just fester again.
+- [41] **Shizue**: @Mio, I hear you. But my watch showed the shoving is the real pain. If we rotate spots, the rain won’t decide who suffers. Let’s keep it gentle.
+- [42] **May**: @Shizue, gentle is great, but who pays for the rain damage? My ledger shows capital work needs a levy. We can’t just hope the money appears!
+- [43] **George**: @May, the levy is necessary, but the labor is the trap. Greasing the spring twice a year is a small task, but if it falls on one person, it will be forgotten.
+- [44] **Mio**: @Shizue, I agree! If we rotate, the rain won’t always punish the same doors. But @May, how do we pay for that without making people grumble more?
+- [45] **Misaki**: @George, if the greasing falls on one person, it will be forgotten. We need a system where the burden is visible and shared, not hidden in silence.
+- [46] **Shizue**: @George, you are right. If we share the small tasks, no one feels burdened. Let’s make sure the rotation is easy for everyone to follow.
+- [47] **May**: @George, I agree. But my ledger shows the cash is already flat. If we add a levy for the frame, will people actually pay, or just complain?
+- [48] **George**: @May, the cash is flat, but the labor is the real risk. If we don’t assign the greasing clearly, it will vanish. We need a visible, shared duty.
+- [49] **Mio**: @May, I worry people will grumble about paying! But if the spots rotate fairly, maybe they’ll stop complaining about the rain and just pay the small fee?
+- [50] **Misaki**: I will examine the last year's complaint log entries and the five years of association minutes. I need to see how these disputes escalate before we decide.
+- [51] **Shizue**: I will check the morning departures watched from the entrance and the rain exposure along the parking rows. I want to see how to keep everyone safe and smiling.
+- [52] **May**: I’ll check the building account's two-year ledger and the Treasurer's handover file on cash collections. I need to know the real costs before we decide.
+- [53] **George**: I will examine the sticker register and the daily riders, plus the trial of the supplier's display frame. I need to know the true physical and administrative burden.
+- [54] **Mio**: I’ll check the sticker register and the daily riders. I need to see if the same doors always get the best spots or if it’s just a rumor!
+## Round 3
+- [60] **Misaki**: The minutes show five years of static spots with no review. Option C repeats that exact failure. I reject it.
+- [61] **Shizue**: @Misaki, I agree. But Option B’s open racks mean more shoving in the morning. My watch showed that is the real pain. We need a gentler flow.
+- [62] **May**: @Shizue, shoving is a pain, but my ledger shows capital work needs a levy. Option A’s monthly charge funds that. Who pays for the racks in B?
+- [63] **George**: @May, the levy is necessary, but the labor is the trap. Option B’s open racks mean anyone can hoist a bike, spreading the physical effort. I support B.
+- [64] **Mio**: @Misaki, I agree! Five years of no review is exactly what I found. Option C just locks in the unfairness. I’m voting for A to make it fair!
+- [65] **Misaki**: @Mio, Option A’s monthly charge creates a new friction. People will resent paying for a spot they already use. I reject A.
+- [66] **Shizue**: @Misaki, I understand the worry. But Option A’s charge could fund the covered spots, so the rain won’t punish anyone. Let’s keep the morning gentle and safe.
+- [67] **May**: @Misaki, resentment is just a symptom of bad math. My ledger shows the cash is flat. Option A’s charge is the only way to fund the racks without a surprise levy!
+- [68] **George**: @May, the charge is a trap. If the money sits in the account, the greasing duty will still be forgotten. I need a system where the work is visible, not just the cash.
+- [69] **Mio**: @Misaki, I get the worry! But if the charge funds the covered spots, the rain won’t punish the same doors. Option A feels fairer than C’s lottery!
+- [70] **Misaki**: @May, resentment is not just bad math. It is the silence before the next complaint. Option A turns neighbors into debtors. I reject it.
+- [71] **Shizue**: @Misaki, I hear your worry. But if the charge keeps the rain off our saddles, the morning shoving stops. Let’s keep everyone safe and smiling.
+- [72] **May**: @Misaki, debtors? That’s harsh! But my ledger proves the cash is flat. Option A’s charge is the only way to fund the racks without a surprise levy.
+- [73] **George**: @Misaki, the silence is the danger. Option B spreads the hoisting and greasing to everyone, so no single person carries the burden. I support B.
+- [74] **Mio**: @Misaki, I hear you! But Option A’s charge funds the covered spots, so the rain won’t punish the same doors. It’s fairer than C’s lottery!
+- [75] **Misaki**: I stand by my rejection of A and C. Option B is the only choice that prevents the silence from returning. I am voting B.
+- [76] **Shizue**: @Misaki, I understand the worry. But Option A’s charge keeps the rain off our saddles and stops the morning shoving. I am voting A to keep everyone safe and smiling.
+- [77] **May**: @Misaki, I hear the worry, but my ledger shows the cash is flat. Option A’s charge is the only way to fund the racks without a surprise levy. I am voting A.
+- [78] **George**: @Misaki, the silence is the danger. Option B spreads the hoisting and greasing to everyone, so no single person carries the burden. I am voting B.
+- [79] **Mio**: @Misaki, I hear you! But Option A’s charge funds the covered spots, so the rain won’t punish the same doors. It’s fairer than C’s lottery! I am voting A.
+### Vote
+- Misaki -> B
+- Shizue -> A
+- May -> A
+- George -> B
+- Mio -> A
+## Result
+- adopted: A

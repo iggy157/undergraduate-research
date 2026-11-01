@@ -1,0 +1,23 @@
+2026-10-29 10:03:15,573 websockets.server INFO server listening on 127.0.0.1:27005
+2026-10-29 10:03:15,573 server.runner INFO listening on ws://127.0.0.1:27005 for setup shared_living_0002
+2026-10-29 10:03:16,856 websockets.server INFO connection open
+2026-10-29 10:03:16,857 websockets.server INFO connection open
+2026-10-29 10:03:16,857 websockets.server INFO connection open
+2026-10-29 10:03:16,857 server.transport INFO seat1 connected (1/5)
+2026-10-29 10:03:16,857 server.transport INFO seat2 connected (2/5)
+2026-10-29 10:03:16,858 server.transport INFO seat4 connected (3/5)
+2026-10-29 10:03:16,861 websockets.server INFO connection open
+2026-10-29 10:03:16,861 websockets.server INFO connection open
+2026-10-29 10:03:16,861 server.transport INFO seat5 connected (4/5)
+2026-10-29 10:03:16,861 server.transport INFO seat3 connected (5/5)
+2026-10-29 10:03:16,869 server.game INFO game shared_living_0002__multi-private__qwen3.8-27b__20261029T100316 starting (shared_living_0002)
+2026-10-29 10:05:04,579 server.game INFO game shared_living_0002__multi-private__qwen3.8-27b__20261029T100316 finished: {'adopted': 'A', 'tally': {'A': 2, 'B': 1, 'C': 2}, 'tie': True}
+2026-10-29 10:05:04,611 websockets.server INFO connection closed
+2026-10-29 10:05:04,611 websockets.server INFO connection closed
+2026-10-29 10:05:04,618 websockets.server INFO connection closed
+2026-10-29 10:05:04,638 websockets.server INFO connection closed
+2026-10-29 10:05:04,640 websockets.server INFO connection closed
+2026-10-29 10:05:04,640 websockets.server INFO server closing
+2026-10-29 10:05:04,640 websockets.server INFO server closed
+shared_living_0002__multi-private__qwen3.8-27b__20261029T100316	{"adopted": "A", "tally": {"A": 2, "B": 1, "C": 2}, "tie": true}
+run_multi: shared_living_0002__multi-private__qwen3.8-27b__20261029T100316	{"adopted": "A", "tally": {"A": 2, "B": 1, "C": 2}, "tie": true}

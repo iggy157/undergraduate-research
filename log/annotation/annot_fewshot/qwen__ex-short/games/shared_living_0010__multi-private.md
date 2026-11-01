@@ -1,0 +1,73 @@
+# shared_living_0010__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: I need to understand the actual time cost before we agree to anything.
+- [6] **Mio**: I feel like the same people always end up doing the heavy lifting. I want to see who actually uses the space.
+- [7] **Victoria**: I worry about the unspoken tension. I need to know what "done" means to each of us before we proceed.
+- [8] **Rin**: I am tired of paying for bleach and sponges from my pocket! I need to know the exact monthly cost and who owes what.
+- [9] **Daisuke**: I just want to stop guessing what state the rooms are in. It’s exhausting to walk in and not know what to expect.
+- [10] **Ryuji**: @Mio, tracking usage is smart, but I need to know if the time spent actually drops when we rotate duties.
+- [11] **Mio**: @Ryuji, I agree! If we rotate, the time might drop, but I need to see the calendar to check who’s actually home.
+- [12] **Victoria**: @Mio, the calendar shows presence, but not intent. I need to understand the emotional weight of "done" to prevent future resentment.
+- [13] **Rin**: @Victoria, feelings are important, but money is real! I need to see the receipts to know exactly who owes me for the sponges.
+- [14] **Daisuke**: @Rin, I understand the frustration with costs. But for me, the main issue is the unpredictability of the rooms.
+- [15] **Ryuji**: @Daisuke, unpredictability is a symptom of inconsistent standards. I need to measure the actual duration of a full pass to see if the load is manageable.
+- [16] **Mio**: @Daisuke, I get that! But if we don’t know who’s actually here, the schedule is just a guess. I’ll check the calendar.
+- [17] **Victoria**: @Ryuji, timing is useful, but it misses the human element. I need to see the chat logs to understand where the friction actually starts.
+- [18] **Rin**: @Ryuji, timing is good, but I need the receipts! I want to see the spray stock and the tin's receipts to calculate the real monthly cost.
+- [19] **Daisuke**: @Ryuji, I agree. Knowing the time helps me plan. I will look at the stopwatch timing and the grout condition.
+- [20] **Ryuji**: I will check the stopwatch timing of a full pass and the absences on the wall calendar.
+- [21] **Mio**: I will check the fortnight's watch on kitchen use and the absences on the wall calendar.
+- [22] **Victoria**: I will check what each housemate counts as done and the rows recorded in the house chat.
+- [23] **Rin**: I will check the bathroom spray stock and the tin's receipts, and the management office rate sheet and billing.
+- [24] **Daisuke**: I will check the stopwatch timing of a full pass and the bathroom grout after the July scrub.
+## Round 2
+- [35] **Ryuji**: The timing shows one hundred two minutes per pass. With two often away, the load concentrates on three. I need to know if rotation actually reduces my personal hours.
+- [36] **Mio**: @Ryuji, that confirms it! Two people are gone for weeks, so the work piles onto the rest of us. I need to see the kitchen usage to match it.
+- [37] **Victoria**: @Ryuji, the chat logs show friction starts when "done" is ambiguous. I need to align our definitions before we schedule anything.
+- [38] **Rin**: @Ryuji, one hundred two minutes is huge! But the receipts show we waste money buying duplicate spray. I need to stop the financial leak first.
+- [39] **Daisuke**: @Ryuji, the grout spots back in eleven days. That is why the bathroom feels unpredictable. I need a schedule that accounts for that speed.
+- [40] **Ryuji**: @Daisuke, eleven days is critical. If the bathroom degrades that fast, a weekly rotation is mandatory. I need to see if the outside firm’s terms cover that frequency.
+- [41] **Mio**: @Ryuji, I see! If the bathroom gets dirty in eleven days, we can’t just guess. I need to match the kitchen usage with who is actually home.
+- [42] **Victoria**: @Mio, the kitchen is where the silence breaks. I need to know if the "done" standard there is the real trigger for our arguments.
+- [43] **Rin**: @Mio, the management office charges four thousand two hundred yen an hour! That is way more than our two thousand three hundred yen in supplies.
+- [44] **Daisuke**: @Rin, four thousand two hundred yen is too high. I just want the rooms to be predictable, not expensive.
+- [45] **Ryuji**: @Rin, the firm is too expensive. I need to know if a strict internal rotation can keep the grout clean without that cost.
+- [46] **Mio**: @Rin, that hourly rate is scary! But if we rotate fairly, we might not need them. I’m checking the kitchen logs to see who’s actually cooking.
+- [47] **Victoria**: @Rin, the cost is high, but the chat shows the real issue is unspoken expectations. I need to see if the kitchen is where that silence breaks.
+- [48] **Rin**: @Victoria, the chat is important, but I need the money sorted! I will check the standard terms of the outside firm to see if they are cheaper than we think.
+- [49] **Daisuke**: @Ryuji, I agree. I just need to know if a strict schedule will actually keep the grout clean for me.
+- [50] **Ryuji**: I will check the standard terms of the outside firm and the note left by the previous tenants.
+- [51] **Mio**: I will check the fortnight's watch on kitchen use and the note left by the previous tenants.
+- [52] **Victoria**: I will check the note left by the previous tenants and the rows recorded in the house chat.
+- [53] **Rin**: I will check the standard terms of the outside firm and the rows recorded in the house chat.
+- [54] **Daisuke**: I will check the note left by the previous tenants and the bathroom grout after the July scrub.
+## Round 3
+- [60] **Ryuji**: Option B is the only one that guarantees my hours drop. Option A lets me avoid work, but the grout will fail.
+- [61] **Mio**: @Ryuji, I agree! Option B is fair because it accounts for who is actually home. Option A just lets the absent ones off the hook.
+- [62] **Victoria**: @Ryuji, Option B creates a rigid calendar, but it doesn't address the ambiguity of "done." I fear it will just formalize our existing friction.
+- [63] **Rin**: @Victoria, I worry about the money! Option C costs four thousand two hundred yen an hour. I need to know who pays that bill first!
+- [64] **Daisuke**: @Victoria, I understand the worry about standards. But for me, Option B is the only way to stop the grout from failing before my turn.
+- [65] **Ryuji**: @Victoria, the ambiguity is solved by the stopwatch. If it takes forty-seven minutes, it is done. I need the hours to be predictable, not open to debate.
+- [66] **Mio**: @Victoria, I get that, but the calendar shows who is actually here! Option B lets us skip weeks if we are away, so it feels way fairer to me.
+- [67] **Victoria**: @Ryuji, timing measures effort, not understanding. If we don't agree on what "done" looks like, a rigid rota just creates new arguments about whether the job was actually finished.
+- [68] **Rin**: @Ryuji, forty-seven minutes is still a lot! But Option B means I only pay for my week. Option C is too expensive for my pocket!
+- [69] **Daisuke**: @Rin, I agree, the cost is high. But Option B gives me the predictability I need. I just want to know the rooms are ready when I walk in.
+- [70] **Ryuji**: @Rin, the cost is high, but the time is the real burden. I need to know if Option B actually removes the hours from my week, not just shifts them.
+- [71] **Mio**: @Rin, I agree! Option B is the only one that feels fair. If I’m away, I shouldn’t be stuck with the kitchen. Let’s vote for B!
+- [72] **Victoria**: @Mio, I hear the fairness, but I fear B creates a new silence. I need a shared definition of "done" to prevent resentment, not just a schedule.
+- [73] **Rin**: @Victoria, I agree! But Option B means I only pay for my specific week. No more surprise bills! I am voting for B!
+- [74] **Daisuke**: @Victoria, I understand the worry. But for me, Option B is the only way to stop the grout from failing before my turn.
+- [75] **Ryuji**: I am voting for B. It is the only option that makes my time predictable and removes the burden from my week.
+- [76] **Mio**: I am voting for B! It finally makes the work match who is actually home. No more guessing!
+- [77] **Victoria**: I am voting for B. A shared schedule is the only way to break the silence and keep us on speaking terms.
+- [78] **Rin**: I am voting for B! It means I only pay for my own week. No more surprise bills from my pocket!
+- [79] **Daisuke**: I am voting for B. It gives me the predictability I need to stop guessing the state of the rooms.
+### Vote
+- Ryuji -> B
+- Mio -> B
+- Victoria -> B
+- Rin -> B
+- Daisuke -> B
+## Result
+- adopted: B

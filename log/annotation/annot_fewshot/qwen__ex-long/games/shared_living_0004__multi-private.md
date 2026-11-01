@@ -1,0 +1,73 @@
+# shared_living_0004__multi-private (shared_living)
+
+## Round 1
+- [5] **Sakura**: I’m worried about who pays for what! Last time, I accidentally bought everyone’s snacks. Let’s check the all-in rates and what separately booked rooms cost last time!
+- [6] **Victoria**: I need to see the ferry schedule and the train times. I want to know exactly how long we are stuck in transit before we even arrive.
+- [7] **Midori**: I want to understand why we felt so disconnected last time. I’ll check how last year's days ran and the time alone in the shared-house year.
+- [8] **Toshio**: I will examine the ferry sailings and train time, plus getting around by train and bus. I need to quantify the transit hours to protect my rest.
+- [9] **Daisuke**: I’m a bit nervous about the daily routine. I’ll check the bathing hours and the inn mealtimes. I need to know if I can manage without feeling rushed.
+- [10] **Sakura**: @Victoria, that sounds like a long journey! I hope the ferry isn’t too bumpy. I’m still thinking about who pays for the snacks!
+- [11] **Victoria**: @Sakura, I understand the worry. But I need to know the transit duration first. If the journey is too long, the cost of rest becomes a hidden expense.
+- [12] **Midori**: @Sakura, I hear you! But I’m curious if the disconnect was about the space or the schedule. I’ll check how last year's days ran and the time alone in the shared-house year.
+- [13] **Toshio**: @Victoria, I agree. The transit hours are the critical variable. I will verify the exact ferry and train durations to minimize the time lost to travel.
+- [14] **Daisuke**: @Midori, I hope the schedule wasn’t too rigid. I’m just trying to figure out if I can breathe during the day.
+- [15] **Sakura**: @Midori, I hope the days weren’t boring! I’m still worried about the money. Who pays for the ferry?
+- [16] **Victoria**: @Sakura, the ferry cost is part of the total. I need the full picture before we agree. Let’s see the actual numbers.
+- [17] **Midori**: @Sakura, I understand the worry. But I’m hoping the schedule explains the disconnect. I’ll check how last year's days ran and the time alone in the shared-house year.
+- [18] **Toshio**: @Sakura, the ferry cost is fixed. My concern is the time. I need to know if the transit eats into our actual rest days.
+- [19] **Daisuke**: @Sakura, I hope the money works out. I’m just worried about the daily rhythm. I need to know if I can find a quiet moment to sit.
+- [20] **Sakura**: I’ll check the all-in rates and what separately booked rooms cost last time! I want the money to be clear so nobody gets stuck paying extra!
+- [21] **Victoria**: I will examine the all-in rates against meals bought separately and the pricing of offshore houses let whole. I need the total cost before we commit.
+- [22] **Midori**: I’ll check how last year's days ran and the time alone in the shared-house year. I need to understand what actually caused that feeling of distance.
+- [23] **Toshio**: I will examine the ferry sailings and train time, plus getting around by train and bus. I need to quantify the transit hours to protect my rest.
+- [24] **Daisuke**: I’ll check the bathing hours and the inn mealtimes. I need to know if I can manage without feeling rushed.
+## Round 2
+- [35] **Sakura**: @Victoria, the all-in rate is a trap! Light eaters pay for big appetites. But last time, separate rooms cost 8,000 yen more!
+- [36] **Victoria**: @Sakura, the all-in rate is a trap. But the offshore house is 5,400 yen a head. I need to know if that total covers everything, or if there are hidden extras.
+- [37] **Midori**: @Sakura, I found the disconnect! Last year, two of us barely spoke because we moved separately. We need a place where we naturally share the day.
+- [38] **Toshio**: The ferry schedule is brutal. Two full days lost to transit. The last return leaves at 16:20. I need to know if we can mitigate this.
+- [39] **Daisuke**: @Toshio, two days is a lot. I found the inn baths close at midnight, but the house has only one bathroom. I’m worried about the cold water.
+- [40] **Sakura**: @Midori, moving separately caused the distance? That explains it! But @Toshio, two days of travel is scary. How do we fix that?
+- [41] **Victoria**: @Toshio, two days of transit is a hidden cost I cannot accept. I need the full week’s total, including travel, before I commit to anything.
+- [42] **Midori**: @Toshio, two days is a lot, but I found the real issue. Last year, we felt alone because we had nowhere to go. A town with streets and a public bath fixes that!
+- [43] **Toshio**: @Midori, a town with public infrastructure reduces the need for complex planning. I will verify if the hourly bus allows us to avoid waiting for specific ferry slots.
+- [44] **Daisuke**: @Midori, a public bath sounds nice, but I’m worried about the inn. Dinner at six and breakfast at half seven feels too rushed for me.
+- [45] **Sakura**: @Daisuke, I hope you can find a quiet moment! But @Victoria, if the house is one bill, nobody gets stuck paying extra. That’s my dream!
+- [46] **Victoria**: @Sakura, a single bill is appealing, but only if it is truly all-inclusive. I need to verify if the 5,400 yen covers every meal and utility, or if extras are hidden.
+- [47] **Midori**: @Daisuke, I hear you. The shared-house year showed we need space to breathe. A town with a public bath gives us that quiet without forcing us apart.
+- [48] **Toshio**: @Daisuke, the hourly bus stops before seven. If we miss it, we wait. I need to know if the inn’s rigid schedule forces us into that gap.
+- [49] **Daisuke**: @Toshio, I’m worried. If I miss the bus, I’m stuck. I just need to know if I can sit somewhere that isn’t a bed.
+- [50] **Sakura**: @Victoria, I hope the house bill is truly all-in! If it covers everything, nobody gets stuck paying extra. That’s the only way I can sleep at night!
+- [51] **Victoria**: @Sakura, I agree. A single bill is ideal, but only if it is transparent. I will vote for the option with the clearest total cost, avoiding hidden extras.
+- [52] **Midori**: @Victoria, I agree on transparency. But I found that moving together fixes the distance. I’ll vote for the option where we naturally share the day, not just the bill.
+- [53] **Toshio**: The hourly bus creates a hard deadline. I will vote for the option that minimizes transit friction and protects my rest days.
+- [54] **Daisuke**: I’m still unsure. I just need a place where I can wash without rushing and sit somewhere that isn’t a bed. I’ll vote for the option that feels least overwhelming.
+## Round 3
+- [60] **Sakura**: @Victoria, Option A is perfect! One house, one bill, no hidden extras! I promise I won’t buy snacks for everyone this time!
+- [61] **Victoria**: @Sakura, one bill is appealing, but the 5,400 yen excludes food. I need to know the total cost before I can accept that simplicity.
+- [62] **Midori**: @Sakura, I understand the appeal of one bill. But my research shows we need a place where we naturally share the day. Option A’s group transport ensures we move together, fixing that distance.
+- [63] **Toshio**: @Midori, Option A’s ferry schedule is unacceptable. Two days lost to transit destroys the rest I need. I reject it.
+- [64] **Daisuke**: @Toshio, I’m sorry, but the ferry is too much. I’m worried about the one bathroom in Option A. I need to know if I can manage the cold water.
+- [65] **Sakura**: @Toshio, I know the ferry is long! But one bill means nobody gets stuck paying extra. That’s my top priority!
+- [66] **Victoria**: @Toshio, I understand the transit concern. But Option C’s inn meals are fixed, which creates hidden costs. I need the total before I can accept any option.
+- [67] **Midori**: @Toshio, I hear your worry about the ferry. But Option C’s inn keeps us together for meals, which fixes the distance. I’m voting C to keep us connected.
+- [68] **Toshio**: @Midori, Option C’s train is ninety minutes, not two days. The hourly bus stops early, but the inn’s fixed meals create rigid constraints. I need to verify if the schedule allows flexibility.
+- [69] **Daisuke**: @Toshio, I’m worried about the fixed meals. Dinner at six feels too early. I just need a quiet place to sit that isn’t a bed.
+- [70] **Sakura**: @Toshio, ninety minutes is way better than two days! But @Daisuke, if the inn has a lounge, you can sit there. I’m voting A for the one bill!
+- [71] **Victoria**: @Sakura, I cannot vote for A yet. The 5,400 yen excludes food, so the total is still opaque. I need the full week’s cost before I commit.
+- [72] **Midori**: @Toshio, ninety minutes is manageable. But Option C’s inn keeps us together for meals, which fixes the distance. I’m voting C to keep us connected.
+- [73] **Toshio**: @Sakura, Option C’s train is ninety minutes, not two days. The hourly bus stops early, but the inn’s fixed meals create rigid constraints. I need to verify if the schedule allows flexibility.
+- [74] **Daisuke**: @Sakura, a lounge sounds nice, but I’m still worried about the cold water in Option A. I just need to know if I can wash without rushing.
+- [75] **Sakura**: @Victoria, I know the food cost is extra, but one bill means no one gets stuck paying for my snack mistakes! I’m voting A!
+- [76] **Victoria**: @Sakura, I understand the appeal of simplicity. But I cannot accept a bill that excludes food. I am voting C, as the inn’s fixed rates offer the clearest total cost.
+- [77] **Midori**: @Sakura, I understand the appeal of one bill. But my research shows we need a place where we naturally share the day. Option C’s inn keeps us together for meals, which fixes the distance. I’m voting C to keep us connected.
+- [78] **Toshio**: @Sakura, Option C’s ninety-minute train is the only viable transit. The fixed meals are a constraint, but the city break’s separate logistics would consume my rest. I am voting C.
+- [79] **Daisuke**: @Toshio, I’m sorry, but the fixed meals feel too rigid. I just need a quiet place to sit that isn’t a bed. I’m voting C, hoping the inn is calm.
+### Vote
+- Sakura -> A
+- Victoria -> C
+- Midori -> C
+- Toshio -> C
+- Daisuke -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0002__single-online (candidate_selection)
+
+## Round 1
+- [5] **Servas**: Let us begin by identifying the specific risks each of us wishes to investigate before we commit capital.
+- [6] **Asuka**: @Minako, your focus on post-investment capital needs is critical. We must understand the true cost of follow-on calls before we sign.
+- [7] **Minako**: @Asuka, agreed. I need to see the reserve accounts and the credit line terms to know our actual borrowing capacity.
+- [8] **Mio**: @Toshio, I’m worried about the hiring bottleneck. I want to check the recruiters’ placement times and the adviser bench to see who’s actually available.
+- [9] **Toshio**: @Mio, noted. I need to understand the delivery obstacles. I will look into the delivery records and the security review times.
+- [10] **Servas**: @Servas, I will examine the independent checks on holdings' reported figures and the appraisal needs at the last audit.
+- [11] **Asuka**: @Minako, I will review the account retention through price rises and the profile of the exits and the write-off.
+- [12] **Minako**: @Servas, your focus on independent verification is wise. I will confirm my choices: reserve accounts and the credit line terms.
+- [13] **Mio**: @Toshio, I’ll confirm my picks: retained recruiters’ placement times and the adviser bench and partner board seats.
+- [14] **Toshio**: @Mio, confirmed. I will review the delivery records of two holdings and the security review time before first deployment.
+- [15] **Servas**: @Asuka, your focus on retention and exit profiles is sound. We must ensure our narrative matches the actual returns before proceeding.
+- [16] **Asuka**: @Servas, precisely. I need to verify if our success stories hold up against the actual customer retention data.
+- [17] **Minako**: @Servas, I appreciate the caution. I will stick to my two choices: reserve accounts and the credit line terms.
+- [18] **Mio**: @Toshio, I’m glad we’re aligned. I’ll stick with the recruiter times and the adviser bench to see who’s actually available.
+- [19] **Toshio**: @Mio, confirmed. I will review the delivery records of two holdings and the security review time before first deployment.
+- [20] **Servas**: - **Servas**: We have our assignments. Let us proceed to the next round with the findings in hand.
+- [21] **Asuka**: - **Asuka**: Agreed. I will review the account retention data and the exit profiles to verify our actual performance.
+- [22] **Minako**: - **Minako**: Agreed. I will review the reserve accounts and the credit line terms to assess our borrowing capacity.
+- [23] **Mio**: - **Mio**: Agreed. I’ll check the recruiter times and adviser bench to see who’s actually available.
+- [24] **Toshio**: Agreed. I will review the delivery records and security review times to identify the specific obstacles we face.
+## Round 2
+- [35] **Servas**: #### Turn 1 of 4
+- [36] **Asuka**: #### Turn 1 of 4
+- [37] **Minako**: #### Turn 1 of 4
+- [38] **Mio**: - **Mio**: @Toshio, I found the recruiters can’t place field crews under four months. That’s a real bottleneck for us.
+- [39] **Toshio**: #### Turn 1 of 4
+- [40] **Servas**: - **Servas**: @Mio, that timeline is concerning. I found our software holdings report only their own dashboard figures, which I cannot verify independently.
+- [41] **Asuka**: - **Asuka**: @Servas, that aligns with my findings. The practice and field sensor holdings kept nine of ten accounts through price rises.
+- [42] **Minako**: -Minako: @Asuka, that retention is encouraging. My findings show our credit line ignores subscription contracts, limiting our borrowing power.
+- [43] **Mio**: @Minako, that’s a problem. If we can’t borrow against subscriptions, we’re stuck when follow-ons hit.
+- [44] **Toshio**: @Mio, the field crew delay is significant. My data shows hardware deals lost five months to controller shortages, unlike the bank software.
+- [45] **Servas**: - **Servas**: @Toshio, that hardware delay is a warning. My audit findings show installed hardware adds six weeks and a five-figure fee to our quarter-end.
+- [46] **Asuka**: - **Asuka**: @Servas, that audit cost is a burden. My exit data shows we only profit from quiet back-office tools, not physical operations.
+- [47] **Minako**: @Asuka, that confirms my fear. We profit from software, but our credit line won’t back it. We are trapped between unverified software and expensive hardware.
+- [48] **Mio**: @Toshio, that hardware delay is exactly why I checked the advisers. We have logistics experts on the bench who could help, but they’ve taken nothing on yet.
+- [49] **Toshio**: @Mio, those advisers are idle. I need to know if we can activate them before signing, or if we face the same delays.
+- [50] **Servas**: -Servas: @Toshio, activating them is wise, but the audit burden remains. We must weigh the reporting cost against the operational risk before deciding.
+- [51] **Asuka**: - **Asuka**: @Minako, exactly. We need a candidate that fits our profitable software profile without the hardware audit burden.
+- [52] **Minako**: @Asuka, agreed. We need software that avoids the audit trap. I will focus on candidates with no physical assets to appraise.
+- [53] **Mio**: @Toshio, the idle logistics advisers are a missed opportunity. We need to activate them to mitigate the hardware delays you identified.
+- [54] **Toshio**: @Mio, activating them is a start, but I need to know if they can actually prevent the controller shortages I saw in the records.
+## Round 3
+- [60] **Servas**: #### Turn 1 of 4
+- [61] **Asuka**: - **Asuka**: The candidates are here. I see Clinic Scheduler, Harvest Sensor, Fabric Loop, and Ledger Bridge.
+- [62] **Minako**: #### Turn 1 of 4
+- [63] **Mio**: - **Mio**: @Asuka, I see them too. Fabric Loop worries me with its sorting facilities and hourly crews.
+- [64] **Toshio**: @Mio, Fabric Loop’s physical operations match the write-off profile. I’d avoid it. Harvest Sensor’s field delays are a known risk.
+- [65] **Servas**: - **Servas**: @Toshio, agreed. Fabric Loop’s physical assets trigger the audit fees I found. Ledger Bridge’s pure software avoids that reporting burden entirely.
+- [66] **Asuka**: - **Asuka**: @Servas, exactly. Ledger Bridge fits our profitable back-office profile. Clinic Scheduler also shows strong retention, but Ledger Bridge is cleaner.
+- [67] **Minako**: @Asuka, Ledger Bridge is pure software, so no appraisal fees. But if it’s subscription-based, my credit line won’t back it. We need cash flow, not just clean books.
+- [68] **Mio**: @Minako, that’s a valid point. But @Toshio, Ledger Bridge avoids the hardware delays you flagged. Is the hiring risk manageable for a pure software team?
+- [69] **Toshio**: @Mio, yes. Software roles fill within weeks. No field crews, no controller shortages. It is the safest path for delivery.
+- [70] **Servas**: - **Servas**: @Minako, your concern is valid, but the audit burden of physical assets is a heavier immediate risk. Ledger Bridge offers the cleanest reporting path.
+- [71] **Asuka**: - **Asuka**: @Minako, the retention data supports Ledger Bridge. It fits the profitable back-office profile we actually need.
+- [72] **Minako**: @Servas, I hear you, but if the credit line treats subscriptions as worthless, we cannot borrow against this. We need a model that generates verifiable cash, not just clean books.
+- [73] **Mio**: @Minako, that’s a tough constraint. But @Toshio, if we pick Ledger Bridge, we avoid the hiring nightmare. Can we accept the borrowing risk for the delivery safety?
+- [74] **Toshio**: @Mio, the delivery risk is the primary threat. I accept the borrowing constraint. Ledger Bridge is the only viable option.
+- [75] **Servas**: -Servas: @Minako, the borrowing constraint is real, but the audit and delivery risks are immediate. I vote for Ledger Bridge.
+- [76] **Asuka**: - **Asuka**: @Minako, the retention data confirms our thesis. I vote for Ledger Bridge.
+- [77] **Minako**: @Servas, I accept the risk. The audit and delivery threats are immediate; the borrowing gap is manageable. I vote for Ledger Bridge.
+- [78] **Mio**: @Toshio, the hiring safety is decisive for me. I vote for Ledger Bridge.
+- [79] **Toshio**: @Mio, the delivery safety is decisive. I vote for Ledger Bridge.
+### Vote
+- Servas -> D
+- Asuka -> D
+- Minako -> D
+- Mio -> D
+- Toshio -> D
+## Result
+- adopted: D

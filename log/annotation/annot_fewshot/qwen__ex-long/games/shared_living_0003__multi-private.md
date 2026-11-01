@@ -1,0 +1,73 @@
+# shared_living_0003__multi-private (shared_living)
+
+## Round 1
+- [5] **Rin**: I want to check the morning routine on the pilot floor and the unplanned seat shuffles. I need to know how much time we actually lose!
+- [6] **Toshio**: I will examine the basis of the department's floor billing and the facilities quote for re-running power and network. I need to understand the true monthly cost before we commit to any layout.
+- [7] **Mizuki**: I will examine the drawn plan against the staff survey and the sound meter readings across the room. I need to see if the proposed layout actually matches what people need.
+- [8] **Shion**: I will examine the physio's note from the workstation check and the sound meter readings across the room. I need to verify if the current setup is actually harming my body.
+- [9] **Yumi**: I’ll check the arrival times in the badge records and what this year's two joiners reported. I want to see how we actually connect!
+- [10] **Rin**: @Toshio, money is boring! I care about my time! @Mizuki, do the sound readings show if we can actually hear each other?
+- [11] **Toshio**: @Rin, time is money. I need the billing basis to see if this layout is even affordable.
+- [12] **Mizuki**: @Rin, the sound data will show exactly where noise concentrates. I’m checking if the plan respects those boundaries.
+- [13] **Shion**: @Mizuki, noise is just data. I’m checking if the current setup is actually breaking my body.
+- [14] **Yumi**: @Shion, I hope the physio note helps you feel better! @Rin, I’m curious if the badge times show who actually talks to whom!
+- [15] **Rin**: @Yumi, badge times are cool! But I really need to know if the shuffles eat up my morning gaps!
+- [16] **Toshio**: @Rin, the shuffles are a symptom. The billing basis is the root. I need to know if we can afford the fix.
+- [17] **Mizuki**: @Rin, the shuffles reveal a pattern of unspoken dissatisfaction. I’m checking if the survey data confirms who is actually suffering in silence.
+- [18] **Shion**: @Rin, shuffles are just noise. I’m focused on the physical strain. If the desk hurts me, no amount of time management fixes it.
+- [19] **Yumi**: @Rin, I hope the shuffles don’t ruin your mornings! But I’m really hoping the badge times show who we actually talk to. Let’s see!
+- [20] **Rin**: I’m all set! I’ll check the morning routine on the pilot floor and the unplanned seat shuffles. Let’s see what we find!
+- [21] **Toshio**: I will examine the basis of the department's floor billing and the facilities quote for re-running power and network. I need to understand the true monthly cost before we commit to any layout.
+- [22] **Mizuki**: I will examine the drawn plan against the staff survey and the sound meter readings across the room. I need to see if the layout matches reality.
+- [23] **Shion**: I will examine the physio's note from the workstation check and the sound meter readings across the room. I need to verify if the current setup is actually harming my body.
+- [24] **Yumi**: I’m all set! I’ll check the arrival times in the badge records and what this year's two joiners reported. Let’s see how we actually connect!
+## Round 2
+- [35] **Rin**: @Toshio, four to nine minutes every morning? That’s huge! Plus, shuffles last two whole weeks! My gaps are gone!
+- [36] **Toshio**: @Rin, time is a symptom. The billing is the root. We pay for empty desks, and every move costs 6,200 yen. We need a layout that stops the bleeding.
+- [37] **Mizuki**: @Toshio, the survey confirms daylight is the top complaint. The plan gives four desks windows, leaving three in the dark. That imbalance is unacceptable.
+- [38] **Shion**: @Mizuki, daylight is a preference. My data shows the printer row is nine decibels louder. I need a spot that protects my body, not just my eyes.
+- [39] **Yumi**: @Mizuki, three desks in the dark? That’s tough! @Shion, I hope the printer noise isn’t too loud for you. I’m worried about how we all fit together!
+- [40] **Rin**: @Shion, nine decibels is loud! But @Toshio, two weeks of shuffling is a disaster! I need a layout that stops the chaos before it starts!
+- [41] **Toshio**: @Rin, two weeks of chaos is a 6,200 yen penalty per desk. We must design a layout that is final, or the budget line collapses.
+- [42] **Mizuki**: @Shion, nine decibels is a real burden. But the survey shows daylight is the primary pain point. We must address both, not just one.
+- [43] **Shion**: @Mizuki, daylight is a preference. My body is the priority. The physio note confirms my setup takes days to settle. I need a stable, quiet spot to protect my posture.
+- [44] **Yumi**: @Shion, I’m so sorry your body is hurting! @Toshio, I found that our new joiners learned by overhearing! If we sit apart, they miss out on the team’s real rhythm!
+- [45] **Rin**: @Yumi, overhearing is great! But if we sit too close, I can’t focus! I need a layout that keeps my morning gaps safe!
+- [46] **Toshio**: @Yumi, overhearing is inefficient. The 6,200 yen per move means we cannot afford to experiment. We need a static layout that minimizes future re-runs.
+- [47] **Mizuki**: @Yumi, overhearing is valuable, but it shouldn’t come at the cost of the three stuck in the dark. We need a layout that balances access fairly, not just convenience.
+- [48] **Shion**: @Yumi, overhearing is inefficient. My body needs stability. The physio note confirms my setup takes days to settle. I need a quiet, fixed spot to protect my posture.
+- [49] **Yumi**: @Toshio, I get the budget worry! But if the joiners can’t hear us, they’re lost. @Mizuki, can we find a spot where they can listen without blocking the light?
+- [50] **Rin**: @Toshio, I hear you! But I need a layout that stops the two-week chaos. My morning gaps are precious! Let’s see the options!
+- [51] **Toshio**: @Rin, the 6,200 yen penalty makes flexibility a luxury we cannot afford. I need a static layout that protects the budget line. Let’s see the options.
+- [52] **Mizuki**: @Yumi, I agree. We must balance the joiners' need to listen with the three who are stuck in the dark. Let’s see the options.
+- [53] **Shion**: @Toshio, a static layout is the only logical choice. My body needs that stability to settle. I am ready to see the options.
+- [54] **Yumi**: @Mizuki, I hope we can find a spot where the joiners can listen without blocking the light! Let’s see the options!
+## Round 3
+- [60] **Rin**: @Toshio, Option A is a disaster! If I have to hunt for a desk every morning, my gaps vanish! I need a spot that’s ready when I am!
+- [61] **Toshio**: @Rin, Option A is a financial trap. The 6,200 yen re-run fee applies to every change. We need a static layout to stop the bleeding.
+- [62] **Mizuki**: @Rin, Option A is chaos. @Toshio, Option C is rigid. I need to see how we handle the daylight imbalance before voting.
+- [63] **Shion**: @Mizuki, rigidity is stability. Option C is the only choice that protects my posture. I am voting C.
+- [64] **Yumi**: @Shion, I hope your body feels better! But @Mizuki, if the joiners can’t hear us, they’re lost. I need a spot where we can actually talk!
+- [65] **Rin**: @Shion, I agree! A fixed desk means I plug in and go! No hunting, no chaos. My morning gaps stay safe!
+- [66] **Toshio**: @Rin, a fixed desk is the only way to avoid the 6,200 yen penalty. Option C is the only financially viable choice. I vote C.
+- [67] **Mizuki**: @Shion, stability is good, but silence isn't fairness. Option C locks the daylight imbalance in place. We must decide who carries the worse end, not let habit decide.
+- [68] **Shion**: @Mizuki, fairness is a luxury. My body requires the quiet window side. Option C is the only logical choice. I vote C.
+- [69] **Yumi**: @Mizuki, I hear you! But if we sit by function, the joiners might get stuck in the dark. I need a layout where we can actually talk and share!
+- [70] **Rin**: @Mizuki, I get it! But if I have to move my stuff every few months, my morning routine breaks! Option C keeps my desk ready. I vote C!
+- [71] **Toshio**: @Mizuki, the daylight imbalance is a cost we already pay. Option C stops the 6,200 yen re-run fees. I vote C to protect the budget.
+- [72] **Mizuki**: @Toshio, I cannot vote for C yet. The survey proves daylight is the primary pain point. We must explicitly assign the window seats to those who need them most, rather than letting function dictate the imbalance.
+- [73] **Shion**: @Mizuki, the window side is nine decibels quieter. My body needs that specific acoustic environment to settle. Function dictates the seat; the seat dictates the health. I vote C.
+- [74] **Yumi**: @Mizuki, I understand the daylight worry! But if the joiners sit apart, they miss the team’s rhythm. I vote C, hoping we can still talk!
+- [75] **Rin**: @Mizuki, I get the daylight worry! But my morning gaps are precious! Option C means I plug in and go, no hunting! I vote C!
+- [76] **Toshio**: @Mizuki, the 61,000 yen monthly waste from empty desks is the reality. Option C is the only way to stop the bleeding. I vote C.
+- [77] **Mizuki**: @Toshio, I cannot vote for C. The survey proves daylight is the primary pain point. We must explicitly assign the window seats to those who need them most, rather than letting function dictate the imbalance.
+- [78] **Shion**: @Mizuki, your concern is noted, but my body cannot wait for a fairness debate. The window side is the only acoustic environment that allows my posture to settle. I stand by my vote for C.
+- [79] **Yumi**: @Mizuki, I hear you! But if we sit by function, the joiners might get stuck in the dark. I vote C, hoping we can still talk!
+### Vote
+- Rin -> C
+- Toshio -> C
+- Mizuki -> C
+- Shion -> C
+- Yumi -> C
+## Result
+- adopted: C

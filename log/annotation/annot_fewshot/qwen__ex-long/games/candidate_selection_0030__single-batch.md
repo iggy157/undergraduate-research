@@ -1,0 +1,73 @@
+# candidate_selection_0030__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I worry about who does the extra work. We never name the people until the rota breaks.
+- [6] **Jonathan**: I am concerned about delivery dates. We promise timelines based on conditions we do not control.
+- [7] **George**: The fund is committed before we know the source. The real bill often arrives next year.
+- [8] **May**: We keep funding similar projects. I want to see what happened to the last three winners.
+- [9] **Midori**: We judge by how impressive things sound. I want to see the everyday losses on the floor.
+- [10] **Minato**: @George, that sounds right. If the money is hidden, the work is hidden too.
+- [11] **Jonathan**: @Minato, exactly. If the hands are not free, the date is a lie.
+- [12] **George**: @Jonathan, I agree. The renewal notice is where the pain lives.
+- [13] **May**: @George, I need to see the outcomes. We are repeating mistakes.
+- [14] **Midori**: @May, I agree. The floor reality is what matters, not the pitch.
+- [15] **Minato**: I will look at the staffing of the coordination group.
+- [16] **Jonathan**: I will check the network coverage at customer plants.
+- [17] **George**: I will examine the capital budget and software allowance.
+- [18] **May**: I will review the outcomes of the last three internal rollouts.
+- [19] **Midori**: I will look at the time lost to copying existing records.
+- [20] **Minato**: I will also check the handling of vendor queries.
+- [21] **Jonathan**: I will also check the in-house developer availability.
+- [22] **George**: I will also check the vendor licence pricing versus fixed-fee work.
+- [23] **May**: I will also check the record of cross-unit standardization efforts.
+- [24] **Midori**: I will also check the misrouted deliveries in the incident logs.
+## Round 2
+- [35] **Minato**: The coordination group is empty, but two people write everything by hand. It is too much.
+- [36] **Jonathan**: Half the customer plants have no signal for afternoons. We cannot build on that.
+- [37] **George**: The capital line is frozen. The software allowance has room, but licences climb per head.
+- [38] **May**: The last three rollouts failed because everyone had to enter data daily. The narrow tools survived.
+- [39] **Midori**: We lose an hour a day copying records. And eleven deliveries were misrouted this year.
+- [40] **Minato**: @George, if the capital is frozen, we must use the software allowance carefully.
+- [41] **Jonathan**: @Minato, the developer availability is also bad. They are busy until the third quarter.
+- [42] **George**: @Jonathan, that confirms it. We cannot rely on new builds. We need to use what exists.
+- [43] **May**: @George, I agree. The standardization efforts failed because they had no owner.
+- [44] **Midori**: @May, the copying time is the real cost. We need to stop the duplication.
+- [45] **Minato**: @Midori, the misrouted deliveries are because units hold different addresses. That is a data problem.
+- [46] **Jonathan**: @Minato, yes. If the data is wrong, the app is useless.
+- [47] **George**: @Jonathan, the fixed-fee work is stable. The licences are not. We should avoid per-head costs.
+- [48] **May**: @George, the narrow tools for one trade still run. We should pick something narrow.
+- [49] **Midori**: @May, I agree. The everyday loss is the copying. We need to fix that.
+- [50] **Minato**: I think we need to fix the data first. The coordination group is drowning.
+- [51] **Jonathan**: I agree. The network is bad, so a mobile app is risky.
+- [52] **George**: I agree. The budget favors fixed-fee or existing tools.
+- [53] **May**: I agree. The past shows narrow tools survive.
+- [54] **Midori**: I agree. The copying time is the biggest loss.
+## Round 3
+- [60] **Minato**: The candidates are A, B, C, and D. I think C is best. It fixes the data.
+- [61] **Jonathan**: I agree with Minato. D is risky because of the network. C is safer.
+- [62] **George**: I agree. C uses the software allowance. It avoids the frozen capital line.
+- [63] **May**: I agree. C is a narrow tool for data. It fits the pattern of survivors.
+- [64] **Midori**: I agree. C stops the copying time. It fixes the misrouted deliveries.
+- [65] **Minato**: @George, C is a repository. It does not need new developers.
+- [66] **Jonathan**: @Minato, correct. It is a data fix, not a build.
+- [67] **George**: @Jonathan, yes. The fixed-fee rate is stable for this kind of work.
+- [68] **May**: @George, the standardization record shows we need an owner. C has a clear scope.
+- [69] **Midori**: @May, the incident logs show the data is the problem. C solves that.
+- [70] **Minato**: I vote for C. It helps the coordination group.
+- [71] **Jonathan**: I vote for C. It avoids the network risk.
+- [72] **George**: I vote for C. It fits the budget.
+- [73] **May**: I vote for C. It follows the pattern of success.
+- [74] **Midori**: I vote for C. It reduces the everyday loss.
+- [75] **Minato**: I am happy we agree. C is the right choice.
+- [76] **Jonathan**: Agreed. The data is clear.
+- [77] **George**: Agreed. The budget is safe.
+- [78] **May**: Agreed. The history supports it.
+- [79] **Midori**: Agreed. The floor will benefit.
+### Vote
+- Minato -> C
+- Jonathan -> C
+- George -> C
+- May -> C
+- Midori -> C
+## Result
+- adopted: C

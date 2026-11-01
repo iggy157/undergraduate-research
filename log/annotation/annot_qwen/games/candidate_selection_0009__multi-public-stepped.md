@@ -1,0 +1,73 @@
+# candidate_selection_0009__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I need to know if the floor can hold what we promise.
+- [6] **Toshio**: The record of past seasons should speak before we decide.
+- [7] **Rin**: Who is actually left to do the work? The staff list is old.
+- [8] **Kenji**: I want to see where deliveries failed in previous seasons.
+- [9] **Benjamin**: I need to trace where the budget quietly disappears each season.
+- [10] **Daisuke**: The suspended bay worries me most.
+- [11] **Toshio**: I will look at visitor comments and head counts.
+- [12] **Rin**: I will check the conservation lab and volunteer roster.
+- [13] **Kenji**: I will check lender paperwork and transport costs.
+- [14] **Benjamin**: I will look at mount-making charges and loan transport.
+- [15] **Daisuke**: Structural integrity is non-negotiable for me.
+- [16] **Toshio**: Data over opinion, please.
+- [17] **Rin**: If no one is there, the show fails.
+- [18] **Kenji**: Apologies at the door are not a plan.
+- [19] **Benjamin**: Invoices tell the truth, eventually.
+- [20] **Daisuke**: I will check the structural survey and maintenance log.
+- [21] **Toshio**: I will check weekend head counts and comment slips.
+- [22] **Rin**: I will check conservation staffing and volunteer composition.
+- [23] **Kenji**: I will check lender paperwork and transport costs.
+- [24] **Benjamin**: I will check mount-making charges and loan transport costs.
+## Round 2
+- [35] **Daisuke**: The bay is capped at four hundred kilos. Heavy items are out.
+- [36] **Toshio**: The data is clear. People return for presence, not objects.
+- [37] **Rin**: The lab is empty. Two hundred pieces are waiting. We cannot clean anything.
+- [38] **Kenji**: Two openings slipped because paperwork arrived late. That is a disaster.
+- [39] **Benjamin**: Transport ate a third of the installation budget. That is unacceptable.
+- [40] **Daisuke**: Powered displays caused four closures last season. I am worried.
+- [41] **Toshio**: @Rin, if the lab is that backlogged, how do we prepare anything?
+- [42] **Rin**: @Toshio, we don't. We have one person. The volunteers are busy with walks.
+- [43] **Kenji**: @Benjamin, if transport is that high, local items are the only safe bet.
+- [44] **Benjamin**: @Kenji, exactly. Local items avoid the courier and the crating fees.
+- [45] **Daisuke**: I cannot support anything that needs heavy rigging or power.
+- [46] **Toshio**: The comment slips are unanimous. We need people in the room.
+- [47] **Rin**: We need a show that doesn't require conservation work.
+- [48] **Kenji**: We need a show that doesn't rely on distant lenders.
+- [49] **Benjamin**: We need a show that doesn't bleed money on logistics.
+- [50] **Daisuke**: I am leaning towards something simple and local.
+- [51] **Toshio**: I agree. Presence is the key metric.
+- [52] **Rin**: I am worried about the staffing, but local might work.
+- [53] **Kenji**: Local means no shipping cut-offs. That solves my problem.
+- [54] **Benjamin**: Local means no transport costs. That solves mine.
+## Round 3
+- [60] **Daisuke**: Option D requires overhead rigging. The bay cannot take it.
+- [61] **Toshio**: Option A has demonstration sessions. That matches the comment slips.
+- [62] **Rin**: Option C needs a conservation bench. We have no staff for that.
+- [63] **Kenji**: Option B relies on partner loans. That is where we got caught out.
+- [64] **Benjamin**: Option A is local. No transport costs. No mount-making for loans.
+- [65] **Daisuke**: Option A is light. Garments and tools. The floor is safe.
+- [66] **Toshio**: @Daisuke, yes. And the presence of craftspeople drives return visits.
+- [67] **Rin**: @Toshio, but who runs the demonstrations? The volunteers are busy.
+- [68] **Kenji**: @Rin, the craftspeople are the ones working. We just host them.
+- [69] **Benjamin**: @Kenji, correct. They bring their own tools. We save on joiners.
+- [70] **Daisuke**: I am voting for A. It is safe for the building.
+- [71] **Toshio**: I am voting for A. It satisfies the visitor data.
+- [72] **Rin**: I am voting for A. It minimizes conservation workload.
+- [73] **Kenji**: I am voting for A. It avoids shipping delays.
+- [74] **Benjamin**: I am voting for A. It protects the budget.
+- [75] **Daisuke**: I feel relieved. This seems right.
+- [76] **Toshio**: The logic holds.
+- [77] **Rin**: I hope the craftspeople are reliable.
+- [78] **Kenji**: No apologies at the door this time.
+- [79] **Benjamin**: The invoices will be quiet.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

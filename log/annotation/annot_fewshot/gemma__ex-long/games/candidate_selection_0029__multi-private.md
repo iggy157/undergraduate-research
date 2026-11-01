@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: It is a pleasure to be with you all. Let us choose an exhibition that brings joy to our visitors and peace to our hardworking staff. I shall look into the conservation lab staffing and backlog, and the composition of the volunteer roster.
+- [6] **Shion**: It is a pleasure to be here. To ensure we don't repeat past mistakes, I will examine the lender paperwork against shipping cut-offs and the maintenance log for powered displays. I prefer to see where things actually fail.
+- [7] **May**: Hi everyone! I'm so excited to help pick our next big show. To make sure we actually give the people what they want, I'll check the five years of visitor comment slips and the weekend head counts across ten seasons!
+- [8] **Misaki**: I believe we should consider the physical limits of our space. I will look into the structural survey of the suspended bay and the evening hire bookings in the gallery.
+- [9] **Sakura**: Hi everyone! I'm so happy to be here! I want to find out where all the secret money goes, so I'll look into the loan transport costs over three seasons and the mount-making charges and joiner's rate!
+- [10] **Shizue**: It is wonderful to see such a diverse range of interests. By looking at both the physical space and the hearts of our visitors, we shall surely find a path that is kind to everyone.
+- [11] **Shion**: Diverse interests are fine, but optimism is not a strategy. I am more interested in the friction points. If we ignore the logistical failures of the past, we are simply planning for another disaster.
+- [12] **May**: @Shion, you're such a killjoy! Let's not call it a disaster before we've even started. I think a little bit of excitement is exactly what we need to make this exhibition a hit!
+- [13] **Misaki**: @May, excitement is fine, but it doesn't change the physical capacity of the building. We need to be realistic about what the gallery can actually handle before we commit to a vision.
+- [14] **Sakura**: @Misaki, you're so serious! But that's why I'm here to find the mysteries! If we know where the money disappears, maybe we can use it for something super cool and sparkly!
+- [15] **Shizue**: It is a joy to see such lively spirits. While we seek the sparkly and the exciting, let us remember that the hands that build these dreams are precious. I hope our findings bring us clarity.
+- [16] **Shion**: Clarity is only useful if it is based on reality. I suspect we will find that our "dreams" are often derailed by simple paperwork and technical glitches. I look forward to seeing who is actually paying attention.
+- [17] **May**: @Shion, you're always so focused on the glitches! I'm more interested in the glamour and the crowds. Let's see if the data shows that people actually like the "safe" choices you prefer!
+- [18] **Misaki**: @May, glamour doesn't prevent a floor from sagging or a schedule from clashing. I am simply looking for the boundaries of our reality so we don't overpromise.
+- [19] **Sakura**: @May, I'm with you! Let's make it a big party! But I'll be the detective and find the hidden money traps so we can spend it on the fun stuff! I can't wait!
+- [20] **Shizue**: Let us move forward with a spirit of harmony. I believe that by combining our different perspectives, we will find a choice that is both beautiful for the public and sustainable for our dear colleagues.
+- [22] **Shion**: Harmony is a pleasant sentiment, but I prefer precision. Let us see if the records reflect the same optimism you all feel. I am ready to uncover the truth.
+- [24] **May**: I'm ready too! Let's see if the visitors have been as honest in their comments as we are being now. I'll be waiting to see what all your boring reports actually say!
+- [26] **Misaki**: I am also ready. I hope the data provides a clear picture of our constraints so we can make a decision that is actually sustainable for the building.
+- [28] **Sakura**: I'm super ready! I'm going to dive into those numbers and solve the mystery of the disappearing money! See you all soon with my detective report!
+## Round 2
+- [40] **Shizue**: My findings bring a heavy heart. Our conservation lab is struggling with only one person to handle a vast backlog of pieces. We must be very gentle with our choices to avoid overwhelming our dear colleagues.
+- [41] **Shion**: My findings are predictably grim. Half of our recent openings were delayed by paperwork failures from distant lenders, and our powered displays are essentially ticking time bombs, frequently breaking down during public hours. We are courting chaos.
+- [42] **May**: Well, it looks like the "boring" data is actually quite spicy! I found out that people are bored to tears by static cases. They want action, changing displays, and—most importantly—real people to talk to!
+- [43] **Misaki**: The building is under more pressure than we realize. The suspended bay has a strict weight limit, and our evening hires mean the gallery is a thoroughfare for caterers and furniture, risking damage to open displays.
+- [44] **Sakura**: Guess what! I found the money traps! It turns out we spend a huge amount of money just moving things around and making special stands for them. The joiner's rates are going up, too! It's like a magic trick where the budget disappears!
+- [45] **Shizue**: @Sakura, your detective work is most impressive, dear. But it makes me worry even more. If we choose a show with many complex stands and heavy transport, we may break the spirits of those already working so hard.
+- [46] **Shion**: @Shizue, spirits are irrelevant if the doors are closed because the art hasn't arrived. @May, your "action" displays are exactly the "ticking time bombs" I found in the logs. We cannot prioritize glamour over basic functionality.
+- [47] **May**: @Shion, you're just scared of a little excitement! If the displays are breaking, it just means we need better ones, not that we should bore our visitors to death with a room full of silent boxes. Who cares about a glitch if the crowd is huge?
+- [48] **Misaki**: @May, the crowd size doesn't matter if the exhibition is damaged by catering staff or if the floor cannot support the weight. We cannot ignore the physical risks just for the sake of excitement.
+- [49] **Sakura**: @May, you're so funny! But @Shion is right about the glitches—if the money disappears into broken machines and expensive stands, we won't have any left for the sparkly stuff! We need a plan that's not a money-gobbler!
+- [50] **Shizue**: It is a bit frightening to think of our colleagues as ticking time bombs, @Shion. Let us be kind. I worry that with only one person in the lab, any exhibition requiring much cleaning will be a burden too heavy to bear.
+- [51] **Shion**: @Shizue, kindness doesn't fix a broken display or a missing shipment. We are discussing the survival of the exhibition, not a social club. If we ignore these systemic failures, we are simply choosing which disaster to apologize for.
+- [52] **May**: @Shion, you're so dramatic! "Survival"? It's a museum, not a shipwreck! If we only pick things that are "safe," we'll just have a very quiet, very empty gallery. Let's actually give people a reason to come back!
+- [53] **Misaki**: @May, a shipwreck is exactly what happens when you ignore structural limits. If we choose an exhibition that exceeds the weight capacity of the suspended bay, the result will be far more dramatic than any of @Shion's warnings.
+- [54] **Sakura**: @Misaki, a shipwreck sounds scary! But imagine if the money just floats away like a balloon! If we pick something that needs a million special stands, the budget will go *poof* and we'll have nothing left for the party!
+- [55] **Shizue**: It is a bit sad to see us so divided. Let us remember that we are all on the same team. I hope we can find a candidate that is gentle on our staff and our budget.
+- [56] **Shion**: Divided? No, we are simply seeing the truth from different angles. I am the only one looking at the actual point of failure. Let us hope the candidates aren't all built on these same fragile illusions.
+- [57] **May**: @Shion, you're just obsessed with the "truth" of failure! I'm obsessed with the truth of success. If the visitors are bored, the exhibition is a failure regardless of how perfect the paperwork is. Let's be bold!
+- [58] **Misaki**: Boldness is a luxury we cannot afford if it compromises the building. We need a candidate that respects the weight limits and the reality of our evening hires. Let's prioritize stability over spectacle.
+- [59] **Sakura**: I agree with @Misaki! Stability is good, but let's make it a fun kind of stability! I'll be looking for a candidate that doesn't eat all our money with fancy stands and expensive trucks. Let's find a winner!
+## Round 3
+- [65] **Shizue**: Looking at our options, Textiles of the Region seems the most harmonious. It uses local pieces, which should be gentle on our transport budget and our tired conservation lab, while the craftspeople can bring such warmth to the gallery.
+- [66] **Shion**: Textiles of the Region is the only logical choice. It avoids the shipping delays of distant lenders and the technical failures of powered displays. It is a low-risk path that ensures the doors actually open on time.
+- [67] **May**: @Shizue, @Shion, you're both on the same page for once! Textiles is great because those demonstration sessions are exactly what the visitors want. Real people talking and working—that's how you get a crowd to actually come back!
+- [68] **Misaki**: Textiles of the Region is the most sustainable choice. It avoids the heavy weight of excavation finds and the overhead rigging of kinetic art, and its compact nature protects it from the traffic of evening hires.
+- [69] **Sakura**: Wow, everyone is picking the same one! I'm with you! Textiles of the Region is perfect because local stuff means no expensive trucks and fewer fancy stands. It's the best way to keep the money from going *poof*!
+- [70] **Shizue**: It is a rare and beautiful thing to see us all in such agreement. I feel a great sense of peace knowing we have found a path that honors both our visitors and our dear, exhausted colleagues.
+- [71] **Shion**: Agreement is efficient, but let us be clear: we are choosing Textiles because it is the only candidate that doesn't invite the systemic failures I identified. It is a calculated decision to avoid disaster.
+- [72] **May**: @Shion, you just can't help yourself, can you? Even when we're all happy, you have to make it sound like a rescue mission! I'm just glad we're picking something that's actually exciting for the people!
+- [73] **Misaki**: @May, it is not about a rescue mission, but about the building's integrity. Textiles is the only option that doesn't risk the suspended bay's weight limit or clash with our evening hire logistics. It is simply the most realistic choice.
+- [74] **Sakura**: @May, you're so funny! Even @Shion's "rescue missions" are kind of exciting! But I'm just happy we found a project that doesn't act like a hungry monster eating our budget. Let's go with the textiles!
+- [75] **Shizue**: It warms my heart to see such unity. By choosing the textiles, we ensure that our one remaining conservation colleague is not overwhelmed and that our volunteers can share their local knowledge with a smile.
+- [76] **Shion**: Unity is a pleasant byproduct, but the real victory is the elimination of risk. We have successfully filtered out the ticking time bombs and the paperwork nightmares. I am satisfied with this outcome.
+- [77] **May**: I'm totally satisfied too! It's a win-win: we get the crowds and the glamour of live demonstrations, and @Shion gets to sleep at night knowing nothing is exploding. Let's make this show a hit!
+- [78] **Misaki**: I am also satisfied. By prioritizing a candidate that respects our structural limits and operational reality, we ensure the exhibition's success without compromising the building. I am ready to vote for Textiles of the Region.
+- [79] **Sakura**: I'm ready too! It's like we solved a big puzzle together! No scary shipwrecks, no exploding machines, and no disappearing money. Textiles of the Region is the winner! I vote for Textiles of the Region!
+- [80] **Shizue**: I am truly touched by the kindness and cooperation we have shown one another. Let us move forward with a heart full of confidence. I cast my vote for Textiles of the Region.
+- [81] **Shion**: The logic is inescapable. To choose any other candidate would be to invite the very frictions we have spent this session identifying. I cast my vote for Textiles of the Region.
+- [82] **May**: I'm totally on board! It's the perfect mix of what the visitors love and what the museum can actually handle. Let's give them a show they'll actually talk about! I vote for Textiles of the Region!
+- [83] **Misaki**: I agree. Textiles of the Region is the only candidate that aligns with our physical constraints and operational needs. I cast my vote for Textiles of the Region.
+- [84] **Sakura**: Yay! This was so much fun! We found the perfect one that's sparkly, exciting, and doesn't eat all our money. I'm so happy we all agree! I cast my vote for Textiles of the Region!
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

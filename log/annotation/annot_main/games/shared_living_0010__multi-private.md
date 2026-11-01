@@ -1,0 +1,73 @@
+# shared_living_0010__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: Since our current habit isn't working, we need a system based on actual data. I want to make sure the workload is fair and realistic before we commit to anything for the whole year.
+- [6] **Mio**: I totally agree! It's been feeling a bit off lately, hasn't it? Let's figure out what's actually happening so we can make a plan that makes everyone happy!
+- [7] **Victoria**: I agree that we need a sustainable system. To avoid future friction, I think it's important to understand our different expectations of what "clean" actually means. Let's be thorough so we can all stay on good terms.
+- [8] **Rin**: I'm ready for a cleaning adventure! But we should check the money stuff too, right? I want to know exactly how much we're spending on things like sponges and bleach so it's fair for everyone!
+- [9] **Daisuke**: I... I agree. I just want to know what to expect when I walk into a room. It would be nice if it was always the same.
+- [10] **Ryuji**: I'll look into the stopwatch timing of a full pass and the standard terms of the outside firm. I want to know the actual time commitment versus professional options.
+- [11] **Mio**: I'll check the absences on the wall calendar and a fortnight's watch on kitchen use! I want to see who's actually around and using the space the most before we decide.
+- [12] **Victoria**: I will look into what each housemate counts as done and the rows recorded in the house chat. I want to understand where our misunderstandings lie and what has caused tension in the past.
+- [13] **Rin**: I'll check the bathroom spray stock and the tin's receipts! Also, the management office rate sheet and billing. I want to see where all the money is going!
+- [14] **Daisuke**: I'll... look into the bathroom grout after the July scrub and the note left by the previous tenants. Maybe they had a system that actually worked for them...
+- [15] **Ryuji**: I think we've covered the main bases. By comparing the actual time it takes to clean with the cost of a professional service, we can decide if the labor is worth the saving.
+- [16] **Mio**: That sounds like a great plan, Ryuji! I'm really curious to see if the usage patterns match up with who's doing the work. It'll be so much easier to be fair once we have the facts!
+- [17] **Victoria**: I hope that by reviewing our past conflicts and differing standards, we can address the root causes of our friction. It is better to be honest about our expectations now than to let resentment build up.
+- [18] **Rin**: I hope we find out who's been paying for all the soap! It's like a treasure hunt for receipts! I can't wait to see if we're spending too much or just forgetting to pay each other back!
+- [19] **Daisuke**: I... hope the previous tenants had some good advice. I just want things to be consistent... so I don't have to worry so much.
+- [20] **Ryuji**: Let's wait for the results. Once we have the data on timing, costs, and usage, we can evaluate the options logically and choose the most sustainable arrangement for the year.
+- [21] **Mio**: I'm so excited to see what we find! Let's all be honest with our results so we can make the best system ever. I can't wait for the next round!
+- [22] **Victoria**: I agree. Let's be mindful of how we share our findings. If we approach this with empathy and a desire for harmony, I'm sure we can find a solution that works for everyone.
+- [23] **Rin**: I'm all set! I'll be the money detective! Let's see if we can solve the mystery of the missing payments and make everything super fair for everyone. I'm ready for the results!
+- [24] **Daisuke**: I'll... wait for the results too. I hope we can find a way to make everything feel stable. I'm looking forward to hearing what you all find.
+## Round 2
+- [35] **Ryuji**: The timing data shows a full pass takes over an hour and a half. Meanwhile, a professional firm requires us to tidy up first, meaning we wouldn't be entirely free from the labor.
+- [36] **Mio**: Wow, I found some really interesting stuff! It turns out some of us are away way more than others, and only a few people are actually making the kitchen messy. That's a huge difference!
+- [37] **Victoria**: My findings confirm that our standards for "done" vary significantly, which creates inconsistency. Furthermore, our past arguments in the chat always began with reminders about unfinished tasks. It seems our friction stems from these mismatched expectations.
+- [38] **Rin**: I found out we're spending about 2,300 yen a month on spray, but we're buying things twice! Also, the management office cleaner is 4,200 yen an hour. We really need a better way to track our money!
+- [39] **Daisuke**: I... I found out that the bathroom grout gets dirty again in just eleven days because of the ventilation. Also, the previous tenants' note said they split the rooms permanently, but they ended up barely speaking.
+- [40] **Ryuji**: @Mio, if usage is uneven, a flat rotation is illogical. However, @Victoria's point about standards means that even if we hire someone, we still spend time managing the "tidying" and the quality. We need a solution that minimizes total time.
+- [41] **Mio**: Exactly! If some of us are barely here or just making coffee, it doesn't feel right to do the same amount of scrubbing as the people cooking big meals every day. We should definitely consider that!
+- [42] **Victoria**: @Mio, while usage patterns matter, we must be careful. If we base duties solely on usage, it might lead to resentment or constant monitoring of each other. We need a system that feels fair without becoming a source of surveillance.
+- [43] **Rin**: @Ryuji, @Victoria, we can't just think about time! We're wasting money buying the same things twice! Whoever is paying for the spray is probably getting tired of it. We need a money pot or a better list!
+- [44] **Daisuke**: I... I'm worried about the bathroom. If it gets dirty in only eleven days, no matter who cleans it, it'll always feel... grim. And the note from the previous tenants makes me scared that we'll stop talking to each other.
+- [45] **Ryuji**: @Daisuke, the grout issue suggests we need a higher frequency of cleaning, not just a different person. @Rin, a shared fund is a simple fix, but it doesn't solve the labor problem. We must prioritize the time commitment.
+- [46] **Mio**: @Ryuji, I agree that frequency is key, but we can't just add more work for everyone! If we balance the chores based on who's actually using the rooms, it won't feel like such a burden.
+- [47] **Victoria**: @Mio, I understand your point, but monitoring usage can be invasive. @Daisuke, the previous tenants' experience is a warning. We should prioritize a system that prevents resentment, even if it means a slightly less "efficient" distribution of labor.
+- [48] **Rin**: But we can't have harmony if someone is secretly broke because they bought all the sponges! A shared fund isn't just about money; it's about being kind to each other's wallets! Let's fix the money and the cleaning together!
+- [49] **Daisuke**: I... I just don't want us to fight. If we can find a way to keep the bathroom clean more often without making anyone feel burdened, maybe we can avoid what happened to the previous tenants.
+- [50] **Ryuji**: We have a conflict between efficiency, fairness, and harmony. Since the total labor is significant and the grout degrades quickly, we need a system that is predictable and doesn't rely on constant monitoring or negotiation.
+- [51] **Mio**: I get that, but predictability shouldn't mean ignoring the facts! If we just stick to a rigid plan, the people who are always here and cooking will still feel like they're doing all the heavy lifting. We can be fair and predictable!
+- [52] **Victoria**: I believe the most dangerous path is one that requires us to constantly police each other's habits. Let's choose a system that minimizes the need for reminders, as those are what trigger our conflicts.
+- [53] **Rin**: I agree! Let's make a system where we don't have to nag each other. But please, can we also agree on a shared money pot for supplies? It'll be like a little treasure chest for the house!
+- [54] **Daisuke**: I... I think I agree. If we have a clear plan and a shared fund, maybe we won't have to argue. I just want to feel safe and calm when I'm at home.
+## Round 3
+- [60] **Ryuji**: Option C is inefficient because we still have to tidy up first, and the cost is high. Option A risks the resentment the previous tenants faced. Option B is the most logical for distributing the labor burden.
+- [61] **Mio**: I don't know about Option B! If we just rotate, the people who are always here and making the mess still get a "free pass" when it's not their week. That doesn't feel fair at all!
+- [62] **Victoria**: @Mio, I understand your concern, but Option B removes the need for constant reminders. If we have a fixed rota, the responsibility is clear, which prevents the kind of nagging that leads to arguments.
+- [63] **Rin**: I like Option C! If a pro does it, we won't fight about how clean it is. Plus, we can just add the cleaning cost to our shared money pot! It's the easiest way!
+- [64] **Daisuke**: I... I'm worried about Option A because of that note. But Option B might be okay if we all agree on the standards... I just want to know it'll be clean. Maybe Option C is safest?
+- [65] **Ryuji**: @Rin, @Daisuke, Option C is a financial drain and doesn't eliminate the labor of tidying. @Mio, while a rota isn't perfect, it's the only way to ensure the total time burden is shared equally without constant surveillance.
+- [66] **Mio**: But it's not equal if the usage isn't equal! If I'm the only one cooking for a week, I'm still cleaning up after myself, but I'm also doing the "rota" work. It just feels wrong!
+- [67] **Victoria**: @Mio, if we try to adjust for every single meal or visit, we will spend more time arguing over the math than actually cleaning. A rota is a social contract that lets us move past the "who did what" phase.
+- [68] **Rin**: But if we do Option B, we still have to figure out who pays for the soap! If we pick Option C, the money part is already solved because we just split the bill! It's way simpler!
+- [69] **Daisuke**: I... I think Victoria is right about the arguing. If we spend all our time calculating who used the kitchen more, we might end up like the previous tenants. I'll vote for Option B.
+- [70] **Ryuji**: @Rin, the money pot is a separate issue from the labor system; we can implement it regardless of the option. Option B is the only one that guarantees a predictable, shared time commitment.
+- [71] **Mio**: I guess you're right about the arguing, but I still hate the idea of it being unfair! If we go with Option B, can we at least promise to be extra helpful when someone is away?
+- [72] **Victoria**: That is a kind gesture, Mio, and I think that spirit of flexibility is exactly what will keep us on speaking terms. As long as the framework is clear, we can support each other without it feeling like a chore.
+- [73] **Rin**: If we can have the money pot for the soap and sponges no matter what, then Option B sounds okay! It's like a team game where we take turns! I'll vote for B!
+- [74] **Daisuke**: I... I feel a bit better now that we're agreeing. If we all help each other and use the money pot, maybe it'll be okay. I'll vote for Option B too.
+- [75] **Ryuji**: Since we have reached a consensus that Option B provides the most predictable distribution of labor and minimizes conflict, I will also vote for Option B. It is the most rational choice for the household.
+- [76] **Mio**: I'm still a little worried about the fairness, but I don't want us to fight! If we all promise to be kind and help out, I'm in. I'll vote for Option B too!
+- [77] **Victoria**: I agree. A clear, rotating structure protects our relationships by removing ambiguity. I vote for Option B, and I look forward to us maintaining this harmony throughout the year.
+- [78] **Rin**: Yay! We're all on the same team now! As long as we get that treasure chest for the cleaning supplies so nobody's wallet gets sad, I'm super happy! I vote for Option B!
+- [79] **Daisuke**: I... I'm glad we could decide together. I feel much more relieved knowing there's a plan we all agree on. I vote for Option B.
+### Vote
+- Ryuji -> B
+- Mio -> B
+- Victoria -> B
+- Rin -> B
+- Daisuke -> B
+## Result
+- adopted: B

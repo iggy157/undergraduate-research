@@ -1,0 +1,73 @@
+# candidate_selection_0015__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Ryuji**: I worry about external factors. Let’s check the winter road closures and supplier delivery windows.
+- [6] **Yumi**: I care about access. I’ll look at bus links in the outer wards and evening room bookings.
+- [7] **George**: I need to see the funding shape. I’ll review the county grant terms and last year’s running lines.
+- [8] **May**: I want to know what failed before. I’ll check the two programmes begun six years ago and attendance sheets.
+- [9] **Daisuke**: I’m worried about staff skills. I’ll look at the volunteer register and neighbourhood associations.
+- [10] **Ryuji**: @George, if the grant ends, do we have the cash flow to keep the lights on?
+- [11] **Yumi**: @Ryuji, that’s a good point. But if people can’t get here, the budget doesn’t matter.
+- [12] **George**: @Yumi, access is vital, but without stable funding, the doors close anyway.
+- [13] **May**: @George, I agree. But we need to know if these ideas are just recycled failures.
+- [14] **Daisuke**: @May, I hope we have the people to run them. I’m a bit nervous about the workload.
+- [15] **Ryuji**: I’ll stick to my choices. The weather and suppliers are the biggest risks I see.
+- [16] **Yumi**: I’ll stick to my choices. If the bus stops, the service stops. It’s that simple.
+- [17] **George**: I’ll stick to my choices. The money has to last beyond the first year.
+- [18] **May**: I’ll stick to my choices. History repeats itself if we don’t look at the records.
+- [19] **Daisuke**: I’ll stick to my choices. We need to know who is actually qualified to help.
+- [20] **Ryuji**: Let’s see what the data says. I’m ready to move on.
+- [21] **Yumi**: I’m excited to see if the outer wards are truly cut off.
+- [22] **George**: I trust the numbers will show the truth about the budget.
+- [23] **May**: I’m curious if the old programmes left any useful lessons.
+- [24] **Daisuke**: I’m hoping the volunteer list is longer than I fear.
+## Round 2
+- [35] **Ryuji**: The roads closed eleven days, but suppliers slip when big clients book first. That’s a risk.
+- [36] **Yumi**: The outer wards lost their bus link. An hour’s round trip is too long for most people.
+- [37] **George**: The grant only covers twelve months. After that, the flat budget carries the cost.
+- [38] **May**: The old digitisation project failed, but the partner-run groups still meet. That’s a good sign.
+- [39] **Daisuke**: There are retired tradespeople volunteering, but no one on payroll is trained to supervise them.
+- [40] **Ryuji**: @George, if the grant ends, can we afford the ongoing costs?
+- [41] **Yumi**: @Ryuji, yes, but only if we reach the people who need us most.
+- [42] **George**: @Yumi, reaching people is hard if the money runs out.
+- [43] **May**: @George, the partner groups prove that community-led work can sustain itself.
+- [44] **Daisuke**: @May, that’s true, but we still need someone to manage the volunteers safely.
+- [45] **Ryuji**: I’m concerned about the supplier delays. We need a plan that doesn’t rely on them.
+- [46] **Yumi**: I’m worried about the bus links. We need to go to the people, not wait for them.
+- [47] **George**: I’m worried about the budget gap. We need a low-cost option.
+- [48] **May**: I’m glad the partner groups worked. We should build on that success.
+- [49] **Daisuke**: I’m worried about the supervision gap. We need to train someone or hire help.
+- [50] **Ryuji**: Let’s focus on options that are resilient to external delays.
+- [51] **Yumi**: Let’s focus on options that reach the outer wards.
+- [52] **George**: Let’s focus on options that fit the long-term budget.
+- [53] **May**: Let’s focus on options that have a track record of success.
+- [54] **Daisuke**: Let’s focus on options that don’t overwhelm our current staff.
+## Round 3
+- [60] **Ryuji**: Option D, the Mobile Branch, avoids supplier delays and reaches the outer wards.
+- [61] **Yumi**: I agree. Option D solves the bus link problem directly.
+- [62] **George**: Option D has high running costs. The vehicle line already overran last year.
+- [63] **May**: Option A, Language Circles, builds on the successful partner groups.
+- [64] **Daisuke**: Option A needs facilitators. We have volunteers, but no one to supervise them.
+- [65] **Ryuji**: @George, the vehicle costs are high, but the mobile service is essential for access.
+- [66] **Yumi**: @Ryuji, exactly. We can’t ignore the people in the outer wards.
+- [67] **George**: @Yumi, I hear you, but the budget is tight. We need to be careful.
+- [68] **May**: @George, Option A is low-cost and community-driven. It fits the budget.
+- [69] **Daisuke**: @May, Option A is good, but we need to solve the supervision issue first.
+- [70] **Ryuji**: I think Option D is the best choice. It’s resilient and reaches everyone.
+- [71] **Yumi**: I agree. Option D is the only one that truly serves the whole community.
+- [72] **George**: I’m still worried about the costs, but I see the value.
+- [73] **May**: I support Option A, but I understand the need for access.
+- [74] **Daisuke**: I’m leaning towards Option A, but I’m concerned about the staff burden.
+- [75] **Ryuji**: I vote for Option D. It’s the most resilient and accessible.
+- [76] **Yumi**: I vote for Option D. It solves the access problem.
+- [77] **George**: I vote for Option A. It’s the most sustainable budget-wise.
+- [78] **May**: I vote for Option A. It builds on past success.
+- [79] **Daisuke**: I vote for Option A. It’s less burdensome for staff.
+### Vote
+- Ryuji -> D
+- Yumi -> D
+- George -> A
+- May -> A
+- Daisuke -> A
+## Result
+- adopted: A

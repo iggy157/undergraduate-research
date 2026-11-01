@@ -1,0 +1,72 @@
+# shared_living_0012__multi-private (shared_living)
+
+## Round 1
+- [5] **Kenji**: Hi everyone! I'm glad we're doing this. I want us all to get along, so let's find a fair way to fix the bins! I'll start by looking into the Ward complaint log for this point.
+- [6] **Shizue**: It is lovely to see everyone gathered here. I want us all to feel comfortable in our own homes. I think I will look into the supervised mornings on the next lane and the station block's bin house.
+- [7] **Asuka**: I agree we need a sustainable solution. I will look into the Ward filing requirements per the installations clerk and the truck arrival time from the crew leader to understand the operational side.
+- [8] **Rin**: I want to know if it's actually fair for everyone! I'll check the measurements of the five frontages and the block ledger of refuse-point expenses. Let's make sure nobody is doing all the work!
+- [9] **Servas**: It is a pleasure to be with you all. To ensure our solution is grounded in reality and kindness, I shall look into the Ward subsidy and last year's shelter costs, and the block ledger of refuse-point expenses.
+- [10] **Kenji**: Since I already picked the complaint log, I'll also check the statements at the residents' meeting. I want to know what everyone has been saying so we can all be happy!
+- [11] **Shizue**: I believe I have chosen my two areas of interest, dear Kenji. I shall stick with the supervised mornings and the bin house visit. I hope they provide some gentle guidance for us.
+- [13] **Rin**: I've already got my two! I'm super curious about those measurements and the money stuff. I hope we find out if things have been unfair for a long time!
+- [14] **Servas**: I have also made my selections. I believe understanding our past expenditures will help us move forward with a spirit of harmony and fairness for every household.
+- [15] **Kenji**: I think we've all picked some great things to check! I'm really excited to see what we find out. Do you think the information will help us all feel better about each other?
+- [16] **Shizue**: I believe it will, dear Kenji. When we understand each other's perspectives and the reality of the situation, it is much easier to find a path that brings peace to everyone's heart.
+- [17] **Asuka**: Information is only useful if it leads to a practical, manageable system. I hope the data we gather allows us to create a structure that doesn't rely on the goodwill of a few individuals.
+- [18] **Rin**: Exactly! We can't just hope people are nice. We need a real plan that's fair for everyone, even the people who have had to deal with the bins right at their front door!
+- [19] **Servas**: Patience and clarity are our best allies. By combining Asuka's practicality with Rin's desire for fairness, we shall find a balance that respects both the budget and the spirit of our community.
+- [20] **Kenji**: I agree! Let's all do our best to find a solution that makes everyone smile. I can't wait to hear what you all discover! See you in the next round!
+- [21] **Shizue**: I agree, Kenji. Let us all approach this with kindness and an open heart. I look forward to hearing what you all find. Until then, please take care of yourselves.
+- [22] **Asuka**: I look forward to the results. Let's ensure we focus on the actual time and effort required for maintenance once we have the facts. See you all soon.
+- [23] **Rin**: I'm ready for the adventure! I'll be looking for the truth in those numbers. See you all later! Bye-bye!
+- [24] **Servas**: May we all find the wisdom to see beyond the numbers and recognize the human needs they represent. I wish you all a peaceful interval. Until we meet again.
+## Round 2
+- [35] **Kenji**: Wow, I found some interesting things! It seems like one neighbor has been really stressed about the bins. Also, most people are too kind to turn away late bags, which might be part of the problem!
+- [36] **Shizue**: It is a bit sad to hear that someone has been feeling stressed, isn't it? I hope we can find a way to lift that burden. I've learned some things that might help us avoid new troubles.
+- [37] **Asuka**: The truck arrives quite early, between 7:40 and 8:15. This means the pavement must be cleared before many of us are even awake. Additionally, permanent installations require a lengthy four-month filing process and multiple signatures.
+- [38] **Rin**: I found out that the frontages are all different sizes! One is super narrow, and some have driveways. Also, we're spending 34,000 yen a year just because bags are left open! That's a lot of money!
+- [39] **Servas**: Indeed, Rin. That sum is a burden we must address. I have also learned that a new shelter could cost around two hundred forty-eight thousand yen, though a ward subsidy may cover forty percent of that expense.
+- [40] **Kenji**: @Rin, 34,000 yen is a lot! But @Asuka, if a permanent shelter takes four months to approve, maybe we should look for something faster so our stressed neighbor feels better sooner? What do you think?
+- [41] **Shizue**: That is a very thoughtful point, Kenji. We must be careful not to rush into a solution that might cause new worries. I wonder if a permanent structure might actually make things more difficult in the summer?
+- [42] **Asuka**: @Kenji, speed is important, but a temporary fix often creates more work for the people managing it. If we choose a fast option, we must ensure it doesn't just add another chore to someone's morning.
+- [43] **Rin**: @Asuka, you're right! But we also have to think about the space. I found out some frontages are really narrow! If we just put a big box anywhere, it might block the whole sidewalk for one person!
+- [44] **Servas**: It is wise to consider both the space and the time. We must ensure that our solution does not place an undue financial or physical burden on any single neighbor, regardless of their frontage.
+- [45] **Kenji**: I really want us to be friends again! If we pick something that's fair and doesn't take too long, maybe everyone will stop being grumpy. Do you think a subsidy would make a big shelter easier to agree on?
+- [46] **Shizue**: A subsidy is a wonderful help, Kenji. However, I worry that a large shelter might trap the summer heat and smells, making the corner unpleasant for everyone to walk past. Perhaps a simpler, fresher approach is better?
+- [47] **Asuka**: @Shizue, smells are a concern, but the real issue is the labor. If we opt for a "simpler" approach, who is responsible for the daily upkeep? We cannot let this become another unpaid job for one person.
+- [48] **Rin**: @Asuka, exactly! That's what I'm worried about! If we just "keep it simple," the person whose house it's in front of will probably end up doing all the cleaning. That's not fair at all!
+- [49] **Servas**: Let us remember that fairness is not merely about the division of labor, but also the division of cost. We must ensure the financial weight is shared with compassion for each household's unique circumstances.
+- [50] **Kenji**: I think we're all starting to see the big picture! We need something that's fair, doesn't cost too much, and doesn't make anyone feel like they're doing all the work. Let's find a way to make everyone happy!
+- [51] **Shizue**: It is so heartening to see us all thinking of one another. Let us keep these worries in mind as we look at our options, so we can choose a path that brings true peace to our corner.
+- [52] **Asuka**: We must be cautious. If the options we are about to see rely on "voluntary" rotations or "informal" agreements, they will likely fail or exhaust someone. I will be voting for the most structurally sustainable option.
+- [53] **Rin**: I'm with Asuka! We need a real rule, not just a "please help" promise. If the bins stay in one spot, the person living there shouldn't be the only one cleaning up. Let's make it super fair!
+- [54] **Servas**: True fairness is a bridge built with both logic and empathy. As we move toward a decision, let us ensure our choice protects the peace of our hearts and the stability of our purses.
+## Round 3
+- [60] **Kenji**: I'm worried about Option B! Moving the bins around might just start new fights between different neighbors. I think we should pick something that lets us all settle down and be friends again!
+- [61] **Shizue**: I understand your worry, Kenji. I also have concerns about Option A; a closed structure can trap such unpleasant smells in August. Perhaps Option C would be a gentler way to keep our corner fresh and tidy?
+- [62] **Asuka**: @Shizue, Option C is the worst choice. "Taking turns to oversee" is exactly the kind of informal labor that falls on the most compliant person. It creates a recurring time burden without any structural solution.
+- [63] **Rin**: @Asuka, I totally agree! Option C is just a fancy way of saying "someone has to stand there and watch the trash." That's not a solution, that's just a new chore!
+- [64] **Servas**: While Option C may seem gentle, it places a heavy burden on our time. Option B, though fair in theory, may cause unrest. Let us consider if Option A's cost can be shared with kindness.
+- [65] **Kenji**: @Servas, I like that! If we all chip in for Option A, it's a permanent fix. It means no one has to move the bins or stand guard, so we can just be neighbors again!
+- [66] **Shizue**: But dear Kenji, I worry that a permanent box might only hide the mess while making the smell worse for those walking by in the heat. Is there no way to keep it fresh?
+- [67] **Asuka**: @Shizue, smells are a secondary issue compared to the labor of maintenance. Option A is the only one that removes the daily operational burden from the residents. It is a one-time effort for a permanent result.
+- [68] **Rin**: Wait! Option A keeps the bins in the same spot! If they stay there, the person living right there still has to deal with it every day. Is that really fair, or just easier for everyone else?
+- [69] **Servas**: @Rin, your concern is valid. However, a permanent structure can be designed to be tidy and respectful. If we share the cost and the effort of the application, we create a lasting peace for all.
+- [70] **Kenji**: @Rin, maybe the structure makes it so much cleaner that the neighbor won't be stressed anymore? If we all help with the paperwork, it shows we care about them! I think Option A is the best for our friendship.
+- [71] **Shizue**: I appreciate your kindness, Kenji. However, I saw a bin house that could not be cleaned, and the smell was quite strong. I fear Option A might just trade one problem for another. Perhaps Option B is fairer?
+- [72] **Asuka**: @Shizue, Option B is a logistical nightmare. Moving the point requires constant coordination and creates a new cycle of stress every time the location shifts. It doesn't eliminate the labor; it just redistributes the chaos.
+- [73] **Rin**: @Asuka, you're right about the chaos! But @Kenji, just "showing we care" with paperwork doesn't change the fact that one person's front door is the trash zone forever. That's not fair! I can't vote for that!
+- [74] **Servas**: My dear Rin, fairness is a delicate balance. While the location is fixed, a shared investment in a proper structure elevates the point from a mere pile of waste to a community asset, easing the burden on that one home.
+- [75] **Kenji**: I really want us to stop fighting! If we pick Option A and all work together to make it look nice and clean, maybe everyone will feel respected. I'm voting for Option A!
+- [76] **Shizue**: I wish for everyone's happiness, but I cannot ignore the smell of a hot August morning. I fear Option A will only bring new sorrows. For the sake of fairness and freshness, I vote for Option B.
+- [77] **Asuka**: Option B is inefficient and Option C is an unsustainable labor trap. Despite the filing delay, Option A is the only choice that provides a structural solution and eliminates recurring chores. I vote for Option A.
+- [78] **Rin**: I can't do A because it's not fair to the person living there, and B is too messy! But C is just a chore. I'll vote B because at least everyone shares the burden! I vote Option B!
+- [79] **Servas**: We must choose the path that offers the most enduring peace. While the cost is significant, the subsidy eases the weight, and a permanent structure removes the daily strife. For the harmony of our community, I vote Option A.
+### Vote
+- Kenji -> A
+- Shizue -> B
+- Asuka -> A
+- Rin -> B
+- Servas -> A
+## Result
+- adopted: A

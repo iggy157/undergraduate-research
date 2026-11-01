@@ -1,0 +1,73 @@
+# candidate_selection_0029__single-online (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Shion, May, Misaki, Sakura, please choose two items from the list to investigate.
+- [6] **Shion**: I’ll check the lender paperwork against shipping cut-offs and the loan transport costs over three seasons.
+- [7] **May**: I’ll look into the five years of visitor comment slips and the weekend head counts across ten seasons.
+- [8] **Misaki**: I’ll check the structural survey of the suspended bay and the maintenance log for powered displays.
+- [9] **Sakura**: I’ll check the mount-making charges and joiner’s rate, plus the conservation lab staffing and backlog.
+- [10] **Shizue**: Good choices, everyone. I’ll look into the conservation lab staffing and the volunteer roster to see who is actually available.
+- [11] **Shion**: @Shizue, you and I are both checking the conservation lab. I hope your findings match my suspicion that we are short-staffed.
+- [12] **May**: @Shion, I’m focusing on what visitors actually say and do, not the paperwork. Let’s see if the numbers agree with the comments.
+- [13] **Misaki**: @Shion, I am checking the physical limits of the room, not the paperwork. The floor and the bay have their own rules.
+- [14] **Sakura**: @Shion, I’m checking the costs and the lab backlog. I want to see where the money and the work actually go!
+- [15] **Shizue**: I am glad we are all looking at the people behind the scenes. It is the heart of the museum, after all.
+- [16] **Shion**: @Shizue, I am checking the logistics, not the people. The paperwork is where the season actually breaks.
+- [17] **May**: @Shion, the paperwork is just paper. The people are the ones who decide if a season feels alive or empty.
+- [18] **Misaki**: @May, the room is not alive or empty. It is either structurally sound or it is not.
+- [19] **Sakura**: @Misaki, but if the floor is sound, the money still has to be there! I’m just making sure the invoices don’t surprise us later.
+- [20] **Shizue**: Let us see what the records reveal. I trust we will find a way to make this season work for everyone.
+- [21] **Shion**: We will see which numbers hold up. I expect the logistics to be the deciding factor, as usual.
+- [22] **May**: @Shion, we will see if the numbers hold up. I suspect the visitors will have the final say, not the paperwork.
+- [23] **Misaki**: @May, the room does not vote. It simply holds what we put in it, or it does not.
+- [24] **Sakura**: @Misaki, the room holds the weight, but the budget holds the rest! I’m ready to see what we found.
+## Round 2
+- [35] **Shizue**: I found the lab is down to one person with two hundred pieces waiting. The volunteer list is mostly the history circle.
+- [36] **Shion**: My records show two recent openings slipped because paperwork arrived after shipping cut-offs. Transport costs also ate a third of the installation budget.
+- [37] **May**: The head counts climb where things move, but the comment slips say people return because someone is actually there, working or talking.
+- [38] **Misaki**: The maintenance log shows seventeen call-outs for powered displays last season, four during opening hours.
+- [39] **Sakura**: The lab is down to one person with two hundred pieces waiting! And the joiner’s rate jumped by half. That explains the budget holes!
+- [40] **Shizue**: @Sakura, yes, the lab is stretched thin. But the volunteer list is mostly the history circle, who are already busy with their monthly walks.
+- [41] **Shion**: @Shizue, the history circle is already committed. We cannot rely on them for daily gallery duties.
+- [42] **May**: @Shion, you’re right about the volunteers. But my data shows people come back for the people, not just the objects.
+- [43] **Misaki**: @May, the room is not a person. It is a structure that must support the weight without failing.
+- [44] **Sakura**: @Misaki, the room holds the weight, but the budget holds the rest! I’m just making sure the invoices don’t surprise us later.
+- [45] **Shizue**: @May, I agree. If the history circle is tied up, we need to know who else can stand in the room.
+- [46] **Shion**: @Shizue, the history circle is a distraction. The real failure is the paperwork arriving late. We need to fix the logistics, not the staffing.
+- [47] **May**: @Shion, you keep blaming the paper, but the paper doesn’t hug the visitors. The people do.
+- [48] **Misaki**: @Shion, the paperwork is a delay, not a collapse. The bay’s weight limit is a hard stop, not a suggestion.
+- [49] **Sakura**: @Shion, late paper is annoying, but a broken bay is a disaster! I’m just glad we checked before the crates arrived.
+- [50] **Shizue**: Let us keep the room safe and the people happy. I trust we will find a balance that works for everyone.
+- [51] **Shion**: @Shizue, sentiment is not a structural survey. I am waiting for the candidates to see which one survives the logistics.
+- [52] **May**: @Shion, sentiment is what fills the room. I am waiting to see which candidate brings the people back, not just the boxes.
+- [53] **Misaki**: @Shion, the bay’s limit is a hard stop. I am waiting to see which candidate fits the structure, not just the paperwork.
+- [54] **Sakura**: @Shion, I’m waiting to see which candidate doesn’t bankrupt us! The joiner’s rate is scary, so I hope we pick something that doesn’t need custom mounts.
+## Round 3
+- [60] **Shizue**: The candidates are here. Let us see which one fits our people, our room, and our budget.
+- [61] **Shion**: @Shizue, let us look at the logistics. Which of these requires the most incoming loans and complex crating?
+- [62] **May**: @Shion, logistics are boring. I want to know which one brings people back. My data says presence wins, not paperwork.
+- [63] **Misaki**: @Shion, the structural limits are the first filter. Which candidate requires overhead rigging or heavy stonework that the bay cannot support?
+- [64] **Sakura**: @Shion, I’m watching the money! Which one needs the most custom mounts? The joiner’s rate is terrifying, and I don’t want another surprise invoice!
+- [65] **Shizue**: - **Shizue**: @Sakura, I hear you. But @May, which candidate actually puts a person in front of the visitors?
+- [66] **Shion**: @May, presence is a variable, not a guarantee. @Misaki, which candidate exceeds the bay’s four-hundred-kilo limit?
+- [67] **May**: @Shion, A puts craftspeople right there, working and talking. That is the presence my data says brings people back.
+- [68] **Misaki**: @Shion, C requires overhead rigging. The bay’s limit is four hundred kilos. I need to know if the rigging fits that cap.
+- [69] **Sakura**: @Misaki, if C is too heavy, A is perfect! The tools are local, so no expensive shipping or custom mounts. My budget is safe!
+- [70] **Shizue**: - **Shizue**: @May, A brings the craftspeople, but @Shion, does D’s heavy stonework fit the bay? I worry about the floor.
+- [71] **Shion**: @Shizue, D relies on partner loans. My data shows those agreements arrive late, risking the opening. C’s rigging is the structural risk, not D.
+- [72] **May**: @Shion, D is just charts and models. A is the only one with living people. My comment slips prove presence wins, not paper.
+- [73] **Misaki**: @Shion, D’s stonework needed shoring last time. C’s rigging is the real threat to the bay’s limit.
+- [74] **Sakura**: @Shion, D’s late loans mean late invoices! A is local, so no shipping costs. My budget is finally safe!
+- [75] **Shizue**: - **Shizue**: @May, A brings the people, but @Shion, D brings the risk. I am ready to vote for the one that keeps us safe and happy.
+- [76] **Shion**: @May, presence is a luxury. D’s late paperwork is a certainty. I vote for B, where the conservation bench is visible and the logistics are internal.
+- [77] **May**: @Shion, B is just a bench. A is the only one with living people. I vote for A, because presence is what brings them back.
+- [78] **Misaki**: @Shion, B’s visible bench is a mechanism. My log shows seventeen call-outs for powered displays. I vote for A, which needs no rigging.
+- [79] **Sakura**: @Shion, B needs the lab, which is already drowning! A is local, so no shipping or custom mounts. I vote for A to save our budget!
+### Vote
+- Shizue -> A
+- Shion -> B
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

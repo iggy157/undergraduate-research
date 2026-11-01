@@ -1,0 +1,73 @@
+# candidate_selection_0028__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I worry about the yard equipment. Can the new system handle our old devices?
+- [6] **Mizuki**: I need to see the real cost. Headline prices hide the long-term drain.
+- [7] **Asuka**: Who is actually in charge when the system fails? I need clear ownership.
+- [8] **Rin**: I hate when things break and nobody fixes them. Who owns the repairs?
+- [9] **Servas**: We must look at the people. The system serves the hands that work it.
+- [10] **Kenji**: @Mizuki, if the cost is high, can we phase it in?
+- [11] **Mizuki**: @Kenji, Phasing often adds complexity. I want the full picture first.
+- [12] **Asuka**: @Rin, Ownership is my main fear. I need to know who answers.
+- [13] **Rin**: @Asuka, Exactly! If it breaks, I want to know who fixes it fast.
+- [14] **Servas**: @Asuka, The person who answers must be trusted. Trust is built over time.
+- [15] **Kenji**: I will check the yard devices and the depot calendar.
+- [16] **Mizuki**: I will look at the invoices and the board minutes.
+- [17] **Asuka**: I will check the support ownership and the warehouse rule changes.
+- [18] **Rin**: I will look at the upgrade history and the administrator retirements.
+- [19] **Servas**: I will look at the administrator retirements and the depot supervisors.
+- [20] **Kenji**: Let's see what the data says. I hope it fits our reality.
+- [21] **Mizuki**: The numbers will tell the truth. I trust the ledger more than promises.
+- [22] **Asuka**: I need to know if the plan will hold. I am tired of shifting goals.
+- [23] **Rin**: I am excited to see what we find! Let's go look!
+- [24] **Servas**: We walk this path together. Let us see what lies ahead with open eyes.
+## Round 2
+- [35] **Kenji**: The yard devices are a mess. The 2021 trial failed because of spreadsheets.
+- [36] **Mizuki**: @Kenji, That explains the hidden costs. The board keeps cutting capital, but operating costs keep rising.
+- [37] **Asuka**: @Mizuki, The support is a mess. Last winter, nobody owned the outage for two days.
+- [38] **Rin**: @Asuka, That is scary! I found that the admins are leaving. Who will fix it?
+- [39] **Servas**: @Rin, The supervisors are the key. They know the work, but they resist new rules.
+- [40] **Kenji**: @Mizuki, If the board cuts capital, we can't afford a big cutover.
+- [41] **Mizuki**: @Kenji, Exactly. We need a vendor who charges for outcomes, not just licenses.
+- [42] **Asuka**: @Rin, The warehouse rules changed twice this year. The plan is already dead.
+- [43] **Rin**: @Asuka, I saw the upgrade history. They skipped three updates! That is why it breaks.
+- [44] **Servas**: @Asuka, The people are stretched thin. We must choose a path that respects their limits.
+- [45] **Kenji**: I think we need a vendor who understands our yard chaos.
+- [46] **Mizuki**: I agree. But the price must be transparent. No hidden fees.
+- [47] **Asuka**: I need a vendor who assigns a single point of contact for failures.
+- [48] **Rin**: I want a vendor who fixes things quickly! No more waiting for weeks!
+- [49] **Servas**: I seek a vendor who trains the supervisors, not just the admins. The roots must be strong.
+- [50] **Kenji**: Let's vote for the one who fits our messy reality.
+- [51] **Mizuki**: The numbers must be clean. I will vote for transparency.
+- [52] **Asuka**: I will vote for the one who owns the failure. No more pointing fingers.
+- [53] **Rin**: I will vote for the one who fixes it fast! Let's choose!
+- [54] **Servas**: I will vote for the one who honors the people. The system must serve the soul.
+## Round 3
+- [60] **Kenji**: Anchor looks best for our yard. They have engineers on site.
+- [61] **Mizuki**: @Kenji, But their license model is opaque. I fear the hidden costs.
+- [62] **Asuka**: @Mizuki, Anchor has a single engineering team. That solves the ownership problem.
+- [63] **Rin**: @Asuka, Yes! They are here to fix it! I like Anchor!
+- [64] **Servas**: @Rin, Anchor respects the local knowledge. The engineers will listen to the supervisors.
+- [65] **Kenji**: @Mizuki, The on-site team might cost more, but it saves us from downtime.
+- [66] **Mizuki**: @Kenji, Downtime is expensive, but so is a bad contract. I need to see the total cost.
+- [67] **Asuka**: @Mizuki, The total cost is less important than who answers when it breaks.
+- [68] **Rin**: @Asuka, I agree! If it breaks, I want someone there to fix it!
+- [69] **Servas**: @Asuka, The presence of the engineers is a form of care. It shows they value the work.
+- [70] **Kenji**: I am leaning towards Anchor. It fits our calendar and our yards.
+- [71] **Mizuki**: I am still worried about the long-term cost. But the on-site support is a strong point.
+- [72] **Asuka**: I am voting for Anchor. The single point of contact is what I need.
+- [73] **Rin**: I am voting for Anchor! They will fix it fast!
+- [74] **Servas**: I am voting for Anchor. They will train the supervisors and honor the people.
+- [75] **Kenji**: Let's go with Anchor. It is the best fit for our reality.
+- [76] **Mizuki**: I will vote for Anchor, but I will watch the invoices closely.
+- [77] **Asuka**: I am confident in this choice. The ownership is clear.
+- [78] **Rin**: I am happy! Let's get started!
+- [79] **Servas**: We have chosen a path that serves the people. Let us walk it with care.
+### Vote
+- Kenji -> C
+- Mizuki -> C
+- Asuka -> C
+- Rin -> C
+- Servas -> C
+## Result
+- adopted: C

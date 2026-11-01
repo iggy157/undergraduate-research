@@ -1,0 +1,73 @@
+# shared_living_0015__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Servas**: Hello everyone. It is a pleasure to see you all. Let us find a way to divide our bills that keeps our hearts light and our home warm.
+- [6] **Midori**: I agree. I have noticed we have been a bit tense lately when talking about money. I want us to find a system that prevents any hard feelings.
+- [7] **Minato**: I also want us to be happy. I sometimes hear people saying some are paying more than others... is that true? I want to know the truth.
+- [8] **May**: Let's be real, the current system is a mess. I'm tired of my bank account taking a hit every winter. We need a plan that actually makes sense.
+- [9] **Daisuke**: Um... I agree. I just... I hope we can find something that isn't too complicated to manage every month.
+- [10] **Servas**: @May, your frustration is heard. However, let us remember that a home is more than a ledger. We should look at how others manage this balance.
+- [11] **Midori**: @Daisuke, I understand. If the system is too hard, it just leads to more mistakes and more arguments. We need something simple but fair.
+- [12] **Minato**: Maybe we can look at the numbers? If we see how much we actually use, we won't have to guess or worry about rumors.
+- [13] **May**: Exactly, Minato. I'm not signing off on anything until I see the actual yearly trend. I don't want any more "surprise" bills in January.
+- [14] **Daisuke**: I... I think looking at how other houses do it might help. I don't want anyone to feel burdened by the work.
+- [15] **Servas**: A wise suggestion. I believe we should investigate the historical usage and perhaps a template to see if we can simplify the process for everyone.
+- [16] **Midori**: I think it is important to see the payment log. I want to understand where the friction has been so we can avoid it in the future.
+- [17] **Minato**: I want to see the plug-in monitors. I'm curious if some rooms use way more electricity than others. That would be fair to check, right?
+- [18] **May**: Fair, but not enough. I want to know if changing the setup requires an investment. If we need new wiring, who pays for that?
+- [19] **Daisuke**: I'll look into the templates... and maybe the payment log. I want to see how much time the current way takes.
+- [20] **Servas**: Let us proceed with these investigations. I shall look into the monthly settle of another house and the reconciliation template.
+- [21] **Midori**: I will look at the payment log and the last twelve utility statements. I want to see the patterns of our payments.
+- [22] **Minato**: I will check the plug-in monitor readings and the sunlight and heating needs of each room. I want to see the real data.
+- [23] **May**: I'm going for the electrician's quote and the last twelve utility statements. I need to know the cost of change and the yearly peaks.
+- [24] **Daisuke**: I'll check the trial run of a reconciliation template and the payment log for the last twelve months.
+## Round 2
+- [35] **Servas**: I have seen that precision often comes with a price of time and effort. We must ask if a few coins are worth the loss of our peace.
+- [36] **Midori**: I saw the payment log. It is sad, but we have had several late payments and arguments. The money is definitely affecting our friendship.
+- [37] **Minato**: I found out that some rooms use four times more electricity than others! Some rooms are also much colder because of the sun. It's not equal.
+- [38] **May**: The winter bills are a nightmare—nearly 30,000 yen in February! And if we want separate meters, it's 34,000 yen per room. That's a huge upfront cost.
+- [39] **Daisuke**: I... I saw the template. It looks like it takes hours to fill out. And the payment log shows people are getting frustrated because it takes so long.
+- [40] **Servas**: @Minato, the disparity in usage is natural. But if we punish the cold room, we create a house of shivering people. That is not a home.
+- [41] **Midori**: @May, 34,000 yen per room is too much. I don't think we should spend that much money just to avoid talking to each other.
+- [42] **Minato**: But if someone uses a heater all day and someone else doesn't, isn't it unfair for the other person to pay for it? I just want it to be right.
+- [43] **May**: It's not just about fairness, Minato, it's about predictability. I can't handle a bill that jumps from 9,000 to 30,000. We need a way to smooth that out.
+- [44] **Daisuke**: If we choose a system that is too precise... I'm worried the person doing the math will spend their whole weekend on it.
+- [45] **Servas**: Perhaps a middle path exists. One that acknowledges the difference in usage but maintains a spirit of generosity and simplicity.
+- [46] **Midori**: I agree. I would rather we pay a little more than is "perfectly fair" if it means we stop avoiding each other for a week after a reminder.
+- [47] **Minato**: I understand... I don't want people to be angry. But if we just ignore the four-times difference, will the person paying more still be upset?
+- [48] **May**: If we can't afford the meters, we can't have perfect precision. We need a system that averages the cost over the year so the winter doesn't kill us.
+- [49] **Daisuke**: @May, if we average it, does that mean the person managing it only has to do the math once a year? That would be much better.
+- [50] **Servas**: Let us consider the options. We must decide if we value the exactness of the coin or the warmth of the atmosphere.
+- [51] **Midori**: I will vote for whatever minimizes the need for constant reminders and disputes. Harmony is more valuable than a few hundred yen.
+- [52] **Minato**: I will think about it. I want to be fair, but I also want everyone to be smiling. I'll look for the option that balances both.
+- [53] **May**: I'm voting for stability. No more huge spikes in February and no massive upfront installation fees. Let's keep it simple and predictable.
+- [54] **Daisuke**: I just... I really hope we don't pick something that requires a lot of manual data entry every single month.
+## Round 3
+- [60] **Servas**: Option B offers a gentle rhythm. It removes the monthly anxiety and allows us to live without counting every single watt of energy.
+- [61] **Midori**: I strongly prefer Option B. It stops the monthly "who owes what" tension and the late payment arguments I saw in the logs.
+- [62] **Minato**: Option A is the most fair because of the monitor readings, but May said it is very expensive. I don't want to make people sad about money.
+- [63] **May**: Option A is out—too expensive. Option C is just the same nightmare we have now with the winter spikes. Option B is the only one that saves my budget.
+- [64] **Daisuke**: Option B... that means the math only happens once a year. That's much less work for whoever has to do it. I like that.
+- [65] **Servas**: @Minato, remember that fairness is not always about numbers. True fairness is when everyone feels they can breathe and relax in their own home.
+- [66] **Midori**: @Minato, if we go with B, we can just help each other out at the end of the year. It's much kinder than a monthly bill that changes wildly.
+- [67] **Minato**: I think I understand. If we use Option B, we don't have to fight every month. Even if it's not perfectly precise, it's more peaceful.
+- [68] **May**: Exactly. I can set aside a fixed amount every month and not worry about February. It's the only way I can actually plan my life.
+- [69] **Daisuke**: I'm worried about the year-end settle for Option B, but it's still better than doing it twelve times. It's... manageable.
+- [70] **Servas**: It seems we have found a path that respects both the wallet and the spirit. Let us choose the way that fosters generosity.
+- [71] **Midori**: I feel much better now. I think this will stop the cycle of reminders and avoidance. I'm happy we talked this through.
+- [72] **Minato**: I'll vote for B. I was worried about the usage difference, but I'd rather we be friends than be perfectly accurate.
+- [73] **May**: I'm all for B. It solves the predictability problem and avoids the electrician's bill. It's the most logical choice for all of us.
+- [74] **Daisuke**: I'll vote for B too. It's the least stressful for the person in charge of the bills. I... I think it's the best way.
+- [75] **Servas**: A consensus of hearts. Let us cast our votes and return to the joy of sharing our home.
+- [76] **Midori**: I agree. Let's move forward with a system that puts our friendship first.
+- [77] **Minato**: I'm glad we all agree. I feel much more relaxed now.
+- [78] **May**: Finally. Let's just get this decided so I can stop stressing about my winter budget.
+- [79] **Daisuke**: Yes... let's do it.
+### Vote
+- Servas -> B
+- Midori -> B
+- Minato -> B
+- May -> B
+- Daisuke -> B
+## Result
+- adopted: B

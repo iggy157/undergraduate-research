@@ -1,0 +1,73 @@
+# shared_living_0001__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried about hidden costs! I’ll check the prefecture rate sheet and the group transport receipts to see where the money actually goes.
+- [6] **Shizue**: I’m curious about the seniors’ thoughts on mixing year-groups and the attendance sheets. I want to see if we can actually connect with everyone.
+- [7] **Ryuji**: I will examine the canteen closure and last year's cooking duty. I need to understand the operational burden before committing to any destination.
+- [8] **Rin**: I’m checking the attendance sheets and the prefecture rate sheet! I need to know if we actually slept well and what the beds cost.
+- [9] **Misaki**: I’ll check the accounts from two clubs that went inland and the quoting terms for whole-building lets. I need to see the real numbers before we commit.
+- [10] **Mio**: @Rin, checking the rate sheet is smart! I’m also looking at the transport receipts to see if we’re overpaying for buses.
+- [11] **Shizue**: @Mio, I hope the transport receipts show we can travel together easily. I’m still hoping the seniors’ notes reveal how to break down those year-group walls.
+- [12] **Ryuji**: @Shizue, connection is secondary to sustainability. If the operational load breaks the organizers, the camp fails regardless of social bonds.
+- [13] **Rin**: @Ryuji, I get that! But if we’re exhausted, we can’t cook or connect. I’m checking the attendance sheets to see who actually slept well last time
+- [14] **Misaki**: @Ryuji, operational burden is real, but I need to verify if the inland accounts show a surplus or deficit. I’m checking the whole-building quotes to see if we can avoid hidden costs.
+- [15] **Mio**: @Misaki, I agree! Hidden costs are the worst. I’m checking the transport receipts to see if we’re overpaying for buses.
+- [16] **Shizue**: @Ryuji, I hear your worry. But if we don’t mix, the camp feels empty. I’m hoping the seniors’ notes show us how to bridge those gaps gently.
+- [17] **Ryuji**: @Shizue, I appreciate the sentiment, but I need to know if the cooking duty actually consumed the organizers’ evenings. That is the critical failure point.
+- [18] **Rin**: @Ryuji, cooking is hard, but bad sleep is worse! I’m checking the attendance sheets to see who was actually awake and ready to learn.
+- [19] **Misaki**: @Rin, sleep is vital, but I need to know if the inland clubs actually saved money. I’m checking the whole-building quotes to see if we can avoid hidden costs.
+- [20] **Mio**: I’m checking the prefecture rate sheet and the group transport receipts! I need to see if the flat fee really covers everyone fairly.
+- [21] **Shizue**: I’m checking the seniors’ notes on year-group mixing and the attendance sheets. I want to see if we can actually connect with everyone.
+- [22] **Ryuji**: I will examine the canteen closure and last year's cooking duty. I need to understand the operational burden before committing to any destination.
+- [23] **Rin**: I’m checking the attendance sheets and the prefecture rate sheet! I need to know if we actually slept well and what the beds cost.
+- [24] **Misaki**: I will examine the accounts from two clubs that went inland and the quoting terms for whole-building lets. I need to see the real numbers before we commit.
+## Round 2
+- [35] **Mio**: @Misaki, the transport receipts are shocking! It’s thirty-eight percent of the total! I need to know if the flat fee really covers this, or if we’re bleeding money.
+- [36] **Shizue**: @Mio, thirty-eight percent is heavy. But the attendance sheets are sadder. A fifth never came, and many left by winter. We must choose a place that keeps them here.
+- [37] **Ryuji**: @Shizue, the absence rate is a symptom, not the cause. My findings confirm the cooking duty consumed two hours daily. We must eliminate that operational drain to retain members.
+- [38] **Rin**: @Ryuji, two hours cooking is brutal! But the beds are only 1,100 yen a night! That’s cheap! I need to know if we actually slept well in those cheap beds.
+- [39] **Misaki**: @Mio, thirty-eight percent is unsustainable. The inland accounts show they slept eight to a room. I need to know if the whole-building quote covers that density without hidden fees.
+- [40] **Mio**: @Rin, 1,100 yen is great, but transport eats the budget! I need to see if the flat fee covers the bus, or if we’re secretly subsidizing the trip.
+- [41] **Shizue**: @Ryuji, two hours is a lot, but the seniors say mixing only happens in the evenings. If we don’t share a space, we lose the chance to connect.
+- [42] **Ryuji**: @Shizue, evening connection is a luxury we cannot afford if the organizers are exhausted from cooking. We need a venue with staff to handle meals, freeing us to actually train.
+- [43] **Rin**: @Ryuji, I agree! But if we’re too tired to cook, we’re too tired to train. I need to know if the cheap beds actually let us sleep!
+- [44] **Misaki**: @Ryuji, staff meals solve the cooking drain. But the whole-building quote is fixed by headcount. If members drop out, the rest absorb the cost. I need to verify that risk.
+- [45] **Mio**: @Misaki, exactly! If someone quits, the flat fee doesn’t shrink. I need to know if the rate sheet has a cancellation clause, or if we’re stuck paying for ghosts!
+- [46] **Shizue**: @Mio, I worry about the ghosts too. But the seniors say the evenings are where the real bonds form. We need a place that invites them to stay, not just sleep.
+- [47] **Ryuji**: @Mio, the cancellation clause is secondary. The primary failure was operational exhaustion. We must secure a venue with staff to eliminate the cooking burden entirely.
+- [48] **Rin**: @Mio, ghosts are scary! But I’m worried about the nights. If the beds are bad, we’ll be too tired to train. I need to know if we actually slept!
+- [49] **Misaki**: @Mio, the non-refundable deposit is the real risk. If headcount drops, the remainder absorbs the loss. I need to see if the rate sheet offers any flexibility before we commit.
+- [50] **Mio**: @Misaki, I’m checking the rate sheet for that cancellation clause! If we pay for ghosts, the flat fee is a trap. I need to know if we can adjust the headcount fairly.
+- [51] **Shizue**: @Mio, I hope the rate sheet is kind. But I keep thinking about those missing names. We need a place where everyone feels welcome enough to stay.
+- [52] **Ryuji**: @Mio, the cancellation clause is secondary. The primary failure was operational exhaustion. We must secure a venue with staff to eliminate the cooking burden entirely.
+- [53] **Rin**: @Mio, I’m checking the rate sheet too! I need to know if the 1,100 yen includes quiet hours. I can’t train if I’m exhausted from bad sleep!
+- [54] **Misaki**: @Mio, the fixed headcount is the trap. If we can’t adjust the quote, the deficit grows. I need to see if the rate sheet allows for late cancellations.
+## Round 3
+- [60] **Mio**: @Misaki, Option B is a trap! If someone quits, we pay for ghosts. Option A keeps transport costs near zero. I’m voting A to protect the budget!
+- [61] **Shizue**: @Mio, I understand the budget worry. But the seniors say mixing only happens when we sleep together. Option A keeps us apart. I’m voting B to keep us connected.
+- [62] **Ryuji**: @Shizue, Option B is the only choice that eliminates the cooking burden. The municipal facility provides staff meals, preventing the operational exhaustion that destroyed last year. I am voting B.
+- [63] **Rin**: @Ryuji, I agree! Option B has shared dorms, so we sleep together and actually rest! I’m voting B to fix our bad nights!
+- [64] **Misaki**: @Mio, Option A’s separate accommodation creates hidden costs. Option B’s fixed municipal rate is transparent. I am voting B to ensure the account is accurate.
+- [65] **Mio**: @Shizue, I hear you, but Option A is the only way to avoid paying for ghosts! If we stay local, transport is free. I’m voting A to keep the budget safe!
+- [66] **Shizue**: @Mio, I hear your fear. But the attendance sheets show we lose people when we stay apart. Option B brings us together. I am voting B.
+- [67] **Ryuji**: @Mio, Option A retains the cooking burden. The canteen closes, forcing us to cook again. That operational drain is unacceptable. I am voting B to secure staff meals.
+- [68] **Rin**: @Mio, Option A means commuting! That’s exhausting! Option B has real beds and staff meals. I’m voting B so we can actually sleep and train!
+- [69] **Misaki**: @Mio, Option A’s separate accommodation creates hidden costs. Option B’s fixed municipal rate is transparent. I am voting B to ensure the account is accurate.
+- [70] **Mio**: @Ryuji, I know cooking is hard, but Option A is the only way to stop the transport bleed! If we stay local, the flat fee actually works. I am voting A.
+- [71] **Shizue**: @Mio, I understand the budget fear. But the seniors say the evenings are where we truly connect. Option B keeps us together. I am voting B.
+- [72] **Ryuji**: @Mio, Option A retains the cooking burden. The canteen closes, forcing us to cook again. That operational drain is unacceptable. I am voting B to secure staff meals.
+- [73] **Rin**: @Mio, Option A means no real sleep! I need the mountain air and proper beds. I’m voting B so we can actually rest and train!
+- [74] **Misaki**: @Mio, Option A’s separate accommodation creates hidden costs. Option B’s fixed municipal rate is transparent. I am voting B to ensure the account is accurate.
+- [75] **Mio**: @Misaki, I know B is transparent, but the ghost risk is real! If someone quits, we pay for empty beds. Option A is the only safe bet. I am voting A.
+- [76] **Shizue**: @Mio, I hear your worry about the empty beds. But the seniors say the evenings are where we truly connect. Option B keeps us together. I am voting B.
+- [77] **Ryuji**: @Mio, the ghost risk is a financial variable, not an operational one. Option A guarantees the cooking burden returns. I am voting B to secure staff meals.
+- [78] **Rin**: @Mio, I know you’re scared of paying for ghosts! But Option B is the only place where we actually sleep well. I’m voting B to fix our bad nights!
+- [79] **Misaki**: @Mio, the ghost risk is real, but Option A’s separate accommodation creates hidden costs. Option B’s fixed municipal rate is transparent. I am voting B to ensure the account is accurate.
+### Vote
+- Mio -> A
+- Shizue -> B
+- Ryuji -> B
+- Rin -> B
+- Misaki -> B
+## Result
+- adopted: B

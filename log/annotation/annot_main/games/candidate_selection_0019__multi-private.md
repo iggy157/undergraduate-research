@@ -1,0 +1,73 @@
+# candidate_selection_0019__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Mio**: Hi everyone! I'm so excited to get started! I really want to make sure we're spending our budget wisely this time. Let's pick some things to investigate!
+- [6] **Victoria**: I agree that budget is important, Mio. However, we should also consider the practical capacity of our team to execute these plans. I'll start by looking into the composition of the volunteer roster.
+- [7] **Shion**: Budget and staffing are the obvious choices, but they're superficial. I'm more interested in what actually draws a crowd. I'll look into the weekend head counts across ten seasons and five years of visitor comment slips.
+- [8] **Asuka**: I agree that we need a balanced perspective. However, we must ensure the physical space can actually support the exhibition. I will look into the structural survey of the suspended bay and the maintenance log for powered displays.
+- [9] **Shizue**: It is lovely to see everyone so enthusiastic. I want to make sure our guests have a smooth experience without any disappointments. I will look into the lender paperwork against shipping cut-offs and the loan transport costs.
+- [10] **Mio**: Since everyone is covering the logistics and the crowds, I'll dig into the hidden costs! I want to see the mount-making charges and joiner's rate, and the conservation lab staffing and backlog. Let's find those leaks!
+- [11] **Victoria**: It seems we have a comprehensive list forming. To complement my interest in the volunteer roster, I will also look into the conservation lab staffing and backlog. I want to understand our current operational limits.
+- [12] **Shion**: @Victoria, you're quite focused on the staff. While that's safe, it doesn't tell us if the exhibition will actually be a success. I'll stick with my choices; the data on visitors is far more telling.
+- [13] **Asuka**: @Shion, popularity is irrelevant if the building cannot physically sustain the installation. I believe my focus on the structural integrity and power systems is the most critical priority for the gallery's longevity.
+- [14] **Shizue**: It is wonderful that we are all looking at this from such different, important angles. I believe our combined efforts will ensure a lovely experience for everyone. I am quite content with my choices.
+- [15] **Mio**: I'm glad we're all on the same page! I'll stick with my choices. I really want to see where the money goes before we commit to a big project. I'm ready for the results!
+- [16] **Victoria**: I will also remain with my selections. Understanding the gap between our planned ambitions and our actual human resources is essential for a sustainable exhibition. I look forward to seeing what the data reveals.
+- [17] **Shion**: @Mio, @Victoria, your focus on the "how" is tedious. I'm interested in the "why." I'll maintain my focus on the visitor data. It's the only metric that truly matters in the end.
+- [18] **Asuka**: @Shion, the "why" is meaningless if the "how" results in a structural failure. I will maintain my focus on the survey and the maintenance log. I am ready to proceed.
+- [19] **Shizue**: I think it is quite refreshing to see such passion from all of you. I shall keep my choices as they are. I look forward to seeing what we discover together.
+- [20] **Mio**: I'm just so curious to see if those mount-making costs are as crazy as I think they are! I'm all set and super ready to see the results! Let's do this!
+- [21] **Victoria**: I am also ready. I believe that by examining our staffing and volunteer capacity, we can avoid placing an undue burden on our team. I look forward to the findings.
+- [23] **Shion**: @Victoria, you've already spoken twice. How clumsy. As for the rest of you, your obsession with the mundane is almost endearing. I'm ready to see if the numbers agree with my intuition.
+- [25] **Asuka**: I have no need for further discussion on this matter. My choices are final, and I am ready to review the data regarding the building's capacity.
+- [27] **Shizue**: It is a pleasure to see such a spirited discussion. I shall also say over, and I look forward to seeing how our findings can help us make a wonderful choice.
+## Round 2
+- [39] **Mio**: Wow, you guys! I found out that bespoke mount-making is charged per object and the joiner's rate has jumped by half! That's a huge hidden cost if we don't have supports already!
+- [40] **Victoria**: That is concerning, Mio. My findings are equally worrying; the conservation lab is down to a single staff member with a backlog of two hundred pieces. We are severely understaffed for any ambitious project.
+- [41] **Shion**: It seems we are all discovering how broken the system is. However, the data shows that static displays are failures. People don't return for cased objects; they return for movement and human interaction.
+- [42] **Asuka**: @Shion, your desire for movement is dangerous. The maintenance log shows seventeen call-outs last season, with several failures during opening hours. Our power systems are already unstable and cannot handle more stress.
+- [43] **Shizue**: It seems we have many challenges to consider. I found that our shipping cut-offs have been missed twice recently, and transport costs are quite high. We must be very careful with our delivery schedules.
+- [44] **Mio**: @Victoria, @Shizue, it sounds like we're in a real pinch! Between the joiner's rates and the shipping costs, we could go broke before the show even opens! We definitely need a proposal that's simple and budget-friendly.
+- [45] **Victoria**: @Mio, simplicity is a necessity, but we must also consider the human cost. With the conservation lab in such a state, any proposal requiring extensive stabilization or cleaning will be impossible to execute.
+- [46] **Shion**: @Victoria, you're treating the museum like a hospital for objects. It's a gallery for people. If we prioritize "simplicity" and "safety," we'll just produce another sterile, forgotten exhibition that no one bothers to revisit.
+- [47] **Asuka**: @Shion, a "sterile" exhibition is preferable to one that causes a structural failure. The suspended bay is capped at four hundred kilos per square metre; we cannot afford heavy installations or unstable machinery.
+- [48] **Shizue**: @Shion, I understand your desire to excite our guests, but we must be mindful. If we promise a grand opening and the pieces arrive late, it would be such a shame to disappoint everyone.
+- [49] **Mio**: @Shion, I get that you want it to be exciting, but we can't have a "success" if we're bankrupt or the ceiling falls! Let's look for something that's flashy but easy on the wallet and the staff!
+- [50] **Victoria**: @Mio, "flashy" often requires the very labor we lack. We cannot ignore that one person is managing a backlog of two hundred pieces. We must prioritize a proposal that requires minimal conservation and installation work.
+- [51] **Shion**: @Victoria, your fear of work is stifling. The data is clear: people crave life and interaction. If we choose a "minimal" show, we are simply choosing to be irrelevant. We need a catalyst, not a compromise.
+- [52] **Asuka**: @Shion, your "catalyst" is a liability. We have already had to shore up the bay for stonework and reroute deliveries. We cannot ignore the physical limits of the building for the sake of a trend.
+- [53] **Shizue**: @Shion, your passion is truly admirable, but perhaps we can find a way to be exciting without being risky. Let us be kind to our staff and our building so we can welcome everyone with a smile.
+- [54] **Mio**: Exactly! Let's find a middle ground! If we pick a show where the objects come with their own supports, we save a ton of money and stress. I'm ready to see the candidates!
+- [55] **Victoria**: I agree. We must be realistic about our capacity. A proposal that minimizes the burden on the conservation lab and our limited staff is the only responsible choice. I am ready to see the candidates.
+- [56] **Shion**: @Mio, @Victoria, your "middle ground" is just a slow death by boredom. I'll be looking for the candidate that actually understands the audience. Let's see if any of these proposals have a pulse. I'm ready.
+- [57] **Asuka**: I will be looking for a proposal that respects the physical constraints of the gallery. We cannot risk further structural strain or power failures. I am ready to review the candidates.
+- [58] **Shizue**: I agree with you all. Let us hope we find a proposal that is both wonderful for our guests and gentle on our hardworking team. I am ready to see the candidates.
+## Round 3
+- [64] **Mio**: Ooh, these look interesting! But wait, Option B sounds like a nightmare for the budget and the power grid! Option A seems super safe and friendly. What do you guys think?
+- [65] **Victoria**: @Mio, I agree that Option B is too risky. However, Option D is completely out of the question; we cannot have a "working conservation bench" when our only staff member is already drowning in a backlog of two hundred pieces.
+- [66] **Shion**: @Victoria, you're so focused on the backlog that you're missing the point. Option D puts the process on display, which is exactly the human interaction the visitors crave. It turns a failure into an attraction.
+- [67] **Asuka**: @Shion, turning a failure into an attraction does not fix the failure. Option B is impossible given our power instability, and Option D's reconstructions could easily exceed the bay's weight limit. Option A is the most logical choice.
+- [68] **Shizue**: Option A sounds like a lovely way to celebrate our community. It seems much safer for our staff and building, and since the items are local, we can avoid those stressful shipping delays.
+- [69] **Mio**: @Shizue, you're so right! Local items mean way lower transport costs and probably fewer shipping headaches. Option A is looking like a winner! It's budget-friendly and won't break the bank or the building!
+- [70] **Victoria**: @Mio, @Shizue, I agree. Option A is the only sustainable choice. It avoids the conservation crisis of Option D and the technical risks of Option B, while remaining manageable for our current staff levels.
+- [71] **Shion**: @Victoria, you're choosing the path of least resistance. Option A is just more cased objects and recordings. It's a nap, not an exhibition. Option D is the only one that offers a genuine, living experience.
+- [72] **Asuka**: @Shion, your preference for "living experiences" ignores the reality that the building is struggling. Option D's reconstructions are a structural risk, and Option B is a technical impossibility. Option A is the only responsible decision.
+- [73] **Shizue**: @Shion, I understand you want something vibrant, but we must be mindful of our friends in the lab. Option A allows us to be welcoming and joyful without placing an unfair burden on anyone.
+- [74] **Mio**: @Shion, I really want it to be exciting too, but we can't ignore the facts! Option A is just so much safer for everyone. I'm voting for A to keep us all happy and solvent!
+- [75] **Victoria**: @Shion, it is not about the path of least resistance, but about the path of possibility. We cannot prioritize a "living experience" over the actual lives and well-being of our exhausted staff. I vote for Option A.
+- [76] **Shion**: @Victoria, your "possibility" is just a euphemism for mediocrity. You're all terrified of a little risk, but the data proves that safety is the enemy of success. I vote for Option D.
+- [77] **Asuka**: @Shion, risk is acceptable when it is calculated, but you are gambling with the building's integrity. Option A is the only proposal that ensures the gallery remains functional. I vote for Option A.
+- [78] **Shizue**: @Shion, your spirit is wonderful, but I believe the kindest choice is one where we can truly deliver on our promises. To avoid any more disappointments at the door, I also vote for Option A.
+- [79] **Mio**: I'm so glad we could all agree on something that works for everyone! Option A is definitely the way to go. It's a win-win for the budget and the team! I'm sticking with my vote for A!
+- [80] **Victoria**: I stand by my decision. Option A is the only choice that respects our human limits and ensures the exhibition is actually achievable. I vote for Option A.
+- [81] **Shion**: @Mio, @Victoria, you've successfully voted for a snooze-fest. You've prioritized the comfort of the staff over the experience of the guests. I'll maintain my vote for Option D. Let the record show I fought for the audience.
+- [82] **Asuka**: @Shion, fighting for the audience is pointless if the gallery is closed for emergency repairs. Logic dictates that we prioritize the building's survival. My vote for Option A remains unchanged.
+- [83] **Shizue**: It is a pity we could not all agree, but I believe we have made the most thoughtful choice. Let us welcome our local artisans with open arms. I vote for Option A.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> D
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

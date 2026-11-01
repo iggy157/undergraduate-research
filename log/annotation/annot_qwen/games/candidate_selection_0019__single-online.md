@@ -1,0 +1,73 @@
+# candidate_selection_0019__single-online (candidate_selection)
+
+## Round 1
+- [5] **Mio**: I’m so excited to finally pick our next big show! I just want to make sure we don’t get blindsided by surprise costs later.
+- [6] **Victoria**: I’m less concerned about the show itself and more about who will actually be left to run it once the opening day arrives.
+- [7] **Shion**: The record should speak before we commit. I want to know what audiences actually returned for, not what we thought was impressive.
+- [8] **Asuka**: The building itself is a constraint. I need to know what the floor and structure can actually absorb before we promise the space to anyone.
+- [9] **Shizue**: I worry about the deliveries. We’ve approved things in good faith, only to spend the season apologising at the door.
+- [10] **Mio**: @Victoria, that’s a fair point. I’m picking loan transport costs and mount-making charges to see where the money actually goes.
+- [11] **Victoria**: I’ll check conservation lab staffing and the volunteer roster. We need to know who is actually available to handle the workload.
+- [12] **Shion**: I’ll review the weekend head counts and the visitor comment slips. The data will show what truly drives return visits, not our assumptions.
+- [13] **Asuka**: I’ll look into the structural survey of the suspended bay and the maintenance log for powered displays.
+- [14] **Shizue**: I’ll check the lender paperwork against shipping cut-offs and the evening hire bookings. I need to see where the schedule actually breaks down.
+- [15] **Mio**: #### Turn 3 of 4
+- [16] **Victoria**: - **Victoria**: @Mio, I hope those invoices are as clear as you hope. I’ll be watching the staffing numbers closely.
+- [17] **Shion**: #### Turn 3 of 4
+- [18] **Asuka**: - **Asuka**: @Shizue, the evening hire bookings might explain some of the structural wear I’m seeing in the logs.
+- [19] **Shizue**: - **Shizue**: @Asuka, that is a sharp observation. I will see if the hire dates align with the structural notes you mentioned.
+- [20] **Mio**: @Shion, I hope the head counts back up my hunch that interactive stuff keeps people coming back. Let’s see what the numbers say!
+- [21] **Victoria**: I’ll be reviewing the staffing gaps carefully. We cannot promise a season we cannot staff.
+- [22] **Shion**: - **Shion**: The data will be unambiguous. I will present the findings without embellishment.
+- [23] **Asuka**: - **Asuka**: Agreed. I will cross-reference the hire dates with the structural survey to confirm the load limits.
+- [24] **Shizue**: - **Shizue**: I will trace the paperwork delays against the hire dates. We must know exactly where the schedule snapped.
+## Round 2
+- [35] **Mio**: #### Turn 1 of 4
+- [36] **Victoria**: - **Mio**: I found that transport costs are huge, but making our own mounts is even pricier. We need to be careful with what we commission.
+- [37] **Shion**: - **Victoria**: The lab is down to one person with two hundred pieces waiting. We simply cannot absorb another heavy conservation load.
+- [38] **Asuka**: - **Shion**: The head counts confirm it: mechanisms and changing displays drive returns. Static cases lose them.
+- [39] **Shizue**: - **Shizue**: The paperwork delays align perfectly with the hire dates. We are double-booking the gallery and the couriers.
+- [40] **Mio**: - **Mio**: @Victoria, that backlog is terrifying. If we pick something needing heavy conservation, we’re stuck. I’m glad I checked the costs.
+- [41] **Victoria**: @Mio, exactly. With one conservator and that backlog, we cannot risk a show requiring intensive stabilization. We must choose something manageable.
+- [42] **Shion**: - **Shion**: @Mio, your cost data aligns with my findings. We need a show that is self-sufficient and dynamic, not one that drains our limited resources.
+- [43] **Asuka**: - **Asuka**: @Shion, dynamic implies powered. My maintenance log shows seventeen call-outs, four during opening hours. That is a liability, not a feature.
+- [44] **Shizue**: - **Shizue**: @Asuka, that is a serious warning. If the powered displays fail, we cannot afford the downtime. We must weigh that risk carefully.
+- [45] **Mio**: - **Mio**: @Asuka, that’s a lot of repairs! I’m worried about the budget if we pick something that needs constant fixing.
+- [46] **Victoria**: @Mio, the staffing gap is just as critical. We cannot rely on volunteers to fix broken mechanisms. We need a show that runs on its own.
+- [47] **Shion**: @Asuka, your maintenance log is a valid constraint. However, the head counts prove that static displays fail to retain audiences. We need a balance.
+- [48] **Asuka**: @Shion, a balance is impossible if the bay fails. I need to know the specific load limits before we discuss any rigging.
+- [49] **Shizue**: @Asuka, I will check if the heavy stonework deliveries clashed with the evening hires. We must avoid that bottleneck again.
+- [50] **Mio**: @Shion, I hear you, but if the bay can’t hold the weight, the show is over before it starts. Let’s prioritize safety first!
+- [51] **Victoria**: @Mio, safety is non-negotiable, but so is staffing. We cannot risk a show that requires constant manual intervention from an exhausted team.
+- [52] **Shion**: @Mio, safety is a constraint, not a preference. I will not compromise on audience retention for the sake of caution.
+- [53] **Asuka**: @Shion, caution is not a preference; it is physics. If the bay fails, there is no audience to retain.
+- [54] **Shizue**: @Asuka, you are right. Physics does not negotiate. I will ensure the delivery schedule respects those limits, so we do not repeat last season’s apologies.
+## Round 3
+- [60] **Mio**: - **Mio**: Okay, candidates are here! I’m leaning toward the textiles show. It feels lively with the demonstrations, and hopefully cheaper to install than big loans!
+- [61] **Victoria**: - **Victoria**: @Mio, the demonstrations require staff presence. With our current backlog, I worry we lack the hands to keep them running safely.
+- [62] **Shion**: - **Shion**: @Mio, the comment slips are explicit: people return because someone is present and talking. Textiles offers exactly that, without the mechanical risk.
+- [63] **Asuka**: - **Asuka**: @Mio, the textiles are light. No overhead rigging, no heavy stonework. The bay stays clear, and the floor handles the weight easily.
+- [64] **Shizue**: - **Shizue**: @Mio, I agree. Local loans mean no distant paperwork delays. We can open on time and keep the gallery clear for evening hires.
+- [65] **Mio**: - **Mio**: @Shion, you’re right! The interviews and demos mean people are actually there, not just looking at empty cases. I’m really excited about this one!
+- [66] **Victoria**: - **Victoria**: @Mio, the craftspeople are external. They do not add to our internal conservation backlog. I can accept this, provided the roster covers the floor.
+- [67] **Shion**: - **Shion**: @Victoria, the town history circle is already guiding walks. They can manage the floor without straining the lab. The data supports this.
+- [68] **Asuka**: - **Asuka**: @Shion, the town history circle is a good fit. They know the local context, and the light load keeps the structure safe.
+- [69] **Shizue**: - **Shizue**: @Shion, that is a wise use of our existing volunteers. It keeps the schedule tight and the doors open without delay.
+- [70] **Mio**: - **Mio**: I’m voting for Textiles! It checks every box: lively, safe, and no scary invoices. Who else is with me?
+- [71] **Victoria**: - **Victoria**: I am voting for Textiles. It respects our staffing limits and avoids the structural risks we cannot afford.
+- [72] **Shion**: - **Shion**: I vote for Textiles. The data confirms presence drives returns, and this avoids the mechanical failures that plagued previous seasons.
+- [73] **Asuka**: - **Asuka**: I vote for Textiles. The load is minimal, the structure is safe, and the schedule remains viable.
+- [74] **Shizue**: - **Shizue**: I vote for Textiles. Local sources mean no distant paperwork delays, and the schedule stays clear for our evening hires.
+- [75] **Mio**: - **Mio**: Five votes! Textiles of the Region it is! I can’t wait to see the craftspeople in action!
+- [76] **Victoria**: - **Victoria**: Agreed. A safe, staffable season is the only one we can actually deliver.
+- [77] **Shion**: - **Shion**: The record is satisfied. Textiles of the Region is selected.
+- [78] **Asuka**: - **Asuka**: The structure is secure. We are ready to proceed.
+- [79] **Shizue**: - **Shizue**: And the doors will stay open on time. I am glad we chose a season we can actually keep.
+### Vote
+- Mio -> A
+- Victoria -> A
+- Shion -> A
+- Asuka -> A
+- Shizue -> A
+## Result
+- adopted: A

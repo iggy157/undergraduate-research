@@ -1,0 +1,73 @@
+# shared_living_0013__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Shizue**: It is lovely that our team is growing. I hope we can find a layout that helps us all stay connected and chat more often.
+- [6] **Toshio**: Growth is good, but we should be careful. Some spots in this room are objectively worse than others. We need to be fair about that.
+- [7] **Daisuke**: Um... I agree. I just... I wonder if we have enough budget for a big change. I'm a bit worried about the costs.
+- [8] **Mio**: I'm so excited for a fresh start! But we have to make sure the new setup doesn't make our mornings a mess. I hate wasting time!
+- [9] **Shunichi**: Let's not get carried away by "vibes." If we're doing this, let's look at the actual data regarding the environment and the costs.
+- [10] **Shizue**: @Daisuke, please don't worry too much. I'm sure we can find a way. Perhaps we should look into the billing and the power costs?
+- [11] **Toshio**: I want to know how seats were handled in the past. If there's a pattern of some people always getting the bad spots, we should fix it.
+- [12] **Daisuke**: @Shizue, thank you... Yes, I think knowing the billing basis would be... helpful. I don't want us to overspend.
+- [13] **Mio**: @Shunichi, what data do you mean? I want to know how people actually start their day. If it's a hassle, it's a bad plan!
+- [14] **Shunichi**: @Mio, I'm talking about the physical reality of sitting in a chair for eight hours. Noise levels and ergonomics aren't just "vibes."
+- [15] **Shizue**: I also wonder if we can learn from the new joiners. They might have a fresh perspective on who they feel comfortable talking to.
+- [16] **Toshio**: I'm interested in the staff survey. I want to see if the "drawn plan" actually matches what people want, or if it's just a guess.
+- [17] **Daisuke**: I... I guess I should also check the quote for the power and network. If it's too expensive, we might have to be careful.
+- [18] **Mio**: I'm going to check out the pilot floor upstairs! If they have a smooth morning routine, we should totally copy it!
+- [19] **Shunichi**: I'll handle the technical side of comfort. I'll look into the sound readings and the physio's notes. Someone has to prioritize the body.
+- [20] **Shizue**: That sounds like a wonderful plan. Let's see what we find and decide together with kindness.
+- [21] **Toshio**: Agreed. Let's just make sure we don't ignore the uncomfortable truths about the seating.
+- [22] **Daisuke**: Okay... I'll do my best to find the information.
+- [23] **Mio**: Yay! I can't wait to see what's happening upstairs! This is going to be great!
+- [24] **Shunichi**: Try not to get too excited, Mio. Data is usually far less glamorous than you imagine.
+## Round 2
+- [35] **Shizue**: I found that we are paying for space, not people. Also, our new friends learned so much just by listening to us talk!
+- [36] **Toshio**: The survey shows people hate the interior wall desks, yet the current plan still leaves three people stuck there. It's a recipe for resentment.
+- [37] **Daisuke**: Um... the power quote is 6,200 yen per desk. And we're paying for empty space every month. I think... we should be very careful.
+- [38] **Mio**: Guys, listen! The pilot floor takes up to nine minutes just to set up! If we do a "free seat" thing, we'll waste so much time every morning!
+- [39] **Shunichi**: As expected. The noise by the door is a nightmare, and the physio confirms that a comfortable setup takes days of tweaking.
+- [40] **Shizue**: @Mio, that does sound like a bit of a bother. But @Daisuke, if we are paying for empty space, maybe we can use it to spread out?
+- [41] **Toshio**: Spreading out doesn't solve the fairness issue. If we have "good" and "bad" seats, we need a system to rotate them.
+- [42] **Daisuke**: I... I'm not sure. If we move everyone, the power costs will add up quickly. 6,200 yen per person... it's a lot for our budget.
+- [43] **Mio**: Exactly! And the badge records show we don't even arrive at the same time. A "first-come" system is just a "who wakes up earliest" system!
+- [44] **Shunichi**: Rotating seats is a disaster. If it takes days to get a workstation physically right, moving every month is just a way to ensure chronic back pain.
+- [45] **Shizue**: I feel for everyone. I just want us to be able to help each other. The new joiners really benefited from being near us.
+- [46] **Toshio**: @Shunichi, I understand the physical cost, but the mental cost of being the "unlucky one" in the dark corner is higher.
+- [47] **Daisuke**: I... I think we should avoid any plan that requires frequent changes. The cost of re-running cables every time would be... overwhelming.
+- [48] **Mio**: I'm with Daisuke! Let's not do anything that adds friction to our day. I can't handle spending ten minutes just to start working!
+- [49] **Shunichi**: For once, I agree with Mio. Stability is the only rational choice. We need fixed seats that are optimized for the individual.
+- [50] **Shizue**: It seems we are torn between fairness, comfort, and connection. Let's look at the options and find a gentle middle ground.
+- [51] **Toshio**: I will support any option that explicitly addresses who gets the interior seats, rather than leaving it to chance or habit.
+- [52] **Daisuke**: I just... I hope we pick the one that is most stable. I don't want to worry about the budget every month.
+- [53] **Mio**: As long as I don't have to spend my morning fighting with a power cable, I'm happy!
+- [54] **Shunichi**: Let's just ensure that "comfort" is actually a criterion and not just a footnote in the final decision.
+## Round 3
+- [60] **Shizue**: Option B seems the most peaceful. It gives us stability, and we can group people so they can talk and help each other.
+- [61] **Toshio**: Option B is the most dangerous. It creates a permanent hierarchy of "good" and "bad" seats that will never be addressed.
+- [62] **Daisuke**: I... I think Option B is the safest for the budget. No constant re-running of cables, and no wasted time.
+- [63] **Mio**: Option A is a total nightmare! Nine minutes of setup every single day? No way! I vote against A with everything I have!
+- [64] **Shunichi**: Option A and C are absurd. A is a waste of time, and C is a physical torture chamber. B is the only logical choice for ergonomics.
+- [65] **Shizue**: @Toshio, if we choose B, perhaps we can decide together who sits where, rather than letting the furniture decide for us?
+- [66] **Toshio**: That is exactly the point. If we go with B, we must explicitly agree on who takes the interior wall seats. We cannot ignore it.
+- [67] **Daisuke**: If we can just... agree on the seats once, then we won't have to spend more money on facilities. I think B is best.
+- [68] **Mio**: @Toshio, if you can make the seat-picking fair, then B is perfect! It's fast, it's easy, and I can just sit down and start!
+- [69] **Shunichi**: Exactly. Once a seat is tuned to the user's height and the noise is managed, you leave it alone. B is the only option that respects the body.
+- [70] **Shizue**: I am so glad we are finding a way to agree. If we group ourselves thoughtfully, we can keep that wonderful spirit of sharing.
+- [71] **Toshio**: I can accept B, provided the "unlucky" seats are assigned through a transparent process, not just by who is the most senior or the quietest.
+- [72] **Daisuke**: I... I feel much better now. If we all agree on B, the budget will be stable, and I won't have to worry about it.
+- [73] **Mio**: Yes! No more "morning setup stress"! I'm all for B! Let's just make sure we have a little space for snacks!
+- [74] **Shunichi**: Let's not get distracted by snacks. The point is stability. B is the only choice that doesn't treat our physical comfort as an afterthought.
+- [75] **Shizue**: It seems we have found a path that respects everyone's needs. I am very happy we could talk this through so kindly.
+- [76] **Toshio**: As long as the distribution of the "bad" seats is handled openly, I am satisfied. I vote for B.
+- [77] **Daisuke**: I... I agree. I vote for B. It's the most stable and cost-effective way.
+- [78] **Mio**: B all the way! Fast mornings, happy Mio! I vote for B!
+- [79] **Shunichi**: Finally, some rationality. I vote for B. Let's get this over with so I can go back to my quiet corner.
+### Vote
+- Shizue -> B
+- Toshio -> B
+- Daisuke -> B
+- Mio -> B
+- Shunichi -> B
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# candidate_selection_0017__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: I need to verify crew capacity before endorsing any plan. I will examine the roster books for the late-turn pool.
+- [6] **Takumi**: I’m tired of guessing. I need to know where minutes actually vanish. I will examine journey audits on where minutes go.
+- [7] **Benjamin**: I suspect the headline totals are fiction. I will examine the balances in the capital ledger to see what we actually owe.
+- [8] **Servas**: I must understand what we have already tried. I will examine the completion records of the earlier accessibility programme.
+- [9] **Jonathan**: I need to understand the hidden delays. I will examine the joint operators' committee minutes and the contingency pricing inside the pre-war shells.
+- [10] **Asuka**: @Takumi, your audit is useful, but I need to know if the crews can actually execute the work. I will also examine the crew establishment and maintenance contract.
+- [11] **Takumi**: @Asuka, crews are important, but I need to know where the time actually goes. I will examine timed runs and crowd counts mid-city.
+- [12] **Benjamin**: @Asuka, capacity is vital, but I need to see the real cost. I will examine ticketing contractor fees and paving rates.
+- [13] **Servas**: @Benjamin, costs are vital, but I must see what actually delivered. I will examine the two pilots from eight years ago.
+- [14] **Jonathan**: @Servas, I agree. History is a quiet teacher. I will stick with my two choices to uncover the hidden delays.
+- [15] **Asuka**: @Benjamin, costs matter, but without hands, they are just numbers. I will stick with my two choices to verify who is actually available.
+- [16] **Takumi**: @Benjamin, costs are just numbers if the time isn’t real. I’ll stick with my two choices to find where the minutes truly vanish.
+- [17] **Benjamin**: @Takumi, I appreciate the sentiment, but numbers without context are just noise. I’ll stick with my two choices to expose the true financial burden.
+- [18] **Servas**: @Jonathan, your caution is wise. I will stick with my two choices to see what the past truly delivered, not just what was promised.
+- [19] **Jonathan**: @Servas, I appreciate your patience. The past is a quiet witness. I will stick with my two choices to uncover the hidden delays.
+- [20] **Asuka**: @All, I will review my findings before we vote. The data will reveal the true state of our operational capacity.
+- [21] **Takumi**: @All, I’ll review my findings before we vote. The stopwatch doesn’t lie, and neither will the data.
+- [22] **Benjamin**: @All, I will review my findings before we vote. The ledger does not flatter, and I intend to see exactly what we are truly committed to paying.
+- [23] **Servas**: @All, I will review my findings before we vote. The past is the only honest witness, and I intend to see what was truly delivered.
+- [24] **Jonathan**: @All, I will review my findings before we vote. The ground keeps its secrets, and I intend to uncover them.
+## Round 2
+- [35] **Asuka**: @All, the late-turn pool is exhausted by overtime. Roadway crews are a third below establishment. Only the lift contract has spare capacity.
+- [36] **Takumi**: @Asuka, your crew shortage is real, but my stopwatch shows the real killer is waiting for connections. Mid-city runs are slow, yet platforms clear fast.
+- [37] **Benjamin**: @Takumi, waiting is a symptom. My ledger shows ticketing fees now exceed resurfacing budgets. We are paying for the privilege of being late.
+- [38] **Servas**: @Benjamin, the ledger is harsh, but the past is kinder. The accessibility programme delivered four lifts on time. We must build on what actually worked.
+- [39] **Jonathan**: @Servas, the past is a quiet witness. My minutes show ferry and rail data terms are still unresolved. The pre-war shells hide voids that stop work for weeks.
+- [40] **Asuka**: @Jonathan, unresolved data terms are a delay, not a capacity issue. My rosters show the late-turn pool is already maxed out. We cannot add more work to exhausted crews.
+- [41] **Takumi**: @Benjamin, you’re blaming the ticket machine, but the stopwatch says the connection is the bottleneck. We need to fix the handoff, not the payment.
+- [42] **Benjamin**: @Takumi, The stopwatch measures the symptom; the ledger measures the cause. If we can’t afford the paving, the connection is just a polite word for a pothole.
+- [43] **Servas**: @Takumi, the stopwatch is honest, but the pilots prove we can deliver. The late-evening timetable met its target. We must trust the proven path, not just the delay.
+- [44] **Jonathan**: @Asuka, I hear your exhaustion. But the ground itself is a silent gatekeeper. If the shells hide voids, no amount of crew speed matters.
+- [45] **Asuka**: @Jonathan, the ground is a risk, but exhausted crews are a certainty. We cannot schedule work that requires hands we do not have.
+- [46] **Takumi**: @Asuka, I hear you. But if we just add more hands to a broken connection, we’re just piling bodies onto a slow train. We need to fix the handoff first.
+- [47] **Benjamin**: @Asuka, exhaustion is a budget line item. If we ignore the paving costs, we are simply borrowing from the future to pay for today’s potholes.
+- [48] **Servas**: @Benjamin, borrowing is a choice, not a fate. The pilots show we can meet targets without new debt. We must choose the path that respects our proven capacity.
+- [49] **Jonathan**: @Benjamin, the ledger is honest, but the ground is not. We must price the unknowns, not just the knowns.
+- [50] **Asuka**: @All, I will review my findings before we vote. The rosters do not lie, and I intend to see which plans respect our actual operational limits.
+- [51] **Takumi**: @All, I’ll review my findings before we vote. The stopwatch doesn’t lie, and I intend to see which plan actually saves the minutes passengers lose.
+- [52] **Benjamin**: @All, I will review my findings before we vote. The ledger does not flatter, and I intend to see which plan respects the debt we are already carrying.
+- [53] **Servas**: @All, I will review my findings before we vote. The past is the only honest witness, and I intend to see which plan honors what was truly delivered.
+- [54] **Jonathan**: @All, I will review my findings before we vote. The ground keeps its secrets, and I intend to see which plan respects the hidden delays.
+## Round 3
+- [60] **Asuka**: @All, my rosters confirm the late-turn pool is exhausted. Option A requires more night work, which we cannot staff. I reject it immediately.
+- [61] **Takumi**: @Asuka, I hear you on the staffing. But my stopwatch says the real time loss is waiting for connections, not the night shift. Option B fixes the mid-city handoff.
+- [62] **Benjamin**: @Takumi, the stopwatch is charming, but the ledger is brutal. Option D replaces three fee streams with one. That is the only plan that stops the financial bleeding.
+- [63] **Servas**: @Benjamin, the ledger is sharp, but the past is wiser. The pilots prove we can deliver without new debt. Option A honors the proven late-evening success.
+- [64] **Jonathan**: @Servas, the past is a quiet witness, but the ground is not. Option C risks the pre-war shells. I must see who else must consent before we dig.
+- [65] **Asuka**: @Takumi, Option B requires roadway crews for the lanes. We are a third below establishment. We cannot build the infrastructure you need.
+- [66] **Takumi**: @Asuka, I hear you. But the stopwatch proves the mid-city is the bottleneck. We can’t fix the handoff without the corridor. Option B is the only real fix.
+- [67] **Benjamin**: @Asuka, you are right that crews are scarce. But Option D requires no new hands, only software. It is the only plan that respects our exhausted workforce and our empty ledger.
+- [68] **Servas**: @Asuka, your caution is vital. Yet the pilots show we can extend hours without new debt. Option A honors the proven path, respecting both our capacity and our history.
+- [69] **Jonathan**: @Benjamin, software is clean, but the ground is not. Option C risks the pre-war shells. I must see who else must consent before we dig.
+- [70] **Asuka**: @Benjamin, I agree. Option D requires no new hands, only software. It is the only plan that respects our exhausted workforce and our empty ledger.
+- [71] **Takumi**: @Benjamin, software is a band-aid. My stopwatch proves the mid-city is the bottleneck. Option B fixes the actual time loss. We must build the corridor.
+- [72] **Benjamin**: @Takumi, a band-aid that stops the bleeding is still a band-aid. Option D eliminates the fee hemorrhage. We cannot build lanes we cannot afford to maintain.
+- [73] **Servas**: @Takumi, the stopwatch measures the symptom, but the pilots prove the cure. Option A honors the proven late-evening success. We must trust the path that already delivered.
+- [74] **Jonathan**: @Takumi, the stopwatch is honest, but the ground is not. Option C risks the pre-war shells. I must see who else must consent before we dig.
+- [75] **Asuka**: @All, the evidence is clear. Option D requires no new hands, only software. It respects our exhausted rosters and the ledger. I vote for D.
+- [76] **Takumi**: @Asuka, I respect your caution, but the stopwatch doesn't lie. Option B is the only plan that actually saves the minutes passengers lose. I vote for B.
+- [77] **Benjamin**: @Asuka, precisely. Option D is the only plan that respects the debt we are already carrying. I vote for D.
+- [78] **Servas**: @Benjamin, the ledger is sharp, but the past is wiser. Option A honors the proven late-evening success. We must trust the path that already delivered. I vote for A.
+- [79] **Jonathan**: @Asuka, the ground is a silent gatekeeper. Option C risks the pre-war shells. I must see who else must consent before we dig. I vote for D.
+### Vote
+- Asuka -> D
+- Takumi -> B
+- Benjamin -> D
+- Servas -> A
+- Jonathan -> D
+## Result
+- adopted: D

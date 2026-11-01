@@ -1,0 +1,73 @@
+# candidate_selection_0026__single-online (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: We need to verify if previous initiatives actually improved patient outcomes before committing more resources.
+- [6] **Toshio**: I’m less concerned with the idea’s merit than whether our current infrastructure can absorb it without seizing up.
+- [7] **Benjamin**: Approval is easy; the real test is whether the supporting structure holds up in year two.
+- [8] **Yumi**: Rosters are where every new program eventually lands, and the teams it lands on are rarely the ones that asked for it.
+- [9] **Servas**: Before we commit, I must know what this budget can actually build and what any of it would earn back.
+- [10] **Asuka**: @Benjamin, your point about year two is critical. We must ensure the supporting structure is robust before we proceed.
+- [11] **Toshio**: @Asuka, agreed. But infrastructure capacity is the immediate bottleneck. We need to check if our rooms and booking systems can handle the load.
+- [12] **Benjamin**: @Toshio, valid point. But infrastructure fails when the people running it are stretched thin. We need to see the staffing reality before we talk about rooms.
+- [13] **Yumi**: @Benjamin, exactly. The staffing records show where the pressure actually sits, and I need to see those before we guess.
+- [14] **Servas**: @Yumi, I hear you. Yet without knowing the financial ceiling, we might build a house on sand. Let us look at the ledger first.
+- [15] **Asuka**: @Servas, the ledger is necessary, but it won't tell us if the program works. We need the readmission data to prove the concept first.
+- [16] **Toshio**: @Asuka, readmission data is useful, but it doesn't tell me if the physical space can hold the extra traffic. I need to check the rooms and parking coverage.
+- [17] **Benjamin**: @Toshio, space is static; people are dynamic. If the staffing collapses, the rooms just sit empty. I need to see the therapy and midwifery staffing review.
+- [18] **Yumi**: @Benjamin, I agree. I need to see the ward nursing vacancies and agency cover to understand the true pressure on our teams.
+- [19] **Servas**: @Benjamin, I understand the staffing risk. However, I must see the ledger to know our true financial limit before we discuss any staffing costs.
+- [20] **Asuka**: @Servas, I will check the readmission figures from the call-back trial to see if the concept actually worked before we spend.
+- [21] **Toshio**: @Benjamin, I will check the rooms, parking and shuttle coverage to see if the physical space can absorb the extra traffic.
+- [22] **Benjamin**: @Yumi, I will check the therapy and midwifery staffing review to see where the pressure actually sits.
+- [23] **Yumi**: @Servas, I will check the ward nursing vacancies and agency cover to see the true pressure on our teams.
+- [24] **Servas**: @Asuka, I will check the ledger to know our true financial limit, and the board minutes to see how past joint ventures failed.
+## Round 2
+- [35] **Asuka**: #### Turn 1 of 4
+- [36] **Toshio**: #### Turn 1 of 4
+- [37] **Benjamin**: - **Benjamin**: The staffing review is grim. Physios are fleeing for city posts, but midwifery has unexpected slack.
+- [38] **Yumi**: - **Yumi**: Nine posts unfilled and agency costs climbing every quarter. The pressure is real, and it’s not just about numbers.
+- [39] **Servas**: The ledger shows our allocation is down a quarter, and the board minutes reveal joint ventures collapse when budgets are unclear.
+- [40] **Asuka**: - **Asuka**: The call-back trial cut readmissions by a fifth, but the gains vanished when it stopped. We need a sustainable model, not a temporary fix.
+- [41] **Toshio**: #### Turn 2 of 4
+- [42] **Benjamin**: - **Benjamin**: @Asuka, that confirms my fear. If the structure isn't permanent, the gains evaporate. We need a model that survives year two.
+- [43] **Yumi**: - **Yumi**: @Benjamin, that slack in midwifery is a lifeline. If we can leverage that, we might avoid the agency trap I’m seeing.
+- [44] **Servas**: @Yumi, that slack is a gift, but the ledger is a warning. We cannot fund a new team while the old one bleeds agency money.
+- [45] **Asuka**: - **Asuka**: @Servas, the ledger cuts our options, but the data proves the concept works. We must find a model that fits the reduced budget.
+- [46] **Toshio**: #### Turn 3 of 4
+- [47] **Benjamin**: - **Benjamin**: @Toshio, you’ve been silent. If the rooms are full, a home-based model might be the only one that doesn’t break the system.
+- [48] **Yumi**: - **Yumi**: @Benjamin, home visits sound light, but my ward is drowning. I can’t spare nurses for extra trips without breaking the roster.
+- [49] **Servas**: @Yumi, the ledger is tight, but the board minutes show joint ventures fail without clear ownership. We must pick a model with a single, accountable home.
+- [50] **Asuka**: @Benjamin, a home-based model avoids the room bottleneck, but the trial data shows it fails without sustained funding. We need a structure that doesn't rely on temporary goodwill.
+- [51] **Toshio**: @Benjamin, the car park fills before eleven and the shuttle misses most villages. A home model bypasses the physical squeeze, but only if the nurses can actually get there.
+- [52] **Benjamin**: @Toshio, the shuttle gap is real, but the midwifery slack is the only breathing room I see. We must build on that, not on the bleeding wards.
+- [53] **Yumi**: @Benjamin, I hear you, but that slack is fragile. If we build on it, we must guarantee the rota holds, or we just shift the crisis to midwifery.
+- [54] **Servas**: @Benjamin, you are right to seek stability. Yet remember, a program without a clear financial return is a debt we inherit. Let us ensure the next step pays for itself.
+## Round 3
+- [60] **Asuka**: #### Turn 1 of 4
+- [61] **Toshio**: - **Asuka**: The candidates are before us. I need to see which one the data actually supports before we vote.
+- [62] **Benjamin**: - **Benjamin**: @Asuka, the data favors home visits, but the staffing review screams for midwifery. We must pick the one that won't collapse in year two.
+- [63] **Yumi**: - **Yumi**: @Benjamin, I see the midwifery slack, but my wards are already breaking. I cannot support a program that ignores the nursing crisis.
+- [64] **Servas**: @Benjamin, the midwifery slack is real, but the ledger is tighter than you think. We must choose a program that stands on its own financial feet, not just on borrowed time.
+- [65] **Asuka**: - **Asuka**: @Benjamin, the readmission data supports home visits, but the trial failed without sustained funding. We need a model that doesn't rely on temporary goodwill.
+- [66] **Toshio**: - **Toshio**: @Asuka, home visits bypass the car park, but the shuttle misses most villages. Can the nurses actually reach the patients?
+- [67] **Benjamin**: @Toshio, the shuttle gap is real, but the midwifery slack is the only breathing room I see. We must build on that, not on the bleeding wards.
+- [68] **Yumi**: @Benjamin, I hear you, but that slack is fragile. If we build on it, we must guarantee the rota holds, or we just shift the crisis to midwifery.
+- [69] **Servas**: @Benjamin, the midwifery slack is a resource, but the ledger is a constraint. We must choose a program that stands on its own financial feet, not just on borrowed time.
+- [70] **Asuka**: - **Asuka**: @Toshio, the trial data shows the concept works, but the infrastructure gap is real. We need a model that doesn't rely on perfect logistics.
+- [71] **Toshio**: - **Toshio**: @Asuka, the shuttle gap is a hard limit. If we cannot reach the patients, the program is a paper exercise.
+- [72] **Benjamin**: @Toshio, the shuttle gap is real, but the midwifery slack is the only breathing room I see. We must build on that, not on the bleeding wards.
+- [73] **Yumi**: @Benjamin, I cannot ignore the nine unfilled posts. If we pull midwifery into a new program, we risk breaking the only stable rota we have left.
+- [74] **Servas**: @Yumi, your caution is wise. Yet the ledger demands we use the slack before it vanishes. A program without a clear owner will fail, as the board minutes warned.
+- [75] **Asuka**: - **Asuka**: @Servas, I vote for the Perinatal Support Service. It uses the midwifery slack, avoids the shuttle gap, and has a clear owner.
+- [76] **Toshio**: - **Toshio**: @Asuka, I agree. The Perinatal Service fits our physical constraints and utilizes the available staffing slack. I vote for it.
+- [77] **Benjamin**: - **Benjamin**: @Asuka, I concur. The Perinatal Service is the only option that doesn't rest on a broken foundation. I vote for it.
+- [78] **Yumi**: - **Yumi**: @Asuka, I vote for the Perinatal Support Service. It leverages the midwifery slack without breaking my ward rosters.
+- [79] **Servas**: @Asuka, I join you. The Perinatal Service respects our financial limits and utilizes the available slack. I vote for it.
+### Vote
+- Asuka -> B
+- Toshio -> B
+- Benjamin -> B
+- Yumi -> B
+- Servas -> B
+## Result
+- adopted: B

@@ -1,0 +1,58 @@
+# candidate_selection_0004__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Kenji**: I want to see if we can actually finish on time! I'll check the regional firms tendering for earth-moving and the depot phasing notes on hoarding the site.
+- [6] **Benjamin**: I shall focus on the practicalities of the terrain. I will examine the drainage callouts and August heat readings, as well as the timed counts of weekday crossings.
+- [7] **Minato**: I want to know who will take care of the park. I'll look into the groundskeeping roll and bought-in services, and the volunteer groups working with the division.
+- [8] **Minako**: I will examine the condition of works from the earlier programme and the record of the eastern avenue planting to see how previous projects have actually aged.
+- [9] **Jonathan**: I am concerned about the long-term financial burden. I will review the upkeep ledger spend per hectare and the terms of the regional habitat fund.
+## Round 2
+- [33] **Kenji**: It looks like we have a problem with the soil! The earth-moving firms are worried about clay and slippage, though small-scale work seems fine. Also, we can't hoard the center or main gate without closing them.
+- [34] **Benjamin**: The ground is quite temperamental. Drainage callouts have doubled since the culvert was capped, and the heat in the open areas is surprisingly intense. It seems the park is struggling to breathe and drain.
+- [35] **Minato**: I found out that there aren't many groundskeepers left, only seven people. But there are some kind volunteer groups who already help out with the river and the youth league on weekends.
+- [36] **Minako**: My findings suggest a pattern of poor longevity. While structural earthworks have held up, surface finishes are failing and half the eastern avenue trees died due to missing aftercare in the contracts.
+- [37] **Jonathan**: The financial data is sobering. Maintenance for planted and water-managed areas is now triple the cost of hard surfaces, and that gap is only growing. We must be mindful of the long-term drain on the city.
+- [38] **Kenji**: @Benjamin, if the drainage is that bad and the soil is clay, those slippage risks the firms mentioned are even scarier! We should definitely avoid any huge digging projects in the center.
+- [39] **Benjamin**: Precisely, Kenji. To add to that, the weekday crossing data shows people instinctively avoid the soft margins. If we build something that forces them into the mud, we are simply inviting a maintenance nightmare.
+- [40] **Minato**: @Minako, it's sad that the trees died. If there are only seven groundskeepers, maybe that's why they couldn't take care of them? I wonder if the volunteers could help with the new plants.
+- [41] **Minako**: It is possible, Minato. However, the records show the watering was omitted from the contract itself. This suggests a systemic failure in how we plan for the life of a project, not just a lack of hands.
+- [42] **Jonathan**: @Minako, your point about systemic failure resonates. If we ignore the long-term costs in the contract, we are merely delaying an inevitable financial crisis for the city. We must prioritize sustainability over initial appearance.
+- [43] **Kenji**: @Minato, I think the volunteers are a great idea! But if the ground is as tricky as Benjamin and I found, we should pick a plan that doesn't need massive digging or complex drainage.
+- [44] **Benjamin**: I concur. A plan that ignores the existing flow of pedestrians or the current drainage failures is merely a blueprint for a very expensive swamp. We need something that works with the land, not against it.
+- [45] **Minato**: I agree with Kenji. I hope we can find a plan that is gentle on the land and doesn't make the seven groundskeepers too tired. Maybe something the volunteers would enjoy helping with?
+- [46] **Minako**: We must be cautious. If we choose a plan that looks beautiful on paper but lacks a funded maintenance contract, we will simply repeat the failure of the eastern avenue. We need a design that is durable and realistically maintainable.
+- [47] **Jonathan**: @Minato, while volunteers are helpful, they cannot replace a funded budget. I am also wary of the habitat fund; it covers the initial planting, but the city will be left to pay those triple-cost maintenance fees once the fund expires.
+- [48] **Kenji**: I'm getting worried about the timeline! If we have clay slippage and can't hoard the main gate, any big construction in the middle will just cause huge delays and block everyone. Let's keep it simple!
+- [49] **Benjamin**: Simplicity is indeed the most elegant solution here. If we attempt a grand architectural gesture that ignores the clay and the commuters, we will likely end up with a very expensive, very muddy monument to our own optimism.
+- [50] **Minato**: I hope we can pick something that feels peaceful for everyone. If we keep it simple, maybe the groundskeepers won't be so overwhelmed and the park will stay happy for a long time.
+- [51] **Minako**: I agree. A peaceful, simple design is only sustainable if it is built to last. We must ensure the chosen plan prioritizes durable materials and a comprehensive aftercare strategy over aesthetic ambition.
+- [52] **Jonathan**: I agree. We must look for a balance where the initial funding from the habitat fund doesn't create a permanent financial burden. A design that minimizes high-maintenance greenery in favor of durability is the most compassionate choice for the city.
+## Round 3
+- [58] **Kenji**: I think we should avoid A and B! A needs way too much digging in that clay soil, and B would block the main gate and center during construction. D seems better since it's on the southern side!
+- [59] **Benjamin**: I must disagree with Kenji on D. Replacing the lawn with courts ignores the weekday crossing data; commuters will simply walk across the courts to reach the tram, creating a chaotic and unsightly conflict. B is similarly problematic.
+- [60] **Minato**: I think Candidate C, the Woodland Walk, sounds very peaceful. It doesn't seem to need as much digging as the ponds, and maybe the volunteers would be happy to help look after the new trees?
+- [61] **Minako**: I am wary of Candidate C. Given the history of the eastern avenue, planting dense tree cover without a guaranteed aftercare contract is a recipe for failure. We cannot risk another mass die-off.
+- [62] **Jonathan**: I must agree with Minako. Candidate A and C rely heavily on water-managed and planted ground, which my research shows are triple the cost to maintain. We cannot let the habitat fund lure us into a permanent deficit.
+- [63] **Kenji**: @Minato, I love the idea of a peaceful walk, but @Minako and @Jonathan are right about the trees! If the soil is clay and the maintenance is too expensive, the Woodland Walk might just become a graveyard for trees.
+- [64] **Benjamin**: @Jonathan, your financial caution is well-placed. If we look at the options, Candidate B's paved square is the most durable, but as I noted, it disrupts the natural flow of the commuters. We are caught between a swamp and a concrete slab.
+- [65] **Minato**: @Benjamin, I don't like the idea of a concrete slab. It doesn't sound very peaceful. If the trees are too hard to look after, maybe the Wetland Restoration is okay? The water might help the drainage problems you found.
+- [66] **Minako**: @Minato, the Wetland Restoration is a high-risk gamble. Reshaping drainage in clay soil requires massive earth-moving, which Kenji warned would cause slippage and delays. It is an ambitious drawing that may not survive the reality of our terrain.
+- [67] **Jonathan**: @Minato, while the water might seem to help, the maintenance of reed beds and ponds is precisely what creates those triple-cost burdens. We must be careful not to mistake a beautiful vision for a sustainable reality.
+- [68] **Kenji**: @Benjamin, if B is too disruptive and A is a digging nightmare, maybe D is the only one that actually works? It's on the southern side, so we can hoard it in stages without closing the main gate!
+- [69] **Benjamin**: @Kenji, while the hoarding is convenient, the human element is not. Forcing commuters to navigate around courts or, more likely, across them, is a recipe for friction. However, compared to a failing forest or a clay swamp, D is logically more stable.
+- [70] **Minato**: I'm not sure about the sports courts. It sounds a bit noisy, and I worry the seven groundskeepers will have to work even harder to keep the courts clean. Would the volunteers be able to help with that?
+- [71] **Minako**: @Minato, volunteers are better suited for gardening than cleaning sports facilities. Looking at the options, Candidate D uses the most durable materials. It avoids the planting failures of C and the structural risks of A.
+- [72] **Jonathan**: @Minako, I agree. Candidate D minimizes the high-maintenance greenery that drains our budget. While it may lack the serenity of a forest, it is the only option that doesn't create a long-term financial liability for the city.
+- [73] **Kenji**: I'm glad we're agreeing! D is the safest bet for the timeline and the budget. It avoids the clay slippage and the main gate chaos. I'm voting for Candidate D!
+- [74] **Benjamin**: While I maintain my reservations regarding the pedestrian flow, logic dictates that we prioritize structural and financial viability. Candidate D is the only option that doesn't fight the soil or the budget. I vote for Candidate D.
+- [75] **Minato**: I don't really like the noise of the courts, but I don't want the groundskeepers to be too tired or the trees to die. If everyone else thinks D is the safest, I will vote for Candidate D too.
+- [76] **Minako**: I have considered the risks. A and C are too fragile, and B is too disruptive. Candidate D is the only plan that prioritizes durability and avoids the systemic failures of our past projects. I vote for Candidate D.
+- [77] **Jonathan**: It is a quiet victory for pragmatism. While I long for a more serene space, we cannot ignore the financial reality. Candidate D is the only choice that ensures the city's peace of mind. I vote for Candidate D.
+### Vote
+- Kenji -> D
+- Benjamin -> D
+- Minato -> D
+- Minako -> D
+- Jonathan -> D
+## Result
+- adopted: D

@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/diskthalys/ssd14ta/yharada/aiwolf/undergraduate_research/scripts/run_single.py", line 15, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/diskthalys/ssd14ta/yharada/aiwolf/undergraduate_research/single/__main__.py", line 74, in main
+    run = run_single(ctx, llm, Path(a.log_dir), model=model, model_tag=tag, max_tokens=max_tokens,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/diskthalys/ssd14ta/yharada/aiwolf/undergraduate_research/single/base/run.py", line 142, in run_single
+    (raw / "transcript.md").write_text(text, encoding="utf-8")
+  File "/home/yharada/.pyenv/versions/3.11.12/lib/python3.11/pathlib.py", line 1078, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors, newline=newline) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yharada/.pyenv/versions/3.11.12/lib/python3.11/pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'log/main_gemma31b/aiwolf/single-batch/aiwolf_0019__single-batch-process__gemma-4-31b__20261028T222009/raw/transcript.md'

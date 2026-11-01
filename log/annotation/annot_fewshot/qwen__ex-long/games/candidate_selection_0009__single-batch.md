@@ -1,0 +1,73 @@
+# candidate_selection_0009__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I worry the floor will buckle under the weight of our ambition.
+- [6] **Toshio**: The record shows we often forget what actually drew people back.
+- [7] **Rin**: Who is left to do the work? The staff list is a ghost.
+- [8] **Kenji**: I want to know where past seasons actually broke, not where they planned to.
+- [9] **Benjamin**: The invoices always land after the season ends. I need to see the leaks.
+- [10] **Daisuke**: @Kenji, if the delivery slips, the whole room feels unstable.
+- [11] **Toshio**: @Rin, the ghost staff is a real danger. We must verify the hands.
+- [12] **Rin**: @Toshio, exactly. I need to know who is actually standing in the room.
+- [13] **Kenji**: @Benjamin, the leaks are real. I’ll check where the paperwork failed.
+- [14] **Benjamin**: @Kenji, agreed. I’ll trace the money that vanished into the walls.
+- [15] **Daisuke**: I will look at the structural survey and the evening hire bookings.
+- [16] **Toshio**: I will review the visitor comment slips and the weekend head counts.
+- [17] **Rin**: I will check the conservation lab staffing and the volunteer roster.
+- [18] **Kenji**: I will examine the lender paperwork and the loan transport costs.
+- [19] **Benjamin**: I will investigate the mount-making charges and the maintenance log.
+- [20] **Daisuke**: The building must survive the art. I will check the bay limits.
+- [21] **Toshio**: The past is the only honest witness. I will read the slips.
+- [22] **Rin**: I need to know who is carrying two roles. I will check the roster.
+- [23] **Kenji**: I want to see where the ships got stuck. I will check the cut-offs.
+- [24] **Benjamin**: I will see where the money went. I will check the joiner's rate.
+## Round 2
+- [35] **Daisuke**: The bay is capped at four hundred kilos. The last stonework needed shoring.
+- [36] **Toshio**: The slips say people came back because someone was present, not for the objects.
+- [37] **Rin**: The lab is down to one person. Two hundred pieces are waiting.
+- [38] **Kenji**: Two openings slipped because the paperwork arrived after the shipping cut-off.
+- [39] **Benjamin**: The joiner's rate has doubled. Bespoke mounts are eating the budget.
+- [40] **Daisuke**: @Kenji, if the paperwork slips, the delivery is late. The floor waits.
+- [41] **Toshio**: @Rin, if the lab is empty, the objects arrive dirty. The show fails.
+- [42] **Rin**: @Toshio, I agree. We cannot clean two hundred pieces in a season.
+- [43] **Kenji**: @Benjamin, the transport costs are high, but the delays are worse.
+- [44] **Benjamin**: @Kenji, the delays are symptoms. The costs are the disease.
+- [45] **Daisuke**: @Rin, the conservation backlog is a trap. We need a show that doesn't need cleaning.
+- [46] **Toshio**: @Daisuke, the comment slips prove presence matters. We need live demonstrations.
+- [47] **Rin**: @Toshio, I agree. But who will do the demonstrations? The volunteers are busy.
+- [48] **Kenji**: @Rin, the volunteers are the town history circle. They are already stretched.
+- [49] **Benjamin**: @Kenji, the town history circle is the only stable group. We must rely on them.
+- [50] **Daisuke**: @Benjamin, relying on them is risky. The structural limits are hard.
+- [51] **Toshio**: @Daisuke, the limits are real. But the presence is what brings them back.
+- [52] **Rin**: @Toshio, I agree. We need a show that uses the people we have.
+- [53] **Kenji**: @Rin, a local show avoids the shipping delays. It is safer.
+- [54] **Benjamin**: @Kenji, a local show avoids the mount-making costs. It is cheaper.
+## Round 3
+- [60] **Daisuke**: Option A is local. No heavy stonework. The bay is safe.
+- [61] **Toshio**: Option A has craftspeople present. The slips say that is what they want.
+- [62] **Rin**: Option A uses local craftspeople. The volunteers can help with the interviews.
+- [63] **Kenji**: Option A avoids the shipping cut-offs. No distant lenders.
+- [64] **Benjamin**: Option A avoids the bespoke mounts. The tools are already here.
+- [65] **Daisuke**: @Kenji, Option B needs loans. The paperwork will slip again.
+- [66] **Toshio**: @Daisuke, Option B is static. The slips say static rooms lose visitors.
+- [67] **Rin**: @Toshio, Option C needs the conservation bench. The lab is empty.
+- [68] **Kenji**: @Rin, Option C is risky. The finds are fragile.
+- [69] **Benjamin**: @Kenji, Option D needs powered displays. The maintenance log is full.
+- [70] **Daisuke**: @Benjamin, Option D is a no-go. The bay cannot handle the rigging.
+- [71] **Toshio**: @Daisuke, agreed. Option A is the only one that brings people back.
+- [72] **Rin**: @Toshio, Option A is the only one we can staff. I vote for A.
+- [73] **Kenji**: @Rin, Option A is the safest. No shipping, no delays. I vote for A.
+- [74] **Benjamin**: @Kenji, Option A is the cheapest. No mounts, no transport. I vote for A.
+- [75] **Daisuke**: @Benjamin, Option A respects the building. I vote for A.
+- [76] **Toshio**: @Daisuke, Option A respects the record. I vote for A.
+- [77] **Rin**: @Toshio, Option A respects the staff. I vote for A.
+- [78] **Kenji**: @Rin, Option A respects the timeline. I vote for A.
+- [79] **Benjamin**: @Kenji, Option A respects the budget. I vote for A.
+### Vote
+- Daisuke -> A
+- Toshio -> A
+- Rin -> A
+- Kenji -> A
+- Benjamin -> A
+## Result
+- adopted: A

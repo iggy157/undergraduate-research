@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-public-stepped (candidate_selection)
+
+## Round 1
+- [5] **May**: I’m tired of reinventing the wheel. Let’s check what actually happened last time.
+- [6] **Benjamin**: We can’t promise service if the crews don’t exist. I need to see the staffing reality.
+- [7] **Midori**: Crowding complaints are loud, but are they true? I want to verify the actual wait times.
+- [8] **Shizue**: I worry about hidden delays. Who else has to approve these plans?
+- [9] **Jonathan**: I just want to know what the long-term costs really are, not just the headline.
+- [10] **May**: Agreed, Shizue. History is a good teacher.
+- [11] **Benjamin**: @Midori, if the waits are short, maybe the problem is elsewhere.
+- [12] **Midori**: @Benjamin, exactly. We need data, not anecdotes.
+- [13] **Shizue**: I will look into the approval processes and past completion records.
+- [14] **Jonathan**: I’ll focus on the financial commitments and the ticketing fees.
+- [15] **May**: I’ll check the old pilots and the journey audits.
+- [16] **Benjamin**: I’ll look at the roster books and the crew establishment.
+- [17] **Midori**: I’ll investigate the timed runs and the journey audits.
+- [18] **Shizue**: I’ll check the joint operators' minutes and the contingency pricing.
+- [19] **Jonathan**: I’ll review the capital ledger and the ticketing contractor fees.
+- [20] **May**: Let’s see what the dust reveals.
+- [21] **Benjamin**: Logic over emotion, please.
+- [22] **Midori**: I hope the numbers tell the truth.
+- [23] **Shizue**: Peace of mind comes from knowing the ground is solid.
+- [24] **Jonathan**: Quietly, I hope the books balance out.
+## Round 2
+- [35] **May**: The old pilots worked. The audits say waiting is the real killer, not ticketing.
+- [36] **Benjamin**: The late-turn pool is empty. We are running on overtime. This is a crisis.
+- [37] **Midori**: The data confirms my fear. The surface route is slow, but platforms clear fine. The issue is connections.
+- [38] **Shizue**: I found that the ferry and rail data systems are incompatible. Also, old station work is risky and expensive due to hidden voids.
+- [39] **Jonathan**: The capital ledger is tight. Ticketing fees are eating our paving budget. We can’t afford to ignore the long-term drain.
+- [40] **May**: @Midori, so if we fix connections, we fix the journey.
+- [41] **Benjamin**: @Shizue, if the station work is that risky, maybe we should avoid it?
+- [42] **Midori**: @Benjamin, the station upgrades might be necessary, but the data suggests the bus corridor could help with the surface slowness.
+- [43] **Shizue**: The station upgrades are dangerous. The data mismatch makes a unified fare system hard.
+- [44] **Jonathan**: The ticketing fees are a leak. A unified system might stop that, but the capital is gone.
+- [45] **May**: The night service pilot was a success. Maybe we should extend that?
+- [46] **Benjamin**: @May, we don’t have the crews for night service. The roster books are red.
+- [47] **Midori**: The bus corridor addresses the surface slowness. The station upgrades address the access, but the risk is high.
+- [48] **Shizue**: I am leaning away from the station upgrades. The hidden costs are too high.
+- [49] **Jonathan**: I am concerned about the ticketing fees. A unified platform might save money long-term, but the capital is tight.
+- [50] **May**: Let’s vote for the plan that fixes the biggest pain point without breaking the bank or the crews.
+- [51] **Benjamin**: I cannot support any plan that ignores the staffing crisis.
+- [52] **Midori**: The bus corridor seems the most viable. It addresses the surface slowness directly.
+- [53] **Shizue**: I agree with Midori. The station work is too risky. The bus corridor is safer.
+- [54] **Jonathan**: I will support the plan that stops the financial leak. The ticketing fees are unsustainable.
+## Round 3
+- [60] **May**: The audits show waiting is the problem. The bus corridor helps with surface speed. The fare platform helps with the leak.
+- [61] **Benjamin**: I am stuck. The bus corridor needs crews we don’t have. The fare platform needs capital we don’t have.
+- [62] **Midori**: The bus corridor directly addresses the timed run slowness. It’s the most direct fix for the passenger experience.
+- [63] **Shizue**: The station upgrades are out. The night service is out due to staffing. It’s between A and B.
+- [64] **Jonathan**: The ticketing fees are a major drain. Option A stops that. But the capital is tight.
+- [65] **May**: @Benjamin, the bus corridor uses existing bus crews, not the late-turn pool.
+- [66] **Benjamin**: @May, the roadway crews are a third below establishment. Who maintains the dedicated lanes?
+- [67] **Midori**: The maintenance contract for lifts has spare capacity, but the roadway crews are thin. This is a risk.
+- [68] **Shizue**: The roadway consents are delegated to us. That helps. But the crew shortage is real.
+- [69] **Jonathan**: The ticketing fees are an annual drain. The bus corridor is a one-off capital cost, but the capital is ring-fenced.
+- [70] **May**: The old pilots show the fare system works. The audits show the bus corridor helps. I’m torn.
+- [71] **Benjamin**: I cannot vote for a plan that ignores the crew shortage. But I also can’t ignore the financial leak.
+- [72] **Midori**: I will vote for the bus corridor. It fixes the most visible problem for passengers.
+- [73] **Shizue**: I will vote for the bus corridor. It is less risky than the station work and addresses the surface slowness.
+- [74] **Jonathan**: I will vote for the fare platform. The financial leak is unsustainable. We must stop the bleeding.
+- [75] **May**: I will vote for the bus corridor. It’s the most direct fix for the journey time.
+- [76] **Benjamin**: I will vote for the fare platform. It’s the only way to stop the financial drain, even if the capital is tight.
+- [77] **Midori**: I will vote for the bus corridor.
+- [78] **Shizue**: I will vote for the bus corridor.
+- [79] **Jonathan**: I will vote for the fare platform.
+### Vote
+- May -> B
+- Benjamin -> A
+- Midori -> B
+- Shizue -> B
+- Jonathan -> A
+## Result
+- adopted: B

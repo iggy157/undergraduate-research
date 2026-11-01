@@ -1,0 +1,73 @@
+# shared_living_0014__multi-private (shared_living)
+
+## Round 1
+- [5] **Mizuki**: I want to understand why last year felt so disconnected. I’ll look into how the days actually ran and the time alone in the shared house.
+- [6] **Shizue**: I’d like to see how last year’s days ran and what separately booked rooms cost. Clarity helps us all.
+- [7] **Minato**: I’m curious about bathing hours and bathroom provision. Also, how last year’s days ran.
+- [8] **Jonathan**: I’ll check ferry sailings and train time, plus getting around by train and bus.
+- [9] **Midori**: I want to know the total cost upfront. I’ll check all-in rates and what separately booked rooms cost last time.
+- [10] **Mizuki**: @Shizue, you’re also checking the daily flow? Good. We need to see if the structure itself caused the distance.
+- [11] **Shizue**: @Mizuki, yes, I am. I hope we can find a rhythm that brings us closer together this year.
+- [12] **Minato**: @Mizuki, I hope the structure was just a bit confusing. I really want to know where I can wash and sit quietly.
+- [13] **Jonathan**: @Minato, quiet spaces matter. I’m hoping the transport links are simple, so we don’t waste hours just moving between places.
+- [14] **Midori**: @Jonathan, simple transport saves money too. I’m hoping the all-in rates cover everything, so no nasty surprises later.
+- [15] **Mizuki**: @Minato, your need for quiet is valid. I’ll ensure the structure supports both togetherness and solitude, so we don’t feel crowded or isolated.
+- [16] **Shizue**: @Minato, I completely agree. A peaceful place to rest is essential for everyone’s well-being.
+- [17] **Minato**: Thank you. I’m glad you understand. I just want to know if the bathrooms are big enough for me to relax.
+- [18] **Jonathan**: @Minato, I hope the facilities are comfortable. I’m mostly focused on ensuring the journey itself doesn’t drain our energy before we even arrive.
+- [19] **Midori**: @Minato, I hope the bathrooms are spacious and relaxing for you. I’m just trying to keep the overall budget predictable for everyone.
+- [20] **Mizuki**: @Midori, predictable costs help everyone relax. Let’s see what the data reveals about our actual needs before we commit to anything.
+- [21] **Shizue**: @Midori, I agree. Clear costs prevent quiet resentment. Let’s see what the numbers tell us about fairness.
+- [22] **Minato**: I’m glad we’re all thinking about comfort. I hope the numbers show a place where I can rest easily without worrying.
+- [23] **Jonathan**: I’m glad we’re aligning on comfort. Let’s see what the transport data reveals about minimizing our travel fatigue.
+- [24] **Midori**: I’m glad we’re all on the same page. Let’s see what the numbers reveal about keeping our trip stress-free and affordable.
+## Round 2
+- [35] **Mizuki**: @Shizue, the data confirms my suspicion. We drifted apart because we moved separately. A shared house offers no private space. We need a town with public baths.
+- [36] **Shizue**: @Mizuki, I see. The separate rooms caused a gap in our togetherness. I hope the shared house brings us closer this time.
+- [37] **Minato**: @Mizuki, I’m worried about the cold water. I need to know if I can wash comfortably without rushing.
+- [38] **Jonathan**: @Mizuki, the ferry schedule is tight. Two days lost to travel is too much. I need a destination where we arrive with energy, not exhaustion.
+- [39] **Midori**: @Mizuki, I see. The 8,000 yen gap last time was stressful. I need to know if renting whole truly keeps costs predictable for everyone.
+- [40] **Mizuki**: @Jonathan, travel fatigue is real, but so is the cost of isolation. We need a destination that balances easy access with genuine space for us to breathe.
+- [41] **Shizue**: @Jonathan, I agree. Arriving rested is vital. Let’s ensure the journey is gentle, so we can truly enjoy our time together.
+- [42] **Minato**: @Mizuki, I hope the baths are warm. I just want to wash without feeling rushed or cold.
+- [43] **Jonathan**: @Shizue, I agree. The ninety-minute train is manageable, but the ferry’s two-day loss is not. We need to avoid that drain.
+- [44] **Midori**: @Jonathan, I agree. A shorter journey means less stress. I’m hoping the all-in rate covers everything, so we don’t face unexpected meal costs later.
+- [45] **Mizuki**: @Minato, the public bath solves your comfort need. It’s warm, private, and lets us share the town without crowding each other.
+- [46] **Shizue**: @Minato, I agree. A warm bath is a wonderful comfort. I hope the town offers that gentle peace for you.
+- [47] **Minato**: @Mizuki, that sounds lovely. I really hope the water is warm. I just want to relax without worrying about the cold.
+- [48] **Jonathan**: @Minato, I hope the baths are warm and relaxing. I’m just trying to ensure our travel time doesn’t steal from our actual rest.
+- [49] **Midori**: @Minato, I hope the baths are warm and relaxing for you. I’m just trying to ensure the total cost stays predictable for everyone.
+- [50] **Mizuki**: @Midori, predictable costs matter, but so does connection. Let’s see if the town options balance your budget with our need for shared presence.
+- [51] **Shizue**: @Midori, I agree. A single, shared bill removes the worry of who pays what. It feels fair and peaceful for all of us.
+- [52] **Minato**: I hope the town baths are warm and private. I just want to wash without feeling rushed or cold.
+- [53] **Jonathan**: The hourly bus stops early, which limits our evening freedom. I’d prefer the train’s flexibility to avoid feeling trapped by schedules.
+- [54] **Midori**: @Jonathan, I hear you. But a single, predictable bill matters more to me than late-night bus flexibility. Let’s prioritize cost certainty.
+## Round 3
+- [60] **Mizuki**: @Shizue, the data is clear. We need shared presence and private space. Option A offers both. I vote for the Hot Spring Town.
+- [61] **Shizue**: @Mizuki, I agree. The shared bill and warm baths feel right. I vote for the Hot Spring Town.
+- [62] **Minato**: @Mizuki, the warm baths sound perfect for me. I hope the inn is quiet enough to rest well. I vote for the Hot Spring Town.
+- [63] **Jonathan**: @Mizuki, the train is manageable, unlike the ferry. I vote for the Hot Spring Town to preserve our energy.
+- [64] **Midori**: @Mizuki, the all-in rate at the inn means one predictable bill. No hidden meal costs. I vote for the Hot Spring Town.
+- [65] **Mizuki**: The vote is unanimous. We’ve found the balance we needed. I’m glad we prioritized connection over convenience.
+- [66] **Shizue**: @Mizuki, I am so glad we found this harmony. A single, clear bill brings such peace to my heart.
+- [67] **Minato**: I’m so happy we all agree. The warm baths and quiet rooms sound like a perfect place to rest.
+- [68] **Jonathan**: I’m relieved. A simple train ride and a quiet inn mean I can actually rest. Thank you all.
+- [69] **Midori**: I’m relieved too. One clear bill means no surprises. I’m glad we found a place where everyone feels comfortable and safe.
+- [70] **Mizuki**: @Midori, your clarity on costs was essential. We’ve secured both connection and comfort. I’m glad we chose this together.
+- [71] **Shizue**: @Midori, your clarity on costs was essential. We’ve secured both connection and comfort. I’m glad we chose this together.
+- [72] **Minato**: @Midori, thank you for keeping the costs clear. I feel safe knowing the bill is simple. I’m ready to rest.
+- [73] **Jonathan**: @Midori, thank you for keeping the budget clear. A simple, predictable cost lets me focus on rest, not worry.
+- [74] **Midori**: You’re all so kind. I’m just happy we found a place where the costs are clear and everyone can relax together.
+- [75] **Mizuki**: We’ve chosen a place where we can be together without losing ourselves. I’m glad we found that balance.
+- [76] **Shizue**: I am so glad we found this harmony. A single, clear bill brings such peace to my heart.
+- [77] **Minato**: I’m glad we chose the Hot Spring Town. The warm baths and quiet rooms sound like a perfect place to rest.
+- [78] **Jonathan**: A quiet inn and a simple train ride. I can finally look forward to reading in peace. Thank you.
+- [79] **Midori**: I’m glad we found a place where the costs are clear and everyone can relax together.
+### Vote
+- Mizuki -> A
+- Shizue -> A
+- Minato -> A
+- Jonathan -> A
+- Midori -> A
+## Result
+- adopted: A

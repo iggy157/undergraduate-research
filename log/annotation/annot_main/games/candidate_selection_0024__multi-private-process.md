@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-private-process (candidate_selection)
+
+## Round 1
+- [5] **Minato**: Hello everyone. I'm happy to be here. I wonder if we should make sure the plan is something that can actually be finished on time without any big surprises during the digging?
+- [6] **May**: @Minato, timeliness is great, but let's not forget the "after" party. I'm more worried about the bills that keep coming once the ribbon is cut. We need a plan that won't bleed the city dry.
+- [7] **Shizue**: It is lovely to meet you all. While budgets and schedules are important, I worry that we often focus too much on the beginning. I would like to see if the work truly lasts over time.
+- [8] **Victoria**: I agree with Shizue. However, durability isn't just about materials; it's about the people. I am concerned about who will actually manage the daily upkeep once the project is complete. We must consider the operational capacity.
+- [9] **Shunichi**: You're all focusing on the ledger and the clock. Let's not forget the ground itself. A plan that looks pretty on a slide but ignores how people actually cross the park is just a fantasy.
+- [10] **Minato**: @Shunichi, that's a good point. I like the idea of thinking about how people use the park. But if the ground is tricky, it might change how we build the paths, right?
+- [11] **May**: Exactly. But let's be real: fancy paths are just future liabilities if they're too expensive to scrub or repair. I want to see where the money actually goes for maintenance every year.
+- [12] **Shizue**: @May, you are quite right to be cautious. However, I believe the best way to predict future costs is to look at how our previous projects have aged. A beautiful drawing can hide many flaws.
+- [13] **Victoria**: @Shizue, I agree. Past performance is a reliable indicator. I also wonder if we are relying too heavily on a shrinking pool of staff. We need to know who is actually available for the work.
+- [14] **Shunichi**: @Victoria, relying on a "pool" is exactly the problem. I'm more interested in the physical reality—where the water pools in August and where the grass is worn down to dirt by actual foot traffic.
+- [15] **Minato**: I see. So we have to think about the money, the people, and the ground. I'm still a bit worried about the digging part. Do you think the local companies can handle the work without delays?
+- [16] **May**: @Minato, local firms are fine, but I'm more interested in the long-term drain on our wallet. If we pick a high-maintenance design, it doesn't matter who digs the hole; we'll be paying for it forever.
+- [17] **Shizue**: @May, your concern for the city's wallet is very kind. I simply feel that if we see where previous works have failed, we can avoid those same expensive mistakes in the future.
+- [18] **Victoria**: @Shizue, that is a logical approach. I believe we must also clarify the current balance between professional staff and volunteers to ensure the chosen plan doesn't exceed our actual human capacity for maintenance.
+- [19] **Shunichi**: @Victoria, volunteers are a lovely sentiment, but they aren't a drainage system. I'm less interested in who is "available" and more in how the site actually behaves when it rains or when crowds hit.
+- [20] **Minato**: I think I understand now. Everyone has different things they are worried about. I will look into the local firms and the depot notes to see if the construction will be okay.
+- [21] **May**: I'll be looking into the upkeep ledger spend per hectare and the groundskeeping roll and bought-in services. I need to know exactly what we're paying for and who's actually doing the work.
+- [22] **Shizue**: I shall look into the condition of works from the earlier programme and the record of the eastern avenue planting. I hope to see what has truly stood the test of time.
+- [23] **Victoria**: I will look into the groundskeeping roll and bought-in services, as well as the volunteer groups working with the division. I need to understand the actual human resources available for the park's daily operation.
+- [24] **Shunichi**: I'll take the timed counts of weekday crossings and the drainage callouts and August heat readings. Let's see if the plans match the actual behavior of the water and the people.
+## Round 2
+- [35] **Minato**: I found out that only two local firms are willing to do the big digging, and they are both worried about clay and slippage. Also, we can't close the main gate or the center during work.
+- [36] **May**: @Minato, that sounds like a headache for the builders, but my findings are a headache for the treasury. Planted areas cost triple what hard surfaces do to maintain, and that gap is only growing. We can't afford a "green" fantasy.
+- [37] **Shizue**: @May, I understand your worry, but we must be careful. I found that many of our young trees died simply because watering was forgotten in the contract. It is not the greenery that fails, but how we plan for it.
+- [38] **Victoria**: @Shizue, that is a critical point. My findings show the groundskeeping roll has shrunk from eighteen posts to just seven. We are losing the very people needed to ensure those trees are watered and the park is maintained.
+- [39] **Shunichi**: @Victoria, that explains why the trees are dying. But let's look at the ground: people are ignoring the paths to reach the tram, and the drainage is failing. We can't just plant more things and hope for the best.
+- [40] **Minato**: @Shunichi, if the drainage is failing and the firms are worried about clay and slippage, maybe we should pick a plan that doesn't require too much deep digging? I'm scared it will take forever.
+- [41] **May**: @Minato, avoiding deep digging is a start, but let's be honest: if we choose a plan with massive gardens to avoid the clay, we're just trading a construction delay for a permanent financial drain. Hard surfaces are cheaper to keep.
+- [42] **Shizue**: @May, while hard surfaces seem cheaper, I noticed that the civic hall apron has already been patched three times. If we choose materials that fail quickly, we will be paying for repairs forever regardless of the surface.
+- [43] **Victoria**: @Shizue, that is a valid concern. However, we must face the reality that we only have seven staff members left. Even the most durable materials require basic care, and we simply lack the manpower for a complex design.
+- [44] **Shunichi**: @Victoria, seven people can't fight nature. Between the heat islands and the failing culverts, we're looking at a swamp in August. We need a design that handles water and foot traffic naturally, not one that requires a miracle.
+- [45] **Minato**: @Shunichi, a swamp sounds scary. If the ground is that unstable and we have so few people to help, maybe a simple plan is best? I don't want the park to be closed for a long time.
+- [46] **May**: @Minato, "simple" is exactly what I'm talking about. If we go for a design that minimizes high-maintenance greenery and relies on durable, low-cost surfaces, we save the city money and the staff's sanity. Let's be practical, not poetic.
+- [47] **Shizue**: @May, practicality is a virtue, but we must define it by results. If the "simple" hard surfaces are the ones cracking and needing patches every few years, they are not actually practical or economical in the long run.
+- [48] **Victoria**: @Shizue, I agree. But we must also consider that our volunteers are already committed to other tasks. We cannot simply "find" more help; we must choose a plan that fits our current, limited capacity.
+- [49] **Shunichi**: @Victoria, relying on volunteers is a gamble we can't afford. We have people cutting across the grass to the tram and water that has nowhere to go. Any plan that ignores these physical realities is just a pretty picture.
+- [50] **Minato**: I think we all agree that the park is in a difficult spot. Since the builders are worried about the clay and we have so few workers, maybe we should look for the most realistic plan?
+- [51] **May**: @Minato, "realistic" means a plan that doesn't bankrupt us in three years. If we want to avoid a disaster, we need to prioritize low-maintenance surfaces and a design that doesn't require a ghost army of gardeners.
+- [52] **Shizue**: @May, I agree we must be realistic. However, let us ensure "low-maintenance" means something that truly lasts, not just something cheap that will crack and need patching again in a few short years.
+- [53] **Victoria**: @Shizue, exactly. We need a balance. But we must be honest: with only seven staff and volunteers already stretched thin, any plan requiring intensive daily care is a failure before it even begins. We need a design that is truly manageable.
+- [54] **Shunichi**: @Victoria, "manageable" isn't just about the staff count; it's about the site's behavior. If the plan doesn't account for the tram-stop shortcuts and the drainage failures, no amount of staff will save it from becoming a muddy mess.
+## Round 3
+- [60] **Minato**: I'm worried about the clay and slippage. Plan D sounds like it needs a lot of digging, and Plan C has big buildings. Maybe Plan A or B is safer for the builders?
+- [61] **May**: @Minato, Plan A is a financial trap. Dense tree cover and gravel paths mean high maintenance costs and constant weeding. Plan B is the only one that makes sense; paved surfaces are far cheaper to maintain.
+- [62] **Shizue**: @May, I must disagree. Plan B's paved surfaces remind me of the civic hall apron that keeps cracking. If we choose a plaza, we may just be building another surface that needs patching every few years.
+- [63] **Victoria**: @Shizue, I share your concern about durability. However, looking at our staffing, Plan A and Plan D are impossible. We have only seven staff members; they cannot manage dense woodlands or complex wetlands. Plan B is the most manageable.
+- [64] **Shunichi**: @Victoria, "manageable" doesn't mean "easy to sweep." Plan B ignores the heat island effect and the drainage crisis. Plan D is the only one that actually addresses the water, though the digging is a risk.
+- [65] **Minato**: @Shunichi, if Plan D is too risky for the builders, maybe we can't do it? I'm scared the clay will make it a mess. Is there a way to fix the water without so much digging?
+- [66] **May**: @Minato, we can't let "scary clay" lead us into a money pit. Plan D is a maintenance nightmare and Plan A is a budget drain. Plan B is the only one that keeps the city's accounts healthy.
+- [67] **Shizue**: @May, I understand your desire for a healthy account, but a cheap surface that fails is a waste of money. I worry Plan B is just a temporary fix that will leave us patching cracks again soon.
+- [68] **Victoria**: @Shizue, while I worry about the quality of the paving, we must prioritize the human element. We cannot sustain the labor required for Plan A or D. Plan B is the only realistic choice for our seven staff.
+- [69] **Shunichi**: @Victoria, you're prioritizing the staff's schedule over the park's survival. Plan B is a concrete oven that ignores the drainage failure. If we don't fix the water, the "manageable" plaza will just be a paved lake.
+- [70] **Minato**: @Shunichi, a paved lake sounds terrible. But if the builders are already worried about slippage, maybe Plan D is too dangerous to start? I think Plan B is the safest for the workers, even if it's not perfect.
+- [71] **May**: @Minato, exactly. Let's stop chasing fantasies. Plan B is the only option that doesn't require a miracle of staffing or a bottomless pit of money for gardening. It's the only fiscally responsible choice here.
+- [72] **Shizue**: @May, I fear that "fiscally responsible" is often used to justify the cheapest option, which then fails. If we choose Plan B, we must ensure the materials are truly durable, not just easy to install.
+- [73] **Victoria**: @Shizue, I agree that quality is key. However, we cannot ignore the staffing crisis. Plan B is the only option that doesn't demand a workforce we simply do not have. It is the only sustainable choice for our people.
+- [74] **Shunichi**: @Victoria, sustainability isn't just about the staff's workload; it's about the site's survival. Plan B is a disaster waiting to happen. If we don't address the drainage and heat, we're just paving over a problem.
+- [75] **Minato**: I'm sorry, @Shunichi, but I'm really worried about the builders and the clay. Plan D seems too risky to finish. I think Plan B is the most realistic one we can actually complete. I vote for Plan B.
+- [76] **May**: @Minato, I'm with you. We can't ignore the ledger or the staffing crisis. Plan B is the only one that won't bankrupt the city or break our remaining staff. I vote for Plan B.
+- [77] **Shizue**: I cannot bring myself to support Plan B, as I fear we are repeating the mistakes of the past. I believe Plan D is the most honest approach to the land. I vote for Plan D.
+- [78] **Victoria**: @Shizue, I respect your vision, but we cannot manage a wetland with seven people and overstretched volunteers. We must be honest about our capacity. For the sake of the staff, I vote for Plan B.
+- [79] **Shunichi**: You're all choosing the path of least resistance, which is exactly how we end up with a failing park. Paving over a drainage crisis is not "realistic"; it's delusional. I vote for Plan D.
+### Vote
+- Minato -> B
+- May -> B
+- Shizue -> D
+- Victoria -> B
+- Shunichi -> D
+## Result
+- adopted: B

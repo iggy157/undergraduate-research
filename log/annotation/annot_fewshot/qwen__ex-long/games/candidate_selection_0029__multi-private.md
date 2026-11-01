@@ -1,0 +1,73 @@
+# candidate_selection_0029__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Shizue**: Hello everyone. I worry about who will actually stand in the room. Let us look at the volunteer roster and conservation staffing.
+- [6] **Shion**: Shizue, staffing is a symptom. I want to know where past deliveries actually failed. Let’s examine the lender paperwork against shipping cut-offs.
+- [7] **May**: I’m curious about the people! Let’s check the weekend head counts and the visitor comment slips to see who actually shows up.
+- [8] **Misaki**: I need to understand the physical limits of the space. Let’s review the structural survey of the suspended bay and the maintenance log for powered displays.
+- [9] **Sakura**: I’m worried about the money! Let’s check the loan transport costs and mount-making charges to see where the budget really goes.
+- [10] **Shizue**: @Shion, your focus on paperwork is wise. I will also review the conservation lab staffing and backlog to see who remains to care for the objects.
+- [11] **Shion**: @Shizue, I appreciate the caution. I will also examine the maintenance log for powered displays to see where technical failures actually occur.
+- [12] **May**: @Sakura, money is vital, but I need to know if the crowd actually cares. I’ll stick with my two choices to see the real audience.
+- [13] **Misaki**: @Shion, I agree. Technical failures are critical. I will stick with my two choices to understand the physical constraints before we commit.
+- [14] **Sakura**: @May, I hear you! But I need to know where the coins hide. I’ll stick with my two choices to track the budget leaks.
+- [15] **Shizue**: @May, your focus on the visitors is lovely. I will stick with my two choices to ensure we have the hands to welcome them.
+- [16] **Shion**: @Misaki, your caution is noted. I will stick with my two choices to map the exact points of failure.
+- [17] **May**: @Shizue, I appreciate the sentiment! But I need to see the real faces in the crowd. I’ll stick with my two choices to understand the audience.
+- [18] **Misaki**: @Shion, I will stick with my two choices. The building must remain functional, not just decorative.
+- [19] **Sakura**: @Shizue, I agree! Hands are precious. But I must track the coins. I’ll stick with my two choices to find the budget leaks.
+- [20] **Shizue**: @Sakura, I understand your worry. I will stick with my two choices to ensure the people are truly there to care for the work.
+- [21] **Shion**: @Sakura, budget is a constraint, not a cause. I will stick with my two choices to identify the precise delivery failures.
+- [22] **May**: @Sakura, I hear you! But I need to see the real faces in the crowd. I’ll stick with my two choices to understand the audience.
+- [23] **Misaki**: @Sakura, I understand. I will stick with my two choices. The structure must hold before we discuss the cost.
+- [24] **Sakura**: @Shion, I hear you! But I need to see where the coins hide. I’ll stick with my two choices to track the budget leaks.
+## Round 2
+- [35] **Shizue**: @Shion, the lab holds only one person, yet two hundred pieces wait. We must ask who will actually care for the objects.
+- [36] **Shion**: @Shizue, one person for two hundred pieces is a crisis. My data shows two openings slipped on paperwork, and four displays failed publicly. We are structurally fragile.
+- [37] **May**: @Shion, that sounds dire! But my data shows people return for the living presence, not the objects. We need a show with real human energy.
+- [38] **Misaki**: @Shion, the bay is capped at four hundred kilos. Last season, stonework needed shoring. We cannot promise heavy loads without risking the floor.
+- [39] **Sakura**: @Shion, that’s scary! My data shows transport costs ate a third of the budget, and joiner rates jumped! We need a show that doesn’t cost a fortune to build.
+- [40] **Shizue**: @May, I hear your hope for living presence. But with only one conservator, we cannot risk fragile objects. Let us choose something sturdy and safe.
+- [41] **Shion**: @May, human energy is a variable, not a strategy. My data proves the infrastructure fails under pressure. We must select a proposal that bypasses the fragile bay and the paperwork trap.
+- [42] **May**: @Shion, I hear you, but people don’t come back for infrastructure! They come for the connection. We need a show that brings people into the room, not just objects.
+- [43] **Misaki**: @May, connection is vital, but the floor is not. Fourteen call-outs mean the bay is unreliable. We must choose a proposal that respects the building’s limits.
+- [44] **Sakura**: @Misaki, I agree! The floor is fragile. But my data shows transport costs are huge. We need a show that arrives on its own to save the budget!
+- [45] **Shizue**: @Misaki, the floor is indeed fragile. But with one conservator, we must also ask who will stand beside the visitors. Let us choose something that needs no heavy lifting.
+- [46] **Shion**: @Misaki, the floor is a constraint, not a cause. My data shows the real failure is administrative. We must select a proposal that bypasses the distant lenders entirely.
+- [47] **May**: @Misaki, I hear you! But a heavy floor doesn’t stop a lively crowd. We need a show that thrives on interaction, not just static weight.
+- [48] **Misaki**: @May, interaction is welcome, but the bay is not. Fourteen call-outs prove the powered displays fail. We must choose a proposal that does not rely on that fragile infrastructure.
+- [49] **Sakura**: @May, I agree! Interaction is lovely. But my data shows transport costs are huge. We need a show that arrives on its own to save the budget!
+- [50] **Shizue**: @Sakura, I understand your worry about the coins. But with one conservator, we must choose objects that are sturdy and safe. Let us pick something that does not need heavy care.
+- [51] **Shion**: @Sakura, cost is a symptom. The cause is administrative delay. We must select a proposal that bypasses distant lenders and fragile infrastructure entirely.
+- [52] **May**: @Sakura, I hear you! But a show that costs a fortune to build won’t bring people back. We need a show that thrives on interaction, not just static weight.
+- [53] **Misaki**: @Sakura, I agree. The building must function. We need a proposal that respects the floor’s limits and avoids the fragile powered displays.
+- [54] **Sakura**: @Shion, I agree! Bypassing distant lenders saves the coins. We need a show that arrives on its own, sturdy and safe, to protect our budget!
+## Round 3
+- [60] **Shizue**: @Shion, the conservation bench in B is a trap. With one conservator, we cannot risk that. A’s local craftspeople bring the living presence we need.
+- [61] **Shion**: @Shizue, B’s bench is a liability, but A’s local sourcing bypasses the distant lender trap entirely. It is the only option that respects our administrative fragility.
+- [62] **May**: @Shion, I agree! A brings the living presence my data craves. People return for the connection, not the paperwork. Let’s choose the show that thrives on human energy!
+- [63] **Misaki**: @Shion, A is the only option that respects the floor. No heavy rigging, no powered displays. The building remains functional.
+- [64] **Sakura**: @Shion, exactly! A’s local sourcing means no transport costs! The coins stay in our pocket, not the courier’s. Let’s pick A!
+- [65] **Shizue**: @May, I am glad you see the warmth in A. The craftspeople will stand beside the visitors, giving them the human connection you value so deeply.
+- [66] **Shion**: @May, connection is a variable, not a strategy. A’s local sourcing eliminates the shipping cut-off risk entirely. It is the only option that respects our administrative fragility.
+- [67] **May**: @Shion, I hear you! But strategy without a pulse is just a spreadsheet. A brings the faces and the voices my data proves people crave. Let’s pick the show that breathes!
+- [68] **Misaki**: @May, I agree. A’s light load and local sourcing keep the bay clear. The building stays functional, not just a stage.
+- [69] **Sakura**: @May, I agree! A’s local sourcing means no transport costs! The coins stay in our pocket, not the courier’s. Let’s pick A!
+- [70] **Shizue**: @Misaki, you are right. A keeps the bay clear and the floor safe. With one conservator, we must choose the path that protects both the building and the people.
+- [71] **Shion**: @Misaki, precisely. A eliminates the rigging risk and the distant lender trap. It is the only option that respects our structural and administrative fragility.
+- [72] **May**: @Misaki, exactly! A keeps the floor safe and the crowd happy. It’s the only choice that respects both the building and the people. Let’s pick A!
+- [73] **Misaki**: @Shizue, I concur. A respects the structural limits and the staffing reality. The building remains a working space, not a fragile stage. I vote for A.
+- [74] **Sakura**: @Misaki, I agree! A keeps the floor safe and the coins safe. No transport, no joiner fees. It’s the smart, sturdy choice. I vote for A!
+- [75] **Shizue**: @Sakura, I am glad we are aligned. A brings the craftspeople who will stand beside the visitors, filling the room with life. I vote for A.
+- [76] **Shion**: @Sakura, the data is unanimous. A bypasses the administrative and structural traps I identified. It is the only rational choice. I vote for A.
+- [77] **May**: @Sakura, I agree! A is the only choice that brings the living presence my data proves people crave. It’s the show that breathes. I vote for A.
+- [78] **Misaki**: @Sakura, I concur. A keeps the bay clear and the floor safe. The building remains functional. I vote for A.
+- [79] **Sakura**: @Shion, I’m so happy we all agree! A is the smart, sturdy choice that saves our coins. I vote for A!
+### Vote
+- Shizue -> A
+- Shion -> A
+- May -> A
+- Misaki -> A
+- Sakura -> A
+## Result
+- adopted: A

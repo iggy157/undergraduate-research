@@ -1,0 +1,73 @@
+# candidate_selection_0026__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Asuka**: I need to know if our past efforts actually changed anything for patients.
+- [6] **Toshio**: I am concerned about whether the physical space can absorb another program.
+- [7] **Benjamin**: I want to see where recent starts came apart in the second year.
+- [8] **Yumi**: I need to see the staffing records to understand where the pressure lands.
+- [9] **Servas**: I must understand what this budget can actually build and earn back.
+- [10] **Asuka**: @Toshio, space is vital, but without patient impact, it is just noise.
+- [11] **Toshio**: @Asuka, agreed. But if the rooms seize up, the impact is zero.
+- [12] **Benjamin**: @Servas, the budget is a trap if the structure fails. I will check the failures.
+- [13] **Yumi**: @Benjamin, the structure fails because the people are stretched thin. I will check the rosters.
+- [14] **Servas**: @Yumi, the people are the foundation. I will check the ledger to see the true cost.
+- [15] **Asuka**: I will look at the readmission figures and the board minutes on the joint clinic.
+- [16] **Toshio**: I will examine the rooms, parking and shuttle coverage, and the booking system records.
+- [17] **Benjamin**: I will review the board minutes on a jointly run clinic and the data agreements with outside surgeries.
+- [18] **Yumi**: I will check the ward nursing vacancies and the therapy and midwifery staffing review.
+- [19] **Servas**: I will examine this year's development allocation in the ledger and the regional fund tariffs.
+- [20] **Asuka**: The data will show if we are just adding to the pile of buried initiatives.
+- [21] **Toshio**: I need to know if the infrastructure can handle the load without breaking.
+- [22] **Benjamin**: I will find out if the arrangements were ever truly signed up to.
+- [23] **Yumi**: I hope the staffing data shows we can support this without burning out the teams.
+- [24] **Servas**: Let us see what the money can truly buy, not just what it promises.
+## Round 2
+- [35] **Asuka**: The readmission trial worked, but the joint clinic failed because neither department held the budget.
+- [36] **Toshio**: The booking system only records named slots. Unfixed work disappears from reports.
+- [37] **Benjamin**: The joint clinic closed because neither side carried the rota. The data agreements take fourteen months.
+- [38] **Yumi**: Nine nursing posts are unfilled. Agency cover is eating the pay bill. Midwifery has slack.
+- [39] **Servas**: The development allocation is down a quarter. Off-site contacts draw no tariff from the fund.
+- [40] **Asuka**: @Benjamin, the joint clinic failure is a warning. We cannot rely on shared rotas.
+- [41] **Toshio**: @Asuka, if it is not in the booking system, it does not exist for us.
+- [42] **Benjamin**: @Servas, if off-site work earns nothing, we are subsidizing it with on-site revenue.
+- [43] **Yumi**: @Toshio, the booking system is rigid. But the midwifery slack is a real opportunity.
+- [44] **Servas**: @Yumi, the slack is useful, but the budget is shrinking. We must be precise.
+- [45] **Asuka**: The readmission data proves home visits work. But the joint clinic shows shared governance fails.
+- [46] **Toshio**: The parking fills before eleven. The shuttle misses most villages. On-site is the only viable option.
+- [47] **Benjamin**: The data agreements are a bottleneck. Any program relying on outside surgeries is doomed.
+- [48] **Yumi**: The therapy staff are leaving. But midwifery has room. We should use that slack.
+- [49] **Servas**: The tariffs confirm on-site is the only way to earn back the cost. Off-site is a loss.
+- [50] **Asuka**: We need a program that is self-contained and on-site to avoid the joint clinic trap.
+- [51] **Toshio**: It must fit into the existing booking slots. No new infrastructure that seizes up.
+- [52] **Benjamin**: It must not rely on outside data agreements. It must be internally managed.
+- [53] **Yumi**: It must use the midwifery slack. We cannot add to the nursing burden.
+- [54] **Servas**: It must be on-site to generate tariff revenue. The budget cannot support off-site losses.
+## Round 3
+- [60] **Asuka**: Candidate A is off-site. It fails the tariff test and the booking system test.
+- [61] **Toshio**: Candidate C needs a dedicated space. The rooms are already full. It will seize up.
+- [62] **Benjamin**: Candidate D relies on outside surgeries. The data agreements will take fourteen months.
+- [63] **Yumi**: Candidate B uses the midwifery slack. It is on-site and self-contained.
+- [64] **Servas**: Candidate B is on-site. It generates tariff revenue. It fits the budget reality.
+- [65] **Asuka**: @Yumi, Candidate B avoids the joint clinic trap. It is managed by one department.
+- [66] **Toshio**: @Asuka, Candidate B fits into the existing booking slots. It does not require new rooms.
+- [67] **Benjamin**: @Toshio, Candidate B does not need outside data agreements. It is internally managed.
+- [68] **Yumi**: @Benjamin, Candidate B uses the midwifery slack. It does not add to the nursing burden.
+- [69] **Servas**: @Yumi, Candidate B is the only one that earns back its cost through tariffs.
+- [70] **Asuka**: Candidate A is out. It is off-site and unrecorded. Candidate D is out. It is too slow.
+- [71] **Toshio**: Candidate C is out. It needs space we do not have. Candidate B is the only fit.
+- [72] **Benjamin**: Candidate B is the only one that does not rely on fragile external arrangements.
+- [73] **Yumi**: Candidate B is the only one that uses our existing slack. It is the kindest choice.
+- [74] **Servas**: Candidate B is the only one that respects the budget. It is the wise choice.
+- [75] **Asuka**: I vote for B. It is self-contained and on-site.
+- [76] **Toshio**: I vote for B. It fits the infrastructure.
+- [77] **Benjamin**: I vote for B. It avoids the external bottlenecks.
+- [78] **Yumi**: I vote for B. It uses the midwifery slack.
+- [79] **Servas**: I vote for B. It is financially sustainable.
+### Vote
+- Asuka -> B
+- Toshio -> B
+- Benjamin -> B
+- Yumi -> B
+- Servas -> B
+## Result
+- adopted: B

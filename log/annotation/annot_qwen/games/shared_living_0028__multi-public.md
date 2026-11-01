@@ -1,0 +1,73 @@
+# shared_living_0028__multi-public (shared_living)
+
+## Round 1
+- [5] **Shion**: I checked the wall. It’s thin. Sound travels. I also checked the crumbs. They’re everywhere.
+- [6] **Daisuke**: I... I agree. The noise is hard to ignore. I’d like to see the invoices for outside hire, though.
+- [7] **Rin**: I want to see the tally of who uses it! And the fridge clear-out, because that sounds messy.
+- [8] **Servas**: I would like to look into where the last awkward conversation happened, and the unplanned talk since the refit.
+- [9] **Toshio**: I need to trace where the hours actually go. I’ll check the facilities callouts and the round trip for a hot lunch.
+- [10] **Shion**: @Daisuke, you want the invoices? I’ll take the quotes for the fit-outs instead. I need to know the cost of fixing the sound.
+- [11] **Daisuke**: @Shion, that sounds good. I’ll take the invoices for outside hire and the partition wall. I need to see the numbers and the sound issue.
+- [12] **Rin**: @Daisuke, wait! I already picked the tally and the fridge. I can’t change my mind. I’m too curious about the messy fridge!
+- [13] **Servas**: @Rin, your curiosity is welcome. I will look into the unplanned talk and where the last awkward conversation happened.
+- [14] **Toshio**: @Rin, noted. I will stick to the facilities callouts and the lunch round trip. I need to see where the time actually goes.
+- [15] **Shion**: @Toshio, your lunch trip is a waste of time. I’ll check the partition wall and the quotes. I need to know if we can actually fix the noise.
+- [16] **Daisuke**: @Shion, I’m sorry, I already claimed the partition wall. I’ll keep the invoices and the wall. I need to see the numbers and the sound issue.
+- [17] **Rin**: @Shion, you can’t have the wall! Daisuke already took it. I’m sticking with my tally and the fridge. I really want to see who is using the room the most!
+- [18] **Servas**: @Shion, the wall is already claimed. I will look into the unplanned talk and where the last awkward conversation happened.
+- [19] **Toshio**: @Shion, the wall is taken. I will check the facilities callouts and the lunch round trip. I need to see where the time actually goes.
+- [20] **Shion**: Fine. I will look into the quotes for the fit-outs and the crumbs at the desks. I need to know the cost and the mess.
+- [21] **Daisuke**: I will look into the invoices for outside hire and the partition wall. I need to see the numbers and the sound issue.
+- [22] **Rin**: I’m keeping my tally and the fridge! I really want to see who uses it the most and what was in that messy fridge.
+- [23] **Servas**: I will look into the unplanned talk since the refit and where the last awkward conversation happened. I need to understand our isolation.
+- [24] **Toshio**: I will check the facilities callouts and the lunch round trip. I need to see where the time actually goes.
+## Round 2
+- [35] **Shion**: The quotes are in. Meeting space costs 141,000 yen. Kitchen is 96,000. The crumbs are under three keyboards. We are eating at our desks.
+- [36] **Daisuke**: I found the invoices. We paid 68,000 yen for nine small bookings. The wall is just plasterboard; sound travels easily.
+- [37] **Rin**: I found the tally! The two people nearest the door used it eleven times, but everyone else only four. And the fridge? Half the food was nobody’s!
+- [38] **Servas**: I found that our unplanned talk now happens only by the printer, and the last difficult conversation was forced across open desks, leaving silence for weeks.
+- [39] **Toshio**: Eleven callouts for equipment rooms, zero for the empty one. The lunch trip is twenty-five minutes, three days a week. That is a lot of lost time.
+- [40] **Shion**: @Daisuke, the wall is useless. Sound travels. @Toshio, twenty-five minutes is a waste. We need a decision.
+- [41] **Daisuke**: @Shion, I agree. The wall is thin. But look at the invoices. We paid 68,000 yen for small groups. We need to see the full cost before deciding.
+- [42] **Rin**: @Shion, the fridge was a mess! Half the food was nobody’s, and one person cleaned it twice. We need rules so that doesn’t happen again!
+- [43] **Servas**: @Rin, that silence after the open confrontation was painful. We need a place where difficult words can be spoken without an audience.
+- [44] **Toshio**: @Servas, the silence is a symptom. The callouts show equipment fails, not people. I need to know if the hours spent fixing things outweigh the hours lost to walking.
+- [45] **Shion**: @Servas, a quiet room costs nothing. The kitchen is 96,000 yen. The meeting space is 141,000. We cannot afford the noise.
+- [46] **Daisuke**: @Shion, the quiet room costs nothing, but we are already paying 68,000 yen for outside hire. I need to see if that stops if we fix this.
+- [47] **Rin**: @Servas, I agree! We need a place to talk without everyone staring. But @Shion, the kitchen is cheaper! Can we just eat there?
+- [48] **Servas**: @Rin, a kitchen invites noise, not the quiet needed for difficult truths. We must choose a space that protects our dignity, not just our appetites.
+- [49] **Toshio**: @Servas, the callouts prove equipment fails, not people. The lunch trip is twenty-five minutes, three days a week. That is a lot of lost time.
+- [50] **Shion**: @Rin, the kitchen is cheaper, but the crumbs prove we already eat at our desks. We need a place to talk, not just eat.
+- [51] **Daisuke**: @Shion, I agree. But the invoices show we are already paying 68,000 yen. I need to know if that stops before we commit to anything else.
+- [52] **Rin**: @Servas, I agree! A quiet room means no one has to clean up after strangers. But @Shion, the kitchen is cheaper! Can we just eat there?
+- [53] **Servas**: @Rin, a kitchen invites noise, not the quiet needed for difficult truths. We must choose a space that protects our dignity, not just our appetites.
+- [54] **Toshio**: @Daisuke, the invoices show money leaving. The callouts show time leaving. I need to know which loss is heavier before we vote.
+## Round 3
+- [60] **Shion**: @Servas, you want dignity. @Rin, you want rules. Option C costs nothing and stops the noise. I vote C.
+- [61] **Daisuke**: @Shion, I agree. The wall is thin, so C stops the noise. But I need to know if the 68,000 yen outside hire stops. I vote C.
+- [62] **Rin**: @Servas, I agree! A quiet room means no one has to clean up after strangers. But @Shion, the kitchen is cheaper! Can we just eat there?
+- [63] **Servas**: @Rin, the kitchen is cheaper, but it invites noise. We need a place for difficult truths, not just food. I vote C.
+- [64] **Toshio**: @Daisuke, the invoices show money leaving. The callouts show time leaving. I need to know which loss is heavier before we vote.
+- [65] **Shion**: @Toshio, the math is simple. C costs zero. A costs 96,000. B costs 141,000. We are not buying a kitchen. I vote C.
+- [66] **Daisuke**: @Toshio, I understand the time cost. But the invoices show we are already paying 68,000 yen. C stops the noise and the outside hire. I vote C.
+- [67] **Rin**: @Toshio, I get it, but the fridge mess was awful! A quiet room means no cleaning up after strangers. I vote C!
+- [68] **Servas**: @Toshio, the hours lost to walking are real, but the silence after a public confrontation costs more. A quiet room protects that dignity. I vote C.
+- [69] **Toshio**: @Shion, the callouts show equipment fails, not people. The lunch trip is twenty-five minutes, three days a week. That is a lot of lost time.
+- [70] **Shion**: @Toshio, the lunch trip is a symptom of the mess. C stops the noise and the crumbs. I vote C.
+- [71] **Daisuke**: @Toshio, I hear you. But the invoices show we are already paying 68,000 yen. C stops the noise and the outside hire. I vote C.
+- [72] **Rin**: @Toshio, I know the lunch trip is long, but the fridge mess was awful! A quiet room means no cleaning up after strangers. I vote C!
+- [73] **Servas**: @Toshio, the walking is a symptom of our isolation. A quiet room offers the dignity we lack. I vote C.
+- [74] **Toshio**: @Shion, the lunch trip is a symptom of the mess. C stops the noise and the crumbs. I vote C.
+- [75] **Shion**: The vote is unanimous. Option C, the Quiet Room, is adopted. We are done here.
+- [76] **Daisuke**: I... I agree. C is the right choice. I hope the 68,000 yen stops now. Thank you all.
+- [77] **Rin**: I vote C! A quiet room means no messy fridges and no loud noise. I am so happy we finally decided!
+- [78] **Servas**: I am glad we found our way to this. May the quiet room bring us the peace and understanding we have been missing.
+- [79] **Toshio**: The hours are accounted for. The noise is contained. I accept the quiet room.
+### Vote
+- Shion -> C
+- Daisuke -> C
+- Rin -> C
+- Servas -> C
+- Toshio -> C
+## Result
+- adopted: C

@@ -1,0 +1,73 @@
+# candidate_selection_0010__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Daisuke**: I worry we focus on impressive ideas, not the small daily losses. I want to see the incident logs.
+- [6] **May**: I’m curious about the people actually doing the work. Let’s check the staffing of the coordination group to see who’s really carrying the load.
+- [7] **Shunichi**: I’m tired of promising dates based on hope. Let’s check network coverage at customer plants to see if we can actually access the sites.
+- [8] **Ryuji**: I need to know where the money actually comes from. Let’s examine the capital budget and software allowance to see the real constraints.
+- [9] **Kenji**: I’m worried we keep repeating the same mistakes! Let’s check the outcomes of the last three internal rollouts to see what actually survived.
+- [10] **Daisuke**: I’m still thinking about the incident logs. Maybe I should also look at how much time we lose copying records.
+- [11] **May**: @Daisuke, copying records is a symptom of poor staffing. I’ll stick with the coordination group and check in-house developer availability to see who’s actually free.
+- [12] **Shunichi**: @May, developer availability is internal. My concern is external access. I’ll check network coverage at customer plants and handling of vendor queries to verify our dependencies.
+- [13] **Ryuji**: @Shunichi, external access is vital, but internal funding is the root. I will examine the capital budget and software allowance to understand the true financial limits.
+- [14] **Kenji**: @Daisuke, I agree! I’ll check the outcomes of the last three internal rollouts and the record of cross-unit standardization efforts to find the pattern.
+- [15] **Daisuke**: @May, I think you’re right. I’ll look at the incident logs and the time lost to copying records.
+- [16] **May**: @Daisuke, I appreciate the focus on daily losses. I’ll stick with my two choices to understand the human cost better.
+- [17] **Shunichi**: @Ryuji, funding is necessary, but access is the bottleneck. I’ll stick with network coverage and vendor queries. Let’s see if the ground is solid.
+- [18] **Ryuji**: @Shunichi, I hear you. But without the budget, access is theoretical. I will examine the capital budget and software allowance to see the true financial limits.
+- [19] **Kenji**: @Ryuji, I hear you! But I need to see the pattern first. I’ll stick with my two choices to find what actually survives.
+- [20] **Daisuke**: @Kenji, I agree. I’ll stick with the incident logs and the time lost to copying records. Let’s see the real daily cost.
+- [21] **May**: @Kenji, I’m glad we’re aligned. I’ll stick with my two choices to see who’s actually left to do the work.
+- [22] **Shunichi**: @Kenji, patterns are useful, but I need to know if the ground is solid. I’ll stick with network coverage and vendor queries. Let’s verify the dependencies.
+- [23] **Ryuji**: @Kenji, I understand the value of history. But I must confirm the financial reality first. I will examine the capital budget and software allowance.
+- [24] **Kenji**: @Ryuji, I agree! History is the best teacher. I’ll stick with my two choices to see what actually survives.
+## Round 2
+- [35] **Daisuke**: The logs show eleven misrouted deliveries, all from duplicate addresses. We also lose an hour daily copying records.
+- [36] **May**: @Daisuke, that daily hour is a leak. My data is worse: two people write every log by hand, and our devs are locked until Q3.
+- [37] **Shunichi**: @May, your staffing crisis is real, but my data is worse. Half the plants lose coverage afternoons, and device approval took six weeks. We cannot build on sand.
+- [38] **Ryuji**: @Shunichi, access is critical, but my data shows the capital line is frozen. Only the recurring software allowance remains. We must fund within that narrow, recurring pocket.
+- [39] **Kenji**: @Ryuji, that’s a huge constraint! My data shows broad tools get dropped, but narrow ones survive. We must pick a tool for one specific trade, not everyone.
+- [40] **Daisuke**: @Kenji, that matches my logs. The duplicate addresses are a narrow, specific failure. A tool for one trade could fix that daily leak.
+- [41] **May**: @Daisuke, exactly. A narrow tool fixes the leak without demanding my two exhausted coordinators. We need something that runs itself, not another manual chore.
+- [42] **Shunichi**: @May, a self-running tool is useless if it can’t reach the site. My data proves half the plants are offline afternoons. We need a candidate that works offline or has a local cache.
+- [43] **Ryuji**: @Shunichi, offline capability is essential. But my data shows per-head licences climb with every department. We must avoid broad, multi-department tools to stay within the recurring allowance.
+- [44] **Kenji**: @Ryuji, you’re right! Broad tools cost too much. My data proves narrow tools survive. We need a specific, affordable fix that doesn’t need everyone’s attention.
+- [45] **Daisuke**: @Shunichi, I agree. The offline constraint is vital. My data shows the copying loss is local. A tool that works without constant connection would finally stop that daily hour.
+- [46] **May**: @Shunichi, offline is non-negotiable. My coordinators are drowning in manual logs. We need a tool that runs locally, so they don’t have to chase connectivity or copy data by hand.
+- [47] **Shunichi**: @May, precisely. If the signal dies, the tool must still function. I will verify if the vendor’s local cache handles the six-week approval lag.
+- [48] **Ryuji**: @Shunichi, the local cache is vital, but the cost structure is the final gate. Per-head pricing makes broad tools unaffordable. We need a fixed-fee, narrow solution.
+- [49] **Kenji**: @Ryuji, fixed-fee is perfect! My data shows narrow tools survive because they’re simple. A fixed-fee, offline tool for one trade is the only path that works for us all.
+- [50] **Daisuke**: @Kenji, I agree. A fixed-fee, offline tool for one trade fits our reality. It stops the daily copying without breaking the budget.
+- [51] **May**: @Kenji, I’m with you. A fixed-fee tool means no new heads to manage. My coordinators can finally breathe. Let’s pick the one that runs itself.
+- [52] **Shunichi**: @Kenji, I agree. A fixed-fee, offline tool respects the six-week approval lag. It’s the only option that doesn’t rely on external access we don’t control.
+- [53] **Ryuji**: @Kenji, I concur. Fixed-fee avoids the per-head trap. It fits the frozen capital line. We must choose the narrow, offline solution that respects our financial reality.
+- [54] **Kenji**: @Ryuji, I’m so happy we all agree! A fixed-fee, offline tool for one trade is the clear winner. It respects our budget and history. I vote for it!
+## Round 3
+- [60] **Daisuke**: @Kenji, Option C directly targets the duplicate addresses I found. It stops the misrouted deliveries at the source.
+- [61] **May**: @Daisuke, C is a data project, not a people project. It won’t save my coordinators from manual logs. I need a tool that runs itself, not another central hub to maintain.
+- [62] **Shunichi**: @May, C is a central repository. If half the plants are offline, your data never syncs. It’s a beautiful, useless monument to connectivity we don’t have.
+- [63] **Ryuji**: @Shunichi, C requires broad, multi-department adoption. Per-head licensing makes it unaffordable under the frozen capital line. We must avoid it.
+- [64] **Kenji**: @Ryuji, you’re right! C is too broad. My data shows broad tools get dropped. A is the narrow, offline tool for one trade that actually survives.
+- [65] **Daisuke**: @Kenji, I agree. A works offline, which is vital. It stops the daily copying at the source, unlike C.
+- [66] **May**: @Kenji, A is perfect. It runs locally, so my coordinators stop chasing connectivity. It’s a fixed-fee tool that finally lets them breathe.
+- [67] **Shunichi**: @Kenji, A is the only option that respects the six-week approval lag. It works offline, so we don’t gamble on external access. I vote for A.
+- [68] **Ryuji**: @Kenji, A is the only option that fits the recurring allowance. It avoids the per-head trap and works offline. I vote for A.
+- [69] **Kenji**: @Shunichi, I’m so happy we all agree! A is the narrow, offline tool that actually survives. It respects our history and budget. I vote for A!
+- [70] **Daisuke**: @Shunichi, I agree. A works offline and stops the daily copying. It respects our reality. I vote for A.
+- [71] **May**: @Daisuke, A is the only choice that respects my exhausted team. It runs locally, so no new heads to manage. I vote for A.
+- [72] **Shunichi**: @May, A is the only option that respects the six-week approval lag. It works offline, so we don’t gamble on external access. I vote for A.
+- [73] **Ryuji**: @May, A is the only option that fits the recurring allowance. It avoids the per-head trap and works offline. I vote for A.
+- [74] **Kenji**: @May, I agree! A is the narrow tool that survives. It respects our history and budget. I vote for A!
+- [75] **Daisuke**: @May, I confirm my vote for A. It addresses the daily losses I found. I am glad we found a path that works for everyone.
+- [76] **May**: @Daisuke, I confirm my vote for A. It’s the only choice that respects my exhausted team. Let’s finally give them a break.
+- [77] **Shunichi**: @Daisuke, I confirm my vote for A. It is the only option that respects the six-week approval lag and works offline. We do not gamble on access we do not control.
+- [78] **Ryuji**: @Daisuke, I confirm my vote for A. It fits the recurring allowance and avoids the per-head trap. The financial reality is respected.
+- [79] **Kenji**: @Daisuke, I confirm my vote for A. It is the narrow tool that actually survives. Our history proves it. Let’s move forward!
+### Vote
+- Daisuke -> A
+- May -> A
+- Shunichi -> A
+- Ryuji -> A
+- Kenji -> A
+## Result
+- adopted: A

@@ -1,0 +1,73 @@
+# shared_living_0005__single-batch (shared_living)
+
+## Round 1
+- [5] **Benjamin**: I am tired of calculating the cost of warmth before I even turn the dial.
+- [6] **Mio**: The monthly reconciliation is eating my evenings. I need to know how much time this actually takes.
+- [7] **Jonathan**: The current split was for three people. It feels arbitrary now that we are five.
+- [8] **Victoria**: I need to see the full year's data before I agree to any new structure.
+- [9] **Minato**: I worry that arguing about money is making us distant. I want to fix that.
+- [10] **Benjamin**: @Victoria, if we don't look at the winter peaks, we will be blindsided again.
+- [11] **Mio**: @Jonathan, I agree. The workload is the real issue, not just the math.
+- [12] **Jonathan**: @Mio, yes. I want to verify if the current split is actually fair.
+- [13] **Victoria**: @Benjamin, I am concerned about the upfront costs of changing the system.
+- [14] **Minato**: @Mio, I hope we can find a way that doesn't cause more tension.
+- [15] **Benjamin**: I will check the plug-in monitor readings to see who uses what.
+- [16] **Mio**: I will look at the monthly settle observed at another house.
+- [17] **Jonathan**: I will review the last twelve utility statements to see the variance.
+- [18] **Victoria**: I will check the electrician's quote for the rooms.
+- [19] **Minato**: I will look at the payment log for the last twelve months.
+- [20] **Benjamin**: Also, I will check the sunlight and heating need by room.
+- [21] **Mio**: And I will try the reconciliation template to see the effort involved.
+- [22] **Jonathan**: I will also check the settling up when the last rooms filled.
+- [23] **Victoria**: I will also check the winter habits at a house paying ahead.
+- [24] **Minato**: I will also check the kitchen notice about the cooler.
+## Round 2
+- [35] **Benjamin**: The monitor shows one room uses four times more than the others. That is a huge gap.
+- [36] **Mio**: The other house spent forty minutes just logging readings. That is a lot of time.
+- [37] **Jonathan**: The statements show February was 29,400 yen, but August was only 9,100. The swing is massive.
+- [38] **Victoria**: The electrician quoted 34,000 yen per room for meters. That is a significant upfront cost.
+- [39] **Minato**: The payment log shows three late payments, all after arguments. The tension is real.
+- [40] **Benjamin**: @Jonathan, that seasonal swing explains why the flat share feels unfair in winter.
+- [41] **Mio**: @Victoria, 34,000 yen per room is steep. Is it worth it to avoid the monthly hassle?
+- [42] **Jonathan**: @Benjamin, yes. The variance is too high for a simple split.
+- [43] **Victoria**: @Mio, I am hesitant. The upfront cost is high, but the winter bills are painful.
+- [44] **Minato**: @Mio, if it takes forty minutes, maybe we can automate it?
+- [45] **Benjamin**: The south rooms stay warm naturally. The north ones need heat from November.
+- [46] **Mio**: The template trial meant keying in every invoice manually. It is tedious.
+- [47] **Jonathan**: When the last rooms filled, it took three weeks to agree on the split.
+- [48] **Victoria**: At the other house, they just left the heater on. They didn't worry about the cost.
+- [49] **Minato**: The cooler notice stayed up all summer. People avoided using it to avoid arguments.
+- [50] **Benjamin**: @Victoria, if we pay a fixed rate, we might stop worrying about every switch.
+- [51] **Mio**: @Benjamin, but who does the annual reconciliation? It is a lot of work.
+- [52] **Jonathan**: @Mio, the work is the problem. We need a system that minimizes it.
+- [53] **Victoria**: @Jonathan, I see the logic. But the upfront cost for meters is high.
+- [54] **Minato**: @Victoria, I think fairness is more important than the upfront cost.
+## Round 3
+- [60] **Benjamin**: Option C, per-room metering, seems best. It accounts for the usage gap.
+- [61] **Mio**: Option B, seasonal fixed rate, might be easier. No monthly logging.
+- [62] **Jonathan**: Option A, flat share, is too simple. It ignores the seasonal variance.
+- [63] **Victoria**: Option C is expensive upfront. Option B is a compromise.
+- [64] **Minato**: Option C feels the most fair. I don't want to argue about who used more.
+- [65] **Benjamin**: @Mio, the annual reconciliation for B is a big job. I don't want to do that.
+- [66] **Mio**: @Benjamin, I agree. But C requires 34,000 yen per room. That is a lot.
+- [67] **Jonathan**: @Victoria, the upfront cost is high, but it solves the fairness issue.
+- [68] **Victoria**: @Jonathan, I am still worried about the cost. But the winter bills are worse.
+- [69] **Minato**: @Mio, I think we should invest in the meters. It will save us from fighting.
+- [70] **Benjamin**: Option C is the only one that reflects actual usage. I am leaning that way.
+- [71] **Mio**: Option B is less work, but the annual settle is a nightmare.
+- [72] **Jonathan**: Option C is the most logical. It ends the rumors about who is carrying whom.
+- [73] **Victoria**: Option C is expensive, but it is the most accurate. I can live with that.
+- [74] **Minato**: Option C makes me feel safe. I don't want to feel guilty about using the heater.
+- [75] **Benjamin**: I am voting for C.
+- [76] **Mio**: I am voting for C.
+- [77] **Jonathan**: I am voting for C.
+- [78] **Victoria**: I am voting for C.
+- [79] **Minato**: I am voting for C.
+### Vote
+- Benjamin -> C
+- Mio -> C
+- Jonathan -> C
+- Victoria -> C
+- Minato -> C
+## Result
+- adopted: C

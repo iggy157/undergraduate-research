@@ -1,0 +1,73 @@
+# candidate_selection_0012__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: I need to verify if our reported figures are actually checkable. I will examine independent checks on holdings' reported figures.
+- [6] **Jonathan**: I am worried about finding people. I will look into retained recruiters' placement times to see who we can hire.
+- [7] **Shizue**: I want to know if our past stories match reality. I will review the profile of the exits and the write-off.
+- [8] **Misaki**: I am concerned about our cash flow. I will examine reserve accounts and follow-on calls to see our obligations.
+- [9] **Shion**: I suspect external delays are the real issue. I will check security review time before first deployment.
+- [10] **Mizuki**: @Jonathan, hiring speed is vital, but I need to confirm if our data is real. I will also review independent checks on holdings' reported figures.
+- [11] **Jonathan**: @Mizuki, verifying data is smart. I will also examine the adviser bench and partner board seats to understand our governance depth.
+- [12] **Shizue**: @Misaki, cash flow is key. I will also look into account retention through price rises to see who actually stayed.
+- [13] **Misaki**: @Shizue, retention is good, but I need to know our borrowing capacity. I will examine terms of last winter's credit line.
+- [14] **Shion**: @Shizue, retention is a symptom. I need to isolate external friction. I will examine delivery records of two holdings.
+- [15] **Mizuki**: @Shion, external friction is critical. I will finalize my second choice: appraisal needs at the last audit to verify our valuation basis.
+- [16] **Jonathan**: @Mizuki, audit focus is sharp. I will stick with my two choices: recruiter times and the adviser bench. Let’s see who we can hire.
+- [17] **Shizue**: @Shion, delivery records reveal if bids were realistic. I will stick with my two choices: exit profile and retention data.
+- [18] **Misaki**: @Shion, delivery delays are external. I will stick with my two choices: reserve accounts and credit line terms.
+- [19] **Shion**: @Misaki, cash flow is king. I will stick with my two choices: security review time and delivery records.
+- [20] **Mizuki**: I will examine independent checks on holdings' reported figures and appraisal needs at the last audit.
+- [21] **Jonathan**: I will examine retained recruiters' placement times and adviser bench and partner board seats.
+- [22] **Shizue**: I will examine profile of the exits and the write-off and account retention through price rises.
+- [23] **Misaki**: I will examine reserve accounts and follow-on calls and terms of last winter's credit line.
+- [24] **Shion**: I will examine security review time before first deployment and delivery records of two holdings.
+## Round 2
+- [35] **Mizuki**: The software holdings report only their own dashboard figures. This opacity threatens our quarter-end reporting integrity.
+- [36] **Jonathan**: Recruiters fill support roles quickly, but never place shift supervisors or seasonal field crews in under four months.
+- [37] **Shizue**: Both profitable exits sold quiet back-office tooling. The write-off ran its own premises and paid hourly crews.
+- [38] **Misaki**: Follow-on calls are double the model, and our credit line ignores unbilled invoices. This is a cash trap.
+- [39] **Shion**: Deals with medical records averaged three quarters in security review. The rest averaged one. External friction is real.
+- [40] **Mizuki**: @Shion, security delays are external. My audit findings show hardware holdings require outside appraisals, adding six weeks.
+- [41] **Jonathan**: @Mizuki, that appraisal delay is a cash trap. My data shows we have no bench for field crews. We need software.
+- [42] **Shizue**: @Jonathan, exactly. My exit data proves back-office tools work. Let’s pick a company that doesn’t need seasonal staff.
+- [43] **Misaki**: @Shizue, I agree. My credit line data shows we can only borrow against stock, not subscriptions. We need immediate revenue.
+- [44] **Shion**: @Misaki, unbilled revenue is invisible to lenders. We need a candidate with immediate, billable cash flow to bypass the trap.
+- [45] **Mizuki**: @Shion, I concur. We must select a candidate whose reporting is transparent and independent, avoiding dashboard opacity.
+- [46] **Jonathan**: @Mizuki, transparency is non-negotiable. My recruiter data confirms we can’t hire field crews fast enough. We need pure software.
+- [47] **Shizue**: @Jonathan, pure software aligns with my retention data. We need transparent reporting and sticky users. Avoid hardware.
+- [48] **Misaki**: @Shizue, retention is good, but cash flow is king. If follow-on calls double, we need a company with immediate revenue.
+- [49] **Shion**: @Misaki, steady cash flow bypasses the credit line trap. I concur. We need a back-office tool with immediate, billable revenue.
+- [50] **Mizuki**: @All, we must choose a candidate with transparent, independent reporting to protect our quarter-end integrity.
+- [51] **Jonathan**: @All, we need a company that doesn’t need seasonal field crews. My recruiters can handle support roles easily.
+- [52] **Shizue**: @All, let’s pick a company with steady, billable revenue and no seasonal hiring headaches.
+- [53] **Misaki**: @All, we need immediate, billable cash flow to cover doubled follow-on calls. Avoid hardware to prevent appraisal delays.
+- [54] **Shion**: @All, we need a back-office tool that fits our profile. Let’s see the candidates.
+## Round 3
+- [60] **Mizuki**: Clinic Scheduler handles medical records, triggering long security reviews. Ledger Bridge offers transparent, independent data.
+- [61] **Jonathan**: Ledger Bridge is perfect! It’s pure software, so no seasonal field crews to hire. My recruiters can handle the support roles easily.
+- [62] **Shizue**: Ledger Bridge aligns with my exit data. Quiet back-office tooling is what sold. Fabric Loop runs its own premises, a trap.
+- [63] **Misaki**: Ledger Bridge’s billable SaaS model fits our cash needs. It avoids hardware appraisal delays and provides immediate revenue.
+- [64] **Shion**: Ledger Bridge avoids the medical security bottleneck. Its billable model bypasses the credit line trap. I vote for Ledger Bridge.
+- [65] **Mizuki**: @Shion, I agree. Ledger Bridge provides the transparent, independent reporting we need. It avoids hardware appraisal delays.
+- [66] **Jonathan**: @Shion, I concur. Ledger Bridge means no seasonal hiring headaches for me. I’m voting for it too!
+- [67] **Shizue**: @Shion, I agree. Ledger Bridge is the only choice that benefits the whole campus, unlike single-wing projects.
+- [68] **Misaki**: @Shion, I agree. Ledger Bridge’s billable model secures our cash flow. I vote for Ledger Bridge.
+- [69] **Shion**: @All, the data is unanimous. Ledger Bridge is the only rational choice. I vote for Ledger Bridge.
+- [70] **Mizuki**: @All, unity is efficient. Ledger Bridge’s independent data aligns with my retention findings. I confirm my vote for Ledger Bridge.
+- [71] **Jonathan**: @All, I’m so happy we agree! Ledger Bridge is the clear winner. I confirm my vote for it!
+- [72] **Shizue**: @All, consensus is final. Ledger Bridge is selected. Its billable revenue secures our position against the doubled follow-on calls.
+- [73] **Misaki**: @All, consensus is final. Ledger Bridge is selected. Its billable model bypasses the credit line trap. Proceed.
+- [74] **Shion**: @All, consensus is final. Ledger Bridge is selected. Its billable model bypasses the credit line trap. The external friction is minimized.
+- [75] **Mizuki**: @All, our consensus is complete. Ledger Bridge is selected. Its transparency will safeguard our quarter-end integrity.
+- [76] **Jonathan**: @All, I confirm my vote for Ledger Bridge. Its billable model bypasses the credit line trap.
+- [77] **Shizue**: @All, I confirm my vote for Ledger Bridge. Its billable revenue secures our position against the doubled follow-on calls.
+- [78] **Misaki**: @All, I confirm my vote for Ledger Bridge. Its billable model bypasses the credit line trap.
+- [79] **Shion**: @All, I confirm my vote for Ledger Bridge. Its billable model bypasses the credit line trap.
+### Vote
+- Mizuki -> B
+- Jonathan -> B
+- Shizue -> B
+- Misaki -> B
+- Shion -> B
+## Result
+- adopted: B

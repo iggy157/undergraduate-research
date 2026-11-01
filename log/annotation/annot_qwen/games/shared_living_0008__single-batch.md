@@ -1,0 +1,73 @@
+# shared_living_0008__single-batch (shared_living)
+
+## Round 1
+- [5] **May**: We need to stop guessing who uses this room. I want hard data on who is actually in there.
+- [6] **Misaki**: The noise is the real problem. I can hear every word from my desk. We need to check the walls.
+- [7] **Servas**: Before we spend money, we must understand the hidden costs. Who is paying for the upkeep right now?
+- [8] **Sakura**: I am worried about the monthly bills. We need to see the invoices for any outside help we hire.
+- [9] **Kenji**: It feels like we are strangers. I want to know where people actually talk when they need to say something hard.
+- [10] **May**: @Sakura, if we look at the invoices, we might see if we are overpaying for space we barely use.
+- [11] **Misaki**: @Servas, the wall is just plasterboard. I checked. Sound travels easily. We need to verify that.
+- [12] **Servas**: @May, the tally of use will show if one person is hogging the space. That is a fair start.
+- [13] **Sakura**: @Kenji, knowing where awkward talks happen might help us design a space that feels safer for those moments.
+- [14] **Kenji**: @Misaki, if the wall is thin, maybe a quiet room is the only way to stop the complaints.
+- [15] **May**: I will look at the tally of use. It tells us who needs it most.
+- [16] **Misaki**: I will check the partition wall. If it is thin, we know we need soundproofing or a different use.
+- [17] **Servas**: I will look at the facilities callouts. If the equipment breaks often, that is a hidden cost.
+- [18] **Sakura**: I will check the invoices for outside hire. We need to know what we are already paying.
+- [19] **Kenji**: I will look at where the last awkward conversation happened. It shows us what we are missing.
+- [20] **May**: Agreed. Let's see the numbers.
+- [21] **Misaki**: The wall check is quick. I will do it.
+- [22] **Servas**: The callouts will reveal the maintenance burden.
+- [23] **Sakura**: The invoices are essential for the budget.
+- [24] **Kenji**: The location of that talk is a clue to our social gap.
+## Round 2
+- [35] **May**: The tally shows the two people nearest the door used it eleven times. The rest of us only four.
+- [36] **Misaki**: The wall is single plasterboard. I could hear a phone call clearly from my desk. It is not private.
+- [37] **Servas**: Facilities logged eleven callouts for equipment. The empty store room had zero. The equipment is the problem.
+- [38] **Sakura**: We paid 68,000 yen last year for outside hire. The quotes for fit-outs are 141,000 and 96,000.
+- [39] **Kenji**: The last awkward talk happened across the desks, in front of everyone. We have no private space for hard things.
+- [40] **May**: @Misaki, if the wall is that thin, a quiet room might just move the noise problem to the office.
+- [41] **Misaki**: @May, exactly. But if we make it a meeting space, we can book it and control who is in there.
+- [42] **Servas**: @Sakura, the 141,000 quote is for the screen and table. That is for meetings. The 96,000 is for the kitchen.
+- [43] **Sakura**: @Servas, the kitchen quote is cheaper, but the maintenance might be higher. The invoices show we already pay for outside space.
+- [44] **Kenji**: @Misaki, if we make it a meeting space, we can have those awkward talks there, not in the open.
+- [45] **May**: The crumbs under the keyboards are bad. If we make it a kitchen, we need to clean up properly.
+- [46] **Misaki**: The unplanned talk only happens by the printer now. We need a dedicated space for real conversations.
+- [47] **Servas**: The callouts suggest the equipment is unreliable. A meeting space with a screen might be less prone to breakdowns than a kitchen.
+- [48] **Sakura**: The invoices show we are paying for space we don't use well. A meeting space could be booked and used efficiently.
+- [49] **Kenji**: A meeting space gives us a place to talk without the whole office listening. That is what we need.
+- [50] **May**: I am leaning towards a meeting space. It solves the privacy issue and the usage imbalance.
+- [51] **Misaki**: I agree. A quiet room is too restrictive. A meeting space is flexible.
+- [52] **Servas**: The cost is higher, but the reliability is better. I support the meeting space.
+- [53] **Sakura**: The budget is tight, but the meeting space is the most efficient use of the room. I support it.
+- [54] **Kenji**: It gives us a place to be honest with each other. I support the meeting space.
+## Round 3
+- [60] **May**: Option C, Meeting Space, seems to address the privacy and usage issues best.
+- [61] **Misaki**: The wall is thin, so a quiet room is risky. A meeting space with a booking system controls access.
+- [62] **Servas**: The equipment callouts are a concern, but a simple table and screen are less complex than a kitchen.
+- [63] **Sakura**: The 141,000 yen quote is significant, but it is a one-time cost. The monthly savings from not hiring outside space could offset it.
+- [64] **Kenji**: A meeting space allows for the difficult conversations we need to have, without the audience.
+- [65] **May**: @Sakura, do you think the 141,000 is worth it compared to the 96,000 for the kitchen?
+- [66] **Misaki**: @Kenji, do you think a meeting space will actually encourage those hard talks?
+- [67] **Servas**: The meeting space is the most logical choice. It balances cost, utility, and social need.
+- [68] **Sakura**: @May, the kitchen has higher maintenance risks. The meeting space is more durable. I think it is worth it.
+- [69] **Kenji**: @Misaki, yes. It gives us a neutral, private ground. It is better than the open office.
+- [70] **May**: I am voting for C.
+- [71] **Misaki**: I am voting for C.
+- [72] **Servas**: I am voting for C.
+- [73] **Sakura**: I am voting for C.
+- [74] **Kenji**: I am voting for C.
+- [75] **May**: It seems we are all in agreement.
+- [76] **Misaki**: Yes, the data supports it.
+- [77] **Servas**: A wise decision.
+- [78] **Sakura**: Let's hope the budget holds.
+- [79] **Kenji**: I look forward to using it.
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

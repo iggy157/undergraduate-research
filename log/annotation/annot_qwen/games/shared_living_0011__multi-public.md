@@ -1,0 +1,73 @@
+# shared_living_0011__multi-public (shared_living)
+
+## Round 1
+- [5] **Ryuji**: We need to verify the actual costs before committing. Last year’s deficit is still unresolved.
+- [6] **Toshio**: Agreed. But cost is only half the problem. Last year’s organizers burned out completely. We need a plan that doesn’t destroy the people running it.
+- [7] **Minako**: The destination dictates who interacts with whom. Last year’s isolation between year-groups was a failure. We need a setting that forces evening contact.
+- [8] **Jonathan**: I need to understand the sleep and daily rhythm. Last camp’s poor rest ruined our final sessions.
+- [9] **Asuka**: A flat fee hides individual spending. If someone cancels late, who covers the gap? We need clear liability terms before booking anything.
+- [10] **Ryuji**: @Toshio, your point on organizer burnout is valid. We must ensure the logistics do not consume the camp itself.
+- [11] **Toshio**: @Ryuji, exactly. If the logistics eat the training, we fail. I need to see how much time the setup actually demands.
+- [12] **Minako**: @Toshio, I agree. But logistics are secondary to the social structure. If we don't fix the year-group isolation, the camp fails its primary purpose.
+- [13] **Jonathan**: @Minako, I hear you, but a forced social structure is useless if everyone is exhausted. I need to know the actual sleep conditions first.
+- [14] **Asuka**: @Jonathan, exhaustion is a symptom, not the cause. I need to know the financial liability if someone drops out. Who pays the deposit?
+- [15] **Ryuji**: @Asuka, liability is critical. I will investigate the transport receipts to see where the money actually went.
+- [16] **Toshio**: @Ryuji, I will check the canteen closure and last year's cooking duty. I need to know if we can avoid that time drain.
+- [17] **Minako**: @Ryuji, I will check the seniors' views on year-group mixing and the attendance sheets. I need to know if shared sleeping actually drives interaction and who stays.
+- [18] **Jonathan**: @Ryuji, I will look into the prefecture rate sheet and the accounts from clubs that went inland. I need to know the true cost and the actual sleeping conditions.
+- [19] **Asuka**: @Ryuji, I will check the quoting terms for whole-building lets and the membership list against first-train times. I need to know the cancellation risk and who can actually attend.
+- [20] **Ryuji**: @Toshio, your cooking duty check is essential. I will review the transport receipts and the prefecture rate sheet to pin down the exact financial exposure.
+- [21] **Toshio**: @Ryuji, noted. I will also review the lottery application process. I need to know if a date shift forces a full resubmission, which would be a logistical nightmare.
+- [22] **Minako**: @Ryuji, I will check the seniors' views on year-group mixing and the attendance sheets. I need to know if shared sleeping actually drives interaction and who stays.
+- [23] **Jonathan**: @Ryuji, I will check the prefecture rate sheet and the accounts from clubs that went inland. I need to know the true cost and the actual sleeping conditions.
+- [24] **Asuka**: @Ryuji, I will check the quoting terms for whole-building lets and the membership list against first-train times. I need to know the cancellation risk and who can actually attend.
+## Round 2
+- [35] **Ryuji**: The transport receipts show distance drives cost. The rate sheet confirms public beds are fixed at 1,100 yen. We need to control travel distance to stop the deficit.
+- [36] **Toshio**: The canteen closure means two hours daily lost to cooking. A place with staff solves that. But the lottery is a trap; one date shift means resubmitting nine pages.
+- [37] **Minako**: The seniors confirm mixing only happens when we sleep together. But attendance shows a fifth never came, and most dropped out by winter.
+- [38] **Jonathan**: Eight to a room, lights out at eleven. That explains the exhaustion. I need to know if the coastal option offers better rest.
+- [39] **Asuka**: The deposit is non-refundable. If someone cancels, the rest of us pay for their empty bed. That is an unacceptable financial risk.
+- [40] **Ryuji**: @Asuka, that non-refundable deposit is a direct threat to our account. We must avoid options with rigid headcount penalties.
+- [41] **Toshio**: @Ryuji, agreed. But the lottery’s rigidity is worse. If we pick a public centre, one schedule change forces a nine-page resubmission. That is pure administrative waste.
+- [42] **Minako**: @Toshio, the lottery risk is real, but the attendance data is worse. A fifth never came, and most left by winter. We need a setting that keeps them engaged, not just a booking.
+- [43] **Jonathan**: @Minako, the attendance drop is concerning, but eight to a room is a physical barrier to rest. I cannot train effectively in those conditions.
+- [44] **Asuka**: @Ryuji, the deposit risk is real, but the train data is worse. A third cannot arrive by nine without paying for a bed. We need a location that solves both.
+- [45] **Ryuji**: @Asuka, the train data confirms the risk. If a third need beds, our fixed fee model collapses. We must price the actual accommodation, not just the camp.
+- [46] **Toshio**: @Ryuji, the cooking duty is solved by staff, but the lottery is a trap. One date shift means resubmitting nine pages. That administrative burden is unacceptable for the organizers.
+- [47] **Minako**: @Jonathan, eight to a room is unacceptable. But the seniors are right: mixing only happens when we sleep together. We need a place that allows shared space without the overcrowding.
+- [48] **Jonathan**: @Minako, shared space is vital, but eight to a room is a health hazard. I need a setting that guarantees adequate rest before we discuss social dynamics.
+- [49] **Asuka**: @Ryuji, the train data confirms the risk. If a third need beds, our fixed fee model collapses. We must price the actual accommodation, not just the camp.
+- [50] **Ryuji**: @Toshio, the lottery risk is severe. We must avoid public centres where a single date shift triggers a nine-page resubmission. That administrative burden is unacceptable.
+- [51] **Toshio**: @Ryuji, precisely. The administrative burden is the real killer. I will not spend a month on paperwork. We need a venue where the logistics are handled, not by us.
+- [52] **Minako**: @Toshio, I agree. But the attendance data is the real crisis. A fifth never came, and most left by winter. We need a setting that keeps them engaged, not just a booking.
+- [53] **Jonathan**: @Toshio, I agree. The administrative burden is unacceptable. But the physical conditions are equally critical. I cannot accept eight to a room. We need a venue that guarantees adequate rest.
+- [54] **Asuka**: @Ryuji, the train data confirms the risk. If a third need beds, our fixed fee model collapses. We must price the actual accommodation, not just the camp.
+## Round 3
+- [60] **Ryuji**: The public centre is ruled out. The lottery risk and overcrowding are unacceptable. We must choose between the lodge and campus.
+- [61] **Toshio**: The public centre is a trap. The lottery and overcrowding are unacceptable. We must choose between the lodge and campus.
+- [62] **Minako**: The seniors confirm mixing requires shared sleeping. The lodge offers that. The campus timetable splits training, killing evening contact. I support the lodge.
+- [63] **Jonathan**: Eight to a room is unacceptable. The lodge offers private space and staffed meals, solving my rest concerns. I support the lodge.
+- [64] **Asuka**: The lodge's non-refundable deposit is a financial disaster. If a third of members cancel, we absorb the cost. I cannot support this risk.
+- [65] **Ryuji**: @Asuka, the deposit risk is real, but the transport data shows distance drives cost. The lodge’s fixed rate is predictable. We must control the headcount to manage the liability.
+- [66] **Toshio**: @Asuka, the deposit risk is real, but the lottery is worse. One date shift means resubmitting nine pages. That administrative burden is unacceptable for the organizers.
+- [67] **Minako**: @Asuka, the deposit risk is manageable if we cap attendance. The seniors confirm mixing only happens when we sleep together. The lodge is the only option that forces that contact.
+- [68] **Jonathan**: @Asuka, the deposit risk is real, but the physical conditions are non-negotiable. I cannot accept eight to a room. The lodge guarantees adequate rest, which is essential for effective training.
+- [69] **Asuka**: @Minako, capping attendance ignores the train data. A third need beds, so the campus option is equally risky. I need a refundable structure, not a fixed deposit.
+- [70] **Ryuji**: @Asuka, the campus option splits training, destroying the camp's purpose. The lodge's fixed cost is predictable. We must accept the deposit risk to ensure the event actually happens.
+- [71] **Toshio**: @Asuka, the campus timetable splits training, killing the camp. The lodge’s staff handle logistics, saving us from burnout. The deposit risk is manageable; the administrative burden is not.
+- [72] **Minako**: @Asuka, the attendance data proves the lodge is the only way to retain members. The campus option guarantees isolation and dropout. We must accept the financial risk to save the club.
+- [73] **Jonathan**: @Asuka, the deposit risk is real, but the physical conditions are non-negotiable. I cannot accept eight to a room. The lodge guarantees adequate rest, which is essential for effective training.
+- [74] **Asuka**: @Ryuji, the campus timetable splits training, destroying the camp's purpose. The lodge's fixed cost is predictable. We must accept the deposit risk to ensure the event actually happens.
+- [75] **Ryuji**: @Asuka, the campus option is financially and logistically unviable. The lodge is the only choice that preserves the camp's integrity. I vote for the Coastal Lodge.
+- [76] **Toshio**: @Asuka, the deposit risk is manageable. The administrative burden of the public centre is not. I vote for the Coastal Lodge.
+- [77] **Minako**: @Asuka, the attendance data is undeniable. A fifth never came, and most left by winter. The lodge is the only setting that forces the shared evenings the seniors say drive retention. I vote for the Coastal Lodge.
+- [78] **Jonathan**: @Asuka, the physical conditions are non-negotiable. I cannot accept eight to a room. The lodge guarantees adequate rest, which is essential for effective training. I vote for the Coastal Lodge.
+- [79] **Asuka**: @Ryuji, the deposit risk is real, but the campus timetable splits training, destroying the camp's purpose. The lodge's fixed cost is predictable. We must accept the deposit risk to ensure the event actually happens. I vote for the Coastal Lodge.
+### Vote
+- Ryuji -> A
+- Toshio -> A
+- Minako -> A
+- Jonathan -> A
+- Asuka -> A
+## Result
+- adopted: A

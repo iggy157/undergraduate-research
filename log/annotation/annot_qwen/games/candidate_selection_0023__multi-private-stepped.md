@@ -1,0 +1,73 @@
+# candidate_selection_0023__multi-private-stepped (candidate_selection)
+
+## Round 1
+- [5] **Mizuki**: We need to verify if past projects actually met user expectations before approving new ones.
+- [6] **Victoria**: I am concerned about how much disruption the construction causes to daily academic schedules.
+- [7] **Benjamin**: The calendar is already tight; I worry about how many weeks we actually have left.
+- [8] **Kenji**: I want to know if the prices we agreed on are still realistic today.
+- [9] **Shunichi**: Who is left to maintain this once the contractors finally leave the site?
+- [10] **Mizuki**: @Kenji, price stability is vital, but we must also check if the facilities were actually used.
+- [11] **Victoria**: @Shunichi, staffing levels have dropped significantly since the freeze, which complicates maintenance.
+- [12] **Benjamin**: @Mizuki, usage data is good, but I need to see how long rooms were out of service.
+- [13] **Kenji**: @Victoria, if we cannot afford the upkeep, the initial savings are meaningless to me.
+- [14] **Shunichi**: @Benjamin, out-of-service time is a symptom, not the cause. The cause is the lack of hands.
+- [15] **Mizuki**: I will look into post-occupancy reviews to see what users actually thought of the last builds.
+- [16] **Victoria**: I need to check the timetable records to quantify the exact loss of teaching time.
+- [17] **Benjamin**: I will examine the weather days in the site diaries to understand external delays.
+- [18] **Kenji**: I will check the tender records to see if the budget figures have drifted.
+- [19] **Shunichi**: I will look at staffing posts and the bench technicians' routines to see the real load.
+- [20] **Mizuki**: Let us gather these facts before we commit to a single plan.
+- [21] **Victoria**: Agreed. Data on disruption is essential for a fair comparison.
+- [22] **Benjamin**: I hope the diaries show more than just rain; I suspect systemic slippage.
+- [23] **Kenji**: I am worried the paper numbers are already outdated by the time we vote.
+- [24] **Shunichi**: If the staff are already drowning, adding more maintenance is a recipe for failure.
+## Round 2
+- [35] **Mizuki**: The reviews show that shared spaces are rated much higher than isolated ones.
+- [36] **Victoria**: The timetable data is alarming; we lost forty hours of teaching time to construction noise.
+- [37] **Benjamin**: The diaries confirm six weeks lost to weather, and the rooms were out of service for two terms.
+- [38] **Kenji**: The tender records show plant costs have jumped twenty percent, but the reviews say shared spaces are loved.
+- [39] **Shunichi**: The technicians have spare hours, but the manual routines are eating them up. We can shift that load.
+- [40] **Mizuki**: @Kenji, if the shared spaces are rated well, we should prioritize a plan that opens up the older blocks.
+- [41] **Victoria**: @Mizuki, but the booking data shows specialist rooms are barely used. We are paying for empty space.
+- [42] **Benjamin**: @Victoria, the specialist rooms are empty because the staff are too busy with manual routines to book them.
+- [43] **Kenji**: @Shunichi, if we can free up the technicians, we can afford the higher plant costs without breaking the budget.
+- [44] **Shunichi**: @Benjamin, exactly. The manual routines are the bottleneck. If we automate the checks, the staff can handle the new plan.
+- [45] **Mizuki**: The survey findings in the older blocks are worrying. Hazardous material behind partitions means delays.
+- [46] **Victoria**: The booking data confirms the specialist rooms are underutilized. We should not build more of them.
+- [47] **Benjamin**: The decade of delivery schedules shows that projects with clear rationale finish on time. The others slip.
+- [48] **Kenji**: The renewal reserve for equipment bought earlier is empty. We have no buffer for the price jumps.
+- [49] **Shunichi**: The technicians are the key. If we automate the manual routines, we can handle the new plan without hiring.
+- [50] **Mizuki**: We need a plan that opens up the older blocks but avoids the hazardous material delays.
+- [51] **Victoria**: I agree. We should focus on general-purpose rooms, not specialist ones. The data is clear.
+- [52] **Benjamin**: The delivery schedules show that clear rationale is the only way to avoid slippage. We need a plan with a clear rationale.
+- [53] **Kenji**: The price jumps are real, but the shared spaces are worth it. We need a plan that balances cost and utility.
+- [54] **Shunichi**: The technicians can handle the new plan if we automate the manual routines. That is the only way to make it work.
+## Round 3
+- [60] **Mizuki**: Option A, the Central Study Commons, aligns with the high ratings for shared spaces.
+- [61] **Victoria**: The booking data supports Option A. General-purpose rooms are in high demand, while specialist rooms are idle.
+- [62] **Benjamin**: Option A has a clear rationale. The delivery schedules show that clear rationale prevents slippage.
+- [63] **Kenji**: Option A is affordable. The plant costs are lower than for a lab or media center, and the shared space is worth it.
+- [64] **Shunichi**: Option A is manageable. The technicians can handle the maintenance without the manual routines that plague the labs.
+- [65] **Mizuki**: @Victoria, the survey findings in the older blocks are a risk, but Option A avoids the hazardous material.
+- [66] **Victoria**: @Mizuki, exactly. Option A is in a newer block, so we avoid the delays from hazardous material.
+- [67] **Benjamin**: @Kenji, the price jumps are a concern, but Option A is the most cost-effective. The shared space is worth the investment.
+- [68] **Kenji**: @Shunichi, the technicians can handle the maintenance for Option A. The manual routines are not a bottleneck for a study commons.
+- [69] **Shunichi**: @Benjamin, Option A is the only plan that does not require new staff. The technicians can handle it with their spare hours.
+- [70] **Mizuki**: Option A is the best choice. It aligns with the data, the budget, and the staffing constraints.
+- [71] **Victoria**: I agree. Option A is the only plan that addresses the high demand for general-purpose rooms.
+- [72] **Benjamin**: Option A is the only plan with a clear rationale. The delivery schedules show that clear rationale prevents slippage.
+- [73] **Kenji**: Option A is the only plan that balances cost and utility. The shared space is worth the investment.
+- [74] **Shunichi**: Option A is the only plan that is manageable. The technicians can handle the maintenance without the manual routines.
+- [75] **Mizuki**: Let us vote for Option A. It is the best choice for the campus.
+- [76] **Victoria**: I will vote for Option A. The data supports it, and it addresses the high demand for general-purpose rooms.
+- [77] **Benjamin**: I will vote for Option A. It has a clear rationale, and the delivery schedules show that clear rationale prevents slippage.
+- [78] **Kenji**: I will vote for Option A. It balances cost and utility, and the shared space is worth the investment.
+- [79] **Shunichi**: I will vote for Option A. It is manageable, and the technicians can handle the maintenance without the manual routines.
+### Vote
+- Mizuki -> A
+- Victoria -> A
+- Benjamin -> A
+- Kenji -> A
+- Shunichi -> A
+## Result
+- adopted: A

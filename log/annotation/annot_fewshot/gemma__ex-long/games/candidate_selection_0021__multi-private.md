@@ -1,0 +1,73 @@
+# candidate_selection_0021__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Servas**: It is a pleasure to be with you all. Let us approach this selection with wisdom and a spirit of generosity toward the future of our science. I look forward to our deliberation.
+- [6] **Sakura**: Hi everyone! I'm so excited to be here! This sounds like a big adventure, and I can't wait to help pick a super cool project. Let's make it the best one ever!
+- [7] **Daisuke**: Hello... I'm happy to be here too. I hope we can find a project that... that really works out for the researchers. I'll do my best to help.
+- [8] **Takumi**: Let's get straight to it. We need to make sure we aren't just picking a project that looks good on paper, but one that can actually get finished without some random disaster stopping it.
+- [9] **Minako**: I agree with Takumi. A proposal's ambition is only as valuable as its feasibility. We should ensure that the infrastructure required to support the research is actually available and stable before we commit.
+- [10] **Servas**: Wisdom teaches us that the heart of any great endeavor is the people who carry it. I believe we must ensure the human element is secure before we commit our resources.
+- [11] **Sakura**: That's so true, Servas! People are the most important part! But I also wonder if the money actually goes where it's supposed to. I want to see if the researchers have enough for all their treats—I mean, tools!
+- [12] **Daisuke**: I... I agree that the people are important. But I'm worried that we might be too optimistic. I think it would be wise to see what actually happened with past projects.
+- [13] **Takumi**: Exactly. We can't just hope for the best. I want to know where the real bottlenecks are and what's actually causing delays in the field before we waste any more time.
+- [14] **Minako**: I believe we must look beyond the individual proposals. Since no project runs in isolation, we need to understand the current state of the shared services and facilities that these researchers will inevitably rely upon.
+- [15] **Servas**: It is a joy to see such thoughtful perspectives. Let us now decide which records will guide us. I shall look into the staffing rolls for technical posts and minutes on secondments and crew strength.
+- [16] **Sakura**: I'll go with the travel and bench-fee lines in the ledgers, and the national computing agreement and facility day rates! I want to see where the money goes and what's still free!
+- [17] **Daisuke**: I... I think I will look into the closeout files of finished awards and the portfolio review of schedule overruns. I want to see what actually delivered in the end.
+- [18] **Takumi**: I'll take the incident logs on shared instrumentation and the portfolio review of schedule overruns. I'm going to find out exactly what's been breaking and where the time is being wasted.
+- [19] **Minako**: I will examine the accreditation and bookings at shared facilities and the incident logs on shared instrumentation. I want to determine if the shared infrastructure can actually handle the load of a new project.
+- [20] **Servas**: It seems we have a balanced approach. By examining both the human spirit and the structural records, we shall find a path that ensures the grant flourishes. I wish you all clarity in your findings.
+- [21] **Sakura**: I'm ready! I'll be a little detective and find all the secrets in the ledgers! I can't wait to see what we all discover. See you soon, everyone!
+- [22] **Daisuke**: I... I hope the records give us a clear answer. I'll do my best to analyze them carefully. I look forward to hearing what everyone else finds.
+- [23] **Takumi**: I'm not interested in "clarity" or "secrets." I just want the facts. I'll find out where the system is failing so we don't make the same mistakes again. See you in the next round.
+- [24] **Minako**: I agree. A factual understanding of our current capacity is the only way to ensure a sustainable outcome. I look forward to reviewing the data with you all in the next round.
+## Round 2
+- [35] **Servas**: My findings remind us that while knowledge is eternal, the hands that apply it are transient. It appears we have a surplus of digital minds, but a scarcity of experienced phenotyping technicians.
+- [36] **Sakura**: Wow, that's a lot of big words, Servas! But I found some secrets too! It looks like computers are free, which is awesome, but animal costs went way up! Also, shipping is getting more expensive!
+- [37] **Daisuke**: I... I found something concerning. The records show that projects focused on specific mechanisms often leave their main questions unanswered, while catalogue-style projects provide lasting value for years. I'm worried we might pick something that sounds exciting but doesn't actually finish.
+- [38] **Takumi**: It's even worse than I thought. The spectroscopy suite was dead for eleven weeks just because of a contract mistake, and we're short on engineers. Plus, projects using breeding colonies are failing their schedules twice as often. We're gambling with time.
+- [39] **Minako**: My findings confirm Takumi's concerns. The shared spectroscopy suite's failure due to a lapsed contract is a systemic risk, and the glasshouse blocks are completely booked for two more cycles. We have a critical capacity bottleneck.
+- [40] **Servas**: It is a delicate balance we seek. We must find a project that possesses the theoretical ambition to inspire, yet the practical means to be realized without breaking the spirits of the researchers.
+- [41] **Sakura**: @Servas, that sounds so fancy! But if the animal costs are super high and shipping is expensive, the researchers might get sad because they can't afford everything. We have to make sure they have enough money for their work!
+- [42] **Daisuke**: @Sakura, I... I think you're right. If the costs are too high, it puts so much pressure on them. I'm just... I'm scared that if we pick a project that's too ambitious, it will just stall like others did in the past.
+- [43] **Takumi**: @Daisuke, being scared doesn't fix anything. We just have to be smart. If the equipment is breaking and the breeding colonies are a disaster, we can't pick a project that relies on them. We need something that actually works.
+- [44] **Minako**: @Takumi, I agree. We must be pragmatic. If the glasshouses are full and the instrumentation is unreliable, any project dependent on those specific resources is essentially stalled before it begins. We need a candidate that fits our actual capacity.
+- [45] **Servas**: It is heartening to see such honesty in our discourse. We must remember that a project is not merely a set of goals, but a living entity that breathes through the people and tools available to it.
+- [46] **Sakura**: @Minako, you're so right! It's like trying to bake a cake when the oven is broken and you've run out of eggs! We have to find a project that doesn't need the expensive animals or the full glasshouses!
+- [47] **Daisuke**: I... I think that's a good way to put it, Sakura. If we choose a project that relies on things we don't have, it's not fair to the researchers. I just want us to pick something that will actually succeed.
+- [48] **Takumi**: @Daisuke, it's not about being "fair," it's about not being stupid. We have the data now. If a project needs breeding colonies or that broken spectroscopy suite, it's a non-starter. We pick the one that avoids the traps.
+- [49] **Minako**: @Takumi, your focus on the data is correct. We must prioritize a proposal that avoids these systemic traps. A project that requires the glasshouses or the spectroscopy suite is a liability, not an opportunity, given the current state of our shared services.
+- [50] **Servas**: Let us carry this spirit of mindfulness into the final round. We shall seek a candidate that honors the vision of the science while respecting the reality of our people and their tools.
+- [51] **Sakura**: I'm totally ready! I'll be looking for a project that doesn't need those super expensive animals or the crowded glasshouses. Let's find a winner that can start right away without any money mysteries! See you all!
+- [52] **Daisuke**: I... I'll do my best to look for a project that is grounded. I hope we can find one that provides lasting value and doesn't just disappear into the records of unfinished work. See you in the next round.
+- [53] **Takumi**: I'm done with the talking. I'll be looking for the project that doesn't rely on breeding colonies or broken equipment. If it's a trap, I'm not voting for it. See you in the final round.
+- [54] **Minako**: I concur. I will be evaluating the candidates based on their operational requirements. The ideal project is one that can be executed without relying on the currently overcapacity or unstable shared facilities. I look forward to the final selection.
+## Round 3
+- [60] **Servas**: Looking at our candidates, the Microbiome Atlas seems most harmonious. It aligns with our need for lasting resources and avoids the scarcity of phenotyping technicians and the congestion of our glasshouses.
+- [61] **Sakura**: I agree with Servas! The Microbiome Atlas is the best because it doesn't need those super expensive animals or the crowded glasshouses. It's like a big puzzle that doesn't need a broken oven to finish!
+- [62] **Daisuke**: I... I agree. The Microbiome Atlas is a catalogue-style project, and my research showed those are the ones that actually provide lasting value. It seems much safer than the others... I think it's the right choice.
+- [63] **Takumi**: The Atlas is the only one that isn't a trap. Protein Folding needs that broken spectroscopy suite, and the others need breeding colonies or glasshouses. It's the only project that can actually get done.
+- [64] **Minako**: I agree. The Microbiome Atlas is the only viable option. It avoids the overcapacity of the glasshouses and the instability of the spectroscopy suite, ensuring the project won't be stalled by the systemic failures we identified.
+- [65] **Servas**: It is a rare and beautiful thing when we find such unity in our purpose. By choosing a path that respects both our limitations and our aspirations, we ensure the researchers can work with peace of mind.
+- [66] **Sakura**: It's so great that we all agree! It makes me feel all warm and fuzzy inside. Let's pick the Atlas so the researchers can have a super fun time without any money worries!
+- [67] **Daisuke**: I... I feel much better now that we're all in agreement. It's a relief to know we're choosing something that won't just stall. I really hope the Atlas brings a lot of value to everyone.
+- [68] **Takumi**: Stop with the "warm and fuzzy" stuff. We're agreeing because the other options are disasters waiting to happen. The Atlas is the only one that doesn't rely on a broken system. Let's just vote and be done with it.
+- [69] **Minako**: @Takumi, while your tone is blunt, your logic is sound. We have identified clear systemic risks that disqualify the other candidates. The Microbiome Atlas is the only proposal that is operationally sustainable given our current infrastructure.
+- [70] **Servas**: Indeed, Minako. When we align our vision with the reality of our capacities, we create a foundation for true success. I am ready to cast my vote for the Microbiome Atlas.
+- [71] **Sakura**: Me too! I'm super-duper ready! The Microbiome Atlas is the perfect choice because it's safe, smart, and won't make the researchers sad about their budgets. I vote for the Microbiome Atlas!
+- [72] **Daisuke**: I... I'm ready too. I feel confident that the Microbiome Atlas is the most responsible choice for the researchers and the science. I vote for the Microbiome Atlas.
+- [73] **Takumi**: I'm not waiting around. The data is clear and the other projects are just waste of time. I vote for the Microbiome Atlas.
+- [74] **Minako**: I concur. The evidence regarding shared facility capacity and instrumentation stability leaves no other rational choice. To ensure the project's success and the researchers' stability, I vote for the Microbiome Atlas.
+- [75] **Servas**: It has been a privilege to deliberate with you all. In this unity, we have found a path that honors both the science and the scientists. I am at peace with our decision.
+- [76] **Sakura**: This was so much fun! I'm really glad we could all agree and find a project that's actually going to work. Thanks for being so nice to me, everyone! Bye-bye!
+- [77] **Daisuke**: I... I'm really glad we could find a project that will actually succeed. Thank you for being so patient with me and for helping me feel more confident in this choice. Goodbye, everyone.
+- [78] **Takumi**: Finally. We stopped the bleeding and picked the only one that isn't a disaster. I'm glad we didn't let "ambition" blind us to the facts. See ya.
+- [79] **Minako**: It was a productive session. By grounding our decision in the reality of our shared infrastructure, we have ensured a sustainable outcome for the research. I am satisfied with our consensus. Farewell.
+### Vote
+- Servas -> A
+- Sakura -> A
+- Daisuke -> A
+- Takumi -> A
+- Minako -> A
+## Result
+- adopted: A

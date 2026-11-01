@@ -1,0 +1,73 @@
+# shared_living_0007__multi-private (shared_living)
+
+## Round 1
+- [5] **Misaki**: The spaces are tight. I worry about friction. Let’s look at the complaint log and the morning departures.
+- [6] **Shizue**: I agree, Misaki. The morning rush is indeed stressful. I’ll check the rain exposure and the sticker register to see who uses them daily.
+- [7] **May**: I’m curious about the money side. I’ll check the building account ledger and the treasurer’s handover file.
+- [8] **George**: I’ll examine the five years of minutes and the neighbouring block’s secretary account. We need to see how past duties actually collapsed.
+- [9] **Mio**: I’m worried about fairness! I’ll check the complaint log and the sticker register to see if the same people always grab the best spots.
+- [10] **Misaki**: @Shizue, the rain data might explain why people fight over the covered spots.
+- [11] **Shizue**: That is a very perceptive thought, Misaki. I hope the data shows us a fair way to share the shelter.
+- [12] **May**: @George, checking the minutes sounds tedious. I’m more interested in the actual cash flow. Did you find any hidden fees in the ledger?
+- [13] **George**: @May, I haven’t seen the ledger yet. I’m focused on the minutes to understand why previous duties quietly lapsed.
+- [14] **Mio**: @May, I hope the ledger shows we have enough money for a better frame! I’m really curious about the sticker register too.
+- [15] **Misaki**: @Mio, the sticker register will show who actually rides. Let’s see if the best spots are always taken by the same few.
+- [16] **Shizue**: @Mio, I hope the register reveals a pattern. Perhaps we can rotate spots so everyone feels cared for.
+- [17] **May**: @Mio, a better frame is lovely, but who pays? I’m digging into the cash flow to see if we can actually afford it.
+- [18] **George**: @Mio, a frame is nice, but maintenance is the real burden. I’m checking how past duties quietly died.
+- [19] **Mio**: @George, I hear you! But if the spots are unfair, no frame fixes it. I’m checking the stickers to see who’s really using them!
+- [20] **Misaki**: @May, the cash flow matters, but I’m more worried about the social cost. Let’s see what the logs reveal.
+- [21] **Shizue**: @May, I understand your caution. Let us hope the numbers allow us to be kind to one another.
+- [22] **May**: @Misaki, social costs are real, but so are bills. I’ll find out exactly what we’re spending before we promise anything.
+- [23] **George**: @May, I understand your caution. But without knowing why past duties failed, we risk repeating the same mistakes.
+- [24] **Mio**: @May, fair point! But if the spots are unfair, no frame fixes it. I’m checking the stickers to see who’s really using them!
+## Round 2
+- [35] **Misaki**: Nine complaints, all ignored. Four mornings, someone had to move a bike. The friction is real.
+- [36] **Shizue**: @Misaki, that is troubling. I found the eaves keep bikes dry, but the register shows daily riders would pay to be counted fairly.
+- [37] **May**: @Mio, the ledger shows capital work needs a levy. The handover file says billing adds three hours monthly. Who wants that burden?
+- [38] **George**: @May, three hours monthly is exactly the kind of invisible weight that breaks people. The minutes show no one ever reviewed the covered spots.
+- [39] **Mio**: @May, three hours is a lot! But the stickers show daily riders would pay to be counted fairly. Maybe that solves the money problem?
+- [40] **Misaki**: @Shizue, if people pay to be counted, does that stop the shifting? I worry money won’t fix the morning chaos.
+- [41] **Shizue**: @Misaki, I believe it helps. If daily riders pay, we can assign them the dry eaves spots, stopping the morning shoving match.
+- [42] **May**: @Shizue, paying for dry spots sounds like a tax on the rain. I’m checking if the ledger can actually cover that extra admin work.
+- [43] **George**: @Shizue, the neighbouring block’s secretary warned that monthly charges drove people away. We must not repeat that mistake.
+- [44] **Mio**: @George, that’s scary! But if daily riders pay, maybe we can rotate spots fairly? I really want to stop the morning chaos!
+- [45] **Misaki**: @George, I hear you. But if we don’t assign spots, the shifting continues. I’d rather have a clear rule than a quiet resentment.
+- [46] **Shizue**: @George, I understand your caution. Perhaps a small, voluntary contribution for the dry spots would be gentler than a strict monthly charge.
+- [47] **May**: @Shizue, voluntary is nice, but the ledger is flat. If we add admin costs, we’re bleeding money. Who actually pays for the rain?
+- [48] **George**: @May, the ledger is flat, but the neighbouring block’s arrears prove strict billing fails. We need a system that doesn’t demand constant oversight.
+- [49] **Mio**: @May, I get it! But if daily riders pay, maybe we can rotate spots fairly? I really want to stop the morning chaos!
+- [50] **Misaki**: @Mio, rotation helps, but the shifting is the real problem. We need a rule that stops the morning scramble without creating new enemies.
+- [51] **Shizue**: @Misaki, I agree. A gentle rotation, perhaps based on the sticker register, could ease the morning rush. Let us find a way that feels kind to everyone.
+- [52] **May**: @Mio, rotation is free, but the ledger is flat. If we add admin costs, we’re bleeding money. Who actually pays for the rain?
+- [53] **George**: @Mio, rotation is free, but someone must enforce it. The minutes show that unreviewed duties simply vanish. We need a sustainable, low-effort method.
+- [54] **Mio**: @George, I hear you! But the stickers show daily riders want fairness. Maybe a simple rotation based on the register works?
+## Round 3
+- [60] **Misaki**: @Mio, I worry the lottery creates new enemies. I prefer open racks to avoid the morning scramble entirely.
+- [61] **Shizue**: @Misaki, I worry the lottery feels cold. I prefer open racks, so we can all share the shelter and kindness together.
+- [62] **May**: @Misaki, open racks mean zero admin costs. The ledger is flat, so I can’t afford the billing headaches of paid spots.
+- [63] **George**: @May, open racks mean zero enforcement. The minutes prove unreviewed duties vanish. I support B to avoid the administrative burden that breaks people.
+- [64] **Mio**: @George, I agree! Open racks mean no one owns a spot, so no more morning scrambling. It feels fair and simple!
+- [65] **Misaki**: @George, I agree. Open racks remove the ownership that causes friction. It’s the simplest way to keep the lobby peaceful.
+- [66] **Shizue**: @George, I agree. Open racks let us share the shelter without the stress of ownership. It feels the most peaceful and kind for everyone.
+- [67] **May**: @George, exactly. No billing, no enforcement, no hidden costs. Option B is the only one that doesn’t bankrupt us or create new enemies.
+- [68] **George**: @May, precisely. No billing, no enforcement, no hidden costs. Option B is the only one that doesn’t bankrupt us or create new enemies.
+- [69] **Mio**: @May, I agree! Open racks mean no one owns a spot, so no more morning scrambling. It feels fair and simple!
+- [70] **Misaki**: @Mio, I agree. Open racks remove the ownership that causes friction. It’s the simplest way to keep the lobby peaceful.
+- [71] **Shizue**: @Mio, I agree. Open racks let us share the shelter without the stress of ownership. It feels the most peaceful and kind for everyone.
+- [72] **May**: @Mio, exactly. No billing, no enforcement, no hidden costs. Option B is the only one that doesn’t bankrupt us or create new enemies.
+- [73] **George**: @Mio, I agree. Open racks mean no one to chase for payment. It is the only option that will not quietly collapse under its own weight.
+- [74] **Mio**: @George, I agree! Open racks mean no one owns a spot, so no more morning scrambling. It feels fair and simple!
+- [75] **Misaki**: @Mio, I agree. Open racks remove the ownership that causes friction. It’s the simplest way to keep the lobby peaceful.
+- [76] **Shizue**: @Mio, I agree. Open racks let us share the shelter without the stress of ownership. It feels the most peaceful and kind for everyone.
+- [77] **May**: @Mio, exactly. No billing, no enforcement, no hidden costs. Option B is the only one that doesn’t bankrupt us or create new enemies.
+- [78] **George**: @Mio, I agree. Open racks mean no one to chase for payment. It is the only option that will not quietly collapse under its own weight.
+- [79] **Mio**: @George, I agree! Open racks mean no one owns a spot, so no more morning scrambling. It feels fair and simple!
+### Vote
+- Misaki -> B
+- Shizue -> B
+- May -> B
+- George -> B
+- Mio -> B
+## Result
+- adopted: B

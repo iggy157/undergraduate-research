@@ -1,0 +1,73 @@
+# shared_living_0025__multi-private (shared_living)
+
+## Round 1
+- [5] **Mio**: I’m worried about the old three-person split! It feels unfair now that we’re five. Who’s checking the actual usage?
+- [6] **Ryuji**: I need to verify the actual costs before agreeing to any new structure. I will examine the last twelve utility statements and the payment log for the last twelve months.
+- [7] **Rin**: I’m curious about the kitchen cooler! Does it use a ton of power? I want to see the plug-in monitor readings and the kitchen notice!
+- [8] **Shunichi**: I’m less interested in the cooler. I want to see if the current split actually matches reality. I’ll check the last twelve utility statements and the payment log.
+- [9] **Misaki**: I want to see how the money talks have changed. I’ll check the monthly settle observed at another house and the trial run of a reconciliation template.
+- [10] **Mio**: @Ryuji, checking the statements is smart! I’m worried about hidden costs. I’ll look at the electrician's quote and the sunlight and heating need by room.
+- [11] **Ryuji**: I will examine the winter habits at a house paying ahead and the settling up when the last rooms filled. I need to understand the seasonal spikes and the initial setup costs.
+- [12] **Rin**: @Mio, sunlight is cool! But I really want to know who does the math. I’ll check the trial run template and the monthly settle at the other house!
+- [13] **Shunichi**: @Mio, sunlight is a distraction. I need to know if the current split is a lie. I’ll check the plug-in monitor readings and the electrician's quote.
+- [14] **Misaki**: @Rin, I’m glad you’re checking the template. I’ll stick with the monthly settle and the trial run to see how the money talks actually play out.
+- [15] **Mio**: @Shunichi, I hear you! But I really want to know if my room is just a cold trap. I’ll check the sunlight and heating need by room!
+- [16] **Ryuji**: I will examine the winter habits at a house paying ahead and the settling up when the last rooms filled. I need to understand the seasonal spikes and the initial setup costs.
+- [17] **Rin**: @Misaki, I’m checking the trial run template and the monthly settle! I need to see how long the math actually takes.
+- [18] **Shunichi**: @Mio, cold rooms are a comfort issue, not a fairness one. I’m checking the plug-in monitor readings and the electrician's quote to see who’s actually draining the grid.
+- [19] **Misaki**: @Rin, the template is just math. I need to see the human side. I’ll check the monthly settle and the trial run to see how the money talks actually play out.
+- [20] **Mio**: I’m all set! I’ll check the electrician's quote and the sunlight and heating need by room. Let’s see what we find!
+- [21] **Ryuji**: I will examine the winter habits at a house paying ahead and the settling up when the last rooms filled. I need to understand the seasonal spikes and the initial setup costs.
+- [22] **Rin**: I’m all set! I’ll check the trial run template and the monthly settle at the other house. I need to see how long the math really takes!
+- [23] **Shunichi**: I’m done. I’ll check the plug-in monitor readings and the electrician's quote. Let’s see if the numbers match the rumors.
+- [24] **Misaki**: I’m done. I’ll check the monthly settle and the trial run template. I need to see how the money talks actually play out.
+## Round 2
+- [35] **Mio**: @Shunichi, the quote is thirty-four thousand yen per room! That’s huge. Plus, two rooms are freezing traps. We can’t just split it evenly!
+- [36] **Ryuji**: The winter habits show fixed costs breed waste. The settling up took three weeks and involved write-offs. I need to know the exact seasonal variance before committing to any new structure.
+- [37] **Rin**: @Misaki, forty minutes of logging and splitting by hand? That’s a whole evening gone! I need to know if the template saves us that time or just makes the math harder.
+- [38] **Shunichi**: @Mio, the quote is a trap. Sub-meters cost thirty-four thousand yen per room. The monitors prove the current split is a lie, but we can’t afford to fix it that way.
+- [39] **Misaki**: @Rin, the template is worse. It means keying in every invoice and computing five separate refunds. That’s hours of work, not a solution.
+- [40] **Mio**: @Ryuji, three weeks of write-offs sounds like a nightmare! I just want to know if my room is actually colder, so I stop wearing a coat indoors.
+- [41] **Ryuji**: @Mio, comfort is secondary to financial clarity. The write-offs prove the current system is administratively broken. I need to see the seasonal variance to avoid a second rent in winter.
+- [42] **Rin**: @Ryuji, three weeks is forever! But @Misaki, if the template takes hours, who actually does it? I don’t want to be the one stuck with the math every month!
+- [43] **Shunichi**: @Rin, the math is the least of our problems. The monitors show a four-to-one usage gap. We’re paying for someone else’s heater. I need to know if we can fix the split without the electrician’s price tag.
+- [44] **Misaki**: @Shunichi, the four-to-one gap is the real wound. I need to see if the template’s separate refunds make that imbalance visible, or if it just hides it in the math.
+- [45] **Mio**: @Shunichi, a four-to-one gap is scary! But I’m worried about the cold. If we don’t fix the heating, I’ll be freezing in February.
+- [46] **Ryuji**: @Mio, comfort is a symptom, not the cause. The winter habits show fixed costs breed waste. I need to see the seasonal variance to avoid a second rent in winter.
+- [47] **Rin**: @Shunichi, a four-to-one gap is wild! But if the math takes hours, who does it? I don’t want to be the one stuck with the calculator every month!
+- [48] **Shunichi**: @Rin, the math is trivial. The four-to-one gap is the insult. I refuse to subsidize a heater left running. We need a split that reflects actual consumption, not just a template.
+- [49] **Misaki**: @Rin, the math is trivial. The real cost is the silence after the demand. I need a method that doesn’t turn a bill into a personal attack.
+- [50] **Mio**: @Misaki, I hear you. But if the split ignores the cold, I’ll just keep wearing my coat. We need a fair way to handle the heating gap!
+- [51] **Ryuji**: I will examine the winter habits and the settling up. I need to understand the seasonal spikes and the initial setup costs before committing to any new structure.
+- [52] **Rin**: @Misaki, I agree! The math shouldn’t be a punishment. I need to know if we can automate it so nobody’s evenings get eaten by the calculator!
+- [53] **Shunichi**: @Misaki, silence is just fear. The monitors prove the imbalance is real, not imagined. We need a split that reflects actual consumption, not a template that hides the truth.
+- [54] **Misaki**: @Shunichi, the silence isn’t fear, it’s exhaustion. If the method requires hours of manual entry, it will breed resentment. We need a system that is simple enough to sustain without breaking us.
+## Round 3
+- [60] **Mio**: @Shunichi, Option B is thirty-four thousand yen per room! That’s impossible. I need a way to stop freezing without bankrupting us.
+- [61] **Ryuji**: Option B’s thirty-four thousand yen per room is an unacceptable upfront cost. I reject it. I need to see the seasonal variance to avoid a second rent in winter.
+- [62] **Rin**: @Mio, thirty-four thousand is way too much! But Option A means one giant math night in December. I don’t want to be the one stuck with the calculator then!
+- [63] **Shunichi**: @Ryuji, Option B is the only one that tells the truth. The monitors prove the current split is a lie. I refuse to subsidize a heater left running.
+- [64] **Misaki**: @Shunichi, the meters cost too much. Option A’s year-end settlement is a single, contained event. It avoids the monthly friction that has already damaged our trust.
+- [65] **Mio**: @Rin, I hear you! But Option C is just the old lie with new numbers. I’m voting for A so we can finally stop wearing coats indoors!
+- [66] **Ryuji**: Option A’s year-end settlement is a single, contained event. It avoids the monthly friction that breeds resentment. I vote for A to protect the household’s stability.
+- [67] **Rin**: @Mio, Option C is just the old lie! But Option A means one giant math night in December. I don’t want to be the one stuck with the calculator then!
+- [68] **Shunichi**: @Mio, Option A is a delay, not a fix. The monitors prove the imbalance is real. I refuse to subsidize a heater left running. I vote for B.
+- [69] **Misaki**: @Rin, the December math is a single, contained event. It is far better than monthly demands that turn into personal attacks. I vote for A to protect our peace.
+- [70] **Mio**: @Shunichi, I know the gap is real, but thirty-four thousand yen is impossible! Option A at least lets us breathe. I’m voting for A to keep us warm without bankruptcy!
+- [71] **Ryuji**: Option A’s year-end settlement is a single, contained event. It avoids the monthly friction that breeds resentment. I vote for A to protect the household’s stability.
+- [72] **Rin**: @Shunichi, I know the gap is real, but I can’t do the math every month! Option A is just one scary night in December. I’m voting for A to save my evenings!
+- [73] **Shunichi**: @Rin, your evenings are a luxury. The monitors prove the imbalance is real. I refuse to subsidize a heater left running. I vote for B.
+- [74] **Misaki**: @Shunichi, I understand the frustration. But Option B’s cost is a barrier. Option A’s single settlement prevents the monthly friction that has already damaged our trust. I vote for A.
+- [75] **Mio**: @Shunichi, I hear your pain, but I can’t pay thirty-four thousand yen to stop freezing! Option A is the only way we stay warm without going broke. I’m voting for A!
+- [76] **Ryuji**: I stand by my vote for A. The year-end settlement is a contained event that avoids the monthly friction and the prohibitive upfront cost of B.
+- [77] **Rin**: @Shunichi, I know the gap is real, but I can’t do the math every month! Option A is just one scary night in December. I’m voting for A to save my evenings!
+- [78] **Shunichi**: @Mio, comfort is not a vote. The monitors prove the imbalance is real. I refuse to subsidize a heater left running. I vote for B.
+- [79] **Misaki**: I stand by my vote for A. The single settlement contains the friction, preventing the monthly demands that have already eroded our trust.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> B
+- Misaki -> A
+## Result
+- adopted: A

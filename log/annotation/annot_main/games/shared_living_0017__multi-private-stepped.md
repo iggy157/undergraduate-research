@@ -1,0 +1,73 @@
+# shared_living_0017__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a logical way to allocate these spaces. I suggest we look at the actual usage and the physical layout first.
+- [6] **Ryuji**: I agree. However, we should also consider the financial aspect and the costs involved in any new system.
+- [7] **George**: It would be wise to see if the current distribution is actually fair or if it's just a matter of perception.
+- [8] **Shunichi**: Let's not overcomplicate it. I'm more interested in how this affects the atmosphere of the building. We don't want a war.
+- [9] **Mio**: I'm excited to help! But who's going to do the actual work once we decide? I want to know how much effort it takes!
+- [10] **Asuka**: @Ryuji, finances are important, but the physical congestion is the immediate problem. We need data on how people actually leave in the morning.
+- [11] **Ryuji**: Data is exactly why I want to see the ledgers. We can't make a sustainable decision without knowing the budget.
+- [12] **George**: I think checking the records of who is actually using the bikes daily would be a good starting point.
+- [13] **Shunichi**: @George, that sounds like a recipe for spying. I'd rather see how other buildings handle this mess.
+- [14] **Mio**: @Shunichi, that's a great idea! Let's see what the neighbors do. I also want to see the old handover files for the paperwork.
+- [15] **Asuka**: @Shunichi, it's not spying; it's resource management. I'll look into the morning flow and the physical layout of the rows.
+- [16] **Ryuji**: I will focus on the financial records. I want to see the ledger and the treasurer's handover file.
+- [17] **George**: I'll take a look at the sticker register and the association minutes to see if this has been a recurring issue.
+- [18] **Shunichi**: I'll stick to the neighboring block's account and the old complaint logs. I want to see where things went wrong before.
+- [19] **Mio**: Wait, @Ryuji is taking the handover file! I'll check the sticker register too, and maybe the display frame trial?
+- [20] **Asuka**: Let's finalize our choices then. I'm set on the morning departures and the rain exposure.
+- [21] **Ryuji**: I'm satisfied with my choices. The ledger and the handover file will provide the necessary financial clarity.
+- [22] **George**: I will proceed with the sticker register and the five years of association minutes.
+- [23] **Shunichi**: Fine. Neighboring block's account and the complaint log it is. Let's see if we can avoid a disaster.
+- [24] **Mio**: Okay! I'll go with the treasurer's handover file and the trial of the supplier's display frame. I want to see the work involved!
+## Round 2
+- [35] **Asuka**: My observations confirm a congestion problem. People are shifting bikes to get out, which is inefficient and risks damage.
+- [36] **Ryuji**: The financial records show that we have very little flexibility. Any new infrastructure would require a direct levy on the residents.
+- [37] **George**: It seems my suspicions were correct. The same flats have held the best spots for years without any formal review.
+- [38] **Shunichi**: How predictable. The neighbors tried a fee system and it just made people stop talking to each other. Not a great precedent.
+- [39] **Mio**: I found out that the paperwork is actually a bit of a pain! And those display frames look tricky to use.
+- [40] **Asuka**: @Ryuji, if a levy is necessary to prevent damage to property, it's a logical expense. The current chaos is unsustainable.
+- [41] **Ryuji**: A levy is a hard sell. We need to know if the residents are willing to pay for a more organized system.
+- [42] **George**: The fact that there has been no review for five years is the core of the resentment. We cannot ignore the lack of fairness.
+- [43] **Shunichi**: Fairness is a slippery slope. If we start auditing who "deserves" a spot, we'll have people timing their exits to avoid their neighbors.
+- [44] **Mio**: @Asuka, if we get fancy frames, someone has to grease them! I don't want us to just forget about it after a month.
+- [45] **Asuka**: @Mio, maintenance is a separate issue. The priority is the physical bottleneck. We need a system that prioritizes flow over tenure.
+- [46] **Ryuji**: I am concerned that we are ignoring the cost of administration. Adding per-place billing increases the treasurer's workload significantly.
+- [47] **George**: I believe we should consider a rotation or a lottery. The current "first-come, first-served" from five years ago is no longer valid.
+- [48] **Shunichi**: A lottery is a gamble with social harmony. I'd prefer a solution that doesn't turn the lobby into a courtroom.
+- [49] **Mio**: But that's my point! If the treasurer is already stressed, adding more billing will just make them quit. We need something simple!
+- [50] **Asuka**: Simplicity is good, but not at the cost of functionality. We must address the "shoving match" occurring every morning.
+- [51] **Ryuji**: I will support any option that minimizes unexpected costs to the building account and doesn't create an administrative nightmare.
+- [52] **George**: I will support a change that breaks the cycle of the same people holding the same spots. Transparency is key here.
+- [53] **Shunichi**: Just keep in mind that "transparency" often looks like a public shaming list. Let's keep the peace, shall we?
+- [54] **Mio**: I just want to make sure we don't create a job that nobody wants to do. Let's pick the easiest one to maintain!
+## Round 3
+- [60] **Asuka**: Option B is the most logical. It removes the "ownership" of spots and encourages a more fluid use of the space.
+- [61] **Ryuji**: Option A provides a revenue stream, but as I've seen in the ledger, the administrative burden of billing might outweigh the gain.
+- [62] **George**: Option C addresses the fairness issue directly. It ensures that no one is permanently disadvantaged by the current layout.
+- [63] **Shunichi**: Option A is a disaster waiting to happen. I've already seen how fees kill the community spirit in the next block.
+- [64] **Mio**: Option B sounds like a lot of physical work to move bikes, and those racks are hard to use! Option C is just a drawing!
+- [65] **Asuka**: @Mio, the "work" of moving bikes is already happening in a chaotic way. Option B formalizes the shared nature of the space.
+- [66] **Ryuji**: Option C is the most administratively lean. It requires one meeting a year and no ongoing billing or ledger entries.
+- [67] **George**: @Ryuji, I agree. A lottery is a clean break from the past five years of stagnation. It's fair and transparent.
+- [68] **Shunichi**: A lottery is a gamble, but it's a one-time event. It's better than a monthly bill that makes people resent their neighbors.
+- [69] **Mio**: Exactly! Option C is the easiest! No monthly paperwork, no greasing racks, just one big party once a year to pick names!
+- [70] **Asuka**: While Option C is simple, it doesn't solve the physical congestion. If the "bad" spots are still bad, the lottery just rotates the misery.
+- [71] **Ryuji**: The "misery" of a bad spot is preferable to the financial instability of a poorly managed fee system. I lean toward Option C.
+- [72] **George**: The physical layout is a secondary concern to the social friction caused by perceived favoritism. Option C solves the social problem.
+- [73] **Shunichi**: @George is right. The physical layout is a nuisance; the social friction is a poison. Let's go with the lottery and keep the peace.
+- [74] **Mio**: I'm totally for the lottery! It's the only one that doesn't sound like a second job for the treasurer.
+- [75] **Asuka**: I still believe Option B is the only one that addresses the actual morning bottleneck, but I see the consensus forming.
+- [76] **Ryuji**: Reason dictates that the most sustainable solution is the one with the lowest administrative and financial risk. That is Option C.
+- [77] **George**: I am satisfied with Option C. It is a fair way to reset the system and remove the grumbling about tenure.
+- [78] **Shunichi**: It's the least likely to turn the lobby into a cold zone. I'm in.
+- [79] **Mio**: Yay! Let's do the lottery! It's fun, it's fair, and it's easy-peasy!
+### Vote
+- Asuka -> B
+- Ryuji -> C
+- George -> C
+- Shunichi -> C
+- Mio -> C
+## Result
+- adopted: C

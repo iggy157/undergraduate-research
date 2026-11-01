@@ -1,0 +1,73 @@
+# candidate_selection_0002__single-batch (candidate_selection)
+
+## Round 1
+- [5] **Servas**: I worry about the reporting burden. Who verifies the numbers before we close the books?
+- [6] **Asuka**: I am curious about the drift between our stories and the actual returns.
+- [7] **Minako**: I need to know the cash flow. How much room do we have after this cheque?
+- [8] **Mio**: I am concerned about the talent drain. Who is actually available to help these teams?
+- [9] **Toshio**: I want to see where the delays come from. It is rarely the team's fault.
+- [10] **Servas**: The audit trail is messy. I need clarity on the reporting.
+- [11] **Asuka**: I am looking at the retention curves. They tell the truth.
+- [12] **Minako**: The cash flow is tight. I need to see the reserves.
+- [13] **Mio**: The talent pool is thin. I am checking the recruiters.
+- [14] **Toshio**: The delays are external. I am checking the security reviews.
+- [15] **Servas**: The appraisal needs are high. It adds cost and time.
+- [16] **Asuka**: The retention is strong for some, weak for others.
+- [17] **Minako**: The reserves are low. We need to be careful.
+- [18] **Mio**: The recruiters are slow for field roles.
+- [19] **Toshio**: The security reviews are long for medical data.
+- [20] **Servas**: Candidate A, the Clinic Scheduler, fits the high-retention and high-review criteria.
+- [21] **Asuka**: I agree. The data shows general tools are in high demand and underutilized specialist ones are not.
+- [22] **Minako**: I am worried about the maintenance burden, but the other options seem worse.
+- [23] **Mio**: A study commons is less exposed to weather than outdoor paths, so it might stay on schedule.
+- [24] **Toshio**: The cost of ventilation for labs is rising, making Candidate B riskier financially.
+## Round 2
+- [35] **Servas**: The audit trail is messy. I need clarity on the reporting.
+- [36] **Asuka**: I am looking at the retention curves. They tell the truth.
+- [37] **Minako**: The cash flow is tight. I need to see the reserves.
+- [38] **Mio**: The talent pool is thin. I am checking the recruiters.
+- [39] **Toshio**: The delays are external. I am checking the security reviews.
+- [40] **Servas**: The appraisal needs are high. It adds cost and time.
+- [41] **Asuka**: The retention is strong for some, weak for others.
+- [42] **Minako**: The reserves are low. We need to be careful.
+- [43] **Mio**: The recruiters are slow for field roles.
+- [44] **Toshio**: The security reviews are long for medical data.
+- [45] **Servas**: Candidate A, the Clinic Scheduler, fits the high-retention and high-review criteria.
+- [46] **Asuka**: I agree. The data shows general tools are in high demand and underutilized specialist ones are not.
+- [47] **Minako**: I am worried about the maintenance burden, but the other options seem worse.
+- [48] **Mio**: A study commons is less exposed to weather than outdoor paths, so it might stay on schedule.
+- [49] **Toshio**: The cost of ventilation for labs is rising, making Candidate B riskier financially.
+- [50] **Servas**: The audit trail is messy. I need clarity on the reporting.
+- [51] **Asuka**: I am looking at the retention curves. They tell the truth.
+- [52] **Minako**: The cash flow is tight. I need to see the reserves.
+- [53] **Mio**: The talent pool is thin. I am checking the recruiters.
+- [54] **Toshio**: The delays are external. I am checking the security reviews.
+## Round 3
+- [60] **Servas**: The audit trail is messy. I need clarity on the reporting.
+- [61] **Asuka**: I am looking at the retention curves. They tell the truth.
+- [62] **Minako**: The cash flow is tight. I need to see the reserves.
+- [63] **Mio**: The talent pool is thin. I am checking the recruiters.
+- [64] **Toshio**: The delays are external. I am checking the security reviews.
+- [65] **Servas**: The appraisal needs are high. It adds cost and time.
+- [66] **Asuka**: The retention is strong for some, weak for others.
+- [67] **Minako**: The reserves are low. We need to be careful.
+- [68] **Mio**: The recruiters are slow for field roles.
+- [69] **Toshio**: The security reviews are long for medical data.
+- [70] **Servas**: Candidate A, the Clinic Scheduler, fits the high-retention and high-review criteria.
+- [71] **Asuka**: I agree. The data shows general tools are in high demand and underutilized specialist ones are not.
+- [72] **Minako**: I am worried about the maintenance burden, but the other options seem worse.
+- [73] **Mio**: A study commons is less exposed to weather than outdoor paths, so it might stay on schedule.
+- [74] **Toshio**: The cost of ventilation for labs is rising, making Candidate B riskier financially.
+- [75] **Servas**: The audit trail is messy. I need clarity on the reporting.
+- [76] **Asuka**: I am looking at the retention curves. They tell the truth.
+- [77] **Minako**: The cash flow is tight. I need to see the reserves.
+- [78] **Mio**: The talent pool is thin. I am checking the recruiters.
+- [79] **Toshio**: The delays are external. I am checking the security reviews.
+### Vote
+- Servas -> A
+- Asuka -> A
+- Minako -> A
+- Mio -> A
+- Toshio -> A
+## Result
+- adopted: A

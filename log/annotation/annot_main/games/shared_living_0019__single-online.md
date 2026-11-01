@@ -1,0 +1,72 @@
+# shared_living_0019__single-online (shared_living)
+
+## Round 1
+- [5] **George**: Since we're here to fix this, I think we should be thorough. I'd like to look into what two other car-sharing households said and the spell of checking each other's figures.
+- [6] **Toshio**: I'll take the hours of use recorded in the diary and the weeks of heavy use over the year.
+- [7] **Victoria**: I'll look into the state of the car at handover and the trips that repeat weekly.
+- [8] **Misaki**: I'll check last year's tax, insurance and parking papers, as well as last year's fuel receipts.
+- [9] **Minato**: I want to know about the mechanic's remarks at the last service and a month's trial of recording every run.
+- [10] **George**: Does anyone have any objections to these choices, or do you think we've missed something important?
+- [12] **Victoria**: These seem like a comprehensive set of data points to start with. I don't see any reason to change them.
+- [13] **Misaki**: I agree. It covers the financial side, the usage patterns, and the social friction. Let's proceed.
+- [14] **Minato**: I'm excited to see what we find out! I think it's a good idea to look at everything.
+- [15] **George**: Since we are all in agreement, I suggest we move forward and gather the information. Does that work for everyone?
+- [16] **Toshio**: It works for me. Let's get to it.
+- [17] **Victoria**: I agree. Let's see what the data actually tells us before we try to make any decisions.
+- [18] **Misaki**: I'm ready. Let's see if the numbers match our impressions.
+- [19] **Minato**: Me too! I'll go look for my things right now.
+- [20] **George**: I'll make sure we all have the materials we need. Let's take our time with the research and reconvene once we've each reviewed our chosen points.
+- [21] **Toshio**: I'll start reviewing the diary and the heavy use periods now. See you all shortly.
+- [22] **Victoria**: I'll go through the handover notes and the weekly trip patterns. I'll see you all soon.
+- [23] **Misaki**: I'll get started on the paperwork and the fuel receipts. I'll let you know what I find.
+- [24] **Minato**: I'll go check the mechanic's notes and the trial records! See you all in a bit!
+## Round 2
+- [35] **George**: It seems we've all had a chance to look into our chosen areas. I'll start by saying that the social side of this is more delicate than we might have thought.
+- [36] **Toshio**: The usage isn't as balanced as we might assume; there are significant spikes in demand and certain days are far busier than others.
+- [37] **Victoria**: I've found that the car's condition at handover is inconsistent, and some of our most regular, repeating trips are the ones most likely to be disrupted.
+- [38] **Misaki**: The financial side is quite skewed; the fixed costs are substantial, and the fuel contributions have been very unevenly distributed among us.
+- [39] **Minato**: I found out that short trips are actually harder on the car than long ones, and keeping a perfect record of every single run takes a lot of time!
+- [40] **George**: @Misaki, when you say the fuel contributions are uneven, does that mean some of us are paying significantly more than others?
+- [41] **Toshio**: I suspect the spikes in usage I saw in the diary correlate with those uneven fuel costs Misaki mentioned.
+- [42] **Victoria**: That would explain why the car is often left in a poor state; those bursts of heavy use probably leave little time for proper upkeep.
+- [43] **Misaki**: Yes, George. Two of us have paid for more than half the fuel, while one person has barely contributed at all. It's a very lopsided picture.
+- [44] **Minato**: Does that mean we should change how we pay for fuel so it's more fair for everyone?
+- [45] **George**: That is the goal, Minato, but we must be careful. I've learned that checking each other's figures can make people feel accused, which only adds to the tension.
+- [46] **Toshio**: If we focus too much on the numbers, we might just create more friction. We need a system that reduces the need for constant negotiation and checking.
+- [47] **Victoria**: I agree with Toshio. If we focus on the daily friction and the reliability of the car's state, we might find a solution that doesn't require us to police each other.
+- [48] **Misaki**: But we can't ignore the fact that some are subsidizing others. A system that ignores the actual costs will just lead to resentment in the long run.
+- [49] **Minato**: I just want us all to be happy and honest. Maybe there's a way to be fair without making anyone feel bad or spending too much time on records?
+- [50] **George**: It sounds like we are all searching for a balance between fairness and peace. We need a structure that handles the costs without turning us into accountants or enemies.
+- [51] **Toshio**: Exactly. The time spent coordinating and untangling who owes what is a hidden cost that we can't ignore if we want this to be sustainable.
+- [52] **Victoria**: And we can't forget the practical side; if the car isn't ready when needed or is left empty, no amount of financial fairness will make the arrangement work.
+- [53] **Misaki**: We need a system that accounts for the actual costs and usage, but does so in a way that is automatic and transparent, rather than a source of conflict.
+- [54] **Minato**: I think we should look at the options now and see if any of them can solve all these problems at once!
+## Round 3
+- [60] **George**: We have three options: a Booking Calendar with distance-based costs, Fixed Day Allocation with a monthly share, or a Primary Keeper who manages the car and charges per trip.
+- [61] **Toshio**: The Fixed Day Allocation seems most appealing to me because it eliminates the constant need for coordination and the stress of untangling who owes what every single week.
+- [62] **Victoria**: I'm leaning toward the Booking Calendar. It addresses the reliability of the car's availability and ensures that those who use it more, especially for those repeating trips, pay their fair share.
+- [63] **Misaki**: I prefer the Booking Calendar as well. It's the only option that directly addresses the uneven fuel contributions and ensures that no one is quietly subsidizing anyone else.
+- [64] **Minato**: I think the Primary Keeper sounds nice because one person can make sure the car is clean and has fuel, so we don't have to worry about it!
+- [65] **George**: @Minato, that's a thoughtful point, but I worry a Primary Keeper might feel like they're doing all the work while we just ask favors, which is exactly what sours these groups.
+- [66] **Toshio**: @Victoria, @Misaki, the Booking Calendar still requires us to record every run and check figures, which Minato already found takes too much time and George warned can cause tension.
+- [67] **Victoria**: @Toshio, that's true, but the alternative is the chaos we have now. I'd rather spend a little time on a calendar than wonder if the car will even be there when I need it.
+- [68] **Misaki**: I agree with Victoria. While recording takes time, the resentment from subsidizing others is a far greater risk to our group's harmony than a bit of bookkeeping.
+- [69] **Minato**: I don't want anyone to feel bad or be stressed by too much paperwork, but I also want it to be fair. Maybe the calendar is a good middle ground?
+- [70] **George**: I'm torn. The Fixed Day Allocation avoids the "asking for favors" trap and the bookkeeping stress, but the Booking Calendar seems to satisfy the need for financial precision. I'll have to think about which risk is greater.
+- [71] **Toshio**: I still believe the Fixed Day Allocation is the most sustainable. It removes the mental load of scheduling and the friction of auditing, which are the real killers of these arrangements.
+- [72] **Victoria**: If we go with Fixed Day Allocation, we risk the car sitting idle on some days while others are desperate for it, which doesn't solve the reliability issue for my weekly trips.
+- [73] **Misaki**: Exactly. Fixed days don't account for the spikes in usage Toshio mentioned, and it would still leave some of us paying for a share we might not use as much as others.
+- [74] **Minato**: I think the Booking Calendar is the best because it lets us be fair and organized, and we can just help each other out with the recording part so it's not too hard!
+- [75] **George**: I've listened to everyone, and while I fear the bookkeeping, the risk of resentment over money seems higher. I vote for the Booking Calendar.
+- [76] **Toshio**: I still believe the mental load is the biggest threat, but I can't ignore the majority. I vote for Fixed Day Allocation.
+- [77] **Victoria**: I vote for the Booking Calendar. It's the most rational way to ensure the car is available and the costs are fair.
+- [78] **Misaki**: I vote for the Booking Calendar. It is the only way to ensure that the financial burden is shared equitably based on actual use.
+- [79] **Minato**: I vote for the Booking Calendar too! I think it's the fairest way and we can all just be careful and kind when we use it.
+### Vote
+- George -> A
+- Toshio -> B
+- Victoria -> A
+- Misaki -> A
+- Minato -> A
+## Result
+- adopted: A

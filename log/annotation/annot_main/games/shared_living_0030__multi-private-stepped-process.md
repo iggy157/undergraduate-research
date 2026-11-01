@@ -1,0 +1,73 @@
+# shared_living_0030__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Toshio**: We need a system that is sustainable. The current informal habit is failing, and we should clarify the costs and expectations before deciding.
+- [6] **Ryuji**: I agree. We need a realistic understanding of the time commitment involved. If it's too high, we should consider other options.
+- [7] **Benjamin**: Logic suggests we first analyze the correlation between space usage and the actual workload. It would be a pity to distribute burdens blindly.
+- [8] **May**: I just want to stop playing the guessing game. One day the kitchen is a dream, the next it's a nightmare. We need consistency, people!
+- [9] **Midori**: I agree with everyone. More than the cleaning itself, I want us to find a way that keeps us all happy and friendly for the whole year.
+- [10] **Toshio**: @May, consistency requires a clear standard. We should look into what each person actually considers "done" to avoid these discrepancies.
+- [11] **Ryuji**: @Toshio, standards are one thing, but the actual hours spent are another. We need to know the real time cost of a full pass.
+- [12] **Benjamin**: Indeed. I am curious if the burden is truly shared or if some of us are merely ghosts in the house while others do the heavy lifting.
+- [13] **May**: Exactly! And the bathroom... let's just say I have to brace myself before entering. We need to know why the quality fluctuates so wildly.
+- [14] **Midori**: I'm worried that if we focus too much on who does what, we might start blaming each other. Let's look at the usage patterns first.
+- [15] **Toshio**: I am also concerned about the supplies. We need to track the expenses for bleach and bags to ensure no one is unfairly out of pocket.
+- [16] **Ryuji**: If the time cost is too high, we should compare it to the cost of a professional firm. It might be a more rational trade-off.
+- [17] **Benjamin**: A professional firm is an elegant solution, provided the cost is distributed logically. Let's gather the data on both usage and professional rates.
+- [18] **May**: I'm all for a professional if it means I don't have to wonder if the bathroom is a biohazard today. Let's check the grout and the standards.
+- [19] **Midori**: I think looking at the house chat or the calendar might show us where the friction points are. I want to avoid future arguments.
+- [20] **Toshio**: Let's proceed with the investigations. I'll focus on the financial side and the standards of completion.
+- [21] **Ryuji**: I will look into the actual time required and the professional alternatives.
+- [22] **Benjamin**: I shall investigate the usage patterns and the records of who has actually been contributing.
+- [23] **May**: I'm going for the grout and the definitions of "done." I need to know why the quality is so unpredictable!
+- [24] **Midori**: I'll check the house chat and the calendar. I want to see how we've been communicating about this so we can do better.
+## Round 2
+- [35] **Toshio**: My findings show a lack of financial coordination. We are double-buying supplies, and the definition of "done" varies wildly between us.
+- [36] **Ryuji**: A full pass takes over an hour and a half. That is a significant chunk of time, especially when several tasks pile up at once.
+- [37] **Benjamin**: Interestingly, the kitchen usage is heavily skewed. A few of us are creating the vast majority of the mess, yet the work is split equally.
+- [38] **May**: It's worse than we thought! Some of you think "done" is just wiping a counter. And the bathroom grout is a lost cause without a real plan.
+- [39] **Midori**: I noticed in the chat that our complaints always start as "reminders" but quickly turn into tension. We are already fraying at the edges.
+- [40] **Toshio**: @Ryuji, if a full pass takes ninety minutes, the inefficiency of our current "informal" system is costing us more than just time.
+- [41] **Ryuji**: Precisely. If we outsource, we save that time, but the firm requires us to tidy first. We aren't removing the labor entirely, just the scrubbing.
+- [42] **Benjamin**: @Midori, the tension in the chat is a symptom of the imbalance I found. It is logically unfair to expect a coffee-drinker to scrub a grease-caked stove.
+- [43] **May**: I don't care who makes the mess, I just care that it's clean! The unpredictability is the worst part. We need a standard that doesn't change every week.
+- [44] **Midori**: @Benjamin, I understand the unfairness, but if we track every single cup of coffee, we'll end up fighting even more. We need a system that feels kind.
+- [45] **Toshio**: We must address the money. We are wasting funds on duplicate supplies because there is no central budget or tracking.
+- [46] **Ryuji**: The professional firm is an option, but we must weigh the monthly cost against the value of our time. Is ninety minutes a week worth the fee?
+- [47] **Benjamin**: For some, yes. For those who barely use the space, paying a small fee is far more rational than performing labor for a mess they didn't create.
+- [48] **May**: I'm voting for whatever ensures the bathroom doesn't turn back into a swamp in eleven days. A professional might actually be able to handle the grout.
+- [49] **Midori**: I'm worried that a strict "pay-per-use" or "labor-per-use" system will make us act like accountants instead of housemates. Let's keep it simple.
+- [50] **Toshio**: Simplicity is fine, but not at the cost of transparency. Whoever pays for the bleach should be reimbursed immediately and automatically.
+- [51] **Ryuji**: I am still calculating the trade-off. If we do it ourselves, we save money but lose time and risk the interpersonal friction Midori mentioned.
+- [52] **Benjamin**: The data is clear: usage and labor are currently decoupled. Any sustainable system for the next year must bridge that gap to be fair.
+- [53] **May**: Just give me a guarantee that the kitchen won't be grim on Tuesday and sparkling on Wednesday. I can't live with that rollercoaster!
+- [54] **Midori**: Let's look at the options. I hope we can choose the one that lets us stay friends, even if it's not the most "efficient" on paper.
+## Round 3
+- [60] **Toshio**: Option B is the most financially transparent if we set up a shared fund. It removes the "who did what" argument and the "who paid for what" confusion.
+- [61] **Ryuji**: Option B removes the heavy scrubbing labor, which is the most time-consuming part. However, we still have to tidy up before they arrive.
+- [62] **Benjamin**: Option B is the most logical. It decouples the labor from the usage, meaning the coffee-drinkers aren't unfairly burdened by the heavy cooks' messes.
+- [63] **May**: I love Option B! A professional means a professional standard. No more guessing if the person on duty thinks "done" means "I moved the dirt around."
+- [64] **Midori**: I'm worried about the cost for some of us, but Option B does remove the most common source of our arguments. No one has to be the "nag."
+- [65] **Toshio**: @Midori, the cost is predictable. A fixed monthly fee is better than the current chaos where some of us are out of pocket for supplies without reimbursement.
+- [66] **Ryuji**: I've compared the hours. Spending ninety minutes a week on cleaning is a significant annual loss. Paying for a service is a rational investment in our time.
+- [67] **Benjamin**: Option C is the worst choice; it simply formalizes the unfairness I discovered. It forces the low-usage residents to clean up after the high-usage ones.
+- [68] **May**: Exactly! And Option A is just a recipe for one person to let the bathroom rot for a month because they "haven't gotten to it yet." No thank you.
+- [69] **Midori**: I agree that Option C could lead to a lot of resentment. If someone is sick or away, the rota just breaks and we start blaming each other again.
+- [70] **Toshio**: If we go with Option B, I propose we create a dedicated supply fund. We contribute a set amount monthly to cover both the cleaner and the bleach.
+- [71] **Ryuji**: That is a sound approach. It streamlines the financial side and ensures the time-cost is minimized for everyone. I am in favor of Option B.
+- [72] **Benjamin**: I concur. It is the only option that addresses the usage-labor discrepancy without requiring us to track every single dish, which would be tedious.
+- [73] **May**: I'm 100% for Option B. I want to walk into the bathroom and actually feel okay about it. Consistency is everything!
+- [74] **Midori**: If everyone is this happy with Option B, then I am too. It seems like the best way to keep the peace and avoid those "reminders" in the chat.
+- [75] **Toshio**: It seems we have a consensus. Option B provides the financial clarity I require and the quality standards May wants.
+- [76] **Ryuji**: It is the most efficient use of our time. I'm satisfied with this decision.
+- [77] **Benjamin**: A rational conclusion. We trade a small amount of money for a large amount of harmony and fairness.
+- [78] **May**: Finally! I can stop bracing myself before I open the bathroom door. Let's do it!
+- [79] **Midori**: I'm glad we all agree. I think this will really help us get along better over the next year. Let's vote.
+### Vote
+- Toshio -> B
+- Ryuji -> B
+- Benjamin -> B
+- May -> B
+- Midori -> B
+## Result
+- adopted: B

@@ -1,0 +1,23 @@
+aiwolf_0003__multi-public-stepped.md: 32/32 utterances, missing [], finish=stop, 110s
+aiwolf_0008__multi-private-stepped-process.md: 52/52 utterances, missing [], finish=stop, 162s
+aiwolf_0011__multi-public-stepped.md: 28/28 utterances, missing [], finish=stop, 93s
+aiwolf_0016__multi-private-stepped-process.md: 52/52 utterances, missing [], finish=stop, 147s
+aiwolf_0019__multi-public-stepped.md: 32/32 utterances, missing [], finish=stop, 97s
+aiwolf_0024__multi-private-stepped-process.md: 52/52 utterances, missing [], finish=stop, 161s
+aiwolf_0027__multi-public-stepped.md: 33/33 utterances, missing [], finish=stop, 85s
+candidate_selection_0002__multi-private-stepped-process.md: 45/45 utterances, missing [], finish=stop, 113s
+candidate_selection_0005__multi-public-stepped.md: 45/45 utterances, missing [], finish=stop, 133s
+candidate_selection_0010__multi-private-stepped-process.md: 49/49 utterances, missing [], finish=stop, 134s
+candidate_selection_0013__multi-public-stepped.md: 45/45 utterances, missing [], finish=stop, 104s
+candidate_selection_0018__multi-private-stepped-process.md: 50/50 utterances, missing [], finish=stop, 138s
+candidate_selection_0021__multi-public-stepped.md: 50/50 utterances, missing [], finish=stop, 109s
+candidate_selection_0026__multi-private-stepped-process.md: 50/50 utterances, missing [], finish=stop, 106s
+candidate_selection_0029__multi-public-stepped.md: 35/35 utterances, missing [], finish=stop, 100s
+shared_living_0004__multi-private-stepped-process.md: 56/56 utterances, missing [], finish=stop, 157s
+shared_living_0007__multi-public-stepped.md: 50/50 utterances, missing [], finish=stop, 111s
+shared_living_0012__multi-private-stepped-process.md: 45/45 utterances, missing [], finish=stop, 104s
+shared_living_0015__multi-public-stepped.md: 45/45 utterances, missing [], finish=stop, 119s
+shared_living_0020__multi-private-stepped-process.md: 60/60 utterances, missing [], finish=stop, 144s
+shared_living_0023__multi-public-stepped.md: 30/30 utterances, missing [], finish=stop, 87s
+shared_living_0028__multi-private-stepped-process.md: 60/60 utterances, missing [], finish=stop, 140s
+56/56 games annotated -> /tmp/claude-1091/-diskthalys-ssd14ta-yharada-aiwolf-undergraduate-research/bcec8730-29c9-4bd2-98fc-0a8842b00e36/scratchpad/annot_main/out

@@ -1,0 +1,73 @@
+# candidate_selection_0007__multi-private (candidate_selection)
+
+## Round 1
+- [5] **May**: I’m tired of reinventing the wheel. Let’s check the closure reports from the last accessibility push to see what actually stuck.
+- [6] **Benjamin**: I suspect the approved figures are fiction. I want to see the actual post-occupancy costs versus the original budget estimates.
+- [7] **Midori**: I’m curious about the real passenger experience. Let’s examine the journey audits to see where minutes actually go, not just where complaints land.
+- [8] **Shizue**: I worry about the unseen delays. Let’s review the joint operators' committee minutes to see who else must agree before we start.
+- [9] **Jonathan**: I’m concerned about the long-term financial commitments. Let’s examine the balances in the capital ledger to see what we’re truly obligated to pay.
+- [10] **May**: @Benjamin, your skepticism is refreshing. I’ll pair the closure reports with the two pilots from eight years ago to see if history repeats itself.
+- [11] **Benjamin**: @May, history is a poor substitute for current capacity. I’ll examine the roster books for the late-turn pool to see who is actually left to work.
+- [12] **Midori**: @Benjamin, I appreciate your focus on staffing. I’ll pair the journey audits with the timed runs and crowd counts to verify where the real bottlenecks are.
+- [13] **Shizue**: @May, I agree. I will also review the contingency pricing inside the pre-war shells to understand what the ground might hide beneath our feet.
+- [14] **Jonathan**: @Shizue, your caution is wise. I will also review the crew establishment and maintenance contract to understand the recurring costs we are locked into.
+- [15] **May**: @Midori, your focus on the passenger experience is vital. I’ll stick with my two choices: the closure reports and the old pilots. Let’s see what actually survived.
+- [16] **Benjamin**: @Midori, I’ll stick with my two choices: the roster books and the crew establishment. We need to know who is actually left to work before we promise anything.
+- [17] **Midori**: @May, I agree. I’ll stick with my two choices: the journey audits and the timed runs. We need to find where the minutes truly vanish.
+- [18] **Shizue**: @Jonathan, I appreciate your focus on the recurring costs. I’ll stick with my two choices: the committee minutes and the contingency pricing. Let’s see what the ground and the people truly hold.
+- [19] **Jonathan**: @Shizue, I agree. I’ll stick with my two choices: the capital ledger and the maintenance contract. We must see the true weight of our future obligations.
+- [20] **May**: @All, I’m ready to see what the past whispers. Let’s trust the data, not the hype.
+- [21] **Benjamin**: @All, I’m ready to see who is actually left standing. Let’s trust the rosters, not the promises.
+- [22] **Midori**: @All, I’m ready to see where the minutes truly go. Let’s trust the stopwatch, not the loudest complaint.
+- [23] **Shizue**: @All, I am ready to see what the ground and the people truly hold. Let us trust the quiet evidence, not the loud promises.
+- [24] **Jonathan**: @All, I am ready to see the true weight of our obligations. Let us trust the ledger, not the headline.
+## Round 2
+- [35] **May**: @Benjamin, the past is surprisingly honest. Four lift rebuilds finished on time, but two lane-priority stretches were reverted. History suggests we should avoid traffic experiments.
+- [36] **Benjamin**: @May, history is a poor substitute for current capacity. My rosters show the late-turn pool is hollowed out; overtime is masking a structural void.
+- [37] **Midori**: @Benjamin, your staffing concerns are valid. My audits show waiting for connections costs the most minutes, not ticket queues. We must fix the transfers, not the machines.
+- [38] **Shizue**: @Midori, your focus on transfers is wise. My committee minutes show ferry and rail data terms are still unresolved. We must know who else must say yes before we begin.
+- [39] **Jonathan**: @Shizue, your caution is vital. My ledger shows a ring-fenced construction balance, but operating subsidies are trimmed. We must avoid plans that rely on volatile operating funds.
+- [40] **May**: @Midori, your transfer insight is sharp. My pilot data shows the late-evening timetable actually hit its cost target. We should trust proven schedules, not new tech.
+- [41] **Benjamin**: @May, proven schedules are useless if no one is left to run them. My crew data shows a third below establishment. We cannot promise what we cannot staff.
+- [42] **Midori**: @Benjamin, I hear your worry. But my timed runs show platforms clear at old rates. The bottleneck is connection waiting, not crowd density. We must fix the schedule, not just the staff.
+- [43] **Shizue**: @Benjamin, your worry is real. But my contingency pricing shows the ground itself is the hidden delay. Three jobs stopped for weeks on unrecorded voids. We must respect the earth.
+- [44] **Jonathan**: @Benjamin, your staffing gap is real. Yet my contract shows lift maintenance has spare capacity. We must choose plans that use existing hands, not demand new ones.
+- [45] **May**: @Shizue, the ground is unforgiving. My closure records show lane-priority failed, but lift rebuilds succeeded. We must pick infrastructure that doesn’t fight the earth or the traffic.
+- [46] **Benjamin**: @Jonathan, spare capacity is a lifeline. We must select a plan that leans on those existing lift crews, not the hollowed-out late-turn pool.
+- [47] **Midori**: @Shizue, the ground is a risk, but my data shows the real loss is waiting time. We must prioritize plans that shorten connections, not just dig deeper.
+- [48] **Shizue**: @Midori, I hear you. But if the ground hides voids, no schedule saves us. We must choose a path that respects both the earth and the waiting passengers.
+- [49] **Jonathan**: @Midori, I agree. We must fix the connections, but only if the ledger can sustain it. Let us choose a plan that respects both the waiting passengers and our financial limits.
+- [50] **May**: @All, the evidence is clear. We need proven infrastructure, not traffic experiments. Let’s see which candidate honors the past and respects our current limits.
+- [51] **Benjamin**: @All, the rosters are empty, but the lift crews remain. We must choose a plan that uses existing hands, not demand new ones.
+- [52] **Midori**: @All, the stopwatch is honest. We must fix the connection waits, not the ticket queues. Let us choose the plan that respects the true passenger journey.
+- [53] **Shizue**: @All, the ground and the people hold the truth. We must choose a plan that respects the hidden voids and the quiet agreements. Let us see which candidate endures.
+- [54] **Jonathan**: @All, the ledger is the final judge. We must choose a plan that fits our trimmed operating funds and existing maintenance capacity. Let us see which candidate endures.
+## Round 3
+- [60] **May**: @All, the past is clear. Lifts worked; lanes failed. Option C matches our proven success. Let’s stop reinventing the wheel and fix the access.
+- [61] **Benjamin**: @May, C is the only option that uses the spare lift crews I found. D would drown the hollowed-out late-turn pool. Let’s pick the work we can actually staff.
+- [62] **Midori**: @May, I appreciate the caution, but my audits show connection waits are the true bottleneck. Option B directly addresses mid-city delays. Let’s fix the journey, not just the stairs.
+- [63] **Shizue**: @Midori, I hear your urgency. But my minutes show ferry and rail data terms are unresolved. Option A requires their agreement. We must respect the quiet agreements.
+- [64] **Jonathan**: @Shizue, your caution is vital. Option A’s recurring fees would strain our trimmed operating subsidy. We must avoid new financial commitments.
+- [65] **May**: @Midori, I hear you, but history is a harsh judge. Lanes failed; lifts endured. Option C is the only path that respects the ground and our proven track record.
+- [66] **Benjamin**: @Midori, B’s dedicated lanes are a trap. My rosters show the late-turn pool is hollowed out. We cannot staff a new corridor without breaking the existing service.
+- [67] **Midori**: @Benjamin, I understand the staffing risk. But my timed runs show the mid-city route is the true bottleneck. B fixes the journey, not just the schedule.
+- [68] **Shizue**: @Benjamin, I understand your worry. But my contingency pricing shows the ground hides voids. Option C digs into pre-war shells. We must respect the earth, not just the rosters.
+- [69] **Jonathan**: @Shizue, the ground is a risk, but my contract shows lift crews have spare capacity. Option C uses existing hands, avoiding new financial commitments.
+- [70] **May**: @Shizue, the voids are a risk, but the lifts are proven. Option C respects the ground and our history. Let’s choose the path that actually works.
+- [71] **Benjamin**: @Shizue, the voids are a risk, but the lift crews are ready. Option C uses existing hands, avoiding the hollowed-out late-turn pool. Let’s pick the work we can actually staff.
+- [72] **Midori**: @Shizue, I hear your caution. But my data shows the real loss is waiting time, not ground risk. Option B fixes the journey, not just the stairs.
+- [73] **Shizue**: @Midori, I hear your urgency. But the ground is unforgiving. Option C digs into pre-war shells where voids hide. We must respect the earth, not just the stopwatch.
+- [74] **Jonathan**: @Shizue, I hear your caution. But my ledger shows C fits our trimmed funds. Let us choose the path that respects both the earth and our financial limits.
+- [75] **May**: @All, the evidence is unanimous. Option C honors our history, our staffing, and our budget. I vote for C.
+- [76] **Benjamin**: @May, I concur. Option C is the only plan that respects the hollowed-out rosters and leverages the spare lift capacity. I vote for C.
+- [77] **Midori**: @May, I respect the history, but my stopwatch is honest. Option B fixes the connection waits that truly cost passengers time. I vote for B.
+- [78] **Shizue**: @May, I hear your confidence. But the ground is unforgiving. Option C digs into pre-war shells where voids hide. We must respect the earth. I vote for B.
+- [79] **Jonathan**: @May, I concur. Option C leverages the spare lift capacity and respects our trimmed operating funds. It is the only path that endures. I vote for C.
+### Vote
+- May -> C
+- Benjamin -> C
+- Midori -> B
+- Shizue -> B
+- Jonathan -> C
+## Result
+- adopted: C

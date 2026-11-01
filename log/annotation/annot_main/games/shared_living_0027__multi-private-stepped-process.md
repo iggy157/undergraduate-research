@@ -1,0 +1,73 @@
+# shared_living_0027__multi-private-stepped-process (shared_living)
+
+## Round 1
+- [5] **Asuka**: We need a fair system, but we must ensure it doesn't create unnecessary friction between neighbors.
+- [6] **Yumi**: I agree! I've heard some people are unhappy about who gets which spot. Let's find a way to make everyone smile!
+- [7] **Ryuji**: The current situation is chaotic. We need to understand the actual physical usage and the daily flow before deciding.
+- [8] **Shunichi**: Let's be rational. We always talk about "fairness," but nobody ever checks the actual costs or the budget. It's quite amateur.
+- [9] **Toshio**: A system is only as good as its maintenance. I'm concerned about who will actually manage the paperwork and the effort involved.
+- [10] **Asuka**: @Shunichi, financial data is useful, but social stability is more important for long-term living.
+- [11] **Yumi**: Maybe we can look at how things were done before? It might help us avoid the same mistakes!
+- [12] **Ryuji**: @Toshio, the administrative effort is secondary to the physical reality. If the layout is bad, no amount of paperwork fixes it.
+- [13] **Shunichi**: Stability is a luxury bought with money, Asuka. I want to know exactly what we are paying for and what the alternatives cost.
+- [14] **Toshio**: @Ryuji, physical reality is important, but if the management lapses, the physical layout becomes irrelevant. We need to see the history of these failures.
+- [15] **Asuka**: I want to know if previous rules caused conflicts. We shouldn't implement a system that makes people avoid each other in the lobby.
+- [16] **Yumi**: I'm really worried about the grumbling. I want to know if the same people always get the best spots or if it's just a misunderstanding.
+- [17] **Ryuji**: I'll focus on the actual movement of the bikes. The morning rush is where the real problem lies.
+- [18] **Shunichi**: I'll dig into the ledger. It's high time we stopped guessing and started looking at the actual numbers.
+- [19] **Toshio**: I will look into the handover files and the minutes. I want to see where previous administrative efforts failed.
+- [20] **Asuka**: Let's proceed with the investigations then. I'll look into the history of complaints and the minutes.
+- [21] **Yumi**: I'll check the sticker register and the rain exposure! I want to make sure the spots are actually usable for everyone.
+- [22] **Ryuji**: I'll observe the morning departures and check the rain exposure as well. We need to see the actual friction.
+- [23] **Shunichi**: I'll take the ledger and the treasurer's file. Let's see if there's any actual money involved in this "chaos."
+- [24] **Toshio**: I'll stick with the handover file and the five years of association minutes. I need to see the workload.
+## Round 2
+- [35] **Asuka**: The minutes show a total lack of review for years. This stagnation is exactly how resentment builds up silently.
+- [36] **Yumi**: I found out that some people are actually willing to pay more for a spot! That's so surprising and helpful!
+- [37] **Ryuji**: The morning rush is a shoving match. People are moving other bikes just to get out, which leads to damage and frustration.
+- [38] **Shunichi**: As expected, the ledger is bare. We have no dedicated fund for this, and the current cash collection is a tedious, low-yield mess.
+- [39] **Toshio**: The handover file confirms it. The administrative burden is already high for very little return. Adding complex billing will be a nightmare.
+- [40] **Asuka**: @Ryuji, that shoving match is a symptom of a system that ignores human behavior. We cannot let a new rule exacerbate this.
+- [41] **Yumi**: But if people are willing to pay, maybe we can use that money to improve the parking area? That would be a win-win!
+- [42] **Ryuji**: @Yumi, money won't fix a layout where bikes are packed too tightly. The physical friction is the primary issue, not the funding.
+- [43] **Shunichi**: @Ryuji, you're too focused on the "shoving." If we implement a paid system, we can afford better frames or a professional manager.
+- [44] **Toshio**: @Shunichi, a professional manager costs more than the small fees we'd collect. We'd just be creating more paperwork for the treasurer.
+- [45] **Asuka**: I'm concerned that a "paid" system will create a class divide in the building. Those who can't pay will feel marginalized.
+- [46] **Yumi**: I don't want anyone to feel left out! But I also don't want the "grumbling" to continue. Maybe a lottery is fairer?
+- [47] **Ryuji**: A lottery doesn't solve the physical congestion. We need a system that accounts for how often and when bikes are actually used.
+- [48] **Shunichi**: A lottery is a lazy man's solution. It's fair in a vacuum, but it's fiscally useless. We should monetize the demand.
+- [49] **Toshio**: A lottery is the lowest maintenance option. Any system involving payments or usage tracking requires a dedicated administrator who will eventually quit.
+- [50] **Asuka**: We must prioritize social harmony. A system that feels "unfair" or "elitist" will destroy the atmosphere in the lobby.
+- [51] **Yumi**: I just want everyone to be happy. If we can find a way to be fair without making people feel bad, that's the best!
+- [52] **Ryuji**: We need to be realistic. If we don't address the physical congestion, the "atmosphere" will be ruined by people arguing over scratched paint.
+- [53] **Shunichi**: Let's stop the sentimentality. We have a resource shortage. The most rational way to allocate a scarce resource is through a price mechanism.
+- [54] **Toshio**: I'll support whatever requires the least amount of monthly oversight. I've seen too many "great ideas" collapse because the workload was too high.
+## Round 3
+- [60] **Asuka**: Option A is a disaster for social cohesion. It turns neighbors into competitors. Option C is too chaotic and will lead to more fighting.
+- [61] **Yumi**: Option C sounds a bit scary because of the shoving Ryuji mentioned. But Option B feels very fair because everyone has the same chance!
+- [62] **Ryuji**: Option C is exactly what we have now, just with different racks. It doesn't solve the shoving match. Option B provides stability for a year.
+- [63] **Shunichi**: Option B is a waste of potential revenue. Option A is the only one that treats the parking space as the asset it actually is.
+- [64] **Toshio**: Option A requires monthly billing and collection. Option C requires constant physical policing. Option B is a once-a-year event.
+- [65] **Asuka**: @Toshio, I agree that Option B is the most stable. It's a random act of fate, which is easier to accept than a financial or physical battle.
+- [66] **Yumi**: @Shunichi, is the money really more important than the neighbors getting along? I think a lottery would make people feel it's a fair game!
+- [67] **Ryuji**: @Asuka, while B is stable, it doesn't account for the rain exposure I found. Some people will get "bad" spots and feel cheated for a whole year.
+- [68] **Shunichi**: @Yumi, it's not about "importance," it's about efficiency. Why give away for free something that people are explicitly willing to pay for?
+- [69] **Toshio**: @Ryuji, the "bad spots" are a minor grievance compared to the administrative collapse of a payment system. B is the only sustainable choice.
+- [70] **Asuka**: Even if some spots are less desirable, the lottery is a transparent process. It prevents the "stagnation" I saw in the minutes.
+- [71] **Yumi**: I'm worried about the rain spots too, but maybe we can just be kind to each other? I'll vote for the lottery to keep the peace!
+- [72] **Ryuji**: If we go with B, we must at least acknowledge the quality difference of the spots. But compared to the current chaos, it is an improvement.
+- [73] **Shunichi**: You're all choosing the path of least resistance. It's a shame. However, if the alternative is a total lack of funding, A is still superior.
+- [74] **Toshio**: The "path of least resistance" is the only path that doesn't end in a vacant treasurer's seat and a pile of unpaid invoices.
+- [75] **Asuka**: I will vote for Option B. It is the most logically stable outcome for the social dynamics of this building.
+- [76] **Yumi**: I'm voting for Option B too! Let's make it a fun event every year and keep everyone smiling!
+- [77] **Ryuji**: I'll vote for Option B. It provides a fixed order for a set period, which will stop the daily shoving matches and the uncertainty.
+- [78] **Shunichi**: I'll vote for Option A. I cannot in good conscience support a system that ignores the financial reality of the building's assets.
+- [79] **Toshio**: I vote for Option B. It minimizes the administrative burden and prevents the cycle of management failure we've seen in the past.
+### Vote
+- Asuka -> B
+- Yumi -> B
+- Ryuji -> B
+- Shunichi -> A
+- Toshio -> B
+## Result
+- adopted: B

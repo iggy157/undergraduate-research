@@ -1,0 +1,73 @@
+# shared_living_0029__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **Minako**: We need data, not guesses. Who is actually driving this car?
+- [6] **Benjamin**: Agreed. Let’s look at the mechanics of our friction, not just the miles.
+- [7] **Asuka**: The car’s state at handover is critical. I need to know if it’s ready.
+- [8] **Shion**: I want the real figures. Guesswork is for amateurs, not us.
+- [9] **Daisuke**: I... I think we should check the hours recorded in the diary.
+- [10] **Minako**: Daisuke, the diary is a start, but it lacks context.
+- [11] **Benjamin**: Context is key. I’ll look into what other households did.
+- [12] **Asuka**: I’m checking the mechanic’s remarks. Wear patterns tell the truth.
+- [13] **Shion**: I’ll pull the fuel receipts. That’s where the money goes.
+- [14] **Daisuke**: I’ll also look at the state of the car at handover.
+- [15] **Minako**: Shion, fuel receipts are good, but they don’t show frequency.
+- [16] **Benjamin**: Frequency is part of the pattern. I’ll check the weekly trips.
+- [17] **Asuka**: Weekly trips are predictable. I need to know about the heavy use weeks.
+- [18] **Shion**: Heavy use is just a spike. I need the baseline.
+- [19] **Daisuke**: I’m worried about the untangling afterwards. I’ll check the tax papers.
+- [20] **Minako**: Tax papers are boring but necessary. I’ll check the insurance too.
+- [21] **Benjamin**: Insurance is a fixed cost. I’ll look at the trial of recording runs.
+- [22] **Asuka**: A trial is a test. I’ll check the hours of use in the diary.
+- [23] **Shion**: I’ll also look at the last year’s tax, insurance and parking papers.
+- [24] **Daisuke**: I’ll check the last year’s fuel receipts to see the actual spend.
+## Round 2
+- [35] **Minako**: The paperwork is clear. The trial, however, is a time sink.
+- [36] **Benjamin**: I found that asking favours sours groups. We must avoid that trap.
+- [37] **Asuka**: The mechanic says short runs kill the car. That explains the wear.
+- [38] **Shion**: The receipts show two of us bought most fuel. The tax is 280k.
+- [39] **Daisuke**: The car came back dirty twice. The fuel split is very uneven.
+- [40] **Minako**: Shion, the 280k is fixed. The fuel is variable.
+- [41] **Benjamin**: Daisuke, the dirt is a symptom. The favour-asking is the disease.
+- [42] **Asuka**: The short runs are the problem. We need longer, planned trips.
+- [43] **Shion**: If two of us pay for fuel, the others are free-riding.
+- [44] **Daisuke**: I just want to know who owes what without the argument.
+- [45] **Minako**: We need a system that accounts for the time cost of tracking.
+- [46] **Benjamin**: A system that requires constant checking will fail. It breeds resentment.
+- [47] **Asuka**: If we plan longer trips, the car lasts longer. It’s logical.
+- [48] **Shion**: Logic says we split the fixed costs equally, but fuel by use.
+- [49] **Daisuke**: I agree with Shion. But the tracking time is the real burden.
+- [50] **Minako**: The tracking time is a hidden subsidy. We must price it in.
+- [51] **Benjamin**: Exactly. If we don't, the checker becomes the victim.
+- [52] **Asuka**: I can handle the planning. It’s efficient. I don’t mind the work.
+- [53] **Shion**: I’ll handle the numbers. I don’t mind the work either.
+- [54] **Daisuke**: I... I can do the handover checks. It’s quiet work.
+## Round 3
+- [60] **Minako**: Option A is rigid. It ignores actual need and creates waste.
+- [61] **Benjamin**: Option C centralizes power. It risks the favour-asking dynamic I found.
+- [62] **Asuka**: Option B is the only one that accounts for the mechanic’s warning.
+- [63] **Shion**: Option B is logical. It ties cost to use. No free-riding.
+- [64] **Daisuke**: Option B seems fair, but the booking process might be tiring.
+- [65] **Minako**: Daisuke, the tiring part is the tracking. We can automate that.
+- [66] **Benjamin**: Automation reduces the social cost. It removes the personal ask.
+- [67] **Asuka**: I will manage the calendar. It ensures the car is ready for use.
+- [68] **Shion**: I will audit the distances. The numbers must be accurate.
+- [69] **Daisuke**: I will check the car’s state before and after each booking.
+- [70] **Minako**: This division of labor is clear. It addresses the hidden subsidies.
+- [71] **Benjamin**: It prevents the resentment I saw in other groups. It is sustainable.
+- [72] **Asuka**: It ensures the car is used efficiently. No more short, wasteful runs.
+- [73] **Shion**: It ensures the money is accounted for. No more guesswork.
+- [74] **Daisuke**: It gives me a quiet role. I can handle the checks without stress.
+- [75] **Minako**: I am confident in this structure. It is fair and transparent.
+- [76] **Benjamin**: I agree. It protects the group dynamic. Let’s proceed.
+- [77] **Asuka**: I am ready to start the calendar immediately. It is the right choice.
+- [78] **Shion**: I will set up the spreadsheet for the audit. It is inevitable.
+- [79] **Daisuke**: I will prepare the checklist for the handover checks. It feels right.
+### Vote
+- Minako -> B
+- Benjamin -> B
+- Asuka -> B
+- Shion -> B
+- Daisuke -> B
+## Result
+- adopted: B

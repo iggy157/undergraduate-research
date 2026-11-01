@@ -1,0 +1,73 @@
+# candidate_selection_0024__multi-private (candidate_selection)
+
+## Round 1
+- [5] **Minato**: I am a bit worried about the ground here. It has surprised us before.
+- [6] **May**: I am curious about the long-term upkeep. Who pays for the maintenance after the ribbon is cut?
+- [7] **Shizue**: I am concerned about how our past projects have aged. I want to see what the earlier works look like now, not just the plans.
+- [8] **Victoria**: I am concerned about who will actually maintain this space. The groundskeeping rota is shrinking, and I need to know who is left to do the work.
+- [9] **Shunichi**: The ground doesn’t care about your pretty renderings. I need to know how the drainage and heat actually behave here, not just what the brochure promises.
+- [10] **Minato**: @Shunichi, that sounds important. I am also worried about the digging. Who will do the earth-moving here?
+- [11] **May**: @Victoria, that is a fair point. I am looking at the upkeep ledger to see the real cost per hectare.
+- [12] **Shizue**: @May, I agree. The ledger will show the true cost. I will check the condition of the earlier works to see what actually lasted.
+- [13] **Victoria**: @May, the ledger shows the money, but I need the people. I will check the groundskeeping roll to see who is actually available.
+- [14] **Shunichi**: @Minato, the earth-moving firms are a distraction. I am checking the drainage callouts and heat readings to see how the ground actually fails.
+- [15] **Minato**: @Shunichi, I see. I am still curious about the firms. I will look at the regional firms tendering for earth-moving.
+- [16] **May**: @Minato, the firms are just the tip of the iceberg. I am checking the volunteer groups to see if they can fill the staffing gaps.
+- [17] **Shizue**: @Minato, the firms matter, but I am more interested in the people. I will look into the volunteer groups to see who truly cares for this place.
+- [18] **Victoria**: @Shizue, volunteers are helpful, but they are not a permanent solution. I will check the bought-in services to see what external help is actually available.
+- [19] **Shunichi**: @Victoria, bought-in services are just a cost line. I am checking the timed counts of weekday crossings to see how people actually use the space.
+- [20] **Minato**: I will also look at the depot phasing notes. I want to see how the site is hoarded during the work.
+- [21] **May**: I will also check the terms of the regional habitat fund. I need to know if that money is real or just a promise.
+- [22] **Shizue**: I will also check the record of the eastern avenue planting. I want to see if those trees are still standing and healthy after all these years.
+- [23] **Victoria**: I will also check the record of the eastern avenue planting. I need to see if those trees are still standing and healthy after all these years.
+- [24] **Shunichi**: I will also check the drainage callouts and August heat readings. I need to see how the ground actually fails under stress.
+## Round 2
+- [35] **Minato**: I found that only two firms can dig here, and they worry about the clay. The depot notes say we can keep the park open in stages.
+- [36] **May**: @Victoria, the ledger is brutal. Planted ground costs triple to maintain, and the gap is widening. The habitat fund only covers planting, not the hard surfaces.
+- [37] **Shizue**: @May, that is a heavy burden. My findings are similar. The civic hall apron has been patched three times, while the upstream basin remains sound.
+- [38] **Victoria**: @May, that confirms my fear. The roll is down to seven, and the eastern avenue trees died from neglect. Who is left to do the basic care?
+- [39] **Shunichi**: @Minato, two firms is a bottleneck. My data shows drainage callouts doubled and heat spikes are severe. The ground is failing, not just the people.
+- [40] **Minato**: @Shunichi, that is worrying. If the ground fails, the two firms will be stuck. I hope the phasing helps us avoid that.
+- [41] **May**: @Shizue, your apron data is a warning. If hard surfaces decay, the city pays the triple upkeep penalty. We need to minimize that liability.
+- [42] **Shizue**: @May, exactly. The basin lasted because it was simple. The apron failed because it was complex. We must choose what endures, not what impresses.
+- [43] **Victoria**: @Shizue, simplicity is key. The avenue trees died because aftercare was omitted. We need a plan that fits the seven staff we actually have, not the eighteen we lost.
+- [44] **Shunichi**: @Victoria, seven staff is a hard limit. My crossing data shows people stick to firm ground. We need a plan that respects the drainage reality, not just the aesthetic.
+- [45] **Minato**: @Shunichi, I am glad you are looking at the crossings. I worry the clay will make the digging slow. I hope the phasing keeps us safe.
+- [46] **May**: @Minato, the clay is a headache, but the ledger is the real killer. If we plant too much, the city drowns in triple costs. Keep it simple.
+- [47] **Shizue**: @Minato, the clay is a challenge, but the apron’s decay is the true lesson. We must build for the long, quiet years, not the opening day.
+- [48] **Victoria**: @Minato, the phasing helps, but the staffing gap is the real risk. We cannot rely on casuals for daily care.
+- [49] **Shunichi**: @Minato, the clay is a nuisance, but the drainage failure is the crisis. If the ground floods, the phasing is irrelevant. We must design for the water, not just the dig.
+- [50] **Minato**: @Shunichi, I hear you. The water is scary. I just hope the two firms can finish before the rain comes.
+- [51] **May**: @Shunichi, the water is a headache, but the ledger is the real killer. If we plant too much, the city drowns in triple costs. Keep it simple.
+- [52] **Shizue**: @Shunichi, you are right. The water is the true test. I will look for a plan that lets the ground breathe, not one that fights it.
+- [53] **Victoria**: @Shunichi, the water is critical, but the staffing is the bottleneck. We need a plan that seven people can actually sustain, not one that requires a ghost army.
+- [54] **Shunichi**: @Victoria, seven staff is a hard limit. My crossing data shows people stick to firm ground. We need a plan that respects the drainage reality, not just the aesthetic.
+## Round 3
+- [60] **Minato**: I am a little nervous about the clay. The firms said it is risky. I hope the digging is not too hard for them.
+- [61] **May**: @Minato, the clay is a headache, but the ledger is the real killer. If we plant too much, the city drowns in triple costs. Keep it simple.
+- [62] **Shizue**: @May, I agree. The dense planting in A would be a financial trap. I look for what endures, not what impresses.
+- [63] **Victoria**: @May, the ledger is clear, but the staffing is the real crisis. A dense woodland is impossible for seven people to maintain.
+- [64] **Shunichi**: @May, the ledger is a symptom, not the cause. My data shows the ground is already failing. We need a plan that works with the water, not against it.
+- [65] **Minato**: @Shunichi, I am worried. If the ground is already failing, will the digging for the terraces make it worse?
+- [66] **May**: @Minato, the terraces are hard surfaces. That is where the ledger says we save money. The clay is a risk, but the upkeep is the real killer.
+- [67] **Shizue**: @Minato, the terraces are hard, but the apron taught us that complexity decays. I worry the courts will need constant repair, unlike the simple basin.
+- [68] **Victoria**: @Minato, the terraces are hard, but the staffing is the crisis. Seven people cannot maintain courts and changing rooms. I need a plan that fits our actual capacity.
+- [69] **Shunichi**: @Minato, the terraces ignore the water. My data shows the ground floods. Paving over it just moves the problem. We need to manage the drainage, not hide it.
+- [70] **Minato**: @Shunichi, I am scared. If the ground floods, the boardwalks in D might get wet. But I like the water. Is it safe for the firms?
+- [71] **May**: @Minato, the boardwalks are hard surfaces, so the ledger favors them. But the habitat fund only pays for the water, not the paths. We need to check who covers that gap.
+- [72] **Shizue**: @Minato, the water is the heart of D. I worry the boardwalks will rot like the avenue trees if aftercare is forgotten.
+- [73] **Victoria**: @Shizue, the boardwalks are a liability. Seven staff cannot maintain reed beds and water levels. D is a maintenance nightmare we cannot afford.
+- [74] **Shunichi**: @Victoria, you are missing the point. D doesn't fight the water; it uses it. The drainage data proves the ground needs to drain, not be paved over.
+- [75] **Minato**: @Shunichi, I am still worried about the clay. If the ground is soft, can the firms dig the ponds safely? I hope the phasing keeps us safe.
+- [76] **May**: @Shunichi, the water is a headache, but the ledger is the real killer. If we plant too much, the city drowns in triple costs. Keep it simple.
+- [77] **Shizue**: @Shunichi, I hear you. The water is the true test. I will look for a plan that lets the ground breathe, not one that fights it.
+- [78] **Victoria**: @Shunichi, I hear the water argument, but the staffing gap is the hard limit. We cannot manage reed beds with seven people. I need a plan that fits our actual capacity.
+- [79] **Shunichi**: @Victoria, the reed beds are self-sustaining. The data shows the ground needs to drain, not be paved. D works with the water, not against it.
+### Vote
+- Minato -> B
+- May -> B
+- Shizue -> D
+- Victoria -> B
+- Shunichi -> D
+## Result
+- adopted: B

@@ -1,0 +1,73 @@
+# shared_living_0025__single-batch (shared_living)
+
+## Round 1
+- [5] **Mio**: Hi everyone! Since we have more people in the house now, we should probably update how we split the bills, right? I want it to be fair for everyone!
+- [6] **Ryuji**: I agree. The current system is outdated. We need to analyze the actual costs and the feasibility of any changes before we commit to a new method.
+- [7] **Rin**: I'm in! Let's make it super easy so nobody has to spend forever doing math. I want to know how other houses handle this!
+- [8] **Shunichi**: It's about time. The current split is a relic from when we were fewer. I want to see if the current distribution is actually equitable or just convenient.
+- [9] **Misaki**: I agree. It would be better to settle this now before any more tension builds up over the payments. Let's look at the data first.
+- [10] **Mio**: I'll check the "Kitchen notice about the cooler" and "Sunlight and heating need by room." I want to know if people are struggling with the temperature!
+- [11] **Ryuji**: I will look into "The last twelve utility statements" and the "Electrician's quote for the rooms" to understand the financial fluctuations and installation costs.
+- [12] **Rin**: I'll check the "Monthly settle observed at another house" and the "Trial run of a reconciliation template"! I want to see how much work it is!
+- [13] **Shunichi**: I'll examine the "Plug-in monitor readings room by room" and the "Payment log for the last twelve months" to see who is actually using what.
+- [14] **Misaki**: I'll look at the "Payment log for the last twelve months" and "Settling up when the last rooms filled" to see where the friction has been.
+- [15] **Mio**: @Ryuji, do you think the electrician's quote will be expensive? I hope we don't have to pay too much just to change the system!
+- [16] **Ryuji**: That is exactly why I am checking it, Mio. We cannot make a decision based on a guess; we need the actual numbers.
+- [17] **Rin**: @Shunichi, do you think the monitor readings will show who the "electricity monster" is? That would be like a detective game!
+- [18] **Shunichi**: Perhaps. It's more about establishing a factual baseline than playing games, Rin. We need to know if the usage gap is significant.
+- [19] **Misaki**: @Rin, I hope your research into other houses shows a way to make the process less stressful for the person organizing it.
+- [20] **Mio**: I'm excited to see what we find! Let's all do our research and meet back here to figure this out together!
+- [21] **Ryuji**: Agreed. I will focus on the costs and the statements. See you in the next round.
+- [22] **Rin**: I'm on it! I'll go find out all the secrets of the other houses! Bye-bye!
+- [23] **Shunichi**: I'll be interested to see if the payment log matches the rumors of unfairness. See you all soon.
+- [24] **Misaki**: I'll begin my research now. I want to see how the newcomers' arrival affected the mood. See you then.
+## Round 2
+- [35] **Mio**: Wow, I found out that some rooms get no sun and need heat way earlier! And people were actually sweating it out in summer to avoid arguments!
+- [36] **Ryuji**: The bills are incredibly volatile. February was nearly three times the cost of August. Also, fitting sub-meters would cost 34,000 yen per room plus annual fees.
+- [37] **Rin**: Oh no! The other house spent forty minutes just logging readings! And the template for the year-end settle looked like a total nightmare of typing!
+- [38] **Shunichi**: My suspicions were correct. One person's usage is roughly four times another's, mostly due to heaters and desktops. The payment log also shows frequent late payments.
+- [39] **Misaki**: The payment log confirms that queries about changing amounts lead to delays. It also took three weeks just to agree on the newcomers' first payments.
+- [40] **Mio**: @Shunichi, four times the usage?! That's huge! No wonder people are scared to turn on the heat. It feels unfair if some of us are freezing!
+- [41] **Ryuji**: @Mio, that is the problem with a flat split. However, @Rin's findings suggest that the administrative burden of precise metering is significant.
+- [42] **Rin**: It really is! I don't want us to spend our whole evening doing math or typing into templates. That sounds so boring and stressful!
+- [43] **Shunichi**: @Ryuji, the cost of the electrician is high, but the "social cost" of the current system is higher. People are paying for others' desktops and heaters.
+- [44] **Misaki**: @Shunichi, the late payments and arguments prove that the current lack of transparency is damaging our relationships. We need a system that stops the queries.
+- [45] **Mio**: But if we just divide it by five, will the people in the cold rooms still feel bad? I don't want anyone wearing a coat inside!
+- [46] **Ryuji**: A flat split is simple, but as Shunichi noted, the usage gap is extreme. Yet, the upfront cost for meters is a heavy burden for everyone.
+- [47] **Rin**: @Misaki, if we make it too complicated, won't we just argue more about the math? I want something that just... works!
+- [48] **Shunichi**: @Rin, "just working" usually means someone is being cheated. If we ignore the usage gap, the resentment will only grow.
+- [49] **Misaki**: @Shunichi, I agree. But we must balance precision with peace. If the system is too tedious, the person managing it will become the villain.
+- [50] **Mio**: I just want us to be able to use the heater without feeling guilty or worried about the bill!
+- [51] **Ryuji**: We have a conflict between financial precision, upfront cost, and administrative labor. We must weigh these carefully when we see the options.
+- [52] **Rin**: I'm voting for whatever is the least amount of work! I can't stand the thought of those forty-minute reading sessions!
+- [53] **Shunichi**: I'll be looking for the option that most accurately reflects actual consumption. Fairness should be based on data, not convenience.
+- [54] **Misaki**: I will support the option that minimizes conflict and removes the need for constant, awkward reminders and queries.
+## Round 3
+- [60] **Mio**: Okay, let's look at the options! A is a seasonal fixed rate, B is per-room metering, and C is a flat household share.
+- [61] **Ryuji**: Option B is too expensive upfront and has high maintenance. Option C is the simplest but ignores the usage disparity I saw in the statements.
+- [62] **Rin**: Option B sounds like that forty-minute nightmare I read about! And Option C might still lead to arguments if the total jumps around!
+- [63] **Shunichi**: Option C is exactly what we have now, just updated for five people. It doesn't solve the problem of one person carrying the others.
+- [64] **Misaki**: Option C is the most likely to cause the "queries" and late payments I found in the logs because the monthly amount is unpredictable.
+- [65] **Mio**: What about Option A? If we have a fixed rate for the season, we don't have to worry every time we flick a switch! That sounds so relaxing!
+- [66] **Ryuji**: Option A provides budget stability, which I value. It avoids the high cost of meters while smoothing out the winter spikes.
+- [67] **Rin**: @Mio, if it's a fixed rate, does that mean no more monthly math headaches? If we just pay one amount, that sounds way better!
+- [68] **Shunichi**: Option A is a compromise. It doesn't perfectly track usage like B, but it's more stable than C. However, the year-end settlement could be a mess.
+- [69] **Misaki**: @Rin, yes, it would reduce the monthly friction. As long as the year-end settle is handled simply, it removes the monthly accusation cycle.
+- [70] **Mio**: I love Option A! No more sitting in a coat in February just to save a few yen. I'm voting for A!
+- [71] **Ryuji**: It is the most rational balance. It avoids the 34,000 yen per room fee of Option B and the volatility of Option C. I vote A.
+- [72] **Rin**: I'm with Mio! No boring math every month and no expensive meters. Option A is the winner for me! I vote A!
+- [73] **Shunichi**: While not as precise as B, it's a significant improvement over C. It prevents the monthly "who used what" arguments. I vote A.
+- [74] **Misaki**: Option A removes the unpredictability that sours our communication. It's the best choice for the harmony of the house. I vote A.
+- [75] **Mio**: Yay! We all agree! Now we can all be warm and happy this winter!
+- [76] **Ryuji**: It is a sustainable decision. The financial predictability is a major advantage for all of us.
+- [77] **Rin**: No more math monsters! I'm so happy!
+- [78] **Shunichi**: A rare moment of total consensus. Let's hope the year-end settle is handled with a bit more maturity than the current system.
+- [79] **Misaki**: I'm glad we could find a solution that prioritizes our relationships. I'm happy with this result.
+### Vote
+- Mio -> A
+- Ryuji -> A
+- Rin -> A
+- Shunichi -> A
+- Misaki -> A
+## Result
+- adopted: A

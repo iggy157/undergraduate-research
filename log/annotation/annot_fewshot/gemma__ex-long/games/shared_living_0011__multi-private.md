@@ -1,0 +1,73 @@
+# shared_living_0011__multi-private (shared_living)
+
+## Round 1
+- [5] **Ryuji**: Hi everyone. Before we start suggesting destinations, we need to be practical. We should first understand the logistical constraints and the actual costs involved to ensure we don't overextend our budget. Let's look at the data first.
+- [6] **Toshio**: I agree with Ryuji. It is better to establish the factual constraints before we let our imaginations run wild. We need a clear understanding of the workload and the budget to make a sustainable decision.
+- [7] **Minako**: I agree. A data-driven approach will prevent unnecessary conflict later. However, we should also consider the social dynamics of the camp to ensure it actually serves its purpose for the members.
+- [8] **Jonathan**: I agree with you all. A calm and thoughtful approach is best. I believe it is important to understand the actual experience of the camp to ensure everyone can find some peace and rest.
+- [9] **Asuka**: I agree. A logical approach is necessary to avoid errors. We must examine the financial history and the terms of the bookings to ensure the burden is distributed fairly and that we have a plan for contingencies.
+- [10] **Ryuji**: I'll look into the "Group transport in three years of receipts" and "Quoting terms for whole-building lets." I want to see exactly where the money goes and how the booking terms affect our financial risk.
+- [11] **Toshio**: I will examine the "Canteen closure and last year's cooking duty" and the "Lottery and application for public group bookings." I want to assess the administrative burden and the actual labor required to run the camp.
+- [12] **Minako**: I will look into "What the seniors say about year-groups mixing" and the "Attendance sheets for the away camps." I want to understand why some members aren't attending and how we can better integrate the different year-groups.
+- [13] **Jonathan**: I will look into the "Prefecture rate sheet for publicly run beds" and the "Accounts from two clubs that went inland." I want to understand the quality of the accommodations and the daily flow of the camp.
+- [14] **Asuka**: I will examine the "Group transport in three years of receipts" and "Quoting terms for whole-building lets." I want to verify the actual expenses and understand the financial implications of last-minute cancellations.
+- [15] **Ryuji**: Since Asuka is checking the same documents as I am, we can compare our findings later. I want to be certain that we have a precise handle on the expenses before we commit to any specific budget.
+- [16] **Toshio**: I will focus on the operational side. If the administrative process is too cumbersome or the cooking duties are excessive, the camp becomes a burden rather than a benefit for the organizers. I'll see what the data reveals.
+- [17] **Minako**: I believe the social atmosphere is just as critical as the budget. If we don't address the lack of interaction between year-groups, the camp will fail regardless of how well-organized the logistics are.
+- [18] **Jonathan**: I hope that by looking into the inland accounts and the rate sheets, I can find a place that offers a quiet environment. A restful night's sleep is essential for a productive camp.
+- [19] **Asuka**: @Ryuji, yes, comparing notes will be efficient. I am particularly concerned with how the costs are distributed and whether the current system for handling cancellations is equitable. I will focus on those details.
+- [20] **Ryuji**: I agree. Let's proceed with the research. I will focus on the financial history and the terms of the lets to ensure we have a stable foundation. I'll see you all in the next round.
+- [21] **Toshio**: I agree. I will focus on the labor and administrative requirements to ensure the workload is manageable. We cannot afford to let the organization of the camp overshadow the training itself. I'll see you all soon.
+- [22] **Minako**: I will focus on the social data to ensure we create an environment where all members feel welcome. I look forward to seeing how our findings align. See you all in the next round.
+- [23] **Jonathan**: I will do my best to find information that ensures a serene and restful experience for everyone. I look forward to hearing what you all discover. See you soon.
+- [24] **Asuka**: I will begin my research now. I intend to identify any financial gaps or unfair cost distributions in the past records. I will see you all in the next round.
+## Round 2
+- [35] **Ryuji**: The data is concerning. Transport costs fluctuate wildly based on distance, and whole-building lets carry a high risk because non-refundable deposits mean late cancellations are paid for by the remaining members. This is a financial liability we cannot ignore.
+- [36] **Toshio**: The administrative side is equally problematic. Public bookings require a tedious lottery and a rigid application process. Furthermore, self-catering on campus takes significant time. We must prioritize a venue with professional catering and a simple booking system.
+- [37] **Minako**: My findings are quite sobering. A fifth of our members have never attended the away camps, and many of them left the club shortly after. It seems the camp is failing to retain our members.
+- [38] **Jonathan**: I found that inland centers can be quite crowded, with up to eight people sharing a room and strict lights-out policies. I worry that such an environment might be too restless for some of us.
+- [39] **Asuka**: @Ryuji, your assessment is correct. The non-refundable deposits for whole-building lets create a significant financial risk. If a member cancels late, the remaining participants are unfairly burdened with the cost, which is an unacceptable distribution of expense.
+- [40] **Ryuji**: @Asuka, exactly. We cannot risk another deficit. If we choose a distant location or a rigid booking system, any change in attendance will directly impact the club's budget. We need a plan that doesn't punish the members for others' cancellations.
+- [41] **Toshio**: @Ryuji, @Asuka, financial risk is one part of the equation, but we must also consider the human cost. If we choose a public facility, the lottery and paperwork are a nightmare. We cannot let the organizers burn out before the camp even begins.
+- [42] **Minako**: @Toshio, I understand the burden on organizers, but we must address the membership loss. The seniors noted that year-groups only truly mix when everyone sleeps in the same place. If we prioritize convenience over bonding, we risk losing more members.
+- [43] **Jonathan**: @Minako, I understand the desire for bonding, but we must be careful. If we are squeezed eight to a room, the lack of privacy and rest might create tension rather than harmony. Peace of mind is essential for true connection.
+- [44] **Asuka**: @Minako, while bonding is important, it cannot come at the cost of financial instability. If we choose a venue with rigid deposits to ensure everyone sleeps together, we risk creating resentment among those who have to cover the costs of late cancellations.
+- [45] **Ryuji**: @Minako, I understand the goal of bonding, but financial stress is a far greater threat to club harmony. If we face another budget shortfall, it will create a lasting rift. We must prioritize a destination with low transport costs and flexible terms.
+- [46] **Toshio**: @Minako, bonding is a noble goal, but it is impossible if the organizers are too exhausted to lead. A nine-page application and daily cooking duties are unsustainable. We need a private facility with catering to ensure the camp is actually manageable.
+- [47] **Minako**: @Ryuji, @Toshio, I hear your concerns, but we must be honest about the stakes. If members feel isolated and stop attending, the club will collapse regardless of the budget. We need a venue that forces interaction and shared living.
+- [48] **Jonathan**: @Minako, I appreciate your passion for the club's future. However, forced interaction can be draining if people cannot retreat to a quiet space. If we are exhausted from poor sleep, we may find it harder to be kind to one another.
+- [49] **Asuka**: @Minako, forcing interaction through shared living is a gamble if the financial terms are rigid. We must avoid any arrangement where a few members are forced to subsidize others. Fairness in cost is the only way to ensure genuine harmony.
+- [50] **Ryuji**: @Minako, I cannot agree to a gamble with the club's finances. We must find a balance. A local venue with flexible booking terms would minimize transport costs and financial risk while still allowing us to gather. Stability must come first.
+- [51] **Toshio**: @Minako, I understand your concern for the club's survival, but we cannot ignore the reality of organizer burnout. If we choose a path of high administrative labor, we will simply lose the people who make the camp possible. Sustainability is key.
+- [52] **Minako**: I understand the need for stability and sustainability. However, we must realize that a camp that is easy to organize but fails to integrate our members is a failure in itself. We need a solution that balances these risks.
+- [53] **Jonathan**: I believe we can find a middle ground. If we prioritize a place that allows for both shared activities and a restful night's sleep, we can foster bonding without sacrificing our well-being. Let us look for a serene balance.
+- [54] **Asuka**: @Jonathan, a serene balance is ideal, but it must be grounded in financial equity. We need a destination that minimizes transport costs and avoids non-refundable deposits. Only then can we ensure that the camp is fair for every participant.
+## Round 3
+- [60] **Ryuji**: Looking at the options, Option B is the only fiscally responsible choice. It eliminates the high transport costs and the risk of non-refundable deposits associated with whole-building lets. We cannot afford another budget shortfall.
+- [61] **Toshio**: Option B is the only logical choice for the organizers. It removes the nightmare of the municipal lottery and the burden of daily cooking duties. We must ensure the staff can actually train, not just manage logistics.
+- [62] **Minako**: Option B is too safe. If members stay separately or commute, we miss the only window for year-groups to actually mix. We risk further isolation and membership loss if we don't prioritize shared living.
+- [63] **Jonathan**: I worry that Option C would be too restless. With shared dormitories, we risk the same crowded conditions I found in the inland accounts, which would deprive everyone of the quiet sleep they need to stay focused.
+- [64] **Asuka**: Option A is a financial liability. A guesthouse two prefectures away would maximize transport costs and likely involve the same non-refundable deposits I found in the records. It is an irresponsible choice for the budget.
+- [65] **Ryuji**: @Minako, I understand your concern, but the risk of a deficit is a far more immediate threat to the club's existence. Option B is the only way to guarantee we don't overcharge members or drain the account.
+- [66] **Toshio**: @Minako, while I value the social aspect, we cannot ignore the human cost. If we choose Option C, we are signing up for a nine-page application and a lottery. We cannot risk burning out our organizers again.
+- [67] **Minako**: @Ryuji, @Toshio, the "human cost" also includes the members who feel they don't belong and leave the club. Option B fails to address the root cause of our membership loss. We need a shared environment to truly bond.
+- [68] **Jonathan**: @Minako, I understand your heart, but bonding is difficult when people are exhausted. If we choose Option C and the dorms are crowded, the lack of sleep will only lead to irritability and tension, which is the opposite of harmony.
+- [69] **Asuka**: @Minako, while I acknowledge the risk of membership loss, Option C is equally problematic. Public facilities often have rigid payment structures, and the shared dorms do not solve the issue of how we handle late cancellations or uneven side-costs. Option B is the most equitable.
+- [70] **Ryuji**: @Minako, we cannot prioritize bonding over solvency. If we choose a distant or rigid option and face another shortfall, the resulting resentment will do more damage to the club's heart than a lack of shared sleeping quarters. I vote for Option B.
+- [71] **Toshio**: @Minako, we cannot build a community on the backs of exhausted organizers. Option C is a logistical disaster, and Option A is too risky. Option B is the only sustainable path that protects our members' time and health. I vote for Option B.
+- [72] **Minako**: @Ryuji, @Toshio, I cannot in good conscience vote for a plan that ignores the disintegration of our membership. If we choose Option B, we are merely managing a decline. I believe we must take a risk to save the club's spirit. I vote for Option A.
+- [73] **Jonathan**: @Minako, I understand your desire to save the club's spirit, but a risk that compromises our rest is too high. Option B allows for a peaceful environment and avoids the chaos of crowded dorms. I vote for Option B.
+- [74] **Asuka**: @Minako, taking a risk with the budget is not the same as saving the club's spirit. Option A's distance and booking terms would likely lead to the very financial unfairness I fear. Option B is the only responsible choice. I vote for Option B.
+- [75] **Ryuji**: It is clear that the majority of us prioritize stability and sustainability. While I respect Minako's passion, we cannot gamble with the club's finances. Option B is the only rational choice to ensure a fair and solvent camp. I vote for Option B.
+- [76] **Toshio**: The consensus is clear. We must prioritize a system that does not sacrifice the well-being of the organizers for a gamble on social bonding. Option B is the only sustainable decision. I vote for Option B.
+- [77] **Minako**: I see that the majority values stability over the social health of the club. While I remain convinced that Option B will not solve our membership crisis, I will not obstruct a unanimous decision. I vote for Option B.
+- [78] **Jonathan**: I am glad we have found a path that ensures everyone's peace of mind. By choosing Option B, we protect our rest and our budget, allowing us to focus on the training. I vote for Option B.
+- [79] **Asuka**: The decision is logical and fair. By choosing Option B, we eliminate the risk of non-refundable deposits and excessive transport costs, ensuring that no member is unfairly burdened by the actions of others. I vote for Option B.
+### Vote
+- Ryuji -> B
+- Toshio -> B
+- Minako -> B
+- Jonathan -> B
+- Asuka -> B
+## Result
+- adopted: B

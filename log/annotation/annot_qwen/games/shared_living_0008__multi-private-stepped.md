@@ -1,0 +1,73 @@
+# shared_living_0008__multi-private-stepped (shared_living)
+
+## Round 1
+- [5] **May**: I’m tired of guessing who cleans up. Let’s make this official.
+- [6] **Misaki**: The noise from the office is getting worse. I need some quiet.
+- [7] **Servas**: We must understand the cost of our choices before we choose.
+- [8] **Sakura**: I want to see the numbers! No more guessing games, please!
+- [9] **Kenji**: I feel like we’re drifting apart. Can we fix that?
+- [10] **May**: @Misaki, quiet is good, but who pays for the silence?
+- [11] **Misaki**: @May, I’m just stating a fact. The walls are thin.
+- [12] **Servas**: @Sakura, numbers are good, but they don’t tell the whole story.
+- [13] **Sakura**: @Servas, but they tell us if we’re broke! I’m curious!
+- [14] **Kenji**: @May, I agree. But we also need to talk to each other.
+- [15] **May**: @Kenji, talking is nice, but I want a rulebook.
+- [16] **Misaki**: @Kenji, I think we need to look at the physical space.
+- [17] **Servas**: @Misaki, the physical space is a mirror of our habits.
+- [18] **Sakura**: @Misaki, I’ll check the bins! They’re full of secrets!
+- [19] **Kenji**: @Sakura, I’ll check the fridge. It’s been there forever.
+- [20] **May**: I’ll look at the usage tally. Facts first.
+- [21] **Misaki**: I’ll check the partition wall and the invoices.
+- [22] **Servas**: I’ll look at the facilities callouts and the lunch trip.
+- [23] **Sakura**: I’ll check the invoices and the awkward conversation spot.
+- [24] **Kenji**: I’ll check the fridge and the unspoken talk.
+## Round 2
+- [35] **May**: The tally shows two people hogging the room. The bins are full of crumbs.
+- [36] **Misaki**: The wall is thin. I can hear everything. The invoices are high.
+- [37] **Servas**: The facilities team came eleven times for the equipment. The lunch trip is twenty-five minutes.
+- [38] **Sakura**: I found the invoices! We paid 68,000 yen for nine bookings! And the awkward talk happened right here!
+- [39] **Kenji**: The fridge was cleared twice, but half the food was still there. We’re not talking.
+- [40] **May**: @Sakura, 68,000 yen? That’s a lot for a room we don’t even use.
+- [41] **Misaki**: @May, it’s for the outside hire. We could save that money.
+- [42] **Servas**: @Sakura, the money is gone, but the time is what matters.
+- [43] **Sakura**: @Servas, but the money is real! And the awkward talk is real too!
+- [44] **Kenji**: @Sakura, I agree. The fridge thing shows we’re not cleaning up after each other.
+- [45] **May**: @Kenji, exactly. The crumbs prove it. We need a system.
+- [46] **Misaki**: @May, a system is good. But the wall is the real problem.
+- [47] **Servas**: @Misaki, the wall is a symptom. The habits are the disease.
+- [48] **Sakura**: @Servas, I like that! But I still want to see the paper trail!
+- [49] **Kenji**: @Misaki, I think we need a place to talk, not just a wall.
+- [50] **May**: I propose we make it a formal meeting room.
+- [51] **Misaki**: I agree. But we need to fix the sound.
+- [52] **Servas**: I support a clear purpose. Let’s vote on the options.
+- [53] **Sakura**: I’m in! As long as we sign the papers!
+- [54] **Kenji**: I’m in too. Let’s make it a place for us.
+## Round 3
+- [60] **May**: Option C makes sense. We need a place to talk, not just eat.
+- [61] **Misaki**: Option B is better. I need quiet. The wall is too thin for meetings.
+- [62] **Servas**: Option A is practical. We already have the fridge. Let’s use it.
+- [63] **Sakura**: Option C! I want to see the calendar! It’s so organized!
+- [64] **Kenji**: Option C. We need to talk. The fridge thing showed we’re not connecting.
+- [65] **May**: @Misaki, quiet is good, but we need to solve problems together.
+- [66] **Misaki**: @May, I can’t solve problems if I can hear every word.
+- [67] **Servas**: @Misaki, the quiet room is a retreat, not a solution.
+- [68] **Sakura**: @Servas, but the meeting space is a challenge! I like challenges!
+- [69] **Kenji**: @Misaki, I understand. But we need to be friends, not strangers.
+- [70] **May**: @Kenji, exactly. A meeting space helps us be friends.
+- [71] **Misaki**: @May, I’ll compromise. If we fix the sound, I’ll support C.
+- [72] **Servas**: @Misaki, that is a wise step. Let’s move forward.
+- [73] **Sakura**: @Misaki, yay! I’ll check the soundproofing quotes!
+- [74] **Kenji**: @Sakura, great! Let’s make this work for everyone.
+- [75] **May**: I’m voting for C. Let’s make it official.
+- [76] **Misaki**: I’m voting for C, with the sound fix.
+- [77] **Servas**: I’m voting for C. It’s the right choice.
+- [78] **Sakura**: I’m voting for C! I can’t wait to see the calendar!
+- [79] **Kenji**: I’m voting for C. Let’s talk more.
+### Vote
+- May -> C
+- Misaki -> C
+- Servas -> C
+- Sakura -> C
+- Kenji -> C
+## Result
+- adopted: C

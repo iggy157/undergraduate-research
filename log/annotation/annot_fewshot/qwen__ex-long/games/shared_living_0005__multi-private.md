@@ -1,0 +1,73 @@
+# shared_living_0005__multi-private (shared_living)
+
+## Round 1
+- [5] **Benjamin**: I’m curious about the winter habits at a house paying ahead. It seems relevant to our current situation.
+- [6] **Mio**: I’m worried about who actually does the math every month! It feels like it always lands on the person who can’t say no.
+- [7] **Jonathan**: I’d like to understand if the current split truly reflects our different lives here. It feels unfair to assume everyone carries the same load.
+- [8] **Victoria**: I need to see the actual numbers before we change anything. I’m checking the last twelve utility statements and the payment log.
+- [9] **Minato**: I’m worried about how the money talks make us feel. I want to see the kitchen notice about the cooler and the monthly settle at another house.
+- [10] **Benjamin**: I appreciate the focus on feelings, but I suspect the arithmetic is the real culprit. Let’s ensure the method is robust enough to survive our collective amnesia.
+- [11] **Mio**: @Benjamin, robust math is great, but who actually runs it? I’m terrified it becomes my unpaid job!
+- [12] **Jonathan**: @Mio, I hear your worry. I want to verify if the current split truly reflects our different lives here, rather than letting it fester as a rumour.
+- [13] **Victoria**: @Mio, I understand the fear of burden. But without verified data, we are just guessing. I need the statements and log to see the reality.
+- [14] **Minato**: @Mio, I’m sorry it feels like a burden. I just want us to be gentle with each other when we talk about money.
+- [15] **Benjamin**: @Victoria, data is vital, but context matters. I’m checking the winter habits and the plug-in monitor readings to see where the heat actually goes.
+- [16] **Mio**: @Benjamin, I’m checking the trial run of the reconciliation template and the settling up when the last rooms filled! I need to see how much time it actually takes!
+- [17] **Jonathan**: I will examine the electrician's quote for the rooms and the sunlight and heating need by room. I need to see if the physical space dictates the cost.
+- [18] **Victoria**: I will examine the last twelve utility statements and the payment log. I need to see the actual flow of money before we commit to any new structure.
+- [19] **Minato**: I’ll check the kitchen notice about the cooler and the monthly settle observed at another house. I want to see how they kept things kind.
+- [20] **Benjamin**: I’ll check the winter habits and the plug-in monitor readings. Let’s see where the heat actually goes before we guess.
+- [21] **Mio**: I’m checking the trial run of the reconciliation template and the settling up when the last rooms filled! I need to see how much time it actually takes!
+- [22] **Jonathan**: I will examine the electrician's quote for the rooms and the sunlight and heating need by room. I need to see if the physical space dictates the cost.
+- [23] **Victoria**: I will examine the last twelve utility statements and the payment log. I need to see the actual flow of money before we commit to any new structure.
+- [24] **Minato**: I’ll check the kitchen notice about the cooler and the monthly settle observed at another house. I want to see how they kept things kind.
+## Round 2
+- [35] **Benjamin**: The monitors show one room draws four times the lightest, mostly from a heater left running. That’s not a shared cost; it’s a personal habit.
+- [36] **Mio**: @Benjamin, that’s huge! But my template trial was a nightmare. Keying in every invoice by hand takes forever. Who is doing that every single month?
+- [37] **Jonathan**: @Benjamin, that confirms my suspicion. The physical space dictates the cost. Two rooms need heat months earlier, yet we split it evenly. That is the unfairness I feared.
+- [38] **Victoria**: @Benjamin, the statements show February at twenty-nine thousand, August at nine thousand. No two months are close. I need to know the true annual weight before we agree to anything.
+- [39] **Minato**: @Mio, forty minutes is a lot! But I saw people avoid each other for weeks just to save a little money. I want us to be kind, not just fast.
+- [40] **Benjamin**: @Mio, forty minutes is manageable if the template is right. But @Jonathan, the physical disparity is undeniable. We must price the heat, not just the square footage.
+- [41] **Mio**: @Minato, forty minutes is just the start! When the last rooms filled, it took three weeks to sort out! I can’t be the unpaid accountant forever!
+- [42] **Jonathan**: @Mio, I understand the burden. But if we don’t price the heat fairly, the resentment will grow. I want a system that reflects reality, not just convenience.
+- [43] **Victoria**: @Mio, three weeks is unacceptable. My log shows three late settlements, each triggered by confusion over shifting amounts. We need clarity, not just speed.
+- [44] **Minato**: @Victoria, I’m sorry the confusion hurt. I just want us to talk without the silence. Can we find a way that feels safe for everyone?
+- [45] **Benjamin**: @Victoria, clarity is essential, but we must also address the physical reality. The monitor data proves the heat is not evenly distributed. We need a method that accounts for that variance.
+- [46] **Mio**: @Benjamin, I agree! But if the template takes forty minutes, who runs it? I refuse to be the unpaid accountant! We need a system that doesn’t swallow my evenings!
+- [47] **Jonathan**: @Mio, I agree. The physical disparity is real. We need a method that accounts for the heat variance, not just convenience.
+- [48] **Victoria**: @Benjamin, I agree the heat varies, but my log shows the real pain is the shifting amounts causing late payments. We need stability first, then precision.
+- [49] **Minato**: @Victoria, I hear you. The silence after a reminder is so heavy. I just want us to be gentle, not just accurate.
+- [50] **Benjamin**: @Mio, I will run the template. It is a logical exchange for the peace of mind. Let us ensure the method is robust enough to survive our collective amnesia.
+- [51] **Mio**: @Benjamin, you’re volunteering? That’s a lifesaver! But I’m still scared it’ll take forever. Can we make it super simple so it doesn’t eat my evenings?
+- [52] **Jonathan**: @Benjamin, thank you. That relieves a weight I didn’t realize I was carrying. I just need the numbers to be true, so the silence doesn’t turn into resentment.
+- [53] **Victoria**: @Benjamin, I appreciate the offer. But my log shows the pain is the shifting amounts, not the math. I need a method that keeps my monthly share predictable, even if the total swings.
+- [54] **Minato**: @Benjamin, thank you for helping. I just want the money talk to feel safe, so nobody has to hide. Can we make it gentle?
+## Round 3
+- [60] **Benjamin**: Option C is the only one that respects the monitor data. If we don’t meter the heat, we are just guessing. I vote C.
+- [61] **Mio**: @Benjamin, wait! Meters mean I’m checking readings every month! That’s exactly the unpaid job I’m terrified of! I need something that doesn’t swallow my evenings!
+- [62] **Jonathan**: @Benjamin, I understand the appeal of precision. But the quote is thirty-four thousand yen per room. That is a massive upfront cost for a house that is already strained.
+- [63] **Victoria**: @Jonathan, thirty-four thousand is a shock. My statements show February at twenty-nine thousand, August at nine thousand. I cannot absorb that upfront cost. I need stability, not meters.
+- [64] **Minato**: @Benjamin, I’m scared the meters will make us feel like strangers. I just want us to be kind, not just accurate.
+- [65] **Benjamin**: @Jonathan, thirty-four thousand is steep, but the monitor data proves the disparity is real. We cannot ignore the physics of the house.
+- [66] **Mio**: @Benjamin, I get the physics! But if I have to chase readings, I’m out! Option B’s fixed rate sounds way safer for my evenings.
+- [67] **Jonathan**: @Mio, I hear you. But Option B’s year-end settlement risks the very confusion Victoria fears. I need a method that is both fair and predictable, without the upfront cost of C.
+- [68] **Victoria**: @Jonathan, you are right. The year-end settlement is a trap. My log shows late payments caused by shifting amounts. I need a fixed, predictable monthly figure. I vote B.
+- [69] **Minato**: @Victoria, I’m sorry the shifting amounts hurt. I just want us to be gentle, not just accurate.
+- [70] **Benjamin**: @Victoria, I understand the need for stability. But Option B’s year-end settlement is a trap. I stand by C; the physics demand it, even if the cost is steep.
+- [71] **Mio**: @Victoria, I agree! Option B keeps my evenings free. I just need to know who handles the year-end math so it doesn’t become my secret job!
+- [72] **Jonathan**: @Mio, I agree. Option B’s year-end settlement risks the very confusion Victoria fears. I need a method that is both fair and predictable, without the upfront cost of C.
+- [73] **Victoria**: @Mio, I will handle the year-end reconciliation. My log shows the pain is the monthly uncertainty, not the final math. I vote B to secure my predictable share.
+- [74] **Minato**: @Mio, I’m glad you’re not alone. I’m voting for B too. I just want the money talk to feel safe, so nobody has to hide.
+- [75] **Benjamin**: @Victoria, I appreciate your offer, but the physics remain. I stand by C. We cannot ignore the four-to-one disparity. I vote C.
+- [76] **Mio**: @Victoria, you’re handling the year-end math? That’s a huge relief! I’m voting B so my evenings stay free and I don’t become the unpaid accountant!
+- [77] **Jonathan**: @Victoria, I appreciate your offer. Option B offers the stability I need without the upfront cost of C. I vote B to keep the peace.
+- [78] **Victoria**: I stand by my vote for B. The predictable monthly figure protects me from the winter shock. I will handle the year-end reconciliation to ensure clarity.
+- [79] **Minato**: I stand by my vote for B. I just want the money talk to feel safe, so nobody has to hide.
+### Vote
+- Benjamin -> C
+- Mio -> B
+- Jonathan -> B
+- Victoria -> B
+- Minato -> B
+## Result
+- adopted: B

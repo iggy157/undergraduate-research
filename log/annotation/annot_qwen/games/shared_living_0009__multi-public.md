@@ -1,0 +1,73 @@
+# shared_living_0009__multi-public (shared_living)
+
+## Round 1
+- [5] **Misaki**: I need to understand the daily friction. I’ll look into the state of the car at handover and the trips that repeat weekly.
+- [6] **May**: I’m done with the guessing game. I’ll check the hours of use recorded in the diary and the month's trial of recording every run.
+- [7] **Servas**: I will examine the fuel receipts and the mechanic's remarks. I wish to understand the true cost and wear of our shared journey.
+- [8] **Takumi**: I’m picking the spell of checking each other's figures and what two other car-sharing households said. I need to know what actually breaks trust before we pick a system.
+- [9] **Kenji**: I want the real numbers. I’ll check last year’s tax, insurance and parking papers, plus last year’s fuel receipts.
+- [10] **Misaki**: @May, your diary check might explain why the car is always a mess when I need it.
+- [11] **May**: @Misaki, maybe. But I’m counting the actual hours, not just the mess. I need to see where the time really goes.
+- [12] **Servas**: A fair point, May. Yet the wear on the engine often speaks louder than the hours on the clock.
+- [13] **Takumi**: @Servas, wear matters, but I’m watching the people. If we start checking figures, we’ll just end up hating each other again.
+- [14] **Kenji**: @Takumi, I hear you. But without the real numbers, we’re just guessing. I need to know the actual yearly cost before we argue about feelings.
+- [15] **Misaki**: @Kenji, the numbers are fine, but they don’t tell me why the car is unusable on a Tuesday morning.
+- [16] **May**: @Misaki, the diary shows exactly which days are chaos. If I know the hours, I can see if your Tuesday is just bad luck or a pattern.
+- [17] **Servas**: @May, the diary reveals the rhythm, but the engine reveals the truth. I shall see how the wear matches the usage.
+- [18] **Takumi**: @May, if the diary shows chaos, that’s the problem. I’m looking at how we handled it before. We can’t just repeat the same mistakes.
+- [19] **Kenji**: @May, if the diary shows the chaos, my receipts show the cost. I need to see if the heavy days match the heavy spending.
+- [20] **Misaki**: @Kenji, I understand the need for data. But please remember that a clean, ready car is just as important as the fuel cost.
+- [21] **May**: @Kenji, fair enough. But if the diary proves the chaos, I’m not paying for the mess. I need to see the time cost.
+- [22] **Servas**: @Kenji, the receipts reveal the burden, but the mechanic’s words reveal the hidden toll. I shall see how the wear matches the usage.
+- [23] **Takumi**: @Kenji, numbers are good, but they don’t fix the silence. I’m checking what actually broke us before.
+- [24] **Kenji**: @Takumi, I get it. But I can’t fix the silence without knowing the bill. I’ll find the real cost, then we can talk.
+## Round 2
+- [35] **Misaki**: #### Turn 1 of 4
+- [36] **May**: The diary proves Saturdays are triple Tuesdays. And tracking it? An hour a week. That’s my evening gone.
+- [37] **Servas**: The receipts show two of us bought most fuel, while one barely drove. The mechanic warns short city runs destroy brakes.
+- [38] **Takumi**: @May, that hour a week is exactly the friction I feared. @Servas, the uneven fuel use confirms the imbalance. We need a system that stops the asking.
+- [39] **Kenji**: @Servas, that’s huge. Two people bought most fuel, one barely drove. Plus 280,000 yen in fixed costs. We need to split this fairly, not just guess.
+- [40] **Misaki**: @May, the diary explains the chaos, but the handover state is the real problem. Twice this year, I found it empty and filthy.
+- [41] **May**: @Misaki, the diary shows Saturday is triple Tuesday. That’s why it’s a mess. I’m not paying for your chaos.
+- [42] **Servas**: @May, the hour a week is a small price for clarity. @Kenji, the uneven fuel use confirms that a simple split ignores the true burden.
+- [43] **Takumi**: @May, that hour a week is the exact friction I feared. @Servas, the uneven fuel use confirms the imbalance. We need a system that stops the asking.
+- [44] **Kenji**: @May, that hour a week is painful, but the 280,000 yen is real. We can’t ignore the fixed costs just because tracking is annoying.
+- [45] **Misaki**: @May, the diary explains the chaos, but the handover state is the real problem. Twice this year, I found it empty and filthy.
+- [46] **May**: @Misaki, the diary proves Saturday is triple Tuesday. That’s why it’s a mess. I’m not paying for your chaos.
+- [47] **Servas**: @Misaki, the handover state is a symptom, not the cause. The mechanic’s warning about short runs explains the wear. We must address the root.
+- [48] **Takumi**: @Misaki, the mess is a symptom. The real poison is asking for favours. I found that’s what breaks groups. We need to stop the begging.
+- [49] **Kenji**: @Takumi, I agree. But the 280,000 yen fixed cost is the same for everyone, regardless of who drives. We need a base split for that, then adjust for fuel.
+- [50] **Misaki**: @Takumi, I agree. But a system that ignores the car’s condition is useless. I need it ready, not just booked.
+- [51] **May**: @Misaki, I’m not paying for your mess. But I’m also not doing an hour of admin weekly. I need a system that’s low-effort.
+- [52] **Servas**: @May, low effort is a virtue, but fairness is the foundation. If we ignore the true cost, resentment will return.
+- [53] **Takumi**: @May, low effort is good, but if it means asking favours, it fails. I found that’s what breaks trust. We need a system that removes the request entirely.
+- [54] **Kenji**: @May, I get the admin pain. But with 280,000 yen fixed and uneven fuel, we need a system that tracks distance automatically. No more guessing.
+## Round 3
+- [60] **Misaki**: I need the car ready, not just booked. Option A guarantees I hold it, but does it guarantee it’s clean?
+- [61] **May**: @Misaki, A is a nightmare. I’d be holding it on empty Tuesdays, paying full price for nothing. I want C, but only if the admin is minimal.
+- [62] **Servas**: @May, C offers precision, yet demands the very tracking you dread. A offers peace, but ignores the unequal wear I found.
+- [63] **Takumi**: @May, C removes the favour-asking. I found that’s what breaks trust. A is too rigid. I vote C.
+- [64] **Kenji**: @Takumi, C is the only way to match the 280,000 yen fixed cost with actual fuel use. I vote C.
+- [65] **Misaki**: @May, C’s distance tracking solves the fuel split, but it doesn’t fix the empty tank. I need a handover standard, not just a calendar.
+- [66] **May**: @Misaki, I hear you. But C is the only one that doesn’t punish me for empty days. I’ll handle the admin if it stops the mess.
+- [67] **Servas**: @May, precision is the path to peace. C aligns with the true cost I found. I vote C.
+- [68] **Takumi**: @May, C kills the favour-asking. I found that’s what breaks trust. A is too rigid. I vote C.
+- [69] **Kenji**: @May, I agree. C is the only way to be fair with the real numbers. I vote C.
+- [70] **Misaki**: @May, I accept C for the fairness. But I need a rule: if the car is dirty or empty, the next person doesn’t pay.
+- [71] **May**: @Misaki, deal. If it’s dirty or empty, you don’t pay. That’s fair. I’m voting C.
+- [72] **Servas**: @Misaki, a wise condition. It ensures the vehicle is a shared asset, not a burden. I vote C, trusting the system to bring harmony.
+- [73] **Takumi**: @Misaki, that rule stops the resentment. I found that’s what breaks trust. I vote C.
+- [74] **Kenji**: @Misaki, that rule is perfect. It stops the mess and keeps the numbers honest. I’m voting C.
+- [75] **Misaki**: I accept C. The handover rule is essential for my peace of mind. I vote C.
+- [76] **May**: C it is. I’m in. I’ll handle the calendar if it means I never have to untangle who owes what again.
+- [77] **Servas**: C it is. Precision brings peace. I vote C, trusting that fairness will heal our shared journey.
+- [78] **Takumi**: C. No more asking, no more silence. I vote C.
+- [79] **Kenji**: C. The real numbers finally make sense. I vote C.
+### Vote
+- Misaki -> C
+- May -> C
+- Servas -> C
+- Takumi -> C
+- Kenji -> C
+## Result
+- adopted: C

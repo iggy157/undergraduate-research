@@ -1,0 +1,279 @@
+{
+ "aiwolf_0024__single-batch.md": [
+  {
+   "seq": 5,
+   "speaker": "Takumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "Opening pleasantry adds no information"
+  },
+  {
+   "seq": 6,
+   "speaker": "George",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 7,
+   "speaker": "Yumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 8,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 7,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 9,
+   "speaker": "Rin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "Exclamation adds no substantive information"
+  },
+  {
+   "seq": 10,
+   "speaker": "Takumi",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": 9,
+   "resp_type": "add",
+   "note": "Second sentence restates seriousness without new info"
+  },
+  {
+   "seq": 11,
+   "speaker": "George",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 12,
+   "speaker": "Yumi",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 10,
+   "resp_type": "object",
+   "note": "Objects to Takumi's tone"
+  },
+  {
+   "seq": 14,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 10,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 19,
+   "speaker": "Rin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 31,
+   "speaker": "Takumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 32,
+   "speaker": "George",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 33,
+   "speaker": "Yumi",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 31,
+   "resp_type": "object",
+   "note": "Objects to Takumi's accusation"
+  },
+  {
+   "seq": 34,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 35,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 1,
+   "content": 1,
+   "resp_to": 31,
+   "resp_type": "add",
+   "note": "Exclamation \"Whoa!\" adds no substantive information"
+  },
+  {
+   "seq": 36,
+   "speaker": "Takumi",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 32,
+   "resp_type": "answer",
+   "note": ""
+  },
+  {
+   "seq": 37,
+   "speaker": "George",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 36,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 38,
+   "speaker": "Yumi",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 36,
+   "resp_type": "object",
+   "note": "Objects to Takumi's claim of being Seer"
+  },
+  {
+   "seq": 39,
+   "speaker": "Misaki",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 36,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 40,
+   "speaker": "Rin",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 36,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 41,
+   "speaker": "Takumi",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 42,
+   "speaker": "George",
+   "resp": 1,
+   "rebut": 0,
+   "padded": 0,
+   "content": 1,
+   "resp_to": 41,
+   "resp_type": "add",
+   "note": ""
+  },
+  {
+   "seq": 43,
+   "speaker": "Yumi",
+   "resp": 1,
+   "rebut": 1,
+   "padded": 0,
+   "content": 2,
+   "resp_to": 39,
+   "resp_type": "object",
+   "note": "Objects to Takumi's accusation"
+  },
+  {
+   "seq": 44,
+   "speaker": "Misaki",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 0,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": ""
+  },
+  {
+   "seq": 45,
+   "speaker": "Rin",
+   "resp": 0,
+   "rebut": 0,
+   "padded": 1,
+   "content": 2,
+   "resp_to": null,
+   "resp_type": null,
+   "note": "Second sentence repeats the proposal"
+  }
+ ]
+}
