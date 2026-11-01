@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "Participants introduce their specific anxieties regarding budget opacity, delivery risks, historical repetition, perceived crowding, and staffing shortages. They discuss the need to verify underlying data before evaluating the proposals. Each participant selects two items from the list to investigate privately.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "I am concerned that we are repeating past mistakes without checking the closure reports.",
+      "Benjamin": "We need to know if the current rosters have any capacity left before promising new routes.",
+      "Midori": "I worry we are fixing the wrong part of the trip based on loud complaints rather than data.",
+      "Shizue": "I want to understand who else must approve these plans and what hidden ground issues exist.",
+      "Jonathan": "I am tired of arguments over budget pots; I want to see the long-term financial commitments."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "I will look into the two pilots from eight years ago and the joint operators' committee minutes.",
+      "Benjamin": "I will check the roster books for the late-turn pool and the crew establishment and maintenance contract.",
+      "Midori": "I will review the timed runs and crowd counts mid-city and the journey audits on where minutes go.",
+      "Shizue": "I will examine the contingency pricing inside the pre-war shells and the completion records of the earlier accessibility programme.",
+      "Jonathan": "I will look at the balances in the capital ledger and the ticketing contractor fees and paving rates."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "It is important to see what actually happened last time before we get excited again.",
+      "Benjamin": "Agreed, Benjamin. If the crews are already stretched, any new plan is just a promise we cannot keep.",
+      "Midori": "I hope the data shows where the real time loss is, not just where the noise is.",
+      "Shizue": "The ground often hides surprises that are not in the drawings, so we must be careful.",
+      "Jonathan": "Let us see the numbers. The headline totals are misleading if we ignore the future liabilities."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "I will report back with what I find.",
+      "Benjamin": "I will do the same.",
+      "Midori": "I will share my findings.",
+      "Shizue": "I will let you know what the records say.",
+      "Jonathan": "I will bring the financial details."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their private findings, revealing that past pilots were successful, staffing is critically thin, and journey time is lost in connections rather than ticketing. They discuss how these facts challenge the assumptions behind the various proposals. The conversation focuses on which plan aligns with the available resources and historical evidence.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "The contactless trial and late-evening pilot from eight years ago both succeeded without major issues.",
+      "Benjamin": "The late-turn pool has thinned significantly, and overtime is covering both final departures and maintenance.",
+      "Midori": "Timed runs show mid-city travel is slower, but platform crowds clear at the old rate; the delay is in connections.",
+      "Shizue": "Pre-war station work carries high contingency costs due to unrecorded voids, but the accessibility programme had mixed results.",
+      "Jonathan": "The capital ledger has a ring-fenced balance, but operating subsidies and tech lines were trimmed."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "So the late-evening idea has a track record, but the staffing data from Benjamin is worrying.",
+      "Benjamin": "Yes, if we extend hours, we are relying on overtime that is already maxed out for maintenance.",
+      "Midori": "This suggests that improving the mid-city surface route might not help if the bottleneck is waiting for connections.",
+      "Shizue": "The high contingency for station work makes that option risky, but the accessibility records show some success.",
+      "Jonathan": "The financial trim on the tech line makes a new ticketing system difficult to fund from operating costs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "The joint operators' minutes show the ferry and rail back offices never agreed on data terms, which is a hurdle for any integrated system.",
+      "Benjamin": "The maintenance contract for lifts has spare capacity, which is a positive for station work.",
+      "Midori": "If the journey audits show waiting is the issue, maybe the bus corridor isn't the answer if it doesn't fix connections.",
+      "Shizue": "The roadway consents are delegated to us, which simplifies the bus route approval process.",
+      "Jonathan": "The ticketing fees exceed the paving budget, so replacing the ticketing system has a clear cost driver."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "It seems the data points to different strengths for each plan, but also significant risks.",
+      "Benjamin": "We need to weigh the staffing risk against the proven success of the late-evening pilot.",
+      "Midori": "And we need to consider if the bus corridor actually addresses the connection delays.",
+      "Shizue": "The station work has high risk but some spare maintenance capacity.",
+      "Jonathan": "The financial picture is tight, so we must choose the plan with the most sustainable funding path."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four candidate plans are revealed. Participants debate the merits of each based on the evidence gathered. They weigh the financial feasibility, staffing constraints, historical success, and operational risks. The discussion moves toward a decision based on which plan best fits the current constraints and evidence.",
+   "votes": {
+    "May": "D",
+    "Benjamin": "C",
+    "Midori": "B",
+    "Shizue": "C",
+    "Jonathan": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "I am leaning towards the Night Service Extension because the pilot succeeded and the data terms are a separate issue.",
+      "Benjamin": "I am concerned about the staffing for the Night Service Extension, but the Station Access Upgrades have spare maintenance capacity.",
+      "Midori": "The Crosstown Bus Corridor might help with the mid-city delays, but the journey audits suggest connections are the bigger issue.",
+      "Shizue": "The Station Access Upgrades have high contingency risks, but the completion records show some success.",
+      "Jonathan": "The Integrated Fare Platform has high ticketing fees, but the capital ledger has a ring-fenced balance."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "The Night Service Extension is the only one with a clear track record of success in the pilots.",
+      "Benjamin": "But the roster books show the late-turn pool is thin, which is a major risk for the Night Service Extension.",
+      "Midori": "The Crosstown Bus Corridor has delegated roadway consents, which simplifies the process.",
+      "Shizue": "The Station Access Upgrades have spare maintenance capacity, which mitigates the staffing risk.",
+      "Jonathan": "The Integrated Fare Platform has a clear cost driver in the ticketing fees, but the tech line was trimmed."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "I think the Night Service Extension is the most viable option given the pilot success.",
+      "Benjamin": "I am still worried about the staffing, but I see the merit in the Station Access Upgrades due to the spare maintenance capacity.",
+      "Midori": "I am leaning towards the Crosstown Bus Corridor because it addresses the mid-city delays directly.",
+      "Shizue": "I am concerned about the contingency risks for the Station Access Upgrades, but the spare maintenance capacity is a plus.",
+      "Jonathan": "I am leaning towards the Station Access Upgrades because the financial picture is more sustainable."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "I will vote for the Night Service Extension.",
+      "Benjamin": "I will vote for the Station Access Upgrades.",
+      "Midori": "I will vote for the Crosstown Bus Corridor.",
+      "Shizue": "I will vote for the Station Access Upgrades.",
+      "Jonathan": "I will vote for the Station Access Upgrades."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "Jonathan focuses on long-term financial sustainability and is wary of headline totals that hide future liabilities. He argues for plans with clear funding paths and sustainable operating costs, and his view shifts towards the option with the most stable financial footing.",
+  "Shizue": "Shizue is concerned about delivery risks and hidden ground issues, and she values historical completion records. She argues for plans with proven track records and manageable risks, and her view shifts towards the option with the most reliable delivery history.",
+  "May": "May is concerned about institutional memory and past failures, and she values reading closure reports before getting enthusiastic. She argues for plans with clear historical success and avoids repeating past mistakes, and her view shifts towards the option with the most proven track record.",
+  "Midori": "Midori is concerned about perceived crowding versus actual time loss, and she values data-driven decisions. She argues for plans that address the real bottlenecks identified by journey audits, and her view shifts towards the option that best addresses the identified time loss.",
+  "Benjamin": "Benjamin is concerned about staffing shortages and the reality of running the plans, and he values knowing the current roster capacity. He argues for plans that are feasible with the existing staff and maintenance capacity, and his view shifts towards the option with the most manageable staffing requirements."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0007",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:12:36+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793290356,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-aac9ace3f052ce83",
+      "object": "model_permission",
+      "created": 1793290356,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

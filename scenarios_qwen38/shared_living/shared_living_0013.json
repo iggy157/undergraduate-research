@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The team discusses the general criteria for the new layout, focusing on cost, daily workflow, physical comfort, and social dynamics. Each participant raises a specific concern regarding budget, time efficiency, ergonomics, fairness, or communication. The group agrees to investigate specific data points to inform their decision, with each member selecting two topics to research.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "I worry that where we sit will dictate who we talk to, so I want to understand the social impact.",
+      "Toshio": "We need to be explicit about who gets the better spots rather than letting it happen by accident.",
+      "Daisuke": "I am concerned about the budget line and want to know the actual monthly cost of this floor.",
+      "Mio": "My schedule is fragmented, so I need to know how much time the transition and daily setup will take.",
+      "Shunichi": "I sit for eight hours, so I care about the sound levels and how well the chairs fit my body."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "I will look into what the new joiners reported about learning the work.",
+      "Toshio": "I will check the unplanned seat shuffles from the past year to see how disruptive they were.",
+      "Daisuke": "I will look into the basis of the department's floor billing.",
+      "Mio": "I will check the morning routine on the pilot floor upstairs to see how long setup takes.",
+      "Shunichi": "I will look into the sound meter readings across the room."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "I will also look into the drawn plan against the staff survey to see what people complained about.",
+      "Toshio": "I will also look into the arrival times in the badge records to see when people actually get in.",
+      "Daisuke": "I will also look into the facilities quote for re-running power and network.",
+      "Mio": "I will also look into the two project strands within earshot last spring to see how communication changed.",
+      "Shunichi": "I will also look into the physio's note from the workstation check."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over",
+      "Mio": "Over",
+      "Shunichi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the specific findings from their research. The discussion shifts from general concerns to concrete data points about costs, time delays, noise levels, and past disruptions. The group weighs the trade-offs between financial savings, time efficiency, and physical comfort, with some members expressing surprise at the magnitude of certain costs or time losses.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "The survey showed daylight was the biggest complaint, and the new joiners learned by overhearing conversations.",
+      "Toshio": "Badge records show arrival times vary widely, and past shuffles caused two weeks of interruptions.",
+      "Daisuke": "The floor is billed by area, so empty desks still cost money, and moving power costs 6,200 yen per desk.",
+      "Mio": "Setup on the pilot floor took up to nine minutes, and last spring, close proximity stopped us writing handover notes.",
+      "Shunichi": "The printer side is nine decibels louder, and the physio said good chair settings take days to settle."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "So if we sit close, we learn faster, but if we sit far, we might lose that informal knowledge.",
+      "Toshio": "If arrival times are random, any system that relies on first-come-first-served will be unfair.",
+      "Daisuke": "The cost of moving is high, so we need a layout that won't need changing often.",
+      "Mio": "Nine minutes a day adds up, and I don't want to lose that time to setup.",
+      "Shunichi": "I need a quiet spot, but I also need time to adjust my chair, so I can't just pick a random desk."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "I think we need a balance between stability for learning and flexibility for fairness.",
+      "Toshio": "We should decide who gets the quiet spots now, rather than letting it be random.",
+      "Daisuke": "If we minimize moves, we save money, but we might lock in bad spots for some people.",
+      "Mio": "I prefer a system that minimizes daily setup time, even if it means less flexibility.",
+      "Shunichi": "I need a spot that is quiet and allows for chair adjustment, so I need a stable assignment."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over",
+      "Mio": "Over",
+      "Shunichi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three proposed layout structures are presented to the group. The participants debate the implications of each structure regarding cost, time, comfort, and social dynamics. They consider how each structure handles the issues raised in the previous round, such as the cost of moving, the time spent on setup, and the fairness of seat assignment. The group votes on which structure to adopt.",
+   "votes": {
+    "Shizue": "C",
+    "Toshio": "C",
+    "Daisuke": "B",
+    "Mio": "B",
+    "Shunichi": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "The first option means no one has a seat, which might hurt the informal learning we discussed.",
+      "Toshio": "The second option assigns seats by function, which seems fair if we decide who gets the good spots.",
+      "Daisuke": "The third option involves moving the whole team periodically, which would incur the high moving costs again.",
+      "Mio": "The first option would mean daily setup time, which I want to avoid.",
+      "Shunichi": "The first option means I have to adjust my chair every day, which the physio said takes days to settle."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "I like the idea of moving together, but I worry about the disruption to our conversations.",
+      "Toshio": "I prefer the second option because it allows us to explicitly assign the better spots.",
+      "Daisuke": "The second option minimizes moving costs, which is important for the budget.",
+      "Mio": "The second option means I can set up my desk once and not worry about it every morning.",
+      "Shunichi": "The second option gives me a stable spot where I can adjust my chair and stay quiet."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "I am torn between the social benefits of the first option and the stability of the second.",
+      "Toshio": "I think the second option is the most fair and practical.",
+      "Daisuke": "I agree with Toshio, the second option is the most cost-effective.",
+      "Mio": "I also think the second option is best for my schedule.",
+      "Shunichi": "I agree, the second option is best for my comfort."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "I will vote for the third option, hoping the team can adapt to the changes.",
+      "Toshio": "I will vote for the second option.",
+      "Daisuke": "I will vote for the second option.",
+      "Mio": "I will vote for the second option.",
+      "Shunichi": "I will vote for the second option."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Daisuke": "Daisuke is concerned about the budget and the cost of moving desks. He argues that minimizing moves is important to save money. His view remains focused on cost-effectiveness throughout the discussion.",
+  "Mio": "Mio is concerned about the time spent on setup and the impact on her fragmented schedule. She argues that a stable desk is important to minimize daily setup time. Her view remains focused on time efficiency throughout the discussion.",
+  "Shunichi": "Shunichi is concerned about the sound levels and the fit of his chair. He argues that a stable spot is important for his comfort and to allow time for chair adjustment. His view remains focused on physical comfort throughout the discussion.",
+  "Toshio": "Toshio is concerned about fairness in seat assignment. He argues that the better spots should be explicitly assigned rather than left to chance. His view remains focused on fairness and explicit assignment throughout the discussion.",
+  "Shizue": "Shizue is concerned about the social dynamics and informal learning. She argues that the layout should facilitate conversation and knowledge sharing. Her view shifts slightly as she considers the trade-offs between stability and flexibility, but she ultimately values the social aspect."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0013",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:07:16+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293636,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a9375063f0621f44",
+      "object": "model_permission",
+      "created": 1793293636,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

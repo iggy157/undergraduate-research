@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for observation. The group discusses general strategies for identifying threats without sharing specific private information. The tone remains neutral as players gauge each other's demeanor.",
+   "votes": {},
+   "executed": null,
+   "divine": "Minato",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "I will observe the group dynamics closely before making any judgments.",
+      "Misaki": "Let's keep the conversation calm and focused on logic.",
+      "Mizuki": "I am confident in my ability to read the room accurately.",
+      "Minato": "I am curious about how we will approach this challenge together.",
+      "Jonathan": "I prefer to listen first and speak when I have a clear thought."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "Agreed. Silence can be as telling as speech.",
+      "Misaki": "I will note any inconsistencies in our statements.",
+      "Mizuki": "We need to be decisive to survive.",
+      "Minato": "I hope we can all work together peacefully.",
+      "Jonathan": "Knowledge is power, but caution is wisdom."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Skip",
+      "Misaki": "Skip",
+      "Mizuki": "Skip",
+      "Minato": "Skip",
+      "Jonathan": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Misaki": "Over",
+      "Mizuki": "Over",
+      "Minato": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the initial observations from the previous night. Players exchange views on who seems most suspicious based on their behavior. The conversation shifts to weighing the risks of eliminating a potential threat versus the danger of removing a helpful ally. The debate intensifies as players try to align their suspicions.",
+   "votes": {
+    "Toshio": "Mizuki",
+    "Misaki": "Mizuki",
+    "Mizuki": "Minato",
+    "Minato": "Mizuki",
+    "Jonathan": "Mizuki"
+   },
+   "executed": "Mizuki",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "I have a strong feeling about one person's behavior last night.",
+      "Misaki": "I noticed some tension in the air that needs addressing.",
+      "Mizuki": "I am surprised by the direction of this conversation.",
+      "Minato": "I feel a bit anxious about the current situation.",
+      "Jonathan": "Let us consider all possibilities before acting."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "The evidence points to a specific individual.",
+      "Misaki": "I agree with the observation made by the first speaker.",
+      "Mizuki": "I believe I am being unfairly targeted here.",
+      "Minato": "I do not want to hurt anyone, but I must follow the group.",
+      "Jonathan": "I am leaning towards the same conclusion as others."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "It is time to make a decision for the safety of the group.",
+      "Misaki": "I will cast my vote based on my analysis.",
+      "Mizuki": "I will defend myself if necessary.",
+      "Minato": "I hope this leads to a peaceful resolution.",
+      "Jonathan": "I will proceed with the vote as planned."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Misaki": "Over",
+      "Mizuki": "Over",
+      "Minato": "Over",
+      "Jonathan": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mizuki": "Mizuki is confident and logical, often asserting her perspective strongly. She tries to maintain control of the narrative but becomes defensive when challenged.",
+  "Minato": "Minato is calm and naive, often seeking harmony and avoiding conflict. He tends to follow the lead of others and expresses anxiety about the situation.",
+  "Toshio": "Toshio is calculating and mysterious, observing others closely before acting. He is cautious and steady, moving toward his goals with precision.",
+  "Jonathan": "Jonathan is introverted and gentle, preferring to listen and observe. He values inner peace and offers quiet, kind insights when he speaks.",
+  "Misaki": "Misaki is cool-headed and observant, noting inconsistencies in others' behavior. She is kind at heart but maintains a reserved demeanor."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0015",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:16:42+00:00",
+  "attempts": 5,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793294202,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-86de5acbcd78d831",
+      "object": "model_permission",
+      "created": 1793294202,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

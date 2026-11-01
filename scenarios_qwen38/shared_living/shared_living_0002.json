@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the need for financial transparency and the social friction caused by the current setup. Participants express concerns about budget disparities, the time burden of oversight, and the inequity of the current placement. They agree to investigate specific costs, historical complaints, and the practical implications of different arrangements before deciding.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "I am worried about the smell and how it affects our daily walks in summer.",
+      "Midori": "We need to know the actual costs to see if we can afford any change.",
+      "Shunichi": "The last argument left us unable to talk to each other; we need a solution that preserves our relationship.",
+      "May": "I want to know exactly how many hours this will take out of our week.",
+      "Asuka": "The current setup is unfair to one household; we need to look at the history of complaints."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "I will look into what the next lane does to see if it works better.",
+      "Midori": "I will check the block ledger to see what we are already spending.",
+      "Shunichi": "I will look at the residents' meeting statements to understand the social tension.",
+      "May": "I will ask the crew leader about the truck arrival times.",
+      "Asuka": "I will check the ward complaint log to see who has been complaining."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "I also want to see the station block's minutes to learn from their mistakes.",
+      "Midori": "I will also look into the ward subsidy to see if we can get help.",
+      "Shunichi": "I will also look at the measurements of the frontages to see what fits where.",
+      "May": "I will also look at the supervised mornings on the next lane to estimate the time.",
+      "Asuka": "I will also look at the ward filing requirements to see how hard a change is."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Midori": "Over",
+      "Shunichi": "Over",
+      "May": "Over",
+      "Asuka": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings, revealing that the current setup is costly and unpopular, while a permanent build is administratively difficult. The discussion shifts to the practical burdens of oversight and the inequity of the current placement. The group weighs the high cost of a permanent solution against the social friction of a shared responsibility model.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "The station block's minutes show they argued over sweeping and latches within two years.",
+      "Midori": "The ledger shows we spend thirty-four thousand yen a year on extra fees, and the subsidy is capped.",
+      "Shunichi": "The residents' meeting showed three people refused to turn away late bags, which is a problem.",
+      "May": "The truck arrives between seven forty and eight fifteen, which is very early for some of us.",
+      "Asuka": "The complaint log shows eleven of fourteen complaints came from the household with the gate."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "So a permanent build might just create new arguments about maintenance.",
+      "Midori": "The costs are high, but the subsidy helps a little; we need to be careful with the budget.",
+      "Shunichi": "If we don't have a clear rule, the social tension will return.",
+      "May": "The early arrival time makes a strict window difficult for everyone.",
+      "Asuka": "The filing requirements say a permanent build takes four months and needs five signatures."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "I am concerned that any solution that requires constant oversight will fail.",
+      "Midori": "We need to find a way to share the cost and the work fairly.",
+      "Shunichi": "We need a solution that doesn't require us to police each other.",
+      "May": "The time burden is the biggest issue for me; I need to know what is expected.",
+      "Asuka": "The inequity of the current placement is the main issue I want to fix."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Midori": "Over",
+      "Shunichi": "Over",
+      "May": "Over",
+      "Asuka": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three options are presented. The group debates the trade-offs between administrative ease, social friction, and cost. The discussion focuses on which option minimizes the burden on individuals and addresses the inequity of the current placement. The vote is taken based on these criteria.",
+   "votes": {
+    "Rin": "B",
+    "Midori": "B",
+    "Shunichi": "B",
+    "May": "B",
+    "Asuka": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Option A seems to put the burden on whoever is on duty, which is unfair.",
+      "Midori": "Option C is too expensive and takes too long to set up.",
+      "Shunichi": "Option B spreads the burden, which might help with the social tension.",
+      "May": "Option B seems to have the least time commitment for any single person.",
+      "Asuka": "Option B addresses the inequity of the current placement."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "I agree that Option B is the most fair in terms of daily life.",
+      "Midori": "The cost of Option B is lower than Option C, which is good for our budgets.",
+      "Shunichi": "Option B allows us to keep our relationships intact by sharing the load.",
+      "May": "The rotation in Option B means no one is stuck with the early hours all the time.",
+      "Asuka": "Option B is the only one that truly addresses the historical inequity."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "I am ready to vote for Option B.",
+      "Midori": "I am ready to vote for Option B.",
+      "Shunichi": "I am ready to vote for Option B.",
+      "May": "I am ready to vote for Option B.",
+      "Asuka": "I am ready to vote for Option B."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Over",
+      "Midori": "Over",
+      "Shunichi": "Over",
+      "May": "Over",
+      "Asuka": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Midori": "Midori focuses on financial fairness and the practical costs of each option. She argues for a solution that is affordable and does not place an undue burden on any single household. Her view shifts from concern about costs to a preference for the option that balances cost and effort.",
+  "May": "May is concerned with the time burden and the practicality of the arrangements. She argues for a solution that minimizes the time commitment for each household. Her view shifts from concern about the early hours to a preference for the option that spreads the time burden.",
+  "Rin": "Rin is concerned with the daily impact on the neighborhood and the social friction. She argues for a solution that minimizes the negative impact on daily life and preserves the social harmony. Her view shifts from concern about the smell and arguments to a preference for the option that spreads the burden.",
+  "Asuka": "Asuka is concerned with the inequity of the current placement and the fairness of the new arrangement. She argues for a solution that addresses the historical inequity and ensures that no single household bears the brunt. Her view shifts from concern about the complaint log to a preference for the option that addresses the inequity.",
+  "Shunichi": "Shunichi is concerned with the social relationships and the ability to maintain them. He argues for a solution that minimizes the social friction and allows the households to continue living together harmoniously. His view shifts from concern about the residents' meeting to a preference for the option that spreads the burden."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0002",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:38:31+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793291911,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8efb0a5a6f402b20",
+      "object": "model_permission",
+      "created": 1793291911,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

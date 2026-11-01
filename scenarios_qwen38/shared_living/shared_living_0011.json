@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group establishes that financial transparency and logistical feasibility are the primary hurdles. Ryuji and Asuka focus on cost structures and liability, while Minako and Jonathan raise concerns about social cohesion and physical recovery. Toshio highlights the operational burden on organizers. The discussion moves toward identifying specific data points to verify these risks before any commitment is made.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "We need to audit the previous deficit before setting a new fee.",
+      "Toshio": "The last camp consumed too much organizer time for the result.",
+      "Minako": "We must ensure the location fosters interaction between year groups.",
+      "Jonathan": "Sleep quality directly impacts the quality of the final training sessions.",
+      "Asuka": "We need a clear policy on who covers last-minute cancellations."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "I will look into the transport receipts and the public bed rates.",
+      "Toshio": "I will check the canteen closure details and the inland club accounts.",
+      "Minako": "I will review the seniors' comments on mixing and the attendance sheets.",
+      "Jonathan": "I will examine the public booking lottery and the inland club accounts.",
+      "Asuka": "I will look at the whole-building let terms and the membership train times."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "The transport data will show if distance is the main cost driver.",
+      "Toshio": "Knowing if we have to cook ourselves is critical for staffing.",
+      "Minako": "Attendance history tells us who actually shows up for away trips.",
+      "Jonathan": "The booking process determines how much lead time we need.",
+      "Asuka": "The cancellation terms are the biggest financial risk for the club."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Let's wait for the data before discussing specific locations.",
+      "Toshio": "Agreed, we need to know the operational load first.",
+      "Minako": "The social aspect is just as important as the logistics.",
+      "Jonathan": "Rest is non-negotiable for performance.",
+      "Asuka": "Financial clarity is the baseline for any decision."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings, revealing that public facilities are cheap but restrictive, while private options carry high cancellation risks. The data shows that staying local is cheaper but logistically difficult for commuters, and that inland public centers have strict curfews. The group debates the trade-off between cost, convenience, and the social environment, with no single option emerging as clearly superior yet.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "Transport is 38% of costs if we go far, but public beds are very cheap.",
+      "Toshio": "Inland centers have strict curfews, and we'd have to cook if we stay on campus.",
+      "Minako": "Attendance drops significantly for away camps, and mixing only happens in shared dorms.",
+      "Jonathan": "Public bookings are a lottery, and inland centers enforce lights out at eleven.",
+      "Asuka": "Whole-building lets have non-refundable deposits, and a third of members can't commute early."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "The low bed cost is offset by the high transport cost if we go inland.",
+      "Toshio": "Cooking duty is a major burden; a place with staff is better.",
+      "Minako": "If we don't share rooms, the year groups won't mix, which is a problem.",
+      "Jonathan": "The curfew at public centers might disrupt our sleep schedule.",
+      "Asuka": "The non-refundable deposit is a risk if anyone cancels late."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "We need to balance the transport cost against the accommodation cost.",
+      "Toshio": "We should avoid options that require us to cook or manage strict schedules.",
+      "Minako": "We need a location that forces interaction, like shared dormitories.",
+      "Jonathan": "We need a place that allows flexible sleep times and good rest.",
+      "Asuka": "We need a booking model that protects us from last-minute dropouts."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "The financial picture is clearer now, but the trade-offs are significant.",
+      "Toshio": "The operational burden is the deciding factor for me.",
+      "Minako": "The social benefit is worth the logistical challenge.",
+      "Jonathan": "Rest is the priority, so we need a quiet, flexible environment.",
+      "Asuka": "The financial risk is manageable if we choose the right booking type."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three specific options are presented. The group evaluates them against the data gathered: one offers a private building with high cancellation risk, one offers on-campus convenience with logistical splits, and one offers public facilities with strict rules and low cost. The debate centers on whether the social benefits of shared dorms outweigh the strict curfews, or if the financial safety of the private building outweighs the cost. The vote is taken based on these weighted criteria.",
+   "votes": {
+    "Ryuji": "C",
+    "Toshio": "C",
+    "Minako": "C",
+    "Jonathan": "C",
+    "Asuka": "A"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "Option C is the most financially predictable given the public rates.",
+      "Toshio": "Option C avoids the cooking duty, which is a major plus.",
+      "Minako": "Option C has shared dorms, which is essential for mixing.",
+      "Jonathan": "Option C has a curfew, which is a concern for sleep.",
+      "Asuka": "Option A has a non-refundable deposit, which is a financial risk."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "The transport cost for C is high, but the bed cost is low.",
+      "Toshio": "The strict schedule of C is manageable if we plan well.",
+      "Minako": "The social benefit of C outweighs the curfew issue.",
+      "Jonathan": "I am concerned about the lights-out time in C.",
+      "Asuka": "The risk in A is too high for the club's budget."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "I will vote for C for its financial stability.",
+      "Toshio": "I will vote for C to avoid the operational burden.",
+      "Minako": "I will vote for C for the social cohesion.",
+      "Jonathan": "I will vote for C despite the curfew, as it is the best fit.",
+      "Asuka": "I will vote for A to avoid the public facility restrictions."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "The vote is clear.",
+      "Toshio": "Agreed.",
+      "Minako": "Let's proceed with C.",
+      "Jonathan": "I hope the curfew is not too strict.",
+      "Asuka": "I will monitor the financials closely."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Ryuji": "Ryuji focuses on the financial deficit and the need for cost predictability. He argues that the transport costs are the main variable and that public rates offer the most stable financial footing. His view remains consistent, prioritizing the club's long-term financial health over short-term convenience.",
+  "Toshio": "Toshio is concerned with the operational burden on organizers, specifically the time spent on logistics and duty. He argues that options requiring cooking or complex management are unsustainable. His view is shaped by the desire to minimize the workload on the organizing team.",
+  "Jonathan": "Jonathan prioritizes sleep quality and the physical recovery of the members. He argues that the final day's performance depends on adequate rest. His view is influenced by the data on curfews and the need for a quiet environment, though he is willing to compromise if the other benefits are strong.",
+  "Asuka": "Asuka is focused on the financial risks associated with cancellations and the uneven distribution of costs. She argues that the booking model must protect the club from last-minute dropouts. Her view is shaped by the data on non-refundable deposits and the need for a clear policy on liability.",
+  "Minako": "Minako is concerned with the social cohesion of the club and the interaction between year groups. She argues that the location must foster mixing, which only happens in shared living spaces. Her view is shaped by the data on attendance and the importance of social bonds for retention."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0011",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:44:33+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793292273,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-ba13917b703f9290",
+      "object": "model_permission",
+      "created": 1793292273,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

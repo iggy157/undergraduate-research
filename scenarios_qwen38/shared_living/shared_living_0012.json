@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group opens by acknowledging the recurring friction and the need for a fair, sustainable solution. Participants express concerns about financial transparency, the physical burden of maintenance, and the social impact on neighborly relations. The discussion focuses on identifying which specific data points are needed to evaluate potential arrangements, leading to a collective decision on which records to investigate.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "We need to make sure whatever we pick doesn't break our friendship.",
+      "Shizue": "I worry about the smell and the daily nuisance for everyone.",
+      "Asuka": "I need to know the exact time commitment in hours for each person.",
+      "Rin": "It feels unfair if one house keeps bearing the brunt of the mess.",
+      "Servas": "We must look at the actual costs before we agree to anything."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Agreed, let's check the complaint log to see who is most affected.",
+      "Shizue": "I'd like to see what the station block did with their setup.",
+      "Asuka": "I will look into the supervised mornings to estimate the workload.",
+      "Rin": "I want to check the measurements of our frontages for fairness.",
+      "Servas": "I will pull the block ledger and the ward subsidy details."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "That sounds like a good start. Let's get those facts.",
+      "Shizue": "Thank you, everyone. It helps to have a plan.",
+      "Asuka": "I will also check the truck arrival time to see the window.",
+      "Rin": "I will look at the residents' meeting statements too.",
+      "Servas": "I will also check the ward filing requirements for any builds."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Okay, let's go find out what we are dealing with.",
+      "Shizue": "I hope this leads to a peaceful solution.",
+      "Asuka": "Let's be precise with the data.",
+      "Rin": "I'm ready to look into this.",
+      "Servas": "Let us proceed with diligence."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings, revealing that the current setup is costly and unpopular, while permanent structures have significant bureaucratic hurdles and maintenance issues. The conversation shifts to weighing the practicality of different management styles against the social and financial realities uncovered by the research. Tensions arise regarding the feasibility of strict oversight versus the desire for a low-maintenance solution.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "The complaint log shows one house filed most of the complaints.",
+      "Shizue": "The station block's bin house smells worse than the open pile.",
+      "Asuka": "Supervised mornings take about twenty hours a year per house.",
+      "Rin": "The frontages are very uneven, making a fixed spot unfair.",
+      "Servas": "The ledger shows thirty-four thousand yen in annual extra costs."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "That explains the tension. We need a way to share the burden.",
+      "Shizue": "So a permanent box might just move the problem, not fix it.",
+      "Asuka": "Twenty hours is manageable, but who does the turning?",
+      "Rin": "If the frontages are uneven, a moving point might be fairer.",
+      "Servas": "The subsidy covers only forty percent, so we still pay a lot."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "I worry that strict rules will make us hate each other.",
+      "Shizue": "I just want a place I can walk past without holding my breath.",
+      "Asuka": "If we rotate, we all have to deal with the smell sometimes.",
+      "Rin": "Rotating seems to address the fairness issue I raised.",
+      "Servas": "We must consider the long-term cost of moving things around."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Let's see what the ward says about the options.",
+      "Shizue": "I am listening to everyone's concerns.",
+      "Asuka": "The data suggests a shared responsibility model is key.",
+      "Rin": "I hope we can find a solution that feels equal.",
+      "Servas": "Let us wait for the official options to be presented."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The ward presents three distinct arrangements for the group to consider. The discussion centers on the trade-offs between capital investment, ongoing labor, and equity among the five households. Participants debate the practicality of the proposed systems, with some emphasizing the need for a clear, enforceable schedule, while others prioritize minimizing daily friction and preserving community harmony. The group ultimately casts votes to select the arrangement that best balances these competing interests.",
+   "votes": {
+    "Kenji": "B",
+    "Shizue": "B",
+    "Asuka": "C",
+    "Rin": "B",
+    "Servas": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Option B seems to spread the burden most evenly.",
+      "Shizue": "I prefer B because it avoids a permanent smell source.",
+      "Asuka": "Option C is precise, but the early window is difficult.",
+      "Rin": "B feels the most fair given the frontage differences.",
+      "Servas": "B requires less capital outlay than A, which is wise."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "With B, we all take turns, so no one is stuck.",
+      "Shizue": "Yes, and it keeps the lane cleaner between moves.",
+      "Asuka": "C is logical, but the truck time makes it hard for some.",
+      "Rin": "I agree with Kenji. B is the most equitable.",
+      "Servas": "A is too expensive and complex for our needs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "I think B preserves our relationships best.",
+      "Shizue": "I am comfortable with the rotation in B.",
+      "Asuka": "I will vote for C, but I see the appeal of B.",
+      "Rin": "B is my choice. It feels right.",
+      "Servas": "I will vote for B as the most sustainable path."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Let's vote now.",
+      "Shizue": "I vote for B.",
+      "Asuka": "I vote for C.",
+      "Rin": "I vote for B.",
+      "Servas": "I vote for B."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Servas": "Servas focuses on financial sustainability and long-term viability, arguing that the group must understand the true costs before committing. He guides the discussion toward practical, low-maintenance solutions that respect the limited budgets of the households.",
+  "Asuka": "Asuka prioritizes logical precision and quantifiable effort, seeking to minimize the time burden on each resident. She evaluates options based on their operational efficiency and the clarity of their rules.",
+  "Shizue": "Shizue is concerned with the daily quality of life and the social atmosphere of the lane, advocating for solutions that reduce nuisance and maintain a pleasant environment for all neighbors.",
+  "Rin": "Rin emphasizes equity and fairness, challenging any arrangement that places a disproportionate burden on a single household. She pushes for a system that visibly shares the responsibility among all five parties.",
+  "Kenji": "Kenji is focused on preserving the social fabric of the neighborhood, worrying that a rigid or unfair system could damage the relationships between the households. He seeks a solution that allows them to continue living together harmoniously."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0012",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:41:37+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793292097,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-80f3c6d11b8ca39e",
+      "object": "model_permission",
+      "created": 1793292097,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The group introduces themselves and establishes a baseline for trust. They discuss the importance of listening to each other's observations and avoiding hasty judgments. The conversation remains light and focused on building rapport before any specific suspicions are raised.",
+   "votes": {},
+   "executed": null,
+   "divine": "George",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Hi everyone! I'm Rin. I'm really excited to see how this plays out. Who wants to start?",
+      "George": "Hello. I am George. I believe we should listen carefully to everyone's words before making any decisions.",
+      "Daisuke": "H-hello. I'm Daisuke. I'm a bit nervous, but I'll try my best to help.",
+      "Shizue": "Welcome, dear. I'm Shizue. Let's all be kind and open with one another.",
+      "Midori": "Hi, I'm Midori. I agree with George. Let's keep the conversation calm and respectful."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "That sounds good! I think we should share what we notice about how people act.",
+      "George": "Agreed. Behavior is often more telling than words. I will observe closely.",
+      "Daisuke": "I... I will try to pay attention to details. It's hard for me to speak up, but I'll try.",
+      "Shizue": "You are all doing wonderfully. Take your time. There is no rush.",
+      "Midori": "I appreciate the calm atmosphere. It helps me think clearly."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "So, does anyone have any initial thoughts or questions for the others?",
+      "George": "I have no specific questions yet. I am gathering information.",
+      "Daisuke": "I don't have anything specific yet. I'm just listening.",
+      "Shizue": "I feel a sense of peace in this group. Let's maintain that.",
+      "Midori": "I'm also just observing for now. It's important to get a feel for everyone."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Okay! Let's end the day on a positive note. Goodnight everyone!",
+      "George": "Goodnight. Rest well.",
+      "Daisuke": "Goodnight. I hope we have a good first day.",
+      "Shizue": "Sweet dreams, my dears. Stay safe.",
+      "Midori": "Goodnight. See you all in the morning."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the first night's events, noting that no one was attacked. They begin to analyze the initial interactions from the previous day, looking for inconsistencies or signs of deception. The discussion focuses on who seemed most hesitant or evasive, with some players expressing concern about those who were overly quiet or overly assertive. The group debates whether to focus on a specific individual or to wait for more information.",
+   "votes": {
+    "Shizue": "George",
+    "Daisuke": "George",
+    "Midori": "George",
+    "Rin": "George",
+    "George": "Rin"
+   },
+   "executed": "George",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Wow, no one died last night! That's a good start, right? I feel a bit safer now.",
+      "George": "It is fortunate. However, we must remain vigilant. The threat is still present.",
+      "Daisuke": "I... I was worried. I'm glad everyone is still here.",
+      "Shizue": "I am relieved as well. Let us use this time to understand each other better.",
+      "Midori": "Yes, I think it's important to look back at yesterday's conversation. Did anyone notice anything odd?"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "I think some people were a bit too quiet. Like, they didn't say much at all. That seems suspicious to me.",
+      "George": "Silence can be a sign of caution, not necessarily guilt. I prefer to observe before judging.",
+      "Daisuke": "I... I was quiet because I was nervous. I didn't know what to say.",
+      "Shizue": "Daisuke, do not worry. Your silence was understandable. We are all learning.",
+      "Midori": "I agree with Shizue. Nervousness is normal. But I do wonder why some people seemed so focused on others."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "Well, I think we should start narrowing it down. Who do you guys think is acting weird?",
+      "George": "I have not formed a strong opinion yet. I am still gathering data.",
+      "Daisuke": "I don't know. I'm just trying to keep up.",
+      "Shizue": "Let us be gentle in our suspicions. We do not want to hurt anyone's feelings.",
+      "Midori": "I think we should look at who was most defensive. That might be a clue."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Okay, so if we're voting, who are you thinking of? I'm just asking!",
+      "George": "I am considering several options. I will make my decision based on the evidence.",
+      "Daisuke": "I... I don't want to vote for anyone yet. I'm not sure.",
+      "Shizue": "Take your time, Daisuke. There is no pressure. We will all decide together.",
+      "Midori": "I think we should vote for the person who seems least trustworthy. Let's discuss who that is."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shizue": "Shizue focuses on maintaining harmony and kindness, often encouraging others to be gentle. She observes the group's dynamics closely, looking for signs of distress or deception, but avoids direct confrontation.",
+  "Daisuke": "Daisuke is hesitant and anxious, often struggling to express his thoughts. He relies on the reassurance of others and tends to follow the lead of more confident players, though he is careful not to make mistakes.",
+  "Midori": "Midori is calm and analytical, seeking balance in the discussion. She listens carefully to others' arguments and tries to find common ground, often suggesting that the group look for subtle behavioral cues.",
+  "Rin": "Rin is energetic and curious, eager to engage in the game. She is quick to ask questions and suggest ideas, often pushing the group to make decisions, though she can be a bit impulsive.",
+  "George": "George is observant and cautious, preferring to gather information before acting. He is independent and tends to make his own judgments, often appearing detached from the emotional aspects of the discussion."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0010",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T15:48:58+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793288938,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-94c789c44a190f42",
+      "object": "model_permission",
+      "created": 1793288938,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "75d054d816d59dd2469749ced575a144e6c73745",
+   "files": 97
+  }
+ }
+}

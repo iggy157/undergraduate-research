@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the criteria for the trip, focusing on cost transparency, travel efficiency, and personal comfort. Participants select specific research topics to investigate, such as pricing structures, transport schedules, and accommodation details, to inform their eventual choices.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "I want to check how the bills were split last time to avoid surprises.",
+      "Victoria": "I need to know the total cost upfront so I can budget accurately.",
+      "Midori": "I am curious about the social dynamics of shared spaces versus private rooms.",
+      "Toshio": "I will look into the travel times to see how much of the week is lost in transit.",
+      "Daisuke": "I want to check the bathroom and meal schedules to ensure I can sleep well."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "I will also look at the all-in rates to see if they are fair for everyone.",
+      "Victoria": "I will check the pricing of whole-house rentals to see if the bill is predictable.",
+      "Midori": "I will look into how last year's days ran to understand the group's rhythm.",
+      "Toshio": "I will check the ferry and train times to minimize waiting.",
+      "Daisuke": "I will check the bathing hours and bathroom provision for privacy."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "Skip",
+      "Victoria": "Skip",
+      "Midori": "Skip",
+      "Toshio": "Skip",
+      "Daisuke": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "Over",
+      "Victoria": "Over",
+      "Midori": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings from the research. The discussion highlights the trade-offs between fixed costs and variable expenses, the impact of travel time on the holiday duration, and the practicalities of daily routines in different accommodation types.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "The separate rooms last time had a huge price gap, which felt unfair.",
+      "Victoria": "The whole-house option has a fixed per-head cost, which is much easier to manage.",
+      "Midori": "Last year, we barely saw each other because we were all in separate rooms.",
+      "Toshio": "The ferry takes two days total, which is too much time lost.",
+      "Daisuke": "The island house has only one bathroom, which might be stressful."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "All-in rates mean I pay the same as the big eaters, which is annoying.",
+      "Victoria": "But it means no one is left holding the bag for extra meals.",
+      "Midori": "The inn has strict meal times, which might feel restrictive.",
+      "Toshio": "The train to the spa town is only ninety minutes, which is much better.",
+      "Daisuke": "The inn baths are open late, which is good for my sleep routine."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "I prefer the city option where I can just pay for what I eat.",
+      "Victoria": "The city option has variable costs, which is risky for my budget.",
+      "Midori": "The city option allows for more alone time, which I might need.",
+      "Toshio": "The city has frequent trains, so I can move around easily without planning.",
+      "Daisuke": "The city room has a door, which gives me privacy to rest."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "Over",
+      "Victoria": "Over",
+      "Midori": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three options are presented to the group. The participants debate the merits of each, weighing the predictability of costs against the flexibility of individual spending, the efficiency of travel against the quality of the destination, and the social cohesion of a shared house against the privacy of separate rooms. The vote is taken to select the final destination.",
+   "votes": {
+    "Sakura": "B",
+    "Victoria": "A",
+    "Midori": "B",
+    "Toshio": "B",
+    "Daisuke": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Sakura": "I vote for the city option because the costs are transparent and fair.",
+      "Victoria": "I vote for the island option because the total cost is fixed and predictable.",
+      "Midori": "I vote for the city option because it allows for a better balance of togetherness and alone time.",
+      "Toshio": "I vote for the city option because the travel time is minimal and efficient.",
+      "Daisuke": "I vote for the city option because the private room and flexible schedule suit my needs."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Sakura": "Skip",
+      "Victoria": "Skip",
+      "Midori": "Skip",
+      "Toshio": "Skip",
+      "Daisuke": "Skip"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Sakura": "Skip",
+      "Victoria": "Skip",
+      "Midori": "Skip",
+      "Toshio": "Skip",
+      "Daisuke": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Sakura": "Over",
+      "Victoria": "Over",
+      "Midori": "Over",
+      "Toshio": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Victoria": "Victoria is concerned about financial predictability and wants to know the total cost before committing. She argues for options with fixed, all-inclusive pricing to avoid unexpected expenses. Her view remains consistent throughout the discussion, prioritizing budget certainty over flexibility.",
+  "Toshio": "Toshio is concerned about the efficiency of travel and the amount of time lost in transit. He argues for options with short travel times and easy local transport. His view is driven by a desire to maximize the actual holiday time and minimize logistical friction.",
+  "Daisuke": "Daisuke is concerned about personal comfort, sleep quality, and privacy. He argues for options that offer private spaces and flexible routines. His view is shaped by his need for a quiet environment to rest and recharge during the trip.",
+  "Sakura": "Sakura is concerned about fairness in cost-sharing and the transparency of expenses. She argues for options where costs are clear and individual spending is manageable. Her view is driven by a desire to avoid financial disputes and ensure everyone feels the arrangement is equitable.",
+  "Midori": "Midori is concerned about the social dynamics of the group and the balance between togetherness and alone time. She argues for options that allow for both shared experiences and individual space. Her view is shaped by a desire to maintain harmony and ensure everyone feels comfortable and connected."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0004",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:36:26+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793291786,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-943197c614f8bfa8",
+      "object": "model_permission",
+      "created": 1793291786,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

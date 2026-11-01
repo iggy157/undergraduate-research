@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and listening to others' reasoning. There is a general agreement to remain cautious and avoid jumping to conclusions without evidence.",
+   "votes": {},
+   "executed": null,
+   "divine": "George",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Hi everyone, I'm Kenji. I think we should all be friendly and open to start.",
+      "Victoria": "Hello. I believe careful observation is key to finding the truth.",
+      "Toshio": "Agreed. Let's listen more than we speak initially.",
+      "George": "Experience tells us that patience is a virtue in these situations.",
+      "Sakura": "I'm excited! Let's have fun and solve this mystery together!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "I like that idea, Sakura. I'll try to be careful with my words.",
+      "Victoria": "I will watch for inconsistencies in our stories.",
+      "Toshio": "Silence can be as telling as speech. I will note who stays quiet.",
+      "George": "I prefer to let the facts speak for themselves.",
+      "Sakura": "I promise to be honest! I don't want to be suspicious."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "Does anyone have a specific strategy they want to share?",
+      "Victoria": "I think we should focus on logical deduction rather than emotion.",
+      "Toshio": "I am ready to follow the logical path the group chooses.",
+      "George": "I will support the decision that seems most reasonable.",
+      "Sakura": "I'm ready to help! What do we do next?"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Let's just wait for the night to pass and see what happens.",
+      "Victoria": "Agreed. Rest well, everyone.",
+      "Toshio": "Over.",
+      "George": "Over.",
+      "Sakura": "Goodnight! See you in the morning."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the lack of immediate evidence and the need to form alliances. Players express their trust levels and ask for reassurance from others. The conversation shifts to identifying who might be hiding information, with a focus on consistency in statements.",
+   "votes": {
+    "Kenji": "Sakura",
+    "Victoria": "Sakura",
+    "Toshio": "Sakura",
+    "George": "Sakura",
+    "Sakura": "Victoria"
+   },
+   "executed": "Sakura",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Morning! I feel a bit nervous. Who do you all trust the most?",
+      "Victoria": "I am still evaluating everyone. I need more data points.",
+      "Toshio": "I trust those who remain calm and logical. I am observing.",
+      "George": "I am watching the dynamics. Some seem too eager to please.",
+      "Sakura": "I'm so happy to be here! I trust all of you!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "Sakura, your enthusiasm is nice, but it feels a bit forced.",
+      "Victoria": "I agree with Kenji. The lack of specific insight is concerning.",
+      "Toshio": "I find the sudden shift in tone from last night to be notable.",
+      "George": "I have seen this type of behavior before. It is often a mask.",
+      "Sakura": "I'm just being friendly! Why are you all so serious?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "I think we need to vote for someone who isn't giving us solid answers.",
+      "Victoria": "I will vote for the one who seems least transparent.",
+      "Toshio": "I will follow the majority if it is based on logic.",
+      "George": "I will support the decision that protects the village.",
+      "Sakura": "Please don't vote for me! I'm just a kid!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "I'm voting for Sakura. Her behavior is suspicious.",
+      "Victoria": "I concur. The lack of substance is a red flag.",
+      "Toshio": "I will vote for Sakura as well.",
+      "George": "I will also vote for Sakura.",
+      "Sakura": "This is unfair! I'm innocent!"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Toshio": "Toshio focuses on logical consistency and observes the group's dynamics from a distance. He remains cautious and only commits to a vote when the evidence seems strong enough to justify it.",
+  "George": "George relies on his experience to judge character, looking for signs of deception or insincerity. He is independent in his judgment but willing to align with the group if the logic holds.",
+  "Sakura": "Sakura tries to maintain a cheerful and friendly demeanor to avoid suspicion. She becomes defensive when questioned and attempts to appeal to the group's sense of fairness.",
+  "Victoria": "Victoria analyzes the group's statements for inconsistencies and seeks to identify the source of deception. She is reserved but firm in her deductions and willing to lead the vote if necessary.",
+  "Kenji": "Kenji is eager to participate and values group harmony. He is quick to point out behaviors that seem out of place and follows the lead of those he perceives as more experienced."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0027",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:15:44+00:00",
+  "attempts": 5,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793294144,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a1c9a954a77e0bc8",
+      "object": "model_permission",
+      "created": 1793294144,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

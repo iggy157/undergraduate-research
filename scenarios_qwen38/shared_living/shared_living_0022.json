@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group opens by acknowledging the recurring complaints and the need for a fair, sustainable solution. Participants express concerns about cost distribution, daily inconvenience, and the social impact on the neighborhood. They agree to investigate specific data points to inform their decision, focusing on financial records, physical constraints, and operational logistics.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "We need to ensure no single household bears the burden of the current setup.",
+      "Mizuki": "I am concerned about the daily nuisance and how it affects our quality of life.",
+      "Kenji": "We haven't calculated the total costs, so we are flying blind on the budget.",
+      "Midori": "I worry that a bad choice will damage our relationships with neighbors.",
+      "Servas": "We must understand the long-term time commitment before agreeing to anything."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "I will look into the complaint log to see who is most affected.",
+      "Mizuki": "I will check the station block's minutes to see how their system aged.",
+      "Kenji": "I will review the block ledger to understand our current annual expenses.",
+      "Midori": "I will look at the statements from the last residents' meeting to gauge sentiment.",
+      "Servas": "I will investigate the ward subsidy and last year's shelter costs."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "I also want to see the measurements of the five frontages to check feasibility.",
+      "Mizuki": "I will also visit the station block's bin house to see the physical condition.",
+      "Kenji": "I will also check the ward filing requirements to know the administrative load.",
+      "Midori": "I will also look at the truck arrival time to understand the timing constraints.",
+      "Servas": "I will also check the supervised mornings on the next lane to estimate labor."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Let's gather these facts before we debate solutions.",
+      "Mizuki": "Agreed, data will help us avoid repeating past mistakes.",
+      "Kenji": "I'll compile the financial figures for the next round.",
+      "Midori": "I hope this helps us find a way to keep the peace.",
+      "Servas": "Wisdom comes from knowing the true cost of our choices."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings, revealing that the current setup is costly and administratively burdensome. The discussion shifts to weighing the practical difficulties of each potential approach, with emphasis on the hidden costs of maintenance and the social friction of enforcement. The group begins to see that some solutions may create new problems rather than solving the old ones.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "The complaint log shows one household filed most of the grievances, which is unfair.",
+      "Mizuki": "The station block's bin house smells worse than the open pile by midsummer.",
+      "Kenji": "Our ledger shows thirty-four thousand yen a year in extra fees for open bags.",
+      "Midori": "The truck arrives very early, which makes a strict window difficult for some.",
+      "Servas": "The subsidy covers only forty percent, and the shelter costs are high."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "So the current location is a hotspot for conflict, not just waste.",
+      "Mizuki": "A permanent structure might just trap the smell inside, making it worse.",
+      "Kenji": "The filing requirements for a permanent build are four months and five signatures.",
+      "Midori": "If the window is too tight, we risk waking up neighbors or missing the truck.",
+      "Servas": "The supervised mornings on the next lane take about fifty minutes each."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "Moving the point might just move the problem to another gate.",
+      "Mizuki": "We need to consider what it is like to live beside each option daily.",
+      "Kenji": "The administrative burden of changing sites is significant if we move it.",
+      "Midori": "We must ensure the solution doesn't force us to police each other.",
+      "Servas": "The time cost of oversight is a real drain on our evenings."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "I am worried about the equity of the current arrangement.",
+      "Mizuki": "I am concerned about the sensory impact of a sealed space.",
+      "Kenji": "I am focused on the financial and bureaucratic hurdles.",
+      "Midori": "I am focused on the social harmony and ease of enforcement.",
+      "Servas": "I am focused on the long-term sustainability of the labor involved."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three options are presented, and the group debates their merits based on the data gathered. The discussion highlights the trade-offs between administrative simplicity, physical comfort, and social equity. Participants express their preferences based on how well each option addresses their specific concerns, leading to a final vote.",
+   "votes": {
+    "May": "A",
+    "Mizuki": "B",
+    "Kenji": "B",
+    "Midori": "B",
+    "Servas": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "May": "Option A seems fairer, as it shares the burden of the location.",
+      "Mizuki": "Option B avoids the smell issue of a permanent structure.",
+      "Kenji": "Option B has lower upfront costs than building a structure.",
+      "Midori": "Option B might be easier to manage socially if we rotate oversight.",
+      "Servas": "Option B seems to have the most predictable time commitment."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "May": "But Option A requires constant moving, which is a hassle.",
+      "Mizuki": "Option C is too risky given the smell and maintenance issues.",
+      "Kenji": "Option C is too expensive and bureaucratic for us.",
+      "Midori": "Option A might cause new conflicts at each new location.",
+      "Servas": "Option C is a long-term commitment we are not ready for."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "May": "I am leaning towards A for fairness, but B is practical.",
+      "Mizuki": "I prefer B for the daily quality of life.",
+      "Kenji": "I prefer B for the financial and administrative reasons.",
+      "Midori": "I prefer B for the social harmony it might preserve.",
+      "Servas": "I prefer B for the manageable labor load."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "May": "Let's vote. I will vote for A.",
+      "Mizuki": "I will vote for B.",
+      "Kenji": "I will vote for B.",
+      "Midori": "I will vote for B.",
+      "Servas": "I will vote for B."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Kenji": "Kenji is focused on the financial and administrative feasibility of the options. He argues that the group needs to understand the true costs and bureaucratic hurdles before deciding. His view shifts from uncertainty to a preference for the option with the lowest upfront cost and administrative burden.",
+  "Servas": "Servas is concerned with the long-term sustainability and time commitment of the arrangement. He advises the group to consider the hidden costs of labor and maintenance. His view shifts from a general caution to a preference for the option with the most predictable and manageable time load.",
+  "Mizuki": "Mizuki is focused on the daily quality of life and the sensory impact of the refuse point. She argues that the group needs to consider what it is like to live beside each option. Her view shifts from concern about the current nuisance to a preference for the option that minimizes daily annoyance.",
+  "May": "May is concerned with equity and fairness in the distribution of the burden. She argues that the group needs to ensure no single household is disproportionately affected. Her view shifts from frustration with the current imbalance to a preference for the option that shares the burden most evenly.",
+  "Midori": "Midori is focused on social harmony and the ease of enforcement. She argues that the group needs to choose an option that allows them to maintain good relationships. Her view shifts from worry about conflict to a preference for the option that is easiest to manage socially."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0022",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:58:21+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293101,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9620fc3422d8847e",
+      "object": "model_permission",
+      "created": 1793293101,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

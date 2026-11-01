@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The team discusses the criteria for the new layout, with each member highlighting a different priority such as cost, time, comfort, fairness, or social dynamics. They agree to investigate specific data points to inform their decision, selecting two items from the available list to look into.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "I need to know how much time the transition will eat into our daily gaps.",
+      "Toshio": "I want to understand the actual monthly cost of this floor space.",
+      "Mizuki": "We should decide who gets the less desirable spots rather than letting it happen by accident.",
+      "Shion": "I care about the physical comfort and noise levels at my specific desk.",
+      "Yumi": "I want to see how seating affects who we actually talk to during the week."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "I will look into the morning routine timings and the arrival badge records.",
+      "Toshio": "I will check the floor billing basis and the facilities quote for re-running power.",
+      "Mizuki": "I will review the drawn plan against the staff survey and the unplanned shuffles.",
+      "Shion": "I will get the sound meter readings and the physio's note on workstation checks.",
+      "Yumi": "I will look at what the new joiners reported and the project strands from last spring."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "It is important to quantify the disruption before we commit to a shape.",
+      "Toshio": "Knowing the recurring costs will help us avoid hidden budget drains.",
+      "Mizuki": "Transparency about the trade-offs is essential for a fair outcome.",
+      "Shion": "Physical factors are often ignored but have a high impact on productivity.",
+      "Yumi": "Social connectivity is a key part of team efficiency that we should measure."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Let's see what the data says before we make any final calls.",
+      "Toshio": "I will review the financial implications once the data is in.",
+      "Mizuki": "I will analyze the fairness aspects of the proposed layouts.",
+      "Shion": "I will evaluate the comfort metrics for each potential spot.",
+      "Yumi": "I will assess the social impact of the different arrangements."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings from the investigation, revealing details about costs, time losses, physical discomforts, and social dynamics. The conversation shifts to how these specific data points impact the viability of different seating arrangements, with members reacting to the implications of the new information.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "The morning routine takes up to nine minutes, which is significant for my schedule.",
+      "Toshio": "The empty desks cost us 41,000 yen a month, and re-running power is 6,200 yen per desk.",
+      "Mizuki": "The survey shows daylight is the top complaint, and past shuffles caused two weeks of chaos.",
+      "Shion": "The printer row is nine decibels louder, and my chair needs days to adjust properly.",
+      "Yumi": "New joiners learned by overhearing, and cross-aisle questions stopped written notes last spring."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "That morning delay is a major issue for anyone with back-to-back meetings.",
+      "Toshio": "The recurring cost of changes is a significant financial risk we need to manage.",
+      "Mizuki": "We need to be careful not to repeat the disruption of the past shuffles.",
+      "Shion": "The noise level makes the printer row unworkable for deep focus tasks.",
+      "Yumi": "The social benefit of proximity seems to outweigh the need for formal handovers."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "We need a layout that minimizes the daily setup time for everyone.",
+      "Toshio": "We should avoid options that require frequent physical changes to the infrastructure.",
+      "Mizuki": "We must ensure the assignment process is transparent to avoid resentment.",
+      "Shion": "I need a spot that is quiet and allows for a stable physical setup.",
+      "Yumi": "We should prioritize arrangements that encourage natural collaboration."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "The time cost is a hard constraint for me.",
+      "Toshio": "The financial cost is a hard constraint for the department.",
+      "Mizuki": "Fairness is a hard constraint for the team dynamic.",
+      "Shion": "Comfort is a hard constraint for my productivity.",
+      "Yumi": "Connection is a hard constraint for our team culture."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three layout options are presented to the group. The participants discuss how each option aligns with the data they gathered, weighing the trade-offs between cost, time, comfort, fairness, and social interaction. They cast their votes based on which option best balances these competing priorities.",
+   "votes": {
+    "Rin": "B",
+    "Toshio": "C",
+    "Mizuki": "B",
+    "Shion": "C",
+    "Yumi": "A"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Option B seems to balance the time cost with some stability.",
+      "Toshio": "Option C avoids the recurring infrastructure costs of frequent changes.",
+      "Mizuki": "Option B allows for a structured rotation that feels fairer than random assignment.",
+      "Shion": "Option C provides the stability I need for my physical setup.",
+      "Yumi": "Option A maximizes the social interaction I value."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "The rotation in B might reduce the daily setup time if we plan it well.",
+      "Toshio": "The fixed nature of C is the most budget-friendly long-term.",
+      "Mizuki": "The transparency of B's schedule helps with the fairness concern.",
+      "Shion": "The quiet spots in C are essential for my work.",
+      "Yumi": "The flexibility of A is great, but the badge data shows it might be chaotic."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "I am leaning towards B for the predictability it offers.",
+      "Toshio": "I am leaning towards C for the cost savings.",
+      "Mizuki": "I am leaning towards B for the equitable distribution of spots.",
+      "Shion": "I am leaning towards C for the comfort and noise levels.",
+      "Yumi": "I am leaning towards A for the social benefits, but I see the risks."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "I vote for B.",
+      "Toshio": "I vote for C.",
+      "Mizuki": "I vote for B.",
+      "Shion": "I vote for C.",
+      "Yumi": "I vote for A."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Toshio": "Toshio focuses on the financial implications of the layout, specifically the recurring costs of infrastructure changes and the billing for unused space. He argues for a stable arrangement that minimizes future expenses and avoids hidden budget drains.",
+  "Rin": "Rin is concerned with the time cost of the transition and the daily setup routine. She argues for a layout that minimizes the disruption to her schedule and provides a predictable morning routine.",
+  "Mizuki": "Mizuki is focused on the fairness of the seating assignment and the potential for resentment if the process is not transparent. She argues for a structured approach that clearly defines who gets which spot and why.",
+  "Shion": "Shion prioritizes physical comfort and noise levels, arguing that these factors have a significant impact on his productivity. He seeks a stable and quiet environment that allows for a consistent physical setup.",
+  "Yumi": "Yumi is interested in the social dynamics of the team and how seating affects collaboration. She argues for an arrangement that encourages natural interaction and knowledge sharing among team members."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0003",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:49:12+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793292552,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-97407114469ef6fd",
+      "object": "model_permission",
+      "created": 1793292552,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

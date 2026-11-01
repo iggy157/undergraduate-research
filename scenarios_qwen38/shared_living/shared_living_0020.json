@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group identifies the breakdown in their current informal habits and agrees to investigate specific aspects of the cleaning burden, costs, and interpersonal dynamics. They select items from the list to gather data on time, money, and usage patterns before making a decision.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "We need to know the actual time cost before we commit to anything for a year.",
+      "Benjamin": "I agree, but we also need to see who is actually using the spaces versus who is cleaning them.",
+      "Sakura": "I just want to stop guessing if the bathroom is clean when I walk in.",
+      "Shizue": "Please also look into the receipts, as I have been covering the supplies out of pocket.",
+      "Servas": "Let us also check the chat history to see where our disagreements usually start."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "I will time a full pass of the kitchen and bathroom to get real numbers.",
+      "Benjamin": "I will track kitchen usage for two weeks to see the load distribution.",
+      "Sakura": "I will check the bathroom grout status and what everyone considers 'done'.",
+      "Shizue": "I will review the spray stock receipts and the management office rate sheet.",
+      "Servas": "I will read the note from the previous tenants and check the absences on the calendar."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "That covers the time and usage data we need.",
+      "Benjamin": "Yes, the usage data will help balance the workload fairly.",
+      "Sakura": "I hope the 'done' definition helps clarify the standards.",
+      "Shizue": "The cost data will ensure no one is unfairly burdened financially.",
+      "Servas": "The historical context will help us avoid past mistakes."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Let us proceed with these investigations.",
+      "Benjamin": "Agreed, let us gather the facts first.",
+      "Sakura": "Okay, I will start looking at the bathroom now.",
+      "Shizue": "I will dig through the receipts this evening.",
+      "Servas": "I will find that note in the cupboard."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings, revealing discrepancies in time spent, cost distribution, and usage patterns. The discussion focuses on how these specific data points highlight the inequities in the current arrangement and the need for a structured solution.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "A full pass takes over an hour, which is significant for my schedule.",
+      "Benjamin": "Two housemates generate most of the kitchen mess, while others barely cook.",
+      "Sakura": "The grout gets dirty again in eleven days, and standards for 'done' vary wildly.",
+      "Shizue": "Supplies cost 2,300 yen monthly, and the management office charges 4,200 yen per hour for help.",
+      "Servas": "The previous tenants stopped speaking after two years of permanent room division."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "The time cost is higher than I thought, so I need a solution that truly removes this burden.",
+      "Benjamin": "If usage is uneven, the cleaning load should reflect that, not be split equally.",
+      "Sakura": "The inconsistency in standards is why I feel anxious about the bathroom.",
+      "Shizue": "The cost of hiring help is high, but so is the cost of my unpaid labor.",
+      "Servas": "The previous tenants' experience shows that rigid division can damage relationships."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "We need a system that accounts for the actual hours involved.",
+      "Benjamin": "And one that accounts for who is actually using the space.",
+      "Sakura": "And one that has clear, non-negotiable standards for cleanliness.",
+      "Shizue": "And one that is financially transparent and fair.",
+      "Servas": "And one that keeps us on good terms with each other."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "These criteria are essential for any decision we make.",
+      "Benjamin": "Agreed, let us keep these in mind when we look at the options.",
+      "Sakura": "I hope the options address the standard issue.",
+      "Shizue": "I hope the options address the cost issue.",
+      "Servas": "I hope the options address the relationship issue."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three proposed arrangements are presented to the group. Participants debate the merits of each based on the data gathered, weighing factors like time, cost, fairness, and social harmony. The discussion concludes with a vote to select the arrangement that best meets the group's needs.",
+   "votes": {
+    "Minako": "B",
+    "Benjamin": "B",
+    "Sakura": "B",
+    "Shizue": "B",
+    "Servas": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "Option B removes the time burden entirely, which is crucial for me.",
+      "Benjamin": "Option B also solves the fairness issue, as the cost is shared regardless of usage.",
+      "Sakura": "Option B ensures a consistent standard, which I really need.",
+      "Shizue": "Option B makes the costs transparent and shared, which I prefer.",
+      "Servas": "Option B avoids the rigid division that hurt the previous tenants."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "The cost is high, but the time saved is worth it.",
+      "Benjamin": "The cost is high, but the fairness is worth it.",
+      "Sakura": "The cost is high, but the peace of mind is worth it.",
+      "Shizue": "The cost is high, but the transparency is worth it.",
+      "Servas": "The cost is high, but the harmony is worth it."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "I am leaning towards Option B.",
+      "Benjamin": "I am also leaning towards Option B.",
+      "Sakura": "I am leaning towards Option B.",
+      "Shizue": "I am leaning towards Option B.",
+      "Servas": "I am leaning towards Option B."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Let us vote for Option B.",
+      "Benjamin": "I vote for Option B.",
+      "Sakura": "I vote for Option B.",
+      "Shizue": "I vote for Option B.",
+      "Servas": "I vote for Option B."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shizue": "Shizue is concerned about the financial burden of supplies and wants a system that is transparent and fair in cost distribution. She argues for clarity in who pays for what and how often.",
+  "Minako": "Minako is concerned about the time cost of cleaning and wants a solution that truly removes this burden from her schedule. She argues for efficiency and the removal of time-consuming tasks.",
+  "Sakura": "Sakura is concerned about the inconsistency in cleanliness standards and wants a system that provides predictability and clear definitions of 'done'. She argues for consistency and clarity.",
+  "Benjamin": "Benjamin is concerned about the fairness of the workload distribution and wants a system that reflects actual usage patterns. He argues for equity and data-driven decisions.",
+  "Servas": "Servas is concerned about the social harmony of the household and wants a system that prevents conflict and maintains good relationships. He argues for long-term sustainability and interpersonal well-being."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0020",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:03:27+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293407,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8b3de141282affb2",
+      "object": "model_permission",
+      "created": 1793293407,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

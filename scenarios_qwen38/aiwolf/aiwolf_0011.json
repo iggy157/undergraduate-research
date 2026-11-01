@@ -1,0 +1,192 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The group introduces themselves and establishes the rules of engagement. They discuss the importance of observation and trust in the early stages. No specific targets are named, and the tone is cooperative.",
+   "votes": {},
+   "executed": null,
+   "divine": "Midori",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "I am ready to protect this group and find the truth.",
+      "Servas": "Wisdom comes from listening to all voices carefully.",
+      "Midori": "Let's keep the atmosphere friendly and open.",
+      "Toshio": "I will observe the dynamics before acting.",
+      "Ryuji": "Logic will guide my decisions in this game."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "We need to be brave but careful in our judgments.",
+      "Servas": "Experience tells us that patience is key.",
+      "Midori": "I value harmony, so let's avoid conflict.",
+      "Toshio": "Silence can be more telling than words.",
+      "Ryuji": "I assess risks before committing to a stance."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "I will not give up on finding the threat.",
+      "Servas": "Every person has a story to tell.",
+      "Midori": "I hope we can all work together peacefully.",
+      "Toshio": "I am watching who speaks and who stays quiet.",
+      "Ryuji": "My independence allows me to think clearly."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "Let's end the day with a clear mind.",
+      "Servas": "Rest well, for tomorrow brings new challenges.",
+      "Midori": "I look forward to a peaceful night.",
+      "Toshio": "I will reflect on today's interactions.",
+      "Ryuji": "I will continue to analyze the situation."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the first night's events. There is a debate about who to trust based on initial impressions. The conversation focuses on identifying inconsistencies in behavior. The vote is split, leading to a tie-breaker situation.",
+   "votes": {
+    "Takumi": "Midori",
+    "Servas": "Midori",
+    "Midori": "Takumi",
+    "Toshio": "Midori",
+    "Ryuji": "Midori"
+   },
+   "executed": "Midori",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "I have a strong feeling about one person's behavior.",
+      "Servas": "Let us consider the evidence before judging.",
+      "Midori": "I feel unfairly targeted by the current mood.",
+      "Toshio": "I notice certain patterns in the conversation.",
+      "Ryuji": "I believe in following the logical path."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "My intuition is pointing to a specific individual.",
+      "Servas": "We must be cautious not to make mistakes.",
+      "Midori": "I am trying to remain calm and rational.",
+      "Toshio": "The quiet ones are often the most dangerous.",
+      "Ryuji": "I am analyzing the voting patterns so far."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "I am confident in my assessment of the threat.",
+      "Servas": "Let us vote for the person who seems least trustworthy.",
+      "Midori": "I will defend myself if necessary.",
+      "Toshio": "I am ready to make a decision now.",
+      "Ryuji": "I will vote based on my analysis."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "Let's proceed with the vote.",
+      "Servas": "I hope for a fair outcome.",
+      "Midori": "I accept the process of the game.",
+      "Toshio": "I will cast my vote now.",
+      "Ryuji": "My vote is final."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Takumi": "Takumi is driven by a protective instinct and a desire to find the truth. He argues with passion and conviction, often leading the discussion. His view becomes more focused as the game progresses.",
+  "Servas": "Servas offers calm, philosophical advice and encourages patience. He listens more than he speaks, providing a stabilizing presence. His perspective remains consistent throughout the game.",
+  "Toshio": "Toshio is observant and calculating, often staying silent while assessing the situation. He speaks sparingly but with impact, focusing on logical deductions. His view sharpens as the game narrows down.",
+  "Ryuji": "Ryuji is independent and logical, relying on reason rather than emotion. He maintains a distance from the group, analyzing the dynamics from the outside. His stance remains firm and unyielding.",
+  "Midori": "Midori seeks harmony and avoids conflict, often trying to mediate between opposing views. She is friendly and approachable, but her true intentions are hidden. Her behavior becomes more defensive as she is targeted."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0011",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:58:17+00:00",
+  "attempts": 5,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293097,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b302f590f2d2cbeb",
+      "object": "model_permission",
+      "created": 1793293097,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

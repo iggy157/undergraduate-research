@@ -1,0 +1,192 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish ground rules for the discussion. The group discusses the importance of observing behavior patterns and listening to others' reasoning. There is a general agreement to remain calm and analytical during the initial phase.",
+   "votes": {},
+   "executed": null,
+   "divine": "Ryuji",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I will listen carefully to everyone's first impressions.",
+      "Victoria": "Let's keep our observations objective and factual.",
+      "Shunichi": "I am confident in my ability to analyze the room.",
+      "Takumi": "We need to be brave but careful in our judgments.",
+      "Ryuji": "I will assess the situation before making any moves."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "I feel a bit nervous but I will try my best.",
+      "Victoria": "Nervousness is normal; let's focus on logic.",
+      "Shunichi": "Calmness is key to seeing through deception.",
+      "Takumi": "I am ready to protect my friends if needed.",
+      "Ryuji": "Patience is a virtue in this game."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "I will share my thoughts when I am ready.",
+      "Victoria": "Take your time, but do not hide your reasoning.",
+      "Shunichi": "Hiding information is a sign of guilt.",
+      "Takumi": "I trust my instincts more than words.",
+      "Ryuji": "Words can be misleading; actions matter more."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "I will skip for now to observe further.",
+      "Victoria": "That is a reasonable approach.",
+      "Shunichi": "Observation is a valid strategy.",
+      "Takumi": "I will keep an eye on everyone.",
+      "Ryuji": "I will remain silent for now."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the first night's events and begins to form suspicions based on the previous day's behavior. Some players express concern about specific individuals' lack of engagement, while others defend their own positions. The debate centers on who seems most likely to be hiding something, with arguments shifting between trust and suspicion.",
+   "votes": {
+    "Daisuke": "Ryuji",
+    "Victoria": "Ryuji",
+    "Shunichi": "Ryuji",
+    "Takumi": "Ryuji",
+    "Ryuji": "Takumi"
+   },
+   "executed": "Ryuji",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I have some concerns about the quiet ones.",
+      "Victoria": "I agree, silence can be suspicious.",
+      "Shunichi": "I think we should look at who is most defensive.",
+      "Takumi": "I feel like someone is trying to mislead us.",
+      "Ryuji": "I am just being cautious, not hiding anything."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "I am not sure who to trust yet.",
+      "Victoria": "Let's focus on the facts, not feelings.",
+      "Shunichi": "Facts are what I am looking for.",
+      "Takumi": "I will stand by my friends no matter what.",
+      "Ryuji": "I am confident in my innocence."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "I think we need to make a decision soon.",
+      "Victoria": "Agreed, we cannot waste time.",
+      "Shunichi": "Time is of the essence.",
+      "Takumi": "I am ready to vote.",
+      "Ryuji": "I hope you make the right choice."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "I will vote for the person I suspect most.",
+      "Victoria": "I will follow the logic of the group.",
+      "Shunichi": "I will vote based on my analysis.",
+      "Takumi": "I will vote for the one who seems most dangerous.",
+      "Ryuji": "I will vote for the one who seems most dangerous."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Takumi": "Takumi is protective and brave, often acting on instinct. He is loyal to his friends and will defend them aggressively if he feels they are in danger. His view shifts from cautious observation to active defense as the game progresses.",
+  "Ryuji": "Ryuji is calm and cautious, always assessing the situation before acting. He is independent and does not easily show his emotions. His view remains consistent, focusing on logic and reason throughout the discussion.",
+  "Shunichi": "Shunichi is confident and analytical, often taking a leadership role in the discussion. He is not afraid to challenge others and is skilled at communicating his points. His view is shaped by his desire to control the narrative and maintain his position.",
+  "Victoria": "Victoria is reserved and observant, often keeping to herself while analyzing the room. She is rational and does not express her emotions easily. Her view is shaped by her desire to remain objective and avoid making hasty decisions.",
+  "Daisuke": "Daisuke is introverted and cautious, often struggling to express his thoughts. He is kind and compassionate but lacks confidence in himself. His view is shaped by his desire to find the truth and help his friends, but he is often unsure of his own abilities."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0030",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:01:31+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793289691,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a1ac8f4467538493",
+      "object": "model_permission",
+      "created": 1793289691,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

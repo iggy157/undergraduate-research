@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group opens by identifying the core risks of expansion, focusing on budget durability, external dependencies, and staff capacity. Participants debate whether to prioritize historical data or current logistical constraints, leading to a selection of specific records to investigate. The tone is cautious, with each member highlighting a different vulnerability in the system's current state.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "We need to check if our timelines are realistic given external factors.",
+      "Yumi": "I'm worried about how location affects who can actually reach us.",
+      "George": "The budget looks fine now, but I suspect it will thin out later.",
+      "May": "We should look at what we've already tried before starting new things.",
+      "Daisuke": "I'm concerned about whether our staff have the right skills for this."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "I'll look into the delivery windows from suppliers.",
+      "Yumi": "I want to see the bus links in the outer wards.",
+      "George": "I'll review the county grant terms and the endowment.",
+      "May": "I'll check the attendance sheets from former outreach stops.",
+      "Daisuke": "I'll look at the volunteer register and supervision training."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "Also, I'll check the winter road closures north of the river.",
+      "Yumi": "And the evening room bookings and remote catalogue use.",
+      "George": "I'll also look at the running and equipment lines last year.",
+      "May": "I'll also look at the two programmes begun six years ago.",
+      "Daisuke": "I'll also look at the neighbourhood associations and tool certification."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Over",
+      "Yumi": "Over",
+      "George": "Over",
+      "May": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings, revealing discrepancies between projected costs and actual historical data. The discussion shifts to how specific logistical barriers, such as transport and staffing gaps, impact the feasibility of different service models. There is a growing recognition that past failures in similar initiatives provide crucial context for current decisions.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "The delivery windows slip when big clients book first, which is risky.",
+      "Yumi": "Two outer wards lost their bus link, making access very hard.",
+      "George": "The vehicle running line overran by a third last year.",
+      "May": "The old digitisation project left half the images unindexed.",
+      "Daisuke": "No one on the payroll is trained to supervise outside facilitators."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "Winter roads were shut for eleven days, but halls kept running.",
+      "Yumi": "Remote catalogue use peaks after the library closes at nine.",
+      "George": "The grant only covers fees for twelve months, then it's on us.",
+      "May": "The partner-run evening groups from six years ago still meet unaided.",
+      "Daisuke": "The technician who kept tools certified retired in spring."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "This suggests we need options less dependent on external timing.",
+      "Yumi": "We need to consider how opening hours and location shape access.",
+      "George": "We must ensure the funding structure doesn't collapse in year two.",
+      "May": "We should learn from what actually worked in the past.",
+      "Daisuke": "We need to verify if the necessary skills are actually available."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Over",
+      "Yumi": "Over",
+      "George": "Over",
+      "May": "Over",
+      "Daisuke": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The candidates are presented, and the group evaluates them against the risks identified in the previous round. The debate centers on which proposal best mitigates the issues of budget sustainability, logistical reliability, and staff capability. Participants weigh the pros and cons of each option, leading to a final vote based on their individual priorities.",
+   "votes": {
+    "Ryuji": "D",
+    "Yumi": "D",
+    "George": "D",
+    "May": "A",
+    "Daisuke": "C"
+   },
+   "adopted": "D",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "The vehicle-based option seems less dependent on external delivery schedules.",
+      "Yumi": "It directly addresses the access problem in the outer wards.",
+      "George": "I need to see how the running costs compare to the grant terms.",
+      "May": "The language circles have a track record of sustained engagement.",
+      "Daisuke": "The workshop requires tool certification we currently lack."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "The fixed schedule of the vehicle service is more controllable.",
+      "Yumi": "It brings the service to where the people are, rather than the other way around.",
+      "George": "The equipment allocation for the vehicle was under budget last year.",
+      "May": "The archive portal has a history of incomplete indexing.",
+      "Daisuke": "The volunteer register shows tradespeople are available for the workshop."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "I am leaning towards the option with the most predictable logistics.",
+      "Yumi": "I am leaning towards the option that improves physical access.",
+      "George": "I am leaning towards the option with the most stable funding profile.",
+      "May": "I am leaning towards the option with the strongest historical precedent.",
+      "Daisuke": "I am leaning towards the option that leverages existing volunteer skills."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "I vote for D.",
+      "Yumi": "I vote for D.",
+      "George": "I vote for D.",
+      "May": "I vote for A.",
+      "Daisuke": "I vote for C."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "George": "George focuses on the long-term financial stability of the proposal, arguing that initial budgets often hide future deficits. He remains skeptical of options that rely on short-term grants or one-off equipment allocations, preferring solutions with predictable, recurring cost structures.",
+  "Ryuji": "Ryuji is concerned with the reliability of external dependencies, such as supplier delivery windows and weather conditions. He argues for options that minimize reliance on factors outside the library's control, prioritizing logistical predictability over other benefits.",
+  "May": "May is interested in the historical performance of similar initiatives, arguing that past records provide the best evidence of what works. She is skeptical of new ideas that lack a proven track record, preferring options that have already demonstrated sustained engagement in the system.",
+  "Yumi": "Yumi is focused on the physical and temporal accessibility of the service, arguing that the location and opening hours of the library determine who can actually use it. She is concerned with how new commitments reshape the existing access patterns for residents in different wards.",
+  "Daisuke": "Daisuke is worried about the internal capacity of the staff to absorb new responsibilities, arguing that the necessary skills must be present on the roster before a new service is launched. He is cautious about options that require specialized training or supervision that is currently lacking."
+ },
+ "final": {
+  "adopted": "D"
+ },
+ "setup_id": "candidate_selection_0015",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:22:25+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793290945,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9c1a8d355d5ebcb1",
+      "object": "model_permission",
+      "created": 1793290945,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

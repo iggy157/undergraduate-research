@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and listening to others' reasoning. There is a general agreement to remain calm and avoid jumping to conclusions without evidence.",
+   "votes": {},
+   "executed": null,
+   "divine": "George",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shunichi": "Let's start by introducing ourselves and setting a calm tone for the discussion.",
+      "George": "I agree. I value experience and will listen carefully to everyone's points.",
+      "Yumi": "I'm excited to meet you all! Let's be friendly and supportive.",
+      "Takumi": "I'm ready to protect my friends. I'll be direct in my observations.",
+      "Jonathan": "I prefer to observe quietly, but I will contribute when necessary."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shunichi": "We should focus on logical consistency in our statements.",
+      "George": "Indeed. I will rely on my own judgment but respect the group's input.",
+      "Yumi": "I think we should all share our thoughts openly to build trust.",
+      "Takumi": "I don't like hiding things. I'll speak my mind clearly.",
+      "Jonathan": "I will keep my comments brief but meaningful."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shunichi": "Let's avoid making hasty decisions based on first impressions.",
+      "George": "Agreed. Patience is key in these situations.",
+      "Yumi": "I believe in the goodness of people, but I'll stay alert.",
+      "Takumi": "I'll be brave in my stance, but I'll also listen to advice.",
+      "Jonathan": "I will remain neutral until I have more information."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shunichi": "Let's conclude this day with a commitment to rational discussion.",
+      "George": "I am confident in our ability to find the truth.",
+      "Yumi": "I'm looking forward to working together!",
+      "Takumi": "I'll do my best to keep us safe.",
+      "Jonathan": "I will continue to observe and analyze."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the initial observations from the previous day. There is a debate about who seems most suspicious based on their tone and word choice. Some players express concern about aggressive behavior, while others advocate for caution. The discussion becomes heated as players try to justify their positions.",
+   "votes": {
+    "George": "Takumi",
+    "Yumi": "Takumi",
+    "Jonathan": "Takumi",
+    "Takumi": "Shunichi",
+    "Shunichi": "Takumi"
+   },
+   "executed": "Takumi",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shunichi": "I noticed some aggressive language from one player yesterday. It raises questions.",
+      "George": "I agree. Aggression can be a sign of guilt, but we must be careful.",
+      "Yumi": "I think we should give everyone a chance to explain themselves.",
+      "Takumi": "I was just being honest. I don't see why that's suspicious.",
+      "Jonathan": "I remain quiet, but I am taking notes on everyone's behavior."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shunichi": "Let's focus on the player who was most defensive. Why were they so defensive?",
+      "George": "Defensiveness can indicate a lack of confidence in one's innocence.",
+      "Yumi": "I feel for the player who is being targeted, but I must follow the logic.",
+      "Takumi": "I am not defensive. I am just standing up for myself.",
+      "Jonathan": "I will not speak unless I have a strong point to make."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shunichi": "The player who is most aggressive is the one I am most suspicious of.",
+      "George": "I concur. I will vote for the player who seems most threatening.",
+      "Yumi": "I am torn, but I think we need to act to protect the group.",
+      "Takumi": "I will not back down. I will fight for my life.",
+      "Jonathan": "I will follow the majority, but I will keep my distance."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shunichi": "Let's proceed to the vote. I believe we have enough information.",
+      "George": "I am ready to vote. I trust my judgment.",
+      "Yumi": "I hope we make the right choice.",
+      "Takumi": "I will do whatever it takes to survive.",
+      "Jonathan": "I will cast my vote quietly."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "George": "George focuses on logical consistency and experience. He argues for caution and patience, often deferring to the group's collective judgment while maintaining his own independent analysis. His view remains steady, prioritizing stability over rash action.",
+  "Yumi": "Yumi is energetic and supportive, trying to maintain a positive atmosphere. She argues for giving everyone a fair chance and is emotionally invested in the group's well-being. Her view shifts from optimism to concern as the tension rises, but she remains committed to the group's safety.",
+  "Jonathan": "Jonathan is quiet and observant, preferring to listen before speaking. He argues with minimal words, often deferring to the majority while keeping his own analysis private. His view is neutral, and he adapts to the group's direction without strong personal attachment.",
+  "Takumi": "Takumi is brave and direct, often appearing aggressive in his defense. He argues for his own innocence and is protective of his friends, but his stubbornness makes him seem suspicious. His view is defensive, and he struggles to accept advice from others.",
+  "Shunichi": "Shunichi is confident and analytical, often leading the discussion with logical points. He argues for caution and rationality, using his observations to guide the group. His view is decisive, and he is willing to make tough calls to protect the group."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0028",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:02:39+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793289759,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b18713e11ef6ac4f",
+      "object": "model_permission",
+      "created": 1793289759,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

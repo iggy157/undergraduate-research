@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The group introduces themselves and establishes a baseline for discussion. Participants share their general impressions of the others' demeanor and suggest criteria for identifying threats based on behavior. The conversation remains open-ended with no specific targets identified.",
+   "votes": {},
+   "executed": null,
+   "divine": "Shion",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I prefer to observe before speaking, but I am here to contribute.",
+      "Shizue": "It is nice to meet everyone; let us be kind to one another.",
+      "Asuka": "Logic is key. We should watch for inconsistencies in stories.",
+      "Kenji": "I'm excited to start! Who wants to go first?",
+      "Shion": "I will keep my cards close to my chest for now."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Agreed. Silence can be a strategy, but so can speech.",
+      "Shizue": "I feel a sense of calm, but I trust my instincts.",
+      "Asuka": "If someone is too eager to please, that is a red flag.",
+      "Kenji": "I think we should all just be honest and open.",
+      "Shion": "Honesty is subjective. I prefer to analyze."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Let us see how the night plays out before judging.",
+      "Shizue": "I hope we can find peace in this village.",
+      "Asuka": "We need to establish a voting protocol for tomorrow.",
+      "Kenji": "I vote for whoever seems the most suspicious!",
+      "Shion": "Suspicion is not proof. We need evidence."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Shizue": "Over",
+      "Asuka": "Over",
+      "Kenji": "Over",
+      "Shion": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The discussion focuses on interpreting the previous night's events and initial behavioral cues. One participant hints at having special knowledge without explicitly stating their role, causing others to question their motives. The group debates whether to trust this hint or view it as a manipulation tactic. Tensions rise as some players push for a vote while others advocate for caution.",
+   "votes": {
+    "Asuka": "Shion",
+    "Shizue": "Shion",
+    "Jonathan": "Kenji",
+    "Kenji": "Shion",
+    "Shion": "Kenji"
+   },
+   "executed": "Shion",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I have information that might help, but I must be careful.",
+      "Shizue": "Please share it, Jonathan. We need all the help we can get.",
+      "Asuka": "Information without context is dangerous. Who is the source?",
+      "Kenji": "I feel like I know something, but I can't say it yet.",
+      "Shion": "Why are you all so paranoid? It's just the first day."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "I saw something that makes me doubt a certain person's alignment.",
+      "Shizue": "That is worrying. Who do you doubt?",
+      "Asuka": "If you are hiding your role, you are not helping the village.",
+      "Kenji": "I think we should trust the one who speaks up first.",
+      "Shion": "I am just trying to keep the peace. Why target me?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "The one who is too calm might be the most dangerous.",
+      "Shizue": "I don't want to hurt anyone, but we must protect the village.",
+      "Asuka": "Shion's defensiveness is suspicious. Let's vote him out.",
+      "Kenji": "I agree with Asuka. Shion seems off.",
+      "Shion": "This is a witch hunt. I am innocent."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "I will vote for the one who seems most threatening.",
+      "Shizue": "I will follow the majority to keep harmony.",
+      "Asuka": "Vote Shion. He is the biggest risk.",
+      "Kenji": "Vote Shion. I trust my gut.",
+      "Shion": "I will vote for Kenji. He is too eager."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Asuka": "Focuses on logical consistency and behavioral analysis. Argues for caution and evidence-based decisions. Becomes increasingly suspicious of those who appear overly defensive or evasive.",
+  "Shizue": "Prioritizes community harmony and kindness. Argues for trust and gentle communication. Tends to follow the lead of more assertive players to maintain peace.",
+  "Jonathan": "Attempts to manipulate the narrative by hinting at hidden knowledge. Argues for strategic ambiguity. Tries to steer suspicion away from himself and toward others who seem vulnerable.",
+  "Kenji": "Enthusiastic and eager to participate. Argues from intuition and a desire to help. Initially trusts those who speak up but becomes suspicious of those who seem too calm or detached.",
+  "Shion": "Defensive and calculating. Argues for patience and evidence. Tries to deflect suspicion by appearing reasonable and calm, while subtly undermining others' confidence."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0009",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:43:10+00:00",
+  "attempts": 3,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793292190,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8002a523038886e8",
+      "object": "model_permission",
+      "created": 1793292190,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

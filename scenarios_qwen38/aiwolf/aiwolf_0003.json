@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish ground rules for the discussion. They discuss the importance of listening to each other and avoiding premature judgments. The conversation remains light and focused on building rapport.",
+   "votes": {},
+   "executed": null,
+   "divine": "Mizuki",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I value quiet observation and will listen carefully to everyone's points.",
+      "Mizuki": "I believe in logical deduction and will analyze the group's dynamics.",
+      "Rin": "I'm excited to start this adventure and will share my thoughts openly.",
+      "Misaki": "I prefer to stay calm and will contribute when I have something meaningful to say.",
+      "Benjamin": "I find it interesting to see how different personalities interact under pressure."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Let's agree to respect each other's perspectives before making any decisions.",
+      "Mizuki": "Agreed. We should look for inconsistencies in behavior rather than just words.",
+      "Rin": "That sounds like a good plan. I'll try to be as clear as possible.",
+      "Misaki": "I will keep my comments concise to avoid confusion.",
+      "Benjamin": "A structured approach seems wise for such a complex situation."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Is there anyone who feels particularly anxious about the upcoming nights?",
+      "Mizuki": "I am prepared for any outcome, but I will remain vigilant.",
+      "Rin": "A little nervous, but mostly curious about what happens next.",
+      "Misaki": "I am calm, but I will pay attention to who seems overly defensive.",
+      "Benjamin": "Anxiety is natural; let's focus on the facts as they emerge."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Let's end the day on a positive note and trust the process.",
+      "Mizuki": "Indeed. Rest well, everyone.",
+      "Rin": "Goodnight! Can't wait for tomorrow.",
+      "Misaki": "Goodnight.",
+      "Benjamin": "Until we meet again."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the initial impressions from the previous day. They weigh the reliability of each person's statements and look for subtle behavioral cues. The conversation shifts to identifying who might be hiding information, with a focus on consistency and tone.",
+   "votes": {
+    "Jonathan": "Mizuki",
+    "Mizuki": "Benjamin",
+    "Rin": "Mizuki",
+    "Misaki": "Mizuki",
+    "Benjamin": "Mizuki"
+   },
+   "executed": "Mizuki",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I noticed some tension in the group yesterday; let's address it now.",
+      "Mizuki": "Tension is normal. I was simply being direct in my analysis.",
+      "Rin": "I felt like some people were being a bit too aggressive with their questions.",
+      "Misaki": "I agree with Rin. We should be more mindful of our tone.",
+      "Benjamin": "Directness can be mistaken for aggression, but it is often necessary."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Let's look at who was most vocal and who was most reserved.",
+      "Mizuki": "I was vocal because I wanted to establish a logical framework.",
+      "Rin": "I was reserved because I was still processing the information.",
+      "Misaki": "I was reserved because I prefer to observe before speaking.",
+      "Benjamin": "Both approaches have merit. We need to balance them."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "I have some concerns about the consistency of certain statements.",
+      "Mizuki": "I stand by my statements. They were based on my observations.",
+      "Rin": "I think we should give everyone the benefit of the doubt for now.",
+      "Misaki": "I am not sure. Let's look at the facts again.",
+      "Benjamin": "Facts are important, but context matters too."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "I believe we need to make a decision to move forward.",
+      "Mizuki": "I am ready to vote. I trust my judgment.",
+      "Rin": "I will vote for the person who seems least trustworthy.",
+      "Misaki": "I will follow the majority, but I will keep my eyes open.",
+      "Benjamin": "Let's proceed with the vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Benjamin": "Benjamin focuses on maintaining a calm and logical atmosphere, often using humor to defuse tension. He argues for a balanced approach to decision-making and observes the group's dynamics closely.",
+  "Rin": "Rin is energetic and curious, often asking questions to understand the group's thoughts. She argues for open communication and is quick to express her feelings about the discussion.",
+  "Jonathan": "Jonathan is quiet and observant, often speaking only when he has a significant point to make. He argues for careful consideration of all evidence and is cautious about making hasty judgments.",
+  "Misaki": "Misaki is calm and reserved, often listening more than speaking. She argues for a methodical approach to the discussion and is careful to avoid unnecessary conflict.",
+  "Mizuki": "Mizuki is confident and logical, often taking the lead in the discussion. She argues for a clear and structured approach to decision-making and is not afraid to challenge others' views."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0003",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:31:13+00:00",
+  "attempts": 4,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793291473,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a88a2b46465f7f7f",
+      "object": "model_permission",
+      "created": 1793291473,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

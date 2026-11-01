@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The group introduces themselves and establishes a baseline for trust. They discuss the importance of sharing observations without jumping to conclusions. The tone remains friendly and cooperative as they set the stage for the first night.",
+   "votes": {},
+   "executed": null,
+   "divine": "Asuka",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "Hello everyone, I'm Yumi. I'm excited to start this game with you all.",
+      "Daisuke": "Hi, I'm Daisuke. I'm a bit nervous but I'll try my best to help.",
+      "Asuka": "Asuka here. Let's keep the discussion logical and focused on facts.",
+      "Shizue": "Welcome, dear. I'm Shizue. Let's be kind and listen to each other.",
+      "Midori": "Hi, I'm Midori. I hope we can find the truth together peacefully."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "I think we should share any strange behaviors we notice immediately.",
+      "Daisuke": "That sounds good. I will try to pay close attention to details.",
+      "Asuka": "Agreed. Speculation without evidence is dangerous. Let's stay objective.",
+      "Shizue": "Yes, calmness is key. We are all friends here, after all.",
+      "Midori": "I agree with Asuka. Let's not jump to conclusions too quickly."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "Does anyone have any initial thoughts or concerns about the group?",
+      "Daisuke": "Not really yet. I'm still observing everyone's reactions.",
+      "Asuka": "I am watching for inconsistencies in statements. So far, it's quiet.",
+      "Shizue": "I feel a sense of peace. Let's trust our instincts but verify.",
+      "Midori": "I'm just trying to understand everyone's personality better right now."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "Okay, let's end the day. Good night, everyone. Stay safe.",
+      "Daisuke": "Good night. I hope we have a peaceful night.",
+      "Asuka": "Good night. Let's see what the morning brings.",
+      "Shizue": "Sweet dreams, everyone. Take care of yourselves.",
+      "Midori": "Good night. I'll be thinking about what we discussed."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the lack of immediate evidence and the need for careful observation. They debate whether to focus on specific individuals or wait for more data. The conversation shifts to how to handle potential lies and the importance of group cohesion.",
+   "votes": {
+    "Yumi": "Asuka",
+    "Daisuke": "Asuka",
+    "Asuka": "Yumi",
+    "Shizue": "Asuka",
+    "Midori": "Asuka"
+   },
+   "executed": "Asuka",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "It's been a quiet night. Does anyone have any new observations?",
+      "Daisuke": "I noticed some tension in the previous discussion. It's hard to tell.",
+      "Asuka": "Tension is normal. We need to look for concrete inconsistencies.",
+      "Shizue": "Let's not let tension divide us. We are stronger together.",
+      "Midori": "I agree with Shizue. Harmony is important for finding the truth."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "I feel like someone is being overly defensive. Who do you think?",
+      "Daisuke": "I'm not sure. I tend to overthink things myself, so I'm cautious.",
+      "Asuka": "Defensiveness can be a sign of guilt, but also of fear. Be careful.",
+      "Shizue": "Fear is understandable. Let's give everyone a chance to explain.",
+      "Midori": "Yes, let's listen to their explanations before judging."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "I have a feeling about one person, but I need more proof.",
+      "Daisuke": "I trust the group's judgment. I will follow the majority.",
+      "Asuka": "If you have a feeling, share it. We need all the information.",
+      "Shizue": "Please share your thoughts, Yumi. We are here to help you.",
+      "Midori": "I'm listening. Please tell us what you've noticed."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "I think we should vote for the person who seems least cooperative.",
+      "Daisuke": "That makes sense. Who do you think that is?",
+      "Asuka": "I believe I have been cooperative. Perhaps you are mistaken.",
+      "Shizue": "Let's vote for the person who gives us the most doubt.",
+      "Midori": "I agree. Let's make a decision based on our collective doubt."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shizue": "Shizue focuses on maintaining group harmony and kindness. She encourages open communication and tries to mediate any conflicts that arise. Her view remains consistent in valuing peace and trust.",
+  "Midori": "Midori is cautious and values balance. She listens carefully to others and tries to find common ground. She becomes more engaged as the discussion progresses but remains reserved.",
+  "Yumi": "Yumi is energetic and eager to find the truth. She shares her observations and feelings openly, trying to guide the group. She becomes more assertive as she feels the need to act.",
+  "Daisuke": "Daisuke is introverted and cautious. He struggles to express his thoughts but tries to contribute when prompted. He relies on the group's judgment and becomes more confident as he sees others engage.",
+  "Asuka": "Asuka is logical and analytical. She focuses on facts and inconsistencies, often challenging others' assumptions. She becomes more defensive as she feels the pressure of the group's scrutiny."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0005",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:34:12+00:00",
+  "attempts": 6,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793295252,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-82deca3f4db5b75a",
+      "object": "model_permission",
+      "created": 1793295252,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

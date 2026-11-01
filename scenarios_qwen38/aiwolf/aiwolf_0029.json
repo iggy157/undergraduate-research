@@ -1,0 +1,192 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish ground rules for the discussion. They discuss the importance of listening to each other and avoiding premature judgments. The conversation remains general, focusing on building trust and setting a cooperative tone for the game.",
+   "votes": {},
+   "executed": null,
+   "divine": "Ryuji",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "I think we should start by introducing ourselves and our expectations for the game.",
+      "Daisuke": "I agree, it's important to set a positive tone from the beginning.",
+      "Asuka": "Let's also agree to listen carefully to each other's points before making any decisions.",
+      "Ryuji": "I believe in assessing the situation calmly and logically before acting.",
+      "Midori": "I'm here to help and ensure everyone feels comfortable sharing their thoughts."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "What are some key principles we should follow during our discussions?",
+      "Daisuke": "I think being respectful and open-minded is crucial.",
+      "Asuka": "We should also be honest and transparent in our communications.",
+      "Ryuji": "It's important to base our judgments on evidence rather than assumptions.",
+      "Midori": "I agree, and I think we should also be supportive of each other."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "How do we handle disagreements if they arise?",
+      "Daisuke": "I think we should try to find common ground and compromise.",
+      "Asuka": "We can also take a step back and reflect on our own perspectives.",
+      "Ryuji": "I believe in sticking to my beliefs but being open to new information.",
+      "Midori": "I think it's important to maintain harmony and avoid conflicts."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "Thank you all for your input. I think we're on the same page.",
+      "Daisuke": "I feel more confident about how we'll approach the game now.",
+      "Asuka": "Let's proceed with the next steps and see how things develop.",
+      "Ryuji": "I'll continue to assess the situation and contribute as needed.",
+      "Midori": "I'm looking forward to working together and finding a solution."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the first night's events and begins to form initial suspicions. They weigh the reliability of each other's statements and look for inconsistencies. The conversation becomes more focused on identifying potential threats, with some players expressing uncertainty and others offering more definitive opinions.",
+   "votes": {
+    "Misaki": "Ryuji",
+    "Daisuke": "Ryuji",
+    "Asuka": "Ryuji",
+    "Ryuji": "Asuka",
+    "Midori": "Ryuji"
+   },
+   "executed": "Ryuji",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Misaki": "I noticed that one of our group members seemed a bit off last night. What do you all think?",
+      "Daisuke": "I'm not sure, but I did feel like there was something strange about the way they were talking.",
+      "Asuka": "I think we need to be careful and not jump to conclusions. Let's gather more information.",
+      "Ryuji": "I agree, but I also think we should be prepared to act if necessary.",
+      "Midori": "I think we should all share our observations and work together to figure this out."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Misaki": "I think we should focus on the person who seemed the most suspicious. Who do you all think that is?",
+      "Daisuke": "I'm not sure, but I did feel like there was something off about one of our group members.",
+      "Asuka": "I think we need to be careful and not jump to conclusions. Let's gather more information.",
+      "Ryuji": "I agree, but I also think we should be prepared to act if necessary.",
+      "Midori": "I think we should all share our observations and work together to figure this out."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Misaki": "I think we should vote for the person who seemed the most suspicious. Who do you all think that is?",
+      "Daisuke": "I'm not sure, but I did feel like there was something off about one of our group members.",
+      "Asuka": "I think we need to be careful and not jump to conclusions. Let's gather more information.",
+      "Ryuji": "I agree, but I also think we should be prepared to act if necessary.",
+      "Midori": "I think we should all share our observations and work together to figure this out."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Misaki": "I think we should vote for the person who seemed the most suspicious. Who do you all think that is?",
+      "Daisuke": "I'm not sure, but I did feel like there was something off about one of our group members.",
+      "Asuka": "I think we need to be careful and not jump to conclusions. Let's gather more information.",
+      "Ryuji": "I agree, but I also think we should be prepared to act if necessary.",
+      "Midori": "I think we should all share our observations and work together to figure this out."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Asuka": "Asuka is focused on gathering information and making logical decisions. She is cautious and does not want to jump to conclusions. She is open to new information and is willing to change her mind if necessary.",
+  "Daisuke": "Daisuke is cautious and does not want to jump to conclusions. He is open to new information and is willing to change his mind if necessary. He is also concerned about the well-being of the group and wants to ensure that everyone is safe.",
+  "Midori": "Midori is focused on maintaining harmony and ensuring that everyone feels comfortable sharing their thoughts. She is open to new information and is willing to change her mind if necessary. She is also concerned about the well-being of the group and wants to ensure that everyone is safe.",
+  "Ryuji": "Ryuji is focused on assessing the situation calmly and logically before acting. He is open to new information and is willing to change his mind if necessary. He is also concerned about the well-being of the group and wants to ensure that everyone is safe.",
+  "Misaki": "Misaki is focused on gathering information and making logical decisions. She is cautious and does not want to jump to conclusions. She is open to new information and is willing to change her mind if necessary."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0029",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:01:04+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793289664,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a48e8737d165fbc3",
+      "object": "model_permission",
+      "created": 1793289664,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

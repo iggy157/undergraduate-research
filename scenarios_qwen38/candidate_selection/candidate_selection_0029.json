@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses the logistical and financial risks of upcoming exhibitions. Participants express concerns about budget transparency, delivery reliability, visitor engagement, structural safety, and staffing levels. Each member selects two specific data points to investigate to inform their decision-making.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "We must ensure the current staff can handle the workload without burnout.",
+      "Shion": "I am concerned about the reliability of external deliveries in past seasons.",
+      "May": "We should look at what actually brings visitors back, not just what looks good on paper.",
+      "Misaki": "The physical structure of the gallery needs to be verified before we commit to heavy installations.",
+      "Sakura": "I want to understand where the budget actually goes during installation."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "I will look into the volunteer roster and conservation lab staffing.",
+      "Shion": "I will check the lender paperwork against shipping cut-offs and loan transport costs.",
+      "May": "I will review the weekend head counts and visitor comment slips.",
+      "Misaki": "I will examine the structural survey and maintenance log for powered displays.",
+      "Sakura": "I will investigate the mount-making charges and evening hire bookings."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "It is important to know who is actually available to do the work.",
+      "Shion": "Agreed, but we also need to know if the items will arrive on time.",
+      "May": "And if they arrive, will people care enough to return?",
+      "Misaki": "If the floor cannot hold the weight, the rest is moot.",
+      "Sakura": "And if the costs are hidden, we cannot plan for next season."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Let us see what the data says before we decide.",
+      "Shion": "I will be watching for any signs of logistical failure.",
+      "May": "I hope the numbers show us what the public truly values.",
+      "Misaki": "I will focus on the safety limits of the space.",
+      "Sakura": "I will try to find the hidden costs in the invoices."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings from the investigation. Shizue notes a significant gap in conservation capacity. Shion identifies a pattern of late paperwork causing delays. May finds that interactive elements drive repeat visits. Misaki discovers that the suspended bay has a strict weight limit. Sakura reveals that bespoke mounting costs are rising sharply. The group discusses how these constraints affect the feasibility of different exhibition types.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "The conservation lab is severely understaffed, with a large backlog.",
+      "Shion": "Two recent openings were delayed because paperwork arrived after the shipping cut-off.",
+      "May": "Visitor comments consistently mention that seeing people work or talk is the main reason for a second visit.",
+      "Misaki": "The structural survey caps the suspended bay at four hundred kilos per square metre.",
+      "Sakura": "Bespoke mount-making costs have risen by half, and anything arriving pre-mounted saves money."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "This means we cannot take on too many items that need cleaning or stabilising.",
+      "Shion": "We need to avoid exhibitions that rely on distant lenders with slow administrative processes.",
+      "May": "So we should prioritize exhibitions that include live demonstrations or talks.",
+      "Misaki": "This rules out any heavy stonework or large sculptures in the upper bay.",
+      "Sakura": "We should look for items that come with their own mounts or are easy to install."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "It is a tight squeeze, but we can manage if we are selective.",
+      "Shion": "I agree, we need to be realistic about the logistics.",
+      "May": "The human element seems to be the key to success.",
+      "Misaki": "Safety is non-negotiable, so we must respect the weight limits.",
+      "Sakura": "And we need to keep the budget under control by avoiding custom joinery."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "Let us keep these constraints in mind when we review the candidates.",
+      "Shion": "I will be looking for any red flags in the proposals.",
+      "May": "I will be looking for opportunities for engagement.",
+      "Misaki": "I will be checking the technical specifications.",
+      "Sakura": "I will be calculating the potential costs."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four exhibition candidates are revealed. The group debates the merits of each option against the constraints identified in the previous round. They discuss the logistical complexity, the potential for visitor engagement, the structural requirements, and the staffing needs of each proposal. The discussion focuses on which option best balances these factors. The participants then cast their votes.",
+   "votes": {
+    "Sakura": "A",
+    "Shion": "A",
+    "May": "A",
+    "Misaki": "A",
+    "Shizue": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Shizue": "The first option involves local craftspeople and recorded interviews, which fits our staffing model.",
+      "Shion": "The second option involves recent digs and reconstructions, which might be heavy and complex.",
+      "May": "The third option involves kinetic artworks in dark zones, which could be engaging but risky for maintenance.",
+      "Misaki": "The fourth option involves ship models and charts, which might be light but lacks the human element.",
+      "Sakura": "The first option seems to have the lowest installation costs since the items are local."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Shizue": "I am concerned about the conservation needs of the second option's finds.",
+      "Shion": "The second option's reconstructions might exceed the weight limit of the suspended bay.",
+      "May": "The third option's kinetic pieces will require frequent maintenance, which we cannot afford.",
+      "Misaki": "The fourth option's models are light, but the lack of live interaction is a drawback.",
+      "Sakura": "The first option's local nature means no transport costs and no custom mounts."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Shizue": "The first option allows for live demonstrations, which addresses the visitor engagement issue.",
+      "Shion": "The first option avoids the logistical pitfalls of distant lenders.",
+      "May": "The first option provides the human presence that visitors value.",
+      "Misaki": "The first option's items are light and do not stress the structure.",
+      "Sakura": "The first option is the most budget-friendly."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Shizue": "I vote for the first option.",
+      "Shion": "I vote for the first option.",
+      "May": "I vote for the first option.",
+      "Misaki": "I vote for the first option.",
+      "Sakura": "I vote for the first option."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Sakura": "Sakura is focused on budget transparency and hidden costs. She argues for options that minimize installation expenses and avoid custom joinery. Her view shifts towards the option that offers the most cost-effective solution.",
+  "Shion": "Shion is concerned about logistical reliability and delivery delays. He argues for options that avoid complex international loans and have a track record of timely delivery. His view shifts towards the option with the simplest logistics.",
+  "May": "May is interested in visitor engagement and repeat visits. She argues for options that include live demonstrations or talks. Her view shifts towards the option that offers the most interactive experience.",
+  "Misaki": "Misaki is focused on structural safety and maintenance. She argues for options that respect the weight limits of the gallery and do not require excessive maintenance. Her view shifts towards the option with the lowest technical risk.",
+  "Shizue": "Shizue is concerned about staffing levels and workload. She argues for options that do not overburden the existing staff. Her view shifts towards the option that is most manageable with the current team."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0029",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:34:02+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793291642,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-ab1716484b541a7b",
+      "object": "model_permission",
+      "created": 1793291642,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and logical consistency in future statements. No specific individuals are targeted, and the focus remains on setting ground rules for the investigation.",
+   "votes": {},
+   "executed": null,
+   "divine": "Mizuki",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "I propose we focus on logical consistency in our statements.",
+      "Kenji": "I agree, let's keep an open mind and observe everyone.",
+      "Mizuki": "Observation is key; I will watch for inconsistencies.",
+      "Ryuji": "I will remain calm and analyze the data as it comes.",
+      "Sakura": "Let's have fun and solve this mystery together!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "We should avoid jumping to conclusions too quickly.",
+      "Kenji": "Yes, I want to make sure I don't miss any clues.",
+      "Mizuki": "I will pay attention to who speaks first and last.",
+      "Ryuji": "Patience is a virtue in this situation.",
+      "Sakura": "I'm ready to help find the truth!"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Let's ensure everyone gets a fair chance to speak.",
+      "Kenji": "I will try to be as clear as possible.",
+      "Mizuki": "Clarity is essential for a fair process.",
+      "Ryuji": "I will listen carefully to all perspectives.",
+      "Sakura": "I promise to be honest and helpful."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Kenji": "Over",
+      "Mizuki": "Over",
+      "Ryuji": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the initial night's events, focusing on the lack of immediate threats. Participants debate the reliability of early impressions versus long-term observation. The discussion centers on establishing a voting strategy based on behavioral anomalies rather than immediate suspicion.",
+   "votes": {
+    "Ryuji": "Mizuki",
+    "Toshio": "Mizuki",
+    "Mizuki": "Kenji",
+    "Kenji": "Mizuki",
+    "Sakura": "Mizuki"
+   },
+   "executed": "Mizuki",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "We need to be careful about who we trust early on.",
+      "Kenji": "I feel like some people are being too quiet.",
+      "Mizuki": "I think we should look at who is most active.",
+      "Ryuji": "Activity level is a good metric for engagement.",
+      "Sakura": "I think we should vote for the person who seems least helpful."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "I agree with the idea of looking at engagement.",
+      "Kenji": "I am trying to be helpful, but I might be clumsy.",
+      "Mizuki": "I am confident in my observations of the group.",
+      "Ryuji": "I will base my decision on the consistency of statements.",
+      "Sakura": "I think we should focus on the person who is most suspicious."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Let's vote for the person who seems least trustworthy.",
+      "Kenji": "I hope I am not the one being voted out.",
+      "Mizuki": "I believe my logic is sound and clear.",
+      "Ryuji": "I will follow the logical path to the truth.",
+      "Sakura": "I will vote for the person who seems most dangerous."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Over",
+      "Kenji": "Over",
+      "Mizuki": "Over",
+      "Ryuji": "Over",
+      "Sakura": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Ryuji": "Ryuji focuses on logical consistency and behavioral patterns. He remains calm and analytical, adjusting his strategy based on the evolving information and the loss of key players.",
+  "Toshio": "Toshio is cautious and calculating, seeking to maintain order and fairness. He adapts his approach to the changing dynamics, focusing on decisiveness and accuracy in the voting process.",
+  "Mizuki": "Mizuki is confident and logical, asserting her observations and judgments. She remains composed and strategic, aiming to guide the group towards the correct conclusion while maintaining her own safety.",
+  "Kenji": "Kenji is curious and positive, trying to prove his worth and innocence. He is affected by the loss of others but remains engaged and hopeful, seeking to contribute to the group's success.",
+  "Sakura": "Sakura is cheerful and enthusiastic, eager to help and solve the mystery. She is affected by the emotional impact of the losses but remains optimistic and proactive in her efforts to assist the group."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0026",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:08:47+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793290127,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-84a49d853b6da595",
+      "object": "model_permission",
+      "created": 1793290127,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

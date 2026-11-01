@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group identifies the breakdown in the current informal system and agrees to gather specific data before committing to a structure. Participants express frustration with the unpredictability of room conditions and the lack of financial clarity. Each member selects two items from the list to investigate, focusing on costs, time requirements, and usage patterns.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "We need to know the exact monthly cost of supplies before we agree to anything.",
+      "Ryuji": "I want to measure how long a proper clean actually takes, not guess.",
+      "Benjamin": "We should look at who is actually using the kitchen versus who is cleaning it.",
+      "May": "The bathroom state is unpredictable; I need to know what 'done' means for everyone.",
+      "Midori": "Let's check the chat history to see what triggers our arguments."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "I will check the receipts for the spray and the bin bags.",
+      "Ryuji": "I will time a full pass of the kitchen and bathroom with a stopwatch.",
+      "Benjamin": "I will watch the kitchen usage for a fortnight to see the load distribution.",
+      "May": "I will look at the grout condition and what each person considers finished.",
+      "Midori": "I will review the rows in the house chat and the note from previous tenants."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "Agreed. I will also check the management office rate sheet for context.",
+      "Ryuji": "I will also check the standard terms of the outside firm to see if outsourcing is viable.",
+      "Benjamin": "I will also check the absences on the wall calendar to account for availability.",
+      "May": "I will also check the bathroom spray stock to see if we are overbuying.",
+      "Midori": "I will also check the management office billing to understand the current financial flow."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Let's meet next week with these findings.",
+      "Ryuji": "I will bring the timing data.",
+      "Benjamin": "I will bring the usage and absence data.",
+      "May": "I will bring the definition of done and stock levels.",
+      "Midori": "I will bring the chat history and previous tenant note."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings, revealing discrepancies in cost, time, and usage. The discussion highlights that the current system is inefficient due to uneven usage and unclear standards. The group debates whether the time cost is too high for individual handling or if the financial cost of external help is prohibitive. The focus shifts to how to balance fairness with practicality.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Supplies cost 2,300 yen a month, and the management office charges 4,200 yen an hour for a cleaner.",
+      "Ryuji": "A full pass takes 102 minutes, and the outside firm requires a two-hour window and a tidy space beforehand.",
+      "Benjamin": "Two or three people cause most kitchen mess, but two are away for weeks at a time.",
+      "May": "The grout gets dirty in eleven days, and 'done' means different things to different people.",
+      "Midori": "Previous tenants who split rooms permanently stopped speaking, and our rows start with reminders."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "The hourly rate is high, but the supply cost is manageable if we stop double-buying.",
+      "Ryuji": "102 minutes is a significant block of time; outsourcing might remove that burden but adds coordination.",
+      "Benjamin": "If usage is uneven, a simple rotation is unfair to those who use the space less.",
+      "May": "The unpredictability is the main issue; we need a standard that everyone agrees on.",
+      "Midori": "The previous tenants' note suggests that rigid ownership can damage relationships."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "We need a system that tracks who pays for what, not just who cleans.",
+      "Ryuji": "If we outsource, we need to ensure the time saved is real, not just shifted to supervision.",
+      "Benjamin": "We should consider a system that accounts for absence and usage intensity.",
+      "May": "A clear definition of 'done' is essential regardless of the method.",
+      "Midori": "We must avoid a system that creates resentment or silence."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "Let's wait for the options to be presented before deciding.",
+      "Ryuji": "I am concerned about the time commitment either way.",
+      "Benjamin": "I want to see how the options handle the usage disparity.",
+      "May": "I want to see how the options handle the standard of cleanliness.",
+      "Midori": "I want to see how the options handle the social dynamic."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three proposed structures are presented to the group. The discussion focuses on the trade-offs between financial cost, time commitment, and social harmony. Participants evaluate how each structure addresses the specific concerns raised in the previous round, such as uneven usage and unclear standards. The group deliberates on which structure best balances these factors for the coming year.",
+   "votes": {
+    "Toshio": "B",
+    "Ryuji": "B",
+    "Benjamin": "C",
+    "May": "B",
+    "Midori": "C"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Toshio": "Option B has a clear monthly cost, which addresses my concern about financial transparency.",
+      "Ryuji": "Option B removes the 102-minute time block, which is my primary concern.",
+      "Benjamin": "Option C allows for rotation, but it doesn't account for the usage disparity I found.",
+      "May": "Option B ensures a consistent standard, which solves the unpredictability I face.",
+      "Midori": "Option C might be fairer in terms of effort, but Option B might be better for harmony."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Toshio": "The 4,200 yen per hour is high, but it is predictable.",
+      "Ryuji": "The two-hour window is a constraint, but it is manageable.",
+      "Benjamin": "Option A is too rigid and risks the social issues the previous tenants faced.",
+      "May": "Option A leaves the standard of 'done' up to the individual, which is risky.",
+      "Midori": "Option C requires constant monitoring, which could lead to the rows we saw in the chat."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Toshio": "I am leaning towards B for the financial clarity.",
+      "Ryuji": "I am leaning towards B for the time savings.",
+      "Benjamin": "I am leaning towards C for the fairness, but I see the risks.",
+      "May": "I am leaning towards B for the consistency.",
+      "Midori": "I am leaning towards C for the shared responsibility, but I am worried about the social cost."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Toshio": "I will vote for B.",
+      "Ryuji": "I will vote for B.",
+      "Benjamin": "I will vote for C.",
+      "May": "I will vote for B.",
+      "Midori": "I will vote for C."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Toshio": "Toshio is concerned with the financial transparency of the cleaning arrangement. He argues for a system that clearly tracks costs and who is out of pocket. His view shifts from a general concern about costs to a specific preference for a structure that offers predictable financial outcomes.",
+  "Ryuji": "Ryuji is concerned with the time commitment required for cleaning. He argues for a system that minimizes the time burden on individuals. His view shifts from a general concern about time to a specific preference for a structure that removes the time block entirely.",
+  "Benjamin": "Benjamin is concerned with the fairness of the cleaning arrangement, particularly regarding usage and absence. He argues for a system that accounts for these factors. His view shifts from a general concern about fairness to a specific preference for a structure that offers a balanced rotation.",
+  "May": "May is concerned with the unpredictability of the room conditions. She argues for a system that ensures a consistent standard of cleanliness. Her view shifts from a general concern about unpredictability to a specific preference for a structure that guarantees a consistent outcome.",
+  "Midori": "Midori is concerned with the social harmony of the household. She argues for a system that minimizes conflict and maintains good relationships. Her view shifts from a general concern about harmony to a specific preference for a structure that promotes shared responsibility."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0030",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:02:48+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293368,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8802372f550d3896",
+      "object": "model_permission",
+      "created": 1793293368,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

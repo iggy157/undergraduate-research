@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The team discusses the criteria for the new layout, focusing on cost, daily workflow, physical comfort, fairness, and social dynamics. Each participant selects two specific data points to investigate to inform their position.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Victoria": "I need to understand the monthly financial impact of this floor before we decide on a shape.",
+      "Minato": "I am curious about how the physical environment affects our comfort during long work sessions.",
+      "May": "I want to know how much time is lost during the transition and in our daily mornings.",
+      "Shunichi": "We should look at how previous changes were handled and who was affected by them.",
+      "Daisuke": "I am interested in how seating arrangements influence our communication and team cohesion."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Victoria": "I will look into the basis of the department's floor billing and the facilities quote for re-running power.",
+      "Minato": "I will check the sound meter readings and the physio's note from the workstation check.",
+      "May": "I will review the morning routine on the pilot floor and the unplanned seat shuffles in the past year.",
+      "Shunichi": "I will examine the drawn plan against the staff survey and the arrival times in the badge records.",
+      "Daisuke": "I will look into what this year's two joiners reported and the two project strands within earshot last spring."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Victoria": "It is important to know if we are paying for empty space or just moving costs.",
+      "Minato": "Comfort is often overlooked, but it affects our ability to focus.",
+      "May": "If the change disrupts our flow, the cost is higher than just the furniture.",
+      "Shunichi": "Habit often dictates who gets the good spots, which is unfair.",
+      "Daisuke": "Proximity determines how much we actually talk to each other."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Victoria": "Let's see what the data says before we commit to a specific arrangement.",
+      "Minato": "I hope we can find a way to make the space work for our bodies.",
+      "May": "I will wait for the findings on time loss before agreeing to anything.",
+      "Shunichi": "We need to be transparent about who benefits and who does not.",
+      "Daisuke": "I think we should consider the social impact more seriously."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings from the investigation. The discussion shifts to interpreting these specific data points, with some revealing unexpected costs or social dynamics that challenge initial assumptions.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Victoria": "The billing is based on area, not headcount, so empty desks still cost us money.",
+      "Minato": "The noise level is significantly higher near the printer, which is a problem for concentration.",
+      "May": "The morning setup takes up to nine minutes, which is a significant loss of productive time.",
+      "Shunichi": "The survey shows daylight is the top complaint, but the current plan gives it to only four desks.",
+      "Daisuke": "New joiners learned the most by overhearing conversations, which suggests proximity is key."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Victoria": "That means we are paying for space we are not using efficiently.",
+      "Minato": "I need a spot away from the noise to do my best work.",
+      "May": "Nine minutes a day adds up to a lot of lost time over a year.",
+      "Shunichi": "If we don't assign seats fairly, the same people will always get the window.",
+      "Daisuke": "If we sit too far apart, we lose that informal learning."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Victoria": "We need a layout that justifies the cost of the space we occupy.",
+      "Minato": "Can we ensure the quiet spots are accessible to everyone?",
+      "May": "We need a system that minimizes the daily setup time.",
+      "Shunichi": "A fixed assignment might be the only way to ensure fairness.",
+      "Daisuke": "But fixed seats might prevent the natural interactions we need."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Victoria": "Let's weigh the cost against the benefits of different arrangements.",
+      "Minato": "I am worried about the long-term comfort of any static setup.",
+      "May": "I am concerned about the daily friction of changing seats.",
+      "Shunichi": "I am concerned about the inequity of a first-come, first-served system.",
+      "Daisuke": "I am concerned about the loss of team cohesion if we are too isolated."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three proposed layout options are presented to the team. The discussion focuses on how each option addresses the specific concerns raised in the previous rounds, such as cost, comfort, fairness, and social interaction. Participants debate the trade-offs and cast their votes.",
+   "votes": {
+    "Victoria": "A",
+    "Minato": "A",
+    "May": "B",
+    "Shunichi": "A",
+    "Daisuke": "C"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Victoria": "Option A seems to offer the most stability and clarity for budgeting.",
+      "Minato": "Option A allows for permanent adjustments to fit my body and needs.",
+      "May": "Option B might reduce the daily setup time if we rotate in blocks.",
+      "Shunichi": "Option A ensures that the assignment of seats is explicit and fair.",
+      "Daisuke": "Option C might encourage more natural interaction and flexibility."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Victoria": "The cost of re-running power is a one-time fee for Option A, which is manageable.",
+      "Minato": "I am concerned that Option B will disrupt my settled comfort settings.",
+      "May": "Option B still requires some setup, but it is less frequent than daily.",
+      "Shunichi": "Option C is too chaotic and will lead to the same inequities we are trying to avoid.",
+      "Daisuke": "Option A might isolate us, but it is a start."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Victoria": "I think Option A is the most rational choice given the constraints.",
+      "Minato": "I agree, Option A seems to prioritize the long-term comfort we need.",
+      "May": "I am leaning towards Option B, but I see the merits of A.",
+      "Shunichi": "Option A is the only one that addresses the fairness issue directly.",
+      "Daisuke": "I will vote for Option C, hoping it fosters better communication."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Victoria": "Let's proceed with the vote.",
+      "Minato": "I am ready to vote.",
+      "May": "I am ready to vote.",
+      "Shunichi": "I am ready to vote.",
+      "Daisuke": "I am ready to vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Victoria": "Victoria focuses on the financial implications of the layout, arguing that the cost of the space must be justified. She moves from a general concern about budget to a specific preference for a stable, cost-effective arrangement.",
+  "May": "May is concerned about the time cost of the layout, particularly the daily setup and transition times. She argues for a system that minimizes these disruptions, weighing the trade-offs between flexibility and efficiency.",
+  "Minato": "Minato prioritizes physical comfort and the ability to adjust his workspace to his needs. He argues for a stable environment that allows for long-term adjustments, moving from a general concern to a specific preference for a fixed setup.",
+  "Shunichi": "Shunichi is concerned about fairness and the equitable distribution of desirable seats. He argues for a system that explicitly assigns seats to avoid the inequities of a first-come, first-served approach.",
+  "Daisuke": "Daisuke is concerned about the social dynamics and the impact of seating on team communication. He argues for a flexible arrangement that encourages natural interaction, weighing the trade-offs between isolation and cohesion."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0023",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:57:59+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293079,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-bbd97b2f94ef3a8c",
+      "object": "model_permission",
+      "created": 1793293079,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

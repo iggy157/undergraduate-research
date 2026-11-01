@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee opens by acknowledging that the current fee structure is outdated and needs revision. Participants express general concerns about financial transparency, the administrative burden on the treasurer, and the perceived inequity of participation levels. The group agrees to investigate specific records to ground their decision in data rather than assumption.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "We need to know exactly what our fixed costs are before we set any numbers.",
+      "Jonathan": "I am worried that the hesitation in attendance is linked to how we handle payments.",
+      "Takumi": "It feels unfair that some people do all the work while others barely show up.",
+      "Toshio": "The previous treasurer quit because the bookkeeping was too time-consuming.",
+      "Kenji": "We should make sure new members don't feel overwhelmed by the process."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "I will look at the ledger to see where the money actually goes.",
+      "Jonathan": "I want to check the sign-in sheets to see who is actually coming.",
+      "Takumi": "I will compare the rota with the attendance records to see who is working.",
+      "Toshio": "I need to see the treasurer's logged hours to understand the workload.",
+      "Kenji": "I will look at the taster forms to see why people don't join."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "I will also check the bank statements to see how renewals are handled.",
+      "Jonathan": "I will also look at the winter social feedback from quieter members.",
+      "Takumi": "I will also check the sign-up records for mid-year joiners.",
+      "Toshio": "I will also look at the minute books from when we had named grades.",
+      "Kenji": "I will also check the weekday turnout since the summer outings."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Let's gather these facts before we argue about the structure.",
+      "Jonathan": "Agreed, data will help us avoid guessing.",
+      "Takumi": "I want to see the real numbers on who is carrying the load.",
+      "Toshio": "Understanding the administrative cost is crucial for sustainability.",
+      "Kenji": "I hope this helps us keep the club welcoming for everyone."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings, revealing a complex picture of high fixed costs, significant administrative burden, and uneven participation. The discussion shifts to how these factors interact, with some arguing for simplicity to reduce admin work, while others emphasize the need to address the disparity in contribution and attendance. The group debates whether a single payment method can satisfy both the need for financial stability and the desire for perceived fairness.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "The ledger shows seventy percent of costs are fixed, regardless of attendance.",
+      "Jonathan": "Sign-in sheets show a quarter of members account for two-thirds of attendances.",
+      "Takumi": "The same nine people do all the setup and locking up, matching the top attendees.",
+      "Toshio": "The treasurer logged six hours a month chasing individual payments versus one for yearly.",
+      "Kenji": "Nine out of fourteen tasters said they wouldn't commit to a whole year at once."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "If costs are fixed, spreading them evenly seems logical, but the bank statements show payment issues.",
+      "Jonathan": "The winter social feedback suggests quieter members feel uneasy about per-event costs.",
+      "Takumi": "This confirms the workload is concentrated on a few, which fuels resentment.",
+      "Toshio": "The minute books show friction with named grades, so that path is risky.",
+      "Kenji": "The drop in weekday turnout after door charges suggests people value belonging over transaction."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "We need a method that minimizes the chasing of money, given the treasurer's hours.",
+      "Jonathan": "But if we just charge everyone the same, does it address the inequity Takumi raised?",
+      "Takumi": "It doesn't fix the work distribution, but it might stop the feeling of being exploited.",
+      "Toshio": "A simple collection method is essential to prevent the next treasurer from quitting.",
+      "Kenji": "We need to balance the ease of joining with the reality of the fixed costs."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "The data points to a need for a stable, low-administrative-burden approach.",
+      "Jonathan": "I agree, but we must ensure it doesn't alienate the less frequent attendees.",
+      "Takumi": "I am still concerned about the work, but I see the financial necessity.",
+      "Toshio": "The administrative efficiency is the strongest argument for a streamlined process.",
+      "Kenji": "Let's see how the options align with these findings."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three proposed structures are presented to the committee. The discussion focuses on how each option addresses the specific concerns raised in the previous round: the high fixed costs, the administrative burden, and the perception of fairness. Participants weigh the simplicity and low administrative cost of one option against the perceived inequity of another, and the potential for alienation of a third. The debate centers on which trade-off is most acceptable for the club's long-term health and member satisfaction.",
+   "votes": {
+    "Mio": "A",
+    "Jonathan": "A",
+    "Takumi": "B",
+    "Toshio": "A",
+    "Kenji": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Option A covers the fixed costs with minimal admin, which matches the ledger data.",
+      "Jonathan": "Option B might feel fairer to the heavy users, but the minute books warn against it.",
+      "Takumi": "Option C feels like a penalty for those who don't attend often, which is unfair.",
+      "Toshio": "Option A is the only one that keeps the treasurer's workload manageable.",
+      "Kenji": "Option A is the simplest for newcomers, which addresses the taster feedback."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "I am leaning towards A because it stabilizes the budget without constant chasing.",
+      "Jonathan": "I am concerned about the quiet members, but A is less intrusive than C.",
+      "Takumi": "I still think B is better for fairness, but I see the admin risk.",
+      "Toshio": "The data strongly supports A for sustainability.",
+      "Kenji": "A seems to preserve the 'drift in' culture that Kenji values."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Let's not overcomplicate this; the fixed costs are the main issue.",
+      "Jonathan": "Agreed, simplicity is key to keeping the peace.",
+      "Takumi": "I will accept A if we address the workload issue separately.",
+      "Toshio": "I cannot support a method that risks the treasurer's position.",
+      "Kenji": "I think A is the best balance for the community."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "I vote for A.",
+      "Jonathan": "I vote for A.",
+      "Takumi": "I vote for B, but I see the logic for A.",
+      "Toshio": "I vote for A.",
+      "Kenji": "I vote for A."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mio": "Mio is focused on financial stability and avoiding guesswork. She argues for a structure that reflects the high proportion of fixed costs and minimizes the need for constant financial tracking. Her view solidifies around the need for a predictable, low-administrative-burden approach.",
+  "Toshio": "Toshio is concerned with the sustainability of the treasurer role. He argues that the administrative burden of complex payment methods is a critical risk. His view remains consistent, prioritizing a method that reduces the time spent on bookkeeping and chasing payments.",
+  "Jonathan": "Jonathan is worried about the social dynamics and the hesitation among regulars. He argues for a structure that reduces the psychological barrier to participation. His view shifts from concern about inequity to accepting a simpler model that preserves the sense of belonging.",
+  "Takumi": "Takumi is focused on the inequity of workload and participation. He argues for a structure that acknowledges the difference in contribution. His view is the most resistant to change, but he ultimately recognizes the practical constraints of the other options.",
+  "Kenji": "Kenji is concerned with the accessibility and welcoming nature of the club for newcomers. He argues for a structure that is easy to understand and does not create barriers to entry. His view aligns with the need for simplicity and low friction for new members."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0026",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:04:51+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293491,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-878a9871ecd40ca1",
+      "object": "model_permission",
+      "created": 1793293491,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

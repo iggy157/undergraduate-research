@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "The group introduces themselves and establishes ground rules for the discussion. They discuss the importance of observing behavior patterns and logical consistency in statements. The conversation remains general, focusing on strategy rather than specific individuals.",
+   "votes": {},
+   "executed": null,
+   "divine": "Shunichi",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I am nervous but will try to listen carefully to everyone's points.",
+      "Shion": "We should focus on logical inconsistencies rather than emotions.",
+      "Shunichi": "Agreed, calm analysis is key to finding the truth.",
+      "Midori": "Let's keep the atmosphere friendly while we analyze.",
+      "George": "Experience suggests we should observe before judging."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "I will try to contribute when I feel confident.",
+      "Shion": "Silence can be a tactic, but so can over-explaining.",
+      "Shunichi": "Let's see who reacts defensively to simple questions.",
+      "Midori": "I think we should ask open-ended questions first.",
+      "George": "I will share my observations as they come to me."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "It is hard to speak up, but I will try.",
+      "Shion": "We need to identify who is trying to control the narrative.",
+      "Shunichi": "Control is a sign of confidence, or deception.",
+      "Midori": "Let's ensure everyone has a chance to speak.",
+      "George": "I will remain neutral and observe the dynamics."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "I am still processing the information.",
+      "Shion": "We will see who stands out tomorrow.",
+      "Shunichi": "The night will reveal a lot, I suppose.",
+      "Midori": "Let's hope for a peaceful night.",
+      "George": "I will rest and prepare for tomorrow's discussion."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the initial observations from the previous day. They weigh the consistency of each person's statements against their behavior. The conversation shifts to identifying potential outliers in logic and tone, with some players challenging others to justify their positions. The debate becomes more focused on specific interactions from the previous day.",
+   "votes": {
+    "Daisuke": "Shunichi",
+    "Shion": "Shunichi",
+    "Shunichi": "Shion",
+    "Midori": "Shunichi",
+    "George": "Shunichi"
+   },
+   "executed": "Shunichi",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I noticed some tension in the previous discussion.",
+      "Shion": "Tension is natural, but let's look at the facts.",
+      "Shunichi": "Facts are what we need, not feelings.",
+      "Midori": "Let's try to understand why that tension arose.",
+      "George": "I observed a shift in tone that seemed significant."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "I am unsure who to trust based on that shift.",
+      "Shion": "Trust is earned through consistent logic.",
+      "Shunichi": "Logic is the only reliable tool here.",
+      "Midori": "But people are complex, not just logic puzzles.",
+      "George": "Complexity is where the truth often hides."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "I feel like I am missing something important.",
+      "Shion": "You are missing the obvious inconsistencies.",
+      "Shunichi": "Inconsistencies are the key to the puzzle.",
+      "Midori": "Let's not jump to conclusions too quickly.",
+      "George": "Patience is a virtue in this game."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "I will vote based on my gut feeling.",
+      "Shion": "Gut feelings are dangerous in this game.",
+      "Shunichi": "Dangerous, but sometimes necessary.",
+      "Midori": "Let's make a decision that feels right for the group.",
+      "George": "I will follow the logical path we have established."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Daisuke": "Daisuke is cautious and struggles to express his thoughts clearly. He relies on the group's dynamics to guide his decisions and tends to follow the majority when he feels uncertain. His view shifts from hesitation to tentative participation as the discussion progresses.",
+  "Midori": "Midori seeks harmony and tries to mediate between conflicting viewpoints. She values emotional intelligence and tries to keep the discussion constructive. Her view remains balanced, focusing on group cohesion rather than individual suspicion.",
+  "Shion": "Shion is confident and analytical, often taking the lead in directing the conversation. He looks for logical flaws and challenges others to defend their positions. His view is sharp and critical, focusing on consistency and behavior.",
+  "Shunichi": "Shunichi is calm and sarcastic, using his composure to deflect suspicion. He tries to appear logical and reasonable while subtly steering the conversation away from himself. His view is defensive, aiming to maintain his cover.",
+  "George": "George is experienced and observant, preferring to listen before speaking. He makes calm judgments based on long-term patterns of behavior. His view is steady and reliable, providing a grounding presence in the discussion."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0020",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:05:02+00:00",
+  "attempts": 3,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293502,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9efdf392dfcba377",
+      "object": "model_permission",
+      "created": 1793293502,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

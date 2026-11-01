@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of logical deduction and observes each other's initial demeanor to identify potential outliers.",
+   "votes": {},
+   "executed": null,
+   "divine": "May",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "I am curious about how we will start this process.",
+      "Benjamin": "Let us begin by establishing a calm and rational tone.",
+      "Servas": "Wisdom comes from listening to all voices equally.",
+      "May": "I am ready to engage and see who fits the narrative.",
+      "Takumi": "I will be direct and honest in my interactions."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "I feel a sense of peace in this group.",
+      "Benjamin": "Observing body language is key to finding inconsistencies.",
+      "Servas": "Experience tells me that silence can be as loud as speech.",
+      "May": "I find the atmosphere quite intriguing so far.",
+      "Takumi": "I don't like waiting around; let's get to the point."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "I am still trying to understand the rules fully.",
+      "Benjamin": "Logic suggests we should not jump to conclusions yet.",
+      "Servas": "Patience is a virtue in these early stages.",
+      "May": "I am watching how everyone reacts to pressure.",
+      "Takumi": "I am ready to defend my position if needed."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "I hope we can find the truth together.",
+      "Benjamin": "We will proceed with caution and analysis.",
+      "Servas": "Let us keep our minds open and our hearts kind.",
+      "May": "I am confident in my ability to navigate this.",
+      "Takumi": "I am done talking for now."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the previous day's interactions, focusing on who seemed evasive or overly aggressive. A debate arises regarding the reliability of initial impressions versus logical consistency, leading to a split in opinion on who to target.",
+   "votes": {
+    "Benjamin": "Minato",
+    "Takumi": "Minato",
+    "May": "Minato",
+    "Minato": "Benjamin",
+    "Servas": "Benjamin"
+   },
+   "executed": "Minato",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "I feel like I am being watched closely today.",
+      "Benjamin": "I noticed some inconsistencies in the previous discussion.",
+      "Servas": "Let us look at the facts, not just feelings.",
+      "May": "I think we need to be decisive here.",
+      "Takumi": "I am ready to vote for whoever seems suspicious."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "I am just trying to be helpful and calm.",
+      "Benjamin": "Calmness can be a mask for deception.",
+      "Servas": "Deception is a complex art, indeed.",
+      "May": "I am leaning towards someone who was too quiet.",
+      "Takumi": "I agree with the idea of targeting the quiet one."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "I don't understand why I am being targeted.",
+      "Benjamin": "Your lack of clear logic is concerning.",
+      "Servas": "Perhaps we are all just guessing at this stage.",
+      "May": "I am confident in my choice.",
+      "Takumi": "I am voting for the person who seems least trustworthy."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "I hope you are right about this.",
+      "Benjamin": "We will see the results of this decision.",
+      "Servas": "Let us hope for the best outcome.",
+      "May": "I am ready to move forward.",
+      "Takumi": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Benjamin": "Focuses on logical consistency and observes behavioral patterns. Argues for caution and analysis, shifting from neutral observation to active suspicion of those who appear evasive.",
+  "Takumi": "Values directness and bravery. Argues for decisive action and is quick to align with the majority view if it seems logical, showing a protective but aggressive stance.",
+  "May": "Focuses on social dynamics and charm. Argues based on intuition and perceived trustworthiness, maintaining a confident and slightly detached demeanor throughout.",
+  "Minato": "Seeks harmony and is sensitive to others' feelings. Argues for peace and cooperation, often appearing naive or evasive, which inadvertently raises suspicion.",
+  "Servas": "Offers philosophical advice and listens carefully. Argues for patience and wisdom, often siding with the more experienced or calm participants, providing a stabilizing presence."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0018",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T15:52:52+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793289172,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8ebf71f910cb2e7b",
+      "object": "model_permission",
+      "created": 1793289172,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "75d054d816d59dd2469749ced575a144e6c73745",
+   "files": 97
+  }
+ }
+}

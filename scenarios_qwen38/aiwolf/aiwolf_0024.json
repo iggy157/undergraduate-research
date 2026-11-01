@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish ground rules for the discussion. They discuss the importance of listening to each other and forming initial impressions based on tone and logic. The conversation remains light and focused on building rapport before any decisions are made.",
+   "votes": {},
+   "executed": null,
+   "divine": "Yumi",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "Let's start by introducing ourselves and how we plan to communicate.",
+      "George": "I agree, clear communication is key to solving this puzzle.",
+      "Yumi": "I'm excited to meet everyone and see how we work together.",
+      "Misaki": "I will listen carefully to what each of you has to say.",
+      "Rin": "I think we should be honest and open from the start!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "What are your initial thoughts on how we should proceed?",
+      "George": "I suggest we observe each other's behavior closely.",
+      "Yumi": "I feel like we should trust our instincts but also verify.",
+      "Misaki": "Observation is a good starting point for me.",
+      "Rin": "I love the idea of being observant and curious!"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "Are there any specific strategies you prefer?",
+      "George": "I prefer a methodical approach to avoid mistakes.",
+      "Yumi": "I like to go with the flow but stay alert.",
+      "Misaki": "I will adapt to the group's direction.",
+      "Rin": "I think we should be flexible and ready to change!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "Let's keep these points in mind as we move forward.",
+      "George": "Agreed, let's maintain a calm and focused atmosphere.",
+      "Yumi": "I'm ready to start the real discussion tomorrow.",
+      "Misaki": "I will be here to contribute when needed.",
+      "Rin": "Can't wait to see what happens next!"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the first night's events and begins to form suspicions based on the initial interactions. They weigh the reliability of each other's statements and look for inconsistencies. The debate focuses on who seems most likely to be hiding something, with arguments centered on behavioral cues and logical deductions.",
+   "votes": {
+    "Takumi": "Yumi",
+    "George": "Yumi",
+    "Yumi": "Takumi",
+    "Misaki": "Yumi",
+    "Rin": "Yumi"
+   },
+   "executed": "Yumi",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Takumi": "I noticed some inconsistencies in the previous discussion.",
+      "George": "I agree, we need to look closer at those points.",
+      "Yumi": "I think we are jumping to conclusions too quickly.",
+      "Misaki": "Let's focus on the facts rather than assumptions.",
+      "Rin": "I feel like someone is trying to mislead us!"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Takumi": "Who do you think is being the most evasive?",
+      "George": "I am concerned about the lack of clear answers.",
+      "Yumi": "I am just trying to understand the situation better.",
+      "Misaki": "I will not comment on specific individuals yet.",
+      "Rin": "I think we should vote for the person who seems least trustworthy."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Takumi": "I have a strong feeling about one person's behavior.",
+      "George": "I will follow the logical path of the discussion.",
+      "Yumi": "I hope we can find the truth together.",
+      "Misaki": "I will consider the group's opinion carefully.",
+      "Rin": "I am ready to make a decision based on what I see."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Takumi": "Let's proceed with the vote now.",
+      "George": "I will cast my vote based on my analysis.",
+      "Yumi": "I will do my best to be fair in my vote.",
+      "Misaki": "I will vote for the person who seems most suspicious.",
+      "Rin": "Let's get this over with and move on!"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "Rin is energetic and eager to participate, often pushing for quick decisions. She relies on her intuition and enthusiasm to guide her choices, though she may sometimes act impulsively.",
+  "Misaki": "Misaki is calm and observant, preferring to listen before speaking. She tries to remain neutral but will align with the group's majority if it seems logical.",
+  "Takumi": "Takumi is brave and protective, often taking the lead in discussions. He is confident in his deductions and willing to challenge others if he feels they are wrong.",
+  "George": "George is experienced and methodical, preferring to analyze the situation carefully before making a move. He values logic and consistency in arguments.",
+  "Yumi": "Yumi is cheerful and friendly, trying to maintain a positive atmosphere. She may try to deflect suspicion by being overly helpful or agreeable."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0024",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:23:18+00:00",
+  "attempts": 5,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793294598,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-968f4605e96950ae",
+      "object": "model_permission",
+      "created": 1793294598,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

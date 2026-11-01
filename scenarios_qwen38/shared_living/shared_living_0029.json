@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group identifies the breakdown in their current informal arrangement, with Shion demanding financial clarity and Daisuke highlighting the hidden time costs. Minako raises the issue of equitable burden, while Benjamin focuses on the social friction caused by the car. The participants agree to investigate specific data points to inform their decision.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "We need to stop guessing and start looking at the actual numbers to see who is subsidizing whom.",
+      "Benjamin": "I am worried about the social tension; I want to know what causes groups like ours to fall apart.",
+      "Asuka": "The car is often unusable when I need it; I care about the state of the vehicle at handover.",
+      "Shion": "I need the real fuel and tax figures; we cannot decide on payments without knowing the true cost.",
+      "Daisuke": "I want to see how many hours we spend just arranging the car, not just driving it."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "I will look into the tax and insurance papers to establish the baseline fixed costs.",
+      "Benjamin": "I will check what other car-sharing households said about their failures.",
+      "Asuka": "I will examine the state of the car at handover to document the neglect.",
+      "Shion": "I will pull the fuel receipts to see who actually bought the petrol.",
+      "Daisuke": "I will review the hours of use recorded in the diary to quantify the administrative burden."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "I will also look at the weeks of heavy use to see when the system breaks down.",
+      "Benjamin": "I will also look at the spell of checking figures to understand the emotional impact.",
+      "Asuka": "I will also look at the trips that repeat weekly to see which ones are failing.",
+      "Shion": "I will also look at the month's trial of recording every run to see the effort involved.",
+      "Daisuke": "I will also look at the mechanic's remarks to understand the wear and tear."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Let's see what we find before we argue about solutions.",
+      "Benjamin": "Agreed, facts first.",
+      "Asuka": "I hope this clarifies things.",
+      "Shion": "We will have the data soon.",
+      "Daisuke": "Okay, I will get to work."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings, revealing a disparity in fuel usage and the high administrative cost of tracking. Asuka highlights the poor condition of the car, while Benjamin notes the social friction from past audits. The discussion shifts to how these specific pain points should influence the new structure, with Shion pushing for transparency and Daisuke emphasizing the need to reduce coordination effort.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "The fixed costs are high, and the heavy use weeks show we need a buffer for those times.",
+      "Benjamin": "Other groups failed because they had to ask for favors; our own audit caused resentment.",
+      "Asuka": "The car was dirty and low on fuel twice; the weekly trips are the ones that keep collapsing.",
+      "Shion": "Two people bought most of the fuel, and the trial recording took an hour a week.",
+      "Daisuke": "The diary shows Saturday is triple the usage of Tuesday, and the mechanic says short runs hurt the car."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "If we split evenly, the heavy users are subsidizing the light users, which is unfair.",
+      "Benjamin": "We need a system that doesn't require constant asking or checking.",
+      "Asuka": "I need a guarantee that the car is ready when I need it for my weekly trips.",
+      "Shion": "We need a way to track usage without it becoming a source of conflict.",
+      "Daisuke": "Can we reduce the time spent on administration?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "A system that accounts for distance or time might be fairer than a flat split.",
+      "Benjamin": "But if it's too complex, it will just create more friction.",
+      "Asuka": "I prefer a system where I know exactly when I have the car.",
+      "Shion": "Transparency is key; we need to see the numbers.",
+      "Daisuke": "I worry about the effort required to keep the records accurate."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Let's wait for the options to be presented.",
+      "Benjamin": "Agreed, let's see what is on the table.",
+      "Asuka": "I am ready to look at the proposals.",
+      "Shion": "Let's move forward.",
+      "Daisuke": "Okay."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three options are presented, and the group debates the trade-offs between predictability, fairness, and administrative burden. Shion and Daisuke focus on the effort required to maintain records, while Asuka prioritizes the reliability of the vehicle's state. Minako argues for a method that reflects actual usage, and Benjamin considers the social dynamics of each choice. The group votes on the option that best balances these concerns.",
+   "votes": {
+    "Minako": "B",
+    "Benjamin": "B",
+    "Asuka": "A",
+    "Shion": "B",
+    "Daisuke": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minako": "Option B seems to address the fairness issue by dividing costs based on distance.",
+      "Benjamin": "Option A might be too rigid, but Option C puts too much burden on one person.",
+      "Asuka": "Option A gives me the certainty I need for my weekly trips.",
+      "Shion": "Option B requires recording, but it is the most transparent.",
+      "Daisuke": "I am worried about the time it takes to record for Option B."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minako": "The recording effort for B is manageable if we are disciplined.",
+      "Benjamin": "A might lead to resentment if someone's day is unused.",
+      "Asuka": "I prefer the predictability of A, but I understand the fairness of B.",
+      "Shion": "B is the only one that gives us the real figures we need.",
+      "Daisuke": "If B is too hard, we will fail again."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minako": "I think B is the best balance of fairness and practicality.",
+      "Benjamin": "I agree, B avoids the social pitfalls of the other two.",
+      "Asuka": "I will vote for A, but I am open to B if it ensures the car is ready.",
+      "Shion": "I am voting for B.",
+      "Daisuke": "I am voting for B, hoping the recording is simple."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minako": "Let's vote.",
+      "Benjamin": "Yes, let's decide.",
+      "Asuka": "I vote for A.",
+      "Shion": "I vote for B.",
+      "Daisuke": "I vote for B."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Shion": "Shion is driven by a need for financial transparency and accurate data. He argues that the current system is based on guesswork and demands that the new arrangement be grounded in real figures. His view remains consistent throughout, pushing for a method that reveals the true cost of usage.",
+  "Daisuke": "Daisuke is concerned with the hidden time costs and administrative burden of managing the car. He argues that the effort to coordinate and untangle debts is a significant factor. His view shifts from anxiety about the effort to a cautious acceptance of a system that might reduce this burden, provided it is not too complex.",
+  "Asuka": "Asuka focuses on the reliability and condition of the car, particularly for her weekly trips. She argues that the current system fails to ensure the car is in a usable state. Her view is pragmatic, prioritizing predictability and the physical state of the vehicle over abstract fairness.",
+  "Minako": "Minako is concerned with equity and the hidden subsidies that occur in the current arrangement. She argues that an even split is unfair if usage is unequal. Her view is analytical, seeking a method that accurately reflects the burden each person places on the shared resource.",
+  "Benjamin": "Benjamin is focused on the social dynamics and the potential for conflict. He argues that the car has become a source of tension and that the new system must avoid creating new sore points. His view is diplomatic, seeking a solution that minimizes friction and maintains group harmony."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0029",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:03:17+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293397,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b73ca1251c3f7595",
+      "object": "model_permission",
+      "created": 1793293397,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the logistical and financial uncertainties of their annual trip. They identify key areas of concern regarding cost transparency, travel efficiency, and daily comfort. Each participant selects two specific topics from the provided list to investigate further.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "I want to know the total cost upfront so there are no surprises later.",
+      "Shunichi": "I am worried about how much time is lost just getting to the destination.",
+      "Asuka": "We need a clear rule on how expenses are split to avoid awkwardness.",
+      "Takumi": "I need to know about the bathroom and meal schedules to sleep well.",
+      "Toshio": "I want to understand how the group dynamic affects our time together."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "I will look into the pricing of whole houses and last year's room costs.",
+      "Shunichi": "I will check the ferry times and how we get around by train and bus.",
+      "Asuka": "I will investigate the all-in rates versus separate meals and last year's costs.",
+      "Takumi": "I will look into bathing hours and the inn mealtimes and room arrangements.",
+      "Toshio": "I will check the time alone in the shared-house year and how last year's days ran."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "It is important to see the full bill before we commit.",
+      "Shunichi": "Agreed, but the travel time is the biggest drain on the holiday.",
+      "Asuka": "If the money is clear, the rest is easier to manage.",
+      "Takumi": "I just need a place to wash and a quiet spot to sit.",
+      "Toshio": "Understanding the social flow is key to a good trip."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Let's see what the research says before we decide.",
+      "Shunichi": "I will be back with the travel data soon.",
+      "Asuka": "I will compare the financial structures.",
+      "Takumi": "I will check the practical details of the stay.",
+      "Toshio": "I will analyze the group dynamics from past trips."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings from the research phase. The discussion focuses on the specific data points regarding costs, travel durations, and facility details. The group begins to weigh the trade-offs between financial predictability, travel efficiency, and personal comfort.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "The whole-house option is about 5,400 yen per head per night, plus food.",
+      "Shunichi": "The ferry takes two days total, but the train to the valley is only ninety minutes.",
+      "Asuka": "All-in rates charge the same for everyone, while separate meals vary by appetite.",
+      "Takumi": "Inn baths are open late, but the island houses have only one bathroom.",
+      "Toshio": "Last year, we barely saw each other, but a shared house forces interaction."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "That 5,400 yen figure is helpful, but I still need to know the food costs.",
+      "Shunichi": "Ninety minutes by train is much better than two days on a ferry.",
+      "Asuka": "If we buy meals separately, the light eaters save money, but it is less predictable.",
+      "Takumi": "One bathroom for the whole building sounds stressful for me.",
+      "Toshio": "The lack of alone time in the shared house was a problem last time."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "I need a fixed total, so the all-in or whole-house model seems safer.",
+      "Shunichi": "The train option saves us a significant amount of vacation time.",
+      "Asuka": "Separate meals are fairer, but the all-in rate simplifies the accounting.",
+      "Takumi": "I need a private bathroom or a very clear schedule to avoid conflict.",
+      "Toshio": "We need a balance between togetherness and individual space."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "Let's wait for the final options to see which fits these criteria.",
+      "Shunichi": "The travel time is a major factor in my decision.",
+      "Asuka": "The financial structure must be clear and fair.",
+      "Takumi": "The daily routine needs to be comfortable for me.",
+      "Toshio": "The social dynamic must be sustainable for the whole week."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three specific travel options are presented to the group. The participants debate the merits of each based on the previously gathered data, focusing on cost, travel time, and living conditions. The group votes on the option that best aligns with their collective needs.",
+   "votes": {
+    "Rin": "A",
+    "Shunichi": "B",
+    "Asuka": "A",
+    "Takumi": "B",
+    "Toshio": "B"
+   },
+   "adopted": "B",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Rin": "Option A offers a fixed cost per head, which I like.",
+      "Shunichi": "Option B has the shortest travel time, which is crucial for me.",
+      "Asuka": "Option A's single bill is easier to manage than separate accounts.",
+      "Takumi": "Option B has better bathroom facilities and a clear meal schedule.",
+      "Toshio": "Option B allows for some individual time while still being a group trip."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Rin": "But Option A is on an island, which means more travel time.",
+      "Shunichi": "Yes, the ferry takes two days, which is a dealbreaker for me.",
+      "Asuka": "The all-in rate in Option B is also predictable, though slightly higher.",
+      "Takumi": "The single bathroom in Option A is a major concern for me.",
+      "Toshio": "The shared house in Option A might feel too crowded for some."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Rin": "I am willing to accept the travel time if the cost is fixed.",
+      "Shunichi": "I cannot accept losing two days to travel. Option B is the only viable choice.",
+      "Asuka": "Option B's inn rates include meals, which simplifies the budget.",
+      "Takumi": "I am comfortable with the inn setup in Option B.",
+      "Toshio": "Option B seems to offer the best balance of togetherness and space."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Rin": "I will vote for Option A for the financial clarity.",
+      "Shunichi": "I will vote for Option B for the travel efficiency.",
+      "Asuka": "I will vote for Option A for the simplicity of the bill.",
+      "Takumi": "I will vote for Option B for the comfort and facilities.",
+      "Toshio": "I will vote for Option B for the social balance."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "Rin is concerned about financial surprises and wants to know the total cost before committing. She argues for options with fixed, all-inclusive pricing to avoid last-minute budget issues. Her view remains consistent throughout, prioritizing financial predictability over other factors.",
+  "Shunichi": "Shunichi is focused on minimizing travel time to maximize the actual holiday. He argues for options with efficient transport links and is critical of any plan that consumes too much of the week in transit. His view is driven by a desire for a restful and efficient trip.",
+  "Takumi": "Takumi is concerned with daily comfort, specifically bathroom access and meal schedules. He argues for options that provide private or well-managed facilities and a predictable routine. His view is shaped by his need for a comfortable and low-stress environment.",
+  "Asuka": "Asuka is focused on the fairness and clarity of financial arrangements. She argues for options that simplify expense splitting and avoid ambiguity in who pays for what. Her view is driven by a desire for a structured and equitable group dynamic.",
+  "Toshio": "Toshio is concerned with the social dynamics of the group, specifically the balance between togetherness and individual space. He argues for options that allow for both group interaction and personal time. His view is shaped by a desire for a sustainable and harmonious group experience."
+ },
+ "final": {
+  "adopted": "B"
+ },
+ "setup_id": "shared_living_0024",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:55:24+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793292924,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-812498bc3063169f",
+      "object": "model_permission",
+      "created": 1793292924,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

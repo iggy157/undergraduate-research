@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel discusses the criteria for selecting a new initiative, focusing on financial sustainability, operational capacity, and staffing realities. Participants express concerns about hidden running costs, infrastructure bottlenecks, and the risk of programs failing due to lack of long-term commitment. The group agrees to investigate specific data points to inform their decision.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I am concerned about the gap between the initial development budget and the ongoing operational costs.",
+      "Shion": "We should verify if previous similar initiatives actually improved patient outcomes before adding another.",
+      "Midori": "I need to understand how this will impact the current staffing rosters and workload distribution.",
+      "Kenji": "My main worry is whether our physical space and booking systems can handle the additional load.",
+      "Shizue": "I want to look into why past joint arrangements fell apart after the first year."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "I will check the ledger to see the actual allocation and any hidden fitting-out costs.",
+      "Shion": "I plan to review the readmission figures from the previous trial to see if it worked.",
+      "Midori": "I will look at the therapy and midwifery staffing reviews to see where the slack is.",
+      "Kenji": "I will check the room availability and parking coverage to assess capacity.",
+      "Shizue": "I will read the board minutes regarding the jointly run clinic that closed."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "It is important to know what the budget can actually build before we commit.",
+      "Shion": "Data from the past will tell us if this is just another buried initiative.",
+      "Midori": "Staffing pressure is the first thing to break if we do not plan carefully.",
+      "Kenji": "If the infrastructure seizes up, the program fails regardless of its merit.",
+      "Shizue": "We must ensure the arrangement is signed up to by all parties involved."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "I will look into the ledger and the regional fund tariffs.",
+      "Shion": "I will look into the readmission figures and the data agreements.",
+      "Midori": "I will look into the staffing review and the ward nursing vacancies.",
+      "Kenji": "I will look into the rooms and parking, and what the booking system records.",
+      "Shizue": "I will look into the board minutes and the visit completion on the shared round."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings from the investigation. Jonathan reveals that the development budget is smaller than expected and that off-site contacts do not generate revenue. Shion notes that previous trials showed temporary benefits that faded, and that data sharing is slow. Midori finds that some departments have staffing slack while others are overburdened. Kenji discovers that outpatient rooms are fully booked and the booking system cannot track non-clinic work. Shizue finds that previous joint efforts failed due to lack of shared responsibility. The discussion shifts to how these constraints affect the viability of different types of programs.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "The ledger shows the allocation is down by a quarter, and off-site work earns no tariff.",
+      "Shion": "The readmission trial worked for eighteen months but the gains drifted back after it stopped.",
+      "Midori": "The staffing review shows slack in midwifery but severe vacancies in ward nursing.",
+      "Kenji": "Outpatient rooms are full by mid-morning, and the booking system misses non-clinic work.",
+      "Shizue": "The board minutes show the joint clinic closed because neither department held the budget."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "This means we cannot rely on off-site activities to fund the program.",
+      "Shion": "We need a model that sustains itself without constant external intervention.",
+      "Midori": "We should place the load on departments with current staffing slack.",
+      "Kenji": "We need a program that fits into existing clinic slots or uses space that is not yet booked.",
+      "Shizue": "We need clear ownership of the budget and rota to avoid the previous failure."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "The financial constraints are tighter than I thought.",
+      "Shion": "The data suggests that sustainability is the key challenge.",
+      "Midori": "The staffing imbalance is a major factor in where we can place the new work.",
+      "Kenji": "The infrastructure limits are significant and must be respected.",
+      "Shizue": "The governance structure must be robust to prevent collapse."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "I am concerned about the long-term financial viability.",
+      "Shion": "I am skeptical of programs that do not have a clear, sustainable model.",
+      "Midori": "I am looking for a program that aligns with current staffing capacities.",
+      "Kenji": "I am looking for a program that does not strain the existing infrastructure.",
+      "Shizue": "I am looking for a program with clear, shared responsibility."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four candidate programs are revealed. The panel debates the merits of each option against the constraints identified in the previous round. They discuss how each program fits with the financial, staffing, and infrastructure realities. The conversation focuses on which option best addresses the specific concerns raised by each participant. The panel then votes to select the program that best aligns with their collective priorities.",
+   "votes": {
+    "Jonathan": "D",
+    "Shizue": "C",
+    "Shion": "D",
+    "Kenji": "B",
+    "Midori": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "Option D seems to have the best potential for long-term financial sustainability.",
+      "Shion": "Option D also addresses the sustainability issue by consolidating care.",
+      "Midori": "Option C aligns well with the midwifery staffing slack I found.",
+      "Kenji": "Option B fits into the dedicated space and scheduled outpatient slots.",
+      "Shizue": "Option C has a clear joint structure that could be managed better than the previous clinic."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "I am concerned that Option D might still have hidden running costs.",
+      "Shion": "I agree, but Option D is the most logical choice based on the data.",
+      "Midori": "I prefer Option C because it utilizes the available staffing capacity.",
+      "Kenji": "I am worried that Option B might strain the parking and shuttle services.",
+      "Shizue": "I think Option C is the safest bet for long-term stability."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Let us consider the financial implications of each option carefully.",
+      "Shion": "We should prioritize the option with the strongest evidence of success.",
+      "Midori": "We should prioritize the option that does not overburden the nursing staff.",
+      "Kenji": "We should prioritize the option that fits within our current infrastructure.",
+      "Shizue": "We should prioritize the option with the clearest governance structure."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "I will vote for Option D.",
+      "Shion": "I will vote for Option D.",
+      "Midori": "I will vote for Option C.",
+      "Kenji": "I will vote for Option B.",
+      "Shizue": "I will vote for Option C."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "Jonathan focuses on the financial sustainability of the program, ensuring that the development budget is not overstretched and that the program can generate or save enough to cover its running costs. He argues for a program that has a clear financial model and does not rely on hidden subsidies. His view shifts from general concern to a specific preference for a program that consolidates care and reduces long-term costs.",
+  "Shizue": "Shizue is concerned about the long-term stability of the program and the risk of it failing due to lack of shared responsibility. She argues for a program with a clear governance structure and shared ownership. Her view shifts from general concern to a specific preference for a program that has a strong joint structure and clear budgetary responsibility.",
+  "Shion": "Shion is skeptical of new initiatives and wants to ensure that the program has a proven track record and a sustainable model. He argues for a program that is based on data and has a clear plan for long-term success. His view shifts from general skepticism to a specific preference for a program that consolidates care and has a strong evidence base.",
+  "Kenji": "Kenji is concerned about the operational capacity of the hospital and the risk of the program straining existing infrastructure. He argues for a program that fits within the current space, booking, and transport systems. His view shifts from general concern to a specific preference for a program that uses dedicated space and scheduled slots.",
+  "Midori": "Midori is concerned about the impact of the program on staffing rosters and the risk of overburdening certain clinical groups. She argues for a program that aligns with current staffing capacities and does not create new pressures. Her view shifts from general concern to a specific preference for a program that utilizes existing staffing slack."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0016",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:19:04+00:00",
+  "attempts": 4,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793290744,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a1ade0ee7e2298bb",
+      "object": "model_permission",
+      "created": 1793290744,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

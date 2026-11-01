@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish ground rules for the discussion. They discuss the importance of observing behavior and listening to each other's perspectives. The group agrees to remain calm and logical in their interactions.",
+   "votes": {},
+   "executed": null,
+   "divine": "Mizuki",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I value quiet observation and will listen carefully to everyone's words.",
+      "Rin": "I'm excited to start! Let's make sure we all get a chance to speak.",
+      "Mizuki": "I believe in logical analysis; let's focus on facts and behavior.",
+      "Midori": "I want to keep the atmosphere friendly and supportive for all of us.",
+      "Takumi": "I'm ready to face this challenge head-on. Let's get to work."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Agreed. I will share my thoughts when I feel confident in my observations.",
+      "Rin": "That sounds good! I'll try to be as clear as possible.",
+      "Mizuki": "Clarity is key. I will point out any inconsistencies I notice.",
+      "Midori": "I'll do my best to mediate if things get heated.",
+      "Takumi": "I won't hold back my opinions. Let's be honest with each other."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Thank you. I appreciate the cooperative tone.",
+      "Rin": "Me too! It feels like a good start.",
+      "Mizuki": "Indeed. Let's maintain this level of respect throughout the game.",
+      "Midori": "I'm glad we're all on the same page.",
+      "Takumi": "Let's see how things develop from here."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Rin": "Over",
+      "Mizuki": "Over",
+      "Midori": "Over",
+      "Takumi": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the initial observations from the previous day. They weigh the reliability of different statements and look for patterns in behavior. The conversation focuses on identifying who might be hiding information or acting inconsistently.",
+   "votes": {
+    "Jonathan": "Takumi",
+    "Rin": "Takumi",
+    "Mizuki": "Takumi",
+    "Midori": "Takumi",
+    "Takumi": "Mizuki"
+   },
+   "executed": "Takumi",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Jonathan": "I noticed some tension in the last discussion. Who felt the most pressure?",
+      "Rin": "I felt a bit rushed, but I think we all need to be careful.",
+      "Mizuki": "I observed that one person was particularly defensive. It's worth noting.",
+      "Midori": "I tried to keep things calm, but I understand the need for caution.",
+      "Takumi": "I was just being direct. I don't see why that's a problem."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Jonathan": "Directness can be misinterpreted. Let's look at the context.",
+      "Rin": "Yes, context matters. I think we should focus on actions, not just words.",
+      "Mizuki": "Agreed. I will highlight specific instances where behavior seemed off.",
+      "Midori": "I'll try to provide a balanced view of the interactions.",
+      "Takumi": "Fine. But I stand by my honesty."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Jonathan": "Honesty is good, but it must be consistent. I have some concerns.",
+      "Rin": "I'm starting to see what you mean. Let's discuss this further.",
+      "Mizuki": "I believe the evidence points to a specific individual. Let's vote.",
+      "Midori": "I hope we can make the right decision together.",
+      "Takumi": "I'm not afraid of the vote. Let's do it."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Jonathan": "Over",
+      "Rin": "Over",
+      "Mizuki": "Over",
+      "Midori": "Over",
+      "Takumi": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Midori": "Midori focuses on maintaining group harmony and ensuring everyone feels heard. She argues for a balanced approach and tries to mediate conflicts. Her view remains consistent in prioritizing cooperation.",
+  "Jonathan": "Jonathan values quiet observation and logical deduction. He argues for careful analysis of behavior and consistency. His view becomes more decisive as he identifies inconsistencies.",
+  "Mizuki": "Mizuki is confident and logical, focusing on observable facts and patterns. She argues for a data-driven approach and points out specific behaviors. Her view is firm and directed towards identifying the outlier.",
+  "Takumi": "Takumi is brave and direct, often appearing aggressive but protective. He argues for honesty and stands by his actions. His view is defensive but unyielding.",
+  "Rin": "Rin is active and curious, contributing energetic and sometimes precocious ideas. She argues for clarity and context in discussions. Her view is open and adaptable."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0022",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:10:37+00:00",
+  "attempts": 6,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293837,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b064a890be55a686",
+      "object": "model_permission",
+      "created": 1793293837,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

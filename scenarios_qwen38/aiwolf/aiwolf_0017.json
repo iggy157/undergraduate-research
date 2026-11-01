@@ -1,0 +1,188 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and listening to others' reasoning. No specific suspicions are raised, and the focus remains on building rapport and setting the tone for the investigation.",
+   "divine": "Sakura",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Welcome, everyone. Let us begin by sharing our thoughts on how we should approach this challenge together.",
+      "Misaki": "I agree. Observing who speaks first and who listens carefully might reveal useful patterns.",
+      "May": "I think we should all be open and honest. I'm here to help find the truth.",
+      "Jonathan": "I prefer to listen first. I will share my observations as they become clear.",
+      "Sakura": "I'm excited to start! I think we should ask each other questions to get to know everyone better."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Good point, Sakura. Let's start with simple questions about our daily habits.",
+      "Misaki": "I usually wake up early. I enjoy quiet mornings before the day begins.",
+      "May": "I'm a night owl, but I try to stay active. I love dancing and socializing.",
+      "Jonathan": "I spend most of my time reading. I find peace in books and silence.",
+      "Sakura": "I like playing games and solving puzzles. I'm always looking for fun challenges."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Thank you for sharing. It helps us understand each other's personalities better.",
+      "Misaki": "I notice that some of us are more outgoing, while others are more reserved. Both are valuable.",
+      "May": "I think it's important to respect everyone's different ways of being. We're all unique.",
+      "Jonathan": "I agree. Understanding each other's strengths can help us work together effectively.",
+      "Sakura": "I'm glad we're all getting along so well. I think we'll make a great team!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Let's keep this positive energy going. We'll continue our discussion tomorrow.",
+      "Misaki": "I look forward to seeing how the conversation develops. I'll be listening carefully.",
+      "May": "I'm confident we'll figure this out. Let's stay focused and supportive.",
+      "Jonathan": "I will continue to observe and contribute when I have something meaningful to say.",
+      "Sakura": "I can't wait for tomorrow! I think we're off to a great start."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the previous night's events and begins to form initial suspicions based on the introductions. There is a debate about whether to trust the quiet participants or the more vocal ones. The discussion shifts to identifying inconsistencies in the stories told during the first day. The group weighs the value of direct confrontation versus subtle observation.",
+   "votes": {
+    "May": "Sakura",
+    "Misaki": "Sakura",
+    "Servas": "Sakura",
+    "Sakura": "May",
+    "Jonathan": "Sakura"
+   },
+   "executed": "Sakura",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Let us review the first day's statements. Who do you think was most convincing?",
+      "Misaki": "I found the quiet ones more reliable. They seemed to think before they spoke.",
+      "May": "I think the energetic ones were just trying to stand out. I trust the calm ones more.",
+      "Jonathan": "I noticed that one person asked a lot of questions but didn't answer any. That seems suspicious.",
+      "Sakura": "I was just trying to get to know everyone! I didn't mean to seem suspicious."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Sakura, your questions were indeed numerous. Can you explain why you focused on that?",
+      "Misaki": "I think it's important to ask questions, but it's also important to listen to the answers.",
+      "May": "I agree with Misaki. I think we should be careful about who we trust.",
+      "Jonathan": "I will continue to observe. I don't want to jump to conclusions too quickly.",
+      "Sakura": "I was just curious! I didn't mean to cause any trouble."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Let's consider the possibility that the most vocal person is trying to distract us.",
+      "Misaki": "That's a valid point. I think we should look for inconsistencies in the stories.",
+      "May": "I think we should focus on the people who are trying to steer the conversation.",
+      "Jonathan": "I agree. I will pay close attention to who is trying to influence the group.",
+      "Sakura": "I'm not trying to steer the conversation! I'm just trying to help."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Let's vote on who we think is the most suspicious. I will vote for the person who seems to be trying to distract us.",
+      "Misaki": "I will vote for the person who seems to be the most inconsistent.",
+      "May": "I will vote for the person who seems to be the most vocal.",
+      "Jonathan": "I will vote for the person who seems to be the most suspicious.",
+      "Sakura": "I will vote for the person who seems to be the most suspicious."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "May": "May is confident and sociable, and she uses her charm to build alliances. She is careful to maintain her image as a helpful and trustworthy member of the group. She is wary of those who seem to be trying to manipulate the conversation.",
+  "Misaki": "Misaki is calm and observant, and she relies on her quiet demeanor to gather information. She is careful to avoid drawing attention to herself, and she is wary of those who seem to be trying to manipulate the conversation.",
+  "Servas": "Servas is calm and composed, and he uses his experience to guide the group. He is careful to maintain a neutral stance, and he is wary of those who seem to be trying to manipulate the conversation.",
+  "Sakura": "Sakura is cheerful and mischievous, and she uses her energy to distract the group. She is careful to maintain her image as a fun and friendly member of the group, but she is also aware of the danger she is in.",
+  "Jonathan": "Jonathan is calm and introverted, and he relies on his quiet demeanor to gather information. He is careful to avoid drawing attention to himself, and he is wary of those who seem to be trying to manipulate the conversation."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0017",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T15:52:57+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793289177,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-9b767623a665e397",
+      "object": "model_permission",
+      "created": 1793289177,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "75d054d816d59dd2469749ced575a144e6c73745",
+   "files": 97
+  }
+ }
+}

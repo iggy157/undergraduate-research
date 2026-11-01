@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group discusses the general criteria for expansion, focusing on budget sustainability, logistical reliability, and staff capacity. Participants express concerns about past funding gaps and the impact of external conditions on service delivery. Each member selects two specific data points to investigate before the next round.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "I worry about how often our plans fail when external factors shift unexpectedly.",
+      "Benjamin": "We should check if similar ideas have been tried here before and what the records say.",
+      "Shion": "We need to verify if the current staff actually have the skills for new roles.",
+      "Minako": "The budget structure often looks fine now but fails later; we must check the funding shape.",
+      "Daisuke": "I am concerned about how new commitments affect who can physically reach the library."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "I will look into winter road closures and supplier delivery windows.",
+      "Benjamin": "I will review the two programmes begun six years ago and the running lines.",
+      "Shion": "I will check the volunteer register and the tool certification status.",
+      "Minako": "I will examine the county grant terms and the evening room bookings.",
+      "Daisuke": "I will look at the bus links in the outer wards and the attendance sheets."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "Those seem like the right places to start for reliability checks.",
+      "Benjamin": "Agreed, historical data is key to avoiding repetition.",
+      "Shion": "Staffing is the bottleneck, so those records are essential.",
+      "Minako": "Understanding the funding flow is critical for long-term viability.",
+      "Daisuke": "Access is the primary barrier for many residents, so those stats matter."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "Let's see what the data reveals before we decide.",
+      "Benjamin": "Yes, facts over assumptions.",
+      "Shion": "I will review the findings when they are ready.",
+      "Minako": "We will proceed to the next round with this information.",
+      "Daisuke": "I hope the data clarifies the access issues."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings from the investigation phase. The discussion shifts to interpreting these specific data points, highlighting contradictions between financial stability, logistical feasibility, and human resources. The group debates whether the proposed expansions can withstand the identified risks.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "The road closures and delivery slips confirm that external timing is a major risk.",
+      "Benjamin": "The old digitisation project failed, but the partner-run groups succeeded; the model matters.",
+      "Shion": "We have volunteers for repairs, but no one is trained to supervise outside facilitators.",
+      "Minako": "The grant only covers fees for a year, then the operating budget takes over; that is a trap.",
+      "Daisuke": "The outer wards lost bus links, and their outreach attendance was higher than the main branch."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "This explains why our previous timetables fell apart; we can't control the roads.",
+      "Benjamin": "So we should avoid repeating the failed digitisation approach and look at the successful partner model.",
+      "Shion": "If we hire outside facilitators, we have a supervision gap that needs solving first.",
+      "Minako": "The funding structure is fragile; we need a proposal that doesn't rely on one-off grants.",
+      "Daisuke": "The lack of transport in the outer wards is a critical barrier that any new service must address."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "We need a service that is resilient to weather and supply chain issues.",
+      "Benjamin": "And one that has a proven track record in this specific system.",
+      "Shion": "And one that doesn't overload the existing staff with untrained responsibilities.",
+      "Minako": "And one that is financially sustainable beyond the first year.",
+      "Daisuke": "And one that actually reaches the people who are currently cut off."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "These criteria are clear now.",
+      "Benjamin": "Let's see which candidates fit these constraints.",
+      "Shion": "I am ready to evaluate the options against these facts.",
+      "Minako": "The financial and logistical data will be the deciding factors.",
+      "Daisuke": "I hope the options address the access gap."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four candidate proposals are revealed to the group. The participants debate the merits of each option against the criteria established in the previous rounds, focusing on financial sustainability, logistical feasibility, and community access. The discussion concludes with a vote to select the proposal that best aligns with the identified needs.",
+   "votes": {
+    "Minako": "D",
+    "Yumi": "D",
+    "Benjamin": "C",
+    "Daisuke": "D",
+    "Shion": "C"
+   },
+   "adopted": "D",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Yumi": "The mobile service seems most resilient to the road and supply issues we identified.",
+      "Benjamin": "The language groups align with the successful partner-run model from six years ago.",
+      "Shion": "The mobile service requires less new supervision than the workshop or archive options.",
+      "Minako": "The mobile service has a clearer path to long-term funding than the grant-dependent options.",
+      "Daisuke": "The mobile service directly addresses the bus link loss in the outer wards."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Yumi": "I agree, the mobile service avoids the external timing risks.",
+      "Benjamin": "However, the language groups have a proven track record of success here.",
+      "Shion": "The mobile service is simpler to staff with our current resources.",
+      "Minako": "The mobile service's operating costs are more predictable than the others.",
+      "Daisuke": "The mobile service is the only one that reaches the isolated residents."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Yumi": "I am leaning towards the mobile service for its reliability.",
+      "Benjamin": "I will vote for the language groups due to their historical success.",
+      "Shion": "I will vote for the language groups as they are easier to manage.",
+      "Minako": "I will vote for the mobile service for its financial stability.",
+      "Daisuke": "I will vote for the mobile service for its accessibility."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Yumi": "Let's cast our votes now.",
+      "Benjamin": "Agreed, the data points to a clear choice for most of us.",
+      "Shion": "I am ready to vote.",
+      "Minako": "The decision is clear based on the criteria.",
+      "Daisuke": "I hope this choice helps the community."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Minako": "Minako focuses on the structural integrity of the budget, arguing that funding shapes matter more than initial amounts. She remains calm and factual, guiding the group to look at long-term sustainability rather than short-term appeal.",
+  "Yumi": "Yumi is concerned with the reliability of external conditions, such as weather and supply chains. She argues for options that are resilient to these factors, shifting from general worry to specific data-driven concerns.",
+  "Benjamin": "Benjamin emphasizes the importance of historical precedent, arguing that past records should inform current decisions. He is logical and slightly sarcastic, pushing the group to look at what has already been tried and what worked.",
+  "Daisuke": "Daisuke is focused on accessibility and the physical reach of the library services. He is quiet and cautious, but his concern about who can actually reach the library becomes a central point of discussion.",
+  "Shion": "Shion is concerned with staff capacity and the practicality of implementing new services. He is confident and calculating, often pointing out gaps in training or supervision that could undermine a proposal."
+ },
+ "final": {
+  "adopted": "D"
+ },
+ "setup_id": "candidate_selection_0005",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:06:31+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793289991,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b5f55bccecb54f60",
+      "object": "model_permission",
+      "created": 1793289991,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

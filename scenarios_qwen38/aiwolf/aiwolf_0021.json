@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and listening to others' reasoning. There is a general agreement to remain calm and avoid jumping to conclusions without evidence.",
+   "votes": {},
+   "executed": null,
+   "divine": "Kenji",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Hi everyone! I'm Mio. I'm really excited to see how this plays out. Let's be nice to each other!",
+      "Misaki": "Hello. I'm Misaki. I prefer to listen first before speaking. Let's keep the discussion logical.",
+      "Jonathan": "Good evening. I am Jonathan. I value quiet observation. I will share my thoughts when I have them.",
+      "Kenji": "Hey! I'm Kenji. I love a good challenge. Let's figure this out together, friends!",
+      "Benjamin": "Greetings. Benjamin here. I believe in rational analysis. Let's proceed with care and precision."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "I agree with Misaki. Logic is key. I don't want to rush into anything.",
+      "Misaki": "Thank you, Mio. I think we should watch for inconsistencies in stories.",
+      "Jonathan": "A valid point. Consistency is a good indicator of truth. I will keep that in mind.",
+      "Kenji": "Yeah, that makes sense. I'll try to be really honest and clear with my answers.",
+      "Benjamin": "Indeed. Clarity reduces ambiguity. I look forward to a fair process."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "I feel a bit nervous, but I'm ready. Who wants to start with a question?",
+      "Misaki": "I have no specific questions yet. I am observing the dynamics.",
+      "Jonathan": "I am also observing. The atmosphere seems calm, which is good.",
+      "Kenji": "I'm happy to answer anything! Just ask me directly if you want.",
+      "Benjamin": "I will wait for more data before forming strong opinions. Patience is virtue."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Okay, let's end the day. I hope we all sleep well.",
+      "Misaki": "Agreed. Rest is important for clear thinking tomorrow.",
+      "Jonathan": "Goodnight. I will reflect on what was said.",
+      "Kenji": "Goodnight everyone! See you in the morning.",
+      "Benjamin": "Goodnight. Let us hope for a productive next day."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the night's events and begins to form suspicions based on the initial introductions. There is a debate about who seems most evasive or aggressive. The conversation shifts to analyzing the tone and content of the previous day's statements to identify potential threats.",
+   "votes": {
+    "Mio": "Benjamin",
+    "Misaki": "Mio",
+    "Jonathan": "Mio",
+    "Kenji": "Mio",
+    "Benjamin": "Mio"
+   },
+   "executed": "Mio",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Morning! I'm glad everyone is still here. Let's get started.",
+      "Misaki": "Good morning. I noticed some energy in the first day. Let's analyze it.",
+      "Jonathan": "The energy was high. I found the enthusiasm interesting but slightly overwhelming.",
+      "Kenji": "I was just being friendly! I think we should look at who was quiet.",
+      "Benjamin": "Quietness can be a sign of caution or deception. We must weigh both."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "I think being quiet is just being thoughtful. I don't see anything wrong with that.",
+      "Misaki": "I agree. However, I am curious about the rapid agreement in the first turn.",
+      "Jonathan": "Rapid agreement can be a tactic to build false trust. It warrants scrutiny.",
+      "Kenji": "I didn't mean to agree too fast. I just like harmony. Is that bad?",
+      "Benjamin": "Harmony is good, but blind agreement is not. I am watching the dynamics closely."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "I feel like I'm being targeted for no reason. I'm just a normal person.",
+      "Misaki": "I am not targeting anyone. I am simply asking questions to find the truth.",
+      "Jonathan": "I share Misaki's approach. We need to find the source of the threat.",
+      "Kenji": "I'm with Misaki. I just want to help the group win. I'm not hiding anything.",
+      "Benjamin": "I am also seeking the truth. The pressure is mounting, but we must stay rational."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "I think we should vote for someone who seems the most suspicious to you.",
+      "Misaki": "I will vote for the person who seems least trustworthy based on my observations.",
+      "Jonathan": "I will follow my intuition and the logical flow of the conversation.",
+      "Kenji": "I'll vote for whoever I think is the biggest risk to the group.",
+      "Benjamin": "I will cast my vote based on the consistency of the arguments presented."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "Values calm observation and logical consistency. Argues for patience and careful analysis of behavior. Remains composed and detached, focusing on the flow of information rather than emotional reactions.",
+  "Kenji": "Values friendship and group harmony. Argues with enthusiasm and openness, often trying to reassure others. Becomes defensive when questioned but remains positive and cooperative throughout the discussion.",
+  "Benjamin": "Values rationality and precision. Argues with elegance and a touch of sarcasm, focusing on logical gaps and inconsistencies. Maintains a professional distance while actively analyzing the group's dynamics.",
+  "Misaki": "Values cool-headed analysis and truth. Argues with quiet confidence, asking pointed questions to test others' stories. Remains unfazed by pressure and focuses on the logical progression of the game.",
+  "Mio": "Values energy and social connection. Argues with cheerfulness and defensiveness, trying to deflect suspicion by emphasizing her friendly nature. Becomes increasingly anxious as the discussion turns critical."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0021",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:09:41+00:00",
+  "attempts": 6,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793293781,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-841ede37b3ff0a6a",
+      "object": "model_permission",
+      "created": 1793293781,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

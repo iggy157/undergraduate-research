@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "Participants introduce their primary concerns regarding budget sources, external dependencies, historical outcomes, operational losses, and staffing capacity. They discuss the criteria for evaluating proposals, focusing on feasibility and long-term sustainability. Each participant selects two specific areas from the list to investigate further.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I am worried we judge ideas by their sound rather than the daily friction they cause on the floor.",
+      "May": "We need to know who absorbs the extra work, as staff time is not free or unlimited.",
+      "Shunichi": "We often promise dates based on conditions we do not control, like access at other sites.",
+      "Ryuji": "The fund is committed before we know which budget line pays for it, which changes affordability.",
+      "Kenji": "We keep rediscovering the same lessons because nobody checks what happened to earlier winners."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "I will look into the time lost to copying records and the misrouted deliveries.",
+      "May": "I will check the staffing of the coordination group and the in-house developer availability.",
+      "Shunichi": "I will investigate the network coverage at customer plants and the handling of vendor queries.",
+      "Ryuji": "I will review the capital budget and the vendor licence pricing versus fixed-fee work.",
+      "Kenji": "I will examine the outcomes of the last three rollouts and the record of cross-unit standardization."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "Skip",
+      "May": "Skip",
+      "Shunichi": "Skip",
+      "Ryuji": "Skip",
+      "Kenji": "Skip"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Over",
+      "May": "Over",
+      "Shunichi": "Over",
+      "Ryuji": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share the specific findings from their investigations, revealing constraints such as frozen capital lines, network gaps, and staffing shortages. They debate how these findings impact the feasibility of different types of projects, with some arguing for tools that reduce manual effort and others for those that minimize external dependencies. The conversation shifts to weighing the risk of uncontrolled variables against the cost of internal resource allocation.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "I found that copying records costs nearly an hour daily, and misrouted deliveries stem from duplicate addresses.",
+      "May": "The coordination group is understaffed, and our developers are tied up until the third quarter.",
+      "Shunichi": "Half the customer sites lose network coverage for afternoons, and vendor queries are handled by only two clerks.",
+      "Ryuji": "The capital line is frozen, but the software allowance has room, and fixed-fee work is cheaper than per-head licences.",
+      "Kenji": "Previous rollouts failed when they required daily entry from everyone, but narrow tools for one trade still run."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "This suggests we need solutions that reduce daily manual errors without requiring constant new input.",
+      "May": "If developers are unavailable, we must consider options that do not rely on heavy custom coding.",
+      "Shunichi": "Network gaps make mobile solutions risky unless they handle offline synchronization well.",
+      "Ryuji": "We should prioritize options that fit within the recurring software allowance rather than capital expenditure.",
+      "Kenji": "We should avoid broad tools that require everyone to change their habits daily."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "Agreed, the daily loss is significant and needs a targeted fix.",
+      "May": "I worry about the hidden labor cost if we pick a tool that needs constant maintenance.",
+      "Shunichi": "The offline capability is a critical technical hurdle we must verify.",
+      "Ryuji": "The budget constraint is hard; we cannot assume new capital will be released.",
+      "Kenji": "The history shows that simple, single-purpose tools survive better than complex systems."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Over",
+      "May": "Over",
+      "Shunichi": "Over",
+      "Ryuji": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four candidate proposals are revealed. Participants evaluate each against the constraints identified in the previous round, such as budget limits, network reliability, and staffing capacity. They discuss the trade-offs between the scope of each proposal and the operational risks involved. The group debates which proposal best aligns with the available resources and historical success patterns before casting their votes.",
+   "votes": {
+    "Daisuke": "C",
+    "May": "C",
+    "Shunichi": "A",
+    "Ryuji": "C",
+    "Kenji": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Daisuke": "The central repository addresses the duplicate address issue directly and reduces daily copying time.",
+      "May": "It does not require new developers, which fits our current staffing reality.",
+      "Shunichi": "The mobile app is risky given the network coverage gaps I found at customer sites.",
+      "Ryuji": "The repository fits within the recurring software allowance, unlike the capital-heavy options.",
+      "Kenji": "It is a narrow tool for a specific problem, which matches the pattern of successful past rollouts."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Daisuke": "I agree, the repository solves the immediate operational pain without adding new daily burdens.",
+      "May": "I am concerned about the training studio, as it requires ongoing production effort we do not have.",
+      "Shunichi": "The workflow assistant might help, but it relies on task boards that are not consistently updated.",
+      "Ryuji": "The supplier hub is the only one that clearly fits the frozen capital budget constraint.",
+      "Kenji": "The history supports a focused tool over a broad platform that requires constant engagement."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Daisuke": "I will vote for the repository to fix the delivery errors.",
+      "May": "I will vote for the repository to avoid overloading the coordination group.",
+      "Shunichi": "I will vote for the mobile app, hoping the offline sync mitigates the network issues.",
+      "Ryuji": "I will vote for the repository due to the budget alignment.",
+      "Kenji": "I will vote for the repository based on the success of narrow tools."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Daisuke": "Over",
+      "May": "Over",
+      "Shunichi": "Over",
+      "Ryuji": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Ryuji": "Ryuji focuses on the financial source of the fund, arguing that the frozen capital line restricts options to those fitting within recurring software allowances. He remains cautious throughout, prioritizing budget compliance over feature richness.",
+  "Shunichi": "Shunichi emphasizes external dependencies, particularly network reliability and vendor access, which he sees as major risks. He is skeptical of solutions that rely on conditions outside the company's control, such as stable connectivity at customer sites.",
+  "Kenji": "Kenji looks to historical patterns, arguing that narrow, single-purpose tools have a higher survival rate than broad systems requiring daily user engagement. He uses past rollout outcomes to guide his evaluation of feasibility.",
+  "Daisuke": "Daisuke is concerned with daily operational losses, specifically time wasted on manual tasks and errors in logistics. He seeks a solution that directly reduces these recurring inefficiencies without adding new complexity.",
+  "May": "May focuses on human resources, highlighting the lack of available developers and the strain on the coordination group. She argues for solutions that do not require significant new staffing or ongoing maintenance from overworked teams."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "candidate_selection_0010",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:07:58+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793290078,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a66dcc88b3c0fd94",
+      "object": "model_permission",
+      "created": 1793290078,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

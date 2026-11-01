@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee discusses the logistical and financial risks of upcoming exhibitions. Participants express concerns about budget transparency, delivery reliability, visitor engagement, structural safety, and staffing capacity. Each member selects two specific data points to investigate to inform their decision-making.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "I am worried about where the budget actually goes, so I will check the loan transport costs and the mount-making charges.",
+      "Victoria": "Staffing is a major concern, so I will look into the conservation lab staffing and the volunteer roster composition.",
+      "Shion": "I want to know what actually drives repeat visits, so I will review the weekend head counts and the visitor comment slips.",
+      "Asuka": "The building's integrity is paramount, so I will examine the structural survey of the suspended bay and the maintenance log for powered displays.",
+      "Shizue": "I have seen too many delivery failures, so I will check the lender paperwork against shipping cut-offs and the evening hire bookings."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "It is important we understand the hidden costs before we commit to any proposal.",
+      "Victoria": "Agreed, we cannot plan a season if we do not know who is actually available to do the work.",
+      "Shion": "Data will tell us what the public truly values, not just what looks good on paper.",
+      "Asuka": "If the floor cannot hold the weight, no amount of curation matters.",
+      "Shizue": "Let us hope the paperwork this time is as smooth as the last, which it was not."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "I hope the numbers are not as bad as I fear.",
+      "Victoria": "The staffing report might be more alarming than the structural one.",
+      "Shion": "We shall see if the trends hold up under scrutiny.",
+      "Asuka": "I am particularly concerned about the load limits in the main gallery.",
+      "Shizue": "I will keep an eye on the delivery schedules closely."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Let us wait for the findings before we judge the proposals.",
+      "Victoria": "Yes, facts first, then decisions.",
+      "Shion": "Precisely. Logic over emotion.",
+      "Asuka": "The safety data is critical for my assessment.",
+      "Shizue": "I look forward to seeing where the bottlenecks are."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their individual findings from the investigation phase. Mio reveals that transport and installation costs are high. Victoria reports a severe staffing shortage and a volunteer base skewed towards history. Shion notes that dynamic displays and live presence drive higher attendance. Asuka discovers that the suspended bay has a low weight limit and powered displays require frequent maintenance. Shizue finds that paperwork delays have caused past openings to slip. The group discusses how these constraints affect the feasibility of different exhibition types.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "The transport and mount-making costs are nearly a third of the installation budget, which is a huge hidden drain.",
+      "Victoria": "The conservation lab is down to one person with a backlog of two hundred pieces, and most volunteers are history guides.",
+      "Shion": "Head counts rise in rooms with moving parts or live demonstrations, and comment slips mention 'someone being present' as the reason for return visits.",
+      "Asuka": "The suspended bay is capped at four hundred kilos per square metre, and we had seventeen maintenance call-outs for powered displays last season.",
+      "Shizue": "Two of the last four openings were delayed because lender paperwork arrived after the shipping cut-off."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "That cost figure is worrying; we need to be careful with loans that require heavy crating.",
+      "Victoria": "This confirms my fear. We cannot rely on the current staff to handle complex conservation or large-scale installations.",
+      "Shion": "This suggests that static displays are less effective. We need engagement, but we must balance it with the other constraints.",
+      "Asuka": "The weight limit is a hard stop for heavy objects. The maintenance log means we need to minimize powered elements.",
+      "Shizue": "The paperwork issue means we need to prioritize local or well-managed loans to avoid delays."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "So, expensive loans are risky both financially and logistically.",
+      "Victoria": "And we lack the hands to fix things if they break or need cleaning.",
+      "Shion": "We need a show that is engaging but not overly complex to maintain or staff.",
+      "Asuka": "Lightweight, non-powered, or easily maintained items are the only safe option for the main gallery.",
+      "Shizue": "Local items or those with simple logistics are the safest bet for delivery."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "I think we have a clear picture of the risks now.",
+      "Victoria": "The staffing gap is the biggest hurdle for any ambitious project.",
+      "Shion": "The data points to a specific type of exhibition that fits these constraints.",
+      "Asuka": "Structural safety rules out anything heavy or complex in the suspended area.",
+      "Shizue": "Let us hope the candidates align with these realities."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four candidate proposals are revealed to the committee. The group evaluates each option against the previously identified constraints: budget, staffing, structural limits, and delivery reliability. Mio focuses on the cost implications of each. Victoria assesses the workload required for each. Shion considers the potential for visitor engagement. Asuka checks the structural and maintenance requirements. Shizue looks at the logistics and delivery risks. The discussion leads to a vote where the committee selects the option that best balances these factors.",
+   "votes": {
+    "Mio": "A",
+    "Victoria": "A",
+    "Shion": "A",
+    "Asuka": "A",
+    "Shizue": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Option A seems to have the lowest transport and mount-making costs since it uses local items.",
+      "Victoria": "Option A requires demonstration sessions, which fits our volunteer history circle, but we need to check the staffing load.",
+      "Shion": "Option A offers live demonstrations, which aligns with the data on visitor engagement and repeat visits.",
+      "Asuka": "Option A involves garments and tools, which are lightweight and do not require powered displays or heavy rigging.",
+      "Shizue": "Option A uses local sources, which minimizes the risk of shipping delays and paperwork issues."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "Option B has high maintenance costs due to powered displays, which is a budget risk.",
+      "Victoria": "Option B requires significant technical staffing for the kinetic works, which we do not have.",
+      "Shion": "Option B is engaging, but the maintenance log suggests it will be a constant headache.",
+      "Asuka": "Option B requires overhead rigging and darkened zones, which may conflict with the structural survey and evening hire.",
+      "Shizue": "Option B relies on artist studios, which could introduce shipping and condition report delays."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Option C involves heavy ship models and loans, which will be expensive to transport and mount.",
+      "Victoria": "Option C requires conservation work on historical objects, which is impossible with our current lab backlog.",
+      "Shion": "Option C is static, which may not drive the repeat visits we need, though the models are interesting.",
+      "Asuka": "Option C's ship models are heavy and may exceed the suspended bay's weight limit.",
+      "Shizue": "Option C relies on partner maritime collections, which increases the risk of paperwork delays."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Option D involves reconstructions and a working conservation bench, which is costly and labor-intensive.",
+      "Victoria": "Option D requires a visible conservation bench, which is impossible with our one-person lab and backlog.",
+      "Shion": "Option D is engaging with the visible work, but the reconstructions are static and may not sustain interest.",
+      "Asuka": "Option D's reconstructions are heavy and the conservation bench requires space and safety measures we cannot guarantee.",
+      "Shizue": "Option D uses local finds, which is good for delivery, but the reconstructions are complex to install."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mio": "Mio is concerned about the hidden costs of exhibitions, particularly transport and installation. She argues for financial transparency and selects options that minimize these expenses. Her view shifts from general concern to specific rejection of high-cost options based on the data.",
+  "Shizue": "Shizue is worried about delivery failures and logistical delays. She argues for reliability and selects options that minimize shipping risks. Her view shifts from past experiences to specific rejection of options with complex logistics.",
+  "Shion": "Shion is focused on visitor engagement and repeat visits. He argues for data-driven decisions and selects options that align with visitor preferences. His view shifts from general curiosity to specific endorsement of options with high engagement potential.",
+  "Asuka": "Asuka is concerned about the structural integrity and maintenance of the gallery. She argues for safety and selects options that minimize structural and maintenance risks. Her view shifts from general caution to specific rejection of options that exceed safety limits.",
+  "Victoria": "Victoria is worried about staffing capacity and workload. She argues for realistic planning and selects options that fit the current staff capabilities. Her view shifts from general anxiety to specific rejection of options that require more staff than available."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0019",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:27:55+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793291275,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-80b9a882961e94d4",
+      "object": "model_permission",
+      "created": 1793291275,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

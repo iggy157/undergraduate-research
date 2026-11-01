@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group identifies the breakdown in their current informal habits and agrees to investigate specific data points to inform their decision. They discuss the need for objective metrics regarding time, cost, and usage patterns to replace guesswork. Each participant selects two items from the list to examine privately.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "We need to stop guessing and start measuring the actual time and effort involved.",
+      "Mio": "I feel like the workload isn't distributed fairly based on who is actually here.",
+      "Victoria": "I am worried about the underlying tension that builds up when things are left undone.",
+      "Rin": "I want to know exactly how much money is being spent and who is paying for it.",
+      "Daisuke": "I just want to know what state the rooms will be in when I walk in."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "I will look into the timing of a full cleaning pass and the previous tenants' note.",
+      "Mio": "I will check the absences on the calendar and the kitchen usage logs.",
+      "Victoria": "I will review the house chat history and the standard terms of outside help.",
+      "Rin": "I will look at the bathroom receipts and the management office rate sheet.",
+      "Daisuke": "I will check the bathroom grout condition and what each person counts as done."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "It is important to understand the baseline before we change anything.",
+      "Mio": "Agreed, data will help us see the imbalance clearly.",
+      "Victoria": "Understanding the history of conflict is crucial for long-term peace.",
+      "Rin": "Yes, and we need to be transparent about the costs.",
+      "Daisuke": "I hope this helps make the environment more predictable."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Let's reconvene once we have our findings.",
+      "Mio": "See you then.",
+      "Victoria": "I will be ready to discuss the implications.",
+      "Rin": "I can't wait to see the numbers.",
+      "Daisuke": "Okay."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their private findings, revealing discrepancies in time, cost, and usage. The discussion shifts to how these specific data points affect the feasibility of different approaches. Concerns about predictability and financial fairness are weighed against the desire for reduced interpersonal friction.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "The timing data shows a full pass takes over an hour, which is significant.",
+      "Mio": "The calendar shows two people are away most months, which skews the load.",
+      "Victoria": "The chat history shows conflicts start with reminders, not the cleaning itself.",
+      "Rin": "The receipts show we spend over 2,000 yen monthly on supplies, often duplicated.",
+      "Daisuke": "The grout gets dirty again in eleven days, so frequent deep cleaning is needed."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "If it takes that long, doing it all ourselves is a major time sink.",
+      "Mio": "So the people who are here are doing double the work of those who are away.",
+      "Victoria": "If we can remove the trigger for reminders, we might reduce the tension.",
+      "Rin": "We are wasting money on supplies because we don't coordinate purchases.",
+      "Daisuke": "Eleven days is too short to wait for a turn if we rely on a schedule."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "This suggests that outsourcing might be more efficient for the time-constrained.",
+      "Mio": "Or we need a system that accounts for absence, not just rotation.",
+      "Victoria": "A system that removes the need for nagging seems best for our dynamic.",
+      "Rin": "We need to factor in the cost of supplies versus the cost of labor.",
+      "Daisuke": "I need a guarantee that the room is clean when I arrive, regardless of who is there."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "Let's see what options are available based on this data.",
+      "Mio": "I am ready to look at the proposals.",
+      "Victoria": "I hope the options address the communication gap.",
+      "Rin": "I want to see the financial breakdown of each choice.",
+      "Daisuke": "I just want a reliable outcome."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three available options are presented to the group. The discussion focuses on the trade-offs between control, cost, and social harmony. Participants debate the implications of each structure on their daily lives and relationships. The group votes to select the arrangement that best balances these factors.",
+   "votes": {
+    "Rin": "C",
+    "Ryuji": "C",
+    "Daisuke": "B",
+    "Mio": "B",
+    "Victoria": "C"
+   },
+   "adopted": "C",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Ryuji": "Option C removes the time burden entirely, which is appealing given the hour-long duration.",
+      "Mio": "Option B allows us to adjust for absences, which addresses the fairness issue I raised.",
+      "Victoria": "Option C eliminates the need for reminders, which should reduce the friction I observed.",
+      "Rin": "Option C has a clear monthly cost, which is easier to track than variable supply costs.",
+      "Daisuke": "Option B provides a predictable schedule, which helps with my anxiety about the room's state."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Ryuji": "However, Option C requires someone to be home, which adds a coordination task.",
+      "Mio": "Option A seems too rigid and might lead to the same resentment if one person is always stuck with the worst area.",
+      "Victoria": "Option A risks the same isolation the previous tenants experienced, as noted in their letter.",
+      "Rin": "Option B might still lead to disputes over what 'done' means, as Daisuke pointed out.",
+      "Daisuke": "Option C ensures a professional standard, which is what I value most."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Ryuji": "The cost of Option C is higher, but it buys back significant time for everyone.",
+      "Mio": "I am leaning towards Option B because it feels more equitable for those who are present.",
+      "Victoria": "I am concerned that Option B might still leave room for subjective standards to cause conflict.",
+      "Rin": "I prefer the transparency of Option C's billing over the hidden costs of Option B's supplies.",
+      "Daisuke": "I think Option C is the safest bet for ensuring the bathroom is actually clean."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Ryuji": "I will vote for Option C.",
+      "Mio": "I will vote for Option B.",
+      "Victoria": "I will vote for Option C.",
+      "Rin": "I will vote for Option C.",
+      "Daisuke": "I will vote for Option B."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "Rin focuses on financial transparency and the hidden costs of supplies. She argues for a system with clear, trackable expenses and is drawn to options that simplify budgeting.",
+  "Ryuji": "Ryuji prioritizes time efficiency and the reduction of personal labor. He evaluates options based on how much time they save and the reliability of the outcome.",
+  "Daisuke": "Daisuke seeks predictability and a guaranteed standard of cleanliness to reduce his anxiety. He values systems that remove ambiguity about the state of the rooms.",
+  "Mio": "Mio is concerned with fairness and the equitable distribution of work, especially considering absences. She looks for solutions that account for who is actually present and using the space.",
+  "Victoria": "Victoria prioritizes social harmony and the reduction of interpersonal conflict. She evaluates options based on their potential to minimize friction and maintain good relationships among housemates."
+ },
+ "final": {
+  "adopted": "C"
+ },
+ "setup_id": "shared_living_0010",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:47:24+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793292444,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-adfc2929bb5a7239",
+      "object": "model_permission",
+      "created": 1793292444,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

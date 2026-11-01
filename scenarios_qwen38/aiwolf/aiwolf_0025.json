@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and listening to others' reasoning. No specific targets are identified, and the focus remains on building a collective strategy for the upcoming days.",
+   "votes": {},
+   "executed": null,
+   "divine": "Yumi",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Welcome, everyone. Let us begin by sharing our impressions of the group's dynamics.",
+      "Jonathan": "I agree. Observing how we interact will be key to identifying anomalies.",
+      "Yumi": "I feel positive energy from most of you, but I'll stay alert.",
+      "Victoria": "I will listen carefully to the logic presented by each person.",
+      "May": "Let's keep the conversation light and fun for now."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Indeed. Trust is built through consistent and transparent communication.",
+      "Jonathan": "I value quiet observation. I will note any inconsistencies in speech.",
+      "Yumi": "I'm here to help, so please feel free to ask me anything.",
+      "Victoria": "I prefer to analyze before speaking, so expect some silence from me.",
+      "May": "I'm all ears! Who wants to start with a fun fact?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Let us focus on the task at hand. We must be vigilant.",
+      "Jonathan": "Agreed. The night will reveal much, but day is for planning.",
+      "Yumi": "I'm ready to do my part. Let's stay united.",
+      "Victoria": "I will cross-reference statements to find contradictions.",
+      "May": "Sounds like a plan! I'll keep the mood up."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Let us rest now and prepare for the first day's discussion.",
+      "Jonathan": "Goodnight. I will reflect on what I have heard.",
+      "Yumi": "Goodnight, everyone. Hope for a peaceful night.",
+      "Victoria": "Goodnight. I will review my notes.",
+      "May": "Sweet dreams! See you in the morning."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the first night's events and begins to form suspicions based on the initial interactions. Players weigh the credibility of each other's statements and look for signs of deception. The conversation shifts from general introductions to specific observations about behavior and consistency.",
+   "votes": {
+    "May": "Yumi",
+    "Yumi": "May",
+    "Servas": "May",
+    "Jonathan": "Yumi",
+    "Victoria": "May"
+   },
+   "executed": "May",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "The night has passed. Let us discuss what we observed.",
+      "Jonathan": "I noticed some inconsistencies in the previous night's talk.",
+      "Yumi": "I felt a bit uneasy about one person's tone.",
+      "Victoria": "I have noted several points that require further investigation.",
+      "May": "I think we're overthinking this. Let's stay calm."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "Calmness is good, but we must be precise. Who seems off?",
+      "Jonathan": "I find the playful demeanor of one player suspicious.",
+      "Yumi": "I agree with Jonathan. The energy feels forced.",
+      "Victoria": "I concur. The lack of depth in their responses is concerning.",
+      "May": "I'm just being friendly! Why is everyone so serious?"
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Friendliness can be a mask. We must look deeper.",
+      "Jonathan": "I will vote for the player who seems least genuine.",
+      "Yumi": "I feel the same way. Let's protect the group.",
+      "Victoria": "I will follow the logical path. The evidence points to one person.",
+      "May": "This is getting ridiculous. I'm just trying to have fun."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Let us proceed to the vote. Trust your instincts.",
+      "Jonathan": "I will cast my vote for the most suspicious individual.",
+      "Yumi": "I hope we make the right choice. Let's vote.",
+      "Victoria": "I will vote based on my analysis. Let's decide.",
+      "May": "Fine. I'll vote for whoever seems the most paranoid."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "May": "May tries to deflect suspicion by appearing friendly and light-hearted. She argues that the group is being too paranoid and tries to shift the focus away from herself. Her view changes from playful to defensive as the suspicion grows.",
+  "Yumi": "Yumi is eager to help and protect the group. She follows the lead of those who seem more experienced and argues for unity and trust. Her view changes from optimistic to concerned as the discussion intensifies.",
+  "Servas": "Servas provides calm and wise advice, encouraging the group to look for consistency and depth in their interactions. He argues for a methodical approach and helps guide the discussion towards a logical conclusion. His view remains steady and focused on the group's safety.",
+  "Jonathan": "Jonathan is quiet and observant, noting inconsistencies in others' behavior. He argues for a careful and analytical approach, trusting his inner peace and intuition. His view changes from neutral to suspicious as he identifies potential threats.",
+  "Victoria": "Victoria is reserved and analytical, cross-referencing statements to find contradictions. She argues for a logical and evidence-based approach, keeping her emotions in check. Her view changes from cautious to decisive as she identifies the most likely threat."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0025",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:02:32+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793289752,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-90ac527117888f78",
+      "object": "model_permission",
+      "created": 1793289752,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish ground rules for the discussion. They discuss general strategies for identifying threats without sharing specific private information. The tone is cooperative as they aim to build trust.",
+   "votes": {},
+   "executed": null,
+   "divine": "Takumi",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Let's start by stating our names and general approach to the game.",
+      "Takumi": "I agree, clarity is key. I will be direct in my observations.",
+      "Mio": "Sounds fun! I'm ready to help find the troublemakers.",
+      "Shion": "I will observe carefully before making any judgments.",
+      "Minako": "We should focus on logical consistency in statements."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "What criteria should we use to evaluate suspicion?",
+      "Takumi": "Inconsistencies in stories are a good starting point.",
+      "Mio": "I think body language and tone matter too, right?",
+      "Shion": "Logic is more reliable than intuition in this setting.",
+      "Minako": "Agreed. We need to stick to verifiable facts."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Let's avoid jumping to conclusions too quickly.",
+      "Takumi": "I will listen to everyone's input before forming an opinion.",
+      "Mio": "I'm just excited to get started! Let's do this!",
+      "Shion": "Patience is a virtue. We have time to analyze.",
+      "Minako": "We will proceed step by step to ensure accuracy."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Thank you all. Let's end the day with a clear plan.",
+      "Takumi": "Ready for the next phase whenever you are.",
+      "Mio": "Goodnight everyone! Hope for a peaceful night.",
+      "Shion": "I will reflect on the discussions we had.",
+      "Minako": "Rest well. We will continue tomorrow."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the initial observations from the previous day. They weigh the reliability of different statements and look for patterns in behavior. The conversation focuses on who seems most aligned with the group's goals.",
+   "votes": {
+    "Asuka": "Mio",
+    "Takumi": "Mio",
+    "Mio": "Shion",
+    "Shion": "Mio",
+    "Minako": "Mio"
+   },
+   "executed": "Mio",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Let's review the statements from yesterday for consistency.",
+      "Takumi": "I noticed some vague answers from a few people.",
+      "Mio": "I was just being friendly, not hiding anything!",
+      "Shion": "Vagueness can be a sign of uncertainty or deception.",
+      "Minako": "We need to be careful not to misinterpret friendliness."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "Who do you think was the most evasive?",
+      "Takumi": "I feel like one person's story didn't quite add up.",
+      "Mio": "I'm confused, I thought I was clear enough.",
+      "Shion": "Let's look at the details again before deciding.",
+      "Minako": "It is important to consider all perspectives."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "I am leaning towards voting for the person who seemed least cooperative.",
+      "Takumi": "I agree, we need to remove the biggest threat.",
+      "Mio": "Please don't vote for me, I'm on your side!",
+      "Shion": "The evidence points to a specific individual.",
+      "Minako": "Let's follow the logical conclusion of our analysis."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Let's finalize our votes based on the discussion.",
+      "Takumi": "I am ready to cast my vote.",
+      "Mio": "I hope we make the right choice.",
+      "Shion": "The decision is clear to me.",
+      "Minako": "We will proceed with the vote now."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Mio": "Mio tries to appear friendly and cooperative to avoid suspicion. She deflects questions by emphasizing her enthusiasm and lack of hidden motives. Her view remains focused on survival and blending in.",
+  "Shion": "Shion observes the group dynamics and uses logical arguments to guide the discussion. He remains calm and detached, letting others make the first moves. His view is shaped by the consistency of others' statements.",
+  "Takumi": "Takumi is protective and eager to help the group succeed. He is direct in his observations and willing to challenge others if he perceives a threat. His view becomes more focused as the group shrinks.",
+  "Minako": "Minako takes a leadership role by encouraging calm and logical analysis. She tries to steer the conversation towards facts and away from emotional reactions. Her view is based on maintaining order and efficiency.",
+  "Asuka": "Asuka is logical and careful, focusing on the consistency of statements. She is reserved but assertive when making her points. Her view is driven by the need for clear evidence before making decisions."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0019",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:16:00+00:00",
+  "attempts": 4,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793294160,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8e366ef1b6fa7110",
+      "object": "model_permission",
+      "created": 1793294160,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

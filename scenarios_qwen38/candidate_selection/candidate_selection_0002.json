@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The partners discuss the structural risks of the upcoming investment, focusing on liquidity constraints, delivery bottlenecks, and reporting integrity. Each participant selects two specific areas to investigate to address their individual concerns about capital efficiency, operational delays, and data verification.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "I am concerned about how a new holding affects our quarter-end reporting and audit timelines.",
+      "Asuka": "I need to verify if our past success stories align with actual customer retention data.",
+      "Minako": "I want to understand the future capital requirements and borrowing capacity for this deal.",
+      "Mio": "I am worried about the time we spend sourcing talent for our portfolio companies.",
+      "Toshio": "I need to identify the specific external obstacles that have delayed previous projects."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "I will look into the appraisal needs at the last audit and independent checks on holdings' reported figures.",
+      "Asuka": "I will examine account retention through price rises and the profile of the exits and the write-off.",
+      "Minako": "I will review reserve accounts and follow-on calls and the terms of last winter's credit line.",
+      "Mio": "I will check retained recruiters' placement times and the adviser bench and partner board seats.",
+      "Toshio": "I will investigate security review time before first deployment and delivery records of two holdings."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Agreed, these areas cover the reporting and verification gaps I am worried about.",
+      "Asuka": "These checks will help distinguish between real value and narrative drift.",
+      "Minako": "This will clarify our financial flexibility for the next few years.",
+      "Mio": "This should reveal where our time is actually being consumed.",
+      "Toshio": "This will show us the true nature of the delays we face."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "Let us proceed with these investigations.",
+      "Asuka": "I will report back with the findings.",
+      "Minako": "I will analyze the financial implications.",
+      "Mio": "I will assess the talent pipeline.",
+      "Toshio": "I will map the operational risks."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their private findings, revealing that hardware-heavy or physical-goods models face significant audit and delivery hurdles, while software models offer easier verification but less tangible security. The discussion shifts to weighing the trade-offs between operational complexity and financial transparency, with each partner interpreting the data through their specific lens of risk.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "The audit data shows that physical assets add six weeks and significant fees to our reporting cycle.",
+      "Asuka": "Retention data indicates that tools for independent practices and field instruments held customers well, unlike shopkeeper tools.",
+      "Minako": "Our credit line treats subscription contracts as worthless, which limits our borrowing power for software-heavy deals.",
+      "Mio": "Recruiters cannot place field crews quickly, but software roles are filled within weeks.",
+      "Toshio": "Security reviews for medical or financial data take three quarters, while other deals take one."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "This confirms my fear that physical holdings will slow down our quarter-end close significantly.",
+      "Asuka": "The retention numbers suggest that the narrative of our past wins was partially misleading regarding which models stick.",
+      "Minako": "If the deal relies on subscriptions, we cannot use them as collateral, which is a major liquidity risk.",
+      "Mio": "The talent bottleneck is real for physical operations, but manageable for pure software teams.",
+      "Toshio": "The delay risk is highest for deals involving sensitive data or physical hardware supply chains."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "We must prioritize deals that do not require outside appraisals to keep our reporting clean.",
+      "Asuka": "We should favor models with verifiable field data or high retention in niche professional sectors.",
+      "Minako": "We need a deal structure that allows us to borrow against tangible assets or has low follow-on call risk.",
+      "Mio": "We should avoid deals that require us to source hard-to-find physical labor.",
+      "Toshio": "We should avoid deals with long security review periods or supply chain dependencies."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "The reporting burden is a critical factor I cannot ignore.",
+      "Asuka": "The retention data is the strongest indicator of long-term value here.",
+      "Minako": "The credit line terms are a hard constraint on our financial strategy.",
+      "Mio": "The talent availability is a practical limit on our operational support.",
+      "Toshio": "The delivery records show that software inside existing cycles is the most reliable."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four candidates are revealed, and the partners map their private findings onto the specific business models presented. The discussion focuses on which candidate best aligns with the criteria of low reporting friction, high retention, manageable talent needs, and minimal external delivery risks. Each partner weighs the pros and cons of the software versus hardware/physical models based on the data they gathered.",
+   "votes": {
+    "Servas": "D",
+    "Asuka": "A",
+    "Minako": "D",
+    "Mio": "D",
+    "Toshio": "D"
+   },
+   "adopted": "D",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Servas": "Candidate D is pure software, so it avoids the appraisal fees and audit delays I flagged.",
+      "Asuka": "Candidate A serves independent practices, which showed high retention in my data, but D also has strong B2B stickiness.",
+      "Minako": "Candidate D's subscription model is a problem for my credit line analysis, but the low follow-on risk is appealing.",
+      "Mio": "Candidate D requires software talent, which my recruiter data says is easy to find, unlike the field crews for B or C.",
+      "Toshio": "Candidate D runs inside existing bank cycles, which my delivery records show never missed a release."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Servas": "I am leaning towards D because it keeps our quarter-end close simple and verifiable.",
+      "Asuka": "I am torn between A and D, but D's reconciliation nature feels more robust than A's scheduling.",
+      "Minako": "I am concerned about D's lack of tangible collateral, but the low operational risk is a plus.",
+      "Mio": "I am strongly in favor of D because it minimizes the time I spend on talent sourcing.",
+      "Toshio": "I am confident in D because it avoids the security review delays and supply chain issues of the others."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Servas": "Does anyone see a risk in D that I am missing regarding the reporting?",
+      "Asuka": "The retention data for D's type of tool is strong, so I am comfortable with it.",
+      "Minako": "The credit line issue is real, but we can manage it with the reserve accounts if we are careful.",
+      "Mio": "The talent aspect is the biggest win for D, as it is the only one that doesn't need physical labor.",
+      "Toshio": "The delivery reliability of D is the key factor for me, as it has no external dependencies."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Servas": "I will vote for D.",
+      "Asuka": "I will vote for A, as the retention data is slightly stronger for that specific niche.",
+      "Minako": "I will vote for D, as the overall risk profile is better despite the collateral issue.",
+      "Mio": "I will vote for D, as it is the most operationally manageable for our team.",
+      "Toshio": "I will vote for D, as it is the most reliable in terms of delivery and security."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Minako": "Minako focuses on the fund's liquidity and future capital needs. She argues that the deal must not strain the credit line or require excessive follow-on calls. Her view shifts from general concern to a specific preference for a model with low operational risk, even if it has weaker collateral, because the overall financial stability is paramount.",
+  "Toshio": "Toshio is concerned with delivery reliability and external obstacles. He argues that the deal must avoid supply chain issues and long security reviews. His view becomes increasingly focused on the candidate that operates within existing, reliable cycles, as this minimizes the risk of delays that are outside the team's control.",
+  "Asuka": "Asuka is focused on the accuracy of the fund's success narratives and actual customer retention. She argues that the deal must have verifiable, high-retention customers. Her view shifts from skepticism about past data to a preference for a model with strong retention in a professional niche, though she remains cautious about the narrative drift.",
+  "Servas": "Servas is concerned with the integrity and speed of the fund's reporting and audit processes. He argues that the deal must not add significant complexity to the quarter-end close. His view becomes strongly aligned with a pure software model that avoids physical assets, as this eliminates the need for outside appraisals and keeps the reporting clean.",
+  "Mio": "Mio is worried about the time and effort required to source talent for portfolio companies. She argues that the deal must not require hard-to-find physical labor. Her view shifts from general frustration to a strong preference for a software-only model, as this allows her to use recruiters who can fill roles quickly, reducing her operational burden."
+ },
+ "final": {
+  "adopted": "D"
+ },
+ "setup_id": "candidate_selection_0002",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T18:23:50+00:00",
+  "attempts": 3,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793298230,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a098352d0de4b6c4",
+      "object": "model_permission",
+      "created": 1793298230,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish ground rules for the discussion. The group discusses the importance of observing behavior patterns and logical consistency in statements. There is a general agreement to remain calm and avoid jumping to conclusions without evidence.",
+   "votes": {},
+   "executed": null,
+   "divine": "Shion",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "Let's start by establishing how we will communicate and what evidence we consider valid.",
+      "May": "I agree, clarity is key. I suggest we focus on logical consistency in our arguments.",
+      "Rin": "I'm excited to start! I think we should all be open to new ideas and not be afraid to ask questions.",
+      "Minako": "I will listen carefully to everyone's points before forming an opinion.",
+      "Shion": "I will observe the dynamics and speak when I have a clear perspective."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "It is important to note that silence can be as telling as speech.",
+      "May": "True, but we must also be careful not to over-interpret silence.",
+      "Rin": "I think we should encourage everyone to share their thoughts, even if they are unsure.",
+      "Minako": "I will ensure that the discussion remains focused on the facts presented.",
+      "Shion": "I will contribute when I have a substantive point to make."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Let's keep the tone respectful and constructive.",
+      "May": "Absolutely, a positive atmosphere helps us work together.",
+      "Rin": "I will try to keep the energy up and make sure everyone feels included.",
+      "Minako": "I will mediate if the discussion becomes heated.",
+      "Shion": "I will remain neutral and objective in my observations."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Thank you all for your cooperation so far.",
+      "May": "It has been a productive start.",
+      "Rin": "I'm looking forward to the next steps!",
+      "Minako": "We are on the right track.",
+      "Shion": "I will continue to monitor the situation."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the initial statements from the previous day, looking for inconsistencies or unusual behavior. Some participants express suspicion towards those who were overly quiet or evasive, while others defend their own transparency. The discussion shifts to identifying who might be hiding information, with a focus on logical deduction rather than personal attacks.",
+   "votes": {
+    "Asuka": "May",
+    "May": "Rin",
+    "Rin": "May",
+    "Minako": "May",
+    "Shion": "May"
+   },
+   "executed": "May",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Asuka": "I noticed that some participants were very brief in their responses yesterday.",
+      "May": "I was just being concise. I don't see why that would be suspicious.",
+      "Rin": "I think we should look at the overall pattern of behavior, not just individual statements.",
+      "Minako": "I agree with Rin. We need to consider the context of each statement.",
+      "Shion": "I will point out any inconsistencies I observe."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Asuka": "It seems that the person who was most evasive is the one we should focus on.",
+      "May": "I am not evasive. I am simply being careful with my words.",
+      "Rin": "I think we should trust the person who is most open and transparent.",
+      "Minako": "I will evaluate the credibility of each participant based on their consistency.",
+      "Shion": "I will provide my observations on the logical flow of the discussion."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Asuka": "Based on my analysis, I believe the person who is most likely to be hiding something is the one who is most defensive.",
+      "May": "I am not defensive. I am just trying to protect myself from false accusations.",
+      "Rin": "I think we should vote for the person who is most likely to be hiding something.",
+      "Minako": "I will vote for the person who is most inconsistent in their statements.",
+      "Shion": "I will vote for the person who is most likely to be hiding something."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Asuka": "Let's proceed with the vote.",
+      "May": "I hope we make the right decision.",
+      "Rin": "I'm ready to vote.",
+      "Minako": "I will vote based on my analysis.",
+      "Shion": "I will vote based on my observations."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "Rin is eager to participate and wants to ensure that everyone feels included in the discussion. She argues for a collaborative approach and is open to new ideas. Her view changes as she observes the behavior of others and becomes more cautious about who to trust.",
+  "Shion": "Shion is calm and calculating, and he wants to be seen as the one who is in control of the situation. He argues from a logical perspective and is careful with his words. His view changes as he observes the behavior of others and becomes more confident in his deductions.",
+  "Minako": "Minako is calm and composed, and she wants to ensure that the discussion remains focused on the facts. She argues from a leadership perspective and is careful with her words. Her view changes as she observes the behavior of others and becomes more confident in her judgments.",
+  "May": "May is confident and sociable, and she wants to be seen as the one who is in control of the situation. She argues from a playful perspective and is careful with her words. Her view changes as she observes the behavior of others and becomes more defensive about her own actions.",
+  "Asuka": "Asuka is calm and logical, and she wants to ensure that the discussion remains focused on the facts. She argues from a logical perspective and is careful with her words. Her view changes as she observes the behavior of others and becomes more confident in her deductions."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0007",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:17:02+00:00",
+  "attempts": 2,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793290622,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-92ae45b1dfc547cf",
+      "object": "model_permission",
+      "created": 1793290622,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

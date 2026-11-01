@@ -1,0 +1,190 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and listening to each other's reasoning. No specific targets are named, and the focus remains on building a cooperative atmosphere.",
+   "votes": {},
+   "executed": null,
+   "divine": "Mizuki",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Let's start by sharing our initial impressions of the group dynamics.",
+      "Sakura": "I'm excited to see how we all interact; I'll be watching closely!",
+      "Toshio": "Observation is key. I will remain quiet and listen for now.",
+      "Jonathan": "I agree. Calm discussion will help us find the truth.",
+      "Kenji": "I'm ready to help! Let's figure this out together."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "We should look for inconsistencies in stories as the day progresses.",
+      "Sakura": "Good idea! I'll try to spot any weird behavior.",
+      "Toshio": "Agreed. Logic will guide us.",
+      "Jonathan": "I will contribute when I have something meaningful to add.",
+      "Kenji": "I'll keep an eye on everyone's reactions."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "Let's keep the conversation open and respectful.",
+      "Sakura": "Definitely! No jumping to conclusions yet.",
+      "Toshio": "Understood.",
+      "Jonathan": "I appreciate the calm approach.",
+      "Kenji": "Same here. Let's stay positive."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "Over",
+      "Sakura": "Over",
+      "Toshio": "Over",
+      "Jonathan": "Over",
+      "Kenji": "Over"
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group analyzes the first night's events, focusing on who seemed most evasive during the previous day's talk. A debate arises about whether to trust the quiet members or the active ones. The discussion shifts to identifying potential threats based on lack of contribution versus suspicious activity. The vote is cast based on these behavioral observations.",
+   "votes": {
+    "Sakura": "Kenji",
+    "Jonathan": "Kenji",
+    "Mizuki": "Kenji",
+    "Toshio": "Kenji",
+    "Kenji": "Sakura"
+   },
+   "executed": "Kenji",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mizuki": "Who felt the most out of place yesterday? I noticed some hesitation.",
+      "Sakura": "I think the quiet ones are hiding something, but I'm not sure who.",
+      "Toshio": "Hesitation is common. We need more data.",
+      "Jonathan": "I agree with Toshio. Let's not rush.",
+      "Kenji": "I was just thinking! Why are you all so serious?"
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mizuki": "Kenji, your sudden defensiveness is concerning.",
+      "Sakura": "Oh, I didn't mean to scare you! I'm just curious.",
+      "Toshio": "Defensiveness can be a sign of guilt.",
+      "Jonathan": "It could also be nervousness. We must be fair.",
+      "Kenji": "I'm not guilty of anything! I'm just a kid."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mizuki": "The lack of specific alibis from Kenji is a red flag.",
+      "Sakura": "I don't have an alibi either, but I'm friendly!",
+      "Toshio": "Friendliness doesn't equal innocence.",
+      "Jonathan": "We should vote for the one with the least evidence of humanity.",
+      "Kenji": "This is unfair! I'm telling the truth!"
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mizuki": "I will vote for Kenji based on his behavior.",
+      "Sakura": "I'll follow the group's lead, but I'm leaning that way too.",
+      "Toshio": "I concur. The evidence points to him.",
+      "Jonathan": "I will cast my vote accordingly.",
+      "Kenji": "I vote for Sakura, she's too suspicious!"
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Sakura": "Sakura is eager to participate and uses her charm to deflect suspicion. She tries to appear friendly and innocent while subtly steering the conversation away from herself. Her view shifts from curiosity to defensive alignment with the majority to avoid being targeted.",
+  "Jonathan": "Jonathan remains calm and analytical, preferring to observe before acting. He values logical consistency and avoids emotional outbursts. His view is shaped by the lack of concrete evidence, leading him to follow the most logical path suggested by the group.",
+  "Mizuki": "Mizuki takes a leadership role, actively probing for inconsistencies and guiding the discussion. She is confident in her observations and pushes for a decisive action. Her view is firm, focusing on behavioral cues to identify the threat.",
+  "Toshio": "Toshio is reserved and cautious, offering brief but insightful comments. He trusts his own assessment of the situation and aligns with the most logical conclusion. His view is steady, relying on cold logic rather than emotion.",
+  "Kenji": "Kenji is defensive and tries to appear innocent by emphasizing his youth and friendliness. He becomes increasingly agitated as suspicion grows. His view is one of panic, trying to shift blame to others to save himself."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0002",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:28:53+00:00",
+  "attempts": 4,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793291333,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-af1b31a6cfed8ec2",
+      "object": "model_permission",
+      "created": 1793291333,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

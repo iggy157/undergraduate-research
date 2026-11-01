@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The group acknowledges that the current division method is outdated and causes friction. Participants express general concerns about fairness, administrative burden, and the impact on household harmony without proposing specific solutions. The discussion focuses on identifying what data is needed to make an informed decision, leading to the selection of items to investigate.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "I worry about how the current setup affects our comfort and mood in the house.",
+      "Ryuji": "I need to understand the financial volatility before agreeing to any new structure.",
+      "Rin": "Who is actually doing the math every month? It seems like a hidden burden.",
+      "Shunichi": "We need to verify if the current split is actually fair given different usage patterns.",
+      "Misaki": "The tension around money is affecting our relationships; we need to address this directly."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "I want to know how the physical layout affects our heating needs.",
+      "Ryuji": "I should look at the long-term cost trends to see if the current method is sustainable.",
+      "Rin": "I want to see how much time the current process takes compared to other methods.",
+      "Shunichi": "I need to check the actual usage data to see if some people are paying for others.",
+      "Misaki": "I want to review the history of disputes to understand the social cost."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "I will look into the sunlight and heating needs by room.",
+      "Ryuji": "I will examine the last twelve utility statements.",
+      "Rin": "I will observe the monthly settle at another house.",
+      "Shunichi": "I will check the plug-in monitor readings room by room.",
+      "Misaki": "I will review the payment log for the last twelve months."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Agreed, let's gather this data first.",
+      "Ryuji": "That seems reasonable. I will also look at the electrician's quote.",
+      "Rin": "I will also look at the trial run of a reconciliation template.",
+      "Shunichi": "I will also look at the settling up when the last rooms filled.",
+      "Misaki": "I will also look at the kitchen notice about the cooler."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings from the investigation. The data reveals significant discrepancies in usage, high administrative costs for manual tracking, and the financial instability of the current method. The conversation shifts to weighing the trade-offs between upfront costs, ongoing effort, and fairness, with no single solution emerging as clearly superior yet.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "My data shows two rooms need heat much earlier, which explains the discomfort.",
+      "Ryuji": "The bills vary wildly month to month, making budgeting difficult.",
+      "Rin": "The manual process takes hours and causes stress for the person managing it.",
+      "Shunichi": "Usage varies by a factor of four between rooms, so equal splits are unfair.",
+      "Misaki": "Late payments and disputes have created lasting resentment."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "This confirms that the physical environment is a major factor.",
+      "Ryuji": "The volatility suggests we need a way to smooth out the costs.",
+      "Rin": "We need a system that minimizes the time spent on administration.",
+      "Shunichi": "The data supports the idea that usage-based accounting is more accurate.",
+      "Misaki": "We need a method that reduces the frequency of interpersonal conflict."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "I am concerned about the comfort aspect of any new system.",
+      "Ryuji": "I am worried about the upfront costs of changing the infrastructure.",
+      "Rin": "I am worried about the ongoing time commitment for anyone.",
+      "Shunichi": "I am focused on ensuring the split reflects actual usage.",
+      "Misaki": "I am focused on preserving the social dynamic of the house."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "Let's wait for the options to be presented.",
+      "Ryuji": "Agreed, we have enough context now.",
+      "Rin": "Yes, let's see what is possible.",
+      "Shunichi": "Proceed to the next step.",
+      "Misaki": "I am ready to consider the proposals."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three proposed options are presented to the group. Participants discuss the pros and cons of each, focusing on cost, effort, and fairness. The debate centers on whether to prioritize stability, accuracy, or simplicity. After deliberation, each participant casts a vote based on their primary concerns.",
+   "votes": {
+    "Mio": "A",
+    "Ryuji": "A",
+    "Rin": "B",
+    "Shunichi": "B",
+    "Misaki": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Mio": "Option A seems to address the comfort issue by smoothing out costs.",
+      "Ryuji": "Option A provides the financial predictability I need.",
+      "Rin": "Option B seems to reduce the administrative burden significantly.",
+      "Shunichi": "Option B is the most accurate reflection of usage.",
+      "Misaki": "Option A might reduce the frequency of disputes."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Mio": "I am leaning towards A because it feels more stable.",
+      "Ryuji": "I am also leaning towards A due to the lower upfront cost.",
+      "Rin": "I prefer B because it is fairer and less work for me.",
+      "Shunichi": "I prefer B because it is objectively fair.",
+      "Misaki": "I am torn, but A seems less likely to cause conflict."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Mio": "Does A really solve the heating issue?",
+      "Ryuji": "It solves the budgeting issue, which is my main concern.",
+      "Rin": "B is better for the long term, but A is easier to start.",
+      "Shunichi": "B is the right choice for fairness.",
+      "Misaki": "I think A is safer for our relationships."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Mio": "I vote for A.",
+      "Ryuji": "I vote for A.",
+      "Rin": "I vote for B.",
+      "Shunichi": "I vote for B.",
+      "Misaki": "I vote for A."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Ryuji": "Ryuji is cautious and focused on financial stability. He argues for predictability and low upfront costs. His view remains consistent, prioritizing the ability to budget effectively over granular fairness.",
+  "Rin": "Rin is energetic and concerned with the administrative burden. She argues for a system that minimizes time spent on tracking and disputes. Her view shifts towards the option that offers the most efficiency and fairness in effort.",
+  "Mio": "Mio is cheerful but sensitive to the living environment. She argues for a system that ensures comfort and reduces anxiety about costs. Her view is driven by the desire for a harmonious and predictable home atmosphere.",
+  "Shunichi": "Shunichi is confident and analytical. He argues for a system that accurately reflects individual usage. His view is driven by a desire for objective fairness and a dislike of perceived inequity.",
+  "Misaki": "Misaki is calm and concerned with social harmony. She argues for a system that minimizes interpersonal conflict. Her view is driven by the desire to preserve the relationships within the household."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0025",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:14:38+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793294078,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b56953b8028897e6",
+      "object": "model_permission",
+      "created": 1793294078,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

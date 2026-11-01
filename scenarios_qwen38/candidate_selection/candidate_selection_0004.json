@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The panel introduces their individual concerns regarding long-term maintenance, construction feasibility, historical durability, site usage patterns, and staffing levels. Participants select two specific data points from the available list to investigate, focusing on financial ledgers, construction records, and operational logs.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "I am worried about the ground conditions and the limited number of firms willing to bid here.",
+      "Benjamin": "I need to understand how the current ground and pedestrian flows will interact with any new design.",
+      "Minato": "I am trying to figure out who will actually be responsible for the daily upkeep of this place.",
+      "Minako": "I want to look at the condition of previous projects to see what has actually lasted.",
+      "Jonathan": "I am concerned about the long-term financial burden on the city after the initial costs are paid."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "I will look into the regional firms tendering and the depot phasing notes.",
+      "Benjamin": "I will check the timed counts of weekday crossings and the drainage callouts.",
+      "Minato": "I will review the groundskeeping roll and the volunteer groups working with the division.",
+      "Minako": "I will examine the condition of works from the earlier programme and the record of the eastern avenue planting.",
+      "Jonathan": "I will look at the terms of the regional habitat fund and the upkeep ledger spend per hectare."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "It is important to know if the site can be worked on without closing it completely.",
+      "Benjamin": "If the design fights the natural flow of people, it will fail quickly.",
+      "Minato": "If the staff numbers are too low, the place will fall into disrepair.",
+      "Minako": "Drawings are nice, but I want to see what the last decade of schemes looks like now.",
+      "Jonathan": "Affordability on day one is not the same as affordability in three years."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "Let us see what the data says before we make any promises.",
+      "Benjamin": "Agreed, the physical reality of the site is the primary constraint.",
+      "Minato": "I hope the volunteer groups can help fill the gaps in staffing.",
+      "Minako": "We will judge by evidence, not by aesthetics.",
+      "Jonathan": "The financial terms of the funding will dictate what is actually buildable."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Participants share their findings from the investigation. The discussion reveals that the funding is restricted to planting and water, not hard surfaces, and that maintenance costs for planted areas are significantly higher. Construction risks are highlighted due to clay subsoil, and staffing shortages are confirmed, though volunteer groups are active. The group begins to weigh the trade-offs between capital costs and long-term operational burdens.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "Only two firms are bidding, and they flagged clay subsoil risks, but the south can be hoarded off in stages.",
+      "Benjamin": "Most people cross on firm ground, and drainage callouts have doubled since the culvert was capped.",
+      "Minato": "The groundskeeping roll has dropped to seven, but two volunteer groups are active on weekends.",
+      "Minako": "The upstream basin is fine, but the civic hall apron has been patched three times, and half the avenue trees died.",
+      "Jonathan": "The habitat fund only pays for planting and water, and upkeep for planted ground is triple that of hard surfaces."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "The clay risk is manageable if we stick to shallow work, but the phasing is tight.",
+      "Benjamin": "The drainage issue is serious; any plan must address the heat and water retention.",
+      "Minato": "The volunteer groups are a good start, but they cannot replace the lost professional staff.",
+      "Minako": "The failure of the avenue planting shows that aftercare is critical and often overlooked.",
+      "Jonathan": "This means we cannot afford a plan that requires heavy ongoing maintenance for hard surfaces."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "We need a plan that works with the existing ground conditions rather than fighting them.",
+      "Benjamin": "The pedestrian flow suggests we need clear, firm paths, but the drainage needs natural solutions.",
+      "Minato": "We need to rely on the volunteers for the softer, less technical tasks.",
+      "Minako": "We must avoid repeating the mistake of ignoring the long-term care of the planting.",
+      "Jonathan": "The financial constraint pushes us toward solutions that are self-sustaining or low-maintenance."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "The construction feasibility is the biggest hurdle right now.",
+      "Benjamin": "The site's behavior is the ultimate test for any design.",
+      "Minato": "I am worried about the gap between the volunteer capacity and the actual need.",
+      "Minako": "Durability is the key metric we should be using.",
+      "Jonathan": "The budget will only cover the initial setup, not the long-term upkeep of complex systems."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The four candidate plans are revealed. The panel debates how each plan aligns with the funding restrictions, maintenance capabilities, and site conditions. The discussion focuses on the trade-offs between the capital costs and the long-term operational burdens, with particular attention to the suitability of each plan for the current staffing levels and the specific constraints of the habitat fund.",
+   "votes": {
+    "Jonathan": "A",
+    "Kenji": "A",
+    "Minako": "A",
+    "Benjamin": "A",
+    "Minato": "A"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Kenji": "The first plan fits the funding terms perfectly, as it focuses on water and planting.",
+      "Benjamin": "The first plan addresses the drainage issues directly, which is a major concern.",
+      "Minato": "The volunteer groups are already doing habitat tasks, so this plan aligns with their skills.",
+      "Minako": "The first plan avoids the hard surfaces that have failed in the past.",
+      "Jonathan": "The first plan is the only one that fits within the restricted funding envelope."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Kenji": "The construction risks are lower for the first plan because it involves less earth-moving.",
+      "Benjamin": "The boardwalks provide the firm ground people need, while the reed beds handle the water.",
+      "Minato": "The casual pool can handle the basic stewarding, and the volunteers can do the habitat work.",
+      "Minako": "This plan is more likely to last than the previous schemes that relied on hard surfaces.",
+      "Jonathan": "The long-term maintenance costs are lower for the first plan compared to the others."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Kenji": "I am comfortable with the first plan given the construction constraints.",
+      "Benjamin": "The first plan respects the site's natural behavior and the pedestrian flows.",
+      "Minato": "I feel confident that the first plan can be maintained with the current resources.",
+      "Minako": "The first plan is the most durable option based on the evidence.",
+      "Jonathan": "The first plan is the most financially sustainable option for the city."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Kenji": "I vote for the first plan.",
+      "Benjamin": "I vote for the first plan.",
+      "Minato": "I vote for the first plan.",
+      "Minako": "I vote for the first plan.",
+      "Jonathan": "I vote for the first plan."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Jonathan": "Jonathan focuses on the long-term financial sustainability of the project, arguing that the initial affordability is misleading if the maintenance costs are high. He uses the funding terms and upkeep ledgers to argue for a plan that minimizes ongoing financial burden.",
+  "Kenji": "Kenji is concerned about the construction feasibility and the risks associated with the site's ground conditions. He uses the tendering data and phasing notes to argue for a plan that is practical to build and can be phased without closing the park.",
+  "Minako": "Minako prioritizes the durability and long-term condition of the works, using the record of previous projects to argue against plans that have a history of failing. She is skeptical of plans that rely on hard surfaces or complex maintenance.",
+  "Benjamin": "Benjamin focuses on the interaction between the design and the site's physical and social behavior, using the pedestrian counts and drainage data to argue for a plan that works with the existing flows and conditions.",
+  "Minato": "Minato is concerned about the operational capacity to maintain the park, using the staffing data and volunteer group information to argue for a plan that can be managed with the available resources."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "candidate_selection_0004",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:06:42+00:00",
+  "attempts": 3,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793290002,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-8b486e2fab1e2d4a",
+      "object": "model_permission",
+      "created": 1793290002,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

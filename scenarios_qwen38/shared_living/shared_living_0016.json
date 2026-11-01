@@ -1,0 +1,228 @@
+{
+ "periods": [
+  {
+   "period": 1,
+   "public": "The committee opens by acknowledging that the current fee structure is outdated and needs revision. Participants express general concerns about financial transparency, the administrative burden on the treasurer, and the perceived fairness of the current system. The group agrees to investigate specific records to inform their decision, with each member selecting two areas of interest to review.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "I am worried about the time commitment for the next treasurer.",
+      "Ryuji": "We need to know exactly what our fixed costs are before setting any numbers.",
+      "Minako": "We must ensure the new structure feels fair to everyone, including new members.",
+      "May": "I have noticed people hesitating to commit to events lately.",
+      "Shunichi": "It seems a few people are doing all the work while others pay the same."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "I will look into the treasurer's logged hours and the bank statements.",
+      "Ryuji": "I will check the ledger of outgoings and the sign-up records for mid-year joiners.",
+      "Minako": "I will review the taster evening forms and the minute books from previous years.",
+      "May": "I will look at the weekday turnout and the sign-in sheet tallies.",
+      "Shunichi": "I will examine the rota against attendance and the winter social feedback."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "It is important to understand the workload before we decide.",
+      "Ryuji": "Agreed, data will help us avoid guesswork.",
+      "Minako": "Let us see what the records say before we argue further.",
+      "May": "I hope the data shows why people are hesitant.",
+      "Shunichi": "Let us get to the facts."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "I will report back on my findings.",
+      "Ryuji": "I will share what I found in the ledger.",
+      "Minako": "I will bring the historical context.",
+      "May": "I will present the attendance trends.",
+      "Shunichi": "I will show the distribution of effort."
+     }
+    }
+   ]
+  },
+  {
+   "period": 2,
+   "public": "Each participant shares their specific findings from the records they reviewed. The discussion focuses on the implications of these data points, such as the high proportion of fixed costs, the administrative time required for different collection methods, and the disparity in member participation. The group debates how these factors should influence the new structure, weighing administrative efficiency against member engagement and perceived equity.",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "The treasurer spent six hours a month chasing individual payments, versus one hour for yearly collections.",
+      "Ryuji": "Seventy percent of our costs are fixed, regardless of attendance.",
+      "Minako": "Nine non-joiners said they would not commit to a whole year at once.",
+      "May": "Turnout dropped by a third when a door charge was introduced last summer.",
+      "Shunichi": "A quarter of members account for two-thirds of all attendances."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "This suggests a simpler collection method is necessary to reduce burden.",
+      "Ryuji": "If costs are fixed, spreading them evenly might be the most logical approach.",
+      "Minako": "But if people feel the cost is too high for their usage, they may leave.",
+      "May": "The drop in turnout shows that per-event costs can discourage participation.",
+      "Shunichi": "The heavy users are carrying the load, which is unsustainable."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "We need a method that is easy to administer.",
+      "Ryuji": "And one that is financially predictable for the club.",
+      "Minako": "It also needs to be welcoming to newcomers.",
+      "May": "It should encourage regular attendance rather than deterring it.",
+      "Shunichi": "It should reflect the actual value people get from the club."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "I am concerned about the administrative overhead of complex systems.",
+      "Ryuji": "I am concerned about the financial stability of the club.",
+      "Minako": "I am concerned about the social cohesion of the group.",
+      "May": "I am concerned about the decline in engagement.",
+      "Shunichi": "I am concerned about the fairness of the current distribution."
+     }
+    }
+   ]
+  },
+  {
+   "period": 3,
+   "public": "The three proposed fee structures are presented to the committee. The participants discuss the pros and cons of each option in light of the data they have gathered. They consider how each structure addresses the issues of administrative burden, financial predictability, member engagement, and perceived fairness. The discussion leads to a vote, where each participant selects the option they believe best balances these competing concerns.",
+   "votes": {
+    "Minato": "A",
+    "Ryuji": "A",
+    "Minako": "B",
+    "May": "B",
+    "Shunichi": "C"
+   },
+   "adopted": "A",
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Minato": "Option A seems the simplest to administer, which addresses the treasurer's burden.",
+      "Ryuji": "Option A provides the financial stability we need given our fixed costs.",
+      "Minako": "Option B might be more flexible for those who join mid-year.",
+      "May": "Option B could encourage people to only pay for what they use, reducing hesitation.",
+      "Shunichi": "Option C might allow heavy users to pay more, which feels fairer."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Minato": "But Option B requires tracking individual payments, which we know is time-consuming.",
+      "Ryuji": "Option B also makes revenue unpredictable, which is risky for fixed costs.",
+      "Minako": "Option C could create social divisions between different levels of membership.",
+      "May": "Option C might be too complex for new members to understand.",
+      "Shunichi": "Option A might feel unfair to those who rarely attend."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Minato": "I think the administrative simplicity of Option A is crucial.",
+      "Ryuji": "I agree, the financial predictability is essential.",
+      "Minako": "I am worried about the social impact of Option A, but I see the practical need.",
+      "May": "I prefer Option B for engagement, but I understand the administrative concerns.",
+      "Shunichi": "I prefer Option C for fairness, but I acknowledge the complexity."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Minato": "I will vote for Option A.",
+      "Ryuji": "I will vote for Option A.",
+      "Minako": "I will vote for Option B.",
+      "May": "I will vote for Option B.",
+      "Shunichi": "I will vote for Option C."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Ryuji": "Ryuji is focused on financial stability and predictability. He argues that the club's fixed costs require a reliable income stream and that guesswork is dangerous. His view remains consistent throughout, prioritizing data-driven decisions and long-term financial health over short-term member preferences.",
+  "Minato": "Minato is concerned with the administrative burden on the treasurer. He argues that the current system is too time-consuming and that a simpler method is needed to prevent burnout. His view is driven by a desire to make the role sustainable for whoever takes it on next.",
+  "May": "May is focused on member engagement and the decline in attendance. She argues that the current structure may be discouraging people from participating regularly. Her view is driven by a desire to make the club more appealing and less intimidating for members who are hesitant to commit.",
+  "Shunichi": "Shunichi is concerned with fairness and the distribution of effort. He argues that the current system is inequitable, with a few people doing most of the work while others pay the same. His view is driven by a desire to create a system that reflects the actual value members receive from the club.",
+  "Minako": "Minako is focused on social cohesion and the welcoming nature of the club. She argues that the new structure should not create divisions or make newcomers feel unwelcome. Her view is driven by a desire to maintain the inclusive atmosphere that has held the club together in the past."
+ },
+ "final": {
+  "adopted": "A"
+ },
+ "setup_id": "shared_living_0016",
+ "granularity": "turn",
+ "repairs": [],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T16:50:05+00:00",
+  "attempts": 2,
+  "max_attempts": 4,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793292605,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-b80178b12eefc895",
+      "object": "model_permission",
+      "created": 1793292605,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}

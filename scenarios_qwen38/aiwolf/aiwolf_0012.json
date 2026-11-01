@@ -1,0 +1,192 @@
+{
+ "periods": [
+  {
+   "period": 0,
+   "public": "Participants introduce themselves and establish a baseline for trust. The group discusses the importance of observing behavior patterns and logical consistency in statements. No specific individuals are targeted, and the focus remains on setting ground rules for the upcoming days.",
+   "votes": {},
+   "executed": null,
+   "divine": "Shion",
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Midori": "I value harmony and will listen carefully to everyone's points.",
+      "Rin": "I'm excited to start! Let's keep things fun and fair.",
+      "Sakura": "I love a good mystery, so I'll be watching closely.",
+      "Shion": "Logic is key. I will observe before I act.",
+      "Benjamin": "Let's proceed with rationality and respect."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Midori": "Agreed. We should avoid jumping to conclusions.",
+      "Rin": "Exactly! I have a feeling someone is hiding something.",
+      "Sakura": "Hiding what? I'm just here for the adventure!",
+      "Shion": "Curiosity is good, but evidence is better.",
+      "Benjamin": "Indeed. Let's keep our observations neutral for now."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Midori": "I will try to remain calm and supportive.",
+      "Rin": "I'm ready to help anyone who needs it!",
+      "Sakura": "I might play a prank later, just to test reactions.",
+      "Shion": "A prank? That could be useful data.",
+      "Benjamin": "Or a distraction. We'll see."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Midori": "Let's end the day on a positive note.",
+      "Rin": "Goodnight everyone! See you tomorrow.",
+      "Sakura": "Sweet dreams! Or not, if you're guilty.",
+      "Shion": "Rest well. The next day will be revealing.",
+      "Benjamin": "Goodnight. Let's hope for clarity."
+     }
+    }
+   ]
+  },
+  {
+   "period": 1,
+   "public": "The group discusses the initial observations from the previous night. Participants share their impressions of each other's demeanor and consistency. The conversation focuses on identifying any inconsistencies in behavior or statements. The group weighs the reliability of each person's narrative before making a decision.",
+   "votes": {
+    "Midori": "Sakura",
+    "Rin": "Sakura",
+    "Sakura": "Shion",
+    "Shion": "Sakura",
+    "Benjamin": "Sakura"
+   },
+   "executed": "Sakura",
+   "divine": null,
+   "attack": null,
+   "turns": [
+    {
+     "turn": 1,
+     "lines": {
+      "Midori": "I noticed some tension in the group last night.",
+      "Rin": "I felt like someone was being a bit too quiet.",
+      "Sakura": "Quiet? I was just thinking hard!",
+      "Shion": "Thinking is good. But why the sudden change in tone?",
+      "Benjamin": "Changes in tone can be significant."
+     }
+    },
+    {
+     "turn": 2,
+     "lines": {
+      "Midori": "I think we should focus on consistency.",
+      "Rin": "Yes! I noticed one person's story didn't quite match.",
+      "Sakura": "Whose story? I was telling the truth!",
+      "Shion": "Let's not guess. Let's look at the facts.",
+      "Benjamin": "Facts, yes. But also context."
+     }
+    },
+    {
+     "turn": 3,
+     "lines": {
+      "Midori": "I am concerned about the lack of clear evidence.",
+      "Rin": "But we have to make a choice, right?",
+      "Sakura": "I don't think we should rush to judgment.",
+      "Shion": "Rushing is dangerous. But inaction is also risky.",
+      "Benjamin": "We need to balance caution with action."
+     }
+    },
+    {
+     "turn": 4,
+     "lines": {
+      "Midori": "I will vote based on my gut feeling.",
+      "Rin": "Me too! I trust my instincts.",
+      "Sakura": "I hope you're right. I really don't want to be wrong.",
+      "Shion": "We will see. The vote will speak for itself.",
+      "Benjamin": "Let's proceed with the vote."
+     }
+    }
+   ]
+  }
+ ],
+ "seats": {
+  "Rin": "Rin is energetic and eager to participate, often expressing excitement and curiosity. She tries to build alliances and show her helpful side, but her enthusiasm sometimes comes across as overly eager or defensive.",
+  "Shion": "Shion is calm and calculating, focusing on logic and consistency. He observes others closely and uses their reactions to form his opinions. He remains detached and analytical throughout the discussion.",
+  "Sakura": "Sakura is cheerful and mischievous, often using humor to deflect suspicion. She tries to appear innocent and friendly, but her playful nature sometimes raises questions about her motives.",
+  "Midori": "Midori is calm and kind, focusing on harmony and balance. She listens carefully and offers supportive advice, but her reserved nature sometimes makes her seem hesitant or unsure.",
+  "Benjamin": "Benjamin is intelligent and rational, focusing on logic and evidence. He remains calm and composed, using his observations to form his opinions. He is polite and respectful, but his analytical nature sometimes makes him seem distant."
+ },
+ "final": {
+  "winner": "VILLAGE"
+ },
+ "setup_id": "aiwolf_0012",
+ "granularity": "turn",
+ "repairs": [
+  "period 1: dropped divine after the deciding execution",
+  "period 1: dropped attack after the deciding execution",
+  "period 1: dropped 1 period(s) after the deciding execution"
+ ],
+ "source": {
+  "generated_by": "scripts/gen_scenarios.py",
+  "model": "qwen3.8-27b",
+  "generated_at": "2026-10-29T17:57:39+00:00",
+  "attempts": 5,
+  "max_attempts": 8,
+  "max_tokens": 4096,
+  "granularity": "turn",
+  "sampling": {
+   "temperature": 0.0,
+   "top_p": null,
+   "top_k": null,
+   "max_tokens": {
+    "multi_talk": 1024,
+    "multi_vote": 64,
+    "multi_action": 64,
+    "single_full": 16384
+   },
+   "timeout_s": 1800.0,
+   "logprobs": true
+  },
+  "served": {
+   "model_info": {
+    "id": "qwen3.8-27b",
+    "object": "model",
+    "created": 1793296659,
+    "owned_by": "vllm",
+    "root": "Qwen/Qwen3.8-27B",
+    "parent": null,
+    "max_model_len": 20480,
+    "permission": [
+     {
+      "id": "modelperm-a6faa4fc813528a2",
+      "object": "model_permission",
+      "created": 1793296659,
+      "allow_create_engine": false,
+      "allow_sampling": true,
+      "allow_logprobs": true,
+      "allow_search_indices": false,
+      "allow_view": true,
+      "allow_fine_tuning": false,
+      "organization": "*",
+      "group": null,
+      "is_blocking": false
+     }
+    ]
+   },
+   "vllm_version": "0.21.1rc1.dev125+g73dd2f33b",
+   "model_root": "/home/yharada/.cache/huggingface/hub/models--Qwen--Qwen3.8-27B/snapshots/1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "hf_revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+   "chat_template_sha1": "08a763ee5e339981deac7c2761751798f063e444",
+   "config_sha1": "cb7a59a253327c6ffd92cf85afa273c2ace6b6ac",
+   "server_config": null
+  },
+  "code_sha1": {
+   "gen_scenarios.py": "b452d8803911d664213959875968a3cfae0410f8",
+   "scenario_request.jinja": "26c275a0995ce75a79cafef77bb183afe95a76ff",
+   "common/scenario.py": "dd61d6937799fb014127d7dbe18af6698e477215",
+   "common/prompts/scenario.jinja": "620b434735026143bf895a6ff523a7d62d651d76"
+  },
+  "code_tree": {
+   "sha1": "39ffadb96c9389566dc66cee76d910533e438f9c",
+   "files": 97
+  }
+ }
+}
